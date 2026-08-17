@@ -2138,7 +2138,7 @@ Three of those were added by running the consequence test on eight fictional act
 
 ## L25 · Transient-to-Persistent conversions — PENDING · BLOCKING
 
-**OPEN DECISION — does the packet handed to Landing carry the contributor breakdown, or only the combined totals?**
+**SETTLED (plumbing, not a design choice) — the packet handed to Landing carries the contributor breakdown, not just the combined totals.**
 
 Worked example. A Setting lands `vitality` two ways: every surviving point reduces a `health` Resource, **and** a single landing over 10 applies the State `maimed`.
 
@@ -2154,9 +2154,11 @@ The two readings are different games. **Sum** means three small attackers can ma
 
 The Threshold aggregation modes (`sum`, `highest`, `each`) already exist as vocabulary — but they were settled for Thresholds *earlier in the lattice*, where contributors are still separate. Landing is downstream of R-1000.
 
-**Recommendation: carry the contributor list into Landing.** Three reasons. R-850 already operates per contributing source, so the breakdown exists inside the lattice anyway and is not new work. The Resolution Record is already required to make every slot derivable, so it is already being written down. And the field's best landing mechanisms — GURPS's major wound, Mythras's Serious/Major wounds, Blades' harm levels — all read **highest**, so refusing it would rule out most of the good precedents.
+**Why this needed no decision.** Critical hits and armour-piercing wounds work this way in every published game; a Landing that cannot see individual blows cannot express them. R-850 already operates once per contributing source so the breakdown exists inside the lattice anyway, and the Resolution Record is already required to make every slot derivable, so it is already being written down. This was briefly written up as a fork in the road; it was not one.
 
-**The cost of saying yes:** the Landing Component becomes order-sensitive and needs its sort key stated in its SPEC, and the packet is bigger. **The cost of saying no:** `highest` and `each` are simply unavailable at Landing, forever.
+**The cost, which is real but small:** the Landing Component becomes order-sensitive and must state its sort key in its SPEC.
+
+**The playtest note worth carrying, which is the part that actually matters.** A rule that reads `highest` — triggering off the single biggest blow — pushes players toward one huge attack instead of several small ones. Mythras ships 40-odd special effects and players converge on the three that exist to shove one hit over a bar. This is not a reason to forbid `highest`; it is a reason to expect it in the numbers, and the Landing Vocabulary should say so where an author will read it.
 
 **Research: `lists-research.md` §4.** Eleven landing models are catalogued there, with a proposed model for each of the fourteen Dimensions and a precedent for each. The three findings that change the shape of this list: the universal architecture in the field is **buffer → convert → name** (so the buffer belongs to the Landing Component and is never durable); **nothing uses an ablative pool for a capability axis**, which splits the physical block cleanly; and **the social axes never land on the target** — they land on a Connection or a public accumulator.
 
