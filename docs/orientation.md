@@ -224,7 +224,7 @@ This section used to be about **Periods** — a bounded unit of time that Record
 
 **There is only the Moment.** A named point in the timeline that something can be pinned to. A turn is a Moment. So is the end of a round, the close of a downtime week, and the turn of a season. They are the same object at different grains.
 
-**Which Moments exist is not the Substrate's business.** It is published by whatever Component is running time — the **Time Socket**, in the vocabulary of §3.6A below. That matters more than it sounds: cadence was going to be a foundation bet, and it became a swap. A weekly play-by-post table and a live table running turn by turn are the same Substrate with different occupants in that hole.
+**Turn and round are the Substrate's business; anything coarser is not.** *(Amended Aug 2026 — this used to say Time was a Socket.)* The Substrate ships the turn model a turn-based game needs so that abilities can be written and understood, and Components layer coarser clocks — downtime weeks, seasons, campaign turns — alongside it. A weekly play-by-post table and a live table running turn by turn share the same Substrate turn model with a different coarse clock over it, and content written for one does not have to be compatible with content written for the other, because they never meet.
 
 **Nothing runs on a wall clock.** A Moment gets stamped with a tick when it actually occurs, and that stamp is what makes replay exact. Real time exists for humans — deadlines, notifications, *"you have until Sunday"* — and never reaches the rules.
 
@@ -293,7 +293,7 @@ Not "each Verb defines its own arguments." One shape, for all of them, forever:
 | **class** | why this change exists (next section) |
 | **layer** | where it sits in the ordering (§4.4) |
 
-**Direction and magnitude** is the vector idea from the damage system, applied to everything. Fire hitting a person is a direction (thermal) and a magnitude (how much). A reputation hit, a coin transfer, a clock advancing — all the same two questions: *what is being pushed on*, and *how hard*. Harm just happens to be the case where the direction lives in the physical space.
+**Direction and magnitude** is the vector idea from the damage system, applied to everything. Fire hitting a person is a direction (temperature) and a magnitude (how much). A reputation hit, a coin transfer, a clock advancing — all the same two questions: *what is being pushed on*, and *how hard*. Harm just happens to be the case where the direction lives in the physical space.
 
 **Exactly one primary target** means a Verb hitting three people is three records, not one record you have to unpack later. "Who did this happen to" becomes a lookup instead of an interpretation.
 
@@ -762,7 +762,7 @@ Using these words exactly, in conversation and in code, is what removes ambiguit
 | **Table** | The people | The game state |
 | **Moment** | A named point a vector can be pinned to. The only unit of time | A short while |
 | **Session** | A marker for a live gathering; carries no rules | A login session |
-| **Budget** | A Socket. Its Economy Unit *names* are Substrate | Money |
+| **Doubloon** | The atomic Economy Unit. Substrate, integer, no denominations | Money — that is a Resource in a Component |
 | **Proposal** | A pending action awaiting resolution | A suggestion |
 | **Decider** | Who resolves a Proposal | The GM specifically |
 | **Rails** | The per-Component setting of who the Decider is | Railroading |
@@ -835,7 +835,7 @@ Some patterns that will get you what you want, given the structure:
 14. **English first.** No localization anywhere in the design.
 15. **Settings are fictional.** Nothing accommodates historical, educational, or corporate-training use.
 16. **No real money inside the fiction.** No gambling, no player-to-player trading of value.
-17. ~~**Period cadence is on the order of a week.**~~ **Void.** Period is retired; cadence belongs to the Time Socket occupant, and Moments span a turn to a season.
+17. ~~**Period cadence is on the order of a week.**~~ **Void.** Period is retired. Turn and round are Substrate; coarser cadence is a Component.
 18. **A person can be in multiple Campaigns simultaneously**, which affects notification design.
 
 ## About the business
@@ -863,7 +863,7 @@ Some patterns that will get you what you want, given the structure:
 
 1. **The Capacity set (L29)** — the most load-bearing list remaining. It is simultaneously what a character is made of *and* the axes an attempt is split across.
 2. **Dimension Spaces, their Dimensions, and the Channels placed in them (L21–L23).**
-3. **The Socket list (L27) and the Economy Units (L28).** Every spell ever written depends on the second.
+3. **L32 Moment kinds and L31 Timings.** Every ability ever written depends on both. *(L27 and L28 were here; both settled in shape in Aug 2026.)*
 4. **How many Allocation Points, and where they come from.** Five is a placeholder with nothing behind it.
 5. **A ceiling on summed Baseline shares**, and whether it shares Enhancement Capacity's budget.
 6. **The Listener cascade limit, the behaviour at the limit, and the evaluation order when several fire at once.** The third is a determinism hazard.
@@ -889,7 +889,7 @@ The original list follows, annotated.
 
 ## Structural — needed early
 
-**5. ~~Does Visibility depend on current membership?~~ DISSOLVED.** Perception is retired, Delivery defaults to everyone, and there is one Fold. In its place: **the Socket list (L27) and the Economy Units (L28)**, both blocking, and every spell ever written depends on the second.
+**5. ~~Does Visibility depend on current membership?~~ DISSOLVED.** Perception is retired, Delivery defaults to everyone, and there is one Fold. In its place: **L32 Moment kinds and L31 Timings**, both blocking, and every ability ever written depends on both.
 
 **6. ~~Fixed-point precision.~~ ANSWERED.** One global scale, four decimal places — store `125000`, meaning 12.5.
 
@@ -923,4 +923,4 @@ The original list follows, annotated.
 
 **19. How do the six settings sequence?** The plan assumes one at a time. Which one first, and on what basis — the one that best demonstrates the impossible-on-paper mechanics, or the one with the broadest audience? Those probably differ.
 
-**20. What happens to a Campaign nobody has touched in a year?** Does the Time Socket keep publishing Moments? Does it hibernate? This affects notification design, storage cost, and whether returning to an abandoned campaign is a pleasant surprise or a wall of unread Dispatches.
+**20. What happens to a Campaign nobody has touched in a year?** Do Moments keep occurring? Does it hibernate? This affects notification design, storage cost, and whether returning to an abandoned campaign is a pleasant surprise or a wall of unread Dispatches.

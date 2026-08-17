@@ -337,13 +337,13 @@ One mechanism, six features: rails dial, puppeting, GM-less, hybrid Adventures, 
 
 ### 4.7 Time — see `dictionary.md` Part 2B
 
-**Period is retired.** There is only the **Moment**, and which Moments exist is published by the **Time Socket** — a turn, a round, a downtime week and a season are the same thing at different grains.
+**Period is retired.** There is only the **Moment** — a turn, a round, a downtime week and a season are the same thing at different grains. **Turn and round are Substrate; anything coarser is a Component**, layered alongside and never replacing.
 
 Two architectural consequences worth stating here rather than there:
 
 **No wall clock reaches the game.** A Moment is stamped with a tick when it actually occurs, and that stamp is what makes replay exact. Real time exists only for humans — deadlines, notifications, "you have until Sunday" — and never enters the Fold.
 
-**Cadence is a Component decision, which lowers the cost of being wrong about it.** A weekly async table and a live table running turn-by-turn are the same Substrate with different Time Socket occupants. The thing that would have been a foundation bet is a swap.
+**Cadence above the round is a Component decision, which lowers the cost of being wrong about it.** A weekly async table and a live table running turn-by-turn share the same Substrate turn model with a different coarse clock layered over it. *(Amended Aug 2026: this used to say Time was a Socket. It is not — see `dictionary.md` Part 1, *Why Time and Budget are not Sockets*.)*
 
 ---
 
@@ -1224,7 +1224,7 @@ Deliberately unresolved. Each is a real decision, not a placeholder.
 
 3. **How many Allocation Points, and where they come from.** Five is a placeholder with nothing behind it; the natural home is a Capacity — *capacity to divide attention*. Also open: a ceiling on summed Baseline shares, and whether it shares Enhancement Capacity's budget.
 
-3a. **The Ruleset's default policy for entering Ordered time.** Entry belongs to the Time Socket, not the Substrate — three Substrate rules were tried and each failed on a real case. Leading candidate: *a vector placed on an unwilling target*.
+3a. **The Ruleset's default policy for entering Ordered time.** Entry belongs to base Ruleset, not the Substrate — three Substrate rules were tried and each failed on a real case. Leading candidate: *a vector placed on an unwilling target*.
 
 3b. **The Listener cascade limit, the behaviour at the limit, and the evaluation order across simultaneously-satisfied Listeners.** The third is a determinism hazard of the same severity as aggregation order.
 
@@ -1232,7 +1232,7 @@ Deliberately unresolved. Each is a real decision, not a placeholder.
 
 4. **Tier 2 sandbox choice.** Deferred until a Component needs it. Whatever it is must run the same compiled artifact in browser and server.
 
-5. **The Socket list itself (L27) and the Economy Units (L28).** Both blocking; every spell and ability ever written depends on the second.
+5. **The Socket list (L27, now three) and the Economy (L28).** Both settled in shape as of Aug 2026; L31 Timings and L32 Moment kinds replaced them as the blocking pair.
 
 6. **What is the free artifact a stranger encounters?** Everything in §16 monetizes people who already play; nothing acquires anyone. Components and Asset instances are the most demonstrable things in the design and the best candidates, but this is unanswered — and the field survey is unambiguous that distribution, not product, is the binding constraint.
 

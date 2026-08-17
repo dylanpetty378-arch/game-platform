@@ -28,7 +28,7 @@ Severity is *how much damage if unaddressed*. Cost-to-fix-later is *what it take
 | A5 | Cross-scene simultaneity permits a genuine double-spend on shared Resources | **High** | Substrate-adjacent; needs a rule that does not exist |
 | A6 | The direction vector does not actually sum to 1 in fixed point; apportionment is unspecified | **High** | Determinism bug; cheap now, an Edition break later |
 | A7 | "Two fixed-point numbers are never multiplied" is false at R-900 | **High** | Cheap now; a second rounding point is an Edition break later |
-| A8 | Turn position, not tactics, decides how much damage a creature takes | **High** | Time Socket occupant — swappable, but every content piece is written against it |
+| A8 | Turn position, not tactics, decides how much damage a creature takes | **High** | Base Ruleset turn order — versionable, but every content piece is written against it |
 | A9 | Comprehension load: 8 axes × hidden bars × a 26-slot pipeline is past every documented tolerance | **High** | Not fixable by code; fixable only by Lens design and by cutting |
 | A10 | Shaping's three forms do not commute and no order is declared | **High** | Cheap now; a determinism hazard the moment two items exist |
 | A11 | Threshold authoring burden: every improvised object needs 8 numbers, not one DC | **High** | Design-level, not code; but it is what kills crunchy systems |
@@ -115,14 +115,14 @@ So the entire tension of the headline mechanic rests on GMs and content authors 
 **The design's own showcase is the exploit.** From Part 2A:
 
 ```
-a cold bolt arrives, magnitude 8              thermal −8
-its own fire aura is present, magnitude 5     thermal +5
-R-800 combine                                 thermal −3
-R-900 guard: 100% thermal-POSITIVE            does not apply
+a cold bolt arrives, magnitude 8              temperature −8
+its own fire aura is present, magnitude 5     temperature +5
+R-800 combine                                 temperature −3
+R-900 guard: 100% temperature-POSITIVE            does not apply
                                               takes 3 cold
 ```
 
-The elemental is a **standing durable fire aura** plus a **polarised 100% Guard on thermal-positive**. Two ordinary objects. Note what each does: the Guard makes the aura harmless to its owner, and the aura provides 5 points of free cancellation on the thermal axis, **every Moment, forever, before Guards, unmetered**.
+The elemental is a **standing durable fire aura** plus a **polarised 100% Guard on temperature-positive**. Two ordinary objects. Note what each does: the Guard makes the aura harmless to its owner, and the aura provides 5 points of free cancellation on the temperature axis, **every Moment, forever, before Guards, unmetered**.
 
 **Generalise it.** Nothing in the Substrate stops a character carrying one such pair per Dimension. With the L21/L22 physical Space at, say, six Dimensions:
 
@@ -142,7 +142,7 @@ Result: **you cancel 5 of every incoming Dimension every Moment before anything 
 1. **A Capacity for it.** *Capacity to sustain standing vectors* — a count and/or a summed-magnitude ceiling on self-scoped standing vectors, evaluated at E-500 and clamped at a new slot around **R-750**, between resolve and combine. Reserve the slot now even if the number is left at "unbounded" for v1. Reserving a slot costs nothing; needing one later costs an Edition.
 2. **Forbid self-scoped standing vectors from participating in R-800 combination**, and route them through a Guard-shaped slot instead. Cleaner, and it costs the fire elemental its elegance.
 3. **Make the polarised-Guard-plus-aura pair a single authored preset** with its own bookkeeping, so the pair cannot be replicated across Dimensions. Weakest option; it is a special case at the Substrate layer, which CLAUDE.md rule 7 forbids.
-4. **Charge for it in the Budget Socket** — a standing vector reserves an Economy Unit while it stands. This is the most in-keeping fix (bound by economy, not by an engine limit — the same move as `repin`), and it is cheap. Probably the right answer.
+4. **Charge for it in doubloons** — a standing vector keeps doubloons `committed` while it stands. This is the most in-keeping fix (bound by economy, not by an engine limit — the same move as `repin`), and it is cheap. Probably the right answer.
 
 ---
 
@@ -156,8 +156,8 @@ Result: **you cancel 5 of every incoming Dimension every Moment before anything 
 
 | Channel | Direction | Magnitude | Per-Dimension after flat Guard 3 | Total |
 |---|---|---|---|---|
-| `fire` | thermal 1.0 | 10 | 10−3 = 7 | **7** |
-| `lightning` | thermal 0.3 / kinetic 0.7 | 10 | 0 and 4 | **4** |
+| `fire` | temperature 1.0 | 10 | 10−3 = 7 | **7** |
+| `lightning` | temperature 0.3 / integrity 0.7 | 10 | 0 and 4 | **4** |
 | a 3-way even Channel | 1/3 each | 10 | 0.33 each | **1** |
 
 Same magnitude. Fire delivers **7×** what an evenly-spread Channel delivers. Lightning delivers 57% of fire.
@@ -176,7 +176,7 @@ Same magnitude. Fire delivers **7×** what an evenly-spread Channel delivers. Li
 **Options.**
 
 1. **Make flat Guards act on the Packet's total, not per Dimension**, allocated back across Dimensions proportionally to the resolved values. One subtraction, order-free, deterministic. Kills the dominance entirely. Costs: "over-penetration falls out of the arithmetic with no special rule" becomes "over-penetration is a proportional allocation", which is slightly less pretty and just as deterministic.
-2. **Keep per-Dimension flat Guards but scale them by the Channel's share on that Dimension.** A Guard of 3 against a 0.3-thermal Channel removes 0.9. Restores neutrality; requires a fixed × fixed multiply (see A7 — which already exists anyway).
+2. **Keep per-Dimension flat Guards but scale them by the Channel's share on that Dimension.** A Guard of 3 against a 0.3-temperature Channel removes 0.9. Restores neutrality; requires a fixed × fixed multiply (see A7 — which already exists anyway).
 3. **Ban universal flat Guards; make flat Guards always Dimension-named.** Cheapest, and it is a content rule not an engine rule, but it fights the additive-only argument in the decisions log.
 4. **Accept it and make it the design.** Pure Channels are "focused" and cheap; mixed Channels are "broad" and used for coverage against named resistances. State it explicitly so authors know what they are buying. This is defensible but it means the interior of the Dimension Space is decorative.
 
@@ -319,14 +319,14 @@ A **17% defensive swing that is purely a function of where you sit in initiative
 
 **How bad.** High. It makes turn order a bigger lever than any tactical decision, and it does so invisibly — a player will feel it long before anyone can name it.
 
-**When it becomes expensive.** The default anchor is Time Socket behaviour and therefore swappable in principle. In practice every spell, ability and monster will be written against it, so swapping is Edition-level.
+**When it becomes expensive.** The default anchor is base Ruleset behaviour and therefore versionable in principle. In practice every spell, ability and monster will be written against it, so swapping is Edition-level.
 
 **Options.**
 
 1. **Make flat Guards per-vector rather than per-combined-total** — move them to the C/R vector region. This inverts the incentive (spreading becomes better) and breaks *"damage cancels before it reaches the target"*, which is a rule the design cares about a lot. Probably not.
 2. **Make flat Guards a per-Moment budget rather than a per-resolution subtraction** — the Guard has a pool that refreshes per round, spent as damage arrives. Removes the ordering dependence, adds a pool, and is exactly the "depleting reactive standing vector" the design already names.
-3. **Make flat Guards proportional-only** and put all flat reduction into R-900 percentages. Simplest; removes the whole class of problem; costs the "plate armour: kinetic 3" idiom.
-4. **Own it.** Declare that concentrating fire is supposed to be strong and that turn position is supposed to matter defensively, and make Time Socket occupants that randomise or rotate order. This is the cheapest and it needs to be *said*, loudly, in the design docs, or it will be discovered as a bug.
+3. **Make flat Guards proportional-only** and put all flat reduction into R-900 percentages. Simplest; removes the whole class of problem; costs the "plate armour: integrity 3" idiom.
+4. **Own it.** Declare that concentrating fire is supposed to be strong and that turn position is supposed to matter defensively, and ship base-Ruleset turn orders that randomise or rotate. This is the cheapest and it needs to be *said*, loudly, in the design docs, or it will be discovered as a bug.
 
 ---
 
@@ -662,7 +662,7 @@ The seven-day eviction is the one that matters: **a player who does not open the
 
 ## A24 · Threshold riders punch through universal flat Guards — **Medium · CLOSED, accepted**
 
-**Overstated on first report, and re-worked.** The rider is not free: against armour 3 it costs 0 kinetic at magnitude 6, 1 at 10, 2 at 20 and 5 at 50, and heavy armour blocks it outright — `[20 kinetic, 1 vital]` against armour 15 lands `[6, 0]`. The behaviour is also right in fiction: armour that failed to stop the wound should not stop what was on the blade. **Accepted, with the promise written down explicitly: "armour 3" means *reduces any incoming packet by 3*, not *immune to 3 or less on any axis*.**
+**Overstated on first report, and re-worked.** The rider is not free: against armour 3 it costs 0 integrity at magnitude 6, 1 at 10, 2 at 20 and 5 at 50, and heavy armour blocks it outright — `[20 integrity, 1 vital]` against armour 15 lands `[6, 0]`. The behaviour is also right in fiction: armour that failed to stop the wound should not stop what was on the blade. **Accepted, with the promise written down explicitly: "armour 3" means *reduces any incoming packet by 3*, not *immune to 3 or less on any axis*.**
 
 Proportional redistribution can almost never zero a small Dimension sitting beside a large one, so a low-bar trigger stapled to a big hit is unblockable.
 
@@ -670,11 +670,11 @@ Proportional redistribution can almost never zero a small Dimension sitting besi
 target: universal flat Guard 5      bar: "poisoned at vital >= 1"
 
   vital 1 alone                 → vital 0        blocked
-  vital 1 + kinetic 10          → vital 1, kinetic  5     (kinetic alone: 5)
-  vital 1 + kinetic 1000        → vital 1, kinetic 995    (kinetic alone: 995)
+  vital 1 + integrity 10          → vital 1, integrity  5     (integrity alone: 5)
+  vital 1 + integrity 1000        → vital 1, integrity 995    (integrity alone: 995)
 ```
 
-The rider costs the attacker **nothing** — the kinetic part lands exactly what it would have landed alone. Under the old per-Dimension rule both were stopped.
+The rider costs the attacker **nothing** — the integrity part lands exactly what it would have landed alone. Under the old per-Dimension rule both were stopped.
 
 **Why it matters.** Generic toughness now protects totals and cannot protect any *trigger*. Every status effect and every low-bar consequence becomes unblockable by armour. And *"a Guard covering all Dimensions covers new ones too"* is now false in the way that matters: a Dimension added in year five is threshold-undefendable by every Guard that already exists.
 
@@ -704,7 +704,7 @@ A thousand axe blows of 9 do nothing; one blow of 900 does 90. It is also a step
 
 ## A26 · Guards applied once per Moment — **High · CLOSED, fixed**
 
-**Both halves fixed, and the pipeline changed to do it.** A **flat Guard now acts once per contributing source** at R-850 — five bandits at 10 land 35 rather than 47, eight land 56 rather than 77. **Cancellation moved to R-1000**, between flat and proportional Guards, so the fire elemental is unchanged: a cold bolt of 8 still meets its own aura of 5 and combines to 3 before the thermal-positive Guard is consulted. And **restoration became its own analysis at R-1250** — on persistent state, after harm has fully landed. It is not a Guard, not a vector in the harm Space, and not the undoing of a blow: no Guard touches it, it never cancels incoming harm, and a simultaneous heal and a delayed heal come out identical, which kills the free timing exploit.
+**Both halves fixed, and the pipeline changed to do it.** A **flat Guard now acts once per contributing source** at R-850 — five bandits at 10 land 35 rather than 47, eight land 56 rather than 77. **Cancellation moved to R-1000**, between flat and proportional Guards, so the fire elemental is unchanged: a cold bolt of 8 still meets its own aura of 5 and combines to 3 before the temperature-positive Guard is consulted. And **restoration was moved to R-1250** — still an ordinary vector with a negative magnitude, just resolving after harm has landed. Because R-850 and R-1050 are behind it by then, no Guard can reach it and it cannot cancel incoming harm; both fall out of the layer choice rather than being written as exceptions. A simultaneous heal and a delayed heal now come out identical, which kills the free timing exploit.
 
 Guards act once per target per Moment, and the default anchor already synchronises everyone on the target's turn.
 
@@ -831,7 +831,7 @@ The R-750 case was a genuine degeneracy: at a Scale gap, deliberately *failing* 
 Named and universal flat Guards do not commute, and Part 2A said order within R-1000 was irrelevant.
 
 ```
-[thermal 2, kinetic 8], named kinetic 6, universal 6
+[temperature 2, integrity 8], named integrity 6, universal 6
   named first      → [0, 0]    total 0
   universal first  → [1, 0]    total 1
 
@@ -879,7 +879,7 @@ Make that the entire crafting system: **a crafting attempt's magnitude becomes t
 
 So: a "tempo" character who *scatters* incoming blows across several of an ally's turn starts to maximise Guard applications, and *gathers* the party's outgoing blows onto one enemy Moment to minimise the enemy's. Same Verb, opposite directions, both tactically deep. A defensive `repin` and an offensive `repin` are the same ability used two ways.
 
-**Machinery.** `repin`, an Economy Unit as the named cost, flat Guards at R-1000. Nothing new.
+**Machinery.** `repin`, a cost in doubloons, flat Guards at R-850. Nothing new.
 
 **Cost.** One Component, and a strong argument for keeping flat Guards per-resolution even given A8 — because A8's defect is this idea's mechanic. Choose deliberately.
 
@@ -950,7 +950,7 @@ This is the hybrid answer to A12. Bars stay hidden at declaration, so the tensio
 
 **What it is.** A15/A14's fix, stated as a feature. A Listener reads `overflow` from the Resolution Record and places a new vector:
 
-- an over-amplified gun emits an area thermal vector and gains an `overheating` State;
+- an over-amplified gun emits an area temperature vector and gains an `overheating` State;
 - an over-helped lock **jams**, and the noise vector goes out to the corridor;
 - an over-enhanced ritual produces a wild vector on an adjacent Channel — chosen by position in the Dimension Space, so it is *derived*, not authored.
 
@@ -968,7 +968,7 @@ That last one is the good bit: **"what goes wrong" can be computed from where th
 
 This does three things at once: it removes the async land-grab, it gives absent players a way to be involved (a Standing Order can bid), and it makes Participation Capacity a *market* rather than a queue.
 
-**Machinery.** Proposal + Decider `Auto` + Budget Socket. Explicitly permitted — *"a table vote is `Auto`"* is the same shape.
+**Machinery.** Proposal + Decider `Auto` + the economy. Explicitly permitted — *"a table vote is `Auto`"* is the same shape.
 
 **Cost.** One Component.
 
@@ -988,7 +988,7 @@ This does three things at once: it removes the async land-grab, it gives absent 
 
 ## B10 · Terrain, weather and rooms as standing vectors
 
-**What it is.** A rainstorm is a standing thermal-negative vector with an area scope and a `while it rains` window. A forge is thermal-positive. A cold cellar preserves things. A shrine is a positive vector in the social/knowledge Space.
+**What it is.** A rainstorm is a standing temperature-negative vector with an area scope and a `while it rains` window. A forge is temperature-positive. A cold cellar preserves things. A shrine is a positive vector in the social/knowledge Space.
 
 Then: fighting in the rain **cancels part of every fire attack**, with no weather rules, no environmental modifiers table, and no lookup. And the fire mage's counterplay is obvious and fictional — get indoors.
 
@@ -1093,8 +1093,8 @@ Each of these is a design that already exists, is well-tested, and lands directl
 | **Special-effect menus** | Mythras | Thresholds declared by the weapon rather than by the system. Note the cautionary half — see A9. |
 | **Structure / stress damage tables** | Lancer | Listener on a Resource threshold placing a triggered vector. |
 | **Raise / See** | Dogs in the Vineyard | Two opposed vectors at a shared Moment. Falls out of combination. |
-| **Card-driven initiative** | Gloomhaven | A Time Socket occupant that publishes Moments from committed choices. A drop-in alternative occupant, which is a good early proof that the Socket abstraction works. |
-| **Simultaneous written orders** | Diplomacy, play-by-mail | Another Time Socket occupant, and probably the *right* one for the asynchronous mode — it is the only initiative system in existence designed for players who are not in the same room or the same day. |
+| **Card-driven initiative** | Gloomhaven | A base-Ruleset turn order produced from committed choices. Since only *how order is produced* is Ruleset, this is a drop-in alternative. |
+| **Simultaneous written orders** | Diplomacy, play-by-mail | Another base-Ruleset turn order, and probably the *right* one for the asynchronous mode — it is the only initiative system in existence designed for players who are not in the same room or the same day. |
 | **Oracles / "ask the oracle"** | Ironsworn | A Decider of kind `Auto` reading the counter-based PRNG. This is the GM-less tier, already required by §4.3A as the automated escape valve. |
 | **Seasons + a shared Covenant** | Ars Magica | The cadence Moment plus a shared Entity that rewards feed. Forty years of evidence that "the reward feeds the shared thing" sustains a campaign — directly relevant to `orientation.md` §11.2's doubt about non-capability rewards. |
 | **Beliefs / Instincts** | Burning Wheel | An Instinct is *literally a Standing Order*: a player-authored condition→response. The mechanic already exists in print and is beloved; this design can execute it. |

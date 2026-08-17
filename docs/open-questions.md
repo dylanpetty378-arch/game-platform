@@ -78,13 +78,13 @@ Currently five: Time, Place, Resolution, Landing, Budget.
 
 ---
 
-## Q2.4 · What are the Economy Units?
+## Q2.4 · What is the Economy? — **ANSWERED IN PRINCIPLE, Aug 2026**
 
-The *names* a cost can be denominated in — `action` and whatever else. Substrate, because every spell ever written depends on them; the economics belong to the Budget Socket.
+**One atomic unit, the doubloon**, and a cost of at least three fields — `cost`, `timing`, `cap`. Substrate, because every ability ever written depends on both. There is no denomination ladder: a size vocabulary beside a timing vocabulary made authoring roundabout. How many doubloons you get and when they refresh is base Ruleset. Still open: the allowance, and whether a second non-convertible unit is ever needed.
 
 **The trap.** *Bonus action* is economics wearing a unit's costume. A unit names a **kind of thing being spent**. A rule about how many of them you get is not a unit.
 
-**And one dependency:** a `repin` must name an Economy Unit as its cost. If the list is wrong, repinning is unbounded.
+**And one dependency:** a `repin` must name a cost in doubloons. Without it, repinning is unbounded and Ordered time can be held open forever.
 
 ---
 
@@ -160,7 +160,7 @@ Baselines raise total effect. Eight of them on eight Dimensions multiplies total
 
 ## Q3.3 · What is the Ruleset's default policy for entering Ordered time?
 
-**Entry is the Time Socket's decision, not the Substrate's** — three Substrate rules were tried and each failed on a real case:
+**Entry is base Ruleset, not the Substrate's** — three Substrate rules were tried and each failed on a real case:
 
 - Ally/enemy labels → undefined for strangers, under the open-world rule.
 - *"A Moment that doesn't exist yet"* → catches everything, since every future Moment is yet to exist.
@@ -184,7 +184,7 @@ Absent means *everyone*, so it can be added later without breaking history. **Ch
 
 Everything pinned to your turn lands at once. So the creature that acts last in a round eats an entire round of accumulated vectors in one resolution, and the one that acts first eats almost none — a large swing, decided by initiative rather than by any decision the player made.
 
-**This is the Time Socket's problem, which means it is swappable** — but every piece of content will be balanced against whatever the default does. Options: stagger arrivals within a round, cap arrivals per Moment, or accept it and design initiative around it.
+**This is base Ruleset's problem, which means it is versionable** — but every piece of content will be balanced against whatever the default does. Options: stagger arrivals within a round, cap arrivals per Moment, or accept it and design initiative around it.
 
 ---
 

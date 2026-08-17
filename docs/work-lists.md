@@ -1,41 +1,53 @@
 # Phase 1 · The Lists — the working guide
 
-*Companion to `substrate-lists.xlsx`. **Phase 0 closed in August 2026, so this is startable now.***
+*Companion to `substrate-lists.xlsx`. The argument behind each closed list is in `list-log.md`; the settled content is in `dictionary.md` Part 2A/2C.*
 
-The workbook has the tabs and the columns. This has **what each list is actually deciding, the test an entry has to pass, how to know the list is finished, and the mistake that is easy to make in it.**
+**Phase 0 closed August 2026. Four lists are closed on top of it.**
 
-> **The workbook is no longer blank.** Every blocking tab opens with **PROPOSED rows on a pale yellow background** — a starting position to react to, not an answer. Each also has a **CONSIDERED AND REJECTED** block already seeded with things I think should be cut, and why.
+| | |
+|---|---|
+| **SETTLED** | L21 Spaces · L29 Attempt Domains & Dimensions · L22 Dimensions · L23 Channels |
+| **SETTLED IN SHAPE** | L27 Sockets (three) · L28 Economy (one unit, three-field cost) |
+| **NEXT** | **L32 Moment kinds → L31 Timings** — both new, both created when Time and Budget moved into the Substrate |
+| **THEN** | L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → **L6 last** |
+
+> **The architecture changed in August 2026.** Time and Budget stopped being Sockets and became Substrate. The reason was comprehensibility: a Socket is a hole in the *explanation*, not just the code, and every worked example had to caveat itself. The objection — that a Setting might want week-long turns — dissolved once it was clear that a **Component adds rather than replaces**: month-scale play and second-scale play never meet, so they need not share a machine. Full argument in `list-log.md`.
+
+> **Research now stands behind every remaining list.** `lists-research.md` is the digest; the full reports are in `research-timing.md`, `research-listeners.md`, `research-states.md` and `research-entities.md`. The workbook's forward tabs have been re-seeded from it — the proposals there are evidence-backed starting positions, not guesses.
+
+> Every forward tab in the workbook has been **re-seeded against the settled decisions** — the proposals you will see now assume five Spaces, fourteen Dimensions, eighty-eight Channels and the thirty-slot lattice. They are a starting position to react to, not an answer.
 >
-> **Do one of three things with every proposed row: accept it, edit it, or cut it.** Cutting is the most valuable of the three, and a row you cut belongs in the rejected block with a reason — not deleted.
+> **Do one of three things with every proposed row: accept it, edit it, or cut it.** A row you cut belongs in the rejected block with a reason — not deleted.
 
 ---
 
 ## Before starting anything
 
-**Three habits, and they matter more than any individual list.**
+**Write down what you leave off.** Nothing above the Substrate can put back something the Substrate omitted, and in two years you will not remember whether something is missing because you decided against it or because you never thought of it.
 
-**Write down what you leave off.** Every list has a "considered and rejected" that is as important as the list itself. Nothing above the Substrate can put back something the Substrate omitted, and in two years you will not remember whether something is missing because you decided against it or because you never thought of it. Use the last rows of each tab.
+**Count the jargon as you go.** L21–L23 alone introduced five Space names, fourteen Dimension names and eighty-eight Channel names. The Channels are the ones players actually meet — the rest is machinery they can go a whole campaign without hearing. Keep the first-hour budget in mind on every list from here.
 
-**Count the jargon as you go.** Every entry that introduces a word is a word a player has to meet. Keep a running total and a first-contact budget — the number a new player meets in their first hour. Research says a glossary does not repair this; only meeting fewer words does.
-
-**Attack each list when you think it is done.** Not review it — attack it. Find the degenerate entry, the one that dominates, the one nobody will ever pick. That is what found the four foundation findings that open Phase 0.
+**Attack each list when you think it is done.** Not review it — attack it. That is what found the four foundation findings in Phase 0, and the sign-convention error in L22.
 
 ---
 
 ## The order, and why
 
-Each list needs the one before it. Doing them out of order means doing some of them twice.
-
 ```
-L21  Dimension Spaces      ── which kinds of push can meet each other at all
+L21  Dimension Spaces      ── SETTLED · five: physical mental social mystic attempt
  ↓
-L29  Capacities            ── which ARE the Dimensions of the attempt Space
+L29  Attempt Domains/Dims  ── SETTLED · 7 Domains, 15 Dimensions, Specialisations third layer
  ↓
-L22  Dimensions            ── the axes inside the remaining Spaces
+L22  Dimensions            ── SETTLED · fourteen, across the four non-attempt Spaces
  ↓
-L23  Channels              ── named directions placed in those Spaces
+L23  Channels              ── SETTLED · eighty-eight, positioned in hundredths over all fourteen
  ↓
-L27  Sockets ── L28 Economy Units      ── what content is allowed to name
+L27  Sockets               ── SETTLED IN SHAPE · three: Place, Resolution, Landing
+L28  Economy               ── SETTLED IN PRINCIPLE · one unit, three-field cost
+ ↓
+L32  Moment kinds          ── the points a vector may be pinned to               ◄ HERE
+ ↓
+L31  Timings               ── the named closed set of WHEN                       ◄ HERE
  ↓
 L1 ── L2 ── L3             ── Categories, Universal, Category Attributes
                               (and the three character sheets)
@@ -49,109 +61,155 @@ L26  Listener conditions, the cascade limit, the evaluation order
 L6   VERBS — last
 ```
 
-**L21 before L29 is the one that looks backwards.** The Capacities *are* the Dimensions of the attempt Space, so you cannot fill them until you know that Space exists and what it is for. Deciding the Spaces is a coarse, quick decision; deciding the Capacities is not.
+**Why L32 comes before L31.** A timing is *defined in terms of* Moment kinds and turn ownership — `respond` means "during a Moment I do not own." The Moment kinds have to exist before the timings that reference them can be named.
+
+**Why both come before L1–L3.** Everything below is content-facing: Attributes, Tags, States, conversions. All of it will want to say *what it costs* and *when it happens*. Settling that vocabulary first stops the content inventing its own.
 
 ---
 
-# L21 · Dimension Spaces
+# ✅ L21 · Dimension Spaces — SETTLED
 
-**Deciding:** which kinds of push can meet each other. Packets in different Spaces **never** interact — that is the wall keeping the system comprehensible as it grows.
+**Five:** `physical` · `mental` · `social` · `mystic` · `attempt`.
 
-**The test.** For any two Spaces, ask: *should a thing in A ever offset a thing in B?* If yes, they are one Space. If no, they are two, forever.
+**The rule that came out of it:** *a Space limits a **vector**, never an **ability***. One ability places as many vectors as it needs, and each lands in the Space of **what it changes** — not what caused it. A poisoned blade places two.
 
-**The mistake, and it is the real work.** Decide the **separations you want** before you decide the Spaces. Physical harm is obviously one. Social pressure probably is. But if wealth, morale and knowledge each become their own, then **a bribe can never offset a threat** — and that might be exactly right, or it might be the thing that makes the game feel like four unrelated games.
+`mystic` deliberately overrides the Component test, and the override is recorded: per-Component mystic Spaces would mean a druid's working and a necromancer's working could never meet, which is the one thing counterspelling requires.
 
-**Done when:** you can name, for every pair of Spaces, a concrete situation where you *wanted* them to interact and are content that they cannot.
+Adding a Space later is free. Splitting or merging an existing one is an Edition break.
 
 ---
 
-# L29 · Capacities
+# ✅ L29 · Attempt Domains and Dimensions — SETTLED
 
-**Deciding:** what a character is made of, *and* the axes an attempt splits across. One list, two jobs — which is what makes it the most load-bearing item in the project.
+**Seven Domains** — FORCE · PRECISION · MOVEMENT · AWARENESS · INFLUENCE · GUILE · RESOLVE.
+**Fifteen Dimensions** — `power` `momentum` · `control` `timing` · `agility` `pace` · `senses` `study` · `appeal` `pressure` `bargain` · `stealth` `deceit` · `grit` `focus`.
 
-**The test, per candidate.** State it as a *capacity to do something*, never as a quality. Then check it applies without absurdity to **a person, a ship, a faction and a storm.**
+**A Domain is an outcome; its Dimensions are different routes to it. A Domain stores no number.** The GM names the Domain — that is not a player choice, which is why the approach-spam failure recorded in every free-choice two-axis system does not transfer here. The player picks the route, must spend at least one point inside the named Domain, and may spend outside it.
+
+**Third layer: Specialisations.** Player-authored narrowings that grant Bonus Points inside a Dimension. Strictly narrower than the Dimension, never a substitute for it.
+
+**Still open, deliberately:** how magnitude is produced. *"A combination of modifiers and a dice roll"* — the formula waits until every list is filled and real numbers exist. Tracked in `open-questions.md`.
+
+---
+
+# ✅ L22 · Dimensions, per Space — SETTLED
+
+**Fourteen.**
+
+| Space | Dimensions |
+|---|---|
+| physical | `temperature` **(bipolar)** · `integrity` · `substance` · `vitality` · `vigor` · `mobility` · `acuity` |
+| mental | `composure` · `clarity` · `will` |
+| social | `regard` · `standing` |
+| mystic | `working` **(bipolar)** · `essence` |
+
+**The sign convention, which is the thing to remember:** *every Dimension is a property of the target. Negative always means less of it. Positive always means more.* Two axes are bipolar, meaning both signs are a real push rather than a lack. This forced four renames — `thermal`→`temperature`, `kinetic`→`integrity`, `corrosive`→`substance`, `vital`→`vitality` — and added two axes.
+
+**Dimension and Resource are two ends of one pipeline, not alternatives.** Exhaustion is a `vigor` push *and* a Resource; asking which one it is was the wrong question.
+
+---
+
+# ✅ L23 · Named Channels — SETTLED
+
+**Eighty-eight**, each positioned in **hundredths** across **all fourteen** non-attempt Dimensions, absolute values summing to exactly **100**.
+
+**Spaces partition Dimensions, not Channels.** A Channel may position across as many Spaces as it likes — but breadth means thin, because the hundred is fixed. That is the whole reason the alternative (100% into every Space touched) was rejected: it makes breadth free.
+
+**CI invariants, already implemented in `channels.py`:** every row sums to 100 · no two Channels share a position · every Dimension is used on both signs.
+
+**Conditions are not Channels.** Silence, invisibility, aging, knockback and size were all considered and sent to States, Tags, Place or Scale. If it has no magnitude you would want a Guard to meet, it is not a Channel.
+
+---
+
+# ✅ L27 · Sockets — SETTLED IN SHAPE
+
+**Three: Place, Resolution, Landing.** Time and Budget moved into the Substrate.
+
+**Each still needs both halves written.** The **Vocabulary** (names content may depend on, additive-only, Substrate) and the **Behaviour** (everything else, swappable, never named by content).
+
+**Socket occupants are frozen per Setting.** Not a toggle, not a house rule — the occupants are part of a Setting's identity, and moving a Campaign across is a Conversion. Components stay swappable within a Setting.
+
+| Socket | What it publishes | Still owed |
+|---|---|---|
+| **Place** | position, scope, containment, what Scale means for a part | its Vocabulary |
+| **Resolution** | that an attempt returns a signed magnitude, **and its distribution** | the magnitude formula (deliberately open) |
+| **Landing** | what persistent state each Dimension may address | **= L25**, now research-seeded |
+
+**Resolution has one clause decidable now:** the occupant must **publish its distribution**, because rule 19 requires any likelihood-expressing Lens to be Calibrated against it. An occupant that cannot state its distribution cannot ship, whatever its dice are.
+
+**Landing is a pipeline, not a step.** The research found the same architecture in every good system: **buffer → convert → name**. Fate, Blades, Lancer, Delta Green and Mouse Guard all do it. The buffer belongs to the Component and is never durable — which is where a Setting with "no Resources" quietly still has a number, one that never survives a Moment.
+
+**Done when:** each of the three has a Vocabulary anyone could write content against.
+
+---
+
+# ✅ L28 · Economy — SETTLED IN PRINCIPLE
+
+**One unit — the doubloon.** Integer, 64-bit, Substrate, frozen. No denominations, no ladder of named multiples. Nothing ever divides.
+
+**A cost is at least three fields:**
 
 ```
-capacity to exert force        person ✓   ship ✓   faction ✓   storm ✓   → keep
-strength                       person ✓   ship ~   faction ✗   storm ✗   → cut
-capacity to notice             person ✓   ship ✓   faction ✓   storm ✗   → argue about it
+cost     a whole number of doubloons          how much it takes out of you
+timing   a named member of the L31 set        when you may pay
+cap      how often, per Moment or per round   optional, usually absent
 ```
 
-Three out of four is the interesting case. Either the fourth reveals the Capacity is really about people, or it reveals the storm needs a Category that supplies it.
+**Cost and timing are orthogonal, and that is the whole point.** A 10-doubloon reaction and a 40-doubloon reaction are both reactions. Fusing size and timing into one slot is what produced *bonus action*, and its designer's published verdict is that the fusion is why it failed.
 
-**How many.** Eight is a choice a player makes at a glance. Twelve is manageable. Twenty is a spreadsheet, and comprehension load is the risk in this design that no amount of code can fix. **Twelve is the working ceiling. If you are at thirteen and still adding, something on the list is really two things or really a Tag.**
+**Cut, each because it collapsed into something that already exists:** `reaction` (a timing, not a unit) · `attention` (doubloons in the `committed` mode) · `strain` (a Resource) · the whole denomination ladder.
 
-**The mistake.** One Capacity per skill. *Thieves' tools* is not a Capacity — it is gear supplying a modifier to `manipulation`. If a candidate is something you *own* or something you *learned*, it is a Tag or an item, not a Capacity.
+**Still open:** the allowance (base Ruleset, deferred to playtest), and whether a second non-convertible unit is ever needed.
 
-**Done when:** every entry passes four-way, the count is twelve or fewer, the rejected list is longer than the kept list, and you can hand someone the list and have them allocate points across it without asking what anything means.
+**Two numbers to respect when the allowance is chosen:**
 
-**Proposed in the workbook:** eight — *exert force, endure, move, notice, manipulate, persist, sway, conceal*. Three of them (`notice`, `manipulate`, `sway`) fail the four-way test on a storm or a ship, and they are proposed deliberately, because that is the argument worth having. Seeded as rejected: strength, intelligence, lockpicking, charisma, luck.
+- **No single price may consume the whole budget.** Rolemaster Unified shipped 4 AP with a full attack costing 4, and movement stopped happening until it was patched.
+- **Keep the fastest-to-slowest ratio under about 2:1.** Vary what a doubloon buys, not how many you get.
 
----
-
-# L22 · Dimensions, per Space
-
-**Deciding:** the axes inside each Space. Positive and negative both mean something.
-
-**The test.** A Dimension is real if there is a *pair of opposites* worth having cancel. `thermal` earns its place because heat and cold should meet. A Dimension with no meaningful negative is probably a Tag.
-
-**Free to be wrong about, in one direction.** Dimensions are additive-only — a Component may add one forever, unspecified defaults to zero, and nothing that exists breaks. So a **missing** Dimension is recoverable. A Dimension that turns out to be two things is not.
-
-**The mistake.** Too many, too early. Each one widens every vector in the system.
-
-**Done when:** each Dimension has a stated positive and negative meaning, and no two Dimensions in a Space are describing the same opposition.
+**And the finding that matters most: the atom may be fine, but the published price list must stay short.** Every fine-grained action currency that failed did so on the price list, not the atom.
 
 ---
 
-# L23 · Named Channels
+# ◀ L32 · Moment kinds — NEXT
 
-**Deciding:** the named directions content actually uses. `fire`, `cold`, `force`.
+**Deciding:** the named points a vector may be pinned to. Substrate, frozen, additive-only.
 
-**The test, and it is arithmetic.** Absolute values must sum to **exactly 1**. That is why lightning is `0.3 / 0.7` and not `1 / 1` — it makes magnitude mean the same thing for every Channel.
+**Do this before L31**, because a timing is defined in terms of these — `respond` means *"during a Moment I do not own."*
 
-**Check every row.** The workbook has a column for the absolute sum. It should read 1.0 on every line.
+**The load-bearing entry is turn ownership** — *mine* versus *not mine*. Without it as a Substrate concept, a reaction cannot be expressed portably at all, and a reaction is not a genre feature.
 
-**The good news.** Placing a Channel determines its relationship to every other Channel automatically, and **a Channel added in ten years is correct against every one that already exists**, with no consistency check possible to fail. This is the list you can be most relaxed about extending later.
+**Deliberately not here:** anything coarser than a round. Downtime weeks, seasons and campaign turns are Components, layered alongside. Second-scale and month-scale content never meet, so they need not be compatible.
 
-**The thing Phase 0 unblocked.** Interior Channels used to be strictly worse than axis-aligned ones — against armour 3, an even four-way split at full magnitude landed *nothing*. A3 fixed it: a universal flat Guard now acts on the packet total, once per contributing source, so every direction lands the same. **Place interior Channels freely.**
-
-**Done when:** every row sums to 1, transient/persistent is marked on each, and at least three interior Channels exist and are worth using.
-
-**Proposed in the workbook:** nine — `fire`, `frost`, `impact`, `lightning` (0.3/0.7), `venom`, `acid` (0.7/0.3), `scalding steam` (0.6/0.4), `intimidation`, `appeal`. Three sit in the interior on purpose, because that is the property the whole Dimension Space idea rests on.
+**The test:** name a real ability for each Moment kind. One nobody can name an ability for should not be frozen.
 
 ---
 
-# L27 · Sockets
+# ◀ L31 · Timings — NEXT
 
-**Deciding:** which holes the Substrate declares and cannot fill. Currently five: Time, Place, Resolution, Landing, Budget.
+**Deciding:** the closed, named set of answers to *when may this be paid for and used*. One word on an ability, the way a Channel is one word on a vector.
 
-**The test.** *Can the Substrate function with this empty?* If yes, it is not a Socket — it is an ordinary Component. If no, it is a Socket and it is a permanent dependency for every Component ever written.
+**Why it is named rather than written out.** Hand-writing the condition took three lines to say *"reaction."* Naming it is the move this design already makes everywhere.
 
-**Each entry needs both halves.** The **Vocabulary** — the names content may depend on, additive-only. And the **Behaviour** — everything else, which content never names. Without the split, swapping an occupant breaks every spell ever written.
+**The structural finding that shrinks the list.** Magic and Yu-Gi-Oh independently converged on the same four-way split of how an ability is used at all — and three of the four are already other machinery here:
 
-**The mistake.** Adding a sixth. Every Socket is permanent weight, and an over-long list quietly rebuilds the monolith the Component design exists to prevent. **Five feels near the ceiling.**
+| Their category | Ours |
+|---|---|
+| Activated | an ability with a `cost` and a `timing` |
+| Triggered | a **Listener** |
+| Static | a **Modifier** or a **Guard** |
+| Spell ability | the vector's own resolution |
 
-**Worth genuinely questioning:** is `Place` irreducible, or can scope be expressed generically enough that it is not a Socket at all?
+**So L31 is only about the activated case.** And the surviving speed sets are tiny — Magic 2, Yu-Gi-Oh 3, PF2e 2. D&D 4e had seven with a substitution hierarchy and it is the recorded failure.
 
-**Done when:** each of the five has a Vocabulary anyone could write content against, and you have tried and failed to remove one.
+**Candidates:** `own` · `any` · `respond` · `interrupt` · `pending` · `standing`
 
----
+**Three questions to answer:**
 
-# L28 · Economy Units
+1. **Is `interrupt` worth it?** Resolving *before* the thing that prompted it is the most satisfying play in any game that has it, and the largest source of table arguments, because "before" means rewinding something already declared.
+2. **Is `standing` a timing at all,** or just *"this is a Modifier"*? Leaning cut.
+3. **Does `any` need to exist,** or is it `own` plus `respond` with no condition?
 
-**Deciding:** the *names* a cost can be denominated in. Substrate, because every spell ever written depends on them.
-
-**The test.** A unit names **a kind of thing being spent.** A rule about *how many you get* is not a unit — it belongs to the Budget Socket occupant.
-
-```
-action           a kind of thing spent          → unit
-reaction         a kind of thing spent          → probably a unit
-bonus action     a rule about how many          → not a unit
-```
-
-**One hard dependency.** A `repin` must name an Economy Unit as its cost. If the list is wrong, repinning is unbounded and Ordered time can be held open forever.
-
-**Done when:** three to six entries, each unambiguously a *kind of thing* rather than a rule, and a repin has something to name.
+**The cost of a large set is not the number of names — it is the pairwise interactions.** Two names have one; seven have twenty-one.
 
 ---
 
@@ -159,79 +217,97 @@ bonus action     a rule about how many          → not a unit
 
 **Deciding:** what kinds of thing exist, what every Entity has, and what each kind adds.
 
-**Do them in that order, and do L2 second.** Universal Attributes are the ones **every** Entity has. Test each candidate against a rumour, a lock, a faction and a storm. If any of those does not need it, it is a Category Attribute and belongs in L3.
+**Do L2 second, and keep it brutally short.** Test each candidate against a rumour, a lock, a faction and a storm. If any of those does not need it, it is a Category Attribute.
 
-**The mistake in L1.** A Category that brings no Attributes is a Tag. If `haunted` adds nothing to the sheet, it is not a Category.
+**What the settled lists changed here:**
 
-**The mistake in L2.** Putting anything in it that only people need. L2 should be brutally short — possibly three or four entries.
+- **The fifteen attempt Dimensions are not universal.** A building never attempts a grapple; a Relationship never rolls. They belong to whichever Categories can *attempt*, which is L3, not L2.
+- **The fourteen non-attempt Dimensions are closer to universal**, because anything that can be targeted can be pushed on them — but "can be targeted" may itself be the test that splits L2 from L3.
+- **Relationship is a Category of Entity**, holding one Connection per participant, each stance stored independently. Never an edge. That is already a settled L1 row.
+- **A Proposal is an Entity**, and so is a pending vector. If either needs Attributes, they are Categories.
+- **Scale is on everything**, including parts, and it is not optional. That looks like an L2 row.
 
-**Done when:** the three character sheets (below) can be written entirely from L1–L3 plus L29.
+**The question to settle first, and the research says the obvious answer may be wrong.** *Does a ship, faction or place need to* **attempt** *things, or only to be targeted?* Star Trek Adventures gives ships the same six attributes as characters — and **the ship does not act. It assists.** Characters roll their own stats and an assisted roll is made for the ship. That is the best-regarded implementation in the field, and it refuses the symmetry. Worth a decision rather than an assumption.
+
+**The mistake in L1.** A Category that brings no Attributes is a Tag.
+
+**Done when:** the three character sheets can be written entirely from L1–L3 plus L29.
 
 ---
 
 ## The three character sheets — do these alongside L1–L3
 
-**Write the character sheet first**, at the most detailed Lens you can imagine. What is printed on it is what has to exist underneath.
+Write the person's sheet first, at the most detailed Lens you can imagine. Then write one for **a ship** and one for **a faction**.
 
-Then write one for **a ship** and one for **a faction**.
-
-The values all three need are the Capacity set. **The values only a person needs are the test** — if there are many, the Substrate is a person schema in a costume, and L29 needs redoing.
+**The values only a person needs are the test.** If there are many, the Substrate is a person schema in a costume.
 
 ---
 
 # L4 · Tags and L5 · State axes
 
-**L4 is the seed vocabulary** Components may rely on existing. Keep it under thirty. Six are proposed, including `armoured` carrying its Guard value as a Tag magnitude — worth deciding early, because if that pattern is right then a great deal of gear becomes Tags rather than Facets. Tags carry an **optional magnitude**, are identified by **ID not name**, and **never imply other Tags**.
+**L4 is the seed vocabulary** Components may rely on existing. Under thirty. Tags carry an **optional magnitude**, are identified by **ID not name**, and **never imply another Tag**.
 
-**L5 is the shape, not the contents.** Most States live in Components. What is being decided here is the axes the base Ruleset ships, and the fields a State definition carries — name, axis, whether it has a magnitude, and an **optional maximum**.
+**One thing to settle early:** `armoured` carrying its Guard value as a Tag magnitude. If that pattern is right, a great deal of gear becomes Tags rather than Facets. But a Guard now has **three forms** — flat universal, flat Dimension-named, proportional — acting at two different slots, so a single magnitude is not enough information. The Tag has to say which form it is, or the pattern does not work.
+
+**L5 is the shape, not the contents.** What the base Ruleset ships, and the fields a State definition carries: name, axis, optional magnitude, optional maximum.
+
+**Two findings that settle arguments before they start.** Numeric conditions **take the higher value, never the sum** — additive stacking makes any repeatable source unbounded, and this also settles L18's operator for States as `max`. And **condition implication is a live maintenance cost**: 5e's paralyzed/stunned/unconscious all include incapacitated, and the 2024 revision had to widen incapacitated, which cascaded to all three. Same failure as tag hierarchy.
 
 **The mistake in L5.** Forgetting the max. Values add by default, so without a ceiling `poisoned 47` is reachable.
+
+**What the settled lists changed here.** Several things rejected from L23 landed in L5's lap: silence, invisibility, blindness, aging. A State is now the home for *a named condition with no magnitude a Guard would meet* — which is a sharper test than L5 had before.
 
 ---
 
 # L18 · Aggregation operators
 
-**Deciding:** how multiple contributions to one value combine, for the Noun kinds outside the resolution path.
+**Deciding:** how multiple contributions to one value combine, for the Noun kinds **outside** the resolution path.
 
-Settled already: everything on the resolution path adds, percentages sum, nothing compounds. **Proposed in the workbook:** `max` for States and Baselines, `union` for Tags, `clamp` for Resources — and for Relationships the rule is **never merge**, each participant's stance standing alone, which is the whole reason a Relationship is a Category of Entity rather than an edge.
+The resolution path is fully settled — everything adds, percentages sum, nothing compounds, apportionment is floor-then-remainder-largest-first. **Threshold aggregation is also settled: sum, highest, each** — no "lowest," because a weakest-link rule punishes the party for letting anyone participate.
 
-**Why this one deserves care.** It is named in the architecture as *the single most likely source of "the same Ledger produced different state."*
+**Proposed in the workbook:** `max` for States and Baselines, `union` for Tags, `clamp` for Resources — and for Relationships **never merge**, each participant's stance standing alone.
 
-**The test.** For each operator, apply it to the same three inputs in six different orders. Any operator that gives different answers is wrong.
+**The test.** Apply each operator to the same three inputs in six different orders. Any operator that gives different answers is wrong.
 
 ---
 
 # L25 · Transient-to-Persistent conversions
 
-**Deciding:** what a vector that survives Guards actually does. This is the Landing Socket's Vocabulary.
+**Deciding:** what a vector that survives Guards actually does. **This is the Landing Socket's Vocabulary.**
 
-**Without it, vectors arrive and nothing happens.** This is the list that connects the whole arithmetic to anything a player cares about.
+**Research-seeded.** `lists-research.md` §4 catalogues **eleven landing models** and proposes one for each of the fourteen Dimensions with a precedent for each. Three findings change the shape of the list: the universal architecture is **buffer → convert → name**; **nothing in the field uses an ablative pool for a capability axis**; and **the social axes never land on the target** — they land on a Connection or a public accumulator.
 
-**The mistake.** Assuming health. A Setting may legitimately have none — the Substrate ships no Resources. The list is *what persistent state each Dimension can address*, and health is one answer among several.
+**The hazard to decide deliberately:** if one Dimension lands two different ways depending on magnitude, the landing stops being a pure function of the packet. Either Landing reads only the packet, or it must be handed the contributor list — and that would be a Substrate finding.
+
+**This list got much more concrete.** It is now literally *fourteen rows* — one per non-attempt Dimension — each answering: when a surviving push on this axis lands, what persistent state does it address? The Dimension names were chosen so that the answer is nearly readable off the name, which is the payoff of the sign convention.
+
+**The mistake.** Assuming health. The Substrate ships no Resources; a Setting may legitimately have none. Health is one answer among several.
 
 ---
 
 # L7 · The lattice outside resolution
 
-**Deciding:** the ordering slots for progression, economy, movement, knowledge and social standing. The resolution region is already drafted.
+**Deciding:** the ordering slots for progression, economy, movement, knowledge and social standing.
 
-**The test that produced the drafted region, and should produce the rest.** Take a mechanic you want. Write out what must already be settled before it can be computed. If no existing slot supplies it, that is a new slot.
+**The resolution region is closed at thirty slots — E×5, C×6, R×19.** Phase 0 added R-750, R-780, R-850 and split the combine into R-800 and R-1000; restoration was pinned to R-1250. Do not reopen it; extend around it.
 
-**Err high.** Gaps of 100 so 650 can be inserted. An unused slot costs nothing; a missing one is a foundation break.
+**The test that produced it, and should produce the rest.** Take a mechanic you want. Write out what must already be settled before it can be computed. If no existing slot supplies it, that is a new slot.
+
+**Err high.** Gaps of 100. An unused slot costs nothing; a missing one is a foundation break.
 
 ---
 
 # L26 · Listener condition forms
 
-**Deciding:** the closed set of things a Listener may watch. **State, never Verbs** — *is this now true*, never *did that just happen*.
+**Deciding:** the closed set of things a Listener may watch. **State, never Verbs.**
 
 **Three blanks that must be filled here, not later:**
 
 1. The cascade **depth limit**.
 2. The **behaviour at the limit** — lean: halt without applying, and record it.
-3. The **evaluation order** when several Listeners fire at once. This must come from a stable key in the data. **Registration order is not an answer** — get it wrong and the same Ledger folds differently on two machines.
+3. The **evaluation order** when several fire at once. Already partly settled: `(layer, component_id, listener_id, target_entity_id)`. Confirm it survives the full condition set.
 
-Seven condition forms are proposed, including *a Resolution Record exists matching a shape* — which is how reflection and retribution work without any Listener ever watching an event.
+Listener-produced Verbs are class `Triggered` and pin to a **later** Moment — never resolved inside the current one. That is rule 22, and it is what stops a cascade from being a recursion.
 
 ---
 
@@ -239,25 +315,28 @@ Seven condition forms are proposed, including *a Resolution Record exists matchi
 
 **Deciding:** the closed set of operations that change state. **The one genuinely irreversible decision in the system.**
 
-**Do not start this until everything above is done.** Every list above produces worked examples, and those examples are the only real evidence of completeness. Settling Verbs first means settling them against imagination.
+**Do not start until everything above is done.** Every list above produces worked examples, and those examples are the only real evidence of completeness.
 
-**The closing procedure.** Take every entry from every other list, plus every worked example produced along the way. For each: *assume the fiction has already decided what happened*, write only what changed in the world, then which Verbs express it.
+**Every Verb has the same shape:** verb · source · target (exactly one) · secondary · direction · magnitude · class · layer. **A Verb needing a field outside that shape is a Substrate finding**, not a reason to widen the shape.
+
+**The closing procedure.** Take every entry from every other list, plus every worked example. For each: assume the fiction has already decided what happened, write only what changed in the world, then which Verbs express it.
 
 > **If a consequence needs an operation not on the list, that is a real finding.**
 > **If it merely needs a Tag, a Channel, or a Component formula, it is not.**
 
-**The mistake.** Adding a Verb for something that is really a Component's behaviour composed from existing Verbs. Tags absorb far more than they look like they should.
-
-**Done when:** every worked example from every list expresses cleanly, and you have gone a full pass without adding anything.
+**Done when:** every worked example expresses cleanly, and you have gone a full pass without adding anything.
 
 ---
 
 ## Phase 1 is done when
 
-- [ ] Every blocking list filled, and every entry passes its own test
-- [ ] Every list has a "considered and rejected" section that is not empty
-- [ ] The three character sheets written, and the person-only values are few
-- [ ] The jargon count is known, and the first-hour budget is set
-- [ ] Each list attacked after completion, and what the attack found is written down
+- [x] L21 · L29 · L22 · L23 closed, each with its argument logged
+- [ ] L27 · L28 closed — the vocabulary content is allowed to name
+- [ ] L1–L3 closed, and the three character sheets written
+- [ ] L4 · L5 · L18 · L25 closed
+- [ ] L7 extended outside the resolution region
+- [ ] L26 closed, including all three cascade blanks
 - [ ] L6 closed **last**, by the closing procedure, with a clean final pass
+- [ ] Every list has a non-empty "considered and rejected"
+- [ ] The jargon count is known, and the first-hour budget is set
 - [ ] `dictionary.md` Part 12 has a row for every decision worth revisiting

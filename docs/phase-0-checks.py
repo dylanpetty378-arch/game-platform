@@ -445,10 +445,10 @@ def test_per_source_guards():
     # between the flat Guards and the proportional ones.
     print("  the fire elemental is unchanged (cancellation at R-1000):")
     cold_and_aura = combine(flat_per_source([[-8], [5]], 0))
-    guarded = 0 if cold_and_aura[0] > 0 else cold_and_aura[0]   # 100% thermal-POSITIVE
+    guarded = 0 if cold_and_aura[0] > 0 else cold_and_aura[0]   # 100% temperature-POSITIVE
     assert guarded == -3
     print(f"    cold −8 + own aura +5 → combine {cold_and_aura} → "
-          f"thermal-positive Guard does not apply → takes {abs(guarded)} cold")
+          f"temperature-positive Guard does not apply → takes {abs(guarded)} cold")
     incoming_fire = combine(flat_per_source([[10], [5]], 0))
     assert (0 if incoming_fire[0] > 0 else incoming_fire[0]) == 0
     print(f"    enemy fire +10 + own aura +5 → {incoming_fire} → 100% Guard → 0   immune")

@@ -163,7 +163,7 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **Section E is answered, and mostly by deletion.** Full detail in `dictionary.md` Part 2B.
 
-**E1 ⬤ Period — DELETED.** There is only the **Moment**. A turn, a round, a downtime week and a season are the same thing at different grains, published by the **Time Socket**. Every question E1 asked — fixed or variable, who closes one early — belongs to the occupant.
+**E1 ⬤ Period — DELETED.** There is only the **Moment**. A turn, a round, a downtime week and a season are the same thing at different grains. **Turn and round are Substrate; anything coarser is a Component.** Every question E1 asked — fixed or variable, who closes one early — belongs to base Ruleset or to a Component.
 
 **E2 ○ Tick — ANSWERED, restated.** The stamp on a Moment when it *actually occurs*. Logical only. It is what makes replay exact while the pending side of the world stays symbolic.
 
@@ -171,7 +171,7 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **E4 ⬤⬤ The parallelism rule — ANSWERED, and differently than proposed.** **The participant set is the scene.** A vector whose scope reaches outside it is pinned to **the next Moment both share** — an ordinary pin, no synchronisation machinery. **Conflicts need no tiebreak**: they combine, exactly as two fire vectors do, and where they genuinely cannot, **Participation Capacity** settles it. There is no *who went first*, because nobody went first.
 
-*Socket contract clause:* the Time Socket must guarantee any two participant sets eventually share a Moment.
+*Substrate guarantee:* any two participant sets must eventually share a Moment.
 *The cost, deliberately accepted:* scenes are **simultaneous** until their shared Moment arrives. A table wanting sequence puts a shared Moment between them.
 
 **E5 ○ Session — UNCHANGED.** A marker for a live gathering; carries no rules.
@@ -214,7 +214,7 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **G2 ⬤ Decider — TWO KINDS, not three.** `Auto` (a Component decides) and `Person` — **always carrying a Moment and a default.** A human decider with no fallback is never legal: one quiet person behind an open-ended decision stops everything behind them, which is the most common way a months-long asynchronous game dies. A live table is served by a very long deadline, which costs nothing. **A table vote is `Auto`** — adding a `Vote` kind would freeze one voting rule into the Substrate forever.
 
-**G3 ⬤ Rails — OPEN (L12), with two additions.** Socket occupants are Components and therefore have rails too — *does the app run initiative* is a Time Socket dial. And **Threshold visibility is a built-in GM setting**, not a per-Component rail: same content, two very different games.
+**G3 ⬤ Rails — OPEN (L12), with two additions.** Socket occupants are Components and therefore have rails too — *does the app run initiative* is a base-Ruleset dial. And **Threshold visibility is a built-in GM setting**, not a per-Component rail: same content, two very different games.
 
 **G4 ⬤ Default actions — ANSWERED in shape.** A default is a **Standing Order**, which **is a Listener** — no new machinery. The Component publishes the Listener template; **the player fills in the parameters**, so the authoring line holds. Critically, a default must include a **default allocation**, not just a default verb, because direction is half of every attempt. This is what makes absence survivable: a player away for two weeks leaves standing orders instead of a hole.
 

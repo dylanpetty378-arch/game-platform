@@ -37,6 +37,7 @@ Organised by *when the answer is needed*: repair decisions that are broken today
 **6. The working documents** — startable now.
 
 - **`work-repair.md`** — the Phase 0 worklist. Ten items, each with the failing test to run before deciding and the passing test that confirms the fix.
+- **`lists-research.md`** — what the field actually does, for every list still open. Timings, Listeners and cascades, State axes, Landing models, Tag vocabularies, and Entity schemas. The digest; full reports in `research-timing.md`, `research-listeners.md`, `research-states.md` and `research-entities.md`.
 - **`work-lists.md`** — the Phase 1 guide. Companion to `substrate-lists.xlsx`: what each list is deciding, the test each entry must pass, and the mistake that is easy to make.
 - **`work-tracks.md`** — brand, legal and audience. Everything that has to start now because it cannot be compressed later.
 
@@ -70,11 +71,14 @@ Grounded in current sources. The load-bearing finding: a book title is not regis
 | `phase-map.md` | Current. The sequencing document, and authoritative on order. |
 | `open-questions.md` | Current. Every undecided thing, by when it is needed. Part 1 is closed. |
 | `work-repair.md` | **Phase 0 is closed.** The record of what was decided in Repair, and why. |
+| `list-log.md` | **Live.** The conversation that made each list — the argument, what changed a position, what was rejected and on what grounds. |
+| `lists-research.md` | **New, Aug 2026.** Research digest behind every unsettled list. |
+| `research-timing.md` · `research-listeners.md` · `research-states.md` · `research-entities.md` | Full reports, with sources. |
 | `work-lists.md` | Current. **Phase 1 — startable now that Phase 0 is closed.** |
 | `work-tracks.md` | Current. Brand, legal and audience — startable today. |
 | `issues-and-ideas.md` | Review, August 2026. Both sets — the four foundation findings and the four arithmetic findings — are carried as decisions in `work-repair.md`. |
 | `branding-research.md` | Research, August 2026. Sources cited; thin areas flagged. |
-| `substrate-lists.xlsx` | The workbook, one tab per list. Fourteen blocking; L7's resolution region is drafted, the rest unstarted. |
+| `substrate-lists.xlsx` | The workbook, one tab per list. **Twenty-eight tabs as of Aug 2026** — L31 Timings and L32 Moment kinds were added when Time and Budget moved into the Substrate. Four lists settled (L21, L22, L23, L29); L27 and L28 settled in shape; the forward tabs are research-seeded. |
 | `dictionary.md` | **The reference.** Thirty numbered lists, of which twenty-eight are live and fourteen are blocking: L1–L5, L7, L18, L21–L23, L25, L27–L29. |
 | `orientation.md` | Draft. Long-form explainer; consistent with the rest as of August 2026, but the least frequently updated. |
 | `architecture.md` | Draft. Vocabulary deferred to `dictionary.md`. §18 lists the open questions and what has been answered since. |
