@@ -43,6 +43,17 @@ LIVING = [
     HERE / "beta-spec.md",
     HERE / "brand-drafts.md",
     HERE / "brand-identity.md",
+    HERE / "build" / "README.md",
+    HERE / "build" / "stack-and-hosting.md",
+    HERE / "build" / "site-map.md",
+    HERE / "build" / "auth-and-roles.md",
+    HERE / "build" / "database.md",
+    HERE / "build" / "engine-spec.md",
+    HERE / "build" / "api-and-protocol.md",
+    HERE / "build" / "authoring-pipeline.md",
+    HERE / "build" / "rules-explainer.md",
+    HERE / "build" / "build-order.md",
+    HERE / "build" / "claude-md-template.md",
 ]
 
 # A line may mention a retired thing while telling the story of its
@@ -153,7 +164,9 @@ def channel_invariants():
 
 def required():
     problems = []
-    by_name = {p.name: p for p in LIVING}
+    by_name = {}
+    for p in LIVING:
+        by_name.setdefault(p.name, p)  # first wins — docs/README.md, not build/README.md
     for name, needle in REQUIRED:
         path = by_name[name]
         if path.exists() and needle not in path.read_text():

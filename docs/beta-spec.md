@@ -76,6 +76,8 @@ Two stores, one database:
 
 ## What the beta pulls forward from the Spike
 
+*(The implementation blueprint for all of this — and for the full website around it — is `build/`, starting at `build/README.md`. This document stays the behavioral spec; `build/` is the how.)*
+
 The engine core, because the beta cannot exist without it: the Ledger (append-only, per-Campaign, the settled Postgres shape), **server-side folding from the first commit** (clients render; the server is authoritative — Q3.4's non-deferrable half), the uniform Verb shape, Moments and the timing machinery, Deciders with defaults, the resolution pipeline for the slots play actually exercises (the 41-slot numbering reserved in full, occupied as needed), and minimal Place and Resolution occupants. CLAUDE.md's working rules apply in full — spec first, strict TypeScript, no floats, the three rounding sites, golden fixtures seeded from `phase-0-checks.py`.
 
 **What stays in Phase 3:** the cross-machine determinism harness, export/import round-tripping, time travel, what-if, the state inspector's full form, `delivery` and real hidden information, and the four pre-code specs made law. The beta may take on one server what Phase 3 must then prove everywhere.

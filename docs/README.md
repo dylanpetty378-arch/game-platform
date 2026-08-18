@@ -31,7 +31,7 @@ Not the vocabulary — that moved to the dictionary, because two homes for one v
 
 Everything that has to exist in the Substrate. **Sections A through I are answered**, each with a banner saying where the detail now lives; Section J (instrumentation) is new. The lists it tracks are settled as of August 2026 — with the Verb set closing **last**, in Phase 2, not first.
 
-**4. `phase-map.md`** — today to a public release. Its companion **`beta-spec.md`** is the spec for what gets built next: the Phase 2 developer playtest build — the tunables registry, the transparency rules, and the logging that turns play into evidence.
+**4. `phase-map.md`** — today to a public release. Its companion **`beta-spec.md`** is the spec for what gets built next: the Phase 2 developer playtest build — the tunables registry, the transparency rules, and the logging that turns play into evidence. And **`build/`** is the buildable blueprint for the entire website — stack, hosting, database, auth, engine package, API and wire protocol, the authoring pipeline, the rules explainer, and the milestone order. Its stated test: any Claude session, starting cold, can construct the working site from that folder alone. Start at `build/README.md`.
 
 Every phase, what gets done in it, the gate that has to be met before the next one starts, and what kills each. **Deliberately no hours and no dates** — the sequence is the useful part, because it is a dependency order. Ends with the four places scope can be cut and what each costs.
 
@@ -87,7 +87,8 @@ Grounded in current sources. The load-bearing finding: a book title is not regis
 | `work-tracks.md` | Current. Brand, legal and audience. A0 answered and the first three deliverables drafted, Aug 2026. |
 | `beta-spec.md` | **New, Aug 2026.** The Phase 2 build: the developer playtest site. Tunables, transparency, logging. |
 | `brand-drafts.md` | Aug 2026. The name search (superseded by **Vectus**), the no-AI statement, the first build-in-public post. |
-| `brand-identity.md` | **New, Aug 2026. The base design principles.** The Vectus identity board, fully documented: name, mark, palette, Dynamic Signal, type, iconography, the eight-step system, UI language, and the flags awaiting Dylan's calls. |
+| `brand-identity.md` | **The base design principles.** The Vectus identity board, fully documented: name, mark, palette, Dynamic Signal, type, iconography, the eight-step system, UI language. Aug 2026. |
+| `build/` (11 documents) | **New, Aug 2026. The website blueprint.** README + bootstrap, stack-and-hosting ($25/mo vendors), site-map, auth-and-roles, database DDL, engine-spec (with the canonical-hashing, PRNG and integer-policy specs), api-and-protocol (with the WS reconnect spec), authoring-pipeline, rules-explainer, build-order M0–M9, and the code repo's CLAUDE.md template. Code lives in the private `vectus` repo. |
 | `issues-and-ideas.md` | Review, August 2026. Both sets — the four foundation findings and the four arithmetic findings — are carried as decisions in `work-repair.md`. |
 | `branding-research.md` | Research, August 2026. Sources cited; thin areas flagged. |
 | `substrate-lists.xlsx` | The workbook, one tab per live list plus *Read me* and *Progress*. **Every blocking list settled as of Aug 2026**, L4 provisional at twenty-four; L6 (not blocking, closing last) drafted at seven for the Phase 2 close. The L23 tab is generated from `channels.py`, the canonical source. Non-blocking forward tabs are research-seeded. |
