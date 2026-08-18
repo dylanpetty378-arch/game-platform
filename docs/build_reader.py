@@ -21,6 +21,8 @@ DOCS = [
     ("research-listeners.md","Research · Listeners","Full report: triggers, cascades, deterministic ordering."),
     ("research-states.md","Research · States","Full report: condition and status systems."),
     ("research-entities.md","Research · Entities","Full report: ships, factions, places and relationships as Entities."),
+    ("tags-tabletop.md",  "Tags · Tabletop","Every tag, keyword, trait and property found across ~26 tabletop systems."),
+    ("tags-digital.md",   "Tags · Digital", "The same, from digital games — PoE, Minecraft, RimWorld, Dwarf Fortress, Bethesda."),
     ("work-lists.md",     "Work · Lists",   "Phase 1 guide. Companion to the workbook."),
     ("work-tracks.md",    "Work · Tracks",  "Brand, legal and audience. Startable today."),
     ("repo-and-sync.md",  "Repo & Sync",    "Where everything lives, how git works here, and the traps."),

@@ -18,6 +18,8 @@ It exists because in three years the entries will look arbitrary, and the differ
 | **L28** Economy | **Settled in principle** — one unit, three-field cost, August 2026 |
 | **L31** Timings | **Settled** — August 2026 |
 | **L1 / L2 / L3** Categories, Universal & Category Attributes | **Settled** — August 2026 |
+| **L5** Tracks *(was State axes)* | **Settled** — August 2026 |
+| **L18** Aggregation operators | **Settled** — August 2026 |
 | **L32** Moment kinds | **Settled** — August 2026 |
 
 ---
@@ -699,4 +701,50 @@ Dylan again, in the same message:
 
 ---
 
-*L4 Tags · L5 States · L18 Aggregation · L25 Conversions — next.*
+---
+
+# L5 — Tracks, and the merge that came with them
+
+*August 2026. The list that dissolved a Noun kind.*
+
+## The reframe
+
+Nine State axes had been proposed as enumerated members — `posture` as {standing, prone, seated, airborne}, `awareness` as {aware, surprised, unaware}. Dylan rejected the shape:
+
+> *"posture is not standing/prone/seated/airborne. Posture is how stable the person is by a measure of magnitude. Awareness is not aware or surprised - it's how aware and how surprised... With this methodology, inflicting charm is no different than throwing a fireball."*
+
+**Following it through produced a much larger result than fixing one axis.** If a State is a magnitude that starts at a maximum and gets pushed down, then a State is **the persistent counterpart of a Dimension** — the Dimension is the axis a vector travels on, and the State is the standing value on that same axis.
+
+Which means the nine invented axes were not needed at all. **Every named condition is a band on a Dimension's Track.** Prone is low `mobility`; blinded is low `acuity`; charmed is low `will`; exhausted is low `vigor`. `posture` collapses into `mobility` — being knocked down *is* a mobility push, and standing up is a Verb that restores it.
+
+So L5 stopped being a list of invented axes and became **the fourteen Dimensions, each with a Track and a set of bands.** Nothing to invent, and no way for the axes to drift out of alignment with the Dimensions they exist to receive.
+
+## The merge
+
+The reframe exposed something else immediately. If a State is *a bounded value with a max, a current and named bands*, it is **the same shape as a Resource.** `vitality 18/22`, `composure 5/9` and `doubloons 44/60` are one mechanism wearing three names.
+
+**Five Noun kinds became four: Capacity · Tag · Track · Relationship.**
+
+Nothing was lost. *Exclusive within an axis* is trivially true when the axis holds one number. *Ended only by a Verb* is unchanged. State's `max` and Resource's `clamp` are one rule. And **payable** — whether a Track may be named as a cost — became a flag rather than a kind, so `doubloons` is payable and `mobility` is not.
+
+**Capacity stayed separate on a clean line: a Capacity is what you *bring* to an attempt; a Track is what can be *pushed*.**
+
+## Two things it forced
+
+**Coverage became an invariant, on Dylan's instruction:** *"I actually think we should make sure that there's at least one state that is altered by each dimension."* So **every Dimension pushes at least one Track**, CI-checked. A Dimension with nothing to land on is a dead axis — the same failure that leaves a quarter of a published bestiary immune to poison while nothing at all resists force.
+
+**The two bipolar Dimensions do not fit "max is good."** For `temperature` and `working`, the comfortable place is the **middle**, and both extremes are bad in different ways. Bipolar Tracks are signed, centred on zero, and carry two Thresholds with bands running outward in both directions. Declared, not discovered.
+
+## The mystic Tracks
+
+Added on request, and they are the two with no precedent to borrow. **`working` low** means workings are suppressed — you cannot cast, or what you cast is smothered; **`working` high** means magic is surging in or around you, which is its own kind of danger. **`essence` low** means the self is being hollowed out, and it is the axis that does not come back on its own.
+
+## And the knock-on
+
+**L18 mostly evaporated.** One Noun kind fewer means one rule fewer: a Track clamps to its bounds, Tag magnitudes add, Capacities need no operator because increases are Modifiers, and Relationships never merge.
+
+**L25 got much simpler.** *What does a push on Dimension X land on?* → **Track X.** The landing-model research still decides *how* — pool versus bar versus bank, and the harden mechanic for `will` — but the target stopped being a design question.
+
+---
+
+*L4 Tags · L25 Conversions · L7 · L26 — remaining. L6 last.*

@@ -11,7 +11,8 @@
 | **SETTLED** | L32 Moment kinds — eight, Aug 2026 |
 | **SETTLED** | L31 Timings — four, Aug 2026 |
 | **SETTLED** | L1 / L2 / L3 — nine Categories, nine universal fields, Aug 2026 |
-| **NEXT** | **L4 Tags · L5 States · L18 Aggregation · L25 Conversions** |
+| **SETTLED** | L5 Tracks · L18 Aggregation — Aug 2026 |
+| **NEXT** | **L4 Tags** (compilation delivered, selection yours) · **L25 Conversions** · L7 · L26 |
 | **THEN** | L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → **L6 last** |
 
 > **The architecture changed in August 2026.** Time and Budget stopped being Sockets and became Substrate. The reason was comprehensibility: a Socket is a hole in the *explanation*, not just the code, and every worked example had to caveat itself. The objection — that a Setting might want week-long turns — dissolved once it was clear that a **Component adds rather than replaces**: month-scale play and second-scale play never meet, so they need not share a machine. Full argument in `list-log.md`.
@@ -57,7 +58,8 @@ L31  Timings               ── SETTLED · four: own, any, respond, interrupt
 L1 ── L2 ── L3             ── SETTLED · nine Categories, nine universal fields
                               (character sheets deferred until creation is designed)
  ↓
-L4 Tags ── L5 States ── L18 Aggregation ── L25 Conversions          ◄ HERE
+L4 Tags ── L5 Tracks ── L18 Aggregation ── L25 Conversions          ◄ HERE
+     (L5 and L18 SETTLED; L4 is a pick-list; L25 simplified by the Track merge)
  ↓
 L7   the lattice outside resolution
  ↓
@@ -229,31 +231,41 @@ Blink      cost 15   timing interrupt   trigger: someone attacks me
 
 ---
 
-# L4 · Tags and L5 · State axes
+# ◀ L4 · Tags — YOURS TO PICK
 
-**L4 is the seed vocabulary** Components may rely on existing. Under thirty. Tags carry an **optional magnitude**, are identified by **ID not name**, and **never imply another Tag**.
+The full compilation is in `tags-tabletop.md` and `tags-digital.md`, grouped by **what the tag describes** so you can pick down a column.
 
-**One thing to settle early:** `armoured` carrying its Guard value as a Tag magnitude. If that pattern is right, a great deal of gear becomes Tags rather than Facets. But a Guard now has **three forms** — flat universal, flat Dimension-named, proportional — acting at two different slots, so a single magnitude is not enough information. The Tag has to say which form it is, or the pattern does not work.
+**The number that governs it:** Magic published **222 keywords over 33 years** and keeps **~17 evergreen**. No cap on the total; a hard cap around **15–20 on the mechanically-live set**. Path of Exile runs 46 live tags and they are that game's most notorious confusion.
 
-**L5 is the shape, not the contents.** What the base Ruleset ships, and the fields a State definition carries: name, axis, optional magnitude, optional maximum.
+**Settled about the shape:** a Tag carries a magnitude, and label plus magnitude is a vector-shaped thing. **Magnitudes add** — a Tag that should not add is a *property*, and properties are **set** at creation rather than **granted** by effects, so no per-Tag operator is needed. Identified by **ID, not name**. **Never implies another Tag** — either the implication is definitional and the second Tag is unnecessary, or the Tag is applied separately.
 
-**Two findings that settle arguments before they start.** Numeric conditions **take the higher value, never the sum** — additive stacking makes any repeatable source unbounded, and this also settles L18's operator for States as `max`. And **condition implication is a live maintenance cost**: 5e's paralyzed/stunned/unconscious all include incapacitated, and the 2024 revision had to widen incapacitated, which cascaded to all three. Same failure as tag hierarchy.
-
-**The mistake in L5.** Forgetting the max. Values add by default, so without a ceiling `poisoned 47` is reachable.
-
-**What the settled lists changed here.** Several things rejected from L23 landed in L5's lap: silence, invisibility, blindness, aging. A State is now the home for *a named condition with no magnitude a Guard would meet* — which is a sharper test than L5 had before.
+**The Substrate ships none.** Same posture as Tracks — it defines the kind, the base Ruleset ships the seed.
 
 ---
 
-# L18 · Aggregation operators
+# ✅ L5 · Tracks — SETTLED
 
-**Deciding:** how multiple contributions to one value combine, for the Noun kinds **outside** the resolution path.
+*(Was "State axes". The list changed name because the shape changed.)*
 
-The resolution path is fully settled — everything adds, percentages sum, nothing compounds, apportionment is floor-then-remainder-largest-first. **Threshold aggregation is also settled: sum, highest, each** — no "lowest," because a weakest-link rule punishes the party for letting anyone participate.
+**A Track is a bounded value with a maximum, a current and named bands — the persistent counterpart of a Dimension.** The Dimension is the axis a vector travels on; the Track is the standing value on that axis. **Inflicting charm is no different from throwing a fireball**; only the axis differs.
 
-**Proposed in the workbook:** `max` for States and Baselines, `union` for Tags, `clamp` for Resources — and for Relationships **never merge**, each participant's stance standing alone.
+**There is no `prone` State.** There is a `mobility` Track, and "prone" is a word for a range of it. Same for blinded (`acuity`), stunned (`clarity`), charmed (`will`), exhausted (`vigor`), sealed (`working`), hollowed (`essence`).
 
-**The test.** Apply each operator to the same three inputs in six different orders. Any operator that gives different answers is wrong.
+**Fourteen Tracks, one per Dimension**, and **every Dimension pushes at least one — a CI invariant.** A Dimension with nothing to land on is a dead axis.
+
+**Max is good, zero is compromised** — except `temperature` and `working`, which are **bipolar**: signed, centred on zero, comfortable in the middle, bad at both ends, two Thresholds each.
+
+**Bands are Ruleset content; Tracks and Thresholds are Substrate.** A Setting may band and name differently, and the same `composure` Track carries a fear vocabulary in one Setting and a battle-stress vocabulary in another.
+
+**State and Resource merged into Track** — five Noun kinds became four. `vitality 18/22`, `composure 5/9` and `doubloons 44/60` were one mechanism. *Payable* is now a flag, not a kind.
+
+---
+
+# ✅ L18 · Aggregation operators — SETTLED
+
+The Track merge collapsed most of it. **Track** clamps to its bounds · **Tag** membership unions and magnitudes add · **Capacity** needs no operator, since increases are Modifiers · **Relationship** never merges.
+
+**The test:** apply each to the same three inputs in six different orders. Any operator that gives different answers is wrong.
 
 ---
 

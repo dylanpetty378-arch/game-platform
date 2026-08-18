@@ -117,7 +117,7 @@ A named value attached to an Entity. Attributes come from two places:
 **LIST: Category Attributes, per Category — PENDING.** See L3.
 
 ## Noun
-A published data schema — the shape of something the system can hold. **Nouns are one of five kinds and no others:** Capacity · Tag · State · Resource · Relationship. They behave differently under change, aggregation and rendering, which is why the kinds exist at all. Nouns are extensible forever; Verbs are not.
+A published data schema — the shape of something the system can hold. **Nouns are one of four kinds and no others:** Capacity · Tag · Track · Relationship. *(Five until August 2026, when State and Resource were found to be one mechanism and merged into Track.)* They behave differently under change, aggregation and rendering, which is why the kinds exist at all. Nouns are extensible forever; Verbs are not.
 
 ## Actor
 Who or what wrote a Record. `user` · `system` · `agent`. An agent Record also carries the model, the session, and the human who approved it. **Agents never write as humans.**
@@ -1887,7 +1887,7 @@ L21 came before L29 because the attempt Dimensions live inside the attempt Space
 
 ## L2 · Universal Attributes — **SETTLED, Aug 2026**
 
-Every Entity, no exceptions. Nine fields in three groups.
+Every Entity, no exceptions. Eight fields in three groups.
 
 ### Structure — six
 
@@ -1900,7 +1900,7 @@ Every Entity, no exceptions. Nine fields in three groups.
 | `scale` | optional integer | Substrate, because R-750 and parts legality read it and rule 1 forbids reading Facets |
 | `facets` | per-Component data | the escape hatch — anything that is not one of the five Noun kinds |
 
-### Noun slots — three
+### Noun slots — two
 
 The five Noun kinds need somewhere the Substrate can read **uniformly**. `facets` cannot be that place: rule 1 forbids reading another Component's Facets, while a Listener watching a State, a Guard reading a Resource and a Threshold reading a Capacity all cross Component lines by design.
 
@@ -1909,10 +1909,9 @@ So each kind gets a slot. **The Substrate owns the shape; Components own the def
 | Slot | Holds | Aggregates by |
 |---|---|---|
 | `capacities` | Capacity ID → value. The fifteen attempt Dimensions live here | — |
-| `states` | axis → State ID, optional magnitude | `max`, never sum |
-| `resources` | Resource ID → value, with Thresholds | `clamp` |
+| `tracks` | Track ID → current value, bounded by a max | `clamp` |
 
-`tags` doubles as the fourth slot. **Relationship needs no slot — it is an Entity.**
+`tags` doubles as the third slot. **Relationship needs no slot — it is an Entity.**
 
 ### Not fields, each for a reason
 
@@ -1966,18 +1965,18 @@ Relationship  connections[] — one per participant: holder · about · stance
 
 ### Base Ruleset
 
-| Category | Capacities | Resources | State axes | Other |
-|---|---|---|---|---|
-| `Creature` | the fifteen attempt Dimensions | `vitality` | posture · awareness · consciousness | Specialisations |
-| `Item` | — | `integrity` | access | `mass` and `bulk` Tags; Guards |
-| `Place` | — | — | — | extent and containment, per the Place Socket |
-| `Group` | attempt Dimensions **if it acts** — i.e. if it is also a `Creature` | `standing` | posture | membership via `member_of` |
-| `Notion` | — | `credibility` | spread | provenance; **no location, no harm pipeline** |
-| `Phenomenon` | — | `fuel` | intensity | a standing vector, scoped by Place |
+| Category | Capacities | Tracks (see L5) | Other |
+|---|---|---|---|
+| `Creature` | the fifteen attempt Dimensions | `vitality` · `vigor` · `mobility` · `acuity` · `composure` · `clarity` · `will` · `temperature` | Specialisations |
+| `Item` | — | `integrity` · `substance` · `temperature` | `mass` and `bulk` Tags; Guards |
+| `Place` | — | `temperature` | extent and containment, per the Place Socket |
+| `Group` | attempt Dimensions **if it acts** — i.e. if it is also a `Creature` | `standing` · `vitality` (its cohesion) | membership via `member_of` |
+| `Notion` | — | `standing` (how widely believed) | provenance; **no location, no harm pipeline** |
+| `Phenomenon` | — | `vigor` (its fuel) · `working` if it is magical | a standing vector, scoped by Place |
 
-**The absence of a row is the mechanism, not an omission.** `Item` has no mental State axes and no `composure`, which is exactly why a mental vector against a vase resolves fully and lands on nothing. See *The three ways nothing happens* in Part 2A.
+**The absence of a Track is the mechanism, not an omission.** `Item` carries no `composure`, which is exactly why a fear vector against a vase resolves fully and lands on nothing. See *The three ways nothing happens* in Part 2A. **A Setting adds Tracks to a Category freely** — a Setting where vases can be haunted gives `Item` a `will` Track and everything follows.
 
-**A composed Entity takes the union.** A sentient sword is `Item` + `Creature`: it has `integrity` *and* `vitality`, mass *and* attempt Capacities, and it can be both smashed and frightened.
+**A composed Entity takes the union.** A sentient sword is `Item` + `Creature`: it carries the `integrity` Track *and* the `composure` Track, mass *and* attempt Capacities, and it can be both smashed and frightened.
 
 **Depends on:** L1, L2. **Blocks:** the authoring forms, the character sheets, L6.
 
@@ -2007,19 +2006,84 @@ What L1–L3 already settle: **every Creature carries the same fields whether or
 
 ---
 
-## L5 · State axes — PENDING · BLOCKING
+## L5 · Tracks — **SETTLED, Aug 2026**
 
-**Research: `lists-research.md` §3.** Seven candidate axes, and two hard findings: magnitudes **take the higher, never add** (additive stacking makes any repeatable source unbounded), and **condition implication is a live maintenance cost** in shipping systems — the same failure as tag hierarchy.
+**A Track is a bounded value with a maximum, a current, and named bands.** It is the persistent counterpart of a Dimension: the Dimension is the axis a vector travels on, the Track is the standing value on that same axis.
 
-**What it is.** Each axis is a set of mutually exclusive States. Posture is an axis: standing, prone, seated. Consciousness is another.
+```
+fireball   →  vector on temperature + integrity  →  pushes those Tracks
+charm      →  vector on will                     →  pushes that Track
+```
 
-**Shape of an entry.** Axis name, the States on it, which is the default, and what each does.
+**Identical machinery.** Inflicting charm is not different from throwing a fireball; only the axis differs.
 
-**Constraints.** Only one State per axis at a time. States end only through a Verb. If two sources apply the same State, only the highest magnitude counts.
+### State and Resource merged into Track
 
-**The hard part.** Distinguishing an axis from a Resource. Continuous → Resource. Small set of named alternatives → State axis. Thresholds on a Resource may *set* a State, which is the bridge.
+Until August 2026 there were five Noun kinds. `vitality 18/22`, `composure 5/9` and `doubloons 44/60` turned out to be one mechanism wearing three names — a max, a current, and something that pushes it.
 
-**Start by** listing the axes, not the States. Axes are the permanent part; States can be added to an axis later.
+Nothing was lost in the merge. *Exclusive within an axis* is trivially true when the axis holds one number. *Ended only by a Verb* is unchanged. State's `max` and Resource's `clamp` are one rule. And **payable** — whether it may be named as a cost — became a flag rather than a kind, so `doubloons` is payable and `mobility` is not.
+
+**Capacity stays separate, and the line is clean: a Capacity is what you *bring* to an attempt; a Track is what can be *pushed*.**
+
+### Named conditions are bands, not things
+
+There is no `prone` State and no `blinded` State. There is a `mobility` Track and an `acuity` Track, and those words are labels on ranges.
+
+| What other systems call a condition | What it is here |
+|---|---|
+| prone · knocked down · restrained · paralysed | low `mobility` |
+| blinded · deafened · dazzled | low `acuity` |
+| stunned · confused · dazed | low `clarity` |
+| frightened · panicked · shaken | low `composure` |
+| charmed · dominated · commanded | low `will` |
+| exhausted · fatigued | low `vigor` |
+| dying · unconscious | `vitality` near zero |
+| broken · shattered · wrecked | low `integrity` |
+| silenced · sealed · mana-burnt | low `working` |
+| soulless · hollowed · husked | low `essence` |
+
+**Bands are content, not Substrate.** The Substrate ships Tracks and Thresholds; the Ruleset ships the band names, and a Setting may band and name differently. The same `composure` Track carries a fear vocabulary in one Setting and a battle-stress vocabulary in another.
+
+### The fourteen — one per Dimension
+
+**Every Dimension pushes at least one Track, and no Dimension is without one.** That is a CI invariant, not a coincidence: a Dimension with nothing to land on would be a dead axis, which is exactly the failure that leaves a quarter of a bestiary immune to poison and nothing at all resisting force.
+
+**Maximum is good; zero is fully compromised** — except the two bipolar axes, where the *middle* is good and both ends are bad.
+
+| Track | Bands, max → 0 |
+|---|---|
+| `vitality` | hale · hurt · wounded · grave · dying |
+| `vigor` | fresh · tired · weary · spent · collapsed |
+| `mobility` | free · slowed · hobbled · pinned · immobile |
+| `acuity` | sharp · dulled · clouded · blind |
+| `integrity` | intact · marred · damaged · failing · ruined |
+| `substance` | whole · pitted · eaten · consumed |
+| `composure` | steady · rattled · shaken · panicked · broken |
+| `clarity` | lucid · muddled · confused · senseless |
+| `will` | resolute · wavering · yielding · dominated |
+| `standing` | renowned · respected · known · disregarded · disgraced |
+| `regard` | devoted · warm · civil · cool · hostile — **held on a Connection, never on the target** |
+| `essence` | whole · thinned · frayed · hollow |
+| **`temperature`** | **BIPOLAR** — scorched · seared · hot · **temperate** · cold · chilled · frozen |
+| **`working`** | **BIPOLAR** — surging · charged · **quiet** · dampened · sealed |
+
+**The two mystic Tracks are the ones with no precedent to borrow.** `working` low means workings are suppressed — you cannot cast, or what you cast is smothered; `working` high means magic is surging in or around you, which is its own kind of danger. `essence` low means the self is being hollowed out, and it is the axis that does not come back on its own.
+
+### The bipolar Tracks need a different band structure, and this is declared
+
+`temperature` and `working` are **signed and centred on zero.** Comfortable is the middle; both extremes are bad, and they are bad in different ways. A Track that degrades downward cannot express that, so bipolar Tracks carry two Thresholds rather than one and their bands run outward from the centre in both directions.
+
+### Which Tracks an Entity has
+
+**Its Categories decide** — see L3 — and a Setting adds more freely. **A missing Track is not a gap; it is the immunity mechanism.** An `Item` has no `composure`, so a fear vector resolves perfectly normally and lands on nothing.
+
+### A Track definition carries
+
+name · the Dimension(s) that push it · maximum (usually derived from Capacities) · current · bands with their Thresholds · **payable** (may it be named as a cost) · whether it is bipolar · how it restores.
+
+**Forgetting the maximum is the recorded mistake.** Values add by default, so without a ceiling `poisoned 47` is reachable.
+
+**Depends on:** L22 (Dimensions), L1–L3. **Blocks:** L25, L18, and every Component with persistent consequence.
 
 ---
 
@@ -2143,15 +2207,20 @@ Three of those were added by running the consequence test on eight fictional act
 
 ---
 
-## L18 · Aggregation operators — PENDING · BLOCKING
+## L18 · Aggregation operators — **SETTLED, Aug 2026**
 
-**What it is.** How two changes to the same thing combine, declared per kind of value and per attribute.
+**The Track merge collapsed most of this list.** Four Noun kinds, four rules.
 
-**Why it matters.** This is the single most likely source of "the same history produced different state," because two independently written Components otherwise produce order-dependent numbers.
+| Noun kind | Operator | Why |
+|---|---|---|
+| **Track** | `clamp` to its bounds | one kind, one rule — this absorbed State's `max` and Resource's `clamp` |
+| **Tag** | `union` for membership; magnitudes **add** | a Tag that should not add is a *property*, and properties are **set** at creation rather than **granted** by effects. Mass is set; illumination is granted |
+| **Capacity** | none needed | increases are Modifiers, handled at R-300 and R-500 |
+| **Relationship** | **never merge** | each participant's stance stands alone — the whole reason it is an Entity and not an edge |
 
-**Shape of an entry.** The operator, what it does, and which kinds of value it is legal for.
+Everything on the resolution path was settled in Phase 0: contributions add, percentages sum, nothing compounds, and apportionment is floor-then-remainder-largest-first. Threshold aggregation is `sum`, `highest` or `each` — never `lowest`, because a weakest-link rule punishes the party for letting anyone participate.
 
-**Known constraints.** Capacities plausibly add and multiply. Resources clamp. States take the highest applicable rather than the sum. Tags are set union. Relationships likely need their own rule. Channels add per Dimension.
+**The test.** Apply each operator to the same three inputs in six different orders. Any operator that gives different answers is wrong. This list is named in the architecture as *the single most likely source of "the same Ledger produced different state."*
 
 ---
 
@@ -2545,7 +2614,10 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 
 | Date | Decision | Reasoning |
 |---|---|---|
-| **Aug 2026** | **L1/L2/L3 settled — nine Categories, nine universal fields** | A Category is a **bundle of data needed to participate**, not a taxonomy, and Categories **compose**: a sentient sword is Item + Creature. `Creature` means *can act*, not *is alive* |
+| **Aug 2026** | **State and Resource merged into Track — four Noun kinds, not five** | `vitality 18/22`, `composure 5/9` and `doubloons 44/60` are one mechanism: a max, a current, and something that pushes it. Nothing was lost — *exclusive within an axis* is trivial when the axis holds one number, and *payable* became a flag rather than a kind |
+| **Aug 2026** | **A Track is the persistent counterpart of a Dimension; named conditions are bands** | There is no `prone` State — there is a `mobility` Track and a word for a range of it. This makes inflicting charm mechanically identical to throwing a fireball, which was the point. Bands are Ruleset content; Tracks and Thresholds are Substrate |
+| **Aug 2026** | **Every Dimension pushes at least one Track — a CI invariant** | A Dimension with nothing to land on is a dead axis, which is the failure that leaves a quarter of a bestiary immune to poison and nothing resisting force |
+| **Aug 2026** | **L1/L2/L3 settled — nine Categories, eight universal fields** | A Category is a **bundle of data needed to participate**, not a taxonomy, and Categories **compose**: a sentient sword is Item + Creature. `Creature` means *can act*, not *is alive* |
 | **Aug 2026** | **Most immunity is absence, not a rule** | A vase has no `composure`, so a fear vector resolves fully and lands on nothing. You never write "vases are immune to fear" — the data not being there **is** the immunity. Declared immunity at R-600 is the rarer case of a thing that has the state and is protected anyway. Landing writes a Record when a packet has nowhere to go |
 | **Aug 2026** | **`part_of` replaced by a generic `links` field** | The research warned that Flecs and Bevy each shipped a bespoke parent/child field, each hit a second structural relation, and each had to rebuild. The second one appeared immediately: a door is *part of* a ship, a person is not *part of* a guild. A relation is now an ID with declared traits, so a new one is additive |
 | **Aug 2026** | **The three character sheets deferred until character creation is designed** | What a sheet shows is downstream of how a character is made. Writing it first would bake in an authoring path nobody chose. L1–L3 already settle the part that matters: every Creature carries the same fields whether a player made it or a bestiary entry typed them in |
