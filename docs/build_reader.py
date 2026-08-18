@@ -14,6 +14,7 @@ DOCS = [
     ("issues-and-ideas.md","Issues & Ideas", "23 ranked problems with the design, and 20 things it makes possible."),
     ("branding-research.md","Branding",      "Naming, trademark, identity, positioning, community. Aug 2026."),
     ("brand-drafts.md",   "Brand Drafts",   "Name candidates, the no-AI statement, the first post."),
+    ("brand-identity.md", "Brand Identity", "Vectus. The board, transcribed: mark, palette, type, the eight steps."),
     ("phase-map.md",      "Phase Map",      "Every phase to release, what gets done, and the gates."),
     ("beta-spec.md",      "Beta Spec",      "The developer playtest build: tunables, transparency, logs."),
     ("open-questions.md", "Open Questions", "Everything undecided, by when it has to be answered."),

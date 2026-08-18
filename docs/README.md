@@ -52,7 +52,7 @@ Organised by *when the answer is needed*: repair decisions that are broken today
 
 Twenty-three ranked problems. **Four foundation findings (A1–A4) open Phase 0**; **four arithmetic findings (A2, A3, A4, A7)** are the ones demonstrable on paper today. Both sets are Edition breaks once a Campaign exists. Then twenty ideas that fall out of machinery that already exists. Read Part A before writing any code — it is the input to `work-repair.md`.
 
-**8. `branding-research.md`** — naming, trademark, identity, positioning, community.
+**8. `branding-research.md`** — naming, trademark, identity, positioning, community. Its successor for the visual identity is **`brand-identity.md`** — the Vectus board, transcribed and mapped onto the system: the mark, the palette and Dynamic Signal, the type, the eight-step play-register vocabulary, and the flags.
 
 Grounded in current sources. The load-bearing finding: a book title is not registrable as a trademark, but software and games are exempt from that bar — so the platform framing is a legal advantage and not only a marketing one.
 
@@ -86,7 +86,8 @@ Grounded in current sources. The load-bearing finding: a book title is not regis
 | `work-lists.md` | **The Phase 1 record — closed August 2026.** What each list decided, and the honest done-when accounting. |
 | `work-tracks.md` | Current. Brand, legal and audience. A0 answered and the first three deliverables drafted, Aug 2026. |
 | `beta-spec.md` | **New, Aug 2026.** The Phase 2 build: the developer playtest site. Tunables, transparency, logging. |
-| `brand-drafts.md` | **New, Aug 2026.** Thirty name candidates (uncleared), the no-AI statement, the first build-in-public post. |
+| `brand-drafts.md` | Aug 2026. The name search (superseded by **Vectus**), the no-AI statement, the first build-in-public post. |
+| `brand-identity.md` | **New, Aug 2026. The base design principles.** The Vectus identity board, fully documented: name, mark, palette, Dynamic Signal, type, iconography, the eight-step system, UI language, and the flags awaiting Dylan's calls. |
 | `issues-and-ideas.md` | Review, August 2026. Both sets — the four foundation findings and the four arithmetic findings — are carried as decisions in `work-repair.md`. |
 | `branding-research.md` | Research, August 2026. Sources cited; thin areas flagged. |
 | `substrate-lists.xlsx` | The workbook, one tab per live list plus *Read me* and *Progress*. **Every blocking list settled as of Aug 2026**, L4 provisional at twenty-four; L6 (not blocking, closing last) drafted at seven for the Phase 2 close. The L23 tab is generated from `channels.py`, the canonical source. Non-blocking forward tabs are research-seeded. |

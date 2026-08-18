@@ -89,11 +89,7 @@ The full record of what was decided and why is **`work-repair.md`**. In one line
 
 ## Q3.1 · How many Attempt Points? — **ANSWERED, August 2026**
 
-**They scale with the character — start around 3, grow to as many as the character can use. Playtest default: 5, as a PLAYTEST tunable.** The scaling curve belongs to character creation, which is Phase 2 work; the natural home remains a Capacity, which keeps it kind-agnostic and non-inflating.
-
-Five is a placeholder with nothing behind it.
-
-**The natural home is a Capacity** — *capacity to divide attention* — which makes it kind-agnostic and lets a distracted character have fewer and a practised one more. It also makes it a progression axis that **cannot inflate damage**, because points buy precision rather than power.
+**They scale with the character — start around 3, grow to as many as the character can use. Playtest default: 5, as a PLAYTEST tunable.** The scaling curve belongs to character creation, which is Phase 2 work; the natural home remains a Capacity — *capacity to divide attention* — which keeps it kind-agnostic, lets a distracted character have fewer and a practised one more, and makes it a progression axis that **cannot inflate damage**, because points buy precision rather than power.
 
 **Blocked by it.** Character creation, progression, the interface, and every Threshold's difficulty.
 
@@ -219,6 +215,14 @@ It is a built-in GM setting, so both work. **But the default decides what the ga
 
 ---
 
+## Q4.5 · What is solo play, exactly? — *new with the brand, August 2026*
+
+The Vectus identity board promises it twice: *"Jump in solo"* and *"Play solo or together — your choice."* The corpus never scoped a solo mode. Standing orders, asynchronous reports and authored content get most of the way to a GM-less loop — but somebody has to design who sets the Thresholds, who plays the world, and what a solo session's Dispatch looks like. Until that is scoped, the brand promise is ahead of the roadmap, which is the one kind of debt a brand should not carry long.
+
+**Options:** authored solo Adventures (content plays the GM — rails plus Deciders with defaults); an oracle-style GM emulator as a Component; or narrowing the promise to "start solo, learn solo" (character creation and tutorials) until one of the first two exists.
+
+---
+
 ## Q4.3 · What does a Component look like to a customer?
 
 An expansion? A subscription tier? A class? A rules module? **The mental model determines the price point, and the price point is close to irreversible after launch.**
@@ -287,9 +291,9 @@ It is also exposure you may not want, and it fuses the brand to you in a way tha
 
 ---
 
-## Q5.6 · Which invented words must a player hold in their head to take a turn?
+## Q5.6 · Which invented words must a player hold in their head to take a turn? — **direction set by the brand, August 2026**
 
-You know this and I do not. **That list is the only one the jargon research applies to.** Everything else is documentation and can be as precise as you like.
+**The Vectus board answers the register question:** players meet the eight steps — Intent, Direction, Force, Interaction, Layers, Resolution, Outcome, Your Story — plus *vector*, *magnitude*, *chance* (`brand-identity.md`). The engine register never reaches a player screen. What remains open is exactly which mechanical terms survive on the character sheet. You know this and I do not. **That list is the only one the jargon research applies to.** Everything else is documentation and can be as precise as you like.
 
 The related question: **would you accept the community renaming things?** They will. If that would be intolerable, the player-facing vocabulary has to be *sayable* rather than merely correct — because sayable wins every time.
 

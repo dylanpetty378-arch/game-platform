@@ -42,6 +42,7 @@ LIVING = [
     HERE / "repo-and-sync.md",
     HERE / "beta-spec.md",
     HERE / "brand-drafts.md",
+    HERE / "brand-identity.md",
 ]
 
 # A line may mention a retired thing while telling the story of its

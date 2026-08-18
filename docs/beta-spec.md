@@ -82,7 +82,7 @@ The engine core, because the beta cannot exist without it: the Ledger (append-on
 
 ## What the beta is not
 
-Not the product. Not pretty. Not hidden-information play. Not the Resolution occupant's final formula. Not multi-campaign scale, not accounts hardening, not mobile. Every one of those has a phase, and it is not this one.
+Not the product. Not pretty — the Vectus identity (`brand-identity.md`) deliberately does not apply here; the first branded surface is the public one. Not hidden-information play. Not the Resolution occupant's final formula. Not multi-campaign scale, not accounts hardening, not mobile. Every one of those has a phase, and it is not this one.
 
 ## The gate
 

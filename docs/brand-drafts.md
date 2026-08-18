@@ -4,7 +4,9 @@
 
 ---
 
-## 1 · Name candidates
+## 1 · Name candidates — **SUPERSEDED, August 2026: the name is VECTUS**
+
+*Dylan chose **Vectus** — from vector, the word the design stands on — delivered with a full identity board the same day. The board is documented in `brand-identity.md`, which is now the canonical brand reference. The candidate list below stays as the record of the search. **Clearance for Vectus has not been run** — that is the next brand action.*
 
 **What the name must do**, per the research: be fanciful or arbitrary (the strongest trademark class), be *sayable* — "let's play ____" has to sound natural at a table, because sayable beats correct every time (Q5.6) — carry no genre lock (the platform will host many Settings), and survive knockout searches. **None of these have been cleared.** Before attachment forms: USPTO TESS search in classes 009/041/042, domain and social-handle checks, and a general collision search. Filing is intent-to-use, as the research recommends.
 
@@ -99,7 +101,7 @@ If any of this sounds like your group chat, follow along. The interesting part i
 |---|---|
 | A1 · Answer: is it ever a book? | **Answered — no** (Q5.1) |
 | A2 · One brand or three? | **Answered — system = platform, one name; company may differ** (Q5.4) |
-| A3 · Thirty name candidates | **Drafted above — clearance not yet run** |
+| A3 · Thirty name candidates | Superseded — **Vectus chosen**; clearance is the next action |
 | A5 · Position sentence | Embedded in the post's title and first section; extract when the name lands |
 | A6 · No-AI statement | **Drafted above — unpublished** |
 | B1 · Newsletter | First post drafted; the account/platform is Dylan's to create |
