@@ -2243,36 +2243,63 @@ The second argument is arithmetic: **Scale belongs to the part as well as the wh
 
 ---
 
-## L31 · Timings — PENDING · BLOCKING · **NEW, Aug 2026**
+## L31 · Timings — **SETTLED, Aug 2026**
 
-**What it is.** The closed, named set of answers to *when may this be paid for and used*. One word on an ability, the way a Channel is one word on a vector.
+**What it is.** The one word on an ability saying **when you may pay for it and use it.** Orthogonal to `cost` (how much) and `cap` (how often), and distinct from the **pin** (when the resulting vector lands).
 
-**Why it is named rather than written out.** The alternative — every ability hand-writing an eligibility condition — was tried on paper and is unusable: to say *"this is a reaction"* an author had to write three lines of condition. Naming it is the same move the whole design already makes. A Channel is a named position over fourteen Dimensions; nobody writes the coordinates. A timing is a named position in the time model; nobody writes the condition.
+```
+Fireball          cost 40    timing own
+Riposte           cost 10    timing respond      trigger: someone attacks me
+Blink             cost 15    timing interrupt    trigger: someone attacks me
+Healing draught   cost 15    timing any
+```
 
-**The structural finding from the field.** Magic and Yu-Gi-Oh independently converged on the same four-way split of *how an ability is used at all* — activated, triggered, static, and resolution instructions. Three of those four are already other machinery here:
+### The four
 
-| Their category | Ours |
-|---|---|
-| Activated | an ability with a `cost` and a `timing` |
-| Triggered | a **Listener** — already class `Triggered`, already pinned to a later Moment |
-| Static | a **Modifier** or a **Guard** — present at R-200/R-300 or R-850/R-1050, never resolved |
-| Spell ability | the vector's own resolution |
+| Timing | Plain English | Expands to |
+|---|---|---|
+| `own` | on your turn | the current Moment is one you own |
+| `any` | whenever you like | no restriction |
+| `respond` | when X happens you may react, **after** it | the Moment is not yours **and** the trigger holds; resolves after |
+| `interrupt` | when X happens you may react **before** it | the Moment is not yours **and** the trigger holds; resolves before |
 
-**So L31 is only about the activated case**, which shrinks it a great deal. And the systems that survive keep the set tiny: Magic has two speeds, Yu-Gi-Oh three, Pathfinder 2e two. D&D 4e had seven action types with a substitution hierarchy and it is the recorded failure.
+**`trigger` is a separate optional field, not part of the timing.** Required for `respond` and `interrupt`; optional for `own` and `any`. *"On your turn, when you are bloodied, you may…"* is a legal and useful shape, and welding the condition into the timing name is exactly how `bonus action` came to mean three things at once.
 
-**Candidates — six, and at least one should be cut.** See `lists-research.md` for the evidence behind each.
+**A trigger is not a Listener.** A Listener fires by itself. A trigger is *permission* — the condition opens a window, and the player still chooses and still pays.
 
-`own` · `any` · `respond` · `interrupt` · `pending` · `standing`
+### These words are shorthands, and that is deliberate
 
-**Three questions the list has to answer:**
+**A timing is a frozen Substrate word that expands to a defined predicate, not a primitive.** The expansion is written down and inspectable. An author writes one word for the common case and may write a predicate directly for a case no word covers, so the four names never become a ceiling.
 
-1. **Is `interrupt` worth it?** Resolving *before* the thing that prompted it — and possibly preventing it — is the most satisfying play in any game that has it, and the largest single source of table arguments, because "before" means rewinding something already declared. D&D 4e had it; 5e cut it.
-2. **Is `standing` a timing at all**, or is it just *"this is a Modifier, not an ability"*? Leaning cut.
-3. **Does `any` need to exist**, or is it `own` plus `respond` with no condition?
+That matters because of how this list nearly went wrong. It was first proposed as a list of **new concepts**, and Dylan's question — *"I thought we just did moment kinds and listeners; those together should be when things can happen"* — showed that it was not. Three of the four decompose entirely into machinery that already exists: which Moments an ability is legal in is **L32 Moment kinds plus turn ownership**; whether a condition must hold is an **L26 Listener condition**; whether the player chooses or it fires by itself is **Proposal plus Decider**.
 
-**The cost of a large set is not the number of names — it is the pairwise interactions.** Two names have one interaction; seven have twenty-one. That is the arithmetic behind 4e's action-economy complaints.
+So L31 is a small vocabulary sitting on existing machinery, and saying so in the definition is what keeps it honest.
 
-**Depends on:** the Substrate time model. **Blocks:** L28, and every ability ever written.
+### The one genuinely new piece: before or after
+
+**This is the only thing on the list that is not derivable from something else.**
+
+*Riposte* and *Blink* have identical triggers. Riposte strikes back **after** the blow lands; Blink gets you out of the way **before** it does. No combination of Moment kinds and conditions distinguishes those two.
+
+**And the mechanism is not cancellation.** Nothing in this design cancels a Verb. An interrupt's state change is simply **visible to the prompting vector's gather at R-100**; a response's is not. So Blink does not stop the attack — it moves you, and when the attack gathers its targets you are no longer among them. The attack resolves perfectly normally against nobody. That is the same move the whole design keeps making: change state and let the arithmetic follow.
+
+**Consequence for L7:** interrupt Verbs must resolve before the vectors they interrupt, within the same Moment. That is a within-Moment ordering requirement the lattice does not yet express, and it belongs to L7 rather than here.
+
+### Why `interrupt` survives here when 5e cut it
+
+Every tabletop system with a before/after split fights about it. D&D 4e had *immediate interrupt* versus *immediate reaction*; 5e collapsed both into one word. The recorded complaint is always the same: *"before"* means rewinding an action a player has already declared and narrated aloud, and tables hate it.
+
+**That cost is a human-table cost and does not transfer.** This engine resolves a Moment on a server from a Ledger. Nothing has "already happened" that anyone must take back; an interrupt is a Verb resolving earlier in an ordering that was always going to be computed. The mechanic that costs the most at a physical table costs close to nothing here, which makes it a genuine advantage of the medium rather than a copy of tabletop.
+
+### Considered and cut
+
+**`pending`** — *"declared now, resolves later, interruptible meanwhile."* A pin, not a timing. A vector pinned to a later Moment is already a pending **Entity**: it exists, it can be targeted, it can be dispelled. A three-Moment cast time is `timing: own` plus a pin, and the interruptible window falls out of the pin. It answers *when does it land*, not *when may I pay*.
+
+**`standing`** — *"continuously present while its condition holds."* A **Modifier** at R-200/R-300 or a **Guard** at R-850/R-1050. Never paid for, never resolved; a list about *when you may pay* is the wrong home.
+
+**Also out of scope from the start**, and the reason four entries suffice where D&D 4e needed seven: the field's four-way split of how an ability is used at all is **activated · triggered · static · resolution instructions**, and three of those are already other machinery here — a Listener, a Modifier or Guard, and the vector's own resolution. Only the activated case is L31.
+
+**Depends on:** L32, L26. **Blocks:** L28, and every ability ever written.
 
 ---
 
@@ -2404,8 +2431,12 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 
 | Date | Decision | Reasoning |
 |---|---|---|
+| **Aug 2026** | **L31 settled: four timings — `own`, `any`, `respond`, `interrupt`** | `trigger` is a separate optional field, required only for the two reactive ones. `pending` cut (it is a pin) and `standing` cut (it is a Modifier or Guard) |
+| **Aug 2026** | **Timings are frozen shorthands that expand to defined predicates, not primitives** | Three of four decompose into L32 Moment kinds plus turn ownership, L26 conditions, and Proposal plus Decider. Saying so keeps the names honest and stops four words becoming a ceiling — an author may write a predicate directly |
+| **Aug 2026** | **`interrupt` kept, though 5e cut its equivalent** | The recorded cost of before/after is a *human-table* cost — un-narrating a declared action. A server resolving a Moment from a Ledger has nothing to take back. And it is not cancellation: an interrupt's state change is visible to the prompting vector's gather at R-100, so Blink does not stop the attack, it removes you from the target set |
 | **Aug 2026** | **`turn count (n)` added — nine Moment kinds** | The earlier answer, that initiative counts are a Component clock, was wrong: **a Component cannot publish a Moment kind.** Sending them to a Component would have made Shadowrun-, Feng Shui- and Exalted-style initiative inexpressible until a Substrate change. An inert Moment kind costs nothing; omitting one costs an Edition break |
 | **Aug 2026** | **Listener conditions compose; firing discipline is required with no default** | `and`/`or`/`not` — `not` is safe because the open-world rule is about absent *fields*, not unknown *state*. `once` vs `while` has no default because the two behave differently enough that a wrong guess is silent |
+| **Aug 2026** | **Version 1 of the website ships everything free; paid Components come after** | The first six Settings and every Component built for them are in the free version. Consequence for the authoring loop: **additive findings get tracked too.** Additive-only makes an addition technically safe and says nothing about whether it should exist — every one is shipped free-tier content and a word a player may meet. A rising additive rate late in playtest means the vocabulary is sprawling, not that the system is flexible |
 | **Aug 2026** | **The authoring loop is the Substrate's real test** | Nothing verifies a Substrate except trying to build content on it. Assets are generated in bulk and checked mechanically; a misfit is a finding, never a workaround. Findings split into *additive* (cheap, open forever for Components) and *structural* (an Edition break, window closes at launch), and the check must say which |
 | **Aug 2026** | **L32 settled: nine Moment kinds** | `turn start (E)` collapses four entries into two — "my turn" is just E = self. Every reference carries a round; rounds number from 1 and there is no round 0. Authors write relative, the Ledger stores absolute, because **rounds never reorder** while turn order within a round does |
 | **Aug 2026** | **Conditional activation is a Listener, never a Moment kind** | Two orthogonal axes: a Moment says *when*, a Listener says *whether*. The Moment list is a frozen coordinate system and stays small; the condition set is open and Component-extensible forever. Growing the frozen list to cover cases the open list already handles is permanent weight for nothing |

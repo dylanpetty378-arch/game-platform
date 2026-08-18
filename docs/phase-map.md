@@ -290,7 +290,13 @@ So the schedule is not a preference:
 - **Phase 7, open beta** — additive only, and only where it cannot wait.
 - **Phase 8, release** — the Substrate is closed. Everything after this is Components, forever.
 
-**The number worth tracking through Phases 5–7 is the rate of structural findings.** Additive findings never stop and should not; that is what additive-only is for. Structural findings should be falling toward zero, and if they are not, the Substrate is not ready no matter what the calendar says.
+**Track both rates, for different reasons.**
+
+**Structural findings** should be falling toward zero through Phases 5–7. If they are not, the Substrate is not ready no matter what the calendar says.
+
+**Additive findings** never stop and should not — that is what additive-only is for — but they are not free either, and the reason is a product reason rather than an engineering one. **Everything shipped in version 1 of the website is free to users.** The first six Settings and every Component built for them are part of the free version; paid Components come after. So every additive item is not just a row in a table — it is shipped content in the free tier, a word a player may meet in their first hour, and a thing that has to earn its place.
+
+That connects straight to the jargon budget: additive-only makes an addition *technically* safe, and says nothing about whether it should exist. **A rising additive rate late in playtest is a signal the vocabulary is sprawling, not a signal the system is flexible.** Watch it the same way, and ask of each one: is this important, or is it merely possible?
 
 ---
 

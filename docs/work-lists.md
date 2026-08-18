@@ -9,7 +9,8 @@
 | **SETTLED** | L21 Spaces · L29 Attempt Domains & Dimensions · L22 Dimensions · L23 Channels |
 | **SETTLED IN SHAPE** | L27 Sockets (three) · L28 Economy (one unit, three-field cost) |
 | **SETTLED** | L32 Moment kinds — eight, Aug 2026 |
-| **NEXT** | **L31 Timings** |
+| **SETTLED** | L31 Timings — four, Aug 2026 |
+| **NEXT** | **L1 / L2 / L3** — Categories, Universal Attributes, Category Attributes, plus the three character sheets |
 | **THEN** | L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → **L6 last** |
 
 > **The architecture changed in August 2026.** Time and Budget stopped being Sockets and became Substrate. The reason was comprehensibility: a Socket is a hole in the *explanation*, not just the code, and every worked example had to caveat itself. The objection — that a Setting might want week-long turns — dissolved once it was clear that a **Component adds rather than replaces**: month-scale play and second-scale play never meet, so they need not share a machine. Full argument in `list-log.md`.
@@ -27,6 +28,8 @@
 **Write down what you leave off.** Nothing above the Substrate can put back something the Substrate omitted, and in two years you will not remember whether something is missing because you decided against it or because you never thought of it.
 
 **Count the jargon as you go.** L21–L23 alone introduced five Space names, fourteen Dimension names and eighty-eight Channel names. The Channels are the ones players actually meet — the rest is machinery they can go a whole campaign without hearing. Keep the first-hour budget in mind on every list from here.
+
+**Try to write a list's entries out of the pieces that already exist, before accepting it is a list.** Two proposed lists died this way in one week — the denomination ladder and most of L31 — and both would have been permanent. If every entry decomposes into things already built, it is not a list; it is shorthand, and shorthand belongs in the authoring layer with its expansion written down.
 
 **Attack each list when you think it is done.** Not review it — attack it. That is what found the four foundation findings in Phase 0, and the sign-convention error in L22.
 
@@ -48,9 +51,9 @@ L28  Economy               ── SETTLED IN PRINCIPLE · one unit, three-field 
  ↓
 L32  Moment kinds          ── SETTLED · eight, every reference carrying a round
  ↓
-L31  Timings               ── the named closed set of WHEN                       ◄ HERE
+L31  Timings               ── SETTLED · four: own, any, respond, interrupt
  ↓
-L1 ── L2 ── L3             ── Categories, Universal, Category Attributes
+L1 ── L2 ── L3             ── Categories, Universal, Category Attributes    ◄ HERE
                               (and the three character sheets)
  ↓
 L4 Tags ── L5 States ── L18 Aggregation ── L25 Conversions
@@ -185,32 +188,23 @@ cap      how often, per Moment or per round   optional, usually absent
 
 ---
 
-# ◀ L31 · Timings — NEXT
+# ✅ L31 · Timings — SETTLED
 
-**Deciding:** the closed, named set of answers to *when may this be paid for and used*. One word on an ability, the way a Channel is one word on a vector.
+**Four:** `own` · `any` · `respond` · `interrupt`. Plus **`trigger`**, a separate optional field — required for the two reactive timings, optional for the other two.
 
-**Why it is named rather than written out.** Hand-writing the condition took three lines to say *"reaction."* Naming it is the move this design already makes everywhere.
+```
+Fireball   cost 40   timing own
+Riposte    cost 10   timing respond     trigger: someone attacks me
+Blink      cost 15   timing interrupt   trigger: someone attacks me
+```
 
-**The structural finding that shrinks the list.** Magic and Yu-Gi-Oh independently converged on the same four-way split of how an ability is used at all — and three of the four are already other machinery here:
+**The words are frozen shorthands that expand to defined predicates, not primitives.** Three of the four decompose entirely into machinery that already exists — L32 Moment kinds plus turn ownership, L26 conditions, and Proposal plus Decider. An author writes one word for the common case and may write a predicate directly for anything the four do not cover, so the list never becomes a ceiling.
 
-| Their category | Ours |
-|---|---|
-| Activated | an ability with a `cost` and a `timing` |
-| Triggered | a **Listener** |
-| Static | a **Modifier** or a **Guard** |
-| Spell ability | the vector's own resolution |
+**The one genuinely new piece is before-or-after.** Riposte and Blink share a trigger; Riposte strikes back after the blow lands, Blink moves you before it does. Nothing else expresses that. And it is **not cancellation** — an interrupt's state change is visible to the prompting vector's gather at R-100, so Blink does not stop the attack, it removes you from the target set and the attack resolves normally against nobody.
 
-**So L31 is only about the activated case.** And the surviving speed sets are tiny — Magic 2, Yu-Gi-Oh 3, PF2e 2. D&D 4e had seven with a substitution hierarchy and it is the recorded failure.
+**Cut:** `pending` (a pin, not a timing) and `standing` (a Modifier or a Guard, never paid for).
 
-**Candidates:** `own` · `any` · `respond` · `interrupt` · `pending` · `standing`
-
-**Three questions to answer:**
-
-1. **Is `interrupt` worth it?** Resolving *before* the thing that prompted it is the most satisfying play in any game that has it, and the largest source of table arguments, because "before" means rewinding something already declared.
-2. **Is `standing` a timing at all,** or just *"this is a Modifier"*? Leaning cut.
-3. **Does `any` need to exist,** or is it `own` plus `respond` with no condition?
-
-**The cost of a large set is not the number of names — it is the pairwise interactions.** Two names have one; seven have twenty-one.
+**Left for L7:** interrupt Verbs must resolve before the vectors they interrupt, within the same Moment. The lattice does not express that yet.
 
 ---
 

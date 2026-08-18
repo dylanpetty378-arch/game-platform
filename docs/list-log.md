@@ -16,7 +16,7 @@ It exists because in three years the entries will look arbitrary, and the differ
 | **L23** Named Channels | **Settled** — August 2026 |
 | **L27** Sockets | **Settled in shape** — three, August 2026 |
 | **L28** Economy | **Settled in principle** — one unit, three-field cost, August 2026 |
-| **L31** Timings | next |
+| **L31** Timings | **Settled** — August 2026 |
 | **L32** Moment kinds | **Settled** — August 2026 |
 
 ---
@@ -571,4 +571,65 @@ Written up in full in `phase-map.md`, with the schedule: expand freely in Phases
 
 ---
 
-*L31 · Timings — next.*
+---
+
+# L31 — Timings
+
+*Settled after the list nearly got built as something it wasn't. August 2026.*
+
+## What it was proposed as
+
+Six named timings, frozen in the Substrate, each a new concept: `own` · `any` · `respond` · `interrupt` · `pending` · `standing`.
+
+Two fell immediately on their own merits. **`pending`** — *declared now, resolves later, interruptible meanwhile* — turned out to be a **pin**, not a timing: a vector pinned to a later Moment is already a pending Entity that can be targeted and dispelled, so a cast time is `timing: own` plus a pin and the interruptible window falls out. **`standing`** is a Modifier or a Guard: never paid for, never resolved, so a list about *when you may pay* is the wrong home.
+
+## The question that changed the list
+
+Dylan, after the four-entry version was presented:
+
+> *"Wait... but i thought we just did moment kinds and listeners. Those together should be when things can happen. Either at specific moments or conditionally."*
+
+He was right, and testing it properly was uncomfortable. Three of the four remaining entries decompose entirely:
+
+| Piece | Where it already lived |
+|---|---|
+| which Moments an ability is legal in | L32 Moment kinds + turn ownership |
+| whether a condition must hold | L26 Listener conditions |
+| whether the player chooses or it fires by itself | Proposal + Decider |
+| **before or after the thing that prompted it** | **nowhere** |
+
+**So L31 was never a list of new concepts. It is a small vocabulary sitting on machinery that already existed.** The list survives — content will be written with these words forever, and Dylan had already rejected the alternative as *"the most roundabout way"* — but its status changed. **The words are frozen shorthands that expand to defined, inspectable predicates, not primitives.** An author writes one word for the common case and may write a predicate directly for anything the four do not cover, so four names never become a ceiling.
+
+## The one thing that was genuinely new
+
+**Before or after.**
+
+*Riposte* and *Blink* have identical triggers. Riposte strikes back **after** the blow lands; Blink gets you out of the way **before** it does. No combination of Moment kinds and conditions distinguishes them.
+
+**And working out the mechanism produced the better half of the finding: it is not cancellation.** Nothing in this design cancels a Verb. An interrupt's state change is simply **visible to the prompting vector's gather at R-100**, and a response's is not. So Blink does not stop the attack — it moves you, and when the attack gathers its targets you are not among them. The attack resolves perfectly normally, against nobody.
+
+That is the same move the design keeps making everywhere else: change state, and let the arithmetic follow. It also means interrupts need no new cancellation machinery at all — only an ordering guarantee, which is now an open item for **L7**: an interrupt Verb must resolve before the vector it interrupts, within the same Moment, and the lattice does not yet express that.
+
+## Why `interrupt` was kept where 5e cut it
+
+Every tabletop system with a before/after split fights about it. D&D 4e separated *immediate interrupt* from *immediate reaction*; 5e collapsed both. The complaint is always the same — *"before"* means rewinding an action a player already declared and narrated aloud.
+
+**That cost is a human-table cost and does not transfer.** The server resolves a Moment from a Ledger; nothing has "already happened" for anyone to take back. The mechanic that costs the most at a physical table costs close to nothing here — which makes it worth taking, because it is an advantage of the medium rather than a copy of tabletop. Dylan: *"interrupt i like, so we'll keep that."*
+
+## Settled
+
+**Four:** `own` · `any` · `respond` · `interrupt`.
+
+**`trigger` is a separate optional field** — required for `respond` and `interrupt`, optional for the other two. *"On your turn, when you are bloodied, you may…"* is legal and useful, and welding the condition into the timing name is precisely how `bonus action` came to mean three things at once. A trigger is **permission**, not a Listener: a Listener fires by itself, a trigger opens a window the player still chooses to step through and still pays for.
+
+`any` was the weakest of the four and was kept on Dylan's call — *"any might be used, so let's just keep it in."*
+
+## The habit this produced
+
+Two proposed lists died the same way in one week: the **denomination ladder** in L28, and most of **L31**. In both cases every entry turned out to be a combination of things that already existed, and in both cases the list would have been permanent.
+
+**So it is now a habit, recorded in `work-lists.md`: before accepting that something is a list, try to write its entries out of the pieces that already exist. If they all decompose, it is not a list — it is shorthand, and shorthand belongs in the authoring layer with its expansion written down.**
+
+---
+
+*L1 / L2 / L3 · Categories, Universal Attributes and Category Attributes — next, with the three character sheets.*
