@@ -2271,25 +2271,76 @@ The second argument is arithmetic: **Scale belongs to the part as well as the wh
 
 ---
 
-## L32 · Moment kinds — PENDING · BLOCKING · **NEW, Aug 2026**
+## L32 · Moment kinds — **SETTLED, Aug 2026**
 
 **What it is.** The named points a vector may be pinned to. Substrate, frozen, additive-only.
 
-**Candidates:** start of my turn · end of my turn · start of the round · end of the round · start of a named Entity's turn · end of a named Entity's turn · immediately · entry to Ordered time · exit from Ordered time.
+**A Moment is a reference, not a number.** A vector pinned to *"the start of Kira's turn"* stays pinned to that phrase, not to a tick computed at placement — turn order can change and a reaction can re-pin it. The **Tick** is stamped when the Moment actually occurs, and that is what makes replay exact.
 
-**The one that carries weight is turn ownership** — *mine* versus *not mine* — because `respond` and `interrupt` are defined in terms of it. Without ownership as a Substrate concept, a reaction cannot be expressed portably at all.
+### The eight
 
-**What is deliberately not here:** anything coarser than a round. Downtime weeks, seasons and campaign turns are Components, layered alongside. Content written for second-scale play and content written for month-scale play do not have to be compatible, because they never meet.
+| Kind | Means |
+|---|---|
+| `now` | the Moment currently resolving |
+| `next` | the following Moment, whatever it is — the only anchor available in Loose time |
+| `turn start (E)` | the start of Entity E's turn; **E may be self** |
+| `turn end (E)` | the end of Entity E's turn |
+| `round start` | |
+| `round end` | also where `cap` resets |
+| `ordered entry` | the Moment Ordered time begins |
+| `ordered exit` | the Moment Ordered time ends |
 
-**Depends on:** nothing. **Blocks:** L31, L28, L26.
+**`turn start (E)` collapses what were four entries into two.** "My turn" is just the case where E is self. Two frozen words instead of four, and no *which one do I use* question for authors.
+
+### Every Moment reference carries a round
+
+**Rounds are numbered from 1**, beginning when Ordered time is entered. There is no round 0. In Loose time the round is **absent**, and *absent is not zero* already covers that — the field is simply not there.
+
+**Authors write relative; the Ledger stores absolute.** Content says *"three rounds from now"*; at placement that resolves to a round number and the number is what is recorded. This is safe in a way that turn order is not: **rounds never reorder.** Round 7 always follows round 6, so resolving early costs nothing and makes the pin unambiguous. Turn order *within* a round can change, which is exactly why the Entity half of the reference stays symbolic.
+
+Most references will name the current round. That is fine and expected.
+
+### `ordered entry` and `ordered exit` are pinnable
+
+Not merely watchable. *"This lasts until the fight is over"* is common enough that forcing it through a Listener would be perverse.
 
 ---
 
-## L29 · Attempt Domains and Dimensions — **SETTLED, Aug 2026**
+## Conditional activation — **the answer is Listeners, not more Moment kinds**
 
-**Seven Domains, fifteen Dimensions.** The list, the structure and the allocation rules are in Part 2C; the research and the argument are in `list-log.md`.
+The eight look restrictive until you notice they answer a different question from the one conditional activation asks. **There are two orthogonal axes, and conflating them is what makes the list feel too small.**
 
-**Still open, deliberately:** how **magnitude** is produced — *"a combination of modifiers and a dice roll,"* with the exact formula deferred until every list is filled and the real numbers can be seen. Tracked in `open-questions.md`. The list does not depend on it; every worked example does.
+```
+Listener(condition)   →   produces a Verb   →   pinned to a Moment
+    WHETHER it fires                                WHEN it lands
+    open, extensible forever                    closed, eight kinds
+```
+
+**The Moment list is small because it is a coordinate system, not a vocabulary of triggers.** Flexibility lives in the Listener condition set, which is deliberately open — Components may publish new condition forms forever, and that is where every "it activates when…" belongs.
+
+Worked against real cases:
+
+| What you want | How it is expressed |
+|---|---|
+| *the next time somebody attacks Kira* | Listener: **a Resolution Record exists this Moment with target = Kira** → Verb pinned to `now` |
+| *when a person takes their reaction* | Listener: **doubloons spent this Moment by E with timing `respond` > 0** → pinned to `now` |
+| *when a spell is cast that meets a condition* | Listener: **a Resolution Record exists matching a shape** → pinned to `now` or to a later Moment |
+| *when their health drops below half* | Listener: **a value crosses a bar** |
+| *the third time it happens* | Listener plus a counter — a count is state, so the condition is *a value crosses a bar* again |
+| *when the fight ends* | not a Listener at all — pin to `ordered exit` |
+| *three rounds from now, at the start of my turn* | not a Listener — pin to `turn start (self)` with the round resolved |
+
+**The rule that falls out, and it is worth stating as a rule: a Moment kind says *when*; a Listener says *whether*. Never add a Moment kind to express a condition.** Doing so would grow a frozen list to cover cases an open list already handles, and every entry added to a frozen list is permanent weight.
+
+### The one case that is genuinely neither: *"activate on initiative 10"*
+
+This is not a condition and not one of the eight. It is a **position within a round, independent of who occupies it** — and it only exists in Settings whose turn structure is an initiative *count* rather than an ordering: Shadowrun's passes, Feng Shui's shots, Exalted 2e's ticks.
+
+**That is a finer clock, and a finer clock is a Component** — the same rule that sends downtime weeks and seasons to Components, running in the other direction. The Substrate publishes `turn start (E)`; a Setting that wants count 10 to be a real Moment even when nobody occupies it is adding a clock alongside, which is exactly what Components are for.
+
+Freezing *"a round is divided into numbered slots"* into the Substrate would be a game-design assumption most systems do not share — Pathfinder 2e and D&D 5e have no such thing — and it would fail the line: **if it is only true in some Settings, it is a Component.**
+
+**Depends on:** nothing. **Blocks:** L31, L28, L26.
 
 ---
 
@@ -2337,6 +2388,9 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 
 | Date | Decision | Reasoning |
 |---|---|---|
+| **Aug 2026** | **L32 settled: eight Moment kinds** | `turn start (E)` collapses four entries into two — "my turn" is just E = self. Every reference carries a round; rounds number from 1 and there is no round 0. Authors write relative, the Ledger stores absolute, because **rounds never reorder** while turn order within a round does |
+| **Aug 2026** | **Conditional activation is a Listener, never a Moment kind** | Two orthogonal axes: a Moment says *when*, a Listener says *whether*. The Moment list is a frozen coordinate system and stays small; the condition set is open and Component-extensible forever. Growing the frozen list to cover cases the open list already handles is permanent weight for nothing |
+| **Aug 2026** | **A position within a round ("initiative 10") is a Component clock** | It only exists in Settings whose turn structure is a *count* rather than an ordering — Shadowrun passes, Feng Shui shots. Freezing "a round has numbered slots" would fail the line, since PF2e and 5e have no such thing. Same rule that sends downtime weeks to Components, running the other way |
 | **Aug 2026** | **Anything may attempt — no Category gates it** | *"No reason to restrict something that the GM doesn't have to allow."* Falls out of *absent is not zero* rather than needing its own rule. A Setting that wants ships to assist rather than act simply gives them no attempt Dimensions — a content stance, not a Substrate one |
 | **Aug 2026** | **Points spent this Moment must be readable state** | Otherwise the escalating-repetition penalty every fungible economy needs is inexpressible, because a Listener watches state and never Verbs. Dylan: *"points being spent is a good way to deal with turn-based economy. Just that there will also be more to it"* — so more spend-visible state is expected, and the shape should not assume this is the only field |
 | **Aug 2026** | **Time and Budget move from Sockets into the Substrate; three Sockets remain** | A Socket is a hole in the *explanation*, not just the code — every worked example had to caveat itself, which made every spell and ability harder to understand than necessary. The objection (a Setting wanting week-long turns) dissolves because a Component **adds** rather than replaces: month-scale play never uses second-scale abilities, so they need not share a machine |

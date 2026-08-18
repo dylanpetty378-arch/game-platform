@@ -8,7 +8,8 @@
 |---|---|
 | **SETTLED** | L21 Spaces · L29 Attempt Domains & Dimensions · L22 Dimensions · L23 Channels |
 | **SETTLED IN SHAPE** | L27 Sockets (three) · L28 Economy (one unit, three-field cost) |
-| **NEXT** | **L32 Moment kinds → L31 Timings** — both new, both created when Time and Budget moved into the Substrate |
+| **SETTLED** | L32 Moment kinds — eight, Aug 2026 |
+| **NEXT** | **L31 Timings** |
 | **THEN** | L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → **L6 last** |
 
 > **The architecture changed in August 2026.** Time and Budget stopped being Sockets and became Substrate. The reason was comprehensibility: a Socket is a hole in the *explanation*, not just the code, and every worked example had to caveat itself. The objection — that a Setting might want week-long turns — dissolved once it was clear that a **Component adds rather than replaces**: month-scale play and second-scale play never meet, so they need not share a machine. Full argument in `list-log.md`.
@@ -45,7 +46,7 @@ L23  Channels              ── SETTLED · eighty-eight, positioned in hundred
 L27  Sockets               ── SETTLED IN SHAPE · three: Place, Resolution, Landing
 L28  Economy               ── SETTLED IN PRINCIPLE · one unit, three-field cost
  ↓
-L32  Moment kinds          ── the points a vector may be pinned to               ◄ HERE
+L32  Moment kinds          ── SETTLED · eight, every reference carrying a round
  ↓
 L31  Timings               ── the named closed set of WHEN                       ◄ HERE
  ↓
@@ -170,17 +171,17 @@ cap      how often, per Moment or per round   optional, usually absent
 
 ---
 
-# ◀ L32 · Moment kinds — NEXT
+# ✅ L32 · Moment kinds — SETTLED
 
-**Deciding:** the named points a vector may be pinned to. Substrate, frozen, additive-only.
+**Eight:** `now` · `next` · `turn start (E)` · `turn end (E)` · `round start` · `round end` · `ordered entry` · `ordered exit`.
 
-**Do this before L31**, because a timing is defined in terms of these — `respond` means *"during a Moment I do not own."*
+`turn start (E)` collapses four candidates into two — "my turn" is just E = self.
 
-**The load-bearing entry is turn ownership** — *mine* versus *not mine*. Without it as a Substrate concept, a reaction cannot be expressed portably at all, and a reaction is not a genre feature.
+**Every reference carries a round.** Numbered from 1 at entry to Ordered time; no round 0; absent in Loose time. **Authors write relative, the Ledger stores absolute** — safe because rounds never reorder, while turn order within a round does.
 
-**Deliberately not here:** anything coarser than a round. Downtime weeks, seasons and campaign turns are Components, layered alongside. Second-scale and month-scale content never meet, so they need not be compatible.
+**The rule that came out of it, and it is the load-bearing one:** *a Moment kind says **when**; a Listener says **whether**.* Never add a Moment kind to express a condition. The Moment list is a frozen coordinate system and stays small; the Listener condition set is the open one and extends forever. Conditional activation — *"the next time somebody is attacked"*, *"when they take their reaction"* — is all Listeners, on machinery that already exists.
 
-**The test:** name a real ability for each Moment kind. One nobody can name an ability for should not be frozen.
+A **position within a round** ("initiative 10") is neither: it is a finer clock, and finer clocks are Components.
 
 ---
 

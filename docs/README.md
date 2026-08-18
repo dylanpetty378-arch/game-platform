@@ -71,6 +71,7 @@ Grounded in current sources. The load-bearing finding: a book title is not regis
 | `phase-map.md` | Current. The sequencing document, and authoritative on order. |
 | `open-questions.md` | Current. Every undecided thing, by when it is needed. Part 1 is closed. |
 | `work-repair.md` | **Phase 0 is closed.** The record of what was decided in Repair, and why. |
+| `repo-and-sync.md` | **Read before touching git.** Repo layout, the sync invariant, why the folder bridge breaks git, and how to bootstrap a new machine. |
 | `list-log.md` | **Live.** The conversation that made each list — the argument, what changed a position, what was rejected and on what grounds. |
 | `lists-research.md` | **New, Aug 2026.** Research digest behind every unsettled list. |
 | `research-timing.md` · `research-listeners.md` · `research-states.md` · `research-entities.md` | Full reports, with sources. |

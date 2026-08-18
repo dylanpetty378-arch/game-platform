@@ -23,6 +23,7 @@ DOCS = [
     ("research-entities.md","Research · Entities","Full report: ships, factions, places and relationships as Entities."),
     ("work-lists.md",     "Work · Lists",   "Phase 1 guide. Companion to the workbook."),
     ("work-tracks.md",    "Work · Tracks",  "Brand, legal and audience. Startable today."),
+    ("repo-and-sync.md",  "Repo & Sync",    "Where everything lives, how git works here, and the traps."),
     ("README.md",         "Index",          "What each document is for."),
 ]
 

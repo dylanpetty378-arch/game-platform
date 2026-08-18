@@ -16,8 +16,8 @@ It exists because in three years the entries will look arbitrary, and the differ
 | **L23** Named Channels | **Settled** — August 2026 |
 | **L27** Sockets | **Settled in shape** — three, August 2026 |
 | **L28** Economy | **Settled in principle** — one unit, three-field cost, August 2026 |
-| **L31** Timings | next — new list, August 2026 |
-| **L32** Moment kinds | next — new list, August 2026 |
+| **L31** Timings | next |
+| **L32** Moment kinds | **Settled** — August 2026 |
 
 ---
 
@@ -502,4 +502,49 @@ He is right, and the reason is structural rather than permissive. Under **absent
 
 ---
 
-*L32 · Moment kinds and L31 · Timings — next.*
+---
+
+# L32 — Moment kinds
+
+*Settled in one pass. August 2026.*
+
+## The proposal and what changed it
+
+Ten candidates went in. Two collapsed immediately: *start of my turn* and *end of my turn* are just `turn start (E)` and `turn end (E)` with E = self. Four frozen words became two, and the *which one do I use* question disappeared with them.
+
+Dylan took all three recommendations — the collapse, numeric rounds, and making `ordered entry`/`ordered exit` pinnable rather than merely watchable. On rounds he added the part that mattered: *"Initiation of turn-based stuff begins round 1. All moment kinds have at least the parameter for the round. A lot will probably be the current round."*
+
+**That produced one detail worth recording.** Authors write relative — *three rounds from now* — and the Ledger stores absolute. That is safe in a way the Entity half of a reference is not, because **rounds never reorder**: round 7 always follows round 6, so resolving early costs nothing. Turn order *within* a round can change, which is exactly why the Entity stays symbolic and the round does not.
+
+## The real question: conditional activation
+
+Dylan pushed on the obvious weakness:
+
+> *"Other round parameters and activation moments may be contingent on something. For instance, something could activate the next time somebody gets attacked. It could activate on initative 10. It could activate when a person takes their reaction... I think most things will be covered by the proposed eight. But.. the game just isn't flexible enough only allowing those eight."*
+
+He is right that eight anchors cannot express those. He is looking at the wrong axis, and the fact that it *reads* as a weakness is a sign the two axes had never been stated side by side.
+
+```
+Listener(condition)   →   produces a Verb   →   pinned to a Moment
+    WHETHER it fires                                WHEN it lands
+    open, extensible forever                    closed, eight kinds
+```
+
+**The Moment list is small because it is a coordinate system, not a vocabulary of triggers.** Three of his four examples are Listeners on machinery that already exists — a Resolution Record matching a shape, doubloons spent this Moment with timing `respond`, a value crossing a bar. None needs a new Moment kind, and adding one would put permanent weight on a frozen list to do a job an open list already does.
+
+**The rule that came out of it:** *a Moment kind says when; a Listener says whether. Never add a Moment kind to express a condition.*
+
+## The one example that was neither
+
+*"Activate on initiative 10."* Not a condition, and not one of the eight — it is a **position within a round independent of who occupies it**, and it only exists in Settings whose turn structure is a *count* rather than an ordering. Shadowrun's passes, Feng Shui's shots, Exalted 2e's ticks.
+
+That is a finer clock, and **a finer clock is a Component** — the same rule that sends downtime weeks and seasons to Components, running in the opposite direction. Freezing *"a round is divided into numbered slots"* would be a game-design assumption most systems do not share; Pathfinder 2e and D&D 5e have no such thing. It fails the line cleanly: if it is only true in some Settings, it is a Component.
+
+## Two questions this handed to L26
+
+1. **Do Listener conditions compose?** *"A spell is cast that fulfils a condition"* is compound. Leaning yes — `and`, `or`, `not`. `not` is safe despite the open-world rule, because that rule is about *fields being absent*, not about state being unknown, and the Fold has complete state at evaluation.
+2. **Does a Listener fire once, or every time?** *"The next time somebody attacks"* is once; *"while you are bleeding"* is every time. Leaning: a required field with no default, because a Listener whose firing discipline was inferred is one nobody can reason about.
+
+---
+
+*L31 · Timings — next.*
