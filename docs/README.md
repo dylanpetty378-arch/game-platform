@@ -2,7 +2,7 @@
 
 **New here? Read `START-HERE.md` — the whole project in one document.**
 
-**Status, August 2026:** Phase 0 and Phase 1 closed. Every blocking list settled except **L6 · Verbs**, drafted and closing in Phase 2. **Next: Phase 2 · Paper.**
+**Status, August 2026:** Phase 0 and Phase 1 closed. Every blocking list settled, with **L4 · Tags** provisional at twenty-four; **L6 · Verbs** — not blocking, closing last — is drafted at seven and closes in Phase 2. **Next: Phase 2 · Paper.**
 
 
 Design documents for the game platform. Nothing is built yet; these exist to make sure it gets built once.
@@ -17,7 +17,7 @@ Design documents for the game platform. Nothing is built yet; these exist to mak
 
 Every term in the system is defined here exactly once, every list the system needs appears here whether it is settled or not, and **Part 12 is the decisions log** — every decision with the reasoning that produced it. If another document disagrees with this one, this one wins.
 
-Parts 2A, 2B and 2C are the core mechanism: how anything affects anything, when things land, and how an attempt resolves. Part 11 is the thirty numbered lists, twenty-eight of them live. Part 12 is where to look before reopening anything.
+Parts 2A, 2B and 2C are the core mechanism: how anything affects anything, when things land, and how an attempt resolves. Part 11 is the thirty-two numbered lists, thirty of them live. Part 12 is where to look before reopening anything.
 
 **1. `orientation.md`** — the same thing explained, at length, in plain language.
 
@@ -29,7 +29,7 @@ Not the vocabulary — that moved to the dictionary, because two homes for one v
 
 **3. `substrate-checklist.md`** — the working list.
 
-Everything that has to exist in the Substrate. **Sections A through I are answered**, each with a banner saying where the detail now lives; Section J (instrumentation) is new. What remains is the lists, and the *Order of work* at the end says which order they have to be done in — with the Verb set closing **last**, not first.
+Everything that has to exist in the Substrate. **Sections A through I are answered**, each with a banner saying where the detail now lives; Section J (instrumentation) is new. The lists it tracks are settled as of August 2026 — with the Verb set closing **last**, in Phase 2, not first.
 
 **4. `phase-map.md`** — today to a public release.
 
@@ -76,19 +76,19 @@ Grounded in current sources. The load-bearing finding: a book title is not regis
 |---|---|
 | `the-game.md` | Plain-language explainer. Current. |
 | `phase-map.md` | Current. The sequencing document, and authoritative on order. |
-| `open-questions.md` | Current. Every undecided thing, by when it is needed. Part 1 is closed. |
+| `open-questions.md` | Current. Every undecided thing, by when it is needed. Parts 1 and 2 are closed; Q3.7–Q3.10 added August 2026. |
 | `work-repair.md` | **Phase 0 is closed.** The record of what was decided in Repair, and why. |
 | `START-HERE.md` | **The front door.** Whole project, one document. |
 | `repo-and-sync.md` | **Read before touching git.** Repo layout, the sync invariant, why the folder bridge breaks git, and how to bootstrap a new machine. |
 | `list-log.md` | **Live.** The conversation that made each list — the argument, what changed a position, what was rejected and on what grounds. |
-| `lists-research.md` | **New, Aug 2026.** Research digest behind every unsettled list. |
+| `lists-research.md` | Research digest, Aug 2026 — **historical**; the lists have since closed. Where it disagrees with the settlements, `dictionary.md` Part 12 governs. |
 | `research-timing.md` · `research-listeners.md` · `research-states.md` · `research-entities.md` | Full reports, with sources. |
-| `work-lists.md` | Current. **Phase 1 — startable now that Phase 0 is closed.** |
+| `work-lists.md` | **The Phase 1 record — closed August 2026.** What each list decided, and the honest done-when accounting. |
 | `work-tracks.md` | Current. Brand, legal and audience — startable today. |
 | `issues-and-ideas.md` | Review, August 2026. Both sets — the four foundation findings and the four arithmetic findings — are carried as decisions in `work-repair.md`. |
 | `branding-research.md` | Research, August 2026. Sources cited; thin areas flagged. |
-| `substrate-lists.xlsx` | The workbook, one tab per list. **Twenty-eight tabs as of Aug 2026** — L31 Timings and L32 Moment kinds were added when Time and Budget moved into the Substrate. Four lists settled (L21, L22, L23, L29); L27 and L28 settled in shape; the forward tabs are research-seeded. |
-| `dictionary.md` | **The reference.** Thirty numbered lists, of which twenty-eight are live and fourteen are blocking: L1–L5, L7, L18, L21–L23, L25, L27–L29. |
+| `substrate-lists.xlsx` | The workbook, one tab per live list plus *Read me* and *Progress*. **Every blocking list settled as of Aug 2026**, L4 provisional at twenty-four; L6 (not blocking, closing last) drafted at seven for the Phase 2 close. The L23 tab is generated from `channels.py`, the canonical source. Non-blocking forward tabs are research-seeded. |
+| `dictionary.md` | **The reference.** Thirty-two numbered lists, of which thirty are live and sixteen are blocking: L1–L5, L7, L18, L21–L23, L25, L27–L29, L31, L32. Fifteen of the sixteen settled; L4 provisional at twenty-four; L6 drafted at seven, closing last. |
 | `orientation.md` | Draft. Long-form explainer; consistent with the rest as of August 2026, but the least frequently updated. |
 | `architecture.md` | Draft. Vocabulary deferred to `dictionary.md`. §18 lists the open questions and what has been answered since. |
 | `entity-catalog.md` | Research, August 2026. ~90 systems. Uncertain numbers flagged with ⚠️. |
@@ -98,6 +98,9 @@ Grounded in current sources. The load-bearing finding: a book title is not regis
 | `field-survey.md` | Research, August 2026. Sources cited; uncertainty flagged inline. |
 | `CLAUDE.md` | Draft — will need revision once code exists. |
 | `phase-0-checks.py` | The Phase 0 numeric tests. Run with `python3 phase-0-checks.py`. Becomes golden fixtures when the engine exists — never regenerate to make a test pass. |
+| `channels.py` | **Canonical source for L23.** Executable: checks sum-to-100, position uniqueness, and both-signs coverage. The workbook's L23 tab is generated from it. |
+| `consistency-checks.py` | **The document lint.** Retired vocabulary and stale counts, corpus-wide. Runs inside `sync.command` before every commit — if it fails, fix the document, never the lint. |
+| `archive/` | Documents and scratch that no longer apply, kept for the record. Nothing in it is load-bearing. |
 | `build_reader.py` | Generator. Rebuilds `design-docs.html` from the Markdown. |
 | `design-docs.html` | **Generated — never edit by hand.** Single-file reader over every document above. Rebuild with `python3 build_reader.py`. |
 

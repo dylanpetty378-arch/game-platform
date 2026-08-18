@@ -1,6 +1,6 @@
 # Phase 1 · The Lists — **CLOSED, August 2026**
 
-> **Every blocking list is settled except L6 · Verbs**, which is drafted and closes in **Phase 2** against real content — because L6 closes against the *finished* set, and the finished set includes content that does not exist yet.
+> **Every blocking list is settled, with L4 · Tags provisional at twenty-four** (closing against content). **L6 · Verbs** — not a blocking list, and closing last — is drafted at seven and closes in **Phase 2** against real content, because L6 closes against the *finished* set, and the finished set includes content that does not exist yet.
 >
 > **Next: Phase 2 · Paper.** Index cards, a shared spreadsheet, and people who will tell the truth. The gate is *a group asks to play again without being asked.*
 
@@ -13,12 +13,12 @@
 | | |
 |---|---|
 | **SETTLED** | L21 Spaces · L29 Attempt Domains & Dimensions · L22 Dimensions · L23 Channels |
-| **SETTLED IN SHAPE** | L27 Sockets (three) · L28 Economy (one unit, three-field cost) |
-| **SETTLED** | L32 Moment kinds — eight, Aug 2026 |
+| **SETTLED IN SHAPE** | L27 Sockets (two) · L28 Economy (one unit, three-field cost) |
+| **SETTLED** | L32 Moment kinds — nine, Aug 2026 |
 | **SETTLED** | L31 Timings — four, Aug 2026 |
 | **SETTLED** | L1 / L2 / L3 — nine Categories, eight universal fields, Aug 2026 |
 | **SETTLED** | L5 Tracks · L18 Aggregation — Aug 2026 |
-| **SETTLED** | L4 Tags (provisional, 22) · L25 Landing · L7 Layers — Aug 2026 |
+| **SETTLED** | L4 Tags (provisional, 24) · L25 Landing · L7 Layers — Aug 2026 |
 | **SETTLED** | L26 Listener conditions — Aug 2026 |
 | **LAST** | **L6 · Verbs** |
 | **THEN** | L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → **L6 last** |
@@ -27,7 +27,7 @@
 
 > **Research now stands behind every remaining list.** `lists-research.md` is the digest; the full reports are in `research-timing.md`, `research-listeners.md`, `research-states.md` and `research-entities.md`. The workbook's forward tabs have been re-seeded from it — the proposals there are evidence-backed starting positions, not guesses.
 
-> Every forward tab in the workbook has been **re-seeded against the settled decisions** — the proposals you will see now assume five Spaces, fourteen Dimensions, eighty-eight Channels and the thirty-slot lattice. They are a starting position to react to, not an answer.
+> Every forward tab in the workbook has been **re-seeded against the settled decisions** — the proposals you will see now assume five Spaces, fourteen Dimensions, eighty-eight Channels and the forty-one-slot lattice. They are a starting position to react to, not an answer.
 >
 > **Do one of three things with every proposed row: accept it, edit it, or cut it.** A row you cut belongs in the rejected block with a reason — not deleted.
 
@@ -39,7 +39,7 @@
 
 **Count the jargon as you go.** L21–L23 alone introduced five Space names, fourteen Dimension names and eighty-eight Channel names. The Channels are the ones players actually meet — the rest is machinery they can go a whole campaign without hearing. Keep the first-hour budget in mind on every list from here.
 
-**Try to write a list's entries out of the pieces that already exist, before accepting it is a list.** Two proposed lists died this way in one week — the denomination ladder and most of L31 — and both would have been permanent. If every entry decomposes into things already built, it is not a list; it is shorthand, and shorthand belongs in the authoring layer with its expansion written down.
+**Try to write a list's entries out of the pieces that already exist, before accepting it is a list.** Three proposed lists died this way in one week — the denomination ladder, most of L31, and the entire Landing Socket — and all three would have been permanent. If every entry decomposes into things already built, it is not a list; it is shorthand, and shorthand belongs in the authoring layer with its expansion written down.
 
 **Attack each list when you think it is done.** Not review it — attack it. That is what found the four foundation findings in Phase 0, and the sign-convention error in L22.
 
@@ -56,18 +56,18 @@ L22  Dimensions            ── SETTLED · fourteen, across the four non-attem
  ↓
 L23  Channels              ── SETTLED · eighty-eight, positioned in hundredths over all fourteen
  ↓
-L27  Sockets               ── SETTLED IN SHAPE · three: Place, Resolution, Landing
+L27  Sockets               ── SETTLED IN SHAPE · two: Place, Resolution (Landing retired)
 L28  Economy               ── SETTLED IN PRINCIPLE · one unit, three-field cost
  ↓
-L32  Moment kinds          ── SETTLED · eight, every reference carrying a round
+L32  Moment kinds          ── SETTLED · nine, every reference carrying a round
  ↓
 L31  Timings               ── SETTLED · four: own, any, respond, interrupt
  ↓
 L1 ── L2 ── L3             ── SETTLED · nine Categories, eight universal fields
                               (character sheets deferred until creation is designed)
  ↓
-L4 Tags ── L5 Tracks ── L18 Aggregation ── L25 Conversions          ◄ HERE
-     (L5 and L18 SETTLED; L4 is a pick-list; L25 simplified by the Track merge)
+L4 Tags ── L5 Tracks ── L18 Aggregation ── L25 Landing
+     (all settled Aug 2026; L4 provisional at 24; L25 simplified by the Track merge)
  ↓
 L7   the lattice outside resolution
  ↓
@@ -120,7 +120,7 @@ Adding a Space later is free. Splitting or merging an existing one is an Edition
 
 **The sign convention, which is the thing to remember:** *every Dimension is a property of the target. Negative always means less of it. Positive always means more.* Two axes are bipolar, meaning both signs are a real push rather than a lack. This forced four renames — `thermal`→`temperature`, `kinetic`→`integrity`, `corrosive`→`substance`, `vital`→`vitality` — and added two axes.
 
-**Dimension and Resource are two ends of one pipeline, not alternatives.** Exhaustion is a `vigor` push *and* a Resource; asking which one it is was the wrong question.
+**Dimension and Track are two ends of one pipeline, not alternatives.** Exhaustion is a `vigor` push *and* a standing value on the `vigor` Track; asking which one it is was the wrong question.
 
 ---
 
@@ -153,7 +153,7 @@ Adding a Space later is free. Splitting or merging an existing one is an Edition
 
 **Landing was retired, and how it happened is worth remembering.** Its job was choosing *how* a surviving vector becomes persistent state — pool, wound track, consequence slot, written phrase. The **Track merge removed the choice**: every axis is a Track by construction. What remained turned out to be Thresholds, Listeners and Track definitions, all of which already exist. **A Socket that can be satisfied by doing nothing is not a Socket.**
 
-**Done when:** each of the three has a Vocabulary anyone could write content against.
+**Done when:** each of the two has a Vocabulary anyone could write content against.
 
 ---
 
@@ -226,7 +226,7 @@ Blink      cost 15   timing interrupt   trigger: someone attacks me
 
 **`Creature` means *can act*, not *is alive*.** Anything that rolls, is played, or places vectors carries it — a haunted anchor, a sentient storm, a scheming guild.
 
-**Nine universal fields:** `id` · `category` · `tags` · `links` · `scale` · `facets`, plus one slot per Noun kind — `capacities` · `states` · `resources`. The Noun slots cannot live in `facets`, because rule 1 forbids reading another Component's Facets while Listeners, Guards and Thresholds cross Component lines by design.
+**Eight universal fields:** `id` · `category` · `tags` · `links` · `scale` · `facets` · `capacities` · `tracks`. Six structural fields plus one slot per Noun kind that needs one — `tags` doubles as the Tag slot, `tracks` absorbed the old `states` and `resources` slots when State and Resource merged into Track, and Relationship needs no slot because it is an Entity. The Noun slots cannot live in `facets`, because rule 1 forbids reading another Component's Facets while Listeners, Guards and Thresholds cross Component lines by design.
 
 **`links` replaced a hard-coded `part_of`.** A relation is an ID with declared traits, stored on the holder: `part_of` (exclusive, acyclic, cascades — the only one the Substrate reads) · `member_of` (many) · `carried_by` · `controlled_by` · `owned_by`. A door is *part of* a ship; a person is *member of* a guild, and can be a member of several.
 
@@ -238,7 +238,7 @@ Blink      cost 15   timing interrupt   trigger: someone attacks me
 
 ---
 
-# ◀ L4 · Tags — YOURS TO PICK
+# ✅ L4 · Tags — PROVISIONAL, 24 chosen
 
 The full compilation is in `tags-tabletop.md` and `tags-digital.md`, grouped by **what the tag describes** so you can pick down a column.
 
@@ -246,7 +246,7 @@ The full compilation is in `tags-tabletop.md` and `tags-digital.md`, grouped by 
 
 **Settled about the shape:** a Tag carries a magnitude, and label plus magnitude is a vector-shaped thing. **Magnitudes add** — a Tag that should not add is a *property*, and properties are **set** at creation rather than **granted** by effects, so no per-Tag operator is needed. Identified by **ID, not name**. **Never implies another Tag** — either the implication is definitional and the second Tag is unnecessary, or the Tag is applied separately.
 
-**The Substrate ships none.** Same posture as Tracks — it defines the kind, the base Ruleset ships the seed.
+**The provisional seed is 24: eleven in the Substrate, thirteen in the base Ruleset.** The eleven Substrate Tags are the ones other machinery must be able to rely on existing — `Mass`, `Bulk`, `Hardness`, `Reach`, `Multiplicity`, `Manufactured`, `Portable`, `Anchored`, `Container`, `Consumable`, `Unique`. Provisional because the membership closes against real content in Phase 2, the same way L6 does.
 
 ---
 
@@ -282,7 +282,7 @@ The Track merge collapsed most of it. **Track** clamps to its bounds · **Tag** 
 
 **And that dissolves the field's worst recorded problem.** Bar-based landing is a magnitude-concentration incentive — Mythras ships forty special effects and players use the three that shove one blow over a bar, because harm below the bar did nothing. **A Track has no dead zone**, so small hits accumulate and eventually cross. Nothing was added to fix it.
 
-The incentive returns only where a Threshold reads `highest` — still useful, now opt-in, and the Vocabulary says so where an author will read it.
+The incentive returns only where a Threshold reads `highest` — still useful, now opt-in, and the landing spec says so where an author will read it.
 
 **Three axes need something beyond the default:** `regard` lands on a **Connection**, never the target, and a missing Connection is a rejection **Record**; `standing` and `essence` never restore on their own.
 
@@ -331,11 +331,13 @@ The sixth carries the most weight — it is how reflection, retribution and *"wh
 
 ---
 
-# L6 · Verbs — LAST
+# L6 · Verbs — DRAFTED, closes LAST, in Phase 2
 
 **Deciding:** the closed set of operations that change state. **The one genuinely irreversible decision in the system.**
 
-**Do not start until everything above is done.** Every list above produces worked examples, and those examples are the only real evidence of completeness.
+**Drafted, August 2026:** `Push` · `Set` · `Place` · `Repin` · `Link` · `Create` · `Decide` — superseding the earlier nineteen-candidate list. The per-verb arguments are owed before closing; only `repin`'s is on record so far.
+
+**Do not close it until Phase 2 content has been run through it.** Every list above produces worked examples, and those examples are the only real evidence of completeness.
 
 **Every Verb has the same shape:** verb · source · target (exactly one) · secondary · direction · magnitude · class · layer. **A Verb needing a field outside that shape is a Substrate finding**, not a reason to widen the shape.
 
@@ -348,15 +350,15 @@ The sixth carries the most weight — it is how reflection, retribution and *"wh
 
 ---
 
-## Phase 1 was done when — **all met, August 2026**
+## Phase 1 closed — August 2026, with what was and was not met
 
 - [x] L21 · L29 · L22 · L23 closed, each with its argument logged
-- [ ] L27 · L28 closed — the vocabulary content is allowed to name
-- [ ] L1–L3 closed, and the three character sheets written
-- [ ] L4 · L5 · L18 · L25 closed
-- [ ] L7 extended outside the resolution region
-- [ ] L26 closed, including all three cascade blanks
-- [ ] L6 closed **last**, by the closing procedure, with a clean final pass
-- [ ] Every list has a non-empty "considered and rejected"
-- [ ] The jargon count is known, and the first-hour budget is set
-- [ ] `dictionary.md` Part 12 has a row for every decision worth revisiting
+- [x] L27 · L28 closed — the vocabulary content is allowed to name
+- [x] L1–L3 closed. **The three character sheets are deferred, deliberately, into the Phase 2 paper kit** — what a sheet shows is downstream of character creation, which is not yet designed
+- [x] L4 provisional at 24 · L5 · L18 · L25 closed
+- [x] L7 extended outside the resolution region — 41 slots
+- [x] L26 closed, including all three cascade blanks
+- [ ] L6 **drafted** (`Push` · `Set` · `Place` · `Repin` · `Link` · `Create` · `Decide`) — closes **last, in Phase 2**, by the closing procedure, with a clean final pass
+- [x] Every closed list has a non-empty "considered and rejected"
+- [ ] The jargon count is known, and the first-hour budget is set — **carried into Phase 2**, where the paper kit forces it
+- [x] `dictionary.md` Part 12 has a row for every decision worth revisiting

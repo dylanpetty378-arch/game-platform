@@ -36,11 +36,11 @@ The Socket's *contract* is Substrate, and therefore frozen forever. The *occupan
 
 ### Every Socket has two halves
 
-**Vocabulary — Substrate.** The names content is allowed to depend on. A spell costing *one action* needs `action` to be a word that exists no matter which Budget occupant is installed. A vector pinned to *the start of the target's turn* needs `start of turn` to be a Moment kind that exists no matter which Time occupant is installed. Vocabularies are **additive-only**: new names may be published forever, none may be removed or redefined.
+**Vocabulary — Substrate.** The names content is allowed to depend on. A ward covering *everything within the same room* needs `within` and containment to be words that exist no matter which Place occupant is installed. A Lens promising odds needs *a signed magnitude with a published distribution* to be the contract no matter which Resolution occupant produces the number. Vocabularies are **additive-only**: new names may be published forever, none may be removed or redefined.
 
-**Behaviour — the occupant.** How many actions you get and when they come back. Which Moments exist, in what order, and who is in them. All of it swappable, none of it something content names directly.
+**Behaviour — the occupant.** What a place *is* and how distance works. How the magnitude is actually produced — dice, cards, a deck, an auction. All of it swappable, none of it something content names directly.
 
-The split is what makes a Socket safe. Without it, either content depends on an occupant's internals — and swapping breaks every spell ever written — or the Substrate ends up owning the economy it was trying to delegate.
+The split is what makes a Socket safe. Without it, either content depends on an occupant's internals — and swapping breaks every piece of content ever written — or the Substrate ends up owning the behaviour it was trying to delegate.
 
 Sockets are why "everything above the Substrate is a Component" was true but misleading. It still is true. Some of those Components just cannot be absent.
 
@@ -105,7 +105,7 @@ A haunted ship is `structure` + `vehicle` + `haunted`. A player's character is `
 
 *(This is what library science calls **faceted classification**: instead of one hierarchy where every thing has exactly one place, you use several independent label sets that combine. It is the approach that survived — see `categorization-and-action.md`.)*
 
-**LIST: Categories — PENDING.** See L1.
+**LIST: Categories — L1, SETTLED, Aug 2026.**
 
 ## Attribute
 A named value attached to an Entity. Attributes come from two places:
@@ -113,8 +113,8 @@ A named value attached to an Entity. Attributes come from two places:
 - **Universal Attributes** — present on every Entity regardless of Category.
 - **Category Attributes** — added by each Category the Entity carries.
 
-**LIST: Universal Attributes — PENDING.** See L2.
-**LIST: Category Attributes, per Category — PENDING.** See L3.
+**LIST: Universal Attributes — L2, SETTLED, Aug 2026.**
+**LIST: Category Attributes, per Category — L3, SETTLED, Aug 2026.**
 
 ## Noun
 A published data schema — the shape of something the system can hold. **Nouns are one of four kinds and no others:** Capacity · Tag · Track · Relationship. *(Five until August 2026, when State and Resource were found to be one mechanism and merged into Track.)* They behave differently under change, aggregation and rendering, which is why the kinds exist at all. Nouns are extensible forever; Verbs are not.
@@ -136,23 +136,12 @@ A label attached to an Entity indicating membership in a loose group, carrying a
 
 **Tag combinations may produce effects**, but through a Component's formula, never through the Tag system itself.
 
-**LIST: Core Tag vocabulary — PENDING.** Keep under thirty.
+**LIST: Core Tag vocabulary — L4, PROVISIONAL.** Twenty-four drafted — eleven Substrate, thirteen Ruleset. Keep under thirty.
 
-## State
-A named condition, optionally with magnitude, **exclusive within its axis**. Prone or standing, never both.
-
-**The Substrate defines the shape of a State and ships almost none of them** — the same treatment Resources get. Most States live in Components. A State definition carries: a name, its axis, whether it has a magnitude, and an **optional maximum**. The max is what keeps *poisoned 47* from being reachable now that values add by default.
-
-**States end through a Verb.** Nothing else clears them. A duration is a clock that fires a Verb; a condition is a trigger that fires a Verb.
-
-**The line between State and Resource:** continuous number → Resource. Small set of named alternatives → State. Crossing a Resource threshold can set a State.
+## State, Resource — merged into Track, Aug 2026
+Both retired as Noun kinds. A named condition and a depletable value turned out to be one mechanism wearing two names — a maximum, a current, and something that pushes it — and that mechanism is the **Track**. Named conditions are **bands** on a Track; *payable* is a flag on a Track, not a kind. A Track's value changes only through a Verb — a duration is a clock that fires a Verb; a condition is a trigger that fires a Verb.
 
 **LIST: Tracks — L5, settled.**
-
-## Resource
-A depletable, replenishable value with named thresholds.
-
-**The Substrate defines what a Resource is and ships none.** Health is a Component. Coin is a Component. Stress is a Component. A setting may have none of them.
 
 ## Relationship
 **A Category of Entity**, not a special structure. A Relationship Entity has its own Attributes, and contains one **Connection** for each participating Entity.
@@ -178,13 +167,13 @@ An Entity that can be authored as content: a character, a creature, a place, an 
 ## Dimension
 A named axis along which effects can act. *Thermal. Kinetic. Vital.* A Dimension is not a damage type — it is one of the underlying directions damage types are built from.
 
-**LIST: Dimensions, per Space — PENDING.**
+**LIST: Dimensions, per Space — L22, SETTLED, Aug 2026.**
 
 ## The Channels — SETTLED, Aug 2026 (L23)
 
 **Eighty-eight.** Every row sums, in absolute value, to exactly **100**. No two share a position. Every Dimension is used on both signs.
 
-Read the signs: **all-negative harms, all-positive helps, and mixed is a visible trade.** Only three of the eighty-eight are mixed — `humble`, `menace` and `enthrall` — and each is a trade you would want to see.
+Read the signs — with one counting rule: **on the two bipolar axes, sign is displacement, not help or harm.** On the unipolar axes, all-negative harms, all-positive helps, and mixed is a visible trade. Exactly **four** of the eighty-eight mix help and harm on unipolar axes — `humble`, `menace`, `enthrall`, `petrify` — and each is a trade you would want to see. A larger family pairs a unipolar push with a bipolar displacement (`lightning`, `cleanse`, `curse` and their kin), which is a different, equally legible shape. The canonical machine-readable source for the table is `channels.py`.
 
 ```
                 P    P    P    P    P    P    P    M    M    M    S    S    Y    Y
@@ -341,7 +330,7 @@ A named set of Dimensions that belong together and can interact. Packets only in
 
 **One ability places as many vectors as it needs.** A poisoned blade is one thing in the fiction that places *two* vectors: a physical one and a mental one. They resolve independently and each meets its own Guards.
 
-So *"physical and mental never interact"* does not mean a poison cannot do both. It means the two parts are computed separately and do not cancel each other — which is right, because armour should not blunt a hallucination. **The walls are much cheaper than they look, and that is what makes four Spaces comfortable rather than restrictive.**
+So *"physical and mental never interact"* does not mean a poison cannot do both. It means the two parts are computed separately and do not cancel each other — which is right, because armour should not blunt a hallucination. **The walls are much cheaper than they look, and that is what makes five Spaces comfortable rather than restrictive.**
 
 ### Which Space a vector belongs to
 
@@ -387,15 +376,15 @@ So a Setting that needs a Space of its own in year three may have one, published
 
 **LIST: Dimension Spaces — L21, SETTLED.**
 
-## Dimension and Resource are two ends of one pipeline, never alternatives
+## Dimension and Track are two ends of one pipeline, never alternatives
 
-A **Dimension** is the transient side: the axis a push travels along, where things cancel and combine. A **Resource** is the persistent side: what survives the pipeline and accumulates. `temperature` is a Dimension; the injury it lands into is a Resource.
+A **Dimension** is the transient side: the axis a push travels along, where things cancel and combine. A **Track** is the persistent side: what survives the pipeline and accumulates. `temperature` is a Dimension; the injury it lands into is a Track.
 
-**So asking whether a thing is "a Dimension or a Resource" is the wrong question — anything that is a Dimension automatically also has a Resource, because that is what Landing means (L25).** The real question is narrower:
+**So asking whether a thing is "a Dimension or a Track" is the wrong question — any non-attempt Dimension automatically also has a Track, because that is what landing means (L25).** (Attempt Dimensions are the exception: they live in `capacities`, and their resolved value lands on the target's Tracks through the vector.) The real question is narrower:
 
 > **Is there something that is meaningfully the opposite of this, that should meet it and cancel it *before it lands*?**
 
-If yes, it earns a Dimension, and it gets a Resource for free. If no, it is only ever a Resource that goes up and down, moved by Verbs.
+If yes, it earns a Dimension, and it gets a Track for free. If no, it is only ever a Track that goes up and down, moved by Verbs.
 
 ## The Dimensions — SETTLED, Aug 2026 (L22)
 
@@ -407,7 +396,7 @@ If yes, it earns a Dimension, and it gets a Resource for free. If no, it is only
 
 Two axes are **bipolar**, where displacement either way is what matters and neither sign is the harm direction: **`temperature`** and **`working`**.
 
-**Why it had to be this way.** The first draft pointed the physical axes one way and the mental, social and mystic axes the other, so a blow that rattled the mind read as `kinetic +5 / clarity −5` — two harms, opposite signs, unreadable. Under the rule above the same Channel is `integrity −5 / clarity −5`, and **you can now tell what a Channel does from its signs alone**: all-negative harms, all-positive helps, and mixed is a visible *trade*. Across all 88 Channels only three are mixed, and every one of those is a genuine trade.
+**Why it had to be this way.** The first draft pointed the physical axes one way and the mental, social and mystic axes the other, so a blow that rattled the mind read as `kinetic +5 / clarity −5` — two harms, opposite signs, unreadable. Under the rule above the same Channel is `integrity −5 / clarity −5`, and **you can now tell what a Channel does from its signs alone**: on the unipolar axes, all-negative harms, all-positive helps, and mixed is a visible *trade* (bipolar signs read as displacement instead). Across all 88 Channels exactly four mix help and harm — `humble`, `menace`, `enthrall`, `petrify` — and every one of those is a genuine trade.
 
 **physical**
 
@@ -453,7 +442,7 @@ Two axes are **bipolar**, where displacement either way is what matters and neit
 
 > **Is there something meaningfully the opposite of this, that should meet it and cancel it *before it lands*?**
 
-If yes it earns a Dimension, and gets a Resource for free because that is what Landing means. If no, it is a **Tag**, a **State**, or a Resource moved by Verbs.
+If yes it earns a Dimension, and gets a Track for free because that is what Landing means. If no, it is a **Tag**, or a **Track** moved by Verbs.
 
 **The anti-test catches most bad candidates: a Dimension whose opposite side you cannot describe is not a Dimension.** `piercing` has no opposite — it is a Channel positioned mostly on `integrity`. `holy` has no opposite that is not simply "unholy," which is the same axis.
 
@@ -645,7 +634,7 @@ The alternative — compound without rounding between steps, round once at the e
 
 **Every vector has a limit on how much enhancement it can carry.** A flamethrower can be enhanced by a pyromancer, but only so far — past that, it is more than the gun can hold. A better gun holds more. Upcasting raises the ceiling. So does spending a Resource.
 
-This is a **Capacity** in the exact sense of the five Noun kinds: a graded, kind-agnostic disposition. *Capacity to be enhanced.* It applies to a gun, a spell, a ritual, a bribe, and a fortification without absurdity, because it never claimed to describe what any of them are.
+This is a **Capacity** in the exact sense of the four Noun kinds: a graded, kind-agnostic disposition. *Capacity to be enhanced.* It applies to a gun, a spell, a ritual, a bribe, and a fortification without absurdity, because it never claimed to describe what any of them are.
 
 **Enhancement Capacity** bounds the total a vector's magnitude may reach, at R-350, between summing and applying. **Stated as a ceiling on the total, where 100% means no enhancement at all** — a lock at 100% cannot be helped by anything; a good flamethrower at 250% can be brought to two and a half times its base.
 
@@ -686,7 +675,7 @@ The consequence worth stating plainly: *a lock at Enhancement Capacity 100% cann
 
 **Enhancement Capacity belongs to the task or the target, never to the source.** The lock says how much help it absorbs; the gun says how much amplification it holds. If it belonged to the source it would be shoppable — the party would route every vector through whoever holds the highest ceiling, and Capacity would become a party resource instead of a property of a thing in the world.
 
-**A Baseline is a percentage, so the percentage ceiling covers it.** Summed Baseline shares are clamped by the same Enhancement Capacity, at the same place, for the same reason.
+**A Baseline is stated in points, and the Enhancement Capacity ceiling covers it.** A Baseline contributes the increase it caused — in points, never as a percentage — and summed Baseline contributions are clamped by the same Enhancement Capacity, at the same place, for the same reason. *(How summed Baseline contributions read against a percentage-stated ceiling is open — `open-questions.md` Q3.2.)*
 
 **The Capacity that clamps a vector is read from the TARGET, at R-100, in the gather.** It is not captured from the source at creation. That was the earlier rule and it was retired in Phase 0 — a source-owned ceiling is shoppable, and the party would route every vector through whoever held the highest.
 
@@ -755,7 +744,7 @@ Proportional Guards **sum**, and may legitimately reach 100% — that is what im
 
 ### Restoration is a vector too — it just resolves at a later layer
 
-**Healing is an ordinary vector with a negative magnitude.** Nothing about it is special-cased: it has a direction, it has a magnitude, it is placed and pinned like anything else, and it runs the same assembly.
+**Healing is an ordinary vector in the positive direction on the axis it restores.** Nothing about it is special-cased: it has a direction, it has a magnitude, it is placed and pinned like anything else, and it runs the same assembly.
 
 **What differs is where it resolves. A restorative vector is pinned to R-1250**, after harm has fully landed, rather than combining with harm at R-1000.
 
@@ -776,7 +765,7 @@ Had restoration combined at R-1000 like harm, those two answers would have diffe
 
 **This is a layer decision, not an exception to the vector model.** That is the point of having a lattice: *when* a thing resolves is the lever, and it is enough to express something that would otherwise need a special case.
 
-**Which Dimension restoration uses is an L22 question**, not a Substrate one — its own Dimension, or the negative magnitude of an existing one. Either works. What the Substrate fixes is only the layer.
+**Which Dimension restoration uses was an L22 question, and L22 settled it:** the positive direction of the Dimension it restores — the sign convention makes positive *more of the target's property*, so nothing separate was needed. What the Substrate fixes is only the layer.
 
 A Guard is stated in **resolved units**, never in direction units, and is never multiplied by a direction.
 
@@ -906,7 +895,7 @@ R-1400  listeners           evaluate against the new state
 
 **R-100 runs once for the target** — it is the gather. **R-200 through R-750 run per vector, independently.** **R-780 through R-850 run once per contributing source.** **R-1000 onward run once for the target.**
 
-**Thirty slots: E×5, C×6, R×19.**
+**Forty-one slots across five regions: E×5 · M×5 · C×6 · R×19 · X×6.** The M- region (the Moment opens) and the X- region (the Moment closes) sit around what is shown here; they are defined in L7.
 
 **Two things changed here in Phase 0's re-attack, and they are the whole reason for the per-source region.**
 
@@ -1109,7 +1098,7 @@ Changing a pending vector's Moment. A reaction that pushes an incoming blow from
 
 *Player-chosen* repins are bounded by that cost. **Automatic repins issued by a Listener are still subject to the cascade limit** — that path has no player spending anything.
 
-Candidate Verb for L6: `repin`.
+`Repin` is one of the seven drafted Verbs — see L6.
 
 ## Landing on the dead
 **There is no special case for death.** A vector pinned to a target lands when its Moment arrives, whatever state the target is in by then. If someone kills you before the blow arrives, the blow arrives anyway and whatever the rules say about striking a corpse is what happens.
@@ -1145,7 +1134,7 @@ Outside Ordered time, standing things simply record **when they were activated o
 
 **A vector whose scope reaches outside its participant set is pinned to the next Moment shared by both.** That is an ordinary pin on an ordinary Moment — no separate synchronisation machinery. Two groups playing on different evenings each resolve their own scene, and anything that leaks between them lands where their timelines meet.
 
-**Conflicts need no tiebreak.** Two scenes sending something at the same faction combine there, exactly as two fire vectors do. Where they genuinely cannot combine — both groups stealing the same unique object — **Participation Capacity** settles it.
+**Where vectors can combine, conflicts need no tiebreak.** Two scenes sending something at the same faction combine there, exactly as two fire vectors do. Where they genuinely cannot combine — both groups stealing the same unique object, more contributors arriving than a Participant Capacity admits — **the tiebreak is undecided.** Recorded in `open-questions.md` as Q3.7; do not build against a rule that does not exist yet.
 
 There is no *"who went first,"* because nobody went first.
 
@@ -1244,7 +1233,7 @@ This matters more than it looks, because the obvious alternative — work out th
   integer first  ⌊3×12/6⌋ …            →   6, 4, 2     total 12, nothing lost
 ```
 
-Against the standing lock — manipulation 5, needle 4, corridor 1 — those two readings tell **different stories**: share-first misses the needle at 3 against 4; integer-first spots it at exactly 4. Integer-first is the rule.
+Against the standing lock — control 5, needle 4, corridor 1 — those two readings tell **different stories**: share-first misses the needle at 3 against 4; integer-first spots it at exactly 4. Integer-first is the rule.
 
 It also removes an entire class of problem. There is no fixed-point direction for an attempt to be wrong about, no apportionment method to choose, and therefore **no Alabama paradox** — no case where spending one more point makes an axis go *down*. An attempt's direction is stored as **whole point counts plus a total**, not as percentages. Percentages are a display convenience.
 
@@ -1266,7 +1255,7 @@ Gear can change the *shape* of an attempt, not just its size. **There are two fo
 
 > **The order is fixed and permanent: Bonus Points → Baseline.**
 
-They do not commute. Raw 1 / 2 / 1 at magnitude 12, with `+3 points on manipulation` and `manipulation counts as at least 3 points`:
+They do not commute. Raw 1 / 2 / 1 at magnitude 12, with `+3 points on control` and `control counts as at least 3 points`:
 
 ```
 Bonus Points first   4/2/1 of 7   →   6, 3, 1     the Baseline is already met, so it does nothing
@@ -1281,31 +1270,31 @@ Declared once, here, and never varied by content.
 The item **adds points to one Dimension**, provided the character has committed at least one there themselves. The points go into the total as well, so everything else is diluted.
 
 ```
-1 manipulation, 2 perception, 1 stealth      4 points     at magnitude 12  →   3, 6, 3
-+3 manipulation from the tools               7 points     at magnitude 12  →   6, 3, 1
+1 control, 2 senses, 1 stealth               4 points     at magnitude 12  →   3, 6, 3
++3 control from the tools                    7 points     at magnitude 12  →   6, 3, 1
 ```
 
-Your manipulation went up and your perception went down. **The attempt is reshaped, not enlarged** — which is what makes this form structurally safe. No number of Bonus Point items can inflate an attempt.
+Your control went up and your senses went down. **The attempt is reshaped, not enlarged** — which is what makes this form structurally safe. No number of Bonus Point items can inflate an attempt.
 
 ### Baseline — additive
 The item guarantees a Dimension **counts as at least N points**, and **takes nothing from anywhere else** — the total is not raised, so your own points keep their full value.
 
 ```
-1 manipulation, 2 perception, 1 stealth      4 points     at magnitude 12  →   3, 6, 3
-manipulation counts as at least 3 points     3/2/1 of 4   at magnitude 12  →   9, 6, 3
+1 control, 2 senses, 1 stealth               4 points     at magnitude 12  →   3, 6, 3
+control counts as at least 3 points          3/2/1 of 4   at magnitude 12  →   9, 6, 3
 ```
 
 The resolved values now sum to 18 against a magnitude of 12. **That is the one legitimate way an attempt exceeds its own magnitude**, and it is deliberate: **a Baseline is a real increase in total effect**, which is what makes it worth owning. Its value is greatest when you allocate *least* to that Dimension — the tools carry the lock while you watch the corridor.
 
 **Baselines take the highest, never the sum.** Two sets of lockpicks do not stack; the better one applies. Since `max` is order-free, any number of Baselines on one Dimension is deterministic and safe.
 
-**The ceiling is Enhancement Capacity — the same one, not a second.** Everything that enhances sums into one number and that number is clamped: a Capacity of 200% with a Baseline plus two helpers summing past it simply stops at 200%. **A Baseline contributes the increase it caused, not its face value** — lifting manipulation from 1 point to 3 contributes the 2 it added, because counting all 3 would charge you twice for the point you spent yourself. **The Capacity belongs to the task**, so it is the lock that says how much shaping it will tolerate.
+**The ceiling is Enhancement Capacity — the same one, not a second.** Everything that enhances sums into one number and that number is clamped: a Capacity of 200% with a Baseline plus two helpers summing past it simply stops at 200%. **A Baseline contributes the increase it caused, not its face value** — lifting control from 1 point to 3 contributes the 2 it added, because counting all 3 would charge you twice for the point you spent yourself. **The Capacity belongs to the task**, so it is the lock that says how much shaping it will tolerate.
 
 ### Against the same lock
 
-Opens at `manipulation 5`, needle spotted at `perception 4`, guard hears you at `stealth 1 or below`. Magnitude 12, allocation 1 / 2 / 1.
+Opens at `control 5`, needle spotted at `senses 4`, guard hears you at `stealth 1 or below`. Magnitude 12, allocation 1 / 2 / 1.
 
-| | manipulation | perception | stealth | |
+| | control | senses | stealth | |
 |---|---|---|---|---|
 | nothing | 3 ✗ | 6 ✓ | 3 ✓ | the lock holds |
 | **Bonus Points +3** | 6 ✓ | 3 ✗ | 1 ✗ | in, but the needle gets you and the guard hears |
@@ -1325,41 +1314,41 @@ Opens at `manipulation 5`, needle spotted at `perception 4`, guard hears you at 
 
 ## Worked: one lock, three ways
 
-The lock opens at `manipulation 5`. Its hidden needle is spotted at `perception 4` and fires otherwise. The corridor alerts the guard at `stealth 1` or below. **Magnitude 12 in every case** — the same roll.
+The lock opens at `control 5`. Its hidden needle is spotted at `senses 4` and fires otherwise. The corridor alerts the guard at `stealth 1` or below. **Magnitude 12 in every case** — the same roll.
 
 **Four points: 2 on the lock, 1 watching, 1 quiet.** → 50 / 25 / 25
 
 ```
-manipulation  0.50 × 12 = 6    needs 5    ✓  it opens
-perception    0.25 × 12 = 3    needs 4    ✗  the needle gets you
+control       0.50 × 12 = 6    needs 5    ✓  it opens
+senses        0.25 × 12 = 3    needs 4    ✗  the needle gets you
 stealth       0.25 × 12 = 3    over 1     ✓  nobody hears
 ```
 
 **One point, all on the lock.** → 100 / 0 / 0
 
 ```
-manipulation  1.00 × 12 = 12   needs 5    ✓  it opens easily
-perception    0    × 12 = 0    needs 4    ✗  the needle gets you
+control       1.00 × 12 = 12   needs 5    ✓  it opens easily
+senses        0    × 12 = 0    needs 4    ✗  the needle gets you
 stealth       0    × 12 = 0    under 1    ✗  the guard comes
 ```
 
 **Four points: 1 on the lock, 2 watching, 1 quiet.** → 25 / 50 / 25
 
 ```
-manipulation  0.25 × 12 = 3    needs 5    ✗  the lock holds
-perception    0.50 × 12 = 6    needs 4    ✓  you spot the needle
+control       0.25 × 12 = 3    needs 5    ✗  the lock holds
+senses        0.50 × 12 = 6    needs 4    ✓  you spot the needle
 stealth       0.25 × 12 = 3    over 1     ✓  nobody hears
 ```
 
 Identical resolution three times. **In-but-stung**, **in-stung-and-caught**, and **stopped-but-safe** — decided entirely by how the effort was split. That is the game, and it needed no new machinery.
 
-**And failure has magnitude too.** The first split — 50 / 25 / 25 — at magnitude **−4** gives `manipulation −2.0`, `perception −1.0`, `stealth −1.0`: locked, needled, and heard. If the corridor also declares *a clatter at stealth −0.5 or worse*, heard loudly.
+**And failure has magnitude too.** The first split — 50 / 25 / 25 — at magnitude **−4** gives `control −2.0`, `senses −1.0`, `stealth −1.0`: locked, needled, and heard. If the corridor also declares *a clatter at stealth −0.5 or worse*, heard loudly.
 
 ## Where the outcome goes next
 
 **The resolved magnitude becomes the base magnitude of the vectors the attempt places.** A sword swing that resolves at 12 places a bigger blow than one that resolves at 4. Content decides the relationship — *damage = attempt magnitude*, or *+2*, or whatever the weapon says.
 
-**Thresholds place additional vectors.** *At manipulation ≥ 10 you also break the mechanism.* *At stealth ≤ −0.5 a noise vector goes out to everyone nearby.*
+**Thresholds place additional vectors.** *At control ≥ 10 you also break the mechanism.* *At stealth ≤ −0.5 a noise vector goes out to everyone nearby.*
 
 So the two mechanisms cover everything: the main consequence **scales** with magnitude, and extra consequences **fire** at bars.
 
@@ -1427,7 +1416,7 @@ Even the balance worry is smaller than it first looked. **A Guard that covers al
 
 **So points still go on Capacities, but for softer reasons.** The number of Dimensions is the width of every vector in the system, and — more importantly — the attempt Dimensions *are the interface the player sees*. Splitting attention across eight Capacities is a legible choice. Splitting it across two hundred skills is a spreadsheet.
 
-*Thieves' tools* is therefore not a Dimension. It is an **Entity** — a piece of gear in an inventory — that supplies a modifier to attempts with a manipulation component. A Component should add a Dimension only when it genuinely needs a **new axis of the world**, never one per skill.
+*Thieves' tools* is therefore not a Dimension. It is an **Entity** — a piece of gear in an inventory — that supplies a modifier to attempts with a `control` component. A Component should add a Dimension only when it genuinely needs a **new axis of the world**, never one per skill.
 
 ## Gear contributes itself
 
@@ -1486,15 +1475,15 @@ Consequences that follow from a Verb are found by **Listeners**, not returned.
 ## Listener
 A declared watch on a condition. When a Moment resolves and the condition becomes true, the Listener fires and produces further Verbs, pinned to a later Moment.
 
-The canonical example: a Verb drives a Resource to zero. The Verb does not know or report this. A Listener watching "this Resource at zero" fires and issues its own Verbs — set state *unconscious*, add tag, whatever the Component declares.
+The canonical example: a Verb pushes a Track to zero. The Verb does not know or report this. A Listener watching "this Track at zero" fires and issues its own Verbs — whatever the Component declares.
 
 Rules:
 
 - A Listener is **data**, declared by a Component, never arbitrary code.
 - A Listener watches **state**, not Verbs. It asks "is this now true," not "did that just happen." State is stable; the sequence of Verbs that produced it is not.
 - Listener-produced Verbs carry class **Triggered** and are pinned to a **later** Moment, never resolved inside the current one.
-- Cascades are bounded. A depth limit is set in the Substrate and exceeded cascades are recorded as such. — **PENDING: the limit, and what happens at it.**
-- **LIST: Listener condition forms — PENDING.** What a Listener is allowed to watch: threshold crossings, State entry/exit, Tag presence, Relationship formation, clock arrival.
+- Cascades are bounded: **depth 32.** At the limit, halt without applying and write a Record — never roll back, never drop silently. See L26.
+- **LIST: Listener condition forms — L26, SETTLED, Aug 2026.** Seven forms; see L26.
 
 ## ~~Barrier~~ — retired
 **A Barrier is a Moment.** The point where accumulated Verbs are applied is the Moment they were pinned to, and nothing changes between Moments. One word, not two.
@@ -1502,7 +1491,7 @@ Rules:
 ## Layer
 An ordering slot in a fixed lattice, used to sequence Verbs. A Component declares which Layer its Verb belongs to; it may never invent one.
 
-**LIST: Layers — PARTIAL.** See L7.
+**LIST: Layers — L7, SETTLED, Aug 2026.** Forty-one slots in five regions.
 
 ## The frame rule
 **Everything not named in a Verb is unchanged, by definition.** State transition is a function on a set. The cost: anything you fail to list silently does not happen.
@@ -1638,7 +1627,7 @@ The per-Component setting of who the Decider is. Set by the player, the GM, or t
 **Threshold visibility is a built-in setting**, not a per-Component rail: the GM decides whether the table plays with the bars shown or hidden. Same content, two very different games.
 
 ## Standing Order
-A player's pre-declared response to a condition — *if I am attacked while away, brace: 3 points guard, 2 perception.*
+A player's pre-declared response to a condition — *if I am attacked while away, brace: 3 points grit, 2 senses.*
 
 **It is a Listener**, so it needs no new machinery. But the authoring line holds: **the Component publishes the Listener template; the player fills in the parameters.** *Defensive stance* is the Component's. *3 and 2* is the player's.
 
@@ -1826,7 +1815,7 @@ A local disposable copy of one Campaign, redacted, used for debugging.
 | Period | Moment | Retired. A duration is two Moments; there is no separate unit |
 | Barrier | Moment | Retired. The point where accumulated Verbs are applied *is* a Moment |
 | Degree, Cost, Outcome (as machinery) | *retired* | The two-axis outcome and the outcome ladders are gone. An attempt is a vector: direction and magnitude |
-| Perception | Delivery, or Lens | Retired **as machinery**. Who receives a Record is `delivery`; what a participant sees rendered is a Lens. The *word* stays available as a **Capacity** name — `perception` is used that way in the Part 2C examples |
+| Perception | Delivery, or Lens | Retired **as machinery**. Who receives a Record is `delivery`; what a participant sees rendered is a Lens. It is not an attempt Dimension either — the settled route is `senses` (L29) |
 
 ---
 
@@ -1836,7 +1825,7 @@ Every list the system needs, written up so it can be picked up cold. **A list no
 
 Each entry says what the list is, what breaks without it, what shape an entry takes, what the hard part is, and where to start.
 
-**Thirty-two numbered, thirty live.** L8 and L9 are retired; L31 (Timings) and L32 (Moment kinds) were added in August 2026 when Time and Budget moved into the Substrate. Sixteen are marked **BLOCKING**: L1, L2, L3, L4, L5, L7, L18, L21, L22, L23, L25, L27, L28, L29, L31, L32. **Four are settled** — L21, L22, L23, L29 — leaving twelve. **L6 is not on that list and is the most important of all**; it is marked CLOSE LAST because it is closed against the finished set, not before it. Four more are **SETTLED** (L14–L17). The rest are PENDING but not blocking.
+**Thirty-two numbered, thirty live.** L8 and L9 are retired; L31 (Timings) and L32 (Moment kinds) were added in August 2026 when Time and Budget moved into the Substrate. Sixteen are marked **BLOCKING**: L1, L2, L3, L4, L5, L7, L18, L21, L22, L23, L25, L27, L28, L29, L31, L32. **Fifteen of the sixteen are SETTLED; L4 (core Tags) is PROVISIONAL** — twenty-four drafted, not yet frozen. **L6 is not on that list and is the most important of all**: drafted at seven Verbs, marked CLOSE LAST because it is closed against the finished set in Phase 2, not before it. L14–L17 and L26 are also SETTLED. The rest — L10, L11, L12, L13, L19, L20, L24, L30 — are PENDING but not blocking.
 
 **The canonical order, and this document is the tiebreaker if another says otherwise:**
 
@@ -1898,11 +1887,11 @@ Every Entity, no exceptions. Eight fields in three groups.
 | `tags` | zero or more, optional magnitude | open, Component-extensible forever, never implies another Tag |
 | `links` | zero or more `(relation, target)` pairs | see below |
 | `scale` | optional integer | Substrate, because R-750 and parts legality read it and rule 1 forbids reading Facets |
-| `facets` | per-Component data | the escape hatch — anything that is not one of the five Noun kinds |
+| `facets` | per-Component data | the escape hatch — anything that is not one of the four Noun kinds |
 
 ### Noun slots — two
 
-The five Noun kinds need somewhere the Substrate can read **uniformly**. `facets` cannot be that place: rule 1 forbids reading another Component's Facets, while a Listener watching a State, a Guard reading a Resource and a Threshold reading a Capacity all cross Component lines by design.
+The four Noun kinds need somewhere the Substrate can read **uniformly**. `facets` cannot be that place: rule 1 forbids reading another Component's Facets, while a Listener watching a Track's band, a Guard reading a Track and a Threshold reading a Capacity all cross Component lines by design.
 
 So each kind gets a slot. **The Substrate owns the shape; Components own the definitions** — the arrangement `tags` already has.
 
@@ -1995,6 +1984,8 @@ What L1–L3 already settle: **every Creature carries the same fields whether or
 **Research: `lists-research.md` §5.** The number that matters: Magic has published **222 keywords in 33 years** and keeps **~17 always-live**. There is no cap on the total vocabulary; there is a hard cap around 15–20 on the always-on set. *Never implies another Tag* is strongly validated — and the gate has to forbid **derivation at read time**, not just declaration, or a Component reintroduces hierarchy in behaviour while passing the schema check.
 
 **What it is.** The Tags the base Ruleset ships with, which every Component may rely on existing.
+
+**Current draft: twenty-four — eleven Substrate, thirteen Ruleset.** Not yet frozen.
 
 **Shape of an entry.** A namespaced ID, a name, whether it carries a magnitude, and a plain-language meaning.
 
@@ -2091,13 +2082,13 @@ name · the Dimension(s) that push it · maximum (usually derived from Capacitie
 
 **What it is.** The closed set of operations that change state. **A taxonomy of consequence, not of activity** — nothing about attacking, persuading, or crafting.
 
-**Status — deliberate.** This list is *not* being settled now. It is the last list closed, not the first. Every other list (Categories, Attributes, States, Channels, Dimensions, Layers, aggregation, conversions) produces concrete examples; those examples are the evidence for whether the Verb set is complete. Settling Verbs first means settling them against imagination instead of against the system.
+**Status — deliberate.** This list is *not* being settled now. It is the last list closed, not the first. Every other list (Categories, Attributes, Tracks, Channels, Dimensions, Layers, aggregation, conversions) produces concrete examples; those examples are the evidence for whether the Verb set is complete. Settling Verbs first means settling them against imagination instead of against the system.
 
-**Preliminary candidates.** create · destroy · move · alter magnitude · transfer · set state · clear state · add tag · remove tag · form relationship · break relationship · reveal · conceal · bind to condition · advance clock · apply (deliver a Packet) · assume category · shed category · **repin** (change a pending vector's Moment)
+**The current draft — seven.** **Push** · **Set** · **Place** · **Repin** · **Link** · **Create** · **Decide**.
 
-**Note on `destroy`:** kept, but rare — it means *removed from play entirely*, never *killed*. Death is a State. `clear state` may still turn out to be `set state` to null.
+This supersedes the earlier nineteen-candidate list. Most of those candidates collapsed once the rest of the system settled: harm, cost, restoration and named conditions are all pushes on Tracks; tag, category and relationship changes are Set and Link writes; delivering a Packet is placing a vector. **The per-verb arguments are still owed** — what each Verb expresses, and which retired candidates it absorbed — and must be written before the closing procedure runs.
 
-Three of those were added by running the consequence test on eight fictional actions: *apply* (burning down a warehouse delivers a Packet to a thing, which no other Verb expresses), and *assume/shed category* (a character becoming undead changes what Attributes it even has). *clear state* may be redundant with *set state* to a null value — decide at closing time, not now.
+**Still a draft.** L6 closes in Phase 2, against real content, by the closing procedure below — never before it.
 
 **Uniform shape.** Every Verb carries the same fields: verb · source · target (exactly one) · secondary (zero or more) · direction · magnitude · class · layer. See Part 3, *Verb shape*. A Verb that needs a field outside this shape is a finding about the Substrate, not a reason to widen the shape.
 
@@ -2144,7 +2135,7 @@ Everything the R-region needs to be true before a single vector is gathered.
 | | | Why it is here |
 |---|---|---|
 | **X-100** | direct Verbs apply | **movement and transfer, and little else.** Going *to* a place is a destination, not a magnitude on an axis — which is why knockback was already ruled out as a Channel in L23 |
-| **X-200** | Track restoration | natural recovery, per the Setting's Landing occupant |
+| **X-200** | Track restoration | natural recovery, per the base Ruleset's landing spec |
 | **X-300** | progression accrues | experience, advancement, anything that reads what happened |
 | **X-400** | knowledge propagates | Almanac updates from what was observed |
 | **X-500** | standing propagates | social consequence spreads outward through Connections |
@@ -2248,7 +2239,7 @@ Move-then-attack is two Moments, not one, which is why scope refreshes at M-400 
 
 ## L17 · Noun kinds — SETTLED
 
-`Capacity` · `Tag` · `State` · `Resource` · `Relationship`. Each behaves differently under change, aggregation, and rendering.
+`Capacity` · `Tag` · `Track` · `Relationship`. **Four** — State and Resource merged into Track in August 2026 (see L5), and *payable* became a flag on a Track rather than a kind. Each behaves differently under change, aggregation, and rendering.
 
 **The word is *Relationship*, never *Relation*.** It is a Category of Entity holding one Connection per participant — not an edge.
 
@@ -2291,19 +2282,21 @@ Everything on the resolution path was settled in Phase 0: contributions add, per
 
 ## L21 · Dimension Spaces — **SETTLED, Aug 2026**
 
-**Four: `physical`, `mental`, `social`, `attempt`.** Full definitions and the reasoning are in Part 2A under *Dimension Space*; the conversation that produced them is in `list-log.md`.
+**Five: `physical`, `mental`, `social`, `mystic`, `attempt`.** Full definitions and the reasoning are in Part 2A under *Dimension Space*; the conversation that produced them is in `list-log.md`.
 
 **The test used.** *Should these two things ever be able to cancel each other out?* If yes, same Space.
 
 **What decided the fourth.** Psychic harm has no honest home under three — it is not a body injury and it is not social pressure. Splitting `mental` out also moved `resolve` off the social Space, which left social cleanly about standing and obligation.
 
-**Rejected, with reasons:** `wealth` (money is a Resource, not a direction — a bribe is a social vector *paid for* with a Resource) · `knowledge` (a Tag or an Almanac entry; it is not a push and it does not cancel) · a separate `spirit`/`divine` Space (**folded into `mystic`**, so a miracle and a spell can meet).
+**What decided the fifth.** Counterspelling — a counterspell meets a spell and unmakes it, and no axis in the other four Spaces can host that. `mystic` consciously overrides the Component test; the override and its two reasons are recorded in Part 2A and Part 12.
+
+**Rejected, with reasons:** `wealth` (money is a payable Track, not a direction — a bribe is a social vector *paid for* from one) · `knowledge` (a Tag or an Almanac entry; it is not a push and it does not cancel) · a separate `spirit`/`divine` Space (**folded into `mystic`**, so a miracle and a spell can meet).
 
 ---
 
 ## L22 · Dimensions, per Space — **SETTLED, Aug 2026**
 
-**Twelve across the four non-attempt Spaces**, plus the fifteen attempt Dimensions from L29. Full tables, the test, and the reasoning are in Part 2A; the argument is in `list-log.md`.
+**Fourteen across the four non-attempt Spaces**, plus the fifteen attempt Dimensions from L29. Full tables, the test, and the reasoning are in Part 2A; the argument is in `list-log.md`.
 
 `physical` — temperature · integrity · substance · vitality · vigor · mobility · acuity
 `mental` — composure · clarity · will
@@ -2384,7 +2377,7 @@ The research catalogued eleven landing models. Three of them — *deplete a pool
 
 **A Track has no dead zone.** Every point moves the number even when it does not change the band, so small hits accumulate and eventually cross. Nothing had to be added to fix this; it fell out of the shape.
 
-**The incentive returns only if a Threshold reads `highest`.** That mode still exists and is still useful — a single devastating blow *should* be able to maim where a hundred scratches cannot — but it is now an opt-in extra on top of a Track that already banks everything, rather than the default behaviour of the whole system. **The Landing Vocabulary must say so where an author will read it.**
+**The incentive returns only if a Threshold reads `highest`.** That mode still exists and is still useful — a single devastating blow *should* be able to maim where a hundred scratches cannot — but it is now an opt-in extra on top of a Track that already banks everything, rather than the default behaviour of the whole system. **The landing spec must say so where an author will read it.**
 
 ### The fourteen rows
 
@@ -2434,9 +2427,11 @@ So it fails its own test — *can the Substrate function with it empty?* Yes: a 
 
 **The risk, stated plainly:** if a hook is needed there later, adding a Socket back is a Substrate change. That is worth taking, because a Socket that does nothing is a permanent hole in the explanation for no benefit.
 
-### What the Landing occupant still decides
+### What the base Ruleset's landing spec decides
 
-Which Tracks exist in this Setting at all · the band names and their Threshold values · what happens when a Track reaches zero · whether any extra `highest` or `each` Thresholds exist · and the restoration rules above.
+Landing is no longer a Socket, but the decisions it held did not vanish — they are base Ruleset, written down as a **landing spec** a Setting may vary: which Tracks exist in this Setting at all · the band names and their Threshold values · what happens when a Track reaches zero · whether any extra `highest` or `each` Thresholds exist · and the restoration rules above.
+
+**Landing receives the contributor breakdown, not only the combined totals.** A Threshold at R-1200 could never read `highest` or `each` otherwise, and critical hits would be inexpressible. The landing step is therefore order-sensitive, and the landing spec must declare its sort key.
 
 **A Setting may ship no Tracks at all.** Masks has five conditions and no numbers; Mouse Guard has six. Both are shipping proof that a resourceless Setting plays.
 
@@ -2478,7 +2473,7 @@ Which Tracks exist in this Setting at all · the band names and their Threshold 
 
 **At the limit: halt without applying, and write a Record.** Rolling back is unavailable — the Ledger is append-only. Silently dropping is worse and is what Hearthstone does; it is a known source of unexplainable board states. A Record makes it a debuggable finding rather than a mystery, which is the honest version of *if you can violate it silently, the gate is missing*.
 
-**Ordering: a semantic class first, then `(layer, component_id, listener_id, target_entity_id)`.** Yu-Gi-Oh's SEGOC is the only fully specified simultaneous-trigger ordering in any published game, and its shape is *classify, then tiebreak*. The constraint that matters: **the sort key may contain only values that do not move when unrelated content is added.** Drools' salience is deterministic but not *stable* — adding one rule reorders unrelated ones. `component_id` and `listener_id` are safe; a global priority number is not.
+**Ordering: a semantic class first, then `(layer, component_id, listener_id, target_entity_id)`.** *(The class enumeration itself, and whether the key totally orders every case, are open — `open-questions.md` Q3.8; do not invent them.)* Yu-Gi-Oh's SEGOC is the only fully specified simultaneous-trigger ordering in any published game, and its shape is *classify, then tiebreak*. The constraint that matters: **the sort key may contain only values that do not move when unrelated content is added.** Drools' salience is deterministic but not *stable* — adding one rule reorders unrelated ones. `component_id` and `listener_id` are safe; a global priority number is not.
 
 ### What is observable, and what is not
 
@@ -2623,7 +2618,7 @@ Every tabletop system with a before/after split fights about it. D&D 4e had *imm
 
 **A Moment is a reference, not a number.** A vector pinned to *"the start of Kira's turn"* stays pinned to that phrase, not to a tick computed at placement — turn order can change and a reaction can re-pin it. The **Tick** is stamped when the Moment actually occurs, and that is what makes replay exact.
 
-### The eight
+### The nine
 
 | Kind | Means |
 |---|---|
@@ -2655,12 +2650,12 @@ Not merely watchable. *"This lasts until the fight is over"* is common enough th
 
 ## Conditional activation — **the answer is Listeners, not more Moment kinds**
 
-The eight look restrictive until you notice they answer a different question from the one conditional activation asks. **There are two orthogonal axes, and conflating them is what makes the list feel too small.**
+The nine look restrictive until you notice they answer a different question from the one conditional activation asks. **There are two orthogonal axes, and conflating them is what makes the list feel too small.**
 
 ```
 Listener(condition)   →   produces a Verb   →   pinned to a Moment
     WHETHER it fires                                WHEN it lands
-    open, extensible forever                    closed, eight kinds
+    open, extensible forever                    closed, nine kinds
 ```
 
 **The Moment list is small because it is a coordinate system, not a vocabulary of triggers.** Flexibility lives in the Listener condition set, which is deliberately open — Components may publish new condition forms forever, and that is where every "it activates when…" belongs.
@@ -2752,7 +2747,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | **Aug 2026** | **`Creature` gains `integrity` and `substance` Tracks** | Bone and structure, flesh and matter. Without them a hammer blow against a person would land on nothing |
 | **Aug 2026** | **Every Dimension has a Track; not every Track has a Dimension** | `doubloons` is a Track nothing pushes along an axis. So **paying a cost is vector-shaped after all**, and X-100 shrinks to movement and transfer — the only things that are genuinely destinations rather than magnitudes |
 | **Aug 2026** | **L25 settled — the Track merge made the default landing one line** | Subtract the resolved value from the Track the Dimension names, clamped. Three of the eleven landing models catalogued were all just *a Track*. And it dissolves the Mythras all-in-strike problem: a Track has no dead zone, so small hits accumulate. The incentive returns only if a Threshold reads `highest`, which is now opt-in |
-| **Aug 2026** | **`will` gets the harden mechanic** | Resisting notches a counter that makes future resistance easier. No physical system makes you harder to injure by injuring you; every serious mental system does — Unknown Armies, Delta Green, Call of Cthulhu. The only place L25 needs machinery a Track does not already provide |
+| **Aug 2026** | **SUPERSEDED** — see *Harden cut from `will`*, above. ~~`will` gets the harden mechanic~~ | Resisting notches a counter that makes future resistance easier. No physical system makes you harder to injure by injuring you; every serious mental system does — Unknown Armies, Delta Green, Call of Cthulhu. The only place L25 needs machinery a Track does not already provide |
 | **Aug 2026** | **L7 settled — five regions, forty-one slots; M- and X- added** | M- is what must be true before R-100 (ownership, budget, caps, scope, phenomena); X- is what reads the result (direct Verbs, restoration, progression, knowledge, standing, cadence). **Not every Verb is a vector** — direct state changes pin to X-100 rather than running nineteen slots of theatre |
 | **Aug 2026** | **State and Resource merged into Track — four Noun kinds, not five** | `vitality 18/22`, `composure 5/9` and `doubloons 44/60` are one mechanism: a max, a current, and something that pushes it. Nothing was lost — *exclusive within an axis* is trivial when the axis holds one number, and *payable* became a flag rather than a kind |
 | **Aug 2026** | **A Track is the persistent counterpart of a Dimension; named conditions are bands** | There is no `prone` State — there is a `mobility` Track and a word for a range of it. This makes inflicting charm mechanically identical to throwing a fireball, which was the point. Bands are Ruleset content; Tracks and Thresholds are Substrate |
@@ -2770,7 +2765,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | **Aug 2026** | **The authoring loop is the Substrate's real test** | Nothing verifies a Substrate except trying to build content on it. Assets are generated in bulk and checked mechanically; a misfit is a finding, never a workaround. Findings split into *additive* (cheap, open forever for Components) and *structural* (an Edition break, window closes at launch), and the check must say which |
 | **Aug 2026** | **L32 settled: nine Moment kinds** | `turn start (E)` collapses four entries into two — "my turn" is just E = self. Every reference carries a round; rounds number from 1 and there is no round 0. Authors write relative, the Ledger stores absolute, because **rounds never reorder** while turn order within a round does |
 | **Aug 2026** | **Conditional activation is a Listener, never a Moment kind** | Two orthogonal axes: a Moment says *when*, a Listener says *whether*. The Moment list is a frozen coordinate system and stays small; the condition set is open and Component-extensible forever. Growing the frozen list to cover cases the open list already handles is permanent weight for nothing |
-| **Aug 2026** | **A position within a round ("initiative 10") is a Component clock** | It only exists in Settings whose turn structure is a *count* rather than an ordering — Shadowrun passes, Feng Shui shots. Freezing "a round has numbered slots" would fail the line, since PF2e and 5e have no such thing. Same rule that sends downtime weeks to Components, running the other way |
+| **Aug 2026** | **SUPERSEDED** — see *`turn count (n)` added — nine Moment kinds*, above. ~~A position within a round ("initiative 10") is a Component clock~~ | It only exists in Settings whose turn structure is a *count* rather than an ordering — Shadowrun passes, Feng Shui shots. Freezing "a round has numbered slots" would fail the line, since PF2e and 5e have no such thing. Same rule that sends downtime weeks to Components, running the other way |
 | **Aug 2026** | **Anything may attempt — no Category gates it** | *"No reason to restrict something that the GM doesn't have to allow."* Falls out of *absent is not zero* rather than needing its own rule. A Setting that wants ships to assist rather than act simply gives them no attempt Dimensions — a content stance, not a Substrate one |
 | **Aug 2026** | **Points spent this Moment must be readable state** | Otherwise the escalating-repetition penalty every fungible economy needs is inexpressible, because a Listener watches state and never Verbs. Dylan: *"points being spent is a good way to deal with turn-based economy. Just that there will also be more to it"* — so more spend-visible state is expected, and the shape should not assume this is the only field |
 | **Aug 2026** | **Time and Budget move from Sockets into the Substrate** | A Socket is a hole in the *explanation*, not just the code — every worked example had to caveat itself, which made every spell and ability harder to understand than necessary. The objection (a Setting wanting week-long turns) dissolves because a Component **adds** rather than replaces: month-scale play never uses second-scale abilities, so they need not share a machine |
@@ -2794,7 +2789,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | Aug 2026 | Challenge is a profile with a separately computed scalar | A measured 2.34× swing came from reordering axes on identical data |
 | Aug 2026 | Channels are positions in a Dimension Space | Relationships between Channels are derived, not declared — so they can never contradict, and a new Channel is automatically correct against every existing one |
 | Aug 2026 | Channels combine by per-Dimension addition | Exact whole-number arithmetic; no angles, roots, or rounding |
-| Aug 2026 | Guards subtract per Dimension, floored at zero | Over-penetration falls out of the arithmetic with no special rule |
+| Aug 2026 | **SUPERSEDED** — see *A universal flat Guard subtracts from the packet total and is redistributed* (Phase 0, below); Dimension-named flat Guards still act per Dimension. ~~Guards subtract per Dimension, floored at zero~~ | Over-penetration falls out of the arithmetic with no special rule |
 | Aug 2026 | Transient Channels fully resolve before touching Persistent ones | A property of what the Channels are, not a maintained priority list |
 | Aug 2026 | Channels never merge — only magnitudes change | Keeps per-type Guards possible after Channels have interacted |
 | Aug 2026 | Attributes are linear; Scale is a separate small exponent | Preserves relative differences at every scale; 10 vs 11 means the same thing for a person and a warship |
@@ -2819,7 +2814,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | Aug 2026 | **Sockets** — some Components are mandatory | The Substrate declares holes it cannot fill itself. Time is the proof |
 | Aug 2026 | Every Socket has two halves: **Vocabulary** (Substrate, additive) and **Behaviour** (the occupant) | Content names `action` and `start of turn`; it never names an occupant's internals. Without the split, swapping an occupant breaks every spell ever written |
 | Aug 2026 | **Period retired.** There is only the Moment | A turn, a round, a downtime week and a season are the same thing at different grains. *(Amended Aug 2026: turn and round are Substrate; anything coarser is a Component.)* |
-| Aug 2026 | **Budget is a Socket**, but Economy Unit *names* are Substrate | *Costs one action* has to keep meaning something whichever economy is installed |
+| Aug 2026 | **SUPERSEDED** — see *Time and Budget move from Sockets into the Substrate*, above. ~~**Budget is a Socket**, but Economy Unit *names* are Substrate~~ | *Costs one action* has to keep meaning something whichever economy is installed |
 | Aug 2026 | Windows **freeze** when Ordered time ends; they never convert | A ward with three rounds left keeps three rounds left. Simpler than a conversion table, and it resumes exactly where it stopped |
 | Aug 2026 | Pending arrivals cannot survive leaving Ordered time | Nothing special needed — the exit is already blocked while anything is pinned to a turn |
 | Aug 2026 | Cross-scene vectors pin to **the next Moment both share** | No synchronisation machinery. The Substrate guarantees such a Moment eventually exists |
@@ -2841,7 +2836,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | Aug 2026 | Percentage modifiers **sum**; they never compound | Compounding stops being commutative the moment you round between steps — demonstrated with 5, +30%, +40% giving 8 or 9 by order |
 | Aug 2026 | Percentages resolve before absolutes, on separate Layers | A flat bonus is never inflated, so its worth stays constant. The reverse order changes the answer, so the order is fixed permanently |
 | Aug 2026 | A modifier that creates a vector does not also modify it | No double-dipping; one pass per modifier per vector |
-| Aug 2026 | Rounding happens once per vector, at the percentage step, truncating toward zero | Everything downstream is exact. Toward zero keeps signed values symmetric. Persistent state is fixed-point so no second rounding is needed |
+| Aug 2026 | **SUPERSEDED** — see *Three rounding sites, all truncating toward zero: R-400, R-750, R-1050* (Phase 0, below). ~~Rounding happens once per vector, at the percentage step, truncating toward zero~~ | Everything downstream is exact. Toward zero keeps signed values symmetric. Persistent state is fixed-point so no second rounding is needed |
 | Aug 2026 | **Magnitude is assembled at resolution, not at placement** | Forced by cooperative buffing: an amplifier cast after a fireball is thrown must still reach it. Also collapses everything into one computation point |
 | Aug 2026 | Modifiers are **snapshot** or **ambient** | The sword you swung with, versus the vulnerability you had when it landed. One mechanism, two capture times |
 | Aug 2026 | Vector, Modifier and Guard are the same object distinguished only by **Layer** | The Layer says where in the pipeline it acts. No special cases in the engine |
@@ -2852,7 +2847,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | Aug 2026 | **Enhancement Capacity** — a ceiling on how much enhancement a vector can carry | Moves the stacking problem out of the arithmetic and into the fiction. A better gun holds more; upcasting raises it; Resources can buy it |
 | Aug 2026 | Capacity makes the sum-vs-compound choice free | With a ceiling in place, three amplifiers hit the cap either way — so summing costs nothing in balance and buys determinism |
 | Aug 2026 | **Capacity bounds enhancement only, never reduction** | Amplification compounds toward absurdity; reduction converges on zero. Only one direction runs away. Protection Capacity dropped |
-| Aug 2026 | A vector's Capacity is captured at creation, from its source | Nothing that spends a Capacity can also raise it mid-flight; keeps the arithmetic acyclic |
+| Aug 2026 | **SUPERSEDED** — see *Enhancement Capacity belongs to the task or target, never the source* (Phase 0, below); it is read from the target at R-100, in the gather. ~~A vector's Capacity is captured at creation, from its source~~ | Nothing that spends a Capacity can also raise it mid-flight; keeps the arithmetic acyclic |
 | Aug 2026 | Overflow is clipped and **recorded**, never interpreted, by the Substrate | Backfire is a Component reading the overflow. Clipping is engine, drama is content |
 | Aug 2026 | Guards take proportional **and** flat forms, in that order | Same structure as magnitude assembly, for the same reasons |
 | Aug 2026 | **Damage cancels before it reaches the target.** One rule, no fork | Everything incoming meets everything else first; only the remainder is checked against Guards. Where a thing lives decides when it acts — source-side is a Modifier, target-side is a Guard |
@@ -2890,13 +2885,13 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | Aug 2026 | **Entry into Ordered time is base Ruleset's decision, not the Substrate's** | Three attempts at a Substrate rule each failed on a real case (strangers, self-targeting, healing an ally). It is a game-design rule wearing an engine costume |
 | Aug 2026 | A scheduled vector holds Ordered time open only while it has a non-source anchor | An empty storm anchors to nobody, so it stops holding the table in turn order — falls out of the rule above rather than needing its own |
 | Aug 2026 | `destroy` stays in the Verb set | Rare, and means removed from play entirely rather than killed |
-| Aug 2026 | States live mostly in Components; the Substrate defines only their shape | Same treatment as Resources. A `max` is an optional field on a State definition |
+| Aug 2026 | **SUPERSEDED** — see *State and Resource merged into Track — four Noun kinds, not five*, above. ~~States live mostly in Components; the Substrate defines only their shape~~ | Same treatment as Resources. A `max` is an optional field on a State definition |
 | **Aug 2026 · Phase 0** | **An attempt's resolved value is `⌊points × magnitude ÷ total points⌋`** — one integer operation | Working the share first and multiplying loses magnitude and tells a different story: 6 points as 3/2/1 on a 12 gives 6/3/1 (total 10) one way and 6/4/2 (total 12) the other. Integer-first is exact, kills the apportionment paradox, and means an attempt's direction is stored as whole point counts rather than decimals |
 | **Aug 2026 · Phase 0** | Truncation loss on a spread attempt is **the intended penalty** for attending to many things | Loss is always under `k`, so it is nothing on a big roll and total on a small one. It scales itself and needs no rule |
 | **Aug 2026 · Phase 0** | **All-in dominance is answered by authoring, not by arithmetic** | With only `≥` bars, one point all-in is always at least as good as spreading. The authoring tool therefore requires every Threshold set to carry a downside bar; a live GM decides on the fly and is trusted, but the tool offers one by default rather than asking them to invent it. Instrumentation counts how many tasks ship with no downside bar, so playtesting measures this instead of guessing |
 | **Aug 2026 · Phase 0** | **Enhancement Capacity clamps percentages. Absolutes are uncapped** | Absolutes cannot run away by stacking — they grow linearly in the number of contributors, and Participation Capacity already bounds contributors. Two directions of failure, two walls that fit them |
 | **Aug 2026 · Phase 0** | Enhancement Capacity belongs to the **task or target**, never the source | A source-owned ceiling is shoppable: the party routes every vector through whoever holds the highest. Target-owned, it stays a property of a thing in the world |
-| **Aug 2026 · Phase 0** | A **Baseline is a percentage**, so the percentage ceiling already covers it | No second Capacity, no second number on an item. Closes the longest-standing PENDING in Part 2C |
+| **Aug 2026 · Phase 0** | **SUPERSEDED** — see *Shaping is expressed in points, never percentages* (re-attack, below); the Enhancement Capacity ceiling still covers a Baseline's contribution, and how the summed contribution reads against a percentage-stated ceiling is open (Q3.2). ~~A **Baseline is a percentage**, so the percentage ceiling already covers it~~ | No second Capacity, no second number on an item. Closes the longest-standing PENDING in Part 2C |
 | **Aug 2026 · Phase 0** | **A universal flat Guard subtracts from the packet total and is redistributed**, not applied per Dimension | Per-Dimension subtraction made pure directions land 7 where an even three-way landed 1, at the same magnitude. That would have deleted the interior of every Dimension Space. Redistribution uses the same integer apportionment as Allocation Points — one mechanism, two uses |
 | **Aug 2026 · Phase 0** | A **Dimension-named** flat Guard still acts on that Dimension alone | Universal flat Guards are generic toughness; named Guards are specific resistance. Both idioms survive and mean different things |
 | **Aug 2026 · Phase 0** | A Guard **reduces toward zero and never past it** | Armour can stop harm; it can never turn harm into its opposite. Needed explicitly now that Dimension values are signed and redistributed |
@@ -2921,7 +2916,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | **Aug 2026 · re-attack** | **Shaping is expressed in points, never percentages** | Points are what a player actually has. A percentage of 3 points is not always a whole number, and choosing how to round it is choosing an apportionment rule — the thing integer allocation removed |
 | **Aug 2026 · re-attack** | **Demand is retired.** Shaping has two forms | Nothing in the design ever asked for it, forcing a player to spend their own points somewhere is a strange thing to want, and it was the only Shaping form that could not be stated in points. A cost belongs in the Budget, or as a Guard or State |
 | **Aug 2026 · re-attack** | **Restoration is an ordinary vector resolving at R-1250** — *(amended at L22: it is a **positive direction** on the axis it restores, not a negative magnitude)* | Not an exception — a layer choice. Because it resolves after R-850 and R-1050, no Guard can reach it and it cannot cancel incoming harm, and both of those fall out rather than being written as rules. Which Dimension it uses is an L22 question |
-| **Aug 2026 · L21** | **Four Dimension Spaces: physical, mental, social, attempt** | Psychic harm decided it — under three Spaces it has to be `vital`, which is not a body injury, or social pressure, which it is not either. Splitting `mental` out also moved `resolve` off social, which left social cleanly about standing and obligation |
+| **Aug 2026 · L21** | **SUPERSEDED in count** — see *A fifth Space: `mystic`*, below; five Spaces. ~~Four Dimension Spaces: physical, mental, social, attempt~~ | Psychic harm decided it — under three Spaces it has to be `vital`, which is not a body injury, or social pressure, which it is not either. Splitting `mental` out also moved `resolve` off social, which left social cleanly about standing and obligation |
 | **Aug 2026 · L21** | **A Space limits a vector, never an ability** | One ability places as many vectors as it needs. A poisoned blade places a physical vector and a mental one; they resolve separately and neither cancels the other, which is right — armour should not blunt a hallucination. This is what makes four Spaces comfortable rather than restrictive |
 | **Aug 2026 · L21** | **A vector's Space is decided by what it changes, not by what caused it** | Otherwise *is intimidation mental or social* gets answered differently every time and the whole thing drifts. Intimidating a man makes him afraid (mental) and makes the room see you as dangerous (social) — one action, two vectors |
 | **Aug 2026 · L21** | Adding a Space later is **free**; splitting or merging existing ones is an **Edition break** | A new Space is purely additive because nothing existing interacts with it. Splitting stops things cancelling that used to; merging starts things cancelling that never did |
@@ -2943,11 +2938,11 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | **Aug 2026 · L22** | **Fourteen Dimensions across the four non-attempt Spaces** | physical: temperature, integrity, substance, vitality, vigor, mobility, acuity · mental: composure, clarity, will · social: regard, standing · mystic: working, essence. *(Amended from twelve when the Channel table exposed the sign problem and two missing axes.)* |
 | **Aug 2026 · L22** | The test is **a meaningful opposite that cancels before landing** | If yes it earns a Dimension and gets a Resource free, because that is what Landing means. If no it is a Tag, a State, or a Resource moved by Verbs |
 | **Aug 2026 · L22** | The anti-test: **a Dimension whose opposite side you cannot describe is not a Dimension** | `piercing` has no opposite — it is a Channel positioned mostly on `integrity`. `holy`'s only opposite is `unholy`, which is the same axis |
-| **Aug 2026 · L22** | `vital` negative is **mending in flight**, which is not the same as healing | A regeneration aura meets incoming poison at R-1000; restoration resolves at R-1250. **Wards and regeneration cancel; healing restores.** Settings have always drawn this line without being able to say why |
+| **Aug 2026 · L22** | **SUPERSEDED in sign** — see *The sign convention* amendment, below; mending in flight is `vitality` **positive**. ~~`vital` negative is **mending in flight**~~, which is not the same as healing | A regeneration aura meets incoming poison at R-1000; restoration resolves at R-1250. **Wards and regeneration cancel; healing restores.** Settings have always drawn this line without being able to say why |
 | **Aug 2026 · L22** | **A social Dimension is broadcast; a per-pair state is a Connection** | `trust` passes the opposite test and is still not a Dimension, because trust is inherently A-toward-B. That discriminator keeps the social Space from absorbing Relationships |
 | **Aug 2026 · L22** | `will` is distinct from `clarity` | Being dominated is not being confused — you are perfectly lucid and cannot stop. Afraid, confused and controlled are three different bad nights |
 | **Aug 2026 · L22** | These are **expected to move** once items, characters and magic systems are written | Additive-only makes adding free at that point. What stays expensive is discovering one of these was really two, which is why the list is short |
-| **Aug 2026 · L22 amend** | **The sign convention: every Dimension is a property of the target; negative means less of it** | The first draft pointed physical axes one way and the rest the other, so `kinetic +5 / clarity −5` was two harms with opposite signs. Now you can read what a Channel does from its signs alone — only 3 of 88 are mixed, and each is a genuine trade |
+| **Aug 2026 · L22 amend** | **The sign convention: every Dimension is a property of the target; negative means less of it** | The first draft pointed physical axes one way and the rest the other, so `kinetic +5 / clarity −5` was two harms with opposite signs. Now you can read what a Channel does from its signs alone — a handful of the 88 are mixed *(count corrected in the reconciliation row below: `humble`, `menace`, `enthrall`, `petrify`, `cleanse`)*, and each is a genuine trade |
 | **Aug 2026 · L22 amend** | Four axes renamed: `thermal`→**`temperature`**, `kinetic`→**`integrity`**, `corrosive`→**`substance`**, `vital`→**`vitality`** | Each had been named for the harm that arrives rather than the property that is lost. Force *takes* integrity away, so − is the harm direction |
 | **Aug 2026 · L22 amend** | Two axes added: **`mobility`** and **`acuity`** | Slow, haste, entangle, root, blind, deafen and numb had no axis at all and would have had to be faked as States. Found by building the Channel table, which is the point of building it |
 | **Aug 2026 · L22 amend** | **`temperature` and `working` are bipolar**; the other twelve are signed | Heat and cold both harm; a blessing and a curse both impose a working. Everywhere else, negative is the harm direction |
@@ -2958,3 +2953,4 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | **Aug 2026 · L23** | **No two Channels may share a position** — CI rejects it | Identical coordinates mean identical Channels. This is D&D's force-versus-thunder problem made mechanically detectable, which no other system in the field can do |
 | **Aug 2026 · L23** | **Every Dimension must be used on both signs** | Otherwise an axis dies because nothing points at it — how one published bestiary ended with a quarter of monsters immune to poison and almost nothing resisting force |
 | **Aug 2026 · L23** | **Conditions are not Channels** | Silence, invisibility, aging and knockback are States, Tags, Place and Scale. Five unrelated published systems reached this independently, and mixing them is what produces the dead type |
+| **Aug 2026 · reconciliation** | **Documentation reconciliation — stale counts, retired terms and superseded rows corrected corpus-wide** | Sockets two; Noun kinds four; Spaces five; Dimensions fourteen plus fifteen attempt; Moments nine; slots forty-one; Verb draft seven; Baseline in points; restoration positive-direction; Landing recast as the base Ruleset's landing spec. Supersession markers added to overruled rows. **No design decisions made**; open items routed to `open-questions.md` |

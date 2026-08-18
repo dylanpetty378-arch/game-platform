@@ -2,7 +2,7 @@
 
 *August 2026. Six research passes run against the field before proposing L31 (Timings), L26 (Listeners), L5 (States), L25 (Landing), L4 (Tags) and L1–L3 (Categories and Attributes). This is the digest — the findings that change a decision. The full reports are in `research-timing.md`, `research-listeners.md`, `research-states.md`, `research-entities.md`.*
 
-Nothing here is settled. Every candidate list below is a **proposal to react to**.
+**Historical — this digest predates the settlements.** Every candidate list below was a proposal to react to; the lists have since closed, and where this digest and the settled decisions disagree, **`dictionary.md` Part 12 governs**. Known divergences worth naming: the Landing section speaks of a Landing Socket and Landing Component that were retired when the Track merge landed (a push lands on the Track the Dimension names; the per-Dimension landing models are base Ruleset); this digest recommended cascade depth 32 where the full report `research-listeners.md` recommended a generation limit plus a per-Moment budget — the 32 was adopted, and the report's sharper concerns are carried as `open-questions.md` Q3.8 and Q3.10; the Tag count and State vocabulary here predate L4's provisional twenty-four and the State→Track merge.
 
 ---
 

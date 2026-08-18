@@ -52,13 +52,10 @@ Graded, kind-agnostic dispositions. What an attempt is assisted or resisted by. 
 *The test per candidate:* state it as a capacity rather than a quality, then check it applies without absurdity to a person, a ship, a faction, and a storm. *Capacity to exert force* passes. *Strength* does not.
 *And the half that is easy to skip:* what you deliberately leave off. Nothing above the Substrate can put it back, and this is where the stance lives.
 
-**A4 ⬤ Tags.** Cluster membership — open, unbounded, no defining property, **optional magnitude**. Identified by ID and not by name; never imply other Tags. Decide the **shape**, not the list, since the list grows with Components: bare symbol or valued? Namespaced? Can a tag imply another? Who may mint one? Then the seed vocabulary the base Ruleset ships with, which is what Components may rely on existing.
+**A4 ○ Tags — shape settled; seed provisional at 24 (L4).** Cluster membership — open, unbounded, no defining property, **magnitude declared per Tag at mint** (carries none, or carries one in a named unit). Identified by ID and not by name; never implies another Tag. The seed is eleven Substrate Tags and thirteen base-Ruleset Tags, provisional until Phase 2 content closes the membership.
 *Tags are the multiplicative surface* — the thing that makes a dozen Verbs interesting — and the pressure valve for consequences the Verbs cannot quite carry. They absorb more than they look like they should.
 
-**A5 ⬤ States.** Named conditions, optional magnitude, exclusive within an axis. What other rules key on *by name* — "advantage against a prone target" cannot be written against a −2. What are the axes? Do states stack or does only the highest apply (`max()` removes a bug class)? How does a state end?
-*A one-of-N state is a single field, never N booleans.*
-
-**A6 ⬤ Resources.** Depletable, replenishable, with named thresholds. The only genuinely numeric-over-time values. Which are Substrate and which belong to Components?
+**A5 / A6 ○ States and Resources — MERGED INTO TRACK, August 2026.** They were one mechanism wearing two names: a bounded value with a maximum, a current, and named bands. The Noun kind is **Track** (`dictionary.md` L5 and L17); *payable* is a flag on a Track, not a kind. The design questions that lived here were answered by the merge: the axes are the Dimensions (one Track each, plus Tracks with no Dimension, like `doubloons`); one number per axis clamped to its bounds, so stacking never arises; a Track changes only by a Verb; and every named condition is a **band** — there is no `prone` State, there is a `mobility` Track and a word for a range of it.
 
 **A7 ○ Relationships — ANSWERED.** A **Relationship is a Category of Entity**, holding one **Connection** per participant, each stance stored **independently** — *A loves B while B tolerates A* is the normal case, not an exception. Every system in the entity survey stored these on one endpoint, which is exactly why relationship mechanics desync in play.
 
@@ -82,13 +79,11 @@ Graded, kind-agnostic dispositions. What an attempt is assisted or resisted by. 
 
 **New from Section B:** "Effect" is retired — a proposed change is a **Verb**, full stop, and "Effect" is reserved for a future in-fiction meaning. Every Verb has **one uniform shape**. Verbs **return nothing**; consequence propagates through **Listeners** that watch *state*. The **Verb list is closed last**, not first. And the **Ledger does not require a Verb** to record something.
 
-**B1 ⬤⬤ The Verb set — PRELIMINARY, closed LAST.**
+**B1 ⬤⬤ The Verb set — DRAFTED, closed LAST, in Phase 2.**
 
-Preliminary: `create · destroy · move · alter magnitude · transfer · set state · clear state · add tag · remove tag · form relationship · break relationship · reveal · conceal · bind to condition · advance clock · apply · assume category · shed category · repin`
+Draft of seven, August 2026: `Push · Set · Place · Repin · Link · Create · Decide` — superseding the earlier nineteen-candidate list. The mapping that collapsed nineteen into seven is not yet written down, and the per-verb arguments are owed before closing; only `repin`'s is on record. Note the absences: nothing about attacking, persuading, crafting, or singing. Those are fictional descriptions of attempts; the Substrate sees only what changed.
 
-Three of those — `apply`, `assume category`, `shed category` — came from running the consequence test on eight fictional actions; `repin` came later, out of the timing work. Note the absences: nothing about attacking, persuading, crafting, or singing. Those are fictional descriptions of attempts; the Substrate sees only what changed.
-
-*Decided:* this list is **not** settled now. Every other list produces the worked examples that are the only real evidence of completeness, so freezing Verbs first means freezing them against imagination. Build L1–L5, L7, L18, L21–L23 and L25–L29, then run all of it against this list, then freeze. See `dictionary.md` L6.
+*Decided:* this list is **not** settled now. The worked examples the other lists produced are necessary but not sufficient — the draft closes against real Phase 2 content, by the closing procedure, with a clean final pass. See `dictionary.md` L6.
 
 **B2 ○ Verb shape — SETTLED. One shape for all.**
 
@@ -100,11 +95,11 @@ Exactly one primary target: a Verb affecting three people is three Records, so "
 
 **A Verb returns nothing.** There is no execution to return from.
 
-**B3 ⬤ Listeners — NEW, and partly open.**
+**B3 ○ Listeners — SETTLED with L26, August 2026.**
 
 A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's Verbs have landed and the Resolution Record is written; produces Verbs pinned to a **later** Moment, class `Triggered`. Data in a Component's manifest, never code. Watches **state, not Verbs** — "is this now true," never "did that just happen."
 
-*Open:* the closed set of condition forms (L26); the **evaluation order when several fire at once** — a determinism hazard of the same severity as C4 aggregation; the cascade depth limit and the behaviour on hitting it.
+*Settled with L26, August 2026:* **seven condition forms**, composing with `and`/`or`/`not`, firing discipline required (`once` or `while`, no default). Simultaneous firings order by **semantic class first, then `(layer, component_id, listener_id, target_entity_id)`** — a key composed only of values that do not move when unrelated content is added; the class enumeration itself is open (Q3.8 in `open-questions.md`). Cascade depth **32**; at the limit, halt without applying and write a Record.
 
 **B4 ○ Records without Verbs — SETTLED.** A Verb invocation is one Record type among several. GM assertions, notes, Moment and Session boundaries, Proposals, compensations, supersessions, Listener firings, cascade-limit records and Edition conversions change no state and are still permanent history. *"What happened" is strictly larger than "what changed"* — which is the reason a closed Verb set is achievable at all. The discipline: non-Verb Records must stay genuinely inert, CI-enforced.
 
@@ -122,15 +117,15 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **C3 ⬤⬤ The Layer lattice — SETTLED Aug 2026, five regions, forty-one slots.** The resolution region: entity preparation (E-100…E-500, 5), vector creation (C-100…C-600, 6), resolution at the Moment (R-100…R-1400, 19). Phase 0 added **R-750** (Scale conversion), **R-780** (standing-vector cap, reserved), **R-850** (flat Guards, once per contributing source) and split the combine into **R-800** within a source and **R-1000** across sources, which is where cancellation now happens. Every boundary is forced by a worked case rather than guessed. Outside resolution, August 2026 added **M- (the Moment opens: ownership, budget, caps, scope, phenomena emit)** and **X- (the Moment closes: direct Verbs, restoration, progression, knowledge, standing, cadence)**. See L7.
 
-**C4 ⬤ Aggregation — SETTLED for the resolution path.** **Everything adds by default.** Percentages sum and are applied once; absolutes add afterwards; Guards sum proportionally, then subtract flatly. Nothing compounds anywhere, because compounding stops being commutative the moment you round between steps. Aggregation for the other Noun kinds — Tags as set union, States with an optional max — is settled in shape and comes with those lists.
+**C4 ⬤ Aggregation — SETTLED for the resolution path.** **Everything adds by default.** Percentages sum and are applied once; absolutes add afterwards; Guards sum proportionally, then subtract flatly. Nothing compounds anywhere, because compounding stops being commutative the moment you round between steps. Aggregation for the other Noun kinds is settled with L18: Tags union for membership and their magnitudes add; Tracks clamp to their bounds; Capacities need no operator; Relationships never merge.
 
-**C4a ⬤ Capacity — NEW, and the most consequential thing in Section C.** A ceiling on how much enhancement a vector can carry, captured from its source at creation. It moves the stacking problem out of the arithmetic and into the fiction: a better gun holds more, upcasting raises it, Resources can buy it. It also makes the sum-versus-compound choice free, since three buffs hit the cap either way. Bounds enhancement only, never reduction.
+**C4a ⬤ Capacity — NEW, and the most consequential thing in Section C.** A ceiling on how much enhancement a vector can carry, captured from its source at creation. It moves the stacking problem out of the arithmetic and into the fiction: a better gun holds more, upcasting raises it, a payable Track can buy it. It also makes the sum-versus-compound choice free, since three buffs hit the cap either way. Bounds enhancement only, never reduction.
 
-**C5 ○ Moments, rounds, and the cascade cap — OPEN.** Two caps needed: a depth cap on Moments within one cascade, and a total-work cap. On hitting either: **halt without applying the pending round** and write a `cascade limit reached` Record, so the world sits at the last complete Moment. Same question as B3's Listener cascade limit — answer once. **The numbers are still blank.**
+**C5 ○ Moments, rounds, and the cascade cap — SETTLED with L26, August 2026.** Depth **32**. At the limit: **halt without applying and write a `cascade limit reached` Record**, so the world sits at the last complete Moment — rolling back is unavailable (the Ledger is append-only) and silent dropping is what makes board states unexplainable. Same question as B3's Listener cascade limit, answered once.
 
 **C6 ○ Replacement conflict rule — MOOT.** Replacement is no longer a class. Two standing vectors simply combine.
 
-**C7 ○ Determinism rules — SETTLED, with three additions from Sections B and C.** No floating point. No wall clock. Ordered iteration or stable-key sort. Byte-wise string comparison. Counter-based PRNG keyed by `(record, entity, purpose)`. Edition and Component version pinned per Record. **Plus:** rounding is truncate-toward-zero, applied once per vector at R-400; Listeners satisfied simultaneously sort by `(layer, component_id, listener_id, target_entity_id)`; and **pre-sum, never pre-apply** — source-side contributions collapse to sums at vector creation, and nothing is ever applied early.
+**C7 ○ Determinism rules — SETTLED, with three additions from Sections B and C.** No floating point. No wall clock. Ordered iteration or stable-key sort. Byte-wise string comparison. Counter-based PRNG keyed by `(record, entity, purpose)`. Edition and Component version pinned per Record. **Plus:** rounding is truncate-toward-zero, applied once per vector at R-400; Listeners satisfied simultaneously sort by **semantic class first, then `(layer, component_id, listener_id, target_entity_id)`** (the class enumeration is open — Q3.8); and **pre-sum, never pre-apply** — source-side contributions collapse to sums at vector creation, and nothing is ever applied early.
 
 ---
 
@@ -167,7 +162,7 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **E2 ○ Tick — ANSWERED, restated.** The stamp on a Moment when it *actually occurs*. Logical only. It is what makes replay exact while the pending side of the world stays symbolic.
 
-**E3 ⬤ Budget — A SOCKET.** How actions are rationed, what replenishes when, whether reactions exist: all occupant. **The Vocabulary is Substrate** — the Economy Unit *names* (L28) that content depends on, and that a `repin` must name. Rarely swapped in practice, because swapping it means playtesting a whole economy from scratch.
+**E3 ○ Budget — SUBSTRATE, August 2026** (rules 16a/16b). The doubloon and the three-field cost shape (`cost` · `timing` · `cap`) are frozen Substrate, so content names them freely; a `repin` names its cost in doubloons. The **allowance** — how many an Entity gets and when they refresh — is base Ruleset, deferred to playtest. Coarser clocks and alternative economies are Components, added alongside, never replacing.
 
 **E4 ⬤⬤ The parallelism rule — ANSWERED, and differently than proposed.** **The participant set is the scene.** A vector whose scope reaches outside it is pinned to **the next Moment both share** — an ordinary pin, no synchronisation machinery. **Conflicts need no tiebreak**: they combine, exactly as two fire vectors do, and where they genuinely cannot, **Participation Capacity** settles it. There is no *who went first*, because nobody went first.
 
@@ -291,7 +286,7 @@ This list decides how much a user can build without buying anything, which makes
 
 **J5 ○ The determinism harness lives here.** Golden fixtures replayed on every target platform with state hashes diffed; export-and-reimport at every Moment; **two machines diffed against the same Ledger.** A determinism bug that appears on one architecture only is unfindable without it, and it is cheap while the system is small.
 
-**What it costs.** A second product built beside the first, and a substantial fraction of the first year. It is also what decides whether the design can be **tuned** at all: thirty ordered slots and a dozen interacting ceilings cannot be balanced by intuition.
+**What it costs.** A second product built beside the first, and a substantial fraction of the first year. It is also what decides whether the design can be **tuned** at all: forty-one ordered slots and a dozen interacting ceilings cannot be balanced by intuition.
 
 ---
 
@@ -303,15 +298,15 @@ On paper, before any code. These cannot be revised and cannot be discovered late
 2. **L29 — the Capacity set.** Small, kind-agnostic, each entry stated as a capacity and checked against a person, a ship, a faction and a storm. **And what you deliberately leave off.** Doubly load-bearing: what a character is made of, *and* the Dimensions of the attempt Space.
 3. **L22 → L23** — the Dimensions inside the remaining Spaces, then the Channels placed in them.
 4. **L27 and L28 — SETTLED Aug 2026.** Two Sockets (Place, Resolution); one Economy Unit (the doubloon) and a three-field cost.
-5. **L1 → L2 → L3** — Categories, Universal Attributes, Category Attributes. All three blocking, and the three character sheets get written here.
-6. **L4, L5, L18 — SETTLED Aug 2026.** Tags provisional at 22; L5 became **Tracks**, fourteen of them, one per Dimension; L18 collapsed to four rules.
+5. **L1 → L2 → L3 — SETTLED Aug 2026.** Categories, Universal Attributes, Category Attributes. **The three character sheets are deferred, deliberately, into the Phase 2 paper kit** — what a sheet shows is downstream of character creation, which is not yet designed.
+6. **L4, L5, L18 — SETTLED Aug 2026.** Tags provisional at 24; L5 became **Tracks**, fourteen of them, one per Dimension; L18 collapsed to four rules.
 7. **L25 — SETTLED Aug 2026, and the Landing Socket was retired with it.** A push lands on the Track the Dimension names.
-8. **L7's remaining regions** — the Layer lattice outside resolution: progression, economy, movement, knowledge, social standing. The resolution region is drafted.
-9. **L26** — the Listener condition forms, plus the cascade limit, the behaviour at the limit, and the evaluation order.
-10. **L6 — the Verb set, LAST.** Not third, and not an afternoon. Every list above produces the worked examples that are the only real evidence of completeness; freezing the Verb set before them means freezing it against imagination. When they are done, run every entry and every worked example through the closing procedure, then freeze.
+8. **L7 — SETTLED Aug 2026.** The M- and X- regions were added around the Moment: 41 slots, E×5 / M×5 / C×6 / R×19 / X×6.
+9. **L26 — SETTLED Aug 2026.** Seven condition forms; depth 32; halt-and-Record at the limit; ordering by semantic class then the stable key.
+10. **L6 — the Verb set, LAST, in Phase 2.** Drafted at seven (`Push · Set · Place · Repin · Link · Create · Decide`). Not an afternoon. Run every entry and every worked example — and the Phase 2 content — through the closing procedure, then freeze.
 
 **Then, and only then, code** — starting with the Ledger, the Fold, and **the instrumentation**, which is what makes everything after it possible to tune.
 
-**The forcing function.** Write the character sheet first, at the most detailed Lens you can imagine. What is printed on it is what has to exist underneath. Then do the same for a ship and a faction. The values all three need are the Capacity set; the ones only a person needs tell you whether the Substrate is genuinely kind-agnostic or a person schema wearing a costume.
+**The forcing function — now Phase 2 work, inside the paper kit.** Write the character sheet first, at the most detailed Lens you can imagine. What is printed on it is what has to exist underneath. Then do the same for a ship and a faction. The values all three need are the Capacity set; the ones only a person needs tell you whether the Substrate is genuinely kind-agnostic or a person schema wearing a costume.
 
 **The warning.** A distinction that never reaches a **Lens** does not exist for players — and it is pure cost forever, because it is additive-only. Ultima Online built a full ecology, players killed everything faster than it respawned, nobody ever noticed, and it was quietly removed.

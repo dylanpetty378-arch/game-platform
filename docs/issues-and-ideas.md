@@ -768,7 +768,7 @@ lock: opens at manip ≥ 5 · guard hears at stealth ≤ 1 · guard ALERTED at s
 
 **On a failure, hedging is worse than going all-in.** So all-in is simultaneously the maximum-upside and the minimum-downside play, and the player commits before the sign of the magnitude is known. The mitigation adopted in Phase 0 only bites when things go well.
 
-**Also:** spending no points at all leaves `total points = 0`, which is a division by zero the spec does not address. Now raises explicitly in the checks; still needs a rule.
+**Also:** spending no points at all leaves `total points = 0`, which is a division by zero the spec does not address. **Closed:** an attempt with no points spent anywhere is not legal (rule 18e), and the checks raise explicitly on it.
 
 **Options.** (a) Make downside bars magnitude-relative — `stealth ≤ M/4` — so an unallocated axis is not automatically safe. (b) On a negative magnitude, an unallocated axis takes the *full* negative rather than zero, so ignoring an axis is exposure rather than protection.
 

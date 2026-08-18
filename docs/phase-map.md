@@ -60,7 +60,7 @@ Reading the findings, agreeing with them, and moving on to the more interesting 
 
 **Decide everything that can never be revised.**
 
-Thirty numbered lists, of which twenty-eight are live and fourteen are blocking. The workbook is `substrate-lists.xlsx` — one tab per list, the right columns, an example row. The companion guide is `work-lists.md`: what each list is for, the test each entry has to pass, and how to know it is done.
+Thirty-two numbered lists, of which thirty are live and sixteen are blocking. The workbook is `substrate-lists.xlsx` — one tab per list, the right columns, an example row. The companion guide is `work-lists.md`: what each list is for, the test each entry has to pass, and how to know it is done.
 
 ### What gets done, in this order
 
@@ -69,22 +69,22 @@ The order is a dependency order, not a preference.
 1. **L21 Dimension Spaces.** Which kinds of push can meet each other at all. Coarse, quick, and upstream of everything.
 2. **L29 Capacities.** What a character is made of *and* the Dimensions of the attempt Space — which is why L21 comes first. Every candidate passes the four-way test: person, ship, faction, storm.
 3. **L22 → L23.** The Dimensions inside the remaining Spaces, then the Channels placed in them.
-4. **All of Phase 1 closed in August 2026** except L6, which is drafted and closes in Phase 2 against real content.
+4. **All of Phase 1 closed in August 2026** except L6, which is drafted (seven Verbs) and closes in Phase 2 against real content, and L4, which is provisional at twenty-four and also closes against content.
 5. **L1 → L2 → L3.** Categories, Universal Attributes, Category Attributes.
-6. **L4 Tags (provisional), L5 Tracks, L18 Aggregation, L25 Landing — all settled.**
+6. **L5 Tracks, L18 Aggregation and L25 landing models settled; L4 Tags provisional at twenty-four.**
 7. **L7's remaining regions.** The lattice outside resolution: progression, economy, movement, knowledge, standing.
 8. **L26 Listener conditions**, plus the cascade limit and the evaluation order across simultaneous Listeners.
 9. **L6 Verbs — last.** Every list above produces the worked examples that are the only real evidence of completeness. Freezing the Verb set before them means freezing it against imagination.
 
 ### Two things done alongside the lists
 
-**The three character sheets.** Write the character sheet first, at the most detailed Lens imaginable. What is printed on it is what has to exist underneath. Then write one for a ship and one for a faction. The values all three need are the Capacity set; the ones only a person needs reveal whether the Substrate is genuinely kind-agnostic or a person schema in a costume.
+**The three character sheets — deferred into Phase 2, deliberately.** The plan was to write the character sheet first, at the most detailed Lens imaginable, then one for a ship and one for a faction: the values all three need are the Capacity set, and the ones only a person needs reveal whether the Substrate is genuinely kind-agnostic or a person schema in a costume. That test still runs — but sheet content is downstream of character creation, which is undesigned, so the sheets are written as the first pieces of the Phase 2 paper kit instead, where they must exist anyway.
 
 **The jargon count.** Every invented word is a word a new player has to meet. Keep a running count and a first-contact budget — research on jargon says inline definitions do not repair the damage, so a glossary will not save it. Only meeting fewer words at once will.
 
-### The gate
+### The gate — met August 2026, as renegotiated
 
-Every blocking list filled. The three character sheets written. The Verb set closed by running every entry from every other list through the closing procedure.
+Every blocking list filled — with L4 provisional at twenty-four, closing against content. The Verb set drafted at seven, closing **in Phase 2** by running every entry from every other list plus the played content through the closing procedure — closing it against imagination was the mistake the rule exists to prevent. The three character sheets deferred into the Phase 2 paper kit, where they are the first deliverable.
 
 ### What kills this phase
 
@@ -102,7 +102,7 @@ Index cards, a shared spreadsheet, and people who will tell the truth. This is t
 
 ### What gets done
 
-- **The paper kit**: character sheets, a resolution walkthrough, a page of Channels, a page of Thresholds a GM can reach for, and a one-page cheat sheet.
+- **The paper kit**: the three deferred character sheets (person, ship, faction — the Phase 1 debt, discharged where it is naturally due), a resolution walkthrough, a page of Channels, a page of Thresholds a GM can reach for, a one-page cheat sheet, and a **paper approximation note** stating exactly which pipeline rules are suspended at the table, so a misfit found on paper can be classified as a design finding rather than an artifact of the shortcut.
 - **Sessions with people who are not you.** At least one group with no stake in your feelings.
 - **The questions this phase answers**, and nothing else can:
   - Does splitting attention feel like a decision or like homework?
@@ -132,7 +132,7 @@ Not "they were polite." Not "it was fine once I explained it." Someone asked.
 
 **The Substrate.** Ledger, Fold, the uniform Verb shape, Delivery, Deciders, Moments, and the full E-/C-/R- resolution pipeline. **Server-authoritative folding from the first commit** — it is Tier 1 and retrofitting it is not possible.
 
-**Five Socket occupants.** Time, Place, Resolution, Landing, Budget. Nothing loads without them, so "one or two Components" was never the real scope.
+**Two Socket occupants.** Place and Resolution — the only Sockets there are. Time and Budget became Substrate and Landing was retired into the Track push, so what was once "five occupants" is now two occupants plus the base Ruleset's turn order, budget refresh and landing spec. Nothing loads without the two, so "one or two Components" was never the real scope.
 
 **The instrumentation, here and not later.** Event log with search. Any resolution expanded slot by slot. State inspector at any Moment. Time travel. **What-if** — re-resolve a past moment with one input changed, never writing to the Ledger. Notes anchored to a single slot of a single resolution. Tester accounts. And the determinism harness.
 
@@ -327,7 +327,7 @@ An audience takes years and cannot be bought at the end. Starting now, at whatev
 | End of | This is true |
 |---|---|
 | **0** | All eight Phase 0 findings fixed or explicitly accepted in writing |
-| **1** | Every blocking list filled; three character sheets written; the Verb set closed last |
+| **1** | Every blocking list filled (L4 provisional); the Verb set drafted, closing last in Phase 2; the character sheets deferred into the Phase 2 kit |
 | **2** | **A group asked to play again without being asked** |
 | **3** | Two machines fold the same Ledger identically; *why was it 17* answers in ten seconds |
 | **4** | An unplanned Component written without touching the Substrate |

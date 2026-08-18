@@ -14,13 +14,18 @@ It exists because in three years the entries will look arbitrary, and the differ
 | **L29** Attempt Domains & Dimensions | **Settled** — August 2026 |
 | **L22** Dimensions, per Space | **Settled** — August 2026 |
 | **L23** Named Channels | **Settled** — August 2026 |
-| **L27** Sockets | **Settled in shape** — three, August 2026 |
+| **L27** Sockets | **Settled** — two (Place, Resolution; Landing retired), August 2026 |
 | **L28** Economy | **Settled in principle** — one unit, three-field cost, August 2026 |
 | **L31** Timings | **Settled** — August 2026 |
 | **L1 / L2 / L3** Categories, Universal & Category Attributes | **Settled** — August 2026 |
 | **L5** Tracks *(was State axes)* | **Settled** — August 2026 |
 | **L18** Aggregation operators | **Settled** — August 2026 |
 | **L32** Moment kinds | **Settled** — August 2026 |
+| **L4** Tags | **Provisional** — 24 chosen, August 2026 |
+| **L25** Landing | **Settled** — August 2026, Landing Socket retired with it |
+| **L7** Layers | **Settled** — August 2026, 41 slots |
+| **L26** Listener conditions | **Settled** — August 2026 |
+| **L6** Verbs | **Drafted** — seven, August 2026; closes in Phase 2 |
 
 ---
 
@@ -252,7 +257,7 @@ The right call — the list does not depend on the formula, and the formula cann
 
 # L22 · Dimensions, per Space
 
-**Settled: fourteen across the four non-attempt Spaces** *(amended from twelve during L23 — see that entry)* — physical `temperature · integrity · vital · substance · vigor`, mental `composure · clarity · will`, social `regard · standing`, mystic `working · essence`. Accepted as proposed, in one pass.
+**Settled: fourteen across the four non-attempt Spaces** *(amended from twelve during L23 — see that entry for the renames and the two added axes)* — physical `temperature · integrity · substance · vitality · vigor · mobility · acuity`, mental `composure · clarity · will`, social `regard · standing`, mystic `working · essence`. Accepted as proposed, in one pass, then amended twice.
 
 ## The test that did the work
 
@@ -346,7 +351,7 @@ Exactly right, and the cause was in L22, not in the Channel. The physical axes h
 
 Which required renaming four axes, because their old names named the wrong thing: `thermal`→**`temperature`**, `kinetic`→**`integrity`**, `corrosive`→**`substance`**, `vital`→**`vitality`**.
 
-**The proof it works:** of eighty-eight Channels, **only three have mixed signs** — `humble`, `menace`, `enthrall` — and every one is a genuine trade you would want to see at a glance.
+**The proof it works:** of eighty-eight Channels, **only four mix help and harm on the unipolar axes** — `humble`, `menace`, `enthrall`, `petrify` — and every one is a genuine trade you would want to see at a glance. (Bipolar signs read as displacement, not help or harm, so `lightning` and `cleanse` are a different shape: a push paired with a displacement.)
 
 ## And two Dimensions were simply missing
 
@@ -467,7 +472,7 @@ The first response resisted, on the grounds that a Setting might want week-long 
 
 **Consequences, all of which fall out at once:**
 
-- Five Sockets become **three**.
+- Five Sockets become **three**. *(Postscript, later the same month: the Track merge then retired Landing — see the L25 entry — leaving the settled **two**, Place and Resolution.)*
 - The cross-Socket vocabulary problem Dylan had flagged earlier **dissolves** — Time and Budget were the two everything else reached across.
 - The rule "content may never name a denomination" **reverses**. No occupant, no problem. Frozen Substrate words may be named freely.
 - The turn model becomes **the first game-design opinion frozen into the Substrate**, which is worth saying out loud: everything before it was machinery.
@@ -501,7 +506,7 @@ He is right, and the reason is structural rather than permissive. Under **absent
 
 **Points spent this Moment are readable state.** Confirmed, with a caveat worth keeping: *"there will also be more to it."* So the Substrate should not shape this as a single field. Whatever the economy exposes for the anti-dumping device, it is one member of a set that will grow.
 
-**The contributor-breakdown question is open, with a recommendation.** See L25 in the dictionary for the worked example — three attackers landing −6, −5 and −4 in one Moment, against a Setting where a single landing over 10 maims. The packet arriving at R-1200 is `vitality −15` and has forgotten it was three blows, so the bar cannot be read as `highest`. Recommendation: carry the contributor list into Landing, because R-850 already works per contributing source, the Resolution Record already writes it down, and every good landing mechanism in the field reads `highest`.
+**The contributor-breakdown recommendation, since adopted as rule 18i — Landing receives the contributor breakdown.** See L25 in the dictionary for the worked example — three attackers landing −6, −5 and −4 in one Moment, against a Setting where a single landing over 10 maims. The packet arriving at R-1200 is `vitality −15` and has forgotten it was three blows, so the bar cannot be read as `highest`. Recommendation: carry the contributor list into Landing, because R-850 already works per contributing source, the Resolution Record already writes it down, and every good landing mechanism in the field reads `highest`.
 
 ---
 
@@ -530,7 +535,7 @@ He is right that eight anchors cannot express those. He is looking at the wrong 
 ```
 Listener(condition)   →   produces a Verb   →   pinned to a Moment
     WHETHER it fires                                WHEN it lands
-    open, extensible forever                    closed, eight kinds
+    open, extensible forever                    closed, nine kinds
 ```
 
 **The Moment list is small because it is a coordinate system, not a vocabulary of triggers.** Three of his four examples are Listeners on machinery that already exists — a Resolution Record matching a shape, doubloons spent this Moment with timing `respond`, a value crossing a bar. None needs a new Moment kind, and adding one would put permanent weight on a frozen list to do a job an open list already does.
@@ -693,7 +698,7 @@ Dylan again, in the same message:
 
 **Nine Categories** — `Vector`, `Proposal`, `Relationship` (Substrate, enforced shape) and `Creature`, `Item`, `Place`, `Group`, `Notion`, `Phenomenon` (base Ruleset).
 
-**Nine universal fields** — `id`, `category`, `tags`, `links`, `scale`, `facets`, plus one slot per Noun kind: `capacities`, `states`, `resources`.
+**Eight universal fields** — `id`, `category`, `tags`, `links`, `scale`, `facets`, `capacities`, `tracks`. Settled here as nine, with separate `states` and `resources` slots; the L5 Track merge (next entry) collapsed those two into `tracks`.
 
 **PC and NPC are not Categories.** Same fields, same rules, same sheet; the difference is a `controlled_by` link and a Decider. A character's numbers come from a creation process, a bestiary entry's are typed in, and the schema is identical.
 
@@ -747,4 +752,82 @@ Added on request, and they are the two with no precedent to borrow. **`working` 
 
 ---
 
-*L4 Tags · L25 Conversions · L7 · L26 — remaining. L6 last.*
+# L4 — Tags, provisional at twenty-four
+
+*Recorded after the fact from the workbook and Part 12 — the argument happened outside this log.*
+
+**Provisional: twenty-four — eleven Substrate, thirteen base Ruleset.** The Substrate seed is the set other machinery must be able to rely on existing: `Mass` · `Bulk` · `Hardness` · `Reach` · `Multiplicity` · `Manufactured` · `Portable` · `Anchored` · `Container` · `Consumable` · `Unique`. The base Ruleset adds `Reliability` · `Volatility` · `Signature` · `Illumination` · `Living` · `Sapient` · `Metallic` · `Mineral` · `Organic` · `Fibrous` · `Flammable` · `Conductive` · `Porous`. Provisional because membership closes against real content in Phase 2, the same way L6 does.
+
+**What is on record.** The governing number: Magic published 222 keywords over 33 years and keeps ~17 evergreen; Path of Exile runs 46 simultaneously live tags and they are that game's most notorious confusion — hence no cap on the total, a hard cap around 15–20 on the mechanically-live set. The minting rule: only mint a Tag when something else must reference it — if no Modifier, Guard, Threshold or Listener will ever key on the cluster, it is flavour text. And the magnitude decision moved during this list: from *optional per instance* to **declared per Tag at mint** — carries none, or carries one in a named unit — because optional-per-instance means every reader writes `if(magnitude)` and half of them get it wrong.
+
+**Rejected, and it is the best-supported block in the whole set.** Tag hierarchy and inheritance — MTG surgically removed its last implication (Wall meaning "can't attack") and errata'd thousands of cards rather than keep it. `Living` deliberately implies nothing; `Flammable` is explicitly not derived from `Organic`, because that derivation is the hierarchy being forbidden. Also rejected: derivation at read time — a Component computing *if hasTag(Metallic) then treatAs(Conductive)* has reintroduced hierarchy in behaviour while passing the schema check, and **the CI gate forbidding it is flagged as missing**; fire, cold and lightning (Channel positions, not Tags); creature kinds like Undead and Beast (Categories, by the cardinality test).
+
+---
+
+---
+
+# L25 — Landing, and the Socket it retired
+
+*Recorded after the fact from the workbook and Part 12 — the argument happened outside this log.*
+
+**Settled: the default landing is one line — subtract the resolved value from the Track the Dimension names, clamped to its bounds.** The Track merge did most of the work: three of the eleven landing models in the research — deplete a pool, fill a track, cross a bar and name a condition — are all just a Track. Landing receives the **contributor breakdown**, not only the combined totals, or a Threshold at R-1200 could never read `highest` or `each`.
+
+**And that retired the Landing Socket.** Its job was choosing *how* a surviving vector becomes persistent state; the merge removed the choice, because every axis is a Track by construction. What remained turned out to be Thresholds, Listeners and Track definitions, all of which already exist. **A Socket that can be satisfied by doing nothing is not a Socket.** The per-Dimension landing models are base Ruleset.
+
+**What the default dissolves.** Bar-based landing is a magnitude-concentration incentive — Mythras ships forty special effects and players use the three that shove one blow over a bar, because harm below the bar did nothing. A Track has no dead zone, so small hits accumulate and eventually cross; the incentive returns only where a Threshold reads `highest`, which is opt-in.
+
+**The three axes that need more than the default.** `regard` lands on a Connection, never on the target — and a missing Connection is a rejection **Record**, never a silent drop. `standing` and `essence` never restore on their own; the bipolar axes restore toward the centre.
+
+**Rejected.** *Harden* for `will` — resisting making resistance easier is a snowball in both directions; it works in Unknown Armies and Delta Green because it runs across a campaign, not inside a fight. Silent drops — a packet with nowhere to go is a Record. Freeform phrase landing as the default — a phrase is not machine-readable, so the Fold cannot reason about it. Assuming health — the Substrate ships no Tracks, and Masks and Mouse Guard are shipping proof a Setting can run without any.
+
+---
+
+---
+
+# L7 — the lattice outside resolution
+
+*Recorded after the fact from the workbook and Part 12 — the argument happened outside this log.*
+
+**Settled: five regions, forty-one slots — E×5, M×5, C×6, R×19, X×6.** The R region closed in Phase 0; August 2026 added M- (the Moment opens: ownership, budget refresh, cap reset, scope refresh, phenomena emit) and X- (the Moment closes: direct Verbs, restoration, progression, knowledge, standing, cadence).
+
+**Two orderings carry weight.** M-400 before M-500, so a fire covers where you are *now*. And X-100 after R-1400, so a Listener that produces a movement applies it after resolution rather than during. X-100 shrank to **movement and transfer** once paying a cost turned out to be a Track push and therefore a vector — the only direct Verbs left are the ones that are genuinely destinations rather than magnitudes.
+
+**Rejected.** Running direct Verbs through the R region — nineteen slots of theatre for a Verb with no magnitude and no Guard. A separate movement region — movement is a direct Verb at X-100, and a turn contains several Moments, so move-then-attack is two Moments with scope refreshing between them.
+
+**Honestly, and the workbook says this in its own voice: this is the least-grounded settled list.** The R slots each came from a worked case that failed without them; M- and X- came from asking what must be true before R-100 and what reads the result, which is reasoning about the shape rather than evidence from a failure. Expect these regions to gain slots in Phase 2, and treat that as normal. No fuller argument than that is on record.
+
+---
+
+---
+
+# L26 — Listener conditions, and the three blanks
+
+*Recorded after the fact from the workbook and Part 12 — the argument happened outside this log.*
+
+**Settled: seven condition forms.** A value crosses a bar · a value compares to another · an Entity holds a Track in a named band · an Entity holds a Tag, optionally magnitude ≥ N · a set is non-empty or has size N · **a Resolution Record exists matching a shape** · a Moment of a named kind has occurred. The sixth carries the most weight — it is how reflection, retribution and *"when you are healed by another"* work without watching an event, and it is still watching state, because the Record is a durable fact in the Ledger. Conditions compose with `and`/`or`/`not` — `not` is safe because the open-world rule is about absent fields, not unknown state, and the Fold has complete state at evaluation. Firing discipline is a required field, `once` or `while`, with no default, because a wrong guess is silent.
+
+**The proof it scales is Magic's state-based actions** — rule 704.4 pays no attention to what happens during resolution, only to what is true when it checks, and it has run the largest ruleset in the hobby for thirty years.
+
+**The three blanks, filled.** Depth **32** — where SQL Server's nested-trigger limit settled twenty years ago, high enough that no legitimate design reaches it. At the limit, **halt without applying and write a Record** — rolling back is unavailable (append-only) and silent dropping is what makes Hearthstone board states unexplainable. Ordering is **a semantic class first, then `(layer, component_id, listener_id, target_entity_id)`** — Drools salience is deterministic but not stable under rule-set edits, and Yu-Gi-Oh's SEGOC, the only fully specified simultaneous-trigger ordering in any game, is a classification first and a declared order second. The sort key may contain only values that do not move when unrelated content is added; the class enumeration itself is still open (Q3.8).
+
+**Rejected.** Run to a fixpoint with no counter — MTG handles a genuine loop with a *social* rule (the game is a draw), and we have no table to appeal to. Rollback. Silent drop. A global priority number. Registration order — the same Ledger would fold differently on two machines. And "a Verb was just used" as a form — Listeners watch state; that is what the Resolution-Record form is for.
+
+**And the Brush.** A creature at 0 `vitality` at R-1200 that is healed at R-1250 is not dead, because Listeners evaluate at R-1400. The near-miss is written on the Resolution Record as a **Brush** — a Threshold crossed and uncrossed inside one Moment — so a Lens can surface it and a Listener can react to it. Slots are observable; the order of commutative operations inside a slot is not.
+
+---
+
+---
+
+# L6 — Verbs, drafted
+
+*Recorded after the fact from the workbook and Part 12 — the argument happened outside this log.*
+
+**Drafted: seven — `Push` · `Set` · `Place` · `Repin` · `Link` · `Create` · `Decide`.** This supersedes the nineteen-candidate preliminary list (create · destroy · move · alter magnitude · transfer · set state · clear state · add tag · remove tag · form relationship · break relationship · reveal · conceal · bind to condition · advance clock · apply · assume category · shed category · repin).
+
+**What is on record, and what is not.** The only per-verb argument written down anywhere is `repin`'s — a repin must name a cost, because a free repin traps the table in combat permanently. **The arguments for the other six, and the mapping that collapsed nineteen candidates into seven, are not recorded anywhere.** They are owed before the list closes, and this entry exists partly to say so plainly rather than let the draft read as more settled than it is.
+
+**Closing is Phase 2 work, last, by the closing procedure:** take every entry from every other list plus every worked example and every piece of Phase 2 content, assume the fiction has already decided what happened, write only what changed, then which Verbs express it. A consequence needing an operation not on the list is a real finding; one needing a Tag, a Channel or a Component formula is not. Done when a full pass adds nothing.
+
+---
+
+*Phase 1 closed August 2026 — every blocking list settled, L4 provisional at twenty-four, L6 drafted. L6 closes in Phase 2, last, by the closing procedure.*

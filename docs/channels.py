@@ -62,4 +62,12 @@ if __name__ == "__main__":
         k = tuple(sorted(d.items()))
         if k in seen: dup.append((n, seen[k]))
         seen[k] = n
-    print(f"{len(CHANNELS)} Channels · sum≠100 {bad or 'none'} · duplicate positions {dup or 'none'}")
+    # Rule 17b, second half: every Dimension must be used on both signs, or the axis dies.
+    dead = []
+    for dim, _, _ in DIMS:
+        signs = {(v > 0) for d in CHANNELS.values() for k, v in d.items() if k == dim}
+        if signs != {True, False}: dead.append(dim)
+    print(f"{len(CHANNELS)} Channels · sum≠100 {bad or 'none'} · duplicate positions {dup or 'none'}"
+          f" · single-sign Dimensions {dead or 'none'}")
+    if bad or dup or dead:
+        raise SystemExit(1)

@@ -1,6 +1,6 @@
 # Phase 0 · Repair — CLOSED
 
-**Closed August 2026.** Every item below is decided, recorded in `dictionary.md` Part 12 with its reasoning, and covered by a numeric test in **`phase-0-checks.py`** that fails against the old behaviour and passes against the new.
+**Closed August 2026.** Every item below is decided and recorded in `dictionary.md` Part 12 with its reasoning, and every one except **A2** is covered by a numeric test in **`phase-0-checks.py`** that fails against the old behaviour and passes against the new. A2 is explicitly *accepted* rather than fixed — a reserved slot has nothing testable, so R-780 is recorded, not checked.
 
 This document is now the record of what was decided and why, not a worklist. The worklist is `work-lists.md`.
 
@@ -65,7 +65,7 @@ Against the standing lock those two readings tell **different stories**: share-f
 
 The consequence, stated plainly so nobody reads it as a leak: *a lock at Enhancement Capacity 100% cannot be amplified, but it can still be helped by a flat bonus.*
 
-**A Baseline is a percentage, so the same ceiling covers it.** No second Capacity, no second number on an item. This closes the longest-standing PENDING in Part 2C.
+**A Baseline is clamped by the same Enhancement Capacity, so no second ceiling is needed.** No second Capacity, no second number on an item. This closes the longest-standing PENDING in Part 2C. *(The first statement here was "a Baseline is a percentage"; A10 then moved all Shaping into points. As settled: a Baseline means a Dimension counts as at least N points without raising the total — it can genuinely inflate, and Enhancement Capacity is what clamps it. Whether summed Baselines need a ceiling of their own is open — Q3.2 in `open-questions.md`.)*
 
 **The Capacity belongs to the task or the target, never the source.** The lock says how much help it absorbs; the gun says how much amplification it holds. A source-owned ceiling would be shoppable — the party would route every vector through whoever held the highest.
 
@@ -99,7 +99,7 @@ An evenly-spread attack at full magnitude landed **nothing**. Nobody would ever 
 
 **Accepted as a content decision.** An Entity that keeps an aura on itself is a large ability, and it gets priced per creature. Fire elementals *should* be hard to fight. This is balance, not a Substrate hole.
 
-**With insurance: R-780 is reserved** as a ceiling on standing self-scoped cancellation, and left **unbounded in v1**. Reserving a slot costs nothing. Discovering later that a player can assemble the stack — through items, or through `assume category` — and having to add a slot at that point is an Edition break that refolds every Campaign.
+**With insurance: R-780 is reserved** as a ceiling on standing self-scoped cancellation, and left **unbounded in v1**. Reserving a slot costs nothing. Discovering later that a player can assemble the stack — through items, or through a Category change — and having to add a slot at that point is an Edition break that refolds every Campaign.
 
 ---
 
@@ -133,14 +133,14 @@ The old claim that *"two fixed-point numbers are never multiplied together"* was
 
 **Demand is retired.** It was a third form that forced a minimum allocation and squeezed everything else into what remained. Nothing in the design ever asked for it, forcing a player to spend their own points somewhere is a strange thing to want, and it was the only form that had to be a percentage — which reintroduced the rounding problem integer allocation had just removed. A cost belongs in the Budget, or as a Guard or a State.
 
-The two survivors do not commute, so the order still matters. Raw 1/2/1 at magnitude 12, with `+3 points on manipulation` and `manipulation counts as at least 3 points`:
+The two survivors do not commute, so the order still matters. Raw 1/2/1 at magnitude 12, with `+3 points on control` and `control counts as at least 3 points`:
 
 ```
 Bonus Points first   4/2/1 of 7   →   6, 3, 1
 Baseline first       3/2/1 of 4   → +3 → 6/2/1 of 7  →  10, 3, 1
 ```
 
-The three do not commute and the swing is large — 3.4× on one axis from ordering alone. The order is arithmetically arbitrary; what matters is that it is declared once and never varied by content. **It is on the playtest watchlist**, because only play will say whether it feels right.
+The two survivors do not commute and the swing is real — 10 versus 6 on `control` from ordering alone in the worked numbers above. The order is arithmetically arbitrary; what matters is that it is declared once and never varied by content. **It is on the playtest watchlist**, because only play will say whether it feels right.
 
 ---
 
@@ -184,7 +184,7 @@ What counts as a part, and how parts roll up into the whole, is a Component ques
 
 R-200 through R-750 run per vector. **R-780 through R-850 run once per contributing source.** R-1000 onward run once for the target.
 
-That is **thirty slots: E×5, C×6, R×19.**
+That is **thirty slots: E×5, C×6, R×19** — the lattice as Phase 0 closed. *(Phase 1 then added the regions around the Moment: **41 slots, E×5 / M×5 / C×6 / R×19 / X×6**. See L7 in `work-lists.md`.)*
 
 References updated in `dictionary.md` Part 2A and L7, `architecture.md` §8 and §11A, `substrate-checklist.md` C3, `orientation.md` §4.4, and `issues-and-ideas.md` A18.
 
@@ -206,7 +206,7 @@ Ten findings, all written up in `issues-and-ideas.md` **Part A2**, all closed. I
 
 **The three errors.** The checks used Python's `//`, which floors — and floor is not truncate-toward-zero on negatives, which matters because *a failure is a negative magnitude*. Flooring manufactured magnitude, and at a Scale gap it made deliberately failing reach further than succeeding. The dictionary also still said Capacity is captured from the source four lines after saying it belongs to the task, so the shoppable ceiling was still there in the slot list. And named and universal flat Guards were sharing a slot without a declared order, disagreeing on a third of an exhaustive sweep.
 
-**The two pipeline changes.** A **flat Guard now acts once per contributing source** rather than once per Moment — plate absorbed 3 whether one bandit swung or eight, so eight attackers landed 77 instead of 56. And **cancellation moved to R-1000**, between flat and proportional Guards, which lets armour meet each blow while leaving the fire elemental exactly as it was. **Restoration resolves at R-1250, after harm has landed** — still an ordinary vector with a negative magnitude, just at a later layer, which is why no Guard can reach it and why delaying a heal is no longer worth the Guard's value.
+**The two pipeline changes.** A **flat Guard now acts once per contributing source** rather than once per Moment — plate absorbed 3 whether one bandit swung or eight, so eight attackers landed 77 instead of 56. And **cancellation moved to R-1000**, between flat and proportional Guards, which lets armour meet each blow while leaving the fire elemental exactly as it was. **Restoration resolves at R-1250, after harm has landed** — still an ordinary vector, in the positive direction of the axis it restores as the sign convention requires, just at a later layer, which is why no Guard can reach it and why delaying a heal is no longer worth the Guard's value.
 
 **Three findings turned out to be the design working.** Small things needing a hard enough blow to hurt large things is a damage threshold and is wanted. A poisoned blade delivering its poison when it wounds you is right. And the Capacity clamp needs no distribution rule, because everything sums before it.
 

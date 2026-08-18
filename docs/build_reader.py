@@ -33,10 +33,13 @@ DOCS = [
 
 md = markdown.Markdown(extensions=["tables","fenced_code","toc","sane_lists","attr_list"])
 
+missing = [fn for fn, _, _ in DOCS if not os.path.exists(fn)]
+if missing:
+    raise SystemExit(f"build_reader: missing source documents {missing} — "
+                     "a renamed doc must be renamed here too, never silently dropped")
+
 sections, nav = [], []
 for i,(fn,title,blurb) in enumerate(DOCS):
-    if not os.path.exists(fn):
-        continue
     md.reset()
     body = md.convert(open(fn, encoding="utf-8").read())
     did = f"doc{i}"

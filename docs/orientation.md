@@ -146,11 +146,11 @@ Here's the problem the rule above creates. If Crafting can't touch Currency's pu
 
 **Verbs** are the answer. A small, **closed, permanent** set of abstract operations. Crafting never says "spend 5 gold." It records only the consequence: *value V transferred from Entity E.* Whatever economy Component is installed — coin, barter, favor, reputation, ration tokens — decides what that means. Swap the economy and crafting still works, untouched, because it never knew what money was.
 
-**This is the single highest-risk decision in the entire system — and it is deliberately the LAST one made, not the first.** It's an instruction set. Too small and Components can't express what they need; too large and it's unstable, and every addition is permanent. The candidate list right now:
+**This is the single highest-risk decision in the entire system — and it is deliberately the LAST one made, not the first.** It's an instruction set. Too small and Components can't express what they need; too large and it's unstable, and every addition is permanent. The draft (L6, August 2026), which superseded an earlier nineteen-entry candidate set:
 
-`create · destroy · move · alter magnitude · transfer · set state · clear state · add tag · remove tag · form relationship · break relationship · reveal · conceal · bind to condition · advance clock · apply · assume category · shed category · repin`
+`Push · Set · Place · Repin · Link · Create · Decide`
 
-Domain operations are never Verbs. *Inherit* is form relationship + add tag. *Fuse* is destroy + destroy + create. If the Verb set is right, everything composes out of it.
+Seven operations, drafted rather than closed — the set closes in Phase 2, against real content. Domain operations are never Verbs; *inherit*, *fuse* and *forge* are compositions, never entries. If the Verb set is right, everything composes out of it.
 
 **Nouns** are the opposite: an **open, extensible** set. A Noun is a published data schema, and there are exactly **four kinds** — **Capacity** (a graded, kind-agnostic disposition — what you *bring* to an attempt), **Tag** (loose membership, magnitude declared per Tag), **Track** (a bounded value with a max, a current and named bands — the persistent counterpart of a Dimension; what can be *pushed*), and **Relationship** (a Category of Entity holding one Connection per participant). *(Five until August 2026, when State and Resource were found to be one mechanism.)* They behave differently under change, aggregation and rendering, which is the entire reason the kinds exist.
 
@@ -224,7 +224,7 @@ This section used to be about **Periods** — a bounded unit of time that Record
 
 **There is only the Moment.** A named point in the timeline that something can be pinned to. A turn is a Moment. So is the end of a round, the close of a downtime week, and the turn of a season. They are the same object at different grains.
 
-**Turn and round are the Substrate's business; anything coarser is not.** *(Amended Aug 2026 — this used to say Time was a Socket.)* The Substrate ships the turn model a turn-based game needs so that abilities can be written and understood, and Components layer coarser clocks — downtime weeks, seasons, campaign turns — alongside it. A weekly play-by-post table and a live table running turn by turn share the same Substrate turn model with a different coarse clock over it, and content written for one does not have to be compatible with content written for the other, because they never meet.
+**Turn and round are the Substrate's business; anything coarser is not.** The Substrate ships the turn model a turn-based game needs so that abilities can be written and understood, and Components layer coarser clocks — downtime weeks, seasons, campaign turns — alongside it. A weekly play-by-post table and a live table running turn by turn share the same Substrate turn model with a different coarse clock over it, and content written for one does not have to be compatible with content written for the other, because they never meet.
 
 **Nothing runs on a wall clock.** A Moment gets stamped with a tick when it actually occurs, and that stamp is what makes replay exact. Real time exists for humans — deadlines, notifications, *"you have until Sunday"* — and never reaches the rules.
 
@@ -234,21 +234,21 @@ This section used to be about **Periods** — a bounded unit of time that Record
 
 ### What replaced Budgets-per-Period
 
-**Budget is a Socket too.** How many actions you get, when they come back, whether reactions exist — all of that belongs to whichever Component fills the hole, and it will rarely be swapped because swapping it means playtesting an entire economy from scratch.
+**Budget is Substrate.** There is one Economy Unit — the doubloon, an integer, no denominations — and the words for *when* you may pay are frozen alongside it. How many doubloons you get and when they refresh is base Ruleset: the same answer in every Setting, tuned as the game is tuned, never a swappable Component.
 
-**But the vocabulary is Substrate.** If a spell costs *one action*, then `action` has to be a word that exists no matter which economy is installed — otherwise every spell ever written is hostage to one Component. The **names** are permanent; the **economics** are swappable. That split turns out to apply to every Socket, and it is what makes them safe.
+**The vocabulary lesson survives, and it now belongs to the two real Sockets.** If content names something — a zone, a range, a likelihood — that name has to exist no matter what sits underneath, or every spell ever written is hostage to one occupant. The **names** are permanent; the **behaviour** is the occupant's. That split is what makes Sockets safe.
 
 ## 3.6A Sockets: the Components that cannot be absent
 
 The claim *"everything above the Substrate is a Component"* is true, and was misleading. Some Components are load-bearing walls rather than furniture.
 
-The Substrate defines what a **Track** is and ships none. It knows a vector has scope and cannot say what a place is. It knows an attempt produces a magnitude and cannot say how. Those last two are **Sockets** — named holes the Substrate declares and cannot fill itself. *(Amended Aug 2026: Time and Budget moved into the Substrate, and Landing was retired when the Track merge removed its job. Two Sockets remain — Place and Resolution.)*
+The Substrate defines what a **Track** is and ships none. It knows a vector has scope and cannot say what a place is. It knows an attempt produces a magnitude and cannot say how. Those two are the **Sockets** — named holes the Substrate declares and cannot fill itself. There are exactly two: **Place** (what *area* and *range* mean) and **Resolution** (how an attempt gets its number), and their occupants are frozen per Setting.
 
 - **Exactly one occupant per Socket. Never zero, never two.**
 - **A Bundle with an empty Socket must fail to load.** That is the rule that makes the concept worth having.
 - **Swapping an occupant is an Edition-level change**, never a casual toggle, because every piece of content in the Bundle is written against what it publishes.
 
-Five candidates: **Time** (which Moments exist), **Place** (what *area* and *range* mean), **Resolution** (how an attempt gets its number), **Landing** (what a vector that gets through does to you), and **Budget** (how actions are rationed).
+Three earlier candidates resolved out of the list in August 2026: Time and Budget moved into the Substrate, and Landing was retired when the Track merge removed its job — a vector lands by pushing the Track its Dimension names, and the per-Dimension landing models are base Ruleset.
 
 **Keep that list short.** Every Socket is a permanent dependency for every Component ever written, and an over-long list quietly rebuilds the monolith that the whole Component design exists to prevent.
 
@@ -305,7 +305,7 @@ A Verb doesn't hand anything back. There's nothing running to hand anything back
 
 So how does anything follow from anything? A **Listener**: a declared watch on a condition.
 
-A blow drives someone's health to zero. The Verb doesn't know that and doesn't report it. A Listener that was watching *"this Track is at zero"* notices, fires, and issues its own Verbs — set state `unconscious`, add a Tag, whatever that Component declared.
+A blow drives someone's health to zero. The Verb doesn't know that and doesn't report it. A Listener that was watching *"this Track is at zero"* notices, fires, and issues its own Verbs — a push on another Track, an added Tag, whatever that Component declared. (*Unconscious* is a named band on a Track, not a separate thing to switch on.)
 
 The important detail: **a Listener watches state, not Verbs.** It asks *"is this true now?"*, never *"did that just happen?"* The second version would make Components depend on each other's internal sequences, which is the exact thing the whole Component design is built to prevent. The first version only depends on the world, which is re-derivable from the Ledger and therefore safe.
 
@@ -353,11 +353,15 @@ A **Layer** is a numbered slot. A Component never says "I modify speed"; it says
 ```
 E-100 … E-500     preparing an Entity      does it exist, what Categories it holds,
                                             its own numbers, its ceilings
+M-100 … M-500     opening a Moment         what happens as the Moment arrives,
+                                            before any vector is touched
 C-100 … C-600     creating a vector        everything the source contributes,
                                             collapsed to a direction and four numbers
 R-100 … R-1400    resolving at a Moment    gather, assemble each vector, convert
                                             Scales, combine, meet Guards, land,
                                             record, then Listeners
+X-100 … X-600     closing a Moment         what happens on the way out — movement
+                                            and transfer pin to X-100
 ```
 
 ### Three rules that came out of drafting it
@@ -372,7 +376,7 @@ It has a vocabulary consequence that content authors have to obey: **never write
 
 **Within a slot, order is irrelevant** — it is all addition, and addition commutes. Only the slots are ordered, and they are ordered permanently.
 
-**What is still open** is everything outside resolution: progression, economy, movement, knowledge, social standing. Err high. An unused slot costs nothing; a missing one is a foundation break. Magic: the Gathering needed seven layers and thirty years, and still produces intuitive results only about 99% of the time.
+**Nothing in the lattice is still open.** It closed at forty-one slots, generously gapped, because an unused slot costs nothing and a missing one would have been a foundation break. Magic: the Gathering needed seven layers and thirty years, and still produces intuitive results only about 99% of the time — the gaps are the hedge against being that wrong.
 
 ## 4.5 Two groups playing at once
 
@@ -693,7 +697,7 @@ Three structural notes:
 
 The sequencing has moved to its own document. **`phase-map.md` is authoritative** on what happens in what order, and it deliberately carries **no hour estimates** — the sequence is the useful part, because it is a dependency order, and the arithmetic only ever discourages.
 
-Its nine phases, in brief: **0 Repair** (fix what the adversarial review found) · **1 The Lists** (decide everything that can never be revised) · **2 Paper** (play it without software; the gate is *someone asks to play again*) · **3 The Spike** (Substrate, five Socket occupants, and the instrumentation) · **4 The Ruleset** (the base game as Components) · **5 Closed playtest** · **6 Content** · **7 Open beta** · **8 Release**. Two tracks — brand and legal, and audience — run alongside from the start and never stop.
+Its nine phases, in brief: **0 Repair** (fix what the adversarial review found) · **1 The Lists** (decide everything that can never be revised) · **2 Paper** (play it without software; the gate is *someone asks to play again*) · **3 The Spike** (Substrate, the two Socket occupants — Place and Resolution — and the instrumentation) · **4 The Ruleset** (the base game as Components) · **5 Closed playtest** · **6 Content** · **7 Open beta** · **8 Release**. Two tracks — brand and legal, and audience — run alongside from the start and never stop.
 
 **Phase numbers used to mean different things in this section.** They have been superseded entirely; `phase-map.md` is the only place phase numbers are defined, and the startable worklists are `work-repair.md`, `work-lists.md` and `work-tracks.md`.
 
@@ -762,7 +766,7 @@ Using these words exactly, in conversation and in code, is what removes ambiguit
 | **Table** | The people | The game state |
 | **Moment** | A named point a vector can be pinned to. The only unit of time | A short while |
 | **Session** | A marker for a live gathering; carries no rules | A login session |
-| **Doubloon** | The atomic Economy Unit. Substrate, integer, no denominations | Money — that is a Resource in a Component |
+| **Doubloon** | The atomic Economy Unit. Substrate, integer, no denominations | Money — an in-fiction currency is a payable Track in a Component |
 | **Proposal** | A pending action awaiting resolution | A suggestion |
 | **Decider** | Who resolves a Proposal | The GM specifically |
 | **Rails** | The per-Component setting of who the Decider is | Railroading |
@@ -866,7 +870,7 @@ Some patterns that will get you what you want, given the structure:
 3. **L32 Moment kinds and L31 Timings.** Every ability ever written depends on both. *(L27 and L28 were here; both settled in shape in Aug 2026.)*
 4. **How many Allocation Points, and where they come from.** Five is a placeholder with nothing behind it.
 5. **A ceiling on summed Baseline shares**, and whether it shares Enhancement Capacity's budget.
-6. **The Listener cascade limit, the behaviour at the limit, and the evaluation order when several fire at once.** The third is a determinism hazard.
+6. **~~The Listener cascade limit~~ — settled.** Depth is 32; at the limit the system halts without applying and writes a Record, never rolling back and never dropping silently. Listeners that fire at once sort by semantic class, then a stable key. The one piece still open is the enumeration of the semantic classes.
 7. **The Ruleset's default policy for entering Ordered time.** Leading candidate: a vector placed on an unwilling target.
 8. **What happens to a vector whose target is removed from play entirely** — not dead, but gone.
 9. **The Layer lattice outside resolution** — progression, economy, movement, knowledge, social standing.

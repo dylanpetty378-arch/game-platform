@@ -1,6 +1,6 @@
 # Architecture
 
-**Status: draft for discussion. Nothing here is final.**
+**Status, August 2026: Phase 0 and Phase 1 are closed.** The vocabulary and the settled lists are binding, and `dictionary.md` is their single home — L6 · Verbs is drafted and closes in Phase 2; L4 is provisional. The engineering sections here remain pre-code design.
 Open questions are collected in §18 and are deliberately left open rather than smoothed over.
 
 This document has one job: the **reasoning**. It fixes the **Substrate** (§4) — the small set of decisions that can never be revised — separates it from everything that can, and explains why each went the way it did. The **vocabulary lives in `dictionary.md`**, which is the single home for every term and every list; §2 here is only a pointer to it.
@@ -174,15 +174,15 @@ A player says *"I sing the guard's mother's favourite song to win him over."* Th
 
 So **the Verb set is a taxonomy of state change, not of activity.** Four independent lines converge on this: STRIPS (an action formally *is* its precondition/effect pair and has no other content), The Sims' smart objects (the target declares its affordances; the actor needs no knowledge of it), Fate's four actions (complete because they are outcome shapes rather than activities), and Blades' position/effect (a universal adjudication frame that never asks what the action is).
 
-**Preliminary set — and closed LAST, not first (decided Aug 2026):**
+**The draft set (L6, August 2026) — drafted, and closed LAST, not first:**
 
-`create` · `destroy` · `move` · `alter magnitude` · `transfer` · `set state` · `clear state` · `add tag` · `remove tag` · `form relationship` · `break relationship` · `reveal` · `conceal` · `bind to condition` · `advance clock` · `apply` (deliver a Packet) · `assume category` · `shed category` · `repin` (change a pending vector's Moment)
+`Push` · `Set` · `Place` · `Repin` · `Link` · `Create` · `Decide`
+
+Seven Verbs. This supersedes the earlier nineteen-entry candidate list, which collapsed once Tracks, Channels and the uniform shape absorbed most of what the candidates were separately naming; the collapse is recorded in `dictionary.md` Part 12. The set is **drafted, not closed** — it closes in Phase 2, against real content, and no Substrate code depends on it being final.
 
 Note what is absent: nothing about attacking, persuading, crafting, climbing, or singing. Those are fictional descriptions of attempts.
 
-Three of those — `apply`, `assume category` and `shed category` — came out of running the consequence test on eight fictional actions. `repin` came later, out of the timing work. Six composed from the original list; two did not. *Burn down a warehouse* needs a Packet delivered to a thing, which no existing Verb expresses — hence `apply`. *A character becomes undead* changes which Attributes the Entity even has, which is a Category change, not a Tag — hence `assume category` / `shed category`. `clear state` may turn out to be `set state` to a null value; that is a closing-time decision.
-
-**Why this list is settled last.** It is the single irreversible decision in the system, and the only real evidence about its completeness is worked examples. Worked examples come from the *other* lists — Categories, Attributes, States, Channels, Dimensions, Layers, conversions. Freezing the Verb set before those exist means freezing it against imagination. So: build every other list, then run all of it against this one, then close. Until then this list is explicitly **preliminary**, and no Substrate code depends on it being final.
+**Why this list is settled last.** It is the single irreversible decision in the system, and the only real evidence about its completeness is worked examples. Worked examples come from the *other* lists — Categories, Attributes, States, Channels, Dimensions, Layers, conversions. Freezing the Verb set before those exist means freezing it against imagination. So: build every other list, then run all of it against this one, then close.
 
 **The closing procedure.** For every entry across L1–L5, L7, L18, L21–L23, L25–L29, and every worked example produced along the way: *assume the fiction has already decided what happened*, write only what changed in the world, then which Verbs express it. If a consequence needs an operation not on the list, that is a real finding. If it merely needs a Tag, a Channel, or a Component formula the list does not have, that is not — Tags absorb far more than they look like they should.
 
@@ -249,7 +249,7 @@ In the vocabulary of schema registries, the property being enforced is **`FORWAR
 
 **The problem it solves.** Every system that lets content declare *relationships* between kinds of harm ends up with a table that can contradict itself. Fire opposes cold; cold opposes fire; a Component added in year five declares fire opposes lightning and nothing checks it against the other four hundred entries. Under additive-only, that table can never be cleaned up.
 
-**The move.** Declare **positions**, not relationships. A Channel is a **direction** — a set of per-Dimension percentages summing, in absolute value, to exactly 1 — and every relationship between every pair of Channels falls out of arithmetic. Nothing is declared twice, so nothing can contradict, and **a Channel added in ten years is automatically correct against every Channel that already exists.** No consistency check is needed because none is possible to fail.
+**The move.** Declare **positions**, not relationships. A Channel is a **direction** — a set of per-Dimension components in whole hundredths, summing in absolute value to exactly 100 — and every relationship between every pair of Channels falls out of arithmetic. Nothing is declared twice, so nothing can contradict, and **a Channel added in ten years is automatically correct against every Channel that already exists.** No consistency check is needed because none is possible to fail.
 
 **The second move.** Split **direction** from **magnitude**. Direction says what kind of thing this is; magnitude says how much of it there is; the resolved value is the product. That is what lets a single modifier scale anything it rides on, and it is the difference between a bonus that means something and a bonus that has to be written per weapon.
 
@@ -259,7 +259,7 @@ In the vocabulary of schema registries, the property being enforced is **`FORWAR
 |---|---|
 | exactly **one multiplication per vector** | fixed-point direction × integer magnitude — exact, no precision loss |
 | **two fixed-point numbers are never multiplied** | that is the operation that would need rounding mid-pipeline |
-| exactly **one rounding point per vector**, truncating toward zero | at R-400; everything after is addition and subtraction |
+| exactly **three rounding sites**, all truncating toward zero | R-400 (the vector's own assembly), R-750 (Scale conversion), R-1050 (proportional Guards); CI fails on a fourth |
 | **percentages sum, never compound** | compounding stops being commutative the instant you round between steps — base 5 with +30% and +40% resolves to 8 or 9 depending on order |
 | **nothing is assembled until it resolves** | so an amplifier cast after a fireball is thrown still reaches it |
 | **everything source-side collapses to sums at creation** | a placed vector is a direction, four numbers and a pin, and never looks at its source again |
@@ -342,7 +342,7 @@ Two architectural consequences worth stating here rather than there:
 
 **No wall clock reaches the game.** A Moment is stamped with a tick when it actually occurs, and that stamp is what makes replay exact. Real time exists only for humans — deadlines, notifications, "you have until Sunday" — and never enters the Fold.
 
-**Cadence above the round is a Component decision, which lowers the cost of being wrong about it.** A weekly async table and a live table running turn-by-turn share the same Substrate turn model with a different coarse clock layered over it. *(Amended Aug 2026: this used to say Time was a Socket. It is not — see `dictionary.md` Part 1, *Why Time and Budget are not Sockets*.)*
+**Cadence above the round is a Component decision, which lowers the cost of being wrong about it.** A weekly async table and a live table running turn-by-turn share the same Substrate turn model with a different coarse clock layered over it. Time is Substrate, not a Socket — the reasoning is in `dictionary.md` Part 1, *Why Time and Budget are not Sockets*.
 
 ---
 
@@ -576,7 +576,7 @@ The Component's manifest declares its disable semantics, and the Ruleset never g
 
 **A Socket is a named hole in the Substrate that some Component must fill.** The Substrate declares the hole and its contract; it never supplies the occupant.
 
-This is the correction to a claim that was true and misleading. *Everything above the Substrate is a Component* is still true. But some of those Components are load-bearing walls rather than furniture: the Substrate defines what a **Track** is and ships none; it defines what **scope** means and cannot say what a place is. *(Amended Aug 2026: Time and Budget stopped being Sockets, and Landing was retired when the Track merge removed its job. Two remain — Place and Resolution.)*
+This is the correction to a claim that was true and misleading. *Everything above the Substrate is a Component* is still true. But some of those Components are load-bearing walls rather than furniture: the Substrate defines what **scope** means and cannot say what a place is; it knows an attempt produces a magnitude and cannot say how. **There are exactly two Sockets — Place and Resolution — and their occupants are frozen per Setting.**
 
 ### The rules
 
@@ -584,29 +584,28 @@ This is the correction to a claim that was true and misleading. *Everything abov
 2. **A Bundle with an empty Socket must fail to load.** CI-enforceable, and it is the whole reason the concept earns its place.
 3. **The contract is Substrate and frozen forever.** The occupant is a Component and can be swapped — but swapping one is an **Edition-level** change, never a casual toggle, because every piece of content in the Bundle is written against what it publishes.
 4. **A Socket occupant cannot be disabled** (§6.5). Disabling one would leave the hole empty, which rule 2 forbids.
-5. **Socket occupants may depend on each other at most one level deep.** Budget depending on Time is fine; a third link is a foundation chain wearing a Component costume, and it defeats the depth rule in §3.
+5. **Socket occupants may depend on each other at most one level deep.** The Resolution occupant reading the Place occupant's schema is fine; a third link is a foundation chain wearing a Component costume, and it defeats the depth rule in §3.
 
 ### Every Socket has two halves, and this is what makes it safe
 
-**Vocabulary — Substrate, additive-only.** The names content is allowed to depend on. A spell costing *one action* needs `action` to exist regardless of which Budget occupant is installed. A vector pinned to *the start of the target's turn* needs `start of turn` to exist regardless of which Time occupant is installed. New names may be published forever; none may be removed or redefined.
+**Vocabulary — Substrate, additive-only.** The names content is allowed to depend on. A vector covering *an adjacent zone* needs `zone` to exist regardless of which Place occupant is installed. A Lens rendering *a likelihood* needs the distribution the Resolution occupant publishes, regardless of which occupant it is. New names may be published forever; none may be removed or redefined.
 
-**Behaviour — the occupant.** How many actions you get and when they return. Which Moments exist, in what order, and who is in them. Content never names any of it.
+**Behaviour — the occupant.** What position, range and containment actually are; how an attempt's magnitude is actually produced. Content never names any of it.
 
-Without the split, one of two failures is guaranteed: either content depends on an occupant's internals and swapping breaks every spell ever written, or the Substrate ends up owning the economy it was trying to delegate.
+Without the split, one of two failures is guaranteed: either content depends on an occupant's internals and swapping breaks every spell ever written, or the Substrate ends up owning the thing it was trying to delegate.
 
-### The candidates
+### The two Sockets
 
 | Socket | Publishes | Without it |
 |---|---|---|
-| **Time** | Moments, their order, the participant set, entry to and exit from Ordered time | Nothing can be pinned; no vector ever lands |
 | **Place** | what *scope* means — position, zones, range, containment | An area vector cannot say who it covers |
 | **Resolution** | how an attempt acquires its magnitude | Nothing is ever adjudicated |
-| **Landing** | how a vector that survives becomes persistent state | Vectors arrive and nothing happens |
-| **Budget** | rationed actions, and therefore the cost a `repin` must name | Repins are unbounded and Ordered time can be held open forever |
 
-**The risk, stated plainly: keep this list short.** Every Socket is a permanent dependency for every Component ever written, and an over-large list quietly rebuilds the monolith the Component design exists to prevent. A capability belongs in a Socket only if the Substrate genuinely cannot function with it empty. Five feels near the ceiling.
+Three earlier candidates resolved out of the list in August 2026. **Time** and **Budget** moved into the Substrate — turn, round and turn ownership are frozen, and budget refresh is base Ruleset. **Landing** was retired when the Track merge removed its job: a vector lands by pushing the Track its Dimension names, which is Substrate; the per-Dimension landing models (L25) are base Ruleset, and the landing step at R-1200 receives the contributor breakdown, with the landing spec declaring its sort key.
 
-Full detail and the open list: `dictionary.md` L27, L28.
+**The risk, stated plainly: keep this list short.** Every Socket is a permanent dependency for every Component ever written, and an over-large list quietly rebuilds the monolith the Component design exists to prevent. A capability belongs in a Socket only if the Substrate genuinely cannot function with it empty. Two is the number precisely because three candidates failed that test.
+
+Full detail: `dictionary.md` L27, L28.
 
 ---
 
@@ -628,12 +627,12 @@ Every Verb, of every kind, from every Component, has the same fields:
 | `source` | the Entity the change originates from |
 | `target` | the primary Entity being changed — **exactly one, always** |
 | `secondary` | zero or more additional Entities the invocation touches |
-| `direction` | *what* is being changed: per-Dimension percentages summing in absolute value to 1. For harm a declared **Channel**; for an attempt, computed from **Allocation Points** |
+| `direction` | *what* is being changed: per-Dimension components in whole hundredths, summing in absolute value to 100. For harm a declared **Channel**; for an attempt, computed from **Allocation Points** |
 | `magnitude` | *how much*: a whole number, signed, at a declared **Scale** (§4.4B) |
 | `class` | why this invocation exists (§7.4) |
 | `layer` | its slot in the ordering lattice (§8) |
 
-`direction` + `magnitude` is the Channel idea generalised past harm to every Verb: *what is being pushed on*, and *how hard*. Harm is the case where the direction happens to live in the physical Dimension Space; a reputation change, a resource transfer, and a clock advance all have the same shape.
+`direction` + `magnitude` is the Channel idea generalised past harm to every Verb: *what is being pushed on*, and *how hard*. Harm is the case where the direction happens to live in the physical Dimension Space; a reputation change, a doubloon cost, and a clock advance all have the same shape — each is a push on a Track.
 
 **Exactly one primary target** is a deliberate constraint. A Verb affecting three people is three Records, not one Record requiring interpretation. "Who did this happen to" is then answerable by a `WHERE` clause rather than by parsing.
 
@@ -656,7 +655,7 @@ Why an invocation exists. Adding a third later is a Substrate break.
 
 Consequence does not travel through return values. It travels through **Listeners**.
 
-> A Verb drives a Track to zero. The Verb does not know this and does not report it. A Listener watching *"this Track is at zero"* fires and issues its own Verbs — set state `unconscious`, add a Tag, whatever the Component declared.
+> A Verb drives a Track to zero. The Verb does not know this and does not report it. A Listener watching *"this Track is at zero"* fires and issues its own Verbs — a push on another Track, an added Tag, whatever the Component declared. (`unconscious` is a band on that Track, not a thing the Listener sets.)
 
 Rules:
 
@@ -664,17 +663,16 @@ Rules:
 2. A Listener watches **state, not Verbs.** It asks *"is this now true"*, never *"did that just happen."* State is stable and re-derivable from the Ledger; the particular sequence of Verbs that produced it is not, and matching on it would make Components sensitive to each other's internals — a §3 rule 1 violation by the back door.
 3. Listeners are evaluated at R-1400, *after* the Moment's Verbs have landed and the Resolution Record is written.
 4. Listener-produced Verbs carry class `Triggered` and are pinned to a **later** Moment. Never resolved inside the current one.
-5. Cascades are bounded by a Substrate-level depth limit, and hitting the limit is itself recorded.
+5. **Cascade depth is 32.** At the limit, halt without applying and write a Record — never roll back, because the Ledger is append-only, and never drop silently.
 
-**Open, and load-bearing (§18):**
+**Settled, August 2026:**
 
-- The set of condition forms a Listener may watch. Sketch: resource crosses a threshold · state entered · state exited · tag gained · tag lost · relationship formed · relationship broken · clock reaches a value · category assumed or shed.
-- The **evaluation order across Listeners satisfied simultaneously.** This is a determinism hazard of exactly the same severity as §8 aggregation order — get it wrong and the same Ledger folds differently on two machines. It needs a stable key, not registration order.
-- The cascade depth limit, and the defined behaviour on hitting it.
+- **The condition set is seven forms**, composable with `and`/`or`/`not`, and every Listener carries a required firing discipline — `once` or `while`. Full list in `dictionary.md`.
+- **Listeners satisfied at the same Moment sort by semantic class, then `(layer, component_id, listener_id, target_entity_id)`.** A stable key, never registration order — this was a determinism hazard of exactly the same severity as §8 aggregation order. The enumeration of the semantic classes is the one piece still open (§18).
 
 ### 7.6 The round
 
-Collect Verbs → **a Moment arrives** → run the E-/C-/R- pipeline → evaluate Listeners against the new state → the Verbs they produce pin to a later Moment → repeat until quiescent or the depth limit is hit. **Nothing mutates between Moments**, and *Barrier* is retired as a second word for the same thing.
+Collect Verbs → **a Moment arrives** → run the E-/M-/C-/R-/X- pipeline → evaluate Listeners against the new state → the Verbs they produce pin to a later Moment → repeat until quiescent or the depth limit is hit. **Nothing mutates between Moments**, and *Barrier* is retired as a second word for the same thing.
 
 ### 7.7 Records without Verbs
 
@@ -686,19 +684,21 @@ The discipline this buys has one cost: non-Verb Records must stay genuinely iner
 
 ---
 
-## 8. Ordering — drafted for resolution, open everywhere else
+## 8. Ordering — the lattice closed August 2026
 
 **Budget more design time here than on schema evolution.** Additive-only schema is a solved discipline. Additive-only *ordering* is not.
 
 Magic's layer system took thirty years to reach seven layers with sublayers, timestamp ordering within a layer, and a dependency rule that overrides timestamps — and still produces intuitive results only about 99% of the time.
 
-**The resolution region is now drafted** — see `dictionary.md` Part 2A for the full lattice and the case behind each boundary. Three regions:
+**The lattice closed in August 2026 at forty-one slots in five regions** — see `dictionary.md` Part 2A for the full lattice and the case behind each boundary:
 
 - **E-100 … E-500** (5 slots) — Entity preparation. Existence, Categories, base attributes, attribute modifiers, Capacities.
+- **M-100 … M-500** (5 slots) — the Moment opening. What happens as a Moment arrives, before any vector is touched.
 - **C-100 … C-600** (6 slots) — vector creation. Read the source's prepared state, snapshot modifier tiers, summed percentages, summed absolutes, captured Enhancement Capacity, direction and base magnitude.
 - **R-100 … R-1400** (19 slots) — resolution at the Moment. Gather, ambient tiers, percentage sum, capacity clamp, apply, absolutes, vector clamp, resolve, **Scale conversion (R-750)**, **standing cap (R-780, reserved)**, combine within source, **flat Guards per source (R-850)**, **combine across sources (R-1000, where cancellation happens)**, **proportional Guards on the total (R-1050)**, target clamp, land, **restoration (R-1250)**, record, Listeners.
+- **X-100 … X-600** (6 slots) — the Moment closing. Movement and transfer pin to **X-100** — a destination is not a magnitude on an axis.
 
-**Twenty-six slots in total.**
+**Forty-one slots in total.**
 
 Five principles came out of drafting it, and they generalise past resolution:
 
@@ -710,7 +710,7 @@ Five principles came out of drafting it, and they generalise past resolution:
 
 **Timestamp tiebreak** within a layer, and an **explicit declared dependency** between Verbs overriding timestamp when one genuinely depends on another, both still stand.
 
-**Still open:** the lattice outside resolution — progression, economy, movement, knowledge, social standing. And the cascade cap: a depth limit and a total-work limit, halting without applying the pending round and recording that it happened.
+**And the cascade cap is settled:** depth 32. At the limit, halt without applying the pending round and write a Record — never roll back, never drop silently (§7.5).
 
 Ordering is where additive-only silently becomes *meaning changed*. Everything else here is protected by CI; this is protected by design.
 
@@ -846,7 +846,7 @@ The two good ideas from local-first are taken anyway and both are free: optimist
 
 **This is not a phase-two feature. It is a Substrate requirement, and it has to be decided alongside the Record shape.**
 
-A Ledger that cannot answer *"why did that happen"* is not fixable afterwards without a migration. A Fold with no seam for a tester to reach into is not a Fold anyone can playtest. And a system whose arithmetic runs through a thirty-slot pipeline is not one you can debug by reading numbers off a screen.
+A Ledger that cannot answer *"why did that happen"* is not fixable afterwards without a migration. A Fold with no seam for a tester to reach into is not a Fold anyone can playtest. And a system whose arithmetic runs through a forty-one-slot pipeline is not one you can debug by reading numbers off a screen.
 
 ### The stance: total transparency, in the tools
 
@@ -1211,7 +1211,7 @@ Every Component · every Setting and Adventure · every future Edition · the Ch
 
 Deliberately unresolved. Each is a real decision, not a placeholder.
 
-1. **The Verb set — closed LAST.** The list in §4.3 is explicitly preliminary and is now scheduled to be frozen *after* every other list, not before. The evidence for completeness is worked examples, and worked examples come from the other lists. Still the one genuinely irreversible decision; now sequenced so it is decided against the finished system rather than against imagination.
+1. **The Verb set — closed LAST.** The seven-Verb draft in §4.3 (L6) closes in Phase 2, against real content — after every other list, not before. The evidence for completeness is worked examples, and worked examples come from the other lists. Still the one genuinely irreversible decision; now sequenced so it is decided against the finished system rather than against imagination.
 
 1a. **The Dimension Spaces (L21).** Which kinds of push can meet each other at all. Upstream of everything, because every effect in the system is a position in one of these Spaces, and a coarse decision made quickly.
 
@@ -1219,19 +1219,19 @@ Deliberately unresolved. Each is a real decision, not a placeholder.
 
 1c. **The remaining Dimensions (L22), then the Channels placed within them (L23).** The order for the whole set is `L21 → L29 → L22 → L23 → L27/L28 → L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → L6`; `dictionary.md` Part 11 is the tiebreaker.
 
-2. **The Layer lattice outside resolution** — progression, economy, movement, knowledge, social standing. The lattice was closed in August 2026 at **five regions and forty-one slots** — M- and X- were added for what happens around a Moment rather than inside a vector. Magic needed seven layers and thirty years. Guessing low is a Substrate break; guessing high is just unused numbers, so err high.
+2. **~~The Layer lattice~~ — ANSWERED.** Closed in August 2026 at **five regions and forty-one slots** — M- and X- were added for what happens around a Moment rather than inside a vector (§8). Magic needed seven layers and thirty years; the generous gaps are the hedge, because an unused slot costs nothing and a missing one is a Substrate break.
 
 3. **How many Allocation Points, and where they come from.** Five is a placeholder with nothing behind it; the natural home is a Capacity — *capacity to divide attention*. Also open: a ceiling on summed Baseline shares, and whether it shares Enhancement Capacity's budget.
 
 3a. **The Ruleset's default policy for entering Ordered time.** Entry belongs to base Ruleset, not the Substrate — three Substrate rules were tried and each failed on a real case. Leading candidate: *a vector placed on an unwilling target*.
 
-3b. **The Listener cascade limit, the behaviour at the limit, and the evaluation order across simultaneously-satisfied Listeners.** The third is a determinism hazard of the same severity as aggregation order.
+3b. **~~The Listener cascade limit and evaluation order~~ — ANSWERED, except one piece.** Depth is 32; at the limit, halt without applying and write a Record. Simultaneously-satisfied Listeners sort by semantic class, then `(layer, component_id, listener_id, target_entity_id)`. The enumeration of the semantic classes is the piece still open.
 
 3c. **What happens to a vector whose target is removed from play entirely** — not dead, but gone.
 
 4. **Tier 2 sandbox choice.** Deferred until a Component needs it. Whatever it is must run the same compiled artifact in browser and server.
 
-5. **The Socket list (L27, now three) and the Economy (L28).** Both settled in shape as of Aug 2026; L31 Timings and L32 Moment kinds replaced them as the blocking pair.
+5. **The Socket list (L27, settled at two — Place and Resolution) and the Economy (L28).** Both settled in shape as of Aug 2026; L31 Timings and L32 Moment kinds replaced them as the blocking pair.
 
 6. **What is the free artifact a stranger encounters?** Everything in §16 monetizes people who already play; nothing acquires anyone. Components and Asset instances are the most demonstrable things in the design and the best candidates, but this is unanswered — and the field survey is unambiguous that distribution, not product, is the binding constraint.
 
@@ -1257,9 +1257,9 @@ Deliberately unresolved. Each is a real decision, not a placeholder.
 - **Perception retired.** A single Delivery field; the Lens decides what is shown; in-fiction knowledge is an optional Component; belief-folds deleted; the information-set invariant satisfied by construction.
 - **The server folds and is authoritative.** Tier 1, not deferrable.
 - **Sockets**, and the Vocabulary/Behaviour split that makes them safe.
-- **Percentages sum rather than compound; one rounding point per vector, truncating toward zero.**
+- **Percentages sum rather than compound; exactly three rounding sites — R-400, R-750, R-1050 — all truncating toward zero.**
 - **Enhancement and Participation Capacity** — the ceiling belongs in the fiction, not the arithmetic.
 - **Magnitude is assembled at resolution**; everything source-side collapses to sums at creation, so a placed vector is a direction, four numbers and a pin.
 - **The Resolution Record** is Substrate — inputs and a hash, every layer derivable.
 - **Ordering under parallelism is answered.** The participant set is the scene; cross-scene vectors pin to the next Moment both share; conflicts combine; Participation Capacity settles what cannot. There is no *who went first*, because nobody went first.
-- **The Layer lattice** has a drafted resolution region: E-100…E-500, C-100…C-600, R-100…R-1400.
+- **The Layer lattice closed at forty-one slots in five regions:** E-100…E-500, M-100…M-500, C-100…C-600, R-100…R-1400, X-100…X-600.

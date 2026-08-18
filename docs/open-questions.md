@@ -29,7 +29,7 @@ The full record of what was decided and why is **`work-repair.md`**. In one line
 | **Q1.1** Do whole Allocation Points survive? | Granularity waste and all-in dominance | **Yes.** Resolution is one integer operation, `⌊points × magnitude ÷ total points⌋`. All-in is answered by requiring a downside bar in authored content, not by changing the arithmetic |
 | **Q1.2** What bounds standing self-scoped vectors? | Nothing | **Content pricing, not an engine limit.** R-780 reserved as insurance, unbounded in v1 |
 | **Q1.3** Can an interior Channel ever be worth placing? | No — pure was 7× better | **Yes.** A universal flat Guard now acts on the packet total and is redistributed. Every direction lands the same |
-| **Q1.4** Where does Enhancement Capacity clamp? | Three holes | **Percentages, and only percentages.** Absolutes are bounded by Participation Capacity instead. Baselines are percentages so the same ceiling covers them. The ceiling belongs to the task, never the source |
+| **Q1.4** Where does Enhancement Capacity clamp? | Three holes | **Percentages, and only percentages.** Absolutes are bounded by Participation Capacity instead. Baselines are stated in points and their inflation is clamped by the same Capacity (summed-Baseline ceiling open — Q3.2). The ceiling belongs to the task, never the source |
 | **Q1.5** The determinism set | Four undeclared rules | **All four declared.** Apportionment dissolved; three rounding sites (R-400, R-750, R-1050), all truncating toward zero; Shaping is stated in points, has two forms, and runs Bonus Points → Baseline; log-integers are never added |
 
 **One question was promoted into this phase and answered with it.** A17, crossing Scales, was ranked Medium and turned out to be Substrate: a default conversion rule now ships at R-750, and **Scale belongs to the part as well as the whole** — a Scale-4 airship has Scale-1 doors and rigging, and the Scale that applies is the Scale of the thing actually targeted.
@@ -44,7 +44,7 @@ The full record of what was decided and why is **`work-repair.md`**. In one line
 
 # Part 2 — Decisions made while filling the lists — **CLOSED, August 2026**
 
-**Every list is settled except L6, which is drafted and closes in Phase 2 against real content.** The arguments are in `list-log.md`; the one-line reasons are in `dictionary.md` Part 12.
+**Every list is settled except L6, which is drafted at seven and closes in Phase 2 against real content, and L4, which is provisional at twenty-four and also closes against content.** The arguments are in `list-log.md`; the one-line reasons are in `dictionary.md` Part 12.
 
 | | Answer |
 |---|---|
@@ -139,7 +139,43 @@ Two scenes are simultaneous until their shared Moment. If both spend from the sa
 
 **Participation Capacity solves the *unique object* case.** It does not solve the *divisible resource* case. This needs a rule and does not have one.
 
-**Options:** reserve at declaration; resolve overdrafts at the shared Moment with a declared rule; or forbid cross-scene spending of shared Resources entirely.
+**Options:** reserve at declaration; resolve overdrafts at the shared Moment with a declared rule; or forbid cross-scene spending of shared payable Tracks entirely.
+
+---
+
+## Q3.7 · What orders contributors when more want in than Participation Capacity allows?
+
+The dictionary used to claim conflicts need no tiebreak because Participation Capacity settles them. The adversarial review (A13) showed that is false: two contributors, one open slot, and nothing declared decides who is in. That is a determinism hole — the Fold must produce the same answer everywhere — and, in asynchronous play, a fairness question, because "first to submit" quietly rewards whoever checked their Dispatch soonest.
+
+**Options:** declaration order by Record sequence (deterministic, and honest about the async bias); a stable entity key (deterministic and arbitrary); the target's controller decides via a Proposal (fair, adds a human Decider with a Moment and default); or a declared per-Setting rule through the Place occupant.
+
+**Blocked by it:** any content using Participation Capacity — which includes the cooperative-lockpicking scene the pitch leads with.
+
+---
+
+## Q3.8 · What are the Listener semantic classes, and is the sort key a total order?
+
+L26 settled the simultaneous-Listener order as *semantic class first, then `(layer, component_id, listener_id, target_entity_id)`* — and never enumerated the classes. An undefined term inside a determinism-critical sort. Separately, `research-listeners.md` showed the four-tuple is not a total order: the same Listener firing for the same target from two sources in one Moment collides, which argues for `source_record_id` as a final component.
+
+**Both halves need one written answer before any code.** Neither changes the design's shape; both change whether two machines fold identically.
+
+---
+
+## Q3.9 · Does the base-Ruleset Creature carry social and mystic Tracks?
+
+L3 gives `Creature` no `standing`, `regard`, `working` or `essence` Track — yet seventeen of the eighty-eight Channels land *only* on those axes (the nine pure-standing and eight pure-mystic pushes — praise, scorn, slander, drain and their kin), and creatures are their obvious targets. Under *absence is immunity*, the base person is therefore immune to all social and mystic harm unless a Setting adds the Tracks. `regard` landing on Connections is by design; the rest looks like an omission, and no Part 12 row records it as a choice.
+
+**Options:** add the Tracks to the base Creature bundle; leave them to Settings and accept that the base game has no social or mystic consequence; or split — `standing` base, `essence` Setting.
+
+**Blocked by it:** the first paper scene where anyone tries social pressure.
+
+---
+
+## Q3.10 · Does the Record-shape Listener form survive its own research?
+
+L26 adopted "a Resolution Record matching a shape" as a condition form — `dictionary.md` calls it the one that carries the most weight. `research-listeners.md` argues against exactly that form at length: it has no natural edge-triggering, it false-matches Records later corrected by compensation, and it destroys the static triggering-graph termination check — proposing Moment-scoped derived quantities instead. The settlement post-dates the research, but the six counter-arguments were never answered in writing.
+
+**The ask is not a redesign — it is a written rebuttal or a reopening**, before the form is load-bearing in code. If the rebuttal exists in someone's head, Part 12 is where it goes.
 
 ---
 
@@ -251,6 +287,6 @@ This is worth an answer before launch, not after.
 
 **Answer while filling the lists:** all of Part 2 — and **Q2.8 last, alone, with more care than anything else in this file.** It is the only decision here that cannot be revised at any price.
 
-**Answer before the first commit:** Q3.1 through Q3.6, and the server-folding half of Q3.4 before anything at all.
+**Answer before the first commit:** Q3.1 through Q3.10, and the server-folding half of Q3.4 before anything at all. Q3.7 and Q3.9 bite earlier — the first paper scene with cooperation or social pressure trips them, so answer those before the kit is printed.
 
 **Answer with playtest data, not by thinking:** Q1.1's final form, Q4.1, Q4.2.

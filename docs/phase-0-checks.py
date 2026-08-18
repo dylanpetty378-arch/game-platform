@@ -71,9 +71,9 @@ def resolve_integer_first(points, total_points, magnitude):
 def test_allocation():
     show("A1/A6 · allocation is integer-first")
 
-    # The standing lock: manipulation 5, needle 4, corridor 1. Magnitude 12.
-    BARS = {"manipulation": 5, "perception": 4, "stealth": 1}
-    M, alloc = 12, {"manipulation": 3, "perception": 2, "stealth": 1}
+    # The standing lock: control 5, needle 4, corridor 1. Magnitude 12.
+    BARS = {"control": 5, "senses": 4, "stealth": 1}
+    M, alloc = 12, {"control": 3, "senses": 2, "stealth": 1}
     P = sum(alloc.values())
 
     old = {k: resolve_share_first(v, P, M) for k, v in alloc.items()}
@@ -85,12 +85,12 @@ def test_allocation():
 
     # The old way loses magnitude and misses the needle.
     assert sum(old.values()) == 10, "share-first should lose 2 of 12"
-    assert old["perception"] < BARS["perception"], "share-first misses the needle"
+    assert old["senses"] < BARS["senses"], "share-first misses the needle"
 
     # The new way is exact and spots it.
     assert sum(new.values()) == M, "integer-first must not lose magnitude"
-    assert new["perception"] >= BARS["perception"], "integer-first spots the needle"
-    assert new["manipulation"] >= BARS["manipulation"]
+    assert new["senses"] >= BARS["senses"], "integer-first spots the needle"
+    assert new["control"] >= BARS["control"]
     assert new["stealth"] > BARS["stealth"]
     print("    → integer-first clears all three bars; share-first does not")
 
@@ -155,21 +155,21 @@ def test_all_in():
     show("A1 · all-in is dominant unless a downside bar exists")
 
     M, P = 12, 4
-    upside_only = {"manipulation": 5}
-    with_downside = {"manipulation": 5, "stealth_max": 1}
+    upside_only = {"control": 5}
+    with_downside = {"control": 5, "stealth_max": 1}
 
-    all_in = {"manipulation": 4}
-    spread = {"manipulation": 2, "stealth": 2}
+    all_in = {"control": 4}
+    spread = {"control": 2, "stealth": 2}
 
     def val(alloc, axis):
         return resolve_integer_first(alloc.get(axis, 0), P, M)
 
     print("  a lock with only a '>= 5' bar:")
-    print(f"    all-in   manipulation {val(all_in,'manipulation')}  clears")
-    print(f"    spread   manipulation {val(spread,'manipulation')}  clears, "
+    print(f"    all-in   control {val(all_in,'control')}  clears")
+    print(f"    spread   control {val(spread,'control')}  clears, "
           f"and 6 magnitude went nowhere")
-    assert val(all_in, "manipulation") >= upside_only["manipulation"]
-    assert val(spread, "manipulation") >= upside_only["manipulation"]
+    assert val(all_in, "control") >= upside_only["control"]
+    assert val(spread, "control") >= upside_only["control"]
     print("    → both clear; spreading bought nothing. All-in is never worse.")
 
     print("  the same lock with a downside bar (guard hears you at <= 1):")
@@ -284,11 +284,13 @@ def test_capacity():
     print(f"    five +2 helpers, Participation {PARTICIPATION} -> "
           f"{assemble(base, 100, admitted, cap)}  (only two admitted)")
 
-    # A Baseline is a percentage, so the same ceiling covers it.
-    baseline_pct = 175
-    assert assemble(base, baseline_pct, [], cap) == base
-    print(f"    a Baseline worth +75%       -> {assemble(base, baseline_pct, [], cap)}"
-          f"   same ceiling, no second number")
+    # A Baseline is stated in points, never percentages (rule 18g — the Phase 0
+    # first pass said "percentage"; the re-attack superseded it). What
+    # Enhancement Capacity clamps is the inflation a Baseline causes; the
+    # points arithmetic is the A10 shaping test below. Whether SUMMED
+    # Baselines get their own ceiling is open — open-questions.md Q3.2.
+    print("    a Baseline is points, not a percentage — see A10; its inflation")
+    print("    is what this same ceiling clamps (summed-Baseline ceiling: Q3.2)")
 
     # The ceiling belongs to the task, so it cannot be shopped.
     strong_source_cap, task_cap = 400, 100
@@ -372,34 +374,34 @@ def shape(points, bonus=None, baseline=None, order=("bonus", "baseline")):
 def test_shaping_order():
     show("A10 · Shaping is two forms, in points, Bonus Points -> Baseline")
 
-    raw = {"manipulation": 1, "perception": 2, "stealth": 1}
-    BARS = "manipulation >= 5,  perception >= 4,  stealth > 1"
+    raw = {"control": 1, "senses": 2, "stealth": 1}
+    BARS = "control >= 5,  senses >= 4,  stealth > 1"
     M = 12
 
     def resolve(pts, total):
         return {k: resolve_integer_first(v, total, M) for k, v in pts.items()}
 
     plain = resolve(raw, sum(raw.values()))
-    bonus = resolve(*shape(raw, bonus=("manipulation", 3)))
-    base = resolve(*shape(raw, baseline=("manipulation", 3)))
+    bonus = resolve(*shape(raw, bonus=("control", 3)))
+    base = resolve(*shape(raw, baseline=("control", 3)))
 
     print(f"  allocation 1/2/1 at magnitude {M}   bars: {BARS}")
     print(f"    nothing              {plain}")
     print(f"    Bonus Points +3      {bonus}")
     print(f"    Baseline 3 points    {base}")
 
-    assert plain["manipulation"] == 3 and plain["perception"] == 6
-    assert bonus == {"manipulation": 6, "perception": 3, "stealth": 1}
-    assert base == {"manipulation": 9, "perception": 6, "stealth": 3}
+    assert plain["control"] == 3 and plain["senses"] == 6
+    assert bonus == {"control": 6, "senses": 3, "stealth": 1}
+    assert base == {"control": 9, "senses": 6, "stealth": 3}
     assert sum(bonus.values()) <= M, "Bonus Points must never inflate the attempt"
     assert sum(base.values()) > M, "a Baseline is a real increase in total effect"
     print("    -> Bonus Points cannot inflate (sums to 10 of 12); a Baseline can "
           "(sums to 18)")
 
     # The two forms do not commute, so the order is declared.
-    first = resolve(*shape(raw, bonus=("manipulation", 3), baseline=("manipulation", 3),
+    first = resolve(*shape(raw, bonus=("control", 3), baseline=("control", 3),
                            order=("bonus", "baseline")))
-    second = resolve(*shape(raw, bonus=("manipulation", 3), baseline=("manipulation", 3),
+    second = resolve(*shape(raw, bonus=("control", 3), baseline=("control", 3),
                             order=("baseline", "bonus")))
     print(f"    Bonus then Baseline  {first}")
     print(f"    Baseline then Bonus  {second}")

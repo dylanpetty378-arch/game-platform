@@ -21,7 +21,7 @@
 | Phase | | |
 |---|---|---|
 | **0 · Repair** | **CLOSED** Aug 2026 | 8 foundation decisions + 10 re-attack findings, all covered by numeric tests in `phase-0-checks.py` |
-| **1 · The Lists** | **CLOSED** Aug 2026 | every blocking list settled except **L6 · Verbs**, which is drafted and closes in Phase 2 |
+| **1 · The Lists** | **CLOSED** Aug 2026 | every blocking list settled, **L4 · Tags** provisional at 24; **L6 · Verbs** (not blocking, closes last) drafted at seven for Phase 2; the three character sheets deferred into the Phase 2 paper kit |
 | **2 · Paper** | **NEXT** | play it with index cards and people who will tell the truth |
 
 **The gate for Phase 2 is one sentence: a group asks to play again without being asked.**
@@ -66,7 +66,7 @@ A **Channel** is a named direction — `fire`, `impact`, `dread` — positioned 
 
 A **vector** is a Channel plus a magnitude, aimed at exactly one target and pinned to a **Moment**. It travels the **R-region** of the lattice — modifiers, clamps, Scale conversion, Guards, cancellation — and lands by **pushing the Track the Dimension names**.
 
-**Every Dimension pushes at least one Track.** That is a CI invariant: a Dimension with nothing to land on is a dead axis.
+**Every non-attempt Dimension pushes at least one Track.** That is a CI invariant: a Dimension with nothing to land on is a dead axis. (Attempt Dimensions live in `capacities` and have no Tracks — their resolved value lands on the *target's* Tracks through the vector.)
 
 **Named conditions are bands, not things.** There is no `prone` State — there is a `mobility` Track and a word for a range of it. Prone, blinded, stunned, charmed, exhausted, sealed, hollowed: all bands.
 
@@ -93,7 +93,7 @@ A **vector** is a Channel plus a magnitude, aimed at exactly one target and pinn
 1. **How magnitude is produced.** *"A combination of modifiers and a dice roll."* The Resolution Socket's business. Its *contract* is decided — the occupant must publish its distribution — but the formula waits for real numbers. **This blocks worked arithmetic, not content.**
 2. **L6 · Verbs.** Seven drafted: `Push` · `Set` · `Place` · `Repin` · `Link` · `Create` · `Decide`. Closes in Phase 2 against content. **No Substrate code should depend on it being final.**
 3. **The turn allowance** — how many doubloons a turn holds. A playtest number.
-4. **L4 Tags** — 22 provisional. The full field survey is in `tags-tabletop.md` and `tags-digital.md`.
+4. **L4 Tags** — 24 provisional (eleven Substrate, thirteen Ruleset). The full field survey is in `tags-tabletop.md` and `tags-digital.md`.
 5. **Character creation**, and therefore the character sheet. What a sheet shows is downstream of how a character is made.
 6. Everything in `open-questions.md` Parts 3–5.
 
