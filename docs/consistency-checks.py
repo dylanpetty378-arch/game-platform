@@ -40,6 +40,8 @@ LIVING = [
     HERE / "worked-builds.md",
     HERE / "categorization-and-action.md",
     HERE / "repo-and-sync.md",
+    HERE / "beta-spec.md",
+    HERE / "brand-drafts.md",
 ]
 
 # A line may mention a retired thing while telling the story of its
@@ -50,6 +52,7 @@ EXEMPT = re.compile(
     r"|the story of the cut|historical|Historical|first pass said"
     r"|amended|Amended|Don't say|don't say|was the mistake"
     r"|became|become|died this way|first statement|Postscript"
+    r"|renamed|Renamed|then called"
 )
 
 # (pattern, why it is forbidden as a live claim)
@@ -87,6 +90,9 @@ FORBIDDEN = [
     (r"ordinary vector with a negative magnitude",
      "restoration is a positive direction on the axis it restores"),
     (r"only three have mixed", "four Channels mix help and harm on unipolar axes"),
+    (r"Allocation Points", "renamed Attempt Points, Aug 2026"),
+    (r"Phase 2 · Paper", "Phase 2 is the Beta — the developer playtest build"),
+    (r"paper kit", "the beta replaced the paper kit"),
 ]
 
 # The other direction: sentences the corpus must actually contain.
@@ -98,6 +104,9 @@ REQUIRED = [
     ("dictionary.md", "fifteen Dimensions"),
     ("dictionary.md", "Forty-one slots"),
     ("START-HERE.md", "Two Sockets"),
+    ("CLAUDE.md", "Attempt Points"),
+    ("phase-map.md", "Phase 2 · The Beta"),
+    ("beta-spec.md", "PLAYTEST"),
 ]
 
 

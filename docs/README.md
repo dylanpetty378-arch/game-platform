@@ -2,7 +2,7 @@
 
 **New here? Read `START-HERE.md` — the whole project in one document.**
 
-**Status, August 2026:** Phase 0 and Phase 1 closed. Every blocking list settled, with **L4 · Tags** provisional at twenty-four; **L6 · Verbs** — not blocking, closing last — is drafted at seven and closes in Phase 2. **Next: Phase 2 · Paper.**
+**Status, August 2026:** Phase 0 and Phase 1 closed. Every blocking list settled, with **L4 · Tags** provisional at twenty-four; **L6 · Verbs** — not blocking, closing last — is drafted at seven and closes in Phase 2. **Next: Phase 2 · The Beta** — the developer playtest build (`beta-spec.md`).
 
 
 Design documents for the game platform. Nothing is built yet; these exist to make sure it gets built once.
@@ -31,7 +31,7 @@ Not the vocabulary — that moved to the dictionary, because two homes for one v
 
 Everything that has to exist in the Substrate. **Sections A through I are answered**, each with a banner saying where the detail now lives; Section J (instrumentation) is new. The lists it tracks are settled as of August 2026 — with the Verb set closing **last**, in Phase 2, not first.
 
-**4. `phase-map.md`** — today to a public release.
+**4. `phase-map.md`** — today to a public release. Its companion **`beta-spec.md`** is the spec for what gets built next: the Phase 2 developer playtest build — the tunables registry, the transparency rules, and the logging that turns play into evidence.
 
 Every phase, what gets done in it, the gate that has to be met before the next one starts, and what kills each. **Deliberately no hours and no dates** — the sequence is the useful part, because it is a dependency order. Ends with the four places scope can be cut and what each costs.
 
@@ -84,7 +84,9 @@ Grounded in current sources. The load-bearing finding: a book title is not regis
 | `lists-research.md` | Research digest, Aug 2026 — **historical**; the lists have since closed. Where it disagrees with the settlements, `dictionary.md` Part 12 governs. |
 | `research-timing.md` · `research-listeners.md` · `research-states.md` · `research-entities.md` | Full reports, with sources. |
 | `work-lists.md` | **The Phase 1 record — closed August 2026.** What each list decided, and the honest done-when accounting. |
-| `work-tracks.md` | Current. Brand, legal and audience — startable today. |
+| `work-tracks.md` | Current. Brand, legal and audience. A0 answered and the first three deliverables drafted, Aug 2026. |
+| `beta-spec.md` | **New, Aug 2026.** The Phase 2 build: the developer playtest site. Tunables, transparency, logging. |
+| `brand-drafts.md` | **New, Aug 2026.** Thirty name candidates (uncleared), the no-AI statement, the first build-in-public post. |
 | `issues-and-ideas.md` | Review, August 2026. Both sets — the four foundation findings and the four arithmetic findings — are carried as decisions in `work-repair.md`. |
 | `branding-research.md` | Research, August 2026. Sources cited; thin areas flagged. |
 | `substrate-lists.xlsx` | The workbook, one tab per live list plus *Read me* and *Progress*. **Every blocking list settled as of Aug 2026**, L4 provisional at twenty-four; L6 (not blocking, closing last) drafted at seven for the Phase 2 close. The L23 tab is generated from `channels.py`, the canonical source. Non-blocking forward tabs are research-seeded. |

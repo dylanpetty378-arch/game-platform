@@ -2,7 +2,7 @@
 
 > **Every blocking list is settled, with L4 · Tags provisional at twenty-four** (closing against content). **L6 · Verbs** — not a blocking list, and closing last — is drafted at seven and closes in **Phase 2** against real content, because L6 closes against the *finished* set, and the finished set includes content that does not exist yet.
 >
-> **Next: Phase 2 · Paper.** Index cards, a shared spreadsheet, and people who will tell the truth. The gate is *a group asks to play again without being asked.*
+> **Next: Phase 2 · The Beta.** The developer playtest build — on the computer, because nobody can run the vector arithmetic by hand and still have a great time. The gate is unchanged: *a group asks to play again without being asked.*
 
 # Phase 1 · The Lists — the working guide
 
@@ -354,11 +354,11 @@ The sixth carries the most weight — it is how reflection, retribution and *"wh
 
 - [x] L21 · L29 · L22 · L23 closed, each with its argument logged
 - [x] L27 · L28 closed — the vocabulary content is allowed to name
-- [x] L1–L3 closed. **The three character sheets are deferred, deliberately, into the Phase 2 paper kit** — what a sheet shows is downstream of character creation, which is not yet designed
+- [x] L1–L3 closed. **The three character sheets are deferred, deliberately, into the Phase 2 beta** — what a sheet shows is downstream of character creation, which is not yet designed
 - [x] L4 provisional at 24 · L5 · L18 · L25 closed
 - [x] L7 extended outside the resolution region — 41 slots
 - [x] L26 closed, including all three cascade blanks
 - [ ] L6 **drafted** (`Push` · `Set` · `Place` · `Repin` · `Link` · `Create` · `Decide`) — closes **last, in Phase 2**, by the closing procedure, with a clean final pass
 - [x] Every closed list has a non-empty "considered and rejected"
-- [ ] The jargon count is known, and the first-hour budget is set — **carried into Phase 2**, where the paper kit forces it
+- [ ] The jargon count is known, and the first-hour budget is set — **carried into Phase 2**, where the beta's player-facing screens force it
 - [x] `dictionary.md` Part 12 has a row for every decision worth revisiting

@@ -868,7 +868,7 @@ Some patterns that will get you what you want, given the structure:
 1. **The Capacity set (L29)** — the most load-bearing list remaining. It is simultaneously what a character is made of *and* the axes an attempt is split across.
 2. **Dimension Spaces, their Dimensions, and the Channels placed in them (L21–L23).**
 3. **L32 Moment kinds and L31 Timings.** Every ability ever written depends on both. *(L27 and L28 were here; both settled in shape in Aug 2026.)*
-4. **How many Allocation Points, and where they come from.** Five is a placeholder with nothing behind it.
+4. **How many Attempt Points, and where they come from.** Five is a placeholder with nothing behind it.
 5. **A ceiling on summed Baseline shares**, and whether it shares Enhancement Capacity's budget.
 6. **~~The Listener cascade limit~~ — settled.** Depth is 32; at the limit the system halts without applying and writes a Record, never rolling back and never dropping silently. Listeners that fire at once sort by semantic class, then a stable key. The one piece still open is the enumeration of the semantic classes.
 7. **The Ruleset's default policy for entering Ordered time.** Leading candidate: a vector placed on an unwilling target.

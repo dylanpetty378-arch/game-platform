@@ -25,7 +25,7 @@ Two of the four blocking decisions were framed wrongly.
 1  FICTION       Unbounded, natural language, forever.
 2  FRAMING       What is actually at stake. Provably unautomatable in general.
 ──── Substrate ────
-3  ALLOCATION    The player spreads Allocation Points; that sets direction.
+3  ALLOCATION    The player spreads Attempt Points; that sets direction.
 4  RESOLUTION    The Resolution Socket sets a signed magnitude.
 5  CONSEQUENCE   Vectors placed and pinned; at a Moment they assemble,
                  combine, meet Guards, and land. Thresholds fire the rest.
@@ -89,7 +89,7 @@ Draft of seven, August 2026: `Push · Set · Place · Repin · Link · Create ·
 
 `verb · source · target (exactly one) · secondary (zero or more) · direction · magnitude · class · layer`
 
-`direction` is *what* is being changed — per-Dimension percentages summing in absolute value to 1; a declared **Channel** for harm, computed from **Allocation Points** for an attempt. `magnitude` is *how much* — a whole number, signed, at a declared **Scale**. This is the Channel idea generalised past harm to every Verb. Written to the Ledger verbatim.
+`direction` is *what* is being changed — per-Dimension percentages summing in absolute value to 1; a declared **Channel** for harm, computed from **Attempt Points** for an attempt. `magnitude` is *how much* — a whole number, signed, at a declared **Scale**. This is the Channel idea generalised past harm to every Verb. Written to the Ledger verbatim.
 
 Exactly one primary target: a Verb affecting three people is three Records, so "who did this happen to" is never ambiguous.
 
@@ -99,7 +99,7 @@ Exactly one primary target: a Verb affecting three people is three Records, so "
 
 A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's Verbs have landed and the Resolution Record is written; produces Verbs pinned to a **later** Moment, class `Triggered`. Data in a Component's manifest, never code. Watches **state, not Verbs** — "is this now true," never "did that just happen."
 
-*Settled with L26, August 2026:* **seven condition forms**, composing with `and`/`or`/`not`, firing discipline required (`once` or `while`, no default). Simultaneous firings order by **semantic class first, then `(layer, component_id, listener_id, target_entity_id)`** — a key composed only of values that do not move when unrelated content is added; the class enumeration itself is open (Q3.8 in `open-questions.md`). Cascade depth **32**; at the limit, halt without applying and write a Record.
+*Settled with L26, August 2026:* **seven condition forms**, composing with `and`/`or`/`not`, firing discipline required (`once` or `while`, no default). Simultaneous firings order by **semantic class first — `substrate` → `mandatory` → `elective` — then `(layer, component_id, listener_id, target_entity_id, source_record_id)`**, a total order composed only of values that do not move when unrelated content is added (Q3.8, settled Aug 2026). Cascade depth **32**; at the limit, halt without applying and write a Record.
 
 **B4 ○ Records without Verbs — SETTLED.** A Verb invocation is one Record type among several. GM assertions, notes, Moment and Session boundaries, Proposals, compensations, supersessions, Listener firings, cascade-limit records and Edition conversions change no state and are still permanent history. *"What happened" is strictly larger than "what changed"* — which is the reason a closed Verb set is achievable at all. The discipline: non-Verb Records must stay genuinely inert, CI-enforced.
 
@@ -125,7 +125,7 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **C6 ○ Replacement conflict rule — MOOT.** Replacement is no longer a class. Two standing vectors simply combine.
 
-**C7 ○ Determinism rules — SETTLED, with three additions from Sections B and C.** No floating point. No wall clock. Ordered iteration or stable-key sort. Byte-wise string comparison. Counter-based PRNG keyed by `(record, entity, purpose)`. Edition and Component version pinned per Record. **Plus:** rounding is truncate-toward-zero, applied once per vector at R-400; Listeners satisfied simultaneously sort by **semantic class first, then `(layer, component_id, listener_id, target_entity_id)`** (the class enumeration is open — Q3.8); and **pre-sum, never pre-apply** — source-side contributions collapse to sums at vector creation, and nothing is ever applied early.
+**C7 ○ Determinism rules — SETTLED, with three additions from Sections B and C.** No floating point. No wall clock. Ordered iteration or stable-key sort. Byte-wise string comparison. Counter-based PRNG keyed by `(record, entity, purpose)`. Edition and Component version pinned per Record. **Plus:** rounding is truncate-toward-zero at exactly three sites — R-400, R-750, R-1050; Listeners satisfied simultaneously sort by **semantic class first — `substrate` → `mandatory` → `elective` — then `(layer, component_id, listener_id, target_entity_id, source_record_id)`** (Q3.8, settled); and **pre-sum, never pre-apply** — source-side contributions collapse to sums at vector creation, and nothing is ever applied early.
 
 ---
 
@@ -147,7 +147,7 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **New in D, and the real remaining work:**
 
-- **Allocation Points.** A player spreads whole points; direction is the proportion spent. **Points buy precision, not power** — one point all-in is 100%, same as five — so this progression axis can never inflate damage. *Open: how many, and where they come from.*
+- **Attempt Points.** A player spreads whole points; direction is the proportion spent. **Points buy precision, not power** — one point all-in is 100%, same as five — so this progression axis can never inflate damage. *Open: how many, and where they come from.*
 - **What a point may be placed on.** Settled in shape: **in the attempt Dimension Space, the Dimensions are the Capacities.** The contents are L29, blocking.
 - **Shaping.** Gear changes the shape of an attempt, in **points**, in two forms: **Bonus Points** (adds points to a Dimension and to the total — redistributive, cannot inflate) and **Baseline** (a Dimension counts as at least N points without raising the total — genuinely raises total effect, clamped by Enhancement Capacity). Order is Bonus Points → Baseline. *Demand was retired in the Phase 0 re-attack.*
 - **Settled and worth not re-litigating:** shaping is snapshot only, never ambient; a Threshold may be declared on total magnitude as well as on one Dimension; an attempt runs the whole assembly pipeline; **gear contributes its modifiers automatically and visibly.**
@@ -258,7 +258,7 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **I4 ○ Active Set.** Bundle, Components, versions, Edition, **and which Component occupies each Socket**. Hashed and recorded. Add and disable only, never remove — and a Socket occupant cannot be disabled.
 
-**I5 ⬤ Template contract — OPEN, and concrete now.** A Template sets Capacities, Allocation Points, Enhancement and Participation Capacities, and default Thresholds. Full profile, partial overlay, or weightings — undecided.
+**I5 ⬤ Template contract — OPEN, and concrete now.** A Template sets Capacities, Attempt Points, Enhancement and Participation Capacities, and default Thresholds. Full profile, partial overlay, or weightings — undecided.
 
 **I6 ⬤⬤ The content contract — NEW, and it is the commercial surface.** *Users author instances, never types* is now specific enough to write down.
 
@@ -298,7 +298,7 @@ On paper, before any code. These cannot be revised and cannot be discovered late
 2. **L29 — the Capacity set.** Small, kind-agnostic, each entry stated as a capacity and checked against a person, a ship, a faction and a storm. **And what you deliberately leave off.** Doubly load-bearing: what a character is made of, *and* the Dimensions of the attempt Space.
 3. **L22 → L23** — the Dimensions inside the remaining Spaces, then the Channels placed in them.
 4. **L27 and L28 — SETTLED Aug 2026.** Two Sockets (Place, Resolution); one Economy Unit (the doubloon) and a three-field cost.
-5. **L1 → L2 → L3 — SETTLED Aug 2026.** Categories, Universal Attributes, Category Attributes. **The three character sheets are deferred, deliberately, into the Phase 2 paper kit** — what a sheet shows is downstream of character creation, which is not yet designed.
+5. **L1 → L2 → L3 — SETTLED Aug 2026.** Categories, Universal Attributes, Category Attributes. **The three character sheets are deferred, deliberately, into the Phase 2 beta** — what a sheet shows is downstream of character creation, which is not yet designed.
 6. **L4, L5, L18 — SETTLED Aug 2026.** Tags provisional at 24; L5 became **Tracks**, fourteen of them, one per Dimension; L18 collapsed to four rules.
 7. **L25 — SETTLED Aug 2026, and the Landing Socket was retired with it.** A push lands on the Track the Dimension names.
 8. **L7 — SETTLED Aug 2026.** The M- and X- regions were added around the Moment: 41 slots, E×5 / M×5 / C×6 / R×19 / X×6.
@@ -307,6 +307,6 @@ On paper, before any code. These cannot be revised and cannot be discovered late
 
 **Then, and only then, code** — starting with the Ledger, the Fold, and **the instrumentation**, which is what makes everything after it possible to tune.
 
-**The forcing function — now Phase 2 work, inside the paper kit.** Write the character sheet first, at the most detailed Lens you can imagine. What is printed on it is what has to exist underneath. Then do the same for a ship and a faction. The values all three need are the Capacity set; the ones only a person needs tell you whether the Substrate is genuinely kind-agnostic or a person schema wearing a costume.
+**The forcing function — now Phase 2 work, inside the beta.** Write the character sheet first, at the most detailed Lens you can imagine. What is printed on it is what has to exist underneath. Then do the same for a ship and a faction. The values all three need are the Capacity set; the ones only a person needs tell you whether the Substrate is genuinely kind-agnostic or a person schema wearing a costume.
 
 **The warning.** A distinction that never reaches a **Lens** does not exist for players — and it is pure cost forever, because it is additive-only. Ultima Online built a full ecology, players killed everything faster than it respawned, nobody ever noticed, and it was quietly removed.

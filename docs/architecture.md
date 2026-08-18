@@ -50,7 +50,7 @@ The authoring tool must make crossing that line *structurally impossible*, not m
 | why a decision went the way it did | `dictionary.md` Part 12 |
 | the interaction model — Channels, vectors, the pipeline | `dictionary.md` Part 2A |
 | timing — Moments, windows, Ordered time | `dictionary.md` Part 2B |
-| resolution — attempts, Thresholds, Allocation Points | `dictionary.md` Part 2C |
+| resolution — attempts, Thresholds, Attempt Points | `dictionary.md` Part 2C |
 
 **This document is the reasoning and the engineering.** Why the shape is what it is, what it costs, what breaks if it changes, and how it gets built. Where the two disagree, `dictionary.md` wins.
 
@@ -112,7 +112,7 @@ A player may attempt anything they can describe. The Substrate never contained t
 2  FRAMING        Someone decides what is actually at stake.
                   Provably unautomatable in general (§4.3A).
 ─────────────────── Substrate begins ───────────────────
-3  ALLOCATION     The player spreads Allocation Points. That sets direction.
+3  ALLOCATION     The player spreads Attempt Points. That sets direction.
 4  RESOLUTION     The Resolution Socket sets a signed magnitude.
 5  CONSEQUENCE    Vectors placed and pinned. At a Moment they assemble,
                   combine, meet Guards and land; Thresholds fire the rest.
@@ -627,7 +627,7 @@ Every Verb, of every kind, from every Component, has the same fields:
 | `source` | the Entity the change originates from |
 | `target` | the primary Entity being changed — **exactly one, always** |
 | `secondary` | zero or more additional Entities the invocation touches |
-| `direction` | *what* is being changed: per-Dimension components in whole hundredths, summing in absolute value to 100. For harm a declared **Channel**; for an attempt, computed from **Allocation Points** |
+| `direction` | *what* is being changed: per-Dimension components in whole hundredths, summing in absolute value to 100. For harm a declared **Channel**; for an attempt, computed from **Attempt Points** |
 | `magnitude` | *how much*: a whole number, signed, at a declared **Scale** (§4.4B) |
 | `class` | why this invocation exists (§7.4) |
 | `layer` | its slot in the ordering lattice (§8) |
@@ -1221,7 +1221,7 @@ Deliberately unresolved. Each is a real decision, not a placeholder.
 
 2. **~~The Layer lattice~~ — ANSWERED.** Closed in August 2026 at **five regions and forty-one slots** — M- and X- were added for what happens around a Moment rather than inside a vector (§8). Magic needed seven layers and thirty years; the generous gaps are the hedge, because an unused slot costs nothing and a missing one is a Substrate break.
 
-3. **How many Allocation Points, and where they come from.** Five is a placeholder with nothing behind it; the natural home is a Capacity — *capacity to divide attention*. Also open: a ceiling on summed Baseline shares, and whether it shares Enhancement Capacity's budget.
+3. **How many Attempt Points, and where they come from.** Five is a placeholder with nothing behind it; the natural home is a Capacity — *capacity to divide attention*. Also open: a ceiling on summed Baseline shares, and whether it shares Enhancement Capacity's budget.
 
 3a. **The Ruleset's default policy for entering Ordered time.** Entry belongs to base Ruleset, not the Substrate — three Substrate rules were tried and each failed on a real case. Leading candidate: *a vector placed on an unwilling target*.
 
@@ -1252,7 +1252,7 @@ Deliberately unresolved. Each is a real decision, not a placeholder.
 **Answered in the August 2026 design pass** — full reasoning in `dictionary.md` Part 12:
 
 - **Verb classes reduced from four to two.** Replacement and Continuous dissolved into *a vector with a window*.
-- **Degree, Cost, the two-axis Outcome, the scalarization rule, outcome ladders and Difficulty-as-machinery: all deleted.** An attempt is a vector; things in the world declare Thresholds; players spread Allocation Points to set direction.
+- **Degree, Cost, the two-axis Outcome, the scalarization rule, outcome ladders and Difficulty-as-machinery: all deleted.** An attempt is a vector; things in the world declare Thresholds; players spread Attempt Points to set direction.
 - **Period retired.** There is only the Moment. Objects take turns.
 - **Perception retired.** A single Delivery field; the Lens decides what is shown; in-fiction knowledge is an optional Component; belief-folds deleted; the information-set invariant satisfied by construction.
 - **The server folds and is authoritative.** Tier 1, not deferrable.

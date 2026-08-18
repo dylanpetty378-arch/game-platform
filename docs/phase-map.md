@@ -11,8 +11,8 @@ No hours and no dates. The sequence is the useful part — it is a **dependency 
 ```
    0  REPAIR            fix what the review found broken
    1  THE LISTS         decide everything that can never be revised
-   2  PAPER             play it without software
-   3  THE SPIKE         Substrate, Sockets, instrumentation
+   2  THE BETA          the developer playtest build — engine core, tunables, logs, play
+   3  THE SPIKE         completed: determinism proofs, full instrumentation, delivery
    4  THE RULESET       the base game, built as Components
    5  CLOSED PLAYTEST   real groups, real months
    6  CONTENT           the first thing a stranger can buy
@@ -27,7 +27,7 @@ No hours and no dates. The sequence is the useful part — it is a **dependency 
 
 Everything in Phases 0 and 1 is **additive-only forever**. Once a Campaign exists, none of it can be revised — only added to. That is why they come first and why they are worth being slow about.
 
-**Every phase produces something worth having even if the next one never happens.** A finished ruleset played on paper is a thing. A half-built engine is not. If the project stops, it should stop at a phase boundary.
+**Every phase produces something worth having even if the next one never happens.** A played beta with its logs is a thing. A half-built engine nobody played is not. If the project stops, it should stop at a phase boundary.
 
 ---
 
@@ -39,7 +39,7 @@ Everything in Phases 0 and 1 is **additive-only forever**. Once a Campaign exist
 
 ### What gets done
 
-- **A1 — Allocation Points.** Decide whether whole points stay, and if they do, what happens to the granularity waste and to the all-in dominant strategy.
+- **A1 — Attempt Points.** Decide whether whole points stay, and if they do, what happens to the granularity waste and to the all-in dominant strategy.
 - **A2 — Uncapped pre-Guard cancellation.** Decide what bounds standing self-scoped vectors. Nothing currently does.
 - **A3 — Flat Guards versus mixed Channels.** Decide whether a Channel in the interior of a Dimension Space can ever be worth placing.
 - **A4 — Enhancement Capacity's three holes.** Absolutes are added after the clamp; Baselines sit outside it; Capacity is captured from the source and is therefore shoppable.
@@ -78,13 +78,13 @@ The order is a dependency order, not a preference.
 
 ### Two things done alongside the lists
 
-**The three character sheets — deferred into Phase 2, deliberately.** The plan was to write the character sheet first, at the most detailed Lens imaginable, then one for a ship and one for a faction: the values all three need are the Capacity set, and the ones only a person needs reveal whether the Substrate is genuinely kind-agnostic or a person schema in a costume. That test still runs — but sheet content is downstream of character creation, which is undesigned, so the sheets are written as the first pieces of the Phase 2 paper kit instead, where they must exist anyway.
+**The three character sheets — deferred into Phase 2, deliberately.** The plan was to write the character sheet first, at the most detailed Lens imaginable, then one for a ship and one for a faction: the values all three need are the Capacity set, and the ones only a person needs reveal whether the Substrate is genuinely kind-agnostic or a person schema in a costume. That test still runs — but sheet content is downstream of character creation, which is undesigned, so the sheets are written as the first pieces of the Phase 2 beta instead, where they must exist anyway.
 
 **The jargon count.** Every invented word is a word a new player has to meet. Keep a running count and a first-contact budget — research on jargon says inline definitions do not repair the damage, so a glossary will not save it. Only meeting fewer words at once will.
 
 ### The gate — met August 2026, as renegotiated
 
-Every blocking list filled — with L4 provisional at twenty-four, closing against content. The Verb set drafted at seven, closing **in Phase 2** by running every entry from every other list plus the played content through the closing procedure — closing it against imagination was the mistake the rule exists to prevent. The three character sheets deferred into the Phase 2 paper kit, where they are the first deliverable.
+Every blocking list filled — with L4 provisional at twenty-four, closing against content. The Verb set drafted at seven, closing **in Phase 2** by running every entry from every other list plus the played content through the closing procedure — closing it against imagination was the mistake the rule exists to prevent. The three character sheets deferred into the Phase 2 beta, where they are the first deliverable.
 
 ### What kills this phase
 
@@ -94,23 +94,33 @@ Every blocking list filled — with L4 provisional at twenty-four, closing again
 
 ---
 
-# Phase 2 · Paper
+# Phase 2 · The Beta
 
-**Play it without any software.**
+**Play it on the computer — the developer playtest build.**
 
-Index cards, a shared spreadsheet, and people who will tell the truth. This is the only phase that tests whether the game is any good, and it is the cheapest one.
+Paper was the original plan, and it died for an honest reason, called by Dylan in August 2026: **nobody can run the vector arithmetic by hand and still have a great time.** A paper trial would test a simplification of the pipeline, and its findings would not transfer. So the play test happens where the game actually lives — a website, built for the developers of the game, with Dylan's own playtesters. This is still the only phase that tests whether the game is any good; it is just no longer pretending index cards can host it.
+
+The build's three laws, and they are the whole spec (`beta-spec.md` is the detail):
+
+1. **Everything is visible.** Nothing hidden in the slightest — bars, pending vectors, every slot of every resolution, the state of every Track. More transparent in what it is doing and tracking than anything. The hidden-information game is a *release-mode* setting, evaluated later against beta logs.
+2. **Everything provisional is a hard-labeled PLAYTEST tunable, changeable on the fly.** The dice expression (default d100 as two d10s; d20 the named alternate; arbitrary expressions accepted), Attempt Points (default 5), the turn allowance (default 20 doubloons), and every number like them — adjustable mid-session from a tuning console, with every change logged. Three kinds of value, permanently distinct: frozen Substrate (never a dial), settled Ruleset lists, and PLAYTEST tunables.
+3. **Every log lands in the database.** Every Record, every resolution expansion, every tuning change, every button press, timestamped — because the balance and comprehension questions get answered by analysis, not recollection. That includes the A9/A11 measurements (time-to-allocate, GM Threshold-authoring time, downside-bar omission rate) and the Q3.5 arrivals-per-Moment counter.
 
 ### What gets done
 
-- **The paper kit**: the three deferred character sheets (person, ship, faction — the Phase 1 debt, discharged where it is naturally due), a resolution walkthrough, a page of Channels, a page of Thresholds a GM can reach for, a one-page cheat sheet, and a **paper approximation note** stating exactly which pipeline rules are suspended at the table, so a misfit found on paper can be classified as a design finding rather than an artifact of the shortcut.
-- **Sessions with people who are not you.** At least one group with no stake in your feelings.
+- **The engine core, pulled forward from the Spike** — the beta cannot exist without it: Ledger, server-side Fold, the uniform Verb shape, Moments, Deciders, the resolution pipeline, and the two Socket occupants. Server-authoritative from the first commit.
+- **The developer playtest page**: the three deferred character sheets (person, ship, faction — the Phase 1 debt, discharged where it is naturally due), the attempt interface with Attempt Point buttons (declaration order; a capped stat's button disables at its Participation limit), and the full pipeline expansion open on every resolution.
+- **The tuning console and the log store**, per the three laws above.
+- **Sessions with people who are not you.** Dylan's playtesters, on the site. At least one group with no stake in his feelings.
+- **The async test runs in the same build** — play-by-post across a week is the business differentiator and it needs a website anyway; a spreadsheet cannot track the layers.
+- **The L6 closing procedure runs here**, against the played content plus every list entry — the Verb set closes in this phase, last, as always planned.
 - **The questions this phase answers**, and nothing else can:
   - Does splitting attention feel like a decision or like homework?
   - Does a hit that lands two turns later create tension or confusion?
   - Can a GM invent an object's Thresholds in the ten seconds a table will wait?
   - How long does one resolution actually take?
   - Does anyone care about the fiction the mechanics produce?
-- **The comprehension question, settled with evidence.** The review's A9 finding is that the surface — many axes, hidden bars, a long pipeline — is past every documented tolerance. That is true on paper if it is true at all, and finding out costs nothing here.
+- **The comprehension question, measured rather than argued.** The review's A9 finding is that the surface is past every documented tolerance. The logs settle it.
 
 ### The gate
 
@@ -120,25 +130,29 @@ Not "they were polite." Not "it was fine once I explained it." Someone asked.
 
 ### What kills this phase
 
-**Not doing it.** Building the engine first is the most common way a project like this dies — years of machinery for a game nobody confirmed was fun.
+**Polishing instead of playing.** The page is a developer tool and should look like one — ugly enough that nobody feels attachment to it. Building the pretty interface is Phase 7's job.
+
+**Tuning by feel instead of by log.** The console makes twiddling cheap; the database is what makes it knowledge.
 
 ---
 
-# Phase 3 · The Spike
+# Phase 3 · The Spike, completed
 
-**The first code. The Substrate, the Sockets, and the tools that make it tunable.**
+**What the beta borrowed gets finished, hardened and proven.**
+
+Phase 2 pulled the engine core forward because the beta could not exist without it. This phase completes what the beta could defer, and proves what the beta only assumed.
 
 ### What gets done
 
-**The Substrate.** Ledger, Fold, the uniform Verb shape, Delivery, Deciders, Moments, and the full E-/C-/R- resolution pipeline. **Server-authoritative folding from the first commit** — it is Tier 1 and retrofitting it is not possible.
+**The determinism harness.** The same Ledger folded on two machines, state hashes diffed at every Moment, golden fixtures replayed on every target platform, export/import round-tripping byte-identically. The beta ran on one server and could take determinism on faith; nothing after this phase may.
 
-**Two Socket occupants.** Place and Resolution — the only Sockets there are. Time and Budget became Substrate and Landing was retired into the Track push, so what was once "five occupants" is now two occupants plus the base Ruleset's turn order, budget refresh and landing spec. Nothing loads without the two, so "one or two Components" was never the real scope.
+**The full instrumentation suite.** The beta shipped the resolution expansion, the log store and the tuning console. This phase adds the rest: state inspector at any Moment, **time travel**, **what-if** — re-resolve a past moment with one input changed, never writing to the Ledger — notes anchored to a single slot of a single resolution, and tester accounts with visible markers.
 
-**The instrumentation, here and not later.** Event log with search. Any resolution expanded slot by slot. State inspector at any Moment. Time travel. **What-if** — re-resolve a past moment with one input changed, never writing to the Ledger. Notes anchored to a single slot of a single resolution. Tester accounts. And the determinism harness.
+**Delivery.** The beta showed everything to everyone by design; release-mode hidden information needs the `delivery` field and server-side filtering to be real.
 
-A pipeline with this many ordered slots and interacting ceilings cannot be tuned by reading numbers off a screen. **Build the measuring device before the thing being measured.**
+**The four pre-code specs made law**: canonical serialization and hashing, the named counter-based PRNG with test vectors, the bigint/bounds policy, and the WebSocket reconnect/resync protocol — whatever of these the beta improvised gets specified and locked.
 
-**A deliberately ugly interface.** Ugly enough that you feel no attachment to it, because it gets thrown away.
+A pipeline with this many ordered slots and interacting ceilings cannot be tuned by reading numbers off a screen. The beta was the proof; this phase makes the measuring devices permanent.
 
 ### The gate
 
@@ -327,7 +341,7 @@ An audience takes years and cannot be bought at the end. Starting now, at whatev
 | End of | This is true |
 |---|---|
 | **0** | All eight Phase 0 findings fixed or explicitly accepted in writing |
-| **1** | Every blocking list filled (L4 provisional); the Verb set drafted, closing last in Phase 2; the character sheets deferred into the Phase 2 kit |
+| **1** | Every blocking list filled (L4 provisional); the Verb set drafted, closing last in Phase 2; the character sheets deferred into the Phase 2 beta |
 | **2** | **A group asked to play again without being asked** |
 | **3** | Two machines fold the same Ledger identically; *why was it 17* answers in ten seconds |
 | **4** | An unplanned Component written without touching the Substrate |
@@ -336,7 +350,7 @@ An audience takes years and cannot be bought at the end. Starting now, at whatev
 | **7** | People come back for a third session |
 | **8** | Paid tiers live, the marketplace open, and month two planned before month one ends |
 
-**Phase 2's gate is the one that matters.** Everything before it is design, which is cheap and reversible. Everything after it is construction, which is neither. Do not start Phase 3 until someone has asked to play again.
+**Phase 2's gate is the one that matters.** It is the first phase where anyone plays, and nothing after it is worth building if nobody asks to play again. The beta builds exactly as much engine as play requires — do not harden, polish or extend past that until someone has asked.
 
 ---
 

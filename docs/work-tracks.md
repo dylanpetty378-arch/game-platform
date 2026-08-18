@@ -155,13 +155,13 @@ Small, repeatable, and the only thing that actually compounds.
 
 ## Startable today, in priority order
 
-- [ ] Answer: is the ruleset ever a book?
-- [ ] Answer: is the brand one name or three?
-- [ ] Thirty name candidates, unjudged
+- [x] Answer: is the ruleset ever a book? — **No** (Q5.1, Aug 2026). If one ever exists it is a post-success reference to the website
+- [x] Answer: is the brand one name or three? — **System and platform share one name; the company may carry another** (Q5.4, Aug 2026)
+- [x] Thirty name candidates, unjudged — **drafted in `brand-drafts.md`**, clearance not yet run
 - [ ] Clearance on the survivors
 - [ ] Intent-to-use filed, as software and a service
 - [ ] The position sentence, three versions, tested
-- [ ] The no-AI statement, published
-- [ ] Newsletter set up, empty
+- [~] The no-AI statement — **drafted in `brand-drafts.md`**; publishing waits on a home to publish it
+- [~] Newsletter — **first post drafted in `brand-drafts.md`**; the account is Dylan's to create
 - [ ] Bluesky account, first design-log post
 - [ ] One procedural visual built from real resolution data

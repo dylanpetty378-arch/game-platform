@@ -167,10 +167,8 @@ So the game doesn't require them to.
 
 ## Where it stands
 
-Nothing is built. This is a design being worked out carefully first, because the foundation is the kind that can't be changed once people have games running on it.
+Nothing is built yet, and the design is done being careful — the foundation is the kind that can't be changed once people have games running on it, and as of August 2026 it is settled: how things push on each other, how they combine, how time works, how attempts resolve, what a character is made of, what kinds of push exist in the world, and what things are called. The genuinely open pieces are written down in one place, and most of them are numbers that only play can find.
 
-Settled in shape: how things push on each other, how they combine, how time works, how attempts resolve, and how the pieces fit together. Several of those still carry open questions, and they are all written down in one place.
-
-What's next: the actual lists — what a character is made of, what kinds of push exist in the world, what things are called. Those need worked examples and playtesting, not more thinking.
+What's next: **the beta** — a first version of the website, built for the people testing the game. Everything is on screen, every playtest number can be changed on the fly to see how it feels, and everything that happens is recorded so the tuning is done from evidence instead of memory.
 
 **And a great deal of the early work is the tools for testing it.** Every calculation openable and inspectable, every game replayable, a way to change one number and re-run a past moment to see what would have happened, notes attached to the exact thing they're about, and testers with their own accounts who can see and try absolutely everything. A game with this many interacting parts cannot be balanced by intuition. It has to be measured — so the measuring gets built first.

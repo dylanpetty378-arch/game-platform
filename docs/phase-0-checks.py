@@ -14,7 +14,7 @@ in TypeScript, these become the golden fixtures.
 
 # --------------------------------------------------------------------------
 # The one shared primitive: integer apportionment.
-# Used by Allocation Points AND by flat-Guard redistribution.
+# Used by Attempt Points AND by flat-Guard redistribution.
 # Floor each share, then hand the remainder out largest-first, ties by index.
 # --------------------------------------------------------------------------
 

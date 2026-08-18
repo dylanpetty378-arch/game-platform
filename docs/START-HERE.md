@@ -21,8 +21,8 @@
 | Phase | | |
 |---|---|---|
 | **0 · Repair** | **CLOSED** Aug 2026 | 8 foundation decisions + 10 re-attack findings, all covered by numeric tests in `phase-0-checks.py` |
-| **1 · The Lists** | **CLOSED** Aug 2026 | every blocking list settled, **L4 · Tags** provisional at 24; **L6 · Verbs** (not blocking, closes last) drafted at seven for Phase 2; the three character sheets deferred into the Phase 2 paper kit |
-| **2 · Paper** | **NEXT** | play it with index cards and people who will tell the truth |
+| **1 · The Lists** | **CLOSED** Aug 2026 | every blocking list settled, **L4 · Tags** provisional at 24; **L6 · Verbs** (not blocking, closes last) drafted at seven for Phase 2; the three character sheets deferred into the Phase 2 beta |
+| **2 · Beta** | **NEXT** | the developer playtest build — play it on the computer: everything visible, every playtest number a tunable, every log in the database (`beta-spec.md`) |
 
 **The gate for Phase 2 is one sentence: a group asks to play again without being asked.**
 

@@ -26,7 +26,7 @@ The full record of what was decided and why is **`work-repair.md`**. In one line
 
 | | Was | Now |
 |---|---|---|
-| **Q1.1** Do whole Allocation Points survive? | Granularity waste and all-in dominance | **Yes.** Resolution is one integer operation, `⌊points × magnitude ÷ total points⌋`. All-in is answered by requiring a downside bar in authored content, not by changing the arithmetic |
+| **Q1.1** Do whole Attempt Points survive? | Granularity waste and all-in dominance | **Yes.** Resolution is one integer operation, `⌊points × magnitude ÷ total points⌋`. All-in is answered by requiring a downside bar in authored content, not by changing the arithmetic |
 | **Q1.2** What bounds standing self-scoped vectors? | Nothing | **Content pricing, not an engine limit.** R-780 reserved as insurance, unbounded in v1 |
 | **Q1.3** Can an interior Channel ever be worth placing? | No — pure was 7× better | **Yes.** A universal flat Guard now acts on the packet total and is redistributed. Every direction lands the same |
 | **Q1.4** Where does Enhancement Capacity clamp? | Three holes | **Percentages, and only percentages.** Absolutes are bounded by Participation Capacity instead. Baselines are stated in points and their inflation is clamped by the same Capacity (summed-Baseline ceiling open — Q3.2). The ceiling belongs to the task, never the source |
@@ -36,7 +36,7 @@ The full record of what was decided and why is **`work-repair.md`**. In one line
 
 **What is still open from this territory, deliberately:**
 
-- **How many Allocation Points a character has, and where they come from.** Belongs to L29 and to paper play — see Q3.1.
+- **How many Attempt Points a character has, and where they come from.** Belongs to L29 and to beta play — see Q3.1.
 - **Whether the Shaping order feels right.** Arithmetically arbitrary, so only play can say. On the playtest watchlist.
 - **Whether the all-in authoring requirement holds at a live table.** Instrumented rather than assumed: the tooling counts tasks that ship with no downside bar.
 
@@ -73,7 +73,9 @@ The full record of what was decided and why is **`work-repair.md`**. In one line
 
 ---
 
-## Q2.10 · How is magnitude produced? — **still open, and it is the big one**
+## Q2.10 · How is magnitude produced? — **provisional answer, August 2026; final formula still the Resolution Socket's**
+
+**PLAYTEST tunable: the Attempt roll defaults to d100 (two d10s), with d20 as the named alternate, and the beta's tuning console accepts arbitrary dice expressions** — swapping the expression mid-campaign is the point, because the formula gets found by comparing feels against logs. The Socket contract is unchanged: whatever ships must publish its distribution.
 
 *"A combination of modifiers and a dice roll."* The formula waits until content exists and real numbers can be seen. It is the **Resolution Socket's** business, and the Socket's *contract* is already decided even though the formula is not: **the occupant must publish its distribution**, because rule 19 requires any likelihood-expressing Lens to be Calibrated against it.
 
@@ -85,7 +87,9 @@ The full record of what was decided and why is **`work-repair.md`**. In one line
 
 ---
 
-## Q3.1 · How many Allocation Points does a character have, and where do they come from?
+## Q3.1 · How many Attempt Points? — **ANSWERED, August 2026**
+
+**They scale with the character — start around 3, grow to as many as the character can use. Playtest default: 5, as a PLAYTEST tunable.** The scaling curve belongs to character creation, which is Phase 2 work; the natural home remains a Capacity, which keeps it kind-agnostic and non-inflating.
 
 Five is a placeholder with nothing behind it.
 
@@ -103,7 +107,9 @@ Baselines raise total effect. Eight of them on eight Dimensions multiplies total
 
 ---
 
-## Q3.3 · What is the Ruleset's default policy for entering Ordered time?
+## Q3.3 · Entering Ordered time — **ANSWERED, August 2026**
+
+**Adopted: a vector placed on an unwilling target opens Ordered time; manual initiation always exists.** The two-allies-racing case is covered by manual initiation and known to sit outside the rule.
 
 **Entry is base Ruleset, not the Substrate's** — three Substrate rules were tried and each failed on a real case:
 
@@ -125,7 +131,9 @@ Absent means *everyone*, so it can be added later without breaking history. **Ch
 
 ---
 
-## Q3.5 · What does turn position do to defensive load?
+## Q3.5 · Turn position and defensive load — **premise disputed; instrumented, not ruled on**
+
+**Dylan's read, August 2026: unfounded.** End-of-round effects land after everyone by definition, and most vectors land at the start of the *target's* turn — so every target accrues one round of arrivals regardless of initiative position. Rather than argue it on paper, **the beta logs arrivals-per-Moment per creature**; if a positional skew is real, the data will show it.
 
 Everything pinned to your turn lands at once. So the creature that acts last in a round eats an entire round of accumulated vectors in one resolution, and the one that acts first eats almost none — a large swing, decided by initiative rather than by any decision the player made.
 
@@ -133,7 +141,9 @@ Everything pinned to your turn lands at once. So the creature that acts last in 
 
 ---
 
-## Q3.6 · Does a shared Resource permit a double-spend across simultaneous scenes?
+## Q3.6 · Shared-Track double-spend across simultaneous scenes — **beta default set, provisionally**
+
+**Beta default: reserve at declaration.** When a scene spends from a Track shared with a simultaneous scene, the amount is held the moment it is declared, so the other scene sees the reduced balance immediately. On a server this is trivial, and it is the strictest option — relaxing later is safe, tightening later is not. Kept provisional pending play.
 
 Two scenes are simultaneous until their shared Moment. If both spend from the same faction treasury, both spends are valid in their own scene and the conflict only surfaces later.
 
@@ -143,7 +153,9 @@ Two scenes are simultaneous until their shared Moment. If both spend from the sa
 
 ---
 
-## Q3.7 · What orders contributors when more want in than Participation Capacity allows?
+## Q3.7 · Contributor ordering at a full Participation cap — **ANSWERED, August 2026**
+
+**Declaration order — whoever presses the button first.** When a capped stat fills, its button disables; contributors can still add to the uncapped stats of the party-sized roll. Outside Ordered time, simultaneous declarations break by nimbleness — the MOVEMENT Dimensions — then the stable key. The async-fairness consequence (rewarding whoever checks their Dispatch first) goes on the Phase 5 watchlist.
 
 The dictionary used to claim conflicts need no tiebreak because Participation Capacity settles them. The adversarial review (A13) showed that is false: two contributors, one open slot, and nothing declared decides who is in. That is a determinism hole — the Fold must produce the same answer everywhere — and, in asynchronous play, a fairness question, because "first to submit" quietly rewards whoever checked their Dispatch soonest.
 
@@ -153,7 +165,9 @@ The dictionary used to claim conflicts need no tiebreak because Participation Ca
 
 ---
 
-## Q3.8 · What are the Listener semantic classes, and is the sort key a total order?
+## Q3.8 · Listener semantic classes and the total order — **ANSWERED, August 2026**
+
+**Three classes, in firing order: `substrate` (engine-declared watches) → `mandatory` (Component Listeners) → `elective` (player-parameterised Standing Orders)** — mandatory-before-optional, the one ordering the field fully specified. **`source_record_id` joins the key as its final component**, closing the collision the research found: `(class, layer, component_id, listener_id, target_entity_id, source_record_id)` is a total order.
 
 L26 settled the simultaneous-Listener order as *semantic class first, then `(layer, component_id, listener_id, target_entity_id)`* — and never enumerated the classes. An undefined term inside a determinism-critical sort. Separately, `research-listeners.md` showed the four-tuple is not a total order: the same Listener firing for the same target from two sources in one Moment collides, which argues for `source_record_id` as a final component.
 
@@ -161,7 +175,9 @@ L26 settled the simultaneous-Listener order as *semantic class first, then `(lay
 
 ---
 
-## Q3.9 · Does the base-Ruleset Creature carry social and mystic Tracks?
+## Q3.9 · The base Creature's social and mystic Tracks — **ANSWERED, August 2026**
+
+**The split: `standing` joins the base person, so anyone can be slandered out of the box; `working` and `essence` attach per character.** A person with no `essence` cannot be soulburned, and no rule says so — the same absence-is-immunity logic the design already runs on.
 
 L3 gives `Creature` no `standing`, `regard`, `working` or `essence` Track — yet seventeen of the eighty-eight Channels land *only* on those axes (the nine pure-standing and eight pure-mystic pushes — praise, scorn, slander, drain and their kin), and creatures are their obvious targets. Under *absence is immunity*, the base person is therefore immune to all social and mystic harm unless a Setting adds the Tracks. `regard` landing on Connections is by design; the rest looks like an omission, and no Part 12 row records it as a choice.
 
@@ -171,7 +187,9 @@ L3 gives `Creature` no `standing`, `regard`, `working` or `essence` Track — ye
 
 ---
 
-## Q3.10 · Does the Record-shape Listener form survive its own research?
+## Q3.10 · The Record-shape Listener form — **ANSWERED, August 2026: it stays, with the objections met**
+
+**Records must be listenable — reflection and retribution depend on it.** The three research objections and their answers, now in Part 12: edge-triggering by construction (a Listener matches only Records written since its last evaluation Moment); compensation-aware matching (a Record superseded before the evaluation Moment does not match); and the form participates in the same cascade depth and per-Moment accounting as every other form, so termination is enforced dynamically where it cannot be proven statically.
 
 L26 adopted "a Resolution Record matching a shape" as a condition form — `dictionary.md` calls it the one that carries the most weight. `research-listeners.md` argues against exactly that form at length: it has no natural edge-triggering, it false-matches Records later corrected by compensation, and it destroys the static triggering-graph termination check — proposing Moment-scoped derived quantities instead. The settlement post-dates the research, but the six counter-arguments were never answered in writing.
 
@@ -191,7 +209,9 @@ Some are so good that hiding them behind a tester flag is a mistake — resoluti
 
 ---
 
-## Q4.2 · Is threshold visibility on or off by default?
+## Q4.2 · Threshold visibility — **beta stance set; release default still a Phase 5 measurement**
+
+**In the developer beta, everything is visible — nothing hidden in the slightest**, because the testers are developers of the game and the build exists to be seen through. The near-miss reveal (hidden at declaration, shown in the post-resolution breakdown) is the leading candidate for the release default, evaluated later against beta logs.
 
 It is a built-in GM setting, so both work. **But the default decides what the game is**, because allocating against bars you cannot see is the source of the tension — and it is also the source of the frustration.
 
@@ -217,7 +237,9 @@ No amount of research substitutes for these, and several of them change everythi
 
 ---
 
-## Q5.1 · Is the ruleset ever a book?
+## Q5.1 · Is the ruleset ever a book? — **ANSWERED, August 2026: no**
+
+**The game is unplayable without the computer, so the ruleset is software and web documentation.** If a book ever exists it is a reference to the website, printed after success — never the product. The single-work trademark trap and the art-cost structure both largely dissolve; the platform filing basis stands. The plan: copyright the website, create a business entity to house the project.
 
 **The highest-consequence unanswered question in the project.**
 
@@ -247,7 +269,9 @@ This decides whether the obsolescence objection (*"what happens to my campaign w
 
 ---
 
-## Q5.4 · Is the brand the system, the platform, or the company — and are those one thing or three?
+## Q5.4 · System, platform, company — **ANSWERED, August 2026**
+
+**The system and the platform are one and the same, under one name. The company might carry a different name** — decided separately, alongside the business entity.
 
 Three is more flexible and three times the trademark cost. One is cheaper and fuses everything to a single name.
 
@@ -287,6 +311,6 @@ This is worth an answer before launch, not after.
 
 **Answer while filling the lists:** all of Part 2 — and **Q2.8 last, alone, with more care than anything else in this file.** It is the only decision here that cannot be revised at any price.
 
-**Answer before the first commit:** Q3.1 through Q3.10, and the server-folding half of Q3.4 before anything at all. Q3.7 and Q3.9 bite earlier — the first paper scene with cooperation or social pressure trips them, so answer those before the kit is printed.
+**Answered August 2026:** Q3.1, Q3.3, Q3.7, Q3.8, Q3.9, Q3.10, Q5.1, Q5.4 — plus provisional playtest answers for Q2.10, Q3.6 and the Q4.2 beta stance. **Still needed before the first engine commit:** Q3.2 (deferred to playtest by choice), Q3.4's server-folding confirmation, and Q3.5's instrumentation hook in the beta.
 
 **Answer with playtest data, not by thinking:** Q1.1's final form, Q4.1, Q4.2.

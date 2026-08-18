@@ -10,7 +10,7 @@ This document is now the record of what was decided and why, not a worklist. The
 
 | | Finding | Outcome |
 |---|---|---|
-| 1 | **A1** Allocation Points | **Fixed and partly accepted.** Integer-first resolution; all-in answered by authoring |
+| 1 | **A1** Attempt Points | **Fixed and partly accepted.** Integer-first resolution; all-in answered by authoring |
 | 2 | **A4** Enhancement Capacity | **Fixed and partly accepted.** Percentages clamped, absolutes deliberately not |
 | 3 | **A3** Flat Guards | **Fixed.** Universal flat Guards act on the packet total, once per source |
 | 4 | **A2** Standing self-scoped vectors | **Accepted, with a reserved slot** |
@@ -24,7 +24,7 @@ This document is now the record of what was decided and why, not a worklist. The
 
 ---
 
-## 1 · A1 — Allocation Points
+## 1 · A1 — Attempt Points
 
 **Decided.** The resolved value on an axis is **one integer operation**:
 
@@ -53,7 +53,7 @@ Against the standing lock those two readings tell **different stories**: share-f
 - **A live GM:** trusted to decide on the fly, and not required to write anything down. The task-creation surface *offers* a downside bar by default rather than asking them to invent one.
 - **Instrumentation:** count how many tasks ship with no downside bar, so playtesting measures this instead of guessing at it.
 
-**Still open, and deliberately:** how many points a character has, and where they come from. That belongs to L29 and to paper play.
+**Still open, and deliberately:** how many points a character has, and where they come from. That belongs to L29 and to beta play.
 
 ---
 
@@ -73,7 +73,7 @@ The consequence, stated plainly so nobody reads it as a leak: *a lock at Enhance
 
 ## 3 · A3 — Flat Guards
 
-**Decided.** A **universal** flat Guard subtracts from the **packet total**, then what remains is redistributed across Dimensions in proportion to their pre-Guard absolute values, by the same integer apportionment Allocation Points use. Signs are preserved. **A Guard reduces toward zero and never past it.**
+**Decided.** A **universal** flat Guard subtracts from the **packet total**, then what remains is redistributed across Dimensions in proportion to their pre-Guard absolute values, by the same integer apportionment Attempt Points use. Signs are preserved. **A Guard reduces toward zero and never past it.**
 
 A **Dimension-named** flat Guard still acts on that Dimension alone, which is correct — that is what specific resistance means. Named acts before universal.
 
@@ -91,7 +91,7 @@ flat Guard 3, magnitude 10          old        new
 
 An evenly-spread attack at full magnitude landed **nothing**. Nobody would ever have placed a Channel off-axis, which would have deleted the reason Dimension Spaces exist. Under the new rule every direction lands the same total, by arithmetic rather than by content discipline.
 
-**One mechanism, two uses.** Guard redistribution and Allocation Points now share the same apportionment function.
+**One mechanism, two uses.** Guard redistribution and Attempt Points now share the same apportionment function.
 
 ---
 

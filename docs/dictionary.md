@@ -531,7 +531,7 @@ lightning, magnitude 10  →  temperature +3   integrity −7
 
 **A Channel's direction is never modified.** It belongs to the Channel and states what kind of thing this is. Nothing bends it — all modification of a harm vector happens to magnitude.
 
-*An **attempt's** direction is a different thing: it is computed from the player's Allocation Points rather than declared by a Channel, and **Shaping** acts on the allocation before a direction exists. See Part 2C. The rule that a declared Channel is immutable is untouched by it.*
+*An **attempt's** direction is a different thing: it is computed from the player's Attempt Points rather than declared by a Channel, and **Shaping** acts on the allocation before a direction exists. See Part 2C. The rule that a declared Channel is immutable is untouched by it.*
 
 ## Nothing is computed until it resolves
 
@@ -711,7 +711,7 @@ Checkable on a single modifier at authoring time, needs no global bound, and lea
 | | Type | Modified by |
 |---|---|---|
 | **Direction** (a Channel's Dimension values) | percentages, summing in absolute value to 1 | nothing, ever |
-| **Attempt direction** (from Allocation Points) | percentages, summing in absolute value to 1 **before Shaping**; a Baseline may push the sum above 1 | Shaping, at allocation time |
+| **Attempt direction** (from Attempt Points) | percentages, summing in absolute value to 1 **before Shaping**; a Baseline may push the sum above 1 | Shaping, at allocation time |
 | **Magnitude** | whole number | percentage then absolute modifiers |
 | **Percentage modifier** | percentage | sums with other percentages |
 | **Absolute modifier** | whole number | adds after percentages |
@@ -779,7 +779,7 @@ This is the one place the earlier rule was wrong, and it mattered.
 
 1. Take the **packet total** — the sum of the absolute values across every Dimension.
 2. Subtract the Guard from that total. Floor at zero.
-3. **Redistribute what remains** across the Dimensions in proportion to their pre-Guard absolute values, using the same integer apportionment as Allocation Points (Part 2C): floor each share, then hand the remainder out largest-first, ties by Dimension index.
+3. **Redistribute what remains** across the Dimensions in proportion to their pre-Guard absolute values, using the same integer apportionment as Attempt Points (Part 2C): floor each share, then hand the remainder out largest-first, ties by Dimension index.
 4. **Signs are preserved, and a Guard reduces toward zero and never past it.** Armour can stop harm; it can never turn harm into its opposite.
 
 ```
@@ -1056,7 +1056,7 @@ The pattern in those failures is that this is a **game-design** rule, not an eng
 
 **Ordered time can also be started manually at any time**, by anyone at the table. That path always exists.
 
-**The Ruleset's default policy — PENDING.** The leading candidate is *a vector placed on an unwilling target*, where willingness is a property of the placement (declared by content, refusable by the target's controller) and never a stored relationship label. It handles every case tried so far: self-targeting and healing an ally are consensual and start nothing; a blow at a guard is not. Contested cases with no unwilling creature — two allies racing to cut the same rope — fall to manual initiation.
+**The Ruleset's default policy — SETTLED, Aug 2026 (Q3.3).** *A vector placed on an unwilling target* opens Ordered time, where willingness is a property of the placement (declared by content, refusable by the target's controller) and never a stored relationship label. It handles every case tried so far: self-targeting and healing an ally are consensual and start nothing; a blow at a guard is not. Contested cases with no unwilling creature — two allies racing to cut the same rope — fall to manual initiation.
 
 **Leaving Ordered time.** Ordered time ends when **no vector remains anchored to another Entity's Moment** and no participant places a new one. Passing your turn places nothing; it does not end Ordered time by itself.
 
@@ -1209,9 +1209,11 @@ It is the Shaping machinery that already exists, so it needs no new mechanism an
 
 **A Specialisation must be strictly narrower than its Dimension and may never substitute for one.** It must name a scope: a place, a people, a kind of thing, or a condition. The authoring tool enforces the shape; the breadth rule is the one thing a human has to judge.
 
-## Allocation Points — how a player sets a direction
+## Attempt Points — how a player sets a direction
 
-A character has a number of **Allocation Points** and places them across what they are attending to. **Direction is the proportion of the points actually spent.**
+*Renamed from "Allocation Points," August 2026 — the points belong to the attempt, and the player-facing word should say what they are for, not what the interface does with them.*
+
+A character has a number of **Attempt Points** and places them across what they are attending to. **Direction is the proportion of the points actually spent.**
 
 ```
 2 points on the lock, 1 on watching, 1 on keeping quiet   →   50% / 25% / 25%
@@ -1401,7 +1403,7 @@ Which also means the same layer-by-layer animation that shows a fireball assembl
 
 **PENDING** — what remains genuinely open:
 
-- **How many Allocation Points, and where they come from.** (Also flagged above.)
+- **How many Attempt Points, and where they come from.** (Also flagged above.)
 - ~~The contents of the Capacity list (L29)~~ — **settled Aug 2026.** Seven Domains, fifteen Dimensions; see Part 2C.
 
 ### What a point may be placed on
@@ -1448,7 +1450,7 @@ A Verb is **data, not code.** Writing a Verb down does not make it happen; it is
 | **source** | the Entity the change comes from |
 | **target** | the primary Entity being changed — **every Verb has exactly one** |
 | **secondary** | zero or more additional Entities the same invocation touches |
-| **direction** | *what* is being changed — a set of per-Dimension percentages summing **in absolute value** to 1. For harm this is a declared **Channel**; for an attempt it is computed from **Allocation Points**, and a **Baseline** may push that sum above 1 by construction (Part 2C) |
+| **direction** | *what* is being changed — a set of per-Dimension percentages summing **in absolute value** to 1. For harm this is a declared **Channel**; for an attempt it is computed from **Attempt Points**, and a **Baseline** may push that sum above 1 by construction (Part 2C) |
 | **magnitude** | *how much* — a whole number, signed, at a declared **Scale** |
 | **class** | why this invocation exists (see below) |
 | **layer** | where it sits in the ordering lattice |
@@ -2473,7 +2475,7 @@ Landing is no longer a Socket, but the decisions it held did not vanish — they
 
 **At the limit: halt without applying, and write a Record.** Rolling back is unavailable — the Ledger is append-only. Silently dropping is worse and is what Hearthstone does; it is a known source of unexplainable board states. A Record makes it a debuggable finding rather than a mystery, which is the honest version of *if you can violate it silently, the gate is missing*.
 
-**Ordering: a semantic class first, then `(layer, component_id, listener_id, target_entity_id)`.** *(The class enumeration itself, and whether the key totally orders every case, are open — `open-questions.md` Q3.8; do not invent them.)* Yu-Gi-Oh's SEGOC is the only fully specified simultaneous-trigger ordering in any published game, and its shape is *classify, then tiebreak*. The constraint that matters: **the sort key may contain only values that do not move when unrelated content is added.** Drools' salience is deterministic but not *stable* — adding one rule reorders unrelated ones. `component_id` and `listener_id` are safe; a global priority number is not.
+**Ordering: a semantic class first — `substrate` (engine-declared watches) → `mandatory` (Component Listeners) → `elective` (player-parameterised Standing Orders) — then `(layer, component_id, listener_id, target_entity_id, source_record_id)`.** Settled Aug 2026 (Q3.8); `source_record_id` is what makes the key a total order when the same Listener fires for the same target from two sources in one Moment. Yu-Gi-Oh's SEGOC is the only fully specified simultaneous-trigger ordering in any published game, and its shape is *classify, then tiebreak*. The constraint that matters: **the sort key may contain only values that do not move when unrelated content is added.** Drools' salience is deterministic but not *stable* — adding one rule reorders unrelated ones. `component_id` and `listener_id` are safe; a global priority number is not.
 
 ### What is observable, and what is not
 
@@ -2710,7 +2712,7 @@ Three details:
 
 This falls out of **absent is not zero** rather than needing a rule of its own — an Entity with no points in any attempt Dimension simply cannot attempt anything, and nothing had to say so. It also means the strongest precedent in the field (Star Trek Adventures, where a ship *assists* but never rolls) is available as a **content** stance, not a Substrate one: a Setting that wants ships to assist rather than act simply does not give them attempt Dimensions.
 
-**Constraints.** Additive-only and **Component-extensible** — a Component may publish a new Capacity forever. But every Capacity is also an axis a player can spend Allocation Points on, so the set is the interface, and it should stay small enough to choose between at a glance.
+**Constraints.** Additive-only and **Component-extensible** — a Component may publish a new Capacity forever. But every Capacity is also an axis a player can spend Attempt Points on, so the set is the interface, and it should stay small enough to choose between at a glance.
 
 **The hard part.** Resisting one Capacity per skill. *Thieves' tools* is gear supplying a modifier to `manipulation`, not a Capacity of its own.
 
@@ -2861,7 +2863,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | Aug 2026 | **Degree, Cost, outcome ladders, scalarization and Difficulty all deleted** | Degree is the magnitude; Cost is consequences at other Thresholds; Difficulty is a Threshold. Five concepts removed, none added |
 | Aug 2026 | Resolved magnitude becomes the **base magnitude** of the vectors the attempt places | The join between resolution and consequence, with Thresholds firing extras on top |
 | Aug 2026 | Cooperation and opposition fall out of vector combination | Two helpers combine, bounded by the task's Capacity; an opposed action is two vectors pointing opposite ways |
-| Aug 2026 | **Allocation Points** — a player spreads whole points, and direction is the proportion spent | The sum-to-1 rule becomes impossible to violate, because the interface hands out points and the arithmetic does the dividing |
+| Aug 2026 | **Attempt Points** (then called Allocation Points; renamed later that month) — a player spreads whole points, and direction is the proportion spent | The sum-to-1 rule becomes impossible to violate, because the interface hands out points and the arithmetic does the dividing |
 | Aug 2026 | Points buy **precision, not power** | One point all-in is 100%, same as five. More points only buy finer splits — so this progression axis can never inflate damage |
 | Aug 2026 | You allocate against bars you cannot see | Which is what makes information worth having. Scouting a lock changes how you spend |
 | Aug 2026 | **Participation Capacity** — how many sources may contribute to one thing | A lock worked by one person at a time. Makes cooperation a decision instead of a pile-on |
@@ -2892,7 +2894,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | **Aug 2026 · Phase 0** | **Enhancement Capacity clamps percentages. Absolutes are uncapped** | Absolutes cannot run away by stacking — they grow linearly in the number of contributors, and Participation Capacity already bounds contributors. Two directions of failure, two walls that fit them |
 | **Aug 2026 · Phase 0** | Enhancement Capacity belongs to the **task or target**, never the source | A source-owned ceiling is shoppable: the party routes every vector through whoever holds the highest. Target-owned, it stays a property of a thing in the world |
 | **Aug 2026 · Phase 0** | **SUPERSEDED** — see *Shaping is expressed in points, never percentages* (re-attack, below); the Enhancement Capacity ceiling still covers a Baseline's contribution, and how the summed contribution reads against a percentage-stated ceiling is open (Q3.2). ~~A **Baseline is a percentage**, so the percentage ceiling already covers it~~ | No second Capacity, no second number on an item. Closes the longest-standing PENDING in Part 2C |
-| **Aug 2026 · Phase 0** | **A universal flat Guard subtracts from the packet total and is redistributed**, not applied per Dimension | Per-Dimension subtraction made pure directions land 7 where an even three-way landed 1, at the same magnitude. That would have deleted the interior of every Dimension Space. Redistribution uses the same integer apportionment as Allocation Points — one mechanism, two uses |
+| **Aug 2026 · Phase 0** | **A universal flat Guard subtracts from the packet total and is redistributed**, not applied per Dimension | Per-Dimension subtraction made pure directions land 7 where an even three-way landed 1, at the same magnitude. That would have deleted the interior of every Dimension Space. Redistribution uses the same integer apportionment as Attempt Points — one mechanism, two uses |
 | **Aug 2026 · Phase 0** | A **Dimension-named** flat Guard still acts on that Dimension alone | Universal flat Guards are generic toughness; named Guards are specific resistance. Both idioms survive and mean different things |
 | **Aug 2026 · Phase 0** | A Guard **reduces toward zero and never past it** | Armour can stop harm; it can never turn harm into its opposite. Needed explicitly now that Dimension values are signed and redistributed |
 | **Aug 2026 · Phase 0** | The **fire-elemental stack is a content decision, not a Substrate hole** | An Entity that keeps an aura on itself is a large ability and gets priced per creature. The Substrate reserves **R-780**, unbounded in v1, as insurance — reserving a slot is free, and needing one after Campaigns exist is an Edition break |
@@ -2954,3 +2956,19 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | **Aug 2026 · L23** | **Every Dimension must be used on both signs** | Otherwise an axis dies because nothing points at it — how one published bestiary ended with a quarter of monsters immune to poison and almost nothing resisting force |
 | **Aug 2026 · L23** | **Conditions are not Channels** | Silence, invisibility, aging and knockback are States, Tags, Place and Scale. Five unrelated published systems reached this independently, and mixing them is what produces the dead type |
 | **Aug 2026 · reconciliation** | **Documentation reconciliation — stale counts, retired terms and superseded rows corrected corpus-wide** | Sockets two; Noun kinds four; Spaces five; Dimensions fourteen plus fifteen attempt; Moments nine; slots forty-one; Verb draft seven; Baseline in points; restoration positive-direction; Landing recast as the base Ruleset's landing spec. Supersession markers added to overruled rows. **No design decisions made**; open items routed to `open-questions.md` |
+| **Aug 2026 · Phase 2** | **Phase 2 is a computer beta, not paper — the developer playtest build** | Dylan's call, and the reasoning is airtight: nobody can do the vector arithmetic by hand and still have a good time, so a paper trial would test a simplification and its findings would not transfer. The beta *is* the paper phase — a website, everything visible, everything tunable, every log stored for analysis. The engine core moves forward into Phase 2 as a consequence, not a choice |
+| **Aug 2026 · Phase 2** | **Every playtest number is a hard-labeled tunable, changeable on the fly** | The build separates three kinds of value permanently: **frozen Substrate** (Verb shape, layers, determinism — never a dial), **settled Ruleset** (the lists), and **PLAYTEST tunables** (dice, point counts, allowances, visibility) that a developer changes mid-session from a tuning console. The registry lives in `beta-spec.md` |
+| **Aug 2026 · Q2.10** | **The Attempt roll, provisionally: d100 (two d10s) by default, d20 as the named alternate, arbitrary dice expressions supported** | A PLAYTEST tunable, not the Resolution occupant's final formula. The tuning console must allow swapping the expression mid-campaign, because comparing feels is the point |
+| **Aug 2026 · Q3.1** | **Attempt Points scale with the character; playtest default 5** | The shape Dylan wants: start around 3, grow to as many as the character can use. The count is a tunable; the scaling curve is character creation's problem, which is Phase 2 work |
+| **Aug 2026 · L28** | **Turn allowance: 20 doubloons, playtest default; scales with level and character** | A tunable. The price ladder is authored against it and tuned with it |
+| **Aug 2026 · Q4.2** | **Beta shows everything; the near-miss reveal is the release candidate** | In the developer build nothing is hidden in the slightest — bars, pipelines, pending vectors, all of it — because the testers are developers of the game. Hidden-bar play and the reveal-after-resolution gradient are release-mode settings, evaluated later against beta logs |
+| **Aug 2026 · Q3.7** | **Participation order is declaration order — whoever presses the button first** | When a capped stat fills, its button disables; contributors can still add to uncapped stats of the party-sized roll. Outside Ordered time, simultaneity breaks by nimbleness — the MOVEMENT dimensions — then the stable key. Deterministic, and honest about rewarding the decisive |
+| **Aug 2026 · Q3.9** | **The base person carries `standing`; `working` and `essence` are added per character** | Social consequence works out of the box — anyone can be slandered. Mystic Tracks attach to the characters that are mystic, which is the same absence-is-immunity logic the design already runs on: a person with no `essence` cannot be soulburned, and no rule says so |
+| **Aug 2026 · Q3.3** | **Ordered time begins when a vector is placed on an unwilling target; manual initiation always exists** | Willingness is a property of the placement — declared by content, refusable by the target's controller — never a stored label. The two-allies-racing case is covered by manual initiation and known to be outside the rule |
+| **Aug 2026 · Q3.8** | **Listener order: `substrate` → `mandatory` → `elective`, then `(layer, component_id, listener_id, target_entity_id, source_record_id)`** | The three semantic classes: engine-declared watches first, Component Listeners second, player-parameterised Standing Orders last — mandatory-before-optional, the one ordering the field fully specified (SEGOC). `source_record_id` closes the total-order hole the four-tuple left: same Listener, same target, two sources in one Moment now sorts |
+| **Aug 2026 · Q3.10** | **The Record-shape Listener form stays, with its research objections answered** | Records must be listenable — reflection and retribution depend on it. The three objections and their answers: *no natural refraction* — the form is edge-triggered by construction, matching only Records written since the Listener's last evaluation Moment; *false matches on corrected Records* — matching consults the compensation chain first, and a Record superseded before the evaluation Moment does not match; *breaks the static termination graph* — the form participates in the same cascade depth and per-Moment accounting as every other form, so termination is enforced dynamically where it cannot be proven statically |
+| **Aug 2026 · Q3.5** | **Turn-position defensive load: premise disputed, instrumented rather than ruled on** | Dylan's read: end-of-round effects land after everyone by definition, and most vectors land at the start of the *target's* turn — so every target accrues one round of arrivals regardless of initiative position. The beta logs arrivals-per-Moment per creature; if a positional skew exists, the data will show it |
+| **Aug 2026 · Q3.6** | **Shared-Track double-spend: beta default is reserve-at-declaration** | PROVISIONAL. When a scene spends from a Track shared across simultaneous scenes, the beta reserves the amount at declaration so the second scene sees the reduced balance. Trivial on a server, and the strictest option — relaxing later is safe, tightening later is not |
+| **Aug 2026 · Q5.1** | **There is no book. If one ever exists it is a reference to the website, after success — never the product** | The game is unplayable without the computer, so the ruleset is software and web documentation. The single-work trademark trap and the art-cost structure both largely dissolve; the platform filing basis stands |
+| **Aug 2026 · Q5.4** | **The system and the platform are one name. The company may carry a different one** | One filing for the thing players touch; the corporate wrapper decided separately, with a business entity planned to house the project |
+| **Aug 2026 · L6** | **The seven Verb arguments and the 19→7 collapse rationale written** | Recorded in `list-log.md`'s L6 entry. The draft stays a draft; the closing procedure still runs in Phase 2 against real content |
