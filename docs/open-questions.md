@@ -215,11 +215,9 @@ It is a built-in GM setting, so both work. **But the default decides what the ga
 
 ---
 
-## Q4.5 · What is solo play, exactly? — *new with the brand, August 2026*
+## Q4.5 · What is solo play, exactly? — **ANSWERED, August 2026**
 
-The Vectus identity board promises it twice: *"Jump in solo"* and *"Play solo or together — your choice."* The corpus never scoped a solo mode. Standing orders, asynchronous reports and authored content get most of the way to a GM-less loop — but somebody has to design who sets the Thresholds, who plays the world, and what a solo session's Dispatch looks like. Until that is scoped, the brand promise is ahead of the roadmap, which is the one kind of debt a brand should not carry long.
-
-**Options:** authored solo Adventures (content plays the GM — rails plus Deciders with defaults); an oracle-style GM emulator as a Component; or narrowing the promise to "start solo, learn solo" (character creation and tutorials) until one of the first two exists.
+**Authored Adventure modules that run without a GM** — content plays the GM: rails, pre-declared Thresholds, Deciders with defaults. Dylan's call, August 2026, and the sequencing with it: **in the pipeline before release, not immediately.** The website, character creation and creature stat blocks all come first; the brand promise and the roadmap now agree on the order.
 
 ---
 

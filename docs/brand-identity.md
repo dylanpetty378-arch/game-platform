@@ -1,6 +1,6 @@
 # Vectus — brand identity, the base design principles
 
-*Adopted August 2026 from Dylan's brand board. This document is the canonical transcription and interpretation of that board: everything on it, documented, mapped onto the system, and flagged where it touches a settled decision. The board itself is the visual source of truth — the master file belongs at `docs/brand/vectus-brand-board.png` (to be committed; the values below marked ⚠ should be re-sampled from the master before they are tokenized into CSS).*
+*Adopted August 2026 from Dylan's brand board. This document is the canonical transcription and interpretation of that board: everything on it, documented, mapped onto the system. The master file is committed at `docs/brand/VECTUS Brand Page.png`. One provenance rule for color: **the printed hex labels are authoritative; the render's pixels are not** — the board is a rendered image carrying a dark grade (its `paper` swatch samples at ≈#DBD4C6 against a printed #F3F2EE), so tokens come from the labels, and pixel sampling is only used where no label exists.*
 
 **The name is VECTUS.** The system and the platform, one name, exactly as Q5.4 decided. From *vector* — the word the whole design stands on. **Clearance has not been run**: before attachment hardens further, the knockout searches (USPTO classes 009/041/042, domains, handles, the existing Vectus-named companies in other industries) and the intent-to-use filing. That is the only thing between this board and the letterhead.
 
@@ -40,13 +40,13 @@ Usage seen on the board: mark + wordmark on Void (primary); mark alone on mercha
 
 | Token | Hex (as printed) | Role |
 |---|---|---|
-| `void` | `#0B0D11` ⚠ *(tiny label — verify against master; reads as 0B0D11 or 080D11)* | The background. Everything sits on Void |
+| `void` | `#080D11` *(settled by max-zoom read of the master)* | The background. Everything sits on Void |
 | `paper` | `#F3F2EE` | Primary text on Void; light surfaces |
 | `graphite` | `#21242A` | Cards, panels, elevated surfaces |
-| `steel` | `#394148` ⚠ *(verify)* | Borders, secondary text, disabled states |
+| `steel` | `#39414B` *(settled by max-zoom read of the master)* | Borders, secondary text, disabled states |
 | `signal` | `#22D3EE` | The platform's own accent — links, actives, the cyan in the system diagrams |
 
-**Dynamic Signal (by world):** the platform stays neutral and **each world sets its own signal color** — the board shows seven: orange, red, magenta, purple, blue, teal, green *(no hexes printed; sample from master — they read close to `#F59E0B` `#EF4444` `#EC4899` `#8B5CF6` `#3B82F6` `#14B8A6` `#22C55E` ⚠)*. This is the identity system's best idea: **one brand, per-world accents** — a Setting's entire UI tint changes with its signal while the platform chrome stays Void/Paper/Graphite. It maps directly onto the settled visual-identity strategy (typography-and-layout-led, procedural, per-Setting) and should become a per-Setting field the authoring tools expose.
+**Dynamic Signal (by world):** the platform stays neutral and **each world sets its own signal color** — the board shows seven, with no hexes printed. Sampled from the master's pixels (median of each swatch): orange `#EE9302` · red `#DA481D` · magenta `#CE4065` · purple `#503080` · blue `#2971DE` · teal `#27B3AA` · green `#7AAA18`. **Caveat:** the render's dark grade skews these (the same grade that darkens `paper`), the purple most visibly — when the design system is tokenized, normalize the seven to `signal`'s brightness family rather than shipping the raw samples. This is the identity system's best idea: **one brand, per-world accents** — a Setting's entire UI tint changes with its signal while the platform chrome stays Void/Paper/Graphite. It maps directly onto the settled visual-identity strategy (typography-and-layout-led, procedural, per-Setting) and should become a per-Setting field the authoring tools expose.
 
 **Vector colors in the diagrams** follow the signal family: each vector in an illustration gets one signal color, on Void, as a thin line with a small arrowhead and a dot at origin.
 
@@ -54,7 +54,7 @@ Usage seen on the board: mark + wordmark on Void (primary); mark alone on mercha
 
 | Face | Role | Note |
 |---|---|---|
-| **Aeonik Bold** | Display, headings, the wordmark's world | ⚠ **Commercial font — license required before shipping.** If unlicensed, the closest open stand-ins for the beta era are Space Grotesk or Archivo; decide before any public page |
+| **Aeonik Bold** *(the board's face — not licensed, not used)* | — | Superseded by Dylan's call: no bought font. **Space Grotesk Bold** is the working display face; a **custom Vectus typeface, repo-held,** is the end state |
 | **Inter Regular** | Body, UI, numbers | Free (OFL), ships everywhere, already the de-facto UI face |
 
 Display type is set in caps with wide tracking for labels (the board does this everywhere: THE VECTUS SYSTEM, BRAND ESSENCE), sentence case for body.
@@ -111,11 +111,11 @@ Web hero (essence statement + PLAY NOW on Void) · mobile app (the mark as icon)
 
 Documented rather than silently resolved; each is Dylan's call, with a recommended reconciliation:
 
-1. **"Virtual tabletop RPG platform" and the VTTRPG badge** sit directly against the settled positioning rule *refuse the VTT frame* (`branding-research.md`; `the-game.md`: "It isn't a virtual tabletop"). The reconciliation that keeps both: **VTTRPG is a coined category, not a membership claim** — Vectus is not a virtual tabletop that hosts other people's games; it is a *virtual tabletop RPG*, a game that **is** its own platform. The body copy already says this ("built for players first… every action is a vector"). If the badge stays, the category story must be told that way everywhere, or the comparison shopping lands us next to Roll20 and Foundry, which is the exact frame the research says loses. **Recommended: keep the badge, own the coinage, never say "VTT" unmodified.**
+1. ~~The VTTRPG badge vs the refuse-the-VTT-frame rule~~ — **RESOLVED, Dylan, August 2026: we own it.** VTTRPG is a coined category, not a membership claim: *a platform that is its own tabletop game in one.* Vectus does not host other people's games; it is a virtual tabletop RPG — the game **is** the platform. The category story gets told that way everywhere, and "VTT" never appears unmodified.
 2. **"Built for players, not game masters"** — a sharp positioning line, and the game *has* GMs (the GM names the Domain; GM tools are half the beta). Read it as "no GM homework required," which the design genuinely delivers (authored Thresholds, standing orders, async reports). Keep the line; never let the product make it a lie for the person running the table.
-3. **"Jump in solo" / "Play solo or together"** — a **new product promise**. The corpus never scoped solo play. Standing orders + async + authored content make a solo mode plausible, but somebody has to build the GM-less loop. Logged as **Q4.5** in `open-questions.md`; the brand should not outrun the roadmap on this one until it is scoped.
+3. ~~"Jump in solo" as an unscoped promise~~ — **RESOLVED, Dylan, August 2026:** solo play means **authored Adventure modules that run without a GM** — content plays the GM, on rails with Deciders and defaults. In the pipeline **before release, not immediately**; Q4.5 records it. The sequencing reality stands: website, character creation and creature stat blocks all come first.
 4. **"Build your own in minutes"** — consistent with the settled authoring line (*users author instances, never types*), and "minutes" becomes a real UX budget for the authoring tools. Noted in the Q4.4 territory.
-5. **Aeonik requires a license** (flag 1 under Typography). Budget it or pick the stand-in before anything public.
+5. ~~Aeonik's license~~ — **RESOLVED, Dylan, August 2026: no bought font.** A free near-alternative now — **Space Grotesk** for display is the closest free voice to the board (Archivo and Hanken Grotesk are the runners-up), with **Inter** staying for body and UI. And the stated ambition: **a custom Vectus typeface, made for the project and held in this repo** like everything else that is ours. When it exists it lives at `docs/brand/` (or the eventual asset package) under an open license we control, and it replaces the stand-in everywhere at once.
 6. **Vectus clearance** — the gating item, unchanged.
 
 ---
