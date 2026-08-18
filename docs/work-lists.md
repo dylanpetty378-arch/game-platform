@@ -12,7 +12,8 @@
 | **SETTLED** | L31 Timings — four, Aug 2026 |
 | **SETTLED** | L1 / L2 / L3 — nine Categories, nine universal fields, Aug 2026 |
 | **SETTLED** | L5 Tracks · L18 Aggregation — Aug 2026 |
-| **NEXT** | **L4 Tags** (compilation delivered, selection yours) · **L25 Conversions** · L7 · L26 |
+| **SETTLED** | L4 Tags (provisional, 22) · L25 Landing · L7 Layers — Aug 2026 |
+| **NEXT** | **L26 Listener conditions**, then **L6 Verbs — last** |
 | **THEN** | L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → **L6 last** |
 
 > **The architecture changed in August 2026.** Time and Budget stopped being Sockets and became Substrate. The reason was comprehensibility: a Socket is a hole in the *explanation*, not just the code, and every worked example had to caveat itself. The objection — that a Setting might want week-long turns — dissolved once it was clear that a **Component adds rather than replaces**: month-scale play and second-scale play never meet, so they need not share a machine. Full argument in `list-log.md`.
@@ -269,29 +270,40 @@ The Track merge collapsed most of it. **Track** clamps to its bounds · **Tag** 
 
 ---
 
-# L25 · Transient-to-Persistent conversions
+# ✅ L25 · Landing — SETTLED
 
-**Deciding:** what a vector that survives Guards actually does. **This is the Landing Socket's Vocabulary.**
+**The Track merge did most of the work.** Three of the eleven landing models in the research — *deplete a pool*, *fill a track*, *cross a bar and name a condition* — are all just **a Track**. So the default landing is one line: **subtract the resolved value from the Track the Dimension names, clamped to its bounds.**
 
-**Research-seeded.** `lists-research.md` §4 catalogues **eleven landing models** and proposes one for each of the fourteen Dimensions with a precedent for each. Three findings change the shape of the list: the universal architecture is **buffer → convert → name**; **nothing in the field uses an ablative pool for a capability axis**; and **the social axes never land on the target** — they land on a Connection or a public accumulator.
+**And that dissolves the field's worst recorded problem.** Bar-based landing is a magnitude-concentration incentive — Mythras ships forty special effects and players use the three that shove one blow over a bar, because harm below the bar did nothing. **A Track has no dead zone**, so small hits accumulate and eventually cross. Nothing was added to fix it.
 
-**The hazard to decide deliberately:** if one Dimension lands two different ways depending on magnitude, the landing stops being a pure function of the packet. Either Landing reads only the packet, or it must be handed the contributor list — and that would be a Substrate finding.
+The incentive returns only where a Threshold reads `highest` — still useful, now opt-in, and the Vocabulary says so where an author will read it.
 
-**This list got much more concrete.** It is now literally *fourteen rows* — one per non-attempt Dimension — each answering: when a surviving push on this axis lands, what persistent state does it address? The Dimension names were chosen so that the answer is nearly readable off the name, which is the payoff of the sign convention.
+**Four axes need something beyond the default:** `will` gets the **harden** mechanic (resisting makes future resistance easier — the one genuinely new piece); `regard` lands on a **Connection**, never the target, and a missing Connection is a rejection **Record**; `standing` and `essence` never restore on their own.
 
-**The mistake.** Assuming health. The Substrate ships no Resources; a Setting may legitimately have none. Health is one answer among several.
+**A Setting may ship no Tracks at all.** Masks and Mouse Guard are shipping proof.
 
 ---
 
-# L7 · The lattice outside resolution
+# ✅ L7 · Layers — SETTLED
 
-**Deciding:** the ordering slots for progression, economy, movement, knowledge and social standing.
+**Five regions, forty-one slots.** The resolution region closed in Phase 0; two were added for what happens *around* a Moment rather than inside a vector.
 
-**The resolution region is closed at thirty slots — E×5, C×6, R×19.** Phase 0 added R-750, R-780, R-850 and split the combine into R-800 and R-1000; restoration was pinned to R-1250. Do not reopen it; extend around it.
+```
+E- ×5   entity state settled
+M- ×5   THE MOMENT OPENS      ownership · budget · caps · scope · phenomena emit
+C- ×6   vectors created
+R- ×19  vectors resolve       closed in Phase 0
+X- ×6   THE MOMENT CLOSES     direct Verbs · restoration · progression ·
+                              knowledge · standing · cadence
+```
 
-**The test that produced it, and should produce the rest.** Take a mechanic you want. Write out what must already be settled before it can be computed. If no existing slot supplies it, that is a new slot.
+**Two orderings carry weight.** M-400 (scope) before M-500 (phenomena emit), so a fire covers where you are *now*. And X-100 after R-1400, so a Listener that produces a movement applies it after resolution rather than during.
 
-**Err high.** Gaps of 100. An unused slot costs nothing; a missing one is a foundation break.
+**Not every Verb is a vector.** Move, transfer, set and spend have no magnitude to modify and meet no Guards — they pin to **X-100** rather than running nineteen slots of theatre. This was implicit and is now stated.
+
+**A turn contains several Moments.** Move-then-attack is two, which is why scope refreshes between them.
+
+**Honestly: this is the least-grounded settled list.** The R-region's slots each came from a worked case that failed without them; M- and X- came from asking what must be true before R-100 and what reads the result. Gaps of 100 throughout — **expect these regions to gain slots in Phase 2, and treat that as normal.**
 
 ---
 

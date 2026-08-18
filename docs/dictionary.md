@@ -2111,19 +2111,64 @@ Three of those were added by running the consequence test on eight fictional act
 
 ---
 
-## L7 · Layers — PARTIAL · BLOCKING
+## L7 · Layers — **SETTLED, Aug 2026**
 
-**What it is.** The fixed precedence lattice. A Component never says "I modify speed" — it says "I modify speed *at R-500*."
+**What it is.** The fixed precedence lattice. A Component never says *"I modify speed"* — it says *"I modify speed at R-500."*
 
-**Status.** The **resolution region is drafted** — three regions and thirty slots (E×5, C×6, R×19), in Part 2A, every one forced by a worked case rather than guessed. Phase 0 added R-750 (Scale conversion), R-780 (standing-vector cap, reserved), R-850 (flat Guards, per source), and split the combine into R-800 (within a source) and R-1000 (across sources). What remains is everything outside resolution: progression, economy, movement, knowledge, social standing.
+**Five regions, forty-one slots.** The resolution region closed in Phase 0; two regions were added in August 2026 for everything that happens around a Moment rather than inside a vector.
 
-**Shape of an entry.** A number, a name, what belongs there, and which earlier layers it may depend on.
+```
+E-  ×5    entity state settled              existing
+M-  ×5    THE MOMENT OPENS                  NEW
+C-  ×6    vectors created                   existing
+R-  ×19   vectors resolve, per target       existing, closed in Phase 0
+X-  ×6    THE MOMENT CLOSES                 NEW
+```
 
-**Constraints.** Fixed and permanent. Numbered with gaps so slots can be inserted later — 100 across most of a region, 50 where two stages already sit close (R-300 and R-350). **Each layer may depend only on layers before it** — getting that dependency order right *is* the work.
+### M-region — the Moment opens
 
-**The hard part.** Err high. An unused layer costs nothing; a missing one is a foundation break. Magic needed seven and thirty years, and still surprises people about one time in a hundred.
+Everything the R-region needs to be true before a single vector is gathered.
 
-**The test that produced the drafted region, and should produce the rest:** take a mechanic you want, write out what must already be settled before it can be computed, and see whether an existing slot supplies it. Every slot in Part 2A came from a case where the answer was no.
+| | | Why it is here |
+|---|---|---|
+| **M-100** | turn ownership established | `respond` and `interrupt` are defined in terms of *mine / not mine*, so this must be settled before any cost is eligible |
+| **M-200** | budget refresh | doubloons restored per the Budget. Must precede any payment this Moment |
+| **M-300** | cap reset | per-Moment and per-round `cap` counters clear |
+| **M-400** | scope refresh | standing vectors re-evaluate what they cover, using positions as of now |
+| **M-500** | phenomena emit | a fire, plague or curse places its vectors for this Moment, into the scope settled at M-400 |
+
+**M-400 before M-500 is the load-bearing order**, and it is what makes movement work: a creature that moved in a previous Moment is covered by the fire's *new* scope, not its old one. **M-500 before C-100** so a Phenomenon's vectors exist in time to be gathered.
+
+### X-region — the Moment closes
+
+| | | Why it is here |
+|---|---|---|
+| **X-100** | direct Verbs apply | state changes that are not vectors: move, transfer, set, spend. They have no magnitude to modify and meet no Guards, so they do not belong in R |
+| **X-200** | Track restoration | natural recovery, per the Setting's Landing occupant |
+| **X-300** | progression accrues | experience, advancement, anything that reads what happened |
+| **X-400** | knowledge propagates | Almanac updates from what was observed |
+| **X-500** | standing propagates | social consequence spreads outward through Connections |
+| **X-600** | cadence emission | Dispatch and Chronicle |
+
+**X-100 after R-1400 matters:** a Listener that fires on a landed vector may produce a movement, and that movement must apply after the Listener has run, not during resolution.
+
+**X-300 after X-100** because progression reads final positions. **X-400 before X-500** because you cannot spread a reputation for something nobody knows.
+
+### Not every Verb is a vector
+
+The R-region is the **vector** pipeline: modify, clamp, scale, combine, meet Guards, land. A Verb that simply sets state — moving, transferring an Item, spending doubloons — has no magnitude to modify and no Guard to meet, and running it through nineteen slots would be theatre. **Those pin to X-100.**
+
+This was implicit before and is now stated, because a Component author needs to know which pipeline their Verb is in.
+
+### A turn contains several Moments
+
+Move-then-attack is two Moments, not one, which is why scope refreshes at M-400 of the second. That falls out of *a Moment is a named point a vector is pinned to*, and it is the reason movement needs no special interaction with resolution.
+
+### Status, honestly
+
+**This is the least-grounded settled list.** The R-region's nineteen slots each came from a worked case that failed without them. The M- and X-regions came from asking *what must be true before R-100* and *what reads the result*, which is weaker evidence. Numbering leaves gaps of 100 throughout, and **an unused slot costs nothing while a missing one is a foundation break** — so expect these regions to gain slots during Phase 2, and expect that to be normal rather than alarming.
+
+**Constraints.** Fixed and permanent. **Each layer may depend only on layers before it** — getting that dependency order right *is* the work.
 
 ---
 
@@ -2319,39 +2364,60 @@ Everything on the resolution path was settled in Phase 0: contributions add, per
 
 ---
 
-## L25 · Transient-to-Persistent conversions — PENDING · BLOCKING
+## L25 · Landing — **SETTLED, Aug 2026**
 
-**SETTLED (plumbing, not a design choice) — the packet handed to Landing carries the contributor breakdown, not just the combined totals.**
+**What a vector that survives Guards actually does. This is the Landing Socket's Vocabulary.**
 
-Worked example. A Setting lands `vitality` two ways: every surviving point reduces a `health` Resource, **and** a single landing over 10 applies the State `maimed`.
+### The Track merge did most of this list's work
 
-```
-Kira is struck by three attackers in the same Moment.
-Surviving vitality contributions:      −6      −5      −4
-R-1000 combines across sources:            vitality −15
-```
+The research catalogued eleven landing models. Three of them — *deplete a pool*, *fill a track*, and *cross a bar and name a condition* — **are all just a Track.** A Track has a current, a maximum and bands with Thresholds, so pushing it down does all three at once.
 
-The pool rule is unambiguous: `health −15`. The bar rule is not. **The packet is 15, which clears the bar — but no single blow was over 10.** And the packet arriving at R-1200 is just `[vitality −15]`; it has forgotten that it was three contributions.
+**So the default landing is one line: subtract the resolved value from the Track named by the Dimension, clamped to its bounds.** Bands change as Thresholds are crossed. Restoration is a positive push at R-1250.
 
-The two readings are different games. **Sum** means three small attackers can maim by teaming up. **Highest** means only one big blow can — which is exactly the all-in-strike incentive recorded in Mythras. Both are legitimate; the Substrate currently cannot express the second at Landing, because the information is gone by then.
+### And that dissolves the worst recorded problem in the field
 
-The Threshold aggregation modes (`sum`, `highest`, `each`) already exist as vocabulary — but they were settled for Thresholds *earlier in the lattice*, where contributors are still separate. Landing is downstream of R-1000.
+**Bar-based landing is a magnitude-concentration incentive.** Mythras ships forty-odd special effects and players converge on exactly three — *Choose Location*, *Bypass Armour*, *Maximise Damage* — all of which exist to shove one blow over a bar. Harm below the bar did nothing at all, so one big hit strictly beat several small ones with the same total.
 
-**Why this needed no decision.** Critical hits and armour-piercing wounds work this way in every published game; a Landing that cannot see individual blows cannot express them. R-850 already operates once per contributing source so the breakdown exists inside the lattice anyway, and the Resolution Record is already required to make every slot derivable, so it is already being written down. This was briefly written up as a fork in the road; it was not one.
+**A Track has no dead zone.** Every point moves the number even when it does not change the band, so small hits accumulate and eventually cross. Nothing had to be added to fix this; it fell out of the shape.
 
-**The cost, which is real but small:** the Landing Component becomes order-sensitive and must state its sort key in its SPEC.
+**The incentive returns only if a Threshold reads `highest`.** That mode still exists and is still useful — a single devastating blow *should* be able to maim where a hundred scratches cannot — but it is now an opt-in extra on top of a Track that already banks everything, rather than the default behaviour of the whole system. **The Landing Vocabulary must say so where an author will read it.**
 
-**The playtest note worth carrying, which is the part that actually matters.** A rule that reads `highest` — triggering off the single biggest blow — pushes players toward one huge attack instead of several small ones. Mythras ships 40-odd special effects and players converge on the three that exist to shove one hit over a bar. This is not a reason to forbid `highest`; it is a reason to expect it in the numbers, and the Landing Vocabulary should say so where an author will read it.
+### The fourteen rows
 
-**Research: `lists-research.md` §4.** Eleven landing models are catalogued there, with a proposed model for each of the fourteen Dimensions and a precedent for each. The three findings that change the shape of this list: the universal architecture in the field is **buffer → convert → name** (so the buffer belongs to the Landing Component and is never durable); **nothing uses an ablative pool for a capability axis**, which splits the physical block cleanly; and **the social axes never land on the target** — they land on a Connection or a public accumulator.
+Default unless stated. `restores` says how a Track comes back on its own.
 
-**What it is.** How a Packet that survived Channel interaction and Guards becomes an actual change to something Persistent.
+| Dimension | Lands on | Restores | Special |
+|---|---|---|---|
+| `vitality` | `vitality` | assisted | at zero, the Setting decides — death, dying, or a Threshold to something else |
+| `vigor` | `vigor` | naturally | — |
+| `mobility` | `mobility` | naturally, and by a Verb | standing up is a Verb, not a timer |
+| `acuity` | `acuity` | naturally | — |
+| `integrity` | `integrity` | **only by repair** | at zero, `Item` typically converts to a destroyed band |
+| `substance` | `substance` | **never** | matter removed is gone. Needs an explicit restoration Verb |
+| `composure` | `composure` | naturally, fast | the buffer-like axis; empties and refills within a scene |
+| `clarity` | `clarity` | naturally | — |
+| `will` | `will` | naturally | **HARDEN — see below** |
+| `standing` | `standing` | **never on its own** | eroded only by *growing a different reputation* — the Ars Magica rule |
+| `regard` | `regard` **on a Connection** | never on its own | **lands on the holder's Connection, never on the target.** If no Connection exists, the packet is **rejected and the rejection is a Record** |
+| `essence` | `essence` | **never** | the axis that does not come back. A Setting that wants it to must supply a Verb |
+| `temperature` | `temperature` | **naturally, toward the centre** | bipolar — pushes move toward or away from temperate, and both ends have Thresholds |
+| `working` | `working` | naturally, toward the centre | bipolar — same shape |
 
-**Why it matters.** This is the last step of every interaction in the game, and it is where "you took 4 damage" actually happens.
+### The one genuinely new mechanism: harden
 
-**The open question.** Given a surviving Packet with values spread across several Dimensions, how much Health is lost? Sum of magnitudes? Weighted per Dimension? A separate conversion per Persistent Channel?
+**`will` is two-signed.** Resisting a push on `will` notches a second counter that makes future resistance easier; failing notches a counter that makes it harder. No physical system in the survey makes you harder to injure by injuring you; **every serious mental system does** — Unknown Armies' hardened and failed notches, Delta Green's Adaptation, Call of Cthulhu's bout immunity.
 
-**The hard part.** Different Persistent Channels probably convert differently — the same Packet might cost a lot of Health and no Standing, and a different one the reverse. That suggests one conversion rule *per Persistent Channel*, which is more work but more expressive.
+It is the single most transferable idea in the landing research and the only place L25 asks for machinery a Track does not already provide.
+
+### What the Landing occupant still decides
+
+Which Tracks exist in this Setting at all · the band names and their Threshold values · what happens when a Track reaches zero · whether any extra `highest` or `each` Thresholds exist · and the restoration rules above.
+
+**A Setting may ship no Tracks at all.** Masks has five conditions and no numbers; Mouse Guard has six. Both are shipping proof that a resourceless Setting plays.
+
+**And a packet with nowhere to go is a Record, never a silent drop.** See *The three ways nothing happens* in Part 2A.
+
+**Depends on:** L22, L5. **Blocks:** every Component with persistent consequence.
 
 ---
 
@@ -2614,6 +2680,9 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 
 | Date | Decision | Reasoning |
 |---|---|---|
+| **Aug 2026** | **L25 settled — the Track merge made the default landing one line** | Subtract the resolved value from the Track the Dimension names, clamped. Three of the eleven landing models catalogued were all just *a Track*. And it dissolves the Mythras all-in-strike problem: a Track has no dead zone, so small hits accumulate. The incentive returns only if a Threshold reads `highest`, which is now opt-in |
+| **Aug 2026** | **`will` gets the harden mechanic** | Resisting notches a counter that makes future resistance easier. No physical system makes you harder to injure by injuring you; every serious mental system does — Unknown Armies, Delta Green, Call of Cthulhu. The only place L25 needs machinery a Track does not already provide |
+| **Aug 2026** | **L7 settled — five regions, forty-one slots; M- and X- added** | M- is what must be true before R-100 (ownership, budget, caps, scope, phenomena); X- is what reads the result (direct Verbs, restoration, progression, knowledge, standing, cadence). **Not every Verb is a vector** — direct state changes pin to X-100 rather than running nineteen slots of theatre |
 | **Aug 2026** | **State and Resource merged into Track — four Noun kinds, not five** | `vitality 18/22`, `composure 5/9` and `doubloons 44/60` are one mechanism: a max, a current, and something that pushes it. Nothing was lost — *exclusive within an axis* is trivial when the axis holds one number, and *payable* became a flag rather than a kind |
 | **Aug 2026** | **A Track is the persistent counterpart of a Dimension; named conditions are bands** | There is no `prone` State — there is a `mobility` Track and a word for a range of it. This makes inflicting charm mechanically identical to throwing a fireball, which was the point. Bands are Ruleset content; Tracks and Thresholds are Substrate |
 | **Aug 2026** | **Every Dimension pushes at least one Track — a CI invariant** | A Dimension with nothing to land on is a dead axis, which is the failure that leaves a quarter of a bestiary immune to poison and nothing resisting force |
