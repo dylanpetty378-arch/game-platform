@@ -10,7 +10,8 @@
 | **SETTLED IN SHAPE** | L27 Sockets (three) · L28 Economy (one unit, three-field cost) |
 | **SETTLED** | L32 Moment kinds — eight, Aug 2026 |
 | **SETTLED** | L31 Timings — four, Aug 2026 |
-| **NEXT** | **L1 / L2 / L3** — Categories, Universal Attributes, Category Attributes, plus the three character sheets |
+| **SETTLED** | L1 / L2 / L3 — nine Categories, nine universal fields, Aug 2026 |
+| **NEXT** | **L4 Tags · L5 States · L18 Aggregation · L25 Conversions** |
 | **THEN** | L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → **L6 last** |
 
 > **The architecture changed in August 2026.** Time and Budget stopped being Sockets and became Substrate. The reason was comprehensibility: a Socket is a hole in the *explanation*, not just the code, and every worked example had to caveat itself. The objection — that a Setting might want week-long turns — dissolved once it was clear that a **Component adds rather than replaces**: month-scale play and second-scale play never meet, so they need not share a machine. Full argument in `list-log.md`.
@@ -53,10 +54,10 @@ L32  Moment kinds          ── SETTLED · eight, every reference carrying a r
  ↓
 L31  Timings               ── SETTLED · four: own, any, respond, interrupt
  ↓
-L1 ── L2 ── L3             ── Categories, Universal, Category Attributes    ◄ HERE
-                              (and the three character sheets)
+L1 ── L2 ── L3             ── SETTLED · nine Categories, nine universal fields
+                              (character sheets deferred until creation is designed)
  ↓
-L4 Tags ── L5 States ── L18 Aggregation ── L25 Conversions
+L4 Tags ── L5 States ── L18 Aggregation ── L25 Conversions          ◄ HERE
  ↓
 L7   the lattice outside resolution
  ↓
@@ -208,33 +209,23 @@ Blink      cost 15   timing interrupt   trigger: someone attacks me
 
 ---
 
-# L1 · Categories, L2 · Universal Attributes, L3 · Category Attributes
+# ✅ L1 / L2 / L3 — SETTLED
 
-**Deciding:** what kinds of thing exist, what every Entity has, and what each kind adds.
+**Nine Categories.** `Vector` · `Proposal` · `Relationship` (Substrate, enforced shape) and `Creature` · `Item` · `Place` · `Group` · `Notion` · `Phenomenon` (base Ruleset).
 
-**Do L2 second, and keep it brutally short.** Test each candidate against a rumour, a lock, a faction and a storm. If any of those does not need it, it is a Category Attribute.
+**A Category is a named bundle of the data a thing needs in order to participate** — not a taxonomy and not a claim about what something is. **They compose:** a sentient sword is `Item` + `Creature`, and the result is the union of both bundles.
 
-**What the settled lists changed here:**
+**`Creature` means *can act*, not *is alive*.** Anything that rolls, is played, or places vectors carries it — a haunted anchor, a sentient storm, a scheming guild.
 
-- **The fifteen attempt Dimensions are not universal.** A building never attempts a grapple; a Relationship never rolls. They belong to whichever Categories can *attempt*, which is L3, not L2.
-- **The fourteen non-attempt Dimensions are closer to universal**, because anything that can be targeted can be pushed on them — but "can be targeted" may itself be the test that splits L2 from L3.
-- **Relationship is a Category of Entity**, holding one Connection per participant, each stance stored independently. Never an edge. That is already a settled L1 row.
-- **A Proposal is an Entity**, and so is a pending vector. If either needs Attributes, they are Categories.
-- **Scale is on everything**, including parts, and it is not optional. That looks like an L2 row.
+**Nine universal fields:** `id` · `category` · `tags` · `links` · `scale` · `facets`, plus one slot per Noun kind — `capacities` · `states` · `resources`. The Noun slots cannot live in `facets`, because rule 1 forbids reading another Component's Facets while Listeners, Guards and Thresholds cross Component lines by design.
 
-**The question to settle first, and the research says the obvious answer may be wrong.** *Does a ship, faction or place need to* **attempt** *things, or only to be targeted?* Star Trek Adventures gives ships the same six attributes as characters — and **the ship does not act. It assists.** Characters roll their own stats and an assisted roll is made for the ship. That is the best-regarded implementation in the field, and it refuses the symmetry. Worth a decision rather than an assumption.
+**`links` replaced a hard-coded `part_of`.** A relation is an ID with declared traits, stored on the holder: `part_of` (exclusive, acyclic, cascades — the only one the Substrate reads) · `member_of` (many) · `carried_by` · `controlled_by` · `owned_by`. A door is *part of* a ship; a person is *member of* a guild, and can be a member of several.
 
-**The mistake in L1.** A Category that brings no Attributes is a Tag.
+**Most immunity is absence.** A vase has no `composure`, so a fear vector resolves perfectly normally and lands on nothing. You never write *"vases are immune to fear"* — the data not being there **is** the immunity. Declared immunity at R-600 is the rarer case of a thing that has the state and is protected anyway. Landing writes a Record when a packet arrives with nowhere to go, because "nothing happened" must never be indistinguishable from a bug.
 
-**Done when:** the three character sheets can be written entirely from L1–L3 plus L29.
+**PC and NPC are not Categories.** Same fields, same rules. A character's numbers come from a creation process; a bestiary entry's are typed in.
 
----
-
-## The three character sheets — do these alongside L1–L3
-
-Write the person's sheet first, at the most detailed Lens you can imagine. Then write one for **a ship** and one for **a faction**.
-
-**The values only a person needs are the test.** If there are many, the Substrate is a person schema in a costume.
+**The three character sheets are deferred** until character creation is designed — what a sheet shows is downstream of how a character is made.
 
 ---
 

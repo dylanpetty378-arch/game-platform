@@ -603,6 +603,25 @@ R-600   clamp                   floors, ceilings, immunity
 
 **A modifier that creates a vector does not also modify it.** No double-dipping. One pass per modifier per vector.
 
+## The three ways nothing happens — and the default one is absence
+
+A vector can arrive and change nothing for three different reasons. They are not variations of one idea; they act at different layers and read differently in the expansion.
+
+| | Where | What it is |
+|---|---|---|
+| **Clamped** | R-600 | declared immunity. The magnitude is zeroed inside the vector's own assembly and never reaches the target |
+| **Guarded** | R-850 / R-1050 | armour or constitution reduced it to zero. A real number arrived and was met |
+| **Nothing to land on** | R-1200 | the packet resolved perfectly normally, arrived intact, and **the target has no state on that axis** |
+
+**The third is the default, and it is how most "immunity" in this system works.** A vase has no `composure` and no `clarity`, because a vase has nothing those Dimensions could address. Throw fear at it and the vector resolves, the magnitude is real, and Landing has nowhere to put it.
+
+**You never write "vases are immune to fear."** The vase's data does not include the thing fear changes, and that *is* the immunity. Declared immunity at R-600 is for the rarer case where a thing genuinely has the state and something protects it anyway — a mind that cannot be frightened is not the same as no mind.
+
+Two consequences worth holding:
+
+- **A broad Channel is naturally weaker against a narrow target.** A Channel positioned at `integrity −70 / composure −30` lands seventy against the vase and drops thirty, because there is nothing on the second axis. Nothing had to say so; it falls out of the target's data. This is a real balancing lever and content should be authored knowing it exists.
+- **It must never be silent.** "Nothing happened" is indistinguishable from a bug, and a player who throws fear at a vase deserves to see why. **Landing writes a Record when a packet arrives with nowhere to go**, naming the Dimensions that had no target. Same discipline as a social packet rejected for lack of a Connection: a rejection is a Record, never a silent drop.
+
 **Immunity is a clamp, not a −100%.** Percentages sum, so a −100% "immunity" would be cancelled by any +50% modifier an enemy applies. Immunity clamps the magnitude to zero at R-600, where nothing can add it back. This is the reason the clamp layer is load-bearing rather than decorative.
 
 **Rounding mode: truncate toward zero**, applied once at R-400. Toward zero rather than down, so signed values (cold is negative temperature) behave symmetrically. A knowable consequence: a target with a percentage reduction fares very slightly differently against many small hits than against one large one. That is deliberate and stable, not drift.
@@ -1831,49 +1850,144 @@ L21 came before L29 because the attempt Dimensions live inside the attempt Space
 
 ---
 
-## L1 · Categories — PENDING · BLOCKING
+## L1 · Categories — **SETTLED, Aug 2026**
 
-**What it is.** The labels an Entity may carry saying what kind of thing it is. An Entity may carry several at once; each brings its own Attributes.
+**A Category is a named bundle of the data a thing needs in order to participate.** Not a taxonomy, not a type hierarchy, and not a claim about what something *is*. It is the answer to *what does this need in order to be acted upon, and to act*.
 
-**What depends on it.** L3 (Category Attributes) entirely. Every authoring form. Which Components attach to which Entities.
+**Categories compose. An Entity carries as many as apply, and the result is the union of their bundles.** A sword with a consciousness is `Item` **and** `Creature`. An elemental plague is `Phenomenon` **and** `Creature`. Nothing special happens at the join; two bundles naming the same field name one field.
 
-**Shape of an entry.** A name, a description, the Attributes it adds, and whether it can combine with everything or conflicts with anything.
+**`Creature` means *can act*, and nothing about biology.** Anything that rolls, is played, or places vectors carries it. A haunted anchor, a sentient storm and a scheming guild are all Creatures in this sense, because all three do things. That is what the word means here, and it is worth saying loudly because it will read as wrong the first time.
 
-**Constraints.** Permanent once shipped. Compose rather than nest — no single tree. Should stay small; Tags carry the long tail.
+### Substrate — shapes the engine itself enforces
 
-**Working draft.** Physical: `being` · `object` · `structure` · `place` · `substance`. Non-physical: `group` · `relationship` · `information` · `occasion`. Overlays: `character` · `vehicle` · `container` · `portal`.
+| Category | Enforced shape |
+|---|---|
+| `Vector` | direction · magnitude · target (exactly one) · pin · layer · class |
+| `Proposal` | decider · Moment · default · subject |
+| `Relationship` | one Connection per participant, each stance stored independently — never an edge |
 
-**The hard part.** Deciding what is a Category versus a Tag. A Category adds *structure* (new Attributes); a Tag adds *membership* (no new fields). If it doesn't need new Attributes, it's a Tag.
+### Base Ruleset — the default game
 
-**Start by** taking twenty things from across the reference Settings — a warship, a plague, a guild, a mountain pass, a forged letter — and asking which Categories each needs. The ones nothing needs, cut.
+| Category | What it is | Brings (detail in L3) |
+|---|---|---|
+| `Creature` | anything that acts — rolls, is played, places vectors | attempt Capacities · `vitality` · posture, awareness and consciousness axes · Specialisations |
+| `Item` | made or found; carried, used, broken | `integrity` · mass and bulk Tags · Guards |
+| `Place` | somewhere things are | extent and containment, per the Place Socket |
+| `Group` | a party, crew, faction, guild | membership · the social Dimensions' landing · group Resources |
+| `Notion` | a rumour, secret, law, debt | provenance and spread; **no location, no harm pipeline** |
+| `Phenomenon` | a fire, storm, plague, curse | a standing vector · an intensity axis · a fuel-like Resource |
+
+**PC and NPC are not Categories.** Same fields, same rules, same sheet. The difference is who decides, which is a `controlled_by` link and a Decider — not a schema. A creature that is not a character simply has its numbers entered directly, without the authoring path a player character goes through; the data is identical.
+
+**What being un-Categorised means.** An Entity with no Category is legal and is a thing in the world with nothing but identity, Tags and links. Most content will carry one or two.
+
+**Depends on:** nothing. **Blocks:** L3, the authoring forms, and L6.
 
 ---
 
-## L2 · Universal Attributes — PENDING · BLOCKING
+## L2 · Universal Attributes — **SETTLED, Aug 2026**
 
-**What it is.** Attributes present on every Entity, regardless of Category.
+Every Entity, no exceptions. Nine fields in three groups.
 
-**What depends on it.** Everything. This is the smallest and most permanent list in the system.
+### Structure — six
 
-**Shape of an entry.** A name, what it means, its Dimension Space if it has one, and its default when unspecified (which under open-world is *unknown*, not zero).
+| Field | | |
+|---|---|---|
+| `id` | permanent numeric, never reused | derived structurally from the creating Record, so two folds of one Ledger allocate identically |
+| `category` | zero or more | composes; the union of the bundles |
+| `tags` | zero or more, optional magnitude | open, Component-extensible forever, never implies another Tag |
+| `links` | zero or more `(relation, target)` pairs | see below |
+| `scale` | optional integer | Substrate, because R-750 and parts legality read it and rule 1 forbids reading Facets |
+| `facets` | per-Component data | the escape hatch — anything that is not one of the five Noun kinds |
 
-**Constraints.** Keep it brutally short. Anything not needed by literally every Entity belongs in L3.
+### Noun slots — three
 
-**The hard part.** Almost nothing is genuinely universal. Identity and Scale are. Beyond that, be suspicious of every candidate.
+The five Noun kinds need somewhere the Substrate can read **uniformly**. `facets` cannot be that place: rule 1 forbids reading another Component's Facets, while a Listener watching a State, a Guard reading a Resource and a Threshold reading a Capacity all cross Component lines by design.
 
-**Start by** writing down what a bare Entity created mid-sentence by a GM — "there's a crowbar by the door" — must have to be valid. That is the list.
+So each kind gets a slot. **The Substrate owns the shape; Components own the definitions** — the arrangement `tags` already has.
+
+| Slot | Holds | Aggregates by |
+|---|---|---|
+| `capacities` | Capacity ID → value. The fifteen attempt Dimensions live here | — |
+| `states` | axis → State ID, optional magnitude | `max`, never sum |
+| `resources` | Resource ID → value, with Thresholds | `clamp` |
+
+`tags` doubles as the fourth slot. **Relationship needs no slot — it is an Entity.**
+
+### Not fields, each for a reason
+
+| | Why not |
+|---|---|
+| `exists` | split — destruction is a **State** on a lifecycle axis; retraction is a compensating Record and the Entity is simply not produced by the Fold |
+| `location` | the **Place Socket's** Facet. Only the occupant interprets it, and the Substrate never needs to |
+| `name` | a **Lens** concern, Setting-specific, and the likeliest place for rule 10 to be violated |
+| `mass`, `bulk` | **Tags**, with magnitudes |
+| `hardness` | a **flat Guard** at R-850, not an attribute at all |
+| the fourteen Dimensions | axes a **vector** travels on, never fields on a target |
+| the inverse of any link | **derived by the Fold.** Writing both directions is denormalisation, and denormalisation desyncs |
 
 ---
 
-## L3 · Category Attributes — PENDING · BLOCKING
+## Links — the relations, and why the field is generic
 
-**What it is.** The Attributes each Category adds. Depends on L1.
+**`links` replaced a hard-coded `part_of` field, and the reason is a recorded near-miss.** The research on entity systems was explicit: Flecs and Bevy each shipped a bespoke parent/child mechanism, each hit a second structural relation, and each rebuilt it as a general relationship system — ten years apart, independent teams. The warning was that *"if a second one ever shows up, you will be rebuilding Flecs, and it will be after the Substrate is frozen."*
 
-**Shape of an entry.** Category name, then per Attribute: name, meaning, Dimension Space, default.
+The second one showed up immediately. **A door is *part of* a ship; a person is not *part of* a guild.** Composition and membership have different cardinality, different cascade behaviour and different meaning, and one exclusive parent field cannot carry both.
 
-**The hard part.** Overlap. If both `being` and `vehicle` want a "speed," is that one Attribute defined once, or two? Rule of thumb: if the same word means the same thing, define it once at the most general Category that needs it.
+**A relation is an ID with declared traits, so a new one is a new ID rather than a new field** — additive-only by construction, and a Setting may publish its own forever.
 
-**Start by** doing `place` first. It is the smallest, and it is the first thing anyone building a setting authors.
+| Relation | Tier | Traits |
+|---|---|---|
+| `part_of` | **Substrate** | exclusive · acyclic · **cascades** — the only relation the Substrate itself reads, because destruction cascade and Scale legality depend on it |
+| `member_of` | base Ruleset | many · no cascade |
+| `carried_by` | base Ruleset | exclusive · no cascade |
+| `controlled_by` | base Ruleset | exclusive · no cascade — this is how a player character differs from a creature |
+| `owned_by` | base Ruleset | exclusive · no cascade |
+
+**Convention: a relation is named from the holder's point of view and stored on the holder.** `part_of`, `carried_by`, `owned_by` — always *this thing → that thing*, never a list on the far side. That is what makes every structural change a single-target Verb, which the Verb shape requires.
+
+**Location is not a relation.** *Where something is* belongs to the Place Socket's Facet, because only the occupant can say what a position means.
+
+**Cascade is a fold rule, not a Verb side-effect:** `effective_state(e)` reads through `part_of` to the whole. A Verb that silently wrote to fifty descendants would violate rule 8a and be untestable.
+
+---
+
+## L3 · Category Attributes — **SETTLED, Aug 2026**
+
+What each Category brings. Substrate Categories bring an enforced shape; Ruleset Categories bring default field presence.
+
+### Substrate
+
+```
+Vector        direction · magnitude · target (exactly one) · pin · layer · class
+Proposal      decider · moment · default · subject
+Relationship  connections[] — one per participant: holder · about · stance
+```
+
+### Base Ruleset
+
+| Category | Capacities | Resources | State axes | Other |
+|---|---|---|---|---|
+| `Creature` | the fifteen attempt Dimensions | `vitality` | posture · awareness · consciousness | Specialisations |
+| `Item` | — | `integrity` | access | `mass` and `bulk` Tags; Guards |
+| `Place` | — | — | — | extent and containment, per the Place Socket |
+| `Group` | attempt Dimensions **if it acts** — i.e. if it is also a `Creature` | `standing` | posture | membership via `member_of` |
+| `Notion` | — | `credibility` | spread | provenance; **no location, no harm pipeline** |
+| `Phenomenon` | — | `fuel` | intensity | a standing vector, scoped by Place |
+
+**The absence of a row is the mechanism, not an omission.** `Item` has no mental State axes and no `composure`, which is exactly why a mental vector against a vase resolves fully and lands on nothing. See *The three ways nothing happens* in Part 2A.
+
+**A composed Entity takes the union.** A sentient sword is `Item` + `Creature`: it has `integrity` *and* `vitality`, mass *and* attempt Capacities, and it can be both smashed and frightened.
+
+**Depends on:** L1, L2. **Blocks:** the authoring forms, the character sheets, L6.
+
+---
+
+## The three character sheets — **DEFERRED, and deliberately**
+
+Person, ship and faction were to be written here as the test of L1–L3. They are deferred until **character creation** is designed, because what a sheet shows is downstream of how a character is made, not upstream of it. Writing the sheet first would bake in an authoring path nobody has chosen.
+
+What L1–L3 already settle: **every Creature carries the same fields whether or not a player made it.** A character goes through a creation process that produces those numbers from choices; a bestiary entry has the numbers typed in directly. Same schema, same rules, two authoring paths.
 
 ---
 
@@ -2431,6 +2545,10 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 
 | Date | Decision | Reasoning |
 |---|---|---|
+| **Aug 2026** | **L1/L2/L3 settled — nine Categories, nine universal fields** | A Category is a **bundle of data needed to participate**, not a taxonomy, and Categories **compose**: a sentient sword is Item + Creature. `Creature` means *can act*, not *is alive* |
+| **Aug 2026** | **Most immunity is absence, not a rule** | A vase has no `composure`, so a fear vector resolves fully and lands on nothing. You never write "vases are immune to fear" — the data not being there **is** the immunity. Declared immunity at R-600 is the rarer case of a thing that has the state and is protected anyway. Landing writes a Record when a packet has nowhere to go |
+| **Aug 2026** | **`part_of` replaced by a generic `links` field** | The research warned that Flecs and Bevy each shipped a bespoke parent/child field, each hit a second structural relation, and each had to rebuild. The second one appeared immediately: a door is *part of* a ship, a person is not *part of* a guild. A relation is now an ID with declared traits, so a new one is additive |
+| **Aug 2026** | **The three character sheets deferred until character creation is designed** | What a sheet shows is downstream of how a character is made. Writing it first would bake in an authoring path nobody chose. L1–L3 already settle the part that matters: every Creature carries the same fields whether a player made it or a bestiary entry typed them in |
 | **Aug 2026** | **L31 settled: four timings — `own`, `any`, `respond`, `interrupt`** | `trigger` is a separate optional field, required only for the two reactive ones. `pending` cut (it is a pin) and `standing` cut (it is a Modifier or Guard) |
 | **Aug 2026** | **Timings are frozen shorthands that expand to defined predicates, not primitives** | Three of four decompose into L32 Moment kinds plus turn ownership, L26 conditions, and Proposal plus Decider. Saying so keeps the names honest and stops four words becoming a ceiling — an author may write a predicate directly |
 | **Aug 2026** | **`interrupt` kept, though 5e cut its equivalent** | The recorded cost of before/after is a *human-table* cost — un-narrating a declared action. A server resolving a Moment from a Ledger has nothing to take back. And it is not cancellation: an interrupt's state change is visible to the prompting vector's gather at R-100, so Blink does not stop the attack, it removes you from the target set |

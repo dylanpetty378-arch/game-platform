@@ -17,6 +17,7 @@ It exists because in three years the entries will look arbitrary, and the differ
 | **L27** Sockets | **Settled in shape** — three, August 2026 |
 | **L28** Economy | **Settled in principle** — one unit, three-field cost, August 2026 |
 | **L31** Timings | **Settled** — August 2026 |
+| **L1 / L2 / L3** Categories, Universal & Category Attributes | **Settled** — August 2026 |
 | **L32** Moment kinds | **Settled** — August 2026 |
 
 ---
@@ -632,4 +633,70 @@ Two proposed lists died the same way in one week: the **denomination ladder** in
 
 ---
 
-*L1 / L2 / L3 · Categories, Universal Attributes and Category Attributes — next, with the three character sheets.*
+---
+
+# L1 / L2 / L3 — Categories, Universal Attributes, Category Attributes
+
+*The list where the proposal had to be rejected twice before it was any good. August 2026.*
+
+## The starting point, and what Dylan changed about it
+
+He replaced the first L2 outright: `id` · `category` · `tags` · `facets` · `parts` · `exists`, dropping `scale` and `place` from universal and proposing **`Tangible`** as a Category carrying them instead. That was better than what it replaced — `parts` and `Tangible` did work that `place` and `scale` were doing badly — and it sent the list to research.
+
+Three findings came back and two of them survived.
+
+**`parts` pointed the wrong way, and Dylan's own rules proved it.** Every entity system that has solved this — Bevy, Unity DOTS, Flecs, Bitsquid — stores the link on the *part* and derives the whole's list. But the decisive argument was local: **a Verb has exactly one target**, and moving a door from ship A to ship B with `parts` on the whole changes two Entities, so it cannot be one Verb. Three things fell out for free: a part in two wholes became unrepresentable rather than merely forbidden, edge attributes got a home, and reparenting became constant-time.
+
+**`exists` was doing two jobs.** Destroyed-in-fiction and retracted-by-mistake. No mature system converged on one boolean — EventStoreDB has soft and hard delete, Datomic has retract and excise, Magic has *dies* and *exiled* and *ceases to exist*, accounting has void and delete. And the bug always runs the same way: Minecraft Forge PR #8303 exists because a boolean `removed` flag was set on *chunk unload*, so block entities ran their destruction cleanup and dropped their inventories when a chunk merely unloaded. The fix: destruction is a **State**; retraction is a **compensating Record**, so the Entity is simply not produced by the Fold and there is no predicate for anyone to forget.
+
+**`Tangible` failed as a Category, and the reason is that its payload is factually wrong.** In BFO a *site* — a ship's hold, a cockpit, a room — is an **immaterial entity that is fully located**; in Blades a faction has Tier and Turf while being maximally intangible. **Location and scale do not depend on matter.** Add that BFO's own spec defers hurricanes, forest fires and flames to *"the next version"* — and our Substrate is never versioned — plus schema.org's `Intangible`, the same shape in the same additive-only situation, whose own maintainer filed the bug and saw it closed unresolved. The clincher is OntoClean: a property things can gain and lose must not be a backbone class, and a ghost that materialises is exactly that. **`tangible` is a Tag**, added and removed by a Verb.
+
+## Then the proposal was rejected, and rightly
+
+The full L1–L3 draft reduced Categories to three engine-internal ones and argued every content Category away. Dylan:
+
+> *"being part of only one thing is strange... I don't see any NPC or character or creature or anything on this. Also, if a character is part of a party and also part of an organization, then what?... it's seeming very abstract to me - like staying on the outskirts of decisions so as not to make them wrong."*
+
+**Both faults were the same mistake in different places: minimalism mistaken for correctness.**
+
+The Categories had been erased by applying *a Category that brings no Attributes is a Tag* literally until nothing was left. But L1 and L3 were never Substrate-only — they include the **base Ruleset**, which *is* the default game. Creature, Item and Place are not weight; they are the thing being built.
+
+And `part_of` was a warning ignored. The research had said it in as many words: Flecs and Bevy each shipped a bespoke parent/child field, each hit a second structural relation, and each rebuilt it — *"if a second one ever shows up, you will be rebuilding Flecs, and it will be after the Substrate is frozen."* Dylan produced the second one on the first try. **A door is part of a ship; a person is not part of a guild.** Composition and membership have different cardinality and different cascade behaviour, and one exclusive field cannot carry both.
+
+**The fix: `links`, a list of `(relation, target)` pairs, where a relation is an ID with declared traits.** A new relation is a new ID rather than a new field, so it is additive by construction.
+
+## The insight that settled the shape of everything
+
+Then Dylan stated something the documents had never said:
+
+> *"a vase would not have mental space dimensions, so if somebody did something mental against it, it would have no affect. It not having that data literally means it doesn't work. That's how it works. Right?"*
+
+**Yes — and it is the default case, not an edge case.** There turn out to be three distinct ways a vector changes nothing, and they act at different layers: **clamped** at R-600 (declared immunity, magnitude zeroed inside the vector's own assembly), **guarded** at R-850/R-1050 (a real number arrived and was met), and **nothing to land on** at R-1200 (the packet resolved perfectly normally and the target has no state on that axis).
+
+The third is how most "immunity" in this system works. **You never write "vases are immune to fear."** A vase's data does not include the thing fear changes, and that *is* the immunity. Declared immunity is reserved for the rarer, more interesting case — a mind that cannot be frightened is not the same as no mind.
+
+Two consequences worth holding. **A broad Channel is naturally weaker against a narrow target** — a Channel at `integrity −70 / composure −30` lands seventy on the vase and drops thirty, and nothing had to say so. And **it must never be silent**: "nothing happened" is indistinguishable from a bug, so Landing writes a Record naming the Dimensions that had no target.
+
+## And the definition of Category that finally worked
+
+Dylan again, in the same message:
+
+> *"All creatures can have the same data too. Anything that can roll or be played or use vectors should have creature data. Even if it's not obviously a creature... An item that has a consciousness is both an item and a creature."*
+
+**So a Category is a named bundle of the data a thing needs in order to participate — not a taxonomy, and not a claim about what something is.** Categories compose, and the result is the union of the bundles. A sentient sword is `Item` + `Creature`: `integrity` and `vitality`, mass and attempt Capacities, smashable and frightenable.
+
+**`Creature` means *can act*, and nothing about biology.** That will read as wrong the first time and it is the right word for what it does.
+
+## Settled
+
+**Nine Categories** — `Vector`, `Proposal`, `Relationship` (Substrate, enforced shape) and `Creature`, `Item`, `Place`, `Group`, `Notion`, `Phenomenon` (base Ruleset).
+
+**Nine universal fields** — `id`, `category`, `tags`, `links`, `scale`, `facets`, plus one slot per Noun kind: `capacities`, `states`, `resources`.
+
+**PC and NPC are not Categories.** Same fields, same rules, same sheet; the difference is a `controlled_by` link and a Decider. A character's numbers come from a creation process, a bestiary entry's are typed in, and the schema is identical.
+
+**The three character sheets are deferred** until character creation is designed — what a sheet shows is downstream of how a character is made, and writing it first would bake in an authoring path nobody has chosen.
+
+---
+
+*L4 Tags · L5 States · L18 Aggregation · L25 Conversions — next.*
