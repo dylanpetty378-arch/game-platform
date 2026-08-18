@@ -5264,7 +5264,7 @@ urban_settlements[] families 75–100,000; investment gates population cap;
 <p><strong>Behaviour — the occupant.</strong> How many actions you get and when they come back. Which Moments exist, in what order, and who is in them. All of it swappable, none of it something content names directly.</p>
 <p>The split is what makes a Socket safe. Without it, either content depends on an occupant's internals — and swapping breaks every spell ever written — or the Substrate ends up owning the economy it was trying to delegate.</p>
 <p>Sockets are why "everything above the Substrate is a Component" was true but misleading. It still is true. Some of those Components just cannot be absent.</p>
-<p><strong>Three Sockets, Aug 2026: Place, Resolution, Landing.</strong> Time and Budget were Sockets until August 2026 and are now Substrate — see <em>Why Time and Budget are not Sockets</em>, below.</p>
+<p><strong>Two Sockets, Aug 2026: Place and Resolution.</strong> Time and Budget were Sockets until August 2026 and are now Substrate — see <em>Why Time and Budget are not Sockets</em>, below.</p>
 <p><strong>Socket occupants are frozen per Setting.</strong> Not a live toggle, not a house rule. A Setting is a Bundle plus world material, and its Socket occupants are part of its identity; changing one produces a different Setting, and moving an existing Campaign across is a Conversion. Components, by contrast, may be added or removed within a Setting.</p>
 <p><strong>LIST: Sockets — L27.</strong></p>
 <h2 id="doc6--why-time-and-budget-are-not-sockets">Why Time and Budget are not Sockets</h2>
@@ -7382,8 +7382,8 @@ Relationship  connections[] — one per participant: holder · about · stance
 <tr>
 <td><code>Creature</code></td>
 <td>the fifteen attempt Dimensions</td>
-<td><code>vitality</code> · <code>vigor</code> · <code>mobility</code> · <code>acuity</code> · <code>composure</code> · <code>clarity</code> · <code>will</code> · <code>temperature</code></td>
-<td>Specialisations</td>
+<td><code>vitality</code> · <code>vigor</code> · <code>mobility</code> · <code>acuity</code> · <code>composure</code> · <code>clarity</code> · <code>will</code> · <code>temperature</code> · <code>integrity</code> · <code>substance</code></td>
+<td>Specialisations · <strong><code>integrity</code> is bone and structure, <code>substance</code> is flesh and matter</strong> — without them a hammer blow against a person would land on nothing</td>
 </tr>
 <tr>
 <td><code>Item</code></td>
@@ -7648,7 +7648,7 @@ X-  ×6    THE MOMENT CLOSES                 NEW
 <tr>
 <td><strong>X-100</strong></td>
 <td>direct Verbs apply</td>
-<td>state changes that are not vectors: move, transfer, set, spend. They have no magnitude to modify and meet no Guards, so they do not belong in R</td>
+<td><strong>movement and transfer, and little else.</strong> Going <em>to</em> a place is a destination, not a magnitude on an axis — which is why knockback was already ruled out as a Channel in L23</td>
 </tr>
 <tr>
 <td><strong>X-200</strong></td>
@@ -7679,9 +7679,10 @@ X-  ×6    THE MOMENT CLOSES                 NEW
 </table>
 <p><strong>X-100 after R-1400 matters:</strong> a Listener that fires on a landed vector may produce a movement, and that movement must apply after the Listener has run, not during resolution.</p>
 <p><strong>X-300 after X-100</strong> because progression reads final positions. <strong>X-400 before X-500</strong> because you cannot spread a reputation for something nobody knows.</p>
-<h3 id="doc6--not-every-verb-is-a-vector">Not every Verb is a vector</h3>
-<p>The R-region is the <strong>vector</strong> pipeline: modify, clamp, scale, combine, meet Guards, land. A Verb that simply sets state — moving, transferring an Item, spending doubloons — has no magnitude to modify and no Guard to meet, and running it through nineteen slots would be theatre. <strong>Those pin to X-100.</strong></p>
-<p>This was implicit before and is now stated, because a Component author needs to know which pipeline their Verb is in.</p>
+<h3 id="doc6--almost-everything-is-a-vector-and-the-line-is-precise">Almost everything is a vector, and the line is precise</h3>
+<p><strong>Every Dimension has a Track. Not every Track has a Dimension.</strong></p>
+<p><code>doubloons</code> is a Track with no Dimension — you spend it, and nothing pushes it along an axis. So <strong>paying a cost is a push on a Track and is vector-shaped after all</strong>, which is why X-100 is a much smaller population than it first looked.</p>
+<p>What genuinely is not a vector is <strong>movement and transfer</strong>. Going <em>to</em> a place is a destination rather than a magnitude on an axis, and there is no <code>position</code> Dimension for the same reason knockback was rejected as a Channel in L23. Those pin to X-100; almost everything else resolves through R.</p>
 <h3 id="doc6--a-turn-contains-several-moments">A turn contains several Moments</h3>
 <p>Move-then-attack is two Moments, not one, which is why scope refreshes at M-400 of the second. That falls out of <em>a Moment is a named point a vector is pinned to</em>, and it is the reason movement needs no special interaction with resolution.</p>
 <h3 id="doc6--status-honestly">Status, honestly</h3>
@@ -7817,7 +7818,8 @@ X-  ×6    THE MOMENT CLOSES                 NEW
 <p><strong>What a vector that survives Guards actually does. This is the Landing Socket's Vocabulary.</strong></p>
 <h3 id="doc6--the-track-merge-did-most-of-this-lists-work">The Track merge did most of this list's work</h3>
 <p>The research catalogued eleven landing models. Three of them — <em>deplete a pool</em>, <em>fill a track</em>, and <em>cross a bar and name a condition</em> — <strong>are all just a Track.</strong> A Track has a current, a maximum and bands with Thresholds, so pushing it down does all three at once.</p>
-<p><strong>So the default landing is one line: subtract the resolved value from the Track named by the Dimension, clamped to its bounds.</strong> Bands change as Thresholds are crossed. Restoration is a positive push at R-1250.</p>
+<p><strong>So the default landing is one line: subtract the resolved value from the Track the Dimension names, clamped to its bounds.</strong> Bands change as Thresholds are crossed. Restoration is a positive push at R-1250.</p>
+<p><strong>This is a floor, not a ceiling.</strong> Pushing a Track is what the <em>Substrate</em> guarantees a Dimension does. A Dimension will also do other things — feed other stats, trigger Listeners, satisfy Thresholds — and all of that is <strong>Components</strong>. The invariant is that every Dimension pushes <em>at least one</em> Track, never that it does <em>only</em> that.</p>
 <h3 id="doc6--and-that-dissolves-the-worst-recorded-problem-in-the-field">And that dissolves the worst recorded problem in the field</h3>
 <p><strong>Bar-based landing is a magnitude-concentration incentive.</strong> Mythras ships forty-odd special effects and players converge on exactly three — <em>Choose Location</em>, <em>Bypass Armour</em>, <em>Maximise Damage</em> — all of which exist to shove one blow over a bar. Harm below the bar did nothing at all, so one big hit strictly beat several small ones with the same total.</p>
 <p><strong>A Track has no dead zone.</strong> Every point moves the number even when it does not change the band, so small hits accumulate and eventually cross. Nothing had to be added to fix this; it fell out of the shape.</p>
@@ -7886,7 +7888,7 @@ X-  ×6    THE MOMENT CLOSES                 NEW
 <td><code>will</code></td>
 <td><code>will</code></td>
 <td>naturally</td>
-<td><strong>HARDEN — see below</strong></td>
+<td>— <em>(harden was proposed here and cut; see below)</em></td>
 </tr>
 <tr>
 <td><code>standing</code></td>
@@ -7920,9 +7922,42 @@ X-  ×6    THE MOMENT CLOSES                 NEW
 </tr>
 </tbody>
 </table>
-<h3 id="doc6--the-one-genuinely-new-mechanism-harden">The one genuinely new mechanism: harden</h3>
-<p><strong><code>will</code> is two-signed.</strong> Resisting a push on <code>will</code> notches a second counter that makes future resistance easier; failing notches a counter that makes it harder. No physical system in the survey makes you harder to injure by injuring you; <strong>every serious mental system does</strong> — Unknown Armies' hardened and failed notches, Delta Green's Adaptation, Call of Cthulhu's bout immunity.</p>
-<p>It is the single most transferable idea in the landing research and the only place L25 asks for machinery a Track does not already provide.</p>
+<h3 id="doc6--harden-proposed-and-cut">Harden — proposed and cut</h3>
+<p>Unknown Armies' hardened-and-failed notches, Delta Green's Adaptation and Call of Cthulhu's bout immunity all make you <em>harder to break by having been broken</em>, and it was proposed for <code>will</code> as the one genuinely new piece of Landing machinery.</p>
+<p><strong>It is a snowball, in both directions.</strong> Resisting makes resisting easier; failing makes failing easier. That is positive feedback on a combat axis, and it is precisely the death spiral the wounding literature warns about.</p>
+<p><strong>The reason it works in those games and not here is timescale.</strong> UA's notches accumulate across sessions; DG's Adaptation needs three consecutive clean checks. They are <strong>campaign-scale character arcs</strong>, not within-scene mechanics. Lifting one into resolution scale turns an arc into a spiral.</p>
+<p><strong>Within-scene feedback is a snowball; across-campaign feedback is an arc.</strong> A horror Component may add it on a session timescale, which is where it belongs.</p>
+<h3 id="doc6--and-the-same-reasoning-retired-the-landing-socket">And the same reasoning retired the Landing Socket</h3>
+<p><strong>Before the Track merge, Landing had a real job.</strong> The lattice produced numbers on Dimensions and nothing knew what to do with them, because a Setting might model <code>vitality</code> as an ablative pool, a graded wound track, Fate-style consequence slots, or Blades-style written phrases. Landing chose which.</p>
+<p><strong>The merge ate that choice.</strong> Every axis is a Track by construction — a max, a current, bands — so there is no model left to pick. And everything else Landing was to decide turns out to be machinery that already exists:</p>
+<table>
+<thead>
+<tr>
+<th>What Landing was to do</th>
+<th>What it actually is</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>what happens when a Track hits zero</td>
+<td>a <strong>Threshold</strong> plus a <strong>Listener</strong></td>
+</tr>
+<tr>
+<td>harm converting to another axis</td>
+<td>a Listener producing a Verb</td>
+</tr>
+<tr>
+<td>a critical-hit table draw</td>
+<td>a Component's Listener</td>
+</tr>
+<tr>
+<td>which Tracks exist, their bands and Thresholds</td>
+<td><strong>the Track definitions</strong></td>
+</tr>
+</tbody>
+</table>
+<p>So it fails its own test — <em>can the Substrate function with it empty?</em> Yes: a vector resolves and pushes the Track, because Track is a Noun kind the Substrate owns. <strong>Landing is no longer a Socket. Two remain: Place and Resolution.</strong></p>
+<p><strong>The risk, stated plainly:</strong> if a hook is needed there later, adding a Socket back is a Substrate change. That is worth taking, because a Socket that does nothing is a permanent hole in the explanation for no benefit.</p>
 <h3 id="doc6--what-the-landing-occupant-still-decides">What the Landing occupant still decides</h3>
 <p>Which Tracks exist in this Setting at all · the band names and their Threshold values · what happens when a Track reaches zero · whether any extra <code>highest</code> or <code>each</code> Thresholds exist · and the restoration rules above.</p>
 <p><strong>A Setting may ship no Tracks at all.</strong> Masks has five conditions and no numbers; Mouse Guard has six. Both are shipping proof that a resourceless Setting plays.</p>
@@ -7943,7 +7978,7 @@ X-  ×6    THE MOMENT CLOSES                 NEW
 <hr />
 <h2 id="doc6--l27-sockets-pending-blocking">L27 · Sockets — PENDING · BLOCKING</h2>
 <p><strong>What it is.</strong> The named holes in the Substrate that a Component <em>must</em> fill. Exactly one occupant each, never zero, never two. A Bundle with an empty Socket must fail to load.</p>
-<p><strong>Three, as of August 2026.</strong> Time and Budget were on this list and moved into the Substrate; see <em>Why Time and Budget are not Sockets</em> in Part 1. Dropping from five to three also dissolved the cross-Socket vocabulary problem — Time and Budget were the two whose published names everything else had to reach across.</p>
+<p><strong>Two, as of August 2026.</strong> Time and Budget moved into the Substrate (see <em>Why Time and Budget are not Sockets</em> in Part 1), and <strong>Landing was retired when the Track merge ate its job</strong> (see L25). Five became two in a month, and each removal came from finding that the hole held nothing up.</p>
 <table>
 <thead>
 <tr>
@@ -7966,20 +8001,14 @@ X-  ×6    THE MOMENT CLOSES                 NEW
 <td>how the magnitude is produced — dice, cards, deck, auction</td>
 <td>no attempt produces a number</td>
 </tr>
-<tr>
-<td><strong>Landing</strong></td>
-<td>what persistent state each Dimension may address (<strong>= L25</strong>)</td>
-<td>how a landed vector becomes persistent state</td>
-<td>vectors arrive and nothing happens</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Place is settled as a Socket, and the argument for it is not the obvious one.</strong> The obvious argument — that distances differ between settings — could be answered by telling people to scale the numbers, and that is what most games do. The real argument is that a game about insects, a game about galaxies, a game where everyone teleports at will, and a game set in a five-dimensional astral sea are not the same game with different numbers, and the engine should not force them to pretend they are. A Setting with no distance at all — everything is <em>here</em>, <em>adjacent</em> or <em>far</em> — is a legitimate occupant, and the Substrate should not be able to tell.</p>
 <p>The second argument is arithmetic: <strong>Scale belongs to the part as well as the whole.</strong> A Scale-4 ship has Scale-1 doors, and R-750 reads the Scale of the thing actually targeted. Something has to know the door is part of the ship, that is containment, and containment is Place. A Substrate that cannot answer <em>is A inside B</em> cannot do its own arithmetic.</p>
 <p><strong>Resolution's contract has one clause that is decidable now.</strong> The occupant must publish its distribution, because rule 19 requires any likelihood-expressing Lens to be Calibrated against it. An occupant that cannot state its distribution cannot ship, no matter how good its dice are. The <em>formula</em> stays open; the <em>contract</em> does not.</p>
 <p><strong>Resolution may be one occupant with dials.</strong> A default with options players choose between is fine — but the choice is made at Setting creation and pinned, never toggled live. Two people folding the same Ledger with different options selected would get different states, and that is the whole determinism guarantee gone.</p>
-<p><strong>Landing's Vocabulary is L25</strong>, which is now a fourteen-row table — one per non-attempt Dimension. So Landing's contract can be written today and its Vocabulary filled when L25 closes.</p>
-<p><strong>The hard part.</strong> Keeping it at three. Every Socket is a permanent dependency for every Component ever written, and each one is also a hole in the documentation. A capability belongs in a Socket only if the Substrate genuinely cannot function without it <strong>and</strong> freezing one answer would make a whole class of Setting impossible.</p>
+<p><strong>Landing was retired, and the retirement is the interesting part.</strong> Its job was to choose how a surviving vector becomes persistent state — pool, wound track, consequence slot, written phrase. The <strong>Track merge removed the choice</strong>: every axis is a Track by construction. Everything else it was to decide turned out to be Thresholds, Listeners and Track definitions, all of which already exist. A Socket whose contract can be satisfied by doing nothing is not a Socket. Full argument in L25.</p>
+<p><strong>The hard part.</strong> Keeping it at two. Every Socket is a permanent dependency for every Component ever written, and each one is also a hole in the documentation. A capability belongs in a Socket only if the Substrate genuinely cannot function without it <strong>and</strong> freezing one answer would make a whole class of Setting impossible.</p>
 <p><strong>Depends on:</strong> nothing now. <strong>Blocks:</strong> the Component contract, and the rule that makes a Bundle valid.</p>
 <hr />
 <h2 id="doc6--l28-economy-pending-blocking">L28 · Economy — PENDING · BLOCKING</h2>
@@ -8206,6 +8235,26 @@ Healing draught   cost 15    timing any
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong>Aug 2026</strong></td>
+<td><strong>Harden cut from <code>will</code></strong></td>
+<td>Resisting making resistance easier is a <strong>snowball in both directions</strong> — positive feedback on a combat axis, the classic death spiral. It works in Unknown Armies and Delta Green because it operates <strong>across a campaign</strong>, not inside a fight. Within-scene feedback is a snowball; across-campaign feedback is an arc. A horror Component may add it on a session timescale</td>
+</tr>
+<tr>
+<td><strong>Aug 2026</strong></td>
+<td><strong>Landing retired as a Socket — two remain: Place and Resolution</strong></td>
+<td>Its job was choosing how a surviving vector becomes persistent state. <strong>The Track merge removed the choice</strong> — every axis is a Track by construction. What was left (zero behaviour, axis conversion, table draws) is Thresholds, Listeners and Track definitions, all of which exist. A Socket that can be satisfied by doing nothing is not a Socket</td>
+</tr>
+<tr>
+<td><strong>Aug 2026</strong></td>
+<td><strong><code>Creature</code> gains <code>integrity</code> and <code>substance</code> Tracks</strong></td>
+<td>Bone and structure, flesh and matter. Without them a hammer blow against a person would land on nothing</td>
+</tr>
+<tr>
+<td><strong>Aug 2026</strong></td>
+<td><strong>Every Dimension has a Track; not every Track has a Dimension</strong></td>
+<td><code>doubloons</code> is a Track nothing pushes along an axis. So <strong>paying a cost is vector-shaped after all</strong>, and X-100 shrinks to movement and transfer — the only things that are genuinely destinations rather than magnitudes</td>
+</tr>
 <tr>
 <td><strong>Aug 2026</strong></td>
 <td><strong>L25 settled — the Track merge made the default landing one line</strong></td>
@@ -18582,7 +18631,7 @@ L6   VERBS — last
 <p><strong>Conditions are not Channels.</strong> Silence, invisibility, aging, knockback and size were all considered and sent to States, Tags, Place or Scale. If it has no magnitude you would want a Guard to meet, it is not a Channel.</p>
 <hr />
 <h1 id="doc22--l27-sockets-settled-in-shape">✅ L27 · Sockets — SETTLED IN SHAPE</h1>
-<p><strong>Three: Place, Resolution, Landing.</strong> Time and Budget moved into the Substrate.</p>
+<p><strong>Two: Place and Resolution.</strong> Time and Budget moved into the Substrate; <strong>Landing was retired</strong> when the Track merge ate its job.</p>
 <p><strong>Each still needs both halves written.</strong> The <strong>Vocabulary</strong> (names content may depend on, additive-only, Substrate) and the <strong>Behaviour</strong> (everything else, swappable, never named by content).</p>
 <p><strong>Socket occupants are frozen per Setting.</strong> Not a toggle, not a house rule — the occupants are part of a Setting's identity, and moving a Campaign across is a Conversion. Components stay swappable within a Setting.</p>
 <table>
@@ -18604,15 +18653,10 @@ L6   VERBS — last
 <td>that an attempt returns a signed magnitude, <strong>and its distribution</strong></td>
 <td>the magnitude formula (deliberately open)</td>
 </tr>
-<tr>
-<td><strong>Landing</strong></td>
-<td>what persistent state each Dimension may address</td>
-<td><strong>= L25</strong>, now research-seeded</td>
-</tr>
 </tbody>
 </table>
 <p><strong>Resolution has one clause decidable now:</strong> the occupant must <strong>publish its distribution</strong>, because rule 19 requires any likelihood-expressing Lens to be Calibrated against it. An occupant that cannot state its distribution cannot ship, whatever its dice are.</p>
-<p><strong>Landing is a pipeline, not a step.</strong> The research found the same architecture in every good system: <strong>buffer → convert → name</strong>. Fate, Blades, Lancer, Delta Green and Mouse Guard all do it. The buffer belongs to the Component and is never durable — which is where a Setting with "no Resources" quietly still has a number, one that never survives a Moment.</p>
+<p><strong>Landing was retired, and how it happened is worth remembering.</strong> Its job was choosing <em>how</em> a surviving vector becomes persistent state — pool, wound track, consequence slot, written phrase. The <strong>Track merge removed the choice</strong>: every axis is a Track by construction. What remained turned out to be Thresholds, Listeners and Track definitions, all of which already exist. <strong>A Socket that can be satisfied by doing nothing is not a Socket.</strong></p>
 <p><strong>Done when:</strong> each of the three has a Vocabulary anyone could write content against.</p>
 <hr />
 <h1 id="doc22--l28-economy-settled-in-principle">✅ L28 · Economy — SETTLED IN PRINCIPLE</h1>
@@ -18683,7 +18727,9 @@ Blink      cost 15   timing interrupt   trigger: someone attacks me
 <p><strong>The Track merge did most of the work.</strong> Three of the eleven landing models in the research — <em>deplete a pool</em>, <em>fill a track</em>, <em>cross a bar and name a condition</em> — are all just <strong>a Track</strong>. So the default landing is one line: <strong>subtract the resolved value from the Track the Dimension names, clamped to its bounds.</strong></p>
 <p><strong>And that dissolves the field's worst recorded problem.</strong> Bar-based landing is a magnitude-concentration incentive — Mythras ships forty special effects and players use the three that shove one blow over a bar, because harm below the bar did nothing. <strong>A Track has no dead zone</strong>, so small hits accumulate and eventually cross. Nothing was added to fix it.</p>
 <p>The incentive returns only where a Threshold reads <code>highest</code> — still useful, now opt-in, and the Vocabulary says so where an author will read it.</p>
-<p><strong>Four axes need something beyond the default:</strong> <code>will</code> gets the <strong>harden</strong> mechanic (resisting makes future resistance easier — the one genuinely new piece); <code>regard</code> lands on a <strong>Connection</strong>, never the target, and a missing Connection is a rejection <strong>Record</strong>; <code>standing</code> and <code>essence</code> never restore on their own.</p>
+<p><strong>Three axes need something beyond the default:</strong> <code>regard</code> lands on a <strong>Connection</strong>, never the target, and a missing Connection is a rejection <strong>Record</strong>; <code>standing</code> and <code>essence</code> never restore on their own.</p>
+<p><strong>Harden was proposed for <code>will</code> and cut.</strong> Resisting making resistance easier is a snowball in both directions — the classic death spiral. It works in Unknown Armies and Delta Green because it runs <strong>across a campaign</strong>, not inside a fight. Within-scene feedback is a snowball; across-campaign feedback is an arc.</p>
+<p><strong>And this is a floor, not a ceiling.</strong> Pushing a Track is what the <em>Substrate</em> guarantees a Dimension does. Dimensions will also feed other stats and trigger other machinery, and all of that is Components.</p>
 <p><strong>A Setting may ship no Tracks at all.</strong> Masks and Mouse Guard are shipping proof.</p>
 <hr />
 <h1 id="doc22--l7-layers-settled">✅ L7 · Layers — SETTLED</h1>
@@ -18696,7 +18742,7 @@ X- ×6   THE MOMENT CLOSES     direct Verbs · restoration · progression ·
                               knowledge · standing · cadence
 </code></pre>
 <p><strong>Two orderings carry weight.</strong> M-400 (scope) before M-500 (phenomena emit), so a fire covers where you are <em>now</em>. And X-100 after R-1400, so a Listener that produces a movement applies it after resolution rather than during.</p>
-<p><strong>Not every Verb is a vector.</strong> Move, transfer, set and spend have no magnitude to modify and meet no Guards — they pin to <strong>X-100</strong> rather than running nineteen slots of theatre. This was implicit and is now stated.</p>
+<p><strong>Every Dimension has a Track; not every Track has a Dimension.</strong> <code>doubloons</code> is a Track nothing pushes along an axis — so <strong>paying a cost is vector-shaped after all</strong>. X-100 shrinks to <strong>movement and transfer</strong>, the only things that are genuinely destinations rather than magnitudes. That is also why knockback was rejected as a Channel back in L23.</p>
 <p><strong>A turn contains several Moments.</strong> Move-then-attack is two, which is why scope refreshes between them.</p>
 <p><strong>Honestly: this is the least-grounded settled list.</strong> The R-region's slots each came from a worked case that failed without them; M- and X- came from asking what must be true before R-100 and what reads the result. Gaps of 100 throughout — <strong>expect these regions to gain slots in Phase 2, and treat that as normal.</strong></p>
 <hr />

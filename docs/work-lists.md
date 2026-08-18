@@ -131,7 +131,7 @@ Adding a Space later is free. Splitting or merging an existing one is an Edition
 
 # ✅ L27 · Sockets — SETTLED IN SHAPE
 
-**Three: Place, Resolution, Landing.** Time and Budget moved into the Substrate.
+**Two: Place and Resolution.** Time and Budget moved into the Substrate; **Landing was retired** when the Track merge ate its job.
 
 **Each still needs both halves written.** The **Vocabulary** (names content may depend on, additive-only, Substrate) and the **Behaviour** (everything else, swappable, never named by content).
 
@@ -141,11 +141,10 @@ Adding a Space later is free. Splitting or merging an existing one is an Edition
 |---|---|---|
 | **Place** | position, scope, containment, what Scale means for a part | its Vocabulary |
 | **Resolution** | that an attempt returns a signed magnitude, **and its distribution** | the magnitude formula (deliberately open) |
-| **Landing** | what persistent state each Dimension may address | **= L25**, now research-seeded |
 
 **Resolution has one clause decidable now:** the occupant must **publish its distribution**, because rule 19 requires any likelihood-expressing Lens to be Calibrated against it. An occupant that cannot state its distribution cannot ship, whatever its dice are.
 
-**Landing is a pipeline, not a step.** The research found the same architecture in every good system: **buffer → convert → name**. Fate, Blades, Lancer, Delta Green and Mouse Guard all do it. The buffer belongs to the Component and is never durable — which is where a Setting with "no Resources" quietly still has a number, one that never survives a Moment.
+**Landing was retired, and how it happened is worth remembering.** Its job was choosing *how* a surviving vector becomes persistent state — pool, wound track, consequence slot, written phrase. The **Track merge removed the choice**: every axis is a Track by construction. What remained turned out to be Thresholds, Listeners and Track definitions, all of which already exist. **A Socket that can be satisfied by doing nothing is not a Socket.**
 
 **Done when:** each of the three has a Vocabulary anyone could write content against.
 
@@ -278,7 +277,11 @@ The Track merge collapsed most of it. **Track** clamps to its bounds · **Tag** 
 
 The incentive returns only where a Threshold reads `highest` — still useful, now opt-in, and the Vocabulary says so where an author will read it.
 
-**Four axes need something beyond the default:** `will` gets the **harden** mechanic (resisting makes future resistance easier — the one genuinely new piece); `regard` lands on a **Connection**, never the target, and a missing Connection is a rejection **Record**; `standing` and `essence` never restore on their own.
+**Three axes need something beyond the default:** `regard` lands on a **Connection**, never the target, and a missing Connection is a rejection **Record**; `standing` and `essence` never restore on their own.
+
+**Harden was proposed for `will` and cut.** Resisting making resistance easier is a snowball in both directions — the classic death spiral. It works in Unknown Armies and Delta Green because it runs **across a campaign**, not inside a fight. Within-scene feedback is a snowball; across-campaign feedback is an arc.
+
+**And this is a floor, not a ceiling.** Pushing a Track is what the *Substrate* guarantees a Dimension does. Dimensions will also feed other stats and trigger other machinery, and all of that is Components.
 
 **A Setting may ship no Tracks at all.** Masks and Mouse Guard are shipping proof.
 
@@ -299,7 +302,7 @@ X- ×6   THE MOMENT CLOSES     direct Verbs · restoration · progression ·
 
 **Two orderings carry weight.** M-400 (scope) before M-500 (phenomena emit), so a fire covers where you are *now*. And X-100 after R-1400, so a Listener that produces a movement applies it after resolution rather than during.
 
-**Not every Verb is a vector.** Move, transfer, set and spend have no magnitude to modify and meet no Guards — they pin to **X-100** rather than running nineteen slots of theatre. This was implicit and is now stated.
+**Every Dimension has a Track; not every Track has a Dimension.** `doubloons` is a Track nothing pushes along an axis — so **paying a cost is vector-shaped after all**. X-100 shrinks to **movement and transfer**, the only things that are genuinely destinations rather than magnitudes. That is also why knockback was rejected as a Channel back in L23.
 
 **A turn contains several Moments.** Move-then-attack is two, which is why scope refreshes between them.
 
