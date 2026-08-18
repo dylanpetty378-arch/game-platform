@@ -2446,22 +2446,63 @@ Which Tracks exist in this Setting at all · the band names and their Threshold 
 
 ---
 
-## L26 · Listener condition forms — PENDING
+## L26 · Listener condition forms — **SETTLED, Aug 2026**
 
-**What it is.** The closed set of things a Listener is allowed to watch. Verbs return nothing; Listeners are how anything ever follows from anything.
+**The closed set of things a Listener may watch.** A Listener is the only way consequence propagates: Verbs return nothing, so nothing follows from anything except by something watching state and reacting.
 
-**Sketch, not a proposal.** resource crosses a threshold · state entered · state exited · tag gained · tag lost · relationship formed · relationship broken · clock reaches a value · category assumed or shed.
+**State, never Verbs.** *"Is this now true"*, never *"did that just happen."* Declared as data by a Component, never as code. Evaluated at **R-1400**, producing Verbs pinned to a **later** Moment with class `Triggered`.
 
-**Constraints.** A Listener watches **state, not Verbs** — "is this now true," never "did that just happen." Declared as data by a Component, never as code. Evaluated at R-1400, produces Verbs pinned to a **later Moment**, class `Triggered`.
+### The seven forms
 
-**Two fields SETTLED, Aug 2026, both handed over by L32:**
+| Form | Example |
+|---|---|
+| a value crosses a bar | `vitality ≤ 0` · `composure` enters the *panicked* band |
+| a value compares to another value | `my standing < theirs` |
+| an Entity holds a Track in a named band | `mobility` is *immobile* |
+| an Entity holds a Tag, optionally with magnitude ≥ N | `has flammable` · `hardness ≥ 3` |
+| a set is non-empty, or has size N | `hostiles within reach ≥ 3` |
+| **a Resolution Record exists matching a shape** | *"my vitality was restored by a source that is not me"* |
+| a Moment of a named kind has occurred | `start of my turn` |
 
-1. **Conditions compose** — `and`, `or`, `not` over the closed form set. `not` is safe despite the open-world rule: that rule is about *fields being absent*, not about state being unknown, and the Fold has complete state at evaluation time. Composition is what lets *"a spell is cast that fulfils a condition"* be one Listener rather than a family of them.
-2. **Firing discipline is a required field on every Listener** — `once` or `while` — with **no default.** *"The next time somebody attacks"* is `once`; *"while you are bleeding"* is `while`. No default, because the two behave differently enough that a wrong guess is silent, and a Listener whose discipline was inferred is one nobody can reason about.
+**The sixth carries the most weight.** It is how reflection, retribution and *"when you are healed by another"* work without anyone watching an event — and it is genuinely state, because a Record is a durable fact in the Ledger.
 
-**The hard part.** Cascade depth. Listener A fires B fires C. Needs a hard limit, a deterministic evaluation order across simultaneously-satisfied Listeners, and a defined behaviour at the limit. **All three PENDING**, with research-backed proposals in `lists-research.md` §2: depth **32**, **halt and write a Record** at the limit, and a sort key composed only of values that do not move when unrelated content is added. Get the ordering wrong and the same Ledger folds differently on two machines.
+### Composition and firing discipline
 
-**Depends on:** L5 (States), L7 (Layers). **Blocks:** any Component with a consequence.
+**Conditions compose** — `and`, `or`, `not` over the closed set. `not` is safe despite the open-world rule: that rule is about *fields being absent*, not about state being unknown, and the Fold has complete state at evaluation.
+
+**Firing discipline is a required field with no default** — `once` or `while`. *"The next time somebody attacks"* is `once`; *"while you are bleeding"* is `while`. No default, because the two behave differently enough that a wrong guess is silent.
+
+### The cascade — all three blanks filled
+
+**Depth limit: 32.** Where the database world settled twenty years ago and has not argued since — high enough that no legitimate design reaches it, low enough to catch a runaway in milliseconds. Magic terminates loops without a counter by running state-based actions to a fixpoint and calling a genuine loop **a draw** — a *social* rule. There is no table here to appeal to, so the counter Magic does not need is one we do.
+
+**At the limit: halt without applying, and write a Record.** Rolling back is unavailable — the Ledger is append-only. Silently dropping is worse and is what Hearthstone does; it is a known source of unexplainable board states. A Record makes it a debuggable finding rather than a mystery, which is the honest version of *if you can violate it silently, the gate is missing*.
+
+**Ordering: a semantic class first, then `(layer, component_id, listener_id, target_entity_id)`.** Yu-Gi-Oh's SEGOC is the only fully specified simultaneous-trigger ordering in any published game, and its shape is *classify, then tiebreak*. The constraint that matters: **the sort key may contain only values that do not move when unrelated content is added.** Drools' salience is deterministic but not *stable* — adding one rule reorders unrelated ones. `component_id` and `listener_id` are safe; a global priority number is not.
+
+### What is observable, and what is not
+
+Magic's rule 704.4 says state-based actions *"pay no attention to what happens during the resolution of a spell or ability"* — a creature whose toughness dips to 0 mid-resolution and recovers **survives**. That is our *evaluated at a fixed layer*, and it is what makes intermediate states unspecified and therefore lets the Fold be optimised without changing answers.
+
+**But the line is narrower than Magic's, and deliberately so.**
+
+> **Slots are observable. The order of commutative operations *within* a slot is not.**
+
+R-1200 and R-1250 are real slots that really happen. What is unobservable is the order modifiers were summed at R-300, or contributors combined at R-1000 — implementation detail with no fiction attached.
+
+### The Brush — a Threshold crossed and uncrossed inside one Moment
+
+**A creature at 0 `vitality` at R-1200 that is healed back at R-1250 is not dead.** Listeners evaluate at R-1400, after restoration, so the fatal Threshold is not held when death would be checked. That is a real ruling and it makes in-Moment healing genuinely urgent: heal in the same Moment or not at all.
+
+**And it is exactly the kind of thing players should be told about.** *You were at zero and you came back.* So it is recorded rather than merely permitted:
+
+**A `Brush` is a Threshold crossed and uncrossed within one Moment.** It is written on the Resolution Record, naming the Track, the bar, and the slot at which each crossing occurred.
+
+- **It is not an intermediate state.** Both slots really happened, and the fact of the crossing is durable — which is precisely why recording it costs nothing and breaks nothing.
+- **A Listener may watch it**, through the *Resolution Record matching a shape* form, at R-1400 when everything has settled. So *"when you narrowly survive, gain something"* is authorable without any new machinery and without making intermediate state observable.
+- **A Lens should surface it**, because a near-miss nobody is told about is a good moment thrown away.
+
+**Depends on:** L5, L7. **Blocks:** any Component with a consequence.
 
 ---
 
@@ -2704,6 +2745,8 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 
 | Date | Decision | Reasoning |
 |---|---|---|
+| **Aug 2026** | **L26 settled — seven condition forms, cascade depth 32, halt-and-Record, class-then-stable-key ordering** | The sort key may contain only values that do not move when unrelated content is added. Drools' salience is deterministic but not stable; `component_id` and `listener_id` are |
+| **Aug 2026** | **The `Brush` — a Threshold crossed and uncrossed within one Moment is recorded** | A creature at 0 vitality at R-1200 healed back at R-1250 is not dead, because Listeners evaluate at R-1400. That near-miss is a story beat, so it is written on the Resolution Record rather than silently permitted. It is watchable by a Listener via the *Record matching a shape* form without making intermediate state observable — **slots are observable; the order of commutative operations inside a slot is not** |
 | **Aug 2026** | **Harden cut from `will`** | Resisting making resistance easier is a **snowball in both directions** — positive feedback on a combat axis, the classic death spiral. It works in Unknown Armies and Delta Green because it operates **across a campaign**, not inside a fight. Within-scene feedback is a snowball; across-campaign feedback is an arc. A horror Component may add it on a session timescale |
 | **Aug 2026** | **Landing retired as a Socket — two remain: Place and Resolution** | Its job was choosing how a surviving vector becomes persistent state. **The Track merge removed the choice** — every axis is a Track by construction. What was left (zero behaviour, axis conversion, table draws) is Thresholds, Listeners and Track definitions, all of which exist. A Socket that can be satisfied by doing nothing is not a Socket |
 | **Aug 2026** | **`Creature` gains `integrity` and `substance` Tracks** | Bone and structure, flesh and matter. Without them a hammer blow against a person would land on nothing |

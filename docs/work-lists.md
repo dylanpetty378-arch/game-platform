@@ -13,7 +13,8 @@
 | **SETTLED** | L1 / L2 / L3 — nine Categories, nine universal fields, Aug 2026 |
 | **SETTLED** | L5 Tracks · L18 Aggregation — Aug 2026 |
 | **SETTLED** | L4 Tags (provisional, 22) · L25 Landing · L7 Layers — Aug 2026 |
-| **NEXT** | **L26 Listener conditions**, then **L6 Verbs — last** |
+| **SETTLED** | L26 Listener conditions — Aug 2026 |
+| **LAST** | **L6 · Verbs** |
 | **THEN** | L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → **L6 last** |
 
 > **The architecture changed in August 2026.** Time and Budget stopped being Sockets and became Substrate. The reason was comprehensibility: a Socket is a hole in the *explanation*, not just the code, and every worked example had to caveat itself. The objection — that a Setting might want week-long turns — dissolved once it was clear that a **Component adds rather than replaces**: month-scale play and second-scale play never meet, so they need not share a machine. Full argument in `list-log.md`.
@@ -310,17 +311,17 @@ X- ×6   THE MOMENT CLOSES     direct Verbs · restoration · progression ·
 
 ---
 
-# L26 · Listener condition forms
+# ✅ L26 · Listener conditions — SETTLED
 
-**Deciding:** the closed set of things a Listener may watch. **State, never Verbs.**
+**Seven condition forms.** A value crosses a bar · a value compares to another · an Entity holds a Track in a named band · an Entity holds a Tag (optionally magnitude ≥ N) · a set is non-empty or has size N · **a Resolution Record exists matching a shape** · a Moment of a named kind has occurred.
 
-**Three blanks that must be filled here, not later:**
+The sixth carries the most weight — it is how reflection, retribution and *"when you are healed by another"* work without watching an event.
 
-1. The cascade **depth limit**.
-2. The **behaviour at the limit** — lean: halt without applying, and record it.
-3. The **evaluation order** when several fire at once. Already partly settled: `(layer, component_id, listener_id, target_entity_id)`. Confirm it survives the full condition set.
+**Conditions compose** with `and`/`or`/`not`. **Firing discipline is required, `once` or `while`, with no default.**
 
-Listener-produced Verbs are class `Triggered` and pin to a **later** Moment — never resolved inside the current one. That is rule 22, and it is what stops a cascade from being a recursion.
+**The three cascade blanks, filled.** Depth **32**. At the limit, **halt without applying and write a Record** — rolling back is unavailable and silent dropping is what makes board states unexplainable. Ordering is **a semantic class first, then `(layer, component_id, listener_id, target_entity_id)`** — and the sort key may contain only values that do not move when unrelated content is added.
+
+**The Brush.** A creature at 0 `vitality` at R-1200 that is healed at R-1250 is **not dead**, because Listeners evaluate at R-1400. That near-miss is recorded on the Resolution Record as a **Brush** — a Threshold crossed and uncrossed inside one Moment — so a Lens can surface it and a Listener can react to it. It is not an intermediate state: **slots are observable; the order of commutative operations inside a slot is not.**
 
 ---
 
