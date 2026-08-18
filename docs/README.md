@@ -1,5 +1,10 @@
 # Documentation
 
+**New here? Read `START-HERE.md` — the whole project in one document.**
+
+**Status, August 2026:** Phase 0 and Phase 1 closed. Every blocking list settled except **L6 · Verbs**, drafted and closing in Phase 2. **Next: Phase 2 · Paper.**
+
+
 Design documents for the game platform. Nothing is built yet; these exist to make sure it gets built once.
 
 ## Read in this order
@@ -37,7 +42,9 @@ Organised by *when the answer is needed*: repair decisions that are broken today
 **6. The working documents** — startable now.
 
 - **`work-repair.md`** — the Phase 0 worklist. Ten items, each with the failing test to run before deciding and the passing test that confirms the fix.
-- **`lists-research.md`** — what the field actually does, for every list still open. Timings, Listeners and cascades, State axes, Landing models, Tag vocabularies, and Entity schemas. The digest; full reports in `research-timing.md`, `research-listeners.md`, `research-states.md` and `research-entities.md`.
+- **`START-HERE.md`** — the whole project in one document: what it is, where it stands, the settled model on one page, what is still open, and how to work here. **Read this first.**
+- **`worked-builds.md`** — twenty things built entirely from the settled model: a person, a ship, a faction, a rumour, a ghost, a fire, a vase that cannot be frightened. The evaluation rather than the description, and the place to attack it.
+- **`lists-research.md`** — what the field actually does, gathered while the lists were open. Timings, Listeners and cascades, condition systems, landing models, Tag vocabularies, and Entity schemas. The digest; full reports in `research-timing.md`, `research-listeners.md`, `research-states.md` and `research-entities.md`.
 - **`work-lists.md`** — the Phase 1 guide. Companion to `substrate-lists.xlsx`: what each list is deciding, the test each entry must pass, and the mistake that is easy to make.
 - **`work-tracks.md`** — brand, legal and audience. Everything that has to start now because it cannot be compressed later.
 
@@ -71,6 +78,7 @@ Grounded in current sources. The load-bearing finding: a book title is not regis
 | `phase-map.md` | Current. The sequencing document, and authoritative on order. |
 | `open-questions.md` | Current. Every undecided thing, by when it is needed. Part 1 is closed. |
 | `work-repair.md` | **Phase 0 is closed.** The record of what was decided in Repair, and why. |
+| `START-HERE.md` | **The front door.** Whole project, one document. |
 | `repo-and-sync.md` | **Read before touching git.** Repo layout, the sync invariant, why the folder bridge breaks git, and how to bootstrap a new machine. |
 | `list-log.md` | **Live.** The conversation that made each list — the argument, what changed a position, what was rejected and on what grounds. |
 | `lists-research.md` | **New, Aug 2026.** Research digest behind every unsettled list. |

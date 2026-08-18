@@ -17,7 +17,7 @@ Two of the four blocking decisions were framed wrongly.
 
 **Fixed property lists across all kinds have failed independently in five fields.** What survived is homeostatic property clusters and conceptual spaces, and both say the same thing: **do not model what a thing is, model what it affords.** A capacity is kind-agnostic because it never claimed to describe an essence.
 
-**And Nouns split into five kinds** — Capacity, Tag, State, Resource, Relationship — which behave differently under change, aggregation, and rendering.
+**And Nouns split into four kinds** — Capacity, Tag, Track, Relationship — which behave differently under change, aggregation, and rendering. *(Five until August 2026, when State and Resource were found to be one mechanism and merged into Track.)*
 
 ## The pipeline
 
@@ -120,7 +120,7 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **C2 ⬤ Verb classes — SETTLED at two.** `Activated` and `Triggered`. Replacement and Continuous both dissolved into *a vector with a window*: a vector already standing in the space **is** "instead of," and a condition-scoped vector **is** "while true." Two mechanisms deleted, none added.
 
-**C3 ⬤⬤ The Layer lattice — DRAFTED for resolution, thirty slots.** Three regions: entity preparation (E-100…E-500, 5), vector creation (C-100…C-600, 6), resolution at the Moment (R-100…R-1400, 19). Phase 0 added **R-750** (Scale conversion), **R-780** (standing-vector cap, reserved), **R-850** (flat Guards, once per contributing source) and split the combine into **R-800** within a source and **R-1000** across sources, which is where cancellation now happens. Every boundary is forced by a worked case rather than guessed. Outside resolution — progression, economy, movement, knowledge, social standing — the lattice is still empty. See L7.
+**C3 ⬤⬤ The Layer lattice — SETTLED Aug 2026, five regions, forty-one slots.** The resolution region: entity preparation (E-100…E-500, 5), vector creation (C-100…C-600, 6), resolution at the Moment (R-100…R-1400, 19). Phase 0 added **R-750** (Scale conversion), **R-780** (standing-vector cap, reserved), **R-850** (flat Guards, once per contributing source) and split the combine into **R-800** within a source and **R-1000** across sources, which is where cancellation now happens. Every boundary is forced by a worked case rather than guessed. Outside resolution, August 2026 added **M- (the Moment opens: ownership, budget, caps, scope, phenomena emit)** and **X- (the Moment closes: direct Verbs, restoration, progression, knowledge, standing, cadence)**. See L7.
 
 **C4 ⬤ Aggregation — SETTLED for the resolution path.** **Everything adds by default.** Percentages sum and are applied once; absolutes add afterwards; Guards sum proportionally, then subtract flatly. Nothing compounds anywhere, because compounding stops being commutative the moment you round between steps. Aggregation for the other Noun kinds — Tags as set union, States with an optional max — is settled in shape and comes with those lists.
 
@@ -253,11 +253,11 @@ A declared watch on a *state* condition. Evaluated at R-1400, after the Moment's
 
 **Section I is answered in shape**, with the open parts marked. Full detail in `architecture.md` §6 and §6A.
 
-**I1 ⬤ The Component contract — writable now.** A manifest declares: identity and exact version · Categories it attaches Facets to · Nouns it publishes, **Published or Private with no default** · Nouns it depends on at exact versions · Verbs it uses · **Layers it writes at**, from the fixed lattice · **Listeners it declares**, plus any **Listener templates** it exposes for Standing Orders · **Dimensions or Channels it adds** · **Economy Units it uses** · **which Socket it fills, if any** · what it **suppresses** · disable semantics — frozen, dormant or hidden, **and the default for a Component that declares nothing** · execution tier.
+**I1 ⬤ The Component contract — writable now.** A manifest declares: identity and exact version · Categories it attaches Facets to · Nouns it publishes, **Published or Private with no default** · Nouns it depends on at exact versions · Verbs it uses · **Layers it writes at**, from the fixed lattice · **Listeners it declares**, plus any **Listener templates** it exposes for Standing Orders · **Dimensions or Channels it adds** · **Economy: the doubloon costs it names** · **which Socket it fills, if any** · what it **suppresses** · disable semantics — frozen, dormant or hidden, **and the default for a Component that declares nothing** · execution tier.
 
 *Depth ≤ 2 survives* because a Socket is a hub rather than a chain — but **Socket occupants may depend on each other at most one level deep.**
 
-**I2 ⬤⬤ The Socket contract — NEW.** An occupant declares its **Vocabulary** (the additive list of names content may depend on — Moment kinds, Economy Units, persistent-state names) separately from its **Behaviour** (everything else, which content never names). Swapping an occupant is always Edition-level. **A Bundle is valid only if every Socket is filled — exactly one occupant each, never zero, never two — and a Bundle with an empty Socket must fail to load.** CI-enforceable.
+**I2 ⬤⬤ The Socket contract — NEW.** An occupant declares its **Vocabulary** (the additive list of names content may depend on) separately from its **Behaviour** (everything else, which content never names). Swapping an occupant is always Edition-level. **A Bundle is valid only if every Socket is filled — exactly one occupant each, never zero, never two — and a Bundle with an empty Socket must fail to load.** CI-enforceable.
 
 **I3 ⬤ The Lens contract — SIMPLIFIED.** Two clauses died: *what a Lens may read* (it reads everything) and the information-set invariant (satisfied by construction). **Calibration sharpened**: a Lens's dice must produce **the same distribution over magnitude** the Resolution Socket produces — one number rather than named bands, and machine-checkable by sampling both. Unchanged: a Lens never changes what a character can do, never writes, and is **not part of the Fold**, so its formulas are exempt from additive-only and may be rewritten retroactively. **New:** the per-slot pipeline must be *available* to a Lens; rendering it is optional, and shaping must appear as its own named step attributed to the item that caused it.
 
@@ -302,10 +302,10 @@ On paper, before any code. These cannot be revised and cannot be discovered late
 1. **L21 — the Dimension Spaces.** Which kinds of push can meet each other at all. Coarse, and upstream of everything, because every interaction in the system is a position in one of these Spaces. Doing this first is what makes L29 answerable.
 2. **L29 — the Capacity set.** Small, kind-agnostic, each entry stated as a capacity and checked against a person, a ship, a faction and a storm. **And what you deliberately leave off.** Doubly load-bearing: what a character is made of, *and* the Dimensions of the attempt Space.
 3. **L22 → L23** — the Dimensions inside the remaining Spaces, then the Channels placed in them.
-4. **L27 and L28** — the Socket list and the Economy Units. Both block the Component contract, and L28 blocks every spell and ability ever written.
+4. **L27 and L28 — SETTLED Aug 2026.** Two Sockets (Place, Resolution); one Economy Unit (the doubloon) and a three-field cost.
 5. **L1 → L2 → L3** — Categories, Universal Attributes, Category Attributes. All three blocking, and the three character sheets get written here.
-6. **L4, L5, L18** — Tag shape and seed vocabulary, State axes, and the aggregation operators for the non-resolution Noun kinds.
-7. **L25** — the transient-to-persistent conversions the Landing Socket performs.
+6. **L4, L5, L18 — SETTLED Aug 2026.** Tags provisional at 22; L5 became **Tracks**, fourteen of them, one per Dimension; L18 collapsed to four rules.
+7. **L25 — SETTLED Aug 2026, and the Landing Socket was retired with it.** A push lands on the Track the Dimension names.
 8. **L7's remaining regions** — the Layer lattice outside resolution: progression, economy, movement, knowledge, social standing. The resolution region is drafted.
 9. **L26** — the Listener condition forms, plus the cascade limit, the behaviour at the limit, and the evaluation order.
 10. **L6 — the Verb set, LAST.** Not third, and not an afternoon. Every list above produces the worked examples that are the only real evidence of completeness; freezing the Verb set before them means freezing it against imagination. When they are done, run every entry and every worked example through the closing procedure, then freeze.

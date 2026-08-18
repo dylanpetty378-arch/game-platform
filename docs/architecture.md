@@ -194,7 +194,7 @@ Therefore **there will always be attempts the system cannot adjudicate.** GM ove
 
 The GM-less tier needs the same valve in automated form: a declared, deterministic behaviour for "the fiction produced something no Component covers."
 
-### 4.4 Nouns — five kinds, not one pool
+### 4.4 Nouns — four kinds, not one pool
 
 Nouns are extensible; Verbs are not.
 
@@ -208,7 +208,7 @@ What survived contact with the data is two frames that agree with each other: **
 
 **And the productive question** is not "what is a person made of," which has no answer, but **"what are the dimensions along which an attempt can be helped or resisted?"** — which does.
 
-#### The five kinds
+#### The four kinds *(five until Aug 2026; State and Resource merged into Track)*
 
 Each behaves differently under change, aggregation, and rendering. Treating them as one undifferentiated pool of numbers is what forced every previous universal system into exceptions.
 
@@ -216,8 +216,7 @@ Each behaves differently under change, aggregation, and rendering. Treating them
 |---|---|---|
 | **Capacity** | graded, kind-agnostic | Small set. Stated as capacities, never as qualities. |
 | **Tag** | open, unbounded, optional magnitude | The multiplicative surface, and the pressure valve for consequences the Verbs cannot carry. |
-| **State** | named, optional magnitude, exclusive within an axis | A name other rules can key on. **One field per axis, never N booleans** — tag-per-state is a documented ECS failure. |
-| **Resource** | depletable, replenishable, thresholds | The only genuinely numeric-over-time values. |
+| **Track** | a maximum, a current, and named bands; the persistent counterpart of a Dimension | **One number per axis, never N booleans** — tag-per-state is a documented ECS failure. Named conditions (*prone*, *blinded*, *charmed*) are **bands**, not things. Carries a `payable` flag: `doubloons` may be named as a cost, `mobility` may not. |
 | **Relationship** | a Category of Entity holding one **Connection** per participant, each stance stored independently | Every system in the entity survey stored these on one endpoint, which is why relationship mechanics desync in play. |
 
 #### Open world
@@ -577,7 +576,7 @@ The Component's manifest declares its disable semantics, and the Ruleset never g
 
 **A Socket is a named hole in the Substrate that some Component must fill.** The Substrate declares the hole and its contract; it never supplies the occupant.
 
-This is the correction to a claim that was true and misleading. *Everything above the Substrate is a Component* is still true. But some of those Components are load-bearing walls rather than furniture: the Substrate defines what a **Moment** is and cannot say which Moments exist; it defines what a **Resource** is and ships none; it defines what a landing vector is and cannot say what landing does.
+This is the correction to a claim that was true and misleading. *Everything above the Substrate is a Component* is still true. But some of those Components are load-bearing walls rather than furniture: the Substrate defines what a **Track** is and ships none; it defines what **scope** means and cannot say what a place is. *(Amended Aug 2026: Time and Budget stopped being Sockets, and Landing was retired when the Track merge removed its job. Two remain — Place and Resolution.)*
 
 ### The rules
 
@@ -657,7 +656,7 @@ Why an invocation exists. Adding a third later is a Substrate break.
 
 Consequence does not travel through return values. It travels through **Listeners**.
 
-> A Verb drives a Resource to zero. The Verb does not know this and does not report it. A Listener watching *"this Resource is at zero"* fires and issues its own Verbs — set state `unconscious`, add a Tag, whatever the Component declared.
+> A Verb drives a Track to zero. The Verb does not know this and does not report it. A Listener watching *"this Track is at zero"* fires and issues its own Verbs — set state `unconscious`, add a Tag, whatever the Component declared.
 
 Rules:
 
@@ -706,7 +705,7 @@ Five principles came out of drafting it, and they generalise past resolution:
 1. **A frozen, sparse, named lattice**, generously gapped, fixed at v1. Components pick from the fixed set and may never invent one.
 2. **Pre-sum, never pre-apply.** Summation is associative, so a partial sum can be completed later without changing the answer. Application is not. This is what lets everything source-side collapse into numbers at vector creation while the arithmetic stays exact.
 3. **Nothing compounds.** Percentages sum and are applied once; Guards sum and are applied once. Compounding is commutative in real arithmetic and stops being commutative the moment you round between steps — base 5 with +30% and +40% gives 8 or 9 depending on order. Summing gives 8 in every order, forever.
-4. **Aggregation is declared per kind, not per Verb.** Capacities and Resources add then clamp. States take the highest applicable within an axis. Tags are set union. Relationships may need a rule of their own.
+4. **Aggregation is declared per kind, not per Verb.** A Track clamps to its bounds. Tag membership unions and magnitudes add. Capacities need no operator — increases are Modifiers. Relationships **never merge**.
 5. **A ceiling belongs in the fiction, not the arithmetic.** Enhancement Capacity bounds how much a thing can be amplified — a better gun holds more. This is what makes the additive choice free rather than a balance compromise.
 
 **Timestamp tiebreak** within a layer, and an **explicit declared dependency** between Verbs overriding timestamp when one genuinely depends on another, both still stand.
@@ -861,7 +860,7 @@ That is affordable precisely because the design already went this way: the serve
 
 - **The event log**, searchable and filterable, over the whole Ledger — by Entity, by Moment, by Verb, by Component, by actor.
 - **Resolution expansion.** Any resolution, ever, opened to the full pipeline: every slot from E-100 to R-1400, every input, every intermediate, every contributing item named. This is the same view as the player-facing animation, unthrottled.
-- **The state inspector.** Every Attribute, State, Tag, Relationship, pending vector and standing vector on any Entity, at any Moment.
+- **The state inspector.** Every Capacity, Track, Tag, link, Relationship, pending vector and standing vector on any Entity, at any Moment.
 - **Time travel.** Fold to any Moment and look around.
 
 **Changing things**
@@ -1220,7 +1219,7 @@ Deliberately unresolved. Each is a real decision, not a placeholder.
 
 1c. **The remaining Dimensions (L22), then the Channels placed within them (L23).** The order for the whole set is `L21 → L29 → L22 → L23 → L27/L28 → L1/L2/L3 → L4/L5/L18/L25 → L7 → L26 → L6`; `dictionary.md` Part 11 is the tiebreaker.
 
-2. **The Layer lattice outside resolution** — progression, economy, movement, knowledge, social standing. The resolution region is drafted at thirty slots (§8), five of them added in Phase 0. Magic needed seven layers and thirty years. Guessing low is a Substrate break; guessing high is just unused numbers, so err high.
+2. **The Layer lattice outside resolution** — progression, economy, movement, knowledge, social standing. The lattice was closed in August 2026 at **five regions and forty-one slots** — M- and X- were added for what happens around a Moment rather than inside a vector. Magic needed seven layers and thirty years. Guessing low is a Substrate break; guessing high is just unused numbers, so err high.
 
 3. **How many Allocation Points, and where they come from.** Five is a placeholder with nothing behind it; the natural home is a Capacity — *capacity to divide attention*. Also open: a ceiling on summed Baseline shares, and whether it shares Enhancement Capacity's budget.
 
@@ -1248,7 +1247,7 @@ Deliberately unresolved. Each is a real decision, not a placeholder.
 
 12. **Is there a canonical Lens?** The one that *is* the game — in the marketing, in the answer to "what's it like to play," the one everything else is measured against. A system whose honest answer is "it depends what you pick" is a toolkit, which is the one thing this has consistently refused to be.
 
-**Answered since the first draft:** the Component-removal question (add and disable only, never remove — §6.5); the subscription lapse model (pause, three exits — §16); what a user may author (Asset instances where the capability exists, never Asset types — §6.4); that the base Ruleset is itself Components (§1); that the Verb set is a taxonomy of consequence rather than action (§4.3); that Nouns are five kinds rather than one pool (§4.4); and that the frame problem is legislated away rather than solved (§4.0B); that Channels are positions in a Dimension Space so relationships are derived rather than declared (§4.4A); that Channels combine by per-Dimension addition and Guards subtract per Dimension (§4.4A); that Transient fully resolves before Persistent (§4.4A); and that Attributes are linear while Scale is a separate exponent (§4.4B); that "Effect" is retired in favour of "Verb" (§7); that every Verb has one uniform shape with exactly one primary target (§7.2); that Verbs return nothing and consequence travels through Listeners watching state (§7.3, §7.5); and that the Ledger can record things no Verb caused (§7.7).
+**Answered since the first draft:** the Component-removal question (add and disable only, never remove — §6.5); the subscription lapse model (pause, three exits — §16); what a user may author (Asset instances where the capability exists, never Asset types — §6.4); that the base Ruleset is itself Components (§1); that the Verb set is a taxonomy of consequence rather than action (§4.3); that Nouns are four kinds rather than one pool (§4.4); and that the frame problem is legislated away rather than solved (§4.0B); that Channels are positions in a Dimension Space so relationships are derived rather than declared (§4.4A); that Channels combine by per-Dimension addition and Guards subtract per Dimension (§4.4A); that Transient fully resolves before Persistent (§4.4A); and that Attributes are linear while Scale is a separate exponent (§4.4B); that "Effect" is retired in favour of "Verb" (§7); that every Verb has one uniform shape with exactly one primary target (§7.2); that Verbs return nothing and consequence travels through Listeners watching state (§7.3, §7.5); and that the Ledger can record things no Verb caused (§7.7).
 
 **Answered in the August 2026 design pass** — full reasoning in `dictionary.md` Part 12:
 

@@ -910,7 +910,7 @@ An `information` Category Entity: *"the schematics of the Ridley vault."* It car
 - **Suppression** is a Guard on a faction.
 - **Credulity** is a negative Guard — a vulnerability.
 - A rumour's **window** is how long it persists; a **scope** is who hears it; **Participation Capacity** on a town square is how many stories it can carry at once.
-- Rumours **land** into a persistent Channel — reputation — via the Landing Socket.
+- Rumours **land** on the `standing` Track.
 
 `field-survey.md` §4 warns that "simulation without curation produces noise, not life", and `architecture.md` §17 flags the Chronicle's inputs as foundation. **This is what makes the Chronicle a simulation output rather than an editorial chore.**
 

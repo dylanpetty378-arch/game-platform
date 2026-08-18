@@ -42,97 +42,42 @@ The full record of what was decided and why is **`work-repair.md`**. In one line
 
 ---
 
-# Part 2 — Decisions made while filling the lists
+# Part 2 — Decisions made while filling the lists — **CLOSED, August 2026**
 
-These are answered *by* filling the lists. They are here because each one has a trap in it worth seeing before you start.
+**Every list is settled except L6, which is drafted and closes in Phase 2 against real content.** The arguments are in `list-log.md`; the one-line reasons are in `dictionary.md` Part 12.
 
----
-
-## Q2.1 · What is on the Capacity list, and how many?
-
-**The most load-bearing decision left**, because the list does two jobs: what a character is made of, *and* the axes an attempt splits across.
-
-**The test each candidate must pass.** State it as a capacity, not a quality, then check it applies without absurdity to **a person, a ship, a faction and a storm.** *Capacity to exert force* passes. *Strength* does not.
-
-**The trap: the number is the interface.** Eight is a choice a player makes at a glance. Twenty is a spreadsheet, and comprehension load is the one risk in this design that no amount of code can fix.
-
-**And record what you leave off.** Nothing above the Substrate can put it back. What is deliberately absent is where the stance lives.
-
----
-
-## Q2.2 · How many Dimension Spaces, and how separated?
-
-Packets in different Spaces **never** interact. That is the main thing keeping the system comprehensible as the Component library grows — and it is also a hard wall.
-
-**The trap.** Physical harm is obviously a Space. Social pressure probably is. But if knowledge, wealth and morale each become one, nothing can ever be traded off against anything else — a bribe cannot offset a threat. **Decide the separations you want before you decide the Spaces**, because the separations are the actual design.
-
----
-
-## Q2.3 · What is on the Socket list?
-
-Currently five: Time, Place, Resolution, Landing, Budget.
-
-**The trap.** Every Socket is a permanent dependency for every Component ever written. An over-long list quietly rebuilds the monolith the Component design exists to prevent. **Five feels near the ceiling.** A capability belongs in a Socket only if the Substrate genuinely cannot function with it empty.
-
-**Still undecided within it:** whether Place is really irreducible, or whether scope can be expressed generically enough that it is not a Socket at all.
-
----
-
-## Q2.4 · What is the Economy? — **ANSWERED IN PRINCIPLE, Aug 2026**
-
-**One atomic unit, the doubloon**, and a cost of at least three fields — `cost`, `timing`, `cap`. Substrate, because every ability ever written depends on both. There is no denomination ladder: a size vocabulary beside a timing vocabulary made authoring roundabout. How many doubloons you get and when they refresh is base Ruleset. Still open: the allowance, and whether a second non-convertible unit is ever needed.
-
-**The trap.** *Bonus action* is economics wearing a unit's costume. A unit names a **kind of thing being spent**. A rule about how many of them you get is not a unit.
-
-**And one dependency:** a `repin` must name a cost in doubloons. Without it, repinning is unbounded and Ordered time can be held open forever.
-
----
-
-## Q2.5 · Listener cascades — three blanks
-
-All three are still empty and the third is a determinism hazard:
-
-1. **The depth limit.** How many rounds of Listener-triggered Verbs before it stops.
-2. **The behaviour at the limit.** Lean: halt without applying the pending round and write a `cascade limit reached` Record, so the world sits at the last complete Moment.
-3. **The evaluation order across simultaneously-satisfied Listeners.** This must come from a stable key in the data — proposed: `(layer, component_id, listener_id, target_entity_id)`. **Registration order is not an answer.** Get it wrong and the same Ledger folds differently on two machines.
-
----
-
-## Q2.6 · The remaining aggregation operators
-
-Settled for the resolution path: everything adds, percentages sum, nothing compounds. **Not settled** for the other Noun kinds — Tags as set union, States taking the highest within an axis, Relationships needing their own rule.
-
-**Why it matters.** This is named in the architecture as *the single most likely source of "the same Ledger produced different state."*
-
----
-
-## Q2.7 · Two small ones carried from the timing model
-
-**A vector whose target is removed from play entirely** — not dead, but gone. Fizzle and record it, or resolve against nothing? Sounds pedantic; it is the kind of thing that crashes a replay three years in.
-
-**Names for the four standing-vector kinds** — reactive/scheduled × durable/depleting. All four are real mechanics and none has a word.
-
----
+| | Answer |
+|---|---|
+| **Q2.1** Capacities | Became **L29**: seven attempt Domains, fifteen attempt Dimensions, Specialisations as a third layer |
+| **Q2.2** Dimension Spaces | **Five** — physical, mental, social, mystic, attempt. A Space limits a *vector*, never an ability |
+| **Q2.3** The Socket list | **Two: Place and Resolution.** Time and Budget became Substrate; Landing was retired when the Track merge removed its job |
+| **Q2.4** The Economy | **One unit, the doubloon.** A cost is `cost` · `timing` · `cap`. No denominations, nothing divides |
+| **Q2.5** Listener cascades | Depth **32** · **halt and write a Record** at the limit · order by semantic class then `(layer, component_id, listener_id, target_entity_id)` |
+| **Q2.6** Aggregation | Collapsed with the Track merge: Track clamps · Tag membership unions and magnitudes add · Capacity needs none · Relationship never merges |
+| **Q2.7** Timing carry-overs | Four timings — `own`, `any`, `respond`, `interrupt` — with `trigger` as a separate optional field |
+| **Q2.8** Is the Verb set complete? | **Still open, deliberately.** Seven drafted; closes in Phase 2 against content. See below |
+| **Q2.9** The non-blocking lists | Still pending, and still not blocking: L10–L13, L19, L20, L24, L30 |
 
 ## Q2.8 · Is the Verb set complete? — **the one irreversible decision**
 
-**What it is.** L6. The closed set of operations that change state. Preliminary candidates exist in `dictionary.md` L6; none of them is committed.
+**Seven drafted:** `Push` · `Set` · `Place` · `Repin` · `Link` · `Create` · `Decide`.
 
-**Why it is here and not in Part 1.** It cannot be answered early and it must not be. The evidence for completeness is worked examples, and worked examples come out of every other list. Settling Verbs first means settling them against imagination.
+**Deliberately not closed.** L6 closes against the *finished* set, and the finished set includes content that does not exist yet. Locking it now would be settling against imagination, which is precisely what the rule exists to prevent.
 
-**Why it outranks everything else in this document.** Every other decision here is expensive to change. This one is *impossible* to change — a Verb is the instruction set, and the Ledger is replayed against it forever. **If exactly one question in this file gets full attention, it is this one.**
+**The closing procedure:** take every entry from every other list plus every worked example; for each, assume the fiction has already decided what happened, write only what changed in the world, then ask which Verbs express it.
 
-**The closing procedure.** When L1–L5, L7, L18, L21–L23 and L25–L29 are done: take every entry across those lists and every worked example produced along the way; for each, assume the fiction has already decided what happened, write only what changed in the world, then which Verbs express it. *If a consequence needs an operation not on the list, that is a real finding. If it merely needs a Tag, a Channel, or a Component formula, it is not.*
+> **If a consequence needs an operation not on the list, that is a real finding.**
+> **If it merely needs a Tag, a Channel, or a Component formula, it is not.**
 
-**Answered when:** a full pass over every worked example adds nothing.
+**Blocks:** nothing yet. No Substrate code should depend on the Verb set being final until Phase 2 closes it.
 
 ---
 
-## Q2.9 · The nine lists that are pending but not blocking
+## Q2.10 · How is magnitude produced? — **still open, and it is the big one**
 
-Not urgent, and listed so they are not mistaken for settled: **L10** Challenge Profile axes · **L11** Asset types · **L12** Rails binding scopes · **L13** Record types · **L19** Causal tag vocabulary · **L20** Lens tiers · **L24** Guard presets · **L26** Listener condition forms (its three blanks are Q2.5 above) · **L30** Instrumentation surfaces.
+*"A combination of modifiers and a dice roll."* The formula waits until content exists and real numbers can be seen. It is the **Resolution Socket's** business, and the Socket's *contract* is already decided even though the formula is not: **the occupant must publish its distribution**, because rule 19 requires any likelihood-expressing Lens to be Calibrated against it.
 
-**The one with a dependency worth knowing:** L24 (Guard presets) cannot be filled until Q1.3 is answered, because a preset written against flat per-Dimension Guards is wrong if Guards become a shared pool.
+**Blocks:** every worked example that needs a number, and therefore most of Phase 2's arithmetic. **It does not block writing the content itself.**
 
 ---
 

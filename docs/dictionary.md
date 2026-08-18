@@ -147,7 +147,7 @@ A named condition, optionally with magnitude, **exclusive within its axis**. Pro
 
 **The line between State and Resource:** continuous number → Resource. Small set of named alternatives → State. Crossing a Resource threshold can set a State.
 
-**LIST: State axes — PENDING.**
+**LIST: Tracks — L5, settled.**
 
 ## Resource
 A depletable, replenishable value with named thresholds.
@@ -898,7 +898,7 @@ R-850   Guard flat          ONCE PER SOURCE, on the sides it covers; redistribut
 R-1000  combine all         sum across sources — THIS is where cancellation happens
 R-1050  Guard proportional  SUM, apply once to the total, clamp 100%; truncate
 R-1100  target clamp        the target's own floors and ceilings on the combined total
-R-1200  land                transient → persistent          (Landing Socket)
+R-1200  land                push the Track the Dimension names
 R-1250  restore             restorative vectors — same machinery, a later layer
 R-1300  record              write the Resolution Record
 R-1400  listeners           evaluate against the new state
@@ -1990,7 +1990,7 @@ What L1–L3 already settle: **every Creature carries the same fields whether or
 
 ---
 
-## L4 · Core Tag vocabulary — PENDING · BLOCKING
+## L4 · Core Tag vocabulary — PROVISIONAL, Aug 2026
 
 **Research: `lists-research.md` §5.** The number that matters: Magic has published **222 keywords in 33 years** and keeps **~17 always-live**. There is no cap on the total vocabulary; there is a hard cap around 15–20 on the always-on set. *Never implies another Tag* is strongly validated — and the gate has to forbid **derivation at read time**, not just declaration, or a Component reintroduces hierarchy in behaviour while passing the schema check.
 
@@ -2368,7 +2368,7 @@ Everything on the resolution path was settled in Phase 0: contributions add, per
 
 ## L25 · Landing — **SETTLED, Aug 2026**
 
-**What a vector that survives Guards actually does. This is the Landing Socket's Vocabulary.**
+**What a vector that survives Guards actually does.**
 
 ### The Track merge did most of this list's work
 
@@ -2506,7 +2506,7 @@ R-1200 and R-1250 are real slots that really happen. What is unobservable is the
 
 ---
 
-## L27 · Sockets — PENDING · BLOCKING
+## L27 · Sockets — **SETTLED, Aug 2026 · two**
 
 **What it is.** The named holes in the Substrate that a Component *must* fill. Exactly one occupant each, never zero, never two. A Bundle with an empty Socket must fail to load.
 
@@ -2533,7 +2533,7 @@ The second argument is arithmetic: **Scale belongs to the part as well as the wh
 
 ---
 
-## L28 · Economy — PENDING · BLOCKING
+## L28 · Economy — **SETTLED, Aug 2026**
 
 **What it is.** The atomic unit a cost is denominated in, and the shape of a cost. Substrate, because every ability ever written depends on both.
 
@@ -2773,7 +2773,7 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 | **Aug 2026** | **A position within a round ("initiative 10") is a Component clock** | It only exists in Settings whose turn structure is a *count* rather than an ordering — Shadowrun passes, Feng Shui shots. Freezing "a round has numbered slots" would fail the line, since PF2e and 5e have no such thing. Same rule that sends downtime weeks to Components, running the other way |
 | **Aug 2026** | **Anything may attempt — no Category gates it** | *"No reason to restrict something that the GM doesn't have to allow."* Falls out of *absent is not zero* rather than needing its own rule. A Setting that wants ships to assist rather than act simply gives them no attempt Dimensions — a content stance, not a Substrate one |
 | **Aug 2026** | **Points spent this Moment must be readable state** | Otherwise the escalating-repetition penalty every fungible economy needs is inexpressible, because a Listener watches state and never Verbs. Dylan: *"points being spent is a good way to deal with turn-based economy. Just that there will also be more to it"* — so more spend-visible state is expected, and the shape should not assume this is the only field |
-| **Aug 2026** | **Time and Budget move from Sockets into the Substrate; three Sockets remain** | A Socket is a hole in the *explanation*, not just the code — every worked example had to caveat itself, which made every spell and ability harder to understand than necessary. The objection (a Setting wanting week-long turns) dissolves because a Component **adds** rather than replaces: month-scale play never uses second-scale abilities, so they need not share a machine |
+| **Aug 2026** | **Time and Budget move from Sockets into the Substrate** | A Socket is a hole in the *explanation*, not just the code — every worked example had to caveat itself, which made every spell and ability harder to understand than necessary. The objection (a Setting wanting week-long turns) dissolves because a Component **adds** rather than replaces: month-scale play never uses second-scale abilities, so they need not share a machine |
 | **Aug 2026** | **Socket occupants are frozen per Setting** | Stronger and cleaner than "Edition-level change." The occupants are part of a Setting's identity; changing one produces a different Setting, and moving a Campaign across is a Conversion. Components stay swappable within a Setting |
 | **Aug 2026** | **Place is a Socket** | Not because distances differ — that could be answered by scaling numbers. Because a game about insects, a game about galaxies, one where everyone teleports, and one set in a five-dimensional astral sea are not one game with different numbers. Second argument: Scale belongs to parts as well as wholes, so something must know the door belongs to the ship, and that is containment |
 | **Aug 2026** | **One Economy Unit — the doubloon. No denomination ladder** | A size vocabulary (`action`, `quick`) beside a timing vocabulary made authoring roundabout, because "reaction" is a *when* and "action" is a *how much*. Fusing them is what produced *bonus action*, which its own designer has publicly disowned |

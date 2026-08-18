@@ -56,7 +56,7 @@ Reading the findings, agreeing with them, and moving on to the more interesting 
 
 ---
 
-# Phase 1 · The Lists
+# Phase 1 · The Lists — **COMPLETE, August 2026**
 
 **Decide everything that can never be revised.**
 
@@ -69,9 +69,9 @@ The order is a dependency order, not a preference.
 1. **L21 Dimension Spaces.** Which kinds of push can meet each other at all. Coarse, quick, and upstream of everything.
 2. **L29 Capacities.** What a character is made of *and* the Dimensions of the attempt Space — which is why L21 comes first. Every candidate passes the four-way test: person, ship, faction, storm.
 3. **L22 → L23.** The Dimensions inside the remaining Spaces, then the Channels placed in them.
-4. **L32 Moment kinds and L31 Timings.** These block every ability that will ever be written. *(L27 Sockets and L28 Economy were here; both settled in shape in Aug 2026 — three Sockets, one Economy Unit.)*
+4. **All of Phase 1 closed in August 2026** except L6, which is drafted and closes in Phase 2 against real content.
 5. **L1 → L2 → L3.** Categories, Universal Attributes, Category Attributes.
-6. **L4 Tags, L5 State axes, L18 Aggregation, L25 Conversions.**
+6. **L4 Tags (provisional), L5 Tracks, L18 Aggregation, L25 Landing — all settled.**
 7. **L7's remaining regions.** The lattice outside resolution: progression, economy, movement, knowledge, standing.
 8. **L26 Listener conditions**, plus the cascade limit and the evaluation order across simultaneous Listeners.
 9. **L6 Verbs — last.** Every list above produces the worked examples that are the only real evidence of completeness. Freezing the Verb set before them means freezing it against imagination.

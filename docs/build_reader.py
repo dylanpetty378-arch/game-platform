@@ -1,6 +1,7 @@
 import markdown, json, html, re, os
 
 DOCS = [
+    ("START-HERE.md",     "Start Here",     "The whole project in one document. Read this first."),
     ("the-game.md",       "The Game",       "Plain terms. What it is and how it plays. Start here."),
     ("orientation.md",    "Orientation",    "Everything explained at length, straight through."),
     ("architecture.md",   "Architecture",   "The reasoning and the engineering."),
@@ -16,6 +17,7 @@ DOCS = [
     ("open-questions.md", "Open Questions", "Everything undecided, by when it has to be answered."),
     ("work-repair.md",    "Work · Repair",  "The record of Phase 0. What was decided and why."),
     ("list-log.md",       "List Log",       "The conversation that made each list. The argument, not just the answer."),
+    ("worked-builds.md",  "Worked Builds",  "Twenty things built from the model — the evaluation, not the description."),
     ("lists-research.md", "Lists · Research","What the field does, for every list still open. The digest."),
     ("research-timing.md","Research · Timing","Full report: naming when an ability may be used."),
     ("research-listeners.md","Research · Listeners","Full report: triggers, cascades, deterministic ordering."),

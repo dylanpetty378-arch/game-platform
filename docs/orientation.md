@@ -152,7 +152,7 @@ Here's the problem the rule above creates. If Crafting can't touch Currency's pu
 
 Domain operations are never Verbs. *Inherit* is form relationship + add tag. *Fuse* is destroy + destroy + create. If the Verb set is right, everything composes out of it.
 
-**Nouns** are the opposite: an **open, extensible** set. A Noun is a published data schema, and there are exactly **five kinds** — **Capacity** (a graded, kind-agnostic disposition), **Tag** (loose membership, optional magnitude), **State** (a named condition, exclusive within its axis), **Resource** (depletable, with thresholds), and **Relationship** (a Category of Entity holding one Connection per participant). They behave differently under change, aggregation and rendering, which is the entire reason the kinds exist.
+**Nouns** are the opposite: an **open, extensible** set. A Noun is a published data schema, and there are exactly **four kinds** — **Capacity** (a graded, kind-agnostic disposition — what you *bring* to an attempt), **Tag** (loose membership, magnitude declared per Tag), **Track** (a bounded value with a max, a current and named bands — the persistent counterpart of a Dimension; what can be *pushed*), and **Relationship** (a Category of Entity holding one Connection per participant). *(Five until August 2026, when State and Resource were found to be one mechanism.)* They behave differently under change, aggregation and rendering, which is the entire reason the kinds exist.
 
 And the framing that produced them: **model what a thing affords, not what it is.** *Capacity to exert force*, never *Strength* — because a capacity applies without absurdity to a person, a winch, a faction and a storm, while an essence claim about people needs an exception the first time an undead or an object shows up. Components publish Nouns and other Components may depend on them. Bloodlines publishes the concept "bloodline"; a disease Component that spreads through bloodlines depends on that Noun.
 
@@ -242,7 +242,7 @@ This section used to be about **Periods** — a bounded unit of time that Record
 
 The claim *"everything above the Substrate is a Component"* is true, and was misleading. Some Components are load-bearing walls rather than furniture.
 
-The Substrate defines what a **Moment** is and cannot say which Moments exist. It defines what a **Resource** is and ships none. It knows a vector can land and cannot say what landing does. Those are **Sockets** — named holes the Substrate declares and cannot fill itself.
+The Substrate defines what a **Track** is and ships none. It knows a vector has scope and cannot say what a place is. It knows an attempt produces a magnitude and cannot say how. Those last two are **Sockets** — named holes the Substrate declares and cannot fill itself. *(Amended Aug 2026: Time and Budget moved into the Substrate, and Landing was retired when the Track merge removed its job. Two Sockets remain — Place and Resolution.)*
 
 - **Exactly one occupant per Socket. Never zero, never two.**
 - **A Bundle with an empty Socket must fail to load.** That is the rule that makes the concept worth having.
@@ -305,7 +305,7 @@ A Verb doesn't hand anything back. There's nothing running to hand anything back
 
 So how does anything follow from anything? A **Listener**: a declared watch on a condition.
 
-A blow drives someone's health to zero. The Verb doesn't know that and doesn't report it. A Listener that was watching *"this Resource is at zero"* notices, fires, and issues its own Verbs — set state `unconscious`, add a Tag, whatever that Component declared.
+A blow drives someone's health to zero. The Verb doesn't know that and doesn't report it. A Listener that was watching *"this Track is at zero"* notices, fires, and issues its own Verbs — set state `unconscious`, add a Tag, whatever that Component declared.
 
 The important detail: **a Listener watches state, not Verbs.** It asks *"is this true now?"*, never *"did that just happen?"* The second version would make Components depend on each other's internal sequences, which is the exact thing the whole Component design is built to prevent. The first version only depends on the world, which is re-derivable from the Ledger and therefore safe.
 
@@ -348,7 +348,7 @@ Plus 2, then +100%, gives 20 from a base of 8. Apply the percentage first and yo
 
 A **Layer** is a numbered slot. A Component never says "I modify speed"; it says "I modify speed **at R-500**." Order becomes a property of the system rather than an accident of which code ran first.
 
-**The resolution region is drafted** — thirty slots in three groups, and every boundary was forced by a case that was actually worked rather than guessed. The full list is in `dictionary.md` Part 2A; the shape is:
+**The lattice closed in August 2026** — forty-one slots in five regions, nineteen of them the resolution region, and every boundary was forced by a case that was actually worked rather than guessed. The full list is in `dictionary.md` Part 2A; the shape is:
 
 ```
 E-100 … E-500     preparing an Entity      does it exist, what Categories it holds,

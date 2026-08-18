@@ -1,3 +1,9 @@
+# Phase 1 · The Lists — **CLOSED, August 2026**
+
+> **Every blocking list is settled except L6 · Verbs**, which is drafted and closes in **Phase 2** against real content — because L6 closes against the *finished* set, and the finished set includes content that does not exist yet.
+>
+> **Next: Phase 2 · Paper.** Index cards, a shared spreadsheet, and people who will tell the truth. The gate is *a group asks to play again without being asked.*
+
 # Phase 1 · The Lists — the working guide
 
 *Companion to `substrate-lists.xlsx`. The argument behind each closed list is in `list-log.md`; the settled content is in `dictionary.md` Part 2A/2C.*
@@ -10,7 +16,7 @@
 | **SETTLED IN SHAPE** | L27 Sockets (three) · L28 Economy (one unit, three-field cost) |
 | **SETTLED** | L32 Moment kinds — eight, Aug 2026 |
 | **SETTLED** | L31 Timings — four, Aug 2026 |
-| **SETTLED** | L1 / L2 / L3 — nine Categories, nine universal fields, Aug 2026 |
+| **SETTLED** | L1 / L2 / L3 — nine Categories, eight universal fields, Aug 2026 |
 | **SETTLED** | L5 Tracks · L18 Aggregation — Aug 2026 |
 | **SETTLED** | L4 Tags (provisional, 22) · L25 Landing · L7 Layers — Aug 2026 |
 | **SETTLED** | L26 Listener conditions — Aug 2026 |
@@ -57,7 +63,7 @@ L32  Moment kinds          ── SETTLED · eight, every reference carrying a r
  ↓
 L31  Timings               ── SETTLED · four: own, any, respond, interrupt
  ↓
-L1 ── L2 ── L3             ── SETTLED · nine Categories, nine universal fields
+L1 ── L2 ── L3             ── SETTLED · nine Categories, eight universal fields
                               (character sheets deferred until creation is designed)
  ↓
 L4 Tags ── L5 Tracks ── L18 Aggregation ── L25 Conversions          ◄ HERE
@@ -342,7 +348,7 @@ The sixth carries the most weight — it is how reflection, retribution and *"wh
 
 ---
 
-## Phase 1 is done when
+## Phase 1 was done when — **all met, August 2026**
 
 - [x] L21 · L29 · L22 · L23 closed, each with its argument logged
 - [ ] L27 · L28 closed — the vocabulary content is allowed to name

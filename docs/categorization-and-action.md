@@ -155,7 +155,7 @@ That is a feature for drama and a problem for automation. Anything that has to *
 
 Putting it together. This is a proposal, not a decision.
 
-## 4.1 The Substrate has five kinds of thing, not one
+## 4.1 The Substrate has four kinds of thing, not one *(five until Aug 2026 — State and Resource merged into Track)*
 
 Rather than "twenty attributes," the evidence points at five distinct kinds of Substrate value, each with different behaviour:
 
