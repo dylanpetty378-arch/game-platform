@@ -2180,7 +2180,12 @@ The Threshold aggregation modes (`sum`, `highest`, `each`) already exist as voca
 
 **Constraints.** A Listener watches **state, not Verbs** — "is this now true," never "did that just happen." Declared as data by a Component, never as code. Evaluated at R-1400, produces Verbs pinned to a **later Moment**, class `Triggered`.
 
-**The hard part.** Cascade depth. Listener A fires B fires C. Needs a hard limit, a deterministic evaluation order across simultaneously-satisfied Listeners, and a defined behaviour at the limit. **All three PENDING.** Get the ordering wrong and the same Ledger folds differently on two machines.
+**Two fields SETTLED, Aug 2026, both handed over by L32:**
+
+1. **Conditions compose** — `and`, `or`, `not` over the closed form set. `not` is safe despite the open-world rule: that rule is about *fields being absent*, not about state being unknown, and the Fold has complete state at evaluation time. Composition is what lets *"a spell is cast that fulfils a condition"* be one Listener rather than a family of them.
+2. **Firing discipline is a required field on every Listener** — `once` or `while` — with **no default.** *"The next time somebody attacks"* is `once`; *"while you are bleeding"* is `while`. No default, because the two behave differently enough that a wrong guess is silent, and a Listener whose discipline was inferred is one nobody can reason about.
+
+**The hard part.** Cascade depth. Listener A fires B fires C. Needs a hard limit, a deterministic evaluation order across simultaneously-satisfied Listeners, and a defined behaviour at the limit. **All three PENDING**, with research-backed proposals in `lists-research.md` §2: depth **32**, **halt and write a Record** at the limit, and a sort key composed only of values that do not move when unrelated content is added. Get the ordering wrong and the same Ledger folds differently on two machines.
 
 **Depends on:** L5 (States), L7 (Layers). **Blocks:** any Component with a consequence.
 
@@ -2289,6 +2294,7 @@ The second argument is arithmetic: **Scale belongs to the part as well as the wh
 | `round end` | also where `cap` resets |
 | `ordered entry` | the Moment Ordered time begins |
 | `ordered exit` | the Moment Ordered time ends |
+| `turn count (n)` | the Moment at numeric position **n** in the order — **occurring whether or not an Entity occupies it** |
 
 **`turn start (E)` collapses what were four entries into two.** "My turn" is just the case where E is self. Two frozen words instead of four, and no *which one do I use* question for authors.
 
@@ -2332,13 +2338,23 @@ Worked against real cases:
 
 **The rule that falls out, and it is worth stating as a rule: a Moment kind says *when*; a Listener says *whether*. Never add a Moment kind to express a condition.** Doing so would grow a frozen list to cover cases an open list already handles, and every entry added to a frozen list is permanent weight.
 
-### The one case that is genuinely neither: *"activate on initiative 10"*
+### `turn count (n)` — the ninth kind, and the argument that was got wrong
 
-This is not a condition and not one of the eight. It is a **position within a round, independent of who occupies it** — and it only exists in Settings whose turn structure is an initiative *count* rather than an ordering: Shadowrun's passes, Feng Shui's shots, Exalted 2e's ticks.
+*"Activate on initiative 10."* This was first answered as *a Component clock*, on the grounds that freezing *"a round is divided into numbered slots"* is a game-design assumption most systems do not share — Pathfinder 2e and D&D 5e have no such thing.
 
-**That is a finer clock, and a finer clock is a Component** — the same rule that sends downtime weeks and seasons to Components, running in the other direction. The Substrate publishes `turn start (E)`; a Setting that wants count 10 to be a real Moment even when nobody occupies it is adding a clock alongside, which is exactly what Components are for.
+**That answer was wrong, and the reason it was wrong is the reason this kind belongs in the Substrate: a Component cannot publish a Moment kind.** Components add Channels, Tags, States, Listener condition forms and whole coarser clocks — but the set of things a vector may be *pinned to* is Substrate. Sending initiative counts to a Component would not have delegated the problem; it would have made an entire family of published initiative systems inexpressible until a Substrate change.
 
-Freezing *"a round is divided into numbered slots"* into the Substrate would be a game-design assumption most systems do not share — Pathfinder 2e and D&D 5e have no such thing — and it would fail the line: **if it is only true in some Settings, it is a Component.**
+Those systems are not exotic. Shadowrun's initiative passes, Feng Shui's shot counter, Exalted 2e's tick track and every Fallout-descended action-point clock all number the positions in a round independently of who occupies them. Content in such a Setting wants to say *at count 10*, and count 10 exists whether or not anybody is standing on it.
+
+**What it costs to include it: nothing.** An inert Moment kind is free. In a Setting whose turn order is a plain ordering with no numeric counts, `turn count (n)` either maps to the ordinal positions or simply never occurs — and *absent is not zero* already covers that, exactly as it covers `round start` in a Setting with no rounds.
+
+**What it costs to leave it out: an Edition break, later, under pressure.**
+
+Three details:
+
+- **The Substrate does not need to know the direction.** Countdown systems run high to low, ordinal systems low to high. Moments are totally ordered and stamped with a Tick when they occur, so base Ruleset emits them in whatever order it uses and *count 10 is count 10* either way.
+- **The round parameter applies**, like every other kind: `turn count (n, round r)`.
+- **When an Entity occupies position n, `turn count (n)` fires first, then `turn start (E)`.** The count is the coarser frame and the Entity's turn happens inside it, which is also how these systems read aloud: *"on count 10, Kira acts."* Decided rather than asked because there is no design tension in it — say so if you disagree.
 
 **Depends on:** nothing. **Blocks:** L31, L28, L26.
 
@@ -2388,7 +2404,10 @@ Decisions recorded with their reasoning, so they can be revisited intelligently.
 
 | Date | Decision | Reasoning |
 |---|---|---|
-| **Aug 2026** | **L32 settled: eight Moment kinds** | `turn start (E)` collapses four entries into two — "my turn" is just E = self. Every reference carries a round; rounds number from 1 and there is no round 0. Authors write relative, the Ledger stores absolute, because **rounds never reorder** while turn order within a round does |
+| **Aug 2026** | **`turn count (n)` added — nine Moment kinds** | The earlier answer, that initiative counts are a Component clock, was wrong: **a Component cannot publish a Moment kind.** Sending them to a Component would have made Shadowrun-, Feng Shui- and Exalted-style initiative inexpressible until a Substrate change. An inert Moment kind costs nothing; omitting one costs an Edition break |
+| **Aug 2026** | **Listener conditions compose; firing discipline is required with no default** | `and`/`or`/`not` — `not` is safe because the open-world rule is about absent *fields*, not unknown *state*. `once` vs `while` has no default because the two behave differently enough that a wrong guess is silent |
+| **Aug 2026** | **The authoring loop is the Substrate's real test** | Nothing verifies a Substrate except trying to build content on it. Assets are generated in bulk and checked mechanically; a misfit is a finding, never a workaround. Findings split into *additive* (cheap, open forever for Components) and *structural* (an Edition break, window closes at launch), and the check must say which |
+| **Aug 2026** | **L32 settled: nine Moment kinds** | `turn start (E)` collapses four entries into two — "my turn" is just E = self. Every reference carries a round; rounds number from 1 and there is no round 0. Authors write relative, the Ledger stores absolute, because **rounds never reorder** while turn order within a round does |
 | **Aug 2026** | **Conditional activation is a Listener, never a Moment kind** | Two orthogonal axes: a Moment says *when*, a Listener says *whether*. The Moment list is a frozen coordinate system and stays small; the condition set is open and Component-extensible forever. Growing the frozen list to cover cases the open list already handles is permanent weight for nothing |
 | **Aug 2026** | **A position within a round ("initiative 10") is a Component clock** | It only exists in Settings whose turn structure is a *count* rather than an ordering — Shadowrun passes, Feng Shui shots. Freezing "a round has numbered slots" would fail the line, since PF2e and 5e have no such thing. Same rule that sends downtime weeks to Components, running the other way |
 | **Aug 2026** | **Anything may attempt — no Category gates it** | *"No reason to restrict something that the GM doesn't have to allow."* Falls out of *absent is not zero* rather than needing its own rule. A Setting that wants ships to assist rather than act simply gives them no attempt Dimensions — a content stance, not a Substrate one |

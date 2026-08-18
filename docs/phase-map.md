@@ -248,6 +248,52 @@ And the thing that matters more than the launch: **the plan for month two exists
 
 ---
 
+# The authoring loop is how the Substrate gets tested
+
+*Standing practice from Phase 2 onward. Written August 2026.*
+
+**Nothing verifies a Substrate except trying to build content on it.** The lists can be internally consistent, the CI gates can all pass, the arithmetic can be provably deterministic — and the whole thing can still be unable to express a spell anybody actually wants. The only test that finds that is writing the spell.
+
+So from Phase 2 on, **every asset made is a test of the structure**, and the loop runs the same way every time:
+
+```
+author an asset  →  express it in Substrate terms  →  it fits?
+                                                       ├─ yes  → keep going
+                                                       └─ no   → that is a FINDING
+```
+
+**A misfit is never worked around.** Not with a special case, not with a clever encoding, not with "close enough." That is the rule that already governs Component design — *when something doesn't fit, stop and say so* — and it applies with more force here, because content is where misfits actually surface.
+
+## Volume is the point, and it is why this is tractable
+
+Assets get generated in bulk rather than one at a time — hundreds of creatures, items, abilities and hazards, drafted fast and then checked. **A structure that survives five hand-picked examples has proved nothing. One that survives four hundred generated ones has.**
+
+The generation is cheap. The **verification** is the work, and it has to be mechanical or it will not happen at the volume that makes it meaningful. That is a real deliverable and it belongs in L30: **an expressibility check** — a tool that takes an authored asset and either produces the Verbs, vectors, Channels, Tags and Listeners it compiles to, or reports precisely what it could not express and why.
+
+## Findings come in two kinds, and the difference is everything
+
+| | What it needs | Cost | Window |
+|---|---|---|---|
+| **Additive** | a new Channel, Tag, State axis, Listener condition form, Moment kind, Domain, Specialisation | Cheap. Additive-only means nothing that already exists breaks | Open **forever** for Component-level items; open **until public** for Substrate-level ones |
+| **Structural** | a different Verb shape, a split or merged Dimension Space, a redefined field, a fourth rounding site | Expensive. An Edition break, or worse | **Closes at public launch, permanently** |
+
+**The expressibility check must report which kind a misfit is.** "This needs a new Channel" and "this needs a field the Verb shape doesn't have" look identical from the authoring side and are nothing alike underneath. The first is a Tuesday; the second is a foundation finding and stops other work until it is understood.
+
+## The window, and why it is a hard edge
+
+**Expanding the Substrate is cheap now, expensive during playtest, and impossible after launch.** Campaigns exist after launch; a Substrate change means a Conversion for every one of them, and the Substrate is explicitly never versioned.
+
+So the schedule is not a preference:
+
+- **Phases 2–4** — expand freely. A finding is good news. This is what the phase is *for*.
+- **Phase 5–6, closed playtest and content** — expand deliberately, with a written reason. Findings are still expected and still welcome, but each one now costs a re-check of everything already authored.
+- **Phase 7, open beta** — additive only, and only where it cannot wait.
+- **Phase 8, release** — the Substrate is closed. Everything after this is Components, forever.
+
+**The number worth tracking through Phases 5–7 is the rate of structural findings.** Additive findings never stop and should not; that is what additive-only is for. Structural findings should be falling toward zero, and if they are not, the Substrate is not ready no matter what the calendar says.
+
+---
+
 # The two parallel tracks
 
 Both start now and never stop. Both are cheap per week and impossible to compress at the end.

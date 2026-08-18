@@ -534,16 +534,40 @@ Listener(condition)   →   produces a Verb   →   pinned to a Moment
 
 **The rule that came out of it:** *a Moment kind says when; a Listener says whether. Never add a Moment kind to express a condition.*
 
-## The one example that was neither
+## The one example that was neither — and the answer that was wrong
 
-*"Activate on initiative 10."* Not a condition, and not one of the eight — it is a **position within a round independent of who occupies it**, and it only exists in Settings whose turn structure is a *count* rather than an ordering. Shadowrun's passes, Feng Shui's shots, Exalted 2e's ticks.
+*"Activate on initiative 10."* The first answer was *a Component clock*: a position within a round independent of who occupies it only exists where turn structure is a **count** rather than an **ordering** — Shadowrun passes, Feng Shui shots, Exalted 2e ticks — and freezing *"a round has numbered slots"* would be a game-design assumption PF2e and 5e do not share.
 
-That is a finer clock, and **a finer clock is a Component** — the same rule that sends downtime weeks and seasons to Components, running in the opposite direction. Freezing *"a round is divided into numbered slots"* would be a game-design assumption most systems do not share; Pathfinder 2e and D&D 5e have no such thing. It fails the line cleanly: if it is only true in some Settings, it is a Component.
+Dylan overruled it, and he was right for a reason the original answer had missed entirely:
+
+> *"the eight, plus turn-count, which is a moment happening at each numeric in the order - even if there's no entity at the spot."*
+
+**A Component cannot publish a Moment kind.** Components add Channels, Tags, States, Listener forms and whole coarser clocks — but the set of things a vector may be *pinned to* is Substrate. Sending initiative counts to a Component would not have delegated the problem; it would have made an entire family of published initiative systems inexpressible until a Substrate change.
+
+And the asymmetry is stark. **An inert Moment kind costs nothing** — in a Setting with a plain ordering, `turn count (n)` either maps to the ordinals or never occurs, which *absent is not zero* already covers, exactly as it covers `round start` in a Setting with no rounds. **Omitting one costs an Edition break, later, under pressure.**
+
+Three details fell out: the Substrate does not need to know the direction (countdowns run high to low, ordinals low to high, and *count 10 is count 10* either way); the round parameter applies as it does to every kind; and when an Entity occupies position n, `turn count (n)` fires first and `turn start (E)` second, because the count is the coarser frame.
+
+**Nine, not eight.**
 
 ## Two questions this handed to L26
 
-1. **Do Listener conditions compose?** *"A spell is cast that fulfils a condition"* is compound. Leaning yes — `and`, `or`, `not`. `not` is safe despite the open-world rule, because that rule is about *fields being absent*, not about state being unknown, and the Fold has complete state at evaluation.
-2. **Does a Listener fire once, or every time?** *"The next time somebody attacks"* is once; *"while you are bleeding"* is every time. Leaning: a required field with no default, because a Listener whose firing discipline was inferred is one nobody can reason about.
+1. **Conditions compose** — `and`, `or`, `not`. Accepted as proposed. `not` is safe despite the open-world rule, because that rule is about *fields being absent*, not about state being unknown, and the Fold has complete state at evaluation.
+2. **Firing discipline is a required field, `once` or `while`, with no default.** Accepted as proposed.
+
+## And the practice that came with it
+
+Dylan closed with something larger than the list:
+
+> *"for every single thing made, we'll need to verify it fits into the structure. And if it doesn't, that just means expanding the structure - especially during playtesting and before the platform is public."*
+
+**That is the Substrate's real test, and it deserved writing down as a standing practice rather than an aside.** Nothing verifies a Substrate except trying to build content on it: the lists can be internally consistent, every CI gate can pass, the arithmetic can be provably deterministic, and the whole thing can still be unable to express a spell anybody wants. The only test that finds that is writing the spell.
+
+Two things make it work. **Volume** — assets get generated in bulk rather than picked one at a time, because a structure that survives five hand-picked examples has proved nothing and one that survives four hundred generated ones has. And **mechanical checking**, because at that volume nothing else happens. That is a real deliverable and it belongs in L30: an **expressibility check** that either compiles an authored asset into Verbs, vectors, Channels, Tags and Listeners, or reports precisely what it could not express.
+
+**The distinction the check must draw** is between an *additive* finding — a new Channel, Tag, State axis, Listener form, Moment kind — which is cheap, breaks nothing, and stays open for Components forever; and a *structural* one — a different Verb shape, a split Dimension Space, a redefined field — which is an Edition break and whose window **closes permanently at public launch**. From the authoring side those look identical. Underneath they are nothing alike.
+
+Written up in full in `phase-map.md`, with the schedule: expand freely in Phases 2–4, deliberately and in writing during playtest, additive-only in open beta, and never after release. **The number worth tracking is the rate of structural findings** — additive ones never stop and should not, but structural ones should be falling toward zero, and if they are not then the Substrate is not ready whatever the calendar says.
 
 ---
 

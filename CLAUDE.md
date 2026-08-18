@@ -187,6 +187,14 @@ The debugging loop is `ops repro <campaign-id>` — it exports one redacted Camp
 
 Writes to production go through `ops-write` only: `--dry-run` by default, `--reason` required, appends only, human-approved. Never propose a "quick data fix migration." The database will refuse it, and it should.
 
+## The authoring loop is the test
+
+**Every asset built is a test of the Substrate.** From Phase 2 on, content is authored in bulk and each piece is checked against the structure — mechanically, because at the volume that makes it meaningful it cannot be done by hand. A structure that survives five hand-picked examples has proved nothing.
+
+**A misfit is a finding, never a workaround.** No special cases, no clever encodings, no "close enough."
+
+**Report which kind of finding it is, because they are nothing alike.** *Additive* — a new Channel, Tag, State axis, Listener form, Moment kind — is cheap, breaks nothing, and stays open for Components forever. *Structural* — a different Verb shape, a split Dimension Space, a redefined field — is an Edition break at best, and the window closes permanently at public launch. Full practice in `phase-map.md`.
+
 ## When something doesn't fit
 
 If a Component you want can't be expressed cleanly with the current Verbs, the **two** Verb classes, Listener conditions, the Layer slots, a Socket's Vocabulary, the Dimension Spaces, or Thresholds — **stop and say so.** A Verb needing a field outside the uniform shape is the same signal. Do not work around it. That's a signal the Substrate is wrong, and the Substrate can't be changed later, so finding it early is worth more than the feature.

@@ -173,7 +173,7 @@ cap      how often, per Moment or per round   optional, usually absent
 
 # ✅ L32 · Moment kinds — SETTLED
 
-**Eight:** `now` · `next` · `turn start (E)` · `turn end (E)` · `round start` · `round end` · `ordered entry` · `ordered exit`.
+**Nine:** `now` · `next` · `turn start (E)` · `turn end (E)` · `round start` · `round end` · `ordered entry` · `ordered exit` · `turn count (n)`.
 
 `turn start (E)` collapses four candidates into two — "my turn" is just E = self.
 
@@ -181,7 +181,7 @@ cap      how often, per Moment or per round   optional, usually absent
 
 **The rule that came out of it, and it is the load-bearing one:** *a Moment kind says **when**; a Listener says **whether**.* Never add a Moment kind to express a condition. The Moment list is a frozen coordinate system and stays small; the Listener condition set is the open one and extends forever. Conditional activation — *"the next time somebody is attacked"*, *"when they take their reaction"* — is all Listeners, on machinery that already exists.
 
-A **position within a round** ("initiative 10") is neither: it is a finer clock, and finer clocks are Components.
+**`turn count (n)` was nearly got wrong.** A position within a round was first sent to a Component as "a finer clock" — but **a Component cannot publish a Moment kind**, so that would have made Shadowrun-, Feng Shui- and Exalted-style initiative inexpressible until a Substrate change. An inert Moment kind costs nothing; omitting one costs an Edition break.
 
 ---
 
