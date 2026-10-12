@@ -1,0 +1,10 @@
+platform,category,fee_pct,fixed_fee,payment_processing,listing_fee,shipping_model,verified_date,source_url
+eBay,standard,13.6,0.40,included,0.00 (250 free/mo then 0.35),buyer or seller paid; fee applies to shipping too,2026-09-13,https://www.underpriced.app/blog/ebay-fees-complete-guide-2026
+eBay,orders under $10,13.6,0.30,included,0.00,same,2026-09-13,https://www.underpriced.app/blog/ebay-fees-complete-guide-2026
+Mercari,all,10.0,0.00,included in 10%,0.00,buyer typically pays via prepaid label,2026-09-13,https://www.voolist.com/blog/mercari-fees-2026
+Poshmark,sales $15+,20.0,0.00,included,0.00,flat rate label,2026-09-13,https://sellerfeecalc.com/calculators/poshmark
+Poshmark,sales under $15,0.0,2.95,included,0.00,flat rate label,2026-09-13,https://sellerfeecalc.com/calculators/poshmark
+Facebook Marketplace,local pickup,0.0,0.00,none,0.00,local pickup - no fees,2026-09-13,https://sellerfeecalc.com/calculators/facebook
+Facebook Marketplace,shipped,10.0,0.00,included,0.00,shipped orders,2026-09-13,https://sellerfeecalc.com/calculators/facebook
+Etsy,all,6.5,0.25,3.0,0.20,offsite ads 12-15% when triggered,2026-09-13,https://www.voolist.com/blog/etsy-fees-explained-2026
+Depop,all,,,,,VERIFY BEFORE FIRST USE,2026-09-13,

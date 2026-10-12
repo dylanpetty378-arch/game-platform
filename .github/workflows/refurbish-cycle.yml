@@ -1,0 +1,39 @@
+# Always-on cloud worker for the Refurbish resale project (approved by Dylan 2026-10-12).
+# (Copy on the refurbish branch: needed so uploads to db/inbox trigger an ingest. The schedule runs from main.)
+# Code and data live on the `refurbish` branch; GitHub only runs scheduled workflows from the default branch,
+# so this file lives on main and checks out `refurbish`. Docs: refurbish branch -> docs/START-HERE.md
+# Free: GitHub Actions is free for standard runners on public repos. Turn off any time: repo -> Actions -> refurbish-cycle -> Disable.
+name: refurbish-cycle
+on:
+  schedule:
+    - cron: '17 */4 * * *'      # every 4 hours (harvests the last 6 h, so windows overlap)
+  workflow_dispatch:
+    inputs:
+      hours: {description: 'hours of listings to harvest', default: '6'}
+      no_harvest: {description: 'skip the harvest (just ingest + rebuild queue/status)', default: 'false'}
+  push:
+    branches: [refurbish]
+    paths: ['db/inbox/**']       # Lens results uploaded by the Chrome worker -> ingest right away
+concurrency: {group: refurbish-cycle, cancel-in-progress: false}
+permissions: {contents: write}
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: refurbish, fetch-depth: 1}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Run one cycle
+        run: |
+          ARGS="--hours ${{ github.event.inputs.hours || '6' }}"
+          if [ "${{ github.event_name }}" = "push" ] || [ "${{ github.event.inputs.no_harvest }}" = "true" ]; then ARGS="$ARGS --no-harvest"; fi
+          python3 scripts/cloud_cycle.py $ARGS
+      - name: Commit results
+        run: |
+          git config user.name "refurbish-bot"; git config user.email "refurbish-bot@users.noreply.github.com"
+          git add -A db q STATUS.md status.json
+          git diff --cached --quiet && exit 0
+          git commit -qm "cycle $(date -u +%Y-%m-%dT%H:%MZ) (${{ github.event_name }})"
+          for i in 1 2 3; do git pull -q --rebase origin refurbish && git push -q origin HEAD:refurbish && exit 0; sleep 10; done; exit 1
