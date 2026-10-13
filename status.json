@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T04:39:14Z",
+ "updated": "2026-10-13T04:43:02Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1629,
-  "events": 7131,
+  "lens": 1654,
+  "events": 7160,
   "comps": 152,
-  "item_types": 385,
+  "item_types": 513,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 535,
-  "queued": 3012,
-  "lensed": 583,
+  "photo_review/kill": 536,
+  "queued": 2986,
+  "lensed": 596,
   "comps/pass": 1,
-  "decided/ask": 12,
-  "queued/relens": 310,
+  "decided/ask": 14,
+  "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 141,
+  "flagged": 152,
   "decided/find": 6
  },
  "last_harvests": [
@@ -169,6 +169,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7944373282",
+   "title": "Vintage Keepsake/Jewelry Boxes",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-puente-vintage-keepsake-jewelry-boxes/cLUS2UAE5BV8zPg71EScfU",
+   "best": "Antique Blanket Chest With Drawers, Large Wood Box ...",
+   "med": 1695,
+   "ratio": 84.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7979510112",
    "title": "Vintage Ceramic Hollywood Regency Table Lamp",
    "price": 15,
@@ -222,6 +233,17 @@
    "med": 1250,
    "ratio": 62.5,
    "ai_value": "Value / Market Range: Similar vintage double-sided examples typically sell between $150"
+  },
+  {
+   "pid": "7946978963",
+   "title": "Two Vintage Nightstands",
+   "price": 40,
+   "area": "stockton",
+   "url": "https://www.craigslist.org/view/d/tracy-two-vintage-nightstands/8eiyZgvxgkDQvLb1gUT3iD",
+   "best": "Vintage French Provincial Nightstand \u2013 Two Drawer Bedside ...",
+   "med": 1200,
+   "ratio": 30,
+   "ai_value": ""
   },
   {
    "pid": "7982479140",
@@ -301,6 +323,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954286315",
+   "title": "Vintage night stand",
+   "price": 80,
+   "area": "nd",
+   "url": "https://www.craigslist.org/view/d/fargo-vintage-night-stand/vcD5zs5pXLiqybKq6ZzLrr",
+   "best": "Mid Century Nightstand / End Table \u2013 Home and Closet Vintage",
+   "med": 1600,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
    "pid": "7951224820",
    "title": "Navajo Sam Gray Earrings",
    "price": 140,
@@ -331,6 +364,17 @@
    "best": "Antique Dresden Reticulated Pedestal Bowl with Encrusted ...",
    "med": 173,
    "ratio": 17.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961128158",
+   "title": "Brass Lantern Vintage",
+   "price": 39,
+   "area": "florencesc",
+   "url": "https://www.craigslist.org/view/d/florence-brass-lantern-vintage/kHeLzhBCxxuwD2mH2FR95a",
+   "best": "Sea Gull Lighting Classico Outdoor Wall Lantern . Sold As It Is ...",
+   "med": 600,
+   "ratio": 15.38,
    "ai_value": ""
   },
   {
@@ -419,6 +463,17 @@
    "best": "Current market value or pricing for resale",
    "med": 300,
    "ratio": 12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973161953",
+   "title": "Vintage Turquoise Chip Necklace.",
+   "price": 15,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/baltimore-vintage-turquoise-chip/htLmYFW1ERGSN9UHHuUGqo",
+   "best": "Vintage Navajo Turquoise Necklace | eBay",
+   "med": 175,
+   "ratio": 11.67,
    "ai_value": ""
   },
   {
@@ -653,6 +708,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7949845282",
+   "title": "moving's dolleys",
+   "price": 10,
+   "area": "frederick",
+   "url": "https://www.craigslist.org/view/d/monrovia-movings-dolleys/3XTmySBcP6VVfFjUXup1HT",
+   "best": "Monster Trucks 800 lb. Capacity Wood 4-Wheel Dolly, Carpeted ...",
+   "med": 69,
+   "ratio": 6.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949346065",
+   "title": "Vintage Mink Beret/Hat",
+   "price": 30,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-mink-beret-hat/nkuok89kMW1yuqoEVtDasQ",
+   "best": "Vintage Black Mink/Rabbit Fur Ladies Church Hat Satin lined ...",
+   "med": 192,
+   "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7934015316",
    "title": "Very nice vintage gas can wooden handle. Great condition",
    "price": 15,
@@ -727,6 +804,17 @@
    "best": "Vtg Chinese Enamel Brass Opium Oil Lamp *no Shade - Etsy",
    "med": 200,
    "ratio": 5.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957682609",
+   "title": "Vintage French Market Basket",
+   "price": 40,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-french-market-basket/iDTjDonHWRcJS5MZPW3C97",
+   "best": "Vintage Wicker Gathering Basket - Etsy",
+   "med": 220,
+   "ratio": 5.5,
    "ai_value": ""
   },
   {
@@ -969,6 +1057,17 @@
    "best": "VINTAGE P&A MFG CO DANBURY OIL LAMP EAGLE BURNER 18 1/4 ...",
    "med": 101,
    "ratio": 3.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946021087",
+   "title": "Vintage Camera's & Accessories",
+   "price": 100,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/anderson-vintage-cameras-accessories/fPV4jQEq32gZBu6mBkd7DP",
+   "best": "Vintage Yashica A Camera in Box with Leather Case Manual ...",
+   "med": 320,
+   "ratio": 3.2,
    "ai_value": ""
   },
   {
@@ -1225,6 +1324,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960156296",
+   "title": "Vintage evening clutch handbags",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/blue-island-vintage-evening-clutch/9nyGuHxqaa3LVxoUyUz28d",
+   "best": "Vintage Brocade Seed Bead Clutch: 1940s Floral Evening Bag ...",
+   "med": 83,
+   "ratio": 2.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7943336347",
    "title": "Antic Chinese hand painting on silk",
    "price": 60,
@@ -1431,6 +1541,17 @@
    "best": "John Wayne Decanter Ceramic Statue Mike Wayne Distilling ...",
    "med": 80,
    "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955700804",
+   "title": "Antique throwing knife LG",
+   "price": 65,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-antique-throwing-knife-lg/x8ZxpaFqeahd6QiqpUKkrb",
+   "best": "Primitive 1800's butcher knife antique VERY OLD long 14 7/8 ...",
+   "med": 99,
+   "ratio": 1.52,
    "ai_value": ""
   },
   {
@@ -1732,6 +1853,16 @@
    "status": "ask"
   },
   {
+   "pid": "7982456682",
+   "title": "9 Antique Straight Razors",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/morrisville-antique-straight-razors/8uQhfPXk8JhyUDswYxhWiM",
+   "note": "9 German straight razors (Star, Master, Spike, Real, Heartring, Mondo, Roland), 2 shown boxed near-unused (P. Wichert Philadelphia). Body: minor wear. German razors ~$20\u201340 each sold \u2192 lot ~$200\u2013300; profit ~$100\u2013150 at $75. ASK: photos of both sides of all 9 blades + edges (chips, hones wear, rust).",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
    "pid": "7944042161",
    "title": "vintage ice bucket/wine chiller",
    "price": 15,
@@ -1768,6 +1899,16 @@
    "area": "boise",
    "url": "https://www.craigslist.org/view/d/boise-vintage-puma-pocket-knife/eWHQJshmh2ohxizRagKMLG",
    "note": "Puma 230365 lockback w/ box, $50. One NOS comp $173; Puma boxed lockbacks median $150. Profit $38-65 -> borderline Tier C; ask if unused",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7959418728",
+   "title": "Vintage Hoppalong Cassidy watch",
+   "price": 25,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/schenectady-vintage-hoppalong-cassidy/8TPiiEprEWJeCzbXsJoWVm",
+   "note": "1950 US Time Hopalong Cassidy watch, untested, $25 porch pickup. Running loose $50\u2013100; with saddle box $200+. ASK: does it run when wound; box?",
    "stage": "decided",
    "status": "ask"
   },

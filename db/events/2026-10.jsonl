@@ -7133,3 +7133,28 @@
 {"ts":"2026-10-13T04:40:05Z","pid":"7959418728","stage":"decided","status":"ask","type":"character-watches","note":"1950 US Time Hopalong Cassidy watch, untested, $25 porch pickup. Running loose $50–100; with saddle box $200+. ASK: does it run when wound; box?","run":"research-20261013b","data":{"price":25,"est_resale":90,"tier":"C"}}
 {"ts":"2026-10-13T04:40:05Z","pid":"7982439225","stage":"photo_review","status":"kill","type":"leather-briefcases","note":"body: no maker, 1940s–50s satchel; ~$120–180 → profit < price","run":"research-20261013b","data":{"price":50,"est_resale":150,"tier":null}}
 {"ts":"2026-10-13T04:40:05Z","pid":"7979893827","stage":"photo_review","status":"kill","type":"vintage-sports-caps","note":"body: Mitchell & Ness Hardwood Classics reissue","run":"research-20261013b","data":{"price":80,"est_resale":25,"tier":null}}
+{"ts":"2026-10-13T04:39:12Z","pid":"7982547393","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":60,"ratio":0.8}}
+{"ts":"2026-10-13T04:39:20Z","pid":"7973161953","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":175,"ratio":11.67}}
+{"ts":"2026-10-13T04:39:30Z","pid":"7955700804","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":99,"ratio":1.52}}
+{"ts":"2026-10-13T04:39:39Z","pid":"7944373282","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":1695,"ratio":84.75}}
+{"ts":"2026-10-13T04:39:46Z","pid":"7945144685","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":45,"ratio":0.9}}
+{"ts":"2026-10-13T04:39:55Z","pid":"7965333297","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":66,"ratio":1.1}}
+{"ts":"2026-10-13T04:40:05Z","pid":"7974542037","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":60,"ratio":2.07}}
+{"ts":"2026-10-13T04:40:14Z","pid":"7946978963","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":1200,"ratio":30}}
+{"ts":"2026-10-13T04:40:23Z","pid":"7938870560","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":11,"ratio":0.73}}
+{"ts":"2026-10-13T04:40:33Z","pid":"7960156296","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":83,"ratio":2.37}}
+{"ts":"2026-10-13T04:40:43Z","pid":"7954286315","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":1600,"ratio":20}}
+{"ts":"2026-10-13T04:40:52Z","pid":"7959700191","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":50,"ratio":3.33}}
+{"ts":"2026-10-13T04:41:00Z","pid":"7972433463","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":42,"ratio":0.42}}
+{"ts":"2026-10-13T04:41:07Z","pid":"7955381678","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":60,"ratio":2}}
+{"ts":"2026-10-13T04:41:17Z","pid":"7957682609","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":220,"ratio":5.5}}
+{"ts":"2026-10-13T04:41:27Z","pid":"7982537508","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":69,"ratio":1.38}}
+{"ts":"2026-10-13T04:41:36Z","pid":"7938903953","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":39,"ratio":2.29}}
+{"ts":"2026-10-13T04:41:45Z","pid":"7958036909","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":19,"ratio":1.9}}
+{"ts":"2026-10-13T04:41:52Z","pid":"7955904457","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":45,"ratio":0.47}}
+{"ts":"2026-10-13T04:42:00Z","pid":"7937372731","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":50,"ratio":3.33}}
+{"ts":"2026-10-13T04:42:09Z","pid":"7956194732","stage":"lensed","run":"lensworker-20261013-0435","data":{"med":36,"ratio":0.8}}
+{"ts":"2026-10-13T04:42:19Z","pid":"7949845282","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":69,"ratio":6.9}}
+{"ts":"2026-10-13T04:42:28Z","pid":"7961128158","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":600,"ratio":15.38}}
+{"ts":"2026-10-13T04:42:38Z","pid":"7946021087","stage":"flagged","run":"lensworker-20261013-0435","data":{"med":320,"ratio":3.2}}
+{"ts":"2026-10-13T04:42:48Z","pid":"7949346065","stage":"flagged","run":"lensworker-20261013-0439","data":{"med":192,"ratio":6.4}}
