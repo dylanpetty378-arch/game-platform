@@ -21346,3 +21346,28 @@
 {"ts":"2026-10-13T17:14:09Z","pid":"7954888861","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T17:14:18Z","pid":"7954768620","stage":"lensed","run":"lensworker-20261013-1707","note":null,"data":{"med":153,"ratio":1.22,"mismatch":[]}}
 {"ts":"2026-10-13T17:14:25Z","pid":"7949577451","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:14:35Z","pid":"7955021207","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:14:43Z","pid":"7961373129","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:14:51Z","pid":"7982779455","stage":"lensed","run":"lensworker-20261013-1707","note":null,"data":{"med":58,"ratio":5.8,"mismatch":[]}}
+{"ts":"2026-10-13T17:14:59Z","pid":"7967366943","stage":"flagged","run":"lensworker-20261013-1707","note":"Lens names Cameo, Gold — title does not","data":{"med":500,"ratio":14.29,"mismatch":["Cameo","Gold"]}}
+{"ts":"2026-10-13T17:15:06Z","pid":"7937652242","stage":"lensed","run":"lensworker-20261013-1707","note":null,"data":{"med":18,"ratio":0.95,"mismatch":[]}}
+{"ts":"2026-10-13T17:15:12Z","pid":"7934626633","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:15:18Z","pid":"7963054818","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:15:25Z","pid":"7957043183","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:15:32Z","pid":"7978550718","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:15:38Z","pid":"7956174235","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:15:48Z","pid":"7935331335","stage":"flagged","run":"lensworker-20261013-1707","note":"Lens names Accessories — title does not","data":{"med":27,"ratio":1.08,"mismatch":["Accessories"]}}
+{"ts":"2026-10-13T17:15:56Z","pid":"7965942651","stage":"lensed","run":"lensworker-20261013-1707","note":null,"data":{"med":45,"ratio":1.8,"mismatch":[]}}
+{"ts":"2026-10-13T17:16:02Z","pid":"7950090574","stage":"queued","status":"relens","run":"lensworker-20261013-1707","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:16:10Z","pid":"7953839394","stage":"flagged","run":"lensworker-20261013-1707","note":"Lens names Origin — title does not","data":{"med":24,"ratio":0.3,"mismatch":["Origin"]}}
+{"ts":"2026-10-13T17:16:18Z","pid":"7949577809","stage":"flagged","run":"lensworker-20261013-1707","note":"Lens names Borghese, Marion Bronze — title does not","data":{"med":38,"ratio":0.51,"mismatch":["Borghese","Marion Bronze"]}}
+{"ts":"2026-10-13T17:18:24Z","pid":"7963445187","stage":"lensed","run":"lensworker-20261013-1714","note":null,"data":{"med":18,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-13T17:19:01Z","pid":"7968828360","stage":"queued","status":"relens","run":"lensworker-20261013-1714","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:19:08Z","pid":"7952458838","stage":"queued","status":"relens","run":"lensworker-20261013-1714","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:19:15Z","pid":"7973625708","stage":"queued","status":"relens","run":"lensworker-20261013-1714","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:19:23Z","pid":"7932833678","stage":"flagged","run":"lensworker-20261013-1714","note":"Lens names Dual, Hardware, Special — title does not","data":{"med":null,"ratio":null,"mismatch":["Dual","Hardware","Special"]}}
+{"ts":"2026-10-13T17:19:30Z","pid":"7951424275","stage":"flagged","run":"lensworker-20261013-1714","note":"Lens names Lane — title does not","data":{"med":120,"ratio":2,"mismatch":["Lane"]}}
+{"ts":"2026-10-13T17:19:38Z","pid":"7930700493","stage":"queued","status":"relens","run":"lensworker-20261013-1714","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:19:44Z","pid":"7929918041","stage":"queued","status":"relens","run":"lensworker-20261013-1714","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:19:50Z","pid":"7932219686","stage":"queued","status":"relens","run":"lensworker-20261013-1714","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:19:57Z","pid":"7982763165","stage":"queued","status":"relens","run":"lensworker-20261013-1714","note":"empty Lens read, auto re-queued"}

@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:14:43Z",
+ "updated": "2026-10-13T17:20:19Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6278,
-  "events": 21348,
+  "lens": 6303,
+  "events": 21373,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 173,
+  "lensed": 177,
   "comps/pass": 1,
-  "queued/relens": 81,
+  "queued/relens": 96,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 198,
+  "flagged": 204,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 575
+  "queued": 550
  },
  "last_harvests": [
   {
@@ -589,6 +589,17 @@
    "best": "Vintage chain bracelet 925 silver sectional with white ...",
    "med": 575,
    "ratio": 14.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967366943",
+   "title": "2 VINTAGE BROOCHES/LAPEL PINS",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-vintage-brooches-lapel/2e83mGFKVhpuV6AwDAipWH",
+   "best": "Ladies Antique 14K Gold Italian Carved Cameo Stud Earrings ...",
+   "med": 500,
+   "ratio": 14.29,
    "ai_value": ""
   },
   {
@@ -1692,6 +1703,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951424275",
+   "title": "Set of 2 Vintage Adolph Treidler Bermuda Watercolor Prints \u2013 20\" x 17\"",
+   "price": 60,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/west-roxbury-set-of-vintage-adolph/3k4kEhvbCJn1WruqNwWiQd",
+   "best": "Top Print: \"The Road Along the Cove\" / \"A Bermudan View\" \u2014 Depicts a sunny coastal road with tropical foliage,",
+   "med": 120,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7929919272",
    "title": "Vintage Seiko Womens Gold Tone Stainless Steel Band Watch",
    "price": 20,
@@ -2110,6 +2132,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935331335",
+   "title": "Disney Mickey Mouse Watch",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-disney-mickey-mouse-watch/pBh1qnjdRmeJWA78EU3qTk",
+   "best": "Disney Women's Mickey Mouse Two Tone Bracelet | Mercari",
+   "med": 27,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7954480527",
    "title": "Vintage Casio keyboard",
    "price": 100,
@@ -2352,6 +2385,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949577809",
+   "title": "Vintage Federal Style Brass Eagle Bookends",
+   "price": 75,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-federal-style-brass/7EHXZfL9eY4GbUewFuhju8",
+   "best": "Era: Most commonly dated from the 1930s through the 1950s (with later mid-to-late 20th-century reproductions).",
+   "med": 38,
+   "ratio": 0.51,
+   "ai_value": ""
+  },
+  {
    "pid": "7939105479",
    "title": "Ladies Antique Mother Of Pearl Ring",
    "price": 100,
@@ -2392,6 +2436,17 @@
    "url": "https://www.craigslist.org/view/d/parkville-jewel-antique-amulet/hVc1GYbGhY8XDzX9p5SD6E",
    "best": "Solid Sterling Silver 925 Oxidized Lord Ganesha Pendant - Etsy",
    "med": 27,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953839394",
+   "title": "Vintage Wedgwood Jasperware",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/los-gatos-vintage-wedgwood-jasperware/f6b2xKiAuspRYn1EYAmhjz",
+   "best": "Origin: Made in England by the historic Josiah Wedgwood and Sons pottery manufacturer, commonly dating from th",
+   "med": 24,
    "ratio": 0.3,
    "ai_value": ""
   },
@@ -2534,6 +2589,17 @@
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/woodbridge-vintage-swiss-day-miniature/92vzZM1vAD8oChsqwnao2Y",
    "best": "Vinterior",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932833678",
+   "title": "2 blue gibsons",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/pasadena-blue-gibsons/hec8Ev6kAE2Gbcz6MQqE4B",
+   "best": "Body & Neck: Solid mahogany double-cutaway body with a set mahogany SlimTaper neck.",
    "med": null,
    "ratio": null,
    "ai_value": ""
