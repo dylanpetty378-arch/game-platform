@@ -1,0 +1,63 @@
+# Art Nouveau poster reproductions (Mucha, Cappiello, Metlicovitz, Dudovich, Chéret, Toulouse-Lautrec, Steinlen reprints; Wine Spectator, Portal, Bernard Picture, Dover, Mucha Trust and museum reprints; original period lithographs)
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($25 Bitter Pastore reprint; $3,750 = original Mucha lithograph, not this item)
+Slug: art-nouveau-poster-reproductions · Aliases: Mucha print, Mucha poster, Four Seasons Mucha, Printemps, Job cigarette paper poster, Chat Noir poster, Bitter Pastore, Metlicovitz, Cappiello, Belle Époque poster, French poster, Italian liqueur poster, vintage art print, lithograph, giclée, Wine Spectator poster
+Summary: Modern offset reprints, menus, calendar pages $3–25; 1970s–80s large-format reprints and Wine Spectator/advertiser editions $15–40; good framed decorator reprints $30–80 (local); period lithographs (1895–1915) $500–20,000+ (specialist authentication).
+Buy rule (short): Pass on reprints; only flag possible originals (thick linen-backed stone lithograph with printer's imprint, period size, visible litho dot-free colour) for "ask seller" and specialist review — outside Dylan's no-authentication rule unless priced ≤ $25.
+
+## What it is / how to recognise it in a photo
+The Art Nouveau/Belle Époque poster style (1890s–1915) has been reprinted endlessly since the 1960s–70s revival.
+- **Reprint tells**: halftone dot rosette under magnification (offset printing), glossy or uniform paper, modern margin text ("The Wine Spectator", "© Mucha Trust", "Printed in USA"), fold lines from magazine inserts, small or standardised sizes (11×14, 24×36), mechanical uniform colour.
+- **Original tells**: stone lithography (solid, layered colour, no dot pattern), large sizes (e.g., Bitter Pastore c.1913 ~140×100 cm), printer's imprint in the margin (e.g., "G. Ricordi & C. Milano", "Imp. F. Champenois Paris"), linen backing, period tears and repairs.
+- Menus/ephemera using Mucha line art (e.g., restaurant menus) are modern printing, usually 1970s–90s.
+
+## Makers, brands and variants
+- Artists: **Alphonse Mucha** (Four Seasons 1896, Job, Gismonda, Zodiac), **Leopoldo Metlicovitz** (Bitter Pastore, Ricordi), **Leonetto Cappiello**, **Marcello Dudovich**, **Jules Chéret**, **Théophile Steinlen** (Chat Noir), **Toulouse-Lautrec**.
+- Reprint publishers: Wine Spectator (1980s promotional series of Italian/French drink posters), Portal Publications, Bernard Picture Co., Dover, Pomegranate, museum shops, Mucha Foundation.
+- Original printers: Ricordi (Milan), Champenois (Paris), Chaix (Paris).
+
+## Materials, finishes and quality tells
+Use a loupe or zoomed photo: dot rosettes = reprint. Paper weight, linen backing and margins matter. Restrikes on old paper are uncommon but exist for Mucha decorative panels.
+
+## Condition, damage and repairs
+For reprints: folds (magazine inserts), creases, tape stains, sun fading. Originals are routinely linen-backed with restoration.
+
+## Fakes, reproductions and reissues
+The category itself is reproduction. Danger: reprints sold as "vintage original lithograph"; giclées on canvas; Lens matching reprints to original-auction values (e.g., $3,750) — always a bust for these examples.
+
+## Value ladder (sold prices, not asking)
+| Tier | Examples | Typical sold price | Notes |
+|---|---|---|---|
+| Ephemera | Menus, calendar pages, small prints | $3–20 | general knowledge, verify |
+| Reprint | 1970s–80s large reprints, Wine Spectator series | $15–40 | Lens median $25 |
+| Framed décor | Quality framed reprints | $30–80 | local only (glass) |
+| Original | Period stone lithographs 1895–1915 | $500–20,000+ | needs specialist (Swann, Poster Auctions International) |
+
+## Comps (sold, dated)
+No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+
+## Market
+Reprints: slow, low value, plentiful. Originals: auction-house market (Swann Galleries, Poster Auctions International) with expert authentication.
+
+## What sellers usually miss
+They often call 1980s reprints "vintage movie billboard posters" or "original". The rare real original turns up in estate sales framed under glass; tells are size, printer imprint and lack of halftone dots.
+
+## Shipping / handling
+Roll in a 3" tube: $10–15. Framed pieces are glass and bulky: local only.
+
+## Selling it (for the buyer-facing listing)
+Say "reproduction" plainly with publisher/date, size, folds, condition.
+
+## Buy rule
+Profit = sold median × 0.87 − ~$12 to buyer − ~$12 to Dylan − price ≥ max($50, price). Reprints never qualify. Possible originals need authentication (outside Dylan's rules); only consider at ≤ $25 when size, imprint and close-up show stone lithography — then "ask seller".
+
+## Rubric
+```json
+{"size_class": "carry-on", "weight_lb": 1, "shape": "flat",
+ "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 5, "id_difficulty": 4,
+ "rarity": 1, "sold_per_month": 1500, "sell_through": "20%", "days_to_sell": 60, "price_p25_p50_p75": [8, 15, 30], "price_spread": 3.8,
+ "condition_sensitivity": 3, "seasonality": "none", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 12,
+ "undervalue_frequency": 1, "bust_probability": "95%", "expected_profit_typical": -15, "confidence": "low"}
+```
+## Seen in sweeps
+- 2026-10-13 – craigslist – "Vintage movie billboard posters" – $10 – pass – 1980s Wine Spectator promotional reprint of Metlicovitz's "Bitter Pastore Milano" (c.1913), centre-folded; not a movie poster; est. resale $10–25.
+- 2026-10-13 – craigslist – "Vintage Menu from T.R. Murphy's Restaurant" – $38 – pass – restaurant menu card printed with a line-art version of Mucha's "Spring" (Le Printemps), aged paper, 1970s–80s; Lens $3,750 refers to the 1896 original lithograph; est. resale $5–15.

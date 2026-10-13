@@ -1,0 +1,77 @@
+# Leather motorcycle jackets (Schott Perfecto, Langlitz, Vanson, Buco, Harley-Davidson, Brooks, Lewis Leathers, Belstaff, Wilsons, Excelled, Bermans)
+Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("leather motorcycle jackets" median $101.64 n=42 p25 $68 p75 $107 — mostly new import jackets; "women's motorcycle jacket" median $39.68 n=47; "Wilsons Leather black leather jacket" median $33.81 n=50 p25 $15.99 p75 $54.99, incl. "Vintage Wilsons 90s Y2K black leather moto full zip" $80 Nov 2025); Schott NYC history (https://www.schottnyc.com/about, general knowledge, verify); Langlitz Leathers (https://www.langlitz.com, general knowledge, verify). No web search this run.
+Slug: leather-motorcycle-jackets · Aliases: biker jacket, moto jacket, Perfecto, cafe racer jacket, double rider, police jacket, vintage leather jacket, punk jacket, Harley jacket
+Summary: Mall brands (Wilsons, Bermans, Phase 2, Excelled, Tannery West) $20–80; Harley-Davidson, Buco/J.P. Buckley (later), Brooks, Hein Gericke $80–250; vintage Schott 613/618 One Star, Buco J-24, Langlitz Columbia/Cascade, Vanson, Lewis Leathers $250–1,500+.
+Buy rule (short): Pass on mall brands; buy only label-identified Schott (pre-2000), Buco, Langlitz, Vanson, Lewis Leathers or early Harley at ≤ 1/3 of sold median and ≤ $150, with size and label photos.
+
+## What it is / how to recognise it in a photo
+- **Double rider / Perfecto**: asymmetric zip, snap-down lapels, belt, epaulettes, D-pocket. Schott's 613 One Star has stars on the epaulettes; 618 has no stars.
+- **Cafe racer**: straight centre zip, short band collar with snap tab, slash zip pockets, sleeve zips. 1960s–70s maroon/oxblood and brown ladies' versions common.
+- **Police / "Highway Patrolman"**: Schott 118/618 with belt and "D" pocket.
+- **Label is everything**: read the neck label. Schott: "Perfecto by Schott Bros" with red/blue labels; 1960s–80s Schott has Talon/Conmar zips. Buco: "Buco" logo and "J.P. Buckley, Detroit"; Langlitz: "Langlitz Leathers Portland Oregon" with hand-written size; Vanson: "Vanson Leathers, Fall River Mass."; Lewis Leathers: "Aviakit by Lewis Leathers, London". Wilsons: "Wilsons The Leather Experts" black label (mall).
+
+## Makers, brands and variants
+- **Schott Bros (NY, Perfecto 1928)**: 613 One Star (1950s–early 60s, rare: $1,000+), 618 (most common; vintage 1970s–90s $200–450 sold), 118 police, 641 cafe racer (general knowledge, verify).
+- **Buco / J.P. Buckley (Detroit, 1930s–1960s)**: J-24, J-100 "Hercules" — $500–3,000 (general knowledge, verify).
+- **Langlitz (Portland, 1947–)**: Columbia, Cascade; $400–1,200 used; made to order, wait lists.
+- **Vanson (1974–)**: Enforcer, Comet; $250–600.
+- **Harley-Davidson (motorclothes, various makers)**: 1970s–80s Cycle Champ and 1990s-era $100–300.
+- **Lewis Leathers (UK)**: Bronx, Lightning, Dominator; $300–900.
+- **Mall brands**: Wilsons, Bermans, Phase 2, Excelled, Tannery West, Leather Loft, Kenneth Cole; $20–80.
+- **Women's 1970s cafe racers** (oxblood/maroon, brown): mostly mall/department-store labels; $40–120.
+
+## Materials, finishes and quality tells
+- Heavy horsehide or steerhide (stiff, 1.2–1.4 mm) = quality; thin lambskin = fashion.
+- Talon, Conmar, Crown, Scovill or Lightning zips signal pre-1980 US-made; YKK modern.
+- Union labels and "Made in USA" improve value; "Made in Pakistan/India/Korea" usually mall.
+- Quilted or plaid flannel liners; zip-out liners in 70s women's.
+
+## Condition, damage and repairs
+Dried/cracked leather, torn liners, broken zips (repair costs $40–80 for a jacket zip = repair), mould smell, shoulder fading. Enamel pins pierce leather (holes).
+
+## Fakes, reproductions and reissues
+Schott still makes 618/613 (new $900+); reissues identifiable by modern labels and YKK/Schott-branded zips. Fake Harley patches added to generic jackets.
+
+## Value ladder (sold prices, not asking)
+| Tier | Examples | Typical sold price | Notes |
+|---|---|---|---|
+| Mall | Wilsons, Bermans, Phase 2, Excelled | $20–80 | comps median $34 (Wilsons) |
+| Mid | Harley-Davidson, Hein Gericke, Brooks, women's 70s cafe racers | $60–250 | |
+| Good | Schott 618/641 vintage, Vanson, Lewis Leathers | $200–600 | (general knowledge, verify) |
+| Top | Schott 613 One Star 1950s, Buco J-24/J-100, Langlitz vintage | $600–3,000 | needs authentication-level knowledge |
+
+## Comps (sold, dated)
+- 2025-11-13 – eBay (Terapeak) – Vintage Wilsons 90s Y2K black leather moto full zip – $80
+- 2025-11-12 – eBay (Terapeak) – Women's Wilsons black leather jacket size M – $30
+- 2025-11-12 – eBay (Terapeak) – Wilson's M. Julian leather bomber 2XLT – $55
+- 2026-10-10 – eBay (Terapeak) – Women's biker classic genuine cowhide motorcycle – $75.71
+
+## Market
+Large and steady; vintage moto jackets sell well in sizes S–L. Size and measurements drive sales.
+
+## What sellers usually miss
+Buco and early Schott labels in "old leather jacket" listings; horsehide thickness; Talon zips.
+
+## Shipping / handling
+Folds into a poly mailer or small box: 3–6 lb, $12–18.
+
+## Selling it (for the buyer-facing listing)
+Pit-to-pit, length, sleeve, shoulder measurements; label close-up; zip brand; leather type; liner condition; any pin holes.
+
+## Buy rule
+Profit = median × 0.87 − ~$15 to buyer − ~$12 to Dylan − price; pass unless ≥ max($50, price).
+- Mall brands (median ~$40): pass at any price above $0.
+- Schott 618 vintage (median ~$300) at ≤ $90: 261 − 27 − 90 = $144 (Tier A).
+- High-end Buco/Langlitz claims need expert authentication: treat as "ask seller for label photos", never buy on description alone.
+
+## Rubric
+```json
+{"size_class": "shoebox", "weight_lb": 5, "shape": "flat",
+ "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 3, "testability": 2, "repro_risk": 3, "id_difficulty": 3,
+ "rarity": 2, "sold_per_month": 3000, "sell_through": "40%", "days_to_sell": 30, "price_p25_p50_p75": [25, 45, 100], "price_spread": 4.0,
+ "condition_sensitivity": 4, "seasonality": "fall/winter", "best_platform": "eBay, Grailed, Etsy", "fees_pct": 13, "ship_cost_to_buyer": 15,
+ "undervalue_frequency": 2, "bust_probability": "80%", "expected_profit_typical": -10, "confidence": "medium"}
+```
+## Seen in sweeps
+- 2026-10-13 – craigslist – "Womens Vintage Motorcycle Jacket" (pid 7980268473) – $45 – pass – 1970s women's oxblood/maroon cafe-racer jacket, band collar with two snaps, sleeve zips, zip-out pile liner, unreadable gold department-store label (not Schott/Langlitz); resale $40–80
+- 2026-10-13 – craigslist – "Vintage Wilson Leather Jacket" (pid 7961012244) – $80 – pass – 1990s Wilsons "The Leather Experts" black double-rider (Perfecto style) with red lining and enamel pins (pin holes); resale $35–80 (comps median $34, best $80)

@@ -59,8 +59,100 @@ ask for the naja back, length, and weight first. Pass on stamped imports and sil
 
 ## Rubric
 ```json
-{"size_class": "pocket", "weight_lb": 1, "shape": "irregular", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 3, "repro_risk": 4, "id_difficulty": 4, "rarity": 3, "sold_per_month": 500, "sell_through": 30, "days_to_sell": 30, "price_p25_p50_p75": [150, 350, 700], "price_spread": 4.7, "condition_sensitivity": 2, "seasonality": "none known (estimate)", "best_platform": "eBay / Etsy", "fees_pct": 13, "ship_cost_to_buyer": 12, "undervalue_frequency": 3, "bust_probability": 25, "expected_profit_typical": 100, "confidence": "low", "notes": "no dated sold comps yet; Terapeak pending. Numbers are estimates"}
+{
+ "size_class": "pocket",
+ "weight_lb": 0.2,
+ "shape": "irregular",
+ "fragility": 2,
+ "transit_damage_risk": 1,
+ "hidden_defect_risk": 3,
+ "testability": 3,
+ "repro_risk": 4,
+ "id_difficulty": 3,
+ "rarity": 3,
+ "sold_per_month": 300,
+ "sell_through": "45%",
+ "days_to_sell": 20,
+ "price_p25_p50_p75": [
+  249,
+  650,
+  1100
+ ],
+ "price_spread": 4.4,
+ "condition_sensitivity": 2,
+ "seasonality": "none",
+ "best_platform": "eBay",
+ "fees_pct": 13,
+ "ship_cost_to_buyer": 8,
+ "undervalue_frequency": 4,
+ "bust_probability": "35%",
+ "expected_profit_typical": 90,
+ "confidence": "medium"
+}
 ```
 
 ## Seen in sweeps
 - 2026-10-12 – Craigslist SF – "Vintage Squash Blossom Necklace" – $75 – 73.5 g, tested silver, no marks, clasp replaced – **find (Tier B, est. profit $110–260)** – Lens flagged it (WorthPoint-style match, ratio 40)
+
+---
+
+## Additional research (2026-10-12: Navajo squash blossom necklaces (Navajo, Zuni, Pueblo, Mexican and tourist imitations))
+Updated: 2026-10-13 · Sources: Terapeak 365-day sold, query "squash blossom necklace sterling navajo no turquoise" (n=50, median $650, p25 $249; bench-bead naja pieces $175–379) via /home/claude/game-platform/db/comps.jsonl; general knowledge of Southwestern silver (e.g. https://www.heard.org — not fetched)
+Slug: navajo-squash-blossom-necklaces · Aliases: squash blossom, naja necklace, Navajo necklace, Native American silver necklace, old pawn, bench bead necklace, turquoise squash blossom
+Summary: silver-plate/import imitations $20–80; small all-silver bench-bead naja necklaces $175–380; full-size sterling with turquoise $400–1,500; heavy old-pawn/early (pre-1950) or signed artist pieces $1,000–5,000+ (Terapeak + general knowledge)
+Buy rule (short): buy all-silver or turquoise squash blossoms at ≤ $100 when photos show hand-made bench beads, hand-formed blossoms and a cast or stamped naja, then confirm weight (≥ 40 g for small, ≥ 100 g full size) and non-magnetic before paying.
+
+### What it is / how to recognise it in a photo
+A Navajo necklace of round hollow silver "bench beads" interspersed with "blossoms" (pomegranate-flower beads, a bead with 3–6 petals) and a horseshoe-shaped pendant (naja), first made in the 1870s–80s. Tells of genuine hand-made work: slightly irregular beads with visible seams, blossoms soldered from separate petals, naja either sandcast (rough, grainy surface, thick section) or stamped/applied; terminals of the naja ending in balls, hands or added turquoise. Deep black oxidation in recesses is typical of old silver. Clasp: hook-and-eye or a hand-made S hook is original; a cheap gold-tone spring ring means a later repair (does not kill value).
+
+### Makers, brands and variants
+- Navajo (most), Zuni (petit-point/needlepoint turquoise clusters), Santo Domingo/Pueblo. Signed hallmarks from 1960s on (initials, names). Old pawn = pre-1960, unsigned.
+- Mexican silver (marked "Mexico 925", eagle mark), and 1970s boom-era commercial pieces (Bell Trading Post, Maisel's) — lighter, stamped blossoms.
+- Imitations: silver-plated brass/nickel (Taiwan/Philippines), often marked "925" falsely.
+
+### Materials, finishes and quality tells
+Coin silver (pre-1930, ~90%) and sterling. Weight is the best quick check: small all-silver necklace 40–80 g; full size 100–250 g. Magnet should not grab. Rough sandcast naja with a star, cross or hands between the arms = traditional; tiny star dangling inside the naja is a known early 20th-century motif.
+
+### Condition, damage and repairs
+Broken blossom petals, crushed beads, restrung on wire (fine), replaced clasp, missing stones. Do not polish off oxidation.
+
+### Fakes, reproductions and reissues
+Plated imports, block (fake) turquoise, newer stamped blossoms. Many are sold as "Navajo" with no maker. Selling with "Navajo" in title triggers Indian Arts and Crafts Act rules — say "Native American style" unless provenance or hallmark supports it.
+
+### Value ladder (sold prices, not asking)
+| Tier | Examples | Typical sold price | Notes |
+|---|---|---|---|
+| Junk | plated imitations | $20–80 | |
+| Small silver | bench-bead naja necklace, no stones | $175–380 | Terapeak note |
+| Standard | full-size sterling w/ turquoise | $400–1,500 | median $650 (Terapeak query) |
+| Top | heavy old pawn, Zuni cluster, signed artists | $1,000–5,000+ | |
+
+### Comps (sold, dated)
+- Terapeak 365d to 2026-10-13: "squash blossom necklace sterling navajo no turquoise" — n=50, median $650, p25 $249; bench-bead naja pieces sold $175–379 (db/comps.jsonl, run review-20261013).
+- Additional individual dated comps not captured this run.
+
+### Market
+Strong; turquoise/Southwest jewelry demand high since 2020. Small silver pieces sell in 1–4 weeks.
+
+### What sellers usually miss
+Small all-silver pieces without turquoise look like "old costume jewelry"; heavily tarnished silver looks like base metal.
+
+### Shipping / handling
+Pocket size, $6–10 insured.
+
+### Selling it (for the buyer-facing listing)
+Weight in grams, length, naja size, acid/XRF test result, marks, photos of bead seams and petals. Avoid "Navajo" unless supported.
+
+### Buy rule
+Profit = median × 0.87 − $8 − $8 − price ≥ max($50, price). At $75 with resale $250: 217 − 16 − 75 = $126 → Tier A edge. Pass if magnetic, weight implies plate, or seller refuses close photos. No professional authentication needed for silver content (acid test/gram weight) — but attribution to a named artist is not to be claimed.
+
+### Rubric
+```json
+{"size_class": "pocket", "weight_lb": 0.2, "shape": "irregular",
+ "fragility": 2, "transit_damage_risk": 1, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 4, "id_difficulty": 3,
+ "rarity": 3, "sold_per_month": 300, "sell_through": "45%", "days_to_sell": 20, "price_p25_p50_p75": [249, 650, 1100], "price_spread": 4.4,
+ "condition_sensitivity": 2, "seasonality": "none", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 8,
+ "undervalue_frequency": 4, "bust_probability": "35%", "expected_profit_typical": 90, "confidence": "medium"}
+```
+### Seen in sweeps
+- 2026-10-13 – craigslist – "Vintage Squash Blossom Necklace" – $75 – possible buy (ask seller first) – small all-silver bench-bead squash blossom, 10 hand-formed blossoms, cast naja with ball terminals and a star drop, heavy black oxidation, replacement gold-tone spring-ring clasp; looks like older (c.1930s–60s) hand-made Navajo-style work, not stamped import; est. resale $200–350 (Terapeak bench-bead naja $175–379) → profit ~$90–$200 at $75. Confirm weight (≥ 40 g), non-magnetic, close-up of bead seams/back of naja.
