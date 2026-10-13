@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T16:44:49Z",
+ "updated": "2026-10-13T16:50:45Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6078,
-  "events": 21148,
+  "lens": 6103,
+  "events": 21173,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 136,
+  "lensed": 144,
   "comps/pass": 1,
   "queued/relens": 17,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 99,
+  "flagged": 116,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 775
+  "queued": 750
  },
  "last_harvests": [
   {
@@ -526,6 +526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935345973",
+   "title": ".925 Sterling Silver Bracelet",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-925-sterling-silver-bracelet/iiwtKJGV1LucgjdnopDxuR",
+   "best": "Vintage chain bracelet 925 silver sectional with white ...",
+   "med": 575,
+   "ratio": 14.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7976681115",
    "title": "Ladies Sterling Silver Ring",
    "price": 25,
@@ -545,6 +556,28 @@
    "best": "Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ...",
    "med": 126,
    "ratio": 12.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934410252",
+   "title": "Vintage Sterling Silver Jewelry -NAVAJO ZUNI Turquoise Rings, Earring",
+   "price": 60,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-sterling-silver-jewelry/eva2E9JeJVjTNNNoQ7amvZ",
+   "best": "Vintage zuni nastacio sterling - Gem",
+   "med": 700,
+   "ratio": 11.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934477929",
+   "title": "Vintage Navajo Handmade Sterling Silver and Turquoise Coral Ring",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-navajo-handmade-sterling/vdzAvE2FSCHED74kxZg9kM",
+   "best": "Native American Sterling Blue Colored Cuff 5inch Interior | eBay",
+   "med": 440,
+   "ratio": 11,
    "ai_value": ""
   },
   {
@@ -746,6 +779,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934410299",
+   "title": "Vintage Citizen Men's Quartz Watch",
+   "price": 10,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-citizen-mens-quartz-watch/uwtXhp6Qt6mYtx3kp3NxEL",
+   "best": "Citizen Men's Vintage Watch, Gold-Tone, Run | eBay",
+   "med": 59,
+   "ratio": 5.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7932675120",
    "title": "Vintage 1940's/1950's costume clip",
    "price": 25,
@@ -765,6 +809,17 @@
    "best": "Stanley 48 hand plane for tongue and groove cuts",
    "med": 200,
    "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935512193",
+   "title": "Navajo Sterling Silver Bracelet w Turquoise",
+   "price": 50,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-navajo-sterling-silver-bracelet/opFVBwrWj2VJvz3XxzowHp",
+   "best": "Remarkable Unsigned Silver Pawn Navajo Cuff Circa 1930s ...",
+   "med": 249,
+   "ratio": 4.98,
    "ai_value": ""
   },
   {
@@ -930,6 +985,17 @@
    "best": "JAPANESE SATSUMA PEACOCK VINTAGE PORCELAIN VASE WITH LID | eBay",
    "med": 89,
    "ratio": 3.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935088584",
+   "title": "Vintage Sterling Silver ID Bracelet",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-sterling-silver-id/k9iSU5qd3ouSGnDC9zpXFe",
+   "best": "Vintage WWII Era Truart Sterling Silver Chain Link ID ...",
+   "med": 140,
+   "ratio": 3.5,
    "ai_value": ""
   },
   {
@@ -1109,6 +1175,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963406985",
+   "title": "Sterling Silver Marcasite & Onyx Earrings!",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-sterling-silver-marcasite-onyx/98xkDeyJ5xkDckF5CitDv8",
+   "best": "Vintage Green Enamel MOP Round Inlay Square Snap ...",
+   "med": 127,
+   "ratio": 2.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7953344699",
    "title": "Antique telephone replica",
    "price": 50,
@@ -1208,6 +1285,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7937027653",
+   "title": "Timex Women's Cavatina watch.",
+   "price": 10,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-timex-womens-cavatina-watch/ab6kDZn7TiMycAvdBbDBTB",
+   "best": "eBay",
+   "med": 19,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953807589",
+   "title": "Vintage .925 Sterling Silver Charm Bracelet",
+   "price": 50,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-925-sterling-silver/17hczzRe9Y6Ee6jUTmzooA",
+   "best": "Jodie Lena Houghton added a new photo. - Jodie Lena Houghton",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7951881500",
    "title": "Vintage Water Pumps",
    "price": 75,
@@ -1258,6 +1357,17 @@
    "area": "salem",
    "url": "https://www.craigslist.org/view/d/salem-vintage-boiler/hchZuKvncHPBQZxQnyUUbr",
    "best": "Galvanized Boiler Tub - Etsy",
+   "med": 135,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953823535",
+   "title": "Antique sterling needle case",
+   "price": 75,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-antique-sterling-needle-case/nqYuv4XV4CDuMa6Qsv66bj",
+   "best": "You searched for chatelaine aide memoire - Morning Glory ...",
    "med": 135,
    "ratio": 1.8,
    "ai_value": ""
@@ -1340,6 +1450,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968021540",
+   "title": "Vintage Gruen Precision 17 Jewels manual wind watch",
+   "price": 200,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-gruen-precision-17/faxCSXkoKtaborr3PMFf4F",
+   "best": "1960s Swiss Men's Gruen Precision Rare 512 CA caliber watch ...",
+   "med": 275,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7948229130",
    "title": "Sterling Silver Dolphin Cuff Bracelet!",
    "price": 145,
@@ -1373,6 +1494,28 @@
    "ai_value": "Value: Typically ranges from $40 to $150"
   },
   {
+   "pid": "7953577552",
+   "title": "Vintage Danecraft Sterling Clipon Earrings",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/sierra-madre-vintage-danecraft-sterling/gPX6BKfgwcU46sbC1qS852",
+   "best": "Danecraft Large VTG 12.7gr Sterling Silver Leaf Vine Plant ...",
+   "med": 50,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957921364",
+   "title": "Solid Sterling Silver 925 Earrings Very Beautiful",
+   "price": 60,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-solid-sterling-silver-925/6GGm3wh6tQeGzK7fG9BLnP",
+   "best": "Jewelry | Mexican Midcentury 925 Sterling Silver Grape ...",
+   "med": 60,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7955143053",
    "title": "Knick-knack stuff",
    "price": 100,
@@ -1384,6 +1527,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7951650700",
+   "title": "Creamer Sugar Vintage Set",
+   "price": 25,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-creamer-sugar-vintage-set/fSreBnPGwzkgAzxKyRXbHw",
+   "best": "Rare Marcrest Stetson Blue Spruce Sugar Bowl Vintage '50s | eBay",
+   "med": 20,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937223096",
+   "title": "Heavy Semi-precious Stone Necklace",
+   "price": 35,
+   "area": "southcoast",
+   "url": "https://www.craigslist.org/view/d/raynham-center-heavy-semi-precious/sTZEN9MHraLG6Bque31Ahs",
+   "best": "Stella & Dot Gold Tone Green Acrylic Stone Bib Dangle ...",
+   "med": 28,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7967646252",
    "title": "Vintage Pottery",
    "price": 165,
@@ -1392,6 +1557,28 @@
    "best": "Estimated Value/Pricing: Similar vintage sets typically sell on secondary markets and antique shops between $1",
    "med": 125,
    "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953805998",
+   "title": ".925 Sterling Silver Pendant Lot for Necklaces",
+   "price": 150,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-925-sterling-silver-pendant-lot/7TwCRnhDXCH7b1y3bXEpre",
+   "best": "Sterling Silver Pendants Earrings Necklaces Jewelry ...",
+   "med": 95,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982807547",
+   "title": "Vintage 1940's Nasco Leaf Jewelry/Trinket Dish/Plate",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-1940s-nasco-leaf/tbBcim8bVpQycrGN9hudwx",
+   "best": "Vintage Leaf Plate (single) With Flowers And Gold Accents ...",
+   "med": 12,
+   "ratio": 0.6,
    "ai_value": ""
   },
   {
