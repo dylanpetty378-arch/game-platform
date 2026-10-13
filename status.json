@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:33:03Z",
+ "updated": "2026-10-13T14:38:48Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5362,
-  "events": 15297,
+  "lens": 5387,
+  "events": 15322,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 896,
-  "queued": 878,
+  "lensed": 906,
+  "queued": 853,
   "comps/pass": 1,
+  "queued/relens": 419,
   "decided/ask": 37,
-  "queued/relens": 417,
-  "flagged": 633,
+  "flagged": 646,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -458,6 +458,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932511277",
+   "title": "Antique love seat",
+   "price": 85,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/tulsa-antique-love-seat/ecsAkwQsPVvA43CitHDSv5",
+   "best": "Two piece Southwood Chippendale style sofa and loveseat with ...",
+   "med": 6473,
+   "ratio": 76.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7982074329",
    "title": "\"Vintage\" metal bird cage",
    "price": 25,
@@ -466,6 +477,17 @@
    "best": "Newel - Antique Gallery",
    "med": 1753,
    "ratio": 70.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941471133",
+   "title": "Antique Wheelchair",
+   "price": 50,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/durham-antique-wheelchair/umCSytmatquC11T2PLhmBh",
+   "best": "EZ Entry Horse Cart-Pony/Full w/ \"C\" Springs/Curved Shafts ...",
+   "med": 3450,
+   "ratio": 69,
    "ai_value": ""
   },
   {
@@ -884,6 +906,17 @@
    "best": "Motor: A smooth-running vintage electric/induction motor (such as an Emerson or similar fractional-horsepower ",
    "med": 522,
    "ratio": 26.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979483679",
+   "title": "Antique French Bidet",
+   "price": 50,
+   "area": "yuma",
+   "url": "https://www.craigslist.org/view/d/san-diego-antique-french-bidet/8MhhhBvVZspWRuX7HgQw7d",
+   "best": "Vintage French Oval White Enamel and Floral Baby Bath ...",
+   "med": 1300,
+   "ratio": 26,
    "ai_value": ""
   },
   {
@@ -1734,6 +1767,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943417771",
+   "title": "Two Antique Copper Lanterns",
+   "price": 75,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/portsmouth-two-antique-copper-lanterns/8VWgt1rF2NsVHdG5Wdff9K",
+   "best": "CCL9253 Old Harbor H-Rod Post Lantern | Cape Cod Lanterns",
+   "med": 750,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7941367173",
    "title": "Vintage Wooden Tool Box",
    "price": 10,
@@ -2358,6 +2402,17 @@
    "best": "1983 Vintage Loving You Barbie In Original Dress Mattel 7072 ...",
    "med": 144,
    "ratio": 7.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974580866",
+   "title": "Assorted Quality Brands Sunglasses",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-assorted-quality-brands/grZmn5EV6aav32tjshEDmy",
+   "best": "TASK 90's Sunglasses \u2013 Giant Vintage Eyewear",
+   "med": 175,
+   "ratio": 7,
    "ai_value": ""
   },
   {
@@ -3285,6 +3340,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942991111",
+   "title": "Antique Mahogany Footstool",
+   "price": 50,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/arlington-antique-mahogany-footstool/txUhkaw34hTa3RPnLtHsMn",
+   "best": "Mahogany Antique Benches & Stools for sale | eBay",
+   "med": 245,
+   "ratio": 4.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7979133798",
    "title": "Vintage Pottery Tea/Dish set",
    "price": 20,
@@ -3678,6 +3744,17 @@
    "best": "1951 1952 Chevrolet AM radio # 5152cr",
    "med": 225,
    "ratio": 4.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954833109",
+   "title": "Vintage Stereo Speakers",
+   "price": 49,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/pueblo-vintage-stereo-speakers/aBAbE2PRGjkZn7Qf2WPAmJ",
+   "best": "ALTOPARLANTE IREL E/16/80 | Reverb",
+   "med": 200,
+   "ratio": 4.08,
    "ai_value": ""
   },
   {
@@ -4418,6 +4495,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945690585",
+   "title": "Thalhammer antique tripod",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/rhinebeck-thalhammer-antique-tripod/wGcipG7uFDK3HqtMjurNHM",
+   "best": "Chrome Antique Aluminum Wooden Tripod Floor Lamp Living Room ...",
+   "med": 225,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7946056715",
    "title": "Vintage moped  parts",
    "price": 100,
@@ -4836,6 +4924,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969829181",
+   "title": "Vintage Bud Light Sign",
+   "price": 65,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-bud-light-sign/raHzoDuxYfrdR58C83caXZ",
+   "best": "Vintage Budweiser Bud Light On Draught Barrel Frosty Mug on ...",
+   "med": 175,
+   "ratio": 2.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7982694318",
    "title": "Japanese Pair Of Kokeshi Vintage Wooden Hand Crafted Dolls Signed",
    "price": 45,
@@ -5100,6 +5199,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969428351",
+   "title": "Vintage Hand-Painted Gerold-Porzellan Plaque",
+   "price": 40,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-vintage-hand-painted/7khsyvo9yLd4khsgn8p9m9",
+   "best": "Rey Mills Signed Hand Painted Iris Floral Porcelain Oval ...",
+   "med": 99,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7971868533",
    "title": "Vintage desktop lamp 1940s",
    "price": 100,
@@ -5342,6 +5452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948557662",
+   "title": "ANTIQUE WEDDING DRESS etc",
+   "price": 50,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/center-ossipee-antique-wedding-dress-etc/qyherUuhPXDcWoUZV93Zeg",
+   "best": "Custom Wedding Dress Storage Boxes | Luxury Bridal Boxes",
+   "med": 112,
+   "ratio": 2.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7981885449",
    "title": "Vintage Fishing Items",
    "price": 45,
@@ -5472,6 +5593,17 @@
    "med": 112,
    "ratio": 2.04,
    "ai_value": "Value: Typically sells between $45"
+  },
+  {
+   "pid": "7933896905",
+   "title": "Vintage glassware set",
+   "price": 40,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/corsicana-vintage-glassware-set/qYvqMKRQEYVeSzfNo8HEYD",
+   "best": "National Glass Co EAPG Teardrop and Tassel Pitcher, Clear ...",
+   "med": 80,
+   "ratio": 2,
+   "ai_value": ""
   },
   {
    "pid": "7951282208",
@@ -6021,6 +6153,17 @@
    "best": "2015-2016 Official Kansas Jayhawks Team Basketball Signed KU ...",
    "med": 150,
    "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946704222",
+   "title": "Vintage Converse Hip Waders",
+   "price": 60,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-converse-hip-waders/eyaNm1MGf8R8CUiKHqvFqU",
+   "best": "Vintage Converse Rod & Reel Rubber Fly Fishing Hip Boots ...",
+   "med": 89,
+   "ratio": 1.48,
    "ai_value": ""
   },
   {
