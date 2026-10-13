@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T04:56:26Z",
+ "updated": "2026-10-13T05:00:13Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1729,
-  "events": 7236,
+  "lens": 1754,
+  "events": 7261,
   "comps": 152,
   "item_types": 641,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 536,
-  "queued": 2911,
-  "lensed": 642,
+  "queued": 2886,
+  "lensed": 654,
   "comps/pass": 1,
   "decided/ask": 15,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 180,
+  "flagged": 193,
   "decided/find": 6
  },
  "last_harvests": [
@@ -774,6 +774,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949707276",
+   "title": "Vintage US Army Footlocker",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/moraga-vintage-us-army-footlocker/e9PgfrNaWZRxmFWdRN54Hk",
+   "best": "Vintage WWII military foot locker from American Hardware Co",
+   "med": 284,
+   "ratio": 7.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7982539509",
    "title": "Lomonosov Teapot and Demitasse Cup & Saucer",
    "price": 50,
@@ -804,6 +815,17 @@
    "best": "Monster Trucks 800 lb. Capacity Wood 4-Wheel Dolly, Carpeted ...",
    "med": 69,
    "ratio": 6.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979850000",
+   "title": "Vintage Military Sleeping Bag",
+   "price": 20,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-military-sleeping-bag/bD1xV84vfUrxYend2edqZ2",
+   "best": "Coat, Kapok (Tropal) Lined: British Army | Imperial War Museums",
+   "med": 136,
+   "ratio": 6.8,
    "ai_value": ""
   },
   {
@@ -1093,6 +1115,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7930395050",
+   "title": "LA Gear vintage jacket",
+   "price": 80,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/lemon-grove-la-gear-vintage-jacket/iEVdLyWxbvLMzPSWMSFbR8",
+   "best": "Poshmark",
+   "med": 320,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962735423",
+   "title": "Vintage License Plates",
+   "price": 50,
+   "area": "brainerd",
+   "url": "https://www.craigslist.org/view/d/isle-vintage-license-plates/r3b1Un2KbtRMcQ3yDD4ixv",
+   "best": "vintage license plates lot | eBay",
+   "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7959010080",
    "title": "Vintage 1960's Sadler Porcelain Tea Pot made in England",
    "price": 20,
@@ -1177,6 +1221,17 @@
    "url": "https://www.craigslist.org/view/d/lewiston-roosters-assorted/dMPmyZx1myF2oX4ixtBo9b",
    "best": "Kitchen Canisters & Jars | Canister Sets for Kitchen Counter",
    "med": 170,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973673348",
+   "title": "Vintage \u201cDecorative\u201d Suitcase \ud83d\udc30",
+   "price": 25,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/finleyville-vintage-decorative-suitcase/5ZT6zd8BqYmFNQcC9NcWJa",
+   "best": "Discover 100 Suitcase - painted and painted suitcases ideas ...",
+   "med": 85,
    "ratio": 3.4,
    "ai_value": ""
   },
@@ -1434,6 +1489,17 @@
    "ai_value": "Value: Generally sells between $120"
   },
   {
+   "pid": "7956091702",
+   "title": "Vintage Santa Light",
+   "price": 40,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/woonsocket-vintage-santa-light/j5H2XATD1ZJ2wBosuWBrSg",
+   "best": "eBay",
+   "med": 99,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7974883008",
    "title": "Vintage Mira Fujita Paintings (2)",
    "price": 40,
@@ -1464,6 +1530,17 @@
    "best": "eBay",
    "med": 475,
    "ratio": 2.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951222694",
+   "title": "Antique Cigar Molds",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-cigar-molds/7LDDnsnBFT9y6NnqNGyprh",
+   "best": "Era & Origin: Commonly produced from the late 19th to mid-20th century (c. 1895\u20131940s) by manufacturers such a",
+   "med": 120,
+   "ratio": 2.4,
    "ai_value": ""
   },
   {
@@ -1530,6 +1607,17 @@
    "best": "Vintage Brocade Seed Bead Clutch: 1940s Floral Evening Bag ...",
    "med": 83,
    "ratio": 2.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943505036",
+   "title": "Vintage tryolean purse",
+   "price": 40,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-vintage-tryolean-purse/qo5HL31jYFW64cdyWjkmhs",
+   "best": "eBay",
+   "med": 90,
+   "ratio": 2.25,
    "ai_value": ""
   },
   {
@@ -1665,6 +1753,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954090668",
+   "title": "ANTIQUE Fighting Axe",
+   "price": 65,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-antique-fighting-axe/6NHrecBVUzJtwr4B7A3oYQ",
+   "best": "Damselfly Forge",
+   "med": 119,
+   "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7952642583",
    "title": "Vintage Leaping gazelles TV lamp/planter",
    "price": 60,
@@ -1786,6 +1885,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942455355",
+   "title": "Vintage Lanshire mantle clock",
+   "price": 80,
+   "area": "lubbock",
+   "url": "https://www.craigslist.org/view/d/hale-center-vintage-lanshire-mantle/mJviV6uch3eXG3S8PL7Lag",
+   "best": "Etsy",
+   "med": 122,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7947467294",
    "title": "Vintage tool box",
    "price": 75,
@@ -1794,6 +1904,17 @@
    "best": "Vintage CRAFTSMAN #6536 Tombstone Cantilever METAL TOOL BOX ...",
    "med": 113,
    "ratio": 1.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954502033",
+   "title": "Vintage Car Hood Ornaments",
+   "price": 60,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-car-hood-ornaments/meFQUieLh62aumpBk6i7u5",
+   "best": "1950-1951 Plymouth DeLuxe Hood Ornament #1373394 Mopar 50-51 ...",
+   "med": 90,
+   "ratio": 1.5,
    "ai_value": ""
   },
   {
@@ -1929,6 +2050,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950334894",
+   "title": "Vintage coin belt buckle",
+   "price": 50,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/elk-vintage-coin-belt-buckle/bHfz8LmLDKCEVmfGCj3f8x",
+   "best": "Coins: Features U.S. Buffalo nickels minted from 1913 to 1938 and a central Indian Head cent.",
+   "med": 55,
+   "ratio": 1.1,
+   "ai_value": "sells on the secondary market or online platforms like eBay and Etsy for around $40 to $100,"
+  },
+  {
    "pid": "7949829582",
    "title": "Trench Art-Vase",
    "price": 120,
@@ -2056,6 +2188,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/medford-antique-sheffield-england-knife/wR9cXZYsUoVezqWSd7x5i6",
    "best": "Adams Green River Knives",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982518569",
+   "title": "Vintage Blow Mold Snowman",
+   "price": 100,
+   "area": "saginaw",
+   "url": "https://www.craigslist.org/view/d/sterling-vintage-blow-mold-snowman/rY4Kja9JUXtKSwN2iwmX9K",
+   "best": "Vintage 1988 TPI Snowman Blow Mold 40\" Christmas Frosty The ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
