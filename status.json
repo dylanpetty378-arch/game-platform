@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:27:42Z",
+ "updated": "2026-10-13T05:48:58Z",
  "tables": {
-  "harvests": 3,
+  "harvests": 4,
   "searches": 168,
-  "listings": 4607,
-  "lens": 1929,
-  "events": 8326,
+  "listings": 5407,
+  "lens": 1954,
+  "events": 9151,
   "comps": 159,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1411,
-  "queued": 2711,
+  "queued": 3486,
   "comps/pass": 1,
   "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
-  "comps/fail": 6,
-  "flagged": 73,
-  "lensed": 65,
+  "comps/fail": 5,
+  "flagged": 84,
+  "lensed": 79,
   "decided/find": 7
  },
  "last_harvests": [
@@ -165,6 +165,72 @@
    },
    "by": "github-actions",
    "ts": "2026-10-13T00:58:26Z"
+  },
+  {
+   "harvest_id": "craigslist-20261013-0537",
+   "source": "craigslist",
+   "hours": 6.0,
+   "cats": "ata,cba,clt,ele,emd,hab,hsh,jwa,msa,pha,spo,sys,tls,tag,vga,bik,bop,boo,clo,mob,mpo,rvs,wan,for,hsd,gms,art,fua,atq",
+   "n_listings": 71360,
+   "n_new": 70824,
+   "n_selected": 800,
+   "learned": {
+    "ata": 0.18,
+    "cba": -0.62,
+    "ele": -0.06,
+    "emd": -0.16,
+    "hab": -0.14,
+    "jwa": -0.35,
+    "pha": -0.14,
+    "spo": -0.23,
+    "tls": -0.28,
+    "tag": -0.08,
+    "bop": 0.03,
+    "clo": 0.06,
+    "mob": -0.01,
+    "for": 0.05,
+    "fua": 0.79,
+    "art": 0.12,
+    "hsh": 0.0,
+    "sys": -0.03,
+    "bik": 0.08,
+    "mpo": 0.03,
+    "msa": 0.21,
+    "boo": -0.01
+   },
+   "failed_requests": 0,
+   "requests": 11977,
+   "by_cat": {
+    "ata": 2535,
+    "cba": 6622,
+    "ele": 4792,
+    "emd": 746,
+    "hab": 1717,
+    "hsh": 9615,
+    "jwa": 965,
+    "msa": 1548,
+    "pha": 709,
+    "spo": 4831,
+    "sys": 663,
+    "tls": 4112,
+    "tag": 1780,
+    "vga": 545,
+    "bik": 988,
+    "bop": 1010,
+    "clo": 6611,
+    "mob": 291,
+    "mpo": 895,
+    "wan": 748,
+    "for": 12810,
+    "hsd": 2,
+    "gms": 162,
+    "art": 1434,
+    "fua": 5159,
+    "rvs": 4,
+    "boo": 66
+   },
+   "by": "github-actions",
+   "ts": "2026-10-13T05:48:55Z"
   }
  ],
  "flagged_waiting": [
@@ -188,6 +254,17 @@
    "best": "Craigslist",
    "med": 2410,
    "ratio": 96.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959253938",
+   "title": "Vintage old surfboard longboard",
+   "price": 100,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-vintage-old-surfboard-longboard/54CzcojEKCLPDnkMJTFnQL",
+   "best": "Reuniting a 1979 Mark Ogram surfboard with its shaper",
+   "med": 8000,
+   "ratio": 80,
    "ai_value": ""
   },
   {
@@ -235,6 +312,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974290805",
+   "title": "Vintage Andre Chabot Clarinet",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/cedar-vintage-andre-chabot-clarinet/9aW4DEa23aiXvvCcaVFjM3",
+   "best": "Vintage CLARINET - Martin Freres La Monte, Made in France ...",
+   "med": 500,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
    "pid": "7950985546",
    "title": "Vintage greyhound wagon",
    "price": 20,
@@ -254,6 +342,17 @@
    "best": "86 Vintage",
    "med": 900,
    "ratio": 18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970808498",
+   "title": "Vintage freedom rider statue",
+   "price": 30,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-freedom-rider-statue/rE1yzbgBJxDqmbmZ8jfcg3",
+   "best": "Haven - Just in! \u201cFreedom Rider\u201d metal sculpture ...",
+   "med": 495,
+   "ratio": 16.5,
    "ai_value": ""
   },
   {
@@ -298,6 +397,28 @@
    "best": "Brass carriage wall lanterns with eagle finials, pair | Maxsold",
    "med": 724,
    "ratio": 14.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948143463",
+   "title": "Vintage glass Abstract Dancers",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-glass-abstract-dancers/gvJgh5fAge4kv4XM4pfeaJ",
+   "best": "Murano Art Glass BEAUTIFUL SCULPTURE - HUMAN FORMS ...",
+   "med": 400,
+   "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955524758",
+   "title": "Vintage Oversized Sunglasses",
+   "price": 34,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-oversized-sunglasses/1H5U93D7kNQso2eD2Ca3rj",
+   "best": "Vintage Luxottica 1502 G624 Brown Gold Oval Sunglasses ...",
+   "med": 447,
+   "ratio": 13.15,
    "ai_value": ""
   },
   {
@@ -475,6 +596,17 @@
    "med": 123,
    "ratio": 6.15,
    "ai_value": "Value: Typically sells between $70"
+  },
+  {
+   "pid": "7973623761",
+   "title": "Vintage scrubbing machine",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-scrubbing-machine/scAik7kHo8RKyHVjiKCGvN",
+   "best": "Vintage Sunbeam Deluxe Floor Conditioner Electric Floor ...",
+   "med": 300,
+   "ratio": 6,
+   "ai_value": ""
   },
   {
    "pid": "7946581603",
@@ -752,6 +884,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952667247",
+   "title": "Antique 1920s hand mirror",
+   "price": 75,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-antique-1920s-hand-mirror/7vsA5WoptNsJVpk9xfKFMF",
+   "best": "Vintage Ladies Small Gilt Make up Mirror - Vanity Mirror ...",
+   "med": 186,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7971533985",
    "title": "Vintage Nativity Scene Set",
    "price": 39,
@@ -862,6 +1005,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969354455",
+   "title": "Antique Depose Wien-Teplitz Vase",
+   "price": 80,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/newton-antique-depose-wien-teplitz-vase/87NcVg739a8J1BDorD8Fsc",
+   "best": "20th C. Romantic \"floral\" Gilded Porcelain Bridal / Wedding ...",
+   "med": 162,
+   "ratio": 2.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7956532868",
    "title": "Vintage lollipop microphone",
    "price": 100,
@@ -881,6 +1035,28 @@
    "best": "Vintage Sharpening Stones Razor Hone Wood two Bases Round ...",
    "med": 100,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964393256",
+   "title": "Stuff",
+   "price": 100,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/ellwood-city-stuff/neg3pMaJp6VYYy1o4LMYqp",
+   "best": "Great Lakes Seagulls Ceramic Figurine Mounted On Wood Hand ...",
+   "med": 132,
+   "ratio": 1.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951215376",
+   "title": "Epic Vintage Flip Clock",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-epic-vintage-flip-clock/gmmawoXEsibthdhDoqEHKX",
+   "best": "Seiko Flip Alarm Clock | eBay",
+   "med": 122,
+   "ratio": 1.22,
    "ai_value": ""
   },
   {
@@ -926,6 +1102,17 @@
    "med": null,
    "ratio": null,
    "ai_value": "Value: Typically ranges from roughly $40 to $100"
+  },
+  {
+   "pid": "7982501955",
+   "title": "Rollerbones Vintage Skate Case",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-rollerbones-vintage-skate/h6buAeaa8N9dBE1Rk5oiwc",
+   "best": "skateboard Vintage 80's Powell Roller Bones Roller Skate ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   },
   {
    "pid": "7970897655",
