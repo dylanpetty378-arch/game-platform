@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:10:50Z",
+ "updated": "2026-10-13T23:14:54Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7149,
-  "events": 26569,
+  "lens": 7174,
+  "events": 26594,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 390,
+  "lensed": 395,
   "comps/pass": 1,
-  "queued/relens": 332,
+  "queued/relens": 337,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 600,
+  "flagged": 615,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 504
+  "queued": 479
  },
  "last_harvests": [
   {
@@ -624,6 +624,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979000631",
+   "title": "Indian necklace andcearrings",
+   "price": 20,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-indian-necklace-andcearrings/4yBB254pYueNncNEuZZ5Hy",
+   "best": "1976 AMERICAN INDIAN JEWELRY GALLERY ADVERTISING, ZUNI ...",
+   "med": 994,
+   "ratio": 49.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7953841330",
    "title": "Assorted Hat Collection",
    "price": 1,
@@ -646,6 +657,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966819596",
+   "title": "Mickey Commemorative Art Piece",
+   "price": 100,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/tennent-mickey-commemorative-art-piece/vz8zA3PwxKZWaAGyN6A3ro",
+   "best": "Walt Disney Studios, Fantasia, Lithograph, numbered in pencil ...",
+   "med": 4442,
+   "ratio": 44.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7955749999",
    "title": "MOST UNIQUE!!Vintage Nude Girl Lamp-Works Fine",
    "price": 15,
@@ -665,6 +687,17 @@
    "best": "Handles & Suspension: Two small ceramic loop handles (lugs) on the sides of the neck threaded with a worn leat",
    "med": 643,
    "ratio": 42.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970911404",
+   "title": "Vintage Knot Cufflinks with Studs",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-knot-cufflinks/mHuo3aUT46nqqjArHP537s",
+   "best": "Dolan Bullock 14K Yellow Gold Knot Cufflinks | eBay",
+   "med": 1280,
+   "ratio": 42.67,
    "ai_value": ""
   },
   {
@@ -897,6 +930,17 @@
    "med": 1705,
    "ratio": 17.05,
    "ai_value": "Price: Retails around $3,299"
+  },
+  {
+   "pid": "7956414737",
+   "title": "Vintage Flat Link Chain Choker Necklace",
+   "price": 40,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brookfield-vintage-flat-link-chain/5sWzo4bta3hJMynDjbUcub",
+   "best": "Fancy Look 18K Gold Necklace Neckline Omega Wedding Wear ...",
+   "med": 675,
+   "ratio": 16.88,
+   "ai_value": ""
   },
   {
    "pid": "7975238325",
@@ -1633,6 +1677,17 @@
    "best": "Romeo Y Julieta Wooden Cigar Box - Etsy",
    "med": 60,
    "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962430533",
+   "title": "Antique Barker Brothers Silver Coffee Pot",
+   "price": 40,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/pipersville-antique-barker-brothers/hMx66Dv1zXQeP55bqTBjDj",
+   "best": "Pair of silver plated three branch candelabra | Wood, Metal ...",
+   "med": 295,
+   "ratio": 7.38,
    "ai_value": ""
   },
   {
@@ -3077,6 +3132,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975418529",
+   "title": "VINTAGE HARDSHELL GUITAR CASE",
+   "price": 89,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-vintage-hardshell-guitar/bZZmVKdm623UAQJaoMrLQf",
+   "best": "Geib Vintage Acoustic Guitar Case 1940's /1950's | eBay",
+   "med": 291,
+   "ratio": 3.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7973935347",
    "title": "Old timer knife",
    "price": 20,
@@ -3338,6 +3404,17 @@
    "best": "Antique 1913 Elgin 12s 15j Pocket Watch Model 2 Grade 314 ...",
    "med": 440,
    "ratio": 2.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982940801",
+   "title": "knife collection",
+   "price": 50,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/louisville-knife-collection/4YrP8j9FJmifBF6PyMhkMh",
+   "best": "25+ Multi-tool Collectible Vintage Factory Manufactured ...",
+   "med": 144,
+   "ratio": 2.88,
    "ai_value": ""
   },
   {
@@ -3997,6 +4074,28 @@
    "url": "https://www.craigslist.org/view/d/hillsboro-vintage-ceramic-figurines/v1Au9UqQpeocSaumUsJV5M",
    "best": "Origin: Mid-century novelty kitchenware or souvenirs commonly produced in Japan during the post-WWII or Occupi",
    "med": 22,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954744870",
+   "title": "Pictures Sale",
+   "price": 20,
+   "area": "merced",
+   "url": "https://www.craigslist.org/view/d/merced-pictures-sale/v9qwyfhCFz1St3p2BrQkAL",
+   "best": "Thomas Kinkade LET YOUR LIGHT SHINE Collector's Society ...",
+   "med": 44,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967741361",
+   "title": "Vintage Unusual Silver Pendant w/Organic Flora Motif",
+   "price": 35,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-unusual-silver/3pVZ5Pee3C33y3rRUZdV4N",
+   "best": "Old Indian Tribal silver pendant. Prayer box. Dangles. Fine ...",
+   "med": 77,
    "ratio": 2.2,
    "ai_value": ""
   },
@@ -5288,6 +5387,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928648317",
+   "title": "Betsey Johnson multi layer charm necklace",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-betsey-johnson-multi-layer-charm/qVGpGQTcXveQWCKpzTYWEK",
+   "best": "Betsey Johnson Tea Party Heart Tea Cup Necklace Nwot Rare | eBay",
+   "med": 120,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7947173051",
    "title": "Antique Cloisonn\u00e9 Vase Set",
    "price": 80,
@@ -5440,6 +5550,17 @@
    "med": 230,
    "ratio": 1.15,
    "ai_value": "Price Range: Typically sells between $75"
+  },
+  {
+   "pid": "7930234663",
+   "title": "Vintage Sterling silver swirl bracelet, signed, small",
+   "price": 125,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-sterling-silver-swirl/dxgDPKKL2mKjBDpDXYLPGz",
+   "best": "Mexico Sterling Silver Open Space Modernist Cuff Bracelet ...",
+   "med": 144,
+   "ratio": 1.15,
+   "ai_value": ""
   },
   {
    "pid": "7930682593",
@@ -5761,6 +5882,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950445080",
+   "title": "BROOCH AND NECKLACE LOTS",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-brooch-and-necklace-lots/nMziomsLG4nhMEvMyu9Phu",
+   "best": "VTg Silver GOLD TONE BROOCH PIN LOT FLOWERS ANIMALS ...",
+   "med": 48,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7955143053",
    "title": "Knick-knack stuff",
    "price": 100,
@@ -5878,6 +6010,17 @@
    "url": "https://www.craigslist.org/view/d/tucson-native-american-indian-katchinas/qgvbQjCnB8Sx4BebZBFbJh",
    "best": "Base: Mounted on a round natural wood pedestal base.",
    "med": 66,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937798529",
+   "title": "Brighton Earrings",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-brighton-earrings/kcSTVszQ2cUugksmRpKvgg",
+   "best": "Natural Pink Amethyst Cushion Dangle Earrings, 925 Sterling ...",
+   "med": 22,
    "ratio": 0.88,
    "ai_value": ""
   },
@@ -6091,6 +6234,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978049511",
+   "title": "Lot of 4 Vintage Compasses",
+   "price": 100,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-lot-of-vintage-compasses/iBnmnoX1rLNmWKCZvCXuLS",
+   "best": "VINTAGE SILVA THE RANGER TYPE 15T FORESTRY COMPASS MADE IN ...",
+   "med": 75,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7982747640",
    "title": "VINTAGE 1950s REYNOLDS FLUTE WITH ORIGINAL CASE",
    "price": 150,
@@ -6296,6 +6450,17 @@
    "url": "https://www.craigslist.org/view/d/bradley-memorial-pocket-watch-honoring/j8cgfm66oS4DcfX82hQX4P",
    "best": "Subject: A wind-up (mechanical) commemorative pocket watch honoring U.S. President Abraham Lincoln.",
    "med": 71,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945698027",
+   "title": "Old man Laughing",
+   "price": 150,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-old-man-laughing/bCjFmBHxacubboD6KZsP3o",
+   "best": "Mid-Century Modern for Sale in Santa Monica, CA - OfferUp",
+   "med": 85,
    "ratio": 0.57,
    "ai_value": ""
   },
