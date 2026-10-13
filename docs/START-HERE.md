@@ -66,18 +66,19 @@ cat STATUS.md | head -80             # what's waiting
 (raw URLs above). You can review flagged listings and research comps; record your conclusions in the chat and, if
 nothing can write to the repo, give Dylan the exact `db.py event …` lines so the next repo session logs them.
 
-Then:
-1. **Is the cloud worker healthy?** `STATUS.md` timestamp should be < 5 h old. If not: repo → Actions → refurbish-cycle
-   (or `gh api repos/dylanpetty378-arch/game-platform/actions/runs`). Fix, re-run, log in `docs/improvements.md`.
-2. **Is the Chrome worker running?** STATUS shows Lens results arriving (`lens` count rising; `lensworker-*` runs).
-   If not, and Chrome tools are available: open `https://www.google.com/robots.txt?refurb` and read the panel.
-3. **Work the flagged list** (`python3 scripts/db.py worklist flagged` or STATUS.md) with `docs/review-procedure.md`.
-   Log every step as an event (`db.py event <pid> photo_review --status kill --note "…" --type <slug>`).
-4. **Finds → PDF for Dylan** (`scripts/legacy/build_run12.py` style; format in `docs/history/report-format.md`),
-   drafted seller messages in the PDF/reply, nothing sent without his OK.
-5. **Write down what you learned**: encyclopedia entries for every item type researched, improvements/lessons in
-   `docs/improvements.md`, run summary `db.py run <id> --data '{…}'`. Commit + push (`git pull --rebase` first —
-   the cloud bot commits too).
+Then follow **`docs/review-cycle.md`** — the exact run: `python3 scripts/health.py` (PASS/WARN/FAIL for every step:
+workflow, harvest, queue, Lens worker freshness + read quality, database integrity, review backlog) → triage the
+flagged list (`scripts/review_helpers.py --flagged`) → photo review + listing bodies (`--body <url>`) → sold comps
+(Terapeak JS via `--terapeak-js`, else web) → events/comps/encyclopedia → commit `db/ docs/ scripts/` only (never
+`q/`, `STATUS.md`, `status.json` — the bot owns them) → dispatch the workflow with no_harvest → Tier A/B finds go to
+Dylan as a PDF (`scripts/build_report.py`, seller contacts only in the spec in /tmp).
+
+**Scheduled:** a Claude scheduled task "Refurbish review cycle" runs exactly this every 6 h in the cloud (no Chrome, so
+web comps). A chat with Chrome + signed-in eBay should re-check its keepers on Terapeak.
+
+**History / logs on request:** everything is in `db/` — `python3 scripts/db.py sql "SELECT …"` (tables harvests,
+searches, listings, lens, events, comps, item_types, runs; view listing_status = latest stage per listing), plus `git
+log` of the branch (every cycle and every worker upload is a commit).
 
 ## 5. Standing instruction from Dylan
 

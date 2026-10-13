@@ -18,13 +18,24 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 4. **More sources into the same queue** — FB Marketplace (browser-only; Dylan's account — feeds captured before, see
    history/shipped-sweep-methods.md), OfferUp, estate-sale photo sets (estatesales.net API), ShopGoodwill (API works
    from the container), HiBid. Each needs a harvester that emits the same listing shape with a `source` field.
-5. **Liveness checks** — cloud cycle re-checks flagged/find listings and writes `expired` events when deleted.
+5. **Liveness checks** (review_helpers --body does it per item; automate in the cloud cycle) — cloud cycle re-checks flagged/find listings and writes `expired` events when deleted.
 6. **Specialist exact lookups** — ISBN/UPC → BookScouter/PriceCharting; records → Discogs; Lego set numbers →
    BrickLink. Deterministic value for those categories.
 7. **Stage-2 automation** — a cloud job can't see images with judgment, but a Claude session can batch-review
    flagged listings with 1200px photos; consider splitting the flagged list into daily review packets (one PDF/sheet).
 
 ## Log
+
+### 2026-10-13 (night) — the machine checks itself
+- `scripts/health.py`: one command, PASS/WARN/FAIL for every step (workflow runs, harvest age/failures, queue age/size,
+  Lens freshness, read quality of the last 200 — priced ≥80%, empty ≤5%, worker version mix — flag rate, JSONL
+  integrity, inbox drained, flagged backlog). First run: all PASS; last 200 reads still v1 (92% priced, 5% empty, AI 32%).
+- `scripts/review_helpers.py`: flagged worklist (TSV with Lens fields), listing body/liveness fetch, shortlist export,
+  Terapeak helper JS.
+- `docs/review-cycle.md` + Claude scheduled task "Refurbish review cycle" (every 6 h, cloud): Stage 2/3 now runs
+  without anyone opening a chat. Messages Dylan only for Tier A/B finds or breakage.
+- Gotcha: raw.githubusercontent.com caches a branch file ~5 min; a local `origin/<branch>` ref can be stale — check
+  with `git fetch` + `merge-base --is-ancestor` before concluding a push failed.
 
 ### 2026-10-13 (early) — first top-10 report from the database
 - ~830 listings through Lens (worker v1.3 on the CLIP-ranked queue since 02:27 UTC), 360 flagged → all triaged; 40
