@@ -47,4 +47,4 @@ Prefer specific identification queries.
   15-row compact strings (`i,n,p25,p50,p75`), with top rows dropped to stay under the tool's ~1 KB string limit.
   Result: research/terapeak/wave2b.jsonl and 284 comps; lines appended to 148 entries' Comps sections. Lines where
   p75/p25 > 6 are tagged "wide spread", meaning the query probably mixed variants or parts.
-- Remaining: wave 2 indices 669–1099.
+- Remaining: wave 2 indices 669–1099. NOTE: the in-page `Q3` is a flat array of query STRINGS (use `Q3[i]`, not `Q3[i][1]`; the latter gives one letter → 5 zero results → loop stops).
