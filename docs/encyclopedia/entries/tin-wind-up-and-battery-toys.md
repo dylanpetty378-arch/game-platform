@@ -1,5 +1,5 @@
 # Tin wind-up and battery-operated toys (Marx, Chein, Unique Art, Japan 1950s–60s, Schuco, Lehmann)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold/active listings (Marx Funny Drummer tiger, Happy Drummer bunny Taiwan NOS $80 ask), Antiques Roadshow Marx appraisals, general collector pricing; Google Lens check 2026-10-13 (asking-price based)
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold/active listings (Marx Funny Drummer tiger, Happy Drummer bunny Taiwan NOS $80 ask), Antiques Roadshow Marx appraisals, general collector pricing; Google Lens check 2026-10-13 (asking-price based) · tells 2026-10-13
 Slug: tin-wind-up-and-battery-toys · Aliases: tin toy, wind up toy, windup, clockwork toy, mechanical toy, battery toy, tin litho, tin robot, space toy
 Summary: Taiwan/China 1970s+, repros and rusty non-working toys $10–40; common Marx and working Japan plush drummers $50–150; Merrymakers, Lil Abner band, Japan tin cars and Linemar characters $200–600; robots, rare Schuco and boxed pre-war Marx $1,000–10,000+.
 Buy rule (short): Japan/Marx/Schuco marked and working at ≤ 35% of sold, or any robot/space toy ≤ $100; pass Taiwan/China 1970s+ and non-working battery toys.
@@ -26,6 +26,17 @@ Buy rule (short): Japan/Marx/Schuco marked and working at ≤ 35% of sold, or an
 | Horikawa | 1960s–70s | SH | robots, Attacking Martian |
 | Yonezawa / Alps / Bandai | 1950s–60s | Y / ALPS / BC | cars, animals, battery toys |
 | Schuco / Lehmann / Arnold | 1900s–60s | SCHUCO / EPL | clockwork cars, Studio racers, Lehmann novelty toys |
+
+### Golden-egg tells
+- Masudaya "Gang of Five" Machine Man — $86,100 unboxed (record) vs $10–40 for a Taiwan robot — 15" square-head, box-body red robot with lithoed dials, "TM" in a diamond; siblings Radicon ($37,300 Morphy), Target Robot ($34,440 with dart gun and box), Non-Stop/Lavender and Giant Sonic (https://www.antiquesandthearts.com/machine-man-sets-auction-record-for-unboxed-robot-at-morphy; https://www.collectors-club-of-great-britain.co.uk/News/masudaya-radicon-robot-sells-for-37300-at-morphy-auctions; https://www.antiquetrader.com/auctions/japanese-robots-rule)
+- Yonezawa Jupiter Robot with its remote battery box — $20,400 even with a repro box vs $100 for a common 1960s robot — separate hand-held battery box on a cable (https://www.antiquetrader.com/auctions/japanese-robots-rule)
+- Linemar Popeye and Olive Oyl Tank, battery-op, pictorial box — $87,500; Linemar Popeye Air-O-Plane boxed $8,750; Linemar Smoking Popeye (on spinach can) boxed $4,800 — vs $75–150 for a Marx drummer — "LINEMAR" mark plus a licensed King Features character (https://antiquesandthearts.com/popeye-powers-milestones-antique-toy-spectacular/; https://www.antiquesandthearts.com/machine-man-sets-auction-record-for-unboxed-robot-at-morphy)
+- Chein Popeye Overhead Puncher (celluloid punching bag, with key) — $9,500; Chein Popeye Heavy Hitter (carnival bell) boxed $5,535–9,500 — vs $30–60 for a Chein ferris wheel — Popeye figure with the "CHEIN" mark (https://antiquesandthearts.com/popeye-powers-milestones-antique-toy-spectacular/)
+- Nomura Walking Batman (cloth cape) boxed — $12,915; T.N. Batman robot $8,400; Yonezawa Batman Tank $14,760 — 1960s TV Batman graphics on the body/box with "TN" or "Y" mark (https://www.antiquetrader.com/auctions/japanese-robots-rule; https://www.antiquesandthearts.com/machine-man-sets-auction-record-for-unboxed-robot-at-morphy)
+- Daiya Space Patrol Car (red friction convertible, two astronaut drivers) — $9,900 vs $15–30 for a Japan friction car — astronaut figures in bubble helmets, "DAIYA" mark (https://www.antiquetrader.com/auctions/japanese-robots-rule)
+- Horikawa Changeman (head splits, astronaut head rises) — $5,120 vs $150–300 for a common Horikawa "SH" robot — split-dome head, ~20 made (https://www.antiquesandthearts.com/machine-man-sets-auction-record-for-unboxed-robot-at-morphy)
+- Lehmann Skirolf boxed — $7,200 vs $100–300 for a common Lehmann — skier figure, "EPL" mark, original box (https://www.antiquesandthearts.com/machine-man-sets-auction-record-for-unboxed-robot-at-morphy)
+- Original pictorial box present — ~2× the loose toy — box graphics match the toy's litho, worn corners, not a colour-copy (entry comp)
 
 ## Materials, finishes and quality tells
 - Lithographed tinplate with tabs folded through slots, a clockwork spring motor, celluloid or vinyl faces on later toys, and battery boxes with spring contacts.

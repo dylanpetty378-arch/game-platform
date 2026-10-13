@@ -75,6 +75,9 @@ Profit = sold median × 0.87 − ~$15 to buyer − ~$15 to Dylan − price; pass
 - Never buy full bottles to resell; Dylan has no liquor licence and eBay bans alcohol.
 - Lots: only if the lot price is ≤ $3 per piece and it contains identified better pieces; still bulky (often fails the passenger-seat rule).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Jim Beam "175 Months" presentation-box decanters (Regal China, 1960s) $10-30 empty; full ones cannot be shipped via eBay.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "irregular",

@@ -57,6 +57,9 @@ Photograph the back stamps; give dimensions, weight, metal (tested), belt width 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$8) − ship to Dylan (~$8) − price ≥ max($50, price). Needs ~$75+ median. Buy only sterling Western/Native buckles with marks, early Hesston, named trophies, at ≤ 1/3 sold median. Pass pewter advertising/event buckles over $10. High-end Bohlin/Native claims need clear hallmarks; anything needing appraisal at > $200 value – pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Motorcycle-club poker-run enamel buckles (1989-90 Ocean State) are novelty tier $8-30, not sterling trophy buckles.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.3, "shape": "flat",

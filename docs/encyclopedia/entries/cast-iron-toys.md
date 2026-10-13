@@ -95,6 +95,9 @@ Give maker (and how identified: cast name, decal, or attribution by known castin
 ## Buy rule
 Profit = sold × 0.87 − $11 − $11 − price ≥ max($50, price). Need crisp casting + peened axles + honest wear. Rough red repros: pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): "Cast-iron tractor" sellers often have 1990s Spec-cast/Ertl collector diecast (cast "Spec-cast, Dyersville, IA" under the body, Old Farmer's Almanac 1992 edition) — $20-40, not Arcade/Hubley.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "irregular",

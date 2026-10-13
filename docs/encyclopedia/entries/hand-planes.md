@@ -65,6 +65,10 @@ State maker, size number, Bailey vs Bedrock, type indicators (patent dates, tote
 ## Buy rule
 Buy when: Lie-Nielsen/Veritas under $100; Stanley Bedrock under $50; a lot of several pre-war Stanleys at ~$10 each. Pass when: post-war common Baileys at $30+ (resale $20–60 leaves no margin), cracked castings, married frogs. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Stanley No. 78 rabbet planes missing fence and depth stop drop from ~$50 to ~$20; a lot of three iron planes weighs ~10 lb and fails on shipping regardless of type.
+- 2026-10-13 (triage): A low front knob alone does not make a Stanley No. 4 valuable — it is still a plain Bailey ($40-70) unless "BED ROCK" is cast on the toe (604); the Bedrock cheek shape (round vs flat top) is the second tell.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 6, "shape": "irregular", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 2, "id_difficulty": 3, "rarity": 2, "sold_per_month": 2000, "sell_through": 55, "days_to_sell": 14, "price_p25_p50_p75": [30, 50, 110], "price_spread": 3.7, "condition_sensitivity": 3, "seasonality": "slight winter peak (shop season)", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 18, "undervalue_frequency": 3, "bust_probability": 35, "expected_profit_typical": 15, "confidence": "low"}

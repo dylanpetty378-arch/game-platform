@@ -82,6 +82,9 @@ Buy when: a visible Mitchell half-bail, boxed Mitchell or Penn 704/706 is in a l
 Pass when: Zebco/Shakespeare lots; Mitchell 300s priced ≥ $15 each; Mitchell 300/406, Penn GTO, or a Senator under 114 at any price over $20.
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (reels do; rods don't ship).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Wright & McGill Eagle Claw 125 with zip case sells ~$30 even "like new"; it is not a Mitchell 308/300 (the brown Mitchell 308 ultralight is the one that clears $60-100).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "irregular", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 3, "testability": 2, "repro_risk": 2, "id_difficulty": 3, "rarity": 2, "sold_per_month": 5000, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [20, 35, 70], "price_spread": 3.5, "condition_sensitivity": 3, "seasonality": "spring (Mar–Jun) peak", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 10, "undervalue_frequency": 2, "bust_probability": 45, "expected_profit_typical": 0, "confidence": "medium"}

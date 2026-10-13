@@ -78,6 +78,7 @@ VIC-20, anything untested. Profit must be ≥ max($50, price) after ~13% fees an
 seat (CRT monitors alone may not — computer unit only).
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): Osborne 1 (1981, blue-grey case, 5 in CRT, dual floppies) weighs ~24 lb; untested examples list $150-300 but the entry's "pass untested" rule plus $50+ each-way shipping kills it under ~$50.
 - 2026-10-13 (triage): Apple PowerBook G3 "Lombard" (1999, bronze translucent keyboard) — for-parts units $50–100, working with adapter $150–250; a $10 parts unit does not clear $50 after ~$25 shipping.
 
 ## Rubric

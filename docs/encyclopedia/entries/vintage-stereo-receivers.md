@@ -96,6 +96,9 @@ Buy when: tested working Marantz 22xx, Pioneer SX-x50 (1050+), Sansui 8080/9090/
 untested/"in storage", slim 1980s models, Lafayette/Realistic. Profit must be ≥ max($50, price) after ~13% fees and
 shipping both ways. Must fit a passenger seat (consoles do not).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Pioneer SA-510 (1980 Fluroscan, 20 W/ch) sells $100-170 and weighs ~15 lb; only the SA-9500/9800/SX-1250 tier clears shipping. Powered-on photo is not a test.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 45, "shape": "flat", "fragility": 3, "transit_damage_risk": 4, "hidden_defect_risk": 4, "testability": 4, "repro_risk": 1, "id_difficulty": 2, "rarity": 2, "sold_per_month": 2000, "sell_through": "?", "days_to_sell": 14, "price_p25_p50_p75": [100, 250, 600], "price_spread": 6.0, "condition_sensitivity": 4, "seasonality": "Q4 slight lift", "best_platform": "eBay; Audiokarma/Audiogon; local", "fees_pct": 13, "ship_cost_to_buyer": 75, "undervalue_frequency": 3, "bust_probability": 35, "expected_profit_typical": 20, "confidence": "low"}

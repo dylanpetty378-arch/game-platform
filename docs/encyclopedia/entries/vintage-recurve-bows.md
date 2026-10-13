@@ -83,6 +83,9 @@ under $70; any recurve with a Top-tier name under $150 if limbs look straight. P
 60 lb, LH, or seller names the model and prices over $100. Profit must be ≥ max($50, price) after ~13% fees and shipping
 both ways (~$60 round trip). Must fit a passenger seat (bows fit diagonally; long length drives shipping cost).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): A one-piece solid fiberglass bow with no laminated riser (plain green limbs, tape grip) is a youth/beginner bow, $15-40, regardless of age.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 5, "shape": "irregular", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 2, "id_difficulty": 3, "rarity": 2, "sold_per_month": 300, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [90, 150, 250], "price_spread": 2.8, "condition_sensitivity": 5, "seasonality": "Aug–Oct pre-hunting season", "best_platform": "eBay; Archery Talk / Leatherwall classifieds", "fees_pct": 13, "ship_cost_to_buyer": 32, "undervalue_frequency": 3, "bust_probability": 30, "expected_profit_typical": 20, "confidence": "low"}

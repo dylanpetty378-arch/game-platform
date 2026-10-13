@@ -49,6 +49,9 @@ State line (Premium/Super Pro/Tournament/Black), complete 16-ball count, chips a
 ## Buy rule
 Buy when: Super Pro/Tournament set under $60. Premium under $35 was the earlier threshold, but by Dylan's rule a ~$120 Premium sale nets only ~$35 profit at a $35 cost (fees ~$16, ~$36 shipping both ways) – so Premium only at ≤ ~$20. Pass when: Premium at $75 (sold ~$120 → profit <$50). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (it does).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Sellers posting a Google "$278" screenshot instead of their own photo are quoting a retail Aramith listing; demand a real photo of the set and the number-ball style before any offer.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 7, "shape": "set-of-many", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 3, "id_difficulty": 2, "rarity": 2, "sold_per_month": "?", "sell_through": "?", "days_to_sell": "?", "price_p25_p50_p75": [60, 120, 180], "price_spread": 3.0, "condition_sensitivity": 3, "seasonality": "none known", "best_platform": "eBay / local", "fees_pct": 13, "ship_cost_to_buyer": 18, "undervalue_frequency": 2, "bust_probability": 25, "expected_profit_typical": 10, "confidence": "low"}

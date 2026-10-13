@@ -1,5 +1,5 @@
 # Designer accessories — boxed small accessories and gift sets (Yves Saint Laurent, Christian Dior, Pierre Cardin, Givenchy, Lanvin, Cartier "Must de", Dunhill, Gucci)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Google Lens result in batch b27 (pid 7932566752, Lens median $342 — asking prices, unverified)
+Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run); Google Lens result in batch b27 (pid 7932566752, Lens median $342 — asking prices, unverified)
 Slug: designer-accessories · Aliases: YSL collection, vintage YSL box, designer gift set, cufflinks set, tie bar set, keychain, money clip, designer pen set, designer lighter, licensed accessories
 Summary: licensed 1970s–90s gift-box accessories (keychains, tie bars, cufflinks, pens, combs) $15–60; better metal/enamel pieces and lighters $40–150; true house-made fine jewelry/leather/Cartier/Dunhill lighters $150–600+ (general knowledge, verify)
 Buy rule (short): Only buy when the contents are visible and identifiable as a sought piece under ~1/4 of its sold median; an empty or closed box is a pass, and anything needing authentication is out of scope.
@@ -13,6 +13,16 @@ Small branded accessories sold in gift boxes during the licensing boom of the 19
 - **Cartier "Must de Cartier"** — lighters, pens, keyrings; high value, heavily faked; needs authentication.
 - **Dunhill** — lighters (Rollagas), pens; high value; fakes exist.
 - **Gucci, Hermès** — leather goods and jewelry; heavily faked; out of scope under Dylan's rules.
+
+### Golden-egg tells
+- Dunhill Rollagas in solid 18K gold (Swiss, c. 1970) — ~$6,685 asking vs $342–428 for gold-plated and $13 Terapeak median (parts/flints) — "750"/"18K" and Swiss hallmarks struck on the base beside "Dunhill" and the serial; plated ones have no fineness mark (https://www.1stdibs.com/answers/are-dunhill-lighters-gold-plated)
+- Dunhill Rollagas / S-Type gold-plated, boxed, "Made in Switzerland" — $342–450 asking (boxed sets to $1,100–1,200) vs $40–150 for a YSL/Dior licensed gas lighter — "Dunhill", "Made in Switzerland" and a letter-prefix serial (e.g. C80994) on the base; Dunhill box; the bordeaux "gold dust" lacquer is the premium finish (https://www.1stdibs.com/answers/are-dunhill-lighters-gold-plated)
+- Must de Cartier gold-plated lighter, genuine — €220 sold (Catawiki) / $170 Terapeak median vs $40–150 licensed lighters — base struck "PLAQUE OR G", Cartier logo, "PARIS" and a punched serial (e.g. 80101G); fakes miss the serial or the plaque-or mark (https://www.catawiki.com/en/l/105333630-cartier-must-de-cartier-lighter-gold-plated ; entry comp)
+- Cartier Santos lighter (ribbed/godron body with screw-head motif, full set with papers) — above the plain Must at the top of the $150–600 tier — screw heads and ribbing on the body, red Cartier box and warranty booklet in the photo (https://analogshift.com/products/cartier-must-de-cartier-santos-lighter-asm0359)
+- Cufflinks by Cartier, Van Cleef & Arpels, Tiffany — 300–500% / 300–600% / 200–400% over comparable unsigned pieces; Georg Jensen sterling $400–1,200 — maker signature inside the bridge or back plus "925"/"750", Jensen oval "GEORG JENSEN 925 S DENMARK" (https://appraisily.com/articles/old-cufflinks-value/)
+- Solid-gold cufflinks (14K $300–1,200; 18K $500–2,500) vs $15–60 licensed costume — "14K", "585", "18K" or "750" stamps on the back; gold-filled reads "1/20 12K GF" and is $75–250 (https://appraisily.com/articles/old-cufflinks-value/)
+- Art Deco (1920–39) enamel/geometric cufflinks — $300–5,000 vs $150–800 for 1960s–70s modernist — stepped geometric enamel in black/white/red, platinum or white gold mounts (https://appraisily.com/articles/old-cufflinks-value/)
+- Pierre Cardin licensed pieces — ~0.5× of the YSL/Dior licensed tier — Cardin logo on mass-made tie bars, lighters and keyrings; the most diluted licence (entry comp)
 
 ## Materials, finishes and quality tells
 - Licensed costume pieces: gold-tone or silver-tone plated base metal, enamel inserts, stamped logo; light weight. Value mostly as vintage-fashion items.

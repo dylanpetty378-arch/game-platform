@@ -45,3 +45,8 @@
 - 2026-10-13: violins: Unstamped round-stick Mirecourt trade bows with ebony frog and wire grip sell $100-200; the value jump is a maker stamp on the stick above the frog (Bazin, Morizot, Ouchard, Thomassin, Cuniot-Hury) or a Parisian-eye frog, $400+.
 - 2026-10-13: halloween-collectibles: 1990s Cesar/Disguise Bill and Hillary Clinton latex masks sell $30-60 each; a pair tops out ~$100.
 - 2026-10-13: teddy-bears: Raikes Bears (Applause, wooden face, leather hang tag) are $20-40 for common editions; only the signed/numbered 1985 first editions clear $100.
+- 2026-10-13: kitchen-primitives: Antique tin wall comb cases sell $15-40 each; a seller pricing per piece ($15 ea) leaves no margin even on a 14-piece lot.
+- 2026-10-13: japanese-bronze: Unsigned sub-4in Meiji-style bronze usubata with elephant handles sells $40-80; the signed (Seimin, Dai Nihon) pieces are the valuable version.
+- 2026-10-13: vintage-sportswear: 1970s Champion Products Inc. Rochester NY running-man label on nylon snap coach jacket with acrylic pile lining; plain felt-letter examples ~$50-80 (no comp); only graphic/team-printed ones reach $100+.
+- 2026-10-13: cameo-jewelry: black glass intaglio cameo in brass oak-leaf/acorn frame is 1950s-60s Victorian-revival costume (Hobe/Whiting & Davis style), $25-40 — not Whitby jet.
+- 2026-10-13: military-buttons: "Superior Quality" backmark = Waterbury Button Co. post-WWII; US Navy eagle-on-anchor sets $1-2 per button.

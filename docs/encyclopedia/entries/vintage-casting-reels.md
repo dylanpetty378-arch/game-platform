@@ -1,5 +1,5 @@
 # Vintage casting reels and tackle lots (level-wind baitcasters, Kentucky reels, glass minnow traps: Pflueger, Shakespeare, Langley, South Bend, Heddon, Meek, Talbot)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold-price knowledge 2024–25 for Pflueger Supreme/Shakespeare/Penn/Langley reels; glass minnow trap sold ranges (Orvis, Joy, C.F. Orvis marked); fishing-collectibles (NFLCC) guides.
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold-price knowledge 2024–25 for Pflueger Supreme/Shakespeare/Penn/Langley reels; glass minnow trap sold ranges (Orvis, Joy, C.F. Orvis marked); fishing-collectibles (NFLCC) guides. · tells 2026-10-13
 Slug: vintage-casting-reels · Aliases: baitcasting reel, level wind reel, old reels, vintage fishing reels lot, antique tackle, Kentucky reel, glass minnow trap, minnow bottle
 Summary: Bronson, Ocean City and plain Shakespeare $5–15; Pflueger Supreme, Langley, Penn Peer, Shakespeare Tournament and unmarked glass traps $20–45; cased Supreme, Heddon 3-25, Meisselbach Tripart and Orvis glass traps $50–120; early Ambassadeur, Shakespeare President, Kentucky reels (Meek, Milam, Talbot) $150–1,000+.
 Buy rule (short): Lots ≤ $6/reel with at least one Pflueger Supreme / Ambassadeur / Heddon visible, or a glass minnow trap ≤ $25; pass modern-lure tackle boxes and sellers who already name the good reels.
@@ -22,6 +22,16 @@ Buy rule (short): Lots ≤ $6/reel with at least one Pflueger Supreme / Ambassad
 - **Bronson, Ocean City**: low.
 - **Kentucky reels** (German-silver, hand-made, 1800s–early 1900s): B.F. Meek, B.C. Milam, J.F. & B.F. Meek, Talbot. Top tier: stop for anything engraved "Meek" or "Talbot".
 - **ABU Ambassadeur 5000** red (Sweden, early serials) is top tier per this entry; see the note under Value ladder.
+
+### Golden-egg tells
+- B.F. Meek & Sons (Louisville) / Meek & Milam (Frankfort) German-silver Kentucky reel — $500–3,000+ vs $20–45 Pflueger Supreme (~25×+) — engraved "B.F. MEEK & SONS LOUISVILLE KY" or "MEEK & MILAM FRANKFORT KY" on the head plate, size number (No. 2/3/5), jewelled bearing caps, no level-wind (https://antiquefishingreels.com/?p=2058)
+- "MEEK 44" German-silver fly reel — $1,000+ vs $20–45, the most collectible Meek — "MEEK 44" stamped on the foot/plate, no level-wind, click button on the back plate (https://antiquefishingreels.com/?p=2058)
+- Talbot (Nevada MO / Kansas City) "Ben Hur", "Star", "Meteor" — $300–1,500 vs $20–45 — "Wm. H. Talbot" engraving, German silver, often a star or model name on the plate (https://amff.org/portfolio/in-reel-time-fly-reels-past-present/wm-h-talbot-ben-hur-trout-reel/)
+- Later Horton/Bluegrass-marked Meek No. 3 (Bristol, Conn.) — $100–300, well below hand-made Louisville/Frankfort reels but 5× a Supreme — "THE HORTON MFG CO. BRISTOL CONN." or "BLUEGRASS REEL WORKS" beside the Meek name (https://antiquefishingreels.com/?p=2058)
+- Pflueger Supreme in its leather case with wrench and oiler — $50–120 vs $20–45 bare (~2.5×) — brown leather snap case with "Pflueger" embossed, small flat wrench inside (entry comp)
+- ABU Ambassadeur 5000 three-screw (1950s, Sweden, low serial) — $100–400 vs $50–150 ordinary 1960s–70s red 5000 — three screws on the sideplate (later four), serial under 100000, round "ABU Record"-style foot stamp (entry comp)
+- Orvis-embossed glass minnow trap — $50–120 vs $20–45 unmarked jar — "ORVIS MANCHESTER VT" moulded into the shoulder of the gallon funnel-neck jar (entry comp)
+- Shakespeare President or Heddon 3-25 — $50–150+ vs $5–15 plain Shakespeare Criterion — model name stamped on the foot or end plate (entry comp)
 
 ## Materials, finishes and quality tells
 - Nickel-plated brass, German silver and aluminium. Jewelled bearings and quadruple-multiplying gears in better reels (general knowledge, verify).

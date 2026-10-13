@@ -1,5 +1,5 @@
 # Straight razors (Solingen German: Henckels, Böker, Dovo, Puma, Wacker, Friodur; Sheffield English: Wade & Butcher, Joseph Rodgers, George Wostenholm I*XL, Joseph Elliot; American: Case, Robeson, Torrey, Geneva, Shumate, W.R. Case; retailer-branded German razors)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Straight Razor Place wiki (maker histories, "Razor makers" lists) https://straightrazorplace.com/srpwiki/ ; Badger & Blade forums https://www.badgerandblade.com/ ; "Standard Guide to Razors" by Ritchie & Stewart) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Straight Razor Place wiki (maker histories, "Razor makers" lists) https://straightrazorplace.com/srpwiki/ ; Badger & Blade forums https://www.badgerandblade.com/ ; "Standard Guide to Razors" by Ritchie & Stewart) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: straight-razors · Aliases: straight edge razor, cut-throat razor, barber razor, open razor, shaving razor, antique razor, razor lot, Solingen razor, Sheffield razor, razor in box
 Summary: Common worn/rusty razors $5–20 each; decent users (shave-ready-able, clean blades) German/American $20–50; desirable Sheffield wedges and premium German (Wacker, Friodur, Puma, Böker king cutter, Henckels 1/1) $50–150; NOS boxed razors $40–100; rare (Wade & Butcher "Celebrated Hollow Ground" big wedges, Frederick Reynolds, Dubl Duck, early Sheffield, ornate celluloid/ivory scales) $100–500+.
 Buy rule (short): Buy razor lots ≤ $10 per razor when photos show clean blades (no pitting at the edge, no chips/cracks) and named makers; boxed NOS German razors are the fastest sellers.
@@ -16,6 +16,16 @@ A folding razor: blade pivoting on a pin between two "scales" (handles). Photo t
 - **Sheffield**: Wade & Butcher (Celebrated Hollow Ground, "For the Barbers' Use"), Joseph Rodgers, George Wostenholm I*XL, Joseph Elliot, Frederick Reynolds, Thomas Turner. Big near-wedges $80–300.
 - **US**: Case Bros., Robeson Shuredge, Geneva Cutlery, Shumate, Torrey, Dubl Duck (Goldedge, Wonderedge — with Japanese "Sumo" etching high), Genco, Clauss, "Spike" (a cheap brand from the 1920s–40s, celluloid scales with nail logo, low value).
 - **Modern**: Dovo, Thiers-Issard, Boker, Ralf Aust (new $150–400; modern resale $80–250).
+
+### Golden-egg tells
+- Wade & Butcher 7/8 in+ wedge/near-wedge with barber's notch and smiling edge ("Celebrated Washington Razor", "For Barbers' Use") — $350–600 restored dealer vs $28 single median (~12×) — wide heavy blade, "W&B" with cross-and-arrow on the tang, notch at the toe, horn scales (https://www.classicshaving.com/collections/vintage-razors)
+- Dubl Duck Goldedge / Wonderedge / Satinedge and the Japanese "Sumo" etched blade — $130–300 vs $40–80 "Special No. 1" — gold-washed "GOLDEDGE" etching or sumo-wrestler etching on the blade face; Satin Edge dealer-priced $269 (https://www.classicshaving.com/collections/vintage-razors ; entry field note)
+- Filarmonica 14 "Doble Temple" (Spain, 7/8 in) — $200–450 vs $12–30 common Solingen — "FILARMONICA 14 DOBLE TEMPLE" etched on the blade, bulbous "Jose Monserrat Pou" scales, often in a coffin box (https://www.razoremporium.net/products/7-8-filarmonica-doble-temple-14-straight-razor-w-coffin-spain)
+- H. Boker commemorative/figural etchings ("American Line S.S. St. Louis" ship, "King Cutter" tree, "Edelweiss") — $250–425 vs $25–60 plain Boker — pictorial etching across the blade face, Boker tree logo on the tang (https://www.classicshaving.com/collections/vintage-razors)
+- Henckels Friodur (stainless, "FRIODUR" on tang) and Henckels 1/1 Twin Works — $50–150 vs $12–30 — "FRIODUR" or "1/1" plus twin-figure logo stamped on the tang (entry comp)
+- Boxed NOS with the "This razor is sharp and ready for shaving" inspection slip and gold-washed etching intact — $40–100 each vs $28 — two-piece pasteboard box, bright un-honed spine, paper slip (entry comp)
+- Boxed 7-day sets (seven matched razors, days etched on the spine/tang) — $300–1,500 vs $40 for a loose lot — fitted case with seven slots, "Sunday … Saturday" on the blades (entry comp)
+- Figural/embossed celluloid or genuine ivory scales (Art Nouveau nudes, Tidioute "Damascus Steel") — $40–80 vs $12–30 — moulded figures in the scales, translucent amber or cream; real ivory needs Schreger lines and is a pass on eBay (entry field note)
 
 ## Materials, finishes and quality tells
 - Etched blade lettering intact (gold-washed etching on NOS), bright polish, original box with paper "ready for shaving" inspection label = NOS / near-NOS.

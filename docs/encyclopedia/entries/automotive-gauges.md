@@ -50,6 +50,9 @@ Give part number, model fitment, mechanical/electronic, tested (show video spinn
 ## Buy rule
 This is a "tested" problem: Dylan avoids untested electronics; a mechanical tach can be spin-tested but the seller must show it. At $60 asking, needs sold median ≥ ~$150 to make $50: only CB750/rare-model or NOS boxed units qualify.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Nippon Seiki 12,000 rpm tach with redline ~9.5k is the 1971-73 Honda CB350 Super Sport / CB350 Four unit; Terapeak sold $60 for 1968-69 CB350/CL350 tach, so a $60 ask has no margin even bench-tested. Only CB750 K0 sandcast tachs reach $150+.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1, "shape": "round",

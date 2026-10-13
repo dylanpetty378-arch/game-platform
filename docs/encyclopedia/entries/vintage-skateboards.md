@@ -118,6 +118,7 @@ Merged rules from the earlier write-ups:
 - Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): 1980s BMX-style scooters: only GT Zoot Scoot / Mongoose names fetch $200-500; Huffy/Murray pastel ones $40-80 and ~20 lb, fail on shipping.
 - 2026-10-13 (triage): "Kryptonics" deck with a pink/neon rail and a big KRYPT ONICS top logo is often the 2010s mass-retail revival (Target/Walmart cruisers), not a 1980s original. Check for the modern bar code or sticker before treating it as collectible.
 
 ## Rubric

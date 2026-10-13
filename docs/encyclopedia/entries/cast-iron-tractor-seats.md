@@ -49,6 +49,10 @@ State cast vs pressed, maker and lettering, dimensions, weight, original paint, 
 ## Buy rule
 Pressed steel at $25–40 sold → negative after shipping. Buy cast lettered seat only if price ≤ $40 and expected sold ≥ $130. Avoid unconfirmed cast seats that might be reproductions.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Pressed-steel perforated seats with no cast maker name sell ~$25; the $100+ seats are cast iron with the maker cast in the openwork (Deering, McCormick, Champion, Buckeye).
+- 2026-10-13 (triage): Deering embossed implement seat sold median ~$75 (Terapeak McCormick/Deering query); ~12 lb, so kill above ~$20 ask.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 5, "shape": "irregular",

@@ -67,6 +67,9 @@ State concentration (extrait/parfum/EDT), size, fill level (photo against light)
 ## Buy rule
 Profit = sold median × 0.87 − ~$12 shipping to buyer − ~$12 shipping to Dylan − price ≥ max($50, price). In practice: sealed or ≥ 80% full boxed pre-1980 extrait of a wanted name at ≤ $35; Czech intaglio-stopper or DeVilbiss/Steuben atomizer at ≤ $60 with clear photos of an intact stopper; giant factice ≤ $75. Pass on ormolu vanity bottles above $25, empty commercial bottles, and anything requiring Lalique authentication unless signed "R. Lalique" with provenance and priced like ordinary glass. All fit the passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Lanvin Arpege extrait 1/2 oz sealed with box — Terapeak median $60; sellers asking $55 are at retail. Only the large (1-2 oz) black boule flacons or pre-1950 stoppered bottles clear $100.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "tall",

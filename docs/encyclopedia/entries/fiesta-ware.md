@@ -67,6 +67,9 @@ State vintage vs Post-86 explicitly with mark photo (or "unmarked as made"), exa
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$15–20) − ship to Dylan (~$15–20) − price ≥ max($50, price). Single common pieces never pass. Buy: vintage medium green, tripod candleholders, vases, comports, syrups, carafes, pairs of red/cobalt bulb candleholders, or mixed vintage serving lots at ≤ 1/3 of sold median. Pass Post-86 (unless retired rare colours you can confirm), chipped pieces, single plates/bowls, Ironstone, lookalike ringware.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): A 14.5-15" chop plate in original light green (minty, 1936-51) sells ~$40-70; the $300+ one is medium green (true kelly green, 1959-69). Tell: medium green is darker and bluer; light green reads pastel mint. Chop plates are often unmarked, so "unmarked" is not itself a red flag.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "round",

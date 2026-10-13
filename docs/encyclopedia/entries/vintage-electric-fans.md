@@ -108,6 +108,9 @@ Buy when: a working Vornado is ≤ $40, or a working brass-blade Emerson/GE is �
 Pass when: "doesn't work" (repair); steel 1950s+ fans over $15.
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): 1950s GE oscillating fans with tan/brass-painted steel blades are the $15-40 tier; the valuable GE is the pre-1935 brass-blade/brass-cage model. Seller titles often say "Emerson" for a GE badge.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 14, "shape": "round", "fragility": 3, "transit_damage_risk": 3, "hidden_defect_risk": 3, "testability": 2, "repro_risk": 2, "id_difficulty": 2, "rarity": 2, "sold_per_month": 1500, "sell_through": "?", "days_to_sell": 30, "price_p25_p50_p75": [40, 90, 160], "price_spread": 4, "condition_sensitivity": 4, "seasonality": "May–Aug peak", "best_platform": "eBay; Chairish/1stdibs for restored; local", "fees_pct": 13, "ship_cost_to_buyer": 30, "undervalue_frequency": 3, "bust_probability": 45, "expected_profit_typical": 0, "confidence": "low"}

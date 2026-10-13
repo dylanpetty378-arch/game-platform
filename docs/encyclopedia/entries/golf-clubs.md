@@ -1,5 +1,5 @@
 # Golf clubs (modern used, classic 1980s–2000s, persimmon, hickory; Scotty Cameron, Ping, Mizuno, Titleist, Hogan, TaylorMade, Callaway, MacGregor)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay putter/driver category browsing 2026-10, appraisily old golf club value guides, SI Vault 1980 collector article (hickory era), rolledbackgolf eBay store (vintage), sweep listings 2026-10 (Cleveland irons set $40, Ping Rapture driver $70, Odyssey Tri-Hot putter $65, Titleist 980F $40, TaylorMade Stealth 2 $200, Ben Hogan set w/ bag $50, George Nicoll hickory 6-iron $100, Ram Laser FX set $40).
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay putter/driver category browsing 2026-10, appraisily old golf club value guides, SI Vault 1980 collector article (hickory era), rolledbackgolf eBay store (vintage), sweep listings 2026-10 (Cleveland irons set $40, Ping Rapture driver $70, Odyssey Tri-Hot putter $65, Titleist 980F $40, TaylorMade Stealth 2 $200, Ben Hogan set w/ bag $50, George Nicoll hickory 6-iron $100, Ram Laser FX set $40). · tells 2026-10-13
 Slug: golf-clubs · Aliases: golf clubs, golf set, irons set, driver, woods, persimmon, hickory golf club, antique golf club, golf bag with clubs
 Summary: Starter sets, Ram/Northwestern/Wilson, 2000s drivers, common hickory $5–40; Ping Eye 2, Odyssey, older drivers, Hogan Apex, persimmon $50–200; Scotty Cameron, Mizuno MP, Titleist MB, Ping Anser Scottsdale, Eye 2 BeCu, current drivers $200–600; Tour/Circle T, Anser 1A, Eye-O-Matic, rare hickory $600–5,000+.
 Buy rule (short): Scotty Cameron < $100, Ping Anser Scottsdale/Phoenix < $60, Mizuno MP/Titleist MB set < $80, current-gen driver < $80; pass budget sets, 2000s drivers, common hickory singles.
@@ -24,6 +24,16 @@ Sets lean against a wall or sit in a bag; the model is stamped on the sole/cavit
 - **Hickory makers**: Nicoll, Spalding, MacGregor, Wilson, Burke (common); Tom Morris, Forgan, long-nose woods, rare cleek marks (top).
 - **Budget**: Ram, Northwestern, Wilson Ultra, Spalding, Dunlop, "Pro-line"/"Kit".
 - **Leather bags**: Jones, Vessel, MacKenzie.
+
+### Golden-egg tells
+- Ping Anser stamped "Redwood City, Cal." (1967–69) — $1,000–3,000+ vs $20–65 for a 1980s Anser 2 (~40×; $2,350 eBay Feb 2023) — read the address line on the sole/cavity (https://articles.appraisily.com/old-ping-putter-values)
+- Ping Anser "Scottsdale, AZ 85282" with ZIP — $150–500 ($425 GolfWRX Jan 2023) vs $50–120 "Scottsdale, Arizona" without ZIP — the five-digit ZIP after Scottsdale on the sole (https://articles.appraisily.com/old-ping-putter-values)
+- Ping BeCu (beryllium copper) Anser — $200–1,000+ ($750 Mar 2023) vs $20–65 steel — copper-brown head colour that darkens with oxidation, not plated silver (https://articles.appraisily.com/old-ping-putter-values)
+- Ping 1-A original (1959–66 first model) — $90–200 ($185 eBay Dec 2022) vs $20–65 — hollow heel-toe head with "1-A" stamping and Phoenix/Scottsdale address (https://articles.appraisily.com/old-ping-putter-values)
+- Ping Eye 2 BeCu irons set — $200–350 vs $80–200 steel Eye 2 (~2×) — copper-coloured cavity-back heads with the Eye 2 "P" logo (entry comp)
+- Scotty Cameron Circle T / Tour Only (Newport 2, TN2, GSS) — $1,500–5,000+ vs $200–600 retail Newport — a circled "T" stamp on the sole or bumper, "GSS" (German stainless) stamp, tour-only certificate; Terapeak median $110 for the query is dominated by headcovers, so demand a head photo (https://pluggedingolf.com/scotty-cameron-circle-t/ ; entry comp)
+- MacGregor Tommy Armour 693 Eye-O-Matic persimmon driver — $150–600 vs $30–150 other MacGregor persimmon, $5–15 Wilson/Spalding — red-and-white bullseye face insert, "693" and "Eye-O-Matic" on the sole plate (entry comp)
+- Hickory with a rare cleek mark or long-nose head (Tom Morris, Forgan, smooth-face "cleek") — $200–2,000+ vs $15–50 Nicoll/Spalding line-scored — smooth (unscored) face, a maker's pictorial cleek mark on the back, long thin wooden head with leather face insert (entry comp)
 
 ## Materials, finishes and quality tells
 Forged carbon-steel blades (Mizuno, Titleist MB, Hogan Apex) vs cast cavity-backs; BeCu (beryllium copper) Ping heads are copper-coloured; persimmon woods with inserts and whipping; hickory shafts with hand-forged heads and cleek marks. Grips and shafts matter: original vs regripped, steel vs graphite, stiffness (general knowledge, verify).

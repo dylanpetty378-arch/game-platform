@@ -70,6 +70,7 @@ Weight in grams, measurements (inner circumference, gap), stone description ("na
 Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). A $120-median bracelet allows ≤ ~$45. Buy heavy hallmarked pieces at ≤ 1/3 of comps; weigh-based silver floor (~$0.90–1.20/g sterling at current spot, verify). No master-artist pieces needing authentication.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): Carolyn Sandoval is a Navajo silversmith; large clip earrings in green-matrix turquoise with leaf/rope settings list $80-150 sold. At $100 ask there is no spread. An unsigned 1970s shadowbox oval ring sells ~$45.
 - 2026-10-13 (triage): a seller offering ring settings as "silver-finished" means plated base metal, not sterling — kill from the body text
 
 ## Rubric

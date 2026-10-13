@@ -52,6 +52,9 @@ State maker (plate and lens marks), position (port/starboard/masthead/anchor), o
 ## Buy rule
 Profit = median × 0.87 − ship to buyer (~$25) − ship to Dylan (~$25) − price ≥ max($50, price). A $200 genuine lantern works up to ~$60 price; a $120 pair only at ≤ ~$20 shipped, so prefer local pickup. Require photos of the maker plate and the lens. Pass on: repro tells, cracked/replaced lenses, crude electrification.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Chrome-plated red/green bow lights (Perko/Attwood type, plastic lenses) are $20-40; the brass body with glass Fresnel lens is the $80+ version.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 10, "shape": "tall",

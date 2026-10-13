@@ -88,6 +88,9 @@ Buy when: a signed Cost/Turpin/Lee/early Lynch is under $100, or any signed call
 Pass when: Quaker Boy/Primos; Ashby at $100 (seller aware, ~$150 resale).
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Scotch Game Call Co. (Oakfield NY) "bellows" duck call — black hard-rubber body with accordion rubber bellows and wood mouthpiece, 1950s-60s; sells $15-35, not a collectible carved call.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1, "shape": "irregular", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 3, "repro_risk": 3, "id_difficulty": 4, "rarity": 3, "sold_per_month": 1000, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [15, 35, 100], "price_spread": 6.7, "condition_sensitivity": 2, "seasonality": "Feb–Apr (turkey), Oct–Nov (duck)", "best_platform": "eBay; NWTF/CCA auctions for top makers", "fees_pct": 13, "ship_cost_to_buyer": 8, "undervalue_frequency": 3, "bust_probability": 40, "expected_profit_typical": 10, "confidence": "low"}

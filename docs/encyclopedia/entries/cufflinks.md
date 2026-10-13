@@ -1,5 +1,5 @@
 # Vintage cufflinks (Swank, Anson, Hickok, Shields, Krementz, Foster, Georg Jensen, Tiffany, Cartier, Dunhill)
-Updated: 2026-10-13 · deepened 2026-10-13 · Sources: general knowledge (verify); no comps in db/comps.jsonl; deepening sources: Rau Antiques collector's guide to antique cufflinks https://rauantiques.com/blogs/canvases-carats-and-curiosities/a-collector-s-guide-to-antique-cufflinks ; 1stDibs "Is Krementz jewelry real gold?" https://www.1stdibs.com/answers/is-krementz-jewelry-real-gold/ ; Era Gem "How to authenticate vintage Tiffany jewelry" https://eragem.com/news/authenticate-vintage-tiffany-jewelry/ ; Madge's Hatbox Swank listings (dated examples) https://madgeshatbox.com/
+Updated: 2026-10-13 · deepened 2026-10-13 · Sources: general knowledge (verify); no comps in db/comps.jsonl; deepening sources: Rau Antiques collector's guide to antique cufflinks https://rauantiques.com/blogs/canvases-carats-and-curiosities/a-collector-s-guide-to-antique-cufflinks ; 1stDibs "Is Krementz jewelry real gold?" https://www.1stdibs.com/answers/is-krementz-jewelry-real-gold/ ; Era Gem "How to authenticate vintage Tiffany jewelry" https://eragem.com/news/authenticate-vintage-tiffany-jewelry/ ; Madge's Hatbox Swank listings (dated examples) https://madgeshatbox.com/ · tells 2026-10-13
 Slug: cufflinks · Aliases: cuff links, tie clip set, Swank set, men's jewelry, cufflink lot, tie bar and cufflinks
 Summary: base-metal Swank/Anson/Hickok pairs $8–25; gold-filled Krementz/Anson/Foster, novelty and boxed sets $20–60; sterling designer (Georg Jensen, modernist) $60–300; 14k/18k gold or Tiffany/Cartier/Dunhill $150–2,000+ (melt or brand)
 Buy rule (short): Buy only 14k/18k (stamped), sterling designer, or large mixed lots at ≤ $2/pair; single Swank/Anson base-metal pairs are pass.
@@ -29,6 +29,16 @@ Paired shirt-cuff fasteners: face plus back mechanism (bullet/whale-back toggle,
 - Stone or enamel faces: chips, cracks, missing stones, cloudy glue.
 - Plating wear: brass showing through on edges (brassing) means plated base metal.
 - Box and tie bar/clip present? Note the box maker name.
+
+### Golden-egg tells
+- Georg Jensen sterling (Harald Nielsen #61B, Jensen leaf/berry designs) — $250–600 pair vs $12 Swank median (~25×) — "GEORG JENSEN" in a dotted oval, "925 S", "DENMARK" and a design number on the back; matching #61 tie bar and box add (https://www.1stdibs.com/jewelry/cufflinks/cufflinks/georg-jensen-harald-nielsen-cuff-links-tie-bar-original-box/id-v_4764951)
+- Any pair stamped "14K"/"585" or "18K"/"750" — ~6× ($72 median vs $12) with a melt floor — tiny stamp on the toggle post or face back, same colour inside scratches (entry comp)
+- Tiffany & Co. "Please Return to Tiffany" oval sterling — ~12× ($150 median vs $12) — "T & Co." / "Tiffany & Co." with an ampersand, crisp centred stamp with bevelled edges, "925"; the most faked pair, so photo the stamp close (entry comp; https://eragem.com/news/authenticate-vintage-tiffany-jewelry/)
+- Krementz solid gold (signed "KREMENTZ" plus "14K") — $200+ vs $25–80 Krementz overlay — the "14K" must stand alone; "14K Overlay" or "RGP" is the ordinary version (https://www.1stdibs.com/answers/is-krementz-jewelry-real-gold/)
+- Baer & Wilde "Kum-A-Part" 1920s snap links with Art Deco enamel or guilloché faces — $30–80 vs $8–25 base metal — two-part snap halves, "KUM-A-PART" / "PAT." on the back, enamel geometric faces (https://collections.vam.ac.uk/item/O316566/)
+- Swank figural car/sport sets (Jaguar XK120, Corvette, golf, guns) with matching tie bar — p75 $18.74 vs $12 median, boxed sets $30–60 — a recognisable vehicle or sport object as the face, "SWANK" on the toggle (entry comp)
+- Mexican Taxco sterling modernist (eagle assay mark + "TAXCO 925" + maker initials) — $60–150 vs $12 — eagle-number stamp on the back, heavy hand-finished silver (https://rauantiques.com/blogs/canvases-carats-and-curiosities/a-collector-s-guide-to-antique-cufflinks)
+- Cartier/Dunhill with engraved serial numbers and 18K — $500–2,000+ vs $12 — serial number and "750" engraved on the bar; needs authentication, so Dylan passes unless cheap enough to gamble (https://rauantiques.com/blogs/canvases-carats-and-curiosities/a-collector-s-guide-to-antique-cufflinks)
 
 ## Materials, finishes and quality tells
 Stamp check: "14K", "18K", "STERLING", "925", "1/20 12K GF". Silver-tone with toggles stamped only "SWANK" = base metal (rhodium/nickel plated brass). Heft and stone quality (onyx, lapis, MOP) help.

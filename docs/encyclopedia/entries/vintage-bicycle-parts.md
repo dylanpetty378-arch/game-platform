@@ -90,6 +90,7 @@ There's an active community on TheCABE, Ratrod Bikes and Facebook groups, and eB
 Profit = sold median × 0.87 − shipping to buyer − shipping to Dylan − price, and it must be ≥ max($50, price). Buy only when a Schwinn stamp, a saddle maker's mark, a Bendix band or Campagnolo script is visible (or the seller confirms it with a photo), the part is small (no fender sets or frames unless resale is over $150), and the price is ≤ 25% of the estimated sold value. Pass on generic bars, saddles, speedometers and lights, anything rusted or "needs restoration", and single parts priced off whole-bike Lens matches. No authentication service is needed, but ask for a stamp photo.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): Shimano BR-7700 Dura-Ace dual-pivot calipers (1997-2003) are the common modern Dura-Ace brake; a used pair sells ~$80-110, so a $60 ask leaves no margin. The valuable Dura-Ace brakes are the 1973-78 first-gen (black-anodized, "Dura-Ace" script, center-pull/side-pull with crown logo) and the 1984-88 7400 aero sets with hoods — ask for the model code stamped on the arm.
 - 2026-10-13 (triage): Campagnolo Nuovo/Super Record cranks have fluted arms with the Campagnolo shield engraved on the left arm and "BREV. CAMPAGNOLO" on the chainrings; a year dot-code is stamped on the back of the arms. Campagnolo made no 1970s Strada triple — a "Campy triple" from that era is a double with a bolt-on triplizer spider (TA/Stronglight-type) for the inner ring, so price it as a NR double ($150-250), not as a rare factory triple.
 
 ## Rubric

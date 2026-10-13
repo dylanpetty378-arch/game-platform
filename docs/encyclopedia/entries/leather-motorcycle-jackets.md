@@ -75,6 +75,9 @@ Profit = median × 0.87 − ~$15 to buyer − ~$12 to Dylan − price; pass unle
 - Schott 618 vintage (median ~$300) at ≤ $90: 261 − 27 − 90 = $144 (Tier A).
 - High-end Buco/Langlitz claims need expert authentication: treat as "ask seller for label photos", never buy on description alone.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): "Beau Breed — For The Look of Tomorrow — Made in USA" is a 1970s US cafe-racer label (not Brooks/Buco/Schott); oxblood women's cafe racer with zip-out liner est $80-120, no sold comp; fails the profit rule at $45 once two-way shipping is counted.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 5, "shape": "flat",

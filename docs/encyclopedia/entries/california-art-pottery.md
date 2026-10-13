@@ -1,5 +1,5 @@
 # California art pottery (Metlox Romanelli, Bauer, Catalina, Brayton Laguna, Hedi Schoop, Kay Finch)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings (Metlox Romanelli nude "water bearer" vase 9" – $99 ask, Des. Patent 125,594), collector references for Bauer ringware and Catalina Island, eBay sold
+Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: eBay listings (Metlox Romanelli nude "water bearer" vase 9" – $99 ask, Des. Patent 125,594), collector references for Bauer ringware and Catalina Island, eBay sold
 Slug: california-art-pottery · Aliases: vintage California pottery, Metlox vase, nude lady vase, Bauer bowl, Bauer ringware, Catalina Island pottery, Brayton Laguna, Kay Finch, Hedi Schoop, Vernon Kilns, Franciscan
 Summary: Metlox/Franciscan dinnerware and plain Vernon $5–25; small Romanelli figurals, Kay Finch small animals, Bauer ringware plates/bowls $60–150; Romanelli Zodiac/large nudes, Bauer oil jars, Catalina Island vases, Brayton Disney $200–600; rare Bauer/Catalina/Romanelli forms $700–3,000.
 Buy rule (short): Marked Romanelli/Catalina Island/Bauer large forms ≤ 35% of sold; unmarked "nude lady vase" ≤ $40 (check base); pass named-and-priced ≥ 60% of sold.
@@ -14,6 +14,15 @@ Buy rule (short): Marked Romanelli/Catalina Island/Bauer large forms ≤ 35% of 
 - **Brayton Laguna** – figurines; Disney licence 1938–40.
 - **Hedi Schoop, Kay Finch, Sascha Brastoff** – signed decorative wares; Kay Finch large animals top.
 - **Franciscan (Gladding McBean), Vernon Kilns, Pacific Pottery, Roselane, Maurice of California** – mostly dinnerware/decor; Vernon Kilns Rockwell Kent/Disney plates higher.
+
+### Golden-egg tells
+- Brayton Laguna Disney "Geppetto, Pinocchio and Figaro" group 1940 — $2,000 dealer vs $60–150 ordinary Brayton figurine (~15×) — 9 in three-figure group, base stamped "Geppetto Pottery from Walt Disney's Pinocchio"; single Figaro cats are the common Brayton Disney piece (https://www.vegalleries.com/art/disneyana/4307/collectibles/1940-pinocchio-geppetto-and-figaro-ceramic-figurine-id-brayton00003pg)
+- Bauer #100 oil jar 20–22 in in cobalt blue — $720 dealer asking even with repaired cracks vs $600–1,500 orange/jade #100 sold (~1–1.5×; cobalt and black are the scarce colours) — 22 in ovoid jar, saturated cobalt glaze, unglazed foot showing buff clay (https://www.chairish.com/product/27934304/early-20th-century-cobalt-blue-bauer-oil-jar)
+- Bauer unglazed redware 5-gal oil jar with painted flags/eagle decoration, stamped "J.A. BAUER POTTERY CO. LOS ANGELES CAL." — $560 at Crocker Farm 2019 even with a long rim crack vs $80–150 ringware bowl (~5×) — 15½ in ovoid, matte red clay, Greek-key and sawtooth shoulder band, painted figures; stamp on the side not the base (https://crockerfarm.com/stoneware-auction/2019-10-26/lot-115/Very-Unusual-5-Gal-J-A-BAUER-POTTERY-CO-LOS-ANGELES-CA-Redware-Oil-Jar)
+- Metlox Romanelli Zodiac vases and 12 in+ nudes (e.g. "Dancer" 1941) — $200–600 (rare forms $700+) vs $80–200 Romanelli 9–10 in bud vase (~3×) — zodiac sign moulded in relief on the body, or a full-figure nude 12 in or taller; "Des. Patent 125,xxx" and "Romanelli" moulded on the base (entry comp)
+- Catalina Island (1927–37) vs Catalina Pottery/GMB — $200–600 island pieces vs $30–80 GMB-era (~5×) — red-brown island clay showing at the foot and through glaze wear, "Catalina Island" impressed mark; white clay or "Catalina Pottery" ink stamp = GMB (entry comp)
+- Kay Finch large animals (poodles, cats, pigs 10 in+) — p75 $60–99 vs $30 median small figurine (~2–3×; 12 in+ pieces reach $300+) — hand-painted pastel lashes and curls, "Kay Finch California" incised signature, size over 10 in (entry comp)
+- Vernon Kilns Rockwell Kent "Salamina"/"Our America"/"Moby Dick" and Disney Fantasia pieces — well above $5–25 plain Vernon — Rockwell Kent signature printed on the back; Fantasia figurines marked "Vernon Kilns Made in USA ©Walt Disney" with a number (entry; no comp fetched this run)
 
 ## Materials, finishes and quality tells
 Marks on base (incised, ink stamp, or moulded); Bauer ringware has thick walls and concentric rings; Catalina Island has red/brown island clay visible at the foot; Romanelli pieces have crisp moulding and the design-patent number. Glazes: solid California colours (orange-red, jade, cobalt, Descanso green). Sharp mould detail and even glaze = early production; soft detail = later or lookalike (general knowledge, verify).

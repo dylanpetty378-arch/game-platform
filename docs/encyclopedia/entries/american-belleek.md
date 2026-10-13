@@ -1,5 +1,5 @@
 # American Belleek porcelain (Ott & Brewer, Willets, CAC/Lenox, Ceramic Art Co.)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: kovels.com Ott & Brewer article (marks/history), 1stdibs American Belleek listings, PBS Antiques Roadshow Ott & Brewer appraisals, sweep photo of CAC-marked loving cup (dealer-tagged, Atlanta), general auction knowledge (LiveAuctioneers/Worthpoint ranges).
+Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: kovels.com Ott & Brewer article (marks/history), 1stdibs American Belleek listings, PBS Antiques Roadshow Ott & Brewer appraisals, sweep photo of CAC-marked loving cup (dealer-tagged, Atlanta), general auction knowledge (LiveAuctioneers/Worthpoint ranges).
 Slug: american-belleek · Aliases: Belleek, CAC Belleek, Ceramic Art Company, Willets Belleek, Ott & Brewer, Trenton Belleek, early Lenox, hand painted tankard, loving cup
 Summary: Lenox wreath/Irish Belleek/amateur small pieces $15–60; amateur-decorated Willets/CAC $60–200; factory-decorated CAC/Willets and artist-signed $200–600; Ott & Brewer and large signed vases $600–3,000+.
 Buy rule (short): Palette, snake or crescent mark visible: decorated ≤ $60, O&B or artist-signed ≤ $150; pass Lenox wreath, Irish Belleek, damage.
@@ -21,6 +21,15 @@ Not to be confused with **Irish Belleek** (Fermanagh; harp/hound/tower mark; dif
 - **Knowles Taylor & Knowles Lotus Ware** – top tier.
 - **Columbian Art Pottery, Cook Pottery, Morgan Belleek, Perlee** – smaller makers.
 - Known artists: W. H. Morley, Nosek, Marsh – signatures raise value.
+
+### Golden-egg tells
+- Ott & Brewer crescent mark ("O&B" and "BELLEEK" in a crescent, Trenton, c.1883–92) on a factory-decorated vase — $9,000–12,000 auction appraisal (Roadshow, 2020 update; $15–20,000 in 2007) vs $15–60 for a Lenox wreath piece (~150–200×); ordinary O&B pieces on eBay still median $125 — the crescent in the base photo, raised-paste gold, thin ivory body (https://dipsy.pbs.org/wgbh/roadshow/appraisals/ott-brewer-american-belleek-vase-ca-1880)
+- O&B lotus jug c.1890 — low-to-mid thousands (Roadshow) vs $125 O&B median (~10–30×) — lotus-leaf body with a curled-stem handle, crescent mark (entry comp)
+- O&B hand-painted tea set with a different scene or flower on every cup and saucer and unusual cup handles — Kovels has not seen one of this quality offered in five years; well above the $600–3,000 top band — cups each painted differently, crescent mark on every piece (https://kovels.com/?p=3695957)
+- CAC palette mark in red or lavender (factory-decorated) on a three-handled loving cup or tankard with portraits or grapes — $250–500 vs $60–200 for a green-palette blank painted at home (~2–4×) — the colour of the palette mark in the base photo, even raised-paste gold, a factory artist's signature on the side (entry comp)
+- Willets snake-"W" mark, factory-decorated vase — Terapeak median $170, p75 $275 vs $15–60 Lenox wreath (~3–5×) — coiled snake forming a W over "BELLEEK", professional even painting rather than a dated amateur signature (entry comp)
+- Artist-signed pieces (W. H. Morley, Nosek, Marsh) on CAC/Willets — $200–600 vs $60–200 unsigned (~2–3×) — the signature painted on the side of the piece near the decoration, not scratched into the base (entry comp)
+- Knowles Taylor & Knowles "Lotus Ware" — $600–3,000+ vs $15–60 (~20–50×) — KTK crescent/star mark, lacy applied openwork and raised jewelled decoration on an eggshell body (entry comp)
 
 ## Materials, finishes and quality tells
 Very thin, translucent ivory body (hold to light). Factory decoration: skilled, even painting, consistent raised-paste gold, artist signature on the side. Amateur decoration (on green-mark blanks): uneven, heavier, sometimes signed and dated by a home painter (general knowledge, verify). Silver overlay on CAC is a quality tell. Gold wear on rims and handles is the normal age tell.

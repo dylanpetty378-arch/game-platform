@@ -55,6 +55,9 @@ Base marks, height, close-ups of lashes/jewellery/hair, note any paint loss.
 ## Buy rule
 Profit = sold median × 0.87 − ~$12 ship to buyer − ~$12 ship to Dylan − price ≥ max($50, price). Needs resale ≥ ~$95 — only large lady head vases with lashes and jewellery at ≤ $25. Pass on hobby ceramics and kitchen grannies.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Head vases dated 1961 with rose in hair and hand at cheek (Inarco/Rubens tier, 6") median $37-40; worn lashes cut further. The $150+ ones are 7"+ Inarco E-1062/E-1068 with eyelashes intact and the jeweled necklace, and Betty Lou Nichols.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "tall",

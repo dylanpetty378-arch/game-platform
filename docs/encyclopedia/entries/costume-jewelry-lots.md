@@ -89,6 +89,9 @@ Buy rule (short): Pay for marks, metal content and sets, not for the word "vinta
 - Lots: buy only when the photo shows identifiable signed or metal-stamped pieces, or the seller confirms stamps; target price ≤ 30% of the sum of identifiable comps.
 - Real precious jewelry claims (diamond, fine gold with stones, designer fine jewelry) need professional testing – pass unless it's a plain stamped-metal lot.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): A "case of mom's vintage jewelry" with cloisonne and faux pearls and no visible signatures resells at the lot median ~$33 regardless of case size.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.5, "shape": "set-of-many",

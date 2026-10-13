@@ -26,6 +26,14 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (17:00–17:40) — unlensed pool drained; tells in 128 entries
+- Last 851 never-Lensed rows: 4 agents, 851 kills, 0 asks. Three pools in a row now show the same shape: the
+  never-Lensed queue is ~75% furniture/decor by title and the rest dies on weight or retail pricing. So the harvest
+  ranking is letting too much furniture through — `is_bulky` should learn from these kills (next improvement).
+- Golden-egg tells now in 128 entries. This batch's standouts: Ping Anser "Redwood City, Cal."; B.F. Meek & Sons
+  head plate; Griswold #13 slant-logo; Russell & Erwin Standing Elk knob; Buddy L 27" trucks; Handel 6xxx shade
+  signature; Dunhill Rollagas struck 750; WWII black-crackle Zippo tells; Enid Collins pre-1972 "ec".
+
 ### 2026-10-13 (16:00–17:00) — unlensed triage, 4 new entries, tells to 80 entries
 - Unlensed pool (never read by Lens): 900 rows, 4 agents → 895 kills, 4 asks, 1 buy. The buy: a Fender silverface
   Champ (AA764 spec, c.1975–81) listed as "Vintage fender amplifier" at $50 in Delaware; seller says it works; sells

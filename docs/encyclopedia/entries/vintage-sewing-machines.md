@@ -53,6 +53,10 @@ Serial number and decade, stitch sample photo, note rewiring, accessories includ
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). Full-size machines fail on shipping alone. Featherweight 221 at ≤ $150 with seller video sewing: resale ~$400 × 0.87 = $348 − $35 − $35 − $150 = $128 → buy. No untested electronics: require proof it sews.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Singer 328K Style-O-Matic (tan, Kilbowie UK, 1960s) sells $60-120 and weighs ~30 lb: fails on shipping at any price. The Singers worth shipping are 221/222 Featherweight (11 lb) and 500/503 Rocketeer.
+- 2026-10-13 (triage): Vogue Stitch 133 Zig Zag Super De Luxe is a 1960s Japanese badged machine, $30-60, 30 lb.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 25, "shape": "irregular",

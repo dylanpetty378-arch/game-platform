@@ -82,6 +82,9 @@ Profit = sold median × 0.87 − ~$15 to buyer − ~$15 to Dylan − price; pass
 - Repaired or unmarked = pass unless ≤ $15.
 - Fits passenger seat: always.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): 12 in seated bisque piano-baby PAIR (girl in wide blue bonnet pointing, boy in feathered hat holding fruit), pastel matte paint, soft modeling = late-20th-c Asian import, $20-35 pair; real Heubach needs incised sunburst/square mark and crisp hands/toes — confirmed again Oct 13.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "irregular",

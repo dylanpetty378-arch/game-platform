@@ -1,5 +1,5 @@
 # Schwinn bicycle parts (Schwinn Sting-Ray/Krate, Phantom/Black Phantom, middleweight; Mesinger, Persons, Troxel saddles; Bendix hubs)
-Updated: 2026-10-13 · deepened 2026-10-13 · Sources: /home/claude/game-platform/db/comps.jsonl Terapeak 365d "Schwinn vintage leather bicycle saddle" (median $36.95, n=50, p25 $28, p75 $49.99); related entry /tmp/res/enc/vintage-bicycle-parts.md (TheCABE threads, BikeHistory.org catalogs https://bikehistory.org/catalogs/1964.html); batch file /tmp/res/batches2/c01.md; general knowledge (no web search in the first run) — verify on eBay sold and TheCABE (thecabe.com); BikeHistory.org "The Schwinn Krates" https://bikehistory.org/bikes/krates/ (models by year 1968–73, 1968–73 catalog specs, 2020 revival); Appraisily "Schwinn Sting-Ray Value Guide" https://appraisily.com/articles/schwinn-sting-ray-value-model-year-original-parts-and-condition/ (originality checks, auction results); RatRodBikes "How do you put a production date on a Schwinn?" https://ratrodbikes.com/threads/how-do-you-put-a-production-date-on-a-schwinn.11491 (serial locations, stamped stem/crank years).
+Updated: 2026-10-13 · deepened 2026-10-13 · Sources: /home/claude/game-platform/db/comps.jsonl Terapeak 365d "Schwinn vintage leather bicycle saddle" (median $36.95, n=50, p25 $28, p75 $49.99); related entry /tmp/res/enc/vintage-bicycle-parts.md (TheCABE threads, BikeHistory.org catalogs https://bikehistory.org/catalogs/1964.html); batch file /tmp/res/batches2/c01.md; general knowledge (no web search in the first run) — verify on eBay sold and TheCABE (thecabe.com); BikeHistory.org "The Schwinn Krates" https://bikehistory.org/bikes/krates/ (models by year 1968–73, 1968–73 catalog specs, 2020 revival); Appraisily "Schwinn Sting-Ray Value Guide" https://appraisily.com/articles/schwinn-sting-ray-value-model-year-original-parts-and-condition/ (originality checks, auction results); RatRodBikes "How do you put a production date on a Schwinn?" https://ratrodbikes.com/threads/how-do-you-put-a-production-date-on-a-schwinn.11491 (serial locations, stamped stem/crank years). · tells 2026-10-13
 Slug: schwinn-bicycle-parts · Aliases: Schwinn chain guard, chainguard, Schwinn seat, springer saddle, banana seat, Solo Polo, Sting-Ray seat, Krate parts, Phantom tank, Black Phantom, Schwinn fenders, Mesinger seat, Persons seat, Schwinn handlebars, ape hangers, sissy bar, Stik shifter, Schwinn rack, Schwinn springer fork, Orange Krate, Apple Krate, Lemon Peeler, Pea Picker, Cotton Picker, Slik tire, Bendix kickback, muscle bike parts
 Summary: generic/reproduction Schwinn-style parts and worn middleweight bits $10–40 (Schwinn leather saddles median $37, Terapeak); original Sting-Ray/middleweight chainguards, Mesinger/Persons saddles, bars, racks $40–150; Krate parts (Solo Polo, springers, Stik shifter, chrome fenders), Phantom/Black Phantom tanks, chainguards and springer forks $100–500+ (general knowledge, verify)
 Buy rule (short): Buy original Schwinn-stamped Krate/Sting-Ray/Phantom parts and studded Mesinger/Persons saddles in original condition at ≤ 25% of sold; pass on generic or reproduction parts, rusted chrome and anything too big (fenders sets okay, forks okay, frames no).
@@ -34,6 +34,16 @@ Value nuances: Krate parts over plain Sting-Ray; 5-speed Stik-Shift pieces (shif
 - Chrome: deep and even with age-consistent wear vs bright thin repro chrome; fresh chrome next to oxidised hardware = replaced parts (Appraisily).
 - "Made in Taiwan/China", no stamps, lighter gauge steel = reproduction.
 - Paint: overspray at joints or over serial stamps and decals under fresh clearcoat suggest a repaint (Appraisily).
+
+### Golden-egg tells
+- Original 1968–73 Krate springer fork arms with the Atom drum-brake peg hardware — $425 asking vs $75 for a generic Schwinn springer assembly (~5×) — brake-stop peg on the fork arm, Schwinn "S"-head bolts, deep aged chrome (https://neloscycles.com/Vintage-Bicycle-Parts-Krate-Springer/)
+- 1972–73 rear disc-brake Krate parts (caliper, disc hub) — a disc-brake Apple Krate made $1,000 vs $250–325 ordinary Sting-Rays — rear disc rotor and caliper on the 20 in wheel, 1972–73 serial (https://appraisily.com/articles/schwinn-krate-bike-value-color-year-parts-and-restoration-clues/)
+- 5-speed Stik-Shift with numbered knob — $150–300 vs $40–120 standard Sting-Ray parts — Schwinn script on the shifter housing, T-handle knob numbered 1–5, intact cable (entry comp)
+- 16 × 1¾ in front wheel with the cast aluminium Krate drum brake — Krate-only, $200–500 — small front rim and a large finned alloy hub marked Atom/Schwinn Approved (entry comp)
+- Cotton Picker (white, 1970–71) and Pea Picker (green, 1969–73) colour-matched parts (chainguard, fenders, seat) — ~1.5–2× the same Orange/Apple Krate part (short runs) — the "Cotton Picker"/"Pea Picker" chainguard decal and factory white/pea-green paint with age-consistent wear (https://bikehistory.org/bikes/krates/)
+- Black Phantom tank with working horn and chrome fenders (1949–59) — $250–800 vs $10–40 middleweight bits — balloon-tire 26 × 2.125 era, horn button on the tank, gold "Phantom" script chainguard (entry comp)
+- Mesinger or Persons "Schwinn Approved" studded saddle with original cover — $40–120 vs $37 plain leather saddle median — maker stamp under the pan, nickel studs around the skirt, heat-sealed vinyl seams (entry comp)
+- Year-stamped originality marks that prove the part: "7893-68" on bars, two-digit year on stem/crank, "S7"/"S2" on rims, seat tag "D-2xxxxx" — a dated original sells over an undated repro of the same part — read the stamp in the photo (https://neloscycles.com/Vintage-Bicycle-Parts-Krate-Springer/ ; https://ratrodbikes.com/threads/how-do-you-put-a-production-date-on-a-schwinn.11491)
 
 ## Materials, finishes and quality tells
 Original chrome is deep and bright; re-chromed or repro chrome is thinner. Original paint colors (Coppertone, Flamboyant Red, Radiant Blue, Sky Blue, Violet). Original decals vs reproductions (repro decals bright vinyl). Original seats: stamped pans, original stitching; repro seats lighter and have Taiwan/China marks.
@@ -78,6 +88,9 @@ Name the part and the model/years it fits (e.g. "fits 1968–73 Schwinn Krate"),
 
 ## Buy rule
 Profit = sold × 0.87 − ship to buyer ($12–25) − ship to Dylan ($12–25) − price ≥ max($50, price). Common saddles (median $37) never work. Buy Krate/Sting-Ray/Phantom originals at ≤ 25% of sold; e.g. Sting-Ray chainguard ~$150 → ≤ $40.
+
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Red/white vinyl "S" saddle is the common 1960s Schwinn middleweight seat (~$37 sold median), not the Krate/Sting-Ray or studded Mesinger springer.
 
 ## Rubric
 ```json
