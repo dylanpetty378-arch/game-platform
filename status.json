@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T16:04:35Z",
+ "updated": "2026-10-13T16:07:57Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5937,
-  "events": 19348,
+  "lens": 5962,
+  "events": 19373,
   "comps": 1350,
   "item_types": 795,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 5930,
-  "lensed": 110,
-  "queued": 606,
+  "lensed": 121,
+  "queued": 581,
   "comps/pass": 1,
-  "queued/relens": 202,
+  "queued/relens": 209,
   "decided/ask": 54,
   "decided/kill": 6,
   "decided/pass": 1,
-  "flagged": 77,
+  "flagged": 84,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 8
@@ -488,6 +488,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963120089",
+   "title": "Antique Easel",
+   "price": 75,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/oxnard-antique-easel/rfVCeJWK8JGARgmBQV6qmK",
+   "best": "Amazon.com: Designstyles Decorative Metal Easel Stand ...",
+   "med": 1000,
+   "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7953914312",
    "title": "Beautiful Vintage Lamp",
    "price": 10,
@@ -519,6 +530,17 @@
    "med": 545,
    "ratio": 10.9,
    "ai_value": "sell online ranging from roughly $25 to $95"
+  },
+  {
+   "pid": "7981547652",
+   "title": "Vintage Midcentury Cherub Statue",
+   "price": 30,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/nashville-vintage-midcentury-cherub/4YLz9E7Ym7GupNR8V5BXrZ",
+   "best": "Craigslist",
+   "med": 275,
+   "ratio": 9.17,
+   "ai_value": ""
   },
   {
    "pid": "7982703225",
@@ -631,6 +653,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973838234",
+   "title": "Vintage Ice Cream Churn",
+   "price": 65,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-ice-cream-churn/22eRBRu4isfoEf6rUALDCu",
+   "best": "White Mountain Hand Crank Ice Cream Maker - Etsy",
+   "med": 430,
+   "ratio": 6.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7931828187",
    "title": "Necklace and Earring Sets",
    "price": 10,
@@ -661,6 +694,17 @@
    "best": "Antique Copper Cauldron Butter Kettle Pot Handcrafted With ...",
    "med": 149,
    "ratio": 4.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939173438",
+   "title": "Vintage STERLING EARRINGS",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-sterling-earrings/3hZJwBf8x2WQRHt1wyjjvK",
+   "best": "scelzajewelrydesigns.com",
+   "med": 99,
+   "ratio": 4.95,
    "ai_value": ""
   },
   {
@@ -730,6 +774,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943464198",
+   "title": "15 vintage necklaces",
+   "price": 35,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-15-vintage-necklaces/c6nv8CKQj6emtFZM4xdw3e",
+   "best": "Vintage Modern Statement Earth Tones Brown Red Orange Beige ...",
+   "med": 135,
+   "ratio": 3.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7978182882",
    "title": "Antique Silver Plated Flatware (70 Pieces)",
    "price": 100,
@@ -760,6 +815,17 @@
    "best": "Italy 925 Sterling Silver Twisted Snake Chain Necklace #B181 ...",
    "med": 107,
    "ratio": 3.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979499702",
+   "title": "Antique Copper Ladle/Bowl",
+   "price": 60,
+   "area": "iowacity",
+   "url": "https://www.craigslist.org/view/d/mount-horeb-antique-copper-ladle-bowl/2nKEVFwyfsozMEgR2QNbvQ",
+   "best": "Antique Copper Pan, French Saucepan With Wrought Iron Handle ...",
+   "med": 199,
+   "ratio": 3.32,
    "ai_value": ""
   },
   {
@@ -892,6 +958,17 @@
    "best": "Vintage 24KT Gold Plated Snakeskin Bangle Bracelet Hinged ...",
    "med": 95,
    "ratio": 2.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979849937",
+   "title": "Fishing stuff",
+   "price": 57,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/fort-worth-fishing-stuff/cCHYan1UninNVrJmYNeq5i",
+   "best": "Product Name: Fish-N-Lite UV/Green LED Floating Fishing Light (Model FLL712UV)",
+   "med": 150,
+   "ratio": 2.63,
    "ai_value": ""
   },
   {
