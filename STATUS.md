@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T12:23:05Z
+# Refurbish status — 2026-10-13T12:24:17Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1728 |
-| lensed | 408 |
+| queued | 1703 |
+| lensed | 423 |
+| flagged | 353 |
 | queued/relens | 345 |
-| flagged | 343 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 4512
-- events: 14447
+- lens: 4537
+- events: 14472
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (343)
+## Flagged by Lens, waiting for photo review (353)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -98,6 +98,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00k0k_4ljwMFOVoV9_0ne0hq_300x300.jpg" width="120"> | 7952251586 | $60 | phoenix | [vintage camera case](https://www.craigslist.org/view/d/scottsdale-vintage-camera-case/psaRdiz3Abv9QAdhTktkxW) | Craigslist | 6944 | 115.73 |
 | <img src="https://images.craigslist.org/00k0k_fHdrwHCqvpv_0t20CI_300x300.jpg" width="120"> | 7981964397 | $25 | slo | [Antique weed whacker](https://www.craigslist.org/view/d/santa-barbara-antique-weed-whacker/4nATqiYT8TKmZiDcrDN2Yi) | Collector Value: These vintage primitive farm tools typicall | 2065 | 82.6 |
 | <img src="https://images.craigslist.org/00j0j_8VCpyi9RYrRz_0dW0iA_300x300.jpg" width="120"> | 7982074329 | $25 | nmi | ["Vintage" metal bird cage](https://www.craigslist.org/view/d/lansing-vintage-metal-bird-cage/1BEG7KV2PA6RCTBaihK43m) | Newel - Antique Gallery | 1753 | 70.12 |
+| <img src="https://images.craigslist.org/01212_2x8bJrQx0kQ_0t90CI_300x300.jpg" width="120"> | 7949505698 | $25 | portland | [Vintage metal enamel brooch](https://www.craigslist.org/view/d/gig-harbor-vintage-metal-enamel-brooch/9ooVEuvvekU85JbUuRNEDz) | Craigslist | 1500 | 60 |
 | <img src="https://images.craigslist.org/00202_1QVDSvKda0l_0CI0t2_300x300.jpg" width="120"> | 7955167430 | $20 | scottsbluff | [Virtual Garage Sale-Leaf Decorations](https://www.craigslist.org/view/d/timnath-virtual-garage-sale-leaf/uTbXshNwczJ9aS4z2vnrZz) | Lowe's | 1200 | 60 |
 | <img src="https://images.craigslist.org/00x0x_g3KXGZIUGnE_0CI0t2_300x300.jpg" width="120"> | 7955430022 | $70 | plattsburgh | [Vintage Crouse Hinds spotlights](https://www.craigslist.org/view/d/beaver-falls-vintage-crouse-hinds/mYkVCYa3qgWyui6QiCPgxL) | Crouse Hinds Industrial Mid-century Modern Maritime Flood .. | 3600 | 51.43 |
 | <img src="https://images.craigslist.org/00808_3XegAVq1LeQ_0lN0CI_300x300.jpg" width="120"> | 7954432145 | $100 | flagstaff | [antique full bed set](https://www.craigslist.org/view/d/phoenix-antique-full-bed-set/mv7kMeqQW3NbALX3L2npeh) | Berkey & Gay COMPLETE Bedroom Set Full/Double, Chest ... | 4500 | 45 |
@@ -212,4 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00l0l_k2SmDcnEV2L_0t20CI_300x300.jpg" width="120"> | 7937140063 | $10 | sierravista | [Vintage Moonshine Jug](https://www.craigslist.org/view/d/tucson-vintage-moonshine-jug/wXdCBKbhRvv3tRLggXmniz) | Vintage Stoneware "moonshine" Jug, Crock, With Brown Top | 65 | 6.5 |
 | <img src="https://images.craigslist.org/00000_6FoFZcnCTSD_0t20CI_300x300.jpg" width="120"> | 7931637287 | $20 | austin | [Vintage 8”  Monkey Sculpture](https://www.craigslist.org/view/d/san-antonio-vintage-monkey-sculpture/kasxvVva4FKNDWTmMHv5Ag) | Monkey Statue Figurine Brass Large 10.25" sitting thinker .. | 128 | 6.4 |
 | <img src="https://images.craigslist.org/00505_k7zynBQ8Gwg_1320MM_300x300.jpg" width="120"> | 7955381875 | $20 | wv | [Vintage Cane, 36" -$20](https://www.craigslist.org/view/d/pittsburgh-vintage-cane/1AF9eFgSHyDAXCoxRjESuT) | Craigslist | 125 | 6.25 |
-| <img src="https://images.craigslist.org/00h0h_jXNbRWVcffF_1l610k_300x300.jpg" width="120"> | 7943996736 | $30 | odessa | [Vintage Wood Tea Box](https://www.craigslist.org/view/d/abilene-vintage-wood-tea-box/kBGXN54Aiwked2xFd2cgJ1) | RARE EARLY 20TH C CHALLENGE NO. 3 JAPANESE TEA PAPER COVERED | 187 | 6.23 |

@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:23:05Z",
+ "updated": "2026-10-13T12:24:17Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4512,
-  "events": 14447,
+  "lens": 4537,
+  "events": 14472,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 408,
-  "queued": 1728,
+  "lensed": 423,
+  "queued": 1703,
   "comps/pass": 1,
   "decided/ask": 37,
   "queued/relens": 345,
-  "flagged": 343,
+  "flagged": 353,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -357,6 +357,17 @@
    "med": 1753,
    "ratio": 70.12,
    "ai_value": ""
+  },
+  {
+   "pid": "7949505698",
+   "title": "Vintage metal enamel brooch",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-vintage-metal-enamel-brooch/9ooVEuvvekU85JbUuRNEDz",
+   "best": "Craigslist",
+   "med": 1500,
+   "ratio": 60,
+   "ai_value": "Value / Pricing: Similar vintage pieces typically list or sell between $20"
   },
   {
    "pid": "7955167430",
@@ -2020,6 +2031,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978064265",
+   "title": "Vintage Women's Sears Bicycle",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-womens-sears-bicycle/iHWxwqNW1LmAAzifAdiUrq",
+   "best": "Can anyone identify this bike? I would like to sell it but I ...",
+   "med": 499,
+   "ratio": 4.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7967459250",
    "title": "Old ice box",
    "price": 100,
@@ -2160,6 +2182,17 @@
    "best": "Vintage Quoizel Dogwood Table Lamp: 1978 Beige Luster Glass ...",
    "med": 275,
    "ratio": 4.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931123204",
+   "title": "ARENA  INCABLOC POCKET WATCH",
+   "price": 75,
+   "area": "roanoke",
+   "url": "https://www.craigslist.org/view/d/fincastle-arena-incabloc-pocket-watch/rD3R8FUUA4CMjGhPffsmbd",
+   "best": "Antique Illinois Watch Case Co Pocket Watch Railroad Grade ...",
+   "med": 342,
+   "ratio": 4.56,
    "ai_value": ""
   },
   {
@@ -2339,6 +2372,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937482777",
+   "title": "Vintage UEI Enterprises Multimeter",
+   "price": 20,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/caldwell-vintage-uei-enterprises/iAzpM5ffbVZsBiwdKP1U8o",
+   "best": "Item: A black vinyl/leatherette protective storage and transport case with a top carry handle and the classic ",
+   "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7930536832",
    "title": "Vintage Fire Extinguisher",
    "price": 75,
@@ -2347,6 +2391,17 @@
    "best": "Antique American LaFrance \u201cALERT\u201d Fire Extinguisher ... - eBay",
    "med": 299,
    "ratio": 3.99,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953690796",
+   "title": "Vintage FAR SIDE T-shirt",
+   "price": 30,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/wichita-vintage-far-side-shirt/pvTRifJ5QoNscVVmhDBK1c",
+   "best": "Far Side T-Shirts | eBay",
+   "med": 117,
+   "ratio": 3.9,
    "ai_value": ""
   },
   {
@@ -2435,6 +2490,17 @@
    "best": "Metalen tuk tuk zwart | bol",
    "med": 100,
    "ratio": 3.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943775977",
+   "title": "Vintage Kraco Car Speakers",
+   "price": 40,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/lebanon-vintage-kraco-car-speakers/gngHvshXj4QHDiCLmF4LKz",
+   "best": "Pair of Vintage 1970's Kraco Coaxial 20 Ounce CX-2-20-F ...",
+   "med": 147,
+   "ratio": 3.67,
    "ai_value": ""
   },
   {
@@ -2944,6 +3010,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7940295728",
+   "title": "Vintage Cinelli Stems",
+   "price": 40,
+   "area": "sierravista",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-cinelli-stems/fNrS4dAFiAop8nYX4vXb3y",
+   "best": "tucson.craigslist.org",
+   "med": 108,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963269306",
+   "title": "Women's Antique Hamilton Watch",
+   "price": 40,
+   "area": "wenatchee",
+   "url": "https://www.craigslist.org/view/d/seattle-womens-antique-hamilton-watch/efXnpNXu2Crzz8jfNNTEpe",
+   "best": "eBay",
+   "med": 106,
+   "ratio": 2.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7960311144",
    "title": "Vintage china paints",
    "price": 50,
@@ -3017,6 +3105,17 @@
    "url": "https://www.craigslist.org/view/d/fairbury-vintage-patriotic-drum/vALWx7zts1tjCadAGzf64u",
    "best": "Vintage Noble & Cooley USA Red, White and Blue Colors Stars ...",
    "med": 150,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949125676",
+   "title": "Vintage Mikasa Crystal Decanter",
+   "price": 40,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/lincoln-vintage-mikasa-crystal-decanter/5CmnVj3Z5JNZx5gxqaZF3S",
+   "best": "eBay",
+   "med": 100,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -3954,6 +4053,17 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7951367753",
+   "title": "Vintage Slot Car Stuff",
+   "price": 80,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/lebanon-vintage-slot-car-stuff/bxuh7D8KCA3trPdtZrMXjh",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": "price tags marked $10"
   },
   {
    "pid": "7948487778",
