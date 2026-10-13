@@ -12334,3 +12334,28 @@
 {"pid":"7943189252","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
 {"pid":"7973817117","stage":"photo_review","status":"kill","type":null,"note":"brass gaff, cracked wooden handle (repair)","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:38Z"}
 {"pid":"7940804995","stage":"photo_review","status":"kill","type":null,"note":"pre-made mixed boxes, no selection; June yard-sale post (stale)","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:38Z"}
+{"ts":"2026-10-13T09:47:12Z","pid":"7977882882","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":89,"ratio":8.9}}
+{"ts":"2026-10-13T09:47:20Z","pid":"7968027411","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":255,"ratio":5.67}}
+{"ts":"2026-10-13T09:47:30Z","pid":"7982144712","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":75,"ratio":1.15}}
+{"ts":"2026-10-13T09:47:40Z","pid":"7980538380","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":25,"ratio":2.5}}
+{"ts":"2026-10-13T09:47:48Z","pid":"7964132325","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":16,"ratio":0.89}}
+{"ts":"2026-10-13T09:47:57Z","pid":"7949841218","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":57,"ratio":1.27}}
+{"ts":"2026-10-13T09:48:04Z","pid":"7951128230","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":799,"ratio":13.32}}
+{"ts":"2026-10-13T09:48:14Z","pid":"7943898719","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":14,"ratio":0.16}}
+{"ts":"2026-10-13T09:48:25Z","pid":"7940964142","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":36,"ratio":1.8}}
+{"ts":"2026-10-13T09:48:35Z","pid":"7982134521","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":342,"ratio":3.45}}
+{"ts":"2026-10-13T09:48:45Z","pid":"7975363974","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":50,"ratio":1.67}}
+{"ts":"2026-10-13T09:48:54Z","pid":"7950412856","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":11,"ratio":1.1}}
+{"ts":"2026-10-13T09:49:03Z","pid":"7955729509","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":595,"ratio":11.9}}
+{"ts":"2026-10-13T09:49:12Z","pid":"7982130300","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":30,"ratio":0.75}}
+{"ts":"2026-10-13T09:49:21Z","pid":"7942666312","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":47,"ratio":2.35}}
+{"ts":"2026-10-13T09:49:30Z","pid":"7977466227","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":299,"ratio":5.98}}
+{"ts":"2026-10-13T09:49:37Z","pid":"7959456375","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":39,"ratio":0.78}}
+{"ts":"2026-10-13T09:49:48Z","pid":"7929329129","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T09:49:58Z","pid":"7971022077","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":10,"ratio":0.13}}
+{"ts":"2026-10-13T09:50:07Z","pid":"7971250449","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":20,"ratio":20}}
+{"ts":"2026-10-13T09:50:16Z","pid":"7952467399","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":17,"ratio":0.57}}
+{"ts":"2026-10-13T09:50:25Z","pid":"7951716550","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":30,"ratio":1.2}}
+{"ts":"2026-10-13T09:50:34Z","pid":"7960061943","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":60,"ratio":1.33}}
+{"ts":"2026-10-13T09:50:42Z","pid":"7944994937","stage":"queued","status":"relens","run":"lensworker-20261013-0947","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T09:50:51Z","pid":"7943864176","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":6000,"ratio":63.16}}

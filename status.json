@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:47:16Z",
+ "updated": "2026-10-13T09:51:07Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3554,
-  "events": 12263,
+  "lens": 3579,
+  "events": 12361,
   "comps": 876,
-  "item_types": 777,
+  "item_types": 782,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 2902,
-  "lensed": 133,
-  "queued": 1886,
+  "photo_review/kill": 2975,
+  "lensed": 107,
+  "queued": 1861,
   "comps/pass": 1,
   "decided/ask": 33,
-  "queued/relens": 341,
-  "flagged": 90,
+  "queued/relens": 342,
+  "flagged": 67,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -258,25 +258,14 @@
    "ai_value": ""
   },
   {
-   "pid": "7963406424",
-   "title": "Old Model Ship",
-   "price": 100,
-   "area": "stlouis",
-   "url": "https://www.craigslist.org/view/d/fallon-old-model-ship/u5yyB796NeDPyp8xsCUAZn",
-   "best": "Vintage Santa Maria Columbus Flagship 1492 Model for Repair ...",
-   "med": 5064,
-   "ratio": 50.64,
-   "ai_value": ""
-  },
-  {
-   "pid": "7955563122",
-   "title": "Vintage decanter set",
-   "price": 20,
-   "area": "fresno",
-   "url": "https://www.craigslist.org/view/d/wallace-vintage-decanter-set/63uDJRqqTXags4u8cAQ5LR",
-   "best": "Mullens Laurel Park",
-   "med": 985,
-   "ratio": 49.25,
+   "pid": "7943864176",
+   "title": "Antique Broadcast Seed Sower",
+   "price": 95,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/nazareth-antique-broadcast-seed-sower/fvsdZQrpQp7K7ki3WCoCpH",
+   "best": "Antique Seed Spreader | eBay",
+   "med": 6000,
+   "ratio": 63.16,
    "ai_value": ""
   },
   {
@@ -324,17 +313,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7944537664",
-   "title": "Antique Wicker Planter",
-   "price": 60,
-   "area": "vermont",
-   "url": "https://www.craigslist.org/view/d/saratoga-springs-antique-wicker-planter/f9m4tQLSuQc3gnEUkAciM4",
-   "best": "86 Vintage",
-   "med": 1650,
-   "ratio": 27.5,
-   "ai_value": ""
-  },
-  {
    "pid": "7970351889",
    "title": "Antique Lamps",
    "price": 40,
@@ -354,39 +332,6 @@
    "best": "Cabinet alignment : r/fixit",
    "med": 580,
    "ratio": 23.2,
-   "ai_value": ""
-  },
-  {
-   "pid": "7972596069",
-   "title": "Picnic Basket Vintage",
-   "price": 25,
-   "area": "utica",
-   "url": "https://www.craigslist.org/view/d/rochester-picnic-basket-vintage/ku9beD6PLKaY9pWogKpVH9",
-   "best": "Craigslist",
-   "med": 550,
-   "ratio": 22,
-   "ai_value": ""
-  },
-  {
-   "pid": "7961660343",
-   "title": "Antique Oil Furnace",
-   "price": 20,
-   "area": "tampa",
-   "url": "https://www.craigslist.org/view/d/clearwater-antique-oil-furnace/c1GfhHNBKoh1huj6aC8gw5",
-   "best": "\u00b7grayfurnaceman",
-   "med": 399,
-   "ratio": 19.95,
-   "ai_value": ""
-  },
-  {
-   "pid": "7951056564",
-   "title": "VINTAGE ART GLASS VASE",
-   "price": 50,
-   "area": "watertown",
-   "url": "https://www.craigslist.org/view/d/rochester-vintage-art-glass-vase/a3YnHWZgws7Ay73RFzgMq4",
-   "best": "eBay",
-   "med": 859,
-   "ratio": 17.18,
    "ai_value": ""
   },
   {
@@ -445,6 +390,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951128230",
+   "title": "Antique Tea Cart",
+   "price": 60,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/wilmington-antique-tea-cart/qQ2JTDgLD7NaNeuVNEfick",
+   "best": "Vintage Mid Century Colonial Drop Leaf Butler Tea or Bar ...",
+   "med": 799,
+   "ratio": 13.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7937727871",
    "title": "Vintage Woven Picnic Basket",
    "price": 10,
@@ -467,15 +423,15 @@
    "ai_value": ""
   },
   {
-   "pid": "7930372449",
-   "title": "FLY FISHING BASKET VINTAGE",
-   "price": 35,
-   "area": "houston",
-   "url": "https://www.craigslist.org/view/d/austin-fly-fishing-basket-vintage/sMmKGoMMDi4bTeMkYQEjaZ",
-   "best": "Sold at Auction: A vintage wicker fishing creel with leather ...",
-   "med": 418,
-   "ratio": 11.94,
-   "ai_value": "Value / Range: Typically sells between $40 to $225"
+   "pid": "7955729509",
+   "title": "Small antique wood cookstove",
+   "price": 50,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/woodbine-small-antique-wood-cookstove/eWUGwjEKVErsG3si1yewhJ",
+   "best": "heavy duty cast iron plant urns !!! 125.00 each #Switzer ...",
+   "med": 595,
+   "ratio": 11.9,
+   "ai_value": ""
   },
   {
    "pid": "7941138372",
@@ -500,17 +456,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7963605909",
-   "title": "Vintage Clothing",
-   "price": 35,
-   "area": "syracuse",
-   "url": "https://www.craigslist.org/view/d/scranton-vintage-clothing/wb9FG8reoMtkZX1kaiJd2y",
-   "best": "FabGabs",
-   "med": 349,
-   "ratio": 9.97,
-   "ai_value": ""
-  },
-  {
    "pid": "7945825445",
    "title": "Old Piece",
    "price": 20,
@@ -522,6 +467,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977882882",
+   "title": "Vintage Samsonite Suitcase",
+   "price": 10,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/medford-vintage-samsonite-suitcase/93RT2CNdE3X2NzNhN9EeQd",
+   "best": "Vintage Navy Blue Samsonite Suitcase, Hardside Weekend Bag ...",
+   "med": 89,
+   "ratio": 8.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7943866539",
    "title": "Antique Victorian Birdcage",
    "price": 39,
@@ -530,17 +486,6 @@
    "best": "Vintage Victorian Wood and Wire Metal Dome Bird Cage White ...",
    "med": 322,
    "ratio": 8.26,
-   "ai_value": ""
-  },
-  {
-   "pid": "7981243887",
-   "title": "Vintage Eagle Rider Cruiser",
-   "price": 50,
-   "area": "losangeles",
-   "url": "https://www.craigslist.org/view/d/north-hollywood-vintage-eagle-rider/dVjD54iZNnL59DufweTtC2",
-   "best": "Craigslist",
-   "med": 399,
-   "ratio": 7.98,
    "ai_value": ""
   },
   {
@@ -566,17 +511,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7960393677",
-   "title": "Vintage Bib Statement necklace",
-   "price": 35,
-   "area": "boston",
-   "url": "https://www.craigslist.org/view/d/natick-vintage-bib-statement-necklace/sKwJFYkJtZ7y8vJZTUucE4",
-   "best": "Etsy",
-   "med": 245,
-   "ratio": 7,
-   "ai_value": ""
-  },
-  {
    "pid": "7982220453",
    "title": "Two vintage Baskets",
    "price": 10,
@@ -585,17 +519,6 @@
    "best": "Round Woven reed basket embellished with dyed reed & sea ...",
    "med": 69,
    "ratio": 6.9,
-   "ai_value": ""
-  },
-  {
-   "pid": "7976874981",
-   "title": "VINTAGE LEATHER JACKET (BRN)",
-   "price": 30,
-   "area": "atlanta",
-   "url": "https://www.craigslist.org/view/d/atlanta-vintage-leather-jacket-brn/4WF6kEQE9HkyrWQheHQeGX",
-   "best": "eBay",
-   "med": 200,
-   "ratio": 6.67,
    "ai_value": ""
   },
   {
@@ -610,37 +533,26 @@
    "ai_value": ""
   },
   {
-   "pid": "7956624401",
-   "title": "Vintage Schwinn Mirada Frames",
-   "price": 40,
-   "area": "albuquerque",
-   "url": "https://www.craigslist.org/view/d/tijeras-vintage-schwinn-mirada-frames/2avGw2u6sfvozYiiU44GN9",
-   "best": "Craigslist",
-   "med": 250,
-   "ratio": 6.25,
+   "pid": "7977466227",
+   "title": "3 vintage bike bicycles",
+   "price": 50,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/murfreesboro-vintage-bike-bicycles/pSEEH3Nesz3MJViMisomX5",
+   "best": "Vintage Late 1970's Raleigh Women's 3 Speed Bicycle | eBay",
+   "med": 299,
+   "ratio": 5.98,
    "ai_value": ""
   },
   {
-   "pid": "7978357098",
-   "title": "Huge Vintage Christmas Sale",
-   "price": 10,
-   "area": "spokane",
-   "url": "https://www.craigslist.org/view/d/kennewick-huge-vintage-christmas-sale/6PbE7JF9biN4uJt6ouAGwX",
-   "best": "Visible Figures & Items",
-   "med": 60,
-   "ratio": 6,
+   "pid": "7968027411",
+   "title": "VINTAGE NIKE AIRMAX LUNAR90.C3.0",
+   "price": 45,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/berkeley-springs-vintage-nike-airmax/pMpSjigNMGDV7wBBG7XsbQ",
+   "best": "DS 2014 AIR MAX LUNAR 90 C3.0 631744 104 OBSIDIAN 9.5, 11 ...",
+   "med": 255,
+   "ratio": 5.67,
    "ai_value": ""
-  },
-  {
-   "pid": "7957829309",
-   "title": "Antique scale",
-   "price": 30,
-   "area": "eugene",
-   "url": "https://www.craigslist.org/view/d/wolf-creek-antique-scale/4uWtkuNNMhQLzC4CEqmmqQ",
-   "best": "27 ads for antique platform scale in Buy & Sell in Canada ...",
-   "med": 165,
-   "ratio": 5.5,
-   "ai_value": "sell in the $30 to $150"
   },
   {
    "pid": "7951299280",
@@ -654,17 +566,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7968582309",
-   "title": "Vintage pair of binoculars",
-   "price": 30,
-   "area": "phoenix",
-   "url": "https://www.craigslist.org/view/d/phoenix-vintage-pair-of-binoculars/5boHPbdGK3QRJzDNU4CrzB",
-   "best": "Top pair: Features an older bridge and barrel design reminiscent of early prismatic or Galilean military binoc",
-   "med": 158,
-   "ratio": 5.27,
-   "ai_value": ""
-  },
-  {
    "pid": "7944996283",
    "title": "Antique Handmade Birdcage",
    "price": 49,
@@ -673,17 +574,6 @@
    "best": "Antique Bird Cage Wooden Birdcage Large Wood Bird Cage ...",
    "med": 257,
    "ratio": 5.24,
-   "ai_value": ""
-  },
-  {
-   "pid": "7944414915",
-   "title": "OLD BIRD FEEDER",
-   "price": 15,
-   "area": "austin",
-   "url": "https://www.craigslist.org/view/d/austin-old-bird-feeder/euiotESQymkt1eSwkFG2G3",
-   "best": "no!no! Seed Feeder Wildlife Bird Feeder for sale | eBay",
-   "med": 75,
-   "ratio": 5,
    "ai_value": ""
   },
   {
@@ -742,17 +632,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7944056566",
-   "title": "Vintage Honeywell Cameras",
-   "price": 39,
-   "area": "ithaca",
-   "url": "https://www.craigslist.org/view/d/nazareth-vintage-honeywell-cameras/h1vuZhTPyjdPP7XC9nvT8W",
-   "best": "RARE* Honeywell Elmo Compact Super Filmatic 103 Movie Camera ...",
-   "med": 175,
-   "ratio": 4.49,
-   "ai_value": ""
-  },
-  {
    "pid": "7952270862",
    "title": "Vintage balance scale.",
    "price": 30,
@@ -764,17 +643,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7973733756",
-   "title": "Vintage Monet statement necklace",
-   "price": 35,
-   "area": "boston",
-   "url": "https://www.craigslist.org/view/d/natick-vintage-monet-statement-necklace/embFeEZuFrU33NsgbewKoa",
-   "best": "Vintage Belladonna Canada Colorful Blue Floral Swarovski ...",
-   "med": 148,
-   "ratio": 4.23,
-   "ai_value": ""
-  },
-  {
    "pid": "7982238021",
    "title": "Vintage SNAPON TOOLS Blackhawk",
    "price": 50,
@@ -783,17 +651,6 @@
    "best": "16 Piece Vintage Craftsman Combination wrench set 3/8-1-5/16 ...",
    "med": 199,
    "ratio": 3.98,
-   "ai_value": ""
-  },
-  {
-   "pid": "7929863253",
-   "title": "Vintage Woodworking Tools",
-   "price": 25,
-   "area": "norfolk",
-   "url": "https://www.craigslist.org/view/d/clinton-vintage-woodworking-tools/xcM4DzRLbHY2kycxgJ3opk",
-   "best": "Vintage Stanley No 78 Wood Rabbet Plane | eBay",
-   "med": 90,
-   "ratio": 3.6,
    "ai_value": ""
   },
   {
@@ -830,6 +687,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982134521",
+   "title": "Estate sale",
+   "price": 99,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/fairview-heights-estate-sale/22keddpQLiEmiFX9LMinKz",
+   "best": "Vintage Thomasville Winston Court Collection Traditional ...",
+   "med": 342,
+   "ratio": 3.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7953927195",
    "title": "Vintage trolling motors",
    "price": 100,
@@ -838,28 +706,6 @@
    "best": "JOHNSON FOOT CONTROLLED TROLLING MOTOR, 12VOLT | eBay",
    "med": 325,
    "ratio": 3.25,
-   "ai_value": ""
-  },
-  {
-   "pid": "7964569782",
-   "title": "Vintage Lights-Commercial/Barn Lights",
-   "price": 75,
-   "area": "cleveland",
-   "url": "https://www.craigslist.org/view/d/west-mifflin-vintage-lights-commercial/gxmHQpdeaiWh3Nh5eAHJ7k",
-   "best": "VINTAGE BENJAMIN INDUSTRIAL LIGHT GREEN ENAMEL ...",
-   "med": 242,
-   "ratio": 3.23,
-   "ai_value": ""
-  },
-  {
-   "pid": "7930178576",
-   "title": "Antique ice saw",
-   "price": 40,
-   "area": "wenatchee",
-   "url": "https://www.craigslist.org/view/d/lynden-antique-ice-saw/r3bCQTVak88Dev4mgGPFmx",
-   "best": "Vintage Ice Saw with Cast Iron Handle Antique Saws Fishing ...",
-   "med": 129,
-   "ratio": 3.23,
    "ai_value": ""
   },
   {
@@ -951,17 +797,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7956634499",
-   "title": "Vintage Wooden Bread Box",
-   "price": 50,
-   "area": "portland",
-   "url": "https://www.craigslist.org/view/d/springfield-vintage-wooden-bread-box/moxZ1yKzpaemYduQqgW9kX",
-   "best": "Vintage Wood Bread Box - Etsy",
-   "med": 135,
-   "ratio": 2.7,
-   "ai_value": ""
-  },
-  {
    "pid": "7942661472",
    "title": "Coke ice box vintage",
    "price": 95,
@@ -995,17 +830,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7951003326",
-   "title": "Coleman Lantern Vintage",
-   "price": 50,
-   "area": "fresno",
-   "url": "https://www.craigslist.org/view/d/san-jose-coleman-lantern-vintage/fYFR4ppKf7cMNSDXkGsyMk",
-   "best": "Vintage Coleman Model 220E Dual Mantels Made In 1950s -1960s ...",
-   "med": 110,
-   "ratio": 2.2,
-   "ai_value": ""
-  },
-  {
    "pid": "7951896416",
    "title": "Vintage tulip lamp",
    "price": 80,
@@ -1025,17 +849,6 @@
    "best": "Vintage Handcrafted Kelly Paulk for Silvestri Tea for One ...",
    "med": 125,
    "ratio": 2.08,
-   "ai_value": ""
-  },
-  {
-   "pid": "7949429990",
-   "title": "vintage lamp",
-   "price": 85,
-   "area": "desmoines",
-   "url": "https://www.craigslist.org/view/d/ottumwa-vintage-lamp/tkSdRKhMV5BnThm8RcfdPR",
-   "best": "2 Carl Falkenstein MCM three-way blue flower Lamps, like new ...",
-   "med": 171,
-   "ratio": 2.01,
    "ai_value": ""
   },
   {
@@ -1083,17 +896,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7980026883",
-   "title": "DESKPHONE VINTAGE CANDLESTICK- 1959",
-   "price": 100,
-   "area": "moseslake",
-   "url": "https://www.craigslist.org/view/d/seattle-deskphone-vintage-candlestick/drn5KR3kdcg2dQtzxv1WUD",
-   "best": "1973 American Telecommunications The Candlestick Telephone ...",
-   "med": 90,
-   "ratio": 0.9,
-   "ai_value": ""
-  },
-  {
    "pid": "7948825018",
    "title": "Vintage Lodge Collar",
    "price": 99,
@@ -1127,56 +929,12 @@
    "ai_value": ""
   },
   {
-   "pid": "7974187056",
-   "title": "Vintage Capodimonte bowl",
-   "price": 75,
-   "area": "buffalo",
-   "url": "https://www.craigslist.org/view/d/rochester-vintage-capodimonte-bowl/6fUfNrL1vT6r8ucrHai16A",
-   "best": "Antique Capodimonte Italian Oval Pink Flowers Brown ...",
-   "med": 60,
-   "ratio": 0.8,
-   "ai_value": "Value: Typically ranges from $75 to $250"
-  },
-  {
-   "pid": "7981243659",
-   "title": "Vintage 1960 Schwinn Tiger",
-   "price": 50,
-   "area": "losangeles",
-   "url": "https://www.craigslist.org/view/d/north-hollywood-vintage-1960-schwinn/5dn2TYPQuKYx91LckjLhkn",
-   "best": "Parts Bin Schwinn No. 2: 1958 Cantilever | Project Rides ...",
-   "med": null,
-   "ratio": null,
-   "ai_value": ""
-  },
-  {
    "pid": "7950559349",
    "title": "Antique radio & books",
    "price": 75,
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/richland-antique-radio-books/iyzopxgNRAzbHguNgLM1Kg",
    "best": "Silver Marshall Model ID- SOLVED! - Antique Radio Forums",
-   "med": null,
-   "ratio": null,
-   "ai_value": ""
-  },
-  {
-   "pid": "7973817117",
-   "title": "vintage english fishing gaff",
-   "price": 80,
-   "area": "phoenix",
-   "url": "https://www.craigslist.org/view/d/phoenix-vintage-english-fishing-gaff/o6r75229oM7ELuyPefc6VF",
-   "best": "Fishing Gaff - Vintage Equipment for sale | eBay UK",
-   "med": null,
-   "ratio": null,
-   "ai_value": ""
-  },
-  {
-   "pid": "7980108927",
-   "title": "4 Antique Toasters",
-   "price": 25,
-   "area": "chico",
-   "url": "https://www.craigslist.org/view/d/redding-antique-toasters/2zArc7YbbYoVVnLfw99rKx",
-   "best": "Bersted MOdel 71 Electric Toaster McGraw Electric Co. Art ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
@@ -1204,23 +962,12 @@
    "ai_value": ""
   },
   {
-   "pid": "7982192691",
-   "title": "Pocket Knifes vintage",
-   "price": 10,
-   "area": "quadcities",
-   "url": "https://www.craigslist.org/view/d/bellwood-pocket-knifes-vintage/8vKuU9E3nzSd1cKc93nbuu",
-   "best": "Top Knife: An Imperial Prov USA Kamp King utility/scout pocket knife featuring black jigged/molded handles, a ",
-   "med": null,
-   "ratio": null,
-   "ai_value": ""
-  },
-  {
-   "pid": "7940804995",
-   "title": "Antique and vintage collection",
-   "price": 100,
-   "area": "imperial",
-   "url": "https://www.craigslist.org/view/d/vista-antique-and-vintage-collection/9s9epeL8XJna11uQJXxWmx",
-   "best": "Bundle of signed Delft figurines, boy and girl with bucket bells, handpainted Dutch shoes",
+   "pid": "7929329129",
+   "title": "Vintage pocket knife",
+   "price": 25,
+   "area": "huntington",
+   "url": "https://www.craigslist.org/view/d/hamilton-vintage-pocket-knife/gGwUx1BkXchB5K7LxW6NXV",
+   "best": "Old Scout Knife - Etsy",
    "med": null,
    "ratio": null,
    "ai_value": ""
