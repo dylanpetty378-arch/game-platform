@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:10:33Z",
+ "updated": "2026-10-13T05:14:10Z",
  "tables": {
   "harvests": 3,
   "searches": 168,
   "listings": 4607,
-  "lens": 1829,
-  "events": 7547,
+  "lens": 1854,
+  "events": 7572,
   "comps": 156,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 738,
-  "queued": 2811,
-  "lensed": 687,
+  "queued": 2786,
+  "lensed": 701,
   "comps/pass": 1,
   "decided/ask": 19,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 29,
+  "flagged": 40,
   "decided/find": 6
  },
  "last_harvests": [
@@ -191,6 +191,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960225137",
+   "title": "Old German clock",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/napa-old-german-clock/aoMi3Q13f9hsTtQPTpHtVP",
+   "best": "Dial: White porcelain or enamel face with Roman numerals and winding arbors for an 8-day time-and-strike movem",
+   "med": 1384,
+   "ratio": 55.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7955504390",
    "title": "Antique Fairbanks Morse scale",
    "price": 40,
@@ -235,6 +246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930598502",
+   "title": "VINTAGE STEREO EQUIPMENT",
+   "price": 80,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/highland-vintage-stereo-equipment/1iZq7nkK73m6d8f3hJiEqd",
+   "best": "Reel Size: Accommodates up to 7-inch reels",
+   "med": 780,
+   "ratio": 9.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7942107617",
    "title": "Vintage wooden duck decoy",
    "price": 50,
@@ -257,6 +279,17 @@
    "ai_value": "Value / Market Price: Generally sells between $40"
   },
   {
+   "pid": "7973999421",
+   "title": "Vintage Suzuki Guitar No.6",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/carmichael-vintage-suzuki-guitar-no6/jVtbDQwotBmoq3VeMbXdvk",
+   "best": "Vintage Suzuki Acoustic Guitar Parlor Number 6 Nagoya ...",
+   "med": 700,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7952962879",
    "title": "Vintage Stoneware Pottery Lamp",
    "price": 20,
@@ -266,6 +299,17 @@
    "med": 125,
    "ratio": 6.25,
    "ai_value": ""
+  },
+  {
+   "pid": "7969292715",
+   "title": "Antique Hampden pocket watch",
+   "price": 40,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/loveland-antique-hampden-pocket-watch/t2Xv1wafQzZdpFW7FLPxWv",
+   "best": "To get an exact year, grade, and serial/movement information, you can pop open the back dust cover to look at ",
+   "med": 250,
+   "ratio": 6.25,
+   "ai_value": "Value: Typically ranges from $90 to $795"
   },
   {
    "pid": "7956309290",
@@ -299,6 +343,17 @@
    "med": 400,
    "ratio": 4,
    "ai_value": "Value: Typically sells between $100"
+  },
+  {
+   "pid": "7956516656",
+   "title": "Vintage Miners Head Lamp",
+   "price": 45,
+   "area": "loz",
+   "url": "https://www.craigslist.org/view/d/sunrise-beach-vintage-miners-head-lamp/ukhnb7MGtexXQXhHwqD4FE",
+   "best": "Miners Head Lamp - Etsy",
+   "med": 175,
+   "ratio": 3.89,
+   "ai_value": ""
   },
   {
    "pid": "7957861751",
@@ -356,6 +411,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945631129",
+   "title": "Vintage drill bits",
+   "price": 20,
+   "area": "smd",
+   "url": "https://www.craigslist.org/view/d/callaway-vintage-drill-bits/bV3JWMEp6vqYyYMUaSpiMB",
+   "best": "eBay",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7982376741",
    "title": "Vintage Kirby Vacuums",
    "price": 95,
@@ -400,6 +466,50 @@
    "ai_value": "sell on platforms like eBay or Etsy for roughly $25 to $200,"
   },
   {
+   "pid": "7947437208",
+   "title": "Traveling Vintage Backgammon Set",
+   "price": 35,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-traveling-vintage-backgammon/892C8Yn3Mttm7wqMiJhVXx",
+   "best": "Board: Brown and white/cream points (triangles) with a suede-lined interior.",
+   "med": 88,
+   "ratio": 2.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971533985",
+   "title": "Vintage Nativity Scene Set",
+   "price": 39,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-vintage-nativity-scene-set/2YZQuKFQCXR5VqQGr42MLU",
+   "best": "VTG CARSON STATESMETAL PEWTER 9 PIECE NATIVITY SET W/STABLE ...",
+   "med": 95,
+   "ratio": 2.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963295139",
+   "title": "Vintage Coffee Grinder",
+   "price": 75,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/cave-junction-vintage-coffee-grinder/hgwa2USFaEp2r9noAUyPoW",
+   "best": "Vintage 5x7\" Finger Jointed Wood Coffee Grinder Mill Box + ...",
+   "med": 176,
+   "ratio": 2.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974034083",
+   "title": "Stuff",
+   "price": 100,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/ellwood-city-stuff/t2v5iHdS6Za4DxDxGURawn",
+   "best": "Huffy, Drift Trike, 16\" Green Machine, Kids, Unisex ...",
+   "med": 222,
+   "ratio": 2.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7955184246",
    "title": "Vintage Russian Cuckoo clock",
    "price": 100,
@@ -409,6 +519,17 @@
    "med": 220,
    "ratio": 2.2,
    "ai_value": "Value: Often sold on vintage marketplaces like eBay and Etsy ranging roughly from $90 to $250"
+  },
+  {
+   "pid": "7956532868",
+   "title": "Vintage lollipop microphone",
+   "price": 100,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/milwaukee-vintage-lollipop-microphone/4CGmLZcVgUu7qmFK8mgeWC",
+   "best": "Astatic D104 Vintage Chrome & Black CB HAM Microphone w ...",
+   "med": 200,
+   "ratio": 2,
+   "ai_value": ""
   },
   {
    "pid": "7982385618",
