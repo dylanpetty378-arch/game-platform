@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T18:13:28Z",
+ "updated": "2026-10-13T18:19:00Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6678,
-  "events": 21749,
+  "lens": 6703,
+  "events": 21774,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 261,
+  "lensed": 270,
   "comps/pass": 1,
-  "queued/relens": 250,
+  "queued/relens": 254,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 341,
+  "flagged": 353,
   "comps/fail": 5,
   "expired": 9,
   "decided/find": 8,
-  "queued": 175
+  "queued": 150
  },
  "last_harvests": [
   {
@@ -504,6 +504,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953086615",
+   "title": "Sadie's Estate  Collectibles",
+   "price": 1,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-sadies-estate/fyfZuJ9pURmVrjNwJeDNRj",
+   "best": "Etsy",
+   "med": 60,
+   "ratio": 60,
+   "ai_value": ""
+  },
+  {
    "pid": "7956157238",
    "title": "Framed Antique Embroidered Silk",
    "price": 50,
@@ -878,6 +889,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934424256",
+   "title": "Hand Carved Wood Symobolic Idol Figure",
+   "price": 30,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-hand-carved-wood-symobolic-idol/h5F9MHAuYDkfpjfeA9tapF",
+   "best": "Lobi Bateba - Etsy",
+   "med": 359,
+   "ratio": 11.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7934410252",
    "title": "Vintage Sterling Silver Jewelry -NAVAJO ZUNI Turquoise Rings, Earring",
    "price": 60,
@@ -1098,6 +1120,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982813460",
+   "title": "Vintage Beaded Necklace",
+   "price": 5,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/omaha-vintage-beaded-necklace/vK9ojDakj2fdGYgFVDmExk",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7969181412",
    "title": "Faux Large Pearl Necklace",
    "price": 10,
@@ -1305,6 +1338,17 @@
    "med": 120,
    "ratio": 6,
    "ai_value": "Value & Authenticity: Genuine circulated pieces generally trade for around $100 to $200"
+  },
+  {
+   "pid": "7945033825",
+   "title": "Cross pendant 14 kt solid gold",
+   "price": 30,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-cross-pendant-14-kt-solid-gold/o68tmhv5jaCekWmwt2hap9",
+   "best": "eBay",
+   "med": 179,
+   "ratio": 5.97,
+   "ai_value": ""
   },
   {
    "pid": "7945944456",
@@ -1678,6 +1722,17 @@
    "best": "MARCASITE 925 Sterling Silver Pearl Lariat Necklace - Art ...",
    "med": 288,
    "ratio": 4.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936589030",
+   "title": "Vintage Tie Clips  -  8 Assorted Styles w/ Storage Box",
+   "price": 10,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/vintage-tie-clips-assorted-styles/aEazu9QnBnTe1AQS2A9Zj3",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 4,
    "ai_value": ""
   },
   {
@@ -2184,6 +2239,17 @@
    "best": "VINTAGE SIGNED CZECH AMBER GLASS NECKLACE | eBay",
    "med": 70,
    "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980554475",
+   "title": "10 K 18\" Singapore chain  ecklace",
+   "price": 110,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-10-18-singapore-chain-ecklace/iZE6XJecJLjtdv3NTqLcmv",
+   "best": "Faire",
+   "med": 307,
+   "ratio": 2.79,
    "ai_value": ""
   },
   {
@@ -2700,6 +2766,17 @@
    "url": "https://www.craigslist.org/view/d/corrales-royal-holland-pewter-daalderop/aasmYNCcvqLsRWXpcotLPm",
    "best": "Etsy",
    "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981644021",
+   "title": "Vintage  9\" Charlie Brown 1958 Figurine",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-charlie-brown-1958/qYDpPyyYzGQUuC4kJXQ28B",
+   "best": "Manufacturer: Hungerford Plastics Corporation.",
+   "med": 100,
    "ratio": 2,
    "ai_value": ""
   },
@@ -3243,6 +3320,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939389861",
+   "title": "Vintage Christmas Squirrel Ornament Made in Japan",
+   "price": 15,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-christmas-squirrel/igL9aRMtk8M6FExx8okNso",
+   "best": "vintage Enesco Japan ceramic squirrel w/ real fur tail ...",
+   "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7938268887",
    "title": "Dozen crystal stemware vintage",
    "price": 85,
@@ -3295,6 +3383,17 @@
    "best": "Etsy",
    "med": 30,
    "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952328403",
+   "title": "Picture-Boy Going Fishing",
+   "price": 17,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-picture-boy-going-fishing/39h5WzFDEWwKTX42C6xCAf",
+   "best": "Artwork Details",
+   "med": 20,
+   "ratio": 1.18,
    "ai_value": ""
   },
   {
@@ -4107,6 +4206,39 @@
    "area": "indianapolis",
    "url": "https://www.craigslist.org/view/d/indianapolis-star-wars-huge-lot-of-31/8t4dpALLDzjF9HJ2sA4xgP",
    "best": "Collecting Star Wars toys at Burger King in 2005",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982743164",
+   "title": "Lyx PRO Les Paul",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-lyx-pro-les-paul/eBNDk3D2c328GsGaJLFuMg",
+   "best": "SB Series Beginner Electric Guitars by LyxPro",
+   "med": null,
+   "ratio": null,
+   "ai_value": "Price: Approximately $219"
+  },
+  {
+   "pid": "7966735848",
+   "title": "Vintage Saber 2/blade trapper",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-saber-blade-trapper/8pDEoE3ihEya7LxuUpJ258",
+   "best": "Vintage 1960s BOKER Germany Pocket Knife 7374 PREMIUM PUNCH ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960079310",
+   "title": "Vintage Schaefer Beer Nautical Wall Clock",
+   "price": 95,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cohoes-vintage-schaefer-beer-nautical/11b91epNSYrwfehCzJHLDA",
+   "best": "Logo: Illuminated top round panel showcasing the red and white Schaefer Beer logo.",
    "med": null,
    "ratio": null,
    "ai_value": ""
