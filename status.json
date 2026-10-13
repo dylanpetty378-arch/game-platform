@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T15:00:40Z",
+ "updated": "2026-10-13T15:04:28Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5537,
-  "events": 16272,
+  "lens": 5562,
+  "events": 16297,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 979,
-  "queued": 1503,
+  "lensed": 997,
+  "queued": 1478,
   "comps/pass": 1,
-  "queued/relens": 438,
+  "queued/relens": 439,
   "decided/ask": 37,
-  "flagged": 704,
+  "flagged": 710,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -939,6 +939,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941554628",
+   "title": "Sterling Silver Pendant",
+   "price": 25,
+   "area": "sanangelo",
+   "url": "https://www.craigslist.org/view/d/center-point-sterling-silver-pendant/hDFgN7bM5mQctAU582jbhb",
+   "best": "eBay",
+   "med": 685,
+   "ratio": 27.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7951922051",
    "title": "VINTAGE COLUMBIA RAMBLER CRUISER",
    "price": 50,
@@ -1474,6 +1485,17 @@
    "url": "https://www.craigslist.org/view/d/sevierville-vintage-1952-baby-bassinet/8MkzdidKCLuMoUUuMojSLw",
    "best": "Note: Vintage baby furniture of this age generally does not meet modern federal safety standards (such as stri",
    "med": 1450,
+   "ratio": 14.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941280999",
+   "title": "Vintage Single Strand Necklace and Earrings Set",
+   "price": 8,
+   "area": "southcoast",
+   "url": "https://www.craigslist.org/view/d/somerset-vintage-single-strand-necklace/8BC6hTXX65prmpAHD3DYym",
+   "best": "Ripley Auctions",
+   "med": 116,
    "ratio": 14.5,
    "ai_value": ""
   },
@@ -3546,6 +3568,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942767043",
+   "title": "Porcelain Vintage Chocolate Pot",
+   "price": 35,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/auburn-porcelain-vintage-chocolate-pot/tTCDdv174m26R6gJoxp5r1",
+   "best": "Antique German Hand Painted Hot Chocolate Pot - Etsy",
+   "med": 175,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978064265",
    "title": "Vintage Women's Sears Bicycle",
    "price": 100,
@@ -3620,6 +3653,17 @@
    "best": "Vintage Golf Clubs Cactus Mastertrack 431 steel 1,3,5w 3i-PW ...",
    "med": 122,
    "ratio": 4.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941553358",
+   "title": "Sterling Silver Earrings",
+   "price": 20,
+   "area": "sanangelo",
+   "url": "https://www.craigslist.org/view/d/center-point-sterling-silver-earrings/adrse2f4jZfqo12Ar7tVcw",
+   "best": "eBay",
+   "med": 97,
+   "ratio": 4.85,
    "ai_value": ""
   },
   {
@@ -5636,6 +5680,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963407261",
+   "title": "Sterling Silver Marcasite & Onyx Earrings!",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-sterling-silver-marcasite-onyx/6sc3Quwwz3gt73Ebqk7vL1",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7934046383",
    "title": "VINTAGE COLLECTIBLES BRASS BOOKENDS",
    "price": 75,
@@ -7237,6 +7292,17 @@
    "area": "nh",
    "url": "https://www.craigslist.org/view/d/manchester-lismore-waterford-crystal/1JjzvTfzASqsdcDqEKpRKe",
    "best": "Waterford Crystal Rosslare Water Goblet Glass(es) 6 3/4\" H ...",
+   "med": 90,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956168251",
+   "title": "Vintage 925 Sterling Grape Cluster Brooch Pendant & Earring Set",
+   "price": 100,
+   "area": "flagstaff",
+   "url": "https://www.craigslist.org/view/d/prescott-valley-vintage-925-sterling/bv6B5SHKDquX8FLyH1NUYs",
+   "best": "eBay",
    "med": 90,
    "ratio": 0.9,
    "ai_value": ""

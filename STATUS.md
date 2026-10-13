@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T15:00:40Z
+# Refurbish status — 2026-10-13T15:04:28Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1503 |
-| lensed | 979 |
-| flagged | 704 |
-| queued/relens | 438 |
+| queued | 1478 |
+| lensed | 997 |
+| flagged | 710 |
+| queued/relens | 439 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 6
 - searches: 1504
 - listings: 7007
-- lens: 5537
-- events: 16272
+- lens: 5562
+- events: 16297
 - comps: 1350
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (704)
+## Flagged by Lens, waiting for photo review (710)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -148,6 +148,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00e0e_1cXRZ6HK3tl_0Mo12w_300x300.jpg" width="120"> | 7936513713 | $10 | austin | [Costume Heart Shape Sterling Style Necklace](https://www.craigslist.org/view/d/kyle-costume-heart-shape-sterling-style/bdgiZoNyardNYe6GvLoy4f) | TIFFANY & CO. Heart Pendant W/ Diamond Delicate Oval Link .. | 300 | 30 |
 | <img src="https://images.craigslist.org/00R0R_4cU9EAGK4V1_0g80c6_300x300.jpg" width="120"> | 7946038462 | $15 | chicago | [Vintage Stoneware Berry Bowl/Handled Colander](https://www.craigslist.org/view/d/shorewood-vintage-stoneware-berry-bowl/nTWRYJXeBqNbD7eqwv4YPc) | Stoneware Colander / eBay | 420 | 28 |
 | <img src="https://images.craigslist.org/00S0S_cuZZ8OUZZQI_0ey0br_300x300.jpg" width="120"> | 7941139818 | $10 | chambana | [Decorative Vintage decoupage box](https://www.craigslist.org/view/d/decorative-vintage-decoupage-box/oSHtcQgZVihe4xMAqdPko9) | Value / Market: Commonly sold as a collectible or vintage de | 275 | 27.5 |
+| <img src="https://images.craigslist.org/00f0f_c5dxtbXUjlF_0t20CI_300x300.jpg" width="120"> | 7941554628 | $25 | sanangelo | [Sterling Silver Pendant](https://www.craigslist.org/view/d/center-point-sterling-silver-pendant/hDFgN7bM5mQctAU582jbhb) | eBay | 685 | 27.4 |
 | <img src="https://images.craigslist.org/00u0u_jeN9coNO3W1_0CI0t2_300x300.jpg" width="120"> | 7951922051 | $50 | boston | [VINTAGE COLUMBIA RAMBLER CRUISER](https://www.craigslist.org/view/d/marblehead-vintage-columbia-rambler/pU2143ZbzP7szjp52GvdCW) | Restoration tips | 1350 | 27 |
 | <img src="https://images.craigslist.org/00g0g_82C7ygSPbQn_0g80c6_300x300.jpg" width="120"> | 7932007022 | $10 | chicago | [Vintage Crystal Vase, France](https://www.craigslist.org/view/d/shorewood-vintage-crystal-vase-france/en7yn8PVU18ykHsJYCya19) | Vtg Strombergshyttan SWEDEN lARGE 10" Art Glass Vase iCE ... | 264 | 26.4 |
 | <img src="https://images.craigslist.org/00w0w_cMKSt40iF3X_0CI0fB_300x300.jpg" width="120"> | 7959024981 | $40 | oregoncoast | [VINTAGE BOOMBOX WORKING](https://www.craigslist.org/view/d/lebanon-vintage-boombox-working/8RzDaptjsGobCXfXP5uVUw) | JVC PC-V66 Portable Component System Boombox Radio Cassette  | 1052 | 26.3 |
@@ -197,6 +198,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00U0U_es6SX3fgrBL_0CI0t2_300x300.jpg" width="120"> | 7968189717 | $45 | galveston | [SCALE VINTAGE TOLEDO #1361](https://www.craigslist.org/view/d/yoakum-scale-vintage-toledo-1361/mCABHPzKw6S5DnnBHmX9Ey) | Toledo Scale Vintage FOR SALE! - PicClick | 673 | 14.96 |
 | <img src="https://images.craigslist.org/00101_1D4r7jHdFPW_0g80c6_300x300.jpg" width="120"> | 7944870335 | $5 | chicago | [Vintage Rectangular Clear Glass 2 Handled Tray](https://www.craigslist.org/view/d/shorewood-vintage-rectangular-clear/3qDfVX7mMXsumMrdTHBd57) | Craigslist | 73 | 14.6 |
 | <img src="https://images.craigslist.org/01313_9PLeBMWHsYY_0CI0pK_300x300.jpg" width="120"> | 7958079032 | $100 | knoxville | [Vintage 1952 Baby Bassinet](https://www.craigslist.org/view/d/sevierville-vintage-1952-baby-bassinet/8MkzdidKCLuMoUUuMojSLw) | Note: Vintage baby furniture of this age generally does not  | 1450 | 14.5 |
+| <img src="https://images.craigslist.org/01111_hwumLorj71U_0t20CI_300x300.jpg" width="120"> | 7941280999 | $8 | southcoast | [Vintage Single Strand Necklace and Earrings Set](https://www.craigslist.org/view/d/somerset-vintage-single-strand-necklace/8BC6hTXX65prmpAHD3DYym) | Ripley Auctions | 116 | 14.5 |
 | <img src="https://images.craigslist.org/01313_kwREUG4gkh5_0t20CI_300x300.jpg" width="120"> | 7982694066 | $35 | losangeles | [Groucho Marx Figurine](https://www.craigslist.org/view/d/los-angeles-groucho-marx-figurine/5y8p1acj4CoycDPk5vs3hu) | Groucho Marx Figurine / eBay | 500 | 14.29 |
 | <img src="https://images.craigslist.org/00B0B_8L0dGvm8VuH_03S05a_300x300.jpg" width="120"> | 7933533603 | $77 | eastnc | [16" Sterling Silver Snake Chain Stamped Sterling 7](https://www.craigslist.org/view/d/cherry-point-16-sterling-silver-snake/v94LynjnJj4zZpymtbsT5E) | eBay | 1062 | 13.79 |
 | <img src="https://images.craigslist.org/00t0t_kzCThitqDuP_09b0bx_300x300.jpg" width="120"> | 7951120784 | $10 | honolulu | [Stud crystal Earrings](https://www.craigslist.org/view/d/pearl-city-stud-crystal-earrings/iowwjvUfX3S27RbgRxv5Af) | Les Haudères Midi Halo Stud Earrings - GENEVIVE | 136 | 13.6 |
@@ -211,5 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00303_kFbbR3JHySF_0fu0bC_300x300.jpg" width="120"> | 7961254881 | $18 | eastky | [Antique Picture Frame](https://www.craigslist.org/view/d/asheville-antique-picture-frame/jMDSDn8R9wxzdA3k19P5pw) | eBay | 234 | 13 |
 | <img src="https://images.craigslist.org/00K0K_jMxIxw86IR2_08d0gw_300x300.jpg" width="120"> | 7943157211 | $20 | duluth | [Antique/Vintage Berry Spoon](https://www.craigslist.org/view/d/stillwater-antique-vintage-berry-spoon/u32HshJA8sPAcUDERDxmsL) | Grape-Roger Bros Silverplate Large Grape Spoon 9" Monogram . | 259 | 12.95 |
 | <img src="https://images.craigslist.org/00000_emwylBhuMAD_0CI0t2_300x300.jpg" width="120"> | 7969735398 | $20 | kansascity | [Antique Wood Toolbox](https://www.craigslist.org/view/d/farley-antique-wood-toolbox/ugTdKfg9SkbwYq71EiL9py) | Vintage Metal Tray Red Handle Old Metal Tool Tray Tool ... | 258 | 12.9 |
-| <img src="https://images.craigslist.org/00Z0Z_fSTUNIYs2Uh_0t20CI_300x300.jpg" width="120"> | 7930151370 | $50 | newyork | [Vintage spotlight and tripod](https://www.craigslist.org/view/d/brooklyn-vintage-spotlight-and-tripod/a91y31z21oDmzFwZHdm67j) | Chairish | 644 | 12.88 |
-| <img src="https://images.craigslist.org/00b0b_4MRx7sWg9uW_0CI0t2_300x300.jpg" width="120"> | 7954745713 | $75 | wichita | [Vintage Porcelain Light Fixture](https://www.craigslist.org/view/d/great-bend-vintage-porcelain-light/b1M4UcHp7S5vWUhduZLx7a) | Socket / Fitter: Brown porcelain or ceramic socket cluster w | 950 | 12.67 |
