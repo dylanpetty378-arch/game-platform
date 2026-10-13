@@ -70,7 +70,7 @@ def harvest_and_select(hours, per_cycle):
     known = db.known_pids()
     # learn category weights from every Lens result so far (self-improving prioritisation)
     Lby = {str(r['pid']): r for r in db.read('listings')}
-    scoring.LEARNED = scoring.learned_weights(list(db.read('lens')), Lby)
+    scoring.LEARNED = scoring.learned_weights(list(db.read('events')), Lby)
     print('learned category weights:', scoring.LEARNED)
     fresh = [r for r in rows if str(r['pid']) not in known]
     scored = [(scoring.score(r), r) for r in fresh]

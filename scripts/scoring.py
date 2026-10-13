@@ -11,28 +11,35 @@ HELPER=re.compile(r"\b(estate|grandma|grandmother|grandpa|mom's|dad's|inherited|
 MODEL=re.compile(r'\b[A-Z]{1,4}-?\d{2,5}[A-Z]?\b|\b\d{3,5}[A-Z]{1,3}\b')
 # Category priors (from Runs 4-14: finds came from antiques, collectibles, jewelry, cameras, instruments, art, vintage
 # tools/fishing; furniture rarely clears Dylan's $750 furniture bar). cloud_cycle.py adds a LEARNED adjustment on top
-# from Lens results (see learned_weights) — the priors only matter until there is data.
+# from review outcomes (see learned_weights) — the priors only matter until there is data.
 CAT_PRIOR = {'ata': 2, 'atq': 2, 'cba': 1.5, 'jwa': 1.5, 'art': 1.5, 'pha': 1.5, 'msa': 1.5, 'tag': 1, 'emd': .5,
              'vga': .5, 'spo': .5, 'tls': .5, 'gms': .5, 'clo': 0, 'clt': 0, 'hab': 0, 'ele': 0, 'for': 0, 'hsd': 0,
              'hsh': -.5, 'sys': -.5, 'fua': -1.5, 'bik': -1, 'mpo': -1, 'mob': -1, 'boo': -1.5, 'bop': -1, 'rvs': -2, 'wan': -2}
 LEARNED = {}   # filled by cloud_cycle.learned_weights() before scoring
 
-def learned_weights(lens_rows, listings_by_pid, k=150):
-    """Per-category adjustment from Lens outcomes: share of lensed listings with a strong signal (match median >= $150
-    and >= 3x the asking price), compared with the overall share; shrunk toward 0 until a category has ~k results."""
+def learned_weights(events, listings_by_pid, k=60):
+    """Per-category adjustment from REVIEW outcomes (not Lens medians, which proved to be noise — Oct 13): share of
+    reviewed listings that became a lead (decided ask/find, or comps pass) vs the overall share; shrunk toward 0 until a
+    category has ~k reviewed listings."""
+    cur = {}
+    for e in events:
+        if e.get('stage') in ('photo_review', 'comps', 'decided'):
+            p = str(e['pid']); o = cur.get(p)
+            if o is None or (e.get('ts') or '') >= (o.get('ts') or ''): cur[p] = e
     tot = {}; hit = {}
-    for x in lens_rows:
-        c = (listings_by_pid.get(str(x.get('pid'))) or {}).get('cat')
+    for p, e in cur.items():
+        c = (listings_by_pid.get(p) or {}).get('cat')
         if not c: continue
         tot[c] = tot.get(c, 0) + 1
-        if (x.get('med') or 0) >= 150 and (x.get('ratio') or 0) >= 3: hit[c] = hit.get(c, 0) + 1
+        good = (e['stage'] == 'decided' and e.get('status') in ('ask', 'find')) or (e['stage'] == 'comps' and e.get('status') == 'pass')
+        if good: hit[c] = hit.get(c, 0) + 1
     n_all = sum(tot.values()); r_all = (sum(hit.values()) / n_all) if n_all else 0
     out = {}
     for c, n in tot.items():
         if not r_all: break
-        rel = (hit.get(c, 0) / n) / r_all            # 1.0 = average category
+        rel = (hit.get(c, 0) / n) / r_all
         adj = max(-2.0, min(2.0, 2.0 * (rel - 1.0)))
-        out[c] = round(adj * n / (n + k), 2)         # shrinkage
+        out[c] = round(adj * n / (n + k), 2)
     return out
 
 # SIZE RULE (Dylan, Oct 12 2026): only items that fit in a car's passenger seat (a little bigger at most). Anything bigger
