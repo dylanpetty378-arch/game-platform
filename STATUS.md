@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T12:53:13Z
+# Refurbish status — 2026-10-13T12:56:48Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1528 |
-| lensed | 523 |
-| flagged | 424 |
+| queued | 1503 |
+| lensed | 539 |
+| flagged | 433 |
 | queued/relens | 349 |
 | decided/ask | 37 |
 | expired | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 4712
-- events: 14647
+- lens: 4737
+- events: 14672
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (424)
+## Flagged by Lens, waiting for photo review (433)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -103,6 +103,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01212_2x8bJrQx0kQ_0t90CI_300x300.jpg" width="120"> | 7949505698 | $25 | portland | [Vintage metal enamel brooch](https://www.craigslist.org/view/d/gig-harbor-vintage-metal-enamel-brooch/9ooVEuvvekU85JbUuRNEDz) | Craigslist | 1500 | 60 |
 | <img src="https://images.craigslist.org/00202_1QVDSvKda0l_0CI0t2_300x300.jpg" width="120"> | 7955167430 | $20 | scottsbluff | [Virtual Garage Sale-Leaf Decorations](https://www.craigslist.org/view/d/timnath-virtual-garage-sale-leaf/uTbXshNwczJ9aS4z2vnrZz) | Lowe's | 1200 | 60 |
 | <img src="https://images.craigslist.org/00x0x_g3KXGZIUGnE_0CI0t2_300x300.jpg" width="120"> | 7955430022 | $70 | plattsburgh | [Vintage Crouse Hinds spotlights](https://www.craigslist.org/view/d/beaver-falls-vintage-crouse-hinds/mYkVCYa3qgWyui6QiCPgxL) | Crouse Hinds Industrial Mid-century Modern Maritime Flood .. | 3600 | 51.43 |
+| <img src="https://images.craigslist.org/00A0A_31xvl0gGx8C_0t20CI_300x300.jpg" width="120"> | 7975974501 | $10 | pittsburgh | [AVON Eternity Necklace](https://www.craigslist.org/view/d/pittsburgh-avon-eternity-necklace/7PPv8nujGQqzZNY6o8SYZM) | Pandora | 499 | 49.9 |
 | <img src="https://images.craigslist.org/00x0x_d0eNgVQ4Mb0_0kX0o1_300x300.jpg" width="120"> | 7953218546 | $25 | dallas | [Beautiful CZ Gold over Sterling Silver Ring](https://www.craigslist.org/view/d/plano-beautiful-cz-gold-over-sterling/ccgEMAS7vww582QNw1WHRw) | 1pc Romantic Cubic Zirconia Ring, Women's Style, Suitable .. | 1131 | 45.24 |
 | <img src="https://images.craigslist.org/00D0D_f5byDhMITJ0_0t20CI_300x300.jpg" width="120"> | 7955850239 | $20 | vermont | [Vintage Cezanne Cultured Pearl Necklace by Richeli](https://www.craigslist.org/view/d/south-burlington-vintage-cezanne/fyUb8aCJPbMSpwsRnDBzbU) | Cezanne Pearls Necklace Beaded Vintage Case New / eBay | 903 | 45.15 |
 | <img src="https://images.craigslist.org/00808_3XegAVq1LeQ_0lN0CI_300x300.jpg" width="120"> | 7954432145 | $100 | flagstaff | [antique full bed set](https://www.craigslist.org/view/d/phoenix-antique-full-bed-set/mv7kMeqQW3NbALX3L2npeh) | Berkey & Gay COMPLETE Bedroom Set Full/Double, Chest ... | 4500 | 45 |
@@ -209,7 +210,6 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00d0d_jsVoupsjA8V_0lL0CI_300x300.jpg" width="120"> | 7932003815 | $40 | shreveport | [Vintage floor lamp](https://www.craigslist.org/view/d/sulphur-springs-vintage-floor-lamp/a5s9aUEyHoXgfvtM2qeNv5) | Etsy | 320 | 8 |
 | <img src="https://images.craigslist.org/00R0R_d8sO1sGaObm_0CI0jm_300x300.jpg" width="120"> | 7941819964 | $60 | maine | [VINTAGE RUSTIC WOODEN BOX](https://www.craigslist.org/view/d/center-ossipee-vintage-rustic-wooden-box/dBWj49C4SyBkXEcpmiicgC) | 19th Century Original Painted Dovetailed Document Box / Chai | 479 | 7.98 |
 | <img src="https://images.craigslist.org/00a0a_2VhynyHhtco_0CI0t2_300x300.jpg" width="120"> | 7947324009 | $50 | denver | [Vintage Nishiki International Frameset](https://www.craigslist.org/view/d/florence-vintage-nishiki-international/67HQKdm1Ms7UmrZYNe3qnC) | 1979 Schwinn original Le Tour 27" bicycle frame vintage ... | 396 | 7.92 |
+| <img src="https://images.craigslist.org/00808_3ZWGPgsyWjn_0lM0t2_300x300.jpg" width="120"> | 7950846935 | $70 | albany | [CANES AND POTTERY HOLDER - Moving](https://www.craigslist.org/view/d/schenectady-canes-and-pottery-holder/rhyy21c6oamUbeVphsCzMn) | Pinterest | 550 | 7.86 |
 | <img src="https://images.craigslist.org/01010_4L8D9I757x3_0lM0t2_300x300.jpg" width="120"> | 7938275928 | $75 | dallas | [Vintage Italian Tulipier Vase](https://www.craigslist.org/view/d/bedford-vintage-italian-tulipier-vase/dGVcAe74TQHhAC362HebJy) | Etsy | 589 | 7.85 |
 | <img src="https://images.craigslist.org/00T0T_27qK19htCyi_0t20CI_300x300.jpg" width="120"> | 7945414947 | $10 | miami | [Vintage Tripod](https://www.craigslist.org/view/d/fort-myers-vintage-tripod/8yN482etqxEX3gPp9kNKzP) | Bilora Stabilo Mod. 1114 Extendable Tripod - Camera ... | 78 | 7.8 |
-| <img src="https://images.craigslist.org/00000_5wSmhhwohNX_0t20CI_300x300.jpg" width="120"> | 7945745921 | $10 | cleveland | [Antique Pepsi Crate](https://www.craigslist.org/view/d/medina-antique-pepsi-crate/7L7i89kDkyMR7wLjjYySB2) | 24 Wine crate project ideas / pochade box for painting ... | 75 | 7.5 |
-| <img src="https://images.craigslist.org/00Z0Z_cGnZE0xP9xu_0CI0t2_300x300.jpg" width="120"> | 7928521846 | $50 | buffalo | [VINTAGE FOOTLOCKER/HINGED TOP CRATE](https://www.craigslist.org/view/d/ontario-center-vintage-footlocker/6XaLUhwFYaiwToKavDzDF4) | Vintage Military Footlocker: Rustic Wooden Storage Trunk ... | 375 | 7.5 |

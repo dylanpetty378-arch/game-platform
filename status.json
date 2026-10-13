@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:53:13Z",
+ "updated": "2026-10-13T12:56:48Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4712,
-  "events": 14647,
+  "lens": 4737,
+  "events": 14672,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 523,
-  "queued": 1528,
+  "lensed": 539,
+  "queued": 1503,
   "comps/pass": 1,
   "decided/ask": 37,
   "queued/relens": 349,
-  "flagged": 424,
+  "flagged": 433,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -411,6 +411,17 @@
    "best": "Crouse Hinds Industrial Mid-century Modern Maritime Flood ...",
    "med": 3600,
    "ratio": 51.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975974501",
+   "title": "AVON Eternity Necklace",
+   "price": 10,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-avon-eternity-necklace/7PPv8nujGQqzZNY6o8SYZM",
+   "best": "Pandora",
+   "med": 499,
+   "ratio": 49.9,
    "ai_value": ""
   },
   {
@@ -1580,6 +1591,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950846935",
+   "title": "CANES AND POTTERY HOLDER - Moving",
+   "price": 70,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/schenectady-canes-and-pottery-holder/rhyy21c6oamUbeVphsCzMn",
+   "best": "Pinterest",
+   "med": 550,
+   "ratio": 7.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7938275928",
    "title": "Vintage Italian Tulipier Vase",
    "price": 75,
@@ -1928,6 +1950,28 @@
    "url": "https://www.craigslist.org/view/d/goodview-old-shop-vices/jPZDkrJ26P2m4y2Ta77fpA",
    "best": "Bench Vises: Heavy-duty, cast-iron parallel or utility bench vises with prominent screw handles, fixed or swiv",
    "med": 300,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951616500",
+   "title": "Momo  mens watch \u2026",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/richmond-hill-momo-mens-watch/vUiZaeJx6dNKH6X9aMZBXs",
+   "best": "Rare & Collectable Watches - Vintage Original Burberry Men's ...",
+   "med": 150,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945382559",
+   "title": "PAINTING Oil Original Vintage Framed 24\"x27\"",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/painting-oil-original-vintage-framed/6eEgEPqJfxkY1tkP6dmANh",
+   "best": "OfferUp",
+   "med": 600,
    "ratio": 6,
    "ai_value": ""
   },
@@ -2746,6 +2790,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944870322",
+   "title": "Vintage Pressed Glass Square Bowl, 7\"",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-pressed-glass-square/gWA2CxNbThbfJfKZSk6mxd",
+   "best": "Vintage Oblong Antique Brilliant Cut Crystal Bowl with ...",
+   "med": 60,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7930536832",
    "title": "Vintage Fire Extinguisher",
    "price": 75,
@@ -3274,6 +3329,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977814173",
+   "title": "Match Book collection",
+   "price": 75,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/dunedin-match-book-collection/hsATPKEkiofaFsxwtKjM5S",
+   "best": "Aquarium for sale in Keller, Texas | Facebook Marketplace",
+   "med": 221,
+   "ratio": 2.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7970393529",
    "title": "Antique binoculars",
    "price": 100,
@@ -3402,6 +3468,17 @@
    "url": "https://www.craigslist.org/view/d/zephyrhills-vintage-brass-fire/sNGXtK4ApLieM9AquTyVpw",
    "best": "The Captain\" Vintage Copper & Brass Fire (empty ...",
    "med": 84,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929369436",
+   "title": "2 antique Qing Dynasty 4-crab plates - $50 each",
+   "price": 50,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-antique-qing-dynasty-crab/swpi7ChnnrX7vVyoSDP9jV",
+   "best": "Crab Accents: The rim of each plate is decorated with stylized, comic-style blue-and-white crabs (often associ",
+   "med": 140,
    "ratio": 2.8,
    "ai_value": ""
   },
@@ -3989,6 +4066,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981112253",
+   "title": "Beautiful Gibson Maestro Guitar",
+   "price": 80,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/bastrop-beautiful-gibson-maestro-guitar/3aRftxSQJjHdXn78NHg331",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7933423679",
    "title": "Vintage baldor grinder",
    "price": 100,
@@ -4526,6 +4614,17 @@
    "med": 136,
    "ratio": 0.78,
    "ai_value": ""
+  },
+  {
+   "pid": "7972526454",
+   "title": "Vintage Aynsley Orchard Gold Teacup and Saucer Set - Burgundy Red - Signed by D.",
+   "price": 160,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/escondido-vintage-aynsley-orchard-gold/nLhtd6Ui4zMNZ737MFdgrJ",
+   "best": "Aynsley Bone China Cup and Saucer, Hand Painted Floral ...",
+   "med": 118,
+   "ratio": 0.74,
+   "ai_value": "Value: Typically sells on the secondary market between $60"
   },
   {
    "pid": "7943440546",
