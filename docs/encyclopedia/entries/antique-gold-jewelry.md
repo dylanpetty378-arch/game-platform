@@ -115,6 +115,9 @@ say "Victorian style" unless the fastenings and construction agree; never call u
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$6 out − ~$6 in − price ≥ max($50, price). Only buy when the karat mark and weight are confirmed and the price is at or below melt plus about 20%, or for a clearly antique premium piece at ≤ ~30% of resale. Signed high-end pieces need professional authentication, which is outside Dylan's model.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): a pierced-lattice 14k initial ring like 7970681433 is ~1.5-2.5 g; at $1 "make an offer" listings, ask the gram weight before offering — melt sets the ceiling.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.1, "shape": "set-of-many",

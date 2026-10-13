@@ -66,6 +66,9 @@ Show the back mark and any artist signature/date; describe the motif, diameter, 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$15) − ship to Dylan (~$15) − price ≥ max($50, price). Needs a ~$95+ sold piece. Buy only Pickard (pre-1938 hand-painted), Stouffer, Donath, genuine R.S. Prussia molded pieces, or Nippon moriage/portrait at ≤ $40, after seeing the back mark. Pass amateur fruit/flower plates, relish dishes, single cups and decal chocolate pots at any price above ~$5 each. No repairs or cracked pieces.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Green backstamps on decal-rose chocolate pots are RS Germany / Bavaria era (post-1910) — only the RED wreath-and-star RS Prussia mark carries the $100-400 money; ask for a sharp photo of the mark before paying over $30.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "flat",

@@ -26,6 +26,24 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (15:20–16:00) — triage round 6 under the no-generalization rule; golden-egg tells begin
+- Triage: 1,773 rows (1,030 lensed + 743 flagged), 8 agents, every verdict naming the specific variant. 1,760 kills,
+  13 asks, 0 buys. Best asks: Lionel postwar lot $50 with a 6520 searchlight car whose generator is ORANGE (scarce
+  vs maroon/grey) → Tier A if they run; Kalo Shop hand-wrought sterling bracelet in the 222 S. Michigan box at $199
+  (offer $120); Watt Pottery #16 pitcher in the scarce Tulip pattern at $20; a Campagnolo Nuovo Record crank at $90
+  (offer $60); a 14k-stamped ring at "make offer"; a possible 1930s Dunhill Unique in a $65 lighter lot.
+- The specific tells that decided kills are now field notes (56 added): Zap Comix #1 25¢ Plymell vs 35¢ Apex; Ping
+  Zing 85020 vs 85029 Scottsdale; Dubl Duck Goldedge vs Special No.1; Shirley Temple 1972 vinyl vs 1930s composition;
+  Lens "best" was wrong on nearly every photo-checked flagged row.
+- Golden-egg tells: 48 entries (the most-seen non-dead types) now have `### Golden-egg tells`, the specific variants
+  worth multiples and how to see them in a photo (e.g. Illinois Bunn Special "23 Jewel 60 Hour" dial; Hummel "/X"
+  jumbo suffix; Trifari jelly belly; Red Wing cobalt butterfly; Accutron Spaceview). 559 entries still need the
+  section (`enc.py lint --tells`); next batches go in order of sightings.
+- New-entry candidates from this round: Watt Pottery, underground comix, Stromberg-Carlson wood deco phones,
+  vintage Ray-Ban B&L (16 lines in research/new-type-candidates.md).
+- Standing idea (agent): types that only fail on the $50 floor at $20–65 asks (Watt, Czech Deco glass, Toshikane)
+  are worth a ≤$15–20 standing search.
+
 ### 2026-10-13 (14:00–15:10) — the website, and eBay comps from the cloud
 - **Refurbish website** is live at a hidden path on the Vectus site (URL in the claude.ai project; `spec/refurbish.md` in
   the Vectus repo). Own Postgres database beside the game's, own code, no shared tables. Pages: dashboard, leads,

@@ -58,6 +58,9 @@ State maker, model, length, loft/lie if known, sole stamping, grip, headcover, R
 ## Buy rule
 Buy when: Scotty Cameron ≤ $100, Ping Scottsdale ≤ $80, Sacks Parente ≤ $60, hickory Nicoll/Stewart ≤ $25. Pass when: seller names the model and asks within 30% of market. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Ping manganese-bronze/BeCu blade putters: the Cushin and Anser are the ones with resale; a Slazenger BeCu blade from the same era is $40-60.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 2, "shape": "tall", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 1, "testability": 3, "repro_risk": 3, "id_difficulty": 3, "rarity": 2, "sold_per_month": "?", "sell_through": "?", "days_to_sell": 14, "price_p25_p50_p75": [50, 150, 300], "price_spread": 6.0, "condition_sensitivity": 2, "seasonality": "spring (general knowledge)", "best_platform": "eBay / GolfWRX", "fees_pct": 13, "ship_cost_to_buyer": 22, "undervalue_frequency": 2, "bust_probability": 35, "expected_profit_typical": 0, "confidence": "medium"}

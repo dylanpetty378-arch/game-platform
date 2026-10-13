@@ -1,5 +1,5 @@
 # Vintage fishing reels (casting, spinning, saltwater) and bamboo rods (Pflueger, ABU Ambassadeur, Penn, Newell, Shimano, Tiburon, Vom Hofe, Meek, Montague, South Bend, Heddon)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge; Old Reel Collectors Association (ORCA) price knowledge; Lang's auction results; complements the fly-reels, bamboo-fly-rods, vintage-casting-reels and spinning-and-conventional-reels entries
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge; Old Reel Collectors Association (ORCA) price knowledge; Lang's auction results; complements the fly-reels, bamboo-fly-rods, vintage-casting-reels and spinning-and-conventional-reels entries · tells 2026-10-13
 Slug: vintage-fishing-reels · Aliases: old fishing reels, box of old reels, saltwater reel, Penn Senator, Ambassadeur, Newell, Trinidad, bamboo fly rod, Montague rod, rod ends
 Summary: Zebco/Shakespeare/Olympic/unmarked nickel reels and rods missing tips $5–30; Pflueger Supreme, Penn Senator 4/0, Ambassadeur 5000/6000, complete Montague rod $40–150; Newell, Trinidad, Tiburon 2-speed, Ambassadeur 2500C/1750A, Penn Internationals $150–450; Vom Hofe, Meek, Talbot, Hardy Perfect, Penn International 130 $500–3,000.
 Buy rule (short): Lots with a visible Ambassadeur/Penn Senator/Newell under $30; complete Montague/South Bend bamboo in tube under $40; pass per-reel market pricing and rod "ends".
@@ -28,6 +28,16 @@ Buy rule (short): Lots with a visible Ambassadeur/Penn Senator/Newell under $30;
 - **Edward Vom Hofe** (NY), **B.F. Meek, B.C. Milam, Talbot** (Kentucky): antique, hand-made, top.
 - **Hardy Perfect**: see fly-reels.
 - **Rods**: Montague (production bamboo, Splitswitch and others), South Bend, Heddon. Higher-end bamboo makers are in bamboo-fly-rods.
+
+### Golden-egg tells
+- Record Ambassadeur 5000, green 1951–52 test reel — exceptionally rare, well above the $150–1,000+ early-red band — green side plates, no SG mark on the tailplate, aluminium brake plate (https://realsreels.com/reels/ambassadeur/The5000story.html ; entry)
+- Record Ambassadeur 5000, black 1953–57 — top of the early band ($150–1,000+) vs $40–150 for a 1960s–70s red 5000 — black plates with grey brake plate and black star wheel; "Record" (not "ABU") on the plate = pre-1957 (https://realsreels.com/reels/ambassadeur/The5000story.html ; entry)
+- Red 5000 marked "Record Ambassadeur" with no serial (pre-1956) — ~3–7× vs a serialised 1960s–70s 5000 — "Record" on the side plate, no serial number stamped on the foot (https://realsreels.com/reels/ambassadeur/The5000story.html ; entry ladder)
+- E. Vom Hofe Restigouche salmon reel — $600–1,000 est. vs $15–35 for a nickel casting reel — hard-rubber side plates with German-silver rims, "E. VOM HOFE" and patent dates on the head cap (https://www.liveauctioneers.com/catalog/389072_fall-fishing-tackle-auction/)
+- Henshall-Van Antwerp casting reel, tail plate "Thos. H. Chubb Pat'd Sept. 27 '87" — $400–500 est. vs $15–35 — read the tail-plate stamping (https://www.liveauctioneers.com/catalog/389072_fall-fishing-tackle-auction/)
+- Talbot No. 2 solid nickel-silver "Talbot Reel & Mfg. Co.", Meek & Milam No. 2 German silver, B.C. Milam "Frankfort Kentucky Reel" with jewelled end caps — $200–400 est. vs $15–35 — unplated silver-white metal, Kentucky maker name stamped on the plate, jewelled (red stone) end caps on Milam (https://www.liveauctioneers.com/catalog/389072_fall-fishing-tackle-auction/)
+- Shimano Trinidad TN40 — ~3× vs a Penn Senator 4/0 ($300–420 vs $40–150) — gold one-piece frame, "TRINIDAD 40" on the side plate (entry comp)
+- Pflueger prototype with scratched job number ("Job 41553 - Model B - 4/2/40") — $100–150 est. vs $15–35 for a production Pflueger — hand-scratched job/model/date on the foot or plate (https://www.liveauctioneers.com/catalog/389072_fall-fishing-tackle-auction/)
 
 ## Materials, finishes and quality tells
 - German silver, hard rubber side plates and hand-engraving = antique. Graphite and anodised aluminium frames = modern big-game (Newell, Tiburon).
@@ -80,6 +90,7 @@ Pass when: the seller lists per-reel market prices; rods are described as "ends/
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (a 60" rod tube fits lengthwise).
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): Ambassadeur 4500CS, 5500C, 6000C, 5600AB (1970s-80s Sweden) sell $40-80 each; sellers listing them individually by model number price at market ($30/reel is not a lot price)
 - 2026-10-13 (triage): A Garcia Mitchell 300 box and manual without the reel shows up as "Old mitchell reel" at $60. Check the photo for an actual reel before reading the title as a reel.
 
 ## Rubric

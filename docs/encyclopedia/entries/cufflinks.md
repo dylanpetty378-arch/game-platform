@@ -77,6 +77,9 @@ Name the maker and the exact stamp as it reads (e.g. "toggle stamped SWANK", "st
 ## Buy rule
 Profit = median × 0.87 − ~$5 − ~$5 − price ≥ max($50, price). Base-metal pairs never qualify. Stamped 14k qualifies if price ≤ melt/2. Luxury brands need professional authentication → pass. Fits easily.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Toshikane Japan porcelain Noh-mask (Okina, white brows and beard) cufflinks with sterling backs — $60-110 no comp; need a $20 buy to work.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.1, "shape": "set-of-many",

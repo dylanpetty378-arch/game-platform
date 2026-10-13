@@ -66,6 +66,9 @@ Profit = sold median × 0.87 − ship to buyer (~$10–20) − ship to Dylan (~$
 - Folk dolls that look truly 19th century: needs specialist confirmation — outside the "no professional authentication" rule unless very cheap.
 - Fits passenger seat: yes.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): The Bull Durham "My! It shure am sweet tastan" General Store porch scene, ~20x24 on card stock, is the standard 1970s reproduction poster; treat as repro unless a lithographer imprint and pre-1920 paper are proven.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "irregular",

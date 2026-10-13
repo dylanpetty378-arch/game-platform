@@ -52,6 +52,9 @@ State set, year, card numbers, condition honestly; sell commons as complete sets
 ## Buy rule
 Profit = resale × 0.87 − ~$5 out − ~$5 in − price ≥ max($50, price). 1990s commons: always pass. Vintage/sealed only with verified sold comps; avoid "needs grading" bets (professional authentication excluded by rule).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Zap Comix #1 (R. Crumb) — only the Feb 1968 Charles Plymell first printing is the money ($500–2,000): 25¢ cover price, "Printed by Charles Plymell" on the inside front cover, no Apex Novelties logo. The Apex Novelties 35¢ cover is the 2nd–4th printing (1968–69), $40–100; 50¢/$1+ covers are 1970s+ reprints under $30. No encyclopedia entry exists for underground comix — worth writing one (Zap, Mr. Natural, Fabulous Furry Freak Brothers; first-printing tells are cover price + printer credit).
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.2, "shape": "set-of-many",

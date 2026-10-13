@@ -1,5 +1,5 @@
 # Hall China teapots & tea sets (Hall China Co., East Liverpool OH; Jewel Tea Autumn Leaf; Hallcraft / Eva Zeisel)
-Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · Sources: kovels (donut shape history), Whitmyer Collector's Encyclopedia of Hall China (reference), eBay sold memory 2024-25; Museum of Ceramics (East Liverpool) Hall teapot galleries https://themuseumofceramics.com/hall2 and https://themuseumofceramics.com/aladdin ; Chipstone "Ceramics in America" 2005 (Hall rhinestone grape teapot, marks) https://chipstone.org/html/publications/CIA/2005/Austin/bigwin/77Abw.html ; Post-Bulletin (Sandy Erdman) on Autumn Leaf https://www.postbulletin.com/lifestyle/sandy-erdman-fall-themed-dinnerware-may-leaf-you-wanting-more
+Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · tells 2026-10-13 · Sources: kovels (donut shape history), Whitmyer Collector's Encyclopedia of Hall China (reference), eBay sold memory 2024-25; Museum of Ceramics (East Liverpool) Hall teapot galleries https://themuseumofceramics.com/hall2 and https://themuseumofceramics.com/aladdin ; Chipstone "Ceramics in America" 2005 (Hall rhinestone grape teapot, marks) https://chipstone.org/html/publications/CIA/2005/Austin/bigwin/77Abw.html ; Post-Bulletin (Sandy Erdman) on Autumn Leaf https://www.postbulletin.com/lifestyle/sandy-erdman-fall-themed-dinnerware-may-leaf-you-wanting-more
 Slug: hall-china-teapots · Aliases: Hall teapot, vintage teapot gold trim, Jewel Tea Autumn Leaf, Hall's Superior Quality Kitchenware, Hall Aladdin, Hall Donut teapot, Hall Automobile teapot, Hall gold decorated teapot, Hall Gold Label, Hall Birdcage, Hall Airflow, Hall Windshield, Hall Bru-O-Lator, McCormick teapot
 Summary: Boston/New York shapes in common colours and restaurant-ware $15–40; gold-decorated Windshield/Hollywood, Autumn Leaf Aladdin, 3-pc sets $40–90; Donut, Nautilus, Rhythm, Birdcage, Airflow in cobalt/red $150–400; Automobile, Football, Basketball, Basket in rare colours $400–1,500.
 Buy rule (short): Novelty shape ≤ $60 with no chips; pass Boston/New York/Philadelphia over $15.
@@ -39,6 +39,16 @@ Photo checklist by shape (dates from the Museum of Ceramics, East Liverpool, unl
 - Autumn Leaf backstamp with "1978" = leftover/late stock; unfamiliar Autumn Leaf shapes may be post-1990 production.
 - Weight: genuine Hall is heavy and glassy; a light, unmarked donut is the Chinese lookalike.
 - Look for chips at spout tip, lid flange and finial; Hall glaze shows chips as white body.
+
+### Golden-egg tells
+- Automobile shape (1938) — ~$600+ vs ~$20 for a green Boston (~30×) — car body with the spout as the bonnet and the lid as the roof; 1993 Autumn Leaf version is a commemorative, not the 1938 pot (entry comp)
+- Nautilus (1939) in cobalt — ~$250 vs $20 (~12×) — shell-spiral body; the 1999 East Liverpool Alumni reuse of the mould carries a dated mark (entry comp)
+- Football shape — $75 median vs $20 (~4×) — pointed-oval football body with lacing lines in gold (entry comp)
+- Star / Streamline with gold stars in Chinese red — $195 vs $35 for the same shape in dark green (~5×) — the colour, not the shape, is the multiplier; red body with gold stars (https://www.grandforksherald.com/newsmd/teapots-remain-a-popular-collectible)
+- Donut (1938) in Chinese red or cobalt — $150–400 vs $8–15 for the Chinese blue-and-white lookalike (~20×) — heavy glossy ring body with "HALL" circle mark; the lookalike is light and unmarked (https://kovels.com/?p=2291867)
+- Airflow (1938–40) in cobalt with gold flowers or Marine — $150–400 vs $40–90 gold-decorated Windshield (~3×) — teardrop streamline body, 6- or 8-cup, blue body with gold decoration code on the base (https://www.ebay.de/itm/403813476328)
+- Birdcage (1938) with open-ring finial — $150–400 vs the 1990s closed-finial reissue — embossed birds in a cage, open ring on the lid (entry comp)
+- Sani-Grid / Pert and other 1940s shapes in Chinese red — ~2–3× vs the same shape in green/yellow — flat red glaze with white interior (https://www.ebay.de/itm/277137297908)
 
 ## Materials, finishes and quality tells
 Hall's single-fire vitrified china is heavy, non-crazing and very glossy. Gold decoration (gold label line) wears with washing. Base stamps changed over time; the circle "HALL" and "Superior Quality Kitchenware" are the common ones (general knowledge, verify). Chinese-made lookalike donut teapots are lighter and unmarked.

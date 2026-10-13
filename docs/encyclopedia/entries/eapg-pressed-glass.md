@@ -68,6 +68,9 @@ Profit = sold median × 0.87 − ship to buyer − ship to Dylan − price; pass
 - Heisey marked near-cut punch set complete with cups: buy at ≤ $40 if resale ≥ $200 and local pickup is possible.
 - Size: small pieces yes; punch bowls are borderline but fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Lens calls any frosted/clear covered compote "Duncan Three Face"; Three Face has three women's faces on the stem. A frosted-band compote with a butterfly finial is the common "Frosted Ribbon" family, $30-60.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 8, "shape": "round",

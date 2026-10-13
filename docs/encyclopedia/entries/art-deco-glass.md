@@ -73,6 +73,9 @@ State measurements, weight, any mark (photograph it), ground/polished pontil, en
 ## Buy rule
 Pass unless profit = sold median × 0.87 − ~$15 to buyer − ~$15 to Dylan − price ≥ max($50, price). With unsigned pairs selling ~$40–110 median, the most you can pay is about $10–25: effectively pass on unsigned pairs. Buy signed pieces (photo of mark required) at ≤ 1/3 of the tier's low end. No chips, no ground rims. Fits passenger seat easily. No authentication needed for Czech; for R.LALIQUE, require a clear photo of the signature and compare to known model marks — if in doubt, pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): 1920s-30s Czech "Egyptian/Aztec revival" green chrysoprase-glass necklaces, marked "Made in Czechoslovakia" on a plated filigree back, sell $80-150; geometric panels + dangling bars is the tell. Needs a sub-$40 buy.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "tall",

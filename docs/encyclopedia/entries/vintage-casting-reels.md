@@ -74,6 +74,10 @@ Buy when: the lot price is ≤ $6/reel and at least one Pflueger Supreme / Ambas
 Pass when: the lot is plastic tackle boxes of modern lures; the seller already names Supreme/Ambassadeur.
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Pflueger Pelican 1020 and Norka 1335 are $15-30 reels; sellers listing per-reel at these prices leave nothing.
+- 2026-10-13 (triage): Shakespeare Criterion 1960 model BA and Pflueger Trump 1943 are the $10–25 tier, confirming the entry's "plain Shakespeare/Pflueger" line.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "set-of-many", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 2, "repro_risk": 2, "id_difficulty": 3, "rarity": 2, "sold_per_month": 3000, "sell_through": "?", "days_to_sell": 30, "price_p25_p50_p75": [10, 25, 50], "price_spread": 5, "condition_sensitivity": 3, "seasonality": "spring (Mar–Jun) peak", "best_platform": "eBay; Lang's auction for Kentucky reels", "fees_pct": 13, "ship_cost_to_buyer": 10, "undervalue_frequency": 3, "bust_probability": 45, "expected_profit_typical": 10, "confidence": "low"}

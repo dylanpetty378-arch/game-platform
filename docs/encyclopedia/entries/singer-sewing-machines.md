@@ -71,6 +71,9 @@ Title: "Singer [model] [year from serial] Sewing Machine [Featherweight/head] Se
 ## Buy rule
 Buy when: a Featherweight is under ~$120, or a 15-91 is under $40. Pass when: everything else, unless free. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat: portables and heads do; treadles and cabinet machines are bigger and excluded.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): cast-iron hand-crank Singer 28/128 and 66/99 class machines are heavy $40-80 items; the one worth shipping is the aluminium Singer 221/222 Featherweight (small, black, folding bed).
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 16, "shape": "irregular", "fragility": 2, "transit_damage_risk": 3, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 1, "id_difficulty": 2, "rarity": 2, "sold_per_month": 400, "sell_through": 45, "days_to_sell": 14, "price_p25_p50_p75": [80, 200, 335], "price_spread": 4.2, "condition_sensitivity": 4, "seasonality": "Oct–Mar (quilting season)", "best_platform": "eBay; Etsy/FB groups for Featherweights; local for full-size heads", "fees_pct": 13, "ship_cost_to_buyer": 40, "undervalue_frequency": 2, "bust_probability": 35, "expected_profit_typical": 20, "confidence": "low"}

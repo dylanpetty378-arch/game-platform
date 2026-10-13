@@ -1,5 +1,5 @@
 # Disc music boxes (Thorens AD30, Regina, Symphonion, Polyphon, Reuge/Porter)
-Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · Sources: Harry Rinker col. 1371 (Thorens AD30 2013 sold prices) https://harryrinker.com/col-1371.html , 1stdibs/chairish listings, collectorsweekly, Terapeak (Thorens AD30, Oct 2026); Mechanical Music Digest 2009 (Don Caine on Thorens AD30, Reuge, disc compatibility, faults) https://www.mmdigest.com/archives/Digests/200912/2009.12.06.01.html ; Mechanical Music Digest 1995 (4.5" Thorens movement still made by Reuge, San Francisco Music Box Co. cases) https://www.mmdigest.com/Archives/Digests/199510/1995.10.30.09.html ; Renaissance Antiques, American Regina 15½" double comb https://www.renaissanceantiques.com/?p=5881 ; Seven Days VT on Porter Music Box Co. https://www.sevendaysvt.com/arts-culture/culture/boxing-brahms-porter-music-box-company/
+Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · Sources: Harry Rinker col. 1371 (Thorens AD30 2013 sold prices) https://harryrinker.com/col-1371.html , 1stdibs/chairish listings, collectorsweekly, Terapeak (Thorens AD30, Oct 2026); Mechanical Music Digest 2009 (Don Caine on Thorens AD30, Reuge, disc compatibility, faults) https://www.mmdigest.com/archives/Digests/200912/2009.12.06.01.html ; Mechanical Music Digest 1995 (4.5" Thorens movement still made by Reuge, San Francisco Music Box Co. cases) https://www.mmdigest.com/Archives/Digests/199510/1995.10.30.09.html ; Renaissance Antiques, American Regina 15½" double comb https://www.renaissanceantiques.com/?p=5881 ; Seven Days VT on Porter Music Box Co. https://www.sevendaysvt.com/arts-culture/culture/boxing-brahms-porter-music-box-company/ · tells 2026-10-13
 Slug: disc-music-boxes · Aliases: music box with discs, interchangeable discs, vintage music box, Thorens music box, Sorrento music box, Regina music box, Thorens AD30, Helvetia disc music box, Reuge disc music box, Polyphon, Symphonion, Reginaphone, Porter music box
 Summary: Sankyo cylinder boxes $10–30; Thorens AD30 with 5–10 discs $150–250 (Terapeak median $130); AD30 with 15–30 discs $250–400; Porter/Reuge 10" $800–2,500; antique Regina tabletop $1,500–4,000.
 Buy rule (short): Thorens AD30 + 15+ discs ≤ $75–100 (playing); 10"+ disc box with discs ≤ $200; pass broken teeth / no discs / "needs work".
@@ -30,6 +30,16 @@ Look-alikes: Sankyo/Reuge cylinder movements (pinned cylinder, no disc) in the s
 - Case: Sorrento inlay (olive wood) vs Thorens walnut vs late 10 × 10 domed SF Music Box Co. case.
 - Antique: logo under lid (Regina), single vs double comb, case wood, disc size, number of original discs.
 - Video of a full disc playing is the only real test.
+
+### Golden-egg tells
+- Regina 15½" tabletop (Style 10), carved oak or mahogany case with lithograph under the lid — ~10–30× vs a Thorens AD30 ($1,500–4,000 ladder; a rough example with a broken comb tooth and corroded bedplate still brought $700 at Schmitt-Horan) — 15.5" disc, children lithograph inside the lid, Regina logo (https://www.schmitt-horan.com/auctions/1019/html/items/23282.htm ; entry ladder)
+- Regina 15½" double comb — top of the tabletop band vs single comb — two combs side by side in the well, twice the teeth (https://www.renaissanceantiques.com/?p=5881 ; entry)
+- Regina Corona 15½" automatic changer, Regina Style 37 20¾" changer — $8,000–25,000 vs $130 — tall upright cabinet with a disc rack below the movement (https://www.renaissanceantiques.com/antique-category/musical-antiques/antique-disc-music-boxes/ ; entry ladder)
+- Polyphon 22" coin-operated upright on disc bin — £5,500 (incl. premium, Tennants 2024) vs $130 — coin slot on the case, 22" disc, matching disc cabinet underneath (https://antiquestradegazette.com/print-edition/2024/june/2645/auction-reports/polyphon-music-box-and-cello-in-tune-at-auction)
+- Porter 15½" (Randolph VT, 1974–) — $800–2,500 vs $130 — modern 15.5" disc box with "Porter" nameplate, Baroque or plain case (entry; https://www.renaissanceantiques.com/antique-category/musical-antiques/antique-disc-music-boxes/)
+- Thorens gramophone-style (horn case) with discs — ~3× vs AD30 ($388 vs $130) — brass horn on a wooden gramophone-shaped case, 4.5" discs (entry comp)
+- Thorens AD30 with 15–30 discs, box and instructions — ~2–3× vs a 5-disc AD30 ($250–400 vs $130) — count the discs in the photo; original box and leaflet visible (entry comp)
+- Anti-tell: Terapeak "Regina disc music box" median $55 is discs and parts, not boxes — a listing at that price with a photo of a disc only is a disc (entry comp)
 
 ## Materials, finishes and quality tells
 Steel comb with tuned teeth; damper wires under teeth on antique machines; steel punched discs. Thorens discs carry a yellow Thorens label and are interchangeable across AD30 boxes. Antique cases: solid oak/mahogany, often carved or with a lithograph lid print. Sorrento boxes: olive-wood/marquetry inlay, "Made in Italy". Quality tell: full, clean tone with every note sounding (general knowledge, verify).
@@ -81,6 +91,9 @@ The Thorens AD30 is a Swiss disc music box from Sainte-Croix. It plays interchan
 
 ## Buy rule
 Buy when: Thorens AD30 + 15+ discs ≤ $100 (2026 Terapeak data says it clears comfortably only at ≤ $75), or any 10"+ disc box with discs ≤ $200 (confirm it plays). Pass when: broken comb teeth visible, no discs, or "needs work". Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Regina tabletops (40+ lb) are local-only; 27" uprights are bigger than a passenger seat and excluded.
+
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Regina discs sold loose: 11" (the early 1892/1893-patent marked ones) $15-30 each, 15.5" $25-50, 19-5/8" $40-75; a seller pricing 11" at $25 and 19-5/8" at $75 is already at retail.
 
 ## Rubric
 ```json

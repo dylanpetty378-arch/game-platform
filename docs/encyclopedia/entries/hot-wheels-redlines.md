@@ -54,6 +54,9 @@ Four-side and base photos, wheel close-ups, note any restoration, US/HK base, co
 ## Buy rule
 Profit = sold median × 0.87 − ~$5 ship to buyer per car − ~$6 ship to Dylan − price ≥ max($50, price). Works with groups: 3 decent cars (~$110 total) at ≤ $40 clears. Single common cars only at ≤ $10. Ask for wheel and base photos (restoration risk).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Ferrari 312P redline in red is the common colour ($20-35); value is in pink, purple and the white-enamel version.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.1, "shape": "set-of-many",

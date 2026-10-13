@@ -1,5 +1,5 @@
 # Vintage skateboards and collectible decks (Powell Peralta, Santa Cruz, Vision, G&S Fibreflex, Alva, Sims, Dogtown, Z-Flex)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay/Reverb-style browse Oct 2025 (Powell Peralta Ripper reissue, Santa Cruz Everslick, 1980s originals); sweep listings 2360, 2036; eBay sold knowledge 2024–25 (Vision Double Vision / Gator originals $150–400; Powell Ripper/Skull & Sword originals $300–1,000; 2000s–2020s reissues $60–120); Art of Skateboarding price references; surfertoday.com and concretewaves.com Fibreflex history; eBay listings for G&S Fibreflex Bowlrider/Teamrider decks (asks $250–600, 2025); run12 sheet 58; skateone.com reissue pricing; eBay/Reverb sold (agent knowledge Oct 2026); Terapeak G&S Fibreflex complete (2026-10-12)
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay/Reverb-style browse Oct 2025 (Powell Peralta Ripper reissue, Santa Cruz Everslick, 1980s originals); sweep listings 2360, 2036; eBay sold knowledge 2024–25 (Vision Double Vision / Gator originals $150–400; Powell Ripper/Skull & Sword originals $300–1,000; 2000s–2020s reissues $60–120); Art of Skateboarding price references; surfertoday.com and concretewaves.com Fibreflex history; eBay listings for G&S Fibreflex Bowlrider/Teamrider decks (asks $250–600, 2025); run12 sheet 58; skateone.com reissue pricing; eBay/Reverb sold (agent knowledge Oct 2026); Terapeak G&S Fibreflex complete (2026-10-12) · tells 2026-10-13
 Slug: vintage-skateboards · Aliases: vintage skateboard deck, OG deck, Bones Brigade, NOS deck, 70s skateboard, Fibreflex, Powell Peralta reissue, old school skateboard, collectible skateboard
 Summary: Toy/dept-store boards and used modern decks $10–40; reissues and worn 70s decks $40–200; 1980s pro originals and complete Fibreflex/Tracker/Kryptonics $200–1,200; NOS 80s in shrink, Dogtown/Alva/Z-Flex 70s $800–10,000.
 Buy rule (short): Buy confirmed 1980s originals ≤ $60–150 (see full rule), NOS reissue ≤ $40, 70s Fibreflex/Tracker/Kryptonics complete under $120; pass reissues ≥ $60 and sellers quoting eBay.
@@ -35,6 +35,18 @@ Sellers say "rare", "limited edition", "vintage", "OG", "NOS", "vintage 70s skat
 - **Nash, Roller Derby, Free Former, Variflex toy boards** (junk).
 - **Hardware**: Tracker Fultrack/Midtrack, Independent 169 ($40–80 used), Gullwing, Kryptonics wheels ($80–150 set),
   Bones/OJ wheels, Road Rider.
+
+### Golden-egg tells
+- Vision Gator "Swirl" first edition, NOS — ~10× vs the Vision reissue ($999 vs $60–120) — original top graphic still printed on the deck top and routed front/rear wheel wells; reissues have neither (https://skateandannoy.com/features/?p=1631)
+- Dogtown 1970s fiberglass-bottom pro decks (Biniak, Wes Humpston, Jim Muir Triplane) — ~10–20× vs a 1970s no-name with Trackers ($1,250–2,371 vs $100–200) — glossy fiberglass laminate on the bottom with the Dogtown cross, Gullwing Pro or Indy trucks (https://skateandannoy.com/features/?p=1631)
+- Powell Peralta Caballero "Dragon on Bearing" 1981 6-ply, or 1986 Chinese Dragon on the short-lived 7-ply fish shape — ~8× vs the Mexico-pressed reissue ($1,014 vs $90–140) — count plies on the edge; fish-shape outline with the Chinese Dragon = original (https://skateandannoy.com/features/?p=1631 ; https://www.ridingboards.com/?p=22634)
+- Powell Peralta Ray Rodriguez with Ray's signature instead of the Powell-Peralta script logo — pre-1983 original, Top tier $600–2,000 vs reissue $90–140 — signature in the graphic, bright flashy colours, 10"×30" Widetail or 10"×28.5" Snub Nose (https://www.ridingboards.com/?p=22634 ; entry ladder)
+- Santa Cruz Salba "Voodoo" hot pink colourway — ~2× vs the natural-wood Voodoo ($1,691 vs $788) and ~15× vs a used 80s rider deck — hot-pink dip under the graphic; Santa Cruz Neptune with mermaid tail (Mojo) $1,500 (https://skateandannoy.com/features/?p=584 ; ?p=1631)
+- Schmitt Stix John Lucero X1, NOS natural or near-mint red — $900–1,890 vs Black Label reissue — original Schmitt Stix shape; the Black Label reissue is a popsicle shape with a large Black Label graphic on the nose (https://skateandannoy.com/features/?p=584 ; ?p=1631)
+- Powell Peralta Mike Vallely "Elephant" NOS (white colourway) — $999–1,700 vs reissue $90–140 — white dip with unscratched shrink; Powell "Team Bug" with marching-ants background (not checkerboard) $760 (https://skateandannoy.com/features/?p=584 ; ?p=1631)
+- Sims Jeff Phillips "Breakout" first version — $787 vs used 80s rider deck $120–300 — 2-D lettering in the graphic with front and rear wheel wells and original plastics (https://skateandannoy.com/features/?p=1631)
+- Powell Peralta Frankie Hill "Pale Rider" 1992 NOS — $2,800 (45 bids) vs 1990s shop deck $40–150 — Clint Eastwood graphic, worn shrink still on (https://skateandannoy.com/features/?p=1631)
+- Anti-tell: deck stamped "Made in Mexico" with the Long 4 (2.5") truck pattern and SP3 concave — reissue, $60–140 — look for the stamp under the trucks (https://www.ridingboards.com/?p=22634)
 
 ## Materials, finishes and quality tells
 70s: fibreglass/maple laminates (Fibreflex), solid hardwood, aluminium, or plastic (toy boards). 80s: 7-ply maple, matte

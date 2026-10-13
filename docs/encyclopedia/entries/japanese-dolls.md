@@ -1,5 +1,5 @@
 # Japanese dolls (musha ningyo / gogatsu ningyo, hina ningyo, kimekomi, gofun-faced ichimatsu, hakata, kokeshi, geisha souvenir dolls; makers Yoshitoku, Kyugetsu, Mataro, Ningyo no Kyugetsu)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Yoshitoku doll history https://www.yoshitoku.co.jp/ ; Kyugetsu history https://www.kyugetsu.com/ ; Japanese Doll collector notes (Alan Scott Pate, "Japanese Dolls: The Fascinating World of Ningyo")) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Yoshitoku doll history https://www.yoshitoku.co.jp/ ; Kyugetsu history https://www.kyugetsu.com/ ; Japanese Doll collector notes (Alan Scott Pate, "Japanese Dolls: The Fascinating World of Ningyo")) — prices are estimates (general knowledge, verify)
 Slug: japanese-dolls · Aliases: samurai doll, warrior doll, Boys Day doll, musha ningyo, gogatsu ningyo, hina doll, girls day doll, geisha doll, kimono doll, ichimatsu, kokeshi, Hakata doll, doll in glass case
 Summary: Post-war souvenir geisha/samurai dolls in cases $15–60; better 1950s–80s musha ningyo with gofun faces and silk brocade $50–200; signed maker sets (Yoshitoku, Kyugetsu) and full hina sets $150–800; Edo/Meiji gofun dolls (gosho, ichimatsu, early musha) $300–3,000+; vintage kokeshi $10–80 (signed creative/sosaku $50–400).
 Buy rule (short): Buy pre-war (Meiji–Showa early) gofun dolls with original silk and tags, or signed maker dolls, at ≤ 30% of median; pass on souvenir dolls in glass cases unless ≤ $15 and shipped without the case.
@@ -17,6 +17,14 @@ Buy rule (short): Buy pre-war (Meiji–Showa early) gofun dolls with original si
 - **Yoshitoku** (Tokyo, since 1711), **Kyugetsu** (since 1835), **Mataro** (Kyoto) — tags or signed wooden fuda; mid-century pieces $150–600.
 - Paper labels "Made in Japan", "Nishi" (Nishi & Co. importer) = export souvenir.
 - Kokeshi artists: signatures on base (Sato Suigai, Kano Sansaku etc. for sosaku).
+
+### Golden-egg tells
+- Musha ningyo by Hara Shugetsu III (1826–1899), early Meiji — $27,500 (Theriault's) vs $80 median musha (~340×) — carved-wood head with gofun finish, glass eyes, seated on a leather camp stool, signed wooden plaque (fuda) with the artist's name (https://antiquesandthearts.com/theriault-the-golden-age-of-ningyo/)
+- Edo gosho ningyo with eboshi cap and the original labelled box or presentation ribbon — $500–5,000+ (entry top tier) vs $44 gosho-query median (~10–100×) — plump white gofun child, oversized head, original wood box with paper label (https://theriaults.com/events/listing/45256/japanese-seated-gosho-ningyo-with-eboshi-cap-and-original-labeled-box)
+- Ichimatsu ningyo with an artist seal mark (e.g. Shyunsai) — $150–800 (entry ladder) vs $40–70 1970s–80s gift ichimatsu (~5×) — red seal stamped on the body/back under the kimono, gofun skin with fine crackle, jointed body (https://theriaults.com/events/listing/45254/japanese-ichimatsu-ningyo-with-artist-seal-mark-of-shyunsai)
+- Sosaku kokeshi signed Toa Sekiguchi, 32.5 cm — $350 ask vs $20–60 common kokeshi (~8×) — artist signature brushed on the base, large size, matte painted kimono (https://napoleonexhibit.com/store/32-5cm-12-8-Japanese-Old-Sosaku-Kokeshi-Doll-signed-Toa-Sekiguchi-1942-_276033166450.html)
+- Yoshitoku / Kyugetsu / Mataro tagged mid-century dolls — $150–600 vs $80 (~3–7×) — maker's paper tag or signed wooden fuda on the stand, real silk brocade, lacquered armour plates (entry comp)
+- Mounted souvenir musha on a white horse in a glass case — $34 median — the glass case and foil armour are the low-tier tell, not a premium (entry comp)
 
 ## Materials, finishes and quality tells
 - Gofun face: luminous, slightly translucent, layered white; fine crackle with age. Plastic face: uniform glossy, mold seam.

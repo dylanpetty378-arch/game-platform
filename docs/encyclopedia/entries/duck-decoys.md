@@ -59,6 +59,9 @@ State species and sex, wood/cork/balsa, eye type, original vs repainted paint, k
 ## Buy rule
 Buy when: wood body with glass eyes and keel/weight and original crazed paint (old working decoy), or a bottom stamp (Mason, Evans, Herter's cork/balsa), at ≤ $40 each – expected sale $100–250 per the earlier write-up, but the Oct 2026 Terapeak median for unmarked glass-eye decoys is only $80, so at $35 profit is ~$40 and fails the rule; aim nearer $20–25 for unmarked singles. Pass when: plastic/foam lots, modern brands, anything "flocked", glossy decorative carving, painted eyes, no rigging, or heavily repainted. Stop and research when: a stamp is visible on the belly or the form is a shorebird/sleeper. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Plasti-Duk (Neumann & Bennetts, Berkeley CA, 1950s) inflatable plastic decoys sell $20-40 a pair; not carved-wood value.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 4, "shape": "irregular", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 4, "repro_risk": 3, "id_difficulty": 4, "rarity": 2, "sold_per_month": "?", "sell_through": "?", "days_to_sell": 30, "price_p25_p50_p75": [55, 80, 150], "price_spread": 2.7, "condition_sensitivity": 4, "seasonality": "Aug-Nov hunting season for working lots (general knowledge)", "best_platform": "eBay; decoy auction (Guyette & Deeter, Copley) for maker pieces", "fees_pct": 13, "ship_cost_to_buyer": 20, "undervalue_frequency": 3, "bust_probability": 40, "expected_profit_typical": 15, "confidence": "medium"}

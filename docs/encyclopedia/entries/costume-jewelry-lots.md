@@ -1,5 +1,5 @@
 # Costume jewelry and jewelry lots (signed: Trifari, Monet, Napier, Coro, Weiss, Sarah Coventry, Garne, Marvella, Vendome, Miriam Haskell, Schreiner, Juliana/DeLizza & Elster; unsigned and modern fashion jewelry)
-Updated: 2026-10-13 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "vintage costume jewelry lot", "garne jewelry" (3 yr), "disney couture key necklace", "sterling silver chain lot 925", "aurora borealis crystal bead necklace earrings set vintage", "signed rhinestone brooch weiss", "vintage chain belt cabochon", "vintage 1970s choker necklace lot", "givre cabochon leaf link belt" (no results))
+Updated: 2026-10-13 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "vintage costume jewelry lot", "garne jewelry" (3 yr), "disney couture key necklace", "sterling silver chain lot 925", "aurora borealis crystal bead necklace earrings set vintage", "signed rhinestone brooch weiss", "vintage chain belt cabochon", "vintage 1970s choker necklace lot", "givre cabochon leaf link belt" (no results)) · tells 2026-10-13
 Slug: costume-jewelry-lots · Aliases: vintage jewelry, jewelry lot, junk jewelry, estate jewelry, costume jewelry, rhinestone, brooch, broach, choker, faux pearls, bead necklace, demi parure, set, signed jewelry
 Summary: Modern fashion and unsigned pieces $5–25; mixed "vintage to modern" lots $20–45 (more by weight); signed mid-century sets and good rhinestone (Weiss, Garne, Sarah Coventry, Monet) $25–80; top designers (Haskell, Schreiner, Juliana, Eisenberg, Hobé) and sterling/gold content $80–400+.
 Buy rule (short): Pay for marks, metal content and sets, not for the word "vintage": buy lots only when photos show signed pieces, sterling/gold-filled stamps, or top-designer construction, at ≤ 30% of what the identifiable pieces sell for.
@@ -15,6 +15,18 @@ Buy rule (short): Pay for marks, metal content and sets, not for the word "vinta
 - **Mid tier ($25–80):** Weiss (Weiss brooch median $34), Garne (1940s–60s NY, "Garne Jewelry" mark; $8–80, median ~$24), Kramer, Lisner, Sarah Coventry sets, Marvella, Vendome, Monet signed chains (a lot of 8 Monet collars sold $250).
 - **Low tier ($5–25):** unsigned 1970s chains, AB bead sets (median $25), fashion rings, modern statement necklaces.
 - **Disney Couture (2000s–2010s):** licensed fashion jewelry, mostly $7–40; large ornate Kingdom key pieces new with tags occasionally $75–129.
+
+### Golden-egg tells
+- Trifari jelly belly figurals (1940s, Alfred Philippe) — $350–675 for spider/rabbit, $1,500–4,500 for poodle/Pekinese/parrot vs $5–25 for an unsigned pin (20–100×) — a clear Lucite "belly" cabochon set in a sterling or gilt animal body, back stamped "TRIFARI" + "STERLING" + "Des. Pat." number (https://www.antiquetrader.com/collectibles/jelly-belly-jewelry)
+- Coro Duette jelly belly (Angel Fish, Twinkling Twins, 1944) — $125–275 vs ~$30 for a single Coro pin (4–8×) — two matching clips sitting in a hinged double-pin frame, frame stamped "Coro Duette" with a Pat. number (https://www.antiquetrader.com/collectibles/jelly-belly-jewelry)
+- Schreiner New York (usually unsigned) — Terapeak brooch median $384, Daisy inverted $500 vs lot median $33 (~10×) — pointed stones set upside-down ("inverted", culet up), unfoiled stones, hook-and-eye linkage, layered dome construction (entry comp)
+- Juliana / DeLizza & Elster (never signed) — set median $66, book pieces $200 vs $25 AB bead set (2–8×) — five-link construction, figure-8 "puddling" at the joins, open-back unfoiled stones, dangling navettes (entry comp)
+- Miriam Haskell with the horseshoe tag (c. 1947–50s) or unsigned Frank Hess pieces — $200–600 asking vs $25 (8–20×) — horseshoe-shaped plaque stamped "Miriam Haskell", hand-wired glass beads and seed pearls on pierced filigree backplates, warm "Russian gold" brass (https://www.morninggloryjewelry.com/articles/gallery/haskell/?pi=2)
+- Boucher with the Phrygian-cap mark (1937–49) or "BOUCHER" + 4-digit inventory number — $325–375 sets, sterling bow $350 vs Coro set ~$42 (~8×) — tiny cap stamp or number like "8341P" on the back of each piece (https://collectingcostumejewelry101.com/?p=7357)
+- "EISENBERG ORIGINAL" + "STERLING" (1943–48, Ruth Kamke) — $150–250 vs Weiss median $34 (5–7×) — words struck into the metal, oversized Swarovski stones in heavy cast settings (https://collectingcostumejewelry101.com/?p=7357)
+- Hobé double-struck sterling (1940s) — $300 vs $34 (~9×) — "HOBÉ" struck twice on the back, "STERLING", hand-wrought floral ribbon and bow work (https://collectingcostumejewelry101.com/?p=7357)
+- Signed Monet collars sold as a group — lot of 8 all signed $250 (~$31 each) vs unsigned 1970s chain $5 (~6×) — "MONET" cartouche on the clasp tongue or hang tag (entry comp)
+- Sterling in a "junk" lot — 50 g wholesale sterling lot $131.70 vs 3 lb gold/silver-tone lot $18.94 (~7×) — "925" / "STERLING" / "ITALY 925" on clasp tags, snake and herringbone chains, ring shanks (entry comp)
 
 ## Materials, finishes and quality tells
 - Prong-set stones and rhodium plating = better. Glued-in stones and pitted plating = lower.

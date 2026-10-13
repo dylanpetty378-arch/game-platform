@@ -1,5 +1,5 @@
 # Pocket-knife lots (Case XX, Buck, Boker, Schrade, Camillus, Remington, Randall, Marttiini, Imperial, Colonial)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2024–25; Buck 898 Impact S30V auto retail ~$180 / used $100–130; Case XX tang-stamp dating from Case collector guides; Google Lens run 2026-10-13 (asking-price based)
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2024–25; Buck 898 Impact S30V auto retail ~$180 / used $100–130; Case XX tang-stamp dating from Case collector guides; Google Lens run 2026-10-13 (asking-price based) · tells 2026-10-13
 Slug: pocket-knife-lots · Aliases: vintage pocket knives, Case knife lot, Buck knife, knife collection, folding knife lot, Old Timer knives, electrician's knife
 Summary: Imperial/Colonial/Frontier/imports $5–15; Buck 110/112, Boker stockman, 2000s Case, Schrade Old Timer $25–60; 1940s–60s Case XX bone, early Buck 110s, boxed Uncle Henry, Buck autos $80–200; pre-1940 Case XX stag/bone, Remington bullets, Randalls $300–2,000+.
 Buy rule (short): Buy lots at ≤ $8/knife with visible Case XX bone or Buck 110 pieces, or 1960s–70s Case XX singles ≤ $25; pass sellers pricing named knives at $25+/knife and auto knives.
@@ -17,6 +17,16 @@ Case: "CASE XX" shield in the handle, tang stamp with dots (1970–2000) – jig
 - **Randall** fixed blades: top tier.
 - **Marttiini** (Finland): birch-handle fixed blades $25–50.
 - **Junk tier**: Imperial, Colonial, Frontier, Pakistan/China knives, worn Camillus.
+
+### Golden-egg tells
+- Case "TESTED XX" pre-1940 knives, mint — $500–5,000+ vs $50–200 for a standard 1970s–80s Trapper (~10–25×) — tang stamp reads "CASE TESTED XX" with no "U.S.A." and no dots; the stamp must be crisp, not buffed (https://appraisily.com/old-case-xx-pocket-knife-value/)
+- Case 551 stag lockback c.1920–39 with basket-weave tooled sheath — Heritage Arms & Armor Dec 2020 (price gated, verify) vs $25–60 decent tier — 6.5" closed, nickel-silver bolsters, bark-textured stag, and a "CASE / TESTED XX" snap on the sheath (https://historical.ha.com/itm/edged-weapons/knives/vintage-and-rare-case-xx-551-stag-folding-knife-with-sheath/a/6229-40606.s)
+- Case genuine stag pre-1970 (pattern number x5xx on the tang reverse) — $200–1,500 vs $50–200 jigged-bone 1970s (~3–8×) — natural antler scales with bark texture and irregular colour, not the uniform "molded stag" of later years (https://appraisily.com/old-case-xx-pocket-knife-value/)
+- Case Melon Tester — $400–1,200 vs $25–60 (~10–20×) — a single long, thin blade on a slim handle about 5.5" closed; sellers call it a "long skinny knife" (https://appraisily.com/old-case-xx-pocket-knife-value/)
+- Case "CASE XX" stamp with no "U.S.A." (1940–64) — $150–800 vs $50–200 dot-era (~3×) — read the tang: "CASE XX" alone = 1940–64, "CASE XX U.S.A." = 1965–69, dots under U.S.A. = 1970 on (https://appraisily.com/old-case-xx-pocket-knife-value/)
+- Buck 110 early variations (2-pin scales 1964–67; 5-pin transitional, ~1,000 made; "inverted USA" stamp) — $80–200 vs $30–60 common 110 (~3×, entry text) — count the scale pins in the photo (two large pins = early; four scale pins plus rocker pin = transitional) and check the tang stamp orientation (https://www.allaboutpocketknives.com/knife_forum/viewtopic.php?p=1114796)
+- Remington UMC bullet knives, original 1922–40 — $300–2,000+ vs $25–60 (~10–30×, entry text) — a bullet-shaped shield inlaid in the handle with the circle "REMINGTON UMC" tang stamp; 1982-on reissues carry the year on the tang and are the common ones (https://www.allaboutpocketknives.com/knife_forum/viewtopic.php?p=1249870)
+- Case Cheetah push-button lockback — collector premium over the $25–60 common tier (band not given, verify) — a swing-guard lockback with a push-button release in the bolster; it is an automatic, so eBay-prohibited: kill it regardless of price (https://appraisily.com/old-case-xx-pocket-knife-value/ ; entry text)
 
 ## Materials, finishes and quality tells
 Carbon steel (patina) vs stainless; jigged bone, stag, Delrin, pick bone handles; nickel silver or brass bolsters; tang stamps on the main blade. Collectors pay for: original edge (not sharpened down), crisp tang stamp, tight "walk and talk" (snappy spring, no blade play), no cracks in bone. USA-made stamps vs import stamps.

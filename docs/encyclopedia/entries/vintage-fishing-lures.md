@@ -97,6 +97,9 @@ Buy when: boxes or glass-eye wooden lures are visible in a lot.
 Pass when: modern plastic tackle-box contents only.
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Paw Paw Bait Co lures are tack-eye (painted or brass tack eyes), not glass-eye; boxed examples $30–75, so a seller asking $50 per lure is at retail.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "set-of-many", "fragility": 2, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 3, "repro_risk": 3, "id_difficulty": 4, "rarity": 2, "sold_per_month": 10000, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [5, 15, 40], "price_spread": 8, "condition_sensitivity": 4, "seasonality": "spring peak", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 6, "undervalue_frequency": 3, "bust_probability": 45, "expected_profit_typical": 0, "confidence": "low"}

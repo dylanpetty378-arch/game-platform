@@ -57,6 +57,9 @@ State model, wattage (250 vs 275 W ZW), tested on track (all throttles, whistle,
 ## Buy rule
 Buy when: working ZW ≤ $50–80 (write-ups said ≤ $50, ≤ $60 and under $80) or KW ≤ $25–45 with good cord; Berkshire/F3/Hudson loco under 40% of tier. Pass when: ZW at $100+ (dealer-level); 1033-class transformers at any price over $15; cracked cords; MPC plastic; N-scale freight lots; KW at $145 (market). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): 6520 searchlight car generator colour is the variant tell — maroon/gray common ($25-40), orange and tan scarcer, green the rare one ($100+); 3462/3472 automatic milk cars are $25-40 each; 1615/1625/1665 0-4-0 switchers with slope-back tenders are $60-100 working (general knowledge, verify)
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 18, "shape": "irregular", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 2, "id_difficulty": 2, "rarity": 2, "sold_per_month": 400, "sell_through": 50, "days_to_sell": 14, "price_p25_p50_p75": [60, 130, 200], "price_spread": 3.3, "condition_sensitivity": 3, "seasonality": "Nov–Jan (holiday layouts)", "best_platform": "eBay; train shows", "fees_pct": 13, "ship_cost_to_buyer": 28, "undervalue_frequency": 3, "bust_probability": 30, "expected_profit_typical": 20, "confidence": "medium"}

@@ -49,6 +49,9 @@ Maker, size, original paint, interior condition, drain plug, opener, odor.
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$45 ship out − ~$45 ship in − price ≥ max($50, price). Only small embossed metal soda coolers at very low prices clear this; plastic promos never. Most coolers barely fit a passenger seat. No authentication.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): 1950s Cronstroms ribbed-aluminum Pepsi-Cola picnic coolers with embossed lettering: $150–200 only with strong red lettering and intact lid badge; faded ones ~$60–90 and cost ~$35 to ship.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 10, "shape": "irregular",

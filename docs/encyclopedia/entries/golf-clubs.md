@@ -62,6 +62,9 @@ State maker, model, club numbers in the set, loft/lie if known, shaft brand/flex
 ## Buy rule
 Buy when: Scotty Cameron under $100, Ping Anser Scottsdale/Phoenix under $60, Mizuno MP/Titleist MB set under $80, current-gen driver under $80. Pass when: Ram/Northwestern/Wilson/Spalding sets, any 2000s driver, hickory singles by common makers, single Odyssey/Ping putters over $30. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Singles and a bagged set fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Ping putter zip codes date the head: "Phoenix AZ 85020" = 1990s Zing/Anser era ($40–70); the money Pings are Scottsdale-address Ansers (1966–67) and 85029-zip Ansers (1970s) — ask for the zip code on the back before anything else.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 3, "shape": "tall", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 3, "id_difficulty": 3, "rarity": 1, "sold_per_month": "?", "sell_through": "?", "days_to_sell": 14, "price_p25_p50_p75": [25, 60, 200], "price_spread": 8.0, "condition_sensitivity": 3, "seasonality": "Mar-May (general knowledge)", "best_platform": "eBay; GolfWRX classifieds", "fees_pct": 13, "ship_cost_to_buyer": 20, "undervalue_frequency": 2, "bust_probability": 40, "expected_profit_typical": 0, "confidence": "low"}

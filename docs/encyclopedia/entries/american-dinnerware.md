@@ -76,6 +76,9 @@ Give maker, shape and pattern name (with HLC date code if present), diameter/len
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$18) − ship to Dylan (~$18) − price ≥ max($50, price). A piece must sell for ~$100+ even at $10, so single decal plates/platters can never qualify. Buy only: vintage Fiesta/Harlequin rare colours or forms (pitchers, vases, casseroles, teapots, relish trays), Bauer ring ware large pieces, Russel Wright pitchers/carafes, Blue Ridge figural/china pitchers, Vernon Kilns Rockwell Kent – at ≤ $30. Pass all decal florals, 22K gold-band plates, platters, Marcrest, Scio, Sebring, US Pottery. All fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Watt Pottery "Cherry" pattern tell = red tulip-shaped bloom plus three stemmed cherries with two green bands; the 15 in platter is shape #31. Resale $60-100, but a 15 in platter ships ~$25 so it needs a sub-$20 buy plus shipping seller.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "flat",

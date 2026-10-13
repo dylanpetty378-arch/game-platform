@@ -68,6 +68,9 @@ Photograph the mark close up, the rim for flakes, and light-through for hairline
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$20 out − ~$20 in − price ≥ max($50, price). Generic bowls never qualify. Buy only authenticated-looking red-mark R.S. Prussia premium molds, Tapestry or rare figurals at ≤ ~30% of the median, with no damage.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): RS Prussia floral molds (carnation/rose decals, pierced-handle celery trays) stay at $25–60 even with the red wreath mark; the $150+ pieces are portrait, scenic (mill/castle), and animal (swans/pheasants) molds.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "round",

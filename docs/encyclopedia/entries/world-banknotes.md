@@ -59,6 +59,9 @@ Country, denomination, date, Pick number, signature/overprint variety, honest gr
 ## Buy rule
 A $10 note must sell for ~$80 to clear $50 profit. Only uncirculated scarce notes or graded notes do that. Pass on circulated foreign currency and inflation notes. Anything whose value depends on grade over ~$100 needs PMG/PCGS grading — outside Dylan's lane unless already slabbed by PMG/PCGS (verify the cert online).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): "1940-45 old paper money" lots are usually Allied Military Currency (France/Germany), Japanese invasion money and Korean won — $1-5 a note, kill on sight
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.05, "shape": "flat",

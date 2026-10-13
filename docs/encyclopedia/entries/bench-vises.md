@@ -1,5 +1,5 @@
 # Bench vises (Wilton bullet, Columbian, Prentiss, Reed, Charles Parker)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: underpricedai.com aggregated eBay sales (Wilton 4" bullet: 43 sales, median $270, range $70–1,260; restored/unused examples $560–625), Garage Journal vise threads, eBay sold
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: underpricedai.com aggregated eBay sales (Wilton 4" bullet: 43 sales, median $270, range $70–1,260; restored/unused examples $560–625), Garage Journal vise threads, eBay sold · tells 2026-10-13
 Slug: bench-vises · Aliases: machinist vise, bench vise, old vise, bullet vise, Wilton vise, swivel vise, post vise, leg vise
 Summary: Import/Sears/Craftsman post-1980 $20–60; Columbian/Athol/Yost/Reed/old Craftsman USA $80–150; Wilton bullet Schiller Park, Parker, Prentiss, Versa-Vise $200–400 (Wilton 4" median $270); Wilton Chicago and 5–6" bullets $500–1,200.
 Buy rule (short): Real Wilton bullet/Parker/Prentiss/Versa-Vise ≤ $90, 5"+ bullet ≤ $150; pass Sears/import castings and anything ≥ 50% of sold.
@@ -14,6 +14,16 @@ Wilton "bullet" machinist vise: round cylindrical body (looks like a bullet), he
 - **Will-Burt Versa-Vise** – collectible (rotating multi-position).
 - **Leg/post vises** – blacksmith market, heavy.
 - **Sears/Craftsman** – pre-1970 USA decent; post-1980 import junk. **Harbor Freight/Central Forge, Irwin, generic red** – junk.
+
+### Golden-egg tells
+- Wilton bullet, Chicago era (1941–57) — ~2× vs a Schiller Park 4" bullet ($500–1,200 vs median $270) — "CHICAGO" cast into the base or body and a date-stamped key reading MM-YY with a year of 57 or earlier (e.g. "10-50"); 1941–46 first-generation No. 3/4/5 have no date on the key at all (https://www.garagejournal.com/forum/threads/chicago-made-wilton-score.357746/ , https://www.garagejournal.com/forum/goto/post?id=3584140)
+- Wilton 5"–6" bullet (500S/600S) — ~2× vs the 4" ($600 vs $270 median) — jaw plates visibly wider than the handle is long; a base the size of a dinner plate (entry comp)
+- Wilton 825 Toddler 3" bullet — ~5× vs a generic 3" vise ($560 vs ~$100) — the bullet shape shrunk to lunchbox size with "825" cast on the body (entry comp)
+- Wilton bullet restored/unused with original red-white-blue decal — ~2× vs a used one ($560–625 vs $270) — intact decal on the slide, factory grey or blue paint with no rust bloom (entry comp)
+- Charles Parker 5"–6" swivel (No. 975/976 class) — ~4–7× vs a Parker No. 2 ($200–400 vs Terapeak median $57) — "CHAS. PARKER CO. MERIDEN CONN." cast in the body, jaw width 5"+, pipe jaws under the main jaws (entry comp)
+- Will-Burt Versa-Vise — ~5–10× vs an import bench vise ($200–400 vs $20–60) — vise head sitting on a round pillar post that tilts and rotates; "VERSA-VISE" cast on the body (entry ladder)
+- Prentiss Bull Dog — ~3–5× vs a Columbian/Athol of the same size — "PRENTISS VISE CO. NEW YORK" cast on the slide with a bulldog head motif (entry ladder)
+- Anti-tell: "Wilton" + "China" cast on the base, or a Wilton 100-series bullet in rough shape — ~0.3× ($80 comp); the name alone is not the egg (entry comp)
 
 ## Materials, finishes and quality tells
 Wilton bullets: ductile iron/steel bodies, precision-fit sliding jaw, replaceable serrated jaw inserts. Quality USA vises: forged or high-grade cast with crisp lettering, tight slide, smooth screw. Imports: rough castings, play in the slide, thin jaws. Date stamp under the jaw dates a Wilton. Original paint vs repaint: restored examples sell well if done properly (general knowledge, verify).

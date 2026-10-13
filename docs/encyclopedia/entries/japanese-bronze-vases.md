@@ -54,6 +54,9 @@ State height, diameter, weight, period estimate, signature (photo + reading if p
 ## Buy rule
 Buy when: crisp casting + bird/elephant handles + 12"+ tall and price ≤ $60, or any visible kanji signature with price ≤ $150. Pass when: thin, uniform shiny patina, under 8", or seller already says "Meiji signed". Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): "Farmhouse Trading Co" (Oklahoma City, FB/IG/TikTok) is a dealer account posting Bitossi and Japanese bronze — skip its listings.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 12, "shape": "tall", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 4, "repro_risk": 4, "id_difficulty": 4, "rarity": 3, "sold_per_month": 30, "sell_through": 25, "days_to_sell": 45, "price_p25_p50_p75": [60, 150, 350], "price_spread": 5.8, "condition_sensitivity": 3, "seasonality": "none", "best_platform": "regional auction / eBay", "fees_pct": 13, "ship_cost_to_buyer": 32, "undervalue_frequency": 3, "bust_probability": 40, "expected_profit_typical": 30, "confidence": "medium"}

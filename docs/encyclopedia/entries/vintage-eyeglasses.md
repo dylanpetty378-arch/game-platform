@@ -77,6 +77,9 @@ Quote the stamps exactly ("AO 1/10 12K GF, 46-24 on the bridge"), what they mean
 ## Buy rule
 Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). A typical GF pair ($50–70 median) never qualifies above ~$0–5. Only solid-gold/coin-silver or rare B&L Ray-Ban at ≤ 1/3 value. Fits a car seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Ray-Ban value tell is the "BL" etch in the lens corner / "B&L Ray-Ban USA" on the temple (Bausch & Lomb, pre-1999); Luxottica "RB" etched pairs are $40-80. Vuarnet tell: "Pouilloux France" on the temple with 002/027/085 model numbers.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.2, "shape": "flat",

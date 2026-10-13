@@ -77,6 +77,9 @@ Buy when: Apple II family, Amiga, SX-64, Model 100 shown working, under $100. Pa
 VIC-20, anything untested. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger
 seat (CRT monitors alone may not — computer unit only).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Apple PowerBook G3 "Lombard" (1999, bronze translucent keyboard) — for-parts units $50–100, working with adapter $150–250; a $10 parts unit does not clear $50 after ~$25 shipping.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 12, "shape": "flat", "fragility": 3, "transit_damage_risk": 3, "hidden_defect_risk": 4, "testability": 4, "repro_risk": 1, "id_difficulty": 2, "rarity": 2, "sold_per_month": 1000, "sell_through": "?", "days_to_sell": 14, "price_p25_p50_p75": [60, 150, 300], "price_spread": 5.0, "condition_sensitivity": 4, "seasonality": "slight Q4 lift", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 30, "undervalue_frequency": 3, "bust_probability": 35, "expected_profit_typical": 20, "confidence": "low"}

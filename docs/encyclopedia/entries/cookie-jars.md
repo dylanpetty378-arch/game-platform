@@ -64,6 +64,9 @@ Show base mark, measure height, photograph lid flange, disclose chips, crazing, 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$25) − ship to Dylan (~$25) − price ≥ max($50, price). Needs a ~$115+ median at $0. Buy only full-size marked Shawnee (especially gold trim), Brush, Regal, Metlox, Red Wing, or rare McCoy/American Bisque at ≤ 1/3 sold median, after height and mark photos rule out reproductions. Pass hobby jars, modern imports, Twin Winton commons, and chipped lid flanges.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): American Bisque Jack-in-the-Box ("Cookies" box with clown), yellow Pig and Granny jars are the common AB figurals, $40-60 each sold; three ceramic jars cost ~$45+ to ship, so a $25 lot still fails the margin. Only AB flasher/cartoon jars (Casper, Popeye, Olive Oyl, Flintstones) clear $200.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 5, "shape": "tall",

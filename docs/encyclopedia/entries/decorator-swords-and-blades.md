@@ -1,5 +1,5 @@
 # Decorator swords, "antique" machetes and tourist blades (Indian/Pakistani decorators; real makers: Wilkinson, Ames, Emerson & Silver, Collins, Solingen, Klingenthal)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: agent knowledge, eBay sold categories Oct 2026
+Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: agent knowledge, eBay sold categories Oct 2026
 Slug: decorator-swords-and-blades · Aliases: antique cavalry sword, Indian sword, tulwar, machete antique, Damascus bowie, tribal sickle, officer's sword, sabre
 Summary: Decorator/"Made in India" swords and Pakistani "Damascus" bowies $20–50; numbered WWII Japanese NCO swords, Collins machetes $100–300; Civil War / Wilkinson / signed gunto $400–1,500; signed Japanese blades and presentation swords $2,000+ (outside scope).
 Buy rule (short): Buy only with a legible arsenal/maker stamp at ≤ 25 % of comps; velvet scabbard or "Made in India/Pakistan" = instant pass.
@@ -18,6 +18,14 @@ Look-alikes: modern replica makers (Windlass, Cold Steel, Hanwei) are sharp, wel
 - **Solingen / Klingenthal**: German and French blade-making centres; proof marks and maker logos at the ricasso.
 - **Collins & Co.** (Connecticut) machetes: stamped "Collins & Co. Legitimus" with a crowned-hand logo (general knowledge, verify); $100–300.
 - **Japanese WWII**: Type 95 NCO sword (cast-aluminium or copper handle, serial-numbered) decent tier; Type 94/98 gunto with signed tang collectible; signed blades in shirasaya top tier.
+
+### Golden-egg tells
+- Type 95 NCO sword, early solid-copper handle (1937, first few thousand, serial under ~5,000) — $3,950 (pre98) vs $800–1,400 aluminium-handle Type 95 (~3×) and vs $30 decorator (~100×) — solid copper grip cast to look wrapped, matching serial on blade and scabbard throat, flush scabbard drag, thicker tsuba, leather saru-te (https://pre98.com/shop/important-japanese-ww2-rare-early-copper-handled-type-95-army-sword-ncos/)
+- Type 95 aluminium handle with matching numbers and arsenal stamps — $1,395 dealer (IMA) vs $30 decorator (~40×) — Kokura "stacked cannonball" and Suya Sho Ten logos on the fuchi, serial on blade and scabbard throat, steel scabbard with single ring, metal locking tab instead of a habaki (https://www.ima-usa.com/products/original-wwii-japanese-army-type-95-aluminum-handle-nco-katana-matching-number-40961)
+- Ames M1860 cavalry sabre dated 1864 — $550 median vs $30 Indian repro (~18×) — "AMES MFG CO / CHICOPEE MASS" with date and inspector initials on the ricasso, steel scabbard with two rings (entry comp)
+- British 1796 Light Cavalry officer's sabre, blue-and-gilt etched (Osborn "Warranted") — £3,187 (Bonhams 2021) vs $595 for a plain-etched trooper-grade example (~7×) — crowned GR cypher and mounted cavalryman etched and gilt on a blued ground, ribbed leather grip with silver wire, steel scabbard with two rings (https://www.bonhams.com/auction/26793/lot/38/a-1796-pattern-light-cavalry-officers-sabre ; https://stewartsmilitaryantiques.com/british-pattern-1796-light-cavalry-officers-sword.28338.archive.htm)
+- Wilkinson officer's sword with serial on the spine and brass proof disc — $400–1,500 vs $30 decorator — numbered spine, "proved" brass slug set in the ricasso, etched regimental cypher (entry comp)
+- Collins & Co. "Legitimus" machete — $100–300 vs $20–50 Pakistani bowie (~5×) — crown-over-arm-and-hammer logo stamped at the ricasso with "LEGITIMUS", numbered pattern (entry comp)
 
 ## Materials, finishes and quality tells
 Decorator: thin, soft blades, acid-etched (not engraved) designs, brass-coloured cast guards, velvet over wood scabbards, glued or loose handles. Real: tempered steel with proof marks, fullers ground evenly, steel scabbards with drag and rings, shagreen or leather grips with twisted wire, blued/gilt etching on good officer blades. Old blades show even grey patina and honest wear at the grip; new "aged" pieces have uniform chemical darkening (general knowledge, verify).

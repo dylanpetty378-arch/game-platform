@@ -77,6 +77,7 @@ Pass when: Taiwan/China 1970s+; non-working battery toys; priced at ≥ 60% of s
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): cream ribbed-seat red friction tin cars 4-5in are 1960s-70s Japan/Hong Kong friction toys, $15-30; not the pre-war Marx/Wyandotte class.
 - 2026-10-13 (triage): Private sellers price a 1929 Kalon "Popeye Daily Dime Register" tin bank at ~$45 and a 1980 Corgi Popeye boat or plane at ~$35. Neither clears the $50 floor without a sold comp. Pass unless the bank is under $15.
 
 ## Rubric

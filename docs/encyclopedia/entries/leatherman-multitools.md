@@ -49,6 +49,9 @@ State model, stamps (Pat. Pend., Portland OR), all tools present and working, bl
 ## Buy rule
 Buy when: Charge/Surge/TTi under $30, Pat. Pend. PST under $35. Pass when: standard PST at $45. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): A PST described as "original first series" with no "Pat. Pend." claim is the plain Portland OR stamp PST ($40–100); only buy at the entry's ≤$35 rule.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1, "shape": "flat", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 3, "id_difficulty": 2, "rarity": 1, "sold_per_month": 3000, "sell_through": 65, "days_to_sell": 7, "price_p25_p50_p75": [30, 50, 80], "price_spread": 2.7, "condition_sensitivity": 3, "seasonality": "Nov–Dec, Father's Day", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 6, "undervalue_frequency": 2, "bust_probability": 25, "expected_profit_typical": 10, "confidence": "low"}

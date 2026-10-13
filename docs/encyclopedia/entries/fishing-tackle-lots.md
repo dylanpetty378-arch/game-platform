@@ -81,6 +81,9 @@ For each lure: maker, model and number, colour name, material (wood or plastic),
 ## Buy rule
 Profit = sold × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). Only lots where named wooden lures or collectible reels are visible. Exclude rods. Ask seller for close-ups.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): A tackle box full of red/white bobbers and plastic crankbaits (Rapala/Rebel style) with a Budweiser novelty lure is a 1980s-2000s box; kill without opening the trays.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 4, "shape": "set-of-many",

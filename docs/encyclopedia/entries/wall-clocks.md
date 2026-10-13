@@ -1,5 +1,5 @@
 # Wall clocks (antique American regulators; MCM Howard Miller/George Nelson, Welby, Elgin, Syroco starbursts; Lux and Kit-Cat novelty; Telechron/GE electric; décor reproductions Ren-Wil, Howard Miller, Sterling & Noble, Casablanca-dial station clocks)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: NAWCC (National Association of Watch and Clock Collectors) https://www.nawcc.org (not loaded) ; Ren-Wil company site https://www.renwil.com (not loaded) ; Vitra George Nelson clocks (reissue reference) https://www.vitra.com (not loaded). No Terapeak rows for this type in db/comps.jsonl ("anniversary-clocks" rows are a different type).
+Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: NAWCC (National Association of Watch and Clock Collectors) https://www.nawcc.org (not loaded) ; Ren-Wil company site https://www.renwil.com (not loaded) ; Vitra George Nelson clocks (reissue reference) https://www.vitra.com (not loaded). No Terapeak rows for this type in db/comps.jsonl ("anniversary-clocks" rows are a different type). · tells 2026-10-13
 Slug: wall-clocks · Aliases: pendulum clock, wall clock, shadow box clock, regulator, schoolhouse clock, sunburst clock, starburst clock, Howard Miller, George Nelson, Kit-Cat Klock, Lux pendulette, Telechron, kitchen clock, station clock, gallery clock, Casablanca clock, Ren-Wil clock
 Summary: Quartz décor clocks (Ren-Wil, Howard Miller décor, Casablanca-dial station clocks, Sterling & Noble) $15–60; working 1950s–60s electric kitchen clocks, Syroco/Elgin starbursts, Seth Thomas schoolhouse $40–200; Lux pendulettes, early Kit-Cat, George Nelson originals, Vienna regulators $150–2,000+.
 Buy rule (short): Buy only Lux/Keebler pendulettes, original 1950s–60s George Nelson/Howard Miller pieces, and working spring-wound American wall clocks that fit a passenger seat, at ≤ 30% of sold; pass on quartz décor clocks.
@@ -17,6 +17,15 @@ Buy rule (short): Buy only Lux/Keebler pendulettes, original 1950s–60s George 
 - **Lux** pendulettes $80–400 working; **Kit-Cat** 1950s $50–150.
 - **Telechron** kitchen clocks $20–70 working.
 - **Ren-Wil** (décor, quartz): $20–60 resale.
+
+### Golden-egg tells
+- Howard Miller 4755 Ball clock, polychrome (1948–69 original) — $704 (Rago 2019, est. $250–450) vs $15–60 décor quartz (~12×) — black/green/yellow/white/orange balls on thin, soft metal spokes, Howard Miller label; Vitra reproduces all six versions, so the label decides (https://thehotbid.com/2019/03/05/sold-rago-sold-the-1949-george-nelson-ball-wall-clock-for-scroll-down-to-see/)
+- Howard Miller Nelson models by number — 2213 Asterisk, Sunflower, Spike, Eye, Kite — originals $400–2,500 (entry ladder) vs new Herman Miller/Vitra reissues at retail — model number on the Howard Miller label on the back, brass movement plate (https://www.1stdibs.com/furniture/decorative-objects/clocks/wall-clocks/george-nelson-howard-miller-model-2213-asterisk-white-wall-clock/id-f_21889622 ; https://store.hermanmiller.com/decor-clocks/nelson-ball-clock/110259.html?lang=en_US)
+- Keebler No. 250 "Lovebirds" pendulette (Westclox-made, 1936–41) — $50–65 working, $102.50 eBay 2008, vs $15–60 décor — Syroco walnut face with green leaves and red flowers, green-and-yellow metal lovebirds that rock with the pendulum, back engraved "Keebler Clock Company / Philadelphia, PA" (https://harryrinker.com/col-1307.html)
+- Lux animated pendulettes (1930s–50s; dog, bird, Woody Woodpecker, church with bell) — $80–400 working (entry ladder) vs $15–60 — figure that moves with the pendulum, "Lux Clock Mfg. Co. Waterbury Conn." on the back, 4–6 in tall (entry comp)
+- Kit-Cat Klock, early electric/wind-up (1930s–50s) — $50–150 vs $20–40 modern battery — cord on the back or a winding key, "Allen Clock Co." markings, no battery box (entry comp)
+- Seth Thomas / Ansonia schoolhouse, running — $150–500 vs $15–60 quartz repro — winding arbors through the dial, brass movement stamped with maker and patent dates, crazed paper dial (entry comp)
+- Quartz pendulum "regulator" with an AA battery box and a printed crackle dial is the common version regardless of frame — $15–60 (entry comp)
 
 ## Materials, finishes and quality tells
 - Mechanical: brass plates stamped with maker and patent dates, key winding holes in the dial, paper/painted dial with real age (crazing), solid oak/walnut cases.

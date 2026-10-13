@@ -72,6 +72,12 @@ Profit = sold median × 0.87 − ~$6 to buyer − ~$6 to Dylan − price; pass u
 - Butane lighters that don't light = untested mechanism, needs service → pass unless the price is ≤ $15.
 - No authentication issue for common Dunhill/Dupont (marks are clear), but high-end gold/Cartier needs a specialist → pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Zippo value is on the bottom stamp: "PAT. PEND." + 3-barrel hinge (1930s) and "PAT. 2032695" + 4-barrel hinge (1937–50) sell $50–150+; 1970s+ date-code bottoms (dots/slashes/Roman numerals) $10–15. Always ask for the bottom photo of a Zippo lot.
+- 2026-10-13 (triage): Butabloc (France) round butane lighters are common, $15-30; a Butabloc in a lot adds nothing.
+- 2026-10-13 (triage): Lift-arm petrol lighters with mother-of-pearl checkerboard panels are Dunhill Unique only if the base is stamped "Dunhill Unique / Made in England" (or Pat. 143752); Japanese copies of the same form are unmarked or "Japan" and worth $10-25. Ask for the base before pricing a lift-arm.
+- 2026-10-13 (triage): Unfired early-1960s plain brushed-chrome Zippo 200 in original box is $40-80 even sealed; value jumps only with a 3-barrel hinge (pre-1950), patent-pending base, or advertising/engraved lid. Billings seller lists the same lighter twice ($60/$70) and will not ship.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.3, "shape": "flat",

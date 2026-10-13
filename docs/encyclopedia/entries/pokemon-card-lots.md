@@ -53,6 +53,9 @@ Sell valuable cards as singles: name, set, card number, edition (1st/shadowless/
 ## Buy rule
 Buy when: a lot ≤ $100 shows ≥ $250 of identifiable singles (Charizards, 1st Ed, secret rares) in close-up photos. Pass when: no close-ups of rares, 2010s+ binders priced at $100+, "mystery lot". Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Craigslist "slabs" listings at a $10 headline are per-card priced in the photo (seller writes $135–290 on each sleeve); modern PSA 10s are priced at eBay market and are never arbitrage.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "set-of-many", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 4, "id_difficulty": 3, "rarity": 1, "sold_per_month": 50000, "sell_through": 60, "days_to_sell": 7, "price_p25_p50_p75": [40, 90, 200], "price_spread": 5, "condition_sensitivity": 5, "seasonality": "Nov–Dec holidays and new-set releases (estimate)", "best_platform": "eBay / TCGplayer", "fees_pct": 13, "ship_cost_to_buyer": 12, "undervalue_frequency": 4, "bust_probability": 35, "expected_profit_typical": 30, "confidence": "low", "notes": "prices are for lots/binders; no dated sold comps in the entry; numbers are estimates"}

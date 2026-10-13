@@ -1,5 +1,5 @@
 # Vintage sports and racing caps (Sports Specialties, Starter, AJD, American Needle, Annco, Logo 7, New Era (pre-2000), Drew Pearson, Competitor, Twins Enterprise; racing/F1 and NASCAR caps; Mitchell & Ness and New Era reissues)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Sports Specialties history (Dave Warsaw, LA; acquired by Nike 1993); vintage cap guides on Grailed/Reddit r/VintageCaps; Mitchell & Ness product pages https://www.mitchellandness.com ; eBay sold search https://www.ebay.com/sch/i.html?_nkw=vintage+sports+specialties+script+snapback&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13 (sports-memorabilia and bobbleheads rows unrelated).
+Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Sports Specialties history (Dave Warsaw, LA; acquired by Nike 1993); vintage cap guides on Grailed/Reddit r/VintageCaps; Mitchell & Ness product pages https://www.mitchellandness.com ; eBay sold search https://www.ebay.com/sch/i.html?_nkw=vintage+sports+specialties+script+snapback&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13 (sports-memorabilia and bobbleheads rows unrelated).
 Slug: vintage-sports-caps · Aliases: vintage hat, snapback, vintage snapback, script hat, Sports Specialties, Starter hat, AJD, trucker hat, NBA hat, NFL hat, Bulls hat, Raiders hat, Ferrari hat, racing hat, F1 cap, NASCAR hat, deadstock hat
 Summary: Reissues and modern licensed caps (Mitchell & Ness, New Era, '47) $10–35; worn 1980s–90s Starter/AJD/American Needle $20–60; 1980s–90s Sports Specialties script, "Grid", "Wave", Shadow, "Laser" and Starter tri-power in good condition $60–250; deadstock with tags, rare teams/events, 1970s wool caps $150–600+.
 Buy rule (short): Inside tag decides: Sports Specialties, Starter (with 1990s tags), AJD, Annco, American Needle "Blockhead" = buy at ≤ 1/3 resale; Mitchell & Ness, New Era 2000s+, '47 = pass; F1/Ferrari caps need official-sponsor and era tells, mostly pass.
@@ -18,6 +18,15 @@ Baseball caps (snapbacks, fitted, trucker) from the 1970s–90s team-licence boo
 - New Era: vintage pre-2000 "Pro Model" with USA-made tags vs modern 59FIFTY.
 - Reissues: Mitchell & Ness, '47 Brand, New Era Cooperstown.
 - Racing: Ferrari (official merch), Marlboro team kit caps (Ferrari, McLaren), Goodyear, STP, NASCAR Chase Authentics (2000s, low).
+
+### Golden-egg tells
+- Sports Specialties LA Raiders black-wool "Script" (Korea tag) — ~8× or $400–450 ask vs the $55 Bulls script — black wool crown, white single-line "Raiders" script, green undervisor, "Sports Specialties"/"Pro" inside tag (https://ebay.com/b/vintage-script-snapback/bn_7024819907)
+- Sports Specialties Los Angeles Kings 1990s script — ~10× or $500 ask vs $55 — black/silver Kings script, same tag; Starter "Motion" Kings script $200 (https://ebay.com/b/vintage-script-snapback/bn_7024819907)
+- Deadstock Sports Specialties with original hang tags (Lakers purple corduroy $650, TCU $1,250; realised sales averaged ~$500) — ~15–25× vs a worn $30 cap — corduroy or wool crown, paper hang tag still on the snap, no sweat line (https://www.insidehook.com/style/vintage-sports-specialties-hats-hit-ebay/amp)
+- Sports Specialties college scripts (Kansas State $495, Florida State wool $150) and defunct/expansion teams (Sacramento Surge WLAF $200, Raptors wool at $102 with 14 bids, Jaguars NWT $190, Timberwolves wool $180) — ~3–9× vs $55 — team name is the whole premium; read the script, not the brand (https://ebay.com/b/vintage-script-snapback/bn_7024819907)
+- Sports Specialties "Laser Shadow" Pro Line (Patriots, Utah Jazz) — ~2–4× or $100–200 asks vs plain script — wordmark with a laser-cut layered shadow under the lettering, Pro Line tag (https://www.ebay.de/itm/396514162891)
+- Drew Pearson Old English script (Chiefs) and Logo 7 NOS with tags (Duke $110) — ~3× vs a $35 Starter — Old English lettering / original Logo 7 sticker and tag (https://ebay.com/b/vintage-script-snapback/bn_7024819907)
+- Mitchell & Ness "Team Script" reissue (N.W.A. Raiders $54 new, used median $20) — the baseline, 1/5–1/20 of a real SS — M&N woven tag, flatter embroidery; the green undervisor alone proves nothing (entry comp)
 
 ## Materials, finishes and quality tells
 - Tags: country and brand tags inside (Korea/Taiwan 1980s–90s vs China/Bangladesh later); copyright years on tags.

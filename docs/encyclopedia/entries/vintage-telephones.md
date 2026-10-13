@@ -1,5 +1,5 @@
 # Vintage telephones (Western Electric/Bell System, Automatic Electric/GTE, Kellogg, Stromberg-Carlson, ITT, North Electric, novelty phones: Coca-Cola, Mickey Mouse, Snoopy, Garfield, hamburger)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Old Phone Shop identification guides https://www.oldphoneshop.com/ ; Telephone Collectors International https://www.telephonecollectors.org/ ; Western Electric date-stamp notes from collectors (e.g. https://www.paul-f.com/ )) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Old Phone Shop identification guides https://www.oldphoneshop.com/ ; Telephone Collectors International https://www.telephonecollectors.org/ ; Western Electric date-stamp notes from collectors (e.g. https://www.paul-f.com/ )) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: vintage-telephones · Aliases: rotary phone, dial phone, Bell telephone, Western Electric 500, princess phone, Trimline, candlestick phone, wall phone, novelty phone, Coke phone, landline phone, retro phone
 Summary: Common Western Electric 500/2500 desk phones $20–50 (colors $40–90); Automatic Electric/GTE Type 80/90 $25–60; Princess and Trimline $25–70; Western Electric 302 (1937–54) $60–200; candlesticks and wood wall phones (1890s–1920s) $150–600; novelty phones $15–60 (Mickey Mouse 1970s, Snoopy & Woodstock $40–120).
 Buy rule (short): Buy Western Electric 302s, candlesticks, wood crank wall phones and rare colors (pink/turquoise/aqua/red 500s, ivory 302s) ≤ 30% of median; pass on beige/black/brown 500s, GTE 80s and 1990s novelty phones.
@@ -14,6 +14,16 @@ Buy rule (short): Buy Western Electric 302s, candlesticks, wood crank wall phone
 
 ## Makers, brands and variants
 Western Electric (Bell System), Automatic Electric (GTE, Chicago), ITT/Kellogg, Stromberg-Carlson, North Electric (Ericofon "cobra" 1950s–70s $60–200), Northern Electric (Canada), Siemens (Germany). Licensed novelty phones: Coca-Cola (1990s licensed by Telemania and others), Tyco Garfield, Columbia Telecommunications.
+
+### Golden-egg tells
+- Western Electric 302 in Pekin Red (-20) thermoplastic, 1938–42 — $1,448 CAD (≈ $1,050) refurbished dealer price vs $50–150 black 302 (~7–10×) — colour moulded through the plastic (any chip shows red, not black), 5J dial with a clear fingerwheel; red colour was discontinued Aug 1942 (https://oldphoneworks.com/products/302-red-fully-refurbished ; https://www.telephonecollectors.org/resources/wecocol.htm)
+- Other factory-colour 302s: Ivory -4, Old Rose -16, Dark Blue -18, Gray-Green -19 — $200–400 vs $50–150 black (~3×) — dash colour number stamped on the base, 5J dial instead of 5H; all four were dropped by August 1942 so survivors are few (https://www.telephonecollectors.org/resources/wecocol.htm ; https://appraisily.com/old-rotary-phones-value/)
+- Painted-metal 302 finishes: Old Brass -6, Statuary Bronze -7, Oxidized Silver -8, Gold -11/-12 "Imperial" with ivory F1 handset — rare designer band $200–2,000+ vs $50–150 — metallic lacquer over a metal-housing 302, ivory handset on the gold Imperial, dash number on the base (https://www.telephonecollectors.org/resources/wecocol.htm ; https://appraisily.com/old-rotary-phones-value/)
+- Western Electric 500 in pink or turquoise (1954-on colours) — $100–300 vs $30–75 black (~3–4×) — colour ranking pink/turquoise > red/yellow > green/blue > white/ivory > beige/brown > black; date stamp on the base and inside the handset should match (https://appraisily.com/old-rotary-phones-value/)
+- Princess 701 in pink — $150–300 vs $25–70 beige Princess (~4×) — small oval set with a light-up dial, pink shell (https://appraisily.com/old-rotary-phones-value/)
+- Ericofon "cobra" (L.M. Ericsson/North Electric, 1950s–70s) in uncommon colours — $200–600 vs $60–200 common colours (entry text) — one-piece upright handset with the dial in the base; colour drives the band (https://appraisily.com/old-rotary-phones-value/)
+- Western Electric candlestick 1910s–20s — $100–400 vs $20–50 black 500 (~5×) — upright brass or black stick with a separate receiver on a hook and "Western Electric" on the transmitter rim; cast ornate bases with orange receivers are 1970s–90s repros (https://appraisily.com/old-rotary-phones-value/ ; entry text)
+- Western Electric 202 oval-base (1930–37) in Gray-Green with anodised aluminium fingerwheel — rare-colour premium (price not given, verify) vs $50–150 black 202 — oval base with the dial in the base, hand-set on a cradle, colour code on the underside (https://www.telephonecollectors.org/resources/wecocol.htm)
 
 ## Materials, finishes and quality tells
 - Original Bell System handset cord (coiled, cloth for 1950s) and a modular-converted line cord; date codes on base and handset matching = originality.
@@ -55,6 +65,9 @@ Model, color, date code, whether it rings and dials (tested on landline), cord t
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$15 ship out − ~$15 ship in − price ≥ max($50, price). Practically only 302s, candlesticks, crank wall phones and rare-color 500s at ≤ $40. Fits a passenger seat. No authentication needed.
+
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Stromberg-Carlson made 1930s wood-cased art-deco desk/intercom sets with an oval slotted grille and a bakelite handset on a cradle — not in the entry; needs a model tag to price (unverified).
 
 ## Rubric
 ```json

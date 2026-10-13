@@ -58,6 +58,9 @@ Photograph every figure and the base marks; give count, maker, material and size
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) − price ≥ max($50, price). A lot must sell for ≥ ~$85. Only lots containing marked Britains lead, Elastolin/Lineol composition, or ≥ 15 retired Schleich/Carnegie figures can make it, bought at ≤ $3 per figure. Pass all unmarked soft-plastic bags at any price above ~$5.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Britains Deetail mounted cowboys (1970s plastic, metal bases) go $3-6 a figure; mixed with small lead cowboys the lot is ~$50-70 — never $30-a-figure like the Lens "rare" text suggests.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "set-of-many",

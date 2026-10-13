@@ -66,6 +66,9 @@ Title: maker + model + railroad + globe, e.g. "Dietz Vesta Southern Pacific S.P.
 ## Buy rule
 Buy when: a railroad-marked lantern with a cast or coloured globe costs ≤ $50, or a tall-globe costs ≤ $80. Pass when: unmarked, repro, or the seller names the railroad and asks $75+. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): short red-globe Adlake Kero with wire guard is the common post-1920s type (comps median $27, $40-80 with marked road); tall-globe (pre-1920) and rare-road marked globes are what sell $150+.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 5, "shape": "tall", "fragility": 4, "transit_damage_risk": 3, "hidden_defect_risk": 2, "testability": 3, "repro_risk": 4, "id_difficulty": 3, "rarity": 2, "sold_per_month": 300, "sell_through": 40, "days_to_sell": 21, "price_p25_p50_p75": [60, 100, 180], "price_spread": 3.0, "condition_sensitivity": 4, "seasonality": "Nov–Dec slightly stronger", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 22, "undervalue_frequency": 2, "bust_probability": 25, "expected_profit_typical": 20, "confidence": "medium"}

@@ -46,6 +46,9 @@ State untested/for parts unless tested; list each model.
 ## Buy rule
 Profit = median × 0.87 − $15 − $15 − price ≥ max($50, price). Untested electronics → Dylan passes except rare collectibles where value is display/collector.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Apple model A1387 is the iPhone 4s (2011, $15–30); the collectible one is A1203 (2007 first-gen, $100–300 loose, $1,000+ sealed).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 5, "shape": "set-of-many",

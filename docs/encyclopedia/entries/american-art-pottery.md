@@ -71,6 +71,9 @@ Give maker, pattern name, shape number and size, photos of the base mark, note c
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$20 ship to buyer − ~$20 ship in − price ≥ max($50, price). In practice: Roseville rare patterns, Rookwood, Fulper, Van Briggle dated, Grueby/Newcomb/Teco at ≤ 30% of median. Pass every Gonder/McCoy/Hull/Haeger single. Passenger-seat size is never an issue. No professional authentication needed, but require a clear photo of the base mark.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Watt Pottery pattern ladder — Apple (3-leaf) and Starflower are the common patterns ($30–80 for a #16 pitcher); Tulip (blue and red two-colour tulips with a green leaf, 1960s), Rooster, Dutch Tulip and Morning Glory are the scarce ones, #16 Tulip pitchers sell ~$75–150. Bottom mark is impressed "Watt / Oven Ware / U.S.A." with the mould number (16 = 6.5in pitcher). No Watt entry in the encyclopedia yet.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 4, "shape": "tall",

@@ -1,5 +1,5 @@
 # Advertising signs (porcelain, tin, plastic, neon, street signs)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist chico listing body (5×5 ft Shell sign confirmed plastic); Joe Camel floor ashtray eBay listings ($150–300 asks, 2025); porcelain street-sign eBay sold knowledge ($60–150); Richmond Auctions / Morphy petroliana results for porcelain Shell signs ($800–5,000).
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist chico listing body (5×5 ft Shell sign confirmed plastic); Joe Camel floor ashtray eBay listings ($150–300 asks, 2025); porcelain street-sign eBay sold knowledge ($60–150); Richmond Auctions / Morphy petroliana results for porcelain Shell signs ($800–5,000). · tells 2026-10-13
 Slug: advertising-signs · Aliases: gas sign, porcelain sign, metal sign, tin sign, neon sign, street sign, advertising sign, tacker
 Summary: Repro tin and plastic canopy signs $10–100; 1990s beer neons, tobacco clocks, porcelain street signs $75–250; original 1930s–50s tin litho and pump plates $200–800; big porcelain Shell/Texaco/Mobil and dealer signs $1,000–20,000.
 Buy rule (short): Porcelain pump plate/small sign ≤ $150 with clean gloss, porcelain street sign ≤ $30; pass plastic, tin repros and neons.
@@ -14,6 +14,18 @@ Porcelain enamel: glassy surface, chips show black steel underneath with a "shel
 - **Beer neons**: Caffrey's, Budweiser etc. 1990s–2000s, $100–250.
 - **Street signs**: porcelain city signs; odd names and city marks bring more.
 - **Farm/hardware** (e.g. Bridges Hardware tractor sign) – value depends on brand and originality (general knowledge, verify).
+
+### Golden-egg tells
+- Musgo Gasoline 48 in porcelain (1929, Michigan) — ~$1.5M (Richmond 2022, world record) vs $62 Terapeak median porcelain Texaco — Native American chief head on a yellow/green field (https://www.richmondauctions.com/?p=5853 ; https://estimonia.com/guides/collectibles/vintage-advertising-sign-value-guide)
+- Sinclair Aircraft Gasoline 48 in double-sided porcelain (1930s) — $49,200 (Morphy Oct 2025) — early single-engine airplane graphic (https://www.overstreetaccess.com/?p=93876)
+- Sinclair Pennsylvania Motor Oil 23¾ in double-sided porcelain with Dino — $35,670 (Morphy Oct 2025) vs $62 Texaco median (~500×) — green brontosaurus mascot on a round sign (https://www.overstreetaccess.com/?p=93876)
+- Texaco Marine Motor Oil 11 × 21½ in double-sided porcelain (1953) — C$21,240 (Miller & Miller) vs $62 for an ordinary porcelain Texaco (~300×) — small sign with "Marine" and a boat/anchor graphic; size is NOT a tell, the word Marine is (https://www.overstreetaccess.com/?p=76349)
+- Indian Motorcycles neon dealership sign 66½ × 35½ in (1930s–40s) — C$112,100 (Miller & Miller); large double-sided Indian/Ford dealer porcelain $6,000–8,000+ — Indian script with headdress logo (https://www.overstreetaccess.com/?p=76349 ; https://estimonia.com/guides/collectibles/vintage-advertising-sign-value-guide)
+- Kelly Tires porcelain (Kelly Springfield girl) — $41,300 (Mecum 2022), range $5,000–41,000 — "Lotta Miles" woman in a tyre (https://estimonia.com/guides/collectibles/vintage-advertising-sign-value-guide)
+- Texaco "New" Motor Oil 30 × 30 in tin curb sign (1930s) — C$11,210 vs $25–100 for most tin — double-sided tin on a curb stand base (https://www.overstreetaccess.com/?p=76349)
+- Porcelain door-push bars and plates (Stubby Beverages 3 × 32 in $6,490; Lyons' Tea 10 × 3 in $3,835; Co-Op $2,950, all C$) — ~20–60× the $75–250 "decent" tier for a part that fits in a mailer — narrow convex porcelain strip with brand name and screw holes at each end (https://www.overstreetaccess.com/?p=76349)
+- Coca-Cola porcelain/tin 1900s–50s — average ~$1,250, pristine c.1890 tin $42,000, vs $10–100 repro — script logo with "Drink" and period slogans; chip edges showing 3–6 colour layers over a dark ground coat (https://estimonia.com/guides/collectibles/vintage-advertising-sign-value-guide)
+- Mascot/graphic over text-only, 30–42 in, double-sided — the premium shape; orange-brown rust, perfectly round nickel grommets and shapes the brand never made mark a repro (https://estimonia.com/guides/collectibles/vintage-advertising-sign-value-guide)
 
 ## Materials, finishes and quality tells
 Porcelain: heavy steel, multiple fired layers, chips show a stepped shelf down to black steel, brass grommets. Tin litho: thin, embossed edges on "tackers", printer's marks/maker names along the bottom edge on originals (general knowledge, verify). Plastic: moulded, thick, back-lit inserts. Original age shows as even weathering and fading; repros show printed-on "wear".

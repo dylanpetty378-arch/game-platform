@@ -1,5 +1,5 @@
 # Native American turquoise jewelry (Navajo/Diné, Zuni, Hopi, Santo Domingo/Kewa; Fred Harvey era; makers' hallmarks; also Southwestern-style imports, Bell Trading, Maisels, and modern Asian copies)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; most prices estimates, verify); Terapeak row in /home/claude/game-platform/db/comps.jsonl: "squash blossom necklace sterling navajo no turquoise" median $650 (n=50, p25 $249) — related only; Indian Arts and Crafts Act of 1990 (https://www.doi.gov/iacb/act); Native American hallmark references (Wright, "Hallmarks of the Southwest", book; https://www.nativeamericanjewelrytips.com); turquoise mine identification (Kingman, Royston, Number 8, Lone Mountain, Morenci, Bisbee, Sleeping Beauty).
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run; most prices estimates, verify); Terapeak row in /home/claude/game-platform/db/comps.jsonl: "squash blossom necklace sterling navajo no turquoise" median $650 (n=50, p25 $249) — related only; Indian Arts and Crafts Act of 1990 (https://www.doi.gov/iacb/act); Native American hallmark references (Wright, "Hallmarks of the Southwest", book; https://www.nativeamericanjewelrytips.com); turquoise mine identification (Kingman, Royston, Number 8, Lone Mountain, Morenci, Bisbee, Sleeping Beauty). · tells 2026-10-13
 Slug: native-american-turquoise-jewelry · Aliases: Navajo bracelet, Zuni bracelet, turquoise cuff, sterling turquoise, Native American jewelry, Southwestern jewelry, squash blossom, petit point, needlepoint, inlay, old pawn, Fred Harvey, Indian jewelry, turquoise link bracelet, concho belt
 Summary: Imports/plated and Fred Harvey tourist pieces $15–60; signed-or-not modern Navajo/Zuni sterling bracelets and rings $50–200; heavy vintage (1940s–70s) cuffs, signed artist pieces, quality natural stones $150–600; squash blossoms and top artists (Charles Loloma, Lee Yazzie, Kenneth Begay) $500–20,000+.
 Buy rule (short): Buy hallmarked or obviously handmade heavy sterling pieces at ≤ 1/3 of comps after weighing silver; pass on light link bracelets over $50 and anything with dyed/block stones.
@@ -19,6 +19,16 @@ pid 7951709080: sterling link bracelet of bezel-set free-form turquoise stones (
 | Fred Harvey era / Bell Trading / Maisels | Arrows, thunderbirds, light stamped silver, stamped "Sterling" + arrow logo | 1910s–1960s | Tourist, $20–80. |
 | Top artists | Loloma, Begay, Yazzie, McHorse, Lee/Mary Marie Weebothee | 1950s–present | Authentication needed. |
 | Imports | "925 Thailand/Mexico/China", calibrated stones | 1970s–present | Low. |
+
+### Golden-egg tells
+- Charles Loloma (Hopi, 1921–91) signed cuffs — $10,000–100,000+ (Santa Fe Art Auction Loloma collection sold white-glove) vs $130 median for a vintage Navajo cuff — "Loloma" signature inside, height-varied inlay of turquoise, coral, lapis, ironwood and serpentine in a sculptural sterling cuff, ~3" wide (https://fineart.ha.com/itm/american-indian-art/jewelry-and-silverwork/a-hopi-bracelet/a/8196-70011.s ; https://antiquesandthearts.com/loloma-collection-goes-white-glove-at-santa-fe-art-auction/)
+- Sterling Navajo concho belt — ~3× ($400 median, p75 $699 vs $130 cuff median) — ten-plus stamped sterling conchos with butterflies on a leather strap, each concho hallmarked or "Sterling" on the back (entry comp)
+- Squash blossom necklace with naja — ~5× ($650 median even without turquoise vs $130 cuff) — bench-made beads, cast or hand-formed naja, blossoms soldered to the bead strand (entry comp)
+- Heavy old Navajo cuffs (60–120 g, pre-1950 "old pawn") — p75 $240 vs $130 median; $300–1,000 for multi-stone — thick ingot-forged silver, deep hand stampwork, sawtooth bezels, oxidation in recesses, no "Sterling" stamp on the earliest (entry comp)
+- Fred Harvey era Bell Trading / Maisel's / "Sunbell" tourist pieces — $35–100 vs $10–40 imports — hanging-bell hallmark or "Maisel's" stamp, thunderbird/arrow/whirling-log stamps, "greasy green" turquoise, patina heavier in crevices than on high points; copper Fred Harvey trade cuffs sold at Hindman (https://forum.turquoisepeople.com/t/is-fred-harvey-jewelry-a-gateway-into-the-real-stuff/5678 ; https://hindmanauctions.com/items/10619510-fred-harvey-era-copper-trade-cuff-bracelets)
+- Hopi overlay with a clan hallmark (Hopicrafts, Hopi Silvercraft Guild sun symbol, Bernard Dawahoya, Victor Coochwytewa) — $100–400 vs $35–100 light Navajo link bracelet — two-layer silver with a cut-out top sheet over a textured, oxidized black ground, almost no stones, pictorial hallmark on the back (entry comp)
+- Signed Zuni needlepoint/petit point cluster cuffs (Weebothee, Edaakie, Haloo families) — $100–300 vs $35–100 — dozens of hand-cut needle-shaped stones in individual bezels, name stamped on the back (entry comp)
+- Natural high-grade spiderweb stones (Lander Blue, Number 8, Lone Mountain, Bisbee) on plain settings — $300–1,000 vs $130 — tight black or dark-brown web matrix on deep blue, slight surface pits, no uniform "plastic" sheen (entry comp)
 
 ## Materials, finishes and quality tells
 Natural turquoise has matrix, varying hue, small surface pits; stabilized is uniform, slightly plasticky; dyed howlite has white showing in cracks and too-even matrix veins; block turquoise (reconstituted) shows grainy uniform composition. Silver weight: a heavy men's cuff 60–120 g; light link bracelet 15–30 g. Oxidation in recesses and soft wear on high points indicate age.
@@ -58,6 +68,9 @@ Weight in grams, measurements (inner circumference, gap), stone description ("na
 
 ## Buy rule
 Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). A $120-median bracelet allows ≤ ~$45. Buy heavy hallmarked pieces at ≤ 1/3 of comps; weigh-based silver floor (~$0.90–1.20/g sterling at current spot, verify). No master-artist pieces needing authentication.
+
+## Field notes (learned in triage)
+- 2026-10-13 (triage): a seller offering ring settings as "silver-finished" means plated base metal, not sterling — kill from the body text
 
 ## Rubric
 ```json

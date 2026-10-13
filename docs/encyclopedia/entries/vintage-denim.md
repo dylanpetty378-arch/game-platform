@@ -1,5 +1,5 @@
 # Vintage denim (Levi's, Lee, Wrangler, Big Yank, Sears Roebucks/Hercules, JCPenney Big Mac/Foremost, Montgomery Ward Powr House, Big E, Carhartt, Osh Kosh)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("Levi's 501 jeans" median $56.10 n=46 p25 $23.94 p75 $61.69; "Sears Western Wear trucker denim jacket" median $32 n=25 p25 $28 p75 $40; "vintage denim" median $14.25 n=49); general knowledge on dating (no web search this run; verify)
+Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("Levi's 501 jeans" median $56.10 n=46 p25 $23.94 p75 $61.69; "Sears Western Wear trucker denim jacket" median $32 n=25 p25 $28 p75 $40; "vintage denim" median $14.25 n=49); general knowledge on dating (no web search this run; verify) · tells 2026-10-13
 Slug: vintage-denim · Aliases: vintage jeans, Levis 501, 505, 517, Big E, redline selvedge, selvage, trucker jacket, type 1, type 2, type 3, 557, 70505, Lee Riders, Lee 101, Wrangler 11MWZ, Blue Bell, Sears Western Wear, Roebucks, chore coat, shirt jacket
 Summary: Modern/1990s–2000s jeans and jackets $10–40; USA-made 1980s–90s Levi's 501/505, Lee, Wrangler $35–90; 1970s small-"e" and redline selvedge Levi's $100–400; Big E (pre-1971) Levi's jeans and type 1–3 jackets, 1950s chore/work denim $250–3,000+.
 Buy rule (short): Buy jeans/jackets with a capital-E red tab, selvedge (redline) outseam, single-stitch back pockets or a "Made in USA" care tag from the 1960s–80s at ≤ $25; pass on paper-patch 2000s 501s, women's, stretch and modern "vintage-style" pieces.
@@ -21,6 +21,15 @@ Denim jeans, jackets and work wear. Value comes almost entirely from age and US 
 - **Sears** (Roebucks, Hercules, Western Wear labels), **JCPenney** (Foremost, Big Mac, Pay-Day), **Montgomery Ward** (Powr House): store brands; 1940s–60s pieces now collectible, 1970s–80s "Western Wear" jackets $25–50.
 - **Big Yank, Blue Bell, Headlight, Stronghold, Can't Bust 'Em**: 1930s–50s work wear, very valuable.
 - Designer/fashion labels (Gap, Guess, Calvin Klein, small labels) usually $15–40 unless 1980s Guess with triangle tag (modest demand).
+
+### Golden-egg tells
+- Levi's Big E red tab (pre-1971) — ~10–35× vs a care-tag 501 ($500–2,000, top $10,000+, vs Terapeak median $56) — capital "E" in LEVI'S on the red tab; lettering on one side only = pre-1955 (https://underpricedai.com/blog/vintage-levis-value ; https://www.ropedye.com/2013/05/guide-how-to-date-levis-501-jeans/)
+- 1950s 501XX: leather patch + hidden back-pocket rivets + copper rivet backs with raised letters — $10,000+ vs $56 — real leather patch (pre-1955, not cardboard), rivet heads visible only inside the back pockets, raised lettering on rivet backs (https://underpricedai.com/blog/vintage-levis-value ; https://www.ropedye.com/2013/05/guide-how-to-date-levis-501-jeans/)
+- Pre-1937 / WWII 501: back cinch, crotch rivet, laurel-leaf donut buttons, painted arcuates — Workwear tier $200–2,000+ vs $56 — cinch strap above the back pockets, rivet at the base of the fly, painted (not stitched) pocket arcs (https://www.ropedye.com/2013/05/guide-how-to-date-levis-501-jeans/ ; entry ladder)
+- Small-e single-stitch redline selvedge 501 (1971–c.1976) — ~4–18× vs median ($200–1,000) — lowercase "e" on the tab, one row of lockstitch across the back-pocket tops, red thread line on the cuffed outseam, chain-stitched hem roping (https://underpricedai.com/blog/vintage-levis-value ; https://www.ropedye.com/2013/05/guide-how-to-date-levis-501-jeans/)
+- USA-made care-tag 501 with 3-digit date code (pre-1993, e.g. "127" = Dec 1987) — ~2–5× vs post-2003 overseas ($50–300 vs $15–40) — "Made in USA" on the care tag, 3-digit code; 4-digit MMYY codes are 1993+ (https://underpricedai.com/blog/vintage-levis-value)
+- Lee 101 / 101-J with "Union Made" tag (1940s–60s) — Big E tier $250–3,000+ vs $30–90 USA-era Lee — "Union Made" woven into the label, Lee Riders lazy-S pocket stitch (entry ladder)
+- Anti-tell: Big E tab together with a care tag — Levi's Vintage Clothing reissue or fake, premium modern not old — the two features never coexist on an original (https://www.ropedye.com/2013/05/guide-how-to-date-levis-501-jeans/)
 
 ## Materials, finishes and quality tells
 - Old denim: heavier, unsanforised, irregular "slubby" texture, honeycomb/whisker fading, chain-stitched hems (roping).

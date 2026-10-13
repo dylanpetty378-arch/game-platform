@@ -1,5 +1,5 @@
 # Leather motorcycle jackets (Schott Perfecto, Langlitz, Vanson, Buco, Harley-Davidson, Brooks, Lewis Leathers, Belstaff, Wilsons, Excelled, Bermans)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("leather motorcycle jackets" median $101.64 n=42 p25 $68 p75 $107 — mostly new import jackets; "women's motorcycle jacket" median $39.68 n=47; "Wilsons Leather black leather jacket" median $33.81 n=50 p25 $15.99 p75 $54.99, incl. "Vintage Wilsons 90s Y2K black leather moto full zip" $80 Nov 2025); Schott NYC history (https://www.schottnyc.com/about, general knowledge, verify); Langlitz Leathers (https://www.langlitz.com, general knowledge, verify). No web search this run.
+Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("leather motorcycle jackets" median $101.64 n=42 p25 $68 p75 $107 — mostly new import jackets; "women's motorcycle jacket" median $39.68 n=47; "Wilsons Leather black leather jacket" median $33.81 n=50 p25 $15.99 p75 $54.99, incl. "Vintage Wilsons 90s Y2K black leather moto full zip" $80 Nov 2025); Schott NYC history (https://www.schottnyc.com/about, general knowledge, verify); Langlitz Leathers (https://www.langlitz.com, general knowledge, verify). No web search this run. · tells 2026-10-13
 Slug: leather-motorcycle-jackets · Aliases: biker jacket, moto jacket, Perfecto, cafe racer jacket, double rider, police jacket, vintage leather jacket, punk jacket, Harley jacket
 Summary: Mall brands (Wilsons, Bermans, Phase 2, Excelled, Tannery West) $20–80; Harley-Davidson, Buco/J.P. Buckley (later), Brooks, Hein Gericke $80–250; vintage Schott 613/618 One Star, Buco J-24, Langlitz Columbia/Cascade, Vanson, Lewis Leathers $250–1,500+.
 Buy rule (short): Pass on mall brands; buy only label-identified Schott (pre-2000), Buco, Langlitz, Vanson, Lewis Leathers or early Harley at ≤ 1/3 of sold median and ≤ $150, with size and label photos.
@@ -19,6 +19,16 @@ Buy rule (short): Pass on mall brands; buy only label-identified Schott (pre-200
 - **Lewis Leathers (UK)**: Bronx, Lightning, Dominator; $300–900.
 - **Mall brands**: Wilsons, Bermans, Phase 2, Excelled, Tannery West, Leather Loft, Kenneth Cole; $20–80.
 - **Women's 1970s cafe racers** (oxblood/maroon, brown): mostly mall/department-store labels; $40–120.
+
+### Golden-egg tells
+- Buco J-24 / J-100 (J.P. Buckley, Detroit) — ~40× vs a Wilsons ($1,495 Terapeak median, p75 $1,828, vs $34) — "BUCO" label at the neck; the label alone has sold for $300 (entry comp; https://www.thefedoralounge.com/threads/vintage-buco-jacket-1940s-label-j-24-style-age-value-help-value.98944/post-2608566)
+- Buco second label, late 1940s–c.1952, horsehide-only era — $800–2,500 by completeness — second-style Buco label, wool plaid lining (J-21/J-22), detachable mouton collar and belt present (https://www.thefedoralounge.com/threads/vintage-buco-jacket-1940s-label-j-24-style-age-value-help-value.98944/post-2608566)
+- Buco J-23 with nylon quilted lining — dates to late 1952/53 onward (post-horsehide-only) — quilted nylon lining and longer body than the J-21 (https://www.thefedoralounge.com/threads/vintage-buco-jacket-1940s-label-j-24-style-age-value-help-value.98944/post-2608566)
+- Schott 613 One Star, early (late 1940s–60s) — ~3–5× vs a vintage 618 ($1,000+ vs $200–450) — star on each epaulette, horsehide, rectangular black neck label with gold lettering, TALON zips, mitred-corner belt buckle, snaps for a fur collar (https://en.wikipedia.org/wiki/Perfecto_motorcycle_jacket ; entry)
+- Schott 613 later steerhide — Good tier $200–600 — black label reading "Style Quality Perfecto Genuine Steerhide All Hand-Cut" (https://en.wikipedia.org/wiki/Perfecto_motorcycle_jacket)
+- Beck 333 Northeaster (made by Schott for Beck) — Schott 613-class, Top tier $600–3,000 vs $34 mall — "Beck" neck label on a Perfecto-pattern jacket with star epaulettes (https://en.wikipedia.org/wiki/Perfecto_motorcycle_jacket ; entry ladder)
+- Langlitz Columbia / Cascade — ~10–30× vs Wilsons ($400–1,200) — "Langlitz Leathers Portland Oregon" label, made-to-measure fit, slash pockets (entry)
+- Anti-tell: mid-1970s reintroduced One Star — plain snaps, inner pocket, no fur-collar snaps — vintage 618 money ($200–450), not 1950s money (https://en.wikipedia.org/wiki/Perfecto_motorcycle_jacket)
 
 ## Materials, finishes and quality tells
 - Heavy horsehide or steerhide (stiff, 1.2–1.4 mm) = quality; thin lambskin = fashion.

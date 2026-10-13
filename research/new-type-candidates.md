@@ -20,3 +20,19 @@
 - 2026-10-13: farm-implement-wrenches (no entry): CL "assorted vintage tools / farm wrenches" lots of ~30 rusted implement wrenches + cranks run ~25 lb; shipping both ways (~$30 each) kills margin unless maker-marked rarities (named implement co. + model numbers) are legible in photos. No comp in db.
 - 2026-10-13: chocolate-molds (no entry): Lens "iron candy mold / waffle grill" was a tin/aluminium 3-section chocolate-bar tray; titles say "iron" for any heavy-ish metal mold.
 - 2026-10-13: western-hats: Stetson 4X beaver with the printed cowboy-scene liner is 1980s-90s production, not vintage-premium; ~$60-110 used.
+- 2026-10-13: chinese-export-silver: Wang Hing bamboo-handle teaspoons with 福祿壽 characters, pair ~37 g, sell $90-140 the pair — no margin at $100 asking
+- 2026-10-13: vinyl-records: Led Zeppelin II (Atlantic SD 8236) is only valuable as the Robert Ludwig cut — "RL" and "SS" etched in the dead wax of the first 1969 press, $150-400; later PR/MO cuts of the same cover sell $20-30. A sealed/shrink copy still has to be checked.
+- 2026-10-13: railroad-spittoons: Brass/copper spittoons embossed "Union Pacific" with a locomotive are reproductions; UP never issued one. Kill on sight.
+- 2026-10-13: guitar-necks: "Stratocaster neck" listings are usually aftermarket replacement necks; only a Fender decal and serial/date stamp at the heel make it a Fender neck. Ask for the heel before pricing.
+- 2026-10-13: silverplate-flatware: Grape-pattern punch ladles are 1847 Rogers "Vintage" pattern silverplate; S. Kirk & Son repoussé (sterling) has an all-over floral chasing on the handle, not a cast grape cluster at the tip.
+- 2026-10-13: schramberg-smf-pottery: SMF Schramberg hand-painted landscape/bud vases are $20-40; the money is the Eva Zeisel-era geometric Art Deco line (bold stripes/dots, matte glazes), $100-300.
+- 2026-10-13: star-wars-figures: Clone troopers, Anakin and Obi-Wan sculpts with articulated knees = 2005 Hasbro Revenge of the Sith line, $1-3 per figure loose; vintage Kenner (1977-85) has straight-arm 5-point articulation and COO stamps on the leg.
+- 2026-10-13: advertising-china: Beef-extract advertising mugs (Cudahy's Rex Soma, Armour's Vigoral, Liebig) c.1900 Bavarian/Austrian porcelain sell $20-50 each; no premium for pairs.
+- 2026-10-13: woodworking-hand-tools: Folding-handle drawknives sell $50-90 unmarked; A.J. Wilkinson Boston and Jennings/Greenlee marked ones are the $100+ version. Mark is stamped on the blade face near the handle hinge.
+- 2026-10-13: diecast-toy-cars: Opening doors, rubber tires and pullback motor = modern Kinsmart/Maisto 1:38, not Tootsietoy (Tootsietoy is one-piece cast with rivet axles).
+- 2026-10-13: stage-lighting: Vintage ellipsoidal (Leko) spotlights sell $60-150 as decor; ~20 lb so shipping eats the margin under $150 resale.
+- 2026-10-13: belleek: Irish Belleek shamrock 7in side plates are $8-15 each with green/gold marks; only the black mark (pre-1946) lifts them.
+- 2026-10-13: stangl: Stangl Fruit pattern is the common one, $8-15 per piece; not worth lot-shipping.
+- 2026-10-13: zero-halliburton: vintage ZH aluminium attaches with combination lock sell ~$100-180 used; at $60 ask they fail the margin after two shipping legs.
+- 2026-10-13: pocket-knives: E.C. Simmons Keen Kutter wood-handled 2-blade jacks with a brass shield inlay and worn blades sell $30-60; the money is in bone/stag-handled Keen Kutter with full unsharpened blades ($100+).
+- 2026-10-13: ouija-boards: 1940s American Novelty Co. (Omaha) "Ouija Queen" board with heart planchette and illustrated box is a scarce non-Fuld board, $100-250 sold.

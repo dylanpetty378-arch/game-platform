@@ -61,6 +61,12 @@ Photograph each base mark and model number, list TMK per figure, chips/repairs.
 ## Buy rule
 Profit = median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). Singles (TMK-5+) never qualify. Lots: if ~25 figures can be bought for ≤ $100, resale ~$350–500 as a lot or split → passes. Crown/full-bee singles ≤ $20. Must confirm price is for whole lot.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): the 2-3" Goebel mini angels (Joyous News 238A, Angel Serenade 238B, Angel with Accordion 238C) sell $15-25 each in TMK-5/6; they only move up with a crown or full-bee base stamp.
+- 2026-10-13 (triage): Busy Student 367, Apple Tree Girl/Boy 141/142 3/0, Girl with Trumpet/Horn 391, Angel with Accordion 238/229 in 1963-68 dates are TMK-3/4 era and sell $20-25 each; sellers who date them "1963"/"1968" are reading the incised date, not a crown/full-bee mark.
+- 2026-10-13 (triage): Wall plaques #92 Merry Wanderer and #93 Little Fiddler sell $20-40 each regardless of era unless TMK-1 crown / TMK-2 full bee; comps crown-mark median $65.
+- 2026-10-13 (triage): "BH"-numbered figures (e.g. BH 82, BH 3, BH 53, 1996–99) marked Thailand are "Berta Hummel" Goebel-licensed resin/porcelain, not M.I. Hummel Goebel pieces — $5–15 each; sellers lump them in with TMK-marked Goebels.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 15, "shape": "set-of-many",

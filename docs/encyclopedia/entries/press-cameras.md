@@ -62,6 +62,9 @@ Format, era (pre-Anniversary/Anniversary/Pacemaker), lens and shutter model, whi
 ## Buy rule
 Profit = median × 0.87 − ~$25 − ~$25 − price ≥ max($50, price). A $300 4x5 kit allows ≤ ~$100. Shutters are mechanical (not electronics) but untested shutters count as risk: require a video of the shutter firing. Pass on 2x3/3x4 minis above $50.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): a "Speed Graphic" in a studio lot is often the 2x3 Miniature/Pacemaker (box reads "2 1/4 x 3 1/4 Speed Graphic") — entry says pass on 2x3; only the 4x5 with lens is the money
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 6, "shape": "irregular",

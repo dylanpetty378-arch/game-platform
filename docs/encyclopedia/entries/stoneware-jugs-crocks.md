@@ -1,5 +1,5 @@
 # Stoneware crocks, jugs and salt crocks (Red Wing, Western/Monmouth, Greensboro/New Geneva PA, decorated salt-glaze, Albany slip, blue-band)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: crockerfarm.com auction archive (Hamilton & Jones lots 2007–2013); redwingcollectors.org / Red Wing Collectors Society knowledge; eBay listings Oct 2026; eBay sold memory 2025; knowledge of eBay/auction sold ranges (Red Wing, Western, Monmouth, decorated cobalt); agent knowledge; Google Lens checks 2026-10-13 (asking-price based)
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: crockerfarm.com auction archive (Hamilton & Jones lots 2007–2013); redwingcollectors.org / Red Wing Collectors Society knowledge; eBay listings Oct 2026; eBay sold memory 2025; knowledge of eBay/auction sold ranges (Red Wing, Western, Monmouth, decorated cobalt); agent knowledge; Google Lens checks 2026-10-13 (asking-price based) · tells 2026-10-13
 Slug: stoneware-jugs-crocks · Aliases: crock, antique crock, whiskey jug, moonshine jug, salt glaze jug, stoneware jug, Red Wing crock, salt crock, Albany slip jug, blue band jug
 Summary: unmarked, RRP and Western 1–3 gal $15–50 (local); marked Red Wing/Western 2–5 gal, blue-sponge salt crock with lid, blue-band pitchers $50–150; Red Wing large wing 10+ gal, Greensboro stencilled, cobalt bird/flower, advertising jugs $150–600; elaborate cobalt scenes, signed potters, 30+ gal $500–10,000+ (auction).
 Buy rule (short): Uncracked cobalt-decorated, Greensboro-stencilled or advertising piece well under value (≤ $40–100 depending on decoration) that can ship; pass plain, unmarked, cracked, pickup-only or over-5-gal pieces.
@@ -28,6 +28,16 @@ Buy rule (short): Uncracked cobalt-decorated, Greensboro-stencilled or advertisi
 | Robinson-Ransbottom (RRP) | OH, 20th c. | blue crown | $15–50 |
 | Albany-slip shoulder jugs | 1880s–1920s | usually unmarked | $25–60; advertising jugs much more |
 | Blue-band jugs and pitchers | 1920s–40s | unmarked | $25–45 |
+
+### Golden-egg tells
+- Red Wing 30-gal salt-glaze with cobalt butterfly, double-stamped — $32,000 (Bramer Auction, Nebraska, 2025) vs $15–50 unmarked crock (600×) — slip-trailed cobalt "butterfly", "RED WING STONEWARE CO." impressed twice, 1877–1900 grey salt glaze with moulded side handles (https://www.aol.com/articles/she-thought-her-old-crock-195641148.html)
+- Midwest salt-glaze "bee stinger" cobalt 8-gal, attrib. Red Wing — $177 (Crocker Farm 2018) vs Bristol 2-gal Red Wing ~$70 (2.5×) — slip-trailed cobalt loop under an underscored gallon number, tooled shoulder, applied lug handles (https://crockerfarm.com/stoneware-auction/2018-03-24/lot-382/8-Gal-Stoneware-Crock-attrib-Red-Wing-Minnesota)
+- Cobalt bird on a 5-gal Midwest salt-glaze crock — $690 (Crocker Farm 2014) vs $15–50 (15×) — freehand brushed bird (not a stencil) on grey salt glaze, 4th-quarter 19th c. (https://crockerfarm.com/stoneware-auction/2014-10-25/lot-216A/Five-Gallon-Stoneware-Crock-with-Cobalt-Bird-Decoration-Midwestern-origin-possibly-Red-Wing-MN-or-Akron-OH-fourth-quarter-19th-century)
+- Greensboro PA stencilled (Hamilton & Jones) 4-gal — $431 (Crocker Farm 2013) vs $15–50 (10×) — stencilled cobalt maker name and town with stencilled flowers/eagles and freehand stripes (entry comp)
+- Merchant advertising crocks and jugs — 6½ in. advertising crock asking $192 (Red Wing MN seller) vs $15 plain (10×) — merchant name and town stamped or stencilled in cobalt on the front (https://www.ebay.com/itm/266309019968)
+- Red Wing large (6 in.) wing on 10–20 gal — $150–600 vs small 4 in. wing 2–5 gal $60–150 (3×) — measure the red wing against the gallon number; oval "Red Wing Union Stoneware" stamp beneath (entry Makers table)
+- Freehand bird/deer cobalt on NY/PA salt-glaze (Cowden & Wilcox, White's Utica, Remmey) — $500–10,000+ vs $15–50 (10–200×) — impressed maker name at the shoulder plus brushed cobalt animal (entry Makers table)
+- Red Wing "RED WING POTTERIES" Bristol 2-gal — two-crock lot $143.75 (Crocker Farm 2011) — the baseline: Bristol white glaze and the later "Potteries" mark is the common version (https://crockerfarm.com/stoneware-auction/2011-10-29/lot-387/Lot-of-Two-Midwestern-Stoneware-Crocks-including-one-signed-RED-WING)
 
 ## Materials, finishes and quality tells
 - Salt glaze: an orange-peel surface texture from salt thrown into the kiln. Older (19th c.) and usually grey with cobalt.

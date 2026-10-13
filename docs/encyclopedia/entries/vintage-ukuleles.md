@@ -143,6 +143,9 @@ stamp, decal or label is shown in the photos.
 Lots under $150 only if a Martin or Gibson headstock is visible. Profit must be ≥ max($50, price) after ~13% fees and
 shipping both ways. Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Regal (Chicago) ukes carry a round paper label inside the soundhole reading "Regal — Mark of Better Instruments"; Martin never used a paper label (stamp on the inside back strip, and on the headstock back only from ~1935). A white-bound mahogany soprano with a paper label is Regal/Harmony-tier ($100-200), not Martin Style 1.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 4, "shape": "irregular", "fragility": 4, "transit_damage_risk": 3, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 2, "id_difficulty": 3, "rarity": 2, "sold_per_month": 500, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [80, 200, 600], "price_spread": 7.5, "condition_sensitivity": 4, "seasonality": "none", "best_platform": "Reverb; eBay", "fees_pct": 13, "ship_cost_to_buyer": 20, "undervalue_frequency": 3, "bust_probability": 35, "expected_profit_typical": 20, "confidence": "low"}

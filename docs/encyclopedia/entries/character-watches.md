@@ -1,5 +1,5 @@
 # Character and novelty wristwatches (Ingersoll, U.S. Time/Timex, New Haven, Bradley, Ingraham, Sheffield, Dirty Time Co., Lafayette; cowboy, Disney, comic and political watches)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Hake's Americana auction archive https://www.hakes.com (not loaded) ; "Comic Character Timepieces" (Brown, Brown & Greenberg) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Hake's Americana auction archive https://www.hakes.com (not loaded) ; "Comic Character Timepieces" (Brown, Brown & Greenberg) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
 Slug: character-watches · Aliases: character watch, Hopalong Cassidy watch, Hoppy watch, Roy Rogers watch, Mickey Mouse watch, Ingersoll Mickey, cowboy watch, comic watch, political watch, Spiro Agnew watch, Republican elephant watch, novelty watch, Timex character watch, Bradley watch
 Summary: 1970s–90s character/novelty watches (Bradley, Timex, Lorus, Spiro Agnew/political) $10–50; 1940s–50s cowboy and comic watches without box $40–150; boxed 1930s–50s (Ingersoll Mickey 1933, Hopalong with saddle box, Roy Rogers, Dan Dare) $200–1,500.
 Buy rule (short): Buy only 1930s–50s US/UK character watches that run, with a clean original dial, at ≤ $30 (≤ $100 if with original box); pass on 1970s+ novelty watches over $10.
@@ -18,6 +18,16 @@ Wristwatches with a cartoon, cowboy, comic or political figure on the dial, most
 - **Ingraham, Bradley (Elgin)**: Roy Rogers, Mickey 1970s.
 - **Dirty Time Co.**: Spiro Agnew 1970 ($30–80), others.
 - **Timex 1970s**: character and promotional watches $15–60.
+
+### Golden-egg tells
+- 1933 Ingersoll Mickey Mouse with original box — $2,750 (Heritage Dec 2022), $2,000–3,000 range vs Terapeak loose median $150 (~18×) — box with Mickey graphics; watch has "Ingersoll" on the dial, Mickey's articulated arms as hands, pie-eyed Mickey, three-Mickey seconds disc (https://articles.appraisily.com/old-mickey-mouse-watch-values ; entry comp)
+- 1933–40s Ingersoll Mickey, working and original, no box — $450–1,500 vs $150 median — chrome or gold-filled case, "Made in USA", original metal link band with Mickey figures (https://articles.appraisily.com/old-mickey-mouse-watch-values)
+- 1935 Ingersoll Mickey pocket watch — $1,850 (eBay Nov 2022) — larger pocket format, Mickey arms as hands, fob with Mickey (https://articles.appraisily.com/old-mickey-mouse-watch-values)
+- 1940s Ingersoll "Waterbury" Mickey — $1,200 (Sotheby's Feb 2023) — "Ingersoll-Waterbury" / "Waterbury" on the dial, round chrome case (https://articles.appraisily.com/old-mickey-mouse-watch-values)
+- Bradley 1950s–60s mechanical Mickey — $75–450 vs $10–40 for 1970s Bradley — "Bradley" on the dial, colourful 1950s–60s dial art, wind-up (not electric) movement (https://articles.appraisily.com/old-mickey-mouse-watch-values)
+- Hopalong Cassidy U.S. Time (1950) with saddle box — Terapeak median $83, top $230 vs $50–100 loose; a loose Hoppy with the belt-buckle band asks $18 — the black saddle-shaped display box is the value, not the buckle band (entry comp ; https://www.ebay.com/itm/197267184296)
+- Working vs not working — 2–3×; original packaging on 1970s–80s models +30–50%; replated or heavily worn cases −30–50% (https://articles.appraisily.com/old-mickey-mouse-watch-values)
+- Gerald Genta / Bulgari Mickey (retrograde display) — $10,000–20,000+ ("Arena Retro" $18,500, Christie's Mar 2023) — Mickey on a jewelled Swiss dial with a fan-shaped retrograde minutes track (https://articles.appraisily.com/old-mickey-mouse-watch-values)
 
 ## Materials, finishes and quality tells
 - Original dials: lithographed or printed paper/metal, soft ageing, period fonts; maker name small on dial. Re-dials: too bright, too crisp, wrong font, maker missing.

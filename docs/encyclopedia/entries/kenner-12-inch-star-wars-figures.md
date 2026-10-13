@@ -54,6 +54,10 @@ State figure, year (1978 stamp), loose/boxed, which accessories are original, ou
 ## Buy rule
 Buy when: a 1978 figure with its main accessory, price ≤ $70 per figure. Pass when: Collector Series (1996+) at any price over $15, or 1978 figures missing saber/cape. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Kenner 1978–80 die-cast vehicles — Landspeeder, X-Wing, Star Destroyer, Falcon, Snowspeeder, TIE Fighter, Y-Wing, Slave I are the common ones at $30–50 loose; only the TIE Bomber ($300+) and carded examples carry a lot. Yellowed X-Wing wings and glued cockpits are typical condition hits.
+- 2026-10-13 (triage): "Johnny Strong" is a 1970s Hong Kong GI Joe knockoff (box #8000); sealed MIB $30-60, not the Hasbro money.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "irregular", "fragility": 2, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 3, "id_difficulty": 2, "rarity": 3, "sold_per_month": 150, "sell_through": 50, "days_to_sell": 14, "price_p25_p50_p75": [60, 100, 160], "price_spread": 2.7, "condition_sensitivity": 4, "seasonality": "Nov–Dec; new Star Wars releases", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 15, "undervalue_frequency": 3, "bust_probability": 30, "expected_profit_typical": 30, "confidence": "medium"}
