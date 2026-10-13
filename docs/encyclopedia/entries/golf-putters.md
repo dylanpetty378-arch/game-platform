@@ -59,6 +59,7 @@ State maker, model, length, loft/lie if known, sole stamping, grip, headcover, R
 Buy when: Scotty Cameron ≤ $100, Ping Scottsdale ≤ $80, Sacks Parente ≤ $60, hickory Nicoll/Stewart ≤ $25. Pass when: seller names the model and asks within 30% of market. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Fits a passenger seat.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): Acushnet Bullseye stamped "OS 40" (Old Standard flange) with "Designed by John Reuter Jr." is the common 1970s-80s production, $40-70; not a collector variant.
 - 2026-10-13 (triage): Ping manganese-bronze/BeCu blade putters: the Cushin and Anser are the ones with resale; a Slazenger BeCu blade from the same era is $40-60.
 
 ## Rubric

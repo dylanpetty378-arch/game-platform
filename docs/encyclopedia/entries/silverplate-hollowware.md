@@ -96,6 +96,9 @@ Price ≤ $200. Profit = sold median × 0.87 − shipping to buyer − shipping 
 - Georgian pewter: buy at ≤ $40 only with a photo of the base marks and an intact original handle, and with no ivory (or a removable ivory finial).
 - Everything here fits a passenger seat. No authentication is needed beyond reading marks. Never pay sterling money for an unmarked piece.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Meriden Britannia Pat. 1858 double-wall ice-water pitchers are a standard Victorian form, $80-180 depending on plate wear, and weigh 6-8 lb.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "irregular",

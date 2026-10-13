@@ -1,5 +1,5 @@
 # Duck decoys (working wood decoys, factory and hand-carved; Mason, Herter's, Victor/Animal Trap, Evans, Dodge, Stevens, Peterson; modern GHG/Avian-X/Flambeau)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Invaluable "What makes duck decoys valuable" (Guyette & Deeter auction data), Appraisily decoy ID guides, eBay sold listings (unmarked glass-eye decoys), wisducks.org Herter's history (Warman's price guide values), duckboats.net forum, Terapeak (Oct 2026), agent knowledge
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Invaluable "What makes duck decoys valuable" (Guyette & Deeter auction data), Appraisily decoy ID guides, eBay sold listings (unmarked glass-eye decoys), wisducks.org Herter's history (Warman's price guide values), duckboats.net forum, Terapeak (Oct 2026), agent knowledge · tells 2026-10-13
 Slug: duck-decoys · Aliases: wooden duck, old decoy, carved duck, hunting decoys, decoy lot, Herter's decoys, Mason decoy
 Summary: Plastic/foam hunting decoys $5–15 each ($50–120/dozen) and decorative imports $5–30; unmarked working wood decoys $30–80 repainted, $60–250 original paint (Terapeak median $80); Mason standard, Herter's cork, Evans $150–800; Mason premier and named carvers $1,000–$80,000+.
 Buy rule (short): Wood body, glass eyes, keel/weight and original crazed paint (or a belly stamp) at ≤ $40 each; pass plastic/foam lots, glossy decoratives, repaints.
@@ -18,6 +18,17 @@ Old hunting ("working") decoys vs. modern decorative carvings. Working-decoy tel
 - **Named/regional carvers** (Crowell, Wheeler, Ward Bros., Wilson, Lincoln, Bowman; Illinois River, Chesapeake, Long Island, Maine, Louisiana styles): auction only, $1,000–100,000+.
 - **Shorebirds** (plover, yellowlegs) and oversize/sleeper forms: much rarer and higher.
 - **Modern decorative / Ducks Unlimited editions**: junk tier.
+
+### Golden-egg tells
+- Mason Premier grade — ~4× ($325 median; $700–1,200 with original paint) vs the $80 unmarked median — hollow-carved body, flat bottom with a recessed weight area, glass eyes, detailed swirl paint; later ones stamped "Mason Decoy Factory" (https://appraisily.com/most-wanted-antique-duck-decoy-identification/)
+- Mason Premier wood duck drake — $690,000 (2014) — rarest species in the top grade; wood duck crest and white face stripes in factory paint (https://wisducks.org/mason-decoys/)
+- Mason Challenge grade — ~3× vs unmarked — solid body, round bottom, glass eyes, detailed paint (https://appraisily.com/most-wanted-antique-duck-decoy-identification/)
+- Elmer Crowell (East Harwich MA) signed/branded — ~30–1,000× ($2,500 for a black duck; $16,000–79,000 for preening/sleeping forms) — "A.E. Crowell" or oval brand on the underside, raised carved wing tips, feather-stippled paint (https://www.invaluable.com/blog/inside-the-archives-duck-decoy-prices/)
+- Ward Brothers (Crisfield MD) — $45,000 for a pinch-breasted pintail — "L.T. Ward & Bro." stamp or signature on the bottom, pinched breast carving (https://www.invaluable.com/blog/inside-the-archives-duck-decoy-prices/)
+- Shorebirds (yellowlegs, plover, turnstone) by any period carver — $30,000–85,000 — slender body on a stick-hole, long bill, Long Island/Cape Cod style (https://www.invaluable.com/blog/inside-the-archives-duck-decoy-prices/)
+- Species: wood duck, harlequin, pintail, canvasback, redhead — ~1.5–3× vs mallards in the same grade — species-specific head shape and paint pattern (https://appraisily.com/most-wanted-antique-duck-decoy-identification/)
+- Herter's 1936–39 cork bodies — ~1.1–2× ($90 median, $157 p75; $200–500 for clean ones) vs unmarked wood — pressed cork body with wooden bottom board and head, "Herter's" stamp on the board (entry comp)
+- Victor / Animal Trap Co. stamped — ~1–4× ($40–300) vs unmarked — oval "VICTOR / ANIMAL TRAP CO" ink stamp or brand on the belly (entry comp)
 
 ## Materials, finishes and quality tells
 Cedar, white pine, balsa or cork bodies; glass eyes (old) vs tack or painted eyes; lead or iron keel weights; staples/rings for tie lines. Original paint shows crazing, even wear at high points, and oxidised edges; repaint looks fresh, glossy, or covers old shot scars and wear. Separate dowelled head; check for replaced heads (different wood/colour, newer paint at the neck joint) (general knowledge, verify).

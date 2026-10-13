@@ -53,6 +53,9 @@ Maker, model name, approximate decade, size, complete/missing parts (balls, plun
 ## Buy rule
 Profit = median × 0.87 − ship (~$18) − ship to Dylan (~$18) − price ≥ max($50, price). With medians of $40–80, a typical piece is a pass. Only a scarce/boxed/licensed piece with a verified $120+ median at ≤ ~$20, or local pickup (no inbound shipping) of a multi-game lot ≤ $25. Default: pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Northwestern Products "5-Game Electric" bagatelle, worn and asking $85, sits in the $40-90 tier.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 4, "shape": "flat",

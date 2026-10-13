@@ -102,6 +102,10 @@ Buy when:
 Pass when: cracked; pickup-only; Red Wing under 10 gal at > $40; plain or unmarked; lidless salt crocks; blue-band at any price above free; anything over 5 gal that must ship.
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat; 10+ gal crocks generally don't.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Red Wing 5-gal shoulder jugs (red wing + oval) sell $80-150 but weigh ~25 lb — local-sale only at $40 asks, no shipped margin.
+- 2026-10-13 (triage): Red Wing 5-gal shoulder jugs with red wing + Union Stoneware oval sell $100-175 but weigh ~25 lb boxed; shipping alone erases the margin at any asking over ~$40.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 15, "shape": "round", "fragility": 4, "transit_damage_risk": 4, "hidden_defect_risk": 4, "testability": 3, "repro_risk": 3, "id_difficulty": 3, "rarity": 2, "sold_per_month": 800, "sell_through": "?", "days_to_sell": 45, "price_p25_p50_p75": [40, 80, 150], "price_spread": 3.8, "condition_sensitivity": 4, "seasonality": "none strong; Red Wing convention July", "best_platform": "local for plain; eBay for small marked; Crocker Farm auction for decorated", "fees_pct": 13, "ship_cost_to_buyer": 35, "undervalue_frequency": 3, "bust_probability": 55, "expected_profit_typical": -15, "confidence": "medium"}

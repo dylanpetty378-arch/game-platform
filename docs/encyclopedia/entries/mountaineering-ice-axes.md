@@ -48,6 +48,9 @@ Photograph the maker stamp, length, shaft condition and any badges.
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$30 out − ~$30 in − price ≥ max($50, price). Only marked premium makers at ≤ ~30% of the median. Souvenir axes never qualify above ~$20.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): an "ice axe" whose shaft is studded with Alpine stocknagel (hiking-stick badges) is a souvenir walking stick, not a climbing axe — $30-80 regardless of head.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 3, "shape": "irregular",

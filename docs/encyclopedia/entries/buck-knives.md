@@ -52,6 +52,9 @@ Photograph tang stamp, lockup, blade profile, sheath; state era by stamp.
 ## Buy rule
 Modern Buck 110 sold ~$35 → can't clear $50. A 1960s multi-line 110 selling $150 at ≤ $55 could work (0.87×150 − 8 − 8 − 55 = 60). Requires tang photo.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Buck 110 "2 dot" (one dot each side of the model number) = 1974-80, sells $45-70; a blade sharpened past its belly drops it to the low end.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.5, "shape": "irregular",

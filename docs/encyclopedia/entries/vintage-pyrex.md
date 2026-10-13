@@ -57,6 +57,9 @@ Give pattern name, shape number, capacity, lid number, colour condition (state "
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$20) − ship to Dylan (~$20) − price ≥ max($50, price). Needs ~$105+ median. Buy only scarce 1950s–60s promotional patterns, complete primary/rare colour sets, or rare promos, glossy and undamaged, at ≤ 1/3 of median. Pass 1970s patterns, carafes, DWD, chipped or cracked pieces, post-1998 "pyrex".
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Solid turquoise Hostess chip & dip with metal cradle (1963, 441/444) sells $70-130 complete; sellers ask $80, so no margin unless under $35.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 5, "shape": "round",

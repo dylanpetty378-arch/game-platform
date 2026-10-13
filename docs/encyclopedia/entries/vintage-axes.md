@@ -1,5 +1,5 @@
 # Vintage axes (Plumb, Kelly Works/True Temper, Collins, Mann Edge, Warren Axe, Snow & Nealley, Hults Bruk, Gränsfors, Council Tool, Marbles, Keen Kutter, Winchester)
-Updated: 2026-10-13 · deepened 2026-10-13 · Sources: general knowledge (no web search this run); db/comps.jsonl hand-tool-lots rows (generic, not axe-specific). Deepening research 2026-10-13: BladeForums, "Plumb Scout axe timeline paper" thread (https://bladeforums.com/threads/plumb-scout-axe-timeline-paper.1530085/); Appraisily, "Antique axe identification" (https://appraisily.com/antique-axe-identification/); Wikipedia "Keen Kutter" (https://en.wikipedia.org/wiki/Keen_Kutter — search result only, page fetch refused; Keen Kutter facts below are general knowledge, verify).
+Updated: 2026-10-13 · deepened 2026-10-13 · Sources: general knowledge (no web search this run); db/comps.jsonl hand-tool-lots rows (generic, not axe-specific). Deepening research 2026-10-13: BladeForums, "Plumb Scout axe timeline paper" thread (https://bladeforums.com/threads/plumb-scout-axe-timeline-paper.1530085/); Appraisily, "Antique axe identification" (https://appraisily.com/antique-axe-identification/); Wikipedia "Keen Kutter" (https://en.wikipedia.org/wiki/Keen_Kutter — search result only, page fetch refused; Keen Kutter facts below are general knowledge, verify). · tells 2026-10-13
 Slug: vintage-axes · Aliases: felling axe, single bit axe, double bit axe, boys axe, hatchet, cruiser axe, axe head, Plumb axe, Kelly Flint Edge, broad axe, hewing axe, Hudson Bay axe, Dayton pattern, Michigan pattern, Jersey pattern, scout axe, True Temper axe
 Summary: unmarked/rusty heads with handles $15–35 each; marked Plumb/Kelly/Collins/True Temper heads $30–80; embossed Kelly "Perfect"/Flint Edge, Keen Kutter, Winchester, Marbles, Snow & Nealley and Hudson Bay axes $80–300+ (general knowledge, verify)
 Buy rule (short): Buy only when a maker stamp or embossed logo is visible (Keen Kutter, Winchester, Kelly embossed, Marbles) and price ≤ ~$30 per axe; unmarked rusty heads are a pass.
@@ -34,6 +34,17 @@ Line and dating detail:
 - Eye: no cracks at the corners; handle seated tight with a wedge.
 - Handle: straight-grain hickory, original (worn finish matching head age) vs fresh replacement.
 - Forged (forge-weld seams, hand-filed surfaces, drift marks in the eye) vs cast (casting texture, mould lines, perfectly machined eye) — cast = decorative/fake (Appraisily).
+
+### Golden-egg tells
+- Kelly "Black Raven" (Kelly Axe Mfg., Charleston WV, c. 1904–1930s) — ~6× (~$300 for the head alone) vs the $45 median — embossed raven-in-flight with "BLACK RAVEN" lettering on the cheek, often with the original paint in the embossing (https://www.wcjb.com/2023/01/03/north-central-florida-treasures-black-raven-axe)
+- Puget Sound Faller pattern double bit — ~7–13× ($300–600) vs the median — very long, narrow bits (head 12 in+ tip to tip), thin cheeks, West Coast felling profile (https://www.brainbound.blog/axe-collecting-guide)
+- Collins "Legitimus" — ~3–8× ($120–350) vs a plain Collins stamp — "LEGITIMUS" with the crown-arm-and-hammer device stamped or embossed on the cheek (https://www.brainbound.blog/axe-collecting-guide)
+- Black Diamond (Kelly line) — ~3–9× ($150–400) vs the median — embossed diamond logo with "BLACK DIAMOND" on the cheek (https://www.brainbound.blog/axe-collecting-guide)
+- Kelly "Perfect" with a clear embossed/etched mark — ~2–4× ($80–200) vs a stamped-only Kelly — "KELLY PERFECT" lettering across the cheek, often with the registered/trade-mark line (https://www.brainbound.blog/axe-collecting-guide)
+- Winchester (1920s hardware line) — ~2–4× (floor ~$50, more for boys/camp axes with original handle) vs the median; heavily faked — "WINCHESTER / TRADE MARK / MADE IN U.S.A." with slanting serif letters; crisp new-looking stamp on a worn head = restamp (https://www.bladeforums.com/threads/winchester-axe.1104629)
+- Keen Kutter embossed camp/boys axe heads — ~2–4× ($80–150) vs the median — the Simmons kite/shield logo with "KEEN KUTTER" raised on the cheek, not just stamped near the eye (entry comp)
+- Marble's Gladstone safety axe/hatchet — ~2–6× ($100–300) vs a common hatchet — folding steel guard over the bit, "MARBLE'S GLADSTONE MICH." stamp, nickel-plated head (entry comp)
+- Plumb "Victory" wartime embossing (c. 1942–44) — ~2× ($60–120) vs a plain Plumb — embossed "VICTORY" with a V on the cheek and a rougher, unfinished surface (entry comp)
 
 ## Materials, finishes and quality tells
 Embossed/etched cheek logos and paper labels = premium; original painted head; straight-grain hickory with original wedge. Heavy pitting, mushroomed polls (used as a hammer), chips reduce value.

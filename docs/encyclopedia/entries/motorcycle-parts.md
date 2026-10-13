@@ -48,6 +48,9 @@ Part number, years fit, OEM evidence, every hole and rust spot photographed.
 ## Buy rule
 Fenders/tanks: pass (bulky, fitment expertise, freight). Small OEM pieces: buy when part number visible and price ≤ 1/3 of sold comp. No engine internals that need testing.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): 1940s Indian Chief oval tank emblems sell as pairs ($250-400); a single, even original, caps near $150, so a single at $135 never clears 2x.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 15, "shape": "irregular",

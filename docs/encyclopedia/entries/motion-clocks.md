@@ -52,6 +52,9 @@ Post a video showing time and motion running. Give the model number from the bac
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$17 out − ~$17 in − price ≥ max($50, price). Dylan's no-untested-electronics rule applies: only buy if the seller shows a video of it running, and even then common Mastercrafters waterfalls don't clear the profit bar. Buy rare models only.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Mastercrafters Niagara Falls is model 344 with a resin "bark" case and Mastercrafters script dial; it is the common motion clock (p25 sold $48), not a rare model.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "irregular",

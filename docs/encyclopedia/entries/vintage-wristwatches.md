@@ -124,6 +124,10 @@ Merged from both write-ups:
   novelty watches.
 - Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Gruen "Veri-Thin" dials sit in curved rectangular GF cases that look like Curvex; the Curvex premium needs a curved caliber (311/330/440) visible on the movement. A missing stem/crown drops any Gruen to parts tier $40-90.
+- 2026-10-13 (triage): "Cadola" is a current microbrand selling ~$200 new (quartz chronograph, "1946" is marketing); resells $80-130 — not a vintage Swiss chronograph.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.5, "shape": "irregular", "fragility": 2, "transit_damage_risk": 1, "hidden_defect_risk": 4, "testability": 4, "repro_risk": 4, "id_difficulty": 4, "rarity": 2, "sold_per_month": 20000, "sell_through": "?", "days_to_sell": 14, "price_p25_p50_p75": [30, 70, 150], "price_spread": 5.0, "condition_sensitivity": 4, "seasonality": "Q4 gift season", "best_platform": "eBay; Chrono24 for collectible+", "fees_pct": 13, "ship_cost_to_buyer": 8, "undervalue_frequency": 3, "bust_probability": 35, "expected_profit_typical": 15, "confidence": "low"}

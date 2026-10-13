@@ -1,5 +1,5 @@
 # Ukuleles, 1920s–50s (Martin, Gibson, Kamaka, Kumalae, Harmony, Regal, Favilla, banjo ukes)
-Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · Sources: earlier sweep summary (index row only); general knowledge (marked); Kamaka official dating page https://kamakahawaii.com/support/dating-your-kamaka-uke/ ; UMGF "Dating Martin ukes" thread https://umgf.com/dating-martin-ukes-t4172.html ; 12th Fret Martin 1K listing https://shop.12fret.com/products/martin-style-1k-koa-body-soprano-ukulele-1927-1932 ; ukulele.org Vintage ʻUkulele Q&A https://ukulele.org/qa/page-1/ ; Retrofret Gibson UB-2 (1932) https://retrofret.com/products/gibson-ub-2-banjo-ukulele-1932-12505 ; Retrofret Gibson Uke-2 (1926) https://retrofret.com/products/gibson-uke-2-soprano-ukulele-1926-7897
+Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · tells 2026-10-13 · Sources: earlier sweep summary (index row only); general knowledge (marked); Kamaka official dating page https://kamakahawaii.com/support/dating-your-kamaka-uke/ ; UMGF "Dating Martin ukes" thread https://umgf.com/dating-martin-ukes-t4172.html ; 12th Fret Martin 1K listing https://shop.12fret.com/products/martin-style-1k-koa-body-soprano-ukulele-1927-1932 ; ukulele.org Vintage ʻUkulele Q&A https://ukulele.org/qa/page-1/ ; Retrofret Gibson UB-2 (1932) https://retrofret.com/products/gibson-ub-2-banjo-ukulele-1932-12505 ; Retrofret Gibson Uke-2 (1926) https://retrofret.com/products/gibson-uke-2-soprano-ukulele-1926-7897
 Slug: vintage-ukuleles · Aliases: vintage ukulele, uke, old ukulele, Hawaiian ukulele, koa ukulele, banjo uke, banjolele, Martin uke, pineapple uke, taropatch, Roy Smeck uke, Supertone uke
 Summary: Martin style 0–3 $400–2,000; Kamaka/Gibson $300–800; Harmony/Regal/Kumalae $60–200; banjo ukes $60–150 (top Gibson UB/Ludwig banjo ukes much more at dealer retail)
 Buy rule (short): Lots under $150 only if a Martin or Gibson headstock is visible
@@ -73,6 +73,17 @@ Value movers: maker (Martin/Gibson/Kamaka) > koa vs mahogany > style number/trim
 - Binding: none (Martin 0), rosewood (1K), multiple/ivoroid (higher styles); Pyralin "pearloid" boards = Harmony-type budget.
 - Cracks on top/back near the soundhole and lower bout; lifting bridge.
 
+### Golden-egg tells
+- Martin Style 5K soprano (1923–c.1940) — $9,500 dealer retail vs $400–800 for a Style 0/1 (~10–20×) — heavily flamed koa with pearl inlay and pearl binding on top, back AND sound hole, ebony fingerboard with fancy pearl position markers, headstock pearl inlay, often in the original violin-style black case with purple lining (https://retrofret.com/products/c-f-martin-style-5k-soprano-ukulele-1924-4582)
+- Martin Style 3K / 3 (1920s) — roughly $2,500–4,000 dealer retail vs $400–800 for a Style 0 (~4–6×) — multi-ply black/white top and back binding, inlaid fingerboard extension "arrow" at the sound hole end, bound fingerboard with diamond/arrow pearl markers, "C.F. Martin & Co." back-of-headstock stamp and no front decal before 1930 (https://retrofret.com/products/c-f-martin-style-3k-soprano-ukulele-1925-12091)
+- Ludwig "Wendell Hall Professional" banjo uke (late 1920s) — ~$2,000 asked vs $60–150 for a common banjo uke (~15×) — gold script "Wendell Hall Professional" on the headstock, bound resonator with marquetry inlay, integrated armrest, Planet 4:1 geared pegs with ivoroid buttons, gold Ludwig badge on the case (https://reverb.com/item/2929996-1920s-ludwig-wendell-hall-professional-banjo-ukulele-vintage-banjolele-w-ohsc)
+- Gibson UB-2/UB-3 banjo uke (1926–30s) — $1,650 dealer retail vs $60–150 common (~10×) — slanted white-script "Gibson" on the headstock, 8" laminated maple rim, flat-plate resonator, pearl fingerboard inlay on later ones, co-ordinator rod visible inside (entry comp: Retrofret UB-2 sold)
+- Kamaka pineapple with pre-1958 interior label and no "KK" headstock decal — $700–1,300+ vs $300–800 for a standard-shape Kamaka — oval body with no waist, painted "pineapple" motif on early ones, paper label inside with 1916–57 wording and no gold label (entry comp; https://kamakahawaii.com/support/dating-your-kamaka-uke/)
+- Kamaka gold-label era (1954/58–69) — ~1.5× a 1970s–90s white-label Kamaka — red-and-black "Kamaka Ukulele" gold interior label plus "KK" headstock decal; the later small white label is the cheaper era (https://kamakahawaii.com/support/dating-your-kamaka-uke/)
+- Martin koa ("K" suffix) vs same-style mahogany — ~1.5–2× — golden, curly grain visible through the sound hole and on the back; Style 1K shows rosewood body binding with ebony nut (entry comp: 12th Fret 1K CAD $800)
+- Kumalae Model D/E inlaid koa (c.1920–30) vs plain Kumalae — $400–800 vs $60–200 (~3–4×) — rope-pattern or pearl inlay around the top edge and sound hole, Territory-of-Hawaii-seal decal on the headstock, Hawaiian-made verification stamp on the headstock back (entry: ukulele.org Q&A)
+- Gibson Uke-3 vs Uke-1 — ~2× (Uke-2 at $950 dealer retail sits between) — Uke-3 has bound fingerboard with fancy pearl inlays, multi-ply body binding and bound headstock; Uke-1 is plain with a single dot inlay (entry comp: Retrofret Uke-2 sold)
+
 ## Materials, finishes and quality tells
 Koa (curly, golden-brown) and mahogany for the good ones; birch, spruce or plastic for budget. Wooden friction pegs were
 original on many early ukes; Martin changed from wooden pegs to patent tuners in 1927 (UMGF; 12th Fret). Original tuner
@@ -144,6 +155,7 @@ Lots under $150 only if a Martin or Gibson headstock is visible. Profit must be 
 shipping both ways. Must fit a passenger seat.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): Silvertone hula-girl decal sopranos are Harmony-made; sellers ask $100-150 but they sit in the Harmony/Regal $60-200 tier, so profit rarely clears the price above ~$60.
 - 2026-10-13 (triage): Regal (Chicago) ukes carry a round paper label inside the soundhole reading "Regal — Mark of Better Instruments"; Martin never used a paper label (stamp on the inside back strip, and on the headstock back only from ~1935). A white-bound mahogany soprano with a paper label is Regal/Harmony-tier ($100-200), not Martin Style 1.
 
 ## Rubric

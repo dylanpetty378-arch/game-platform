@@ -64,6 +64,9 @@ State material (porcelain/tin/plastic), single or double-sided, exact dimensions
 ## Buy rule
 Buy when: porcelain (not plastic/tin) pump plate or small sign ≤ $150 with clean gloss, or porcelain street sign ≤ $30. Pass when: plastic canopy signs, neons (freight/breakage), any Shell/Texaco over $150 without an authentication-grade photo. Signs bigger than a passenger seat (e.g. 4–6 ft) are excluded by the size rule. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Embossed tin Hartford Fire Insurance "Chartered 1810" agent signs (c.1910-30, ~12x6") sell $75-125 — not enough margin above $50.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 8, "shape": "flat", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 5, "id_difficulty": 3, "rarity": 3, "sold_per_month": "?", "sell_through": "?", "days_to_sell": "?", "price_p25_p50_p75": [60, 120, 250], "price_spread": 4.2, "condition_sensitivity": 4, "seasonality": "none known", "best_platform": "eBay; Morphy/Richmond for top pieces; local for large", "fees_pct": 13, "ship_cost_to_buyer": 20, "undervalue_frequency": 2, "bust_probability": 35, "expected_profit_typical": 15, "confidence": "low"}

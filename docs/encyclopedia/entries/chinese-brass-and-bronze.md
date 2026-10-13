@@ -1,5 +1,5 @@
 # Chinese brass and bronze (incense burners/censers, hand warmers, bowls, vases, Buddhas, scholar's objects, wall plaques; Qing, Republic, post-1950 export; Taiwan/Hong Kong/Korea decorative brass)
-Updated: 2026-10-13 · Sources: general knowledge of Chinese metalwork collecting and auction patterns (LiveAuctioneers/Invaluable regional sales); apocryphal Xuande (1426–35) six-character marks found on most later censers; Qing hand warmers (shou lu) with pierced lids and swing handles; mid-century Taiwan/Hong Kong/Korean decorative brass for US export. No sold comps in comps.jsonl; prices are estimates (general knowledge, verify).
+Updated: 2026-10-13 · Sources: general knowledge of Chinese metalwork collecting and auction patterns (LiveAuctioneers/Invaluable regional sales); apocryphal Xuande (1426–35) six-character marks found on most later censers; Qing hand warmers (shou lu) with pierced lids and swing handles; mid-century Taiwan/Hong Kong/Korean decorative brass for US export. No sold comps in comps.jsonl; prices are estimates (general knowledge, verify). · tells 2026-10-13
 Slug: chinese-brass-and-bronze · Aliases: Chinese brass, Chinese bronze, dragon bowl, brass dragon, dragon plaques, hand warmer, foot warmer, incense burner, censer, Xuande mark, Chinese bronze vase, Buddha statue, Asian brass, Oriental brass, Tibetan bowl
 Summary: 1960s–90s export decorative brass (dragon plaques, engraved bowls, trays) $15–60; Republic/early-20th-c. engraved and cloisonné-free brass pieces, hand warmers $50–200; good Qing hand warmers and censers with fine casting $200–1,500; genuine Ming/early Qing bronzes $1,500–100,000+ (authentication required).
 Buy rule (short): Buy only heavy, finely cast or pierced pieces with old wear (hand warmers, censers) at ≤ $40 and only as "20th century" resale; pass decorative wall plaques and engraved souvenir bowls; never pay for dynasty claims.
@@ -14,6 +14,15 @@ Brass (copper-zinc) and bronze (copper-tin) objects made in China or for the Chi
 
 ## Makers, brands and variants
 No makers' names on most pieces. Marks: Xuande reign mark (almost always apocryphal), "Zhang Mingqi" seal (famous 17th-c. hand-warmer maker; mostly faked), "Made in China"/"Hong Kong"/"Taiwan" stamps (post-1950 export), "Korea" stamps. Japanese bronzes (Meiji) are a separate type with signed panels.
+
+### Golden-egg tells
+- Hu Wenming (Yunjian, late Ming) signed parcel-gilt censers — ~150–250× ($5,000–7,500 estimate) vs the $32 median — six-character "Yunjian Hu Wenming zhi" mark cast along the base, mythical-beast handles and gilt relief on a dark ground (https://live.revereauctions.com/online-auctions/revere-auctions/17th-c-chinese-hu-wenming-bronze-mythical-censer-6428164)
+- 17th–18th c. Song-style censers with a long (20-character) Xuande mark and original mallow-leaf stand — £62,500 sold vs a £200–300 estimate — multi-line cast reign mark rather than the usual six characters, a fitted lobed bronze stand, thick heavy walls (https://learnantiques.com.au/wight-place-right-time-for-censer/)
+- Late-Ming/Kangxi (c. 1690) bronze censers — ~150–250× ($5,000–8,000 at auction) vs the median — crisp cast detail, deep layered red-brown patina worn on handles and rim, heavy for size (https://dipsy.pbs.org/wgbh/roadshow/appraisals/chinese-bronze-censer-ca-1690)
+- Republican (1912–49) white-bronze/paktong hand warmers — ~3–6× ($150–300 dealer) vs 1960s–90s export brass — silvery-grey alloy, incised butterflies/flowers, ~9 in wide with hand-pierced lid and swing handle; not mirror-polished (https://www.1stdibs.com/furniture/asian-art-furniture/metalwork/chinese-white-bronze-hand-warmer-censer-republican-period/id-f_43282972)
+- Qing hand warmers with a cast base seal (Zhang Mingqi type) — ~6–45× ($200–1,500) vs the median; the seal is almost always faked — hand-pierced lid with slightly irregular lattice, thick walls, worn dark patina, seal cast not stamped (entry comp)
+- Gilt-splash ("sprinkled gold") bronze censers — ~5–30× ($200–1,000+) vs plain censers — irregular gold splashes fused into a brown ground, not painted-on gold paint that sits proud (entry comp)
+- "Made in China"/"Taiwan"/"Korea" stamped dragon plaques and spun bowls — no multiple; this is the $15–60 floor — stamped country name, bright lacquered polish, light weight (entry comp)
 
 ## Materials, finishes and quality tells
 - Weight: real cast bronze/brass is heavy for its size; spun or stamped brass is light and rings.

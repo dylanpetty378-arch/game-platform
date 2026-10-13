@@ -109,6 +109,9 @@ Give the exact body and lens model with both serial numbers. Say what was tested
 ## Buy rule
 Buy when: collectible-tier body+lens under 40% of sold median and seller says it works; any Leica/Contax/Hasselblad/mju-II under $100. Pass when: decent-tier at $40+, Polaroid/Disc anything. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Kodak Retina Reflex S with Schneider Xenar sells $50-110 untested; Topcon RE Super with lens $150-300 — sellers price Topcon at retail.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "irregular", "fragility": 3, "transit_damage_risk": 2, "hidden_defect_risk": 4, "testability": 4, "repro_risk": 2, "id_difficulty": 2, "rarity": 1, "sold_per_month": "?", "sell_through": "?", "days_to_sell": 14, "price_p25_p50_p75": [50, 130, 200], "price_spread": 4.0, "condition_sensitivity": 4, "seasonality": "Nov-Dec gift peak (general knowledge)", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 12, "undervalue_frequency": 3, "bust_probability": 35, "expected_profit_typical": 10, "confidence": "medium"}

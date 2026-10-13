@@ -122,6 +122,9 @@ it literally ("number '1234' painted inside, origin unknown").
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$22 − ~$22 − price ≥ max($50, price). Decorative masks need resale ≥ ~$150 at a price ≤ $30. Any "authentic" claim needs professional authentication and is not a Dylan buy.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Santa Fe sellers listing several Congo blades (ngulu, Ngombe openwork swords) at identical prices with "cash only" are dealer stock; tourist-era ngulu have plain blades and leather-wrapped wood grips, fighting-era ones have incised blade decoration and copper/brass wire grips.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 4, "shape": "irregular",

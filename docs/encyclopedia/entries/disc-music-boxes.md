@@ -93,6 +93,7 @@ The Thorens AD30 is a Swiss disc music box from Sainte-Croix. It plays interchan
 Buy when: Thorens AD30 + 15+ discs ≤ $100 (2026 Terapeak data says it clears comfortably only at ≤ $75), or any 10"+ disc box with discs ≤ $200 (confirm it plays). Pass when: broken comb teeth visible, no discs, or "needs work". Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Regina tabletops (40+ lb) are local-only; 27" uprights are bigger than a passenger seat and excluded.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (triage): 19-5/8" is the Polyphon disc size (Regina sizes are 12¼, 15½, 20¾, 27"), so an "unmarked large disc" next to Regina 11" discs is Polyphon. Loose discs sell $15-35 (11"/15½") and $30-60 (19-5/8"); sellers asking $25/$75 per disc are at retail.
 - 2026-10-13 (triage): Regina discs sold loose: 11" (the early 1892/1893-patent marked ones) $15-30 each, 15.5" $25-50, 19-5/8" $40-75; a seller pricing 11" at $25 and 19-5/8" at $75 is already at retail.
 
 ## Rubric

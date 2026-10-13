@@ -1,5 +1,5 @@
 # Halloween decorations (Beistle, Dennison, German paper/papier-mache, Union Products & Empire blow molds, Don Featherstone, Paper Magic Group, Bethany Lowe, Gemmy, Department 56)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Beistle company history https://www.beistle.com/ ; Mark Ledenbach, "Vintage Halloween Collectibles" (Krause) price guide; Empire/General Foam blow-mold history from collector sites) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Beistle company history https://www.beistle.com/ ; Mark Ledenbach, "Vintage Halloween Collectibles" (Krause) price guide; Empire/General Foam blow-mold history from collector sites) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: halloween-decorations · Aliases: vintage Halloween, blow mold pumpkin, jack-o-lantern, JOL, Beistle die-cut, papier mache pumpkin, German Halloween, candy container, Halloween noisemaker, Halloween lantern, ceramic pumpkin
 Summary: Modern party goods/foam pumpkins $2–20; 1960s–90s blow molds $20–80 (rare ones $100–250); 1930s–50s Beistle/Dennison die-cuts $20–150; US pulp/papier-mâché JOLs 1940s–50s $60–300; German pre-WWII papier-mâché/composition JOL lanterns, candy containers and figures $150–2,000+.
 Buy rule (short): Hunt pre-1960 paper and papier-mâché (German or US), stamped "Germany" items, and Beistle die-cuts; pass on foam/plastic newer than the 1970s unless it's a known rare blow mold under $20.
@@ -22,6 +22,18 @@ Buy rule (short): Hunt pre-1960 paper and papier-mâché (German or US), stamped
 - **Paper Magic Group** (1990s–2000s): ceramic/resin light-up JOLs and licensed decor; $10–40.
 - **Bethany Lowe** (2000s folk-art paper clay) $25–100 — collectible but modern.
 - **Ceramic JOLs**: 1970s–80s Atlantic Mold / Holland Mold hobbyist ceramics $20–80 (taller, lit with bulbs).
+
+### Golden-egg tells
+- German 1920s–30s heavily embossed diecuts (Waving Jack O'Lantern $6,600; Devil Bat $2,376) — ~100–250× vs the $25 median — deep embossing, "Germany" printed on the back or edge, saturated orange/black lithography (https://financebuzz.com/news/vintage-halloween-collectibles-worth-small-fortune)
+- Beistle "Skeleton in a Graveyard" diecut — $4,600+ sold vs $12 median for Beistle centrepieces — early 20th c., skeleton figure among tombstones; Beistle mark on the back (https://financebuzz.com/news/vintage-halloween-collectibles-worth-small-fortune)
+- Beistle 1920s jointed devil diecut WITH tail — $922 sold (guide $325–375) vs the tail-less version — non-embossed, jointed limbs, tail present (https://halloweencollector.com/blog/2016/8/30/1920s-rare-beistle-devil-diecut-jointed)
+- Beistle 1930s honeycomb figures (Tango Cat $1,303; Horrible Witch $1,314) — ~50× vs the median — tissue honeycomb body with diecut head, original packaging (https://financebuzz.com/news/vintage-halloween-collectibles-worth-small-fortune)
+- Dennison diecuts (Running Skeleton $1,035; set of six bats $915) — ~40× vs the median — "Dennison" printed on the back, 1920s–30s (https://financebuzz.com/news/vintage-halloween-collectibles-worth-small-fortune)
+- Painted pulp cat jack-o'-lantern 7 in (US 1940s–50s) — $540 (Kovels) vs $25 — grey fibrous pulp inside, paper insert face, bail handle (https://www.kovels.com/?p=3882306)
+- Rosbro witch on motorcycle hard-plastic candy container — ~$300 vs $20–50 for other 1950s hard plastic — green-and-orange witch on a motorcycle, open candy well; Kokomold variants mislabelled as Rosbro (https://halloweencollector.com/blog/2022/9/1/vintage-halloween-rosbro-witch-on-a-motorcycle-plastic-candy-container)
+- German papier-mâché JOL lanterns — ~6.6× ($165 median) vs the median — "Germany" stamp, thin tissue eye inserts, chalky light composition (entry comp)
+- Empire light-up pumpkin blow molds — $90 at auction vs the $20 median — "Empire" molded in the base, strong colour, no fading/cracks (https://www.kovels.com/?p=3882306)
+- German composition cats/figures from the late 1950s–70s — ~$60 only — drab paint, weak workmanship; not the pre-1935 tier (https://halloweencollector.com/blog/2015/1/4/rare-german-vintage-composition-halloween-black-cat-candy-container-3-34-tall)
 
 ## Materials, finishes and quality tells
 - Weight: German composition is light and chalky; US pulp is fibrous and gray inside; modern resin is heavy; foam pumpkins are very light and spongy (often called "funkins").

@@ -36,3 +36,12 @@
 - 2026-10-13: zero-halliburton: vintage ZH aluminium attaches with combination lock sell ~$100-180 used; at $60 ask they fail the margin after two shipping legs.
 - 2026-10-13: pocket-knives: E.C. Simmons Keen Kutter wood-handled 2-blade jacks with a brass shield inlay and worn blades sell $30-60; the money is in bone/stag-handled Keen Kutter with full unsharpened blades ($100+).
 - 2026-10-13: ouija-boards: 1940s American Novelty Co. (Omaha) "Ouija Queen" board with heart planchette and illustrated box is a scarce non-Fuld board, $100-250 sold.
+- 2026-10-13: bakelite-jewelry: Real Bakelite cherry brooches are opaque red carved cherries dangling on short chains from a carved bar; a flat, translucent single-piece red cherry cluster is Lucite/resin reproduction (seen 7938710346, NY, $50 asking).
+- 2026-10-13: contemporary-art-prints: Shepard Fairey/Obey 2021 signed-numbered 18x24 prints in editions of 550 (e.g. "Justice Woman" 156/550) resell about $150-350 framed; the premium Obey prints are editions under ~100 or pre-2010 — no entry exists for contemporary street-art prints.
+- 2026-10-13: vintage-barbie-clothing: Bubble-cut Barbie shown as a display model is often "sold separately"; read the body — 1970s Superstar-era loose outfits lot $20-40, the money is in tagged 1960s fashions with original accessories.
+- 2026-10-13: boy-scout-collectibles: 1960s sterling Cub Scout/Tenderfoot/First Class rings weigh 4-6 g; dealer-tagged at $35 each (Coon Rapids), resale $25-45 each.
+- 2026-10-13: fraternal-jewelry: Beta Sigma Phi (non-Greek sorority) badges with seed pearls and torch guard are mostly gold-filled Balfour pieces, $20-40; only a 10K stamp on the back changes it.
+- 2026-10-13: military-buttons: Gilt USN eagle buttons stamped "Superior Quality" are 20th-c. uniform stock, $1-2 each, not Civil War.
+- 2026-10-13: violins: Unstamped round-stick Mirecourt trade bows with ebony frog and wire grip sell $100-200; the value jump is a maker stamp on the stick above the frog (Bazin, Morizot, Ouchard, Thomassin, Cuniot-Hury) or a Parisian-eye frog, $400+.
+- 2026-10-13: halloween-collectibles: 1990s Cesar/Disguise Bill and Hillary Clinton latex masks sell $30-60 each; a pair tops out ~$100.
+- 2026-10-13: teddy-bears: Raikes Bears (Applause, wooden face, leather hang tag) are $20-40 for common editions; only the signed/numbered 1985 first editions clear $100.

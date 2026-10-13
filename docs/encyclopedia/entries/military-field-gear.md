@@ -64,6 +64,10 @@ Photograph all markings, maker, date, inside of covers; state original vs reprod
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) − price ≥ max($50, price). Needs ~$85+ median. Buy only dated WWII US compasses, M1936 musettes, USMC-marked gear, named groups at ≤ 1/3 median. Pass canteens, Soviet compasses, European surplus. German WWII and high-value medals require authentication – pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): WWII M3 trench knives — Case-made M3s (1943 only) are blade-marked "U.S. M3 CASE" on the ricasso and are among the scarcer makers; guard-marked Imperial/Camillus/Utica are the common ones. Pitted blade with no M8 scabbard caps even a Case at ~$150-200; clean Case $300+.
+- 2026-10-13 (triage): Greek-return M1 bayonets are marked "E-US" (not "US") under the ordnance flaming bomb, and often come with restored/replacement "U.S. M7" scabbards; ~19,000 were imported — common, $60-100. Only WWII US-maker marks (UFH, AFH, PAL, UC, OL) or 1905E1 cut-downs bring $150-250.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "irregular",

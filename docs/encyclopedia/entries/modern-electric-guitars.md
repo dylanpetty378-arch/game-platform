@@ -1,5 +1,5 @@
 # Modern electric guitars (Kramer, Fender/Squier, Gibson/Epiphone, Ibanez, ESP/LTD, Jackson, Yamaha, Cort, Samick) — 2000s–present, import and budget US
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Reverb price guide & listings (Kramer Pacer Classic, Cort, Samick Greg Bennett, Ibanez), eBay sold
+Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: Reverb price guide & listings (Kramer Pacer Classic, Cort, Samick Greg Bennett, Ibanez), eBay sold
 Slug: modern-electric-guitars · Aliases: electric guitar, shredder, Floyd Rose guitar, Strat copy, Les Paul copy, MIJ guitar, Kramer Pacer
 Summary: No-name/First Act $30–80; budget imports (Squier, Epiphone, Cort, Samick, GIO) $100–200; Pacer Classic, MIM Fender, Ibanez RG, Pacifica 612 $300–600; Japanese/US Fender/Gibson/Ibanez Prestige/PRS/1980s Kramer $800–3,000+.
 Buy rule (short): Buy Japanese- or US-made guitars priced as imports (≤ $200) or anything at ≤ 25% of Reverb used; pass current imports at ≥ 40% of used value.
@@ -19,6 +19,17 @@ Where to look: country of origin on the back of the headstock or neck plate; ser
 - **Cort, Samick/Greg Bennett**: budget imports ($120–250 used).
 - **PRS core** (US): top tier.
 - **First Act, Rogue, Glarry, no-name copies**: junk tier. Silvertone Pro (modern budget reissue brand) also low (general knowledge, verify).
+
+### Golden-egg tells
+- Ibanez RG550 1987–94 Fujigen (Japan) in Road Flare Red/Desert Sun Yellow vs 2018+ Genesis reissue — $750–1,200 vs $600–800 Genesis vs $150 GIO (~5–8× an import RG) — "Made in Japan" and an F-prefix serial on the headstock back, original Edge (not Edge-Zero/Lo-Pro) tremolo with the Edge logo stamped on the baseplate, pointed "Wizard" neck heel, no "Genesis Collection" on the neck plate (https://reverb.com/item/13106761-ibanez-rg550-1987-road-flare-red)
+- Ibanez JEM 7V/77FP (Japan, Steve Vai) vs RG — $1,500–2,500 vs $300–600 — "monkey grip" handle cut through the body, "Tree of Life" vine fingerboard inlay, "Lion's Claw" trem rout; the Terapeak $20 median in the entry comps is parts/decal noise, not guitars (entry comp caveat)
+- Kramer Pacer Imperial/Deluxe 1983–87 (Neptune NJ, ESP-made) vs Pacer Classic (Indonesia) — $700–1,500 vs $300–450 (~3×) — "banana" headstock with "Kramer" in script and "Neptune, N.J." on the neck plate, Floyd Rose "original" with the patent plate, brass or Schaller hardware; Classic has "Floyd Rose Special" and "Made in Indonesia" (entry comp: Terapeak "Kramer Pacer USA" p75 $575)
+- Fender "Made in Japan" (1982–97, Fujigen) vs "Crafted in Japan" (1997–2007) vs MIM — JV/SQ/E/A-prefix serials ~1.5–2× a CIJ and ~2× a MIM Player — "MADE IN JAPAN" (not "Crafted") under the serial on the headstock back or neck heel, JV serials on the neck plate/heel (1982–84) are the top; MIM reads "Made in Mexico" (https://support.fender.com/en-us/knowledgebase/article/KA-01874)
+- Fender USA (Corona) vs Mexico, same model — ~2× ($800–1,500 vs $400–550) — "Corona, California" on the headstock back, US-style serial "US" or "Z/N" prefix, 22-fret neck with staggered tuners (entry comp)
+- Gibson Les Paul Standard/Classic vs Epiphone — $1,500–2,500 vs $300–450 (~5×) — "Gibson" open-book headstock, set neck with no bolt plate, ABR-1/Nashville bridge, serial pressed into the headstock back; a bolt-on "Les Paul" is a fake (entry: Fakes section)
+- Yamaha SG2000/SG1000 (Japan, 1976–88) vs Pacifica budget — $1,200–2,500 vs $100–200 (~10×) — double-cutaway LP-style with a brass sustain plate under the bridge, neck-through, "SG2000" on the truss cover (entry comp: cult model)
+- ESP Japan (E-II, Edwards, Navigator) vs LTD 10–200 — $900–1,800 vs $100–200 (~6–8×) — "ESP" or "E-II" headstock (not "LTD"), "Made in Japan" on the headstock back, Gotoh/Floyd original hardware (entry comp)
+- Ibanez Prestige (Japan) vs standard RG — $800–1,500 vs $300–450 (~2.5×) — "Prestige" on the headstock back and F-serial, "Made in Japan", Edge/Lo-Pro Edge tremolo, Gotoh tuners (entry comp)
 
 ## Materials, finishes and quality tells
 Bolt-on vs set neck; solid vs laminated (plywood) body on budget guitars; Floyd Rose "original" (licensed plate, German/US) vs "Floyd Rose Special" vs no-name locking tremolo; branded pickups (Seymour Duncan, DiMarzio, EMG) — often aftermarket upgrades that add some value (general knowledge, verify). Gloss nitro finishes on vintage/top models; poly on imports. Quality tells: tight neck pocket, even fret ends, country of origin.

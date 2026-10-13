@@ -57,6 +57,9 @@ State maker, model, serial and city stamp; valve/slide action ("all valves move 
 ## Buy rule
 Profit = sold median × 0.87 − ~$30 ship to buyer − ~$20 ship to Dylan − price ≥ max($50, price). Student horns (median ~$130) leave room only at ≤ $25. Pro-line Olds/Bach/Conn/King/Martin at ≤ 25% of sold, valves and slides free (ask for a short video), no red rot. Pass on large brass (baritone and up), anything stuck or with significant dents, Chinese stencil horns. No professional authentication needed except for high-dollar Mt. Vernon Bach serials — verify the serial.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Olds trombone photo tell — Ambassador has an all-brass hand slide; Super/Recording/Opera show nickel-silver outer slide tubes and script model name on the bell. Plain brass slide = student grade, $80-150.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 9, "shape": "irregular",

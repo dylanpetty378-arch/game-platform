@@ -1,5 +1,5 @@
 # Modern ukuleles (Kala/Makala, Lanikai, Cordoba, Martin, Kamaka, KoAloha, Kanile'a, Ohana, Enya, Donner)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Kala Brand Music https://kalabrand.com/ (maker site, not fetched); Kamaka https://www.kamakahawaii.com/ (not fetched); batch file b51 Lens data
+Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run); Kala Brand Music https://kalabrand.com/ (maker site, not fetched); Kamaka https://www.kamakahawaii.com/ (not fetched); batch file b51 Lens data
 Slug: modern-ukuleles · Aliases: ukelele, uke, soprano uke, concert ukulele, tenor ukulele, Hawaiian guitar (wrong), Makala, beginner uke
 Summary: beginner laminate (Makala, Donner, Mahalo) $15–45; mid laminate/solid-top (Kala KA, Lanikai, Cordoba 15/20) $50–150; solid mahogany/koa imports $150–350; Hawaiian-made (Kamaka, KoAloha, Kanile'a, Ko'olau) and Martin $400–1,500+ (general knowledge, verify)
 Buy rule (short): Skip beginner laminates; buy only solid-wood or Hawaiian/Martin ukes where profit ≥ max($50, price) — the money is in Hawaiian koa.
@@ -20,6 +20,16 @@ Photo tells of cheap: painted or stained red/brown "mahogany" laminate with a st
 - **KoAloha, Kanile'a, Ko'olau, Pono (Ko'olau sub-brand, Indonesia)**: Hawaiian koa; $700–2,000 used.
 - **Fluke/Flea** (Magic Fluke Co., Massachusetts): composite body, wood top; $100–250.
 - **Enya, Donner, Kmise, Hricane, Mahalo**: budget, $15–40.
+
+### Golden-egg tells
+- Kamaka "Gold Label" (1954–69) soprano/tenor vs a current white-label Kamaka — ~1.5× ($1,000–1,100 asked vs $700–1,300 current; ~20× a Makala) — orange-and-gold paper decal with a bold "K" inside the sound hole, "sail" (pointed) headstock, all-koa body with wooden bridge pins and wooden nut (https://reverb.com/item/96215929-vintage-1950s-early-1960s-kamaka-gold-label-solid-hawaiian-koa-soprano-ukulele-all-original-original-finish-rich-patina-family-hawaii-provenance)
+- Kamaka HF-38 "Lili'u" 8-string tenor, especially the 2016 100th-anniversary run — $1,500–1,700 vs $700–1,300 for an HF-1 soprano — eight tuners (four per side, Schaller), doubled strings at the bridge, and the one-year-only commemorative headstock inlay (https://www.gryphonstrings.com/products/2016-kamaka-100th-anniversary-hf-38-8-string-tenor-ukulele-used-23803.oembed)
+- KoAloha (Honolulu) any model — median $554 vs Makala median $44 (~12×) — five-point crown-scalloped headstock, "KoAloha" script, oval or "musubi"-shaped sound hole on later models, curly koa (entry comp: Terapeak 365d n=46)
+- Kanile'a (Hawaii) K-1/K-2 tenor — median $625 vs Makala $44 (~14×) — stylised "K" headstock silhouette, "Kanile'a" label with serial, UV-cured gloss over curly koa; "Islander" branded ones are the import sub-line at ~$150 (entry comp: Terapeak 365d n=43)
+- Martin Style 3 / 5K (1920s–30s, Nazareth) mis-sold as "old Martin uke" — $1,500–3,000 vs $150–350 for a Mexico-made S1 — ivoroid binding with multi-ply trim, inlaid fingerboard, "C.F. Martin & Co. Nazareth PA" stamp inside the back (not a paper label), decal-free headstock on older ones (entry comp)
+- Pono (Ko'olau's Indonesian line) solid-wood ATD/MTD — $250–450 vs $60–180 for a Kala KA solid-top — "Pono" headstock logo with Ko'olau label inside, all-solid acacia/mahogany with bone nut and slotted headstock on deluxe models (entry comp)
+- Kala Elite (USA-made, Petaluma) vs Kala KA import — $500–900 vs $60–180 — "Kala Elite" label stating "Made in USA", solid koa, bound body, Gotoh UPT tuners (entry comp)
+- Makala MK-S with Kala label mistaken for a "Kala" — ~0.5× of what sellers ask ($25–55 sold) — red-stained laminate, sticker rosette, plastic saddle; the Makala script on the headstock is the giveaway (entry comp: Terapeak n=23 median $44)
 
 ## Materials, finishes and quality tells
 - Solid vs laminate: look at sound-hole edge — laminate shows plywood layers or a uniform dark edge. Solid koa/mahogany sounds and sells far better.
