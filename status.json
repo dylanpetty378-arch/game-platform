@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:51:04Z",
+ "updated": "2026-10-13T07:54:57Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2829,
-  "events": 10615,
+  "lens": 2854,
+  "events": 10640,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2611,
+  "queued": 2586,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 240,
-  "flagged": 179,
+  "lensed": 255,
+  "flagged": 189,
   "expired": 1
  },
  "last_harvests": [
@@ -610,6 +610,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956249752",
+   "title": "Antique Japanese Imari Platter Porcelain Meiji or Showa period",
+   "price": 50,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/goleta-antique-japanese-imari-platter/hRvK9aEVHkgCVeEQnLYaEQ",
+   "best": "Japanese Japan Imari Porcelain 12\" Charger Floral & Avian ...",
+   "med": 690,
+   "ratio": 13.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7982582118",
    "title": "Vintage Baby/Doll Furniture Lot",
    "price": 30,
@@ -1050,6 +1061,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953805065",
+   "title": "Vintage Anchor Hocking Wexford Punch Bowl set",
+   "price": 45,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-anchor-hocking/nzsky6JDJnJoaiBp8dLU2Q",
+   "best": "Etsy",
+   "med": 225,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947991538",
    "title": "ARTIST-SIGNED GREENLEAF ARIZONA LANDSCAPE WATERCOLOR PAINTING JAVELINA",
    "price": 100,
@@ -1070,6 +1092,17 @@
    "med": 395,
    "ratio": 4.94,
    "ai_value": ""
+  },
+  {
+   "pid": "7950749897",
+   "title": "Orient Quartz Men's Watch for sale",
+   "price": 63,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/wylie-orient-quartz-mens-watch-for-sale/9UFxpEFhW4hPNBeZABPgvW",
+   "best": "Etsy",
+   "med": 310,
+   "ratio": 4.92,
+   "ai_value": "Value: Pre-owned or vintage listings typically range from $60 to $120"
   },
   {
    "pid": "7976862804",
@@ -1182,6 +1215,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945788655",
+   "title": "Brass Ship Belt Buckle Vintage",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-brass-ship-belt-buckle-vintage/w9rkr2BaayMB9Yk5hAd57m",
+   "best": "eBay",
+   "med": 62,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7945143073",
    "title": "VINTAGE CHINESE WOMAN FU LU SHOU",
    "price": 50,
@@ -1245,6 +1289,28 @@
    "best": "STUNNING! Vintage MURANO Style Art Glass AMBER GOLD Candy ...",
    "med": 332,
    "ratio": 3.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971238641",
+   "title": "Tea set",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-tea-set/g3Jciq5EgxmtYkENe2an1F",
+   "best": "Accents: Heavy gold-gilded handles, rim, and finial, often featuring small raised enamel dots (\"jewels\") along",
+   "med": 191,
+   "ratio": 3.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982570097",
+   "title": "Vintage gold tone folding fan earrings",
+   "price": 25,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-vintage-gold-tone-folding-fan/x8gMsWidagLRtGPTDRp4ZG",
+   "best": "Etsy",
+   "med": 95,
+   "ratio": 3.8,
    "ai_value": ""
   },
   {
@@ -1424,6 +1490,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948107733",
+   "title": "Guitar",
+   "price": 170,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-guitar/9meqSnRyjB21bTyZ3Vyb1x",
+   "best": "Craigslist",
+   "med": 521,
+   "ratio": 3.06,
+   "ai_value": "Value / Market Price: Around $170"
+  },
+  {
    "pid": "7956170841",
    "title": "Vintage Test Equipment \"Electrometer\"",
    "price": 40,
@@ -1534,6 +1611,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934055461",
+   "title": "Vintage Lead Soldier Figures",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/hayward-vintage-lead-soldier-figures/aED53otxTVWhE7QWMwkQn4",
+   "best": "From left to right, the selected figures and pieces include:",
+   "med": 80,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965398709",
    "title": "Vintage Chocolate Pot",
    "price": 45,
@@ -1597,6 +1685,17 @@
    "best": "Fontaine's Auction Gallery",
    "med": 120,
    "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982581872",
+   "title": "10k Black Hills Gold pin",
+   "price": 40,
+   "area": "anchorage",
+   "url": "https://www.craigslist.org/view/d/anchorage-10k-black-hills-gold-pin/pbSmRhfcuFVw3M8Z482wUo",
+   "best": "Etsy",
+   "med": 95,
+   "ratio": 2.38,
    "ai_value": ""
   },
   {
@@ -1674,6 +1773,17 @@
    "best": "eBay",
    "med": 175,
    "ratio": 2.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982607051",
+   "title": "French Pottery Gargoulette/Jug",
+   "price": 175,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/phoenixville-french-pottery-gargoulette/udHRbt6r9aC1gGU461cwWv",
+   "best": "Antique C. 1850 French Olive / Olive Oil Two Handle Pottery ...",
+   "med": 359,
+   "ratio": 2.05,
    "ai_value": ""
   },
   {
