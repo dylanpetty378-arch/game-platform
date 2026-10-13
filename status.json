@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T16:50:45Z",
+ "updated": "2026-10-13T16:54:20Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6103,
-  "events": 21173,
+  "lens": 6128,
+  "events": 21198,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 144,
+  "lensed": 151,
   "comps/pass": 1,
-  "queued/relens": 17,
+  "queued/relens": 18,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 116,
+  "flagged": 133,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 750
+  "queued": 725
  },
  "last_harvests": [
   {
@@ -438,6 +438,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934479671",
+   "title": "Vintage Pendulum clock",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/rJdaGmo7RFLTAkrCMPiLvr",
+   "best": "eBay",
+   "med": 3200,
+   "ratio": 32,
+   "ai_value": ""
+  },
+  {
    "pid": "7960624842",
    "title": "Vintage Bathroom/Outdoor Light Fixture",
    "price": 40,
@@ -592,6 +603,17 @@
    "ai_value": "sell online ranging from roughly $25 to $95"
   },
   {
+   "pid": "7928883924",
+   "title": "Vintage Ceramic Handpainted Drum Pottery",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-ceramic-handpainted-drum/eWPjZ8z8ZYJx6ESyCHBpkg",
+   "best": "Dylan Bowen - Contemporary Ceramics NEW",
+   "med": 400,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7982703225",
    "title": "Antique Small Bronze/Brass Incense Burner",
    "price": 35,
@@ -644,6 +666,17 @@
    "best": "Tiger's Eye Necklace - Peacock Necklace - Pearl Necklace ...",
    "med": 78,
    "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949106731",
+   "title": "PHOENIX RISING - ANTIQUE CHINESE VASE",
+   "price": 100,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/la-jolla-phoenix-rising-antique-chinese/t6vAmUdBMMsPzSoLk8nDwh",
+   "best": "Vintage Blue Cloisonn\u00e9 Enamel Brass Jar Table Lamp Floral ...",
+   "med": 725,
+   "ratio": 7.25,
    "ai_value": ""
   },
   {
@@ -900,6 +933,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932554578",
+   "title": "Sterling Silver/Marcasite Necklace",
+   "price": 70,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-sterling-silver-marcasite/w2SVYdY7Wmb8wN97GZZT7w",
+   "best": "MARCASITE 925 Sterling Silver Pearl Lariat Necklace - Art ...",
+   "med": 288,
+   "ratio": 4.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7951670496",
    "title": "Vintage 3D art, framed",
    "price": 35,
@@ -1054,6 +1098,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964926431",
+   "title": "UNIQUE ART STUDIO VASE",
+   "price": 25,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/durham-unique-art-studio-vase/pPUFxoqWYiJTUPXTC9PUq8",
+   "best": "Craigslist",
+   "med": 80,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7951091118",
    "title": "Vintage Beau Sterling Silver 925 Brooch/Pin.",
    "price": 30,
@@ -1164,6 +1219,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973686242",
+   "title": "Sterling Noble Clock",
+   "price": 20,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-sterling-noble-clock/hUyMqN4FvvmYDeNFRAr9Z8",
+   "best": "Sterling-And-Noble-Clock-Company",
+   "med": 54,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7932705654",
    "title": "Vintage ceramic vase,unmarked",
    "price": 45,
@@ -1182,6 +1248,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-sterling-silver-marcasite-onyx/98xkDeyJ5xkDckF5CitDv8",
    "best": "Vintage Green Enamel MOP Round Inlay Square Snap ...",
    "med": 127,
+   "ratio": 2.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967367054",
+   "title": "2 ANTIQUE ENAMELED LOCKETS",
+   "price": 65,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-antique-enameled-lockets/nRahARGHPojTP2DaHqZxns",
+   "best": "Right Locket: Shows a multi-color or black-and-blue enameled geometric and floral design across an intricately",
+   "med": 165,
    "ratio": 2.54,
    "ai_value": ""
   },
@@ -1241,6 +1318,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963406343",
+   "title": "Vintage Egyptian Filigree Silver Bracelet",
+   "price": 60,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-egyptian-filigree/qf1ejhJWiNYYXEfavq59vr",
+   "best": "1920's Egyptian Silver Filigree Panel bracelet Souvenir ...",
+   "med": 149,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7951803040",
    "title": "sterling silver candle holders",
    "price": 100,
@@ -1249,6 +1337,17 @@
    "best": "Las mejores ofertas en Gorham post - 1940 objetos antiguos ...",
    "med": 215,
    "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934461234",
+   "title": "Antique Brooch Sterling silver MOP Mother Of Pearl Cameo Pendant",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-antique-brooch-sterling-silver/jAtfQvNcvzaK2fgk5tp5GD",
+   "best": "Antique Brooch 800 Sterling Silver MOP Mother of Pearl ...",
+   "med": 85,
+   "ratio": 2.13,
    "ai_value": ""
   },
   {
@@ -1274,6 +1373,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968632034",
+   "title": "Hand Signed Hummel Goebel",
+   "price": 20,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-hand-signed-hummel-goebel/hkN7KiU9G7J8UGnX9dCgHr",
+   "best": "TMK6 1989 4\" 94 3/0 \" Surprise\" Goebel Hummel Figurine ...",
+   "med": 42,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7973268582",
    "title": "Antique Musky Bait Burmek",
    "price": 60,
@@ -1282,6 +1392,17 @@
    "best": "Tony Burmek Top Secret Musky Lure Brown Sucker Color with ...",
    "med": 120,
    "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929919272",
+   "title": "Vintage Seiko Womens Gold Tone Stainless Steel Band Watch",
+   "price": 20,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-seiko-womens-gold-tone/1SR9fUNAxv1WsZQYbupyG9",
+   "best": "Seiko Watch Women 17mm Champagne Dial Gold Tone Oval 1400 ...",
+   "med": 39,
+   "ratio": 1.95,
    "ai_value": ""
   },
   {
@@ -1406,6 +1527,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938055632",
+   "title": "Prussia Antique Plate",
+   "price": 20,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/veradale-prussia-antique-plate/gSuwJv1EjZjetMAeDcg6yS",
+   "best": "Set Of 5 RS GERMANY PRUSSIA PLATES, Pink Roses FLOWERS AND ...",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951269784",
    "title": "Movado watch",
    "price": 200,
@@ -1483,6 +1615,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974857877",
+   "title": "Sterling Silver Earings",
+   "price": 200,
+   "area": "kpr",
+   "url": "https://www.craigslist.org/view/d/prosser-sterling-silver-earings/snDQwjAeh4Gu4wy2LiMbTv",
+   "best": "Etsy",
+   "med": 230,
+   "ratio": 1.15,
+   "ai_value": "Price Range: Typically sells between $75"
+  },
+  {
    "pid": "7954480527",
    "title": "Vintage Casio keyboard",
    "price": 100,
@@ -1527,6 +1670,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938060339",
+   "title": "OVER HUNDREN YEARS OLD PITCHER",
+   "price": 65,
+   "area": "ashtabula",
+   "url": "https://www.craigslist.org/view/d/erie-over-hundren-years-old-pitcher/3LNoQRcfLdv3A3bU4V1MgX",
+   "best": "To help narrow down the maker or value, could you share:",
+   "med": 55,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7951650700",
    "title": "Creamer Sugar Vintage Set",
    "price": 25,
@@ -1560,6 +1714,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974073491",
+   "title": "Vintage Serving Pitcher",
+   "price": 100,
+   "area": "nmi",
+   "url": "https://www.craigslist.org/view/d/millersburg-vintage-serving-pitcher/mMcd9M4AC32wP52mAStFva",
+   "best": "Vintage Bailey Walker Restaurant Ware Ironstone Milk Pitcher ...",
+   "med": 72,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7953805998",
    "title": ".925 Sterling Silver Pendant Lot for Necklaces",
    "price": 150,
@@ -1579,6 +1744,17 @@
    "best": "Vintage Leaf Plate (single) With Flowers And Gold Accents ...",
    "med": 12,
    "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939105479",
+   "title": "Ladies Antique Mother Of Pearl Ring",
+   "price": 100,
+   "area": "augusta",
+   "url": "https://www.craigslist.org/view/d/macon-ladies-antique-mother-of-pearl/kC5DspiN3FLBbKPLnGVv3u",
+   "best": "Etsy",
+   "med": 50,
+   "ratio": 0.5,
    "ai_value": ""
   },
   {
@@ -1632,6 +1808,17 @@
    "area": "sacramento",
    "url": "https://www.craigslist.org/view/d/penryn-new-wolverine-wild-lite-pocket/cdyiF5xJ6Yqcwgq1K253yr",
    "best": "NEW WOLVERINE WILD-LITE COMPASS LIGHT QUARTZ ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947819488",
+   "title": "Vintage Village Antique Mall",
+   "price": 1,
+   "area": "seks",
+   "url": "https://www.craigslist.org/view/d/lincoln-vintage-village-antique-mall/nuweToFUgpWdwc9i7rpqWP",
+   "best": "Store Details",
    "med": null,
    "ratio": null,
    "ai_value": ""
