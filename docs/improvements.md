@@ -18,7 +18,7 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 4. **More sources into the same queue** — FB Marketplace (browser-only; Dylan's account — feeds captured before, see
    history/shipped-sweep-methods.md), OfferUp, estate-sale photo sets (estatesales.net API), ShopGoodwill (API works
    from the container), HiBid. Each needs a harvester that emits the same listing shape with a `source` field.
-5. **Liveness checks** (review_helpers --body does it per item; automate in the cloud cycle) — cloud cycle re-checks flagged/find listings and writes `expired` events when deleted.
+5. ~~Liveness checks~~ — done Oct 13 (cloud_cycle.liveness, every cycle).
 6. **Specialist exact lookups** — ISBN/UPC → BookScouter/PriceCharting; records → Discogs; Lego set numbers →
    BrickLink. Deterministic value for those categories.
 7. **Stage-2 automation** — a cloud job can't see images with judgment, but a Claude session can batch-review
