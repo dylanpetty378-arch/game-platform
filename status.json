@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:28:08Z",
+ "updated": "2026-10-13T12:31:52Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4562,
-  "events": 14497,
+  "lens": 4587,
+  "events": 14522,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 437,
-  "queued": 1678,
+  "lensed": 448,
+  "queued": 1653,
   "comps/pass": 1,
   "decided/ask": 37,
   "queued/relens": 345,
-  "flagged": 364,
+  "flagged": 378,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -315,6 +315,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955332544",
+   "title": "Vintage Chalkware Rebecca At The Well Statue",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-chalkware-rebecca-at/rJVbJvmRdA1gsMLiKfstPY",
+   "best": "Rebecca at the Well Statue | eBay",
+   "med": 6839,
+   "ratio": 273.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7979783190",
    "title": "2 Antique Glass Lamps",
    "price": 20,
@@ -389,6 +400,17 @@
    "best": "Crouse Hinds Industrial Mid-century Modern Maritime Flood ...",
    "med": 3600,
    "ratio": 51.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955850239",
+   "title": "Vintage Cezanne Cultured Pearl Necklace by Richelieu",
+   "price": 20,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/south-burlington-vintage-cezanne/fyUb8aCJPbMSpwsRnDBzbU",
+   "best": "Cezanne Pearls Necklace Beaded Vintage Case New | eBay",
+   "med": 903,
+   "ratio": 45.15,
    "ai_value": ""
   },
   {
@@ -1126,6 +1148,17 @@
    "best": "Antique Hand Crank Champion Blower & Forge Co Model # 806 ...",
    "med": 935,
    "ratio": 10.39,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945627328",
+   "title": "Vintage pins (2)",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-pins/rAZ6cMJAfWZw5ZXnxpw2Wt",
+   "best": "Lot - William Spratling 18K gold ring set with Pre-Columbian ...",
+   "med": 257,
+   "ratio": 10.28,
    "ai_value": ""
   },
   {
@@ -1932,6 +1965,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7952306359",
+   "title": "Antique Italian Oil Jar Pottery",
+   "price": 30,
+   "area": "york",
+   "url": "https://www.craigslist.org/view/d/york-antique-italian-oil-jar-pottery/gJkiiQTM7cVizxTZjwzMSY",
+   "best": "Martine Terracotta Jug - Rita's Furniture & Decor | Owenton, KY",
+   "med": 165,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971851268",
+   "title": "Vintage Jimmy Swaggart 10K GF Gold Filled Cross & Dove Pendant on Neck",
+   "price": 40,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/logan-vintage-jimmy-swaggart-10k-gf/3soLELKCW9kJmFvCHwwBht",
+   "best": "Vintage Sterling Silver 925 Carved Mercury Dime Pendant ...",
+   "med": 217,
+   "ratio": 5.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7979544315",
    "title": "Vintage Vcr,s,,DVD players,VHS players",
    "price": 15,
@@ -2339,6 +2394,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955315106",
+   "title": "Vintage French Limoges Decorative Plate",
+   "price": 45,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-vintage-french-limoges/dQKkHiTW3pzYEwwhrSKpE6",
+   "best": "ROCHARD Limoges France A T Heritage STILL LIFE Fruit Plate ...",
+   "med": 195,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7950399264",
    "title": "Vintage Bicycle 26 inch",
    "price": 55,
@@ -2405,6 +2471,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955705448",
+   "title": "Antique Copper Cauldron",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/brentwood-antique-copper-cauldron/oEwiEdGNGJXbv37E6z4ZMR",
+   "best": "Paiolo in rame grande dimensioni manici forgiati | eBay",
+   "med": 405,
+   "ratio": 4.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7951243339",
    "title": "Vintage Ice-Cream Freezer",
    "price": 95,
@@ -2423,6 +2500,17 @@
    "url": "https://www.craigslist.org/view/d/caldwell-vintage-uei-enterprises/iAzpM5ffbVZsBiwdKP1U8o",
    "best": "Item: A black vinyl/leatherette protective storage and transport case with a top carry handle and the classic ",
    "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955700830",
+   "title": "Jardiniere: Art Nouveau Pottery Planter, c1920s",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/brentwood-jardiniere-art-nouveau/j721xASZv5YZMW29SnKMQC",
+   "best": "Vintage 1940s Retro Jardini\u00e8re 12.5\" Green Pottery Ceramic ...",
+   "med": 300,
    "ratio": 4,
    "ai_value": ""
   },
@@ -2537,6 +2625,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948459204",
+   "title": "Vintage 14k Solid Gold and Petite Pearl Earrings",
+   "price": 40,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-14k-solid-gold-and/8XZARgKn8Vp4Qu2G48drYD",
+   "best": "14K YELLOW GOLD SLIGHTLY MORE THAN 6.1 MM LUSTROUS PEARL ...",
+   "med": 150,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7959443982",
    "title": "Farmhouse Vintage Truck Decor",
    "price": 27,
@@ -2555,6 +2654,17 @@
    "url": "https://www.craigslist.org/view/d/lebanon-vintage-kraco-car-speakers/gngHvshXj4QHDiCLmF4LKz",
    "best": "Pair of Vintage 1970's Kraco Coaxial 20 Ounce CX-2-20-F ...",
    "med": 147,
+   "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935009058",
+   "title": "Antique Western Figurines & Horses lot",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/west-roxbury-antique-western-figurines/cJds7uo431pxNC6DwfkFWw",
+   "best": "Britains Deetail Mounted Cowboys - 18 Figures - 2nd version ...",
+   "med": 110,
    "ratio": 3.67,
    "ai_value": ""
   },
@@ -3087,6 +3197,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982694318",
+   "title": "Japanese Pair Of Kokeshi Vintage Wooden Hand Crafted Dolls Signed",
+   "price": 45,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/springfield-japanese-pair-of-kokeshi/5u3S6Mn7X7byJZS8S5kuoZ",
+   "best": "RARE VTG MID CENTURY MODERN JAPANESE HAND PAINTED WOOD ...",
+   "med": 120,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7963269306",
    "title": "Women's Antique Hamilton Watch",
    "price": 40,
@@ -3428,6 +3549,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956328166",
+   "title": "vintage costume jewelry lot from the 80s and 90s",
+   "price": 40,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/kingston-vintage-costume-jewelry-lot/qDo7K6so8HPVwYMb1GtAbS",
+   "best": "Vintage Necklace Etched Gold tone Cross Christian H25 | eBay",
+   "med": 85,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7982012781",
    "title": "Vintage black panther",
    "price": 75,
@@ -3600,6 +3732,17 @@
    "url": "https://www.craigslist.org/view/d/tucson-vintage-panasonic-suitcase-stereo/bGitjKHxWdYmLDKDMGm974",
    "best": "Absolute Auctions & Realty",
    "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954490157",
+   "title": "MAJESTIME-LADIES PENDENT OR POCKET WATCH",
+   "price": 75,
+   "area": "wv",
+   "url": "https://www.craigslist.org/view/d/cloverdale-majestime-ladies-pendent-or/3ZZwTnHx6SnfD2V5pjBrPB",
+   "best": "pocket watch menoses80 - Gem",
+   "med": 120,
    "ratio": 1.6,
    "ai_value": ""
   },
@@ -4303,6 +4446,17 @@
    "area": "potsdam",
    "url": "https://www.craigslist.org/view/d/schenectady-box-vintage-pocketbooks/u9BY5w6UGMYsUGahL4Ejb4",
    "best": "This is such a haunting picture... I can just stare at it ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945656356",
+   "title": "(6) vintage smokeing pipes",
+   "price": 65,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-smokeing-pipes/9ZLo1TQ5Qhr6mRA5GaiX6d",
+   "best": "Lot of French Pipes Flamidor, Bayle, Denicotea etc for ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
