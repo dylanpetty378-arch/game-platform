@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T17:11:34Z
+# Refurbish status — 2026-10-13T17:14:43Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 6698 |
-| queued | 600 |
-| flagged | 193 |
-| lensed | 169 |
-| queued/relens | 65 |
+| queued | 575 |
+| flagged | 198 |
+| lensed | 173 |
+| queued/relens | 81 |
 | decided/ask | 51 |
 | decided/find | 9 |
 | decided/kill | 8 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 7
 - searches: 1727
 - listings: 7807
-- lens: 6253
-- events: 21323
+- lens: 6278
+- events: 21348
 - comps: 1561
 - item_types: 801
 - runs: 0
@@ -103,7 +103,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00V0V_dGZSsOXo0V5_09G03K_300x300.jpg" width="160"> | [WWII US M3 CASE 1943 KNIFE](https://www.craigslist.org/view/d/yakima-wwii-us-m3-case-1943-knife/i7Hcuk756VG3uuDbb2nVNs) | $100 | yakima | **decided/ask** — WWII US M3 trench knife, stacked-leather grip, steel cross guard, sold with a Pacific-island wood/brass souvenir dagger for $100 both. Blade heavily pitted, no M8 scabbard, maker mark NOT shown. Only a crisp "U.S. M3 CAS |
 | <img src="https://images.craigslist.org/00r0r_cjWfJ7PAvej_0mB0t2_300x300.jpg" width="160"> | [Vintage Patty Hearst Tania SLA Poster](https://www.craigslist.org/view/d/garden-grove-vintage-patty-hearst-tania/67mgvrXgPbuaZ3CZU9z7uC) | $100 | orangecounty | **decided/ask** — 1974 'TANIA' Patty Hearst SLA halftone poster 16x22, toned newsprint, pin holes, shrink-wrapped to board — originals sold $150-300, reprints $20. ASK: offer $50; photo of paper edge/back to confirm thin toned 1974 newspr |
 
-## Flagged by Lens, waiting for photo review (193)
+## Flagged by Lens, waiting for photo review (198)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -189,6 +189,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00707_btI2b9xTKxB_1u8176_300x300.jpg" width="120"> | 7975826109 | $20 | charleston | [PartyLite Old World Village Collection The Clockto](https://www.craigslist.org/view/d/summerville-partylite-old-world-village/eBGWQwBvj4cqydpo9LPozq) | Partylite Ole World Village The Clocktower Candle Holder ... | 68 | 3.4 |
 | <img src="https://images.craigslist.org/00p0p_eT2Vz0lbBCk_0t20CI_300x300.jpg" width="120"> | 7953541770 | $10 | portland | [Vintage Chateau Brown Transferware Sugar Bowl](https://www.craigslist.org/view/d/hillsboro-vintage-chateau-brown/bHUsLTGTsWAiD6NsXHdN65) | Vintage Ucagco Japan Royal Vista Creamer and Sugar Bowl with | 34 | 3.4 |
 | <img src="https://images.craigslist.org/00707_cJVJvgzjTfo_0nO0t2_300x300.jpg" width="120"> | 7939916567 | $15 | pittsburgh | [Vintage Bantam Teddy Bear](https://www.craigslist.org/view/d/coraopolis-vintage-bantam-teddy-bear/pGmFPizFqQBcYbhk4gvJTL) | Musical Teddy Bear Vintage for sale / eBay | 50 | 3.33 |
+| <img src="https://images.craigslist.org/00K0K_kS6jugZVNag_0CI0lM_300x300.jpg" width="120"> | 7929858097 | $25 | chicago | [ANTIQUE MINTON'S CREAMER & SUGAR](https://www.craigslist.org/view/d/chicago-antique-mintons-creamer-sugar/2o5rtx75Y8DSgoHfzR8MAk) | Rare 25 PC Antique George Frederick Bowers "scinde" Tea ... | 83 | 3.32 |
 | <img src="https://images.craigslist.org/00S0S_kVUzpYZaI1q_0t20CI_300x300.jpg" width="120"> | 7946736997 | $75 | cnj | [Antique Kieninger&Obergfell glass domed clock](https://www.craigslist.org/view/d/pennington-antique-kieningerobergfell/5GRYQPzXcLV2QSTNMNxSsk) | Vintage Clock Anniversary Clock made in Germany large with . | 245 | 3.27 |
 | <img src="https://images.craigslist.org/00Z0Z_k2guJMjPC7m_0t20CI_300x300.jpg" width="120"> | 7973935347 | $20 | dayton | [Old timer knife](https://www.craigslist.org/view/d/bradford-old-timer-knife/ahwftU1Te1kZDcemQacRZ9) | Old Timer 7OT Cave Bear Traditional Lockback Pocket Knife .. | 65 | 3.25 |
 | <img src="https://images.craigslist.org/00303_7N1xIXROaUF_0CI0t2_300x300.jpg" width="120"> | 7982803125 | $20 | fresno | [Vintage Native American Turquoise Sterling Silver ](https://www.craigslist.org/view/d/fresno-vintage-native-american/sPGDAiYqq9xMh6wSJYKpz8) | SpiritbeadNW | 65 | 3.25 |
@@ -204,6 +205,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00R0R_aUHNMIDt0IS_0t20CI_300x300.jpg" width="120"> | 7932208853 | $54 | spokane | [Vintage crystal decanter](https://www.craigslist.org/view/d/coeur-alene-vintage-crystal-decanter/hULoSwf1KeLX96BjAPFacy) | Victorian Shaft and Globe Glass Decanter c1870 - Tableware . | 150 | 2.78 |
 | <img src="https://images.craigslist.org/00G0G_15AOryu8Vii_0dp0t2_300x300.jpg" width="120"> | 7940494494 | $45 | houston | [Pink Zircon Watch](https://www.craigslist.org/view/d/katy-pink-zircon-watch/f1pdC2Qnq1ZnWWjLrpDESU) | Etsy | 125 | 2.78 |
 | <img src="https://images.craigslist.org/00404_92VbxvUQt34_0t20CI_300x300.jpg" width="120"> | 7953310085 | $70 | lascruces | [Gruen Veri-thin 17 jewels Men’s Winding Watch](https://www.craigslist.org/view/d/las-cruces-gruen-veri-thin-17-jewels/cG7U1QkTqenGZius7W1wRJ) | Vtg elgin 10k gold - Gem | 194 | 2.77 |
+| <img src="https://images.craigslist.org/00q0q_8jynWIZZILK_0ew0aT_300x300.jpg" width="120"> | 7975825842 | $25 | charleston | [Vintage Pflueger Ohio 1978 Fishing Reel](https://www.craigslist.org/view/d/summerville-vintage-pflueger-ohio-1978/jxpeTKNE7zk48AWJg4PPKt) | eBay | 69 | 2.76 |
 | <img src="https://images.craigslist.org/00H0H_2F2tavsublr_0lM0t2_300x300.jpg" width="120"> | 7953881598 | $35 | washingtondc | [Snakeskin Oval Hinged Bracelets from Florence, Ita](https://www.craigslist.org/view/d/fairfax-snakeskin-oval-hinged-bracelets/u63Qn1RuCf2AaG85HaD8g7) | Vintage 24KT Gold Plated Snakeskin Bangle Bracelet Hinged .. | 95 | 2.71 |
 | <img src="https://images.craigslist.org/00m0m_2Y7BpjULPCO_0t20CI_300x300.jpg" width="120"> | 7973686242 | $20 | rochester | [Sterling Noble Clock](https://www.craigslist.org/view/d/rochester-sterling-noble-clock/hUyMqN4FvvmYDeNFRAr9Z8) | Sterling-And-Noble-Clock-Company | 54 | 2.7 |
 | <img src="https://images.craigslist.org/00z0z_jgNnGgftnKB_0t20CI_300x300.jpg" width="120"> | 7932705654 | $45 | spokane | [Vintage ceramic vase,unmarked](https://www.craigslist.org/view/d/coeur-alene-vintage-ceramic-vaseunmarked/aEs8hnA3vCGyJgFEUnByjL) | eBay | 120 | 2.67 |
@@ -227,5 +229,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00v0v_7XTDwM7MAsi_0CI0t2_300x300.jpg" width="120"> | 7936225689 | $50 | albuquerque | [Norman Rockwell vintage plates](https://www.craigslist.org/view/d/albuquerque-norman-rockwell-vintage/rFirUgpxNBfeXPD5WpYtnY) | Norman Rockwell 1972 Four Seasons Collector Plates lot of 4  | 105 | 2.1 |
 | <img src="https://images.craigslist.org/00O0O_6EkuuPUxQq1_07K0ak_300x300.jpg" width="120"> | 7957523387 | $50 | boston | [Vintage Grinch Pocket Watch](https://www.craigslist.org/view/d/beverly-vintage-grinch-pocket-watch/9XZEbiZWwVasM2RQ5zmSHJ) | Grinch Watch / eBay | 105 | 2.1 |
 | <img src="https://images.craigslist.org/00R0R_f2A6ROhLvU5_0CI0CI_300x300.jpg" width="120"> | 7968632034 | $20 | houston | [Hand Signed Hummel Goebel](https://www.craigslist.org/view/d/houston-hand-signed-hummel-goebel/hkN7KiU9G7J8UGnX9dCgHr) | TMK6 1989 4" 94 3/0 " Surprise" Goebel Hummel Figurine ... | 42 | 2.1 |
-| <img src="https://images.craigslist.org/00606_ibQWlBSeEHR_1320MM_300x300.jpg" width="120"> | 7973268582 | $60 | minneapolis | [Antique Musky Bait Burmek](https://www.craigslist.org/view/d/hudson-antique-musky-bait-burmek/kdy3vHtNCdNufrznCzsHvw) | Tony Burmek Top Secret Musky Lure Brown Sucker Color with .. | 120 | 2 |
-| <img src="https://images.craigslist.org/00101_7MLXpEfKLwt_0t20CI_300x300.jpg" width="120"> | 7929919272 | $20 | fresno | [Vintage Seiko Womens Gold Tone Stainless Steel Ban](https://www.craigslist.org/view/d/fresno-vintage-seiko-womens-gold-tone/1SR9fUNAxv1WsZQYbupyG9) | Seiko Watch Women 17mm Champagne Dial Gold Tone Oval 1400 .. | 39 | 1.95 |
