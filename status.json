@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:18:41Z",
+ "updated": "2026-10-13T03:22:16Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1104,
-  "events": 6353,
+  "lens": 1129,
+  "events": 6378,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3537,
-  "lensed": 387,
+  "queued": 3512,
+  "lensed": 404,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 56
+  "flagged": 64
  },
  "last_harvests": [
   {
@@ -201,6 +201,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953945971",
+   "title": "Antique slag lamp marble base",
+   "price": 100,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/monongahela-antique-slag-lamp-marble/wXTJqTuYNnwfspKgmqWi77",
+   "best": "Antique 8 Panel Curved Bent Caramel Slag Glass Table Lamp ...",
+   "med": 2199,
+   "ratio": 21.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7961449380",
    "title": "Ornate Vintage Italian Silver-Plated Peti Four Tongs",
    "price": 22,
@@ -333,6 +344,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7980882882",
+   "title": "VINTAGE SICURA 17 JEWELS",
+   "price": 50,
+   "area": "valdosta",
+   "url": "https://www.craigslist.org/view/d/waycross-vintage-sicura-17-jewels/w1sEviBsnxKVLcRF8J1jzY",
+   "best": "Invaluable.com",
+   "med": 365,
+   "ratio": 7.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963628712",
+   "title": "Antique painting Kochel am See mountain Germany",
+   "price": 140,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-antique-painting-kochel-am-see/gH1iW3i39e4nRooytRBwe6",
+   "best": "Subject: A dramatic mountain valley or gorge with steep rocky cliffs on both sides.",
+   "med": 975,
+   "ratio": 6.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982480883",
+   "title": "Alaron 31 days clock",
+   "price": 45,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/duarte-alaron-31-days-clock/kKERbbogzgeV49csmxd5sG",
+   "best": "Etsy",
+   "med": 300,
+   "ratio": 6.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7969467948",
    "title": "Vintage Japanese Samurai Warrior Doll",
    "price": 76,
@@ -385,6 +429,17 @@
    "best": "Vintage Framus Sorella 5/59 Hollowbody Acoustic Guitar | Reverb",
    "med": 495,
    "ratio": 4.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955204810",
+   "title": "Antique Metal Gooseneck Desk Lamp",
+   "price": 60,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/apex-antique-metal-gooseneck-desk-lamp/xjW7KLG28KpU6bjStVT3G4",
+   "best": "ThirdShift Vintage",
+   "med": 265,
+   "ratio": 4.42,
    "ai_value": ""
   },
   {
@@ -575,6 +630,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955642986",
+   "title": "Antique Brass and Hammered Copper Brazier Burn Pot or Planter",
+   "price": 36,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/henrico-antique-brass-and-hammered/gSxxpDiLpg2dNi1P2HsDYZ",
+   "best": "Pair Vintage Antique Hammered Copper & Brass Brazier Coal ...",
+   "med": 100,
+   "ratio": 2.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7930644440",
    "title": "Antique Sword",
    "price": 50,
@@ -685,6 +751,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949415143",
+   "title": "Vintage Ceramic Decorative Plate from Mexico",
+   "price": 73,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-ceramic-decorative/usZqEs3hHzKofGp1krqteU",
+   "best": "Origin: Tonal\u00e1, Jalisco, Mexico",
+   "med": 120,
+   "ratio": 1.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7982493606",
    "title": "War Ship Photograph",
    "price": 55,
@@ -726,6 +803,17 @@
    "best": "Flowering Time by Wallace Nutting - Etsy",
    "med": 85,
    "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959962853",
+   "title": "Vintage Quimper Lidded Serving Bowl",
+   "price": 75,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-quimper-lidded-serving/9YYHdgctgjMk8o4mm7Pw6s",
+   "best": "Henriot Quimper Breton Covered Octagon Casserole Dish Yellow ...",
+   "med": 80,
+   "ratio": 1.07,
    "ai_value": ""
   },
   {
