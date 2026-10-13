@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:07:55Z",
+ "updated": "2026-10-13T17:11:34Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6228,
-  "events": 21298,
+  "lens": 6253,
+  "events": 21323,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 166,
+  "lensed": 169,
   "comps/pass": 1,
-  "queued/relens": 52,
+  "queued/relens": 65,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 184,
+  "flagged": 193,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 625
+  "queued": 600
  },
  "last_harvests": [
   {
@@ -435,6 +435,17 @@
    "best": "Mutual Art",
    "med": 2750,
    "ratio": 55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953841330",
+   "title": "Assorted Hat Collection",
+   "price": 1,
+   "area": "pullman",
+   "url": "https://www.craigslist.org/view/d/pullman-assorted-hat-collection/714r3ZpAy9xeYjFdzY7BNm",
+   "best": "Vtg Hats Lot 20 Mix Baseball Sports Resale Wholesale Golf ...",
+   "med": 47,
+   "ratio": 47,
    "ai_value": ""
   },
   {
@@ -944,6 +955,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975435428",
+   "title": "Sterling silver Oneida, pitcher",
+   "price": 30,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/greenwich-sterling-silver-oneida-pitcher/56s3mRRAC9iFHEapKoD5Wo",
+   "best": "Double Anchor 1717 Kenton Rogers Silver Pitcher Federal ...",
+   "med": 149,
+   "ratio": 4.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7981524750",
    "title": "VINTAGE BRASS ROOSTER",
    "price": 35,
@@ -1428,6 +1450,17 @@
    "ai_value": "Value / Condition: Pre-owned or untested vintage units typically sell for roughly $50 to $70"
   },
   {
+   "pid": "7978306233",
+   "title": "Unique Vintage Custom Korean Parlor Guitar",
+   "price": 85,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-unique-vintage-custom/w6Dr6npAZdBPdo8brbEBcc",
+   "best": "Craigslist",
+   "med": 220,
+   "ratio": 2.59,
+   "ai_value": ""
+  },
+  {
    "pid": "7963406985",
    "title": "Sterling Silver Marcasite & Onyx Earrings!",
    "price": 50,
@@ -1556,6 +1589,17 @@
    "url": "https://www.craigslist.org/view/d/rocklin-echt-cobalt-bareuther-22k-gold/oe4qLGzRYBxWj6SnWQUf9p",
    "best": "Manufacturer: Bareuther Waldsassen (Bavaria, Germany)",
    "med": 98,
+   "ratio": 2.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982807499",
+   "title": "Vintage Garnet Ring",
+   "price": 44,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/cataumet-vintage-garnet-ring/cmh4BcxS3nwq96RBrLHsK2",
+   "best": "Vintage Sterling Silver & Marcasite Garnet Cluster Ring Size ...",
+   "med": 96,
    "ratio": 2.18,
    "ai_value": ""
   },
@@ -1780,6 +1824,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931134171",
+   "title": "ANTIQUE VASE WITH CORK STOPPER",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-antique-vase-with-cork/axrQq7WTud5u5ZtWdBzs7B",
+   "best": "Ken Merrick Pottery Jar w/Cork Studio Art Stoneware Canister ...",
+   "med": 125,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7982706894",
    "title": "Sterling Silver Native American Charm Bracelet",
    "price": 100,
@@ -1821,6 +1876,17 @@
    "best": "Movado Ladies Watch 81.a1.827.2 On A Brown Leather ...",
    "med": 298,
    "ratio": 1.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963353672",
+   "title": "HULL VINTAGE POTTERY SET",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-hull-vintage-pottery-set/4cQqfQX4xzc7pi4XQ7PrXf",
+   "best": "Vintage Hull McCoy USA Brown Drip Dinnerware Pottery 30pcs ...",
+   "med": 146,
+   "ratio": 1.46,
    "ai_value": ""
   },
   {
@@ -2029,6 +2095,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-antique-cast-iron-bank-sharecropper/3zobV41VeBVURCKpxpYSov",
    "best": "National Museum of African American History and Culture",
    "med": 50,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967448378",
+   "title": "Antique Junghans Mantel Clock",
+   "price": 75,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/acton-antique-junghans-mantel-clock/4fzknhgxTZE94rgyQDeFUg",
+   "best": "Weekly Estate 'Red' No.2674",
+   "med": 75,
    "ratio": 1,
    "ai_value": ""
   },
@@ -2286,6 +2363,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967367411",
+   "title": "9 PAIRS OF VINTAGE EARRINGS",
+   "price": 70,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-pairs-of-vintage-earrings/p7JJkG9nXDEY2UTVVGBxER",
+   "best": "eBay",
+   "med": 10,
+   "ratio": 0.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7957883018",
    "title": "Jewelry Lot",
    "price": 200,
@@ -2380,6 +2468,17 @@
    "area": "houston",
    "url": "https://www.craigslist.org/view/d/katy-pretty-rings/4BvKCD3fLZqo27B2vfzriy",
    "best": "Facebook",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954443285",
+   "title": "Vintage Swiss 8 Day Miniature GF Clock",
+   "price": 100,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/woodbridge-vintage-swiss-day-miniature/92vzZM1vAD8oChsqwnao2Y",
+   "best": "Vinterior",
    "med": null,
    "ratio": null,
    "ai_value": ""
