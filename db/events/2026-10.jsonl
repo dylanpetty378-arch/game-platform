@@ -18244,3 +18244,28 @@
 {"ts":"2026-10-13T15:32:04Z","pid":"7965697902","stage":"photo_review","status":"kill","type":"beer-steins","note":"Gerzit W. Germany repro regimental stein at $50, $30-60","run":"triage-20261013e","by":"claude","data":{"est_resale":null,"tier":null}}
 {"ts":"2026-10-13T15:32:04Z","pid":"7961197347","stage":"photo_review","status":"kill","type":"fraternal-memorabilia","note":"Photos: pin lot — 1926 Missouri chauffeur badge #3656, WWII Maritime Commission Award of Merit, Son-in-Service, Masonic, Lions, sweetheart wings; ~$80-110 split up, $25 + postage; profit ~$35 <$50","run":"triage-20261013e","by":"claude","data":{"est_resale":null,"tier":null}}
 {"ts":"2026-10-13T15:32:04Z","pid":"7950403095","stage":"photo_review","status":"kill","type":"antique-scales","note":"Baby/nursery dial scale, $20-40","run":"triage-20261013e","by":"claude","data":{"est_resale":null,"tier":null}}
+{"ts":"2026-10-13T15:31:34Z","pid":"7936515242","stage":"lensed","run":"lensworker-20261013-1528","data":{"med":18,"ratio":1.8}}
+{"ts":"2026-10-13T15:31:42Z","pid":"7941554943","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":1766,"ratio":117.73}}
+{"ts":"2026-10-13T15:31:51Z","pid":"7980507342","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":213,"ratio":10.65}}
+{"ts":"2026-10-13T15:31:59Z","pid":"7930434908","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":85,"ratio":1.13}}
+{"ts":"2026-10-13T15:32:07Z","pid":"7950082616","stage":"lensed","run":"lensworker-20261013-1528","data":{"med":60,"ratio":1.2}}
+{"ts":"2026-10-13T15:32:47Z","pid":"7970778372","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":280,"ratio":1.4}}
+{"ts":"2026-10-13T15:32:54Z","pid":"7966376043","stage":"queued","status":"relens","run":"lensworker-20261013-1528","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:33:05Z","pid":"7954160089","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":95,"ratio":6.33}}
+{"ts":"2026-10-13T15:33:11Z","pid":"7939187384","stage":"queued","status":"relens","run":"lensworker-20261013-1528","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:33:17Z","pid":"7928676982","stage":"queued","status":"relens","run":"lensworker-20261013-1528","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:33:24Z","pid":"7954977172","stage":"lensed","run":"lensworker-20261013-1528","data":{"med":32,"ratio":4}}
+{"ts":"2026-10-13T15:33:32Z","pid":"7952544086","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":120,"ratio":0.73}}
+{"ts":"2026-10-13T15:33:40Z","pid":"7940570492","stage":"lensed","run":"lensworker-20261013-1528","data":{"med":40,"ratio":1.03}}
+{"ts":"2026-10-13T15:33:50Z","pid":"7950005175","stage":"lensed","run":"lensworker-20261013-1528","data":{"med":32,"ratio":1.6}}
+{"ts":"2026-10-13T15:33:58Z","pid":"7932937345","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":79,"ratio":5.27}}
+{"ts":"2026-10-13T15:34:05Z","pid":"7982705748","stage":"queued","status":"relens","run":"lensworker-20261013-1528","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:34:12Z","pid":"7929045264","stage":"queued","status":"relens","run":"lensworker-20261013-1528","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:34:19Z","pid":"7941555360","stage":"lensed","run":"lensworker-20261013-1528","data":{"med":60,"ratio":2.4}}
+{"ts":"2026-10-13T15:34:26Z","pid":"7980527268","stage":"queued","status":"relens","run":"lensworker-20261013-1528","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:34:33Z","pid":"7951258398","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":250,"ratio":3.33}}
+{"ts":"2026-10-13T15:34:42Z","pid":"7954159301","stage":"lensed","run":"lensworker-20261013-1528","data":{"med":27,"ratio":2.7}}
+{"ts":"2026-10-13T15:34:50Z","pid":"7947017788","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":100,"ratio":0.69}}
+{"ts":"2026-10-13T15:34:59Z","pid":"7978499955","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":195,"ratio":3.25}}
+{"ts":"2026-10-13T15:35:07Z","pid":"7955324325","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":180,"ratio":7.2}}
+{"ts":"2026-10-13T15:35:16Z","pid":"7944614499","stage":"flagged","run":"lensworker-20261013-1528","data":{"med":110,"ratio":5.5}}
