@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-13T00:20:06Z",
+ "updated": "2026-10-13T00:23:08Z",
  "tables": {
-  "harvests": 1,
+  "harvests": 2,
   "searches": 1,
-  "listings": 3000,
+  "listings": 3800,
   "lens": 93,
-  "events": 3133,
+  "events": 3933,
   "comps": 0,
   "item_types": 1,
   "runs": 0
@@ -14,7 +14,7 @@
   "photo_review/kill": 37,
   "lensed": 55,
   "decided/find": 1,
-  "queued": 2907
+  "queued": 3707
  },
  "last_harvests": [
   {
@@ -56,6 +56,49 @@
    "file": "cl_nat_1791842166.json",
    "note": "run14 harvest, 413 US areas, owner-only <=$200",
    "ts": "2026-10-12T23:00:25Z"
+  },
+  {
+   "harvest_id": "craigslist-20261013-0023",
+   "source": "craigslist",
+   "hours": 8.0,
+   "cats": "ata,cba,clt,ele,emd,hab,hsh,jwa,msa,pha,spo,sys,tls,tag,vga,bik,bop,boo,clo,mob,mpo,rvs,wan,for,hsd,gms,art,fua,atq",
+   "n_listings": 143076,
+   "n_new": 142011,
+   "n_selected": 800,
+   "failed_requests": 0,
+   "requests": 11977,
+   "by_cat": {
+    "ata": 5571,
+    "cba": 16922,
+    "ele": 8034,
+    "emd": 1576,
+    "hab": 2918,
+    "hsh": 17501,
+    "jwa": 2167,
+    "msa": 3535,
+    "pha": 1244,
+    "spo": 9219,
+    "sys": 1204,
+    "tls": 8941,
+    "tag": 4440,
+    "vga": 904,
+    "bik": 2238,
+    "bop": 1604,
+    "boo": 129,
+    "clo": 11170,
+    "mob": 484,
+    "mpo": 1327,
+    "wan": 1353,
+    "for": 26105,
+    "gms": 273,
+    "art": 3677,
+    "fua": 10497,
+    "atq": 6,
+    "rvs": 9,
+    "hsd": 28
+   },
+   "by": "github-actions",
+   "ts": "2026-10-13T00:23:08Z"
   }
  ],
  "flagged_waiting": [],
