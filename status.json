@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:22:33Z",
+ "updated": "2026-10-13T06:28:20Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2279,
-  "events": 9814,
+  "lens": 2304,
+  "events": 9839,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3161,
+  "queued": 3136,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 79,
-  "lensed": 71
+  "flagged": 84,
+  "lensed": 91
  },
  "last_harvests": [
   {
@@ -257,6 +257,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981044990",
+   "title": "Old Coleman Empire Lantern",
+   "price": 15,
+   "area": "plattsburgh",
+   "url": "https://www.craigslist.org/view/d/bloomingdale-old-coleman-empire-lantern/nQFrLmBT5FsMtu4sNNumgf",
+   "best": "eBay",
+   "med": 1258,
+   "ratio": 83.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7940295485",
    "title": "Pottery Urn Jar",
    "price": 25,
@@ -485,6 +496,17 @@
    "best": "Electrical/Condition Note: Vintage lamps of this age frequently feature older cloth or plastic wiring that may",
    "med": 181,
    "ratio": 7.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965753213",
+   "title": "Vintage Oil Art Painting on Canvas Original",
+   "price": 90,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-oil-art-painting-on/6hhKzuopwYrNgbHnFbuLJb",
+   "best": "Vintage Oil Art Painting on Canvas Original Venice Chanal ...",
+   "med": 612,
+   "ratio": 6.8,
    "ai_value": ""
   },
   {
@@ -730,6 +752,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945396468",
+   "title": "Vintage BrassSplatoon",
+   "price": 20,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/holyoke-vintage-brasssplatoon/fa3XLJaHXgxPpercvJiiEy",
+   "best": "Vintage Redskin Brand Chewing Tobacco Cut Plug Brass ...",
+   "med": 64,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7930145688",
    "title": "Wine & Water Crystal Goblets - Vintage Drinkware - set of 7 pair",
    "price": 35,
@@ -837,6 +870,17 @@
    "best": "Similar Items to Framed Original Signed Modern Arts & Crafts ...",
    "med": 98,
    "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976363172",
+   "title": "ANTIQUE FRAMED PRINT OF THE ANGELUS",
+   "price": 40,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/uniontown-antique-framed-print-of-the/9E8NXB7HkAEU8qB8GXaYey",
+   "best": "Subject: Two peasants (a man and a woman) pausing in a harvested field over a basket of potatoes to bow their ",
+   "med": 95,
+   "ratio": 2.38,
    "ai_value": ""
   },
   {
@@ -992,6 +1036,17 @@
    "med": 84,
    "ratio": 1.29,
    "ai_value": "Value: Pre-owned or vintage collector prices generally range from $50 to $120"
+  },
+  {
+   "pid": "7940710750",
+   "title": "Vintage Die Cut Wood Pressed Flowers",
+   "price": 75,
+   "area": "fredericksburg",
+   "url": "https://www.craigslist.org/view/d/fredericksburg-vintage-die-cut-wood/fCmc99PMbFDEcV3yvTW3cp",
+   "best": "Vintage Wood Veneer Wall Art, Girl Picking Dried Flowers ...",
+   "med": 89,
+   "ratio": 1.19,
+   "ai_value": ""
   },
   {
    "pid": "7982578671",
