@@ -16,6 +16,8 @@ fees and shipping both ways. Nationwide — anything anywhere is fair game; we a
 sports items, unverifiable precious metal). **Size rule (Oct 12 2026): only items that fit in a car's passenger seat (a little bigger at most).** Anything bigger is
 not worth the time — excluded at harvest (`scoring.is_bulky`, -99) and killed on sight in review. Within that limit, spend
 MORE time per item: deep research, full encyclopedia entries. (Replaces the older "furniture only if profit ≥ $750".)
+**No generalization (Oct 13):** every verdict and every entry names the specific brand, mark, model or variant
+that makes one item worth multiples of its lookalikes, and how to see it in a photo. Type-level ranges are not answers.
 **Never search by brand name** — the point is finding what the *seller* didn't identify.
 **Contact sellers only through the site's own method** (Craigslist reply relay, FB/OfferUp messaging); email only
 from Dylan's personal Gmail (never his work account); **send nothing without Dylan's OK for that exact message.**

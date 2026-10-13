@@ -140,7 +140,10 @@ def cmd_lint():
         rk = [k for k in RUBRIC_KEYS if not r or k not in r]
         if miss or rk:
             bad += 1; print(f'{slug:40} missing sections: {len(miss)}  rubric fields missing: {len(rk)}')
-    print(bad, 'entries need work')
+    gen = [slug for slug, t in entries() if '### Golden-egg tells' not in t]
+    print(bad, 'entries need work;', len(gen), 'without "### Golden-egg tells" (no-generalization rule, Oct 13) — see `enc.py lint --tells`')
+    if '--tells' in sys.argv:
+        for g in gen: print(g)
 
 if __name__ == '__main__':
     a = sys.argv[1:]

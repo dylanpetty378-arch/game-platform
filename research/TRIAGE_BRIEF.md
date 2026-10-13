@@ -49,3 +49,15 @@ sell for about $30, a vintage band tee for about $37, an Ideal plastic toy for a
 - Only call it a `buy` when a sold comp in db/comps.jsonl or the entry supports it. Otherwise call it an `ask` or a
   `kill`.
 Strip `\r` from every field. The input files may have CRLF line endings.
+
+## No generalization (Dylan, Oct 13)
+The money is in specifics: the one maker, mark, model, variant, material or date that makes THIS item worth multiples
+of the lookalikes beside it. So:
+- An `ask` or `buy` verdict must name the exact thing (maker/model/variant/mark/material/period) and the SPECIFIC tell
+  you saw or need to see ("Goebel full-bee TMK-2 stamp, not the later stylized bee"; "21 jewels engraved on the
+  movement, Jostens service award — the case may be 14K"; "Ainsworth aluminium body, not the brass Indian replica").
+- "Vintage pocket watch, ~$50–150" is not a verdict. If you can't say what separates this one from the common
+  version, say what photo or question would settle it and make it an `ask`.
+- Kills can be one line, but when a kill is "common version of a type that HAS a valuable version", say which
+  valuable version it is NOT (e.g. "Stanley No. 5 type 19, not the pre-1910 type 11 with the low knob").
+- Record every such tell you learn in knowledge_<part>.md as `slug: fact`; those lines become encyclopedia field notes.

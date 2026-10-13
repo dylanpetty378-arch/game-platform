@@ -91,3 +91,10 @@ Keep it short:
 - anything surprising worth adding to our process
 
 Do not contact anyone and do not buy anything. Write only to /tmp/res/enc/ and /tmp/res/img/.
+
+## No generalization (Dylan, Oct 13)
+Every entry must answer: **which specific brands, marks, models, variants, materials or dates make one of these worth
+a multiple of the ordinary one, and how do you see that in a seller's photo?** Add, inside Makers/brands/variants:
+`### Golden-egg tells` — a list of `<specific variant/mark/brand> — ~<multiple or $ band> vs the common version —
+<how to spot it in a photo>`. At least 5 lines where the type has that many; "varies by maker" is not a line. A
+generic value range without the variants that drive it is a defect.

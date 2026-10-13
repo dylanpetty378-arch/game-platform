@@ -83,3 +83,11 @@ Dylan: the system must run on any device and without his laptop open. Decision:
   vocabulary rules. It has no harvesting, comps or resale code, and adding resale tables would break its own rules
   and risk the live playtest. Refurbish stays in game-platform/refurbish: git JSONL plus SQLite on demand, free, and
   already running. The eBay keys go in game-platform's Actions secrets.
+
+## 2026-10-13 — No generalization
+Dylan: "no generalization about items. They are each unique. We need to know specific brands and specific ways that
+items are more valuable than items that are similar to them. That's where the money is going to come from." Applied:
+- Triage verdicts (ask/buy) must name the exact maker/model/variant/mark and the specific tell; a type-level price
+  range is not a verdict (research/TRIAGE_BRIEF.md).
+- Every encyclopedia entry gets `### Golden-egg tells`: the specific variants worth multiples, with the multiple and
+  how to see it in a photo (briefs + encyclopedia/README.md). `enc.py lint` flags entries without it.

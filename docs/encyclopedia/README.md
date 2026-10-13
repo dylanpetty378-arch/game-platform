@@ -33,6 +33,8 @@ Shape, size, materials, construction, period. Where the maker's mark/signature/h
 Words sellers put in titles. How to tell it from look-alikes.
 
 ## Makers, brands and variants
+(Required inside this section: `### Quick ID checklist` and `### Golden-egg tells` — the specific variants/marks/
+brands worth multiples of the common version, with the multiple and the photo tell. No generalizations.)
 Each maker/brand/line that matters: years, marks, what the line is known for, relative value. Rare variants/colours/
 finishes/sizes that multiply the price.
 
