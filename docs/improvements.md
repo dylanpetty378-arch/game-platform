@@ -26,6 +26,16 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (03:10) — review 41 flagged, what the labels say
+- Reviewed all 41 flagged (v1 reads): 0 keeps. Notables killed with reasons: modern cloisonné and Rose Medallion,
+  Elgin GF hunter and Swiss Bijou watches at near-market asks, amateur-painted Limoges, unsigned cobalt salt-glaze jug
+  (heavy shipping), Gulf brass dallah, decorative byobu screens, an antique-mall dealer's watch case.
+- 432 listings now have a photo-review label (18 keeps). Lens price features do NOT separate keeps from kills (keep
+  rate ~1–3% in every n × ratio bucket) — the flag rule is only a coarse gate; the leverage is in what gets queued.
+- Furniture/bulky words (desk, table, chair, cabinet, mirror, trunk, chest, dresser, rocking…) = 120+ kills, 0 keeps →
+  `scoring.BULKY` −4 title penalty (table lamp/clock exempt). Frees Lens capacity for small shippable items.
+- Too few positives (18) for a learned ranker yet; revisit at ~60 keeps.
+
 ### 2026-10-13 (night) — the machine checks itself
 - `scripts/health.py`: one command, PASS/WARN/FAIL for every step (workflow runs, harvest age/failures, queue age/size,
   Lens freshness, read quality of the last 200 — priced ≥80%, empty ≤5%, worker version mix — flag rate, JSONL

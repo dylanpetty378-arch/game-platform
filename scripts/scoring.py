@@ -35,6 +35,10 @@ def learned_weights(lens_rows, listings_by_pid, k=150):
         out[c] = round(adj * n / (n + k), 2)         # shrinkage
     return out
 
+# Furniture/bulky words: 0 keeps in the first 432 reviewed listings (desk, table, chair, cabinet, mirror, trunk, chest,
+# dresser, rocking … 120+ kills); Dylan's rule needs ≥$750 profit for furniture (drives a Civic), so push them down hard.
+BULKY=re.compile(r'\b(desk|table(?! ?(lamp|top clock|clock))|chairs?|cabinet|mirror|trunk|chest|dresser|rocker|rocking|bench|bookcase|bookshelf|shelf|shelves|armoire|wardrobe|hutch|buffet|sideboard|credenza|nightstand|headboard|bed ?frame|vanity|stool|ottoman|sewing machine|piano|organ|loveseat|futon)\b',re.I)
+
 def score(r):
     t=r.get('title') or ''; s=0.0
     if JUNK.search(t): return -99
@@ -46,6 +50,7 @@ def score(r):
     s+= 2 if HELPER.search(t) else 0                # seller doesn't know what it is
     s-= 3 if RESELLER.search(t) else 0              # seller does know
     s-= 2 if MODEL.search(t) else 0                 # model number = seller already identified it
+    s-= 4 if BULKY.search(t) else 0                 # furniture/bulky: almost never passes the rule
     s+= 1 if 10<=p<=100 else 0
     s+= 1 if len(r['imgs'])>=3 else 0
     c=r.get('cat'); s+= CAT_PRIOR.get(c,0) + LEARNED.get(c,0)

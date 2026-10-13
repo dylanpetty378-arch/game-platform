@@ -6186,3 +6186,43 @@
 {"ts":"2026-10-13T02:58:48Z","pid":"7976074251","stage":"lensed","run":"lensworker-20261013-0256","data":{"med":18,"ratio":0.14}}
 {"ts":"2026-10-13T02:58:56Z","pid":"7969961994","stage":"flagged","run":"lensworker-20261013-0256","data":{"med":109,"ratio":4.36}}
 {"ts":"2026-10-13T02:59:04Z","pid":"7951709080","stage":"lensed","run":"lensworker-20261013-0256","data":{"med":69,"ratio":0.42}}
+{"ts":"2026-10-13T02:59:38Z","pid":"7978909749","stage":"photo_review","status":"kill","note":"modern Chinese cloisonné ginger jar (export, cherry blossom) ~$40-70 resale","type":"cloisonne","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7974975384","stage":"photo_review","status":"kill","note":"Elgin GF hunter, 20-yr Star case; runs unknown; resale ~$100-180 vs $95 ask — below rule","type":"pocket-watch-gold-filled","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7974279408","stage":"photo_review","status":"kill","note":"modern Rose Medallion punch bowl w/ paper label + stand; ~$80-150","type":"rose-medallion-modern","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7939879293","stage":"photo_review","status":"kill","note":"T&V Limoges blank, amateur hand-painted 1902 signed EMA; ~$80-150 vs $150","type":"limoges-amateur-painted","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7934805682","stage":"photo_review","status":"kill","note":"Swiss Bijou silver key-less ladies/ midsize watch; ~$100-200 vs $150","type":"pocket-watch-swiss-silver","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7973604894","stage":"photo_review","status":"kill","note":"unsigned amateur studio pot, not Hedberg","type":"studio-pottery-amateur","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7936250367","stage":"photo_review","status":"kill","note":"unsigned 19th-c salt-glaze jug, simple cobalt flower ~9\"; ~$80-150, heavy/fragile shipping eats it","type":"stoneware-jug-cobalt","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7945950931","stage":"photo_review","status":"kill","note":"antique-mall dealer watch case, priced retail","type":"reseller","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7956155441","stage":"photo_review","status":"kill","note":"costume shell/faux pearl necklace","type":"costume-jewelry","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7940687295","stage":"photo_review","status":"kill","note":"costume chain lot, nothing sterling/gold visible","type":"costume-jewelry","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7956636875","stage":"photo_review","status":"kill","note":"Gulf brass dallah (modern-ish); ~$60-120 vs $30 — profit < $50","type":"dallah-brass","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7974504753","stage":"photo_review","status":"kill","note":"modern decorative 4-panel screens, bulky; Lens category match","type":"byobu-decorative","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7953937034","stage":"photo_review","status":"kill","note":"triage: Tiffany-style repro lamp","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7982454702","stage":"photo_review","status":"kill","note":"triage: decor print","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7946615450","stage":"photo_review","status":"kill","note":"triage: decor wall art","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7943946026","stage":"photo_review","status":"kill","note":"triage: silver plate","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7945678705","stage":"photo_review","status":"kill","note":"triage: generic lamp, furniture cat","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7981349160","stage":"photo_review","status":"kill","note":"triage: generic porcelain lamp","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7955389584","stage":"photo_review","status":"kill","note":"triage: Borghese plaster bookend (low)","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7949316401","stage":"photo_review","status":"kill","note":"triage: generic crystal candelabra","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7982531694","stage":"photo_review","status":"kill","note":"triage: Seymour Mann giftware","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7961363373","stage":"photo_review","status":"kill","note":"triage: unmarked transfer bowl","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7946210897","stage":"photo_review","status":"kill","note":"triage: decor bucket","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7961860176","stage":"photo_review","status":"kill","note":"triage: common china set","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7982572836","stage":"photo_review","status":"kill","note":"triage: unsigned decor painting","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7982546256","stage":"photo_review","status":"kill","note":"triage: print","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7957895660","stage":"photo_review","status":"kill","note":"triage: common kerosene lamp","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7933647095","stage":"photo_review","status":"kill","note":"triage: decor glass head","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7976962731","stage":"photo_review","status":"kill","note":"triage: common bubble-glass frame","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7982494254","stage":"photo_review","status":"kill","note":"triage: Seth Thomas common clock, runs unknown","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7967721762","stage":"photo_review","status":"kill","note":"triage: modern salt-glaze pitcher","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7973491824","stage":"photo_review","status":"kill","note":"triage: sewing machine bulky","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7969306014","stage":"photo_review","status":"kill","note":"triage: common mantle clock","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7982494449","stage":"photo_review","status":"kill","note":"triage: group photo","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7941151151","stage":"photo_review","status":"kill","note":"triage: lighter, Lens +1 badge read","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7936344282","stage":"photo_review","status":"kill","note":"triage: common frames","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7939657836","stage":"photo_review","status":"kill","note":"triage: common New Haven clock","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7982447091","stage":"photo_review","status":"kill","note":"triage: retro glass at retail","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7947679986","stage":"photo_review","status":"kill","note":"triage: decanter at retail","run":"review-20261013a"}
+{"ts":"2026-10-13T02:59:38Z","pid":"7982380644","stage":"photo_review","status":"kill","note":"triage: common handsaws","run":"review-20261013a"}
