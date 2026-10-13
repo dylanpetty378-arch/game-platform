@@ -91,3 +91,7 @@ items are more valuable than items that are similar to them. That's where the mo
   range is not a verdict (research/TRIAGE_BRIEF.md).
 - Every encyclopedia entry gets `### Golden-egg tells`: the specific variants worth multiples, with the multiple and
   how to see it in a photo (briefs + encyclopedia/README.md). `enc.py lint` flags entries without it.
+
+## 2026-10-13 — Two restrictions loosened (Dylan)
+- Electronics the seller says are tested/working are allowed, but only when profit ≥ 3× price. Untested stays out.
+- A $200–$500 price tier is allowed, but only when profit ≥ 10× price. The harvest now pulls up to $500.

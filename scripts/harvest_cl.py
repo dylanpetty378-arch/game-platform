@@ -3,7 +3,7 @@
   python3 scripts/harvest_cl.py <cats> <hours> [out.json]
   from harvest_cl import harvest; rows = harvest(CATS, 6)
 
-Every US area (413) x each category, owner listings only, price <= $200, posted within <hours>, with photos.
+Every US area (413) x each category, owner listings only, price <= $500 ($200–500 only clears at profit ≥ 10× price), posted within <hours>, with photos.
 Needs areas.json (https://reference.craigslist.org/Areas) — downloaded automatically if missing.
 """
 import json, time, sys, os, urllib.parse, urllib.request, concurrent.futures as cf
@@ -67,7 +67,7 @@ def harvest(cats=CATS, hours=24, threads=10, log=print):
         return [r for r in rows if r['posted'] >= since]
     def work(j):
         ar, c = j
-        return query(ar, c, 1, 200)
+        return query(ar, c, 1, 500)
     with cf.ThreadPoolExecutor(threads) as ex:
         for n, res in enumerate(ex.map(work, jobs)):
             if res is None: fails += 1; continue

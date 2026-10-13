@@ -65,7 +65,7 @@ def score(r):
     t=r.get('title') or ''; s=0.0
     if JUNK.search(t) or is_bulky(t) or POLICY.search(t): return -99   # junk, or bigger than a passenger seat
     p=r.get('price')
-    if p is None or p<=0 or p>200: return -99
+    if p is None or p<=0 or p>500: return -99   # $200–500 tier needs profit ≥ 10× price (Dylan, Oct 13)
     if not r.get('imgs'): return -99
     w=len(t.split())
     s+= 3 if w<=4 else 2 if w<=7 else 0            # short generic titles

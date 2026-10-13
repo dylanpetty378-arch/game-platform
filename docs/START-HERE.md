@@ -11,8 +11,8 @@ they have (no brand/maker/model in the listing), identify them from the photos, 
 buy, and resell with the right name on it. Profits go toward buying a truck.
 
 **Buy rule (never change without Dylan):** price ≤ $200 and expected profit ≥ max($50, price) after ~13% selling
-fees and shipping both ways. Nationwide — anything anywhere is fair game; we ask the seller to ship and pay for it.
-**Out:** repairs, untested/broken electronics, small engines, anything needing authentication (designer bags, signed
+fees and shipping both ways. **$200–$500 tier (Dylan, Oct 13 2026): allowed only if profit ≥ 10× price.** Nationwide — anything anywhere is fair game; we ask the seller to ship and pay for it.
+**Out:** repairs, untested/broken electronics (electronics the *seller says are tested/working* are allowed only if profit ≥ 3× price — Dylan, Oct 13 2026), small engines, anything needing authentication (designer bags, signed
 sports items, unverifiable precious metal). **Size rule (Oct 12 2026): only items that fit in a car's passenger seat (a little bigger at most).** Anything bigger is
 not worth the time — excluded at harvest (`scoring.is_bulky`, -99) and killed on sight in review. Within that limit, spend
 MORE time per item: deep research, full encyclopedia entries. (Replaces the older "furniture only if profit ≥ $750".)

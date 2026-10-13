@@ -29,7 +29,8 @@ Typical yield: ~1 in 4 flagged survive; ~1 in 15–25 flagged becomes a find.
    Log the search: `db.py search --site ebay_sold --query "…" --purpose comps --results N`
    and the prices: `db.py comp --type <slug> --query "…" --source ebay_sold --prices a,b,c --pid <pid>`.
 2. `net = median × 0.87 − ship_to_buyer − ship_to_Dylan` (estimate $15 small / $30 medium / $60+ large or fragile).
-   `profit = net − price`. Pass if `profit ≥ max(50, price)`.
+   `profit = net − price`. Pass if `profit ≥ max(50, price)`. Price $200–$500: pass only if `profit ≥ 10 × price`.
+   Electronics the seller says are tested/working: pass only if `profit ≥ 3 × price` (untested stays out).
    Tiers: **A** profit ≥ 2× price · **B** passes · **C** within 20% — ask for mark/condition first.
 3. Event: `comps --status pass|fail|close --data '{"median":…,"n":…,"profit":…}'`, then
    `decided --status find|ask|pass --note "Tier A, ~$215 profit, ask height + back casting"`.

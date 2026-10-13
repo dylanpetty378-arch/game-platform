@@ -12,7 +12,7 @@ For EACH row:
 1. **Triage by title and Lens text.** Kill straight away, without opening photos:
    - anything bigger than a car's passenger seat (furniture, big lamps, large framed art, rugs over about 4×6)
    - modern decor and mass-market items
-   - untested electronics
+   - untested electronics (seller-tested electronics stay in, but need profit ≥ 3× price)
    - things needing authentication (designer bags, luxury watches)
    - dealer or antique-mall stock
    - reproductions
@@ -28,6 +28,7 @@ For EACH row:
    `grep -i '<words>' db/comps.jsonl`. Do NOT use WebSearch (no budget this turn) and do NOT use the browser.
 4. **Decide.**
    - Profit = resale × 0.87 − ship to buyer − ship to Dylan − price. It must be ≥ max($50, price).
+     Price $200–$500: profit must be ≥ 10× price. Seller-tested electronics: profit must be ≥ 3× price.
    - Tier A: profit ≥ 2× price. Tier B: passes. Tier C: needs an answer or an offer from the seller.
    - Verdicts:
      - `kill`, with a one-line specific reason
