@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T15:47:54Z",
+ "updated": "2026-10-13T15:52:06Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5837,
-  "events": 19246,
+  "lens": 5862,
+  "events": 19271,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 5946,
-  "queued": 690,
+  "photo_review/kill": 5931,
+  "queued": 681,
   "comps/pass": 1,
-  "queued/relens": 190,
-  "decided/ask": 54,
+  "queued/relens": 193,
+  "lensed": 74,
+  "decided/ask": 53,
   "decided/kill": 6,
   "decided/pass": 1,
+  "flagged": 48,
   "comps/fail": 5,
   "expired": 7,
-  "decided/find": 8,
-  "lensed": 61,
-  "flagged": 39
+  "decided/find": 8
  },
  "last_harvests": [
   {
@@ -334,6 +334,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7940962813",
+   "title": "*Antique fiddle bow*",
+   "price": 75,
+   "area": "neworleans",
+   "url": "https://www.craigslist.org/view/d/mandeville-antique-fiddle-bow/r3qRaSgHCvu5e2VtTZAJnk",
+   "best": "Otto A. Hoyer \"Pariser\", fine gold mounted violin bow",
+   "med": 16000,
+   "ratio": 213.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7940571077",
    "title": "Sterling Silver Necklace",
    "price": 99,
@@ -353,6 +364,17 @@
    "best": "FABULOUS PAIR of 19th C. ANTIQUE CHINESE CLOISONNE ...",
    "med": 750,
    "ratio": 75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957790297",
+   "title": "Antique Winter Scene Print",
+   "price": 20,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/antique-winter-scene-print/27qgv8UxVNcoJKtEcBm7MC",
+   "best": "Antique 1909 Framed Hallen & Weiner Winter Scene Print ...",
+   "med": 800,
+   "ratio": 40,
    "ai_value": ""
   },
   {
@@ -378,6 +400,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951818601",
+   "title": "Antique Fork",
+   "price": 20,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/wichita-antique-fork/p16Z6C3wPvGs2zVbHRP5VN",
+   "best": "Classicist Silver Roast Fork, France, 1880s for sale at Pamono",
+   "med": 346,
+   "ratio": 17.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7943870857",
    "title": "Vintage Stoneware Vase Glidden Pottery USA Round #63 Turquoise New Yor",
    "price": 65,
@@ -386,6 +419,17 @@
    "best": "Origin: Made in New York, USA by Glidden Pottery (1940s\u20131950s).",
    "med": 995,
    "ratio": 15.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939344630",
+   "title": "Vintage cast iron small planter urn",
+   "price": 80,
+   "area": "utica",
+   "url": "https://www.craigslist.org/view/d/salisbury-center-vintage-cast-iron/hro72ZUsPStnVHBQP8UtSt",
+   "best": "French Antique Cast Iron Planter With Floral Relief, Outdoor ...",
+   "med": 1199,
+   "ratio": 14.99,
    "ai_value": ""
   },
   {
@@ -587,6 +631,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971918684",
+   "title": "Bronze-Style Girl on a Swing Sculpture 6\"",
+   "price": 60,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/bronx-bronze-style-girl-on-swing/5k36yjMUjg7zhuG8wF7Gcf",
+   "best": "Vtg Art Nouveau after Auguste Moreau Lady Girl On A Swing ...",
+   "med": 194,
+   "ratio": 3.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7975427796",
    "title": "Sterling Silver Sisters Pendant Charm",
    "price": 20,
@@ -653,6 +708,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955386931",
+   "title": "antique voting box",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/tucson-antique-voting-box/wgmEqAJnnrUYm529xt7wcE",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955159417",
    "title": "Vintage Copper Bucket",
    "price": 40,
@@ -697,6 +763,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982723322",
+   "title": "Antique  mortar and pestle",
+   "price": 75,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/solon-antique-mortar-and-pestle/deRiwUihf4XU8jbQ4uX4CJ",
+   "best": "Mortar & Pestle from Pharmacy Solid Brass 2 Handles Engraved ...",
+   "med": 115,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951269784",
+   "title": "Movado watch",
+   "price": 200,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/herndon-movado-watch/meYB1rg3gS8kKFdHLvHn7C",
+   "best": "Movado Ladies Watch 81.a1.827.2 On A Brown Leather ...",
+   "med": 298,
+   "ratio": 1.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7957945943",
    "title": "VINTAGE GLASS ROOSTER LOT 2 of 2 --TWO THICK glass collectibles! Read!",
    "price": 55,
@@ -716,6 +804,17 @@
    "best": "Origin: Typically attributed to 1920s\u20131930s Czech (Czechoslovakian) costume or artisan jewelry production.",
    "med": 105,
    "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948229130",
+   "title": "Sterling Silver Dolphin Cuff Bracelet!",
+   "price": 145,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/mount-pleasant-sterling-silver-dolphin/7fVY3N1N6eksq4TpFLvKyx",
+   "best": "Beautiful Quality Vintage SOLID Sterling Silver-dolphin ...",
+   "med": 197,
+   "ratio": 1.36,
    "ai_value": ""
   },
   {
@@ -1351,16 +1450,6 @@
    "area": "cincinnati",
    "url": "https://www.craigslist.org/view/d/cincinnati-vintage-train-collection/5NXeHeq19eV89RDsAGdBJA",
    "note": "Lionel postwar lot: two 0-4-0 switchers with slope-back Lionel Lines tenders (1615/1625/1665 class), 3462 and 3472 automatic milk cars, 6520 searchlight car with ORANGE generator (the scarce variant; maroon/gray is the common one), 2472 PRR caboose, 6415 Sunoco 3-dome tank, MPC 9863 REA reefer. \"Make offer\", family-owned, \"worked when stored\". Ask: cab numbers on both switchers, whether they run, close photo of the 6520 generator colour, and offer $50. Est $250 low end, no comp",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7940962813",
-   "title": "*Antique fiddle bow*",
-   "price": 75,
-   "area": "neworleans",
-   "url": "https://www.craigslist.org/view/d/mandeville-antique-fiddle-bow/r3qRaSgHCvu5e2VtTZAJnk",
-   "note": "Violin bow, round stick, ebony frog with pearl eye, silver-wire grip with no leather thumb pad, three-part button; seller says \"possibly Mirecourt 1920s, no proof\". Unstamped Mirecourt trade bows $100-200; a stamp on the stick above the frog (Bazin, Morizot, Ouchard, Thomassin, Cuniot-Hury) or a Paris-eye frog makes it $400+. Ask: photo of the stick where the frog sits (any stamp), is the stick straight when sighted, is the hair complete, is the ferrule/button silver (not nickel)? Phone only. No comp \u2014 low end.",
    "stage": "decided",
    "status": "ask"
   },
