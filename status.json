@@ -1,24 +1,24 @@
 {
- "updated": "2026-10-13T16:15:01Z",
+ "updated": "2026-10-13T16:18:25Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 6012,
-  "events": 20274,
+  "lens": 6037,
+  "events": 20299,
   "comps": 1350,
   "item_types": 795,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 6739,
-  "lensed": 106,
+  "photo_review/kill": 6714,
+  "lensed": 119,
   "comps/pass": 1,
-  "queued/relens": 8,
+  "queued/relens": 9,
   "decided/ask": 54,
   "decided/kill": 6,
   "decided/pass": 1,
-  "flagged": 72,
+  "flagged": 83,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 8
@@ -388,6 +388,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956157238",
+   "title": "Framed Antique Embroidered Silk",
+   "price": 50,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/carmel-framed-antique-embroidered-silk/na8kqQPYJiiFMSLJGSgKCo",
+   "best": "Mutual Art",
+   "med": 2750,
+   "ratio": 55,
+   "ai_value": ""
+  },
+  {
    "pid": "7957790297",
    "title": "Antique Winter Scene Print",
    "price": 20,
@@ -473,6 +484,17 @@
    "best": "Women's Vintage Estate 14K Gold Sapphire & Diamond Ring 7.1g ...",
    "med": 1025,
    "ratio": 14.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932678285",
+   "title": "Vintage  Z ceramic bookend",
+   "price": 24,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/coeur-alene-vintage-ceramic-bookend/rccoKyxabGwC92JZLuarQX",
+   "best": "Vintage Mid Century Modern A-Z Ceramic Block Letter Bookends ...",
+   "med": 349,
+   "ratio": 14.54,
    "ai_value": ""
   },
   {
@@ -630,6 +652,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957509338",
+   "title": "Antique Hand Tool Box",
+   "price": 20,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/wichita-antique-hand-tool-box/s4YdtAkVdNowTVVgtm8o7y",
+   "best": "Market Value: Similar vintage or handmade wood carriers typically sell between $20 and $65 depending on age, c",
+   "med": 130,
+   "ratio": 6.5,
+   "ai_value": "Value: Similar vintage or handmade wood carriers typically sell between $20"
+  },
+  {
    "pid": "7931828187",
    "title": "Necklace and Earring Sets",
    "price": 10,
@@ -707,6 +740,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954569144",
+   "title": "ANTIQUE PEARL NECKLACE 1940'S",
+   "price": 20,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/prescott-valley-antique-pearl-necklace/masUf2v2vPLTpujEes78QL",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7944079877",
    "title": "Vintage 12 string / handmade",
    "price": 120,
@@ -715,6 +759,28 @@
    "best": "Handgemaakte akoestische 12-snarige gitaar (ca. 1960 ...",
    "med": 495,
    "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951670496",
+   "title": "Vintage 3D art, framed",
+   "price": 35,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/fort-worth-vintage-3d-art-framed/f4jpickSstAf46zWMaM8dd",
+   "best": "Vintage 3D Floral Art, Framed - Etsy",
+   "med": 135,
+   "ratio": 3.86,
+   "ai_value": "sell online for around $35"
+  },
+  {
+   "pid": "7951378837",
+   "title": "Antique/Vintage Babee-Tenda",
+   "price": 25,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/pope-army-airfield-antique-vintage/mLbGQY84yM8XQWFi6B7xGQ",
+   "best": "Craigslist",
+   "med": 95,
+   "ratio": 3.8,
    "ai_value": ""
   },
   {
@@ -872,6 +938,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932705654",
+   "title": "Vintage ceramic vase,unmarked",
+   "price": 45,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/coeur-alene-vintage-ceramic-vaseunmarked/aEs8hnA3vCGyJgFEUnByjL",
+   "best": "eBay",
+   "med": 120,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7953344699",
    "title": "Antique telephone replica",
    "price": 50,
@@ -960,6 +1037,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939971376",
+   "title": "NICE ORNATE VINTAGE LAMPS",
+   "price": 80,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/carmichael-nice-ornate-vintage-lamps/3cYpnPosh2nqqjUXiETdHD",
+   "best": "Medallion Artwork: Oval hand-painted or decal plaques featuring a classic 18th-century courting couple scene (",
+   "med": 144,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7930151538",
    "title": "VINTAGE BOILER",
    "price": 75,
@@ -1023,6 +1111,17 @@
    "best": "L.E. Smith Colbalt Blue Glass Fighting Rooster | eBay",
    "med": 80,
    "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933447411",
+   "title": "10 vintage brooches",
+   "price": 75,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-10-vintage-brooches/5gM1z66yyWWMoztsye7Rem",
+   "best": "eBay",
+   "med": 105,
+   "ratio": 1.4,
    "ai_value": ""
   },
   {
@@ -1092,12 +1191,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7955774433",
+   "title": "Vintage Slide viewer new",
+   "price": 80,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-slide-viewer-new/3hoPgLpotdJ7MjovceWKrZ",
+   "best": "5x Lens Magnification Slide Viewers for sale | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": "sell for around $20 to $25"
+  },
+  {
    "pid": "7970087454",
    "title": "vintage AAL fmoor speakers",
    "price": 25,
    "area": "greenbay",
    "url": "https://www.craigslist.org/view/d/green-bay-vintage-aal-fmoor-speakers/jbn8uhebxHgjAtSWEScHDS",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954217976",
+   "title": "Antique WWII Cartridges Collector",
+   "price": 80,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/freedom-antique-wwii-cartridges/cLSW8uPdYCNGSryubUVeEK",
+   "best": "2 CRATES .30-06 HXP M2 BALL SEALED SPAM CANS 960 | Proxibid",
    "med": null,
    "ratio": null,
    "ai_value": ""

@@ -20272,3 +20272,28 @@
 {"ts":"2026-10-13T16:14:27Z","pid":"7935533362","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":292,"ratio":8.34}}
 {"ts":"2026-10-13T16:14:34Z","pid":"7950024535","stage":"queued","status":"relens","run":"lensworker-20261013-1607","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T16:14:40Z","pid":"7970925777","stage":"queued","status":"relens","run":"lensworker-20261013-1607","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:14:51Z","pid":"7939312621","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":35,"ratio":0.47}}
+{"ts":"2026-10-13T16:15:00Z","pid":"7951670496","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":135,"ratio":3.86}}
+{"ts":"2026-10-13T16:15:09Z","pid":"7932705654","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":120,"ratio":2.67}}
+{"ts":"2026-10-13T16:15:19Z","pid":"7954569144","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":85,"ratio":4.25}}
+{"ts":"2026-10-13T16:15:29Z","pid":"7955774433","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T16:15:37Z","pid":"7949971683","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":15,"ratio":0.43}}
+{"ts":"2026-10-13T16:15:44Z","pid":"7956157238","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":2750,"ratio":55}}
+{"ts":"2026-10-13T16:15:50Z","pid":"7947951603","stage":"queued","status":"relens","run":"lensworker-20261013-1607","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:16:00Z","pid":"7939930781","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":35,"ratio":0.58}}
+{"ts":"2026-10-13T16:16:07Z","pid":"7933447465","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":69,"ratio":0.92}}
+{"ts":"2026-10-13T16:16:14Z","pid":"7946206257","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":20,"ratio":2}}
+{"ts":"2026-10-13T16:16:24Z","pid":"7957509338","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":130,"ratio":6.5}}
+{"ts":"2026-10-13T16:16:34Z","pid":"7951378837","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":95,"ratio":3.8}}
+{"ts":"2026-10-13T16:16:41Z","pid":"7969135995","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T16:16:49Z","pid":"7932678285","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":349,"ratio":14.54}}
+{"ts":"2026-10-13T16:16:59Z","pid":"7954566556","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":36,"ratio":2.4}}
+{"ts":"2026-10-13T16:17:06Z","pid":"7951415253","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":23,"ratio":1.15}}
+{"ts":"2026-10-13T16:17:15Z","pid":"7939971376","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":144,"ratio":1.8}}
+{"ts":"2026-10-13T16:17:22Z","pid":"7954217976","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T16:17:30Z","pid":"7939764805","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":60,"ratio":0.8}}
+{"ts":"2026-10-13T16:17:40Z","pid":"7937169689","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":16,"ratio":0.64}}
+{"ts":"2026-10-13T16:17:47Z","pid":"7933447411","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":105,"ratio":1.4}}
+{"ts":"2026-10-13T16:17:55Z","pid":"7947349415","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T16:18:02Z","pid":"7955491117","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":21,"ratio":1.05}}
+{"ts":"2026-10-13T16:18:09Z","pid":"7950002460","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":45,"ratio":0.9}}
