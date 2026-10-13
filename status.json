@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:04:16Z",
+ "updated": "2026-10-13T13:07:38Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4787,
-  "events": 14722,
+  "lens": 4812,
+  "events": 14747,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 569,
-  "queued": 1453,
+  "lensed": 583,
+  "queued": 1428,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 353,
-  "flagged": 449,
+  "queued/relens": 354,
+  "flagged": 459,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1052,6 +1052,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944870335",
+   "title": "Vintage Rectangular Clear Glass 2 Handled Tray",
+   "price": 5,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-rectangular-clear/3qDfVX7mMXsumMrdTHBd57",
+   "best": "Craigslist",
+   "med": 73,
+   "ratio": 14.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7958079032",
    "title": "Vintage 1952 Baby Bassinet",
    "price": 100,
@@ -1965,6 +1976,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954069512",
+   "title": "Thai Bronze Buddha Statue",
+   "price": 145,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-thai-bronze-buddha-statue/4a8Ezwme1Dxn9g1NpF5RfP",
+   "best": "Buddha Statue - Antique Khmer Style Bronze Standing Abhaya ...",
+   "med": 889,
+   "ratio": 6.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7975041948",
    "title": "Vintage full faced helmet",
    "price": 25,
@@ -2291,6 +2313,17 @@
    "url": "https://www.craigslist.org/view/d/logan-vintage-jimmy-swaggart-10k-gf/3soLELKCW9kJmFvCHwwBht",
    "best": "Vintage Sterling Silver 925 Carved Mercury Dime Pendant ...",
    "med": 217,
+   "ratio": 5.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962175797",
+   "title": "Corvette watch and sunglasses",
+   "price": 60,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/skowhegan-corvette-watch-and-sunglasses/sqbeyVVq7CeFp3SC6VKkVd",
+   "best": "WatchCharts Marketplace",
+   "med": 325,
    "ratio": 5.42,
    "ai_value": ""
   },
@@ -2699,6 +2732,17 @@
    "best": "ZIPPO LIGHTER VINTAGE - EMPTY BOX - RED WHITE - THE ONE ZIP ...",
    "med": 265,
    "ratio": 4.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945811480",
+   "title": "WONY Oriental Figurines made in Italy",
+   "price": 40,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-wony-oriental-figurines-made-in/rJBQiFGeAjJvctcPq2D62a",
+   "best": "Early 20th C. set of 4 Antique Chinese hand-carved Ivory ...",
+   "med": 175,
+   "ratio": 4.38,
    "ai_value": ""
   },
   {
@@ -3428,6 +3472,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950844071",
+   "title": "Lot Of 5 Vintage Royal Copenhagen Mini Wall Plates",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-lot-of-vintage-royal/46b5CYNt8muEAw4jUoY2GS",
+   "best": "Craigslist",
+   "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7977814173",
    "title": "Match Book collection",
    "price": 75,
@@ -3659,6 +3714,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966152828",
+   "title": "Roseville Snowberry Green 1947 Vintage Art Pottery Console Bowl",
+   "price": 30,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/depew-roseville-snowberry-green-1947/qHX8xXSbUMSZXGqyoGZvEk",
+   "best": "Lot 436 | VINTAGE ROSEVILLE POTTERY CERAMIC CONSOLE BOWL MARKED",
+   "med": 80,
+   "ratio": 2.67,
+   "ai_value": "Value/Market Price: Typically sells between $30"
+  },
+  {
    "pid": "7963269306",
    "title": "Women's Antique Hamilton Watch",
    "price": 40,
@@ -3733,6 +3799,17 @@
    "best": "Navajo Earring Pendant Set Sterling Silver Blue Turquoise ...",
    "med": 250,
    "ratio": 2.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944297694",
+   "title": "Tommy Hilfiger Men's Brown Watch with date",
+   "price": 35,
+   "area": "onslow",
+   "url": "https://www.craigslist.org/view/d/wilmington-tommy-hilfiger-mens-brown/drFo39VU9HToQF8qzWXQc4",
+   "best": "vinted.at",
+   "med": 90,
+   "ratio": 2.57,
    "ai_value": ""
   },
   {
@@ -3864,6 +3941,17 @@
    "url": "https://www.craigslist.org/view/d/glen-arm-antique-blue-canton-plates/asn7LuiHFipuJGgjGJ1uCY",
    "best": "Antique Chinese Zhangzhou Ware Export Porcelain Bowl Circa ...",
    "med": 245,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954912221",
+   "title": "Polish 16\" Wooden Folk Art Plate",
+   "price": 40,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-polish-16-wooden-folk-art-plate/643MRxgJa5k8iEPsqS9PV9",
+   "best": "Origin: Souvenir and folk art pieces of this style were commonly handcrafted in the Zakopane region of Poland ",
+   "med": 98,
    "ratio": 2.45,
    "ai_value": ""
   },
@@ -4209,6 +4297,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945249677",
+   "title": "Vintage Locking  2 Liquor Decanter Tantalus",
+   "price": 95,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-locking-liquor/4nnKfzWe3oJeRajeBKbfyy",
+   "best": "The Potomack Company",
+   "med": 175,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7981714881",
    "title": "ABOUT 70+ OLD BOTTLES",
    "price": 75,
@@ -4294,6 +4393,17 @@
    "best": "Etsy",
    "med": 125,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975347201",
+   "title": "VINTAGE BRASS SWORDFISH CORKSCREW AND BOTTLE OPENER",
+   "price": 49,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-vintage-brass-swordfish/3K6Qo3g1skbEibzeWXsLVs",
+   "best": "Vintage 1950s Hakuli Brass Swordfish Corkscrew and Bottle ...",
+   "med": 81,
+   "ratio": 1.65,
    "ai_value": ""
   },
   {
