@@ -30,6 +30,7 @@ Fake hallmarks on luxury studs; high-end needs authentication (excluded).
 
 ## Comps (sold, dated)
 None retrieved this run.
+- 2026-10-13 – Terapeak 365d sold, query "cummerbund and bow tie set": n=48, median $22.95, p25 $10.99, p75 $26.79 — e.g. $10.5 New Italian Satin Cummerbund Tuxedo Bo (); $9.94 Men s Cummerbund Bow Tie Set Adjustabl () (generic queries can include unrelated items)
 
 ## Market
 Fabric sets: low demand, prom/wedding season. Gold sets: steady.

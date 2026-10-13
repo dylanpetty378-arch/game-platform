@@ -44,6 +44,7 @@ Modern Chinese/Indian cast copies of Israeli filigree crosses sold online for $1
 
 ## Comps (sold, dated)
 No sold comps retrievable this run. Lens median for pid 7943508544 was $148 (asking prices of mixed matches). Estimated eBay sold range for vintage Israeli sterling filigree Jerusalem cross pendants $30–80 (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "silver Jerusalem cross pendant": n=49, median $19.85, p25 $14, p75 $37.65 — e.g. $26.15 Jerusalem Cross Necklace 925 Sterling (); $38.01 2Ct Round Red Ruby Diamond Jerusalem C () (generic queries can include unrelated items)
 
 ## Market
 Steady: hundreds of religious silver pendant sales per month; Jerusalem crosses a few dozen. Sell-through ~40%; 2–6 weeks. Easter and Christmas bumps.

@@ -36,6 +36,7 @@ Chinese counterfeit Martins/Gibsons ("Chibson") exist; check serials and constru
 - 2026-02-09 eBay sold $169.99 – Esteban American Legacy AL-100 Black (Terapeak)
 - 2026-03-08 eBay sold $84.99 – Elezan American Legacy AL-100 (Terapeak)
 - 2026-09-08 eBay sold $43 – Esteban American Legacy Starlight Limited Edition (Terapeak)
+- 2026-10-13 – Terapeak 365d sold, query "acoustic guitars": n=48, median $13.01, p25 $5.85, p75 $23.11 — e.g. $18.67 5600 Miles Digital TV Antenna 1080P 4K Waterproof HDTV  (Jul 17, 2026); $68.82 Valeton GP-5 Super Compact Multi-Effects Processor   NA (Oct 10, 2026) (generic queries can include unrelated items)
 
 ## Market
 Huge liquid market; budget models sell but cheaply. Reverb is better for $200+.

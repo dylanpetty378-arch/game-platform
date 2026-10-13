@@ -47,6 +47,8 @@ Furniture, play environments, carrying cases and tiny accessories made for Barbi
 - 1965 Mattel Barbie & Francie doll trunk: sold on LiveAuctioneers (price locked).
 - Asking, not sold: 1983 Barbie Beauty Salon #4839, near complete with box, $60 BIN + $65.60 shipping, 24 watchers, unsold as of Sep 27, 2026 (https://www.ebay.com/itm/266405703243); Arco 1983 Beauty Salon $24.64 + $14.99 shipping; 1965 Barbie/Francie/Skipper trunk with damage $35 (Standpipe Antiques).
 - Dated eBay sold data for empty trunks not retrievable this session; estimate $25–45 good condition.
+- 2026-10-13 – Terapeak 365d sold, query "Mattel 1983 Barbie Beauty Salon": n=39, median $19, p25 $12.5, p75 $25 — e.g. $19.0 Vtg Barbie Beauty Salon Play Set Acces (); $19.0 Vintage Barbie BEAUTY SALON 1983 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Barbie doll accessories": n=47, median $12.55, p25 $5.56, p75 $22.65 — e.g. $14.15 Barbie Doll and Pet Boutique Playset w (); $14.26 Barbie Doll Styling Head Brown Hair wi () (generic queries can include unrelated items)
 
 ## Market
 - Very active Barbie collector market, but it is driven by 1959–1972 dolls and outfits. 1980s playsets sell slowly and mostly locally because of size and shipping.

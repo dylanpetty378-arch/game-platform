@@ -39,6 +39,8 @@ Post-1998 "pyrex" reissues of vintage patterns (2016 Pyrex "Vintage Charm" line 
 
 ## Comps (sold, dated)
 No dated sold comps this run. Estimates (general knowledge, verify): Spring Blossom 3-casserole set with lids $40–70; gold-striped Pyrex carafe $15–35; 1970s brown-floral promo casserole with lid $25–60.
+- 2026-10-13 – Terapeak 365d sold, query "Pyrex limited edition Pyrex": n=50, median $26, p25 $15.45, p75 $38.73 — e.g. $20.65 3 X Replacement Glass Bowl For m 420 (); $39.77 Pyrex Lilo Stitch Glass Food Storage B () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Pyrex glass coffee carafe": n=48, median $20, p25 $12.5, p75 $30.6 — e.g. $13.0 Pyrex Percolator 9 Cup Glass Coffee Po (); $9.99 Pyrex Atomic Starburst Coffee Pot Cara () (generic queries can include unrelated items)
 
 ## Market
 Big, active collector market (Facebook "Pyrex Collectors" groups), but prices peaked ~2016–2020 and have softened; common 1970s patterns oversupplied. No seasonality (slight holiday bump).

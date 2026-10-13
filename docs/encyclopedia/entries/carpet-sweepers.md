@@ -38,6 +38,8 @@ Little faking. Some modern "vintage style" sweepers (Bissell still makes manual 
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens median for the 2026-10 "antique brush sweeper" listing was $117 (asking prices, not sold, and inflated by decorated examples). Treat the ladder as estimates.
+- 2026-10-13 – Terapeak 365d sold, query "Bissell wooden carpet sweeper": n=6, median $19, p25 $10, p75 $25 — e.g. $19.0 VTG Antique Bissell Princess Wooden Fl (); $340.0 Vintage Bissell s Cyco Bearings Carpet () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Bissell brush carpet sweeper": n=47, median $25, p25 $18, p75 $33.79 — e.g. $33.39 Bissell Natural Sweep Carpet Floor Man (); $29.86 Bissell Natural Sweep Carpet and Floor () (generic queries can include unrelated items)
 
 ## Market
 Small, slow niche: primitives and farmhouse décor buyers, a few appliance collectors. Most sell locally for $20–50. Shipping a full-size sweeper (handle removed, 15x12x6 box plus a 4' handle, or handle omitted) costs $25–40, which kills eBay economics.

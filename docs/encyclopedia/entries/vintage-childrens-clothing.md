@@ -31,6 +31,7 @@ Not significant.
 - Terapeak: "Boho Crochet Lace Fringe Poncho Top…" $25 (Apr 17, 2026) — adult, illustrative.
 - Terapeak: "Set 5 Vtg 1960s Crochet Pattern Directions Ponchos Caps" $8.50 (Feb 22, 2026).
 No kids' handmade poncho sold comps retrieved.
+- 2026-10-13 – Terapeak 365d sold, query "vintage childrens clothing": n=49, median $6.97, p25 $4.47, p75 $12.7 — e.g. $2.09 TY Tag Plush Beanie Babies Baby, Retired, Vintage, Rare (Feb 17, 2026); $12.7 Navy Blue Denim 100  Cotton Canvas 10 oz Fabric 66” Wid (Sep 30, 2026) (generic queries can include unrelated items)
 
 ## Market
 Large supply, low prices; Etsy better for heirloom.

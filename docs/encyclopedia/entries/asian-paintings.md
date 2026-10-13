@@ -47,6 +47,7 @@ Water stains, mould spots, tears and flaking pigment on scrolls; fading from lig
 - 2026 – Chairish – 1940s Republic-period hand-painted porcelain plaque 5.25×4.5" – $440 asking (https://www.chairish.com/product/13306902/chinese-porcelain-painting-scenic-figural-plaque)
 - 2026 – Chairish – 1970s Chinese bird-on-cherry-blossom painting on silk – dealer asking (https://www.chairish.com/product/31972609/1970s-original-chinese-bird-perched-on-cherry-blossom-branch-painting-on-silk)
 Dated public sold prices for the souvenir tier were not found; figures above are estimates.
+- 2026-10-13 – Terapeak 365d sold, query "Chinese painting on rice paper": n=50, median $25, p25 $16.67, p75 $39.29 — e.g. $11.11 Japanese Calligraphy Rice Paper for Su (); $21.39 Chinese Handmade Antique Mulberry Hemp () (generic queries can include unrelated items)
 
 ## Market
 Souvenir and decorator paintings: oversupplied, slow (months), Etsy decor buyers. Republic-period and listed works: strong demand from Chinese buyers at US regional auctions (Leland Little, Vogt, Gianguan, Bonhams), which is where real ones go – not eBay. Authentication risk dominates.

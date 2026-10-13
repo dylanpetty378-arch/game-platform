@@ -39,6 +39,7 @@ Faux sold as real (and vice-versa): check backing with a pin — real fur has le
 
 ## Comps (sold, dated)
 No dated comps pulled this run. Lens median for the silver faux coat example: $171 (asking-heavy; faux coats usually sell well under that). Pull Terapeak "Borgana coat", "mink stole", "marten fur stole heads" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "Collins & Aikman faux fur coat": n=12, median $95, p25 $40, p75 $139.99 — e.g. $245.0 Vintage 1960s Somali by Collins Aikman (); $60.76 VTG Mob Wife Women s Luxury Faux Fur C () (generic queries can include unrelated items)
 
 ## Market
 Soft, slow and seasonal (Oct–Feb). Huge supply of mink coats from estates; buyers are costume, vintage fashion, crafters ("fur teddy bear" makers buy damaged mink for $30–60). Some states/cities restrict new fur sales (California AB44 bans sale of new fur products; used/vintage is exempt) — check before listing. eBay allows non-endangered furs; no export of some species.

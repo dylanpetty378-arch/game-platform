@@ -39,6 +39,7 @@ Dents and cracks in sphere, gore lifting, water stains, missing meridian/axis ca
 
 ## Comps (sold, dated)
 No sold comps retrievable this run; Lens median $171 for pid 7982481663 was mostly asking prices. 12 in. Cram Imperial globes est. $25–60 sold on eBay, higher local (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "George F Cram Imperial World Globe": n=50, median $34.5, p25 $19.99, p75 $61 — e.g. $19.0 VINTAGE CRAM S IMPERIAL WORLD GLOBE Ro (); $70.0 Vintage USSR era Crams 16 Imperial Wor () (generic queries can include unrelated items)
 
 ## Market
 Large supply; décor/teacher demand. Local pickup best. 12 in. globes ship awkwardly. Sell-through ~35%.

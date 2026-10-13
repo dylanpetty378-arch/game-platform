@@ -44,6 +44,9 @@ Not faked. Reissue confusion: Porter-Cable/Delta/Craftsman names were sold to St
 - 2025-01 → – eBay active – Sears Craftsman 3×21 1 HP belt sander – $39.99 ask (https://ebay.com/itm/115802926219)
 - eBay catalogue (undated) – related Craftsman 315-series sanders sold $21 and $32 (https://www.ebay.com/p/Vintage-Craftsman-Power-Sander-for-Parts-with-Original-Metal-Box-Model-207-2561/1419720258)
 - eBay/Facebook sold pattern (knowledge, 2024–25): Craftsman 113 4×6 belt/disc sander $50–100 local; King-Seeley 103 8 in bench saw $40–120 local; Skil 77 $80–150; Porter-Cable 690 $60–110
+- 2026-10-13 – Terapeak 365d sold, query "vintage power tools": n=48, median $13.65, p25 $8.96, p75 $21.62 — e.g. $13.65 TIN SIGN STIHL Chain Saws Tools Equipment Garage Rustic (Oct 1, 2026); $11.78 RARE Vintage SOLID BRASS BELT BUCKLE • MAKITA POWER TOO (Jun 15, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Sears Craftsman 3x21 belt sander": n=32, median $20, p25 $14.99, p75 $29.99 — e.g. $14 Sear Craftsman 315.11720 Vintage 3X"21 Belt Sander Elec (Jan 30, 2026); $20 Sears Craftsman 3X21 Belt Sander  Great Condition W 3 N (Feb 13, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Craftsman belt disc sander": n=40, median $13.85, p25 $11.33, p75 $16.5 — e.g. $15.27 2 BLUE MAX ROUND DRIVE BELTS FOR SEARS CRAFTSMAN 572.24 (Oct 12, 2026); $29.99 Sears Craftsman 6"x9" Belt Disc Sander Idler Pulley Bea (Sep 14, 2026) (generic queries can include unrelated items)
 
 ## Market
 Steady, user-driven, regional. Small portable tools sell fine on eBay (hundreds per month) but at low prices; stationary machines sell only locally (Facebook/Craigslist) to hobbyists and restorers. Spring and fall (project seasons) and Father's Day are slightly better. Collectors (OWWM, vintage tool groups) pay for early, unusual and complete tools in original cases.

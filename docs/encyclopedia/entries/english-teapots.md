@@ -33,6 +33,7 @@ Clarice Cliff fakes exist (wrong backstamp, muddy painting). Sadler racing car r
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens median $26 for the Sadler yellow-rose pot supports the low tier.
+- 2026-10-13 – Terapeak 365d sold, query "James Sadler porcelain teapot": n=50, median $24.39, p25 $17.95, p75 $34.99 — e.g. $33.74 James Sadler Teapot Pomp And Ceremony (); $21.33 James Sadler London Teapot And Nesting () (generic queries can include unrelated items)
 
 ## Market
 Floral Sadler: high supply, steady low demand; 30–90 days. Novelty and Deco pieces sell fast to collectors. Q4 gift season helps.

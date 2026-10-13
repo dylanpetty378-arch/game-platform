@@ -32,6 +32,7 @@ Fake iPod Classics (Chinese clones) and refurbished/modded iPods; new retro cass
 
 ## Comps (sold, dated)
 No dated sold comps fetched this run. Sweep Lens median $75 for NW-E models is high vs. typical used sold.
+- 2026-10-13 – Terapeak 365d sold, query "Sony Network Walkman digital player": n=49, median $80, p25 $40, p75 $175 — e.g. $65.0 Sony Ericsson W810i Walkman 2MP Unlock (); $179.16 SONY NW E507 Network Walkman 1GB FM Di () (generic queries can include unrelated items)
 
 ## Market
 Huge, fast for cassette Walkman and iPod; slow for orphan-format flash players.

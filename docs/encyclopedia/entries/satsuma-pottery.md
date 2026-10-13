@@ -41,6 +41,7 @@ Gold and enamel rubbing on high points, chips on handles and rims (scroll handle
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): peacock "Satsuma style" vase $40; Satsuma moriage vase $165 (asking, inflated). Ladder is estimated.
+- 2026-10-13 – Terapeak 365d sold, query "Satsuma-style peacock porcelain vase": n=9, median $19.95, p25 $15.3, p75 $33.99 — e.g. $33.99 Vintage Satsuma Style Floral Peacock P (); $15.3 Vintage Satsuma Style Floral Peacock P () (generic queries can include unrelated items)
 
 ## Market
 Export Satsuma is abundant; sells slowly at $30–100. Meiji signed pieces sell quickly to Asian-art buyers and at auction. Asian-art auctions (Bonhams, Heritage, local houses) set the high end.

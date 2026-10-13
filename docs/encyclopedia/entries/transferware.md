@@ -40,6 +40,7 @@ Buy rule (short): Buy only pre-1850 dark-blue historical Staffordshire (American
 
 ## Comps (sold, dated)
 - No dated sold comps available this run (no web search, no Terapeak data). Estimates from general knowledge; verify.
+- 2026-10-13 – Terapeak 365d sold, query "Salem Olde Staffordshire English Village cup": n=39, median $14.99, p25 $8, p75 $26 — e.g. $7.28 Vtg English Village By Salem China Co (); $3.71 English Village by Salem China Co Olde () (generic queries can include unrelated items)
 
 ## Market
 - Modern patterns: high supply, low sell-through. Spode Blue Italian decorative shapes: steady decorator demand. Historical blue: strong but specialist.

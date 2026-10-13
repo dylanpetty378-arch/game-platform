@@ -40,6 +40,7 @@ From Terapeak (comps.jsonl):
 - $29.99 Vtg Aluminum Wear-Ever No 8 Sieve Cone Strainer Wood Pestle (Sep 20, 2026)
 - $44.99 Vintage Aluminum Wear-Ever Sieve Cone Strainer Wood Pestle (Apr 4, 2026)
 - $25 Wear-Ever No. 480 Aluminium Cone Colander Strainer Sieve (Sep 6, 2026)
+- 2026-10-13 – Terapeak 365d sold, query "primitive kitchen tools": n=50, median $19, p25 $12, p75 $43.87 — e.g. $60.87 Sorbus 24 Inch Wall Mounted Floating Shelves for Wall D (Aug 29, 2026); $112.37 GREENAGE Cedar Roots Multibeads Stand Stool Tree Stump  (Oct 10, 2026) (generic queries can include unrelated items)
 
 ## Market
 Steady decor demand but low prices; 2–6 weeks to sell common pieces.

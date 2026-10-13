@@ -42,6 +42,7 @@ Little faking of elegant patterns; Fostoria made some later reissues (Lenox era 
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): etched coupe $40; etched floral pitcher $35. Ladder estimated.
+- 2026-10-13 – Terapeak 365d sold, query "etched coupes sherbets": n=49, median $28, p25 $15, p75 $42.95 — e.g. $14.34 Rogaska Gallia Floral Etched Crystal T (); $36.51 Vintage Etched Cut Crystal Champagne C () (generic queries can include unrelated items)
 
 ## Market
 Champagne coupes have a renewed wedding/cocktail-culture demand; full sets sell; singles are slow. Replacements.com sets retail ceilings; eBay sold often 30–50% of Replacements retail. Holiday bump.

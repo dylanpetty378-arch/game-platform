@@ -30,6 +30,7 @@ Little faking at this level; fake hallmarks on "silver" from Asia exist.
 
 ## Comps (sold, dated)
 No sold data in this run. Lens median $118 refers to sterling pieces, not these.
+- 2026-10-13 – Terapeak 365d sold, query "bone-handle serving forks": n=50, median $19.95, p25 $12, p75 $25.99 — e.g. $14.0 Bone Handled 9 5 Serving Fork Mid 1800 (); $22.4 Vintage Antler Horn Handle Meat Carvin () (generic queries can include unrelated items)
 
 ## Market
 Silverplate oversupplied; sterling liquid at melt and pattern-matching buyers (Replacements, eBay).

@@ -55,6 +55,8 @@ Mid-century household glass: mixing bowls, casseroles, refrigerator dishes, pitc
 - 2026-10 asking – PicClick/eBay – Tiara Indiana amethyst Sweet Pear pitcher and tumbler set – $174.99 (amethyst is the scarcer colour). https://picclick.com/Tiara-Indiana-Glass-Amethyst-Sweet-Pear-Avocado-Pitcher-222449520802.html
 - 2026-10 asking – eBay – set of 4 Burnt Honey Sweet Pear footed tumblers. https://www.ebay.com/itm/266833862983
 - Dated eBay sold comps were not reachable this run. Pull Terapeak for "Sweet Pear Burnt Honey pitcher", "Glasbake Currier Ives" and "Fairfield deviled egg" before relying on these numbers.
+- 2026-10-13 – Terapeak 365d sold, query "Glasbake Currier & Ives milk glass": n=49, median $10, p25 $8.35, p75 $17.95 — e.g. $42.9  LOT OF 4 VTG Currier and Ives Glasbak (); $7.5 VTG Currier Ives Blue Wood Gathering S () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Anchor Hocking Fairfield deviled egg plate": n=50, median $14, p25 $10.13, p75 $22 — e.g. $10.13 Vintage Anchor Hocking Fairfield Devil (); $7.83 VTG Clear Glass Anchor Hocking FAIRFIE () (generic queries can include unrelated items)
 
 ## Market
 Pyrex has a large, active collector base. Common patterns are saturated, while rare patterns sell in days. Jadeite is steady. Depression glass prices have fallen 50%+ since the 2000s peak. Tiara, Indiana, Federal and Glasbake are slow and low, and heavy glass costs eat the margin. Q4 brings a mild bump (gifting, holiday baking).

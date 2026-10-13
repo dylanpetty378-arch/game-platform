@@ -52,6 +52,7 @@ Chips to rims and feet, hairline cracks (tap test rings dull), gold wear, flakin
 - Oct (year not stated) – Woody Auction, Harkness collection – Pickard Campana 14 in rose vase $6,500; Yeschek 7.5 in lily vase $5,500; Franz Aulich 15.75 in tray on a Limoges blank $6,000 (https://www.antiquesandthearts.com/hand-painted-porcelain-paradise-the-harkness-collection-of-pickard-sells-at-woody)
 - Undated column – Pickard "Limoges–France–W. A. Pickard" Poppy bowl by John Loh, c.1910 – valued $350–450 (https://www.creators.com/read/antique-or-junque/09/08/poppy-decorated-porcelain-bowl-still-holds-some-value)
 - eBay sold pattern (knowledge, 2024–25): amateur-painted T&V vases 6–10 in $35–110; T&V/JPL jardinieres amateur-painted $60–180; Haviland dinner plates $8–20; authentic Peint Main boxes $25–80
+- 2026-10-13 – Terapeak 365d sold, query "limoges porcelain": n=50, median $24.5, p25 $11.98, p75 $46.79 — e.g. $5.13 The Collector's Encyclopedia of Limoges Porcelain by Ga (Jun 11, 2026); $9.41 Theodore Haviland Butter Pat, Antique French Limoges Pi (Feb 16, 2026) (generic queries can include unrelated items)
 
 ## Market
 Soft for dinnerware and amateur work (supply far exceeds demand – every estate has some), steady for game/fish plates, strong and specialised for Pickard (Woody Auction, Pickard collectors). eBay hundreds of Limoges sales per month; median single piece ~$30. Little seasonality; Mother's Day and wedding season slight bumps for boxes.

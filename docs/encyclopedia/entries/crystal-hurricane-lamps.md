@@ -33,6 +33,7 @@ Unmarked "Waterford style" imports; seller "Waterford" claims without etched mar
 
 ## Comps (sold, dated)
 None retrieved this run.
+- 2026-10-13 – Terapeak 365d sold, query "Waterford-style crystal hurricane lamps": n=19, median $79, p25 $38, p75 $108 — e.g. $251.0 Vintage Waterford Crystal Inishturk Br (); $99.0 Waterford Crystal Ha Chara Failte Hurr () (generic queries can include unrelated items)
 
 ## Market
 Slow; glass lamps ship poorly; local sale often best.

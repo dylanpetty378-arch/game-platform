@@ -54,6 +54,9 @@ Missing or mismatched lids (lid often worth 30–40% of a jar), chips to lid edg
 - 2026-09 – eBay sold – R.B. Bernarda BNA3 floral cereal bowl – $5.99 each, 1 sold (https://www.ebay.com/itm/325539681971)
 - Undated – EBTH lot – Jeannette jadite square canister set of 5 with two lids missing, worn lettering (realised price not shown) (https://ebth.com/items/7919587-vintage-jeannette-jadite-square-glass-canister-set)
 - Typical eBay sold (knowledge, 2024–25): Mirro aluminium 4-piece $25–45; Kromex 4-piece $35–70; Bernarda 3-canister set $35–60; wood Americana set $20–45
+- 2026-10-13 – Terapeak 365d sold, query "kitchen canister sets": n=48, median $20.99, p25 $12.91, p75 $32.93 — e.g. $19.84 Tupperware Kitchen Tool Gadget Mini Classic Clear Canis (Jul 3, 2026); $9.99 3-piece Airtight Kitchen Canister Set-Stainless Steel w (Jun 7, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "wooden eagle canister set": n=10, median $20, p25 $15, p75 $24 — e.g. $13 American Eagle Wooden Canister Set of 4 w/ Lids and Pla (Oct 3, 2026); $30 Vintage Wooden Stacking Box/Canister Set Eagle Patrioti (Feb 3, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "aluminum canister set": n=49, median $27.44, p25 $19.55, p75 $31.73 — e.g. $14.15 Camping Cookware Mess Kit for Backpacking Gear – 8 PC C (Oct 10, 2026); $19.55 For Harley Vented Engine Motor Breather Canister Head G (Sep 29, 2026) (generic queries can include unrelated items)
 
 ## Market
 Liquid at the top (jadeite has a large collector base, dozens of sales per month), sluggish for everything else. Sets ship heavy and bulky, so local Facebook sales often beat eBay for anything under $60. Holiday/decor season (Oct–Dec) and spring kitchen refresh. Etsy works well for MCM aluminium and farmhouse wood.

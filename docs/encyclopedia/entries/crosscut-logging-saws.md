@@ -32,6 +32,7 @@ Buy rule (short): Pass: 5–7 ft saws don't fit a passenger seat; buy only one-m
 
 ## Comps (sold, dated)
 - No dated sold comps this run (no web search, no Terapeak). Estimates only; verify.
+- 2026-10-13 – Terapeak 365d sold, query "two-man crosscut logging saw": n=50, median $65.95, p25 $49.99, p75 $125 — e.g. $75.65 4 Two Man Crosscut Saw High Efficiency (); $17.0 Ant Vint 48 31 5 One Or Two Man Loggin () (generic queries can include unrelated items)
 
 ## Market
 - Mostly local (Facebook, Craigslist) due to length; eBay shipping freight-like. Users (trail crews, firewood) buy good saws.

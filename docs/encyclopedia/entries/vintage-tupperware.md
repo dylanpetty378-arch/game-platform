@@ -36,6 +36,7 @@ Tupperware reissued retro colours and Servalier-style canisters in the 2000s–2
 ## Comps (sold, dated)
 - Jul 3, 2026 – eBay (Terapeak) – Tupperware mini clear canister – $19.84 (from db/comps.jsonl).
 No other sold comps gathered this run. Run Terapeak for "servalier canister set" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "Tupperware Servalier nesting bowls": n=50, median $25, p25 $19, p75 $35 — e.g. $32.0 Tupperware Heritage Nesting Servalier (); $47.5 NEW Tupperware Heritage Nesting Serval () (generic queries can include unrelated items)
 
 ## Market
 High volume, low prices. Retro-kitchen buyers like the 1970s colours, but supply from estate sales is huge. Sets take 2–6 weeks to sell.

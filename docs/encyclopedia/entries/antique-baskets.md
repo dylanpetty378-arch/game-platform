@@ -59,6 +59,8 @@ Broken or missing splints, cracked handles, rodent damage, dry rot in the bottom
 - 2026-10 – LiveAuctioneers upcoming – large splint swing-handle gathering basket opening $100 (Cottone); American utilitarian splint gathering $20 (Premier); Martha Wetherbee miniature Shaker $100; Mary Causby miniature oak $550 w/ 2 bids (https://www.liveauctioneers.com/en-gb/price-result/hawkeye-picnic-basket-by-burington-basket-co-18/) – opening bids, not results
 - Hawkeye refrigerator basket complete with liner, marked – $80–175 typical eBay sold (knowledge)
 - Wire egg basket, old galvanized – $25–50 sold (knowledge)
+- 2026-10-13 – Terapeak 365d sold, query "antique baskets": n=49, median $11.55, p25 $5.75, p75 $24.84 — e.g. $13.56 KOHLER Style Kitchen Sink 3.5" Stainless Steel Basket S (Oct 10, 2026); $24.99  Rustic Hanging PLANTER Basket Antique Victorian Style  (Sep 15, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "wire egg gathering basket": n=50, median $19.95, p25 $12.99, p75 $27.35 — e.g. $35.32 Farmhouse Wire Egg Basket for Gathering Fresh Eggs with (Oct 8, 2026); $29.3 . Farmhouse Wire Egg Basket for Gathering Fresh Eggs wi (Feb 23, 2026) (generic queries can include unrelated items)
 
 ## Market
 Large, slow, decor-driven. eBay US sells hundreds of "vintage basket" items per month but at $15–40; Hawkeye ~10–20/month; Native American and Nantucket sell best through auction houses. Sell-through for common baskets is poor (< 30%) because shipping a bulky basket costs as much as the basket. Fall (Thanksgiving decor) and spring (Easter/garden) bumps. Etsy and Facebook local are better than eBay for decor baskets.

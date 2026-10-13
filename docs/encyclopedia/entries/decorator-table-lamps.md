@@ -57,6 +57,9 @@ Buy rule (short): Only buy lamps whose maker is provable from a label/marks or u
 - 2026-07-19 – eBay – "Vintage Aladdin Pressed Glass Table Lamp Clear Art Deco" – $110.74
 - 2026-09-30 – eBay – "Vintage Green Ceramic Teapot Table Lamps Pair 10" Tall" – $110; 2026-03-17 – single hand-painted teapot lamp – $40
 - 2026-05-14 – eBay – "Vintage Hand Painted Milk Glass Table Lamp 21"" – $48 (hand-painted glass median $40)
+- 2026-10-13 – Terapeak 365d sold, query "decorator table lamps": n=42, median $44.15, p25 $15.61, p75 $98.98 — e.g. $15.61 Stained Resin Stacked Books Lamp Tiffany Style Table La (Mar 31, 2026); $15.32 3D Moon Night Light Table Lamp USB Charging Remote Touc (Oct 9, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "pressed glass and brass table lamp": n=14, median $32, p25 $20, p75 $40 — e.g. $32 MCM Electric Clear Pressed Glass Vanity Table Desktop L (Jan 20, 2026); $35 VTG Pair Of 10" 1950’s Pressed Glass, Boudoir/ Bedside  (Jun 1, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Frederick Cooper urn table lamp": n=29, median $125, p25 $81, p75 $236 — e.g. $55 Vintage Neoclassical Frederick Cooper Brass Trophy Urn  (May 3, 2026); $280 Vintage 1990's Frederick Cooper Floral Butterfly Cerami (Jul 22, 2026) (generic queries can include unrelated items)
 
 ## Market
 - Lamps are a slow, shipping-heavy category on eBay; most generic lamps sell locally (Facebook Marketplace) for $20–60. Designer lamps sell nationally within weeks.

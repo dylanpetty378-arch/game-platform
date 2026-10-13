@@ -34,6 +34,7 @@ Repro WWII military measurers with added eagles exist. Plastic promos not reprod
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl; no web search. Lens median $15 for the example aligns with low-tier estimate.
+- 2026-10-13 – Terapeak 365d sold, query "Mile-O-Graph mileage measurer": n=23, median $9.72, p25 $7, p75 $11.36 — e.g. $9.0 VINTAGE The New Mile O Graph Precision (); $4.5 Mile O Graph Precision Mileage Measure () (generic queries can include unrelated items)
 
 ## Market
 Small, steady niche; a few dozen sales a month on eBay; slow except for Victorian pieces.

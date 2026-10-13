@@ -51,6 +51,8 @@ Metal containers for dispensing oil: lamp/whale-oil fillers (1820s–1900), kero
 - Asking, eBay Oct 12, 2026: Winfield Polo 1-gal kerosene can 1940s $40 and $19.95 OBO; Eagle blue screw-lid kerosene oiler $50 OBO; blue Eagle railroad kerosene can with spout, chain, lid, handle $35.95; Erie Railroad lamp-filling can $35 OBO; galvanized 1-gal with wood handle $11 (https://www.ebay.com/b/Kerosene-Can/35682/bn_7023301152).
 - LiveAuctioneers, upcoming lots Oct 2026: groups of 4–14 vintage oil cans opening at $5–50 (Texaco/Sinclair household-oil group sold, price locked) — group lots go cheap at auction.
 - Dated sold comps not retrievable this session; estimates above.
+- 2026-10-13 – Terapeak 365d sold, query "tin oil filler can": n=31, median $35, p25 $20, p75 $49.99 — e.g. $35.0 NEW YORK CENTRAL RAILROAD NYCRR VINTAG (); $20.0 RAILROAD INDUSTRIAL VINTAGE OIL KEROSE () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "measuring oil can": n=50, median $20, p25 $11.75, p75 $65 — e.g. $82.5  NIB Antique Vintage Huffman 1 One Gal (); $28.25 Shell Soap Box Derby Lubricant 4 oz Me () (generic queries can include unrelated items)
 
 ## Market
 - Petroliana is a strong collector niche for graphic advertising cans; plain utilitarian cans are décor items with deep supply and slow sales.

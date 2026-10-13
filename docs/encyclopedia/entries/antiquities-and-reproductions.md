@@ -31,6 +31,7 @@ This category is mostly fakes. "Ancient" coins, lamps, scarabs, and pre-Columbia
 
 ## Comps (sold, dated)
 No dated sold comps for this sub-type retrievable this run. Lens median $66 reflected asking listings of similar decor "lamps". Not a Terapeak priority.
+- 2026-10-13 – Terapeak 365d sold, query "carved stone oil lamp": n=11, median $65, p25 $50, p75 $75 — e.g. $100.0 Antique Pre Columbian Carved Stone Oil (); $75.0 RARE ANTIQUE HAND CARVED ISLAMIC STONE () (generic queries can include unrelated items)
 
 ## Market
 Reproductions: slow, low. Genuine: dealer/auction market (Artemis Gallery, Pegasi, Christie's), heavily policy-restricted on eBay.

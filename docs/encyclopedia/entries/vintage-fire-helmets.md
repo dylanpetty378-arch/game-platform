@@ -36,6 +36,7 @@ Buy rule (short): Buy only leather Cairns/early leather helmets with eagle and s
 
 ## Comps (sold, dated)
 - No dated sold comps this run (no web search, no Terapeak). Estimates; verify.
+- 2026-10-13 – Terapeak 365d sold, query "E D Bullard fiberglass Hard Boiled": n=20, median $85, p25 $73, p75 $265 — e.g. $104.5 Vintage White E D Bullard Hard Boiled (); $399.95 E D Bullard HARD BOILED HARD HAT 502 F () (generic queries can include unrelated items)
 
 ## Market
 - Firefighter memorabilia buyers are steady; leather helmets sell fast at fair prices; fiberglass slow.

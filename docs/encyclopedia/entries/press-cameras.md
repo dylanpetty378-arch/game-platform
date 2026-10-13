@@ -45,6 +45,7 @@ None meaningful; prop/movie replicas exist but obvious. Watch for franken-combos
 
 ## Comps (sold, dated)
 No sold comps retrievable this run. Typical eBay sold for 4x5 Pacemaker Speed Graphic with Optar 135, untested: ~$180–300 (general knowledge, verify). Lens median for pid 7953090854 was unknown.
+- 2026-10-13 – Terapeak 365d sold, query "Graflex Speed Graphic large-format camera": n=50, median $180, p25 $99, p75 $210 — e.g. $15.0 GRAFLEX 9 VIEWFINDER MASK FOR SPEED CR (); $129.99 Viewfinder Adapter for Graflex 4x5 Cam () (generic queries can include unrelated items)
 
 ## Market
 Strong steady demand from large-format shooters and décor buyers; 4x5 sells in 1–3 weeks. Small formats slower.

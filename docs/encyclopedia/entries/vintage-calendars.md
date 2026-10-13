@@ -53,6 +53,7 @@ How to date it from a photo:
 - 2026-10 asking, eBay – reprint "1915" Sybil calendar imprinted for a Baltimore realtor. https://www.ebay.com/itm/362964444057 (price not captured; these reprints typically ask $10–25).
 - 2026-10 asking, eBay – 1959 Mobil station calendar, Reseda CA. https://www.ebay.com/itm/185877500376 (1950s station calendars typically sell $20–60, estimate).
 - No other dated sold comps could be pulled. Search and eBay sold access failed this run.
+- 2026-10-13 – Terapeak 365d sold, query "vintage calendars": n=40, median $23.98, p25 $16.79, p75 $55.81 — e.g. $9.96 LEGO Star Wars Qui-Gon Jinn Minifigure Jedi 75383 Sith  (Oct 7, 2026); $11.44 LEGO Star Wars Luke Skywalker Minifigure Jedi Gray Robe (Aug 31, 2026) (generic queries can include unrelated items)
 
 ## Market
 This is a big, slow market. Most local 1950s–80s calendars sit unsold or go for under $20. Demand concentrates on pin-ups, petroliana, Coca-Cola, sporting and firearms, and pre-1920 chromolithography. Q4 and January see a slight bump (gift buyers and "your birth-year calendar" buyers, who look for matching-year calendars).

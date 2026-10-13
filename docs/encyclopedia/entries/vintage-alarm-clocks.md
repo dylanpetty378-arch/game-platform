@@ -36,6 +36,7 @@ Modern Chinese "retro" twin-bell alarms; reproduction Mickey Mouse/character clo
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no alarm-clock data). Lens best match "Vintage Westclox Alarm Clock Cream Brown Face Brass Trim" with Lens median $45 (asking, 2026-10-13). Verify before acting.
+- 2026-10-13 – Terapeak 365d sold, query "Westclox ivory square alarm clock": n=12, median $23, p25 $15.99, p75 $28.76 — e.g. $15.99 Vintage Westclox Square Wind Up Alarm (); $50.0 Art Deco Westclox Bachelor Alarm Clock () (generic queries can include unrelated items)
 
 ## Market
 High volume, slow for common models, quick for animated/character clocks. Decorator buyers pay for colour and deco shapes.

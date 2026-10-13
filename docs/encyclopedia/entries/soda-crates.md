@@ -28,6 +28,8 @@ Decor-store repro crates common.
 
 ## Comps (sold, dated)
 No dated sold comps available this run.
+- 2026-10-13 – Terapeak 365d sold, query "Pepsi-Cola wooden soda crate and bottle": n=50, median $25, p25 $20, p75 $40 — e.g. $15.0 Royal Crown Cola Wooden Crate for Mini (); $139.99 Vtg Pepsi Cola Wooden Crate Nickel Bot () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Canada Dry bottle carrier crate": n=3, median $49, p25 $23.5, p75 $49 — e.g. $49.0 VTG 1960 s Canada Dry Wooden Soda Bott (); $23.5 Vintage SPUR CANADA DRY RED ARROW BOTT () (generic queries can include unrelated items)
 
 ## Market
 Decor market; strong locally, shipping heavy.

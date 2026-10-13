@@ -29,6 +29,7 @@ New decorative rattan beaters (IKEA-style, Polish/German import $10–20 new) an
 
 ## Comps (sold, dated)
 None available this run. Lens median $30 for the example agrees with low tier.
+- 2026-10-13 – Terapeak 365d sold, query "twisted wire rug beater": n=50, median $17.95, p25 $12, p75 $23.3 — e.g. $29.69 Vintage Rug Carpet Beater Twisted Wire (); $12.0 2 Vintage Wooden Handle Twisted Wire R () (generic queries can include unrelated items)
 
 ## Market
 Farmhouse décor demand; moderate. 20–60 days.

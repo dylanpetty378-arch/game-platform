@@ -38,6 +38,7 @@ Labels moved onto lesser stones is a known razor-hone scam; Chinese slate sold a
 
 ## Comps (sold, dated)
 None gathered. Lens median for the example was $10.
+- 2026-10-13 – Terapeak 365d sold, query "Carborundum silicon carbide sharpening stone": n=36, median $12, p25 $8.95, p75 $15 — e.g. $12.0 CARBORUNDUM SILICON CARBIDE Pocket Sha (); $12.0 Vintage Carborundum Brand Pocket Sharp () (generic queries can include unrelated items)
 
 ## Market
 Tool and straight-razor shavers form an active, knowledgeable buyer base for natural hones; man-made oilstones are cheap and abundant.

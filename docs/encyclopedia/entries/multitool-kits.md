@@ -29,6 +29,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run.
+- 2026-10-13 – Terapeak 365d sold, query "Ozark Trail knife and multi-tool kit": n=4, median $15, p25 $7, p75 $22.9 — e.g. $7.0 Ozark Trail Sportsman s Pack 3 Piece K (); $15.0 Ozark Trail Knife Combo Set 5 Pieces M () (generic queries can include unrelated items)
 
 ## Market
 High volume.

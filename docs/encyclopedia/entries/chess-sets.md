@@ -39,6 +39,7 @@ Modern Indian factories make "Jaques-style" and "Soviet replica" weighted sets; 
 
 ## Comps (sold, dated)
 None in our data. Lens median $388 for the sweep example reflects asking prices for Russian painted sets.
+- 2026-10-13 – Terapeak 365d sold, query "carved painted wooden chess set": n=18, median $62, p25 $42, p75 $95 — e.g. $100.0 Vintage wooden hand carved and hand pa (); $115.0 Vintage Chess set with large hand carv () (generic queries can include unrelated items)
 
 ## Market
 Strong steady chess interest (post-2020 boom). Soviet tournament sets sell fast; painted folk sets moderate (weeks).

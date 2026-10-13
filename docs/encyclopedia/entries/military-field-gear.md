@@ -37,6 +37,7 @@ Reproduction WWII US gear (dated stamps applied to new canvas) is common – too
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens medians ($26–35) are asking prices. Estimates (general knowledge, verify): 1944 Vollrath stainless canteen with cover $25–45; Soviet wrist compass $15–30; WWII Superior Magneto lensatic compass $60–120.
+- 2026-10-13 – Terapeak 365d sold, query "Vollrath 1944 US Army canteen": n=41, median $26, p25 $19.99, p75 $35 — e.g. $59.0 US Army WW2 Canteen Vollrath 1944 1941 (); $50.0 1944 VOLLRATH US ARMY Metal WWII Cante () (generic queries can include unrelated items)
 
 ## Market
 Large collector market (Veterans Day/Memorial Day bumps). Common surplus is abundant; dated WWII US items sell steadily at modest prices.

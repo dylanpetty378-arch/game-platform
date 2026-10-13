@@ -30,6 +30,7 @@ Akro doll dish reproductions by others; Westite and Imperial slag confused with 
 
 ## Comps (sold, dated)
 None this run. Lens median $21 for the example agrees with low tier.
+- 2026-10-13 – Terapeak 365d sold, query "Akro Agate slag glass leaf ashtray": n=16, median $11.9, p25 $6.99, p75 $16.99 — e.g. $6.99 2 Vintage Akro Agate Slag Glass LEAF A (); $10.0 Vtg Akro Agate White Opalescent Slag G () (generic queries can include unrelated items)
 
 ## Market
 Active collector club; common items oversupplied.

@@ -41,6 +41,7 @@ Modern resin "Florentine" brackets (Chinese, 1990s–now) mimic aged gilding but
 
 ## Comps (sold, dated)
 No dated comps pulled this run. Lens medians ($2,225 and $248) reflect dealer asking prices for period pieces and badly overstate. Pull Terapeak "Florentine carved wood wall bracket pair" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "rococo gilt wall brackets": n=21, median $65, p25 $45, p75 $90 — e.g. $45.0 Antique Italian Carved Gilt Wood Rococ (); $27.98 Vintage Italian Florentine Gold Gilt W () (generic queries can include unrelated items)
 
 ## Market
 Decorator demand (Hollywood Regency, grandmillennial); Florentine pairs sell in 2–4 weeks. Resin/Syroco abundant and slow.

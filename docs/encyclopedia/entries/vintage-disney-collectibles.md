@@ -45,6 +45,8 @@ Vinyl head splits and paint loss, faded felt, moth damage, cracked celluloid, ru
 - 1976 issue · Van Eaton Galleries · Disneyland America on Parade commemorative medallion · gallery price on page · https://vegalleries.com/node/23928
 - 2025-04-19 · eBay (active, BIN) · 1950s Walt Disney Dopey hand puppet, Gund Mfg. Co · $5.00 ask (not a sale; shows a soft puppet market) · https://www.ebay.com/itm/267169106916
 Specific sold comps for the swept items could not be retrieved; item values are estimates.
+- 2026-10-13 – Terapeak 365d sold, query "vintage disney collectibles": n=48, median $18.99, p25 $12.76, p75 $24.95 — e.g. $9.41 Little golden books 5 lot vintage collectable Disney Ra (Oct 11, 2026); $17.75 STAR WARS Vintage Collection BOBA FETT 3.75" Action Fig (May 23, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Disney Mickey Minnie tiki tote": n=4, median $28.5, p25 $21, p75 $30 — e.g. $21 Disney Tiki Kingdom Mickey Minnie Tote Bag Bamboo Handl (Feb 28, 2026); $30 Disney Tiki Kingdom Mickey Minnie Tote Bag Bamboo Handl (Jun 15, 2026) (generic queries can include unrelated items)
 
 ## Market
 Very large, very liquid at the low end. Vintage Disneyana has a dedicated collector base (Disneyana Fan Club, Van Eaton Galleries). Sell-through is high for authentic pre-1970 toys in good condition and for park ephemera; low for modern merch. Holidays lift Christmas items such as Santa Minnie.

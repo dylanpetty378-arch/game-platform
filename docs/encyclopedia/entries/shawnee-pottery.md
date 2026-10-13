@@ -40,6 +40,7 @@ Buy rule (short): Buy only gold-trimmed or decal Smiley/Winnie/Puss 'n Boots/Mug
 
 ## Comps (sold, dated)
 - No dated sold comps available this run (no web search, no Terapeak data). Estimates only; verify.
+- 2026-10-13 – Terapeak 365d sold, query "Shawnee 1940s teapot": n=50, median $18.95, p25 $12.99, p75 $25 — e.g. $7.95 Vintage 1940s Shawnee Rosette Burgundy (); $21.99 1940s Tom the Piper s Son Teapot Shawn () (generic queries can include unrelated items)
 
 ## Market
 - Collector base aging; plain pieces slow. Cookie jars with gold sell steadily. Prices down from 2000s highs.

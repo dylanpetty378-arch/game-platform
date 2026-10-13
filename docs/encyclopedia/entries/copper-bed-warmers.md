@@ -33,6 +33,7 @@ Many 20th c. reproductions; married pieces (old pan, new handle); fake engraved 
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no data). Lens best match "Lot - 19th Century Copper Chestnut Roaster, with pierced..." with Lens median $69 (asking/auction, 2026-10-13). Verify before acting.
+- 2026-10-13 – Terapeak 365d sold, query "copper chestnut roaster bed warmer": n=7, median $30, p25 $28, p75 $30 — e.g. $22.76 Antique Blacksmith Hammered Copper Che (); $39.0 Primitive Brass Copper Bed Warmer Ches () (generic queries can include unrelated items)
 
 ## Market
 Slow; fireplace and farmhouse decor buyers; regional auction staple. Long items are expensive to ship.

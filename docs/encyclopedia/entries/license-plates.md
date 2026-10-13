@@ -30,6 +30,7 @@ Reproduction "vintage" tin plates (thin, stamped, novelty) and recently repainte
 
 ## Comps (sold, dated)
 None gathered this run (no web search, no Terapeak rows). Lens median $95 on the example likely reflects a lot price. Pull Terapeak "Ohio license plate 1956" etc. before relying on numbers.
+- 2026-10-13 – Terapeak 365d sold, query "1950s-70s Ohio license plates": n=3, median $90, p25 $40, p75 $90 — e.g. $40.0 Lot of 14 Vintage 1950 70s Ohio Licens (); $100.0 Lot Of 14 Sets Of Vintage Ohio License () (generic queries can include unrelated items)
 
 ## Market
 Large and liquid: plates sell steadily on eBay to collectors, car restorers and decorators; lots move within 1-4 weeks. Ohio is a populous state (common), so values are middle of the range.

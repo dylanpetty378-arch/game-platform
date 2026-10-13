@@ -37,6 +37,7 @@ Restoration suppliers sell reproduction emblems for popular cars (Chevy, Ford, M
 
 ## Comps (sold, dated)
 None gathered this run. Lens best match was "1960's–1970's WHITE FREIGHTLINER TRUCK TRACTOR EMBLEM" (eBay) but no price was captured. Pull Terapeak "white freightliner emblem" before acting.
+- 2026-10-13 – Terapeak 365d sold, query "White Freightliner truck emblem": n=20, median $75.95, p25 $18, p75 $100 — e.g. $9.7 White Freightliner SD DD 1 25 chrome g (); $21.74 1Pc USA Flag Emblem Truck Hood 3D Badg () (generic queries can include unrelated items)
 
 ## Market
 Moderate. Trucker and restoration buyers are loyal. Heavy-truck nameplates sell in weeks at fair prices; condition and "original" matter.

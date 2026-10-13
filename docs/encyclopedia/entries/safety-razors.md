@@ -48,6 +48,8 @@ Few fakes. Modern reissues (Merkur 34C, Parker, Rockwell, Edwin Jagger, Chinese 
 
 ## Comps (sold, dated)
 No sold comps in our Terapeak data (db/comps.jsonl) for this type yet. Lens median for the sweep example was $63 (asking/active, not sold). Run Terapeak "gillette old type case" and "gillette fat boy" before any buy.
+- 2026-10-13 – Terapeak 365d sold, query "gillette old type gold razor case": n=12, median $40 — e.g. p25 30 p75 44 (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Gillette 1920s Old Type safety razors": n=50, median $24.5, p25 $19.8, p75 $34 — e.g. $14.29 1920s GILLETTE SAFETY RAZOR SET OLD TY (); $19.8 Gillette Old Type Safety Razor 1920s B () (generic queries can include unrelated items)
 
 ## Market
 Steady: hundreds of vintage razors sell per month on eBay; the wet-shaving community buys users (Fat Boy, Slim, Super Speed Red Tip). Collectors pay for early/rare cased sets. Good adjustables sell within days; Old Types sit.

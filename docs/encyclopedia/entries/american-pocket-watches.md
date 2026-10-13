@@ -47,6 +47,7 @@ Not running (broken mainspring, balance staff – $100–250 to service), missin
 ## Comps (sold, dated)
 - 2026-10 (365-day Terapeak, run 2026-10-13) – eBay – Hampden hunter-case gold-filled pocket watches – median $150, n=47, p25 $125, p75 $209 (comps.jsonl).
 - No other dated sold comps this run. Estimates (general knowledge, verify): Ingraham Autocrat working $20–40; Elgin 16s/12s 7–15j GF hunter running $80–150, not running $40–80; Hamilton 992B in GF case $250–450.
+- 2026-10-13 – Terapeak 365d sold, query "Ingraham Autocrat dollar pocket watch": n=5, median $15, p25 $9.9, p75 $15 — e.g. $15.0 Antique Ingraham Autocrat 16s Pocket W (); $35.0 Vintage MCM Mid Mod Ingraham Autocrat () (generic queries can include unrelated items)
 
 ## Market
 Deep, liquid market with many buyers (NAWCC collectors, watchmakers buying parts, gold buyers). Running watches sell fast (1–3 weeks at market). Gold price drives solid-gold case values. Steady year-round, slight Christmas/Father's Day bump.

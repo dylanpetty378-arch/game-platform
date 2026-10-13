@@ -35,6 +35,7 @@ Reproduction Art Nouveau sterling-look sets in plate; new "Victorian" painted po
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+- 2026-10-13 – Terapeak 365d sold, query "porcelain powder jar vanity set": n=18, median $33, p25 $18, p75 $45 — e.g. $35.0 Vtg Limoges Vanity Set Powder Jar Trin (); $45.0 3 Piece Porcelain Vanity Set Lidded Po () (generic queries can include unrelated items)
 
 ## Market
 Steady, modest. Sterling and guilloché sell in weeks; celluloid and porcelain singles are slow.

@@ -29,6 +29,7 @@ Large volume of reproductions, and AI-staged / AI-enhanced listing photos now ap
 
 ## Comps (sold, dated)
 None gathered. Lens median $525 on example comes from dealer asking prices (e.g., Harp Gallery), not sold.
+- 2026-10-13 – Terapeak 365d sold, query "Victorian carved oak clock shelf with": n=8, median $40, p25 $19, p75 $80 — e.g. $40.0 Antique New Haven Clock Co Carved Shel (); $14.99 Antique Wm L Gilbert Statue Handle Kit () (generic queries can include unrelated items)
 
 ## Market
 Decor-driven, moderate; best sold locally or on eBay with careful shipping. 30-90 days.

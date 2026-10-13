@@ -34,6 +34,7 @@ Facsimile/reprint of Issue #1 (1970s–2000s reproductions, "Collector's Edition
 
 ## Comps (sold, dated)
 None in our data. Run Terapeak "playboy April 1972" and "playboy lot 1970s" if a large lot appears.
+- 2026-10-13 – Terapeak 365d sold, query "Playboy 1972 Playboy issues": n=49, median $12, p25 $9, p75 $23 — e.g. $12.0 Vintage Playboy Magazine August 1972 M (); $17.95 Vintage Playboy Magazine Select an Iss () (generic queries can include unrelated items)
 
 ## Market
 High volume on eBay but saturated; most 70s issues sell slowly, often in lots. Some categories on eBay restrict adult content (listed under Collectibles > Magazines, adult-only category; images must be compliant).

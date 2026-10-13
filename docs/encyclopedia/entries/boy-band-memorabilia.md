@@ -36,6 +36,7 @@ Unauthorized dolls and bootleg tees; signatures widely faked.
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl and no web search; Lens returned no match. Run Terapeak "nsync best buy bobblehead" and "nsync marionette" to confirm before buying.
+- 2026-10-13 – Terapeak 365d sold, query "NSync NSync items": n=10, median $22.95, p25 $13.85, p75 $39.99 — e.g. $22.95 Vintage 2002 TIGER Hit Clips FM Radio (); $20.0 Vintage 2002 TIGER Hit Clips FM Radio () (generic queries can include unrelated items)
 
 ## Market
 Strong 1990s/Y2K nostalgia since ~2022 ('N Sync reunion buzz 2023). Moderate liquidity; lots sell in 2–4 weeks.

@@ -54,6 +54,8 @@ Sold comps for tool lots could not be retrieved from eBay or WorthPoint in this 
 - 2026-07-15 · eBay (via underpricedai) · Simonds 10" back saw, Pat. 1887 · $49.00 · same source
 - Listing references (asks, not solds): Stanley No. 77 rosewood mortise gauge (plusmodels mirror of eBay 336732068194); Stanley ratchet braces lot of 2 (eBay 227460349863); Goodell-Pratt shoulder brace drill (eBay 405054183542). URLs are in Sources.
 Treat all per-tool prices in this entry as estimates until a sold search is done.
+- 2026-10-13 – Terapeak 365d sold, query "hand tool lots": n=49, median $10.25, p25 $8.93, p75 $18 — e.g. $8.97 10 PCS Heavy Duty Leather Hollow Hole Punch Set DIY Cra (Oct 8, 2026); $9.45 10 PCS Heavy Duty Leather Hollow Hole Punch Set DIY Cra (Oct 8, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "old hand tools": n=49, median $15.9, p25 $12.69, p75 $19.78 — e.g. $15.16 Old Chinese Tibet Silver Hand-carved Dragon Phoenix Inl (Jul 4, 2026); $8.95 COLLECTION BRASS HAND-CARVED DRAGON STATUE OLD SMOKING  (May 15, 2026) (generic queries can include unrelated items)
 
 ## Market
 Steady buyer base of woodworkers ("users") and collectors. Individual good tools sell in 1–4 weeks. Lots sell slower, and the money is in parting out. Modern homeowner tools hardly sell online: shipping exceeds value. Fall and winter (shop season) are a little stronger.

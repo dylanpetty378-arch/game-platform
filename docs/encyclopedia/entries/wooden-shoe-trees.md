@@ -41,6 +41,7 @@ Not faked meaningfully. Beware "antique" decorative lasts made in India for déc
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): mixed lot $45; vintage wooden forms $98. Ladder is estimated.
+- 2026-10-13 – Terapeak 365d sold, query "shoe trees and stretchers": n=44, median $15.35, p25 $10.23, p75 $19.18 — e.g. $24.77 40 Pcs Men Adjustable Form Plastic Sho (); $16.4 20Pcs Men Adjustable Form Plastic Shoe () (generic queries can include unrelated items)
 
 ## Market
 Steady demand from menswear buyers (#menswear Reddit/StyleForum crowd) for named-maker and bespoke trees in specific sizes; decorators buy old forms and lasts. Generic trees move slowly at low prices.

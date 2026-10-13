@@ -42,6 +42,8 @@ Broken thumbs and hinges (famous weak points: Grimlock thumbs, Soundwave battery
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): Doubleheader $65; Snaptrap $86. Ladder estimated.
+- 2026-10-13 – Terapeak 365d sold, query "Hasbro Doubleheader Pretender": n=49, median $34.95, p25 $14.99, p75 $63 — e.g. $70.0 Vintage 1988 Hasbro Transformers G1 Pr (); $195.0 Pretender Doubleheader 100 Complete 19 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Hasbro Snaptrap Seacon": n=50, median $14, p25 $10, p75 $27 — e.g. $5.0 Vintage Transformers G1 Seacon Leader (); $400.0 Vintage 1987 Hasbro Transformers G1 Se () (generic queries can include unrelated items)
 
 ## Market
 Big, liquid market; nostalgia peak buyers (now 40–50 years old). Loose complete figures sell within days at fair prices. eBay is the main venue; TFW2005 forum for parts. Prices softened after the 2021 peak.

@@ -30,6 +30,7 @@ Modern Chinese Tiffany-style mirrors exist; craft mirrors are not fakes but ofte
 
 ## Comps (sold, dated)
 No dated sold comps fetched this run. Sweep Lens median $1,400 reflects period Arts & Crafts lamps/mirrors — not comparable.
+- 2026-10-13 – Terapeak 365d sold, query "leaded slag glass mirror": n=8, median $25, p25 $15, p75 $28.99 — e.g. $28.99 Vintage Amethyst Slag Stained Glass Je (); $11.23 Vintage Purple Slag Stained Glass Jewe () (generic queries can include unrelated items)
 
 ## Market
 Local, slow; shipping glass panels is expensive and risky so eBay sells poorly.

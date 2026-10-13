@@ -30,6 +30,7 @@ Little Red Riding Hood reproductions are rampant (smaller, crude paint, wrong ma
 
 ## Comps (sold, dated)
 None in our data. Lens median $55 (asking) for the sweep Magnolia vase.
+- 2026-10-13 – Terapeak 365d sold, query "Hull Magnolia vase": n=50, median $13, p25 $10, p75 $19.99 — e.g. $9.5 HULL MAGNOLIA 13 VASE (); $30.0 Hull Pottery Blue Pink Yellow Magnolia () (generic queries can include unrelated items)
 
 ## Market
 Moderate volume, older collector base; mid pieces sit for weeks.

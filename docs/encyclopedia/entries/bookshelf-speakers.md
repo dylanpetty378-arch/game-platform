@@ -31,6 +31,7 @@ Unauthorized LS3/5A clones and kit versions; otherwise low.
 
 ## Comps (sold, dated)
 No dated sold comps fetched this run. Sweep Lens median $35 consistent with junk tier.
+- 2026-10-13 – Terapeak 365d sold, query "Technics 3-piece speaker system": n=7, median $35.99, p25 $18.39, p75 $39.75 — e.g. $34.95 Technics 3 Piece Speaker System SB S92 (); $39.99 Technics 3 Piece Speaker System SB S35 () (generic queries can include unrelated items)
 
 ## Market
 Big category, fast for named classics; mass-market sets barely sell (shipping exceeds value).

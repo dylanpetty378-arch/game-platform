@@ -39,6 +39,7 @@ Modern prints on aged paper in old frames; "antique tintypes" made today (tintyp
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking/auction mismatch, 2026-10): crayon portrait $8,300 (wrong match), oval lady print $75. Ladder estimated.
+- 2026-10-13 – Terapeak 365d sold, query "framed crayon charcoal portrait": n=3, median $40, p25 $21, p75 $40 — e.g. $21.0 Antique 1920s Charcoal Crayon Portrait (); $75.0 Antique Charcoal Crayon Portrait Man i () (generic queries can include unrelated items)
 
 ## Market
 Large ancestor portraits: very weak, slow, mostly décor and Halloween ("creepy portrait") buyers, local pickup. Cased images and photographica: strong, liquid collector market. Prints: slow.

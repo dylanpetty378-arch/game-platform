@@ -32,6 +32,7 @@ Indian-made "antique bronze signal cannons" are common; many marked "Napoleon" o
 
 ## Comps (sold, dated)
 No dated sold comps retrievable this run (no web search; no Terapeak rows). Lens median $220 reflects asking prices for genuine-looking signal cannons. Pull Terapeak "brass desk cannon", "big bang cannon" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "brass mini cannon reproduction": n=7, median $20, p25 $9.99, p75 $24.79 — e.g. $27.5 Vintage Civil war Brass Cast Iron Mini (); $9.99 Vintage Brass Cast Iron Mini Cannon Pa () (generic queries can include unrelated items)
 
 ## Market
 Decor models: plentiful, slow. Big-Bang: steady collector demand (around July 4th). Signal cannons: auction market.

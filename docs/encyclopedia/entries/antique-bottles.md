@@ -53,6 +53,9 @@ Buy rule (short): Pass on anything machine-made after ~1915 unless it's a known 
 - 2026-06-06 – eBay – "Rare Amber Oval Skull & Crossbones Stars Poison Bottle Labeled S&D 1890 era" – $556.66; 2026-05-30 – "Large Owl Drug Cobalt Blue Poison Bottle 8"" – $510; 2026-10-10 – cobalt Triloids poison with label – $60
 - 2026-10-02 – eBay – "Absolutely Pure Milk Bottle Made in Italy Embossed Cow" – $25 (median $12.99)
 - 2026-09-29 – eBay – "Vintage Coca Cola NASCAR 6 Pack 8oz Bottles … 1997" – $34.95 (median $10)
+- 2026-10-13 – Terapeak 365d sold, query "antique bottles": n=44, median $14.85, p25 $9.92, p75 $21.49 — e.g. $6.23 Can Opener Antique Bronze Wall Mounted Beer Bottle, Sod (Sep 29, 2026); $16.64 Chinese Old Tibet Silver Hollow Carved 8 Immortals Snuf (Aug 29, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "assorted antique glass bottle lot": n=27, median $22.5, p25 $18, p75 $25 — e.g. $44.95 Vintage   Antique Glass Bottle Stoppers – Assorted Crys (Apr 18, 2026); $22.65 Lot of 16 Vintage and Antique Glass Bottles of Various  (Jan 1, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "old glass bottles": n=49, median $16.98, p25 $9.95, p75 $21.58 — e.g. $8.43 Novacan Old Masters Stained Glass Liquid Flux - 8 oz. B (Sep 20, 2026); $21.65 Pack of 3 Young Living Thieves Spray 1 fl oz NEW OLD ST (May 1, 2026) (generic queries can include unrelated items)
 
 ## Market
 - Serious bottle collecting is club-driven (FOHBC, regional shows) and pays well for rarities; the general eBay market for common bottles is saturated and slow.

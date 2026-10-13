@@ -33,6 +33,8 @@ Machine jacquards are often sold as "Aubusson" or "antique French tapestry". Vel
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+- 2026-10-13 – Terapeak 365d sold, query "Manual Woodworkers floral wall tapestry": n=9, median $19.83, p25 $17, p75 $21 — e.g. $35.0 Manual Woodworkers Weavers Wall Tapest (); $20.0 Manual Woodworkers Weavers Wall Decor () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Middle Eastern scene tapestry": n=48, median $25, p25 $15, p75 $36 — e.g. $12.0 Vtg Middle Eastern Camel Desert Blue T (); $99.0 ANTIQUE Tapestry Middle Eastern Scene () (generic queries can include unrelated items)
 
 ## Market
 Slow décor market. Belgian jacquards with classical/medieval scenes sell steadily at modest prices; throws sell slowly.

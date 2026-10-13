@@ -32,6 +32,7 @@ Machine-made "tapestry" pictures (woven jacquard) are often sold as needlepoint 
 
 ## Comps (sold, dated)
 None for framed pieces this run. Related: Aubusson-style needlepoint rugs (Terapeak 365d) median $150, p25 $99, p75 $500 — a different item.
+- 2026-10-13 – Terapeak 365d sold, query "framed needlepoint still life": n=50, median $25, p25 $18.95, p75 $39.97 — e.g. $25.0 Pair Of Framed Needlepoint Bird Pictur (); $29.74 Vtg Oval Floral Embroidery Art Set Fra () (generic queries can include unrelated items)
 
 ## Market
 Slow; local pickup better than shipping. Decor buyers.

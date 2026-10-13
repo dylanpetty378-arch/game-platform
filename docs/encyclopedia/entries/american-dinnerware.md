@@ -56,6 +56,8 @@ Chips on rims and foot rings, utensil marks (grey scratches) on plates, crazing 
 - 2019 – eBay – Fiesta medium green 22 oz utility pitcher – $500; medium green covered casserole – $455; turquoise 12 in fluted vase – $500; cobalt sugar – $383; Harlequin 5-pc relish tray – $400 (https://www.apartmenttherapy.com/ebay-fiestaware-selling-price-36647663)
 - 2026-09 – eBay active – Homer Laughlin Virginia Rose 9 in luncheon plate – $17.99 OBO, 4 available (https://www.ebay.com/itm/204138735041) → plates trade below this
 - eBay sold pattern (knowledge, 2024–25): Virginia Rose 13 in platter $15–30; Scio Hazel platter $8–15; Sebring Serenade 10 in plate $6–12; US Pottery 9–10 in plate $8–20; Marcrest bowl $8–20
+- 2026-10-13 – Terapeak 365d sold, query "american dinnerware": n=48, median $14, p25 $8.5, p75 $38.95 — e.g. $5.8 American Girl Kitchen Accessories Food Dinnerware Cookw (Sep 2, 2026); $44.27 *You Pick* Vtg 1876 Avon Cape Cod Ruby Red Dinnerware R (Apr 13, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Marcrest ceramic bowl": n=50, median $16, p25 $10, p75 $23 — e.g. $14.25 Lot of 4 Marcrest MCM Swiss Alpine Berry Fruit Dessert  (Apr 29, 2026); $24.99 Set 5 Marcrest Swiss Alpine Chalet Soup Cereal Bowls 6. (Mar 16, 2026) (generic queries can include unrelated items)
 
 ## Market
 Enormous supply, shrinking buyer base (estate dinnerware is the most over-supplied category in resale). Only Fiesta/Harlequin, Franciscan, Russel Wright, Bauer, Blue Ridge and Hall have active collector clubs. Replacements.com buys at a fraction of its retail. Single decal pieces sell slowly on eBay; Facebook local or not at all. Slight bump in November (holiday table) for platters.

@@ -57,6 +57,8 @@ Photo tells:
 - 2026-09-30 · eBay (via underpricedai) · Vintage Hartmann belting leather briefcase, tan · $157.50 · same source
 - 2026-05-10 · eBay (via underpricedai) · c.1880s child's miniature camel-back doll steamer trunk · $132.50 · https://underpricedai.com/worth/antique-curved-top-leather-cabin-trunk-suitcase-with-brass-hardware
 (Pages list month and day; the year is inferred from page update dates in 2026.)
+- 2026-10-13 – Terapeak 365d sold, query "faux alligator suitcase": n=50, median $54, p25 $30, p75 $75 — e.g. $92.5 Samsonite Suitcase Luggage 4132, Faux Alligator Shwayde (Jul 17, 2026); $54 Samsonite Suitcase Luggage 4135 Faux Alligator Shwayder (Dec 20, 2025) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Samsonite leather hard-shell suitcase": n=50, median $49, p25 $35, p75 $65 — e.g. $70 Vintage Samsonite Suitcase by Shwayder Bros. Inc.–Leath (Oct 25, 2025); $40  Vintage Samsonite Shwayder Bros Brown Hard Shell Suitc (Jan 1, 2026) (generic queries can include unrelated items)
 
 ## Market
 Large supply of mid-century vinyl cases. They sell as décor (stacked side tables, photo props, wedding card boxes), mostly locally, because shipping a 24–26" case costs $30–60. Sell-through online is low for full-size cases. Small train cases ship cheaply and sell better. Leather by known makers sells steadily to users and collectors. Genuine alligator sells, but eBay and some states restrict exotic-skin sales (California has historically restricted alligator/crocodile product sales). Check rules before listing.

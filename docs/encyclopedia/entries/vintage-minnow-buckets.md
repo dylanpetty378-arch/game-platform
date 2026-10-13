@@ -32,6 +32,7 @@ Decorative "vintage-style" galvanized buckets are sold as decor. Not common fake
 
 ## Comps (sold, dated)
 None gathered.
+- 2026-10-13 – Terapeak 365d sold, query "Old Pal Woodstream floating minnow bucket": n=36, median $25, p25 $18, p75 $28 — e.g. $10.0 Vintage Old Pal Woodstream Metal Float (); $39.99 Vintage Old Pal Woodstream 24G10 Float () (generic queries can include unrelated items)
 
 ## Market
 Steady among fishing-decor and lodge-decor buyers; Spring/summer bump.

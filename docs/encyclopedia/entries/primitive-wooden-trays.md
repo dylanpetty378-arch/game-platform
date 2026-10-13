@@ -33,6 +33,8 @@ Large reproduction market: distressed, painted "primitive" trays with heart hand
 
 ## Comps (sold, dated)
 No dated sold comps available this run. Lens $1,038 is a dealer asking price for exceptional painted pieces, not a comp.
+- 2026-10-13 – Terapeak 365d sold, query "wooden cutlery caddy": n=50, median $30, p25 $19.79, p75 $39 — e.g. $19.46 Wooden Utensil Holder Utensil Caddy Cu (); $14.34 Wooden Silverware Holder Kitchen Utens () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "wooden crackers caddy": n=11, median $10, p25 $8, p75 $12.16 — e.g. $25.0 Vintage Wooden Caddy Butter Pat Holder (); $10.0 Vintage Wood Wooden Cracker Server Tra () (generic queries can include unrelated items)
 
 ## Market
 Steady among country/primitive collectors and farmhouse decorators (Etsy, eBay, antique malls). Painted examples sell in weeks; plain ones slowly.

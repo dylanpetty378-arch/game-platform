@@ -32,6 +32,7 @@ Military sniper scopes (Unertl USMC, M73/M84, WWII Zeiss/ZF39) are widely reprod
 
 ## Comps (sold, dated)
 - No sold comps in our data; values are estimates (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Tasco 4x32 rifle scope": n=50, median $25, p25 $19.99, p75 $45 — e.g. $63.26 Tasco 4x32 Scope Made in Japan rifle t (); $18.0 Tasco Silver Antler 4x32 Scope () (generic queries can include unrelated items)
 
 ## Market
 Steady hunting-season demand Sept–Nov; collectors for target/military.

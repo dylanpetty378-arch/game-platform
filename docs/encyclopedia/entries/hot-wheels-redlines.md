@@ -35,6 +35,7 @@ Hot Wheels Classics/Vintage reissues and "Real Riders" with redline tyres (2000s
 - Terapeak query "redline classic 31 ford woody" — median $51, n=50 (pulled 2026-10-13)
 - Terapeak query "redline silhouette blue" — median $19.06, n=47 (pulled 2026-10-13)
 (Individual sale dates not captured in this pull.)
+- 2026-10-13 – Terapeak 365d sold, query "Mattel Hot Wheels 1970 Boss Hoss": n=32, median $35, p25 $24.5, p75 $49.73 — e.g. $141.18 Mustang Boss Hoss Chrome Club Kit 1969 (); $35.0 Mustang Boss Hoss Chrome Club Kit 1969 () (generic queries can include unrelated items)
 
 ## Market
 Deep, liquid collector market; sells within days–weeks at fair prices. Condition grading drives price.

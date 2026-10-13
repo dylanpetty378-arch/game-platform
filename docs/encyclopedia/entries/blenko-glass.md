@@ -36,6 +36,7 @@ Buy rule (short): Buy 1950s–70s large designer decanters, tall floor vases (18
 
 ## Comps (sold, dated)
 - No dated sold comps available this run (no web search, no Terapeak data). Estimates only; verify.
+- 2026-10-13 – Terapeak 365d sold, query "Blenko 384 emerald double spout carafe": n=12, median $35.99, p25 $34.99, p75 $49.99 — e.g. $34.99 Vintage Blenko Emerald Green Double Sp (); $35.99 Vintage Blenko 384 Emerald Green Doubl () (generic queries can include unrelated items)
 
 ## Market
 - Strong MCM demand; decanters and floor vases sell steadily; 384 bottles are common.

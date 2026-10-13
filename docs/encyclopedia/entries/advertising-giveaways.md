@@ -55,6 +55,7 @@ Photo tells by era:
 - 2026-10 asking: eBay "Vintage Barlow S.F. Police Credit Union 72" mini tape" $3.49 + ship; "Glenn Phares pocket tape (Wichita)" $12.50; Lufkin Frigidaire NOS tape $25. https://www.ebay.com/b/Vintage-Tape-Measure/104038/bn_55194244
 - 2026-10 asking: Wynn's porcelain advertising signs $65 and $155 OBO. https://www.ebay.com/shop/wynns?_nkw=wynns
 - The project's earlier oil-can entry treats plain-text 1960s–80s cans as $5–60 and graphic quarts as $50–150.
+- 2026-10-13 – Terapeak 365d sold, query "advertising giveaways": n=50, median $19.04, p25 $10.99, p75 $28 — e.g. $19.04 Vintage NIP Newport Cigarettes Camera Free Giveaway Adv (Apr 10, 2026); $7 Vintage 1950's A P Grocery Food Store Sewing Needle Kit (Feb 6, 2026) (generic queries can include unrelated items)
 
 ## Market
 There is steady low-dollar volume. Hundreds of advertising tapes and rulers are listed at any time, and most sell under $20 or don't sell. Petroliana (oil, tire) is the strongest sub-market and sells within weeks when graphics are bright. Celluloid sells to tape-measure and sewing collectors and to advertising collectors. Nothing is seasonal, except that petroliana and man-cave décor do a little better in Q4 (gifts).

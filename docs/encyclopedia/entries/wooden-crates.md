@@ -41,6 +41,7 @@ Large volume of reproduction Winchester, Remington, Coca-Cola and dynamite boxes
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens medians ($475 for the chicken crate) are asking prices. Estimates (general knowledge, verify): Winchester wooden shotshell box (500-count) $70–130 sold; Drambuie wooden crate $35–70; Coca-Cola wooden case $25–50.
+- 2026-10-13 – Terapeak 365d sold, query "Winchester wooden shotgun shell box": n=33, median $60, p25 $50, p75 $80 — e.g. $49.99 Winchester Shotgun Shell Crate Wooden (); $59.99 Vtg Winchester 250 Round Shotgun Shell () (generic queries can include unrelated items)
 
 ## Market
 Steady demand from décor buyers and sporting collectors; liquor/soda crates are slow and mostly local because shipping cost is high relative to value. Ammo and dynamite boxes have collector depth. No seasonality.

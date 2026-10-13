@@ -34,6 +34,7 @@ Reproduction etched "seltzer" bottles exist (2000s decor), with too-crisp etchin
 
 ## Comps (sold, dated)
 None gathered this run. Need Terapeak "Sparklets siphon" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "Sparklets seltzer siphon bottle": n=50, median $30, p25 $22, p75 $42 — e.g. $52.0 Vintage Seltzer Bottle Soda Siphon Wit (); $49.0 Vintage SPARKLETS SODA SELTZER SIPHON () (generic queries can include unrelated items)
 
 ## Market
 Steady barware/mancave demand; mid tier sells 2-6 weeks. UK buyers abundant on eBay UK (lots of supply there too).

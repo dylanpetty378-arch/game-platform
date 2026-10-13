@@ -40,6 +40,7 @@ Japanese composition copies (see above). Modern Chinese resin "carved look" stop
 - 2026-10-13 – eBay via Terapeak – "anri mechanical bottle stopper" – median $18 over 50 sold. db/comps.jsonl
 - 2026-10-13 – eBay via Terapeak – lots of 6–14 ANRI stoppers – sold $36–123. db/comps.jsonl
 - No sold Big Mouth or Ferrandiz comps retrieved this run.
+- 2026-10-13 – Terapeak 365d sold, query "ANRI Big Mouth toothpick holders": n=50, median $24.99, p25 $21, p75 $29.79 — e.g. $24.99 Vintage Anri Big Mouth Toothpick Holde (); $25.0 Vintage Anri Hand Carved Wooden Big Mo () (generic queries can include unrelated items)
 
 ## Market
 Steady barware/kitsch demand; single stoppers sell slowly in a crowded market; lots sell at a per-piece discount (~$5–9 each). Holidays (Nov–Dec) bump barware.

@@ -34,6 +34,7 @@ White Mountain still makes the same design (modern ones have stickers, galvanise
 
 ## Comps (sold, dated)
 No dated sold comps retrievable (no web search; no Terapeak). Lens median $211 for the example reflects asking prices on eBay. Pull Terapeak "white mountain ice cream freezer" before any buy.
+- 2026-10-13 – Terapeak 365d sold, query "White Mountain hand-crank ice cream maker": n=50, median $111, p25 $60, p75 $225 — e.g. $34.59 6 Qt Stainless Steel Freezer And Dashe (); $111.0 White Mountain 1 ONE Qt 1 X G HAND CRA () (generic queries can include unrelated items)
 
 ## Market
 Local decor/farmhouse demand; shipped sales are few because of bulk (box 16×16×20" and 15–25 lb).

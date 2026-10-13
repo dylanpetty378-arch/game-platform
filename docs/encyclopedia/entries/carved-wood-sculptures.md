@@ -44,6 +44,7 @@ Modern Chinese "antique" boxwood with artificial patina and fake seals sold as Q
 
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): Balinese carved busts 10–15" sell ~$40–100; Peruvian Inca warrior souvenir carvings $20–50; small Chinese hardwood figures $30–150 depending on age.
+- 2026-10-13 – Terapeak 365d sold, query "Balinese carved man bust": n=9, median $30, p25 $19.2, p75 $44 — e.g. $11.0 Vintage Balinese Hand Carved Wooden Bu (); $19.2 Vintage Balinese 10 Bust of YOUNG MAN () (generic queries can include unrelated items)
 
 ## Market
 Liquid at low prices; collectors of Asian carvings bid well on old boxwood at auction. Tourist pieces sit.

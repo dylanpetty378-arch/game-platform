@@ -51,6 +51,7 @@ No meaningful faking. Watch for re-handled saws (a period handle on a different 
 - 2026-07-15 · eBay (via underpricedai) · Simonds 10" back miter saw, Pat. Dec 27 1887 · $49.00 · same source
 - 2026-07-16 · eBay (via underpricedai) · Warranted Superior keyhole saw · $24.99 · same source
 (Year inferred: page updated 2026-08-31.)
+- 2026-10-13 – Terapeak 365d sold, query "Disston Craftsman vintage hand saws": n=22, median $37.95, p25 $29.95, p75 $42.99 — e.g. $39.99 Vintage Hand Saw Lot Disston D-23 Craftsman Kromedge Ve (Apr 14, 2026); $45.95 Hand Saw Blades Lot of 6 Wood working Tools Craftsman D (Mar 11, 2026) (generic queries can include unrelated items)
 
 ## Market
 Steady users' market (hand-tool woodworkers) plus a small collector market (the Disstonian community). Common saws are oversupplied at estate sales and sell slowly. Clean premium saws sell within 1–3 weeks. Long saws are awkward to ship, which depresses the market for full-size and logging saws.

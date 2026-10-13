@@ -38,6 +38,7 @@ Few fakes; main issue is reissues and seconds. Some modern Asian copies of Blue 
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl; no web search. Lens median $35 for the example is asking; annual plates usually sell under $20.
+- 2026-10-13 – Terapeak 365d sold, query "Porsgrund Norwegian decorative plate": n=50, median $11.94, p25 $7.99, p75 $16.99 — e.g. $6.89 Porsgrund Norway Julen Juleplatte Chri (); $6.9 Porsgrund 1992 Christmas Plate NIB Lig () (generic queries can include unrelated items)
 
 ## Market
 Plates: huge supply, slow. Studio pieces: fast, strong collector demand (EU and US).

@@ -50,6 +50,7 @@ Toy houses for dolls (1:12, 1:16, 1:24 scale) and the furniture for them, plus p
 - Keystone of Boston / Rich Toys 1940s dollhouse, unmarked, no furniture, 21×29×16": passed unsold at Westport Auction, Oct 1, 2024 (estimate $50–10,000) — shows weak demand for bulky mid-century houses.
 - Antique German blonde china head dolls (2) sold at LiveAuctioneers (price locked; date not shown).
 - No dated eBay sold comps retrievable this session.
+- 2026-10-13 – Terapeak 365d sold, query "wooden doll crib with doll": n=49, median $35.54, p25 $21.16, p75 $55 — e.g. $38.14 Robud Wooden Baby Doll Crib Baby Doll (); $21.16 Baby Doll Wooden Crib Gigglescape () (generic queries can include unrelated items)
 
 ## Market
 - Houses: slow, regional, pickup-dominated (Facebook Marketplace/Craigslist); eBay buyers won't pay freight. Holiday season (Nov–Dec) lifts local demand.

@@ -30,6 +30,7 @@ Montblanc fakes common; Chinese 51 clones (Hero 616) — check "PARKER 51 MADE I
 
 ## Comps (sold, dated)
 None this run.
+- 2026-10-13 – Terapeak 365d sold, query "Sheaffer cartridge fountain pen": n=50, median $11.99, p25 $10.81, p75 $17.99 — e.g. $17.99 One 1970s Demo Sheaffer cartridge foun (); $12.09 Sheaffer Cartridges Fountain Pen Blue () (generic queries can include unrelated items)
 
 ## Market
 Strong collector community; Parker 51 sells in days. Cheap school pens slow.

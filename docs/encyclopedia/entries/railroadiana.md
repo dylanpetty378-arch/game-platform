@@ -38,6 +38,7 @@ Fake railroad marks are common on keys, locks, lanterns (new globes etched with 
 
 ## Comps (sold, dated)
 No railroadiana sold data in comps.jsonl and no web search this run; Lens returned no match. Prices above are estimates; verify with Terapeak "PRR teapot keystone" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "Pennsylvania Railroad silverplate railroad teapot": n=3, median $74.99, p25 $67.15, p75 $74.99 — e.g. $67.15 Reed Barton Insulated Silverplated Tea (); $74.99 VTG Pennsylvania Railroad Silverplate () (generic queries can include unrelated items)
 
 ## Market
 Collector base is older and shrinking slowly but still active. eBay plus railroadiana shows and auctions (e.g., Golden Spike-type railroadiana auctions). Mid-tier silver sells in 2–6 weeks.

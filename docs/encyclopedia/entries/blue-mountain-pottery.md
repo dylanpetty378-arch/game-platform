@@ -28,6 +28,7 @@ Not faked; other Canadian potteries (Canuck, Evangeline, Royal Canadian Art Pott
 
 ## Comps (sold, dated)
 None in our DB; Lens median $34 (sugar/creamer listings). Estimates only.
+- 2026-10-13 – Terapeak 365d sold, query "Blue Mountain Pottery Canadian drip-glaze pottery": n=14, median $17, p25 $14.99, p75 $20 — e.g. $12.0 Canadian Blue Mountain Pottery Teddy B (); $30.0 VTG Canadian Blue Mountain Pottery Wal () (generic queries can include unrelated items)
 
 ## Market
 Strong in Canada, moderate in US; many listings; slow for common items.

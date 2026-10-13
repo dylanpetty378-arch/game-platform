@@ -46,6 +46,7 @@ Photo tells:
 
 ## Comps (sold, dated)
 - No sold comps could be retrieved this run. Lens returned asking prices: Tassajara Bread Book median $28; 1950s illustrated Heidi median $20 (asking, 2026-10). All ladder prices are estimates.
+- 2026-10-13 – Terapeak 365d sold, query "Shambhala Tassajara Bread Book": n=50, median $7.08, p25 $6.01, p75 $8.97 — e.g. $6.16 TASSAJARA BREAD BK REV Paperback By Br (); $7.84 The Tassajara Bread Book by Brown Edwa () (generic queries can include unrelated items)
 
 ## Market
 Huge, slow market for most books; values are compressed by AbeBooks supply. Specific titles sell quickly when underpriced. eBay works for illustrated/collectible; AbeBooks for firsts. Media Mail shipping makes books cheap to move.

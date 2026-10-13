@@ -44,6 +44,7 @@ Not faked at the low end. Mackenzie-Childs and Le Creuset have knock-offs (Chine
 - 2025-10 to 2026-10 – eBay via Terapeak – "china dinnerware sets" median $17.23, n=50, p25 $12.66, p75 $31.67 (comps.jsonl).
 - 2025-10 to 2026-10 – eBay via Terapeak – "american dinnerware" median $14, n=48 (comps.jsonl).
 - Brand-specific comps not retrievable this run.
+- 2026-10-13 – Terapeak 365d sold, query "Gibson Designs embossed fruit pitcher": n=5, median $12.6, p25 $11.89, p75 $12.99 — e.g. $11.89 White Ceramic Pitcher Large 64 oz 8 Ta (); $12.6 Gibson Designs Embossed Raised Fruit W () (generic queries can include unrelated items)
 
 ## Market
 Huge supply; buyers mostly replacing pieces. Bulky and fragile items (tureens, pitchers) rarely clear shipping. Premium brands sell steadily.

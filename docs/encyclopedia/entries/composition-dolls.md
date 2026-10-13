@@ -53,6 +53,7 @@ Dolls whose heads (and often limbs or entire bodies) are molded from "compositio
 - Effanbee composition estimates (marks4antiques, auction pre-sale): Anne Shirley 14.5" light crazing $75–125; Anne Shirley 14" chipped toes/replaced wig $50–120; Patsy Baby 9.5" crazed $50–100.
 - Asking prices on eBay Oct 12, 2026: unbranded 1940s compo baby 20" with sleep eyes $49.95; unmarked 1930s compo baby 21" $40; Horsman 18" compo/cloth $60; Effanbee Patsy Ann 19" $35; Ideal Shirley Temple baby 20" orig. dress $299.99; Buddy Lee Coca-Cola $225.
 - Dated sold comps not retrievable this session (eBay sold blocked; auction databases locked).
+- 2026-10-13 – Terapeak 365d sold, query "composition doll 19in": n=11, median $40, p25 $24, p75 $50 — e.g. $9.0 Vintage 19in Composition 1950 s Unmark (); $179.0 Bru Jne Doll Bisque Head Hands Artist () (generic queries can include unrelated items)
 
 ## Market
 - Large supply, aging buyer base; prices for common composition dolls have fallen since the 2000s. Premium names (Shirley Temple, Alexander, Patsy) still sell steadily; "creepy doll" Halloween demand gives a small October bump for battered ones.

@@ -50,6 +50,8 @@ Parts pulled from US cruiser, middleweight and muscle bikes (1930s–70s) and Eu
 ## Comps (sold, dated)
 - 2016-03-22 – TheCABE (asking) – complete 1964 Schwinn Mark V Jaguar, Coppertone, 2-speed – $700 shipped. Members flagged a non-original rack, pedals and badge, and one offered $100 for the rear carrier alone. https://thecabe.com/forum/threads/1964-schwinn-mark-v-jaguar-coppertone-2-speed-orig.88058/
 - No eBay sold comps could be retrieved this run (403, and the search budget ran out). Estimates come from experience of eBay sold results for Schwinn middleweight fenders ($60–120 a pair), Schwinn high-rise bars ($30–80) and Dorcy speedometers ($10–20).
+- 2026-10-13 – Terapeak 365d sold, query "Schwinn vintage leather bicycle saddle": n=50, median $36.95, p25 $28, p75 $49.99 — e.g. $52.0 Vintage Brown Leather Bike TOOL BAG B (); $61.9 Vintage Brown Leather Bike Saddle TOOL () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Dorcy bicycle speedometer": n=22, median $29, p25 $20, p75 $39.96 — e.g. $69.99 BICYCLE SPEEDOMETER SET DORCY VINTAGE (); $30.99 BICYCLE SPEEDOMETER CABLE 26 VINTAGE D () (generic queries can include unrelated items)
 
 ## Market
 There's an active community on TheCABE, Ratrod Bikes and Facebook groups, and eBay sells hundreds of Schwinn parts a month. Krate and Sting-Ray parts sell fast. Middleweight chrome is slower. Spring and summer are a little stronger. Buyers are knowledgeable and check date codes and stamps.

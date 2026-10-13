@@ -37,6 +37,8 @@ Fake "Occupied Japan" stamps on newer Chinese porcelain; head vase reproductions
 
 ## Comps (sold, dated)
 No dated comps pulled this run. Lens medians: shoes $11, Barnyard Frolics $25.
+- 2026-10-13 – Terapeak 365d sold, query "porcelain shoe figurines planters": n=33, median $8.36, p25 $6, p75 $12.95 — e.g. $10.0 Vintage Antique Look Heel Shoe Planter (); $4.0 Vintage Formalities Porcelain Ceramic () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Erich Stauffer Barnyard Frolics figurine": n=3, median $25, p25 $14, p75 $25 — e.g. $32.0 Vintage Arnart Erich Stauffer S8248 Ba (); $14.0 1950s Arnart Erich Stauffer Barnyard F () (generic queries can include unrelated items)
 
 ## Market
 Saturated; slow. Head vases and Holt Howard are the liquid exceptions.

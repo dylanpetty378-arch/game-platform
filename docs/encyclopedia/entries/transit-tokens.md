@@ -29,6 +29,7 @@ Rarely faked; some fantasy pieces and modern restrikes exist (NYC). Not a concer
 
 ## Comps (sold, dated)
 None in our DB; Lens median $12 for the Tucson token (asks + sold mixed; actual sold for common Tucson Transit "T" tokens is typically $3–10, general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "transit and misc tokens": n=50, median $11, p25 $7.5, p75 $29 — e.g. $11.0 Assorted Tokens Arcade Casino Transit (); $10.0 Super Bowl XXV Coin Vintage Lot of Tra () (generic queries can include unrelated items)
 
 ## Market
 Large supply, small collector market; many sell, most for a few dollars. Lots move better than singles.

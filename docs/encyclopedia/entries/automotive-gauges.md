@@ -31,6 +31,7 @@ Large volume of aftermarket reproduction Honda gauges (made in Taiwan/China) wit
 
 ## Comps (sold, dated)
 None in our DB; Lens returned no price. Estimates only.
+- 2026-10-13 – Terapeak 365d sold, query "vintage tachometer": n=50, median $167.77, p25 $50.6, p75 $403.58 — e.g. $592.1 1967 1972 Chevy Truck Analog Gauge Clu (); $49.3 1975 1991 Corvette Tach Tachometer Gau () (generic queries can include unrelated items)
 
 ## Market
 Strong buyer base (restorers) but very fitment-specific; untested units sell at a discount; ~20–60 sales per model/month.

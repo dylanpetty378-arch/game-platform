@@ -30,6 +30,7 @@ Modern reprints/posters of famous ads; "vintage ad" prints on blank-back stock. 
 
 ## Comps (sold, dated)
 None this run (no web search; no Terapeak rows). Lens median $22 for the Firestone page is plausible mid-tier.
+- 2026-10-13 – Terapeak 365d sold, query "Firestone magazine ad pages": n=3, median $2.99, p25 $1.5, p75 $2.99 — e.g. $6.0 Vintage Firestone Tires Magazine Doubl (); $1.5 Lot of 6 Vintage Firestone Tire Magazi () (generic queries can include unrelated items)
 
 ## Market
 Steady decorative demand (framing, man caves, automotive collectors); singles sell 20–90 days. Etsy strong for framed décor.

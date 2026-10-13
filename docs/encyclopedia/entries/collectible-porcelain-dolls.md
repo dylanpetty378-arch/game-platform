@@ -51,6 +51,9 @@ Two unrelated markets:
 - 2026-07-14 · eBay (via underpricedai) · Precious Moments porcelain baby doll Katie Lynne · $4.99 · same source
 - 2026-07-14 · eBay (via underpricedai) · Vintage porcelain Victorian flapper tassel doll · $19.95 · same source
 (Underpricedai lists month/day only; the page was updated 2026-08-26, so 2026 is inferred. Artist-baby and antique-bisque sold comps could not be retrieved; those tiers are estimates.)
+- 2026-10-13 – Terapeak 365d sold, query "collectible porcelain dolls": n=50, median $20, p25 $9.99, p75 $32.5 — e.g. $23.36 Vintage Antique Miniature Doll Collection Japan Germany (Sep 12, 2026); $14.24 Danbury Mint Dolls of the World Porcelain Doll Vintage  (Aug 6, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "harlequin pierrot porcelain dolls": n=50, median $22.98, p25 $16, p75 $30 — e.g. $150 Vintage 26" Pierrot Harlequin Clown Porcelain Musical T (Jul 26, 2026); $29 Vintage Pierrot Porcelain 1980s Clown Harlequin Doll 14 (Mar 21, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Ashton-Drake collectible dolls": n=49, median $28, p25 $18, p75 $50 — e.g. $110.94 The Ashton-Drake Galleries Rudolph the Red-Nosed Reinde (Oct 4, 2026); $44.74 Ashton Drake Gene Marshall - Star Wardrobe Collection F (Jul 3, 2026) (generic queries can include unrelated items)
 
 ## Market
 The modern collector-doll market collapsed after about 2005: tens of millions were sold as "investments", and estates are now flooding the market. Sell-through on eBay is low and prices hover around $10–25. Lifelike/reborn and silicone babies have an active niche market. Antique bisque has a steady but aging collector base; good examples sell well at specialist auctions.

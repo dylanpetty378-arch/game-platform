@@ -35,6 +35,7 @@ Decorative "vintage-style" chrome mics (Chinese prop microphones shaped like Shu
 
 ## Comps (sold, dated)
 No sold data found in this run. Lens median $147 for this listing is a mix of asking prices for clean examples.
+- 2026-10-13 – Terapeak 365d sold, query "Turner S33D dynamic microphone": n=9, median $49.99, p25 $35.99, p75 $100.92 — e.g. $74.99 Vtg Turner S33D Dynamic Omni Direction (); $165.0 VINTAGE 1940 s TURNER S33D DYNAMIC MIC () (generic queries can include unrelated items)
 
 ## Market
 Active: decor, harmonica players (Astatic/Shure bullets), hams and vintage-PA collectors. Clean Shure 55s sell in days.

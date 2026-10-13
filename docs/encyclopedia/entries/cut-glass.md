@@ -42,6 +42,7 @@ Forged acid signatures (Hawkes, Libbey) on unsigned or later glass; modern Asian
 - Terapeak 365-day (recorded 2026-10, run terapeak-wave1) "vintage ashtrays": median $16.80, n=50, p25 $13.35, p75 $20.60 (sold).
 - Terapeak "amber glass advertising ashtray": median $14.99, n=50 (sold).
 - ABP prices are general knowledge, verify.
+- 2026-10-13 – Terapeak 365d sold, query "cut glass ashtray": n=49, median $14.15, p25 $13.02, p75 $18.99 — e.g. $14.15 Colorful Vintage Cigar Ashtray Cut Cry (); $13.71 Colorful Vintage Cigar Ashtray Cut Cry () (generic queries can include unrelated items)
 
 ## Market
 Pressed glass: oversupplied, slow. ABP: collector market depressed since 2000s (prices down 50–70% from peak) but signed quality sells steadily.

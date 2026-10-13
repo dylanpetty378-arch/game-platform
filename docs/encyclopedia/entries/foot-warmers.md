@@ -34,6 +34,7 @@ Decorative warming pans widely reproduced 1920s–70s; foot stoves reproduced as
 
 ## Comps (sold, dated)
 No sold data found in this run. Lens median $45 likely represents single zinc bottles, asking.
+- 2026-10-13 – Terapeak 365d sold, query "metal hot water bottle foot warmers": n=5, median $28, p25 $20, p75 $30 — e.g. $30.0 Vintage AEMA Foot Warmer Oval Primitiv (); $20.0 Metal Bed Foot Warmer Hot Water Bottle () (generic queries can include unrelated items)
 
 ## Market
 Slow, primitive/farmhouse decor buyers; seasonal bump Oct–Jan.

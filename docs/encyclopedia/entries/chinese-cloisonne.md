@@ -34,6 +34,7 @@ Fake reign marks (Jingtai, Qianlong) on modern pieces; artificially aged modern 
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no data). Lens best match "Chinese cloisonné lidded vase with peony and butterfly" with Lens median $300 (asking; and for a different decoration — 2026-10-13). Verify with eBay sold "cloisonne ginger jar" before acting.
+- 2026-10-13 – Terapeak 365d sold, query "cloisonne lidded vase": n=50, median $63.99, p25 $30, p75 $125 — e.g. $31.25 Antique or Vintage Chinese Cloisonne G (); $41.0 LG 11 Butterfly Rose Enamel Cloisonne () (generic queries can include unrelated items)
 
 ## Market
 Oversupplied at the modern end; auction houses sell only older pieces. Asian buyers pay for Qing/Republic.

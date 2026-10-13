@@ -38,6 +38,7 @@ Décor reproductions (above). Mix-and-match: pitcher and bowl from different pat
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens median (asking, 2026-10): Colonial Pottery "Togo" set $324 (asking). Ladder estimated.
+- 2026-10-13 – Terapeak 365d sold, query "ironstone wash pitcher and bowl": n=50, median $50, p25 $30, p75 $82 — e.g. $19.99 VICTORIA WARE IRONSTONE BLUE WHITE FLO (); $250.0 Vintage Wash Basin Stand With Mirrow I () (generic queries can include unrelated items)
 
 ## Market
 Slow, regional and local. Farmhouse/cottage décor buyers; flow blue collectors aging. Shipping cost and breakage push sales to local pickup and antique malls.

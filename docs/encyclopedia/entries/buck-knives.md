@@ -33,6 +33,7 @@ Buck reissues: "110 50th anniversary", limited editions with early-style marks; 
 
 ## Comps (sold, dated)
 None in our DB; Lens for this example matched a "1974–1980 BUCK 110" listing with median $245 (likely asks/inflated). Estimates only.
+- 2026-10-13 – Terapeak 365d sold, query "Buck Buck 110 folding knife": n=48, median $14.77, p25 $12.01, p75 $51.9 — e.g. $12.37 5 Dark Brown Leather Sheath for Buck 1 (); $11.67 Leather Knife Sheath Belt Pouch Fits B () (generic queries can include unrelated items)
 
 ## Market
 Very liquid; hundreds of Buck 110s sell monthly. Pre-1986 knives sell quickly when tang stamp is photographed.

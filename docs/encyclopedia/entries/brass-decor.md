@@ -55,6 +55,8 @@ Buy rule (short): Pass on generic brass at any price above ~$5 a piece; only buy
 - 2026-03-26 – eBay – "Vintage Brass Goblets set of 4" – $15 (median $20)
 - 2025-10-14 – eBay – "Antique French bronze figural sculpture lady dinner bell" – $122.50; 2026-05-16 – Italian brass soldier dinner bell – $22.95
 - 2026-06-27 – eBay – "1985 Dolbi Cashier Brass Crouching Panther Sculpture" – $150; 2026-01-02 – "Extra Large Brass Swan Dolbi Cashier" – $249 (Dolbi median $110, n=50)
+- 2026-10-13 – Terapeak 365d sold, query "brass unicorn figurines": n=49, median $14.95, p25 $9, p75 $24.73 — e.g. $19.88 Brass Unicorn Beetle Figurine Statue Table Ornament Ins (Oct 7, 2026); $16.39 Vintage Style Solid Brass Unicorn Beetle Statue for Gar (Aug 11, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "brass wall key racks": n=49, median $15.95, p25 $10.99, p75 $24.44 — e.g. $9.01 Mail Holder W/ Key Hook Wall Mount Hanging Rack Entrywa (Dec 26, 2025); $29.99 Modern Brass Metal   Burnt Wood Key Holder Rack w/ Hook (Jan 27, 2026) (generic queries can include unrelated items)
 
 ## Market
 - Brass had a decorator revival (2016–2022, "grandmillennial") that has cooled; generic brass now sells at $10–25 with lots of supply. Sell-through for small pieces is low.

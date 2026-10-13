@@ -30,6 +30,7 @@ Forged autographs are endemic - requires PSA/JSA/Beckett, outside Dylan's rules.
 
 ## Comps (sold, dated)
 None gathered. Lens median $1,856 on example is asking prices for life-size statues.
+- 2026-10-13 – Terapeak 365d sold, query "life-size Elvis statue": n=4, median $1494.99, p25 $200, p75 $1723.85 — e.g. $1494.99 Elvis Statue Life Size Elvis Statue Si (); $200.0 Elvis Presley Bust Life Size Head Scul () (generic queries can include unrelated items)
 
 ## Market
 Aging collector base; souvenirs glut. 1956 EPE remains strong.

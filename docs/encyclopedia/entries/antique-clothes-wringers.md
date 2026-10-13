@@ -33,6 +33,7 @@ Few fakes; Amish-made new hand wringers exist (Lehman's), and modern repro "déc
 
 ## Comps (sold, dated)
 No dated sold comps available this run. Lens medians ($550–$980) are décor-shop asking prices, not sales.
+- 2026-10-13 – Terapeak 365d sold, query "Horse Shoe Brand wooden clothes wringer": n=6, median $48.99, p25 $39.97, p75 $50 — e.g. $39.95 Antique Horse Shoe Brand AMERICAN WRIN (); $75.0 Antique Horse Shoe Brand AMERICAN WRIN () (generic queries can include unrelated items)
 
 ## Market
 Local farmhouse-décor market (Facebook, antique malls). eBay sales are slow because of weight. Spring-summer peaks.

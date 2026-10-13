@@ -52,6 +52,8 @@ Not faked: values are too low. Confusion pieces exist (a 1971 Masonic decanter i
 - 2022-11-08 – whisky.auction – Jim Beam 1976 Bicentennial decanter, apparently full – £75 hammer (https://whisky.auction/auctions/lot/143434/jim-beam-bicentennial-bourbon-decanter-1976)
 - 2026 (ended unsold) – eBay – Jim Beam 1972 Democratic donkey football, empty – listed $33.97 + $7.99 ship, ended without sale (https://www.ebay.de/itm/314753005637) – market for that piece is below $30
 - 2017 – Bourbon Veach – empty Old Taylor castle ~$15, empty Ezra Brooks Shriners ~$5 (https://bourbonveach.com/2017/07/17/decanters-selling-and-collecting/)
+- 2026-10-13 – Terapeak 365d sold, query "Jim Beam ceramic decanter": n=50, median $18, p25 $12.5, p75 $29 — e.g. $12.99 Vintage 1971 Jim Beam s Trophy Uncle S (); $23.28 Vtg 1969 Jim Beam GOLDEN NUGGET Casino () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Jim Beam Regal China ceramic decanters": n=50, median $18, p25 $14, p75 $25 — e.g. $28.0 1972 Jim Beam Weeping Gold Floral Deca (); $14.0 Jim Beam Hawaiian Open 1973 Decanter U () (generic queries can include unrelated items)
 
 ## Market
 Massive supply, aging buyer base, prices fell from the 1970s peak (one piece: $160 in the 1970s, $48 by 1995 – Michigan Auction Co.). eBay sell-through for common empties is poor; many listings sit. Lots sell slowly and shipping heavy ceramics kills margins. Full sealed bottles have a lively "dusty bourbon" collector market, but only through licensed channels.

@@ -57,6 +57,7 @@ Ashtrays were produced in enormous numbers from the 1920s to the 1980s by potter
 - n.d. (eBay, reported by Antiques Know How) – Armor Bronze Art Deco nude ashtray – $450; Lalique frosted crystal ashtray/holder/lighter set – ~$400. https://antiquesknowhow.com/vintage-ashtrays/
 - 2026-10 asking – green onyx ashtrays on eBay $8–80, one bronze-terrier desk piece $199, median ~$30. https://www.ebay.com/shop/green-onyx-ashtray?_nkw=green+onyx+ashtray
 - Dated eBay sold comps could not be retrieved this run.
+- 2026-10-13 – Terapeak 365d sold, query "amber glass advertising ashtray": n=50, median $14.99, p25 $8.5, p75 $21 — e.g. $22.49 Vintage Miller High Life Beer Amber Glass Round Ashtray (Jan 31, 2026); $3.99 Vintage Circle Motel AAA Stroudsburg, PA Advertising As (Nov 6, 2025) (generic queries can include unrelated items)
 
 ## Market
 Very high supply. Thousands of ashtrays are listed, and most common ones sell slowly at $8–20 or not at all. MCM design pieces (Bitossi, Fornasetti, Higgins, Murano) sell quickly to décor buyers on eBay, Chairish and Etsy. Casino and breweriana pieces have dedicated collectors. Smoking-related décor is not seasonal.

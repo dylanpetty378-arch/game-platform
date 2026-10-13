@@ -32,6 +32,7 @@ Thermos reissued retro ribbed and character designs; Stanley classic is still ma
 
 ## Comps (sold, dated)
 No sold data found in this run. Lens median $40 is asking.
+- 2026-10-13 – Terapeak 365d sold, query "Thermos ribbed quart vacuum bottle": n=25, median $14.95, p25 $11.99, p75 $15 — e.g. $14.36 Vintage Thermos brand 2484 Quart Vacuu (); $17.0 Vintage King Seeley Thermos 2484 Vacuu () (generic queries can include unrelated items)
 
 ## Market
 High supply, low price; decor buyers.

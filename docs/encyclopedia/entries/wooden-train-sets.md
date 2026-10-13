@@ -32,6 +32,7 @@ Chinese knock-offs ("Thomas" wooden fakes), re-releases of popular engines.
 - Thomas Tank & Friends Wooden Railway Trains – you pick — $31.79 (Sep 21, 2026)
 - BRIO World Cargo Railway Deluxe Set — $102.34 (May 23, 2026)
 - Wooden Train Track Lot 52 pc — $35.03 (Oct 12, 2026)
+- 2026-10-13 – Terapeak 365d sold, query "Thomas Brio KidKraft wooden railway trains": n=22, median $14.99, p25 $7.99, p75 $20 — e.g. $7.99 KidKraft Wooden Railway Red Suspension (); $24.95 Lot of 8 KidKraft Wooden Railway Gray () (generic queries can include unrelated items)
 
 ## Market
 Steady; Q4 peaks.

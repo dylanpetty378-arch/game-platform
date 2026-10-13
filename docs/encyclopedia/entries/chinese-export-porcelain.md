@@ -44,6 +44,8 @@ The single biggest problem in this type. Since the 1980s China has produced mass
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens medians in the batch ($161–455) are Etsy/1stDibs asking prices. Estimates (general knowledge, verify): Hong Kong millefleur demitasse set of 6 cups and saucers $40–90 sold; 14" modern Rose Medallion-style punch bowl on stand $60–150; 19th-c. Rose Medallion 14" punch bowl $800–3,000.
+- 2026-10-13 – Terapeak 365d sold, query "millefleur demitasse cups and saucers": n=4, median $10.99, p25 $6.95, p75 $15.99 — e.g. $15.99 Royal Doulton Millefleur Demitasse Cup (); $99.99 Antique Rosenthal Selb Bavaria Millefl () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "lidded jar hair receiver": n=37, median $25, p25 $14.4, p75 $38.99 — e.g. $10.0 Pressed Glass Hair Receiver Dresser Ja (); $38.99 ANTIQUE UNO Bavaria Vanity Dresser Set () (generic queries can include unrelated items)
 
 ## Market
 Two markets: a deep auction market for real antiques (with Chinese buyers) and a weak décor market for modern pieces. Modern export is abundant and slow-moving. No seasonality.

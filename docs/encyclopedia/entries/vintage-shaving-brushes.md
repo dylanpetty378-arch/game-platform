@@ -29,6 +29,7 @@ Modern "vintage-style" red/cream brushes sold on Amazon/Temu imitate Ever-Ready 
 
 ## Comps (sold, dated)
 None gathered this run; Lens showed asking ~$30 for Ever-Ready C40 type. Estimates (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Ever-Ready badger shaving brushes": n=50, median $15.3, p25 $9.71, p75 $25 — e.g. $4.0 1950s EVER READY 300L Black Clear Luci (); $12.0 Ever Ready Shaving Brush 300PBT Badger () (generic queries can include unrelated items)
 
 ## Market
 Niche but steady (wet-shaving hobby); lots move in 1–2 weeks.

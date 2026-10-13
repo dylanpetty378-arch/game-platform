@@ -56,6 +56,7 @@ Everything for drinks at home: shakers, ice buckets, decanters, glass sets, cara
 - 2026-10 asking – eBay – Schlitz "Real Gusto" metal tray, minor dents – $11.99 OBO + $14 ship. https://www.ebay.com/itm/322746199680
 - 2024-11 asking – eBay – 1965 Schlitz Real Gusto beer tray, surface scratches – $45 BIN, 3 watchers (unsold). https://www.ebay.com/itm/133016181424
 - No further sold comps could be retrieved this run.
+- 2026-10-13 – Terapeak 365d sold, query "giant martini glass": n=50, median $25, p25 $18, p75 $30 — e.g. $30.79 LIBBY CRISA 44 Oz Large Giant Martini (); $22.0 LIBBY CRISA 44 Oz Large Giant Martini () (generic queries can include unrelated items)
 
 ## Market
 A large, steady market. MCM barware and gold glass sell well to décor buyers on eBay and Etsy, mostly as sets. Singles and generic glass are slow. Breweriana trays have a collector base, but 1960s+ trays are abundant. There is a holiday bump in Nov–Dec (bar carts, gifts) and a smaller one before summer.

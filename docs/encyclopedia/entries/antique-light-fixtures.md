@@ -39,6 +39,7 @@ Rejuvenation and others reproduce period fixtures; Chinese "antique style" cryst
 - 2026-09-06 – eBay (Terapeak) – Brass chandelier glass panel curved lines – $18.76
 - 2026-05-29 – eBay (Terapeak) – Milk glass flush mount brass finish – $50.58
 - No relevant sold comps found for Spanish brass chandeliers or eagle-top coach lanterns this run (estimates below are general knowledge).
+- 2026-10-13 – Terapeak 365d sold, query "antique light fixtures": n=47, median $26.35, p25 $20.4, p75 $51.98 — e.g. $7.59 10ft Ceiling Fan Pull Chain Extension - Retro Antique B (Aug 14, 2026); $56.92 SWAG PLUG IN Turkish Moroccan Mosaic Ceiling Hanging La (Oct 12, 2026) (generic queries can include unrelated items)
 
 ## Market
 Local market (Facebook Marketplace, lighting dealers) dominates because shipping chandeliers is costly and risky. eBay sells sconces and shades.

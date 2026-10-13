@@ -47,6 +47,8 @@ Rust through, heavy scratches, dents, lid mismatch, missing lids, flaking litho,
 - 2025-12 – eBay active – George W. Horner lady w/ parasol & Pekingese candy tin, 1940s – $5.99 ask (https://www.ebay.de/itm/257033297791) → the type in example 7954927540 trades at single digits
 - 2025-12 – eBay active (unsold) – 1953 coronation souvenir tin "Her Majesty Queen Elizabeth" – $75.66 ask, 1 watcher (https://www.ebay.com/itm/175450183075) → asks far above sold; coronation tins sell $15–45 (knowledge)
 - eBay sold pattern (knowledge, 2024–25): lots of 10–20 1980s–2000s decorative/advertising tins $25–60 total; Prince Albert pocket tins $5–12; Forest & Stream pocket tins $150–400; Huntley & Palmers novelty tins $150–800
+- 2026-10-13 – Terapeak 365d sold, query "advertising tin collection": n=50, median $11.66, p25 $9.27, p75 $17.95 — e.g. $16.91 Busch Light Gone Fishing sign wall decor 8.25" x 10.75" (Oct 10, 2026); $9.95 Hormel SPAM Tin Can Coin Bank Original Advertising Coll (Jan 11, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "assorted tins": n=46, median $19.07, p25 $6.45, p75 $27.69 — e.g. $4.87 SERIOUS Bean Co sweet And A Bit Sassy Dr Pepper Baked B (Oct 12, 2026); $15.42 Royal Dansk Danish Butter Cookies Assorted Shapes 24 Ou (Aug 23, 2026) (generic queries can include unrelated items)
 
 ## Market
 High volume, low value at the bottom (thousands of decorative tins listed, slow sell-through); a deep, knowledgeable collector market at the top (tobacco and coffee tin collectors, TCCA – Tin Container Collectors Association). Prices for good tins have softened ~30% since 2010. No strong seasonality except Christmas tins (Nov–Dec). Matthews Auctions, Morphy and Rich Penn handle the top tier.

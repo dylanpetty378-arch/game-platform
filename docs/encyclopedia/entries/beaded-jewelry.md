@@ -57,6 +57,8 @@ Necklaces, bracelets, earrings and collars built from strung or woven beads (gla
 - Sold comps were not retrievable this session (eBay sold pages blocked; WorthPoint/LiveAuctioneers prices locked). Asking prices, eBay, Oct 12, 2026: Japan champagne faux-pearl satin-backed collar 16" $21; Baar & Beards Top Hit faux-pearl bib collar (Japan) $15.95; 1950s faux-pearl Peter Pan collar $17.99 (was $19.99); 3 Baar & Beards India bullion collars $59.99 (https://www.ebay.com/b/1950s-Vintage-Collars/163607/bn_14843674).
 - Miriam Haskell value ranges (antiquesknowhow, 2025–26): gold filigree faux-pearl brooch $200–450; faux red glass cameo bead bracelet $150–300; baroque pearl cluster necklace sets $800–3,500 — estimates, not dated sales.
 - Estimate: imported loom seed-bead bracelets sell $8–20 (Crazy Crow sells new imported loom beadwork wholesale at a few dollars).
+- 2026-10-13 – Terapeak 365d sold, query "glass seed bead cuff bracelet": n=50, median $12.95, p25 $9.99, p75 $17 — e.g. $19.62 PURA VIDA PRIDE WOVEN SEED BEAD BRACEL (); $8.39 Peacock Multi Color Handmade Beaded St () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Glentex faux pearl beaded collar": n=12, median $20, p25 $17.95, p75 $26.95 — e.g. $20.0 Vintage Lot 2 Lovely Ladies Collars 1 (); $18.56 1940 s Vintage Glentex faux pearl Coll () (generic queries can include unrelated items)
 
 ## Market
 - Huge volume, low prices; eBay and Etsy are flooded with modern beadwork. Signed Haskell and true trade beads sell within weeks; everything else languishes.

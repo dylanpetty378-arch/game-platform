@@ -29,6 +29,7 @@ Not a faking market; many generic imports styled like Homco/Sandicast.
 
 ## Comps (sold, dated)
 None in our DB; Lens median $38 for this Homco example (mix of asks/sold). Estimates only.
+- 2026-10-13 – Terapeak 365d sold, query "Homco resin cocker spaniel statue": n=21, median $25, p25 $20, p75 $29.99 — e.g. $25.0 Vintage HOMCO 1986 Large Cast Resin Co (); $20.0 Vintage HOMCO 1986 Large Cast Resin Co () (generic queries can include unrelated items)
 
 ## Market
 Breed-specific buyers (cocker spaniel owners), moderate volume; slow 30–60 days.

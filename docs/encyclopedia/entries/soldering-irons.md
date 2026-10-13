@@ -34,6 +34,7 @@ None meaningful.
 
 ## Comps (sold, dated)
 None gathered. Lens median for the example was $40.
+- 2026-10-13 – Terapeak 365d sold, query "Jackson vintage electric soldering irons": n=3, median $40, p25 $25.6, p75 $40 — e.g. $42.95 Vintage Jackson Standard Electric Sold (); $25.6  4 Vintage Electric Soldering Irons SO () (generic queries can include unrelated items)
 
 ## Market
 Stained-glass and electronics hobbyists buy working industrial irons. Moderate volume.

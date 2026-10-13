@@ -34,6 +34,7 @@ None significant; decor "steampunk" meters.
 
 ## Comps (sold, dated)
 None retrieved this run.
+- 2026-10-13 – Terapeak 365d sold, query "vintage test equipment": n=47, median $21.3, p25 $12.95, p75 $31.42 — e.g. $25.11 PM9086/011 Battery for Fluke Scopemeter 97AUTO, 98, 98A (Sep 3, 2026); $29.95 HP Power Cord-7FT, Vintage PH-163 Oval Power Cord for H (Apr 25, 2026) (generic queries can include unrelated items)
 
 ## Market
 Steady among hams/repair techs; tube testers move fast.

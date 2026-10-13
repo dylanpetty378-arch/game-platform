@@ -40,6 +40,8 @@ Britains reissued some lead designs as "Britains Collectors' Edition" metal figu
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens medians in the batch ($13–40) are asking prices for new import playsets. Estimates (general knowledge, verify): mixed bag of 30–50 vintage Hong Kong plastic animals $10–25 sold; Britains lead cow/horse $10–25 each; Elastolin composition lion/elephant $30–100.
+- 2026-10-13 – Terapeak 365d sold, query "plastic turtle figurine set": n=50, median $15, p25 $9.99, p75 $23.09 — e.g. $35.45 CHOOSE KINDER SURPRISE FIGURES COMPLET (); $19.99 Masters of the Universe X Stranger Thi () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "bags of miniature plastic animals": n=47, median $13.68, p25 $9.75, p75 $19.45 — e.g. $30.87 4x Poppy Playtime Nightmare Critters S (); $10.85 Amazon Original Invincible x1 Mystery () (generic queries can include unrelated items)
 
 ## Market
 Steady among toy-soldier collectors (lead, composition) and Schleich collectors; bulk generic plastic sells slowly, bought for crafts and dioramas. Christmas bump.

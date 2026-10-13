@@ -29,6 +29,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No axe-specific sold comps this run (comps.jsonl hand-tool-lots is generic, median ~$10–25).
+- 2026-10-13 – Terapeak 365d sold, query "two vintage axes": n=50, median $44.95, p25 $20, p75 $60 — e.g. $39.99 NOS TWO PAIRS of Vintage Shimano DURA (); $120.0 Vintage Warren Axe and Tool Co Two Man () (generic queries can include unrelated items)
 
 ## Market
 Big, active community (axe restorers); good sell-through for marked heads.

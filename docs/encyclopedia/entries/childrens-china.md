@@ -50,6 +50,7 @@ Reproduction ABC plates (1970s–present); Royal Bayreuth fake marks; Bunnykins 
 - "Japan lusterware child's lusterware tea set" median $18.99, n=49 (sold).
 - "character mugs" median $17.86, n=42 (sold).
 - Generic nursery mug sold range est. $10–25 (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "nursery rhyme child's mug": n=50, median $14.05, p25 $10, p75 $21.95 — e.g. $21.95 Vintage Tiara Amber Glass Child Dinner (); $14.05 Vintage Child s Nursery Rhyme Cups Mug () (generic queries can include unrelated items)
 
 ## Market
 Low-moderate; buyers are collectors of specific makers and nursery decorators. Sell-through ~35%; 3–6 weeks.

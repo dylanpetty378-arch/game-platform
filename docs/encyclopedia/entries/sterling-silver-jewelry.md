@@ -54,6 +54,7 @@ Ranges are compiled estimates from dealer and collector guides; no dated sold co
 - Silver spot $60.73/oz, 6:45 a.m. ET Oct 12, 2026 (Fortune) → melt anchor for every unsigned piece.
 - Sold comps not retrievable this session (eBay sold blocked; WorthPoint locked). Comparable active listings exist for "vintage large 2 3/8 inch malachite & peridot sterling pendant" (https://www.ebay.de/itm/187670764227) and "modern malachite sterling pendant" (Chairish) — asking prices, not sold.
 - Estimate: Indian-made sterling malachite/peridot pendant 2–2.5" sells $30–60 on eBay.
+- 2026-10-13 – Terapeak 365d sold, query "Swarovski elements crystal bracelet and earrings": n=16, median $32, p25 $14, p75 $69 — e.g. $99.0 Jewelry Set Swarovski Elements Two Tie (); $62.1 Jewelry Set Blue Swarovski Elements Ch () (generic queries can include unrelated items)
 
 ## Market
 - Enormous volume. Unsigned and import sterling sells steadily but cheaply; signed vintage Taxco/Native/Scandinavian sells briskly to collectors, often within a week at fair prices.

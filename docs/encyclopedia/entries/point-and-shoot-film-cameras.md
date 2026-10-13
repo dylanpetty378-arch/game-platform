@@ -30,6 +30,7 @@ Not faked, but listings misidentify models (T4 vs T4 Super, mju vs mju II).
 
 ## Comps (sold, dated)
 None gathered. Lens median $50 on example.
+- 2026-10-13 – Terapeak 365d sold, query "Yashica Auto Focus 35mm camera": n=50, median $32, p25 $20, p75 $74.5 — e.g. $79.99 Yashica T AF Carl Zeiss Tessar 35mm Fi (); $26.0 Yashica Samurai X3 0 35mm Film Camera () (generic queries can include unrelated items)
 
 ## Market
 Very hot since 2018 (film revival, TikTok); premium models sell within days. Untested sells at 30-50% discount.

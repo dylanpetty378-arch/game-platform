@@ -36,6 +36,8 @@ Facsimile reprints of Playboy #1, Life moon issues, Action/Superman-related maga
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+- 2026-10-13 – Terapeak 365d sold, query "Highlights for Children 1973 children's magazine": n=13, median $18, p25 $7, p75 $22.95 — e.g. $22.45 Highlights For Children Hardcover Vint (); $8.0 Vtg Highlights Magazine October 1973 H () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Barbie Barbie magazines": n=50, median $11.38, p25 $7.01, p75 $13.91 — e.g. $13.97 1 6 Scale HOCUS POCUS Book of Spells M (); $18.67 1 6 Scale Barbie Fashion Doll Minis Lo () (generic queries can include unrelated items)
 
 ## Market
 Huge supply; most issues never sell. Key covers move steadily. Lots are slow and heavy.

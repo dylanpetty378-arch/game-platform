@@ -35,6 +35,7 @@ None; watch for parts radios sold as working.
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+- 2026-10-13 – Terapeak 365d sold, query "Electra Bearcat BC 101 scanner receiver": n=16, median $25, p25 $20, p75 $30 — e.g. $20.0 Vintage Electra Bearcat BC 101 Receive (); $31.0 Vintage Electra Bearcat BC 101 Receive () (generic queries can include unrelated items)
 
 ## Market
 Active ham buyers on eBay, QRZ swapmeet and hamfests; they pay for tested gear and steeply discount "untested". Old scanners have weak demand.

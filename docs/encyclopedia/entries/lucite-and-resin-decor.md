@@ -41,6 +41,7 @@ Modern Chinese resin embedments (2000s–present) are identical in type; "vintag
 
 ## Comps (sold, dated)
 No sold comps retrievable this run. Lens median $48 for pid 7957073117 (asks). Vintage butterfly resin domes est. $20–45 sold on eBay (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "butterfly in resin dome": n=18, median $12.5, p25 $6, p75 $18 — e.g. $4.0 Limoges Vintage Floral Rose Domed Cabo (); $18.0 Cabochon Dome Earrings Faux Pearl Gold () (generic queries can include unrelated items)
 
 ## Market
 Moderate decor demand (cabinet of curiosities, oddities buyers). Sell-through ~35%.

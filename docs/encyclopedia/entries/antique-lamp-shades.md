@@ -36,6 +36,7 @@ Huge volume of 1960s–90s GWTW-style reproductions (L.G. Wright, Fenton, Asian 
 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for the example was $290, which is an Etsy asking price for a different, older shade and is not realistic for this one.
+- 2026-10-13 – Terapeak 365d sold, query "pink glass hurricane shade": n=49, median $49, p25 $31.49, p75 $85 — e.g. $24.5 Vintage Pink Rose Glass Hurricane Oil (); $50.58 Vintage 10 Fitter Blue Pink Rose Hurri () (generic queries can include unrelated items)
 
 ## Market
 Slow except for art glass. The decal-shade tier sells a few per week at low prices; most buyers are local lamp restorers. Days to sell: 30–90.

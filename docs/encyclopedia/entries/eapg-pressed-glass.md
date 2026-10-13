@@ -43,6 +43,7 @@ Many popular EAPG patterns were reproduced from the 1930s on (Westmoreland, Fent
 
 ## Comps (sold, dated)
 No dated sold comps retrieved this run (no web search; no Terapeak rows). General knowledge: clear near-cut punch bowl + base typically sells $40–90 before shipping and often sits unsold; verify with eBay sold search "punch bowl hobstar EAPG" before any purchase over $30.
+- 2026-10-13 – Terapeak 365d sold, query "punch bowl on stand": n=50, median $29.99, p25 $15, p75 $40 — e.g. $38.13 Anchor Hocking Canton Cake Stand NEW C (); $32.5 TWO IN ONE 11 Clear Glass Ribbed Pedes () (generic queries can include unrelated items)
 
 ## Market
 Oversupplied; demand from older collectors is shrinking; prices fell steadily since the 1990s. Clear near-cut is the slowest category; flint glass, coloured EAPG and marked Heisey still sell.

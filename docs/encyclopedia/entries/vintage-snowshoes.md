@@ -29,6 +29,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run.
+- 2026-10-13 – Terapeak 365d sold, query "wooden rawhide snowshoes": n=35, median $75, p25 $55, p75 $99.99 — e.g. $79.99 Vintage wooden w Rawhide Leather snows (); $99.99 Vintage Antique Wooden Rawhide Snowsho () (generic queries can include unrelated items)
 
 ## Market
 Seasonal.

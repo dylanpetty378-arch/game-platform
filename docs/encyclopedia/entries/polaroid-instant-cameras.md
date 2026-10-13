@@ -29,6 +29,7 @@ Refurbished "Retro Polaroid" resellers; modern Polaroid Now. No fakes per se.
 
 ## Comps (sold, dated)
 None gathered this run; estimates (general knowledge, verify). Lens median $38 for OneStep Close-Up.
+- 2026-10-13 – Terapeak 365d sold, query "Polaroid OneStep 600 instant camera": n=50, median $30, p25 $24.95, p75 $39.99 — e.g. $96.83 Vintage Original Polaroid OneStep 600 (); $78.31 Vintage Original Polaroid OneStep 600 () (generic queries can include unrelated items)
 
 ## Market
 Fast; trend-driven, constant demand.

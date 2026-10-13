@@ -42,6 +42,8 @@ Modern Chinese-made "Japanese" dolls; souvenir dolls sold as "antique". Real ant
 
 ## Comps (sold, dated)
 No dated comps pulled this run. Lens medians were $375 and $500 — those are asking/retail of better dolls and badly overstate typical post-war souvenir dolls. Pull Terapeak "musha ningyo samurai horse glass case" before any buy.
+- 2026-10-13 – Terapeak 365d sold, query "musha ningyo samurai doll": n=26, median $79.99, p25 $40, p75 $109.99 — e.g. $13.5 Vintage Japanese Samurai Armor Doll Mu (); $109.99 Vintage Japanese Samurai Warrior Doll () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "musha ningyo samurai on horse": n=10, median $34, p25 $19.99, p75 $37.36 — e.g. $34.99 VTG Japanese Samurai White Horse Figur (); $34.0 Japanese White Horse Samurai Musha Nin () (generic queries can include unrelated items)
 
 ## Market
 Slow, niche. Big Japan-sourced supply on eBay from Japanese sellers keeps prices low. Real antiques sell well at auction.

@@ -34,6 +34,7 @@ Some Chinese copies and fake backstamps exist, but they are uncommon. Watch for 
 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for HN2103 Mask Seller was $55 (asking-price based); general knowledge suggests ~$40–75 sold (estimate).
+- 2026-10-13 – Terapeak 365d sold, query "Royal Doulton HN 2103 Mask Seller": n=14, median $35, p25 $30, p75 $37.99 — e.g. $39.99 Royal Doulton The Mask Seller HN 2103 (); $35.0 Vintage Royal Doulton Figurine THE MAS () (generic queries can include unrelated items)
 
 ## Market
 Very large supply from estates; prices are down 60–80% from their 1990s peak. eBay: hundreds sold per month. Days to sell: 20–60.

@@ -37,6 +37,7 @@ Chinese "Limoges-style" boxes with fake "Limoges" marks (no "France", wrong hing
 - 2026-02-05 – eBay – Peint Main Limoges Trinket, wine bottle in holder – $56.22 (Terapeak)
 - 2026-10-01 – eBay – Limoges trinket boxes lot – $148.22 (Terapeak)
 - 2026-03-07 – eBay – Victorian Trading Co lidded floral porcelain trinket box – $8.09 (Terapeak)
+- 2026-10-13 – Terapeak 365d sold, query "Heritage House heart porcelain music box": n=12, median $8.99, p25 $8, p75 $10.99 — e.g. $8.99 Heritage House Celebration of Love Lov (); $12.0 Porcelain Heart Shaped Music Box Valen () (generic queries can include unrelated items)
 
 ## Market
 Limoges boxes sell steadily (hundreds/month) with moderate prices; gift ware hardly sells.

@@ -29,6 +29,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run.
+- 2026-10-13 – Terapeak 365d sold, query "yarn-tied patchwork quilt": n=50, median $37.04, p25 $16.79, p75 $46 — e.g. $16.79 Vtg Quilt Handcrafted Patchwork Blanke (); $25.0 Vintage 1960 s Cotton Quilt Spool Patt () (generic queries can include unrelated items)
 
 ## Market
 Large supply, steady demand; condition-driven.

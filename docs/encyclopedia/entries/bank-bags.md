@@ -31,6 +31,7 @@ Novelty "money bag" props and decor reproductions exist; Federal Reserve style b
 
 ## Comps (sold, dated)
 None gathered. Lens median for the example was $31 (likely single-bag listings).
+- 2026-10-13 – Terapeak 365d sold, query "vintage bank deposit and coin bags": n=50, median $12, p25 $8, p75 $17.88 — e.g. $11.77 Vintage Money Coin Bank Deposit Receip (); $3.95 Vintage Deutsche Bundesbank B Canvas M () (generic queries can include unrelated items)
 
 ## Market
 Moderate volume. Banking-memorabilia and regional collectors. Singles take 2–6 weeks.

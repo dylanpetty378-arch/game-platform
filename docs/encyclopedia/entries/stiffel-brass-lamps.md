@@ -36,6 +36,7 @@ Post-2000 "Stiffel" under licence is lighter and cheaper. Many lamps are listed 
 
 ## Comps (sold, dated)
 No sold comps were gathered this run (no Terapeak rows in db/comps.jsonl). The Lens "$600" figure for pid 7979809848 is an asking price for a different, larger piece; treat it as noise. Estimates above are general knowledge, verify.
+- 2026-10-13 – Terapeak 365d sold, query "Stiffel brass and glass table lamp": n=49, median $100, p25 $59.95, p75 $175 — e.g. $100.0 STIFFEL Electric 17 HURRICANE LAMP Tab (); $81.0 Vintage STIFFEL Buffet Table Lamp Opal () (generic queries can include unrelated items)
 
 ## Market
 Steady decorator demand; designer forms sell in days, generic singles sit for months. Local sale (FB Marketplace) beats eBay for anything that is not a designer form because of shipping.

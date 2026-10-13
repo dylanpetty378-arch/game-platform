@@ -51,6 +51,9 @@ Buy rule (short): Never buy a "signed print" on the signature – it's printed i
 - 2025-06-03 – eBay – "Vintage 1950's Cherry Jeffe Huldah Framed Print; Suzanne" – $18
 - 2025-11-29 – eBay – "Vintage Japanese Foil Print of a Geisha Framed Artist Signed and Seal 17x14"" – $40; 2025-01-21 – Lahive geisha foil art 8x10 – $7
 - 2026-07-22 – eBay – "1942 Original Signed, Dated Wallace Nutting Hand Colored Photograph" – $101.50; 2026-09-02 – Wallace Nutting "October Array" – $170
+- 2026-10-13 – Terapeak 365d sold, query "decorative prints": n=42, median $11.79, p25 $7.91, p75 $17.99 — e.g. $1.5 ☀️ NEW LEGO Parts Pieces - You Pick Your Tile "PRINTED  (Oct 3, 2026); $11.79 12 Fake Dragonfly Clips Clip on Dragonfly for Outdoors  (Jul 23, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Grandma Moses framed reproduction print": n=5, median $30, p25 $22, p75 $49 — e.g. $22 Grandma Moses Rainbow 1961 Oil On Pressed Wood Print  9 (Dec 2, 2025); $95 Vintage MCM Framed Grandma Moses Barkcloth Fabric Art P (Dec 22, 2025) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "geisha foil prints": n=7, median $30, p25 $24.99, p75 $40 — e.g. $30 Vtg Manifestations Inc. Geisha Women Metallic Foil Opti (Sep 16, 2026); $20 Geisha Lady 8x10 Foil Art Framed In Faux Bamboo Wood Fr (Jan 4, 2026) (generic queries can include unrelated items)
 
 ## Market
 - Low-value mass reproductions flood eBay and sell slowly; shipping large framed glass is expensive and risky. Large Robert Wood pieces in good frames have a real decorator following (fall decor demand, Sept–Nov).

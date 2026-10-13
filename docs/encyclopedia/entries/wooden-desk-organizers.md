@@ -33,6 +33,7 @@ Bombay Company and Pier 1 "antique-style" stationery boxes look Victorian but ar
 
 ## Comps (sold, dated)
 From Terapeak (comps.jsonl): $36.80 Desk Organizer with Drawers Wooden Desktop Storage Cabinet (Mar 17, 2026); $30.92 CD Holder Desk Rack Organizer, Wooden CD Storage (Sep 25, 2026); $32.62 CD Holder Desk Rack Organizer Wooden (Jan 24, 2026); $29.47 2-tier wooden desktop monitor riser (Sep 22, 2026). Median $23.57 (n=49). No vintage-specific sold data pulled.
+- 2026-10-13 – Terapeak 365d sold, query "wooden desk organizers": n=49, median $23.57, p25 $16.54, p75 $36.79 — e.g. $29.47 20 Inch 2 Tiers Wooden Desktop Monitor Stand Riser TV L (Sep 22, 2026); $17.42 MaxGear Remote Control Holder Remote Caddy Organizer Wo (Apr 28, 2026) (generic queries can include unrelated items)
 
 ## Market
 Low demand; buyers are utility shoppers. Weeks to sell. Danish teak is the exception.

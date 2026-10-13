@@ -32,6 +32,7 @@ A&W and Coca-Cola reissued retro designs repeatedly; Coca-Cola syrup-line glasse
 
 ## Comps (sold, dated)
 None gathered. Lens median for the example was $15.
+- 2026-10-13 – Terapeak 365d sold, query "A&W root beer mugs": n=50, median $11.99, p25 $8.47, p75 $18 — e.g. $19.99 A W Root Beer Glass Mug 1919 2019 100 (); $21.95 Vintage A W Root Beer Soda Mug Dimple () (generic queries can include unrelated items)
 
 ## Market
 Huge supply, buyers are casual nostalgia shoppers. Slow.

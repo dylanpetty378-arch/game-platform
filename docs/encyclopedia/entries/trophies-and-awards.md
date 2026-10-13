@@ -30,6 +30,7 @@ Replica statuettes (Emmy/Oscar novelty) common and worth $10–40.
 
 ## Comps (sold, dated)
 None this run. Lens median $299 for the Telly example was asking prices.
+- 2026-10-13 – Terapeak 365d sold, query "Telly Award Telly Award statuette": n=24, median $30, p25 $12.99, p75 $48 — e.g. $48.0 Telly Award Trophy Gold Award Statuett (); $45.0 Telly Award Trophy Gold Statuette 1997 () (generic queries can include unrelated items)
 
 ## Market
 Thin, novelty-driven; Telly statuettes appear regularly. 30–120 days.

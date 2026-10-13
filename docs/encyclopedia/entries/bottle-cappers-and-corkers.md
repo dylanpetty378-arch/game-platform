@@ -29,6 +29,7 @@ Not faked; modern working tools are mislabeled "vintage".
 
 ## Comps (sold, dated)
 None gathered. Lens median $12 on example matches the low tier.
+- 2026-10-13 – Terapeak 365d sold, query "cast iron bottle corkers": n=34, median $28.95, p25 $20, p75 $55 — e.g. $349.0 1900 s American Bottle Corker Antique (); $250.0 Pottery Barn East Elm Vintners Cast Ir () (generic queries can include unrelated items)
 
 ## Market
 Small, slow niche (home brewers and kitchen-primitive collectors).

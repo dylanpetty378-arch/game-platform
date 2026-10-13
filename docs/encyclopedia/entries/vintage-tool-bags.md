@@ -31,6 +31,7 @@ None meaningful; modern Klein bags look similar but cleaner and with modern tags
 
 ## Comps (sold, dated)
 No dated sold comps fetched this run.
+- 2026-10-13 – Terapeak 365d sold, query "antique tool bag": n=50, median $24.99, p25 $12.59, p75 $53.99 — e.g. $16.5 100 All Natural Hardwood Competition B (); $53.99 Ash Bucket w Lid Shovel 5 PCS Fireplac () (generic queries can include unrelated items)
 
 ## Market
 Modest; rustic-decor and workwear buyers. 3–6 weeks.

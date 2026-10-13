@@ -57,6 +57,7 @@ Numbers above are compiled from collector guides and asking-price surveys; treat
 - Panasonic RF-7270 — PicClick record of an eBay listing at $49.86 (https://picclick.com/Vintage-Panasonic-RF-7270-Portable-Radio-Cassette-Recorder-254077069652.html; date not shown).
 - Panasonic RF-7270 original retail AUS $219 (1969–72, Mingay's via radiomuseum) — context only.
 - Estimate (no dated sale found): Reader's Digest RD-48 working $40–70.
+- 2026-10-13 – Terapeak 365d sold, query "Panasonic RF-7270 radio cassette recorder": n=5, median $40, p25 $31.5, p75 $60 — e.g. $69.0 1968 Panasonic RF 7270 Royalaire FM AM (); $16.0 National Panasonic Radio Recorder RF 7 () (generic queries can include unrelated items)
 
 ## Market
 - Deep, steady market on eBay (thousands of vintage radios sold per month across all types), but most common 1960s–70s sets sell slowly at $20–50. Early pocket transistors and boomboxes sell in days when priced right.

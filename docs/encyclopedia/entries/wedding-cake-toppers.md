@@ -48,6 +48,7 @@ Little faking. Retro-style reproductions of Art Deco couples (resin) are sold as
 
 ## Comps (sold, dated)
 No sold comps were gathered this run (no search budget, no Terapeak data). The Lens median for the example listing was $15 on similar 1950s toppers, which matches the common tier. Run a Terapeak query before any buy.
+- 2026-10-13 – Terapeak 365d sold, query "1950s bride and groom topper": n=49, median $20, p25 $19.46, p75 $29.99 — e.g. $24.99 Vintage Wedding Cake Topper with Bride (); $10.0 Vintage 1960s Porcelain Bride Groom On () (generic queries can include unrelated items)
 
 ## Market
 Steady, low-volume demand from wedding decor buyers (people re-using a grandparent's topper), vintage-wedding collectors, and crafters. Spring and early summer are a little stronger. Common 1950s toppers are plentiful and sit unsold.

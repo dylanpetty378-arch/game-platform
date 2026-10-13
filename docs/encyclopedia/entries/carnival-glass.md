@@ -38,6 +38,7 @@ Many reproductions of Northwood patterns with fake N marks; Chinese "carnival" i
 
 ## Comps (sold, dated)
 None in our data. Lens median $114 for the sweep example is asking prices for full Indiana sets.
+- 2026-10-13 – Terapeak 365d sold, query "Indiana Glass Harvest Grape pitcher and": n=49, median $24.99, p25 $18.75, p75 $35 — e.g. $20.0 Vintage Indiana Carnival Glass Pitcher (); $18.0 Indiana Glass White Milk Glass Harvest () (generic queries can include unrelated items)
 
 ## Market
 Old carnival collector base is aging; prices fell since 2000s, rare pieces still strong. Indiana sets sell slowly as decor.

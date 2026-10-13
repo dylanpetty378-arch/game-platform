@@ -33,6 +33,8 @@ Decorative brass "Brunton-style" compasses from India are sold as antique (gener
 ## Comps (sold, dated)
 - 2026 – Brunton pocket transit brass with wooden box – eBay asking ~$200 (search result; asking, not sold)
 - Brunton F-5008 ComPro new – ~$400 (reference for current retail; model naming as recorded, verify — the classic transit and the ComPro are separate Brunton models)
+- 2026-10-13 – Terapeak 365d sold, query "ainsworth brunton pocket transit": n=50, median $99 — e.g. p25 60 p75 129 (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "brunton pocket transit aluminum leather case": n=33, median $150 — e.g. p25 81 p75 190; includes replicas ~$30–38 (generic queries can include unrelated items)
 
 ## Market
 Niche: geologists, surveyors and surveying-instrument collectors buy on eBay; working field units also sell to students and geologists (general knowledge, verify). Low volume, steady prices.

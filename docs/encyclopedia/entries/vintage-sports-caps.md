@@ -42,6 +42,8 @@ Mitchell & Ness reissues closely copy Sports Specialties Bulls/Lakers/Raiders sc
 
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): Mitchell & Ness Bulls Team Script snapbacks sell ~$20–35 used; vintage Sports Specialties Bulls script snapbacks ~$80–200 depending on condition; generic Ferrari souvenir caps $15–35.
+- 2026-10-13 – Terapeak 365d sold, query "Mitchell & Ness Chicago Bulls snapback": n=50, median $19.96, p25 $15.96, p75 $36.66 — e.g. $12.44 Mitchell Ness 1991 NBA Finals Bulls vs (); $15.96 Mitchell Ness NBA Black Chicago Bulls () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Ferrari Scuderia Ferrari cap": n=44, median $23.41, p25 $15.1, p75 $29.72 — e.g. $14.18 Scuderia Ferrari F1 Hat w Red Stallion (); $9.9 Scuderia Ferrari Scudetto Red Carbon H () (generic queries can include unrelated items)
 
 ## Market
 Strong streetwear demand for 1980s–90s caps (Grailed, eBay, Depop); fast sales for authentic SS and Starter. Reissues flood listings titled "vintage".

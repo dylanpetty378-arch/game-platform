@@ -34,6 +34,7 @@ Saturated: probably the majority of "antique cast iron cars" on Craigslist are r
 
 ## Comps (sold, dated)
 No sold data in this run. Lens median $47 mixes repro and genuine.
+- 2026-10-13 – Terapeak 365d sold, query "A C Williams cast iron toy": n=50, median $40, p25 $31, p75 $56 — e.g. $50.0 1920s CAST IRON TWO DOOR COUPE ROADSTE (); $48.01 VINTAGE ORIGINAL A C WILLIAMS TOYS 193 () (generic queries can include unrelated items)
 
 ## Market
 Specialist; genuine sells well, repros slow.

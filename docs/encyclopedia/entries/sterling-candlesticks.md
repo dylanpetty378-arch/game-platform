@@ -32,6 +32,7 @@ Silverplate passed off as sterling; check mark. Fake English hallmarks on Asian 
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl; no web search; Lens had no match. Silver spot at the date is irrelevant for weighted pieces (melt ≈ $20–40 per short pair at ~$30–35/ozt; general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "weighted sterling candlesticks": n=50, median $49.95, p25 $39.75, p75 $95 — e.g. $227.5 Pair of Repousse 2 by Kirk Full Hand C (); $31.0 Set 2 Duchin Creation Sterling Silver () (generic queries can include unrelated items)
 
 ## Market
 Plenty of supply; weighted pairs sell slowly; Judaica buyers support some demand.

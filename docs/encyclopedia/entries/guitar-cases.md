@@ -34,6 +34,7 @@ Reissue Fender/Gibson cases (2000s+) look like vintage but have modern labels, h
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl; no web search. Lens median $495 for the example is the price of a whole Framus guitar, not the case.
+- 2026-10-13 – Terapeak 365d sold, query "chipboard parlor guitar case": n=10, median $74.99, p25 $62, p75 $169 — e.g. $610.0 VINTAGE 1931 WASHBURN SIX STRING PARLO (); $62.0 Vtg 60s Kay Music Note Parlor Guitar W () (generic queries can include unrelated items)
 
 ## Market
 Branded vintage cases sell quickly on Reverb; chipboard cases sell locally or not at all.

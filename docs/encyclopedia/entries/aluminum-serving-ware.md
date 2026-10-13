@@ -44,6 +44,7 @@ Wendell August continues production (newer pieces lower than early forge pieces)
 - Terapeak 365-day (recorded 2026-10) "aluminum canister set" median $27.44, n=49 (sold) — related aluminum category.
 - Terapeak "Wear-Ever aluminum cone sieve with pestle" median $24.99, n=50 (sold) — related.
 - No chafing-dish sold comps this run; est. $20–40 (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "aluminum chafing dish": n=50, median $25, p25 $15, p75 $37.3 — e.g. $46.13 Chafing Dish Buffet Disposable Aluminu (); $28.77 Wire Chafing Aluminum Stand Buffet Dis () (generic queries can include unrelated items)
 
 ## Market
 Low collector demand, high supply. Sell-through ~25–30%; slow.

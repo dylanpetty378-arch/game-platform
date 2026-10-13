@@ -66,6 +66,8 @@ Photo tells:
 - 2026-07-15 · eBay (via underpricedai) · Reed & Barton 970 silverplate water pitcher · $12.50 · same source
 - 2021-07-22 · Leland Little Auctions lot 2233 · Meriden Britannia #25 swan-lid double-wall ice pitcher, c.1860 · price not published · https://www.lelandlittle.com/items/420615/a-meriden-britannia-co-silverplate-ice-pitcher
 (The underpricedai pages give month and day but not the year; the pages were updated in 2026, so 2026 is inferred.)
+- 2026-10-13 – Terapeak 365d sold, query "silverplate hollowware": n=49, median $23.76, p25 $12, p75 $50 — e.g. $7.64 One Water Goblet - Silverplate Hollowware by Towle Silv (Feb 20, 2026); $9 REED   BARTON Silverplate Hollowware 10" Pierced Round  (Nov 25, 2025) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "engraved pewter teapot": n=17, median $75, p25 $40, p75 $231.5 — e.g. $186 Antique Chinese Pewter Yixing Jade Teapot ,Hand Engrave (Jan 27, 2026); $175 Antique Chinese Pewter Octagonal Teapot Tea Kettle Pitc (Oct 11, 2026) (generic queries can include unrelated items)
 
 ## Market
 Deep supply and thin demand. Generic plate sells slowly (60–120 days) at $10–30, and most ask prices ($90+) never sell. Demand is for (a) bar ware (ice buckets, cocktail shakers, martini pitchers) from mid-century and Italian designers, (b) signed Mexican and Continental pieces, (c) Victorian figural pieces from collectors. Holiday (Nov–Dec) lifts serving pieces and bar ware a little. Wedding and party rental buyers buy cheap trays in bulk.

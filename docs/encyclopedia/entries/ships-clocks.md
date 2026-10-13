@@ -35,6 +35,7 @@ Indian/Chinese brass "Chelsea" or "Navy" decor clocks with quartz movements are 
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no data). Lens best match "Vintage Seth Thomas Brass Corsair E537-000 Brass Ship Clock" with Lens median $295 (asking, 2026-10-13). Verify with eBay sold "Seth Thomas Corsair" before acting; general experience says running Corsairs often sell $150–250.
+- 2026-10-13 – Terapeak 365d sold, query "Seth Thomas Corsair brass ship clock": n=50, median $129.99, p25 $89.99, p75 $150.88 — e.g. $13.95 Seth Thomas Helmsman Corsair Hermle 3 (); $15.28 Seth Thomas Helmsman Corsair Hermle 3 () (generic queries can include unrelated items)
 
 ## Market
 Steady; nautical decor and boaters; Chelsea has a very strong collector base; Corsairs are plentiful.

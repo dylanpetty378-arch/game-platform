@@ -29,6 +29,7 @@ Modern decorative "vintage-style" axes exist; Indian-made reproductions exist.
 
 ## Comps (sold, dated)
 No sold comps retrieved this run, and Lens returned no match.
+- 2026-10-13 – Terapeak 365d sold, query "piolet ice axe": n=50, median $149.9, p25 $75, p75 $199.9 — e.g. $149.99 Vintage Stubai Austria Wallner Ice Axe (); $176.0  Old rar ICE AXE Stubai Aschenbrenner () (generic queries can include unrelated items)
 
 ## Market
 Decor and outdoor-collector buyers; moderate. eBay: ~100 per month. Days to sell: 20–60.

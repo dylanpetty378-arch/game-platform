@@ -47,6 +47,7 @@ Fake Loetz, Tiffany Favrile and Gallé signatures on Chinese/Romanian glass are 
 ## Comps (sold, dated)
 - 2025-10 to 2026-10 – eBay via Terapeak – "fenton art glass" – median $26.18, n=50, p25 $17.25, p75 $63.78 (our comps.jsonl, 2026-10-13).
 - Others not retrievable this run; verify with eBay sold before buying.
+- 2026-10-13 – Terapeak 365d sold, query "spiral optic green glass vase": n=38, median $49.99, p25 $39.5, p75 $75 — e.g. $220.0 Duo 11 Fenton Spiral Optic Amber Cranb (); $48.0 Vintage 1950 s Fenton Emerald Green Sn () (generic queries can include unrelated items)
 
 ## Market
 High supply, high liquidity at low prices. Scandinavian and mid-century American sells quickly when signed/labelled; decor and depression pieces are slow.

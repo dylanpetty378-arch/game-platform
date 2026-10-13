@@ -34,6 +34,8 @@ No significant fakes. Reproduction parts (belts, bags) available.
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens median $117 for the Hoover Portable is an asking price. Estimates (general knowledge, verify): Hoover Portable in suitcase, complete, working $50–110; Kirby Classic $40–100 local; Royal metal hand vac working $25–45.
+- 2026-10-13 – Terapeak 365d sold, query "Hoover Portable vacuum in a suitcase": n=26, median $43.32, p25 $36.44, p75 $49.99 — e.g. $41.01 Vintage Hoover Canister Vacuum Cleaner (); $60.0  Vtg Hoover Portable Suitcase Vacuum C () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Kirby 1969 Kirby vacuum": n=3, median $8.95, p25 $7.95, p75 $8.95 — e.g. $45.0 1969 Kirby Classic 1 CR Vacuum Cleaner (); $7.95 3 Knurled Kirby Vacuum Brush Roll Belt () (generic queries can include unrelated items)
 
 ## Market
 Small collector niche; most sales local because of size and shipping. Slow.

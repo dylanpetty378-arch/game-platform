@@ -35,6 +35,7 @@ Reproduction Coca-Cola, beer and Moxie trays since the 1970s (often marked "repr
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no tin-plate data). Lens best match "MIB Ohio Art TIN Litho Plate THOMAS LAWRENCE 1974" with Lens median $8 (asking, 2026-10-13). Ladder above is general knowledge — verify.
+- 2026-10-13 – Terapeak 365d sold, query "Ohio Art tin litho plates": n=50, median $15, p25 $8.99, p75 $20 — e.g. $7.0 Vintage 1954 Ohio Art Tin Litho Toy Sm (); $6.0 Vtg Tea Set Plates Tin Litho Ohio Art () (generic queries can include unrelated items)
 
 ## Market
 Decorative tin plates: oversupplied, slow, low. Advertising trays: active collector market (breweriana, Coca-Cola collectors) but reproduction-heavy.

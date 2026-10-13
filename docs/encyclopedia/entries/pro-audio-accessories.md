@@ -38,6 +38,7 @@ Counterfeit Neutrik connectors (lighter, weak latch, no "Neutrik" logo moulded i
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens median $40 for both horn adapters is the seller's own Reverb asking price (unsold). Estimates (general knowledge, verify): lot of 10–12 mixed XLR/1/4" cables $25–45; Neumann EA 87 shock mount $100–180.
+- 2026-10-13 – Terapeak 365d sold, query "lot of audio cables": n=48, median $7, p25 $5.06, p75 $9.67 — e.g. $4.19 TypeC to Aux Cable USB Type C Male To (); $4.87 TypeC to Aux Cable USB Type C Male To () (generic queries can include unrelated items)
 
 ## Market
 Steady for branded studio gear; slow for generic cables and unknown adapters. Horn parts sell to a small vintage-PA/theatre audio niche – identified parts sell, unidentified ones linger.

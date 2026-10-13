@@ -29,6 +29,7 @@ Not applicable.
 
 ## Comps (sold, dated)
 None in our data. Lens median $30 (asking, shipping included).
+- 2026-10-13 – Terapeak 365d sold, query "Home Interiors lighthouse decor": n=7, median $9.95, p25 $8.5, p75 $12.67 — e.g. $9.04 Light Switch Plate Cover HOME DECOR WA (); $12.67 WARREN KIMBLE COASTAL BREEZE LIGHTHOUS () (generic queries can include unrelated items)
 
 ## Market
 Nostalgia buyers; slow; local pickup best.

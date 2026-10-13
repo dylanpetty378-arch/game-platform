@@ -36,6 +36,7 @@ Buy rule (short): Buy only rare cookie jars, large jardiniere/pedestal sets or r
 
 ## Comps (sold, dated)
 - No dated sold comps available this run (no web search, no Terapeak data). Estimates from general knowledge; verify.
+- 2026-10-13 – Terapeak 365d sold, query "McCoy aqua strap vase": n=5, median $42, p25 $26, p75 $45 — e.g. $42.0 Large Mccoy Matte Aqua Strap Vase (); $99.0 Vintage 1940s Nelson McCoy Pottery Rib () (generic queries can include unrelated items)
 
 ## Market
 - Huge supply; mid-century pieces sell slowly at modest prices. Jardinieres and pedestals are heavy and sell locally.

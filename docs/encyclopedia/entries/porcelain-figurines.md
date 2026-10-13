@@ -57,6 +57,8 @@ Broken and reglued fingers, hats, feathers, swords and lace are routine. Check f
 - 2021-01 – Blackwell Auctions – Hummel "Signs of Spring" #203 TMK-2 – $5,500 (estimonia)
 - 2021 – Smith Auction – pair Hummel Apple Tree Boy and Girl – $80 (estimonia)
 - 2015 – Kaminski – Lladró Don Quixote group – $2,300 (estimonia)
+- 2026-10-13 – Terapeak 365d sold, query "Fran Mar Moppets bisque figurine": n=3, median $13.5, p25 $8, p75 $13.5 — e.g. $15.0 1971 Bisque Figurine Girl And Boy On B (); $8.0 Fran Mar Japan Gorham Moppets Little G () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Gerold Porzellan Bavarian porcelain figurines": n=5, median $15, p25 $15, p75 $20 — e.g. $10.0 VTG GEROLD PORZELLAN BAVARIAN Porcelai (); $15.0 Vintage Gerold Porzellan Bavarian Butt () (generic queries can include unrelated items)
 
 ## Market
 Mass-market figurines are a falling, oversupplied market: estate sales are full of them and sell-through is low. Signed German art porcelain and early Hummels still sell steadily to collectors (Germany, Austria, US), often best through European auctions or eBay with international shipping.

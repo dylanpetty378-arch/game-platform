@@ -44,6 +44,7 @@ Chips on points and rims (ground down repairs leave flat rims), cloudy "sick" gl
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): starburst vanity tray $281 (wrong match to a Godinger listing), lead crystal tumbler $63. Ladder estimated.
+- 2026-10-13 – Terapeak 365d sold, query "Godinger starburst crystal tray": n=3, median $20, p25 $12, p75 $20 — e.g. $12.0 Godinger Dublin Crystal Vanity Tray Re (); $58.45 Set of 3 Shannon Godinger Crystal Silv () (generic queries can include unrelated items)
 
 ## Market
 Huge supply, weak demand for modern giftware (thrift-store staple). Waterford and ABP have steady buyers. EAPG is soft (aging collector base) except rare patterns and colours.

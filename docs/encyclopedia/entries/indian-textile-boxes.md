@@ -28,6 +28,7 @@ Mostly modern production sold as "vintage".
 
 ## Comps (sold, dated)
 None retrieved this run.
+- 2026-10-13 – Terapeak 365d sold, query "embroidered trinket box": n=50, median $14.99, p25 $11, p75 $18 — e.g. $14.99 Palestinian tarteez style geometric em (); $15.0 Vintage Framecraft Blue Trinket Box Po () (generic queries can include unrelated items)
 
 ## Market
 Slow, low-value decor.

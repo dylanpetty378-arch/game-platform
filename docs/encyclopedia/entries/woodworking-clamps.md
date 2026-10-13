@@ -41,6 +41,8 @@ None meaningful. Decorative "antique" hand screws are sometimes new import déco
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+- 2026-10-13 – Terapeak 365d sold, query "pipe clamps and bar clamp": n=50, median $22.93, p25 $17, p75 $128.99 — e.g. $13.37 Fuel Tool EFI Check Valve Rebuild Kit (); $252.02 16X Complete Front Strut Control Arms () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "wooden hand-screw clamp": n=49, median $19, p25 $10, p75 $25 — e.g. $26.47 Wood Clamp 7 10 12 Woodworking Gluing (); $55.99 POWERTEC 71839 Wooden Handscrew Clamp () (generic queries can include unrelated items)
 
 ## Market
 Mostly local market. Clamps are heavy and long, so eBay demand is for small specialty clamps and antique wooden hand screws (décor). Long clamps and pipe clamps sell locally on Facebook Marketplace and Craigslist at $5–15 each.

@@ -37,6 +37,7 @@ Alexander reissued 1950s designs; Ginny clones (Ginger, Muffie, Pam) and unmarke
 
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): McDonald's MA dolls sell in lots at $1–4 each; 1991–2000s 8" Disney/Mouseketeer Alexander or Ginny $20–50; 1950s bent-knee Wendy in original outfit $60–150.
+- 2026-10-13 – Terapeak 365d sold, query "Madame Alexander McDonald's 5in McDonald's Madame": n=7, median $8.99, p25 $4, p75 $10 — e.g. $8.99 Madame Alexander Wendy Doll McDonald s (); $10.0 Lot Of 10 Vintage McDonald s Madame Al () (generic queries can include unrelated items)
 
 ## Market
 Doll collecting is aging and prices have fallen sharply since 2000; only 1950s hard plastic in original condition sells well.

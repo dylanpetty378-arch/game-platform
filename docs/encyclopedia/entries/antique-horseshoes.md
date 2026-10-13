@@ -31,6 +31,7 @@ Cast-iron decorative "antique" horseshoes from China for crafts.
 
 ## Comps (sold, dated)
 No dated sold comps fetched this run.
+- 2026-10-13 – Terapeak 365d sold, query "vintage horseshoes": n=50, median $11.6, p25 $6.92, p75 $25.59 — e.g. $9.98 Vintage Good Luck Charm Puffy Heart Pe (); $12.58 Vintage Horseshoe Guitar Headstock Log () (generic queries can include unrelated items)
 
 ## Market
 Steady but low-ticket; summer seasonal.

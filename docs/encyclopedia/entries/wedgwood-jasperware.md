@@ -30,6 +30,7 @@ Fake "Wedgwood" marks rare; many imitators unmarked. Portland vase copies by Wed
 
 ## Comps (sold, dated)
 None in our DB; Lens median $25 (trinket dish listings). Estimates only.
+- 2026-10-13 – Terapeak 365d sold, query "Wedgwood blue jasperware plate": n=50, median $14.51, p25 $9.99, p75 $20.5 — e.g. $5.29 Vintage WEDGWOOD CHRISTMAS 1970 1984 B (); $16.82 Wedgwood Jasperware Christmas Collecto () (generic queries can include unrelated items)
 
 ## Market
 High volume, low price for common pale blue; strong for rarities.

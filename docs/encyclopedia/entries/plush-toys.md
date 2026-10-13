@@ -29,6 +29,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run.
+- 2026-10-13 – Terapeak 365d sold, query "Melissa & Doug giant plush giraffe": n=14, median $49.95, p25 $41.99, p75 $59 — e.g. $101.29 Melissa Doug Giant Giraffe Lifelike Pl (); $45.0 Jumbo Giant plush stuffed Giraffe 55 () (generic queries can include unrelated items)
 
 ## Market
 Huge volume.

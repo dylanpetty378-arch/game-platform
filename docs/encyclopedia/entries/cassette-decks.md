@@ -33,6 +33,7 @@ Not applicable (no fakes). Watch for "serviced" claims without proof.
 
 ## Comps (sold, dated)
 No dated sold comps retrievable this run (no web search; no Terapeak rows). Lens median $169 for the stack is asking/mixed. Pull Terapeak "Yamaha K-903", "Sanyo RD-W41" before considering.
+- 2026-10-13 – Terapeak 365d sold, query "Sanyo RD-W41 double cassette deck": n=4, median $50, p25 $9.99, p75 $65.66 — e.g. $9.99 Sanyo RD W41 Stereo Double Cassette De (); $65.66 Vintage Sanyo RD W41 Dual Double Stere () (generic queries can include unrelated items)
 
 ## Market
 Cassette revival keeps demand steady (2019–); working decks sell in 1–3 weeks; non-working mass-market decks languish. Nakamichi sells fast at any condition.

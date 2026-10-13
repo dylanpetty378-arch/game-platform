@@ -47,6 +47,8 @@ Chips to stopper or neck, stuck stoppers, missing daubers, cloudy "sick" glass i
 
 ## Comps (sold, dated)
 No dated sold comps available this run (no Terapeak rows in comps.jsonl, no web search). Lens medians from our sweep: Lanvin Arpège extrait 15 ml (asking-price heavy) $44; Matson ormolu rose bottle $75. Treat all numbers as estimates.
+- 2026-10-13 – Terapeak 365d sold, query "Lanvin Arpege extrait perfume and box": n=22, median $60, p25 $45, p75 $80.99 — e.g. $50.0 Lanvin Arpege Parfum Extrait Splash 15 (); $60.0 Lanvin Arpege EXTRAIT Parfum Splash 8c () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Matson ormolu crystal perfume bottle": n=20, median $36, p25 $29.75, p75 $50 — e.g. $22.95 Vintage Matson Dogwood Floral Gold Orm (); $30.0 Signed Matson Crystal Perfume Bottle G () (generic queries can include unrelated items)
 
 ## Market
 Two buyer pools: vintage-fragrance wearers (pay for juice: full, sealed, old formula) and bottle collectors (pay for glass: Czech, Lalique, atomizers). Ormolu vanity bottles are plentiful and slow (weeks to months). Sealed pre-1980 extraits sell in days to weeks.

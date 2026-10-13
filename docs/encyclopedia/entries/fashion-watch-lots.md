@@ -50,6 +50,8 @@ Photo tells:
 - 2026 (undated) · eBay.de product page · ESQ Watch Co. chronograph E5290 stainless Swiss quartz · sold out, price not shown · https://www.ebay.de/itm/257222380862
 - 2026 (current) · Etsy · NIB vintage Jostens Montreux commemorative watch · $45 ask; Jostens Swiss quartz Komatsu Dresser advertising watch · $39.98 ask · https://www.etsy.com/market/jostens_wrist_watch
 Sold comps for fashion-watch lots and Jostens gold watches could not be retrieved. Figures above are estimates.
+- 2026-10-13 – Terapeak 365d sold, query "fashion watch lots": n=42, median $17.2, p25 $11.26, p75 $24.4 — e.g. $24.4 8oz Mystery Jewelry Jar All Wearable Watch W/ Batt In E (Oct 5, 2026); $8.95 1pc / lot Cheap Watches For Men Fashion Nylon Band Mili (Oct 9, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "ESQ assorted wristwatches": n=4, median $33, p25 $12.5, p75 $89 — e.g. $147.5 Seiko Timex Citizen ESQ Mixed Lot Wristwatches Assorted (Oct 11, 2026); $12.5 Lot Of 14 Assorted Women's Mens  Costume/designer Wrist (Aug 4, 2026) (generic queries can include unrelated items)
 
 ## Market
 A huge, fast market for good watches; fashion lots are oversupplied. Gold-cased watches are liquid (scrap or eBay) and track the gold price. With gold above $4,000/oz in 2026, solid 14K vintage ladies' watches sell readily for $200–450. Collectible mechanicals sell in days. Fashion quartz lots sit for months.

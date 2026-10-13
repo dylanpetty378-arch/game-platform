@@ -29,6 +29,7 @@ Distressed "antique" decor mallets.
 
 ## Comps (sold, dated)
 None gathered. Lens median $185 on example is asking/decor-shop.
+- 2026-10-13 – Terapeak 365d sold, query "Forster croquet set": n=50, median $75, p25 $42.99, p75 $120 — e.g. $28.95 Set of 2 Vintage Forster Croquet Wood (); $10.0 Vintage Croquet Set Forester Model 377 () (generic queries can include unrelated items)
 
 ## Market
 Spring/summer local; shipped sales rare.

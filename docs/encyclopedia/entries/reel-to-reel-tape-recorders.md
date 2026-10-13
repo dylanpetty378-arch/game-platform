@@ -31,6 +31,7 @@ Not faked; new "Ballfinger" and Thorens decks exist at $10k+ but aren't confused
 
 ## Comps (sold, dated)
 - No sold comps in our data; values are estimates (general knowledge, verify). Lens median $200 for Akai M-9 (asking-weighted).
+- 2026-10-13 – Terapeak 365d sold, query "Akai M-9 reel-to-reel recorder": n=27, median $125, p25 $22.82, p75 $150 — e.g. $13.99 Tape Recorder Belt for AKAI Reel To Re (); $4.88 AKAI M 9 Open Reel Tape Deck PART OEM () (generic queries can include unrelated items)
 
 ## Market
 Active audiophile market; working serviced decks sell fast; untested sell slowly at low prices. Most buyers want local pickup.

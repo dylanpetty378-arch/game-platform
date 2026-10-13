@@ -33,6 +33,7 @@ New speckled camp enamelware (Crow Canyon, GSI) and Asian swirl reproductions; C
 
 ## Comps (sold, dated)
 No dated sold comps available this run (no web search, none in comps.jsonl). Lens medians from listings: grey platter $32, enamel stock pot $78 (asking-heavy, unverified).
+- 2026-10-13 – Terapeak 365d sold, query "gray graniteware platter": n=6, median $24, p25 $16.19, p75 $40 — e.g. $55.0 Vintage Gray Swirl Enamelware Platter (); $40.0 Antique Gray Graniteware Platter ca la () (generic queries can include unrelated items)
 
 ## Market
 Decor and camping buyers; Scandinavian modern is fast-moving.

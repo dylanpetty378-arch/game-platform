@@ -36,6 +36,8 @@ Chinese reproduction pocket tins of scarce brands (Forest & Stream, Hiawatha, Di
 
 ## Comps (sold, dated)
 No dated sold comps this run. Estimates (general knowledge, verify): Prince Albert pocket tin $5–12; Kentucky Club pocket tin $15–30; Tuxedo green portrait pocket tin $15–35; lot of 10 mixed common pocket tins $40–90.
+- 2026-10-13 – Terapeak 365d sold, query "Edgeworth tobacco tin": n=50, median $13.99, p25 $10, p75 $26 — e.g. $19.51 man cave bathroom wall decor Edgeworth (); $50.0 Vintage Advertising Edgeworth Tobacco () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Sir Walter Raleigh tobacco tins": n=50, median $15.96, p25 $8.5, p75 $30 — e.g. $16.03 1950s SIR WALTER RALEIGH SMOKING TOBAC (); $4.56 Sir Walter Raleigh Smoking Tobacco Tin () (generic queries can include unrelated items)
 
 ## Market
 Big collector base, heavy supply of commons. Common tins sell slowly in singles and better in lots. No strong seasonality.

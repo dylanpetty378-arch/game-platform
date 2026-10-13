@@ -45,6 +45,7 @@ Fake Rolex/Omega/Cartier common in lots; Franken-watches (case of one, movement 
 ## Comps (sold, dated)
 - Terapeak 365-day query "fashion watch lots" (run terapeak-wave1, recorded 2026-10): median $17.20, n=42, p25 $11.26, p75 $24.40 (sold). Source: /home/claude/game-platform/db/comps.jsonl.
 - No other sold comps retrievable this run; vintage mechanical ranges above are general knowledge, verify.
+- 2026-10-13 – Terapeak 365d sold, query "Bulova Timex case of wristwatches and": n=13, median $60, p25 $21.5, p75 $101 — e.g. $13.5 Mixed Vintage Watch Project Lot Cases (); $46.5 1950 s Bulova 17j Tonneau Case Palomar () (generic queries can include unrelated items)
 
 ## Market
 High volume: thousands of vintage watch sales per month on eBay. Running 1950s–60s Bulova/Elgin automatics sell in 1–3 weeks at $40–100. Repair/parts lots sell well to watchmakers ($3–8 per mechanical watch). Showcase-priced watches are retail; there is no margin.

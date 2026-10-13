@@ -56,6 +56,9 @@ Buy rule (short): Buy only pre-1960 German/Japanese/US glass, Dresden, papier-m�
 
 ## Comps (sold, dated)
 - No dated sold comps could be retrieved this run (search budget exhausted, eBay sold blocked). The figures above are estimates. Pull Terapeak comps for "shiny brite box", "ceramic christmas tree atlantic mold", "dresden ornament" and "belsnickle" before the first buy in this category.
+- 2026-10-13 – Terapeak 365d sold, query "vintage christmas decorations": n=44, median $12.26, p25 $9, p75 $17.88 — e.g. $30.43 NEW 2026 Swarovski 5718051 Annual Edition Large Christm (Sep 1, 2026); $12.26 24/48PCS Flameless LED Tea Lights Votive Candles Lamp D (Aug 16, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Color Clings holographic window clings": n=5, median $11.99, p25 $8.49, p75 $14.99 — e.g. $14.99 Vintage Valentine Window Clings Made I (); $8.49 Halloween Holographic Color Clings Win () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Jasco ceramic Christmas trivets": n=24, median $9, p25 $5.62, p75 $9.99 — e.g. $9.0 Vintage 1982 Jasco Christmas Ceramic T (); $6.95 1982 JASCO Christmas Ceramic Trivet Co () (generic queries can include unrelated items)
 
 ## Market
 Strongly seasonal. Demand and prices rise from mid-September through mid-December and fall by half after Christmas. Volume is very high: tens of thousands of ornament and décor listings in Q4. Shiny Brite and ceramic trees have broad buyer pools. Dresden and Belsnickles go to specialist collectors and auction houses.

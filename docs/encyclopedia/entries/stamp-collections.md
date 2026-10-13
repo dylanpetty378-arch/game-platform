@@ -29,6 +29,7 @@ Forgeries mostly affect classic high-value stamps (needs expertising — profess
 
 ## Comps (sold, dated)
 None gathered this run; estimates only (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "stamp albums and loose stamps": n=49, median $100, p25 $49.95, p75 $127.5 — e.g. $272.71 HUGE 17 Pounds Worldwide Stamp Collect (); $49.95 5 Pounds of Loose Stamp Album Stock Bo () (generic queries can include unrelated items)
 
 ## Market
 Huge supply, declining collector base; most lots sit. Good classic material sells fast to dealers.

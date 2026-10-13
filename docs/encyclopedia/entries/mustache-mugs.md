@@ -35,6 +35,7 @@ Broken mustache guard edge (common), rim chips, hairline cracks, gilt wear, stai
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no data). Lens best match "China Moustache Cup - Etsy UK" with Lens median $30 (asking, 2026-10-13). Verify before acting.
+- 2026-10-13 – Terapeak 365d sold, query "ironstone mustache mug": n=7, median $14.44, p25 $7, p75 $18 — e.g. $12.5 Rare Royal CrownFord Ironstone Staffor (); $7.0 ROYAL CROWNFORD Ironstone Your Father () (generic queries can include unrelated items)
 
 ## Market
 Small, steady collector market; sells slowly at moderate prices; gift buyers in barbering/beard community.

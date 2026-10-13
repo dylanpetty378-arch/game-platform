@@ -53,6 +53,7 @@ A turntable is the platter/tonearm unit of a hi-fi system (no built-in speakers 
 
 ## Comps (sold, dated)
 No dated sold comps were pulled this run (no web search budget; nothing in comps.jsonl). Lens median for the Dual CS-608 example: $170 (asking/mixed). Pull Terapeak "Technics SL-1200MK2", "Dual CS-608", "Stanton T.62" before any buy.
+- 2026-10-13 – Terapeak 365d sold, query "Technics record player": n=48, median $13.98, p25 $11.56, p75 $19.35 — e.g. $13.87 Technics Mirror Purple White on Black (); $13.24 Technics Classic White on Black DJ sli () (generic queries can include unrelated items)
 
 ## Market
 Steady demand all year; vinyl revival keeps working mid-fi decks moving within 1–3 weeks at fair price. Technics 1200s sell in days. Local pickup sales do better than shipped for anything under $150 because shipping is $35–60.

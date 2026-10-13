@@ -29,6 +29,7 @@ Brass hard-hat helmets are almost always reproductions. Regulators rarely faked.
 
 ## Comps (sold, dated)
 None gathered.
+- 2026-10-13 – Terapeak 365d sold, query "scuba tank with backplate": n=47, median $32.95, p25 $24.99, p75 $56 — e.g. $20.07 Aluminum Black Single Tank Adapter Scu (); $23.79 Aluminum Alloy Scuba Diving Single Tan () (generic queries can include unrelated items)
 
 ## Market
 Small but active collector community (vintage double-hose divers). Tanks themselves are commodity.

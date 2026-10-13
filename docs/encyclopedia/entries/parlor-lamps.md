@@ -40,6 +40,8 @@ Buy rule (short): Buy only Victorian lamps with original matching shade and burn
 
 ## Comps (sold, dated)
 - No dated sold comps available this run (no web search, no Terapeak data). Estimates only; verify.
+- 2026-10-13 – Terapeak 365d sold, query "banquet Gone with the Wind lamp": n=50, median $139, p25 $35, p75 $200 — e.g. $9.92 Brass Ball Shade Top Ring Topper for B (); $9.45 POLISHED Brass Trim Ring for glass bal () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "hand-painted Gone with the Wind parlor": n=50, median $89.99, p25 $52, p75 $133.65 — e.g. $350.0 Vtg GONE w the WIND Hand Painted Flora (); $335.0 Antique Gone With The Wind Parlor Lamp () (generic queries can include unrelated items)
 
 ## Market
 - Market fell sharply after 2010; decorator demand weak. Most sell locally due to shipping fragility. eBay sell-through low for shipped lamps.

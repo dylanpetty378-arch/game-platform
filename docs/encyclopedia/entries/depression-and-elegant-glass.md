@@ -58,6 +58,9 @@ Buy rule (short): Only buy a specific scarce shape in a collected pattern, ident
 - 2026-06-28 / 2026-08-09 – eBay – Westmoreland Swirl and Ball ruby-flash candy dish – $20 each (median $15.50, n=8)
 - 2026-09-11 – eBay – "LE Smith Moon & Star Amberina compote 6½"" – $31.63 (query median $29, n=50)
 - 2026-08-31 – eBay – "Mosser Bathing Beauty Ballerina cobalt dish" – $29.77 (new ones $36.95)
+- 2026-10-13 – Terapeak 365d sold, query "depression elegant glass": n=50, median $15.5, p25 $9.8, p75 $23.2 — e.g. $15.76 JADEITE GREEN DEPRESSION STYLE GLASS BUTTER DISH w/ LID (Jun 6, 2026); $20.86 Green Depression Style Glass Rooster Chicken Figurine,  (Sep 18, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Westmoreland Swirl and Ball ruby flash": n=6, median $14, p25 $11.99, p75 $15.5 — e.g. $20 Vintage Westmoreland Swirl and Ball Clear Glass Pedesta (Jun 28, 2026); $15.5 Westmoreland Swirl and Ball Ruby Flash Vintage Glass Ca (Apr 6, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Anchor Hocking pressed glass reamer": n=44, median $10, p25 $7.64, p75 $14 — e.g. $16.95 Vnt. 60’s Anchor Hocking Clear Ribbed 6" Glass Juicer R (Dec 18, 2025); $6.95 Vtg 60s Glass Juicer Anchor Hocking Criss Cross 6" Ream (Jul 1, 2026) (generic queries can include unrelated items)
 
 ## Market
 - Depression glass prices fell 50–80% from their 1990s peak as collectors aged; ordinary pieces now sell slowly at $10–40. Scarce shapes in green Cameo, pink Mayfair, Royal Lace cobalt and jadeite still sell, mostly to completist collectors.

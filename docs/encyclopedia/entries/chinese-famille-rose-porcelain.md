@@ -38,6 +38,7 @@ The single most faked area in Asian ceramics. Assume any "imperial" piece in a C
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl; no web search. Lens median $300 for the example is asking/Etsy pricing.
+- 2026-10-13 – Terapeak 365d sold, query "famille rose vase": n=50, median $52.5, p25 $28, p75 $100 — e.g. $75.33 Chinese Qing Qianlong Green Famille Ro (); $75.0 Chinese Famille Rose 18 Poem Vase Porc () (generic queries can include unrelated items)
 
 ## Market
 Very large, liquid at the high end (Asian buyers), slow and glutted at the PRC decorative end.

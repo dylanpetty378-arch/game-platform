@@ -35,6 +35,7 @@ Fake Tiffany/Cartier common; fake gold marks rare but exist. Luxury brands need 
 
 ## Comps (sold, dated)
 None in our data. Lens median $21 for the sweep example fits base-metal Swank.
+- 2026-10-13 – Terapeak 365d sold, query "Swank silver-tone cufflinks": n=50, median $12.2, p25 $10, p75 $18.74 — e.g. $9.99 Vintage SWANK Silver Tone Cuff Links S (); $18.74 Swank Jaguar XK120 Silver Tone Cufflin () (generic queries can include unrelated items)
 
 ## Market
 Very high volume, mostly low prices; lots of 20–50 pairs sell to crafters/resellers at $1–3/pair.

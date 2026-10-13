@@ -49,6 +49,7 @@ Duncan reissued wooden "Throwback"/"Retro" Butterflies and Tournaments (2000s–
 
 ## Comps (sold, dated)
 No dated sold comps could be pulled this run (no web search budget; no Terapeak rows in db/comps.jsonl). Pull Terapeak "yomega lot", "duncan wood tournament", "cheerio yo-yo" before buying anything above $25. Lens median for example 7979891673 was $70 (asking listings, not sold).
+- 2026-10-13 – Terapeak 365d sold, query "Duncan Yomega yo-yo collection": n=6, median $43.23, p25 $13, p75 $110 — e.g. $43.23 Vintage Yo Yo Lot 11pc Duncan Yomega B (); $7.77 Duncan ProYo Yo Yo Lot 5 Pc Bundle Yom () (generic queries can include unrelated items)
 
 ## Market
 Large supply of 1990s plastic (millions sold in the 1998–99 craze); slow, cheap market for loose lots, a few lots per day on eBay at $15–40. Wooden pre-1960 and boutique metal sell steadily to collectors. Yo-yo forums (YoYoExpert, r/Throwers BST) are better than eBay for boutique metal.

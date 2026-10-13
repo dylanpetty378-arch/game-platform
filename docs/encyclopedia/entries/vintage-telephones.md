@@ -38,6 +38,8 @@ Modern "retro" reproductions (Crosley, Mid-Century Modern) look like 302s and 50
 
 ## Comps (sold, dated)
 No dated comps pulled this run. Lens median for the 1995 Coca-Cola disc phone: $49 (asking-heavy). Pull Terapeak "Western Electric 302" and "Coca-Cola disc phone" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "rotary telephone": n=50, median $12.3, p25 $5.86, p75 $53.21 — e.g. $60.06 Telephone Pulse to Tone converter for (); $3.79 ONE Rotary Telephone Dial Card Insert () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Coca-Cola 1995 disc telephone": n=28, median $22, p25 $13.5, p75 $36 — e.g. $54.0 3 Vintage Coca Cola Blinking Disc Tele (); $12.27 1995 Coca Cola Disc Telephone W Neon B () (generic queries can include unrelated items)
 
 ## Market
 Steady decor/prop demand; colored phones sell in 1–3 weeks. Common brown/beige phones sit.

@@ -40,6 +40,9 @@ Asian knock-offs and resin copies; Goebel itself reissued older models in later 
 
 ## Comps (sold, dated)
 None in our data. Lens median $400 refers to large lots/rare pieces, not singles. Run Terapeak "hummel lot" (lots of 10–25 typically $100–350, general knowledge).
+- 2026-10-13 – Terapeak 365d sold, query "hummel full bee TMK2": n=49, median $25 — e.g. p25 17 p75 45; $70 Hear Ye 15/0, $45 Prayer Before Battle, $106 Angel Serenade TMK1/2 (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "hummel full bee lot": n=18, median $29 — e.g. p25 18 p75 54 (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Goebel M J Hummel figurines": n=50, median $19.99, p25 $15, p75 $25 — e.g. $65.95 Vintage 1951 M J HUMMEL GOEBEL W Germa (); $27.5 M J Hummel Goebel Stormy Weather 71 6 () (generic queries can include unrelated items)
 
 ## Market
 Very high supply, aging buyers; singles slow except early marks. Lots sell reasonably to resellers. International buyers (Germany) help.

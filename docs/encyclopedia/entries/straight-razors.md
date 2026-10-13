@@ -41,6 +41,10 @@ Fake Wade & Butcher etchings exist on cheap Pakistani razors; modern Pakistani "
 
 ## Comps (sold, dated)
 No dated comps pulled this run. Before buying, pull Terapeak "straight razor lot", "P. Wichert razor", "NOS German straight razor box" — sold boxed German razors from US retailers typically land $30–70 each (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "vintage straight razor lot": n=50, median $40 — e.g. p25 22.5 p75 72; lots of 3–6 often $10–20 (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "heartring straight razor": n=5, median $30 — e.g. $25–45 singles (some restored) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "9 antique straight razors": n=25, median $61, p25 $23.49, p75 $96 — e.g. $96.0 LOT OF 9 ANTIQUE STRAIGHT RAZORS VINTA (); $125.0 antique leather Salesman s STRAIGHT RA () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "antique straight razor": n=50, median $28, p25 $15, p75 $60 — e.g. $12.33 Official Barber Straight Razor US Pate (); $5.03 Men Folding Shaving Razor Antique Blac () (generic queries can include unrelated items)
 
 ## Market
 Very liquid on eBay: active shaving and restoration communities buy daily. Lots of 5–10 razors sell within days; restorers pay $8–20 each for rusty named razors.

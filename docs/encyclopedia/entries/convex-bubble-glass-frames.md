@@ -32,6 +32,8 @@ Buy rule (short): Pass almost always: large, fragile and heavy for low resale; o
 
 ## Comps (sold, dated)
 - No dated sold comps available this run (no web search, no Terapeak data). Estimates; verify.
+- 2026-10-13 – Terapeak 365d sold, query "oval convex glass frames": n=50, median $39.95, p25 $30, p75 $65 — e.g. $20.0 Replacement Rectangle Convex Bubble Gl (); $19.95 Antique Curved Bubble Glass Convex REP () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Victorian bubble glass oval frame": n=47, median $65, p25 $38, p75 $84 — e.g. $20.0 Replacement Rectangle Convex Bubble Gl (); $66.25 Set of 2 VTG Oval Brass Ornate Frames () (generic queries can include unrelated items)
 
 ## Market
 - Local pickup market (decorators, Halloween/oddity buyers like creepy portraits). Shipping kills eBay margins.

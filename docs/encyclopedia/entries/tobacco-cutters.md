@@ -29,6 +29,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run.
+- 2026-10-13 – Terapeak 365d sold, query "tobacco leaf cutter": n=18, median $25, p25 $18.66, p75 $51 — e.g. $35.0 Cigar Tobacco Leaf Cap Cutter for ciga (); $22.0 30 s Vintage Chandler Antique Cast Iro () (generic queries can include unrelated items)
 
 ## Market
 Small collector market.

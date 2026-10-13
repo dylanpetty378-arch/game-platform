@@ -29,6 +29,7 @@ Hasbro retro reissues (2010s–2020s "Nerf Retro" boomerang) — check date/box.
 
 ## Comps (sold, dated)
 None this run. Lens median $29 for the example agrees with low tier.
+- 2026-10-13 – Terapeak 365d sold, query "Parker Brothers 1983 Nerf boomerang": n=10, median $25, p25 $20, p75 $33 — e.g. $39.0 Vintage RARE Green NERF BOOMERANG Foam (); $45.0 Vintage RARE Green NERF BOOMERANG Foam () (generic queries can include unrelated items)
 
 ## Market
 Nostalgia steady; loose slow.

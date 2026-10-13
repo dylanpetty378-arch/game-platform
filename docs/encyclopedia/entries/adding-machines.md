@@ -35,6 +35,7 @@ Curta replicas/3D-printed copies exist; otherwise none.
 
 ## Comps (sold, dated)
 No dated sold comps fetched this run. Sweep Lens median $160 skews to asking prices.
+- 2026-10-13 – Terapeak 365d sold, query "Victor mechanical adding machine": n=14, median $45, p25 $30, p75 $55.58 — e.g. $55.58 Vintage Victor Mechanical Adding Machi (); $52.0 Vtg Victor Mechanical Adding Machine 8 () (generic queries can include unrelated items)
 
 ## Market
 Slow for common models; decor buyers. Heavy shipping deters.

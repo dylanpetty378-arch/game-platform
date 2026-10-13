@@ -35,6 +35,7 @@ Inkjet/laser copies of famous images; reprinted panoramas from LOC files; "Old W
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no photo data). Lens best match "1928 St. John's Lutheran Church on Cable Avenue..." with Lens median $175 (asking for a different photo, 2026-10-13). Verify with eBay sold "panoramic photo church" before acting.
+- 2026-10-13 – Terapeak 365d sold, query "1940 group photo": n=50, median $10, p25 $4, p75 $15.95 — e.g. $118.58 1967 91 Vintage IRVING PENN San Franci (); $17.99 Interview with the Vampire Anniversary () (generic queries can include unrelated items)
 
 ## Market
 Huge supply. Subject-led sales; church panoramas sell mainly to local church members or genealogy buyers, slowly. Military panoramas and sports sell faster.

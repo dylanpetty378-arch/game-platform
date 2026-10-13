@@ -30,6 +30,7 @@ Mass-produced "aged" finish imports sold as antique. Rarely worth faking.
 
 ## Comps (sold, dated)
 None in our data. Lens median $50 for the sweep example (asking).
+- 2026-10-13 – Terapeak 365d sold, query "ceramic sun face plaque": n=50, median $23.96, p25 $18, p75 $35.88 — e.g. $22.0 Rustic Sun Face Plaque Pottery Wall Ar (); $18.5 Vtg Yellow Sun Face Garden Wall Art Pl () (generic queries can include unrelated items)
 
 ## Market
 Low demand, decor buyers; slow (weeks–months).

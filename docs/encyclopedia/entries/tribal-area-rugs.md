@@ -40,6 +40,7 @@ Chemically aged and "antique washed" new rugs presented as old; painted-in wear;
 ## Comps (sold, dated)
 - 2025-10 to 2026-10 – eBay via Terapeak – "Aubusson-style needlepoint rug" median $150, n=49 (adjacent category; comps.jsonl).
 - No knotted tribal comps retrieved this run; Lens medians of $2,000–2,900 are dealer asks for unrelated large rugs. General knowledge (verify): 2x3 Pakistani Bokhara mats sell ~$25–60 on eBay.
+- 2026-10-13 – Terapeak 365d sold, query "hand-knotted Turkish Anatolian rug": n=44, median $115.5, p25 $65, p75 $194.32 — e.g. $194.32 1980s Geometric Turkish Vintage Area R (); $68.87 Vintage 1990s Turkish Small 1 6x3 1 ft () (generic queries can include unrelated items)
 
 ## Market
 Big but buyer-picky; small rugs sell steadily; rug dealers dominate quality pieces. Decor trend favours faded Oushak/Turkish looks.

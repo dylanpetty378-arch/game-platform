@@ -33,6 +33,7 @@ No fakes as such. Reissue OS models (2000s Asian "OS 21" etc.) look like vintage
 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for the 1969 OS 15-chord example was $275, which is asking-price data and unrealistic for a case-less one; general knowledge puts case-less vintage 15-bar OS sales at about $90–160 (estimate, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Oscar Schmidt 1969 15-chord autoharp": n=17, median $140, p25 $102, p75 $185 — e.g. $165.0 Oscar Schmidt Autoharp model 15 EBH 15 (); $229.99 Vintage 1960s Oscar Schmidt 36 string () (generic queries can include unrelated items)
 
 ## Market
 Steady, but the buyers are folk/church players and the occasional collector. eBay sells roughly 80–150 autoharps per month, mostly basic OS models. Days to sell: 14–45.

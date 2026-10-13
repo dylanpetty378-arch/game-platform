@@ -53,6 +53,7 @@ Buy rule (short): Only Toledo/Computing-Scale fan or candy scales and complete b
 - 2026-09-01 – eBay – "Vintage Miniature Red Cast Iron Kitchen Balance Scale w/ Weights" – $20 (n=39, median $19.95)
 - 2026-04-20 – eBay – "Antique Brass & Cast Iron Fairbanks Postal Scale" – $60 (median $30)
 - 2026-03-27 – eBay – "Rare Antique 1912 American Family Counter Scale Green" – $78
+- 2026-10-13 – Terapeak 365d sold, query "antique scales": n=50, median $13.75, p25 $7.89, p75 $19.74 — e.g. $15.41 Antique Brass Polished Balance Scale with Velvet Box wi (Oct 11, 2026); $14.02 Antique Brass Polished Balance Scale with Wooden Base A (Sep 11, 2026) (generic queries can include unrelated items)
 
 ## Market
 - Steady but small collector/decorator market (farmhouse decor, general-store collectors). Candy scales sell in weeks; heavy counter scales sit unless local pickup.

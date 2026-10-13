@@ -39,6 +39,8 @@ Rampant for WWII squadron, NASA, OA and Harley patches; reissues of jamboree pat
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+- 2026-10-13 – Terapeak 365d sold, query "Arctic Cat embroidered patches": n=50, median $12, p25 $9, p75 $27.99 — e.g. $4.97 Arctic Cat Embroidered Iron On Patch B (); $4.95 Arctic Cat Head Embroidered Iron On Pa () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Presidential Physical Fitness award patches": n=50, median $8.99, p25 $5.06, p75 $9.99 — e.g. $4.4 NOS Eagle USA Shield PRESIDENTIAL PHYS (); $4.99 PATCH PRESIDENTIAL PHYSICAL FITNESS AW () (generic queries can include unrelated items)
 
 ## Market
 Large, liquid among collectors for scout and military; brand patches sell to nostalgia buyers and jacket customisers. Commons sit forever; good singles sell in 1–3 weeks.

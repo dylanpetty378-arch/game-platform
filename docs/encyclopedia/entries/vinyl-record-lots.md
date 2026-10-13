@@ -43,6 +43,8 @@ Counterfeit pressings of rare titles (Beatles, Elvis Sun, Velvet Underground, pu
 
 ## Comps (sold, dated)
 No dated comps pulled this run. Lens median for the George Benson pair: $20. Use Discogs "sold" history for the exact pressing (catalog number + matrix) — it's the standard reference.
+- 2026-10-13 – Terapeak 365d sold, query "George Benson 33 LP records": n=50, median $12, p25 $5.26, p75 $17.23 — e.g. $22.71 George Benson Breezin New Vinyl LP Blu (); $4.19  U PICK 5 EA R B JAZZ FUNK EX TO MINT () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Heart box of vinyl LPs": n=50, median $236.32, p25 $43.19, p75 $398.5 — e.g. $306.17 Yoko Shimomura Kingdom Hearts 20th Ann (); $9.52 Classic Rock Vinyl Records LPs Albums () (generic queries can include unrelated items)
 
 ## Market
 Liquid market (eBay, Discogs). Common titles move slowly at low prices; rare titles sell fast. Lots sell to dealers at $1–2/record.

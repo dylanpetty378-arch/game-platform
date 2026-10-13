@@ -31,6 +31,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run.
+- 2026-10-13 – Terapeak 365d sold, query "mini copper molds": n=50, median $15.5, p25 $12, p75 $19.99 — e.g. $72.36 Set of 4 or 6 Copper Canele Pastry Mol (); $9.38 Wiha 35392 5 piece Micro Metric Short () (generic queries can include unrelated items)
 
 ## Market
 Decorative molds: oversupplied, slow. Heavy French copper: liquid, strong buyer base (cooks and collectors).

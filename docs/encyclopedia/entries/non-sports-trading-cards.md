@@ -33,6 +33,7 @@ Reprints of Mars Attacks, Star Wars 1977, GPK; counterfeit unopened boxes (resea
 
 ## Comps (sold, dated)
 None retrieved this run. Verify on 130point/eBay sold.
+- 2026-10-13 – Terapeak 365d sold, query "Marvel Marvel trading cards": n=49, median $1.27, p25 $1.02, p75 $1.84 — e.g. $1.09 2026 Topps Marvel Chrome Comic Base Ca (); $1.38 2026 Topps Chrome MARVEL COMICS Base C () (generic queries can include unrelated items)
 
 ## Market
 Huge volume; 1990s commons have near-zero demand singly. Lots sell for pennies/card. Graded/vintage moves fast.

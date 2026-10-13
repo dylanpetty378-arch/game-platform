@@ -30,6 +30,7 @@ Godox rebrands; counterfeits not significant.
 
 ## Comps (sold, dated)
 None this run. Lens median $407 for the example was matching new Amazon kits — asking/new prices, not used sold.
+- 2026-10-13 – Terapeak 365d sold, query "bag with tripod and backdrops": n=6, median $33.68, p25 $23.95, p75 $40 — e.g. $23.95 4 Pack Heavy Duty Black Yellow Sand Sa (); $64.95 PRO PHOTO STUDIO LIGHT BACKDROP FRAME () (generic queries can include unrelated items)
 
 ## Market
 Used budget gear competes with $40–80 new Amazon kits: slow, low. Pro strobes sell fast to photographers.

@@ -50,6 +50,7 @@ Chips on ears, tusks, beaks, fins and rims; internal cracks (stress fractures) i
 - 2026 – eBay – "Arte Murano ICET" amber elephant 4.5" – $54.90 ask, unsold (https://www.ebay.de/itm/133057450614) – souvenir ceiling
 - 2026 – Chairish – Dynasty Gallery "Murano-style" cased glass parrot 10" – $157 ask (https://www.chairish.com/product/36194104/1970s-vintage-dynasty-gallery-murano-style-cased-glass-parrot) – dealer price; eBay sold typically $30–60
 - Quittenbaum Murano auctions list Fratelli Toso 1930s small elephant and Poli pulegoso vase (https://www.quittenbaum.de/en/auctions/murano-glass/181B/toso-fratelli-murano-small-elephant-elefante-1930s-141402/) – prices realised behind login
+- 2026-10-13 – Terapeak 365d sold, query "Murano ICET amber art glass elephant": n=4, median $22, p25 $16, p75 $22.49 — e.g. $16.0 VTG Arte Murano ICET Amber Art Glass E (); $22.49 Vintage Arte Murano ICET Amber Art Gla () (generic queries can include unrelated items)
 
 ## Market
 Genuine mid-century Murano sells well and fast (international demand; dealers buy at estate sales). Souvenir figurines and Asian "Murano-style" pieces are oversupplied; most sell under $40 if at all. Sellers widely title any blown glass as "Murano".

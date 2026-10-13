@@ -59,6 +59,7 @@ Tells that something is better:
 - 2019-03 – Potteries Auctions – Moorcroft Prestige London vase, limited edition 131 – £1,500 (same source)
 - 2026-10 – eBay asking – China Blue for Seymour Mann 14" vases, pair – $59.98 asking, unsold (https://www.ebay.de/itm/376676513968) – shows the ceiling for this tier
 No dated sold comps found for Madison & Max or Andrea by Sadek; estimate $10–30.
+- 2026-10-13 – Terapeak 365d sold, query "Seymour Mann China Blue porcelain": n=50, median $23, p25 $13, p75 $30.6 — e.g. $19.99 CHINA BLUE PORCELAIN PITCHER VASE SEYM (); $17.49 Seymour Mann China Blue Fine Porcelain () (generic queries can include unrelated items)
 
 ## Market
 Mass-market import vases: high supply, slow. Many sit 60–180 days at $20–40. Moorcroft and Nippon sell steadily (weeks). Genuine Qing sells fast at auction but rarely surfaces at ≤ $200 from a private seller with good photos.

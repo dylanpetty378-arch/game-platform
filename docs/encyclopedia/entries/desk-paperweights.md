@@ -33,6 +33,7 @@ Chinese copies of French antique weights with fake date canes are common. Signat
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl; no web search. Lens median $74 for the example came from enamel/porcelain apple weights (some Tiffany-style brass ones), not this painted one.
+- 2026-10-13 – Terapeak 365d sold, query "enamel apple paperweight": n=29, median $12, p25 $9.87, p75 $18.95 — e.g. $13.79 BRASS ENAMEL APPLE Cloisonn Style Enam (); $9.99 Vintage Solid Brass Enamel Cloisonne S () (generic queries can include unrelated items)
 
 ## Market
 Large, steady glass-weight collector base; novelty metal weights sell slowly.

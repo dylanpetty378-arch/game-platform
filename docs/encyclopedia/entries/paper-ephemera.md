@@ -29,6 +29,7 @@ Disney items and early tickets are reproduced; theme-park rack brochures are not
 
 ## Comps (sold, dated)
 None in our DB; Lens median $12 for the SeaWorld example. Estimates only.
+- 2026-10-13 – Terapeak 365d sold, query "SeaWorld Orlando brochure": n=10, median $3.49, p25 $2, p75 $5.29 — e.g. $3.49 SeaWorld Aquatica Discovery Cove Broch (); $3.78 SeaWorld Aquatica Discovery Cove Broch () (generic queries can include unrelated items)
 
 ## Market
 High volume, low prices; lots sell to nostalgia buyers. Single 1980s brochures take months.

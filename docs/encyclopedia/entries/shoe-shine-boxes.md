@@ -33,6 +33,7 @@ New cast-iron shoe-shine footrests and "antique style" boxes are mass-produced (
 
 ## Comps (sold, dated)
 None retrieved this run. Verify on eBay sold. Estimates (general knowledge, verify): homemade box with iron footrest ~$40–70.
+- 2026-10-13 – Terapeak 365d sold, query "wooden shoe shine box": n=50, median $25, p25 $18.99, p75 $33.49 — e.g. $57.78 10 Pcs Deluxe Wooden Shoe Shine Box Se (); $26.0 Storage Basic Shoe Valet Vintage Woode () (generic queries can include unrelated items)
 
 ## Market
 Steady but low-priced rustic-decor market; eBay sells many per month; local resale often as good. Heavy relative to value.

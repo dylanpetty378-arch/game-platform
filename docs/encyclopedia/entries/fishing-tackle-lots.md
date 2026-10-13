@@ -31,6 +31,7 @@ Heddon/Creek Chub reissues in wood (1990s–2000s "Collector" series) and repain
 
 ## Comps (sold, dated)
 No sold data found in this run. Lens median $31 (mixed lots).
+- 2026-10-13 – Terapeak 365d sold, query "rod and lures lot": n=50, median $19.95, p25 $9.99, p75 $31 — e.g. $47.61 RIVERS EDGE OUTDOORS DINNERWARE BOWLS (); $23.99 Acme v rod ice fishing blade bait jigg () (generic queries can include unrelated items)
 
 ## Market
 Very liquid for named vintage lures; mixed modern lots move slowly at low prices. Spring is peak.

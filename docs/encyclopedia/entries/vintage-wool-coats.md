@@ -33,6 +33,7 @@ Modern "vintage style"; check labels/union tags.
 
 ## Comps (sold, dated)
 None retrieved this run.
+- 2026-10-13 – Terapeak 365d sold, query "Marvin Richards fur-collar wool coat": n=50, median $124.99, p25 $99, p75 $195.97 — e.g. $127.0 Fab Marvin Richards Black Lambswool Wi (); $199.99 Marvin Richards Long Lamb Wool Coat Fu () (generic queries can include unrelated items)
 
 ## Market
 Seasonal (Sep–Jan). Fit-dependent; sizes small for modern buyers.

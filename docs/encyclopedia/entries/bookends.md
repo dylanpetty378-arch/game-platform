@@ -54,6 +54,7 @@ Paint loss and rub-through on spelter and bronze-clad; broken-off arms, tails, e
 
 ## Comps (sold, dated)
 No dated sold comps could be retrieved this run (no web search budget; no bookends rows in Terapeak comps.jsonl). Estimates above are general knowledge; verify via eBay sold search before any buy over $30.
+- 2026-10-13 – Terapeak 365d sold, query "Borghese horse bookend": n=7, median $39.99, p25 $31.49, p75 $45 — e.g. $25.0 Antique Borghese Bookend Italy Dark Sc (); $55.0 Pair of Vintage BORGHESE Italian Horse () (generic queries can include unrelated items)
 
 ## Market
 Steady, moderately liquid on eBay; decorators buy stone and chalkware cheaply; collectors pay for Frankart, Roycroft and figural cast iron. Heavy pairs carry high shipping, which compresses margins on anything under $80.

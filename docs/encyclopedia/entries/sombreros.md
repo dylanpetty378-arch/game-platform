@@ -33,6 +33,7 @@ Modern mariachi hats with synthetic embroidery are sold as "antique". Tell by sy
 
 ## Comps (sold, dated)
 None in our data. Lens median $450 for the sweep example was driven by antique charro hats, not by palm hats.
+- 2026-10-13 – Terapeak 365d sold, query "straw Mexican sombrero": n=47, median $16.34, p25 $11.86, p75 $28 — e.g. $9.51 18 Mexican Sombrero Hat Authentic Stra (); $12.68 18in Mexican Sombrero Straw Hat with S () (generic queries can include unrelated items)
 
 ## Market
 Slow; demand bumps around Cinco de Mayo and Día de Muertos/Halloween. Big boxes make shipping costly.

@@ -29,6 +29,7 @@ Huge decor-market reproduction of "French farmhouse" egg baskets and painted chi
 
 ## Comps (sold, dated)
 None gathered (no web search). Lens median $37 on example is asking prices of similar "18 in silver metal woven bread basket" listings.
+- 2026-10-13 – Terapeak 365d sold, query "woven metal bread basket": n=50, median $16.5, p25 $12.24, p75 $22.3 — e.g. $10.0 Gold Tone Metal Hand Woven Oval Bread (); $15.0 Salton Hot Basket Warmer Rolls Bread B () (generic queries can include unrelated items)
 
 ## Market
 Slow decor category; buyers are farmhouse decorators. 30-90 days for low tier.

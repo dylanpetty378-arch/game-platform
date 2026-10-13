@@ -34,6 +34,7 @@ Re-releases of classic characters in footed versions; counterfeit rarities (Make
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+- 2026-10-13 – Terapeak 365d sold, query "Pez 1978 Hulk Pez dispenser": n=9, median $20, p25 $15.5, p75 $22.5 — e.g. $5.25 Pez Incredible Hulk Pez Dispenser 1978 (); $15.5 1978 HULK PEZ Dispenser Dark Green Ste () (generic queries can include unrelated items)
 
 ## Market
 Active collector base; no-feet dispensers sell steadily in days to weeks. Footed common dispensers are close to worthless.

@@ -33,6 +33,7 @@ Countless modern reproductions; 1940s–80s Audubon prints (Macmillan, Amsterdam
 
 ## Comps (sold, dated)
 None in our data. Lens best match listed an "1840 Bird Engraving, Original Antique Bird Print" (Lens median $25, asking).
+- 2026-10-13 – Terapeak 365d sold, query "1840 bird engraving": n=50, median $38.25, p25 $22.5, p75 $55 — e.g. $25.0 Eurasian Bullfinch Bird 1840 Antique H (); $14.95 Guerin Meneville 1838 475 Hand Colored () (generic queries can include unrelated items)
 
 ## Market
 Steady decorator demand for loose plates (cheap, often in lots); framed glass pieces ship badly, sell slowly locally.

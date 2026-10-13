@@ -32,6 +32,7 @@ Decorative reproduction "nautical" blocks (India-made, brass/dark stained) are c
 
 ## Comps (sold, dated)
 None gathered.
+- 2026-10-13 – Terapeak 365d sold, query "wooden farmhouse pulleys": n=36, median $20, p25 $10, p75 $25 — e.g. $10.0 Antique Wooden Barn Single Pulley with (); $25.0 Antique Wooden Wood Wheel Barn Pulley () (generic queries can include unrelated items)
 
 ## Market
 Steady farmhouse/nautical decor demand. Larger pieces sell; small pulleys are common.

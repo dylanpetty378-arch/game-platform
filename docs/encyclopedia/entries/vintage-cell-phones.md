@@ -29,6 +29,7 @@ Refurb/new-housing Nokia 8800 and Vertu fakes; re-housed RAZRs.
 
 ## Comps (sold, dated)
 None gathered this run; estimates (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "box of old cell phones": n=15, median $25, p25 $14.99, p75 $28 — e.g. $16.88 Cisco 8821 with clip for mobile cell p (); $25.0 Tracphone Prepaid Cell Flip Phone Moto () (generic queries can include unrelated items)
 
 ## Market
 Retro-phone trend (2023–) drives flip demand; speed moderate.

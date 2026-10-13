@@ -33,6 +33,7 @@ Nemadji continued until ~2000s and current makers produce similar ware; age matt
 
 ## Comps (sold, dated)
 No sold data in this run. Lens median $35 agrees with Nemadji tier.
+- 2026-10-13 – Terapeak 365d sold, query "Nemadji marbleized vase": n=3, median $14, p25 $8, p75 $14 — e.g. $16.0 Rare vintage Nemadji Pottery vase with (); $14.0 Nemadji Indian Pottery Vintage Swirl V () (generic queries can include unrelated items)
 
 ## Market
 Nemadji: slow regional decor. Niloak: established collector market.

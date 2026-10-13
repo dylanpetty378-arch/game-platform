@@ -31,6 +31,7 @@ Buy rule (short): Buy lots of 15+ travel pennants at ≤ $2 each, or any sports/
 
 ## Comps (sold, dated)
 - No dated sold comps this run (no web search, no Terapeak). Estimates only; verify.
+- 2026-10-13 – Terapeak 365d sold, query "1950s felt souvenir pennants": n=50, median $25, p25 $18, p75 $41 — e.g. $14.5 Vintage 1950s Kentucky Blue State Felt (); $24.0 1950 s Vintage LOS ANGELES Large 26 So () (generic queries can include unrelated items)
 
 ## Market
 - Steady decorator and collector demand; lots sell well. Single common pennants are slow.

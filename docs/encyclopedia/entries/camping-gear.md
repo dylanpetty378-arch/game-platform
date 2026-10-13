@@ -33,6 +33,7 @@ Coleman reissued "vintage" anniversary lanterns (e.g. 2000s 100th anniversary). 
 
 ## Comps (sold, dated)
 No dated sold comps retrievable this run (no web search; no Terapeak rows). Pull Terapeak "coleman 200a lantern", "svea 123 stove" before buying. Lens median $26 for the example was asking listings.
+- 2026-10-13 – Terapeak 365d sold, query "Greatland sleeping bag": n=4, median $12.5, p25 $12, p75 $25.87 — e.g. $29.99 Greatland Youth Sleeping Bag Green (); $12.0 Vintage DUPONT HOLLOFIL 808 Greatland () (generic queries can include unrelated items)
 
 ## Market
 Coleman lanterns and brass stoves: deep, steady collector market (seasonal spring/summer). Modern sleeping bags: no shipped resale market – shipping costs exceed value.

@@ -35,6 +35,8 @@ Large volume of new "antique Chinese" cages with aged finishes; distressed "Vict
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify). Lens medians were retail/new listings.
+- 2026-10-13 – Terapeak 365d sold, query "bamboo pagoda birdcage": n=5, median $31.99, p25 $28, p75 $69.99 — e.g. $31.99 Gretchen Scott Birdcage Pagoda Bamboo (); $25.0 Gretchen Scott Ruffneck Shift Dress M () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Victorian-style decorative birdcage": n=12, median $39, p25 $30, p75 $50 — e.g. $34.0 Vintage Decorative Multitiered Victori (); $48.17 Vintage Victorian Style Decorative Bir () (generic queries can include unrelated items)
 
 ## Market
 Weak and local for décor cages (bulky, cheap new). Chinese songbird cages sell on eBay and LiveAuctioneers in weeks. Weddings drive some décor demand (card holders) in spring.

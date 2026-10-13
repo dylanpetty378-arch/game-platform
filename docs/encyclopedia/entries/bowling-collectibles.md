@@ -32,6 +32,7 @@ Modern retro bowling shirts (Charlie Sheen, Steady, Hawaiian-cut "retro" from 19
 
 ## Comps (sold, dated)
 No dated sold comps retrievable this run (no web search, no Terapeak rows). Pull Terapeak "vintage bowling shoes leather", "king louie bowling shirt chain stitch" before buying. Lens median $145 for the example was asking prices, not sold.
+- 2026-10-13 – Terapeak 365d sold, query "Brunswick leather bowling shoes": n=50, median $24.91, p25 $19.25, p75 $29.95 — e.g. $21.95 Brunswick Bowling Shoes Replacement He (); $19.25 Brunswick Bowling Shoes Men s 5 Women () (generic queries can include unrelated items)
 
 ## Market
 Shoes: steady fashion/costume demand (retro sneakers look), but unbranded used shoes sell slowly at $20–40. Shirts: strong vintage-clothing demand for chain-stitch 1950s. Bowling balls/pins: low value per lb of shipping.

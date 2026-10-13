@@ -46,6 +46,7 @@ Rim chips and flea bites, hairline cracks (hold up to light; tap-test for a dull
 ## Comps (sold, dated)
 - 2026-08-16 – eBay (Terapeak) – Pickard antique hand-painted daisies in gold paste vase – $155 sold (comps.jsonl, limoges-porcelain row).
 - No other dated sold comps this run. Estimates (general knowledge, verify): amateur-painted 8–9" Bavaria fruit plates $8–20 each; German rose-decal chocolate pot $20–50; Nippon chocolate set $50–120.
+- 2026-10-13 – Terapeak 365d sold, query "German hand-painted porcelain wall plates": n=15, median $23, p25 $16, p75 $27.42 — e.g. $25.0 Vintage German Delft Hand Painted Wall (); $20.0 PEWTER HAND PAINTED WALL PLATES SET OF () (generic queries can include unrelated items)
 
 ## Market
 Very large supply from estates; demand has collapsed since 2000 except for top studio work and R.S. Prussia/Nippon specialists. Sell-through low for amateur plates. No seasonality (slight Mother's Day / tea-party bump).

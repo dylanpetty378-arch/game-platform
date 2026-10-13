@@ -29,6 +29,7 @@ Massive reproduction market (V-Twin, Paughco, Cycle Spectrum). OEM status must b
 
 ## Comps (sold, dated)
 None gathered. Lens median $400 on example = asking prices of complete OEM FL fenders; not sold data.
+- 2026-10-13 – Terapeak 365d sold, query "Harley-Davidson rear fender assembly": n=50, median $39.95, p25 $18.66, p75 $95.87 — e.g. $48.4 Dual Rear Fender Bagger Vertical Mount (); $17.11 LED Motorcycle Rear Fender Brake Tail () (generic queries can include unrelated items)
 
 ## Market
 Strong for correct OEM vintage Harley; buyers are knowledgeable and demand exact fitment. Big parts sell slower and ship expensively.

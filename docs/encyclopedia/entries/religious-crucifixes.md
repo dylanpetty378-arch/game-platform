@@ -33,6 +33,7 @@ Modern Italian/Chinese reproductions of skull crucifixes sold as "antique"; tell
 
 ## Comps (sold, dated)
 No sold data found in this run. Lens median $40 agrees with the common tier.
+- 2026-10-13 – Terapeak 365d sold, query "ebony inlay Golgotha crucifix": n=8, median $37.99, p25 $23.5, p75 $42.5 — e.g. $37.99 German Golgotha 3 75 Crucifix w Ebony (); $56.06 Vtg Golgotha Pectoral Crucifix Cross N () (generic queries can include unrelated items)
 
 ## Market
 Steady religious-collectibles buyers on eBay/Etsy; memento mori pieces have extra gothic-decor demand.

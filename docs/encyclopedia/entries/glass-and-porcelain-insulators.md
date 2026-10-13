@@ -31,6 +31,7 @@ Chips, flea bites, cracks, "base bruise". Some sellers grind or polish chips —
 
 ## Comps (sold, dated)
 None gathered. Lens median for the example was $18.
+- 2026-10-13 – Terapeak 365d sold, query "Locke porcelain electric insulators": n=13, median $22, p25 $9.99, p75 $42.99 — e.g. $25.0 Vintage 1948 Locke Brown Electrical Hi (); $18.0 vintage Locke brown porcelain high vol () (generic queries can include unrelated items)
 
 ## Market
 Organised collector hobby (NIA shows), knowledgeable buyers. Common pieces glut.

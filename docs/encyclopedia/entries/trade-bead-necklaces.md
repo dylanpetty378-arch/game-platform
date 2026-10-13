@@ -29,6 +29,7 @@ Modern Indonesian/Indian "trade beads", fake Bakelite ("fakelite"), fake amber r
 
 ## Comps (sold, dated)
 None this run. Lens median $92 overstates.
+- 2026-10-13 – Terapeak 365d sold, query "tribal beaded necklace": n=49, median $15.24, p25 $9.99, p75 $20.06 — e.g. $19.09 Buffalo Bone 4 Row Tribal Native Ameri (); $15.24 Buffalo Bone 4 Line Choker Beaded Ston () (generic queries can include unrelated items)
 
 ## Market
 Steady among bead collectors; low-tier oversupplied.

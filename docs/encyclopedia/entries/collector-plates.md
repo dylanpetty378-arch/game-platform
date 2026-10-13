@@ -42,6 +42,7 @@ Not commonly faked because values are low. "Limited edition" by firing days mean
 
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): Bradford Exchange single plates typically sell $3–12 and many sell only in lots; Royal Worcester Fabulous Birds $10–25; Lena Liu $5–15.
+- 2026-10-13 – Terapeak 365d sold, query "Bradford Exchange Lena Liu Floral Cameos": n=50, median $14.39, p25 $10, p75 $25.95 — e.g. $30.0 Vintage Lena Liu s Floral Cameos Cheri (); $7.48 Bradford Exchange Remembrance by Lena () (generic queries can include unrelated items)
 
 ## Market
 Collapsed and oversupplied; thrift stores and estates are full of them. Lots move slowly at $1–5 per plate. Sterling and early Danish plates are the exceptions.
