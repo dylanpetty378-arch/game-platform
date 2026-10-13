@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:46:13Z",
+ "updated": "2026-10-13T23:49:46Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7374,
-  "events": 26795,
+  "lens": 7399,
+  "events": 26820,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 443,
+  "lensed": 450,
   "comps/pass": 1,
-  "queued/relens": 366,
+  "queued/relens": 370,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 738,
+  "flagged": 752,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 279
+  "queued": 254
  },
  "last_harvests": [
   {
@@ -1878,6 +1878,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976417844",
+   "title": "Wood Bead Necklace",
+   "price": 12,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-estates-wood-bead-necklace/jdfHjwAhoApxuutiostYfn",
+   "best": "Jewelry | Sale Hand Carved Jade Buddha Pendant With Jade ...",
+   "med": 92,
+   "ratio": 7.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7957762589",
    "title": "Piquot watch",
    "price": 20,
@@ -1929,6 +1940,17 @@
    "url": "https://www.craigslist.org/view/d/farmingville-vintage-costume-brooch-pin/twHwG2bewDFcCFvHf7PPfh",
    "best": "Craigslist",
    "med": 110,
+   "ratio": 7.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950044748",
+   "title": "costume jewelry",
+   "price": 3,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/river-falls-costume-jewelry/6CCehdWWKFat6RNResxFv1",
+   "best": "Etsy",
+   "med": 22,
    "ratio": 7.33,
    "ai_value": ""
   },
@@ -2505,6 +2527,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951386745",
+   "title": "Vintage porcelain jewelry box",
+   "price": 18,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-vintage-porcelain-jewelry-box/syrQMEeBBuPNkKA9NeoaMw",
+   "best": "Craigslist",
+   "med": 100,
+   "ratio": 5.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7965942258",
    "title": "24\u201d chain with carnelian stone",
    "price": 10,
@@ -2777,6 +2810,17 @@
    "best": "Poshmark",
    "med": 55,
    "ratio": 4.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948600744",
+   "title": "Pottery Pitchers & vase",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-pottery-pitchers-vase/e4V23nHpDZ3wjugv28Zboi",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 4.5,
    "ai_value": ""
   },
   {
@@ -3484,6 +3528,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957484207",
+   "title": "Gold & Diamond 10K Heart Pendant",
+   "price": 115,
+   "area": "ocala",
+   "url": "https://www.craigslist.org/view/d/weirsdale-gold-diamond-10k-heart-pendant/1kP2H4CjyMojtdSNxGVH29",
+   "best": "VINTAGE 10 K GOLD 0.10 CT TW NATURAL DIAMONDS HEART CHARM ...",
+   "med": 379,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7932266365",
    "title": "Vintage Cundy Bettoney co. Clarinet",
    "price": 75,
@@ -3759,6 +3814,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958120696",
+   "title": "Vintage Gold Tone Brooch Pin",
+   "price": 5,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-gold-tone-brooch-pin/5hCch1fzvnxK2DuVLAZ8pV",
+   "best": "Round Silhouette Radial Line Stripe Cut Vintage Brooch ...",
+   "med": 15,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7940775960",
    "title": "Antique straight razors",
    "price": 30,
@@ -3931,6 +3997,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-signed-best-1980s/x2jrqhh2VMYJCNAmuqhGJy",
    "best": "LCi -Liz Claiborne gold Tone black plastic middle Open Work ...",
    "med": 110,
+   "ratio": 2.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969746477",
+   "title": "Framed Oil Painting \"Flowers\" Artist Unknown",
+   "price": 60,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-framed-oil-painting-flowers/96GA8fQ4S1miVZUEMrUfEp",
+   "best": "Vintage Floral Oil Painting: Signed Still Life With Golden ...",
+   "med": 169,
    "ratio": 2.82,
    "ai_value": ""
   },
@@ -5684,6 +5761,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982901891",
+   "title": "BULOVA WATCH EXCELLENT CONDITION....STAINLESS & 18K GP...",
+   "price": 80,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/punta-gorda-bulova-watch-excellent/oqT88nMshjRFBehBhuY3oi",
+   "best": "Bulova Men Watch Gold Silver Stainless Steel WR Date White ...",
+   "med": 125,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7947846952",
    "title": "14k Jesus pendant +chain.",
    "price": 420,
@@ -5856,6 +5944,17 @@
    "url": "https://www.craigslist.org/view/d/san-carlos-assorted-silver-charms/fdDTkUA9tQZ1AoB74dahRL",
    "best": "Craigslist",
    "med": 37,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941543743",
+   "title": "ABALONE PENDANT",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-abalone-pendant/uPV49q9sPi1VBPRTG7Ldr6",
+   "best": "Etsy",
+   "med": 59,
    "ratio": 1.48,
    "ai_value": ""
   },
@@ -6443,6 +6542,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961917371",
+   "title": "Vintage Western Locomotive Toy",
+   "price": 25,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/el-dorado-hills-vintage-western/nc11FqCTHri6642fEWK2hA",
+   "best": "Era: Mid-century (1950s\u20131960s)",
+   "med": 29,
+   "ratio": 1.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7974857877",
    "title": "Sterling Silver Earings",
    "price": 200,
@@ -6649,6 +6759,17 @@
    "best": "eBay",
    "med": 53,
    "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952138829",
+   "title": "Vintage San Francisco Photo",
+   "price": 95,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-san-francisco-photo/wUQ5JSZRkPkhrqkseGHpmx",
+   "best": "Vintage San Francisco Photo",
+   "med": 100,
+   "ratio": 1.05,
    "ai_value": ""
   },
   {
@@ -6894,6 +7015,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943665230",
+   "title": "VINTAGE BEADED NECKLACES",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-beaded-necklaces/bqxuMh33UFHraHcxxJMCrr",
+   "best": "Middle (Pink and White Bead Necklace): A multi-strand necklace made of pale pink and white simulated/opaline o",
+   "med": 24,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7955143053",
    "title": "Knick-knack stuff",
    "price": 100,
@@ -6978,6 +7110,17 @@
    "url": "https://www.craigslist.org/view/d/natick-large-vintage-1950s-signed/x79qR7o8MhNEBTaEQVoVpS",
    "best": "eBay",
    "med": 179,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983004059",
+   "title": "Vintage Signed Los Ballesteros Sterling Silver Bracelet 55.4Gr Medium",
+   "price": 295,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-signed-los/9tea4CA9mgtfZWxnHGW1vB",
+   "best": "Etsy",
+   "med": 270,
    "ratio": 0.92,
    "ai_value": ""
   },
@@ -7088,6 +7231,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-30-inch-gold-tone/pJoBnY57WnkMNZEiSWhQq9",
    "best": "eBay",
    "med": 34,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962055218",
+   "title": "Vintage GE exposure meter",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-ge-exposure-meter/vfhnJJYAeQFgmxCAKbNGjV",
+   "best": "eBay",
+   "med": 13,
    "ratio": 0.87,
    "ai_value": ""
   },
