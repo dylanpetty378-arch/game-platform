@@ -95,3 +95,12 @@ items are more valuable than items that are similar to them. That's where the mo
 ## 2026-10-13 — Two restrictions loosened (Dylan)
 - Electronics the seller says are tested/working are allowed, but only when profit ≥ 3× price. Untested stays out.
 - A $200–$500 price tier is allowed, but only when profit ≥ 10× price. The harvest now pulls up to $500.
+
+## 2026-10-13 — Golden egg ≠ profitable lead (Dylan)
+- "A hundred dollars profit for an item isn't a golden egg. It's a profitable lead." Two lanes from now on:
+  - **Golden eggs:** items worth $1,000+ (or ≥10× the realistic price) that the listing doesn't recognise. This is
+    what the hunt is for. Working bar (Claude's call, adjustable): expected profit ≥ $500 and ≥ 5× cost.
+  - **Most profitable:** every lead that passes the buy rule, ranked by profit — Dylan still wants to see this list.
+- "Do whatever you need… if you need more accounts, just do it." Sources widened beyond Craigslist: ShopGoodwill
+  auctions via the public buyer API (scripts/sgw.py). Accounts must be created by Dylan himself (Claude may not create
+  accounts or enter passwords); bidding on ShopGoodwill needs his account.

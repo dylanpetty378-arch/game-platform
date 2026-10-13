@@ -6,6 +6,7 @@ band, Lens or no Lens — docs/improvements.md 2026-10-13). A picker's eye on th
 
   python3 scripts/eye_screen.py harvest <hours> [cats]     # fresh listings, size/junk/policy filters only, NO ranking
   python3 scripts/eye_screen.py sheets <run>               # 120-thumb contact sheets (12x10) + index.json
+  python3 scripts/sgw.py harvest <hours>                  # same pool format from ShopGoodwill auctions (scripts/sgw.py)
   python3 scripts/eye_screen.py ingest <run> <flags.tsv>   # flagged cells -> listings + queued/flagged events
 
 Work dir: /tmp/eye/<run>/ (thumbnails are not committed). flags.tsv lines: sheet<TAB>cell<TAB>why
@@ -34,10 +35,10 @@ def harvest(hours, cats=CATS):
 def _thumb(d, r):
     p = f"{d}/th/{r['pid']}.jpg"
     if os.path.exists(p): return True
-    img = r['imgs'][0].split(':')[-1]
+    url = r.get('thumb') or f"https://images.craigslist.org/{r['imgs'][0].split(':')[-1]}_300x300.jpg"
     for t in range(3):
         try:
-            data = urllib.request.urlopen(f'https://images.craigslist.org/{img}_300x300.jpg', timeout=20).read()
+            data = urllib.request.urlopen(urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'}), timeout=20).read()
             open(p, 'wb').write(data); return True
         except Exception: time.sleep(1 + t)
     return False
@@ -75,9 +76,10 @@ def ingest(run, tsv):
         r = index.get(f'{int(parts[0])}:{parts[1].strip().upper()}')
         if r: out.append((r, parts[2] if len(parts) > 2 else ''))
     known = db.known_pids(); out = [(r, w) for r, w in out if str(r['pid']) not in known]
-    db.append('listings', [{'pid': str(r['pid']), 'source': 'craigslist', 'harvest_id': run, 'posted': r['posted'], 'price': r['price'],
+    db.append('listings', [{'pid': str(r['pid']), 'source': r.get('source', 'craigslist'), 'harvest_id': run, 'posted': r['posted'], 'price': r['price'],
                             'title': r['title'], 'area': r['area'], 'region': r['region'], 'cat': r['cat'], 'imgs': r['imgs'],
-                            'score': None, 'clip': None, 'url': f"https://www.craigslist.org/view/d/{r['slug']}/{r['uuid']}"} for r, _ in out])
+                            'score': None, 'clip': None, 'url': r.get('url') or f"https://www.craigslist.org/view/d/{r['slug']}/{r['uuid']}",
+                            'ends': r.get('ends'), 'bids': r.get('bids')} for r, _ in out])
     db.append('events', [{'pid': str(r['pid']), 'stage': 'queued', 'run': run, 'data': {'eye': True}} for r, _ in out])
     db.append('events', [{'pid': str(r['pid']), 'stage': 'flagged', 'run': run, 'by': 'claude', 'note': 'eye screen: ' + w, 'data': {'eye': True}} for r, w in out])
     print(len(out), 'flagged listings ingested from', run)

@@ -304,3 +304,14 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 - **Conclusion:** neither title nor thumbnail finds golden eggs at a useful rate; the base rate on Craigslist ≤$500 is
   ~1 sold-comp-confirmed find per 1,000 listings. The eye screen is kept as the selector because it is 3× cheaper per
   lead. Knowledge from the review: research/eye-knowledge-20261013.md.
+
+## 2026-10-13 (late) — ShopGoodwill golden-egg scan
+- scripts/sgw.py: public buyer API (no login) → 49,266 auctions ending within 36 h in egg-dense categories → 13,383
+  in pool → 112 contact sheets → 77 flags (GOLDEN_EYE_BRIEF) → full-photo review with web evidence (GOLDEN_DEEP_BRIEF):
+  **0 eggs, 1 marginal lead** (hand-painted Soviet copy of Kramskoi listed as a print, max bid $35).
+- Why: Goodwill staff and its bidders catch the obvious; what's left at low bids is reproductions, prints, plated
+  watches, souvenir "Native"/"Asian" decor. Real pieces that showed up (A.R. Valentien Rookwood 1885, 1959 Mourlot Miró,
+  6.9 g 14K) were already bid toward value or damaged.
+- Lesson: on photo-rich, expert-watched marketplaces the photo is the same for every bidder, so eggs there are
+  rarer than on Craigslist. Golden eggs need either an information edge (marks only in photo 2+, which pros also
+  open) or a *competition* edge: venues with few bidders and bad photos (small regional auctions, estate sales).
