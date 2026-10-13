@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:26:44Z",
+ "updated": "2026-10-13T17:30:04Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6353,
-  "events": 21423,
+  "lens": 6378,
+  "events": 21448,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 185,
+  "lensed": 191,
   "comps/pass": 1,
-  "queued/relens": 126,
+  "queued/relens": 139,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 216,
+  "flagged": 222,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 500
+  "queued": 475
  },
  "last_harvests": [
   {
@@ -493,6 +493,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928724618",
+   "title": "Vintage Original Oil Painting of Horses",
+   "price": 75,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/johnston-vintage-original-oil-painting/izhMF4vrkFSFg7675AEisJ",
+   "best": "Playmate Aires - Robyn Ryan Art",
+   "med": 1999,
+   "ratio": 26.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7963962630",
    "title": "ANTIQUE VAZE",
    "price": 75,
@@ -523,6 +534,17 @@
    "best": "Vintage Elgin Mens Watch 33mm Gold Tone 17 Jewels NOT ...",
    "med": 105,
    "ratio": 21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953360770",
+   "title": "2 Pottery Bowls from Morocco",
+   "price": 35,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/lancaster-pottery-bowls-from-morocco/eFTkq24usPoC42D7tAvDpZ",
+   "best": "North African School, 19th Century | GRAND TOBSIL (ca. 1860 ...",
+   "med": 695,
+   "ratio": 19.86,
    "ai_value": ""
   },
   {
@@ -1094,6 +1116,17 @@
    "url": "https://www.craigslist.org/view/d/farmingdale-vintage-12-string-handmade/aZWdadd4hHxv4J54D9XBLe",
    "best": "Handgemaakte akoestische 12-snarige gitaar (ca. 1960 ...",
    "med": 495,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980997116",
+   "title": "Sterling Silver 925 Minnie Mouse Charm Pendant",
+   "price": 15,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-sterling-silver-925-minnie-mouse/bK4eCQSGtYfPYisgzwQooS",
+   "best": "eBay",
+   "med": 62,
    "ratio": 4.13,
    "ai_value": ""
   },
@@ -1967,6 +2000,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930072705",
+   "title": "ASSORTED CHRISTMAS ITEMS",
+   "price": 10,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-assorted-christmas-items/mg78BbZHTjKB33qdnn5Wt2",
+   "best": "Vtg World Map Globe Christmas Ornament, With Great Details ...",
+   "med": 17,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7951041863",
    "title": "SLED \"LIGHTING GUIDER\" OLD",
    "price": 75,
@@ -2209,6 +2253,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953809144",
+   "title": "Alice in wonderland snowbabies",
+   "price": 30,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/derby-alice-in-wonderland-snowbabies/muK7Pz3pbJYhmJJdRitiQ7",
+   "best": "New! Retired Department56 SnowBabies \"Guest Collection\" \"Tea ...",
+   "med": 35,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7954297435",
    "title": "Vintage Silver/Copper \"Love\" Cup",
    "price": 49,
@@ -2315,6 +2370,17 @@
    "url": "https://www.craigslist.org/view/d/acton-antique-junghans-mantel-clock/4fzknhgxTZE94rgyQDeFUg",
    "best": "Weekly Estate 'Red' No.2674",
    "med": 75,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955060633",
+   "title": "Vintage \u201cJ Medina\u201d Original Signed Oil Painting Landscape",
+   "price": 150,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/elkhorn-vintage-medina-original-signed/nX4juQ8CLnJtKTwdiuC9aQ",
+   "best": "Large Framed Oil on Canvas of a Beautiful Fall Landscape by ...",
+   "med": 150,
    "ratio": 1,
    "ai_value": ""
   },
