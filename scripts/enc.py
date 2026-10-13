@@ -93,6 +93,37 @@ def cmd_add(files):
                 if r: t = re.sub(r'(## Rubric.*?```json\s*)\{.*?\}(\s*```)', lambda m: m.group(1) + json.dumps(r, indent=1) + m.group(2), t, count=1, flags=re.S)
         open(p, 'w').write(t); print('wrote', slug)
 
+def cmd_makers():
+    # research/makers.json: maker/brand/model names from every entry's Makers section, for scoring.mismatch (Oct 13)
+    import collections
+    generic=set('hand painted|clear glass|art nouveau|art deco|mid-century|hand tools|general|american|english|german|french|italian|japanese|chinese|victorian|vintage|antique|unmarked|unsigned|reproduction|modern|contemporary|sterling|silver plate|silverplate|cast iron|brass|bronze|copper|pewter|wood|glass|ceramic|porcelain|pottery|stoneware|crystal|leather|cotton|wool|plastic|bakelite|lucite|celluloid|gold tone|gold-tone|gold filled|rolled gold|common|rare|scarce|early|late|other|others|various|misc|unknown|japan|china|germany|england|france|italy|usa|mexico|india|taiwan|korea|hong kong|occupied japan|made in japan|made in china|made in germany|made in england|made in usa|made in italy|made in france|west germany|east germany|limited edition|signed|numbered|first edition|original|style|type|model|pattern|series|edition|version|set|lot|pair|collection'.split('|'))
+    words=set()
+    if os.path.exists('/usr/share/dict/words'): words={w.strip().lower() for w in open('/usr/share/dict/words')}
+    docfreq=collections.Counter(); boldfreq=collections.Counter()
+    for s, t in entries():
+        m=re.search(r'## Makers.*?(?=\n## )',t,re.S); sec=m.group(0) if m else ''
+        bold=set(b.strip(' .:;,"“”\'’-') for b in re.findall(r'\*\*([^*\n]{3,40})\*\*',sec))
+        for b in bold: boldfreq[b]+=1
+        names=set(re.findall(r'\*\*([^*\n]{3,40})\*\*',sec))|set(re.findall(r'^\|\s*([^|\n]{3,40}?)\s*\|',sec,re.M))
+        cl=set()
+        for n in names:
+            n=re.sub(r'\s*[\(\[].*$','',n).strip(' .:;,"“”\'’-'); n=re.split(r'\s*[/,;–—]\s*',n)[0].strip()
+            if not (3<=len(n)<=35) or n.lower() in generic or not re.search(r'[A-Z]',n): continue
+            if re.match(r'^[\d$#]',n) or (re.search(r'\d{4}s?\b',n) and len(n.split())<=2): continue
+            if re.match(r'^(Maker|Brand|Tier|Variant|Model|Line|Mark|Marks|Note|Notes|Value|Date|Dates|Price|Top|Mid|Low|High|Example|Examples|Quick ID checklist|Golden-egg tells|Common|Rare|What|How|Where|When|Why|Who)\b',n,re.I): continue
+            if all(w.lower() in generic for w in n.split()): continue
+            cl.add(n)
+        for n in cl: docfreq[n]+=1
+    keep=[]
+    for m,c in docfreq.items():
+        ws=m.split()
+        if c>15 and boldfreq[m]<3: continue
+        if len(ws)>=2:
+            if words and len(ws)==2 and all(w.lower() in words for w in ws if w.isalpha()): continue
+            keep.append(m)
+        elif (not (words and m.lower() in words) and c<=3) or boldfreq[m]>=2: keep.append(m)   # dictionary-word makers (Fender, Champion) survive when bolded in 2+ entries
+    json.dump(sorted(keep), open(os.path.join(ROOT,'research','makers.json'),'w')); print(len(keep),'maker names → research/makers.json')
+
 def cmd_index():
     rows = index_rows(); out = []
     for slug, t in entries():
@@ -153,7 +184,7 @@ if __name__ == '__main__':
     elif c == 'show': print(open(path(a[1])).read())
     elif c == 'seen': cmd_seen(a[1], a[2])
     elif c == 'add': cmd_add([x for x in a[1:] if not x.startswith('--')])
-    elif c == 'index': cmd_index()
+    elif c == 'index': cmd_index(); cmd_makers()
     elif c == 'sync': cmd_sync()
     elif c == 'volumes': cmd_volumes(a[1])
     elif c == 'lint': cmd_lint()

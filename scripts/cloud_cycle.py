@@ -31,6 +31,7 @@ def latest_stage():
     return cur
 
 def ingest_inbox():
+    Lt = {str(r['pid']): r for r in db.read('listings')}
     files = sorted(glob.glob(os.path.join(ROOT, 'db', 'inbox', '*.json'))); n = 0
     have = {(str(r['pid']), r.get('run')) for r in db.read('lens')}
     relens_count = {}
@@ -56,8 +57,10 @@ def ingest_inbox():
                 relens_count[pid] = tries + 1
                 ev.append({'ts': ts, 'pid': pid, 'stage': 'queued', 'status': 'relens', 'run': run, 'note': 'empty Lens read, auto re-queued'})
             else:
-                ev.append({'ts': ts, 'pid': pid, 'stage': 'flagged' if x.get('f') else 'lensed', 'run': run,
-                           'data': {'med': x.get('med'), 'ratio': x.get('ratio')}})
+                mm = scoring.mismatch((Lt.get(pid) or {}).get('title'), x.get('ai'), x.get('best'))
+                ev.append({'ts': ts, 'pid': pid, 'stage': 'flagged' if (x.get('f') or mm) else 'lensed', 'run': run,
+                           'note': ('Lens names ' + ', '.join(mm) + ' — title does not') if mm else None,
+                           'data': {'med': x.get('med'), 'ratio': x.get('ratio'), 'mismatch': mm}})
         db.append('lens', rows); db.append('events', ev); os.remove(p); n += len(rows)
     print(f'inbox: {len(files)} files, {n} Lens results ingested'); return n
 

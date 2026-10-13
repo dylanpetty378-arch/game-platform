@@ -66,3 +66,15 @@ of the lookalikes beside it. So:
 Before a photo check, look at the type's rubric `weight_lb` / `ship_cost_to_buyer` (`enc.py show <slug>`, Rubric block).
 If median × 0.87 − 2 × ship_cost − price < 50 even at the entry's high tier, kill on weight without a photo. Three of
 four unlensed-pool agents found that the plausible rows failed on shipping, not identification.
+
+## Rethink (Oct 13, 11:30) — the rules that override everything above
+Dylan: "you're killing a lot of things without even the lens saying anything... and not finding golden eggs."
+1. **Only Lens-read listings are triaged.** Never triage the `--unlensed` pool again; it goes to the Lens worker.
+2. **"Can't identify" is NOT a kill.** If you cannot name the maker/model/variant from the photos and body, and the
+   item is not a size/policy/untested-electronics kill, the verdict is `ask` with the exact photo or question that
+   would identify it (mark on the base, case back, label, signature). Cheap to ask; this is where gold hides.
+3. **A kill must cite either** (a) a specific common-variant tell ("Stanley No. 4 type 19, not Bed Rock"), (b) a sold
+   comp (db/comps.jsonl or the entry) showing no margin, or (c) size / policy / untested electronics / dealer /
+   per-item pricing. "Decor", "mass-market" or "common" alone is not a reason.
+4. **The gold signal is a mismatch**: Lens (or you) names a maker, model or material the seller's title and body do
+   not. Any such row is an ask or buy unless a sold comp kills it.

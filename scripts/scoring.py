@@ -80,3 +80,23 @@ def score(r):
         import type_model; s+= type_model.adjustment(t)   # encyclopedia economics of the predicted type
     except Exception: pass
     return s
+
+
+# --- The arbitrage detector (Oct 13 rethink): Lens names a maker/model the seller's title doesn't. ---------------------
+# research/makers.json = maker/brand/model names harvested from the encyclopedia's Makers sections (enc.py sync rebuilds it).
+_MK=None
+def _makers():
+    global _MK
+    if _MK is None:
+        import json, os
+        p=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),'research','makers.json')
+        try: names=json.load(open(p))
+        except Exception: names=[]
+        _MK=[(m,re.compile(r'(?<![A-Za-z])'+re.escape(m)+r'(?![A-Za-z])')) for m in names]
+    return _MK
+def mismatch(title, ai, best):
+    """Maker names that appear (case-sensitively, whole-word) in the Lens identification but not in the seller's title."""
+    txt=(ai or '')+' '+(best or ''); tl=(title or '').lower(); out=[]
+    for m,pat in _makers():
+        if pat.search(txt) and m.lower() not in tl and not any(m.lower() in o.lower() or o.lower() in m.lower() for o in out): out.append(m)
+    return out[:4]

@@ -31,10 +31,15 @@ if __name__ == '__main__':
     if not a: print(__doc__); sys.exit()
     if a[0] == '--flagged':
         con = db.build_sqlite()
-        q = '''SELECT s.pid, s.price, l.cat, s.area, s.title, lens.ratio, lens.med, lens.collect, lens.best, lens.ai_value, substr(lens.ai,1,160), l.clip, s.url
-               FROM listing_status s JOIN listings l ON l.pid=s.pid JOIN lens ON lens.pid=s.pid WHERE s.stage='flagged' GROUP BY s.pid ORDER BY lens.ratio DESC'''
-        print('pid\tprice\tcat\tarea\ttitle\tratio\tmed\tcollect\tbest\tai_value\tai\tclip\turl')
-        for r in con.execute(q): print('\t'.join('' if v is None else str(v).replace('\t', ' ').replace('\n', ' ').replace('\r', ' ') for v in r))
+        import scoring
+        q = '''SELECT s.pid, s.price, l.cat, s.area, s.title, lens.ratio, lens.med, lens.collect, lens.best, lens.ai_value, substr(lens.ai,1,300), l.clip, s.url, json_extract(l.imgs,'$[0]')
+               FROM listing_status s JOIN listings l ON l.pid=s.pid JOIN lens ON lens.pid=s.pid WHERE s.stage='flagged' GROUP BY s.pid'''
+        rows = []
+        for r in con.execute(q):
+            mm = scoring.mismatch(r[4], r[10], r[8]); rows.append((len(mm), mm, r))
+        rows.sort(key=lambda x: (-x[0], -(x[2][5] or 0)))   # mismatches first (the arbitrage signal), then Lens ratio
+        print('pid\tprice\tcat\tarea\ttitle\tratio\tmed\tcollect\tbest\tai_value\tai\tclip\turl\timg\tmismatch')
+        for n, mm, r in rows: print('\t'.join('' if v is None else str(v).replace('\t', ' ').replace('\n', ' ').replace('\r', ' ') for v in r) + '\t' + ', '.join(mm))
     elif a[0] == '--lensed':
         # every listing whose latest stage is 'lensed' (Lens ran, not flagged) — the text-triage pool. Lens flags miss most
         # real leads (Oct 13 research: 0 keeps in ~330 flagged vs ~10 leads found among all scanned), so these get read too.
