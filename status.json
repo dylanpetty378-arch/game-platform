@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T15:52:06Z",
+ "updated": "2026-10-13T15:55:35Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5862,
-  "events": 19271,
+  "lens": 5887,
+  "events": 19297,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 5931,
-  "queued": 681,
+  "queued": 656,
   "comps/pass": 1,
-  "queued/relens": 193,
-  "lensed": 74,
+  "queued/relens": 195,
+  "lensed": 87,
   "decided/ask": 53,
   "decided/kill": 6,
   "decided/pass": 1,
-  "flagged": 48,
+  "flagged": 57,
   "comps/fail": 5,
-  "expired": 7,
+  "expired": 8,
   "decided/find": 8
  },
  "last_harvests": [
@@ -356,6 +356,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981826904",
+   "title": "Vintage Omega Ladymatic Watch",
+   "price": 80,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-vintage-omega-ladymatic-watch/odJ8aJU5zJfvnrZcJF8gWY",
+   "best": "Finchley Watches",
+   "med": 6500,
+   "ratio": 81.25,
+   "ai_value": "Value: Pre-owned and vintage market values generally range from roughly $500 to $900"
+  },
+  {
    "pid": "7976662893",
    "title": "2 large ginger jars",
    "price": 10,
@@ -499,6 +510,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979158995",
+   "title": "Vintage Lamp Shades",
+   "price": 20,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/lebanon-vintage-lamp-shades/wtxZ2qk5A5V3A9rW9DSkaw",
+   "best": "White Opal / Milk Glass Shade (Left): Features a hand-painted floral or leaf garland design with a soft green ",
+   "med": 165,
+   "ratio": 8.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7969181412",
    "title": "Faux Large Pearl Necklace",
    "price": 10,
@@ -532,6 +554,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955903433",
+   "title": "Vintage Wicker Table Lamp",
+   "price": 65,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-vintage-wicker-table-lamp/rGk5Ba94BJoZZRv2txZACp",
+   "best": "1stDibs",
+   "med": 440,
+   "ratio": 6.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7931828187",
    "title": "Necklace and Earring Sets",
    "price": 10,
@@ -551,6 +584,17 @@
    "best": "38\" Woolworth's Audition Guitar Acoustic 6-String Vintage ...",
    "med": 468,
    "ratio": 6.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981524750",
+   "title": "VINTAGE BRASS ROOSTER",
+   "price": 35,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/blackburn-vintage-brass-rooster/vuPgMkaY1tcPdbEMzbV9DF",
+   "best": "10.4\" Antique old China bronze gilt lucky Wealth fengshui ...",
+   "med": 167,
+   "ratio": 4.77,
    "ai_value": ""
   },
   {
@@ -653,6 +697,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943408324",
+   "title": "Vintage Wedding Dress",
+   "price": 50,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/lake-city-vintage-wedding-dress/1ZFvNXcfjqLVAQnTgYLYPL",
+   "best": "Poshmark",
+   "med": 148,
+   "ratio": 2.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7980529656",
    "title": "Vintage medical tool lot",
    "price": 60,
@@ -661,6 +716,17 @@
    "best": "VINTAGE MEDICAL SURGICAL TOOL INSTRUMENTS CONTAINER ENAMEL ...",
    "med": 172,
    "ratio": 2.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973376708",
+   "title": "Vintage Schatz Clock",
+   "price": 25,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/camarillo-vintage-schatz-clock/2zF2ozRymGUe4uS5jGodmJ",
+   "best": "Craigslist",
+   "med": 70,
+   "ratio": 2.8,
    "ai_value": ""
   },
   {
@@ -694,6 +760,17 @@
    "best": "Vintage 24KT Gold Plated Snakeskin Bangle Bracelet Hinged ...",
    "med": 95,
    "ratio": 2.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953344699",
+   "title": "Antique telephone replica",
+   "price": 50,
+   "area": "sierravista",
+   "url": "https://www.craigslist.org/view/d/tucson-antique-telephone-replica/94jYP8du8ZfSUnqyBxGj3N",
+   "best": "Porcelain - Rose - Oldphoneworks \u2013 oldphoneworks",
+   "med": 126,
+   "ratio": 2.52,
    "ai_value": ""
   },
   {
@@ -738,6 +815,17 @@
    "best": "Las mejores ofertas en Gorham post - 1940 objetos antiguos ...",
    "med": 215,
    "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933954165",
+   "title": "Vintage JFK Pocket Watch",
+   "price": 50,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/florence-vintage-jfk-pocket-watch/uL6ZuJYmPezEgUCCAtxdD6",
+   "best": "Coin Inset: Features a 1964 Kennedy half dollar coin (which contains 90% silver).",
+   "med": 90,
+   "ratio": 1.8,
    "ai_value": ""
   },
   {
@@ -816,6 +904,17 @@
    "med": 197,
    "ratio": 1.36,
    "ai_value": ""
+  },
+  {
+   "pid": "7954480527",
+   "title": "Vintage Casio keyboard",
+   "price": 100,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/lake-villa-vintage-casio-keyboard/fruA3v8PdjqunRA8sradTs",
+   "best": "Evolution Music",
+   "med": 100,
+   "ratio": 1,
+   "ai_value": "Value: Typically ranges from $40 to $150"
   },
   {
    "pid": "7955143053",
