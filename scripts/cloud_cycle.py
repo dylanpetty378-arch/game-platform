@@ -23,8 +23,11 @@ ROOT = db.ROOT
 RAW = 'https://raw.githubusercontent.com/dylanpetty378-arch/game-platform/refurbish'
 
 def latest_stage():
+    # latest event by timestamp (ties: later line) — Lens results can be ingested after a review decision was logged
     cur = {}
-    for e in db.read('events'): cur[str(e['pid'])] = e
+    for e in db.read('events'):
+        p = str(e['pid']); o = cur.get(p)
+        if o is None or (e.get('ts') or '') >= (o.get('ts') or ''): cur[p] = e
     return cur
 
 def ingest_inbox():

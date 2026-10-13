@@ -31,7 +31,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB = os.path.join(ROOT, 'db')
 SQLITE = os.environ.get('REFURB_SQLITE', '/tmp/refurb.sqlite')
 
-# Pipeline stages, in order. A listing's current stage = its latest event.
+# Pipeline stages, in order. A listing's current stage = its event with the latest ts (ties: later line wins).
 STAGES = ['harvested', 'queued', 'lensed', 'flagged', 'photo_review', 'identified', 'comps',
           'decided', 'contacted', 'bought', 'listed', 'sold', 'expired']
 # Tables: name -> (sharded by month?, key fields used for SQLite columns)
@@ -113,7 +113,7 @@ def build_sqlite():
     CREATE VIEW listing_status AS
       SELECT l.pid, l.source, l.title, l.price, l.area, l.cat, l.url, e.stage, e.status, e.type, e.note, e.ts AS stage_ts
       FROM listings l LEFT JOIN (
-        SELECT * FROM events e1 WHERE rowid = (SELECT MAX(rowid) FROM events e2 WHERE e2.pid = e1.pid)
+        SELECT * FROM events e1 WHERE rowid = (SELECT e2.rowid FROM events e2 WHERE e2.pid = e1.pid ORDER BY e2.ts DESC, e2.rowid DESC LIMIT 1)
       ) e ON e.pid = l.pid;
     ''')
     con.commit(); return con
