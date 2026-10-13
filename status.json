@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:25:56Z",
+ "updated": "2026-10-13T09:29:55Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3429,
-  "events": 12137,
+  "lens": 3454,
+  "events": 12162,
   "comps": 876,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2902,
-  "lensed": 56,
-  "queued": 2011,
+  "lensed": 77,
+  "queued": 1986,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 341,
-  "flagged": 43,
+  "flagged": 47,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -280,6 +280,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950002398",
+   "title": "Wooden vintage ironing board",
+   "price": 20,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/greensboro-wooden-vintage-ironing-board/pZtqbYGubZ5QtNH6nfaEKD",
+   "best": "Antique Wooden Ironing Board | eBay",
+   "med": 599,
+   "ratio": 29.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7944537664",
    "title": "Antique Wicker Planter",
    "price": 60,
@@ -288,6 +299,17 @@
    "best": "86 Vintage",
    "med": 1650,
    "ratio": 27.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970351889",
+   "title": "Antique Lamps",
+   "price": 40,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/tangerine-antique-lamps/1fnMhZs8nKgucbktEStZZm",
+   "best": "Vintage Table Lamp Stiffel Brass & Enamel Hollywood Regency ...",
+   "med": 950,
+   "ratio": 23.75,
    "ai_value": ""
   },
   {
@@ -354,6 +376,28 @@
    "best": "Western Reflections Impact Resistant Wyngate Door Glass - 24 ...",
    "med": 1500,
    "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938606189",
+   "title": "Antique wood floor lamp",
+   "price": 50,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-antique-wood-floor-lamp/vxpv5k2fqfoHybrK3KhgaH",
+   "best": "Turned Wood Floor Lamp/antique French Floor Lamp - Etsy",
+   "med": 725,
+   "ratio": 14.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961258754",
+   "title": "VINTAGE SKATEBOARDs",
+   "price": 25,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-skateboards/qGd7ybgYKte5Xzk8ZDEAu2",
+   "best": "Krypt Onics Skateboard Kryptonics | Mercari",
+   "med": 300,
+   "ratio": 12,
    "ai_value": ""
   },
   {
