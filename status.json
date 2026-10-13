@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T10:05:09Z",
+ "updated": "2026-10-13T10:10:41Z",
  "tables": {
   "harvests": 4,
   "searches": 1310,
   "listings": 5407,
-  "lens": 3679,
-  "events": 12463,
+  "lens": 3704,
+  "events": 12488,
   "comps": 1163,
   "item_types": 782,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2977,
-  "lensed": 162,
-  "queued": 1761,
+  "lensed": 179,
+  "queued": 1736,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 342,
-  "flagged": 110,
+  "flagged": 118,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -401,6 +401,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948764257",
+   "title": "antique garden implement wheel",
+   "price": 10,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/bonney-lake-antique-garden-implement/6aJB9yKa1yY6BnG3XLirUG",
+   "best": "Use: Originally part of antique farm machinery, seeders, or push-plows, though they are now commonly repurpose",
+   "med": 199,
+   "ratio": 19.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7960079784",
    "title": "Vintage Wood Magazine Rack",
    "price": 65,
@@ -409,6 +420,17 @@
    "best": "Estimated Value",
    "med": 1275,
    "ratio": 19.62,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955515068",
+   "title": "Vintage yard hand tools",
+   "price": 100,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/toledo-vintage-yard-hand-tools/nQrzbZ87eSzP4pumkWSffa",
+   "best": "eBay",
+   "med": 1600,
+   "ratio": 16,
    "ai_value": ""
   },
   {
@@ -566,6 +588,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7937864926",
+   "title": "antique strollers for restoration",
+   "price": 25,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/rochester-antique-strollers-for/usE7z7DCQVAGeHya99ygSr",
+   "best": "Safety & Use: Vintage models like this do not meet modern infant safety standards and are generally recommende",
+   "med": 250,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977711219",
+   "title": "Vintage Wooden Croquet Set",
+   "price": 60,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-wooden-croquet-set/pXgdaJ6MqhMf1hYyKQidrA",
+   "best": "Buy CROQUET PARTS *U-PICK* VINTAGE LAWNPLAY ...",
+   "med": 595,
+   "ratio": 9.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7945825445",
    "title": "Old Piece",
    "price": 20,
@@ -643,6 +687,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953887086",
+   "title": "Vintage wrought tables",
+   "price": 50,
+   "area": "huntington",
+   "url": "https://www.craigslist.org/view/d/cincinnati-vintage-wrought-tables/p99AM7hJ6bDfXL43ATXW6w",
+   "best": "Craigslist",
+   "med": 395,
+   "ratio": 7.9,
+   "ai_value": "Value: Sets or individual pieces typically sell secondhand between $50"
+  },
+  {
    "pid": "7982225400",
    "title": "Antique Wooden Fruit Boxes",
    "price": 20,
@@ -662,6 +717,17 @@
    "best": "Sold at Auction: Egyptian Pharaoh Amenhotep III Ceramic Bust",
    "med": 295,
    "ratio": 7.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943757484",
+   "title": "Vintage Velvet Hat",
+   "price": 45,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/bedford-vintage-velvet-hat/6DtpKHrGSLJZc1pBdACXNE",
+   "best": "Style: Wide-brim, flat-crowned design (cartwheel/pancake/platter hat style popular from the 1930s through the ",
+   "med": 328,
+   "ratio": 7.29,
    "ai_value": ""
   },
   {
@@ -1061,6 +1127,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946780684",
+   "title": "Vintage Tabletop Curios",
+   "price": 40,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/ankeny-vintage-tabletop-curios/efiFgXePNfcnCRqwb53kuy",
+   "best": "Etsy",
+   "med": 125,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7982116713",
    "title": "Vintage VICTROLA Needles Tin",
    "price": 25,
@@ -1212,6 +1289,17 @@
    "best": "Vintage Coca Cola Cooler Action Mfg Trade Marked Metal ...",
    "med": 250,
    "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980647220",
+   "title": "Vintage Wool Blanket",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-wool-blanket/mAEFutzd4ZdV6rGjz7hdZJ",
+   "best": "Poshmark",
+   "med": 127,
+   "ratio": 2.54,
    "ai_value": ""
   },
   {
