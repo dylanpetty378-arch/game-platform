@@ -24176,3 +24176,24 @@
 {"pid":"7937416007","stage":"photo_review","status":"kill","type":null,"note":"Terapeak 365d sold: Schick injector lots median $27.","run":"tp-leads-20261013d","by":"claude","data":{"tier":null,"est_resale":27,"profit":-30},"ts":"2026-10-13T18:46:31Z"}
 {"pid":"7954054138","stage":"photo_review","status":"kill","type":null,"note":"Terapeak 365d sold: Hartmann tweed train cases median $46.","run":"tp-leads-20261013d","by":"claude","data":{"tier":null,"est_resale":46,"profit":1},"ts":"2026-10-13T18:46:31Z"}
 {"pid":"7980012690","stage":"photo_review","status":"kill","type":null,"note":"Terapeak 365d sold: Trifari enamel collars median $40.","run":"tp-leads-20261013d","by":"claude","data":{"tier":null,"est_resale":40,"profit":1},"ts":"2026-10-13T18:46:31Z"}
+{"ts":"2026-10-13T18:38:59Z","pid":"7979031078","stage":"flagged","run":"lensworker-20261013-1834","note":null,"data":{"med":420,"ratio":28,"mismatch":[]}}
+{"ts":"2026-10-13T18:39:06Z","pid":"7930682593","stage":"flagged","run":"lensworker-20261013-1834","note":"Lens names Winchester — title does not","data":{"med":17,"ratio":1.13,"mismatch":["Winchester"]}}
+{"ts":"2026-10-13T18:39:16Z","pid":"7977959094","stage":"flagged","run":"lensworker-20261013-1834","note":null,"data":{"med":279,"ratio":4.65,"mismatch":[]}}
+{"ts":"2026-10-13T18:39:21Z","pid":"7956099439","stage":"queued","status":"relens","run":"lensworker-20261013-1834","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:39:34Z","pid":"7952301164","stage":"lensed","run":"lensworker-20261013-1834","note":null,"data":{"med":29,"ratio":2.9,"mismatch":[]}}
+{"ts":"2026-10-13T18:39:40Z","pid":"7973139660","stage":"queued","status":"relens","run":"lensworker-20261013-1834","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:40:01Z","pid":"7976914188","stage":"queued","status":"relens","run":"lensworker-20261013-1834","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:40:22Z","pid":"7963785912","stage":"queued","status":"relens","run":"lensworker-20261013-1834","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:40:37Z","pid":"7949914370","stage":"queued","status":"relens","run":"lensworker-20261013-1834","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:40:47Z","pid":"7951211812","stage":"lensed","run":"lensworker-20261013-1834","note":null,"data":{"med":24,"ratio":0.96,"mismatch":[]}}
+{"ts":"2026-10-13T18:40:57Z","pid":"7974733335","stage":"lensed","run":"lensworker-20261013-1834","note":null,"data":{"med":20,"ratio":0.5,"mismatch":[]}}
+{"ts":"2026-10-13T18:41:05Z","pid":"7982793546","stage":"lensed","run":"lensworker-20261013-1834","note":null,"data":{"med":20,"ratio":0.57,"mismatch":[]}}
+{"ts":"2026-10-13T18:41:13Z","pid":"7962446265","stage":"flagged","run":"lensworker-20261013-1834","note":"Lens names Gold, Monet — title does not","data":{"med":20,"ratio":0.67,"mismatch":["Gold","Monet"]}}
+{"ts":"2026-10-13T18:41:21Z","pid":"7939966730","stage":"lensed","run":"lensworker-20261013-1834","note":null,"data":{"med":23,"ratio":0.66,"mismatch":[]}}
+{"ts":"2026-10-13T18:41:31Z","pid":"7948825689","stage":"flagged","run":"lensworker-20261013-1834","note":null,"data":{"med":500,"ratio":6.67,"mismatch":[]}}
+{"ts":"2026-10-13T18:41:41Z","pid":"7978177026","stage":"lensed","run":"lensworker-20261013-1834","note":null,"data":{"med":12,"ratio":2.4,"mismatch":[]}}
+{"ts":"2026-10-13T18:41:48Z","pid":"7982747640","stage":"flagged","run":"lensworker-20261013-1834","note":"Lens names Silver — title does not","data":{"med":109,"ratio":0.73,"mismatch":["Silver"]}}
+{"ts":"2026-10-13T18:41:54Z","pid":"7939396285","stage":"queued","status":"relens","run":"lensworker-20261013-1834","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:42:04Z","pid":"7934863239","stage":"lensed","run":"lensworker-20261013-1834","note":null,"data":{"med":30,"ratio":2.5,"mismatch":[]}}
+{"ts":"2026-10-13T18:42:14Z","pid":"7982756652","stage":"flagged","run":"lensworker-20261013-1834","note":null,"data":{"med":242,"ratio":2.69,"mismatch":[]}}
+{"ts":"2026-10-13T18:42:22Z","pid":"7944404169","stage":"flagged","run":"lensworker-20261013-1834","note":null,"data":{"med":1295,"ratio":10.36,"mismatch":[]}}
