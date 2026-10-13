@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:38:57Z",
+ "updated": "2026-10-13T03:42:49Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1254,
-  "events": 6503,
+  "lens": 1279,
+  "events": 6528,
   "comps": 12,
   "item_types": 169,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3387,
-  "lensed": 495,
+  "queued": 3362,
+  "lensed": 513,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 98
+  "flagged": 105
  },
  "last_harvests": [
   {
@@ -223,6 +223,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965178767",
+   "title": "Birds Painting",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-birds-painting/9UNePgRwst8R4dXjwvezZf",
+   "best": "George Edwards | 1743-1755 | MutualArt",
+   "med": 450,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
    "pid": "7928667804",
    "title": "VINTAGE KINGSTON ELECTRIC GUITAR NECK",
    "price": 20,
@@ -399,6 +410,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7938603544",
+   "title": "Signed painting Enrique Sanchez",
+   "price": 150,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/la-mesa-signed-painting-enrique-sanchez/nLfxDprAFMmeFQ69Zw69RY",
+   "best": "Paul Mathey, Geneva Countryside, 1925, Oil on Canvas, Framed ...",
+   "med": 1500,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953886502",
+   "title": "Pair of vintage frosted glass lamp chineys",
+   "price": 10,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/bernardston-pair-of-vintage-frosted/8QEZ9yGpyoywFTthdK6RxY",
+   "best": "Vintage LAMP CHIMNEY SHADE White Frosted Clear Hurricane Oil ...",
+   "med": 93,
+   "ratio": 9.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7949862325",
    "title": "Lunch box 1982 Native American Theme-Vintage",
    "price": 19,
@@ -520,6 +553,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956204812",
+   "title": "Large collector dolls NEW",
+   "price": 20,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/san-luis-obispo-large-collector-dolls/unAw1LURuANt6h6iJaoQ1J",
+   "best": "\u30ec\u30fc\u30b9\u30c1\u30a7\u30fc\u30f3\u30c1\u30e7\u30fc\u30ab\u30fc | \u30ec\u30c7\u30a3\u30fc\u30b9\u30d5\u30a1\u30c3\u30b7\u30e7\u30f3\u901a\u8ca9 - DHOLIC",
+   "med": 135,
+   "ratio": 6.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7982480883",
    "title": "Alaron 31 days clock",
    "price": 45,
@@ -583,6 +627,17 @@
    "best": "Adamantine Clock | eBay",
    "med": 400,
    "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930161850",
+   "title": "Vintage Wakmann Covered Face Watch Gold Pearl Hinged Cuff Bracelet",
+   "price": 50,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-saint-francis-vintage-wakmann/6acfZ8w9MbZoUVnxwE2iSp",
+   "best": "Vtg MIRIAM HASKELL Signed Faux Pearl & Rhinestone Floral ...",
+   "med": 285,
+   "ratio": 5.7,
    "ai_value": ""
   },
   {
@@ -872,6 +927,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978607463",
+   "title": "Vintage .925 silver ring with large turquoise stone. Size 9.5",
+   "price": 95,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/vacaville-vintage-925-silver-ring-with/vnQhC3v1QSAm3Cqdg9UZYh",
+   "best": "Morenci Ring by Navajo- 12.5 \u2013 Gallup Trading",
+   "med": 275,
+   "ratio": 2.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7953781364",
    "title": "Wooden Indian Statue",
    "price": 55,
@@ -1089,6 +1155,17 @@
    "best": "Antique Chinese Rice Basket, Calligraphy Handles, Hand Woven ...",
    "med": 250,
    "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974546522",
+   "title": "Vintage great condition three turquoise stones set in a .925 silver ring. Size 9",
+   "price": 85,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/vacaville-vintage-great-condition-three/6BBe3aysGWaYvHr7JTvptd",
+   "best": "Vintage Navajo Native American 3 Stone Turquoise Men's ...",
+   "med": 125,
+   "ratio": 1.47,
    "ai_value": ""
   },
   {
