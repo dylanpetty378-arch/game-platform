@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T04:06:58Z",
+ "updated": "2026-10-13T04:10:45Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1429,
-  "events": 6931,
+  "lens": 1454,
+  "events": 6956,
   "comps": 12,
   "item_types": 217,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3212,
-  "lensed": 479,
+  "queued": 3187,
+  "lensed": 493,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 309,
@@ -21,7 +21,7 @@
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 46
+  "flagged": 57
  },
  "last_harvests": [
   {
@@ -202,6 +202,17 @@
    "ai_value": "Value / Market Range: Similar vintage double-sided examples typically sell between $150"
   },
   {
+   "pid": "7982479140",
+   "title": "Silverplate Coffee Urn",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-silverplate-coffee-urn/46BkaMgGNTmWLihRHQPjea",
+   "best": "ANTIQUE WATER URN - Etsy",
+   "med": 750,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
    "pid": "7968701430",
    "title": "Early 1900s Antique Ornate Bridge Floor Lamp",
    "price": 200,
@@ -243,6 +254,28 @@
    "best": "Artwork Details",
    "med": 800,
    "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946228964",
+   "title": "Premier Design Madiera necklace",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-premier-design-madiera/7n5PbakewVLf8QxSyNSCNZ",
+   "best": "Etsy",
+   "med": 125,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980927999",
+   "title": "Beautiful Framed & Matted Print",
+   "price": 25,
+   "area": "chattanooga",
+   "url": "https://www.craigslist.org/view/d/chickamauga-beautiful-framed-matted/ofrFRhqT4a9t4fL3rKTfzw",
+   "best": "Current market value or pricing for resale",
+   "med": 300,
+   "ratio": 12,
    "ai_value": ""
   },
   {
@@ -356,6 +389,28 @@
    "ai_value": "sell secondhand between $50"
   },
   {
+   "pid": "7975437819",
+   "title": "vintage old decorative china plates",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-vintage-old-decorative-china/nSZSV4KtD3ECDwf3a1UAXv",
+   "best": "Top-left plate: White porcelain with a pierced (lattice-cut) openwork rim and a central floral spray.",
+   "med": 225,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982539509",
+   "title": "Lomonosov Teapot and Demitasse Cup & Saucer",
+   "price": 50,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-lomonosov-teapot-and/vuwFbv6ZcxwVxFPo27XSmH",
+   "best": "Origin: Imperial Porcelain Manufactory (Lomonosov / LFZ), St. Petersburg, Russia.",
+   "med": 350,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7953692146",
    "title": "Candelabra Girandole Brass, Crystal Marble 3 candle",
    "price": 70,
@@ -455,6 +510,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944343097",
+   "title": "Antique Ingraham Black Matel Clock",
+   "price": 99,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/thornton-antique-ingraham-black-matel/mGFD6wrd3E1jR56izzR9nx",
+   "best": "eBay",
+   "med": 275,
+   "ratio": 2.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7982470083",
    "title": "Vintage Atkins Saw",
    "price": 75,
@@ -477,6 +543,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982525067",
+   "title": "Ringling Bros Circus Poster 1918",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/poulsbo-ringling-bros-circus-poster-1918/iEnCnCBL4wj11CG6Em5GSP",
+   "best": "Ringling Bros. - Children's Favorite Clown 1966 A+F Circus ...",
+   "med": 125,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955497041",
+   "title": "ACOUSTIC GUITAR",
+   "price": 170,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-acoustic-guitar/r9yUqUNFmWkq1k3duGVmv8",
+   "best": "Lot 74 - Hohner 'Leyanda Line' MW-400N acoustic guitar.",
+   "med": 423,
+   "ratio": 2.49,
+   "ai_value": "Value: Generally sells between $120"
+  },
+  {
    "pid": "7944889209",
    "title": "Glasses",
    "price": 40,
@@ -496,6 +584,17 @@
    "best": "eBay",
    "med": 475,
    "ratio": 2.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971181266",
+   "title": "Vintage Atomic Amano Time Clock #3633",
+   "price": 40,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/altamonte-springs-vintage-atomic-amano/nURtTbeHnUpcobT5EkqMXh",
+   "best": "Vintage Atomic Amano Timeclock Model 3607 (no keys) | eBay",
+   "med": 96,
+   "ratio": 2.4,
    "ai_value": ""
   },
   {
@@ -554,6 +653,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982503284",
+   "title": "Vintage Standard Oil Company California 5 Gallon Metal Can Petroliana",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/goodyear-vintage-standard-oil-company/ufL2uXLztj7MZgBar3V3Qk",
+   "best": "Capacity: 5 gallons",
+   "med": 145,
+   "ratio": 1.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7945063878",
    "title": "Original Bowie knife",
    "price": 50,
@@ -574,6 +684,17 @@
    "med": 105,
    "ratio": 1.75,
    "ai_value": ""
+  },
+  {
+   "pid": "7947828014",
+   "title": "Antique Emerson Electric Fan",
+   "price": 120,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/scituate-antique-emerson-electric-fan/ssSzBmAQvBzQAhyXduKf7X",
+   "best": "Pinterest",
+   "med": 200,
+   "ratio": 1.67,
+   "ai_value": "sell between $75"
   },
   {
    "pid": "7979775990",
