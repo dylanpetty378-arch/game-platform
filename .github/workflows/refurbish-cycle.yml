@@ -18,10 +18,10 @@ permissions: {contents: write}
 jobs:
   cycle:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
-        with: {ref: refurbish, fetch-depth: 1}
+        with: {ref: refurbish, fetch-depth: 50}
       - uses: actions/setup-python@v5
         with: {python-version: '3.12'}
       - name: Run one cycle
@@ -35,4 +35,8 @@ jobs:
           git add -A db q STATUS.md status.json
           git diff --cached --quiet && exit 0
           git commit -qm "cycle $(date -u +%Y-%m-%dT%H:%MZ) (${{ github.event_name }})"
-          for i in 1 2 3; do git pull -q --rebase origin refurbish && git push -q origin HEAD:refurbish && exit 0; sleep 10; done; exit 1
+          # db/*.jsonl merge with the union driver (.gitattributes); generated files (STATUS, status.json, q/) keep the bot's version.
+          for i in 1 2 3 4 5; do
+            if git pull -q --rebase -X theirs origin refurbish && git push -q origin HEAD:refurbish; then exit 0; fi
+            git rebase --abort 2>/dev/null || true; sleep $((i*10))
+          done; exit 1
