@@ -21196,3 +21196,28 @@
 {"ts":"2026-10-13T16:53:51Z","pid":"7977971538","stage":"lensed","run":"lensworker-20261013-1644","note":null,"data":{"med":49.99,"ratio":2.5,"mismatch":[]}}
 {"ts":"2026-10-13T16:53:58Z","pid":"7932554578","stage":"flagged","run":"lensworker-20261013-1644","note":null,"data":{"med":288,"ratio":4.11,"mismatch":[]}}
 {"ts":"2026-10-13T16:54:05Z","pid":"7938060339","stage":"flagged","run":"lensworker-20261013-1644","note":"Lens names European — title does not","data":{"med":55,"ratio":0.85,"mismatch":["European"]}}
+{"ts":"2026-10-13T16:54:14Z","pid":"7930537805","stage":"flagged","run":"lensworker-20261013-1644","note":"Lens names Lane, Origin, Tressemann & Vogt — title does not","data":{"med":364,"ratio":2.43,"mismatch":["Lane","Origin","Tressemann & Vogt"]}}
+{"ts":"2026-10-13T16:54:24Z","pid":"7936810803","stage":"lensed","run":"lensworker-20261013-1644","note":null,"data":{"med":11,"ratio":0.92,"mismatch":[]}}
+{"ts":"2026-10-13T16:54:32Z","pid":"7974511815","stage":"flagged","run":"lensworker-20261013-1644","note":null,"data":{"med":75,"ratio":5,"mismatch":[]}}
+{"ts":"2026-10-13T16:54:40Z","pid":"7940494494","stage":"flagged","run":"lensworker-20261013-1644","note":"Lens names Gold — title does not","data":{"med":125,"ratio":2.78,"mismatch":["Gold"]}}
+{"ts":"2026-10-13T16:54:49Z","pid":"7939106186","stage":"flagged","run":"lensworker-20261013-1644","note":null,"data":{"med":250,"ratio":2.5,"mismatch":[]}}
+{"ts":"2026-10-13T16:54:58Z","pid":"7939342862","stage":"flagged","run":"lensworker-20261013-1654","note":null,"data":{"med":144,"ratio":1.8,"mismatch":[]}}
+{"ts":"2026-10-13T16:55:05Z","pid":"7954944202","stage":"flagged","run":"lensworker-20261013-1654","note":"Lens names Ball — title does not","data":{"med":181,"ratio":3.69,"mismatch":["Ball"]}}
+{"ts":"2026-10-13T16:55:13Z","pid":"7973912457","stage":"flagged","run":"lensworker-20261013-1654","note":"Lens names Size — title does not","data":{"med":49,"ratio":1.09,"mismatch":["Size"]}}
+{"ts":"2026-10-13T16:55:19Z","pid":"7929787820","stage":"queued","status":"relens","run":"lensworker-20261013-1654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:55:28Z","pid":"7971008979","stage":"flagged","run":"lensworker-20261013-1654","note":"Lens names Company, Drake, Ludwig, Toy — title does not","data":{"med":23,"ratio":0.77,"mismatch":["Company","Drake","Ludwig","Toy"]}}
+{"ts":"2026-10-13T16:55:38Z","pid":"7938419532","stage":"flagged","run":"lensworker-20261013-1654","note":"Lens names Gold — title does not","data":{"med":19,"ratio":0.27,"mismatch":["Gold"]}}
+{"ts":"2026-10-13T16:55:45Z","pid":"7954297435","stage":"flagged","run":"lensworker-20261013-1654","note":"Lens names Rogers — title does not","data":{"med":57,"ratio":1.16,"mismatch":["Rogers"]}}
+{"ts":"2026-10-13T16:55:52Z","pid":"7979628348","stage":"lensed","run":"lensworker-20261013-1654","note":null,"data":{"med":25,"ratio":1.25,"mismatch":[]}}
+{"ts":"2026-10-13T16:56:01Z","pid":"7934461182","stage":"flagged","run":"lensworker-20261013-1654","note":"Lens names Fashion, Jewelry — title does not","data":{"med":26,"ratio":0.87,"mismatch":["Fashion","Jewelry"]}}
+{"ts":"2026-10-13T16:56:08Z","pid":"7951679486","stage":"lensed","run":"lensworker-20261013-1654","note":null,"data":{"med":55,"ratio":2.75,"mismatch":[]}}
+{"ts":"2026-10-13T16:56:15Z","pid":"7972399860","stage":"queued","status":"relens","run":"lensworker-20261013-1654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:56:23Z","pid":"7965849804","stage":"flagged","run":"lensworker-20261013-1654","note":null,"data":{"med":95,"ratio":1.38,"mismatch":[]}}
+{"ts":"2026-10-13T16:56:30Z","pid":"7955728380","stage":"flagged","run":"lensworker-20261013-1654","note":null,"data":{"med":350,"ratio":35,"mismatch":[]}}
+{"ts":"2026-10-13T16:56:39Z","pid":"7954408892","stage":"flagged","run":"lensworker-20261013-1654","note":null,"data":{"med":85,"ratio":1.89,"mismatch":[]}}
+{"ts":"2026-10-13T16:56:48Z","pid":"7954712449","stage":"flagged","run":"lensworker-20261013-1654","note":"Lens names Origin — title does not","data":{"med":29,"ratio":1.45,"mismatch":["Origin"]}}
+{"ts":"2026-10-13T16:56:56Z","pid":"7976601699","stage":"lensed","run":"lensworker-20261013-1654","note":null,"data":{"med":57,"ratio":0.76,"mismatch":[]}}
+{"ts":"2026-10-13T16:57:05Z","pid":"7957883018","stage":"flagged","run":"lensworker-20261013-1654","note":"Lens names Fashion — title does not","data":{"med":14,"ratio":0.07,"mismatch":["Fashion"]}}
+{"ts":"2026-10-13T16:57:12Z","pid":"7968521517","stage":"queued","status":"relens","run":"lensworker-20261013-1654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:57:20Z","pid":"7951964564","stage":"flagged","run":"lensworker-20261013-1654","note":null,"data":{"med":17985,"ratio":8992.5,"mismatch":[]}}
+{"ts":"2026-10-13T16:57:28Z","pid":"7966680165","stage":"flagged","run":"lensworker-20261013-1654","note":null,"data":{"med":100,"ratio":0.5,"mismatch":[]}}

@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T16:54:20Z",
+ "updated": "2026-10-13T16:57:47Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6128,
-  "events": 21198,
+  "lens": 6153,
+  "events": 21223,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 151,
+  "lensed": 155,
   "comps/pass": 1,
-  "queued/relens": 18,
+  "queued/relens": 21,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 133,
+  "flagged": 151,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 725
+  "queued": 700
  },
  "last_harvests": [
   {
@@ -361,6 +361,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7951964564",
+   "title": "vintage jewelry cuff links, pins, clips, etc",
+   "price": 2,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/merlin-vintage-jewelry-cuff-links-pins/mzrNfUR1NEY6bEjyZcLTTQ",
+   "best": "Craigslist",
+   "med": 17985,
+   "ratio": 8992.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7957667393",
    "title": "Lots of different stuff",
    "price": 26,
@@ -435,6 +446,17 @@
    "best": "Antique 1909 Framed Hallen & Weiner Winter Scene Print ...",
    "med": 800,
    "ratio": 40,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955728380",
+   "title": "Vintage Stone & Shell Necklace",
+   "price": 10,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-stone-shell-necklace/jyX8ejfCrnFV2FUunTDSwe",
+   "best": "Craigslist",
+   "med": 350,
+   "ratio": 35,
    "ai_value": ""
   },
   {
@@ -845,6 +867,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974511815",
+   "title": "Cuff links vintage",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-cuff-links-vintage/ijeWcL3qWyuTr2pK5MCrtr",
+   "best": "eBay",
+   "med": 75,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7935512193",
    "title": "Navajo Sterling Silver Bracelet w Turquoise",
    "price": 50,
@@ -986,6 +1019,17 @@
    "med": 375,
    "ratio": 3.75,
    "ai_value": "sell on secondary markets like eBay for roughly $150 to $200"
+  },
+  {
+   "pid": "7954944202",
+   "title": "Sterling Silver 925 Open Cuff Bracelet 10.392g",
+   "price": 49,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/williamsburg-sterling-silver-925-open/amvcs2J7JrYZPjCxszV1m3",
+   "best": "eBay",
+   "med": 181,
+   "ratio": 3.69,
+   "ai_value": ""
   },
   {
    "pid": "7949413405",
@@ -1197,6 +1241,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940494494",
+   "title": "Pink Zircon Watch",
+   "price": 45,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/katy-pink-zircon-watch/f1pdC2Qnq1ZnWWjLrpDESU",
+   "best": "Etsy",
+   "med": 125,
+   "ratio": 2.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7953310085",
    "title": "Gruen Veri-thin 17 jewels Men\u2019s Winding Watch",
    "price": 70,
@@ -1307,6 +1362,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939106186",
+   "title": "2 strand Green Turquoise/Bone/Sterling silver necklace",
+   "price": 100,
+   "area": "macon",
+   "url": "https://www.craigslist.org/view/d/macon-strand-green-turquoise-bone/cTG6VCVxw3nwoH4tNTYTw1",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955159417",
    "title": "Vintage Copper Bucket",
    "price": 40,
@@ -1326,6 +1392,17 @@
    "best": "1920's Egyptian Silver Filigree Panel bracelet Souvenir ...",
    "med": 149,
    "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930537805",
+   "title": "Antique Pickard Pitcher",
+   "price": 150,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/katy-antique-pickard-pitcher/7SWKpXZuPBeHTpdGLHwnfq",
+   "best": "Beautiful Antique Limoges Pitcher Hand Painted and Signed by ...",
+   "med": 364,
+   "ratio": 2.43,
    "ai_value": ""
   },
   {
@@ -1428,6 +1505,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954408892",
+   "title": "Vintage Gold Toned Metal Signed \"Gay Boyer\" Fox Heads Belt Buckle",
+   "price": 45,
+   "area": "boulder",
+   "url": "https://www.craigslist.org/view/d/longmont-vintage-gold-toned-metal/cd9XaM2XXqjiWY8uUfhPsj",
+   "best": "Poshmark",
+   "med": 85,
+   "ratio": 1.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7951881500",
    "title": "Vintage Water Pumps",
    "price": 75,
@@ -1490,6 +1578,17 @@
    "url": "https://www.craigslist.org/view/d/tucson-antique-sterling-needle-case/nqYuv4XV4CDuMa6Qsv66bj",
    "best": "You searched for chatelaine aide memoire - Morning Glory ...",
    "med": 135,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939342862",
+   "title": "NICE ORNATE VINTAGE LAMPS",
+   "price": 80,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/carmichael-nice-ornate-vintage-lamps/ubjQSwJLAS3XnAD1B1pPPg",
+   "best": "Plaque Artwork: Oval hand-painted or decal medallions on the front depicting a romantic 18th-century courting ",
+   "med": 144,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -1560,6 +1659,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954712449",
+   "title": "Vintage carving fork and honer",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/windsor-vintage-carving-fork-and-honer/a8LmwDfR2X2JwhJcuFoB2x",
+   "best": "Tines and Guard: Features a two-pronged steel fork with a mechanical finger guard that flips or stands upright",
+   "med": 29,
+   "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7933447411",
    "title": "10 vintage brooches",
    "price": 75,
@@ -1593,6 +1703,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965849804",
+   "title": "vintage Painting  Signed Oil on Canvas",
+   "price": 69,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-painting-signed/2pz4T58hvWaEPs3TapaSP9",
+   "best": "Subject & Style: The painting depicts a young woman leaning on a Dutch half-door, wearing a dark bodice, a whi",
+   "med": 95,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7948229130",
    "title": "Sterling Silver Dolphin Cuff Bracelet!",
    "price": 145,
@@ -1615,6 +1736,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954297435",
+   "title": "Vintage Silver/Copper \"Love\" Cup",
+   "price": 49,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-silver-copper-love-cup/aTUsvk33kSEdgWBeWYHMHf",
+   "best": "Shape: Bulbous, rounded bowl designed for swirling spirits.",
+   "med": 57,
+   "ratio": 1.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7974857877",
    "title": "Sterling Silver Earings",
    "price": 200,
@@ -1624,6 +1756,17 @@
    "med": 230,
    "ratio": 1.15,
    "ai_value": "Price Range: Typically sells between $75"
+  },
+  {
+   "pid": "7973912457",
+   "title": "Vintage bongos",
+   "price": 45,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-bongos/o1wF6yevb1ufjQrbL6ufYo",
+   "best": "Two Piece Wooden Bongo Drum set - (Brown) 7 inch Size ...",
+   "med": 49,
+   "ratio": 1.09,
+   "ai_value": ""
   },
   {
    "pid": "7954480527",
@@ -1670,6 +1813,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934461182",
+   "title": ".925 Sterling Silver Ring Lot of 4",
+   "price": 30,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-925-sterling-silver-ring-lot-of/kNouRwVMVrYsbQwF1Hj5Ce",
+   "best": "BTS Fashion Inspired SUGA J-hope Jimin V Jungkook Stackable ...",
+   "med": 26,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7938060339",
    "title": "OVER HUNDREN YEARS OLD PITCHER",
    "price": 65,
@@ -1700,6 +1854,17 @@
    "best": "Stella & Dot Gold Tone Green Acrylic Stone Bib Dangle ...",
    "med": 28,
    "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971008979",
+   "title": "Vintage Lot of Disneykins Marx Collectibles",
+   "price": 30,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-lot-of-disneykins/re8Ypb13vg66ENRfYrpAVm",
+   "best": "The set in the image features five classic Disney characters (from left to right):",
+   "med": 23,
+   "ratio": 0.77,
    "ai_value": ""
   },
   {
@@ -1755,6 +1920,39 @@
    "best": "Etsy",
    "med": 50,
    "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966680165",
+   "title": "Antique HUBLEY CAST-IRON Aunt Jemima DOORSTOP #486",
+   "price": 200,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/eugene-antique-hubley-cast-iron-aunt/9D37qKBJriExUyPCgWvX3j",
+   "best": "Marks4Antiques",
+   "med": 100,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938419532",
+   "title": "Medalion plates",
+   "price": 70,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-medalion-plates/fH9WRxTkv2DaiYJYvC7ryu",
+   "best": "eBay",
+   "med": 19,
+   "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957883018",
+   "title": "Jewelry Lot",
+   "price": 200,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/upper-darby-jewelry-lot/fLU68hF7wFLd2JmFfsaLwu",
+   "best": "eBay",
+   "med": 14,
+   "ratio": 0.07,
    "ai_value": ""
   },
   {
