@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T08:15:06Z",
+ "updated": "2026-10-13T08:18:46Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2979,
-  "events": 10765,
+  "lens": 3004,
+  "events": 10790,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2461,
+  "queued": 2436,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 248,
-  "lensed": 321,
+  "flagged": 260,
+  "lensed": 334,
   "decided/find": 7,
   "expired": 1
  },
@@ -687,6 +687,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957769993",
+   "title": "Vintage oil and vinegar cruet set",
+   "price": 65,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/hollywood-vintage-oil-and-vinegar-cruet/ha256n2D1SFwKGmaNS6oTU",
+   "best": "eBay",
+   "med": 895,
+   "ratio": 13.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7982582118",
    "title": "Vintage Baby/Doll Furniture Lot",
    "price": 30,
@@ -695,6 +706,17 @@
    "best": "Metal Vintage 1950s \"Doll-E-Crib\" Adjustable Side Rail Blue ...",
    "med": 400,
    "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950987385",
+   "title": "Vintage decorative green decanter",
+   "price": 10,
+   "area": "flagstaff",
+   "url": "https://www.craigslist.org/view/d/sedona-vintage-decorative-green-decanter/kaWpRwFq2nsuekwNcrEd1C",
+   "best": "Poshmark",
+   "med": 125,
+   "ratio": 12.5,
    "ai_value": ""
   },
   {
@@ -1006,6 +1028,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976998032",
+   "title": "Old military wool pants and more",
+   "price": 10,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/coeur-alene-old-military-wool-pants-and/4aCzCgqZNr2EJETSH5XAMg",
+   "best": "Craigslist",
+   "med": 70,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7982608833",
    "title": "Vintage Die Cast Hubley Tractor Toy",
    "price": 15,
@@ -1113,6 +1146,17 @@
    "best": "Vintage Medicine Jar Glass Amber Mini Vase 4\" | eBay",
    "med": 88,
    "ratio": 5.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968366135",
+   "title": "ANTIQUE WAGON Ck Tailgate Ideas",
+   "price": 50,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/grand-island-antique-wagon-ck-tailgate/nJSzVmSmTvAaoJFWZeNXBb",
+   "best": "Pinterest",
+   "med": 289,
+   "ratio": 5.78,
    "ai_value": ""
   },
   {
@@ -1578,6 +1622,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954922071",
+   "title": "Five Pretty, Vintage Black Women's Hats",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/islip-five-pretty-vintage-black-womens/rmj7yJeA6gekGMF7x7gUao",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7971299454",
    "title": "Vintage Smokeglass Pitcher",
    "price": 25,
@@ -1644,6 +1699,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928448040",
+   "title": "Beautiful Vintage Trend by Sligh Mantel Clock",
+   "price": 50,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/hollywood-beautiful-vintage-trend-by/p2hW19TYsR9wkF7foDaMcv",
+   "best": "Market Value: Pre-owned and serviced Trend by Sligh mechanical mantel clocks generally sell in the $230 to $60",
+   "med": 184,
+   "ratio": 3.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7938602960",
    "title": "BUTTER PADDLES: Antique \"Scotch Hands\" Ribbed Paddles",
    "price": 22,
@@ -1675,6 +1741,17 @@
    "med": 72,
    "ratio": 3.6,
    "ai_value": ""
+  },
+  {
+   "pid": "7982548809",
+   "title": "Antique, colorful, landscape painting with a signature",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-antique-colorful-landscape/4L4Wx7LdTDBhbJsLQQGcym",
+   "best": "OfferUp",
+   "med": 359,
+   "ratio": 3.59,
+   "ai_value": "sell in the range of $50 to $150"
   },
   {
    "pid": "7952978366",
@@ -1740,6 +1817,17 @@
    "best": "Hotbox Vintage",
    "med": 75,
    "ratio": 3.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950362925",
+   "title": "Antique Well Crank",
+   "price": 25,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/beavertown-antique-well-crank/sSUCAdJkTfuegt18tvubtX",
+   "best": "Manivelle pour puits - Bricolage",
+   "med": 85,
+   "ratio": 3.4,
    "ai_value": ""
   },
   {
@@ -1809,6 +1897,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965878544",
+   "title": "Vintage Hopalong Cassidy Children's Book & Records",
+   "price": 19,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/shasta-lake-vintage-hopalong-cassidy/wHtWg4MMwDnYsRHDjcCQ1k",
+   "best": "Title: Hopalong Cassidy and the Singing Bandit",
+   "med": 60,
+   "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7962601620",
    "title": "reelcraft hose reel",
    "price": 100,
@@ -1871,6 +1970,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-vintage-ambers/kREUruTB2cQsUQRUgix3JS",
    "best": "Setting: Gold-plated or gold-filled metal mountings with toggle-bar closures.",
    "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953556999",
+   "title": "Vintage - Hewing Broad Axe",
+   "price": 30,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/des-moines-vintage-hewing-broad-axe/veSJiNSrp4njwTcrD4ATYy",
+   "best": "Vintage Antique Craftsman / Sears Hatchet Axe Hand Hewing ...",
+   "med": 90,
    "ratio": 3,
    "ai_value": ""
   },
@@ -1949,6 +2059,17 @@
    "best": "Title: \"We, The People... 1787\"",
    "med": 72,
    "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979607432",
+   "title": "Hamilton Beach vintage stand mixer",
+   "price": 35,
+   "area": "eauclaire",
+   "url": "https://www.craigslist.org/view/d/chippewa-falls-hamilton-beach-vintage/3r2c2S81nwvvE5zqLABrmm",
+   "best": "1963 Hamilton Beach Stand Mixer Model K Chrome With Beaters ...",
+   "med": 100,
+   "ratio": 2.86,
    "ai_value": ""
   },
   {
@@ -2631,6 +2752,17 @@
    "best": "Rare 1870s steel fork for roping",
    "med": 97,
    "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979064972",
+   "title": "Vintage Metal Radio Flyer Wagon",
+   "price": 75,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/exton-vintage-metal-radio-flyer-wagon/ir8vAc6y9LPStLE38dxvzj",
+   "best": "OfferUp",
+   "med": 94,
+   "ratio": 1.25,
    "ai_value": ""
   },
   {
