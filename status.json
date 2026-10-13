@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T18:27:10Z",
+ "updated": "2026-10-13T18:31:11Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6753,
-  "events": 21824,
+  "lens": 6778,
+  "events": 21849,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 290,
+  "lensed": 303,
   "comps/pass": 1,
-  "queued/relens": 258,
+  "queued/relens": 259,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 379,
+  "flagged": 390,
   "comps/fail": 5,
   "expired": 9,
   "decided/find": 8,
-  "queued": 100
+  "queued": 75
  },
  "last_harvests": [
   {
@@ -911,6 +911,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953102416",
+   "title": "Antique lamps, hurricane lamps",
+   "price": 200,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-antique-lamps-hurricane-lamps/ubLy5bwvpsJsgFMediJLJd",
+   "best": "Vintage Hollywood Regency Crystal Strand Table Lamp With ...",
+   "med": 2450,
+   "ratio": 12.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7934424256",
    "title": "Hand Carved Wood Symobolic Idol Figure",
    "price": 30,
@@ -1483,6 +1494,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982713917",
+   "title": "Vintage 15.5\" China Shiwan Wucai Porcelain Statue figurine",
+   "price": 40,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/colts-neck-vintage-155-china-shiwan/vhG61P4KvzxWaLrU9vLJtK",
+   "best": "8\u201d Vintage Porcelain Geisha W/O Box - Fantastic Condition | eBay",
+   "med": 230,
+   "ratio": 5.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7952658862",
    "title": "Antique Stanley Hand Planes",
    "price": 35,
@@ -1766,6 +1788,17 @@
    "best": "eBay",
    "med": 85,
    "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966921398",
+   "title": "ernie ball volume pedal",
+   "price": 25,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fullerton-ernie-ball-volume-pedal/dwkuvK6vCiJWRu8PfFaMRY",
+   "best": "Ernie Ball Volume Pedal 70s-80s Vintage | eBay",
+   "med": 105,
+   "ratio": 4.2,
    "ai_value": ""
   },
   {
@@ -2085,6 +2118,17 @@
    "best": "Rare 25 PC Antique George Frederick Bowers \"scinde\" Tea ...",
    "med": 83,
    "ratio": 3.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947900059",
+   "title": "Stratocaster Silvertone",
+   "price": 100,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/peace-dale-stratocaster-silvertone/jyPCAnATtmuw4Yv6mKGbMM",
+   "best": "Silvertone SS11 Electric Guitar 2003 Stratocaster Purple | eBay",
+   "med": 330,
+   "ratio": 3.3,
    "ai_value": ""
   },
   {
@@ -3320,6 +3364,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951004393",
+   "title": "Old hatchet heads",
+   "price": 20,
+   "area": "lincoln",
+   "url": "https://www.craigslist.org/view/d/greenwood-old-hatchet-heads/2KzR9v7GpNR3dSBzEHj8jT",
+   "best": "Vintage Steel Wards Master Quality 2 LB / 3-1/2\u201d Blade ...",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951269784",
    "title": "Movado watch",
    "price": 200,
@@ -3529,6 +3584,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975464939",
+   "title": "VINTAGE DECORATIVE TELEPHONE",
+   "price": 70,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/strongsville-vintage-decorative/tQ4WMPMRJNtsNbYAmzrurg",
+   "best": "Antique Station Telephone Home Decor Brass Designer Vintage ...",
+   "med": 90,
+   "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7949716375",
    "title": "Vintage Brazilian Coin Belt",
    "price": 75,
@@ -3546,6 +3612,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/aquebogue-antique-large-1930s-ring-vase/mWKfj67TLVxSFKxZGhwjJS",
    "best": "Etsy",
+   "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955544974",
+   "title": "vintage porcelain dog",
+   "price": 25,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/new-berlinville-vintage-porcelain-dog/ezbFLeCX1h8kieFgFuC9PB",
+   "best": "Vintage Fawn Boxer Dog Ceramic Figurine Nippon Yoko Boeki Co ...",
    "med": 30,
    "ratio": 1.2,
    "ai_value": ""
@@ -3892,6 +3969,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929786078",
+   "title": "Pitcher  -  Blue Cobalt",
+   "price": 100,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/nashua-pitcher-blue-cobalt/cUr2e72MuaY9UHHzuDzNJB",
+   "best": "Metropolitan Museum of Art MMA Portugal Cobalt Blue Saratoga ...",
+   "med": 83,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7951650700",
    "title": "Creamer Sugar Vintage Set",
    "price": 25,
@@ -3934,6 +4022,28 @@
    "med": 40,
    "ratio": 0.8,
    "ai_value": "sell or list anywhere from $30 to $100"
+  },
+  {
+   "pid": "7979199009",
+   "title": "Lenox - Flowers of Affection  Vase",
+   "price": 25,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/monroe-township-lenox-flowers-of/iJ58Xept9LfsMHU2m3M1x6",
+   "best": "The Lenox Flowers of Affection Limited Edition Vase 24K Gold ...",
+   "med": 20,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946257225",
+   "title": "Lot of Vintage Handmade Fishing Lures",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-lot-of-vintage-handmade/598HxoW6wFo9QUUD8u2BjK",
+   "best": "Vintage Kautzky Lures Wiggler Buoyant Rooster Tandem ...",
+   "med": 40,
+   "ratio": 0.8,
+   "ai_value": ""
   },
   {
    "pid": "7949601267",
@@ -4525,6 +4635,17 @@
    "area": "portland",
    "url": "https://www.craigslist.org/view/d/west-linn-altimeter-barometer-leather/hxZVtpzna27vdg9vbnBdS9",
    "best": "THOMMEN - Switzerland, vintage altimeter, 5000m, 19 jewels ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950124924",
+   "title": "Vintage NOMAD Exciter wah pedal",
+   "price": 200,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/tonawanda-vintage-nomad-exciter-wah/cDw3ws8AEQpqodYx7V95H2",
+   "best": "Shin-ei Companion WF-8 8TR WAH-FUZZ (06/24) | Reverb",
    "med": null,
    "ratio": null,
    "ai_value": ""

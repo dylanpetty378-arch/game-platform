@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T18:27:10Z
+# Refurbish status — 2026-10-13T18:31:11Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 6698 |
-| flagged | 379 |
-| lensed | 290 |
-| queued/relens | 258 |
-| queued | 100 |
+| flagged | 390 |
+| lensed | 303 |
+| queued/relens | 259 |
+| queued | 75 |
 | decided/ask | 51 |
 | expired | 9 |
 | decided/kill | 8 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 7
 - searches: 1727
 - listings: 7807
-- lens: 6753
-- events: 21824
+- lens: 6778
+- events: 21849
 - comps: 1561
 - item_types: 801
 - runs: 0
@@ -102,7 +102,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00V0V_dGZSsOXo0V5_09G03K_300x300.jpg" width="160"> | [WWII US M3 CASE 1943 KNIFE](https://www.craigslist.org/view/d/yakima-wwii-us-m3-case-1943-knife/i7Hcuk756VG3uuDbb2nVNs) | $100 | yakima | **decided/ask** — WWII US M3 trench knife, stacked-leather grip, steel cross guard, sold with a Pacific-island wood/brass souvenir dagger for $100 both. Blade heavily pitted, no M8 scabbard, maker mark NOT shown. Only a crisp "U.S. M3 CAS |
 | <img src="https://images.craigslist.org/00r0r_cjWfJ7PAvej_0mB0t2_300x300.jpg" width="160"> | [Vintage Patty Hearst Tania SLA Poster](https://www.craigslist.org/view/d/garden-grove-vintage-patty-hearst-tania/67mgvrXgPbuaZ3CZU9z7uC) | $100 | orangecounty | **decided/ask** — 1974 'TANIA' Patty Hearst SLA halftone poster 16x22, toned newsprint, pin holes, shrink-wrapped to board — originals sold $150-300, reprints $20. ASK: offer $50; photo of paper edge/back to confirm thin toned 1974 newspr |
 
-## Flagged by Lens, waiting for photo review (379)
+## Flagged by Lens, waiting for photo review (390)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -158,6 +158,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00H0H_2cPY5p7gJlt_1u8176_300x300.jpg" width="120"> | 7975824978 | $50 | charleston | [Antique Brass Oil Lamp](https://www.craigslist.org/view/d/summerville-antique-brass-oil-lamp/7cnDRhcLCymv3XsVxYnyHz) | Wonderful Pair of Antique Etched Glass Brass Turkish ... | 650 | 13 |
 | <img src="https://images.craigslist.org/00l0l_6Dr1izel70F_0lM0t2_300x300.jpg" width="120"> | 7953914312 | $10 | chicago | [Beautiful Vintage Lamp](https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/bmm4SB168gJyLxt9DE3FzW) | Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ... | 126 | 12.6 |
 | <img src="https://images.craigslist.org/01616_jqdqbLpskLx_0lM0t2_300x300.jpg" width="120"> | 7943642566 | $10 | chicago | [Beautiful Vintage Lamp](https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/6hzZWsY7KGRqZ1GCt53iDo) | Vintage Urn Style Porcelain Hand Painted Floral Motif With . | 126 | 12.6 |
+| <img src="https://images.craigslist.org/00A0A_9AogMSNGNd0_0lM0t2_300x300.jpg" width="120"> | 7953102416 | $200 | sfbay | [Antique lamps, hurricane lamps](https://www.craigslist.org/view/d/san-jose-antique-lamps-hurricane-lamps/ubLy5bwvpsJsgFMediJLJd) | Vintage Hollywood Regency Crystal Strand Table Lamp With ... | 2450 | 12.25 |
 | <img src="https://images.craigslist.org/00v0v_iGLpFpieMKo_0Mo12w_300x300.jpg" width="120"> | 7934424256 | $30 | fresno | [Hand Carved Wood Symobolic Idol Figure](https://www.craigslist.org/view/d/fresno-hand-carved-wood-symobolic-idol/h5F9MHAuYDkfpjfeA9tapF) | Lobi Bateba - Etsy | 359 | 11.97 |
 | <img src="https://images.craigslist.org/00Q0Q_lNndF9z6bTD_0Mo12w_300x300.jpg" width="120"> | 7934410252 | $60 | fresno | [Vintage Sterling Silver Jewelry -NAVAJO ZUNI Turqu](https://www.craigslist.org/view/d/fresno-vintage-sterling-silver-jewelry/eva2E9JeJVjTNNNoQ7amvZ) | Vintage zuni nastacio sterling - Gem | 700 | 11.67 |
 | <img src="https://images.craigslist.org/01010_8bhNFNXRpVk_0lM0t2_300x300.jpg" width="120"> | 7933576450 | $20 | slo | [Gemstone necklace](https://www.craigslist.org/view/d/nipomo-gemstone-necklace/1AkK4Fvz3tub7B49ppxQK3) | Etsy | 230 | 11.5 |
@@ -210,6 +211,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00V0V_8SiqCtKpuBY_0Mo12w_300x300.jpg" width="120"> | 7934410299 | $10 | fresno | [Vintage Citizen Men's Quartz Watch](https://www.craigslist.org/view/d/fresno-vintage-citizen-mens-quartz-watch/uwtXhp6Qt6mYtx3kp3NxEL) | Citizen Men's Vintage Watch, Gold-Tone, Run / eBay | 59 | 5.9 |
 | <img src="https://images.craigslist.org/00Q0Q_eF5kKdSwtUx_0CI0t2_300x300.jpg" width="120"> | 7944194267 | $25 | denver | [Antique Leaded glass chandelier](https://www.craigslist.org/view/d/evergreen-antique-leaded-glass/m46etaKU82hTuzFDi4JdGz) | Style: Tiffany-style or Handel-style reproduction/vintage pi | 146 | 5.84 |
 | <img src="https://images.craigslist.org/00p0p_dOQK5fEB8D9_0t20CI_300x300.jpg" width="120"> | 7932675120 | $25 | spokane | [Vintage 1940's/1950's costume clip](https://www.craigslist.org/view/d/coeur-alene-vintage-1940s-1950s-costume/msR1BKt78G6papR2xHJ1LG) | Etsy | 145 | 5.8 |
+| <img src="https://images.craigslist.org/00i0i_lMbnDIel5wH_0hq0hq_300x300.jpg" width="120"> | 7982713917 | $40 | jerseyshore | [Vintage 15.5" China Shiwan Wucai Porcelain Statue ](https://www.craigslist.org/view/d/colts-neck-vintage-155-china-shiwan/vhG61P4KvzxWaLrU9vLJtK) | 8” Vintage Porcelain Geisha W/O Box - Fantastic Condition /  | 230 | 5.75 |
 | <img src="https://images.craigslist.org/00s0s_5S0oOzMStAK_0CI0t2_300x300.jpg" width="120"> | 7952658862 | $35 | raleigh | [Antique Stanley Hand Planes](https://www.craigslist.org/view/d/raleigh-antique-stanley-hand-planes/ueUccZWevxXTM9hHDjYQtQ) | Stanley 48 hand plane for tongue and groove cuts | 200 | 5.71 |
 | <img src="https://images.craigslist.org/00P0P_cedcFvPG8af_0jm0pO_300x300.jpg" width="120"> | 7951643895 | $35 | cleveland | [Vintage  Flying V  Soft Case](https://www.craigslist.org/view/d/painesville-vintage-flying-soft-case/dr1Nkph6XEBzyFZCdVTaDB) | Performer™ Shaped Flying V® Style Guitar Hardshell Case - TK | 195 | 5.57 |
 | <img src="https://images.craigslist.org/00Q0Q_3y5zmu60XLe_0t20jm_300x300.jpg" width="120"> | 7982779068 | $35 | houston | [1932-Beautiful-Small Oil On Canvas-E.Raines](https://www.craigslist.org/view/d/houston-1932-beautiful-small-oil-on/sDXtLH6e8KUpFbdS7d2ykX) | I can help you look up more details or comparable values. | 195 | 5.57 |
@@ -226,5 +228,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01717_5xEpMCOsWjL_0CI0pK_300x300.jpg" width="120"> | 7973619108 | $20 | portland | [Vintage Equestrian Hat](https://www.craigslist.org/view/d/lake-oswego-vintage-equestrian-hat/opbNfhHiMPkb2ZcpK6zz2X) | Etsy | 99 | 4.95 |
 | <img src="https://images.craigslist.org/00D0D_2ZD5zebFC5S_0t20CI_300x300.jpg" width="120"> | 7935486563 | $10 | losangeles | [2 Gorgeous Vintage Dishes](https://www.craigslist.org/view/d/carson-gorgeous-vintage-dishes/faAfCt9skNUdgWCQkMBdjt) | Weimar Germany Porcelain Serving Dish Tray Antique Pink ... | 49 | 4.9 |
 | <img src="https://images.craigslist.org/01414_c603oUR0ZFm_0CI0t2_300x300.jpg" width="120"> | 7981524750 | $35 | kansascity | [VINTAGE BRASS ROOSTER](https://www.craigslist.org/view/d/blackburn-vintage-brass-rooster/vuPgMkaY1tcPdbEMzbV9DF) | 10.4" Antique old China bronze gilt lucky Wealth fengshui .. | 167 | 4.77 |
-| <img src="https://images.craigslist.org/00101_2MwGYFwu2Zo_0CI0t2_300x300.jpg" width="120"> | 7942528645 | $85 | oklahomacity | [Large Vintage Painting](https://www.craigslist.org/view/d/piedmont-large-vintage-painting/t6hYH3j7HGkakJBL3xEF7A) | 1980s Original Signed Sid Mountain 'October' Oil Painting .. | 400 | 4.71 |
-| <img src="https://images.craigslist.org/01212_h0UefT25yqx_0t20CI_300x300.jpg" width="120"> | 7955319963 | $15 | southcoast | [Vintage Hand Saw](https://www.craigslist.org/view/d/somerset-vintage-hand-saw/gbBp6dawAijEpwRC2qAvzt) | Antique Hand Saw With Carved Wooden Handle and "warranted .. | 70 | 4.67 |
