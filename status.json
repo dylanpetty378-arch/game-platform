@@ -1,26 +1,27 @@
 {
- "updated": "2026-10-13T03:48:38Z",
+ "updated": "2026-10-13T03:52:31Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1304,
-  "events": 6553,
+  "lens": 1329,
+  "events": 6590,
   "comps": 12,
-  "item_types": 169,
+  "item_types": 217,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 414,
-  "queued": 3337,
-  "lensed": 529,
+  "photo_review/kill": 409,
+  "queued": 3312,
+  "lensed": 539,
   "comps/pass": 1,
-  "queued/relens": 197,
+  "decided/ask": 11,
+  "queued/relens": 195,
   "decided/pass": 1,
-  "decided/ask": 4,
+  "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 114
+  "flagged": 127
  },
  "last_harvests": [
   {
@@ -176,6 +177,17 @@
    "best": "ALPHONSE MUCHA \"PRINTEMPS\" \"SPRING\" 45CM x 100CM FRENCH ...",
    "med": 3750,
    "ratio": 98.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944484842",
+   "title": "Wall art/ paintings",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/barrington-wall-art-paintings/sEDCcs9ySCgU9k7P57JCuN",
+   "best": "Scott Woodward | SCOTT WOODWARD FLORIDA ARTIST DUCKS IN ...",
+   "med": 1700,
+   "ratio": 85,
    "ai_value": ""
   },
   {
@@ -388,17 +400,6 @@
    "ai_value": "Value: Typically ranges from $150 to $265"
   },
   {
-   "pid": "7930087323",
-   "title": "Vintage Jostens women's Quartz Swiss Gold Tone Watch w/ Hadley band.",
-   "price": 20,
-   "area": "louisville",
-   "url": "https://www.craigslist.org/view/d/mount-saint-francis-vintage-jostens/fqVbq5mutg23kukE8rCV7X",
-   "best": "Case/Dial: Gold-tone round case with a light silver dial and slim hands.",
-   "med": 250,
-   "ratio": 12.5,
-   "ai_value": ""
-  },
-  {
    "pid": "7932096664",
    "title": "Vintage Replogle world globe map",
    "price": 20,
@@ -410,6 +411,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951778316",
+   "title": "Juicy Couture Earrings",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/howard-beach-juicy-couture-earrings/87qwpe5KVPf8w4wBtxCGVV",
+   "best": "VTG Juicy Couture Palm Tree Bracelet Bag Charm Y2K Gold ...",
+   "med": 108,
+   "ratio": 10.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7953487722",
    "title": "Monkey Lamp and Tin Vase INTERESTING!",
    "price": 20,
@@ -418,6 +430,17 @@
    "best": "Vintage Bellhop Money Lamp - Etsy Israel",
    "med": 212,
    "ratio": 10.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933099878",
+   "title": "Vintage Eskimo Kitchen Mechanic Shake Mixer",
+   "price": 10,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/somerville-vintage-eskimo-kitchen/wA45Qg7LSv37dsLXP12eWr",
+   "best": "Deco Eskimo Kitchen Mechanic Model 725 Blender Malt ...",
+   "med": 105,
+   "ratio": 10.5,
    "ai_value": ""
   },
   {
@@ -474,6 +497,17 @@
    "med": 210,
    "ratio": 8.4,
    "ai_value": "Value: Typically sells between $100"
+  },
+  {
+   "pid": "7953101966",
+   "title": "Vintage star wars",
+   "price": 9,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/stayton-vintage-star-wars/ruH5Vk6iYyxdnS7qfBnSGM",
+   "best": "Release Year: 1979 (originally offered via a 1978 mail-in promotion before hitting retail)",
+   "med": 75,
+   "ratio": 8.33,
+   "ai_value": "Value (Loose / Ungraded): Typically sells between $70"
   },
   {
    "pid": "7930943527",
@@ -696,6 +730,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934311314",
+   "title": "Vintage TAKAPARTS 480 Reel",
+   "price": 25,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/manchester-vintage-takaparts-480-reel/s7G1jfYAHBr376dbEPxdy1",
+   "best": "1966 Union Hardware Company Vintage Fishing Reel | eBay",
+   "med": 136,
+   "ratio": 5.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7971176613",
    "title": "Beautiful 3D Lady Art",
    "price": 70,
@@ -872,6 +917,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974559947",
+   "title": "Hurricane table lamp",
+   "price": 85,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-hurricane-table-lamp/7wXwX5WZYThCCtRfc3gYwF",
+   "best": "ANTIQUE VICTORIAN BRASS AND GLASS OIL LAMP WITH ...",
+   "med": 275,
+   "ratio": 3.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7955380732",
    "title": "GOLD-TONE NECKLACE 17\" + CLIP-ON EARRINGS",
    "price": 20,
@@ -891,6 +947,17 @@
    "best": "Craigslist",
    "med": 80,
    "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950123107",
+   "title": "Vintage Picasso Prints",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-picasso-prints/cEnmKGNTPtaQGEQLYLSbv8",
+   "best": "1964 Vintage PICASSO \"LA VIE (THE LIFE)\" BLUE FABULOUS COLOR ...",
+   "med": 125,
+   "ratio": 3.13,
    "ai_value": ""
   },
   {
@@ -1001,6 +1068,28 @@
    "best": "Hand Carved Wooden Indian Statue 12.5\\",
    "med": 158,
    "ratio": 2.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944696821",
+   "title": "VICTORIAN SILVERPLATE CRUET/CASTOR SET",
+   "price": 35,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-victorian-silverplate-cruet/5Sy6SDsB5XE28eafHjbRnj",
+   "best": "Cruet, Condiment Lazy Susan - Derby Silver Co. Quadtuple ...",
+   "med": 100,
+   "ratio": 2.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971079998",
+   "title": "Yamaha Acoustic Guitar",
+   "price": 157,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-yamaha-acoustic-guitar/bsefkXPMNVU4QdxYruFXAd",
+   "best": "Used Yamaha FG-332-1 Natural Acoustic Guitar Natural ...",
+   "med": 449,
+   "ratio": 2.86,
    "ai_value": ""
   },
   {
@@ -1180,6 +1269,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944252768",
+   "title": "Guitar",
+   "price": 85,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/midlothian-guitar/nZoHc7ef1fHZr25t7Nygqn",
+   "best": "ESTEBAN American Legacy AL-100 Acoustic L100 2000 Black ...",
+   "med": 150,
+   "ratio": 1.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7941371676",
    "title": "Antique Persian Qajar Polychrome Ceramic Tile",
    "price": 200,
@@ -1334,6 +1434,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980647136",
+   "title": "Vintage Schlitz Beer Sign",
+   "price": 75,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/ashland-vintage-schlitz-beer-sign/g811eZj6TmMTmzG4kxMSwK",
+   "best": "Vintage Schlitz Beer Bar Light | eBay",
+   "med": 80,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7956272677",
    "title": "Christmas Bundle! Vintage-Modern! Collecting/Resale! $125/60+ Items!",
    "price": 125,
@@ -1342,6 +1453,17 @@
    "best": "Assorted Vintage Christmas 50 Ornaments, Candles, Soap ...",
    "med": 86,
    "ratio": 0.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979197398",
+   "title": "Vintage Hamilton Beach Blender",
+   "price": 175,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/arroyo-grande-vintage-hamilton-beach/gEExq4CoTie7c6261zaHSo",
+   "best": "DRINKMASTER NUMBER THIRTY,HAMILTON BEACH,ORIGINAL,JADE ...",
+   "med": 100,
+   "ratio": 0.57,
    "ai_value": ""
   },
   {
@@ -1420,9 +1542,61 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7951173343",
+   "title": "Vintage calendar Christmas card, photo, 1925.",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-calendar-christmas/sJ356yPUW9TgEmm4ULtdi2",
+   "best": "Xavier Vickman (1883-1947) - Find a Grave Memorial",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952377474",
+   "title": "Vintage School Scene Print",
+   "price": 120,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-school-scene-print/q2PnnjembSmCCx3epKAyVP",
+   "best": "Would you like to know more about the history of the painting, or are you looking for valuation and print deta",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   }
  ],
  "finds": [
+  {
+   "pid": "7953642635",
+   "title": "Vintage  Composition  Doll,19\"",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-composition-doll19/3JpjLgsdUm1MhXDSS8gaXo",
+   "note": "19\" 1930s\u201340s composition girl, mohair wig, sleep eyes, original outfit + trunk. Unmarked $50\u201390; marked Effanbee/Madame Alexander/Arranbee with wardrobe could reach ~$195. ASK: mark on back of neck/shoulders.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7944042161",
+   "title": "vintage ice bucket/wine chiller",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/mamaroneck-vintage-ice-bucket-wine/1FnT3f5v95dk6xUCY97EmX",
+   "note": "Heavy clear glass ice bucket, Lens matched Tiffany & Co. If acid-etched TIFFANY & CO. on base: ~$100\u2013150 \u2192 profit ~$50. Unmarked $15\u201330. ASK: base photo.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7978455756",
+   "title": "Vintage Barbie doll case",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/chaska-vintage-barbie-doll-case/qEzfqQKNjHfAahndWxgVnv",
+   "note": "1965 Mattel Barbie/Francie/Skipper trunk (SPP) + 2nd case. Empty $25\u201345; with 1960s dolls/mod clothes $100\u2013700 (lots sold $702\u2013911). ASK: open both cases, photos of contents.",
+   "stage": "decided",
+   "status": "ask"
+  },
   {
    "pid": "7959199503",
    "title": "Vintage Spear Fishing Decoys",
@@ -1452,6 +1626,46 @@
    "note": "Tier B (thin comps): cast/engraved Persian-Islamic bronze bowl w/ calligraphy band, 4.5in, $49 SF. Sold Islamic calligraphy bronze bowls $120-250 (n=3). Profit ~$80. Risk: modern Afghan repro - ask for base photo / patina inside foot",
    "stage": "decided",
    "status": "find"
+  },
+  {
+   "pid": "7954897115",
+   "title": "Limoges T&V Art Deco Vase",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-limoges-tv-art-deco-vase/dPqPkAGxvAscrmNcAgG6kq",
+   "note": "T&V Limoges 8\" trumpet vase, stylized iris + gold, c.1905\u201315. Only T&V blank (amateur): $60\u2013120 pass. Pickard/Stouffer studio mark: $250\u2013450. ASK: sharp base photo.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7961697087",
+   "title": "Vintage Green Cameo Uranium Depression Glass Vase",
+   "price": 70,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-green-cameo-uranium/iVxyEBu2NBZmceoYyp5J3f",
+   "note": "Green Hocking Cameo (Ballerina) footed vase ~6\" \u2014 sold $85\u2013220, median ~$100. Works only at ~$25\u201335 and no chips. ASK: height, chips, offer $30.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7940687295",
+   "title": "Vintage 1970's Choker Necklaces",
+   "price": 30,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/mentor-vintage-1970s-choker-necklaces/uZcrCxeGLgEwq9JWt8x1gv",
+   "note": "~12 1970s chains incl. snake/box chains possibly 925. 50 g sterling lot sold $131.70 (Sep 2026). ASK: clasp stamps (925/14K/GF), weight.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7930087323",
+   "title": "Vintage Jostens women's Quartz Swiss Gold Tone Watch w/ Hadley band.",
+   "price": 20,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-saint-francis-vintage-jostens/fqVbq5mutg23kukE8rCV7X",
+   "note": "GE-logo Jostens 21-jewel service-award watch titled quartz, $20 cash, Georgetown IN. Ask for case-back photos (14K vs 10K GF) and whether it runs. 14K \u2192 Tier A.",
+   "stage": "decided",
+   "status": "ask"
   },
   {
    "pid": "7958516289",
