@@ -26,6 +26,13 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (11:55) — FIX: harvest runs failed at push
+- The 11:31 harvest built `research/type_model.json` but the commit step only staged `db q STATUS.md status.json`.
+  The unstaged file broke `git pull --rebase`, so the whole harvest was lost. Health showed a FAIL (0/5 runs ok;
+  the rest were pending push runs cancelled by newer pushes, which is normal).
+- Fix: the commit step now also stages `research/type_model.json`, on both main and refurbish. Lesson: any file a
+  cycle step writes must be in the `git add` list.
+
 ### 2026-10-13 (10:30–11:00) — 48 entries deepened (research/DEEPEN_BRIEF.md)
 - The 48 most-seen non-dead types with thin entries (<7 KB) were rewritten by 6 research agents (≤30 web searches
   each). Each now has deeper maker/marks/finish detail, a **Quick ID checklist** and a **What to tell the buyer** paragraph.
