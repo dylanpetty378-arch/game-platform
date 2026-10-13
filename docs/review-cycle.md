@@ -1,54 +1,79 @@
-# Review cycle — what a scheduled (unattended) Claude session does every run
+# Review cycle: what the working Claude chat does, over and over
 
-This is the Stage-2/3 step that needs judgment (looking at photos, pricing). The cloud workflow and the Lens worker do
-everything else. A scheduled task runs this every 6 hours; any Claude session can run it by hand ("run the Refurbish
-review cycle"). Follow it exactly; log everything; message Dylan only about real finds or real breakage.
+Dylan (Oct 12 2026): one working chat does all the iterations. No separate scheduled Claude sessions change code, because
+they could overwrite each other. The cloud workflow and the Lens worker run by themselves; the chat reviews, researches,
+improves and documents. When you think you're out of things to do, check every step again.
 
-## 0. Setup (2 min)
-- Repo: `add_repo` dylanpetty378-arch/game-platform (push), then
-  `git clone --depth 200 -b refurbish https://github.com/dylanpetty378-arch/game-platform /home/claude/refurbish && cd /home/claude/refurbish`
-- `pip install --break-system-packages -q qrcode pillow reportlab` if missing. Read `docs/START-HERE.md` (rules) once.
+Take longer per item and research deeply. Everything learned goes into the encyclopedia and the database.
 
-## 1. Health check (each step of the machine) — fix before reviewing
-Run `python3 scripts/health.py` (prints a pass/fail table and writes nothing). It checks:
-1. Cloud workflow: last runs succeeded; last harvest < 6 h old; failed requests < 5%; 0 "still capped".
-2. Queue: `q/current/meta.json` < 6 h old; ≥ 500 pending.
-3. Lens worker: newest `lens` row < 2 h old (Dylan's Chrome may be closed overnight — then just note it);
-   read quality of the last 200 rows (share with priced matches ≥ 80%, empty ≤ 5%, `q.v` = current WORKER_VERSION).
-4. Database: no unparseable lines; inbox empty after the last cycle.
-If something fails, fix it (code in `scripts/`), push, re-run the workflow (`gh api -X POST
-repos/dylanpetty378-arch/game-platform/actions/workflows/refurbish-cycle.yml/dispatches -f ref=main -f
-'inputs[no_harvest]=true'`), log the fix in `docs/improvements.md`. If it needs Dylan (Chrome closed for > 24 h, token
-expired = upload HTTP 401 in the worker log), send ONE short message saying exactly what to do.
+## 0. Setup (any new chat)
+- `add_repo dylanpetty378-arch/game-platform` (push), then
+  `git clone --depth 200 -b refurbish https://github.com/dylanpetty378-arch/game-platform && cd game-platform`.
+- `git config user.email noreply@anthropic.com && git config user.name Claude`. Read `docs/START-HERE.md`.
 
-## 2. Triage everything newly flagged
-`python3 scripts/db.py worklist flagged` (or the SQL in `scripts/review_helpers.py --flagged`). For each:
-- Read title, price, area, Lens `best`, `med`, `ratio`, `ai`, `ai_value`.
-- Kill at once (event `photo_review/kill`, one-line reason, `--type` slug): anything bigger than a car's passenger seat (size rule —
-  no exceptions), fragile low-value, untested/broken electronics, needs authentication, obvious reproductions, Lens
-  category matches with nothing specific in the photos.
-- Shortlist the rest (usually 5–15%).
+## 1. Health check: every step of the machine
+`python3 scripts/health.py` prints PASS/WARN/FAIL with numbers for:
+- workflow runs
+- harvest age and failures
+- queue age and size
+- Lens freshness, read quality and worker version
+- flag rate
+- JSONL integrity
+- inbox
+- review backlog
 
-## 3. Photo review the shortlist
-`python3 scripts/lens_export.py --photos shortlist.json sheets/` → Read each sheet. Also fetch each listing's body
-(`python3 scripts/review_helpers.py --body <url>`): it often changes the verdict (per-item pricing, "local cash only",
-"runs then stops"). Identify the maker/model/type; read the encyclopedia entry; kill or keep with events.
+Fix FAILs first: change the code, push, then run
+`gh api -X POST repos/dylanpetty378-arch/game-platform/actions/workflows/refurbish-cycle.yml/dispatches -f ref=main -f 'inputs[no_harvest]=true'`
+and log the fix in `docs/improvements.md`. For the Chrome worker, read the control page
+`https://www.google.com/robots.txt?refurb` in a non-worker tab. Never navigate or close the worker tab, and never press
+Start in a second tab.
 
-## 4. Sold comps (Terapeak) for keepers
-If Claude in Chrome is available and eBay is signed in: open `https://www.ebay.com/sh/research`, paste the TPR/COMP
-helper from `docs/history/site-access-methods.md` (also in `scripts/review_helpers.py --terapeak-js`), run all queries
-in one call, render to the page, read with get_page_text. Otherwise use web search for sold prices (mark comps
-`source=web`, lower confidence). Log `db.py comp` and `db.py search` for every query.
-Apply the rule: profit = median × 0.87 − ship to buyer − ship to Dylan − price; pass if profit ≥ max(50, price).
-Tier A ≥ 2× price, B passes, C needs an answer/offer. Event `decided` with `data` {price, est_resale, profit, tier}.
+## 2. Triage the flagged list
+Run `python3 scripts/review_helpers.py --flagged`.
+- **Kill at once** (event `photo_review/kill`, a one-line reason, `type` slug) for:
+  - anything bigger than a car's passenger seat (size rule, no exceptions)
+  - policy-banned items: offensive imagery, ivory
+  - untested or broken electronics
+  - items that need authentication: designer bags, luxury watches
+  - obvious reproductions
+  - antique-mall dealer stock
+- **Treat Lens medians as asking prices, not sales.** A median above 5× the asking price usually means a wrong or
+  category-level match. Judge by the photo.
+- Everything else gets photo review.
 
-## 5. Learn
-- Encyclopedia entry for every new type (docs/encyclopedia, README format); `db.py itemtype`.
-- Anything that would have made this faster/better → `docs/improvements.md`; small safe fixes → do them now.
+## 3. Photo review, listing body, item rubric
+- Make photo sheets: `python3 scripts/review_helpers.py --shortlist pid,pid,…` then
+  `python3 scripts/lens_export.py --photos shortlist.json sheets/`. Read each one.
+- Fetch the listing body with `review_helpers.py --body <url>`. It often changes the verdict: per-item pricing, damage
+  mentions, "local cash only".
+- Read any text visible on the item, such as "21 Jewels" or "14K". Wrong subject names in a title ("Napoleon" for an
+  Incroyable) are leads.
+- Score the item rubric (docs/rubric.md). Store it as an event with `stage=rubric` and the fields in `data`.
 
-## 6. Report
-- Commit + push data/doc changes only (`db/`, `docs/`, `scripts/`) — never `q/`, `STATUS.md`, `status.json` (the bot
-  owns generated files); then dispatch the workflow with no_harvest so STATUS.md updates.
-- If there are new Tier A/B finds: build the printable report (`scripts/build_report.py`, spec in /tmp — seller
-  contacts never in the repo), send it to Dylan (SendUserFile) with one line per find. No finds → no message.
-- Never contact sellers. Never buy. Drafted messages only.
+## 4. Research the type deeply (for passes too)
+- Run `python3 scripts/enc.py find <words>`.
+  - If an entry exists: apply it, then add the sighting with `enc.py seen <slug> "<line>"`.
+  - If there's no entry, or the item is a variant the entry doesn't cover: research it fully and write or extend the
+    entry. Use the template in docs/encyclopedia/README.md, including the rubric JSON, then run `enc.py add <file>`.
+- For many types at once, use research agents with `research/BRIEF.md` (one agent per 8 types, 6 in parallel).
+- **Sold prices:** use Terapeak in Chrome on an ebay.com/sh/research tab.
+  - Get the TPR/COMP helper from `scripts/review_helpers.py --terapeak-js`. For bulk runs, use the in-page loop in
+    `research/terapeak-bulk.md`.
+  - The container can't reach eBay sold pages, and WorthPoint is paywalled. WebSearch is capped at 200 calls per chat
+    turn, shared by all agents in the turn, so save searches for identification and use Terapeak for prices.
+- Log every query with `db.py search` and every comp with `db.py comp`.
+
+## 5. Decide
+- Apply the rule: profit = median × 0.87 − ship to buyer − ship to Dylan − price. It passes if profit ≥ max(50, price).
+- Tier A: profit ≥ 2× price. Tier B: passes. Tier C: needs an answer or an offer.
+- Record the event `decided` with data {price, est_resale, profit, tier}.
+- For A/B: start the item dossier (docs/item-dossiers.md). Build the printable report with `scripts/build_report.py`,
+  using a spec in /tmp so seller contacts never go in the repo. Send it to Dylan.
+- For asks: draft the seller message. Never send anything without Dylan's OK on that specific message.
+
+## 6. Learn and improve
+- Run `enc.py index && enc.py sync`.
+- Put anything that would make this faster or better in `docs/improvements.md`, and make small safe fixes now.
+- Commit `db/ docs/ scripts/ research/` only. Never commit `q/`, `STATUS.md` or `status.json`; the bot owns them.
+- Run `git pull --rebase -X theirs`, push, then dispatch the workflow with no_harvest.
+- Then go back to step 1.

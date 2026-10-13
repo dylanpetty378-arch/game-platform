@@ -102,7 +102,14 @@ def build_queue(maxn=3000, days=10):
     relens = [L[p] for p, e in cur.items() if e['stage'] == 'queued' and e.get('status') == 'relens' and p in L]
     # size rule applies to listings queued before it existed too
     big = lambda r: scoring.is_bulky(r.get('title'))
-    pend = [r for r in pend if not big(r)]; relens = [r for r in relens if not big(r)]
+    pend = [r for r in pend if not big(r) and not scoring.POLICY.search(r.get('title') or '')]; relens = [r for r in relens if not big(r)]
+    # same photo = same item posted twice (or in two cities): Lens it once
+    seen_img, dd = set(), []
+    for r in sorted(pend, key=lambda r: -(r.get('score') or 0)):
+        k = (r.get('imgs') or [''])[0]
+        if k in seen_img: continue
+        seen_img.add(k); dd.append(r)
+    pend = dd
     # best score first; within one score, newest first and rotated across areas so one big metro can't fill the queue
     pend.sort(key=lambda r: (-(r.get('score') or 0), -(r.get('posted') or 0)))
     out, i = [], 0
