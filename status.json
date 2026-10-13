@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:00:51Z",
+ "updated": "2026-10-13T13:04:16Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4762,
-  "events": 14697,
+  "lens": 4787,
+  "events": 14722,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 551,
-  "queued": 1478,
+  "lensed": 569,
+  "queued": 1453,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 352,
-  "flagged": 443,
+  "queued/relens": 353,
+  "flagged": 449,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1074,6 +1074,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951120784",
+   "title": "Stud crystal Earrings",
+   "price": 10,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/pearl-city-stud-crystal-earrings/iowwjvUfX3S27RbgRxv5Af",
+   "best": "Les Haud\u00e8res Midi Halo Stud Earrings - GENEVIVE",
+   "med": 136,
+   "ratio": 13.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7963389252",
    "title": "Antique Wash Basin Set",
    "price": 25,
@@ -1488,6 +1499,17 @@
    "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/3ie5dPnrZgvNYgL8EyoZnF",
    "best": "Briquet chateau chatelet vintage - Collection",
    "med": 385,
+   "ratio": 8.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942986859",
+   "title": "30'' Diamond Cut Sterling Silver Chain 5g",
+   "price": 97,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-30-diamond-cut-sterling/bjgK1J41oymMJa82SA8hGP",
+   "best": "eBay",
+   "med": 830,
    "ratio": 8.56,
    "ai_value": ""
   },
@@ -2017,6 +2039,17 @@
    "best": "OfferUp",
    "med": 600,
    "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978733907",
+   "title": "Genuine Citrine & Silvertone Necklace",
+   "price": 20,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/oak-park-genuine-citrine-silvertone/q6M9fdFRdtUMseHGy12gsZ",
+   "best": "Oblong Quartz Charm - Etsy",
+   "med": 119,
+   "ratio": 5.95,
    "ai_value": ""
   },
   {
@@ -4132,6 +4165,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980503652",
+   "title": "VINTAGE COMMERCIAL LIGHTED BUDWEISER SIGN",
+   "price": 50,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-commercial-lighted/fQ3cLz8jrSyNodBfDmWFZx",
+   "best": "Estimated Value: Usually sells between $50 and $250 depending on condition, working order, and whether it reta",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7981112253",
    "title": "Beautiful Gibson Maestro Guitar",
    "price": 80,
@@ -4173,6 +4217,17 @@
    "best": "eBay",
    "med": 137,
    "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981601010",
+   "title": "Vintage Chinese pottery vase",
+   "price": 45,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-chinese-pottery/ngnP6Y461WNWxpz5d31K9i",
+   "best": "Lot - An original Chinese green glazed pottery hexagonal ...",
+   "med": 82,
+   "ratio": 1.82,
    "ai_value": ""
   },
   {
@@ -4446,6 +4501,17 @@
    "area": "ottumwa",
    "url": "https://www.craigslist.org/view/d/moberly-vintage-remington-quiet-riter/3SzVDVeF2HXzo3hNPg7xEf",
    "best": "Vintage 1957 Remington Quiet-Riter Miracle Tab Typewriter w ...",
+   "med": 100,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973960946",
+   "title": "Mattie Lou O'Kelly",
+   "price": 75,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/grosse-pointe-mattie-lou-okelly/972tEaxxP181wfVzkjNYpM",
+   "best": "Craigslist",
    "med": 100,
    "ratio": 1.33,
    "ai_value": ""
