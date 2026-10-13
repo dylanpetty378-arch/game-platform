@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-13T02:42:43Z",
+ "updated": "2026-10-13T02:47:54Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 879,
-  "events": 5876,
+  "lens": 904,
+  "events": 5901,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 374,
-  "queued": 3757,
+  "queued": 3732,
   "comps/pass": 1,
-  "lensed": 433,
-  "flagged": 27,
+  "lensed": 450,
+  "flagged": 35,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
@@ -167,6 +167,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7982454702",
+   "title": "Vintage print of small village",
+   "price": 10,
+   "area": "montana",
+   "url": "https://www.craigslist.org/view/d/billings-vintage-print-of-small-village/j7TS7g2Q34vRdYoSHZkKKY",
+   "best": "Vintage Winde Fine Prints (2) Scene and Sea View Hill in ...",
+   "med": 995,
+   "ratio": 99.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7946615450",
    "title": "Vintage Gold Distress-Painted Pinecone/Pineapple Vase",
    "price": 45,
@@ -222,6 +233,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973604894",
+   "title": "Fabulous Pottery Decorative Vase",
+   "price": 20,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/new-haven-fabulous-pottery-decorative/qcjDysQD337ovxWK4m86zq",
+   "best": "Hans Hedberg, a faience vase, Biot France. - Bukowskis",
+   "med": 133,
+   "ratio": 6.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7961363373",
    "title": "Antique Serving Bowl",
    "price": 15,
@@ -230,6 +252,17 @@
    "best": "RARE ANTIQUE ROYAL BAYREUTH 11\" BOWL GRAPES CLUSTERS - NICE ...",
    "med": 99,
    "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956155441",
+   "title": "Vintage Seashell, Pearl and Gold Beaded Necklace",
+   "price": 16,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/vintage-seashell-pearl-and-gold-beaded/m6jEGh4CT8kCx5BZXWeswa",
+   "best": "Antique Edwardian Carved Mother of Pearl 'pendant' Necklace ...",
+   "med": 98,
+   "ratio": 6.13,
    "ai_value": ""
   },
   {
@@ -277,6 +310,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961860176",
+   "title": "Fine China Coffee Set",
+   "price": 45,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-fine-china-coffee-set/dnTApBQRBALFRaZkvMWoE8",
+   "best": "Vintage Johnson Bros. Indies White - Blue Floral Ironstone ...",
+   "med": 231,
+   "ratio": 5.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7949415374",
    "title": "Vintage Chinese Jar with Lid (Hair Receiver)",
    "price": 48,
@@ -310,6 +354,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982546256",
+   "title": "Estate Sale - River at Dusk Print",
+   "price": 40,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-estate-sale-river-at-dusk/aUKreDJdYggpCUgsS4d2GB",
+   "best": "Oil Paintings para baligya sa Old Washington, Ohio ...",
+   "med": 140,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7957895660",
    "title": "Antique Oil Lamp",
    "price": 20,
@@ -339,6 +394,17 @@
    "url": "https://www.craigslist.org/view/d/sammamish-roses-on-canvas-with-frame/2cxVEyZt6SzgxjXyegbyKi",
    "best": "Climbing Roses Yellow Orange 24x48\u201d oil on canvas",
    "med": 198,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939879293",
+   "title": "Antique Limoges porcelain jardiniere,signed by artist 1902",
+   "price": 150,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/montara-antique-limoges-porcelain/rBRMTKx7dnr94JUAUU6Wiq",
+   "best": "Sold at Auction: Tressemann & Vogt Company Limoges Peony Planter",
+   "med": 495,
    "ratio": 3.3,
    "ai_value": ""
   },
@@ -428,6 +494,28 @@
    "best": "+1",
    "med": 125,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934805682",
+   "title": "Antique Bijou Pocket Watch",
+   "price": 150,
+   "area": "wheeling",
+   "url": "https://www.craigslist.org/view/d/martins-ferry-antique-bijou-pocket-watch/wHNQpG8DHWpkXSboMaEqFx",
+   "best": "Antique 19th C. Ladies Swiss 800 Silver Pocket Watch with ...",
+   "med": 200,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939657836",
+   "title": "New Haven Victorian Clock",
+   "price": 99,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-new-haven-victorian-clock/6VhzfNX8hfEWT2FbR1mkrA",
+   "best": "WORKING Victorian Clock New Haven Clock Co. USA Decorative ...",
+   "med": 110,
+   "ratio": 1.11,
    "ai_value": ""
   },
   {
