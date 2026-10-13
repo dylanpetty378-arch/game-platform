@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:39:19Z",
+ "updated": "2026-10-13T07:43:11Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2754,
-  "events": 10539,
+  "lens": 2779,
+  "events": 10564,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2686,
+  "queued": 2661,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 196,
-  "flagged": 149
+  "lensed": 211,
+  "flagged": 159
  },
  "last_harvests": [
   {
@@ -411,6 +411,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960525749",
+   "title": "Vintage bamboo stand",
+   "price": 60,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/jacksonville-vintage-bamboo-stand/ouZ9g9y4zLEbWTfxb68YoB",
+   "best": "Ceremony Japan Meiji Period Seto Ware Bamboo Tiger Design ...",
+   "med": 1600,
+   "ratio": 26.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7966561062",
    "title": "Painting",
    "price": 40,
@@ -562,6 +573,17 @@
    "best": "Handmade Pottery Creamer Signed by Dave 5.25\" x 3\" | eBay",
    "med": 420,
    "ratio": 14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982582118",
+   "title": "Vintage Baby/Doll Furniture Lot",
+   "price": 30,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-baby-doll-furniture-lot/reLFnehu9kdBV4tfyse6Uq",
+   "best": "Metal Vintage 1950s \"Doll-E-Crib\" Adjustable Side Rail Blue ...",
+   "med": 400,
+   "ratio": 13.33,
    "ai_value": ""
   },
   {
@@ -807,6 +829,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7948794754",
+   "title": "Wall Decor by Francois Langlois 12\"x12\"",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-wall-decor-by-francois/qapajr9nqE8hirr2o42MA6",
+   "best": "Henri-Louis Duhamel du Monceau - Botanical Study of Fruits ...",
+   "med": 395,
+   "ratio": 6.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950980277",
+   "title": "Vintage mid-century Danish vase - amber",
+   "price": 15,
+   "area": "flagstaff",
+   "url": "https://www.craigslist.org/view/d/sedona-vintage-mid-century-danish-vase/kzYAhHjnZDPkS4mpXb2DQe",
+   "best": "Vintage Medicine Jar Glass Amber Mini Vase 4\" | eBay",
+   "med": 88,
+   "ratio": 5.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7981192767",
    "title": "Hallmark Snoopy Charlie Brown",
    "price": 100,
@@ -859,6 +903,17 @@
    "best": "Zirconia Baby Sized/Pinky Ring (14k) \u2013 Popular J",
    "med": 791,
    "ratio": 5.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947605611",
+   "title": "McNeela Irish Mandolin",
+   "price": 150,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-mcneela-irish-mandolin/8ycZd2arb8MpzkKCmtYw1y",
+   "best": "McNeela Irish Mandolin - Best Beginner Mandolins",
+   "med": 787,
+   "ratio": 5.25,
    "ai_value": ""
   },
   {
@@ -1016,6 +1071,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945143073",
+   "title": "VINTAGE CHINESE WOMAN FU LU SHOU",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/oceanside-vintage-chinese-woman-fu-lu/9vxi4qfctU5kJAeedve9W8",
+   "best": "Antique Shiwan Ceramic Mazu Goddess Statue \u00b7 Chinese Sea ...",
+   "med": 205,
+   "ratio": 4.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7967640516",
    "title": "Vintage gray stool with hat rack",
    "price": 75,
@@ -1057,6 +1123,17 @@
    "best": "STUNNING! Vintage MURANO Style Art Glass AMBER GOLD Candy ...",
    "med": 332,
    "ratio": 3.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938602960",
+   "title": "BUTTER PADDLES: Antique \"Scotch Hands\" Ribbed Paddles",
+   "price": 22,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-butter-paddles-antique/do1zw28MHv4DCbeR6aBMDa",
+   "best": "**ULTRA RARE** Antique Carved Wood \u201cScotch Hands\u201d or ...",
+   "med": 80,
+   "ratio": 3.64,
    "ai_value": ""
   },
   {
@@ -1243,6 +1320,17 @@
    "url": "https://www.craigslist.org/view/d/mount-joy-vintage-deco-lock-skeleton-key/qYwheDjLbjQ7KiJFrhC6cw",
    "best": "Cast Iron Lock And Key Set Large Antique Vintage Look ...",
    "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962555399",
+   "title": "VINTAGE PORTION SCALE",
+   "price": 25,
+   "area": "pullman",
+   "url": "https://www.craigslist.org/view/d/moscow-vintage-portion-scale/fC6Wn2gVHawmRDArkaatof",
+   "best": "Vintage Rare Chatillon Table Scale Capacity $10 Manufactured ...",
+   "med": 75,
    "ratio": 3,
    "ai_value": ""
   },
@@ -1720,6 +1808,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948706564",
+   "title": "9 - 1964 World's Fair Dolls",
+   "price": 90,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-worlds-fair-dolls/ezhC5KNpgAaKmZPTA3ibFP",
+   "best": "Collection of (16) \"Small World\" Pen Pal Dolls. - Van Eaton ...",
+   "med": 95,
+   "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
    "pid": "7982642895",
    "title": "Vintage Webcor Stereofonic Imperial Reel-to-Reel w/ Mic",
    "price": 95,
@@ -1761,6 +1860,17 @@
    "best": "Ripley Auctions",
    "med": 192,
    "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930297191",
+   "title": "Vintage 3 African Tribal Mask Lot Wood Carved Wall Hanging Art Ethnic Decor",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-african-tribal-mask/ohoxYYfN6nz77je7z62raY",
+   "best": "Sold at Auction: Three Hand-Carved Ghanaian Decorative ...",
+   "med": 95,
+   "ratio": 0.95,
    "ai_value": ""
   },
   {
