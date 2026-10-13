@@ -19194,3 +19194,28 @@
 {"ts":"2026-10-13T15:43:23Z","pid":"7982467791","stage":"photo_review","status":"kill","type":"angel-figurines","note":"Lenox Angels of Life $30, $10-20 each","run":"triage-20261013f","by":"claude","data":{"est_resale":null,"tier":null}}
 {"ts":"2026-10-13T15:43:23Z","pid":"7982709021","stage":"photo_review","status":"kill","type":"american-dinnerware","note":"ceramic pie plate $20, modern","run":"triage-20261013f","by":"claude","data":{"est_resale":null,"tier":null}}
 {"ts":"2026-10-13T15:43:23Z","pid":"7941555452","stage":"photo_review","status":"kill","type":"sterling-silver-jewelry","note":"Photo: sterling band with gold-tone leaf overlay (Black Hills Gold style); $15-25.","run":"triage-20261013f","by":"claude","data":{"est_resale":null,"tier":null}}
+{"ts":"2026-10-13T15:39:47Z","pid":"7929156040","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":157,"ratio":1.96}}
+{"ts":"2026-10-13T15:39:57Z","pid":"7982705343","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":42,"ratio":8.4}}
+{"ts":"2026-10-13T15:40:05Z","pid":"7955347523","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":160,"ratio":1.6}}
+{"ts":"2026-10-13T15:40:14Z","pid":"7941728047","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":552,"ratio":13.8}}
+{"ts":"2026-10-13T15:40:55Z","pid":"7961213037","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":1972,"ratio":26.29}}
+{"ts":"2026-10-13T15:41:04Z","pid":"7979138907","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":1195,"ratio":79.67}}
+{"ts":"2026-10-13T15:41:13Z","pid":"7977745239","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":25,"ratio":0.71}}
+{"ts":"2026-10-13T15:41:21Z","pid":"7950631942","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":34,"ratio":1.13}}
+{"ts":"2026-10-13T15:41:28Z","pid":"7939409778","stage":"queued","status":"relens","run":"lensworker-20261013-1535","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:41:38Z","pid":"7941502901","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":50,"ratio":5}}
+{"ts":"2026-10-13T15:41:47Z","pid":"7955490487","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":260,"ratio":4.33}}
+{"ts":"2026-10-13T15:41:56Z","pid":"7982737137","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":145,"ratio":2.07}}
+{"ts":"2026-10-13T15:42:03Z","pid":"7943716458","stage":"queued","status":"relens","run":"lensworker-20261013-1535","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:42:11Z","pid":"7982729931","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":47,"ratio":0.47}}
+{"ts":"2026-10-13T15:42:22Z","pid":"7974167874","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":20,"ratio":0.67}}
+{"ts":"2026-10-13T15:42:32Z","pid":"7971333381","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":35,"ratio":1.25}}
+{"ts":"2026-10-13T15:42:42Z","pid":"7934585373","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":93,"ratio":9.3}}
+{"ts":"2026-10-13T15:42:51Z","pid":"7960992822","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":89,"ratio":8.9}}
+{"ts":"2026-10-13T15:43:01Z","pid":"7953439699","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":84,"ratio":0.84}}
+{"ts":"2026-10-13T15:43:11Z","pid":"7949664098","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":54,"ratio":2.16}}
+{"ts":"2026-10-13T15:43:21Z","pid":"7950617281","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":4000,"ratio":114.29}}
+{"ts":"2026-10-13T15:43:31Z","pid":"7946108169","stage":"lensed","run":"lensworker-20261013-1535","data":{"med":15,"ratio":0.3}}
+{"ts":"2026-10-13T15:43:38Z","pid":"7950398067","stage":"queued","status":"relens","run":"lensworker-20261013-1535","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:43:46Z","pid":"7957945943","stage":"flagged","run":"lensworker-20261013-1535","data":{"med":80,"ratio":1.45}}
+{"ts":"2026-10-13T15:43:52Z","pid":"7978829172","stage":"queued","status":"relens","run":"lensworker-20261013-1535","note":"empty Lens read, auto re-queued"}
