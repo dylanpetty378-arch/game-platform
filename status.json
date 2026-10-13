@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:55:34Z",
+ "updated": "2026-10-13T07:01:16Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2479,
-  "events": 10264,
+  "lens": 2504,
+  "events": 10289,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2961,
+  "queued": 2936,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 44,
-  "flagged": 56
+  "lensed": 62,
+  "flagged": 63
  },
  "last_harvests": [
   {
@@ -356,6 +356,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982635866",
+   "title": "Seiko Angled Desk Clock",
+   "price": 10,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/lansing-seiko-angled-desk-clock/i1Nn1NCdnHQEmHRBCJkEXN",
+   "best": "Craigslist",
+   "med": 170,
+   "ratio": 17,
+   "ai_value": ""
+  },
+  {
    "pid": "7971752520",
    "title": "VINTAGE AMERICAN EXPRESSIONIST WATERCOLOR LANDSCAPE PAULINE COLLINGS",
    "price": 45,
@@ -411,6 +422,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950259557",
+   "title": "hand-painted antique bucksaw",
+   "price": 25,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/canton-hand-painted-antique-bucksaw/vn6rsTjTaSNe7ZoPR3heMU",
+   "best": "See the tools that helped build America at our Framing and ...",
+   "med": 300,
+   "ratio": 12,
+   "ai_value": "Value: Similar hand-painted antique saws typically sell or are valued anywhere from $25"
+  },
+  {
    "pid": "7937856437",
    "title": "Antique Seed Drill End Plate",
    "price": 40,
@@ -419,6 +441,17 @@
    "best": "Country Lane Antiques | Lowell IN",
    "med": 350,
    "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978813899",
+   "title": "Antique lanterns 1800s",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/south-weymouth-antique-lanterns-1800s/vQJjugGDjnUkxGfxpzK7Ki",
+   "best": "WorthPoint",
+   "med": 195,
+   "ratio": 7.8,
    "ai_value": ""
   },
   {
@@ -631,6 +664,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977701955",
+   "title": "CUSTOM IBANEZ GiO",
+   "price": 150,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-custom-ibanez-gio/jUWXsrPBKDZWyH2gzpupgZ",
+   "best": "DEAN dragster EVO CUSTOM FLAME GUITAR | eBay",
+   "med": 400,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965398709",
    "title": "Vintage Chocolate Pot",
    "price": 45,
@@ -675,6 +719,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982600505",
+   "title": "VINTAGE METAL DOLLHOUSE",
+   "price": 75,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/exeter-vintage-metal-dollhouse/ca1Q2vevxrkLZc5yytrYTW",
+   "best": "Marx Tin Litho Marxie Mansion Marx-A-Mansion Doll House ...",
+   "med": 145,
+   "ratio": 1.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7941258286",
    "title": "Beautiful Vintage 16\" Cultured Pearl Necklace w/ Sterling Silver Clasp",
    "price": 75,
@@ -694,6 +749,17 @@
    "best": "Dina Art Company",
    "med": 132,
    "ratio": 1.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982613885",
+   "title": "Thomas Kincade \"Sunrise\"",
+   "price": 50,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/nashville-thomas-kincade-sunrise/babKTF3WyjdgvCqoHGh7fW",
+   "best": "Features: Often includes a burgundy or green mat, a decorative frame, an engraved brass nameplate, and a Certi",
+   "med": 94,
+   "ratio": 1.88,
    "ai_value": ""
   },
   {
@@ -849,6 +915,17 @@
    "med": null,
    "ratio": null,
    "ai_value": "Value / Market Price: Typically sells between $20"
+  },
+  {
+   "pid": "7960780836",
+   "title": "Vintage Esther Hunt Print with flowers",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-esther-hunt-print/piRS78VC442H1zQb2GqLdB",
+   "best": "Subject: A young woman or child in an ornate orange/red patterned Chinese robe holding a small vessel or bowl,",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   }
  ],
  "finds": [
