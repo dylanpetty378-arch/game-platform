@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:49:16Z",
+ "updated": "2026-10-13T05:51:08Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2054,
-  "events": 9251,
+  "lens": 2079,
+  "events": 9276,
   "comps": 529,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1411,
-  "queued": 3386,
+  "queued": 3361,
   "comps/pass": 1,
   "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 115,
-  "lensed": 148,
+  "flagged": 125,
+  "lensed": 163,
   "decided/find": 7
  },
  "last_harvests": [
@@ -320,6 +320,17 @@
    "best": "Dark Green Marble Ashtray, circa 1950s at 1stDibs",
    "med": 495,
    "ratio": 33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982501967",
+   "title": "Assorted knives",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/morgan-hill-assorted-knives/9SJRnkVQufdDN6Pxt5VrB1",
+   "best": "Lot Of 12) Blue Moon Trout Knife Sheath Tactical Fixed Fold ...",
+   "med": 1318,
+   "ratio": 26.36,
    "ai_value": ""
   },
   {
@@ -653,6 +664,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949415805",
+   "title": "Vintage Gold-Tone Jewelry",
+   "price": 39,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/vintage-gold-tone-jewelry/cXLHquCCfxpqhVnZiNHRNK",
+   "best": "Krementz Chunky Door Knocker Clip On Earrings Leaf Bold ...",
+   "med": 255,
+   "ratio": 6.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7952962879",
    "title": "Vintage Stoneware Pottery Lamp",
    "price": 20,
@@ -950,6 +972,17 @@
    "ai_value": "sell between $50"
   },
   {
+   "pid": "7952215839",
+   "title": "Vintage metal magazine rack",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-mateo-vintage-metal-magazine-rack/dqHmV6Zhz2fwbnyhHYjhAK",
+   "best": "Style: Mid-Century Modern (MCM) / Atomic style",
+   "med": 365,
+   "ratio": 3.65,
+   "ai_value": "Value: Typically ranges from about $70 to $325"
+  },
+  {
    "pid": "7956104022",
    "title": "Vintage Garden Cart",
    "price": 45,
@@ -969,6 +1002,17 @@
    "best": "Stanley No. 78 Plane: A cast-iron woodworking plane used to cut rabbets (recesses along the edge of a board) a",
    "med": 90,
    "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949136321",
+   "title": "Woman's Hat, vintage",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/petaluma-womans-hat-vintage/sE2MebmPebEdU6FVGXJWFb",
+   "best": "40s Berkshire Mohn Brothers Black Wool Vintage Hat With ...",
+   "med": 88,
+   "ratio": 3.52,
    "ai_value": ""
   },
   {
@@ -1038,6 +1082,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7952545689",
+   "title": "VINTAGE MOUSEKETEER DOLL",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/discovery-bay-vintage-mouseketeer-doll/k4ZhZcWFKAJ2Pe2w1vN8py",
+   "best": "Madame Alexander Doll Mouseketeer Disney Mickey Minnie Mouse ...",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963278825",
+   "title": "ANTIQUE CONVERSATION SEAT",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/discovery-bay-antique-conversation-seat/4Hrj9z3msnmXhvhDWwf6ju",
+   "best": "Antique Art Deco Gossip Bench Wood Telephone Table Chair ...",
+   "med": 324,
+   "ratio": 3.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7982376741",
    "title": "Vintage Kirby Vacuums",
    "price": 95,
@@ -1057,6 +1123,17 @@
    "best": "eBay",
    "med": 125,
    "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931997470",
+   "title": "Vintage Crystal glass bowl",
+   "price": 45,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/huntington-beach-vintage-crystal-glass/3z6RNKFmtXQWapkNYcPBho",
+   "best": "Fifth Avenue Crystal 24% Lead Crystal 8 Inch Bowl Very nice ...",
+   "med": 138,
+   "ratio": 3.07,
    "ai_value": ""
   },
   {
@@ -1280,6 +1357,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979590581",
+   "title": "Assorted Fine China",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-assorted-fine-china/1vLH7X9HTuzvuTER9WSLai",
+   "best": "Vintage Handcrafted Kelly Paulk for Silvestri Tea for One ...",
+   "med": 125,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7939551775",
    "title": "Antique oil/kerosene lamp",
    "price": 75,
@@ -1332,6 +1420,17 @@
    "best": "Vintage Federal Of Brooklyn Picture Photo Enlarger Model 312 ...",
    "med": 88,
    "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982511420",
+   "title": "Vintage double bit axes",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/vintage-double-bit-axes/k1mqgqKScnmYPB8PgnVz7F",
+   "best": "Rare embossed axe L C B Lewis C Brunman Cinncinati ...",
+   "med": 155,
+   "ratio": 1.55,
    "ai_value": ""
   },
   {
@@ -1495,6 +1594,17 @@
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/skokie-vintage-playboy/jV9k56MefXwzeV1AnbMAAn",
    "best": "PLAYBOY MAGAZINE DECEMBER 1983 JOAN COLLINS | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930182644",
+   "title": "Vintage Handloading Press Accessories",
+   "price": 45,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/sunset-beach-vintage-handloading-press/xpVintnwZjrSTumJP44Yi9",
+   "best": "REDDING Reloading \u2014 Reloading Solutions Limited",
    "med": null,
    "ratio": null,
    "ai_value": ""
