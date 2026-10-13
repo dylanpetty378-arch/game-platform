@@ -87,6 +87,6 @@ Run `python3 scripts/review_helpers.py --flagged`.
   feeds the next batch of new entries. Run `enc.py add --replace` BEFORE adding field notes, because replace overwrites them.
 - Run `enc.py index && enc.py sync`.
 - Put anything that would make this faster or better in `docs/improvements.md`, and make small safe fixes now.
-- Commit `db/ docs/ scripts/ research/` only. Never commit `q/`, `STATUS.md` or `status.json`; the bot owns them.
+- Run `python3 scripts/manifest.py` first (the website syncs from db/manifest.json). Commit `db/ docs/ scripts/ research/` only. Never commit `q/`, `STATUS.md` or `status.json`; the bot owns them.
 - Run `git pull --rebase -X theirs`, push, then dispatch the workflow with no_harvest.
 - Then go back to step 1.

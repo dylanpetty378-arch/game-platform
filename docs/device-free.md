@@ -14,6 +14,13 @@ depend on one laptop being open.
 | Google Lens reads (Tampermonkey worker) | Dylan's Chrome | **Yes** — a bonus, not required | Triage uses `review_helpers.py --unlensed` (title + photo + body read by Claude). Lens flags produced 0 keepers; the leads came from reading. |
 | Terapeak sold prices | Any Chrome with the Claude extension, signed in to eBay | **Yes** — a bonus | Sold data comes from (1) 1,400+ stored comps in the encyclopedia, (2) the Marketplace Insights API if eBay approves it, (3) active asks from the Browse API as a ceiling. A lead verified only by active asks is marked "needs sold check" in the PDF. |
 
+## The website
+Refurbish has a web workbench at a hidden path on the Vectus site (Dylan has the URL; it is also in the claude.ai
+Refurbish project). It is read-only over this repo: a sync copies `db/**/*.jsonl` and the encyclopedia into the
+site's own Postgres every 10 min using `db/manifest.json`, which `scripts/manifest.py` writes (the workflow runs it
+before every commit; run it yourself before committing db/ changes). JSON twins of every page live under
+`<base>/api/*.json` for Claude sessions without repo access. The site writes only its own tables (tracking, notes).
+
 ## "Get going" — what any new chat does (any device, claude.ai or Claude Code)
 1. Attach the repo: `add_repo dylanpetty378-arch/game-platform` (push), then clone `-b refurbish`. Read `docs/START-HERE.md`.
 2. `python3 scripts/lock.py status`. If Dylan is in this chat, `take "<chat id>" 3 --force`, commit and push
