@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T08:18:46Z",
+ "updated": "2026-10-13T08:22:18Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3004,
-  "events": 10790,
+  "lens": 3029,
+  "events": 10815,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2436,
+  "queued": 2411,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 260,
-  "lensed": 334,
+  "flagged": 269,
+  "lensed": 350,
   "decided/find": 7,
   "expired": 1
  },
@@ -753,6 +753,17 @@
    "ai_value": "Value: Similar hand-painted antique saws typically sell or are valued anywhere from $25"
   },
   {
+   "pid": "7931066757",
+   "title": "Old West Throw Pillows",
+   "price": 30,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-puente-old-west-throw-pillows/cK97meu4H6sMkekun17mAD",
+   "best": "Boho Kilim Pillow Cover: Vintage Turkish Wool, 18x18 - Etsy",
+   "med": 350,
+   "ratio": 11.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7949774027",
    "title": "The Nine Day Queen",
    "price": 40,
@@ -1190,6 +1201,17 @@
    "best": "Vintage Navajo Southwestern Sterling Silver Turquoise Brooch ...",
    "med": 195,
    "ratio": 5.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965026841",
+   "title": "GORGEOUS VINTAGE VICTORIAN HAT",
+   "price": 45,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-gorgeous-vintage-victorian-hat/eKygQSHFDcHj9cnFVwEyGA",
+   "best": "Antique Ladies Floral Hat - Etsy Singapore",
+   "med": 250,
+   "ratio": 5.56,
    "ai_value": ""
   },
   {
@@ -1886,6 +1908,17 @@
    "ai_value": "sell between $225"
   },
   {
+   "pid": "7967646774",
+   "title": "Old World Framed map",
+   "price": 40,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/norwood-old-world-framed-map/n27YGu6LkLuW1M5hrz9NW4",
+   "best": "eBay",
+   "med": 128,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7929534436",
    "title": "Vintage glass pickle jar with lid",
    "price": 35,
@@ -2491,6 +2524,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951164450",
+   "title": "Vintage Craftsman 506 pipe clamp vise",
+   "price": 65,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/palos-heights-vintage-craftsman-506/49cqduDMZKKtDCAnXbhND3",
+   "best": "Vintage Craftsman 3 1/2\" Jaw Bench Vise No. 506-51800 Swivel ...",
+   "med": 124,
+   "ratio": 1.91,
+   "ai_value": ""
+  },
+  {
    "pid": "7941258286",
    "title": "Beautiful Vintage 16\" Cultured Pearl Necklace w/ Sterling Silver Clasp",
    "price": 75,
@@ -2854,6 +2898,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971274605",
+   "title": "Vintage 1960s black label wall light",
+   "price": 95,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-1960s-black-label/qZ2eykDUX7CXTh5tJYjeAD",
+   "best": "Era: Produced mid-20th century during Carling's television advertising campaigns.",
+   "med": 100,
+   "ratio": 1.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7982642895",
    "title": "Vintage Webcor Stereofonic Imperial Reel-to-Reel w/ Mic",
    "price": 95,
@@ -2862,6 +2917,17 @@
    "best": "Vintage Webcor Regent EP-2820-10 Reel to Reel Recorder ...",
    "med": 100,
    "ratio": 1.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950545368",
+   "title": "Vintage Japanese Glass Floats",
+   "price": 120,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/issaquah-vintage-japanese-glass-floats/9rFcdHTHaPWRkdc7wJe81b",
+   "best": "eBay",
+   "med": 120,
+   "ratio": 1,
    "ai_value": ""
   },
   {
@@ -3008,12 +3074,45 @@
    "ai_value": ""
   },
   {
+   "pid": "7953248685",
+   "title": "Vintage Folk Art Wooden Toy on spring",
+   "price": 65,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-folk-art-wooden-toy/ebNq93hJDyzfmUaYaAi4bg",
+   "best": "Would you like to know current collector values for this toy, or are you looking for repair/string-replacement",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7950897544",
    "title": "Vintage scanner",
    "price": 40,
    "area": "bend",
    "url": "https://www.craigslist.org/view/d/redmond-vintage-scanner/piP7px4fH797Y1B7AQ3jVC",
    "best": "Channels: 16 regular programmable memory channels, plus 1 monitor channel and 1 search pair.",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950156783",
+   "title": "Vintage Grundig TK 35 Reel to Reel",
+   "price": 90,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/moraga-vintage-grundig-tk-35-reel-to/avizaGwFNzfSFN3mhtwiTf",
+   "best": "TK35 R-Player Grundig Radio-Vertrieb, RVF, Radiowerke; F\u00fcrth ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958558085",
+   "title": "Vintage Black Angus King Size Rotisserie Oven",
+   "price": 100,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pitcairn-vintage-black-angus-king-size/jLfVauH8goPxAbCoFfqKRs",
+   "best": "Black Rotisseries for sale | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
