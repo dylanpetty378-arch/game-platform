@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T09:22:04Z",
+ "updated": "2026-10-13T09:25:56Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3404,
-  "events": 12107,
-  "comps": 870,
+  "lens": 3429,
+  "events": 12137,
+  "comps": 876,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2902,
-  "queued": 2036,
-  "lensed": 44,
+  "lensed": 56,
+  "queued": 2011,
   "comps/pass": 1,
-  "decided/ask": 36,
+  "decided/ask": 33,
   "queued/relens": 341,
-  "flagged": 31,
+  "flagged": 43,
+  "decided/kill": 6,
   "decided/pass": 1,
-  "decided/kill": 2,
   "comps/fail": 5,
-  "decided/find": 8,
-  "expired": 1
+  "expired": 2,
+  "decided/find": 7
  },
  "last_harvests": [
   {
@@ -236,6 +236,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7944055509",
+   "title": "Antique Pine Box",
+   "price": 38,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/easton-antique-pine-box/v2rXwVHW24MbqYAzEXwq9d",
+   "best": "Vintage Wooden Carpenters Tool Chest | eBay",
+   "med": 2850,
+   "ratio": 75,
+   "ai_value": ""
+  },
+  {
    "pid": "7963406424",
    "title": "Old Model Ship",
    "price": 100,
@@ -258,6 +269,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964220384",
+   "title": "Vintage desk lamp",
+   "price": 40,
+   "area": "plattsburgh",
+   "url": "https://www.craigslist.org/view/d/ballston-spa-vintage-desk-lamp/vm9R5UTxabHA6AD3JEc1W7",
+   "best": "NIB Henny Penny ODS300.06 50 Lb Fryer Oil Disposal ...",
+   "med": 1695,
+   "ratio": 42.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7944537664",
    "title": "Antique Wicker Planter",
    "price": 60,
@@ -266,6 +288,17 @@
    "best": "86 Vintage",
    "med": 1650,
    "ratio": 27.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936848855",
+   "title": "Old wood furniture",
+   "price": 25,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/lexington-old-wood-furniture/paW8KhPXC7QM4wBdabcDvJ",
+   "best": "Cabinet alignment : r/fixit",
+   "med": 580,
+   "ratio": 23.2,
    "ai_value": ""
   },
   {
@@ -302,6 +335,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7945000606",
+   "title": "Vintage Wall Sconces Pair",
+   "price": 59,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-wall-sconces-pair/jz1Eyi9r5yc6qb4UJFX6Km",
+   "best": "Vintage Art Deco Brass Wall Sconces - Indian Candleholders ...",
+   "med": 895,
+   "ratio": 15.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976622426",
+   "title": "Antique leaded glass",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/san-antonio-antique-leaded-glass/2GvvV5C82MQFPE5NxHB883",
+   "best": "Western Reflections Impact Resistant Wyngate Door Glass - 24 ...",
+   "med": 1500,
+   "ratio": 15,
+   "ai_value": ""
+  },
+  {
    "pid": "7930372449",
    "title": "FLY FISHING BASKET VINTAGE",
    "price": 35,
@@ -311,6 +366,28 @@
    "med": 418,
    "ratio": 11.94,
    "ai_value": "Value / Range: Typically sells between $40 to $225"
+  },
+  {
+   "pid": "7941138372",
+   "title": "Vintage seats",
+   "price": 80,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/monitor-vintage-seats/e29RN34o1HEEiWD5ZwUyiC",
+   "best": "4 Vintage Wood Folding Theater Seats, Auditorium Seats ...",
+   "med": 875,
+   "ratio": 10.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960994526",
+   "title": "2 Vintage Metal Detectors",
+   "price": 65,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/redding-vintage-metal-detectors/4oUny4ECbrMyEMQG4ztbdP",
+   "best": "Vintage Sears Fat Shaking Machine - Etsy",
+   "med": 699,
+   "ratio": 10.75,
+   "ai_value": ""
   },
   {
    "pid": "7963605909",
@@ -467,6 +544,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7952672012",
+   "title": "Vintage Coleman model 6286",
+   "price": 50,
+   "area": "humboldt",
+   "url": "https://www.craigslist.org/view/d/redding-vintage-coleman-model-6286/37gVP1kJinUERoss6gFsL8",
+   "best": "Vintage Coleman Avocado Green Cooler 6286/6250 Classic ...",
+   "med": 158,
+   "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961042523",
+   "title": "Kool Collection of Stuff...",
+   "price": 85,
+   "area": "springfieldil",
+   "url": "https://www.craigslist.org/view/d/morris-kool-collection-of-stuff/xu3ZX7fsdZeKhDt6bAJfvZ",
+   "best": "Winston Salem Jaws Shark Vacuform Advertising Vintage and ...",
+   "med": 239,
+   "ratio": 2.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7956634499",
    "title": "Vintage Wooden Bread Box",
    "price": 50,
@@ -475,6 +574,17 @@
    "best": "Vintage Wood Bread Box - Etsy",
    "med": 135,
    "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968227577",
+   "title": "Vintage nutcracker king figurine",
+   "price": 30,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/east-derry-vintage-nutcracker-king/233psKQu97Ebqk7soSoYoq",
+   "best": "Christian Ulbricht Seiffener King Nutcracker 13.5 ...",
+   "med": 75,
+   "ratio": 2.5,
    "ai_value": ""
   },
   {
@@ -508,6 +618,28 @@
    "best": "1973 American Telecommunications The Candlestick Telephone ...",
    "med": 90,
    "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948825018",
+   "title": "Vintage Lodge Collar",
+   "price": 99,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-lodge-collar/smpdtmP89AVPBGGDNb25JG",
+   "best": "Rare BPOR Benevolent and Protective Order of REINDEER ...",
+   "med": 85,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981247730",
+   "title": "Vintage DK bmx stem",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/north-hollywood-vintage-dk-bmx-stem/qAfVBVrFK1HjYvGsK1KraY",
+   "best": "Dk Bmx Stem | eBay",
+   "med": 85,
+   "ratio": 0.85,
    "ai_value": ""
   },
   {
@@ -609,16 +741,6 @@
    "status": "ask"
   },
   {
-   "pid": "7955909434",
-   "title": "VINTAGE FIX-IT CONVERTIBLE",
-   "price": 20,
-   "area": "chicago",
-   "url": "https://www.craigslist.org/view/d/mount-morris-vintage-fix-it-convertible/oBwh9K5JndD8KVFAiPePdr",
-   "note": "photo: Ideal Fix-It Convertible (1950s blue/red plastic) with original box shown; boxed complete sets sell ~$90-150, loose $30-50; ask completeness (tools, jack, spare tire, key, instructions) and box condition",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7978455756",
    "title": "Vintage Barbie doll case",
    "price": 20,
@@ -659,16 +781,6 @@
    "status": "ask"
   },
   {
-   "pid": "7944345694",
-   "title": "Vintage Jerry Garcia Shirt\ud83d\udd25Grateful~\ud83d\udc80~Dead\ud83d\udd25",
-   "price": 40,
-   "area": "fresno",
-   "url": "https://www.craigslist.org/view/d/redwood-city-vintage-jerry-garcia/26EBmvt2e2yR8u5fcWrFx8",
-   "note": "Grateful Dead 'Scary Jerry' stencil lot tee, front blue rose, back by 'THE FAMILY' (body); thin faded black tee looks 1980s-90s parking-lot bootleg; no tag photo. Ask: tag photo, single-stitch hems?, back print, pit-to-pit; offer ~$25. Pays only if tag/single-stitch dates it pre-1995 (lot tees $80-200)",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7950989573",
    "title": "Vintage PUMA Pocket knife",
    "price": 50,
@@ -695,16 +807,6 @@
    "area": "vermont",
    "url": "https://www.craigslist.org/view/d/westbrook-razor-collection-vintage/oAz37DWyGVteNVwn2Z6fWf",
    "note": "8-piece razor collection, $50 OBO cash pickup (Westbrook): Gillette Tech in maroon case; gold Gillette Old Type in case w/ Rexall blades; gold Gillette in 'Chrome' labelled box; gold Gillette in purple-lined case; Rolls Razor in case; Durham Duplex boxed; 2 straight razors (one in 'U.S.'-stamped case). Parted out ~$200-250. Ask: will you ship (pickup-only) or can a local hold it; confirm head markings/date codes, blades not rusted, straight razor makers. Offer $50 shipped.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7948192014",
-   "title": "Reebok shoes, vintage/new/black",
-   "price": 40,
-   "area": "quadcities",
-   "url": "https://www.craigslist.org/view/d/north-aurora-reebok-shoes-vintage-new/hKpj9tzUkA3kDq11pBYYc8",
-   "note": "Photo/body: deadstock Reebok Newport Classic Plus black leather men's 9.5, Made in Korea, OG box (style 6-1968), bought ~1990, never worn. Vintage DS Korea Reebok Classics resell ~$100-150 (est $120). At $40 profit ~$37 < $50; at $25 ~$52. Ask: flex the soles - any midsole cracking/crumbling or yellowed glue? Offer $25. Confidence low-moderate (no comps)",
    "stage": "decided",
    "status": "ask"
   },
@@ -1007,16 +1109,6 @@
    "note": "Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing\u2013Republic c.1900-30, small frames (~10x12). Fine stitching, faded but intact. Seller asks $1/\"make a fair offer\". Offer $40 for both; ask for back-of-frame photo, sizes, any stains/holes. Resale ~$60-90 each unframed/framed on eBay -> ~$150 pair; profit at $40 = 150*.87-20-15-40 = ~$55.",
    "stage": "decided",
    "status": "ask"
-  },
-  {
-   "pid": "7934055461",
-   "title": "Vintage Lead Soldier Figures",
-   "price": 30,
-   "area": "sfbay",
-   "url": "https://www.craigslist.org/view/d/hayward-vintage-lead-soldier-figures/aED53otxTVWhE7QWMwkQn4",
-   "note": "Photos: 16 1930s-40s US dimestore hollow-cast lead soldiers - Barclay/Manoil style (2 kneeling riflemen, officer, machine gunner, crawling soldier, searchlight/cannon crew, flag bearer, blue sailor/aviator, gold aviator). Played paint, a few chips/missing bits. Dimestore figures in fair paint ~$6-15 each -> lot ~$100-150 (no comps/entry; general knowledge). At $30: 120*0.87-10-10-30 = $54 profit (Tier B; Tier A if resale >= $130). Seller SF Bay, local pickup implied - confirm ships. Verify no modern recasts (check underside for Barclay/Manoil numbers).",
-   "stage": "decided",
-   "status": "find"
   }
  ]
 }

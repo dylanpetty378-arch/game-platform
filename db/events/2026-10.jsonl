@@ -12109,3 +12109,29 @@
 {"ts":"2026-10-13T09:22:15Z","pid":"7948192014","stage":"decided","status":"kill","note":"Terapeak: Reebok Newport Classic sold $20–29 (n=2) — not a collector shoe","run":"leadcheck-20261013b"}
 {"ts":"2026-10-13T09:22:15Z","pid":"7955909434","stage":"decided","status":"kill","note":"Terapeak: Ideal Fix-It Convertible median $25.5 (n=29), p75 $45","run":"leadcheck-20261013b"}
 {"ts":"2026-10-13T09:22:15Z","pid":"7944345694","stage":"decided","status":"kill","note":"Terapeak: vintage Jerry Garcia tees median $37 (n=44), p75 $60","run":"leadcheck-20261013b"}
+{"ts":"2026-10-13T09:22:01Z","pid":"7961042523","stage":"flagged","run":"lensworker-20261013-0915","data":{"med":239,"ratio":2.81}}
+{"ts":"2026-10-13T09:22:08Z","pid":"7942941067","stage":"lensed","run":"lensworker-20261013-0915","data":{"med":50,"ratio":5}}
+{"ts":"2026-10-13T09:22:16Z","pid":"7973477970","stage":"flagged","run":"lensworker-20261013-0915","data":{"med":2159,"ratio":28.79}}
+{"ts":"2026-10-13T09:22:26Z","pid":"7982170569","stage":"lensed","run":"lensworker-20261013-0915","data":{"med":29,"ratio":1.81}}
+{"ts":"2026-10-13T09:22:36Z","pid":"7964220384","stage":"flagged","run":"lensworker-20261013-0915","data":{"med":1695,"ratio":42.38}}
+{"ts":"2026-10-13T09:22:45Z","pid":"7936848855","stage":"flagged","run":"lensworker-20261013-0915","data":{"med":580,"ratio":23.2}}
+{"ts":"2026-10-13T09:22:54Z","pid":"7952672012","stage":"flagged","run":"lensworker-20261013-0915","data":{"med":158,"ratio":3.16}}
+{"ts":"2026-10-13T09:23:03Z","pid":"7971018108","stage":"lensed","run":"lensworker-20261013-0915","data":{"med":78,"ratio":1.3}}
+{"ts":"2026-10-13T09:23:11Z","pid":"7952668907","stage":"lensed","run":"lensworker-20261013-0915","data":{"med":75,"ratio":1.25}}
+{"ts":"2026-10-13T09:23:23Z","pid":"7948835674","stage":"lensed","run":"lensworker-20261013-0922","data":{"med":55,"ratio":1.83}}
+{"ts":"2026-10-13T09:23:30Z","pid":"7960391832","stage":"lensed","run":"lensworker-20261013-0922","data":{"med":38,"ratio":1.52}}
+{"ts":"2026-10-13T09:23:40Z","pid":"7930220525","stage":"lensed","run":"lensworker-20261013-0922","data":{"med":25,"ratio":2.5}}
+{"ts":"2026-10-13T09:23:49Z","pid":"7976622426","stage":"flagged","run":"lensworker-20261013-0922","data":{"med":1500,"ratio":15}}
+{"ts":"2026-10-13T09:23:59Z","pid":"7973928387","stage":"lensed","run":"lensworker-20261013-0922","data":{"med":14,"ratio":1.4}}
+{"ts":"2026-10-13T09:24:06Z","pid":"7944141020","stage":"lensed","run":"lensworker-20261013-0922","data":{"med":37,"ratio":1.23}}
+{"ts":"2026-10-13T09:24:17Z","pid":"7948825018","stage":"flagged","run":"lensworker-20261013-0922","data":{"med":85,"ratio":0.86}}
+{"ts":"2026-10-13T09:24:28Z","pid":"7981247730","stage":"flagged","run":"lensworker-20261013-0922","data":{"med":85,"ratio":0.85}}
+{"ts":"2026-10-13T09:24:36Z","pid":"7941138372","stage":"flagged","run":"lensworker-20261013-0922","data":{"med":875,"ratio":10.94}}
+{"ts":"2026-10-13T09:24:46Z","pid":"7971179175","stage":"lensed","run":"lensworker-20261013-0922","data":{"med":35,"ratio":1.75}}
+{"ts":"2026-10-13T09:24:57Z","pid":"7968227577","stage":"flagged","run":"lensworker-20261013-0922","data":{"med":75,"ratio":2.5}}
+{"ts":"2026-10-13T09:25:05Z","pid":"7960994526","stage":"flagged","run":"lensworker-20261013-0922","data":{"med":699,"ratio":10.75}}
+{"ts":"2026-10-13T09:25:15Z","pid":"7950366681","stage":"lensed","run":"lensworker-20261013-0922","data":{"med":15,"ratio":0.3}}
+{"ts":"2026-10-13T09:25:23Z","pid":"7969165593","stage":"lensed","run":"lensworker-20261013-0922","data":{"med":75,"ratio":1.5}}
+{"ts":"2026-10-13T09:25:32Z","pid":"7945000606","stage":"flagged","run":"lensworker-20261013-0922","data":{"med":895,"ratio":15.17}}
+{"ts":"2026-10-13T09:25:41Z","pid":"7944055509","stage":"flagged","run":"lensworker-20261013-0922","data":{"med":2850,"ratio":75}}
+{"ts":"2026-10-13T09:25:56Z","pid":"7973477970","stage":"expired","run":"liveness","note":"posting gone (was flagged/)"}
