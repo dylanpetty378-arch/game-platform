@@ -44,6 +44,8 @@ Large volume of Chinese reproductions of Victorian majolica (George Jones, Minto
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): Italian ceramic fruit topiaries ~10–15" sell ~$50–120; majolica-style rabbit cachepots $20–40; Victorian Etruscan begonia-leaf plates $40–100.
 - 2026-10-13 – Terapeak 365d sold, query "Fitz and Floyd Italian ceramic fruit": n=11, median $25, p25 $12, p75 $29.95 — e.g. $40.0 Fitz and Floyd Italian Fruit and Cabba (); $25.0 Fitz And Floyd Classics Venezia Creame () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "George Jones majolica": n=50, median $191.25, p25 $75, p75 $324.95
+- 2026-10-13 – Terapeak 365d sold, query "Minton majolica": n=50, median $200, p25 $120, p75 $399
 
 ## Market
 Victorian majolica prices fell from 2000s peaks but the collector base (Majolica International Society, Strawser auctions) remains. Italian topiaries ride Grandmillennial decor trends and sell steadily.

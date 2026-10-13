@@ -45,6 +45,8 @@ Tonalá burnished ware chips and flakes easily at lip and base; paint rubs; wate
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): mid-century Tonalá burnished pitchers sell ~$40–90; painted clay owl banks $10–30 each; 17–18" painted bateas $30–70; Ken Edwards bird plates and pitchers $50–200.
 - 2026-10-13 – Terapeak 365d sold, query "hand-painted wooden batea": n=50, median $19.95, p25 $14, p75 $28 — e.g. $51.8 Vintage 17 Mexican Batea Folk Art Wood (); $14.0 Handcrafted Tigua Ecuador Folk Art Bat () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Juan Quezada Mata Ortiz pot": n=4, median $300, p25 $100, p75 $300 (thin sample)
+- 2026-10-13 – Terapeak 365d sold, query "Ken Edwards Tonala stoneware": n=50, median $35, p25 $20, p75 $59
 
 ## Market
 Steady buyer base among Southwest/Mexican-modern decorators; Etsy is strong for this category. Most supply is tourist ware; only signed and finest pieces move at good prices.

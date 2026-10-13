@@ -34,6 +34,8 @@ Few reproductions. Some modern Chinese "waterfall" novelty clocks exist (clearly
 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for the Mastercrafters #344 was $28 (mixed asking prices).
+- 2026-10-13 – Terapeak 365d sold, query "Lux pendulette clock": n=50, median $49.2, p25 $19.99, p75 $74.99
+- 2026-10-13 – Terapeak 365d sold, query "Mastercrafters motion clock": n=50, median $140.26, p25 $48, p75 $215.99
 
 ## Market
 Moderate; collectors want working examples. eBay: roughly 100+ motion clocks per month. Days to sell: 20–60.

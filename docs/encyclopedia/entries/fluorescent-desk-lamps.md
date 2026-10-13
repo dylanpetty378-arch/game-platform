@@ -47,6 +47,8 @@ All figures general knowledge, verify; no sold data in this run.
 
 ## Comps (sold, dated)
 No sold comps verified in this run (no web search budget; nothing in db/comps.jsonl for this type). The Lens median of $80 for pid 7929762122 is matched to flying-wing listings (asking prices), not to the plain pedestal shown. Pull Terapeak "fluorescent desk lamp vintage", "Lite Master lamp", "flying wing desk lamp" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "Lite Master fluorescent lamp": n=1, median $19.99, p25 $19.99, p75 $19.99 (thin sample)
+- 2026-10-13 – Terapeak 365d sold, query "Faries desk lamp": n=50, median $145, p25 $75, p75 $280
 
 ## Market
 Steady but modest; decorator/industrial and Art Deco buyers. Plain office pedestals sit for weeks; flying-wing styles sell in days to a couple of weeks if priced right. Estimated eBay US sold ~40–100/month across all fluorescent desk lamps (general knowledge, verify).

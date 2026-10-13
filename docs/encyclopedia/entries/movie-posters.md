@@ -35,6 +35,8 @@ Reprints are the dominant problem: 24×36" commercial reprints and 27×39/27×40
 
 ## Comps (sold, dated)
 - None dated in this entry. Reference knowledge: Heritage / eMoviePoster sold archives 2023–25; 1984 Terminator original folded one-sheet $200–400 (eBay sold knowledge).
+- 2026-10-13 – Terapeak 365d sold, query "Star Wars 1977 style A poster": n=50, median $199, p25 $34.99, p75 $750 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "Terminator 1984 one sheet": n=24, median $84.99, p25 $75, p75 $130
 
 ## Market
 Deep collector market; eMoviePoster runs weekly auctions with knowledgeable buyers and lower fees, Heritage handles the top end, eBay for everything else (general knowledge, verify). Buyers: film collectors, horror/sci-fi fans, decorators (who care less about originality). Original vs reprint determines everything.

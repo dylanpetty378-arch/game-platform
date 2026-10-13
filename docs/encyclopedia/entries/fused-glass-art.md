@@ -31,6 +31,8 @@ Higgins knockoffs unsigned; Peggy Karr not widely faked.
 
 ## Comps (sold, dated)
 No usable sold data: Terapeak "fused glass art" (median $18.77, n=35) returned Swarovski ornaments, not fused glass. Run "Peggy Karr trout platter" and "Higgins glass" on Terapeak.
+- 2026-10-13 – Terapeak 365d sold, query "Higgins glass bowl": n=50, median $63, p25 $50, p75 $85
+- 2026-10-13 – Terapeak 365d sold, query "Annieglass platter": n=50, median $55, p25 $43, p75 $88
 
 ## Market
 Moderate; Peggy Karr sells best in fishing/lodge and holiday seasons; Higgins has strong mid-century buyers.

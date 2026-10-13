@@ -29,6 +29,8 @@ None.
 
 ## Comps (sold, dated)
 None gathered. Lens median $318 on the example reflects inflated asking prices.
+- 2026-10-13 – Terapeak 365d sold, query "SVE Picturol projector": n=9, median $19.6, p25 $14.99, p75 $28
+- 2026-10-13 – Terapeak 365d sold, query "art deco filmstrip projector": n=2, median $45, p25 $45, p75 $45 (thin sample)
 
 ## Market
 Niche (nostalgia teachers, prop houses); slow.

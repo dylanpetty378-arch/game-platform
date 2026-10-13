@@ -29,6 +29,8 @@ Not applicable; these are mass-market goods.
 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for a "Japan Movt eagle pocket watch" was $30 (asking-price based).
+- 2026-10-13 – Terapeak 365d sold, query "Franklin Mint sterling pocket watch": n=7, median $195.56, p25 $175, p75 $200
+- 2026-10-13 – Terapeak 365d sold, query "Charles Hubert pocket watch": n=49, median $49.99, p25 $32.95, p75 $95
 
 ## Market
 Saturated. Thousands listed, low prices. Days to sell: 30+.

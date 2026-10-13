@@ -32,6 +32,8 @@ Some knockoff waxed jackets with Filson-like labels exist (general knowledge, ve
 
 ## Comps (sold, dated)
 - None recorded yet.
+- 2026-10-13 – Terapeak 365d sold, query "Filson Mackinaw cruiser": n=50, median $250, p25 $185, p75 $375
+- 2026-10-13 – Terapeak 365d sold, query "Filson Tin Cloth jacket": n=49, median $274, p25 $215.59, p75 $292.38
 
 ## Market
 Strong demand from hunters and heritage-workwear buyers on eBay, Grailed and Poshmark; fall/winter peak (general knowledge, verify).

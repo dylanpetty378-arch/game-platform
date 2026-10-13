@@ -38,6 +38,8 @@ Reissues are the main issue: Aurora moulds were reissued by Monogram, Polar Ligh
 ## Comps (sold, dated)
 - 2025-10 – eBay sold – Hasegawa 1/72 1980s sealed – $12–25; Airfix 1/72 Ju 52 (1970s box) – $20–35
 - 2025-10 – eBay sold – Aurora 1960s monster kit sealed – $150–400
+- 2026-10-13 – Terapeak 365d sold, query "Aurora monster model kit": n=49, median $25, p25 $18, p75 $29.95
+- 2026-10-13 – Terapeak 365d sold, query "Tamiya 1/12 motorcycle kit": n=50, median $25.85, p25 $19.37, p75 $33.48
 
 ## Market
 High-volume, low-ticket eBay category; buyers are modellers (who want to build) and collectors (who want sealed originals) (general knowledge, verify). Common kits sell slowly at $10–25; Aurora and 1960s box-art kits sell readily. Bulk estates of kit stashes are common supply. Winter is the traditional modelling season (general knowledge, verify).

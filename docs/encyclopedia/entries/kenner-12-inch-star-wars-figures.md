@@ -36,6 +36,8 @@ Reproduction accessories (sabers, blasters, Leia's comb/brush) and repro outfits
 - 2026 eBay sold – 1978 12" Luke loose with saber and belt – $100–200; loose missing saber $50–80
 - 2026-10-12 – Terapeak – 1978 12" Leia – 36 sold, median $99; complete $144; MIB $425
 - Disagreement: the actionfigure411 tracker (3 sales, avg $303) is far above the larger Terapeak sample (36 sold, median $99). Both are 2026; Terapeak is the larger and same-day sample – use it for pricing loose figures.
+- 2026-10-13 – Terapeak 365d sold, query "Kenner 12 inch Boba Fett": n=50, median $29.99, p25 $13.94, p75 $49
+- 2026-10-13 – Terapeak 365d sold, query "Kenner 12 inch IG-88": n=50, median $46.55, p25 $13.94, p75 $85 — wide spread; query likely mixes variants/parts, read with care
 
 ## Market
 Strong nostalgia collector market (Gen X Star Wars fans); eBay sells several of these per week. Peaks around Nov–Dec and new Star Wars releases. Loose incomplete figures are plentiful; complete and boxed are what sell well. (general knowledge, verify)

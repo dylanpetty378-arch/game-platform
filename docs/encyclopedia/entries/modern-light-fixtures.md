@@ -38,6 +38,8 @@ Licensed reissues (Modernica Nelson Bubble, Louis Poulsen current production) an
 - Allen + Roth bronze finish metal pendant light — $10.72 — Feb 2, 2026 (Terapeak)
 - Modern Farmhouse Blue Pendant Lights — $45.99 — Jul 27, 2026 (Terapeak)
 - Integrated LED Mini Pendant Chrome — $35 — Aug 11, 2026 (Terapeak)
+- 2026-10-13 – Terapeak 365d sold, query "Louis Poulsen PH5": n=13, median $499, p25 $150, p75 $595
+- 2026-10-13 – Terapeak 365d sold, query "Nelson bubble lamp Howard Miller": n=4, median $213, p25 $206.25, p75 $399.93 (thin sample)
 
 ## Market
 Builder-grade: slow, local-only economics. MCM designer: strong demand, fast.

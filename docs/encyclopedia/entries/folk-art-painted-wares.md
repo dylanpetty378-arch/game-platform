@@ -37,6 +37,8 @@ Old buckets/boxes repainted in "PA Dutch" style to pass as original; reproductio
 - "Vintage Hand Painted Metal Tin Canister Toleware Folk A..." sold $29.99, 2026-09-27 (terapeak via comps.jsonl).
 - "KC Linden Dairy 10 Gal Milk Can ~ Hand Painted Farm Sce..." sold $36.11, 2025-11-03 (terapeak via comps.jsonl).
 - Lens best match "Vintage Helen Hume Hand-painted Fold Art Bucket" with Lens median $138 (asking, 2026-10-13).
+- 2026-10-13 – Terapeak 365d sold, query "Peter Hunt painted box": n=3, median $128, p25 $95, p75 $128 (thin sample)
+- 2026-10-13 – Terapeak 365d sold, query "painted toleware antique": n=50, median $45, p25 $25, p75 $90
 
 ## Market
 Decor-driven, seasonal-ish (fall/farmhouse); sells slowly unless early or signed. Strong in PA/New England.

@@ -35,6 +35,8 @@ Non-Kamaka ukuleles with a Kamaka decal (junk tier). Kamaka reissued the Pineapp
 - 2025 – Mahar's – 1990s white-label HF-1 – sold (price not shown; comparable eBay solds $550–750)
 - 2025 – Elderly – new HF-1 – ~$1,100
 - No sold comp with a dated price yet.
+- 2026-10-13 – Terapeak 365d sold, query "Kamaka Pineapple ukulele": n=33, median $400, p25 $250, p75 $550
+- 2026-10-13 – Terapeak 365d sold, query "Kamaka gold label soprano": n=33, median $329, p25 $250, p75 $400
 
 ## Market
 Strong player and collector market (Hawaii, West Coast, Japan); Reverb is the natural venue, eBay second. Sells in days–weeks if priced right. Steady; slight holiday bump. (general knowledge, verify)

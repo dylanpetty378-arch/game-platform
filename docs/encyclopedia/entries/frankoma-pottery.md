@@ -37,6 +37,7 @@ Frankoma reissued earlier moulds in red clay (check clay colour). Few outright f
 - Vintage Frankoma Planter Cogwheel 235 — $15 — Mar 8, 2026 (Terapeak)
 - Vintage Frankoma Planter Cogwheel 235 — $5 — Aug 28, 2026 (Terapeak)
 - Vintage Frankoma Planter Cogwheel 235 — $19.99 — Sep 23, 2026 (Terapeak)
+- 2026-10-13 – Terapeak 365d sold, query "Frankoma Pot Puma mark": n=2, median $202.5, p25 $202.5, p75 $202.5 (thin sample)
 
 ## Market
 Large supply, regional (Texas/Oklahoma) collector base. Common pieces slow.

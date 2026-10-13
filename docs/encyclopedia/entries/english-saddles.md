@@ -33,6 +33,7 @@ Counterfeit/badged no-name saddles with fake maker stamps exist in the low end (
 
 ## Comps (sold, dated)
 - None recorded yet.
+- 2026-10-13 – Terapeak 365d sold, query "Pessoa saddle": n=50, median $500, p25 $200, p75 $1050
 
 ## Market
 Riders buy used saddles constantly via eBay, tack-shop consignment, Facebook groups and Saddlefitter-type sites; fit (seat size, tree width) decides sales (general knowledge, verify).

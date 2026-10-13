@@ -38,6 +38,8 @@ Fake PAF stickers on later pickups, re-stickered Patent-number pickups, and bout
 - 2025–26 – Gibson 490R + 498T pair, long leads – $120–170 (Reverb sold)
 - 2025–26 – Seymour Duncan JB – $55–80
 - 2025–26 – Gibson Patent-number humbucker, 1960s – $600–1,200
+- 2026-10-13 – Terapeak 365d sold, query "Gibson PAF pickup": n=46, median $55.9, p25 $23.74, p75 $65.5
+- 2026-10-13 – Terapeak 365d sold, query "Gibson Patent Number pickup": n=40, median $200, p25 $159.99, p75 $435
 
 ## Market
 Fast, liquid market on Reverb and eBay; guitarists buy for swaps, so modern pickups trade near a stable used price. Vintage Gibson/Fender pickups go to collectors and builders (general knowledge, verify).

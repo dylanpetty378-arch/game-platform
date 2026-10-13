@@ -75,6 +75,7 @@ Hummel reissues of old models with later marks; Chinese Lladró look-alikes and 
 ## Comps (sold, dated)
 - None dated yet. Tier prices are eBay sold knowledge as of Oct 2026.
 - LoveToKnow (undated): Precious Moments Disney "Woody and Bullseye" $139 and "Beauty and the Beast" $99.95 reported as eBay sales; 1978 "Jesus Loves Me" boy $30 and "Make a Joyful Noise" $22 were listings, not sales.
+- 2026-10-13 – Terapeak 365d sold, query "Hummel crown mark": n=50, median $65, p25 $38, p75 $110
 
 ## Market
 Huge supply from estates and few young buyers; many listings, low sell-through, slow sales except rare marks and big Lladró groups (general knowledge, verify). Christmas plates sell seasonally. Disney-park-exclusive Precious Moments (2005+) are a small bright spot, about $100–150 boxed (LoveToKnow).

@@ -37,6 +37,8 @@ Reproduction head vases from China since 2000s (heavier, poorer facial paint, no
 - Vintage Granny Utensils Holder Planter — $2.99 — Mar 21, 2026 (Terapeak)
 - Planter Old Mother Hubbard Granny Ceramic Utensil Holder — $20 — Jul 5, 2026 (Terapeak)
 - Lucas Gourmet Gifts Kitsch Granny Kitchen holder — $0.99 — Apr 12, 2026 (Terapeak)
+- 2026-10-13 – Terapeak 365d sold, query "Napco head vase lashes": n=50, median $36.95, p25 $30, p75 $45
+- 2026-10-13 – Terapeak 365d sold, query "Inarco head vase": n=50, median $40, p25 $27.39, p75 $68
 
 ## Market
 Head vases: steady collector market, fast for nice ones. Granny/kitsch: thin.

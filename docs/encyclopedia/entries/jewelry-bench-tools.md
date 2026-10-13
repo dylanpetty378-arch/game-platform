@@ -37,6 +37,7 @@ No true fakes, but import mills are painted green to resemble Durston; check for
 - benchpeg classified 2026: Durston heavy-duty mill listed ~£700–900 used
 - Ganoksin consensus: Indian/Chinese mini mills $100–200 new, rollers mark easily; Durston holds resale ~60–70% of retail
 - No dated sold comps yet.
+- 2026-10-13 – Terapeak 365d sold, query "Durston rolling mill": n=16, median $600, p25 $325, p75 $1064.98
 
 ## Market
 Niche but steady: jewelry students, hobby metalsmiths, small studios; estate sales of retired jewelers produce lots. eBay plus benchpeg and Ganoksin classifieds, FB groups. Heavy items sell better locally. (general knowledge, verify)

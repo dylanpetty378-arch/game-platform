@@ -61,6 +61,8 @@ Few fakes; modern reproduction discs exist for Regina/Polyphon (lower value than
 - 2026-08 – Thorens AD30 21-disc lot – $150 (Terapeak)
 
 Note: the 2013 Rinker comps ($220–388) are higher than the 2026 Terapeak data (median $130; 21-disc lot $150). The 2026 numbers are more recent and should drive buy decisions.
+- 2026-10-13 – Terapeak 365d sold, query "Regina disc music box": n=50, median $55, p25 $29, p75 $80
+- 2026-10-13 – Terapeak 365d sold, query "Thorens AD30 music box": n=50, median $125, p25 $70, p75 $192.78
 
 ## Market
 Steady eBay demand from music-box collectors and gift buyers; the Thorens market has softened since 2013. Antique Regina/Symphonion sell best through specialist auctions and the Musical Box Society community (general knowledge, verify). Mild Nov–Dec gift peak. The Mechanical Music Digest (mmdigest.com) is the main collector forum for repair and ID questions.

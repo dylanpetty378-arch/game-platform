@@ -39,6 +39,7 @@ Licensed reproductions and retro tins exist (e.g. later reissues of Beatles, Sta
 - 2025 – 1959 Aladdin Gunsmoke w/ thermos, paint loss – ask $1,150 OBO (eBay 176418919499; asking, not sold; actual sales of this box run $300–700)
 - 2019–2020 – Milestone Auctions lots of 2–4 common boxes – $300–425 per lot (appraisily)
 - 2026-10 – 1972/73 Aladdin Gunsmoke (horse version), no thermos – $90 ask (CL Louisville; asking, not sold; fair, these sell $50–150)
+- 2026-10-13 – Terapeak 365d sold, query "1954 Superman lunch box": n=9, median $268, p25 $99.99, p75 $300
 
 ## Market
 Established collector market since the 1980s (Scott Bruce guides); eBay is the main venue, with auction houses (Milestone, Hake's) for top titles (general knowledge, verify). Buyers are baby-boomer and Gen-X nostalgia collectors and TV/character collectors (Western, Beatles, Star Trek, superhero crossover demand). Common 1970s–80s boxes are plentiful and slow; key early titles in good condition sell readily. Prices for mid-tier boxes have been flat to soft as the core collector base ages (general knowledge, verify).

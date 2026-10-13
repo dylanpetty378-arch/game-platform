@@ -36,6 +36,7 @@ No real counterfeits; the risk is scams — stock or pawn-style photos at too-go
 ## Comps (sold, dated)
 - 2017 – Onewheel+ new – $1,499 (fallman.tech; retail)
 - 2025 – eBay used Onewheel+ with charger – $300–450 range on sold listings; XR $550–850 (browse of sold results, owforum)
+- 2026-10-13 – Terapeak 365d sold, query "Onewheel GT": n=43, median $28.66, p25 $20.33, p75 $54.29
 
 ## Market
 Active used market on eBay, Facebook Marketplace and the owforum/Onewheel community; riders buy older XRs as daily boards (general knowledge, verify). Spring–summer is peak riding season. Shipping cost and hazmat rules push many sales local.

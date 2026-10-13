@@ -44,6 +44,7 @@ Fenton reissued its own carnival and hobnail shapes many times; the moulded logo
 (Note: the Terapeak query mixed books and Mosser; median is a fair indicator for ordinary Fenton.)
 - 2026-10-13 – Terapeak 365d sold, query "Fenton black glass hand-painted vase": n=50, median $45, p25 $30, p75 $63.71 — e.g. $40.0 Fenton Black Art Glass Square Shaped V (); $70.0 Fenton Black Marigold Amethyst Peacock () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Fenton Fenton glass": n=50, median $22.5, p25 $15.88, p75 $41.72 — e.g. $29.95 Fenton Art Glass Fairy Lights Revised (); $59.71 Mosser Glass Gigi Collection Serving B () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Fenton Mosaic Off-Hand": n=3, median $399.99, p25 $321.52, p75 $399.99 (thin sample)
 
 ## Market
 Oversupplied: the collector base is ageing and estate sales are full of Fenton. Common pieces sit for months. Cranberry, Burmese and Connoisseur items still sell in 1–4 weeks.

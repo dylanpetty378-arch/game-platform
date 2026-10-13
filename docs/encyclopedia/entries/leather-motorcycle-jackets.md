@@ -45,6 +45,7 @@ Schott still makes 618/613 (new $900+); reissues identifiable by modern labels a
 - 2025-11-12 – eBay (Terapeak) – Women's Wilsons black leather jacket size M – $30
 - 2025-11-12 – eBay (Terapeak) – Wilson's M. Julian leather bomber 2XLT – $55
 - 2026-10-10 – eBay (Terapeak) – Women's biker classic genuine cowhide motorcycle – $75.71
+- 2026-10-13 – Terapeak 365d sold, query "Buco J-24 jacket": n=30, median $1495, p25 $650, p75 $1828
 
 ## Market
 Large and steady; vintage moto jackets sell well in sizes S–L. Size and measurements drive sales.

@@ -53,6 +53,8 @@ Chips to rims and feet, hairline cracks (tap test rings dull), gold wear, flakin
 - Undated column – Pickard "Limoges–France–W. A. Pickard" Poppy bowl by John Loh, c.1910 – valued $350–450 (https://www.creators.com/read/antique-or-junque/09/08/poppy-decorated-porcelain-bowl-still-holds-some-value)
 - eBay sold pattern (knowledge, 2024–25): amateur-painted T&V vases 6–10 in $35–110; T&V/JPL jardinieres amateur-painted $60–180; Haviland dinner plates $8–20; authentic Peint Main boxes $25–80
 - 2026-10-13 – Terapeak 365d sold, query "limoges porcelain": n=50, median $24.5, p25 $11.98, p75 $46.79 — e.g. $5.13 The Collector's Encyclopedia of Limoges Porcelain by Ga (Jun 11, 2026); $9.41 Theodore Haviland Butter Pat, Antique French Limoges Pi (Feb 16, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Pickard Limoges signed": n=50, median $79.99, p25 $36, p75 $150
+- 2026-10-13 – Terapeak 365d sold, query "Limoges fish plates signed Dubois": n=2, median $279.94, p25 $279.94, p75 $279.94 (thin sample)
 
 ## Market
 Soft for dinnerware and amateur work (supply far exceeds demand – every estate has some), steady for game/fish plates, strong and specialised for Pickard (Woody Auction, Pickard collectors). eBay hundreds of Limoges sales per month; median single piece ~$30. Little seasonality; Mother's Day and wedding season slight bumps for boxes.

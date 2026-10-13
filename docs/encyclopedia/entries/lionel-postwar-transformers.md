@@ -39,6 +39,8 @@ Three earlier write-ups gave overlapping bands; all kept.
 - 2026-10 – eBay – ZW 275 W "upgraded and serviced" – listings $180–260
 - 2025 – eBay sold – ZW working, old cord – $110–160 (knowledge)
 - 2025-10 – eBay sold – Lionel 1033 working – $30–55; KW – $70–100; ZW – $120–180 (note: the source line says Oct 2025 while the sweep is Oct 2026 – possibly a year typo; verify)
+- 2026-10-13 – Terapeak 365d sold, query "Lionel ZW transformer": n=47, median $13.99, p25 $6.17, p75 $18.99
+- 2026-10-13 – Terapeak 365d sold, query "Lionel 773 Hudson": n=50, median $19.95, p25 $10, p75 $40
 
 ## Market
 Large, steady market of O-gauge operators and collectors (TCA members), mostly older buyers; eBay is the main venue, plus train shows. Peaks Nov–Jan (holiday layouts). Transformers sell steadily; prices flat to slowly softening as the collector base ages. (general knowledge, verify)

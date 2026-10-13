@@ -35,6 +35,7 @@ Counterfeit Mitutoyo digital calipers are common online; Starrett less so. Gerst
 - 2024–25 – eBay sold (knowledge) – Kennedy 520/526 chests $90–180; Gerstner oak $250–600; Starrett 798 8" digital caliper $150–220
 - 2026-10-13 – Lens median for Weldon Tool Co metal tool chest – $76 (asking-price based, not sold)
 - No dated sold comps with exact dates yet.
+- 2026-10-13 – Terapeak 365d sold, query "Gerstner 11 drawer chest": n=50, median $465, p25 $350, p75 $575.99
 
 ## Market
 Steady eBay demand from machinists, hobbyists and collectors; retiring-machinist estates supply the market. Starrett/Mitutoyo instruments sell quickly; chests sell well locally due to weight. (general knowledge, verify)

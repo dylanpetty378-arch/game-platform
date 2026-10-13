@@ -32,6 +32,7 @@ Counterfeit Leatherman Waves/Charges sold online (poor stamping, rough finish, w
 
 ## Comps (sold, dated)
 - (knowledge-based: used PST with sheath $40–65 on eBay) – no dated sold comps yet.
+- 2026-10-13 – Terapeak 365d sold, query "Leatherman limited edition": n=50, median $350, p25 $150, p75 $424.99
 
 ## Market
 Huge, liquid eBay market (users, EDC enthusiasts, a smaller collector niche for PST variants). Sells in days at fair price; Christmas/Father's Day bumps. Pawn shops and estate sales supply the market cheaply. (general knowledge, verify)

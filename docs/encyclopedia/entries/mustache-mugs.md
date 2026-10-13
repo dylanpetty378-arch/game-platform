@@ -36,6 +36,8 @@ Broken mustache guard edge (common), rim chips, hairline cracks, gilt wear, stai
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no data). Lens best match "China Moustache Cup - Etsy UK" with Lens median $30 (asking, 2026-10-13). Verify before acting.
 - 2026-10-13 – Terapeak 365d sold, query "ironstone mustache mug": n=7, median $14.44, p25 $7, p75 $18 — e.g. $12.5 Rare Royal CrownFord Ironstone Staffor (); $7.0 ROYAL CROWNFORD Ironstone Your Father () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "majolica mustache cup": n=7, median $29.89, p25 $12, p75 $49
+- 2026-10-13 – Terapeak 365d sold, query "left handed mustache cup": n=15, median $29, p25 $14.36, p75 $36
 
 ## Market
 Small, steady collector market; sells slowly at moderate prices; gift buyers in barbering/beard community.

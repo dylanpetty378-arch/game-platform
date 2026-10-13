@@ -38,6 +38,7 @@ Decorative reproduction meters and meter-shaped banks exist (general knowledge, 
 - 2026 eBay sold – vintage parking meter converted to lamp – $75–175
 - 2026 eBay sold – 1940s–50s Park-O-Meter single head, working – $150–300
 - Asking reference (Google Lens, 2026-10-13, not sold): Duncan Miller parking meter median $40.
+- 2026-10-13 – Terapeak 365d sold, query "Park-O-Meter parking meter": n=50, median $19.99, p25 $12.99, p75 $25.99
 
 ## Market
 Niche decor/man-cave and Americana collector market; moderate volume on eBay, better margins locally because of weight (general knowledge, verify). Gift-season demand (Father's Day, Christmas) plausible (general knowledge, verify).

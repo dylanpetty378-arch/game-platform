@@ -41,6 +41,8 @@ Chinese counterfeit Gibson/Fender/PRS are common on marketplaces — tells: wron
 - 2026 Reverb (typical) – Kramer Pacer Classic (Floyd Rose Special, metallic) used – $300–450; new $550–650
 - 2026 Reverb – Cort KX/G series used – $150–250; Samick Greg Bennett Malibu – $120–200
 - 2026 Reverb – 1980s Kramer Pacer Deluxe/Imperial (US/ESP) – $700–1,500
+- 2026-10-13 – Terapeak 365d sold, query "Ibanez JEM guitar": n=48, median $20, p25 $15.2, p75 $25.66
+- 2026-10-13 – Terapeak 365d sold, query "Kramer Pacer USA": n=24, median $275, p25 $145, p75 $575
 
 ## Market
 Very liquid on Reverb, eBay and local (Facebook Marketplace, Guitar Center trade-in); buyers are players first, collectors for MIJ/1980s/US (general knowledge, verify). Budget imports are flooded and price-sensitive; local sales avoid the $100+ round-trip shipping. Holiday season and tax-refund season tend to lift demand (general knowledge, verify).

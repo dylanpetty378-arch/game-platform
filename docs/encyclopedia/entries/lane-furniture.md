@@ -32,6 +32,8 @@ Lane-style reproductions and modern "mid-century" pieces imitate the dovetail in
 
 ## Comps (sold, dated)
 - None dated. Earlier sweep summary: walnut end tables $150–400, more for case pieces.
+- 2026-10-13 – Terapeak 365d sold, query "Lane Acclaim table": n=50, median $379.99, p25 $245, p75 $591
+- 2026-10-13 – Terapeak 365d sold, query "Lane Perception table": n=2, median $250, p25 $250, p75 $250 (thin sample)
 
 ## Market
 Strong mid-century demand; sells best locally (FB Marketplace, Craigslist) and on Chairish; pairs sell faster and higher than singles. (general knowledge, verify)

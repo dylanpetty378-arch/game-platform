@@ -59,6 +59,7 @@ Low fake risk for ordinary American mantel clocks. Watch for: quartz conversions
 - 2025 – eBay – Gilbert ogee running w/ key – $90–150 (knowledge)
 - 2025 – eBay – Seth Thomas Corsaire ship's bell w/ barometer – $150–250 (knowledge)
 - Asking-price references (Google Lens, 2026-10-13, not sold): Linden figural porcelain clock median $38; New Haven Victorian clock median $95–110; Sessions oak parlor kitchen clock with chime median $295.
+- 2026-10-13 – Terapeak 365d sold, query "Chelsea ship's bell clock": n=50, median $280, p25 $160, p75 $492
 
 ## Market
 Huge supply, softening demand: mantel clocks are a mature, well-known category and most are correctly priced (general knowledge, verify). Buyers are NAWCC collectors and repairers (for chime models, regulators, Chelsea/Howard) and decorators (for nice-looking running cases). Heavy and fragile, so local sales often beat eBay. Rarely arbitrage except for named chime/regulator/ship's-bell models.

@@ -35,6 +35,7 @@ Not commonly faked; low value. Lookalikes from other importers sold as Lefton.
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no Lefton data). Lens best match "Vintage Geo Z. Lefton JULY Girl Figurine #KW4200 Flower Rose" with Lens median $21 (asking, 2026-10-13). Verify before acting.
 - 2026-10-13 – Terapeak 365d sold, query "Lefton July flower girl figurine": n=50, median $15.5, p25 $10, p75 $20 — e.g. $5.0 Vintage Geo Z Lefton China Porcelain J (); $11.05 Vintage Lefton Girl Figurine JULY BIRT () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Lefton birthday month angels set": n=3, median $185.25, p25 $35, p75 $185.25 (thin sample)
 
 ## Market
 Oversupplied, slow; birthday-month figures sell steadily as gifts but cheap. Buyers often want a particular month.

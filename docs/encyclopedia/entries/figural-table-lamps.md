@@ -60,6 +60,8 @@ Broken fingers/ears/tails (glued), chips to gilding, cracked or replaced glass g
 - 1stDibs dealer asks (2025–26): Frankart #210 nude ashtray $1,225; Frankart T330 smoke stand $1,575 (https://www.1stdibs.com/answers/how-to-identify-frankart)
 - eBay sold pattern (knowledge, 2024–25): resin unicorn/fairy lily-shade lamps $35–80 (local pickup common); Japan boudoir lady lamps $25–60; Royal Haeger panther TV lamp $80–180
 - 2026-10-13 – Terapeak 365d sold, query "figural table lamps": n=49, median $59.99, p25 $25, p75 $158.39 — e.g. $62.77 Torch Light ~ Slate Wireless Table Lamp 23''  ~  Indoor (Sep 6, 2026); $24.87 Urban Lifestyle Figural Eiffel Tower Table, Accent and  (Sep 2, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Frankart nude lamp": n=50, median $199.99, p25 $100, p75 $330
+- 2026-10-13 – Terapeak 365d sold, query "Moss lucite lamp Schoop": n=3, median $225, p25 $220, p75 $225 (thin sample)
 
 ## Market
 Lamps are a slow, shipping-constrained category: most sell locally. Frankart and Moss have national collector demand and sell within days at the right price. Mid-century pottery TV lamps had a decor boom 2010–2020 that has cooled. eBay policy risk: Blackamoor/Nubian/"Mammy" figural items can be removed under eBay's offensive-material policy (racist or demeaning portrayals in figurines and housewares are prohibited); many are listed, but takedowns happen – sell on Etsy/Chairish/local or pass.

@@ -48,6 +48,8 @@ No dated sold comps yet. The lines below are asking prices from sweeps, kept for
 - 2026-10 – CL Tucson – Carousel 1 #4501 Kurtis Kraft 1955 Indy – $40 ask, seller says eBay $100–200 (pickup only)
 - 2026-10 – CL Milwaukee – Franklin Mint 1967 VW Beetle w/ display case – $85 ask (sells $50–80)
 - 2026-10-13 – Google Lens asking medians: assorted Hot Wheels/Matchbox $25; Yatming Ferrari 308 1:64 $13 (asking-price based, not sold)
+- 2026-10-13 – Terapeak 365d sold, query "Exoto Motorbox 1:18": n=50, median $134.99, p25 $105, p75 $170
+- 2026-10-13 – Terapeak 365d sold, query "CMC 1:18 diecast": n=50, median $540, p25 $365, p75 $695
 
 ## Market
 High volume on eBay; collectors buy by brand and subject (Indy, Ferrari, Mustang, John Deere). Franklin/Danbury market is soft and saturated with estate supply; premium brands (Exoto, CMC, Carousel 1) hold value as discontinued (general knowledge, verify). Farm toys sell well in the Midwest.

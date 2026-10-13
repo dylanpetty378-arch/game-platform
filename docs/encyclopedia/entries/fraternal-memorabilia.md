@@ -30,6 +30,8 @@ Few. Some modern "Masonic" reproduction swords and aprons exist.
 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for "1904 Lulu Temple Atlantic City" mugs was $40 (asking-price based).
+- 2026-10-13 – Terapeak 365d sold, query "Knights Templar sword": n=50, median $54.41, p25 $30.07, p75 $84.16
+- 2026-10-13 – Terapeak 365d sold, query "Masonic apron painted antique": n=4, median $161.28, p25 $142.2, p75 $247.42 (thin sample)
 
 ## Market
 Steady but niche, with an aging collector base. eBay: 200+ Shrine mugs/pieces per month. Days to sell: 20–60.

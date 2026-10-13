@@ -50,6 +50,8 @@ Photo tells of cheap: painted or stained red/brown "mahogany" laminate with a st
 ## Comps (sold, dated)
 No ukulele sold data in comps.jsonl; no web search this run. Lens median $85 for the example is asking/new retail of the Makala line (new MK-S ~$55–65 retail; general knowledge, verify). Run Terapeak "Makala MK-S" and "Kamaka soprano" before next decision.
 - 2026-10-13 – Terapeak 365d sold, query "Kala Makala concert ukulele": n=23, median $44.44, p25 $25, p75 $53.95 — e.g. $53.39 Kala KA MK C Makala Concert Ukulele Ma (); $54.33 Kala KA MK C Makala Concert Ukulele Ma () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "KoAloha ukulele": n=46, median $554, p25 $351, p75 $900
+- 2026-10-13 – Terapeak 365d sold, query "Kanile'a ukulele": n=43, median $625, p25 $189, p75 $1000
 
 ## Market
 Very liquid at all tiers; Reverb is better than eBay for anything $150+. Beginner ukes sell fast but for little. Hawaiian koa ukes sell within days at fair prices. Seasonal bump in November–December gifting.

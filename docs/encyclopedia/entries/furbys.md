@@ -36,6 +36,8 @@ Hasbro 2005/2012 reissues and knock-off "Furby-like" toys get listed as "origina
 - 2023 (collectinsure) – Kid Cuisine sealed ~$2,000; Jester $100–300; Racing $80–100
 - 2025 (eBay listings, 70-800 NIB common colours) – asking $60–150; untested NIB typically closes $45–90
 - 2026-10 – Terapeak NIB 70-800: n=50 sold, median $50, p25 $40, p75 $65 (most recent; lower than the 2019 press examples)
+- 2026-10-13 – Terapeak 365d sold, query "Furby Kid Cuisine": n=50, median $91, p25 $66, p75 $130
+- 2026-10-13 – Terapeak 365d sold, query "Furby Millennium": n=50, median $40, p25 $29.99, p75 $48
 
 ## Market
 Nostalgia market for late-90s kids; steady eBay/Mercari sales of NIB first-gen; press-reported 2019 highs were outliers, and the 2026 Terapeak median is $50. Nov–Dec gift peak likely (general knowledge, verify). Many buyers want one at a time.

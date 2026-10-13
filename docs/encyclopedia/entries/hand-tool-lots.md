@@ -56,6 +56,8 @@ Sold comps for tool lots could not be retrieved from eBay or WorthPoint in this 
 Treat all per-tool prices in this entry as estimates until a sold search is done.
 - 2026-10-13 – Terapeak 365d sold, query "hand tool lots": n=49, median $10.25, p25 $8.93, p75 $18 — e.g. $8.97 10 PCS Heavy Duty Leather Hollow Hole Punch Set DIY Cra (Oct 8, 2026); $9.45 10 PCS Heavy Duty Leather Hollow Hole Punch Set DIY Cra (Oct 8, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "old hand tools": n=49, median $15.9, p25 $12.69, p75 $19.78 — e.g. $15.16 Old Chinese Tibet Silver Hand-carved Dragon Phoenix Inl (Jul 4, 2026); $8.95 COLLECTION BRASS HAND-CARVED DRAGON STATUE OLD SMOKING  (May 15, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Stanley No. 45 plane cutters": n=50, median $60, p25 $22.5, p75 $137.5 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "Stanley No. 55 plane": n=50, median $16.5, p25 $12.99, p75 $28.5
 
 ## Market
 Steady buyer base of woodworkers ("users") and collectors. Individual good tools sell in 1–4 weeks. Lots sell slower, and the money is in parting out. Modern homeowner tools hardly sell online: shipping exceeds value. Fall and winter (shop season) are a little stronger.

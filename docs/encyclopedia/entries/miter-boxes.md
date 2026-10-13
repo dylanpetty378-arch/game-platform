@@ -33,6 +33,7 @@ None.
 No dated sold comps available this run.
 - 2026-10-13 – Terapeak 365d sold, query "vintage miter box": n=49, median $25.5, p25 $19.66, p75 $40 — e.g. $19.48 NEW Miter Box with Saw Included Increa (); $19.66 Adjustable Clamp Co 9144 Miter Box Cor () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Millers Falls Langdon miter box and": n=50, median $53.57, p25 $35, p75 $99.99 — e.g. $82.0 Millers Falls Langdon Acme No 74 Miter (); $32.0 PARTS Millers Falls Langdon Acme No 74 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Stanley 358 miter box": n=18, median $59.99, p25 $21.99, p75 $145 — wide spread; query likely mixes variants/parts, read with care
 
 ## Market
 Woodworkers locally; eBay shipping prohibitive.

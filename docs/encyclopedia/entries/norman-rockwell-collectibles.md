@@ -38,6 +38,8 @@ Fake pencil signatures on offset lithographs; printed "signatures" mistaken for 
 
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): Gorham Norman Rockwell bells sell ~$8–15, often unsold; Lens median $12–15 here agrees.
+- 2026-10-13 – Terapeak 365d sold, query "Norman Rockwell signed lithograph": n=50, median $255, p25 $85, p75 $825 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "Rockwell Boy Scout calendar": n=50, median $19.99, p25 $14, p75 $25
 
 ## Market
 Extremely oversupplied; buyers are scarce for porcelain items. Printed ephemera and signed lithographs have a real market.

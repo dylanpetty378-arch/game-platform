@@ -54,6 +54,8 @@ Photo tells:
 - 2026-10-13 – Terapeak 365d sold, query "kerosene oil lamps": n=44, median $16.01, p25 $9.53, p75 $24.95 — e.g. $23.01 Aladdin Wick  R151 for Models A, B, C and 14 (Oct 12, 2026); $21.36 Aladdin Clear Lamp Oil Fuel - Kerosene Alternative for  (Oct 10, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Sail Boat Brand amber glass kerosene": n=6, median $12, p25 $10, p75 $15 — e.g. $10 Vintage Sail Boat Brand Amber/Stained Glass Look Oil La (Aug 9, 2026); $5 Vintage Amber Glass Small Kerosene Oil Lamp Stamped Sai (Apr 24, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "glass kerosene lamp": n=47, median $24.48, p25 $16.06, p75 $31.3 — e.g. $17.85 3" X 8 1/4" CLEAR GLASS BEADED TOP KEROSENE OIL LAMP CH (Oct 10, 2026); $8.99  Small 4 1/2" Chimney for Miniature Kerosene Oil Lamp 1 (Oct 9, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Aladdin Alacite lamp": n=50, median $40, p25 $26, p75 $70
+- 2026-10-13 – Terapeak 365d sold, query "Westmoreland Dolphin lamp": n=14, median $100, p25 $80.75, p75 $202.5
 
 ## Market
 Steady and slow. Supply is large (every farmhouse had several). Demand comes from décor buyers, preppers and power-outage buyers (spikes after storms and in winter) and Aladdin collectors (Aladdin Knights). Clear common lamps sell in 30–90 days at $25–50.

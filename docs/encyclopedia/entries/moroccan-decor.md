@@ -29,6 +29,8 @@ Market dominated by new production made in the same way; "antique" claims rarely
 
 ## Comps (sold, dated)
 None directly. Lens median $850 for the example came from high asking prices on Etsy — ignore.
+- 2026-10-13 – Terapeak 365d sold, query "Berber silver necklace antique": n=29, median $50.82, p25 $29, p75 $150
+- 2026-10-13 – Terapeak 365d sold, query "Tuareg silver cross": n=50, median $30, p25 $19.6, p75 $45
 
 ## Market
 Boho décor demand on Etsy; slow on eBay. 30–90 days.

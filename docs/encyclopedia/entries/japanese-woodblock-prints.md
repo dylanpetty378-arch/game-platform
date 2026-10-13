@@ -33,6 +33,8 @@ Re-cut blocks and later editions of Hiroshige/Hokusai; Meiji-era and 20th-c. rep
 
 ## Comps (sold, dated)
 - (knowledge-based) No dated sold comps yet.
+- 2026-10-13 – Terapeak 365d sold, query "Hasui Watanabe woodblock": n=23, median $974, p25 $250, p75 $1200
+- 2026-10-13 – Terapeak 365d sold, query "Hiroshi Yoshida woodblock": n=50, median $78.63, p25 $48.99, p75 $155
 
 ## Market
 Healthy eBay and auction market for shin-hanga and Meiji originals; reprints sell slowly and cheaply. Buyers: collectors (seal-savvy), decorators. Specialist dealers and auction houses (Bonhams, Ronin Gallery) set the top. (general knowledge, verify)

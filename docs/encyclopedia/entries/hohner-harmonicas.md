@@ -33,6 +33,7 @@ No significant fakes. Hohner reissues vintage-style packaging on current models,
 
 ## Comps (sold, dated)
 - (knowledge-based) No dated sold comps yet.
+- 2026-10-13 – Terapeak 365d sold, query "Hohner Marine Band box antique": n=16, median $19.99, p25 $14, p75 $34.84
 
 ## Market
 Low-value, steady eBay market: players want new; collectors want pre-war boxed and limited sets. Estate lots of mixed harmonicas are common. No seasonality. (general knowledge, verify)

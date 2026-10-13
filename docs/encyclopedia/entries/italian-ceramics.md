@@ -56,6 +56,8 @@ Buy rule (short): Hunt for 1950s–70s Italian MCM pottery with Raymor/"Italy" n
 
 ## Comps (sold, dated)
 - No dated sold comps available this run (no web search, no Terapeak data for this type). Estimates only; verify.
+- 2026-10-13 – Terapeak 365d sold, query "Bitossi Raymor vase": n=50, median $90, p25 $61, p75 $200
+- 2026-10-13 – Terapeak 365d sold, query "Guido Gambone vase": n=12, median $560, p25 $350, p75 $609.99
 
 ## Market
 - MCM Italian pottery steadily popular with decorators; modern Deruta slow.

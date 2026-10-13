@@ -38,6 +38,7 @@ Cast-iron décor tongs and hooks (2000s–present, India/China), painted black o
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): ice tongs $29; multi-prong ice pick $27. Ladder is estimated.
+- 2026-10-13 – Terapeak 365d sold, query "ice harvesting saw": n=10, median $19.97, p25 $14.99, p75 $32.99
 
 ## Market
 Primitives / farmhouse décor; a steady trickle of buyers. Plenty of supply; tongs and picks sell slowly at low prices. Local and antique-mall pricing often exceeds eBay sold.

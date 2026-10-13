@@ -40,6 +40,8 @@ Buy rule (short): Buy only pre-1850 Mason's/Ashworth large pieces (jugs, tureens
 - No dated sold comps available this run (no web search, no Terapeak data). Estimates; verify.
 - 2026-10-13 – Terapeak 365d sold, query "Mason's 1800s chinoiserie ironstone plate": n=7, median $120, p25 $58, p75 $127.5 — e.g. $120.0 Mason s Patent Ironstone China Chinese (); $24.0 Antique Mason s English Ironstone Cent () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Johnson Bros coffee set": n=50, median $24.95, p25 $16.95, p75 $38.25 — e.g. $23.8 Up to 3 Johnson Bros VTG BARNYARD KING (); $23.7 Johnson Bros INDIES Ironstone Blue Whi () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Mason's Patent Ironstone vase": n=22, median $40, p25 $29.94, p75 $59
+- 2026-10-13 – Terapeak 365d sold, query "Mason's Ironstone platter": n=50, median $38, p25 $25, p75 $62.25
 
 ## Market
 - Plate-level tableware is a glut; replacement buyers pay little. White ironstone has a strong farmhouse-decor collector base. Early Mason's sells at auction.

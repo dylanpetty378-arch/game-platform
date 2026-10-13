@@ -36,6 +36,8 @@ No dated sold prices recorded; the first line is an asking price:
 - 2026-10 – eBay ask – Rawlings Mantle DF1 11.5" excellent – $119.95
 - keymancollectibles – 1964 Mantle Big Leaguer youth – $50–100
 - 2013 – REA – 1954–56 Rawlings Mantle retail glove in original box – auction lot (high hundreds+)
+- 2026-10-13 – Terapeak 365d sold, query "Rawlings Mickey Mantle MM5": n=50, median $60, p25 $36, p75 $78
+- 2026-10-13 – Terapeak 365d sold, query "Wilson A2000 1960s glove": n=33, median $129.95, p25 $71, p75 $190
 
 ## Market
 Steady eBay market among sports-memorabilia collectors and nostalgic buyers; Mantle gloves are plentiful. Spring (opening day) and Father's Day may help (general knowledge, verify). Top pieces go through REA/Heritage.

@@ -34,6 +34,8 @@ Modern reissue stencil guitars (Recording King, Gretsch, Loar) and Chinese "vint
 ## Comps (sold, dated)
 - 2026-10-13 Terapeak "hawaiian scene parlor guitar 1930s": $100 and $225 sold (median $162, n=2) — db/comps.jsonl.
 - Other comps not available this run.
+- 2026-10-13 – Terapeak 365d sold, query "Martin parlor guitar": n=49, median $549, p25 $80, p75 $1049.99 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "Washburn parlor guitar": n=50, median $390, p25 $250, p75 $610
 
 ## Market
 Steady vintage-acoustic interest; stencil guitars are decor + player buys, weeks to sell. Shipping a guitar box ($40–70) eats margin; local sale (Reverb local pickup, Facebook) helps.

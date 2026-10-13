@@ -29,6 +29,8 @@ Mostly modern production sold as "vintage".
 ## Comps (sold, dated)
 None retrieved this run.
 - 2026-10-13 – Terapeak 365d sold, query "embroidered trinket box": n=50, median $14.99, p25 $11, p75 $18 — e.g. $14.99 Palestinian tarteez style geometric em (); $15.0 Vintage Framecraft Blue Trinket Box Po () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Kashmiri papier mache box": n=50, median $14, p25 $10, p75 $20
+- 2026-10-13 – Terapeak 365d sold, query "zardozi embroidered box": n=7, median $48, p25 $20, p75 $50
 
 ## Market
 Slow, low-value decor.

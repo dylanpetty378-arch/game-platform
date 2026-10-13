@@ -37,6 +37,7 @@ Not faked so much as copied: Japanese copies use "Dresden" in titles; some Chine
 ## Comps (sold, dated)
 No sold comps gathered this run (no web search, nothing in db/comps.jsonl). Lens median on the example listing was $75 (asking/mixed, not sold). Run Terapeak "Dresden lace figurine" before the next buy.
 - 2026-10-13 – Terapeak 365d sold, query "Dresden lace porcelain lady figurine": n=50, median $40, p25 $26.96, p75 $55 — e.g. $45.0 MZ Irish Dresden Figurine Lady in Chai (); $8.0 Dresden Germany Figurine 3 5 Pink Lace () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Volkstedt lace figurine group": n=12, median $200, p25 $89, p75 $300
 
 ## Market
 Deep supply, aging buyer base; small ladies sell slowly (30-90 days) at the low end. Groups and perfect large pieces still sell within weeks. Irish Dresden has a steady collector following.

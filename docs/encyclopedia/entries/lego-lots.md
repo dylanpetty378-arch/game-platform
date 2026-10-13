@@ -64,6 +64,8 @@ Bulk benchmark (Brickset): typical used bulk sells $3–$10 per pound; at 300–
 - 2026-10-13 – Lens median for bulk LEGO bin (best match "LEGO Bulk 12 LB Mixed Bricks") – $140 (asking-price based, not sold)
 - 2026-10-13 – Lens median for vintage LEGO lot – $50 (asking-price based, not sold)
 - No dated sold comps yet.
+- 2026-10-13 – Terapeak 365d sold, query "LEGO Cloud City 10123": n=45, median $39.5, p25 $19.99, p75 $187.6 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "LEGO Tower Bridge 10214": n=49, median $272.85, p25 $255.5, p75 $290
 
 ## Market
 Very liquid: eBay, BrickLink, FB Marketplace, Mercari. Bulk sells steadily by weight; minifigs and retired sets sell fast. Strong Nov–Dec peak. (general knowledge, verify)

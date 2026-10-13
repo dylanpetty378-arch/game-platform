@@ -36,6 +36,8 @@ Reproduction railroad globes and lanterns with fake RR markings are common (espe
 ## Comps (sold, dated)
 comps.jsonl kerosene-oil-lamps rows (Terapeak, 2025-10 to 2026-10): "$34.41 Qty 2 – Hurricane Kerosene Oil Lantern Emergency Hanging (Oct 10, 2026)", "$13.47 Rustic Oil Lamp Lantern Vintage Glass Kerosene (Oct 10, 2026)" — modern imports. No dated antique lantern comps retrieved this run.
 - 2026-10-13 – Terapeak 365d sold, query "cold-blast kerosene lanterns": n=49, median $40, p25 $30, p75 $60 — e.g. $40.0 antique kerosene lantern glass globe D (); $30.0 Antique Marswells No 2 Cold Blast Kero () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Adlake conductor lantern": n=24, median $27, p25 $14.35, p75 $50.7
+- 2026-10-13 – Terapeak 365d sold, query "railroad lantern cast globe": n=50, median $84, p25 $55, p75 $140
 
 ## Market
 Large and steady; hundreds sell monthly. Plain barn lanterns are commodity decor. Railroad lanterns have a dedicated, informed collector base.

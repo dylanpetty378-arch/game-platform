@@ -32,6 +32,7 @@ Jazwares reissues; knock-off "mini cars" from China without Galoob marks.
 
 ## Comps (sold, dated)
 None gathered this run; numbers are estimates (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Micro Machines Star Wars sealed": n=50, median $21.26, p25 $17.99, p75 $36.46
 
 ## Market
 Nostalgia-driven 80s–90s kids; steady. Lots sell in 1–3 weeks at the right price.

@@ -37,6 +37,8 @@ Artificially aged "antique" fish decoys and carvings in the style of Peterson ar
 ## Comps (sold, dated)
 - 2025 – eBay – anonymous 1940s MN fish decoy 8", worn paint – $80–150 (knowledge)
 - 2025 – Guyette & Deeter – Oscar Peterson trout decoy – $2,000–6,000 (knowledge)
+- 2026-10-13 – Terapeak 365d sold, query "Oscar Peterson fish decoy": n=22, median $110, p25 $76, p75 $331
+- 2026-10-13 – Terapeak 365d sold, query "Bud Stewart fish decoy": n=35, median $129.99, p25 $67.89, p75 $233.39
 
 ## Market
 Folk-art and fishing-collectible buyers on eBay; strongest interest in the Upper Midwest; winter ice-fishing season may help (general knowledge, verify). Named pieces go to Guyette & Deeter.

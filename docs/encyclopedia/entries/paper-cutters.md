@@ -32,6 +32,7 @@ Not a reproduction category. Modern "farmhouse" decor versions rare.
 
 ## Comps (sold, dated)
 No dated sold comps retrievable this run (no web search; no Terapeak rows). Pull Terapeak "milton bradley paper cutter" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "Ingento paper cutter": n=48, median $44.95, p25 $29, p75 $68.39
 
 ## Market
 Steady but low-priced demand from crafters, scrapbookers and decor buyers; mostly local.

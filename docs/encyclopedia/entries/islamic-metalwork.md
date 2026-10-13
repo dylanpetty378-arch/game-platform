@@ -52,6 +52,7 @@ Buy rule (short): Buy only heavy cast-bronze or tinned-copper bowls with crisp h
 - No further dated sold comps available this run (no web search). Estimates for other tiers: general knowledge, verify.
 - 2026-10-13 – Terapeak 365d sold, query "Persian engraved brass bowl": n=19, median $25, p25 $14.36, p75 $40 — e.g. $31.0 2 Vint Middle East Persian Ottoman Isl (); $25.0 ANTIQUE PERSIAN MIDDLE EAST MAN WOMAN () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "brass dallah coffee pot": n=50, median $28, p25 $18, p75 $75.95 — e.g. $75.95 Antique Islamic Middle East Arabic Dal (); $85.0 Old Brass Islamic Dallah Coffee Pot Pi () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Safavid tinned copper bowl": n=10, median $580, p25 $230, p75 $700
 
 ## Market
 - Small but steady eBay market; strong buyer base among Middle Eastern diaspora and decorators. Better pieces go to LiveAuctioneers/Invaluable regional auctions.

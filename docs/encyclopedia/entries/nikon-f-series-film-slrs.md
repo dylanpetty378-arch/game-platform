@@ -37,6 +37,8 @@ Low fake risk. Watch for repainted chrome bodies sold as factory black and fake 
 - 2025–26 – F2 Photomic chrome bodies – $180–260 (eBay sold, recurring)
 - 2025–26 – F3HP black body – $280–380 (eBay sold)
 - 2026-10 (Terapeak, cited in sweep) – F2 black, median $228, n=45 (more recent and larger sample than the $250–350 tier estimate)
+- 2026-10-13 – Terapeak 365d sold, query "Nikon F2 Titan": n=50, median $1800, p25 $1399.99, p75 $2299.99
+- 2026-10-13 – Terapeak 365d sold, query "Nikon F3P": n=50, median $49.99, p25 $35, p75 $244.99 — wide spread; query likely mixes variants/parts, read with care
 
 ## Market
 Liquid market on eBay, KEH, MPB and gearfocus; film photography revival keeps demand steady (general knowledge, verify). Buyers: film shooters, Nikon collectors. Working F2/F3 bodies sell within days to a couple of weeks.

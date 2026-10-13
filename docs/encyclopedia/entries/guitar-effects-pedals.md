@@ -68,6 +68,7 @@ Reissues are the main trap: TS9 reissue vs 1982 Japan original; Boss Waza Craft 
 - **Boss DM-2**: $250–450 vs $250–400.
 - **Klon Centaur**: $2,000+ to $3,000–6,000.
 - **Boss black-label era**: 1977–~1988 vs "pre-1990 = Japan".
+- 2026-10-13 – Terapeak 365d sold, query "Ibanez TS-808 Tube Screamer": n=37, median $106.67, p25 $91.25, p75 $158.99
 
 ## Market
 Very liquid on Reverb (the price book) and eBay; most sellers are musicians who price at Reverb, so single named pedals rarely have spread. Current-production pedals are retail goods with thin margins. Vintage MIJ and script-era units are steady collector items. No strong seasonality (general knowledge, verify).

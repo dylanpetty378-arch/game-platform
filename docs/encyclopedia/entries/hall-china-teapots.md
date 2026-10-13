@@ -74,6 +74,7 @@ Chinese-made lookalike donut teapots sell $8–15. Hall itself reissued some sha
 - kovels: Donut shape introduced 1938, one of Hall's most popular; Chinese-made lookalike donut teapots sell $8–15
 - eBay sold memory 2025: Boston-shape 3-pc green/yellow set ~$35–60; Nautilus cobalt ~$250; Automobile ~$600+
 - Post-Bulletin (undated column, not current; Autumn Leaf, not teapots): original china drip coffeepot $202.50; coffee server and nesting bowls over $60; commemorative mug $45.
+- 2026-10-13 – Terapeak 365d sold, query "Hall Football teapot": n=11, median $75, p25 $58, p75 $120
 
 ## Market
 Collector market is older and shrinking for common shapes; novelty shapes and rare colours still sell to Hall collectors. Autumn Leaf has a dedicated club following (general knowledge, verify) — the National Autumn Leaf Collectors Club (Post-Bulletin). "The unusual" sells best in Autumn Leaf (Post-Bulletin).

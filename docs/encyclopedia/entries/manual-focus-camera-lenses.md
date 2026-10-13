@@ -34,6 +34,8 @@ Few fakes. Risks are mislabelling (plain 200 f/4 sold as Micro, pre-AI sold as A
 
 ## Comps (sold, dated)
 - None dated sold in this entry. Reference prices: kamerastore.com Nikon 200mm f/4 Micro-Nikkor IF AI €259 average condition (retail, sold out, Oct 2025); resale estimate $250–320 for the Micro (Kansas City pass, 2026-10-12).
+- 2026-10-13 – Terapeak 365d sold, query "Nikon 58mm f/1.2 Noct": n=50, median $2879.99, p25 $840, p75 $3149.99
+- 2026-10-13 – Terapeak 365d sold, query "Nikon 85mm f/1.4 AI-S": n=50, median $400, p25 $151.5, p75 $515
 
 ## Market
 Deep, liquid market on eBay, KEH and Japanese/European dealers (kamerastore); buyers are film shooters and mirrorless users adapting vintage glass (general knowledge, verify). Good Nikkors sell within days to a few weeks at fair prices. Commodity lenses are slow and cheap.

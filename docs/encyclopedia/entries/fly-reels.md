@@ -32,6 +32,8 @@ Hardy has re-issued Perfect models; check vintage details (general knowledge, ve
 
 ## Comps (sold, dated)
 - None recorded yet.
+- 2026-10-13 – Terapeak 365d sold, query "Hardy Perfect fly reel": n=50, median $325, p25 $210, p75 $500
+- 2026-10-13 – Terapeak 365d sold, query "Hardy Marquis fly reel": n=50, median $162.5, p25 $125, p75 $206.5
 
 ## Market
 Steady eBay demand from fly anglers and collectors of vintage British reels; spring season peak (general knowledge, verify).

@@ -35,6 +35,7 @@ No meaningful fakes; Chinese generic chromatics with Hohner-like styling exist (
 - 2025-10 – eBay sold – Hohner 280C used good – $100–160
 - 2025-10 – eBay sold – Hohner 270 used – $65–95
 - Note: these comps and the source line say Oct 2025 while every sweep line is 2026; the year may be a typo for 2026 – verify.
+- 2026-10-13 – Terapeak 365d sold, query "Hohner 280 chromonica": n=50, median $45, p25 $27, p75 $65
 
 ## Market
 Players (jazz/blues chromatic players) and Stevie Wonder fans; modest eBay/Reverb volume. Used mouth instruments sell slower than new. No seasonality. (general knowledge, verify)

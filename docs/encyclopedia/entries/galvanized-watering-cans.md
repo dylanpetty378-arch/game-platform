@@ -29,6 +29,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run.
+- 2026-10-13 – Terapeak 365d sold, query "Haws watering can": n=49, median $79, p25 $36.88, p75 $119
 
 ## Market
 Décor demand spring/summer.

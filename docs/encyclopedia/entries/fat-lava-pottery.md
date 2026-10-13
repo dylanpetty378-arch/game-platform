@@ -29,6 +29,8 @@ Modern Chinese "lava-style" vases; some contemporary studio work. Marks and shap
 
 ## Comps (sold, dated)
 None in our DB. Lens median $599 for this example matched an actual West German lava lamp listing — but the example is not fat lava (see below).
+- 2026-10-13 – Terapeak 365d sold, query "Otto Keramik fat lava": n=15, median $114.01, p25 $83.99, p75 $146.39
+- 2026-10-13 – Terapeak 365d sold, query "ES Keramik vase": n=10, median $20, p25 $16.99, p75 $61
 
 ## Market
 Strong mid-century modern demand; Europe and US buyers; moderate volume.

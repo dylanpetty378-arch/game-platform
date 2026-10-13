@@ -37,6 +37,8 @@ Two earlier write-ups gave slightly different bands; both kept.
 - (knowledge-based: George Nicoll Whippet putter sells $70–130 on eBay)
 - caddiehq tiers above; eBay Oct 2026 listings: George Nicoll "Gem" No. 9 putter hickory 34.5" – asking ~$80–120; Nicoll niblick – asking ~$60
 - No dated sold comps pulled.
+- 2026-10-13 – Terapeak 365d sold, query "long nose wood golf club": n=17, median $432, p25 $139, p75 $1500 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "hickory rut iron": n=8, median $100, p25 $37, p75 $140
 
 ## Market
 Two buyer groups: collectors (rare makers/forms, auction houses like Green Jacket) and hickory players (want playable, straight-shafted named irons and putters). eBay steady volume; most common clubs sell slowly at $20–60. Spring/summer slightly stronger (playing season). (general knowledge, verify)

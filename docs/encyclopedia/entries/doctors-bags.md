@@ -30,6 +30,8 @@ Modern Indian goatskin "vintage doctor bags" with fake distress; embossed cowhid
 ## Comps (sold, dated)
 No dated sold comps fetched this run. Sweep Lens median $950 reflects asking/dealer prices of walrus Gladstones.
 - 2026-10-13 – Terapeak 365d sold, query "leather doctor's Gladstone bag": n=50, median $99.99, p25 $75, p75 $160 — e.g. $91.19 Men Genuine Leather Doctor Bag Vintage (); $44.99 Vintage Unbranded Brown Leather Doctor () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "walrus Gladstone bag": n=3, median $160, p25 $120, p75 $160 (thin sample)
+- 2026-10-13 – Terapeak 365d sold, query "antique leather doctor bag": n=50, median $65, p25 $48.99, p75 $99.95
 
 ## Market
 Steady decor/collector demand; good bags sell in 2–4 weeks.

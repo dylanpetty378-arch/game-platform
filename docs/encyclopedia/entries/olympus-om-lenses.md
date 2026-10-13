@@ -35,6 +35,8 @@ None significant. Risk is misidentification (e.g. 21/3.5 vs 21/2, Celtic vs Rokk
 ## Comps (sold, dated)
 - 2026 – OM 35mm f/2.8 Shift – €369 average certified (kamerastore; retail price)
 - (knowledge-based: fungus-affected copies sell $180–260 on eBay)
+- 2026-10-13 – Terapeak 365d sold, query "Zuiko 250mm f/2": n=5, median $4999, p25 $110, p75 $5099 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "Zuiko 90mm f/2 macro": n=48, median $494.81, p25 $425, p75 $539.99
 
 ## Market
 Steady eBay, KEH, MPB and kamerastore demand from film shooters and adapters (general knowledge, verify). Common lenses are abundant; specialty lenses (shift, macro, fast wides) sell quickly to knowledgeable buyers.

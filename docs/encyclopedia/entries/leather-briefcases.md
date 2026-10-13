@@ -63,6 +63,8 @@ Modern Indian/Pakistani "vintage style" satchels (Etsy) that look old; check for
 ## Comps (sold, dated)
 None gathered this run; estimates (general knowledge, verify). Lens median $325 reflects asking prices for "1950s English double strap" listings.
 - c.2025 (thread marked sold before May 2025) – Fedora Lounge classifieds – Coach flap briefcase, made in United States, glove-tanned, two buckles, with hangtag, very good – $125 asking, marked SOLD – https://www.thefedoralounge.com/threads/fantastic-vintage-coach-briefcase-made-in-the-usa.110828/
+- 2026-10-13 – Terapeak 365d sold, query "Swaine Adeney briefcase": n=12, median $495, p25 $380, p75 $1900
+- 2026-10-13 – Terapeak 365d sold, query "Ghurka briefcase": n=50, median $280, p25 $129, p75 $500
 
 ## Market
 Good demand from "dark academia"/heritage menswear buyers; 2–6 weeks. Vintage Ghurka has an active Japanese collector market.

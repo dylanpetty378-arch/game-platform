@@ -29,6 +29,7 @@ Little reproduction activity; some resin "ivory".
 
 ## Comps (sold, dated)
 None this run. Lens median $62 likely asking prices.
+- 2026-10-13 – Terapeak 365d sold, query "sterling glove stretcher": n=42, median $35, p25 $23, p75 $49.95
 
 ## Market
 Niche, slow. 30–90 days.

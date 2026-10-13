@@ -45,6 +45,8 @@ Fake Leicas (Soviet Zorki/FED bodies re-engraved as Leica) are common; check ser
 - 2025 – Nikon EM body – $40–70
 - 2025 – Zeiss Ikon Contina 1950s – $40–80
 - 2025 – Bell & Howell Filmo 70-DR – $150–300
+- 2026-10-13 – Terapeak 365d sold, query "Contax T2 camera": n=50, median $839.99, p25 $40.03, p75 $1059.41 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "Leica M3 camera": n=45, median $34.37, p25 $21.67, p75 $54.99
 
 ## Market
 Strong film revival demand from younger shooters since ~2018; tested bodies sell fast on eBay, KEH buys outright at lower prices. Premium compacts (T2, mju-II) have been very hot (general knowledge, verify).

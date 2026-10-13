@@ -34,6 +34,7 @@ Chinese copies with fake Lladró marks exist; poorer modelling and print. Second
 - 2025–26 – Lladró small angels (#4961, #4960 series) – $30–50 each (eBay sold)
 - 2025–26 – Lladró Don Quixote #1030 – $300–450
 - 2025–26 – NAO girl figurines – $15–30
+- 2026-10-13 – Terapeak 365d sold, query "Lladro Flamenco Flair": n=2, median $7.99, p25 $7.99, p75 $7.99 (thin sample)
 
 ## Market
 Large supply from estates (1980s–90s gift buying); demand softer than at peak – common pieces sell slowly, large groups and limited editions still sell. Buyers: collectors, replacement seekers (Replacements Ltd). Nov–Dec and Mother's Day bumps. (general knowledge, verify)

@@ -47,6 +47,8 @@ No dated sold comps available this run (no web search budget; none in comps.json
 - Vintage red bulb candleholders: pair $80–130, single $40–65.
 - Vintage 15" chop plate, light green/yellow/ivory: $35–60; red or cobalt $50–90; medium green $250+.
 - Vintage 5½" fruit bowl, gray: $15–30.
+- 2026-10-13 – Terapeak 365d sold, query "Fiesta tripod candleholders": n=38, median $48, p25 $27, p75 $55
+- 2026-10-13 – Terapeak 365d sold, query "Fiesta medium green": n=50, median $14.17, p25 $6.5, p75 $28.95
 
 ## Market
 Large, steady collector market (Homer Laughlin China Collectors Association), strongest for vintage medium green and rare forms; common vintage plates are slow sellers and price-compressed by abundant Post-86 supply. Estate sales flood the market. No strong seasonality.

@@ -40,6 +40,8 @@ Modern reproductions are rare but tartan "style" boxes from the 1950s–80s (Jap
 ## Comps (sold, dated)
 None in our data. Lens median $250 for the sweep example is active asking prices, not sold. Run Terapeak "tartan ware" / "tartanware spectacle case" before a buy.
 - 2026-10-13 – Terapeak 365d sold, query "tartanware needle case": n=5, median $100, p25 $40, p75 $195 — e.g. $28.0 Antique Albert Tartan Pattern Needle H (); $200.0 Antique Tartanware Cylinder Needle And () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "tartan ware box": n=44, median $76.49, p25 $50, p75 $106.25
+- 2026-10-13 – Terapeak 365d sold, query "Mauchline ware box": n=50, median $35, p25 $20.5, p75 $50
 
 ## Market
 Small, steady collector market (UK strongest; US eBay tens of sales per month). Good pieces sell in 1–4 weeks; worn pieces linger. Sewing-tool collectors overlap.

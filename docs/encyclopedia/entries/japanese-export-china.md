@@ -29,6 +29,7 @@ Fake Nippon marks (common reproductions from 1980s); compare mark guides (maple 
 
 ## Comps (sold, dated)
 None gathered; Lens median $42 was asking for a teapot/cream/sugar set. Estimates (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Nippon moriage vase": n=50, median $62, p25 $30, p75 $113.61
 
 ## Market
 Slow; plentiful.

@@ -36,6 +36,8 @@ Modern Chinese castings of Meiji designs with fake signature cartouches are comm
 - 2025 – unsigned 14" archaistic twin-handle vase, Showa – ~$150–250 typical eBay sold (memory; confirm with Terapeak)
 - Appraisily tiers: small unsigned export vase $500–2,500 at auction (their figure is retail-leaning; eBay runs lower)
 - 2026-10-12 – Terapeak 'Japanese bronze vase archaic Meiji': only 1 sold ($120) – more recent, and lower/thinner than the memory-based $150–250 band.
+- 2026-10-13 – Terapeak 365d sold, query "Meiji bronze vase signed": n=44, median $120, p25 $75, p75 $390
+- 2026-10-13 – Terapeak 365d sold, query "Japanese mixed metal bronze vase": n=50, median $69, p25 $37, p75 $300 — wide spread; query likely mixes variants/parts, read with care
 
 ## Market
 Thin on eBay for archaistic pieces (Terapeak 2026-10-12: 1 sold); better at regional auction houses and with Asian-art dealers. Buyers: Asian-art collectors, decorators. Top pieces go to specialist auctions. (general knowledge, verify)

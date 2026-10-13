@@ -45,6 +45,7 @@ Counterfeit Scotty Cameron putters and fake current-gen drivers are common onlin
 ## Comps (sold, dated)
 No dated sold prices recorded; the line below is Craigslist asking prices with estimated sold ranges:
 - 2026-10 – CL – Ping Rapture driver $70 (sells $25–40), Odyssey Tri-Hot #3 $65 (sells $40–60), Titleist 980F 3-wood $40 (sells $20–30), Cleveland irons $40 (fair), George Nicoll hickory 6-iron $100 (sells $20–40), TaylorMade Stealth 2 driver $200 (sells $200–260)
+- 2026-10-13 – Terapeak 365d sold, query "Scotty Cameron Circle T putter": n=49, median $109.99, p25 $89.99, p75 $305
 
 ## Market
 Very liquid eBay market for current clubs; prices fall each new release cycle. Spring (Mar–May) is the peak buying season (general knowledge, verify). Collectors buy Scotty Cameron, vintage Ping and persimmon; GolfWRX classifieds and 2nd Swing trade-in as alternatives.

@@ -34,6 +34,8 @@ Many unmarked fibreglass knockoffs; Herman Miller reissued fibreglass shells (20
 
 ## Comps (sold, dated)
 - None recorded yet.
+- 2026-10-13 – Terapeak 365d sold, query "Zenith rope edge Eames shell": n=1, median $425, p25 $425, p75 $425 (thin sample)
+- 2026-10-13 – Terapeak 365d sold, query "Herman Miller fiberglass shell chair": n=50, median $49.95, p25 $20, p75 $180 — wide spread; query likely mixes variants/parts, read with care
 
 ## Market
 Strong mid-century modern demand among decorators and collectors; sells best locally or via Chairish/1stdibs/eBay local pickup because shipping is bulky (general knowledge, verify).

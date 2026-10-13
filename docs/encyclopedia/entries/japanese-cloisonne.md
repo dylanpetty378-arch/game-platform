@@ -54,6 +54,8 @@ Tells for a good piece: no bare metal showing except rims; enamel glossy and nea
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl for this type and no web search budget this run. Lens best match for the example listed similar "Antique Japanese Bronze Champleve Cloisonne Enamel Vase" with a Lens median of $195 — that is an asking-price median, not sold. Typical eBay sold for comparable 10" brass champleve vases from general knowledge: roughly $40–90 (general knowledge, verify). Run Terapeak "japanese champleve vase brass" and "meiji cloisonne vase" before the next buy.
+- 2026-10-13 – Terapeak 365d sold, query "Namikawa cloisonne": n=13, median $71, p25 $31.4, p75 $365 — wide spread; query likely mixes variants/parts, read with care
+- 2026-10-13 – Terapeak 365d sold, query "Ando Jubei cloisonne": n=34, median $96.01, p25 $74, p75 $115
 
 ## Market
 Steady, deep supply. eBay sees hundreds of Japanese cloisonne/champleve sales per month across all grades. Brass champleve sells slowly (30–60 days) because supply is huge; good Meiji wire pieces sell in 1–3 weeks at fair prices. Asian-art buyers are active and price-sensitive; condition photos matter.

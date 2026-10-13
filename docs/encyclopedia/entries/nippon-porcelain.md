@@ -35,6 +35,8 @@ Buy rule (short): Buy only large (10"+) moriage or tapestry/coralene vases, humi
 - 2026-09-03 – eBay – "Nippon Japan Porcelain Painted Milk Can Holder" – $2 (Terapeak, within comps.jsonl "hand-painted milk can" query) — shows the floor for small pieces.
 - No other dated comps this run; estimates; verify.
 - 2026-10-13 – Terapeak 365d sold, query "Nippon hand-painted bon-bon dish": n=6, median $18.5, p25 $10, p75 $19.99 — e.g. $10.0 Vintage Nippon Bon Bon Dish Hand Paint (); $30.0 Antique Noritake N2429 Early 1900s Nap () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Nippon coralene vase": n=50, median $161.5, p25 $89, p75 $250
+- 2026-10-13 – Terapeak 365d sold, query "Nippon tapestry vase": n=2, median $50, p25 $50, p75 $50 (thin sample)
 
 ## Market
 - Collector base aging; prices down 50–70% from 1990s peak. Small pieces barely sell; high-end moriage still moves.

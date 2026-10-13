@@ -43,6 +43,8 @@ Large export industry in India, Pakistan, Yemen, Oman, Morocco and Nepal making 
 
 ## Comps (sold, dated)
 No sold comps retrievable this run. Lens median for pid 7930644440 was $132 (based on misidentified antique Ottoman khanjar matches — not comparable). Modern decorative kukri with scabbard est. $25–55 sold on eBay (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Ottoman silver dagger": n=21, median $161.19, p25 $49.99, p75 $275
+- 2026-10-13 – Terapeak 365d sold, query "Persian wootz dagger": n=13, median $263.12, p25 $150, p75 $329.99
 
 ## Market
 eBay restricts some weapon sales (knives allowed but shipped with restrictions; check eBay knives policy) — specialist auction houses and arms forums sell antiques. Tourist pieces: slow, low.

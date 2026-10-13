@@ -41,3 +41,10 @@ Prefer specific identification queries.
   - Never try to solve or bypass the challenge. If it persists, Dylan opens eBay in his own browser and continues
     normally.
   - Wave 2 is unfinished: indices 369–1099 of research/tp_queries_wave2.json remain to run.
+
+## Run log
+- 2026-10-13 R4 (wave 2, indices 369–668): 300 queries in ~45 min at a 3.5–5.5 s pace with no bot check. Read out as
+  15-row compact strings (`i,n,p25,p50,p75`), with top rows dropped to stay under the tool's ~1 KB string limit.
+  Result: research/terapeak/wave2b.jsonl and 284 comps; lines appended to 148 entries' Comps sections. Lines where
+  p75/p25 > 6 are tagged "wide spread", meaning the query probably mixed variants or parts.
+- Remaining: wave 2 indices 669–1099.

@@ -36,6 +36,8 @@ Few outright fakes. Risks are married parts (Bedrock frog in a Bailey body or vi
 ## Comps (sold, dated)
 - None dated. Earlier sweep summary: Lie-Nielsen shoulder plane ~$240; Bedrock $80–250; common Stanley Bailey $20–60 (undated).
 - Lens asking-price medians (not sold), 2026-10-13: Stanley No. 10 carriagemaker's rabbet ~$49; Stanley No. 22 transitional ~$51.
+- 2026-10-13 – Terapeak 365d sold, query "Stanley Bedrock plane": n=50, median $114.5, p25 $75, p75 $152.5
+- 2026-10-13 – Terapeak 365d sold, query "Lie-Nielsen plane": n=50, median $77.83, p25 $52.5, p75 $87.84
 
 ## Market
 Steady eBay market: hobby woodworkers ("user" buyers wanting a tuned No. 4/5) and tool collectors (Stanley type-study people). Common Baileys sell daily but cheaply; Bedrocks and premium modern planes sell within a week or two at fair price. Mild winter uptick (shop season). (general knowledge, verify)

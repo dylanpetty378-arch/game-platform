@@ -12359,3 +12359,5 @@
 {"ts":"2026-10-13T09:50:34Z","pid":"7960061943","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":60,"ratio":1.33}}
 {"ts":"2026-10-13T09:50:42Z","pid":"7944994937","stage":"queued","status":"relens","run":"lensworker-20261013-0947","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T09:50:51Z","pid":"7943864176","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":6000,"ratio":63.16}}
+{"pid":"7979770546","stage":"photo_review","status":"kill","type":null,"note":"Terapeak: Qantas koala opal pins ~$15 each (n=5)","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:50:02Z"}
+{"pid":"7975423845","stage":"photo_review","status":"kill","type":null,"note":"Terapeak: Stanley No.5 ~$35-55, lots of planes median $42; 5 cast-iron planes heavy to ship; fails rule at $50","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:50:02Z"}

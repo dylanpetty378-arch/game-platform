@@ -39,6 +39,8 @@ Mutable Instruments clones (open-source; panels sometimes say "uClouds", "Rings 
 - 2025–26 – Make Noise Rosie – $110–140 (Reverb sold)
 - 2025–26 – Mutable Instruments Plaits (original) – $300–400
 - 2025–26 – Make Noise Maths – $200–240
+- 2026-10-13 – Terapeak 365d sold, query "Make Noise Morphagene": n=4, median $340, p25 $300, p75 $400 (thin sample)
+- 2026-10-13 – Terapeak 365d sold, query "Mutable Instruments Elements": n=1, median $675, p25 $675, p75 $675 (thin sample)
 
 ## Market
 Liquid on Reverb, ModularGrid marketplace, and the r/modular / Muff Wiggler-style communities; experts buy and sell at known prices, so margins come only from non-musician sellers (general knowledge, verify).

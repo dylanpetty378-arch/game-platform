@@ -61,6 +61,7 @@ Counterfeit Puma White Hunter and Puma folder copies from Pakistan/China exist (
 - Terapeak 2026-10-13 note: Puma lockbacks with box median ~$150.
 - Other comps not found in this run (no web search); verify loose (no box) German Puma 230-series sold range, estimated $60–110.
 - 2026-10-13 – Terapeak 365d sold, query "Puma Puma lockback knife": n=50, median $127, p25 $88.33, p75 $180 — e.g. $102.5 PUMA 230265 LOCK BACK SERGEANT POCKET (); $162.67 Rare Puma Duke Folding Stag Knife 2109 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Puma Game Warden": n=50, median $135, p25 $80, p75 $169.99
 
 ## Market
 Strong collector base; eBay sells German Pumas within 1–3 weeks. Knife buyers scrutinize tang stamps. Pre-64 (no control number) and boxed NOS pieces draw the strongest bids; Puma IP sits.

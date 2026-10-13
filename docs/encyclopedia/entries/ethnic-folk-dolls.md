@@ -33,6 +33,7 @@ Moth damage on wool/felt, fading, missing accessories (hats, weapons), cracked g
 
 ## Comps (sold, dated)
 No dated sold comps retrievable this run. Lens median $100 for the example reflects asking listings. Pull Terapeak "hill tribe wooden doll" / "Hmong doll" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "ichimatsu doll gofun": n=50, median $22.99, p25 $15, p75 $45
 
 ## Market
 Large supply of souvenir dolls; slow sales. Collector demand concentrated in Lenci, Japanese, Hopi.

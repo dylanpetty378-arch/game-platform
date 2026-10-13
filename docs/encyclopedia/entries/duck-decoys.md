@@ -41,6 +41,8 @@ Artificially aged "antique" decoys (faked crazing, distressed paint, new glass e
 - 2026 (eBay sold, general) – unmarked hand-carved glass-eye decoys with original paint: $60–250 each depending on form/species
 - 2026-10-12 – Terapeak 'vintage wood duck decoy glass eyes working': 6 sold, median $80, range $45–189
 - Rule of thumb from Invaluable/Guyette: ~90% of decoys have been repainted or have replaced heads; original paint is the main driver
+- 2026-10-13 – Terapeak 365d sold, query "Mason decoy premier grade": n=21, median $325, p25 $229.5, p75 $461
+- 2026-10-13 – Terapeak 365d sold, query "Herter's cork decoy": n=34, median $90, p25 $57.49, p75 $157.5
 
 ## Market
 Steady collector market on eBay for singles; decoy auctions (Guyette & Deeter, Copley) for anything with a maker. Plastic/foam lots sell locally to hunters, peaking before duck season (Aug–Nov) (general knowledge, verify). Decorators also buy rustic old decoys. The low-end eBay data is thin (6 sold in the Terapeak search).

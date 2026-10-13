@@ -33,6 +33,7 @@ No fakes; later Tiger/Hasbro reissues may be listed as "vintage". (general knowl
 - 2025 – Photon phaser target game, used, parts – $7 ask (eBay)
 - 2025 – WoW Lazer Tag complete kit NOB – $100–180 band (eBay)
 - No dated sold comps yet.
+- 2026-10-13 – Terapeak 365d sold, query "Photon laser tag": n=44, median $15.99, p25 $9.59, p75 $34.3
 
 ## Market
 1980s-nostalgia buyers; modest eBay volume; boxed working sets sell, loose untested units linger. Nov–Dec slight bump. (general knowledge, verify)

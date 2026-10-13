@@ -44,6 +44,7 @@ Buy rule (short): Buy only when the signature traces to an artist with documente
 - 2026-09-09 – eBay – "RARE! Vintage Oil Painting Yellow Roses Still Life Ornate Velvet Frame" – $250; 2026-08-12 – "Oil Painting P Gardner signed floral roses still life ornate gold framed 15x17" – $93.11 (roses-in-ornate-frame median $70, n=50)
 - 2026-06-01 – eBay – "Vintage Signed and Framed Oil Painting Winter Landscape with River 15x19.5" – $18; 2025-11-10 – "Large Vintage Oil Painting Winter Lake Landscape Signed Framed" – $75 (winter landscape median $35, n=50)
 - 2026-01-27 – eBay – "Vintage Oil on Masonite Landscape Signed J Kveus Framed 20x16" – $24.99; 2025-10-24 – "Almon signed oil on canvas large 36x24 framed landscape" – $250 (signed/framed landscape median $70)
+- 2026-10-13 – Terapeak 365d sold, query "listed artist oil painting signed": n=50, median $152.5, p25 $124, p75 $300
 
 ## Market
 - Huge supply, decorator-driven demand; most decorator oils sell for $20–75 after weeks. Shipping cost (oversized boxes) kills margin; local selling works better.

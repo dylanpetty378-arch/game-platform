@@ -35,6 +35,8 @@ Pendleton continually reissues heritage patterns (Chief Joseph, Harding, Glacier
 - 2025 – eBay – Pendleton Beaver State jacquard twin, good – $220–350 (knowledge)
 - 2025 – eBay – Pendleton solid satin-bound blanket – $40–65 (knowledge)
 - 2025 – eBay – Hudson's Bay 4-point vintage – $150–250 (knowledge)
+- 2026-10-13 – Terapeak 365d sold, query "Pendleton Beaver State blanket": n=50, median $169, p25 $90, p75 $250
+- 2026-10-13 – Terapeak 365d sold, query "Oregon City Woolen Mills blanket": n=10, median $125, p25 $47, p75 $340 — wide spread; query likely mixes variants/parts, read with care
 
 ## Market
 Steady demand from Western/Americana decor buyers, cabin owners and collectors on eBay and Etsy (general knowledge, verify). Good jacquards sell readily; solid blankets are slow. Fall–winter is the stronger season (general knowledge, verify).

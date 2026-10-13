@@ -35,6 +35,8 @@ No meaningful fakes. Risk is mixed/married parts and repainted playfields sold a
 
 ## Comps (sold, dated)
 - pachinkoplanet 2025: complete restorable 1970s machine $100–200 shipped; restored common model >$500; non-working ≤$10 value (value guide, not individual sales)
+- 2026-10-13 – Terapeak 365d sold, query "Nishijin pachinko machine": n=50, median $24, p25 $15, p75 $34
+- 2026-10-13 – Terapeak 365d sold, query "pachinko machine 1960s": n=11, median $225, p25 $125, p75 $400
 
 ## Market
 Small, slow market; buyers are game-room/man-cave decorators and a few collectors (general knowledge, verify). Mostly local because of weight and glass. Plentiful supply of common 1970s machines keeps prices low.

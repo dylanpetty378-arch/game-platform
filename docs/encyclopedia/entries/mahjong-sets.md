@@ -41,6 +41,8 @@ Modern "bone" sets made in China are often resin or cow bone sold as antique; th
 - 2025 – eBay – Bakelite 152-tile set w/ 5 racks, butterscotch – $350–450 (knowledge)
 - 2025 – eBay – bone & bamboo 1920s w/ box – $150–300 (knowledge)
 - 2026-10 – craigslist San Diego – Chinese tourist travel set 142/144 – $67 ask (overpriced; asking, not sold)
+- 2026-10-13 – Terapeak 365d sold, query "catalin mahjong set": n=50, median $360, p25 $298, p75 $523
+- 2026-10-13 – Terapeak 365d sold, query "Pung Chow mahjong": n=35, median $99, p25 $25, p75 $250 — wide spread; query likely mixes variants/parts, read with care
 
 ## Market
 Steady eBay and Etsy demand from American mahjong players (strong National Mah Jongg League player community) who want vintage Bakelite sets to play with, plus collectors of Bakelite (general knowledge, verify). Complete Bakelite sets sell reasonably quickly at fair prices; tourist sets are plentiful and slow. Gift season (Nov–Dec) likely helps (general knowledge, verify).

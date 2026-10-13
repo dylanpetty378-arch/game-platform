@@ -48,6 +48,8 @@ Big repro market: modern papier-mâché "vintage-style" JOLs (Bethany Lowe, Rago
 No dated comps pulled this run. Lens median for the 1998 Paper Magic lighted JOL: $20. Pull Terapeak "vintage pulp jack o lantern" and "German Halloween candy container" when a candidate appears.
 - 2026-10-13 – Terapeak 365d sold, query "Paper Magic Group lighted jack-o-lantern": n=49, median $20, p25 $15, p75 $25.2 — e.g. $14.4 Vintage Halloween THE PAPER MAGIC GROU (); $26.99 Vtg 1998 The Paper Magic Group Hallowe () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "misc Halloween items": n=7, median $21.04, p25 $14.99, p75 $35 — e.g. $55.96 McCartney I II III 3LP Box Set 2022 Ne (); $35.0 Lot Muffy Vanderbear 7 Picnic Hallowee () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "German papier mache jack o lantern": n=21, median $164.99, p25 $107.5, p75 $225.5
+- 2026-10-13 – Terapeak 365d sold, query "Beistle Halloween centerpiece": n=50, median $12, p25 $8.59, p75 $19
 
 ## Market
 Strongly seasonal: peak August–October 25. After Halloween prices drop 30–50%. Sell-through high in season for vintage paper and pulp.

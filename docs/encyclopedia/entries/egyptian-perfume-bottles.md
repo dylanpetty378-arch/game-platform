@@ -31,6 +31,7 @@ The whole category is souvenir production; "antique Egyptian" claims are almost 
 No dated sold comps available this run. Lens medians ($65–70) reflect asking prices and new import listings, not sold prices.
 - 2026-10-13 – Terapeak 365d sold, query "hand-blown Egyptian perfume bottles": n=48, median $15, p25 $10, p75 $22.45 — e.g. $26.76 5 X LARGE Set Egyptian Mouth Hand Blow (); $4.99 Vintage Hand Blown Egyptian Glass Perf () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Egyptian glass decanters": n=14, median $17, p25 $11, p75 $18 — e.g. $11.0 Vintage Perfume Glass Bottle Egyptian (); $20.0 Vintage 1962 Cleopatra Egyptian Decant () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Egyptian perfume bottle set": n=48, median $22.5, p25 $15.67, p75 $28.09
 
 ## Market
 Saturated: new ones sell for $3–8 each on Amazon/eBay from importers. Vintage carries no premium.

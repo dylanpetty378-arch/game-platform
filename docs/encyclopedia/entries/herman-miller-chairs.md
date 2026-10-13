@@ -33,6 +33,8 @@ Copy chairs styled like Aeron exist widely online; no label and wrong frame deta
 
 ## Comps (sold, dated)
 - None dated. Earlier sweep summary: Setu stool $200–350; Aeron size C $300–500 (undated).
+- 2026-10-13 – Terapeak 365d sold, query "Herman Miller Embody": n=50, median $54.85, p25 $29.95, p75 $159.99
+- 2026-10-13 – Terapeak 365d sold, query "Aeron Remastered size B": n=47, median $738.67, p25 $199.99, p75 $912.6
 
 ## Market
 Large, liquid local market (offices liquidating, WFH buyers). Sells best locally (FB Marketplace, Craigslist, OfferUp) because shipping a chair costs $60–120; eBay mainly for local pickup or freight. Office-liquidation dumps periodically depress prices. (general knowledge, verify)

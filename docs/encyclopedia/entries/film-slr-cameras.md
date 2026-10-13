@@ -73,6 +73,7 @@ Fake Leicas (Soviet FED/Zorki bodies re-engraved) are common – authenticate se
 - **Olympus mju-II**: $250–350 (2025 knowledge) vs $150–250 (2025–26 knowledge, more recent). The sibling `film-cameras` entry says $150–300.
 - **Minolta X-700**: $80–150 here vs $120–200 with 50/1.7 in `film-cameras`; $90–160 kit.
 - **Yashica T4**: $300+ vs $150–400.
+- 2026-10-13 – Terapeak 365d sold, query "Nikon FM3A": n=48, median $22.91, p25 $14.57, p75 $33.39
 
 ## Market
 Film-camera boom since ~2018; strong sell-through on eBay for tested bodies and fast primes. KEH/MPB buy outright at ~60% of retail (fast, no fees). Common bodies (AE-1, K1000) are widely known, so Craigslist sellers price at eBay level.

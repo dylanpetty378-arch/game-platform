@@ -34,6 +34,8 @@ Bell reissued the "Bell Star Classic" and "500-TX" (modern labels, DOT stickers,
 ## Comps (sold, dated)
 No dated sold comps retrievable this run (no web search; no Terapeak rows). Lens median $200 for the example was asking listings ("Vintage Shoei Honda Custom Hawk Helmet Med Goldwing"), not sold. Pull Terapeak "honda gold wing helmet vintage" before buying any.
 - 2026-10-13 – Terapeak 365d sold, query "Shoei Honda helmet": n=49, median $59, p25 $25, p75 $100 — e.g. $15.26  2 Genuine Shoei MINI VISOR Helmet Sti (); $4.14 SHOEI helmet sticker decal MotoGP WRC () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Bell Star helmet 1960s": n=14, median $100, p25 $26.99, p75 $139.99
+- 2026-10-13 – Terapeak 365d sold, query "Buco helmet bubble visor": n=10, median $150, p25 $26.99, p75 $235 — wide spread; query likely mixes variants/parts, read with care
 
 ## Market
 Steady decor/collector demand for 1960s–70s Bell/Buco; slow, thin market for 1980s OEM touring helmets (many asks at $150–250, few sales). Sold as "display only".

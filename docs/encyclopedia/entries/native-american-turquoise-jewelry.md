@@ -41,6 +41,8 @@ Huge problem: Indian Arts and Crafts Act makes selling non-Native work as "Nativ
 ## Comps (sold, dated)
 - Terapeak 365-day, recorded 2026-10-13 (run review-20261013): "squash blossom necklace sterling navajo no turquoise" median $650, n=50, p25 $249; bench-bead naja pieces $175–379 (related tier, not bracelets).
 - No link-bracelet sold comps retrievable this run; est. $50–150 for unsigned sterling turquoise link bracelets (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Navajo turquoise cuff vintage": n=50, median $130, p25 $80.41, p75 $240
+- 2026-10-13 – Terapeak 365d sold, query "Navajo concho belt sterling": n=50, median $400, p25 $269.99, p75 $699
 
 ## Market
 Large, liquid market, strong buyer base on eBay, Etsy and Instagram. Sell-through 40–50% for honest listings; 1–4 weeks. Heavy vintage sells fast.

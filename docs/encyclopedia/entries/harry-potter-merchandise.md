@@ -38,6 +38,8 @@ Massive volume of Chinese knockoffs: Time-Turners, Snitches, Deathly Hallows nec
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): Platform 9¾ luggage tag $20; Hallmark Harry on broomstick ornament $18. Ladder estimated.
 - 2026-10-13 – Terapeak 365d sold, query "Hallmark ornament figurine": n=50, median $21.03, p25 $11.95, p75 $55 — e.g. $72.43 Hallmark Snow Many Memories Collectabl (); $24.68 Hallmark Keepsake Limited Edition Ben () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "LEGO Hogwarts Castle 71043 sealed": n=50, median $399, p25 $300, p75 $425
+- 2026-10-13 – Terapeak 365d sold, query "LEGO Diagon Alley 75978 sealed": n=50, median $550, p25 $520, p75 $579.95
 
 ## Market
 Very liquid, enormous supply, mostly low value. Lots sell slowly; fans prefer to buy individual pieces. Holiday bump in Nov–Dec. LEGO and Funko have their own price-guide-driven markets.

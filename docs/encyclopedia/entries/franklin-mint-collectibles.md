@@ -33,6 +33,8 @@ Not faked; but "Fabergé" naming misleads sellers into Russian-Fabergé prices.
 
 ## Comps (sold, dated)
 No sold data in this run. Lens median $89 reflects Etsy asking prices (like the screenshot), not sales.
+- 2026-10-13 – Terapeak 365d sold, query "Franklin Mint 1:24 Precision Model": n=50, median $40, p25 $25, p75 $60
+- 2026-10-13 – Terapeak 365d sold, query "Franklin Mint sterling ingot set": n=50, median $405, p25 $275, p75 $1054
 
 ## Market
 Oversupplied; boomer estates dump large volumes. Sterling sells instantly at melt.

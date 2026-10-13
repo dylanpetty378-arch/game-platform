@@ -40,6 +40,7 @@ Counterfeit Scotty Cameron putters and fake Circle T/tour stamps are widespread;
 - 2024–25 (eBay sold knowledge) – George Nicoll Leven hickory putters – $40–120
 - Sacks Parente used – $150–300 (retail $400–500)
 No individual dated sold comps recorded.
+- 2026-10-13 – Terapeak 365d sold, query "Ping Anser 1A putter": n=1, median $9.99, p25 $9.99, p75 $9.99 (thin sample)
 
 ## Market
 Liquid on eBay, GolfWRX classifieds and SidelineSwap; Scotty Cameron has a deep collector market. Spring peak (general knowledge, verify).

@@ -39,6 +39,7 @@ Faked signatures exist for Haskell, Eisenberg, Schiaparelli and Chanel-style pie
 - 2026 – 1stdibs active – Rafael Canada 1970s brass/Murano glass kinetic necklace – dealer tier (typically $250–500 asking; not sold)
 - 2026 eBay/Etsy sold (typical) – Rafael Canada brass + glass pendant necklace – $60–150; locket versions rarer
 - 2026 eBay sold – Aarikka Finland wooden bead necklace – $30–80
+- 2026-10-13 – Terapeak 365d sold, query "Eisenberg Original brooch": n=50, median $34.99, p25 $25, p75 $60
 
 ## Market
 Very high volume on eBay and Etsy; buyers are vintage-jewelry collectors, resellers and wearers (general knowledge, verify). Signed pieces sell steadily; unsigned lots move slowly unless priced cheaply. Modernist brass (Rafael) has crossover demand from mid-century-modern decor buyers. Gift seasons (Nov–Dec, Feb) help (general knowledge, verify).

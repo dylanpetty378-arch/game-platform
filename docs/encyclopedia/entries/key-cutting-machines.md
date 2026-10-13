@@ -37,6 +37,7 @@ None meaningful. Watch for married lots (cams from different machines) – check
 - 2025 – eBay – Clipper #15 with case of carriages and cams – $250–450 (knowledge)
 - 2026-10-13 – Lens median for Cole National 3K commercial machine – $400 (asking-price based, not sold)
 - No dated sold comps yet.
+- 2026-10-13 – Terapeak 365d sold, query "Curtis Clipper 15 key machine": n=27, median $45, p25 $29.99, p75 $50
 
 ## Market
 Locksmiths, classic-car restorers (code-cut keys for old cars) and tool collectors. eBay is the main venue; parts (cams/carriages) sell steadily individually. Low volume, slow for bare machines. (general knowledge, verify)

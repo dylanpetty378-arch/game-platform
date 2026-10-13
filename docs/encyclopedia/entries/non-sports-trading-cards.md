@@ -34,6 +34,8 @@ Reprints of Mars Attacks, Star Wars 1977, GPK; counterfeit unopened boxes (resea
 ## Comps (sold, dated)
 None retrieved this run. Verify on 130point/eBay sold.
 - 2026-10-13 – Terapeak 365d sold, query "Marvel Marvel trading cards": n=49, median $1.27, p25 $1.02, p75 $1.84 — e.g. $1.09 2026 Topps Marvel Chrome Comic Base Ca (); $1.38 2026 Topps Chrome MARVEL COMICS Base C () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "1962 Mars Attacks card": n=50, median $51, p25 $19.95, p75 $109.99
+- 2026-10-13 – Terapeak 365d sold, query "1990 Marvel Universe Spider-Man PSA 10": n=50, median $160, p25 $64.77, p75 $299.99
 
 ## Market
 Huge volume; 1990s commons have near-zero demand singly. Lots sell for pennies/card. Graded/vintage moves fast.

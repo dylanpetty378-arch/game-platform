@@ -40,6 +40,7 @@ Large market in imported "Native-style" jewelry sold as Navajo (illegal under th
 ## Comps (sold, dated)
 - (to fill from Terapeak — search: "navajo squash blossom necklace sterling cast naja", exclude turquoise if none)
 - Asking reference (eBay active, not sold): 5.8 oz cast-naja, no stone, up to $1,350.
+- 2026-10-13 – Terapeak 365d sold, query "squash blossom necklace Zuni": n=50, median $1000, p25 $700, p75 $1300
 
 ## Market
 Strong, long-running collector and wearer market for Southwest silver on eBay, Etsy, and specialist dealers/auctions; squash blossoms are fashionable again (general knowledge, verify). Buyers: Native-jewelry collectors, Western-wear and boho fashion buyers. Well-photographed vintage pieces sell readily.

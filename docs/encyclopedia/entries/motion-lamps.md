@@ -34,6 +34,8 @@ General knowledge, verify.
 ## Comps (sold, dated)
 No sold comps verified this run. Lens median $100 matched to older lamps.
 - 2026-10-13 – Terapeak 365d sold, query "Rabbit Tanaka rotating tropical fish motion": n=30, median $47.99, p25 $35.5, p75 $59.99 — e.g. $59.19 Vintage Rabbit Tanaka Aquarium Motion (); $34.51 Rotating Vista Vision Tropical Salt Wa () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Econolite Niagara Falls lamp": n=49, median $102, p25 $73, p75 $129.99
+- 2026-10-13 – Terapeak 365d sold, query "Scene in Action motion lamp": n=50, median $74.73, p25 $45, p75 $89.99
 
 ## Market
 Nostalgia market, moderate volume.

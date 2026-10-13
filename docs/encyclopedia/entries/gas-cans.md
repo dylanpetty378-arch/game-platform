@@ -29,6 +29,7 @@ Reproduction branded oil cans and fake "Texaco" decals are common.
 
 ## Comps (sold, dated)
 None gathered. Lens median $38 on example matches low tier.
+- 2026-10-13 – Terapeak 365d sold, query "Justrite safety can vintage": n=50, median $22.5, p25 $19, p75 $35
 
 ## Market
 Steady petroliana/mancave demand; plain cans slow.

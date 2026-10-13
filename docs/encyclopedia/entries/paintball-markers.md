@@ -29,6 +29,7 @@ Clones of Autococker/Spyder bodies; no significant fake market.
 
 ## Comps (sold, dated)
 - Terapeak 365d (to 2026-10-13) "paintball marker with tanks": median $16.59, n=48 — mostly parts (13ci buttstocks $10–17, Aug–Sep 2026; o-ring kits $7–9) — confirms low-end market.
+- 2026-10-13 – Terapeak 365d sold, query "Planet Eclipse Geo": n=50, median $19.95, p25 $9.95, p75 $29.95
 
 ## Market
 Steady for top brands, saturated for entry gear.
