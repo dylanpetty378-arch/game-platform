@@ -26,7 +26,8 @@ from Dylan's personal Gmail (never his work account); **send nothing without Dyl
  ─────────────────────────────────────                   ──────────────────────────────────────────────────────
  harvest Craigslist, 413 US areas, 29 categories  ──►    reads q/current/queue.txt
  score each title for "seller doesn't know"              for each listing: open Google Lens on photo 1 as a FRESH page
- queue the best 800 new listings per cycle               (no memory build-up), parse matches + AI overview,
+ CLIP image model re-ranks the top 12,000 by photo       (no memory build-up), parse matches + AI overview,
+ queue the best 800 new listings per cycle
  ingest Lens results from db/inbox/  ◄──────────────     save result, every 25 → upload to db/inbox/ (GitHub token)
  rebuild queue + STATUS.md + status.json                 pauses itself if Google rate-limits
                          │
@@ -41,10 +42,10 @@ Why each piece exists and what was rejected: `docs/decisions.md`. Everything lea
 
 | Thing | Location (raw URL base: `https://raw.githubusercontent.com/dylanpetty378-arch/game-platform/refurbish/`) |
 |---|---|
-| Current status — what's waiting, finds, counts | `STATUS.md`, `status.json` |
+| Current status — what's waiting, finds, counts | `STATUS.md` (with photos: https://github.com/dylanpetty378-arch/game-platform/blob/refurbish/STATUS.md), `status.json` |
 | Database tables | `db/*.jsonl`, `db/<table>/YYYY-MM.jsonl` — schema in `docs/database.md` |
 | Lens queue the Chrome worker reads | `q/current/queue.txt` (+ `meta.json`) |
-| Cloud worker | `scripts/cloud_cycle.py` (+ `harvest_cl.py`, `scoring.py`), run by `.github/workflows/refurbish-cycle.yml` on **main** |
+| Cloud worker | `scripts/cloud_cycle.py` (+ `harvest_cl.py`, `scoring.py`, `clip_rank.py`), run by `.github/workflows/refurbish-cycle.yml` on **main** |
 | Chrome worker | `scripts/refurbish-lens.user.js` (Tampermonkey) — doc `docs/lens-worker.md` |
 | Fallback Chrome loop (Claude pastes it) | `scripts/lens_gentle.js` v7 |
 | Database tool | `scripts/db.py` |
