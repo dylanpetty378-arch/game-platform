@@ -56,3 +56,16 @@ See `docs/history/valuation-method.md` (why Lens-first beat thumbnail review: 22
   already scanned too. For anything bought/sold, keep a full item dossier (docs/items/) he can quote to buyers.
 - Dylan: no separate scheduled Claude sessions changing code (they could overwrite each other). One working chat does
   all iterations; the 6-hourly scheduled review task was deleted. The cloud workflow + Lens worker keep running.
+
+## 2026-10-13 — No device dependency
+Dylan: the system must run on any device and without his laptop open. Decision:
+- The cloud is the backbone: GitHub Actions for harvest and API comps, one Claude cloud scheduled task for review,
+  and git for the database.
+- His Chrome (Lens, Terapeak) becomes an optional accelerator.
+- Sold data without a browser: the eBay developer APIs. The Browse API (active listings) is available to every free
+  developer account. The Marketplace Insights API (sold, 90 days) needs eBay's approval, which Dylan applies for.
+  Scraping eBay from the cloud was rejected because of bot checks and ToS.
+- Dylan approved an automated job on his eBay account. Done through the official API, it needs no laptop at all.
+- Triage without Lens: `review_helpers.py --unlensed`. Measured on Oct 13: Lens flags gave 0 keepers; reading the
+  listings found the leads.
+- The send_later check-in chain is retired. It was bound to the Mac, so it stalled when the Mac was closed.

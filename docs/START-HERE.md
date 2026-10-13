@@ -40,6 +40,11 @@ from Dylan's personal Gmail (never his work account); **send nothing without Dyl
 
 Why each piece exists and what was rejected: `docs/decisions.md`. Everything learned the hard way: `docs/improvements.md`.
 
+### Runs with no particular device
+Everything essential runs in the cloud: GitHub Actions, a Claude scheduled task, and the eBay API. Dylan's Chrome
+(the Lens worker and Terapeak) is a bonus that's used when present. Details, plus the "get going" steps for any
+new chat: **`docs/device-free.md`**. One working Claude at a time, enforced by `scripts/lock.py`.
+
 ## 3. Where things are
 
 | Thing | Location (raw URL base: `https://raw.githubusercontent.com/dylanpetty378-arch/game-platform/refurbish/`) |
@@ -75,8 +80,9 @@ flagged list (`scripts/review_helpers.py --flagged`) → photo review + listing 
 `q/`, `STATUS.md`, `status.json` — the bot owns them) → dispatch the workflow with no_harvest → Tier A/B finds go to
 Dylan as a PDF (`scripts/build_report.py`, seller contacts only in the spec in /tmp).
 
-**Scheduled:** a Claude scheduled task "Refurbish review cycle" runs exactly this every 6 h in the cloud (no Chrome, so
-web comps). A chat with Chrome + signed-in eBay should re-check its keepers on Terapeak.
+**Scheduled:** ONE Claude cloud scheduled task, "Refurbish review cycle", runs this every 3 h with no device bound.
+It respects `scripts/lock.py`. A chat that has Chrome and a signed-in eBay account should re-check keepers on
+Terapeak. With no Chrome, use `ebay_api.py` comps plus the stored comps. See docs/device-free.md.
 
 **History / logs on request:** everything is in `db/` — `python3 scripts/db.py sql "SELECT …"` (tables harvests,
 searches, listings, lens, events, comps, item_types, runs; view listing_status = latest stage per listing), plus `git
