@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:39:22Z",
+ "updated": "2026-10-13T22:42:43Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 6949,
-  "events": 26369,
+  "lens": 6974,
+  "events": 26394,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 351,
+  "lensed": 354,
   "comps/pass": 1,
-  "queued/relens": 300,
+  "queued/relens": 306,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 471,
+  "flagged": 487,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 704
+  "queued": 679
  },
  "last_harvests": [
   {
@@ -536,6 +536,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937093016",
+   "title": "Vintage Bijoux Cascio Figaro link chain necklace, 36\" long x 8mm",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-bijoux-cascio-figaro/nHBUXd9cCquaCE32DKExpi",
+   "best": "eBay",
+   "med": 6093,
+   "ratio": 64.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7981649727",
    "title": "Ladies Fashion Gold Ring w Pearl Rings",
    "price": 15,
@@ -712,6 +723,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982904444",
+   "title": "Sterling neclaces",
+   "price": 7,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-sterling-neclaces/7HL5hebYUk7WRswuEEqCwN",
+   "best": "Etsy",
+   "med": 172,
+   "ratio": 24.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7967367309",
    "title": ".925 STERLING SILVER CITRINE RING",
    "price": 40,
@@ -819,6 +841,17 @@
    "best": "Origin: Made in New York, USA by Glidden Pottery (1940s\u20131950s).",
    "med": 995,
    "ratio": 15.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979595507",
+   "title": "Vintage Southwestern Terracotta Vase Jug",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/tacoma-vintage-southwestern-terracotta/cNFgMRSLgkdFbYjnfxU6bb",
+   "best": "1960s Tuscany Italy for Fortunata Three Handled Planter Vase ...",
+   "med": 378,
+   "ratio": 15.12,
    "ai_value": ""
   },
   {
@@ -973,6 +1006,17 @@
    "best": "Vintage Hollywood Regency Crystal Strand Table Lamp With ...",
    "med": 2450,
    "ratio": 12.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955344936",
+   "title": "Vintage Asian Floral Vase",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vintage-asian-floral-vase/rKfTxVrBVBaV1ZGUQPBdsb",
+   "best": "eBay",
+   "med": 599,
+   "ratio": 11.98,
    "ai_value": ""
   },
   {
@@ -1482,6 +1526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979273682",
+   "title": "47mm Watch",
+   "price": 475,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-47mm-watch/uqHrjizcsdwxqAXCofxWKq",
+   "best": "Case: Large stainless steel cushion-shaped case (approximately 47mm) with wire-style or fixed-style lug attach",
+   "med": 3200,
+   "ratio": 6.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7948825689",
    "title": "Pair of Vintage Ceramic Floral Motif Lamps Signed Dunn Hall",
    "price": 75,
@@ -1788,6 +1843,17 @@
    "med": 110,
    "ratio": 5.5,
    "ai_value": "Value / Market: Generally sells between $40"
+  },
+  {
+   "pid": "7978836273",
+   "title": "Japanese Decor Vintage",
+   "price": 25,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/bellevue-japanese-decor-vintage/5M5XQeYrvVMJpCVN3Xz8q4",
+   "best": "Items in the Collection",
+   "med": 135,
+   "ratio": 5.4,
+   "ai_value": ""
   },
   {
    "pid": "7968997653",
@@ -3033,6 +3099,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959646812",
+   "title": "VINTAGE CAT & MOUSE WITH CLOCK GOLD TONED CHARM BRACELET",
+   "price": 99,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/southfield-vintage-cat-mouse-with-clock/u9u9NWkuRLFV5vCSH8MUs5",
+   "best": "Kirks Folly Cat Lovers Charm Bracelet- Gold Tone Cats ...",
+   "med": 250,
+   "ratio": 2.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7953344699",
    "title": "Antique telephone replica",
    "price": 50,
@@ -3341,6 +3418,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950195694",
+   "title": "Vintage (SERVICED) AMERICAN Made Lord Elgin 14kt Gold Filled watch",
+   "price": 140,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/burlington-vintage-serviced-american/aMufQQXQHUTszPsTS2KHUh",
+   "best": "eBay",
+   "med": 300,
+   "ratio": 2.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7934461234",
    "title": "Antique Brooch Sterling silver MOP Mother Of Pearl Cameo Pendant",
    "price": 40,
@@ -3547,6 +3635,17 @@
    "best": "Seiko Watch Women 17mm Champagne Dial Gold Tone Oval 1400 ...",
    "med": 39,
    "ratio": 1.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930879337",
+   "title": "Vintage Silver tone 7 row panther necklace",
+   "price": 49,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-silver-tone-row-panther/gzWmq15z3m4pAkJcycy9bE",
+   "best": "Etsy",
+   "med": 95,
+   "ratio": 1.94,
    "ai_value": ""
   },
   {
@@ -3810,6 +3909,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-vintage-world-war-ii/bH1WeqPeKwLr5ryxEURNLs",
    "best": "Right Issue: January 1995 featuring the cover story \"Java Sea Duel\" alongside articles like \"Strike on Norway,",
    "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932286320",
+   "title": "Rings-Stainless",
+   "price": 50,
+   "area": "toledo",
+   "url": "https://www.craigslist.org/view/d/neapolis-rings-stainless/3Nbp7Coo5ULLvFEEzQWmPp",
+   "best": "eBay",
+   "med": 90,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -4936,6 +5046,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933922329",
+   "title": "Antique sterling small pitcher vase 93 grams",
+   "price": 250,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/la-mesa-antique-sterling-small-pitcher/1hoPfDwpjqrATgy8fNGVxT",
+   "best": "Sterling Silver Novelty Jersey Milk / Cream Jug. Birmingham ...",
+   "med": 169,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7960562115",
    "title": "Antique glass paperwights",
    "price": 45,
@@ -5066,6 +5187,17 @@
    "med": 16,
    "ratio": 0.53,
    "ai_value": "sells on secondary markets (such as eBay, Etsy, or Mercari) for about $5 to $20"
+  },
+  {
+   "pid": "7952111074",
+   "title": "Vintage Costume Jewelry Daisy Earrings And Necklace",
+   "price": 30,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-costume-jewelry-daisy/nqiAJXRwtZsEXVRTgZc6fB",
+   "best": "You can find similar vintage and costume iterations\u2014sometimes associated with brands or retailers like Frances",
+   "med": 16,
+   "ratio": 0.53,
+   "ai_value": ""
   },
   {
    "pid": "7937797894",
@@ -5222,6 +5354,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951939536",
+   "title": "Brand new black men's pocket watch",
+   "price": 70,
+   "area": "westmd",
+   "url": "https://www.craigslist.org/view/d/frostburg-brand-new-black-mens-pocket/kxiuFm4Csa2DXyT7ncCt7d",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7955806147",
    "title": "Red Garnet & Coral Marked 925 Sterling Jewelry Ring. 5.3+ grams Size 6.5 (US).",
    "price": 34,
@@ -5244,6 +5387,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953310046",
+   "title": "Misc jewelry lot",
+   "price": 75,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/middle-river-misc-jewelry-lot/f27iDugmd7ezJWGCUrEYuJ",
+   "best": "Item Details",
+   "med": 25,
+   "ratio": 0.33,
+   "ai_value": "Value: Typically ranges from $10 to $40"
+  },
+  {
    "pid": "7946507186",
    "title": "8 COMMEMORATIVE GOLF DECANTERS",
    "price": 125,
@@ -5252,6 +5406,17 @@
    "best": "JIM BEAM, UNITED AIR LINES 1974 HAWAIIAN OPEN GOLF ...",
    "med": 40,
    "ratio": 0.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941467787",
+   "title": "lot of BEAUTIFUL VINTAGE CLEAR RHINESTONE NECKLACES EARRINGS",
+   "price": 150,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-lot-of-beautiful-vintage/6dUfGrEoH76GHUAVK59w7w",
+   "best": "eBay",
+   "med": 47,
+   "ratio": 0.31,
    "ai_value": ""
   },
   {
@@ -5329,6 +5494,17 @@
    "best": "Craigslist",
    "med": 15,
    "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963321269",
+   "title": "Vintage Pandora Bracelet",
+   "price": 75,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/bristol-vintage-pandora-bracelet/n5Pm1HJcsAr77iPGzP5xEo",
+   "best": "Craigslist",
+   "med": 11,
+   "ratio": 0.15,
    "ai_value": ""
   },
   {

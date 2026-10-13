@@ -26367,3 +26367,28 @@
 {"ts":"2026-10-13T22:38:42Z","pid":"7969615833","stage":"lensed","run":"lensworker-20261013-2235","note":null,"data":{"med":35,"ratio":1,"mismatch":[]}}
 {"ts":"2026-10-13T22:38:50Z","pid":"7964283582","stage":"lensed","run":"lensworker-20261013-2235","note":null,"data":{"med":15,"ratio":1,"mismatch":[]}}
 {"ts":"2026-10-13T22:39:01Z","pid":"7948159613","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":252,"ratio":1.01,"mismatch":[]}}
+{"ts":"2026-10-13T22:39:09Z","pid":"7950195694","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":300,"ratio":2.14,"mismatch":[]}}
+{"ts":"2026-10-13T22:39:18Z","pid":"7950505065","stage":"queued","status":"relens","run":"lensworker-20261013-2235","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:39:27Z","pid":"7963321269","stage":"flagged","run":"lensworker-20261013-2235","note":"Lens names European, Murano-style, Silver — title does not","data":{"med":11,"ratio":0.15,"mismatch":["European","Murano-style","Silver"]}}
+{"ts":"2026-10-13T22:39:37Z","pid":"7953310046","stage":"flagged","run":"lensworker-20261013-2235","note":"Lens names Silver — title does not","data":{"med":25,"ratio":0.33,"mismatch":["Silver"]}}
+{"ts":"2026-10-13T22:39:47Z","pid":"7959646812","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":250,"ratio":2.53,"mismatch":[]}}
+{"ts":"2026-10-13T22:39:56Z","pid":"7982904444","stage":"flagged","run":"lensworker-20261013-2235","note":"Lens names Jewelry, Silver — title does not","data":{"med":172,"ratio":24.57,"mismatch":["Jewelry","Silver"]}}
+{"ts":"2026-10-13T22:40:02Z","pid":"7939934419","stage":"queued","status":"relens","run":"lensworker-20261013-2235","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:40:09Z","pid":"7981810854","stage":"queued","status":"relens","run":"lensworker-20261013-2235","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:40:17Z","pid":"7979595507","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":378,"ratio":15.12,"mismatch":[]}}
+{"ts":"2026-10-13T22:40:25Z","pid":"7930879337","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":95,"ratio":1.94,"mismatch":[]}}
+{"ts":"2026-10-13T22:40:32Z","pid":"7951939536","stage":"flagged","run":"lensworker-20261013-2235","note":"Lens names Fashion, Jewelry — title does not","data":{"med":25,"ratio":0.36,"mismatch":["Fashion","Jewelry"]}}
+{"ts":"2026-10-13T22:40:42Z","pid":"7948710198","stage":"lensed","run":"lensworker-20261013-2235","note":null,"data":{"med":49,"ratio":0.98,"mismatch":[]}}
+{"ts":"2026-10-13T22:40:50Z","pid":"7932286320","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":90,"ratio":1.8,"mismatch":[]}}
+{"ts":"2026-10-13T22:40:56Z","pid":"7969663914","stage":"lensed","run":"lensworker-20261013-2235","note":null,"data":{"med":25,"ratio":0.71,"mismatch":[]}}
+{"ts":"2026-10-13T22:41:03Z","pid":"7949397292","stage":"queued","status":"relens","run":"lensworker-20261013-2235","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:41:10Z","pid":"7965717438","stage":"queued","status":"relens","run":"lensworker-20261013-2235","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:41:19Z","pid":"7937093016","stage":"flagged","run":"lensworker-20261013-2235","note":"Lens names Gold — title does not","data":{"med":6093,"ratio":64.14,"mismatch":["Gold"]}}
+{"ts":"2026-10-13T22:41:27Z","pid":"7955344936","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":599,"ratio":11.98,"mismatch":[]}}
+{"ts":"2026-10-13T22:41:34Z","pid":"7979273682","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":3200,"ratio":6.74,"mismatch":[]}}
+{"ts":"2026-10-13T22:41:42Z","pid":"7933922329","stage":"flagged","run":"lensworker-20261013-2235","note":"Lens names British, Origin, Silver — title does not","data":{"med":169,"ratio":0.68,"mismatch":["British","Origin","Silver"]}}
+{"ts":"2026-10-13T22:41:49Z","pid":"7953589076","stage":"queued","status":"relens","run":"lensworker-20261013-2235","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:41:55Z","pid":"7941467787","stage":"flagged","run":"lensworker-20261013-2235","note":"Lens names Kramer — title does not","data":{"med":47,"ratio":0.31,"mismatch":["Kramer"]}}
+{"ts":"2026-10-13T22:42:03Z","pid":"7952111074","stage":"flagged","run":"lensworker-20261013-2235","note":"Lens names Elegant, Pink — title does not","data":{"med":16,"ratio":0.53,"mismatch":["Elegant","Pink"]}}
+{"ts":"2026-10-13T22:42:09Z","pid":"7978836273","stage":"flagged","run":"lensworker-20261013-2235","note":null,"data":{"med":135,"ratio":5.4,"mismatch":[]}}
+{"ts":"2026-10-13T22:42:19Z","pid":"7951187402","stage":"lensed","run":"lensworker-20261013-2239","note":null,"data":{"med":55,"ratio":1.83,"mismatch":[]}}

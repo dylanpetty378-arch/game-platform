@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T22:39:22Z
+# Refurbish status — 2026-10-13T22:42:43Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| queued | 704 |
-| flagged | 471 |
-| lensed | 351 |
-| queued/relens | 300 |
+| queued | 679 |
+| flagged | 487 |
+| lensed | 354 |
+| queued/relens | 306 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 10 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 6949
-- events: 26369
+- lens: 6974
+- events: 26394
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -111,7 +111,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (471)
+## Flagged by Lens, waiting for photo review (487)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -130,6 +130,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01212_ccQi70uCZg3_0CI0gs_300x300.jpg" width="120"> | 7982818380 | $200 | phoenix | [Vintage 1970s LERO Telecaster built in Japan.](https://www.craigslist.org/view/d/scottsdale-vintage-1970s-lero/bLsEmk2UQCcqtP7EQtXJ7o) | National FT-440 Finger Talker Blonde 1970s – Chicago Music . | 21995 | 109.97 |
 | <img src="https://images.craigslist.org/00j0j_64miNQD0fD2_0lM0CI_300x300.jpg" width="120"> | 7976662893 | $10 | raleigh | [2 large ginger jars](https://www.craigslist.org/view/d/clayton-large-ginger-jars/d2yYnNVJw4rgN94j3MRJYB) | FABULOUS PAIR of 19th C. ANTIQUE CHINESE CLOISONNE ... | 750 | 75 |
 | <img src="https://images.craigslist.org/00000_6Pme1n0GF7P_0CI0pO_300x300.jpg" width="120"> | 7974257703 | $35 | atlanta | [vintage 1980's signed sculpture of fancy woman](https://www.craigslist.org/view/d/atlanta-vintage-1980s-signed-sculpture/1hu6jmDSVxqSMjdFnj4eWF) | 25+ Austin Sculpture for sale / Updated Oct 2026 - eBay | 2600 | 74.29 |
+| <img src="https://images.craigslist.org/00A0A_8t6l9BFQQIb_0hq0oT_300x300.jpg" width="120"> | 7937093016 | $95 | boston | [Vintage Bijoux Cascio Figaro link chain necklace, ](https://www.craigslist.org/view/d/natick-vintage-bijoux-cascio-figaro/nHBUXd9cCquaCE32DKExpi) | eBay | 6093 | 64.14 |
 | <img src="https://images.craigslist.org/00404_3JTbRWeExM2_0pO0aK_300x300.jpg" width="120"> | 7981649727 | $15 | washingtondc | [Ladies Fashion Gold Ring w Pearl Rings](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring/gbZDMFNTs8abcn5LnkhT4L) | Exclusive Ring 925 Silver 17.5 Mm Size 55 Vintage Gift ... | 958 | 63.87 |
 | <img src="https://images.craigslist.org/00f0f_9hPschRq24V_06007g_300x300.jpg" width="120"> | 7952474801 | $40 | grandrapids | [VINTAGE 1960'S SQUIRREL PLANTER ~ NAPCOWARE](https://www.craigslist.org/view/d/wyoming-vintage-1960s-squirrel-planter/rXfGs85ix8cVYdjv9Aighn) | Napcoware Squirrel Planter Japan Circa 1960s by @shop20max . | 2474 | 61.85 |
 | <img src="https://images.craigslist.org/00T0T_3EEXsgIVWTE_0CI0t2_300x300.jpg" width="120"> | 7953086615 | $1 | miami | [Sadie's Estate  Collectibles](https://www.craigslist.org/view/d/fort-lauderdale-sadies-estate/fyfZuJ9pURmVrjNwJeDNRj) | Etsy | 60 | 60 |
@@ -146,6 +147,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00r0r_7rMBuPyQTO3_0CI0t2_300x300.jpg" width="120"> | 7979031078 | $15 | portland | [Vintage/antique silver plate engraved cup](https://www.craigslist.org/view/d/woodland-vintage-antique-silver-plate/8f3vNE1fWc4r62VTyGExJZ) | Vintage Child's Cup, Quadruple Silver Plate by Forbes Silver | 420 | 28 |
 | <img src="https://images.craigslist.org/00303_7fOJjSFIdZb_0xu0t2_300x300.jpg" width="120"> | 7928724618 | $75 | providence | [Vintage Original Oil Painting of Horses](https://www.craigslist.org/view/d/johnston-vintage-original-oil-painting/izhMF4vrkFSFg7675AEisJ) | Playmate Aires - Robyn Ryan Art | 1999 | 26.65 |
 | <img src="https://images.craigslist.org/01616_bOdu7IqsYhF_0CI0t2_300x300.jpg" width="120"> | 7963962630 | $75 | knoxville | [ANTIQUE VAZE](https://www.craigslist.org/view/d/friendsville-antique-vaze/rAKsz9x9XF44e4oyRnkmMH) | Andrea by Sadek Tall Swan Urn / Tall Urn With Swan Handles . | 1972 | 26.29 |
+| <img src="https://images.craigslist.org/00909_6W7OAHJVGoJ_0t20CI_300x300.jpg" width="120"> | 7982904444 | $7 | charlotte | [Sterling neclaces](https://www.craigslist.org/view/d/charlotte-sterling-neclaces/7HL5hebYUk7WRswuEEqCwN) | Etsy | 172 | 24.57 |
 | <img src="https://images.craigslist.org/00u0u_hFXaby0USHs_0CI0t2_300x300.jpg" width="120"> | 7967367309 | $40 | chicago | [.925 STERLING SILVER CITRINE RING](https://www.craigslist.org/view/d/la-grange-park-925-sterling-silver/68XDVqAemgej2J5AUQWXgo) | eBay | 901 | 22.52 |
 | <img src="https://images.craigslist.org/00C0C_hWJr1cjM5aH_0uz0CI_300x300.jpg" width="120"> | 7960624842 | $40 | chico | [Vintage Bathroom/Outdoor Light Fixture](https://www.craigslist.org/view/d/chico-vintage-bathroom-outdoor-light/nbauhVtzQ3PKtv2K76mLi9) | Craigslist | 875 | 21.88 |
 | <img src="https://images.craigslist.org/00d0d_4MfmxnoiHQR_0Mo12w_300x300.jpg" width="120"> | 7933717352 | $20 | fresno | [Antique Copper Vase Vintage Brass Urn](https://www.craigslist.org/view/d/fresno-antique-copper-vase-vintage/itp4nNSdDQjbXV9tEKiLeK) | Motifs: Relief-carved dragon and mask/mythical animal design | 421 | 21.05 |
@@ -156,6 +158,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01212_atcdtK09oNO_0MM132_300x300.jpg" width="120"> | 7974263163 | $100 | newyork | [Vintage Encore Stingray-Style Bass w/ gig bag and ](https://www.craigslist.org/view/d/brooklyn-vintage-encore-stingray-style/ihfqfRNns5mH6vKZEquWdF) | Platinum Ernie Ball Music Man Retro '70s StingRay Electric . | 1705 | 17.05 |
 | <img src="https://images.craigslist.org/01111_jTyXc7NfY30_0t20CI_300x300.jpg" width="120"> | 7981830597 | $100 | phoenix | [Vintage Floor Lamp](https://www.craigslist.org/view/d/marana-vintage-floor-lamp/gFGjDj9SKNv5exL8dqxKxg) | Vtg STIFFEL Enamel and Brass Candlestick Lamps with ... | 1550 | 15.5 |
 | <img src="https://images.craigslist.org/00j0j_e1mwnWBMhWP_0CI0t2_300x300.jpg" width="120"> | 7943870857 | $65 | sfbay | [Vintage Stoneware Vase Glidden Pottery USA Round #](https://www.craigslist.org/view/d/oakland-vintage-stoneware-vase-glidden/1HCNFVwn6zswDUrDbu3McC) | Origin: Made in New York, USA by Glidden Pottery (1940s–1950 | 995 | 15.31 |
+| <img src="https://images.craigslist.org/00l0l_ag01Ohk2Guo_0qy0t2_300x300.jpg" width="120"> | 7979595507 | $25 | seattle | [Vintage Southwestern Terracotta Vase Jug](https://www.craigslist.org/view/d/tacoma-vintage-southwestern-terracotta/cNFgMRSLgkdFbYjnfxU6bb) | 1960s Tuscany Italy for Fortunata Three Handled Planter Vase | 378 | 15.12 |
 | <img src="https://images.craigslist.org/00j0j_94umym9KfCZ_0t20CI_300x300.jpg" width="120"> | 7982800884 | $10 | houston | [Antique Jester Teddy Bear](https://www.craigslist.org/view/d/houston-antique-jester-teddy-bear/rqsFp8Hw3cmfduLmr1MEnA) | Era: Typically dates from the 1950s through the 1970s based  | 150 | 15 |
 | <img src="https://images.craigslist.org/00n0n_9uIZppa0rGg_0Ni0Ni_300x300.jpg" width="120"> | 7939344630 | $80 | utica | [Vintage cast iron small planter urn](https://www.craigslist.org/view/d/salisbury-center-vintage-cast-iron/hro72ZUsPStnVHBQP8UtSt) | French Antique Cast Iron Planter With Floral Relief, Outdoor | 1199 | 14.99 |
 | <img src="https://images.craigslist.org/00v0v_7IfRALXhuko_0t20CI_300x300.jpg" width="120"> | 7941554179 | $69 | sanangelo | [10k Gold Pendant](https://www.craigslist.org/view/d/center-point-10k-gold-pendant/5nf9x99vP9NwAVthWoH3DH) | Women's Vintage Estate 14K Gold Sapphire & Diamond Ring 7.1g | 1025 | 14.86 |
@@ -170,6 +173,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00l0l_6Dr1izel70F_0lM0t2_300x300.jpg" width="120"> | 7953914312 | $10 | chicago | [Beautiful Vintage Lamp](https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/bmm4SB168gJyLxt9DE3FzW) | Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ... | 126 | 12.6 |
 | <img src="https://images.craigslist.org/01616_jqdqbLpskLx_0lM0t2_300x300.jpg" width="120"> | 7943642566 | $10 | chicago | [Beautiful Vintage Lamp](https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/6hzZWsY7KGRqZ1GCt53iDo) | Vintage Urn Style Porcelain Hand Painted Floral Motif With . | 126 | 12.6 |
 | <img src="https://images.craigslist.org/00A0A_9AogMSNGNd0_0lM0t2_300x300.jpg" width="120"> | 7953102416 | $200 | sfbay | [Antique lamps, hurricane lamps](https://www.craigslist.org/view/d/san-jose-antique-lamps-hurricane-lamps/ubLy5bwvpsJsgFMediJLJd) | Vintage Hollywood Regency Crystal Strand Table Lamp With ... | 2450 | 12.25 |
+| <img src="https://images.craigslist.org/00000_cgr7lL92XC8_0t20CI_300x300.jpg" width="120"> | 7955344936 | $50 | losangeles | [Vintage Asian Floral Vase](https://www.craigslist.org/view/d/carson-vintage-asian-floral-vase/rKfTxVrBVBaV1ZGUQPBdsb) | eBay | 599 | 11.98 |
 | <img src="https://images.craigslist.org/00v0v_iGLpFpieMKo_0Mo12w_300x300.jpg" width="120"> | 7934424256 | $30 | fresno | [Hand Carved Wood Symobolic Idol Figure](https://www.craigslist.org/view/d/fresno-hand-carved-wood-symobolic-idol/h5F9MHAuYDkfpjfeA9tapF) | Lobi Bateba - Etsy | 359 | 11.97 |
 | <img src="https://images.craigslist.org/00Q0Q_lNndF9z6bTD_0Mo12w_300x300.jpg" width="120"> | 7934410252 | $60 | fresno | [Vintage Sterling Silver Jewelry -NAVAJO ZUNI Turqu](https://www.craigslist.org/view/d/fresno-vintage-sterling-silver-jewelry/eva2E9JeJVjTNNNoQ7amvZ) | Vintage zuni nastacio sterling - Gem | 700 | 11.67 |
 | <img src="https://images.craigslist.org/01010_8bhNFNXRpVk_0lM0t2_300x300.jpg" width="120"> | 7933576450 | $20 | slo | [Gemstone necklace](https://www.craigslist.org/view/d/nipomo-gemstone-necklace/1AkK4Fvz3tub7B49ppxQK3) | Etsy | 230 | 11.5 |
@@ -216,6 +220,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_kKsO5qLqjUt_07Y0t2_300x300.jpg" width="120"> | 7947529818 | $40 | washingtondc | [Household Spoon Silver Plate Vintage](https://www.craigslist.org/view/d/arlington-household-spoon-silver-plate/4g6mLeXazXLdmwv2vWmu1T) | Handle: Plain, straight stem tapering slightly toward a roun | 275 | 6.88 |
 | <img src="https://images.craigslist.org/00p0p_93KuJ3J0B7f_0t20t2_300x300.jpg" width="120"> | 7955903433 | $65 | miami | [Vintage Wicker Table Lamp](https://www.craigslist.org/view/d/miami-vintage-wicker-table-lamp/rGk5Ba94BJoZZRv2txZACp) | 1stDibs | 440 | 6.77 |
 | <img src="https://images.craigslist.org/01717_hXpNNAELIt8_0t20t2_300x300.jpg" width="120"> | 7949056244 | $20 | losangeles | [Vintage painting of Girl and her Flowers](https://www.craigslist.org/view/d/covina-vintage-painting-of-girl-and-her/grx5BWEgT4HBpEuzBqccub) | PATRICIA WELCH "Flower Girl" Original Mid Century Modern ... | 135 | 6.75 |
+| <img src="https://images.craigslist.org/00R0R_25RdGXgB7kt_0t20CI_300x300.jpg" width="120"> | 7979273682 | $475 | losangeles | [47mm Watch](https://www.craigslist.org/view/d/los-angeles-47mm-watch/uqHrjizcsdwxqAXCofxWKq) | Case: Large stainless steel cushion-shaped case (approximate | 3200 | 6.74 |
 | <img src="https://images.craigslist.org/01515_ar71gddUGYh_07L0ak_300x300.jpg" width="120"> | 7948825689 | $75 | ithaca | [Pair of Vintage Ceramic Floral Motif Lamps Signed ](https://www.craigslist.org/view/d/ithaca-pair-of-vintage-ceramic-floral/8q1RMpGE2EJfEpm4daoBBf) | Vintage Lamp Ullrich Victorian Art Deco French Ceramic Urn . | 500 | 6.67 |
 | <img src="https://images.craigslist.org/00X0X_hTcwIHJnHuP_0t20CI_300x300.jpg" width="120"> | 7973140689 | $45 | newyork | [Vintage lighter Zaima Chateau](https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/mNhzYZ7Y961FkGJv9xKa8c) | Briquet chateau chatelet vintage - Collection | 299 | 6.64 |
 | <img src="https://images.craigslist.org/00P0P_5UQx9zE7LZZz_0CI0t2_300x300.jpg" width="120"> | 7946045600 | $15 | longisland | [Vintage Matisse Renoir Brooches](https://www.craigslist.org/view/d/farmingville-vintage-matisse-renoir/k8VTaub9hoiJCPQmwBTMna) | WorthPoint | 99 | 6.6 |
@@ -232,8 +237,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00z0z_6pawAwfkNT3_0t20CI_300x300.jpg" width="120"> | 7945033825 | $30 | allentown | [Cross pendant 14 kt solid gold](https://www.craigslist.org/view/d/bethlehem-cross-pendant-14-kt-solid-gold/o68tmhv5jaCekWmwt2hap9) | eBay | 179 | 5.97 |
 | <img src="https://images.craigslist.org/00s0s_cvMOCiQ7M4P_0CI0t2_300x300.jpg" width="120"> | 7945944456 | $200 | sfbay | [vintage Beetles albums/ records](https://www.craigslist.org/view/d/fresno-vintage-beetles-albums-records/23BQ5u1ufFKH9Cs1LbbUwQ) | Beatles-Sgt. Pepper's Lonely Hearts Club Band-1967 Capitol . | 1191 | 5.96 |
 | <img src="https://images.craigslist.org/00j0j_19wznHun3tQ_0hq0jM_300x300.jpg" width="120"> | 7937805648 | $32 | boston | [Vintage 1928 gold tone clip earrings](https://www.craigslist.org/view/d/natick-vintage-1928-gold-tone-clip/nePb5NqR7YZddBAxH1UJCG) | YVES SAINT LAURENT Vintage Goldplated Clip on Earrings With  | 189 | 5.91 |
-| <img src="https://images.craigslist.org/00909_agZf8sxgQ5P_0t20CI_300x300.jpg" width="120"> | 7981479300 | $20 | reno | [Vintage floral bracelt](https://www.craigslist.org/view/d/citrus-heights-vintage-floral-bracelt/nZumSLbiK9XmvvFxLWStyk) | eBay | 118 | 5.9 |
-| <img src="https://images.craigslist.org/00V0V_8SiqCtKpuBY_0Mo12w_300x300.jpg" width="120"> | 7934410299 | $10 | fresno | [Vintage Citizen Men's Quartz Watch](https://www.craigslist.org/view/d/fresno-vintage-citizen-mens-quartz-watch/uwtXhp6Qt6mYtx3kp3NxEL) | Citizen Men's Vintage Watch, Gold-Tone, Run / eBay | 59 | 5.9 |
-| <img src="https://images.craigslist.org/00Q0Q_eF5kKdSwtUx_0CI0t2_300x300.jpg" width="120"> | 7944194267 | $25 | denver | [Antique Leaded glass chandelier](https://www.craigslist.org/view/d/evergreen-antique-leaded-glass/m46etaKU82hTuzFDi4JdGz) | Style: Tiffany-style or Handel-style reproduction/vintage pi | 146 | 5.84 |
-| <img src="https://images.craigslist.org/00p0p_dOQK5fEB8D9_0t20CI_300x300.jpg" width="120"> | 7932675120 | $25 | spokane | [Vintage 1940's/1950's costume clip](https://www.craigslist.org/view/d/coeur-alene-vintage-1940s-1950s-costume/msR1BKt78G6papR2xHJ1LG) | Etsy | 145 | 5.8 |
-| <img src="https://images.craigslist.org/00i0i_lMbnDIel5wH_0hq0hq_300x300.jpg" width="120"> | 7982713917 | $40 | jerseyshore | [Vintage 15.5" China Shiwan Wucai Porcelain Statue ](https://www.craigslist.org/view/d/colts-neck-vintage-155-china-shiwan/vhG61P4KvzxWaLrU9vLJtK) | 8” Vintage Porcelain Geisha W/O Box - Fantastic Condition /  | 230 | 5.75 |
