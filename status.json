@@ -1,27 +1,26 @@
 {
- "updated": "2026-10-13T16:07:57Z",
+ "updated": "2026-10-13T16:11:36Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5962,
-  "events": 19373,
+  "lens": 5987,
+  "events": 20249,
   "comps": 1350,
   "item_types": 795,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 5930,
-  "lensed": 121,
-  "queued": 581,
+  "photo_review/kill": 6764,
   "comps/pass": 1,
-  "queued/relens": 209,
+  "lensed": 98,
   "decided/ask": 54,
   "decided/kill": 6,
   "decided/pass": 1,
-  "flagged": 84,
+  "flagged": 62,
   "comps/fail": 5,
   "expired": 8,
+  "queued/relens": 1,
   "decided/find": 8
  },
  "last_harvests": [
@@ -378,17 +377,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7961437398",
-   "title": "Vintage oscilloscope",
-   "price": 80,
-   "area": "omaha",
-   "url": "https://www.craigslist.org/view/d/des-moines-vintage-oscilloscope/rtDXp5JEFiY4grzuDCHVMF",
-   "best": "RCA WO-33A Oscilloscope",
-   "med": 4500,
-   "ratio": 56.25,
-   "ai_value": ""
-  },
-  {
    "pid": "7957790297",
    "title": "Antique Winter Scene Print",
    "price": 20,
@@ -430,6 +418,17 @@
    "best": "Classicist Silver Roast Fork, France, 1880s for sale at Pamono",
    "med": 346,
    "ratio": 17.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981830597",
+   "title": "Vintage Floor Lamp",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/marana-vintage-floor-lamp/gFGjDj9SKNv5exL8dqxKxg",
+   "best": "Vtg STIFFEL Enamel and Brass Candlestick Lamps with ...",
+   "med": 1550,
+   "ratio": 15.5,
    "ai_value": ""
   },
   {
@@ -477,28 +476,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7951103436",
-   "title": "Vintage pole lamp",
-   "price": 100,
-   "area": "reno",
-   "url": "https://www.craigslist.org/view/d/loomis-vintage-pole-lamp/iqkLAGWvskwYBRF575GcoD",
-   "best": "Tall Vintage English Walnut Standard Lamp, 1980 for sale at ...",
-   "med": 1348,
-   "ratio": 13.48,
-   "ai_value": ""
-  },
-  {
-   "pid": "7963120089",
-   "title": "Antique Easel",
-   "price": 75,
-   "area": "visalia",
-   "url": "https://www.craigslist.org/view/d/oxnard-antique-easel/rfVCeJWK8JGARgmBQV6qmK",
-   "best": "Amazon.com: Designstyles Decorative Metal Easel Stand ...",
-   "med": 1000,
-   "ratio": 13.33,
-   "ai_value": ""
-  },
-  {
    "pid": "7953914312",
    "title": "Beautiful Vintage Lamp",
    "price": 10,
@@ -507,17 +484,6 @@
    "best": "Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ...",
    "med": 126,
    "ratio": 12.6,
-   "ai_value": ""
-  },
-  {
-   "pid": "7957406798",
-   "title": "Antique Tin Comb Cases",
-   "price": 15,
-   "area": "raleigh",
-   "url": "https://www.craigslist.org/view/d/raleigh-antique-tin-comb-cases/rYiaht1X5fijv5wjA4TKpe",
-   "best": "Wooden Philco Radio Cathedral Wind Up Music Box Sanyo ...",
-   "med": 184,
-   "ratio": 12.27,
    "ai_value": ""
   },
   {
@@ -530,17 +496,6 @@
    "med": 545,
    "ratio": 10.9,
    "ai_value": "sell online ranging from roughly $25 to $95"
-  },
-  {
-   "pid": "7981547652",
-   "title": "Vintage Midcentury Cherub Statue",
-   "price": 30,
-   "area": "nashville",
-   "url": "https://www.craigslist.org/view/d/nashville-vintage-midcentury-cherub/4YLz9E7Ym7GupNR8V5BXrZ",
-   "best": "Craigslist",
-   "med": 275,
-   "ratio": 9.17,
-   "ai_value": ""
   },
   {
    "pid": "7982703225",
@@ -587,39 +542,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7952737477",
-   "title": "Antique Bowl & Pitcher",
-   "price": 20,
-   "area": "visalia",
-   "url": "https://www.craigslist.org/view/d/merced-antique-bowl-pitcher/x5f9EAGSTVduXswwqHxUfb",
-   "best": "Function: Historically used as a washstand or bedroom set for personal hygiene before indoor plumbing became c",
-   "med": 149,
-   "ratio": 7.45,
-   "ai_value": ""
-  },
-  {
-   "pid": "7931313397",
-   "title": "Antique Doll",
-   "price": 25,
-   "area": "cincinnati",
-   "url": "https://www.craigslist.org/view/d/florence-antique-doll/eh2JLndMJ3dp63CeA3xFCC",
-   "best": "Vintage Madame Alexander Elise Doll; Red Hair Girl w/ Pink ...",
-   "med": 175,
-   "ratio": 7,
-   "ai_value": ""
-  },
-  {
-   "pid": "7973722053",
-   "title": "Old branding iron",
-   "price": 20,
-   "area": "visalia",
-   "url": "https://www.craigslist.org/view/d/reedley-old-branding-iron/1VAzmFM6W9dMQVK6MQpPRc",
-   "best": "Wild West Vtg Branding Iron Hand Forged Cattle Brand Bar 5 ...",
-   "med": 140,
-   "ratio": 7,
-   "ai_value": ""
-  },
-  {
    "pid": "7956750947",
    "title": "Vintage flat bottom cast iron bean pot or cauldron",
    "price": 20,
@@ -653,17 +575,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7973838234",
-   "title": "Vintage Ice Cream Churn",
-   "price": 65,
-   "area": "spokane",
-   "url": "https://www.craigslist.org/view/d/spokane-vintage-ice-cream-churn/22eRBRu4isfoEf6rUALDCu",
-   "best": "White Mountain Hand Crank Ice Cream Maker - Etsy",
-   "med": 430,
-   "ratio": 6.62,
-   "ai_value": ""
-  },
-  {
    "pid": "7931828187",
    "title": "Necklace and Earring Sets",
    "price": 10,
@@ -686,47 +597,14 @@
    "ai_value": ""
   },
   {
-   "pid": "7979500317",
-   "title": "Antique Hammered Copper Pot",
-   "price": 30,
-   "area": "iowacity",
-   "url": "https://www.craigslist.org/view/d/mount-horeb-antique-hammered-copper-pot/ddRt5TM5MVLnCJ5DNywhqQ",
-   "best": "Antique Copper Cauldron Butter Kettle Pot Handcrafted With ...",
-   "med": 149,
-   "ratio": 4.97,
-   "ai_value": ""
-  },
-  {
-   "pid": "7939173438",
-   "title": "Vintage STERLING EARRINGS",
-   "price": 20,
-   "area": "minneapolis",
-   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-sterling-earrings/3hZJwBf8x2WQRHt1wyjjvK",
-   "best": "scelzajewelrydesigns.com",
-   "med": 99,
-   "ratio": 4.95,
-   "ai_value": ""
-  },
-  {
-   "pid": "7946939654",
-   "title": "VINTAGE POOL BALLS",
-   "price": 25,
-   "area": "reno",
-   "url": "https://www.craigslist.org/view/d/sacramento-vintage-pool-balls/2R3UtmXo5C52kBZfS87qSC",
-   "best": "Are you looking to buy this specific vintage set, or do you need help identifying/valuing a set you already ow",
-   "med": 120,
-   "ratio": 4.8,
-   "ai_value": "Price: Around $228 to $278"
-  },
-  {
-   "pid": "7971069036",
-   "title": "Vintage Arrowhead Water Jug",
-   "price": 45,
-   "area": "spokane",
-   "url": "https://www.craigslist.org/view/d/spokane-vintage-arrowhead-water-jug/pJBPkirwoULZNXXAC43MUu",
-   "best": "Vintage 5 Gallon Glass Jug 20\" Tall Blue Sparkley Glass ...",
-   "med": 216,
-   "ratio": 4.8,
+   "pid": "7952658862",
+   "title": "Antique Stanley Hand Planes",
+   "price": 35,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-antique-stanley-hand-planes/ueUccZWevxXTM9hHDjYQtQ",
+   "best": "Stanley 48 hand plane for tongue and groove cuts",
+   "med": 200,
+   "ratio": 5.71,
    "ai_value": ""
   },
   {
@@ -741,6 +619,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953674065",
+   "title": "Vintage Schwinn wheel lot",
+   "price": 50,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/dayton-vintage-schwinn-wheel-lot/jhYDpJE8LfqJLYbZfHmuNt",
+   "best": "DOND - Vintage Schwinn 26\" S-2 painted wheel set | Deal Or ...",
+   "med": 230,
+   "ratio": 4.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7952576598",
    "title": "Vintage Timex Indiglo watch",
    "price": 15,
@@ -752,17 +641,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7979501007",
-   "title": "Large Antique Copper Kettle",
-   "price": 60,
-   "area": "iowacity",
-   "url": "https://www.craigslist.org/view/d/mount-horeb-large-antique-copper-kettle/o2oRSQrizd1KyL9ucNuXkC",
-   "best": "W.S. Adams & Sons Ironmongers Queen Copper Kettle Teapot Tea ...",
-   "med": 258,
-   "ratio": 4.3,
-   "ai_value": "Value: Similar antique copper kettles generally sell in the $180 to $450"
-  },
-  {
    "pid": "7944079877",
    "title": "Vintage 12 string / handmade",
    "price": 120,
@@ -771,17 +649,6 @@
    "best": "Handgemaakte akoestische 12-snarige gitaar (ca. 1960 ...",
    "med": 495,
    "ratio": 4.13,
-   "ai_value": ""
-  },
-  {
-   "pid": "7943464198",
-   "title": "15 vintage necklaces",
-   "price": 35,
-   "area": "atlanta",
-   "url": "https://www.craigslist.org/view/d/acworth-15-vintage-necklaces/c6nv8CKQj6emtFZM4xdw3e",
-   "best": "Vintage Modern Statement Earth Tones Brown Red Orange Beige ...",
-   "med": 135,
-   "ratio": 3.86,
    "ai_value": ""
   },
   {
@@ -818,28 +685,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7979499702",
-   "title": "Antique Copper Ladle/Bowl",
-   "price": 60,
-   "area": "iowacity",
-   "url": "https://www.craigslist.org/view/d/mount-horeb-antique-copper-ladle-bowl/2nKEVFwyfsozMEgR2QNbvQ",
-   "best": "Antique Copper Pan, French Saucepan With Wrought Iron Handle ...",
-   "med": 199,
-   "ratio": 3.32,
-   "ai_value": ""
-  },
-  {
-   "pid": "7957405889",
-   "title": "Antique Crocks",
-   "price": 85,
-   "area": "raleigh",
-   "url": "https://www.craigslist.org/view/d/raleigh-antique-crocks/rvayBvYBrhqPtt6KvVyNud",
-   "best": "2-Gallon Crock: Features a hand-painted or stenciled black number \"2\" on the front with built-in side lug hand",
-   "med": 279,
-   "ratio": 3.28,
-   "ai_value": ""
-  },
-  {
    "pid": "7946736997",
    "title": "Antique Kieninger&Obergfell glass domed clock",
    "price": 75,
@@ -870,17 +715,6 @@
    "best": "Vtg Art Nouveau after Auguste Moreau Lady Girl On A Swing ...",
    "med": 194,
    "ratio": 3.23,
-   "ai_value": ""
-  },
-  {
-   "pid": "7954979926",
-   "title": "Antique Miniature Scale",
-   "price": 20,
-   "area": "stlouis",
-   "url": "https://www.craigslist.org/view/d/peoria-antique-miniature-scale/7i17Xf5YPGPQgPW323P5Gi",
-   "best": "Vintage Small Mini Cast Iron Balance Scale w/ Scoop & 4 ...",
-   "med": 60,
-   "ratio": 3,
    "ai_value": ""
   },
   {
@@ -961,28 +795,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7979849937",
-   "title": "Fishing stuff",
-   "price": 57,
-   "area": "dallas",
-   "url": "https://www.craigslist.org/view/d/fort-worth-fishing-stuff/cCHYan1UninNVrJmYNeq5i",
-   "best": "Product Name: Fish-N-Lite UV/Green LED Floating Fishing Light (Model FLL712UV)",
-   "med": 150,
-   "ratio": 2.63,
-   "ai_value": ""
-  },
-  {
-   "pid": "7954384614",
-   "title": "Five of old hammers",
-   "price": 40,
-   "area": "dallas",
-   "url": "https://www.craigslist.org/view/d/plano-five-of-old-hammers/gpDig5FCRviMpN3CEsw4RR",
-   "best": "eBay",
-   "med": 105,
-   "ratio": 2.63,
-   "ai_value": ""
-  },
-  {
    "pid": "7953344699",
    "title": "Antique telephone replica",
    "price": 50,
@@ -1027,17 +839,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7981660311",
-   "title": "1970-80 vintage champion jacket",
-   "price": 50,
-   "area": "humboldt",
-   "url": "https://www.craigslist.org/view/d/eureka-vintage-champion-jacket/6zovm4oUA9Z4RfmRGJM5kS",
-   "best": "Label Details",
-   "med": 110,
-   "ratio": 2.2,
-   "ai_value": ""
-  },
-  {
    "pid": "7951803040",
    "title": "sterling silver candle holders",
    "price": 100,
@@ -1049,36 +850,14 @@
    "ai_value": ""
   },
   {
-   "pid": "7934959623",
-   "title": "Vintage Army Field Phone",
-   "price": 70,
-   "area": "cincinnati",
-   "url": "https://www.craigslist.org/view/d/sunbury-vintage-army-field-phone/8eGha1xt6tjHEHs31MzQAZ",
-   "best": "German Army Field Telephone - Used<BR> NSN 5805-12-120-4847 ...",
-   "med": 150,
-   "ratio": 2.14,
-   "ai_value": ""
-  },
-  {
-   "pid": "7956136828",
-   "title": "Vintage Argus camera",
-   "price": 50,
-   "area": "nashville",
-   "url": "https://www.craigslist.org/view/d/somerset-vintage-argus-camera/qSBAd1ZUQGArQYWBct8FEH",
-   "best": "Vintage Argus C3 Camera in Leather Case Circa early 1950s ...",
-   "med": 100,
-   "ratio": 2,
-   "ai_value": ""
-  },
-  {
-   "pid": "7948314312",
-   "title": "vintage tonka cement mixer",
-   "price": 50,
-   "area": "minneapolis",
-   "url": "https://www.craigslist.org/view/d/spooner-vintage-tonka-cement-mixer/9Ae6FHHTmcSLaoQYXm7W82",
-   "best": "Vintage 1960s Tonka Cement Mixer Red 620 w/ Original Box ...",
-   "med": 90,
-   "ratio": 1.8,
+   "pid": "7951881500",
+   "title": "Vintage Water Pumps",
+   "price": 75,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/gilroy-vintage-water-pumps/hckGQmpxfaUN6dwRQPczgn",
+   "best": "Cast Iron Antique Hand Water Well Pump - A.Y. McDonald ...",
+   "med": 140,
+   "ratio": 1.87,
    "ai_value": ""
   },
   {
@@ -1101,17 +880,6 @@
    "best": "Galvanized Boiler Tub - Etsy",
    "med": 135,
    "ratio": 1.8,
-   "ai_value": ""
-  },
-  {
-   "pid": "7978040709",
-   "title": "vintage military entrenching shovel",
-   "price": 60,
-   "area": "kansascity",
-   "url": "https://www.craigslist.org/view/d/kansas-city-vintage-military/hU7gBsy5WNzZboXEYs4asJ",
-   "best": "Shovel Blade & Mechanism: A steel folding blade that locks into place with a threaded collar/locking nut assem",
-   "med": 100,
-   "ratio": 1.67,
    "ai_value": ""
   },
   {
@@ -1159,17 +927,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7955307167",
-   "title": "Vintage Large Wicker Basket",
-   "price": 75,
-   "area": "miami",
-   "url": "https://www.craigslist.org/view/d/miami-vintage-large-wicker-basket/mo6EuEjmYtVdwqCefCe72v",
-   "best": "French Provincial Tall 2 Handle Wicker Basket | Chairish",
-   "med": 107,
-   "ratio": 1.43,
-   "ai_value": "Value: Typically ranges from about $20"
-  },
-  {
    "pid": "7975529115",
    "title": "Vintage art deco pendant necklace",
    "price": 75,
@@ -1189,17 +946,6 @@
    "best": "Beautiful Quality Vintage SOLID Sterling Silver-dolphin ...",
    "med": 197,
    "ratio": 1.36,
-   "ai_value": ""
-  },
-  {
-   "pid": "7946628884",
-   "title": "Old camera",
-   "price": 80,
-   "area": "lasvegas",
-   "url": "https://www.craigslist.org/view/d/lake-havasu-city-old-camera/jhrXxULdQ1DQqxaD6DLDjW",
-   "best": "Very Early Rare Balda Baldina model 1 circa 1930's Dresden ...",
-   "med": 90,
-   "ratio": 1.13,
    "ai_value": ""
   },
   {
@@ -1233,6 +979,17 @@
    "best": "Estimated Value/Pricing: Similar vintage sets typically sell on secondary markets and antique shops between $1",
    "med": 125,
    "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970087454",
+   "title": "vintage AAL fmoor speakers",
+   "price": 25,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/green-bay-vintage-aal-fmoor-speakers/jbn8uhebxHgjAtSWEScHDS",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
    "ai_value": ""
   },
   {
