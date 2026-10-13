@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T15:07:52Z",
+ "updated": "2026-10-13T15:11:29Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5587,
-  "events": 16322,
+  "lens": 5612,
+  "events": 16347,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 1007,
-  "queued": 1453,
+  "lensed": 1019,
+  "queued": 1428,
   "comps/pass": 1,
-  "queued/relens": 442,
+  "queued/relens": 445,
   "decided/ask": 37,
-  "flagged": 722,
+  "flagged": 732,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -741,6 +741,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941339863",
+   "title": "Brighton Jewelry + others - sterling silver",
+   "price": 25,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/commerce-township-brighton-jewelry/dHPksvcatA1Vt6kybjFW5g",
+   "best": "Etsy",
+   "med": 910,
+   "ratio": 36.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7973737395",
    "title": "Antique Barometer",
    "price": 25,
@@ -1167,6 +1178,17 @@
    "best": "VINTAGE Ralph Lauren Full Queen Comforter Sophie Brooke Pink ...",
    "med": 209,
    "ratio": 20.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929052092",
+   "title": "Vintage Tools Lot",
+   "price": 45,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/narragansett-vintage-tools-lot/dzJ8chzWPSPfWTeEVZsXvw",
+   "best": "Tool Breakdown by Category",
+   "med": 928,
+   "ratio": 20.62,
    "ai_value": ""
   },
   {
@@ -3172,6 +3194,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982735307",
+   "title": "Women's Earrings .925 Silver",
+   "price": 79,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-womens-earrings-925/utHd8qQgdWaavGVmwXnKBj",
+   "best": "eBay",
+   "med": 449,
+   "ratio": 5.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7953513200",
    "title": "Vintage Microscope Slide Case",
    "price": 15,
@@ -3447,6 +3480,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982721921",
+   "title": "Women's Cat watch",
+   "price": 25,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/solon-womens-cat-watch/sTkcp2HwzCUB2VY2UpXiPw",
+   "best": "Movement: Quartz movement (typically requires a standard watch battery like a SR626SW).",
+   "med": 130,
+   "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7977127491",
    "title": "Vintage Bike Saddle",
    "price": 15,
@@ -3619,6 +3663,17 @@
    "url": "https://www.craigslist.org/view/d/auburn-porcelain-vintage-chocolate-pot/tTCDdv174m26R6gJoxp5r1",
    "best": "Antique German Hand Painted Hot Chocolate Pot - Etsy",
    "med": 175,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928924284",
+   "title": "Pitchers, Pewter 3 count",
+   "price": 20,
+   "area": "porthuron",
+   "url": "https://www.craigslist.org/view/d/point-edward-pitchers-pewter-count/osCboTu6zFMyqvJhb9Dse7",
+   "best": "Left Pitcher: A classic bulbous-bodied pewter pitcher with a curved handle and a flared spout, typically used ",
+   "med": 100,
    "ratio": 5,
    "ai_value": ""
   },
@@ -3854,6 +3909,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950659735",
+   "title": "VINTAGE CARVED CORAL EARRINGS ~ 14K",
+   "price": 50,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-carved-coral-earrings/xhtXefn1hzwz6h9vWqhgGP",
+   "best": "eBay",
+   "med": 230,
+   "ratio": 4.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7943095732",
    "title": "Vintage Hurricane Lamp",
    "price": 60,
@@ -4069,6 +4135,17 @@
    "area": "santamaria",
    "url": "https://www.craigslist.org/view/d/burbank-beautiful-antique-victrola/s26apwwRcXi5gxEz1veLvB",
    "best": "Antique Victor Victrola Orthophonic Floral Carved Walnut ...",
+   "med": 425,
+   "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943931395",
+   "title": "Vintage Vases",
+   "price": 100,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-vintage-vases/5UqccUAAdCTd9ZeU9bNz5L",
+   "best": "Vintage Japanese Bronze Vase | eBay",
    "med": 425,
    "ratio": 4.25,
    "ai_value": ""
@@ -4303,6 +4380,17 @@
    "med": 159,
    "ratio": 3.98,
    "ai_value": ""
+  },
+  {
+   "pid": "7976247345",
+   "title": "Sterling Silver Tiffany & Co Key Chain",
+   "price": 40,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-sterling-silver-tiffany-co-key/1rzziUtmvTmyMjaRnM4j8W",
+   "best": "Tiffany & Co. Sterling Silver Septum Keychain - Silver ...",
+   "med": 159,
+   "ratio": 3.98,
+   "ai_value": "Price: Around $290"
   },
   {
    "pid": "7950095324",
@@ -4982,6 +5070,17 @@
    "area": "fresno",
    "url": "https://www.craigslist.org/view/d/madera-snare-drum/sRGwsvBpwNJcUbzb7TS2An",
    "best": "Coupon Exempt",
+   "med": 125,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975995348",
+   "title": "Antique Chinese Silver Filigree Double Ring Pendant",
+   "price": 40,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-antique-chinese-silver-filigree/fKyniq2fu6pocdQYwJ9RxY",
+   "best": "Craigslist",
    "med": 125,
    "ratio": 3.13,
    "ai_value": ""
@@ -6578,6 +6677,17 @@
    "url": "https://www.craigslist.org/view/d/garden-grove-antique-1910s-hat-cleaning/qHjj8KKMtvUrkzUt1gGRHB",
    "best": "Antique B.C. Holwick Store Coffee Grinder, Robbins Myers ...",
    "med": 180,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939342931",
+   "title": "NICE ORNATE VINTAGE LAMPS",
+   "price": 80,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/carmichael-nice-ornate-vintage-lamps/moYgj7sZY5M8WFRx2F1Smu",
+   "best": "Value: Pairs in working or rewired condition typically sell online for roughly $60 to $225 depending on condit",
+   "med": 144,
    "ratio": 1.8,
    "ai_value": ""
   },

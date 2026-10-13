@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T15:07:52Z
+# Refurbish status — 2026-10-13T15:11:29Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1453 |
-| lensed | 1007 |
-| flagged | 722 |
-| queued/relens | 442 |
+| queued | 1428 |
+| lensed | 1019 |
+| flagged | 732 |
+| queued/relens | 445 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 6
 - searches: 1504
 - listings: 7007
-- lens: 5587
-- events: 16322
+- lens: 5612
+- events: 16347
 - comps: 1350
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (722)
+## Flagged by Lens, waiting for photo review (732)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -130,6 +130,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01313_bXzIHEUx46l_0wg03m_300x300.jpg" width="120"> | 7947925261 | $25 | athensohio | [Vintage gold tone 3 Inch of Gold Bracelet WHITE di](https://www.craigslist.org/view/d/logan-vintage-gold-tone-inch-of-gold/4UsrxPzajUkokxB2FyXbHM) | Vintage Delicate Gold Tone Chain & Crystal Accented Tennis . | 1050 | 42 |
 | <img src="https://images.craigslist.org/01414_iRkRxfmbVuH_0t20CI_300x300.jpg" width="120"> | 7932760058 | $45 | sierravista | [Vintage wood clock thermometer](https://www.craigslist.org/view/d/tucson-vintage-wood-clock-thermometer/teL4o7PPmEHDfEZuTbbnfe) | 19th Century Architectural Barometer by Short & Mason ... | 1733 | 38.51 |
 | <img src="https://images.craigslist.org/00H0H_jTX1t64VwnA_0lN0CI_300x300.jpg" width="120"> | 7975791501 | $50 | bemidji | [Antique with secret compartment](https://www.craigslist.org/view/d/duluth-antique-with-secret-compartment/wdwSh7KxNqY3VYSE495cHi) | Vintage Music Box Wood Table Inlaid Marquetry Side Table ... | 1871 | 37.42 |
+| <img src="https://images.craigslist.org/00X0X_gCohPPV9pHa_0ul0t2_300x300.jpg" width="120"> | 7941339863 | $25 | detroit | [Brighton Jewelry + others - sterling silver](https://www.craigslist.org/view/d/commerce-township-brighton-jewelry/dHPksvcatA1Vt6kybjFW5g) | Etsy | 910 | 36.4 |
 | <img src="https://images.craigslist.org/01616_12wB7RKiPJ4_0lM0t2_300x300.jpg" width="120"> | 7973737395 | $25 | maine | [Antique Barometer](https://www.craigslist.org/view/d/strafford-antique-barometer/rV9Vp5veuTNqrVA7URTxVE) | Sold at Auction: ENGLISH EDWARDIAN CARVED OAK WALL-MOUNTED . | 877 | 35.08 |
 | <img src="https://images.craigslist.org/00l0l_6da3nhzgPGc_0t20CI_300x300.jpg" width="120"> | 7973809218 | $60 | losangeles | [Antique Pottery](https://www.craigslist.org/view/d/mission-viejo-antique-pottery/aWy3WKSPnmRsM8LA8sxFEP) | French Handmade Terracotta Anduze Planter by La Madeleine .. | 2100 | 35 |
 | <img src="https://images.craigslist.org/00h0h_7Sjoclm4wL9_0Uw1d6_300x300.jpg" width="120"> | 7937021263 | $10 | houston | [Antique smudge torch](https://www.craigslist.org/view/d/austin-antique-smudge-torch/6DCswBYcuoamS7Doptq3Gg) | Vtg 8 Quart American Stainless Kitchen STOCK POT 18-8 w/Dome | 350 | 35 |
@@ -169,6 +170,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00m0m_e1AUDBs8Y3A_0CI0t2_300x300.jpg" width="120"> | 7950853313 | $15 | newyork | [Patina Vie Mini Plate(s) - set of 2](https://www.craigslist.org/view/d/new-york-patina-vie-mini-plates-set-of/7HsMNfQvAR2NmEiPFuGpU6) | Japan Ivory China - Etsy Canada | 323 | 21.53 |
 | <img src="https://images.craigslist.org/00s0s_2QhL3PQuRAP_0MM132_300x300.jpg" width="120"> | 7937567101 | $20 | boston | [Vintage Egyptian Black Stone Pharoah's bust statue](https://www.craigslist.org/view/d/west-roxbury-vintage-egyptian-black/3dmXUEgJhkTMbTrJKx9pas) | Vintage Egyptian Black Stone Pharoah's bust statue/ornament  | 423 | 21.15 |
 | <img src="https://images.craigslist.org/00e0e_5Iyea5s9xnrz_0CI0t2_300x300.jpg" width="120"> | 7948495128 | $10 | bloomington | [Vintage 1970's Bed Comforter](https://www.craigslist.org/view/d/lafayette-vintage-1970s-bed-comforter/a7qyJ2o7RYjod847WehzQm) | VINTAGE Ralph Lauren Full Queen Comforter Sophie Brooke Pink | 209 | 20.9 |
+| <img src="https://images.craigslist.org/00o0o_1QO9V2M5mRM_0CI0sT_300x300.jpg" width="120"> | 7929052092 | $45 | providence | [Vintage Tools Lot](https://www.craigslist.org/view/d/narragansett-vintage-tools-lot/dzJ8chzWPSPfWTeEVZsXvw) | Tool Breakdown by Category | 928 | 20.62 |
 | <img src="https://images.craigslist.org/00404_4RtAo6QRtbPz_0AE0ru_300x300.jpg" width="120"> | 7982680887 | $20 | longisland | [Vintage lamp and  base](https://www.craigslist.org/view/d/east-northport-vintage-lamp-and-base/xpXy1vf39ysRLvkQVLEapc) | Vintage / Antique Hand Painted French Porcelain Lamps-Signed | 400 | 20 |
 | <img src="https://images.craigslist.org/00303_gtUDCYUw3Q4_0o60qO_300x300.jpg" width="120"> | 7982702022 | $3 | madison | [4 Necklaces - 1 New / 3 in Excellent Condition - $](https://www.craigslist.org/view/d/mc-farland-necklaces-new-in-excellent/aqtV6cbFtxLAiPn7Coj76W) | Sterling Silver 10k Gold Natural Diamonds Heart Pendant ... | 60 | 20 |
 | <img src="https://images.craigslist.org/00v0v_aMpNe13dDfp_0CI0t2_300x300.jpg" width="120"> | 7970432775 | $20 | up | [vintage wooden ironing board](https://www.craigslist.org/view/d/green-bay-vintage-wooden-ironing-board/2kXgd54y4PMQaJd2ozCPCY) | Facebook | 399 | 19.95 |
@@ -211,5 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00d0d_2SE1uacrvFs_0CI0t2_300x300.jpg" width="120"> | 7950850375 | $25 | buffalo | [ANTIQUE WOODEN "COMSTOCK/EGYPT" CRATE](https://www.craigslist.org/view/d/ontario-center-antique-wooden-comstock/dMRGibz94W3yskxDuqQ7jt) | Craigslist | 329 | 13.16 |
 | <img src="https://images.craigslist.org/00z0z_gBL1DdxD9F5_0lM0t2_300x300.jpg" width="120"> | 7931495586 | $10 | chicago | [Set of 2 Decanter Bottle Stopper Toppers](https://www.craigslist.org/view/d/shorewood-set-of-decanter-bottle/85ci5K9RqtrMdg9DueoQzk) | Rogaska Crystal GALLIA Ship Decanter & Stopper - 10 1/2" / e | 131 | 13.1 |
 | <img src="https://images.craigslist.org/00L0L_jogmyc7iiax_0t20CI_300x300.jpg" width="120"> | 7970581428 | $100 | milwaukee | [Vintage saddle bags](https://www.craigslist.org/view/d/stevens-point-vintage-saddle-bags/hWzzX5Ls65qwSnVSc6UteD) | ORIGINAL Vintage Harley saddle buddy seat Panhead ... | 1300 | 13 |
-| <img src="https://images.craigslist.org/00B0B_ga9LVJdZ6OY_0t20CI_300x300.jpg" width="120"> | 7935162080 | $28 | swv | [Old shoe shine  box](https://www.craigslist.org/view/d/thomasville-old-shoe-shine-box/r8pT4mi6MUGUuTudNHed4d) | Antique 1960s GRIFFIN Style Wooden Shoe Shine Box - Etsy | 364 | 13 |
-| <img src="https://images.craigslist.org/00303_kFbbR3JHySF_0fu0bC_300x300.jpg" width="120"> | 7961254881 | $18 | eastky | [Antique Picture Frame](https://www.craigslist.org/view/d/asheville-antique-picture-frame/jMDSDn8R9wxzdA3k19P5pw) | eBay | 234 | 13 |
