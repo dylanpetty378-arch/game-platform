@@ -1,20 +1,21 @@
 {
- "updated": "2026-10-13T00:23:08Z",
+ "updated": "2026-10-13T00:58:26Z",
  "tables": {
-  "harvests": 2,
+  "harvests": 3,
   "searches": 1,
-  "listings": 3800,
+  "listings": 4600,
   "lens": 93,
-  "events": 3933,
+  "events": 4792,
   "comps": 0,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 37,
-  "lensed": 55,
+  "photo_review/kill": 95,
+  "queued": 4484,
   "decided/find": 1,
-  "queued": 3707
+  "lensed": 19,
+  "decided/ask": 1
  },
  "last_harvests": [
   {
@@ -99,6 +100,65 @@
    },
    "by": "github-actions",
    "ts": "2026-10-13T00:23:08Z"
+  },
+  {
+   "harvest_id": "craigslist-20261013-0047",
+   "source": "craigslist",
+   "hours": 4.0,
+   "cats": "ata,cba,clt,ele,emd,hab,hsh,jwa,msa,pha,spo,sys,tls,tag,vga,bik,bop,boo,clo,mob,mpo,rvs,wan,for,hsd,gms,art,fua,atq",
+   "n_listings": 66174,
+   "n_new": 65291,
+   "n_selected": 800,
+   "learned": {
+    "ata": 0.18,
+    "cba": -0.05,
+    "ele": -0.01,
+    "emd": -0.03,
+    "hab": -0.04,
+    "jwa": -0.07,
+    "pha": -0.03,
+    "spo": -0.03,
+    "tls": -0.04,
+    "tag": 0.03,
+    "bop": -0.01,
+    "clo": 0.04,
+    "mob": -0.01,
+    "for": -0.03,
+    "fua": 0.04
+   },
+   "failed_requests": 0,
+   "requests": 11977,
+   "by_cat": {
+    "ata": 2445,
+    "cba": 7001,
+    "ele": 3923,
+    "emd": 729,
+    "hab": 1414,
+    "hsh": 8427,
+    "jwa": 981,
+    "msa": 1544,
+    "pha": 539,
+    "spo": 4268,
+    "sys": 528,
+    "tls": 3943,
+    "tag": 1999,
+    "vga": 433,
+    "bik": 914,
+    "bop": 700,
+    "boo": 61,
+    "clo": 5432,
+    "mob": 202,
+    "mpo": 680,
+    "wan": 667,
+    "for": 12412,
+    "gms": 139,
+    "art": 1957,
+    "fua": 4829,
+    "rvs": 4,
+    "hsd": 3
+   },
+   "by": "github-actions",
+   "ts": "2026-10-13T00:58:26Z"
   }
  ],
  "flagged_waiting": [],
@@ -112,6 +172,16 @@
    "note": "Tier B (A if >=$300 sold): $75 ask; est resale $250-400 for 2.6 oz unmarked; profit ~$110-260. Confirm with Terapeak once eBay signed in; ask seller for naja back + length photos",
    "stage": "decided",
    "status": "find"
+  },
+  {
+   "pid": "7969348839",
+   "title": "Antique Hampden pocket watch",
+   "price": 40,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/loveland-antique-hampden-pocket-watch/apCVVbQ3NsLzQYFBZm1j6q",
+   "note": "Hampden (Canton O.) hunter-case pocket watch, engraved gold-filled case, $40 Denver. If running: sells ~$100-180 -> profit ~$60-100 (passes). Ask: does it run, case size (16s vs 6s), any dents/cracks in dial",
+   "stage": "decided",
+   "status": "ask"
   }
  ]
 }
