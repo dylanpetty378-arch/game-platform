@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T04:27:37Z",
+ "updated": "2026-10-13T04:31:33Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1554,
-  "events": 7056,
+  "lens": 1579,
+  "events": 7081,
   "comps": 152,
   "item_types": 385,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3087,
-  "lensed": 541,
+  "queued": 3062,
+  "lensed": 555,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 310,
@@ -21,7 +21,7 @@
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 108
+  "flagged": 119
  },
  "last_harvests": [
   {
@@ -202,6 +202,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935301931",
+   "title": "Two Large Vintage Baby Dolls",
+   "price": 1,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/islip-two-large-vintage-baby-dolls/eVBsUQNceQJLyJRZmGaCgP",
+   "best": "ANTIQUE original VICTORIAN Edwardian BABY doll CLOTHES Linen ...",
+   "med": 65,
+   "ratio": 65,
+   "ai_value": ""
+  },
+  {
    "pid": "7967415798",
    "title": "Vintage Whitman's Chocolates two sided store sign",
    "price": 20,
@@ -323,6 +334,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954405785",
+   "title": "Appetizer Picks",
+   "price": 10,
+   "area": "binghamton",
+   "url": "https://www.craigslist.org/view/d/port-crane-appetizer-picks/x5vwaCMBsPxc6RsN4MDVNe",
+   "best": "Kokeshi Nesting Bobble Head Dolls - Etsy",
+   "med": 132,
+   "ratio": 13.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7946228964",
    "title": "Premier Design Madiera necklace",
    "price": 10,
@@ -331,6 +353,17 @@
    "best": "Etsy",
    "med": 125,
    "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950940626",
+   "title": "Wine Dispenser with glasses",
+   "price": 39,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-wine-dispenser-with-glasses/oS9VnbEGBDcmgRDLSJaE67",
+   "best": "Vtg Austrian Wine Decanter w/ 5 glasses. Grape Leaf Wrought ...",
+   "med": 475,
+   "ratio": 12.18,
    "ai_value": ""
   },
   {
@@ -466,6 +499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981350480",
+   "title": "Antique Clocks Spot to beautify your house. Price combined for both",
+   "price": 40,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-antique-clocks-spot-to/bLp9E49jc4pRmXRRiaxSgk",
+   "best": "Carmine Clock Made In Light Mahogany From 1920s For Sale at ...",
+   "med": 345,
+   "ratio": 8.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7952998598",
    "title": "Vintage Gold-tone with Rhinestones Mesh Flower Necklace with earrings",
    "price": 10,
@@ -521,6 +565,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951364549",
+   "title": "Flower Picture Frame",
+   "price": 10,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-flower-picture-frame/gHSEYG75dkcAxKLhUVsq9r",
+   "best": "ROBERT LEROY SMITH Signed Numbered 9/100 Print \"Holland's ...",
+   "med": 75,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7982539509",
    "title": "Lomonosov Teapot and Demitasse Cup & Saucer",
    "price": 50,
@@ -529,6 +584,17 @@
    "best": "Origin: Imperial Porcelain Manufactory (Lomonosov / LFZ), St. Petersburg, Russia.",
    "med": 350,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934015316",
+   "title": "Very nice vintage gas can wooden handle. Great condition",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/hillsboro-very-nice-vintage-gas-can/eT2BjJiCqwbx5A7aL6sTDp",
+   "best": "Vintage Galvanized Kerosene Oil Can \u2013 Rustic Farmhouse Decor ...",
+   "med": 95,
+   "ratio": 6.33,
    "ai_value": ""
   },
   {
@@ -642,6 +708,28 @@
    "ai_value": "prices for similar vintage 1970s geometric slag glass fixtures typically range from $35 to $225"
   },
   {
+   "pid": "7961362023",
+   "title": "Altrohla Austria oyster plate",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/altrohla-austria-oyster-plate/w7nr1CF3ZQY8prSE7bKXyX",
+   "best": "10\" Antique Bauer Rosenthal & Co B.R.C. Voltaire Floral ...",
+   "med": 108,
+   "ratio": 4.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933113817",
+   "title": "VINTAGE 60S HANGING LAMP",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-vintage-60s-hanging-lamp/b7BfX94q3Q4D5PUauiy9mk",
+   "best": "Vintage Chandelier Multi-colored Brass Encased Glass With ...",
+   "med": 210,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7956068875",
    "title": "Vintage Mid Century Wall Clock / Mirror Gold Tone Frame Ornate Floral",
    "price": 95,
@@ -749,6 +837,17 @@
    "best": "romaarellano",
    "med": 399,
    "ratio": 3.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948514068",
+   "title": "Antique Smoke stand",
+   "price": 65,
+   "area": "sheboygan",
+   "url": "https://www.craigslist.org/view/d/sheboygan-antique-smoke-stand/nt7DvJRv1tNW8TYFBRYKa4",
+   "best": "Art Deco Ashtray Stand | eBay",
+   "med": 205,
+   "ratio": 3.15,
    "ai_value": ""
   },
   {
@@ -1236,6 +1335,17 @@
    "ai_value": "Value: Pairs typically sell between $100"
   },
   {
+   "pid": "7945633029",
+   "title": "Vintage Cross Pen & Pencil sets",
+   "price": 100,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/burlington-vintage-cross-pen-pencil-sets/nAafD1r2w5mzZX1CHGbVoo",
+   "best": "Cross Century 10k Gold Ballpoint Pen & Pencil Set New In Box ...",
+   "med": 95,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7965781935",
    "title": "Teapot Collection (6)",
    "price": 100,
@@ -1243,6 +1353,17 @@
    "url": "https://www.craigslist.org/view/d/fort-mill-teapot-collection/75M2HMuu8RTaBY4dWTVgA9",
    "best": "Sadler Teapot: Ivory & Gold Filigree, 1920s English Teapot ...",
    "med": 90,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979770348",
+   "title": "Vintage Royal Typewriter",
+   "price": 200,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/vintage-royal-typewriter/qiQs7ioEGkkUWqpysVdSkw",
+   "best": "Vintage Used Royal KMM \"Magic Margin\" Typewriter 1940s | eBay",
+   "med": 180,
    "ratio": 0.9,
    "ai_value": ""
   },
