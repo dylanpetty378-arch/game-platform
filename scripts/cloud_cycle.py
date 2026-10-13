@@ -33,6 +33,9 @@ def latest_stage():
 def ingest_inbox():
     files = sorted(glob.glob(os.path.join(ROOT, 'db', 'inbox', '*.json'))); n = 0
     have = {(str(r['pid']), r.get('run')) for r in db.read('lens')}
+    relens_count = {}
+    for e in db.read('events'):
+        if e.get('status') == 'relens' and e.get('note', '').startswith('empty Lens read'): relens_count[str(e['pid'])] = relens_count.get(str(e['pid']), 0) + 1
     for p in files:
         try: recs = json.load(open(p))
         except Exception: print('bad inbox file', p); continue
@@ -45,8 +48,16 @@ def ingest_inbox():
             rows.append({'ts': ts, 'pid': pid, 'run': run, 'i': x.get('i'), 'img': x.get('img'), 'price': x.get('price'), 'best': x.get('best'),
                          'med': x.get('med'), 'n': x.get('n'), 'ratio': x.get('ratio'), 'collect': x.get('c'), 'sources': x.get('s'),
                          'ai': x.get('ai'), 'ai_value': x.get('av'), 'flag': x.get('f')})
-            ev.append({'ts': ts, 'pid': pid, 'stage': 'flagged' if x.get('f') else 'lensed', 'run': run,
-                       'data': {'med': x.get('med'), 'ratio': x.get('ratio')}})
+            # an empty/incomplete read ("Results are personalized", nothing priced, no AI text) goes straight back to the
+            # queue as a re-run (at most twice per listing) instead of counting as 'lensed'
+            empty = ('personalized' in (x.get('best') or '') or not x.get('best')) and not x.get('n') and len(x.get('ai') or '') < 20
+            tries = relens_count.get(pid, 0)
+            if empty and not x.get('f') and tries < 2:
+                relens_count[pid] = tries + 1
+                ev.append({'ts': ts, 'pid': pid, 'stage': 'queued', 'status': 'relens', 'run': run, 'note': 'empty Lens read, auto re-queued'})
+            else:
+                ev.append({'ts': ts, 'pid': pid, 'stage': 'flagged' if x.get('f') else 'lensed', 'run': run,
+                           'data': {'med': x.get('med'), 'ratio': x.get('ratio')}})
         db.append('lens', rows); db.append('events', ev); os.remove(p); n += len(rows)
     print(f'inbox: {len(files)} files, {n} Lens results ingested'); return n
 
