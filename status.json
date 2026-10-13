@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T09:29:55Z",
+ "updated": "2026-10-13T09:33:36Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3454,
-  "events": 12162,
+  "lens": 3479,
+  "events": 12188,
   "comps": 876,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2902,
-  "lensed": 77,
-  "queued": 1986,
+  "lensed": 89,
+  "queued": 1961,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 341,
-  "flagged": 47,
+  "flagged": 59,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
-  "expired": 2,
+  "expired": 3,
   "decided/find": 7
  },
  "last_harvests": [
@@ -390,6 +390,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937727871",
+   "title": "Vintage Woven Picnic Basket",
+   "price": 10,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/san-rafael-vintage-woven-picnic-basket/esJpx5gyv61dQDVwAyPbj4",
+   "best": "Vintage 1994 Longaberger Picnic Basket with Attached Flip ...",
+   "med": 125,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7961258754",
    "title": "VINTAGE SKATEBOARDs",
    "price": 25,
@@ -533,6 +544,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7946582179",
+   "title": "Music equip/storage bundle-Misc.",
+   "price": 100,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/clinton-music-equip-storage-bundle-misc/orxusERcTncpvQBKhnuajw",
+   "best": "Fender Speakers - Nex-Tech Classifieds",
+   "med": 500,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955259401",
+   "title": "**Vintage Durango Suede Boots**",
+   "price": 15,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/pearland-vintage-durango-suede-boots/grVoiqZytyCk2JCGPAQCCV",
+   "best": "DURANGO Suede Tan Leather Western Cowboy Riding Biker Work ...",
+   "med": 70,
+   "ratio": 4.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931022091",
+   "title": "Antique Milwaukee Grinder",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/midlothian-antique-milwaukee-grinder/6umXqortGyZHAiRLa2XL9o",
+   "best": "Antique Milwaukee 'Milwisus' bench grinder, 30cm high",
+   "med": 92,
+   "ratio": 4.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7944056566",
    "title": "Vintage Honeywell Cameras",
    "price": 39,
@@ -555,6 +599,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982238021",
+   "title": "Vintage SNAPON TOOLS Blackhawk",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bellwood-vintage-snapon-tools-blackhawk/oBisvKu3rmHBPYcmtnspML",
+   "best": "16 Piece Vintage Craftsman Combination wrench set 3/8-1-5/16 ...",
+   "med": 199,
+   "ratio": 3.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7929863253",
    "title": "Vintage Woodworking Tools",
    "price": 25,
@@ -563,6 +618,17 @@
    "best": "Vintage Stanley No 78 Wood Rabbet Plane | eBay",
    "med": 90,
    "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944051452",
+   "title": "Vintage Hand Painted Pitcher",
+   "price": 24,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-hand-painted-pitcher/mgqr8fnJyAuaZBTjvEvSCU",
+   "best": "Andrea By Sadek Porcelain Pastel Floral | Mercari",
+   "med": 83,
+   "ratio": 3.46,
    "ai_value": ""
   },
   {
@@ -599,6 +665,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7965161871",
+   "title": "NICE VINTAGE CAMERA&CASE",
+   "price": 50,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/friendsville-nice-vintage-cameracase/iGyZygHgqd2Nq6B3WawqRR",
+   "best": "Vintage G Yashica Electro 35 GSN Camera 1:1.7 Lens 45 mm ...",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948144143",
+   "title": "Antique water pump/fire extinguisher",
+   "price": 50,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/templeton-antique-water-pump-fire/9eZSZvSbvo8ihSY6fbx5uE",
+   "best": "WW2 Underwriters Laboratories By Doehler Metal Furniture Co ...",
+   "med": 149,
+   "ratio": 2.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7961042523",
    "title": "Kool Collection of Stuff...",
    "price": 85,
@@ -618,6 +706,17 @@
    "best": "Vintage Wood Bread Box - Etsy",
    "med": 135,
    "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942661472",
+   "title": "Coke ice box vintage",
+   "price": 95,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/surprise-coke-ice-box-vintage/4TnEwNxDPGRPgDKnJfDa2s",
+   "best": "Vintage Coca Cola Cooler Action Mfg Trade Marked Metal ...",
+   "med": 250,
+   "ratio": 2.63,
    "ai_value": ""
   },
   {
@@ -643,6 +742,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951896416",
+   "title": "Vintage tulip lamp",
+   "price": 80,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/lincoln-vintage-tulip-lamp/kDHRQgzieNWNFoxU3hoBMv",
+   "best": "Vintage Brass Lamp Boho Chic | Mercari",
+   "med": 175,
+   "ratio": 2.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7949429990",
    "title": "vintage lamp",
    "price": 85,
@@ -651,6 +761,17 @@
    "best": "2 Carl Falkenstein MCM three-way blue flower Lamps, like new ...",
    "med": 171,
    "ratio": 2.01,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955409430",
+   "title": "Vintage sterling amber brooch",
+   "price": 85,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-sterling-amber-brooch/edu8M4asEFT2WRVFRmyxkA",
+   "best": "Vintage Sterling Silver Mexico Amber Stone Pin Navajo Brooch ...",
+   "med": 89,
+   "ratio": 1.05,
    "ai_value": ""
   },
   {
@@ -726,6 +847,17 @@
    "area": "chico",
    "url": "https://www.craigslist.org/view/d/redding-antique-toasters/2zArc7YbbYoVVnLfw99rKx",
    "best": "Bersted MOdel 71 Electric Toaster McGraw Electric Co. Art ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960041003",
+   "title": "Vintage Metal Trash Can",
+   "price": 15,
+   "area": "wv",
+   "url": "https://www.craigslist.org/view/d/evington-vintage-metal-trash-can/vFMTEPY8rwBfk2nqkTF5zQ",
+   "best": "Lincoln Beautyware Chrome Plated Trash Can w/ | Proxibid",
    "med": null,
    "ratio": null,
    "ai_value": ""
