@@ -10187,3 +10187,28 @@
 {"ts":"2026-10-13T06:45:33Z","pid":"7931889314","stage":"photo_review","status":"kill","type":"native-american-jewelry","note":"triage: Zuni needlepoint-inlay cross signed Leekity with chain at $150; resale ~$120-200, fails ($200 nets ~$10)","run":"triage-20261013c"}
 {"ts":"2026-10-13T06:45:33Z","pid":"7949497005","stage":"photo_review","status":"kill","type":"original-art","note":"triage: Decorative snow-village oil at $199; decor","run":"triage-20261013c"}
 {"ts":"2026-10-13T06:45:33Z","pid":"7953504329","stage":"photo_review","status":"kill","type":"fixed-blade-knives","note":"triage: R.J. Richter Solingen stacked-leather hunting knife with sheath at $65; resale ~$40-80","run":"triage-20261013c"}
+{"ts":"2026-10-13T06:43:56Z","pid":"7982572428","stage":"lensed","run":"lensworker-20261013-0636","data":{"med":46,"ratio":0.71}}
+{"ts":"2026-10-13T06:44:07Z","pid":"7974247068","stage":"lensed","run":"lensworker-20261013-0636","data":{"med":45,"ratio":3}}
+{"ts":"2026-10-13T06:44:17Z","pid":"7966190982","stage":"lensed","run":"lensworker-20261013-0636","data":{"med":74,"ratio":0.82}}
+{"ts":"2026-10-13T06:44:27Z","pid":"7962505077","stage":"lensed","run":"lensworker-20261013-0636","data":{"med":70,"ratio":1.46}}
+{"ts":"2026-10-13T06:44:35Z","pid":"7951260939","stage":"lensed","run":"lensworker-20261013-0636","data":{"med":20,"ratio":0.8}}
+{"ts":"2026-10-13T06:44:45Z","pid":"7953998239","stage":"flagged","run":"lensworker-20261013-0636","data":{"med":95,"ratio":19}}
+{"ts":"2026-10-13T06:44:54Z","pid":"7981419624","stage":"flagged","run":"lensworker-20261013-0636","data":{"med":580,"ratio":38.67}}
+{"ts":"2026-10-13T06:45:05Z","pid":"7960432437","stage":"flagged","run":"lensworker-20261013-0636","data":{"med":420,"ratio":14}}
+{"ts":"2026-10-13T06:45:14Z","pid":"7943860024","stage":"lensed","run":"lensworker-20261013-0636","data":{"med":12,"ratio":0.6}}
+{"ts":"2026-10-13T06:45:26Z","pid":"7960470552","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T06:45:35Z","pid":"7956638012","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":165,"ratio":5.5}}
+{"ts":"2026-10-13T06:45:44Z","pid":"7947254950","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":89,"ratio":4.45}}
+{"ts":"2026-10-13T06:45:53Z","pid":"7977772029","stage":"lensed","run":"lensworker-20261013-0643","data":{"med":26,"ratio":0.87}}
+{"ts":"2026-10-13T06:46:02Z","pid":"7951022063","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T06:46:10Z","pid":"7940752202","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":629,"ratio":6.62}}
+{"ts":"2026-10-13T06:46:19Z","pid":"7930609530","stage":"lensed","run":"lensworker-20261013-0643","data":{"med":20,"ratio":1}}
+{"ts":"2026-10-13T06:46:29Z","pid":"7977366954","stage":"lensed","run":"lensworker-20261013-0643","data":{"med":49,"ratio":2.45}}
+{"ts":"2026-10-13T06:46:39Z","pid":"7954700655","stage":"lensed","run":"lensworker-20261013-0643","data":{"med":85,"ratio":0.85}}
+{"ts":"2026-10-13T06:46:49Z","pid":"7965398709","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":119,"ratio":2.64}}
+{"ts":"2026-10-13T06:46:56Z","pid":"7931689297","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":85,"ratio":0.85}}
+{"ts":"2026-10-13T06:47:05Z","pid":"7962228021","stage":"lensed","run":"lensworker-20261013-0643","data":{"med":50,"ratio":2.5}}
+{"ts":"2026-10-13T06:47:15Z","pid":"7953685662","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":491,"ratio":491}}
+{"ts":"2026-10-13T06:47:24Z","pid":"7945139348","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":150,"ratio":15}}
+{"ts":"2026-10-13T06:47:34Z","pid":"7937856437","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":350,"ratio":8.75}}
+{"ts":"2026-10-13T06:47:44Z","pid":"7946630061","stage":"flagged","run":"lensworker-20261013-0643","data":{"med":90,"ratio":1.38}}
