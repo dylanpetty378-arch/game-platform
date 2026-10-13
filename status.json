@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T08:11:27Z",
+ "updated": "2026-10-13T08:15:06Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2954,
-  "events": 10740,
+  "lens": 2979,
+  "events": 10765,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2486,
+  "queued": 2461,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 234,
-  "lensed": 310,
+  "flagged": 248,
+  "lensed": 321,
   "decided/find": 7,
   "expired": 1
  },
@@ -379,6 +379,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981495671",
+   "title": "Antique Primitive 1800\u2019s Wooden Snow Shovel",
+   "price": 25,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/cherry-valley-antique-primitive-1800s/7f38EUkgiBe35m2Zz6ULAq",
+   "best": "Lot - WOOD SHOVEL AND PEEL Split rod handle. Length 51\".",
+   "med": 995,
+   "ratio": 39.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7981419624",
    "title": "Old picture frame",
    "price": 15,
@@ -731,6 +742,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981363497",
+   "title": "Matched pair of Vintage Oak Bookcases",
+   "price": 100,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/keizer-matched-pair-of-vintage-oak/mZXSg78teJkewM3WEzqNZV",
+   "best": "Danish Modern Teak Bookcase w/3 shelves | Circa",
+   "med": 1104,
+   "ratio": 11.04,
+   "ai_value": ""
+  },
+  {
    "pid": "7970095212",
    "title": "Chrysocolla & Rhodochrosite Necklace",
    "price": 19,
@@ -852,6 +874,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962914286",
+   "title": "Vintage Snake Skin Bracelet Pair 1980's Italy",
+   "price": 25,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-vintage-snake-skin-bracelet/1aVEKWz3Bxkfoba6mafQtX",
+   "best": "The RealReal",
+   "med": 200,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7958569812",
    "title": "Royal Copenhagen 2005 Christmas Bell",
    "price": 10,
@@ -948,6 +981,17 @@
    "best": "Presentation: Double-matted and framed in a metallic shadowbox-style frame.",
    "med": 295,
    "ratio": 7.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982553507",
+   "title": "Vintage Bonnet Style Woven Wicker Basket",
+   "price": 10,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/hopewell-junction-vintage-bonnet-style/fBrUNszdgewkpo4EB1Nbug",
+   "best": "Etsy",
+   "med": 72,
+   "ratio": 7.2,
    "ai_value": ""
   },
   {
@@ -1050,6 +1094,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965638310",
+   "title": "Large Picture Frame/Art and misc. stuff",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-large-picture-frame-art/ut1VGEjof9hRCKb4gsjHKc",
+   "best": "Chairish",
+   "med": 299,
+   "ratio": 5.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7950980277",
    "title": "Vintage mid-century Danish vase - amber",
    "price": 15,
@@ -1116,6 +1171,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956716849",
+   "title": "ANTIQUE WASH STAND",
+   "price": 125,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/new-castle-antique-wash-stand/vHSdPZuooVUCwMf7yEN9dh",
+   "best": "Craigslist",
+   "med": 675,
+   "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7952566103",
    "title": "Vintage Velvet Indian Painting",
    "price": 35,
@@ -1135,6 +1201,17 @@
    "best": "Vintage 1977 Madame Alexander \"Mary Mine\" Baby Doll Eyes ...",
    "med": 108,
    "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957911797",
+   "title": "Vintage Monet Necklace, bracelet and earrings set",
+   "price": 65,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-monet-necklace/3aN8deMiUSTiLWdC2YjkWL",
+   "best": "Pinterest",
+   "med": 350,
+   "ratio": 5.38,
    "ai_value": ""
   },
   {
@@ -1486,6 +1563,17 @@
    "url": "https://www.craigslist.org/view/d/boynton-beach-old-haggadahs-magnificent/auL43esY4z8Pis8L3g2LoJ",
    "best": "Right Page: Features intricate heraldic and symbolic illumination crowned by an ornate motif, Star of David, a",
    "med": 400,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945914275",
+   "title": "Vintage SRA Reading Accelerator",
+   "price": 25,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/oklahoma-city-vintage-sra-reading/whtkg4vTm7otbADMYQBTh5",
+   "best": "What it is: A mechanical pacing device used in mid-20th-century schools and English classes to help students i",
+   "med": 100,
    "ratio": 4,
    "ai_value": ""
   },
@@ -1875,6 +1963,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955280834",
+   "title": "Antique = Della Reese first autograph",
+   "price": 25,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/greendale-antique-della-reese-first/jkdvKmMCZPaf3K4hBFTEMG",
+   "best": "Craigslist",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7954053619",
    "title": "Royal Doulton Julia",
    "price": 25,
@@ -1941,6 +2040,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982550951",
+   "title": "Vintage 12\" Diamond Point Cake Stand",
+   "price": 50,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/state-park-vintage-12-diamond-point/aArE5CgmHZc7G86tfHCjZj",
+   "best": "Replacements, Ltd.",
+   "med": 135,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7977701955",
    "title": "CUSTOM IBANEZ GiO",
    "price": 150,
@@ -2004,6 +2114,17 @@
    "best": "Vintage Antique Appliance Fuel Tank? Steampunk | eBay",
    "med": 117,
    "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954575633",
+   "title": "Snap-on tools miscellaneous",
+   "price": 125,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-snap-on-tools-miscellaneous/nECoGPBkk6QFj1js335gKZ",
+   "best": "RARE VINTAGE SNAP ON TOOLS TUNE UP KIT # C133C WRENCH 11 pc ...",
+   "med": 320,
+   "ratio": 2.56,
    "ai_value": ""
   },
   {
@@ -2436,6 +2557,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973459508",
+   "title": "Vintage 1950's Fred Press Scotch Bourbon Decanter",
+   "price": 60,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/norco-vintage-1950s-fred-press-scotch/nsC9dUz5iMM8YoXBdFAfzD",
+   "best": "Fred Press Midcentury Barware Decanter Caddy - Etsy Israel",
+   "med": 89,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7930773394",
    "title": "Vintage Sterling Silver Grape Shears Germany 7\u201d",
    "price": 195,
@@ -2521,6 +2653,17 @@
    "best": "Tuggle Designs",
    "med": 121,
    "ratio": 1.21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953571623",
+   "title": "Vintage Kenwood Integrated Amplifier and AM/FM Tuner",
+   "price": 100,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-vintage-kenwood-integrated/8aw2SsC7PoMbwtdwqL2LK6",
+   "best": "Kenwood KA-88 Stereo Integrated Amplifier Manual | HiFi Engine",
+   "med": 119,
+   "ratio": 1.19,
    "ai_value": ""
   },
   {
@@ -2728,6 +2871,17 @@
    "area": "worcester",
    "url": "https://www.craigslist.org/view/d/cherry-valley-vintage-milk-glass/jpyZvXD5t1PJdJxmfwJoMy",
    "best": "WorthPoint",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950897544",
+   "title": "Vintage scanner",
+   "price": 40,
+   "area": "bend",
+   "url": "https://www.craigslist.org/view/d/redmond-vintage-scanner/piP7px4fH797Y1B7AQ3jVC",
+   "best": "Channels: 16 regular programmable memory channels, plus 1 monitor channel and 1 search pair.",
    "med": null,
    "ratio": null,
    "ai_value": ""
