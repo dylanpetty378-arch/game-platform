@@ -72,3 +72,4 @@ Profit = sold median × 0.87 − ~$20 to buyer − ~$20 to Dylan − price; pass
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "M.Z.Antique Hanging Wall Plates" – $40 – pass – MZ Austria c.1900–1909 scalloped fish plates, light-green border with green leaf band and gilt rim, transfer-printed fish (pike etc.), on wire hangers; resale ~$10–20 each.
 - 2026-10-13 – craigslist – "M.Z.Antique Hanging Wall Plates" – $30 – pass – set of 5 matching MZ Austria transfer fish plates, no platter; resale ~$50–90 for the five → profit ≤ $10 after shipping.
+- 2026-10-13 – review note – Altrohla(u) Austria (Bohemia) transfer-floral 5-well oyster plates ~8in show up flagged by Lens against high oyster-plate asks; transfer oyster plates sit ~$40-80, unlike majolica/Limoges hand-painted oyster plates ($300+).

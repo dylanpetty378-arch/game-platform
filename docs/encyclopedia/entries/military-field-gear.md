@@ -65,3 +65,4 @@ Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) �
 - 2026-10-13 – craigslist – "Vintage Wrist Wach Compass" – $20 – pass – Soviet (Andrianov-type) liquid wrist compass with rotating bezel and leather strap, 1960s–80s; resale $15–30
 - 2026-10-13 – craigslist – "Vintage US Army Canteen" – $45 – pass – WWII US stainless steel M1910-pattern canteen (Vollrath 1944 per seller/Lens) with black plastic cap and OD canvas cover with lift-the-dot snaps; resale $25–45
 - 2026-10-13 – craigslist – "Vintage military haversack" – $15 – pass – post-war European (Bulgarian/Czech-type) cotton canvas shoulder bag, unmarked in photo; resale $10–25
+- 2026-10-13 – review note – French 'Tropal chaud et leger' kapok sleeping bags (green 'Governor marque deposee' label) are post-war French surplus; Lens matches them to IWM British Tropal coats - ignore.

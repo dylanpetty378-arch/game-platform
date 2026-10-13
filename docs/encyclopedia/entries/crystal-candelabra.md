@@ -63,3 +63,4 @@ Profit = sold × 0.87 − ~$22 ship to buyer − ~$20 ship to Dylan − price �
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Crystal Candelabra vintage" – $30 – pass – Single 1940s–50s American elegant-glass 2-light candelabrum, faceted spire finial, curved arms, fluted stem on lobed base, bobeches with spear prisms (Duncan & Miller / Heisey / Fostoria type; no mark visible, pattern not confirmed). Single only. Est. resale $35–70 → profit ≈ 55×0.87 − 42 − 30 ≈ −$24.
+- 2026-10-13 – review note – Duncan & Miller 2-light candelabra with spear-point finial and long prisms (pattern #65-type) - single units appear often around $30; only pairs are worth a buy.

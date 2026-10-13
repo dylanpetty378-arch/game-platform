@@ -75,3 +75,4 @@ Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan
 ## Seen in sweeps
 - 2026-10-12 – craigslist wenatchee – Vornado 16-C, "doesn't seem to work" – $35 – passed (repair rule) – as-is resale $50–80, working $110–150; cheap if a restorer wants it
 - 2026-10-13 – craigslist – "Vintage Fan" – $50 – photo_review/kill – desk fan (Manning Bowman); Lens best: +4; Lens median $89 (asking-price based)
+- 2026-10-13 – review note – Fanimation "Old Havana" is a modern (1990s+) retro-style fan, not antique; Lens matches it to antique asks.

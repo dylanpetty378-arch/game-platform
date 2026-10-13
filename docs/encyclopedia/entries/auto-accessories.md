@@ -55,3 +55,4 @@ Generic racks (~$25 sold) never clear $50. Buy only NOS boxed accessories with p
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Trunk Ski Rack" – $35 – pass – Aluminium tube trunk-lid ski rack with clamp bars and rubber/suction feet, unbranded c. 1970s–80s (Barrecrafters-type); est. resale $15–35, awkward shipping.
+- 2026-10-13 – review note – 1950-51 Plymouth "airplane" hood ornament (Mopar 1373394) is a common Lens hit; pitted examples priced $60 each by sellers sit at/above resale.

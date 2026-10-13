@@ -76,3 +76,4 @@ Profit = sold median × 0.87 − ship to buyer (~$10–20) − ship to Dylan (~$
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage handmade Black Americana doll" – $35 – pass – Photo shows a machine-sewn cloth kitchen doll, ~10–12", stitched eyes, yellow gingham dress and headscarf, holding a wooden spoon/bowl, a gingerbread cutout and a mesh bag of nuts — a 1970s–1990s craft-fair kitchen doll. Est. resale $15–30 (general knowledge, verify); profit negative.
+- 2026-10-13 – review note – Spirit of St Louis (Paris/New York arch) cast-iron mechanical banks with bright fresh paint are modern reproductions, $30-50.
