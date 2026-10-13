@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T07:25:42Z",
+ "updated": "2026-10-13T07:31:33Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2679,
-  "events": 10464,
+  "lens": 2704,
+  "events": 10489,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2761,
+  "queued": 2736,
   "comps/pass": 1,
   "decided/ask": 28,
-  "queued/relens": 338,
+  "queued/relens": 339,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 151,
-  "flagged": 120
+  "lensed": 163,
+  "flagged": 132
  },
  "last_harvests": [
   {
@@ -246,6 +246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972484157",
+   "title": "Ceramic Dogs Collection",
+   "price": 1,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/davis-ceramic-dogs-collection/2rjUq9B5dDgzpwDrqJZpVv",
+   "best": "Boehm Porcelain French Poodle #40140 Made in Trenton, NJ ...",
+   "med": 595,
+   "ratio": 595,
+   "ai_value": ""
+  },
+  {
    "pid": "7953685662",
    "title": "Antique/Vintage Silver Brass Copper",
    "price": 1,
@@ -276,6 +287,17 @@
    "best": "Alibaba.com",
    "med": 37000,
    "ratio": 370,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953141424",
+   "title": "Bronze-Finish Poly-Resin Yoga Figurine 9\u201dH",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-bronze-finish-poly-resin-yoga/h5CwpG965pXkhVHot8mphg",
+   "best": "Art Deco Bronze Sculpture by Otto Poertzel, 1920s | Chairish",
+   "med": 5412,
+   "ratio": 270.6,
    "ai_value": ""
   },
   {
@@ -375,6 +397,17 @@
    "best": "Antique, Art Deco, Ribbed, Frosted Glass, Floral, Vanity Jars ...",
    "med": 895,
    "ratio": 37.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951007261",
+   "title": "Vintage Fukagawa porcelain blue and white vase with a bamboo decoratio",
+   "price": 95,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-vintage-fukagawa-porcelain/ryDc3aHmTAFdT2DF3cDUaM",
+   "best": "Porcelain Bamboo Print Blue White Signed Flower Vase Asian ...",
+   "med": 2606,
+   "ratio": 27.43,
    "ai_value": ""
   },
   {
@@ -752,6 +785,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971564948",
+   "title": "VTG. NATIVE AMERICAN SM STERLING SILVER TURQUOISE PIN",
+   "price": 35,
+   "area": "wyoming",
+   "url": "https://www.craigslist.org/view/d/masonville-vtg-native-american-sm/8pDBL8cVEhM6FEouwtrbUy",
+   "best": "Vintage Navajo Southwestern Sterling Silver Turquoise Brooch ...",
+   "med": 195,
+   "ratio": 5.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7956638012",
    "title": "Antique- Middle East (Turkish) Brass Coffee/Tea Pot",
    "price": 30,
@@ -760,6 +804,17 @@
    "best": "Saudi Arabian Dallah Coffee Pot Brass Hand Hammered 15\u201d high ...",
    "med": 165,
    "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952566103",
+   "title": "Vintage Velvet Indian Painting",
+   "price": 35,
+   "area": "provo",
+   "url": "https://www.craigslist.org/view/d/grand-junction-vintage-velvet-indian/tt9YgwvYCFwrnHqCxixr4v",
+   "best": "Can't decide if I like it or not! : r/ThriftStoreHauls",
+   "med": 189,
+   "ratio": 5.4,
    "ai_value": ""
   },
   {
@@ -796,6 +851,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982557995",
+   "title": "Vintage 1990\u2019s Native American Pottery Vase Signed by Artist",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/tacoma-vintage-1990s-native-american/8YgX6YqvrqXooyivo6bVU4",
+   "best": "Sold at Auction: Signed Luis Ortiz Casas Grandes Hand ...",
+   "med": 125,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947991538",
    "title": "ARTIST-SIGNED GREENLEAF ARIZONA LANDSCAPE WATERCOLOR PAINTING JAVELINA",
    "price": 100,
@@ -807,6 +873,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961965359",
+   "title": "Original Painting on Canvas",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/menlo-park-original-painting-on-canvas/dpdso6HhDRbgi34scPeps5",
+   "best": "Nancy Delpero Art for Sale | Fine Art America",
+   "med": 395,
+   "ratio": 4.94,
+   "ai_value": ""
+  },
+  {
    "pid": "7946635119",
    "title": "All of these impeccable antique VASES for $29 each",
    "price": 29,
@@ -815,6 +892,17 @@
    "best": "VTG HAND PAINTED FLOWERS ON FROSTED AMETHYST GLASS PEDESTAL ...",
    "med": 135,
    "ratio": 4.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957220879",
+   "title": "Antique Clock wood wall clock",
+   "price": 65,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-antique-clock-wood-wall-clock/7RWWQR4xDAKKjsQx4JBWhx",
+   "best": "Vintage Alaron 31 Day Pendulum Wall Clock With Key C-246 ...",
+   "med": 300,
+   "ratio": 4.62,
    "ai_value": ""
   },
   {
@@ -1060,6 +1148,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966562295",
+   "title": "Cast Iron Kettle",
+   "price": 40,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/henniker-cast-iron-kettle/3pnVFhDaRN7bs3CkedYTic",
+   "best": "Rare Large Antique Cast Iron Dighton Furnace Company DFC Tea ...",
+   "med": 109,
+   "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7977701955",
    "title": "CUSTOM IBANEZ GiO",
    "price": 150,
@@ -1269,6 +1368,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982612868",
+   "title": "Antique Porcelain Plate / Cobalt Blue Floral / Flow Blue La Belle",
+   "price": 55,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/spring-grove-antique-porcelain-plate/eBWJNbb7zHdu1i6dZLNZVj",
+   "best": "Wheeling WP La Belle China Antique Flow Blue Scalloped ...",
+   "med": 100,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964811327",
+   "title": "Necklaces & Bracelets",
+   "price": 140,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-necklaces-bracelets/c6qNJ6xC3b39wxF6vXKiJ1",
+   "best": "7\u201d Vintage AMCO 1/20 14k Gold Filled Cameo Bracelet 6.3g | eBay",
+   "med": 247,
+   "ratio": 1.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7977193854",
    "title": "HARMONICA ANTIQUE HOHNER",
    "price": 150,
@@ -1278,6 +1399,17 @@
    "med": 259,
    "ratio": 1.73,
    "ai_value": "sell on the secondary market for roughly $27 to $90"
+  },
+  {
+   "pid": "7947348149",
+   "title": "13\" VINTAGE WELDED STEEL MEXICAN BRUTALIST FOLK ART SCULPTURE SUN-MAN",
+   "price": 90,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-13-vintage-welded-steel/bQR2A179V2aHYdvHDATEFQ",
+   "best": "Discover 110 Fungi ceilidh and wycinanki paper art ideas in ...",
+   "med": 152,
+   "ratio": 1.69,
+   "ai_value": ""
   },
   {
    "pid": "7940837201",
