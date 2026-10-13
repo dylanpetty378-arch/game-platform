@@ -61,3 +61,8 @@ of the lookalikes beside it. So:
 - Kills can be one line, but when a kill is "common version of a type that HAS a valuable version", say which
   valuable version it is NOT (e.g. "Stanley No. 5 type 19, not the pre-1910 type 11 with the low knob").
 - Record every such tell you learn in knowledge_<part>.md as `slug: fact`; those lines become encyclopedia field notes.
+
+## Weight first (learned Oct 13)
+Before a photo check, look at the type's rubric `weight_lb` / `ship_cost_to_buyer` (`enc.py show <slug>`, Rubric block).
+If median × 0.87 − 2 × ship_cost − price < 50 even at the entry's high tier, kill on weight without a photo. Three of
+four unlensed-pool agents found that the plausible rows failed on shipping, not identification.
