@@ -6854,3 +6854,28 @@
 {"ts":"2026-10-13T03:57:40Z","pid":"7951173343","stage":"photo_review","status":"kill","note":"triage: Xavier Vickman (1883-1947) - Find a Grave Memorial — no sign of an undervalued specific item / size or market","type":null,"run":"review-20261013b"}
 {"ts":"2026-10-13T03:57:40Z","pid":"7942569310","stage":"photo_review","status":"kill","note":"triage: palmerohouse.com — no sign of an undervalued specific item / size or market","type":null,"run":"review-20261013b"}
 {"ts":"2026-10-13T03:57:40Z","pid":"7974549078","stage":"decided","status":"ask","type":"pocket-knife-lots","note":"\"Antique knife Marbles $55\" in a Puma lot listing — ask for photo of blade etch/tang stamp (Marble's Gladstone MI) and length; Marble's Ideal pitted ~$80–150","run":"review-20261013b","data":{"price":55,"est_resale":120,"tier":"C"}}
+{"ts":"2026-10-13T03:55:58Z","pid":"7951056160","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":20,"ratio":1.18}}
+{"ts":"2026-10-13T03:56:05Z","pid":"7982498625","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":179,"ratio":2.24}}
+{"ts":"2026-10-13T03:56:13Z","pid":"7966017849","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":45,"ratio":1.29}}
+{"ts":"2026-10-13T03:56:23Z","pid":"7944889209","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":98,"ratio":2.45}}
+{"ts":"2026-10-13T03:56:33Z","pid":"7961362836","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":30,"ratio":30}}
+{"ts":"2026-10-13T03:56:41Z","pid":"7952813919","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":20,"ratio":1.33}}
+{"ts":"2026-10-13T03:56:49Z","pid":"7964854773","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":35,"ratio":1}}
+{"ts":"2026-10-13T03:56:59Z","pid":"7969181112","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":32,"ratio":0.53}}
+{"ts":"2026-10-13T03:57:06Z","pid":"7967016123","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":88,"ratio":1.96}}
+{"ts":"2026-10-13T03:57:14Z","pid":"7930263067","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":32,"ratio":0.21}}
+{"ts":"2026-10-13T03:57:24Z","pid":"7955338809","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":200,"ratio":5}}
+{"ts":"2026-10-13T03:57:34Z","pid":"7977806289","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":95,"ratio":2.11}}
+{"ts":"2026-10-13T03:57:44Z","pid":"7977535650","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":89,"ratio":2.54}}
+{"ts":"2026-10-13T03:57:54Z","pid":"7940658227","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":195,"ratio":7.8}}
+{"ts":"2026-10-13T03:58:03Z","pid":"7932507545","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":48,"ratio":4.8}}
+{"ts":"2026-10-13T03:58:11Z","pid":"7982523450","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":1480,"ratio":74}}
+{"ts":"2026-10-13T03:58:18Z","pid":"7955092506","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":45,"ratio":2.25}}
+{"ts":"2026-10-13T03:58:25Z","pid":"7982501151","stage":"flagged","run":"lensworker-20261013-0352","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T03:58:33Z","pid":"7956827711","stage":"lensed","run":"lensworker-20261013-0352","data":{"med":25,"ratio":1.25}}
+{"ts":"2026-10-13T03:58:43Z","pid":"7937898210","stage":"lensed","run":"lensworker-20261013-0356","data":{"med":30,"ratio":2}}
+{"ts":"2026-10-13T03:58:51Z","pid":"7950983181","stage":"lensed","run":"lensworker-20261013-0356","data":{"med":60,"ratio":2.4}}
+{"ts":"2026-10-13T03:58:58Z","pid":"7952472943","stage":"flagged","run":"lensworker-20261013-0356","data":{"med":150,"ratio":15}}
+{"ts":"2026-10-13T03:59:08Z","pid":"7982494902","stage":"lensed","run":"lensworker-20261013-0356","data":{"med":20,"ratio":0.13}}
+{"ts":"2026-10-13T03:59:16Z","pid":"7969525116","stage":"lensed","run":"lensworker-20261013-0356","data":{"med":26,"ratio":0.27}}
+{"ts":"2026-10-13T03:59:25Z","pid":"7941188241","stage":"lensed","run":"lensworker-20261013-0356","data":{"med":30,"ratio":1.2}}
