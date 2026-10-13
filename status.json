@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:57:17Z",
+ "updated": "2026-10-13T15:00:40Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5512,
-  "events": 16247,
+  "lens": 5537,
+  "events": 16272,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 968,
-  "queued": 1528,
+  "lensed": 979,
+  "queued": 1503,
   "comps/pass": 1,
-  "queued/relens": 434,
+  "queued/relens": 438,
   "decided/ask": 37,
-  "flagged": 694,
+  "flagged": 704,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -499,6 +499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974521298",
+   "title": "ANTIQUE TOOLS",
+   "price": 20,
+   "area": "charlestonwv",
+   "url": "https://www.craigslist.org/view/d/newark-antique-tools/3Rs61siz8AbnVacVc8CkrP",
+   "best": "Craigslist",
+   "med": 1650,
+   "ratio": 82.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7932511277",
    "title": "Antique love seat",
    "price": 85,
@@ -848,6 +859,17 @@
    "best": "19th Century Grain Shovel With All Wood Handle | eBay",
    "med": 629,
    "ratio": 31.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930900997",
+   "title": "Vintage Harley Davidson fender",
+   "price": 25,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/ashby-vintage-harley-davidson-fender/pHgBmDQ8TT7NU9emFsq19F",
+   "best": "To help you find more information or parts, let me know:",
+   "med": 780,
+   "ratio": 31.2,
    "ai_value": ""
   },
   {
@@ -1233,6 +1255,17 @@
    "best": "Poshmark",
    "med": 552,
    "ratio": 18.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930467976",
+   "title": "vintage makeup case",
+   "price": 20,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-makeup-case/fGrP9M9oEXoifAYzRCJMH9",
+   "best": "Flickr",
+   "med": 357,
+   "ratio": 17.85,
    "ai_value": ""
   },
   {
@@ -2017,6 +2050,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948867051",
+   "title": "Misc. Antiques",
+   "price": 20,
+   "area": "sierravista",
+   "url": "https://www.craigslist.org/view/d/apache-junction-misc-antiques/kXtBjdRRFd7xYNiMGENmgH",
+   "best": "Ray-O-Vac Leak Proof Flashlight, 3 Additional Flashlights ...",
+   "med": 177,
+   "ratio": 8.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7963191822",
    "title": "Vintage ammo box",
    "price": 25,
@@ -2776,6 +2820,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940671245",
+   "title": "Lazy Susan vintage wood",
+   "price": 20,
+   "area": "potsdam",
+   "url": "https://www.craigslist.org/view/d/manlius-lazy-susan-vintage-wood/92AhPr4R4XpV55AvSgruJo",
+   "best": "Craigslist",
+   "med": 126,
+   "ratio": 6.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7955381875",
    "title": "Vintage Cane, 36\" -$20",
    "price": 20,
@@ -3366,6 +3421,17 @@
    "url": "https://www.craigslist.org/view/d/north-olmsted-differant-vintage-stereo/e9LtoRbiVBMym4qTDqjYbe",
    "best": "Marantz SR-5000 Receiver \ud83c\udfb6 Stereo HiFi Audio/Video Surround ...",
    "med": 150,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945754155",
+   "title": "ANTIQUE BUG SPRAYER",
+   "price": 50,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/north-las-vegas-antique-bug-sprayer/fBVCAJ7USyQp2Zivwd4nqQ",
+   "best": "Buy Sell USA | Salinas CA",
+   "med": 250,
    "ratio": 5,
    "ai_value": ""
   },
@@ -4314,6 +4380,17 @@
    "med": 150,
    "ratio": 3.75,
    "ai_value": "Value: Similar vintage Amtrak badge plates typically sell between $30"
+  },
+  {
+   "pid": "7941281243",
+   "title": "Vintage Aurora Borealis Jewelry Set",
+   "price": 20,
+   "area": "southcoast",
+   "url": "https://www.craigslist.org/view/d/somerset-vintage-aurora-borealis/oz6dD4erHhGhy35Qkknfiq",
+   "best": "Craigslist",
+   "med": 75,
+   "ratio": 3.75,
+   "ai_value": ""
   },
   {
    "pid": "7973122896",
@@ -5647,6 +5724,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936485927",
+   "title": "Sterling Lockets $100 Each",
+   "price": 100,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-sterling-lockets-100-each/5wyj1WoF8HSpCQTvNzqi62",
+   "best": "Large Vintage Sterling Silver Locket Oval Engraved Floral ...",
+   "med": 244,
+   "ratio": 2.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7974707580",
    "title": "Vintage Fire Axe",
    "price": 75,
@@ -6131,6 +6219,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972869975",
+   "title": "4 vintage car stereo/radios",
+   "price": 100,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-vintage-car-stereo-radios/otgPEHxecSQaqmC2Gqvna5",
+   "best": "Vintage 1949 1950 Original FoMoCo Ford Deluxe OBF Radio | eBay",
+   "med": 198,
+   "ratio": 1.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7957136975",
    "title": "VINTAGE ROYAL TYPEWRITER",
    "price": 100,
@@ -6522,6 +6621,17 @@
    "area": "cnj",
    "url": "https://www.craigslist.org/view/d/pennington-vintage-ac-gilbert/r4qseBJVtoL6Uti7b8JBei",
    "best": "Vintage Erector Set | EJ'S Auction & Appraisal",
+   "med": 120,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982703051",
+   "title": "Vintage Native American Tiny Turquoise Pendant",
+   "price": 75,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/hadley-vintage-native-american-tiny/1nbumKibMMJBAZzcn8jMqC",
+   "best": "Etsy",
    "med": 120,
    "ratio": 1.6,
    "ai_value": ""
