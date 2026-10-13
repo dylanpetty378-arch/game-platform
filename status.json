@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:31:52Z",
+ "updated": "2026-10-13T12:35:46Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4587,
-  "events": 14522,
+  "lens": 4612,
+  "events": 14547,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 448,
-  "queued": 1653,
+  "lensed": 462,
+  "queued": 1628,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 345,
-  "flagged": 378,
+  "queued/relens": 347,
+  "flagged": 387,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -697,6 +697,17 @@
    "best": "VINTAGE Ralph Lauren Full Queen Comforter Sophie Brooke Pink ...",
    "med": 209,
    "ratio": 20.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982680887",
+   "title": "Vintage lamp and  base",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/east-northport-vintage-lamp-and-base/xpXy1vf39ysRLvkQVLEapc",
+   "best": "Vintage / Antique Hand Painted French Porcelain Lamps-Signed ...",
+   "med": 400,
+   "ratio": 20,
    "ai_value": ""
   },
   {
@@ -1822,6 +1833,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956132485",
+   "title": "Bombay Company vintage Paperweight",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-bombay-company-vintage/tq8jczKwqcHGikviSSm71H",
+   "best": "Vintage Bombay Solid brass ornate Paperweight | eBay",
+   "med": 115,
+   "ratio": 5.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7945294582",
    "title": "Vintage Skeleton Castle",
    "price": 80,
@@ -1976,6 +1998,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948945101",
+   "title": "Vintage Collection of Dental Tools",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-collection-of/4BS2UGVPKSChucJSn5nCy3",
+   "best": "Hu-Friedy Amalgam Instruments - Set of 8 | eBay",
+   "med": 82,
+   "ratio": 5.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7971851268",
    "title": "Vintage Jimmy Swaggart 10K GF Gold Filled Cross & Dove Pendant on Neck",
    "price": 40,
@@ -2126,6 +2159,17 @@
    "url": "https://www.craigslist.org/view/d/columbus-vintage-strongman-workout/6PpQUZiDhAGuL6E6E9gXDj",
    "best": "Vintage/Antique Spring Stretch Chest Arms Exercise Equipment ...",
    "med": 200,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957993448",
+   "title": "Vintage Studio Art Pottery Canister Set",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-studio-art-pottery/9EFor4BQ7iYivmNDFsCvCa",
+   "best": "2 Mid Century SDW Stoneware Designs West of California ...",
+   "med": 75,
    "ratio": 5,
    "ai_value": ""
   },
@@ -2735,6 +2779,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943321612",
+   "title": "Vintage Toshikane Japan Cufflinks",
+   "price": 35,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/toms-river-vintage-toshikane-japan/5fQqsknRV2y6XWq8eT69tt",
+   "best": "VINTAGE SIGNED JAPAN ASIAN MAN FACE MASK ...",
+   "med": 120,
+   "ratio": 3.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7952561566",
    "title": "Vintage 1980s watercolor Jamaica",
    "price": 25,
@@ -3263,6 +3318,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965697902",
+   "title": "Vintage German Regimental Beer Stein-Like New",
+   "price": 50,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/jacksonville-vintage-german-regimental/1N27MxvYziT1NDf14P2bvy",
+   "best": "WW1 Repro Gerzit W. Germany Regimental Bier Stein Lithophane ...",
+   "med": 130,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7954521769",
    "title": "Vintage Sterling Silver 18\" Necklace W/3 Turquoise Pendants",
    "price": 97,
@@ -3379,6 +3445,17 @@
    "area": "nd",
    "url": "https://www.craigslist.org/view/d/fargo-vintage-desktop-lamp-1940s/9wifjg732ntL5NGNp7SvFm",
    "best": "Mid Century Industrial Desk Lamp: Flexo Art Specialty Co ...",
+   "med": 245,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967333868",
+   "title": "Antique Blue Canton plates",
+   "price": 100,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/glen-arm-antique-blue-canton-plates/asn7LuiHFipuJGgjGJ1uCY",
+   "best": "Antique Chinese Zhangzhou Ware Export Porcelain Bowl Circa ...",
    "med": 245,
    "ratio": 2.45,
    "ai_value": ""
@@ -3689,6 +3766,17 @@
    "best": "Vintage Sermel Tonala Jal Paper Mache Hand Painted Hippo ...",
    "med": 88,
    "ratio": 1.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939545101",
+   "title": "VINTAGE WREATH BROACH AND EARRINGS BY SHERMAN",
+   "price": 100,
+   "area": "erie",
+   "url": "https://www.craigslist.org/view/d/vintage-wreath-broach-and-earrings-by/kNMB9wqbw87BSJnpWYvG7b",
+   "best": "MLINS Wedding Brooch Vintage Brooches Bridal Shower ...",
+   "med": 175,
+   "ratio": 1.75,
    "ai_value": ""
   },
   {
@@ -4030,6 +4118,17 @@
    "best": "Vintage Navajo Liquid Sterling Silver 10 Multi Strands ...",
    "med": 160,
    "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928450032",
+   "title": "Light Green Tourmaline and Sterling Silver Ring",
+   "price": 118,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-light-green-tourmaline-and/8MPHzff54RT81Nx6ZUH7RF",
+   "best": "Peridot, 925 Sterling Silver Ring, SR058 - Etsy",
+   "med": 105,
+   "ratio": 0.89,
    "ai_value": ""
   },
   {
