@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T22:50:01Z
+# Refurbish status — 2026-10-13T22:53:31Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| queued | 629 |
-| flagged | 519 |
-| lensed | 362 |
-| queued/relens | 316 |
+| queued | 604 |
+| flagged | 534 |
+| lensed | 369 |
+| queued/relens | 319 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 10 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7024
-- events: 26444
+- lens: 7049
+- events: 26469
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -111,7 +111,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (519)
+## Flagged by Lens, waiting for photo review (534)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -134,6 +134,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_3JTbRWeExM2_0pO0aK_300x300.jpg" width="120"> | 7981649727 | $15 | washingtondc | [Ladies Fashion Gold Ring w Pearl Rings](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring/gbZDMFNTs8abcn5LnkhT4L) | Exclusive Ring 925 Silver 17.5 Mm Size 55 Vintage Gift ... | 958 | 63.87 |
 | <img src="https://images.craigslist.org/00f0f_9hPschRq24V_06007g_300x300.jpg" width="120"> | 7952474801 | $40 | grandrapids | [VINTAGE 1960'S SQUIRREL PLANTER ~ NAPCOWARE](https://www.craigslist.org/view/d/wyoming-vintage-1960s-squirrel-planter/rXfGs85ix8cVYdjv9Aighn) | Napcoware Squirrel Planter Japan Circa 1960s by @shop20max . | 2474 | 61.85 |
 | <img src="https://images.craigslist.org/00T0T_3EEXsgIVWTE_0CI0t2_300x300.jpg" width="120"> | 7953086615 | $1 | miami | [Sadie's Estate  Collectibles](https://www.craigslist.org/view/d/fort-lauderdale-sadies-estate/fyfZuJ9pURmVrjNwJeDNRj) | Etsy | 60 | 60 |
+| <img src="https://images.craigslist.org/01414_lhJiexvofqi_0hq0px_300x300.jpg" width="120"> | 7944849692 | $25 | boston | [Vintage gold tone rope necklace 20-24" long](https://www.craigslist.org/view/d/natick-vintage-gold-tone-rope-necklace/bR8yMwpd5X1wmu5sWa9QHW) | Welch & Company Jewelers | 1420 | 56.8 |
 | <img src="https://images.craigslist.org/00606_cIBE2OUYkly_07K0ak_300x300.jpg" width="120"> | 7956157238 | $50 | visalia | [Framed Antique Embroidered Silk](https://www.craigslist.org/view/d/carmel-framed-antique-embroidered-silk/na8kqQPYJiiFMSLJGSgKCo) | Mutual Art | 2750 | 55 |
 | <img src="https://images.craigslist.org/01717_iQTiwcDinkX_0hq0CI_300x300.jpg" width="120"> | 7953841330 | $1 | pullman | [Assorted Hat Collection](https://www.craigslist.org/view/d/pullman-assorted-hat-collection/714r3ZpAy9xeYjFdzY7BNm) | Vtg Hats Lot 20 Mix Baseball Sports Resale Wholesale Golf .. | 47 | 47 |
 | <img src="https://images.craigslist.org/00303_7JVTdytXvwp_0mg0t2_300x300.jpg" width="120"> | 7944455092 | $3 | wichita | [Jewelry Sets](https://www.craigslist.org/view/d/derby-jewelry-sets/qvMB6yT8xXqL4ZsL6qHNPx) | Brighton "FONTAINE" Spin Necklace-Earring-Bracelet Set (MSR  | 140 | 46.67 |
@@ -236,4 +237,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00E0E_kdi5FdwNCpx_0pO0jm_300x300.jpg" width="120"> | 7950290971 | $75 | columbus | [Old Acoustic Guitar](https://www.craigslist.org/view/d/chillicothe-old-acoustic-guitar/gyMWusLePjztqkh5QW4SD7) | 38" Woolworth's Audition Guitar Acoustic 6-String Vintage .. | 468 | 6.24 |
 | <img src="https://images.craigslist.org/00h0h_8Xy0tAuREtq_0t20CI_300x300.jpg" width="120"> | 7949598321 | $35 | wichita | [Sterling Ring](https://www.craigslist.org/view/d/wichita-sterling-ring/oaYzxET1bpQ5TPMcGbTCpY) | Style: Southwest / Native American (Navajo) | 214 | 6.11 |
 | <img src="https://images.craigslist.org/00K0K_9sKOK4H1m3x_0t20CI_300x300.jpg" width="120"> | 7934915578 | $20 | fresno | [Replica Antique Mexican Pesos](https://www.craigslist.org/view/d/fresno-replica-antique-mexican-pesos/emwMk2wRDLm5qbrtvLS3Km) | 1882 Republica Mexicana Libertad 8R.Z.1882.J.S.10D.20G ... | 120 | 6 |
-| <img src="https://images.craigslist.org/00g0g_8d9HNDZQvif_0uN0n6_300x300.jpg" width="120"> | 7948035931 | $20 | chicago | [Burgundy Necklace w/Matching Earings And Bracelet](https://www.craigslist.org/view/d/des-plaines-burgundy-necklace-matching/t3EqFzqNAV4eFf3KwXtWKw) | set of Contract bracelet earring Ring Embroidered handmade . | 120 | 6 |

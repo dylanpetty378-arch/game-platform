@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:50:01Z",
+ "updated": "2026-10-13T22:53:31Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7024,
-  "events": 26444,
+  "lens": 7049,
+  "events": 26469,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 362,
+  "lensed": 369,
   "comps/pass": 1,
-  "queued/relens": 316,
+  "queued/relens": 319,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 519,
+  "flagged": 534,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 629
+  "queued": 604
  },
  "last_harvests": [
   {
@@ -577,6 +577,17 @@
    "best": "Etsy",
    "med": 60,
    "ratio": 60,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944849692",
+   "title": "Vintage gold tone rope necklace 20-24\" long",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-gold-tone-rope-necklace/bR8yMwpd5X1wmu5sWa9QHW",
+   "best": "Welch & Company Jewelers",
+   "med": 1420,
+   "ratio": 56.8,
    "ai_value": ""
   },
   {
@@ -2098,6 +2109,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956144824",
+   "title": "Butterscotch Filigree Antique Style Necklace",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-butterscotch-filigree-antique/mSKAFhTF5BSb9TasvsBfuw",
+   "best": "Poshmark",
+   "med": 55,
+   "ratio": 4.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7934461274",
    "title": "Vintage Navajo Handmade Sterling Silver and Turquoise Necklace Pendant",
    "price": 40,
@@ -2160,6 +2182,17 @@
    "url": "https://www.craigslist.org/view/d/fairview-vintage-timex-indiglo-watch/wrFsdBmmGtvtsesth46ucj",
    "best": "Timex T20471 Men's Easy Reader Watch 48148204713| eBay",
    "med": 65,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949598570",
+   "title": "Sterling Indian Head Ring",
+   "price": 40,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/wichita-sterling-indian-head-ring/odHGqUhRbXggWWf5Qbf93E",
+   "best": "eBay",
+   "med": 173,
    "ratio": 4.33,
    "ai_value": ""
   },
@@ -2315,6 +2348,17 @@
    "best": "eBay",
    "med": 80,
    "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956297772",
+   "title": "Vintage BASIS American Time Hand Wind Skeleton Face Swiss Made Watch",
+   "price": 80,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/west-new-york-vintage-basis-american/oGagLKrStPQ5cVSvUDtdcc",
+   "best": "eBay",
+   "med": 318,
+   "ratio": 3.98,
    "ai_value": ""
   },
   {
@@ -2512,6 +2556,17 @@
    "url": "https://www.craigslist.org/view/d/covina-post-cards/5wgT71QqLz242k5hdfKDUU",
    "best": "Geronimo Apache Native American Medicine Man Indian ...",
    "med": 18,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973129601",
+   "title": "Cuff links vintage",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-cuff-links-vintage/cyipbeTVCSr5KvdAXX1aBF",
+   "best": "Mr. tara tie clip - Gem",
+   "med": 54,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -2877,6 +2932,17 @@
    "med": 30,
    "ratio": 3,
    "ai_value": ""
+  },
+  {
+   "pid": "7940775960",
+   "title": "Antique straight razors",
+   "price": 30,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-antique-straight-razors/xfNEYniDEa4Ww8PvCtPgXC",
+   "best": "Straight Razor. For Sale at Ruby Lane",
+   "med": 89,
+   "ratio": 2.97,
+   "ai_value": "price tag of $35"
   },
   {
    "pid": "7943408324",
@@ -3418,6 +3484,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931326010",
+   "title": "Vintage Ann Taylor silver tone pearl necklace",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-ann-taylor-silver-tone/jbM99L2xNb69fVJwVeb9WW",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7942750121",
    "title": "neclace",
    "price": 40,
@@ -3821,6 +3898,17 @@
    "url": "https://www.craigslist.org/view/d/fresno-vintage-seiko-womens-gold-tone/1SR9fUNAxv1WsZQYbupyG9",
    "best": "Seiko Watch Women 17mm Champagne Dial Gold Tone Oval 1400 ...",
    "med": 39,
+   "ratio": 1.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975115628",
+   "title": "Vintage Gertrude Zachary Earrings",
+   "price": 225,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-gertrude-zachary/f6RpcDctyExa2toK6epCFv",
+   "best": "Plata de Santa Fe Jewelry",
+   "med": 438,
    "ratio": 1.95,
    "ai_value": ""
   },
@@ -4485,6 +4573,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972960896",
+   "title": "Wonderful Beverly Pottery Vintage Face Jug",
+   "price": 70,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-wonderful-beverly-pottery/xrNTZWkWiAseAME4TgpZJ1",
+   "best": "About Face Jugs",
+   "med": 98,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7968021540",
    "title": "Vintage Gruen Precision 17 Jewels manual wind watch",
    "price": 200,
@@ -4793,6 +4892,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974734790",
+   "title": "Vintage Gold tone panther link collar necklace",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-gold-tone-panther-link/mL6rXZssiSjw2w1Pt6mcWc",
+   "best": "Etsy",
+   "med": 32,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7973912457",
    "title": "Vintage bongos",
    "price": 45,
@@ -4845,6 +4955,28 @@
    "best": "Amazon.com: Lenox Tinkerbell's Magical Garden : Home & Kitchen",
    "med": 123,
    "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954088815",
+   "title": "Sterling Silver Ring",
+   "price": 50,
+   "area": "erie",
+   "url": "https://www.craigslist.org/view/d/meadville-sterling-silver-ring/jY4xv7tQqXBZ1kGEki98UW",
+   "best": "eBay",
+   "med": 53,
+   "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940506374",
+   "title": "Vintage Wittnauer Pegasus Watch -  Linen Dial & Applied Gold Markers",
+   "price": 40,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/lake-worth-vintage-wittnauer-pegasus/rVwH8TL3HiRuSgWLgV5s5o",
+   "best": "Movement: Analog quartz movement (typically powered by a standard button-cell battery).",
+   "med": 41,
+   "ratio": 1.02,
    "ai_value": ""
   },
   {
@@ -5013,6 +5145,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935491932",
+   "title": "A pair of Japanese porcelain vases",
+   "price": 50,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/happy-valley-pair-of-japanese-porcelain/hHzjPni2TcPn2Qx7Qj9NjA",
+   "best": "eBay",
+   "med": 47,
+   "ratio": 0.94,
+   "ai_value": "sell on secondary markets like eBay or Etsy between $30"
+  },
+  {
    "pid": "7975555674",
    "title": "Large Vintage 33 Carat Blue Topaz Sterling Silver Ring",
    "price": 200,
@@ -5031,6 +5174,17 @@
    "url": "https://www.craigslist.org/view/d/los-angeles-vintage-mary-and-joseph/te4i6Gkv26YLyx6WNZsS9T",
    "best": "Vtg Goebel Hummel Nativity Virgin Mary Figurine with Halo ...",
    "med": 74,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974870615",
+   "title": "Sterling Silver Ring with Turquoise Stone",
+   "price": 225,
+   "area": "kpr",
+   "url": "https://www.craigslist.org/view/d/prosser-sterling-silver-ring-with/ohpqP9w9SykVMUKJEubtqD",
+   "best": "eBay",
+   "med": 210,
    "ratio": 0.93,
    "ai_value": ""
   },
@@ -5791,6 +5945,17 @@
    "best": "Mystery Jewelry Box & Lucky Scoops Gift \u2013 LOVE WISD",
    "med": 21,
    "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962181407",
+   "title": "Lot of 4 pendans with gemstones",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-lot-of-pendans-with-gemstones/s8F9oBomP1oozRWkM2cHFU",
+   "best": "Bikini Charms \u2013 Flower & Flame",
+   "med": 6,
+   "ratio": 0.24,
    "ai_value": ""
   },
   {
