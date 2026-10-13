@@ -1,22 +1,22 @@
 {
- "updated": "2026-10-13T02:55:50Z",
+ "updated": "2026-10-13T02:56:03Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 929,
-  "events": 6138,
+  "lens": 954,
+  "events": 6163,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 374,
-  "queued": 3697,
-  "queued/relens": 212,
+  "queued": 3687,
+  "lensed": 293,
   "comps/pass": 1,
-  "lensed": 275,
-  "flagged": 33,
+  "flagged": 40,
+  "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
@@ -168,6 +168,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7953937034",
+   "title": "Beautiful Vintage Tiffany Style Stained Slag Glass Lamp Shade Purple",
+   "price": 40,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-beautiful-vintage-tiffany/kHCt7fDJQY318x9Eaq6vv6",
+   "best": "Meyda Tiffany - 27405 - Shade - Jeweled Basket - Craftsman ...",
+   "med": 21500,
+   "ratio": 537.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7982454702",
    "title": "Vintage print of small village",
    "price": 10,
@@ -220,6 +231,17 @@
    "best": "Antique Victorian French Porcelain Hand Painted Flower Vase ...",
    "med": 225,
    "ratio": 11.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974975384",
+   "title": "Elgin Watch",
+   "price": 95,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/zimmerman-elgin-watch/4RHWsSCWp5NTY4gSR6tTU5",
+   "best": "Auctionet",
+   "med": 975,
+   "ratio": 10.26,
    "ai_value": ""
   },
   {
@@ -410,6 +432,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7945950931",
+   "title": "Vintage watches and pocket watches for sell",
+   "price": 59,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-watches-and-pocket/ixFwmsHryxUpACJNMCJ3As",
+   "best": "eBay",
+   "med": 180,
+   "ratio": 3.05,
+   "ai_value": "priced roughly from $49 to $149"
+  },
+  {
+   "pid": "7976962731",
+   "title": "Antique Victorian Bubble Glass Wood Oval Picture Frame 24 3/4 X 18 1/2",
+   "price": 40,
+   "area": "nd",
+   "url": "https://www.craigslist.org/view/d/moorhead-antique-victorian-bubble-glass/98zcdkxoSk2C7LYpTk1c7U",
+   "best": "ANTIQUE HOLY CARD OF MATER DOLOROSA | eBay",
+   "med": 110,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7940687295",
    "title": "Vintage 1970's Choker Necklaces",
    "price": 30,
@@ -432,6 +476,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982380644",
+   "title": "Vintage Handsaws",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/concord-vintage-handsaws/oVqDQbgvZjMtQA7CPHxeU4",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7967721762",
    "title": "Vintage Large Cobalt Blue Water or Milk Pitcher with Flowers",
    "price": 60,
@@ -451,6 +506,17 @@
    "best": "pottery \u2013 Shaker Museum",
    "med": 100,
    "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973491824",
+   "title": "Antique sewing machine",
+   "price": 150,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/keizer-antique-sewing-machine/j4QiQASRqntjab31zuxUW1",
+   "best": "Era: Mid-20th century (commonly 1940s\u20131950s; look for the serial number stamped near the bottom right to date ",
+   "med": 299,
+   "ratio": 1.99,
    "ai_value": ""
   },
   {
@@ -517,6 +583,17 @@
    "best": "WORKING Victorian Clock New Haven Clock Co. USA Decorative ...",
    "med": 110,
    "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982447091",
+   "title": "Vintage Retro Candlesticks",
+   "price": 125,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/randallstown-vintage-retro-candlesticks/jRS9srCnXZDXM4ejbFbZrK",
+   "best": "Vintage Art Deco Glass Console Set \u2022 Orange & Black ... - Etsy",
+   "med": 109,
+   "ratio": 0.87,
    "ai_value": ""
   },
   {
