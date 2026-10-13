@@ -21521,3 +21521,28 @@
 {"ts":"2026-10-13T17:39:11Z","pid":"7937652046","stage":"lensed","run":"lensworker-20261013-1733","note":null,"data":{"med":20,"ratio":0.91,"mismatch":[]}}
 {"ts":"2026-10-13T17:39:18Z","pid":"7942814366","stage":"queued","status":"relens","run":"lensworker-20261013-1733","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T17:39:28Z","pid":"7967367567","stage":"flagged","run":"lensworker-20261013-1733","note":"Lens names Kramer — title does not","data":{"med":370,"ratio":9.25,"mismatch":["Kramer"]}}
+{"ts":"2026-10-13T17:39:41Z","pid":"7951593504","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":135,"ratio":13.5,"mismatch":[]}}
+{"ts":"2026-10-13T17:39:49Z","pid":"7978317579","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:39:56Z","pid":"7944679763","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:40:05Z","pid":"7953733039","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":19,"ratio":0.95,"mismatch":[]}}
+{"ts":"2026-10-13T17:40:13Z","pid":"7978859418","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":14,"ratio":0.7,"mismatch":[]}}
+{"ts":"2026-10-13T17:40:23Z","pid":"7937422475","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":17,"ratio":2.13,"mismatch":[]}}
+{"ts":"2026-10-13T17:40:34Z","pid":"7934250086","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":25,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-13T17:40:44Z","pid":"7933052409","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":110,"ratio":3.14,"mismatch":[]}}
+{"ts":"2026-10-13T17:40:53Z","pid":"7949582055","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":15,"ratio":0.75,"mismatch":[]}}
+{"ts":"2026-10-13T17:41:03Z","pid":"7982745453","stage":"flagged","run":"lensworker-20261013-1738","note":"Lens names Silver — title does not","data":{"med":24,"ratio":0.96,"mismatch":["Silver"]}}
+{"ts":"2026-10-13T17:41:13Z","pid":"7955718271","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":45,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-13T17:41:19Z","pid":"7981686279","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:41:28Z","pid":"7955319963","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":70,"ratio":4.67,"mismatch":[]}}
+{"ts":"2026-10-13T17:41:35Z","pid":"7949396746","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:41:43Z","pid":"7955421863","stage":"flagged","run":"lensworker-20261013-1738","note":"Lens names Size — title does not","data":{"med":79,"ratio":3.59,"mismatch":["Size"]}}
+{"ts":"2026-10-13T17:41:51Z","pid":"7975824759","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":125,"ratio":4.17,"mismatch":[]}}
+{"ts":"2026-10-13T17:42:01Z","pid":"7950746516","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":170,"ratio":2.13,"mismatch":[]}}
+{"ts":"2026-10-13T17:42:10Z","pid":"7952091664","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:42:15Z","pid":"7981644450","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:42:24Z","pid":"7934426209","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":28,"ratio":1.87,"mismatch":[]}}
+{"ts":"2026-10-13T17:42:33Z","pid":"7942750121","stage":"flagged","run":"lensworker-20261013-1738","note":"Lens names Amber — title does not","data":{"med":96,"ratio":2.4,"mismatch":["Amber"]}}
+{"ts":"2026-10-13T17:42:41Z","pid":"7981649727","stage":"flagged","run":"lensworker-20261013-1738","note":"Lens names Gift, Silver, Size — title does not","data":{"med":958,"ratio":63.87,"mismatch":["Gift","Silver","Size"]}}
+{"ts":"2026-10-13T17:42:47Z","pid":"7967047188","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:42:56Z","pid":"7949716375","stage":"flagged","run":"lensworker-20261013-1738","note":"Lens names Silver — title does not","data":{"med":95,"ratio":1.27,"mismatch":["Silver"]}}
+{"ts":"2026-10-13T17:43:03Z","pid":"7959986586","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":446,"ratio":11.15,"mismatch":[]}}

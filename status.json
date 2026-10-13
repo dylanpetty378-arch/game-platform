@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:39:53Z",
+ "updated": "2026-10-13T17:43:21Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6453,
-  "events": 21523,
+  "lens": 6478,
+  "events": 21548,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 206,
+  "lensed": 213,
   "comps/pass": 1,
-  "queued/relens": 177,
+  "queued/relens": 184,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 244,
+  "flagged": 255,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 400
+  "queued": 375
  },
  "last_harvests": [
   {
@@ -438,6 +438,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981649727",
+   "title": "Ladies Fashion Gold Ring w Pearl Rings",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring/gbZDMFNTs8abcn5LnkhT4L",
+   "best": "Exclusive Ring 925 Silver 17.5 Mm Size 55 Vintage Gift ...",
+   "med": 958,
+   "ratio": 63.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7956157238",
    "title": "Framed Antique Embroidered Silk",
    "price": 50,
@@ -680,6 +691,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951593504",
+   "title": "Vintage 1950s Rhinestone Sewing Coat Buttons",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-1950s-rhinestone/wQo66e1J3zk8QL6jm89wCB",
+   "best": "Set of 3 Vintage Look Round Crystal Detail Fancy Brooches | eBay",
+   "med": 135,
+   "ratio": 13.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7953914312",
    "title": "Beautiful Vintage Lamp",
    "price": 10,
@@ -710,6 +732,17 @@
    "best": "Etsy",
    "med": 230,
    "ratio": 11.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959986586",
+   "title": "Vintage Vase",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/oregon-city-vintage-vase/vDzmTsVbJAEjRHhaPtepE9",
+   "best": "190 Dunand et Linossier / Dinanderie ideas | jean dunand ...",
+   "med": 446,
+   "ratio": 11.15,
    "ai_value": ""
   },
   {
@@ -1120,6 +1153,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955319963",
+   "title": "Vintage Hand Saw",
+   "price": 15,
+   "area": "southcoast",
+   "url": "https://www.craigslist.org/view/d/somerset-vintage-hand-saw/gbBp6dawAijEpwRC2qAvzt",
+   "best": "Antique Hand Saw With Carved Wooden Handle and \"warranted ...",
+   "med": 70,
+   "ratio": 4.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7953674065",
    "title": "Vintage Schwinn wheel lot",
    "price": 50,
@@ -1183,6 +1227,17 @@
    "best": "eBay",
    "med": 85,
    "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975824759",
+   "title": "Antique Stoneware Foot Warmer",
+   "price": 30,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/summerville-antique-stoneware-foot/mPbsxXDNJe8ej5PffY12SN",
+   "best": "Dorchester Pottery Works Foot Warmer / Dorchester Pottery ...",
+   "med": 125,
+   "ratio": 4.17,
    "ai_value": ""
   },
   {
@@ -1326,6 +1381,17 @@
    "best": "Invaluable.com",
    "med": 90,
    "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955421863",
+   "title": "vintage officer army cap hat",
+   "price": 22,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-vintage-officer-army-cap-hat/1SgaiirWtwxBHNdfSKGhqP",
+   "best": "II Soldier Visor Cap Hat Army Air Force Green Size 6 7/8 War ...",
+   "med": 79,
+   "ratio": 3.59,
    "ai_value": ""
   },
   {
@@ -1480,6 +1546,17 @@
    "best": "Craigslist",
    "med": 80,
    "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933052409",
+   "title": "Beautiful Clay Drum",
+   "price": 35,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/derwood-beautiful-clay-drum/ucxeJfKwRf95wYUhoHD5bR",
+   "best": "Vintage Moroccan Taarija / Tbilat Drum Set (3) \u2013 Handmade ...",
+   "med": 110,
+   "ratio": 3.14,
    "ai_value": ""
   },
   {
@@ -1813,6 +1890,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942750121",
+   "title": "neclace",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/longview-neclace/oncMSXmAzbMsMUpVaWaTXG",
+   "best": "Vintage Faux Amber Beaded Necklace 21\" Gradient Large ...",
+   "med": 96,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7980458214",
    "title": "Vintage Can + Bottle Openers",
    "price": 8,
@@ -1897,6 +1985,17 @@
    "url": "https://www.craigslist.org/view/d/fresno-antique-brooch-sterling-silver/jAtfQvNcvzaK2fgk5tp5GD",
    "best": "Antique Brooch 800 Sterling Silver MOP Mother of Pearl ...",
    "med": 85,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950746516",
+   "title": "Wizard 13\"",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/covina-wizard-13/fMUZW8U36aAXzahchVusDm",
+   "best": "Windstone Editions 13in Wizard w/ Dragon | eBay",
+   "med": 170,
    "ratio": 2.13,
    "ai_value": ""
   },
@@ -2429,6 +2528,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949716375",
+   "title": "Vintage Brazilian Coin Belt",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-brazilian-coin/9pdmosZN7mWq4FPzrYBURu",
+   "best": "Vintage Rare Mexico Coin Belt 1949 /solid Silver /mexican ...",
+   "med": 95,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7950037380",
    "title": "Antique Large  1930's Ring Vase",
    "price": 25,
@@ -2580,6 +2690,17 @@
    "best": "Large Framed Oil on Canvas of a Beautiful Fall Landscape by ...",
    "med": 150,
    "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982745453",
+   "title": "Vintage 1930s-40s Rhinestone Earrings and Pins. Starting at.....",
+   "price": 25,
+   "area": "fayetteville",
+   "url": "https://www.craigslist.org/view/d/carthage-vintage-1930s-40s-rhinestone/cF4iBui5H8wvPnjkYNBgBv",
+   "best": "Vintage Clear Rhinestones on Silver Metal Drop Dangle ...",
+   "med": 24,
+   "ratio": 0.96,
    "ai_value": ""
   },
   {
