@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T14:20:01Z
+# Refurbish status — 2026-10-13T14:25:34Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 953 |
-| lensed | 853 |
-| flagged | 606 |
-| queued/relens | 412 |
+| queued | 928 |
+| lensed | 869 |
+| flagged | 613 |
+| queued/relens | 414 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 5287
-- events: 15222
+- lens: 5312
+- events: 15247
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (606)
+## Flagged by Lens, waiting for photo review (613)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -153,6 +153,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00V0V_6Ekj0cgtWCD_0ew0ew_300x300.jpg" width="120"> | 7954218689 | $10 | newyork | [BALENCIAGA Typo Logo Gold tone Ring](https://www.craigslist.org/view/d/new-york-balenciaga-typo-logo-gold-tone/7QwKDaXwy7tnc3wnVjYWSe) | Product Details | 226 | 22.6 |
 | <img src="https://images.craigslist.org/01515_2aFptm1eJJo_0m00q4_300x300.jpg" width="120"> | 7928418568 | $20 | denver | [Antique Reel Edger](https://www.craigslist.org/view/d/littleton-antique-reel-edger/hTumE8DXPfm5yRpr1StbUN) | Vintage Primitive Mardon Push Lawn Edger Trimmer Yard Tool . | 450 | 22.5 |
 | <img src="https://images.craigslist.org/00T0T_eK3HYTnFLds_0t20CI_300x300.jpg" width="120"> | 7979349030 | $50 | hudsonvalley | [Vintage medieval knight](https://www.craigslist.org/view/d/poughkeepsie-vintage-medieval-knight/o6LRsyE6auSameon6zs5PW) | Terra-cotta statue of knight in armor entitled Bois Guilbert | 1095 | 21.9 |
+| <img src="https://images.craigslist.org/00m0m_e1AUDBs8Y3A_0CI0t2_300x300.jpg" width="120"> | 7950853313 | $15 | newyork | [Patina Vie Mini Plate(s) - set of 2](https://www.craigslist.org/view/d/new-york-patina-vie-mini-plates-set-of/7HsMNfQvAR2NmEiPFuGpU6) | Japan Ivory China - Etsy Canada | 323 | 21.53 |
 | <img src="https://images.craigslist.org/00s0s_2QhL3PQuRAP_0MM132_300x300.jpg" width="120"> | 7937567101 | $20 | boston | [Vintage Egyptian Black Stone Pharoah's bust statue](https://www.craigslist.org/view/d/west-roxbury-vintage-egyptian-black/3dmXUEgJhkTMbTrJKx9pas) | Vintage Egyptian Black Stone Pharoah's bust statue/ornament  | 423 | 21.15 |
 | <img src="https://images.craigslist.org/00e0e_5Iyea5s9xnrz_0CI0t2_300x300.jpg" width="120"> | 7948495128 | $10 | bloomington | [Vintage 1970's Bed Comforter](https://www.craigslist.org/view/d/lafayette-vintage-1970s-bed-comforter/a7qyJ2o7RYjod847WehzQm) | VINTAGE Ralph Lauren Full Queen Comforter Sophie Brooke Pink | 209 | 20.9 |
 | <img src="https://images.craigslist.org/00404_4RtAo6QRtbPz_0AE0ru_300x300.jpg" width="120"> | 7982680887 | $20 | longisland | [Vintage lamp and  base](https://www.craigslist.org/view/d/east-northport-vintage-lamp-and-base/xpXy1vf39ysRLvkQVLEapc) | Vintage / Antique Hand Painted French Porcelain Lamps-Signed | 400 | 20 |
@@ -183,6 +184,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00U0U_es6SX3fgrBL_0CI0t2_300x300.jpg" width="120"> | 7968189717 | $45 | galveston | [SCALE VINTAGE TOLEDO #1361](https://www.craigslist.org/view/d/yoakum-scale-vintage-toledo-1361/mCABHPzKw6S5DnnBHmX9Ey) | Toledo Scale Vintage FOR SALE! - PicClick | 673 | 14.96 |
 | <img src="https://images.craigslist.org/00101_1D4r7jHdFPW_0g80c6_300x300.jpg" width="120"> | 7944870335 | $5 | chicago | [Vintage Rectangular Clear Glass 2 Handled Tray](https://www.craigslist.org/view/d/shorewood-vintage-rectangular-clear/3qDfVX7mMXsumMrdTHBd57) | Craigslist | 73 | 14.6 |
 | <img src="https://images.craigslist.org/01313_9PLeBMWHsYY_0CI0pK_300x300.jpg" width="120"> | 7958079032 | $100 | knoxville | [Vintage 1952 Baby Bassinet](https://www.craigslist.org/view/d/sevierville-vintage-1952-baby-bassinet/8MkzdidKCLuMoUUuMojSLw) | Note: Vintage baby furniture of this age generally does not  | 1450 | 14.5 |
+| <img src="https://images.craigslist.org/01313_kwREUG4gkh5_0t20CI_300x300.jpg" width="120"> | 7982694066 | $35 | losangeles | [Groucho Marx Figurine](https://www.craigslist.org/view/d/los-angeles-groucho-marx-figurine/5y8p1acj4CoycDPk5vs3hu) | Groucho Marx Figurine / eBay | 500 | 14.29 |
 | <img src="https://images.craigslist.org/00B0B_8L0dGvm8VuH_03S05a_300x300.jpg" width="120"> | 7933533603 | $77 | eastnc | [16" Sterling Silver Snake Chain Stamped Sterling 7](https://www.craigslist.org/view/d/cherry-point-16-sterling-silver-snake/v94LynjnJj4zZpymtbsT5E) | eBay | 1062 | 13.79 |
 | <img src="https://images.craigslist.org/00t0t_kzCThitqDuP_09b0bx_300x300.jpg" width="120"> | 7951120784 | $10 | honolulu | [Stud crystal Earrings](https://www.craigslist.org/view/d/pearl-city-stud-crystal-earrings/iowwjvUfX3S27RbgRxv5Af) | Les Haudères Midi Halo Stud Earrings - GENEVIVE | 136 | 13.6 |
 | <img src="https://images.craigslist.org/00E0E_1v0uet4PhYP_0CI0t2_300x300.jpg" width="120"> | 7963389252 | $25 | yuma | [Antique Wash Basin Set](https://www.craigslist.org/view/d/san-diego-antique-wash-basin-set/5s55CYunqeGexNZvRmaqBe) | W.H.Tatler Decorating Co. Wash Basin sold at auction on 22nd | 335 | 13.4 |
@@ -211,5 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00b0b_bN4UahmyTEd_0t20CI_300x300.jpg" width="120"> | 7941714611 | $25 | tulsa | [Vintage Loudspeaker](https://www.craigslist.org/view/d/wichita-vintage-loudspeaker/qsWLeXNEHhVrR8jCzq27Ew) | PUBLIC ADDRESS OR ALARM SPEAKER, COMMTRON, 8 OHM, 25 WATT .. | 279 | 11.16 |
 | <img src="https://images.craigslist.org/00s0s_2gph3zK6wRQ_0ew0gk_300x300.jpg" width="120"> | 7956666416 | $10 | jackson | [3 rings](https://www.craigslist.org/view/d/tuscaloosa-rings/rUqDyyWn7BSzB45p7NWZu5) | DESIGNER JD SIGNED STERLING SILVER NATURAL DIAMONDS HEARTS . | 110 | 11 |
 | <img src="https://images.craigslist.org/00c0c_f8hPPl3fJao_0CI0t2_300x300.jpg" width="120"> | 7936579124 | $10 | tallahassee | [Antique Hand Tools](https://www.craigslist.org/view/d/middleburg-antique-hand-tools/v97sNw3F95v5AFRjHRcha5) | 9 antique key hole saw Disston Atkins & more collectible ... | 109 | 10.9 |
-| <img src="https://images.craigslist.org/00J0J_ahhJcUknEIB_0t20CI_300x300.jpg" width="120"> | 7955093057 | $10 | nmi | [Vintage Wolverine Boots](https://www.craigslist.org/view/d/grand-rapids-vintage-wolverine-boots/uXLfdahf6sf452J3SeAc8Q) | eBay | 108 | 10.8 |
-| <img src="https://images.craigslist.org/00E0E_drLC8OlrYfK_0t20CI_300x300.jpg" width="120"> | 7949691101 | $25 | iowacity | [Vintage Hurricane Lamp 18"](https://www.craigslist.org/view/d/peoria-vintage-hurricane-lamp-18/mFSPCNnmSC18r41Ae6bETx) | vtg 1973 quoizel inc abigail adams floral hurricane parlor . | 270 | 10.8 |

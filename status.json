@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:20:01Z",
+ "updated": "2026-10-13T14:25:34Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5287,
-  "events": 15222,
+  "lens": 5312,
+  "events": 15247,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 853,
-  "queued": 953,
+  "lensed": 869,
+  "queued": 928,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 412,
-  "flagged": 606,
+  "queued/relens": 414,
+  "flagged": 613,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -964,6 +964,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950853313",
+   "title": "Patina Vie Mini Plate(s) - set of 2",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-patina-vie-mini-plates-set-of/7HsMNfQvAR2NmEiPFuGpU6",
+   "best": "Japan Ivory China - Etsy Canada",
+   "med": 323,
+   "ratio": 21.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7937567101",
    "title": "Vintage Egyptian Black Stone Pharoah's bust statue/ornament",
    "price": 20,
@@ -1291,6 +1302,17 @@
    "best": "Note: Vintage baby furniture of this age generally does not meet modern federal safety standards (such as stri",
    "med": 1450,
    "ratio": 14.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982694066",
+   "title": "Groucho Marx Figurine",
+   "price": 35,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-groucho-marx-figurine/5y8p1acj4CoycDPk5vs3hu",
+   "best": "Groucho Marx Figurine | eBay",
+   "med": 500,
+   "ratio": 14.29,
    "ai_value": ""
   },
   {
@@ -3989,6 +4011,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982674998",
+   "title": "Vintage butter churn",
+   "price": 75,
+   "area": "pueblo",
+   "url": "https://www.craigslist.org/view/d/pueblo-vintage-butter-churn/m2UEgadVNHjMUrDrGCbV81",
+   "best": "Antique Vintage Glass Dazey Butter Churn No 80 ~ Hand Crank ...",
+   "med": 255,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936641791",
+   "title": "Antique Cast Iron Ornate Oil Lantern Bracket",
+   "price": 20,
+   "area": "fargo",
+   "url": "https://www.craigslist.org/view/d/fargo-antique-cast-iron-ornate-oil/jiK2HgcwYhyDS9M2niZiYK",
+   "best": "Vintage Aluminum\ufffc Wall Sconce Victorian Lamp / Candle ...",
+   "med": 67,
+   "ratio": 3.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7928468737",
    "title": "Vintage Nascar jacket",
    "price": 75,
@@ -5210,6 +5254,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955529647",
+   "title": "Chicago Tribune Carrier Bag",
+   "price": 100,
+   "area": "racine",
+   "url": "https://www.craigslist.org/view/d/silver-lake-chicago-tribune-carrier-bag/iUvL5PRxzAWifJ9c5PKqgi",
+   "best": "Vintage CHICAGO TRIBUNE Newsboy Newspaper Mail Carrier Bag ...",
+   "med": 220,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7939657592",
    "title": "Browning Graphite Rod",
    "price": 40,
@@ -6222,6 +6277,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949995532",
+   "title": "LISMORE WATERFORD CRYSTAL CLARET  GLASSES",
+   "price": 100,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/manchester-lismore-waterford-crystal/1JjzvTfzASqsdcDqEKpRKe",
+   "best": "Waterford Crystal Rosslare Water Goblet Glass(es) 6 3/4\" H ...",
+   "med": 90,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7928450032",
    "title": "Light Green Tourmaline and Sterling Silver Ring",
    "price": 118,
@@ -6965,6 +7031,17 @@
    "area": "newjersey",
    "url": "https://www.craigslist.org/view/d/park-ridge-huge-galleria-style-oak-wall/9ACC6wn1DtrGvr6k1DLW6R",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948385480",
+   "title": "Vintage Swiss army knive from China old",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-swiss-army-knive/myfVpvpGMpskHnQ6rLD8ct",
+   "best": "My bladeless 91mm Victorinox Swiss Army Knife, the \u201cEuropean ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
