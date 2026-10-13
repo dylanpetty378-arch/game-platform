@@ -1,0 +1,59 @@
+# Bookshelf speakers (vintage hi-fi: AR, KLH, Advent, Bose 901/301, JBL, Klipsch, Boston Acoustics, Polk, Infinity, ADS, Rogers/Harbeth LS3/5A, KEF, B&W, Technics, Pioneer, Sony, Realistic Minimus)
+Updated: 2026-10-13 · Sources: general knowledge of eBay/hi-fi forum sold patterns (no sold data fetched; estimates, verify); Audiokarma community references (https://www.audiokarma.org) not fetched
+Slug: bookshelf-speakers · Aliases: bookshelf speakers, stereo speakers, home theater speakers, surround speakers, center channel, satellite speakers, monitors, hi-fi speakers, Realistic Minimus 7
+Summary: 1990s–2000s mass-market home-theater/rack-system satellites (Technics, Sony, Pioneer, Panasonic) $15–50/set; mid-tier vintage (Realistic Minimus 7, Boston A40, Polk Monitor 4) $40–120/pair; classic AR-2/AR-4x, KLH Six (too big), Advent Baby, JBL L-series small $100–400; LS3/5A, KEF/B&W/Rogers studio monitors $400–2,500.
+Buy rule (short): Pass rack-system/home-theater sets; buy only AR, KLH, Advent, JBL, KEF, B&W, Rogers/LS3/5A small monitors tested on video ≤ 1/3 comps.
+
+## What it is / how to recognise it in a photo
+Small boxed speakers with grilles. Value tells: walnut veneer cabinets (vs vinyl wood-grain wrap), rear spring terminals plus binding posts, metal badges, tweeter level controls (AR), BBC LS3/5A label on back, heavy cabinets. Low-value tells: vinyl wood-grain wrap on particle board, plastic badge, center-channel + satellite combos matching a 1990s rack receiver, "SB-" model numbers on Technics small satellites.
+
+## Makers, brands and variants
+- **Acoustic Research (AR)** AR-2ax, AR-4x, AR-7, AR-18; **KLH** Model 17/32; **Advent** Smaller/Baby Advent; **Boston Acoustics** A40/A60; **Polk**; **JBL** L-16/L-26, 4310 (big).
+- **British monitors**: Rogers/Spendor/Harbeth LS3/5A, KEF Cresta/Coda, B&W DM-series, Celestion.
+- **Japanese mass market**: Technics SB-, Pioneer CS-/S-, Sony SS-, Panasonic, Kenwood — mostly low value except 1970s large Pioneer/Technics (too big).
+
+## Materials, finishes and quality tells
+Real walnut veneer, sealed acoustic-suspension weight, cloth surrounds; foam surrounds rot (1970s–90s), needs refoaming = repair.
+
+## Condition, damage and repairs
+Foam rot, blown tweeters, pushed-in dust caps, veneer peeling, missing grilles.
+
+## Fakes, reproductions and reissues
+Unauthorized LS3/5A clones and kit versions; otherwise low.
+
+## Value ladder (sold prices, not asking)
+| Tier | Examples | Typical sold price | Notes |
+|---|---|---|---|
+| Junk | Technics/Sony/Pioneer HT satellites + center | $15–50/set (general knowledge, verify) | |
+| Mid | Realistic Minimus 7, Boston A40, Polk M4 | $40–120 (general knowledge, verify) | |
+| Classic | AR-4x/AR-7, Advent Baby, KLH 32, JBL L-16 | $100–400 (general knowledge, verify) | must play |
+| High | LS3/5A, KEF/Rogers monitors | $400–2,500 (general knowledge, verify) | |
+
+## Comps (sold, dated)
+No dated sold comps fetched this run. Sweep Lens median $35 consistent with junk tier.
+
+## Market
+Big category, fast for named classics; mass-market sets barely sell (shipping exceeds value).
+
+## What sellers usually miss
+AR and KLH small speakers with faded grilles in garage sales; LS3/5A labels on the back.
+
+## Shipping / handling
+Pairs 10–25 lb; $25–45 to ship, double-boxed. Shipping often > value for low tiers.
+
+## Selling it (for the buyer-facing listing)
+Video of each driver playing, surround condition, serials, cabinet photos.
+
+## Buy rule
+Speakers are electronics: tested on video required (no untested). Mass-market sets: pass. Classic small monitors with median ≥ $250 and price ≤ $80 only.
+
+## Rubric
+```json
+{"size_class": "passenger-seat", "weight_lb": 15, "shape": "set-of-many",
+ "fragility": 3, "transit_damage_risk": 3, "hidden_defect_risk": 4, "testability": 3, "repro_risk": 1, "id_difficulty": 2,
+ "rarity": 2, "sold_per_month": 2000, "sell_through": "40%", "days_to_sell": 21, "price_p25_p50_p75": [30, 70, 180], "price_spread": 6.0,
+ "condition_sensitivity": 4, "seasonality": "none", "best_platform": "eBay / local", "fees_pct": 13, "ship_cost_to_buyer": 35,
+ "undervalue_frequency": 3, "bust_probability": "75%", "expected_profit_typical": -20, "confidence": "low"}
+```
+## Seen in sweeps
+- 2026-10-13 – craigslist – "Vintage Technics Speakers" – $50 – pass – late-1990s Technics home-theater set: center channel (SB-C11 type) + two small satellites (SB-S17 type), vinyl wood-grain wrap; est. resale $20–40; shipping exceeds value.

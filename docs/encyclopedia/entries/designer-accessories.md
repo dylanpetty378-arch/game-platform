@@ -1,0 +1,67 @@
+# Designer accessories — boxed small accessories and gift sets (Yves Saint Laurent, Christian Dior, Pierre Cardin, Givenchy, Lanvin, Cartier "Must de", Dunhill, Gucci)
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Google Lens result in batch b27 (pid 7932566752, Lens median $342 — asking prices, unverified)
+Slug: designer-accessories · Aliases: YSL collection, vintage YSL box, designer gift set, cufflinks set, tie bar set, keychain, money clip, designer pen set, designer lighter, licensed accessories
+Summary: licensed 1970s–90s gift-box accessories (keychains, tie bars, cufflinks, pens, combs) $15–60; better metal/enamel pieces and lighters $40–150; true house-made fine jewelry/leather/Cartier/Dunhill lighters $150–600+ (general knowledge, verify)
+Buy rule (short): Only buy when the contents are visible and identifiable as a sought piece under ~1/4 of its sold median; an empty or closed box is a pass, and anything needing authentication is out of scope.
+
+## What it is / how to recognise it in a photo
+Small branded accessories sold in gift boxes during the licensing boom of the 1970s–90s, when YSL, Dior, Cardin, Givenchy and others licensed their names to accessory makers (Swank, Anson, Hickok-style men's jewelry makers; Japanese and European pen/lighter makers). Typical items: cufflinks and tie bars, keyrings, money clips, ballpoint pens, cigarette lighters, compacts, combs, belts, scarves. Boxes: dark navy/black card with gold foil logo ("YVES SAINT LAURENT Collection", the YSL cassandre monogram), often with coloured stripes; a long box (~8–10" × 2–3") usually held a pen, pen-and-pencil set, tie bar, comb or keychain pair.
+
+## Makers, brands and variants
+- **Yves Saint Laurent (licensed)** — 1970s–90s Japan-market and US gift sets: pens, lighters (YSL gas lighters were made under licence, sought by lighter collectors), cufflinks, keyrings, ties. The "Collection" long navy box with blue/gold stripes is a common Japanese-market gift box.
+- **Christian Dior, Givenchy, Lanvin, Pierre Cardin, Nina Ricci** — similar licensed accessories; Cardin is the most diluted (lowest values).
+- **Cartier "Must de Cartier"** — lighters, pens, keyrings; high value, heavily faked; needs authentication.
+- **Dunhill** — lighters (Rollagas), pens; high value; fakes exist.
+- **Gucci, Hermès** — leather goods and jewelry; heavily faked; out of scope under Dylan's rules.
+
+## Materials, finishes and quality tells
+- Licensed costume pieces: gold-tone or silver-tone plated base metal, enamel inserts, stamped logo; light weight. Value mostly as vintage-fashion items.
+- Better: sterling marks (925/Sterling), gold-filled marks, solid-feeling weight, signed clasp mechanisms, lighters with maker stamps and serials (e.g., Dunhill patent numbers).
+- Box condition and inserts add ~20–40% for gift-set collectors; empty boxes alone sell for a few dollars to ~$20.
+- Japanese-market sets often include a card "Made in Japan" with the licensor — legit licensed, not counterfeit.
+
+## Condition, damage and repairs
+Plating wear (brassing), missing enamel, bent tie-bar springs, dead lighter flints/seals, dried pens. Box scuffs, crushed corners, foil wear (visible on pid 7932566752's box edges).
+
+## Fakes, reproductions and reissues
+High fake risk for Cartier, Dunhill, Hermès, Gucci and for YSL jewelry sold on resale platforms. Licensed vintage YSL/Dior gift sets are rarely faked because values are low. Anything priced as "authentic designer" over ~$150 should be treated as needing professional authentication → out of scope for Dylan.
+
+## Value ladder (sold prices, not asking)
+| Tier | Examples | Typical sold price | Notes |
+|---|---|---|---|
+| Empty box | YSL/Dior gift box, no contents | $5–20 | display only |
+| Licensed costume | YSL/Dior/Givenchy keyring, tie bar, cufflinks, comb | $15–60 | boxed adds 20–40% |
+| Pens/lighters | YSL ballpoint set, YSL/Dior gas lighter (working) | $40–150 | lighters need testing |
+| High | Cartier Must / Dunhill lighters & pens, sterling pieces | $150–600+ | authentication needed — out of scope |
+All general knowledge, verify.
+
+## Comps (sold, dated)
+No sold comps verified this run (no web search; no comps.jsonl rows). The $342 Lens median is driven by complete boxed watch/lighter listings at asking prices — not representative of an unopened box of unknown contents.
+
+## Market
+Liquid for recognisable items; slow for generic licensed cufflinks/keyrings. Japan and Europe sellers flood eBay with similar sets. Order of magnitude 100s/month across all "vintage YSL accessories" (general knowledge, verify).
+
+## What sellers usually miss
+- Owners rarely know whether the box holds costume plate or sterling — open box photos are essential.
+- Licensed YSL/Dior gas lighters and pens have collector demand beyond fashion buyers.
+- Conversely, sellers over-price the box name; most YSL gift boxes contain $20–40 items.
+
+## Shipping / handling
+Small, light (< 1 lb). Bubble mailer in a small box, $5–8 to buyer. Lighters must ship empty of fuel (USPS ground only; no butane).
+
+## Selling it (for the buyer-facing listing)
+Describe as "vintage licensed Yves Saint Laurent" accessory where applicable; photograph every mark, the box, inserts and any wear; state metal content only if marked; test lighters/pens and say so. Avoid "authentic" claims you cannot prove.
+
+## Buy rule
+Contents must be visible and identifiable. Profit = median × 0.87 − ~$8 − ~$8 − price ≥ max($50, price). For a $40 typical YSL set this means buying at ≤ ~$0 — so only pens/lighters/sterling pieces with a ≥ $150 median at ≤ $50 qualify. Pass on anything needing authentication (Cartier, Dunhill, Hermès, Gucci high-end) per Dylan's rules. Closed-box listings: ask the seller for an open photo or pass.
+
+## Rubric
+```json
+{"size_class": "pocket", "weight_lb": 0.5, "shape": "flat",
+ "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 3, "testability": 2, "repro_risk": 4, "id_difficulty": 3,
+ "rarity": 2, "sold_per_month": 200, "sell_through": "40%", "days_to_sell": 21, "price_p25_p50_p75": [20, 40, 80], "price_spread": 4,
+ "condition_sensitivity": 3, "seasonality": "Q4 gift season", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 6,
+ "undervalue_frequency": 2, "bust_probability": "65%", "expected_profit_typical": 0, "confidence": "low"}
+```
+## Seen in sweeps
+- 2026-10-13 – craigslist – "YvesSaintLaurent Vintage Collection" – $100 – pass (ask seller only if curious) – Photo shows only a closed 1980s–90s navy "Yves Saint Laurent Collection" long gift box (blue/gold stripes, foil wear on edge); contents unknown, likely licensed pen/tie bar/keyring set worth $20–60. Lens $342 is asking-price noise. Profit negative at $100.

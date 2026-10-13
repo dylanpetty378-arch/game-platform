@@ -1,0 +1,60 @@
+# Beaded fruit décor (1960s–70s pinned/sequin "beaded fruit", wired glass-bead fruit, modern sugared/beaded faux fruit)
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run)
+Slug: beaded-fruit-decor · Aliases: beaded fruit centerpiece, sugared fruit, sequin fruit, pinned bead fruit, glass bead grapes, MCM beaded fruit, faux fruit bowl, sugar beaded fruit
+Summary: modern sugared/microbead faux fruit $2–6/pc, lots $15–35; 1960s pinned-bead/sequin fruit $5–15/pc, bowls $30–80; wired glass-bead (Czech/Italian) fruit and grapes $20–60/pc (general knowledge, verify)
+Buy rule (short): Only pinned-bead/sequin or wired glass-bead vintage fruit in large lots under ~$15 qualify; modern sugared microbead fruit is always a pass.
+
+## What it is / how to recognise it in a photo
+Decorative faux fruit. Three families:
+- **1960s–70s pinned/sequin fruit**: Styrofoam forms covered with sequins and seed beads held by straight pins — home craft kits and Hong Kong/Japan imports. Visible pin heads in rows; sequin sheen.
+- **Wired glass-bead fruit/grapes** (Czech, Italian, Japanese, 1920s–60s): grapes and berries of blown or pressed glass beads on wire stems; heavier; true collector item.
+- **Modern sugared / microbead fruit** (1990s–now, Pottery Barn, Hobby Lobby, Kirkland's): foam fruit rolled in tiny glass or plastic microbeads giving a frosted, granular "sugared" look; no pins, uniform granular coating, plastic stems.
+
+## Makers, brands and variants
+Mostly unbranded. Glass-bead fruit: Czech (Bohemian) and Italian (Venetian) workshops; Japanese export. Modern: Pottery Barn, Williams-Sonoma, Hobby Lobby, generic Chinese import.
+
+## Materials, finishes and quality tells
+Glass beads cold to touch, heavier, individual beads on wire = old/valuable. Sequins pinned in overlapping rows = 1960s craft (modest). Even granular frosting with no individual beads/pins = modern (low).
+
+## Condition, damage and repairs
+Shed beads, crushed foam, sun fading, missing leaves/stems, dust. Glass beads chip.
+
+## Fakes, reproductions and reissues
+Modern sugared fruit is often listed as "vintage". New Chinese glass-bead grapes exist (lighter, uniform plastic-coated wire).
+
+## Value ladder (sold prices, not asking)
+| Tier | Examples | Typical sold price | Notes |
+|---|---|---|---|
+| Modern | sugared/microbead fruit lot of 8–12 | $15–35 | decorator |
+| MCM pinned/sequin | bowl of 6–10 pieces | $30–80 | MCM/kitsch buyers |
+| Glass bead | Czech/Italian glass-bead grapes or fruit | $20–60 each, more for large clusters | collectors |
+General knowledge, verify.
+
+## Comps (sold, dated)
+No sold comps verified this run (no web search; none in comps.jsonl). Lens returned no match for pid 7955526588.
+
+## Market
+Seasonal décor; moderate volume, low prices. Order of magnitude 50–150 sold/month.
+
+## What sellers usually miss
+Real wired glass-bead grapes mixed into faux-fruit lots.
+
+## Shipping / handling
+Light but bulky; box padded, $10–15.
+
+## Selling it (for the buyer-facing listing)
+Count and name the pieces; specify sequin/pin, glass bead or modern sugared; note bead loss.
+
+## Buy rule
+Needs median ≥ ~$95 at a $10 price after ~$25 shipping total — only large vintage glass-bead lots qualify. Pass on modern sugared fruit.
+
+## Rubric
+```json
+{"size_class": "carry-on", "weight_lb": 3, "shape": "set-of-many",
+ "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 2, "testability": 1, "repro_risk": 3, "id_difficulty": 2,
+ "rarity": 2, "sold_per_month": 80, "sell_through": "35%", "days_to_sell": 30, "price_p25_p50_p75": [15, 28, 50], "price_spread": 3.3,
+ "condition_sensitivity": 3, "seasonality": "fall/holiday", "best_platform": "eBay / Etsy", "fees_pct": 13, "ship_cost_to_buyer": 12,
+ "undervalue_frequency": 2, "bust_probability": "80%", "expected_profit_typical": 0, "confidence": "low"}
+```
+## Seen in sweeps
+- 2026-10-13 – craigslist – "BEADED FRUIT CENTERPIECE-VINTAGE" – $10 – pass – Modern sugared/microbead faux fruit (apples, pears, pomegranate, pumpkin, berry clusters; uniform granular frost, no pins) in a turned wooden bowl, 1990s–2010s decorator stock. Est. resale $20–35.

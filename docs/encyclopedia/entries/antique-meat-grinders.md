@@ -1,0 +1,61 @@
+# Antique meat grinders (Enterprise, Universal/Landers Frary & Clark, Chop-Rite, Keystone, Griswold, Hussmann, Alexanderwerk, Spong)
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Google Lens result batch b27 (pid 7966891926, Lens median $55)
+Slug: antique-meat-grinders · Aliases: food chopper, sausage grinder, cast iron grinder, butcher grinder, Enterprise No. 10/22/32, Chop-Rite, Universal food chopper, meat mincer
+Summary: common clamp-on household choppers (Universal, Keystone, Enterprise #5/#10) $15–40; large table/butcher grinders #22/#32 $50–150; early decorative Enterprise/coffee-mill crossovers and complete store models $150–400 (general knowledge, verify)
+Buy rule (short): Buy only large-number (#22/#32) or decorative early store grinders under ~$40 that a car seat can hold; common clamp-on choppers are a pass.
+
+## What it is / how to recognise it in a photo
+Hand-cranked cast iron grinders: hopper, barrel with worm (auger), knife and perforated plate, ring nut, crank. Sizes are numbered (Enterprise #5, #10, #12, #22, #32 — bigger number = bigger). Household clamp-on models are small; butcher/table models bolt down and weigh 20–40+ lb. Embossed maker name on the barrel or hopper.
+
+## Makers, brands and variants
+- **Enterprise Mfg Co. (Philadelphia)** 1866–1950s: the main collectible maker; tinned and japanned finishes, patent dates; large store models.
+- **Chop-Rite (Pottstown, PA)** — successor to Enterprise patterns, still made.
+- **Landers, Frary & Clark "Universal"** — tinned clamp-on food choppers; very common, low value.
+- **Keystone, Griswold (#1–#4 food choppers), Rollman, Alexanderwerk (Germany), Spong (UK)**.
+- **Hussmann (St. Louis, MO)** — Hussmann-Ligonier refrigeration/meat-counter equipment company; Hussmann-marked hand grinders were sold to butcher shops/grocers (likely rebranded heavy table grinders). Uncommon name but no strong collector premium (general knowledge, verify).
+
+## Materials, finishes and quality tells
+Cast iron with tinning (silvery) or japanning (black). Red paint with gold pinstripes = original store-model finish (premium). Complete with original knife, plate and crank; matching numbers.
+
+## Condition, damage and repairs
+Rust (heavy surface rust common), cracked castings, missing plates/knives, sandblasted/repainted (reduces collector value), seized worm.
+
+## Fakes, reproductions and reissues
+Asian cast-iron repros of decorative Enterprise coffee mills exist; for grinders, Chop-Rite reissues and modern Porkert/Chinese clones (light, rough castings, no patent dates).
+
+## Value ladder (sold prices, not asking)
+| Tier | Examples | Typical sold price | Notes |
+|---|---|---|---|
+| Common | Universal #1–3, Keystone, Enterprise #5/#10 | $15–40 | glut |
+| Large | Enterprise/Chop-Rite #22/#32, Hussmann table grinders | $50–150 | heavy, shipping cost bites |
+| Store/decorative | painted store models, early patents | $150–400 | collectors |
+General knowledge, verify.
+
+## Comps (sold, dated)
+No sold comps verified this run. Lens median $55 (asking).
+
+## Market
+Large supply; steady demand from homesteaders (users) and kitchen collectors. Several hundred sold/month across all grinders (order of magnitude).
+
+## What sellers usually miss
+Original painted store finish under grime; the number size; matched-maker plates/knives worth $10–20 each separately.
+
+## Shipping / handling
+Heavy: #22 ~15–20 lb, #32 ~25–35 lb. Shipping $25–45 to buyer — kills most margins.
+
+## Selling it (for the buyer-facing listing)
+Give maker, size number, weight, completeness (plate hole size, knife), rust level, whether it turns freely.
+
+## Buy rule
+Profit = median × 0.87 − ship to buyer ($25–45) − ship to Dylan − price ≥ max($50, price). A $120 grinder bought at $20 ≈ $104 − $35 − $30 − $20 = $19 → pass. Only painted store models (median ≥ $250) at ≤ $50 work.
+
+## Rubric
+```json
+{"size_class": "carry-on", "weight_lb": 20, "shape": "irregular",
+ "fragility": 1, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 2, "repro_risk": 2, "id_difficulty": 2,
+ "rarity": 2, "sold_per_month": 300, "sell_through": "40%", "days_to_sell": 30, "price_p25_p50_p75": [25, 45, 90], "price_spread": 3.6,
+ "condition_sensitivity": 3, "seasonality": "fall (hunting/sausage season)", "best_platform": "eBay / local", "fees_pct": 13, "ship_cost_to_buyer": 35,
+ "undervalue_frequency": 2, "bust_probability": "80%", "expected_profit_typical": -10, "confidence": "low"}
+```
+## Seen in sweeps
+- 2026-10-13 – craigslist – "Vintage Hussmann meat grinder" – $75 – pass – Close-up shows "HUSSMANN ST. LOUIS, MO." embossed barrel, heavy rust, large butcher/table cast-iron grinder (likely 20+ lb). Est. resale $50–100; heavy shipping makes profit negative at $75.
