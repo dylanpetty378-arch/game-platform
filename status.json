@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:09:00Z",
+ "updated": "2026-10-13T14:13:03Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5212,
-  "events": 15147,
+  "lens": 5237,
+  "events": 15172,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 813,
-  "queued": 1028,
+  "lensed": 828,
+  "queued": 1003,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 398,
-  "flagged": 585,
+  "queued/relens": 402,
+  "flagged": 591,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -887,6 +887,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982664483",
+   "title": "Chanel pearls",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-chanel-pearls/wztJ5CjDnmDff88v6TZT7X",
+   "best": "Pinterest",
+   "med": 2299,
+   "ratio": 22.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7954059282",
    "title": "Antique 18x23 Painting of Young Woman/Girl w/Flowers",
    "price": 125,
@@ -1281,6 +1292,17 @@
    "med": 335,
    "ratio": 13.4,
    "ai_value": "sell or are valued between $40"
+  },
+  {
+   "pid": "7972557738",
+   "title": "OLD  GERMAN Grandfather clock works",
+   "price": 30,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/manchester-old-german-grandfather-clock/g2zLYfpwdTxRYhhJbjT6Xg",
+   "best": "Urgos 03011 03011A Grandfather Clock Movement USED ...",
+   "med": 402,
+   "ratio": 13.4,
+   "ai_value": ""
   },
   {
    "pid": "7952131916",
@@ -3230,6 +3252,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936582202",
+   "title": "Antique aqua glass 3 gallon bottle",
+   "price": 50,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/west-topsham-antique-aqua-glass-gallon/gy5SXoQfaXvJiR9hKogvas",
+   "best": "eBay",
+   "med": 228,
+   "ratio": 4.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7949565069",
    "title": "vintage tyco, Lego-like telephone",
    "price": 50,
@@ -3701,6 +3734,17 @@
    "med": 150,
    "ratio": 3.75,
    "ai_value": ""
+  },
+  {
+   "pid": "7979360226",
+   "title": "Amtrak Train Conductor Badge Pin Metal",
+   "price": 40,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-amtrak-train-conductor/caUMtCWJpF7DGige1QWLDC",
+   "best": "Track record: Montana man amasses cross-country collection ...",
+   "med": 150,
+   "ratio": 3.75,
+   "ai_value": "Value: Similar vintage Amtrak badge plates typically sell between $30"
   },
   {
    "pid": "7973122896",
@@ -4238,6 +4282,17 @@
    "url": "https://www.craigslist.org/view/d/denver-1940s-ronson-lighter-silver/39U741tTiy9f75oMaXUVzA",
    "best": "Vintage Ronson \"Decanter\" Table Cigarette Lighter- Silver ...",
    "med": 105,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980445200",
+   "title": "Antique \"Stanley\" brand folding carpenters rule 24\"",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/englewood-antique-stanley-brand-folding/bmXZivp5CHocyX8hyBPrcR",
+   "best": "Lufkin No.881d 24 Inch Warranted Boxwood Brass Bound Folding ...",
+   "med": 75,
    "ratio": 3,
    "ai_value": ""
   },
@@ -6737,6 +6792,17 @@
    "med": null,
    "ratio": null,
    "ai_value": "Value: Ungraded or lower-grade copies typically sell for roughly $60 to $150,"
+  },
+  {
+   "pid": "7955200683",
+   "title": "Huge Galleria Style Oak Wall Clock 4 Feet Round Vintage",
+   "price": 100,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/park-ridge-huge-galleria-style-oak-wall/9ACC6wn1DtrGvr6k1DLW6R",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   }
  ],
  "finds": [
