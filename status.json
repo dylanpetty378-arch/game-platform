@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:11:36Z",
+ "updated": "2026-10-13T06:15:15Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2204,
-  "events": 9739,
+  "lens": 2229,
+  "events": 9764,
   "comps": 529,
-  "item_types": 754,
+  "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3236,
+  "queued": 3211,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 42,
-  "lensed": 33
+  "flagged": 59,
+  "lensed": 41
  },
  "last_harvests": [
   {
@@ -268,6 +268,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7956243087",
+   "title": "Vintage Ikea Home Decorative Vase",
+   "price": 10,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-vintage-ikea-home-decorative-vase/ohEZdsgh29FVDT4WBTkJ5j",
+   "best": "Etsy",
+   "med": 439,
+   "ratio": 43.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929521392",
+   "title": "sterling silver-gold vermeil 17'' faceted beaded necklace-italy",
+   "price": 40,
+   "area": "wyoming",
+   "url": "https://www.craigslist.org/view/d/masonville-sterling-silver-gold-vermeil/6PWUiYn593SFnQC1eipPjT",
+   "best": "Etsy",
+   "med": 1320,
+   "ratio": 33,
+   "ai_value": ""
+  },
+  {
    "pid": "7944876721",
    "title": "Antique Framed Photo",
    "price": 29,
@@ -309,6 +331,17 @@
    "best": "1stDibs",
    "med": 395,
    "ratio": 15.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933224071",
+   "title": "Earrings and Cuff Bracelet",
+   "price": 20,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-earrings-and-cuff-bracelet/4ohVTf7hHt4aeP1uReHVig",
+   "best": "Cuff Bracelet: An open cuff design featuring two parallel rows of rectangular bright-turquoise-colored stones ",
+   "med": 280,
+   "ratio": 14,
    "ai_value": ""
   },
   {
@@ -356,6 +389,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980183291",
+   "title": "Antique Qing Dynasty China Famille Rose Octagonal Bowl",
+   "price": 20,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/goleta-antique-qing-dynasty-china/73krSz9f3cbHzoxjPMbzZw",
+   "best": "Antique Qing Dynasty Turquoise Enameled Small Lobed Floral ...",
+   "med": 175,
+   "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7939474101",
    "title": "two framed floral oil paintings-signed",
    "price": 20,
@@ -397,6 +441,17 @@
    "best": "Squier By Fender MA-1 Natural 3/4-Size 6-String 18-Fret RH ...",
    "med": 220,
    "ratio": 6.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971454503",
+   "title": "Vintage Womens FMC Woven 925 Italy silver",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buda-vintage-womens-fmc-woven-925-italy/stbbpwWXJfNKmjRW3D6cCw",
+   "best": "Poshmark",
+   "med": 580,
+   "ratio": 5.8,
    "ai_value": ""
   },
   {
@@ -455,6 +510,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982578980",
+   "title": "vintage Paul Jarman Trumpet",
+   "price": 45,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-vintage-paul-jarman/99YccvcJVkCnqwKFGqepMP",
+   "best": "vintage Paul Jarman Trumpet With Case, project | eBay",
+   "med": 200,
+   "ratio": 4.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931825970",
+   "title": "Vintage Plaster Bust Signed Triarn Tiam, Paris",
+   "price": 50,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/lake-worth-vintage-plaster-bust-signed/gGX5KHLzGnjkTg4zngj9Pj",
+   "best": "Nach Jean-Baptiste Lemoyne | French",
+   "med": 222,
+   "ratio": 4.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7957188755",
    "title": "Antique Oil Painting",
    "price": 100,
@@ -474,6 +551,17 @@
    "best": "Craigslist",
    "med": 400,
    "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952660842",
+   "title": "1960's Vintage Ceramic Coffee Pot",
+   "price": 35,
+   "area": "gulfport",
+   "url": "https://www.craigslist.org/view/d/diberville-1960s-vintage-ceramic-coffee/waNuPWLDnT47KvrurXAQRn",
+   "best": "Vintage 1960s Melitta Germany Porcelain Coffee Pot ... - eBay",
+   "med": 133,
+   "ratio": 3.8,
    "ai_value": ""
   },
   {
@@ -543,6 +631,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977539310",
+   "title": "Vintage Elephant-Decorated Ceramic Vase 8.5\u201dH x 8\u201dD",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-vintage-elephant-decorated/feNoyTJySie4F34iXA7haA",
+   "best": "Palm Beach Regency",
+   "med": 88,
+   "ratio": 2.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7947228983",
    "title": "Vintage Erma Gilliland Duncan Wall Art 1906",
    "price": 25,
@@ -573,6 +672,39 @@
    "best": "4 Vintage Fostoria WHISPER 6089 CHAMPAGNE Goblet Sherbet ...",
    "med": 70,
    "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945791393",
+   "title": "Vintage -Gold-tone Geneva quartz watch",
+   "price": 50,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-vintage-gold-tone-geneva/tL9tnphxRUoSibGUbfAvo9",
+   "best": "Craigslist",
+   "med": 135,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949344551",
+   "title": "HANDMADE COPPER ART NATIVE AMERICAN INDIAN POTTERY SIGNED OBERKIRSCH",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-handmade-copper-art-native/2UJ6jEHfDj7KnMP8LJFH6C",
+   "best": "Similar Items to Framed Original Signed Modern Arts & Crafts ...",
+   "med": 98,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941178165",
+   "title": "Vintage Hand Etched Metal Copper Vase Marked Made in Egypt",
+   "price": 50,
+   "area": "fredericksburg",
+   "url": "https://www.craigslist.org/view/d/fredericksburg-vintage-hand-etched/2ScSFRDmNGL94M82Y4Pq6i",
+   "best": "Rare Vintage Pyramid Egypt Patina Copper Ribbed Ornate 5 ...",
+   "med": 118,
+   "ratio": 2.36,
    "ai_value": ""
   },
   {
@@ -620,6 +752,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7960046610",
+   "title": "Antique Oil Lantern",
+   "price": 55,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-antique-oil-lantern/4sGAkqLrsJmMFcBL6nM8an",
+   "best": "Antique KEROSENE LANTERN Original Dietz No.2 Wizard ...",
+   "med": 100,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955772740",
+   "title": "Beautiful vintage sterling silver and jade bangle",
+   "price": 200,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/holly-hill-beautiful-vintage-sterling/xrx6ZmsUQ2W6JkutNf8kkk",
+   "best": "Stones: Inlaid curved sections of genuine multi-color jade (typically featuring shades such as lavender/purple",
+   "med": 364,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7938667900",
    "title": "Veronese Vase--Egyptian Design",
    "price": 75,
@@ -664,6 +818,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7948267612",
+   "title": "LARGE 11\" VINTAGE SIGNED ANDERSON SMITH NAVAJO AMERICAN INDIAN POTTERY",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-large-11-vintage-signed/w7V4tv6PpmHRHR2UmxFDCd",
+   "best": "DECO164 Navajo etched pottery - Harpo Paris",
+   "med": 95,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946222120",
+   "title": "Vintage China Cloisonne vase",
+   "price": 105,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-vintage-china-cloisonne-vase/uoZFLNRHL4FfQqRhUFB5Rx",
+   "best": "Technique: Cloisonn\u00e9 (thin metal wires forming cellular compartments filled with enamel and fired).",
+   "med": 100,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7945305454",
    "title": "Vintage Primative Castle Painting",
    "price": 100,
@@ -672,6 +848,17 @@
    "best": "Vintage Oil Painting depicting a European Castle Unknown ...",
    "med": 85,
    "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955763245",
+   "title": "Vintage sterling silver native American cuff with turquoise stone",
+   "price": 185,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/holly-hill-vintage-sterling-silver/3noVv6NUHkvkm5Bb8tiaru",
+   "best": "Craigslist",
+   "med": 145,
+   "ratio": 0.78,
    "ai_value": ""
   },
   {
