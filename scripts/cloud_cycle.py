@@ -122,6 +122,30 @@ def build_queue(maxn=3000, days=10):
     json.dump({'id': qid, 'n': len(pend), 'made': db.now()}, open(os.path.join(ROOT, 'q', 'current', 'meta.json'), 'w'))
     print(f'queue {qid}: {len(pend)} pending'); return len(pend)
 
+def liveness(maxn=400):
+    """Re-check open leads (flagged, photo-review keepers, finds) and log `expired` when the posting is gone (HTTP 404/410
+    or a deletion notice). Only dead listings get an event, so this never spams the log. Saves review time on dead items."""
+    import urllib.request, urllib.error, re as _re
+    from concurrent.futures import ThreadPoolExecutor
+    cur = latest_stage(); L = {str(r['pid']): r for r in db.read('listings')}
+    open_ = [p for p, e in cur.items() if (e['stage'] == 'flagged' or (e['stage'] == 'photo_review' and e.get('status') == 'keep')
+             or (e['stage'] in ('identified', 'comps', 'decided', 'contacted') and e.get('status') not in ('kill', 'pass'))) and (L.get(p) or {}).get('url')]
+    open_ = open_[:maxn]
+    def chk(p):
+        try:
+            rq = urllib.request.Request(L[p]['url'], headers={'User-Agent': 'Mozilla/5.0 (Macintosh)'})
+            h = urllib.request.urlopen(rq, timeout=20).read().decode('utf8', 'ignore')
+            return p, 'dead' if _re.search(r'has been deleted|has expired|flagged for removal', h) else ('live' if 'postingbody' in h else '?')
+        except urllib.error.HTTPError as e:
+            return p, 'dead' if e.code in (404, 410) else '?'
+        except Exception:
+            return p, '?'
+    with ThreadPoolExecutor(8) as ex: res = list(ex.map(chk, open_))
+    dead = [p for p, r in res if r == 'dead']
+    db.append('events', [{'ts': db.now(), 'pid': p, 'stage': 'expired', 'run': 'liveness',
+                          'note': f"posting gone (was {cur[p]['stage']}/{cur[p].get('status') or ''})"} for p in dead])
+    print(f"liveness: {len(open_)} open leads checked, {len(dead)} expired, {sum(1 for _, r in res if r == '?')} unknown"); return len(dead)
+
 def status():
     cur = latest_stage(); L = {str(r['pid']): r for r in db.read('listings')}
     lens = {}
@@ -168,4 +192,6 @@ if __name__ == '__main__':
     ap.add_argument('--no-harvest', action='store_true'); a = ap.parse_args()
     ingest_inbox()
     if not a.no_harvest: harvest_and_select(a.hours, a.per_cycle)
+    try: liveness()
+    except Exception as e: print('liveness failed', e)
     build_queue(); status()

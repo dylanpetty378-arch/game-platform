@@ -34,6 +34,8 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   Terapeak helper JS.
 - `docs/review-cycle.md` + Claude scheduled task "Refurbish review cycle" (every 6 h, cloud): Stage 2/3 now runs
   without anyone opening a chat. Messages Dylan only for Tier A/B finds or breakage.
+- Liveness in every cloud cycle (`cloud_cycle.liveness`): open leads (flagged, keepers, finds) re-fetched; HTTP 404/410
+  or a deletion notice → `expired` event, so dead listings drop off STATUS and out of review. First run: 47 checked, 0 dead.
 - Gotcha: raw.githubusercontent.com caches a branch file ~5 min; a local `origin/<branch>` ref can be stale — check
   with `git fetch` + `merge-base --is-ancestor` before concluding a push failed.
 
