@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T08:47:43Z",
+ "updated": "2026-10-13T08:51:33Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3179,
-  "events": 10965,
+  "lens": 3204,
+  "events": 10990,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 443,
-  "queued": 2261,
+  "lensed": 456,
+  "queued": 2236,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 341,
-  "flagged": 324,
+  "flagged": 336,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -445,6 +445,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954118992",
+   "title": "VINTAGE SKATEBOARDING PLAQUES",
+   "price": 10,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-skateboarding-plaques/4fP6z1W2pZgpp1WULxo6H1",
+   "best": "Blockhead Jim Gray Complete Skateboard Vision Big Wheels ...",
+   "med": 300,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
    "pid": "7951007261",
    "title": "Vintage Fukagawa porcelain blue and white vase with a bamboo decoratio",
    "price": 95,
@@ -629,6 +640,28 @@
    "best": "Montmartre Artist Watercolor - Etsy",
    "med": 445,
    "ratio": 17.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953946555",
+   "title": "ANTIQUE BEVELED GLASS MIRROR",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/prescott-antique-beveled-glass-mirror/ks2mPSSEz3yLDkRmVMtvUn",
+   "best": "\u2728 Mirror, mirror\u2026 we've got them all \u2728 From vintage ...",
+   "med": 1750,
+   "ratio": 17.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974248028",
+   "title": "Antique Brass Bed",
+   "price": 75,
+   "area": "pullman",
+   "url": "https://www.craigslist.org/view/d/stevensville-antique-brass-bed/k8dqDhJaEYDjCdx2UBq7Tk",
+   "best": "Antique Victorian Metal Double/Full Size Bed Frame With ...",
+   "med": 1298,
+   "ratio": 17.31,
    "ai_value": ""
   },
   {
@@ -915,6 +948,17 @@
    "best": "Turquoise, Coral and Pearl Bracelet, Seed Bead Jewelry - Etsy",
    "med": 199,
    "ratio": 10.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970844237",
+   "title": "Brass Vintage Ceiling Lights",
+   "price": 50,
+   "area": "wv",
+   "url": "https://www.craigslist.org/view/d/apollo-brass-vintage-ceiling-lights/pE5Uf7TavpadDCST3Bzugk",
+   "best": "Progress Lighting Beveled Glass 3-Light Polished Brass Flush ...",
+   "med": 520,
+   "ratio": 10.4,
    "ai_value": ""
   },
   {
@@ -1325,6 +1369,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944508498",
+   "title": "Vintage cans",
+   "price": 10,
+   "area": "scottsbluff",
+   "url": "https://www.craigslist.org/view/d/eaton-vintage-cans/pWvDUWUsyvqq3FA59G6WWm",
+   "best": "Kettle Lard Metal Tin Bucket 50 LB Size Central Abattoir Co ...",
+   "med": 65,
+   "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7980993249",
    "title": "Antique brass",
    "price": 20,
@@ -1366,6 +1421,17 @@
    "best": "Henri-Louis Duhamel du Monceau - Botanical Study of Fruits ...",
    "med": 395,
    "ratio": 6.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982315565",
+   "title": "vintage hand saw",
+   "price": 25,
+   "area": "imperial",
+   "url": "https://www.craigslist.org/view/d/hemet-vintage-hand-saw/npzH49vDzBfztjgHPQozZT",
+   "best": "VINTAGE ANTIQUE CROSS CUT WOOD BUCK / BOW SAW 30in | eBay",
+   "med": 150,
+   "ratio": 6,
    "ai_value": ""
   },
   {
@@ -1597,6 +1663,17 @@
    "best": "Vintage Floral Still Life Large Framed Elmer Greene Print ...",
    "med": 260,
    "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954209044",
+   "title": "Glassware...some vintage",
+   "price": 50,
+   "area": "porthuron",
+   "url": "https://www.craigslist.org/view/d/royal-oak-glasswaresome-vintage/1XwUrRBuNDPS2iBGe6fVth",
+   "best": "Vtg Bryce AUTUMN Cut to Gray Set of 6-4 3/4\" Low Champagne ...",
+   "med": 256,
+   "ratio": 5.12,
    "ai_value": ""
   },
   {
@@ -2106,6 +2183,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974402717",
+   "title": "Antique Copper Chinese Gong",
+   "price": 100,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-antique-copper-chinese-gong/5keX8kmV8oX6C5r21XYqJU",
+   "best": "Arabic Antique 14\" Copper Wall Plate/Charger Decor With ...",
+   "med": 350,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7973281629",
    "title": "Vintage silver Bride's  basket",
    "price": 50,
@@ -2125,6 +2213,17 @@
    "best": "Mexican Ceramic Crescent Moon Sculpture \"El Angel& | Vintage ...",
    "med": 350,
    "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966223628",
+   "title": "(Vintage) Foot locker",
+   "price": 100,
+   "area": "elpaso",
+   "url": "https://www.craigslist.org/view/d/santa-teresa-vintage-foot-locker/mGaLd6fYrT5csEfgiHDLYJ",
+   "best": "Vintage Military Aluminum Metal Footlocker Trunk M/SGT Bond ...",
+   "med": 347,
+   "ratio": 3.47,
    "ai_value": ""
   },
   {
@@ -2268,6 +2367,17 @@
    "best": "Vintage Glass Barrel Style General Store Pickle Jar Wire ...",
    "med": 112,
    "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944801136",
+   "title": "VINTAGE LARGE BRASS ELEPHANT",
+   "price": 79,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-vintage-large-brass/wzJ5aMt2DpVo4PhETsB8z4",
+   "best": "Large Brass African Elephant Trunk Up Ears Back Textured ...",
+   "med": 250,
+   "ratio": 3.16,
    "ai_value": ""
   },
   {
@@ -2942,6 +3052,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946338275",
+   "title": "2 Vintage Irons",
+   "price": 40,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cabot-vintage-irons/oqcQrM2M6hgbhF6bwDSYT3",
+   "best": "Iron Flat Sad with Wood Handle Antique 1920s 6 inches Long ...",
+   "med": 85,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7954013000",
    "title": "Copper Revere ware teapot",
    "price": 60,
@@ -3137,6 +3258,17 @@
    "best": "7\u201d Vintage AMCO 1/20 14k Gold Filled Cameo Bracelet 6.3g | eBay",
    "med": 247,
    "ratio": 1.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960834359",
+   "title": "Antique tricycle",
+   "price": 100,
+   "area": "bellingham",
+   "url": "https://www.craigslist.org/view/d/bellingham-antique-tricycle/cxsdPUcHfVcZnNiZ4J3z98",
+   "best": "Vintage Heavy Duty Tricycle with Hard Rubber Tires | Antique ...",
+   "med": 175,
+   "ratio": 1.75,
    "ai_value": ""
   },
   {
