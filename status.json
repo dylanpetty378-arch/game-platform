@@ -1,22 +1,22 @@
 {
- "updated": "2026-10-13T02:50:32Z",
+ "updated": "2026-10-13T02:51:51Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 904,
-  "events": 6113,
+  "lens": 929,
+  "events": 6138,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 374,
-  "queued": 3722,
+  "queued": 3697,
   "queued/relens": 212,
   "comps/pass": 1,
-  "lensed": 261,
-  "flagged": 22,
+  "lensed": 275,
+  "flagged": 33,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
@@ -201,6 +201,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978909749",
+   "title": "Asian Art",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-mateo-asian-art/f4hNn9PNgv9e79Ur6vt1Gf",
+   "best": "Chinese cloisonn\u00e9 lidded vase with peony and butterfly ...",
+   "med": 300,
+   "ratio": 12,
+   "ai_value": ""
+  },
+  {
    "pid": "7945678705",
    "title": "Vintage Excelsior  lamp",
    "price": 20,
@@ -212,6 +223,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981349160",
+   "title": "Beautiful porcelain lamp",
+   "price": 45,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/citrus-heights-beautiful-porcelain-lamp/oZCsmwZVAANrsEDAGCMpJF",
+   "best": "Lamp Capodimonte - Etsy",
+   "med": 450,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7955389584",
    "title": "Vintage Borghese Bookend",
    "price": 30,
@@ -220,6 +242,28 @@
    "best": "Podp\u00f3rka do ksi\u0105\u017cki ze scen\u0105 konia - Etsy Polska",
    "med": 295,
    "ratio": 9.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949316401",
+   "title": "Crystal Candelabra vintage",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/potomac-crystal-candelabra-vintage/2ATEE1HRKgt3ruNVrF8Jxu",
+   "best": "Antique 2 Light Candelabra CUT GLASS CRYSTALS Duncan Miller ...",
+   "med": 250,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982531694",
+   "title": "Seymour Mann China Blue Fine Porcelain China",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-city-seymour-mann-china-blue/w29U1PVRebAKteshWSA3Hm",
+   "best": "Seymour Mann China Blue Fine Porcelain Vase Vintage | eBay",
+   "med": 189,
+   "ratio": 7.56,
    "ai_value": ""
   },
   {
@@ -256,6 +300,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946210897",
+   "title": "Vintage Mid-CenturyHand Painted Wooden Bucket Folk Art",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-mid-centuryhand/hVFKj5drLVpS5eCCaF2D1k",
+   "best": "Vintage Helen Hume Hand-painted Fold Art Bucket | Vintage ...",
+   "med": 138,
+   "ratio": 5.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7956636875",
    "title": "Antique- Middle East (Turkish) Brass Coffee/Tea Pot",
    "price": 30,
@@ -275,6 +330,28 @@
    "best": "Vintage Johnson Bros. Indies White - Blue Floral Ironstone ...",
    "med": 231,
    "ratio": 5.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974504753",
+   "title": "Beautiful Vintage Japanese Silk Screens",
+   "price": 195,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/laguna-beach-beautiful-vintage-japanese/w66cLLg4CGicyYcLE3bDGs",
+   "best": "Calligraphy/Seal: Features traditional East Asian calligraphy and a red artist stamp/seal on the right panel.",
+   "med": 950,
+   "ratio": 4.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974279408",
+   "title": "Chinese punch bowl",
+   "price": 100,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/king-william-chinese-punch-bowl/6WT4AsL6CvJfh6g6Jqi2UT",
+   "best": "Chinoiserie Porcelain Bowl W/ Wooden Stand, (1 Available) - Etsy",
+   "med": 455,
+   "ratio": 4.55,
    "ai_value": ""
   },
   {
@@ -344,6 +421,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982494254",
+   "title": "Antique test seth  Thomas clock",
+   "price": 125,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/naples-antique-test-seth-thomas-clock/3EzTZX5NGqQ4JQq8SkTTxf",
+   "best": "Vintage Seth Thomas Brass Corsair E537-000 Brass Ship Clock ...",
+   "med": 295,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7967721762",
    "title": "Vintage Large Cobalt Blue Water or Milk Pitcher with Flowers",
    "price": 60,
@@ -351,6 +439,17 @@
    "url": "https://www.craigslist.org/view/d/graham-vintage-large-cobalt-blue-water/cHqKD2FhVKSar9e7w3zqEK",
    "best": "Vintage Blue And White Salt Glazed Pottery Pitcher | eBay",
    "med": 120,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936250367",
+   "title": "Salt Glazed Stoneware Jug",
+   "price": 50,
+   "area": "boulder",
+   "url": "https://www.craigslist.org/view/d/louisville-salt-glazed-stoneware-jug/vqe8MYwV3Ts1nP6TdSoJdU",
+   "best": "pottery \u2013 Shaker Museum",
+   "med": 100,
    "ratio": 2,
    "ai_value": ""
   },
@@ -363,6 +462,17 @@
    "best": "Antique Sessions Parlor Kitchen Mantle Clock with chime ...",
    "med": 295,
    "ratio": 1.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982494449",
+   "title": "1940 Bible Study Group Photo, Vintage.",
+   "price": 95,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-1940-bible-study-group/bgmEhzeCgzz4X44piQZhYV",
+   "best": "1928 St. John's Lutheran Church on Cable Avenue, now Citi ...",
+   "med": 175,
+   "ratio": 1.84,
    "ai_value": ""
   },
   {
@@ -384,6 +494,17 @@
    "url": "https://www.craigslist.org/view/d/martins-ferry-antique-bijou-pocket-watch/wHNQpG8DHWpkXSboMaEqFx",
    "best": "Antique 19th C. Ladies Swiss 800 Silver Pocket Watch with ...",
    "med": 200,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936344282",
+   "title": "Antique Oval Convex Glass Picture Frames",
+   "price": 75,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/dewitt-antique-oval-convex-glass/i2uKY1SU2V5b5SMMEn4aBk",
+   "best": "Vintage framed photos with bubble glass found at Portland ...",
+   "med": 100,
    "ratio": 1.33,
    "ai_value": ""
   },
