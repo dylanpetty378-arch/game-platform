@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T07:22:26Z
+# Refurbish status — 2026-10-13T07:25:42Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,11 +6,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 2786 |
+| queued | 2761 |
 | photo_review/kill | 1994 |
-| queued/relens | 325 |
-| lensed | 144 |
-| flagged | 115 |
+| queued/relens | 338 |
+| lensed | 151 |
+| flagged | 120 |
 | decided/ask | 28 |
 | decided/find | 7 |
 | comps/fail | 5 |
@@ -23,8 +23,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 4
 - searches: 1006
 - listings: 5407
-- lens: 2654
-- events: 10439
+- lens: 2679
+- events: 10464
 - comps: 870
 - item_types: 777
 - runs: 0
@@ -76,7 +76,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00o0o_7CuhamuXq1g_0CI0t2_300x300.jpg" width="160"> | [Large Antique Steam Gauge](https://www.craigslist.org/view/d/highlands-large-antique-steam-gauge/etB54kpBK9fxV6EFG9mFWX) | $25 | jerseyshore | **decided/ask** — Ashton Valve Co. Boston 10.5 in brass 'Standard Test Gage' 0-500 psi, missing glass, red-painted back. No entry or comps. Large brass test gauges sell to steampunk/industrial buyers ~$100-200, but ship is heavy (~$25 eac |
 | <img src="https://images.craigslist.org/00U0U_id0sXmKkDvf_0CI0t2_300x300.jpg" width="160"> | [Old Coleman Empire Lantern](https://www.craigslist.org/view/d/bloomingdale-old-coleman-empire-lantern/nQFrLmBT5FsMtu4sNNumgf) | $15 | plattsburgh | **decided/ask** — Nickel-plated fount, red ventilator, red valve knob, fretwork burner guard, Pyrex globe; title says 'Coleman Empire'. Fount bottom photo shows no readable stamp. If it is a 1930s-40s nickel 242/243 class lantern, it sell |
 
-## Flagged by Lens, waiting for photo review (115)
+## Flagged by Lens, waiting for photo review (120)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -110,6 +110,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00202_hh1tOU79mpI_0c40t2_300x300.jpg" width="120"> | 7948490694 | $100 | seattle | [Guitar "Tito's Handmade Vodka" Edition Serial #SP1](https://www.craigslist.org/view/d/monroe-guitar-titos-handmade-vodka/xeHX2ivNkNt5Embj1hZRSE) | Charitybuzz: Bert "Tito" Beveridge Signed Tito's Handmade .. | 1400 | 14 |
 | <img src="https://images.craigslist.org/00202_9q0MjAHLMPB_1l610k_300x300.jpg" width="120"> | 7960432437 | $30 | sfbay | [Exquisite Pottery](https://www.craigslist.org/view/d/menlo-park-exquisite-pottery/sfMzsZ7TYcLuPm6X2HGthq) | Handmade Pottery Creamer Signed by Dave 5.25" x 3" / eBay | 420 | 14 |
 | <img src="https://images.craigslist.org/00J0J_e3nOXgocoal_0t20CI_300x300.jpg" width="120"> | 7982588043 | $50 | capecod | [Lovely signed art](https://www.craigslist.org/view/d/north-falmouth-lovely-signed-art/ouzgE5ywUTkk9esPZaEkFM) | Candance Lovely Rare Signed Art Print "Sea Shell Pink ... | 625 | 12.5 |
+| <img src="https://images.craigslist.org/01616_loVLLKXidvd_0t20CI_300x300.jpg" width="120"> | 7943897811 | $10 | orangecounty | [Vintage Yellow Bowl](https://www.craigslist.org/view/d/san-clemente-vintage-yellow-bowl/4YNaYNg6U9U7f1bnALenLf) | Vintage Pyrex 443 Olive Army Avocado Verde Green Cinderella  | 121 | 12.1 |
 | <img src="https://images.craigslist.org/00Y0Y_d4jnLVmNncG_0CI0pO_300x300.jpg" width="120"> | 7950259557 | $25 | detroit | [hand-painted antique bucksaw](https://www.craigslist.org/view/d/canton-hand-painted-antique-bucksaw/vn6rsTjTaSNe7ZoPR3heMU) | See the tools that helped build America at our Framing and . | 300 | 12 |
 | <img src="https://images.craigslist.org/00H0H_2DnXqDsycGZ_0CI0t2_300x300.jpg" width="120"> | 7949774027 | $40 | treasure | [The Nine Day Queen](https://www.craigslist.org/view/d/port-saint-lucie-the-nine-day-queen/6FhErWLqqWr5YEtXqCURBG) | Artist / Publisher: Engraved or illustrated by the Pauquet B | 459 | 11.47 |
 | <img src="https://images.craigslist.org/01717_fjQJxwpSHME_0t20CI_300x300.jpg" width="120"> | 7932507548 | $39 | sanantonio | [Mola (art form)](https://www.craigslist.org/view/d/san-antonio-mola-art-form/2z84h2pPbAnjHQCAbJUqMm) | Craigslist | 400 | 10.26 |
@@ -153,6 +154,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00e0e_k7BV10L96tv_0t20CI_300x300.jpg" width="120"> | 7982623323 | $185 | yuma | [Vintage pay phone](https://www.craigslist.org/view/d/yuma-vintage-pay-phone/k5Ukt96nGu5izrmPUxa5AX) | Vintage AUTOMATIC ELECTRIC COMPANY Rotary PAYPHONE TELEPHONE | 595 | 3.22 |
 | <img src="https://images.craigslist.org/00303_2V5aZJ8e25u_0t20CI_300x300.jpg" width="120"> | 7956170841 | $40 | tampa | [Vintage Test Equipment "Electrometer"](https://www.craigslist.org/view/d/palm-harbor-vintage-test-equipment/u8TJRUzU12di5QAkXQnVw2) | Leeds & Northrup Co Potentiometer / eBay | 120 | 3 |
 | <img src="https://images.craigslist.org/00u0u_fLrTCm4dMKjz_0nW0t2_300x300.jpg" width="120"> | 7963871784 | $20 | seattle | [Antique 1930’s Chinese Tin Toy Boxers Boxing](https://www.craigslist.org/view/d/tacoma-antique-1930s-chinese-tin-toy/eDzmBARjHGYLu78Svf5dZV) | Operation: Squeezing the metal loop or handle makes the figu | 60 | 3 |
+| <img src="https://images.craigslist.org/00i0i_cw16VzcFwHu_07U09r_300x300.jpg" width="120"> | 7953985087 | $25 | norfolk | [Antique 1920's-'30's Clayton-Lambert Brass Blowtor](https://www.craigslist.org/view/d/hampton-antique-1920s-30s-clayton/6CVdamZeP7aSfbotHdVWwc) | Rare Blow Torch Clayton and Lambert Double Valve and Pump .. | 75 | 3 |
 | <img src="https://images.craigslist.org/00m0m_juVjFAJGEIB_0CI0t2_300x300.jpg" width="120"> | 7966759470 | $25 | harrisburg | [Framed, Signed Mort Kunstler Art Print](https://www.craigslist.org/view/d/middletown-framed-signed-mort-kunstler/swFP7AAXDvma9verWbUjBh) | Title: "We, The People... 1787" | 72 | 2.88 |
 | <img src="https://images.craigslist.org/00707_8anYsPG2WDa_0CI0oT_300x300.jpg" width="120"> | 7973168451 | $50 | lasvegas | [Silvertone Pro Series Acoustic Guitar](https://www.craigslist.org/view/d/las-vegas-silvertone-pro-series/e4q82LAzNaMujCS4Bafmsw) | Mahogany Silvertone Acoustic Guitars for sale / eBay | 138 | 2.76 |
 | <img src="https://images.craigslist.org/00k0k_irulvwJ62WT_0o80CI_300x300.jpg" width="120"> | 7977701955 | $150 | albuquerque | [CUSTOM IBANEZ GiO](https://www.craigslist.org/view/d/corrales-custom-ibanez-gio/jUWXsrPBKDZWyH2gzpupgZ) | DEAN dragster EVO CUSTOM FLAME GUITAR / eBay | 400 | 2.67 |
@@ -172,12 +174,15 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00d0d_7ZwrQcB1kHm_0ew038_300x300.jpg" width="120"> | 7941258286 | $75 | norfolk | [Beautiful Vintage 16" Cultured Pearl Necklace w/ S](https://www.craigslist.org/view/d/hampton-beautiful-vintage-16-cultured/bNJYPNb8sC982qN2otERfg) | Facebook | 142 | 1.89 |
 | <img src="https://images.craigslist.org/01313_2Cxh4Nf18Ud_0CI0t2_300x300.jpg" width="120"> | 7929805032 | $70 | honolulu | [Michael Hallinan Caribbean Delight](https://www.craigslist.org/view/d/makawao-michael-hallinan-caribbean/pG9asFikAsc3RTrZ8bgqUn) | Dina Art Company | 132 | 1.89 |
 | <img src="https://images.craigslist.org/00505_btM3AnOScyw_0jm0ew_300x300.jpg" width="120"> | 7982613885 | $50 | nashville | [Thomas Kincade "Sunrise"](https://www.craigslist.org/view/d/nashville-thomas-kincade-sunrise/babKTF3WyjdgvCqoHGh7fW) | Features: Often includes a burgundy or green mat, a decorati | 94 | 1.88 |
+| <img src="https://images.craigslist.org/00p0p_3pWDNsiJdbF_0t20CI_300x300.jpg" width="120"> | 7949118824 | $91 | newyork | [Antique cast iron doorstop of a woman in fashionab](https://www.craigslist.org/view/d/new-york-antique-cast-iron-doorstop-of/vuPeuCgWEwBu193F6uFPE1) | National Foundry Colonial Lady w Purse Doorstop Cast Iron .. | 170 | 1.87 |
 | <img src="https://images.craigslist.org/00p0p_hwtaVr5IjiT_0jo0ku_300x300.jpg" width="120"> | 7966560180 | $55 | nh | [Antique Stoneware Pot with Lid](https://www.craigslist.org/view/d/henniker-antique-stoneware-pot-with-lid/uSPG8rCJbSQqM6p33MM4ak) | Brown and White Crock / eBay | 100 | 1.82 |
 | <img src="https://images.craigslist.org/00n0n_2YHh9gko6kR_0t20CI_300x300.jpg" width="120"> | 7977193854 | $150 | annapolis | [HARMONICA ANTIQUE HOHNER](https://www.craigslist.org/view/d/deale-harmonica-antique-hohner/2rDyQdzZKdPYtuU818SeN7) | VINTAGE SUPER CHROMONICA M. HOHNER GERMANY ... | 259 | 1.73 |
 | <img src="https://images.craigslist.org/00R0R_4ibLITDiDZ2_0ak07K_300x300.jpg" width="120"> | 7940837201 | $200 | boston | [simplex time recorder](https://www.craigslist.org/view/d/winchester-simplex-time-recorder/gcfeEW9XemdNpcqarUW8e3) | Function: Workers punched a specific numbered button corresp | 325 | 1.63 |
+| <img src="https://images.craigslist.org/00a0a_lSw2Ghon8i7_0CI0t2_300x300.jpg" width="120"> | 7978523763 | $120 | syracuse | [Nice old clock](https://www.craigslist.org/view/d/de-ruyter-nice-old-clock/6YYjdTijT7xVzsCwDVvaY7) | Vintage Antique Seth Thomas #102 Adamantine Mantel Clock / e | 195 | 1.63 |
 | <img src="https://images.craigslist.org/00303_c5MWSbNkH32_0CI0lN_300x300.jpg" width="120"> | 7951164400 | $195 | chicago | [Oil painting Signed Framed OOC Vintage mid-century](https://www.craigslist.org/view/d/midlothian-oil-painting-signed-framed/t3Xv1PeFYp7xj2LWrQULgL) | Digital Download / Absolute Beautiful Blue Iris Flowers ... | 300 | 1.54 |
 | <img src="https://images.craigslist.org/00k0k_jyTYsBrL9O8_0CI0t2_300x300.jpg" width="120"> | 7952622885 | $79 | dallas | [ANTIQUE CHINESE OLD HANDCARVED SNUFF BOTTLE](https://www.craigslist.org/view/d/temple-antique-chinese-old-handcarved/5gVEhR22RNf5JYUWJQHdZG) | Asian Carved Snuff Bottle With People Dragons Animals - Etsy | 119 | 1.51 |
 | <img src="https://images.craigslist.org/00r0r_2jDSHGKIemb_0t20CI_300x300.jpg" width="120"> | 7982641740 | $100 | boise | [Acoustic Guitar. (SILVERTONE)](https://www.craigslist.org/view/d/boise-acoustic-guitar-silvertone/2YKKNkHdymw4YELvSxL2y6) | Reverb | 150 | 1.5 |
+| <img src="https://images.craigslist.org/00k0k_jGSYTFe7A0J_0MM132_300x300.jpg" width="120"> | 7980767748 | $100 | portland | [14k gold Heart-Shaped Pendant](https://www.craigslist.org/view/d/portland-14k-gold-heart-shaped-pendant/xvLfC7YkKHA83AYBqyLUc9) | 14K Gold Bride & Groom Blue Agate Heart Cameo Pendant - Etsy | 150 | 1.5 |
 | <img src="https://images.craigslist.org/00X0X_kvr2TcStPZc_0lM0t2_300x300.jpg" width="120"> | 7930773394 | $195 | sfbay | [Vintage Sterling Silver Grape Shears Germany 7”](https://www.craigslist.org/view/d/novato-vintage-sterling-silver-grape/vYonSqMXk2j7GHFWAx77nG) | Invaluable.com | 280 | 1.44 |
 | <img src="https://images.craigslist.org/00101_8Ja1aIt8sCP_0g00t2_300x300.jpg" width="120"> | 7946630061 | $65 | mohave | [Old camera](https://www.craigslist.org/view/d/lake-havasu-city-old-camera/n5tyyU98LMVuNKPDdZv47W) | Agfa Billy Record 4.5 Folding Camera Anastigmat Apotar 1:4.5 | 90 | 1.38 |
 | <img src="https://images.craigslist.org/00909_l3E8YZGO8u8_0hq0hq_300x300.jpg" width="120"> | 7975273071 | $95 | norfolk | [Vintage Metal Hand-Painted Ltd Edition British Sol](https://www.craigslist.org/view/d/hampton-vintage-metal-hand-painted-ltd/oMMZaTeUcuPGmQwYUcb3Rp) | Set Number: No. 5186 | 125 | 1.32 |

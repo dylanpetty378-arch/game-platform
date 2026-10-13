@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T07:22:26Z",
+ "updated": "2026-10-13T07:25:42Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2654,
-  "events": 10439,
+  "lens": 2679,
+  "events": 10464,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2786,
+  "queued": 2761,
   "comps/pass": 1,
   "decided/ask": 28,
-  "queued/relens": 325,
+  "queued/relens": 338,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 144,
-  "flagged": 115
+  "lensed": 151,
+  "flagged": 120
  },
  "last_harvests": [
   {
@@ -543,6 +543,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943897811",
+   "title": "Vintage Yellow Bowl",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/san-clemente-vintage-yellow-bowl/4YNaYNg6U9U7f1bnALenLf",
+   "best": "Vintage Pyrex 443 Olive Army Avocado Verde Green Cinderella ...",
+   "med": 121,
+   "ratio": 12.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7950259557",
    "title": "hand-painted antique bucksaw",
    "price": 25,
@@ -1016,6 +1027,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953985087",
+   "title": "Antique 1920's-'30's Clayton-Lambert Brass Blowtorch",
+   "price": 25,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-antique-1920s-30s-clayton/6CVdamZeP7aSfbotHdVWwc",
+   "best": "Rare Blow Torch Clayton and Lambert Double Valve and Pump ...",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7966759470",
    "title": "Framed, Signed Mort Kunstler Art Print",
    "price": 25,
@@ -1225,6 +1247,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949118824",
+   "title": "Antique cast iron doorstop of a woman in fashionable clothing.",
+   "price": 91,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-antique-cast-iron-doorstop-of/vuPeuCgWEwBu193F6uFPE1",
+   "best": "National Foundry Colonial Lady w Purse Doorstop Cast Iron ...",
+   "med": 170,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7966560180",
    "title": "Antique Stoneware Pot with Lid",
    "price": 55,
@@ -1258,6 +1291,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978523763",
+   "title": "Nice old clock",
+   "price": 120,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/de-ruyter-nice-old-clock/6YYjdTijT7xVzsCwDVvaY7",
+   "best": "Vintage Antique Seth Thomas #102 Adamantine Mantel Clock | eBay",
+   "med": 195,
+   "ratio": 1.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7951164400",
    "title": "Oil painting Signed Framed OOC Vintage mid-century art",
    "price": 195,
@@ -1286,6 +1330,17 @@
    "area": "boise",
    "url": "https://www.craigslist.org/view/d/boise-acoustic-guitar-silvertone/2YKKNkHdymw4YELvSxL2y6",
    "best": "Reverb",
+   "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980767748",
+   "title": "14k gold Heart-Shaped Pendant",
+   "price": 100,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-14k-gold-heart-shaped-pendant/xvLfC7YkKHA83AYBqyLUc9",
+   "best": "14K Gold Bride & Groom Blue Agate Heart Cameo Pendant - Etsy",
    "med": 150,
    "ratio": 1.5,
    "ai_value": ""
