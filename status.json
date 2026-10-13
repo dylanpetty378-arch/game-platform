@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:03:34Z",
+ "updated": "2026-10-13T05:07:02Z",
  "tables": {
   "harvests": 3,
   "searches": 168,
   "listings": 4607,
-  "lens": 1779,
-  "events": 7291,
+  "lens": 1804,
+  "events": 7316,
   "comps": 156,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 2861,
-  "lensed": 666,
+  "queued": 2836,
+  "lensed": 678,
   "comps/pass": 1,
   "decided/ask": 16,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 206,
+  "flagged": 219,
   "decided/find": 6
  },
  "last_harvests": [
@@ -177,6 +177,17 @@
    "best": "eBay",
    "med": 8995,
    "ratio": 149.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979820408",
+   "title": "VINTAGE FOIL FLORAL ART",
+   "price": 25,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-foil-floral-art/9Lv12WtjPiRNatV6ZQBzjS",
+   "best": "Craigslist",
+   "med": 2410,
+   "ratio": 96.4,
    "ai_value": ""
   },
   {
@@ -455,6 +466,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936363213",
+   "title": "Antique wall lamps",
+   "price": 50,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-cruz-antique-wall-lamps/c1op7yhPLzAfYxBp5F1NPT",
+   "best": "Brass carriage wall lanterns with eagle finials, pair | Maxsold",
+   "med": 724,
+   "ratio": 14.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7952470742",
    "title": "1903 etching woman/dog Herbert Dicksee",
    "price": 60,
@@ -662,6 +684,17 @@
    "med": 575,
    "ratio": 9.58,
    "ai_value": ""
+  },
+  {
+   "pid": "7942107617",
+   "title": "Vintage wooden duck decoy",
+   "price": 50,
+   "area": "lubbock",
+   "url": "https://www.craigslist.org/view/d/hale-center-vintage-wooden-duck-decoy/vmr1fbaCxPno8bmVZEoXqY",
+   "best": "This piece appears to be a decorative or vintage hand-carved folk art wooden decoy similar to collectibles typ",
+   "med": 479,
+   "ratio": 9.58,
+   "ai_value": "valued or sold online between $50"
   },
   {
    "pid": "7934931919",
@@ -961,6 +994,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952962879",
+   "title": "Vintage Stoneware Pottery Lamp",
+   "price": 20,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/richmond-vintage-stoneware-pottery-lamp/bhVYKUhFzZzPbGoaHGfgkM",
+   "best": "1970s Country Cottage Ceramic Table Lamp With Red Laced ...",
+   "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7952664606",
    "title": "Vintage silver trophy",
    "price": 90,
@@ -1225,6 +1269,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956531248",
+   "title": "Vintage corncob sheller",
+   "price": 20,
+   "area": "loz",
+   "url": "https://www.craigslist.org/view/d/sunrise-beach-vintage-corncob-sheller/tkMHwHBvMDygW5EykKBpGn",
+   "best": "R&H Root Heath Corn Sheller Antique Cast Iron Machine Manual ...",
+   "med": 75,
+   "ratio": 3.75,
+   "ai_value": "sell between $50"
+  },
+  {
    "pid": "7965801477",
    "title": "Antique Phone",
    "price": 40,
@@ -1247,12 +1302,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7956104022",
+   "title": "Vintage Garden Cart",
+   "price": 45,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/oak-ridge-vintage-garden-cart/pRH7AJBKv66Grp7UDuFhes",
+   "best": "Wooden Garden Wagon Planter | Rustic Farmhouse Flower Cart ...",
+   "med": 164,
+   "ratio": 3.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7955441696",
    "title": "Old thermometer",
    "price": 20,
    "area": "spacecoast",
    "url": "https://www.craigslist.org/view/d/cocoa-old-thermometer/d3vwWKe91HzrqKXrkgAV9M",
    "best": "Vintage Pepsi Tin Thermometer Lake City Bottling Sample ...",
+   "med": 70,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934654049",
+   "title": "Antique Tureen with Ladle",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-antique-tureen-with-ladle/dtXCLp2QXsqiVDsS5me3mR",
+   "best": "Would you like help finding replacement pieces (like an underplate or extra ladle), or information on current ",
    "med": 70,
    "ratio": 3.5,
    "ai_value": ""
@@ -1388,6 +1465,17 @@
    "med": 185,
    "ratio": 3.08,
    "ai_value": ""
+  },
+  {
+   "pid": "7982495112",
+   "title": "Cola Cooler Vintage 1950s",
+   "price": 25,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/new-berlin-cola-cooler-vintage-1950s/cwqcZD6Eb4k4RiCxXUeetY",
+   "best": "eBay",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": "Value: Typically sells between $40"
   },
   {
    "pid": "7946910619",
@@ -1751,6 +1839,17 @@
    "med": 179,
    "ratio": 2.24,
    "ai_value": "priced around $149"
+  },
+  {
+   "pid": "7955184246",
+   "title": "Vintage Russian Cuckoo clock",
+   "price": 100,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/clifton-park-vintage-russian-cuckoo/oChxofL8gyNMB6W1xKF7ED",
+   "best": "eBay",
+   "med": 220,
+   "ratio": 2.2,
+   "ai_value": "Value: Often sold on vintage marketplaces like eBay and Etsy ranging roughly from $90 to $250"
   },
   {
    "pid": "7972481088",
@@ -2215,6 +2314,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969233510",
+   "title": "Vintage oriental lamp",
+   "price": 99,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/penney-farms-vintage-oriental-lamp/8Cm34tf6dwM52sdEFmcAiV",
+   "best": "Left lamp: A seated figure (such as a traditional East Asian deity, court personage, or Kuan Yin) in ornate ro",
+   "med": 80,
+   "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7929980407",
    "title": "Vintage J. Fisher Lyons NY Stoneware Jug Brown Crock Stone Ware",
    "price": 125,
@@ -2314,6 +2424,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951547362",
+   "title": "Antique knife",
+   "price": 45,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ojai-antique-knife/81ovVZkx89gm3eWquUKviN",
+   "best": "Vintage Nepalese Ghurkha Kukri Fighting Knife and Sheath | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7944899287",
    "title": "Electronic Battleship Vintage 1977",
    "price": 30,
@@ -2323,6 +2444,17 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7956312993",
+   "title": "Antique Spanish sword",
+   "price": 75,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/medical-lake-antique-spanish-sword/v6mVv1rJNeWnAcXc2nRfSR",
+   "best": "Market Value: Typically ranges from roughly $40 to $100+ USD depending on the exact size, condition, and wheth",
+   "med": null,
+   "ratio": null,
+   "ai_value": "Value: Typically ranges from roughly $40 to $100"
   },
   {
    "pid": "7943747072",
@@ -2353,6 +2485,17 @@
    "area": "houston",
    "url": "https://www.craigslist.org/view/d/katy-vintage-dell-desktop-case/pjTFooAhUoLMSBP4LPVSvV",
    "best": "Dell Optiplex GX240 / 240 computer Intel pentium 4 Windows ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970897655",
+   "title": "Vintage Giant Acapulco MTB",
+   "price": 99,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/loveland-vintage-giant-acapulco-mtb/dNUfo9EwBaxUtYwe5DnvBR",
+   "best": "Craigslist",
    "med": null,
    "ratio": null,
    "ai_value": ""
