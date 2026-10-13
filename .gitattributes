@@ -1,0 +1,3 @@
+# Append-only database files: concurrent appends from the cloud bot and Claude sessions merge by keeping both sides.
+db/**/*.jsonl merge=union
+db/*.jsonl merge=union

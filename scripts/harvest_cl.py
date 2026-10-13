@@ -8,7 +8,7 @@ Needs areas.json (https://reference.craigslist.org/Areas) — downloaded automat
 """
 import json, time, sys, os, urllib.parse, urllib.request, concurrent.futures as cf
 
-CATS = 'ata,cba,clt,ele,emd,hab,hsh,jwa,mus,pha,spo,sys,tls,tag,vga,bik,bop,boo,clo,mob,mpo,rvs,wan,for,hsd,gms,art,fua,atq'
+CATS = 'ata,cba,clt,ele,emd,hab,hsh,jwa,msa,pha,spo,sys,tls,tag,vga,bik,bop,boo,clo,mob,mpo,rvs,wan,for,hsd,gms,art,fua,atq'
 HERE = os.path.dirname(os.path.abspath(__file__))
 UA = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0 Safari/537.36'}
 
@@ -46,19 +46,34 @@ def harvest(cats=CATS, hours=24, threads=10, log=print):
     cats = cats.split(',') if isinstance(cats, str) else cats
     since = time.time() - float(hours) * 3600
     A = areas(); jobs = [(ar, c) for ar in A for c in cats]; out = {}; fails = 0
+    stat = {'splits': 0, 'capped': 0}
+    def query(ar, c, lo, hi):
+        # Each Craigslist site's OWN listings (no lat/lon radius: radius queries overlap neighbouring sites and hit
+        # the 360 cap sooner). Price window [lo, hi].
+        p = {'batch': f"{ar['AreaID']}-0-360-0-0", 'cc': 'US', 'lang': 'en', 'searchPath': c, 'sort': 'date',
+             'min_price': lo, 'max_price': hi, 'purveyor': 'owner'}
+        raw = _get('https://sapi.craigslist.org/web/v8/postings/search/full?' + urllib.parse.urlencode(p))
+        try: d = json.loads(raw)['data']
+        except Exception: return None
+        rows = _parse(d, ar, c, 0)
+        # The API returns at most the newest 360. If we got 360 and the oldest is still inside the window, there are
+        # more: split the price range in two and query both halves (adaptive price-band splitting).
+        if len(d.get('items', [])) >= 360 and rows and min(r['posted'] for r in rows) > since and hi - lo >= 2:
+            stat['splits'] += 1; mid = (lo + hi) // 2
+            a = query(ar, c, lo, mid); b = query(ar, c, mid + 1, hi)
+            if a is not None or b is not None: rows = rows + (a or []) + (b or [])
+        elif len(d.get('items', [])) >= 360 and rows and min(r['posted'] for r in rows) > since:
+            stat['capped'] += 1
+        return [r for r in rows if r['posted'] >= since]
     def work(j):
         ar, c = j
-        p = {'batch': f"{ar['AreaID']}-0-360-0-0", 'cc': 'US', 'lang': 'en', 'searchPath': c, 'lat': ar['Latitude'], 'lon': ar['Longitude'],
-             'search_distance': 150, 'sort': 'date', 'max_price': 200, 'purveyor': 'owner'}
-        raw = _get('https://sapi.craigslist.org/web/v8/postings/search/full?' + urllib.parse.urlencode(p))
-        try: return _parse(json.loads(raw)['data'], ar, c, since)
-        except Exception: return None
+        return query(ar, c, 1, 200)
     with cf.ThreadPoolExecutor(threads) as ex:
         for n, res in enumerate(ex.map(work, jobs)):
             if res is None: fails += 1; continue
             for r in res: out.setdefault(r['pid'], r)
             if n % 1000 == 0: log(f'{n}/{len(jobs)} jobs, {len(out)} listings, {fails} failed')
-    log(f'DONE {len(out)} listings, {fails}/{len(jobs)} failed requests')
+    log(f"DONE {len(out)} listings, {fails}/{len(jobs)} failed requests, {stat['splits']} price splits, {stat['capped']} still capped")
     return list(out.values()), fails, len(jobs)
 
 if __name__ == '__main__':

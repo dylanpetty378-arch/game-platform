@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Refurbish Lens worker
 // @namespace    refurbish
-// @version      1.0.0
+// @version      1.1.0
 // @description  Runs Google Lens on the Refurbish queue in ONE dedicated tab, one fresh page per listing (memory never builds up), saves every result immediately, uploads them to the database in batches.
 // @match        https://www.google.com/robots.txt?refurb*
 // @match        https://www.google.com/search*
@@ -85,13 +85,14 @@
     return new Promise((res) => {
       const buf = G('buf', []); const tok = G('ghToken', '');
       if (!buf.length || !tok || (!force && buf.length < UPLOAD_EVERY)) return res('skip');
+      if (!force && now() - G('upFail', 0) < 5 * 60000) return res('backoff');   // after a failure, retry at most every 5 min
       const part = buf.slice(0, 200);
       const name = 'db/inbox/lensworker-' + now() + '-' + part.length + '.json';
       const body = JSON.stringify({ message: 'lens worker: ' + part.length + ' results', branch: 'refurbish', content: btoa(unescape(encodeURIComponent(JSON.stringify(part)))) });
       GM_xmlhttpRequest({ method: 'PUT', url: API + name, data: body, timeout: 30000,
         headers: { Authorization: 'Bearer ' + tok, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
-        onload: r => { if (r.status === 201 || r.status === 200) { S('buf', G('buf', []).slice(part.length)); const st = stats(); st.uploaded += part.length; setStats(st); log('uploaded ' + part.length); res('ok'); } else { log('upload HTTP ' + r.status); res('fail'); } },
-        onerror: () => { log('upload network error'); res('fail'); }, ontimeout: () => res('fail') });
+        onload: r => { if (r.status === 201 || r.status === 200) { S('upFail', 0); S('buf', G('buf', []).slice(part.length)); const st = stats(); st.uploaded += part.length; setStats(st); log('uploaded ' + part.length); res('ok'); } else { S('upFail', now()); log('upload HTTP ' + r.status + (r.status === 401 ? ' (token not accepted - paste a new one on the control page)' : '')); res('fail'); } },
+        onerror: () => { S('upFail', now()); log('upload network error'); res('fail'); }, ontimeout: () => res('fail') });
     });
   }
 
@@ -168,7 +169,7 @@
     d.querySelector('#go').onclick = () => { sessionStorage.setItem('refurbWorker', '1'); S('active', true); S('workerHeartbeat', now()); log('started'); next(500); };
     d.querySelector('#stop').onclick = () => { S('active', false); sessionStorage.removeItem('refurbWorker'); log('stopped'); showControl(); };
     d.querySelector('#up').onclick = async () => { await upload(true); showControl(); };
-    d.querySelector('#savetok').onclick = () => { const v = d.querySelector('#tok').value.trim(); if (v) { S('ghToken', v); log('token saved'); showControl(); } };
+    d.querySelector('#savetok').onclick = () => { const v = d.querySelector('#tok').value.trim(); if (v) { S('ghToken', v); S('upFail', 0); log('token saved'); showControl(); } };
     // ?refurb&dump renders the not-yet-uploaded results so a Claude session can export them without a token
     if (/dump/.test(location.search)) { const p = d.querySelector('#dump'); p.style.display = 'block'; p.textContent = 'EXPORT_START\n' + JSON.stringify(buf.map(({ rows, ...x }) => x)) + '\nEXPORT_END'; }
     if (/clearbuf=/.test(location.search)) { const n = +location.search.match(/clearbuf=(\d+)/)[1]; S('buf', G('buf', []).slice(n)); log('cleared ' + n + ' exported results'); }
