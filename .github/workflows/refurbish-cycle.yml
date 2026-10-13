@@ -54,6 +54,16 @@ jobs:
           ARGS="--hours ${{ github.event.inputs.hours || '6' }}"
           if [ "${{ steps.mode.outputs.harvest }}" != "yes" ]; then ARGS="$ARGS --no-harvest"; fi
           python3 scripts/cloud_cycle.py $ARGS
+      - name: eBay comps via official API (only if Dylan has added the EBAY_* secrets)
+        if: steps.mode.outputs.harvest == 'yes'
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: |
+          if [ -z "$EBAY_CLIENT_ID" ]; then echo 'no EBAY_* secrets yet - skipping'; exit 0; fi
+          python3 scripts/ebay_api.py check
+          python3 scripts/ebay_api.py leads || true
+          python3 scripts/ebay_api.py rotate --n 150 || true
       - name: Commit results
         run: |
           git config user.name "refurbish-bot"; git config user.email "refurbish-bot@users.noreply.github.com"
