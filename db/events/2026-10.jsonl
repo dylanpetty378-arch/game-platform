@@ -8249,3 +8249,28 @@
 {"ts":"2026-10-13T05:15:31Z","pid":"7982547393","stage":"photo_review","status":"kill","type":"vintage-fire-helmets","note":"text triage: Firstline helmet $75; modern-era structural helmet, sells $40-80","run":"triage-20261013"}
 {"ts":"2026-10-13T05:15:31Z","pid":"7982562153","stage":"photo_review","status":"kill","type":"antique-baskets","note":"text triage: Vintage hamper basket; bulky, $20-40","run":"triage-20261013"}
 {"ts":"2026-10-13T05:16:04Z","pid":"7966017849","stage":"decided","status":"find","type":"pocket-transits","note":"Wm. Ainsworth & Sons D.W. Brunton pocket transit, aluminum, PAT JULY 20 1926, serial 16976, leather case, needle free, glass/mirror intact; owner engraving. Terapeak: Ainsworth transits median $99 (p75 $129), aluminum w/ case median $150. Resale ~$120–150 → profit ~$55–80 at $35 → Tier B. Littleton CO, cash only, landline — needs local pickup/proxy.","run":"leadcheck-20261013","data":{"price":35,"est_resale":130,"profit":60,"tier":"B"}}
+{"ts":"2026-10-13T05:14:09Z","pid":"7938929994","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":125,"ratio":2.5}}
+{"ts":"2026-10-13T05:14:16Z","pid":"7952334412","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":17,"ratio":0.68}}
+{"ts":"2026-10-13T05:14:27Z","pid":"7979782581","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":20,"ratio":1.33}}
+{"ts":"2026-10-13T05:14:37Z","pid":"7952578617","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":65,"ratio":1.44}}
+{"ts":"2026-10-13T05:14:47Z","pid":"7974764727","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":50,"ratio":2.5}}
+{"ts":"2026-10-13T05:14:57Z","pid":"7955863056","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":130,"ratio":5.2}}
+{"ts":"2026-10-13T05:15:06Z","pid":"7968323832","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":600,"ratio":7.5}}
+{"ts":"2026-10-13T05:15:15Z","pid":"7937006282","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":15,"ratio":0.5}}
+{"ts":"2026-10-13T05:15:22Z","pid":"7954200895","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:15:31Z","pid":"7934996165","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":175,"ratio":2.19}}
+{"ts":"2026-10-13T05:15:39Z","pid":"7958742807","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":109,"ratio":4.19}}
+{"ts":"2026-10-13T05:15:49Z","pid":"7953815388","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":15,"ratio":1.5}}
+{"ts":"2026-10-13T05:15:58Z","pid":"7982463603","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:16:06Z","pid":"7950985546","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":387,"ratio":19.35}}
+{"ts":"2026-10-13T05:16:16Z","pid":"7951079256","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":617,"ratio":24.68}}
+{"ts":"2026-10-13T05:16:26Z","pid":"7982351679","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":123,"ratio":6.15}}
+{"ts":"2026-10-13T05:16:36Z","pid":"7939551775","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":153,"ratio":2.04}}
+{"ts":"2026-10-13T05:16:46Z","pid":"7930783578","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":90,"ratio":3.6}}
+{"ts":"2026-10-13T05:16:56Z","pid":"7978801338","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:17:05Z","pid":"7936128190","stage":"lensed","run":"lensworker-20261013-0510","data":{"med":22,"ratio":0.63}}
+{"ts":"2026-10-13T05:17:15Z","pid":"7955524954","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":250,"ratio":7.14}}
+{"ts":"2026-10-13T05:17:24Z","pid":"7982249538","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":324,"ratio":16.2}}
+{"ts":"2026-10-13T05:17:33Z","pid":"7946581603","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":600,"ratio":6}}
+{"ts":"2026-10-13T05:17:43Z","pid":"7961582856","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":162,"ratio":8.1}}
+{"ts":"2026-10-13T05:17:50Z","pid":"7982549721","stage":"flagged","run":"lensworker-20261013-0510","data":{"med":234,"ratio":2.34}}

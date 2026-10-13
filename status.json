@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T05:14:10Z",
+ "updated": "2026-10-13T05:18:02Z",
  "tables": {
   "harvests": 3,
   "searches": 168,
   "listings": 4607,
-  "lens": 1854,
-  "events": 7572,
-  "comps": 156,
+  "lens": 1879,
+  "events": 8276,
+  "comps": 159,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 738,
-  "queued": 2786,
-  "lensed": 701,
+  "photo_review/kill": 1411,
+  "queued": 2761,
   "comps/pass": 1,
-  "decided/ask": 19,
+  "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 40,
-  "decided/find": 6
+  "flagged": 55,
+  "lensed": 33,
+  "decided/find": 7
  },
  "last_harvests": [
   {
@@ -213,6 +213,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951079256",
+   "title": "Fondue pot, vintage, japan",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-fondue-pot-vintage-japan/gwmghbuX3qr5B8ieMZKVY6",
+   "best": "Sold at Auction: Vintage Fondue Set Circa 1960's Made in ...",
+   "med": 617,
+   "ratio": 24.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7966510971",
    "title": "Vintage kids wagon",
    "price": 20,
@@ -221,6 +232,28 @@
    "best": "Badger Rocket Red Wagon Works Well 1950-1960s | eBay",
    "med": 404,
    "ratio": 20.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950985546",
+   "title": "Vintage greyhound wagon",
+   "price": 20,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/mount-royal-vintage-greyhound-wagon/eMJPESt4ff1w6o6QLgSh9w",
+   "best": "WorthPoint",
+   "med": 387,
+   "ratio": 19.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982249538",
+   "title": "Vintage Rolling Wood Cart",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/clearwater-vintage-rolling-wood-cart/1ksSa4gFG1DNQfLBhFT8m1",
+   "best": "AN ERCOL WINDSOR GOLDEN DAWN ELM TV MEDIA CABINET / STAND ...",
+   "med": 324,
+   "ratio": 16.2,
    "ai_value": ""
   },
   {
@@ -268,6 +301,39 @@
    "ai_value": "valued or sold online between $50"
   },
   {
+   "pid": "7961582856",
+   "title": "Vintage silver plated trays",
+   "price": 20,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/monroe-vintage-silver-plated-trays/rqAVNTXaxfFcXwhSaSbdRX",
+   "best": "Round Tray: A vintage silver-plated circular tray or serving plate featuring a decorative rim. Similar sets of",
+   "med": 162,
+   "ratio": 8.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968323832",
+   "title": "Sansui s-990 Vintage speaker",
+   "price": 80,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/bensalem-sansui-990-vintage-speaker/proj8p2JJp5mx1cs6W8W8U",
+   "best": "Sansui S-990 Vintage 3 Way Single Speaker Cabinet | eBay",
+   "med": 600,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955524954",
+   "title": "vintage bamboo bird cage",
+   "price": 35,
+   "area": "athensga",
+   "url": "https://www.craigslist.org/view/d/winterville-vintage-bamboo-bird-cage/2VW9FtVf2kwLGUmermpGbB",
+   "best": "Vtg Handcrafted Chinese Bamboo Song Birds Bird Cage ...",
+   "med": 250,
+   "ratio": 7.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7965852207",
    "title": "Vintage US Army Footlocker",
    "price": 40,
@@ -312,6 +378,28 @@
    "ai_value": "Value: Typically ranges from $90 to $795"
   },
   {
+   "pid": "7982351679",
+   "title": "Vintage Ironing Board",
+   "price": 20,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/newark-vintage-ironing-board/bVxSvbvD2ncHYV77xmGDwV",
+   "best": "vtg Rid-Jid regular ironing board JR Clark Co Minneapolis ...",
+   "med": 123,
+   "ratio": 6.15,
+   "ai_value": "Value: Typically sells between $70"
+  },
+  {
+   "pid": "7946581603",
+   "title": "Music equip/storage bundle-Misc.",
+   "price": 100,
+   "area": "springfield",
+   "url": "https://www.craigslist.org/view/d/clinton-music-equip-storage-bundle-misc/sLzWowsLb9hVAg5vpG6ZKG",
+   "best": "Fender Speakers - Nex-Tech Classifieds",
+   "med": 600,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7956309290",
    "title": "ANTIQUE TRUNKS (TWO AVAILABLE)",
    "price": 80,
@@ -323,6 +411,17 @@
    "ai_value": "sell around $80 to $185"
   },
   {
+   "pid": "7955863056",
+   "title": "Vintage rci race suit",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-rci-race-suit/jBPZR6tGN2LVVkLACKhrKV",
+   "best": "eBay",
+   "med": 130,
+   "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7957378826",
    "title": "Old Wood Ski's",
    "price": 40,
@@ -332,6 +431,17 @@
    "med": 200,
    "ratio": 5,
    "ai_value": "Value: Similar vintage wooden ski pairs generally sell for around $50 to $200"
+  },
+  {
+   "pid": "7958742807",
+   "title": "Vintage Oversized Sunglasses",
+   "price": 26,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-oversized-sunglasses/qLczSnXF32tBykHorpD7eq",
+   "best": "eBay",
+   "med": 109,
+   "ratio": 4.19,
+   "ai_value": ""
   },
   {
    "pid": "7971118626",
@@ -386,6 +496,17 @@
    "best": "Wooden Garden Wagon Planter | Rustic Farmhouse Flower Cart ...",
    "med": 164,
    "ratio": 3.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930783578",
+   "title": "Vintage Woodworking Tools",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/clinton-vintage-woodworking-tools/b4AsiCan7AVGG64cprRToP",
+   "best": "Stanley No. 78 Plane: A cast-iron woodworking plane used to cut rabbets (recesses along the edge of a board) a",
+   "med": 90,
+   "ratio": 3.6,
    "ai_value": ""
   },
   {
@@ -477,6 +598,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938929994",
+   "title": "Mercury Outboard Cowlings, old-school",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/scituate-mercury-outboard-cowlings-old/tedixifGECDsmGpmxrjAL9",
+   "best": "Mercury 200/225 Black Max Outboard Port Left Side Clam Shell ...",
+   "med": 125,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7971533985",
    "title": "Vintage Nativity Scene Set",
    "price": 39,
@@ -499,6 +631,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982549721",
+   "title": "Vintage Women's Bicycle",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-clara-vintage-womens-bicycle/def6dHxAyNg7qeKeoK34zy",
+   "best": "1970-80s vintage Cruiser bikes 24\u201d and 26\u201d step through road ...",
+   "med": 234,
+   "ratio": 2.34,
+   "ai_value": "sell or list in the $50 to $150"
+  },
+  {
    "pid": "7974034083",
    "title": "Stuff",
    "price": 100,
@@ -519,6 +662,28 @@
    "med": 220,
    "ratio": 2.2,
    "ai_value": "Value: Often sold on vintage marketplaces like eBay and Etsy ranging roughly from $90 to $250"
+  },
+  {
+   "pid": "7934996165",
+   "title": "Antique Microphone and Stand",
+   "price": 80,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-antique-microphone-and-stand/g65kMARQB8Nwo9CmY1sLz5",
+   "best": "Working Vintage 1940's Kellogg Model T-32 Black Candlestick ...",
+   "med": 175,
+   "ratio": 2.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939551775",
+   "title": "Antique oil/kerosene lamp",
+   "price": 75,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/webster-antique-oil-kerosene-lamp/jGLewas7VDtAkFhxRmwyz2",
+   "best": "Body/Base: Ornate embossed or cast metal/brass-toned pedestal base, often styled after historic oil, kerosene,",
+   "med": 153,
+   "ratio": 2.04,
+   "ai_value": ""
   },
   {
    "pid": "7956532868",
@@ -701,6 +866,16 @@
    "status": "ask"
   },
   {
+   "pid": "7971687012",
+   "title": "Razor Collection Vintage",
+   "price": 50,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/westbrook-razor-collection-vintage/oAz37DWyGVteNVwn2Z6fWf",
+   "note": "8-piece razor collection, $50 OBO cash pickup (Westbrook): Gillette Tech in maroon case; gold Gillette Old Type in case w/ Rexall blades; gold Gillette in 'Chrome' labelled box; gold Gillette in purple-lined case; Rolls Razor in case; Durham Duplex boxed; 2 straight razors (one in 'U.S.'-stamped case). Parted out ~$200-250. Ask: will you ship (pickup-only) or can a local hold it; confirm head markings/date codes, blades not rusted, straight razor makers. Offer $50 shipped.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
    "pid": "7982558832",
    "title": "Fender guitar/bass strap. Vintage",
    "price": 15,
@@ -781,12 +956,52 @@
    "status": "ask"
   },
   {
+   "pid": "7966017849",
+   "title": "Vintage Brunton's Compass with Case",
+   "price": 35,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-bruntons-compass-with/a6FwU5AcEzMdByuETqAgNs",
+   "note": "Wm. Ainsworth & Sons D.W. Brunton pocket transit, aluminum, PAT JULY 20 1926, serial 16976, leather case, needle free, glass/mirror intact; owner engraving. Terapeak: Ainsworth transits median $99 (p75 $129), aluminum w/ case median $150. Resale ~$120\u2013150 \u2192 profit ~$55\u201380 at $35 \u2192 Tier B. Littleton CO, cash only, landline \u2014 needs local pickup/proxy.",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "7956827711",
+   "title": "Turquoise Jewelry",
+   "price": 20,
+   "area": "yuma",
+   "url": "https://www.craigslist.org/view/d/yuma-turquoise-jewelry/gZC6qRF6A7CoDVNuop4SSZ",
+   "note": "Lot of turquoise jewelry 'starting @ $20': channel-inlay cuff (Zuni-style), inlay ring, needlepoint/stone rings, pin, big pendant. Ask: price per piece (esp. cuff and inlay ring), any sterling/maker hallmark on inside, weight in grams, and will ship. Cuff alone could resell $80-150 if hallmarked sterling.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7951783052",
+   "title": "Vintage Vinyl LP Record Albums",
+   "price": 10,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-vintage-vinyl-lp-record-albums/hHLLFeYSSx3yL9Q46mAQKm",
+   "note": "Seattle record seller, $10-20 each across ~80 LPs. Two punk/hardcore titles stand out: Heroin s/t LP (San Diego screamo, Gravity Records c.1993, skeleton cover) and Social Distortion \"Live at the Roxy\" LP (Time Bomb 1998); originals est. $60-150 each (general knowledge, no comps; reissues exist). Also JR Cadillac \"This Time\" (Seattle private press, low). ASK: label/catalog # and runout matrix of Heroin and SD (original vs reissue), vinyl grade, and $35 for the pair shipped Media Mail. At $35 + ~$8 in, resale ~$160 -> profit ~$85 (Tier B). Kill if reissues.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
    "pid": "7967415798",
    "title": "Vintage Whitman's Chocolates two sided store sign",
    "price": 20,
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/potomac-vintage-whitmans-chocolates-two/topeEWLgwqT6bU9F2Y32pW",
    "note": "Whitman's Chocolates painted wood double-sided hanging store sign, 34x8x5/8 in, messenger-boy logo + (R) mark; clean graphics could be 1970s-90s promo or repro. Ask: photos of back/edges/hanger holes for age wear and any maker/printer mark, and whether seller will ship or meet. At $20 only works if genuine pre-1960 (~$120-175 resale; profit ~$50-75 after ~$40 two-way ship of a 34in flat box).",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7982483550",
+   "title": "HUMMEL COLLECTION 17",
+   "price": 195,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/nipomo-hummel-collection-17/s4NyKeHHxy52QYSJHuzzMY",
+   "note": "17 genuine Goebel Hummels, seller says no chips; seller list claims ~11 full-bee TMK-2 (Brother 95, Trumpet Boy 97, Wayside Harmony 111, Doctor 127, Little Cellist 89/I, Auf Wiedersehen 153/0, Little Thrifty 118, Girl with Geese 47 3/0, Apple Tree Boy 142 3/0, Schoolboy 82 x3), rest later marks (Bashful 377 is TMK-5+). Est. lot $400-550 split (full bee ~$35-60 each). At $195 FIRM: profit ~$400x0.87-35-35-195 = ~$85 < $195 price -> fails. ASK: base photos showing TMK on each piece (confirm full bee/any crown); counter $120 (passes at $120: profit ~$160). Low odds seller budges.",
    "stage": "decided",
    "status": "ask"
   },
