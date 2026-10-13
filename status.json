@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T07:15:36Z",
+ "updated": "2026-10-13T07:18:58Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2604,
-  "events": 10389,
+  "lens": 2629,
+  "events": 10414,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2836,
+  "queued": 2811,
   "comps/pass": 1,
   "decided/ask": 28,
-  "queued/relens": 309,
+  "queued/relens": 318,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 124,
-  "flagged": 101
+  "lensed": 131,
+  "flagged": 110
  },
  "last_harvests": [
   {
@@ -356,6 +356,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966561062",
+   "title": "Painting",
+   "price": 40,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/henniker-painting/vhXSSsMyUzYoJ2fJvXJWik",
+   "best": "Similar works and compositions in this style frequently appear by artists such as Miles J. Early (\"Early Morni",
+   "med": 1012,
+   "ratio": 25.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7934470986",
    "title": "AUTHENTIC VINTAGE  ITALIAN PLATES COLLECTION",
    "price": 10,
@@ -532,6 +543,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932507548",
+   "title": "Mola (art form)",
+   "price": 39,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-mola-art-form/2z84h2pPbAnjHQCAbJUqMm",
+   "best": "Craigslist",
+   "med": 400,
+   "ratio": 10.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7955892096",
    "title": "Isis Coptic Cross Pendant Necklace Gold Tone",
    "price": 10,
@@ -609,6 +631,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951224014",
+   "title": "Antique Stock Certificates",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-antique-stock-certificates/fFURYJDnTamaMdakQ9xLeM",
+   "best": "\u00b7Mayim Bialik",
+   "med": 560,
+   "ratio": 7.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7965923544",
    "title": "Vtg Hammered Aluminum Tray and Serving Bowl",
    "price": 12,
@@ -664,6 +697,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937359740",
+   "title": "Oscar Schlegelmilch tea set",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-oscar-schlegelmilch-tea-set/5tvC8TrSYbdZaKTLNUW88C",
+   "best": "KAFFESERVIS, 18+2delar. Karlskrona porslinsfabrik, Edward ...",
+   "med": 295,
+   "ratio": 6.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7981192767",
    "title": "Hallmark Snoopy Charlie Brown",
    "price": 100,
@@ -708,6 +752,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931057371",
+   "title": "Vintage - gold and pink necklace",
+   "price": 25,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-vintage-gold-and-pink-necklace/gewEgfn9xHVT3Yh2QUy1s4",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947991538",
    "title": "ARTIST-SIGNED GREENLEAF ARIZONA LANDSCAPE WATERCOLOR PAINTING JAVELINA",
    "price": 100,
@@ -727,6 +782,17 @@
    "best": "VTG HAND PAINTED FLOWERS ON FROSTED AMETHYST GLASS PEDESTAL ...",
    "med": 135,
    "ratio": 4.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937949301",
+   "title": "Vintage Japanese Porcelain Kutani Meiji Period Geisha Oval Dish",
+   "price": 60,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/hampton-vintage-japanese-porcelain/bTcpe4ehbNxgUs68DAtzP1",
+   "best": "Japanese Kutani Porcelain Dish Geisha Enamel Decoration ...",
+   "med": 275,
+   "ratio": 4.58,
    "ai_value": ""
   },
   {
@@ -859,6 +925,17 @@
    "best": "25+ Antique Slide Bracelet In Victorian & Edwardian Fine ...",
    "med": 190,
    "ratio": 3.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949766986",
+   "title": "Rustic Vintage Clay Pottery from Colombia",
+   "price": 35,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-rustic-vintage-clay-pottery/bChEtrzszjJqrZ1N7URSMo",
+   "best": "Handmade Terracotta Clay Water Jug with Lid and Handle, 1.5L ...",
+   "med": 118,
+   "ratio": 3.37,
    "ai_value": ""
   },
   {
@@ -1035,6 +1112,17 @@
    "best": "Vintage 1950s Boy Scout Official Uniform Shirt S Jubilee ...",
    "med": 86,
    "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954312326",
+   "title": "Heavy Glass Perfume Bottle -signed/numbered",
+   "price": 85,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-heavy-glass-perfume-bottle/23vVL2CvydVgYWHE696iee",
+   "best": "eBay",
+   "med": 175,
+   "ratio": 2.06,
    "ai_value": ""
   },
   {
@@ -1299,6 +1387,17 @@
    "best": "eBay",
    "med": 99,
    "ratio": 0.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950143568",
+   "title": "Medevil Double Dragon Sword",
+   "price": 185,
+   "area": "dothan",
+   "url": "https://www.craigslist.org/view/d/dothan-medevil-double-dragon-sword/48dMheazsj3ynSC9SVUY3v",
+   "best": "Value of Antique TPM Sword from Spain : r/SWORDS",
+   "med": 87,
+   "ratio": 0.47,
    "ai_value": ""
   },
   {
