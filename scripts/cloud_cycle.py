@@ -71,6 +71,9 @@ def harvest_and_select(hours, per_cycle):
     # learn category weights from every Lens result so far (self-improving prioritisation)
     Lby = {str(r['pid']): r for r in db.read('listings')}
     scoring.LEARNED = scoring.learned_weights(list(db.read('events')), Lby)
+    try:   # retrain the title→type model so new encyclopedia entries/reviews count immediately
+        import type_model; type_model.build(); type_model._M = None
+    except Exception as e: print('type model build failed', e)
     print('learned category weights:', scoring.LEARNED)
     fresh = [r for r in rows if str(r['pid']) not in known]
     scored = [(scoring.score(r), r) for r in fresh]

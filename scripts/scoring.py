@@ -73,4 +73,7 @@ def score(r):
     s+= 1 if 10<=p<=100 else 0
     s+= 1 if len(r['imgs'])>=3 else 0
     c=r.get('cat'); s+= CAT_PRIOR.get(c,0) + LEARNED.get(c,0)
+    try:
+        import type_model; s+= type_model.adjustment(t)   # encyclopedia economics of the predicted type
+    except Exception: pass
     return s
