@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:23:29Z",
+ "updated": "2026-10-13T23:26:52Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7224,
-  "events": 26644,
+  "lens": 7249,
+  "events": 26669,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 414,
+  "lensed": 420,
   "comps/pass": 1,
-  "queued/relens": 343,
+  "queued/relens": 345,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 640,
+  "flagged": 657,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 429
+  "queued": 404
  },
  "last_harvests": [
   {
@@ -1339,6 +1339,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948134857",
+   "title": "STAR OF DAVID - Sterling Silver",
+   "price": 40,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-star-of-david-sterling/h3mbAEymVQ6n84uuMYBVwB",
+   "best": "Vintage James Avery Hammered Star of David Pendant - Retired ...",
+   "med": 450,
+   "ratio": 11.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7959986586",
    "title": "Vintage Vase",
    "price": 40,
@@ -1601,6 +1612,17 @@
    "med": 219,
    "ratio": 8.76,
    "ai_value": "valued around $25 to $100"
+  },
+  {
+   "pid": "7959399108",
+   "title": "California Pottery",
+   "price": 20,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/albany-california-pottery/eLj5HFJdaxTBVgDbpjcYHf",
+   "best": "eBay",
+   "med": 175,
+   "ratio": 8.75,
+   "ai_value": ""
   },
   {
    "pid": "7974818586",
@@ -1940,6 +1962,17 @@
    "url": "https://www.craigslist.org/view/d/covina-vintage-painting-of-girl-and-her/grx5BWEgT4HBpEuzBqccub",
    "best": "PATRICIA WELCH \"Flower Girl\" Original Mid Century Modern ...",
    "med": 135,
+   "ratio": 6.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966619175",
+   "title": "Pink Glass Bead Rosary",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-pink-glass-bead-rosary/raYFVvb1tahyhsq32cmUyL",
+   "best": "Etsy",
+   "med": 81,
    "ratio": 6.75,
    "ai_value": ""
   },
@@ -2623,6 +2656,17 @@
    "best": "CUSTOM ORDER for JLW | Glass Blown Beads | Sterling Silver ...",
    "med": 22,
    "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958368049",
+   "title": "Vintage Jambiya Dagger",
+   "price": 320,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/trabuco-canyon-vintage-jambiya-dagger/3qLJGB1mY7EMMchFfXPdRo",
+   "best": "Sold at Auction: Judaica Brass Curved Dagger",
+   "med": 1400,
+   "ratio": 4.38,
    "ai_value": ""
   },
   {
@@ -3627,6 +3671,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962305535",
+   "title": "Vintage Vase",
+   "price": 30,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-vase/doTHnkxvG27XDvTDFvzaxf",
+   "best": "Vintage Nippon Hand painted Two Handled Vase | eBay",
+   "med": 85,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7965579474",
    "title": "Vintage Signed \"BEST\" 1980s Modernist Runway Statement Necklace",
    "price": 39,
@@ -4111,6 +4166,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982831124",
+   "title": "Star Wars lot",
+   "price": 60,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buda-star-wars-lot/bUFqf4rMiwkxhBjeZmo2Au",
+   "best": "Taco Bell Star Wars Figures: Sealed promotional action figures and vehicle toys from the 1996 Star Wars Trilog",
+   "med": 147,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7930537805",
    "title": "Antique Pickard Pitcher",
    "price": 150,
@@ -4185,6 +4251,17 @@
    "best": "Antique Ruby Pearl 14k Yellow Gold Ryrie Bros Ring - Size ...",
    "med": 520,
    "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953246622",
+   "title": "Glass Beaded Necklace",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/napa-glass-beaded-necklace/2irg3a2LvoDMLFxj2w7RPh",
+   "best": "Etsy",
+   "med": 35,
+   "ratio": 2.33,
    "ai_value": ""
   },
   {
@@ -4448,6 +4525,17 @@
    "url": "https://www.craigslist.org/view/d/mesa-vtg-turquoise-dainty-sterling/cxMJNxaqVNNyQKQK82gLcN",
    "best": "Native American Sterling Silver and Turquoise Cuff Bracelet ...",
    "med": 135,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947255653",
+   "title": "Vintage interesting large bug ring",
+   "price": 25,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-vintage-interesting-large/aFa5MuSpQmwx89mpETakWS",
+   "best": "Would anyone be willing to help me identify this large ...",
+   "med": 52,
    "ratio": 2.08,
    "ai_value": ""
   },
@@ -4837,6 +4925,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954527397",
+   "title": "925 Sterling Silver High Heel Charm",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-925-sterling-silver-high-heel/7RAgtaJJJCCcPK7ZqQ1nVn",
+   "best": "Size: Approximately 3/4-inch in length, weighing roughly 3.9 grams for the James Avery version (shown next to ",
+   "med": 46,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7933954165",
    "title": "Vintage JFK Pocket Watch",
    "price": 50,
@@ -5054,6 +5153,17 @@
    "best": "Sadler Blue Willow Teapot With 22kt Gold Accents, Made in ...",
    "med": 50,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966333146",
+   "title": "Goebel Cherub",
+   "price": 20,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/bellevue-goebel-cherub/pnzsFRxMmny4e4L7k2NDnH",
+   "best": "Craigslist",
+   "med": 33,
+   "ratio": 1.65,
    "ai_value": ""
   },
   {
@@ -5706,6 +5816,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970911455",
+   "title": "Vintage Framed original oil on board paint, signed still life",
+   "price": 125,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-framed-original-oil-on/5ak6iRcgrHveiHGhpoap9b",
+   "best": "Amateur Still Life - Etsy",
+   "med": 150,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7952328403",
    "title": "Picture-Boy Going Fishing",
    "price": 17,
@@ -6058,6 +6179,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7975568133",
+   "title": "Antique Bohemian garnet gilt necklace",
+   "price": 80,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/east-derry-antique-bohemian-garnet-gilt/eqneLpSfrBLoGvBBVNNnZY",
+   "best": "Craigslist",
+   "med": 80,
+   "ratio": 1,
+   "ai_value": "Value: Similar vintage and antique pieces typically range from $150 to $350"
+  },
+  {
+   "pid": "7958310302",
+   "title": "Vintage Porcelain Creamer Pitcher",
+   "price": 20,
+   "area": "nwct",
+   "url": "https://www.craigslist.org/view/d/torrington-vintage-porcelain-creamer/5md5yqDTf5wy2LeyAZx8ki",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7931133687",
    "title": "VINTAGE GERMAN LITHO BEER STEIN",
    "price": 120,
@@ -6300,6 +6443,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953996671",
+   "title": "Monet Tennis Racket BROOCHES",
+   "price": 30,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/rockwall-monet-tennis-racket-brooches/oHNkx666UNsczeCYUJhj5H",
+   "best": "Craigslist",
+   "med": 25,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7974817575",
    "title": "Vintage 90s J. Crew Gorgeous Rhinestone Opaque Vibrant Art Glass",
    "price": 39,
@@ -6484,6 +6638,17 @@
    "best": "VINTAGE SILVA THE RANGER TYPE 15T FORESTRY COMPASS MADE IN ...",
    "med": 75,
    "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964016792",
+   "title": "Wedding band 14k",
+   "price": 350,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-wedding-band-14k/ju62Jdmw2VFWVXrcqwr8Ex",
+   "best": "Etsy",
+   "med": 260,
+   "ratio": 0.74,
    "ai_value": ""
   },
   {
@@ -6949,6 +7114,17 @@
    "ai_value": "Value: Typically ranges from $10 to $40"
   },
   {
+   "pid": "7947389801",
+   "title": "Heissner Vintage Gnomes",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/sherman-oaks-heissner-vintage-gnomes/5MAaFwFN1HuQWZmVrvmjpP",
+   "best": "Snow White & 7 Drafts, 00604, Lepi \u2013 Claude Berry",
+   "med": 20,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7946507186",
    "title": "8 COMMEMORATIVE GOLF DECANTERS",
    "price": 125,
@@ -7187,6 +7363,17 @@
    "url": "https://www.craigslist.org/view/d/upper-darby-jewelry-lot/fLU68hF7wFLd2JmFfsaLwu",
    "best": "eBay",
    "med": 14,
+   "ratio": 0.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964352318",
+   "title": "Vintage Asian Incense Burner Collection",
+   "price": 300,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-asian-incense-burner/eCDja1ayFT8H4kn4YBy8pA",
+   "best": "Collection Details",
+   "med": 22,
    "ratio": 0.07,
    "ai_value": ""
   },
