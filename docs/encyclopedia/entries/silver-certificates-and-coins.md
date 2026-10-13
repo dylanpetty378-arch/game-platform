@@ -1,5 +1,5 @@
 # US silver certificates & common silver coins (Morgan dollars, Mexican pesos, proof sets)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: spot silver + grey-sheet knowledge, eBay sold memory 2025
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: spot silver + grey-sheet knowledge, eBay sold memory 2025 · tells 2026-10-13
 Slug: silver-certificates-and-coins · Aliases: silver dollar, old money, blue seal dollar, silver certificate, Morgan dollar, 5 pesos Cuauhtemoc, proof set, star note, Funnyback
 Summary: Circulated 1935/1957 $1 certs $1.50–4, 1934 $5 certs $8–15, modern proof sets $5–15; common Morgans and 1948 pesos ~1.0–1.3× melt; MS63+ slabbed Morgans $80–150 and CU star notes $20–60; key-date and CC Morgans $500–50,000.
 Buy rule (short): Silver at or below melt (lots by weight), or a slabbed key-date/CC Morgan under grey-sheet; pass on common certs over $5 and raw common Morgans over $45 (re-peg to current spot).
@@ -18,6 +18,18 @@ Seller words: "silver dollar", "old money", "blue seal dollar". Look-alikes: red
 - **Morgan dollars**: mint marks are under the eagle on the reverse (CC, S, O, D, none = Philadelphia) (general knowledge, verify). Keys include 1893-S, 1889-CC and 1895 proof-only. CC mints in MS are top tier.
 - **Mexican 5 pesos 1947–48**: bullion value.
 - **Proof sets**: 1980s–90s clad sets are $5–15. Silver proof sets (1992+ silver, pre-1965) are worth more (general knowledge, verify).
+
+### Golden-egg tells
+- 1893-S Morgan — $50,000+ in VG-10 vs $35–50 common raw (~1,000×) — "S" under the eagle's tail feathers with 1893 date; must be authenticated (https://numisview.com/education/key-date-morgan-dollars-the-complete-guide)
+- 1895 Philadelphia (proof only) — PR-60 $50,000+ — 1895 date, no mintmark, mirrored proof fields; any "1895" with no mintmark is either this or a fake (https://numisview.com/education/key-date-morgan-dollars-the-complete-guide)
+- 1895-S Morgan — ~$3,000 in VG (~75×) — 1895 date with "S" mintmark (https://numisview.com/education/key-date-morgan-dollars-the-complete-guide)
+- 1889-CC Morgan — MS from $450 to $1.2M vs 1889-P from $42 (~10× at the floor) — "CC" mintmark under the wreath bow on the reverse (https://www.greysheet.com/prices/sp/morgan-dollars-united-states-coinage/8971/1889)
+- 1879-CC, 1881-CC through 1885-CC and 1884-S in AU+ — scarce semi-keys; GSA black hard-plastic holder with card is the usual source — "CC" mintmark, GSA case (https://numisview.com/education/key-date-morgan-dollars-the-complete-guide)
+- 1935A Hawaii overprint $1 — ~$2,000 in excellent condition, star notes $500–2,000 vs $1.50 plain 1935 cert — brown seal and serials, "HAWAII" overprinted both sides (https://atticcapital.com/1935-dollar-bill/)
+- 1935A North Africa yellow-seal $1 — ~$2,200 MS64, stars $1,500+ MS63 — yellow Treasury seal with blue serials (https://atticcapital.com/1935-dollar-bill/)
+- 1935 $1 silver certificate star note in gem grade — ~$500 (PMG 66) to ~$1,000 (67) vs $1.25–1.50 circulated — solid star replacing the serial prefix letter, no folds (https://atticcapital.com/1935-dollar-bill/)
+- 1935A experimental "R" or "S" note — collector premium — small red R or S overprint right of the Treasury seal (https://atticcapital.com/1935-dollar-bill/)
+- 1899 $1 "Black Eagle" silver certificate — $40–250 vs $1.50 small-size cert — large-size note with eagle over Lincoln and Grant portraits (https://currency.ha.com/guide.php)
 
 ## Materials, finishes and quality tells
 - Morgans are 90% silver. Natural toning and even wear on high points (hair above the ear, eagle's breast) are normal.

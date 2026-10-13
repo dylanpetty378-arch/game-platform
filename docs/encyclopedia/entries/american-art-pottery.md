@@ -1,5 +1,5 @@
 # American art pottery (Rookwood, Roseville, Weller, Van Briggle, Newcomb, Grueby, Teco, Fulper, Cowan, Hull, McCoy, Gonder, Shawnee, Haeger, Red Wing, Frankoma, Bauer, Pisgah Forest, North State, Jugtown)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Roseville pattern guides https://www.rosevillepottery.org/ ; Rookwood marks and date cyphers https://www.rookwood.com/pages/history ; Gonder history from collector literature (Ron Hoopes, "The Collector's Guide and History of Gonder Pottery"); Van Briggle marks https://www.vanbrigglepottery.com/) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Roseville pattern guides https://www.rosevillepottery.org/ ; Rookwood marks and date cyphers https://www.rookwood.com/pages/history ; Gonder history from collector literature (Ron Hoopes, "The Collector's Guide and History of Gonder Pottery"); Van Briggle marks https://www.vanbrigglepottery.com/) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: american-art-pottery · Aliases: art pottery, vintage vase, Roseville, McCoy, Hull, Gonder, Haeger, Van Briggle, arts and crafts pottery, MCM pottery, matte green pottery, planter
 Summary: Mass-market 1940s–60s (McCoy, Gonder, Hull, Shawnee, Haeger, Red Wing commercial) $10–60; better production (Roseville middle-period patterns, Weller, Van Briggle later, Frankoma early) $60–300; Arts & Crafts studio/early (Rookwood artist-signed, Grueby, Newcomb, Teco, Fulper early, Marblehead, Van Briggle pre-1920) $300–5,000+.
 Buy rule (short): Buy only marked Roseville/Weller/Rookwood/Van Briggle/Fulper/Grueby/Newcomb/Teco forms at ≤ 30% of sold median, undamaged; never buy Gonder/McCoy/Hull/Haeger singles unless rare glaze or form and ≤ $10.
@@ -25,6 +25,20 @@ Factory-made decorative vases, bowls and planters from American potteries ca. 18
 - **Red Wing** (MN): art ware $20–80; stoneware crocks separately.
 - **Frankoma** (OK, 1933–2011): Ada clay/Norman pieces $50–300; later $10–40.
 - **NC folk**: Jugtown, North State, Pisgah Forest (cameo) $50–500.
+
+### Golden-egg tells
+- Van Briggle dated 1902 (Artus period, incised "AA Van Briggle 1902 III 25") — $11,340 vs $40–200 for later "Colo Spgs" pieces (~50×) — incised date and Roman numeral on the base, four-colour matte glaze, carved columbine (https://ragoarts.com/auctions/2024/04/american-european-art-pottery/163)
+- Rookwood Iris glaze by Kataro Shirayamadani with electroplated copper/silver overlay — $350,750 record vs $50–200 production — black-ground iris glaze, metal overlay lotus, artist cypher beside the flame mark (https://www.antiquesandthearts.com/rookwood-record-smashed-in-cincinnati/)
+- Rookwood Vellum landscape (e.g. Lenore Asbury) — $13,225 top, Terapeak median $600 vs $50–200 production (~5×) — misty matte landscape band, "V" impressed on base, artist initials (entry comp; https://www.antiquesandthearts.com/rookwood-record-smashed-in-cincinnati/)
+- Newcomb College artist-decorated vase (Mary Butler) — $28,750 vs Terapeak Grueby-tier median $385 — carved tulips on blue-green ground, "NC" cypher with artist and date marks (https://antiquesandthearts.com/newcomb-college-vase-tops-rago-auction/)
+- Grueby with carved jonquil decoration — $12,650 vs Terapeak plain Grueby median $385 (~30×) — applied/carved yellow flowers on curdled matte green, impressed Grueby Faience circle (https://antiquesandthearts.com/newcomb-college-vase-tops-rago-auction/; entry comp)
+- Teco large buttressed vase — $13,800 — four or more vertical buttresses/handles, silver-grey matte green, impressed "Teco" vertical mark (https://antiquesandthearts.com/newcomb-college-vase-tops-rago-auction/)
+- Fulper mushroom lamp with leaded slag-glass inserts — $18,400 vs $150–2,000 Fulper vases — pottery shade with glass panes, Fulper ink rectangle (https://antiquesandthearts.com/newcomb-college-vase-tops-rago-auction/)
+- Roseville Sunflower 487-7 — $550–650 sold vs Zephyr Lily brown ewer 23-10 $150–175 (~3.5×) — moulded yellow sunflowers on blue-green, 7" vase (https://justartpottery.com/pages/roseville-pottery-prices-an-evaluation-of-actual-sale-results)
+- Roseville Baneda 603-4 — $400–445 sold (~2.5× a 1940s floral) — pumpkin/leaf band on green or pink, 4" vase, often unmarked (https://justartpottery.com/pages/roseville-pottery-prices-an-evaluation-of-actual-sale-results)
+- Roseville Wisteria blue 629-4 — $270–365 vs brown ~half — blue ground (not brown), wisteria clusters, 4" (https://justartpottery.com/pages/roseville-pottery-prices-an-evaluation-of-actual-sale-results)
+- Roseville jardiniere-and-pedestal set — $300–1,500+ vs $100–400 vase — both pieces present and matching pattern/colour (https://lionandunicorn.com/roseville-pottery-value-guide/)
+- Watt #16 pitcher in Tulip, Rooster, Dutch Tulip or Morning Glory — $75–150 vs Apple/Starflower $30–80 (~2×) — two-colour tulips with green leaf; "Watt / Oven Ware / U.S.A. / 16" impressed (entry comp)
 
 ## Materials, finishes and quality tells
 - Weight and clay: heavy, dense, crisp molding and well-defined detail = early factory; soft mold detail and thin glaze = later or reproduction.

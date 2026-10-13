@@ -1,5 +1,5 @@
 # Pitcher and bowl (wash) sets (English ironstone and semi-porcelain: Johnson Bros., Meakin, Wood & Son, Doulton Burslem, Grindley, Colonial Pottery, Ford & Sons; flow blue; Victorian blush ware; American Homer Laughlin, KT&K, Carrollton)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Kovels marks https://www.kovels.com/marks (not loaded) ; The Potteries pottery marks database https://www.thepotteries.org/mark (not loaded) ; Flow Blue International Collectors Club https://www.flowblue.org (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Kovels marks https://www.kovels.com/marks (not loaded) ; The Potteries pottery marks database https://www.thepotteries.org/mark (not loaded) ; Flow Blue International Collectors Club https://www.flowblue.org (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
 Slug: pitcher-and-bowl-sets · Aliases: wash set, washstand set, basin and ewer, ewer and basin, wash basin and pitcher, chamber set, toilet set, ironstone pitcher bowl, flow blue pitcher bowl, Victorian wash set, bedroom set
 Summary: Plain white ironstone, 1970s–2000s décor reproductions and damaged sets $25–80; good English transferware/blush sets 1880–1920 $80–250; flow blue sets, complete toilet sets with chamber pot/soap dish, signed Doulton/Wedgwood $200–700+.
 Buy rule (short): Wash sets almost never clear shipping (12–15 lb, $40–70 each way, high breakage); buy only for local resale or if a flow blue/Doulton set is ≤ $40; otherwise pass.
@@ -16,6 +16,16 @@ A large pitcher (ewer, 11–13" tall) sitting in a wide basin (14–17" diameter
 - **Doulton Burslem** (pre-1902 mark) / **Royal Doulton**: flow blue and transfer sets $200–600.
 - **Johnson Bros.**, **Alfred Meakin**, **J&G Meakin**, **W.H. Grindley** (flow blue), **Wood & Son** ("Wood & Sons" crown mark), **Ford & Sons** (Burslem), **Colonial Pottery** (Stoke, F. Winkle & Co., c.1890–1931; teal/green transfers — Lens matched "Togo" for our sweep's teal set, verify the backstamp), **Bishop & Stonier**, **Royal Staffordshire (Wilkinson)**.
 - **Wedgwood**, **Minton**, **Royal Worcester** — premium.
+
+### Golden-egg tells
+- Flow blue ironstone pitcher and basin c.1880 — $449 sold vs $96.50 median sold set (~4.5×) — cobalt transfer bleeding into the glaze (soft edges), gilt rim, both pieces same pattern (https://underpricedai.com/worth/antique-flow-blue-and-gilt-porcelain-wash-pitcher-and-basin-set)
+- Complete toilet set: pitcher, basin, chamber pot, slop jar, soap dish, toothbrush holder — +50–300% over pitcher and basin alone — count the matching pieces in the photo, lids present (https://articles.appraisily.com/antique-wash-basin-and-pitcher-value)
+- Set with its original washstand — +50–300% — wooden stand with towel bar and cut-out top sized to the basin (https://articles.appraisily.com/antique-wash-basin-and-pitcher-value)
+- Mason's Patent Ironstone "Vase & Jardiniere" pattern — ~$899 vs $150–400 ordinary ironstone (~3×) — crown-over-scroll "MASON'S PATENT IRONSTONE CHINA" mark, Imari-style red/blue/gilt (https://articles.appraisily.com/antique-wash-basin-and-pitcher-value)
+- Quality porcelain set 1860–1900 (Haviland, Limoges, Royal Doulton, Wedgwood) — $400–800 vs $150–400 ironstone (~2×) — translucent thin body, hand-painted (not transfer) florals, heavy gilt (https://articles.appraisily.com/antique-wash-basin-and-pitcher-value)
+- Transferware in purple, green or black instead of blue — premium over blue — mulberry/purple or black print with a printed pattern-name cartouche backstamp (https://articles.appraisily.com/antique-wash-basin-and-pitcher-value)
+- Doulton Burslem flow blue (e.g. "Watteau") or Minton/Wedgwood majolica set — $200–700 / $500–1,500+ vs $80–250 transfer set — pre-1902 "Doulton Burslem" rosette mark; majolica = thick coloured lead glazes in relief (entry comp)
+- Hairline, chip or glued repair — −50% or more — hold the basin to light, check under the spout and the foot ring (https://articles.appraisily.com/antique-wash-basin-and-pitcher-value)
 
 ## Materials, finishes and quality tells
 - Old: heavy body, fine crazing, glaze wear on the basin's base ring, rough unglazed foot, printed backstamp with pattern name, registry diamonds (1842–83) or Rd No. (1884+).

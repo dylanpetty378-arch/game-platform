@@ -1,5 +1,5 @@
 # Vintage fishing lures (Creek Chub, Heddon, Pflueger, South Bend, Shakespeare, Paw Paw, Arbogast)
-Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · Sources: earlier sweep summary (index row only; full research not done); vintage-casting-reels entry (modern tackle-box lures $1–3 each); general collector knowledge (NFLCC) marked as such; Creek Chub Bait Company (Wikipedia) https://en.wikipedia.org/wiki/Creek_Chub_Bait_Company; US Lures Creek Chub page https://uslures.com/creek-chub.html; Indiana History blog https://blog.history.in.gov/reeling-in-the-legend-a-quick-dive-into-the-creek-chub-bait-company/; Lure Lore River Runt hardware https://lurelore.com/runthdwr.html; Appraisily Heddon guide https://appraisily.com/articles/unlocking-the-treasure-a-comprehensive-guide-to-the-value-of-old-heddon-fishing-lures/ and antique lure guide https://appraisily.com/articles/unlocking-the-worth-a-collectors-guide-to-antique-fishing-lures-value/ (secondary sources; verify)
+Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · Sources: earlier sweep summary (index row only; full research not done); vintage-casting-reels entry (modern tackle-box lures $1–3 each); general collector knowledge (NFLCC) marked as such; Creek Chub Bait Company (Wikipedia) https://en.wikipedia.org/wiki/Creek_Chub_Bait_Company; US Lures Creek Chub page https://uslures.com/creek-chub.html; Indiana History blog https://blog.history.in.gov/reeling-in-the-legend-a-quick-dive-into-the-creek-chub-bait-company/; Lure Lore River Runt hardware https://lurelore.com/runthdwr.html; Appraisily Heddon guide https://appraisily.com/articles/unlocking-the-treasure-a-comprehensive-guide-to-the-value-of-old-heddon-fishing-lures/ and antique lure guide https://appraisily.com/articles/unlocking-the-worth-a-collectors-guide-to-antique-fishing-lures-value/ (secondary sources; verify) · tells 2026-10-13
 Slug: vintage-fishing-lures · Aliases: old fishing lures, wooden lures, glass eye lures, tackle box lot, Creek Chub, Heddon lure, antique lures, bait
 Summary: Boxed Creek Chub / Heddon / Pflueger $30–150 each; loose common Heddon Tiny Torpedo / Crazy Crawler $5–15; modern plastic Rapala/Rebel/Beetle Spin $1–3.
 Buy rule (short): Lots only if boxes or glass-eye wooden lures are visible.
@@ -36,6 +36,17 @@ Buy rule (short): Lots only if boxes or glass-eye wooden lures are visible.
 - Prop style (on Torpedo/minnows) and whether props are maker-stamped.
 - Paint: factory scale/gill marks vs repaint (paint in screw slots, over dings).
 - Count of treble hooks on minnows (3 and 5-hook underwater minnows are the early ones).
+
+### Golden-egg tells
+- Heddon 1905 Hi-Forehead 150 Minnow, glass eyes, hand-painted red gills — $23,400 vs $5–15 loose common Heddon (~1,500×) — high-shouldered wood body, five treble hooks, cup hardware, red gill strokes (https://www.mychesco.com/a/news/regional/rare-fishing-lures-reel-in-863000-at-morphy-auctions/)
+- Heddon Introductory Model 155 Dowagiac Minnow in solid yellow with era-correct box — $20,900 — plain yellow paint (no scale), glass eyes, original hooks, early picture box (https://www.mychesco.com/a/news/regional/rare-fishing-lures-reel-in-863000-at-morphy-auctions/)
+- Heddon Dowagiac Expert slopenose, blue and white — $17,600; the white cardboard box alone up to $1,000 — sloped collar nose, single rear hook, turn-of-century white box (https://outdoorhub.com/?p=394218)
+- Wilcox Wiggler (Elmwood, Indiana) brown-spotted with paper-label box — $39,600 — clear solid-glass eyes, spotted paint, paper-label box with insert (https://www.mychesco.com/a/news/regional/rare-fishing-lures-reel-in-863000-at-morphy-auctions/)
+- Enterprise (Pflueger) Trory Minnow c.1900 — $23,400 — silver belly, hand-painted gills, glass eyes, metal-flanged body (https://www.mychesco.com/a/news/regional/rare-fishing-lures-reel-in-863000-at-morphy-auctions/)
+- Shakespeare Revolution / Muskellunge Minnow (late 1890s) — $23,100 — hollow metal body, three trebles, nose propeller (https://outdoorhub.com/?p=394218)
+- Chautauqua Minnow (Krantz & Smith, 1908) — $37,400 — metal-bodied minnow with weedless hook guard (https://outdoorhub.com/?p=394218)
+- Late-1800s hand-made wooden minnow with spade-shaped props — $14,100 — copper perch stripes, primitive hand-cut props (https://www.mychesco.com/a/news/regional/rare-fishing-lures-reel-in-863000-at-morphy-auctions/)
+- Any lure with its correct maker box and papers — 2–5× the loose lure — end-label model and colour code matching the lure (entry comp)
 
 ## Materials, finishes and quality tells
 - Glass eyes, hand-painted gill marks, cup-and-screw or "L-rig" hook hangers, and a wooden body = older (general knowledge, verify).

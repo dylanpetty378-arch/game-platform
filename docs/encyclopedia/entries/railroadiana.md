@@ -70,9 +70,6 @@ Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) �
 - Keys/locks: high fake risk; buy only with clear period maker marks and low price.
 - Fits passenger seat: yes.
 
-## Field notes (learned in triage)
-- 2026-10-13 (triage): PRR keystone side-marked individual silverplate teapots are the most common railroad hollowware, comp median $75 — pass above ~$25.
-
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "irregular",

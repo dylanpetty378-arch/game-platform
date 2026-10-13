@@ -1,5 +1,5 @@
 # Satsuma and Satsuma-style Japanese pottery (Kinkozan, Yabu Meizan, Taizan, Hododa, Kozan; Taisho/Showa export moriage Satsuma; Nippon; postwar Satsuma-style giftware)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Gotheborg Japanese marks guide https://gotheborg.com/marks/satsuma.shtml (not loaded) ; Bonhams/Christie's Meiji ceramics results (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Gotheborg Japanese marks guide https://gotheborg.com/marks/satsuma.shtml (not loaded) ; Bonhams/Christie's Meiji ceramics results (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
 Slug: satsuma-pottery · Aliases: Satsuma, Satsuma vase, moriage vase, Japanese earthenware vase, geisha vase, Kyoto Satsuma, Meiji Satsuma, Nippon moriage, Japanese gold vase, Shimazu crest vase, Japanese porcelain vase, peacock vase
 Summary: Postwar "Satsuma" gift vases and modern porcelain look-alikes $10–40; 1910s–40s export moriage Satsuma (geisha, Rakan, scroll handles) $30–120; signed Meiji Kyoto Satsuma (Kinkozan, Taizan, Hododa) $200–1,500; Yabu Meizan, Kozan masterworks $1,000–20,000+.
 Buy rule (short): Buy only fine-crackle ivory Meiji pieces with miniature-scale painting and a studio signature at ≤ 25% of sold; pass on heavy moriage export pieces over ~$15 and on porcelain "Satsuma style".
@@ -17,6 +17,15 @@ Satsuma is cream/ivory earthenware with a fine crackle glaze, painted in overgla
 - **Taizan, Hododa, Gyokuzan, Ryozan, Kozan (Makuzu Kozan, porcelain), Shuzan, Seikozan**: $200–3,000.
 - **Export trading-house marks**: "Royal Satsuma", "Hotoda", "Kinkozan" copies.
 - **Nippon** (1891–1921 US imports marked "Nippon"): moriage porcelain (not Satsuma) often confused.
+
+### Golden-egg tells
+- Yabu Meizan (Osaka) gold-signed vase, 15 cm — $3,500–5,500 hammer (~40× a $30–120 export moriage vase) — microscopic irises/dragonflies with clean negative space, narrow gilt-edged mouth, base signed "Yabu Meizan" in a gold cartouche (https://www.smithandsinger.com.au/lot/AU0826/328)
+- Kinkozan gold-seal vase with reserved panels, 17.5 cm — £2,467 sold (~25× export) — tapered square form, panels of ducks under wisteria / sparrow in flowers inside gilt key-fret borders, "Kinkozan zo" seal on base (https://www.bonhams.com/auction/11820/lot/84/a-satsuma-vase-by-kinkozan-meiji)
+- Ryozan / Yasuda Company (Kyoto) studio mark — several hundred to low four figures (~5–10× export) — gold or iron-red oval/shield cartouche beside the Shimazu cross-in-circle, "Dai Nippon" prefix (https://appraisily.com/articles/satsuma-porcelain-vase/)
+- Court scenes, bijin, scholars or Rakan with individual faces — $300–1,500 (~5× repeated-geisha export) — tapering confident brush lines, lifelike hands and textiles, restrained gilt that does not flake (https://appraisily.com/articles/satsuma-porcelain-vase/)
+- Matched pair of vases — premium over two singles — same scene mirrored, same height, both seals shown (https://appraisily.com/articles/satsuma-porcelain-vase/)
+- Miniature koro, 2–4" bowl or button with a gold seal — $200–1,500 vs the $10–40 lot price it is buried in — tiny lidded censer or cup with a gold seal on the unglazed foot (entry comp)
+- "Royal Satsuma", crown logo or "Hand Painted Royal Satsuma" mark — ~0.2× (tourist/repro, $10–40) — red/blue printed crown or English words on the base, bright white body (https://appraisily.com/articles/satsuma-porcelain-vase/)
 
 ## Materials, finishes and quality tells
 - Body: soft, warm ivory earthenware with all-over fine crackle; porcelain (hard, white, translucent at edges) means "Satsuma style", not Satsuma.

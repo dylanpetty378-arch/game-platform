@@ -1,5 +1,5 @@
 # Hand planes (Stanley Bailey & Bedrock, Lie-Nielsen, Veritas, Record, Sargent, Millers Falls)
-Updated: 2026-10-08 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); Google Lens asking-price medians from the 2026-10-13 sweep (asking-price based, not sold); remaining detail is general knowledge, verify
+Updated: 2026-10-08 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); Google Lens asking-price medians from the 2026-10-13 sweep (asking-price based, not sold); remaining detail is general knowledge, verify · tells 2026-10-13
 Slug: hand-planes · Aliases: wood plane, bench plane, jack plane, smoothing plane, jointer plane, block plane, rabbet plane, transitional plane, "planer", woodworking plane
 Summary: Lie-Nielsen shoulder plane ~$240; Stanley Bedrock $80–250; common Stanley Bailey $20–60
 Buy rule (short): Lie-Nielsen/Veritas under $100; Bedrock under $50
@@ -15,6 +15,17 @@ A hand tool for flattening/smoothing wood: a sole (cast iron, bronze or wood) wi
 - **Veritas** (Lee Valley, Canada): modern premium; resale strong.
 - **Record** (UK), **Sargent**, **Millers Falls**, **Union**, **Ohio Tool**, **Keen Kutter** (Simmons Hardware branded): mid-tier user planes.
 - Wooden moulding planes (18th–19th c.) – separate small market, $10–40 common, more for named early makers.
+
+### Golden-egg tells
+- Stanley No. 1 (5½" long, 1¼" iron) — $1,200–1,800 on eBay, Type 1 $1,600–2,800, vs $20–60 common No. 4 (~30×) — no number cast in the bed, no lateral adjustment lever, trademark stamped on the iron only (https://www.handplane.com/127/stanley-no-1-smooth-plane)
+- Counterfeit No. 1 — $150–300 — rough frog/lever-cap castings, poorly shaped tote, rear adjuster screw tilts upward, iron stamped on both sides (https://www.handplane.com/127/stanley-no-1-smooth-plane)
+- Stanley Bedrock 603 Types 1–4 (pre-1911 round-top sides) — $200–400 vs Terapeak Bedrock median $114.50 (~2–3×) — rounded cheek tops, "BED ROCK" behind the frog, 8" sole (https://www.handplane.com/87/stanley-bedrock-no-603-smooth-plane/; entry comp)
+- Stanley Sweetheart era (1920–35) — often sells for more than other types — heart-in-notch logo on the iron (https://www.handplane.com/127/stanley-no-1-smooth-plane)
+- Millers Falls No. 24 jointer — $250–325, type 1 $350–400 vs $20–60 common Bailey (~6×) — 24" sole, red frog/"Millers Falls" cast on the lever cap (https://oldtoolheaven.com/millers-falls/price/price.htm)
+- Millers Falls No. 7 smoother — $350–400 (type 1 $400–500) and No. 209 $250–325 — small 7" sole with Millers Falls lever cap; 209 = "Buck Rogers" streamlined red-and-black body (https://oldtoolheaven.com/millers-falls/price/price.htm)
+- Millers Falls No. 10½ scrub $300–350, No. 65 scraper $225–275, No. 95 weather-strip $225–275 — vs No. 9/14 bench planes $35–75 — model number cast on the toe; a type-1 (earliest) example roughly doubles the later one, original box adds more (https://oldtoolheaven.com/millers-falls/price/price.htm)
+- Stanley No. 45/55 combination plane boxed with full cutter set — $200–600+ vs $40–90 user plane — wooden box, rows of numbered cutters, fence and depth stops present (entry comp)
+- Repainted japanning or wire-wheeled bright parts — collector value gone, user value only — uniform glossy new black, bare shiny castings (https://oldtoolheaven.com/millers-falls/price/price.htm)
 
 ## Materials, finishes and quality tells
 Cast-iron body with original black japanning (70%+ intact is good); rosewood tote/knob on pre-war Stanleys, painted hardwood on later; brass adjuster nut (small nut = earlier, larger later). Corrugated soles ("C" after the number) are a variant, slight premium to some users. Quality tells: machined frog faces, flat sole, the iron and cap iron matched to the maker. Cheap production: thin castings, plastic totes, pressed-steel lever caps (post-1970s Stanley, Anant/Indian imports). Old vs new: patent dates behind the frog, logo on the blade, tote material. (general knowledge, verify)

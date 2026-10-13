@@ -19295,3 +19295,4 @@
 {"ts":"2026-10-13T15:55:11Z","pid":"7933504222","stage":"lensed","run":"lensworker-20261013-1547","data":{"med":13,"ratio":1.3}}
 {"ts":"2026-10-13T15:55:19Z","pid":"7953344699","stage":"flagged","run":"lensworker-20261013-1547","data":{"med":126,"ratio":2.52}}
 {"ts":"2026-10-13T15:55:34Z","pid":"7927850282","stage":"expired","run":"liveness","note":"posting gone (was flagged/)"}
+{"pid":"7957580222","stage":"decided","status":"ask","type":"underground-comix","note":"Zap Comix #1, 35¢ cover, $50. Back cover 'Printed by Don Donahue' = 2nd printing (~5,000 run), raw VG $500-900 → Tier A; no printer line = Print Mint 3rd printing $40-70 → pass. ASK for back-cover + indicia photos. No sold comp yet.","run":"triage-20261013f","by":"claude","data":{"tier":"A?","est_resale":600},"ts":"2026-10-13T15:58:33Z"}

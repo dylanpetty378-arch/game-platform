@@ -26,6 +26,20 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (16:00–17:00) — unlensed triage, 4 new entries, tells to 80 entries
+- Unlensed pool (never read by Lens): 900 rows, 4 agents → 895 kills, 4 asks, 1 buy. The buy: a Fender silverface
+  Champ (AA764 spec, c.1975–81) listed as "Vintage fender amplifier" at $50 in Delaware; seller says it works; sells
+  $350–550 → Tier A, but it is a tube amp (Dylan's electronics rule — his call) and needs a sold check.
+- Zap Comix #1 at $50 was re-opened from kill to ask after the new underground-comix entry: a 35¢ copy with
+  "Printed by Don Donahue" on the back cover is the ~5,000-run 2nd printing ($500–900), without it the 100k Print
+  Mint 3rd ($40–70). Lesson: comics verdicts need back-cover/indicia photos; printing decides everything.
+- New entries: watt-pottery, underground-comix, wood-cased-telephones, vintage-ray-ban-sunglasses (asking-price
+  based, confidence low — Terapeak pass needed).
+- Golden-egg tells now in 80 entries (527 to go). Standouts: Stanley No. 1 (no cast number, no lateral lever)
+  $1,200–1,800; Van Briggle 1902 incised = $11k; Kamaka Gold Label ~20× a Makala; Hamm's Scene-O-Rama motion sign.
+- Unlensed-pool lesson (3 agents agree): ~80–95% die on title alone, the rest on the body; the plausible types fail
+  on weight/shipping, not identification. A weight filter before photo work would save most of the time.
+
 ### 2026-10-13 (15:20–16:00) — triage round 6 under the no-generalization rule; golden-egg tells begin
 - Triage: 1,773 rows (1,030 lensed + 743 flagged), 8 agents, every verdict naming the specific variant. 1,760 kills,
   13 asks, 0 buys. Best asks: Lionel postwar lot $50 with a 6520 searchlight car whose generator is ORANGE (scarce
