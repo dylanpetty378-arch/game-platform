@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:30:45Z",
+ "updated": "2026-10-13T13:34:35Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4962,
-  "events": 14897,
+  "lens": 4987,
+  "events": 14922,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 666,
-  "queued": 1278,
+  "lensed": 679,
+  "queued": 1253,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 364,
-  "flagged": 516,
+  "queued/relens": 366,
+  "flagged": 526,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -477,6 +477,17 @@
    "best": "Pandora",
    "med": 499,
    "ratio": 49.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982693145",
+   "title": "VINTAGE NUGGET BUCKLES CHOICE (HEART~OVAL~TEXAS)",
+   "price": 12,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/wappingers-falls-vintage-nugget-buckles/eakLVaVZ4nZq39mvxSrLDv",
+   "best": "1982~**NUGGET HEART SHAPE **~BELT BUCKLE~GOLD TONE~MADE IN ...",
+   "med": 550,
+   "ratio": 45.83,
    "ai_value": ""
   },
   {
@@ -1206,6 +1217,17 @@
    "ai_value": "sell or are valued between $40"
   },
   {
+   "pid": "7952131916",
+   "title": "P.J's CAROUSEL COLLECTION MULLER STYLE, \"MAJOR.\" 17\" Tall",
+   "price": 95,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-pjs-carousel-collection/oXTzdzudnGvCBQ2ZYk4ZA5",
+   "best": "Charles Carmel Overview: Sales Records & Exhibition History",
+   "med": 1259,
+   "ratio": 13.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7953318070",
    "title": "Johnson Brothers Pitcher",
    "price": 5,
@@ -1522,6 +1544,17 @@
    "best": "Don't stuff those vintage tools in a toolbox or a drawer ...",
    "med": 150,
    "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982698512",
+   "title": "Vintage Australian Aboriginal Didgeridoo Hand Painted 40\"",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-australian-aboriginal/kgdvVBvN3tpSBS8ejbLDZV",
+   "best": "Vintage Didgeridoo 51\" Wood Wind Instrument | eBay",
+   "med": 390,
+   "ratio": 9.75,
    "ai_value": ""
   },
   {
@@ -2075,6 +2108,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975174164",
+   "title": "Vintage California Landscape Painting on Canvas Board MCM",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/pasadena-vintage-california-landscape/myQgpkU1rs6M1GxMfsW8pd",
+   "best": "Vintage American Impressionist Fall Landscape Painting by ...",
+   "med": 540,
+   "ratio": 6.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7965116028",
    "title": "Vintage metal milk crate",
    "price": 15,
@@ -2358,6 +2402,17 @@
    "best": "Oblong Quartz Charm - Etsy",
    "med": 119,
    "ratio": 5.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948384732",
+   "title": "Turq \u2026necklace\u2026.",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-turq-necklace/8cVw6aumYzw1yRv4u1uyMF",
+   "best": "Miriam Haskell | Jewelry | Miriam Haskell Signed Vintage ...",
+   "med": 89,
+   "ratio": 5.93,
    "ai_value": ""
   },
   {
@@ -3890,6 +3945,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953094910",
+   "title": "4 old wood planes",
+   "price": 60,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/oakmont-old-wood-planes/hScWJGFmUTX5ZhECyee8io",
+   "best": "Antique Coffin Style Hand Planes | eBay",
+   "med": 175,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7977864117",
    "title": "Vintage Rubbermaid Laundry Hamper",
    "price": 35,
@@ -4292,6 +4358,17 @@
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/springfield-early-1900s-hmc-cutlery-co/8yFcz6UkD2UK7Dov4tCxxr",
    "best": "Vintage H.M.C. Cutlery Co. New Bedford Mass Straight Razor ...",
+   "med": 75,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943569225",
+   "title": "VINTAGE PAPER MATE",
+   "price": 30,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/hoffman-estates-vintage-paper-mate/bZmkQBbbqrfcnYxhxX1gvu",
+   "best": "Kreisler vintage 10k rolled gold mens watch band. New old ...",
    "med": 75,
    "ratio": 2.5,
    "ai_value": ""
@@ -4858,6 +4935,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932286668",
+   "title": "Women's Watches GUCCI and more!",
+   "price": 200,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-womens-watches-gucci-and-more/2yAXCWekjw4TeofDPqeEuL",
+   "best": "Vintage Gucci 9000M Watch Silver Gold Pearl Black Dial | eBay",
+   "med": 350,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7947082367",
    "title": "Vintage Spongeware Paneled Pottery Mixing Bowl, 8\"",
    "price": 30,
@@ -5295,6 +5383,17 @@
    "best": "ASSORTMENT OF 21 ANTIQUE HAND TOOLS, SAWS, CUTTERS, PLIERS ...",
    "med": 86,
    "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944701383",
+   "title": "Buddha statue",
+   "price": 100,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/la-follette-buddha-statue/qc1hg57vnakPTB3yD24sW7",
+   "best": "Vintage Figurine Happy Buddha Smiling Red Rosewood Crack on ...",
+   "med": 111,
+   "ratio": 1.11,
    "ai_value": ""
   },
   {
@@ -5975,6 +6074,17 @@
    "area": "kansascity",
    "url": "https://www.craigslist.org/view/d/excelsior-springs-epiphone-sg/jFoSAg4hqtxVzxz7EPCVbr",
    "best": "Epiphone SG special 6 String Electric Guitar - Cherry ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959780300",
+   "title": "Pernell Roberts Original Painting From Estate (Bonanza, Trapper John)",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-pernell-roberts-original/jJFpYQw39rV49hy96wQvHz",
+   "best": "SOLD - Vintage Oil Painting Portrait of Bald Man with Gray ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
