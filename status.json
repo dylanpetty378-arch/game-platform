@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:32:16Z",
+ "updated": "2026-10-13T06:36:10Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2329,
-  "events": 9864,
+  "lens": 2354,
+  "events": 9889,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3111,
+  "queued": 3086,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 95,
-  "lensed": 105
+  "flagged": 107,
+  "lensed": 118
  },
  "last_harvests": [
   {
@@ -367,6 +367,17 @@
    "ai_value": "Price Range: Similar vintage signed watercolor listings typically range around $45 to $100"
   },
   {
+   "pid": "7971753309",
+   "title": "ELEGANT VINTAGE IMPRESSIONIST FLOWERS STILL LIFE WATERCOLOR",
+   "price": 45,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-elegant-vintage-impressionist/1WntxpoeYvobumxzr8LJdZ",
+   "best": "Sold at Auction: Segundo Huertas-Aguiar, Segundo Huertas ...",
+   "med": 850,
+   "ratio": 18.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7949107838",
    "title": "VINTAGE SIGNED CYNTHIA DECEMBER MODERN ART ETCHING PRINT CATHY & CAT",
    "price": 100,
@@ -400,6 +411,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949525472",
+   "title": "Vintage copper lot",
+   "price": 50,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/south-roxana-vintage-copper-lot/xfWpmHZKJgJwaCRNDveHAw",
+   "best": "Antique Hand Hammered Copper Farmhouse Kettle Very Old | eBay",
+   "med": 590,
+   "ratio": 11.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7982593668",
    "title": "Mixed lot of 29 vintage quartz watches",
    "price": 29,
@@ -419,6 +441,17 @@
    "best": "Sold at Auction: Antique Boston Elevated Railway Steam Gauge",
    "med": 248,
    "ratio": 9.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954010839",
+   "title": "Vintage silver plate miniature teapot",
+   "price": 10,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-silver-plate-miniature/qd3JazG8R9PnKkQXQ8EBAh",
+   "best": "Vintage Bombay Company Silver\u2011plated Miniature Teapot Candle ...",
+   "med": 99,
+   "ratio": 9.9,
    "ai_value": ""
   },
   {
@@ -477,6 +510,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982633328",
+   "title": "Vintage Miniture Painted Martinroda Cup And Saucer",
+   "price": 10,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/lansing-vintage-miniture-painted/edXWMm9vtdk4GaexcMSDme",
+   "best": "2 Small Antique German Luster Teacups and Saucers, Fine ...",
+   "med": 75,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952956310",
    "title": "Vintage Japanese cast iron tea kettle",
    "price": 20,
@@ -495,6 +539,17 @@
    "url": "https://www.craigslist.org/view/d/minneapolis-porcelain-vintage-boudoir/1XUmfyyADDZThd8d3ULFZY",
    "best": "Electrical/Condition Note: Vintage lamps of this age frequently feature older cloth or plastic wiring that may",
    "med": 181,
+   "ratio": 7.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946531506",
+   "title": "All of these impeccable antique VASES for $29 each",
+   "price": 29,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/plano-all-of-these-impeccable-antique/pG6BQrcaBPa9otB5urPpYe",
+   "best": "VTG HAND PAINTED FLOWERS ON FROSTED AMETHYST GLASS PEDESTAL ...",
+   "med": 210,
    "ratio": 7.24,
    "ai_value": ""
   },
@@ -573,6 +628,17 @@
    "best": "Poshmark",
    "med": 580,
    "ratio": 5.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962466338",
+   "title": "Vintage ABP Brilliant Cut Glass Whiskey Jug Decanter",
+   "price": 65,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-abp-brilliant-cut/nxcM6gbGgRbJumiwt9Q7n4",
+   "best": "Antique American Brilliant cut glass demijohn decanter with ...",
+   "med": 350,
+   "ratio": 5.38,
    "ai_value": ""
   },
   {
@@ -675,6 +741,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7939046320",
+   "title": "Antique African Shona Snuff Container Zimbabwe",
+   "price": 85,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-antique-african-shona-snuff/iF2p1AUgxZkEx4DCNNZViP",
+   "best": "Full article: In pursuit of virtuosity: gendering 'master ...",
+   "med": 375,
+   "ratio": 4.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944996431",
+   "title": "5-Piece Brass Vintage Tea Set",
+   "price": 125,
+   "area": "dothan",
+   "url": "https://www.craigslist.org/view/d/dothan-piece-brass-vintage-tea-set/korWnGxF7tNE9o75P8wXFZ",
+   "best": "Antique English silver plated tea set 4 pieces over 100 ...",
+   "med": 547,
+   "ratio": 4.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7957188755",
    "title": "Antique Oil Painting",
    "price": 100,
@@ -719,6 +807,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7973806956",
+   "title": "Wildlife framed print",
+   "price": 25,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/sun-prairie-wildlife-framed-print/ji398oD678F99dYm15d2zZ",
+   "best": "Original PHEASANT Bird Hunting Print Lithograph Picture ...",
+   "med": 99,
+   "ratio": 3.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963819521",
+   "title": "Arvin Vintage Bakelite Tube Radio",
+   "price": 65,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-arvin-vintage-bakelite-tube/hnTFLNiLpTdwdkmfWttHAf",
+   "best": "Rare Vintage Art Deco RCA Victor 1940's Bakelite Tube Table ...",
+   "med": 249,
+   "ratio": 3.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7952660842",
    "title": "1960's Vintage Ceramic Coffee Pot",
    "price": 35,
@@ -727,6 +837,17 @@
    "best": "Vintage 1960s Melitta Germany Porcelain Coffee Pot ... - eBay",
    "med": 133,
    "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946803229",
+   "title": "Beautiful Antique Hand-Painted Gone-With-The-Wind Lamp",
+   "price": 60,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-beautiful-antique-hand-painted/baT6aYw3r8vpTdeJa949yi",
+   "best": "Vintage Yellow Red Rose Floral Hurricane Lamp 16.75 ...",
+   "med": 225,
+   "ratio": 3.75,
    "ai_value": ""
   },
   {
@@ -914,6 +1035,17 @@
    "best": "Craigslist",
    "med": 135,
    "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952928983",
+   "title": "Glass Vintage Footed Fruit Bowl",
+   "price": 60,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-glass-vintage-footed-fruit/7awAneYdqGrs61diBDBXMz",
+   "best": "AMERICAN BRILLIANT CRYSTAL CUT BOWL Stars & Diamonds | eBay",
+   "med": 150,
+   "ratio": 2.5,
    "ai_value": ""
   },
   {
