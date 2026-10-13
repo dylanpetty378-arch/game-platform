@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T03:59:36Z",
+ "updated": "2026-10-13T04:03:17Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1379,
-  "events": 6881,
+  "lens": 1404,
+  "events": 6906,
   "comps": 12,
   "item_types": 217,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3262,
-  "lensed": 453,
+  "queued": 3237,
+  "lensed": 466,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 309,
@@ -21,7 +21,7 @@
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 22
+  "flagged": 34
  },
  "last_harvests": [
   {
@@ -191,6 +191,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7967415798",
+   "title": "Vintage Whitman's Chocolates two sided store sign",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/potomac-vintage-whitmans-chocolates-two/topeEWLgwqT6bU9F2Y32pW",
+   "best": "Value / Market Range: Similar vintage double-sided examples typically sell between $150 and $250 depending on ",
+   "med": 1250,
+   "ratio": 62.5,
+   "ai_value": "Value / Market Range: Similar vintage double-sided examples typically sell between $150"
+  },
+  {
+   "pid": "7968701430",
+   "title": "Early 1900s Antique Ornate Bridge Floor Lamp",
+   "price": 200,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-early-1900s-antique-ornate/vEnpMTRaLkregodXJVXE58",
+   "best": "1930s Shepherd's Hook Bridge Lamp | Chairish",
+   "med": 5000,
+   "ratio": 25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976559981",
+   "title": "Ernst Geissendorfer SIGNED Etching Rothenburg Tauber \"Plonlein\"",
+   "price": 10,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/north-canton-ernst-geissendorfer-signed/qioKR8A8kUU6468cHZXiKQ",
+   "best": "Artist: Usually signed in pencil by Ernst Geissend\u00f6rfer along the bottom margin.",
+   "med": 179,
+   "ratio": 17.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7952472943",
    "title": "Winter scenic print",
    "price": 10,
@@ -235,6 +268,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944905021",
+   "title": "Antique Wash Stand W/ Blue flow.",
+   "price": 150,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/gold-hill-antique-wash-stand-blue-flow/dcHU7cqs249VvnYciTksUx",
+   "best": "Vintage English Victorian Style Barley Twist Wash Basin ...",
+   "med": 1495,
+   "ratio": 9.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7934931919",
    "title": "Pittsburgh Steelers garage sign",
    "price": 20,
@@ -244,6 +288,17 @@
    "med": 190,
    "ratio": 9.5,
    "ai_value": "Price: Typically ranges from about $19"
+  },
+  {
+   "pid": "7952998598",
+   "title": "Vintage Gold-tone with Rhinestones Mesh Flower Necklace with earrings",
+   "price": 10,
+   "area": "annarbor",
+   "url": "https://www.craigslist.org/view/d/ann-arbor-vintage-gold-tone-with/iWoz6e8EwaXizGEEYZKBjW",
+   "best": "Glitz & Ears Boutique",
+   "med": 85,
+   "ratio": 8.5,
+   "ai_value": ""
   },
   {
    "pid": "7940658227",
@@ -268,12 +323,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7956642263",
+   "title": "Antique milk can",
+   "price": 55,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ojai-antique-milk-can/rq2gwCdPaBAs8BrBmQQ9jg",
+   "best": "VINTAGE 1920-30s ATLANTIC REFINING CO. 5 GALLON OIL CAN ...",
+   "med": 270,
+   "ratio": 4.91,
+   "ai_value": ""
+  },
+  {
    "pid": "7965801477",
    "title": "Antique Phone",
    "price": 40,
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/centreville-antique-phone/sAdqFJ8xdC3yU95fbnhW9L",
    "best": "Astral Onyx | V&A Explore The Collections",
+   "med": 150,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951221504",
+   "title": "Epic Sherlock Holmes print framed",
+   "price": 40,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-epic-sherlock-holmes-print-framed/moACqLUGijYVDN8ZeRHqx7",
+   "best": "Craigslist",
    "med": 150,
    "ratio": 3.75,
    "ai_value": ""
@@ -287,6 +364,17 @@
    "best": "Estimated Value: Similar vintage framed Japanese textile or bunka geisha art pieces typically sell in the $40 ",
    "med": 140,
    "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972434330",
+   "title": "Vintage Hand-Carved Wooden Jar",
+   "price": 25,
+   "area": "okaloosa",
+   "url": "https://www.craigslist.org/view/d/shalimar-vintage-hand-carved-wooden-jar/oa7RSyvVgW4nqSncU3tJPH",
+   "best": "Ginger Jar With Wooden Lid - Etsy - Page 2",
+   "med": 85,
+   "ratio": 3.4,
    "ai_value": ""
   },
   {
@@ -323,6 +411,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937725473",
+   "title": "1910 Paris Flood Signed Etching by Lucy Garnot  - French Antique",
+   "price": 195,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-1910-paris-flood-signed/pT7gpVzfz3cgcAqAvxP1AC",
+   "best": "eBay",
+   "med": 475,
+   "ratio": 2.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7982498625",
    "title": "KALA  KA-CG",
    "price": 80,
@@ -353,6 +452,17 @@
    "best": "Signed Crown Trifari Gold Tone Chrysanthemum Brooch | Mid ...",
    "med": 88,
    "ratio": 1.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945063878",
+   "title": "Original Bowie knife",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-original-bowie-knife/gtjmU8p3JLozwxgxxguMWk",
+   "best": "Vintage Japan Japanese MONARCH Original Bowie Hunting Knife ...",
+   "med": 96,
+   "ratio": 1.92,
    "ai_value": ""
   },
   {
@@ -406,6 +516,28 @@
    "area": "seattle",
    "url": "https://www.craigslist.org/view/d/milton-barbie-talking-ken-vintage/ob9z9zcsMACisuk3vP6v1y",
    "best": "VTG 1969 Barbie New Good Looking Talking Ken Doll No ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953789719",
+   "title": "Porcelain Bird Figurine (Bullfinch?)",
+   "price": 15,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/new-haven-porcelain-bird-figurine/b4XqJ29s6WS5eekgnfSuYD",
+   "best": "\u0421\u0442\u0430\u0442\u0443\u044d\u0442\u043a\u0430 \"\u0421\u0438\u043d\u0438\u0446\u0430 \u0441 \u0445\u043e\u0445\u043e\u043b\u043a\u043e\u043c\", \u0444\u0430\u0440\u0444\u043e\u0440, \u0440\u043e\u0441\u043f\u0438\u0441\u044c, \u0437\u043e\u043b\u043e\u0447\u0435\u043d\u0438\u0435 ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952824241",
+   "title": "Dragon Folding Knife",
+   "price": 15,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/fort-collins-dragon-folding-knife/nXnAu6SiTbBkCfsh9iXnyP",
+   "best": "Handle/Art: Features a detailed oval artwork of a dragon under a full moon, set into an antiqued metal frame w",
    "med": null,
    "ratio": null,
    "ai_value": ""
