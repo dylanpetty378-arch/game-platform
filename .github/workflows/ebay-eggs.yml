@@ -7,6 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       hours: {description: 'auctions ending within N hours', default: '24'}
+      mode: {description: 'pool or detail (detail = full listings for research/pools/ebay-flagged.json)', default: 'pool'}
 concurrency: {group: ebay-eggs, cancel-in-progress: false}
 permissions: {contents: write}
 jobs:
@@ -22,10 +23,11 @@ jobs:
         env:
           EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
           EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
-        run: python3 scripts/ebay_eggs.py pool ${{ github.event.inputs.hours || '24' }}
+        run: |
+          if [ "${{ github.event.inputs.mode }}" = "detail" ]; then python3 scripts/ebay_eggs.py detail; else python3 scripts/ebay_eggs.py pool ${{ github.event.inputs.hours || '24' }}; fi
       - name: Commit
         run: |
           git config user.name refurbish-bot; git config user.email refurbish-bot@users.noreply.github.com
-          git add research/pools/ebay-latest.json
+          git add research/pools/ebay-latest.json research/pools/ebay-detail.json 2>/dev/null || git add research/pools/ebay-latest.json
           git commit -qm "ebay egg pool $(date -u +%FT%H:%MZ)" || exit 0
           for i in 1 2 3; do git pull -q --rebase -X theirs origin refurbish && git push && break; sleep 5; done
