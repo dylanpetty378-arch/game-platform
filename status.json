@@ -1,20 +1,21 @@
 {
- "updated": "2026-10-13T00:58:26Z",
+ "updated": "2026-10-13T02:21:21Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4600,
-  "lens": 93,
-  "events": 4792,
+  "lens": 293,
+  "events": 4992,
   "comps": 0,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 95,
-  "queued": 4484,
+  "queued": 4343,
   "decided/find": 1,
-  "lensed": 19,
+  "lensed": 140,
+  "flagged": 20,
   "decided/ask": 1
  },
  "last_harvests": [
@@ -161,7 +162,228 @@
    "ts": "2026-10-13T00:58:26Z"
   }
  ],
- "flagged_waiting": [],
+ "flagged_waiting": [
+  {
+   "pid": "7982452881",
+   "title": "Furniture- moving sale",
+   "price": 100,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/lorain-furniture-moving-sale/takmKFoLAs3JheNaQGJTdu",
+   "best": "Lowe's",
+   "med": 14500,
+   "ratio": 145,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954445005",
+   "title": "VINTAGE VERDIGRIS FLOOR VASE",
+   "price": 10,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/grand-island-vintage-verdigris-floor/pq9RTk2pqWTARN9ZQCPsCf",
+   "best": "Gunnar Nylund for Rorstrand, Sweden, large stoneware vase ...",
+   "med": 475,
+   "ratio": 47.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949693109",
+   "title": "Antique chairs",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/portland-antique-chairs/rMgpCsmv5ho8k5zBpFdPa5",
+   "best": "+1",
+   "med": 1295,
+   "ratio": 32.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982450676",
+   "title": "Antique Wood Secretary Desk",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-antique-wood-secretary-desk/ouWDxsL8br6YHgWNwhKbMM",
+   "best": "+1",
+   "med": 1395,
+   "ratio": 27.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982449716",
+   "title": "Antique samovar electric",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/encino-antique-samovar-electric/dotYup5c5W5zahZ3LDj8Ez",
+   "best": "+1",
+   "med": 821,
+   "ratio": 16.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952378679",
+   "title": "Vintage Maritime Brass Lamp",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-maritime-brass-lamp/isC8Ad3kKWrHvVVx39QHvP",
+   "best": "+3",
+   "med": 800,
+   "ratio": 16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961447538",
+   "title": "Vintage TAK-A-PEG Desk",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-tak-peg-desk/nA1Td5gewhMDwzxQCmxo1W",
+   "best": "+1",
+   "med": 253,
+   "ratio": 10.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928422599",
+   "title": "Antique Woodworking Tools",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-antique-woodworking-tools/2PYLHFGoqKgUXydhU2Bx7v",
+   "best": "Don't stuff those vintage tools in a toolbox or a drawer ...",
+   "med": 150,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935593163",
+   "title": "Antique pitchfork",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/portland-antique-pitchfork/xh66au23SBTFjFBeiTNG6A",
+   "best": "+1",
+   "med": 450,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949281873",
+   "title": "Vintage Champagne Bucket",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-champagne-bucket/ebwwPUxBhupp8d9zaZ1PGz",
+   "best": "+4",
+   "med": 410,
+   "ratio": 8.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954641067",
+   "title": "Small vintage rolling desk",
+   "price": 45,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/toledo-small-vintage-rolling-desk/rfWFEFkE3LV75qLX8TFuGn",
+   "best": "+2",
+   "med": 250,
+   "ratio": 5.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940785570",
+   "title": "Antique Tea Cart",
+   "price": 99,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/mooresville-antique-tea-cart/fouJUWPFQ7icQiY9uvkurA",
+   "best": "+2",
+   "med": 500,
+   "ratio": 5.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972333131",
+   "title": "Vintage Rotating Fish Lamp",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/fond-du-lac-vintage-rotating-fish-lamp/hXP4QBry4BsyGa83GBpGRP",
+   "best": "+1",
+   "med": 100,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977290373",
+   "title": "Vintage Oak School Desk",
+   "price": 99,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/mount-mourne-vintage-oak-school-desk/ayWZLZZKyyUMvaN426sAaW",
+   "best": "+3",
+   "med": 400,
+   "ratio": 4.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964505780",
+   "title": "2 Antique Scales",
+   "price": 100,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/rutland-antique-scales/mTaDJ39HqXawZeFEjZget3",
+   "best": "+1",
+   "med": 263,
+   "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941151151",
+   "title": "Vintage Gladys 1940-1950's lighter",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-gladys-lighter/6sXLAo6e6jzjSZxKnoVsor",
+   "best": "+1",
+   "med": 125,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979065278",
+   "title": "Vintage Northwoods Snowshoes",
+   "price": 90,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-northwoods-snowshoes/7pjgrXvtscd1HP9sy8tLqY",
+   "best": "VintageWinter",
+   "med": 149,
+   "ratio": 1.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970293008",
+   "title": "Beautiful Vintage Quilt",
+   "price": 65,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/ashland-beautiful-vintage-quilt/7c2FgLwm1QboU97sqfGgq8",
+   "best": "Craigslist",
+   "med": 90,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933615811",
+   "title": "Vintage Metal Truck",
+   "price": 75,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-metal-truck/ahzWgfRgVctwAaUH28B9iE",
+   "best": "25+ Vehicle Year Vintage Manufacture Diecast Cars, Trucks ...",
+   "med": 100,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939906266",
+   "title": "Decoy vintage Duck",
+   "price": 150,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-decoy-vintage-duck/154DYwPtxjwFx5MrVWMWmo",
+   "best": "+1",
+   "med": 185,
+   "ratio": 1.23,
+   "ai_value": ""
+  }
+ ],
  "finds": [
   {
    "pid": "7982205300",
