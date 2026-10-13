@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T02:59:14Z",
+ "updated": "2026-10-13T03:02:57Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 979,
-  "events": 6188,
+  "lens": 1004,
+  "events": 6253,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 374,
-  "queued": 3662,
-  "lensed": 304,
+  "photo_review/kill": 414,
+  "queued": 3637,
+  "lensed": 320,
   "comps/pass": 1,
-  "flagged": 54,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
-  "decided/find": 6
+  "decided/find": 6,
+  "flagged": 23
  },
  "last_harvests": [
   {
@@ -168,28 +168,6 @@
  ],
  "flagged_waiting": [
   {
-   "pid": "7953937034",
-   "title": "Beautiful Vintage Tiffany Style Stained Slag Glass Lamp Shade Purple",
-   "price": 40,
-   "area": "sarasota",
-   "url": "https://www.craigslist.org/view/d/sarasota-beautiful-vintage-tiffany/kHCt7fDJQY318x9Eaq6vv6",
-   "best": "Meyda Tiffany - 27405 - Shade - Jeweled Basket - Craftsman ...",
-   "med": 21500,
-   "ratio": 537.5,
-   "ai_value": ""
-  },
-  {
-   "pid": "7982454702",
-   "title": "Vintage print of small village",
-   "price": 10,
-   "area": "montana",
-   "url": "https://www.craigslist.org/view/d/billings-vintage-print-of-small-village/j7TS7g2Q34vRdYoSHZkKKY",
-   "best": "Vintage Winde Fine Prints (2) Scene and Sea View Hill in ...",
-   "med": 995,
-   "ratio": 99.5,
-   "ai_value": ""
-  },
-  {
    "pid": "7948537257",
    "title": "Vintage Menu from T.R. Murphy's Restaurant",
    "price": 38,
@@ -201,14 +179,25 @@
    "ai_value": ""
   },
   {
-   "pid": "7946615450",
-   "title": "Vintage Gold Distress-Painted Pinecone/Pineapple Vase",
-   "price": 45,
+   "pid": "7953457624",
+   "title": "Vintage wall photo",
+   "price": 1,
    "area": "portland",
-   "url": "https://www.craigslist.org/view/d/portland-vintage-gold-distress-painted/uV3Wt4Wf3Tz1Gb5sHyxZJm",
-   "best": "Laurel Foundry Modern Farmhouse\u00ae Sneads Weathered Metal ...",
-   "med": 2352,
-   "ratio": 52.27,
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-wall-photo/pZi91WLipnicvphTSr1i8W",
+   "best": "My Luv's Like a Red, Red Rose \u2022 Grapefruit Moon Gallery ...",
+   "med": 75,
+   "ratio": 75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939329538",
+   "title": "Great artwork for sale",
+   "price": 30,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/oceanville-great-artwork-for-sale/ro6ppm2guVLyciXfvxd13a",
+   "best": "Mediterranean Seaside Impressionist Impasto Painting w ...",
+   "med": 1540,
+   "ratio": 51.33,
    "ai_value": ""
   },
   {
@@ -234,81 +223,15 @@
    "ai_value": ""
   },
   {
-   "pid": "7943946026",
-   "title": "ANTIQUE HOMAN SILVER PLATE CO quadruple plated",
+   "pid": "7944016859",
+   "title": "Antique milk can with lid",
    "price": 25,
-   "area": "flint",
-   "url": "https://www.craigslist.org/view/d/flint-antique-homan-silver-plate-co/twHRPjz45wzyMQC3PK532f",
-   "best": "Antique Van Bergh Silver Co. Quadruple Plate #33 Engraved ...",
-   "med": 300,
-   "ratio": 12,
-   "ai_value": ""
-  },
-  {
-   "pid": "7978909749",
-   "title": "Asian Art",
-   "price": 25,
-   "area": "sfbay",
-   "url": "https://www.craigslist.org/view/d/san-mateo-asian-art/f4hNn9PNgv9e79Ur6vt1Gf",
-   "best": "Chinese cloisonn\u00e9 lidded vase with peony and butterfly ...",
-   "med": 300,
-   "ratio": 12,
-   "ai_value": ""
-  },
-  {
-   "pid": "7945678705",
-   "title": "Vintage Excelsior  lamp",
-   "price": 20,
-   "area": "duluth",
-   "url": "https://www.craigslist.org/view/d/duluth-vintage-excelsior-lamp/wr6ouYyK2vyPH99C743tGi",
-   "best": "Antique Victorian French Porcelain Hand Painted Flower Vase ...",
-   "med": 225,
-   "ratio": 11.25,
-   "ai_value": ""
-  },
-  {
-   "pid": "7974975384",
-   "title": "Elgin Watch",
-   "price": 95,
-   "area": "minneapolis",
-   "url": "https://www.craigslist.org/view/d/zimmerman-elgin-watch/4RHWsSCWp5NTY4gSR6tTU5",
-   "best": "Auctionet",
-   "med": 975,
-   "ratio": 10.26,
-   "ai_value": ""
-  },
-  {
-   "pid": "7981349160",
-   "title": "Beautiful porcelain lamp",
-   "price": 45,
-   "area": "sacramento",
-   "url": "https://www.craigslist.org/view/d/citrus-heights-beautiful-porcelain-lamp/oZCsmwZVAANrsEDAGCMpJF",
-   "best": "Lamp Capodimonte - Etsy",
-   "med": 450,
-   "ratio": 10,
-   "ai_value": ""
-  },
-  {
-   "pid": "7955389584",
-   "title": "Vintage Borghese Bookend",
-   "price": 30,
-   "area": "sandiego",
-   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-borghese-bookend/2YXuDg3Kd33Bn8kUFzzBX2",
-   "best": "Podp\u00f3rka do ksi\u0105\u017cki ze scen\u0105 konia - Etsy Polska",
-   "med": 295,
-   "ratio": 9.83,
-   "ai_value": ""
-  },
-  {
-   "pid": "7949316401",
-   "title": "Crystal Candelabra vintage",
-   "price": 30,
-   "area": "washingtondc",
-   "url": "https://www.craigslist.org/view/d/potomac-crystal-candelabra-vintage/2ATEE1HRKgt3ruNVrF8Jxu",
-   "best": "Antique 2 Light Candelabra CUT GLASS CRYSTALS Duncan Miller ...",
-   "med": 250,
-   "ratio": 8.33,
-   "ai_value": ""
+   "area": "lacrosse",
+   "url": "https://www.craigslist.org/view/d/black-river-falls-antique-milk-can-with/1AAwWtXjcVYfZrnEZiyMJQ",
+   "best": "Antique Farm Metal Milk Dairy Jug Container 10 gallon Can ...",
+   "med": 210,
+   "ratio": 8.4,
+   "ai_value": "Value: Typically sells between $100"
   },
   {
    "pid": "7930943527",
@@ -319,17 +242,6 @@
    "best": "Plaza Carriages | 16\u201dx12\u201d Lithograph | SOLD | J R Hamil",
    "med": 650,
    "ratio": 8.13,
-   "ai_value": ""
-  },
-  {
-   "pid": "7982531694",
-   "title": "Seymour Mann China Blue Fine Porcelain China",
-   "price": 25,
-   "area": "sfbay",
-   "url": "https://www.craigslist.org/view/d/redwood-city-seymour-mann-china-blue/w29U1PVRebAKteshWSA3Hm",
-   "best": "Seymour Mann China Blue Fine Porcelain Vase Vintage | eBay",
-   "med": 189,
-   "ratio": 7.56,
    "ai_value": ""
   },
   {
@@ -344,91 +256,14 @@
    "ai_value": ""
   },
   {
-   "pid": "7973604894",
-   "title": "Fabulous Pottery Decorative Vase",
-   "price": 20,
-   "area": "newhaven",
-   "url": "https://www.craigslist.org/view/d/new-haven-fabulous-pottery-decorative/qcjDysQD337ovxWK4m86zq",
-   "best": "Hans Hedberg, a faience vase, Biot France. - Bukowskis",
-   "med": 133,
-   "ratio": 6.65,
-   "ai_value": ""
-  },
-  {
-   "pid": "7961363373",
-   "title": "Antique Serving Bowl",
-   "price": 15,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/oakland-gardens-antique-serving-bowl/bjvtnb8edpZVQMsUrjt5qE",
-   "best": "RARE ANTIQUE ROYAL BAYREUTH 11\" BOWL GRAPES CLUSTERS - NICE ...",
-   "med": 99,
-   "ratio": 6.6,
-   "ai_value": ""
-  },
-  {
-   "pid": "7956155441",
-   "title": "Vintage Seashell, Pearl and Gold Beaded Necklace",
-   "price": 16,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/vintage-seashell-pearl-and-gold-beaded/m6jEGh4CT8kCx5BZXWeswa",
-   "best": "Antique Edwardian Carved Mother of Pearl 'pendant' Necklace ...",
-   "med": 98,
-   "ratio": 6.13,
-   "ai_value": ""
-  },
-  {
-   "pid": "7946210897",
-   "title": "Vintage Mid-CenturyHand Painted Wooden Bucket Folk Art",
-   "price": 25,
-   "area": "minneapolis",
-   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-mid-centuryhand/hVFKj5drLVpS5eCCaF2D1k",
-   "best": "Vintage Helen Hume Hand-painted Fold Art Bucket | Vintage ...",
-   "med": 138,
-   "ratio": 5.52,
-   "ai_value": ""
-  },
-  {
-   "pid": "7956636875",
-   "title": "Antique- Middle East (Turkish) Brass Coffee/Tea Pot",
-   "price": 30,
-   "area": "sarasota",
-   "url": "https://www.craigslist.org/view/d/sarasota-antique-middle-east-turkish/fFpSNVbiH8GuNcRnwMmUTf",
-   "best": "Saudi Arabian Dallah Coffee Pot Brass Hand Hammered 15\u201d high ...",
-   "med": 165,
-   "ratio": 5.5,
-   "ai_value": ""
-  },
-  {
-   "pid": "7961860176",
-   "title": "Fine China Coffee Set",
+   "pid": "7938039331",
+   "title": "Chinese landscape painting on silk",
    "price": 45,
-   "area": "tucson",
-   "url": "https://www.craigslist.org/view/d/tucson-fine-china-coffee-set/dnTApBQRBALFRaZkvMWoE8",
-   "best": "Vintage Johnson Bros. Indies White - Blue Floral Ironstone ...",
-   "med": 231,
-   "ratio": 5.13,
-   "ai_value": ""
-  },
-  {
-   "pid": "7974504753",
-   "title": "Beautiful Vintage Japanese Silk Screens",
-   "price": 195,
-   "area": "orangecounty",
-   "url": "https://www.craigslist.org/view/d/laguna-beach-beautiful-vintage-japanese/w66cLLg4CGicyYcLE3bDGs",
-   "best": "Calligraphy/Seal: Features traditional East Asian calligraphy and a red artist stamp/seal on the right panel.",
-   "med": 950,
-   "ratio": 4.87,
-   "ai_value": ""
-  },
-  {
-   "pid": "7974279408",
-   "title": "Chinese punch bowl",
-   "price": 100,
-   "area": "richmond",
-   "url": "https://www.craigslist.org/view/d/king-william-chinese-punch-bowl/6WT4AsL6CvJfh6g6Jqi2UT",
-   "best": "Chinoiserie Porcelain Bowl W/ Wooden Stand, (1 Available) - Etsy",
-   "med": 455,
-   "ratio": 4.55,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/lincoln-chinese-landscape-painting-on/9LP2LwauiPWvRyDCv2e7tF",
+   "best": "Yu Lunxin | A horizontal landscape painting | MutualArt",
+   "med": 335,
+   "ratio": 7.44,
    "ai_value": ""
   },
   {
@@ -443,91 +278,47 @@
    "ai_value": "Value / Market: Similar vintage sets range from roughly $45"
   },
   {
-   "pid": "7982572836",
-   "title": "Antique, colorful, landscape painting with a signature",
-   "price": 100,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/new-york-antique-colorful-landscape/54jXUA9ZPFPqNim8toxxjJ",
-   "best": "Litjoy Crate Folk Of The Air Box Set Signed By Holly Black ...",
-   "med": 359,
-   "ratio": 3.59,
-   "ai_value": ""
-  },
-  {
-   "pid": "7982546256",
-   "title": "Estate Sale - River at Dusk Print",
-   "price": 40,
-   "area": "kansascity",
-   "url": "https://www.craigslist.org/view/d/kansas-city-estate-sale-river-at-dusk/aUKreDJdYggpCUgsS4d2GB",
-   "best": "Oil Paintings para baligya sa Old Washington, Ohio ...",
-   "med": 140,
-   "ratio": 3.5,
-   "ai_value": ""
-  },
-  {
-   "pid": "7957895660",
-   "title": "Antique Oil Lamp",
-   "price": 20,
-   "area": "providence",
-   "url": "https://www.craigslist.org/view/d/hope-valley-antique-oil-lamp/v7KFyvYzSa9oaygUzbNELe",
-   "best": "SCOVILL Queen Anne kerosene oil Lamp 17\" Chimney period ...",
-   "med": 68,
-   "ratio": 3.4,
-   "ai_value": ""
-  },
-  {
-   "pid": "7933647095",
-   "title": "Vintage Glass Mannequin Head",
-   "price": 30,
-   "area": "chicago",
-   "url": "https://www.craigslist.org/view/d/chicago-vintage-glass-mannequin-head/9MNc68yQpNBwvMo2y3kbZ5",
-   "best": "eBay",
-   "med": 100,
-   "ratio": 3.33,
-   "ai_value": ""
-  },
-  {
-   "pid": "7939879293",
-   "title": "Antique Limoges porcelain jardiniere,signed by artist 1902",
-   "price": 150,
+   "pid": "7952480046",
+   "title": "Spode Vase",
+   "price": 45,
    "area": "sfbay",
-   "url": "https://www.craigslist.org/view/d/montara-antique-limoges-porcelain/rBRMTKx7dnr94JUAUU6Wiq",
-   "best": "Sold at Auction: Tressemann & Vogt Company Limoges Peony Planter",
-   "med": 495,
-   "ratio": 3.3,
+   "url": "https://www.craigslist.org/view/d/petaluma-spode-vase/vmCDEBXgYYvwtSGyPsup28",
+   "best": "Pattern: Spode Blue Italian",
+   "med": 186,
+   "ratio": 4.13,
    "ai_value": ""
   },
   {
-   "pid": "7945950931",
-   "title": "Vintage watches and pocket watches for sell",
-   "price": 59,
-   "area": "denver",
-   "url": "https://www.craigslist.org/view/d/littleton-vintage-watches-and-pocket/ixFwmsHryxUpACJNMCJ3As",
-   "best": "eBay",
-   "med": 180,
-   "ratio": 3.05,
-   "ai_value": "priced roughly from $49 to $149"
+   "pid": "7930082394",
+   "title": "2 Vintage Bakelite Buttons",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-bakelite-buttons/cHJUzojwn9CsMAKAsVUY3z",
+   "best": "Size: Approximately 11/16 of an inch.",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": "Value/Market: Typically sell in pairs for around $25 to $28"
   },
   {
-   "pid": "7976962731",
-   "title": "Antique Victorian Bubble Glass Wood Oval Picture Frame 24 3/4 X 18 1/2",
+   "pid": "7982565681",
+   "title": "1970s Wristwatch Vintage GOP Republican Elephant",
    "price": 40,
-   "area": "nd",
-   "url": "https://www.craigslist.org/view/d/moorhead-antique-victorian-bubble-glass/98zcdkxoSk2C7LYpTk1c7U",
-   "best": "ANTIQUE HOLY CARD OF MATER DOLOROSA | eBay",
-   "med": 110,
-   "ratio": 2.75,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/fayetteville-1970s-wristwatch-vintage/8CeBTiHwC2wQmHPgMRFX1H",
+   "best": "Case & Movement: Gold-tone case with a hand-winding mechanical movement.",
+   "med": 120,
+   "ratio": 3,
    "ai_value": ""
   },
   {
-   "pid": "7940687295",
-   "title": "Vintage 1970's Choker Necklaces",
-   "price": 30,
-   "area": "cleveland",
-   "url": "https://www.craigslist.org/view/d/mentor-vintage-1970s-choker-necklaces/uZcrCxeGLgEwq9JWt8x1gv",
-   "best": "Big lot of 15 sterling silver, bead, necklaces tested chains ...",
-   "med": 80,
-   "ratio": 2.67,
+   "pid": "7939613785",
+   "title": "Vintage Green Glass Vase",
+   "price": 39,
+   "area": "florencesc",
+   "url": "https://www.craigslist.org/view/d/florence-vintage-green-glass-vase/c3wADu669tuhyqJuGAdU6x",
+   "best": "Etsy",
+   "med": 110,
+   "ratio": 2.82,
    "ai_value": ""
   },
   {
@@ -542,17 +333,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7982494254",
-   "title": "Antique test seth  Thomas clock",
-   "price": 125,
-   "area": "fortmyers",
-   "url": "https://www.craigslist.org/view/d/naples-antique-test-seth-thomas-clock/3EzTZX5NGqQ4JQq8SkTTxf",
-   "best": "Vintage Seth Thomas Brass Corsair E537-000 Brass Ship Clock ...",
-   "med": 295,
-   "ratio": 2.36,
-   "ai_value": ""
-  },
-  {
    "pid": "7982481663",
    "title": "Vintage Cram's Imperial World Globe",
    "price": 75,
@@ -561,39 +341,6 @@
    "best": "eBay",
    "med": 171,
    "ratio": 2.28,
-   "ai_value": ""
-  },
-  {
-   "pid": "7982380644",
-   "title": "Vintage Handsaws",
-   "price": 50,
-   "area": "sfbay",
-   "url": "https://www.craigslist.org/view/d/concord-vintage-handsaws/oVqDQbgvZjMtQA7CPHxeU4",
-   "best": "eBay",
-   "med": 100,
-   "ratio": 2,
-   "ai_value": ""
-  },
-  {
-   "pid": "7967721762",
-   "title": "Vintage Large Cobalt Blue Water or Milk Pitcher with Flowers",
-   "price": 60,
-   "area": "greensboro",
-   "url": "https://www.craigslist.org/view/d/graham-vintage-large-cobalt-blue-water/cHqKD2FhVKSar9e7w3zqEK",
-   "best": "Vintage Blue And White Salt Glazed Pottery Pitcher | eBay",
-   "med": 120,
-   "ratio": 2,
-   "ai_value": ""
-  },
-  {
-   "pid": "7936250367",
-   "title": "Salt Glazed Stoneware Jug",
-   "price": 50,
-   "area": "boulder",
-   "url": "https://www.craigslist.org/view/d/louisville-salt-glazed-stoneware-jug/vqe8MYwV3Ts1nP6TdSoJdU",
-   "best": "pottery \u2013 Shaker Museum",
-   "med": 100,
-   "ratio": 2,
    "ai_value": ""
   },
   {
@@ -608,39 +355,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7973491824",
-   "title": "Antique sewing machine",
-   "price": 150,
-   "area": "salem",
-   "url": "https://www.craigslist.org/view/d/keizer-antique-sewing-machine/j4QiQASRqntjab31zuxUW1",
-   "best": "Era: Mid-20th century (commonly 1940s\u20131950s; look for the serial number stamped near the bottom right to date ",
-   "med": 299,
-   "ratio": 1.99,
-   "ai_value": ""
-  },
-  {
-   "pid": "7969306014",
-   "title": "Victorian Vintage Oak Wooden Mantle Clock",
-   "price": 150,
-   "area": "sandiego",
-   "url": "https://www.craigslist.org/view/d/san-diego-victorian-vintage-oak-wooden/v58nsiPEMHvntDLeyzTv6a",
-   "best": "Antique Sessions Parlor Kitchen Mantle Clock with chime ...",
-   "med": 295,
-   "ratio": 1.97,
-   "ai_value": ""
-  },
-  {
-   "pid": "7982494449",
-   "title": "1940 Bible Study Group Photo, Vintage.",
-   "price": 95,
-   "area": "losangeles",
-   "url": "https://www.craigslist.org/view/d/los-angeles-1940-bible-study-group/bgmEhzeCgzz4X44piQZhYV",
-   "best": "1928 St. John's Lutheran Church on Cable Avenue, now Citi ...",
-   "med": 175,
-   "ratio": 1.84,
-   "ai_value": ""
-  },
-  {
    "pid": "7964172171",
    "title": "Beautiful vintage painting from Arts International 1971",
    "price": 120,
@@ -649,39 +363,6 @@
    "best": "Pinterest",
    "med": 202,
    "ratio": 1.68,
-   "ai_value": ""
-  },
-  {
-   "pid": "7941151151",
-   "title": "Vintage Gladys 1940-1950's lighter",
-   "price": 75,
-   "area": "chicago",
-   "url": "https://www.craigslist.org/view/d/wyoming-vintage-gladys-lighter/6sXLAo6e6jzjSZxKnoVsor",
-   "best": "+1",
-   "med": 125,
-   "ratio": 1.67,
-   "ai_value": ""
-  },
-  {
-   "pid": "7934805682",
-   "title": "Antique Bijou Pocket Watch",
-   "price": 150,
-   "area": "wheeling",
-   "url": "https://www.craigslist.org/view/d/martins-ferry-antique-bijou-pocket-watch/wHNQpG8DHWpkXSboMaEqFx",
-   "best": "Antique 19th C. Ladies Swiss 800 Silver Pocket Watch with ...",
-   "med": 200,
-   "ratio": 1.33,
-   "ai_value": ""
-  },
-  {
-   "pid": "7936344282",
-   "title": "Antique Oval Convex Glass Picture Frames",
-   "price": 75,
-   "area": "lansing",
-   "url": "https://www.craigslist.org/view/d/dewitt-antique-oval-convex-glass/i2uKY1SU2V5b5SMMEn4aBk",
-   "best": "Vintage framed photos with bubble glass found at Portland ...",
-   "med": 100,
-   "ratio": 1.33,
    "ai_value": ""
   },
   {
@@ -707,36 +388,14 @@
    "ai_value": ""
   },
   {
-   "pid": "7939657836",
-   "title": "New Haven Victorian Clock",
-   "price": 99,
-   "area": "minneapolis",
-   "url": "https://www.craigslist.org/view/d/minneapolis-new-haven-victorian-clock/6VhzfNX8hfEWT2FbR1mkrA",
-   "best": "WORKING Victorian Clock New Haven Clock Co. USA Decorative ...",
-   "med": 110,
-   "ratio": 1.11,
-   "ai_value": ""
-  },
-  {
-   "pid": "7982447091",
-   "title": "Vintage Retro Candlesticks",
-   "price": 125,
-   "area": "baltimore",
-   "url": "https://www.craigslist.org/view/d/randallstown-vintage-retro-candlesticks/jRS9srCnXZDXM4ejbFbZrK",
-   "best": "Vintage Art Deco Glass Console Set \u2022 Orange & Black ... - Etsy",
-   "med": 109,
-   "ratio": 0.87,
-   "ai_value": ""
-  },
-  {
-   "pid": "7947679986",
-   "title": "Vintage decanter set",
-   "price": 180,
-   "area": "vermont",
-   "url": "https://www.craigslist.org/view/d/milton-vintage-decanter-set/97vnZHVcxn1LmzyDbT3jMi",
-   "best": "VTG. Romania Cristiro Hand Blown Aqua Blue Glass Decanter ...",
-   "med": 89,
-   "ratio": 0.49,
+   "pid": "7974260583",
+   "title": "Wallace Nutting painting",
+   "price": 75,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/naples-wallace-nutting-painting/nbjBV4NCJKYRKgRTEmJDjH",
+   "best": "Flowering Time by Wallace Nutting - Etsy",
+   "med": 85,
+   "ratio": 1.13,
    "ai_value": ""
   },
   {
