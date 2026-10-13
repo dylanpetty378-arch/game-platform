@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T04:20:07Z
+# Refurbish status — 2026-10-13T04:23:47Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,11 +6,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 3137 |
+| queued | 3112 |
 | photo_review/kill | 535 |
-| lensed | 518 |
-| queued/relens | 309 |
-| flagged | 82 |
+| lensed | 530 |
+| queued/relens | 310 |
+| flagged | 94 |
 | decided/ask | 12 |
 | comps/fail | 6 |
 | decided/find | 6 |
@@ -23,8 +23,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 3
 - searches: 162
 - listings: 4607
-- lens: 1504
-- events: 7006
+- lens: 1529
+- events: 7031
 - comps: 152
 - item_types: 217
 - runs: 0
@@ -58,7 +58,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00v0v_azI5PE4F3qH_0CI0mK_300x300.jpg" width="160"> | [Huge Cymbal Bundle – Zildjian / Paiste / Sabian – Below Mark](https://www.craigslist.org/view/d/kahului-huge-cymbal-bundle-zildjian/2zX6xaXdRmJoPkPGehbNkg) | $123 | images | **decided/ask** — Tier C: Zildjian 23in A Sweet Ride (median $380) + 7 more cymbals. Only works if $123 is the whole bundle AND they ship from Maui (~$100). ~$290 profit if so. |
 | <img src="https://images.craigslist.org/00W0W_hf6ATPiacVV_0t20CI_300x300.jpg" width="160"> | [Vintage Music Box](https://www.craigslist.org/view/d/quakertown-vintage-music-box/g2Y8F45bgtRGDckZ8ABVTs) | $100 | images | **decided/ask** — Tier C: Thorens AD30 + 23 discs listed as "Vintage Music Box". Box median $130 + discs ~$150. Clears at a $75 offer (~$100 profit). |
 
-## Flagged by Lens, waiting for photo review (82)
+## Flagged by Lens, waiting for photo review (94)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -73,6 +73,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01616_gr8CPXjcXMg_05q07e_300x300.jpg" width="120"> | 7943378820 | $10 | minneapolis | [Vintage metal oval picture frames, vintage paintin](https://www.craigslist.org/view/d/vintage-metal-oval-picture-frames/rqHDU1oS6K3WqM4bhHUGwz) | The Frame: Housed in a classic, distressed gold-gilt oval fr | 240 | 24 |
 | <img src="https://images.craigslist.org/01717_kom3UYuxu0S_03S05a_300x300.jpg" width="120"> | 7936784973 | $22 | sarasota | [ANTIQUE UNIQUE Bamboo Umbrella Stand Holder /Creat](https://www.craigslist.org/view/d/sarasota-antique-unique-bamboo-umbrella/jc7fghHr8U7DHNmXNbrpqT) | Mercari | 495 | 22.5 |
 | <img src="https://images.craigslist.org/00B0B_gHyyHcMkBAx_0CI0t2_300x300.jpg" width="120"> | 7947120747 | $18 | newyork | [Vintage Round Silver-Tone Brooch](https://www.craigslist.org/view/d/vintage-round-silver-tone-brooch/1xe28TrkjXPPLMiDFCruc8) | eBay | 370 | 20.56 |
+| <img src="https://images.craigslist.org/00I0I_8Ji5Hzd8V2f_05r07g_300x300.jpg" width="120"> | 7951224820 | $140 | austin | [Navajo Sam Gray Earrings](https://www.craigslist.org/view/d/kyle-navajo-sam-gray-earrings/nMb4N2o26ZgWMfB1TxxT1u) | Etsy | 2750 | 19.64 |
 | <img src="https://images.craigslist.org/00505_3WyQb8XUxAP_0t30t2_300x300.jpg" width="120"> | 7976559981 | $10 | akroncanton | [Ernst Geissendorfer SIGNED Etching Rothenburg Taub](https://www.craigslist.org/view/d/north-canton-ernst-geissendorfer-signed/qioKR8A8kUU6468cHZXiKQ) | Artist: Usually signed in pencil by Ernst Geissendörfer alon | 179 | 17.9 |
 | <img src="https://images.craigslist.org/00s0s_l3SauvPE5yf_0Nm13O_300x300.jpg" width="120"> | 7952472943 | $10 | philadelphia | [Winter scenic print](https://www.craigslist.org/view/d/philadelphia-winter-scenic-print/pc3pZYZKojh71m2L7dsLNt) | Craigslist | 150 | 15 |
 | <img src="https://images.craigslist.org/00h0h_dw00zM5SKwx_0ak07K_300x300.jpg" width="120"> | 7952470742 | $60 | washingtondc | [1903 etching woman/dog Herbert Dicksee](https://www.craigslist.org/view/d/potomac-1903-etching-woman-dog-herbert/1QBA1hhmJNm2XYo29tQg9w) | Artwork Details | 800 | 13.33 |
@@ -94,9 +95,12 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00b0b_9vcZnoctUqJ_0t20CI_300x300.jpg" width="120"> | 7945582034 | $85 | missoula | [Old Havana Fan](https://www.craigslist.org/view/d/missoula-old-havana-fan/pdRS7LQCD84jh3t6Vx6U9a) | eBay | 646 | 7.6 |
 | <img src="https://images.craigslist.org/00707_gUpqAVa5Z2N_0lR0t2_300x300.jpg" width="120"> | 7975437819 | $30 | sfbay | [vintage old decorative china plates](https://www.craigslist.org/view/d/sunnyvale-vintage-old-decorative-china/nSZSV4KtD3ECDwf3a1UAXv) | Top-left plate: White porcelain with a pierced (lattice-cut) | 225 | 7.5 |
 | <img src="https://images.craigslist.org/00404_giQ6v2ZWgjd_0yV0t2_300x300.jpg" width="120"> | 7982539509 | $50 | albuquerque | [Lomonosov Teapot and Demitasse Cup & Saucer](https://www.craigslist.org/view/d/albuquerque-lomonosov-teapot-and/vuwFbv6ZcxwVxFPo27XSmH) | Origin: Imperial Porcelain Manufactory (Lomonosov / LFZ), St | 350 | 7 |
+| <img src="https://images.craigslist.org/01010_l6KMjEHm4Tl_0CI0t2_300x300.jpg" width="120"> | 7954878801 | $100 | denver | [( MAIJA )  INDIAN FRAMED WALL PICTURE](https://www.craigslist.org/view/d/commerce-city-maija-indian-framed-wall/3hfLFV1ukQx4fRtptvLDc4) | Details: | 569 | 5.69 |
 | <img src="https://images.craigslist.org/00Z0Z_21ZsABLdaTd_07K0ak_300x300.jpg" width="120"> | 7953692146 | $70 | washingtondc | [Candelabra Girandole Brass, Crystal Marble 3 candl](https://www.craigslist.org/view/d/potomac-candelabra-girandole-brass/c3yCaiHozKYM57hkodXoWp) | eBay | 395 | 5.64 |
 | <img src="https://images.craigslist.org/01717_giSme7WXZPa_0t20CI_300x300.jpg" width="120"> | 7971779049 | $90 | orlando | [“The Allen” Glass Framed Girl in Garden](https://www.craigslist.org/view/d/altamonte-springs-the-allen-glass/gtyLJhCtCS1SNovtnhepoC) | REMBRANDT PRINTS - Lot of 2 - Framed at (Fernandez Kettering | 495 | 5.5 |
+| <img src="https://images.craigslist.org/00Y0Y_atDKCfixBgu_0t20CI_300x300.jpg" width="120"> | 7975879989 | $100 | williamsport | [Mahogany Baritone Ukulele](https://www.craigslist.org/view/d/milton-mahogany-baritone-ukulele/9nLY9rKsT3mi9VcXhTi4FG) | Mahogany Baritone Ukulele 1940s - Natural mahogany Kay ... | 550 | 5.5 |
 | <img src="https://images.craigslist.org/00l0l_gbKtmzaE8Ou_0kF0t2_300x300.jpg" width="120"> | 7955338809 | $40 | asheville | [Like New: Vintage, Copper African Framed Art](https://www.craigslist.org/view/d/hendersonville-like-new-vintage-copper/fTfKBrcc8nBGFhpoi6nSTQ) | Sculpture de femme africaine sur alliage de cuivre (65 par . | 200 | 5 |
+| <img src="https://images.craigslist.org/00202_caMkbMJjAtT_0CI0t2_300x300.jpg" width="120"> | 7931733824 | $75 | glensfalls | [Japanese Doll](https://www.craigslist.org/view/d/cleverdale-japanese-doll/rnBkBxH5V7TzbfUCYACJS9) | Vintage Japanese Geisha Doll 17” w/ Glass Case NO MIN NO ... | 370 | 4.93 |
 | <img src="https://images.craigslist.org/00Q0Q_hY0G5bxOCIM_0t20CI_300x300.jpg" width="120"> | 7956642263 | $55 | ventura | [Antique milk can](https://www.craigslist.org/view/d/ojai-antique-milk-can/rq2gwCdPaBAs8BrBmQQ9jg) | VINTAGE 1920-30s ATLANTIC REFINING CO. 5 GALLON OIL CAN ... | 270 | 4.91 |
 | <img src="https://images.craigslist.org/00i0i_jzyux2UPkUH_0dq0t2_300x300.jpg" width="120"> | 7982496696 | $50 | sfbay | [Vintage stained glass slag glass light](https://www.craigslist.org/view/d/penngrove-vintage-stained-glass-slag/8mYXdsFrU5UNhAB13igSL3) | Estimated Value: Resale prices for similar vintage 1970s geo | 225 | 4.5 |
 | <img src="https://images.craigslist.org/00z0z_hvOlNVrt5R2_0mw0CI_300x300.jpg" width="120"> | 7956068875 | $95 | newjersey | [Vintage Mid Century Wall Clock / Mirror Gold Tone ](https://www.craigslist.org/view/d/secaucus-vintage-mid-century-wall-clock/rP2xDVKh92Ea9utPsgX9G7) | Wallapop | 396 | 4.17 |
@@ -110,6 +114,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00t0t_70J40Q1QWFb_0CI0t2_300x300.jpg" width="120"> | 7954845358 | $60 | sfbay | [Vintage American Stoneware sponge ware mixing bowl](https://www.craigslist.org/view/d/montara-vintage-american-stoneware/7PTsempy16nc1YQtwxRTse) | Robinson Ransbottom Roseville OHIO 9 Inch 2.5 Quart Blue ... | 185 | 3.08 |
 | <img src="https://images.craigslist.org/01212_1MWVYlqP3DD_0t20CI_300x300.jpg" width="120"> | 7930383380 | $45 | loz | [#2 Small Stoneware Crock](https://www.craigslist.org/view/d/sunrise-beach-small-stoneware-crock/mzUFvVShTC5frbvsVNvk1k) | 2 Gallon Antique Crock - Etsy | 130 | 2.89 |
 | <img src="https://images.craigslist.org/00l0l_4B4nUkWkLy7_0bC0fu_300x300.jpg" width="120"> | 7948843414 | $175 | losangeles | [Vintage Abstract Surrealist Art Painting Original](https://www.craigslist.org/view/d/north-hollywood-vintage-abstract/puxnk7nt6ow421BYhjikSh) | Invaluable.com | 499 | 2.85 |
+| <img src="https://images.craigslist.org/00H0H_1J6luR1cQkg_0pU0pG_300x300.jpg" width="120"> | 7977124404 | $150 | seattle | [1987 Louis Vuitton Cup Sailboat Poster](https://www.craigslist.org/view/d/seattle-1987-louis-vuitton-cup-sailboat/6dry3zvE2v45Do2aPfAUJR) | Artist: Gérard Courbouleix–Dénériaz, widely known as Razzia. | 421 | 2.81 |
 | <img src="https://images.craigslist.org/00j0j_gQ7zoJMEDZ9_0sj0t2_300x300.jpg" width="120"> | 7953404007 | $50 | sarasota | [Vintage 1970s Tiffany-Style Slag Glass Pendant Lam](https://www.craigslist.org/view/d/sarasota-vintage-1970s-tiffany-style/jDysugkx6WxmpZCkTZS2yJ) | Vintage Stained Glass Hanging Lamp Shade Amber Brown Cream . | 140 | 2.8 |
 | <img src="https://images.craigslist.org/00q0q_7aYFhCX3l5U_09t0aD_300x300.jpg" width="120"> | 7944343097 | $99 | denver | [Antique Ingraham Black Matel Clock](https://www.craigslist.org/view/d/thornton-antique-ingraham-black-matel/mGFD6wrd3E1jR56izzR9nx) | eBay | 275 | 2.78 |
 | <img src="https://images.craigslist.org/00P0P_a5gh317Jh1u_0CI0t2_300x300.jpg" width="120"> | 7982470083 | $75 | newyork | [Vintage Atkins Saw](https://www.craigslist.org/view/d/bethel-vintage-atkins-saw/poDZUvPbwjXZmB2cLzLfkW) | eBay | 195 | 2.6 |
@@ -131,13 +136,20 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00I0I_g3q9GB6oUxZ_0t20CI_300x300.jpg" width="120"> | 7982503284 | $75 | phoenix | [Vintage Standard Oil Company California 5 Gallon M](https://www.craigslist.org/view/d/goodyear-vintage-standard-oil-company/ufL2uXLztj7MZgBar3V3Qk) | Capacity: 5 gallons | 145 | 1.93 |
 | <img src="https://images.craigslist.org/00C0C_4IyE2g2slD2_0t20CI_300x300.jpg" width="120"> | 7945063878 | $50 | boston | [Original Bowie knife](https://www.craigslist.org/view/d/medford-original-bowie-knife/gtjmU8p3JLozwxgxxguMWk) | Vintage Japan Japanese MONARCH Original Bowie Hunting Knife  | 96 | 1.92 |
 | <img src="https://images.craigslist.org/00a0a_ipWYIhCzB9Gz_0fu0bC_300x300.jpg" width="120"> | 7952642583 | $60 | longisland | [Vintage Leaping gazelles TV lamp/planter](https://www.craigslist.org/view/d/babylon-vintage-leaping-gazelles-tv/vpLYh8tYGDsL8vAQa63uML) | Vintage 1950s Ceramic Gazelle Deer TV Lamp Planter Mid ... | 105 | 1.75 |
+| <img src="https://images.craigslist.org/00X0X_KUq1N0I14B_0lM0t2_300x300.jpg" width="120"> | 7955079900 | $100 | ventura | [VINTAGE AerVoid Thermal Liquid Carrier](https://www.craigslist.org/view/d/simi-valley-vintage-aervoid-thermal/kZY5YsQ68fpVfdMA84NCdw) | eBay | 175 | 1.75 |
 | <img src="https://images.craigslist.org/00f0f_k0GLAd0ZXU4_0CI0t2_300x300.jpg" width="120"> | 7982547027 | $50 | columbus | [Oil lamps](https://www.craigslist.org/view/d/mount-vernon-oil-lamps/tWXbuTu2qNpqrMdmPS7csW) | P&A Risdom MFG Danbury GLASS Oil Kerosene Lamp UNUSED GREEN  | 85 | 1.7 |
 | <img src="https://images.craigslist.org/00h0h_Omqq4duMw5_0t20CI_300x300.jpg" width="120"> | 7947828014 | $120 | boston | [Antique Emerson Electric Fan](https://www.craigslist.org/view/d/scituate-antique-emerson-electric-fan/ssSzBmAQvBzQAhyXduKf7X) | Pinterest | 200 | 1.67 |
 | <img src="https://images.craigslist.org/00909_lzSbiJlFkXs_0t20CI_300x300.jpg" width="120"> | 7978040463 | $60 | kansascity | [vintage military entrenching shovel](https://www.craigslist.org/view/d/kansas-city-vintage-military/8GBkufyYuCRab1EfESYv9b) | Handle: A wooden shaft with a straight or slightly flared gr | 100 | 1.67 |
 | <img src="https://images.craigslist.org/00Q0Q_gwJ6FsP6DZI_07K0ak_300x300.jpg" width="120"> | 7939184433 | $55 | york | [Pith Helmet](https://www.craigslist.org/view/d/york-pith-helmet/ttuchzw2hgCkieXy9EAtoy) | Amazon.com | 80 | 1.45 |
+| <img src="https://images.craigslist.org/00303_dvzRHZXk0gH_0ai0t2_300x300.jpg" width="120"> | 7970981124 | $150 | sandiego | [Yamaha Classical Guitar](https://www.craigslist.org/view/d/san-diego-yamaha-classical-guitar/w1i6ZMdTv6YnXQnL58wdgU) | eBay | 202 | 1.35 |
+| <img src="https://images.craigslist.org/00Z0Z_cH07pwous26_0CI0t2_300x300.jpg" width="120"> | 7966460463 | $60 | cedarrapids | [Antique Handmade Pull-Em Crow Call](https://www.craigslist.org/view/d/hiawatha-antique-handmade-pull-em-crow/jymS3WdLZDJCZJVfAfmiGr) | Oliveros, Houston, TX "Pull-Em" Crow Call w/Original Box / e | 80 | 1.33 |
 | <img src="https://images.craigslist.org/00o0o_9ap4WJEoaE0_0jm0ew_300x300.jpg" width="120"> | 7979775990 | $200 | newyork | [Vintage Tiffany Stained Glass Large 24" Hanging La](https://www.craigslist.org/view/d/armonk-vintage-tiffany-stained-glass/gBRemFWkujVpR1CeAyPup8) | Craigslist | 239 | 1.2 |
+| <img src="https://images.craigslist.org/01010_aJAVqwY1njt_0t20CI_300x300.jpg" width="120"> | 7976898570 | $100 | topeka | [Ruddy Duck Picture](https://www.craigslist.org/view/d/topeka-ruddy-duck-picture/ecZj14yi2h7a46yDzkp6mG) | 1981 Federal Duck Stamp Print RW48 by Wilson / eBay | 120 | 1.2 |
+| <img src="https://images.craigslist.org/00K0K_2WmU1etUfMc_0jm0pO_300x300.jpg" width="120"> | 7982531355 | $150 | pittsburgh | [Ukulele](https://www.craigslist.org/view/d/fombell-ukulele/qiLNnst4NNTLWk3W22e4Hg) | Kala KA-TG Gloss Mahogany Standard Tenor Ukulele with ... | 179 | 1.19 |
+| <img src="https://images.craigslist.org/00E0E_5NkwLnTEtg8_0qk0t2_300x300.jpg" width="120"> | 7949829582 | $120 | seattle | [Trench Art-Vase](https://www.craigslist.org/view/d/seattle-trench-art-vase/oErjSEz8Bz35cykFixMZTq) | Origin: Trench art—hand-worked military ordnance typically r | 129 | 1.07 |
 | <img src="https://images.craigslist.org/00L0L_hUddap9LDjy_0BH0t2_300x300.jpg" width="120"> | 7965781935 | $100 | charlotte | [Teapot Collection (6)](https://www.craigslist.org/view/d/fort-mill-teapot-collection/75M2HMuu8RTaBY4dWTVgA9) | Sadler Teapot: Ivory & Gold Filigree, 1920s English Teapot . | 90 | 0.9 |
 | <img src="https://images.craigslist.org/00P0P_35AZVNcZpZT_0t20CI_300x300.jpg" width="120"> | 7929980407 | $125 | slo | [Vintage J. Fisher Lyons NY Stoneware Jug Brown Cro](https://www.craigslist.org/view/d/arroyo-grande-vintage-fisher-lyons-ny/djRnV3wFLbCi2YrRMP1S37) | Details | 95 | 0.76 |
+| <img src="https://images.craigslist.org/00E0E_is7RSzPAlgG_0lO0t2_300x300.jpg" width="120"> | 7962069543 | $120 | portland | [Vintage Hand-Carved African Folk Art Wall Mask](https://www.craigslist.org/view/d/portland-vintage-hand-carved-african/hq2kXesXTjxYfv1j8wEFVx) | eBay | 85 | 0.71 |
 | <img src="https://images.craigslist.org/00E0E_kIbWP03IhPG_0bM0t2_300x300.jpg" width="120"> | 7947434910 | $193 | sandiego | [Yamaha Guitar](https://www.craigslist.org/view/d/san-diego-yamaha-guitar/1edPB5j1HPT5aPJERUPLXq) | Used Yamaha FG336SB 2 Color Sunburst Acoustic Guitar 2 Color | 10 | 0.05 |
 | <img src="https://images.craigslist.org/00S0S_athTxX1lbHE_0t20CI_300x300.jpg" width="120"> | 7943939074 | $175 | boston | [Antique Messiah African dagger knife](https://www.craigslist.org/view/d/medford-antique-messiah-african-dagger/kmiifLJQWmzqii33CTQ8BC) | Blade: Short, double-edged steel blade. | None | None |
 | <img src="https://images.craigslist.org/00G0G_iFE4Kaez8Og_04u06U_300x300.jpg" width="120"> | 7982501151 | $50 | seattle | [Barbie - Talking Ken (1969)- Vintage](https://www.craigslist.org/view/d/milton-barbie-talking-ken-vintage/ob9z9zcsMACisuk3vP6v1y) | VTG 1969 Barbie New Good Looking Talking Ken Doll No ... | None | None |

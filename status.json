@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T04:20:07Z",
+ "updated": "2026-10-13T04:23:47Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1504,
-  "events": 7006,
+  "lens": 1529,
+  "events": 7031,
   "comps": 152,
   "item_types": 217,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3137,
-  "lensed": 518,
+  "queued": 3112,
+  "lensed": 530,
   "comps/pass": 1,
   "decided/ask": 12,
-  "queued/relens": 309,
+  "queued/relens": 310,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 82
+  "flagged": 94
  },
  "last_harvests": [
   {
@@ -268,6 +268,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951224820",
+   "title": "Navajo Sam Gray Earrings",
+   "price": 140,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-navajo-sam-gray-earrings/nMb4N2o26ZgWMfB1TxxT1u",
+   "best": "Etsy",
+   "med": 2750,
+   "ratio": 19.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7976559981",
    "title": "Ernst Geissendorfer SIGNED Etching Rothenburg Tauber \"Plonlein\"",
    "price": 10,
@@ -499,6 +510,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954878801",
+   "title": "( MAIJA )  INDIAN FRAMED WALL PICTURE",
+   "price": 100,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/commerce-city-maija-indian-framed-wall/3hfLFV1ukQx4fRtptvLDc4",
+   "best": "Details:",
+   "med": 569,
+   "ratio": 5.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7953692146",
    "title": "Candelabra Girandole Brass, Crystal Marble 3 candle",
    "price": 70,
@@ -521,6 +543,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975879989",
+   "title": "Mahogany Baritone Ukulele",
+   "price": 100,
+   "area": "williamsport",
+   "url": "https://www.craigslist.org/view/d/milton-mahogany-baritone-ukulele/9nLY9rKsT3mi9VcXhTi4FG",
+   "best": "Mahogany Baritone Ukulele 1940s - Natural mahogany Kay ...",
+   "med": 550,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955338809",
    "title": "Like New: Vintage, Copper African Framed Art",
    "price": 40,
@@ -529,6 +562,17 @@
    "best": "Sculpture de femme africaine sur alliage de cuivre (65 par ...",
    "med": 200,
    "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931733824",
+   "title": "Japanese Doll",
+   "price": 75,
+   "area": "glensfalls",
+   "url": "https://www.craigslist.org/view/d/cleverdale-japanese-doll/rnBkBxH5V7TzbfUCYACJS9",
+   "best": "Vintage Japanese Geisha Doll 17\u201d w/ Glass Case NO MIN NO ...",
+   "med": 370,
+   "ratio": 4.93,
    "ai_value": ""
   },
   {
@@ -672,6 +716,17 @@
    "best": "Invaluable.com",
    "med": 499,
    "ratio": 2.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977124404",
+   "title": "1987 Louis Vuitton Cup Sailboat Poster",
+   "price": 150,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-1987-louis-vuitton-cup-sailboat/6dry3zvE2v45Do2aPfAUJR",
+   "best": "Artist: G\u00e9rard Courbouleix\u2013D\u00e9n\u00e9riaz, widely known as Razzia.",
+   "med": 421,
+   "ratio": 2.81,
    "ai_value": ""
   },
   {
@@ -906,6 +961,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955079900",
+   "title": "VINTAGE AerVoid Thermal Liquid Carrier",
+   "price": 100,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/simi-valley-vintage-aervoid-thermal/kZY5YsQ68fpVfdMA84NCdw",
+   "best": "eBay",
+   "med": 175,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7982547027",
    "title": "Oil lamps",
    "price": 50,
@@ -950,6 +1016,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7970981124",
+   "title": "Yamaha Classical Guitar",
+   "price": 150,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-yamaha-classical-guitar/w1i6ZMdTv6YnXQnL58wdgU",
+   "best": "eBay",
+   "med": 202,
+   "ratio": 1.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966460463",
+   "title": "Antique Handmade Pull-Em Crow Call",
+   "price": 60,
+   "area": "cedarrapids",
+   "url": "https://www.craigslist.org/view/d/hiawatha-antique-handmade-pull-em-crow/jymS3WdLZDJCZJVfAfmiGr",
+   "best": "Oliveros, Houston, TX \"Pull-Em\" Crow Call w/Original Box | eBay",
+   "med": 80,
+   "ratio": 1.33,
+   "ai_value": "Value: Typically sells in the $60 to $80"
+  },
+  {
    "pid": "7979775990",
    "title": "Vintage Tiffany Stained Glass Large 24\" Hanging Lamp Shade",
    "price": 200,
@@ -959,6 +1047,39 @@
    "med": 239,
    "ratio": 1.2,
    "ai_value": "Value: Typically resells online between $200"
+  },
+  {
+   "pid": "7976898570",
+   "title": "Ruddy Duck Picture",
+   "price": 100,
+   "area": "topeka",
+   "url": "https://www.craigslist.org/view/d/topeka-ruddy-duck-picture/ecZj14yi2h7a46yDzkp6mG",
+   "best": "1981 Federal Duck Stamp Print RW48 by Wilson | eBay",
+   "med": 120,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982531355",
+   "title": "Ukulele",
+   "price": 150,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/fombell-ukulele/qiLNnst4NNTLWk3W22e4Hg",
+   "best": "Kala KA-TG Gloss Mahogany Standard Tenor Ukulele with ...",
+   "med": 179,
+   "ratio": 1.19,
+   "ai_value": "Price: Typically around $179"
+  },
+  {
+   "pid": "7949829582",
+   "title": "Trench Art-Vase",
+   "price": 120,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-trench-art-vase/oErjSEz8Bz35cykFixMZTq",
+   "best": "Origin: Trench art\u2014hand-worked military ordnance typically repurposed by soldiers or local artisans during or ",
+   "med": 129,
+   "ratio": 1.07,
+   "ai_value": "Value: Pairs typically sell between $100"
   },
   {
    "pid": "7965781935",
@@ -981,6 +1102,17 @@
    "med": 95,
    "ratio": 0.76,
    "ai_value": "sell between $60"
+  },
+  {
+   "pid": "7962069543",
+   "title": "Vintage Hand-Carved African Folk Art Wall Mask",
+   "price": 120,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-hand-carved-african/hq2kXesXTjxYfv1j8wEFVx",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 0.71,
+   "ai_value": ""
   },
   {
    "pid": "7947434910",
