@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:13:03Z",
+ "updated": "2026-10-13T14:19:38Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5237,
-  "events": 15172,
+  "lens": 5287,
+  "events": 15222,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 828,
-  "queued": 1003,
+  "lensed": 853,
+  "queued": 953,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 402,
-  "flagged": 591,
+  "queued/relens": 412,
+  "flagged": 606,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -480,6 +480,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929961280",
+   "title": "Two Old lamp bases",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/napa-two-old-lamp-bases/6tXBSquZexzHJct87LF5Qq",
+   "best": "Table Lamp Brass | eBay",
+   "med": 800,
+   "ratio": 53.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7955430022",
    "title": "Vintage Crouse Hinds spotlights",
    "price": 70,
@@ -500,6 +511,17 @@
    "med": 499,
    "ratio": 49.9,
    "ai_value": ""
+  },
+  {
+   "pid": "7952278039",
+   "title": "Guitar 2007 horror skull six flags promotional",
+   "price": 75,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/johnston-guitar-2007-horror-skull-six/oRMsa6rMemCLmTp5c2vdTL",
+   "best": "Electronics & Hardware: Equipped with three single-coil (SSS) pickups, a chrome tremolo bridge with a whammy b",
+   "med": 3500,
+   "ratio": 46.67,
+   "ai_value": "Value: Typically sells as a Y2K collectible or novelty wall-hanger ranging from $75 to $250,"
   },
   {
    "pid": "7982693145",
@@ -907,6 +929,17 @@
    "med": 2850,
    "ratio": 22.8,
    "ai_value": ""
+  },
+  {
+   "pid": "7954218689",
+   "title": "BALENCIAGA Typo Logo Gold tone Ring",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-balenciaga-typo-logo-gold-tone/7QwKDaXwy7tnc3wnVjYWSe",
+   "best": "Product Details",
+   "med": 226,
+   "ratio": 22.6,
+   "ai_value": "Price: Around $375"
   },
   {
    "pid": "7928418568",
@@ -1437,6 +1470,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931577468",
+   "title": "Vintage U.S. Bicentennial Society The Double Eagle 10.5\" Plate",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-us-bicentennial/iHBvYEZNAsyz62K5p6Wz9S",
+   "best": "Vtg 1973 Collectors Double Eagle Plate Americas Bicentennial ...",
+   "med": 125,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7982699844",
    "title": "Vintage Mountain Landscape Oil Painting Signed Talbot",
    "price": 85,
@@ -1756,6 +1800,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953283333",
+   "title": "Godinger Silver Art Co. candlesticks",
+   "price": 30,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-godinger-silver-art-co/n8CMbWMvTyjZ8asm5CrXhi",
+   "best": "Neiman Marcus Italian Silver Candlesticks, Pair - LIBERTY & 33RD",
+   "med": 268,
+   "ratio": 8.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7963191822",
    "title": "Vintage ammo box",
    "price": 25,
@@ -1938,6 +1993,17 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-cuff-links-vintage/8rCBKa4bxwQ5pdGsqQj4hQ",
    "best": "Regal Award Vintage Gold and Ruby Red Rhinestone Cufflinks ...",
+   "med": 83,
+   "ratio": 8.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945062250",
+   "title": "Lg. Vintage Chinese Vase",
+   "price": 10,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/amherst-lg-vintage-chinese-vase/teENXhTqnniH7defVj6qyd",
+   "best": "eBay",
    "med": 83,
    "ratio": 8.3,
    "ai_value": ""
@@ -2600,6 +2666,17 @@
    "best": "Miriam Haskell | Jewelry | Miriam Haskell Signed Vintage ...",
    "med": 89,
    "ratio": 5.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968806229",
+   "title": "Old Carved Wooden Dragon Walking Stick",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/lowell-old-carved-wooden-dragon-walking/oy6VKYLon8enwf5dcuJK5Q",
+   "best": "Vintage Antique Carved Wood Snake Cobra Swagger Knob ...",
+   "med": 148,
+   "ratio": 5.92,
    "ai_value": ""
   },
   {
@@ -4517,6 +4594,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978170951",
+   "title": "Casio Sport Watch",
+   "price": 25,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/wichita-casio-sport-watch/9wphGiW3YiFa9ABGMTGS6Y",
+   "best": "10-Year Battery: Designed to last for up to a decade on a single battery.",
+   "med": 69,
+   "ratio": 2.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7948025132",
    "title": "Antique brass civil war buckle",
    "price": 55,
@@ -4798,6 +4886,17 @@
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/hoffman-estates-vintage-paper-mate/bZmkQBbbqrfcnYxhxX1gvu",
    "best": "Kreisler vintage 10k rolled gold mens watch band. New old ...",
+   "med": 75,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932549701",
+   "title": "Whiskey Jack by Lenox",
+   "price": 30,
+   "area": "wenatchee",
+   "url": "https://www.craigslist.org/view/d/wenatchee-whiskey-jack-by-lenox/uuMdhPDCAdJfzZ6nxEXPWH",
+   "best": "Lenox Whiskey-jack Bird Figurine: Hand-painted Porcelain ...",
    "med": 75,
    "ratio": 2.5,
    "ai_value": ""
@@ -5155,6 +5254,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936469165",
+   "title": "Tea Set",
+   "price": 60,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/falmouth-tea-set/bekSyXCruCuvwXaPygH8Jn",
+   "best": "Vintage Chinese Mun Shou Famille Rose Porcelain Tea Pot Hand ...",
+   "med": 125,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7928469881",
    "title": "Vintage NHRA",
    "price": 60,
@@ -5419,6 +5529,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979359839",
+   "title": "Antique 1910's Hat Cleaning Motor by the Hermes Shoe Polish Co",
+   "price": 100,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-antique-1910s-hat-cleaning/qHjj8KKMtvUrkzUt1gGRHB",
+   "best": "Antique B.C. Holwick Store Coffee Grinder, Robbins Myers ...",
+   "med": 180,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7981875915",
    "title": "Vintage African Wildlife Figurines",
    "price": 50,
@@ -5516,6 +5637,17 @@
    "med": 125,
    "ratio": 1.67,
    "ai_value": ""
+  },
+  {
+   "pid": "7977054615",
+   "title": "Ambassadeur vintage reels, lot of 4",
+   "price": 120,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/shelbyville-ambassadeur-vintage-reels/6gt6pkBSZZ8MZH3DnGdjJz",
+   "best": "Vintage Abu Garcia Ambassadeur 5600AB Fishing Reel Made ...",
+   "med": 200,
+   "ratio": 1.67,
+   "ai_value": "Value: Pre-owned and vintage units generally sell between $35 to $115"
   },
   {
    "pid": "7975347201",
@@ -5703,6 +5835,17 @@
    "med": 145,
    "ratio": 1.45,
    "ai_value": ""
+  },
+  {
+   "pid": "7970771121",
+   "title": "Vintage Royal Copenhagen Denmark Leaf-Shaped Porcelain Nappy",
+   "price": 100,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/brookline-vintage-royal-copenhagen/mXyRPEuAghCoPS69cFGWat",
+   "best": "the-saleroom",
+   "med": 145,
+   "ratio": 1.45,
+   "ai_value": "Prices | silver dish Guide Prices Show all Visual matches $100"
   },
   {
    "pid": "7950465000",
@@ -6230,6 +6373,28 @@
    "best": "VTG JAPANESE BLACK POTTERY VASE 10\" FLOWERS ...",
    "med": 100,
    "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951034041",
+   "title": "Antique Miniature Silver Ear Trumpets",
+   "price": 175,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-antique-miniature-silver/4jL2W3E4R8K9YCNCo6i8R9",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951160941",
+   "title": "COCA COLA SIGN",
+   "price": 159,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/saco-coca-cola-sign/j7MjBicJQjbqwxyiEiyqQi",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 0.5,
    "ai_value": ""
   },
   {
