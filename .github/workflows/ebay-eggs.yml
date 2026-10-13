@@ -1,0 +1,31 @@
+# Refurbish: eBay auctions from casual sellers ending soon (golden-egg pool). Code on branch `refurbish`.
+# Uses the EBAY_CLIENT_ID / EBAY_CLIENT_SECRET secrets; api.ebay.com is unreachable from Claude's container.
+name: ebay-eggs
+on:
+  schedule:
+    - cron: '41 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      hours: {description: 'auctions ending within N hours', default: '24'}
+concurrency: {group: ebay-eggs, cancel-in-progress: false}
+permissions: {contents: write}
+jobs:
+  pool:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: refurbish, fetch-depth: 20}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Pull the pool
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: python3 scripts/ebay_eggs.py pool ${{ github.event.inputs.hours || '24' }}
+      - name: Commit
+        run: |
+          git config user.name refurbish-bot; git config user.email refurbish-bot@users.noreply.github.com
+          git add research/pools/ebay-latest.json
+          git commit -qm "ebay egg pool $(date -u +%FT%H:%MZ)" || exit 0
+          for i in 1 2 3; do git pull -q --rebase -X theirs origin refurbish && git push && break; sleep 5; done
