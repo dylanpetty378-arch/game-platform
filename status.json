@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:04:49Z",
+ "updated": "2026-10-13T07:08:29Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2529,
-  "events": 10314,
+  "lens": 2554,
+  "events": 10339,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2911,
+  "queued": 2886,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 80,
-  "flagged": 70
+  "lensed": 93,
+  "flagged": 82
  },
  "last_harvests": [
   {
@@ -290,6 +290,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972377057",
+   "title": "STUNNING VINTAGE SIGNED COLOR PHOTOGRAPH ARIZONA PARIA WILDERNESS",
+   "price": 55,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-stunning-vintage-signed-color/pttrBozkDGwiqt67cZWWzP",
+   "best": "Some views of the Wave, North Coyote Buttes, Arizona - one ...",
+   "med": 4750,
+   "ratio": 86.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7953802005",
    "title": "Assorted Vintage China Serving Pieces",
    "price": 1,
@@ -309,6 +320,17 @@
    "best": "Vintage Green and Gilded Wood Carved Sculpture of a Thai ...",
    "med": 12578,
    "ratio": 62.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948690460",
+   "title": "Decorative vintage jar with lid",
+   "price": 10,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-decorative-vintage-jar-with-lid/44qTYsi72e8rFvJXtzYU78",
+   "best": "Milk Glass, Vintage, Cigar Humidor, Belgium, Dutch Scene ...",
+   "med": 425,
+   "ratio": 42.5,
    "ai_value": ""
   },
   {
@@ -466,6 +488,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955892096",
+   "title": "Isis Coptic Cross Pendant Necklace Gold Tone",
+   "price": 10,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-isis-coptic-cross-pendant/sxEhxzGPVAitY8PeuWVpKE",
+   "best": "Craigslist",
+   "med": 90,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
    "pid": "7937856437",
    "title": "Antique Seed Drill End Plate",
    "price": 40,
@@ -510,6 +543,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947297546",
+   "title": "Vintage Floral Table Lamp Set",
+   "price": 80,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-vintage-floral-table-lamp/pD4Vw54hg78rrYxQM3LFdJ",
+   "best": "Asian Chinoiserie Lamp With Ming Base \u2013 Fig House Vintage",
+   "med": 600,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7965923544",
    "title": "Vtg Hammered Aluminum Tray and Serving Bowl",
    "price": 12,
@@ -518,6 +562,17 @@
    "best": "Vintage Mid Century Aluminum 2 Matching Farber & Shlevin ...",
    "med": 89,
    "ratio": 7.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949343868",
+   "title": "SIGNED OBERKIRSCH HANDMADE COPPER ART NATIVE AMERICAN INDIAN POTTERY",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-signed-oberkirsch-handmade/iQ2Bgx9Sbpypm4fh2h4pb4",
+   "best": "Presentation: Double-matted and framed in a metallic shadowbox-style frame.",
+   "med": 295,
+   "ratio": 7.38,
    "ai_value": ""
   },
   {
@@ -551,6 +606,17 @@
    "best": "Vintage Lotus Flower Pattern Ginger Jar Beautiful Hand ...",
    "med": 495,
    "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981192767",
+   "title": "Hallmark Snoopy Charlie Brown",
+   "price": 100,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/burnsville-hallmark-snoopy-charlie-brown/eVDFfMzjjWWZg3KDfnAsDx",
+   "best": "The Figures Included",
+   "med": 575,
+   "ratio": 5.75,
    "ai_value": ""
   },
   {
@@ -686,6 +752,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973281629",
+   "title": "Vintage silver Bride's  basket",
+   "price": 50,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-vintage-silver-brides-basket/gbNVijECE7GeLsfBG3Q66V",
+   "best": "R Gleason & Sons Silver Plate Repousse 12\" Centerpiece ...",
+   "med": 175,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952425613",
    "title": "BRACELET. Vintage \"Goldette\" Slide Chain Bracelet. 1960s. 9\" Long.",
    "price": 55,
@@ -730,6 +807,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973168451",
+   "title": "Silvertone Pro Series Acoustic Guitar",
+   "price": 50,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-silvertone-pro-series/e4q82LAzNaMujCS4Bafmsw",
+   "best": "Mahogany Silvertone Acoustic Guitars for sale | eBay",
+   "med": 138,
+   "ratio": 2.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7977701955",
    "title": "CUSTOM IBANEZ GiO",
    "price": 150,
@@ -749,6 +837,17 @@
    "best": "Hand Painted Chocolate - Tea Pot - Blue Gold Pink Yellow ...",
    "med": 119,
    "ratio": 2.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962784095",
+   "title": "Kutani Eiraku Style Bowl Meiji Period",
+   "price": 95,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/goleta-kutani-eiraku-style-bowl-meiji/ghm7DBaT1cXNZFF4BqAbzG",
+   "best": "VINTAGE STUDIO ART POTTERY DARK BRICK RED AND BLACK BOWL ...",
+   "med": 220,
+   "ratio": 2.32,
    "ai_value": ""
   },
   {
@@ -838,6 +937,17 @@
    "med": 100,
    "ratio": 1.82,
    "ai_value": ""
+  },
+  {
+   "pid": "7977193854",
+   "title": "HARMONICA ANTIQUE HOHNER",
+   "price": 150,
+   "area": "annapolis",
+   "url": "https://www.craigslist.org/view/d/deale-harmonica-antique-hohner/2rDyQdzZKdPYtuU818SeN7",
+   "best": "VINTAGE SUPER CHROMONICA M. HOHNER GERMANY ...",
+   "med": 259,
+   "ratio": 1.73,
+   "ai_value": "sell on the secondary market for roughly $27 to $90"
   },
   {
    "pid": "7940837201",
@@ -939,6 +1049,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976180217",
+   "title": "PULSAR MEN'S WATCH",
+   "price": 60,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/elfers-pulsar-mens-watch/2hcpndwD5aR5KzF1VcQABG",
+   "best": "Movement: Quartz",
+   "med": 58,
+   "ratio": 0.97,
+   "ai_value": "sell on secondary marketplaces like eBay or Craigslist for roughly $30 to $135,"
+  },
+  {
    "pid": "7931689297",
    "title": "vintage Schiaparelli hat",
    "price": 100,
@@ -958,6 +1079,17 @@
    "best": "Would you like to know how to spot backstamps or markings to verify if they are authentic Shawnee pieces, or w",
    "med": 129,
    "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949942922",
+   "title": "Sterling silver Cuff Bangles",
+   "price": 150,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-cuff-bangles/jkCEHNb3EL9Z34Bn3pUeGe",
+   "best": "eBay",
+   "med": 99,
+   "ratio": 0.66,
    "ai_value": ""
   },
   {
