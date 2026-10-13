@@ -26667,3 +26667,29 @@
 {"ts":"2026-10-13T23:26:13Z","pid":"7959399108","stage":"flagged","run":"lensworker-20261013-2319","note":"Lens names Gold — title does not","data":{"med":175,"ratio":8.75,"mismatch":["Gold"]}}
 {"ts":"2026-10-13T23:26:20Z","pid":"7981740921","stage":"queued","status":"relens","run":"lensworker-20261013-2319","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T23:26:29Z","pid":"7944957115","stage":"lensed","run":"lensworker-20261013-2319","note":null,"data":{"med":25,"ratio":12.5,"mismatch":[]}}
+{"ts":"2026-10-13T23:26:39Z","pid":"7950295781","stage":"flagged","run":"lensworker-20261013-2319","note":"Lens names Origin — title does not","data":{"med":37,"ratio":1.85,"mismatch":["Origin"]}}
+{"ts":"2026-10-13T23:26:46Z","pid":"7939292417","stage":"queued","status":"relens","run":"lensworker-20261013-2319","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:26:54Z","pid":"7975221855","stage":"flagged","run":"lensworker-20261013-2319","note":"Lens names Gold — title does not","data":{"med":36,"ratio":7.2,"mismatch":["Gold"]}}
+{"ts":"2026-10-13T23:27:02Z","pid":"7953736685","stage":"queued","status":"relens","run":"lensworker-20261013-2319","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:27:11Z","pid":"7955774347","stage":"flagged","run":"lensworker-20261013-2326","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-13T23:27:18Z","pid":"7976530479","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Company, Indian, Museum, Origin — title does not","data":{"med":48,"ratio":1.2,"mismatch":["Company","Indian","Museum","Origin"]}}
+{"ts":"2026-10-13T23:27:26Z","pid":"7949721451","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Champlevé, Indian — title does not","data":{"med":45,"ratio":0.9,"mismatch":["Champlevé","Indian"]}}
+{"ts":"2026-10-13T23:27:33Z","pid":"7974346170","stage":"queued","status":"relens","run":"lensworker-20261013-2326","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:27:43Z","pid":"7941139774","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Gold, Silver — title does not","data":{"med":28,"ratio":0.7,"mismatch":["Gold","Silver"]}}
+{"ts":"2026-10-13T23:27:53Z","pid":"7946151590","stage":"lensed","run":"lensworker-20261013-2326","note":null,"data":{"med":43,"ratio":0.23,"mismatch":[]}}
+{"ts":"2026-10-13T23:28:02Z","pid":"7950790524","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Origin — title does not","data":{"med":570,"ratio":8.77,"mismatch":["Origin"]}}
+{"ts":"2026-10-13T23:28:09Z","pid":"7966249410","stage":"queued","status":"relens","run":"lensworker-20261013-2326","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:28:18Z","pid":"7982923080","stage":"lensed","run":"lensworker-20261013-2326","note":null,"data":{"med":49,"ratio":0.49,"mismatch":[]}}
+{"ts":"2026-10-13T23:28:25Z","pid":"7949284870","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Cameo — title does not","data":{"med":20,"ratio":0.41,"mismatch":["Cameo"]}}
+{"ts":"2026-10-13T23:28:33Z","pid":"7931834767","stage":"lensed","run":"lensworker-20261013-2326","note":null,"data":{"med":43,"ratio":1.72,"mismatch":[]}}
+{"ts":"2026-10-13T23:28:41Z","pid":"7940976212","stage":"lensed","run":"lensworker-20261013-2326","note":null,"data":{"med":39,"ratio":0.97,"mismatch":[]}}
+{"ts":"2026-10-13T23:28:50Z","pid":"7945263841","stage":"flagged","run":"lensworker-20261013-2326","note":null,"data":{"med":99,"ratio":2.48,"mismatch":[]}}
+{"ts":"2026-10-13T23:28:59Z","pid":"7954643545","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Collectible — title does not","data":{"med":59,"ratio":2.36,"mismatch":["Collectible"]}}
+{"ts":"2026-10-13T23:29:07Z","pid":"7968395640","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Origin — title does not","data":{"med":68,"ratio":6.8,"mismatch":["Origin"]}}
+{"ts":"2026-10-13T23:29:15Z","pid":"7982896380","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Olympia — title does not","data":{"med":7,"ratio":0.09,"mismatch":["Olympia"]}}
+{"ts":"2026-10-13T23:29:22Z","pid":"7954083620","stage":"flagged","run":"lensworker-20261013-2326","note":null,"data":{"med":100,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-13T23:29:30Z","pid":"7947124424","stage":"flagged","run":"lensworker-20261013-2326","note":null,"data":{"med":125,"ratio":1.92,"mismatch":[]}}
+{"ts":"2026-10-13T23:29:40Z","pid":"7944142510","stage":"lensed","run":"lensworker-20261013-2326","note":null,"data":{"med":20,"ratio":0.33,"mismatch":[]}}
+{"ts":"2026-10-13T23:29:47Z","pid":"7934575720","stage":"flagged","run":"lensworker-20261013-2326","note":"Lens names Jewelry — title does not","data":{"med":28,"ratio":1.87,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-13T23:29:57Z","pid":"7969857468","stage":"flagged","run":"lensworker-20261013-2326","note":null,"data":{"med":360,"ratio":2.57,"mismatch":[]}}
+{"ts":"2026-10-13T23:30:21Z","pid":"7977664119","stage":"expired","run":"liveness","note":"posting gone (was decided/find)"}

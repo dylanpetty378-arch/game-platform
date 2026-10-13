@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:26:52Z",
+ "updated": "2026-10-13T23:30:22Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7249,
-  "events": 26669,
+  "lens": 7274,
+  "events": 26695,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 420,
+  "lensed": 425,
   "comps/pass": 1,
-  "queued/relens": 345,
+  "queued/relens": 349,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 657,
-  "expired": 10,
-  "decided/find": 9,
+  "flagged": 673,
+  "expired": 11,
+  "decided/find": 8,
   "comps/fail": 5,
-  "queued": 404
+  "queued": 379
  },
  "last_harvests": [
   {
@@ -1603,6 +1603,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950790524",
+   "title": "vintage 16\" FOOTED red green ONYX VASE",
+   "price": 65,
+   "area": "prescott",
+   "url": "https://www.craigslist.org/view/d/prescott-vintage-16-footed-red-green/moSVKJeQcwakC4b3tkn99Y",
+   "best": "Vintage Onyx Marble Vase 7 3/4\u201d Green and Brown Mantel ...",
+   "med": 570,
+   "ratio": 8.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7935171170",
    "title": "Antique/Vintage Rembrandt Framed Print. Lot 4",
    "price": 25,
@@ -1867,6 +1878,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975221855",
+   "title": "CLIP-ON EARRINGS",
+   "price": 5,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/florissant-clip-on-earrings/jknnsANzUCWAhFtBvKwiX2",
+   "best": "Vintage Clip On Earrings Rhinestones Faux Pearls Gold-tone ...",
+   "med": 36,
+   "ratio": 7.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7942627095",
    "title": "Vintage \"FAT\" lamp",
    "price": 35,
@@ -1941,6 +1963,17 @@
    "best": "Handle: Plain, straight stem tapering slightly toward a rounded or downturned tip.",
    "med": 275,
    "ratio": 6.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968395640",
+   "title": "Vintage Otagiri Southwest Lotion Soap Dispenser Pump",
+   "price": 10,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/vail-vintage-otagiri-southwest-lotion/vXDHUQKHDqx9VKKdvjpXX8",
+   "best": "Craigslist",
+   "med": 68,
+   "ratio": 6.8,
    "ai_value": ""
   },
   {
@@ -3968,6 +4001,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969857468",
+   "title": "Seiko Watch",
+   "price": 140,
+   "area": "anchorage",
+   "url": "https://www.craigslist.org/view/d/anchorage-seiko-watch/a96LtvBbRc1NhcDrmTm5pg",
+   "best": "eBay",
+   "med": 360,
+   "ratio": 2.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7944045335",
    "title": "1920's MILITARY STYLE WOMENS WATCH...REDUCED...",
    "price": 45,
@@ -4144,6 +4188,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945263841",
+   "title": "New- Sterling Silver Filigree Heart Pendant: 1 \u00bc\u201d long - Nordstrom",
+   "price": 40,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-new-sterling-silver-filigree/2NZ3JgyLw97YmJh9NFFVQ2",
+   "best": "Etsy",
+   "med": 99,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7955010908",
    "title": "Vintage Dutch Boy White Lead Metal Pail/Tin",
    "price": 40,
@@ -4250,6 +4305,17 @@
    "url": "https://www.craigslist.org/view/d/stayton-vintage-gold-ring-lot/vMH9FtQ5R5WRq2UTiZbEqi",
    "best": "Antique Ruby Pearl 14k Yellow Gold Ryrie Bros Ring - Size ...",
    "med": 520,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954643545",
+   "title": "Vintage jewelry",
+   "price": 25,
+   "area": "neworleans",
+   "url": "https://www.craigslist.org/view/d/metairie-vintage-jewelry/e9t9RVF4f2rZVQkb6qvkxK",
+   "best": "eBay",
+   "med": 59,
    "ratio": 2.36,
    "ai_value": ""
   },
@@ -4727,6 +4793,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947124424",
+   "title": "Vintage Embossed Lithograph",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-embossed-lithograph/k2X2Lv7zZzaqmLadLJiaoU",
+   "best": "Subject: Two minimalist, white raised-relief (embossed) ducks\u2014one sitting upright toward the bottom left and o",
+   "med": 125,
+   "ratio": 1.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7937027653",
    "title": "Timex Women's Cavatina watch.",
    "price": 10,
@@ -4892,6 +4969,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934575720",
+   "title": "Vintage Loft Rhinestone pendant necklace",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-loft-rhinestone-pendant/wdVRyvZ1f4oVLJJBwy4Hn5",
+   "best": "Poshmark",
+   "med": 28,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7979034357",
    "title": "Antique Kayserzinn pewter tray",
    "price": 80,
@@ -4910,6 +4998,17 @@
    "url": "https://www.craigslist.org/view/d/vancouver-spiro-agnew-watch/hh8wJu5XsQWj32iAHwFBG6",
    "best": "Vintage SPIRO AGNEW Cartoon Style Wrist Watch by Sheffield ...",
    "med": 74,
+   "ratio": 1.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950295781",
+   "title": "Vintage Kurt Adler Bobble heads",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-kurt-adler-bobble/rgCu5sMeSS1jrEAsV1GY1r",
+   "best": "4 Vintage Kurt Adler Bobblehead Elves Band w/ Guitar & Drums ...",
+   "med": 37,
    "ratio": 1.85,
    "ai_value": ""
   },
@@ -5827,6 +5926,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976530479",
+   "title": "Silver tone chain",
+   "price": 40,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cohoes-silver-tone-chain/ddFCV8VJ27USR3UuaXk8n9",
+   "best": "Pendant Design: A circular dream catcher frame enclosing an Indian Head / Buffalo Nickel coin, decorated with ",
+   "med": 48,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7952328403",
    "title": "Picture-Boy Going Fishing",
    "price": 17,
@@ -6201,6 +6311,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954083620",
+   "title": "Antique Cast Iron Aunt Jemima doorstop",
+   "price": 100,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-antique-cast-iron-aunt/7UMPtD9er1UHeykFC2JHAM",
+   "best": "Show more",
+   "med": 100,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7931133687",
    "title": "VINTAGE GERMAN LITHO BEER STEIN",
    "price": 120,
@@ -6373,6 +6494,17 @@
    "url": "https://www.craigslist.org/view/d/bayonne-vintage-hering-membi-harmonica/wX9qVjj2UFGqRkc8UHPoyw",
    "best": "Craigslist",
    "med": 72,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949721451",
+   "title": "Pair of vintage brass vases features intricate etched floral designs",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-pair-of-vintage-brass-vases/9DwUygVkAevTbuTeeVfVGQ",
+   "best": "Vintage Colonial Style India Matching Brass Vases W/ Enamel ...",
+   "med": 45,
    "ratio": 0.9,
    "ai_value": ""
   },
@@ -6682,6 +6814,17 @@
    "best": "Mother-of-pearl & Black Onyx Sterling Silver Rhea Necklace ...",
    "med": 50,
    "ratio": 0.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941139774",
+   "title": "Oleg Cassini Men's Watch",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bellevue-oleg-cassini-mens-watch/bSm8vxXCFphc1pfpYs1jes",
+   "best": "Craigslist",
+   "med": 28,
+   "ratio": 0.7,
    "ai_value": ""
   },
   {
@@ -7001,6 +7144,17 @@
    "best": "Statue Of Liberty 1886-1986 Limited Ed. Commemorative Quartz Pocket",
    "med": 38,
    "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949284870",
+   "title": "Sterling Silver 925 Rhinestone Angel Pendant with 18\u201d Necklace , Excellent",
+   "price": 49,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/beaverton-sterling-silver-925/g4mY431SUkTLdueVS8WhyK",
+   "best": "Mercari",
+   "med": 20,
+   "ratio": 0.41,
    "ai_value": ""
   },
   {
@@ -7356,6 +7510,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982896380",
+   "title": "Vintage Olympic Russian Soviet Union Pins/Badges",
+   "price": 75,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/dallesport-vintage-olympic-russian/txHFr5cdsENVxfY9YLwGKa",
+   "best": "Top Right: A rectangular Soviet military or civic award/commemorative ribbon bar badge labeled \u041c\u041e\u0421\u041a\u0412\u0410 (Moscow)",
+   "med": 7,
+   "ratio": 0.09,
+   "ai_value": ""
+  },
+  {
    "pid": "7957883018",
    "title": "Jewelry Lot",
    "price": 200,
@@ -7615,6 +7780,17 @@
    "area": "tallahassee",
    "url": "https://www.craigslist.org/view/d/crawfordville-queen-26a-knife/jefEmzG3dUruVFoesNbMYD",
    "best": "Boker Plus 4-Blade Yellow Handle Congress Pocket Knife ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955774347",
+   "title": "Harmony",
+   "price": 25,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/coventry-harmony/ckXmWVezt88jfioBZJZptg",
+   "best": "Harmony acoustic Guitar 1950s 6 string hand made in chicago ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
@@ -7888,16 +8064,6 @@
    "area": "images",
    "url": "https://www.craigslist.org/view/d/carthage-hoyt-ultratec-with-xt-sets-and/9n79s9LCanPoJx7v1z19fx",
    "note": "Terapeak 365d sold: Hoyt UltraTec median $200 (n=18). Needs ~$30 strings; bow box ~$20 each way \u2192 ~$64 profit at $40.",
-   "stage": "decided",
-   "status": "find"
-  },
-  {
-   "pid": "7977664119",
-   "title": "Original full-size Furbys",
-   "price": 10,
-   "area": "images",
-   "url": "https://www.craigslist.org/view/d/grants-pass-original-full-size-furbys/93SwfT4ki1d2wQ4Q26MpEg",
-   "note": "Terapeak 365d sold: 1998 Furby NIB median $50 (n=50). 8 \u00d7 $10 \u2192 ~$228 profit.",
    "stage": "decided",
    "status": "find"
   },

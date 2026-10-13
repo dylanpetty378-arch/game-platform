@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T23:26:52Z
+# Refurbish status — 2026-10-13T23:30:22Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,14 +7,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 657 |
-| lensed | 420 |
-| queued | 404 |
-| queued/relens | 345 |
+| flagged | 673 |
+| lensed | 425 |
+| queued | 379 |
+| queued/relens | 349 |
 | decided/ask | 59 |
 | decided/kill | 40 |
-| expired | 10 |
-| decided/find | 9 |
+| expired | 11 |
+| decided/find | 8 |
 | decided/bundle | 5 |
 | comps/fail | 5 |
 | comps/pass | 1 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7249
-- events: 26669
+- lens: 7274
+- events: 26695
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -38,7 +38,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - craigslist-20261013-1614 — 81978 listings, 80634 new, 800 queued
 - craigslist-20261013-2137 — 135787 listings, 135236 new, 800 queued
 
-## Finds and open leads (68)
+## Finds and open leads (67)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -69,7 +69,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00X0X_3K2daRQc53K_0CI0t2_300x300.jpg" width="160"> | [Vintage Film Cameras and Accessories](https://www.craigslist.org/view/d/mesquite-vintage-film-cameras-and/7x4ZFmPnkJhVbbwvcVbYEe) | $100 | images | **decided/find** — Terapeak 365d sold: Nikon F2 Photomic black median $225 (n=47) + SX-70 ~$125. ~$175 profit at $100. |
 | <img src="https://images.craigslist.org/01515_dzGfAYajjsB_0CI0pP_300x300.jpg" width="160"> | [Antique Brass Andirons](https://www.craigslist.org/view/d/chino-valley-antique-brass-andirons/1sVJ42YBxxeRtN6dzua5wC) | $150 | images | **decided/find** — Terapeak 365d sold: Louis XV gilt-bronze chenets median $600 (n=3, thin). Heavy, ~$30 each way. ~$310 profit at $150. |
 | <img src="https://images.craigslist.org/00m0m_cSPzc2JdXqc_0CI0lM_300x300.jpg" width="160"> | [Hoyt Ultratec with XT3000 (2 sets) and accesories](https://www.craigslist.org/view/d/carthage-hoyt-ultratec-with-xt-sets-and/9n79s9LCanPoJx7v1z19fx) | $40 | images | **decided/find** — Terapeak 365d sold: Hoyt UltraTec median $200 (n=18). Needs ~$30 strings; bow box ~$20 each way → ~$64 profit at $40. |
-| <img src="https://images.craigslist.org/00t0t_cdAUVHdGmmr_0t20CI_300x300.jpg" width="160"> | [Original full-size Furbys](https://www.craigslist.org/view/d/grants-pass-original-full-size-furbys/93SwfT4ki1d2wQ4Q26MpEg) | $10 | images | **decided/find** — Terapeak 365d sold: 1998 Furby NIB median $50 (n=50). 8 × $10 → ~$228 profit. |
 | <img src="https://images.craigslist.org/00v0v_azI5PE4F3qH_0CI0mK_300x300.jpg" width="160"> | [Huge Cymbal Bundle – Zildjian / Paiste / Sabian – Below Mark](https://www.craigslist.org/view/d/kahului-huge-cymbal-bundle-zildjian/2zX6xaXdRmJoPkPGehbNkg) | $123 | images | **decided/ask** — Terapeak 365d sold: Zildjian A 23in Sweet Ride median $380 (n=19). If $123 buys all 8 cymbals → ~$168 profit on the ride alone. ASK. |
 | <img src="https://images.craigslist.org/00m0m_amvdvzDg1I8_0ik0t2_300x300.jpg" width="160"> | [1901 hamilton pocket watch](https://www.craigslist.org/view/d/lafayette-1901-hamilton-pocket-watch/jm2x1aextY8LaRmhhSVeTv) | $100 | boulder | **decided/ask** — Terapeak 365d sold: 1901-era Hamilton pocket watches median $310 (n=50). ~$146 profit at $100. ASK: runs, grade on movement, case marking. |
 | <img src="https://images.craigslist.org/00e0e_1k7pKbvYk1s_0ww0oo_300x300.jpg" width="160"> | [Vintage Sterling Silver Rings](https://www.craigslist.org/view/d/brooklyn-vintage-sterling-silver-rings/7opcM2GG2V3NKRHaoSbpZU) | $25 | newyork | **decided/ask** — Terapeak 365d sold: James Avery sterling ring lots median $150 (n=50). 5 rings for $100 → ~$180 if JA-marked. ASK inside-band hallmarks. |
@@ -111,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (657)
+## Flagged by Lens, waiting for photo review (673)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -227,6 +226,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00303_eEdYF5AOlon_0CI0t2_300x300.jpg" width="120"> | 7967367567 | $40 | chicago | [VINTAGE COSTUME BRACELET AND EAR RINGS](https://www.craigslist.org/view/d/la-grange-park-vintage-costume-bracelet/9xkEU9WunPPKZEpZVdo8jY) | Vintage Kramer of New York Rhinestone Bangle Bracelet and .. | 370 | 9.25 |
 | <img src="https://images.craigslist.org/00808_ixOVnBna7n_0MM132_300x300.jpg" width="120"> | 7970415882 | $25 | portland | [ONIDA Silver Platter](https://www.craigslist.org/view/d/west-linn-onida-silver-platter/jscGjdJn5X6knwSVU6Zw1y) | Towle Huge 17” Silverplated Serving Tray Vintage Incredible  | 225 | 9 |
 | <img src="https://images.craigslist.org/00g0g_4UC0qed7513_0lM0t2_300x300.jpg" width="120"> | 7952517572 | $30 | portland | [Sterling Silver Kokopelli Broach](https://www.craigslist.org/view/d/portland-sterling-silver-kokopelli/kFsXpFK6BsRDRdXBUnG9SE) | NATIVE AMERICAN Sterling Silver Onyx KOKOPELLI ... | 264 | 8.8 |
+| <img src="https://images.craigslist.org/00404_chmAOlSBRVa_04A0c6_300x300.jpg" width="120"> | 7950790524 | $65 | prescott | [vintage 16" FOOTED red green ONYX VASE](https://www.craigslist.org/view/d/prescott-vintage-16-footed-red-green/moSVKJeQcwakC4b3tkn99Y) | Vintage Onyx Marble Vase 7 3/4” Green and Brown Mantel ... | 570 | 8.77 |
 | <img src="https://images.craigslist.org/00v0v_eMxmhitKyxm_0nN0rN_300x300.jpg" width="120"> | 7935171170 | $25 | orangecounty | [Antique/Vintage Rembrandt Framed Print. Lot 4](https://www.craigslist.org/view/d/lake-forest-antique-vintage-rembrandt/ogFBmhfi1BCfmNUAg4PDp7) | Vintage 1960s Man With the Golden Helmet Rembrandt Print in  | 219 | 8.76 |
 | <img src="https://images.craigslist.org/00Q0Q_35ssGm0ewJM_0t20CI_300x300.jpg" width="120"> | 7959399108 | $20 | albany | [California Pottery](https://www.craigslist.org/view/d/albany-california-pottery/eLj5HFJdaxTBVgDbpjcYHf) | eBay | 175 | 8.75 |
 | <img src="https://images.craigslist.org/01212_6tLCwrcN4A1_0d10q1_300x300.jpg" width="120"> | 7974818586 | $95 | boston | [Sterling baroque freshwater pearl bracelet](https://www.craigslist.org/view/d/natick-sterling-baroque-freshwater/oXZ92XDr4RgGr7JUjJNYDa) | Wide Freshwater Pearl Solid Silver 925 Bracelet, Three ... | 819 | 8.62 |
@@ -236,4 +236,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00l0l_7NUjny46Y86_0bO0fu_300x300.jpg" width="120"> | 7963650435 | $15 | minneapolis | [Doll Vintage Madame Alexander Doll](https://www.craigslist.org/view/d/minneapolis-doll-vintage-madame/cvZSfcS2yXnL3PWYnNvWQh) | Madame Alexander Kathy Doll / eBay | 125 | 8.33 |
 | <img src="https://images.craigslist.org/00a0a_45S3bxVLW5L_0CI0t2_300x300.jpg" width="120"> | 7979158995 | $20 | oregoncoast | [Vintage Lamp Shades](https://www.craigslist.org/view/d/lebanon-vintage-lamp-shades/wtxZ2qk5A5V3A9rW9DSkaw) | White Opal / Milk Glass Shade (Left): Features a hand-painte | 165 | 8.25 |
 | <img src="https://images.craigslist.org/00L0L_hOMwdNNsUil_0hq0qL_300x300.jpg" width="120"> | 7930652625 | $95 | boston | [Vintage classic Oscar de la Renta wristwatch](https://www.craigslist.org/view/d/natick-vintage-classic-oscar-de-la/v49zChLoeMzKdoKHgfZ5Ni) | Vtg Oscar De La Renta 23mm Watch Gold Tone White Tank Dial . | 779 | 8.2 |
-| <img src="https://images.craigslist.org/00O0O_7iuJ562A6R0_0CI0t2_300x300.jpg" width="120"> | 7982813460 | $5 | omaha | [Vintage Beaded Necklace](https://www.craigslist.org/view/d/omaha-vintage-beaded-necklace/vK9ojDakj2fdGYgFVDmExk) | eBay | 40 | 8 |
