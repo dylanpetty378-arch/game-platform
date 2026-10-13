@@ -26,6 +26,19 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (05:00–06:30) — triage everything, Terapeak at scale, cron fix
+- Text-triage of ALL 678 Lens-scanned-but-unflagged listings (4 agents) + 206 flagged: flagged → 0 buys; unflagged →
+  1 find (Ainsworth Brunton transit $35, Terapeak median $99–150) and several asks. Total open leads now ~30; PDF of the
+  7 best sent to Dylan (`Refurbish-New-Leads-2026-10-13.pdf`). Review-cycle now triages all scanned listings.
+- Scoring: collections/lots + full-bee/Goebel + jewelled/hunter watches are lead patterns (boost); "lot of N" no longer
+  penalised.
+- Terapeak: 469 identification queries in one sequential loop (Web-Worker-paced) → 370 comps; 265 encyclopedia
+  entries got dated sold comps. Method in research/terapeak-bulk.md.
+- **The 4-hourly cron had never fired** (no `schedule` runs in Actions history). Fixes on main AND the refurbish copy
+  (push runs use the branch's copy): separate concurrency groups for push vs harvest, and push runs now harvest when the
+  last harvest is > 4.5 h old (the Lens worker pushes every ~4 min, so harvests can no longer stall). First fallback
+  harvest started 05:31 UTC.
+
 ### 2026-10-13 (04:00–06:00) — deep research, rubric, encyclopedia restructure
 - Dylan: passenger-seat size rule (hard exclusion), deep research on every scanned item, rubric of key facts per type and
   per item, full dossiers for anything bought/sold, one working chat (scheduled review task deleted).

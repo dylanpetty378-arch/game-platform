@@ -19,3 +19,16 @@ window.TP=window.TP||{};window.TPstat={done:0,err:0,run:true};
 Field order of a TPR row (split on ' | '): 0 item id · 1 title · 3 sold price · 8 quantity sold · last field = date sold.
 Generic queries ("decorator table lamps") pull in new retail products sold in quantity, so treat their medians as noise.
 Prefer specific identification queries.
+
+## Lessons (Oct 13)
+- **Pace with a Web Worker timer, not setTimeout.** Chrome throttles timers in background tabs to about one per minute,
+  so a setTimeout-paced loop crawls. Make a sleep from a Blob worker:
+  `const w=new Worker(URL.createObjectURL(new Blob(['onmessage=e=>setTimeout(()=>postMessage(1),e.data)'])))`.
+  Give each loop its own worker; sharing one `onmessage` between two loops deadlocked the first.
+- **Rate.** One sequential loop at 2.5–4 s per query is fine (about 470 queries in 35 min). Three parallel loops with no
+  delay triggered eBay's bot protection after about 160 queries: every fetch failed for over an hour.
+- **Reading results out.** The chrome tool truncates one long returned string at about 1 KB but returns arrays of short
+  strings intact. Return `Object.keys(R).slice(a,b).map(k=>JSON.stringify({i:+k,r:R[k]}))` in slices of about 45.
+  Save to `localStorage` every 10 queries so a reload doesn't lose work.
+- **Queries.** Use specific identification queries ("Hampden pocket watch", "heartring straight razor"). Generic type
+  queries ("barware", "sports memorabilia") return new retail goods and unrelated items, so their medians are noise.
