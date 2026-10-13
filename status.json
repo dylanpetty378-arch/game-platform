@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T04:43:02Z",
+ "updated": "2026-10-13T04:46:55Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1654,
-  "events": 7160,
+  "lens": 1679,
+  "events": 7185,
   "comps": 152,
   "item_types": 513,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 536,
-  "queued": 2986,
-  "lensed": 596,
+  "queued": 2961,
+  "lensed": 612,
   "comps/pass": 1,
   "decided/ask": 14,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 152,
+  "flagged": 161,
   "decided/find": 6
  },
  "last_harvests": [
@@ -367,6 +367,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945356915",
+   "title": "Two Vintage Women's Hats",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-two-vintage-womens-hats/xk91smeJixsdHq9H1n5mR2",
+   "best": "Kentucky Derby Hat, Soft Blue Silk Flower Hat, Powder Blue ...",
+   "med": 245,
+   "ratio": 16.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7961128158",
    "title": "Brass Lantern Vintage",
    "price": 39,
@@ -543,6 +554,17 @@
    "ai_value": "Value: Generally ranges between $70"
   },
   {
+   "pid": "7942945889",
+   "title": "Vintage Bread Box",
+   "price": 60,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/arroyo-grande-vintage-bread-box/bYSDV1LCRMRBHbejDvTugL",
+   "best": "25+ Vintage Bread Bin for sale | Updated Oct 2026",
+   "med": 575,
+   "ratio": 9.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7934931919",
    "title": "Pittsburgh Steelers garage sign",
    "price": 20,
@@ -716,6 +738,28 @@
    "best": "Monster Trucks 800 lb. Capacity Wood 4-Wheel Dolly, Carpeted ...",
    "med": 69,
    "ratio": 6.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980598539",
+   "title": "Vintage HO Train Set",
+   "price": 30,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/carmel-vintage-ho-train-set/jhanm7nLZSKrEVAcgzPvdp",
+   "best": "POWER BLASTER ELECTRIC TRAIN HO / MOLDED ROAD BED 2007 | eBay",
+   "med": 200,
+   "ratio": 6.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952029323",
+   "title": "Vintage Willson hard hat",
+   "price": 40,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-willson-hard-hat/npAcJ2em26EuavwnYYMUbH",
+   "best": "Aluminum Hard Hat McDonald T Standard Mine Safety Appliances ...",
+   "med": 264,
+   "ratio": 6.6,
    "ai_value": ""
   },
   {
@@ -1123,6 +1167,17 @@
    "best": "Mexican Blue Bird Plates - Etsy",
    "med": 104,
    "ratio": 2.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959419283",
+   "title": "Engineering Satchel/Antique - Leather",
+   "price": 45,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/fort-collins-engineering-satchel/oL5xDnKR4tREXcoqKkD1v4",
+   "best": "Vintage Medium Brown Swiss Army Military Leather Shoulder ...",
+   "med": 130,
+   "ratio": 2.89,
    "ai_value": ""
   },
   {
@@ -1544,6 +1599,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7934792085",
+   "title": "Vintage Mayan Huipil",
+   "price": 100,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-mayan-huipil/hM4bon6c1ee5nrM7hASnxV",
+   "best": "Francisco Zuniga - Bikespark - Drawings & Illustration ...",
+   "med": 156,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969462644",
+   "title": "Vintage 5-piece Cruet Set",
+   "price": 95,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/costa-mesa-vintage-piece-cruet-set/6YRfCnN4EBV4qz3vQVviTX",
+   "best": "Antique Simpson Hall Miller & Co. Silver Plated Cruet Castor ...",
+   "med": 145,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7955700804",
    "title": "Antique throwing knife LG",
    "price": 65,
@@ -1621,6 +1698,17 @@
    "ai_value": "Value: Typically sells in the $60 to $80"
   },
   {
+   "pid": "7955196554",
+   "title": "Military Stuff",
+   "price": 75,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/herndon-military-stuff/vtcAavTbHmoTdaG2foBE1F",
+   "best": "Vintage US Army Military Canteen Holder Wool w Belt Marked ...",
+   "med": 95,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7979775990",
    "title": "Vintage Tiffany Stained Glass Large 24\" Hanging Lamp Shade",
    "price": 200,
@@ -1652,6 +1740,17 @@
    "med": 179,
    "ratio": 1.19,
    "ai_value": "Price: Typically around $179"
+  },
+  {
+   "pid": "7982532291",
+   "title": "Vintage Lithograph Farm Animals",
+   "price": 75,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/middleton-vintage-lithograph-farm/s3uqDLGV5JHdHzLY3e91Ne",
+   "best": "Farm Animals, Cardboard Die Cut, Vintage, Set of 6, Good ...",
+   "med": 85,
+   "ratio": 1.13,
+   "ai_value": ""
   },
   {
    "pid": "7949829582",
