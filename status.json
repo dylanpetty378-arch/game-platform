@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:02:57Z",
+ "updated": "2026-10-13T03:06:04Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1004,
-  "events": 6253,
+  "lens": 1029,
+  "events": 6278,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3637,
-  "lensed": 320,
+  "queued": 3612,
+  "lensed": 337,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 23
+  "flagged": 31
  },
  "last_harvests": [
   {
@@ -223,6 +223,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930087323",
+   "title": "Vintage Jostens women's Quartz Swiss Gold Tone Watch w/ Hadley band.",
+   "price": 20,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-saint-francis-vintage-jostens/fqVbq5mutg23kukE8rCV7X",
+   "best": "Case/Dial: Gold-tone round case with a light silver dial and slim hands.",
+   "med": 250,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7944016859",
    "title": "Antique milk can with lid",
    "price": 25,
@@ -267,6 +278,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971176613",
+   "title": "Beautiful 3D Lady Art",
+   "price": 70,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/altamonte-springs-beautiful-3d-lady-art/8Uwjs4mdxvqGZheToERHqq",
+   "best": "Artist: Signed by Rafael Martin (similar pieces are also occasionally associated with artist Alejandro Rivera ",
+   "med": 350,
+   "ratio": 5,
+   "ai_value": "Value: Typically ranges from $70 to $150"
+  },
+  {
    "pid": "7969961994",
    "title": "Pear glass crystal set",
    "price": 25,
@@ -289,6 +311,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7953512408",
+   "title": "English riders hunting scene",
+   "price": 40,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/rowlett-english-riders-hunting-scene/3sGiHGJPpuHXQnLC3e41XQ",
+   "best": "Google",
+   "med": 150,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947859133",
+   "title": "Modern Peonies Art Painting",
+   "price": 20,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/new-haven-modern-peonies-art-painting/cqnCiEj332S88FPM3Xe1Tf",
+   "best": "Facebook",
+   "med": 72,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982474088",
+   "title": "Vintage Silver Coffee Carafe",
+   "price": 125,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/waltham-vintage-silver-coffee-carafe/3xyTEqkp92ovCpyMfzQF4c",
+   "best": "Vintage Giuliano Bossi Insulated Carafe Pitcher Silver Plate ...",
+   "med": 390,
+   "ratio": 3.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7930082394",
    "title": "2 Vintage Bakelite Buttons",
    "price": 25,
@@ -308,6 +363,17 @@
    "best": "Case & Movement: Gold-tone case with a hand-winding mechanical movement.",
    "med": 120,
    "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953781364",
+   "title": "Wooden Indian Statue",
+   "price": 55,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/wooden-indian-statue/1C5mYghY9qbhV9Knj7JqrF",
+   "best": "Hand Carved Wooden Indian Statue 12.5\\",
+   "med": 158,
+   "ratio": 2.87,
    "ai_value": ""
   },
   {
@@ -352,6 +418,17 @@
    "best": "eBay",
    "med": 80,
    "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942011154",
+   "title": "19 Century hollow bronze Japanese cloisone vase.",
+   "price": 105,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-19-century-hollow-bronze/bMpmyuif1GyF7ziVijShi4",
+   "best": "Antique Japanese Bronze Champleve Cloisonn\u00e9 Enamel Vase with ...",
+   "med": 195,
+   "ratio": 1.86,
    "ai_value": ""
   },
   {
@@ -416,6 +493,17 @@
    "area": "smd",
    "url": "https://www.craigslist.org/view/d/alexandria-antique-speed-graphic/bCgfCeuDg1dXLHUrJRrS95",
    "best": "Lot - Vintage Graflex Speed Graphic Large Format Camera",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956320111",
+   "title": "Vintage plastic Dickey's BBQ sign",
+   "price": 20,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-vintage-plastic-dickeys-bbq/b7BZGqS3PwkPCzvLxvn7cG",
+   "best": "Would you like to know more about the history of Dickey's Barbecue Pit or the location shown in the vintage ph",
    "med": null,
    "ratio": null,
    "ai_value": ""
