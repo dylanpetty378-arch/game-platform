@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:28:20Z",
+ "updated": "2026-10-13T06:32:16Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2304,
-  "events": 9839,
+  "lens": 2329,
+  "events": 9864,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3136,
+  "queued": 3111,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 84,
-  "lensed": 91
+  "flagged": 95,
+  "lensed": 105
  },
  "last_harvests": [
   {
@@ -521,6 +521,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982589261",
+   "title": "Vintage Sears Tower 309 projector",
+   "price": 20,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/ravenna-vintage-sears-tower-309/s3BPNrP7MCtxDVvjxkVJoV",
+   "best": "VINTAGE Argus 300 Automatic Slide Projector in Case Tested ...",
+   "med": 134,
+   "ratio": 6.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7945146254",
    "title": "VINTAGE MANTLE CLOCK",
    "price": 40,
@@ -796,6 +807,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929233117",
+   "title": "Antique Whiskey Jar",
+   "price": 40,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/pebble-beach-antique-whiskey-jar/2k9yESpWrwz6fstp2etmhK",
+   "best": "Primitive Stoneware Crock Finger Jug / Small Brown Stoneware ...",
+   "med": 120,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7976421852",
    "title": "Two Antique Tennis Racquets",
    "price": 35,
@@ -818,6 +840,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942009377",
+   "title": "2 Antique Wall Clocks",
+   "price": 60,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/paradise-valley-antique-wall-clocks/qPoxDyf8sFFc9R3TVpZLgW",
+   "best": "Vintage Hermle Wall Clock \u2013 German Mechanical Regulator ...",
+   "med": 175,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7947228983",
    "title": "Vintage Erma Gilliland Duncan Wall Art 1906",
    "price": 25,
@@ -826,6 +859,17 @@
    "best": "Duncan Ceramics | Wall Decor | Vintage Duncan Ceramics ...",
    "med": 71,
    "ratio": 2.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979750904",
+   "title": "Vintage 5 Gallon Ransbottom Crown Stoneware Crock",
+   "price": 60,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-vintage-gallon-ransbottom/o7tFDxqWC1oEQCYJe7b12q",
+   "best": "Robinson Ransbottom Blue Crown Stoneware Crock 2 Gallon USA ...",
+   "med": 170,
+   "ratio": 2.83,
    "ai_value": ""
   },
   {
@@ -848,6 +892,17 @@
    "best": "4 Vintage Fostoria WHISPER 6089 CHAMPAGNE Goblet Sherbet ...",
    "med": 70,
    "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956977066",
+   "title": "Mid-Century Wall D\u00e9cor",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/hopkinton-mid-century-wall-dcor/93nE5doSFJCagQYfKcsgMi",
+   "best": "HOLLYWOOD REGENCY GRECIAN LADIES SHADOW BOX WALL ART GILT ...",
+   "med": 139,
+   "ratio": 2.78,
    "ai_value": ""
   },
   {
@@ -917,6 +972,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7947470046",
+   "title": "13\" VINTAGE PERU MIXED-METAL COPPER STERLING SILVER WALL-PLATE-CHARGER",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-13-vintage-peru-mixed-metal/uoWmcAv9AEQUaqrvgQ5w2P",
+   "best": "Old Cuzco Peruvian Hammered Copper Wall Plate Incan Deity ...",
+   "med": 235,
+   "ratio": 2.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972181136",
+   "title": "BIG- CHUNKY-UNIQUE- SIZE 12 STERLING RING",
+   "price": 50,
+   "area": "wyoming",
+   "url": "https://www.craigslist.org/view/d/masonville-big-chunky-unique-size-12/wj6JaFPesqMHra3mN12bsh",
+   "best": "STERLING TURKISH Filigree Ring-vintage 925 Silver-dgs ...",
+   "med": 115,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7969701606",
    "title": "Antique Siler-plated Pennsylvania Railroad Teapot",
    "price": 135,
@@ -935,6 +1012,17 @@
    "url": "https://www.craigslist.org/view/d/shawnee-vintage-set-of-zuni-necklace/3p71pLa6iW3ADP6uD6aUHv",
    "best": "Etsy",
    "med": 105,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955753056",
+   "title": "VINTAGE PETROL LAMP",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/vintage-petrol-lamp/2kDmFCU3FZFcnX2vBD5gaR",
+   "best": "Vintage Rare Lamp & Light Wunder Lamp Patent Mark Brass ...",
+   "med": 210,
    "ratio": 2.1,
    "ai_value": ""
   },
@@ -1016,6 +1104,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947902192",
+   "title": "Antique Kerosene Lantern",
+   "price": 60,
+   "area": "bellingham",
+   "url": "https://www.craigslist.org/view/d/blaine-antique-kerosene-lantern/fAzwVjU9xnxPQGqYNdoJvn",
+   "best": "VINTAGE PRISCO No. 2 PRITCHARD STRONG CO. LANTERN & CLEAR ...",
+   "med": 96,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7950424348",
    "title": "Antique Stoneware crocks and bottles lot",
    "price": 195,
@@ -1046,6 +1145,17 @@
    "best": "Vintage Wood Veneer Wall Art, Girl Picking Dried Flowers ...",
    "med": 89,
    "ratio": 1.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948466434",
+   "title": "2 Japanese sumida gawa Ceramic Bowls",
+   "price": 185,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/port-chester-japanese-sumida-gawa/2xkjjoSaWCiakCB8zu3WYh",
+   "best": "RARE* Japanese Meiji Sumida Gawa Bowl 2 Men & Frog Signed ...",
+   "med": 189,
+   "ratio": 1.02,
    "ai_value": ""
   },
   {
@@ -1112,6 +1222,17 @@
    "best": "Vintage Oil Painting depicting a European Castle Unknown ...",
    "med": 85,
    "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949718448",
+   "title": "Antique Metal Abraham Lincoln Mourning Plaque",
+   "price": 199,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/broomall-antique-metal-abraham-lincoln/47zjCr5QRNEgFKVmVgy4dP",
+   "best": "antique 1800's realistic bronze Abraham Lincoln President ...",
+   "med": 162,
+   "ratio": 0.81,
    "ai_value": ""
   },
   {
