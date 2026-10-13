@@ -7259,3 +7259,6 @@
 {"ts":"2026-10-13T04:59:35Z","pid":"7929727059","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":55,"ratio":1.83}}
 {"ts":"2026-10-13T04:59:43Z","pid":"7961962314","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":33,"ratio":0.41}}
 {"ts":"2026-10-13T04:59:53Z","pid":"7958938404","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":22,"ratio":0.55}}
+{"ts":"2026-10-13T05:00:50Z","pid":"7982335326","stage":"decided","status":"ask","type":"hummel-figurines","note":"20 Goebel M.I. Hummels, seller says ALL have the \"V with bee\" mark (= full bee TMK-2, c.1940–59 — the collectible early mark), no cracks/repairs, one small base chip. Asks $250 for all ($15 each). TMK-2 figurines typically $40–120 each sold (verify on Terapeak) → lot ~$800–1,500. Above the $200 cap: offer $200 for all 20. ASK: photos of every base mark + model numbers; heights.","run":"research-20261013d","data":{"price":200,"est_resale":1000,"tier":"A?"}}
+{"ts":"2026-10-13T05:00:50Z","pid":"7963374501","stage":"photo_review","status":"kill","type":"license-plates","note":"body: $15 each, no shipping","run":"research-20261013d"}
+{"ts":"2026-10-13T05:00:50Z","pid":"7945764934","stage":"photo_review","status":"kill","type":"antique-maps","note":"body: $20+ per page","run":"research-20261013d"}
