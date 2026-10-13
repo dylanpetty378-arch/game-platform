@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T15:19:01Z",
+ "updated": "2026-10-13T15:22:37Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5662,
-  "events": 16397,
+  "lens": 5687,
+  "events": 16422,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 1043,
-  "queued": 1378,
+  "lensed": 1053,
+  "queued": 1353,
   "comps/pass": 1,
-  "queued/relens": 454,
+  "queued/relens": 461,
   "decided/ask": 37,
-  "flagged": 749,
+  "flagged": 757,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1159,6 +1159,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960624842",
+   "title": "Vintage Bathroom/Outdoor Light Fixture",
+   "price": 40,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/chico-vintage-bathroom-outdoor-light/nbauhVtzQ3PKtv2K76mLi9",
+   "best": "Craigslist",
+   "med": 875,
+   "ratio": 21.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7950853313",
    "title": "Patina Vie Mini Plate(s) - set of 2",
    "price": 15,
@@ -1486,6 +1497,17 @@
    "best": "1975 Schwinn World Tourist Cruiser Road Bike 44cm XX-Small ...",
    "med": 234,
    "ratio": 15.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943870857",
+   "title": "Vintage Stoneware Vase Glidden Pottery USA Round #63 Turquoise New Yor",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-vintage-stoneware-vase-glidden/1HCNFVwn6zswDUrDbu3McC",
+   "best": "Origin: Made in New York, USA by Glidden Pottery (1940s\u20131950s).",
+   "med": 995,
+   "ratio": 15.31,
    "ai_value": ""
   },
   {
@@ -2600,6 +2622,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969181412",
+   "title": "Faux Large Pearl Necklace",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-faux-large-pearl-necklace/78kxvawxrNhWsD8SiLp7dT",
+   "best": "Tiger's Eye Necklace - Peacock Necklace - Pearl Necklace ...",
+   "med": 78,
+   "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7979348919",
    "title": "Singer Sewing Vintage Machines",
    "price": 50,
@@ -3004,6 +3037,17 @@
    "best": "Craigslist",
    "med": 125,
    "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950290971",
+   "title": "Old Acoustic Guitar",
+   "price": 75,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/chillicothe-old-acoustic-guitar/gyMWusLePjztqkh5QW4SD7",
+   "best": "38\" Woolworth's Audition Guitar Acoustic 6-String Vintage ...",
+   "med": 468,
+   "ratio": 6.24,
    "ai_value": ""
   },
   {
@@ -4723,6 +4767,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978182882",
+   "title": "Antique Silver Plated Flatware (70 Pieces)",
+   "price": 100,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-antique-silver-plated-flatware/dMm9j8syX2aXx1rRzXT466",
+   "best": "Vintage Community Finest Silverplate Silverware Set-53 pcs ...",
+   "med": 375,
+   "ratio": 3.75,
+   "ai_value": "sell on secondary markets like eBay for roughly $150 to $200"
+  },
+  {
    "pid": "7973122896",
    "title": "Vintage 1951-1957 McLaughlin-Millard Adirondack Official Softball Bat",
    "price": 18,
@@ -5071,6 +5126,17 @@
    "url": "https://www.craigslist.org/view/d/fairfax-old-tennis-rackets/rXGnq4eAVW2h5C5aRXWjtk",
    "best": "Unique Vintage Tennis Rackets for Selection|tennis Gift ...",
    "med": 130,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973935347",
+   "title": "Old timer knife",
+   "price": 20,
+   "area": "dayton",
+   "url": "https://www.craigslist.org/view/d/bradford-old-timer-knife/ahwftU1Te1kZDcemQacRZ9",
+   "best": "Old Timer 7OT Cave Bear Traditional Lockback Pocket Knife ...",
+   "med": 65,
    "ratio": 3.25,
    "ai_value": ""
   },
@@ -6061,6 +6127,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-vintage-egyptian-filigree/oRnSkgzEJWpAjqpjjFzqhR",
    "best": "Ruby Lane",
    "med": 149,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955159417",
+   "title": "Vintage Copper Bucket",
+   "price": 40,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/new-berlin-vintage-copper-bucket/kptnowfYrM2UmjsKU4p2Qj",
+   "best": "1stDibs",
+   "med": 99,
    "ratio": 2.48,
    "ai_value": ""
   },
@@ -7866,6 +7943,17 @@
    "best": "Red Mask: Features a bold red and green painted finish, an elongated face, and a distinctive carved headdress/",
    "med": 93,
    "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967646252",
+   "title": "Vintage Pottery",
+   "price": 165,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-vintage-pottery/msDv4bASM1z562GCZu3vwR",
+   "best": "Estimated Value/Pricing: Similar vintage sets typically sell on secondary markets and antique shops between $1",
+   "med": 125,
+   "ratio": 0.76,
    "ai_value": ""
   },
   {

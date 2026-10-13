@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T15:19:01Z
+# Refurbish status — 2026-10-13T15:22:37Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1378 |
-| lensed | 1043 |
-| flagged | 749 |
-| queued/relens | 454 |
+| queued | 1353 |
+| lensed | 1053 |
+| flagged | 757 |
+| queued/relens | 461 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 6
 - searches: 1504
 - listings: 7007
-- lens: 5662
-- events: 16397
+- lens: 5687
+- events: 16422
 - comps: 1350
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (749)
+## Flagged by Lens, waiting for photo review (757)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -168,6 +168,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00V0V_6Ekj0cgtWCD_0ew0ew_300x300.jpg" width="120"> | 7954218689 | $10 | newyork | [BALENCIAGA Typo Logo Gold tone Ring](https://www.craigslist.org/view/d/new-york-balenciaga-typo-logo-gold-tone/7QwKDaXwy7tnc3wnVjYWSe) | Product Details | 226 | 22.6 |
 | <img src="https://images.craigslist.org/01515_2aFptm1eJJo_0m00q4_300x300.jpg" width="120"> | 7928418568 | $20 | denver | [Antique Reel Edger](https://www.craigslist.org/view/d/littleton-antique-reel-edger/hTumE8DXPfm5yRpr1StbUN) | Vintage Primitive Mardon Push Lawn Edger Trimmer Yard Tool . | 450 | 22.5 |
 | <img src="https://images.craigslist.org/00T0T_eK3HYTnFLds_0t20CI_300x300.jpg" width="120"> | 7979349030 | $50 | hudsonvalley | [Vintage medieval knight](https://www.craigslist.org/view/d/poughkeepsie-vintage-medieval-knight/o6LRsyE6auSameon6zs5PW) | Terra-cotta statue of knight in armor entitled Bois Guilbert | 1095 | 21.9 |
+| <img src="https://images.craigslist.org/00C0C_hWJr1cjM5aH_0uz0CI_300x300.jpg" width="120"> | 7960624842 | $40 | chico | [Vintage Bathroom/Outdoor Light Fixture](https://www.craigslist.org/view/d/chico-vintage-bathroom-outdoor-light/nbauhVtzQ3PKtv2K76mLi9) | Craigslist | 875 | 21.88 |
 | <img src="https://images.craigslist.org/00m0m_e1AUDBs8Y3A_0CI0t2_300x300.jpg" width="120"> | 7950853313 | $15 | newyork | [Patina Vie Mini Plate(s) - set of 2](https://www.craigslist.org/view/d/new-york-patina-vie-mini-plates-set-of/7HsMNfQvAR2NmEiPFuGpU6) | Japan Ivory China - Etsy Canada | 323 | 21.53 |
 | <img src="https://images.craigslist.org/00s0s_2QhL3PQuRAP_0MM132_300x300.jpg" width="120"> | 7937567101 | $20 | boston | [Vintage Egyptian Black Stone Pharoah's bust statue](https://www.craigslist.org/view/d/west-roxbury-vintage-egyptian-black/3dmXUEgJhkTMbTrJKx9pas) | Vintage Egyptian Black Stone Pharoah's bust statue/ornament  | 423 | 21.15 |
 | <img src="https://images.craigslist.org/00e0e_5Iyea5s9xnrz_0CI0t2_300x300.jpg" width="120"> | 7948495128 | $10 | bloomington | [Vintage 1970's Bed Comforter](https://www.craigslist.org/view/d/lafayette-vintage-1970s-bed-comforter/a7qyJ2o7RYjod847WehzQm) | VINTAGE Ralph Lauren Full Queen Comforter Sophie Brooke Pink | 209 | 20.9 |
@@ -198,6 +199,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00808_eOB7oW4Yz7v_0CI0t2_300x300.jpg" width="120"> | 7948285609 | $16 | iowacity | [Vintage Mixing Bowls](https://www.craigslist.org/view/d/peoria-vintage-mixing-bowls/nwg8i3MQou7srdL4R9YHH4) | Charming Stoneware Farmhouse Mixing Bowls. Your Choice of .. | 250 | 15.63 |
 | <img src="https://images.craigslist.org/00R0R_2VnkxwLpfVf_0bC0fu_300x300.jpg" width="120"> | 7960254267 | $25 | neworleans | [Vintage wire plant stand.](https://www.craigslist.org/view/d/new-orleans-vintage-wire-plant-stand/bQS2dZ5ixknhB2fn7afFWj) | eBay | 390 | 15.6 |
 | <img src="https://images.craigslist.org/00O0O_cSlsTRPJDLq_13O0Nm_300x300.jpg" width="120"> | 7947026390 | $15 | madison | [Vintage schwinn bike](https://www.craigslist.org/view/d/davenport-vintage-schwinn-bike/1rFSMExWmejmbwCQahRbGa) | 1975 Schwinn World Tourist Cruiser Road Bike 44cm XX-Small . | 234 | 15.6 |
+| <img src="https://images.craigslist.org/00j0j_e1mwnWBMhWP_0CI0t2_300x300.jpg" width="120"> | 7943870857 | $65 | sfbay | [Vintage Stoneware Vase Glidden Pottery USA Round #](https://www.craigslist.org/view/d/oakland-vintage-stoneware-vase-glidden/1HCNFVwn6zswDUrDbu3McC) | Origin: Made in New York, USA by Glidden Pottery (1940s–1950 | 995 | 15.31 |
 | <img src="https://images.craigslist.org/00e0e_fFFdA17cjeo_0CI0t2_300x300.jpg" width="120"> | 7945328692 | $50 | vermont | [Antique Wooden Commode](https://www.craigslist.org/view/d/sanbornton-antique-wooden-commode/v7tyLg5pMNy2zm1SJHxbhT) | eBay | 750 | 15 |
 | <img src="https://images.craigslist.org/00j0j_94umym9KfCZ_0t20CI_300x300.jpg" width="120"> | 7981661277 | $10 | beaumont | [Antique Jester Teddy Bear](https://www.craigslist.org/view/d/houston-antique-jester-teddy-bear/xukdUvKHdn5QWi3c8erZyT) | eBay | 150 | 15 |
 | <img src="https://images.craigslist.org/00000_2LDOndQBMWu_0t20CI_300x300.jpg" width="120"> | 7950659925 | $60 | grandrapids | [VINTAGE GOLD OVER STERLING HALF HOOPS](https://www.craigslist.org/view/d/wyoming-vintage-gold-over-sterling-half/hef7eCgYuLavPUv1tZCHTv) | Etsy | 899 | 14.98 |
@@ -211,5 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00707_aGvSGLPf6X7_0lM0t2_300x300.jpg" width="120"> | 7976681115 | $25 | littlerock | [Ladies Sterling Silver Ring](https://www.craigslist.org/view/d/roland-ladies-sterling-silver-ring/iFSogrCv2Zj2YfBWgZbd6P) | 925 Ruby and Pink Sapphire Bowtie Ring, 3.91 TCW | 340 | 13.6 |
 | <img src="https://images.craigslist.org/00E0E_1v0uet4PhYP_0CI0t2_300x300.jpg" width="120"> | 7963389252 | $25 | yuma | [Antique Wash Basin Set](https://www.craigslist.org/view/d/san-diego-antique-wash-basin-set/5s55CYunqeGexNZvRmaqBe) | W.H.Tatler Decorating Co. Wash Basin sold at auction on 22nd | 335 | 13.4 |
 | <img src="https://images.craigslist.org/00f0f_lCwsNdAFlF5_0ak07K_300x300.jpg" width="120"> | 7972557738 | $30 | nh | [OLD  GERMAN Grandfather clock works](https://www.craigslist.org/view/d/manchester-old-german-grandfather-clock/g2zLYfpwdTxRYhhJbjT6Xg) | Urgos 03011 03011A Grandfather Clock Movement USED ... | 402 | 13.4 |
-| <img src="https://images.craigslist.org/00f0f_dKpI3FyOXQW_0ut0t2_300x300.jpg" width="120"> | 7952131916 | $95 | southjersey | [P.J's CAROUSEL COLLECTION MULLER STYLE, "MAJOR." 1](https://www.craigslist.org/view/d/cherry-hill-pjs-carousel-collection/oXTzdzudnGvCBQ2ZYk4ZA5) | Charles Carmel Overview: Sales Records & Exhibition History | 1259 | 13.25 |
-| <img src="https://images.craigslist.org/00Y0Y_d4HAYXVUmKn_0w10t2_300x300.jpg" width="120"> | 7953318070 | $5 | nd | [Johnson Brothers Pitcher](https://www.craigslist.org/view/d/grand-forks-johnson-brothers-pitcher/gKNiuPtToeq3nmAdRFzpTG) | Johnson Brothers Marie 4" Creamer Pitcher Fine English ... | 66 | 13.2 |
