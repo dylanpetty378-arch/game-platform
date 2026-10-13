@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T06:00:24Z",
+ "updated": "2026-10-13T06:05:13Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2129,
-  "events": 9326,
+  "lens": 2154,
+  "events": 9351,
   "comps": 529,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1411,
-  "queued": 3311,
+  "queued": 3286,
   "comps/pass": 1,
   "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 151,
-  "lensed": 187,
+  "flagged": 168,
+  "lensed": 195,
   "decided/find": 7
  },
  "last_harvests": [
@@ -312,6 +312,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940295485",
+   "title": "Pottery Urn Jar",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/herndon-pottery-urn-jar/eY3KGK3QzHp7UPLLJ62fVh",
+   "best": "A Group of Thai Celadon Jars for Rosenthal-Netter, C.1960s ...",
+   "med": 1800,
+   "ratio": 72,
+   "ai_value": ""
+  },
+  {
    "pid": "7960225137",
    "title": "Old German clock",
    "price": 25,
@@ -320,6 +331,17 @@
    "best": "Dial: White porcelain or enamel face with Roman numerals and winding arbors for an 8-day time-and-strike movem",
    "med": 1384,
    "ratio": 55.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980986397",
+   "title": "Deluxe Seiko Quartz clock",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-deluxe-seiko-quartz-clock/roVUZqyZHEnKLDe9dotktG",
+   "best": "Origin: Made in Japan",
+   "med": 1498,
+   "ratio": 49.93,
    "ai_value": ""
   },
   {
@@ -364,6 +386,17 @@
    "best": "Lot Of 12) Blue Moon Trout Knife Sheath Tactical Fixed Fold ...",
    "med": 1318,
    "ratio": 26.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944876721",
+   "title": "Antique Framed Photo",
+   "price": 29,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/san-antonio-antique-framed-photo/eYge3aishZJqNYz619GqfG",
+   "best": "Etsy",
+   "med": 725,
+   "ratio": 25,
    "ai_value": ""
   },
   {
@@ -433,6 +466,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970781921",
+   "title": "OUTSTANDING VINTAGE SIGNED IMPRESSIONIST DREAMSCAPE WATERCOLOR",
+   "price": 45,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-outstanding-vintage-signed/3ZCEtAo8gNqws7BHHFUT9M",
+   "best": "Konstantin Ivanovich Rudakov | Landscape | MutualArt",
+   "med": 850,
+   "ratio": 18.89,
+   "ai_value": "Price Range: Similar vintage signed watercolor listings typically range around $45 to $100"
+  },
+  {
    "pid": "7953667450",
    "title": "Vintage Tea Serving Cart",
    "price": 50,
@@ -441,6 +485,17 @@
    "best": "86 Vintage",
    "med": 900,
    "ratio": 18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949107838",
+   "title": "VINTAGE SIGNED CYNTHIA DECEMBER MODERN ART ETCHING PRINT CATHY & CAT",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-vintage-signed-cynthia/5wEsrqGPtagrA5k8GC114Z",
+   "best": "LiveAuctioneers",
+   "med": 1695,
+   "ratio": 16.95,
    "ai_value": ""
   },
   {
@@ -463,6 +518,17 @@
    "best": "AN ERCOL WINDSOR GOLDEN DAWN ELM TV MEDIA CABINET / STAND ...",
    "med": 324,
    "ratio": 16.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951009028",
+   "title": "vintage, hand-hammered copper dish",
+   "price": 25,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-vintage-hand-hammered/dMWCBp2U9YSrTSu8i25wSB",
+   "best": "1stDibs",
+   "med": 395,
+   "ratio": 15.8,
    "ai_value": ""
   },
   {
@@ -576,6 +642,17 @@
    "ai_value": "Value: Similar vintage Sunbeam shoe shine kits typically sell for around $12 to $35"
   },
   {
+   "pid": "7982593668",
+   "title": "Mixed lot of 29 vintage quartz watches",
+   "price": 29,
+   "area": "charlottesville",
+   "url": "https://www.craigslist.org/view/d/charlottesville-mixed-lot-of-29-vintage/9mbgmeUcUhWJPXNiWTk12P",
+   "best": "PGS Gold And Coin",
+   "med": 320,
+   "ratio": 11.03,
+   "ai_value": ""
+  },
+  {
    "pid": "7949122173",
    "title": "Vintage Mack Truck Gages",
    "price": 10,
@@ -607,6 +684,17 @@
    "med": 479,
    "ratio": 9.58,
    "ai_value": "valued or sold online between $50"
+  },
+  {
+   "pid": "7945399092",
+   "title": "Vintage watering can",
+   "price": 10,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/holyoke-vintage-watering-can/6dwfTJcUUVgFX8Quzx3Mjb",
+   "best": "Antique Vintage Galvanized Watering Radiator Can Automobile ...",
+   "med": 90,
+   "ratio": 9,
+   "ai_value": ""
   },
   {
    "pid": "7964704272",
@@ -716,6 +804,17 @@
    "best": "Vintage Suzuki Acoustic Guitar Parlor Number 6 Nagoya ...",
    "med": 700,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981368036",
+   "title": "Antique silver-plated coffee percolator",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/puyallup-antique-silver-plated-coffee/pou9J6vDzFE9YTN58gsSv3",
+   "best": "Function: Originally designed as an electric tabletop coffee urn or percolator.",
+   "med": 135,
+   "ratio": 6.75,
    "ai_value": ""
   },
   {
@@ -961,6 +1060,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946506935",
+   "title": "9\" SIGNED BRUCE FREUND MODERN STUDIO ART NOUVEAU REVIVAL GLASS VASE",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-signed-bruce-freund-modern/g591Hu6JaipFVBCiQ2MEyF",
+   "best": "Invaluable.com",
+   "med": 475,
+   "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7962571893",
    "title": "Sterling Opal Necklace",
    "price": 95,
@@ -1010,6 +1120,17 @@
    "price": 100,
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/burbank-antique-oil-painting/pya7ET7uP9eJkQkeJcCWY3",
+   "best": "Ferruccio Vitale Auction Results: Historical Sales Records",
+   "med": 435,
+   "ratio": 4.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957188755",
+   "title": "Antique Oil Painting",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-antique-oil-painting/qihTqvjd3yHD83MDUtmG4t",
    "best": "Ferruccio Vitale Auction Results: Historical Sales Records",
    "med": 435,
    "ratio": 4.35,
@@ -1067,6 +1188,17 @@
    "url": "https://www.craigslist.org/view/d/batavia-moving-dolly/wYjecmj3JMoGES5ZP84N3f",
    "best": "Vtg Antique RARE Svenhard's Bakery Rolling Bakers Rack 1950s ...",
    "med": 100,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980406266",
+   "title": "ARTIST-CREATED VINTAGE MEXICAN ARTS & CRAFTS HAMMERED COPPER FISH VASE",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-artist-created-vintage/7sUeW1ZSn3SujH8tJmm714",
+   "best": "Craigslist",
+   "med": 400,
    "ratio": 4,
    "ai_value": ""
   },
@@ -1203,6 +1335,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951902015",
+   "title": "Brown Pitcher",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bremerton-brown-pitcher/v1MsiVrGtiFFAvdYfhLGDs",
+   "best": "Rockingham Herons in Bullrushes Covered Ale Pitcher att ...",
+   "med": 120,
+   "ratio": 3.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7981128453",
    "title": "Vintage Amberglass Demijohn Bottle",
    "price": 75,
@@ -1289,6 +1432,17 @@
    "med": 300,
    "ratio": 3.16,
    "ai_value": "Value & Resale: While online listings (like eBay or 1stDibs) sometimes ask $150 to $515"
+  },
+  {
+   "pid": "7932563315",
+   "title": "Vintage Zuni Ladies Turquoise Inlay Watch Bracelet",
+   "price": 80,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-zuni-ladies-turquoise/5tinjtR9nJ87JJGW6Zp2e6",
+   "best": "Vintage Zuni Old Pawn 925 Sterling Silver Fish Scale ...",
+   "med": 251,
+   "ratio": 3.14,
+   "ai_value": ""
   },
   {
    "pid": "7952813794",
@@ -1522,6 +1676,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939962980",
+   "title": "Vintage Signed 'I. Cafieri\" Oil Canvas Woodlands Painting w/Wood Frame",
+   "price": 75,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-vintage-signed-cafieri-oil/k6DNSuXR6VnXBChYZ7YxW9",
+   "best": "Artist: Irene Cafieri (20th-century landscape painter known for atmospheric autumn woodland and lake scenes)",
+   "med": 176,
+   "ratio": 2.35,
+   "ai_value": "Value/Market Price: Typically ranges between $75"
+  },
+  {
    "pid": "7982549721",
    "title": "Vintage Women's Bicycle",
    "price": 100,
@@ -1665,6 +1830,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931947517",
+   "title": "Bronze sculpture vintage",
+   "price": 185,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sebastopol-bronze-sculpture-vintage/p2p5eq35p4hi7W1YCQRWkR",
+   "best": "Origin/Context: Frederic Remington sculpted The Cheyenne in 1901 (cast in 1904), designed to capture a horse i",
+   "med": 300,
+   "ratio": 1.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7939313471",
    "title": "Vintage Federal Photo Enlarger",
    "price": 55,
@@ -1739,6 +1915,17 @@
    "best": "Left lamp: A seated figure (such as a traditional East Asian deity, court personage, or Kuan Yin) in ornate ro",
    "med": 80,
    "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949497005",
+   "title": "Antique Signed Large Snow Village Oil-On-Canvas Painting",
+   "price": 199,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-antique-signed-large-snow/2xN39hvPSwSz3m8WL47t31",
+   "best": "Facebook",
+   "med": 100,
+   "ratio": 0.5,
    "ai_value": ""
   },
   {
