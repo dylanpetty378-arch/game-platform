@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T08:04:16Z",
+ "updated": "2026-10-13T08:07:49Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2904,
-  "events": 10690,
+  "lens": 2929,
+  "events": 10715,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2536,
+  "queued": 2511,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 208,
-  "lensed": 286,
+  "flagged": 223,
+  "lensed": 296,
   "decided/find": 7,
   "expired": 1
  },
@@ -489,6 +489,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982564865",
+   "title": "Vintage Bath Vanity Mirror/Medicine Cabinet",
+   "price": 20,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/hopewell-junction-vintage-bath-vanity/bApQMSAJjuV6y9Q1cxj4Ss",
+   "best": "Mirror Home Interiors New | Mercari",
+   "med": 412,
+   "ratio": 20.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7938335328",
    "title": "Light",
    "price": 15,
@@ -739,6 +750,17 @@
    "best": "Craigslist",
    "med": 400,
    "ratio": 10.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954451666",
+   "title": "Vintage all-wool blanket",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-all-wool-blanket/7sFwAFyUTVoT3qj7sZ77dk",
+   "best": "Vintage 'brandon Wollen Mills' Beige + Pink Striped 'pure ...",
+   "med": 99,
+   "ratio": 9.9,
    "ai_value": ""
   },
   {
@@ -1292,6 +1314,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7942510746",
+   "title": "Vintage wooden theater seats",
+   "price": 200,
+   "area": "hattiesburg",
+   "url": "https://www.craigslist.org/view/d/covington-vintage-wooden-theater-seats/5ijCsDrmJKbWrcjpsxENDm",
+   "best": "4 Vintage Wood Folding Theater Seats, Auditorium Seats ...",
+   "med": 875,
+   "ratio": 4.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982564628",
+   "title": "Pair of vintage Beaded Pillows",
+   "price": 40,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/fayetteville-pair-of-vintage-beaded/i4NZb4n9p5U5RRUdXNyUy6",
+   "best": "Amazon.sg",
+   "med": 175,
+   "ratio": 4.38,
+   "ai_value": "sold on Temu United States $175"
+  },
+  {
    "pid": "7971567195",
    "title": "Thomas Kincaid picture",
    "price": 40,
@@ -1300,6 +1344,17 @@
    "best": "Thomas Kinkade Clearing Storms Seaside Memories IV Painting ...",
    "med": 171,
    "ratio": 4.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951800239",
+   "title": "Vintage Safetran Railroad Crossing Signal",
+   "price": 79,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/pequannock-vintage-safetran-railroad/qffF9G5FnrA1SELh9ej7XZ",
+   "best": "eBay",
+   "med": 332,
+   "ratio": 4.2,
    "ai_value": ""
   },
   {
@@ -1633,6 +1688,28 @@
    "ai_value": "Value / Market Price: Around $170"
   },
   {
+   "pid": "7930082607",
+   "title": "2 Vintage Bakelite Buttons",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-bakelite-buttons/aLTkKpFnjmznn52s6bCCGH",
+   "best": "Size: Approximately 11/16 of an inch",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": "Value/Price: Typically sell between $25"
+  },
+  {
+   "pid": "7942256735",
+   "title": "Vintage AMBERS!!!!",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-ambers/kREUruTB2cQsUQRUgix3JS",
+   "best": "Setting: Gold-plated or gold-filled metal mountings with toggle-bar closures.",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7956170841",
    "title": "Vintage Test Equipment \"Electrometer\"",
    "price": 40,
@@ -1688,6 +1765,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982302524",
+   "title": "Antique typewriters",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/howard-beach-antique-typewriters/stV2aK5w2kZx9gwk9gSbwZ",
+   "best": "My collection so far (first post!) : r/typewriters",
+   "med": 293,
+   "ratio": 2.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7966759470",
    "title": "Framed, Signed Mort Kunstler Art Print",
    "price": 25,
@@ -1719,6 +1807,17 @@
    "med": 70,
    "ratio": 2.8,
    "ai_value": "Value: Typically ranges from about $60 to $90"
+  },
+  {
+   "pid": "7947549100",
+   "title": "Vintage compound bow - BO",
+   "price": 45,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/alpharetta-vintage-compound-bow-bo/htHUXV5qSSbJN8ZwTFwaht",
+   "best": "Safety & Usage Warning",
+   "med": 125,
+   "ratio": 2.78,
+   "ai_value": ""
   },
   {
    "pid": "7973168451",
@@ -1776,6 +1875,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951778512",
+   "title": "Speidel Vintage ID Bracelet",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/howard-beach-speidel-vintage-id-bracelet/v1F29xhvfE2oAUdVqhdykh",
+   "best": "Etsy",
+   "med": 66,
+   "ratio": 2.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7965398709",
    "title": "Vintage Chocolate Pot",
    "price": 45,
@@ -1795,6 +1905,17 @@
    "best": "Vintage Antique Appliance Fuel Tank? Steampunk | eBay",
    "med": 117,
    "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968374010",
+   "title": "OLD  M.C. HELMETS",
+   "price": 100,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/new-castle-old-mc-helmets/rf3rLAPfNtujMzh2k7sBjJ",
+   "best": "VINTAGE RARE RED/BROWN Harley Davidson Bell Motorcycle ...",
+   "med": 250,
+   "ratio": 2.5,
    "ai_value": ""
   },
   {
@@ -1818,6 +1939,17 @@
    "med": 183,
    "ratio": 2.44,
    "ai_value": ""
+  },
+  {
+   "pid": "7981193505",
+   "title": "Beautiful Framed vintage needlepoint",
+   "price": 70,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-beautiful-framed-vintage/1696txPFQ5tcvwXxknfnaA",
+   "best": "Similar vintage handmade needlepoint and tapestry fruit basket framed art pieces typically sell between $70 an",
+   "med": 170,
+   "ratio": 2.43,
+   "ai_value": "sell between $70"
   },
   {
    "pid": "7956483149",
@@ -2216,6 +2348,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976947434",
+   "title": "Trade:  Antique Guitar Zithers",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/darien-trade-antique-guitar-zithers/nuCLtxfm1xZAwRYQwg9rv7",
+   "best": "Lot - Menzenhauer \"Guitar Zither\" musical instrumennt. 20\" x ...",
+   "med": 134,
+   "ratio": 1.34,
+   "ai_value": ""
+  },
+  {
    "pid": "7975273071",
    "title": "Vintage Metal Hand-Painted Ltd Edition British Soldiers Welsh Guards",
    "price": 95,
@@ -2403,6 +2546,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954223084",
+   "title": "Concertina accordion..vintage",
+   "price": 125,
+   "area": "altoona",
+   "url": "https://www.craigslist.org/view/d/altoona-concertina-accordionvintage/aqAttNtphfrw2Grsyo6hw1",
+   "best": "Vintage metal cash box with key fully fitted with compartments",
+   "med": 95,
+   "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7963783194",
    "title": "Vintage 1940s Shawnee Pottery \"Puss 'n Boots\" Set - 3 Pieces",
    "price": 180,
@@ -2445,6 +2599,17 @@
    "med": 87,
    "ratio": 0.47,
    "ai_value": ""
+  },
+  {
+   "pid": "7976302827",
+   "title": "Vintage Weber Grill",
+   "price": 125,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-weber-grill/2kcS7KTDnEV3fnab5N3Cr7",
+   "best": "Vintage 1970s Weber Copper Mist 'The Warrior' kettle",
+   "med": null,
+   "ratio": null,
+   "ai_value": "sell to collectors or enthusiasts anywhere from $150 to $650"
   },
   {
    "pid": "7960470552",
