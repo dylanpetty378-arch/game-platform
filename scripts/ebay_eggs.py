@@ -44,11 +44,26 @@ def pool(hours=24):
     json.dump({'made': datetime.datetime.now(datetime.timezone.utc).isoformat(), 'hours': hours, 'rows': rows}, open(OUT, 'w'), separators=(',', ':'))
     print('ebay pool', len(rows), 'auctions (feedback <=150, <=3 bids, <=$200, ending within', hours, 'h)')
 
+def detail():
+    """Full description + every photo for research/pools/ebay-flagged.json (Browse getItem) -> ebay-detail.json."""
+    import ebay_api, re, html
+    F = json.load(open(os.path.join(ROOT, 'research', 'pools', 'ebay-flagged.json'))); out = {}
+    for r in F:
+        d = ebay_api._get('browse', f"/buy/browse/v1/item/v1|{r['id']}|0", {}) or {}
+        desc = html.unescape(re.sub(r'<[^>]+>', ' ', d.get('description') or '')); desc = re.sub(r'\s+', ' ', desc).strip()[:3000]
+        imgs = [(d.get('image') or {}).get('imageUrl')] + [i.get('imageUrl') for i in d.get('additionalImages') or []]
+        out[r['id']] = {'title': d.get('title'), 'desc': desc, 'imgs': [i for i in imgs if i], 'bid': (d.get('currentBidPrice') or {}).get('value'),
+                        'bids': d.get('bidCount'), 'end': d.get('itemEndDate'), 'ship': [(o.get('shippingCost') or {}).get('value') for o in d.get('shippingOptions') or []],
+                        'loc': (d.get('itemLocation') or {}).get('stateOrProvince'), 'cond': d.get('condition'), 'err': d.get('error')}
+        time.sleep(0.4)
+    json.dump(out, open(os.path.join(ROOT, 'research', 'pools', 'ebay-detail.json'), 'w'), indent=0)
+    print('details', len(out))
+
 def sheetpool():
     P = json.load(open(OUT)); run = 'ebay-' + P['made'][:16].replace(':', '').replace('-', '').replace('T', '-')
     out = [{'pid': 'ebay' + r['id'].split('|')[1] if '|' in r['id'] else 'ebay' + r['id'], 'source': 'ebay', 'price': r['p'], 'title': r['t'],
             'thumb': r['img'].replace('s-l1600', 's-l225'), 'imgs': [r['img']], 'url': r['url'], 'cat': r['c'], 'area': f"fb {r['fb']}",
-            'region': 'eBay', 'posted': 0, 'ends': r['end'], 'bids': r['b']} for r in P['rows'] if r['img']]
+            'region': 'eBay', 'posted': 0, 'ends': r['end'], 'bids': r['b']} for r in P['rows'] if r['img'] and r['c'] != 'Sports Mem']
     d = f'/tmp/eye/{run}'; os.makedirs(d + '/th', exist_ok=True); json.dump(out, open(d + '/pool.json', 'w'))
     print(run, len(out))
 
@@ -57,3 +72,4 @@ if __name__ == '__main__':
     if not a: print(__doc__)
     elif a[0] == 'pool': pool(float(a[1]) if len(a) > 1 else 24)
     elif a[0] == 'sheetpool': sheetpool()
+    elif a[0] == 'detail': detail()
