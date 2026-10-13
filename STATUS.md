@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T22:26:39Z
+# Refurbish status — 2026-10-13T22:32:32Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| queued | 779 |
-| flagged | 427 |
-| lensed | 337 |
-| queued/relens | 283 |
+| queued | 754 |
+| flagged | 441 |
+| lensed | 341 |
+| queued/relens | 290 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 10 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 6874
-- events: 26294
+- lens: 6899
+- events: 26319
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -111,7 +111,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (427)
+## Flagged by Lens, waiting for photo review (441)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -192,11 +192,13 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00g0g_jA0bL35isMx_07K0ak_300x300.jpg" width="120"> | 7979723589 | $30 | newyork | [Antique Vintage Wood & Brass Bed Warmer](https://www.craigslist.org/view/d/brooklyn-antique-vintage-wood-brass-bed/rbfd98n9vN31B7vtyPxbZ4) | Vintage Bed Warmer / eBay | 288 | 9.6 |
 | <img src="https://images.craigslist.org/00303_eEdYF5AOlon_0CI0t2_300x300.jpg" width="120"> | 7967367567 | $40 | chicago | [VINTAGE COSTUME BRACELET AND EAR RINGS](https://www.craigslist.org/view/d/la-grange-park-vintage-costume-bracelet/9xkEU9WunPPKZEpZVdo8jY) | Vintage Kramer of New York Rhinestone Bangle Bracelet and .. | 370 | 9.25 |
 | <img src="https://images.craigslist.org/00808_ixOVnBna7n_0MM132_300x300.jpg" width="120"> | 7970415882 | $25 | portland | [ONIDA Silver Platter](https://www.craigslist.org/view/d/west-linn-onida-silver-platter/jscGjdJn5X6knwSVU6Zw1y) | Towle Huge 17” Silverplated Serving Tray Vintage Incredible  | 225 | 9 |
+| <img src="https://images.craigslist.org/00v0v_eMxmhitKyxm_0nN0rN_300x300.jpg" width="120"> | 7935171170 | $25 | orangecounty | [Antique/Vintage Rembrandt Framed Print. Lot 4](https://www.craigslist.org/view/d/lake-forest-antique-vintage-rembrandt/ogFBmhfi1BCfmNUAg4PDp7) | Vintage 1960s Man With the Golden Helmet Rembrandt Print in  | 219 | 8.76 |
 | <img src="https://images.craigslist.org/00q0q_jDwHqbRtrrc_0t20CI_300x300.jpg" width="120"> | 7982703225 | $35 | nh | [Antique Small Bronze/Brass Incense Burner](https://www.craigslist.org/view/d/epping-antique-small-bronze-brass/aiFSH2UZT5PgT3pbTkqMkC) | Common Use: Traditionally used in Asian Buddhist or ancestra | 299 | 8.54 |
 | <img src="https://images.craigslist.org/01616_1V2vtrOhzfr_0CI0CI_300x300.jpg" width="120"> | 7935533362 | $35 | atlanta | [6 vintage tapestry pillows](https://www.craigslist.org/view/d/acworth-vintage-tapestry-pillows/7SKAXKKci4e1hrccUkXcz7) | French Vintage Jacquard Tapestry Decorative Throw Pillow ... | 292 | 8.34 |
 | <img src="https://images.craigslist.org/00l0l_7NUjny46Y86_0bO0fu_300x300.jpg" width="120"> | 7963650435 | $15 | minneapolis | [Doll Vintage Madame Alexander Doll](https://www.craigslist.org/view/d/minneapolis-doll-vintage-madame/cvZSfcS2yXnL3PWYnNvWQh) | Madame Alexander Kathy Doll / eBay | 125 | 8.33 |
 | <img src="https://images.craigslist.org/00a0a_45S3bxVLW5L_0CI0t2_300x300.jpg" width="120"> | 7979158995 | $20 | oregoncoast | [Vintage Lamp Shades](https://www.craigslist.org/view/d/lebanon-vintage-lamp-shades/wtxZ2qk5A5V3A9rW9DSkaw) | White Opal / Milk Glass Shade (Left): Features a hand-painte | 165 | 8.25 |
 | <img src="https://images.craigslist.org/00O0O_7iuJ562A6R0_0CI0t2_300x300.jpg" width="120"> | 7982813460 | $5 | omaha | [Vintage Beaded Necklace](https://www.craigslist.org/view/d/omaha-vintage-beaded-necklace/vK9ojDakj2fdGYgFVDmExk) | eBay | 40 | 8 |
+| <img src="https://images.craigslist.org/00G0G_gChHCwfXvPx_0wu0Mq_300x300.jpg" width="120"> | 7978523577 | $25 | sfbay | [Sterling Silver Open Heart Pendant Necklace](https://www.craigslist.org/view/d/san-jose-sterling-silver-open-heart/gLoPh3hwWz1kRWwrtLxXwg) | eBay | 200 | 8 |
 | <img src="https://images.craigslist.org/00a0a_8pfx29AZypE_0t20CI_300x300.jpg" width="120"> | 7969181412 | $10 | denver | [Faux Large Pearl Necklace](https://www.craigslist.org/view/d/littleton-faux-large-pearl-necklace/78kxvawxrNhWsD8SiLp7dT) | Tiger's Eye Necklace - Peacock Necklace - Pearl Necklace ... | 78 | 7.8 |
 | <img src="https://images.craigslist.org/00F0F_fOaMPG90rCr_0pO0dL_300x300.jpg" width="120"> | 7981649634 | $15 | washingtondc | [Ladies Fashion Rhodium Rings](https://www.craigslist.org/view/d/centreville-ladies-fashion-rhodium-rings/mFpJdMm7VRkYChVBdVvdVs) | Craigslist | 117 | 7.8 |
 | <img src="https://images.craigslist.org/00l0l_dZvX83QLLZm_0t20t2_300x300.jpg" width="120"> | 7981671243 | $25 | tampa | [Vintage ice-skating pendant](https://www.craigslist.org/view/d/brooksville-vintage-ice-skating-pendant/eSLjY86yY4P8f9WP7c1MMi) | VTG BEAU STERLING SILVER CHARM FIGURE SKATING SHOE SKATE / e | 193 | 7.72 |
@@ -234,6 +236,4 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00p0p_dOQK5fEB8D9_0t20CI_300x300.jpg" width="120"> | 7932675120 | $25 | spokane | [Vintage 1940's/1950's costume clip](https://www.craigslist.org/view/d/coeur-alene-vintage-1940s-1950s-costume/msR1BKt78G6papR2xHJ1LG) | Etsy | 145 | 5.8 |
 | <img src="https://images.craigslist.org/00i0i_lMbnDIel5wH_0hq0hq_300x300.jpg" width="120"> | 7982713917 | $40 | jerseyshore | [Vintage 15.5" China Shiwan Wucai Porcelain Statue ](https://www.craigslist.org/view/d/colts-neck-vintage-155-china-shiwan/vhG61P4KvzxWaLrU9vLJtK) | 8” Vintage Porcelain Geisha W/O Box - Fantastic Condition /  | 230 | 5.75 |
 | <img src="https://images.craigslist.org/00s0s_5S0oOzMStAK_0CI0t2_300x300.jpg" width="120"> | 7952658862 | $35 | raleigh | [Antique Stanley Hand Planes](https://www.craigslist.org/view/d/raleigh-antique-stanley-hand-planes/ueUccZWevxXTM9hHDjYQtQ) | Stanley 48 hand plane for tongue and groove cuts | 200 | 5.71 |
-| <img src="https://images.craigslist.org/00P0P_cedcFvPG8af_0jm0pO_300x300.jpg" width="120"> | 7951643895 | $35 | cleveland | [Vintage  Flying V  Soft Case](https://www.craigslist.org/view/d/painesville-vintage-flying-soft-case/dr1Nkph6XEBzyFZCdVTaDB) | Performer™ Shaped Flying V® Style Guitar Hardshell Case - TK | 195 | 5.57 |
-| <img src="https://images.craigslist.org/00Q0Q_3y5zmu60XLe_0t20jm_300x300.jpg" width="120"> | 7982779068 | $35 | houston | [1932-Beautiful-Small Oil On Canvas-E.Raines](https://www.craigslist.org/view/d/houston-1932-beautiful-small-oil-on/sDXtLH6e8KUpFbdS7d2ykX) | I can help you look up more details or comparable values. | 195 | 5.57 |
-| <img src="https://images.craigslist.org/00e0e_kBHT4YOdgOv_0t20CI_300x300.jpg" width="120"> | 7982824605 | $45 | missoula | [Vintage 7 1/2" Brass/Bronze Ashcroft Pressure Gaug](https://www.craigslist.org/view/d/frenchtown-vintage-brass-bronze/9UL4FXdCoE8EBKpKfZj4s9) | Connection: Bottom-mounted threaded brass/iron pipe connecti | 250 | 5.56 |
+| <img src="https://images.craigslist.org/00G0G_hmnTZHsFaAE_0t20CI_300x300.jpg" width="120"> | 7954232109 | $375 | kpr | [Elgin Railroad Pocket Watch Brass 0s Vintage](https://www.craigslist.org/view/d/college-place-elgin-railroad-pocket/6jSSkUGDt3kmxd8W3sFYL4) | Etsy | 2100 | 5.6 |

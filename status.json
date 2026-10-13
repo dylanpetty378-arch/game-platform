@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:26:39Z",
+ "updated": "2026-10-13T22:32:32Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 6874,
-  "events": 26294,
+  "lens": 6899,
+  "events": 26319,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 337,
+  "lensed": 341,
   "comps/pass": 1,
-  "queued/relens": 283,
+  "queued/relens": 290,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 427,
+  "flagged": 441,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 779
+  "queued": 754
  },
  "last_harvests": [
   {
@@ -1218,6 +1218,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935171170",
+   "title": "Antique/Vintage Rembrandt Framed Print. Lot 4",
+   "price": 25,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/lake-forest-antique-vintage-rembrandt/ogFBmhfi1BCfmNUAg4PDp7",
+   "best": "Vintage 1960s Man With the Golden Helmet Rembrandt Print in ...",
+   "med": 219,
+   "ratio": 8.76,
+   "ai_value": "valued around $25 to $100"
+  },
+  {
    "pid": "7982703225",
    "title": "Antique Small Bronze/Brass Incense Burner",
    "price": 35,
@@ -1269,6 +1280,17 @@
    "url": "https://www.craigslist.org/view/d/omaha-vintage-beaded-necklace/vK9ojDakj2fdGYgFVDmExk",
    "best": "eBay",
    "med": 40,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978523577",
+   "title": "Sterling Silver Open Heart Pendant Necklace",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-sterling-silver-open-heart/gLoPh3hwWz1kRWwrtLxXwg",
+   "best": "eBay",
+   "med": 200,
    "ratio": 8,
    "ai_value": ""
   },
@@ -1677,6 +1699,17 @@
    "best": "Stanley 48 hand plane for tongue and groove cuts",
    "med": 200,
    "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954232109",
+   "title": "Elgin Railroad Pocket Watch Brass 0s Vintage",
+   "price": 375,
+   "area": "kpr",
+   "url": "https://www.craigslist.org/view/d/college-place-elgin-railroad-pocket/6jSSkUGDt3kmxd8W3sFYL4",
+   "best": "Etsy",
+   "med": 2100,
+   "ratio": 5.6,
    "ai_value": ""
   },
   {
@@ -2175,6 +2208,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955151277",
+   "title": "Vintage Coro Faux Opal Silver Toned Bracelet",
+   "price": 40,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-coro-faux-opal-silver/jgndeRjDXApdHmsDhgFvUY",
+   "best": "Etsy",
+   "med": 145,
+   "ratio": 3.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7982798637",
    "title": "Old \"Flair\" Brass French Alarm Clock",
    "price": 65,
@@ -2450,6 +2494,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946478473",
+   "title": "Vintage Costume Jewelr#12; Necklaces, Bracelets, etc.",
+   "price": 10,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/southampton-vintage-costume-jewelr12/gFX5FjnM8igo8LRBtqWb4Q",
+   "best": "eBay",
+   "med": 32,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7952080580",
    "title": "Parts-Caster Guitar",
    "price": 125,
@@ -2458,6 +2513,17 @@
    "best": "Pre Owned Squier '51 Maple Fingerboard Black With Gig Bag ...",
    "med": 399,
    "ratio": 3.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936854933",
+   "title": "Antique straight razors",
+   "price": 30,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-antique-straight-razors/rN3fXRTwm3AGhVyrV33XBM",
+   "best": "eBay",
+   "med": 95,
+   "ratio": 3.17,
    "ai_value": ""
   },
   {
@@ -3110,6 +3176,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954321302",
+   "title": "Vintage Rose Sterling Silver Bangle Bracelet 30.5g",
+   "price": 177,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-vintage-rose-sterling/5jqyUNKr2fto7DTL4vCZn8",
+   "best": "Poshmark",
+   "med": 378,
+   "ratio": 2.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7934461234",
    "title": "Antique Brooch Sterling silver MOP Mother Of Pearl Cameo Pendant",
    "price": 40,
@@ -3253,6 +3330,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947730136",
+   "title": "Wittnauer Ladies Watch",
+   "price": 60,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-wittnauer-ladies-watch/u5nt6QKFW9E4jenUg4K6Ae",
+   "best": "eBay",
+   "med": 120,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933012732",
    "title": "Ax  Large vintage",
    "price": 75,
@@ -3305,6 +3393,17 @@
    "best": "Seiko Watch Women 17mm Champagne Dial Gold Tone Oval 1400 ...",
    "med": 39,
    "ratio": 1.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965867258",
+   "title": "1911 Elgin pocket watch",
+   "price": 275,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/dundalk-1911-elgin-pocket-watch/sbiKDXy55Yt9TnsXbmKVHc",
+   "best": "Origin/Movements: Common American pocket watch brands of this style include Elgin Watch Co. and Waltham Watch ",
+   "med": 527,
+   "ratio": 1.92,
    "ai_value": ""
   },
   {
@@ -3715,6 +3814,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930889582",
+   "title": "Vintage Mexican Matl-style earrings",
+   "price": 99,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-mexican-matl-style/6znG8aGCUwnDvdLYhy32yC",
+   "best": "Dangles/Fringe: Multiple small, colorful teardrop/peardrop stone or bead drops hanging from the bottom edge (i",
+   "med": 148,
+   "ratio": 1.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7982805117",
    "title": "Ceramic Elephant Plant Stand",
    "price": 75,
@@ -3789,6 +3899,17 @@
    "best": "WatchCharts Marketplace",
    "med": 50,
    "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974292407",
+   "title": "Antique Straight Razor and Strop Set",
+   "price": 60,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/sandown-antique-straight-razor-and/m5ztb2ggH3uhgYWAV8AWSd",
+   "best": "Vintage Double Sided Leather Strop, Razor Blade Honing ...",
+   "med": 85,
+   "ratio": 1.42,
    "ai_value": ""
   },
   {
@@ -4001,6 +4122,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982882304",
+   "title": "Seiko Vintage 6119-6000 Automatic 21 Jewels Watch",
+   "price": 120,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-seiko-vintage-automatic-21/44s3N9PD9rkepc82CUnxif",
+   "best": "Seiko - Seiko 5 Automatic Day-Date - No reserve price - Ref ...",
+   "med": 140,
+   "ratio": 1.17,
+   "ai_value": "Value: Typically valued around $95\u2013$1"
+  },
+  {
    "pid": "7954297435",
    "title": "Vintage Silver/Copper \"Love\" Cup",
    "price": 49,
@@ -4206,6 +4338,17 @@
    "url": "https://www.craigslist.org/view/d/la-grange-park-vintage-german-litho/k8Go3AMazEccQaAJKGhrFN",
    "best": "Inscriptions: Features Bavarian regimental details, text reading \"Infanterie Rgt. 11\" and \"Erinnerung an meine",
    "med": 118,
+   "ratio": 0.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953171321",
+   "title": "Tarina Tarantino Necklace",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-tarina-tarantino-necklace/3TcTaBJS6HPVaQTtGYD15f",
+   "best": "eBay",
+   "med": 44,
    "ratio": 0.98,
    "ai_value": ""
   },
@@ -4637,6 +4780,17 @@
    "med": 16,
    "ratio": 0.53,
    "ai_value": "sells on secondary markets (such as eBay, Etsy, or Mercari) for about $5 to $20"
+  },
+  {
+   "pid": "7937797894",
+   "title": "Brighton Jewelry Set",
+   "price": 65,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-brighton-jewelry-set/dRrv3Uj47hqcSzFYjKnsja",
+   "best": "Myntra",
+   "med": 34,
+   "ratio": 0.52,
+   "ai_value": ""
   },
   {
    "pid": "7949577809",
