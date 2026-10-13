@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:12:23Z",
+ "updated": "2026-10-13T07:15:36Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2579,
-  "events": 10364,
+  "lens": 2604,
+  "events": 10389,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2861,
+  "queued": 2836,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 109,
-  "flagged": 91
+  "lensed": 124,
+  "flagged": 101
  },
  "last_harvests": [
   {
@@ -367,6 +367,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930092058",
+   "title": "Acoustic Action Setup",
+   "price": 60,
+   "area": "merced",
+   "url": "https://www.craigslist.org/view/d/merced-acoustic-action-setup/rz6MfkgQZwyzT3ePyQLNAM",
+   "best": "Gibson 2017 Limited Edition J-180 Starburst Elite Acoustic",
+   "med": 1400,
+   "ratio": 23.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7982649909",
    "title": "Framed Signed Print by Sean Jacobs",
    "price": 60,
@@ -376,6 +387,17 @@
    "med": 1350,
    "ratio": 22.5,
    "ai_value": ""
+  },
+  {
+   "pid": "7950481117",
+   "title": "Elvis Presley Large Memorabilia Collection",
+   "price": 28,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/harwood-heights-elvis-presley-large/783eEMoFqvftJQTRbkP3k7",
+   "best": "Function: Operates as a battery-powered AM radio (using a 9-volt battery) with side dials for tuning and volum",
+   "med": 550,
+   "ratio": 19.64,
+   "ai_value": "Value / Market: Vintage collectible pieces typically sell online for $20 to $40,"
   },
   {
    "pid": "7953998239",
@@ -477,6 +499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982588043",
+   "title": "Lovely signed art",
+   "price": 50,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/north-falmouth-lovely-signed-art/ouzgE5ywUTkk9esPZaEkFM",
+   "best": "Candance Lovely Rare Signed Art Print \"Sea Shell Pink ...",
+   "med": 625,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7950259557",
    "title": "hand-painted antique bucksaw",
    "price": 25,
@@ -529,6 +562,17 @@
    "best": "BLACK FOREST CARVED WOOD GLOVE BOX | eBay UK",
    "med": 550,
    "ratio": 8.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955649701",
+   "title": "Vintage Morgantown Ruby Red Golf Ball Water/Wine glassware",
+   "price": 30,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/pequabuck-vintage-morgantown-ruby-red/kSX9PKxLYwqV4Xuh8pAq5V",
+   "best": "Morgantown Red Golfball Water Goblet, 9 oz. (item #690595)",
+   "med": 245,
+   "ratio": 8.17,
    "ai_value": ""
   },
   {
@@ -862,6 +906,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963871784",
+   "title": "Antique 1930\u2019s Chinese Tin Toy Boxers Boxing",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/tacoma-antique-1930s-chinese-tin-toy/eDzmBARjHGYLu78Svf5dZV",
+   "best": "Operation: Squeezing the metal loop or handle makes the figures swing back and forth to simulate a boxing or f",
+   "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7966759470",
    "title": "Framed, Signed Mort Kunstler Art Print",
    "price": 25,
@@ -906,6 +961,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956483149",
+   "title": "Graniteware Milk Pail!",
+   "price": 35,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/arvada-graniteware-milk-pail/vvL2t9fY2WFzcWHYs9DwVq",
+   "best": "Similar vintage farm and dairy cream cans typically sell or list for around $35 to $89 depending on their cond",
+   "med": 85,
+   "ratio": 2.43,
+   "ai_value": "sell or list for around $35 to $89"
+  },
+  {
    "pid": "7978289976",
    "title": "Tiffany Portfolio clock",
    "price": 50,
@@ -936,6 +1002,28 @@
    "best": "VINTAGE STUDIO ART POTTERY DARK BRICK RED AND BLACK BOWL ...",
    "med": 220,
    "ratio": 2.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940006611",
+   "title": "Original 1953 Shirley Temple pocket watch",
+   "price": 200,
+   "area": "wheeling",
+   "url": "https://www.craigslist.org/view/d/martins-ferry-original-1953-shirley/sUMAWYBxCodc4o8ujextss",
+   "best": "Invaluable.com",
+   "med": 459,
+   "ratio": 2.29,
+   "ai_value": "Value / Market Price: Typically ranges from about $100 to $200"
+  },
+  {
+   "pid": "7952455090",
+   "title": "Original Painting on Canvas",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/menlo-park-original-painting-on-canvas/ceRzjeEmzFZ7WYYpW6AsQA",
+   "best": "Sold at Auction: Conrad Kiesel, Conrad Kiesel (German 1846 ...",
+   "med": 178,
+   "ratio": 2.23,
    "ai_value": ""
   },
   {
@@ -1071,6 +1159,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982641740",
+   "title": "Acoustic Guitar. (SILVERTONE)",
+   "price": 100,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-acoustic-guitar-silvertone/2YKKNkHdymw4YELvSxL2y6",
+   "best": "Reverb",
+   "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7930773394",
    "title": "Vintage Sterling Silver Grape Shears Germany 7\u201d",
    "price": 195,
@@ -1134,6 +1233,17 @@
    "best": "Origin: Made in Solingen, Germany, by makers such as Julius Hammesfahr or Aug. Knecht during the Victorian or ",
    "med": 145,
    "ratio": 1.21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941818279",
+   "title": "Pair of Vintage Roldan Klumpe Skier Dolls",
+   "price": 75,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/mountlake-terrace-pair-of-vintage/bEDMZJJRwgPwxggLWShLXW",
+   "best": "Left Doll: Wears a red jacket, black trousers, and a white/light cap, holding a pair of wooden skis.",
+   "med": 85,
+   "ratio": 1.13,
    "ai_value": ""
   },
   {
