@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-13T02:24:45Z",
+ "updated": "2026-10-13T02:28:24Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4600,
-  "lens": 754,
-  "events": 5453,
+  "lens": 779,
+  "events": 5478,
   "comps": 0,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 95,
-  "queued": 3882,
+  "queued": 3857,
   "decided/find": 1,
-  "lensed": 379,
-  "flagged": 242,
+  "lensed": 388,
+  "flagged": 258,
   "decided/ask": 1
  },
  "last_harvests": [
@@ -340,6 +340,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945085107",
+   "title": "Titled Grandma Keene",
+   "price": 155,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/attica-titled-grandma-keene/ub7sCQnVBPMUnHcnKfHZZ5",
+   "best": "Sold at Auction: Levi Wells Prentice, PORTRAIT OF MARY ...",
+   "med": 8300,
+   "ratio": 53.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7948933496",
    "title": "Antique Solid Wood Sled",
    "price": 45,
@@ -370,6 +381,17 @@
    "best": "Gunnar Nylund for Rorstrand, Sweden, large stoneware vase ...",
    "med": 475,
    "ratio": 47.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982338971",
+   "title": "Antique Library Desk (SOLID)",
+   "price": 40,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-michael-antique-library-desk-solid/vmCocxJH8qPZZZgWJwmdNC",
+   "best": "+1",
+   "med": 1883,
+   "ratio": 47.08,
    "ai_value": ""
   },
   {
@@ -505,6 +527,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932959579",
+   "title": "Vintage Pendulum clock",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/b6gxhDHUtHrbbSewKGt4gK",
+   "best": "eBay",
+   "med": 3200,
+   "ratio": 32,
+   "ai_value": ""
+  },
+  {
    "pid": "7974412677",
    "title": "Vintage Stereo Console",
    "price": 50,
@@ -524,6 +557,17 @@
    "best": "Lot - A William and Mary style walnut cushion molded mirror ...",
    "med": 2800,
    "ratio": 29.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979683488",
+   "title": "ANTIQUE TABLE",
+   "price": 55,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/dayton-antique-table/iyv4Zepow8ZwoiyeGr8GxF",
+   "best": "If you'd like, let me know:",
+   "med": 1595,
+   "ratio": 29,
    "ai_value": ""
   },
   {
@@ -557,6 +601,17 @@
    "best": "+2",
    "med": 673,
    "ratio": 26.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982335326",
+   "title": "Vintage Hummel Figurines",
+   "price": 15,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/richmond-vintage-hummel-figurines/vQodnYWAmNzSDgPM9mzZa3",
+   "best": "Hummel Figurines | eBay",
+   "med": 400,
+   "ratio": 26.67,
    "ai_value": ""
   },
   {
@@ -714,6 +769,17 @@
    "ai_value": "value from roughly $250"
   },
   {
+   "pid": "7954484223",
+   "title": "Vintage Chinese Art Cabinet",
+   "price": 48,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/orlando-vintage-chinese-art-cabinet/3s1aNEZbiooegovxVxwx9x",
+   "best": "AMFURNOCO American Furniture Novelty Co. Asian Chinoiserie ...",
+   "med": 926,
+   "ratio": 19.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7982372895",
    "title": "Antique Vintage Candle Lantern",
    "price": 20,
@@ -743,6 +809,17 @@
    "url": "https://www.craigslist.org/view/d/westminster-vintage-1964-schwinn-fenders/4zujgiXXeMQyG9anJqaXWz",
    "best": "Vintage Coppertone 1964 Schwinn 2-Speed Jaguar Mark V ...",
    "med": 1350,
+   "ratio": 18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966497276",
+   "title": "Old Mexican Sombrero",
+   "price": 25,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-old-mexican-sombrero/guqiA4GMcCRCMhLQ9nS1WR",
+   "best": "+2",
+   "med": 450,
    "ratio": 18,
    "ai_value": ""
   },
@@ -931,6 +1008,17 @@
    "best": "+2",
    "med": 319,
    "ratio": 12.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951679911",
+   "title": "VINTAGE LEOPARD ARM CHAIRS!!",
+   "price": 100,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-leopard-arm-chairs/wRgxj2Y84BBzoKgwdz6enR",
+   "best": "+2",
+   "med": 1250,
+   "ratio": 12.5,
    "ai_value": ""
   },
   {
@@ -1206,6 +1294,17 @@
    "best": "+1",
    "med": 211,
    "ratio": 8.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954485337",
+   "title": "Porcelain Vintage Chinese Painting",
+   "price": 60,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/orlando-porcelain-vintage-chinese/iHAfnNP24Yssbea5inhA4e",
+   "best": "Xiang Weiren | FIGURE | MutualArt",
+   "med": 500,
+   "ratio": 8.33,
    "ai_value": ""
   },
   {
@@ -1605,6 +1704,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955992830",
+   "title": "Vintage Wooden Chess Set",
+   "price": 75,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-vintage-wooden-chess-set/91t8aQTGhunBiF6iAaoyPR",
+   "best": "+4",
+   "med": 388,
+   "ratio": 5.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7967737650",
    "title": "Ornate Vintage Rococo-Style small wall mirror",
    "price": 80,
@@ -1656,6 +1766,17 @@
    "url": "https://www.craigslist.org/view/d/denver-vintage-crystal-wine-decanter/qvW1ai4swH3X1QToqYpyqZ",
    "best": "+3",
    "med": 125,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954651384",
+   "title": "Antique copper cauldron",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-cloud-antique-copper-cauldron/e6FnnPYF86WAtqCuosZX4a",
+   "best": "+2",
+   "med": 250,
    "ratio": 5,
    "ai_value": ""
   },
@@ -2012,6 +2133,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961344437",
+   "title": "Vintage Art Glass Vase 11\" Tall",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-art-glass-vase-11/xp3cZEaHA3hUjMSSWaFtLq",
+   "best": "Shape: Bulbous body with a distinct flared or ruffled trumpet-style rim.",
+   "med": 125,
+   "ratio": 3.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7942251662",
    "title": "Robot Stuff",
    "price": 80,
@@ -2085,6 +2217,17 @@
    "url": "https://www.craigslist.org/view/d/denver-vintage-anniversary-clock/e1tfPE9gAuUycL238EzSjd",
    "best": "+2",
    "med": 100,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957610039",
+   "title": "Antique Mauchine plaid needlecase",
+   "price": 75,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/rockwall-antique-mauchine-plaid/ePMQY229WnNwABX4CxHKd3",
+   "best": "+2",
+   "med": 250,
    "ratio": 3.33,
    "ai_value": ""
   },
@@ -2683,6 +2826,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966021542",
+   "title": "VINTAGE PITCHER AND GLASSES SET",
+   "price": 145,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/shelby-vintage-pitcher-and-glasses-set/b2a4fmK6JvUmoAsLJpvLXX",
+   "best": "Pattern: Harvest Grape (featuring embossed grape clusters and vine/leaf motifs)",
+   "med": 114,
+   "ratio": 0.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7963492326",
    "title": "Vintage wooden cabinet",
    "price": 50,
@@ -2721,6 +2875,17 @@
    "price": 35,
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/comstock-vintage-style-double-toaster/5r6wLSBA511CPKCRvHt3Ra",
+   "best": "+2",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948033583",
+   "title": "Vintage Playboys",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/arvada-vintage-playboys/64UEz3WvQmHPv8FTiXBCT6",
    "best": "+2",
    "med": null,
    "ratio": null,
@@ -2788,6 +2953,17 @@
    "area": "lexington",
    "url": "https://www.craigslist.org/view/d/powell-vintage-scope/gV98A3DBrYGtWsQEiQe27t",
    "best": "VINTAGE TASCO 4 X 32 RIFLE SCOPE JAPAN 663A A-707 WITH CAPS ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978410021",
+   "title": "Craftsman Garage Door Opener",
+   "price": 20,
+   "area": "elmira",
+   "url": "https://www.craigslist.org/view/d/whitehouse-station-craftsman-garage/jrm6kmXTmg6wbnS1fBTKEk",
+   "best": "CRAFTSMAN 1/2 HP Chain drive Garage Door Opener in the ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
