@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:48:58Z",
+ "updated": "2026-10-13T05:49:16Z",
  "tables": {
   "harvests": 4,
-  "searches": 168,
+  "searches": 637,
   "listings": 5407,
-  "lens": 1954,
-  "events": 9151,
-  "comps": 159,
+  "lens": 2054,
+  "events": 9251,
+  "comps": 529,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1411,
-  "queued": 3486,
+  "queued": 3386,
   "comps/pass": 1,
   "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 84,
-  "lensed": 79,
+  "flagged": 115,
+  "lensed": 148,
   "decided/find": 7
  },
  "last_harvests": [
@@ -235,6 +235,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7969424322",
+   "title": "8 Vintage Dessert Bowls",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/newton-vintage-dessert-bowls/dzvdrXYW4kBWvLFo4wonpm",
+   "best": "4 FRUIT PLATES E&R Bavaria Schumann Arzberg Germany Golden ...",
+   "med": 12500,
+   "ratio": 833.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7943275913",
    "title": "vintage  outdoor wall lantern",
    "price": 20,
@@ -243,6 +254,17 @@
    "best": "Craigslist",
    "med": 5317,
    "ratio": 265.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951055985",
+   "title": "Vintage Chiffon Handkerchief",
+   "price": 12,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-chiffon-handkerchief/xAkwovqtf345iCNMDW3cRS",
+   "best": "AMAZING ANTIQUE 17th CENTURY ECCLESIASTICAL EMBROIDERY STOLE ...",
+   "med": 1800,
+   "ratio": 150,
    "ai_value": ""
   },
   {
@@ -290,6 +312,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947334876",
+   "title": "Vintage square marble ashtray",
+   "price": 15,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/sunset-beach-vintage-square-marble/1RATYBEXbLHWmyUSAup3y5",
+   "best": "Dark Green Marble Ashtray, circa 1950s at 1stDibs",
+   "med": 495,
+   "ratio": 33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951079256",
    "title": "Fondue pot, vintage, japan",
    "price": 25,
@@ -298,6 +331,17 @@
    "best": "Sold at Auction: Vintage Fondue Set Circa 1960's Made in ...",
    "med": 617,
    "ratio": 24.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952899157",
+   "title": "Antiques and Vintage sale",
+   "price": 99,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/signal-hill-antiques-and-vintage-sale/uiaGvgKyGnTK2UwEeDuYUg",
+   "best": "Black Hand Chair \u2013 Sunbeam Vintage",
+   "med": 2400,
+   "ratio": 24.24,
    "ai_value": ""
   },
   {
@@ -319,6 +363,17 @@
    "url": "https://www.craigslist.org/view/d/cedar-vintage-andre-chabot-clarinet/9aW4DEa23aiXvvCcaVFjM3",
    "best": "Vintage CLARINET - Martin Freres La Monte, Made in France ...",
    "med": 500,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948503528",
+   "title": "Vintage Camera Lenses",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/sunset-beach-vintage-camera-lenses/jTovSg3H8k6UtF8HsX8FS3",
+   "best": "Nikon 50mm f/1.4 NIKKOR Portrait Lens - DSLR-Compatible ...",
+   "med": 200,
    "ratio": 20,
    "ai_value": ""
   },
@@ -400,6 +455,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7979299899",
+   "title": "Vintage Radios",
+   "price": 20,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-radios/vsScL5rnitF9ESrppzmM3x",
+   "best": "Vintage GE General Electric AM/FM Radio Cassette Recorded ...",
+   "med": 286,
+   "ratio": 14.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982449320",
+   "title": "Antique samovar electric",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/encino-antique-samovar-electric/gdBxoesUaMa9RSPkCkn3qu",
+   "best": "Samovar Urn Tea Russian Nickel Plated Brass SAMOVAR 3L 1973 ...",
+   "med": 821,
+   "ratio": 13.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7948143463",
    "title": "Vintage glass Abstract Dancers",
    "price": 30,
@@ -466,6 +543,17 @@
    "ai_value": "valued or sold online between $50"
   },
   {
+   "pid": "7964704272",
+   "title": "Vintage Chinese Cork Pic",
+   "price": 55,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-chinese-cork-pic/opozkDuw6NRX6RNfTeK37h",
+   "best": "Vintage Chinese Carved Cork Diorama Wall Panels: Asian ...",
+   "med": 475,
+   "ratio": 8.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7949899228",
    "title": "Vintage Barbie doll's",
    "price": 10,
@@ -507,6 +595,17 @@
    "best": "Sansui S-990 Vintage 3 Way Single Speaker Cabinet | eBay",
    "med": 600,
    "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944666785",
+   "title": "Vintage Wicker Cat/Dog Bed",
+   "price": 59,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-wicker-cat-dog-bed/bDhhnAiev2NxMVYs3T289b",
+   "best": "Vintage Wicker Dog Cat Bed, Oblong Basket, Front Entry ...",
+   "med": 437,
+   "ratio": 7.41,
    "ai_value": ""
   },
   {
@@ -631,6 +730,17 @@
    "ai_value": "sell around $80 to $185"
   },
   {
+   "pid": "7952245209",
+   "title": "Vintage KKW Camera lighter",
+   "price": 85,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-kkw-camera-lighter/t2wDMPnarzovhYogzcx6ZR",
+   "best": "K.K.W Camera Photo Flash Table Flint Wick Petrol Lighter ...",
+   "med": 499,
+   "ratio": 5.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7960290288",
    "title": "Vintage Lakeshore Trike",
    "price": 50,
@@ -639,6 +749,39 @@
    "best": "Lakeshore Vintage School Trike/Tricycle Red | eBay",
    "med": 290,
    "ratio": 5.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944432868",
+   "title": "Vintage silk lampshade",
+   "price": 18,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/cambridge-vintage-silk-lampshade/fCDbd9uGqNYLZtNh13nC9y",
+   "best": "Cal Lighting SH-8104/16-CM Vertical Piped Basic Bell Shade ...",
+   "med": 95,
+   "ratio": 5.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946517410",
+   "title": "VINTAGE CAST IRON GNOME",
+   "price": 95,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-cast-iron-gnome/gJw5EhArZ8FeJWyW2zx89W",
+   "best": "Antique Garden Gnome Dwarf statue old retro doorstop GARDEN ...",
+   "med": 500,
+   "ratio": 5.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978652814",
+   "title": "Vintage 9701 Mega Bloks",
+   "price": 25,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-9701-mega-bloks/mmPhmgn5v5uELUwMzUXTU8",
+   "best": "Ritvik MEGA BLOKS Dinobloks Brontosaurus Set 9701 Dinosaur ...",
+   "med": 130,
+   "ratio": 5.2,
    "ai_value": ""
   },
   {
@@ -664,6 +807,50 @@
    "ai_value": "Value: Similar vintage wooden ski pairs generally sell for around $50 to $200"
   },
   {
+   "pid": "7969402722",
+   "title": "Vintage Cut Crystal Pieces",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/newton-vintage-cut-crystal-pieces/j7HFo9EHJXETcJ5raksRcT",
+   "best": "\ud83d\udd25 VINTAGE ANCHOR HOCKING STAR OF DAVID PATTERN 8 PIECE ...",
+   "med": 100,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945239835",
+   "title": "Vintage Owl Lamp 1970s",
+   "price": 59,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-owl-lamp-1970s/dqCo6gDLUqe9Rh3Uc5zwJs",
+   "best": "\ud835\udd38\ud835\udd3b\ud835\udd46\u2119\ud835\udd4b\ud835\udd3c\ud835\udd3b \u273f late tuesday night featuring: . : two ...",
+   "med": 280,
+   "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947364984",
+   "title": "Stuff",
+   "price": 100,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/ellwood-city-stuff/5ok73kdDTEH6m3fSQ9ioeb",
+   "best": "Lawnmower chassis body for Sale in Zebulon, NC - OfferUp",
+   "med": 450,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944992969",
+   "title": "Vintage Reproduction Washtub Cooler",
+   "price": 29,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-reproduction-washtub/917W7uZG6p6cg4CvzQihH8",
+   "best": "Large Metal Wash Tub | eBay",
+   "med": 130,
+   "ratio": 4.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7950438925",
    "title": "Antique wooden barrel",
    "price": 35,
@@ -686,6 +873,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939313624",
+   "title": "Antique Ingraham Mantel Clock",
+   "price": 65,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-antique-ingraham-mantel/6qhaZQEQkD2E65x1YDwnPF",
+   "best": "E. Ingraham Co. Eight Day Wood Mantel Clock w/ Key Tested ...",
+   "med": 265,
+   "ratio": 4.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7971118626",
    "title": "Vintage Royal Typewriter",
    "price": 100,
@@ -695,6 +893,28 @@
    "med": 400,
    "ratio": 4,
    "ai_value": "Value: Typically sells between $100"
+  },
+  {
+   "pid": "7973623557",
+   "title": "Floor scrubber vintage model",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-floor-scrubber-vintage-model/6hjM3bCb6Z2SMVPqiPuaaw",
+   "best": "Vintage Sunbeam Deluxe Floor Conditioner Electric Floor ...",
+   "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953321804",
+   "title": "Moving Dolly",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/batavia-moving-dolly/wYjecmj3JMoGES5ZP84N3f",
+   "best": "Vtg Antique RARE Svenhard's Bakery Rolling Bakers Rack 1950s ...",
+   "med": 100,
+   "ratio": 4,
+   "ai_value": ""
   },
   {
    "pid": "7956516656",
@@ -752,6 +972,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978687785",
+   "title": "Vintage Sunflower Wall Pocket",
+   "price": 40,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-sunflower-wall-pocket/ehHXtpvmy9Cx4UHxm7twZm",
+   "best": "RARE FIND!! Vintage 1950s Ceramic Anthropomorphic Sunflower ...",
+   "med": 140,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7934654049",
    "title": "Antique Tureen with Ladle",
    "price": 20,
@@ -782,6 +1013,17 @@
    "best": "Cross Over Into The Twilight Zone With Fright-Rags \u2013 COMICON",
    "med": 150,
    "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952769250",
+   "title": "Vintage Violets Rag Quilt",
+   "price": 75,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/hillsboro-vintage-violets-rag-quilt/pGVLdokg751N125qHRJeXa",
+   "best": "Finishing a quilt with Georgina fabric charm packs",
+   "med": 249,
+   "ratio": 3.32,
    "ai_value": ""
   },
   {
@@ -818,6 +1060,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974595035",
+   "title": "2 vintage telephones",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-vintage-telephones/nnb6kZ7gq7xsUX2GT8UZB9",
+   "best": "Antique Copper Telephone Kj\u00f8benhavns. - Etsy",
+   "med": 151,
+   "ratio": 3.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7982495112",
    "title": "Cola Cooler Vintage 1950s",
    "price": 25,
@@ -829,6 +1082,17 @@
    "ai_value": "Value: Typically sells between $40"
   },
   {
+   "pid": "7982312523",
+   "title": "Vintage Crystal Punch Bowl",
+   "price": 100,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/huntington-beach-vintage-crystal-punch/a4hY3BFsY3otcTraPTdzxp",
+   "best": "Vintage Crystal Punch Bowl Set With Matching Underplate, 13 ...",
+   "med": 295,
+   "ratio": 2.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7944742537",
    "title": "1950's vintage vase",
    "price": 15,
@@ -838,6 +1102,17 @@
    "med": 40,
    "ratio": 2.67,
    "ai_value": "sell on platforms like eBay or Etsy for roughly $25 to $200,"
+  },
+  {
+   "pid": "7944074798",
+   "title": "Vintage Ceramic Canister Set",
+   "price": 55,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-ceramic-canister-set/2ih8oZ9bCKdCyqTJaFDKgk",
+   "best": "Vintage 1974 Ceramic Atlantic Mold Milk Can Canister Cookie ...",
+   "med": 145,
+   "ratio": 2.64,
+   "ai_value": ""
   },
   {
    "pid": "7952565948",
@@ -892,6 +1167,17 @@
    "best": "Vintage Ladies Small Gilt Make up Mirror - Vanity Mirror ...",
    "med": 186,
    "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944991912",
+   "title": "Antique Hurricane Parlor Lamp",
+   "price": 69,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/nazareth-antique-hurricane-parlor-lamp/oTsFnAgPx5CtDkxbkNLem5",
+   "best": "Vintage Hand Painted Milk Glass Hurricane Lamp Floral Design ...",
+   "med": 169,
+   "ratio": 2.45,
    "ai_value": ""
   },
   {
@@ -1038,6 +1324,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939313471",
+   "title": "Vintage Federal Photo Enlarger",
+   "price": 55,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-federal-photo/beCVUL1MpvonSMEocru78h",
+   "best": "Vintage Federal Of Brooklyn Picture Photo Enlarger Model 312 ...",
+   "med": 88,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7964393256",
    "title": "Stuff",
    "price": 100,
@@ -1068,6 +1365,17 @@
    "best": "Left lamp: A seated figure (such as a traditional East Asian deity, court personage, or Kuan Yin) in ornate ro",
    "med": 80,
    "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979304345",
+   "title": "Vintage Prairie Flower Bike",
+   "price": 60,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-prairie-flower-bike/rZhbKYTfZqfscErrfyKH3G",
+   "best": "Vintage 20\u201d All Pro Girls Banana Seat Bike for Sale in ...",
+   "med": null,
+   "ratio": null,
    "ai_value": ""
   },
   {
@@ -1137,6 +1445,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966520286",
+   "title": "Mako Bass amplifier. Vintage.",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/torrance-mako-bass-amplifier-vintage/3N9cKHF7SjABk3uH2CHbbR",
+   "best": "Used MAKO BASS 50 Vintage Bass Amplifier",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7978374753",
    "title": "Olds Ambassador Trumpet, Vintage",
    "price": 40,
@@ -1148,12 +1467,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7952817219",
+   "title": "Vintage Clearance Sale",
+   "price": 70,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-clearance-sale/5XbE1iEzoqe6pc1VRqkzdC",
+   "best": "Amazon.com: LM Treasures Egyptian Plant Holder Male Life ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7965761454",
    "title": "Stuff",
    "price": 100,
    "area": "pittsburgh",
    "url": "https://www.craigslist.org/view/d/ellwood-city-stuff/qEjzLZrQG5YQFQgyeiWB7C",
    "best": "MVP SuperLift hydraulic floor jack, 4,000 lb (2 ton) lifting ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957783922",
+   "title": "Vintage playboy",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/skokie-vintage-playboy/jV9k56MefXwzeV1AnbMAAn",
+   "best": "PLAYBOY MAGAZINE DECEMBER 1983 JOAN COLLINS | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
