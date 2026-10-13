@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:47:21Z",
+ "updated": "2026-10-13T12:53:13Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4687,
-  "events": 14622,
+  "lens": 4712,
+  "events": 14647,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 506,
-  "queued": 1553,
+  "lensed": 523,
+  "queued": 1528,
   "comps/pass": 1,
   "decided/ask": 37,
   "queued/relens": 349,
-  "flagged": 416,
+  "flagged": 424,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1514,6 +1514,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981620060",
+   "title": "Vintage Camillus US Military 1969 Pocket Knife",
+   "price": 50,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-camillus-us/6sqng5BRdGzNCqQA6Mpo3R",
+   "best": "ARMY STYLE STAINLESS STEEL POCKET KNIFE- NEW CONDITION | eBay",
+   "med": 405,
+   "ratio": 8.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7980177072",
    "title": "Antique Adlake Railroad lantern.",
    "price": 75,
@@ -1984,6 +1995,17 @@
    "best": "Toy Major Tomb Warrior Castle - Import It All",
    "med": 457,
    "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968865050",
+   "title": "Wenger Switch Military Watch",
+   "price": 65,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/belleville-wenger-switch-military-watch/vYENN59qrFox3vQxStTVzd",
+   "best": "Wenger 72908 Men's Military Blue Dial Stainless Steel ...",
+   "med": 370,
+   "ratio": 5.69,
    "ai_value": ""
   },
   {
@@ -2786,6 +2808,17 @@
    "url": "https://www.craigslist.org/view/d/lakeville-vintage-metal-tackle-boxes/cUj3d8vDUDafdD7spJnVL4",
    "best": "Vintage Grip-Loc Green Metal Tackle Tool Box Walton Products ...",
    "med": 95,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944614885",
+   "title": "Vintage camping Plumb Hatchet",
+   "price": 20,
+   "area": "santamaria",
+   "url": "https://www.craigslist.org/view/d/nipomo-vintage-camping-plumb-hatchet/tmNQYaB7nZCFGoPbVsUZzr",
+   "best": "Nice Vintage GENUINE PLUMB Boy Scout Hatchet, Official BSA ...",
+   "med": 76,
    "ratio": 3.8,
    "ai_value": ""
   },
@@ -3967,6 +4000,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938672227",
+   "title": "Vintage Japanese Geisha Doll",
+   "price": 50,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/west-linn-vintage-japanese-geisha-doll/kh8qeACE1AJsJsrzr5yimP",
+   "best": "Vintage Midcentury Japanese Porcelain Doll Harugoma Dancer ...",
+   "med": 92,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7981714881",
    "title": "ABOUT 70+ OLD BOTTLES",
    "price": 75,
@@ -4484,6 +4528,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943440546",
+   "title": "18\" Native American Liquid Sterling Silver Turquoise Necklace",
+   "price": 177,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-18-native-american-liquid/5g34y1qA72muRfJfhwzfHP",
+   "best": "eBay",
+   "med": 127,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7978389960",
    "title": "Collection of Antique Japanese Decor",
    "price": 150,
@@ -4875,6 +4930,39 @@
    "area": "hudsonvalley",
    "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-hitler-youth-knife/6QJa4aqWzizC4YgKg6dtKg",
    "best": "Vintage Czech Model 58 Bayonet w/Leather Sheath Knife ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954912386",
+   "title": "Quartz Clock - vintage Crown Royal",
+   "price": 85,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-quartz-clock-vintage-crown-royal/9htNpVYRY5ot7xtJeVrUZg",
+   "best": "Vintage Crown Royal Whiskey Clock Bar Man Cave Dsply ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934219987",
+   "title": "WW2 USN Geneva knife",
+   "price": 100,
+   "area": "greenville",
+   "url": "https://www.craigslist.org/view/d/pickens-ww2-usn-geneva-knife/iRECWas581Fs1DYCSa8Z8u",
+   "best": "WWII USN Mark 1 Geneva Forge Navy Fighting Knife W/Scabbard ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952401645",
+   "title": "Old timer 5\u201d blade",
+   "price": 30,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/scarborough-old-timer-blade/9QhUZXyJGcitnVZNLoyekk",
+   "best": "Schrade 1209456 Frontier Gray Fixed Blade Knife Gray Handles ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

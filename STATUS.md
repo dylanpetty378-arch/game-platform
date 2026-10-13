@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T12:47:21Z
+# Refurbish status — 2026-10-13T12:53:13Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1553 |
-| lensed | 506 |
-| flagged | 416 |
+| queued | 1528 |
+| lensed | 523 |
+| flagged | 424 |
 | queued/relens | 349 |
 | decided/ask | 37 |
 | expired | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 4687
-- events: 14622
+- lens: 4712
+- events: 14647
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (416)
+## Flagged by Lens, waiting for photo review (424)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -203,6 +203,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00u0u_3WxXlYLaO5q_0CI0t3_300x300.jpg" width="120"> | 7948945073 | $19 | atlanta | [Hummel Figurines](https://www.craigslist.org/view/d/marietta-hummel-figurines/pubXcVdg6rEAZe3AeNmVyt) | Identified Figurines in the Image | 158 | 8.32 |
 | <img src="https://images.craigslist.org/00R0R_cq461QnpWYT_0t20CI_300x300.jpg" width="120"> | 7962557334 | $10 | newyork | [Cuff links vintage](https://www.craigslist.org/view/d/kew-gardens-cuff-links-vintage/8rCBKa4bxwQ5pdGsqQj4hQ) | Regal Award Vintage Gold and Ruby Red Rhinestone Cufflinks . | 83 | 8.3 |
 | <img src="https://images.craigslist.org/00l0l_lkVMzLnIsB_0CI0t2_300x300.jpg" width="120"> | 7933870514 | $10 | pullman | [Vintage Pumpkin Soup Tureen](https://www.craigslist.org/view/d/missoula-vintage-pumpkin-soup-tureen/5WD7ULdoEw2ENBqqNhzq4s) | Vintage Fall Pumpkin Soup Tureen With 4 Soup Mugs, 6-piece . | 81 | 8.1 |
+| <img src="https://images.craigslist.org/00H0H_2vxj1np1AAQz_1320vC_300x300.jpg" width="120"> | 7981620060 | $50 | orangecounty | [Vintage Camillus US Military 1969 Pocket Knife](https://www.craigslist.org/view/d/garden-grove-vintage-camillus-us/6sqng5BRdGzNCqQA6Mpo3R) | ARMY STYLE STAINLESS STEEL POCKET KNIFE- NEW CONDITION / eBa | 405 | 8.1 |
 | <img src="https://images.craigslist.org/00W0W_3g674w6b0CA_0hr0CI_300x300.jpg" width="120"> | 7980177072 | $75 | charlotte | [Antique Adlake Railroad lantern.](https://www.craigslist.org/view/d/harleyville-antique-adlake-railroad/cNLReN2RQNarYSt6Y71opt) | eBay | 600 | 8 |
 | <img src="https://images.craigslist.org/01111_lnGroNFclg5_0CI0t2_300x300.jpg" width="120"> | 7961522946 | $100 | omaha | [schwinn antique tandem bicycle](https://www.craigslist.org/view/d/des-moines-schwinn-antique-tandem/ptGp8CzFtNiaMNvLRnPu8X) | Vintage 1970s Schwinn Twinn Tandem bicycle / eBay | 800 | 8 |
 | <img src="https://images.craigslist.org/00d0d_jsVoupsjA8V_0lL0CI_300x300.jpg" width="120"> | 7932003815 | $40 | shreveport | [Vintage floor lamp](https://www.craigslist.org/view/d/sulphur-springs-vintage-floor-lamp/a5s9aUEyHoXgfvtM2qeNv5) | Etsy | 320 | 8 |
@@ -212,4 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00T0T_27qK19htCyi_0t20CI_300x300.jpg" width="120"> | 7945414947 | $10 | miami | [Vintage Tripod](https://www.craigslist.org/view/d/fort-myers-vintage-tripod/8yN482etqxEX3gPp9kNKzP) | Bilora Stabilo Mod. 1114 Extendable Tripod - Camera ... | 78 | 7.8 |
 | <img src="https://images.craigslist.org/00000_5wSmhhwohNX_0t20CI_300x300.jpg" width="120"> | 7945745921 | $10 | cleveland | [Antique Pepsi Crate](https://www.craigslist.org/view/d/medina-antique-pepsi-crate/7L7i89kDkyMR7wLjjYySB2) | 24 Wine crate project ideas / pochade box for painting ... | 75 | 7.5 |
 | <img src="https://images.craigslist.org/00Z0Z_cGnZE0xP9xu_0CI0t2_300x300.jpg" width="120"> | 7928521846 | $50 | buffalo | [VINTAGE FOOTLOCKER/HINGED TOP CRATE](https://www.craigslist.org/view/d/ontario-center-vintage-footlocker/6XaLUhwFYaiwToKavDzDF4) | Vintage Military Footlocker: Rustic Wooden Storage Trunk ... | 375 | 7.5 |
-| <img src="https://images.craigslist.org/00h0h_jvmj7fg9cqT_0t20CI_300x300.jpg" width="120"> | 7977892125 | $100 | omaha | [Antique sled](https://www.craigslist.org/view/d/west-des-moines-antique-sled/tz2dytnDQWE3sFuM7ECKpw) | 2 Vintage Family Paris Toboggan Sleds 72"18"10" W Children's | 749 | 7.49 |
