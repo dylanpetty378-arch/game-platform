@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T08:44:51Z",
+ "updated": "2026-10-13T08:47:43Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3154,
-  "events": 10940,
+  "lens": 3179,
+  "events": 10965,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 428,
-  "queued": 2286,
+  "lensed": 443,
+  "queued": 2261,
   "comps/pass": 1,
   "decided/ask": 28,
-  "queued/relens": 340,
-  "flagged": 315,
+  "queued/relens": 341,
+  "flagged": 324,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -555,6 +555,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966993338",
+   "title": "Vintage Floor lamp",
+   "price": 69,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/marlboro-vintage-floor-lamp/7CUneqhf8yza7692ZnCXPV",
+   "best": "Vintage Mid Century Twisted Glass Pole Floor Lamp | Chairish",
+   "med": 1400,
+   "ratio": 20.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7938335328",
    "title": "Light",
    "price": 15,
@@ -728,6 +739,17 @@
    "best": "Handmade Pottery Creamer Signed by Dave 5.25\" x 3\" | eBay",
    "med": 420,
    "ratio": 14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960284138",
+   "title": "Antique Doll Trunk",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/harwich-antique-doll-trunk/47Q8roKZsCoU7kReADh3sU",
+   "best": "Antique C.1890 Miniature Salesman Sample Doll Storage Travel ...",
+   "med": 349,
+   "ratio": 13.96,
    "ai_value": ""
   },
   {
@@ -929,6 +951,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955597809",
+   "title": "Vintage Antique Radio",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/montebello-vintage-antique-radio/mh3jZvERkTD8ATTDssY711",
+   "best": "1940s Air King Shortwave Radio In Walnut Case",
+   "med": 199,
+   "ratio": 9.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7954451666",
    "title": "Vintage all-wool blanket",
    "price": 10,
@@ -1014,6 +1047,17 @@
    "best": "eBay",
    "med": 225,
    "ratio": 9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936954142",
+   "title": "Vintage wood tool box",
+   "price": 10,
+   "area": "wenatchee",
+   "url": "https://www.craigslist.org/view/d/seattle-vintage-wood-tool-box/259HZTxfNKDRAvK78Ah5kc",
+   "best": "Wal-Board Tools 14 in. Plastic Mud Pan 027-004-HD - The Home ...",
+   "med": 88,
+   "ratio": 8.8,
    "ai_value": ""
   },
   {
@@ -1556,6 +1600,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980523686",
+   "title": "Vintage Women's Ski Suit",
+   "price": 20,
+   "area": "pueblo",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-womens-ski-suit/sGzSK6PJEjxkLQWuELa2gt",
+   "best": "Retro Rainbow Ski Suit: Women Vintage Women\\'s Ski Suit",
+   "med": 102,
+   "ratio": 5.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954452583",
    "title": "Camera lot",
    "price": 60,
@@ -1952,6 +2007,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937249625",
+   "title": "Vintage 1970s Men\u2019s Suit",
+   "price": 40,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/lockport-vintage-1970s-mens-suit/4NmmnV8pmmYeyJmGLGyjMM",
+   "best": "Giorgio Armani COLLEZIONI Made in Italy Vintage Low Gorge ...",
+   "med": 150,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7955678685",
    "title": "Vintage Hub caps",
    "price": 40,
@@ -2170,6 +2236,17 @@
    "med": 595,
    "ratio": 3.22,
    "ai_value": "sell between $225"
+  },
+  {
+   "pid": "7945256477",
+   "title": "Vintage Gold Plated Bracelet",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-gold-plated-bracelet/caWSTTJ56hgspbMpJ353ET",
+   "best": "COLORFUL N/M COND LADY'S YELLOW GOLD FILLED BRACELET ...",
+   "med": 64,
+   "ratio": 3.2,
+   "ai_value": ""
   },
   {
    "pid": "7967646774",
@@ -2656,6 +2733,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952666130",
+   "title": "Vintage all laundry bucket",
+   "price": 40,
+   "area": "moseslake",
+   "url": "https://www.craigslist.org/view/d/renton-vintage-all-laundry-bucket/62PgamkhwcKSWhMqMX8cMF",
+   "best": "Vintage Galvanized Metal All Detergent Soap Pail Bucket ...",
+   "med": 99,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7947966386",
    "title": "ARTIST-SIGNED VINTAGE MODERN ART ETCHING PRINT HAPPY PLAYING KITTY CAT",
    "price": 75,
@@ -2775,6 +2863,17 @@
    "med": 459,
    "ratio": 2.29,
    "ai_value": "Value / Market Price: Typically ranges from about $100 to $200"
+  },
+  {
+   "pid": "7933514575",
+   "title": "Antique Movie Projector",
+   "price": 100,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-antique-movie-projector/cRPsPzyV6pMvkiSj7FB6Fw",
+   "best": "25+ Antique Slide Projector In Vintage Movie Projectors ...",
+   "med": 226,
+   "ratio": 2.26,
+   "ai_value": ""
   },
   {
    "pid": "7944446352",
