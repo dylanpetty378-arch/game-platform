@@ -26,22 +26,33 @@ jobs:
         with: {ref: refurbish, fetch-depth: 50}
       - uses: actions/setup-python@v5
         with: {python-version: '3.12'}
+      - name: Decide whether to harvest
+        id: mode
+        # Fallback for GitHub's unreliable cron: a push (ingest) run also harvests when the last harvest is > 4.5 h old.
+        run: |
+          H=no
+          if [ "${{ github.event_name }}" != "push" ] && [ "${{ github.event.inputs.no_harvest }}" != "true" ]; then H=yes; fi
+          if [ "${{ github.event_name }}" = "push" ]; then
+            AGE=$(python3 -c "import json,datetime as d;h=[json.loads(l) for l in open('db/harvests.jsonl') if l.strip()];t=d.datetime.fromisoformat(h[-1]['ts'].replace('Z','+00:00'));print(int((d.datetime.now(d.timezone.utc)-t).total_seconds()/60))" 2>/dev/null || echo 9999)
+            if [ "$AGE" -gt 270 ]; then H=yes; fi
+          fi
+          echo "harvest=$H" >> "$GITHUB_OUTPUT"; echo "harvest=$H"
       - uses: actions/cache@v4
-        if: github.event_name != 'push'
+        if: steps.mode.outputs.harvest == 'yes'
         with:
           path: |
             ~/.cache/pip
             ~/.cache/huggingface
           key: refurbish-clip-v1
       - name: Install image model (CPU)
-        if: github.event_name != 'push'
+        if: steps.mode.outputs.harvest == 'yes'
         run: |
           pip install -q torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install -q open_clip_torch pillow
       - name: Run one cycle
         run: |
           ARGS="--hours ${{ github.event.inputs.hours || '6' }}"
-          if [ "${{ github.event_name }}" = "push" ] || [ "${{ github.event.inputs.no_harvest }}" = "true" ]; then ARGS="$ARGS --no-harvest"; fi
+          if [ "${{ steps.mode.outputs.harvest }}" != "yes" ]; then ARGS="$ARGS --no-harvest"; fi
           python3 scripts/cloud_cycle.py $ARGS
       - name: Commit results
         run: |
