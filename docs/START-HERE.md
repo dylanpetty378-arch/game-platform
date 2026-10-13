@@ -13,7 +13,9 @@ buy, and resell with the right name on it. Profits go toward buying a truck.
 **Buy rule (never change without Dylan):** price ≤ $200 and expected profit ≥ max($50, price) after ~13% selling
 fees and shipping both ways. Nationwide — anything anywhere is fair game; we ask the seller to ship and pay for it.
 **Out:** repairs, untested/broken electronics, small engines, anything needing authentication (designer bags, signed
-sports items, unverifiable precious metal). Furniture only if profit ≥ $750 (Honda Civic, no storage).
+sports items, unverifiable precious metal). **Size rule (Oct 12 2026): only items that fit in a car's passenger seat (a little bigger at most).** Anything bigger is
+not worth the time — excluded at harvest (`scoring.is_bulky`, -99) and killed on sight in review. Within that limit, spend
+MORE time per item: deep research, full encyclopedia entries. (Replaces the older "furniture only if profit ≥ $750".)
 **Never search by brand name** — the point is finding what the *seller* didn't identify.
 **Contact sellers only through the site's own method** (Craigslist reply relay, FB/OfferUp messaging); email only
 from Dylan's personal Gmail (never his work account); **send nothing without Dylan's OK for that exact message.**

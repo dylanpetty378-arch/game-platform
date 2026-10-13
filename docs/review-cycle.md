@@ -24,8 +24,8 @@ expired = upload HTTP 401 in the worker log), send ONE short message saying exac
 ## 2. Triage everything newly flagged
 `python3 scripts/db.py worklist flagged` (or the SQL in `scripts/review_helpers.py --flagged`). For each:
 - Read title, price, area, Lens `best`, `med`, `ratio`, `ai`, `ai_value`.
-- Kill at once (event `photo_review/kill`, one-line reason, `--type` slug): furniture (unless the profit could be
-  ≥ $750), bulky/fragile low-value, untested/broken electronics, needs authentication, obvious reproductions, Lens
+- Kill at once (event `photo_review/kill`, one-line reason, `--type` slug): anything bigger than a car's passenger seat (size rule —
+  no exceptions), fragile low-value, untested/broken electronics, needs authentication, obvious reproductions, Lens
   category matches with nothing specific in the photos.
 - Shortlist the rest (usually 5–15%).
 

@@ -100,6 +100,9 @@ def build_queue(maxn=3000, days=10):
     pend = [L[p] for p, e in cur.items() if e['stage'] == 'queued' and p in L and (L[p].get('posted') or 0) >= cutoff and e.get('status') != 'relens']
     # re-runs (incomplete earlier Lens reads) go first, flagged 'r' so the worker runs them even if already in its DONE set
     relens = [L[p] for p, e in cur.items() if e['stage'] == 'queued' and e.get('status') == 'relens' and p in L]
+    # size rule applies to listings queued before it existed too
+    big = lambda r: scoring.is_bulky(r.get('title'))
+    pend = [r for r in pend if not big(r)]; relens = [r for r in relens if not big(r)]
     # best score first; within one score, newest first and rotated across areas so one big metro can't fill the queue
     pend.sort(key=lambda r: (-(r.get('score') or 0), -(r.get('posted') or 0)))
     out, i = [], 0

@@ -35,13 +35,18 @@ def learned_weights(lens_rows, listings_by_pid, k=150):
         out[c] = round(adj * n / (n + k), 2)         # shrinkage
     return out
 
-# Furniture/bulky words: 0 keeps in the first 432 reviewed listings (desk, table, chair, cabinet, mirror, trunk, chest,
-# dresser, rocking … 120+ kills); Dylan's rule needs ≥$750 profit for furniture (drives a Civic), so push them down hard.
-BULKY=re.compile(r'\b(desk|table(?! ?(lamp|top clock|clock))|chairs?|cabinet|mirror|trunk|chest|dresser|rocker|rocking|bench|bookcase|bookshelf|shelf|shelves|armoire|wardrobe|hutch|buffet|sideboard|credenza|nightstand|headboard|bed ?frame|vanity|stool|ottoman|sewing machine|piano|organ|loveseat|futon)\b',re.I)
+# SIZE RULE (Dylan, Oct 12 2026): only items that fit in a car's passenger seat (a little bigger at most). Anything bigger
+# is not worth the time — excluded outright. Labels agree: furniture words = 120+ kills, 0 keeps in the first 432 reviews.
+BULKY=re.compile(r'\b(desk|table(?! ?(lamp|top clock|clock))|chairs?|cabinet|mirror|trunk|chest|dresser|rocker|rocking|bench|bookcase|bookshelf|shelf|shelves|armoire|wardrobe|hutch|buffet|sideboard|credenza|nightstand|headboard|bed ?frame|vanity|stool|ottoman|sewing machine|piano|organ|loveseat|futon|couch|daybed|bunk|wagon wheel|anvil|wood ?stove|pot ?belly|safe|jukebox|arcade|pinball|slot machine|grandfather clock|tall case|hall tree|coat rack|church pew|pew|bathtub|clawfoot|sink|doors?(?! ?(knob|knocker|hardware|stop|plate|bell|handle|pull))|windows?(?! ?(sticker|decal|light))|mantel(?! clock)|fireplace|area rug|rugs? \d+ ?x|\d+ ?x ?\d+ rug|canoe|kayak|boat|motorcycle|scooter|mower|tractor|plow|carriage|buggy|sleigh|crib|cradle|highchair|high chair|rocking horse|room divider|folding screen|china cabinet|curio|display case|showcase|workbench|tool chest|toolbox on wheels|rolling tool)\b',re.I)
+
+# Small things whose titles contain a bulky word (doll trunk, hand mirror, bench vise, motorcycle jacket, desk lamp…)
+SMALL=re.compile(r'\b(hand mirror|compact|vanity (mirror|set|tray|box)|dresser (set|box|tray|jar)|dolls?|doll ?house|dollhouse|miniature|mini|toy|salesman|sample|model|bench (vise|vice|grinder|plane)|vise|vice|helmet|jacket|patch|pin|desk (accessor\w*|lamp|clock|set|organizer|pen|top|calendar)|lap desk|writing (slope|box)|receiver|remote|opener|key|keys|knob|hinge|ski rack|rack|jewelry|music box|tea caddy|trinket|box|figurine|ornament|book|books|catalog|manual|brochure|sign|poster|photo|print|postcard|flags?|bells?|machine head|picture|sticker|decal|emblem|badge|plate|spoon|cup|mug|glass|lamp|clock|radio|camera|lens|watch|ring|necklace|bracelet|brooch|earrings)\b',re.I)
+def is_bulky(t):
+    return bool(BULKY.search(t or '')) and not SMALL.search(t or '')
 
 def score(r):
     t=r.get('title') or ''; s=0.0
-    if JUNK.search(t): return -99
+    if JUNK.search(t) or is_bulky(t): return -99   # junk, or bigger than a passenger seat
     p=r.get('price')
     if p is None or p<=0 or p>200: return -99
     if not r.get('imgs'): return -99
@@ -50,7 +55,6 @@ def score(r):
     s+= 2 if HELPER.search(t) else 0                # seller doesn't know what it is
     s-= 3 if RESELLER.search(t) else 0              # seller does know
     s-= 2 if MODEL.search(t) else 0                 # model number = seller already identified it
-    s-= 4 if BULKY.search(t) else 0                 # furniture/bulky: almost never passes the rule
     s+= 1 if 10<=p<=100 else 0
     s+= 1 if len(r['imgs'])>=3 else 0
     c=r.get('cat'); s+= CAT_PRIOR.get(c,0) + LEARNED.get(c,0)

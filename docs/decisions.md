@@ -46,3 +46,13 @@ redacted. The raw.githubusercontent URLs are public but unadvertised ("hidden" b
 ## Earlier
 See `docs/history/valuation-method.md` (why Lens-first beat thumbnail review: 22/30 identified vs coarse type only),
 `docs/history/site-access-methods.md` (which sites work from where), `docs/history/sweep-log.md` (every run).
+
+## 2026-10-12 (night) — size rule, deep research, one working chat
+- Dylan: only items that fit in a passenger seat (a little bigger at most); anything bigger is a waste of time. Hard
+  exclusion in scoring (`BULKY` minus `SMALL` exemptions such as doll trunk, hand mirror, bench vise), filtered out of
+  existing queues, extra CLIP negatives for furniture-like photos.
+- Dylan: spend more time on each item that passes the size rule — research the type (makers, marks, finishes,
+  quality, nuances, sold prices) and write it into the encyclopedia, including for items we pass on. Research every item
+  already scanned too. For anything bought/sold, keep a full item dossier (docs/items/) he can quote to buyers.
+- Dylan: no separate scheduled Claude sessions changing code (they could overwrite each other). One working chat does
+  all iterations; the 6-hourly scheduled review task was deleted. The cloud workflow + Lens worker keep running.

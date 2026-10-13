@@ -13,7 +13,7 @@ Log every decision as an event **as you make it**.
    any Persian-style rug → $2,880 antique) — those false flags are the norm.
 3. Read the encyclopedia entry for that type (`docs/encyclopedia/index.md`). Use its tells and sold ranges.
 4. **Kill now** (event `photo_review --status kill --note <reason> --type <slug>`) if: mass-produced/reproduction
-   (the photo shows it), furniture under the $750 bar or unshippable, untested/broken electronics, needs
+   (the photo shows it), bigger than a passenger seat (size rule) or unshippable, untested/broken electronics, needs
    authentication, reseller listing (model already in title, "retails for", lot pricing), obvious scam (stock photo +
    placeholder price), or the Lens match is a different object.
 5. Survivors: `photo_review --status keep --type <slug> --note "<what it is, exact comp search string>"`.

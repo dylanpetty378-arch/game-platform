@@ -25,6 +25,10 @@ NEGATIVE = [
     'a photo of a baby stroller', 'a photo of exercise equipment', 'a photo of a modern bicycle', 'a photo of building materials',
     'a photo of a cheap plastic toy', 'a photo of a stock product image on white background', 'a photo of a pile of household junk',
     'a screenshot with text', 'a photo of a pet', 'a photo of a car',
+    # size rule: nothing bigger than a passenger seat
+    'a photo of a large wooden cabinet', 'a photo of an armoire', 'a photo of a wooden trunk', 'a photo of a rocking chair',
+    'a photo of a large wall mirror', 'a photo of a desk', 'a photo of a piano', 'a photo of a large folding screen',
+    'a photo of a large area rug on the floor', 'a photo of a bookcase', 'a photo of a full-size floor lamp',
 ]
 
 def _fetch(url, timeout=20):
