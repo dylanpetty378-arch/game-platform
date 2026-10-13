@@ -17,6 +17,11 @@ POSITIVE = [
     'a photo of a vintage toy', 'a photo of a vintage fishing reel', 'a photo of mid-century modern design object',
     'a photo of an antique clock', 'a photo of vintage militaria', 'a photo of a vintage sign', 'a photo of old books',
     'a photo of a carved wooden figure', 'a photo of studio pottery with a maker mark', 'a photo of vintage tools',
+    # lead patterns found Oct 13 (collections priced as one, watches, razors, instruments of precision, small marked pieces)
+    'a photo of a collection of porcelain figurines on a table', 'a photo of many small collectibles laid out together',
+    'a photo of a vintage pocket watch with an open case back', 'a photo of antique straight razors',
+    'a photo of a vintage compass or surveying instrument', 'a photo of chalkware character heads',
+    'a photo of the maker mark on the bottom of a piece', 'a photo of vintage silver jewelry on a cloth',
 ]
 NEGATIVE = [
     'a photo of a sofa', 'a photo of a mattress', 'a photo of a dresser', 'a photo of a dining table', 'a photo of an office chair',
