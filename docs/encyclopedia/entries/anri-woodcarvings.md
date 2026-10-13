@@ -41,6 +41,8 @@ Japanese composition copies (see above). Modern Chinese resin "carved look" stop
 - 2026-10-13 – eBay via Terapeak – lots of 6–14 ANRI stoppers – sold $36–123. db/comps.jsonl
 - No sold Big Mouth or Ferrandiz comps retrieved this run.
 - 2026-10-13 – Terapeak 365d sold, query "ANRI Big Mouth toothpick holders": n=50, median $24.99, p25 $21, p75 $29.79 — e.g. $24.99 Vintage Anri Big Mouth Toothpick Holde (); $25.0 Vintage Anri Hand Carved Wooden Big Mo () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "ANRI Ferrandiz limited edition" (top-tier variant): n=50, median $30, p25 $20, p75 $54.95 — e.g. $21.89 Anri The Journey Hand Carved ITALY Jua (); $23.25 Romeo 3 Vintage Ferrandiz ANRI woodcar ()
+- 2026-10-13 – Terapeak 365d sold, query "Black Forest carved bear" (top-tier variant): n=50, median $81, p25 $31, p75 $140 — e.g. $132.06 19th Century German Wooden Hand Carved (); $379.0 cuckoo clock black forest quartz germa ()
 
 ## Market
 Steady barware/kitsch demand; single stoppers sell slowly in a crowded market; lots sell at a per-piece discount (~$5–9 each). Holidays (Nov–Dec) bump barware.

@@ -45,6 +45,8 @@ Chips on points and rims (ground down repairs leave flat rims), cloudy "sick" gl
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): starburst vanity tray $281 (wrong match to a Godinger listing), lead crystal tumbler $63. Ladder estimated.
 - 2026-10-13 – Terapeak 365d sold, query "Godinger starburst crystal tray": n=3, median $20, p25 $12, p75 $20 — e.g. $12.0 Godinger Dublin Crystal Vanity Tray Re (); $58.45 Set of 3 Shannon Godinger Crystal Silv () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Hawkes cut glass bowl signed" (top-tier variant): n=49, median $60, p25 $39.99, p75 $150 — e.g. $58.5 Hawkes Rock Crystal Wheel Engraved Ber (); $60.0 Signed HAWKES American Brilliant Cut G ()
+- 2026-10-13 – Terapeak 365d sold, query "Waterford crystal vase 10 inch" (top-tier variant): n=50, median $51, p25 $32.55, p75 $70 — e.g. $24.17 Marquis by Waterford Honour Crystal 10 (); $70.0 Marquis By Waterford Rose Garden Vase ()
 
 ## Market
 Huge supply, weak demand for modern giftware (thrift-store staple). Waterford and ABP have steady buyers. EAPG is soft (aging collector base) except rare patterns and colours.

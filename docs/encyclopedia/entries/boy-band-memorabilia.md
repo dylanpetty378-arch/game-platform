@@ -37,6 +37,8 @@ Unauthorized dolls and bootleg tees; signatures widely faked.
 ## Comps (sold, dated)
 No sold data in comps.jsonl and no web search; Lens returned no match. Run Terapeak "nsync best buy bobblehead" and "nsync marionette" to confirm before buying.
 - 2026-10-13 – Terapeak 365d sold, query "NSync NSync items": n=10, median $22.95, p25 $13.85, p75 $39.99 — e.g. $22.95 Vintage 2002 TIGER Hit Clips FM Radio (); $20.0 Vintage 2002 TIGER Hit Clips FM Radio () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "NSYNC signed" (top-tier variant): n=50, median $50, p25 $16, p75 $100 — e.g. $10.99 NSYNC Reproduction Preprint Signed Aut (); $29.45 Joey Fatone Signed Juliet The Musical ()
+- 2026-10-13 – Terapeak 365d sold, query "Backstreet Boys signed" (top-tier variant): n=50, median $69, p25 $24, p75 $150 — e.g. $18.28 BACKSTREET BOYS 8x10 Autographed Signe (); $10.67 Backstreet Boys Backstreet Boys Album ()
 
 ## Market
 Strong 1990s/Y2K nostalgia since ~2022 ('N Sync reunion buzz 2023). Moderate liquidity; lots sell in 2–4 weeks.

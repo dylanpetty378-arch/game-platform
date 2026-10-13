@@ -32,6 +32,8 @@ Large volume of aftermarket reproduction Honda gauges (made in Taiwan/China) wit
 ## Comps (sold, dated)
 None in our DB; Lens returned no price. Estimates only.
 - 2026-10-13 – Terapeak 365d sold, query "vintage tachometer": n=50, median $167.77, p25 $50.6, p75 $403.58 — e.g. $592.1 1967 1972 Chevy Truck Analog Gauge Clu (); $49.3 1975 1991 Corvette Tach Tachometer Gau () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "NOS Honda speedometer" (top-tier variant): n=50, median $20.37, p25 $16.49, p75 $36.02 — e.g. $5.79 Yamaha NOS Trip Meter Knob Boot Gromme (); $74.0 Honda CT70 K0 Minitrail CONTROL CABLE ()
+- 2026-10-13 – Terapeak 365d sold, query "Nippon Seiki tachometer" (top-tier variant): n=50, median $40, p25 $25, p75 $55.19 — e.g. $69.99 2002 2004 Honda CR V Speedometer Instr (); $60.0 1968 1969 HONDA CB350 CL350 TACHOMETER ()
 
 ## Market
 Strong buyer base (restorers) but very fitment-specific; untested units sell at a discount; ~20–60 sales per model/month.

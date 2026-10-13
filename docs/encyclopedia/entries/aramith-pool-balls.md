@@ -31,6 +31,8 @@ Generic sets in the same colours sold as "Aramith" – check for the logo on the
 
 ## Comps (sold, dated)
 - (knowledge-based) – no dated sold comps pulled.
+- 2026-10-13 – Terapeak 365d sold, query "Aramith Super Pro pool balls" (top-tier variant): n=50, median $82.96, p25 $33, p75 $249.99 — e.g. $33.57 Super Aramith Pro Pool Billiard Replac (); $297.25 ARAMITH SUPER PRO POOL BALLS MADE IN B ()
+- 2026-10-13 – Terapeak 365d sold, query "clay pool balls antique" (top-tier variant): n=50, median $21, p25 $14.5, p75 $75 — e.g. $8.75  14 Pool Ball Antique Vintage And Curr (); $19.95 Vintage Antique CLAY Billiard Pool Bal ()
 
 ## Market
 Steady demand from home pool-table owners and league players; sells on eBay and locally, especially alongside table sales (general knowledge, verify). Not seasonal in a known way.

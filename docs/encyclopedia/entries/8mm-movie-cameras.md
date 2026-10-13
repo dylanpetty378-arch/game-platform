@@ -48,6 +48,8 @@ None to worry about. New-production Super 8 (Kodak Super 8 camera 2023, Logmar) 
 - 2026-06-22 – eBay (Terapeak) – Cine-Kodak Magazine 8 vintage camera – $27
 - 2025-11-21 – eBay (Terapeak) – Cine-Kodak Magazine 8 with case, untested – $23.70
 - 2025-12-16 – eBay (Terapeak) – Kodak Magazine 16 Cine – $17
+- 2026-10-13 – Terapeak 365d sold, query "Beaulieu 4008 Super 8 camera" (top-tier variant): n=36, median $165, p25 $50, p75 $399 — e.g. $480.0 Beaulieu 4008 ZM II 8mm Movie Camera W (); $1000.0 Beaulieu 4008 S Super 8MM Camera w Ang ()
+- 2026-10-13 – Terapeak 365d sold, query "Nikon R10 Super 8 camera" (top-tier variant): n=50, median $549.99, p25 $400, p75 $629.99 — e.g. $25.0 Zoom lever for Nikon R10 R8 Super 8 ca (); $699.9 Tested MINT w Hood Nikon R10 Super 8mm ()
 
 ## Market
 eBay is flooded with Kodak/Bell & Howell wind-ups that sell for $10–25 or don't sell. The live market is filmmakers buying tested Canon/Nizo/Beaulieu Super 8 — fast sellers (days) at $250+. Accessory parts (eyecups) also sell steadily.

@@ -37,6 +37,8 @@ China-made Wilton-branded vises (later production) – check casting text. Listi
 - 2026-09 – eBay – Wilton 5" bullet lightly used – $600; 3.5" restored 1973 – $600; Toddler 825 1967 – $560
 - 2026-09 – eBay – Wilton Bullet Vise 100, 4" – $80 (low end, condition)
 - Aggregate: Wilton 4" bullet, 43 sales, median $270
+- 2026-10-13 – Terapeak 365d sold, query "Wilton bullet vise" (top-tier variant): n=47, median $12.14, p25 $4.93, p75 $53.45 — e.g. $40.06 Wilton Bullet Mechanics Tradesman Vise (); $6.3 Wilton Bullet Vise Decal Sticker Badge ()
+- 2026-10-13 – Terapeak 365d sold, query "Charles Parker vise" (top-tier variant): n=49, median $56.95, p25 $40, p75 $159.5 — e.g. $40.0 Vintage The Charles Parker Co No 2 Vis (); $45.0 Vintage The Charles Parker Co No 2 Vis ()
 
 ## Market
 Strong, steady demand from machinists, hobbyists and restorers; Wilton bullet ~43 sales in the aggregation window (period unspecified). Local sale avoids heavy shipping; eBay reaches collectors for top pieces (general knowledge, verify).

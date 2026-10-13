@@ -35,6 +35,7 @@ Columbus Washboard Co. still makes Dubl Handi and Maid-Rite; decor-store fake "a
 - 2025-11-06 – eBay (Terapeak) – National Washboard Co No. 703 Zinc King lingerie – $17.95
 - 2026-02-24 – eBay (Terapeak) – National No. 703 Zinc King – $13.50
 - 2026-05-19 – eBay (Terapeak) – Maid-Rite 2072 Family Size Columbus Washboard – $48.48
+- 2026-10-13 – Terapeak 365d sold, query "Brass King washboard" (top-tier variant): n=50, median $19.99, p25 $17, p75 $29 — e.g. $19.99 3 VTG NATIONAL WASHBOARD CO The Brass (); $31.49 Vintage National Washboard Co No 801 T ()
 
 ## Market
 Steady, slow decor market. Huge supply at estate sales for $5–20. Shipping (24 in long) eats margin.

@@ -34,6 +34,8 @@ Resealed boxes and searched/repacked packs are the main risk for valuable years 
 
 ## Comps (sold, dated)
 - 2025-10 – eBay 156943607183 – 1987 Donruss sealed wax box – $69.99 (2 sold)
+- 2026-10-13 – Terapeak 365d sold, query "1986 Fleer basketball wax box" (top-tier variant): n=50, median $462, p25 $199.99, p75 $849.5 — e.g. $37.45 Acrylic Display Case Magnetic FITS 198 (); $1307.69 1986 FLEER BASKETBALL WAX PACK FROM CO ()
+- 2026-10-13 – Terapeak 365d sold, query "1989 Upper Deck wax box BBCE" (top-tier variant): n=50, median $690, p25 $505.55, p75 $759.05 — e.g. $561.61 1989 Upper Deck Baseball High Number S (); $463.9 1989 Upper Deck High Series wax box BB ()
 
 ## Market
 Large, liquid hobby market on eBay; prices for junk wax swing with hobby hype cycles (spiked 2020–21, settled since) (general knowledge, verify). Buyers are rippers/breakers and nostalgia collectors.

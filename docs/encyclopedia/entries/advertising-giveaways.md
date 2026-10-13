@@ -56,6 +56,8 @@ Photo tells by era:
 - 2026-10 asking: Wynn's porcelain advertising signs $65 and $155 OBO. https://www.ebay.com/shop/wynns?_nkw=wynns
 - The project's earlier oil-can entry treats plain-text 1960s–80s cans as $5–60 and graphic quarts as $50–150.
 - 2026-10-13 – Terapeak 365d sold, query "advertising giveaways": n=50, median $19.04, p25 $10.99, p75 $28 — e.g. $19.04 Vintage NIP Newport Cigarettes Camera Free Giveaway Adv (Apr 10, 2026); $7 Vintage 1950's A P Grocery Food Store Sewing Needle Kit (Feb 6, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "celluloid advertising tape measure" (top-tier variant): n=50, median $19, p25 $14.99, p75 $30 — e.g. $19.95 VTG CELLULOID ADVERTISING TAPE MEASURE (); $30.0 Vintage John Deere JD Celluloid Advert ()
+- 2026-10-13 – Terapeak 365d sold, query "celluloid advertising pocket mirror" (top-tier variant): n=50, median $36.99, p25 $19.98, p75 $58 — e.g. $25.0 VINTAGE ADVERTISING POCKET MIRROR CELL (); $300.0 1909 COCA COLA COKE POCKET CELLULOID A ()
 
 ## Market
 There is steady low-dollar volume. Hundreds of advertising tapes and rulers are listed at any time, and most sell under $20 or don't sell. Petroliana (oil, tire) is the strongest sub-market and sells within weeks when graphics are bright. Celluloid sells to tape-measure and sewing collectors and to advertising collectors. Nothing is seasonal, except that petroliana and man-cave décor do a little better in Q4 (gifts).

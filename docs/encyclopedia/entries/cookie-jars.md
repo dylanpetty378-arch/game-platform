@@ -46,6 +46,8 @@ Mid-1990s onward: large-scale fakes of Shawnee Muggsy/Smiley/Winnie, Brush jars,
 ## Comps (sold, dated)
 No dated sold comps this run. Estimates (general knowledge, verify): Shawnee Muggsy cookie jar plain blue bow $150–250; Twin Winton Friar Tuck $40–80; modern import fish jar $10–20.
 - 2026-10-13 – Terapeak 365d sold, query "Twin Winton Friar Tuck cookie jar": n=28, median $40, p25 $24.99, p75 $49.99 — e.g. $38.0 Vintage Friar Tuck Monk Cookie Jar Tho (); $36.0 Vintage 60s Winton Friar Tuck Monk Coo () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Shawnee gold trim cookie jar" (top-tier variant): n=50, median $99, p25 $75, p75 $145 — e.g. $85.0 Vintage Shawnee Winnie Pig Cookie Jar (); $200.0 VINTAGE RARE 1940 S SHAWNEE MUGGSY COO ()
+- 2026-10-13 – Terapeak 365d sold, query "Hull Red Riding Hood cookie jar" (top-tier variant): n=50, median $62, p25 $50, p75 $84.99 — e.g. $60.0 Vintage 1940 s Hull Ware Little Red Ri (); $129.95 Hull Cookie Jar 1940s Vintage Pottery ()
 
 ## Market
 Collector base aged; prices fell 50–70% from the late-1990s peak. Rare jars still sell; common McCoy and hobby jars are slow. Large and heavy to ship.

@@ -54,6 +54,8 @@ Dolls whose heads (and often limbs or entire bodies) are molded from "compositio
 - Asking prices on eBay Oct 12, 2026: unbranded 1940s compo baby 20" with sleep eyes $49.95; unmarked 1930s compo baby 21" $40; Horsman 18" compo/cloth $60; Effanbee Patsy Ann 19" $35; Ideal Shirley Temple baby 20" orig. dress $299.99; Buddy Lee Coca-Cola $225.
 - Dated sold comps not retrievable this session (eBay sold blocked; auction databases locked).
 - 2026-10-13 – Terapeak 365d sold, query "composition doll 19in": n=11, median $40, p25 $24, p75 $50 — e.g. $9.0 Vintage 19in Composition 1950 s Unmark (); $179.0 Bru Jne Doll Bisque Head Hands Artist () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Shirley Temple composition doll" (top-tier variant): n=50, median $50, p25 $20, p75 $99.99 — e.g. $3.5 NEW Socks SOX for Ideal Composition Sh (); $6.99 Collectible repro PIN 1 5 replacement ()
+- 2026-10-13 – Terapeak 365d sold, query "Madame Alexander Scarlett composition" (top-tier variant): n=50, median $59, p25 $39.99, p75 $135 — e.g. $135.0 Madame Alexander Composition Scarlett (); $160.0 Vintage 30s Composition Doll Madame Al ()
 
 ## Market
 - Large supply, aging buyer base; prices for common composition dolls have fallen since the 2000s. Premium names (Shirley Temple, Alexander, Patsy) still sell steadily; "creepy doll" Halloween demand gives a small October bump for battered ones.

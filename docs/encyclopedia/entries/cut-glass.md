@@ -43,6 +43,8 @@ Forged acid signatures (Hawkes, Libbey) on unsigned or later glass; modern Asian
 - Terapeak "amber glass advertising ashtray": median $14.99, n=50 (sold).
 - ABP prices are general knowledge, verify.
 - 2026-10-13 – Terapeak 365d sold, query "cut glass ashtray": n=49, median $14.15, p25 $13.02, p75 $18.99 — e.g. $14.15 Colorful Vintage Cigar Ashtray Cut Cry (); $13.71 Colorful Vintage Cigar Ashtray Cut Cry () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "signed Libbey cut glass bowl" (top-tier variant): n=32, median $60, p25 $29.99, p75 $98 — e.g. $32.5 Antique Signed Libbey C1910 Cut Glass (); $67.0 American Brilliant Cut Glass Bowl in t ()
+- 2026-10-13 – Terapeak 365d sold, query "Dorflinger cut glass" (top-tier variant): n=50, median $89, p25 $29.95, p75 $149.95 — e.g. $34.98 Wine glass Cranberry Cut to clear Crys (); $19.99 1994 Dorflinger Line drawings American ()
 
 ## Market
 Pressed glass: oversupplied, slow. ABP: collector market depressed since 2000s (prices down 50–70% from peak) but signed quality sells steadily.

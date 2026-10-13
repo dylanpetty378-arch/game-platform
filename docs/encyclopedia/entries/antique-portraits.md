@@ -40,6 +40,8 @@ Modern prints on aged paper in old frames; "antique tintypes" made today (tintyp
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking/auction mismatch, 2026-10): crayon portrait $8,300 (wrong match), oval lady print $75. Ladder estimated.
 - 2026-10-13 – Terapeak 365d sold, query "framed crayon charcoal portrait": n=3, median $40, p25 $21, p75 $40 — e.g. $21.0 Antique 1920s Charcoal Crayon Portrait (); $75.0 Antique Charcoal Crayon Portrait Man i () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Civil War tintype soldier" (top-tier variant): n=50, median $13.95, p25 $12.1, p75 $65 — e.g. $12.11 civil war union uniformed soldier with (); $13.97 Civil War Union Soldier With Colt Army ()
+- 2026-10-13 – Terapeak 365d sold, query "daguerreotype cased image" (top-tier variant): n=50, median $65, p25 $45, p75 $111 — e.g. $225.0 Two 6th Plate Images Flower Girl Littl (); $22.5 Antique Mid 19th Century Daguerreotype ()
 
 ## Market
 Large ancestor portraits: very weak, slow, mostly décor and Halloween ("creepy portrait") buyers, local pickup. Cased images and photographica: strong, liquid collector market. Prints: slow.

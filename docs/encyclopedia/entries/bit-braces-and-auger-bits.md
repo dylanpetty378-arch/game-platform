@@ -42,6 +42,7 @@ Essentially none on the low end. Some modern reproductions of Sheffield framed b
 ## Comps (sold, dated)
 No dated comps pulled this run. Lens median for the Stanley Workmaster boxed bit set: $65 (asking-heavy); for the brace lot $34. Pull Terapeak "bit brace lot", "auger bit set Irwin box" before buying.
 - 2026-10-13 – Terapeak 365d sold, query "carpenter's bit braces with auger bits": n=50, median $20, p25 $15, p75 $25.99 — e.g. $15.0 24 Vintage Bit Brace Hand Drill Bits A (); $18.0 6 Vintage Bit Brace Hand Drill Bits Au () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Spofford brace" (top-tier variant): n=50, median $40, p25 $28, p75 $69.99 — e.g. $29.99 ANTIQUE EARLY JOHN FRAY STEEL BRACE WI (); $50.0 Vintage 8 Spofford John S Fray Bit Bra ()
 
 ## Market
 Steady trickle; buyers are woodworkers and decorators. Lots of 3–5 braces sell in 1–3 weeks at $40–100. Loose bits sit.

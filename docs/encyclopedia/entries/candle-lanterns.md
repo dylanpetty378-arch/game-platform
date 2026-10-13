@@ -32,6 +32,7 @@ Indian/Chinese reproductions of punched-tin and ship lanterns are everywhere (ag
 ## Comps (sold, dated)
 No candle-lantern-specific sold comps this run (no web search). Related Terapeak rows (db/comps.jsonl, terapeak-wave1, Oct 2026): "glass kerosene lamp" median $24.48 (n=47; e.g. $34.41 "Qty 2 Hurricane Kerosene Oil Lantern Emergency Hanging" sold Oct 10 2026; $13.47 "Rustic Oil Lamp Lantern Vintage Glass Kerosene Chamber" sold Oct 10 2026); "kerosene oil lamps" median $16.01 (n=44). Lens median $369 for the example was asking listings of genuine antiques – not comparable.
 - 2026-10-13 – Terapeak 365d sold, query "metal and glass candle lantern": n=49, median $29.99, p25 $15.25, p75 $40 — e.g. $11.66 Threshold Black Stainless Steel Glass (); $45.1 Luminara 19 Haritage White LANTERN W 3 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "horn lantern antique" (top-tier variant): n=8, median $110, p25 $20, p75 $513 — e.g. $250.0 VINTAGE ANTIQUE HALLOWEEN GERMANY HORN (); $1552.0 SUPERB 18TH C TIN HORN LANTHORNE CANDL ()
 
 ## Market
 Decor lanterns: huge supply, slow. Genuine early lighting: collector niche (Rushlight Club), auction-driven.

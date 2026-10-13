@@ -33,6 +33,8 @@ Small decorative replica cans (Asian imports) and new "farmhouse" cans with fake
 - 2026-02-21 – eBay (Terapeak) – antique hand-painted German 8 gallon milk can – $31.95
 - 2025-12-13 – eBay (Terapeak) – antique metal milk can primitive farmhouse decor – $25.50
 - 2026-04-01 – eBay (Terapeak) – vintage solid copper milk can/jug 9 in – $60
+- 2026-10-13 – Terapeak 365d sold, query "copper cream can dairy" (top-tier variant): n=6, median $25, p25 $15, p75 $27 — e.g. $28.5 Vintage Copper Tin Primitive Milk Crea (); $15.0 Copper Tin Primitive Milk Cream Can W ()
+- 2026-10-13 – Terapeak 365d sold, query "embossed dairy milk can" (top-tier variant): n=21, median $50, p25 $29.99, p75 $70 — e.g. $29.99 VINTAGE EMBASSY DAIRY Metal Embossed M (); $150.0 VTG HUGE 1940 s Embossed BREYER 49 ICE ()
 
 ## Market
 Mostly local buyers. eBay sales need oversized shipping, so sold prices undercount shipping.

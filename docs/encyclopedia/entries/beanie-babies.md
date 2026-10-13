@@ -40,6 +40,8 @@ Counterfeit Beanies flooded the late 1990s (especially Princess, Peace, Garcia, 
 ## Comps (sold, dated)
 - $2.09 – "TY Tag Plush Beanie Babies Baby, Retired, Vintage, Rare" – eBay sold Feb 17 2026 (Terapeak row in db/comps.jsonl).
 - Other dated comps unavailable this run (no web search). Pull Terapeak "princess bear beanie" and "49ers beanie baby" before any buy.
+- 2026-10-13 – Terapeak 365d sold, query "Beanie Baby 1st generation tag" (top-tier variant): n=50, median $36, p25 $20, p75 $65 — e.g. $7.99  20 BTP Brand 1st Generation Ty Beanie (); $7.99 20 BTP Brand 1st Generation Ty Beanie ()
+- 2026-10-13 – Terapeak 365d sold, query "Billionaire Bear Beanie Baby" (top-tier variant): n=50, median $275, p25 $30, p75 $383.17 — e.g. $85.0 billionaire bear beanie baby (); $275.0 Ty Beanie Baby Babies Rare Billionaire ()
 
 ## Market
 Massive oversupply; eBay has hundreds of thousands of active "rare" asks at fantasy prices; actual sold prices low. Sells slowly except genuine early tags. Bulk lots move at $0.50–1 per piece to crafters/flippers.

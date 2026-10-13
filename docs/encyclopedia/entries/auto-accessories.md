@@ -29,6 +29,8 @@ Reproduction hood ornaments and Lalique-style glass mascots are common; reproduc
 
 ## Comps (sold, dated)
 None in our DB; Lens returned no price (matched to a GM seat-back frame). Estimates only.
+- 2026-10-13 – Terapeak 365d sold, query "Lalique car mascot" (top-tier variant): n=50, median $175, p25 $100, p75 $239 — e.g. $5.0 HOOD ORNAMENTS car mascots LALIQUE MAS (); $200.0 Lalique Blue Peacock Car Mascot Style ()
+- 2026-10-13 – Terapeak 365d sold, query "glass hood ornament" (top-tier variant): n=47, median $39.95, p25 $14.28, p75 $60 — e.g. $14.27 UCLA Glass Ornament University Hooded (); $12.95 Antique 1950 s Hudson Hood Ornament Em ()
 
 ## Market
 Classic-car buyers search by car model and part number; generic racks sell rarely and cheaply. Spring is stronger.

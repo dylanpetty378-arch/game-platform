@@ -33,6 +33,8 @@ Many "antique" maps are 20th-c. reproductions (Rand McNally facsimiles, Hammond,
 
 ## Comps (sold, dated)
 No sold data in this run (one unrelated comps.jsonl row: miniature dollhouse "antique maps" $7.95). Verify with eBay sold "Meyer 1849 map" and "Zeitungs-Atlas" — estimate $15–35 per leaf.
+- 2026-10-13 – Terapeak 365d sold, query "Tallis map" (top-tier variant): n=50, median $47, p25 $33, p75 $89.95 — e.g. $5.73 1940s Tally Ho Luncheon Dinner Phone 5 (); $40.96 1851 Tallis Map Of The United States F ()
+- 2026-10-13 – Terapeak 365d sold, query "Mitchell map Texas" (top-tier variant): n=49, median $56, p25 $38, p75 $125 — e.g. $89.0 County Map Of Texas Antique 1867 S Aug (); $50.0 original antique 1878 map of texas ()
 
 ## Market
 Steady; collectors buy by geography. Individual European leaves sell slowly (weeks–months); lots of 10+ genuine leaves sell to dealers at ~$8–15 per map.

@@ -39,6 +39,7 @@ The two earlier write-ups (both 2026-10-12) place the GraLab 300 differently: wr
 - (knowledge-based, not specific sales: GraLab 300 sells $45–75 on eBay 2025–26; Metz 32CT3 $20–30; unopened Ilford 8x10 25-sheet $20–30)
 - 2025 – eBay – Zone VI Cold Light Stabilizer – $90–140 (knowledge)
 - 2025 – eBay – Zone VI 11×14 print washer – $200–300 (knowledge)
+- 2026-10-13 – Terapeak 365d sold, query "Jobo CPP-2 processor" (top-tier variant): n=8, median $1100, p25 $719.99, p75 $1270 — e.g. $2100.0 JOBO CPP 2 Film and Print Processor wi (); $1000.0 JOBO CPA 2 CPP 2 Film Processor with L ()
 
 ## Market
 Small but steady film revival market: buyers are film photographers, schools, alt-process printers; venues eBay, photrio classifieds, FB film groups. Lenses, Zone VI and Jobo move; enlarger bodies are nearly free locally (general knowledge, verify).

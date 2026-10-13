@@ -31,6 +31,8 @@ Cast iron reproductions of popular seats (Champion, Deering, Buckeye, "Plano") h
 
 ## Comps (sold, dated)
 No sold comps in our DB; Lens returned no price. Values estimated from general knowledge, verify on eBay sold and WorthPoint.
+- 2026-10-13 – Terapeak 365d sold, query "McCormick tractor seat" (top-tier variant): n=50, median $75, p25 $54.95, p75 $85.5 — e.g. $37.24 Deluxe IH Farmall Cub Restoration Hard (); $849.99 Deluxe Air Seat fits AGCO Case IH Ford ()
+- 2026-10-13 – Terapeak 365d sold, query "cast iron implement seat" (top-tier variant): n=50, median $73, p25 $50, p75 $99.97 — e.g. $119.2 Antique Cast Iron Implement tractor Se (); $109.0 Antique KINGMAN Cast Iron Tractor Impl ()
 
 ## Market
 Pressed seats: steady decor demand (bar stools, garden), ~100+ sales/month. Cast seats: collector niche, smaller but stronger. Spring/summer stronger for farmhouse decor.

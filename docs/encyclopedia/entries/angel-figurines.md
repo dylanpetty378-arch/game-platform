@@ -39,6 +39,7 @@ Asian Lladró-lookalikes (glossy porcelain, no blue mark). Sonny Angel fakes are
 - 1996 Roman Seraphim Classics Summer Delight — $6.50 — Mar 31, 2026 (Terapeak)
 - Seraphim Classics Angel Gloria 78085 1997 — $8.50 — Dec 26, 2025 (Terapeak)
 - Willow Tree Remembrance Angel — $23.71 — Oct 2, 2026 (Terapeak)
+- 2026-10-13 – Terapeak 365d sold, query "Seraphim Classics angel retired" (top-tier variant): n=50, median $24.03, p25 $13.99, p75 $44.99 — e.g. $30.0 Seraphim Classics Rebecca Beautiful Dr (); $6.5 1996 Roman Seraphim Classics Summer De ()
 
 ## Market
 Oversupplied. Seasonal bump Nov–Dec. Many listings sit 60–120 days.

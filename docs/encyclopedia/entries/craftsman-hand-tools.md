@@ -34,6 +34,7 @@ No faking at these prices. Note that modern Chinese "Craftsman" shares the name;
 
 ## Comps (sold, dated)
 No Terapeak sold rows for Craftsman wrenches in our DB; Lens median for this listing was $39 (mixed asks/sold). Adjacent: Craftsman saws Terapeak 365d median $37.95 (n=22, terapeak-wave1). Treat values as estimates.
+- 2026-10-13 – Terapeak 365d sold, query "Craftsman =V= wrench" (top-tier variant): n=50, median $64.99, p25 $55.95, p75 $79.7 — e.g. $68.55 Craftsman CMCF930B 20V 3 8 inch Impact (); $90.57 CRAFTSMAN V Series Sae Reversible Ratc ()
 
 ## Market
 Very liquid (hundreds sold/month on eBay), but prices are low and buyers are mechanics shopping on value. 7–21 days to sell at fair price.

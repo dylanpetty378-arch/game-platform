@@ -55,6 +55,7 @@ Handbags split into three groups for Dylan:
 ## Comps (sold, dated)
 - No dated comps could be retrieved this run (search budget exhausted; eBay and The RealReal blocked). For orientation: The RealReal lists Burberry Haymarket and Nova check totes at about $150–350 (Lens median $300 for the listing seen), and Poshmark Calvin Klein monogram hobos sell at about $25–45 (Lens median $90 is an asking-price figure). All other values are estimates.
 - 2026-10-13 – Terapeak 365d sold, query "Burberry Nova Check shoulder bag": n=47, median $135, p25 $100, p75 $200 — e.g. $169.3 Burberrys BLUE LABEL Nova Check Should (); $102.5 BURBERRY bag Nova Check Coated Crossbo () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Wilardy Lucite purse" (top-tier variant): n=50, median $59.85, p25 $39.99, p75 $126.14 — e.g. $126.14 Wilardy WHITE Pearlized Lucite Handled (); $45.0 Vintage Marbled Gray Lucite Clutch Box ()
 
 ## Market
 This is a huge, fast market on Poshmark, eBay, Mercari and The RealReal. Mid-market bags are saturated and slow. Lucite and vintage-novelty bags sell to a collector niche within weeks at good prices. Luxury moves fast but only with authentication. There's a slight Q4 bump for evening and Lucite bags.

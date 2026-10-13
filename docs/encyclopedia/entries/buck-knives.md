@@ -34,6 +34,8 @@ Buck reissues: "110 50th anniversary", limited editions with early-style marks; 
 ## Comps (sold, dated)
 None in our DB; Lens for this example matched a "1974–1980 BUCK 110" listing with median $245 (likely asks/inflated). Estimates only.
 - 2026-10-13 – Terapeak 365d sold, query "Buck Buck 110 folding knife": n=48, median $14.77, p25 $12.01, p75 $51.9 — e.g. $12.37 5 Dark Brown Leather Sheath for Buck 1 (); $11.67 Leather Knife Sheath Belt Pouch Fits B () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Hoyt Buck knife" (top-tier variant): n=50, median $65, p25 $51.77, p75 $79.99 — e.g. $65.0 Limited Edition Buck Knives Collector (); $79.99 Limited Edition Buck Knives Collector ()
+- 2026-10-13 – Terapeak 365d sold, query "Buck 110 two dot" (top-tier variant): n=49, median $51, p25 $40, p75 $75 — e.g. $26.0 Buck 110 Two Dot from 1974 to 1980 USA (); $82.0 Buck 110 Hunter Two Dot 1974 1980 VTG ()
 
 ## Market
 Very liquid; hundreds of Buck 110s sell monthly. Pre-1986 knives sell quickly when tang stamp is photographed.

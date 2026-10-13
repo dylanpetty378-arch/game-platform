@@ -45,6 +45,8 @@ Wendell August continues production (newer pieces lower than early forge pieces)
 - Terapeak "Wear-Ever aluminum cone sieve with pestle" median $24.99, n=50 (sold) — related.
 - No chafing-dish sold comps this run; est. $20–40 (general knowledge, verify).
 - 2026-10-13 – Terapeak 365d sold, query "aluminum chafing dish": n=50, median $25, p25 $15, p75 $37.3 — e.g. $46.13 Chafing Dish Buffet Disposable Aluminu (); $28.77 Wire Chafing Aluminum Stand Buffet Dis () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Wendell August Forge tray" (top-tier variant): n=50, median $15, p25 $11.77, p75 $22.99 — e.g. $6.17 WENDELL AUGUST FORGE MINI TRAY BASKET (); $9.99 Wendell August Forge 4 x 4 Pittsburgh ()
+- 2026-10-13 – Terapeak 365d sold, query "Russel Wright spun aluminum" (top-tier variant): n=19, median $145, p25 $59.99, p75 $249.95 — e.g. $84.55 Russel Wright Spun Aluminum Bun Warmer (); $600.0 RUSSEL WRIGHT SPUN ALUMINUM CUPS CANDL ()
 
 ## Market
 Low collector demand, high supply. Sell-through ~25–30%; slow.

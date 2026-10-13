@@ -37,6 +37,7 @@ Deldare has some decorator/fake pieces (an old blank decorated later); the 1923�
 
 ## Comps (sold, dated)
 No sold comps were retrieved this run (no web search, and nothing in comps.jsonl). Before buying, pull eBay sold/Terapeak for "Buffalo Pottery Holland jug" and "Deldare". Lens median for the example (Holland pitcher) was $60 (asking-price based).
+- 2026-10-13 – Terapeak 365d sold, query "Buffalo Pottery Deldare" (top-tier variant): n=50, median $37.99, p25 $25, p75 $71 — e.g. $40.0 Buffalo Pottery Deldare Ware 1909 Beer (); $33.0 Buffalo Pottery Deldare Ware Mug Ye Li ()
 
 ## Market
 Collector base is older and shrinking; perfect Deldare still sells steadily, but jugs and dinnerware are slow. eBay sells roughly 20–60 Buffalo Pottery art items per month (order of magnitude, estimate). Typical days to sell: 30–90.

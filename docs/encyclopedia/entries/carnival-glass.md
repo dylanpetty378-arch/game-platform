@@ -39,6 +39,8 @@ Many reproductions of Northwood patterns with fake N marks; Chinese "carnival" i
 ## Comps (sold, dated)
 None in our data. Lens median $114 for the sweep example is asking prices for full Indiana sets.
 - 2026-10-13 – Terapeak 365d sold, query "Indiana Glass Harvest Grape pitcher and": n=49, median $24.99, p25 $18.75, p75 $35 — e.g. $20.0 Vintage Indiana Carnival Glass Pitcher (); $18.0 Indiana Glass White Milk Glass Harvest () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Millersburg carnival glass" (top-tier variant): n=50, median $70, p25 $28, p75 $125 — e.g. $97.5 Marigold Millersburg Carnival Glass Tr (); $160.0 Antique Millersburg Hanging Cherries A ()
+- 2026-10-13 – Terapeak 365d sold, query "Northwood carnival bowl" (top-tier variant): n=50, median $35, p25 $20, p75 $59.5 — e.g. $4.67 AntiqueGreen Carnival Glass Made by No (); $7.25 NICE Vintage 4 5 Northwood Acorn Burrs ()
 
 ## Market
 Old carnival collector base is aging; prices fell since 2000s, rare pieces still strong. Indiana sets sell slowly as decor.

@@ -34,6 +34,8 @@ Modern Chinese "vintage-style" beaded and kiss-lock purses; Whiting & Davis cont
 
 ## Comps (sold, dated)
 No dated sold comps retrievable this run (no web search; no Terapeak rows). Pull Terapeak "advertising coin purse" and "Mandalian mesh purse" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "Whiting Davis mesh purse" (top-tier variant): n=50, median $34, p25 $24, p75 $51.99 — e.g. $89.5 Vintage 1920s 30s Whiting Davis Vintag (); $37.97 Whiting Davis Purses The Perfect Mesh ()
+- 2026-10-13 – Terapeak 365d sold, query "sterling chatelaine purse" (top-tier variant): n=50, median $115.95, p25 $62, p75 $195 — e.g. $19.35 Vintage Sterling Silver Chain Mail Coi (); $10.72 Handmade 1920 s English Purse Sterling ()
 
 ## Market
 Plain coin purses: oversupplied. Advertising: niche but steady (town-name searchers). Mesh/beaded: good vintage-fashion demand on Etsy/eBay.

@@ -37,6 +37,8 @@ All general knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run (no web search; no comps.jsonl rows). The $342 Lens median is driven by complete boxed watch/lighter listings at asking prices — not representative of an unopened box of unknown contents.
+- 2026-10-13 – Terapeak 365d sold, query "Dunhill Rollagas lighter" (top-tier variant): n=48, median $13.29, p25 $6.31, p75 $28.95 — e.g. $10.79 NEW Dunhill Red Flints For ROLLAGAS Li (); $19.57 Service Repair KIT for 2 Vintage dunhi ()
+- 2026-10-13 – Terapeak 365d sold, query "Cartier Must lighter" (top-tier variant): n=49, median $170, p25 $135.5, p75 $200 — e.g. $95.0 Genuine New Cartier Must Lighter Gas T (); $174.66 Original MUST DE CARTIER GOLD Plated w ()
 
 ## Market
 Liquid for recognisable items; slow for generic licensed cufflinks/keyrings. Japan and Europe sellers flood eBay with similar sets. Order of magnitude 100s/month across all "vintage YSL accessories" (general knowledge, verify).

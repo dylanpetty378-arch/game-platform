@@ -37,6 +37,7 @@ This is one of the most faked categories in antiques: "Xuande" censers, "Zhang M
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens medians ($100–300) reflect eBay/Etsy asking prices. Estimates (general knowledge, verify): pair of brass dragon wall plaques $30–60; engraved Chinese brass dragon bowl $25–60; 20th-c. brass hand warmer $60–150.
+- 2026-10-13 – Terapeak 365d sold, query "Chinese bronze censer" (top-tier variant): n=50, median $31.71, p25 $19.2, p75 $89 — e.g. $17.09 Chinese Pure Bronze Brass Fengshui Lio (); $14.55 2 56 Collection Rare Chinese Bronze co ()
 
 ## Market
 Strong Chinese-buyer auction market for genuine antiques; decorative export brass is abundant and slow. No seasonality.

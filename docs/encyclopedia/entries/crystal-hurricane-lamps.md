@@ -34,6 +34,8 @@ Unmarked "Waterford style" imports; seller "Waterford" claims without etched mar
 ## Comps (sold, dated)
 None retrieved this run.
 - 2026-10-13 – Terapeak 365d sold, query "Waterford-style crystal hurricane lamps": n=19, median $79, p25 $38, p75 $108 — e.g. $251.0 Vintage Waterford Crystal Inishturk Br (); $99.0 Waterford Crystal Ha Chara Failte Hurr () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Baccarat hurricane lamp" (top-tier variant): n=12, median $250, p25 $140, p75 $300 — e.g. $399.0 Baccarat France Crystal Glass Lamp Can (); $140.0 Baccarat 11 Etched Glass Hurricane Can ()
+- 2026-10-13 – Terapeak 365d sold, query "Waterford hurricane lamp" (top-tier variant): n=50, median $94.99, p25 $67, p75 $170 — e.g. $67.5 Waterford PENROSE Crystal 2 piece Hurr (); $99.95 Waterford Crystal Prescott 9 5 Hurrica ()
 
 ## Market
 Slow; glass lamps ship poorly; local sale often best.

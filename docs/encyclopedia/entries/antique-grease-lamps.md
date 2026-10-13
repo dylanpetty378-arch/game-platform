@@ -34,6 +34,8 @@ Betty lamps were widely reproduced in the 20th century (colonial-revival tin and
 
 ## Comps (sold, dated)
 No sold data in comps.jsonl and no web search. Lens median $350 for the example came from Swedish iron "fire lighters" — unrelated; ignore.
+- 2026-10-13 – Terapeak 365d sold, query "wrought iron betty lamp" (top-tier variant): n=50, median $60, p25 $40, p75 $85 — e.g. $50.0 ANTIQUE WROUGHT IRON HAND FORGED CRUIS (); $60.0 Antique Betty Lamp Wrought Sheet Iron ()
+- 2026-10-13 – Terapeak 365d sold, query "crusie lamp iron" (top-tier variant): n=49, median $82, p25 $50, p75 $150 — e.g. $98.99 Primitive Phoebe Double Crusie Wrought (); $75.0 Antique 18th C Double Betty Lamp Crusi ()
 
 ## Market
 Small collector niche (Rushlight Club, primitives buyers). Plain items sell slowly.

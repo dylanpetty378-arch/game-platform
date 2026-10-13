@@ -44,6 +44,8 @@ Halftone reproductions of Currier & Ives and Parrish are everywhere (often title
 - 2025-10 to 2026-10 – eBay via Terapeak – "decorative prints" median $11.79, n=42 (comps.jsonl).
 - 2025-10 to 2026-10 – eBay via Terapeak – "Grandma Moses framed reproduction print" median $30, n=5 (comps.jsonl).
 - Antique chromolithograph examples not retrievable this run; verify before buying.
+- 2026-10-13 – Terapeak 365d sold, query "Currier Ives large folio" (top-tier variant): n=24, median $300, p25 $125.28, p75 $450 — e.g. $300.0 Rare Large Folio Currier Ives Era A HO (); $325.0 Currier Ives American Country Life May ()
+- 2026-10-13 – Terapeak 365d sold, query "Wallace Nutting hand colored print" (top-tier variant): n=50, median $34.99, p25 $27.99, p75 $59 — e.g. $170.0 Vtg WALLACE NUTTING Hand Colored Frame (); $44.99 Wallace Nutting Hand Colored Enticing ()
 
 ## Market
 Weak; large framed items are hard to ship and buyers prefer local. Frames sell better than the prints. Dealers pick the Currier & Ives and Parrish originals quickly.

@@ -37,6 +37,8 @@ Large volumes of reproduction cast-iron and brass Victorian hardware (Asian impo
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens medians ($119–320) are asking prices. Estimates (general knowledge, verify): ornate Victorian bronze knob + backplate set $50–150; glazed terra cotta egg-and-dart block $50–150 local; reproduction barley-twist spindle $5–15.
+- 2026-10-13 – Terapeak 365d sold, query "Sargent bronze door hardware" (top-tier variant): n=16, median $49.99, p25 $39.85, p75 $85 — e.g. $72.28 SARGENT ASSA ABLOY 8205 LNJ 26D Mortis (); $35.0 Sargent Assa Abloy 28 10U15 L P 10B Li ()
+- 2026-10-13 – Terapeak 365d sold, query "antique stained glass window" (top-tier variant): n=50, median $186.85, p25 $36, p75 $415 — e.g. $189.69 25 inch Antique Vintage Style Iris Sta (); $17.1 S6 Antique Vtg Early 1900s Baby Blue F ()
 
 ## Market
 Strong local demand (renovators, designers); shipping limits online sales of heavy items. Hardware sells well online. Spring/summer renovation season bump.

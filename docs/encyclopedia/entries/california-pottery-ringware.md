@@ -35,6 +35,8 @@ Bauer Pottery Company of Los Angeles reissued ringware shapes in the 2000s (newe
 - 2026 (eBay listings found via search, **asking, not sold**) – Bauer ringware #9 orange inside-rings 11" – $89–120
 - 2026 (asking) – Bauer ringware #18 orange – $45–65
 - 2026 (asking) – Bauer butterscotch #18 beehive nested bowl – $55
+- 2026-10-13 – Terapeak 365d sold, query "Bauer ringware black" (top-tier variant): n=18, median $45, p25 $27.99, p75 $68 — e.g. $65.0 Vintage Black Bauer Ringware Mixing Bo (); $65.0 Black Bauer RINGWARE Hi Fire 8 inch va ()
+- 2026-10-13 – Terapeak 365d sold, query "Bauer ring ware jade" (top-tier variant): n=21, median $34.99, p25 $19.12, p75 $56.23 — e.g. $9.5 Vintage Bauer Pottery Ring Ware Jade G (); $33.0 BAUER POTTERY JADE RING WARE COOKIE JA ()
 
 ## Market
 Steady but thin: about a dozen orange ringware mixing bowls sold in Terapeak's window. Buyers are California-pottery collectors, mid-century kitchen decorators and Fiesta crossover buyers. Asking prices on eBay run well above what actually sells. Sells on eBay and Etsy; local antique malls in California price high. No strong seasonality (general knowledge, verify).

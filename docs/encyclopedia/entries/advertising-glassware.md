@@ -33,6 +33,8 @@ A&W and Coca-Cola reissued retro designs repeatedly; Coca-Cola syrup-line glasse
 ## Comps (sold, dated)
 None gathered. Lens median for the example was $15.
 - 2026-10-13 – Terapeak 365d sold, query "A&W root beer mugs": n=50, median $11.99, p25 $8.47, p75 $18 — e.g. $19.99 A W Root Beer Glass Mug 1919 2019 100 (); $21.95 Vintage A W Root Beer Soda Mug Dimple () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Coca-Cola syrup line glass" (top-tier variant): n=16, median $19.99, p25 $9.99, p75 $24.5 — e.g. $69.99 3 Federal Coca Cola Glasses In Pewter (); $95.0 1920s Coca Cola Flared Glass With Syru ()
+- 2026-10-13 – Terapeak 365d sold, query "Hires root beer mug" (top-tier variant): n=50, median $16.49, p25 $10, p75 $25 — e.g. $14.0 HIRES ROOT BEER MUG FROSTED GLASS TALL (); $6.99  Vintage HIRES Root Beer 5c MUG Coloni ()
 
 ## Market
 Huge supply, buyers are casual nostalgia shoppers. Slow.

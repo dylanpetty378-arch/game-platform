@@ -35,6 +35,7 @@ General knowledge, verify: reproduction "nostalgia" radios (Crosley, Thomas, Spa
 
 ## Comps (sold, dated)
 - None yet. Only the summary range above (Zenith H725-type $70–130 working, $30–60 untested), undated.
+- 2026-10-13 – Terapeak 365d sold, query "Zenith Trans-Oceanic radio" (top-tier variant): n=50, median $49.82, p25 $32, p75 $100 — e.g. $30.09 AC DC Adapter For Zenith Royal 1000 1 (); $36.0 Zenith Trans Oceanic H500 Complete Rec ()
 
 ## Market
 General knowledge, verify: steady but soft market for common brown sets (decor and hobby restorers); strong collector market for Catalin and Art Deco designs. eBay and local pickup; restored-and-working sets sell much better than untested.

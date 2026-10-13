@@ -33,6 +33,7 @@ Not faked; Avon reissued many shapes.
 - No other dated comps in comps.jsonl; Lens median for the lot $71 and for the Cape Cod decanter $25 (asking-heavy).
 - 2026-10-13 – Terapeak 365d sold, query "Avon figural cologne decanters": n=28, median $10, p25 $7.99, p75 $16.9 — e.g. $18.45 Avon Bird of Paradise cologne decanter (); $5.95 Vintage Avon Liberty Bell Glass Decant () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Avon 1876 Cape Cod decanter": n=50, median $16.5, p25 $13, p75 $24 — e.g. $12.87 Avon Cape Cod Ruby Red Collection 1876 (); $24.53 Avon Cape Cod Ruby Red Collection 1876 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Avon Cape Cod 1876 decanter" (top-tier variant): n=50, median $16.5, p25 $13, p75 $24 — e.g. $12.87 Avon Cape Cod Ruby Red Collection 1876 (); $24.53 Avon Cape Cod Ruby Red Collection 1876 ()
 
 ## Market
 Oversupplied, very slow; collectors aging.

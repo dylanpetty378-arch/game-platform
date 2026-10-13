@@ -40,6 +40,8 @@ Spare limb sets (Hoyt XT3000/XT2000) sell $60–120 a pair; sights, Doinker stab
 - 2026-10-12 – Terapeak Hoyt UltraTec – 15 sold, median $200, p25 $150, p75 $235
 - 2025 – Hoyt MAGNATec XT2000, needs new string – $150 **ask** (eBay)
 - 2025 – Hoyt UltraTec XT2000 – $300 **ask** (eBay); ProTec XT2000 $275 ask
+- 2026-10-13 – Terapeak 365d sold, query "Mathews Switchback compound bow" (top-tier variant): n=50, median $410, p25 $275, p75 $449.99 — e.g. $85.23 Mathews Switchback or Switchback XT Bo (); $69.35 NEW MATHEWS SWITCHBACK XT custom bow s ()
+- 2026-10-13 – Terapeak 365d sold, query "Hoyt UltraTec compound bow" (top-tier variant): n=19, median $150, p25 $100, p75 $220 — e.g. $220.0 Hoyt ultra tec RH Compound Bow 70lb 30 (); $100.0 Hoyt XT2000 Compound bow UltraTec weig ()
 
 ## Market
 Steady; peaks before fall hunting season (Aug–Oct). Buyers: hunters on a budget, target archers, ArcheryTalk and FB archery groups (no-fee venues). Bows depreciate fast as new models release yearly (general knowledge, verify).

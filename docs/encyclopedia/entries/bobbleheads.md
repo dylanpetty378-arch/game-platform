@@ -36,6 +36,8 @@ Neck cracks/head breaks, repaint, missing springs, box damage.
 - Terapeak: "Santa Claus Rudolph Red Nosed Reindeer Bobblehead NOS 2…" $29.95 (Jan 31, 2026).
 - Terapeak: "COMPLETE Rudolph the Red-Nosed Reindeer Bobblehead 10pc" $314.99 (Sep 19, 2026).
 - Terapeak: "LA Dodgers Miguel Rojas Game 7 Home Run Bobblehead" $105.91 (Aug 8, 2026).
+- 2026-10-13 – Terapeak 365d sold, query "Beatles bobblehead Car Mascots" (top-tier variant): n=43, median $110, p25 $69, p75 $225 — e.g. $66.01 BEATLES ORIGINAL 1964 JOHN LENNON CAR (); $59.95 BEATLES ORIGINAL 1964 GEORGE HARRISON ()
+- 2026-10-13 – Terapeak 365d sold, query "1960s nodder baseball" (top-tier variant): n=50, median $125, p25 $71.99, p75 $245.5 — e.g. $134.99 Vintage 1960s New York Mets Bobblehead (); $75.0 1960 s Vintage ST LOUIS CARDINALS NFL ()
 
 ## Market
 High volume; holiday items seasonal (Nov–Dec).

@@ -52,6 +52,8 @@ Lalique: fake "R. LALIQUE" signatures added to post-war or other-maker pieces (w
 
 ## Comps (sold, dated)
 No sold comps were retrievable this run (no web search, no Terapeak rows). Estimate basis: general knowledge of eBay sold ranges for unsigned Czech orange/black twisted candlestick pairs at roughly $40–110 (general knowledge, verify). The Lens median for pid 7982447091 was $109 from an Etsy "Vintage Art Deco Glass Console Set • Orange & Black" listing (asking price, a full console set, not sold).
+- 2026-10-13 – Terapeak 365d sold, query "R. Lalique vase" (top-tier variant): n=45, median $643.99, p25 $300, p75 $1180 — e.g. $75.0 Barolac Satin Frosted Art Deco Polishe (); $168.5 1930s R Lalique Ren Lalique Graines Se ()
+- 2026-10-13 – Terapeak 365d sold, query "Ruba Rombic glass" (top-tier variant): n=40, median $150, p25 $80, p75 $375 — e.g. $14.72 Consolidated Art Glass 1930 31 catalog (); $52.0 Vintage GE Mazda Ruba Rombic Glass Lig ()
 
 ## Market
 Steady but niche; decorators buy Tango colours for mid-century/deco rooms. Unsigned pairs: a few dozen eBay sales per month across all forms; sell-through modest (~30–40%); 2–8 weeks to sell at fair price. Signed French glass sells faster and at auction.

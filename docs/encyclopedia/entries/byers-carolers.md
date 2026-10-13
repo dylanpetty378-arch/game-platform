@@ -30,6 +30,8 @@ No real forgery market; many inexpensive look-alikes.
 ## Comps (sold, dated)
 None specific; adjacent Terapeak "vintage christmas decorations" median $12.26 (n=44). Estimates only.
 - 2026-10-13 – Terapeak 365d sold, query "Byers' Choice caroler figurine": n=48, median $39, p25 $25, p75 $59.99 — e.g. $99.99 2022 Byers Choice Halloween Witch with (); $76.02 Byers Choice Caroler Condo Figurine St () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Byers Choice Cries of London" (top-tier variant): n=50, median $28.73, p25 $22, p75 $35.99 — e.g. $35.99 Byers Choice Carolers 1996 Man GINGERB (); $28.73 1999 Byers Choice Carolers Cries of Lo ()
+- 2026-10-13 – Terapeak 365d sold, query "Byers Choice caroler retired" (top-tier variant): n=50, median $34.95, p25 $22, p75 $39.99 — e.g. $28.73 1999 Byers Choice Carolers Cries of Lo (); $37.95 1999 Byers Choice Caroler Retired Cry ()
 
 ## Market
 Seasonal Q4 peak; lots of supply from estates; moderate prices.

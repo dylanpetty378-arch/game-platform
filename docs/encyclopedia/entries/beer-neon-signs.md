@@ -33,6 +33,8 @@ Licensed reproduction neon clocks (Cheerwine, Coke) are the common case. LED "ne
 
 ## Comps (sold, dated)
 - (knowledge-based: 15" Coors neon signs sell ~$90–150 on eBay; neon clocks $60–120) – no dated sold comps pulled.
+- 2026-10-13 – Terapeak 365d sold, query "Hamm's neon sign" (top-tier variant): n=50, median $128.2, p25 $113.39, p75 $142 — e.g. $131.31 16 Hamm s Beer Bear Sign Neon Clock Ga (); $191.11 Hamm s Beer Since 1865 Wall 24 x20 Viv ()
+- 2026-10-13 – Terapeak 365d sold, query "Lone Star beer neon" (top-tier variant): n=50, median $127.98, p25 $116.8, p75 $185 — e.g. $44.22 16 x15 Lone Star Beer Shield LED Neon (); $110.82 New Texas Lone Star Neon Light Sign 17 ()
 
 ## Market
 Bar/man-cave decorators; very common supply. Best sold locally (Facebook Marketplace/Craigslist) because shipping is risky (general knowledge, verify). Gift-season demand may lift prices in Nov–Dec (general knowledge, verify).

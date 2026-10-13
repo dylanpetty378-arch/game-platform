@@ -37,6 +37,7 @@ Mattel's own reproductions of vintage dolls (e.g. 35th-anniversary #1 ponytail r
 
 ## Comps (sold, dated)
 - No dated sold comps recorded. Knowledge bands 2024–25 (eBay sold): Holiday Barbie 1988 NRFB $150–300, 1990s Holiday $20–40; Hollywood Legends Marilyn 1997 $40–70; I Love Lucy "Job Switching" 1999 $25–40; Silkstone BFMC $150–400.
+- 2026-10-13 – Terapeak 365d sold, query "Barbie #1 ponytail" (top-tier variant): n=50, median $21.24, p25 $14, p75 $38.58 — e.g. $17.3  Barbie WHITE Long Tricot GLOVES Vinta (); $38.99 VINTAGE Face BARBIE Nude BLOND Ponytai ()
 
 ## Market
 Very oversupplied for 1990s boxed collector lines; strong and steady for vintage, Silkstone and Mackie. Buyers: adult doll collectors, nostalgia buyers. Q4 bump for Holiday Barbies (general knowledge, verify). eBay is the main venue.

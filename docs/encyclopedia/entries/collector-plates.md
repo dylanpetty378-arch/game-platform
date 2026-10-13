@@ -43,6 +43,8 @@ Not commonly faked because values are low. "Limited edition" by firing days mean
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): Bradford Exchange single plates typically sell $3–12 and many sell only in lots; Royal Worcester Fabulous Birds $10–25; Lena Liu $5–15.
 - 2026-10-13 – Terapeak 365d sold, query "Bradford Exchange Lena Liu Floral Cameos": n=50, median $14.39, p25 $10, p75 $25.95 — e.g. $30.0 Vintage Lena Liu s Floral Cameos Cheri (); $7.48 Bradford Exchange Remembrance by Lena () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "B&G 1895 plate" (top-tier variant): n=34, median $25, p25 $14.24, p75 $29.99 — e.g. $19.99 B G Bing Grondahl 9 Christmas Plate 18 (); $10.0 1895 1965 B G Bing Grondahl First 70 Y ()
+- 2026-10-13 – Terapeak 365d sold, query "Royal Copenhagen Christmas plate 1910" (top-tier variant): n=40, median $40, p25 $26, p75 $50 — e.g. $44.1 Royal Copenhagen 1910 Denmark Julen Ch (); $19.99 Royal Copenhagen Christmas Plate 1910 ()
 
 ## Market
 Collapsed and oversupplied; thrift stores and estates are full of them. Lots move slowly at $1–5 per plate. Sterling and early Danish plates are the exceptions.

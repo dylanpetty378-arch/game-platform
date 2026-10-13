@@ -34,6 +34,8 @@ Repros flood the market, especially porcelain Shell/Texaco/Harley signs. Reprodu
 
 ## Comps (sold, dated)
 No dated sold comps pulled yet. Reference ranges: Richmond Auctions / Morphy porcelain Shell signs $800–5,000; Joe Camel floor ashtray asks $150–300 (eBay 2025, asks).
+- 2026-10-13 – Terapeak 365d sold, query "porcelain Texaco sign" (top-tier variant): n=44, median $62, p25 $45.5, p75 $79.99 — e.g. $50.9 Set of 2 TEXACO Gas Station Restroom K (); $36.0 CONTAINS LEAD Porcelain Sign Gas Pump ()
+- 2026-10-13 – Terapeak 365d sold, query "porcelain Mobil Pegasus sign" (top-tier variant): n=47, median $125, p25 $53.5, p75 $200 — e.g. $182.3 Vintage Mobil OIL Gasoline Sign Pegasu (); $174.44 Vintage Mobil OIL Gasoline Sign Pegasu ()
 
 ## Market
 Large decorator and "man cave" market plus serious petroliana collectors. Small signs sell on eBay; large originals through Morphy/Richmond auctions; big signs and neons are local-pickup items (general knowledge, verify).

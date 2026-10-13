@@ -38,6 +38,8 @@ Post-1960s regimental reproductions (thin, glossy, no lithophane, "West Germany"
 - 2022 – Heritage – Mettlach #2001 King Gambrinus – $9,775 (appraisily; note: Mettlach form 2001 is usually cited as the "book" stein series – verify this attribution)
 - 2021 – Hermann Historica – Imperial Navy regimental – $4,250 (appraisily; exceptional)
 - 2026-10 – CL various – 6 German steins $20, 9 German steins $95, dozen milk-glass $125, Budweiser Clydesdale $25 – all tourist/novelty, passed (asks)
+- 2026-10-13 – Terapeak 365d sold, query "Mettlach etched stein" (top-tier variant): n=50, median $178.5, p25 $115.5, p75 $240 — e.g. $75.0 Mettlach Stein 1999 1 2 Liter Etched L (); $450.0 Antique Vintage Mettlach Stein No 1786 ()
+- 2026-10-13 – Terapeak 365d sold, query "regimental stein lithophane" (top-tier variant): n=49, median $98, p25 $70, p75 $155 — e.g. $85.0 German Military Regimental Porcelain P (); $130.0 Imperial German Regimental Reservist S ()
 
 ## Market
 Huge supply of tourist steins (slow, cheap); a serious collector base (Stein Collectors International) for Mettlach, regimentals and character steins, served by specialist auctions (e.g. Fox Auctions) (general knowledge, verify). Budweiser steins have a nostalgia market with soft prices.

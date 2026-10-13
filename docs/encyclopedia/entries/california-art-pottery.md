@@ -36,6 +36,7 @@ Bauer lookalikes (Pacific, Garden City) and later Bauer reissues (the brand revi
 - 2026 – eBay active – Metlox Romanelli "water bearer" nude bud vase 9", white – $99 ask
 - 2026 eBay sold (typical) – Metlox Romanelli nude/figural vase 9–10" – $80–200 depending on form and glaze
 - 2026 eBay sold – Bauer ringware 12" low bowl orange – $80–150; Bauer oil jar #100 20" – $600–1,500
+- 2026-10-13 – Terapeak 365d sold, query "Kay Finch figurine" (top-tier variant): n=49, median $30, p25 $19, p75 $60 — e.g. $98.99 VINTAGE KAY FINCH CALIFORNIA POTTERY E (); $24.0 MidCentury White Owl Ceramic Figurine ()
 
 ## Market
 Strong West Coast collector base and mid-century decorators; eBay and Etsy for small pieces, regional auction (e.g. California design sales) for large Bauer and Catalina Island (general knowledge, verify). Dinnerware is slow.

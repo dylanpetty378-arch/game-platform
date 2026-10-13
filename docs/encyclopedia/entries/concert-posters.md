@@ -33,6 +33,8 @@ Fillmore/Family Dog posters had many later printings and outright counterfeits; 
 
 ## Comps (sold, dated)
 - (no dated comp located for this exact poster; eBay sold ranges for 1985 arena-tour pole posters run $40–120 – knowledge-based)
+- 2026-10-13 – Terapeak 365d sold, query "Fillmore poster first printing" (top-tier variant): n=28, median $150, p25 $100, p75 $289 — e.g. $69.0 Chuck Berry Jethro Tull Chicago FILLMO (); $100.0 The Red Hot Chili Peppers Fillmore Pos ()
+- 2026-10-13 – Terapeak 365d sold, query "Family Dog poster first print" (top-tier variant): n=13, median $100, p25 $7.35, p75 $124 — e.g. $5.0 4 Historical Western Paperback Books R (); $7.35 Huckleberry Hound 8 Dec 1960 GD VG ()
 
 ## Market
 Active collector market on eBay, Heritage and specialist dealers; buyers are band fans and rock-art collectors. Prices track band popularity and anniversaries; top posters go to Heritage/specialist auctions (general knowledge, verify).

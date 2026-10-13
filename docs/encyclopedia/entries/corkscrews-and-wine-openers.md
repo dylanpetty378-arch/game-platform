@@ -35,6 +35,8 @@ High: decorative bar mounts sold as antiques, Chinese mechanical repros of Engli
 ## Comps (sold, dated)
 - 2026-10-09 – eBay – "Antique Vintage Style Rack & Pinion Kings Corkscrew" (reproduction) – $21.55 (Terapeak via comps.jsonl)
 - Others: none fetched this run.
+- 2026-10-13 – Terapeak 365d sold, query "antique mechanical corkscrew patent" (top-tier variant): n=4, median $94, p25 $40, p75 $100 — e.g. $150.0 Antique Double Lever Patent Mechanical (); $40.0 Antique Stephen Plant s Patent 5549 Wu ()
+- 2026-10-13 – Terapeak 365d sold, query "Williamson corkscrew" (top-tier variant): n=48, median $22.5, p25 $17, p75 $39.99 — e.g. $18.95 Williamsons Corkscrew Antler Handle Vi (); $35.0 Vintage Williamson PAL Corkscrew with ()
 
 ## Market
 Active collector base (ICCA), originals sell quickly; repros slow and cheap.

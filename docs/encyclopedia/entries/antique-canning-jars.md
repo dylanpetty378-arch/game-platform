@@ -32,6 +32,8 @@ Ball's own 2010s Heritage Collection coloured "Perfect Mason" (blue, green, purp
 ## Comps (sold, dated)
 No dated comps retrievable this run (no web search; no Terapeak rows). Pull Terapeak "ball ideal aqua quart" before buying more than one or two jars. Lens median $26 for the example (asking prices).
 - 2026-10-13 – Terapeak 365d sold, query "Ball aqua Ideal canning jar": n=50, median $12.75, p25 $8.99, p75 $16 — e.g. $12.19 Vintage BALL Ideal Mason Canning Jar A (); $20.88 Lot of 2 Vintage Aqua Blue Wire Bail C () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "cobalt Mason's Patent 1858 jar" (top-tier variant): n=26, median $45, p25 $28, p75 $77 — e.g. $37.5 Cobalt Blue Mason s Jar Patent Nov 30t (); $22.0 COBALT MASON S PATENT NOV 30TH 1858 CR ()
+- 2026-10-13 – Terapeak 365d sold, query "wax sealer fruit jar" (top-tier variant): n=50, median $30, p25 $16, p75 $86 — e.g. $126.0 NICE AMBER COLORED WAX SEALER FRUIT JA (); $20.0 antique fruit jar wax sealer Ball Stan ()
 
 ## Market
 Enormous supply; aqua Balls sell slowly at $8–20 mainly for décor and weddings. Off-colour and rare jars sell quickly to fruit-jar collectors and at specialist auctions.

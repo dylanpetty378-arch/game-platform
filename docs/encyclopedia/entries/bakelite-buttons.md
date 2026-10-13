@@ -40,6 +40,8 @@ Chips, cracks, missing shanks, paint loss on reverse-carved designs, re-polishin
 
 ## Comps (sold, dated)
 No sold comps retrievable this run. Lens median $75 for pid 7930082394 came from asks. Pairs of sporting figural plastic buttons est. $10–40 sold (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "bakelite realistic buttons" (top-tier variant): n=50, median $14.99, p25 $9.99, p75 $27 — e.g. $4.5 Vintage Bakelite Realistics Buttons Va (); $22.5 Seven Realistic Bakelite Buttons ()
+- 2026-10-13 – Terapeak 365d sold, query "Le Chic bakelite buttons card" (top-tier variant): n=3, median $15, p25 $13, p75 $15 — e.g. $15.0 2 Vintage Bakelite Buttons Art Deco Le (); $13.0 Vintage Buttons On Cards Le Chic Lansi ()
 
 ## Market
 Dedicated button collectors (NBS); eBay listings sell modestly; button jar lots sell well.

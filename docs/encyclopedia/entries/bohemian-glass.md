@@ -51,6 +51,8 @@ Glass made in Bohemia (today's Czech Republic) from the 1700s to now. Three very
 - Lens median for the ruby tumble-up was $69 (asking prices, 2026-10).
 - 2026-10-13 – Terapeak 365d sold, query "Czech crystal dish ashtray": n=8, median $18, p25 $11.49, p75 $30 — e.g. $11.49 BOHEMIAN CZECH COBALT BLUE Cut to Clea (); $25.0 Vintage Glass Shoe Ashtray Clear Cryst () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "ruby cut-to-clear tumble-up": n=38, median $33.11, p25 $20, p75 $40 — e.g. $29.99 Vintage Ruby Red Cut to Clear Glass 7 (); $38.58 Bohemian Ruby Red Cut to Clear Glass T () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Moser enamel vase" (top-tier variant): n=50, median $95, p25 $49.99, p75 $175 — e.g. $600.0 Moser Bohemia SPECTACULAR 19C ENAMELED (); $210.0 Antique Moser Vase 1 Applied Fish Rais ()
+- 2026-10-13 – Terapeak 365d sold, query "Egermann glass" (top-tier variant): n=49, median $47.99, p25 $30, p75 $59.99 — e.g. $160.0 BOHEMIAN CZECH ART GLASS GILT 20 TALL (); $355.0 uranium vaseline Bohemian Egermann sty ()
 
 ## Market
 Large supply, modest demand. Foil-label crystal sells slowly (weeks to months) at low prices. Ruby engraved sets move steadily to decor buyers, especially Nov–Dec. Signed Moser and Loetz sell fast at auction and to dealers. Sklo Union pressed glass is a growing MCM niche.

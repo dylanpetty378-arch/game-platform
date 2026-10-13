@@ -36,6 +36,7 @@ No fakes known to matter. Reissues/revisions (AER Compact 60/2, /3, /4) differ i
 - 2025–26 – Roland AC-100 working – $250–350 (eBay/Reverb sold)
 - 2025–26 – Fishman Loudbox Mini – $180–250
 - 2025–26 – AER Compact 60/3 – $550–750
+- 2026-10-13 – Terapeak 365d sold, query "AER Compact 60 acoustic amp" (top-tier variant): n=9, median $1000, p25 $850, p75 $1399 — e.g. $850.0 AER 60 compact amp 60 3 Acoustic Guita (); $150.0 AER Compact 60 4 60W 1x8 Acoustic Guit ()
 
 ## Market
 Steady used market among gigging acoustic players, worship-band musicians and buskers; sells best on Reverb (~8%) and locally (general knowledge, verify). Local sale avoids the heavy-amp shipping problem. No strong seasonality.

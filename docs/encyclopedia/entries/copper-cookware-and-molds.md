@@ -32,6 +32,8 @@ General knowledge, verify.
 ## Comps (sold, dated)
 No sold comps verified this run.
 - 2026-10-13 – Terapeak 365d sold, query "mini copper molds": n=50, median $15.5, p25 $12, p75 $19.99 — e.g. $72.36 Set of 4 or 6 Copper Canele Pastry Mol (); $9.38 Wiha 35392 5 piece Micro Metric Short () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Mauviel copper saucepan 2.5mm" (top-tier variant): n=13, median $258.22, p25 $170, p75 $293.97 — e.g. $258.22 Vintage 7 1inch Copper Saucepan Mauvie (); $307.96 Mauviel M Heritage M 250C 2 5mm Copper ()
+- 2026-10-13 – Terapeak 365d sold, query "antique copper jelly mold" (top-tier variant): n=50, median $79, p25 $45, p75 $119 — e.g. $249.91 1890s Hand Hammered Antique English Vi (); $120.0 Antique Copper Benham Froud Jelly Moul ()
 
 ## Market
 Decorative molds: oversupplied, slow. Heavy French copper: liquid, strong buyer base (cooks and collectors).

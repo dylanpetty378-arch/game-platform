@@ -42,6 +42,8 @@ Chinese "stencil" clarinets with invented brand names; occasional counterfeit Bu
 - 2025 – Selmer Paris Series 9, pre-owned – $2,000 **ask** (Alamo Music – dealer asking, not a sold comp)
 - 2025 – Selmer USA Signet Soloist 1960s, professionally restored – $495 (Palen Music, sold out)
 - 2025 – Selmer CL300/Bundy plastic – $75–130 band (eBay sold, agent knowledge)
+- 2026-10-13 – Terapeak 365d sold, query "Buffet R13 clarinet" (top-tier variant): n=49, median $1000, p25 $500, p75 $1350 — e.g. $34.21 Buffet Pre R13 Wood Bb Clarinet REPLAC (); $92.67  OPEN BOX Buffet R13 A Clarinet Barrel ()
+- 2026-10-13 – Terapeak 365d sold, query "Selmer Centered Tone clarinet" (top-tier variant): n=49, median $425, p25 $300, p75 $650 — e.g. $765.0 Vintage Late 50 s Selmer CT Centered T (); $810.47 Selmer Paris Centered Tone Professiona ()
 
 ## Market
 Huge supply of student horns (school band leftovers) – slow, cheap, saturated, peaks in Aug–Sept back-to-school season. Pro horns sell steadily on Reverb/eBay and to repair techs/dealers; buyers want serial numbers and recent overhaul (general knowledge, verify).

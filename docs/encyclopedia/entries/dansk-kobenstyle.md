@@ -34,6 +34,8 @@ Dansk's own 2012+ reissues are the main confusion: marked "Dansk Kobenstyle" and
 ## Comps (sold, dated)
 - eBay Oct 2026 listing (**asking**): Dansk France yellow 13" paella pan – ~$150–200
 - eBay sold memory 2025 (not specific sales): yellow 4-qt France casserole ~$90–130; red 2-qt ~$60; complete fondue set ~$120–180
+- 2026-10-13 – Terapeak 365d sold, query "Dansk Kobenstyle paella pan France" (top-tier variant): n=50, median $32.99, p25 $28.77, p75 $44.99 — e.g. $45.0 Vintage MCM DANSK Kobenstyle Large BRO (); $39.99 DANSK DESIGNS 10 PAELLA PAN GREEN WHIT ()
+- 2026-10-13 – Terapeak 365d sold, query "Dansk Kobenstyle black" (top-tier variant): n=50, median $53.99, p25 $32, p75 $63 — e.g. $17.83 Dansk Kobenstyle White Coffee Mug With (); $13.99 Dansk Kobenstyle Mug 10284100 ()
 
 ## Market
 Steady mid-century-modern kitchen market: eBay, Etsy, Chairish, 1stDibs. Buyers are MCM collectors and cooks who use it. Dealer asks on Chairish run high. Mild Q4 gift bump (general knowledge, verify).

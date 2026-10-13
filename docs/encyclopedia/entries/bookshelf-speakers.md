@@ -32,6 +32,8 @@ Unauthorized LS3/5A clones and kit versions; otherwise low.
 ## Comps (sold, dated)
 No dated sold comps fetched this run. Sweep Lens median $35 consistent with junk tier.
 - 2026-10-13 – Terapeak 365d sold, query "Technics 3-piece speaker system": n=7, median $35.99, p25 $18.39, p75 $39.75 — e.g. $34.95 Technics 3 Piece Speaker System SB S92 (); $39.99 Technics 3 Piece Speaker System SB S35 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Rogers LS3/5A" (top-tier variant): n=47, median $1000, p25 $22.09, p75 $1850 — e.g. $200.0 LS3 5A B 110 T27 15 ohm speaker crosso (); $18.79 Pair 2 Rogers LS3 5A LS3 Speaker Banan ()
+- 2026-10-13 – Terapeak 365d sold, query "KEF LS3/5A" (top-tier variant): n=17, median $90, p25 $18.41, p75 $212 — e.g. $17.64 LS3 5A speaker screw 1 set for KEF B 1 (); $90.0 AB1 speaker crossover LS3 5A subwoofer ()
 
 ## Market
 Big category, fast for named classics; mass-market sets barely sell (shipping exceeds value).

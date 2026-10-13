@@ -33,6 +33,8 @@ None known. Later reissues/budget versions of the same model numbers exist (gene
 
 ## Comps (sold, dated)
 - (knowledge-based: Millers Falls 120B breast drill sells $45–80 on eBay 2025–26) – no dated sold comps pulled.
+- 2026-10-13 – Terapeak 365d sold, query "Millers Falls No. 2 drill" (top-tier variant): n=50, median $32.5, p25 $26, p75 $39.73 — e.g. $39.73 Millers Falls No 10 Vintage Woodworker (); $10.0 VINTAGE HEAVY DUTY MILLER S FALLS 1 2 ()
+- 2026-10-13 – Terapeak 365d sold, query "Goodell-Pratt breast drill" (top-tier variant): n=50, median $35, p25 $19.99, p75 $54 — e.g. $64.0 Antique Goodell Pratt Co Toolsmith No (); $28.5 Orig Auxiliary Side Handle for Goodell ()
 
 ## Market
 Woodworkers (hand-tool users) and tool collectors; steady eBay demand, moderate prices (general knowledge, verify).

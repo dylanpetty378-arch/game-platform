@@ -39,6 +39,8 @@ Counterfeit Milwaukee/DeWalt/Makita batteries are widespread on eBay/Amazon/mark
 ## Comps (sold, dated)
 - 2026-10 – CL **asks** with knowledge-based sold ranges: Milwaukee M12 3/8 ratchet tool-only $100 (sells $80–110), XC8.0 battery $125 (sells $70–100), DeWalt 12" miter $200 (sells $200–300 but 55 lb), Hilti B22-255 $150 (sells $120–160), Ryobi 8Ah $90 (sells $50–70), Festool Toolie $130 (sells $120–160)
 - No dated individual sold comps recorded yet.
+- 2026-10-13 – Terapeak 365d sold, query "Festool Domino DF 500" (top-tier variant): n=50, median $237.5, p25 $38, p75 $1125 — e.g. $79.99 For Festool Domino Tenons Router Bits (); $20.0 Festool DF 500 IMPERIAL Thickness Gaug ()
+- 2026-10-13 – Terapeak 365d sold, query "Hilti TE 7-C rotary hammer" (top-tier variant): n=42, median $161.49, p25 $139.99, p75 $200 — e.g. $246.0 Hilti TE 7 C Rotary Hammer Drill 120V (); $175.49 Hilti TE 7 C TE7 C SDS Plus Rotary Ham ()
 
 ## Market
 Huge and liquid on eBay, FB Marketplace and OfferUp; buyers are trades and DIYers and they know prices. Batteries and Festool/Hilti move fastest. Spring/summer construction season is slightly stronger (general knowledge, verify).

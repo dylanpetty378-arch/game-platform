@@ -32,6 +32,8 @@ Fake railroad stampings added to common lanterns occur — look for crisp, perio
 
 ## Comps (sold, dated)
 - No sold comps in our data; values are estimates (general knowledge, verify). Lens median $45 for Delta Powerlite (asking-weighted).
+- 2026-10-13 – Terapeak 365d sold, query "railroad battery lantern" (top-tier variant): n=50, median $23, p25 $14.99, p75 $29.99 — e.g. $54.62 Barebones Living Railroad Lantern LED (); $54.69 Barebones Living Railroad Lantern Rech ()
+- 2026-10-13 – Terapeak 365d sold, query "Delta Powerlite lantern" (top-tier variant): n=50, median $19.5, p25 $10, p75 $25 — e.g. $19.0 Vintage Delta Powerlite Train Railroad (); $39.0 VINTAGE 1940 50 S DELTA POWERLITE LANT ()
 
 ## Market
 Railroadiana collectors are steady; common lanterns are decor buys; 30–60 days.

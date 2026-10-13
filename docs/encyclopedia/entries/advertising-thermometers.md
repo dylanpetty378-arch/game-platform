@@ -34,6 +34,7 @@ Very high repro risk — petroliana and Coke are the most faked advertising cate
 ## Comps (sold, dated)
 No dated sold comps fetched this run. Sweep Lens median $50 is driven by asking prices of mixed repro/original listings.
 - 2026-10-13 – Terapeak 365d sold, query "Texaco gas station thermometer": n=23, median $24.95, p25 $16.5, p75 $40 — e.g. $49.0 TEXACO 12 THERMOMETER with Dome GLASS (); $32.0 Vintage Texaco Gas Sign Service Statio () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Prestone porcelain thermometer" (top-tier variant): n=37, median $250, p25 $210, p75 $299.99 — e.g. $200.0 Vintage PRESTONE ANTI FREEZE Thermomet (); $207.5 Antique Prestone Anti Freeze Porcelain ()
 
 ## Market
 Big, active collector category (petroliana + soda). Originals sell in days to weeks; repros sit.

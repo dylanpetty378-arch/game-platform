@@ -53,6 +53,8 @@ Chips, hairline cracks, crazing (normal on Roseville glossy and Rookwood standar
 ## Comps (sold, dated)
 No dated comps pulled this run. Lens median for the Gonder H-67 triple-leaf example: $31 (mixed asking/sold). Pull Terapeak for "Gonder H-67", "Roseville [pattern] [shape number]" before buying. Auction results at Humler & Nolan and Rago are the best source for the top tiers.
 - 2026-10-13 – Terapeak 365d sold, query "decorative pottery vase": n=47, median $30.97, p25 $15, p75 $50.4 — e.g. $132.5 Fiesta Ware 8 1 2 Millenium II 2 Disk (); $34.99 Bloomingville Handmade 5 H Stoneware H () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Rookwood vellum vase" (top-tier variant): n=50, median $600, p25 $310, p75 $950 — e.g. $300.0 1911 Rookwood Pottery Vellum Vase Whit (); $75.0 Antique Rookwood Pottery Vellum XVI Va ()
+- 2026-10-13 – Terapeak 365d sold, query "Grueby pottery vase" (top-tier variant): n=50, median $385, p25 $210, p75 $695 — e.g. $400.0 Ephraim Faience Pottery Experimental G (); $45.0 ROYAL HAEGER ARTS AND CRAFTS REVIVAL M ()
 
 ## Market
 Roseville/Rookwood market is soft compared with 2000 peaks; common pieces move slowly (weeks to months). High-end Arts & Crafts remains strong at auction. MCM pottery (Gonder, Haeger) sells to decorators in the $20–60 band.

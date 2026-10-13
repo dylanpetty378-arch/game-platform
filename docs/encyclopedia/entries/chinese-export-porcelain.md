@@ -46,6 +46,8 @@ The single biggest problem in this type. Since the 1980s China has produced mass
 No dated sold comps this run. Lens medians in the batch ($161–455) are Etsy/1stDibs asking prices. Estimates (general knowledge, verify): Hong Kong millefleur demitasse set of 6 cups and saucers $40–90 sold; 14" modern Rose Medallion-style punch bowl on stand $60–150; 19th-c. Rose Medallion 14" punch bowl $800–3,000.
 - 2026-10-13 – Terapeak 365d sold, query "millefleur demitasse cups and saucers": n=4, median $10.99, p25 $6.95, p75 $15.99 — e.g. $15.99 Royal Doulton Millefleur Demitasse Cup (); $99.99 Antique Rosenthal Selb Bavaria Millefl () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "lidded jar hair receiver": n=37, median $25, p25 $14.4, p75 $38.99 — e.g. $10.0 Pressed Glass Hair Receiver Dresser Ja (); $38.99 ANTIQUE UNO Bavaria Vanity Dresser Set () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Rose Medallion platter" (top-tier variant): n=50, median $100, p25 $62, p75 $149 — e.g. $20.35 BLUE ROSE SCROLL 13x6 5 Serving Tray A (); $118.8 Rose Medallion Motif Porcelain Octagon ()
+- 2026-10-13 – Terapeak 365d sold, query "Tobacco Leaf export" (top-tier variant): n=40, median $64, p25 $39.95, p75 $135.5 — e.g. $548.0 Vintage Chinese Export Style Colorful (); $40.0 Chinoiserie Tobacco Leaf Decorative Ch ()
 
 ## Market
 Two markets: a deep auction market for real antiques (with Chinese buyers) and a weak décor market for modern pieces. Modern export is abundant and slow-moving. No seasonality.

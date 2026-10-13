@@ -34,6 +34,8 @@ Countless modern reproductions; 1940s–80s Audubon prints (Macmillan, Amsterdam
 ## Comps (sold, dated)
 None in our data. Lens best match listed an "1840 Bird Engraving, Original Antique Bird Print" (Lens median $25, asking).
 - 2026-10-13 – Terapeak 365d sold, query "1840 bird engraving": n=50, median $38.25, p25 $22.5, p75 $55 — e.g. $25.0 Eurasian Bullfinch Bird 1840 Antique H (); $14.95 Guerin Meneville 1838 475 Hand Colored () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Audubon Bien chromolithograph" (top-tier variant): n=4, median $250, p25 $174.99, p75 $390 — e.g. $2500.0 Double Elephant Folio Pileated WOODPEC (); $174.99 Original Audubon J Bien Edition 1860 C ()
+- 2026-10-13 – Terapeak 365d sold, query "Gould bird lithograph" (top-tier variant): n=50, median $34, p25 $23.93, p75 $70 — e.g. $11.67 Set Of Three John Gould Hummingbirds 1 (); $34.99 Set Of 4 John Gould Hummingbirds 1940s ()
 
 ## Market
 Steady decorator demand for loose plates (cheap, often in lots); framed glass pieces ship badly, sell slowly locally.

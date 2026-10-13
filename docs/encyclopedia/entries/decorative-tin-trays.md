@@ -35,6 +35,7 @@ Rust spots, scratches on the print, dents in the rim, and faded varnish. Repaint
 
 ## Comps (sold, dated)
 None gathered this run. Lens median for the example was $16 on similar Daher 1971 bowls, matching the low tier.
+- 2026-10-13 – Terapeak 365d sold, query "brewery serving tray antique" (top-tier variant): n=4, median $100, p25 $100, p75 $150 — e.g. $175.0 Vintage Beer Tray Guinness Stout Servi (); $100.0 Vintage Beer Tray Smithwicks Serving T ()
 
 ## Market
 Daher-type bowls are everywhere at thrift stores and sell slowly. Buyers are cottagecore/vintage decor shoppers.

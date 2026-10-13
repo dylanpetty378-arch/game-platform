@@ -33,6 +33,8 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run. Lens median $55 (asking).
+- 2026-10-13 – Terapeak 365d sold, query "Enterprise No. 22 meat grinder" (top-tier variant): n=50, median $30.75, p25 $20.75, p75 $45 — e.g. $40.6  22 TWO Enterprise Meat Grinder plates (); $24.25  22 x 5 16 8mm Stainless meat grinder ()
+- 2026-10-13 – Terapeak 365d sold, query "Chop-Rite No. 32 grinder" (top-tier variant): n=10, median $130, p25 $92.75, p75 $174.99 — e.g. $95.75  32 COMBO SET Meat Grinder Plates Knif (); $87.98 Chop Rite Enterprise 32VBP Pulley Whee ()
 
 ## Market
 Large supply; steady demand from homesteaders (users) and kitchen collectors. Several hundred sold/month across all grinders (order of magnitude).

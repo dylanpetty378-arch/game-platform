@@ -34,6 +34,8 @@ The category itself is reproduction. Danger: reprints sold as "vintage original 
 
 ## Comps (sold, dated)
 No dated sold comps available this run. All numbers are general-knowledge estimates (verify).
+- 2026-10-13 – Terapeak 365d sold, query "Mucha lithograph original" (top-tier variant): n=50, median $143.5, p25 $34, p75 $400 — e.g. $15.5 8 Large Slim Vintage 1960 s Alphonse M (); $22.99 Alphonse Mucha Postcard Lot 11 Art Nou ()
+- 2026-10-13 – Terapeak 365d sold, query "Cappiello poster original" (top-tier variant): n=48, median $300, p25 $100, p75 $999 — e.g. $643.03 CAMPARI L APERITIVO Original Poster 39 (); $437.5 CAMPARI L APERITIVO Original Poster 39 ()
 
 ## Market
 Reprints: slow, low value, plentiful. Originals: auction-house market (Swann Galleries, Poster Auctions International) with expert authentication.

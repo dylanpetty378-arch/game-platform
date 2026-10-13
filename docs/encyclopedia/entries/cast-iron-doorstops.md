@@ -37,6 +37,8 @@ The two earlier write-ups (both 2026-10-12) differ on the lower tiers; both rang
 - 2026 – Hubley flower-basket doorstops, original paint, 7–9" – $90–200 (eBay sold range, knowledge)
 - 2026 – Chairish **asks** (not sold): Hubley fox terrier $325; sitting cat 7" $225; Scottie 11.75" $975
 - 2026 – Hubley "French flower basket", original paint – dealer ask ~$250
+- 2026-10-13 – Terapeak 365d sold, query "Hubley doorstop" (top-tier variant): n=50, median $88, p25 $50, p75 $125 — e.g. $50.0 Vintage Hubley No 479 Cast Iron Doorst (); $12.0 Hubley Cast Iron Conestoga Wagon Doors ()
+- 2026-10-13 – Terapeak 365d sold, query "Bradley Hubbard doorstop" (top-tier variant): n=50, median $140, p25 $75, p75 $206.5 — e.g. $155.5 Antique Bradley Hubbard Cast Iron Door (); $438.75 ANTIQUE BRADLEY HUBBARD B H CAST IRON ()
 
 ## Market
 Established collector field (Doorstop Collectors of America; Bertoia holds dedicated doorstop sales – general knowledge, verify). Common baskets and terriers sell steadily on eBay; dealer asks on Chairish/1stDibs run 2–3x eBay sold. Buyers: collectors, country/cottage decorators. Rare figurals go to auction.

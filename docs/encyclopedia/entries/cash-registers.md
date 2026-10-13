@@ -33,6 +33,8 @@ Reproduction brass registers (1970s Taiwan, "Model 313" copies) exist: thin cast
 ## Comps (sold, dated)
 - 2025 – NCR 313 brass candy register, unrestored working – $450–700 band (eBay sold, agent knowledge – not a specific sale)
 - 2025 – NCR 1950s Class 125 steel register – $50–100 band (agent knowledge)
+- 2026-10-13 – Terapeak 365d sold, query "NCR 313 cash register" (top-tier variant): n=50, median $62, p25 $33.75, p75 $119.99 — e.g. $24.99 1 National Cash Register New Italian M (); $27.0 National Cash Register NEW Glass Model ()
+- 2026-10-13 – Terapeak 365d sold, query "NCR 442 brass register" (top-tier variant): n=3, median $89.25, p25 $42, p75 $89.25 — e.g. $42.0 Antique NCR National Cash Register Mod (); $249.0 Original BRASS National Cash Register ()
 
 ## Market
 Decorator and general-store collector market; brass models sell steadily but mostly local/regional because of weight. Freight-shipped eBay sales and auction houses (Morphy, regional) for the top. Steel models barely sell (general knowledge, verify).

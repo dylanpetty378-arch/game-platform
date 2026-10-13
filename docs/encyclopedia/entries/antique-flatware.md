@@ -31,6 +31,8 @@ Little faking at this level; fake hallmarks on "silver" from Asia exist.
 ## Comps (sold, dated)
 No sold data in this run. Lens median $118 refers to sterling pieces, not these.
 - 2026-10-13 – Terapeak 365d sold, query "bone-handle serving forks": n=50, median $19.95, p25 $12, p75 $25.99 — e.g. $14.0 Bone Handled 9 5 Serving Fork Mid 1800 (); $22.4 Vintage Antler Horn Handle Meat Carvin () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Gorham Medallion sterling" (top-tier variant): n=50, median $135, p25 $63, p75 $306.09 — e.g. $122.99 2021 GORHAM 52nd Sterling Silver Chris (); $42.19 Gorham Tiffany Co Medallion Sterling N ()
+- 2026-10-13 – Terapeak 365d sold, query "sterling cold meat fork" (top-tier variant): n=50, median $115, p25 $80, p75 $149.98 — e.g. $269.0 Chrysanthemum by Durgin Sterling Silve (); $174.0 Faneuil by Tiffany Co Sterling Silver ()
 
 ## Market
 Silverplate oversupplied; sterling liquid at melt and pattern-matching buyers (Replacements, eBay).

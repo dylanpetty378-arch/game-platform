@@ -37,6 +37,8 @@ Modern Chinese/Indian candelabra with acrylic prisms sold as "vintage crystal". 
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no candelabra data). Lens best match "Antique 2 Light Candelabra CUT GLASS CRYSTALS Duncan Miller" with Lens median $250 (asking, and almost certainly for a pair or high asking — 2026-10-13). Verify with eBay sold before acting.
+- 2026-10-13 – Terapeak 365d sold, query "Heisey candelabra pair prisms" (top-tier variant): n=11, median $67, p25 $45, p75 $400 — e.g. $470.24 PAIR 2 Heisey Old Williamsburg Cut Cry (); $63.0 Pair Heisey Candelabra New Era Candles ()
+- 2026-10-13 – Terapeak 365d sold, query "Baccarat candelabra" (top-tier variant): n=50, median $129, p25 $59, p75 $500 — e.g. $48.71 Baccarat Lot 3 French Vintage Crystal (); $48.95 Baccarat Lot 3 French Vintage Crystal ()
 
 ## Market
 Elegant glass market has softened a lot since 2005. Singles are slow; complete pairs do OK around holidays and weddings.

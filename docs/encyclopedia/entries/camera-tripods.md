@@ -36,6 +36,7 @@ Counterfeit "Gitzo" and "Manfrotto" carbon tripods and clone heads are sold on A
 - 2025 – Manfrotto 3205 legs – $45–70 band (eBay sold, agent knowledge – not a specific sale)
 - 2025 – Manfrotto carbon + midi ball head – $150–250 band (agent knowledge)
 - 2025 – DJI Ronin-SC – $130–200 band (agent knowledge)
+- 2026-10-13 – Terapeak 365d sold, query "Gitzo carbon Systematic tripod" (top-tier variant): n=50, median $599, p25 $390, p75 $839.99 — e.g. $450.0 Gitzo GT3543LS Systematic Series 3 Car (); $199.0 Mint Gitzo GS5513S Rapid Center Column ()
 
 ## Market
 Liquid on eBay/MPB/KEH; buyers are hobby photographers, video shooters and landscape pros. Manfrotto is everywhere and priced near market; Gitzo/RRS move fast at fair prices. Gimbals depreciate quickly as DJI releases new models (general knowledge, verify).

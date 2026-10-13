@@ -29,6 +29,8 @@ Mr. Christmas and many retailers sell new "nostalgic ceramic trees" — glossy, 
 ## Comps (sold, dated)
 None gathered this run; estimates (general knowledge, verify). The Lens $300 median was asking prices.
 - 2026-10-13 – Terapeak 365d sold, query "Atlantic Mold ceramic light-up Christmas tree": n=50, median $90, p25 $69, p75 $140 — e.g. $750.0 22 Vintage Light Up Ceramic Christmas (); $110.0 Vintage Atlantic Mold 18 Ceramic Light () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Atlantic Mold ceramic tree birds" (top-tier variant): n=41, median $142.5, p25 $77.9, p75 $186 — e.g. $49.0 Vintage Atlantic Mold White Ceramic Ch (); $247.99 vintage ceramic Christmas tree LARGE A ()
+- 2026-10-13 – Terapeak 365d sold, query "ceramic Christmas tree white" (top-tier variant): n=45, median $16.55, p25 $11.08, p75 $28.15 — e.g. $28.95 Mr Christmas ceramic tree replacement (); $10.9 Hallmark 2023 Ornament Dancing Duo Dis ()
 
 ## Market
 Very seasonal: Oct–Dec strong, dead Jan–Aug. Local sale avoids shipping risk.

@@ -35,6 +35,8 @@ Reproduction decals and globes exist; modern Coleman retro reissues (e.g. annive
 - 2026 eBay sold – Coleman 220E 1950s two-mantle, used – $45–80
 - 2026 eBay sold – Coleman 200A 1950s red, working – $60–120; black-band 1951 – $150–300
 - 2026 eBay sold – Coleman 202 Professional – $150–250
+- 2026-10-13 – Terapeak 365d sold, query "Coleman 200 Christmas lantern" (top-tier variant): n=9, median $250, p25 $215, p75 $285 — e.g. $250.0 Coleman 200 Lantern christmas lantern (); $400.0 Coleman model 200 Christmas lantern da ()
+- 2026-10-13 – Terapeak 365d sold, query "Coleman 200A black band" (top-tier variant): n=50, median $86, p25 $57.26, p75 $125 — e.g. $100.0 Vintage Coleman Red w Black Band 200A (); $64.09 Coleman 200a Black Band Lantern ()
 
 ## Market
 Large, liquid collector and camper market; active Coleman Collectors Forum and FB groups. Common lanterns are everywhere, so only early dates, rare colours and models make money. Mild spring/summer camping bump (general knowledge, verify).

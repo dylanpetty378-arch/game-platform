@@ -29,6 +29,8 @@ Worn plating, pitted/rusty blades, loose or cracked handles, dishwasher-faded ha
 
 ## Comps (sold, dated)
 - eBay sold memory 2025: 12-pc marbled butterscotch (6 knives/6 forks) $45–75; 24-pc boxed Art Deco set ~$150
+- 2026-10-13 – Terapeak 365d sold, query "bakelite flatware set two tone" (top-tier variant): n=25, median $105, p25 $40, p75 $190 — e.g. $105.83 VTG Two Tone Bakelite Flatware Partial (); $44.73 HTF Vintage Bakelite Flatware Two Tone ()
+- 2026-10-13 – Terapeak 365d sold, query "bakelite handle flatware box set" (top-tier variant): n=8, median $30, p25 $15, p75 $40 — e.g. $15.0 Set of 6 Vintage Dinkee Knives with Da (); $40.0 Vintage Washington Forge Stainless But ()
 
 ## Market
 Buyers are mid-century kitchen collectors, retro decorators, and Etsy shoppers; Etsy may suit colourful sets (general knowledge, verify). Steady, modest volume.

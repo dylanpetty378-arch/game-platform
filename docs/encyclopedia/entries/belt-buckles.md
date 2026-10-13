@@ -39,6 +39,8 @@ Fake Civil War buckles (dug-look repros), fake Navajo (Asian-made "Native style"
 
 ## Comps (sold, dated)
 No dated sold comps this run. Lens median $45 for the Caterpillar buckle is an asking price. Estimates (general knowledge, verify): Caterpillar pewter dozer buckle $15–30; motorcycle poker-run buckle $8–20; Navajo sterling turquoise buckle $150–500.
+- 2026-10-13 – Terapeak 365d sold, query "Edward Bohlin buckle" (top-tier variant): n=50, median $895, p25 $515, p75 $1650 — e.g. $48.33 Edward H Bohlin Western Buckle Suede D (); $52.5 Edward H Bohlin Western Buckle Suede D ()
+- 2026-10-13 – Terapeak 365d sold, query "Clint Orms buckle" (top-tier variant): n=50, median $875, p25 $400, p75 $1200 — e.g. $1875.0 STERLING SILVER 14K GOLD BELT BUCKLE C (); $850.0 Clint Orms Galveston 1800 Sterling Sil ()
 
 ## Market
 Western/Native silver has a strong, steady market (and a Southwest-themed fashion bump); pewter advertising buckles are plentiful and slow. Slight fall/holiday bump.

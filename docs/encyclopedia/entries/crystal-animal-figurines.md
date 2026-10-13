@@ -38,6 +38,8 @@ Counterfeit Swarovski with fake swan logos exist, especially for popular pieces.
 - Dec 30, 2025 – eBay (Terapeak) – 2025 authentic Swarovski Annual Edition large ornament – $16.63 (same).
 - Jan 16, 2026 – eBay (Terapeak) – Swarovski crystal elements studded unicorn figurine – $27.95 (brass-decor query).
 These show even genuine recent Swarovski small pieces sell under $30.
+- 2026-10-13 – Terapeak 365d sold, query "Swarovski SCS annual edition" (top-tier variant): n=50, median $152.91, p25 $102.5, p75 $280.5 — e.g. $152.91 2025 SWAROVSKI Crystal SCS 130 Kris Be (); $28.0 2023 Swarovski Christmas SCS Annual Ed ()
+- 2026-10-13 – Terapeak 365d sold, query "Baccarat crystal animal figurine" (top-tier variant): n=50, median $125, p25 $60, p75 $192.5 — e.g. $157.94 Baccarat Crystal Lucky Butterfly Sapph (); $207.25 Baccarat Papillon Lucky Black Butterfl ()
 
 ## Market
 Very large supply, slow sales except for retired/rare Swarovski. Collectors know the catalogue numbers.

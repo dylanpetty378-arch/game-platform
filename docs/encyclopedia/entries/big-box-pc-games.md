@@ -37,6 +37,7 @@ Resealed boxes (fake shrink) and reproduction feelies/manuals exist; also later 
 - 2025-03-11 – King's Quest II big box CIB – $21.86 (pricecharting – condition likely poor)
 - 2022-08-28 – King's Quest II CIB – $199.95 (pricecharting)
 - 2021-04-09 – King's Quest II MS-DOS 3.5" sealed – $265 (pricecharting)
+- 2026-10-13 – Terapeak 365d sold, query "Ultima cloth map" (top-tier variant): n=50, median $59.99, p25 $35, p75 $99.5 — e.g. $79.99 Ultima VII The Black Gate big box 3 5 (); $124.94 Ultima VIII 8 Pagan Vintage Big Box PC ()
 
 ## Market
 Retro-computing collectors and nostalgia buyers; sells on eBay with wide price spread by completeness and condition (KQII sold $22–265). Moderate volume (general knowledge, verify).

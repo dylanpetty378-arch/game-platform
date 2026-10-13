@@ -41,6 +41,8 @@ Modern "Curtis Jere style" imports from India/China sold new at HomeGoods/Wayfai
 
 ## Comps (sold, dated)
 No dated sold comps retrieved this run (no web search budget; nothing in comps.jsonl). Verify with eBay sold search above before buying. Estimates: signed C. Jere sailboat 24–30 in ~$200–450; unsigned wire sailboat pair ~$25–50 (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Curtis Jere raindrops wall sculpture" (top-tier variant): n=9, median $1200, p25 $400, p75 $1800 — e.g. $637.5 Curtis Jere MCM 34 Raindrops Wall Scul (); $400.0 Curtis Jere MCM 34 Raindrops Wall Scul ()
+- 2026-10-13 – Terapeak 365d sold, query "Curtis Jere brutalist wall sculpture" (top-tier variant): n=50, median $149, p25 $96.04, p75 $225 — e.g. $219.99 Large Brutalist Wall Sculpture Torch C (); $400.0 HUGE 4ft Curtis Jere 20th C MCM MODERN ()
 
 ## Market
 Steady MCM demand; signed pieces sell in 1–6 weeks on eBay/Chairish/1stDibs. Unsigned wire decor sells slowly (weeks–months) at low prices. Lens frequently returns $1,000+ Jere comps for any metal wall art, a big false-positive source.

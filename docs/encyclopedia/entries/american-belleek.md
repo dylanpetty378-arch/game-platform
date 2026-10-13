@@ -43,6 +43,8 @@ No widespread fakes known (general knowledge, verify). The real risk is confusin
 No dated sold comps yet – the lines below are appraisals and asks.
 - Roadshow appraisals: Ott & Brewer lotus jug c.1890 and O&B vase c.1880 appraised in the low-to-mid thousands (pbs.org)
 - 2026-10 – CL Atlanta dealer – CAC palette-mark 3-handled loving cup, hand-painted child portraits, gilt, 9 in – $150 ask (dealer-tagged; would sell $250–450 at auction)
+- 2026-10-13 – Terapeak 365d sold, query "Ott Brewer Belleek" (top-tier variant): n=18, median $125, p25 $50, p75 $150 — e.g. $125.0 Ott Brewer American Belleek Gold Encru (); $170.0 Vintage OTT BREWER AMERICAN BELLEEK PO ()
+- 2026-10-13 – Terapeak 365d sold, query "Willets Belleek vase hand painted" (top-tier variant): n=41, median $170, p25 $65, p75 $275 — e.g. $230.0 Antique American Willets Belleek Porce (); $224.5 Willets Belleek Art Potttery Hand Pain ()
 
 ## Market
 Niche collector market (American ceramics collectors, Lenox collectors); sells on eBay and at regional auction houses. Mid-tier pieces can be slow; top Ott & Brewer pieces do best at specialist auction (general knowledge, verify).

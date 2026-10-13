@@ -33,6 +33,7 @@ Hermès, Chanel, Gucci and Louis Vuitton scarves are heavily counterfeited — n
 
 ## Comps (sold, dated)
 None available this run. Lens median $100 for the Coach example is asking noise; Coach silk scarves typically sell $20–45 (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, query "Hermes carre silk scarf" (top-tier variant): n=50, median $215, p25 $155, p75 $298 — e.g. $190.0 HERMES Petit Carre 45 PEINTURE FRAICHE (); $46.96 Reserved HERMES Carre Empty Scarf box ()
 
 ## Market
 Huge supply; mid-tier sells in weeks, low-tier slow. Poshmark and eBay.

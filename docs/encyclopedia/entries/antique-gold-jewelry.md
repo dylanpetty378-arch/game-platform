@@ -30,6 +30,8 @@ Lots of reproduction "Victorian" jewelry; fake karat stamps on plated pieces. Te
 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median was $18 for small "Victorian gold" earrings (mixed listings).
+- 2026-10-13 – Terapeak 365d sold, query "Etruscan revival gold brooch" (top-tier variant): n=50, median $40, p25 $17.59, p75 $110 — e.g. $3000.0 1870 Castellani Signed Etruscan Archae (); $4.5 Vintage Gold Tone Etruscan Revival Bro ()
+- 2026-10-13 – Terapeak 365d sold, query "Victorian mourning hair brooch gold" (top-tier variant): n=50, median $127.5, p25 $80, p75 $185 — e.g. $275.0 Antique Victorian 14k Gold Mourning Pi (); $175.0 Antique 19th C Victorian 14K Gold Mour ()
 
 ## Market
 Very liquid at melt for solid gold; antique premium pieces sell steadily. Days to sell: 7–30.

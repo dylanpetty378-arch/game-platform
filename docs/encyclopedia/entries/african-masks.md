@@ -30,6 +30,8 @@ Most masks are made to look old. The fake-patina industry is very large. Authent
 ## Comps (sold, dated)
 No sold comps retrieved this run, and Lens returned no match.
 - 2026-10-13 – Terapeak 365d sold, query "carved wooden mask": n=42, median $53.33, p25 $29.99, p75 $99.32 — e.g. $99.32 Hawaiian Style Tiki Totem Wooden Mask (); $84.35 ELEPHANT HEAD HUGE 2 HAND CARVED WOODE () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Dan mask Liberia" (top-tier variant): n=49, median $80.96, p25 $59, p75 $180 — e.g. $21.95 Dan Deangle Passport Mask Liberia (); $80.0 Authentic Dan Gagon Bird Mask from Ivo ()
+- 2026-10-13 – Terapeak 365d sold, query "Baule mask Ivory Coast" (top-tier variant): n=50, median $75, p25 $45, p75 $110 — e.g. $99.99 African Tribal Baule Goli Mask Yaoure (); $100.0 Vintage African Ivory Coast Baule Goli ()
 
 ## Market
 Decorative masks sell slowly. eBay is flooded. Days to sell: 30–90+.

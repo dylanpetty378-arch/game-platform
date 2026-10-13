@@ -29,6 +29,7 @@ Depression glass reproductions (Cherry Blossom, Madrid/"Recollection"), fake Hei
 
 ## Comps (sold, dated)
 No sold comps retrieved this run; Lens gave no usable match for the example.
+- 2026-10-13 – Terapeak 365d sold, query "signed art glass lot" (top-tier variant): n=50, median $39.99, p25 $21.5, p75 $63 — e.g. $14.4 2 X AUTHENTIC BLUE MURANO WHITE FLOWER (); $11.99 NEW Lot of 2 Old World Christmas Pickl ()
 
 ## Market
 Lots move slowly; single hits sell individually. Days to sell: 30–90 for common items.

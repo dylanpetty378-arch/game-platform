@@ -35,6 +35,8 @@ Chinese reproductions of Griswold/Erie pieces with grainy, rough castings and bl
 
 ## Comps (sold, dated)
 - None recorded yet – full research still to do.
+- 2026-10-13 – Terapeak 365d sold, query "Griswold large logo 8" (top-tier variant): n=49, median $85, p25 $63, p75 $119.5 — e.g. $72.0 Vintage Griswold 8 Large Logo Cast Iro (); $94.0 GRISWOLD No 8 Large Block Logo Cast Ir ()
+- 2026-10-13 – Terapeak 365d sold, query "Wagner Ware skillet" (top-tier variant): n=50, median $28, p25 $17.99, p75 $45 — e.g. $23.0 Vintage Wagner Ware 6 1 2 inch 3 Cast (); $15.99 Cookware Pot Handle For Wagner Ware GH ()
 
 ## Market
 Very liquid on eBay, FB Marketplace and cast-iron collector groups; buyers are cooks and collectors. Griswold/Wagner sell within days at fair prices; Q4 gift season helps (general knowledge, verify).

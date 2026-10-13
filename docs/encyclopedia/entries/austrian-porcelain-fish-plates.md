@@ -43,6 +43,8 @@ Modern Chinese "Limoges" marks on decals; reproductions of Royal Doulton/Minton 
 No dated sold comps retrieved this run. General knowledge (verify): MZ Austria transfer fish plates sell individually ~$10–20 and as sets of 6 ~$50–100; the Lens median of $1,250 reflects Limoges hand-painted sets with platters (asks), not these.
 - 2026-10-13 – Terapeak 365d sold, query "Moritz Zdekauer MZ Austria hand-painted porcelain": n=23, median $17, p25 $14.99, p75 $29 — e.g. $49.99 Antique MZ AUSTRIA MORITZ ZDEKAUER Ros (); $5.5 MZ Austria Hand Painted Cake Plate Pin () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Moritz Zdekauer MZ Austria scalloped porcelain": n=4, median $18, p25 $14, p75 $30 — e.g. $18.0 Antique Moritz Zdekauer MZ Austria Fru (); $32.99 Antique MZ Austria Porcelain Plate Pin () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Limoges fish plate set signed" (top-tier variant): n=22, median $135, p25 $95, p75 $408.49 — e.g. $435.5 Antique Limoges Fish Plates Hand Paint (); $408.49 5pc Antq CORONET LIMOGES Hand Painted ()
+- 2026-10-13 – Terapeak 365d sold, query "Royal Doulton fish plates signed" (top-tier variant): n=10, median $55.99, p25 $20, p75 $250 — e.g. $1000.0 Set of 2 9 5 Royal Doulton Raised Gold (); $250.0 Qty 1 9 5 Royal Doulton Raised Gold En ()
 
 ## Market
 Slow; fish sets are out of fashion except with coastal/fishing decorators and a few collectors. Signed hand-painted sets still sell.

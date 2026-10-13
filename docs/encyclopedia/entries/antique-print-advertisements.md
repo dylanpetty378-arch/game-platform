@@ -31,6 +31,8 @@ Modern reprints/posters of famous ads; "vintage ad" prints on blank-back stock. 
 ## Comps (sold, dated)
 None this run (no web search; no Terapeak rows). Lens median $22 for the Firestone page is plausible mid-tier.
 - 2026-10-13 – Terapeak 365d sold, query "Firestone magazine ad pages": n=3, median $2.99, p25 $1.5, p75 $2.99 — e.g. $6.0 Vintage Firestone Tires Magazine Doubl (); $1.5 Lot of 6 Vintage Firestone Tire Magazi () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Maxfield Parrish advertisement original" (top-tier variant): n=47, median $64, p25 $20, p75 $105.75 — e.g. $12.0 Maxfield Parrish Poster Book 19 Poster (); $350.0 Original 1930 Maxfield Parrish LARGE C ()
+- 2026-10-13 – Terapeak 365d sold, query "Leyendecker Arrow collar ad" (top-tier variant): n=39, median $9.99, p25 $8.99, p75 $22.99 — e.g. $9.94 1927 Men s ARROW Collars Clothing J C (); $9.99 1916 J C LEYENDECKER ARROW COLLAR AD V ()
 
 ## Market
 Steady decorative demand (framing, man caves, automotive collectors); singles sell 20–90 days. Etsy strong for framed décor.

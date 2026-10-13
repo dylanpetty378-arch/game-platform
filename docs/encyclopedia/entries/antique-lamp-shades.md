@@ -37,6 +37,8 @@ Huge volume of 1960s–90s GWTW-style reproductions (L.G. Wright, Fenton, Asian 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for the example was $290, which is an Etsy asking price for a different, older shade and is not realistic for this one.
 - 2026-10-13 – Terapeak 365d sold, query "pink glass hurricane shade": n=49, median $49, p25 $31.49, p75 $85 — e.g. $24.5 Vintage Pink Rose Glass Hurricane Oil (); $50.58 Vintage 10 Fitter Blue Pink Rose Hurri () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Steuben Aurene lamp shade" (top-tier variant): n=50, median $124.95, p25 $89.99, p75 $210 — e.g. $129.99 Antique Unsigned STEUBEN Gold Aurene A (); $99.99 Unsigned STEUBEN Gold Aurene Art Glass ()
+- 2026-10-13 – Terapeak 365d sold, query "Quezal lamp shade" (top-tier variant): n=50, median $183, p25 $129.99, p75 $345 — e.g. $226.66 Antique Signed QUEZAL Double Hook Pull (); $150.0 QUEZAL ART GLASS PULLED FEATHER IRIDES ()
 
 ## Market
 Slow except for art glass. The decal-shade tier sells a few per week at low prices; most buyers are local lamp restorers. Days to sell: 30–90.

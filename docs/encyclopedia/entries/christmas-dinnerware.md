@@ -35,6 +35,8 @@ No significant fakes; the issue is later, cheaper production of the same pattern
 ## Comps (sold, dated)
 - eBay Oct 2026 listings (**asking**): Waechtersbach Christmas Tree 10" dinner plates ~$15–25 each; 7.5" salad plates ~$10–15 each
 - eBay sold memory 2025: Waechtersbach 20-pc boxed set $80–130; Spode Christmas Tree 20-pc $90–150
+- 2026-10-13 – Terapeak 365d sold, query "Spode Christmas Tree tureen" (top-tier variant): n=21, median $89, p25 $20, p75 $104.93 — e.g. $116.72 Spode Christmas Tree 75th Anniversary (); $125.0 Spode Christmas Tree 75th Anniversary ()
+- 2026-10-13 – Terapeak 365d sold, query "Lenox Holiday set" (top-tier variant): n=49, median $33.31, p25 $23.6, p75 $70.35 — e.g. $294.28 2024 Lenox Spice Village Holiday 24 Pi (); $27.0 Lenox SPARKLE SCROLL MULTICOLOR GEMS H ()
 
 ## Market
 Strongly seasonal: demand peaks Oct–Dec and collapses in January. Buyers are households completing sets and replacement buyers (Replacements Ltd. sets the retail ceiling – general knowledge, verify). Heavy, so full sets are a local (FB Marketplace) market; individual serving pieces sell on eBay.

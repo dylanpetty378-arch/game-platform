@@ -37,6 +37,7 @@ Fake Gon Bops decals on Mexican drums exist; modern Gon Bops reissues (2010s, Dr
 ## Comps (sold, dated)
 No sold data in comps.jsonl; no web search. Lens matched only "Unbranded congas" category; no price.
 - 2026-10-13 – Terapeak 365d sold, query "wooden conga drum": n=19, median $24.99, p25 $18.5, p75 $29.99 — e.g. $24.99 Tycoon TSP Wooden Sound Plate for Cong (); $10.0 Wooden Conga Drum Necklace Mini Africa () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Gon Bops conga vintage" (top-tier variant): n=8, median $150, p25 $111.2, p75 $249.99 — e.g. $227.5 Vintage Gon Bops Quinto Hand Drum Oak (); $315.0 Gon Bops congas used vintage Local pic ()
 
 ## Market
 Reverb and local; vintage Gon Bops/Valje sell fast; unbranded sells slowly.

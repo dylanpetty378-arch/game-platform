@@ -33,6 +33,8 @@ Decorative reproduction "nautical" blocks (India-made, brass/dark stained) are c
 ## Comps (sold, dated)
 None gathered.
 - 2026-10-13 – Terapeak 365d sold, query "wooden farmhouse pulleys": n=36, median $20, p25 $10, p75 $25 — e.g. $10.0 Antique Wooden Barn Single Pulley with (); $25.0 Antique Wooden Wood Wheel Barn Pulley () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "hay trolley cast iron" (top-tier variant): n=50, median $59.99, p25 $39, p75 $100 — e.g. $115.0 MYER cast iron Hay trolley Metal Pulle (); $50.0 Vintage Antique Cast Iron Wood Hay Tro ()
+- 2026-10-13 – Terapeak 365d sold, query "wooden ship pulley block" (top-tier variant): n=50, median $20, p25 $11.67, p75 $34.99 — e.g. $8.52 Professional Pulley DEADEYE Block Mult (); $9.44 Professional Metal Brass Pulley Riggin ()
 
 ## Market
 Steady farmhouse/nautical decor demand. Larger pieces sell; small pulleys are common.

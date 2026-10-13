@@ -35,6 +35,8 @@ Saturated: probably the majority of "antique cast iron cars" on Craigslist are r
 ## Comps (sold, dated)
 No sold data in this run. Lens median $47 mixes repro and genuine.
 - 2026-10-13 – Terapeak 365d sold, query "A C Williams cast iron toy": n=50, median $40, p25 $31, p75 $56 — e.g. $50.0 1920s CAST IRON TWO DOOR COUPE ROADSTE (); $48.01 VINTAGE ORIGINAL A C WILLIAMS TOYS 193 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Arcade cast iron bus" (top-tier variant): n=50, median $125, p25 $45, p75 $204.5 — e.g. $275.0 Vintage Arcade Cast Iron Greyhound Lin (); $41.82 Antique Cast Iron Arcade Toy Bus Estat ()
+- 2026-10-13 – Terapeak 365d sold, query "Kenton cast iron" (top-tier variant): n=50, median $45, p25 $18, p75 $110 — e.g. $17.95 Replacement cast metal circus polar be (); $16.95 Replacement standing cast metal firema ()
 
 ## Market
 Specialist; genuine sells well, repros slow.

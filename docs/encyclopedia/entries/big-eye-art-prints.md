@@ -55,6 +55,7 @@ Buy rule (short): Pass on all printed big-eye art (median ~$25); buy only a prob
 - 2026-02-03 – eBay – "Vintage MCM Art Print Big Eye Baby Mouse Artist Thayer" – $5 (Terapeak)
 - Query-level stats: n=50, p25 $14.99, median $25, p75 $55 (Terapeak 365 days, query also pulls some unrelated items).
 - No dated sold comps for Medeiros or for originals were found this run; values above for those are estimates.
+- 2026-10-13 – Terapeak 365d sold, query "Keane signed lithograph" (top-tier variant): n=14, median $41.25, p25 $19.99, p75 $250 — e.g. $50.0 Vintage Margaret Keane Kane Big Eyes S (); $273.0 Vintage Signed MARGARET KEANE Animal K ()
 
 ## Market
 - Prints: steady but cheap; many listings, low sell-through, buyers want pairs and good original frames. Shipping framed pieces eats most of the margin.

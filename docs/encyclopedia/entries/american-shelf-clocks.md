@@ -46,6 +46,8 @@ Mid-20th-c Seth Thomas, New Haven, Howard Miller and Waltham "colonial" steeple 
 
 ## Comps (sold, dated)
 No dated sold comps retrieved this run. General knowledge (verify): 19th-c 30-hour steeple clocks commonly sell $60–150 on eBay; running 8-day beehives $150–350; 1950s New Haven reproduction steeples $40–90.
+- 2026-10-13 – Terapeak 365d sold, query "Brewster Ingrahams beehive clock" (top-tier variant): n=9, median $66, p25 $50, p75 $160 — e.g. $300.0 1840 s Brewster Ingraham BEEHIVE Roman (); $178.5 CIRCA 1850 S BREWSTER INGRAHAM BRASS M ()
+- 2026-10-13 – Terapeak 365d sold, query "Eli Terry pillar scroll clock" (top-tier variant): n=50, median $55, p25 $25, p75 $200 — e.g. $99.99 Eli Terry Pillar Scroll Wooden Works C (); $17.0 Eli Terry Pillar Scroll Shelf Clocks b ()
 
 ## Market
 Weak and aging collector base; prices have dropped since the 2000s. Running, original examples sell; non-running clocks sit. Shipping costs and fragility deter many buyers; local sale is often better.

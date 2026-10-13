@@ -33,6 +33,7 @@ None in the usual sense. Modern Chinese/Russian souvenir models are sold as "vin
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for a USSR student prima was $179 (asking-price based; actual sold prices are likely ~$80–140, estimate).
 - 2026-10-13 – Terapeak 365d sold, query "USSR balalaika": n=50, median $89.95, p25 $50, p75 $105 — e.g. $6.0 Exclusive Strings for Balalaika 3 stri (); $5.67 5pcs PICKS for Domra Balalaika Mandoli () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Lunacharsky balalaika" (top-tier variant): n=11, median $149.99, p25 $70, p75 $190.77 — e.g. $149.99 Vtg 1965 Soviet 3 String Balalaika Pri (); $70.0 Lunacharsky Leningrad 3 String Prima B ()
 
 ## Market
 Small, steady. eBay plus Reverb: roughly 40–80 sold per month. Days to sell: 20–60.

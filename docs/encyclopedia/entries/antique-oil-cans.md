@@ -53,6 +53,8 @@ Metal containers for dispensing oil: lamp/whale-oil fillers (1820s–1900), kero
 - Dated sold comps not retrievable this session; estimates above.
 - 2026-10-13 – Terapeak 365d sold, query "tin oil filler can": n=31, median $35, p25 $20, p75 $49.99 — e.g. $35.0 NEW YORK CENTRAL RAILROAD NYCRR VINTAG (); $20.0 RAILROAD INDUSTRIAL VINTAGE OIL KEROSE () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "measuring oil can": n=50, median $20, p25 $11.75, p75 $65 — e.g. $82.5  NIB Antique Vintage Huffman 1 One Gal (); $28.25 Shell Soap Box Derby Lubricant 4 oz Me () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Polarine oil can" (top-tier variant): n=50, median $90, p25 $49.76, p75 $175 — e.g. $110.5 Polarine One 1 Gallon Slim Oil Can Sta (); $50.0 Polarine Cup Grease The Atlantic Refin ()
+- 2026-10-13 – Terapeak 365d sold, query "Mobiloil Gargoyle can" (top-tier variant): n=50, median $73, p25 $30, p75 $165 — e.g. $2.6  GARGO 1 3 round MOBIL MOBILOIL GARGOY (); $7.24 8 round MOBIL MOBILOIL GARGOYLE DECAL ()
 
 ## Market
 - Petroliana is a strong collector niche for graphic advertising cans; plain utilitarian cans are décor items with deep supply and slow sales.

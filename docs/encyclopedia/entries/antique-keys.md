@@ -34,6 +34,7 @@ Railroad switch keys are heavily faked (cast copies with soft details, wrong hal
 
 ## Comps (sold, dated)
 No dated sold comps retrievable this run. Pull Terapeak "railroad switch key" and "antique skeleton key lot" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "prison jail key antique" (top-tier variant): n=50, median $30.79, p25 $24.5, p75 $50 — e.g. $99.99 Antique Shackles 1890 S Bean Cobb Hand (); $6.0 Antique KEY 17th 19th Century Prison C ()
 
 ## Market
 Steady craft/décor demand for lots; railroad keys have an active collector market. Bags of common keys sell daily but cheaply.

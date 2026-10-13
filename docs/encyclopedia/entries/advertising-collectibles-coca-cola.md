@@ -32,6 +32,7 @@ Extremely common: fake porcelain signs from India/China ("distressed"), reproduc
 ## Comps (sold, dated)
 No dated sold comps found (no web search, none in comps.jsonl). Lens medians in our sweep: chair listing $360 (asking, retro sets), placemats unknown.
 - 2026-10-13 – Terapeak 365d sold, query "Coca-Cola metal folding chairs": n=4, median $85, p25 $55, p75 $100 — e.g. $85.0 Vintage Metal Coca Cola Chair Excellen (); $55.0 Vintage 1993 Coca Cola Metal Folding C () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Coca-Cola porcelain sign" (top-tier variant): n=50, median $53.33, p25 $28.28, p75 $94.76 — e.g. $17.21  1 Brand New Porcelain Ande Rooney Tha (); $86.26 Drink Coca Cola porcelain Enamel Sign ()
 
 ## Market
 Big collector market for authentic; repro items saturate eBay.

@@ -32,6 +32,7 @@ No direct fakes; many generic "Cordey-style" pieces get labelled Cordey. Look fo
 
 ## Comps (sold, dated)
 None in our data. Lens best match was a chipped Cordey lace shawl figurine (Lens median $65, asking).
+- 2026-10-13 – Terapeak 365d sold, query "Cordey porcelain lace figurine" (top-tier variant): n=26, median $20, p25 $14, p75 $30 — e.g. $28.0 Vintage 1940s Cordey Porcelain Lady w (); $23.99 Vintage 1940s Corday Cordey Porcelain ()
 
 ## Market
 Small, aging buyer base; slow (weeks to months).

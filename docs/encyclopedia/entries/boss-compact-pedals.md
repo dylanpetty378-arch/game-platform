@@ -34,6 +34,8 @@ Boss Waza Craft reissues (e.g. DM-2W, SD-1W, CE-2W) are modern and distinct from
 - 2025 – Reverb – Boss CE-3 MIJ – $110–150 (knowledge)
 - 2025 – Reverb – Boss OD-1 MIJ complete – $200–280; empty housing/shell $40–70 (knowledge)
 - 2025 – Reverb – Skreddy Rubber Soul – $200–260; Seymour Duncan Tweak Fuzz $70–100; Supro 1303 Boost $60–90 (knowledge)
+- 2026-10-13 – Terapeak 365d sold, query "Boss CE-1 Chorus Ensemble" (top-tier variant): n=31, median $530, p25 $129.99, p75 $573.99 — e.g. $10.75 AC Adapter for Boss Chorus CE 2 CE 3 E (); $250.0 Boss CE 1 Chorus Ensemble Vintage Made ()
+- 2026-10-13 – Terapeak 365d sold, query "Boss DC-2 Dimension C" (top-tier variant): n=23, median $185, p25 $150, p75 $205 — e.g. $178.88 Boss DC 2 Dimension C Chorus Effects P (); $208.8 Boss DC 2 Dimension C 1986 Chorus Made ()
 
 ## Market
 Very liquid; Reverb is the main venue, prices are well known to musicians. Fast sales at fair prices (general knowledge, verify).

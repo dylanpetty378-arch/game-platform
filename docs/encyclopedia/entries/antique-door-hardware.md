@@ -32,6 +32,8 @@ Large repro industry for Victorian knobs/plates (Mexico, India, Taiwan) and "cas
 
 ## Comps (sold, dated)
 No dated sold comps found this run. The Lens median of $450 for the sweep example reflects complete track systems / decorative barn hardware listings, not plain hangers — do not trust it.
+- 2026-10-13 – Terapeak 365d sold, query "Eastlake bronze doorknob set" (top-tier variant): n=22, median $62.95, p25 $35, p75 $100 — e.g. $50.0 Vintage Eastlake Bronze Doorknob Set F (); $65.0 Antique Ceylon Bronze Doorknob Set Vic ()
+- 2026-10-13 – Terapeak 365d sold, query "Russell Erwin doorknob" (top-tier variant): n=50, median $76.09, p25 $35.75, p75 $210 — e.g. $22.75 Antique Russell Erwin Villa F 12100 C (); $35.75 Antique Russell Erwin K 11200 C 1875 D ()
 
 ## Market
 Steady demand from old-house restorers but low ticket; hangers sell in weeks only if priced at $30–50.

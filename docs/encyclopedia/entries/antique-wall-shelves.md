@@ -30,6 +30,8 @@ Large volume of reproductions, and AI-staged / AI-enhanced listing photos now ap
 ## Comps (sold, dated)
 None gathered. Lens median $525 on example comes from dealer asking prices (e.g., Harp Gallery), not sold.
 - 2026-10-13 – Terapeak 365d sold, query "Victorian carved oak clock shelf with": n=8, median $40, p25 $19, p75 $80 — e.g. $40.0 Antique New Haven Clock Co Carved Shel (); $14.99 Antique Wm L Gilbert Statue Handle Kit () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Black Forest carved wall shelf" (top-tier variant): n=50, median $75, p25 $44.99, p75 $130 — e.g. $50.0 Antique Carved Wood Wall Shelf Letter (); $88.99 Vintage Black Forest Carved Wood Corne ()
+- 2026-10-13 – Terapeak 365d sold, query "Eastlake wall shelf" (top-tier variant): n=50, median $79.99, p25 $52.25, p75 $149 — e.g. $49.99 2 VICTORIAN EASTLAKE SPINDLE Cast Iron (); $255.0 Victorian Eastlake Antique Carved Waln ()
 
 ## Market
 Decor-driven, moderate; best sold locally or on eBay with careful shipping. 30-90 days.

@@ -37,6 +37,8 @@ No significant fakes. Later reissue Whyte Laydie/Tubaphone models (e.g. Vega/Dee
 - 2025–26 – unmarked 1900s 5-string, friction pegs, star inlay, missing hooks – $80–150 (eBay sold)
 - 2025–26 – S.S. Stewart Universal Favorite, playable – $350–600 (eBay/Reverb)
 - 2025–26 – Fairbanks Whyte Laydie No.2 – $1,500–2,500 (Reverb/Elderly)
+- 2026-10-13 – Terapeak 365d sold, query "Fairbanks Whyte Laydie banjo" (top-tier variant): n=4, median $650, p25 $22, p75 $1247 — e.g. $22.0 A C Fairbanks Whyte Laydie 2 5 String (); $650.0 1921 Whyte Laydie Style L Banjo Mandol ()
+- 2026-10-13 – Terapeak 365d sold, query "Vega Tubaphone banjo" (top-tier variant): n=23, median $203.05, p25 $39.95, p75 $560 — e.g. $320.0 VEGA BANJO BANJO BODY ONLY TUBAPHONE R (); $750.0 Vega Style M Tubaphone Tenor Banjo 192 ()
 
 ## Market
 Old-time/clawhammer players buy playable open-backs; collectors buy named high-grade models. Sells on Reverb, Banjo Hangout classifieds, and through dealers (Elderly, Retrofret, Mugwumps). Unmarked wall-hangers are slow (general knowledge, verify).

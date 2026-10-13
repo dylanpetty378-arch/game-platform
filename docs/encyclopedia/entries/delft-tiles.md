@@ -39,6 +39,7 @@ Makkum and Royal Delft both make reproductions of antique designs — legitimate
 
 ## Comps (sold, dated)
 No sold comps found this run (no web search; comps.jsonl has no Delft data). Lens best match "Westraven 4 Handpainted Tile Tableau / Panel" with Lens median $60 (asking, 2026-10-13). Estimates above are general knowledge — verify with eBay sold "Westraven tile" and "Delft tile tableau" before buying.
+- 2026-10-13 – Terapeak 365d sold, query "antique Delft tiles lot" (top-tier variant): n=14, median $79.99, p25 $50, p75 $125 — e.g. $250.0 Lot of 6 Early Antique Salvaged Delft (); $50.0 Antique 18th C Dutch Delft Hand Painte ()
 
 ## Market
 Steady but thin. Framed tableaux sell in days–weeks if well photographed; buyers are Dutch-heritage collectors and decorators. Antique tile lots have a dedicated collector base (Netherlands, US). Sell-through moderate (est. 30–45%).

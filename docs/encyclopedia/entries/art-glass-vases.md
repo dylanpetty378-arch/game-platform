@@ -48,6 +48,8 @@ Fake Loetz, Tiffany Favrile and Gallé signatures on Chinese/Romanian glass are 
 - 2025-10 to 2026-10 – eBay via Terapeak – "fenton art glass" – median $26.18, n=50, p25 $17.25, p75 $63.78 (our comps.jsonl, 2026-10-13).
 - Others not retrievable this run; verify with eBay sold before buying.
 - 2026-10-13 – Terapeak 365d sold, query "spiral optic green glass vase": n=38, median $49.99, p25 $39.5, p75 $75 — e.g. $220.0 Duo 11 Fenton Spiral Optic Amber Cranb (); $48.0 Vintage 1950 s Fenton Emerald Green Sn () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Loetz Phanomen vase" (top-tier variant): n=17, median $600, p25 $250, p75 $999 — e.g. $3219.0 Antique 19thC LOETZ Art Nouveau Phanom (); $237.5 Antique LOETZ Art Nouveau Austrian Cze ()
+- 2026-10-13 – Terapeak 365d sold, query "Orrefors Graal vase" (top-tier variant): n=21, median $400, p25 $365, p75 $700 — e.g. $400.0 Orrefors Fish Graal 178 E3 Vase Edward (); $245.0 VINTAGE SIGNED NUMBERED ORREFORS GLASS ()
 
 ## Market
 High supply, high liquidity at low prices. Scandinavian and mid-century American sells quickly when signed/labelled; decor and depression pieces are slow.

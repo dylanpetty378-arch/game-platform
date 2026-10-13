@@ -36,6 +36,8 @@ Curta replicas/3D-printed copies exist; otherwise none.
 ## Comps (sold, dated)
 No dated sold comps fetched this run. Sweep Lens median $160 skews to asking prices.
 - 2026-10-13 – Terapeak 365d sold, query "Victor mechanical adding machine": n=14, median $45, p25 $30, p75 $55.58 — e.g. $55.58 Vintage Victor Mechanical Adding Machi (); $52.0 Vtg Victor Mechanical Adding Machine 8 () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Curta Type II calculator" (top-tier variant): n=49, median $1500, p25 $1125, p75 $1799 — e.g. $59.99 RARE CURTA Calculator TYPE I or Type I (); $1300.0 Curta Type II Calculator in w Paperwor ()
+- 2026-10-13 – Terapeak 365d sold, query "Curta Type I calculator" (top-tier variant): n=47, median $1395, p25 $1025, p75 $1625 — e.g. $67.79 RARE CURTA Calculator TYPE I Metallic (); $59.99 RARE CURTA Calculator TYPE I Metallic ()
 
 ## Market
 Slow for common models; decor buyers. Heavy shipping deters.

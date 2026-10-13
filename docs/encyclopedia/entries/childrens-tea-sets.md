@@ -32,6 +32,8 @@ Modern Chinese lusterware-look sets; reproduction Akro boxes.
 - VTG Japan Childs Lusterware Floral Tea Set 9 pc — $8 (Dec 4, 2025)
 - VINTAGE LUSTERWARE CHILDS TEA SET MADE IN JAPAN c1921 — $23 (Oct 15, 2025)
 - 1930 Lusterware Mickey Minnie Mouse Child Tea 18 piece — $75 (Jan 24, 2026)
+- 2026-10-13 – Terapeak 365d sold, query "Mickey Mouse tea set 1930s" (top-tier variant): n=50, median $43, p25 $23.85, p75 $55 — e.g. $20.5 Vintage 1930s Disney Mickey Minnie Mou (); $15.2 1930s Lusterware Mickey Minnie Mouse C ()
+- 2026-10-13 – Terapeak 365d sold, query "Akro Agate tea set boxed" (top-tier variant): n=40, median $48, p25 $34.95, p75 $87 — e.g. $220.0 Vintage AKRO AGATE 3250 Oxblood Swirl (); $99.95 Akro Agate 16 Pc Small Stippled Band T ()
 
 ## Market
 Slow; many sets listed.

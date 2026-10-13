@@ -52,6 +52,8 @@ No dated sold comps available this run (no web search budget; nothing in comps.j
 - Middle-Eastern tinned copper chamberstick: $20–50 each.
 - Dansk Quistgaard cast-iron candleholders: $40–150.
 - Roycroft hammered copper candlestick pair: $250–700.
+- 2026-10-13 – Terapeak 365d sold, query "Georg Jensen sterling candlestick" (top-tier variant): n=8, median $800, p25 $512.5, p75 $1050 — e.g. $6999.99 Georg Jensen Sterling Silver Grape Taz (); $5556.0 Georg Jensen Sterling Silver Grape can ()
+- 2026-10-13 – Terapeak 365d sold, query "Roycroft candlestick" (top-tier variant): n=41, median $175, p25 $80, p75 $320 — e.g. $405.0 Rare Pair ROYCROFT C406 Candlestick Ar (); $65.0 Arts Crafts Signed Roycroft Candlestic ()
 
 ## Market
 Huge supply of décor; low sell-through below $30. Collector demand is concentrated in Arts & Crafts, Danish modern and Georg Jensen. Seasonal bump Nov–Dec (holiday tables). Bulk garden stands are local pickup only.

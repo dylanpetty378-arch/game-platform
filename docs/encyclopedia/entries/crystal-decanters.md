@@ -38,6 +38,7 @@ Fake Waterford acid marks on Eastern-European cut glass; Louis XIII decanter rep
 - 2026-04-18 – eBay (Terapeak) – Zulay crystal red wine decanter – $22.49
 - 2025-12-04 – eBay (Terapeak) – hand-blown U-shaped glass wine decanter – $18.91
 - 2026-07-29 – eBay (Terapeak) – LEVARE wine decanter with aerator – $35.78
+- 2026-10-13 – Terapeak 365d sold, query "Saint-Louis crystal decanter" (top-tier variant): n=50, median $145, p25 $95, p75 $289.95 — e.g. $66.0 St Louis Crystal Decanter (); $125.0 Clear Cut Crystal Square St Louis Deca ()
 
 ## Market
 Steady. Branded crystal sells within weeks; generic sits.

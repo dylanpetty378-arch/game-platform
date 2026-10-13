@@ -41,6 +41,8 @@ Merged from two write-ups (both dated 2026-10-12; the first is the newer revisio
 - MidCurrent: most old rods sell under $50; quality cane $500–3,000; rods ≤8' bring top money
 - appraisily tiers (estimates): Montague $50–300; South Bend $75–400; Heddon $150–600; Wright & McGill Granger $300–800; Leonard $3,000–15,000; Payne $5,000–20,000+
 - Terapeak Montague – median $90, n=49 (from the 2026-10-12 sweep note)
+- 2026-10-13 – Terapeak 365d sold, query "Payne bamboo fly rod" (top-tier variant): n=26, median $850, p25 $395, p75 $1795 — e.g. $3495.0 Vintage 60s 70s EF Payne 7 2 2 Model 9 (); $850.0 Very Rare Cleve Speer 2 3 Wt Fly Reel ()
+- 2026-10-13 – Terapeak 365d sold, query "Heddon Black Beauty fly rod" (top-tier variant): n=30, median $157.5, p25 $125, p75 $300 — e.g. $101.0 Vintage Heddon 17 Black Beauty 9 3 2 6 (); $350.0 Heddon 17 Black Beauty Bamboo Fly Rod ()
 
 ## Market
 Classic fly-fishing collectors and anglers who fish cane; strong on eBay, Classic Fly Rod Forum classifieds, and Lang's Auction for top makers. Volume is healthy for common makers (Terapeak Montague n=49) (general knowledge for the rest, verify). Spring may be stronger (general knowledge, verify).

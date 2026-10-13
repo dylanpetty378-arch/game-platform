@@ -37,6 +37,8 @@ Counterfeit Neumann U87 and AKG C414 bodies and Chinese clones with copied brand
 - 2026-10-12 – Terapeak Rode NT2 (original) – 13 sold, median $170
 - 2026-10 – Reverb – Rode NT2 original used – $159 (3 **listed**, equipboard – asking, not sold)
 - 2026-10 – CL Boise – Rode NT2 original, no mount – $75 **ask** – clears only ~$33–40 profit
+- 2026-10-13 – Terapeak 365d sold, query "Neumann U87 microphone" (top-tier variant): n=45, median $350.61, p25 $49, p75 $1500 — e.g. $37.44 Neumann U87 Style Condenser Microphone (); $29.99  Dust Cover for Neumann U87 U89 U67 TL ()
+- 2026-10-13 – Terapeak 365d sold, query "AKG C414 EB microphone" (top-tier variant): n=12, median $200, p25 $60, p75 $900 — e.g. $1549.0 AKG C414 EB P48 multi pattern large di (); $800.0 Vintage AKG C414 EB P48 CK12 Capsule C ()
 
 ## Market
 Liquid: Reverb is the main market (about 8% fees with processing), eBay second. Buyers: home-studio musicians, podcasters, studios. Prices for mid-tier mics are stable; boutique/vintage pro mics hold value (general knowledge, verify).

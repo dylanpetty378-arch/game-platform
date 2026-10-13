@@ -37,6 +37,8 @@ No modern fakes of note, but "Bossons-style" heads are sold as Bossons ($20–22
 - Vintage Bossons Chalkware Character Head "Sardinian" — $30 — Mar 20, 2026 (Terapeak)
 - Smuggler Pirate Bossons Chalkware 1973 Congleton — $25 — Jan 20, 2026 (Terapeak)
 - Vintage 1969 Bossons "Jock" the Scotsman — $8.96 — Jul 25, 2026 (Terapeak)
+- 2026-10-13 – Terapeak 365d sold, query "Bossons Fraser Art" (top-tier variant): n=42, median $34.99, p25 $24.99, p75 $70 — e.g. $27.0 Bossons Fraser Art American Bald Eagle (); $24.99 2 Fraser Art Horse Head Wall Plaque 3D ()
+- 2026-10-13 – Terapeak 365d sold, query "Bossons head 1959" (top-tier variant): n=13, median $13, p25 $6.5, p75 $34.99 — e.g. $6.5 BOSSON S ENGLAND ALBANIAN CHALKWARE FI (); $3.0 BOSSON S ENGLAND PERSIAN CHALKWARE FIG ()
 
 ## Market
 Steady trickle of single sales, ~50+/yr per query; collectors are older, many in UK/Canada. Singles 20–60 days. Lots are discounted.

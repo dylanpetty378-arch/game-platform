@@ -37,6 +37,7 @@ No fakes known. Modern cheap camera anamorphics (Sirui, Great Joy) compete with 
 - 2025 – Kowa 16-H – ask $1,190 OBO (eBay 235161786436, not sold)
 - 2026-10 – Kowa 16-D – seller states "sells $350–500 online" (CL NYC, asking $200)
 - 2026-10-12 – Terapeak Kowa 16-D – 5 sold, $180–200
+- 2026-10-13 – Terapeak 365d sold, query "Kowa Prominar 16-H anamorphic" (top-tier variant): n=20, median $289.9, p25 $265, p75 $305.9 — e.g. $265.0  MINT Kowa Prominar Anamorphic 16 H 16 (); $279.9 Kowa Prominar Anamorphic 16 H Top MINT ()
 
 ## Market
 Buyers are indie filmmakers and lens hobbyists; Reverb buyers are the filmmakers. Demand peaked ~2015–2022 and has softened with cheap new anamorphics. Low volume (Terapeak: 5 16-D sales in the lookback). Sellers who know have priced up (general knowledge, verify).

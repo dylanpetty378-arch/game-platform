@@ -34,6 +34,7 @@ The core risk of this type: prints sold as "originals". Also canvas transfers an
 ## Comps (sold, dated)
 - 2025-10 – eBay sold – Campanelli framed print "basket" – $20–45
 - 2025-10 – eBay sold – Gerald Putt S/N print – $25–60
+- 2026-10-13 – Terapeak 365d sold, query "Thomas Kinkade original oil" (top-tier variant): n=50, median $175, p25 $60, p75 $450 — e.g. $55.69 Thomas Kinkade Collectors Society Memb (); $60.0 Thomas Kinkade Collectors Society Memb ()
 
 ## Market
 Prints are abundant and slow; buyers are local decorators and fans of the specific artist. Originals by regional artists sell at regional auction houses and to collectors of that region (general knowledge, verify).

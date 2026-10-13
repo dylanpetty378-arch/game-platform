@@ -55,6 +55,8 @@ Paint loss and rub-through on spelter and bronze-clad; broken-off arms, tails, e
 ## Comps (sold, dated)
 No dated sold comps could be retrieved this run (no web search budget; no bookends rows in Terapeak comps.jsonl). Estimates above are general knowledge; verify via eBay sold search before any buy over $30.
 - 2026-10-13 – Terapeak 365d sold, query "Borghese horse bookend": n=7, median $39.99, p25 $31.49, p75 $45 — e.g. $25.0 Antique Borghese Bookend Italy Dark Sc (); $55.0 Pair of Vintage BORGHESE Italian Horse () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Frankart nude bookends" (top-tier variant): n=36, median $160, p25 $75, p75 $253 — e.g. $269.95 RARE ORIGINAL 1920 RISQUE DECO FRANKAR (); $249.99 Art Deco Nude Bookends Frankart Style ()
+- 2026-10-13 – Terapeak 365d sold, query "Roycroft copper bookends" (top-tier variant): n=50, median $125, p25 $85, p75 $200 — e.g. $50.0 ANTIQUE 1920s ROYCROFT SIGNED HAMMERED (); $85.0 ANTIQUE ROYCROFT SIGNED HAMMERED COPPE ()
 
 ## Market
 Steady, moderately liquid on eBay; decorators buy stone and chalkware cheaply; collectors pay for Frankart, Roycroft and figural cast iron. Heavy pairs carry high shipping, which compresses margins on anything under $80.

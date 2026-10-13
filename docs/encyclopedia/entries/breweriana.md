@@ -35,6 +35,7 @@ Reproduction tin signs ("Ande Rooney" and many others) are common and often sold
 ## Comps (sold, dated)
 None gathered.
 - 2026-10-13 – Terapeak 365d sold, query "beer coaster set": n=50, median $13.72, p25 $7.02, p75 $17.5 — e.g. $13.3 Coasters Set of 6 for Drinks Beer Coff (); $4.69 Vintage Hamms Beer Coasters Chicago Cu () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "pre-prohibition beer tray" (top-tier variant): n=50, median $249.95, p25 $112.5, p75 $500 — e.g. $550.0 Pre Prohibition Humboldt Brewing Co Eu (); $44.95 Vintage Pre Prohibition Olympia Cavali ()
 
 ## Market
 Strong organised collector base (NABA, BCCA) for good pieces; common promos glut.

@@ -36,6 +36,8 @@ Heavy reproduction of Parrish, Coca-Cola and Cream of Wheat. Northern prints wer
 
 ## Comps (sold, dated)
 No sold comps retrieved this run. Lens median for the Northern pair was $30 (asking-price based).
+- 2026-10-13 – Terapeak 365d sold, query "Maxfield Parrish Edison Mazda calendar" (top-tier variant): n=49, median $200, p25 $81, p75 $400 — e.g. $350.0 Original 1930 Maxfield Parrish LARGE C (); $24.5 18 EDISON MAZDA Calendar Poster Prints ()
+- 2026-10-13 – Terapeak 365d sold, query "Brown Bigelow Elvgren calendar" (top-tier variant): n=35, median $18.75, p25 $3.99, p75 $55 — e.g. $10.48 NEW The Best of Gil Elvgren Calendar A (); $3.14 9 Gil Elvgren Calendar Paintings on Pi ()
 
 ## Market
 Low tier: high supply, slow. Parrish/Rockwell calendars: steady collector demand. Days to sell: 30–90 for low tier.

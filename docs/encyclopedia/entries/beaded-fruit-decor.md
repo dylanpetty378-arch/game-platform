@@ -32,6 +32,7 @@ General knowledge, verify.
 
 ## Comps (sold, dated)
 No sold comps verified this run (no web search; none in comps.jsonl). Lens returned no match for pid 7955526588.
+- 2026-10-13 – Terapeak 365d sold, query "beaded sequin fruit vintage" (top-tier variant): n=50, median $22, p25 $14, p75 $29.95 — e.g. $33.99 Vintage 1973 Walco Beaded Fruit Craft (); $15.0 vintage lot 5 push pin sequined beaded ()
 
 ## Market
 Seasonal décor; moderate volume, low prices. Order of magnitude 50–150 sold/month.

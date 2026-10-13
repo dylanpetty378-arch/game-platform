@@ -37,6 +37,8 @@ Modern Chinese "Willow" with fake old marks; Churchill and Johnson Bros still pr
 ## Comps (sold, dated)
 No sold comps retrieved this run. The Lens median for the example (Sadler swirl teapot) was $70 in Etsy asking prices; general knowledge puts Sadler Willow teapot sales at about $25–45 (estimate).
 - 2026-10-13 – Terapeak 365d sold, query "Sadler Blue Willow teapot": n=50, median $24.5, p25 $20, p75 $32 — e.g. $35.0 Blue Willow Teapot 77614 (); $22.0 Vintage SADLER Blue Willow Gold Trim I () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Spode Willow platter" (top-tier variant): n=9, median $61, p25 $48, p75 $75 — e.g. $150.0 Staffordshire English Blue Willow 18 P (); $64.09 Copeland Spode Semi China Blue Willow ()
+- 2026-10-13 – Terapeak 365d sold, query "Buffalo Pottery Blue Willow" (top-tier variant): n=50, median $28, p25 $15, p75 $45 — e.g. $7.74 Antique 1911 Buffalo Pottery Blue Will (); $11.0 Antique Vintage BLUE WILLOW Gravy Boat ()
 
 ## Market
 Very large supply and soft demand. Teapots and 20th-c pieces sell slowly at low prices. eBay: hundreds sold per month. Days to sell: 20–60.

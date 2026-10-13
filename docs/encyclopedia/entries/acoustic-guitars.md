@@ -37,6 +37,8 @@ Chinese counterfeit Martins/Gibsons ("Chibson") exist; check serials and constru
 - 2026-03-08 eBay sold $84.99 – Elezan American Legacy AL-100 (Terapeak)
 - 2026-09-08 eBay sold $43 – Esteban American Legacy Starlight Limited Edition (Terapeak)
 - 2026-10-13 – Terapeak 365d sold, query "acoustic guitars": n=48, median $13.01, p25 $5.85, p75 $23.11 — e.g. $18.67 5600 Miles Digital TV Antenna 1080P 4K Waterproof HDTV  (Jul 17, 2026); $68.82 Valeton GP-5 Super Compact Multi-Effects Processor   NA (Oct 10, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Martin D-18 acoustic guitar" (top-tier variant): n=50, median $1849, p25 $485, p75 $2359 — e.g. $37.05 NOS Genuine Martin D 28 18 Beveled Tor (); $21.03 NOS Genuine Martin Black Beveled Dread ()
+- 2026-10-13 – Terapeak 365d sold, query "Gibson J-45 acoustic guitar" (top-tier variant): n=49, median $23.99, p25 $18.76, p75 $1654.99 — e.g. $13.24 Fire Stripe Tortoise Vintage Guitar Pi (); $15.13 Red Tortoise Shell Vintage Guitar Pick ()
 
 ## Market
 Huge liquid market; budget models sell but cheaply. Reverb is better for $200+.

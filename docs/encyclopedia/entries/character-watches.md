@@ -42,6 +42,8 @@ Not running (cheap pin-levers may need a full service costing more than the watc
 
 ## Comps (sold, dated)
 - No sold comps retrieved this run. Lens medians (asking, 2026-10): Hopalong Cassidy watch $14 (bad matches), 1970s GOP elephant watch $120 (inflated asking). Ladder is estimated.
+- 2026-10-13 – Terapeak 365d sold, query "Ingersoll Mickey Mouse watch" (top-tier variant): n=50, median $150, p25 $45, p75 $600 — e.g. $310.0 Restoration Service For Ingersoll Mick (); $28.23 Ingersoll Mickey Mouse Wrist Watch Rep ()
+- 2026-10-13 – Terapeak 365d sold, query "Hopalong Cassidy watch saddle box" (top-tier variant): n=12, median $83, p25 $63.75, p75 $100 — e.g. $229.95 Vintage Hopalong Cassidy Wrist Watch w (); $90.9 Hopalong Cassidy Wrist Watch 1950 s W ()
 
 ## Market
 Steady collector base for cowboy and 1930s characters (aging buyers; prices flat to soft). Boxes and running condition drive value. 1970s novelties sell slowly.

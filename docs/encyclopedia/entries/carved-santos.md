@@ -44,6 +44,8 @@ Large market of resin and newly carved "antique" santos from Mexico, the Philipp
 - 2026-08-17 – 18/19th-c. carved polychrome santo – $220 (eBay sold)
 - 2026-10-07 – St Vincent Ferrer – $199.96 (eBay sold)
 - 2026-07-22 – 19th-c. Mexican santo – $189.99 (eBay sold)
+- 2026-10-13 – Terapeak 365d sold, query "Santo Nino carved wood" (top-tier variant): n=13, median $175, p25 $60.32, p75 $299.99 — e.g. $60.32 Filipino Traditional Hand Carved Santo (); $175.0 Vintage Nino De Atocha 1988 Santo Puer ()
+- 2026-10-13 – Terapeak 365d sold, query "santos glass eyes polychrome" (top-tier variant): n=5, median $395, p25 $222.8, p75 $500 — e.g. $143.5 19th Century Spanish Colonial Polychro (); $395.0 Antique 1800 s Santos Madonna Virgin M ()
 
 ## Market
 Steady: roughly a dozen genuine-looking santos sold on eBay Jul–Oct 2026 in the $190–400 band, with occasional four-figure pieces. Buyers: Latin American / Spanish-colonial art collectors, religious-antique dealers, Southwest (Santa Fe, Tucson) decorators. Top pieces belong at Invaluable/LiveAuctioneers houses. Mild Christmas/Easter interest for Niño figures (general knowledge, verify).

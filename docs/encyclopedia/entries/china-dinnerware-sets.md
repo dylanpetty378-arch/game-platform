@@ -43,6 +43,7 @@ Fake Meissen crossed swords and Herend lookalikes from China; "Dresden"-style ge
 - 2025-11-10 – eBay (Terapeak) – set of 3 Wedgwood Columbia Gold saucer plates – $32.98
 - 2026-06-17 – eBay (Terapeak) – Castleton China Malin floral gold rim dinner plates – $45.50
 - 2026-07-13 – eBay (Terapeak) – Winterling Roslau Bavaria teacup trio – $7
+- 2026-10-13 – Terapeak 365d sold, query "Meissen dinner plate" (top-tier variant): n=50, median $65, p25 $35, p75 $180 — e.g. $103.67 Meissen Hand Painted Strewn Scattered (); $55.0 Meissen Blue Onion Soup Bowl Crossed S ()
 
 ## Market
 Oversupplied. Boomer estates dump full sets; Replacements pays little. Only high-end patterns move quickly.

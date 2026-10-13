@@ -32,6 +32,8 @@ The whole doorstop/bank/figural field is saturated with reproductions; assume un
 
 ## Comps (sold, dated)
 No sold data found in this run (no web search, no Terapeak rows). Lens "median $167" is asking-price noise.
+- 2026-10-13 – Terapeak 365d sold, query "Judd cast iron" (top-tier variant): n=49, median $59.99, p25 $41, p75 $120 — e.g. $59.99 CAST IRON ART NOUVEAU LADY LUCK CLOVER (); $89.95 Antique 1920 s Art Deco Pair of Judd E ()
+- 2026-10-13 – Terapeak 365d sold, query "Hubley figural" (top-tier variant): n=49, median $36, p25 $29, p75 $79.99 — e.g. $35.0 LONE RANGER GABRIEL HUBLEY FIGURES THI (); $39.99 VTG CAST IRON HUNTING DOG FIGURAL PAPE ()
 
 ## Market
 Abundant supply, slow sell-through for generic figurals; decorator buyers on Etsy pay slightly more than eBay.

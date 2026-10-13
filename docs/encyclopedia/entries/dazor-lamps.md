@@ -37,6 +37,8 @@ No significant fakes; Dazor's later production and generic articulating lamps ge
 - 2025 – Dazor 2008 flying saucer – $479 (eBay)
 - 2025 – Dazor M-210 rolling lamp – $100–195 (eBay)
 - 2025 – Dazor M-209 magnifier – $120 (eBay mirror)
+- 2026-10-13 – Terapeak 365d sold, query "Dazor UFO lamp 2004" (top-tier variant): n=5, median $324.99, p25 $315, p75 $334 — e.g. $334.0 VTG Dazor MCM Flying Saucer UFO Atomic (); $315.0 VTG Dazor MCM Flying Saucer UFO Atomic ()
+- 2026-10-13 – Terapeak 365d sold, query "Dazor floating arm lamp" (top-tier variant): n=50, median $65, p25 $40, p75 $99 — e.g. $149.99 Vintage Dazor 1104 Floating Machine Ar (); $100.0 Vintage DAZOR FLOATING MAGNIFYING FLOO ()
 
 ## Market
 Industrial/MCM decor buyers and designers; workshop users buy cheap working units. eBay and Etsy for mid tier, 1stDibs/Chairish for restored saucers. Moderate volume; saucers are the liquid, high-value piece (general knowledge, verify).

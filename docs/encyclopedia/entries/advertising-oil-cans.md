@@ -41,6 +41,7 @@ No dated sold comps yet – the lines below are asking prices, not sales.
 - 2026-10 – eBay – Archer Lubricants Indian-graphic oil cans / sample kits – asks $40–200
 - 2026-10 – CL Fargo – Archer 25 lb grease can w/ Indian, ~5 lb grease left – $145 ask (would sell $150–300 clean; seller aware, "RARE")
 - 2026-10 – CL Monterey – 5 ft x 5 ft plastic Shell sign – $60 (plastic, local only; not porcelain)
+- 2026-10-13 – Terapeak 365d sold, query "porcelain gas pump plate" (top-tier variant): n=49, median $67.5, p25 $39.99, p75 $100.6 — e.g. $96.8 SINCLAIR VINTAGE GENUINE 12 OIL PORCEL (); $53.57 VINTAGE GENUINE SUPER SHELL PORCELAIN ()
 
 ## Market
 Strong collector base (petroliana, "man cave" decorators); regular sales on eBay; top pieces go through Morphy and Richmond Auctions. Graphic cans sell readily; plain cans are slow (general knowledge, verify).

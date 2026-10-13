@@ -40,6 +40,8 @@ Modern Indian factories make "Jaques-style" and "Soviet replica" weighted sets; 
 ## Comps (sold, dated)
 None in our data. Lens median $388 for the sweep example reflects asking prices for Russian painted sets.
 - 2026-10-13 – Terapeak 365d sold, query "carved painted wooden chess set": n=18, median $62, p25 $42, p75 $95 — e.g. $100.0 Vintage wooden hand carved and hand pa (); $115.0 Vintage Chess set with large hand carv () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Jaques Staunton chess set" (top-tier variant): n=12, median $219.99, p25 $99, p75 $395 — e.g. $202.74 1849 Jaques Repro Staunton Chess Piece (); $43.0 Jaques of London BCC vintage Chess Set ()
+- 2026-10-13 – Terapeak 365d sold, query "Soviet Botvinnik chess" (top-tier variant): n=23, median $24.95, p25 $10, p75 $244 — e.g. $450.0 Vintage Soviet wooden weighted tournam (); $59.0 1984 Set M Botvinnik Analytical works ()
 
 ## Market
 Strong steady chess interest (post-2020 boom). Soviet tournament sets sell fast; painted folk sets moderate (weeks).

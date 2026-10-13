@@ -37,6 +37,7 @@ Not a fake target. Confusion risks: Guild-made originals vs DeArmond reissues, a
 - 2025 – Reverb used average M-75T – $600 (equipboard)
 - Indonesian M-75 (knowledge, eBay 2024–25) – $280–380 with case
 - 2026-10-12 – Terapeak 'DeArmond M-75' – 0 sold in 12 months on eBay (use Reverb for comps)
+- 2026-10-13 – Terapeak 365d sold, query "DeArmond X-155" (top-tier variant): n=4, median $350, p25 $225, p75 $595 — e.g. $350.0 Squier DeArmond X 155 Sunburst 03 Kore (); $595.0 De Armond X 155 Electric Hollow body G ()
 
 ## Market
 Thin on eBay (Terapeak shows zero M-75 sales in 12 months); Reverb is the real market. Buyers: players wanting affordable Guild-style guitars, Bigsby fans. Slow sellers – expect weeks to months (general knowledge, verify).

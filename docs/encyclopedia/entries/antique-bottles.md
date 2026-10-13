@@ -56,6 +56,7 @@ Buy rule (short): Pass on anything machine-made after ~1915 unless it's a known 
 - 2026-10-13 – Terapeak 365d sold, query "antique bottles": n=44, median $14.85, p25 $9.92, p75 $21.49 — e.g. $6.23 Can Opener Antique Bronze Wall Mounted Beer Bottle, Sod (Sep 29, 2026); $16.64 Chinese Old Tibet Silver Hollow Carved 8 Immortals Snuf (Aug 29, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "assorted antique glass bottle lot": n=27, median $22.5, p25 $18, p75 $25 — e.g. $44.95 Vintage   Antique Glass Bottle Stoppers – Assorted Crys (Apr 18, 2026); $22.65 Lot of 16 Vintage and Antique Glass Bottles of Various  (Jan 1, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "old glass bottles": n=49, median $16.98, p25 $9.95, p75 $21.58 — e.g. $8.43 Novacan Old Masters Stained Glass Liquid Flux - 8 oz. B (Sep 20, 2026); $21.65 Pack of 3 Young Living Thieves Spray 1 fl oz NEW OLD ST (May 1, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Hutchinson soda bottle" (top-tier variant): n=50, median $24.95, p25 $18.39, p75 $50 — e.g. $18.39 COCA COLA 2007 LIMITED EDITION REPRODU (); $30.0 Vintage Coca Cola 1894 Hutchinson Bott ()
 
 ## Market
 - Serious bottle collecting is club-driven (FOHBC, regional shows) and pays well for rarities; the general eBay market for common bottles is saturated and slow.

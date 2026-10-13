@@ -37,6 +37,8 @@ Many modern "antique-style" tea caddies and writing boxes from India/China (arti
 ## Comps (sold, dated)
 None for this type in our data. Lens median $269 for the sweep example is driven by asking prices of unrelated "rare unique" boxes.
 - 2026-10-13 – Terapeak 365d sold, query "carved wooden box": n=48, median $40.21, p25 $18.54, p75 $62.91 — e.g. $39.25 Meinl Sleigh Bells Black 25 Bells (); $15.73 Wooden Carved Coffin Incense Burner Co () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Georgian tea caddy" (top-tier variant): n=50, median $137, p25 $90, p75 $295 — e.g. $1487.5 Magnificent antique Sterling Silver Te (); $137.0 19th Century Georgian Antique Tea Cadd ()
+- 2026-10-13 – Terapeak 365d sold, query "Tunbridge ware box" (top-tier variant): n=49, median $79, p25 $49, p75 $131.5 — e.g. $59.0 Antique Tunbridge Ware Jewelry Box Flo (); $79.0 Antique Tunbridge Ware Stationary Box ()
 
 ## Market
 Good antique boxes sell steadily to decorators and collectors; import boxes are slow.

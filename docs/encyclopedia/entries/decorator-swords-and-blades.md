@@ -38,6 +38,7 @@ Indian-made Civil War and Japanese "gunto" reproductions are common; fake Japane
 
 ## Comps (sold, dated)
 - None dated yet. Tier prices above are from eBay sold categories viewed Oct 2026 and agent knowledge.
+- 2026-10-13 – Terapeak 365d sold, query "Ames Civil War sword" (top-tier variant): n=49, median $550, p25 $325, p75 $816.35 — e.g. $395.0 Original Ames Civil War Sword And Scab (); $455.0 Ames M1860 Cavalry Sword Dated 1864 Ci ()
 
 ## Market
 Real military swords sell steadily to militaria collectors on eBay and at specialist auctions; decorator swords sell slowly and cheaply, mostly locally (general knowledge, verify). Facebook Marketplace bans weapons, so eBay is the main outlet.

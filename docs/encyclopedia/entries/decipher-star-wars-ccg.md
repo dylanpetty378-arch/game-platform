@@ -34,6 +34,8 @@ Resealed booster boxes/packs and proxy printed rares exist (general knowledge, v
 
 ## Comps (sold, dated)
 - None recorded yet – full research still to do.
+- 2026-10-13 – Terapeak 365d sold, query "Star Wars CCG booster box sealed" (top-tier variant): n=49, median $42.65, p25 $18, p75 $193.71 — e.g. $13.32 Star Wars CCG Decipher Premiere Limite (); $11.32 Star Wars CCG Decipher Premiere Limite ()
+- 2026-10-13 – Terapeak 365d sold, query "Decipher Star Wars Limited booster box" (top-tier variant): n=49, median $45, p25 $18.67, p75 $322.99 — e.g. $13.32 Star Wars CCG Decipher Premiere Limite (); $11.32 Star Wars CCG Decipher Premiere Limite ()
 
 ## Market
 Small, dedicated player/collector community (the Players' Committee still runs the game); sealed product and late-set rares sell on eBay and in the community. Nostalgia demand rises with Star Wars releases (general knowledge, verify).

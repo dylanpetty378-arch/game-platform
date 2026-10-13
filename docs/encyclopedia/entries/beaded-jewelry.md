@@ -59,6 +59,7 @@ Necklaces, bracelets, earrings and collars built from strung or woven beads (gla
 - Estimate: imported loom seed-bead bracelets sell $8–20 (Crazy Crow sells new imported loom beadwork wholesale at a few dollars).
 - 2026-10-13 – Terapeak 365d sold, query "glass seed bead cuff bracelet": n=50, median $12.95, p25 $9.99, p75 $17 — e.g. $19.62 PURA VIDA PRIDE WOVEN SEED BEAD BRACEL (); $8.39 Peacock Multi Color Handmade Beaded St () (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Glentex faux pearl beaded collar": n=12, median $20, p25 $17.95, p75 $26.95 — e.g. $20.0 Vintage Lot 2 Lovely Ladies Collars 1 (); $18.56 1940 s Vintage Glentex faux pearl Coll () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Venetian chevron trade beads" (top-tier variant): n=50, median $37.5, p25 $25, p75 $43 — e.g. $13.24  10 Old Sky Blue Brick Red White Chevr (); $13.86  10 Original Black White Chevron Huron ()
 
 ## Market
 - Huge volume, low prices; eBay and Etsy are flooded with modern beadwork. Signed Haskell and true trade beads sell within weeks; everything else languishes.

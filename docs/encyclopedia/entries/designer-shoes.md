@@ -46,6 +46,7 @@ Worn insoles (foot imprints), scuffed toes, heel tip wear, peeling exotic scales
 - 2026-10 – eBay – 1950s–60s alligator women's pumps, Mandel's, size 8N – $19 OBO, unsold (https://www.ebay.com/itm/203991262587) – shows how low generic vintage alligator can go
 - 2011 – 1stdibs (dealer) – 1930s Julianelli alligator shoes, 7.5B, professionally reglazed – price not shown (https://www.1stdibs.com/fashion/accessories/shoes/1930s-alligator-shoes-coty-award-winner-julianelli/id-v_41327)
 - Dated sold comps for Julianelli pumps were not retrievable; estimate $50–110 for good brown alligator pumps in a common size.
+- 2026-10-13 – Terapeak 365d sold, query "Herbert Levine shoes vintage" (top-tier variant): n=7, median $22.5, p25 $14.99, p75 $52 — e.g. $22.5 Vintage Herbert Levine Shoes 7 5 (); $70.0  VINTAGE 1950s Rare Herbert Levine sho ()
 
 ## Market
 Vintage shoes are a niche: size and width dictate whether anything sells (narrow AAA and sizes under 6 or over 10 sit). Exotic skins have extra friction (eBay bans international shipment of many exotic-skin items; California restricts sales of alligator and crocodile products). Louboutin resale is liquid but dominated by authentication-backed platforms (The RealReal, Vestiaire, Poshmark Authentication).

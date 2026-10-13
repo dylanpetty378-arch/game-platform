@@ -61,6 +61,8 @@ Buy rule (short): Only buy a specific scarce shape in a collected pattern, ident
 - 2026-10-13 – Terapeak 365d sold, query "depression elegant glass": n=50, median $15.5, p25 $9.8, p75 $23.2 — e.g. $15.76 JADEITE GREEN DEPRESSION STYLE GLASS BUTTER DISH w/ LID (Jun 6, 2026); $20.86 Green Depression Style Glass Rooster Chicken Figurine,  (Sep 18, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Westmoreland Swirl and Ball ruby flash": n=6, median $14, p25 $11.99, p75 $15.5 — e.g. $20 Vintage Westmoreland Swirl and Ball Clear Glass Pedesta (Jun 28, 2026); $15.5 Westmoreland Swirl and Ball Ruby Flash Vintage Glass Ca (Apr 6, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "Anchor Hocking pressed glass reamer": n=44, median $10, p25 $7.64, p75 $14 — e.g. $16.95 Vnt. 60’s Anchor Hocking Clear Ribbed 6" Glass Juicer R (Dec 18, 2025); $6.95 Vtg 60s Glass Juicer Anchor Hocking Criss Cross 6" Ream (Jul 1, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Cameo Ballerina depression glass" (top-tier variant): n=50, median $21, p25 $11.5, p75 $35.08 — e.g. $21.24 Vintage Uranium Green Depression Glass (); $21.22 Green Cameo Depression Glass 8 1 2 Squ ()
+- 2026-10-13 – Terapeak 365d sold, query "Cambridge Rose Point" (top-tier variant): n=50, median $26.5, p25 $16.09, p75 $49 — e.g. $47.5 SET of 4 CAMBRIDGE ROSE POINT WATER GO (); $95.04 2 Cambridge Rose Point Gold Encrusted ()
 
 ## Market
 - Depression glass prices fell 50–80% from their 1990s peak as collectors aged; ordinary pieces now sell slowly at $10–40. Scarce shapes in green Cameo, pink Mayfair, Royal Lace cobalt and jadeite still sell, mostly to completist collectors.

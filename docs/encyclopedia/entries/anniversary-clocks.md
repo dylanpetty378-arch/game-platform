@@ -39,6 +39,8 @@ Not faked. Quartz clocks imitating 400-day look; check for battery compartment.
 - 2026-02-26 – eBay (Terapeak) – Vintage K&O Kundo 400-day (better example) – $225
 - 2026-01-28 – eBay (Terapeak) – musical anniversary clock with dancers on rotating carousel – $50
 - 2025-10-25 – eBay (Terapeak) – Rhythm Musical Melody anniversary clock with animated dancers – $63.99
+- 2026-10-13 – Terapeak 365d sold, query "Gustav Becker 400 day clock" (top-tier variant): n=37, median $100, p25 $25.99, p75 $250 — e.g. $15.86 Replacement Key Gustav Becker Disc Pen (); $14.72 Gustav Becker 400 Day Clock 0040 Suspe ()
+- 2026-10-13 – Terapeak 365d sold, query "Kundo anniversary clock glass dome" (top-tier variant): n=50, median $39, p25 $25, p75 $58 — e.g. $4.95 SET OF 3 REPLACEMENT LEVELING FEET FOR (); $17.88 glass clock dome for Kundo Elgin 5 1 2 ()
 
 ## Market
 Huge supply, buyers mainly decorators and hobby repairers. Glass domes break in shipping; many sellers ship without domes.

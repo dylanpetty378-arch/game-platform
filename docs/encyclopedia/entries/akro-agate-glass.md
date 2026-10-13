@@ -31,6 +31,8 @@ Akro doll dish reproductions by others; Westite and Imperial slag confused with 
 ## Comps (sold, dated)
 None this run. Lens median $21 for the example agrees with low tier.
 - 2026-10-13 – Terapeak 365d sold, query "Akro Agate slag glass leaf ashtray": n=16, median $11.9, p25 $6.99, p75 $16.99 — e.g. $6.99 2 Vintage Akro Agate Slag Glass LEAF A (); $10.0 Vtg Akro Agate White Opalescent Slag G () (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Akro Agate boxed children's dish set" (top-tier variant): n=4, median $231.07, p25 $87, p75 $405 — e.g. $450.0 Akro Agate Lemonade Oxblood 20 Piece S (); $231.07 Vintage Akro Agate Oxblood 15 pc set C ()
+- 2026-10-13 – Terapeak 365d sold, query "Akro Agate oxblood lemonade" (top-tier variant): n=50, median $40, p25 $22, p75 $63 — e.g. $15.0 Akro Agate Children s Dish Lemonade Ox (); $32.95 Akro Agate Interior Panel Lemonade Oxb ()
 
 ## Market
 Active collector club; common items oversupplied.

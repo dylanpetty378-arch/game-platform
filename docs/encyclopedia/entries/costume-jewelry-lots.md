@@ -51,6 +51,8 @@ Buy rule (short): Pay for marks, metal content and sets, not for the word "vinta
 - 2026-10-13 – Terapeak 365d sold, query "costume jewelry lots": n=49, median $32.85, p25 $20.4, p75 $43.52 — e.g. $9.79 Wholesale Jewelry Lot - 40 Pairs High End Quality Earri (Oct 9, 2026); $18.94 Gold Silver Tone Costume Jewelry Lot 3lb  Vintage   Mod (Oct 11, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "mixed costume jewelry lot": n=49, median $33.31, p25 $21.6, p75 $43.53 — e.g. $18.94 Gold Silver Tone Costume Jewelry Lot 3lb  Vintage   Mod (Oct 11, 2026); $34.56 Wholesale Colorful Zircon Crystal Mixed Rings Bulk Fing (Oct 11, 2026) (generic queries can include unrelated items)
 - 2026-10-13 – Terapeak 365d sold, query "faux pearl statement necklace": n=50, median $18, p25 $13.74, p75 $36.5 — e.g. $17.72 Multi Layer White Faux Pearl Statement Necklace Long Be (Mar 15, 2026); $17.65 Chunky White Faux Baroque Pearl Layered Necklace Beaded (Sep 29, 2026) (generic queries can include unrelated items)
+- 2026-10-13 – Terapeak 365d sold, query "Juliana brooch earrings set" (top-tier variant): n=50, median $65.88, p25 $39.99, p75 $110 — e.g. $200.0 JULIANA BOOK PIECE Navette Square Cut (); $45.0 Vtg Juliana D E amber green heliotrope ()
+- 2026-10-13 – Terapeak 365d sold, query "Schreiner brooch" (top-tier variant): n=50, median $383.99, p25 $118.5, p75 $595 — e.g. $45.0 Vintage Aurora Borealis Possible Schre (); $500.0 Schreiner Daisy Inverted Rhinestones M ()
 
 ## Market
 - Very liquid category on eBay (thousands of sales a month) but low prices; signed sets and named designers sell within days to weeks. Mixed lots sell to crafters and resellers by weight.

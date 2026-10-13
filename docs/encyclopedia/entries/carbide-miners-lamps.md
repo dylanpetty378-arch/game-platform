@@ -36,6 +36,8 @@ Reproduction and decorative "miner's lamp" brass pieces exist; some modern carbi
 ## Comps (sold, dated)
 - 2025-10 – eBay sold – Justrite brass cap lamp complete – $40–65
 - 2025-10 – eBay sold – Guy's Dropper – $90–150
+- 2026-10-13 – Terapeak 365d sold, query "Baldwin carbide lamp" (top-tier variant): n=49, median $72, p25 $50, p75 $127.5 — e.g. $82.23 Vintage Miner s Baldwin Carbide Lamp (); $272.0 Vintage Miner s NP Baldwin Lighting Bu ()
+- 2026-10-13 – Terapeak 365d sold, query "Guy's Dropper carbide lamp" (top-tier variant): n=50, median $39.99, p25 $26, p75 $50 — e.g. $97.48 Shanklin Carbide Lamp Lighter NOS Quan (); $14.5 Carbide Miners Lamp Lapel Pin Justrite ()
 
 ## Market
 Steady niche: mining-memorabilia collectors (Appalachia, Pennsylvania, the West), cavers and decorators. Common Justrites are plentiful, so only maker/rarity moves the price. Sells on eBay; mining-collectible shows (general knowledge, verify).
