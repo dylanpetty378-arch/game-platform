@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:31:33Z",
+ "updated": "2026-10-13T07:35:29Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2704,
-  "events": 10489,
+  "lens": 2729,
+  "events": 10514,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2736,
+  "queued": 2711,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 163,
-  "flagged": 132
+  "lensed": 179,
+  "flagged": 141
  },
  "last_harvests": [
   {
@@ -686,6 +686,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952200420",
+   "title": "Vintage Fish Shaped Pitcher",
+   "price": 15,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/milton-vintage-fish-shaped-pitcher/asftFTdZgByArpSFze5XPw",
+   "best": "VINTAGE ROYAL BAYREUTH FISH CREAMER (NOT ...",
+   "med": 115,
+   "ratio": 7.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7947297546",
    "title": "Vintage Floral Table Lamp Set",
    "price": 80,
@@ -727,6 +738,17 @@
    "best": "Presentation: Double-matted and framed in a metallic shadowbox-style frame.",
    "med": 295,
    "ratio": 7.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949308820",
+   "title": "ANTIQUE PILL BOXES - $35 and up",
+   "price": 35,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-antique-pill-boxes-35-and-up/8XZKRsRW7D5hgcNcaBohRA",
+   "best": "14ct Gold & Silver Mine Cut Diamond Stud Earrings - Etsy",
+   "med": 251,
+   "ratio": 7.17,
    "ai_value": ""
   },
   {
@@ -1005,6 +1027,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939586255",
+   "title": "Peruvian Earrings - Sterling Silver",
+   "price": 20,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/marshall-peruvian-earrings-sterling/apHrs4DjhMFgWhMBoUpnQD",
+   "best": "AMAZING VINTAGE 1970-80'S STERLING SILVER CRESCENT MOON WITH ...",
+   "med": 72,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7952978366",
    "title": "Dean axes",
    "price": 95,
@@ -1071,6 +1104,17 @@
    "ai_value": "sell online and in antique shops for roughly $30 to $96,"
   },
   {
+   "pid": "7962784680",
+   "title": "Inuit Soapstone Carving Signed -Josie",
+   "price": 50,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/goleta-inuit-soapstone-carving-signed/oiMTMXJMESfJALf5aTjUfW",
+   "best": "Inuit Soapstone Carving of a Bear and Seal - Etsy New Zealand",
+   "med": 165,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7949089407",
    "title": "VTG. STERLING SILVER LAPIS-MALACHITE STONE INLAID NECKLACE",
    "price": 50,
@@ -1091,6 +1135,17 @@
    "med": 595,
    "ratio": 3.22,
    "ai_value": "sell between $225"
+  },
+  {
+   "pid": "7929534436",
+   "title": "Vintage glass pickle jar with lid",
+   "price": 35,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/hope-vintage-glass-pickle-jar-with-lid/5hxYcMydpbNnSdNDkAmngr",
+   "best": "Vintage Glass Barrel Style General Store Pickle Jar Wire ...",
+   "med": 112,
+   "ratio": 3.2,
+   "ai_value": ""
   },
   {
    "pid": "7956170841",
@@ -1122,6 +1177,17 @@
    "url": "https://www.craigslist.org/view/d/hampton-antique-1920s-30s-clayton/6CVdamZeP7aSfbotHdVWwc",
    "best": "Rare Blow Torch Clayton and Lambert Double Valve and Pump ...",
    "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944703501",
+   "title": "Vintage deco lock skeleton key",
+   "price": 20,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/mount-joy-vintage-deco-lock-skeleton-key/qYwheDjLbjQ7KiJFrhC6cw",
+   "best": "Cast Iron Lock And Key Set Large Antique Vintage Look ...",
+   "med": 60,
    "ratio": 3,
    "ai_value": ""
   },
@@ -1178,6 +1244,17 @@
    "best": "Hand Painted Chocolate - Tea Pot - Blue Gold Pink Yellow ...",
    "med": 119,
    "ratio": 2.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979572125",
+   "title": "EPIPHONE 12 STRING GUITAR",
+   "price": 100,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/slingerlands-epiphone-12-string-guitar/rjWXYnKjyyRrAbLE8p9BHJ",
+   "best": "Epiphone 12 String Acoustic Guitars for sale | eBay",
+   "med": 250,
+   "ratio": 2.5,
    "ai_value": ""
   },
   {
@@ -1544,6 +1621,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982648991",
+   "title": "Vintage Indian on a Arrowhead Shape Ashtray",
+   "price": 99,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/dallesport-vintage-indian-on-arrowhead/wA2Zw3X359u2kPPTCdDGwa",
+   "best": "vtg 30s 40s Native American Indian Chalk Plaster Chief Pin ...",
+   "med": 115,
+   "ratio": 1.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7941818279",
    "title": "Pair of Vintage Roldan Klumpe Skier Dolls",
    "price": 75,
@@ -1682,6 +1770,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/valley-village-vintage-wine-chianti/ww4BDfDX7E6vwyW7h1aMvG",
    "best": "Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943935956",
+   "title": "2 Vintage butterfly knives knife",
+   "price": 125,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-vintage-butterfly-knives-knife/dAyPZbCw1UKBvdJjD86bUG",
+   "best": "2 Vintage butterfly knives knife",
    "med": null,
    "ratio": null,
    "ai_value": ""
