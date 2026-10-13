@@ -54,7 +54,7 @@ SCHEMA = {
     'lens': ['ts','pid','run','i','img','price','best','med','n','ratio','collect','sources','ai','ai_value','flag'],
     'events': ['ts','pid','stage','status','type','note','run','by','data'],
     'comps': ['ts','type','query','source','prices','median','n','pid','note','run'],
-    'item_types': ['ts','slug','name','volume','aliases','note'],
+    'item_types': ['ts','slug','name','volume','aliases','note','rubric'],
     'runs': ['ts','run'],
 }
 
