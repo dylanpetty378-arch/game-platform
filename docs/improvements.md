@@ -27,6 +27,9 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 ## Log
 
 ### 2026-10-13 (17:00–17:40) — unlensed pool drained; tells in 128 entries
+- FIX: 95 size-kills had titles the bulky filter passed (tricycles, bikes, sleds, floor lamps, coolers, computers,
+  amplifiers, street signs, churns, 5-gal crocks). `scoring.py` gained those words plus a HEAVY list that wins even
+  when a small word (sign, lamp, radio) is in the title. Guitar amps and radios stay allowed.
 - Last 851 never-Lensed rows: 4 agents, 851 kills, 0 asks. Three pools in a row now show the same shape: the
   never-Lensed queue is ~75% furniture/decor by title and the rest dies on weight or retail pricing. So the harvest
   ranking is letting too much furniture through — `is_bulky` should learn from these kills (next improvement).
