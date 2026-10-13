@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T22:35:52Z
+# Refurbish status — 2026-10-13T22:39:22Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| queued | 729 |
-| flagged | 456 |
-| lensed | 344 |
-| queued/relens | 297 |
+| queued | 704 |
+| flagged | 471 |
+| lensed | 351 |
+| queued/relens | 300 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 10 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 6924
-- events: 26344
+- lens: 6949
+- events: 26369
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -111,7 +111,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (456)
+## Flagged by Lens, waiting for photo review (471)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -231,9 +231,9 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00b0b_b5bIEPJuRNm_07K0ak_300x300.jpg" width="120"> | 7963180689 | $10 | milwaukee | [Roy Rogers + Andy Devine vintage signed cowboy dis](https://www.craigslist.org/view/d/greendale-roy-rogers-andy-devine/fg77cVVqf29ufRUudUVXR1) | 8”x10” photo - still, Roy Rogers #226, Andy Devine / eBay | 60 | 6 |
 | <img src="https://images.craigslist.org/00z0z_6pawAwfkNT3_0t20CI_300x300.jpg" width="120"> | 7945033825 | $30 | allentown | [Cross pendant 14 kt solid gold](https://www.craigslist.org/view/d/bethlehem-cross-pendant-14-kt-solid-gold/o68tmhv5jaCekWmwt2hap9) | eBay | 179 | 5.97 |
 | <img src="https://images.craigslist.org/00s0s_cvMOCiQ7M4P_0CI0t2_300x300.jpg" width="120"> | 7945944456 | $200 | sfbay | [vintage Beetles albums/ records](https://www.craigslist.org/view/d/fresno-vintage-beetles-albums-records/23BQ5u1ufFKH9Cs1LbbUwQ) | Beatles-Sgt. Pepper's Lonely Hearts Club Band-1967 Capitol . | 1191 | 5.96 |
+| <img src="https://images.craigslist.org/00j0j_19wznHun3tQ_0hq0jM_300x300.jpg" width="120"> | 7937805648 | $32 | boston | [Vintage 1928 gold tone clip earrings](https://www.craigslist.org/view/d/natick-vintage-1928-gold-tone-clip/nePb5NqR7YZddBAxH1UJCG) | YVES SAINT LAURENT Vintage Goldplated Clip on Earrings With  | 189 | 5.91 |
 | <img src="https://images.craigslist.org/00909_agZf8sxgQ5P_0t20CI_300x300.jpg" width="120"> | 7981479300 | $20 | reno | [Vintage floral bracelt](https://www.craigslist.org/view/d/citrus-heights-vintage-floral-bracelt/nZumSLbiK9XmvvFxLWStyk) | eBay | 118 | 5.9 |
 | <img src="https://images.craigslist.org/00V0V_8SiqCtKpuBY_0Mo12w_300x300.jpg" width="120"> | 7934410299 | $10 | fresno | [Vintage Citizen Men's Quartz Watch](https://www.craigslist.org/view/d/fresno-vintage-citizen-mens-quartz-watch/uwtXhp6Qt6mYtx3kp3NxEL) | Citizen Men's Vintage Watch, Gold-Tone, Run / eBay | 59 | 5.9 |
 | <img src="https://images.craigslist.org/00Q0Q_eF5kKdSwtUx_0CI0t2_300x300.jpg" width="120"> | 7944194267 | $25 | denver | [Antique Leaded glass chandelier](https://www.craigslist.org/view/d/evergreen-antique-leaded-glass/m46etaKU82hTuzFDi4JdGz) | Style: Tiffany-style or Handel-style reproduction/vintage pi | 146 | 5.84 |
 | <img src="https://images.craigslist.org/00p0p_dOQK5fEB8D9_0t20CI_300x300.jpg" width="120"> | 7932675120 | $25 | spokane | [Vintage 1940's/1950's costume clip](https://www.craigslist.org/view/d/coeur-alene-vintage-1940s-1950s-costume/msR1BKt78G6papR2xHJ1LG) | Etsy | 145 | 5.8 |
 | <img src="https://images.craigslist.org/00i0i_lMbnDIel5wH_0hq0hq_300x300.jpg" width="120"> | 7982713917 | $40 | jerseyshore | [Vintage 15.5" China Shiwan Wucai Porcelain Statue ](https://www.craigslist.org/view/d/colts-neck-vintage-155-china-shiwan/vhG61P4KvzxWaLrU9vLJtK) | 8” Vintage Porcelain Geisha W/O Box - Fantastic Condition /  | 230 | 5.75 |
-| <img src="https://images.craigslist.org/00s0s_5S0oOzMStAK_0CI0t2_300x300.jpg" width="120"> | 7952658862 | $35 | raleigh | [Antique Stanley Hand Planes](https://www.craigslist.org/view/d/raleigh-antique-stanley-hand-planes/ueUccZWevxXTM9hHDjYQtQ) | Stanley 48 hand plane for tongue and groove cuts | 200 | 5.71 |

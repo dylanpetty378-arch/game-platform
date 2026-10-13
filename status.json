@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:35:52Z",
+ "updated": "2026-10-13T22:39:22Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 6924,
-  "events": 26344,
+  "lens": 6949,
+  "events": 26369,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 344,
+  "lensed": 351,
   "comps/pass": 1,
-  "queued/relens": 297,
+  "queued/relens": 300,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 456,
+  "flagged": 471,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 729
+  "queued": 704
  },
  "last_harvests": [
   {
@@ -1647,6 +1647,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937805648",
+   "title": "Vintage 1928 gold tone clip earrings",
+   "price": 32,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-1928-gold-tone-clip/nePb5NqR7YZddBAxH1UJCG",
+   "best": "YVES SAINT LAURENT Vintage Goldplated Clip on Earrings With ...",
+   "med": 189,
+   "ratio": 5.91,
+   "ai_value": ""
+  },
+  {
    "pid": "7981479300",
    "title": "Vintage floral bracelt",
    "price": 20,
@@ -1977,6 +1988,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935170893",
+   "title": "Antique/Vintage Framed Art Print. Lot 7",
+   "price": 20,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/lake-forest-antique-vintage-framed-art/hyb22dTKQgRkDAZk55JjzC",
+   "best": "Vintage 1940 E. C. Weisbach Litho Print Of Costal Line City ...",
+   "med": 89,
+   "ratio": 4.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7977726585",
    "title": "Vintage Brass Lion Door Knocker",
    "price": 25,
@@ -2140,6 +2162,17 @@
    "med": 200,
    "ratio": 4,
    "ai_value": ""
+  },
+  {
+   "pid": "7960740756",
+   "title": "Waltham Analog/Digital Diamond Watch",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-waltham-analog-digital/vr1iSEPc767TqMz1iHPu3E",
+   "best": "Display: Combination analog clock face (with gold-tone hands and a small diamond marker at the 12 o'clock posi",
+   "med": 99,
+   "ratio": 3.96,
+   "ai_value": "Value: Generally sells online (such as on eBay or Craigslist) in the $25 to $50"
   },
   {
    "pid": "7966824777",
@@ -2670,6 +2703,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954360927",
+   "title": "Vintage Green Enamel Brooch Pin Clean",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/baldwin-vintage-green-enamel-brooch-pin/aRQuvGeB3fHRfPikbrQewj",
+   "best": "Blue and Glow Green Daily Bread Music Resin Chip - Etsy",
+   "med": 30,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7943408324",
    "title": "Vintage Wedding Dress",
    "price": 50,
@@ -2813,6 +2857,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965207243",
+   "title": "Antique Staffordshire Pottery",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-bruno-antique-staffordshire-pottery/mWzpLqaurpsSiCXnH5sMnS",
+   "best": "Value / Market Range: Similar antique Staffordshire double-figure or spill vases generally sell in the range o",
+   "med": 125,
+   "ratio": 2.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7953310085",
    "title": "Gruen Veri-thin 17 jewels Men\u2019s Winding Watch",
    "price": 70,
@@ -2931,6 +2986,17 @@
    "best": "Craigslist",
    "med": 220,
    "ratio": 2.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944045335",
+   "title": "1920's MILITARY STYLE WOMENS WATCH...REDUCED...",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-1920s-military-style-womens/agrox6zceR34WoxYRa8E8s",
+   "best": "Band: Flexible double-chain or mesh-style metallic bracelet with an integrated clasp link.",
+   "med": 115,
+   "ratio": 2.56,
    "ai_value": ""
   },
   {
@@ -3095,6 +3161,17 @@
    "url": "https://www.craigslist.org/view/d/san-antonio-vintage-dutch-boy-white/vRcXqhNzTUcYaGgswMKehD",
    "best": "Era: Generally dates from the 1920s through the 1940s.",
    "med": 98,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982874723",
+   "title": "Vintage Sterling Silver Goldstone Ring",
+   "price": 49,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/dallesport-vintage-sterling-silver/hQR5Ww24knqR2abARwE4Ys",
+   "best": "eBay",
+   "med": 120,
    "ratio": 2.45,
    "ai_value": ""
   },
@@ -3594,6 +3671,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971561981",
+   "title": "Sterling Silver Pendant",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sterling-silver-pendant/m5eAD51tyr46Q1qKdzQedX",
+   "best": "eBay",
+   "med": 75,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7951881500",
    "title": "Vintage Water Pumps",
    "price": 75,
@@ -3800,6 +3888,17 @@
    "best": "Ken Merrick Pottery Jar w/Cork Studio Art Stoneware Canister ...",
    "med": 125,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947903455",
+   "title": "VINTAGE NAVAJO STERLING SILVER BLUE TURQUOISE RING SIZE 5.25 SIGNED",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-navajo-sterling/2hozamwTeiJtGGpKRSrLSV",
+   "best": "Love Street Vintage",
+   "med": 163,
+   "ratio": 1.63,
    "ai_value": ""
   },
   {
@@ -4056,6 +4155,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973859213",
+   "title": "Vintage Sterling Silver Screw Back Earrings",
+   "price": 25,
+   "area": "yakima",
+   "url": "https://www.craigslist.org/view/d/roslyn-vintage-sterling-silver-screw/wRSMEgoG821Mk4xJKECbmp",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7968021540",
    "title": "Vintage Gruen Precision 17 Jewels manual wind watch",
    "price": 200,
@@ -4152,6 +4262,17 @@
    "best": "Antique Station Telephone Home Decor Brass Designer Vintage ...",
    "med": 90,
    "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974818034",
+   "title": "Sterling Malachite earring, 925 Mexico, vintage",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-sterling-malachite-earring-925/dhan1md8itVH7XbBPGiyte",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 1.28,
    "ai_value": ""
   },
   {
@@ -4372,6 +4493,17 @@
    "best": "Amazon.com: Lenox Tinkerbell's Magical Garden : Home & Kitchen",
    "med": 123,
    "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948159613",
+   "title": "VINTAGE STERLING SILVER BRACELET",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-sterling-silver/tUSCNN9NsLbsM7bQsn6Egt",
+   "best": "eBay",
+   "med": 252,
+   "ratio": 1.01,
    "ai_value": ""
   },
   {
@@ -4991,6 +5123,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957974029",
+   "title": "Vintage 90's Avon Signed Butterfly Brooch",
+   "price": 100,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/shelbyville-vintage-90s-avon-signed/oD39ga6VZnkwNkLXMAt8Y9",
+   "best": "Vintage Avon Gold Tone Enamel Rhinestones Pearls Butterfly Designer",
+   "med": 46,
+   "ratio": 0.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7955419386",
    "title": "Vintage 1940s Composition Doll \u2013 Possible Horsman",
    "price": 75,
@@ -5154,6 +5297,17 @@
    "med": 19,
    "ratio": 0.27,
    "ai_value": ""
+  },
+  {
+   "pid": "7936670475",
+   "title": "LOT OF VINTAGE COSTUME EARRINGS PEARL BAKELITE MONET",
+   "price": 60,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-lot-of-vintage-costume/5xu1TWYmWFNHtTVwraNqYA",
+   "best": "eBay",
+   "med": 13,
+   "ratio": 0.22,
+   "ai_value": "Prices - 3,746 Auction Price Results - Page 28 $24"
   },
   {
    "pid": "7951615083",
@@ -5404,6 +5558,17 @@
    "area": "allentown",
    "url": "https://www.craigslist.org/view/d/bangor-vintage-playboy-club-glass-ashtry/fvDAxb89DwHv4TzUnfVSr1",
    "best": "VINTAGE PLAYBOY BUNNY HUGH HEFFNER MANSION CLUB STRIPPER ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956069821",
+   "title": "Brett Varney Creekside Limited Edition Signed Print",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/everett-brett-varney-creekside-limited/jcq8g3V7pwAc3Pi2gXAQhZ",
+   "best": "ORIGINAL Brett Varney, Hand Signed, Numbered, Small Edition ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
