@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T08:30:04Z",
+ "updated": "2026-10-13T08:35:58Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3079,
-  "events": 10865,
+  "lens": 3104,
+  "events": 10890,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2361,
+  "lensed": 401,
+  "queued": 2336,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 340,
+  "flagged": 292,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 284,
-  "lensed": 384,
   "decided/find": 7,
   "expired": 1
  },
@@ -852,6 +852,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944123505",
+   "title": "Vintage sawhorses",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-vintage-sawhorses/6gAWnjK4PqBuNcwLYyWRAY",
+   "best": "Vintage Stereotomy Miniature Saw Horses - 92140U \u2013 Jim ...",
+   "med": 305,
+   "ratio": 10.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7954451666",
    "title": "Vintage all-wool blanket",
    "price": 10,
@@ -1193,6 +1204,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980993249",
+   "title": "Antique brass",
+   "price": 20,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/springfield-antique-brass/i84DPUiipbSey3CZP2spaK",
+   "best": "Mid Century HUBLEY 665 Bookend Gold Federal Patriotic Eagle ...",
+   "med": 129,
+   "ratio": 6.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7955389802",
    "title": "Raymond Weil Ladies Watch",
    "price": 85,
@@ -1410,6 +1432,17 @@
    "best": "McNeela Irish Mandolin - Best Beginner Mandolins",
    "med": 787,
    "ratio": 5.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945248865",
+   "title": "Old crockery",
+   "price": 75,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/shakopee-old-crockery/g9zdF4H85jozappzMXJjkm",
+   "best": "Antique Western Stoneware Jug Set of 2, Crock Jugs - Etsy",
+   "med": 390,
+   "ratio": 5.2,
    "ai_value": ""
   },
   {
@@ -1817,6 +1850,17 @@
    "best": "Etsy",
    "med": 95,
    "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955678685",
+   "title": "Vintage Hub caps",
+   "price": 40,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-hub-caps/rXMMG7oUpTteeVUtyRAXmW",
+   "best": "VTG 1970's Jeep Jeepster Cherokee Wheel Hubcaps (4) 14.5\u201d | eBay",
+   "med": 150,
+   "ratio": 3.75,
    "ai_value": ""
   },
   {
@@ -2422,6 +2466,17 @@
    "best": "RARE VINTAGE SNAP ON TOOLS TUNE UP KIT # C133C WRENCH 11 pc ...",
    "med": 320,
    "ratio": 2.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966943781",
+   "title": "Vintage Rotary Phone with Phone Stand",
+   "price": 45,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/glen-ellyn-vintage-rotary-phone-with/frfPnFed7JpxmsZDmQ5xH9",
+   "best": "RARE Vintage antique military PHONE telephone bakelite ...",
+   "med": 113,
+   "ratio": 2.51,
    "ai_value": ""
   },
   {
@@ -3217,6 +3272,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982334093",
+   "title": "Moving out SALE!!!",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/central-falls-moving-out-sale/rDGcL5qSF8EpzZmESiLuTj",
+   "best": "Office Desk And Chair for Sale in Houston, TX - OfferUp",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931426872",
+   "title": "Vintage leather scabbard",
+   "price": 50,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/ballston-spa-vintage-leather-scabbard/887YhRtvtQh7r5ryGPKbPX",
+   "best": "Vtg Leather Case Soviet Rifle Gun Russian Army Officers ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7976302827",
    "title": "Vintage Weber Grill",
    "price": 125,
@@ -3278,6 +3355,17 @@
    "area": "pittsburgh",
    "url": "https://www.craigslist.org/view/d/pitcairn-vintage-black-angus-king-size/jLfVauH8goPxAbCoFfqKRs",
    "best": "Black Rotisseries for sale | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961131500",
+   "title": "Vintage marble game",
+   "price": 50,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-marble-game/aiZ1g9tchTLZgZT65qFVHS",
+   "best": "Boob Tube Game | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
