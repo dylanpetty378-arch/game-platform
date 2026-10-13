@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:02:37Z",
+ "updated": "2026-10-13T09:08:14Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3279,
-  "events": 11065,
+  "lens": 3304,
+  "events": 11090,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 499,
-  "queued": 2161,
+  "lensed": 513,
+  "queued": 2136,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 341,
-  "flagged": 368,
+  "flagged": 379,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -577,6 +577,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947621106",
+   "title": "Vintage RAM Golf Bag",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/state-college-vintage-ram-golf-bag/pmtBVjoYuQMiEaLpmuny2o",
+   "best": "Vintage Daiwa Golf Bag Coach Collection Cart Ember Red with ...",
+   "med": 215,
+   "ratio": 21.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7967343321",
    "title": "VINTAGE AQUARIUM",
    "price": 25,
@@ -673,6 +684,17 @@
    "best": "Montmartre Artist Watercolor - Etsy",
    "med": 445,
    "ratio": 17.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944557992",
+   "title": "Vintage table lamp ,Brass,works=Reduced",
+   "price": 35,
+   "area": "duluth",
+   "url": "https://www.craigslist.org/view/d/dresser-vintage-table-lamp/4HkS39w8rZWDDQUAwy9a6h",
+   "best": "Chairish",
+   "med": 620,
+   "ratio": 17.71,
    "ai_value": ""
   },
   {
@@ -1424,6 +1446,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958775066",
+   "title": "VINTAGE PULLEY",
+   "price": 30,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/reardan-vintage-pulley/iK9GqnsTqaZNW3XUGEGbn8",
+   "best": "Antique Cast Iron Teardrop Barn Pulley Figure 8 Swivel Hook Marked Farm Decor",
+   "med": 200,
+   "ratio": 6.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7951221217",
    "title": "Old pump",
    "price": 30,
@@ -1551,6 +1584,17 @@
    "area": "moseslake",
    "url": "https://www.craigslist.org/view/d/federal-way-vintage-colt-sp1-handguards/tesjsVUFVVsMHR43jc14YP",
    "best": "Craigslist",
+   "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982206866",
+   "title": "Antique Metal Display Stand",
+   "price": 20,
+   "area": "hanford",
+   "url": "https://www.craigslist.org/view/d/scotts-valley-antique-metal-display/baRe1LhMqBG22iKQiWEJza",
+   "best": "Etsy",
    "med": 125,
    "ratio": 6.25,
    "ai_value": ""
@@ -1798,6 +1842,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974309000",
+   "title": "Vintage silverware",
+   "price": 50,
+   "area": "lakecity",
+   "url": "https://www.craigslist.org/view/d/new-port-richey-vintage-silverware/2u21TB5rJ9QVeCQVWb3PSA",
+   "best": "Vtg Lifetime Cutlery Golden Roses Gold Electroplate ...",
+   "med": 265,
+   "ratio": 5.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7981523472",
    "title": "14k yellow gold miniature ring pendant",
    "price": 150,
@@ -1963,6 +2018,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932978800",
+   "title": "Vintage Cookie Jar",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/lockport-vintage-cookie-jar/dNRGMGQ1SN4v8EZxxTT3TV",
+   "best": "This item is unavailable - Etsy",
+   "med": 72,
+   "ratio": 4.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7976862804",
    "title": "CONN ACOUSTIC  GUITAR",
    "price": 140,
@@ -2093,6 +2159,17 @@
    "med": 175,
    "ratio": 4.38,
    "ai_value": "sold on Temu United States $175"
+  },
+  {
+   "pid": "7943965128",
+   "title": "OLD WALL PHONE",
+   "price": 75,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/lebanon-old-wall-phone/9vmfZSAiMTNVGJat16WXcm",
+   "best": "Antique Oak Wall Telephone 5 Bar Magneto Hand Crank Twin ...",
+   "med": 325,
+   "ratio": 4.33,
+   "ai_value": ""
   },
   {
    "pid": "7971760209",
@@ -3360,6 +3437,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982197365",
+   "title": "70 Vintage Maine Yearbooks",
+   "price": 40,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/augusta-70-vintage-maine-yearbooks/uwoADCh1he8sfUCTxgdn4Y",
+   "best": "eBay",
+   "med": 84,
+   "ratio": 2.1,
+   "ai_value": "sell, or value a particular yearbook? Show more Visual matches $32"
+  },
+  {
    "pid": "7954013000",
    "title": "Copper Revere ware teapot",
    "price": 60,
@@ -3390,6 +3478,17 @@
    "best": "Antique C. 1850 French Olive / Olive Oil Two Handle Pottery ...",
    "med": 359,
    "ratio": 2.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955275130",
+   "title": "Vintage Sony Bass Reflex",
+   "price": 50,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-sony-bass-reflex/sAYCyL3s6vdJXwPiUwAsgC",
+   "best": "eBay",
+   "med": 101,
+   "ratio": 2.02,
    "ai_value": ""
   },
   {
@@ -3888,6 +3987,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974831600",
+   "title": "Vintage Sterling Frog Brooch",
+   "price": 75,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-sterling-frog-brooch/rPB8ubxkVpDceSTA7oL1vZ",
+   "best": "eBay",
+   "med": 81,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7933306235",
    "title": "Vintage Bayou Le Mardis Gras New Orleans Pencil-Signed Poster",
    "price": 75,
@@ -4103,6 +4213,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/oceanside-unicycle-vintage-schwinn/xzmfBmwHco7svcNG7SwkXH",
    "best": "The Unicycle Factory's Seat Posts",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975169949",
+   "title": "Vintage Hat Box Collection",
+   "price": 15,
+   "area": "saltlakecity",
+   "url": "https://www.craigslist.org/view/d/west-jordan-vintage-hat-box-collection/tgUndNDnmF8GGPAE1dBMYv",
+   "best": "Extra Large Floribunda Hat Box: Handmade Edwardian Style ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

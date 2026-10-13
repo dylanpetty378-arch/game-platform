@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T09:02:37Z
+# Refurbish status — 2026-10-13T09:08:14Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,10 +6,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 2161 |
+| queued | 2136 |
 | photo_review/kill | 1994 |
-| lensed | 499 |
-| flagged | 368 |
+| lensed | 513 |
+| flagged | 379 |
 | queued/relens | 341 |
 | decided/ask | 28 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 4
 - searches: 1006
 - listings: 5407
-- lens: 3279
-- events: 11065
+- lens: 3304
+- events: 11090
 - comps: 870
 - item_types: 777
 - runs: 0
@@ -77,7 +77,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00o0o_7CuhamuXq1g_0CI0t2_300x300.jpg" width="160"> | [Large Antique Steam Gauge](https://www.craigslist.org/view/d/highlands-large-antique-steam-gauge/etB54kpBK9fxV6EFG9mFWX) | $25 | jerseyshore | **decided/ask** — Ashton Valve Co. Boston 10.5 in brass 'Standard Test Gage' 0-500 psi, missing glass, red-painted back. No entry or comps. Large brass test gauges sell to steampunk/industrial buyers ~$100-200, but ship is heavy (~$25 eac |
 | <img src="https://images.craigslist.org/00U0U_id0sXmKkDvf_0CI0t2_300x300.jpg" width="160"> | [Old Coleman Empire Lantern](https://www.craigslist.org/view/d/bloomingdale-old-coleman-empire-lantern/nQFrLmBT5FsMtu4sNNumgf) | $15 | plattsburgh | **decided/ask** — Nickel-plated fount, red ventilator, red valve knob, fretwork burner guard, Pyrex globe; title says 'Coleman Empire'. Fount bottom photo shows no readable stamp. If it is a 1930s-40s nickel 242/243 class lantern, it sell |
 
-## Flagged by Lens, waiting for photo review (368)
+## Flagged by Lens, waiting for photo review (379)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -114,6 +114,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00y0y_5Bnyd1FwqXk_0t20CI_300x300.jpg" width="120"> | 7930092058 | $60 | merced | [Acoustic Action Setup](https://www.craigslist.org/view/d/merced-acoustic-action-setup/rz6MfkgQZwyzT3ePyQLNAM) | Gibson 2017 Limited Edition J-180 Starburst Elite Acoustic | 1400 | 23.33 |
 | <img src="https://images.craigslist.org/00h0h_31G2yYyzJXc_0CI0t2_300x300.jpg" width="120"> | 7982649909 | $60 | sfbay | [Framed Signed Print by Sean Jacobs](https://www.craigslist.org/view/d/san-francisco-framed-signed-print-by/kerwh1YreDz6yyT6xjg9TE) | Gallery Direct Sean Jacobs 'Before Time' 2-piece Canvas Art  | 1350 | 22.5 |
 | <img src="https://images.craigslist.org/00W0W_lhh1Y08q4fA_0t10CI_300x300.jpg" width="120"> | 7949759389 | $40 | santafe | [Elgin vintage solid wood mantel clock empty box](https://www.craigslist.org/view/d/santa-fe-elgin-vintage-solid-wood/hADWwEJb93NBz3yerfSuco) | Howard Miller 1970s Graham Bracket Key Wound Mantel Clock .. | 890 | 22.25 |
+| <img src="https://images.craigslist.org/00x0x_1kA3uNk4OG4_0t20CI_300x300.jpg" width="120"> | 7947621106 | $10 | washingtondc | [Vintage RAM Golf Bag](https://www.craigslist.org/view/d/state-college-vintage-ram-golf-bag/pmtBVjoYuQMiEaLpmuny2o) | Vintage Daiwa Golf Bag Coach Collection Cart Ember Red with  | 215 | 21.5 |
 | <img src="https://images.craigslist.org/00X0X_8N2OKPSfVtx_0CI0t2_300x300.jpg" width="120"> | 7967343321 | $25 | chambana | [VINTAGE AQUARIUM](https://www.craigslist.org/view/d/mount-morris-vintage-aquarium/ueniS2SG84vDJM3zD4unjw) | 6gal. Fish Tank / eBay | 525 | 21 |
 | <img src="https://images.craigslist.org/00606_a7YaNEnhDJ3_0t20CI_300x300.jpg" width="120"> | 7982564865 | $20 | hudsonvalley | [Vintage Bath Vanity Mirror/Medicine Cabinet](https://www.craigslist.org/view/d/hopewell-junction-vintage-bath-vanity/bApQMSAJjuV6y9Q1cxj4Ss) | Mirror Home Interiors New / Mercari | 412 | 20.6 |
 | <img src="https://images.craigslist.org/00y0y_99PHNBpMgdh_0t20CI_300x300.jpg" width="120"> | 7966993338 | $69 | baltimore | [Vintage Floor lamp](https://www.craigslist.org/view/d/marlboro-vintage-floor-lamp/7CUneqhf8yza7692ZnCXPV) | Vintage Mid Century Twisted Glass Pole Floor Lamp / Chairish | 1400 | 20.29 |
@@ -123,6 +124,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00N0N_jhtA83WLqD7_0od0t2_300x300.jpg" width="120"> | 7953998239 | $5 | losangeles | [Vintage blue and white Chinese ceramic vase](https://www.craigslist.org/view/d/los-angeles-vintage-blue-and-white/87Z1ozeUEKGwRmYKEPoyJM) | Blue and White Asian Style Floral Designed Vase / eBay | 95 | 19 |
 | <img src="https://images.craigslist.org/01717_ikskBrHw6tt_0CI0t2_300x300.jpg" width="120"> | 7953546060 | $10 | chicago | [Hang picture](https://www.craigslist.org/view/d/downers-grove-hang-picture/oWy9q1iw8npKxZnj4aYifM) | Beautiful Signed & Framed Robert Cox Oil Painting 27x24 ... | 180 | 18 |
 | <img src="https://images.craigslist.org/01010_fTgzma6KHz6_0CI0t2_300x300.jpg" width="120"> | 7932363345 | $25 | sfbay | [Paris Print](https://www.craigslist.org/view/d/menlo-park-paris-print/2CkzgH1xeUkTUM4USt7hs3) | Montmartre Artist Watercolor - Etsy | 445 | 17.8 |
+| <img src="https://images.craigslist.org/00T0T_3QlTgd8EKEv_0t20CI_300x300.jpg" width="120"> | 7944557992 | $35 | duluth | [Vintage table lamp ,Brass,works=Reduced](https://www.craigslist.org/view/d/dresser-vintage-table-lamp/4HkS39w8rZWDDQUAwy9a6h) | Chairish | 620 | 17.71 |
 | <img src="https://images.craigslist.org/00i0i_3ZJPAQ9mOva_0m30lY_300x300.jpg" width="120"> | 7953946555 | $100 | phoenix | [ANTIQUE BEVELED GLASS MIRROR](https://www.craigslist.org/view/d/prescott-antique-beveled-glass-mirror/ks2mPSSEz3yLDkRmVMtvUn) | ✨ Mirror, mirror… we've got them all ✨ From vintage ... | 1750 | 17.5 |
 | <img src="https://images.craigslist.org/00s0s_3tIkQWTGOq2_0jm0pO_300x300.jpg" width="120"> | 7974248028 | $75 | pullman | [Antique Brass Bed](https://www.craigslist.org/view/d/stevensville-antique-brass-bed/k8dqDhJaEYDjCdx2UBq7Tk) | Antique Victorian Metal Double/Full Size Bed Frame With ... | 1298 | 17.31 |
 | <img src="https://images.craigslist.org/00F0F_jSD3fHiPy9D_0t20CI_300x300.jpg" width="120"> | 7982635866 | $10 | lansing | [Seiko Angled Desk Clock](https://www.craigslist.org/view/d/lansing-seiko-angled-desk-clock/i1Nn1NCdnHQEmHRBCJkEXN) | Craigslist | 170 | 17 |
@@ -191,6 +193,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00X0X_91RmjOex0RQ_0Ae0t2_300x300.jpg" width="120"> | 7949308820 | $35 | losangeles | [ANTIQUE PILL BOXES - $35 and up](https://www.craigslist.org/view/d/los-angeles-antique-pill-boxes-35-and-up/8XZKRsRW7D5hgcNcaBohRA) | 14ct Gold & Silver Mine Cut Diamond Stud Earrings - Etsy | 251 | 7.17 |
 | <img src="https://images.craigslist.org/00J0J_9t5sOJVDgbi_0CI0t2_300x300.jpg" width="120"> | 7943266018 | $40 | boston | [Old basket](https://www.craigslist.org/view/d/holyoke-old-basket/1QWz3e58AqRFyaFLSozPy7) | Vintage Brown Wicker Basket Truck Picnic Basket Storage ... | 280 | 7 |
 | <img src="https://images.craigslist.org/00J0J_iB1ojm4EfT8_0t20t2_300x300.jpg" width="120"> | 7976998032 | $10 | spokane | [Old military wool pants and more](https://www.craigslist.org/view/d/coeur-alene-old-military-wool-pants-and/4aCzCgqZNr2EJETSH5XAMg) | Craigslist | 70 | 7 |
+| <img src="https://images.craigslist.org/00g0g_7ekVZs5PB3M_0CI0t2_300x300.jpg" width="120"> | 7958775066 | $30 | spokane | [VINTAGE PULLEY](https://www.craigslist.org/view/d/reardan-vintage-pulley/iK9GqnsTqaZNW3XUGEGbn8) | Antique Cast Iron Teardrop Barn Pulley Figure 8 Swivel Hook  | 200 | 6.67 |
 | <img src="https://images.craigslist.org/00x0x_gDkUIlwYmxy_03D04Q_300x300.jpg" width="120"> | 7951221217 | $30 | chico | [Old pump](https://www.craigslist.org/view/d/san-francisco-old-pump/hdE5SYV1ktCBk92LpVHpNS) | VINTAGE OIL BARREL PUMP DISPENSER / #407954737 | 200 | 6.67 |
 | <img src="https://images.craigslist.org/00k0k_dlCPDzZhFjJ_0cU07g_300x300.jpg" width="120"> | 7982608833 | $15 | salem | [Vintage Die Cast Hubley Tractor Toy](https://www.craigslist.org/view/d/keizer-vintage-die-cast-hubley-tractor/dQdtfF1rmPdDsptWLsmuoW) | 1950's Hubley Die Cast Ford 961 Tractor W20 / eBay | 100 | 6.67 |
 | <img src="https://images.craigslist.org/00V0V_dfuPtKz4yZB_0ak07K_300x300.jpg" width="120"> | 7930065049 | $50 | kansascity | [Vintage 1930's Leitz Slide Projector for Restorati](https://www.craigslist.org/view/d/shawnee-vintage-1930s-leitz-slide/jpcnLJuHNjW6P2xRKEvUW7) | Leitz VIII Diaprojector Slide Projector with Leitz-Hektor .. | 333 | 6.66 |
@@ -200,6 +203,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00S0S_hK5grFBG5fF_05r07g_300x300.jpg" width="120"> | 7937359740 | $45 | newyork | [Oscar Schlegelmilch tea set](https://www.craigslist.org/view/d/new-york-oscar-schlegelmilch-tea-set/5tvC8TrSYbdZaKTLNUW88C) | KAFFESERVIS, 18+2delar. Karlskrona porslinsfabrik, Edward .. | 295 | 6.56 |
 | <img src="https://images.craigslist.org/00x0x_dUoDwfnAyFh_0t20CI_300x300.jpg" width="120"> | 7944508498 | $10 | scottsbluff | [Vintage cans](https://www.craigslist.org/view/d/eaton-vintage-cans/pWvDUWUsyvqq3FA59G6WWm) | Kettle Lard Metal Tin Bucket 50 LB Size Central Abattoir Co  | 65 | 6.5 |
 | <img src="https://images.craigslist.org/00x0x_2jqef3dwiGi_0t20CI_300x300.jpg" width="120"> | 7980993249 | $20 | nh | [Antique brass](https://www.craigslist.org/view/d/springfield-antique-brass/i84DPUiipbSey3CZP2spaK) | Mid Century HUBLEY 665 Bookend Gold Federal Patriotic Eagle  | 129 | 6.45 |
-| <img src="https://images.craigslist.org/00303_3K8byiwONts_0hp0CI_300x300.jpg" width="120"> | 7958273198 | $20 | denver | [Vintage Shoei Helmet](https://www.craigslist.org/view/d/denver-vintage-shoei-helmet/9QaN7jN6zjJgh5inDUmebx) | Craigslist | 125 | 6.25 |
-| <img src="https://images.craigslist.org/00V0V_bhcOmCsHHqC_0kE0fu_300x300.jpg" width="120"> | 7948421099 | $20 | redding | [Old School Tool Box](https://www.craigslist.org/view/d/fair-oaks-old-school-tool-box/5snxJ2UN7dFn6XW7uqMmKJ) | Vintage Waterloo Machinist Tool Box - Etsy | 125 | 6.25 |
-| <img src="https://images.craigslist.org/00n0n_jNSaK8kRepz_0iA0rS_300x300.jpg" width="120"> | 7956200159 | $20 | moseslake | [Vintage Colt SP1 Handguards](https://www.craigslist.org/view/d/federal-way-vintage-colt-sp1-handguards/tesjsVUFVVsMHR43jc14YP) | Craigslist | 125 | 6.25 |
