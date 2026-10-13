@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:09:46Z",
+ "updated": "2026-10-13T03:13:28Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1054,
-  "events": 6303,
+  "lens": 1079,
+  "events": 6328,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3587,
-  "lensed": 352,
+  "queued": 3562,
+  "lensed": 368,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 41
+  "flagged": 50
  },
  "last_harvests": [
   {
@@ -245,6 +245,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980012690",
+   "title": "Trifari, Coventry etc. Jewelry",
+   "price": 10,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-trifari-coventry-etc-jewelry/4931KgfkMV9Y2YcHLNtTxN",
+   "best": "Signed de luxe nyc/adam - Gem",
+   "med": 130,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
    "pid": "7930087323",
    "title": "Vintage Jostens women's Quartz Swiss Gold Tone Watch w/ Hadley band.",
    "price": 20,
@@ -311,6 +322,17 @@
    "ai_value": "Value / Market Range: Generally sells between $75"
   },
   {
+   "pid": "7956215829",
+   "title": "Water color 1960",
+   "price": 85,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ojai-water-color-1960/iKUCJXrsNorJjJCRTv9Zrz",
+   "best": "Subject: Figures wearing traditional sombreros guiding pack animals/donkeys along a cobblestone street lined w",
+   "med": 550,
+   "ratio": 6.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7948748433",
    "title": "Old Rusted Tractor Sign Bridges Hardware",
    "price": 20,
@@ -331,6 +353,17 @@
    "med": 350,
    "ratio": 5,
    "ai_value": "Value: Typically ranges from $70 to $150"
+  },
+  {
+   "pid": "7939662493",
+   "title": "Vintage Parlor Guitar Chipboard Case",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/des-plaines-vintage-parlor-guitar/kn5yMmtrTRSbjK3k3bn7qq",
+   "best": "Vintage Framus Sorella 5/59 Hollowbody Acoustic Guitar | Reverb",
+   "med": 495,
+   "ratio": 4.95,
+   "ai_value": ""
   },
   {
    "pid": "7969961994",
@@ -388,6 +421,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939880705",
+   "title": "Antique Chinese Brass Hand and Foot Warmer",
+   "price": 85,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-antique-chinese-brass-hand-and/onmaoAjmSxR8VnnTUpqcvE",
+   "best": "Vintage CHINESE 5\" HAND WARMER Ornate QILIN Design ~ Brass ...",
+   "med": 300,
+   "ratio": 3.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7955380732",
    "title": "GOLD-TONE NECKLACE 17\" + CLIP-ON EARRINGS",
    "price": 20,
@@ -395,6 +439,17 @@
    "url": "https://www.craigslist.org/view/d/north-brunswick-gold-tone-necklace-17/1xFj9Nrwg7Cj871gFcyLyy",
    "best": "eBay",
    "med": 64,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979821464",
+   "title": "Vintage Peggy Karr Rainbow Trout Fish Platter",
+   "price": 25,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-peggy-karr-rainbow/acoWrmXyMjQS7NgSACAauP",
+   "best": "Craigslist",
+   "med": 80,
    "ratio": 3.2,
    "ai_value": ""
   },
@@ -476,6 +531,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954656248",
+   "title": "Oneida Soup Tureen",
+   "price": 25,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/fort-mill-oneida-soup-tureen/x6F4kEv1E4eXADvadd2kqP",
+   "best": "ONEIDA KITCHEN - SUNSET BOUQUET 3.75 Qt GLAZED CERAMIC ...",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7930644440",
    "title": "Antique Sword",
    "price": 50,
@@ -528,6 +594,17 @@
    "best": "Antique Japanese Bronze Champleve Cloisonn\u00e9 Enamel Vase with ...",
    "med": 195,
    "ratio": 1.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938292889",
+   "title": "Antique Early 1900\u2019s Sturdy Rocker",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/reading-antique-early-1900s-sturdy/1H1sa23xzScxW4gmStp5bX",
+   "best": "19th Century Childs Rocking Chair - Etsy",
+   "med": 175,
+   "ratio": 1.84,
    "ai_value": ""
   },
   {
@@ -614,6 +691,28 @@
    "area": "sandiego",
    "url": "https://www.craigslist.org/view/d/carlsbad-vintage-plastic-dickeys-bbq/b7BZGqS3PwkPCzvLxvn7cG",
    "best": "Would you like to know more about the history of Dickey's Barbecue Pit or the location shown in the vintage ph",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965406398",
+   "title": "Antique Watercolor Painting Harrison Miller Lilies Gorgeous",
+   "price": 150,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-antique-watercolor-painting/c6TGRTpN1dL4oqf1eReSrm",
+   "best": "Paisajes florales Beatrice E. Parsons.",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964749437",
+   "title": "Vintage Conga drum",
+   "price": 150,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-conga-drum/aEgWJpN4UD1KJpQfrqwPY3",
+   "best": "Unbranded Congas for sale | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
