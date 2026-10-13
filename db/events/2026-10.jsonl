@@ -24058,3 +24058,28 @@
 {"ts":"2026-10-13T18:31:19Z","pid":"7929834761","stage":"photo_review","status":"kill","type":"fashion-jewelry","note":"Silver-tone ring pendant with floral disc and faux pearl, modern — Mall fashion piece, $5","run":"redo-20261013","by":"claude","data":{"est_resale":6,"tier":null}}
 {"ts":"2026-10-13T18:31:19Z","pid":"7935708262","stage":"photo_review","status":"kill","type":"oil-paintings","note":"Unsigned English-school-style cottage landscape oil on canvas, c.1890-1920, craquelure, cracks and repairs, in modern pine frame — Dealer (Farmhouse Trading Co) at $150; unsigned, damaged, large; decor oils like this sell $80-200 local","run":"redo-20261013","by":"claude","data":{"est_resale":120,"tier":null}}
 {"ts":"2026-10-13T18:31:19Z","pid":"7951458989","stage":"photo_review","status":"kill","type":"amateur-art","note":"'Austin' 1996 acrylic on 10x16 wood panel, blacksmith shop looking onto western ghost town, seller-made barnwood frame — Hobby artist (signed Austin with brand mark, dated 96); no market; $10-25","run":"redo-20261013","by":"claude","data":{"est_resale":15,"tier":null}}
+{"ts":"2026-10-13T18:30:56Z","pid":"7982786598","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":63,"ratio":0.84,"mismatch":[]}}
+{"ts":"2026-10-13T18:31:04Z","pid":"7955401990","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":49,"ratio":2.45,"mismatch":[]}}
+{"ts":"2026-10-13T18:31:11Z","pid":"7975878378","stage":"queued","status":"relens","run":"lensworker-20261013-1827","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:31:21Z","pid":"7936161441","stage":"flagged","run":"lensworker-20261013-1827","note":"Lens names NIPPON — title does not","data":{"med":240,"ratio":240,"mismatch":["NIPPON"]}}
+{"ts":"2026-10-13T18:31:28Z","pid":"7940689219","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":34,"ratio":3.4,"mismatch":[]}}
+{"ts":"2026-10-13T18:31:35Z","pid":"7981563984","stage":"queued","status":"relens","run":"lensworker-20261013-1827","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:31:45Z","pid":"7939385164","stage":"flagged","run":"lensworker-20261013-1827","note":null,"data":{"med":695,"ratio":4.96,"mismatch":[]}}
+{"ts":"2026-10-13T18:31:53Z","pid":"7982800608","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":15,"ratio":0.6,"mismatch":[]}}
+{"ts":"2026-10-13T18:32:00Z","pid":"7956305958","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":15,"ratio":0.5,"mismatch":[]}}
+{"ts":"2026-10-13T18:32:12Z","pid":"7943396708","stage":"flagged","run":"lensworker-20261013-1827","note":"Lens names Goebel — title does not","data":{"med":74,"ratio":0.93,"mismatch":["Goebel"]}}
+{"ts":"2026-10-13T18:32:19Z","pid":"7948168769","stage":"flagged","run":"lensworker-20261013-1827","note":"Lens names Coca-Cola, Company, Origin — title does not","data":{"med":10,"ratio":0.4,"mismatch":["Coca-Cola","Company","Origin"]}}
+{"ts":"2026-10-13T18:32:28Z","pid":"7969131045","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":130,"ratio":1.31,"mismatch":[]}}
+{"ts":"2026-10-13T18:32:38Z","pid":"7982763060","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":45,"ratio":4.5,"mismatch":[]}}
+{"ts":"2026-10-13T18:32:49Z","pid":"7932309545","stage":"flagged","run":"lensworker-20261013-1827","note":"Lens names Marx — title does not","data":{"med":75,"ratio":1.97,"mismatch":["Marx"]}}
+{"ts":"2026-10-13T18:33:09Z","pid":"7982816643","stage":"queued","status":"relens","run":"lensworker-20261013-1827","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:33:21Z","pid":"7955684558","stage":"flagged","run":"lensworker-20261013-1827","note":"Lens names Silver — title does not","data":{"med":55,"ratio":1.57,"mismatch":["Silver"]}}
+{"ts":"2026-10-13T18:33:29Z","pid":"7979630151","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":39,"ratio":1.95,"mismatch":[]}}
+{"ts":"2026-10-13T18:33:37Z","pid":"7978844247","stage":"flagged","run":"lensworker-20261013-1827","note":null,"data":{"med":410,"ratio":4.1,"mismatch":[]}}
+{"ts":"2026-10-13T18:33:47Z","pid":"7940107108","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":44,"ratio":0.59,"mismatch":[]}}
+{"ts":"2026-10-13T18:33:56Z","pid":"7942880861","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":40,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-13T18:34:03Z","pid":"7963180689","stage":"flagged","run":"lensworker-20261013-1827","note":null,"data":{"med":60,"ratio":6,"mismatch":[]}}
+{"ts":"2026-10-13T18:34:10Z","pid":"7934921746","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":25,"ratio":0.83,"mismatch":[]}}
+{"ts":"2026-10-13T18:34:18Z","pid":"7935085777","stage":"queued","status":"relens","run":"lensworker-20261013-1827","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:34:24Z","pid":"7940835764","stage":"queued","status":"relens","run":"lensworker-20261013-1827","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:34:35Z","pid":"7979619984","stage":"lensed","run":"lensworker-20261013-1827","note":null,"data":{"med":45,"ratio":1.5,"mismatch":[]}}
