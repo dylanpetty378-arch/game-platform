@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:25:34Z",
+ "updated": "2026-10-13T14:29:18Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5312,
-  "events": 15247,
+  "lens": 5337,
+  "events": 15272,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 869,
-  "queued": 928,
+  "lensed": 884,
+  "queued": 903,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 414,
-  "flagged": 613,
+  "queued/relens": 416,
+  "flagged": 621,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -334,6 +334,17 @@
    "best": "Rebecca at the Well Statue | eBay",
    "med": 6839,
    "ratio": 273.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951853022",
+   "title": "Antique Office Items",
+   "price": 1,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/mont-clare-antique-office-items/vG2dd1JQQAYttduE4ESDaY",
+   "best": "Small Midcentury Roller Shutter Cabinet | Solid Oak | Desk ...",
+   "med": 255,
+   "ratio": 255,
    "ai_value": ""
   },
   {
@@ -1580,6 +1591,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976638380",
+   "title": "Old Jewelry box",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-old-jewelry-box/vAsBAWkr1aQH5SKx3mgjJZ",
+   "best": "Ting Shaw Kiang Chinese Art Deco Lacquered Wood Box 'The ...",
+   "med": 169,
+   "ratio": 11.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7977147867",
    "title": "Plumbers lead pot",
    "price": 15,
@@ -2790,6 +2812,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939949588",
+   "title": "Antique Metal Tray 100th Anniversary John Hancock 1962 Handled Tray",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/west-roxbury-antique-metal-tray-100th/qQ45qtg8NJdFmTVAmx19jp",
+   "best": "Vintage Metal Tray 100th Anniversary Joh Hancock 1962 ...",
+   "med": 199,
+   "ratio": 5.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7953513200",
    "title": "Vintage Microscope Slide Case",
    "price": 15,
@@ -3502,6 +3535,17 @@
    "best": "Era: Standard pattern introduced around World War I and widely manufactured and re-issued through WWII and the",
    "med": 150,
    "ratio": 4.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964321634",
+   "title": "Circa 1950 Japanese .950 Gilt Silver & Pearl Brooch",
+   "price": 90,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-circa-1950-japanese-950-gilt/2zEJH43quCCxQ2Vk12i5Nm",
+   "best": "Antique Leaf Brooch | Sellingantiques.co.uk",
+   "med": 385,
+   "ratio": 4.28,
    "ai_value": ""
   },
   {
@@ -4415,6 +4459,17 @@
    "best": "Lufkin No.881d 24 Inch Warranted Boxwood Brass Bound Folding ...",
    "med": 75,
    "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982670372",
+   "title": "Kala KA-TEAK-S Soprano Ukulele Solid Teak Wood",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-kala-ka-teak-soprano/3RSsqHWAEuNuNGeXAAuiN3",
+   "best": "Kala Ka-Teak-C - Teak Concert Ukulele | eBay",
+   "med": 149,
+   "ratio": 2.98,
    "ai_value": ""
   },
   {
@@ -5672,6 +5727,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938688127",
+   "title": "Antique Children\u2019s Dishes",
+   "price": 50,
+   "area": "springfieldil",
+   "url": "https://www.craigslist.org/view/d/pawnee-antique-childrens-dishes/gUvEmtDtxDRD79isLzhZRt",
+   "best": "Sugar Bowl Creamer and Butter Dish Set. by AnythingDiscovered",
+   "med": 85,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7932666674",
    "title": "3 antique lightening rods",
    "price": 75,
@@ -6244,6 +6310,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955328728",
+   "title": "Antique Brass Hand Level",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-antique-brass-hand-level/fVq856uYoorNYvBH8RLiSx",
+   "best": "Hi again, I have this object that was owned by my engineer ...",
+   "med": 100,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7978027587",
    "title": "Vintage Crate amplifier",
    "price": 75,
@@ -6517,6 +6594,17 @@
    "med": null,
    "ratio": null,
    "ai_value": "Price / Availability: Listed at $30"
+  },
+  {
+   "pid": "7966607523",
+   "title": "VINTAGE AM/FM RECEIVER",
+   "price": 40,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-vintage-am-fm-receiver/un8JpLTG4U935azLc21MFX",
+   "best": "Mcs Amplifier | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   },
   {
    "pid": "7933035048",
