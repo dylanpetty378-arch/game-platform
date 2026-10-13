@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T15:22:37Z",
+ "updated": "2026-10-13T15:28:01Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5687,
-  "events": 16422,
+  "lens": 5712,
+  "events": 16448,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 1053,
-  "queued": 1353,
+  "lensed": 1064,
+  "queued": 1328,
   "comps/pass": 1,
-  "queued/relens": 461,
+  "queued/relens": 465,
   "decided/ask": 37,
-  "flagged": 757,
+  "flagged": 766,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
-  "expired": 7,
+  "expired": 8,
   "decided/find": 7
  },
  "last_harvests": [
@@ -540,6 +540,17 @@
    "best": "Two piece Southwood Chippendale style sofa and loveseat with ...",
    "med": 6473,
    "ratio": 76.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976662893",
+   "title": "2 large ginger jars",
+   "price": 10,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/clayton-large-ginger-jars/d2yYnNVJw4rgN94j3MRJYB",
+   "best": "FABULOUS PAIR of 19th C. ANTIQUE CHINESE CLOISONNE ...",
+   "med": 750,
+   "ratio": 75,
    "ai_value": ""
   },
   {
@@ -1518,17 +1529,6 @@
    "url": "https://www.craigslist.org/view/d/sanbornton-antique-wooden-commode/v7tyLg5pMNy2zm1SJHxbhT",
    "best": "eBay",
    "med": 750,
-   "ratio": 15,
-   "ai_value": ""
-  },
-  {
-   "pid": "7981661277",
-   "title": "Antique Jester Teddy Bear",
-   "price": 10,
-   "area": "beaumont",
-   "url": "https://www.craigslist.org/view/d/houston-antique-jester-teddy-bear/xukdUvKHdn5QWi3c8erZyT",
-   "best": "eBay",
-   "med": 150,
    "ratio": 15,
    "ai_value": ""
   },
@@ -2806,6 +2806,17 @@
    "best": "Craigslist",
    "med": 70,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936792585",
+   "title": "Half Dollar Wrist Watch",
+   "price": 20,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-half-dollar-wrist-watch/2myQNr8T8Kt1u6gUt8GuHe",
+   "best": "Working American Historic Time Piece Half Dollar Wristwatch ...",
+   "med": 139,
+   "ratio": 6.95,
    "ai_value": ""
   },
   {
@@ -4239,6 +4250,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952576598",
+   "title": "Vintage Timex Indiglo watch",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/fairview-vintage-timex-indiglo-watch/wrFsdBmmGtvtsesth46ucj",
+   "best": "Timex T20471 Men's Easy Reader Watch 48148204713| eBay",
+   "med": 65,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7956302036",
    "title": "Purple Passion Sterling Silver Ring",
    "price": 25,
@@ -4367,6 +4389,17 @@
    "url": "https://www.craigslist.org/view/d/devon-asian-vintage-carved-figurines/oKaKuyycGS9BCTighWk6wk",
    "best": "Chinese Men Hand Carved Figures Made In Italy | eBay",
    "med": 165,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944079877",
+   "title": "Vintage 12 string / handmade",
+   "price": 120,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/farmingdale-vintage-12-string-handmade/aZWdadd4hHxv4J54D9XBLe",
+   "best": "Handgemaakte akoestische 12-snarige gitaar (ca. 1960 ...",
+   "med": 495,
    "ratio": 4.13,
    "ai_value": ""
   },
@@ -4822,6 +4855,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949413405",
+   "title": "Antique mechanical metal bank.(Felton)",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/felton-antique-mechanical-metal/5HBPpjQCrNCFLn7UiBvewA",
+   "best": "Cast Iron Mechanical Bank I Always Did Spise A Mule Vintage ...",
+   "med": 110,
+   "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7972218633",
    "title": "Antique Snow Sled",
    "price": 55,
@@ -5060,6 +5104,17 @@
    "url": "https://www.craigslist.org/view/d/burnsville-skis-head-wood-vintage/4QBNjt562pxV7hPgxb6qfS",
    "best": "Vintage Wooden Snow Skis 69\" Long with Original BLOND and ...",
    "med": 98,
+   "ratio": 3.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946736997",
+   "title": "Antique Kieninger&Obergfell glass domed clock",
+   "price": 75,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/pennington-antique-kieningerobergfell/5GRYQPzXcLV2QSTNMNxSsk",
+   "best": "Vintage Clock Anniversary Clock made in Germany large with ...",
+   "med": 245,
    "ratio": 3.27,
    "ai_value": ""
   },
@@ -5471,6 +5526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975427796",
+   "title": "Sterling Silver Sisters Pendant Charm",
+   "price": 20,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-sterling-silver-sisters-pendant/9SB1FyfcZn4p6r5RbFkqjv",
+   "best": "925 Sterling Silver Vintage Sun West \"Sweet 16\" Lucky Number ...",
+   "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7934810476",
    "title": "Vintage Bitossi Pottery",
    "price": 150,
@@ -5636,6 +5702,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980529656",
+   "title": "Vintage medical tool lot",
+   "price": 60,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-vintage-medical-tool-lot/e5RxWhQKQtykm9KkYbmvBD",
+   "best": "VINTAGE MEDICAL SURGICAL TOOL INSTRUMENTS CONTAINER ENAMEL ...",
+   "med": 172,
+   "ratio": 2.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7955901574",
    "title": "Thermaster Antique Vintage Cooler",
    "price": 40,
@@ -5713,6 +5790,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975559133",
+   "title": "Vintage amber beaded necklace",
+   "price": 25,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/east-derry-vintage-amber-beaded-necklace/3nDBN64ZvaZRWbB9qnB9ex",
+   "best": "VINTAGE SIGNED CZECH AMBER GLASS NECKLACE | eBay",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943756350",
    "title": "Beautiful Vintage Wedding Hat",
    "price": 45,
@@ -5732,6 +5820,17 @@
    "best": "Panasonic RS-802US Stereo 8 Track Player Fully Functional | eBay",
    "med": 125,
    "ratio": 2.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953310085",
+   "title": "Gruen Veri-thin 17 jewels Men\u2019s Winding Watch",
+   "price": 70,
+   "area": "lascruces",
+   "url": "https://www.craigslist.org/view/d/las-cruces-gruen-veri-thin-17-jewels/cG7U1QkTqenGZius7W1wRJ",
+   "best": "Vtg elgin 10k gold - Gem",
+   "med": 194,
+   "ratio": 2.77,
    "ai_value": ""
   },
   {

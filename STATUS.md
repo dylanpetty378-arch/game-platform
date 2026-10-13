@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T15:22:37Z
+# Refurbish status — 2026-10-13T15:28:01Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,12 +7,12 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1353 |
-| lensed | 1053 |
-| flagged | 757 |
-| queued/relens | 461 |
+| queued | 1328 |
+| lensed | 1064 |
+| flagged | 766 |
+| queued/relens | 465 |
 | decided/ask | 37 |
-| expired | 7 |
+| expired | 8 |
 | decided/find | 7 |
 | decided/kill | 6 |
 | comps/fail | 5 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 6
 - searches: 1504
 - listings: 7007
-- lens: 5687
-- events: 16422
+- lens: 5712
+- events: 16448
 - comps: 1350
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (757)
+## Flagged by Lens, waiting for photo review (766)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -112,6 +112,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00k0k_fHdrwHCqvpv_0t20CI_300x300.jpg" width="120"> | 7981964397 | $25 | slo | [Antique weed whacker](https://www.craigslist.org/view/d/santa-barbara-antique-weed-whacker/4nATqiYT8TKmZiDcrDN2Yi) | Collector Value: These vintage primitive farm tools typicall | 2065 | 82.6 |
 | <img src="https://images.craigslist.org/00W0W_aXdNHwkOWWbz_0CI0t2_300x300.jpg" width="120"> | 7974521298 | $20 | charlestonwv | [ANTIQUE TOOLS](https://www.craigslist.org/view/d/newark-antique-tools/3Rs61siz8AbnVacVc8CkrP) | Craigslist | 1650 | 82.5 |
 | <img src="https://images.craigslist.org/00505_fPeIsLbGTDO_0CI0t2_300x300.jpg" width="120"> | 7932511277 | $85 | oklahomacity | [Antique love seat](https://www.craigslist.org/view/d/tulsa-antique-love-seat/ecsAkwQsPVvA43CitHDSv5) | Two piece Southwood Chippendale style sofa and loveseat with | 6473 | 76.15 |
+| <img src="https://images.craigslist.org/00j0j_64miNQD0fD2_0lM0CI_300x300.jpg" width="120"> | 7976662893 | $10 | raleigh | [2 large ginger jars](https://www.craigslist.org/view/d/clayton-large-ginger-jars/d2yYnNVJw4rgN94j3MRJYB) | FABULOUS PAIR of 19th C. ANTIQUE CHINESE CLOISONNE ... | 750 | 75 |
 | <img src="https://images.craigslist.org/00j0j_8VCpyi9RYrRz_0dW0iA_300x300.jpg" width="120"> | 7982074329 | $25 | nmi | ["Vintage" metal bird cage](https://www.craigslist.org/view/d/lansing-vintage-metal-bird-cage/1BEG7KV2PA6RCTBaihK43m) | Newel - Antique Gallery | 1753 | 70.12 |
 | <img src="https://images.craigslist.org/00J0J_2HD0Z4VfLJU_0lN0CI_300x300.jpg" width="120"> | 7941471133 | $50 | raleigh | [Antique Wheelchair](https://www.craigslist.org/view/d/durham-antique-wheelchair/umCSytmatquC11T2PLhmBh) | EZ Entry Horse Cart-Pony/Full w/ "C" Springs/Curved Shafts . | 3450 | 69 |
 | <img src="https://images.craigslist.org/01212_2x8bJrQx0kQ_0t90CI_300x300.jpg" width="120"> | 7949505698 | $25 | portland | [Vintage metal enamel brooch](https://www.craigslist.org/view/d/gig-harbor-vintage-metal-enamel-brooch/9ooVEuvvekU85JbUuRNEDz) | Craigslist | 1500 | 60 |
@@ -201,7 +202,6 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00O0O_cSlsTRPJDLq_13O0Nm_300x300.jpg" width="120"> | 7947026390 | $15 | madison | [Vintage schwinn bike](https://www.craigslist.org/view/d/davenport-vintage-schwinn-bike/1rFSMExWmejmbwCQahRbGa) | 1975 Schwinn World Tourist Cruiser Road Bike 44cm XX-Small . | 234 | 15.6 |
 | <img src="https://images.craigslist.org/00j0j_e1mwnWBMhWP_0CI0t2_300x300.jpg" width="120"> | 7943870857 | $65 | sfbay | [Vintage Stoneware Vase Glidden Pottery USA Round #](https://www.craigslist.org/view/d/oakland-vintage-stoneware-vase-glidden/1HCNFVwn6zswDUrDbu3McC) | Origin: Made in New York, USA by Glidden Pottery (1940s–1950 | 995 | 15.31 |
 | <img src="https://images.craigslist.org/00e0e_fFFdA17cjeo_0CI0t2_300x300.jpg" width="120"> | 7945328692 | $50 | vermont | [Antique Wooden Commode](https://www.craigslist.org/view/d/sanbornton-antique-wooden-commode/v7tyLg5pMNy2zm1SJHxbhT) | eBay | 750 | 15 |
-| <img src="https://images.craigslist.org/00j0j_94umym9KfCZ_0t20CI_300x300.jpg" width="120"> | 7981661277 | $10 | beaumont | [Antique Jester Teddy Bear](https://www.craigslist.org/view/d/houston-antique-jester-teddy-bear/xukdUvKHdn5QWi3c8erZyT) | eBay | 150 | 15 |
 | <img src="https://images.craigslist.org/00000_2LDOndQBMWu_0t20CI_300x300.jpg" width="120"> | 7950659925 | $60 | grandrapids | [VINTAGE GOLD OVER STERLING HALF HOOPS](https://www.craigslist.org/view/d/wyoming-vintage-gold-over-sterling-half/hef7eCgYuLavPUv1tZCHTv) | Etsy | 899 | 14.98 |
 | <img src="https://images.craigslist.org/00U0U_es6SX3fgrBL_0CI0t2_300x300.jpg" width="120"> | 7968189717 | $45 | galveston | [SCALE VINTAGE TOLEDO #1361](https://www.craigslist.org/view/d/yoakum-scale-vintage-toledo-1361/mCABHPzKw6S5DnnBHmX9Ey) | Toledo Scale Vintage FOR SALE! - PicClick | 673 | 14.96 |
 | <img src="https://images.craigslist.org/00101_1D4r7jHdFPW_0g80c6_300x300.jpg" width="120"> | 7944870335 | $5 | chicago | [Vintage Rectangular Clear Glass 2 Handled Tray](https://www.craigslist.org/view/d/shorewood-vintage-rectangular-clear/3qDfVX7mMXsumMrdTHBd57) | Craigslist | 73 | 14.6 |
