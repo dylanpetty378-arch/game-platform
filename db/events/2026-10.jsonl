@@ -21721,3 +21721,29 @@
 {"ts":"2026-10-13T18:09:22Z","pid":"7967773332","stage":"queued","status":"relens","run":"lensworker-20261013-1803","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T18:09:28Z","pid":"7974810444","stage":"queued","status":"relens","run":"lensworker-20261013-1803","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T18:09:35Z","pid":"7945287390","stage":"queued","status":"relens","run":"lensworker-20261013-1803","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:09:46Z","pid":"7930285349","stage":"queued","status":"relens","run":"lensworker-20261013-1806","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:09:52Z","pid":"7948045100","stage":"queued","status":"relens","run":"lensworker-20261013-1806","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:10:01Z","pid":"7967367309","stage":"flagged","run":"lensworker-20261013-1806","note":null,"data":{"med":901,"ratio":22.52,"mismatch":[]}}
+{"ts":"2026-10-13T18:10:10Z","pid":"7954264074","stage":"flagged","run":"lensworker-20261013-1806","note":"Lens names Soviet — title does not","data":{"med":43,"ratio":2.87,"mismatch":["Soviet"]}}
+{"ts":"2026-10-13T18:10:17Z","pid":"7931135479","stage":"queued","status":"relens","run":"lensworker-20261013-1806","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:10:26Z","pid":"7941634140","stage":"flagged","run":"lensworker-20261013-1806","note":"Lens names Toy — title does not","data":{"med":18,"ratio":0.33,"mismatch":["Toy"]}}
+{"ts":"2026-10-13T18:10:31Z","pid":"7941283542","stage":"queued","status":"relens","run":"lensworker-20261013-1806","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:10:41Z","pid":"7982805117","stage":"flagged","run":"lensworker-20261013-1806","note":null,"data":{"med":111,"ratio":1.48,"mismatch":[]}}
+{"ts":"2026-10-13T18:10:47Z","pid":"7955168311","stage":"queued","status":"relens","run":"lensworker-20261013-1806","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:10:55Z","pid":"7933052120","stage":"flagged","run":"lensworker-20261013-1806","note":null,"data":{"med":236,"ratio":1.35,"mismatch":[]}}
+{"ts":"2026-10-13T18:11:06Z","pid":"7974263163","stage":"flagged","run":"lensworker-20261013-1806","note":"Lens names Ball, Music Man, Platinum — title does not","data":{"med":1705,"ratio":17.05,"mismatch":["Ball","Music Man","Platinum"]}}
+{"ts":"2026-10-13T18:11:14Z","pid":"7951694912","stage":"lensed","run":"lensworker-20261013-1806","note":null,"data":{"med":30,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-13T18:11:21Z","pid":"7960053789","stage":"flagged","run":"lensworker-20261013-1806","note":"Lens names Company, Imperial, Salem, Victory — title does not","data":{"med":18,"ratio":3.6,"mismatch":["Company","Imperial","Salem","Victory"]}}
+{"ts":"2026-10-13T18:11:31Z","pid":"7953649495","stage":"lensed","run":"lensworker-20261013-1806","note":null,"data":{"med":20,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-13T18:11:41Z","pid":"7977875004","stage":"lensed","run":"lensworker-20261013-1806","note":null,"data":{"med":54,"ratio":0.45,"mismatch":[]}}
+{"ts":"2026-10-13T18:11:49Z","pid":"7931139860","stage":"flagged","run":"lensworker-20261013-1806","note":"Lens names Artist, Company — title does not","data":{"med":60,"ratio":0.4,"mismatch":["Artist","Company"]}}
+{"ts":"2026-10-13T18:11:59Z","pid":"7973619108","stage":"flagged","run":"lensworker-20261013-1806","note":"Lens names Derby — title does not","data":{"med":99,"ratio":4.95,"mismatch":["Derby"]}}
+{"ts":"2026-10-13T18:12:08Z","pid":"7955010908","stage":"flagged","run":"lensworker-20261013-1806","note":"Lens names Company, National — title does not","data":{"med":98,"ratio":2.45,"mismatch":["Company","National"]}}
+{"ts":"2026-10-13T18:12:15Z","pid":"7979621622","stage":"queued","status":"relens","run":"lensworker-20261013-1806","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T18:12:22Z","pid":"7953749197","stage":"flagged","run":"lensworker-20261013-1806","note":null,"data":{"med":394,"ratio":5.25,"mismatch":[]}}
+{"ts":"2026-10-13T18:12:31Z","pid":"7953805164","stage":"lensed","run":"lensworker-20261013-1806","note":null,"data":{"med":28,"ratio":3.5,"mismatch":[]}}
+{"ts":"2026-10-13T18:12:39Z","pid":"7947529818","stage":"flagged","run":"lensworker-20261013-1806","note":null,"data":{"med":275,"ratio":6.88,"mismatch":[]}}
+{"ts":"2026-10-13T18:12:46Z","pid":"7974417399","stage":"flagged","run":"lensworker-20261013-1806","note":null,"data":{"med":225,"ratio":2.25,"mismatch":[]}}
+{"ts":"2026-10-13T18:12:57Z","pid":"7982786373","stage":"flagged","run":"lensworker-20261013-1806","note":"Lens names Rogers, Silver — title does not","data":{"med":170,"ratio":170,"mismatch":["Rogers","Silver"]}}
+{"ts":"2026-10-13T18:13:05Z","pid":"7979629719","stage":"flagged","run":"lensworker-20261013-1806","note":null,"data":{"med":95,"ratio":2.38,"mismatch":[]}}
+{"ts":"2026-10-13T18:13:28Z","pid":"7982699835","stage":"expired","run":"liveness","note":"posting gone (was decided/find)"}

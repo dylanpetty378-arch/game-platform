@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T18:09:52Z",
+ "updated": "2026-10-13T18:13:28Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6653,
-  "events": 21723,
+  "lens": 6678,
+  "events": 21749,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 257,
+  "lensed": 261,
   "comps/pass": 1,
-  "queued/relens": 244,
+  "queued/relens": 250,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 326,
+  "flagged": 341,
   "comps/fail": 5,
-  "expired": 8,
-  "decided/find": 9,
-  "queued": 200
+  "expired": 9,
+  "decided/find": 8,
+  "queued": 175
  },
  "last_harvests": [
   {
@@ -427,6 +427,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982786373",
+   "title": "sterling forks",
+   "price": 1,
+   "area": "wilmington",
+   "url": "https://www.craigslist.org/view/d/wilmington-sterling-forks/rfowtxGvR8jT3cRtieos2E",
+   "best": "Set of 6 Rogers Bros \"Vintage\" Pattern 7.5\" Dinner Forks /11 ...",
+   "med": 170,
+   "ratio": 170,
+   "ai_value": ""
+  },
+  {
    "pid": "7934825752",
    "title": "Antique Vintage Asian pieces",
    "price": 1,
@@ -625,6 +636,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967367309",
+   "title": ".925 STERLING SILVER CITRINE RING",
+   "price": 40,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-925-sterling-silver/68XDVqAemgej2J5AUQWXgo",
+   "best": "eBay",
+   "med": 901,
+   "ratio": 22.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7960624842",
    "title": "Vintage Bathroom/Outdoor Light Fixture",
    "price": 40,
@@ -689,6 +711,17 @@
    "med": 346,
    "ratio": 17.3,
    "ai_value": ""
+  },
+  {
+   "pid": "7974263163",
+   "title": "Vintage Encore Stingray-Style Bass w/ gig bag and cool sticker",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-encore-stingray-style/ihfqfRNns5mH6vKZEquWdF",
+   "best": "Platinum Ernie Ball Music Man Retro '70s StingRay Electric ...",
+   "med": 1705,
+   "ratio": 17.05,
+   "ai_value": "Price: Retails around $3,299"
   },
   {
    "pid": "7981830597",
@@ -1175,6 +1208,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947529818",
+   "title": "Household Spoon Silver Plate Vintage",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-household-spoon-silver-plate/4g6mLeXazXLdmwv2vWmu1T",
+   "best": "Handle: Plain, straight stem tapering slightly toward a rounded or downturned tip.",
+   "med": 275,
+   "ratio": 6.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7955903433",
    "title": "Vintage Wicker Table Lamp",
    "price": 65,
@@ -1373,6 +1417,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953749197",
+   "title": "14 kt gold sanddollar toe ring- new",
+   "price": 75,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-14-kt-gold-sanddollar-toe/1dghJTvPMkw4tnzpi96Tmx",
+   "best": "Craigslist",
+   "med": 394,
+   "ratio": 5.25,
+   "ai_value": "values ranging from roughly $250 to $500"
+  },
+  {
    "pid": "7963649874",
    "title": "Lamp Vintage Victorian Colonial Couple A Pair of Lamps",
    "price": 10,
@@ -1436,6 +1491,17 @@
    "best": "Double Anchor 1717 Kenton Rogers Silver Pitcher Federal ...",
    "med": 149,
    "ratio": 4.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973619108",
+   "title": "Vintage Equestrian Hat",
+   "price": 20,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/lake-oswego-vintage-equestrian-hat/opbNfhHiMPkb2ZcpK6zz2X",
+   "best": "Etsy",
+   "med": 99,
+   "ratio": 4.95,
    "ai_value": ""
   },
   {
@@ -1747,6 +1813,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960053789",
+   "title": "10 3/4\" Dish Gold",
+   "price": 5,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/framingham-dish-gold/kcqAVffMVe8GygpVZpkw86",
+   "best": "Trim: Framed by a rich cobalt blue (or alternative color) border embellished with intricate 23-karat gold fili",
+   "med": 18,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7955421863",
    "title": "vintage officer army cap hat",
    "price": 22,
@@ -2051,6 +2128,17 @@
    "url": "https://www.craigslist.org/view/d/scottsdale-vintage-medical-tool-lot/e5RxWhQKQtykm9KkYbmvBD",
    "best": "VINTAGE MEDICAL SURGICAL TOOL INSTRUMENTS CONTAINER ENAMEL ...",
    "med": 172,
+   "ratio": 2.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954264074",
+   "title": "Vintage Folk Dress Doll",
+   "price": 15,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/carmichael-vintage-folk-dress-doll/882LU25z47cSziVKhsxfJ8",
+   "best": "Vintage Soviet USSR Ukrainian Hard Plastic Folk 1980s ...",
+   "med": 43,
    "ratio": 2.87,
    "ai_value": ""
   },
@@ -2374,6 +2462,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955010908",
+   "title": "Vintage Dutch Boy White Lead Metal Pail/Tin",
+   "price": 40,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-vintage-dutch-boy-white/vRcXqhNzTUcYaGgswMKehD",
+   "best": "Era: Generally dates from the 1920s through the 1940s.",
+   "med": 98,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7930537805",
    "title": "Antique Pickard Pitcher",
    "price": 150,
@@ -2396,6 +2495,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979629719",
+   "title": "1972 GORHAM Sterling Silver Christmas Snowflake Ornament Pendant Medal",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-1972-gorham-sterling-silver/4KE6ZaDvqTvppxnpQjAx85",
+   "best": "Cache Antiques",
+   "med": 95,
+   "ratio": 2.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7980458214",
    "title": "Vintage Can + Bottle Openers",
    "price": 8,
@@ -2403,6 +2513,17 @@
    "url": "https://www.craigslist.org/view/d/oakville-vintage-can-bottle-openers/nghGRGMX1q6pi5USQCur7H",
    "best": "Lot of Beer / Soda Church Key Openers - Lot of 6 | eBay",
    "med": 18,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974417399",
+   "title": "Thai Saw",
+   "price": 100,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fullerton-thai-saw/pasWH8UBsF2VMHzfvUi6KC",
+   "best": "Saw duang - Wikipedia",
+   "med": 225,
    "ratio": 2.25,
    "ai_value": ""
   },
@@ -2979,6 +3100,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982805117",
+   "title": "Ceramic Elephant Plant Stand",
+   "price": 75,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/scottsmoor-ceramic-elephant-plant-stand/pmPBLwNMTKo9EhyEjRdeLE",
+   "best": "eBay",
+   "med": 111,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7963353672",
    "title": "HULL VINTAGE POTTERY SET",
    "price": 100,
@@ -3097,6 +3229,17 @@
    "best": "Beautiful Quality Vintage SOLID Sterling Silver-dolphin ...",
    "med": 197,
    "ratio": 1.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933052120",
+   "title": "Istanbul Agop Mehmet Signed 12\u201d Cymbal #364",
+   "price": 175,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/derwood-istanbul-agop-mehmet-signed-12/4LxXnHtUQagepQEbjJo1cs",
+   "best": "Whether you are looking to date, value, or sell it",
+   "med": 236,
+   "ratio": 1.35,
    "ai_value": ""
   },
   {
@@ -3716,6 +3859,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931139860",
+   "title": "A. LINCOLN BRONZE BUST",
+   "price": 150,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/elmhurst-lincoln-bronze-bust/ew4XJZgCjZ8v7z6VJmshKM",
+   "best": "Subject: Abraham Lincoln (depicting his appearance around 1860 when he sat for Volk in Chicago)",
+   "med": 60,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7955806147",
    "title": "Red Garnet & Coral Marked 925 Sterling Jewelry Ring. 5.3+ grams Size 6.5 (US).",
    "price": 34,
@@ -3724,6 +3878,17 @@
    "best": "925 Sterling Silver Ruby Quartz Gemstone Women Statement ...",
    "med": 12,
    "ratio": 0.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941634140",
+   "title": "BATMAN CUP 1966 VINTAGE",
+   "price": 55,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/willow-springs-batman-cup-1966-vintage/swXjZXWvPhJQW7GvwgCse3",
+   "best": "Batman & Robin Plastic Drink Cup - NPP Old Comic Book Toy ...",
+   "med": 18,
+   "ratio": 0.33,
    "ai_value": ""
   },
   {
@@ -4495,16 +4660,6 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/burbank-hiro-yamagata-limited-edition/16y75qjnnZDizc97Y3i8Su",
    "note": "Terapeak: Hiro Yamagata serigraphs sold median $750 (n=15, p25 $300). Three signed/numbered framed serigraphs at \"make offer, will accept ridiculously low\". Even at $300 each \u00d7 3 and a $150 offer: ~$630 profit \u2192 Tier A. Ask: edition/condition photos, confirm all three, offer $100\u2013150.",
-   "stage": "decided",
-   "status": "find"
-  },
-  {
-   "pid": "7982699835",
-   "title": "Vintage fender amplifier",
-   "price": 50,
-   "area": "delaware",
-   "url": "https://www.craigslist.org/view/d/middletown-vintage-fender-amplifier/b8tAjigKe8LCZiwKJVy28F",
-   "note": "Terapeak CONFIRMED: silverface Champ sold median $469 (n=12, p25 $350). Profit \u2248 469\u00d70.87 \u2212 70 ship \u2212 50 = ~$288 \u2192 Tier A. Tube amp: Dylan's electronics call. Ask for tube chart/serial photo and shipping.",
    "stage": "decided",
    "status": "find"
   },
