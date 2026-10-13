@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:07:14Z",
+ "updated": "2026-10-13T23:10:50Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7124,
-  "events": 26544,
+  "lens": 7149,
+  "events": 26569,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 385,
+  "lensed": 390,
   "comps/pass": 1,
-  "queued/relens": 328,
+  "queued/relens": 332,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 584,
+  "flagged": 600,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 529
+  "queued": 504
  },
  "last_harvests": [
   {
@@ -448,6 +448,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956898073",
+   "title": "Rings",
+   "price": 1,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-rings/c8LeL4QjmTWt6nwYiwVAz5",
+   "best": "Navajo Ring 925 Silver Natural Blue Turquoise Artist Signed ...",
+   "med": 225,
+   "ratio": 225,
+   "ai_value": ""
+  },
+  {
    "pid": "7957667393",
    "title": "Lots of different stuff",
    "price": 26,
@@ -500,6 +511,17 @@
    "best": "Delft Candle Sticks - Etsy",
    "med": 150,
    "ratio": 150,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945090108",
+   "title": "Vintage Seiko Men\u2019s Dress Watch",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-seiko-mens-dress-watch/jbV9uaFS1qu3PwLsinsVE8",
+   "best": "Vintage Seiko Men 6530-5759 Dress Gold Dial Tank Quartz ...",
+   "med": 10613,
+   "ratio": 141.51,
    "ai_value": ""
   },
   {
@@ -674,6 +696,17 @@
    "area": "raleigh",
    "url": "https://www.craigslist.org/view/d/antique-winter-scene-print/27qgv8UxVNcoJKtEcBm7MC",
    "best": "Antique 1909 Framed Hallen & Weiner Winter Scene Print ...",
+   "med": 800,
+   "ratio": 40,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937655202",
+   "title": "Hummel collection",
+   "price": 20,
+   "area": "victoriatx",
+   "url": "https://www.craigslist.org/view/d/victoria-hummel-collection/22L4jst8L5d4eu2jCxzg1B",
+   "best": "AUTHENTIC GERMAN HUMMEL -Porcelaine Beautiful Figurines ...",
    "med": 800,
    "ratio": 40,
    "ai_value": ""
@@ -995,6 +1028,17 @@
    "best": "Ladies Antique 14K Gold Italian Carved Cameo Stud Earrings ...",
    "med": 500,
    "ratio": 14.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981782675",
+   "title": "Vintage sterling silver marcasite cross",
+   "price": 25,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/brooksville-vintage-sterling-silver/rpf2qKdkVHH7EzkbphdLPM",
+   "best": "14K Gold Diamond Cross Pendant, White Gold Cross, Delicate ...",
+   "med": 349,
+   "ratio": 13.96,
    "ai_value": ""
   },
   {
@@ -1977,6 +2021,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964895837",
+   "title": "Vintage Zhou Ling Silkscreen",
+   "price": 450,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-zhou-ling-silkscreen/1Axide29S1AGtshtkfLxVW",
+   "best": "Sold at Auction: Zhou Ling, Zhou Ling WHITE HORSE Yunnan ...",
+   "med": 2625,
+   "ratio": 5.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7932675120",
    "title": "Vintage 1940's/1950's costume clip",
    "price": 25,
@@ -2670,6 +2725,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948904483",
+   "title": "Pendant Watch Missing One Hand",
+   "price": 14,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-pendant-watch-missing-one-hand/d5iqtZFGMugUhPj995kPCj",
+   "best": "Vintage Gold Tone Women's GUDA 17 Jewels Swiss Wind up ...",
+   "med": 53,
+   "ratio": 3.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7969977567",
    "title": "Vintage Alaska-Canada Highway 50th Anniversary Silver Medallion",
    "price": 85,
@@ -3347,6 +3413,17 @@
    "area": "nh",
    "url": "https://www.craigslist.org/view/d/east-derry-vintage-amber-beaded-necklace/3nDBN64ZvaZRWbB9qnB9ex",
    "best": "VINTAGE SIGNED CZECH AMBER GLASS NECKLACE | eBay",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946710006",
+   "title": "Brooch/Pin/Pendant ~  Warrior Soldier/Napoleon Emperor",
+   "price": 25,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-brooch-pin-pendant-warrior/gn3G24boUkagZNX5QDYr7q",
+   "best": "Brooch, Pin, Pendant, Warrior, Napoleon Emperor, gold tone ...",
    "med": 70,
    "ratio": 2.8,
    "ai_value": ""
@@ -4573,6 +4650,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951160682",
+   "title": "Sterling Cocktail Ring with Black Stone- Vintage",
+   "price": 30,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/milton-sterling-cocktail-ring-with/uuQDG9vE6c5rEnsNGjeb1A",
+   "best": "Sterling Silver Dainty Ring Black Onyx Size 5.75 | eBay",
+   "med": 54,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7978405131",
    "title": "vintage STIG LARSON GUSTAVSBERG TEAPOT",
    "price": 65,
@@ -4646,6 +4734,17 @@
    "url": "https://www.craigslist.org/view/d/la-grange-park-antique-vase-with-cork/axrQq7WTud5u5ZtWdBzs7B",
    "best": "Ken Merrick Pottery Jar w/Cork Studio Art Stoneware Canister ...",
    "med": 125,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950844433",
+   "title": "Vintage Sadler Blue Willow Teapot",
+   "price": 30,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-sadler-blue-willow/rTp7Ms8ZzBUZproiDEmxG1",
+   "best": "Sadler Blue Willow Teapot With 22kt Gold Accents, Made in ...",
+   "med": 50,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -4833,6 +4932,28 @@
    "url": "https://www.craigslist.org/view/d/greenwood-old-hatchet-heads/2KzR9v7GpNR3dSBzEHj8jT",
    "best": "Vintage Steel Wards Master Quality 2 LB / 3-1/2\u201d Blade ...",
    "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933833935",
+   "title": "VINTAGE SARAH COVENTRY 16\" NECKLACE",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-sarah-coventry-16/vxbSLvyYinZ7AiwhUoELWk",
+   "best": "Vintage Sarah Coventry 16\u201d Silver Tone Choker Necklace ...",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936077243",
+   "title": "Gold plated earrings",
+   "price": 10,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/sicklerville-gold-plated-earrings/bU99PCEJNb1pnqWuNTsfDB",
+   "best": "Amazon.com: Henoyso 16 Pcs Gold Jewelry Set for Women ...",
+   "med": 15,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -5175,6 +5296,17 @@
    "best": "Right Vase: Features a pink-and-white chrysanthemum blossom with green foliage set against a bright peacock-bl",
    "med": 100,
    "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957140692",
+   "title": "Three Small Vintage Colored Glass Vases",
+   "price": 30,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-three-small-vintage-colored/oJWUUyw2d9G2tqjFhFTn2T",
+   "best": "Vintage Ruby Red Amber Crackle Glass Hand Blown Red Pitcher ...",
+   "med": 37,
+   "ratio": 1.23,
    "ai_value": ""
   },
   {
@@ -6256,6 +6388,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942013693",
+   "title": "Vintage ceramic pottery",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-ceramic-pottery/wGivUFddck1V9khYcQxZag",
+   "best": "The collection includes:",
+   "med": 45,
+   "ratio": 0.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7955419386",
    "title": "Vintage 1940s Composition Doll \u2013 Possible Horsman",
    "price": 75,
@@ -6494,6 +6637,28 @@
    "url": "https://www.craigslist.org/view/d/gig-harbor-lot-of-pendans-with-gemstones/s8F9oBomP1oozRWkM2cHFU",
    "best": "Bikini Charms \u2013 Flower & Flame",
    "med": 6,
+   "ratio": 0.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952525347",
+   "title": "THE OLD CIDER MILL, #186/500",
+   "price": 75,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/southington-the-old-cider-mill/5ZGn8871EiWE3k8E9nCLMv",
+   "best": "Diana Tyler The Old Cider Mill Farm Stand Framed Watercolor ...",
+   "med": 18,
+   "ratio": 0.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934646970",
+   "title": "Vintage Sterling braided spinner ring with gold bands",
+   "price": 375,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-sterling-braided-spinner/j4RmgYEEWeqJbZWggBw4h2",
+   "best": "NWOT OR PAZ 925 Sterling Silver 14K Gold Clear Quartz ...",
+   "med": 89,
    "ratio": 0.24,
    "ai_value": ""
   },
@@ -6812,6 +6977,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-bruno-antique-china-porcelain/wcKtiUTVuC52FrGoQdbneq",
    "best": "Wedgwood Blue & White FERRARA Pitcher 5\" x 5\" | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949068347",
+   "title": "HUNTING KNIFE",
+   "price": 22,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-hunting-knife/eiq7M1dctqHFqLphzgtEwX",
+   "best": "Schrade Uncle Henry Knife 153UH w/ Sheath & Stone New in ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
