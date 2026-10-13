@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:20:19Z",
+ "updated": "2026-10-13T17:23:24Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6303,
-  "events": 21373,
+  "lens": 6328,
+  "events": 21398,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 177,
+  "lensed": 180,
   "comps/pass": 1,
-  "queued/relens": 96,
+  "queued/relens": 113,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 204,
+  "flagged": 209,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 550
+  "queued": 525
  },
  "last_harvests": [
   {
@@ -1373,6 +1373,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7945634101",
+   "title": "Julio Amaro Vintage Signed Kinoptic Seascape",
+   "price": 35,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-julio-amaro-vintage/tFE2gHJfV5oMcAcjKcNxoq",
+   "best": "Signed Numbered Julio Amaro Kinoptic Art Light And Sail ...",
+   "med": 100,
+   "ratio": 2.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952504581",
+   "title": "Antique Union Member Badge and Ribbon",
+   "price": 45,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-antique-union-member-badge-and/hQ3qYwnB4PrwSALExu65zS",
+   "best": "Rare Vintage Trade Union Member Badge Ribbon Dayton Ohio ...",
+   "med": 128,
+   "ratio": 2.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7973376708",
    "title": "Vintage Schatz Clock",
    "price": 25,
@@ -1747,6 +1769,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961318184",
+   "title": "Vintage miniature spoon collection",
+   "price": 50,
+   "area": "parkersburg",
+   "url": "https://www.craigslist.org/view/d/new-concord-vintage-miniature-spoon/dDSojYhy7mTZajF3nUMJQs",
+   "best": "40 Larger Spoon Display Case Wall Rack Cabinet Holder Box 98 ...",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7954408892",
    "title": "Vintage Gold Toned Metal Signed \"Gay Boyer\" Fox Heads Belt Buckle",
    "price": 45,
@@ -2077,6 +2110,17 @@
    "ai_value": "Price: $18"
   },
   {
+   "pid": "7973653254",
+   "title": "Vintage round concrete planter",
+   "price": 85,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-round-concrete/qD3uG7fPdSQgYfpBxaXNno",
+   "best": "Common Dimensions: Typically found in sizes ranging from around 10 inches tall (e.g., smaller utility or porch",
+   "med": 110,
+   "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7950037380",
    "title": "Antique Large  1930's Ring Vase",
    "price": 25,
@@ -2381,6 +2425,17 @@
    "url": "https://www.craigslist.org/view/d/los-angeles-vintage-1940s-nasco-leaf/tbBcim8bVpQycrGN9hudwx",
    "best": "Vintage Leaf Plate (single) With Flowers And Gold Accents ...",
    "med": 12,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949551450",
+   "title": "David\u2019s Bridal Swarovski Crystal & Silver Tiara",
+   "price": 75,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/pasadena-davids-bridal-swarovski/ty1GkJ9mEApHgkixEYymfW",
+   "best": "David's Bridal",
+   "med": 45,
    "ratio": 0.6,
    "ai_value": ""
   },

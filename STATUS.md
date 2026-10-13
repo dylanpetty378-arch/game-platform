@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T17:20:19Z
+# Refurbish status — 2026-10-13T17:23:24Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 6698 |
-| queued | 550 |
-| flagged | 204 |
-| lensed | 177 |
-| queued/relens | 96 |
+| queued | 525 |
+| flagged | 209 |
+| lensed | 180 |
+| queued/relens | 113 |
 | decided/ask | 51 |
 | decided/find | 9 |
 | decided/kill | 8 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 7
 - searches: 1727
 - listings: 7807
-- lens: 6303
-- events: 21373
+- lens: 6328
+- events: 21398
 - comps: 1561
 - item_types: 801
 - runs: 0
@@ -103,7 +103,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00V0V_dGZSsOXo0V5_09G03K_300x300.jpg" width="160"> | [WWII US M3 CASE 1943 KNIFE](https://www.craigslist.org/view/d/yakima-wwii-us-m3-case-1943-knife/i7Hcuk756VG3uuDbb2nVNs) | $100 | yakima | **decided/ask** — WWII US M3 trench knife, stacked-leather grip, steel cross guard, sold with a Pacific-island wood/brass souvenir dagger for $100 both. Blade heavily pitted, no M8 scabbard, maker mark NOT shown. Only a crisp "U.S. M3 CAS |
 | <img src="https://images.craigslist.org/00r0r_cjWfJ7PAvej_0mB0t2_300x300.jpg" width="160"> | [Vintage Patty Hearst Tania SLA Poster](https://www.craigslist.org/view/d/garden-grove-vintage-patty-hearst-tania/67mgvrXgPbuaZ3CZU9z7uC) | $100 | orangecounty | **decided/ask** — 1974 'TANIA' Patty Hearst SLA halftone poster 16x22, toned newsprint, pin holes, shrink-wrapped to board — originals sold $150-300, reprints $20. ASK: offer $50; photo of paper edge/back to confirm thin toned 1974 newspr |
 
-## Flagged by Lens, waiting for photo review (204)
+## Flagged by Lens, waiting for photo review (209)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -201,6 +201,8 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00c0c_2iJ2Z609AMz_0jm0pO_300x300.jpg" width="120"> | 7943408324 | $50 | tallahassee | [Vintage Wedding Dress](https://www.craigslist.org/view/d/lake-city-vintage-wedding-dress/1ZFvNXcfjqLVAQnTgYLYPL) | Poshmark | 148 | 2.96 |
 | <img src="https://images.craigslist.org/00z0z_7x6KsQ6tUU8_0CI0lM_300x300.jpg" width="120"> | 7982794332 | $150 | peoria | [1917 Elgin pocket watch](https://www.craigslist.org/view/d/geneseo-1917-elgin-pocket-watch/joWUX1mkWqHBwhCHA1jiU2) | Antique 1913 Elgin 12s 15j Pocket Watch Model 2 Grade 314 .. | 440 | 2.93 |
 | <img src="https://images.craigslist.org/00o0o_3ajlfKZTssm_0CI0t2_300x300.jpg" width="120"> | 7980529656 | $60 | phoenix | [Vintage medical tool lot](https://www.craigslist.org/view/d/scottsdale-vintage-medical-tool-lot/e5RxWhQKQtykm9KkYbmvBD) | VINTAGE MEDICAL SURGICAL TOOL INSTRUMENTS CONTAINER ENAMEL . | 172 | 2.87 |
+| <img src="https://images.craigslist.org/00909_lM8lE9hdurs_0t20CI_300x300.jpg" width="120"> | 7945634101 | $35 | santabarbara | [Julio Amaro Vintage Signed Kinoptic Seascape](https://www.craigslist.org/view/d/santa-barbara-julio-amaro-vintage/tFE2gHJfV5oMcAcjKcNxoq) | Signed Numbered Julio Amaro Kinoptic Art Light And Sail ... | 100 | 2.86 |
+| <img src="https://images.craigslist.org/00u0u_gdBCh8Um98d_0t20CI_300x300.jpg" width="120"> | 7952504581 | $45 | fresno | [Antique Union Member Badge and Ribbon](https://www.craigslist.org/view/d/fresno-antique-union-member-badge-and/hQ3qYwnB4PrwSALExu65zS) | Rare Vintage Trade Union Member Badge Ribbon Dayton Ohio ... | 128 | 2.84 |
 | <img src="https://images.craigslist.org/00C0C_26gZUxP5hQn_0t20t2_300x300.jpg" width="120"> | 7973376708 | $25 | visalia | [Vintage Schatz Clock](https://www.craigslist.org/view/d/camarillo-vintage-schatz-clock/2zF2ozRymGUe4uS5jGodmJ) | Craigslist | 70 | 2.8 |
 | <img src="https://images.craigslist.org/00k0k_3V2YYya9LrP_0t20CI_300x300.jpg" width="120"> | 7975559133 | $25 | nh | [Vintage amber beaded necklace](https://www.craigslist.org/view/d/east-derry-vintage-amber-beaded-necklace/3nDBN64ZvaZRWbB9qnB9ex) | VINTAGE SIGNED CZECH AMBER GLASS NECKLACE / eBay | 70 | 2.8 |
 | <img src="https://images.craigslist.org/00R0R_aUHNMIDt0IS_0t20CI_300x300.jpg" width="120"> | 7932208853 | $54 | spokane | [Vintage crystal decanter](https://www.craigslist.org/view/d/coeur-alene-vintage-crystal-decanter/hULoSwf1KeLX96BjAPFacy) | Victorian Shaft and Globe Glass Decanter c1870 - Tableware . | 150 | 2.78 |
@@ -227,5 +229,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00x0x_dEysRHLNQmH_0x20oM_300x300.jpg" width="120"> | 7982807499 | $44 | capecod | [Vintage Garnet Ring](https://www.craigslist.org/view/d/cataumet-vintage-garnet-ring/cmh4BcxS3nwq96RBrLHsK2) | Vintage Sterling Silver & Marcasite Garnet Cluster Ring Size | 96 | 2.18 |
 | <img src="https://images.craigslist.org/00B0B_5UHmz0pJDmu_0Cz0t2_300x300.jpg" width="120"> | 7951803040 | $100 | lafayette | [sterling silver candle holders](https://www.craigslist.org/view/d/lafayette-sterling-silver-candle-holders/u2wy1rbSdJDeTCmktw1R3C) | Las mejores ofertas en Gorham post - 1940 objetos antiguos . | 215 | 2.15 |
 | <img src="https://images.craigslist.org/00404_bmUs6H5aiex_0t20CI_300x300.jpg" width="120"> | 7934461234 | $40 | fresno | [Antique Brooch Sterling silver MOP Mother Of Pearl](https://www.craigslist.org/view/d/fresno-antique-brooch-sterling-silver/jAtfQvNcvzaK2fgk5tp5GD) | Antique Brooch 800 Sterling Silver MOP Mother of Pearl ... | 85 | 2.13 |
-| <img src="https://images.craigslist.org/00v0v_7XTDwM7MAsi_0CI0t2_300x300.jpg" width="120"> | 7936225689 | $50 | albuquerque | [Norman Rockwell vintage plates](https://www.craigslist.org/view/d/albuquerque-norman-rockwell-vintage/rFirUgpxNBfeXPD5WpYtnY) | Norman Rockwell 1972 Four Seasons Collector Plates lot of 4  | 105 | 2.1 |
-| <img src="https://images.craigslist.org/00O0O_6EkuuPUxQq1_07K0ak_300x300.jpg" width="120"> | 7957523387 | $50 | boston | [Vintage Grinch Pocket Watch](https://www.craigslist.org/view/d/beverly-vintage-grinch-pocket-watch/9XZEbiZWwVasM2RQ5zmSHJ) | Grinch Watch / eBay | 105 | 2.1 |
