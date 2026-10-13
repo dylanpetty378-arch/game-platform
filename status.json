@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T04:52:46Z",
+ "updated": "2026-10-13T04:56:26Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1704,
-  "events": 7211,
+  "lens": 1729,
+  "events": 7236,
   "comps": 152,
   "item_types": 641,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 536,
-  "queued": 2936,
-  "lensed": 625,
+  "queued": 2911,
+  "lensed": 642,
   "comps/pass": 1,
   "decided/ask": 15,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 172,
+  "flagged": 180,
   "decided/find": 6
  },
  "last_harvests": [
@@ -477,6 +477,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953338518",
+   "title": "Vintage bookcases",
+   "price": 40,
+   "area": "pueblo",
+   "url": "https://www.craigslist.org/view/d/pueblo-vintage-bookcases/84JpwCzMgyfrbWNuR9thFV",
+   "best": "Antiques Boutique",
+   "med": 485,
+   "ratio": 12.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7980927999",
    "title": "Beautiful Framed & Matted Print",
    "price": 25,
@@ -719,6 +730,17 @@
    "ai_value": "sell secondhand between $50"
   },
   {
+   "pid": "7945582456",
+   "title": "Old Havana Fan",
+   "price": 85,
+   "area": "missoula",
+   "url": "https://www.craigslist.org/view/d/missoula-old-havana-fan/6XcHbRoQpnL2yvYq3TCsWM",
+   "best": "Fanimation Old Havana Rust Finish Plug-In Wall Fan",
+   "med": 646,
+   "ratio": 7.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7945582034",
    "title": "Old Havana Fan",
    "price": 85,
@@ -782,6 +804,17 @@
    "best": "Monster Trucks 800 lb. Capacity Wood 4-Wheel Dolly, Carpeted ...",
    "med": 69,
    "ratio": 6.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967113257",
+   "title": "Antique plates and dishes",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/flushing-antique-plates-and-dishes/6Uce15oTP6jodNveJncgAF",
+   "best": "P K Silesia Porcelain Handled Rose Decorative Plate For Sale ...",
+   "med": 68,
+   "ratio": 6.8,
    "ai_value": ""
   },
   {
@@ -958,6 +991,17 @@
    "best": "Vintage Linden Black Forest Miniature 4.5\u201d Musical Alarm ...",
    "med": 210,
    "ratio": 5.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933953307",
+   "title": "Vintage wood inlay tray",
+   "price": 30,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/leawood-vintage-wood-inlay-tray/agyf27NLB3vEwbgpPjKwhV",
+   "best": "Art Form: Marquetry (using fitted pieces of wood veneer to create a pictorial design)",
+   "med": 153,
+   "ratio": 5.1,
    "ai_value": ""
   },
   {
@@ -1456,6 +1500,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981414614",
+   "title": "Antique Glass Battery Jar",
+   "price": 40,
+   "area": "rmn",
+   "url": "https://www.craigslist.org/view/d/kasson-antique-glass-battery-jar/42evQ5zpHDnj3Ua9SsWsNY",
+   "best": "EXIDE GLASS BATTERY BOX - Primarily Petroliana Shop Talk",
+   "med": 95,
+   "ratio": 2.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7930846745",
    "title": "Painting",
    "price": 40,
@@ -1673,6 +1728,17 @@
    "best": "Handle: A wooden shaft with a straight or slightly flared grip, often marked with manufacturer details and dat",
    "med": 100,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957719782",
+   "title": "Vintage mechanical bank",
+   "price": 75,
+   "area": "york",
+   "url": "https://www.craigslist.org/view/d/york-vintage-mechanical-bank/rTc7pbo1Mf8JEsPk3qodAg",
+   "best": "Origin/Maker: Frequently produced or reproduced as a collectible item by companies like Bits & Pieces.",
+   "med": 120,
+   "ratio": 1.6,
    "ai_value": ""
   },
   {
@@ -1907,6 +1973,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976829168",
+   "title": "1880's Antique Oval Picture",
+   "price": 100,
+   "area": "wheeling",
+   "url": "https://www.craigslist.org/view/d/martins-ferry-1880s-antique-oval-picture/twWS7d1igVHKD6TxN9R2kK",
+   "best": "Vintage Oval Ornate Victorian Picture Frame Glass Portrait ...",
+   "med": 89,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7929980407",
    "title": "Vintage J. Fisher Lyons NY Stoneware Jug Brown Crock Stone Ware",
    "price": 125,
@@ -1979,6 +2056,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/medford-antique-sheffield-england-knife/wR9cXZYsUoVezqWSd7x5i6",
    "best": "Adams Green River Knives",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944899287",
+   "title": "Electronic Battleship Vintage 1977",
+   "price": 30,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/seminole-electronic-battleship-vintage/a1Des6qoeMskWZgaZBPELA",
+   "best": "VTG Electronic Battleship 1982 Milton Bradley Game w/ Box ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
