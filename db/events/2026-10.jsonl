@@ -5719,3 +5719,28 @@
 {"pid":"7954045054","stage":"photo_review","status":"kill","note":"small Dresden lace figure ~$25-60","type":"dresden-lace","data":null,"run":"review-20261013","by":"claude","ts":"2026-10-13T02:31:49Z"}
 {"pid":"7953831889","stage":"photo_review","status":"kill","note":"Macau MOP plaque, common","type":"mop-lacquer-plaque","data":null,"run":"review-20261013","by":"claude","ts":"2026-10-13T02:31:49Z"}
 {"pid":"7947359897","stage":"photo_review","status":"kill","note":"Noel Osheroff identified by seller, $140; est $100-200","type":"studio-ceramic","data":null,"run":"review-20261013","by":"claude","ts":"2026-10-13T02:31:49Z"}
+{"ts":"2026-10-13T02:28:25Z","pid":"7981341276","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T02:28:35Z","pid":"7946814669","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":540,"ratio":11.02}}
+{"ts":"2026-10-13T02:28:42Z","pid":"7933470464","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":55,"ratio":0.73}}
+{"ts":"2026-10-13T02:28:50Z","pid":"7949175033","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":255,"ratio":6.54}}
+{"ts":"2026-10-13T02:28:59Z","pid":"7982447940","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":140,"ratio":1.4}}
+{"ts":"2026-10-13T02:29:07Z","pid":"7955416114","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T02:29:16Z","pid":"7971222327","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":50,"ratio":2}}
+{"ts":"2026-10-13T02:29:26Z","pid":"7929979716","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":92,"ratio":0.92}}
+{"ts":"2026-10-13T02:29:33Z","pid":"7971790377","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":153,"ratio":3.83}}
+{"ts":"2026-10-13T02:29:41Z","pid":"7956580439","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":69,"ratio":1.06}}
+{"ts":"2026-10-13T02:29:50Z","pid":"7945678987","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":25,"ratio":0.31}}
+{"ts":"2026-10-13T02:29:58Z","pid":"7973320722","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":65,"ratio":0.93}}
+{"ts":"2026-10-13T02:30:07Z","pid":"7980410556","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":269,"ratio":6.72}}
+{"ts":"2026-10-13T02:30:16Z","pid":"7930344202","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":155,"ratio":7.75}}
+{"ts":"2026-10-13T02:30:26Z","pid":"7954284858","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":384,"ratio":2.56}}
+{"ts":"2026-10-13T02:30:34Z","pid":"7982453484","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":700,"ratio":28}}
+{"ts":"2026-10-13T02:30:44Z","pid":"7979116047","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":380,"ratio":8.44}}
+{"ts":"2026-10-13T02:30:54Z","pid":"7957044635","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":125,"ratio":1.05}}
+{"ts":"2026-10-13T02:31:03Z","pid":"7939662536","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":400,"ratio":8}}
+{"ts":"2026-10-13T02:31:13Z","pid":"7978534872","stage":"flagged","run":"lensworker-20261013-0224","data":{"med":200,"ratio":4}}
+{"ts":"2026-10-13T02:31:22Z","pid":"7960610673","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":75,"ratio":1.07}}
+{"ts":"2026-10-13T02:31:31Z","pid":"7958351156","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":35,"ratio":1.4}}
+{"ts":"2026-10-13T02:31:40Z","pid":"7980124095","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":50,"ratio":2.5}}
+{"ts":"2026-10-13T02:31:50Z","pid":"7954556936","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":40,"ratio":1.33}}
+{"ts":"2026-10-13T02:31:59Z","pid":"7957073048","stage":"lensed","run":"lensworker-20261013-0224","data":{"med":28,"ratio":1.12}}
