@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:15:15Z",
+ "updated": "2026-10-13T06:19:01Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2229,
-  "events": 9764,
+  "lens": 2254,
+  "events": 9789,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3211,
+  "queued": 3186,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 59,
-  "lensed": 41
+  "flagged": 74,
+  "lensed": 51
  },
  "last_harvests": [
   {
@@ -246,6 +246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982585961",
+   "title": "Vintage metal purses",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/petaluma-vintage-metal-purses/dCGKsyB6d8DsCh52gNHz6M",
+   "best": "eBay",
+   "med": 3999,
+   "ratio": 99.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7940295485",
    "title": "Pottery Urn Jar",
    "price": 25,
@@ -279,6 +290,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947364258",
+   "title": "Vintage 3d print",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/sound-beach-vintage-3d-print/dTWi33b9jyr3fzbEEPuPLg",
+   "best": "Sold at Auction: Maurice Utrillo, Maurice Utrillo - La Ville ...",
+   "med": 575,
+   "ratio": 38.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7929521392",
    "title": "sterling silver-gold vermeil 17'' faceted beaded necklace-italy",
    "price": 40,
@@ -298,6 +320,17 @@
    "best": "Etsy",
    "med": 725,
    "ratio": 25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947989928",
+   "title": "ARTIST-SIGNED GREENLEAF ARIZONA LANDSCAPE WATERCOLOR PAINTING QUAIL",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-artist-signed-greenleaf/qytsLnGG2eVpQw93BMZriN",
+   "best": "Similar Items to Signed Original Vintage Gouache Painting in ...",
+   "med": 2000,
+   "ratio": 20,
    "ai_value": ""
   },
   {
@@ -389,6 +422,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976042442",
+   "title": "Beautiful vintage jewelry pins and Brooches",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/watertown-beautiful-vintage-jewelry/ui9ekKBLW2SBhCquC7pJHq",
+   "best": "eBay",
+   "med": 89,
+   "ratio": 8.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7980183291",
    "title": "Antique Qing Dynasty China Famille Rose Octagonal Bowl",
    "price": 20,
@@ -408,6 +452,17 @@
    "best": "Paintings in this distinct decorative style are commonly attributed to or created in the manner of mid-century",
    "med": 170,
    "ratio": 8.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952956310",
+   "title": "Vintage Japanese cast iron tea kettle",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/woonsocket-vintage-japanese-cast-iron/g687ftAghRymtH5kyyjALY",
+   "best": "SALUS Nambu Ironware Teapot Flat Thread : Amazon.sg: Home",
+   "med": 148,
+   "ratio": 7.4,
    "ai_value": ""
   },
   {
@@ -433,6 +488,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7945146254",
+   "title": "VINTAGE MANTLE CLOCK",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/oceanside-vintage-mantle-clock/2wgP48UXbbR4AsqNXVttro",
+   "best": "Dial: Circular gold-tone or brass-embossed center dial with Arabic or Roman numerals and two winding arbors (t",
+   "med": 265,
+   "ratio": 6.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982631327",
+   "title": "Vintage Taxco Mexico Sterling Silver Sunburst Clip Earrings",
+   "price": 95,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-taxco-mexico-sterling/sT4BTd7frirBYFagY9ZCFr",
+   "best": "Paloma Picasso for Tiffany Daisy Earrings \u2013 Pippin Vintage ...",
+   "med": 629,
+   "ratio": 6.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7942073476",
    "title": "Guitar / banjo projects",
    "price": 35,
@@ -452,6 +529,17 @@
    "best": "Poshmark",
    "med": 580,
    "ratio": 5.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981461972",
+   "title": "Original Farmhouse Countryside Painting",
+   "price": 75,
+   "area": "santamaria",
+   "url": "https://www.craigslist.org/view/d/carpinteria-original-farmhouse/2qVgUd7jLqXMLGS9QkEJWk",
+   "best": "Eau-forte 1930 Versailles Moulin Marie Antoinette signature ...",
+   "med": 393,
+   "ratio": 5.24,
    "ai_value": ""
   },
   {
@@ -543,6 +631,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930879239",
+   "title": "Poppy Framed Print",
+   "price": 25,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/richmond-poppy-framed-print/1JxduwdZFfshKCAxwLeSCr",
+   "best": "Tile Mural Store",
+   "med": 108,
+   "ratio": 4.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7980406266",
    "title": "ARTIST-CREATED VINTAGE MEXICAN ARTS & CRAFTS HAMMERED COPPER FISH VASE",
    "price": 100,
@@ -562,6 +661,17 @@
    "best": "Vintage 1960s Melitta Germany Porcelain Coffee Pot ... - eBay",
    "med": 133,
    "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949642823",
+   "title": "Antique Needlepoint Purse w/ Enamel Frame",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-antique-needlepoint-purse/23uG8fB3h2oQm4MtVW6G45",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 3.57,
    "ai_value": ""
   },
   {
@@ -796,6 +906,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7951816540",
+   "title": "Vintage Japanese Buddha",
+   "price": 125,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-japanese-buddha/6hHq4EWuNf3pud2hjDar1H",
+   "best": "Style & Material: Hand-painted porcelain or glazed ceramic featuring vibrant blue, red, and green robes with d",
+   "med": 200,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950424348",
+   "title": "Antique Stoneware crocks and bottles lot",
+   "price": 195,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-antique-stoneware-crocks/rZPfDAjp5m343dPN7eP9eZ",
+   "best": "Large Stoneware Crock (Back Left): A large 6-gallon stoneware crock marked with a blue \"6\" and a maker logo (s",
+   "med": 279,
+   "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7955296959",
    "title": "Lady golfer",
    "price": 65,
@@ -840,6 +972,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7932677844",
+   "title": "Vintage German/Dutch Beer Stein Wizard Fantasy MUG",
+   "price": 100,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/conroe-vintage-german-dutch-beer-stein/av6QBWqaJTZk7qSTEHU6h3",
+   "best": "Sold at Auction: Duncan Enterprises Pottery Beer Stein ...",
+   "med": 95,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941028501",
+   "title": "Vintage Chinese Tea Set",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-chinese-tea-set/j7k1xtRwsWEH4kmzedV5xo",
+   "best": "eBay",
+   "med": 89,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7945305454",
    "title": "Vintage Primative Castle Painting",
    "price": 100,
@@ -859,6 +1013,17 @@
    "best": "Craigslist",
    "med": 145,
    "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931889314",
+   "title": "Vintage Unisex Zuni Sterling Silver and Turquoise Cross and Chain",
+   "price": 150,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-unisex-zuni-sterling/jTQfL8DgZGo1bpzB2Lg7wW",
+   "best": "Vintage signed ART...Fancy Silver Tone,Turquoise Lucite ...",
+   "med": 100,
+   "ratio": 0.67,
    "ai_value": ""
   },
   {
