@@ -21546,3 +21546,28 @@
 {"ts":"2026-10-13T17:42:47Z","pid":"7967047188","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T17:42:56Z","pid":"7949716375","stage":"flagged","run":"lensworker-20261013-1738","note":"Lens names Silver — title does not","data":{"med":95,"ratio":1.27,"mismatch":["Silver"]}}
 {"ts":"2026-10-13T17:43:03Z","pid":"7959986586","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":446,"ratio":11.15,"mismatch":[]}}
+{"ts":"2026-10-13T17:43:14Z","pid":"7932247276","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":14,"ratio":0.47,"mismatch":[]}}
+{"ts":"2026-10-13T17:43:22Z","pid":"7939713365","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":10,"ratio":0.2,"mismatch":[]}}
+{"ts":"2026-10-13T17:43:31Z","pid":"7967729739","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":36,"ratio":0.6,"mismatch":[]}}
+{"ts":"2026-10-13T17:43:39Z","pid":"7981410951","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":116,"ratio":2.11,"mismatch":[]}}
+{"ts":"2026-10-13T17:43:49Z","pid":"7982800905","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":10,"ratio":0.67,"mismatch":[]}}
+{"ts":"2026-10-13T17:43:56Z","pid":"7949853469","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:44:02Z","pid":"7980504138","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:44:12Z","pid":"7953793859","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":30,"ratio":1.2,"mismatch":[]}}
+{"ts":"2026-10-13T17:44:25Z","pid":"7965856788","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":36,"ratio":2.4,"mismatch":[]}}
+{"ts":"2026-10-13T17:44:34Z","pid":"7942528645","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":400,"ratio":4.71,"mismatch":[]}}
+{"ts":"2026-10-13T17:44:43Z","pid":"7953392875","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":34,"ratio":2.27,"mismatch":[]}}
+{"ts":"2026-10-13T17:44:49Z","pid":"7954953037","stage":"queued","status":"relens","run":"lensworker-20261013-1738","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:44:58Z","pid":"7937823008","stage":"lensed","run":"lensworker-20261013-1738","note":null,"data":{"med":10,"ratio":0.1,"mismatch":[]}}
+{"ts":"2026-10-13T17:45:08Z","pid":"7934825752","stage":"flagged","run":"lensworker-20261013-1738","note":null,"data":{"med":150,"ratio":150,"mismatch":[]}}
+{"ts":"2026-10-13T17:45:17Z","pid":"7935512073","stage":"flagged","run":"lensworker-20261013-1738","note":"Lens names Gold — title does not","data":{"med":200,"ratio":3.08,"mismatch":["Gold"]}}
+{"ts":"2026-10-13T17:47:25Z","pid":"7982715027","stage":"lensed","run":"lensworker-20261013-1743","note":null,"data":{"med":64,"ratio":2.13,"mismatch":[]}}
+{"ts":"2026-10-13T17:47:35Z","pid":"7969977567","stage":"flagged","run":"lensworker-20261013-1743","note":null,"data":{"med":320,"ratio":3.76,"mismatch":[]}}
+{"ts":"2026-10-13T17:47:44Z","pid":"7982805555","stage":"flagged","run":"lensworker-20261013-1743","note":null,"data":{"med":275,"ratio":13.75,"mismatch":[]}}
+{"ts":"2026-10-13T17:47:54Z","pid":"7976062746","stage":"queued","status":"relens","run":"lensworker-20261013-1743","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:48:01Z","pid":"7955773530","stage":"queued","status":"relens","run":"lensworker-20261013-1743","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:48:08Z","pid":"7951641955","stage":"queued","status":"relens","run":"lensworker-20261013-1743","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:48:15Z","pid":"7958398055","stage":"queued","status":"relens","run":"lensworker-20261013-1743","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:48:22Z","pid":"7937886708","stage":"queued","status":"relens","run":"lensworker-20261013-1743","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:48:31Z","pid":"7963649874","stage":"flagged","run":"lensworker-20261013-1743","note":"Lens names Gold — title does not","data":{"med":51,"ratio":5.1,"mismatch":["Gold"]}}
+{"ts":"2026-10-13T17:48:41Z","pid":"7975824978","stage":"flagged","run":"lensworker-20261013-1743","note":null,"data":{"med":650,"ratio":13,"mismatch":[]}}

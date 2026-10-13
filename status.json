@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:43:21Z",
+ "updated": "2026-10-13T17:49:07Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6478,
-  "events": 21548,
+  "lens": 6503,
+  "events": 21573,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 213,
+  "lensed": 223,
   "comps/pass": 1,
-  "queued/relens": 184,
+  "queued/relens": 192,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 255,
+  "flagged": 262,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 375
+  "queued": 350
  },
  "last_harvests": [
   {
@@ -416,6 +416,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934825752",
+   "title": "Antique Vintage Asian pieces",
+   "price": 1,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/gold-hill-antique-vintage-asian-pieces/obPibbWkQyKVWn91gEx4cm",
+   "best": "Delft Candle Sticks - Etsy",
+   "med": 150,
+   "ratio": 150,
+   "ai_value": ""
+  },
+  {
    "pid": "7981826904",
    "title": "Vintage Omega Ladymatic Watch",
    "price": 80,
@@ -680,6 +691,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982805555",
+   "title": "Old silver quarters/half dollar",
+   "price": 20,
+   "area": "saltlakecity",
+   "url": "https://www.craigslist.org/view/d/salt-lake-city-old-silver-quarters-half/hFCfqYqcpJofRiBLrsCXuc",
+   "best": "1936 WALKING LIBERTY 50C | Rare Coin Wholesalers, a S.L. ...",
+   "med": 275,
+   "ratio": 13.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7976681115",
    "title": "Ladies Sterling Silver Ring",
    "price": 25,
@@ -699,6 +721,17 @@
    "best": "Set of 3 Vintage Look Round Crystal Detail Fancy Brooches | eBay",
    "med": 135,
    "ratio": 13.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975824978",
+   "title": "Antique Brass Oil Lamp",
+   "price": 50,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/summerville-antique-brass-oil-lamp/7cnDRhcLCymv3XsVxYnyHz",
+   "best": "Wonderful Pair of Antique Etched Glass Brass Turkish ...",
+   "med": 650,
+   "ratio": 13,
    "ai_value": ""
   },
   {
@@ -1098,6 +1131,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963649874",
+   "title": "Lamp Vintage Victorian Colonial Couple A Pair of Lamps",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-lamp-vintage-victorian/1uxKPajjt9wJfrgEntVCqo",
+   "best": "Antique Victorian Figurine Porcelain Gold Trim Metal Base ...",
+   "med": 51,
+   "ratio": 5.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7974511815",
    "title": "Cuff links vintage",
    "price": 15,
@@ -1150,6 +1194,17 @@
    "best": "10.4\" Antique old China bronze gilt lucky Wealth fengshui ...",
    "med": 167,
    "ratio": 4.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942528645",
+   "title": "Large Vintage Painting",
+   "price": 85,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-large-vintage-painting/t6hYH3j7HGkakJBL3xEF7A",
+   "best": "1980s Original Signed Sid Mountain 'October' Oil Painting ...",
+   "med": 400,
+   "ratio": 4.71,
    "ai_value": ""
   },
   {
@@ -1304,6 +1359,17 @@
    "best": "VINTAGE PABST BLUE RIBBON BEER COASTER LOT OF 6 | eBay",
    "med": 76,
    "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969977567",
+   "title": "Vintage Alaska-Canada Highway 50th Anniversary Silver Medallion",
+   "price": 85,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/elkhorn-vintage-alaska-canada-highway/6UoHfk8A8EYEJPo5xb9ARV",
+   "best": "Alaska Mint Silver Coin | eBay",
+   "med": 320,
+   "ratio": 3.76,
    "ai_value": ""
   },
   {
@@ -1557,6 +1623,17 @@
    "best": "Vintage Moroccan Taarija / Tbilat Drum Set (3) \u2013 Handmade ...",
    "med": 110,
    "ratio": 3.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935512073",
+   "title": "ALWAND VAHAN Sterling Amethyst Heart Pendant w/ 14k and Diamond Accent",
+   "price": 65,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-alwand-vahan-sterling-amethyst/mkqWCvVvt2re46MJYehvXK",
+   "best": "14 KT White Gold Lab Created Amethyst Stone Heart Pendant - Etsy",
+   "med": 200,
+   "ratio": 3.08,
    "ai_value": ""
   },
   {
