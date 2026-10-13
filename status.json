@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T04:10:45Z",
+ "updated": "2026-10-13T04:14:26Z",
  "tables": {
   "harvests": 3,
-  "searches": 1,
+  "searches": 162,
   "listings": 4607,
-  "lens": 1454,
-  "events": 6956,
-  "comps": 12,
+  "lens": 1479,
+  "events": 6981,
+  "comps": 152,
   "item_types": 217,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3187,
-  "lensed": 493,
+  "queued": 3162,
+  "lensed": 506,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 309,
@@ -21,7 +21,7 @@
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 57
+  "flagged": 69
  },
  "last_harvests": [
   {
@@ -224,6 +224,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7943378820",
+   "title": "Vintage metal oval picture frames, vintage painting.  10x12\", 7x12\"",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/vintage-metal-oval-picture-frames/rqHDU1oS6K3WqM4bhHUGwz",
+   "best": "The Frame: Housed in a classic, distressed gold-gilt oval frame typical of early-to-mid-20th-century home deco",
+   "med": 240,
+   "ratio": 24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947120747",
+   "title": "Vintage Round Silver-Tone Brooch",
+   "price": 18,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/vintage-round-silver-tone-brooch/1xe28TrkjXPPLMiDFCruc8",
+   "best": "eBay",
+   "med": 370,
+   "ratio": 20.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7976559981",
    "title": "Ernst Geissendorfer SIGNED Etching Rothenburg Tauber \"Plonlein\"",
    "price": 10,
@@ -356,6 +378,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982526366",
+   "title": "Old Navajo Oil Painting Native American Women Blanket Jewelry Making",
+   "price": 195,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-old-navajo-oil-painting-native/9e3NnEyQpEoVsFsHghoJ3b",
+   "best": "Estimated Era: Mid-century (likely 1950s\u20131960s).",
+   "med": 1750,
+   "ratio": 8.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7952998598",
    "title": "Vintage Gold-tone with Rhinestones Mesh Flower Necklace with earrings",
    "price": 10,
@@ -444,6 +477,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982496696",
+   "title": "Vintage stained glass slag glass light",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/penngrove-vintage-stained-glass-slag/8mYXdsFrU5UNhAB13igSL3",
+   "best": "Estimated Value: Resale prices for similar vintage 1970s geometric slag glass fixtures typically range from $3",
+   "med": 225,
+   "ratio": 4.5,
+   "ai_value": "prices for similar vintage 1970s geometric slag glass fixtures typically range from $35 to $225"
+  },
+  {
+   "pid": "7956068875",
+   "title": "Vintage Mid Century Wall Clock / Mirror Gold Tone Frame Ornate Floral",
+   "price": 95,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/secaucus-vintage-mid-century-wall-clock/rP2xDVKh92Ea9utPsgX9G7",
+   "best": "Wallapop",
+   "med": 396,
+   "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7965801477",
    "title": "Antique Phone",
    "price": 40,
@@ -488,6 +543,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978589859",
+   "title": "Thermos - Vintage - The American Thermos Bottle Co.",
+   "price": 30,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bremerton-thermos-vintage-the-american/qGu9g2JcokjYpX45qg7H32",
+   "best": "Vintage 1950s Turquoise American Thermos No.41 Carafe - Etsy",
+   "med": 102,
+   "ratio": 3.4,
+   "ai_value": "Value / Market Price: Generally ranges between $30 to $38"
+  },
+  {
    "pid": "7962296433",
    "title": "Vintage turquoise cross",
    "price": 125,
@@ -496,6 +562,28 @@
    "best": "romaarellano",
    "med": 399,
    "ratio": 3.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954845358",
+   "title": "Vintage American Stoneware sponge ware mixing bowl, 11 1/2\u201d Wx 4 1/2\u201dH",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/montara-vintage-american-stoneware/7PTsempy16nc1YQtwxRTse",
+   "best": "Robinson Ransbottom Roseville OHIO 9 Inch 2.5 Quart Blue ...",
+   "med": 185,
+   "ratio": 3.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948843414",
+   "title": "Vintage Abstract Surrealist Art Painting Original",
+   "price": 175,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/north-hollywood-vintage-abstract/puxnk7nt6ow421BYhjikSh",
+   "best": "Invaluable.com",
+   "med": 499,
+   "ratio": 2.85,
    "ai_value": ""
   },
   {
@@ -598,6 +686,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946981939",
+   "title": "Vintage nautical light, red navigation",
+   "price": 100,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/camas-vintage-nautical-light-red/jMwkHW99eP72PoLaJuxNe7",
+   "best": "Facebook",
+   "med": 240,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7943336347",
    "title": "Antic Chinese hand painting on silk",
    "price": 60,
@@ -639,6 +738,17 @@
    "best": "Maker: Landers, Frary & Clark under the \"Universal\" brand.",
    "med": 95,
    "ratio": 2.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961916717",
+   "title": "Vintage antique 5 gallon water bottle",
+   "price": 75,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-vintage-antique-gallon-water/qseowP35ukzixqHkratb3N",
+   "best": "eBay",
+   "med": 148,
+   "ratio": 1.97,
    "ai_value": ""
   },
   {
@@ -794,6 +904,28 @@
    "med": null,
    "ratio": null,
    "ai_value": "value or list it for sale? Nextdoor Vintage Brass Hookah For $25"
+  },
+  {
+   "pid": "7968445623",
+   "title": "Autographed Stan Musial framed pictures faded",
+   "price": 100,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/indianapolis-autographed-stan-musial/hqsHsaB2Dy2cPh9EQYv74u",
+   "best": "Right Frame (Blue Mat): Features a vintage black-and-white action photograph of Stan Musial kneeling with bats",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944344470",
+   "title": "Sculpture of a Stag",
+   "price": 175,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/thornton-sculpture-of-stag/o5MQmEdCU27NYU4BWWjcfw",
+   "best": "Christophe Fratin | Reclining deer | MutualArt",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   }
  ],
  "finds": [
