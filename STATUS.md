@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T03:28:58Z
+# Refurbish status — 2026-10-13T03:32:02Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,11 +6,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 3462 |
-| lensed | 439 |
+| queued | 3437 |
+| lensed | 460 |
 | photo_review/kill | 414 |
 | queued/relens | 197 |
-| flagged | 79 |
+| flagged | 83 |
 | comps/fail | 6 |
 | decided/find | 6 |
 | decided/ask | 4 |
@@ -22,8 +22,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 3
 - searches: 1
 - listings: 4607
-- lens: 1179
-- events: 6428
+- lens: 1204
+- events: 6453
 - comps: 12
 - item_types: 169
 - runs: 0
@@ -49,7 +49,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00v0v_azI5PE4F3qH_0CI0mK_300x300.jpg" width="160"> | [Huge Cymbal Bundle – Zildjian / Paiste / Sabian – Below Mark](https://www.craigslist.org/view/d/kahului-huge-cymbal-bundle-zildjian/2zX6xaXdRmJoPkPGehbNkg) | $123 | images | **decided/ask** — Tier C: Zildjian 23in A Sweet Ride (median $380) + 7 more cymbals. Only works if $123 is the whole bundle AND they ship from Maui (~$100). ~$290 profit if so. |
 | <img src="https://images.craigslist.org/00W0W_hf6ATPiacVV_0t20CI_300x300.jpg" width="160"> | [Vintage Music Box](https://www.craigslist.org/view/d/quakertown-vintage-music-box/g2Y8F45bgtRGDckZ8ABVTs) | $100 | images | **decided/ask** — Tier C: Thorens AD30 + 23 discs listed as "Vintage Music Box". Box median $130 + discs ~$150. Clears at a $75 offer (~$100 profit). |
 
-## Flagged by Lens, waiting for photo review (79)
+## Flagged by Lens, waiting for photo review (83)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -59,6 +59,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00909_9CdUZvfWSJL_0t20CI_300x300.jpg" width="120"> | 7953457624 | $1 | portland | [Vintage wall photo](https://www.craigslist.org/view/d/vancouver-vintage-wall-photo/pZi91WLipnicvphTSr1i8W) | My Luv's Like a Red, Red Rose • Grapefruit Moon Gallery ... | 75 | 75 |
 | <img src="https://images.craigslist.org/00P0P_efy0NZy3RoZ_0CI0t2_300x300.jpg" width="120"> | 7982496051 | $40 | omaha | [Antique Oak Frame print on Canvas 25 3/4 x 29 3/4](https://www.craigslist.org/view/d/omaha-antique-oak-frame-print-on-canvas/r88j5BPGbYTdeuikuzFRDw) | KPM BERLIN PORCELAIN PLAQUE LARGER PSYCHE HOLDING URN NEAR . | 2999 | 74.97 |
 | <img src="https://images.craigslist.org/00S0S_dJxOcqSPkL0_0MM132_300x300.jpg" width="120"> | 7939329538 | $30 | southjersey | [Great artwork for sale](https://www.craigslist.org/view/d/oceanville-great-artwork-for-sale/ro6ppm2guVLyciXfvxd13a) | Mediterranean Seaside Impressionist Impasto Painting w ... | 1540 | 51.33 |
+| <img src="https://images.craigslist.org/00g0g_cXpmWLRqOlg_0t20CA_300x300.jpg" width="120"> | 7968158847 | $15 | austin | [Rogue ru 12 ukulele](https://www.craigslist.org/view/d/austin-rogue-ru-12-ukulele/p4e4Q1SMNDZf2Mvzf2shEn) | Rogue RU12 Soprano Ukulele / eBay | 470 | 31.33 |
 | <img src="https://images.craigslist.org/00U0U_5DMuz2RGfwM_0t20CI_300x300.jpg" width="120"> | 7953945971 | $100 | pittsburgh | [Antique slag lamp marble base](https://www.craigslist.org/view/d/monongahela-antique-slag-lamp-marble/wXTJqTuYNnwfspKgmqWi77) | Antique 8 Panel Curved Bent Caramel Slag Glass Table Lamp .. | 2199 | 21.99 |
 | <img src="https://images.craigslist.org/00101_azyAx7ACHjG_0t20CI_300x300.jpg" width="120"> | 7961449380 | $22 | rmn | [Ornate Vintage Italian Silver-Plated Peti Four Ton](https://www.craigslist.org/view/d/albert-lea-ornate-vintage-italian/qbXqQFEwnXmzBbgxsQGUq7) | Item Type: Triangular pastry, cake, or petit four server/ton | 408 | 18.55 |
 | <img src="https://images.craigslist.org/00w0w_7AdBBQGJDcB_0jm0pO_300x300.jpg" width="120"> | 7948605452 | $15 | newyork | [Religious Vase](https://www.craigslist.org/view/d/southport-religious-vase/nkKE1D4DfFFQLGWgPswLdy) | Vintage Majolica Pottery Ceramic Vase Urn Style Signed Italy | 275 | 18.33 |
@@ -69,7 +70,9 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00o0o_igy9pCVPkSm_2fm1Gw_300x300.jpg" width="120"> | 7947574131 | $15 | washingtondc | [vintage Metal Tin SEWING BOX  organizer container](https://www.craigslist.org/view/d/lanham-vintage-metal-tin-sewing-box/66fK29ULMQH1ebJ3bhVUoJ) | Vintage Rectangular Tin With Hinged Lid Made in England - Et | 200 | 13.33 |
 | <img src="https://images.craigslist.org/00M0M_dSWZNwSZf9B_0fu0bC_300x300.jpg" width="120"> | 7980012690 | $10 | harrisburg | [Trifari, Coventry etc. Jewelry](https://www.craigslist.org/view/d/marysville-trifari-coventry-etc-jewelry/4931KgfkMV9Y2YcHLNtTxN) | Signed de luxe nyc/adam - Gem | 130 | 13 |
 | <img src="https://images.craigslist.org/00s0s_kHfwf31jMrQ_0CI0t2_300x300.jpg" width="120"> | 7981404810 | $40 | rmn | [5 Gallon Large Wing Red Wing Jug](https://www.craigslist.org/view/d/kasson-gallon-large-wing-red-wing-jug/4i45bVCCNkJPY75ZAEHJLh) | Early 20th Century 3-Gallon Red Wing Crock / eBay | 520 | 13 |
+| <img src="https://images.craigslist.org/00F0F_ie3z8zDOdz_0t20CI_300x300.jpg" width="120"> | 7949518357 | $75 | boise | [Cowboy/Western vintage enamelware](https://www.craigslist.org/view/d/nampa-cowboy-western-vintage-enamelware/qzCk4mA4PXYLnbWSC63n2D) | Enamelware Coffee Pot With Rare Two Clouds From Monterrey .. | 950 | 12.67 |
 | <img src="https://images.craigslist.org/00000_74rCSWoMz06_0CI0jO_300x300.jpg" width="120"> | 7930087323 | $20 | louisville | [Vintage Jostens women's Quartz Swiss Gold Tone Wat](https://www.craigslist.org/view/d/mount-saint-francis-vintage-jostens/fqVbq5mutg23kukE8rCV7X) | Case/Dial: Gold-tone round case with a light silver dial and | 250 | 12.5 |
+| <img src="https://images.craigslist.org/00X0X_5HoQSZQpbBw_0lM0t2_300x300.jpg" width="120"> | 7982449032 | $80 | losangeles | [Antique samovar electric](https://www.craigslist.org/view/d/encino-antique-samovar-electric/ak66JsvejQHFmbDZgc2ctZ) | Samovar Urn Tea Russian Nickel Plated Brass SAMOVAR 3L 1973  | 821 | 10.26 |
 | <img src="https://images.craigslist.org/00i0i_gRzASOIGU5s_07K0ak_300x300.jpg" width="120"> | 7949862325 | $19 | minneapolis | [Lunch box 1982 Native American Theme-Vintage](https://www.craigslist.org/view/d/minneapolis-lunch-box-1982-native/ryTVmnYrpTEZdV9j1JuUmF) | 1955 Wild Bill Hickok And Jingles Metal Lunchbox - No Thermo | 165 | 8.68 |
 | <img src="https://images.craigslist.org/00F0F_iEILz6CVfZy_0lM0t2_300x300.jpg" width="120"> | 7944016859 | $25 | lacrosse | [Antique milk can with lid](https://www.craigslist.org/view/d/black-river-falls-antique-milk-can-with/1AAwWtXjcVYfZrnEZiyMJQ) | Antique Farm Metal Milk Dairy Jug Container 10 gallon Can .. | 210 | 8.4 |
 | <img src="https://images.craigslist.org/00l0l_aB0aheygM3t_0CI0t2_300x300.jpg" width="120"> | 7930943527 | $80 | kansascity | [J. R. Hamil Plaza Fountain Painting](https://www.craigslist.org/view/d/raymore-r-hamil-plaza-fountain-painting/sandhZabx8BU43kLXb1s1e) | Plaza Carriages / 16”x12” Lithograph / SOLD / J R Hamil | 650 | 8.13 |
@@ -85,6 +88,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00N0N_cTLsjfjzCGS_0t20CI_300x300.jpg" width="120"> | 7956215829 | $85 | ventura | [Water color 1960](https://www.craigslist.org/view/d/ojai-water-color-1960/iKUCJXrsNorJjJCRTv9Zrz) | Subject: Figures wearing traditional sombreros guiding pack  | 550 | 6.47 |
 | <img src="https://images.craigslist.org/00505_b7fYOFLsuBk_0wA0t2_300x300.jpg" width="120"> | 7974478842 | $15 | sandiego | [Vintage antique rhinestone necklace](https://www.craigslist.org/view/d/vista-vintage-antique-rhinestone/usP7jFUADE9yBq89EK2wPG) | Vintage Elegant Clear Glass Rhinestone Necklace Prom Wedding | 94 | 6.27 |
 | <img src="https://images.craigslist.org/00e0e_MFsCNhvtpR_0MM132_300x300.jpg" width="120"> | 7950048718 | $100 | portland | [Vihuela](https://www.craigslist.org/view/d/wilsonville-vihuela/9nwhC3NCwqVzqWdg7feyPZ) | H Jimenez LV2 El Quetzal Acoustic Vihuela with Free Bag! NEW | 589 | 5.89 |
+| <img src="https://images.craigslist.org/00Y0Y_1SAULqfyvyh_0Uw1d6_300x300.jpg" width="120"> | 7943881429 | $70 | austin | [Antique seth Thomas mantle clock](https://www.craigslist.org/view/d/austin-antique-seth-thomas-mantle-clock/4x3xXL3WiN9rFo3fpmxCdo) | Adamantine Clock / eBay | 400 | 5.71 |
 | <img src="https://images.craigslist.org/00u0u_jfcxYGcq6Pn_0lM0t2_300x300.jpg" width="120"> | 7948748433 | $20 | kansascity | [Old Rusted Tractor Sign Bridges Hardware](https://www.craigslist.org/view/d/kansas-city-old-rusted-tractor-sign/cs8RzybPCUDDSKPWWbLiaw) | Craigslist | 110 | 5.5 |
 | <img src="https://images.craigslist.org/00s0s_9zwoCEb0KpI_0t20CI_300x300.jpg" width="120"> | 7971176613 | $70 | orlando | [Beautiful 3D Lady Art](https://www.craigslist.org/view/d/altamonte-springs-beautiful-3d-lady-art/8Uwjs4mdxvqGZheToERHqq) | Artist: Signed by Rafael Martin (similar pieces are also occ | 350 | 5 |
 | <img src="https://images.craigslist.org/00x0x_gC15i1eGpBv_0CI0t2_300x300.jpg" width="120"> | 7939662493 | $100 | chicago | [Vintage Parlor Guitar Chipboard Case](https://www.craigslist.org/view/d/des-plaines-vintage-parlor-guitar/kn5yMmtrTRSbjK3k3bn7qq) | Vintage Framus Sorella 5/59 Hollowbody Acoustic Guitar / Rev | 495 | 4.95 |

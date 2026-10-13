@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:28:58Z",
+ "updated": "2026-10-13T03:32:02Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1179,
-  "events": 6428,
+  "lens": 1204,
+  "events": 6453,
   "comps": 12,
   "item_types": 169,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3462,
-  "lensed": 439,
+  "queued": 3437,
+  "lensed": 460,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 79
+  "flagged": 83
  },
  "last_harvests": [
   {
@@ -212,6 +212,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968158847",
+   "title": "Rogue ru 12 ukulele",
+   "price": 15,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-rogue-ru-12-ukulele/p4e4Q1SMNDZf2Mvzf2shEn",
+   "best": "Rogue RU12 Soprano Ukulele | eBay",
+   "med": 470,
+   "ratio": 31.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7953945971",
    "title": "Antique slag lamp marble base",
    "price": 100,
@@ -322,6 +333,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949518357",
+   "title": "Cowboy/Western vintage enamelware",
+   "price": 75,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/nampa-cowboy-western-vintage-enamelware/qzCk4mA4PXYLnbWSC63n2D",
+   "best": "Enamelware Coffee Pot With Rare Two Clouds From Monterrey ...",
+   "med": 950,
+   "ratio": 12.67,
+   "ai_value": "Value: Typically ranges from $150 to $265"
+  },
+  {
    "pid": "7930087323",
    "title": "Vintage Jostens women's Quartz Swiss Gold Tone Watch w/ Hadley band.",
    "price": 20,
@@ -330,6 +352,17 @@
    "best": "Case/Dial: Gold-tone round case with a light silver dial and slim hands.",
    "med": 250,
    "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982449032",
+   "title": "Antique samovar electric",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/encino-antique-samovar-electric/ak66JsvejQHFmbDZgc2ctZ",
+   "best": "Samovar Urn Tea Russian Nickel Plated Brass SAMOVAR 3L 1973 ...",
+   "med": 821,
+   "ratio": 10.26,
    "ai_value": ""
   },
   {
@@ -495,6 +528,17 @@
    "best": "H Jimenez LV2 El Quetzal Acoustic Vihuela with Free Bag! NEW ...",
    "med": 589,
    "ratio": 5.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943881429",
+   "title": "Antique seth Thomas mantle clock",
+   "price": 70,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-antique-seth-thomas-mantle-clock/4x3xXL3WiN9rFo3fpmxCdo",
+   "best": "Adamantine Clock | eBay",
+   "med": 400,
+   "ratio": 5.71,
    "ai_value": ""
   },
   {
