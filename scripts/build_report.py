@@ -28,7 +28,7 @@ pdfmetrics.registerFont(TTFont('DI', F.replace('DejaVuSans.ttf', 'DejaVuSans-Obl
 addMapping('D', 0, 0, 'D'); addMapping('D', 1, 0, 'DB'); addMapping('D', 0, 1, 'DI'); addMapping('D', 1, 1, 'DB')
 INK = colors.HexColor('#111111'); BODY = colors.HexColor('#2E2E2E'); MUT = colors.HexColor('#6E6E6E'); HAIR = colors.HexColor('#D8D8D8')
 BAND = colors.HexColor('#F4F6F8'); NAVY = colors.HexColor('#14487A'); RUST = colors.HexColor('#A23B1E'); GOLD = colors.HexColor('#9A6B00')
-TIER = {'A': ('TOP PICK', RUST), 'B': ('STRONG', NAVY), 'C': ('NEEDS AN ANSWER / OFFER', GOLD)}
+TIER = {'A': ('TOP PICK', RUST), 'B': ('STRONG', NAVY), 'C': ('NEEDS AN ANSWER / OFFER', GOLD), 'EGG': ('GOLDEN EGG', RUST), 'LEAD': ('CHECK ON SITE', NAVY)}
 S = lambda n, **k: ParagraphStyle(n, fontName=k.pop('f', 'D'), textColor=k.pop('textColor', BODY), **k)
 TITLE = S('t', f='DB', fontSize=21, leading=24, textColor=INK); KICK = S('k', f='DB', fontSize=8.5, leading=11, textColor=NAVY)
 LEDE = S('l', fontSize=9.6, leading=13, textColor=MUT); H2 = S('h2', f='DB', fontSize=12.5, leading=15, textColor=NAVY)
@@ -40,9 +40,11 @@ CACHE = '/tmp/refurb_report_cache'; os.makedirs(CACHE, exist_ok=True)
 
 def photo(img, w, h):
     if not img: return Spacer(w, h)
-    p = os.path.join(CACHE, img + '.jpg')
+    import hashlib
+    url = img if img.startswith('http') else f'https://images.craigslist.org/{img}_600x450.jpg'   # full URL = any source
+    p = os.path.join(CACHE, (hashlib.md5(img.encode()).hexdigest() if img.startswith('http') else img) + '.jpg')
     if not os.path.exists(p):
-        subprocess.run(['curl', '-s', '-L', '-m', '25', '-o', p, f'https://images.craigslist.org/{img}_600x450.jpg'])
+        subprocess.run(['curl', '-s', '-L', '-m', '25', '-o', p, url])
     try:
         im = PImage.open(p); iw, ih = im.size; s = min(w / iw, h / ih)
         return Image(p, iw * s, ih * s)
@@ -92,7 +94,7 @@ def build(spec, out):
         inner = Table([[left, right]], colWidths=[W - 2.05 * inch, 1.85 * inch])
         inner.setStyle(TableStyle([('VALIGN', (0, 0), (-1, -1), 'TOP'), ('ALIGN', (1, 0), (1, 0), 'CENTER'), ('LEFTPADDING', (0, 0), (-1, -1), 0),
                                    ('RIGHTPADDING', (0, 0), (0, 0), 10), ('RIGHTPADDING', (1, 0), (1, 0), 0), ('TOPPADDING', (0, 0), (-1, -1), 0), ('BOTTOMPADDING', (0, 0), (-1, -1), 0)]))
-        msg = Paragraph(f"<b>Draft message (not sent):</b> {it['message']}", MSG)
+        msg = Paragraph(f"<b>Draft message (not sent):</b> {it['message']}", MSG) if it.get('message') else Spacer(1, 2)
         foot = Paragraph('Message OK’d ☐    Sent ☐    Reply ☐    Paid $__________    Notes ____________________________', SMG)
         outer = Table([[inner], [msg], [foot]], colWidths=[W])
         outer.setStyle(TableStyle([('LINEBEFORE', (0, 0), (0, -1), 2.4, col), ('LEFTPADDING', (0, 0), (-1, -1), 11), ('RIGHTPADDING', (0, 0), (-1, -1), 2),

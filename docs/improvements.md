@@ -315,3 +315,12 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 - Lesson: on photo-rich, expert-watched marketplaces the photo is the same for every bidder, so eggs there are
   rarer than on Craigslist. Golden eggs need either an information edge (marks only in photo 2+, which pros also
   open) or a *competition* edge: venues with few bidders and bad photos (small regional auctions, estate sales).
+
+## 2026-10-13 (evening) — DFW estate-sale galleries (scripts/esn.py)
+- 85 sales this week, 12,913 photos → 108 sheets (ESTATE_EYE_BRIEF) → 153 flags → full-size + auction records
+  (ESTATE_DEEP_BRIEF): **1 egg-grade** (hand-signed 1968 Warhol/Viva poster, Dallas — needs authentication, Dylan's
+  rule normally excludes; flagged for his call), **13 leads**, four of which are $1,500+ if the on-site check goes right
+  (two Disneyland Art Corner Sleeping Beauty cels, Grande Baroque flatware if sterling, the Warhol). PDF to Dylan.
+- Best yield of the day per photo reviewed: estate sales have no bidders and companies only caption ~10% of photos.
+- Bug fixed: ~25% of estate flags pointed at the wrong photo — cell labels under thumbnails were read as the next
+  row's. Labels now sit in a yellow tag inside the top-left of each cell (eye_screen.py).

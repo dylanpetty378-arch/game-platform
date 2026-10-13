@@ -61,7 +61,11 @@ def sheets(run):
                 sheet.paste(im, (x + 2, y + 2))
             except Exception: pass
             cell = f'{chr(65 + k // COLS)}{k % COLS + 1}'
-            dr.text((x + 3, y + TH), f"{cell} ${r['price']:g}", fill='black', font=font)
+            # Label ABOVE-LEFT inside the cell's own box (Oct 13: labels under the photo were read as belonging to the
+            # next row — ~25% of estate-sale flags pointed at the wrong photo).
+            lab = f"{cell} ${r['price']:g}" if r.get('price') else cell
+            dr.rectangle([x + 2, y + 2, x + 2 + 9 * len(lab), y + 19], fill='yellow')
+            dr.text((x + 4, y + 3), lab, fill='black', font=font)
             index[f'{n}:{cell}'] = r
         sheet.save(f'{d}/sheets/s{n:03d}.jpg', quality=82)
     json.dump(index, open(d + '/index.json', 'w'))
