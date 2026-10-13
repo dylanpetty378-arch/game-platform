@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T18:03:06Z",
+ "updated": "2026-10-13T18:06:54Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6603,
-  "events": 21673,
+  "lens": 6628,
+  "events": 21698,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 249,
+  "lensed": 257,
   "comps/pass": 1,
-  "queued/relens": 216,
+  "queued/relens": 228,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 312,
+  "flagged": 317,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 250
+  "queued": 225
  },
  "last_harvests": [
   {
@@ -438,6 +438,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982818380",
+   "title": "Vintage 1970s LERO Telecaster built in Japan.",
+   "price": 200,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-vintage-1970s-lero/bLsEmk2UQCcqtP7EQtXJ7o",
+   "best": "National FT-440 Finger Talker Blonde 1970s \u2013 Chicago Music ...",
+   "med": 21995,
+   "ratio": 109.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7981826904",
    "title": "Vintage Omega Ladymatic Watch",
    "price": 80,
@@ -743,6 +754,17 @@
    "best": "Vintage Mid Century Modern A-Z Ceramic Block Letter Bookends ...",
    "med": 349,
    "ratio": 14.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928808749",
+   "title": "Sterling Silver Blue Stone Twisted Rope Ring .925 Silver",
+   "price": 30,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-sterling-silver-blue-stone/bwgg5tsZTnMV9fXUNgGJ5s",
+   "best": "Nordstrom Rack",
+   "med": 433,
+   "ratio": 14.43,
    "ai_value": ""
   },
   {
@@ -1590,6 +1612,17 @@
    "best": "MARCASITE 925 Sterling Silver Pearl Lariat Necklace - Art ...",
    "med": 288,
    "ratio": 4.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966824777",
+   "title": "Unisex bracelet 7 1/2\u201d nice bold links",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-unisex-bracelet-nice-bold/vWf3BPGpZ2EuMBMTkzywoe",
+   "best": "Product Details",
+   "med": 59,
+   "ratio": 3.93,
    "ai_value": ""
   },
   {
@@ -2568,6 +2601,17 @@
    "url": "https://www.craigslist.org/view/d/new-concord-vintage-miniature-spoon/dDSojYhy7mTZajF3nUMJQs",
    "best": "40 Larger Spoon Display Case Wall Rack Cabinet Holder Box 98 ...",
    "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972881453",
+   "title": "Antique / Vintage hand-painted wooden firkin bucket.",
+   "price": 145,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/clearwater-antique-vintage-hand-painted/vwJRDHXFzUFgcUBdpqEZFa",
+   "best": "Decoration: Black-painted finish accented with hand-painted folk art details\u2014including a basket of pink/red fl",
+   "med": 276,
    "ratio": 1.9,
    "ai_value": ""
   },
@@ -3788,6 +3832,17 @@
    "area": "greenbay",
    "url": "https://www.craigslist.org/view/d/gillett-buck-102-hunting-knife/7tUi8vRR2dXVwbBxJNm6Be",
    "best": "Vintage Buck 118 W/INVERTED STAMP USA ORIGINAL SHEATH | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936353922",
+   "title": "Star Wars Huge Lot of 31 Vintage 2005 Burger King Kid's Club Toy",
+   "price": 20,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/indianapolis-star-wars-huge-lot-of-31/8t4dpALLDzjF9HJ2sA4xgP",
+   "best": "Collecting Star Wars toys at Burger King in 2005",
    "med": null,
    "ratio": null,
    "ai_value": ""
