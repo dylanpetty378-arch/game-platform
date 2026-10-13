@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:19:14Z",
+ "updated": "2026-10-13T23:23:29Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7199,
-  "events": 26619,
+  "lens": 7224,
+  "events": 26644,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 404,
+  "lensed": 414,
   "comps/pass": 1,
-  "queued/relens": 340,
+  "queued/relens": 343,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 628,
+  "flagged": 640,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 454
+  "queued": 429
  },
  "last_harvests": [
   {
@@ -525,6 +525,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954569846",
+   "title": "NECKLACE & BRACELET SET",
+   "price": 10,
+   "area": "erie",
+   "url": "https://www.craigslist.org/view/d/harborcreek-necklace-bracelet-set/8KFdZWusLpeZscz7G6oZ3R",
+   "best": "Ladies/womens 9ct yellow gold twisted link bracelet and ...",
+   "med": 1383,
+   "ratio": 138.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7982818380",
    "title": "Vintage 1970s LERO Telecaster built in Japan.",
    "price": 200,
@@ -533,6 +544,17 @@
    "best": "National FT-440 Finger Talker Blonde 1970s \u2013 Chicago Music ...",
    "med": 21995,
    "ratio": 109.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981773879",
+   "title": "Vintage Mariner link necklace 24\" long",
+   "price": 49,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-mariner-link-necklace-24/pk6eWGtfKNDoxia4yjJYqZ",
+   "best": "Buy 14K Yellow REAL GOLD Puffed Mariner Link Chain Necklace ...",
+   "med": 4004,
+   "ratio": 81.71,
    "ai_value": ""
   },
   {
@@ -1108,6 +1130,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952484080",
+   "title": "Watch, Women's",
+   "price": 25,
+   "area": "rockies",
+   "url": "https://www.craigslist.org/view/d/grand-junction-watch-womens/8ZEdQ2xztQ8pkrmZrbxgK8",
+   "best": "Authentic Vintage TAG Heuer Professional 200M | Mercari",
+   "med": 350,
+   "ratio": 14,
+   "ai_value": ""
+  },
+  {
    "pid": "7981782675",
    "title": "Vintage sterling silver marcasite cross",
    "price": 25,
@@ -1669,6 +1702,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948476409",
+   "title": "Beautiful MidCentury design bamboo art piece Signed",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-beautiful-midcentury-design/bmBnMW2fTzoyA7FxrwRddj",
+   "best": "Black Bamboo Serving Bowl \u2013 Josephine Thomas Home",
+   "med": 800,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7957330076",
    "title": "Mossimo Quartz Watch Japan",
    "price": 15,
@@ -2083,6 +2127,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-1985-beachcomber/v7rawcu9w1vFVHN4p3327N",
    "best": "Vintage 80's The Beachcombers Intl 1988 Keyring Key Chain | eBay",
    "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948838391",
+   "title": "Vintage Asian Ceramic Pitcher 10\u201d",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-asian-ceramic/bzoJnbqc9e9JMDnDZRRyNq",
+   "best": "Fischer J. Budapest Hungary Hand Painted Ceramic Jug Pitcher ...",
+   "med": 300,
    "ratio": 6,
    "ai_value": ""
   },
@@ -3481,6 +3536,17 @@
    "best": "Teapot 6C. | eBay",
    "med": 59,
    "ratio": 2.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955429998",
+   "title": "Antique Porcelain figurine -Germany",
+   "price": 65,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-antique-porcelain-figurine/ez2XDJaB2f6mf6abWxqvA1",
+   "best": "German Volkstedt 1762 Dresden Lace Porcelain Sitting Lady | eBay",
+   "med": 191,
+   "ratio": 2.94,
    "ai_value": ""
   },
   {
@@ -4936,6 +5002,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933390812",
+   "title": "2 vintage hand crafted mechanical bottle stoppers",
+   "price": 20,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-hand-crafted/vHQTE1pVzZH6Rk3cDY9ky3",
+   "best": "VINTAGE ANRI? MECHANICAL WOOD HAND CARVED MAN TIPPING HAT ...",
+   "med": 34,
+   "ratio": 1.7,
+   "ai_value": "Value: Vintage pieces in working condition typically sell between $20"
+  },
+  {
    "pid": "7951041863",
    "title": "SLED \"LIGHTING GUIDER\" OLD",
    "price": 75,
@@ -5387,6 +5464,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944027683",
+   "title": "Vintage Cameo Perfume Sachet Pendant Gold Necklace Chain",
+   "price": 50,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-cameo-perfume-sachet/7USJVDKhrEC9wwEPDm8VQR",
+   "best": "Vintage Corday Golden Amulet Amber Locket With Perfume 1950s ...",
+   "med": 69,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7948229130",
    "title": "Sterling Silver Dolphin Cuff Bracelet!",
    "price": 145,
@@ -5406,6 +5494,17 @@
    "best": "Whether you are looking to date, value, or sell it",
    "med": 236,
    "ratio": 1.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949503495",
+   "title": "Highly Desirable 1920 Hamilton Watch Co. 16s, 17j Pocket Watch",
+   "price": 391,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/irvine-highly-desirable-1920-hamilton/ghmnet2e9dFRMJfehxbaag",
+   "best": "Hamilton 992 Pocket Watch, 16s, 21j, running fine - ca. 1913 ...",
+   "med": 522,
+   "ratio": 1.34,
    "ai_value": ""
   },
   {
@@ -6201,6 +6300,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974817575",
+   "title": "Vintage 90s J. Crew Gorgeous Rhinestone Opaque Vibrant Art Glass",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-90s-crew-gorgeous/av96rtfc3yVy6C6KwrDw1e",
+   "best": "J. Crew Factory | Jewelry | Nwt J Crew Brown Teal Gold ...",
+   "med": 32,
+   "ratio": 0.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7967331540",
    "title": "14K Gold Necklace with Beautiful Christian Cross",
    "price": 195,
@@ -6396,6 +6506,17 @@
    "best": "Vintage Bailey Walker Restaurant Ware Ironstone Milk Pitcher ...",
    "med": 72,
    "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949174388",
+   "title": "Assorted necklaces (semi-precious stones)",
+   "price": 70,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-assorted-necklaces-semi/cyWUEXoUjRLX1CRczQfbhR",
+   "best": "Mother-of-pearl & Black Onyx Sterling Silver Rhea Necklace ...",
+   "med": 50,
+   "ratio": 0.71,
    "ai_value": ""
   },
   {
@@ -6879,6 +7000,17 @@
    "url": "https://www.craigslist.org/view/d/middleburg-antique-jewelry/oUFn6f7EKT1T1u8QqjRTnG",
    "best": "eBay",
    "med": 30,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966339791",
+   "title": "14k Gold Ring",
+   "price": 500,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/bellevue-14k-gold-ring/a5fH7SZUTxtJkGz37uAdmJ",
+   "best": "Antique 10K Yellow Gold Band Baby Ring Size 1/2 | eBay",
+   "med": 150,
    "ratio": 0.3,
    "ai_value": ""
   },
