@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:58:04Z",
+ "updated": "2026-10-13T10:01:37Z",
  "tables": {
   "harvests": 4,
   "searches": 1310,
   "listings": 5407,
-  "lens": 3629,
-  "events": 12413,
+  "lens": 3654,
+  "events": 12438,
   "comps": 1163,
   "item_types": 782,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2977,
-  "lensed": 135,
-  "queued": 1811,
+  "lensed": 149,
+  "queued": 1786,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 342,
-  "flagged": 87,
+  "flagged": 98,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -236,6 +236,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7940963378",
+   "title": "*Antique fiddle bow*",
+   "price": 75,
+   "area": "neworleans",
+   "url": "https://www.craigslist.org/view/d/mandeville-antique-fiddle-bow/sQW8v2mahU5kr5vUrvTAhA",
+   "best": "Corilon violins",
+   "med": 16000,
+   "ratio": 213.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7982178114",
    "title": "Old rusty wagon",
    "price": 10,
@@ -379,6 +390,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960079784",
+   "title": "Vintage Wood Magazine Rack",
+   "price": 65,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-vintage-wood-magazine-rack/sSfRqeYgQqxE4YWcVLdPs2",
+   "best": "Estimated Value",
+   "med": 1275,
+   "ratio": 19.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7945000606",
    "title": "Vintage Wall Sconces Pair",
    "price": 59,
@@ -511,6 +533,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961866662",
+   "title": "Vintage Realistic Transceiver",
+   "price": 10,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/wilmington-vintage-realistic-transceiver/3wTR4xwbyUohSXmNXKocwZ",
+   "best": "What are the crystal settings for Realistic TRC-100B walkie ...",
+   "med": 100,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7945825445",
    "title": "Old Piece",
    "price": 20,
@@ -596,6 +629,17 @@
    "best": "Sold at Auction: Egyptian Pharaoh Amenhotep III Ceramic Bust",
    "med": 295,
    "ratio": 7.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981080873",
+   "title": "antique figurines",
+   "price": 10,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/bonita-springs-antique-figurines/oiQodjU9EMTivRr2mWr8nm",
+   "best": "BBC - A History of the World - Object : Crinoline lady",
+   "med": 70,
+   "ratio": 7,
    "ai_value": ""
   },
   {
@@ -709,6 +753,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970179890",
+   "title": "Vintage Western Flyer wagon",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/stockton-vintage-western-flyer-wagon/a9NJqy6Mw65AKPPC5ivcpe",
+   "best": "Vintage Radio Flyer Wagon Radio Flyer 90 Wagon 40\" Long ...",
+   "med": 200,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7979947746",
    "title": "Vintage Iron Candy Mold",
    "price": 15,
@@ -761,6 +816,17 @@
    "best": "Antique Cast Iron Scale - No Weights, Part broke | eBay",
    "med": 132,
    "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962002637",
+   "title": "ANTIQUE ENTERPRISE SAUSAGE MAKER",
+   "price": 75,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/henderson-antique-enterprise-sausage/t6b2HKufLwaJfPBJ8mUMpz",
+   "best": "Enterprise sausage fruit grape apple cast iron Stuffer press ...",
+   "med": 300,
+   "ratio": 4,
    "ai_value": ""
   },
   {
@@ -918,6 +984,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954583150",
+   "title": "Antique Paull's railroad/barn lantern",
+   "price": 20,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-antique-paulls-railroad/6nNYSm46EbDpcLteFWeaDE",
+   "best": "VTG Dietz Monarch Tubular Barn Lantern with Fitzall Loc-Nob ...",
+   "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7948144143",
    "title": "Antique water pump/fire extinguisher",
    "price": 50,
@@ -926,6 +1003,17 @@
    "best": "WW2 Underwriters Laboratories By Doehler Metal Furniture Co ...",
    "med": 149,
    "ratio": 2.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956957740",
+   "title": "antique lawn mowers",
+   "price": 50,
+   "area": "fredericksburg",
+   "url": "https://www.craigslist.org/view/d/new-castle-antique-lawn-mowers/5jUZjox2hz5jETicUbbi3q",
+   "best": "ANTIQUE - Great States Rotary Blade Push Lawn Mower wooden ...",
+   "med": 148,
+   "ratio": 2.96,
    "ai_value": ""
   },
   {
@@ -973,6 +1061,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939770969",
+   "title": "Vintage Wooden Snow Sled",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-wooden-snow-sled/6kawyghB1Q11FDUZDY1LjP",
+   "best": "Old Vintage Traditional Rustic Wooden Sleigh Sledge ...",
+   "med": 208,
+   "ratio": 2.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7940622615",
    "title": "Old fishing creel",
    "price": 100,
@@ -995,6 +1094,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960748610",
+   "title": "Vintage Stetson hat",
+   "price": 75,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/athol-vintage-stetson-hat/xiB3fSp2goGX3uSGhMQfcr",
+   "best": "eBay",
+   "med": 189,
+   "ratio": 2.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7968227577",
    "title": "Vintage nutcracker king figurine",
    "price": 30,
@@ -1002,6 +1112,17 @@
    "url": "https://www.craigslist.org/view/d/east-derry-vintage-nutcracker-king/233psKQu97Ebqk7soSoYoq",
    "best": "Christian Ulbricht Seiffener King Nutcracker 13.5 ...",
    "med": 75,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952282835",
+   "title": "COFFEE/TEA SET, (TRICO), VINTAGE",
+   "price": 50,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/concord-coffee-tea-set-trico-vintage/nfgpNxYu8KFDqwbbApG3x3",
+   "best": "Set Components: Typically includes a teapot, sugar bowl with lid, creamer pitcher, and matching teacups, sauce",
+   "med": 125,
    "ratio": 2.5,
    "ai_value": ""
   },
