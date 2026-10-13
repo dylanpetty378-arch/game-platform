@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:39:05Z",
+ "updated": "2026-10-13T23:42:29Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7324,
-  "events": 26745,
+  "lens": 7349,
+  "events": 26770,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 436,
+  "lensed": 440,
   "comps/pass": 1,
-  "queued/relens": 360,
+  "queued/relens": 365,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 701,
+  "flagged": 717,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 329
+  "queued": 304
  },
  "last_harvests": [
   {
@@ -1229,6 +1229,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977052623",
+   "title": "Elgin pocket watches",
+   "price": 200,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/plymouth-elgin-pocket-watches/dgjdnpTFwQBSy5k57TuRc1",
+   "best": "Top Pocket Watch: An open-face pocket watch with a white dial, Roman numerals, a sub-dial for seconds, and a l",
+   "med": 2646,
+   "ratio": 13.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7975824978",
    "title": "Antique Brass Oil Lamp",
    "price": 50,
@@ -1666,6 +1677,17 @@
    "best": "eBay",
    "med": 175,
    "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976756595",
+   "title": "Heart Necklace Tiffany Replica",
+   "price": 15,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/del-mar-heart-necklace-tiffany-replica/1zL19pxrBMREhQDR6yD78H",
+   "best": "The RealReal",
+   "med": 130,
+   "ratio": 8.67,
    "ai_value": ""
   },
   {
@@ -3677,6 +3699,17 @@
    "area": "tallahassee",
    "url": "https://www.craigslist.org/view/d/lake-city-vintage-wedding-dress/1ZFvNXcfjqLVAQnTgYLYPL",
    "best": "Poshmark",
+   "med": 148,
+   "ratio": 2.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946504929",
+   "title": "MCM Vintage Pottery Weed Pot. Signed \"SKINNER\"or \" ?? KINNER\". ?",
+   "price": 50,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/lake-forest-mcm-vintage-pottery-weed/xhL6Amxp2tuSdc4yXZaUNt",
+   "best": "Vintage EK studio pottery stoneware brown vase 6\" | eBay",
    "med": 148,
    "ratio": 2.96,
    "ai_value": ""
@@ -6058,6 +6091,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7943030131",
+   "title": "Vintage Stoneware Zebra Pitcher Jug American Folk Art Collection Decor",
+   "price": 20,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-stoneware-zebra/d2Z53uzZsB1FJq5bb6RhJj",
+   "best": "Stoneware Pottery Jug Pitcher Gray Blue Print Zebra Prestige ...",
+   "med": 25,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934953565",
+   "title": "SMALL WATCH COLLECTION",
+   "price": 400,
+   "area": "easternshore",
+   "url": "https://www.craigslist.org/view/d/centreville-small-watch-collection/dYoEnTg79UY4tUHG6CLXXS",
+   "best": "Armourlite Officer Chronograph AL834 Blue-Orange Watch ...",
+   "med": 495,
+   "ratio": 1.24,
+   "ai_value": "Price: Retails around $450"
+  },
+  {
    "pid": "7957140692",
    "title": "Three Small Vintage Colored Glass Vases",
    "price": 30,
@@ -6142,6 +6197,17 @@
    "url": "https://www.craigslist.org/view/d/cohoes-silver-tone-chain/ddFCV8VJ27USR3UuaXk8n9",
    "best": "Pendant Design: A circular dream catcher frame enclosing an Indian Head / Buffalo Nickel coin, decorated with ",
    "med": 48,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955020923",
+   "title": "VASSAGO Celtic Knot Silver Tone Bracelet",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vassago-celtic-knot-silver-tone/pCp1QjQq483YnUfs5ddRd8",
+   "best": "Chain Type: Braided wheat/rope silver-tone chain",
+   "med": 18,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -6278,6 +6344,17 @@
    "ai_value": "Value Range: Commonly valued or resold between $45"
   },
   {
+   "pid": "7981188945",
+   "title": "Vintage Delft Plate Windmill 10 1/2\"",
+   "price": 45,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/medford-vintage-delft-plate-windmill/cqbLVs1WQwT3gbCVw5oAnt",
+   "best": "Origin: Made in Holland.",
+   "med": 50,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7943373049",
    "title": "ANTIQUE STONEWARE COOKIE JAR",
    "price": 50,
@@ -6295,6 +6372,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/natick-vintage-gold-tone-panther-link/mL6rXZssiSjw2w1Pt6mcWc",
    "best": "Etsy",
+   "med": 32,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930617919",
+   "title": "BRIGHTON...Silver Tone, Enamel Pendant Necklace",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-brightonsilver-tone-enamel/x6iPruS5qrUCM8vVSvji2v",
+   "best": "lookbooks.brighton.com",
    "med": 32,
    "ratio": 1.1,
    "ai_value": ""
@@ -6396,6 +6484,17 @@
    "best": "eBay",
    "med": 53,
    "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973695692",
+   "title": "Royal Doultal Figurines",
+   "price": 75,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/bradenton-royal-doultal-figurines/qkKJW1tK9JQiRLL3mxYmGB",
+   "best": "Seaway China",
+   "med": 77,
+   "ratio": 1.03,
    "ai_value": ""
   },
   {
@@ -6817,6 +6916,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953335864",
+   "title": "Gold & diamond 14K pendant",
+   "price": 425,
+   "area": "ocala",
+   "url": "https://www.craigslist.org/view/d/weirsdale-gold-diamond-14k-pendant/5xKtfKdcoJZ72ZSoMjAiYp",
+   "best": "14K Gold Tri-Color Charm With 14K Gold Jesus 36mm Tall By ...",
+   "med": 365,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7938060339",
    "title": "OVER HUNDREN YEARS OLD PITCHER",
    "price": 65,
@@ -6856,6 +6966,17 @@
    "area": "dallas",
    "url": "https://www.craigslist.org/view/d/rockwall-monet-tennis-racket-brooches/oHNkx666UNsczeCYUJhj5H",
    "best": "Craigslist",
+   "med": 25,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932008054",
+   "title": "Vintage TELEFLORA Teapot Set",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-teleflora-teapot-set/3fRmhqYwTvyZszP83kCJ5c",
+   "best": "Vintage 1985 Teleflora Ceramic Teapot: Floral Basketweave ...",
    "med": 25,
    "ratio": 0.83,
    "ai_value": ""
@@ -6956,6 +7077,17 @@
    "url": "https://www.craigslist.org/view/d/urbandale-mens-watch-collection/gBixEqB92JxcK1eUzsiY2s",
    "best": "eBay",
    "med": 16,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969664106",
+   "title": "Floral graduated statement necklace",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-floral-graduated-statement/vKFLVtmiyY53hCDCjTRoTc",
+   "best": "Faire",
+   "med": 24,
    "ratio": 0.8,
    "ai_value": ""
   },
@@ -7220,6 +7352,17 @@
    "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-sarah-coventry/ksBAJ2873s1Nwx13w5WKcR",
    "best": "Etsy",
    "med": 25,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965716358",
+   "title": "Vintage Hand carved wood sculpture",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-hand-carved-wood/rmVuhBsRxExTakL2CnkGAS",
+   "best": "Vintage hand carved wood religious Virgin Mary Jesus bust ...",
+   "med": 60,
    "ratio": 0.63,
    "ai_value": ""
   },
@@ -7576,6 +7719,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957029641",
+   "title": "Sterling Silver 4 PC -18\"Necklace, Heart Pendant, 2 Heart Earring Set",
+   "price": 87,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-sterling-silver-pc/faqypDgZacopxFsxoiUvyT",
+   "best": "Walmart",
+   "med": 29,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7946507186",
    "title": "8 COMMEMORATIVE GOLF DECANTERS",
    "price": 125,
@@ -7671,6 +7825,17 @@
    "url": "https://www.craigslist.org/view/d/dallas-medalion-plates/fH9WRxTkv2DaiYJYvC7ryu",
    "best": "eBay",
    "med": 19,
+   "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974678354",
+   "title": "Vintage State Glasses Lot",
+   "price": 75,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-state-glasses-lot/faUd6DtmgcMwQtUEf885bc",
+   "best": "lot vintage souvenir glasses, state maps & landmarks frosted ...",
+   "med": 20,
    "ratio": 0.27,
    "ai_value": ""
   },
@@ -8099,6 +8264,17 @@
    "area": "phoenix",
    "url": "https://www.craigslist.org/view/d/luke-air-force-base-timex-expedition/8yjJUnS2oKrPt7BNWLexTb",
    "best": "Huntington Company",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936999148",
+   "title": "Vintage sailor Decanter",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-sailor-decanter/haCighCcVhJg8i7fvXgVnQ",
+   "best": "Tori.fi",
    "med": null,
    "ratio": null,
    "ai_value": ""

@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T23:39:05Z
+# Refurbish status — 2026-10-13T23:42:29Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 701 |
-| lensed | 436 |
-| queued/relens | 360 |
-| queued | 329 |
+| flagged | 717 |
+| lensed | 440 |
+| queued/relens | 365 |
+| queued | 304 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 11 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7324
-- events: 26745
+- lens: 7349
+- events: 26770
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (701)
+## Flagged by Lens, waiting for photo review (717)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -192,6 +192,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00505_9vXNxgkCaGX_0hq0ir_300x300.jpg" width="120"> | 7937605749 | $29 | boston | [Vintage Adolfo Enamel and Pearl clips earrings](https://www.craigslist.org/view/d/natick-vintage-adolfo-enamel-and-pearl/wTcLQJQt2h4aKDjffYaQbP) | Vintage Moschino Clip-on Earrings With Pearl Studs & Gold .. | 398 | 13.72 |
 | <img src="https://images.craigslist.org/00707_aGvSGLPf6X7_0lM0t2_300x300.jpg" width="120"> | 7976681115 | $25 | littlerock | [Ladies Sterling Silver Ring](https://www.craigslist.org/view/d/roland-ladies-sterling-silver-ring/iFSogrCv2Zj2YfBWgZbd6P) | 925 Ruby and Pink Sapphire Bowtie Ring, 3.91 TCW | 340 | 13.6 |
 | <img src="https://images.craigslist.org/00W0W_bCPFAXOdG81_0CI0t2_300x300.jpg" width="120"> | 7951593504 | $10 | sfbay | [Vintage 1950s Rhinestone Sewing Coat Buttons](https://www.craigslist.org/view/d/san-francisco-vintage-1950s-rhinestone/wQo66e1J3zk8QL6jm89wCB) | Set of 3 Vintage Look Round Crystal Detail Fancy Brooches /  | 135 | 13.5 |
+| <img src="https://images.craigslist.org/00w0w_fKByekDzzk7_0dq0t2_300x300.jpg" width="120"> | 7977052623 | $200 | milwaukee | [Elgin pocket watches](https://www.craigslist.org/view/d/plymouth-elgin-pocket-watches/dgjdnpTFwQBSy5k57TuRc1) | Top Pocket Watch: An open-face pocket watch with a white dia | 2646 | 13.23 |
 | <img src="https://images.craigslist.org/00H0H_2cPY5p7gJlt_1u8176_300x300.jpg" width="120"> | 7975824978 | $50 | charleston | [Antique Brass Oil Lamp](https://www.craigslist.org/view/d/summerville-antique-brass-oil-lamp/7cnDRhcLCymv3XsVxYnyHz) | Wonderful Pair of Antique Etched Glass Brass Turkish ... | 650 | 13 |
 | <img src="https://images.craigslist.org/00T0T_aqRSPTRaVup_0t20t2_300x300.jpg" width="120"> | 7930403288 | $10 | sfbay | [Costume Jewelry Women's  Vintage Gold Triangle Nec](https://www.craigslist.org/view/d/napa-costume-jewelry-womens-vintage/1pJk6Wt1ez3GmaKvGYtQiT) | Alexis Bittar Archive Futurist Link Necklace - Gold ... | 130 | 13 |
 | <img src="https://images.craigslist.org/00N0N_7pV9M1wJhVJ_0aO0db_300x300.jpg" width="120"> | 7943899772 | $25 | richmond | [Glass Vase](https://www.craigslist.org/view/d/richmond-glass-vase/8t4UJFHtWSmMewZPdYbAdc) | romanian mouthblown glass amber / eBay | 325 | 13 |
@@ -232,7 +233,6 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_chmAOlSBRVa_04A0c6_300x300.jpg" width="120"> | 7950790524 | $65 | prescott | [vintage 16" FOOTED red green ONYX VASE](https://www.craigslist.org/view/d/prescott-vintage-16-footed-red-green/moSVKJeQcwakC4b3tkn99Y) | Vintage Onyx Marble Vase 7 3/4” Green and Brown Mantel ... | 570 | 8.77 |
 | <img src="https://images.craigslist.org/00v0v_eMxmhitKyxm_0nN0rN_300x300.jpg" width="120"> | 7935171170 | $25 | orangecounty | [Antique/Vintage Rembrandt Framed Print. Lot 4](https://www.craigslist.org/view/d/lake-forest-antique-vintage-rembrandt/ogFBmhfi1BCfmNUAg4PDp7) | Vintage 1960s Man With the Golden Helmet Rembrandt Print in  | 219 | 8.76 |
 | <img src="https://images.craigslist.org/00Q0Q_35ssGm0ewJM_0t20CI_300x300.jpg" width="120"> | 7959399108 | $20 | albany | [California Pottery](https://www.craigslist.org/view/d/albany-california-pottery/eLj5HFJdaxTBVgDbpjcYHf) | eBay | 175 | 8.75 |
+| <img src="https://images.craigslist.org/00909_dMUSfiAqite_0ln0t2_300x300.jpg" width="120"> | 7976756595 | $15 | sandiego | [Heart Necklace Tiffany Replica](https://www.craigslist.org/view/d/del-mar-heart-necklace-tiffany-replica/1zL19pxrBMREhQDR6yD78H) | The RealReal | 130 | 8.67 |
 | <img src="https://images.craigslist.org/01212_6tLCwrcN4A1_0d10q1_300x300.jpg" width="120"> | 7974818586 | $95 | boston | [Sterling baroque freshwater pearl bracelet](https://www.craigslist.org/view/d/natick-sterling-baroque-freshwater/oXZ92XDr4RgGr7JUjJNYDa) | Wide Freshwater Pearl Solid Silver 925 Bracelet, Three ... | 819 | 8.62 |
 | <img src="https://images.craigslist.org/00P0P_eph2UMtTOJm_0CI0t2_300x300.jpg" width="120"> | 7952384136 | $35 | hartford | [Vintage  Lamps](https://www.craigslist.org/view/d/pequabuck-vintage-lamps/rEXD7VvkafSEB5oXPnbxqY) | Vintage Green Slag Glass Hanging TULIP Pendant Swag Lamp Fix | 300 | 8.57 |
-| <img src="https://images.craigslist.org/00p0p_7jh4b9StQ50_07V0t2_300x300.jpg" width="120"> | 7951926889 | $70 | sfbay | [Seiko Men's Watch Vintage "TV" Style](https://www.craigslist.org/view/d/danville-seiko-mens-watch-vintage-tv/7wpRmEyEsyzcD74fpZKoZx) | Seiko Dx / eBay | 599 | 8.56 |
-| <img src="https://images.craigslist.org/00q0q_jDwHqbRtrrc_0t20CI_300x300.jpg" width="120"> | 7982703225 | $35 | nh | [Antique Small Bronze/Brass Incense Burner](https://www.craigslist.org/view/d/epping-antique-small-bronze-brass/aiFSH2UZT5PgT3pbTkqMkC) | Common Use: Traditionally used in Asian Buddhist or ancestra | 299 | 8.54 |

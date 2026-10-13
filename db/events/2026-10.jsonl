@@ -26743,3 +26743,28 @@
 {"ts":"2026-10-13T23:38:32Z","pid":"7973593728","stage":"lensed","run":"lensworker-20261013-2330","note":null,"data":{"med":11,"ratio":0.11,"mismatch":[]}}
 {"ts":"2026-10-13T23:38:41Z","pid":"7930250921","stage":"lensed","run":"lensworker-20261013-2330","note":null,"data":{"med":30,"ratio":3,"mismatch":[]}}
 {"ts":"2026-10-13T23:38:50Z","pid":"7947075418","stage":"flagged","run":"lensworker-20261013-2330","note":null,"data":{"med":1500,"ratio":25,"mismatch":[]}}
+{"ts":"2026-10-13T23:39:00Z","pid":"7965716358","stage":"flagged","run":"lensworker-20261013-2330","note":"Lens names Lane — title does not","data":{"med":60,"ratio":0.63,"mismatch":["Lane"]}}
+{"ts":"2026-10-13T23:39:10Z","pid":"7953082912","stage":"lensed","run":"lensworker-20261013-2330","note":null,"data":{"med":50,"ratio":0.77,"mismatch":[]}}
+{"ts":"2026-10-13T23:39:18Z","pid":"7943030131","stage":"flagged","run":"lensworker-20261013-2330","note":"Lens names Museum, Origin, Prestige — title does not","data":{"med":25,"ratio":1.25,"mismatch":["Museum","Origin","Prestige"]}}
+{"ts":"2026-10-13T23:39:25Z","pid":"7936398466","stage":"lensed","run":"lensworker-20261013-2330","note":null,"data":{"med":44,"ratio":1.1,"mismatch":[]}}
+{"ts":"2026-10-13T23:39:34Z","pid":"7932008054","stage":"flagged","run":"lensworker-20261013-2330","note":"Lens names Basketweave, Gift — title does not","data":{"med":25,"ratio":0.83,"mismatch":["Basketweave","Gift"]}}
+{"ts":"2026-10-13T23:39:43Z","pid":"7978142355","stage":"lensed","run":"lensworker-20261013-2330","note":null,"data":{"med":14,"ratio":0.7,"mismatch":[]}}
+{"ts":"2026-10-13T23:39:51Z","pid":"7969664106","stage":"flagged","run":"lensworker-20261013-2330","note":"Lens names Styles — title does not","data":{"med":24,"ratio":0.8,"mismatch":["Styles"]}}
+{"ts":"2026-10-13T23:39:59Z","pid":"7976756595","stage":"flagged","run":"lensworker-20261013-2330","note":"Lens names Tiffany & Co — title does not","data":{"med":130,"ratio":8.67,"mismatch":["Tiffany & Co"]}}
+{"ts":"2026-10-13T23:40:06Z","pid":"7934953565","stage":"flagged","run":"lensworker-20261013-2330","note":null,"data":{"med":495,"ratio":1.24,"mismatch":[]}}
+{"ts":"2026-10-13T23:40:16Z","pid":"7955020923","stage":"flagged","run":"lensworker-20261013-2339","note":"Lens names Styles — title does not","data":{"med":18,"ratio":1.2,"mismatch":["Styles"]}}
+{"ts":"2026-10-13T23:40:24Z","pid":"7977052623","stage":"flagged","run":"lensworker-20261013-2339","note":"Lens names Waltham — title does not","data":{"med":2646,"ratio":13.23,"mismatch":["Waltham"]}}
+{"ts":"2026-10-13T23:40:32Z","pid":"7973695692","stage":"flagged","run":"lensworker-20261013-2339","note":"Lens names Royal Doulton — title does not","data":{"med":77,"ratio":1.03,"mismatch":["Royal Doulton"]}}
+{"ts":"2026-10-13T23:40:39Z","pid":"7954236339","stage":"queued","status":"relens","run":"lensworker-20261013-2339","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:40:45Z","pid":"7956415409","stage":"queued","status":"relens","run":"lensworker-20261013-2339","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:40:54Z","pid":"7953335864","stage":"flagged","run":"lensworker-20261013-2339","note":"Lens names Jewelry — title does not","data":{"med":365,"ratio":0.86,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-13T23:41:01Z","pid":"7945311811","stage":"lensed","run":"lensworker-20261013-2339","note":null,"data":{"med":42,"ratio":2.1,"mismatch":[]}}
+{"ts":"2026-10-13T23:41:07Z","pid":"7983025062","stage":"queued","status":"relens","run":"lensworker-20261013-2339","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:41:13Z","pid":"7967722056","stage":"queued","status":"relens","run":"lensworker-20261013-2339","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:41:23Z","pid":"7930617919","stage":"flagged","run":"lensworker-20261013-2339","note":"Lens names Jewelry — title does not","data":{"med":32,"ratio":1.1,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-13T23:41:31Z","pid":"7974678354","stage":"flagged","run":"lensworker-20261013-2339","note":"Lens names Hazel-Atlas, Illinois — title does not","data":{"med":20,"ratio":0.27,"mismatch":["Hazel-Atlas","Illinois"]}}
+{"ts":"2026-10-13T23:41:40Z","pid":"7981188945","stage":"flagged","run":"lensworker-20261013-2339","note":"Lens names Origin, Size — title does not","data":{"med":50,"ratio":1.11,"mismatch":["Origin","Size"]}}
+{"ts":"2026-10-13T23:41:46Z","pid":"7936552446","stage":"queued","status":"relens","run":"lensworker-20261013-2339","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T23:41:57Z","pid":"7936999148","stage":"flagged","run":"lensworker-20261013-2339","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-13T23:42:04Z","pid":"7946504929","stage":"flagged","run":"lensworker-20261013-2339","note":null,"data":{"med":148,"ratio":2.96,"mismatch":[]}}
+{"ts":"2026-10-13T23:42:14Z","pid":"7957029641","stage":"flagged","run":"lensworker-20261013-2339","note":"Lens names Jewelry — title does not","data":{"med":29,"ratio":0.33,"mismatch":["Jewelry"]}}
