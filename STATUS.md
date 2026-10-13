@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T22:42:43Z
+# Refurbish status — 2026-10-13T22:46:36Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| queued | 679 |
-| flagged | 487 |
-| lensed | 354 |
-| queued/relens | 306 |
+| queued | 654 |
+| flagged | 504 |
+| lensed | 357 |
+| queued/relens | 311 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 10 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 6974
-- events: 26394
+- lens: 6999
+- events: 26419
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -111,7 +111,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (487)
+## Flagged by Lens, waiting for photo review (504)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -206,6 +206,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00a0a_8pfx29AZypE_0t20CI_300x300.jpg" width="120"> | 7969181412 | $10 | denver | [Faux Large Pearl Necklace](https://www.craigslist.org/view/d/littleton-faux-large-pearl-necklace/78kxvawxrNhWsD8SiLp7dT) | Tiger's Eye Necklace - Peacock Necklace - Pearl Necklace ... | 78 | 7.8 |
 | <img src="https://images.craigslist.org/00F0F_fOaMPG90rCr_0pO0dL_300x300.jpg" width="120"> | 7981649634 | $15 | washingtondc | [Ladies Fashion Rhodium Rings](https://www.craigslist.org/view/d/centreville-ladies-fashion-rhodium-rings/mFpJdMm7VRkYChVBdVvdVs) | Craigslist | 117 | 7.8 |
 | <img src="https://images.craigslist.org/00l0l_dZvX83QLLZm_0t20t2_300x300.jpg" width="120"> | 7981671243 | $25 | tampa | [Vintage ice-skating pendant](https://www.craigslist.org/view/d/brooksville-vintage-ice-skating-pendant/eSLjY86yY4P8f9WP7c1MMi) | VTG BEAU STERLING SILVER CHARM FIGURE SKATING SHOE SKATE / e | 193 | 7.72 |
+| <img src="https://images.craigslist.org/00m0m_fdRps9zqEO5_0t20CI_300x300.jpg" width="120"> | 7957762589 | $20 | losangeles | [Piquot watch](https://www.craigslist.org/view/d/torrance-piquot-watch/kJdwdrZZ17LbGmrxA89nBa) | Montre vintage Épilogue Quartz 34mm Acier avec Date ref F152 | 152 | 7.6 |
 | <img src="https://images.craigslist.org/01616_6Q4of9MoFmZ_0t20CI_300x300.jpg" width="120"> | 7980320721 | $30 | losangeles | [Drum Stuff](https://www.craigslist.org/view/d/pasadena-drum-stuff/iLgX2ax1yAcdhg2zK1MD12) | Vintage Tama Imperialstar 26 x 14 Bonham Bass Drum ... | 225 | 7.5 |
 | <img src="https://images.craigslist.org/00Z0Z_acd2GpSg6pd_0t20CI_300x300.jpg" width="120"> | 7928549853 | $8 | losangeles | [Vintage Cigar Box](https://www.craigslist.org/view/d/carson-vintage-cigar-box/aKUhYWSQcZUAgunj4jhKJ1) | Romeo Y Julieta Wooden Cigar Box - Etsy | 60 | 7.5 |
 | <img src="https://images.craigslist.org/00l0l_d5EgxXAayEQ_0t20CI_300x300.jpg" width="120"> | 7942509567 | $15 | longisland | [Vintage costume Brooch/Pin](https://www.craigslist.org/view/d/farmingville-vintage-costume-brooch-pin/twHwG2bewDFcCFvHf7PPfh) | Craigslist | 110 | 7.33 |
@@ -231,9 +232,8 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00303_25v73MddkhH_0t20CI_300x300.jpg" width="120"> | 7982807664 | $60 | rochester | [Mandolin](https://www.craigslist.org/view/d/rochester-mandolin/3FD5C85dUi7yeLJydXyszZ) | Restoring a Romanian-made mandolin | 380 | 6.33 |
 | <img src="https://images.craigslist.org/00F0F_eidbE45jxqo_0t20CI_300x300.jpg" width="120"> | 7941438251 | $20 | longisland | [Vintage Judy Lee Costume Bracelet](https://www.craigslist.org/view/d/farmingville-vintage-judy-lee-costume/6rw2mV6xZhZuQDYRg3CGpP) | eBay | 125 | 6.25 |
 | <img src="https://images.craigslist.org/00E0E_kdi5FdwNCpx_0pO0jm_300x300.jpg" width="120"> | 7950290971 | $75 | columbus | [Old Acoustic Guitar](https://www.craigslist.org/view/d/chillicothe-old-acoustic-guitar/gyMWusLePjztqkh5QW4SD7) | 38" Woolworth's Audition Guitar Acoustic 6-String Vintage .. | 468 | 6.24 |
+| <img src="https://images.craigslist.org/00h0h_8Xy0tAuREtq_0t20CI_300x300.jpg" width="120"> | 7949598321 | $35 | wichita | [Sterling Ring](https://www.craigslist.org/view/d/wichita-sterling-ring/oaYzxET1bpQ5TPMcGbTCpY) | Style: Southwest / Native American (Navajo) | 214 | 6.11 |
 | <img src="https://images.craigslist.org/00K0K_9sKOK4H1m3x_0t20CI_300x300.jpg" width="120"> | 7934915578 | $20 | fresno | [Replica Antique Mexican Pesos](https://www.craigslist.org/view/d/fresno-replica-antique-mexican-pesos/emwMk2wRDLm5qbrtvLS3Km) | 1882 Republica Mexicana Libertad 8R.Z.1882.J.S.10D.20G ... | 120 | 6 |
 | <img src="https://images.craigslist.org/00g0g_8d9HNDZQvif_0uN0n6_300x300.jpg" width="120"> | 7948035931 | $20 | chicago | [Burgundy Necklace w/Matching Earings And Bracelet](https://www.craigslist.org/view/d/des-plaines-burgundy-necklace-matching/t3EqFzqNAV4eFf3KwXtWKw) | set of Contract bracelet earring Ring Embroidered handmade . | 120 | 6 |
 | <img src="https://images.craigslist.org/00b0b_b5bIEPJuRNm_07K0ak_300x300.jpg" width="120"> | 7963180689 | $10 | milwaukee | [Roy Rogers + Andy Devine vintage signed cowboy dis](https://www.craigslist.org/view/d/greendale-roy-rogers-andy-devine/fg77cVVqf29ufRUudUVXR1) | 8”x10” photo - still, Roy Rogers #226, Andy Devine / eBay | 60 | 6 |
 | <img src="https://images.craigslist.org/00z0z_6pawAwfkNT3_0t20CI_300x300.jpg" width="120"> | 7945033825 | $30 | allentown | [Cross pendant 14 kt solid gold](https://www.craigslist.org/view/d/bethlehem-cross-pendant-14-kt-solid-gold/o68tmhv5jaCekWmwt2hap9) | eBay | 179 | 5.97 |
-| <img src="https://images.craigslist.org/00s0s_cvMOCiQ7M4P_0CI0t2_300x300.jpg" width="120"> | 7945944456 | $200 | sfbay | [vintage Beetles albums/ records](https://www.craigslist.org/view/d/fresno-vintage-beetles-albums-records/23BQ5u1ufFKH9Cs1LbbUwQ) | Beatles-Sgt. Pepper's Lonely Hearts Club Band-1967 Capitol . | 1191 | 5.96 |
-| <img src="https://images.craigslist.org/00j0j_19wznHun3tQ_0hq0jM_300x300.jpg" width="120"> | 7937805648 | $32 | boston | [Vintage 1928 gold tone clip earrings](https://www.craigslist.org/view/d/natick-vintage-1928-gold-tone-clip/nePb5NqR7YZddBAxH1UJCG) | YVES SAINT LAURENT Vintage Goldplated Clip on Earrings With  | 189 | 5.91 |

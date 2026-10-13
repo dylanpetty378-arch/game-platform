@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:42:43Z",
+ "updated": "2026-10-13T22:46:36Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 6974,
-  "events": 26394,
+  "lens": 6999,
+  "events": 26419,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 354,
+  "lensed": 357,
   "comps/pass": 1,
-  "queued/relens": 306,
+  "queued/relens": 311,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 487,
+  "flagged": 504,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 679
+  "queued": 654
  },
  "last_harvests": [
   {
@@ -1372,6 +1372,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957762589",
+   "title": "Piquot watch",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/torrance-piquot-watch/kJdwdrZZ17LbGmrxA89nBa",
+   "best": "Montre vintage \u00c9pilogue Quartz 34mm Acier avec Date ref F152 ...",
+   "med": 152,
+   "ratio": 7.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7980320721",
    "title": "Drum Stuff",
    "price": 30,
@@ -1645,6 +1656,17 @@
    "med": 468,
    "ratio": 6.24,
    "ai_value": ""
+  },
+  {
+   "pid": "7949598321",
+   "title": "Sterling Ring",
+   "price": 35,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/wichita-sterling-ring/oaYzxET1bpQ5TPMcGbTCpY",
+   "best": "Style: Southwest / Native American (Navajo)",
+   "med": 214,
+   "ratio": 6.11,
+   "ai_value": "Value: Typically sells secondhand between $130"
   },
   {
    "pid": "7934915578",
@@ -2076,6 +2098,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933951546",
+   "title": "2 Bracelets and Earrings",
+   "price": 5,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-bracelets-and-earrings/39bh223pdL6E6YjN2gUcvH",
+   "best": "CUSTOM ORDER for JLW | Glass Blown Beads | Sterling Silver ...",
+   "med": 22,
+   "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7929300669",
    "title": "Vintage Barrel Hand Truck",
    "price": 75,
@@ -2175,6 +2208,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941543878",
+   "title": "VINTAGE EILAT CABOCHON PENDANT",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-eilat-cabochon/t6zhfcvmAmF3Ru6jt1C2RZ",
+   "best": "Etsy",
+   "med": 165,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7932554578",
    "title": "Sterling Silver/Marcasite Necklace",
    "price": 70,
@@ -2230,6 +2274,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952272972",
+   "title": "Vintage Robert Rose Necklace - Art Deco",
+   "price": 20,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-vintage-robert-rose-necklace-art/dbdHEmyxXH5Fa8c2S5XRte",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7960740756",
    "title": "Waltham Analog/Digital Diamond Watch",
    "price": 25,
@@ -2248,6 +2303,17 @@
    "url": "https://www.craigslist.org/view/d/kew-gardens-unisex-bracelet-nice-bold/vWf3BPGpZ2EuMBMTkzywoe",
    "best": "Product Details",
    "med": 59,
+   "ratio": 3.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956933434",
+   "title": "Sterling Necklace with Turquoise Cross",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-sterling-necklace-with-turquoise/aRKXerG9crUSwLhTZa8LsH",
+   "best": "eBay",
+   "med": 114,
    "ratio": 3.93,
    "ai_value": ""
   },
@@ -2791,6 +2857,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934968609",
+   "title": "Vintage hall tea pot",
+   "price": 20,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/east-derry-vintage-hall-tea-pot/n7kD3M2aFrqmegfHQdQEJk",
+   "best": "Teapot 6C. | eBay",
+   "med": 59,
+   "ratio": 2.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7982794332",
    "title": "1917 Elgin pocket watch",
    "price": 150,
@@ -2978,6 +3055,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939596406",
+   "title": "Sterling/marcasite necklace",
+   "price": 70,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-sterling-marcasite-necklace/rJGsBNgzzuWzQGE2reZVqQ",
+   "best": "MARCASITE 925 Sterling Silver Pearl Lariat Necklace - Art ...",
+   "med": 191,
+   "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7953881598",
    "title": "Snakeskin Oval Hinged Bracelets from Florence, Italy",
    "price": 35,
@@ -3022,6 +3110,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954806975",
+   "title": "Original painting -antique \ud83d\udd8c\ufe0f\ud83c\udfa8",
+   "price": 75,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-original-painting-antique/rdYN8S3D1amej7NaBWdEGJ",
+   "best": "(Note: If you have an aesthetic shopping image or are looking to identify/value a specific piece of art, shari",
+   "med": 199,
+   "ratio": 2.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7955920842",
    "title": "Vintage sterling silver statement ring",
    "price": 49,
@@ -3042,6 +3141,17 @@
    "med": 169,
    "ratio": 2.6,
    "ai_value": "Value / Condition: Pre-owned or untested vintage units typically sell for roughly $50 to $70"
+  },
+  {
+   "pid": "7945083936",
+   "title": "Seiko Japan ASGP 030293 Wrist Watch",
+   "price": 50,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-seiko-japan-asgp-wrist-watch/vK6BUd3K5QvtZ4HDoRXt1F",
+   "best": "eBay",
+   "med": 130,
+   "ratio": 2.6,
+   "ai_value": ""
   },
   {
    "pid": "7978306233",
@@ -3495,6 +3605,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979744568",
+   "title": "Sterling Silver Red Heart Stud Earrings",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-sterling-silver-red-heart-stud/wjSuh13PQ6YwgDAJJGfByX",
+   "best": "Item: Sterling silver heart stud earrings with red inlay/enamel",
+   "med": 42,
+   "ratio": 2.1,
+   "ai_value": "price of $50"
+  },
+  {
    "pid": "7929411784",
    "title": "Vintage Hobnail Pink Bowl",
    "price": 60,
@@ -3583,6 +3704,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980363327",
+   "title": "Vintage Ornate Mantel Clock",
+   "price": 50,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-ornate-mantel-clock/5zjNV8sBGPamiYppKub1sU",
+   "best": "Vintage Hand Painted Wooden Mantel Three Hands Corp Clock ...",
+   "med": 100,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933012732",
    "title": "Ax  Large vintage",
    "price": 75,
@@ -3624,6 +3756,17 @@
    "best": "1960s Marx Disneykins Walt Disney Snow White & Seven Dwarfs ...",
    "med": 75,
    "ratio": 1.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957230965",
+   "title": "Abalone jewelry set:  necklace, bracelet & earrings",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/castle-rock-abalone-jewelry-set/s2U1mEA6myzfHTkbbjaM5g",
+   "best": "Ruby Lane",
+   "med": 49,
+   "ratio": 1.96,
    "ai_value": ""
   },
   {
@@ -4540,6 +4683,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965250080",
+   "title": "VINTAGE NEPHRITE JADE PENDENT...REDUCED PRICE",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-nephrite-jade/7sckWTmdBzmDawcXK9Dvds",
+   "best": "Boylerpf",
+   "med": 50,
+   "ratio": 1.11,
+   "ai_value": "Value Range: Commonly valued or resold between $45"
+  },
+  {
    "pid": "7943373049",
    "title": "ANTIQUE STONEWARE COOKIE JAR",
    "price": 50,
@@ -5442,6 +5596,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938126270",
+   "title": "Antique Jewelry",
+   "price": 100,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/middleburg-antique-jewelry/oUFn6f7EKT1T1u8QqjRTnG",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7961163945",
    "title": "Vintage Unisex MINT Pocket Watch",
    "price": 75,
@@ -5461,6 +5626,17 @@
    "best": "eBay",
    "med": 19,
    "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951327189",
+   "title": "Vintage rhinestone bracelets",
+   "price": 80,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/south-weymouth-vintage-rhinestone/2W3z4i5cWVxXPBcrCNLZ83",
+   "best": "Mystery Jewelry Box & Lucky Scoops Gift \u2013 LOVE WISD",
+   "med": 21,
+   "ratio": 0.26,
    "ai_value": ""
   },
   {
@@ -5494,6 +5670,17 @@
    "best": "Craigslist",
    "med": 15,
    "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954526556",
+   "title": "Vintage Sterling Silver Earrings 2\"Round W/5 Stones EA. 9.1g",
+   "price": 77,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-vintage-sterling-silver/dgz3mkeGjs4Mhr7BAYKSFx",
+   "best": "Poshmark",
+   "med": 15,
+   "ratio": 0.19,
    "ai_value": ""
   },
   {
