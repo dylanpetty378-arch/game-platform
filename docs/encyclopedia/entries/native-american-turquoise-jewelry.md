@@ -67,3 +67,4 @@ Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). A $120-me
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Native American turquoise bracelet" – $165 – pass – Sterling link bracelet, free-form natural turquoise (matrix) in plain smooth bezels joined by round jump rings; unmarked in photo, light weight; Native or Southwestern-style 1970s–90s; est. resale $60–140 — below the $165 ask.
+- 2026-10-13 – review note – Pendants built on real bear claws (common 1970s Navajo-style coral/turquoise "bear claw" pieces) cannot be sold on eBay (wildlife-parts policy) and bear parts are restricted by many state laws - kill regardless of price; Lens and sellers call them just "bear claw pendant".

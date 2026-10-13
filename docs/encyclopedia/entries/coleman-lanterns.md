@@ -64,3 +64,4 @@ Buy when: pre-1952 date, black band, model 200, 202, 242/243 with nickel fount, 
 - 2026-10-12 – craigslist peoria – "Coleman Lantern - 1956?" – $30 – passed – green 220E dated 3/56, rusty, common; sold $45–80
 - 2026-10-12 – craigslist detroit – Coleman 275 – $45 – passed – 1970s, common
 - 2026-10-12 – craigslist phoenix – "LANTERN" – $20 – passed – modern battery lantern
+- 2026-10-13 – review note – CL "Coleman Empire" lantern (Plattsburgh NY, $15): nickel fount, red ventilator, red star valve knob, pierced fretwork burner guard; title model name is not a Coleman US model per entry, so ask for the fount stamp before trusting it.
