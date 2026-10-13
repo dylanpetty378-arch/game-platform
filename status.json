@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:51:07Z",
+ "updated": "2026-10-13T09:54:36Z",
  "tables": {
   "harvests": 4,
-  "searches": 1006,
+  "searches": 1310,
   "listings": 5407,
-  "lens": 3579,
-  "events": 12361,
-  "comps": 876,
+  "lens": 3604,
+  "events": 12388,
+  "comps": 1163,
   "item_types": 782,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 2975,
-  "lensed": 107,
-  "queued": 1861,
+  "photo_review/kill": 2977,
+  "lensed": 121,
+  "queued": 1836,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 342,
-  "flagged": 67,
+  "flagged": 76,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -247,6 +247,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969827663",
+   "title": "Vintage Hour Glass",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-hour-glass/mpkRtQvVy2EYoyQW5ps9cW",
+   "best": "Vintage Victorian Table Lamp green glass brass gold gild ...",
+   "med": 1650,
+   "ratio": 82.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7944055509",
    "title": "Antique Pine Box",
    "price": 38,
@@ -266,6 +277,17 @@
    "best": "Antique Seed Spreader | eBay",
    "med": 6000,
    "ratio": 63.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934676928",
+   "title": "Antique columns",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/tuleta-antique-columns/qE7z9rqLdHAERBeT6Sg3v6",
+   "best": "Two Round Wood Porch Columns 94 1/2\u201d Long 8\u201d To 9 1/2 ...",
+   "med": 2622,
+   "ratio": 52.44,
    "ai_value": ""
   },
   {
@@ -299,6 +321,17 @@
    "best": "Wood and Cast Iron Antique Theater Seats With Wire Hat ...",
    "med": 875,
    "ratio": 35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949644455",
+   "title": "VINTAGE CRYSTAL CLIP EARRINGS",
+   "price": 40,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/roseville-vintage-crystal-clip-earrings/vev38J8dyVYwNY2Yov1QJK",
+   "best": "eBay",
+   "med": 1375,
+   "ratio": 34.38,
    "ai_value": ""
   },
   {
@@ -464,6 +497,17 @@
    "best": "Ramsbottom Blue Crown Beverage Dispenser # 3 Crock Cooler ...",
    "med": 195,
    "ratio": 9.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954877827",
+   "title": "Vintage giant mailbox",
+   "price": 20,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-giant-mailbox/8x2tjDaKoXHTUamPrqY143",
+   "best": "Rural Mailbox Antique - Etsy",
+   "med": 189,
+   "ratio": 9.45,
    "ai_value": ""
   },
   {
@@ -654,6 +698,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7938270277",
+   "title": "MIAMI DOLPHINS VINTAGE JACKET",
+   "price": 39,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/ormond-beach-miami-dolphins-vintage/hSqX1EUFwdf1QDuC5NRhxs",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 3.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951528280",
+   "title": "3  Antique Sleds",
+   "price": 60,
+   "area": "utica",
+   "url": "https://www.craigslist.org/view/d/canton-antique-sleds/cBW3RDH2n8kYgVtBqPN5G8",
+   "best": "eBay",
+   "med": 225,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7928419449",
    "title": "Antique Electric Typewriter",
    "price": 50,
@@ -731,6 +797,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982116713",
+   "title": "Vintage VICTROLA Needles Tin",
+   "price": 25,
+   "area": "siouxcity",
+   "url": "https://www.craigslist.org/view/d/adrian-vintage-victrola-needles-tin/vBnB77RzibZDz74VvrbcQh",
+   "best": "Artwork: Depicts \"Nipper,\" the famous terrier, sitting beside a brass-horn gramophone with the text \"His Maste",
+   "med": 76,
+   "ratio": 3.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930579458",
+   "title": "Vintage Voigtl\u00e4nder Folding Camera",
+   "price": 100,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/mount-laurel-vintage-voigtlnder-folding/sxEL7AempoWdQXHV25Bujo",
+   "best": "Voigtlander AVUS 9x12 Folding Plate Camera Skopar 1:4.5 F ...",
+   "med": 300,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7965161871",
    "title": "NICE VINTAGE CAMERA&CASE",
    "price": 50,
@@ -773,6 +861,17 @@
    "med": 239,
    "ratio": 2.81,
    "ai_value": ""
+  },
+  {
+   "pid": "7944826302",
+   "title": "Vintage Bradley doll",
+   "price": 25,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/kennewick-vintage-bradley-doll/uSftFNy59M4ub93369XF2d",
+   "best": "Maker: Bradley Doll Company (manufactured in Korea, typically during the 1970s).",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": "sell between $25"
   },
   {
    "pid": "7974242346",

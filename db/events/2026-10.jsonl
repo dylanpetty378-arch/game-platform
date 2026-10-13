@@ -12361,3 +12361,28 @@
 {"ts":"2026-10-13T09:50:51Z","pid":"7943864176","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":6000,"ratio":63.16}}
 {"pid":"7979770546","stage":"photo_review","status":"kill","type":null,"note":"Terapeak: Qantas koala opal pins ~$15 each (n=5)","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:50:02Z"}
 {"pid":"7975423845","stage":"photo_review","status":"kill","type":null,"note":"Terapeak: Stanley No.5 ~$35-55, lots of planes median $42; 5 cast-iron planes heavy to ship; fails rule at $50","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:50:02Z"}
+{"ts":"2026-10-13T09:51:01Z","pid":"7930579458","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":300,"ratio":3}}
+{"ts":"2026-10-13T09:51:10Z","pid":"7954877827","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":189,"ratio":9.45}}
+{"ts":"2026-10-13T09:51:19Z","pid":"7934676928","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":2622,"ratio":52.44}}
+{"ts":"2026-10-13T09:51:28Z","pid":"7969827663","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":1650,"ratio":82.5}}
+{"ts":"2026-10-13T09:51:38Z","pid":"7928070011","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":36,"ratio":1.44}}
+{"ts":"2026-10-13T09:51:47Z","pid":"7949644455","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":1375,"ratio":34.38}}
+{"ts":"2026-10-13T09:51:55Z","pid":"7947862910","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":47,"ratio":0.47}}
+{"ts":"2026-10-13T09:52:03Z","pid":"7982168481","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":30,"ratio":0.6}}
+{"ts":"2026-10-13T09:52:10Z","pid":"7944826302","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":70,"ratio":2.8}}
+{"ts":"2026-10-13T09:52:19Z","pid":"7938270277","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":150,"ratio":3.85}}
+{"ts":"2026-10-13T09:52:28Z","pid":"7982161572","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":14,"ratio":0.23}}
+{"ts":"2026-10-13T09:52:38Z","pid":"7951918915","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":41,"ratio":1.64}}
+{"ts":"2026-10-13T09:52:46Z","pid":"7965735486","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":31,"ratio":1.55}}
+{"ts":"2026-10-13T09:52:54Z","pid":"7931513675","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":72,"ratio":0.9}}
+{"ts":"2026-10-13T09:53:01Z","pid":"7982129466","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":19,"ratio":0.95}}
+{"ts":"2026-10-13T09:53:08Z","pid":"7982127894","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":25,"ratio":0.71}}
+{"ts":"2026-10-13T09:53:18Z","pid":"7949395979","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":45,"ratio":2.25}}
+{"ts":"2026-10-13T09:53:27Z","pid":"7982126376","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":90,"ratio":1.2}}
+{"ts":"2026-10-13T09:53:35Z","pid":"7952348939","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":17,"ratio":1.7}}
+{"ts":"2026-10-13T09:53:43Z","pid":"7955454259","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":30,"ratio":0.67}}
+{"ts":"2026-10-13T09:53:53Z","pid":"7932704194","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":30,"ratio":2}}
+{"ts":"2026-10-13T09:54:00Z","pid":"7933805717","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":20,"ratio":1}}
+{"ts":"2026-10-13T09:54:07Z","pid":"7969538976","stage":"lensed","run":"lensworker-20261013-0947","data":{"med":25,"ratio":1.67}}
+{"ts":"2026-10-13T09:54:14Z","pid":"7982116713","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":76,"ratio":3.04}}
+{"ts":"2026-10-13T09:54:21Z","pid":"7951528280","stage":"flagged","run":"lensworker-20261013-0947","data":{"med":225,"ratio":3.75}}
