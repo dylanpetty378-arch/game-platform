@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:40:36Z",
+ "updated": "2026-10-13T06:43:59Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2379,
-  "events": 9914,
+  "lens": 2404,
+  "events": 9939,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3061,
+  "queued": 3036,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 117,
-  "lensed": 133
+  "flagged": 133,
+  "lensed": 142
  },
  "last_harvests": [
   {
@@ -246,6 +246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933546192",
+   "title": "Vintage CHINESE REVERSE ART HAND-PAINTED SNUFF/PURFUME BOTTLE",
+   "price": 25,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-chinese-reverse-art/5HJRZnHb4mf9zJ8QfvgK6V",
+   "best": "An inside-painted glass 'Lin Daiyu' snuff bottle Ye ... - Bonhams",
+   "med": 9580,
+   "ratio": 383.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7981540926",
    "title": "Set of 8\" Porcelain Vase",
    "price": 15,
@@ -287,6 +298,28 @@
    "best": "A Group of Thai Celadon Jars for Rosenthal-Netter, C.1960s ...",
    "med": 1800,
    "ratio": 72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953802005",
+   "title": "Assorted Vintage China Serving Pieces",
+   "price": 1,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/tulsa-assorted-vintage-china-serving/dPmymRHqrw4eitr8SRuK1K",
+   "best": "Antique Covered Serving Dish Rose Pattern J&G Meakin Hanley ...",
+   "med": 65,
+   "ratio": 65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967896599",
+   "title": "Standing Budha",
+   "price": 200,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-standing-budha/xdAhHawdSTP7bxdRtfNpjb",
+   "best": "Vintage Green and Gilded Wood Carved Sculpture of a Thai ...",
+   "med": 12578,
+   "ratio": 62.89,
    "ai_value": ""
   },
   {
@@ -400,6 +433,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953546060",
+   "title": "Hang picture",
+   "price": 10,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/downers-grove-hang-picture/oWy9q1iw8npKxZnj4aYifM",
+   "best": "Beautiful Signed & Framed Robert Cox Oil Painting 27x24 ...",
+   "med": 180,
+   "ratio": 18,
+   "ai_value": ""
+  },
+  {
    "pid": "7949107838",
    "title": "VINTAGE SIGNED CYNTHIA DECEMBER MODERN ART ETCHING PRINT CATHY & CAT",
    "price": 100,
@@ -408,6 +452,17 @@
    "best": "LiveAuctioneers",
    "med": 1695,
    "ratio": 16.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971752520",
+   "title": "VINTAGE AMERICAN EXPRESSIONIST WATERCOLOR LANDSCAPE PAULINE COLLINGS",
+   "price": 45,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-vintage-american/i6AQ1g6RqfarRpjWbvRSks",
+   "best": "Vintage Ireland Painting Wall Art Set/original Gauche ...",
+   "med": 750,
+   "ratio": 16.67,
    "ai_value": ""
   },
   {
@@ -429,6 +484,17 @@
    "url": "https://www.craigslist.org/view/d/boise-earrings-and-cuff-bracelet/4ohVTf7hHt4aeP1uReHVig",
    "best": "Cuff Bracelet: An open cuff design featuring two parallel rows of rectangular bright-turquoise-colored stones ",
    "med": 280,
+   "ratio": 14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948490694",
+   "title": "Guitar \"Tito's Handmade Vodka\" Edition Serial #SP171667",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/monroe-guitar-titos-handmade-vodka/xeHX2ivNkNt5Embj1hZRSE",
+   "best": "Charitybuzz: Bert \"Tito\" Beveridge Signed Tito's Handmade ...",
+   "med": 1400,
    "ratio": 14,
    "ai_value": ""
   },
@@ -543,6 +609,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965923544",
+   "title": "Vtg Hammered Aluminum Tray and Serving Bowl",
+   "price": 12,
+   "area": "cedarrapids",
+   "url": "https://www.craigslist.org/view/d/lisbon-vtg-hammered-aluminum-tray-and/hLWpcuSJRsmYh5TThgm7DT",
+   "best": "Vintage Mid Century Aluminum 2 Matching Farber & Shlevin ...",
+   "med": 89,
+   "ratio": 7.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7952956310",
    "title": "Vintage Japanese cast iron tea kettle",
    "price": 20,
@@ -631,6 +708,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955894570",
+   "title": "Vintage Hand Painted Chinese Decorative Jar/Vase",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-vintage-hand-painted-chinese/ctdN2eDZBdmXGi6uZtW2oV",
+   "best": "Vintage Lotus Flower Pattern Ginger Jar Beautiful Hand ...",
+   "med": 495,
+   "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7942073476",
    "title": "Guitar / banjo projects",
    "price": 35,
@@ -716,6 +804,28 @@
    "best": "Nativo Arts",
    "med": 500,
    "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954452583",
+   "title": "Camera lot",
+   "price": 60,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/melbourne-camera-lot/m4aEDydeD921HqX6X3BRQT",
+   "best": "Nikon EM Film Camera + Series E Zoom 36-72mm F/3.5 Lens + ...",
+   "med": 300,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947991538",
+   "title": "ARTIST-SIGNED GREENLEAF ARIZONA LANDSCAPE WATERCOLOR PAINTING JAVELINA",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-artist-signed-greenleaf/1hpgHdsyVpbEfdno98oZEJ",
+   "best": "Lithograph Sunset Woods - Etsy",
+   "med": 495,
+   "ratio": 4.95,
    "ai_value": ""
   },
   {
@@ -848,6 +958,17 @@
    "best": "Original PHEASANT Bird Hunting Print Lithograph Picture ...",
    "med": 99,
    "ratio": 3.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952031238",
+   "title": "Vintage Murano Amber Glass Bowl/Dish",
+   "price": 85,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-vintage-murano-amber-glass/jdSpBh9mBQgFGU25DxsQyd",
+   "best": "STUNNING! Vintage MURANO Style Art Glass AMBER GOLD Candy ...",
+   "med": 332,
+   "ratio": 3.91,
    "ai_value": ""
   },
   {
@@ -1000,6 +1121,17 @@
    "area": "monterey",
    "url": "https://www.craigslist.org/view/d/pebble-beach-antique-whiskey-jar/2k9yESpWrwz6fstp2etmhK",
    "best": "Primitive Stoneware Crock Finger Jug / Small Brown Stoneware ...",
+   "med": 120,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956170841",
+   "title": "Vintage Test Equipment \"Electrometer\"",
+   "price": 40,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-vintage-test-equipment/u8TJRUzU12di5QAkXQnVw2",
+   "best": "Leeds & Northrup Co Potentiometer | eBay",
    "med": 120,
    "ratio": 3,
    "ai_value": ""
@@ -1236,6 +1368,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930867565",
+   "title": "Vintage Boy Scout Lot, Local Cashmere 1960s Shirts Hat Canteen + More",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-vintage-boy-scout-lot-local/s9dDSApYshtbTD6AbQsiCx",
+   "best": "Vintage 1950s Boy Scout Official Uniform Shirt S Jubilee ...",
+   "med": 86,
+   "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7932203523",
    "title": "Vintage Set of 3 Zuni Necklace Pendants or Bracelet Charms",
    "price": 50,
@@ -1269,6 +1412,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947544303",
+   "title": "VINTAGE LORRAINE TRESTER ENAMEL COPPER ART PAINTING-PLAQUE GIRL & SWAN",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-vintage-lorraine-trester/hXsCABsJSCwVHVBv22c7AX",
+   "best": "Lorraine Trester Enamel On Copper Painting Art Girl On Lake ...",
+   "med": 150,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7965824274",
    "title": "Carnival glass entire lot",
    "price": 120,
@@ -1298,6 +1452,17 @@
    "url": "https://www.craigslist.org/view/d/holly-hill-beautiful-vintage-sterling/xrx6ZmsUQ2W6JkutNf8kkk",
    "best": "Stones: Inlaid curved sections of genuine multi-color jade (typically featuring shades such as lavender/purple",
    "med": 364,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966560180",
+   "title": "Antique Stoneware Pot with Lid",
+   "price": 55,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/henniker-antique-stoneware-pot-with-lid/uSPG8rCJbSQqM6p33MM4ak",
+   "best": "Brown and White Crock | eBay",
+   "med": 100,
    "ratio": 1.82,
    "ai_value": ""
   },
@@ -1354,6 +1519,17 @@
    "best": "VINTAGE PRISCO No. 2 PRITCHARD STRONG CO. LANTERN & CLEAR ...",
    "med": 96,
    "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951164400",
+   "title": "Oil painting Signed Framed OOC Vintage mid-century art",
+   "price": 195,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/midlothian-oil-painting-signed-framed/t3Xv1PeFYp7xj2LWrQULgL",
+   "best": "Digital Download / Absolute Beautiful Blue Iris Flowers ...",
+   "med": 300,
+   "ratio": 1.54,
    "ai_value": ""
   },
   {
