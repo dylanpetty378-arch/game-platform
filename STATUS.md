@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T15:11:29Z
+# Refurbish status — 2026-10-13T15:14:56Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1428 |
-| lensed | 1019 |
-| flagged | 732 |
-| queued/relens | 445 |
+| queued | 1403 |
+| lensed | 1030 |
+| flagged | 743 |
+| queued/relens | 448 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 6
 - searches: 1504
 - listings: 7007
-- lens: 5612
-- events: 16347
+- lens: 5637
+- events: 16372
 - comps: 1350
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (732)
+## Flagged by Lens, waiting for photo review (743)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -184,6 +184,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00505_llF22qR0qJm_0ak07K_300x300.jpg" width="120"> | 7930467976 | $20 | redding | [vintage makeup case](https://www.craigslist.org/view/d/santa-rosa-vintage-makeup-case/fGrP9M9oEXoifAYzRCJMH9) | Flickr | 357 | 17.85 |
 | <img src="https://images.craigslist.org/00606_7uNNWRgvyh0_0CI0t2_300x300.jpg" width="120"> | 7953644076 | $20 | vermont | [Vintage Sanyo Speakers](https://www.craigslist.org/view/d/arlington-vintage-sanyo-speakers/nqhxNKA9aYhs1ZXkJCKcyz) | SANYO Vintage Speakers for sale / eBay | 350 | 17.5 |
 | <img src="https://images.craigslist.org/00X0X_81vUgImfWgF_0c60g8_300x300.jpg" width="120"> | 7956349346 | $99 | yuma | [Ioptron Electronic Antique Microscope](https://www.craigslist.org/view/d/el-cajon-ioptron-electronic-antique/5eLzHbSZv59TdZuMhVjCbN) | iOptron | 1699 | 17.16 |
+| <img src="https://images.craigslist.org/00s0s_eX7irPiKZUP_0C80t2_300x300.jpg" width="120"> | 7953992640 | $20 | huntsville | [Vintage Jewelry Set: Necklace, Brooch & Clip Earri](https://www.craigslist.org/view/d/huntsville-vintage-jewelry-set-necklace/888wHfwL199PfeUWczNLLC) | Craigslist | 334 | 16.7 |
 | <img src="https://images.craigslist.org/00606_2yWykyrt8Wk_0CI0t2_300x300.jpg" width="120"> | 7975199943 | $15 | omaha | [Vintage apothecary bottles- reduced](https://www.craigslist.org/view/d/glidden-vintage-apothecary-bottles/ufRfNrqF4r4cch1H9tKXGu) | Smaller Vials: Several smaller amber and clear glass dropper | 250 | 16.67 |
 | <img src="https://images.craigslist.org/00g0g_a7D2MRRhOvj_0CI0t2_300x300.jpg" width="120"> | 7954024043 | $30 | chicago | [Estate Sale:  Vintage Wax Still Life Painting Sign](https://www.craigslist.org/view/d/brookfield-estate-sale-vintage-wax/qBAHz3mXrRWaKXHKLZEDdh) | Craigslist | 495 | 16.5 |
 | <img src="https://images.craigslist.org/00g0g_e8kb4I9Eqid_0mz0mA_300x300.jpg" width="120"> | 7953182739 | $50 | losangeles | [Vintage Illuminated World Globe Lamp by Fucashun I](https://www.craigslist.org/view/d/pasadena-vintage-illuminated-world/nvjYF4reyxWuhdJskUPi7C) | Cardanic DUO Globe from Columbus for sale at Pamono | 824 | 16.48 |
@@ -212,4 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00Y0Y_d4HAYXVUmKn_0w10t2_300x300.jpg" width="120"> | 7953318070 | $5 | nd | [Johnson Brothers Pitcher](https://www.craigslist.org/view/d/grand-forks-johnson-brothers-pitcher/gKNiuPtToeq3nmAdRFzpTG) | Johnson Brothers Marie 4" Creamer Pitcher Fine English ... | 66 | 13.2 |
 | <img src="https://images.craigslist.org/00d0d_2SE1uacrvFs_0CI0t2_300x300.jpg" width="120"> | 7950850375 | $25 | buffalo | [ANTIQUE WOODEN "COMSTOCK/EGYPT" CRATE](https://www.craigslist.org/view/d/ontario-center-antique-wooden-comstock/dMRGibz94W3yskxDuqQ7jt) | Craigslist | 329 | 13.16 |
 | <img src="https://images.craigslist.org/00z0z_gBL1DdxD9F5_0lM0t2_300x300.jpg" width="120"> | 7931495586 | $10 | chicago | [Set of 2 Decanter Bottle Stopper Toppers](https://www.craigslist.org/view/d/shorewood-set-of-decanter-bottle/85ci5K9RqtrMdg9DueoQzk) | Rogaska Crystal GALLIA Ship Decanter & Stopper - 10 1/2" / e | 131 | 13.1 |
-| <img src="https://images.craigslist.org/00L0L_jogmyc7iiax_0t20CI_300x300.jpg" width="120"> | 7970581428 | $100 | milwaukee | [Vintage saddle bags](https://www.craigslist.org/view/d/stevens-point-vintage-saddle-bags/hWzzX5Ls65qwSnVSc6UteD) | ORIGINAL Vintage Harley saddle buddy seat Panhead ... | 1300 | 13 |

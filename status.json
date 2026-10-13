@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T15:11:29Z",
+ "updated": "2026-10-13T15:14:56Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5612,
-  "events": 16347,
+  "lens": 5637,
+  "events": 16372,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 1019,
-  "queued": 1428,
+  "lensed": 1030,
+  "queued": 1403,
   "comps/pass": 1,
-  "queued/relens": 445,
+  "queued/relens": 448,
   "decided/ask": 37,
-  "flagged": 732,
+  "flagged": 743,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1335,6 +1335,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953992640",
+   "title": "Vintage Jewelry Set: Necklace, Brooch & Clip Earrings",
+   "price": 20,
+   "area": "huntsville",
+   "url": "https://www.craigslist.org/view/d/huntsville-vintage-jewelry-set-necklace/888wHfwL199PfeUWczNLLC",
+   "best": "Craigslist",
+   "med": 334,
+   "ratio": 16.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7975199943",
    "title": "Vintage apothecary bottles- reduced",
    "price": 15,
@@ -1797,6 +1808,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950881115",
+   "title": "VINTAGE JADE NEPHRITE POST EARRINGS ~ 14K",
+   "price": 50,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-jade-nephrite-post/e2WvGwu6qSGGqSMksQq8PR",
+   "best": "Etsy",
+   "med": 595,
+   "ratio": 11.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7949906550",
    "title": "Antique Stromberg Carlson Telephone",
    "price": 25,
@@ -2112,6 +2134,17 @@
    "url": "https://www.craigslist.org/view/d/windsor-vintage-astrolite-hasbro-1969/28szkifKYz4LJgSqVQ54vt",
    "best": "Hasbro Astrolite 1969 Part of the Hasbro Adventures in Light ...",
    "med": 90,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929053389",
+   "title": "14K YELLOW GOLD PLATED LINK BRACELET",
+   "price": 25,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-14k-yellow-gold-plated-link/agdWQdXDhQvcquGs92BStn",
+   "best": "Michelle's Vintage Jewelry",
+   "med": 225,
    "ratio": 9,
    "ai_value": ""
   },
@@ -3392,6 +3425,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979284881",
+   "title": "Vintage Disney children's utensils",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-vintage-disney-childrens/bzm2rJkZpswmZaEeHZ8Qbz",
+   "best": "Manufacturer: Bonny",
+   "med": 110,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7948945101",
    "title": "Vintage Collection of Dental Tools",
    "price": 15,
@@ -3676,6 +3720,17 @@
    "med": 100,
    "ratio": 5,
    "ai_value": ""
+  },
+  {
+   "pid": "7955490462",
+   "title": "VINTAGE KITTY CAT BROOCH",
+   "price": 15,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-kitty-cat-brooch/w8SgbtM7U79Wy69Air6y2b",
+   "best": "eBay",
+   "med": 75,
+   "ratio": 5,
+   "ai_value": "sell online for about $10 to $35"
   },
   {
    "pid": "7978064265",
@@ -4356,6 +4411,17 @@
    "url": "https://www.craigslist.org/view/d/kamuela-antique-japanese-printing-block/t4kKX8MzyjcP8De1eL58uL",
    "best": "Antike Drucktafel asiatisch Holz Dachbodenfund Handarbeit ...",
    "med": 300,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972550517",
+   "title": "Vintage Buck 3 Blade Pocket Knife 303",
+   "price": 40,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-buck-blade-pocket/tR8mR2XnbAndUb8aksFiNF",
+   "best": "Vintage Buck 303 USA 3 Blade Pocket Knife | eBay",
+   "med": 160,
    "ratio": 4,
    "ai_value": ""
   },
@@ -5273,6 +5339,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955685243",
+   "title": "10K Gold Cross & Chain (Ballou)",
+   "price": 75,
+   "area": "fortwayne",
+   "url": "https://www.craigslist.org/view/d/south-bend-10k-gold-cross-chain-ballou/9B9RmxrgxZJmAsvQp78zDm",
+   "best": "Amazon.com",
+   "med": 225,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7934810476",
    "title": "Vintage Bitossi Pottery",
    "price": 150,
@@ -5293,6 +5370,17 @@
    "med": 149,
    "ratio": 2.98,
    "ai_value": ""
+  },
+  {
+   "pid": "7955979386",
+   "title": "Vintage Cast Iron Camel",
+   "price": 120,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-vintage-cast-iron-camel/6zR8tiXRMWMpHjBgVtTFrW",
+   "best": "Antique Bronze Coldpainted Large Camel - Etsy",
+   "med": 355,
+   "ratio": 2.96,
+   "ai_value": "sell in the $200 to $900"
   },
   {
    "pid": "7959048435",
@@ -6017,6 +6105,17 @@
    "url": "https://www.craigslist.org/view/d/virginia-beach-vintage-corning-ware-set/j8Ty4ePBD87E9btEqhdKrf",
    "best": "86 Piece Corelle MEADOW Pattern Dinnerware Set: 16 ...",
    "med": 180,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977567654",
+   "title": "vintage train collection",
+   "price": 50,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/cincinnati-vintage-train-collection/5NXeHeq19eV89RDsAGdBJA",
+   "best": "Sold at Auction: 1946 Lionel 1665 Steam Switcher",
+   "med": 120,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -6835,6 +6934,17 @@
    "ai_value": "Value: Pre-owned and vintage units generally sell between $35 to $115"
   },
   {
+   "pid": "7940669050",
+   "title": "Vintage 1/2L German Beer Stein Reinhold Merkelbach",
+   "price": 60,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/villa-park-vintage-2l-german-beer-stein/4Bx87ArHSJfXQaHAtcwM59",
+   "best": "Las mejores ofertas en Merkelbach en Jarras de Cerveza con ...",
+   "med": 100,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7975347201",
    "title": "VINTAGE BRASS SWORDFISH CORKSCREW AND BOTTLE OPENER",
    "price": 49,
@@ -7260,6 +7370,17 @@
    "url": "https://www.craigslist.org/view/d/sulphur-springs-antique-mantle-clock/hkdBhSJZWG2QpW5EFmCxBV",
    "best": "Antique Sessions Parlor Kitchen Mantle Clock with chime No ...",
    "med": 115,
+   "ratio": 1.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930822533",
+   "title": "Antique Two-Tone Stoneware Jug",
+   "price": 85,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/rutherford-antique-two-tone-stoneware/3qZ2dyVnYcruDHbwh286sM",
+   "best": "Antique Two Tone Stoneware Whiskey Jug Brown Cream Salt ...",
+   "med": 109,
    "ratio": 1.28,
    "ai_value": ""
   },
