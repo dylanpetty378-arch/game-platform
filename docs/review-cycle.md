@@ -28,7 +28,17 @@ and log the fix in `docs/improvements.md`. For the Chrome worker, read the contr
 `https://www.google.com/robots.txt?refurb` in a non-worker tab. Never navigate or close the worker tab, and never press
 Start in a second tab.
 
-## 2. Triage the flagged list
+## 2. Text-triage EVERYTHING Lens scanned, not only the flagged list
+Measured on Oct 13: across ~330 Lens-flagged listings there were 0 keeps, while reading the Lens AI identification +
+title + price + body across ALL scanned listings found ~15 leads (Jostens 21-jewel "quartz" watch, Hummel full-bee lots,
+Bossons heads, straight-razor and safety-razor collections, an Ainsworth Brunton transit at $35…). So:
+`python3 scripts/review_helpers.py --lensed` (unflagged pool) and `--flagged` both go through text triage
+(`research/TRIAGE_BRIEF.md`, 4 agents × ~170 rows, ~5 min each). Patterns that produce leads: lots/collections priced
+as one (check per-unit price vs single-item sold median), early marks (Hummel V-bee, crown), jewelled/hunter-case
+watches and small gold-tone pieces (ask for the case-back/karat mark), text on the item contradicting the title.
+Always fetch the body: it settles most rows (per-item pricing, "replica", "no shipping", dealer).
+
+## 2b. Triage the flagged list
 Run `python3 scripts/review_helpers.py --flagged`.
 - **Kill at once** (event `photo_review/kill`, a one-line reason, `type` slug) for:
   - anything bigger than a car's passenger seat (size rule, no exceptions)
