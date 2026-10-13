@@ -105,6 +105,9 @@ Merged rules from the earlier write-ups:
   build; Fibreflex complete at $200.
 - Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): "Kryptonics" deck with a pink/neon rail and a big KRYPT ONICS top logo is often the 2010s mass-retail revival (Target/Walmart cruisers), not a 1980s original. Check for the modern bar code or sticker before treating it as collectible.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 5, "shape": "flat", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 4, "id_difficulty": 3, "rarity": 2, "sold_per_month": 1500, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [60, 130, 300], "price_spread": 5.0, "condition_sensitivity": 4, "seasonality": "spring/summer slight lift", "best_platform": "eBay; Facebook vintage-skate groups", "fees_pct": 13, "ship_cost_to_buyer": 25, "undervalue_frequency": 2, "bust_probability": 35, "expected_profit_typical": 10, "confidence": "medium"}

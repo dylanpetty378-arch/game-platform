@@ -1,29 +1,92 @@
 # African masks (Cameroon Grassfields/Bamileke/Bamum, Dan, Baule, Punu, Fang, Chokwe, Yoruba Gelede, Kuba; tourist "airport art" vs. tribal-used)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.liveauctioneers.com, https://www.ebay.com/sh/research (Terapeak), https://www.worthpoint.com, https://www.randafricanart.com
-Slug: african-masks · Aliases: tribal mask, African carved mask, wood mask, Cameroon mask, Canum mask, Bamileke mask, Dan mask, Punu mask, airport art, Kumba mask, Bamenda mask
+Updated: 2026-10-13 · deepened 2026-10-13 · Sources: general knowledge (marked); verify on https://www.liveauctioneers.com, https://www.ebay.com/sh/research (Terapeak), https://www.worthpoint.com, https://www.randafricanart.com ; "What is a fake in African art" https://buyafricanantiques.com/2026/06/20/what-is-a-fake-in-african-art/ ; Masks of the World Q&A on a Chokwe/Ovimbundu mask https://masksoftheworld.com/blog/even-an-expert-can-ask-for-help/ ; Zemanek-Münster lot 385 Bamileke kungan mask https://tribalart.de/en/o/face-mask-of-the-kungan-society-3037798 ; Africa Direct Bamileke mask listing https://africadirect.com/products/bamileke-wooden-carved-mask ; Bruno Claessens, inscriptions/labels/stickers database https://brunoclaessens.com/?p=4470
+Slug: african-masks · Aliases: tribal mask, African carved mask, wood mask, Cameroon mask, Canum mask, Bamileke mask, Dan mask, Punu mask, airport art, Kumba mask, Bamenda mask, Baule mask, Goli mask, Pwo mask, Gelede mask, Kuba mask, Senufo mask, tribal art
 Summary: tourist/decorative (1970s–2020s) masks $20–100; well-carved decorative masks with good surface $60–200; older (pre-1960) masks with documented collection history $300–3,000; published provenance/museum-grade $5,000+ (general knowledge, verify)
 Buy rule (short): Treat almost all Craigslist African masks as decorative (resale $30–150); buy only at ≤ $30 for decorative pieces. "Authentic tribal-used" claims need professional authentication, which is out of scope.
 
 ## What it is / how to recognise it in a photo
-Carved wooden face masks from West and Central Africa. The vast majority on the US market are made for trade (tourist/"airport art") from the 1950s on, with shoe-polish or dye patina, artificial wear, nail holes, and dust rubbed into crevices. The example is a Cameroon Grassfields-style (Bamileke/Bamenda/Kumba area) helmet-face mask with puffed cheeks, bared carved teeth, bulging eyes ringed in white, and a carved spiky coiffure; this is a type heavily produced for trade.
+Carved wooden face masks (and helmet/crest masks) from West and Central Africa. The vast majority on the US market are
+made for trade (tourist/"airport art") from the 1950s on, with shoe-polish or dye patina, artificial wear, nail holes,
+and dust rubbed into crevices. Africans have carved masks for sale since the 19th century, and many trade carvers are very
+skilled (Masks of the World), so good carving alone proves nothing. Objects made for sale are not "fakes" in themselves;
+the problem is when they are sold as used/old (buyafricanantiques.com).
+
+The sweep example is a Cameroon Grassfields-style (Bamileke/Bamenda/Kumba area) helmet-face mask with puffed cheeks, bared
+carved teeth, bulging eyes ringed in white, and a carved spiky coiffure; this is a type heavily produced for trade. For
+reference, a documented Bamileke kungan-society mask (Zemanek-Münster lot 385, ex Jean-Paul Agogué, Paris; published in
+*Kamerun, Kunst der Könige*, 2008) is 29.5 cm (11.6") high with a vertical forehead ridge, arched brows over pierced
+eyes, large projecting ears, a heavily encrusted brown patina, native metal-clamp crack repairs and insect damage at the
+back rim — the auction notes say Bamileke masks of this kind were worn in front of the face. Grassfields dealer pieces
+may carry cowrie shells, woven fibre and hair crests (Africa Direct).
+
+There is no maker's mark. What to photograph: the inside (most telling), the back rim and attachment holes, the bottom
+edge, and any number, label or sticker. Seller titles: "tribal mask", "authentic African mask", "hand carved", "vintage
+African mask", "wall mask".
 
 ## Makers, brands and variants
-Ethnic styles: Cameroon Grassfields (Bamileke, Bamum, Bangwa), Dan (Liberia/Côte d'Ivoire; smooth oval face), Baule (Côte d'Ivoire), Punu (Gabon; white-faced), Fang (Gabon), Chokwe (Angola/DRC), Yoruba Gelede (Nigeria), Kuba (DRC), Senufo, Bambara/Bamana. No brands.
+Ethnic styles: Cameroon Grassfields (Bamileke, Bamum, Bangwa), Dan (Liberia/Côte d'Ivoire; smooth oval face), Baule
+(Côte d'Ivoire), Punu (Gabon; white-faced), Fang (Gabon), Chokwe (Angola/DRC), Yoruba Gelede (Nigeria), Kuba (DRC),
+Senufo, Bambara/Bamana. No brands.
+
+Style tells per group (general knowledge, verify unless cited):
+- **Cameroon Grassfields**: big, bold, puffed cheeks, open mouths with teeth, large ears, crest or coiffure; often
+  heavily reproduced for trade.
+- **Dan**: smooth, restrained oval face, slit or round eyes, glossy dark surface; small "passport" masks are a sub-type
+  (Terapeak line below shows a "Dan Deangle Passport Mask").
+- **Baule**: refined oval face, arched brows, small mouth, crested coiffure, often with horns or a bird on top; Goli masks
+  are disc-faced with horns (Terapeak lines below show "Baule Goli" sales).
+- **Punu**: white kaolin face, narrow almond eyes, scarification marks on forehead/temples, elaborate dark coiffure.
+- **Fang**: elongated heart-shaped white face (Ngil type).
+- **Chokwe**: Pwo female mask; forehead cruciform scarification and filed teeth appear only on particular Pwo masks, not
+  on all Chokwe masks; neighbouring Ovimbundu masks look similar (Masks of the World).
+- **Yoruba Gelede**: helmet mask worn on top of the head, often with a carved superstructure.
+- **Kuba**: beaded and cowrie-covered masks (Mwaash aMbooy type), raffia and cloth.
+- **Senufo**: Kpelie face mask with leg-like projections at the chin and flanges at the sides.
+- **Bamana/Bambara**: Ntomo masks with a row of vertical horns; Chiwara antelope headdresses.
+
+### Quick ID checklist
+- Inside: dark, smooth, sweat-polished where face/forehead touched = use signs; clean, pale, raw tool marks = trade piece.
+- Attachment holes at the rim: worn smooth/oval and darkened inside the hole vs crisp, round, drilled, pale inside.
+- Surface: patina "absorbed" into the wood and varied vs uniform dark stain or shoe polish that sits on top (rubs off on a cloth).
+- Wear in logical places (nose tip, chin, rim, where hands lift it) vs random sanding/"distress" everywhere.
+- Fresh pale wood visible at chips, nail holes or cracks = recent.
+- Proportions: over-dramatic, exaggerated features are a forger's tell; authentic pieces are usually quieter (buyafricanantiques.com).
+- Numbers, labels or stickers painted/written on the inside or back (old collection or museum registration numbers).
+- Same face in dozens of other listings = workshop production.
+- Size: give height; many trade masks are oversized wall pieces made to impress.
 
 ## Materials, finishes and quality tells
-Used pieces: inside wear from contact with the face, sweat staining, and holes for attachment worn smooth; natural surface built up over years; asymmetrical carving. Tourist pieces: a uniform dark stain, clean inside, sharp tool marks, a light kiln-dried wood, and identical features to many others for sale.
+Used pieces: inside wear from contact with the face, sweat staining, and holes for attachment worn smooth; natural surface
+built up over years; asymmetrical carving. Tourist pieces: a uniform dark stain, clean inside, sharp tool marks, a light
+kiln-dried wood, and identical features to many others for sale.
+
+From the cited sources: a genuine surface forms over decades of handling, smoke, sacrificial materials and pigments and
+looks absorbed by the object; artificial patina tends to be uniform or excessive (buyafricanantiques.com). Artificial
+oxidation can be produced with potassium permanganate solution, and on a good reproduction artificial ageing can be
+impossible to detect from photos (Masks of the World). The interior often preserves evidence of use, construction and
+wear because copyists concentrate on the front (buyafricanantiques.com). Patina alone does not prove age — some old
+pieces were waxed or cleaned (Masks of the World). Carbon dating and thermoluminescence can inform but not replace
+expert judgement (buyafricanantiques.com).
 
 ## Condition, damage and repairs
-Insect damage (worm holes), cracks, losses to protruding elements (hair spikes, teeth), and repairs with filler.
+Insect damage (worm holes), cracks, losses to protruding elements (hair spikes, teeth, ears), and repairs with filler.
+Native repairs (metal clamps or staples across cracks made by the original owners) are accepted on genuine pieces and
+can support age (Zemanek-Münster lot 385); modern glue/filler repairs are not. Missing attachments (fibre, cowries,
+feathers) are common. Fake insect damage: shallow surface holes with no galleries behind them (general knowledge,
+verify).
 
 ## Fakes, reproductions and reissues
-Most masks are made to look old. The fake-patina industry is very large. Authentication requires collection history, a specialist dealer, or published provenance.
+Most masks are made to look old. The fake-patina industry is very large. Authentication requires collection history, a
+specialist dealer, or published provenance. Provenance that predates the large-scale reproductions of the second half of
+the 20th century gives confidence but does not authenticate on its own (buyafricanantiques.com). Museum, collector and
+dealer registration numbers, labels and auction/gallery stickers are tracked by specialists (Bruno Claessens database);
+a label can also be faked or transferred, so photograph it and treat it as a lead, not proof.
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
 |---|---|---|---|
-| Decor | Tourist masks, small to medium | $20–100 | estimate |
-| Good decor | Large well-carved, interesting form | $60–200 | |
+| Decor | Tourist masks, small to medium | $20–100 | estimate; Terapeak "carved wooden mask" median $53 |
+| Good decor | Large well-carved, interesting form | $60–200 | Terapeak Dan p75 $180, Baule p75 $110 |
 | Collector | Pre-1960 with collection history | $300–3,000 | authentication |
 | Top | Published/museum provenance | $5,000+ | auction houses |
 
@@ -34,16 +97,27 @@ No sold comps retrieved this run, and Lens returned no match.
 - 2026-10-13 – Terapeak 365d sold, query "Baule mask Ivory Coast" (top-tier variant): n=50, median $75, p25 $45, p75 $110 — e.g. $99.99 African Tribal Baule Goli Mask Yaoure (); $100.0 Vintage African Ivory Coast Baule Goli ()
 
 ## Market
-Decorative masks sell slowly. eBay is flooded. Days to sell: 30–90+.
+Decorative masks sell slowly. eBay is flooded. Days to sell: 30–90+. Buyers: decorators (want size, colour, drama) and
+a small collector market that buys only on provenance through specialist dealers and auctions (Zemanek-Münster, etc.).
 
 ## What sellers usually miss
-The real chance is pieces from mid-century collector estates with inventory labels or dealer tags (old collection numbers painted on the inside). Look for those.
+The real chance is pieces from mid-century collector estates with inventory labels or dealer tags (old collection numbers
+painted on the inside). Look for those. Also: published or auction-house stickers; native repairs (metal clamps); a
+documented purchase date (e.g. a 1950s–60s receipt or travel letter).
 
 ## Shipping / handling
-A ~16" mask needs a big box, $18–28.
+A ~16" mask needs a big box, $18–28. Wrap protruding parts (ears, horns, teeth, fibre) separately; no tape on the
+surface.
 
 ## Selling it (for the buyer-facing listing)
 Describe it honestly as "decorative" unless provenance exists. Give dimensions and photograph the inside and back.
+
+### What to tell the buyer
+"Hand-carved wooden mask in the [Cameroon Grassfields / Dan / Baule …] style, [H x W x D]. Sold as a decorative piece:
+no documented provenance or field-use history. Surface: [dark stained / painted / natural]. Inside: [clean / worn].
+Condition: [cracks, losses, insect holes]. Hanging: [loop / hook / needs a stand]." Never write "authentic", "tribal used"
+or "museum quality" without written provenance; if a collection number or label is present, photograph it and describe
+it literally ("number '1234' painted inside, origin unknown").
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$22 − ~$22 − price ≥ max($50, price). Decorative masks need resale ≥ ~$150 at a price ≤ $30. Any "authentic" claim needs professional authentication and is not a Dylan buy.

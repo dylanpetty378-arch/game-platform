@@ -81,6 +81,9 @@ Name the brewery, city and brand as printed, the item type and material (e.g. "t
 ## Buy rule
 Profit = sold × 0.87 − shipping each way − price ≥ max($50, price). Common coaster sets never qualify. No untested lighted signs. Must fit in a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): 1970s-80s 2-sided plastic "Nothin' but taste" Winston lighted signs (20x9 in) list around $50 working. Oversize shipping plus a ~$40-80 resale means pass.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "irregular",

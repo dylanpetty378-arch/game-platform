@@ -1,66 +1,143 @@
 # Ukuleles, 1920s–50s (Martin, Gibson, Kamaka, Kumalae, Harmony, Regal, Favilla, banjo ukes)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); sections below added from general knowledge
-Slug: vintage-ukuleles · Aliases: vintage ukulele, uke, old ukulele, Hawaiian ukulele, koa ukulele, banjo uke, banjolele, Martin uke
-Summary: Martin style 0–3 $400–2,000; Kamaka/Gibson $300–800; Harmony/Regal/Kumalae $60–200; banjo ukes $60–150
+Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · Sources: earlier sweep summary (index row only); general knowledge (marked); Kamaka official dating page https://kamakahawaii.com/support/dating-your-kamaka-uke/ ; UMGF "Dating Martin ukes" thread https://umgf.com/dating-martin-ukes-t4172.html ; 12th Fret Martin 1K listing https://shop.12fret.com/products/martin-style-1k-koa-body-soprano-ukulele-1927-1932 ; ukulele.org Vintage ʻUkulele Q&A https://ukulele.org/qa/page-1/ ; Retrofret Gibson UB-2 (1932) https://retrofret.com/products/gibson-ub-2-banjo-ukulele-1932-12505 ; Retrofret Gibson Uke-2 (1926) https://retrofret.com/products/gibson-uke-2-soprano-ukulele-1926-7897
+Slug: vintage-ukuleles · Aliases: vintage ukulele, uke, old ukulele, Hawaiian ukulele, koa ukulele, banjo uke, banjolele, Martin uke, pineapple uke, taropatch, Roy Smeck uke, Supertone uke
+Summary: Martin style 0–3 $400–2,000; Kamaka/Gibson $300–800; Harmony/Regal/Kumalae $60–200; banjo ukes $60–150 (top Gibson UB/Ludwig banjo ukes much more at dealer retail)
 Buy rule (short): Lots under $150 only if a Martin or Gibson headstock is visible
 
 ## What it is / how to recognise it in a photo
-Small 4-string instruments, soprano (~21") most common in this era, concert and tenor larger. Martin ukes have a
-"C.F. Martin & Co." stamp inside visible through the soundhole and on the back of the headstock; Gibson has a
-decal/silk-screen on the headstock; Kamaka's "pineapple" shaped body and a taro-patch decal; Kumalae and other Hawaiian
-makers have paper labels or brand stamps inside. Mass-made (Harmony, Regal, Lyon & Healy budget lines, Supertone) are
-birch or mahogany with painted/stencilled decoration. Banjo ukes have a round drum body with a skin head. Seller titles:
-"vintage ukulele", "old uke", "Hawaiian ukulele", "koa ukulele" (general knowledge, verify).
+Small 4-string instruments; soprano (~21" long, ~13.6–13.9" scale) is by far the most common size in this era, concert
+and tenor larger. Martin soprano: 13.622" scale, ~0.66 lb (12th Fret). Gibson soprano Uke-2: 20⅜" overall, 13¾" scale
+(Retrofret).
+
+Where the marks are:
+- **Martin**: "C.F. Martin & Co" stamp on the back of the headstock (with "Nazareth PA" on the 1K listing) and a stamp
+  inside visible through the soundhole. Front-of-headstock decal only from c.1930–32 onward (see dating below).
+  "Made in U.S.A." stamped inside from 1962 (UMGF). No serial numbers on vintage Martin ukes (UMGF; 12th Fret).
+- **Gibson**: logo on the front of the headstock — silver paint stencil "The Gibson" on 1920s ukes (Retrofret Uke-2);
+  slanted white script "Gibson" on early-1930s pieces (Retrofret UB-2).
+- **Kamaka**: interior labels and headstock "KK" decal (from 1958, per Kamaka); the oval "pineapple" body is a Kamaka
+  design patented 1928. (An earlier draft said Kamaka used a "taro-patch decal"; not confirmed by Kamaka's own dating
+  page — treat as unverified.)
+- **Kumalae and other Hawaiian makers**: decals (Kumalae's early decal shows the Territory of Hawaii seal) or paper labels
+  inside; many Hawaiian-made ukes carry a Hawaiian-made verification stamp on the back of the headstock (ukulele.org).
+- **Mass-made mainland** (Harmony, Regal, Lyon & Healy budget lines, Supertone): birch or mahogany, often with painted/
+  stencilled decoration; brand often only on a distributor label.
+- **Banjo ukes**: round drum body (rim) with a skin or plastic head; resonator back on better ones.
+
+Seller titles: "vintage ukulele", "old uke", "Hawaiian ukulele", "koa ukulele", "banjo uke", "banjolele".
+Look-alikes: modern Asian koa-look laminate sopranos, modern Martin/Kamaka (serialised), children's toy ukes, mandolins
+(8 strings) and tiples/taropatch (10 / 8 strings — still ukulele family).
 
 ## Makers, brands and variants
-(general knowledge, verify throughout)
-- **Martin** (1916–): Style 0 (plain mahogany), 1, 2, 3 (binding and inlay increase with number); 5K koa top; koa
-  versions bring more than mahogany; tiple and taropatch variants.
-- **Gibson**: Uke-1/2/3, banjo-ukes (UB series).
-- **Kamaka** (Honolulu, 1916–): pineapple ukes collectible.
-- **Kumalae**, **Nunes**, **Kamaka**, **Leonardo Nunes**: Hawaiian koa ukes.
-- **Lyon & Healy / Washburn**, **Favilla**, **Harmony**, **Regal**, **Supertone**, **Maccaferri** (plastic, 1950s).
-- **Banjo ukes**: Ludwig Wendell Hall, Gibson UB-2/3, Slingerland — some reach higher than the $60–150 band.
+- **Martin** (Nazareth PA, ukes from 1916): Style 0 (plain mahogany, no binding), Style 1, 2, 3 (binding and inlay
+  increase with the number; Style 3 has the most trim) — general knowledge, verify per piece. Koa versions carry a "K"
+  (0K/1K/2K/3K) and bring more than mahogany. Style 1K: solid koa top/back/sides, mahogany neck, Brazilian rosewood
+  fingerboard and body binding, ebony nut and saddle, made 1927 to early 1930s (12th Fret; ukulele.org). Style 5K is the
+  top all-koa model with pearl trim (general knowledge, verify). Tiple and taropatch variants exist. During WWII a few
+  hundred ukes (incl. concert models) got wooden pegs due to metal restrictions (ukulele.org).
+- **Gibson** (Kalamazoo MI): Uke-1 (plain), Uke-2 (midline: mahogany, triple-bound top, half-herringbone soundhole ring,
+  3-dot inlay), Uke-3 (ornate); the line debuted in 1926 (Retrofret). Banjo ukes UB series: UB-2 first shown in the 1926
+  catalogue; early examples plain mahogany with unbound necks, pearl inlay added a year or two later; listed at $18 in
+  the 1933–34 catalogue; 8" rim, laminated maple rim, flat-plate resonator (Retrofret). A sopranino UB-1 also exists
+  (12th Fret listing title).
+- **Kamaka** (Honolulu, ukes since 1916): pineapple uke created by Samuel K. Kamaka Sr., design patent filed 1927, granted
+  Jan 3 1928 (D74,178), giving Kamaka 14 years' exclusivity (Kamaka). Collectible, esp. 1920s–50s pineapples.
+- **Kumalae** (Honolulu): early decal c.1916–1920; Model D inlaid koa (Sherman Clay "model 24"); Model E top of line
+  c.1920–early 1930s (ukulele.org).
+- **Other Hawaiian**: Nunes (Manuel and Leonardo Nunes), Aloha Ukulele Mfg. Co. (1917–1935, builder Tai Chong Goo
+  "Akai", unusual headstock), Hawaiian Mahogany Co. (Royal Hawaiian, Echo), Paul Summers (distributor; "Moana" decal)
+  (ukulele.org).
+- **Lyon & Healy / Washburn** (Chicago): Washburn was the best line; Model 5316 "Collegian" stamped on the neck block,
+  figured mahogany, c.1926–28; "The Venetian" teardrop, 1920s only (ukulele.org).
+- **Harmony** (Chicago): made many brands for others, including Sears **Supertone**. Pyralin ("mother of toilet seat")
+  fretboards; all-mahogany models are their better ukes; Roy Smeck models (painted-wood fingerboard c.1954, plastic
+  fingerboard from 1958) (ukulele.org).
+- **Regal** (Chicago): scroll stencil, fretboard markers, fretboard-extension decal; mostly budget/mid, 1920s–30s
+  (ukulele.org).
+- **Distributor brands** that hide the maker: B&J "Serenader" (1926–) and "The Mele" (mostly Harmony or Regal), SS
+  Maxwell (Targ & Dinner, 1931), BL&F; New York makers Favilla, Gretsch, Epiphone, Oscar Schmidt (ukulele.org).
+- **Maccaferri** plastic ukes (1950s).
+- **Banjo ukes**: Ludwig Wendell Hall Professional (late 1920s–c.1930; $25 new in the 1920s, ukulele.org), Gibson UB-2/3,
+  Slingerland — some reach well above the $60–150 band.
+
+Value movers: maker (Martin/Gibson/Kamaka) > koa vs mahogany > style number/trim > originality (tuners, finish) > cracks.
+
+### Quick ID checklist
+- Back of headstock: "C.F. Martin & Co" stamp? (Martin; with no front decal = likely pre-1930.)
+- Through the soundhole: Martin stamp, Kamaka gold or white label, Kumalae/Hawaiian decal or stamp, "Made in U.S.A." (Martin 1962+).
+- Front of headstock: "The Gibson" silver stencil (1920s) or white script "Gibson" (1930s); "KK" decal (Kamaka 1958+).
+- Body shape: oval "pineapple" = Kamaka design (or copy); round drum = banjo uke (check resonator and head).
+- Wood: golden, curly koa vs reddish-brown mahogany vs pale birch with painted stencil (budget).
+- Tuners: wooden friction pegs (pre-1927 Martin, or WWII) vs patent friction tuners; mismatched tuners = replaced.
+- Frets: bar frets (Martin before ~1934) vs T-frets.
+- Binding: none (Martin 0), rosewood (1K), multiple/ivoroid (higher styles); Pyralin "pearloid" boards = Harmony-type budget.
+- Cracks on top/back near the soundhole and lower bout; lifting bridge.
 
 ## Materials, finishes and quality tells
-Koa (curly, golden-brown) and mahogany for the good ones; birch, spruce or plastic for budget. Wooden friction pegs
-were original on many; geared tuners may be replacements. Thin, even nitrocellulose finish with checking is original;
-thick shiny finish suggests refinish (general knowledge, verify).
+Koa (curly, golden-brown) and mahogany for the good ones; birch, spruce or plastic for budget. Wooden friction pegs were
+original on many early ukes; Martin changed from wooden pegs to patent tuners in 1927 (UMGF; 12th Fret). Original tuner
+knob styles help date only if they are original. Martin used bar frets until c.1934, then T-frets; Brazilian rosewood
+binding before ~1934 and faux-tortoise after (12th Fret). Martin dating ladder (UMGF): back stamp only, no front decal =
+pre-1930; decal + back stamp = c.1930–32 (Depression-era overlap possible); script logo/silkscreen 1932–34; back stamp gone
+by ~1935. Kamaka labels (Kamaka): occasional interior date stamps 1916–1975; gold interior label "Kamaka Ukulele" red and
+black with KK headstock decal from 1958 (the page also groups it under 1954–69); smaller white label 1969–2000; "Samuel
+Kamaka, Luthier" label on customs 1978–2000; 85th-anniversary label and pearl KK headstock from June 2000.
+
+Thin, even nitrocellulose finish with fine checking is original; thick shiny finish suggests refinish (general
+knowledge, verify). Mainland construction tells: a two-piece neck or no heel cap often means mainland, while
+Hawaiian-made ukes are usually koa with the headstock verification stamp (ukulele.org). Solid wood shows matching grain
+inside and out through the soundhole; laminate shows a different inner ply.
 
 ## Condition, damage and repairs
-Top and back cracks (very common), lifting bridges, loose braces, worn frets, replaced tuners, refinishes. Cleated crack
-repairs are accepted; refinishing hurts collector value. Ask for photos inside the soundhole (stamp/label), of the
+Top and back cracks (very common; Martin's original snap-closing gig bags can crack bodies, per ukulele.org), lifting
+bridges, loose braces, worn frets, fingerboard divots, replaced tuners, refinishes. Cleated crack repairs are accepted;
+refinishing hurts collector value. Banjo ukes: torn heads, worn plating, missing hooks/resonator, warped necks; the
+co-ordinator rod adjusts neck angle on Gibson UBs (Retrofret). Ask for photos inside the soundhole (stamp/label), of the
 bridge, and of the back of the headstock (general knowledge, verify).
 
 ## Fakes, reproductions and reissues
-Martin and Kamaka still make ukes — modern ones have serial numbers and modern labels; "Martin-style" copies and modern
-Asian koa-look laminates are common (general knowledge, verify).
+Martin and Kamaka still make ukes — modern ones have serial numbers and modern labels (current US-made Martin 5K and
+"Daisy" models are serialised, per UMGF); "Martin-style" copies and modern Asian koa-look laminates are common. Distributor
+labels can be misleading, not fake: a "Hawaiian" decal on a mainland-made uke was common in the 1920s (general knowledge,
+verify). Married tuners and replaced bridges are the usual "not original" issue.
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
 |---|---|---|---|
 | Junk / common | Harmony, Regal, plastic Maccaferri, generic | $60–200 | Harmony/Regal/Kumalae band per the index row |
-| Decent | Banjo ukes | $60–150 | |
-| Collectible | Kamaka, Gibson | $300–800 | |
-| Top | Martin style 0–3 | $400–2,000 | |
+| Decent | Banjo ukes | $60–150 | common makers; Gibson UB-2 dealer retail ~$1,650 (Retrofret, sold) |
+| Collectible | Kamaka, Gibson | $300–800 | Gibson Uke-2 1926 dealer retail $950 (Retrofret, sold) |
+| Top | Martin style 0–3 | $400–2,000 | Martin 1K dealer retail CAD $800 sale price (12th Fret) |
 
 ## Comps (sold, dated)
 - None yet — research still to do.
+- Dealer retail references (not eBay comps): Retrofret Gibson UB-2 c.1932, listed $1,650, marked sold; Retrofret Gibson
+  Uke-2 c.1926, listed $950, marked sold; 12th Fret Martin 1K 1927–32, CAD $800 sale (reg. CAD $1,000), consignment.
 
 ## Market
-Players and collectors; Reverb and eBay are the main venues. Martin ukes are liquid; mass-made ones are slow
-(general knowledge, verify).
+Players and collectors; Reverb and eBay are the main venues; specialist dealers (Retrofret, 12th Fret) set the top end.
+Martin ukes are liquid; mass-made ones are slow (general knowledge, verify).
 
 ## What sellers usually miss
-The Martin stamp inside the soundhole and Hawaiian maker labels; koa vs mahogany (general knowledge, verify).
+The Martin stamp on the headstock back and inside the soundhole; Hawaiian maker labels; koa vs mahogany; a plain-looking
+brown banjo uke that is actually a Gibson UB or Ludwig (check the headstock decal and resonator); Kamaka gold label =
+1950s–60s.
 
 ## Shipping / handling
-Light (2–4 lb boxed), but fragile; needs a box with padding, ~$15–25 (general knowledge, verify).
+Light (2–4 lb boxed), but fragile; needs a box with padding, ~$15–25 (general knowledge, verify). Loosen strings
+slightly, pad the headstock, and support the neck.
 
 ## Selling it (for the buyer-facing listing)
 State maker, model/style, wood, approximate year, cracks and repairs, tuners original or replaced, playable or not.
 Photograph soundhole stamp/label, headstock front and back, bridge, and any cracks. Title: maker, style, wood, era,
 "vintage ukulele", "soprano".
+
+### What to tell the buyer
+"Vintage [maker] [style/model] soprano ukulele, [wood: solid koa / mahogany], c.[year range]. Dated by [back-of-headstock
+stamp / no front decal / bar frets / label type]. Martin did not serialise ukuleles in this era, so dating is by features.
+Tuners are [original friction / later replacement]. Condition: [cracks and whether cleated], [frets], [finish original
+or refinished]. Plays [in tune / with buzz at …]. Scale [x]", overall [x]". Case [included/not]." Only state a maker if a
+stamp, decal or label is shown in the photos.
 
 ## Buy rule
 Lots under $150 only if a Martin or Gibson headstock is visible. Profit must be ≥ max($50, price) after ~13% fees and

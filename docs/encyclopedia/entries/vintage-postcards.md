@@ -46,6 +46,9 @@ Scan front/back, era, publisher number, posted/unposted, location.
 ## Buy rule
 Profit = sold × 0.87 − $5 − $5 − price ≥ max($50, price). Tourist-view lots never qualify. A lot containing identifiable RPPC main-street or holiday cards at ≤ $20 might; ask for back photos.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Lens AI on a table-spread postcard lot gives no value signal; count cards in photo and compare to $0.25/card rule before asking.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.3, "shape": "set-of-many",

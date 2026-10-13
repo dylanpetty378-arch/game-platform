@@ -57,6 +57,9 @@ State maker, exact caliber, number of dies, shell holder included, bore conditio
 ## Buy rule
 Profit = median × 0.87 − ship (~$12) − ship to Dylan (~$12) − price ≥ max($50, price). Single common die sets never work. Targets: obsolete-caliber sets/tong tools with $80–150 medians bought ≤ ~$25–40, or mixed estate lots ≤ $60 containing several odd calibers, split into separate listings. Rock Chucker press: only ≤ $40 with local pickup. Reject lots containing powder/primers/ammo unless the seller removes them.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Redding/Weatherby reloading dies show up in the same reseller's lots at online asking prices ($45-60). No margin.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "set-of-many",

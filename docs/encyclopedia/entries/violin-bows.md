@@ -79,6 +79,9 @@ straight, price ≤ $150. Pass when: no stamp visible, brazilwood colour, plasti
 frog (Parisian eye, metal winding) but no stamp photographed – ask for one photo before deciding. Profit must be ≥
 max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): weighing a bow on a kitchen scale (about 48-50 g for a violin bow) is common in CL photos. Weight alone doesn't show maker; ask for the stamp area just above the frog.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 1, "shape": "tall", "fragility": 3, "transit_damage_risk": 2, "hidden_defect_risk": 4, "testability": 5, "repro_risk": 4, "id_difficulty": 5, "rarity": 3, "sold_per_month": 400, "sell_through": "?", "days_to_sell": 30, "price_p25_p50_p75": [40, 120, 300], "price_spread": 7.5, "condition_sensitivity": 4, "seasonality": "none", "best_platform": "eBay; Tarisio/Brompton's for stamped bows", "fees_pct": 13, "ship_cost_to_buyer": 12, "undervalue_frequency": 3, "bust_probability": 40, "expected_profit_typical": 30, "confidence": "medium"}

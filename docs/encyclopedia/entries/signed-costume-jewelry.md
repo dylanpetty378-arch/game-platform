@@ -78,6 +78,9 @@ Title: "Vintage Signed [Maker] [form] [stones/colour] [era]", e.g. "Signed Sherm
 ## Buy rule
 Buy when: a Boucher/Eisenberg/Hobé/HAR/Schiaparelli/Haskell signature is visible and the price is ≤ 30% of tier, or Sherman parures are under $50. Pass when: Avon/Coventry/Monet lots, unsigned rhinestone "lots", or front-only photos. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): teal/AB dangle clip earrings in the D&E/Juliana style show up unsigned. Juliana is never signed, so value depends on construction tells (open backs, figure-8 links), and front-only photos aren't enough.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.3, "shape": "set-of-many", "fragility": 2, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 3, "repro_risk": 3, "id_difficulty": 4, "rarity": 2, "sold_per_month": 5000, "sell_through": 40, "days_to_sell": 21, "price_p25_p50_p75": [40, 90, 180], "price_spread": 4.5, "condition_sensitivity": 4, "seasonality": "Q4 gifting", "best_platform": "eBay; Etsy", "fees_pct": 13, "ship_cost_to_buyer": 5, "undervalue_frequency": 3, "bust_probability": 25, "expected_profit_typical": 40, "confidence": "medium"}

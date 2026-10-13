@@ -95,6 +95,10 @@ Buy when (any of):
 - cult compact or pro body ≤ 35% of sold; cult point & shoots under $100; beercan + body ≤ $25; medium format under $200.
 Pass when: AF plastic SLRs, disc/110, Polaroid 600 at any price > $10; anything "doesn't fire"; "untested"/"as is" bodies over $40 and untested electronic bodies; "sticky"; mirror/seal issues; any fungus/haze visible; single common bodies (SRT, AE-1, K1000) at $70+ (or seller already at $75+ / eBay level); Kodak folders; pickup-only; bodies without lenses; point-and-shoots not on the stop list. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): A typical estate camera lot is 9 untested bodies for $100 (Pentax ME + 3rd-party 28mm, Zeiss Contaflex, Samoca LE, Argus C3, Kodak 35, folders, box cameras). It has no fast prime or collectible body, so it's worth roughly $150 split up and it's a pass above about $40.
+- 2026-10-13 (triage): Yashica Electro 35 GSN often listed only as "Yashica 35mm rangefinder ... DX 45mm f/1.7"; the f/1.7 Yashinon-DX 45mm = Electro 35 GSN/GTN. Untested, not worth >$40.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "irregular", "fragility": 3, "transit_damage_risk": 2, "hidden_defect_risk": 4, "testability": 4, "repro_risk": 2, "id_difficulty": 3, "rarity": 1, "sold_per_month": "?", "sell_through": "? (strong per write-ups)", "days_to_sell": 14, "price_p25_p50_p75": [60, 120, 200], "price_spread": 3.3, "condition_sensitivity": 4, "seasonality": "Nov-Dec gift peak (general knowledge)", "best_platform": "eBay (KEH/MPB for fast exit)", "fees_pct": 13, "ship_cost_to_buyer": 14, "undervalue_frequency": 3, "bust_probability": 35, "expected_profit_typical": 10, "confidence": "medium"}

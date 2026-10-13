@@ -76,6 +76,9 @@ Buy when: Japan/Marx/Schuco marked, working, at ≤ 35% of sold value; or any ro
 Pass when: Taiwan/China 1970s+; non-working battery toys; priced at ≥ 60% of sold.
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Private sellers price a 1929 Kalon "Popeye Daily Dime Register" tin bank at ~$45 and a 1980 Corgi Popeye boat or plane at ~$35. Neither clears the $50 floor without a sold comp. Pass unless the bank is under $15.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "irregular", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 3, "id_difficulty": 3, "rarity": 3, "sold_per_month": 3000, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [30, 70, 150], "price_spread": 5, "condition_sensitivity": 4, "seasonality": "Q4 peak", "best_platform": "eBay; Morphy/Milestone auction for robots", "fees_pct": 13, "ship_cost_to_buyer": 15, "undervalue_frequency": 3, "bust_probability": 40, "expected_profit_typical": 10, "confidence": "medium"}

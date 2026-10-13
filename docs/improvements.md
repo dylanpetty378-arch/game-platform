@@ -26,6 +26,29 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (12:00–12:40) — triage round 5, 48 more entries deepened, field notes
+- Triage: 347 rows (208 lensed + 139 flagged), 4 agents. 343 kills, 4 asks, 0 buys.
+  - Postcards: 65 cards for $35; needs the card count and the number of RPPCs.
+  - Snap-on/Blackhawk tool tote: $50, pickup only.
+  - Violin bow: $75; needs a maker stamp.
+  - 3 USN officer cap badges: $10; ask whether they are sterling.
+  None clears the rule without the seller's answer.
+- Recurring lesson: multi-item posts price each piece in the body, so the title price is the cheapest piece. Read the
+  body before the photo. Dealer tells now recorded in the original-art field notes.
+- Deepened entries: 48 more (96 in total). Corrections:
+  - Real Ainsworth Bruntons are aluminium; brass ones are usually Indian replicas. Our open Brunton lead is aluminium,
+    so it is fine.
+  - The Shure "Elvis" mic is the 55S.
+  - The Pioneer RT-707 takes 7" reels only.
+  - Post-1963 Buescher Aristocrat saxophones are Selmer-era student horns.
+  - Yamaha green-label guitars are 1966–67 Japan-only.
+  - Heywood-Wakefield "Amber" is the post-1992 finish.
+  - Delta Electric ran 1913–78.
+  - Nikon AI-S is identified by the bayonet notch.
+- New `## Field notes (learned in triage)` section added: 14 facts filed. 22 facts for types with no entry went to
+  research/new-type-candidates.md (brass instruments, reloading dies, tennis rackets, industrial gauges, soapstone foo
+  dogs…).
+
 ### 2026-10-13 (11:55) — FIX: harvest runs failed at push
 - The 11:31 harvest built `research/type_model.json` but the commit step only staged `db q STATUS.md status.json`.
   The unstaged file broke `git pull --rebase`, so the whole harvest was lost. Health showed a FAIL (0/5 runs ok;

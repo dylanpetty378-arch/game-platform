@@ -62,6 +62,9 @@ Title: "Snap-on [part number] [description] [set count] USA", e.g. "Snap-on SGDX
 ## Buy rule
 Buy when: a 12 pc screwdriver set is under $60, ratchets are under $25, or sockets by the tray are under 30% of eBay. Pass when: new-in-box sets priced at retail ($200), or boxes needing freight unless local. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (roll cabs and top+bottom combos are excluded).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): "Lot of Snap-on/Mac/Blackhawk" pickup-only totes mix stamped Snap-on combo/crowsfoot wrenches with rusty no-name filler; count the stamped pieces before valuing, the db comp "snap-on wrench lot" sold median is only $40 (p75 $154).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 5, "shape": "set-of-many", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 3, "id_difficulty": 1, "rarity": 1, "sold_per_month": 5000, "sell_through": 60, "days_to_sell": 7, "price_p25_p50_p75": [40, 90, 180], "price_spread": 4.5, "condition_sensitivity": 2, "seasonality": "Feb–Apr slightly stronger (tax refunds)", "best_platform": "eBay; FB Marketplace for boxes (local)", "fees_pct": 13, "ship_cost_to_buyer": 15, "undervalue_frequency": 2, "bust_probability": 20, "expected_profit_typical": 20, "confidence": "medium"}

@@ -82,6 +82,9 @@ Run `python3 scripts/review_helpers.py --flagged`.
 - For asks: draft the seller message. Never send anything without Dylan's OK on that specific message.
 
 ## 6. Learn and improve
+- Triage agents write `slug: fact` lines to knowledge_<part>.md. These go into the entry's `## Field notes (learned in
+  triage)` section, placed before `## Rubric`. Facts for types with no entry go to `research/new-type-candidates.md`, which
+  feeds the next batch of new entries. Run `enc.py add --replace` BEFORE adding field notes, because replace overwrites them.
 - Run `enc.py index && enc.py sync`.
 - Put anything that would make this faster or better in `docs/improvements.md`, and make small safe fixes now.
 - Commit `db/ docs/ scripts/ research/` only. Never commit `q/`, `STATUS.md` or `status.json`; the bot owns them.

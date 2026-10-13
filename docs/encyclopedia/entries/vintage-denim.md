@@ -66,6 +66,9 @@ Give actual flat measurements (waist, rise, inseam, leg opening), tag size, era 
 ## Buy rule
 Profit = sold median × 0.87 − ~$8 shipping to buyer − ~$8 to Dylan − price ≥ max($50, price). Common USA-made 501s ($50 sold) never qualify. Buy when photos or seller answers show a capital-E tab, redline selvedge, single-stitch pockets or 1960s–70s labels, price ≤ $40 (resale must be ≥ $110). Ask the seller for tab, cuff-turned and care-tag photos before buying anything that looks old. Pass on paper-patch 1990s–2000s 501s, women's and stretch.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): Wrangler jackets in "boys lots" are kids sizes (e.g. boys 14) - drop value to ~$20-30 even when Made in USA tag visible.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "flat",

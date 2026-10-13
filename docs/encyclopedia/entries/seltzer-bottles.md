@@ -51,6 +51,9 @@ Brand, country, glass color, height, mesh condition, whether valve operates (do 
 ## Buy rule
 Resale must be ≥ ~$95 at $15 cost for profit ≥ $50 (0.87 × 95 − 18 − 18 − 15 ≈ $32 - still short), so realistically only colored-glass, etched bottler cobalt or boxed Soda King sets reach Dylan's threshold. Plain clear Sparklets: pass unless ≤ $10 and part of a bundle.
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): some sellers price each colored siphon at $85, which is about 3x the entry buy cap.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "tall",

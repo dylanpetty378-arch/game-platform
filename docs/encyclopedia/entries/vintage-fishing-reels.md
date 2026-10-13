@@ -79,6 +79,9 @@ Buy when: a lot with a visible Ambassadeur/Penn Senator/Newell is under $30; a c
 Pass when: the seller lists per-reel market prices; rods are described as "ends/sections".
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (a 60" rod tube fits lengthwise).
 
+## Field notes (learned in triage)
+- 2026-10-13 (triage): A Garcia Mitchell 300 box and manual without the reel shows up as "Old mitchell reel" at $60. Check the photo for an actual reel before reading the title as a reel.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 3, "shape": "irregular", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 2, "id_difficulty": 3, "rarity": 2, "sold_per_month": 5000, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [20, 60, 150], "price_spread": 7.5, "condition_sensitivity": 3, "seasonality": "spring (Mar–Jun) peak", "best_platform": "eBay; Lang's auction for antique reels", "fees_pct": 13, "ship_cost_to_buyer": 12, "undervalue_frequency": 2, "bust_probability": 40, "expected_profit_typical": 10, "confidence": "medium"}
