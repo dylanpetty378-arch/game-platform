@@ -1304,3 +1304,7 @@
 {"site":"terapeak","query":"Oregon City Woolen Mills blanket","purpose":"type research: pendleton-blankets","results":10,"run":"terapeak-wave2b","ts":"2026-10-13T09:51:15Z"}
 {"site":"terapeak","query":"Make-a-Face Pez","purpose":"type research: pez-dispensers","results":7,"run":"terapeak-wave2b","ts":"2026-10-13T09:51:15Z"}
 {"site":"terapeak","query":"Pez Regular","purpose":"type research: pez-dispensers","results":49,"run":"terapeak-wave2b","ts":"2026-10-13T09:51:15Z"}
+{"site":"terapeak","query":"Gibson J-45 acoustic guitar","purpose":"clean re-query: acoustic-guitars","results":47,"run":"tp-clean-20261013","ts":"2026-10-13T09:52:50Z"}
+{"site":"terapeak","query":"Martin D-18 acoustic guitar","purpose":"clean re-query: acoustic-guitars","results":49,"run":"tp-clean-20261013","ts":"2026-10-13T09:52:50Z"}
+{"site":"terapeak","query":"vintage neon beer sign","purpose":"clean re-query: beer-neon-signs","results":44,"run":"tp-clean-20261013","ts":"2026-10-13T09:52:50Z"}
+{"site":"terapeak","query":"KEF LS3/5A speakers pair","purpose":"clean re-query: bookshelf-speakers","results":0,"run":"tp-clean-20261013","ts":"2026-10-13T09:52:50Z"}

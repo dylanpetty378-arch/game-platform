@@ -64,6 +64,8 @@ Chinese counterfeit Martins/Gibsons ("Chibson") exist; check serials and constru
 - 2026-10-13 – Terapeak 365d sold, query "Martin D-18 acoustic guitar" (top-tier variant): n=50, median $1849, p25 $485, p75 $2359 — e.g. $37.05 NOS Genuine Martin D 28 18 Beveled Tor (); $21.03 NOS Genuine Martin Black Beveled Dread ()
 - 2026-10-13 – Terapeak 365d sold, query "Gibson J-45 acoustic guitar" (top-tier variant): n=49, median $23.99, p25 $18.76, p75 $1654.99 — e.g. $13.24 Fire Stripe Tortoise Vintage Guitar Pi (); $15.13 Red Tortoise Shell Vintage Guitar Pick ()
 - Data caution: the "acoustic guitars", "Martin D-18" and "Gibson J-45" Terapeak lines are polluted by parts and accessories (pickguards, picks, antennas); the J-45 median $23.99 and the D-18 p25 $485 are not guitar prices. Use only guitar-only filtered sold searches for those models.
+- 2026-10-13 – Terapeak 365d sold, CLEAN re-query "Gibson J-45 acoustic guitar" (min $400, parts/picks/Epiphone excluded): n=47, median $1680, p25 $1225, p75 $1852 — supersedes the contaminated J-45 line above (which was picks/pickguards).
+- 2026-10-13 – Terapeak 365d sold, CLEAN re-query "Martin D-18 acoustic guitar" (min $400, parts excluded): n=49, median $1995, p25 $1700, p75 $2550 — supersedes the contaminated D-18 line. Both are far above $200, so a Craigslist one at ≤$200 is almost certainly a copy/lawsuit-era Japanese or a misidentified Epiphone/Recording King; verify the headstock and the label through the soundhole.
 
 ## Market
 Huge liquid market; budget models sell but cheaply. Reverb is better for $200+.

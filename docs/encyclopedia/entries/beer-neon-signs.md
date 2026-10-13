@@ -56,6 +56,7 @@ Also: Terapeak results for vintage brand names include new LED "neon" signs — 
 - 2026-10-13 – Terapeak 365d sold, query "Hamm's neon sign" (top-tier variant): n=50, median $128.2, p25 $113.39, p75 $142 — e.g. $131.31 16 Hamm s Beer Bear Sign Neon Clock Ga (); $191.11 Hamm s Beer Since 1865 Wall 24 x20 Viv ()
 - 2026-10-13 – Terapeak 365d sold, query "Lone Star beer neon" (top-tier variant): n=50, median $127.98, p25 $116.8, p75 $185 — e.g. $44.22 16 x15 Lone Star Beer Shield LED Neon (); $110.82 New Texas Lone Star Neon Light Sign 17 ()
 - Note: both Terapeak medians (~$128) sit below the $200–500 "Collectible" tier because the queries mix in new LED and reproduction signs; the tier figure applies to verified 1950s–70s originals (general knowledge, verify).
+- 2026-10-13 – Terapeak 365d sold, "vintage neon beer sign" (min $50, LED/new excluded): n=44, median $134, p25 $122, p75 $208 — STILL dominated by new 'vintage style' imported glass-tube signs (Lizard, Shark, Voodoo Ranger…). The ~$120–135 band is the NEW-sign price; genuine 1970s–90s brewery-issued neons (Everbrite/Lakeshore/Neon Products transformer label, brewery copyright date) need a brand+model query.
 
 ## Market
 Bar/man-cave decorators; very common supply. Best sold locally (Facebook Marketplace/Craigslist) because shipping is risky (general knowledge, verify). Gift-season demand may lift prices in Nov–Dec (general knowledge, verify).

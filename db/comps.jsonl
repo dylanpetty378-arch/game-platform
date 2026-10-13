@@ -1158,3 +1158,6 @@
 {"type":"pendleton-blankets","query":"Oregon City Woolen Mills blanket","source":"terapeak-365d","prices":[],"median":125.0,"n":10,"pid":null,"run":"terapeak-wave2b","note":"{\"p25\": 47.0, \"p75\": 340.0, \"top\": []}","ts":"2026-10-13T09:51:15Z"}
 {"type":"pez-dispensers","query":"Make-a-Face Pez","source":"terapeak-365d","prices":[],"median":152.5,"n":7,"pid":null,"run":"terapeak-wave2b","note":"{\"p25\": 10.99, \"p75\": 493.0, \"top\": []}","ts":"2026-10-13T09:51:15Z"}
 {"type":"pez-dispensers","query":"Pez Regular","source":"terapeak-365d","prices":[],"median":14.99,"n":49,"pid":null,"run":"terapeak-wave2b","note":"{\"p25\": 11.0, \"p75\": 18.32, \"top\": []}","ts":"2026-10-13T09:51:15Z"}
+{"type":"acoustic-guitars","query":"Gibson J-45 acoustic guitar","source":"terapeak-365d","prices":[],"median":1680,"n":47,"pid":null,"run":"tp-clean-20261013","note":"parts/accessories excluded","ts":"2026-10-13T09:52:50Z"}
+{"type":"acoustic-guitars","query":"Martin D-18 acoustic guitar","source":"terapeak-365d","prices":[],"median":1995,"n":49,"pid":null,"run":"tp-clean-20261013","note":"parts/accessories excluded","ts":"2026-10-13T09:52:50Z"}
+{"type":"beer-neon-signs","query":"vintage neon beer sign","source":"terapeak-365d","prices":[],"median":133.95,"n":44,"pid":null,"run":"tp-clean-20261013","note":"parts/accessories excluded","ts":"2026-10-13T09:52:50Z"}
