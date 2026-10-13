@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:32:02Z",
+ "updated": "2026-10-13T03:35:21Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1204,
-  "events": 6453,
+  "lens": 1229,
+  "events": 6478,
   "comps": 12,
   "item_types": 169,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3437,
-  "lensed": 460,
+  "queued": 3412,
+  "lensed": 481,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 83
+  "flagged": 87
  },
  "last_harvests": [
   {
@@ -223,6 +223,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928667804",
+   "title": "VINTAGE KINGSTON ELECTRIC GUITAR NECK",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/long-beach-vintage-kingston-electric/raUKzKqx2NsT5vg9XLyZAo",
+   "best": "EDIT***** So I recieved my used Leo Jaymz neck today and I'm ...",
+   "med": 499,
+   "ratio": 24.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7953945971",
    "title": "Antique slag lamp marble base",
    "price": 100,
@@ -410,6 +421,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948155178",
+   "title": "Vintage Gold-Tone and Pearl Drop Earrings",
+   "price": 54,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/vintage-gold-tone-and-pearl-drop/aCmMdoVStnyBau1QXogSKN",
+   "best": "Vintage Goldtone Drop Pierced Earrings Faux Pearl Bead ...",
+   "med": 420,
+   "ratio": 7.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7967511966",
    "title": "Lot of Antique Lighting",
    "price": 125,
@@ -539,6 +561,17 @@
    "best": "Adamantine Clock | eBay",
    "med": 400,
    "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948645824",
+   "title": "Malacca antique wall tiles framed",
+   "price": 75,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-malacca-antique-wall-tiles/6K1rdCE8TvPRu6cmgXRsvA",
+   "best": "Wood Picture Frame With Handmade Marbled Paper Passe-partout ...",
+   "med": 413,
+   "ratio": 5.51,
    "ai_value": ""
   },
   {
@@ -903,6 +936,17 @@
    "med": 180,
    "ratio": 1.8,
    "ai_value": "Value: Complete sets typically sell between $150"
+  },
+  {
+   "pid": "7941371676",
+   "title": "Antique Persian Qajar Polychrome Ceramic Tile",
+   "price": 200,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-antique-persian-qajar/nbA7wKeHEQog4CzXv3QPLB",
+   "best": "Las mejores ofertas en Porcelana y Cer\u00e1mica 1900-1940 ...",
+   "med": 350,
+   "ratio": 1.75,
+   "ai_value": ""
   },
   {
    "pid": "7964172171",
