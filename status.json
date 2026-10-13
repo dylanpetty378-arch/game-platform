@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:38:20Z",
+ "updated": "2026-10-13T17:39:53Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6428,
-  "events": 21498,
+  "lens": 6453,
+  "events": 21523,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 197,
+  "lensed": 206,
   "comps/pass": 1,
-  "queued/relens": 170,
+  "queued/relens": 177,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 235,
+  "flagged": 244,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 425
+  "queued": 400
  },
  "last_harvests": [
   {
@@ -372,6 +372,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954163835",
+   "title": "Pretty Rings",
+   "price": 55,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/katy-pretty-rings/5DdHahw8ohTtvvmEGdkFuP",
+   "best": "Buy BIG 75+ Carat Cushion Cut Solitaire Party Cz Ring Vivid ...",
+   "med": 176000,
+   "ratio": 3200,
+   "ai_value": ""
+  },
+  {
    "pid": "7957667393",
    "title": "Lots of different stuff",
    "price": 26,
@@ -446,6 +457,17 @@
    "best": "Vtg Hats Lot 20 Mix Baseball Sports Resale Wholesale Golf ...",
    "med": 47,
    "ratio": 47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949107390",
+   "title": "Vintage Metal Christmas Tree Stand",
+   "price": 20,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-vintage-metal-christmas-tree/kaWwEJWngrrETo6vwNPXwR",
+   "best": "VTG Metal Live Christmas Tree Stand Water Reservoir White 27 ...",
+   "med": 850,
+   "ratio": 42.5,
    "ai_value": ""
   },
   {
@@ -757,6 +779,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967367567",
+   "title": "VINTAGE COSTUME BRACELET AND EAR RINGS",
+   "price": 40,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-vintage-costume-bracelet/9xkEU9WunPPKZEpZVdo8jY",
+   "best": "Vintage Kramer of New York Rhinestone Bangle Bracelet and ...",
+   "med": 370,
+   "ratio": 9.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7970415882",
    "title": "ONIDA Silver Platter",
    "price": 25,
@@ -1021,6 +1054,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951643895",
+   "title": "Vintage  Flying V  Soft Case",
+   "price": 35,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/painesville-vintage-flying-soft-case/dr1Nkph6XEBzyFZCdVTaDB",
+   "best": "Performer\u2122 Shaped Flying V\u00ae Style Guitar Hardshell Case - TKL",
+   "med": 195,
+   "ratio": 5.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7974511815",
    "title": "Cuff links vintage",
    "price": 15,
@@ -1028,6 +1072,17 @@
    "url": "https://www.craigslist.org/view/d/kew-gardens-cuff-links-vintage/ijeWcL3qWyuTr2pK5MCrtr",
    "best": "eBay",
    "med": 75,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939106306",
+   "title": "Blue/Red Turquoise Necklace",
+   "price": 50,
+   "area": "augusta",
+   "url": "https://www.craigslist.org/view/d/macon-blue-red-turquoise-necklace/1yALkeVncefeWapMXrvn4Z",
+   "best": "Vintage Turquoise, Spiny Oyster, Heishi and Sterling Silver ...",
+   "med": 250,
    "ratio": 5,
    "ai_value": ""
   },
@@ -1879,6 +1934,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937725047",
+   "title": "Swiss Made Men\u2019s Mechanical Wind Vintage Watch",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/woodbridge-swiss-made-mens-mechanical/wUMzonKd6nsUoKjNfZTNPH",
+   "best": "Cl\u00e1sico LE JOUR Reloj suizo vintage para hombre 17 joyas ...",
+   "med": 101,
+   "ratio": 2.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7973268582",
    "title": "Antique Musky Bait Burmek",
    "price": 60,
@@ -1989,6 +2055,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943760949",
+   "title": "Alpaca Mexico Earrings",
+   "price": 15,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-alpaca-mexico-earrings/ocDY2mFNVuuNVekFsoJASd",
+   "best": "Assymetrical, Retro, Art-deco, Black and Silver, Upcycled CD ...",
+   "med": 28,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7933954165",
    "title": "Vintage JFK Pocket Watch",
    "price": 50,
@@ -2074,6 +2151,17 @@
    "best": "Auctionet",
    "med": 115,
    "ratio": 1.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941598132",
+   "title": "Vintage Handmade Pottery Vase",
+   "price": 60,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-handmade-pottery/hTRAJD9L8agQbKHDL5nR6S",
+   "best": "Vintage Handmade Studio Pottery Vase - Etsy",
+   "med": 105,
+   "ratio": 1.75,
    "ai_value": ""
   },
   {
@@ -2755,6 +2843,17 @@
    "url": "https://www.craigslist.org/view/d/woodland-antique-robert-portner-beer/pV48rqro4EL6PgBeLkVwJS",
    "best": "Auctions - Jeffrey S. Evans & Associates",
    "med": 40,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940105947",
+   "title": "Vintage H K Tunstall Hollinshead Kirkham, England Old English Sampler",
+   "price": 45,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/etowah-vintage-k-tunstall-hollinshead/9ZSzr2exznLPChSoTqhBhp",
+   "best": "Vintage H&K Tunstall Creamer Petit Point Floral Gold Trim ...",
+   "med": 18,
    "ratio": 0.4,
    "ai_value": ""
   },
