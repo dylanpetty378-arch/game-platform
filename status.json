@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T04:35:19Z",
+ "updated": "2026-10-13T04:39:14Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1604,
-  "events": 7106,
+  "lens": 1629,
+  "events": 7131,
   "comps": 152,
   "item_types": 385,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3037,
-  "lensed": 571,
+  "queued": 3012,
+  "lensed": 583,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 310,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 128,
+  "flagged": 141,
   "decided/find": 6
  },
  "last_harvests": [
@@ -323,6 +323,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982554239",
+   "title": "Antique Victorian Porcelain Compote",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-antique-victorian-porcelain/wUorTHnkMRSFnNY7sDopfn",
+   "best": "Antique Dresden Reticulated Pedestal Bowl with Encrusted ...",
+   "med": 173,
+   "ratio": 17.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7952472943",
    "title": "Winter scenic print",
    "price": 10,
@@ -364,6 +375,17 @@
    "best": "Etsy",
    "med": 125,
    "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950991899",
+   "title": "Old West wagon replica",
+   "price": 45,
+   "area": "flagstaff",
+   "url": "https://www.craigslist.org/view/d/sedona-old-west-wagon-replica/1xCDW3uAAxo9UKeQfXCmjS",
+   "best": "Replica Old West Wagon",
+   "med": 550,
+   "ratio": 12.22,
    "ai_value": ""
   },
   {
@@ -430,6 +452,17 @@
    "best": "eBay",
    "med": 1280,
    "ratio": 10.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982558832",
+   "title": "Fender guitar/bass strap. Vintage",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-fender-guitar-bass-strap/5nPSroqZ7BtWznJ86hHjHR",
+   "best": "Vintage Fender Guitar Strap Brown & Gold Fender Logo Circa ...",
+   "med": 150,
+   "ratio": 10,
    "ai_value": ""
   },
   {
@@ -631,6 +664,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7953190558",
+   "title": "Old phone",
+   "price": 20,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/los-osos-old-phone/cwJ6MzzhZZBZGLJRT3gQqV",
+   "best": "Ericsson Rijen Black Bakelite Telephone | eBay",
+   "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952664606",
+   "title": "Vintage silver trophy",
+   "price": 90,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/issaquah-vintage-silver-trophy/pEi26iZmKgPTNsEMLpcwK7",
+   "best": "Gorgeous Tiffany & Co. Sterling Trophy",
+   "med": 550,
+   "ratio": 6.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7976501403",
    "title": "Italian Vase",
    "price": 120,
@@ -694,6 +749,17 @@
    "best": "Mahogany Baritone Ukulele 1940s - Natural mahogany Kay ...",
    "med": 550,
    "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954596045",
+   "title": "Antique drum",
+   "price": 75,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-antique-drum/p33RJNnmjK9wSnDkuPK74Z",
+   "best": "Rawhide 7\" Double Sided Hand Drum/Possibly Native American ...",
+   "med": 395,
+   "ratio": 5.27,
    "ai_value": ""
   },
   {
@@ -818,6 +884,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955441696",
+   "title": "Old thermometer",
+   "price": 20,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/cocoa-old-thermometer/d3vwWKe91HzrqKXrkgAV9M",
+   "best": "Vintage Pepsi Tin Thermometer Lake City Bottling Sample ...",
+   "med": 70,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7982472210",
    "title": "JAPANESE BUNKA ART/CRAFT",
    "price": 40,
@@ -851,6 +928,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948477622",
+   "title": "Roosters, assorted",
+   "price": 50,
+   "area": "lewiston",
+   "url": "https://www.craigslist.org/view/d/lewiston-roosters-assorted/dMPmyZx1myF2oX4ixtBo9b",
+   "best": "Kitchen Canisters & Jars | Canister Sets for Kitchen Counter",
+   "med": 170,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7972434330",
    "title": "Vintage Hand-Carved Wooden Jar",
    "price": 25,
@@ -871,6 +959,17 @@
    "med": 102,
    "ratio": 3.4,
    "ai_value": "Value / Market Price: Generally ranges between $30 to $38"
+  },
+  {
+   "pid": "7968315810",
+   "title": "Vintage kerosene lamp #3",
+   "price": 30,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/knoxville-vintage-kerosene-lamp/gvJAwHwGRYoysjQ2qHzLBJ",
+   "best": "VINTAGE P&A MFG CO DANBURY OIL LAMP EAGLE BURNER 18 1/4 ...",
+   "med": 101,
+   "ratio": 3.37,
+   "ai_value": ""
   },
   {
    "pid": "7962296433",
@@ -917,6 +1016,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957276844",
+   "title": "VINTAGE BOWL  & PLATE",
+   "price": 35,
+   "area": "pullman",
+   "url": "https://www.craigslist.org/view/d/lewiston-vintage-bowl-plate/ofyX1NzrtUPtaCVoGEEAfn",
+   "best": "Mexican Blue Bird Plates - Etsy",
+   "med": 104,
+   "ratio": 2.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7930383380",
    "title": "#2 Small Stoneware Crock",
    "price": 45,
@@ -926,6 +1036,17 @@
    "med": 130,
    "ratio": 2.89,
    "ai_value": "Value & Pricing: Similar vintage and antique 2-gallon crocks typically sell between $45"
+  },
+  {
+   "pid": "7945259443",
+   "title": "VINTAGE STEWART/WARNER RADIO",
+   "price": 75,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/new-castle-vintage-stewart-warner-radio/1S6PCwJfhd1euxSJDXM4KB",
+   "best": "RARE VINTAGE Antique Vintage STEWART WARNER Model 61T26 Tube ...",
+   "med": 215,
+   "ratio": 2.87,
+   "ai_value": ""
   },
   {
    "pid": "7948843414",
@@ -1170,6 +1291,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951398228",
+   "title": "Vintage Longaberger Umbrella Basket",
+   "price": 75,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/branchville-vintage-longaberger/ccTYLqsBeJXzz1ZfaT6Jvu",
+   "best": "Vintage Longaberger Umbrella Basket Marked 1983 ...",
+   "med": 150,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7961916717",
    "title": "Vintage antique 5 gallon water bottle",
    "price": 75,
@@ -1343,6 +1475,17 @@
    "best": "Silver Shell Dish In Antique Us Silver-Plated Platters ...",
    "med": 81,
    "ratio": 1.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977812928",
+   "title": "Vintage Post Finial",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-post-finial/gKJmT5rwR1nrtdheAAU3CZ",
+   "best": "Antique Cast Iron Railroad Pinnacle or Finial in Old Silver ...",
+   "med": 100,
+   "ratio": 1.33,
    "ai_value": ""
   },
   {
