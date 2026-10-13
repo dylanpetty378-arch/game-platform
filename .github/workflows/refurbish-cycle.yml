@@ -13,7 +13,9 @@ on:
   push:
     branches: [refurbish]
     paths: ['db/inbox/**']       # Lens results uploaded by the Chrome worker -> ingest right away
-concurrency: {group: refurbish-cycle, cancel-in-progress: false}
+# Separate groups: a pending scheduled harvest must never be replaced by the frequent push (ingest) runs — GitHub keeps
+# only ONE pending run per concurrency group, which is why the 4-hourly schedule never ran on Oct 12–13.
+concurrency: {group: "refurbish-cycle-${{ github.event_name == 'push' && 'ingest' || 'harvest' }}", cancel-in-progress: false}
 permissions: {contents: write}
 jobs:
   cycle:
