@@ -103,14 +103,25 @@ def status():
                      'stage': cur[p]['stage'], 'status': cur[p].get('status')} for p in finds]}
     json.dump(st, open(os.path.join(ROOT, 'status.json'), 'w'), indent=1)
     md = [f"# Refurbish status — {st['updated']}", '',
-          'Machine-written by scripts/cloud_cycle.py after every cycle. Instructions: docs/START-HERE.md.', '',
+          'Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).', '',
           '## Pipeline', '', '| stage | listings |', '|---|---|'] + [f'| {k} | {v} |' for k, v in sorted(counts.items(), key=lambda x: -x[1])]
     md += ['', '## Tables', ''] + [f'- {t}: {n}' for t, n in tables.items()]
     md += ['', '## Last harvests', ''] + [f"- {h.get('harvest_id')} — {h.get('n_listings')} listings, {h.get('n_new', '?')} new, {h.get('n_selected', '?')} queued" for h in H]
-    md += ['', f'## Flagged by Lens, waiting for photo review ({len(flagged)})', '', '| pid | price | area | title | Lens best match | match median | ratio |', '|---|---|---|---|---|---|---|']
-    for f in st['flagged_waiting'][:150]:
-        md.append(f"| {f['pid']} | ${f['price']} | {f['area']} | [{(f['title'] or '')[:50]}]({f['url']}) | {(f['best'] or '')[:60]} | {f['med']} | {f['ratio']} |")
-    md += ['', f'## Finds / open leads ({len(finds)})', ''] + [f"- **{f['title']}** ${f['price']} {f['area']} — {f['stage']}/{f['status']} — {f['note'] or ''} — {f['url']}" for f in st['finds']]
+    def thumb(pid, w=120):
+        im = ((L.get(pid) or {}).get('imgs') or [None])[0]
+        return f'<img src="https://images.craigslist.org/{im}_300x300.jpg" width="{w}">' if im else ''
+    md += ['', f'## Finds and open leads ({len(finds)})', '']
+    if finds:
+        md += ['| photo | item | price | where | status / next step |', '|---|---|---|---|---|']
+        for f in st['finds']:
+            md.append(f"| {thumb(f['pid'], 160)} | [{(f['title'] or '')[:60]}]({f['url']}) | ${f['price']} | {f['area']} | **{f['stage']}/{f['status']}** — {(f['note'] or '').replace('|', '/')[:220]} |")
+    else:
+        md.append('_None yet._')
+    md += ['', f'## Flagged by Lens, waiting for photo review ({len(flagged)})', '',
+           'Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.', '',
+           '| photo | pid | price | area | title | Lens best match | match median | ratio |', '|---|---|---|---|---|---|---|---|']
+    for f in st['flagged_waiting'][:120]:
+        md.append(f"| {thumb(f['pid'])} | {f['pid']} | ${f['price']} | {f['area']} | [{(f['title'] or '')[:50]}]({f['url']}) | {(f['best'] or '').replace('|', '/')[:60]} | {f['med']} | {f['ratio']} |")
     open(os.path.join(ROOT, 'STATUS.md'), 'w').write('\n'.join(md) + '\n')
     print('status written')
 
