@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:38:48Z",
+ "updated": "2026-10-13T14:40:57Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5387,
-  "events": 15322,
+  "lens": 5412,
+  "events": 15347,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 906,
-  "queued": 853,
+  "lensed": 918,
+  "queued": 828,
   "comps/pass": 1,
-  "queued/relens": 419,
+  "queued/relens": 421,
   "decided/ask": 37,
-  "flagged": 646,
+  "flagged": 657,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -2416,6 +2416,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951817078",
+   "title": "vintage eskimo fan",
+   "price": 50,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/des-moines-vintage-eskimo-fan/aGJSLBTNcYnt7mq77uZPw7",
+   "best": "Vintage Eskimo Turquoise Double Window/Vent Fan Model 081004 ...",
+   "med": 350,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7955459158",
    "title": "Antique Box",
    "price": 20,
@@ -3175,6 +3186,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977665403",
+   "title": "Antique Crank Phone",
+   "price": 75,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/lotus-antique-crank-phone/sraMfi6YprG3mBFvvS952i",
+   "best": "Antique Wooden Hand-Crank Wall Telephone \u2013 Early 1900s ...",
+   "med": 379,
+   "ratio": 5.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7972219803",
    "title": "Antique Snow Sled",
    "price": 55,
@@ -3458,6 +3480,17 @@
    "best": "NordicTrack Pro Ski Exerciser sold at auction from 26th June ...",
    "med": 350,
    "ratio": 4.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943312829",
+   "title": "Vintage Brownie box camera",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/trexlertown-vintage-brownie-box-camera/143C4a9kkJuQUDdNTyxNZL",
+   "best": "Kodak No. 2A Brownie 1907 Antique Box Film Camera | eBay",
+   "med": 185,
+   "ratio": 4.63,
    "ai_value": ""
   },
   {
@@ -3791,6 +3824,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7952086609",
+   "title": "Vintage mens Camo Jacket",
+   "price": 25,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/vero-beach-vintage-mens-camo-jacket/k1JkohzoyNgKtbzbD9muMB",
+   "best": "PATTA Camouflage Jacket Military Multi Pocket Size: L | eBay",
+   "med": 100,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979971767",
+   "title": "VINTAGE BASKET",
+   "price": 50,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/hamilton-vintage-basket/1Jr7kZELkV2H1aedh6GjYz",
+   "best": "Antique New England bundt shaped house basket for sale",
+   "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7937482777",
    "title": "Vintage UEI Enterprises Multimeter",
    "price": 20,
@@ -3798,6 +3853,17 @@
    "url": "https://www.craigslist.org/view/d/caldwell-vintage-uei-enterprises/iAzpM5ffbVZsBiwdKP1U8o",
    "best": "Item: A black vinyl/leatherette protective storage and transport case with a top carry handle and the classic ",
    "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981913523",
+   "title": "1984 Vintage Coke Case",
+   "price": 15,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/milton-1984-vintage-coke-case/41BqYBhoonYe7sEPVDE4eQ",
+   "best": "VTG 15 3/16\"\" x 11.5\" Red Coca-Cola Stackable Heavy Plastic ...",
+   "med": 60,
    "ratio": 4,
    "ai_value": ""
   },
@@ -3843,6 +3909,17 @@
    "best": "Antique American LaFrance \u201cALERT\u201d Fire Extinguisher ... - eBay",
    "med": 299,
    "ratio": 3.99,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946480552",
+   "title": "Antique Privacy Glass",
+   "price": 40,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/cleveland-antique-privacy-glass/9RQWMrgPMfirPBv8csXrkc",
+   "best": "Antique 30x31 2 Lite Diamond Florentine Privacy Glass Window ...",
+   "med": 159,
+   "ratio": 3.98,
    "ai_value": ""
   },
   {
@@ -4171,6 +4248,17 @@
    "area": "slo",
    "url": "https://www.craigslist.org/view/d/nipomo-vintage-50s-suitcase/4a8hA6nfmJLoCwmv8D6w58",
    "best": "Nice Vintage Hard Case Luggage Set \u2013 GDC USABLE CONDITION ...",
+   "med": 120,
+   "ratio": 3.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953907723",
+   "title": "Vintage Sir Jac Jacket",
+   "price": 35,
+   "area": "nmi",
+   "url": "https://www.craigslist.org/view/d/grand-rapids-vintage-sir-jac-jacket/k2HxEREx14RYtmgW3wkPGK",
+   "best": "VINTAGE Sir Jac Light Hooded Jacket | Retro Colors | Small ...",
    "med": 120,
    "ratio": 3.43,
    "ai_value": ""
@@ -5518,6 +5606,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943315838",
+   "title": "Vintage Original Clown Painting",
+   "price": 100,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-original-clown-painting/7z6xpDjL8cZWCg6oZ2VB9n",
+   "best": "JON HELLAND Signed Happy Clown Painting 16x20 Canvas Panel ...",
+   "med": 216,
+   "ratio": 2.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7939657592",
    "title": "Browning Graphite Rod",
    "price": 40,
@@ -5559,6 +5658,17 @@
    "best": "DWK Ebony Black Panther Figurine Statue : Amazon.sg: Home",
    "med": 159,
    "ratio": 2.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946923508",
+   "title": "Vintage Kokopeli pin/turquoise pin",
+   "price": 60,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/sandia-park-vintage-kokopeli-pin/56oWg5viHAJn5yKdLPhwqY",
+   "best": "925 Sterling Silver Vintage Brooch Pin NAVAJO Aztec Carved ...",
+   "med": 125,
+   "ratio": 2.08,
    "ai_value": ""
   },
   {
@@ -7097,6 +7207,17 @@
    "area": "up",
    "url": "https://www.craigslist.org/view/d/pellston-vintage-hunting-supplies/jjQgkusQbLqh9P9AVY4mTv",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981536234",
+   "title": "Vintage Wood Skis",
+   "price": 30,
+   "area": "up",
+   "url": "https://www.craigslist.org/view/d/rhinelander-vintage-wood-skis/8xB1RauaTcPBnSn3CKSGNQ",
+   "best": "Skis ~ Handmade Wood Skis With Hand Hewn Marks & Old Leather ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
