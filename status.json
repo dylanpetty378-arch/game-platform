@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T16:26:29Z",
+ "updated": "2026-10-13T16:40:40Z",
  "tables": {
   "harvests": 7,
-  "searches": 1504,
+  "searches": 1727,
   "listings": 7807,
-  "lens": 5937,
-  "events": 20148,
-  "comps": 1350,
-  "item_types": 795,
+  "lens": 6053,
+  "events": 21123,
+  "comps": 1561,
+  "item_types": 801,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 5930,
-  "lensed": 110,
-  "queued": 1406,
+  "photo_review/kill": 6698,
+  "lensed": 126,
   "comps/pass": 1,
-  "queued/relens": 9,
-  "decided/ask": 54,
-  "decided/kill": 6,
+  "queued/relens": 13,
+  "decided/ask": 51,
+  "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 83,
+  "flagged": 88,
   "comps/fail": 5,
   "expired": 8,
-  "decided/find": 8
+  "decided/find": 9,
+  "queued": 800
  },
  "last_harvests": [
   {
@@ -713,6 +713,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7945944456",
+   "title": "vintage Beetles albums/ records",
+   "price": 200,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-beetles-albums-records/23BQ5u1ufFKH9Cs1LbbUwQ",
+   "best": "Beatles-Sgt. Pepper's Lonely Hearts Club Band-1967 Capitol ...",
+   "med": 1191,
+   "ratio": 5.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981479300",
+   "title": "Vintage floral bracelt",
+   "price": 20,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/citrus-heights-vintage-floral-bracelt/nZumSLbiK9XmvvFxLWStyk",
+   "best": "eBay",
+   "med": 118,
+   "ratio": 5.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932675120",
+   "title": "Vintage 1940's/1950's costume clip",
+   "price": 25,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/coeur-alene-vintage-1940s-1950s-costume/msR1BKt78G6papR2xHJ1LG",
+   "best": "Etsy",
+   "med": 145,
+   "ratio": 5.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7952658862",
    "title": "Antique Stanley Hand Planes",
    "price": 35,
@@ -944,6 +977,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932208853",
+   "title": "Vintage crystal decanter",
+   "price": 54,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/coeur-alene-vintage-crystal-decanter/hULoSwf1KeLX96BjAPFacy",
+   "best": "Victorian Shaft and Globe Glass Decanter c1870 - Tableware ...",
+   "med": 150,
+   "ratio": 2.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7953310085",
    "title": "Gruen Veri-thin 17 jewels Men\u2019s Winding Watch",
    "price": 70,
@@ -1029,6 +1073,17 @@
    "best": "Las mejores ofertas en Gorham post - 1940 objetos antiguos ...",
    "med": 215,
    "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936225689",
+   "title": "Norman Rockwell vintage plates",
+   "price": 50,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-norman-rockwell-vintage/rFirUgpxNBfeXPD5WpYtnY",
+   "best": "Norman Rockwell 1972 Four Seasons Collector Plates lot of 4 ...",
+   "med": 105,
+   "ratio": 2.1,
    "ai_value": ""
   },
   {
@@ -1311,7 +1366,7 @@
    "price": 65,
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-bunch-of-old-lighters/qoRX4wdzo8VmbMq6zCKWMD",
-   "note": "6 lighters for $65: Butabloc France, Zippo-style blue, gold basketweave (Colibri/Evans type), bowler-table advertising lighter, round \"Prudential\" wick lighter, and one mother-of-pearl checkerboard LIFT-ARM petrol lighter. The lift-arm is the only one that matters: if its base is stamped \"Dunhill Unique / Made in England\" (or \"Pat. 143752\") it is a 1930s Dunhill Unique and sells $150-400 (entry buy rule); if unmarked or \"Japan\" it is a copy and the lot is ~$80. Ask seller for a photo of the base of the pearl lift-arm lighter. (no comp)",
+   "note": "Terapeak: Dunhill Unique sold median $229 (n=50). If the pearl lift-arm is a stamped Dunhill Unique: 229\u00d70.87\u221230\u221265 \u2248 $104 profit at the $65 lot price \u2192 Tier B. Ask for base stamp photo.",
    "stage": "decided",
    "status": "ask"
   },
@@ -1372,16 +1427,6 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/lakeville-vintage-spear-fishing-decoys/rYEjbYYfCBySvsYvCNfz1k",
    "note": "14 handmade fish spearing decoys, $20 ea / $225 lot. Sold handmade decoys median $35-45 ea. At $225 lot profit ~$200 (< $225 needed). Offer $150 for all 14 -> profit ~$275. Tier C (offer)",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7973690667",
-   "title": "Vintage Campagnolo Triple Crankset",
-   "price": 90,
-   "area": "dallas",
-   "url": "https://www.craigslist.org/view/d/richardson-vintage-campagnolo-triple/w963cKQmeTk4SCLpnY3Ksa",
-   "note": "Genuine Campagnolo: shield-logo fluted Nuovo Record-style arms, \"BREV CAMPAGNOLO\" 54T outer, 170mm, with original 120mm Campy BB; inner 36T sits on a bolt-on triplizer spider (not a factory Campagnolo triple). NR doubles sell ~$150-250; no sold comp in db for the triple. At $90 profit fails. Ask: photo of the back of both arms (year dot-code and PAT. stamp), who made the inner adapter/36T ring, crank taper threads clean, and offer $60 (at $60 profit ~$90 if $200 resale)",
    "stage": "decided",
    "status": "ask"
   },
@@ -1452,16 +1497,6 @@
    "area": "vermont",
    "url": "https://www.craigslist.org/view/d/westbrook-razor-collection-vintage/oAz37DWyGVteNVwn2Z6fWf",
    "note": "8-piece razor collection, $50 OBO cash pickup (Westbrook): Gillette Tech in maroon case; gold Gillette Old Type in case w/ Rexall blades; gold Gillette in 'Chrome' labelled box; gold Gillette in purple-lined case; Rolls Razor in case; Durham Duplex boxed; 2 straight razors (one in 'U.S.'-stamped case). Parted out ~$200-250. Ask: will you ship (pickup-only) or can a local hold it; confirm head markings/date codes, blades not rusted, straight razor makers. Offer $50 shipped.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7953937092",
-   "title": "VINTAGE WATT PITCHER",
-   "price": 20,
-   "area": "jackson",
-   "url": "https://www.craigslist.org/view/d/clinton-vintage-watt-pitcher/de77U4sRUvGghZ6CzpzqyV",
-   "note": "Photo: Watt Pottery #16 pitcher in the TULIP pattern (blue + red three-tone tulips, green leaf), the scarce 1960s pattern, not the common Apple/Starflower; 7in tall, excellent per body. Sold ~$75-150, no comp in db. Ask: photo of bottom mark (\"Watt Oven Ware U.S.A. 16\" / eye-stamp), any chips/crazing, and whether he will ship (phone-only seller, Clinton MS). Thin at low end; worth it at $100+.",
    "stage": "decided",
    "status": "ask"
   },
@@ -1831,7 +1866,7 @@
    "price": 199,
    "area": "missoula",
    "url": "https://www.craigslist.org/view/d/grantsdale-kalo-shop-sterling-silver/5nEpaHHH2zGjrnVCBJhjQh",
-   "note": "Kalo Shop, Chicago, hand-wrought sterling link bracelet in original Kalo box printed \"222 S. Michigan Ave\" (the shop's 1936-1970 address, so a late-period piece); stamped KALO / Sterling / Hand Wrought per seller. Genuine Kalo sells $250-400 for plain late links (no comp; early hammered Arts & Crafts pieces are $500+). At $199 profit fails; ask for a photo of the KALO STERLING HAND WROUGHT stamp and offer $120",
+   "note": "Terapeak: Kalo sterling bracelets median $240 (n=16, bangles $86-92, leaf bracelet $365). At $199 fails; offer $110 \u2192 ~$70 profit if it is a substantial piece. Tier C.",
    "stage": "decided",
    "status": "ask"
   },
@@ -1841,9 +1876,9 @@
    "price": 1,
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/burbank-hiro-yamagata-limited-edition/16y75qjnnZDizc97Y3i8Su",
-   "note": "Hiro Yamagata signed/numbered serigraphs, framed by Yamagata Studio: 'Milky Way' 87/250, 'July 14th' 176/250, 'Fireworks' 9/150 (photo: Paris cafe scene w/ Eiffel Tower, pencil-signed, numbered). Price $1 = make offer, seller 'will accept ridiculously low'. eBay sold for Yamagata serigraphs run $150-500 each (no comp in db; use $250 low). ASK: image sizes and framed sizes; whether they will ship (or unframe and tube-ship); any fading/foxing; offer $75-100 each for all three",
+   "note": "Terapeak: Hiro Yamagata serigraphs sold median $750 (n=15, p25 $300). Three signed/numbered framed serigraphs at \"make offer, will accept ridiculously low\". Even at $300 each \u00d7 3 and a $150 offer: ~$630 profit \u2192 Tier A. Ask: edition/condition photos, confirm all three, offer $100\u2013150.",
    "stage": "decided",
-   "status": "ask"
+   "status": "find"
   },
   {
    "pid": "7982699835",
@@ -1851,7 +1886,7 @@
    "price": 50,
    "area": "delaware",
    "url": "https://www.craigslist.org/view/d/middletown-vintage-fender-amplifier/b8tAjigKe8LCZiwKJVy28F",
-   "note": "Fender silverface CHAMP tube amp (3 knobs Vol/Treble/Bass, blue-script 'Champ', 2 inputs; back plate 'Fender/CBS Musical Instruments Fullerton', 6 W RMS, 3.2 ohm \u2014 the AA764 Champ spec, c.1975-81). Replacement Pyle Driver speaker (original would add ~$100). Seller: works as it should, father's amp, $50, text for pickup \u2014 ask to ship (~20 lb, $35 each way). Entry buy rule: vintage Fender silverface tube amp under $250. Est resale $350 low (replaced speaker; Reverb/eBay $350-550). Profit ~$180 = 3.6x price. Confirm tube chart/serial photo and that the tubes (6V6, 12AX7, 5Y3) are present",
+   "note": "Terapeak CONFIRMED: silverface Champ sold median $469 (n=12, p25 $350). Profit \u2248 469\u00d70.87 \u2212 70 ship \u2212 50 = ~$288 \u2192 Tier A. Tube amp: Dylan's electronics call. Ask for tube chart/serial photo and shipping.",
    "stage": "decided",
    "status": "find"
   },
@@ -1861,7 +1896,7 @@
    "price": 50,
    "area": "portland",
    "url": "https://www.craigslist.org/view/d/vancouver-zap-comic-first-edition/vE1uE7uG49Le8y9APhFT4G",
-   "note": "Zap Comix #1, 35\u00a2 cover, $50. Back cover 'Printed by Don Donahue' = 2nd printing (~5,000 run), raw VG $500-900 \u2192 Tier A; no printer line = Print Mint 3rd printing $40-70 \u2192 pass. ASK for back-cover + indicia photos. No sold comp yet.",
+   "note": "Terapeak: Zap #1 median $75, Donahue edition sold $80 (Jan 2026), p75 $210. Only a 1st printing clears; a 2nd printing is ~$80-200. At $50: ask for back cover; buy only if Plymell/Charles Plymell 25\u00a2 first.",
    "stage": "decided",
    "status": "ask"
   },
@@ -1871,7 +1906,7 @@
    "price": 50,
    "area": "cincinnati",
    "url": "https://www.craigslist.org/view/d/cincinnati-vintage-train-collection/5NXeHeq19eV89RDsAGdBJA",
-   "note": "Lionel postwar lot: two 0-4-0 switchers with slope-back Lionel Lines tenders (1615/1625/1665 class), 3462 and 3472 automatic milk cars, 6520 searchlight car with ORANGE generator (the scarce variant; maroon/gray is the common one), 2472 PRR caboose, 6415 Sunoco 3-dome tank, MPC 9863 REA reefer. \"Make offer\", family-owned, \"worked when stored\". Ask: cab numbers on both switchers, whether they run, close photo of the 6520 generator colour, and offer $50. Est $250 low end, no comp",
+   "note": "Terapeak: 6520 searchlight car sells ~$16, 3462 milk car $25 \u2014 the lot is worth ~$120-180 not $250. At $50 profit \u2248 $60 only if they run. Tier C now; offer $40 max.",
    "stage": "decided",
    "status": "ask"
   },

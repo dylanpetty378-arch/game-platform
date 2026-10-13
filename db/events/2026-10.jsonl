@@ -21105,3 +21105,19 @@
 {"pid":"7931248829","stage":"decided","status":"ask","type":null,"note":"Terapeak: Kalo sterling bracelets median $240 (n=16, bangles $86-92, leaf bracelet $365). At $199 fails; offer $110 → ~$70 profit if it is a substantial piece. Tier C.","run":"tp-leads-20261013c","by":"claude","data":{"tier":"C","est_resale":240},"ts":"2026-10-13T16:37:27Z"}
 {"pid":"7940054171","stage":"decided","status":"ask","type":null,"note":"Terapeak: Dunhill Unique sold median $229 (n=50). If the pearl lift-arm is a stamped Dunhill Unique: 229×0.87−30−65 ≈ $104 profit at the $65 lot price → Tier B. Ask for base stamp photo.","run":"tp-leads-20261013c","by":"claude","data":{"tier":"B","est_resale":229,"profit":104},"ts":"2026-10-13T16:37:27Z"}
 {"pid":"7957580222","stage":"decided","status":"ask","type":null,"note":"Terapeak: Zap #1 median $75, Donahue edition sold $80 (Jan 2026), p75 $210. Only a 1st printing clears; a 2nd printing is ~$80-200. At $50: ask for back cover; buy only if Plymell/Charles Plymell 25¢ first.","run":"tp-leads-20261013c","by":"claude","data":{"tier":"C","est_resale":100},"ts":"2026-10-13T16:37:27Z"}
+{"ts":"2026-10-13T16:18:20Z","pid":"7950373196","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":30,"ratio":1.5}}
+{"ts":"2026-10-13T16:18:30Z","pid":"7932675120","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":145,"ratio":5.8}}
+{"ts":"2026-10-13T16:18:39Z","pid":"7968177165","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":35,"ratio":1.75}}
+{"ts":"2026-10-13T16:18:45Z","pid":"7945661893","stage":"queued","status":"relens","run":"lensworker-20261013-1607","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:18:53Z","pid":"7981487460","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":39,"ratio":2.6}}
+{"ts":"2026-10-13T16:18:59Z","pid":"7937930474","stage":"queued","status":"relens","run":"lensworker-20261013-1607","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:19:07Z","pid":"7945944456","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":1191,"ratio":5.96}}
+{"ts":"2026-10-13T16:19:14Z","pid":"7933650439","stage":"queued","status":"relens","run":"lensworker-20261013-1607","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:19:22Z","pid":"7966287084","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":27,"ratio":1.08}}
+{"ts":"2026-10-13T16:19:29Z","pid":"7955120494","stage":"queued","status":"relens","run":"lensworker-20261013-1607","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T16:19:39Z","pid":"7953892864","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":29,"ratio":1.45}}
+{"ts":"2026-10-13T16:19:47Z","pid":"7934347767","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":19,"ratio":0.95}}
+{"ts":"2026-10-13T16:19:55Z","pid":"7932208853","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":150,"ratio":2.78}}
+{"ts":"2026-10-13T16:20:03Z","pid":"7978871724","stage":"lensed","run":"lensworker-20261013-1607","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T16:20:12Z","pid":"7936225689","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":105,"ratio":2.1}}
+{"ts":"2026-10-13T16:20:20Z","pid":"7981479300","stage":"flagged","run":"lensworker-20261013-1607","data":{"med":118,"ratio":5.9}}
