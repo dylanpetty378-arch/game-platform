@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-13T02:32:08Z",
+ "updated": "2026-10-13T02:35:52Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4600,
-  "lens": 804,
-  "events": 5746,
+  "lens": 829,
+  "events": 5771,
   "comps": 9,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 331,
-  "queued": 3832,
+  "queued": 3807,
   "comps/pass": 2,
-  "lensed": 398,
-  "flagged": 32,
+  "lensed": 409,
+  "flagged": 46,
   "decided/ask": 2,
   "comps/fail": 3
  },
@@ -264,6 +264,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976901504",
+   "title": "Antique Picture and Frame",
+   "price": 125,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/malden-antique-picture-and-frame/irKQy9bgQRi4fZTvMA7XaB",
+   "best": "Antique Framed Print Romeo And Juliet 14\u00bd\" x 22\u00bd\u201d Knapp Co ...",
+   "med": 1410,
+   "ratio": 11.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7946814669",
    "title": "Antique Brass Bowl. 19th Century Persian",
    "price": 49,
@@ -272,6 +283,17 @@
    "best": "Origin/Period: Similar pieces commonly originate from the Middle East, Ottoman Turkey, Persia, or Central Asia",
    "med": 540,
    "ratio": 11.02,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958333888",
+   "title": "Antique Prints Louis XVI and Annee 1779",
+   "price": 70,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-antique-prints-louis-xvi-and/qcdDhRZGcHw33bVfS2GeXL",
+   "best": "Antique King Louis and Marie Antoinette Watercolor Painting ...",
+   "med": 680,
+   "ratio": 9.71,
    "ai_value": ""
   },
   {
@@ -294,6 +316,17 @@
    "best": "Xiang Weiren | FIGURE | MutualArt",
    "med": 500,
    "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979967465",
+   "title": "Mid 1800's English Masons Ironstone China Plate,Antique",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/danbury-mid-1800s-english-masons/c1X3HidYqfWMeJ7ZW2kbcL",
+   "best": "English Porcelain - Antique Victorian Chinoiserie Plate ...",
+   "med": 165,
+   "ratio": 8.25,
    "ai_value": ""
   },
   {
@@ -341,6 +374,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7954887996",
+   "title": "Napoleon Porcelain Statue",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-napoleon-porcelain-statue/4tR5SnZLNUT53YDh7RBUBR",
+   "best": "Napoleon Porcelain Statue",
+   "med": 325,
+   "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978880427",
+   "title": "Oscar Schmidt Autoharp, Vintage 1969",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/napa-oscar-schmidt-autoharp-vintage-1969/oiH8m8KFssKLbq3bUzgx4D",
+   "best": "Vintage Oscar Schmidt 15 Chord Autoharp (No Case) | eBay",
+   "med": 275,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955992830",
    "title": "Vintage Wooden Chess Set",
    "price": 75,
@@ -363,6 +418,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982465223",
+   "title": "Japanese Satsuma Vase",
+   "price": 35,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-japanese-satsuma-vase/iojuCYtkGfz25DCcD4bCeU",
+   "best": "Satsuma Japanese Vintage Moriage Hand Painted Vase | eBay",
+   "med": 165,
+   "ratio": 4.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7978534872",
    "title": "Antique/vintage Banjo",
    "price": 50,
@@ -374,6 +440,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954897115",
+   "title": "Limoges T&V Art Deco Vase",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-limoges-tv-art-deco-vase/dPqPkAGxvAscrmNcAgG6kq",
+   "best": "Art Deco Vase Ceramics Hand Painted - Etsy",
+   "med": 395,
+   "ratio": 3.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7971790377",
    "title": "Vintage Casablanca Wall Clock",
    "price": 40,
@@ -382,6 +459,17 @@
    "best": "eBay",
    "med": 153,
    "ratio": 3.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956260913",
+   "title": "Antique 1880\u2019s pitcher and bowl set",
+   "price": 85,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ojai-antique-1880s-pitcher-and-bowl-set/fHaGbD4b7uqNFfKBvhEfjt",
+   "best": "1870 Colonial Pottery Togo Blue Large Water Basin & Water ...",
+   "med": 324,
+   "ratio": 3.81,
    "ai_value": ""
   },
   {
@@ -407,6 +495,50 @@
    "ai_value": ""
   },
   {
+   "pid": "7982461116",
+   "title": "Vintage Egyptian Glass Decanters 5 pc",
+   "price": 20,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-egyptian-glass/d6j9bB91SfrLjEFSkYppAK",
+   "best": "Egyptian Glass Perfume Bottle Etched Handblown With ...",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940957688",
+   "title": "Brass Tea set",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-brass-tea-set/jtnvjqyWxtq3Qhg6LUJzBD",
+   "best": "Vintage Miniature Enamel Brass Teapot Kettle With Stand and ...",
+   "med": 114,
+   "ratio": 2.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982452092",
+   "title": "(2) Vintage table lamps!",
+   "price": 175,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/lake-in-the-hills-vintage-table-lamps/ksFBrgU81cj7Nb6a4aAun1",
+   "best": "Capodimonte Italian. Lamp - Etsy",
+   "med": 495,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982463708",
+   "title": "Signed Mexican Winter Landscape",
+   "price": 75,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/mount-holly-signed-mexican-winter/f7Q3aWaJ6NcmkXKnGiPQfo",
+   "best": "Vintage Winter Landscape Oil Painting by Antonio, Home ...",
+   "med": 202,
+   "ratio": 2.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7954284858",
    "title": "Unbranded Vintage Antique Bowlback Mandolin 1900-1920\u2019s antique",
    "price": 150,
@@ -418,6 +550,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965917691",
+   "title": "Vintage Gold-Tone Trifari Plated Rhinestone Choker Necklace",
+   "price": 65,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-gold-tone-trifari/kDgssTc3pMqJJhSWTvdGFV",
+   "best": "Vintage Trifari Gold Tone & Marquise Rhinestone Necklace - Etsy",
+   "med": 127,
+   "ratio": 1.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7941151151",
    "title": "Vintage Gladys 1940-1950's lighter",
    "price": 75,
@@ -426,6 +569,17 @@
    "best": "+1",
    "med": 125,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940213196",
+   "title": "Vintage oil landscape in an ornate wooden gold frame",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/mill-valley-vintage-oil-landscape-in-an/qS1hkFxV2uzJ5mLtFjpw9F",
+   "best": "Geneva Street Antiques and Inn | eBay Stores",
+   "med": 150,
+   "ratio": 1.5,
    "ai_value": ""
   },
   {
