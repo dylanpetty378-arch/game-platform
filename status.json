@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T08:07:49Z",
+ "updated": "2026-10-13T08:11:27Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2929,
-  "events": 10715,
+  "lens": 2954,
+  "events": 10740,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2511,
+  "queued": 2486,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 223,
-  "lensed": 296,
+  "flagged": 234,
+  "lensed": 310,
   "decided/find": 7,
   "expired": 1
  },
@@ -764,6 +764,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7955123966",
+   "title": "Vintage Weber Costello Globe 16''",
+   "price": 50,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/maineville-vintage-weber-costello-globe/fv8g1ohuMozBs7atG4YT8R",
+   "best": "eBay",
+   "med": 475,
+   "ratio": 9.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936085336",
+   "title": "New Old Stock NOS Ball Bearings",
+   "price": 25,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/westwood-new-old-stock-nos-ball-bearings/sxwHf5ZYAoeyXZcVRnhNpT",
+   "best": "These components are ball bearings and mechanical spacers/sleeves (such as engine, transmission, or axle beari",
+   "med": 230,
+   "ratio": 9.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939456888",
+   "title": "Flexible Flyer wooden sled - vintage",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wilmington-flexible-flyer-wooden-sled/wzboPZajP5mp8hF8exfSyh",
+   "best": "eBay",
+   "med": 275,
+   "ratio": 9.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7955892096",
    "title": "Isis Coptic Cross Pendant Necklace Gold Tone",
    "price": 10,
@@ -1037,6 +1070,17 @@
    "med": 575,
    "ratio": 5.75,
    "ai_value": ""
+  },
+  {
+   "pid": "7970111055",
+   "title": "2 vintage beer taps",
+   "price": 15,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-beer-taps/gk3TiEAMss2uWAqkfh6dux",
+   "best": "Are you looking to buy, sell, or display this tap handle?",
+   "med": 85,
+   "ratio": 5.67,
+   "ai_value": "sells on the secondary market (like eBay or collector auctions) for around $30 to $50"
   },
   {
    "pid": "7971564948",
@@ -1336,6 +1380,17 @@
    "ai_value": "sold on Temu United States $175"
   },
   {
+   "pid": "7971760209",
+   "title": "Vintage Heavy-Duty Solid Steel Car Ramps",
+   "price": 29,
+   "area": "eauclaire",
+   "url": "https://www.craigslist.org/view/d/neillsville-vintage-heavy-duty-solid/dhFkFJMrhgZpkoCjrQpLrQ",
+   "best": "Vintage Metal Car Ramps for Sale in Enid, OK",
+   "med": 124,
+   "ratio": 4.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7971567195",
    "title": "Thomas Kincaid picture",
    "price": 40,
@@ -1380,6 +1435,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971949719",
+   "title": "Vintage 1950's Duck Decoys - J.C. Higgins",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-1950s-duck-decoys-jc/oaRDhtfSsCPw2bitFs3u1M",
+   "best": "eBay",
+   "med": 165,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7945788655",
    "title": "Brass Ship Belt Buckle Vintage",
    "price": 15,
@@ -1410,6 +1476,17 @@
    "best": "Vintage Grey Painted Stool With Hat Rack Storage, Circa ...",
    "med": 304,
    "ratio": 4.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971405396",
+   "title": "2 OLD HAGGADAHS -MAGNIFICENT COLOR ILLUSTRATIONS",
+   "price": 100,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/boynton-beach-old-haggadahs-magnificent/auL43esY4z8Pis8L3g2LoJ",
+   "best": "Right Page: Features intricate heraldic and symbolic illumination crowned by an ornate motif, Star of David, a",
+   "med": 400,
+   "ratio": 4,
    "ai_value": ""
   },
   {
@@ -1820,6 +1897,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7978633380",
+   "title": "Lot of six vintage cocktail glasses",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/tacoma-lot-of-six-vintage-cocktail/bB9mccLmkhLj1w5SBdQGcF",
+   "best": "eBay",
+   "med": 69,
+   "ratio": 2.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980723831",
+   "title": "Electrolux vintage vacuum",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-electrolux-vintage-vacuum/kK2aPcZZG66CN2cdDUCJZw",
+   "best": "Value / Market Price: Typically sells between $100 and $275 depending on working condition and whether attachm",
+   "med": 276,
+   "ratio": 2.76,
+   "ai_value": "Value / Market Price: Typically sells between $100"
+  },
+  {
    "pid": "7973168451",
    "title": "Silvertone Pro Series Acoustic Guitar",
    "price": 50,
@@ -1961,6 +2060,17 @@
    "med": 85,
    "ratio": 2.43,
    "ai_value": "sell or list for around $35 to $89"
+  },
+  {
+   "pid": "7972458315",
+   "title": "Vintage Budweiser clydesdale wagon figure",
+   "price": 95,
+   "area": "reading",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-budweiser/mPYYL9E9viyoapcR65U7nx",
+   "best": "Craigslist",
+   "med": 230,
+   "ratio": 2.42,
+   "ai_value": "Value: Similar vintage Budweiser hitch figurines typically sell in the $90 to $200"
   },
   {
    "pid": "7978289976",
@@ -2610,6 +2720,17 @@
    "med": null,
    "ratio": null,
    "ai_value": "sell to collectors or enthusiasts anywhere from $150 to $650"
+  },
+  {
+   "pid": "7981495845",
+   "title": "Vintage Milk Glass Hanging Light",
+   "price": 20,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/cherry-valley-vintage-milk-glass/jpyZvXD5t1PJdJxmfwJoMy",
+   "best": "WorthPoint",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   },
   {
    "pid": "7960470552",
