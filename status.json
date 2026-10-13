@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T07:58:29Z",
+ "updated": "2026-10-13T08:04:16Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2879,
-  "events": 10665,
+  "lens": 2904,
+  "events": 10690,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2561,
+  "queued": 2536,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
+  "flagged": 208,
+  "lensed": 286,
   "decided/find": 7,
-  "lensed": 270,
-  "flagged": 199,
   "expired": 1
  },
  "last_harvests": [
@@ -445,6 +445,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948161091",
+   "title": "Vintage Woven Saddle Bag",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-woven-saddle-bag/5eRd2oNA2RhuynCrfarWhY",
+   "best": "What is the origin and use of these bags?",
+   "med": 850,
+   "ratio": 24.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7930092058",
    "title": "Acoustic Action Setup",
    "price": 60,
@@ -742,6 +753,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939654325",
+   "title": "Wine Corbel",
+   "price": 25,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/los-osos-wine-corbel/s6rZfhNZuYif17V2urnWwd",
+   "best": "eBay",
+   "med": 225,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
    "pid": "7937856437",
    "title": "Antique Seed Drill End Plate",
    "price": 40,
@@ -795,6 +817,17 @@
    "med": 195,
    "ratio": 7.8,
    "ai_value": ""
+  },
+  {
+   "pid": "7975661694",
+   "title": "Vintage Louis Seybold \u201cVenetian\u201d Lithography/Print",
+   "price": 70,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-louis-seybold/dFZLyMAJtgx5UhAJTp8557",
+   "best": "Era / Date: Circa 1920s",
+   "med": 546,
+   "ratio": 7.8,
+   "ai_value": "Value / Range: Typically valued or listed between roughly $50"
   },
   {
    "pid": "7932145793",
@@ -1028,6 +1061,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982614551",
+   "title": "Vintage Horsman Baby Doll",
+   "price": 20,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/nashville-vintage-horsman-baby-doll/cXqPZcWqj2XizKLiF4T1We",
+   "best": "Vintage 1977 Madame Alexander \"Mary Mine\" Baby Doll Eyes ...",
+   "med": 108,
+   "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7938347842",
    "title": "Antique Darling 2/0 Bisque Face and Arms Doll  - Over 100 Years Old!",
    "price": 60,
@@ -1223,6 +1267,17 @@
    "best": "Vintage 80's Magic Ball Round Circular Rubiks \"Cube\" Toy ...",
    "med": 68,
    "ratio": 4.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976536305",
+   "title": "Vintage Tea Kettle White Enamelware with Red Wooden Handle 1950\u2019s.",
+   "price": 20,
+   "area": "fargo",
+   "url": "https://www.craigslist.org/view/d/fergus-falls-vintage-tea-kettle-white/gE6p2jdzBeeVXnwPN3QQxc",
+   "best": "Craigslist",
+   "med": 90,
+   "ratio": 4.5,
    "ai_value": ""
   },
   {
@@ -1457,6 +1512,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948162418",
+   "title": "Vintage Pearlized Necklace",
+   "price": 22,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-pearlized-necklace/wNbcWptKk83seVjC5g97Mj",
+   "best": "Hotbox Vintage",
+   "med": 75,
+   "ratio": 3.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7949766986",
    "title": "Rustic Vintage Clay Pottery from Colombia",
    "price": 35,
@@ -1541,6 +1607,17 @@
    "url": "https://www.craigslist.org/view/d/irving-artifact-from-middle-east/jr2c5eRuMk9PnMKFMPXgj1",
    "best": "Vintage Silverplate Kent Silversmith Coffee Tea Pot Set ...",
    "med": 140,
+   "ratio": 3.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982643408",
+   "title": "Vintage Folk Art Period Correct Coca-Cola Hand Painted Plaque 24x16",
+   "price": 145,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/hendersonville-vintage-folk-art-period/dchJStN4NJ9Qs8qAoRVd8S",
+   "best": "Vintage Coca Cola \"Relieves Fatigue\" Wooden Framed Mirror ...",
+   "med": 451,
    "ratio": 3.11,
    "ai_value": ""
   },
@@ -2216,6 +2293,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949836940",
+   "title": "BEAUTIFUL ARTIST-SIGNED MODERN ART EGRET-BIRD ART AQUATINT ETCHING ART",
+   "price": 90,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-beautiful-artist-signed/3WUXVwbvJNtBAHBU1TFbXA",
+   "best": "Subject: A white great egret in mid-flight with its wings spread against a textured, dark background of branch",
+   "med": 100,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7933306235",
    "title": "Vintage Bayou Le Mardis Gras New Orleans Pencil-Signed Poster",
    "price": 75,
@@ -2334,6 +2422,17 @@
    "best": "eBay",
    "med": 99,
    "ratio": 0.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953906471",
+   "title": "Vintage fosteria meadow rose goblet 24 count",
+   "price": 150,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/hummelstown-vintage-fosteria-meadow/iTEzDmGvSsbhrtCdGeRazR",
+   "best": "Vintage Fostoria Meadow Rose Water Goblets (2) - 7 5/8 ...",
+   "med": 91,
+   "ratio": 0.61,
    "ai_value": ""
   },
   {
