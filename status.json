@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:07:38Z",
+ "updated": "2026-10-13T13:10:57Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4812,
-  "events": 14747,
+  "lens": 4837,
+  "events": 14772,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 583,
-  "queued": 1428,
+  "lensed": 594,
+  "queued": 1403,
   "comps/pass": 1,
   "decided/ask": 37,
   "queued/relens": 354,
-  "flagged": 459,
+  "flagged": 473,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -601,6 +601,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978080516",
+   "title": "24K Gold Ring with Diamonds size13",
+   "price": 99,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/white-city-24k-gold-ring-with-diamonds/3fyV1jc3xDyRzEK4W3y1Ee",
+   "best": "Bendannie",
+   "med": 3210,
+   "ratio": 32.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7946936298",
    "title": "Vintage Household Hi-Speed Cookbook",
    "price": 20,
@@ -620,6 +631,17 @@
    "best": "Estimated Value / Market Range: Similar vintage and antique accent or marble/brass table lamps typically resel",
    "med": 475,
    "ratio": 31.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969448082",
+   "title": "Vintage D Handle Shovel",
+   "price": 20,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-vintage-handle-shovel/i6AbQAcFSk44w58Hw2gZeA",
+   "best": "19th Century Grain Shovel With All Wood Handle | eBay",
+   "med": 629,
+   "ratio": 31.45,
    "ai_value": ""
   },
   {
@@ -664,6 +686,17 @@
    "best": "TIFFANY & CO. Heart Pendant W/ Diamond Delicate Oval Link ...",
    "med": 300,
    "ratio": 30,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946038462",
+   "title": "Vintage Stoneware Berry Bowl/Handled Colander",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-stoneware-berry-bowl/nTWRYJXeBqNbD7eqwv4YPc",
+   "best": "Stoneware Colander | eBay",
+   "med": 420,
+   "ratio": 28,
    "ai_value": ""
   },
   {
@@ -928,6 +961,17 @@
    "best": "Smaller Vials: Several smaller amber and clear glass dropper or cork-stoppered bottles placed in the front row",
    "med": 250,
    "ratio": 16.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954024043",
+   "title": "Estate Sale:  Vintage Wax Still Life Painting Signed",
+   "price": 30,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/brookfield-estate-sale-vintage-wax/qBAHz3mXrRWaKXHKLZEDdh",
+   "best": "Craigslist",
+   "med": 495,
+   "ratio": 16.5,
    "ai_value": ""
   },
   {
@@ -1217,6 +1261,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942474856",
+   "title": "Vintage Occupied Japan Colonial Lady Figurine",
+   "price": 5,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-occupied-japan-colonial/fN9YwLxeg1hQa6FT8jN44Y",
+   "best": "Colonial Lady Figurine Occupied Japan 1948 Pink, Green and ...",
+   "med": 62,
+   "ratio": 12.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7937181258",
    "title": "VINTAGE STRAIGHT RAZOR CASE",
    "price": 5,
@@ -1400,6 +1455,17 @@
    "url": "https://www.craigslist.org/view/d/springfield-vintage-barbie-fashion/pXM2vn1L6pyqVETUVFyFet",
    "best": "Midge 1962 Barbie 1958 JAPAN On Foot Brown Bubble Cut Hair ...",
    "med": 95,
+   "ratio": 9.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933993433",
+   "title": "Vintage Murano Figurine",
+   "price": 50,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/swedesboro-vintage-murano-figurine/6nQKHGKL4cVrcnPELeh8Fh",
+   "best": "Object type: Hand-blown art glass sculpture, commonly shaped as a fish or abstract marine form with submerged ",
+   "med": 475,
    "ratio": 9.5,
    "ai_value": ""
   },
@@ -1642,6 +1708,17 @@
    "url": "https://www.craigslist.org/view/d/sulphur-springs-vintage-floor-lamp/a5s9aUEyHoXgfvtM2qeNv5",
    "best": "Etsy",
    "med": 320,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981513761",
+   "title": "Castroville Pottery Apple Baker",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-castroville-pottery-apple/wBpgziFiYEVr29M3YQAhxp",
+   "best": "Pottery Apple Baker Brown Stoneware The Old Mill Studio Art ...",
+   "med": 200,
    "ratio": 8,
    "ai_value": ""
   },
@@ -2776,6 +2853,17 @@
    "best": "ROCHARD Limoges France A T Heritage STILL LIFE Fruit Plate ...",
    "med": 195,
    "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956302036",
+   "title": "Purple Passion Sterling Silver Ring",
+   "price": 25,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/plano-purple-passion-sterling-silver/u2cyqHDciydb3kd1oJRdjw",
+   "best": "eBay",
+   "med": 108,
+   "ratio": 4.32,
    "ai_value": ""
   },
   {
@@ -4044,6 +4132,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945350295",
+   "title": "Old Paper Money 1940-1945 era",
+   "price": 43,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/moorpark-old-paper-money-era/uV5CeHGNYjxjssRZVRJgnw",
+   "best": "1940 Year Collections, Lot World Paper Money for sale | eBay",
+   "med": 100,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7947163696",
    "title": "Vintage Lizard Skin Purse",
    "price": 35,
@@ -4149,6 +4248,17 @@
    "area": "hudsonvalley",
    "url": "https://www.craigslist.org/view/d/kingston-vintage-costume-jewelry-lot/qDo7K6so8HPVwYMb1GtAbS",
    "best": "Vintage Necklace Etched Gold tone Cross Christian H25 | eBay",
+   "med": 85,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974445890",
+   "title": "Norman Rockwell Bell Collection - Vintage",
+   "price": 40,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-norman-rockwell-bell/cRpQLbmvwTK1mFV6ge4JQG",
+   "best": "Danbury Mint Limited Edition Set Of 12 Bells, The World of ...",
    "med": 85,
    "ratio": 2.13,
    "ai_value": ""
@@ -4363,6 +4473,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947082367",
+   "title": "Vintage Spongeware Paneled Pottery Mixing Bowl, 8\"",
+   "price": 30,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-spongeware-paneled/dnMywV2Q8G5umGUEsSLoJu",
+   "best": "Small 8 1/4\" Red Wing Sponged Spongeware Paneled Mixing Bowl ...",
+   "med": 52,
+   "ratio": 1.73,
+   "ai_value": "Value / Market Range: Typically sells anywhere from roughly $30 to $140"
+  },
+  {
    "pid": "7967571786",
    "title": "Vintage Cola Bottle Collection",
    "price": 55,
@@ -4506,6 +4627,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962431814",
+   "title": "Signed Kansas Men's Basketball",
+   "price": 100,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/lawrence-signed-kansas-mens-basketball/eAubyMqFqmd7P9JmhfJ6Xs",
+   "best": "2015-2016 Official Kansas Jayhawks Team Basketball Signed KU ...",
+   "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7973936001",
    "title": "Samsonite vintage suitcase",
    "price": 75,
@@ -4638,6 +4770,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946264641",
+   "title": ".925 7g 1 1/4\" 32MM  Sterling Silver Sand Dollar Pendant",
+   "price": 77,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-925-7g-mm-sterling-silver/uEuXYsz6BtxNoQFTDjDSrb",
+   "best": "James Avery Retired 925 Sterling Silver Large Size Sand ...",
+   "med": 100,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7973650722",
    "title": "Vintage Hasselblad prism finder",
    "price": 100,
@@ -4734,6 +4877,17 @@
    "best": "ASSORTMENT OF 21 ANTIQUE HAND TOOLS, SAWS, CUTTERS, PLIERS ...",
    "med": 86,
    "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979344401",
+   "title": "Vintage Bitzenburger Fletching Stand",
+   "price": 85,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-bitzenburger/diooTu5Zu4DX4H1isbXt5N",
+   "best": "eBay",
+   "med": 86,
+   "ratio": 1.01,
    "ai_value": ""
   },
   {
