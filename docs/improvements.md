@@ -26,6 +26,14 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (09:30) — round 4 + calibration lesson
+- Triage round 4 (917 listings): 1 "buy" + 8 asks from agents; Terapeak re-check killed 4 of them — **agent
+  general-knowledge resale estimates ran ~2–3× higher than Terapeak sold medians** (lead soldiers $120 est vs ~$30/lot
+  sold; Reebok $120 vs $29; Ideal toy $110 vs $25; Garcia tee $120 vs $37). Rule: no lead goes to Dylan without a
+  Terapeak (or dated sold) comp; agent estimates are only for triage ordering.
+- CSV splits written with Python's csv module use CRLF → agents' curl URLs broke; write with lineterminator='\n'.
+- Policy filter: butterfly knives/balisong, Nazi militaria added (eBay-prohibited).
+
 ### 2026-10-13 (07:10) — Terapeak wave 2 and the eBay bot check
 - 1,100 queries were generated from every entry's Collectible and Top tiers. The first 369 ran (341 comps, 172 entries
   got top-tier sold data). Then eBay served its "Pardon Our Interruption" bot-check page, so the rest returned nothing.

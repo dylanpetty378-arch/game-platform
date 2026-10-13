@@ -12105,3 +12105,7 @@
 {"ts":"2026-10-13T09:21:32Z","pid":"7963406424","stage":"flagged","run":"lensworker-20261013-0915","data":{"med":5064,"ratio":50.64}}
 {"ts":"2026-10-13T09:21:41Z","pid":"7982174325","stage":"lensed","run":"lensworker-20261013-0915","data":{"med":31,"ratio":0.41}}
 {"ts":"2026-10-13T09:21:51Z","pid":"7938324940","stage":"lensed","run":"lensworker-20261013-0915","data":{"med":40,"ratio":1.33}}
+{"ts":"2026-10-13T09:22:15Z","pid":"7934055461","stage":"decided","status":"kill","note":"Terapeak: Barclay/Manoil lead soldier lots median $30 (lot of ~7), p75 $41 → 16 played-with figures ~$60–90 → profit ~$15–35 at $30. Agent estimate ($120) was ~2× sold reality.","run":"leadcheck-20261013b"}
+{"ts":"2026-10-13T09:22:15Z","pid":"7948192014","stage":"decided","status":"kill","note":"Terapeak: Reebok Newport Classic sold $20–29 (n=2) — not a collector shoe","run":"leadcheck-20261013b"}
+{"ts":"2026-10-13T09:22:15Z","pid":"7955909434","stage":"decided","status":"kill","note":"Terapeak: Ideal Fix-It Convertible median $25.5 (n=29), p75 $45","run":"leadcheck-20261013b"}
+{"ts":"2026-10-13T09:22:15Z","pid":"7944345694","stage":"decided","status":"kill","note":"Terapeak: vintage Jerry Garcia tees median $37 (n=44), p75 $60","run":"leadcheck-20261013b"}
