@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T08:26:43Z",
+ "updated": "2026-10-13T08:30:04Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3054,
-  "events": 10840,
+  "lens": 3079,
+  "events": 10865,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2386,
+  "queued": 2361,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 340,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 280,
-  "lensed": 363,
+  "flagged": 284,
+  "lensed": 384,
   "decided/find": 7,
   "expired": 1
  },
@@ -299,6 +299,17 @@
    "best": "Art Deco Bronze Sculpture by Otto Poertzel, 1920s | Chairish",
    "med": 5412,
    "ratio": 270.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955146536",
+   "title": "Vintage Hand Carved Wooden/Bronze/Stone/Ceramic.",
+   "price": 1,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-vintage-hand-carved-wooden/kJxHBkH8tay4osygUqoDJR",
+   "best": "1981 Hand Carved Female Wood Bust w/ Detailed | Mercari",
+   "med": 255,
+   "ratio": 255,
    "ai_value": ""
   },
   {
@@ -849,6 +860,17 @@
    "best": "Vintage 'brandon Wollen Mills' Beige + Pink Striped 'pure ...",
    "med": 99,
    "ratio": 9.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978434513",
+   "title": "Antique small, workhorse collars",
+   "price": 50,
+   "area": "bend",
+   "url": "https://www.craigslist.org/view/d/redmond-antique-small-workhorse-collars/6GbZGgKMUpm5nrdJxrHgBk",
+   "best": "Antique Leather Horse Collar Rustic Western Horse Wall ...",
+   "med": 485,
+   "ratio": 9.7,
    "ai_value": ""
   },
   {
@@ -1897,6 +1919,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979211102",
+   "title": "Antique Heavy Duty Railroad Bottle Screw Jack",
+   "price": 70,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/marysville-antique-heavy-duty-railroad/sDL9262GNNhwgmoj41Ug2A",
+   "best": "RARE VINTAGE LOUISVILLE & NASHVILLE RAILROAD MARKED CAST ...",
+   "med": 242,
+   "ratio": 3.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7952425613",
    "title": "BRACELET. Vintage \"Goldette\" Slide Chain Bracelet. 1960s. 9\" Long.",
    "price": 55,
@@ -1938,6 +1971,17 @@
    "best": "Handmade Terracotta Clay Water Jug with Lid and Handle, 1.5L ...",
    "med": 118,
    "ratio": 3.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954920376",
+   "title": "VINTAGE NODOR DARTBOARD",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/mc-lean-vintage-nodor-dartboard/cF3PWR17WxMNFEfSfPMPyn",
+   "best": "Nodor Supabull II steel tip dartboard moveable number wire ...",
+   "med": 100,
+   "ratio": 3.33,
    "ai_value": ""
   },
   {
