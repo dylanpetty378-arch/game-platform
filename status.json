@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:10:57Z",
+ "updated": "2026-10-13T13:14:17Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4837,
-  "events": 14772,
+  "lens": 4862,
+  "events": 14797,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 594,
-  "queued": 1403,
+  "lensed": 609,
+  "queued": 1378,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 354,
-  "flagged": 473,
+  "queued/relens": 356,
+  "flagged": 481,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1338,6 +1338,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956666416",
+   "title": "3 rings",
+   "price": 10,
+   "area": "jackson",
+   "url": "https://www.craigslist.org/view/d/tuscaloosa-rings/rUqDyyWn7BSzB45p7NWZu5",
+   "best": "DESIGNER JD SIGNED STERLING SILVER NATURAL DIAMONDS HEARTS ...",
+   "med": 110,
+   "ratio": 11,
+   "ai_value": ""
+  },
+  {
    "pid": "7936579124",
    "title": "Antique Hand Tools",
    "price": 10,
@@ -1591,6 +1602,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956097137",
+   "title": "Vintage lighter Zaima Chateau",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/8uu6ESbNq779xaS3cNte7z",
+   "best": "Would you like to know more about refilling the butane, replacing the flint, or troubleshooting ignition issue",
+   "med": 385,
+   "ratio": 8.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792815",
    "title": "Vintage German Stein",
    "price": 12,
@@ -1752,6 +1774,17 @@
    "url": "https://www.craigslist.org/view/d/schenectady-canes-and-pottery-holder/rhyy21c6oamUbeVphsCzMn",
    "best": "Pinterest",
    "med": 550,
+   "ratio": 7.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967955195",
+   "title": "Bucherer - vintage Swiss Alarm Clock",
+   "price": 80,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-bucherer-vintage-swiss-alarm/xmDS8qpigru9xHF7twCaqF",
+   "best": "eBay",
+   "med": 629,
    "ratio": 7.86,
    "ai_value": ""
   },
@@ -2867,6 +2900,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935757675",
+   "title": "World War 2 canteen",
+   "price": 35,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/la-follette-world-war-canteen/2HHCrERNamNaW7EFk4oLWw",
+   "best": "Era: Standard pattern introduced around World War I and widely manufactured and re-issued through WWII and the",
+   "med": 150,
+   "ratio": 4.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7950399264",
    "title": "Vintage Bicycle 26 inch",
    "price": 55,
@@ -3426,6 +3470,17 @@
    "med": 64,
    "ratio": 3.2,
    "ai_value": ""
+  },
+  {
+   "pid": "7948257469",
+   "title": "Beer signs",
+   "price": 25,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/hawthorne-beer-signs/hNz9U8hYCSRCoqS1YZo1m8",
+   "best": "VTG 1960s MILLER BEER The Champagne of Beers 2 sided ...",
+   "med": 80,
+   "ratio": 3.2,
+   "ai_value": "Value / Market Price: Generally sells between $80"
   },
   {
    "pid": "7948329385",
@@ -4418,6 +4473,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953476590",
+   "title": "Paintings by same Artist",
+   "price": 79,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/lebanon-paintings-by-same-artist/5xeKmxn6vjJ32QpFzRVhJj",
+   "best": "Cantrell Signed Wood Frame Landscape Oil Painting on Canvas ...",
+   "med": 145,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7981714881",
    "title": "ABOUT 70+ OLD BOTTLES",
    "price": 75,
@@ -4524,6 +4590,17 @@
    "url": "https://www.craigslist.org/view/d/crawfordville-vintage-brass-swordfish/3K6Qo3g1skbEibzeWXsLVs",
    "best": "Vintage 1950s Hakuli Brass Swordfish Corkscrew and Bottle ...",
    "med": 81,
+   "ratio": 1.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949589774",
+   "title": "Vintage marionetts",
+   "price": 60,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/reinholds-vintage-marionetts/bQRF8uR9PoZ1kkr7MZRKy2",
+   "best": "WorthPoint",
+   "med": 99,
    "ratio": 1.65,
    "ai_value": ""
   },
@@ -5502,6 +5579,17 @@
    "area": "roanoke",
    "url": "https://www.craigslist.org/view/d/fincastle-pocket-knives/bLpZMSf7KcggNkvNMK9vri",
    "best": "Left Knife: A small, well-worn utility or pen knife with dark wooden or bone-like handle scales and brass line",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946600233",
+   "title": "Leatherman pst  vintage multi tool new condition",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-leatherman-pst-vintage/aVtogG4agntSzpyDRohrv7",
+   "best": "Tool Type: Stainless steel folding multi-tool featuring needlenose/regular pliers, wire cutters, a knife blade",
    "med": null,
    "ratio": null,
    "ai_value": ""

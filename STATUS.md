@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T13:10:57Z
+# Refurbish status — 2026-10-13T13:14:17Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1403 |
-| lensed | 594 |
-| flagged | 473 |
-| queued/relens | 354 |
+| queued | 1378 |
+| lensed | 609 |
+| flagged | 481 |
+| queued/relens | 356 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 4837
-- events: 14772
+- lens: 4862
+- events: 14797
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (473)
+## Flagged by Lens, waiting for photo review (481)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -187,6 +187,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00y0y_3cENxpHvuUq_03S05a_300x300.jpg" width="120"> | 7978784082 | $10 | boston | [antique cookie Jars](https://www.craigslist.org/view/d/lowell-antique-cookie-jars/fcZyQN63419TTUmNgDQZwZ) | Vintage Cookie Jar 1950s American Bisque "granny Grandma ... | 115 | 11.5 |
 | <img src="https://images.craigslist.org/00d0d_7XDdxFDH3pi_0jm0ew_300x300.jpg" width="120"> | 7948318397 | $35 | valdosta | [Antique Egg gathering Basket](https://www.craigslist.org/view/d/summerfield-antique-egg-gathering-basket/pPC2jCt5FcKcGjPg9fiVmt) | Antique Primitive Handmade Wicker Melon Eggs Buttocks ... | 399 | 11.4 |
 | <img src="https://images.craigslist.org/00b0b_bN4UahmyTEd_0t20CI_300x300.jpg" width="120"> | 7941714611 | $25 | tulsa | [Vintage Loudspeaker](https://www.craigslist.org/view/d/wichita-vintage-loudspeaker/qsWLeXNEHhVrR8jCzq27Ew) | PUBLIC ADDRESS OR ALARM SPEAKER, COMMTRON, 8 OHM, 25 WATT .. | 279 | 11.16 |
+| <img src="https://images.craigslist.org/00s0s_2gph3zK6wRQ_0ew0gk_300x300.jpg" width="120"> | 7956666416 | $10 | jackson | [3 rings](https://www.craigslist.org/view/d/tuscaloosa-rings/rUqDyyWn7BSzB45p7NWZu5) | DESIGNER JD SIGNED STERLING SILVER NATURAL DIAMONDS HEARTS . | 110 | 11 |
 | <img src="https://images.craigslist.org/00c0c_f8hPPl3fJao_0CI0t2_300x300.jpg" width="120"> | 7936579124 | $10 | tallahassee | [Antique Hand Tools](https://www.craigslist.org/view/d/middleburg-antique-hand-tools/v97sNw3F95v5AFRjHRcha5) | 9 antique key hole saw Disston Atkins & more collectible ... | 109 | 10.9 |
 | <img src="https://images.craigslist.org/00J0J_ahhJcUknEIB_0t20CI_300x300.jpg" width="120"> | 7955093057 | $10 | nmi | [Vintage Wolverine Boots](https://www.craigslist.org/view/d/grand-rapids-vintage-wolverine-boots/uXLfdahf6sf452J3SeAc8Q) | eBay | 108 | 10.8 |
 | <img src="https://images.craigslist.org/00E0E_drLC8OlrYfK_0t20CI_300x300.jpg" width="120"> | 7949691101 | $25 | iowacity | [Vintage Hurricane Lamp 18"](https://www.craigslist.org/view/d/peoria-vintage-hurricane-lamp-18/mFSPCNnmSC18r41Ae6bETx) | vtg 1973 quoizel inc abigail adams floral hurricane parlor . | 270 | 10.8 |
@@ -210,6 +211,5 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00A0A_fHGXJ3HTp9q_0lM0t2_300x300.jpg" width="120"> | 7954104568 | $35 | atlanta | [Antique Child Soldier Statue](https://www.craigslist.org/view/d/atlanta-antique-child-soldier-statue/tmEVuWjcTgWMxgfu2R537n) | Decorative Bangles For $5 In Atlanta, GA / For Sale & Free . | 300 | 8.57 |
 | <img src="https://images.craigslist.org/00X0X_hTcwIHJnHuP_0t20CI_300x300.jpg" width="120"> | 7971379626 | $45 | newyork | [Vintage lighter Zaima Chateau](https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/3ie5dPnrZgvNYgL8EyoZnF) | Briquet chateau chatelet vintage - Collection | 385 | 8.56 |
 | <img src="https://images.craigslist.org/00p0p_lkPiUa2YpnW_03S05a_300x300.jpg" width="120"> | 7942986859 | $97 | eastnc | [30'' Diamond Cut Sterling Silver Chain 5g](https://www.craigslist.org/view/d/cherry-point-30-diamond-cut-sterling/bjgK1J41oymMJa82SA8hGP) | eBay | 830 | 8.56 |
+| <img src="https://images.craigslist.org/00X0X_hTcwIHJnHuP_0t20CI_300x300.jpg" width="120"> | 7956097137 | $45 | newyork | [Vintage lighter Zaima Chateau](https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/8uu6ESbNq779xaS3cNte7z) | Would you like to know more about refilling the butane, repl | 385 | 8.56 |
 | <img src="https://images.craigslist.org/00c0c_gOmPAwHT4hQ_0CI0t2_300x300.jpg" width="120"> | 7931792815 | $12 | iowacity | [Vintage German Stein](https://www.craigslist.org/view/d/peoria-vintage-german-stein/gxBDoE7rkJgV5UCrHacPkz) | Antique German Stoneware Cobalt Blue Salt Glazed Pewter ... | 102 | 8.5 |
-| <img src="https://images.craigslist.org/00808_4aFyZoIWbna_0t20CI_300x300.jpg" width="120"> | 7970260023 | $10 | newyork | [Old broach ….Ladies 💥✨🔥🌤☀️🌪](https://www.craigslist.org/view/d/kew-gardens-old-broach-ladies/6Prm9B8nfdsQ7juYXxCgVZ) | Unique Unusual Jewelry Findings PIN BROOCH Handmade Acrylic  | 85 | 8.5 |
-| <img src="https://images.craigslist.org/00g0g_kYmJMqT075H_0vS0o0_300x300.jpg" width="120"> | 7981937970 | $30 | bellingham | [Vintage Italian Jewelry Box](https://www.craigslist.org/view/d/sidney-vintage-italian-jewelry-box/osLd8Moaf5RwEDE3saQFyk) | Clean Vintage EMSON Wooden Jewelry Box - Etsy | 250 | 8.33 |
