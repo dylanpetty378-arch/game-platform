@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:36:10Z",
+ "updated": "2026-10-13T06:40:36Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2354,
-  "events": 9889,
+  "lens": 2379,
+  "events": 9914,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3086,
+  "queued": 3061,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 107,
-  "lensed": 118
+  "flagged": 117,
+  "lensed": 133
  },
  "last_harvests": [
   {
@@ -246,6 +246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981540926",
+   "title": "Set of 8\" Porcelain Vase",
+   "price": 15,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-set-of-porcelain-vase/9XzmZRhZcmoxF913vzgxrz",
+   "best": "Blue and White Chinese Dragon Vase - Etsy",
+   "med": 1850,
+   "ratio": 123.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7982585961",
    "title": "Vintage metal purses",
    "price": 40,
@@ -342,6 +353,17 @@
    "best": "Etsy",
    "med": 725,
    "ratio": 25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982631516",
+   "title": "Vintage Print Picture of Painting (Child Stacking Cards) & Wood Frame",
+   "price": 40,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/fairview-vintage-print-picture-of/5wjRcYfN147SjXivJvxDSM",
+   "best": "Boy with a House of Cards by Fran\u00e7ois Hubert Drouais - 10 X ...",
+   "med": 918,
+   "ratio": 22.95,
    "ai_value": ""
   },
   {
@@ -785,6 +807,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948970318",
+   "title": "Antique Sugar Bowl Limoges GDA France, gold gilt trim, Haviland",
+   "price": 35,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-antique-sugar-bowl-limoges/oqS2VcppPgWYubodamu16N",
+   "best": "Arts & Crafts Hand-painted Sugar and Creamer Set | eBay",
+   "med": 149,
+   "ratio": 4.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7947975634",
    "title": "Vintage Framed European Tapestry",
    "price": 30,
@@ -847,6 +880,28 @@
    "url": "https://www.craigslist.org/view/d/hampton-beautiful-antique-hand-painted/baT6aYw3r8vpTdeJa949yi",
    "best": "Vintage Yellow Red Rose Floral Hurricane Lamp 16.75 ...",
    "med": 225,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934500005",
+   "title": "Women\u2019s Vintage Watches",
+   "price": 20,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/bound-brook-womens-vintage-watches/poXRbsxexqw7bP6EcZPiKw",
+   "best": "womens stainless steel citizens watch new. Beautiful blue face ...",
+   "med": 75,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933252293",
+   "title": "Vintage Women\u2019s Watches",
+   "price": 20,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/belle-mead-vintage-womens-watches/3uW7TCEy4gvE8FRLH326sN",
+   "best": "womens stainless steel citizens watch new. Beautiful blue face ...",
+   "med": 75,
    "ratio": 3.75,
    "ai_value": ""
   },
@@ -914,6 +969,17 @@
    "best": "Vintage Zuni Old Pawn 925 Sterling Silver Fish Scale ...",
    "med": 251,
    "ratio": 3.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979869497",
+   "title": "Vintage Mechanical Timex Girl Scout/Brownie Watch",
+   "price": 20,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-mechanical-timex-girl/mGLGGVwMJx5uG7Yu2iwC6t",
+   "best": "Vintage Jewelry from Brownies/Girl Scouts - Working Wrist ...",
+   "med": 61,
+   "ratio": 3.05,
    "ai_value": ""
   },
   {
@@ -1016,6 +1082,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981220466",
+   "title": "Chinese 19th century Tazza Bowl Famille Rose",
+   "price": 70,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/goleta-chinese-19th-century-tazza-bowl/3BE4r2bxCkAVfUgiZPyPrq",
+   "best": "Chinese Famille Rose footed Bowl c19th century | eBay",
+   "med": 195,
+   "ratio": 2.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7956977066",
    "title": "Mid-Century Wall D\u00e9cor",
    "price": 50,
@@ -1035,6 +1112,17 @@
    "best": "Craigslist",
    "med": 135,
    "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958148524",
+   "title": "vintage mailbox",
+   "price": 45,
+   "area": "fortsmith",
+   "url": "https://www.craigslist.org/view/d/fort-smith-vintage-mailbox/1oCNQWQt6yHErL67GjWi7j",
+   "best": "Vintage Us Mailbox | eBay",
+   "med": 121,
+   "ratio": 2.69,
    "ai_value": ""
   },
   {
@@ -1078,6 +1166,17 @@
    "url": "https://www.craigslist.org/view/d/fredericksburg-vintage-hand-etched/2ScSFRDmNGL94M82Y4Pq6i",
    "best": "Rare Vintage Pyramid Egypt Patina Copper Ribbed Ornate 5 ...",
    "med": 118,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943833788",
+   "title": "Antique Nippon Moriage Vase/Pitcher",
+   "price": 125,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-antique-nippon-moriage-vase/hkz5UbkHibTMLPCAAFtGjV",
+   "best": "ANTIQUE AUTHENTIC NIPPON MORIAGE VIOLETS LEAVES DECORATED ...",
+   "med": 295,
    "ratio": 2.36,
    "ai_value": ""
   },
@@ -1200,6 +1299,17 @@
    "best": "Stones: Inlaid curved sections of genuine multi-color jade (typically featuring shades such as lavender/purple",
    "med": 364,
    "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965055707",
+   "title": "Antique fuel cans",
+   "price": 100,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/veradale-antique-fuel-cans/xeJpr5nCJZc7c9TuFKM4vm",
+   "best": "Antique Davis Welding & Mfg. Co. Oil Gas Can 5 Gallon ...",
+   "med": 178,
+   "ratio": 1.78,
    "ai_value": ""
   },
   {
