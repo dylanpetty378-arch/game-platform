@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:56:03Z",
+ "updated": "2026-10-13T17:59:39Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6553,
-  "events": 21623,
+  "lens": 6578,
+  "events": 21648,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 238,
+  "lensed": 246,
   "comps/pass": 1,
-  "queued/relens": 204,
+  "queued/relens": 208,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 285,
+  "flagged": 298,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 300
+  "queued": 275
  },
  "last_harvests": [
   {
@@ -471,6 +471,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952474801",
+   "title": "VINTAGE 1960'S SQUIRREL PLANTER ~ NAPCOWARE",
+   "price": 40,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-1960s-squirrel-planter/rXfGs85ix8cVYdjv9Aighn",
+   "best": "Napcoware Squirrel Planter Japan Circa 1960s by @shop20max ...",
+   "med": 2474,
+   "ratio": 61.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7956157238",
    "title": "Framed Antique Embroidered Silk",
    "price": 50,
@@ -490,6 +501,28 @@
    "best": "Vtg Hats Lot 20 Mix Baseball Sports Resale Wholesale Golf ...",
    "med": 47,
    "ratio": 47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955749999",
+   "title": "MOST UNIQUE!!Vintage Nude Girl Lamp-Works Fine",
+   "price": 15,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-most-uniquevintage-nude-girl/7o7Mmd8QnFU1EXjLq6gX8W",
+   "best": "Craigslist",
+   "med": 646,
+   "ratio": 43.07,
+   "ai_value": "price these decorative conversation pieces around $15 to $20"
+  },
+  {
+   "pid": "7932842500",
+   "title": "Unique Vintage Handmade 2 Handle Jug Pottery Canteen Handing Vase",
+   "price": 15,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-unique-vintage-handmade-handle/rsoyvk4E7Uhg1xFUzh8wCv",
+   "best": "Handles & Suspension: Two small ceramic loop handles (lugs) on the sides of the neck threaded with a worn leat",
+   "med": 643,
+   "ratio": 42.87,
    "ai_value": ""
   },
   {
@@ -589,6 +622,17 @@
    "best": "Craigslist",
    "med": 875,
    "ratio": 21.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933717352",
+   "title": "Antique Copper Vase Vintage Brass Urn",
+   "price": 20,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-antique-copper-vase-vintage/itp4nNSdDQjbXV9tEKiLeK",
+   "best": "Motifs: Relief-carved dragon and mask/mythical animal designs wrapping around the body, with detailed repouss\u00e9",
+   "med": 421,
+   "ratio": 21.05,
    "ai_value": ""
   },
   {
@@ -867,6 +911,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931418526",
+   "title": "2 Limited Edition Plate Etchings by Artist Joseph Culpepper Signed",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-limited-edition-plate-etchings/3LcoAoB1EvBi48ai12Vyd5",
+   "best": "John Moran Auctioneers",
+   "med": 400,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7962774231",
    "title": "Sterling Silver Ruby Rings - $40 each",
    "price": 40,
@@ -955,6 +1010,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7981649634",
+   "title": "Ladies Fashion Rhodium Rings",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-ladies-fashion-rhodium-rings/mFpJdMm7VRkYChVBdVvdVs",
+   "best": "Craigslist",
+   "med": 117,
+   "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980320721",
+   "title": "Drum Stuff",
+   "price": 30,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/pasadena-drum-stuff/iLgX2ax1yAcdhg2zK1MD12",
+   "best": "Vintage Tama Imperialstar 26 x 14 Bonham Bass Drum ...",
+   "med": 225,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7949106731",
    "title": "PHOENIX RISING - ANTIQUE CHINESE VASE",
    "price": 100,
@@ -1040,6 +1117,17 @@
    "best": "1stDibs",
    "med": 440,
    "ratio": 6.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973140689",
+   "title": "Vintage lighter Zaima Chateau",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/mNhzYZ7Y961FkGJv9xKa8c",
+   "best": "Briquet chateau chatelet vintage - Collection",
+   "med": 299,
+   "ratio": 6.64,
    "ai_value": ""
   },
   {
@@ -1183,6 +1271,17 @@
    "best": "I can help you look up more details or comparable values.",
    "med": 195,
    "ratio": 5.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965942258",
+   "title": "24\u201d chain with carnelian stone",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-24-chain-with-carnelian/s3cQZs7gFePWNM2kp6Mxhr",
+   "best": "Poshmark",
+   "med": 55,
+   "ratio": 5.5,
    "ai_value": ""
   },
   {
@@ -1813,6 +1912,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943399248",
+   "title": "Vintage Score And Schedule Card For Games",
+   "price": 3,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-score-and-schedule/3xpAKQ16fhh1dp9vk5fBKo",
+   "best": "Vintage Unused Art Deco Bridge Tally of Dancing Flamenco ...",
+   "med": 9,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7943408324",
    "title": "Vintage Wedding Dress",
    "price": 50,
@@ -1942,6 +2052,17 @@
    "best": "Vintage/Antique Kessler Whiskey Baseball Player Figure Lamp ...",
    "med": 165,
    "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953391492",
+   "title": "Set of four small clay bowls",
+   "price": 30,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-set-of-four-small-clay-bowls/aosrTTBibqtiRW4zfSVLG5",
+   "best": "3 Piece Set Original Mccoy USA Oven Proof 1950s Nesting ...",
+   "med": 82,
+   "ratio": 2.73,
    "ai_value": ""
   },
   {
@@ -2085,6 +2206,17 @@
    "best": "VINTAGE MacGregor Oil Hardened Jack Nicklaus Muirfield ...",
    "med": 50,
    "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952474900",
+   "title": "African Tribal Art",
+   "price": 70,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-african-tribal-art/9UwDm6QF1UvEqeT57jjkdC",
+   "best": "Asante Fante Akua'ba Fertility Doll Ghana",
+   "med": 174,
+   "ratio": 2.49,
    "ai_value": ""
   },
   {
@@ -2888,6 +3020,17 @@
    "best": "Disney Women's Mickey Mouse Two Tone Bracelet | Mercari",
    "med": 27,
    "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980571134",
+   "title": "Lenox Tinkerbell's Magical Garden",
+   "price": 115,
+   "area": "fredericksburg",
+   "url": "https://www.craigslist.org/view/d/fredericksburg-lenox-tinkerbells/kGLniePZXA4FXaW3PNXsDN",
+   "best": "Amazon.com: Lenox Tinkerbell's Magical Garden : Home & Kitchen",
+   "med": 123,
+   "ratio": 1.07,
    "ai_value": ""
   },
   {
