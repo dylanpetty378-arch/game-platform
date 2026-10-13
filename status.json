@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:23:44Z",
+ "updated": "2026-10-13T05:27:42Z",
  "tables": {
   "harvests": 3,
   "searches": 168,
   "listings": 4607,
-  "lens": 1904,
-  "events": 8301,
+  "lens": 1929,
+  "events": 8326,
   "comps": 159,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1411,
-  "queued": 2736,
+  "queued": 2711,
   "comps/pass": 1,
   "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 64,
-  "lensed": 49,
+  "flagged": 73,
+  "lensed": 65,
   "decided/find": 7
  },
  "last_harvests": [
@@ -422,6 +422,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948143567",
+   "title": "Vintage anniversary clock",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-anniversary-clock/aCemXzhkVEj8w3SqafFVw3",
+   "best": "Rhythm Quartz Anniversary Clock - Etsy",
+   "med": 200,
+   "ratio": 6.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7952962879",
    "title": "Vintage Stoneware Pottery Lamp",
    "price": 20,
@@ -488,6 +499,17 @@
    "ai_value": "sell around $80 to $185"
   },
   {
+   "pid": "7960290288",
+   "title": "Vintage Lakeshore Trike",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/golf-vintage-lakeshore-trike/jYrBk78gRjoLyBAxCKT9Ve",
+   "best": "Lakeshore Vintage School Trike/Tricycle Red | eBay",
+   "med": 290,
+   "ratio": 5.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7955863056",
    "title": "Vintage rci race suit",
    "price": 25,
@@ -508,6 +530,17 @@
    "med": 200,
    "ratio": 5,
    "ai_value": "Value: Similar vintage wooden ski pairs generally sell for around $50 to $200"
+  },
+  {
+   "pid": "7950438925",
+   "title": "Antique wooden barrel",
+   "price": 35,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-antique-wooden-barrel/dNsLqEXCHuu2ARyt1RrbFb",
+   "best": "1950's Peterboro Basket Wooden Ice Bucket with plastic liner ...",
+   "med": 154,
+   "ratio": 4.4,
+   "ai_value": ""
   },
   {
    "pid": "7958742807",
@@ -598,6 +631,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981128453",
+   "title": "Vintage Amberglass Demijohn Bottle",
+   "price": 75,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-amberglass-demijohn/bn6gVoFcRupMnBdHophkKD",
+   "best": "Antique French Dame Jeanne Amber Glass Demijohn Wine Bottle ...",
+   "med": 252,
+   "ratio": 3.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7975000032",
    "title": "Loot Fright Horror Stuff",
    "price": 45,
@@ -664,6 +708,17 @@
    "ai_value": "sell on platforms like eBay or Etsy for roughly $25 to $200,"
   },
   {
+   "pid": "7952565948",
+   "title": "Large Vintage Talavera Vase/Urn",
+   "price": 65,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-large-vintage-talavera/52mTjugwKrsqmpwMAy4nVS",
+   "best": "RARE Find Italian Pottery Ornato Jar, Urn Large Vase | eBay",
+   "med": 164,
+   "ratio": 2.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7947437208",
    "title": "Traveling Vintage Backgammon Set",
    "price": 35,
@@ -686,6 +741,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931201775",
+   "title": "Vintage Cassette Tape Holder",
+   "price": 50,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/woonsocket-vintage-cassette-tape-holder/9dXbQMiuhj4nKLMwBgQgsi",
+   "best": "Vintage 100 Slot Napa Valley Wood Cassette Tape Case Holder ...",
+   "med": 125,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7971533985",
    "title": "Vintage Nativity Scene Set",
    "price": 39,
@@ -694,6 +760,17 @@
    "best": "VTG CARSON STATESMETAL PEWTER 9 PIECE NATIVITY SET W/STABLE ...",
    "med": 95,
    "ratio": 2.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955642782",
+   "title": "Vintage Chimayo Zarape Serape",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-vintage-chimayo-zarape-serape/rrbCYfWRf21QYGu4Z2m7nK",
+   "best": "Sold at Auction: Native American Chimayo Rug Blanket Blue",
+   "med": 96,
+   "ratio": 2.4,
    "ai_value": ""
   },
   {
@@ -818,6 +895,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953473209",
+   "title": "Miscellaneous",
+   "price": 30,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/junction-city-miscellaneous/971Qd4K8Z9p5542TfK6ybU",
+   "best": "Stack-On PB-19 19-Inch Pro Tool Box, Black/Gray : Amazon.sg ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7951547362",
    "title": "Antique knife",
    "price": 45,
@@ -868,6 +956,17 @@
    "area": "raleigh",
    "url": "https://www.craigslist.org/view/d/bynum-olds-ambassador-trumpet-vintage/fthXzzXGdmeH5EE2LUP8nm",
    "best": "Make/Model: F.E. Olds & Son Ambassador",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965761454",
+   "title": "Stuff",
+   "price": 100,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/ellwood-city-stuff/qEjzLZrQG5YQFQgyeiWB7C",
+   "best": "MVP SuperLift hydraulic floor jack, 4,000 lb (2 ton) lifting ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
