@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T16:57:47Z",
+ "updated": "2026-10-13T17:01:33Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6153,
-  "events": 21223,
+  "lens": 6178,
+  "events": 21248,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 155,
+  "lensed": 160,
   "comps/pass": 1,
-  "queued/relens": 21,
+  "queued/relens": 28,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 151,
+  "flagged": 164,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 700
+  "queued": 675
  },
  "last_harvests": [
   {
@@ -603,6 +603,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933576450",
+   "title": "Gemstone necklace",
+   "price": 20,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/nipomo-gemstone-necklace/1AkK4Fvz3tub7B49ppxQK3",
+   "best": "Etsy",
+   "med": 230,
+   "ratio": 11.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7934477929",
    "title": "Vintage Navajo Handmade Sterling Silver and Turquoise Coral Ring",
    "price": 40,
@@ -911,6 +922,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929167864",
+   "title": "Vintage Wood Nutcracker 11\"",
+   "price": 20,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-wood-nutcracker-11/qT7ZXDR1NPyD1MYXfLP3ps",
+   "best": "Function: Operates as a lever nutcracker, where moving the back handle or lever raises or lowers the jaw/tongu",
+   "med": 92,
+   "ratio": 4.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7934461274",
    "title": "Vintage Navajo Handmade Sterling Silver and Turquoise Necklace Pendant",
    "price": 40,
@@ -1054,6 +1076,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956305444",
+   "title": "Vintage decorative bowl",
+   "price": 25,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/katy-vintage-decorative-bowl/r3Jmwj3pzKwGRAYnTrUgxz",
+   "best": "Invaluable.com",
+   "med": 90,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7948518962",
    "title": "STERLING SILVER 17\" CHAIN ~ NEW",
    "price": 30,
@@ -1087,6 +1120,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942839544",
+   "title": "pair vintage statues, similar to Royal Doulton",
+   "price": 10,
+   "area": "newlondon",
+   "url": "https://www.craigslist.org/view/d/lincoln-pair-vintage-statues-similar-to/dQxXeQGz2y6SY7NhyxsV6v",
+   "best": "Craigslist",
+   "med": 35,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7975826109",
    "title": "PartyLite Old World Village Collection The Clocktower",
    "price": 20,
@@ -1094,6 +1138,17 @@
    "url": "https://www.craigslist.org/view/d/summerville-partylite-old-world-village/eBGWQwBvj4cqydpo9LPozq",
    "best": "Partylite Ole World Village The Clocktower Candle Holder ...",
    "med": 68,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953541770",
+   "title": "Vintage Chateau Brown Transferware Sugar Bowl",
+   "price": 10,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/hillsboro-vintage-chateau-brown/bHUsLTGTsWAiD6NsXHdN65",
+   "best": "Vintage Ucagco Japan Royal Vista Creamer and Sugar Bowl with ...",
+   "med": 34,
    "ratio": 3.4,
    "ai_value": ""
   },
@@ -1406,6 +1461,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7942033011",
+   "title": "Vintage Ceramic Figurines",
+   "price": 10,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/hillsboro-vintage-ceramic-figurines/v1Au9UqQpeocSaumUsJV5M",
+   "best": "Origin: Mid-century novelty kitchenware or souvenirs commonly produced in Japan during the post-WWII or Occupi",
+   "med": 22,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965361485",
+   "title": "Echt Cobalt Bareuther 22K Gold Teapot-Rocklin",
+   "price": 45,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/rocklin-echt-cobalt-bareuther-22k-gold/oe4qLGzRYBxWj6SnWQUf9p",
+   "best": "Manufacturer: Bareuther Waldsassen (Bavaria, Germany)",
+   "med": 98,
+   "ratio": 2.18,
+   "ai_value": ""
+  },
+  {
    "pid": "7951803040",
    "title": "sterling silver candle holders",
    "price": 100,
@@ -1593,6 +1670,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978405131",
+   "title": "vintage STIG LARSON GUSTAVSBERG TEAPOT",
+   "price": 65,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bainbridge-island-vintage-stig-larson/tAG6yKUystx6YxwZbG2bJv",
+   "best": "Auctionet",
+   "med": 115,
+   "ratio": 1.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7951041863",
    "title": "SLED \"LIGHTING GUIDER\" OLD",
    "price": 75,
@@ -1667,6 +1755,17 @@
    "best": "Tines and Guard: Features a two-pronged steel fork with a mechanical finger guard that flips or stands upright",
    "med": 29,
    "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951013144",
+   "title": "Seiko 2E20-6311 Women's Quartz Watch",
+   "price": 35,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-seiko-2e-womens-quartz-watch/3PbhvTBLzuugGkW4Y955pt",
+   "best": "WatchCharts Marketplace",
+   "med": 50,
+   "ratio": 1.43,
    "ai_value": ""
   },
   {
@@ -1758,6 +1857,17 @@
    "ai_value": "Price Range: Typically sells between $75"
   },
   {
+   "pid": "7973140314",
+   "title": "3/strand vintage crystal necklace",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-strand-vintage-crystal/ceB7v6ZJgNFVB4R47gdGRS",
+   "best": "Beads: Faceted clear or iridescent crystal/glass beads that catch and reflect light, sometimes featuring an Au",
+   "med": 39,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7973912457",
    "title": "Vintage bongos",
    "price": 45,
@@ -1802,6 +1912,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978971132",
+   "title": "Antique Cast Iron Bank, Sharecropper",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-cast-iron-bank-sharecropper/3zobV41VeBVURCKpxpYSov",
+   "best": "National Museum of African American History and Culture",
+   "med": 50,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7955143053",
    "title": "Knick-knack stuff",
    "price": 100,
@@ -1810,6 +1931,17 @@
    "best": "It's a beautiful day to do some vintage shopping. Start out ...",
    "med": 95,
    "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953795609",
+   "title": "Variety Lot of 85+ Costume Jewelry Rings",
+   "price": 90,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-variety-lot-of-85-costume/roPsjT18yWEcgR7XJoSXJe",
+   "best": "Facebook",
+   "med": 85,
+   "ratio": 0.94,
    "ai_value": ""
   },
   {
@@ -1888,6 +2020,17 @@
    "med": 72,
    "ratio": 0.72,
    "ai_value": ""
+  },
+  {
+   "pid": "7955008884",
+   "title": "Vintage Maytag Co. Fuel Mixing Can",
+   "price": 95,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-vintage-maytag-co-fuel/2Ax3kgb7rXFs4fhMnCBCcF",
+   "best": "Antique 1920's MAYTAG Fuel, Motor Oil Mixing Can, Automobile Tin",
+   "med": 65,
+   "ratio": 0.68,
+   "ai_value": "Value / Market Price: Typically ranges between $75"
   },
   {
    "pid": "7953805998",
