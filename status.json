@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T16:11:36Z",
+ "updated": "2026-10-13T16:15:01Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5987,
-  "events": 20249,
+  "lens": 6012,
+  "events": 20274,
   "comps": 1350,
   "item_types": 795,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 6764,
+  "photo_review/kill": 6739,
+  "lensed": 106,
   "comps/pass": 1,
-  "lensed": 98,
+  "queued/relens": 8,
   "decided/ask": 54,
   "decided/kill": 6,
   "decided/pass": 1,
-  "flagged": 62,
+  "flagged": 72,
   "comps/fail": 5,
   "expired": 8,
-  "queued/relens": 1,
   "decided/find": 8
  },
  "last_harvests": [
@@ -333,6 +333,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7957667393",
+   "title": "Lots of different stuff",
+   "price": 26,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/salinas-lots-of-different-stuff/kPnMXv2sJYehvrX5DdBTeC",
+   "best": "Antique 20th Century Washstand In Oak in Antique Wash Stands",
+   "med": 5740,
+   "ratio": 220.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7940962813",
    "title": "*Antique fiddle bow*",
    "price": 75,
@@ -509,6 +520,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935533362",
+   "title": "6 vintage tapestry pillows",
+   "price": 35,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-vintage-tapestry-pillows/7SKAXKKci4e1hrccUkXcz7",
+   "best": "French Vintage Jacquard Tapestry Decorative Throw Pillow ...",
+   "med": 292,
+   "ratio": 8.34,
+   "ai_value": ""
+  },
+  {
    "pid": "7963650435",
    "title": "Doll Vintage Madame Alexander Doll",
    "price": 15,
@@ -542,6 +564,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942627095",
+   "title": "Vintage \"FAT\" lamp",
+   "price": 35,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/grove-city-vintage-fat-lamp/db4R84iEJmHorhzwjiZs57",
+   "best": "www.casavictoriala.com",
+   "med": 250,
+   "ratio": 7.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7956750947",
    "title": "Vintage flat bottom cast iron bean pot or cauldron",
    "price": 20,
@@ -564,6 +597,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951354578",
+   "title": "Vintage Skil belt sander",
+   "price": 50,
+   "area": "iowacity",
+   "url": "https://www.craigslist.org/view/d/janesville-vintage-skil-belt-sander/e1X4uuxKAVeDsZyp5Gjq8w",
+   "best": "Vintage Model 448 Skil Locomotive Belt Sander Made In USA",
+   "med": 345,
+   "ratio": 6.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7955903433",
    "title": "Vintage Wicker Table Lamp",
    "price": 65,
@@ -572,6 +616,17 @@
    "best": "1stDibs",
    "med": 440,
    "ratio": 6.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935132535",
+   "title": "Two Vintage Art Prints",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-two-vintage-art-prints/nMyWFavjQ1GsmivPm9VMQN",
+   "best": "www.pamono.com",
+   "med": 325,
+   "ratio": 6.5,
    "ai_value": ""
   },
   {
@@ -630,6 +685,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929300669",
+   "title": "Vintage Barrel Hand Truck",
+   "price": 75,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-barrel-hand-truck/2Lr3JoU5gr4W4N2apdVLgH",
+   "best": "Wheels: Cast iron or hard rubber wheels with a distinct patina and rust.",
+   "med": 325,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7952576598",
    "title": "Vintage Timex Indiglo watch",
    "price": 15,
@@ -649,6 +715,17 @@
    "best": "Handgemaakte akoestische 12-snarige gitaar (ca. 1960 ...",
    "med": 495,
    "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947022865",
+   "title": "Vintage Turquoise Ring",
+   "price": 20,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-vintage-turquoise-ring/54VPNPGdSmHrhN1JZeonT7",
+   "best": "Vintage Navajo Sterling Silver Turquoise band Ring size 7 | eBay",
+   "med": 75,
+   "ratio": 3.75,
    "ai_value": ""
   },
   {
@@ -872,6 +949,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942805077",
+   "title": "ANTIQUE YARN WINDER",
+   "price": 100,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/sacramento-antique-yarn-winder/64NRZVwG4MM6LzF5idmEe6",
+   "best": "Function: Used in historical textile work to wind spun yarn into measured skeins, often featuring an internal ",
+   "med": 180,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7930151538",
    "title": "VINTAGE BOILER",
    "price": 75,
@@ -880,6 +968,17 @@
    "best": "Galvanized Boiler Tub - Etsy",
    "med": 135,
    "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951041863",
+   "title": "SLED \"LIGHTING GUIDER\" OLD",
+   "price": 75,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/nabb-sled-lighting-guider-old/hp5WBKSEr4rG1yN3YAHref",
+   "best": "Steering Mechanism: Includes the classic crossbar steering mechanism at the front attached to the flexible ste",
+   "med": 126,
+   "ratio": 1.68,
    "ai_value": ""
   },
   {
@@ -946,6 +1045,17 @@
    "best": "Beautiful Quality Vintage SOLID Sterling Silver-dolphin ...",
    "med": 197,
    "ratio": 1.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938268887",
+   "title": "Dozen crystal stemware vintage",
+   "price": 85,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-dozen-crystal-stemware-vintage/9bmLqZB4Tzin3WsfYF9nVs",
+   "best": "Rare! Gorgeous Cherokee Rose by TIFFIN-FRANCISCAN ...",
+   "med": 112,
+   "ratio": 1.32,
    "ai_value": ""
   },
   {
