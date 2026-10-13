@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T04:14:26Z",
+ "updated": "2026-10-13T04:20:07Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1479,
-  "events": 6981,
+  "lens": 1504,
+  "events": 7006,
   "comps": 152,
   "item_types": 217,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3162,
-  "lensed": 506,
+  "queued": 3137,
+  "lensed": 518,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 309,
@@ -21,7 +21,7 @@
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 69
+  "flagged": 82
  },
  "last_harvests": [
   {
@@ -169,6 +169,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7979510112",
+   "title": "Vintage Ceramic Hollywood Regency Table Lamp",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-ceramic-hollywood/csEUAGM5AcvkeGwGaTCxeQ",
+   "best": "Etsy",
+   "med": 1118,
+   "ratio": 74.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7982523450",
    "title": "Stone Lion",
    "price": 20,
@@ -232,6 +243,17 @@
    "best": "The Frame: Housed in a classic, distressed gold-gilt oval frame typical of early-to-mid-20th-century home deco",
    "med": 240,
    "ratio": 24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936784973",
+   "title": "ANTIQUE UNIQUE Bamboo Umbrella Stand Holder /Creative Idea see below",
+   "price": 22,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-antique-unique-bamboo-umbrella/jc7fghHr8U7DHNmXNbrpqT",
+   "best": "Mercari",
+   "med": 495,
+   "ratio": 22.5,
    "ai_value": ""
   },
   {
@@ -345,6 +367,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928703105",
+   "title": "Precious Moments Porcelain Bisque Doll Vintage",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-precious-moments-porcelain/1vq3iQeTexNEptnPK2rh9U",
+   "best": "Precious Moments Angie the Angel of Mercy Nurse Doll ...",
+   "med": 243,
+   "ratio": 9.72,
+   "ai_value": "Value: Generally ranges between $70"
+  },
+  {
    "pid": "7934931919",
    "title": "Pittsburgh Steelers garage sign",
    "price": 20,
@@ -354,6 +387,17 @@
    "med": 190,
    "ratio": 9.5,
    "ai_value": "Price: Typically ranges from about $19"
+  },
+  {
+   "pid": "7945259345",
+   "title": "Antique 1880\u2019s Seth Thomas Wall Clock",
+   "price": 100,
+   "area": "palmsprings",
+   "url": "https://www.craigslist.org/view/d/indian-wells-antique-1880s-seth-thomas/8qKAM3Tsut8AeUiYZaGuss",
+   "best": "Fontaine's Auction Gallery",
+   "med": 940,
+   "ratio": 9.4,
+   "ai_value": ""
   },
   {
    "pid": "7930916178",
@@ -422,6 +466,17 @@
    "ai_value": "sell secondhand between $50"
   },
   {
+   "pid": "7945582034",
+   "title": "Old Havana Fan",
+   "price": 85,
+   "area": "missoula",
+   "url": "https://www.craigslist.org/view/d/missoula-old-havana-fan/pdRS7LQCD84jh3t6Vx6U9a",
+   "best": "eBay",
+   "med": 646,
+   "ratio": 7.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7975437819",
    "title": "vintage old decorative china plates",
    "price": 30,
@@ -452,6 +507,17 @@
    "best": "eBay",
    "med": 395,
    "ratio": 5.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971779049",
+   "title": "\u201cThe Allen\u201d Glass Framed Girl in Garden",
+   "price": 90,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/altamonte-springs-the-allen-glass/gtyLJhCtCS1SNovtnhepoC",
+   "best": "REMBRANDT PRINTS - Lot of 2 - Framed at (Fernandez Kettering ...",
+   "med": 495,
+   "ratio": 5.5,
    "ai_value": ""
   },
   {
@@ -496,6 +562,17 @@
    "best": "Wallapop",
    "med": 396,
    "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959010080",
+   "title": "Vintage 1960's Sadler Porcelain Tea Pot made in England",
+   "price": 20,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-1960s-sadler-porcelain/kviQDbUJeqXQ8v25797LBh",
+   "best": "Craigslist",
+   "med": 78,
+   "ratio": 3.9,
    "ai_value": ""
   },
   {
@@ -576,6 +653,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930383380",
+   "title": "#2 Small Stoneware Crock",
+   "price": 45,
+   "area": "loz",
+   "url": "https://www.craigslist.org/view/d/sunrise-beach-small-stoneware-crock/mzUFvVShTC5frbvsVNvk1k",
+   "best": "2 Gallon Antique Crock - Etsy",
+   "med": 130,
+   "ratio": 2.89,
+   "ai_value": "Value & Pricing: Similar vintage and antique 2-gallon crocks typically sell between $45"
+  },
+  {
    "pid": "7948843414",
    "title": "Vintage Abstract Surrealist Art Painting Original",
    "price": 175,
@@ -653,6 +741,17 @@
    "ai_value": "Value: Generally sells between $120"
   },
   {
+   "pid": "7974883008",
+   "title": "Vintage Mira Fujita Paintings (2)",
+   "price": 40,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/garner-vintage-mira-fujita-paintings/3xHg4swDT52GwXXbEu1iwS",
+   "best": "Picture From Mira Fujita Paris 1984 | eBay",
+   "med": 99,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7944889209",
    "title": "Glasses",
    "price": 40,
@@ -693,6 +792,17 @@
    "url": "https://www.craigslist.org/view/d/camas-vintage-nautical-light-red/jMwkHW99eP72PoLaJuxNe7",
    "best": "Facebook",
    "med": 240,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952044934",
+   "title": "Antique French Portieux  Candlestick Candle Holder",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/georgetown-antique-french-portieux/nJAY88WWz3wXRFJU6ZAsfi",
+   "best": "Proantic",
+   "med": 120,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -796,6 +906,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982547027",
+   "title": "Oil lamps",
+   "price": 50,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/mount-vernon-oil-lamps/tWXbuTu2qNpqrMdmPS7csW",
+   "best": "P&A Risdom MFG Danbury GLASS Oil Kerosene Lamp UNUSED GREEN ...",
+   "med": 85,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7947828014",
    "title": "Antique Emerson Electric Fan",
    "price": 120,
@@ -805,6 +926,28 @@
    "med": 200,
    "ratio": 1.67,
    "ai_value": "sell between $75"
+  },
+  {
+   "pid": "7978040463",
+   "title": "vintage military entrenching shovel",
+   "price": 60,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-vintage-military/8GBkufyYuCRab1EfESYv9b",
+   "best": "Handle: A wooden shaft with a straight or slightly flared grip, often marked with manufacturer details and dat",
+   "med": 100,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939184433",
+   "title": "Pith Helmet",
+   "price": 55,
+   "area": "york",
+   "url": "https://www.craigslist.org/view/d/york-pith-helmet/ttuchzw2hgCkieXy9EAtoy",
+   "best": "Amazon.com",
+   "med": 80,
+   "ratio": 1.45,
+   "ai_value": ""
   },
   {
    "pid": "7979775990",
