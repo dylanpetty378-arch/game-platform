@@ -97,3 +97,4 @@ Ranges are compiled estimates from dealer and collector guides; no dated sold co
 - 2026-10-13 – craigslist – "Vey Nice Small Vintage Silver Ring" – $30 – pass – small silver crossover/infinity ring with textured/marcasite-style shoulders, modern import look, weight ~2–3 g; resale $10–25, melt ~$3.
 - 2026-10-13 – review note – Mexican sterling figural cocktail/appetizer picks (sombrero, charro, china poblana tops) weigh only ~3-5 g each; a set of 4 is ~$50-70 sold, so seller asks of $15 each/$50 set leave no margin.
 - 2026-10-13 – review note – Mei-Alaska "Alaska Black Diamond" sterling jewelry is hematite in tourist sterling (bear paw/feather dangles), $25-45 resale.
+- 2026-10-13 – review note – a printed retail price tag ("Chain - 925 Small Rolo Chain 24in $69") on a CL listing means shop stock, not estate.

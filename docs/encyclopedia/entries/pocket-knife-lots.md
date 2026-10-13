@@ -64,3 +64,4 @@ Buy when: lot ≤ $8/knife with visible Case XX bone or Buck 110 pieces, or Case
 - 2026-10-12 – craigslist scottsbluff – Buck 898 Impact auto S30V – $80 – passed – used $100–130, auto-knife shipping limits
 - 2026-10-13 – craigslist – "American Vintage Pocket Knives" – $10 – lensed/ – TL-29 electrician's knives; Lens best: +2; Lens median $77 (asking-price based)
 - 2026-10-13 – review note – Camillus NY and Camco 229 TL-29-style lineman knives with black handles and a bail sell for about $15-30 each. They are not a buy even at $10 each, because the profit floor is $50.
+- 2026-10-13 – review note – Butterfly knives (balisongs) are prohibited on eBay. Kill them regardless of price.

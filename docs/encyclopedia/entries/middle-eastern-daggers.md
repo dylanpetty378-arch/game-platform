@@ -70,3 +70,4 @@ Profit = median × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). A touri
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Antique Sword" – $50 – pass – Actually a Nepalese kukri (not an Ottoman khanjar as Lens said): mirror-polished forward-curved blade, brass turned hilt, engraved ricasso, black leather scabbard — modern decorative/tourist piece; est. resale $25–55.
 - 2026-10-13 – review note – Nepalese kukris with water-buffalo handles, white-metal pommel and dot inlay, and a crossed-kukri badge on a black leather sheath are 20th c. export/tourist pieces ($40-80).
+- 2026-10-13 – review note – The 1944 "Naples" metal dagger letter opener is a WWII souvenir; $20-45 resale.

@@ -71,3 +71,4 @@ Buy when: collectible-tier body+lens under 40% of sold median and seller says it
 - 2026-10-12 – craigslist lasvegas – Nikon EM – $45 – passed – fair
 - 2026-10-12 – craigslist atlanta – Zeiss Ikon Contina – $50 – passed – fair
 - 2026-10-12 – craigslist boston – Bell & Howell Filmo 16 mm – $175 – passed – at market
+- 2026-10-13 – review note – "Sears Tower 20B"-type listings can be Mamiya-made rangefinders with Mamiya-Sekor 48mm f1.7 lenses; resale $40-80.

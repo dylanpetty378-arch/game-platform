@@ -49,7 +49,7 @@ BULKY=re.compile(r'\b(desk|table(?! ?(lamp|top clock|clock))|chairs?|cabinet|mir
 # Small things whose titles contain a bulky word (doll trunk, hand mirror, bench vise, motorcycle jacket, desk lamp…)
 SMALL=re.compile(r'\b(hand mirror|compact|vanity (mirror|set|tray|box)|dresser (set|box|tray|jar)|dolls?|doll ?house|dollhouse|miniature|mini|toy|salesman|sample|model|bench (vise|vice|grinder|plane)|vise|vice|helmet|jacket|patch|pin|desk (accessor\w*|lamp|clock|set|organizer|pen|top|calendar)|lap desk|writing (slope|box)|receiver|remote|opener|key|keys|knob|hinge|ski rack|rack|jewelry|music box|tea caddy|trinket|box|figurine|ornament|book|books|catalog|manual|brochure|sign|poster|photo|print|postcard|flags?|bells?|machine head|picture|sticker|decal|emblem|badge|plate|spoon|cup|mug|glass|lamp|clock|radio|camera|lens|watch|ring|necklace|bracelet|brooch|earrings)\b',re.I)
 # eBay-banned / policy-risk items (research Oct 13: offensive-imagery listings get pulled; ivory banned outright)
-POLICY=re.compile(r'\b(blackamoor|mammy|golliwog|golly|sambo|pickaninny|ivory|whale ?bone|scrimshaw|tortoise ?shell|bear claws?|eagle feathers?|coral reef|sea turtle)\b',re.I)
+POLICY=re.compile(r'\b(blackamoor|mammy|golliwog|golly|sambo|pickaninny|ivory|whale ?bone|scrimshaw|tortoise ?shell|bear claws?|eagle feathers?|coral reef|sea turtle|butterfly knife|balisong|nazi|swastika|ss dagger)\b',re.I)
 
 def is_bulky(t):
     return bool(BULKY.search(t or '')) and not SMALL.search(t or '')

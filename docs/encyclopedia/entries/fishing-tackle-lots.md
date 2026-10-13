@@ -58,3 +58,4 @@ Profit = sold × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). Only lots
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "OLD Fishing Rod &Lurs" – $40 – pass – saltwater/Great Lakes lot: chrome spoons, diamond jigs, glow tube lures, rubber worms, hook packets, one large carved plug, cork-handle casting rod with older level-wind reel; no wooden glass-eye named lures visible; est. resale $30–60 (reel maybe $20–40 if named).
+- 2026-10-13 – review note – handwritten "SMG" price tags on floats/hook removers = antique-mall booth stock; kill as dealer.

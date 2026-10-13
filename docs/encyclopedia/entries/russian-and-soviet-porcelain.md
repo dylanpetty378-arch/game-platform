@@ -69,3 +69,4 @@ Profit = median × 0.87 − ~$14 to buyer − ~$14 to Dylan − price ≥ max($5
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist sweep (batch c02, no photos/listing data) – seen: Lomonosov (LFZ/IFZ) cobalt net teapot; Kuznetsov, Gardner, Soviet propaganda porcelain, Dulevo figurines – not judged (no photo or price); cobalt net teapot worth ~$60–120 if USSR-marked (general knowledge, verify) → buy only ≤ $30.
+- 2026-10-13 – review note – Kuznetsov/Rybinsk (and early-USSR successor) made cobalt-ground ewers/kumgans with gilt stars and hand-painted rose reserves for the Central Asian/Middle East market; sellers call them "coffee/tea server" - collected separately from tableware, resale roughly $150-250 (general knowledge, verify).

@@ -68,3 +68,4 @@ Buy when: silver is priced at or below melt (lots sold by weight), or a key-date
 - 2026-10-12 – craigslist flagstaff – 1935E $1 silver certificate – $150 – passed – worth $3
 - 2026-10-12 – craigslist springfieldil – 4x 1934D $5 silver certs – $20 ea / $70 – passed – $10–15 each
 - 2026-10-12 – craigslist fresno (Dinuba) – ANACS MS61 Morgan – $70 – passed – at market
+- 2026-10-13 – review note – "The Scottish Sterling Collection" (Coinage De4 3ns, 2002) frames hold bronze/nickel-brass pre-decimal coins only - "Sterling" means pounds sterling, no silver; $5-15.

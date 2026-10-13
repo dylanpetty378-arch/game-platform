@@ -102,3 +102,4 @@ Buy rule (short): Pass on generic brass at any price above ~$5 a piece; only buy
 - 2026-10-13 – craigslist – "Antique Solid Brass Elephant" – $20 – pass – Indian brass trunk-up elephant (1970s–80s, not antique); sells $10–22.
 - 2026-10-13 – craigslist – "Vintage Metal Wall Decoration Tavern Scene England" – $35 – pass – English pressed-brass repoussé wall plate, Teniers-style tavern scene with fruit border (1950s–70s souvenir); est. $15–35.
 - 2026-10-13 – review note – Six-point brass star badges reading "Licensed Junk Dealer", "United States Marshal", "Deputy Sheriff" with ball tips are modern novelty reproductions ($5-10), not period badges; Lens matches them to Etsy "vintage" listings.
+- 2026-10-13 – review note – Brass spittoons/cuspidors embossed "Union Pacific Railroad" are a common modern reproduction; Lens matches them to eBay "vintage UP spittoon" asks - kill without a provenance story.

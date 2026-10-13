@@ -82,3 +82,4 @@ Profit = sold median × 0.87 − ~$12 to buyer − ~$12 to Dylan − price; pass
 - 2026-10-13 – craigslist – "VINTAGE  BURGUNDY PUMPS" (pid 7956012293) – $45 – pass – 1970s–80s Italian burgundy lizard ankle-strap peep-toe sandals (possibly Cleo-Bottier per Lens), heel tip worn; resale $25–60
 - 2026-10-13 – craigslist – "Vintage Christian Louboutin Heels" (pid 7974041070) – $40 – pass – early-2000s Louboutin tan leather square-toe slide sandals with contrast stitching, heavily worn insoles, red soles not shown; resale $80–150 if authentic, but authentication required (rule) and profit ~$40 < $50
 - 2026-10-13 – review note – Julianelli 1950s genuine alligator pumps (excellent, size 8A) listed $75 then $50 on CL sfbay; narrow widths (A/AA) shrink the buyer pool.
+- 2026-10-13 – review note – (no sneaker entry exists) deadstock ~1990 Made-in-Korea Reebok Classic/Newport in OG box est. $100-150; ask about midsole crumbling before buying.

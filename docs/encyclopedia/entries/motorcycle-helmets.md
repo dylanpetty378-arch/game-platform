@@ -60,3 +60,4 @@ Resale for 1980s OEM helmets ~$60–100; profit = 80 × 0.87 − $25 − $20 −
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Aspencade  Helmet" – $50 – pass – Honda Gold Wing "GL" eagle-wing factory-accessory full-face touring helmet, maroon with silver pinstripe panels, smoked visor, intercom cord (c.1982–87 Aspencade era, likely Shoei-made); display piece; resale $50–100 (general knowledge, verify); profit negative after ~$45 shipping both ways
+- 2026-10-13 – review note – 1970s metalflake open-face helmets with holographic "HONDA" stickers are aftermarket shells with dealer decals, not factory Honda helmets; worn pairs ~$30-40 each.

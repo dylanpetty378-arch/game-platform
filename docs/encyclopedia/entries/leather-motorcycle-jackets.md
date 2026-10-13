@@ -75,3 +75,4 @@ Profit = median × 0.87 − ~$15 to buyer − ~$12 to Dylan − price; pass unle
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Womens Vintage Motorcycle Jacket" (pid 7980268473) – $45 – pass – 1970s women's oxblood/maroon cafe-racer jacket, band collar with two snaps, sleeve zips, zip-out pile liner, unreadable gold department-store label (not Schott/Langlitz); resale $40–80
 - 2026-10-13 – craigslist – "Vintage Wilson Leather Jacket" (pid 7961012244) – $80 – pass – 1990s Wilsons "The Leather Experts" black double-rider (Perfecto style) with red lining and enamel pins (pin holes); resale $35–80 (comps median $34, best $80)
+- 2026-10-13 – review note – Fieldsheer (script logo on collar) quilted-shoulder leather riding jackets are modern mid-tier gear, ~$80-150 used.

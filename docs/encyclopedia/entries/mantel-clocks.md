@@ -93,3 +93,4 @@ Buy when: Chelsea/Sonora chime/Ansonia crystal regulator running at ≤ $100, id
 - 2026-10-13 – craigslist – "We Hear the Chime/Antique Seth Thomas No. 89 Wood & Brass Mantle Clock" – $100 – queued/relens – No. 89 mantel clock (Seth Thomas); Lens best: Results are personalized; Lens median $? (asking-price based)
 - 2026-10-13 – craigslist – "ANTIQUE KOREAN SEISEKOWA COFFEE TABLE CLOCK" – $100 – queued/relens – Korean/Japanese table clock (Seikosha); Lens best: Results are personalized; Lens median $? (asking-price based)
 - 2026-10-13 – review note – Walnut Eastlake shelf clocks with dial stamp "Pat July 30 1878" get listed as "1880s Seth Thomas wall clock"; plain tier.
+- 2026-10-13 – review note – The "Portfolio Tiffany & Co." brass arch calendar/moonphase clock is a quartz (AA) lower Tiffany line, about $70-130 resale. The Tiffany name does not make it a lead.

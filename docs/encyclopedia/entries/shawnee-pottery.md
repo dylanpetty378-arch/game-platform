@@ -70,3 +70,4 @@ Buy rule (short): Buy only gold-trimmed or decal Smiley/Winnie/Puss 'n Boots/Mug
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "vintage 1940s Shawnee Pottery teapot" – $20 – pass – Ivory globe teapot with hand-painted pink star-flower, gold flecks and gold trim; attribution to Shawnee unconfirmed (could be Japanese or another US maker — base not shown); resale ~$25–50.
 - 2026-10-13 – craigslist – "Vase, vintage" – $45 – pass – Shawnee double dove fluted vase #829 in green, 1940s; common, resale ~$20–40.
+- 2026-10-13 – review note – The Puss 'n Boots cookie jar is a smiling cat in a hat with a small yellow bird perched on it, with matching Puss 'n Boots creamers (cat with bow). Gold-and-decal sets get asked at $180+ on Craigslist; at about $300 resale, only an offer of about $90 or less clears the rule. Repros run about 10% smaller.

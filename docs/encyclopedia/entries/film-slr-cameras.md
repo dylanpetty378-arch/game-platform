@@ -116,3 +116,4 @@ Pass when: AF plastic SLRs, disc/110, Polaroid 600 at any price > $10; anything 
 - 2026-10-12 – craigslist washingtondc – Gauthier Calmbach Vario folding plate camera, missing finder – $25 – passed – $30–60 category
 - 2026-10-12 – craigslist boston – Pentax Zoom 105 Super – $45 – passed – $30 camera
 - 2026-10-13 – craigslist – "Ksx sears vintage camera" – $20 – queued/relens – Sears KSX film SLR (Sears KSX); Lens best: Woosir Vintage Leather Messenger Shoulder Bag for Men - Woos; Lens median $15 (asking-price based)
+- 2026-10-13 – review note – Estate camera lots padded with Kodak Duaflex/Brownie/Instamatic, Polaroid 360 Land, Revere 88 8mm and Vivitar zooms are ~$10-20 per piece; a Konica Autoreflex + Hexanon normal adds only ~$60-100, so a $60 untested lot of this mix does not clear $50 after two-way freight.

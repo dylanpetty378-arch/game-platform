@@ -65,3 +65,4 @@ Buy when: a Japanese- or US-made instrument is priced as an import (≤ $200) �
 ## Seen in sweeps
 - 2026-10-12 – craigslist tulsa (Wichita) – "Kramer Pacer Guitar (Floyd Rose and Locking Nut)" – $160 – passed (lead if seller accepts ~$100) – modern Pacer Classic blue metallic, set up D standard; used $300–450
 - 2026-10-12 – craigslist chico – Cort electric tobacco sunburst – $175 – passed; atlanta Samick MB-1 Malibu – $160 – passed; fresno Silvertone Pro – $125 – passed
+- 2026-10-13 – review note – "Allparts LIC. BY FENDER" stamped on the neck heel = licensed aftermarket neck; a Fender/"Custom Shop" headstock logo on it is an aftermarket waterslide decal (partscaster/SRV-relic builds) - value as an Allparts neck (~$150-180 used), not a Fender.

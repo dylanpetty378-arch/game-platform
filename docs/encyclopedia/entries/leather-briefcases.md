@@ -55,3 +55,4 @@ Profit = median × 0.87 − $18 − $18 − price ≥ max($50, price). Unmarked 
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "vintage leather satchel/briefcase" – $50 – ask seller – English-style saddle-leather double-strap flap briefcase with central key lock and top handle, saddle-stitched edges, c.1950s–70s; scuffs and white paint marks on front; no maker visible. Unbranded est. resale $120–180 → profit $20–70 (marginal); ask for lock-plate/interior maker stamp — if Swaine Adeney/Papworth/Brady, resale $250+ and it becomes a buy.
+- 2026-10-13 – review note – Meeker Made (Joplin MO) "Genuine Rodeo Billfold" boxed tooled-leather billfolds and NY-skyline key cases/notebooks — est. $20-40 each.

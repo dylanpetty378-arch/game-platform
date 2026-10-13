@@ -65,3 +65,4 @@ Buy rule (short): Buy only leather Cairns/early leather helmets with eagle and s
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Old fireman’s helmets" – $95 – pass – Red E.D. Bullard "Hard Boiled" fiberglass helmet, heavily scuffed, no shield/front piece visible, D-ring on brim; 1960s–80s; resale ~$45–90. Ask if the plural "helmets" includes a leather Cairns — that would change the verdict.
 - 2026-10-13 – review note – Aluminum full-brim hard hats (Willson, MSA/McDonald T) with corporate decals (e.g. John Deere) appear on Craigslist ~$40; they are not fire helmets; estimated resale $70-100, too thin at $40.
+- 2026-10-13 – review note – Bullard fiberglass helmets are often listed just as "old fireman's helmet, made in San Francisco" (Bullard's home city) - the SF line is not a leather Cairns tell.

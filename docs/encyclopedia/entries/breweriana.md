@@ -62,3 +62,5 @@ Profit = sold × 0.87 − shipping each way − price ≥ max($50, price). Commo
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Beer Coaster Set" – $20 – pass – 1970s Schlitz "The Beer that made Milwaukee Famous" plastic bottle-shaped coaster holder with six amber plastic cork-lined coasters, complete. Common promo item. Estimated resale $15–30.
+- 2026-10-13 – review note – The Carling Black Label "TV Beer" lighted bar sign (House of Carling crest, 5x25 in, Carling Brewing Co. Waltham MA) is a common national-brand 1960s-70s plastic lighted sign; about $90-180 resale.
+- 2026-10-13 – review note – Lens "med" for lighted beer signs pulls in neon and motion-sign asks. Read the sign type (plastic box light vs neon or motion) before trusting the ratio.

@@ -59,3 +59,4 @@ Profit = median × 0.87 − shipping both ways − price ≥ max($50, price). Os
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "VINTAGE NOEL OSHEROFF SCULPTURE" (pid 7947359897) – $140 – ask seller – 1970s California studio mother-and-child figure in unglazed red clay with textured cap/hair on blue mottled glazed cylinder base, consistent with Noel Osheroff (Robert Maxwell/David Cressey circle); est. resale $200–350 (Lens $316, low confidence); profit at $140 ≈ $81, below the max($50, price) floor; works at ≤ $85 if signature confirmed
 - 2026-10-13 – craigslist – "Fabulous Pottery Decorative Vase" (pid 7973604894) – $20 – pass – modern decor vase with faux-patina red/grey painted finish and applied spiral, not Hans Hedberg; $10–25
+- 2026-10-13 – review note – "The Clay Shop" kachina-face turquoise/gold-trim pottery (Flagstaff souvenir, 1950s) - mugs/candleholders ~$10-25 each.

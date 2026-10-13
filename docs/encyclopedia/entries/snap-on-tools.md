@@ -72,3 +72,4 @@ Buy when: a 12 pc screwdriver set is under $60, ratchets are under $25, or socke
 - 2026-10-12 – craigslist Las Vegas – Snap-on Classic hard-handle screwdrivers (new) – $200 – passed – at retail.
 - 2026-10-12 – craigslist Portland (Boring) – old Snap-on top + bottom chest, painted black – $50 – passed (local-only lead) – worth $250–500 locally, freight kills shipping.
 - 2026-10-12 – craigslist Yuma – Snap-on TMRT8 T-handle – $65 – passed – at market.
+- 2026-10-13 – review note – Snap-on C-260A is the red vinyl punch-and-chisel roll; partial rolls (~10 of 26 tools) are common in "miscellaneous" lots - value the wrenches individually (flex-head combination wrenches $30-45) rather than the roll.

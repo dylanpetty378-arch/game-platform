@@ -67,3 +67,4 @@ Profit = sold median × 0.87 − ship to buyer (~$15) − ship to Dylan (~$15) �
 - 2026-10-13 – craigslist – "Antique Terra Cotta" – $30 – pass – two glazed architectural terra cotta cornice blocks, egg-and-dart with bead-and-reel, crazed cream glaze, c.1890–1930; very heavy (~20–40 lb each), local only; resale $60–150 local
 - 2026-10-13 – craigslist – "Antique Repro Stair Spindles" – $30 – pass – new reproduction cherry-finish barley-twist spindles, 19.06" long (photo is a retailer's stock image); resale $5–15 each
 - 2026-10-13 – craigslist – "Vintage Post Finial" – $75 – pass – turned cone-shaped post/gate finial, weathered, material and age unclear; resale $15–40
+- 2026-10-13 – review note – 1940s hammered copper-finish steel arrowhead strap hinges + bail pulls (Amerock/National Lock style) sell to kitchen restorers as matching sets; value scales with count of matching pieces (est. $2-4/piece in sets of 30+). Not covered by the bronze/brass-only buy rule.

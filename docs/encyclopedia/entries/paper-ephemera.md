@@ -56,3 +56,4 @@ Single brochure can never clear $50; pass. Buy lots only when they contain pre-1
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage SeaWorld Orlando Brochure" – $25 – pass – SeaWorld Orlando rack brochure advertising the "Brrrrand New Penguin Encounter" (opened 1987), so c. 1987–88; est. resale $5–15.
+- 2026-10-13 – review note – 1950s Chevron/Standard "Street and Vicinity" pictorial city maps (SF Fisherman's Wharf, LA Griffith Observatory, East Bay) run ~$8-15 each; a lot of 9 at $15 is ~$70 resale, under the $50 profit floor alone.

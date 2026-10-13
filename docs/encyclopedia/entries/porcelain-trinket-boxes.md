@@ -64,3 +64,4 @@ Profit = median × 0.87 − ship − ship − price. Single Limoges at $45 media
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage porcelain jewelry box" – $40 – pass – 1990s–2000s gift-ware heart-shaped porcelain music/trinket box with applied Capodimonte-style roses, organza ruffle and gold trim (Heritage House/Formalities type); est. resale $10–20.
+- 2026-10-13 – review note – Pill-box lots often include a real tortoiseshell-top box - unsellable on eBay (endangered-species policy); check before pricing a lot.
