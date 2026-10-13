@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T06:19:01Z
+# Refurbish status — 2026-10-13T06:22:33Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,11 +6,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 3186 |
+| queued | 3161 |
 | photo_review/kill | 1746 |
 | queued/relens | 309 |
-| flagged | 74 |
-| lensed | 51 |
+| flagged | 79 |
+| lensed | 71 |
 | decided/ask | 26 |
 | decided/find | 7 |
 | comps/fail | 5 |
@@ -23,8 +23,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 4
 - searches: 637
 - listings: 5407
-- lens: 2254
-- events: 9789
+- lens: 2279
+- events: 9814
 - comps: 529
 - item_types: 777
 - runs: 0
@@ -74,7 +74,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00W0W_hf6ATPiacVV_0t20CI_300x300.jpg" width="160"> | [Vintage Music Box](https://www.craigslist.org/view/d/quakertown-vintage-music-box/g2Y8F45bgtRGDckZ8ABVTs) | $100 | images | **decided/ask** — Tier C: Thorens AD30 + 23 discs listed as "Vintage Music Box". Box median $130 + discs ~$150. Clears at a $75 offer (~$100 profit). |
 | <img src="https://images.craigslist.org/00m0m_amvdvzDg1I8_0ik0t2_300x300.jpg" width="160"> | [1901 hamilton pocket watch](https://www.craigslist.org/view/d/lafayette-1901-hamilton-pocket-watch/jm2x1aextY8LaRmhhSVeTv) | $100 | boulder | **decided/ask** — Hamilton open-face pocket watch, Arabic dial with 'Hamilton' script, gold-filled-looking case, seller says 1901 and running, $100 obo. A common GF Hamilton sells $100-180 = no profit. Ask for movement photo: buy at <= $1 |
 
-## Flagged by Lens, waiting for photo review (74)
+## Flagged by Lens, waiting for photo review (79)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -86,6 +86,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00X0X_h6areRt8CF0_0Mo12w_300x300.jpg" width="120"> | 7980986397 | $30 | sfbay | [Deluxe Seiko Quartz clock](https://www.craigslist.org/view/d/san-jose-deluxe-seiko-quartz-clock/roVUZqyZHEnKLDe9dotktG) | Origin: Made in Japan | 1498 | 49.93 |
 | <img src="https://images.craigslist.org/00R0R_ew6az5gBRwr_0CI0t2_300x300.jpg" width="120"> | 7956243087 | $10 | jerseyshore | [Vintage Ikea Home Decorative Vase](https://www.craigslist.org/view/d/brick-vintage-ikea-home-decorative-vase/ohEZdsgh29FVDT4WBTkJ5j) | Etsy | 439 | 43.9 |
 | <img src="https://images.craigslist.org/00K0K_cupZ3BGlIla_0CI0t2_300x300.jpg" width="120"> | 7947364258 | $15 | longisland | [Vintage 3d print](https://www.craigslist.org/view/d/sound-beach-vintage-3d-print/dTWi33b9jyr3fzbEEPuPLg) | Sold at Auction: Maurice Utrillo, Maurice Utrillo - La Ville | 575 | 38.33 |
+| <img src="https://images.craigslist.org/00y0y_9ETmn7c81zB_0lM0t2_300x300.jpg" width="120"> | 7980219609 | $65 | reno | [clock antique music design WORKS!!](https://www.craigslist.org/view/d/carson-city-clock-antique-music-design/kvz3sTTpPrQQk1JuxR71Hq) | World Auction Gallery | 2177 | 33.49 |
 | <img src="https://images.craigslist.org/00d0d_7fOTtm2A3HS_0x00t2_300x300.jpg" width="120"> | 7929521392 | $40 | wyoming | [sterling silver-gold vermeil 17'' faceted beaded n](https://www.craigslist.org/view/d/masonville-sterling-silver-gold-vermeil/6PWUiYn593SFnQC1eipPjT) | Etsy | 1320 | 33 |
 | <img src="https://images.craigslist.org/00B0B_cLozee6iqRA_0t20CI_300x300.jpg" width="120"> | 7944876721 | $29 | austin | [Antique Framed Photo](https://www.craigslist.org/view/d/san-antonio-antique-framed-photo/eYge3aishZJqNYz619GqfG) | Etsy | 725 | 25 |
 | <img src="https://images.craigslist.org/00f0f_2vWu2IUvQ5t_08K08K_300x300.jpg" width="120"> | 7947989928 | $100 | phoenix | [ARTIST-SIGNED GREENLEAF ARIZONA LANDSCAPE WATERCOL](https://www.craigslist.org/view/d/cave-creek-artist-signed-greenleaf/qytsLnGG2eVpQw93BMZriN) | Similar Items to Signed Original Vintage Gouache Painting in | 2000 | 20 |
@@ -111,12 +112,14 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00606_sEElysuDlf_0CI0pO_300x300.jpg" width="120"> | 7947910220 | $150 | richmond | [Antique Cast Iron Cauldron Kettle 10" Wide](https://www.craigslist.org/view/d/petersburg-antique-cast-iron-cauldron/x9o3KysFVTfQv4MLbzXPPW) | Antique Cast Iron Footed Cauldron 1810-1820s / eBay | 780 | 5.2 |
 | <img src="https://images.craigslist.org/00505_jf7FSUDgopb_08K08K_300x300.jpg" width="120"> | 7948267016 | $75 | phoenix | [VINTAGE SIGNED ARIZONA ARTIST RICH MOYERS MODERN A](https://www.craigslist.org/view/d/cave-creek-vintage-signed-arizona/sDHRP4fcVFatUziSUwQQ7c) | Title: "The Crossing of Little Elk" (hand-written in gold an | 388 | 5.17 |
 | <img src="https://images.craigslist.org/00g0g_kOx2SqyUyUM_0t20CI_300x300.jpg" width="120"> | 7969502328 | $20 | sfbay | [Vintage Ceramic Deviled Eggs Platter](https://www.craigslist.org/view/d/santa-cruz-vintage-ceramic-deviled-eggs/fcEKcFFQbeBKdueUershH6) | Craigslist | 100 | 5 |
+| <img src="https://images.craigslist.org/00f0f_gK4PHZLTwoD_0lN0CI_300x300.jpg" width="120"> | 7951168647 | $100 | chicago | [Sterling 925 Running Bear Indian Cuff Bracelet](https://www.craigslist.org/view/d/palos-hills-sterling-925-running-bear/hcMUvv4rPFdtVBEAKzu9gm) | Nativo Arts | 500 | 5 |
 | <img src="https://images.craigslist.org/00J0J_kXy42P0PVzJ_08K08K_300x300.jpg" width="120"> | 7946506935 | $100 | phoenix | [9" SIGNED BRUCE FREUND MODERN STUDIO ART NOUVEAU R](https://www.craigslist.org/view/d/cave-creek-signed-bruce-freund-modern/g591Hu6JaipFVBCiQ2MEyF) | Invaluable.com | 475 | 4.75 |
 | <img src="https://images.craigslist.org/00s0s_2oFMaJjgzAm_0t20CI_300x300.jpg" width="120"> | 7958248556 | $75 | denver | [Antique.  Vintage fire extinguisher](https://www.craigslist.org/view/d/estes-park-antique-vintage-fire/btS9sEbaRjsg9SRWKUhGyg) | Vintage Fire Extinguisher / Lone Star Mercantile | 336 | 4.48 |
 | <img src="https://images.craigslist.org/00Y0Y_2WGhCFoEpz4_0CI0lM_300x300.jpg" width="120"> | 7982578980 | $45 | daytona | [vintage Paul Jarman Trumpet](https://www.craigslist.org/view/d/daytona-beach-vintage-paul-jarman/99YccvcJVkCnqwKFGqepMP) | vintage Paul Jarman Trumpet With Case, project / eBay | 200 | 4.44 |
 | <img src="https://images.craigslist.org/00101_fjJlNUD4Divz_0aT0ew_300x300.jpg" width="120"> | 7931825970 | $50 | miami | [Vintage Plaster Bust Signed Triarn Tiam, Paris](https://www.craigslist.org/view/d/lake-worth-vintage-plaster-bust-signed/gGX5KHLzGnjkTg4zngj9Pj) | Nach Jean-Baptiste Lemoyne / French | 222 | 4.44 |
 | <img src="https://images.craigslist.org/00S0S_kqB2byrAURs_0i90nc_300x300.jpg" width="120"> | 7957188755 | $100 | losangeles | [Antique Oil Painting](https://www.craigslist.org/view/d/burbank-antique-oil-painting/qihTqvjd3yHD83MDUtmG4t) | Ferruccio Vitale Auction Results: Historical Sales Records | 435 | 4.35 |
 | <img src="https://images.craigslist.org/00A0A_gwt2ySrzidLz_0pO0iQ_300x300.jpg" width="120"> | 7930879239 | $25 | houston | [Poppy Framed Print](https://www.craigslist.org/view/d/richmond-poppy-framed-print/1JxduwdZFfshKCAxwLeSCr) | Tile Mural Store | 108 | 4.32 |
+| <img src="https://images.craigslist.org/00b0b_4YmaDepuegb_0Cz0t2_300x300.jpg" width="120"> | 7947975634 | $30 | washingtondc | [Vintage Framed European Tapestry](https://www.craigslist.org/view/d/vienna-vintage-framed-european-tapestry/3rfNY6w9PaeT5cavpgZWHv) | Details | 125 | 4.17 |
 | <img src="https://images.craigslist.org/01313_4BYvcydd6aE_08K08K_300x300.jpg" width="120"> | 7980406266 | $100 | phoenix | [ARTIST-CREATED VINTAGE MEXICAN ARTS & CRAFTS HAMME](https://www.craigslist.org/view/d/cave-creek-artist-created-vintage/7sUeW1ZSn3SujH8tJmm714) | Craigslist | 400 | 4 |
 | <img src="https://images.craigslist.org/00Q0Q_a3ZT3R6pWYx_0t20CI_300x300.jpg" width="120"> | 7952660842 | $35 | gulfport | [1960's Vintage Ceramic Coffee Pot](https://www.craigslist.org/view/d/diberville-1960s-vintage-ceramic-coffee/waNuPWLDnT47KvrurXAQRn) | Vintage 1960s Melitta Germany Porcelain Coffee Pot ... - eBa | 133 | 3.8 |
 | <img src="https://images.craigslist.org/00505_7lxq1XUEcNf_0CI0t2_300x300.jpg" width="120"> | 7949642823 | $35 | sfbay | [Antique Needlepoint Purse w/ Enamel Frame](https://www.craigslist.org/view/d/san-francisco-antique-needlepoint-purse/23uG8fB3h2oQm4MtVW6G45) | eBay | 125 | 3.57 |
@@ -135,8 +138,10 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01414_hG3xlQcGt3b_0mR0t2_300x300.jpg" width="120"> | 7941178165 | $50 | fredericksburg | [Vintage Hand Etched Metal Copper Vase Marked Made ](https://www.craigslist.org/view/d/fredericksburg-vintage-hand-etched/2ScSFRDmNGL94M82Y4Pq6i) | Rare Vintage Pyramid Egypt Patina Copper Ribbed Ornate 5 ... | 118 | 2.36 |
 | <img src="https://images.craigslist.org/00404_jksIEUCPTqC_0hq0hq_300x300.jpg" width="120"> | 7939962980 | $75 | norfolk | [Vintage Signed 'I. Cafieri" Oil Canvas Woodlands P](https://www.craigslist.org/view/d/hampton-vintage-signed-cafieri-oil/k6DNSuXR6VnXBChYZ7YxW9) | Artist: Irene Cafieri (20th-century landscape painter known  | 176 | 2.35 |
 | <img src="https://images.craigslist.org/00202_aszML30VEfj_0pG0qs_300x300.jpg" width="120"> | 7936432816 | $60 | skagit | [Vintage hat pin](https://www.craigslist.org/view/d/burlington-vintage-hat-pin/h8SdMmTBgfQH6TMzqp5r16) | Etsy | 141 | 2.35 |
+| <img src="https://images.craigslist.org/00P0P_g1EDNSEuFHj_0t20CI_300x300.jpg" width="120"> | 7969701606 | $135 | chicago | [Antique Siler-plated Pennsylvania Railroad Teapot](https://www.craigslist.org/view/d/chicago-antique-siler-plated/8AisdySMFA98j4zk6TVsY5) | Origin & Era: Produced for the Pennsylvania Railroad's dinin | 295 | 2.19 |
 | <img src="https://images.craigslist.org/00H0H_c51nOZOm8VK_0ak07K_300x300.jpg" width="120"> | 7932203523 | $50 | kansascity | [Vintage Set of 3 Zuni Necklace Pendants or Bracele](https://www.craigslist.org/view/d/shawnee-vintage-set-of-zuni-necklace/3p71pLa6iW3ADP6uD6aUHv) | Etsy | 105 | 2.1 |
 | <img src="https://images.craigslist.org/00K0K_eNEJkLTwfN5_0kE0fu_300x300.jpg" width="120"> | 7975254246 | $40 | santabarbara | [BRACELET: Vintage Braided Gold-Tone. Elegant. Weig](https://www.craigslist.org/view/d/santa-barbara-bracelet-vintage-braided/bwJAxLyCm6qJxsYPq4uJJc) | eBay | 81 | 2.02 |
+| <img src="https://images.craigslist.org/00000_7wArmzmXlZB_0CI0m6_300x300.jpg" width="120"> | 7965824274 | $120 | jacksonville | [Carnival glass entire lot](https://www.craigslist.org/view/d/middleburg-carnival-glass-entire-lot/5UijzMmoNGYeLahb9YW9F6) | Candy Dishes with Lids: Two smaller lidded jars featuring te | 236 | 1.97 |
 | <img src="https://images.craigslist.org/00i0i_fqabh6qFqFN_0t20CI_300x300.jpg" width="120"> | 7960046610 | $55 | denver | [Antique Oil Lantern](https://www.craigslist.org/view/d/aurora-antique-oil-lantern/4sGAkqLrsJmMFcBL6nM8an) | Antique KEROSENE LANTERN Original Dietz No.2 Wizard ... | 100 | 1.82 |
 | <img src="https://images.craigslist.org/00U0U_7ynyAd622j0_0t20CI_300x300.jpg" width="120"> | 7955772740 | $200 | columbia | [Beautiful vintage sterling silver and jade bangle](https://www.craigslist.org/view/d/holly-hill-beautiful-vintage-sterling/xrx6ZmsUQ2W6JkutNf8kkk) | Stones: Inlaid curved sections of genuine multi-color jade ( | 364 | 1.82 |
 | <img src="https://images.craigslist.org/00n0n_eCdoAaXgayW_0lM0t2_300x300.jpg" width="120"> | 7938667900 | $75 | losangeles | [Veronese Vase--Egyptian Design](https://www.craigslist.org/view/d/los-angeles-veronese-vase-egyptian/446wjKFuXnNKLfQ7m4PQnh) | ·clennono | 126 | 1.68 |

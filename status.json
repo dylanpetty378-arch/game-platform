@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:19:01Z",
+ "updated": "2026-10-13T06:22:33Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2254,
-  "events": 9789,
+  "lens": 2279,
+  "events": 9814,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3186,
+  "queued": 3161,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 74,
-  "lensed": 51
+  "flagged": 79,
+  "lensed": 71
  },
  "last_harvests": [
   {
@@ -301,6 +301,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980219609",
+   "title": "clock antique music design WORKS!!",
+   "price": 65,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/carson-city-clock-antique-music-design/kvz3sTTpPrQQk1JuxR71Hq",
+   "best": "World Auction Gallery",
+   "med": 2177,
+   "ratio": 33.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7929521392",
    "title": "sterling silver-gold vermeil 17'' faceted beaded necklace-italy",
    "price": 40,
@@ -576,6 +587,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951168647",
+   "title": "Sterling 925 Running Bear Indian Cuff Bracelet",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/palos-hills-sterling-925-running-bear/hcMUvv4rPFdtVBEAKzu9gm",
+   "best": "Nativo Arts",
+   "med": 500,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7946506935",
    "title": "9\" SIGNED BRUCE FREUND MODERN STUDIO ART NOUVEAU REVIVAL GLASS VASE",
    "price": 100,
@@ -639,6 +661,17 @@
    "best": "Tile Mural Store",
    "med": 108,
    "ratio": 4.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947975634",
+   "title": "Vintage Framed European Tapestry",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/vienna-vintage-framed-european-tapestry/3rfNY6w9PaeT5cavpgZWHv",
+   "best": "Details",
+   "med": 125,
+   "ratio": 4.17,
    "ai_value": ""
   },
   {
@@ -840,6 +873,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969701606",
+   "title": "Antique Siler-plated Pennsylvania Railroad Teapot",
+   "price": 135,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-antique-siler-plated/8AisdySMFA98j4zk6TVsY5",
+   "best": "Origin & Era: Produced for the Pennsylvania Railroad's dining car service during the early-to-mid 20th century",
+   "med": 295,
+   "ratio": 2.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7932203523",
    "title": "Vintage Set of 3 Zuni Necklace Pendants or Bracelet Charms",
    "price": 50,
@@ -859,6 +903,17 @@
    "best": "eBay",
    "med": 81,
    "ratio": 2.02,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965824274",
+   "title": "Carnival glass entire lot",
+   "price": 120,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/middleburg-carnival-glass-entire-lot/5UijzMmoNGYeLahb9YW9F6",
+   "best": "Candy Dishes with Lids: Two smaller lidded jars featuring textured grapevine/harvest motifs.",
+   "med": 236,
+   "ratio": 1.97,
    "ai_value": ""
   },
   {
