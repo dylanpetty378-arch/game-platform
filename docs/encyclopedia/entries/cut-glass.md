@@ -61,6 +61,9 @@ State cut vs. pressed honestly, dimensions, weight, signature photo, chips under
 ## Buy rule
 Profit = median × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). Pressed ashtrays (median ~$17) are impossible. Buy only signed or obviously hand-cut ABP with crisp hobstars at ≤ $40 when comps ≥ $150.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): an ABP late-floral pitcher (hobstar/crosshatch bands plus engraved daisies, notched applied handle) is ~$60-90 unsigned and $150-250 with an acid signature (Hawkes, Libbey, Clark). Sellers often mislabel it "Irish crystal". Check inside the base and the top of the handle.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "round",

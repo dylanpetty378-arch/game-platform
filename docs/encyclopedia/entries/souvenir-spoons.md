@@ -50,6 +50,9 @@ Photograph hallmarks, give weight in grams for sterling, describe motif and city
 ## Buy rule
 Profit = sold × 0.87 − ~$6 ship to buyer − ~$6 ship to Dylan − price ≥ max($50, price). Sterling lots bought below melt are the only routine win; figural sterling at resale ≥ $120 for ≤ $35. Brass/plate never qualifies.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Italian figural-finial demitasse spoons (Rome she-wolf, Venice lion, etc.) are often 800 silver even when the seller says plated. The back stamp ("800" vs "Italy" only) settles it.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.3, "shape": "set-of-many",

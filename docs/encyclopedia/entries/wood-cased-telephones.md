@@ -104,6 +104,9 @@ Buy rule (short): Buy a complete, original oak magneto wall set or 1930s deco de
 Buy when: a genuine (quarter-sawn oak, slotted screws, magneto present) wall set with the maker identified and ALL parts (crank, both bells, receiver, transmitter, door) at ≤ $75 and the seller ships or it is local; a three-box/cathedral/small-maker set at ≤ $200; a 1930s Masterphone/Fatboy/S-C deco Bakelite set uncracked at ≤ $60 (resale $200–400 raw if dial and complete); a decorative wood deco intercom/handset cabinet only at ≤ $25 and only if clean and complete (resale $100–200 — thin).
 Pass when: repro (keypad, pine, Phillips), "restoration project" missing crank/receiver/bells, split or replaced wood, married parts with no maker label, cracked Bakelite, untested magneto with the box priced over $100, or a pickup-only seller more than an hour away (shipping a 15–20 lb oak box eats $40–60 each way). No repairs, so skip projects. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): loose oak ringer boxes with magneto coils stamped 'Pat July 1890' are parts-tier ($30-45); no ringer-box comps in db (finding).
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 16, "shape": "tall",

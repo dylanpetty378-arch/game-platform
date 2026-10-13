@@ -61,6 +61,9 @@ Profit = sold median × 0.87 − ~$15 to buyer − ~$15 to Dylan − price; pass
 - Older tribal rug ≤ 4x6 with wool foundation and natural dyes, no moth: buy at ≤ $60 if resale ≥ $250 (back photo required).
 - Rugs larger than a rolled passenger-seat load (≥ 5x8): pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): pastel pink/taupe/grey 2-gul Bokhara mats with cotton fringe are 1980s-90s Pakistani chemical-washed production regardless of 'woven in 1960s' claims — $20-80
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 6, "shape": "flat",

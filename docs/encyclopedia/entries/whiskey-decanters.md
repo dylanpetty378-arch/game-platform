@@ -76,6 +76,7 @@ Profit = sold median × 0.87 − ~$15 to buyer − ~$15 to Dylan − price; pass
 - Lots: only if the lot price is ≤ $3 per piece and it contains identified better pieces; still bulky (often fails the passenger-seat rule).
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): Jim Beam Regal China decanters (incl. 1973 Hatfield & McCoy) sell ~$18 each
 - 2026-10-13 (triage): Jim Beam "175 Months" presentation-box decanters (Regal China, 1960s) $10-30 empty; full ones cannot be shipped via eBay.
 
 ## Rubric

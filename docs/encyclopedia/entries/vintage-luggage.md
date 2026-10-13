@@ -84,6 +84,11 @@ Price ≤ $200. Profit = sold median × 0.87 − shipping to buyer − shipping 
 - No luxury-brand cases (LV, Goyard, Hermès): they need professional authentication.
 - Passenger-seat size is OK for anything up to a 29" suitcase. Steamer trunks are too big.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): no Hartmann comps in comps.jsonl (finding) — pull Terapeak 'Hartmann tweed train case'.
+- 2026-10-13 (redo): Hartmann 'Custom Crafted' label + script 'Hartmann' foil on belting-leather trim = genuine 1970s-80s tweed line; an 'IMPERFECT' stamp inside means factory second (discount ~20%). Train cases ~$60-120.
+- 2026-10-13 (redo): Paramount Luggage (1940s-50s) croc-grain cases are embossed leatherette — worn edges show pale fiber backing and the scale pattern repeats; genuine alligator shows irregular scales and leather at the wear
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 9, "shape": "flat",

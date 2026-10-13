@@ -88,6 +88,8 @@ Quote the stamps exactly ("AO 1/10 12K GF, 46-24 on the bridge"), what they mean
 Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). A typical GF pair ($50–70 median) never qualifies above ~$0–5. Only solid-gold/coin-silver or rare B&L Ray-Ban at ≤ 1/3 value. Fits a car seat.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): Ray-Ban cases in a lot are worth checking. B&L-era Ray-Bans have "B&L Ray-Ban USA" inside the temple and "BL" etched in the lens ($70-150 each). Luxottica-era pairs and empty cases are not worth it.
+- 2026-10-13 (redo): Gold-wire oval sunglasses with pearl/tortoise rim inlay and engraved temples (marked "1101") may be 1980s-90s Luxottica; the inside temple settles brand/Made in Italy.
 - 2026-10-13 (triage): Ray-Ban value tell is the "BL" etch in the lens corner / "B&L Ray-Ban USA" on the temple (Bausch & Lomb, pre-1999); Luxottica "RB" etched pairs are $40-80. Vuarnet tell: "Pouilloux France" on the temple with 002/027/085 model numbers.
 
 ## Rubric

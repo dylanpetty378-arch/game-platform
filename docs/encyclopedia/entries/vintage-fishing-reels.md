@@ -90,6 +90,7 @@ Pass when: the seller lists per-reel market prices; rods are described as "ends/
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (a 60" rod tube fits lengthwise).
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): Wards Sport King 60 = Bronson store-brand baitcaster, $12-25 — not a Pflueger.
 - 2026-10-13 (triage): Shakespeare Wonder Cast 1779 and Direct Drive 1950 spincast reels boxed sell ~$20-30 each; non-working ones $10. Not a buy even at $10 each.
 - 2026-10-13 (triage): Ambassadeur 4500CS, 5500C, 6000C, 5600AB (1970s-80s Sweden) sell $40-80 each; sellers listing them individually by model number price at market ($30/reel is not a lot price)
 - 2026-10-13 (triage): A Garcia Mitchell 300 box and manual without the reel shows up as "Old mitchell reel" at $60. Check the photo for an actual reel before reading the title as a reel.

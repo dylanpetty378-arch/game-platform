@@ -103,6 +103,9 @@ Pattern dates (Weekly View / Kovels): Rio Rose / Pansy (earliest hand-painted, 1
 Buy when: a scarce pattern (Tulip, Dutch Tulip, Morning Glory, Rooster, Cherry, Eagle) or a scarce form (canister, grease jar, cookie/goodies jar, ice bucket, #17 ice-lip, shakers, advertising with a town) is priced ≤ 35% of its estimated sold price, with no chips/cracks/repairs, lid present, mark photographed, and the seller will ship or it is local. A single Tulip #16 pitcher at $20 clears the rule only if it truly sells ≥ $110 (profit ≈ 110×0.87 − 15 − 15 − 20 ≈ $46 — borderline); it needs to be a #17, a lot, or a $150+ piece to be comfortable.
 Pass when: Apple/Starflower/Autumn Foliage bowls or #15/#16 pitchers (sold $15–45 — never clears $50 profit), any chip/hairline/repair, any 13"+ bowl or platter unless the seller ships and it is $100+ resale, anything whose mark looks blurred or whose body is white (repro), and any lot that would sell under $150 total. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (all Watt does).
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Tulip #16 pitcher median $30, p75 $48 on eBay 365d — Tulip is not the scarce pattern the entry implies; scarce = Rooster/Cherry/Eagle/Morning Glory and forms (canisters, ice bucket).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 4, "shape": "round",

@@ -62,6 +62,9 @@ Always state "for display/collection only, not for riding". List maker, size, da
 ## Buy rule
 Resale for 1980s OEM helmets ~$60–100; profit = 80 × 0.87 − $25 − $20 − price → negative at any non-trivial price. Pass. Buy pre-1975 Bell/Buco/Shoei with intact liners at ≤ $40 when conservative resale ≥ $150. Passenger-seat OK. No authentication needed except "racer used" claims – pass on those.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Pairs of 1970s metalflake open-face helmets — the interior label decides Bell 500/Buco ($100-200) vs no-name ($25-50).
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 4, "shape": "round",

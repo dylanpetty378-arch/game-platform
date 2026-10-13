@@ -72,6 +72,8 @@ Maker, country, width, grind, scale material, edge condition (no chips, honing w
 Price ≤ $200; profit = sold median × 0.87 − ~$10 ship out − ~$10 ship in − price ≥ max($50, price). For lots: ≤ $10 per razor when blades look clean and named. Sell individually (best) or as lots. Fits a passenger seat. No authentication. Avoid ivory scales (legal issues).
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): etched 'Damascus Steel' Tidioute razors with figural scales still sit near the $47 straight-razor median.
+- 2026-10-13 (redo): empty cardboard razor boxes sell $5-12; H.M.C. Cutlery (New Bedford) whale-logo razors ~$28 median (antique straight razor comp)
 - 2026-10-13 (triage): Dubl Duck "Special No. 1" (cream celluloid scales, red pasteboard box) is the common Dubl Duck model, ~$40–80 each; only Goldedge, Wonderedge, Satinedge and the Japanese-"Sumo"-etched blades reach $130–300.
 
 ## Rubric

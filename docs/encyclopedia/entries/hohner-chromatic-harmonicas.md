@@ -52,6 +52,9 @@ State model, number of holes/octaves, key (usually C), comb material, playing te
 ## Buy rule
 Buy when: 280C ≤ $40, 270 ≤ $25, or a lot with several Hohner chromatics ≤ $10 each. Pass when: seller names the model at ≥ $90. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): pre-war 12-hole Chromonica in red box sits near the $45 Hohner 280 median, not $150.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1, "shape": "flat", "fragility": 2, "transit_damage_risk": 1, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 1, "id_difficulty": 2, "rarity": 2, "sold_per_month": 150, "sell_through": 45, "days_to_sell": 21, "price_p25_p50_p75": [65, 100, 150], "price_spread": 2.3, "condition_sensitivity": 4, "seasonality": "none", "best_platform": "eBay, Reverb", "fees_pct": 13, "ship_cost_to_buyer": 7, "undervalue_frequency": 2, "bust_probability": 30, "expected_profit_typical": 10, "confidence": "medium"}

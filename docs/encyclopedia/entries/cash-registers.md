@@ -51,6 +51,9 @@ Model and serial number (with build year from serial), finish, working status (k
 ## Buy rule
 Buy when: brass candy-store model with serial plate under $150. Pass when: any painted/chrome post-1935 model (6755 type) regardless of price. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat – small candy-store models do; large multi-drawer machines are excluded.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): $10-each 1940s chrome NCRs still fail — entry rule passes every post-1935 chrome/painted NCR (70-100 lb, $40-120); only brass candy-store models matter.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 60, "shape": "irregular",

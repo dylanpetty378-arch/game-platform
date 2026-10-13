@@ -81,6 +81,9 @@ Price ≤ $200. Profit = sold median × 0.87 − shipping to buyer − shipping 
 - Artist silicone babies: buy only with the COA visible, at ≤ $30, with a sold comp ≥ $120.
 - All dolls fit a passenger seat. No authentication is needed for these tiers (high-end French bisque would need it: avoid).
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): a bisque head incised with an artist name and a 2-digit year (e.g. "Boyer 86") plus a star is a 1980s hobbyist reproduction of an antique German doll, not a Kestner or K*R original; $15-35.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 3, "shape": "irregular",

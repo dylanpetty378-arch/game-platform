@@ -72,6 +72,9 @@ Maker, year, whether it runs (wound and timed for 24 h), dial originality, strap
 ## Buy rule
 Watch shipping is cheap (~$6 each way), so profit = sold × 0.87 − 12 − price ≥ max($50, price). A $25 buy needs ~$100 sold. Buy only 1930s–50s characters that run (ask seller to wind it and confirm) and have original dials, at ≤ $30, or boxed examples at ≤ $100. Mechanical watches are testable by winding — not "untested electronics" — but non-runners are repairs: pass. These are not high-end watches; no professional authentication needed, but re-dial risk must be judged from photos.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Bradley 17-jewel mechanical Mickey (1970s-80s) sells $40-90; only Ingersoll 1930s Mickeys reach ~$150 median
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.2, "shape": "flat",

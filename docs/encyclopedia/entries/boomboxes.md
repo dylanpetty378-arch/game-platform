@@ -62,6 +62,7 @@ Video of each function (tape play/record, radio bands, CD), batteries/AC, cosmet
 Profit = sold median × 0.87 − ~$40 ship to buyer − ~$35 ship to Dylan − price ≥ max($50, price). Rule out untested electronics and anything needing belt replacement. A 1990s CD boombox never clears; an 80s big model needs resale ≥ ~$300 at ≤ $100 with seller video.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): JVC PC-V66 (c.1988) is a late-80s detachable-speaker 'portable component system' — mid tier ($80-180), not a grail; 20 lb shipping kills it under ~$60 buy.
 - 2026-10-13 (triage): Hitachi mid-1980s dual-cassette units with graphic EQ are mid-size tier ($60-100 sold) and ~12 lb; not collector models even when working.
 
 ## Rubric

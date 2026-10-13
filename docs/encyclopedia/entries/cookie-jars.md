@@ -76,6 +76,8 @@ Show base mark, measure height, photograph lid flange, disclose chips, crazing, 
 Profit = sold median × 0.87 − ship to buyer (~$25) − ship to Dylan (~$25) − price ≥ max($50, price). Needs a ~$115+ median at $0. Buy only full-size marked Shawnee (especially gold trim), Brush, Regal, Metlox, Red Wing, or rare McCoy/American Bisque at ≤ 1/3 sold median, after height and mark photos rule out reproductions. Pass hobby jars, modern imports, Twin Winton commons, and chipped lid flanges.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): American Bisque cat-in-basket (white, 1950s) is a common AB jar, $30-55; ships at ~$45 for both legs, so it never clears.
+- 2026-10-13 (redo): Shawnee Muggsy plus small S&Ps at $100 fails even if genuine (~$215 sold × 0.87 − $50 ship − $100 ≈ $37); this entry needs ≤ ~$60 asking price, and the base must read "Patented Muggsy U.S.A." (heavily reproduced).
 - 2026-10-13 (triage): American Bisque Jack-in-the-Box ("Cookies" box with clown), yellow Pig and Granny jars are the common AB figurals, $40-60 each sold; three ceramic jars cost ~$45+ to ship, so a $25 lot still fails the margin. Only AB flasher/cartoon jars (Casper, Popeye, Olive Oyl, Flintstones) clear $200.
 
 ## Rubric

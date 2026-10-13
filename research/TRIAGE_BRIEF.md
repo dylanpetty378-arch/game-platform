@@ -78,3 +78,9 @@ Dylan: "you're killing a lot of things without even the lens saying anything... 
    per-item pricing. "Decor", "mass-market" or "common" alone is not a reason.
 4. **The gold signal is a mismatch**: Lens (or you) names a maker, model or material the seller's title and body do
    not. Any such row is an ask or buy unless a sold comp kills it.
+
+## Open every photo on lots (redo, Oct 13)
+The 2,211-listing redo found the earlier kill VERDICTS were mostly right, but every real miss had the same cause: the
+valuable piece was only visible in photo 2+ (a base mark, a case back, a temple stamp, an advertising lid, unopened
+blade packs). For any multi-item lot or anything with a maker question, open ALL photos before deciding. Also: never
+repeat a Lens maker name without checking it in the photo — Lens named the wrong maker on most flagged rows.

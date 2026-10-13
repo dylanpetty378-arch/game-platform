@@ -57,6 +57,9 @@ Title: "Royal Doulton [Character] Character Jug D#### [Large/Small/Mini] [year]"
 ## Buy rule
 Buy when: a rare D-number or colourway is visible under $50. Pass when: common subjects at more than $8 each. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Simple Simon D6374 (1953-60) was made only in large size, so a base photo of it fixes the size of every jug on the same shelf; a lot of 5 retired large jugs at about $8 each is a bundle-lane item.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "round", "fragility": 4, "transit_damage_risk": 3, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 2, "id_difficulty": 3, "rarity": 1, "sold_per_month": 600, "sell_through": 30, "days_to_sell": 45, "price_p25_p50_p75": [18, 25, 35], "price_spread": 1.9, "condition_sensitivity": 4, "seasonality": "none", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 14, "undervalue_frequency": 1, "bust_probability": 45, "expected_profit_typical": 0, "confidence": "medium"}

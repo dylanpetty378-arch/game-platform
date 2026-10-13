@@ -49,6 +49,9 @@ Buy rule (short): Pass: 5–7 ft saws don't fit a passenger seat; buy only one-m
 ## Buy rule
 - Size rule fails for two-man saws (5 ft+). Pass. One-man saws (3–4 ft) only with clear etch at ≤ $30.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Penn Saw Corp (York PA) is a common 20th-c. maker, no premium; two-man saw sold median $66
+
 ## Rubric
 ```json
 {"size_class": "bigger", "weight_lb": 8, "shape": "flat",

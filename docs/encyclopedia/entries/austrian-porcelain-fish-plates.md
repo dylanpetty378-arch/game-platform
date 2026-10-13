@@ -76,6 +76,9 @@ Profit = sold median × 0.87 − ~$20 to buyer − ~$20 to Dylan − price; pass
 - Transfer-printed MZ/Bavaria sets of ≤ 6 without platter: pass.
 - Hand-painted signed Limoges/English with platter: buy at ≤ $80 if resale ≥ $300 (backstamp + signature photos first).
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): MZ Austria green-border fish plates are transfer-printed with hand-tinting; incomplete sets of 5 in 'fair' condition stay in the $40-80 class even though eBay active asks show $135+
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 6, "shape": "set-of-many",

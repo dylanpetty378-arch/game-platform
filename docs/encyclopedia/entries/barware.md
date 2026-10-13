@@ -91,6 +91,9 @@ Profit = sold median × 0.87 − shipping to buyer − shipping to Dylan − pri
 
 Pass on beer trays from the 1960s on, vinyl and woodgrain ice buckets, unsigned glass, novelty giant glasses and anything "Tiffany style". No authentication service needed, but the mark must be visible before paying.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Mixed cocktail-glass lots can hide Bohemian/Faberge ruby cut-to-clear or signed Culver 22k tumblers; ask for base marks.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "set-of-many",

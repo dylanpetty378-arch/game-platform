@@ -84,6 +84,10 @@ Strongly seasonal. Demand and prices rise from mid-September through mid-Decembe
 ## Buy rule
 Profit = sold median × 0.87 − shipping to buyer − shipping to Dylan − price, and it must be ≥ max($50, price). With glass ornaments costing ~$15 each way and ceramic trees ~$30 each way, buy only when the photo shows pre-1960 German, Japanese or US glass figurals or Dresden or papier-mâché in a mixed lot priced at ≤ $40, a boxed Shiny Brite or bubble-light set at ≤ $15, or a ceramic tree under 18" that is intact and lit, at ≤ $25 locally. Buy in September–November only. Pass on resin and craft "Victorian", clings, trivets, wreaths, Hallmark/Dept 56 lots, blow molds (size), and anything electric that is untested.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): in boxed glass ornament lots, check the box flaps and ornament caps. "Shiny Brite" or "Made in West Germany/Poland" = $25-40 a box; the 2000s Radko Shiny Brite reissue looks similar and is worth less.
+- 2026-10-13 (redo): small figural glass ornaments with generic crimped crown caps (candy, cuckoo clock, drum) are 1990s-2000s Czech/German imports; Radko pieces carry a star-shaped cap/tag.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "set-of-many",

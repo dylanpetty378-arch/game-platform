@@ -79,6 +79,9 @@ State model, date code or patent dates, plating condition with close photos, whe
 ## Buy rule
 Profit = sold median × 0.87 − ~$8 ship to buyer − ~$8 ship to Dylan − price ≥ max($50, price). That needs a sold median of about $105+ at $25 and $160+ at $75 — i.e. only adjustables at $20–40, gold Aristocrat/cased early sets at ≤ $40, or rare models. Pass on Old Type, Tech, Super Speed above ~$15. No authentication issue. Fits a car seat easily.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Schick Adjustable Injector razors (1970s) sell $25-40 each. Unopened injector blade packs (Schick Platinum Chrome, Plus Platinum, store brands like TG&Y) are discontinued and add $10-20 per pack. Count the blade packs before pricing the lot.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.5, "shape": "irregular",

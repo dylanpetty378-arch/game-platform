@@ -57,6 +57,9 @@ Maker/label, model number, height, damage check (flowers, fingers), photos of ma
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$12 ship out − ~$12 ship in − price ≥ max($50, price). Only head vases, Holt Howard and Kreiss qualify, at very low prices. Fits a passenger seat. No authentication.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Arnart Erich Stauffer "Barnyard Frolics" sold $14-32 (median $25, n=3).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "irregular",

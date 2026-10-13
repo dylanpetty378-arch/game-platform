@@ -70,6 +70,9 @@ Name brand, contents, size (oz/lb), maker imprint on the base edge, approximate 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) − price ≥ max($50, price). A tin must sell for ≥ ~$85 to make $50 at $0 cost, so only collectible-tier tins work. Buy: pre-1940 graphic pocket tobacco or 1-lb coffee tins, H&P/British figural tins, children's peanut-butter pails, at ≤ $25 each and only with a visible maker imprint or period construction. Pass: any lot dominated by 1970s+ decorative tins, Christmas tins, Prince Albert/Velvet/Union Leader, rusted or paper-label tins, coronation/commemorative tins. Pocket-sized; no authentication issues except rare pocket tins (verify vs. reproductions before paying > $50).
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Droste cacao nurse tins with "www.droste.nl" on the back are modern reissues ($10-15).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "set-of-many",

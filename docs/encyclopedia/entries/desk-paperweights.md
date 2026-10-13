@@ -101,6 +101,9 @@ Give diameter, height and weight; maker and how it was identified (signature can
 ## Buy rule
 Profit = median × 0.87 − ~$10 − ~$10 − price ≥ max($50, price). Novelty: never. Studio glass with median $120: ≤ $35. French antique: verify with a specialist; often worth it if under $100.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Texcel cast-iron Deco tape dispenser (1930s, wrinkle/crinkle finish, arched hump) sells $25-45; weight kills margin under $10 buy
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1, "shape": "round",

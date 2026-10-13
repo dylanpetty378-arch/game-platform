@@ -71,6 +71,9 @@ Buy when: visible pre-1980 stars in a lot ≤ $40, or a graded card ≤ 40% of 1
 Pass when: junk-wax bulk; "1990 Nolan Ryan $25"; raw modern autos (they need authentication); high-value raw vintage (authentication rule).
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): 1971 Topps = black borders with facsimile signature; 1980 Topps = team banner flag + position pennant; 1983 Topps = inset head photo. A seller's 'box of cards' with these is originals, not 2012 Archives (Archives reprints carry a modern gloss and copyright line)
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "set-of-many", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 4, "id_difficulty": 4, "rarity": 2, "sold_per_month": 100000, "sell_through": "?", "days_to_sell": 10, "price_p25_p50_p75": [5, 25, 120], "price_spread": 24, "condition_sensitivity": 5, "seasonality": "follows sports seasons; football Sep–Jan, basketball Jan–Jun", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 4, "undervalue_frequency": 1, "bust_probability": 60, "expected_profit_typical": -10, "confidence": "low"}

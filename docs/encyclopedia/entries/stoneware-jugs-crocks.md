@@ -103,6 +103,9 @@ Pass when: cracked; pickup-only; Red Wing under 10 gal at > $40; plain or unmark
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat; 10+ gal crocks generally don't.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): Fort Edward Stoneware Co (NY, 1880s-90s) blue-stencil 1-gal jugs are plain factory marks, not cobalt decoration — $50-100 clean, $35-70 chipped.
+- 2026-10-13 (redo): blue-banded stoneware water coolers (bung hole + capacity number, Red Wing/RRP style) — check the body for horizontal cracks; a cracked 3-gal is a pass.
+- 2026-10-13 (redo): cobalt gallon-number inside a heart stamp on a two-tone shoulder jug = early-20th-c Ohio maker (verify which); does not lift value above $40-70
 - 2026-10-13 (triage): Red Wing 5-gal shoulder jugs (red wing + oval) sell $80-150 but weigh ~25 lb — local-sale only at $40 asks, no shipped margin.
 - 2026-10-13 (triage): Red Wing 5-gal shoulder jugs with red wing + Union Stoneware oval sell $100-175 but weigh ~25 lb boxed; shipping alone erases the margin at any asking over ~$40.
 

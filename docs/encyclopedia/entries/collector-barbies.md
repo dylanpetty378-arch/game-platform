@@ -96,6 +96,9 @@ Give the line, doll name, box year and stock number (e.g. "1990 Bob Mackie Gold 
 ## Buy rule
 Buy when: Silkstone BFMC ≤ $50, Bob Mackie ≤ $40, 1988 Holiday NRFB ≤ $60, any 1959–66 vintage ≤ $100. Pass when: 1990s Holiday, Hollywood Legends over $25, lots of played-with 1990s dolls. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Winter Classic (2001, Special Edition, brunette w/ brown faux-fur hat, cream gold-scroll gown) is a store pink-box line, $20-35 NRFB
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "flat",

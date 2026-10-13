@@ -54,6 +54,9 @@ Brand, weight, variant, grade, hinge condition, photos of all sides; mention tax
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$10) − ship to Dylan (~$12) − price ≥ max($50, price). A tin or lot needs ~$85+. Buy scarce pocket tins at ≤ $30 each or lots priced ≤ $5 per tin that contain at least one scarce brand. Pass common lots at more than ~$4 per tin and anything rusted.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Dill's Best (J.G. Dill, Richmond VA) vertical pocket tins are common production, $15-35.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "set-of-many",

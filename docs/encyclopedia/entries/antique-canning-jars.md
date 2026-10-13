@@ -50,6 +50,9 @@ State exact embossing, colour in natural light, lip type (ground or smooth), bas
 ## Buy rule
 Common aqua jar resale $10–20 ⇒ profit negative after ~$15 shipping each way. Pass. Buy only off-colour or rare embossed jars where Red Book/eBay sold ≥ $100 and price ≤ $25. Passenger-seat sized. No haze polishing.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Mason's Hero Cross 1858 in aqua is the common color ($10-20); cobalt is the $45+ variant.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "tall",

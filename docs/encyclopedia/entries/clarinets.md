@@ -60,6 +60,9 @@ Maker, model, serial number (and year), material, crack history (state "no crack
 ## Buy rule
 Buy when: Selmer Paris or Buffet R13 stamp visible under $400, no cracks. Pass when: plastic student line at any price over $40, or "Selmer" with the modern blue-badge case (7613). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Andre Chabot (Paris) is a French student wood stencil ($60-120), not a Buffet/Selmer tier.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 5, "shape": "flat",

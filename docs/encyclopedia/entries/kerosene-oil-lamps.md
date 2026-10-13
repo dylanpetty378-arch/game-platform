@@ -78,6 +78,9 @@ Price ≤ $200. Profit = sold median × 0.87 − shipping to buyer − shipping 
 - Never clear common stand lamps, Hong Kong imports or electrified hurricanes.
 - Fits a passenger seat. No authentication needed.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Victorian brass-stem stand lamps with pressed-glass font on square iron base, 20in, sell $50-90 — fragile font+chimney shipping makes them pass even at $10.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 4, "shape": "tall",

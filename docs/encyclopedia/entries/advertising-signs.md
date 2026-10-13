@@ -65,6 +65,7 @@ State material (porcelain/tin/plastic), single or double-sided, exact dimensions
 Buy when: porcelain (not plastic/tin) pump plate or small sign ≤ $150 with clean gloss, or porcelain street sign ≤ $30. Pass when: plastic canopy signs, neons (freight/breakage), any Shell/Texaco over $150 without an authentication-grade photo. Signs bigger than a passenger seat (e.g. 4–6 ft) are excluded by the size rule. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): farm-dealer tin signs (e.g. "Finest in Farm Machinery" Bridges Hardware, 25in round) with heavy rust on both sides fail at any price once 25in oversize shipping (~$35 each way) is counted.
 - 2026-10-13 (triage): KC Baking Powder red 28x12 tin sign ("For Better Baking") exists as both 1950s original and later repro; glossy rolled-edge NOS examples at $100 cannot be verified from a photo and originals only reach ~$100-150, so pass at any price over $40.
 - 2026-10-13 (triage): Embossed tin Hartford Fire Insurance "Chartered 1810" agent signs (c.1910-30, ~12x6") sell $75-125 — not enough margin above $50.
 

@@ -56,6 +56,9 @@ Buy rule (short): Buy 1950s–70s large designer decanters, tall floor vases (18
 - Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$20–35) − ship to Dylan (~$20) − price ≥ max($50, price).
 - A $200 decanter allows max buy ≈ $70. 384 bottles never.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): cobalt ice-lip pitchers without a sandblast mark or label are unattributable; $40-70 even as Blenko.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 5, "shape": "tall",

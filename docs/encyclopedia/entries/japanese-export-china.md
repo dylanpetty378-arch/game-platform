@@ -46,6 +46,9 @@ Mark/label photo, chips, set completeness.
 ## Buy rule
 Profit = median × 0.87 − $13 − $13 − price ≥ max($50, price). A $10 teapot needs ≥ $100 resale → never for Thames.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): 'Made in Japan' backstamp (post-1921) rules out the Nippon-era premium even when the decoration (flying geese, heavy gilt) copies Nippon.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "round",

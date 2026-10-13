@@ -47,6 +47,9 @@ Give maker, shape number, height, glaze description, condition.
 ## Buy rule
 Under Dylan's rules, buy marked West German lava with mid/upper tier comps at ≤ $40; pass on decor-store lamps.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): smooth drip-glaze tall West German floor vases (pale blue speckle, brown rim) are Scheurich-type, not fat lava; $50-100 and ~$30/way oversize
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 4, "shape": "tall",

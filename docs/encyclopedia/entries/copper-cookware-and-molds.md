@@ -87,6 +87,9 @@ State the diameter in cm (French pans are sized by stamped cm number), the rim t
 ## Buy rule
 Decorative molds never clear the profit rule. Heavy marked French copper: buy at ≤ 1/4 of median.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): late-Victorian English copper kettles (gooseneck spout, brass swing handle, copper roll grip) sell $60-120 — a $60 ask is break-even.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "set-of-many",

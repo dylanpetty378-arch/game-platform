@@ -85,6 +85,9 @@ Title: artist – title – label + catalog number – pressing tell (RL/SS, mon
 ## Buy rule
 Buy when: a single title with a confirmed golden-egg tell (seller sends a dead-wax or label photo, or the tell is visible in the photos — e.g. the trunk ghost) and price ≤ 40% of the conservative sold value for its visible grade, with est. profit ≥ max($50, price) after 13% fees and Media Mail both ways (~$8 each way). Pass when: it is a lot priced per record on cover art alone, any title with a barcode or "Remastered", anything with visible warps/water/mould, trophies needing authentication (butcher covers, Vee-Jay, low-number White Album) unless the price is trivial and the risk is only "worthless common copy", and any seller who will not photograph the dead wax. Never shop by "Beatles" or "Zeppelin": shop by catalog number + matrix. Size is never an issue.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Layla 2LP with the RSO cow logo on the back cover is the 1973+ RSO SO 2-3801 reissue, not the 1970 Atco SD 2-704; sealed RSO copies sell $40-70.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "flat",

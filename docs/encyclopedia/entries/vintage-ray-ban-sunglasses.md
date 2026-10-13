@@ -99,6 +99,9 @@ Buy rule (short): Buy only B&L pairs ("BL" lens etch and/or "B&L Ray-Ban U.S.A."
 Buy when: the pair is B&L-marked (etch and/or temple/bridge stamp photographed), in a premium model (Outdoorsman, Shooter, General, GF aviator, coloured 5022, Wayfarer II/Max, Wings, Dekko, Ambermatic, Chromax, Olympic) or a clean common B&L with case, lenses scratch-free, frame straight, and price ≤ 30% of est. sold — e.g. premium models at ≤ $60, common B&L at ≤ $35, Vuarnet Pouilloux 002/027/085 at ≤ $40. In mixed lots, buy only the identified B&L/Pouilloux pairs individually or the lot at ≤ $25/pair with ≥ 3 confirmed B&L premium pairs.
 Pass when: Luxottica (RB etch/Made in Italy), no marks visible and seller will not photograph them, scratched or replaced lenses, bent/re-plated frames, missing nose pads, cracked acetate, generic "designer" lots (Armani, Maui Jim, Oakley basics) at more than $15/pair. No authentication service exists for sunglasses, so the marks ARE the authentication — if they are not clear, pass. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (always).
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): B&L 1950s Ray-Ban gold-wire CLIP-ON shades with tan B&L slip case sell $40-80 — not a premium frame.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1, "shape": "irregular",

@@ -73,6 +73,9 @@ Describe honestly as "20th-century/Hong Kong export" when modern; photograph the
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$18) − ship to Dylan (~$18) − price ≥ max($50, price). Modern export almost never passes. Buy only small pieces with 19th-century tells (gritty orange-blushed foot, soft gilding, fine painting, unmarked or "China") at ≤ $40, plate- to bowl-sized. Imperial-marked or 18th-c. claims need professional authentication – pass. Pass red-seal millefleur, Macau/Hong Kong labels, chinoiserie décor, cracked pieces.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): a gritty unglazed foot ring and staple-repair holes confirm 19th-c. Canton-type plates, but chips and staples cut them to $40-80 each.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "round",

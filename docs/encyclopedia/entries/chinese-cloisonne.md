@@ -89,6 +89,9 @@ Describe it as "cloisonné enamel on copper/brass" (wire cells visible under mag
 ## Buy rule
 Profit = sold × 0.87 − ~$15 ship to buyer − ~$15 ship to Dylan − price ≥ max($50, price). Modern export jars never qualify. Only clearly old pieces (pitted enamel, "China" mark, Meiji silver wire) at ≤ $40 where resale ≥ $200 is likely. Anything claimed Qing/imperial needs professional authentication → pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): bright turquoise ground + large glossy pink lotus + brass finial on a ~6in ginger jar = 1970s-90s export, $40-65
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "tall",

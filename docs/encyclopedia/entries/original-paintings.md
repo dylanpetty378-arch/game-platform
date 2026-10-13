@@ -79,6 +79,10 @@ Buy rule (short): Buy only when the signature traces to an artist with documente
 - Buy only when the signature has documented sales with a median ≥ ~$200 (verify on LiveAuctioneers/askART) or the piece is clearly a quality pre-1940 painting, at ≤ 30% of that median.
 - Never buy "famous artist" claims (needs authentication), damaged canvases, or estate lots sight-unseen.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): a signature plus a date (e.g. "Elaine Cooke 1965") on a framed Mexican street-scene watercolour points to an amateur, $20-50.
+- 2026-10-13 (redo): Harrison Miller garden watercolours ("In the time of lilies", signature in a painted stone at lower right) are real early-20th-c. British work by an unlisted minor artist, $100-300. Lens wrongly matched Beatrice Parsons; Parsons's own work is the valuable one.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 7, "shape": "flat",

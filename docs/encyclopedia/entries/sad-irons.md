@@ -47,6 +47,9 @@ Give maker, size number, weight, handle type, rust condition; suggest doorstop/b
 ## Buy rule
 Plain sad iron ($15–25 sold) can never clear $50 profit. Pass unless a set, fluter, toy or patent iron with median ≥ $120 at price ≤ $30.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): a complete Asbestos Sad Iron (Dover Mfg) set in fitted oak box (6 irons, hoods, 3 handles) is the boxed variant ($100-180) but ~30 lb boxed kills it at $75; singles $15-25.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 5, "shape": "irregular",

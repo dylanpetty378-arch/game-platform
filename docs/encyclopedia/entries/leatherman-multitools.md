@@ -50,6 +50,7 @@ State model, stamps (Pat. Pend., Portland OR), all tools present and working, bl
 Buy when: Charge/Surge/TTi under $30, Pat. Pend. PST under $35. Pass when: standard PST at $45. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): Leatherman PST first-series w/ leather sheath sold median $44.97 (n=6) — no margin above ~$20 ask
 - 2026-10-13 (triage): A PST described as "original first series" with no "Pat. Pend." claim is the plain Portland OR stamp PST ($40–100); only buy at the entry's ≤$35 rule.
 
 ## Rubric

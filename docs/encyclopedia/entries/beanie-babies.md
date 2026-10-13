@@ -58,6 +58,9 @@ Photograph hang tag inside and out and tush tag both sides; state tag generation
 ## Buy rule
 Profit formula with resale $3–20 and $10+ shipping never clears max($50, price) for common Beanies – pass all lots and Princess/49ers/NFL bears. Only a 1st/2nd-gen-tag early style or Ty employee/Billionaire bear at ≤ $10 is worth a look, and even then value depends on authentication (excluded by Dylan's rules for high-value items) – treat as "ask seller for tag photos", rarely a buy.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): purple 'Princess' (Diana) bears are the commonest 'rare' claim — always pass.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 0.3, "shape": "irregular",

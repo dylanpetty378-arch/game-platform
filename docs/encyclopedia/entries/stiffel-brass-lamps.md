@@ -53,6 +53,9 @@ State height, maker mark (photo of stamp), socket type, cord condition, whether 
 ## Buy rule
 Profit = sold median × 0.87 − ~$30 ship to buyer − ~$30 ship to Dylan − price ≥ max($50, price). A single generic lamp never clears it. Buy only a marked Stiffel pair or designer form at ≤ $60 where median ≥ $250. Must be tested (lights on) — untested wiring = pass. Fits passenger seat lying down.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): a Stiffel tell is the cast weighted foot and signed socket/label; a plain turned brass base with glass font and black stem is generic
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 8, "shape": "tall",

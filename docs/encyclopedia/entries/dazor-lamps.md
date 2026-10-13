@@ -55,6 +55,9 @@ Model number from the label, base type, finish colour and originality, working s
 ## Buy rule
 Buy when: saucer/UFO model under $100, or floating fixture with weighted base under $40. Pass when: clamp-base fluorescent over $40 (6786 math: $120 sale − 13% − $45 in − $45 out − $45 price ≈ −$30, i.e. a loss; the earlier note said "≈ $0"). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (floor/rolling models are excluded).
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): brown 2-tube floating fixture on a stepped rectangular weighted base = 1940s-50s Dazor Model 1000-series; sellers list it as '1940s desk lamp' with no maker; look for the stepped Deco base and the ball-joint arm
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 10, "shape": "irregular",

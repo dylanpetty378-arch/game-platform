@@ -62,6 +62,9 @@ State whether it runs and for how long you tested it, timekeeping if known, "not
 ## Buy rule
 Profit = median × 0.87 − ~$6 to buyer − ~$8 to Dylan − price ≥ max($50, price). A single $60 watch needs a $140+ median: only Accutron/Hamilton Electric/solid gold qualify. Lots: buy only if (count of mechanical watches × ~$5 parts value + any identifiable solid-gold melt) clears the rule. No untested electronics (quartz/Accutron must be shown running — Accutrons hum). No luxury brands that need authentication. Dealer showcase listings: pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): in mixed estate lots, look for 1930s-40s Hamilton rectangular tanks. A solid 14K case (stamped inside the back, without "GF") turns a $50 lot into a buy; a gold-filled case is worth ~$50-80.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1, "shape": "set-of-many",

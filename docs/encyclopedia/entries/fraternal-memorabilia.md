@@ -57,6 +57,7 @@ Give the year, city, host temple and maker mark from the base, and photograph bo
 Price ≤ $200; profit = median × 0.87 − ~$16 out − ~$16 in − price ≥ max($50, price). A common $40–60 mug never qualifies. Buy only rare-form/early regalia at ≤ ~30% of the median.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): Knights Templar/fraternal swords sold median $54 — a $60 ask is a loss after long-box shipping
 - 2026-10-13 (triage): Modern Woodmen of America "Past Consul" jewels are gilt brass with enamel shield, not gold — lots of MWA pins sell $20-50.
 - 2026-10-13 (triage): 1920s Missouri "Chauffeur" octagonal brass badges (numbered, dated) sell $25-50 alone; WWII US Maritime Commission "Award of Merit" enamel pins $15-30. Pin lots are only worth buying under ~$15 with shipping offered.
 

@@ -50,3 +50,81 @@
 - 2026-10-13: vintage-sportswear: 1970s Champion Products Inc. Rochester NY running-man label on nylon snap coach jacket with acrylic pile lining; plain felt-letter examples ~$50-80 (no comp); only graphic/team-printed ones reach $100+.
 - 2026-10-13: cameo-jewelry: black glass intaglio cameo in brass oak-leaf/acorn frame is 1950s-60s Victorian-revival costume (Hobe/Whiting & Davis style), $25-40 — not Whitby jet.
 - 2026-10-13: military-buttons: "Superior Quality" backmark = Waterbury Button Co. post-WWII; US Navy eagle-on-anchor sets $1-2 per button.
+- 2026-10-13: fiesta-dinnerware: 'Sunflower' yellow is a modern Post-86 colour (2001-); a listing that calls it 'Sunflower' is not vintage yellow, $5-8 a piece.
+- 2026-10-13: german-porcelain: RS-style rose chocolate pots with a small green factory mark (not the red RS Prussia wreath-and-star) sell $40-70.
+- 2026-10-13: evening-bags: an inside brass plaque reading 'Bellini Collection' (fa logo) marks a Chinese Leiber-homage crystal minaudiere, $30-60, not Judith Leiber or Kathrine Baumann.
+- 2026-10-13: designer-jewelry: when a Craigslist designer-jewelry listing uses only white-seamless retailer stock photos (e.g. Balenciaga Typo ring at $10), ask for a photo of the actual piece with its inside stamp before treating it as real.
+- 2026-10-13: world-coins: a large 'Republica Mexicana' eagle-on-cactus crown in a bulk lot may be a silver 8 Reales ($45-90) or a cast copy; ask for the reverse (date/mint/assayer) and weight (27 g genuine).
+- 2026-10-13: woodworking-tools: a twin-handled cast-iron tool with a fence, mislabelled as a 'draw plane', may be a Stanley No. 66 hand beader ($75-130 complete); small brass spokeshaves are worth checking for an E. Preston stamp ($80-150).
+- 2026-10-13: ear-trumpets: black hard-rubber bell ear cornets are about $80-150 unmarked; an F.C. Rein (London) stamp takes them to $200-400.
+- 2026-10-13: gold-jewelry: at $4,144/oz spot, 10K scrap is about $47/g; a dainty 10K cross on a 13in chain (~1.5-2 g) is worth only $70-95.
+- 2026-10-13: portuguese-majolica: Bordallo Pinheiro plates with the frog-in-circle 'Made in Portugal' mark are modern, $15-30 each.
+- 2026-10-13: chalkware: a felt-bottomed painted figure that imitates a Black Forest/Anri wood carving is chalkware/composition, $15-30.
+- 2026-10-13: seller-tells: 'Farmhouse Trading Co' (Oklahoma City, cross-posts on FB/IG/TikTok) is a dealer pricing at retail; kill on price.
+- 2026-10-13: depression-glass: Tiffin-Franciscan pink diamond-optic low sherbets sell $8-12 each; Lens 'med $44' is for larger lots, not singles
+- 2026-10-13: silverplate-wine-coasters: Corbell & Co (London) silverplate coasters with turned wood base are $30-60 singles; pairs do better
+- 2026-10-13: petroliana-cans: 5-gallon pails are oversize (~$35/way); a single pail must be under ~$30 ask to clear
+- 2026-10-13: swiss-pocket-watches: 'Arena 17 jewels Incabloc' is a 1960s-70s Swiss base-metal hunter watch, $30-60; the engraved scroll front is chrome, not silver
+- 2026-10-13: toy-soldiers: mixed Barclay/Manoil lead + Britains Deetail lots sold median ~$30; don't pay over ~$15 for a 30-figure mixed lot
+- 2026-10-13: antique-coffee-mills: Landers Frary & Clark (New Britain CT) double-wheel store mills — wheels cast 'LANDERS FRARY & CLARK NEW BRITAIN CONN USA'; eagle-decal hopper; lid often missing; freight-only, resell local
+- 2026-10-13: sterling-jewelry: 'handmade from melted collector spoons' sterling pendants (eastnc seller) are craft castings, not James Avery despite Lens match
+- 2026-10-13: designer-jewelry: a stainless bangle stamped with a gold fineness ('585') and luxury name is counterfeit — kill
+- 2026-10-13: coins: 1921 Morgan is the commonest date — a 1921 Morgan + 1998 silver proof set at $75 is retail, no margin
+- 2026-10-13: vintage-lighters: 'M-H' on a mid-century automatic pocket lighter box/base is Marhill Co. — common importer brand, $15-35, not a monogram
+- 2026-10-13: vintage-snapback-hats: Mitchell & Ness Hardwood Classics script snapbacks with green underbrim are 2000s reissues, $30-60, not 1990s originals
+- 2026-10-13: picnic-baskets: Hawkeye refrigerator basket (Burlington Basket Co, Iowa) with original tin liners sells $60-150; without liners $30-60
+- 2026-10-13: japanese-antiques: a 6-7in bronze 'pipe' with a hinged lidded bowl and a long hollow shaft is a yatate (portable brush and ink case), not an opium pipe — Meiji bronze yatate $80-300, signed/figural ones more
+- 2026-10-13: music-books: old-time/clawhammer banjo instruction books (Twiss Early Banjo, Gura & Bollman America's Instrument, Carlin Birth of the Banjo) hold $15-35 used. A 9-book lot at $40 is a media-mail bundle play, not junk.
+- 2026-10-13: sterling-jewelry: woven, love-knot, wavy and floral-band sterling rings sold as "vintage sterling" often match James Avery designs ($35-70 each). Check the inside band for the JA hallmark before calling them melt.
+- 2026-10-13: slag-glass-lamps: 30in slag-glass hanging shades are pickup-only; they cannot be shipped economically regardless of price.
+- 2026-10-13: fishing-reels: Penn Senator 114-H (6/0) sells $80-120 and is heavy; Pflueger Takapart No. 480 is a common model at $20-45.
+- 2026-10-13: post-office-box-doors: Corbin double-dial eagle PO box doors (bank conversions) run $40-80 each, but they are 6-8 lb brass, so a 3-door lot at $40 nets only ~$25.
+- 2026-10-13: holmegaard-glass: Holmegaard Juleflaske (Michael Bang) late-1980s years are common, $30-50.
+- 2026-10-13: russian-porcelain: Lomonosov Cobalt Net teapot plus cup/saucer is current production, ~$100 total, with no margin at $50.
+- 2026-10-13: zippo-lighters: a Zippo sold in a Ronson box with "Inscribed on back" in the body is an advertising/award Zippo; a company "Safe Driving Award" lid is the value driver. Ask for the bottom stamp: PAT. 2517191 or a 1950s dot code means $50-90, a 1970s+ code means $15-25.
+- 2026-10-13: petroliana-crates: Vacuum Oil Company (Mobil's predecessor) wooden crates are labeled on the inner boards. Converted footlockers about 28in long cannot be shipped at a profit.
+- 2026-10-13: fenton-glass: a cranberry opalescent Coin Dot top hat with an oval "Fenton" logo dates from 1970 or later and sells $40-70. It is fragile, so there is no margin at $35 or more.
+- 2026-10-13: costume-jewelry: the "Vintage Red Coral" strand is uniform magenta metallic glass seed beads. Real coral beads vary in size and color and have drill-hole wear.
+- 2026-10-13: antique-trunks: a litho-paper flat-top doll trunk with no tray and missing handles sells $50-100. Boxy shipping kills the margin even at $20.
+- 2026-10-13: cap-gun-caps: a 1958 Mattel Greenie Stik-M-Caps box is the only collectible piece here. Big Shot roll caps are modern-looking common stock at $3-8 per box.
+- 2026-10-13: crystal-figurines: a faceted bear or cat ornament with a red bead nose and no etched swan or SC logo is Crystal Clear Industries, not Swarovski.
+- 2026-10-13: vintage-clothing: no encyclopedia entry for 1930s-40s bias-cut silk gowns / bed jackets — frequent in estate lots; write one
+- 2026-10-13: silverplate-trophies: "Barbour Silver Quadruple Plate" stamp under foot = Meriden-area plated loving cup; plated trophies sell $20-50 — Lens "Tiffany sterling" matches on loving-cup shape are false.
+- 2026-10-13: native-american-drums: Inscribed gift messages on the head ("God bless you") mark a souvenir/craft drum; look for tribal/maker signature (e.g. Taos Pueblo) before any value.
+- 2026-10-13: inuit-carvings: "Thorn Arts Canada" pieces are cast stone-dust/resin souvenirs — smooth molded surface, no disc number or syllabic signature.
+- 2026-10-13: textiles-blankets: Chimayo vs Mexican: a poncho neck slit + Saltillo diamond + no Ortega's/Chimayo label = Mexican serape-poncho ($20-40).
+- 2026-10-13: soda-advertising: Wood-framed sunburst-logo Pepsi wall clocks are often 1990s quartz repros; back label (Pam/Swihart, lighted) decides.
+- 2026-10-13: vintage-buttons: Clear-dome "golfer" buttons with the PGA Tour logo are 1980s+ plastic, not carved Bakelite.
+- 2026-10-13: wool-blankets: Foxford (Providence Woollen Mills, Ireland) blankets are a decent label ($40-70 clean) but stains + 3.5 lb shipping kill margins under ~$20 buy.
+- 2026-10-13: 1980s-dolls: Mattel Herself the Elf (1982) boxed and Life Savers Lotta Flavors (1981) carded dolls are ~$30-45 each — lots at $29 net ~$15-20.
+- 2026-10-13: christmas-ornaments: Plain solid-color Shiny Brite balls run $2-3 each in boxed lots; only stenciled/indent/figural Shiny Brites carry margin.
+- 2026-10-13: alaska-tourist-sterling: 'Mei-Alaska / Alaska Black Diamond' on the card = hematite tourist sterling, boxed pairs $25-45.
+- 2026-10-13: avon-steins: Avon 1976-87 steins are Ceramarte Brazil, $10-20 each on eBay; full sets fail on freight.
+- 2026-10-13: vintage-baseball-masks: wire-frame leather-pad catcher's masks are only worth >$100 with a maker stamp (Reach/Spalding/Goldsmith/D&M) and patent date; unmarked = $40-70.
+- 2026-10-13: sumida-gawa: look at every base photo for the Inoue Ryosai / maker cartouche; plain or red-painted bases = unsigned Showa tier ~$60-120 each.
+- 2026-10-13: german-stoneware: 'M R' plus a model number like 3061/21 = Marzi & Remy, post-war Westerwald production, $20-40.
+- 2026-10-13: pressed-glass: square-footed diamond/crosshatch goblets sold as '1890-1910' are usually Imperial Cape Cod (1932-84), $30-50 a set.
+- 2026-10-13: bisque-dolls: 'Darling 2/0' shoulder-head with replaced wig/dress = restored common tier; Kestner bisque comp median $16.50.
+- 2026-10-13: inuit-carvings: base inscription is the value split - syllabics plus E-disc number or community name (Kinngait/Cape Dorset) = $100-250; no inscription = tourist stone $20-40.
+- 2026-10-13: studio-glass-perfume: signed/numbered swirl perfume bottles (Eickholt-type) sell $50-120; never clear the floor above ~$40.
+- 2026-10-13: desk-clocks: 'Portfolio by Tiffany & Co.' is the AA quartz lower line, $70-130, not Tiffany retail.
+- 2026-10-13: illy-art-collection: the 1992 first collection (Missoni, Thun, Cargnelli, F. Illy, Fusco, +1) only commands a premium complete; 5-of-6 sets are piecemeal.
+- 2026-10-13: vintage-costume-jewelry: 'Made in Czechoslovakia' Deco green cut-glass panel necklaces in plated filigree $60-120.
+- 2026-10-13: music-boxes: base stamped "BALLERINA" = budget gold-tone musical powder box, not Thorens Silverite; $20-40.
+- 2026-10-13: silverplate-flatware: brass/yellow base metal showing through worn handles = silverplate, not sterling. A magnet test proves nothing because both are non-magnetic.
+- 2026-10-13: leather-jackets: the "Savile Row Outerwear" label is a department-store brand (not Schott, Cooper or Avirex); A-2 style sells $30-60.
+- 2026-10-13: decor-tripods: a polished brass telescoping tripod with a black leg finish is a modern Indian-import nautical telescope stand, not a Bilora or Linhof camera tripod; $10-25.
+- 2026-10-13: skateboard-decks: a hand-painted contest trophy deck on a blank bottom has no brand graphic, so it is not a Vision or Blockhead deck, whatever Lens matches.
+- 2026-10-13: militaria: an "M1902 harness binder rosette" on a leather strap dates it after 1902; it is not a Civil War belt.
+- 2026-10-13: tulipieres: plain white Italian ceramic 16-spout cluster vases are modern decor. Lens's high medians come from Delft tulipieres.
+- 2026-10-13: art-glass: a seller-listed model number (e.g. "B320 Dancing abstract figurines") on "Murano-style" figural glass = mass-produced decor.
+- 2026-10-13: bicycle-components: Shimano Dura-Ace BR-7700 caliper pair, used, ~$80-120; a mechanic seller prices it at market.
+- 2026-10-13: english-semi-porcelain: 'Limoges' is not a mark — a crown + pattern name + 'Rd No' (British registered design number) on a gilt floral platter is English Staffordshire semi-porcelain c.1900, $15-30.
+- 2026-10-13: hotel-silverplate-flatware: 'Victor S. Co A1+ Overlay I.S.' = International Silver hotel-ware line; hotel-engraved spoons $5-10.
+- 2026-10-13: military-sun-helmets: International Hat Co fiber sun helmets are dated inside (e.g. 12-31-1948) — post-war contract dates are the common ones, $40-80; WWII-dated USMC examples are the ladder top.
+- 2026-10-13: game-calls: Oliveros 'Pull-Em' crow call (Houston TX) is mass-produced; boxed $20-50 — not a collector call like Olt or Faulk's early.
+- 2026-10-13: oyster-plates: Altrohlau/Victoria Austria 5-well transfer-floral oyster plates c.1900-20 sell $35-70; the money is in Haviland/Limoges hand-painted and majolica wells, not Austrian transfers.
+- 2026-10-13: semi-porcelain-pitchers: 'La Francaise Porcelain' is French Saxon China Co, Sebring, Ohio — American semi-porcelain, decal floral, $10-20.
+- 2026-10-13: hunting-knives: A pinned stag hunter with brass guard and tooled sheath is undatable from the side; the tang stamp (Marble's Gladstone / Case / Solingen) is the whole price difference ($40 vs $300).
+- 2026-10-13: rockingham-yellowware: The 'Heron and Bullrush' pitcher with stag-head under the spout is the E&W Bennett (Baltimore, Coxon design, 1850s-70s) form, copied by Ohio potters to c.1900; a base photo (impressed BENNETT) separates $150-300 from $50-100. No encyclopedia entry exists yet — write one.
+- 2026-10-13: mid-century-barware: 'Richard E. Bishop' signed game-bird glasses are a separate line from Federal Sportsman; $8-15 per stem.

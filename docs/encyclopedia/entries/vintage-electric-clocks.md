@@ -89,6 +89,9 @@ Give the maker and model number as printed on the clock, and the movement maker 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$15 ship out − ~$15 ship in − price ≥ max($50, price). Only Nelson-design originals and working motion clocks or Catalin Deco qualify; electric clocks are electronics — must be shown running. Fits a passenger seat. No authentication.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): a United Clock Corp Majorette has a copper wash and a baton. The only comp is one active ask at $135, with no sold data, so the static figural range of $30-80 stands.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "irregular",

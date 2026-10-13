@@ -56,6 +56,9 @@ State title, maker, year (from copyright line), dome vs flat, embossed or not, w
 ## Buy rule
 Buy when: 1950s–60s box with intact graphics under $75, or any dome-top under $50, or a known Top/Collectible title under 25% of its sold range. Pass when: 1975+ flat boxes at any price over $15, rust-through, or seller already names the year and prices at eBay level. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): 1982 Aladdin Western-heroes box (Buffalo Bill/Hickok/Medicine Crow/Sitting Bull end panels) is the 1975-85 flat tier, $30-60, not the 1955 Hickok box Lens names.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "flat", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 2, "repro_risk": 3, "id_difficulty": 3, "rarity": 2, "sold_per_month": 2000, "sell_through": 40, "days_to_sell": 21, "price_p25_p50_p75": [40, 90, 200], "price_spread": 5, "condition_sensitivity": 5, "seasonality": "none known (estimate)", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 15, "undervalue_frequency": 3, "bust_probability": 30, "expected_profit_typical": 20, "confidence": "medium", "notes": "dated sold evidence is only the 2019–2020 auction lots; volume, sell-through and quartiles are estimates"}

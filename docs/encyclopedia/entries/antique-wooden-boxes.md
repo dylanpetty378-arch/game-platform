@@ -93,6 +93,7 @@ State the type and period as supported by construction (e.g. "English, early 19t
 Profit = median × 0.87 − ~$20 − ~$20 − price ≥ max($50, price). Import boxes never qualify. Georgian caddies/writing slopes/Tunbridge at ≤ $60 when median ≥ $200. No veneer repair jobs. Fits a car seat.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): 'Challenge Japan Tea' paper-covered store tea chests (Mt Fuji/tea-picker chromolitho) are real early-20th c. but value rides on paper condition; 16in size ships ~$35.
 - 2026-10-13 (triage): A Gerstner machinist chest has felt-lined drawers, a mirror in the lid and a brand plate; a plain pine box with brass corners and two latches is a homemade/tackle box worth $30-60 regardless of "antique" title.
 
 ## Rubric

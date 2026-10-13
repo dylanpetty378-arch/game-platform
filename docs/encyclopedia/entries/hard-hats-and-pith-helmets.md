@@ -53,6 +53,9 @@ Maker, material, model stamp, decals (photograph each), suspension included/orig
 ## Buy rule
 Profit = sold × 0.87 − $15 ship to buyer − $15 ship to Dylan − price ≥ max($50, price). With the Bullard median of $85: 85 × 0.87 − 30 = $44 before price, which never clears the $50 floor, so plain hats are always a pass. Buy only decal-rich or early hats (≥ $150 expected) at ≤ $40. Pith helmets: only WWII-marked or British officer at ≤ $30.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Willson aluminum full-brim hats are the plain Standard tier ($50-120); decal alone does not clear the buy rule above ~$25.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "round",

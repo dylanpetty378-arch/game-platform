@@ -55,6 +55,9 @@ Give dimensions, weight, grit or stone type, flatness, any chips, box/label cond
 ## Buy rule
 Profit = sold × 0.87 − ~$10 to buyer − ~$10 to Dylan − price ≥ max($50, price). Only natural razor hones selling for $100+ work. Pass on man-made stones at any price.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Box lots marked Carborundum Co. (Niagara Falls) and Chinese "combination" stones are synthetic; value is in natural Arkansas/Washita labels only.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1.5, "shape": "flat",

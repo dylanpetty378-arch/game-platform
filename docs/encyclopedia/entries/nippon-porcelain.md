@@ -100,6 +100,9 @@ Give the exact backstamp wording and colour ("green 'Hand Painted NIPPON' with M
 - Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$15) − ship to Dylan (~$12) − price ≥ max($50, price).
 - Only items with resale ≥ ~$100 work; small dishes never.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): green M-in-wreath mark = Morimura Nippon 1911-21; sugar bowls sell $15-30.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "round",

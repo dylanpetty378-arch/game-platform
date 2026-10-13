@@ -53,6 +53,7 @@ Neck mark photo, whether mechanism draws, all accessories (pens, papers, templat
 Profit = sold median × 0.87 − ~$25 ship to buyer − ~$20 ship to Dylan − price ≥ max($50, price). A $100 resale nets ~$42 at price $0, so even complete Peggy Pen-Pal sets fail shipped. Buy only collector dolls with resale ≥ $150 at ≤ $40.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): 1970 Horsman Peggy Pen-Pal sold median $25 (n=18), top $91 with desk and box. The large box makes any ask above ~$15 marginal.
 - 2026-10-13 (triage): 20" 1950s vinyl fashion dolls in tulle gowns: Ideal Miss Revlon reads "VT-20 IDEAL DOLL" on the neck ($50-100 in gown); an unmarked one is Deluxe Reading/grocery-store ($25-40).
 - 2026-10-13 (triage): Ideal Shirley Temple in white polka-dot "Stand Up and Cheer" dress with vinyl body is the 1972-73 16in reissue, $25-45; the 1930s composition Shirley (crazed finish, "SHIRLEY TEMPLE / IDEAL" neck mark) is the $100-300 one.
 

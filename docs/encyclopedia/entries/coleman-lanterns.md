@@ -99,6 +99,9 @@ Quote the model and the exact fount stamp and decode it ("stamped 'A 51' = first
 Buy when: pre-1952 date, black band, model 200, 202, 242/243 with nickel fount, or any 1920s–30s, at ≤ $50. Pass when: 220/228 or red 200A later than 1955 at any price over $25 (sold $45–100, profit never clears $50). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 Note: "black band" alone does not make a 1951 lantern — terry-marsh shows the black base rest on 200As by 1953, through 1959 (aluminium from 1960); a black-band 200A sold at a $86 median does not clear the profit rule at $50, so for black band require a 1951–52 date stamp.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): a 220/228 with a red "Coleman" badge decal on the fount is a 1960s-80s F/H/J model ($50-80). Earlier B/C/D models have stamped founts with no decal.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 5, "shape": "tall",

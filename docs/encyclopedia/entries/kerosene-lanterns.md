@@ -54,6 +54,9 @@ Photograph globe markings, patent dates on tubes, base stampings, burner. State 
 ## Buy rule
 Profit = resale × 0.87 − ~$25 out − ~$20 in − price ≥ max($50, price). Common barn lantern ($50 resale) never qualifies. Railroad-marked at $200 resale: buy at ≤ $65 (Tier A ≤ $40). Pass on electrified.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Paull's No. 0 (Wheeling Stamping Co, post-1897) is a Dietz-lookalike tubular lantern, $30-60 sold, not a premium maker
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 3, "shape": "tall",

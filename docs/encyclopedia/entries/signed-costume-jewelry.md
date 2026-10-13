@@ -91,6 +91,8 @@ Title: "Vintage Signed [Maker] [form] [stones/colour] [era]", e.g. "Signed Sherm
 Buy when: a Boucher/Eisenberg/Hobé/HAR/Schiaparelli/Haskell signature is visible and the price is ≤ 30% of tier, or Sherman parures are under $50. Pass when: Avon/Coventry/Monet lots, unsigned rhinestone "lots", or front-only photos. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): Sherman (Canada) has silver-tone backs with an engraved script "Sherman" on a curl, and its pear and baguette stones are Swarovski. Marboux is Boucher's diffusion line ("Marboux" plus a 4-digit number and "AB"). Sellers who list each piece separately usually price at sold value already, so skip unless the whole lot is offered at a flat low price.
+- 2026-10-13 (redo): Weiss blue navette pinwheel brooch ~$45-50 intact; one missing stone drops it to $30-40
 - 2026-10-13 (triage): Sherman AB navette wreath brooch + clip earrings sets were sold through T. Eaton Co. in the 1960s; sellers who name Eaton usually have the signed piece — still ask for the SHERMAN stamp on the brooch back AND each earring
 - 2026-10-13 (triage): teal/AB dangle clip earrings in the D&E/Juliana style show up unsigned. Juliana is never signed, so value depends on construction tells (open backs, figure-8 links), and front-only photos aren't enough.
 

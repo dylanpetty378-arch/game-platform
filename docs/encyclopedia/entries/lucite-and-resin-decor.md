@@ -59,6 +59,9 @@ Dimensions, weight, clarity, yellowing, bubbles, specimen type (avoid naming pro
 ## Buy rule
 Profit = median × 0.87 − ~$10 − ~$10 − price ≥ max($50, price). Butterfly domes (~$30) cannot clear. Buy signed design Lucite at ≤ $40 with comps ≥ $150.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): 1970s amber/green Lucite sphere-on-slab bookends are unsigned decor at $60-110 a pair and heavy to ship. Only Ritts, Grosfeld House or Charles Hollis Jones pieces clear a margin.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "round",

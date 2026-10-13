@@ -80,6 +80,9 @@ Profit = sold median × 0.87 − ~$20 to buyer − ~$20 to Dylan − price; pass
 - Wilmot/Quezada-level signatures: buy at ≤ $100 only with clear signature photos.
 - Size: most fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Sermel (Tonalá, Jalisco) papier-mâché animals — glossy lacquered, painted eyes, 1970s — are NOT the $10-50 tourist tier; stamped pieces bring $30-70 each, zebra/crocodile at the top. No comp in db yet — pull Terapeak 'Sermel'
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 4, "shape": "irregular",

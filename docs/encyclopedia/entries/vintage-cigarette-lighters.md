@@ -83,6 +83,7 @@ Profit = sold median × 0.87 − ~$6 to buyer − ~$6 to Dylan − price; pass u
 - No authentication issue for common Dunhill/Dupont (marks are clear), but high-end gold/Cartier needs a specialist → pass.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): "Gladys" = Swiss-made budget slim lift-arm petrol lighter (chrome barley pattern, box reads "Gladys / Swiss Made / Fabr. Suisse"); not Dunhill. The db comp row "Gladys Dunhill-style lift-arm lighter" ($425) actually returned Dunhill Uniques, so it is a bad comp. Gladys sells ~$30-60.
 - 2026-10-13 (triage): Zippo value is on the bottom stamp: "PAT. PEND." + 3-barrel hinge (1930s) and "PAT. 2032695" + 4-barrel hinge (1937–50) sell $50–150+; 1970s+ date-code bottoms (dots/slashes/Roman numerals) $10–15. Always ask for the bottom photo of a Zippo lot.
 - 2026-10-13 (triage): Butabloc (France) round butane lighters are common, $15-30; a Butabloc in a lot adds nothing.
 - 2026-10-13 (triage): Lift-arm petrol lighters with mother-of-pearl checkerboard panels are Dunhill Unique only if the base is stamped "Dunhill Unique / Made in England" (or Pat. 143752); Japanese copies of the same form are unmarked or "Japan" and worth $10-25. Ask for the base before pricing a lift-arm.

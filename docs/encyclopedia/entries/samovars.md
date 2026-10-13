@@ -45,6 +45,10 @@ Type, marks, completeness, electrical status.
 ## Buy rule
 Electric samovars rarely clear profit.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Plastic knobs + cord = electric Soviet/Turkish samovar (median $80 sold), regardless of "19th century" claims.
+- 2026-10-13 (redo): the "antique" electric samovars on Craigslist are 1970s Soviet nickel-plated Tula types; comp median for electric samovars is $80 (n=50).
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 8, "shape": "tall",

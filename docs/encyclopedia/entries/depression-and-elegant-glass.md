@@ -91,6 +91,9 @@ Buy rule (short): Only buy a specific scarce shape in a collected pattern, ident
 - Never buy ruby flash, King's Crown, Moon and Stars, Swirl and Ball, Mosser dishes, sets of stemware, or anything reproduced in its shape without a repro check.
 - Ask for height and a photo of the rim and base before buying any vase or candy jar.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Tiffin-Franciscan "June Night" relish dishes are commonly mis-matched by Lens to Cambridge Rose Point; both sell $25-40, below fragile-shipping margin.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "tall",

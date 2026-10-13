@@ -87,6 +87,9 @@ Quote the base mark exactly as written, for example "Limoges France – Peint Ma
 ## Buy rule
 Profit = median × 0.87 − ship − ship − price. Single Limoges at $45 median → ~$15 margin at best: pass singles. Lots of 5+ Limoges at ≤ $40 total can work (lot $150 → $130 − $25 − $40 = $65). Gift-ware boxes: always pass.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Lenox "Barrington Collection" oval footed boxes are Lenox giftware ($10-20), easily mis-matched by Lens to Otagiri.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.5, "shape": "round",

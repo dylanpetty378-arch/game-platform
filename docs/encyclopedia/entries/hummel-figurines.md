@@ -62,6 +62,7 @@ Photograph each base mark and model number, list TMK per figure, chips/repairs.
 Profit = median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). Singles (TMK-5+) never qualify. Lots: if ~25 figures can be bought for ≤ $100, resale ~$350–500 as a lot or split → passes. Crown/full-bee singles ≤ $20. Must confirm price is for whole lot.
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): Hummel angel candleholders Hum 38/39/40 (Joyous News trio, 2-2.5in) are the 1950s ones with candle sockets; 238 A/B/C (1967+) are the same poses without sockets; full bee median $25 each.
 - 2026-10-13 (triage): The year incised on a Hummel base (e.g. "1938" on 112 Just Resting) is the design copyright date, not the production date — sellers list it as the age; only the TMK stamp dates the piece. 112 3/0 is the smallest size and stays under $70 even with TMK-1/2.
 - 2026-10-13 (triage): Spring Cheer #72 and Little Shopper #96 are common models even with TMK-2 full bee; pair sells under $100. Full-bee only pays on scarce models (Hear Ye, Angel Serenade) — mark alone is not the tell.
 - 2026-10-13 (triage): the 2-3" Goebel mini angels (Joyous News 238A, Angel Serenade 238B, Angel with Accordion 238C) sell $15-25 each in TMK-5/6; they only move up with a crown or full-bee base stamp.

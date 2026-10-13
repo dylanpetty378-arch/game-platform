@@ -62,6 +62,9 @@ Name, year, faction, sub-line, list of included accessories vs complete list, st
 ## Buy rule
 Profit = sold × 0.87 − ~$10 − ~$10 − price ≥ max($50, price). A $50 figure must sell for ~$140. So: buy only complete, unbroken loose figures whose sold median is ≥ 3× price, or boxed examples. Check copyright stamps (reissues sell for less). All fit in a seat; no electronics (except some Powermasters/lights — test).
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Seacon Snaptrap loose complete sells $50-80, Pretender Doubleheader $35 median — G1 asks at $100 are retail
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "irregular",

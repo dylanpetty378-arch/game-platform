@@ -83,6 +83,7 @@ Pass when: Zebco/Shakespeare lots; Mitchell 300s priced ≥ $15 each; Mitchell 3
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (reels do; rods don't ship).
 
 ## Field notes (learned in triage)
+- 2026-10-13 (redo): blue 'Mitchell' box with white interior + spare spool/manual = 1960s Garcia era; look for the wire bail in the photo — full bail = $40-80 boxed, half-bail = $80-150
 - 2026-10-13 (triage): Wright & McGill Eagle Claw 125 with zip case sells ~$30 even "like new"; it is not a Mitchell 308/300 (the brown Mitchell 308 ultralight is the one that clears $60-100).
 
 ## Rubric

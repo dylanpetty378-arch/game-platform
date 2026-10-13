@@ -53,6 +53,9 @@ Maker marks, metal content (tested), size, weight in grams for gold/silver, dama
 ## Buy rule
 Profit = sold × 0.87 − $6 − $6 − price ≥ max($50, price). Standard pieces (≤ $60 sold) only work as lots. Gold thimbles at ≤ 50% of melt. D. Peres medallion scissors (~$40–80 sold) only at ≤ $15. Pass on stork scissors, porcelain/souvenir thimbles and ivory.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): D. Peres Solingen bust-medallion scissors carry an omega-like mark below the pivot; Kaiser-era uniformed bust; still $40-80 sold.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.2, "shape": "set-of-many",

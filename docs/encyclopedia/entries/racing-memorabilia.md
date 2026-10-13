@@ -47,6 +47,9 @@ State year, publisher, size, folds/pinholes.
 ## Buy rule
 Profit = resale × 0.87 − ~$10 out − ~$10 in − price ≥ max($50, price). Needs $70+ resale at ≤ $10: almost never for 1990s posters. Pass unless pre-1985 paper.
 
+## Field notes (learned in triage)
+- 2026-10-13 (redo): Simpson-label Rusty Wallace #2 Miller Genuine Draft twill jackets ~$80-150 — no margin above ~$50.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "flat",
