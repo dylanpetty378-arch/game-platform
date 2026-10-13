@@ -26417,3 +26417,28 @@
 {"ts":"2026-10-13T22:45:58Z","pid":"7954806975","stage":"flagged","run":"lensworker-20261013-2239","note":null,"data":{"med":199,"ratio":2.65,"mismatch":[]}}
 {"ts":"2026-10-13T22:46:06Z","pid":"7974679581","stage":"lensed","run":"lensworker-20261013-2239","note":null,"data":{"med":30,"ratio":1,"mismatch":[]}}
 {"ts":"2026-10-13T22:46:14Z","pid":"7937573819","stage":"queued","status":"relens","run":"lensworker-20261013-2239","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:46:26Z","pid":"7947846952","stage":"flagged","run":"lensworker-20261013-2239","note":"Lens names Gold — title does not","data":{"med":650,"ratio":1.55,"mismatch":["Gold"]}}
+{"ts":"2026-10-13T22:46:34Z","pid":"7947124187","stage":"flagged","run":"lensworker-20261013-2239","note":"Lens names Buck, Hunter — title does not","data":{"med":49,"ratio":4.9,"mismatch":["Buck","Hunter"]}}
+{"ts":"2026-10-13T22:46:42Z","pid":"7981257762","stage":"flagged","run":"lensworker-20261013-2239","note":null,"data":{"med":349,"ratio":6.98,"mismatch":[]}}
+{"ts":"2026-10-13T22:46:51Z","pid":"7937961473","stage":"flagged","run":"lensworker-20261013-2239","note":"Lens names European, Goebel, Hummel — title does not","data":{"med":30,"ratio":0.75,"mismatch":["European","Goebel","Hummel"]}}
+{"ts":"2026-10-13T22:46:58Z","pid":"7930810093","stage":"queued","status":"relens","run":"lensworker-20261013-2239","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:47:06Z","pid":"7954660058","stage":"flagged","run":"lensworker-20261013-2239","note":"Lens names Gold, Juliana, Lane — title does not","data":{"med":60,"ratio":1.2,"mismatch":["Gold","Juliana","Lane"]}}
+{"ts":"2026-10-13T22:47:16Z","pid":"7954309986","stage":"flagged","run":"lensworker-20261013-2239","note":"Lens names Native, Navajo — title does not","data":{"med":75,"ratio":0.97,"mismatch":["Native","Navajo"]}}
+{"ts":"2026-10-13T22:47:24Z","pid":"7937283642","stage":"lensed","run":"lensworker-20261013-2239","note":null,"data":{"med":18,"ratio":1.8,"mismatch":[]}}
+{"ts":"2026-10-13T22:47:32Z","pid":"7949667772","stage":"flagged","run":"lensworker-20261013-2239","note":"Lens names Company, Gold — title does not","data":{"med":71,"ratio":0.57,"mismatch":["Company","Gold"]}}
+{"ts":"2026-10-13T22:47:42Z","pid":"7930759782","stage":"flagged","run":"lensworker-20261013-2239","note":"Lens names Accessories — title does not","data":{"med":31,"ratio":0.62,"mismatch":["Accessories"]}}
+{"ts":"2026-10-13T22:47:51Z","pid":"7965250653","stage":"lensed","run":"lensworker-20261013-2239","note":null,"data":{"med":30,"ratio":0.32,"mismatch":[]}}
+{"ts":"2026-10-13T22:48:00Z","pid":"7967331540","stage":"flagged","run":"lensworker-20261013-2239","note":null,"data":{"med":158,"ratio":0.81,"mismatch":[]}}
+{"ts":"2026-10-13T22:48:08Z","pid":"7944455092","stage":"flagged","run":"lensworker-20261013-2239","note":"Lens names Boutique, Cameo — title does not","data":{"med":140,"ratio":46.67,"mismatch":["Boutique","Cameo"]}}
+{"ts":"2026-10-13T22:48:17Z","pid":"7940725703","stage":"flagged","run":"lensworker-20261013-2239","note":null,"data":{"med":323,"ratio":1.61,"mismatch":[]}}
+{"ts":"2026-10-13T22:48:26Z","pid":"7965207711","stage":"flagged","run":"lensworker-20261013-2246","note":"Lens names Wedgwood — title does not","data":{"med":null,"ratio":null,"mismatch":["Wedgwood"]}}
+{"ts":"2026-10-13T22:48:32Z","pid":"7951252634","stage":"queued","status":"relens","run":"lensworker-20261013-2246","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:48:40Z","pid":"7956934841","stage":"lensed","run":"lensworker-20261013-2246","note":null,"data":{"med":59,"ratio":1.18,"mismatch":[]}}
+{"ts":"2026-10-13T22:48:47Z","pid":"7951968835","stage":"queued","status":"relens","run":"lensworker-20261013-2246","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:48:55Z","pid":"7957634660","stage":"flagged","run":"lensworker-20261013-2246","note":null,"data":{"med":69,"ratio":2.76,"mismatch":[]}}
+{"ts":"2026-10-13T22:49:02Z","pid":"7946702319","stage":"flagged","run":"lensworker-20261013-2246","note":"Lens names Jewelry — title does not","data":{"med":16,"ratio":0.8,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-13T22:49:10Z","pid":"7940089091","stage":"queued","status":"relens","run":"lensworker-20261013-2246","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:49:17Z","pid":"7973563719","stage":"lensed","run":"lensworker-20261013-2246","note":null,"data":{"med":26,"ratio":0.87,"mismatch":[]}}
+{"ts":"2026-10-13T22:49:25Z","pid":"7949174292","stage":"flagged","run":"lensworker-20261013-2246","note":"Lens names Origin — title does not","data":{"med":35,"ratio":1.17,"mismatch":["Origin"]}}
+{"ts":"2026-10-13T22:49:37Z","pid":"7951164973","stage":"lensed","run":"lensworker-20261013-2246","note":null,"data":{"med":24,"ratio":2.4,"mismatch":[]}}
+{"ts":"2026-10-13T22:49:44Z","pid":"7943204482","stage":"queued","status":"relens","run":"lensworker-20261013-2246","note":"empty Lens read, auto re-queued"}

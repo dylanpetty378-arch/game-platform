@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T22:46:36Z
+# Refurbish status — 2026-10-13T22:50:01Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| queued | 654 |
-| flagged | 504 |
-| lensed | 357 |
-| queued/relens | 311 |
+| queued | 629 |
+| flagged | 519 |
+| lensed | 362 |
+| queued/relens | 316 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 10 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 6999
-- events: 26419
+- lens: 7024
+- events: 26444
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -111,7 +111,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (504)
+## Flagged by Lens, waiting for photo review (519)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -136,6 +136,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00T0T_3EEXsgIVWTE_0CI0t2_300x300.jpg" width="120"> | 7953086615 | $1 | miami | [Sadie's Estate  Collectibles](https://www.craigslist.org/view/d/fort-lauderdale-sadies-estate/fyfZuJ9pURmVrjNwJeDNRj) | Etsy | 60 | 60 |
 | <img src="https://images.craigslist.org/00606_cIBE2OUYkly_07K0ak_300x300.jpg" width="120"> | 7956157238 | $50 | visalia | [Framed Antique Embroidered Silk](https://www.craigslist.org/view/d/carmel-framed-antique-embroidered-silk/na8kqQPYJiiFMSLJGSgKCo) | Mutual Art | 2750 | 55 |
 | <img src="https://images.craigslist.org/01717_iQTiwcDinkX_0hq0CI_300x300.jpg" width="120"> | 7953841330 | $1 | pullman | [Assorted Hat Collection](https://www.craigslist.org/view/d/pullman-assorted-hat-collection/714r3ZpAy9xeYjFdzY7BNm) | Vtg Hats Lot 20 Mix Baseball Sports Resale Wholesale Golf .. | 47 | 47 |
+| <img src="https://images.craigslist.org/00303_7JVTdytXvwp_0mg0t2_300x300.jpg" width="120"> | 7944455092 | $3 | wichita | [Jewelry Sets](https://www.craigslist.org/view/d/derby-jewelry-sets/qvMB6yT8xXqL4ZsL6qHNPx) | Brighton "FONTAINE" Spin Necklace-Earring-Bracelet Set (MSR  | 140 | 46.67 |
 | <img src="https://images.craigslist.org/01414_71zzhNZxyv4_0CI0t2_300x300.jpg" width="120"> | 7955749999 | $15 | houston | [MOST UNIQUE!!Vintage Nude Girl Lamp-Works Fine](https://www.craigslist.org/view/d/houston-most-uniquevintage-nude-girl/7o7Mmd8QnFU1EXjLq6gX8W) | Craigslist | 646 | 43.07 |
 | <img src="https://images.craigslist.org/01313_2wmLInBXg5F_0Mo12w_300x300.jpg" width="120"> | 7932842500 | $15 | fresno | [Unique Vintage Handmade 2 Handle Jug Pottery Cante](https://www.craigslist.org/view/d/fresno-unique-vintage-handmade-handle/rsoyvk4E7Uhg1xFUzh8wCv) | Handles & Suspension: Two small ceramic loop handles (lugs)  | 643 | 42.87 |
 | <img src="https://images.craigslist.org/00E0E_hEPVNdvDFfH_0j10nY_300x300.jpg" width="120"> | 7949107390 | $20 | oklahomacity | [Vintage Metal Christmas Tree Stand](https://www.craigslist.org/view/d/piedmont-vintage-metal-christmas-tree/kaWwEJWngrrETo6vwNPXwR) | VTG Metal Live Christmas Tree Stand Water Reservoir White 27 | 850 | 42.5 |
@@ -216,6 +217,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01313_cNS78cejvzm_0iA0dW_300x300.jpg" width="120"> | 7942627095 | $35 | cincinnati | [Vintage "FAT" lamp](https://www.craigslist.org/view/d/grove-city-vintage-fat-lamp/db4R84iEJmHorhzwjiZs57) | www.casavictoriala.com | 250 | 7.14 |
 | <img src="https://images.craigslist.org/00Y0Y_47qHYTgticg_0CI0t2_300x300.jpg" width="120"> | 7928807810 | $30 | fresno | [Sterling Silver Opal Ring .925 Silver](https://www.craigslist.org/view/d/fresno-sterling-silver-opal-ring-925/fxmTz7Uy842u7MqHnSu4Yy) | Classic White CZ White Lab Opal Ring New .925 Sterling ... | 211 | 7.03 |
 | <img src="https://images.craigslist.org/01616_50zp6RzwvjVz_07K0ak_300x300.jpg" width="120"> | 7956750947 | $20 | charlotte | [Vintage flat bottom cast iron bean pot or cauldron](https://www.craigslist.org/view/d/misenheimer-vintage-flat-bottom-cast/8ACCTsJcAALk9y54KTZARC) | Antique HF Co. 3 Leg Kettle Cast Iron No. 8 3 Footed Kettle  | 140 | 7 |
+| <img src="https://images.craigslist.org/00T0T_c9kWNBwgvSv_0ak07K_300x300.jpg" width="120"> | 7981257762 | $50 | newyork | [Framed Oil Painting artist unknown](https://www.craigslist.org/view/d/new-york-framed-oil-painting-artist/m9KsZZexNk5fgHTmbovZSB) | eBay | 349 | 6.98 |
 | <img src="https://images.craigslist.org/00d0d_hEljhxjZPDB_0t20CI_300x300.jpg" width="120"> | 7936792585 | $20 | houston | [Half Dollar Wrist Watch](https://www.craigslist.org/view/d/houston-half-dollar-wrist-watch/2myQNr8T8Kt1u6gUt8GuHe) | Working American Historic Time Piece Half Dollar Wristwatch  | 139 | 6.95 |
 | <img src="https://images.craigslist.org/00F0F_80jyjRSS53x_0Cz0t2_300x300.jpg" width="120"> | 7951354578 | $50 | iowacity | [Vintage Skil belt sander](https://www.craigslist.org/view/d/janesville-vintage-skil-belt-sander/e1X4uuxKAVeDsZyp5Gjq8w) | Vintage Model 448 Skil Locomotive Belt Sander Made In USA | 345 | 6.9 |
 | <img src="https://images.craigslist.org/00404_kKsO5qLqjUt_07Y0t2_300x300.jpg" width="120"> | 7947529818 | $40 | washingtondc | [Household Spoon Silver Plate Vintage](https://www.craigslist.org/view/d/arlington-household-spoon-silver-plate/4g6mLeXazXLdmwv2vWmu1T) | Handle: Plain, straight stem tapering slightly toward a roun | 275 | 6.88 |
@@ -235,5 +237,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00h0h_8Xy0tAuREtq_0t20CI_300x300.jpg" width="120"> | 7949598321 | $35 | wichita | [Sterling Ring](https://www.craigslist.org/view/d/wichita-sterling-ring/oaYzxET1bpQ5TPMcGbTCpY) | Style: Southwest / Native American (Navajo) | 214 | 6.11 |
 | <img src="https://images.craigslist.org/00K0K_9sKOK4H1m3x_0t20CI_300x300.jpg" width="120"> | 7934915578 | $20 | fresno | [Replica Antique Mexican Pesos](https://www.craigslist.org/view/d/fresno-replica-antique-mexican-pesos/emwMk2wRDLm5qbrtvLS3Km) | 1882 Republica Mexicana Libertad 8R.Z.1882.J.S.10D.20G ... | 120 | 6 |
 | <img src="https://images.craigslist.org/00g0g_8d9HNDZQvif_0uN0n6_300x300.jpg" width="120"> | 7948035931 | $20 | chicago | [Burgundy Necklace w/Matching Earings And Bracelet](https://www.craigslist.org/view/d/des-plaines-burgundy-necklace-matching/t3EqFzqNAV4eFf3KwXtWKw) | set of Contract bracelet earring Ring Embroidered handmade . | 120 | 6 |
-| <img src="https://images.craigslist.org/00b0b_b5bIEPJuRNm_07K0ak_300x300.jpg" width="120"> | 7963180689 | $10 | milwaukee | [Roy Rogers + Andy Devine vintage signed cowboy dis](https://www.craigslist.org/view/d/greendale-roy-rogers-andy-devine/fg77cVVqf29ufRUudUVXR1) | 8”x10” photo - still, Roy Rogers #226, Andy Devine / eBay | 60 | 6 |
-| <img src="https://images.craigslist.org/00z0z_6pawAwfkNT3_0t20CI_300x300.jpg" width="120"> | 7945033825 | $30 | allentown | [Cross pendant 14 kt solid gold](https://www.craigslist.org/view/d/bethlehem-cross-pendant-14-kt-solid-gold/o68tmhv5jaCekWmwt2hap9) | eBay | 179 | 5.97 |

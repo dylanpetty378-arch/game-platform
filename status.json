@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:46:36Z",
+ "updated": "2026-10-13T22:50:01Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 6999,
-  "events": 26419,
+  "lens": 7024,
+  "events": 26444,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 357,
+  "lensed": 362,
   "comps/pass": 1,
-  "queued/relens": 311,
+  "queued/relens": 316,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 504,
+  "flagged": 519,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 654
+  "queued": 629
  },
  "last_harvests": [
   {
@@ -599,6 +599,17 @@
    "best": "Vtg Hats Lot 20 Mix Baseball Sports Resale Wholesale Golf ...",
    "med": 47,
    "ratio": 47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944455092",
+   "title": "Jewelry Sets",
+   "price": 3,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/derby-jewelry-sets/qvMB6yT8xXqL4ZsL6qHNPx",
+   "best": "Brighton \"FONTAINE\" Spin Necklace-Earring-Bracelet Set (MSR ...",
+   "med": 140,
+   "ratio": 46.67,
    "ai_value": ""
   },
   {
@@ -1482,6 +1493,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981257762",
+   "title": "Framed Oil Painting artist unknown",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-framed-oil-painting-artist/m9KsZZexNk5fgHTmbovZSB",
+   "best": "eBay",
+   "med": 349,
+   "ratio": 6.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7936792585",
    "title": "Half Dollar Wrist Watch",
    "price": 20,
@@ -1994,6 +2016,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/carson-gorgeous-vintage-dishes/faAfCt9skNUdgWCQkMBdjt",
    "best": "Weimar Germany Porcelain Serving Dish Tray Antique Pink ...",
+   "med": 49,
+   "ratio": 4.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947124187",
+   "title": "Vintage Stainless Pakistan pocket knife",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-stainless-pakistan/te55VRL59KJBypLQNt1BHh",
+   "best": "eBay",
    "med": 49,
    "ratio": 4.9,
    "ai_value": ""
@@ -3028,6 +3061,17 @@
    "area": "charleston",
    "url": "https://www.craigslist.org/view/d/summerville-vintage-pflueger-ohio-1978/jxpeTKNE7zk48AWJg4PPKt",
    "best": "eBay",
+   "med": 69,
+   "ratio": 2.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957634660",
+   "title": "Bohemian Style Vintage Serling Silver and Turquoise Necklace pendant & chain",
+   "price": 25,
+   "area": "easternshore",
+   "url": "https://www.craigslist.org/view/d/ocean-city-bohemian-style-vintage/k9Auqodk4SJZS4AioB57zd",
+   "best": "Craigslist",
    "med": 69,
    "ratio": 2.76,
    "ai_value": ""
@@ -4155,6 +4199,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940725703",
+   "title": "Vintage Star Wars figure lot. Kenner",
+   "price": 200,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-vintage-star-wars-figure-lot/hBydHwzV7VsduikYrkuPMH",
+   "best": "Action Figures: Approximately 27 vintage figures laid out above the case, including characters like Luke Skywa",
+   "med": 323,
+   "ratio": 1.61,
+   "ai_value": ""
+  },
+  {
    "pid": "7977590217",
    "title": "Classical guitar- vintage El Degas",
    "price": 125,
@@ -4185,6 +4240,17 @@
    "best": "Handmade Sterling Silver Pietersite Pendant Necklace ...",
    "med": 55,
    "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947846952",
+   "title": "14k Jesus pendant +chain.",
+   "price": 420,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/punta-gorda-14k-jesus-pendant-chain/dtaGk23yu2c1nRsnYay2aM",
+   "best": "Subject: A Catholic patron saint medal depicting Saint Jude holding a staff and wearing a halo, with a sunburs",
+   "med": 650,
+   "ratio": 1.55,
    "ai_value": ""
   },
   {
@@ -4584,6 +4650,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954660058",
+   "title": "Vintage Brooch with matching earrings",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-brooch-with-matching/2zNZMApLMTaa3AS9QDkwQx",
+   "best": "Ruby Lane",
+   "med": 60,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7952328403",
    "title": "Picture-Boy Going Fishing",
    "price": 17,
@@ -4615,6 +4692,17 @@
    "med": 140,
    "ratio": 1.17,
    "ai_value": "Value: Typically valued around $95\u2013$1"
+  },
+  {
+   "pid": "7949174292",
+   "title": "Sterling Silver earrings from Peru",
+   "price": 30,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-sterling-silver-earrings-from/kCYAe2WPiTEUmfAjmtuWF9",
+   "best": "Origin/Style: Often associated with handcrafted South American (such as Peruvian silverwork) or tribal/gypsy-i",
+   "med": 35,
+   "ratio": 1.17,
+   "ai_value": ""
   },
   {
    "pid": "7954297435",
@@ -4870,6 +4958,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954309986",
+   "title": "Sterling Silver American Indian Handcrafted Turquoise Earring's",
+   "price": 77,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-sterling-silver-american/iKjJFwvQHV9kJLwZ7GYwkh",
+   "best": "Alltribes",
+   "med": 75,
+   "ratio": 0.97,
+   "ai_value": "Value / Price: Similar artisan-crafted or vintage pairs typically range from $28"
+  },
+  {
    "pid": "7982745453",
    "title": "Vintage 1930s-40s Rhinestone Earrings and Pins. Starting at.....",
    "price": 25,
@@ -5024,6 +5123,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967331540",
+   "title": "14K Gold Necklace with Beautiful Christian Cross",
+   "price": 195,
+   "area": "mobile",
+   "url": "https://www.craigslist.org/view/d/crestview-14k-gold-necklace-with/7TrVRXManjXAAwKRBXB2qc",
+   "best": "Craigslist",
+   "med": 158,
+   "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7951650700",
    "title": "Creamer Sugar Vintage Set",
    "price": 25,
@@ -5090,6 +5200,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946702319",
+   "title": "Mens Watch Collection",
+   "price": 20,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/urbandale-mens-watch-collection/gBixEqB92JxcK1eUzsiY2s",
+   "best": "eBay",
+   "med": 16,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7949601267",
    "title": "Vintage Enesco \u201cPrecious Moments\u201d Special Figurines",
    "price": 19,
@@ -5152,6 +5273,17 @@
    "url": "https://www.craigslist.org/view/d/elkhorn-vintage-1990-little-frosty/thuSqapTdkaD1uZXUj7YLY",
    "best": "Hallmark Ornament Set of 4 Little Frosty Friends Memory w ...",
    "med": 15,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937961473",
+   "title": "Antique 3 kids statute",
+   "price": 40,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-antique-kids-statute/jwngHrfN6am9bytuw3CxPF",
+   "best": "Vintage 1957 Goebel/Hummel-BYJ 18 \"The Stolen Kiss\" Redhead ...",
+   "med": 30,
    "ratio": 0.75,
    "ai_value": ""
   },
@@ -5299,6 +5431,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930759782",
+   "title": "Brand new men's black pocket watch",
+   "price": 50,
+   "area": "westmd",
+   "url": "https://www.craigslist.org/view/d/frostburg-brand-new-mens-black-pocket/9VedpGeUePjqph25kZE43T",
+   "best": "Case and Dial: Black finish with white/silver Roman numeral markers and a small red ring on the inner dial",
+   "med": 31,
+   "ratio": 0.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7981564062",
    "title": "Emil Schmeckenbecher Ship Clock",
    "price": 100,
@@ -5329,6 +5472,17 @@
    "best": "David's Bridal",
    "med": 45,
    "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949667772",
+   "title": "Memorial pocket watch honoring president Abraham Lincoln",
+   "price": 125,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bradley-memorial-pocket-watch-honoring/j8cgfm66oS4DcfX82hQX4P",
+   "best": "Subject: A wind-up (mechanical) commemorative pocket watch honoring U.S. President Abraham Lincoln.",
+   "med": 71,
+   "ratio": 0.57,
    "ai_value": ""
   },
   {
@@ -5932,6 +6086,17 @@
    "area": "seattle",
    "url": "https://www.craigslist.org/view/d/everett-brett-varney-creekside-limited/jcq8g3V7pwAc3Pi2gXAQhZ",
    "best": "ORIGINAL Brett Varney, Hand Signed, Numbered, Small Edition ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965207711",
+   "title": "Antique China, Porcelain originals",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-bruno-antique-china-porcelain/wcKtiUTVuC52FrGoQdbneq",
+   "best": "Wedgwood Blue & White FERRARA Pitcher 5\" x 5\" | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
