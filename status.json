@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:34:35Z",
+ "updated": "2026-10-13T13:38:53Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4987,
-  "events": 14922,
+  "lens": 5012,
+  "events": 14947,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 679,
-  "queued": 1253,
+  "lensed": 695,
+  "queued": 1228,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 366,
-  "flagged": 526,
+  "queued/relens": 368,
+  "flagged": 533,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -905,6 +905,17 @@
    "url": "https://www.craigslist.org/view/d/east-northport-vintage-lamp-and-base/xpXy1vf39ysRLvkQVLEapc",
    "best": "Vintage / Antique Hand Painted French Porcelain Lamps-Signed ...",
    "med": 400,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982702022",
+   "title": "4 Necklaces - 1 New / 3 in Excellent Condition - $3 to $6 each",
+   "price": 3,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/mc-farland-necklaces-new-in-excellent/aqtV6cbFtxLAiPn7Coj76W",
+   "best": "Sterling Silver 10k Gold Natural Diamonds Heart Pendant ...",
+   "med": 60,
    "ratio": 20,
    "ai_value": ""
   },
@@ -2196,6 +2207,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982692137",
+   "title": "Pair of Vintage Enamaled Cloisonne Vases 6\u201d",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-pair-of-vintage-enamaled/hdLGRwzG79r5eWXjM32XF1",
+   "best": "ANTIQUE PAIR OF CHINESE H/PAINTED ENAMEL CLOISONNE HUGE ...",
+   "med": 330,
+   "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7938689779",
    "title": "SWAROVSKI -NECKLACE / SAPPHIRE/AQUAMARINE CRYSTALS-VINTAGE",
    "price": 30,
@@ -2523,6 +2545,17 @@
    "best": "1908 Singer 27-4 Sphinx Treadle Sewing Machine INV15110 | eBay",
    "med": 340,
    "ratio": 5.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930045664",
+   "title": "Vintage ox yoke oxen",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/blue-point-vintage-ox-yoke-oxen/aw7YA1dndSTQqfiQf6Wv2q",
+   "best": "Antique Horse Ox Yoke Singletree, Rustic Farmhouse Wall ...",
+   "med": 113,
+   "ratio": 5.65,
    "ai_value": ""
   },
   {
@@ -3307,6 +3340,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937983647",
+   "title": "Antique Japanese Printing Block and Book",
+   "price": 75,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/kamuela-antique-japanese-printing-block/t4kKX8MzyjcP8De1eL58uL",
+   "best": "Antike Drucktafel asiatisch Holz Dachbodenfund Handarbeit ...",
+   "med": 300,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7930536832",
    "title": "Vintage Fire Extinguisher",
    "price": 75,
@@ -3787,6 +3831,17 @@
    "url": "https://www.craigslist.org/view/d/corrales-antique-photo-slide-storage/cAti8xUsKfXJHJqnFSUogy",
    "best": "Vintage 1950s Barnette & Jaffee Slide Storage Case 6 Drawers ...",
    "med": 125,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955702729",
+   "title": "Vintage MCM Red Drip Glaze Ceramic Planters \u2013 Atomic Era Style",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/brentwood-vintage-mcm-red-drip-glaze/nQ7PhTR8eBUgu8RkTX2yVk",
+   "best": "MCM California Original Pottery Red Black And Orange Lava ...",
+   "med": 94,
    "ratio": 3.13,
    "ai_value": ""
   },
@@ -5177,6 +5232,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971903546",
+   "title": "\ud83c\udf3e Antique Farm Implements Lot \ud83c\udf3e",
+   "price": 75,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-antique-farm-implements-lot/3n2WRLF5HWWDxvbuYRhLyD",
+   "best": "Vintage 31 1/2\" Tree, Evener, Hitch Wood Parts Farm - Horse ...",
+   "med": 106,
+   "ratio": 1.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7982088765",
    "title": "Vintage Persons Bicycle Seat",
    "price": 65,
@@ -6085,6 +6151,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/los-angeles-pernell-roberts-original/jJFpYQw39rV49hy96wQvHz",
    "best": "SOLD - Vintage Oil Painting Portrait of Bald Man with Gray ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946251711",
+   "title": "Fish figurine",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-fish-figurine/r2cGoNKYut9jBtoS5vHnvf",
+   "best": "Vintage 3D Carved Ocean Angel Fish Sculpture Statue ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

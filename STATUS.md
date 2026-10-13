@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T13:34:35Z
+# Refurbish status — 2026-10-13T13:38:53Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1253 |
-| lensed | 679 |
-| flagged | 526 |
-| queued/relens | 366 |
+| queued | 1228 |
+| lensed | 695 |
+| flagged | 533 |
+| queued/relens | 368 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 4987
-- events: 14922
+- lens: 5012
+- events: 14947
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (526)
+## Flagged by Lens, waiting for photo review (533)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -148,6 +148,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00s0s_2QhL3PQuRAP_0MM132_300x300.jpg" width="120"> | 7937567101 | $20 | boston | [Vintage Egyptian Black Stone Pharoah's bust statue](https://www.craigslist.org/view/d/west-roxbury-vintage-egyptian-black/3dmXUEgJhkTMbTrJKx9pas) | Vintage Egyptian Black Stone Pharoah's bust statue/ornament  | 423 | 21.15 |
 | <img src="https://images.craigslist.org/00e0e_5Iyea5s9xnrz_0CI0t2_300x300.jpg" width="120"> | 7948495128 | $10 | bloomington | [Vintage 1970's Bed Comforter](https://www.craigslist.org/view/d/lafayette-vintage-1970s-bed-comforter/a7qyJ2o7RYjod847WehzQm) | VINTAGE Ralph Lauren Full Queen Comforter Sophie Brooke Pink | 209 | 20.9 |
 | <img src="https://images.craigslist.org/00404_4RtAo6QRtbPz_0AE0ru_300x300.jpg" width="120"> | 7982680887 | $20 | longisland | [Vintage lamp and  base](https://www.craigslist.org/view/d/east-northport-vintage-lamp-and-base/xpXy1vf39ysRLvkQVLEapc) | Vintage / Antique Hand Painted French Porcelain Lamps-Signed | 400 | 20 |
+| <img src="https://images.craigslist.org/00303_gtUDCYUw3Q4_0o60qO_300x300.jpg" width="120"> | 7982702022 | $3 | madison | [4 Necklaces - 1 New / 3 in Excellent Condition - $](https://www.craigslist.org/view/d/mc-farland-necklaces-new-in-excellent/aqtV6cbFtxLAiPn7Coj76W) | Sterling Silver 10k Gold Natural Diamonds Heart Pendant ... | 60 | 20 |
 | <img src="https://images.craigslist.org/00v0v_aMpNe13dDfp_0CI0t2_300x300.jpg" width="120"> | 7970432775 | $20 | up | [vintage wooden ironing board](https://www.craigslist.org/view/d/green-bay-vintage-wooden-ironing-board/2kXgd54y4PMQaJd2ozCPCY) | Facebook | 399 | 19.95 |
 | <img src="https://images.craigslist.org/00i0i_d8Of5vs0eZ_0ce0fu_300x300.jpg" width="120"> | 7955769621 | $20 | watertown | [CROQUET SET BROOKSTONE VINTAGE](https://www.craigslist.org/view/d/rochester-croquet-set-brookstone-vintage/kUVCj2pn6H7u8bUHemAfkb) | Vintage Brookstone Croquet Set & Wheeled Stand 6 Player With | 395 | 19.75 |
 | <img src="https://images.craigslist.org/00909_cdCgIv5VWD6_0CI0t2_300x300.jpg" width="120"> | 7977088449 | $100 | kpr | [Cool Vintage CD Racks/Display](https://www.craigslist.org/view/d/spokane-cool-vintage-cd-racks-display/ukM4VbvBL9LKfEGiiLU9C6) | Craigslist | 1961 | 19.61 |
@@ -212,4 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01212_jD2gSb16Uon_0t20CI_300x300.jpg" width="120"> | 7953691360 | $10 | washingtondc | [Vintage BARBIE FASHION OUTFIT COLLECTION - Lot 5](https://www.craigslist.org/view/d/springfield-vintage-barbie-fashion/pXM2vn1L6pyqVETUVFyFet) | Midge 1962 Barbie 1958 JAPAN On Foot Brown Bubble Cut Hair . | 95 | 9.5 |
 | <img src="https://images.craigslist.org/00s0s_coWXgViXNDg_0hr0CI_300x300.jpg" width="120"> | 7933993433 | $50 | southjersey | [Vintage Murano Figurine](https://www.craigslist.org/view/d/swedesboro-vintage-murano-figurine/6nQKHGKL4cVrcnPELeh8Fh) | Object type: Hand-blown art glass sculpture, commonly shaped | 475 | 9.5 |
 | <img src="https://images.craigslist.org/01111_eKD6VnOi9un_0CI0t2_300x300.jpg" width="120"> | 7947091276 | $10 | buffalo | [Various Vintage Fisher-Price Toys](https://www.craigslist.org/view/d/rochester-various-vintage-fisher-price/844ozmKizN9q9FwTfHQM4T) | Fisher Price Loving Family Lot Of Dolls & Furnishings / eBay | 91 | 9.1 |
-| <img src="https://images.craigslist.org/00I0I_eOdtn3JC1y4_0je0t2_300x300.jpg" width="120"> | 7973770338 | $25 | cincinnati | [Antique Table Lamp](https://www.craigslist.org/view/d/harrisburg-antique-table-lamp/sJUbNghA7fEuvVV6QUXAmY) | Similar pieces typically sell on platforms like Etsy or Chai | 225 | 9 |
