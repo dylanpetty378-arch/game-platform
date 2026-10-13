@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:30:22Z",
+ "updated": "2026-10-13T23:35:44Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7274,
-  "events": 26695,
+  "lens": 7299,
+  "events": 26720,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 425,
+  "lensed": 429,
   "comps/pass": 1,
-  "queued/relens": 349,
+  "queued/relens": 356,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 673,
+  "flagged": 687,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 379
+  "queued": 354
  },
  "last_harvests": [
   {
@@ -1020,6 +1020,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956251962",
+   "title": "Pair of Stretch Bracelets",
+   "price": 8,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-pair-of-stretch-bracelets/wZE3WAmdeg6jv3tntMckxb",
+   "best": "SUTRA BRACELET SILVER \u2013 Harry Berry New York",
+   "med": 125,
+   "ratio": 15.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7981830597",
    "title": "Vintage Floor Lamp",
    "price": 100,
@@ -1647,6 +1658,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952384136",
+   "title": "Vintage  Lamps",
+   "price": 35,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/pequabuck-vintage-lamps/rEXD7VvkafSEB5oXPnbxqY",
+   "best": "Vintage Green Slag Glass Hanging TULIP Pendant Swag Lamp Fixture",
+   "med": 300,
+   "ratio": 8.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7951926889",
    "title": "Seiko Men's Watch Vintage \"TV\" Style",
    "price": 70,
@@ -2082,6 +2104,17 @@
    "area": "philadelphia",
    "url": "https://www.craigslist.org/view/d/philadelphia-necklace-and-earring-sets/hidEZ34EJPQLtqXgyrhGHZ",
    "best": "Earrings: A pair of rectangular/geometric clip-on earrings featuring matching multi-colored art glass or ename",
+   "med": 65,
+   "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951204686",
+   "title": "Vintage Pottery Candy/Nut Dish",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-pottery-candy-nut/qC6v6yaUQDf18DFNH13Npt",
+   "best": "Feature: Includes a vertical silver-toned metal carrying loop/handle in the center.",
    "med": 65,
    "ratio": 6.5,
    "ai_value": ""
@@ -3638,6 +3671,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981784571",
+   "title": "Vintage African Tribal necklace",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-african-tribal-necklace/91mcjH3MMAh7TbpqNsiswx",
+   "best": "Craigslist",
+   "med": 85,
+   "ratio": 2.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7965406095",
    "title": "Old Antique Butter Church Pottery Vintage Stonewear",
    "price": 55,
@@ -4298,6 +4342,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933263222",
+   "title": "Perfume Bottle w/Top",
+   "price": 40,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-perfume-bottle-top/dDPazq1RFK2e7yUeDTgXFv",
+   "best": "Vintage Italian Floral CAPODIMONTE Powder Jar & Matching ...",
+   "med": 95,
+   "ratio": 2.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7976512434",
    "title": "Vintage Gold Ring Lot",
    "price": 220,
@@ -4525,6 +4580,17 @@
    "url": "https://www.craigslist.org/view/d/carrboro-vintage-molnija-three-graces/eVLn8mYfFtwiQvReaRHmKs",
    "best": "eBay",
    "med": 170,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959207624",
+   "title": "Vintage 35\" MONET Gold Tone Necklace. Great Design!",
+   "price": 40,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-35-monet-gold-tone/56jQc4d7deajKLN3xTNK4c",
+   "best": "Etsy",
+   "med": 85,
    "ratio": 2.13,
    "ai_value": ""
   },
@@ -5321,6 +5387,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940673872",
+   "title": "ACQUA MENS WATCH",
+   "price": 25,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/luke-air-force-base-acqua-mens-watch/p18jp8ZgJ2yHuoHkX7WBm8",
+   "best": "WatchinTyme",
+   "med": 40,
+   "ratio": 1.6,
+   "ai_value": "Value / Price Range: Typically sells around $15 to $65"
+  },
+  {
    "pid": "7982706894",
    "title": "Sterling Silver Native American Charm Bracelet",
    "price": 100,
@@ -5849,6 +5926,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950843878",
+   "title": "Vintage crystal glass ashtray",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-crystal-glass/93He7EPAehyyTfLy2qyLzi",
+   "best": "Similar pieces are often identified as vintage crystal ashtrays or decorative catch-alls/candy dishes (such as",
+   "med": 25,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7957140692",
    "title": "Three Small Vintage Colored Glass Vases",
    "price": 30,
@@ -6153,6 +6241,17 @@
    "url": "https://www.craigslist.org/view/d/fredericksburg-lenox-tinkerbells/kGLniePZXA4FXaW3PNXsDN",
    "best": "Amazon.com: Lenox Tinkerbell's Magical Garden : Home & Kitchen",
    "med": 123,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951164230",
+   "title": "Betty G. Franks Signed Abstract Print",
+   "price": 85,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-betty-franks-signed-abstract/tWjFeagh2aKhEA7Y6ho5k8",
+   "best": "Facebook",
+   "med": 91,
    "ratio": 1.07,
    "ai_value": ""
   },
@@ -6509,6 +6608,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946009559",
+   "title": "Assorted ceramic collectibles",
+   "price": 20,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/milton-assorted-ceramic-collectibles/wgDgUKbE4vhLgQRk1M2DVh",
+   "best": "Craigslist",
+   "med": 18,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7952944902",
    "title": "Native American Indian Katchina's",
    "price": 75,
@@ -6542,6 +6652,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933834207",
+   "title": "MUDD GIRLS CHARM WATCH/BRACELET",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-mudd-girls-charm-watch/6rPVPv7RMyK11BQDHxCN1H",
+   "best": "Disney Snow White Silver Bracelet Watch with Charms Apple ...",
+   "med": 26,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7959143718",
    "title": "Vintage Perseo TCDD Turkish State Railways Pocket Watch \u2013 17 Jewels \u2013 Swiss",
    "price": 350,
@@ -6562,6 +6683,17 @@
    "med": 55,
    "ratio": 0.85,
    "ai_value": ""
+  },
+  {
+   "pid": "7970681733",
+   "title": "vintage Pfluiger quadruple",
+   "price": 100,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/haverhill-vintage-pfluiger-quadruple/tYY2CA8n8FH3DKP4exk56o",
+   "best": "Antique Vintage Pflueger Quadruple Fishing Reel 1912? | eBay",
+   "med": 85,
+   "ratio": 0.85,
+   "ai_value": "Value: Typically ranges from $50 to $100"
   },
   {
    "pid": "7929786078",
@@ -7065,6 +7197,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/lakeville-vintage-federal-style-brass/7EHXZfL9eY4GbUewFuhju8",
    "best": "Era: Most commonly dated from the 1930s through the 1950s (with later mid-to-late 20th-century reproductions).",
+   "med": 38,
+   "ratio": 0.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942835360",
+   "title": "Vintage 6 Piece Ceramic Nativity Set",
+   "price": 75,
+   "area": "palmsprings",
+   "url": "https://www.craigslist.org/view/d/palm-desert-vintage-piece-ceramic/uUoynjaZxtW5w8G6jYKKe4",
+   "best": "Super Cute Size 9 Heels For $20 In Palm Desert, CA | For ...",
    "med": 38,
    "ratio": 0.51,
    "ai_value": ""
@@ -7791,6 +7934,17 @@
    "area": "providence",
    "url": "https://www.craigslist.org/view/d/coventry-harmony/ckXmWVezt88jfioBZJZptg",
    "best": "Harmony acoustic Guitar 1950s 6 string hand made in chicago ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940675210",
+   "title": "TIMEX EXPEDITION MENS WATCH",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/luke-air-force-base-timex-expedition/8yjJUnS2oKrPt7BNWLexTb",
+   "best": "Huntington Company",
    "med": null,
    "ratio": null,
    "ai_value": ""

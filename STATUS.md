@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T23:30:22Z
+# Refurbish status — 2026-10-13T23:35:44Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 673 |
-| lensed | 425 |
-| queued | 379 |
-| queued/relens | 349 |
+| flagged | 687 |
+| lensed | 429 |
+| queued/relens | 356 |
+| queued | 354 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 11 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7274
-- events: 26695
+- lens: 7299
+- events: 26720
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (673)
+## Flagged by Lens, waiting for photo review (687)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -173,6 +173,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00I0I_bvtCMyDGOE1_0730ew_300x300.jpg" width="120"> | 7956414737 | $40 | newyork | [Vintage Flat Link Chain Choker Necklace](https://www.craigslist.org/view/d/brookfield-vintage-flat-link-chain/5sWzo4bta3hJMynDjbUcub) | Fancy Look 18K Gold Necklace Neckline Omega Wedding Wear ... | 675 | 16.88 |
 | <img src="https://images.craigslist.org/00q0q_gOM0IM2Dq6z_0t20t2_300x300.jpg" width="120"> | 7975238325 | $65 | stlouis | [VINTAGE HUDSON SOPRANO UKULELE](https://www.craigslist.org/view/d/florissant-vintage-hudson-soprano/ecZkzNtAiJch5fBWYNj4a2) | KoAloha Super Soprano Long Neck Solid Koa KSM-02 Made in ... | 1095 | 16.85 |
 | <img src="https://images.craigslist.org/00z0z_1yi8DhVe2hE_0pN0t2_300x300.jpg" width="120"> | 7951659226 | $4 | philadelphia | [Vintage Jewelry - Pins/Brooches (Picture #10 )](https://www.craigslist.org/view/d/southampton-vintage-jewelry-pins/6TVkieBp7WpeAAcMp123Ag) | Flowers & Leaves Pearl Vintage Pin Brooch Gold J-405 / eBay | 65 | 16.25 |
+| <img src="https://images.craigslist.org/01414_86Rc1TQBJM9_0CI0hq_300x300.jpg" width="120"> | 7956251962 | $8 | boise | [Pair of Stretch Bracelets](https://www.craigslist.org/view/d/boise-pair-of-stretch-bracelets/wZE3WAmdeg6jv3tntMckxb) | SUTRA BRACELET SILVER – Harry Berry New York | 125 | 15.63 |
 | <img src="https://images.craigslist.org/01111_jTyXc7NfY30_0t20CI_300x300.jpg" width="120"> | 7981830597 | $100 | phoenix | [Vintage Floor Lamp](https://www.craigslist.org/view/d/marana-vintage-floor-lamp/gFGjDj9SKNv5exL8dqxKxg) | Vtg STIFFEL Enamel and Brass Candlestick Lamps with ... | 1550 | 15.5 |
 | <img src="https://images.craigslist.org/00j0j_e1mwnWBMhWP_0CI0t2_300x300.jpg" width="120"> | 7943870857 | $65 | sfbay | [Vintage Stoneware Vase Glidden Pottery USA Round #](https://www.craigslist.org/view/d/oakland-vintage-stoneware-vase-glidden/1HCNFVwn6zswDUrDbu3McC) | Origin: Made in New York, USA by Glidden Pottery (1940s–1950 | 995 | 15.31 |
 | <img src="https://images.craigslist.org/00l0l_ag01Ohk2Guo_0qy0t2_300x300.jpg" width="120"> | 7979595507 | $25 | seattle | [Vintage Southwestern Terracotta Vase Jug](https://www.craigslist.org/view/d/tacoma-vintage-southwestern-terracotta/cNFgMRSLgkdFbYjnfxU6bb) | 1960s Tuscany Italy for Fortunata Three Handled Planter Vase | 378 | 15.12 |
@@ -230,9 +231,8 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00v0v_eMxmhitKyxm_0nN0rN_300x300.jpg" width="120"> | 7935171170 | $25 | orangecounty | [Antique/Vintage Rembrandt Framed Print. Lot 4](https://www.craigslist.org/view/d/lake-forest-antique-vintage-rembrandt/ogFBmhfi1BCfmNUAg4PDp7) | Vintage 1960s Man With the Golden Helmet Rembrandt Print in  | 219 | 8.76 |
 | <img src="https://images.craigslist.org/00Q0Q_35ssGm0ewJM_0t20CI_300x300.jpg" width="120"> | 7959399108 | $20 | albany | [California Pottery](https://www.craigslist.org/view/d/albany-california-pottery/eLj5HFJdaxTBVgDbpjcYHf) | eBay | 175 | 8.75 |
 | <img src="https://images.craigslist.org/01212_6tLCwrcN4A1_0d10q1_300x300.jpg" width="120"> | 7974818586 | $95 | boston | [Sterling baroque freshwater pearl bracelet](https://www.craigslist.org/view/d/natick-sterling-baroque-freshwater/oXZ92XDr4RgGr7JUjJNYDa) | Wide Freshwater Pearl Solid Silver 925 Bracelet, Three ... | 819 | 8.62 |
+| <img src="https://images.craigslist.org/00P0P_eph2UMtTOJm_0CI0t2_300x300.jpg" width="120"> | 7952384136 | $35 | hartford | [Vintage  Lamps](https://www.craigslist.org/view/d/pequabuck-vintage-lamps/rEXD7VvkafSEB5oXPnbxqY) | Vintage Green Slag Glass Hanging TULIP Pendant Swag Lamp Fix | 300 | 8.57 |
 | <img src="https://images.craigslist.org/00p0p_7jh4b9StQ50_07V0t2_300x300.jpg" width="120"> | 7951926889 | $70 | sfbay | [Seiko Men's Watch Vintage "TV" Style](https://www.craigslist.org/view/d/danville-seiko-mens-watch-vintage-tv/7wpRmEyEsyzcD74fpZKoZx) | Seiko Dx / eBay | 599 | 8.56 |
 | <img src="https://images.craigslist.org/00q0q_jDwHqbRtrrc_0t20CI_300x300.jpg" width="120"> | 7982703225 | $35 | nh | [Antique Small Bronze/Brass Incense Burner](https://www.craigslist.org/view/d/epping-antique-small-bronze-brass/aiFSH2UZT5PgT3pbTkqMkC) | Common Use: Traditionally used in Asian Buddhist or ancestra | 299 | 8.54 |
 | <img src="https://images.craigslist.org/01616_1V2vtrOhzfr_0CI0CI_300x300.jpg" width="120"> | 7935533362 | $35 | atlanta | [6 vintage tapestry pillows](https://www.craigslist.org/view/d/acworth-vintage-tapestry-pillows/7SKAXKKci4e1hrccUkXcz7) | French Vintage Jacquard Tapestry Decorative Throw Pillow ... | 292 | 8.34 |
 | <img src="https://images.craigslist.org/00l0l_7NUjny46Y86_0bO0fu_300x300.jpg" width="120"> | 7963650435 | $15 | minneapolis | [Doll Vintage Madame Alexander Doll](https://www.craigslist.org/view/d/minneapolis-doll-vintage-madame/cvZSfcS2yXnL3PWYnNvWQh) | Madame Alexander Kathy Doll / eBay | 125 | 8.33 |
-| <img src="https://images.craigslist.org/00a0a_45S3bxVLW5L_0CI0t2_300x300.jpg" width="120"> | 7979158995 | $20 | oregoncoast | [Vintage Lamp Shades](https://www.craigslist.org/view/d/lebanon-vintage-lamp-shades/wtxZ2qk5A5V3A9rW9DSkaw) | White Opal / Milk Glass Shade (Left): Features a hand-painte | 165 | 8.25 |
-| <img src="https://images.craigslist.org/00L0L_hOMwdNNsUil_0hq0qL_300x300.jpg" width="120"> | 7930652625 | $95 | boston | [Vintage classic Oscar de la Renta wristwatch](https://www.craigslist.org/view/d/natick-vintage-classic-oscar-de-la/v49zChLoeMzKdoKHgfZ5Ni) | Vtg Oscar De La Renta 23mm Watch Gold Tone White Tank Dial . | 779 | 8.2 |
