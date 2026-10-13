@@ -9687,3 +9687,28 @@
 {"ts":"2026-10-13T06:05:50Z","pid":"7956312993","stage":"photo_review","status":"kill","type":"decorator-swords-and-blades","note":"triage: Toledo decorative replica Tizona sword; reproduction.","run":"triage-20261013b"}
 {"ts":"2026-10-13T06:05:50Z","pid":"7952817219","stage":"photo_review","status":"kill","type":"moroccan-decor","note":"triage: Clearance sale of decor (Egyptian plant holder); dealer stock/modern decor.","run":"triage-20261013b"}
 {"ts":"2026-10-13T06:05:50Z","pid":"7939935636","stage":"photo_review","status":"kill","type":"japanese-porcelain-figurines","note":"triage: Made-in-Japan bisque golfer figurines, $20; resale $10-25.","run":"triage-20261013b"}
+{"ts":"2026-10-13T06:04:05Z","pid":"7957274606","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":77,"ratio":0.81}}
+{"ts":"2026-10-13T06:04:13Z","pid":"7970692818","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":69,"ratio":1.15}}
+{"ts":"2026-10-13T06:04:21Z","pid":"7936729729","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":50,"ratio":0.5}}
+{"ts":"2026-10-13T06:04:29Z","pid":"7982578671","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":100,"ratio":1}}
+{"ts":"2026-10-13T06:04:38Z","pid":"7954591516","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":30,"ratio":0.4}}
+{"ts":"2026-10-13T06:04:47Z","pid":"7947228983","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":71,"ratio":2.84}}
+{"ts":"2026-10-13T06:04:57Z","pid":"7960945422","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":34,"ratio":1.36}}
+{"ts":"2026-10-13T06:05:08Z","pid":"7929613530","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":42,"ratio":1.05}}
+{"ts":"2026-10-13T06:05:18Z","pid":"7946595000","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":65,"ratio":1.08}}
+{"ts":"2026-10-13T06:05:25Z","pid":"7939474101","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":170,"ratio":8.5}}
+{"ts":"2026-10-13T06:05:33Z","pid":"7955296959","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":84,"ratio":1.29}}
+{"ts":"2026-10-13T06:05:43Z","pid":"7947910220","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":780,"ratio":5.2}}
+{"ts":"2026-10-13T06:05:54Z","pid":"7969502328","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":100,"ratio":5}}
+{"ts":"2026-10-13T06:06:03Z","pid":"7958248556","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":336,"ratio":4.48}}
+{"ts":"2026-10-13T06:06:10Z","pid":"7951212926","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":928,"ratio":9.77}}
+{"ts":"2026-10-13T06:06:21Z","pid":"7944150928","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":18000,"ratio":1800}}
+{"ts":"2026-10-13T06:06:30Z","pid":"7982633811","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":32.39,"ratio":1.08}}
+{"ts":"2026-10-13T06:06:40Z","pid":"7938667900","stage":"flagged","run":"lensworker-20261013-0600","data":{"med":126,"ratio":1.68}}
+{"ts":"2026-10-13T06:06:49Z","pid":"7954888312","stage":"lensed","run":"lensworker-20261013-0600","data":{"med":28,"ratio":0.8}}
+{"ts":"2026-10-13T06:07:01Z","pid":"7949981091","stage":"lensed","run":"lensworker-20261013-0605","data":{"med":70,"ratio":0.79}}
+{"ts":"2026-10-13T06:07:09Z","pid":"7936432816","stage":"flagged","run":"lensworker-20261013-0605","data":{"med":141,"ratio":2.35}}
+{"ts":"2026-10-13T06:07:17Z","pid":"7951682934","stage":"lensed","run":"lensworker-20261013-0605","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T06:07:24Z","pid":"7982601309","stage":"lensed","run":"lensworker-20261013-0605","data":{"med":21,"ratio":2.1}}
+{"ts":"2026-10-13T06:07:31Z","pid":"7945305454","stage":"flagged","run":"lensworker-20261013-0605","data":{"med":85,"ratio":0.85}}
+{"ts":"2026-10-13T06:07:39Z","pid":"7947241340","stage":"lensed","run":"lensworker-20261013-0605","data":{"med":14,"ratio":0.56}}
