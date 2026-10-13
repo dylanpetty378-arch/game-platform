@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:11:48Z",
+ "updated": "2026-10-13T09:15:21Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3329,
-  "events": 11115,
+  "lens": 3354,
+  "events": 11140,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 524,
-  "queued": 2111,
+  "lensed": 540,
+  "queued": 2086,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 341,
-  "flagged": 393,
+  "flagged": 402,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -401,6 +401,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955563122",
+   "title": "Vintage decanter set",
+   "price": 20,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/wallace-vintage-decanter-set/63uDJRqqTXags4u8cAQ5LR",
+   "best": "Mullens Laurel Park",
+   "med": 985,
+   "ratio": 49.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7948690460",
    "title": "Decorative vintage jar with lid",
    "price": 10,
@@ -464,6 +475,17 @@
    "best": "Blockhead Jim Gray Complete Skateboard Vision Big Wheels ...",
    "med": 300,
    "ratio": 30,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944537664",
+   "title": "Antique Wicker Planter",
+   "price": 60,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/saratoga-springs-antique-wicker-planter/f9m4tQLSuQc3gnEUkAciM4",
+   "best": "86 Vintage",
+   "med": 1650,
+   "ratio": 27.5,
    "ai_value": ""
   },
   {
@@ -574,6 +596,17 @@
    "best": "Howard Miller 1970s Graham Bracket Key Wound Mantel Clock ...",
    "med": 890,
    "ratio": 22.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972596069",
+   "title": "Picnic Basket Vintage",
+   "price": 25,
+   "area": "utica",
+   "url": "https://www.craigslist.org/view/d/rochester-picnic-basket-vintage/ku9beD6PLKaY9pWogKpVH9",
+   "best": "Craigslist",
+   "med": 550,
+   "ratio": 22,
    "ai_value": ""
   },
   {
@@ -973,6 +1006,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930372449",
+   "title": "FLY FISHING BASKET VINTAGE",
+   "price": 35,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/austin-fly-fishing-basket-vintage/sMmKGoMMDi4bTeMkYQEjaZ",
+   "best": "Sold at Auction: A vintage wicker fishing creel with leather ...",
+   "med": 418,
+   "ratio": 11.94,
+   "ai_value": "Value / Range: Typically sells between $40 to $225"
+  },
+  {
    "pid": "7982285994",
    "title": "Vintage Water Skis",
    "price": 20,
@@ -1278,6 +1322,17 @@
    "best": "Etsy",
    "med": 80,
    "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981243887",
+   "title": "Vintage Eagle Rider Cruiser",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/north-hollywood-vintage-eagle-rider/dVjD54iZNnL59DufweTtC2",
+   "best": "Craigslist",
+   "med": 399,
+   "ratio": 7.98,
    "ai_value": ""
   },
   {
@@ -2260,6 +2315,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973733756",
+   "title": "Vintage Monet statement necklace",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-monet-statement-necklace/embFeEZuFrU33NsgbewKoa",
+   "best": "Vintage Belladonna Canada Colorful Blue Floral Swarovski ...",
+   "med": 148,
+   "ratio": 4.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7951800239",
    "title": "Vintage Safetran Railroad Crossing Signal",
    "price": 79,
@@ -3159,6 +3225,17 @@
    "best": "Amsco 1950s Tin Litho Toy Folding Easel With Chalkboard. For ...",
    "med": 95,
    "ratio": 2.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956634499",
+   "title": "Vintage Wooden Bread Box",
+   "price": 50,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-wooden-bread-box/moxZ1yKzpaemYduQqgW9kX",
+   "best": "Vintage Wood Bread Box - Etsy",
+   "med": 135,
+   "ratio": 2.7,
    "ai_value": ""
   },
   {
@@ -4240,6 +4317,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974187056",
+   "title": "Vintage Capodimonte bowl",
+   "price": 75,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-capodimonte-bowl/6fUfNrL1vT6r8ucrHai16A",
+   "best": "Antique Capodimonte Italian Oval Pink Flowers Brown ...",
+   "med": 60,
+   "ratio": 0.8,
+   "ai_value": "Value: Typically ranges from $75 to $250"
+  },
+  {
    "pid": "7954223084",
    "title": "Concertina accordion..vintage",
    "price": 125,
@@ -4356,6 +4444,17 @@
    "area": "phoenix",
    "url": "https://www.craigslist.org/view/d/phoenix-vintage-guitar-tube-amplifier/7gP5vYrPUPK7b2L11AAdCC",
    "best": "Front Panel: Rotary control knobs, a central power switch or dial, and input/output jacks on either end.",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973817117",
+   "title": "vintage english fishing gaff",
+   "price": 80,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-english-fishing-gaff/o6r75229oM7ELuyPefc6VF",
+   "best": "Fishing Gaff - Vintage Equipment for sale | eBay UK",
    "med": null,
    "ratio": null,
    "ai_value": ""
