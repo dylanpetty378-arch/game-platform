@@ -154,3 +154,6 @@
 {"type":"straight-razors","query":"vintage straight razor lot","source":"terapeak-365d","n":50,"median":40,"prices":[],"note":"p25 22.5 p75 72; lots of 3–6 often $10–20","run":"leadcheck-20261013","ts":"2026-10-13T05:01:59Z"}
 {"type":"straight-razors","query":"heartring straight razor","source":"terapeak-365d","n":5,"median":30,"prices":[],"note":"$25–45 singles (some restored)","run":"leadcheck-20261013","ts":"2026-10-13T05:01:59Z"}
 {"type":"hummel-figurines","query":"hummel full bee lot","source":"terapeak-365d","n":18,"median":29,"prices":[],"note":"p25 18 p75 54","run":"leadcheck-20261013","ts":"2026-10-13T05:01:59Z"}
+{"type":"pocket-transits","query":"ainsworth brunton pocket transit","source":"terapeak-365d","n":50,"median":99,"prices":[],"note":"p25 60 p75 129","run":"leadcheck-20261013","ts":"2026-10-13T05:16:04Z"}
+{"type":"pocket-transits","query":"brunton pocket transit aluminum leather case","source":"terapeak-365d","n":33,"median":150,"prices":[],"note":"p25 81 p75 190; includes replicas ~$30–38","run":"leadcheck-20261013","ts":"2026-10-13T05:16:04Z"}
+{"type":"safety-razors","query":"gillette old type gold razor case","source":"terapeak-365d","n":12,"median":40,"prices":[],"note":"p25 30 p75 44","run":"leadcheck-20261013","ts":"2026-10-13T05:16:04Z"}
