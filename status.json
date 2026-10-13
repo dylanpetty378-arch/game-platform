@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T07:18:58Z",
+ "updated": "2026-10-13T07:22:26Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2629,
-  "events": 10414,
+  "lens": 2654,
+  "events": 10439,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2811,
+  "queued": 2786,
   "comps/pass": 1,
   "decided/ask": 28,
-  "queued/relens": 318,
+  "queued/relens": 325,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 131,
-  "flagged": 110
+  "lensed": 144,
+  "flagged": 115
  },
  "last_harvests": [
   {
@@ -312,6 +312,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953920719",
+   "title": "Blue antique rose lamps",
+   "price": 20,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/san-juan-bautista-blue-antique-rose/h3rdkk3aNZ3JyHvx2DJVUx",
+   "best": "Fenton Blue Lamp | eBay",
+   "med": 1475,
+   "ratio": 73.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7953802005",
    "title": "Assorted Vintage China Serving Pieces",
    "price": 1,
@@ -353,6 +364,17 @@
    "best": "19th century large ornate Carved Gilt wood Frame - c1860s ...",
    "med": 580,
    "ratio": 38.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939872815",
+   "title": "Antique Treasures",
+   "price": 24,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-antique-treasures/kFx5Jat3K77pmfLHAheD1k",
+   "best": "Antique, Art Deco, Ribbed, Frosted Glass, Floral, Vanity Jars ...",
+   "med": 895,
+   "ratio": 37.29,
    "ai_value": ""
   },
   {
@@ -1159,6 +1181,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982603034",
+   "title": "VINTAGE METAL DOLLHOUSE",
+   "price": 75,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/exeter-vintage-metal-dollhouse/3XZpvoB36iBjMs6vAr2gi3",
+   "best": "Marxie Mansion Tin Litho Dollhouse With Vallances by ... - Etsy",
+   "med": 145,
+   "ratio": 1.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7941258286",
    "title": "Beautiful Vintage 16\" Cultured Pearl Necklace w/ Sterling Silver Clasp",
    "price": 75,
@@ -1357,6 +1390,17 @@
    "ai_value": "sell on secondary marketplaces like eBay or Craigslist for roughly $30 to $135,"
   },
   {
+   "pid": "7950158884",
+   "title": "LARGE ARTIST-SIGNED DAVID PIER STUDIO ARTS & CRAFTS GREEN POTTERY BOWL",
+   "price": 200,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-large-artist-signed-david/okqQkQEKgkKUDF4PMFZaBe",
+   "best": "Ripley Auctions",
+   "med": 192,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7931689297",
    "title": "vintage Schiaparelli hat",
    "price": 100,
@@ -1440,6 +1484,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-esther-hunt-print/piRS78VC442H1zQb2GqLdB",
    "best": "Subject: A young woman or child in an ornate orange/red patterned Chinese robe holding a small vessel or bowl,",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943158429",
+   "title": "Vintage wine Chianti bottle 32in. tall",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/valley-village-vintage-wine-chianti/ww4BDfDX7E6vwyW7h1aMvG",
+   "best": "Etsy",
    "med": null,
    "ratio": null,
    "ai_value": ""
