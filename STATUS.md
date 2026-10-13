@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T14:29:18Z
+# Refurbish status — 2026-10-13T14:33:03Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 903 |
-| lensed | 884 |
-| flagged | 621 |
-| queued/relens | 416 |
+| lensed | 896 |
+| queued | 878 |
+| flagged | 633 |
+| queued/relens | 417 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 5337
-- events: 15272
+- lens: 5362
+- events: 15297
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (621)
+## Flagged by Lens, waiting for photo review (633)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -121,6 +121,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00o0o_1obFBv24OYw_0t20CI_300x300.jpg" width="120"> | 7953648442 | $20 | memphis | [Antique Sheet Music](https://www.craigslist.org/view/d/millington-antique-sheet-music/9ztezSaoT8NMd4VAGow8kP) | Rare The Beatles YELLOW SUBMARINE original sheet music ... | 898 | 44.9 |
 | <img src="https://images.craigslist.org/00x0x_hM1gCxz6JiY_09G07g_300x300.jpg" width="120"> | 7956132433 | $25 | boston | [Two Hutschenreuther Hohenberg Plates](https://www.craigslist.org/view/d/medford-two-hutschenreuther-hohenberg/qGMxfzMdNVKJNLYfZqBrzc) | Accents / Hutschenreuther Mohenberg Germany Porcelain Cobalt | 1113 | 44.52 |
 | <img src="https://images.craigslist.org/00000_1XNkD0kSQJO_0t20CI_300x300.jpg" width="120"> | 7975348986 | $80 | southjersey | [Silverplate Flatware set](https://www.craigslist.org/view/d/swedesboro-silverplate-flatware-set/st6CWwzFq87Xj8PYVytZut) | 1881 Rogers Oneida Vintage Silver Plate 1967 Baroque Rose .. | 3495 | 43.69 |
+| <img src="https://images.craigslist.org/00f0f_jlY8vCSRD9E_0t20CI_300x300.jpg" width="120"> | 7964768610 | $35 | humboldt | [Vintage Glider For Sale](https://www.craigslist.org/view/d/eureka-vintage-glider-for-sale/kNV392H37AcckMayNbTk1N) | Glider Rocker Chairs for sale in Hitchcock, Texas / Facebook | 1500 | 42.86 |
 | <img src="https://images.craigslist.org/01313_bXzIHEUx46l_0wg03m_300x300.jpg" width="120"> | 7947925261 | $25 | athensohio | [Vintage gold tone 3 Inch of Gold Bracelet WHITE di](https://www.craigslist.org/view/d/logan-vintage-gold-tone-inch-of-gold/4UsrxPzajUkokxB2FyXbHM) | Vintage Delicate Gold Tone Chain & Crystal Accented Tennis . | 1050 | 42 |
 | <img src="https://images.craigslist.org/00H0H_jTX1t64VwnA_0lN0CI_300x300.jpg" width="120"> | 7975791501 | $50 | bemidji | [Antique with secret compartment](https://www.craigslist.org/view/d/duluth-antique-with-secret-compartment/wdwSh7KxNqY3VYSE495cHi) | Vintage Music Box Wood Table Inlaid Marquetry Side Table ... | 1871 | 37.42 |
 | <img src="https://images.craigslist.org/01616_12wB7RKiPJ4_0lM0t2_300x300.jpg" width="120"> | 7973737395 | $25 | maine | [Antique Barometer](https://www.craigslist.org/view/d/strafford-antique-barometer/rV9Vp5veuTNqrVA7URTxVE) | Sold at Auction: ENGLISH EDWARDIAN CARVED OAK WALL-MOUNTED . | 877 | 35.08 |
@@ -143,6 +144,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00S0S_cuZZ8OUZZQI_0ey0br_300x300.jpg" width="120"> | 7941139818 | $10 | chambana | [Decorative Vintage decoupage box](https://www.craigslist.org/view/d/decorative-vintage-decoupage-box/oSHtcQgZVihe4xMAqdPko9) | Value / Market: Commonly sold as a collectible or vintage de | 275 | 27.5 |
 | <img src="https://images.craigslist.org/00u0u_jeN9coNO3W1_0CI0t2_300x300.jpg" width="120"> | 7951922051 | $50 | boston | [VINTAGE COLUMBIA RAMBLER CRUISER](https://www.craigslist.org/view/d/marblehead-vintage-columbia-rambler/pU2143ZbzP7szjp52GvdCW) | Restoration tips | 1350 | 27 |
 | <img src="https://images.craigslist.org/00g0g_82C7ygSPbQn_0g80c6_300x300.jpg" width="120"> | 7932007022 | $10 | chicago | [Vintage Crystal Vase, France](https://www.craigslist.org/view/d/shorewood-vintage-crystal-vase-france/en7yn8PVU18ykHsJYCya19) | Vtg Strombergshyttan SWEDEN lARGE 10" Art Glass Vase iCE ... | 264 | 26.4 |
+| <img src="https://images.craigslist.org/00w0w_cMKSt40iF3X_0CI0fB_300x300.jpg" width="120"> | 7959024981 | $40 | oregoncoast | [VINTAGE BOOMBOX WORKING](https://www.craigslist.org/view/d/lebanon-vintage-boombox-working/8RzDaptjsGobCXfXP5uVUw) | JVC PC-V66 Portable Component System Boombox Radio Cassette  | 1052 | 26.3 |
 | <img src="https://images.craigslist.org/00X0X_4vNN7H2Rdip_0CI0lM_300x300.jpg" width="120"> | 7973412108 | $20 | duluth | [VINTAGE ELECTRIC MOTOR](https://www.craigslist.org/view/d/walker-vintage-electric-motor/7fZsUmYHXZen7DXsRG7uE9) | Motor: A smooth-running vintage electric/induction motor (su | 522 | 26.1 |
 | <img src="https://images.craigslist.org/01212_3ZuI5r2s7Wm_0t20CI_300x300.jpg" width="120"> | 7950949878 | $10 | boston | [Large painted clay Boston bean type pot](https://www.craigslist.org/view/d/roslindale-large-painted-clay-boston/2SAEGY9qQvwpPeTSMFVdSz) | Antique French Stoneware Confit Pot — Glazed Brown ... | 250 | 25 |
 | <img src="https://images.craigslist.org/00x0x_diOGXTyavGH_0t20CI_300x300.jpg" width="120"> | 7955169494 | $25 | scottsbluff | [Virtual Garage Sale-Misc Decorations](https://www.craigslist.org/view/d/timnath-virtual-garage-sale-misc/9xofnoVQ2WVWuGAq2r1JSr) | Charming Armillary Sundial For Sale at 1stDibs | 620 | 24.8 |
@@ -211,5 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00y0y_3cENxpHvuUq_03S05a_300x300.jpg" width="120"> | 7978784082 | $10 | boston | [antique cookie Jars](https://www.craigslist.org/view/d/lowell-antique-cookie-jars/fcZyQN63419TTUmNgDQZwZ) | Vintage Cookie Jar 1950s American Bisque "granny Grandma ... | 115 | 11.5 |
 | <img src="https://images.craigslist.org/00d0d_7XDdxFDH3pi_0jm0ew_300x300.jpg" width="120"> | 7948318397 | $35 | valdosta | [Antique Egg gathering Basket](https://www.craigslist.org/view/d/summerfield-antique-egg-gathering-basket/pPC2jCt5FcKcGjPg9fiVmt) | Antique Primitive Handmade Wicker Melon Eggs Buttocks ... | 399 | 11.4 |
 | <img src="https://images.craigslist.org/00q0q_4M97PDIYVdu_0t20CI_300x300.jpg" width="120"> | 7976638380 | $15 | newyork | [Old Jewelry box](https://www.craigslist.org/view/d/kew-gardens-old-jewelry-box/vAsBAWkr1aQH5SKx3mgjJZ) | Ting Shaw Kiang Chinese Art Deco Lacquered Wood Box 'The ... | 169 | 11.27 |
-| <img src="https://images.craigslist.org/01717_gF635XsbUHb_0MM132_300x300.jpg" width="120"> | 7977147867 | $15 | portland | [Plumbers lead pot](https://www.craigslist.org/view/d/sheridan-plumbers-lead-pot/w1Df8HYcK57P7Q7AMqDEXW) | Vintage Clayton and Lambert plumbers furnace smelting stove  | 168 | 11.2 |
-| <img src="https://images.craigslist.org/00b0b_bN4UahmyTEd_0t20CI_300x300.jpg" width="120"> | 7941714611 | $25 | tulsa | [Vintage Loudspeaker](https://www.craigslist.org/view/d/wichita-vintage-loudspeaker/qsWLeXNEHhVrR8jCzq27Ew) | PUBLIC ADDRESS OR ALARM SPEAKER, COMMTRON, 8 OHM, 25 WATT .. | 279 | 11.16 |

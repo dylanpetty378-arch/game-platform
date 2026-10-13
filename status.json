@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:29:18Z",
+ "updated": "2026-10-13T14:33:03Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5337,
-  "events": 15272,
+  "lens": 5362,
+  "events": 15297,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 884,
-  "queued": 903,
+  "lensed": 896,
+  "queued": 878,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 416,
-  "flagged": 621,
+  "queued/relens": 417,
+  "flagged": 633,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -612,6 +612,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964768610",
+   "title": "Vintage Glider For Sale",
+   "price": 35,
+   "area": "humboldt",
+   "url": "https://www.craigslist.org/view/d/eureka-vintage-glider-for-sale/kNV392H37AcckMayNbTk1N",
+   "best": "Glider Rocker Chairs for sale in Hitchcock, Texas | Facebook ...",
+   "med": 1500,
+   "ratio": 42.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7947925261",
    "title": "Vintage gold tone 3 Inch of Gold Bracelet WHITE diamond cut 7 1/2 inch",
    "price": 25,
@@ -851,6 +862,17 @@
    "best": "Vtg Strombergshyttan SWEDEN lARGE 10\" Art Glass Vase iCE ...",
    "med": 264,
    "ratio": 26.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959024981",
+   "title": "VINTAGE BOOMBOX WORKING",
+   "price": 40,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/lebanon-vintage-boombox-working/8RzDaptjsGobCXfXP5uVUw",
+   "best": "JVC PC-V66 Portable Component System Boombox Radio Cassette ...",
+   "med": 1052,
+   "ratio": 26.3,
    "ai_value": ""
   },
   {
@@ -1866,6 +1888,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969148475",
+   "title": "Kodak Brownie Vintage Camera",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-kodak-brownie-vintage-camera/gjzJHNATddszQY2J5CVK8Q",
+   "best": "Eastman Kodak No. 2A Brownie Antique Box Camera Model B ...",
+   "med": 220,
+   "ratio": 8.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7982088126",
    "title": "2 wheel moving dolly",
    "price": 20,
@@ -2226,6 +2259,17 @@
    "best": "German SINGER 20 1920s Child Toy Sewing Machine 20-1 ...",
    "med": 385,
    "ratio": 7.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964054874",
+   "title": "Old Viscount banana seats",
+   "price": 25,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/cleveland-old-viscount-banana-seats/6KQW1RKUhuWZ2uLebzWAPT",
+   "best": "Bates Racing rear fender cafe tail Seat Harley Davidson K ...",
+   "med": 189,
+   "ratio": 7.56,
    "ai_value": ""
   },
   {
@@ -3747,6 +3791,17 @@
    "ai_value": "sell on secondary marketplaces like eBay and WatchCharts for roughly $100 to $250"
   },
   {
+   "pid": "7944991180",
+   "title": "Selling vintage GT model",
+   "price": 60,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/saratoga-selling-vintage-gt-model/wgesVYgjkjkKiPkjM2EKmy",
+   "best": "2005 Trek 7100 Comfort Hybrid Bike 20\" Large Step-Thru ...",
+   "med": 234,
+   "ratio": 3.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7953690796",
    "title": "Vintage FAR SIDE T-shirt",
    "price": 30,
@@ -3788,6 +3843,17 @@
    "best": "24 Inch Satsuma Vase - Etsy",
    "med": 233,
    "ratio": 3.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981974507",
+   "title": "VINTAGE WOOD BARREL",
+   "price": 40,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/center-ossipee-vintage-wood-barrel/i2CWLxjx8yQngCLPBdoNdM",
+   "best": "Antique Old Wood Wooden Metal Wire Ring Nails Keg Barrel ...",
+   "med": 154,
+   "ratio": 3.85,
    "ai_value": ""
   },
   {
@@ -4008,6 +4074,17 @@
    "best": "Beatles (Icons Gift Tins) Book The Fast Free Shipping | eBay",
    "med": 70,
    "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968594366",
+   "title": "Vintage Glass Perfume Bottle",
+   "price": 20,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/los-osos-vintage-glass-perfume-bottle/1eAF7X87JPFVS8vrov7UKB",
+   "best": "Red Cut Crystal Perfume Bottle - Etsy",
+   "med": 69,
+   "ratio": 3.45,
    "ai_value": ""
   },
   {
@@ -5804,6 +5881,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938866323",
+   "title": "Tobacco cutter, Antique",
+   "price": 60,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-tobacco-cutter-antique/iPs49Mk43uuaJwyzMmk4P6",
+   "best": "ANTIQUE 1800'S CAST IRON RJR TOBACCO COMPANY BROWNS MULE ...",
+   "med": 96,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7955175749",
    "title": "Vintage Panasonic Suitcase Stereo",
    "price": 50,
@@ -6035,6 +6123,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959672801",
+   "title": "Lucite lot vintage",
+   "price": 100,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-lucite-lot-vintage/hPo9yofiQkvxc8HvLZJuzi",
+   "best": "11 Orange Lucite Acrylic Grape Clusters Plastic Leaves ...",
+   "med": 136,
+   "ratio": 1.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7943779213",
    "title": "VINTAGE USA TEAM LOCKER",
    "price": 79,
@@ -6178,6 +6277,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948691272",
+   "title": "old lamp",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/hempstead-old-lamp/mmHFqGYJxf9cT6KwEbynEF",
+   "best": "Lamp Crystal Prisms | Foter",
+   "med": 126,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7980894321",
    "title": "15 Old Cell Phones",
    "price": 100,
@@ -6252,6 +6362,17 @@
    "best": "Vintage Figurine Happy Buddha Smiling Red Rosewood Crack on ...",
    "med": 111,
    "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972414371",
+   "title": "Barbie Stuff",
+   "price": 100,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/sparks-barbie-stuff/mtvm3jwGzoDi1mQmo8g8jd",
+   "best": "Vintage, Barbie Electronic Closet, 1998 | eBay",
+   "med": 101,
+   "ratio": 1.01,
    "ai_value": ""
   },
   {
@@ -6701,6 +6822,17 @@
    "area": "spokane",
    "url": "https://www.craigslist.org/view/d/spokane-vintage-ammo-boxes/doe4PCpjjE6o3KgqqfZdP4",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955686901",
+   "title": "Vintage Winchester boxes",
+   "price": 90,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-winchester-boxes/qJJvP7YhKXSmqXe6Prsudi",
+   "best": "Winchester 32 S&W Blanks, Super-X Black Powder | Box of 50 ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
