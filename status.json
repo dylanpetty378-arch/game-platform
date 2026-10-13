@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:45:40Z",
+ "updated": "2026-10-13T14:51:53Z",
  "tables": {
   "harvests": 6,
   "searches": 1310,
-  "listings": 7007,
-  "lens": 5162,
-  "events": 15897,
+  "listings": 6207,
+  "lens": 5487,
+  "events": 15422,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 781,
-  "queued": 1878,
+  "lensed": 954,
+  "queued": 753,
   "comps/pass": 1,
   "queued/relens": 429,
   "decided/ask": 37,
-  "flagged": 675,
+  "flagged": 688,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1192,6 +1192,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939852150",
+   "title": "Antique dolls & shoes",
+   "price": 50,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/laughlin-antique-dolls-shoes/dwhBwsJeuAGTHtSC5EUwNT",
+   "best": "A Heubach K\u00f6ppelsdorf bisque head black baby doll, impressed ...",
+   "med": 961,
+   "ratio": 19.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7947568447",
    "title": "Vintage LAMPS and shades",
    "price": 10,
@@ -1717,6 +1728,17 @@
    "best": "Ting Shaw Kiang Chinese Art Deco Lacquered Wood Box 'The ...",
    "med": 169,
    "ratio": 11.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981532979",
+   "title": "Antique Oil Lamp",
+   "price": 10,
+   "area": "up",
+   "url": "https://www.craigslist.org/view/d/rhinelander-antique-oil-lamp/9FRUtUZfoGFtAEXXrFLiDc",
+   "best": "UNUSUAL VICTORIAN PRESSED GLASS OIL LAMP ON A GILT WOOD ...",
+   "med": 112,
+   "ratio": 11.2,
    "ai_value": ""
   },
   {
@@ -2311,6 +2333,17 @@
    "best": "1979 Schwinn original Le Tour 27\" bicycle frame vintage ...",
    "med": 396,
    "ratio": 7.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977914856",
+   "title": "Old school cruiser",
+   "price": 100,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/amlin-old-school-cruiser/1yzJKrupq2PT3ZcRv4LiuU",
+   "best": "Dyno Deuce Cruiser (GT Bicycles). 26 Inch. for Sale in ...",
+   "med": 790,
+   "ratio": 7.9,
    "ai_value": ""
   },
   {
@@ -3238,6 +3271,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951817287",
+   "title": "vintage eskimo fan",
+   "price": 65,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/des-moines-vintage-eskimo-fan/b5HYTX1e6RgMC9Z7o5JYTX",
+   "best": "Vintage Eskimo Turquoise Double Window/Vent Fan Model ...",
+   "med": 350,
+   "ratio": 5.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7947387798",
    "title": "VINTAGE HI-POINT MX BOOT",
    "price": 65,
@@ -3597,6 +3641,17 @@
    "url": "https://www.craigslist.org/view/d/trexlertown-vintage-brownie-box-camera/143C4a9kkJuQUDdNTyxNZL",
    "best": "Kodak No. 2A Brownie 1907 Antique Box Film Camera | eBay",
    "med": 185,
+   "ratio": 4.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952622350",
+   "title": "Antique electric large lamp",
+   "price": 75,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/klamath-falls-antique-electric-large/h33c7oMGd52uD8em8koUBa",
+   "best": "Antique Victorian Hand Painted Glass Electric Oil PARLOR ...",
+   "med": 347,
    "ratio": 4.63,
    "ai_value": ""
   },
@@ -4767,6 +4822,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951164883",
+   "title": "Vintage Eye Glasses Lot",
+   "price": 50,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/louisville-vintage-eye-glasses-lot/9RzXjkxbU5HenYqf9enhzn",
+   "best": "Lot of Used Glasses, Sunglasses, Cases, Unsorted and ...",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7960843317",
    "title": "antique religious painting Jesus",
    "price": 100,
@@ -4906,6 +4972,17 @@
    "url": "https://www.craigslist.org/view/d/gig-harbor-vintage-collectibles-brooches/4iin5A3HwBP6RxmXo9EGg1",
    "best": "Signed Joan Rivers Pink Enamel Orchid Brooch Aurora Borealis ...",
    "med": 65,
+   "ratio": 2.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948318578",
+   "title": "\u2744\ufe0fVintage Show snowshoes\u2744\ufe0f",
+   "price": 100,
+   "area": "yuma",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-show-snowshoes/4eqJmgjMPcyDvXF8YvGAa6",
+   "best": "Pair of Vintage Swenson and Swenson Bearpaw Bentwood ...",
+   "med": 295,
    "ratio": 2.95,
    "ai_value": ""
   },
@@ -5548,6 +5625,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974707580",
+   "title": "Vintage Fire Axe",
+   "price": 75,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/bronson-vintage-fire-axe/tUganWKRS51VamzjoQdVJp",
+   "best": "Huge rare 7 lb head Kelly Standard fire axe collectible ...",
+   "med": 181,
+   "ratio": 2.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7976347599",
    "title": "Vintage Signed Landscape Painting",
    "price": 85,
@@ -5655,6 +5743,17 @@
    "best": "1940 Year Collections, Lot World Paper Money for sale | eBay",
    "med": 100,
    "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977810765",
+   "title": "Lot of antique cameras",
+   "price": 60,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/euclid-lot-of-antique-cameras/nqG5Wg7FgiPfaVpLSZSraL",
+   "best": "Vintage Revere Model 85 8mm Movie Film Projector w Case ...",
+   "med": 139,
+   "ratio": 2.32,
    "ai_value": ""
   },
   {
@@ -6073,6 +6172,17 @@
    "best": "eBay",
    "med": 150,
    "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981619856",
+   "title": "Vintage Hard Shell Suitcase",
+   "price": 100,
+   "area": "nmi",
+   "url": "https://www.craigslist.org/view/d/sterling-vintage-hard-shell-suitcase/3CdcDQJS6D7XYFA13PSfbv",
+   "best": "Vintage Traveljoy 1950's/1960's Tweed Hardtop Suitcase ...",
+   "med": 185,
+   "ratio": 1.85,
    "ai_value": ""
   },
   {
@@ -6835,6 +6945,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974802959",
+   "title": "Antique Griswold deep fryers",
+   "price": 89,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/seabrook-antique-griswold-deep-fryers/hbh1uLvfiQHDAuyAvYgg2U",
+   "best": "Vintage GRISWOLD #3 cast iron skillet-- Erie PA U.S.A. | eBay",
+   "med": 90,
+   "ratio": 1.01,
+   "ai_value": ""
+  },
+  {
    "pid": "7979344401",
    "title": "Vintage Bitzenburger Fletching Stand",
    "price": 85,
@@ -6975,6 +7096,17 @@
    "best": "Vintage 1963 Georgia License Plate | eBay",
    "med": 86,
    "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952752201",
+   "title": "Vintage Bulova Watch (1968)",
+   "price": 100,
+   "area": "sierravista",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-bulova-watch-1968/wGkU3YPgvnUURLXpR7Qm8k",
+   "best": "Bulova M2 Wristwatch 1960's 10k RGP Gold F987444 Working | eBay",
+   "med": 85,
+   "ratio": 0.85,
    "ai_value": ""
   },
   {
@@ -7281,6 +7413,17 @@
    "area": "tulsa",
    "url": "https://www.craigslist.org/view/d/wichita-antique-square/u1iu7wZCvL983Fc6pbvwYY",
    "best": "Kraft 16\" x 24\" Etched Polished Steel Rafter Square SL100RP ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981786911",
+   "title": "Old G.E. Flatiron",
+   "price": 30,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/turners-falls-old-ge-flatiron/hW4RNvheysw9jbrKXnM4Xc",
+   "best": "Optical Breadboard Table | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""

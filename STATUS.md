@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T14:45:40Z
+# Refurbish status — 2026-10-13T14:51:53Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1878 |
-| lensed | 781 |
-| flagged | 573 |
-| queued/relens | 392 |
+| lensed | 954 |
+| queued | 753 |
+| flagged | 688 |
+| queued/relens | 429 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -23,9 +23,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 - harvests: 6
 - searches: 1310
-- listings: 7007
-- lens: 5162
-- events: 15897
+- listings: 6207
+- lens: 5487
+- events: 15422
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (675)
+## Flagged by Lens, waiting for photo review (688)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -171,6 +171,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00i0i_d8Of5vs0eZ_0ce0fu_300x300.jpg" width="120"> | 7955769621 | $20 | watertown | [CROQUET SET BROOKSTONE VINTAGE](https://www.craigslist.org/view/d/rochester-croquet-set-brookstone-vintage/kUVCj2pn6H7u8bUHemAfkb) | Vintage Brookstone Croquet Set & Wheeled Stand 6 Player With | 395 | 19.75 |
 | <img src="https://images.craigslist.org/00909_cdCgIv5VWD6_0CI0t2_300x300.jpg" width="120"> | 7977088449 | $100 | kpr | [Cool Vintage CD Racks/Display](https://www.craigslist.org/view/d/spokane-cool-vintage-cd-racks-display/ukM4VbvBL9LKfEGiiLU9C6) | Craigslist | 1961 | 19.61 |
 | <img src="https://images.craigslist.org/00Y0Y_1V0sZid9u6E_0CI0pO_300x300.jpg" width="120"> | 7934810558 | $20 | bham | [vintage tool storage box](https://www.craigslist.org/view/d/atlanta-vintage-tool-storage-box/uDdTWPLQBmHss8bDqVhtBy) | Whether you are looking to restore, sell, or repurpose it | 387 | 19.35 |
+| <img src="https://images.craigslist.org/00N0N_7FxJaQRA8Mq_0hq0CI_300x300.jpg" width="120"> | 7939852150 | $50 | lasvegas | [Antique dolls & shoes](https://www.craigslist.org/view/d/laughlin-antique-dolls-shoes/dwhBwsJeuAGTHtSC5EUwNT) | A Heubach Köppelsdorf bisque head black baby doll, impressed | 961 | 19.22 |
 | <img src="https://images.craigslist.org/00H0H_emy1gwHWkEG_0CI0CI_300x300.jpg" width="120"> | 7947568447 | $10 | fargo | [Vintage LAMPS and shades](https://www.craigslist.org/view/d/little-falls-vintage-lamps-and-shades/vJXVeMbXSAbUfmTxQYMyyp) | Vintage Stiffel Style Table Lamp MCM Heavy Brass Hollywood . | 189 | 18.9 |
 | <img src="https://images.craigslist.org/00C0C_g9Crd3pvyS7_0g80ew_300x300.jpg" width="120"> | 7954571749 | $40 | spokane | [Vintage magazine rack](https://www.craigslist.org/view/d/vintage-magazine-rack/3m7gPK53ueqcKunfTLVgMB) | Harp Gallery Antique and Vintage Furniture | 750 | 18.75 |
 | <img src="https://images.craigslist.org/00a0a_dEhZ5WjcDkb_07Q0hq_300x300.jpg" width="120"> | 7953249650 | $30 | raleigh | [vintage artist case](https://www.craigslist.org/view/d/charlotte-vintage-artist-case/qEdjnWSVEjSMYhkraQTZst) | Poshmark | 552 | 18.4 |
@@ -212,4 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00g0g_480F9cEdr6j_0CI0nH_300x300.jpg" width="120"> | 7972063920 | $20 | appleton | [Antique Doll Trunk](https://www.craigslist.org/view/d/fox-river-grove-antique-doll-trunk/nasa3rk95BMGF3WvfdYnTu) | Antique Wood Dome-Top Doll Trunk or Chest in Overall Good .. | 250 | 12.5 |
 | <img src="https://images.craigslist.org/00A0A_3883QRScsIB_0lR0t2_300x300.jpg" width="120"> | 7931577468 | $10 | newyork | [Vintage U.S. Bicentennial Society The Double Eagle](https://www.craigslist.org/view/d/new-york-vintage-us-bicentennial/iHBvYEZNAsyz62K5p6Wz9S) | Vtg 1973 Collectors Double Eagle Plate Americas Bicentennial | 125 | 12.5 |
 | <img src="https://images.craigslist.org/00k0k_hrhNsHpYm6_0t20CI_300x300.jpg" width="120"> | 7982699844 | $85 | portland | [Vintage Mountain Landscape Oil Painting Signed Tal](https://www.craigslist.org/view/d/vancouver-vintage-mountain-landscape/aVAXiNk54q9ebniWdeHHHT) | Robert Lee McComb / ROBERT MCCOMB OIL ON CANVAS, VIEW OF ... | 1059 | 12.46 |
-| <img src="https://images.craigslist.org/00202_8IzLLZkr2B4_0Mo12w_300x300.jpg" width="120"> | 7942474856 | $5 | austin | [Vintage Occupied Japan Colonial Lady Figurine](https://www.craigslist.org/view/d/kyle-vintage-occupied-japan-colonial/fN9YwLxeg1hQa6FT8jN44Y) | Colonial Lady Figurine Occupied Japan 1948 Pink, Green and . | 62 | 12.4 |
