@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T21:58:38Z",
+ "updated": "2026-10-13T22:26:39Z",
  "tables": {
   "harvests": 8,
-  "searches": 1728,
+  "searches": 1930,
   "listings": 8945,
-  "lens": 6849,
-  "events": 26269,
-  "comps": 1561,
+  "lens": 6874,
+  "events": 26294,
+  "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 332,
+  "lensed": 337,
   "comps/pass": 1,
-  "queued/relens": 275,
+  "queued/relens": 283,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 415,
+  "flagged": 427,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 804
+  "queued": 779
  },
  "last_harvests": [
   {
@@ -522,6 +522,17 @@
    "best": "FABULOUS PAIR of 19th C. ANTIQUE CHINESE CLOISONNE ...",
    "med": 750,
    "ratio": 75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974257703",
+   "title": "vintage 1980's signed sculpture of fancy woman",
+   "price": 35,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-vintage-1980s-signed-sculpture/1hu6jmDSVxqSMjdFnj4eWF",
+   "best": "25+ Austin Sculpture for sale | Updated Oct 2026 - eBay",
+   "med": 2600,
+   "ratio": 74.29,
    "ai_value": ""
   },
   {
@@ -1460,6 +1471,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946045600",
+   "title": "Vintage Matisse Renoir Brooches",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-matisse-renoir/k8VTaub9hoiJCPQmwBTMna",
+   "best": "WorthPoint",
+   "med": 99,
+   "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7935132535",
    "title": "Two Vintage Art Prints",
    "price": 50,
@@ -1512,6 +1534,17 @@
    "best": "Restoring a Romanian-made mandolin",
    "med": 380,
    "ratio": 6.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941438251",
+   "title": "Vintage Judy Lee Costume Bracelet",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-judy-lee-costume/6rw2mV6xZhZuQDYRg3CGpP",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 6.25,
    "ai_value": ""
   },
   {
@@ -1930,6 +1963,17 @@
    "best": "VTG Date 11-78 RIGHT 20 Bell System E Buckingham Utility ...",
    "med": 108,
    "ratio": 4.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930733269",
+   "title": "TURQUOISE RING VINTAGE",
+   "price": 30,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/west-willow-turquoise-ring-vintage/9HcSwvqBXwRQ83KGYKdDQ3",
+   "best": "Turquoise Ring Carved Feather Style Retro Women's Bohemian ...",
+   "med": 129,
+   "ratio": 4.3,
    "ai_value": ""
   },
   {
@@ -2725,6 +2769,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955920842",
+   "title": "Vintage sterling silver statement ring",
+   "price": 49,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-sterling-silver/g7cUzxUcrCg2FR8GUAUcuH",
+   "best": "Craigslist",
+   "med": 129,
+   "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7937596828",
    "title": "Vintage Polaroid Cameras",
    "price": 65,
@@ -2789,6 +2844,17 @@
    "med": 126,
    "ratio": 2.52,
    "ai_value": ""
+  },
+  {
+   "pid": "7980593070",
+   "title": "Vintage Elgin Ela72B Crystal Hearts Lady's Watch",
+   "price": 25,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/catalina-vintage-elgin-ela72b-crystal/agRcM6v839ionVaHL1WCAh",
+   "best": "Vintage Radar",
+   "med": 63,
+   "ratio": 2.52,
+   "ai_value": "Value: Typically ranges from roughly $25 to $125"
   },
   {
    "pid": "7933306378",
@@ -2945,6 +3011,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976512434",
+   "title": "Vintage Gold Ring Lot",
+   "price": 220,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/stayton-vintage-gold-ring-lot/vMH9FtQ5R5WRq2UTiZbEqi",
+   "best": "Antique Ruby Pearl 14k Yellow Gold Ryrie Bros Ring - Size ...",
+   "med": 520,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7980458214",
    "title": "Vintage Can + Bottle Openers",
    "price": 8,
@@ -3050,6 +3127,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/covina-wizard-13/fMUZW8U36aAXzahchVusDm",
    "best": "Windstone Editions 13in Wizard w/ Dragon | eBay",
+   "med": 170,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949988963",
+   "title": "Vintage Molnija Three Graces Cherub Mechanical Wind Up Pocket Watch",
+   "price": 80,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-molnija-three-graces/eVLn8mYfFtwiQvReaRHmKs",
+   "best": "eBay",
    "med": 170,
    "ratio": 2.13,
    "ai_value": ""
@@ -3847,6 +3935,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947173051",
+   "title": "Antique Cloisonn\u00e9 Vase Set",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-antique-cloisonn-vase-set/3tBNxP62nnX6F4yk4XrWQ3",
+   "best": "Right Vase: Features a pink-and-white chrysanthemum blossom with green foliage set against a bright peacock-bl",
+   "med": 100,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7950037380",
    "title": "Antique Large  1930's Ring Vase",
    "price": 25,
@@ -3865,6 +3964,17 @@
    "url": "https://www.craigslist.org/view/d/new-berlinville-vintage-porcelain-dog/ezbFLeCX1h8kieFgFuC9PB",
    "best": "Vintage Fawn Boxer Dog Ceramic Figurine Nippon Yoko Boeki Co ...",
    "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962368562",
+   "title": "Antique Silver Necklace",
+   "price": 125,
+   "area": "billings",
+   "url": "https://www.craigslist.org/view/d/bozeman-antique-silver-necklace/ek5mhi381Xm4H2N9SMaize",
+   "best": "eBay",
+   "med": 150,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -4584,6 +4694,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975827402",
+   "title": "VINTAGE POCKET WATCH",
+   "price": 90,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-pocket-watch/uKHzbko1UXhtyPuaiHXYC9",
+   "best": "Statue Of Liberty 1886-1986 Limited Ed. Commemorative Quartz Pocket",
+   "med": 38,
+   "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7979016309",
    "title": "Antique Robert Portner beer/soda bottle collection",
    "price": 100,
@@ -4723,6 +4844,17 @@
    "url": "https://www.craigslist.org/view/d/portland-vintage-wedgewood-harvard/qiZYay4CjEmRfgayTe18sC",
    "best": "Harvard Wedgwood plate - Mass and Dane Halls \u2013 NextStage Vintage",
    "med": 35,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937798439",
+   "title": "Mickey Mouse Pocket Watch & chain",
+   "price": 75,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-mickey-mouse-pocket-watch-chain/gbSBWN9hbqs292tiSpsRSZ",
+   "best": "Craigslist",
+   "med": 15,
    "ratio": 0.2,
    "ai_value": ""
   },

@@ -26267,3 +26267,28 @@
 {"pid":"7934403612","stage":"queued","run":"craigslist-20261013-2137","data":{"score":12.66,"clip":8.53},"ts":"2026-10-13T21:58:26Z"}
 {"pid":"7948946776","stage":"queued","run":"craigslist-20261013-2137","data":{"score":12.66,"clip":8.53},"ts":"2026-10-13T21:58:26Z"}
 {"ts":"2026-10-13T21:58:38Z","pid":"7981826904","stage":"expired","run":"liveness","note":"posting gone (was flagged/)"}
+{"ts":"2026-10-13T22:23:07Z","pid":"7975827402","stage":"flagged","run":"lensworker-20261013-2158","note":"Lens names Gold — title does not","data":{"med":38,"ratio":0.42,"mismatch":["Gold"]}}
+{"ts":"2026-10-13T22:23:14Z","pid":"7943664708","stage":"queued","status":"relens","run":"lensworker-20261013-2158","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:23:21Z","pid":"7941438251","stage":"flagged","run":"lensworker-20261013-2158","note":null,"data":{"med":125,"ratio":6.25,"mismatch":[]}}
+{"ts":"2026-10-13T22:23:29Z","pid":"7976512434","stage":"flagged","run":"lensworker-20261013-2158","note":"Lens names Size — title does not","data":{"med":520,"ratio":2.36,"mismatch":["Size"]}}
+{"ts":"2026-10-13T22:23:38Z","pid":"7937798439","stage":"flagged","run":"lensworker-20261013-2158","note":"Lens names Eagle — title does not","data":{"med":15,"ratio":0.2,"mismatch":["Eagle"]}}
+{"ts":"2026-10-13T22:23:45Z","pid":"7980593070","stage":"flagged","run":"lensworker-20261013-2158","note":null,"data":{"med":63,"ratio":2.52,"mismatch":[]}}
+{"ts":"2026-10-13T22:23:52Z","pid":"7974257703","stage":"flagged","run":"lensworker-20261013-2158","note":"Lens names Fisher — title does not","data":{"med":2600,"ratio":74.29,"mismatch":["Fisher"]}}
+{"ts":"2026-10-13T22:24:00Z","pid":"7949988963","stage":"flagged","run":"lensworker-20261013-2158","note":"Lens names Russia, Size, Soviet, Union — title does not","data":{"med":170,"ratio":2.13,"mismatch":["Russia","Size","Soviet","Union"]}}
+{"ts":"2026-10-13T22:24:07Z","pid":"7947173051","stage":"flagged","run":"lensworker-20261013-2158","note":null,"data":{"med":100,"ratio":1.25,"mismatch":[]}}
+{"ts":"2026-10-13T22:24:15Z","pid":"7955968879","stage":"lensed","run":"lensworker-20261013-2158","note":null,"data":{"med":62,"ratio":2.48,"mismatch":[]}}
+{"ts":"2026-10-13T22:24:20Z","pid":"7982883339","stage":"queued","status":"relens","run":"lensworker-20261013-2158","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:24:28Z","pid":"7951165640","stage":"queued","status":"relens","run":"lensworker-20261013-2158","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:24:35Z","pid":"7944680537","stage":"queued","status":"relens","run":"lensworker-20261013-2158","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:24:42Z","pid":"7955920842","stage":"flagged","run":"lensworker-20261013-2158","note":"Lens names Ottoman — title does not","data":{"med":129,"ratio":2.63,"mismatch":["Ottoman"]}}
+{"ts":"2026-10-13T22:24:48Z","pid":"7974252357","stage":"queued","status":"relens","run":"lensworker-20261013-2158","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:24:58Z","pid":"7947270200","stage":"lensed","run":"lensworker-20261013-2158","note":null,"data":{"med":15,"ratio":1.5,"mismatch":[]}}
+{"ts":"2026-10-13T22:25:05Z","pid":"7946045600","stage":"flagged","run":"lensworker-20261013-2158","note":"Lens names Lane — title does not","data":{"med":99,"ratio":6.6,"mismatch":["Lane"]}}
+{"ts":"2026-10-13T22:25:16Z","pid":"7962368562","stage":"flagged","run":"lensworker-20261013-2158","note":"Lens names Mexican — title does not","data":{"med":150,"ratio":1.2,"mismatch":["Mexican"]}}
+{"ts":"2026-10-13T22:25:26Z","pid":"7952365023","stage":"lensed","run":"lensworker-20261013-2158","note":null,"data":{"med":41,"ratio":0.63,"mismatch":[]}}
+{"ts":"2026-10-13T22:25:36Z","pid":"7957382876","stage":"lensed","run":"lensworker-20261013-2158","note":null,"data":{"med":28,"ratio":1.65,"mismatch":[]}}
+{"ts":"2026-10-13T22:25:43Z","pid":"7936529118","stage":"queued","status":"relens","run":"lensworker-20261013-2158","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:25:50Z","pid":"7957001888","stage":"queued","status":"relens","run":"lensworker-20261013-2158","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:25:59Z","pid":"7960337298","stage":"lensed","run":"lensworker-20261013-2158","note":null,"data":{"med":18,"ratio":0.51,"mismatch":[]}}
+{"ts":"2026-10-13T22:26:06Z","pid":"7946632032","stage":"queued","status":"relens","run":"lensworker-20261013-2158","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T22:26:13Z","pid":"7930733269","stage":"flagged","run":"lensworker-20261013-2158","note":null,"data":{"med":129,"ratio":4.3,"mismatch":[]}}

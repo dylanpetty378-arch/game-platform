@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T21:58:38Z
+# Refurbish status — 2026-10-13T22:26:39Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| queued | 804 |
-| flagged | 415 |
-| lensed | 332 |
-| queued/relens | 275 |
+| queued | 779 |
+| flagged | 427 |
+| lensed | 337 |
+| queued/relens | 283 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 10 |
@@ -22,11 +22,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 ## Tables
 
 - harvests: 8
-- searches: 1728
+- searches: 1930
 - listings: 8945
-- lens: 6849
-- events: 26269
-- comps: 1561
+- lens: 6874
+- events: 26294
+- comps: 1749
 - item_types: 801
 - runs: 0
 
@@ -111,7 +111,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (415)
+## Flagged by Lens, waiting for photo review (427)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -129,6 +129,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00V0V_kmkWe6yxUgI_0hr0CI_300x300.jpg" width="120"> | 7934825752 | $1 | medford | [Antique Vintage Asian pieces](https://www.craigslist.org/view/d/gold-hill-antique-vintage-asian-pieces/obPibbWkQyKVWn91gEx4cm) | Delft Candle Sticks - Etsy | 150 | 150 |
 | <img src="https://images.craigslist.org/01212_ccQi70uCZg3_0CI0gs_300x300.jpg" width="120"> | 7982818380 | $200 | phoenix | [Vintage 1970s LERO Telecaster built in Japan.](https://www.craigslist.org/view/d/scottsdale-vintage-1970s-lero/bLsEmk2UQCcqtP7EQtXJ7o) | National FT-440 Finger Talker Blonde 1970s – Chicago Music . | 21995 | 109.97 |
 | <img src="https://images.craigslist.org/00j0j_64miNQD0fD2_0lM0CI_300x300.jpg" width="120"> | 7976662893 | $10 | raleigh | [2 large ginger jars](https://www.craigslist.org/view/d/clayton-large-ginger-jars/d2yYnNVJw4rgN94j3MRJYB) | FABULOUS PAIR of 19th C. ANTIQUE CHINESE CLOISONNE ... | 750 | 75 |
+| <img src="https://images.craigslist.org/00000_6Pme1n0GF7P_0CI0pO_300x300.jpg" width="120"> | 7974257703 | $35 | atlanta | [vintage 1980's signed sculpture of fancy woman](https://www.craigslist.org/view/d/atlanta-vintage-1980s-signed-sculpture/1hu6jmDSVxqSMjdFnj4eWF) | 25+ Austin Sculpture for sale / Updated Oct 2026 - eBay | 2600 | 74.29 |
 | <img src="https://images.craigslist.org/00404_3JTbRWeExM2_0pO0aK_300x300.jpg" width="120"> | 7981649727 | $15 | washingtondc | [Ladies Fashion Gold Ring w Pearl Rings](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring/gbZDMFNTs8abcn5LnkhT4L) | Exclusive Ring 925 Silver 17.5 Mm Size 55 Vintage Gift ... | 958 | 63.87 |
 | <img src="https://images.craigslist.org/00f0f_9hPschRq24V_06007g_300x300.jpg" width="120"> | 7952474801 | $40 | grandrapids | [VINTAGE 1960'S SQUIRREL PLANTER ~ NAPCOWARE](https://www.craigslist.org/view/d/wyoming-vintage-1960s-squirrel-planter/rXfGs85ix8cVYdjv9Aighn) | Napcoware Squirrel Planter Japan Circa 1960s by @shop20max . | 2474 | 61.85 |
 | <img src="https://images.craigslist.org/00T0T_3EEXsgIVWTE_0CI0t2_300x300.jpg" width="120"> | 7953086615 | $1 | miami | [Sadie's Estate  Collectibles](https://www.craigslist.org/view/d/fort-lauderdale-sadies-estate/fyfZuJ9pURmVrjNwJeDNRj) | Etsy | 60 | 60 |
@@ -214,11 +215,13 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01717_hXpNNAELIt8_0t20t2_300x300.jpg" width="120"> | 7949056244 | $20 | losangeles | [Vintage painting of Girl and her Flowers](https://www.craigslist.org/view/d/covina-vintage-painting-of-girl-and-her/grx5BWEgT4HBpEuzBqccub) | PATRICIA WELCH "Flower Girl" Original Mid Century Modern ... | 135 | 6.75 |
 | <img src="https://images.craigslist.org/01515_ar71gddUGYh_07L0ak_300x300.jpg" width="120"> | 7948825689 | $75 | ithaca | [Pair of Vintage Ceramic Floral Motif Lamps Signed ](https://www.craigslist.org/view/d/ithaca-pair-of-vintage-ceramic-floral/8q1RMpGE2EJfEpm4daoBBf) | Vintage Lamp Ullrich Victorian Art Deco French Ceramic Urn . | 500 | 6.67 |
 | <img src="https://images.craigslist.org/00X0X_hTcwIHJnHuP_0t20CI_300x300.jpg" width="120"> | 7973140689 | $45 | newyork | [Vintage lighter Zaima Chateau](https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/mNhzYZ7Y961FkGJv9xKa8c) | Briquet chateau chatelet vintage - Collection | 299 | 6.64 |
+| <img src="https://images.craigslist.org/00P0P_5UQx9zE7LZZz_0CI0t2_300x300.jpg" width="120"> | 7946045600 | $15 | longisland | [Vintage Matisse Renoir Brooches](https://www.craigslist.org/view/d/farmingville-vintage-matisse-renoir/k8VTaub9hoiJCPQmwBTMna) | WorthPoint | 99 | 6.6 |
 | <img src="https://images.craigslist.org/00404_eLssAkeeuFb_0CI0t2_300x300.jpg" width="120"> | 7935132535 | $50 | phoenix | [Two Vintage Art Prints](https://www.craigslist.org/view/d/sun-city-west-two-vintage-art-prints/nMyWFavjQ1GsmivPm9VMQN) | www.pamono.com | 325 | 6.5 |
 | <img src="https://images.craigslist.org/00o0o_2KmOpqaCezl_0CI0t2_300x300.jpg" width="120"> | 7957509338 | $20 | oklahomacity | [Antique Hand Tool Box](https://www.craigslist.org/view/d/wichita-antique-hand-tool-box/s4YdtAkVdNowTVVgtm8o7y) | Market Value: Similar vintage or handmade wood carriers typi | 130 | 6.5 |
 | <img src="https://images.craigslist.org/00z0z_h8KSDxpa8ae_0bK0b6_300x300.jpg" width="120"> | 7931828187 | $10 | philadelphia | [Necklace and Earring Sets](https://www.craigslist.org/view/d/philadelphia-necklace-and-earring-sets/hidEZ34EJPQLtqXgyrhGHZ) | Earrings: A pair of rectangular/geometric clip-on earrings f | 65 | 6.5 |
 | <img src="https://images.craigslist.org/00o0o_l9RxBMt1KJz_0jP0t2_300x300.jpg" width="120"> | 7940288086 | $20 | pittsburgh | [4 Vintage Christmas Small Round Plastic Victorian ](https://www.craigslist.org/view/d/coraopolis-vintage-christmas-small/u56uKaJXAkxHiFb3fBnUK1) | Vintage Miniature World of Peter Bates Ltd • Set of 3 Cameo  | 129 | 6.45 |
 | <img src="https://images.craigslist.org/00303_25v73MddkhH_0t20CI_300x300.jpg" width="120"> | 7982807664 | $60 | rochester | [Mandolin](https://www.craigslist.org/view/d/rochester-mandolin/3FD5C85dUi7yeLJydXyszZ) | Restoring a Romanian-made mandolin | 380 | 6.33 |
+| <img src="https://images.craigslist.org/00F0F_eidbE45jxqo_0t20CI_300x300.jpg" width="120"> | 7941438251 | $20 | longisland | [Vintage Judy Lee Costume Bracelet](https://www.craigslist.org/view/d/farmingville-vintage-judy-lee-costume/6rw2mV6xZhZuQDYRg3CGpP) | eBay | 125 | 6.25 |
 | <img src="https://images.craigslist.org/00E0E_kdi5FdwNCpx_0pO0jm_300x300.jpg" width="120"> | 7950290971 | $75 | columbus | [Old Acoustic Guitar](https://www.craigslist.org/view/d/chillicothe-old-acoustic-guitar/gyMWusLePjztqkh5QW4SD7) | 38" Woolworth's Audition Guitar Acoustic 6-String Vintage .. | 468 | 6.24 |
 | <img src="https://images.craigslist.org/00K0K_9sKOK4H1m3x_0t20CI_300x300.jpg" width="120"> | 7934915578 | $20 | fresno | [Replica Antique Mexican Pesos](https://www.craigslist.org/view/d/fresno-replica-antique-mexican-pesos/emwMk2wRDLm5qbrtvLS3Km) | 1882 Republica Mexicana Libertad 8R.Z.1882.J.S.10D.20G ... | 120 | 6 |
 | <img src="https://images.craigslist.org/00g0g_8d9HNDZQvif_0uN0n6_300x300.jpg" width="120"> | 7948035931 | $20 | chicago | [Burgundy Necklace w/Matching Earings And Bracelet](https://www.craigslist.org/view/d/des-plaines-burgundy-necklace-matching/t3EqFzqNAV4eFf3KwXtWKw) | set of Contract bracelet earring Ring Embroidered handmade . | 120 | 6 |
@@ -234,6 +237,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00P0P_cedcFvPG8af_0jm0pO_300x300.jpg" width="120"> | 7951643895 | $35 | cleveland | [Vintage  Flying V  Soft Case](https://www.craigslist.org/view/d/painesville-vintage-flying-soft-case/dr1Nkph6XEBzyFZCdVTaDB) | Performer™ Shaped Flying V® Style Guitar Hardshell Case - TK | 195 | 5.57 |
 | <img src="https://images.craigslist.org/00Q0Q_3y5zmu60XLe_0t20jm_300x300.jpg" width="120"> | 7982779068 | $35 | houston | [1932-Beautiful-Small Oil On Canvas-E.Raines](https://www.craigslist.org/view/d/houston-1932-beautiful-small-oil-on/sDXtLH6e8KUpFbdS7d2ykX) | I can help you look up more details or comparable values. | 195 | 5.57 |
 | <img src="https://images.craigslist.org/00e0e_kBHT4YOdgOv_0t20CI_300x300.jpg" width="120"> | 7982824605 | $45 | missoula | [Vintage 7 1/2" Brass/Bronze Ashcroft Pressure Gaug](https://www.craigslist.org/view/d/frenchtown-vintage-brass-bronze/9UL4FXdCoE8EBKpKfZj4s9) | Connection: Bottom-mounted threaded brass/iron pipe connecti | 250 | 5.56 |
-| <img src="https://images.craigslist.org/00v0v_fDKpT3ETqkG_0t20CI_300x300.jpg" width="120"> | 7965942258 | $10 | newyork | [24” chain with carnelian stone](https://www.craigslist.org/view/d/kew-gardens-24-chain-with-carnelian/s3cQZs7gFePWNM2kp6Mxhr) | Poshmark | 55 | 5.5 |
-| <img src="https://images.craigslist.org/00l0l_6GBoY6JSoWU_0t20CI_300x300.jpg" width="120"> | 7939153037 | $20 | washingtondc | [vintage BEAR COOKIE JAR crock ceramic](https://www.craigslist.org/view/d/lanham-vintage-bear-cookie-jar-crock/jQDBr88EbpviGeY2iYewNY) | American Bisque Bear Cookie Jar / eBay | 110 | 5.5 |
-| <img src="https://images.craigslist.org/00R0R_8Gp4KXPunRx_0t20CI_300x300.jpg" width="120"> | 7953749197 | $75 | allentown | [14 kt gold sanddollar toe ring- new](https://www.craigslist.org/view/d/bethlehem-14-kt-gold-sanddollar-toe/1dghJTvPMkw4tnzpi96Tmx) | Craigslist | 394 | 5.25 |
