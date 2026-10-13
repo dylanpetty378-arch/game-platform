@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T16:40:40Z",
+ "updated": "2026-10-13T16:44:49Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6053,
-  "events": 21123,
+  "lens": 6078,
+  "events": 21148,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 126,
+  "lensed": 136,
   "comps/pass": 1,
-  "queued/relens": 13,
+  "queued/relens": 17,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 88,
+  "flagged": 99,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 800
+  "queued": 775
  },
  "last_harvests": [
   {
@@ -614,6 +614,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939105997",
+   "title": "Ladies Sterling Silver Band",
+   "price": 125,
+   "area": "augusta",
+   "url": "https://www.craigslist.org/view/d/macon-ladies-sterling-silver-band/mzvnHK3i7fxeCVM4JN7WmE",
+   "best": "Southwest Sterling Silver and Turquoise Watch Cuff Bracelet ...",
+   "med": 900,
+   "ratio": 7.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7942627095",
    "title": "Vintage \"FAT\" lamp",
    "price": 35,
@@ -779,6 +790,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934461274",
+   "title": "Vintage Navajo Handmade Sterling Silver and Turquoise Necklace Pendant",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-navajo-handmade-sterling/sn667N5LgsGTFUz5HtmDTh",
+   "best": "Turquoise Sterling Silver Star of David Oxidized Pendant ...",
+   "med": 179,
+   "ratio": 4.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7929300669",
    "title": "Vintage Barrel Hand Truck",
    "price": 75,
@@ -878,6 +900,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982798637",
+   "title": "Old \"Flair\" Brass French Alarm Clock",
+   "price": 65,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/longmeadow-old-flair-brass-french-alarm/jbLBo8ftUcccJKe4DYPgai",
+   "best": "Brass French Collectible Clocks for sale | eBay",
+   "med": 234,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7948518962",
    "title": "STERLING SILVER 17\" CHAIN ~ NEW",
    "price": 30,
@@ -886,6 +919,28 @@
    "best": "Italy 925 Sterling Silver Twisted Snake Chain Necklace #B181 ...",
    "med": 107,
    "ratio": 3.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963738425",
+   "title": "Vintage vases",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-vintage-vases/xw2QfVdL5Pd59ahYstpVWn",
+   "best": "JAPANESE SATSUMA PEACOCK VINTAGE PORCELAIN VASE WITH LID | eBay",
+   "med": 89,
+   "ratio": 3.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975826109",
+   "title": "PartyLite Old World Village Collection The Clocktower",
+   "price": 20,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/summerville-partylite-old-world-village/eBGWQwBvj4cqydpo9LPozq",
+   "best": "Partylite Ole World Village The Clocktower Candle Holder ...",
+   "med": 68,
+   "ratio": 3.4,
    "ai_value": ""
   },
   {
@@ -911,6 +966,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982803125",
+   "title": "Vintage Native American Turquoise Sterling Silver Ring",
+   "price": 20,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-native-american/sPGDAiYqq9xMh6wSJYKpz8",
+   "best": "SpiritbeadNW",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7971918684",
    "title": "Bronze-Style Girl on a Swing Sculpture 6\"",
    "price": 60,
@@ -919,6 +985,17 @@
    "best": "Vtg Art Nouveau after Auguste Moreau Lady Girl On A Swing ...",
    "med": 194,
    "ratio": 3.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951091118",
+   "title": "Vintage Beau Sterling Silver 925 Brooch/Pin.",
+   "price": 30,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/williamsburg-vintage-beau-sterling/6N9NaamAY4FNJf6xNdUVns",
+   "best": "Fabulous Large Victorian Sterling Silver Eternal Lovers Knot ...",
+   "med": 92,
+   "ratio": 3.07,
    "ai_value": ""
   },
   {
@@ -941,6 +1018,17 @@
    "best": "Poshmark",
    "med": 148,
    "ratio": 2.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982794332",
+   "title": "1917 Elgin pocket watch",
+   "price": 150,
+   "area": "peoria",
+   "url": "https://www.craigslist.org/view/d/geneseo-1917-elgin-pocket-watch/joWUX1mkWqHBwhCHA1jiU2",
+   "best": "Antique 1913 Elgin 12s 15j Pocket Watch Model 2 Grade 314 ...",
+   "med": 440,
+   "ratio": 2.93,
    "ai_value": ""
   },
   {
@@ -1054,6 +1142,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931991100",
+   "title": "Nice Jewelry and Watch Lot",
+   "price": 30,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-nice-jewelry-and-watch-lot/9cEeafmm2nbRQJiV1n4xJ5",
+   "best": "Sold at Auction: Job lot collection of costume jewellery ...",
+   "med": 75,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955159417",
    "title": "Vintage Copper Bucket",
    "price": 40,
@@ -1084,6 +1183,28 @@
    "best": "Norman Rockwell 1972 Four Seasons Collector Plates lot of 4 ...",
    "med": 105,
    "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957523387",
+   "title": "Vintage Grinch Pocket Watch",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/beverly-vintage-grinch-pocket-watch/9XZEbiZWwVasM2RQ5zmSHJ",
+   "best": "Grinch Watch | eBay",
+   "med": 105,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973268582",
+   "title": "Antique Musky Bait Burmek",
+   "price": 60,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/hudson-antique-musky-bait-burmek/kdy3vHtNCdNufrznCzsHvw",
+   "best": "Tony Burmek Top Secret Musky Lure Brown Sucker Color with ...",
+   "med": 120,
+   "ratio": 2,
    "ai_value": ""
   },
   {
