@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:07:52Z",
+ "updated": "2026-10-13T06:11:36Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2179,
-  "events": 9714,
+  "lens": 2204,
+  "events": 9739,
   "comps": 529,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1746,
-  "queued": 3261,
+  "queued": 3236,
   "comps/pass": 1,
   "decided/ask": 26,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "flagged": 29,
-  "lensed": 21
+  "flagged": 42,
+  "lensed": 33
  },
  "last_harvests": [
   {
@@ -323,6 +323,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976420340",
+   "title": "Large Antique Steam Gauge",
+   "price": 25,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/highlands-large-antique-steam-gauge/etB54kpBK9fxV6EFG9mFWX",
+   "best": "Sold at Auction: Antique Boston Elevated Railway Steam Gauge",
+   "med": 248,
+   "ratio": 9.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7951212926",
    "title": "Vintage Oil-On-Canvas Busy Cityscape Scene Framed Painting",
    "price": 95,
@@ -356,6 +367,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960988178",
+   "title": "Porcelain Vintage Boudoir Lamps",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-porcelain-vintage-boudoir/1XUmfyyADDZThd8d3ULFZY",
+   "best": "Electrical/Condition Note: Vintage lamps of this age frequently feature older cloth or plastic wiring that may",
+   "med": 181,
+   "ratio": 7.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7981368036",
    "title": "Antique silver-plated coffee percolator",
    "price": 20,
@@ -364,6 +386,17 @@
    "best": "Function: Originally designed as an electric tabletop coffee urn or percolator.",
    "med": 135,
    "ratio": 6.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942073476",
+   "title": "Guitar / banjo projects",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-guitar-banjo-projects/u4ocfePpov4CBzKeSLqiPx",
+   "best": "Squier By Fender MA-1 Natural 3/4-Size 6-String 18-Fret RH ...",
+   "med": 220,
+   "ratio": 6.29,
    "ai_value": ""
   },
   {
@@ -376,6 +409,17 @@
    "med": 780,
    "ratio": 5.2,
    "ai_value": "Value/Price Range: Typically sells between $50"
+  },
+  {
+   "pid": "7948267016",
+   "title": "VINTAGE SIGNED ARIZONA ARTIST RICH MOYERS MODERN ART PRINT LITTLE ELK",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-vintage-signed-arizona/sDHRP4fcVFatUziSUwQQ7c",
+   "best": "Title: \"The Crossing of Little Elk\" (hand-written in gold and pink ink on the bottom mat).",
+   "med": 388,
+   "ratio": 5.17,
+   "ai_value": ""
   },
   {
    "pid": "7969502328",
@@ -444,6 +488,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7949849751",
+   "title": "SIGNED TOM KNAPP 1968 VINTAGE MODERN WESTERN BEAR BRONZE ART SCULPTURE",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-signed-tom-knapp-1968/pnH4cq4zbvieXVogmgTo2y",
+   "best": "Sold at Auction: Philip R. Goodwin, Philip R Goodwin Seated ...",
+   "med": 165,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930145688",
+   "title": "Wine & Water Crystal Goblets - Vintage Drinkware - set of 7 pair",
+   "price": 35,
+   "area": "lacrosse",
+   "url": "https://www.craigslist.org/view/d/la-crosse-wine-water-crystal-goblets/22SqNXr5Gy1MCWqCNuRfE4",
+   "best": "Vintage Fostoria & Lenox Navarre Clear Glass Wine Goblets ...",
+   "med": 111,
+   "ratio": 3.17,
+   "ai_value": "sell for roughly $35 to $80"
+  },
+  {
    "pid": "7932563315",
    "title": "Vintage Zuni Ladies Turquoise Inlay Watch Bracelet",
    "price": 80,
@@ -455,6 +521,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7966546674",
+   "title": "Westclox Scotty pocket watch",
+   "price": 50,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/albany-westclox-scotty-pocket-watch/5bdkiDnDYuNYZ1ZBNoAxvF",
+   "best": "HiBid",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976421852",
+   "title": "Two Antique Tennis Racquets",
+   "price": 35,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/highlands-two-antique-tennis-racquets/6tsgUmAiTg7qdv9wwtkQNZ",
+   "best": "Antique Tennis Racket Spalding Flat Top | eBay",
+   "med": 103,
+   "ratio": 2.94,
+   "ai_value": ""
+  },
+  {
    "pid": "7947228983",
    "title": "Vintage Erma Gilliland Duncan Wall Art 1906",
    "price": 25,
@@ -463,6 +551,28 @@
    "best": "Duncan Ceramics | Wall Decor | Vintage Duncan Ceramics ...",
    "med": 71,
    "ratio": 2.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941467657",
+   "title": "VINTAGE POLAROID camera",
+   "price": 25,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-vintage-polaroid-camera/bZT1MrmySAjyJVPgSccjdB",
+   "best": "Vintage Polaroid SX-70 OneStep Time-Zero Rainbow Stripe ...",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982632503",
+   "title": "Crystal Wine Glass Collection",
+   "price": 25,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/lansing-crystal-wine-glass-collection/kcCntkwNMV4Yns5T6Hjh9S",
+   "best": "4 Vintage Fostoria WHISPER 6089 CHAMPAGNE Goblet Sherbet ...",
+   "med": 70,
+   "ratio": 2.8,
    "ai_value": ""
   },
   {
@@ -485,6 +595,28 @@
    "best": "Etsy",
    "med": 141,
    "ratio": 2.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932203523",
+   "title": "Vintage Set of 3 Zuni Necklace Pendants or Bracelet Charms",
+   "price": 50,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-set-of-zuni-necklace/3p71pLa6iW3ADP6uD6aUHv",
+   "best": "Etsy",
+   "med": 105,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975254246",
+   "title": "BRACELET: Vintage Braided Gold-Tone. Elegant. Weighty",
+   "price": 40,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-bracelet-vintage-braided/bwJAxLyCm6qJxsYPq4uJJc",
+   "best": "eBay",
+   "med": 81,
+   "ratio": 2.02,
    "ai_value": ""
   },
   {
@@ -551,6 +683,17 @@
    "best": "Facebook",
    "med": 100,
    "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953504329",
+   "title": "R J RICHTER",
+   "price": 65,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/lynn-j-richter/j6Ry4zN7WzsQkgggs6feR9",
+   "best": "Item Relisted! FS Schrade - Walden H -15 | The Outdoors Trader",
+   "med": null,
+   "ratio": null,
    "ai_value": ""
   }
  ],
