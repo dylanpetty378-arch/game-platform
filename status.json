@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:00:13Z",
+ "updated": "2026-10-13T05:03:34Z",
  "tables": {
   "harvests": 3,
-  "searches": 162,
+  "searches": 168,
   "listings": 4607,
-  "lens": 1754,
-  "events": 7261,
-  "comps": 152,
-  "item_types": 641,
+  "lens": 1779,
+  "events": 7291,
+  "comps": 156,
+  "item_types": 754,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 536,
-  "queued": 2886,
-  "lensed": 654,
+  "photo_review/kill": 535,
+  "queued": 2861,
+  "lensed": 666,
   "comps/pass": 1,
-  "decided/ask": 15,
+  "decided/ask": 16,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 193,
+  "flagged": 206,
   "decided/find": 6
  },
  "last_harvests": [
@@ -169,6 +169,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7938178888",
+   "title": "Vintage floor lamp",
+   "price": 60,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/melbourne-vintage-floor-lamp/cEzMuQ72T3dRaHjUKMecqA",
+   "best": "eBay",
+   "med": 8995,
+   "ratio": 149.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7944373282",
    "title": "Vintage Keepsake/Jewelry Boxes",
    "price": 20,
@@ -246,6 +257,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7973837352",
+   "title": "Vintage Reel to Reel",
+   "price": 15,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/north-highlands-vintage-reel-to-reel/3NGGNTpQThShLwpT1GsnGG",
+   "best": "Craigslist",
+   "med": 475,
+   "ratio": 31.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951672842",
+   "title": "Vintage Lucien Piccard Watch",
+   "price": 45,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-lucien-piccard-watch/46qU1XHmAnXY4vrWp9r4BK",
+   "best": "Instagram",
+   "med": 1400,
+   "ratio": 31.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7946978963",
    "title": "Two Vintage Nightstands",
    "price": 40,
@@ -276,6 +309,17 @@
    "best": "1930s Shepherd's Hook Bridge Lamp | Chairish",
    "med": 5000,
    "ratio": 25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958086571",
+   "title": "Antique tables",
+   "price": 75,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/alexander-antique-tables/b3X3qry87j5kiPDPk2nVgJ",
+   "best": "Base: Turned central column resting on a three-legged (tripod) splayed base.",
+   "med": 1800,
+   "ratio": 24,
    "ai_value": ""
   },
   {
@@ -576,6 +620,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935708525",
+   "title": "Illinois license plates, vintage",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/minneapolis-illinois-license-plates/a2cqBXgVgXSF8Lf67vSBbM",
+   "best": "Plates Shown (Top to Bottom, by Column)",
+   "med": 200,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7944905021",
    "title": "Antique Wash Stand W/ Blue flow.",
    "price": 150,
@@ -694,6 +749,17 @@
    "best": "Glitz & Ears Boutique",
    "med": 85,
    "ratio": 8.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949316349",
+   "title": "Crystal Candelabra vintage",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/potomac-crystal-candelabra-vintage/5qu5SgnbPiBd5M2PyrFiGE",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 8.33,
    "ai_value": ""
   },
   {
@@ -948,6 +1014,17 @@
    "med": 395,
    "ratio": 5.64,
    "ai_value": ""
+  },
+  {
+   "pid": "7949682930",
+   "title": "Vintage US Army Footlocker",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/moraga-vintage-us-army-footlocker/kSHGUcg7AsU5yBN5mdUc9g",
+   "best": "Vintage Army Foot Locker - Etsy",
+   "med": 225,
+   "ratio": 5.63,
+   "ai_value": "Value: Typically sells secondhand or through antique marketplaces for roughly $40 to $250,"
   },
   {
    "pid": "7982551224",
@@ -1544,6 +1621,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953973015",
+   "title": "4 Antique Bar  Clamps",
+   "price": 100,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/trenton-antique-bar-clamps/gHafeB45RL1JqznPoguqrs",
+   "best": "Vintage Pony 1/2 inch pipe clamp no. 523 Made in USA Steel ...",
+   "med": 240,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7971181266",
    "title": "Vintage Atomic Amano Time Clock #3633",
    "price": 40,
@@ -1827,6 +1915,17 @@
    "best": "Handle: A wooden shaft with a straight or slightly flared grip, often marked with manufacturer details and dat",
    "med": 100,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963543284",
+   "title": "Magnavox Vintage Tuner",
+   "price": 55,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-magnavox-vintage-tuner/6sMcD5CTSaqb44ZP3yMQxs",
+   "best": "Vintage Magnavox FT-1440 FM AM Digital Synthesized ... - eBay",
+   "med": 90,
+   "ratio": 1.64,
    "ai_value": ""
   },
   {
@@ -2193,6 +2292,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946887101",
+   "title": "Vintage Taylor survival knife",
+   "price": 60,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-vintage-taylor-survival-knife/8QS68bqy2RsTjXVjW98e9C",
+   "best": "Vintage Taylor Seto Japan Hollow Handle Survival Knife ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7982518569",
    "title": "Vintage Blow Mold Snowman",
    "price": 100,
@@ -2210,6 +2320,39 @@
    "area": "tampa",
    "url": "https://www.craigslist.org/view/d/seminole-electronic-battleship-vintage/a1Des6qoeMskWZgaZBPELA",
    "best": "VTG Electronic Battleship 1982 Milton Bradley Game w/ Box ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943747072",
+   "title": "Vintage 1980s Sanyo speakers",
+   "price": 75,
+   "area": "york",
+   "url": "https://www.craigslist.org/view/d/york-vintage-1980s-sanyo-speakers/q4EF8G2uTCpSoC1niDrMPL",
+   "best": "Sanyo SS-664 3 Way Home Floor Standing Speakers for Sale in ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980048714",
+   "title": "Vintage Craftsman miter saw",
+   "price": 20,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-vintage-craftsman-miter-saw/1dzMmSuraPpQpcrKSYp2oR",
+   "best": "Vintage Sears CRAFTSMAN Miter Box 881.36303 | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966627050",
+   "title": "Vintage Dell desktop case",
+   "price": 12,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/katy-vintage-dell-desktop-case/pjTFooAhUoLMSBP4LPVSvV",
+   "best": "Dell Optiplex GX240 / 240 computer Intel pentium 4 Windows ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
@@ -2309,7 +2452,7 @@
    "price": 75,
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/morrisville-antique-straight-razors/8uQhfPXk8JhyUDswYxhWiM",
-   "note": "9 German straight razors (Star, Master, Spike, Real, Heartring, Mondo, Roland), 2 shown boxed near-unused (P. Wichert Philadelphia). Body: minor wear. German razors ~$20\u201340 each sold \u2192 lot ~$200\u2013300; profit ~$100\u2013150 at $75. ASK: photos of both sides of all 9 blades + edges (chips, hones wear, rust).",
+   "note": "Terapeak: Heartring singles $25\u201345 (n=5); razor lots sell cheap ($10\u201320 per 3\u20136). Sold singly 9 \u00d7 ~$27 \u2248 $240 gross \u2192 ~$120 profit at $75 \u2192 Tier B. ASK: blade photos both sides, edges.",
    "stage": "decided",
    "status": "ask"
   },
@@ -2350,6 +2493,16 @@
    "area": "cleveland",
    "url": "https://www.craigslist.org/view/d/pitcairn-vintage-1960s-bossons-heads/8npdH4uVcqX4yHNHvABQPS",
    "note": "24 Bossons (Congleton, England) chalkware heads, 1960s; body: $5 each or $100 the set, some small chips. Terapeak singles median $16\u201322, mixed lots $67\u2013140. Sold singly (buyer pays ship) ~$360\u2013480 gross \u2192 ~$200+ profit at $100 but 24 listings; as 3\u20134 themed sets less. ASK: back stamps, which have chips; offer ~$75 for all.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7982335326",
+   "title": "Vintage Hummel Figurines",
+   "price": 15,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/richmond-vintage-hummel-figurines/vQodnYWAmNzSDgPM9mzZa3",
+   "note": "Terapeak: TMK-2 full-bee singles median $25 (p25 $17, p75 $45, n=49). 20 \u00d7 ~$25\u201330 \u2192 ~$500\u2013600 gross sold singly; at $200 profit \u2248 $200\u2013250 after fees/inbound ship (buyers pay outbound) \u2192 Tier B, labor 20 listings, fragile. Offer $200 (cap). ASK: base marks + model numbers (larger/rarer models like Chimney Sweep 12, Angel Serenade push it up).",
    "stage": "decided",
    "status": "ask"
   },

@@ -7264,3 +7264,28 @@
 {"ts":"2026-10-13T05:00:50Z","pid":"7945764934","stage":"photo_review","status":"kill","type":"antique-maps","note":"body: $20+ per page","run":"research-20261013d"}
 {"ts":"2026-10-13T05:01:59Z","pid":"7982335326","stage":"decided","status":"ask","type":"hummel-figurines","note":"Terapeak: TMK-2 full-bee singles median $25 (p25 $17, p75 $45, n=49). 20 × ~$25–30 → ~$500–600 gross sold singly; at $200 profit ≈ $200–250 after fees/inbound ship (buyers pay outbound) → Tier B, labor 20 listings, fragile. Offer $200 (cap). ASK: base marks + model numbers (larger/rarer models like Chimney Sweep 12, Angel Serenade push it up).","run":"leadcheck-20261013","data":{"price":200,"est_resale":550,"tier":"B"}}
 {"ts":"2026-10-13T05:01:59Z","pid":"7982456682","stage":"decided","status":"ask","type":"straight-razors","note":"Terapeak: Heartring singles $25–45 (n=5); razor lots sell cheap ($10–20 per 3–6). Sold singly 9 × ~$27 ≈ $240 gross → ~$120 profit at $75 → Tier B. ASK: blade photos both sides, edges.","run":"leadcheck-20261013","data":{"price":75,"est_resale":240,"tier":"B"}}
+{"ts":"2026-10-13T05:00:02Z","pid":"7943747072","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:00:09Z","pid":"7981458099","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":28,"ratio":1.4}}
+{"ts":"2026-10-13T05:00:17Z","pid":"7935708525","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":200,"ratio":10}}
+{"ts":"2026-10-13T05:00:25Z","pid":"7980048714","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:00:33Z","pid":"7980222276","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:00:42Z","pid":"7979483955","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:00:51Z","pid":"7966627050","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:00:59Z","pid":"7982502999","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":40,"ratio":4}}
+{"ts":"2026-10-13T05:01:07Z","pid":"7935142558","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":30,"ratio":1.5}}
+{"ts":"2026-10-13T05:01:15Z","pid":"7982501775","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":45,"ratio":4.5}}
+{"ts":"2026-10-13T05:01:24Z","pid":"7981192392","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":26,"ratio":1.3}}
+{"ts":"2026-10-13T05:01:33Z","pid":"7958086571","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":1800,"ratio":24}}
+{"ts":"2026-10-13T05:01:41Z","pid":"7945236739","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":47,"ratio":0.47}}
+{"ts":"2026-10-13T05:01:49Z","pid":"7953633532","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":59,"ratio":1.69}}
+{"ts":"2026-10-13T05:01:57Z","pid":"7938178888","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":8995,"ratio":149.92}}
+{"ts":"2026-10-13T05:02:05Z","pid":"7955078853","stage":"lensed","run":"lensworker-20261013-0456","data":{"med":70,"ratio":1.4}}
+{"ts":"2026-10-13T05:02:14Z","pid":"7953973015","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":240,"ratio":2.4}}
+{"ts":"2026-10-13T05:02:21Z","pid":"7963543284","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":90,"ratio":1.64}}
+{"ts":"2026-10-13T05:02:28Z","pid":"7973837352","stage":"flagged","run":"lensworker-20261013-0456","data":{"med":475,"ratio":31.67}}
+{"ts":"2026-10-13T05:02:38Z","pid":"7949682930","stage":"flagged","run":"lensworker-20261013-0500","data":{"med":225,"ratio":5.63}}
+{"ts":"2026-10-13T05:02:48Z","pid":"7939666055","stage":"lensed","run":"lensworker-20261013-0500","data":{"med":30,"ratio":1}}
+{"ts":"2026-10-13T05:02:55Z","pid":"7946887101","stage":"flagged","run":"lensworker-20261013-0500","data":{"med":null,"ratio":null}}
+{"ts":"2026-10-13T05:03:03Z","pid":"7949316349","stage":"flagged","run":"lensworker-20261013-0500","data":{"med":250,"ratio":8.33}}
+{"ts":"2026-10-13T05:03:10Z","pid":"7982533275","stage":"lensed","run":"lensworker-20261013-0500","data":{"med":45,"ratio":0.56}}
+{"ts":"2026-10-13T05:03:18Z","pid":"7951672842","stage":"flagged","run":"lensworker-20261013-0500","data":{"med":1400,"ratio":31.11}}
