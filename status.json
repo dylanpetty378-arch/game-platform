@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:02:03Z",
+ "updated": "2026-10-13T14:05:25Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5162,
-  "events": 15097,
+  "lens": 5187,
+  "events": 15122,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 781,
-  "queued": 1078,
+  "lensed": 800,
+  "queued": 1053,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 392,
-  "flagged": 573,
+  "queued/relens": 394,
+  "flagged": 577,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -3890,6 +3890,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951633927",
+   "title": "Antique Porcelain   China Retro 1920's Soup / Casserole / Server",
+   "price": 30,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/old-bridge-antique-porcelain-china/ofbHDrXMXPBp9EcQn4jR4W",
+   "best": "Antique New Wharf Pottery Roseville Brown Transferware ...",
+   "med": 99,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7970091984",
    "title": "Skis Head wood vintage",
    "price": 30,
@@ -5771,6 +5782,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978156215",
+   "title": "Vintage Honeywell Pentax spotmatic 35 mm camera",
+   "price": 150,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-honeywell-pentax/oC1duzUTfuoWFUuWmNuvJ6",
+   "best": "Pentax Honeywell Spotmatic 35mm Camera with Super Takumar ...",
+   "med": 190,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7980894321",
    "title": "15 Old Cell Phones",
    "price": 100,
@@ -5980,6 +6002,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932577690",
+   "title": "Vintage Brutalist Carved Wood Owl Sculpture Mid Century",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/pasadena-vintage-brutalist-carved-wood/pPw686iRB14NQTm5phNUvf",
+   "best": "Wood Owl Sculpture Hand Carved Figurine Signed Norman ...",
+   "med": 82,
+   "ratio": 0.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7933778658",
    "title": "18\"  American Indian Liquid Sterling Silver Turquoise Beads 20.6g",
    "price": 177,
@@ -6009,6 +6042,17 @@
    "url": "https://www.craigslist.org/view/d/holmen-antique-gumball-machine/a3onGSmV2uZ4rfQgSzBWB6",
    "best": "CAROUSEL King Size GUMBALL MACHINE - Vintage - 14\" - EUC! | eBay",
    "med": 80,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974939060",
+   "title": "17 pcs of candlewick glasswear",
+   "price": 125,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-17-pcs-of-candlewick/c2ZG4axirQqUaxFcFQeybT",
+   "best": "Imperial Glass Candlewick Relish Divided Dish Nappy Plates ...",
+   "med": 100,
    "ratio": 0.8,
    "ai_value": ""
   },
