@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T04:03:17Z",
+ "updated": "2026-10-13T04:06:58Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1404,
-  "events": 6906,
+  "lens": 1429,
+  "events": 6931,
   "comps": 12,
   "item_types": 217,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3237,
-  "lensed": 466,
+  "queued": 3212,
+  "lensed": 479,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 309,
@@ -21,7 +21,7 @@
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 34
+  "flagged": 46
  },
  "last_harvests": [
   {
@@ -246,6 +246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982444019",
+   "title": "Harbor Haven \u2013 Hand-Painted Coastal Artwork",
+   "price": 100,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/fort-collins-harbor-haven-hand-painted/rY9tpKbUsioXuHguuYfoog",
+   "best": "Quadro Impressionista Grande Sailor Village",
+   "med": 1100,
+   "ratio": 11,
+   "ai_value": ""
+  },
+  {
    "pid": "7941957882",
    "title": "Vintage Westwood industries Brass Candelabra",
    "price": 140,
@@ -290,6 +301,28 @@
    "ai_value": "Price: Typically ranges from about $19"
   },
   {
+   "pid": "7930916178",
+   "title": "Melody In Motion Balloon Clown",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/mamaroneck-melody-in-motion-balloon/hGuK5CaavjCLWApFnDCYVb",
+   "best": "Manufacturer: Waco",
+   "med": 92,
+   "ratio": 9.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959496509",
+   "title": "Pottery, hand thrown bowls and plant pots",
+   "price": 25,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/encinitas-pottery-hand-thrown-bowls-and/tZs2JiGipUm2gBctAx2G4Y",
+   "best": "Century Blue Swirl Bowl 6\u201d Diameter 3.5\u201d Tall- Estate Find | eBay",
+   "med": 225,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
    "pid": "7952998598",
    "title": "Vintage Gold-tone with Rhinestones Mesh Flower Necklace with earrings",
    "price": 10,
@@ -301,6 +334,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981187280",
+   "title": "Antique Vintage 1870s Hurricane Lamp",
+   "price": 125,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/armonk-antique-vintage-1870s-hurricane/pLzg9mUTX8YThyup4N7rjq",
+   "best": "Chairish",
+   "med": 995,
+   "ratio": 7.96,
+   "ai_value": "Value: Typically ranges from about $130"
+  },
+  {
    "pid": "7940658227",
    "title": "Antique Art in Antique Silver-colored Frame",
    "price": 25,
@@ -310,6 +354,17 @@
    "med": 195,
    "ratio": 7.8,
    "ai_value": "sell secondhand between $50"
+  },
+  {
+   "pid": "7953692146",
+   "title": "Candelabra Girandole Brass, Crystal Marble 3 candle",
+   "price": 70,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/potomac-candelabra-girandole-brass/c3yCaiHozKYM57hkodXoWp",
+   "best": "eBay",
+   "med": 395,
+   "ratio": 5.64,
+   "ai_value": ""
   },
   {
    "pid": "7955338809",
@@ -389,6 +444,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7953404007",
+   "title": "Vintage 1970s Tiffany-Style Slag Glass Pendant Lamp Shade Bar Pizza Am",
+   "price": 50,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-vintage-1970s-tiffany-style/jDysugkx6WxmpZCkTZS2yJ",
+   "best": "Vintage Stained Glass Hanging Lamp Shade Amber Brown Cream ...",
+   "med": 140,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982470083",
+   "title": "Vintage Atkins Saw",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/bethel-vintage-atkins-saw/poDZUvPbwjXZmB2cLzLfkW",
+   "best": "eBay",
+   "med": 195,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7977535650",
    "title": "Vintage Earthenware Stoneware Pottery Pot with Lid",
    "price": 35,
@@ -422,6 +499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943336347",
+   "title": "Antic Chinese hand painting on silk",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-antic-chinese-hand-painting/mEH9iFiuafbiEC6kMCaBFu",
+   "best": "Asian watercolor painting on silk paper, Bird with Orange ...",
+   "med": 135,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7982498625",
    "title": "KALA  KA-CG",
    "price": 80,
@@ -431,6 +519,17 @@
    "med": 179,
    "ratio": 2.24,
    "ai_value": "priced around $149"
+  },
+  {
+   "pid": "7972481088",
+   "title": "Vintage Post Office Mail Box Doors",
+   "price": 40,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-post-office-mail/vyd1nkCVuJyYBo3W6vsq9G",
+   "best": "Vintage Corbin Double Dial US Eagle Post Office Box Door ...",
+   "med": 85,
+   "ratio": 2.13,
+   "ai_value": ""
   },
   {
    "pid": "7977806289",
@@ -477,6 +576,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979775990",
+   "title": "Vintage Tiffany Stained Glass Large 24\" Hanging Lamp Shade",
+   "price": 200,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/armonk-vintage-tiffany-stained-glass/gBRemFWkujVpR1CeAyPup8",
+   "best": "Craigslist",
+   "med": 239,
+   "ratio": 1.2,
+   "ai_value": "Value: Typically resells online between $200"
+  },
+  {
    "pid": "7965781935",
    "title": "Teapot Collection (6)",
    "price": 100,
@@ -486,6 +596,17 @@
    "med": 90,
    "ratio": 0.9,
    "ai_value": ""
+  },
+  {
+   "pid": "7929980407",
+   "title": "Vintage J. Fisher Lyons NY Stoneware Jug Brown Crock Stone Ware",
+   "price": 125,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/arroyo-grande-vintage-fisher-lyons-ny/djRnV3wFLbCi2YrRMP1S37",
+   "best": "Details",
+   "med": 95,
+   "ratio": 0.76,
+   "ai_value": "sell between $60"
   },
   {
    "pid": "7947434910",
@@ -541,6 +662,17 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7975233585",
+   "title": "Vintage Brass Hookah",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-brass-hookah/p9XZ1ArWs3t3oPTk8setcT",
+   "best": "Vintage Brass Hookah For $25 In San Francisco, CA | For Sale ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": "value or list it for sale? Nextdoor Vintage Brass Hookah For $25"
   }
  ],
  "finds": [
