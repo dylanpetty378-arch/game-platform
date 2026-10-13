@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Refurbish Lens worker
 // @namespace    refurbish
-// @version      1.1.0
+// @version      1.2.0
 // @description  Runs Google Lens on the Refurbish queue in ONE dedicated tab, one fresh page per listing (memory never builds up), saves every result immediately, uploads them to the database in batches.
 // @match        https://www.google.com/robots.txt?refurb*
 // @match        https://www.google.com/search*
@@ -71,7 +71,6 @@
   async function refillQueue() {
     try {
       const m = JSON.parse((await gmGet(RAW + '/q/current/meta.json')).responseText);
-      if (m.id === G('qid', '') && G('queue', []).length) return false;
       if (m.id === G('qid', '')) return false;
       const txt = (await gmGet(RAW + '/q/current/queue.txt')).responseText.trim();
       const done = new Set(G('done', []));
@@ -102,7 +101,9 @@
     if (!G('active', false)) return showControl();
     const pauseUntil = G('pauseUntil', 0); if (pauseUntil > now()) { location.href = CONTROL; return; }
     let q = G('queue', []);
-    if (!q.length) { await refillQueue(); q = G('queue', []); }
+    // switch to a newer cloud queue as soon as one exists (checked every 40 items): always work the freshest, best-scored listings
+    const st0 = stats();
+    if (!q.length || (st0.done && st0.done % 40 === 0 && G('lastQCheck', -1) !== st0.done)) { S('lastQCheck', st0.done); await refillQueue(); q = G('queue', []); }
     if (!q.length) { S('idleSince', now()); location.href = CONTROL; return; }
     const st = stats();
     let wait = delay ?? PAUSE_MS + Math.random() * 1500;

@@ -76,8 +76,21 @@ def build_queue(maxn=3000, days=10):
     cur = latest_stage(); cutoff = time.time() - days * 86400
     L = {str(r['pid']): r for r in db.read('listings')}
     pend = [L[p] for p, e in cur.items() if e['stage'] == 'queued' and p in L and (L[p].get('posted') or 0) >= cutoff]
+    # best score first; within one score, newest first and rotated across areas so one big metro can't fill the queue
     pend.sort(key=lambda r: (-(r.get('score') or 0), -(r.get('posted') or 0)))
-    pend = pend[:maxn]
+    out, i = [], 0
+    while i < len(pend) and len(out) < maxn:
+        j = i
+        while j < len(pend) and (pend[j].get('score') or 0) == (pend[i].get('score') or 0): j += 1
+        tier, by = pend[i:j], {}
+        for r in tier: by.setdefault(r.get('area'), []).append(r)
+        lanes = list(by.values())
+        while any(lanes) and len(out) < maxn:
+            for ln in lanes:
+                if ln and len(out) < maxn: out.append(ln.pop(0))
+            lanes = [ln for ln in lanes if ln]
+        i = j
+    pend = out
     os.makedirs(os.path.join(ROOT, 'q', 'current'), exist_ok=True)
     open(os.path.join(ROOT, 'q', 'current', 'queue.txt'), 'w').write(';'.join(f"{r['imgs'][0]},{r['price']},{r['pid']}" for r in pend))
     qid = datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%d-%H%M')
