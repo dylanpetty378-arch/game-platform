@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:15:21Z",
+ "updated": "2026-10-13T09:18:45Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3354,
-  "events": 11140,
+  "lens": 3379,
+  "events": 11165,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 540,
-  "queued": 2086,
+  "lensed": 555,
+  "queued": 2061,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 341,
-  "flagged": 402,
+  "flagged": 412,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -753,6 +753,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951056564",
+   "title": "VINTAGE ART GLASS VASE",
+   "price": 50,
+   "area": "watertown",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-art-glass-vase/a3YnHWZgws7Ay73RFzgMq4",
+   "best": "eBay",
+   "med": 859,
+   "ratio": 17.18,
+   "ai_value": ""
+  },
+  {
    "pid": "7982635866",
    "title": "Seiko Angled Desk Clock",
    "price": 10,
@@ -1138,6 +1149,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963605909",
+   "title": "Vintage Clothing",
+   "price": 35,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/scranton-vintage-clothing/wb9FG8reoMtkZX1kaiJd2y",
+   "best": "FabGabs",
+   "med": 349,
+   "ratio": 9.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7955597809",
    "title": "Vintage Antique Radio",
    "price": 20,
@@ -1512,6 +1534,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960393677",
+   "title": "Vintage Bib Statement necklace",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-bib-statement-necklace/sKwJFYkJtZ7y8vJZTUucE4",
+   "best": "Etsy",
+   "med": 245,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7976998032",
    "title": "Old military wool pants and more",
    "price": 10,
@@ -1520,6 +1553,17 @@
    "best": "Craigslist",
    "med": 70,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976874981",
+   "title": "VINTAGE LEATHER JACKET (BRN)",
+   "price": 30,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-vintage-leather-jacket-brn/4WF6kEQE9HkyrWQheHQeGX",
+   "best": "eBay",
+   "med": 200,
+   "ratio": 6.67,
    "ai_value": ""
   },
   {
@@ -1651,6 +1695,17 @@
    "url": "https://www.craigslist.org/view/d/denver-vintage-shoei-helmet/9QaN7jN6zjJgh5inDUmebx",
    "best": "Craigslist",
    "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956624401",
+   "title": "Vintage Schwinn Mirada Frames",
+   "price": 40,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/tijeras-vintage-schwinn-mirada-frames/2avGw2u6sfvozYiiU44GN9",
+   "best": "Craigslist",
+   "med": 250,
    "ratio": 6.25,
    "ai_value": ""
   },
@@ -2040,6 +2095,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944414915",
+   "title": "OLD BIRD FEEDER",
+   "price": 15,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-old-bird-feeder/euiotESQymkt1eSwkFG2G3",
+   "best": "no!no! Seed Feeder Wildlife Bird Feeder for sale | eBay",
+   "med": 75,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7940953492",
    "title": "Old metal Sawzall  cases",
    "price": 30,
@@ -2246,6 +2312,17 @@
    "best": "Craigslist",
    "med": 90,
    "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944056566",
+   "title": "Vintage Honeywell Cameras",
+   "price": 39,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-honeywell-cameras/h1vuZhTPyjdPP7XC9nvT8W",
+   "best": "RARE* Honeywell Elmo Compact Super Filmatic 103 Movie Camera ...",
+   "med": 175,
+   "ratio": 4.49,
    "ai_value": ""
   },
   {
@@ -3657,6 +3734,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949429990",
+   "title": "vintage lamp",
+   "price": 85,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/ottumwa-vintage-lamp/tkSdRKhMV5BnThm8RcfdPR",
+   "best": "2 Carl Falkenstein MCM three-way blue flower Lamps, like new ...",
+   "med": 171,
+   "ratio": 2.01,
+   "ai_value": ""
+  },
+  {
    "pid": "7947544303",
    "title": "VINTAGE LORRAINE TRESTER ENAMEL COPPER ART PAINTING-PLAQUE GIRL & SWAN",
    "price": 75,
@@ -4493,12 +4581,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7980108927",
+   "title": "4 Antique Toasters",
+   "price": 25,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/redding-antique-toasters/2zArc7YbbYoVVnLfw99rKx",
+   "best": "Bersted MOdel 71 Electric Toaster McGraw Electric Co. Art ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7980264375",
    "title": "Archery stuff",
    "price": 50,
    "area": "chico",
    "url": "https://www.craigslist.org/view/d/petaluma-archery-stuff/vUDv4BmnxT4gCTtRTfNLQF",
    "best": "Barely Used Barnett Centershot Mossy Oak Recurve Bow Ages 5 ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982192691",
+   "title": "Pocket Knifes vintage",
+   "price": 10,
+   "area": "quadcities",
+   "url": "https://www.craigslist.org/view/d/bellwood-pocket-knifes-vintage/8vKuU9E3nzSd1cKc93nbuu",
+   "best": "Top Knife: An Imperial Prov USA Kamp King utility/scout pocket knife featuring black jigged/molded handles, a ",
    "med": null,
    "ratio": null,
    "ai_value": ""
