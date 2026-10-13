@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:58:34Z",
+ "updated": "2026-10-13T14:02:03Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5137,
-  "events": 15072,
+  "lens": 5162,
+  "events": 15097,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 768,
-  "queued": 1103,
+  "lensed": 781,
+  "queued": 1078,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 388,
-  "flagged": 565,
+  "queued/relens": 392,
+  "flagged": 573,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -555,6 +555,17 @@
    "med": 898,
    "ratio": 44.9,
    "ai_value": "Price: Typically priced around $0"
+  },
+  {
+   "pid": "7975348986",
+   "title": "Silverplate Flatware set",
+   "price": 80,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/swedesboro-silverplate-flatware-set/st6CWwzFq87Xj8PYVytZut",
+   "best": "1881 Rogers Oneida Vintage Silver Plate 1967 Baroque Rose ...",
+   "med": 3495,
+   "ratio": 43.69,
+   "ai_value": ""
   },
   {
    "pid": "7947925261",
@@ -2625,6 +2636,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950834673",
+   "title": "Antique hand made copper roasting pan",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/silver-spring-antique-hand-made-copper/b9Zgh5934U6m6gWgBmQQUr",
+   "best": "Antique Copper Planter - Etsy",
+   "med": 455,
+   "ratio": 5.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7953513200",
    "title": "Vintage Microscope Slide Case",
    "price": 15,
@@ -2733,6 +2755,17 @@
    "med": 333,
    "ratio": 5.55,
    "ai_value": "Value/Market: These vintage Italian silver relief plaques typically resell between $4"
+  },
+  {
+   "pid": "7944660846",
+   "title": "Vintage McKee & Bros. Footed Compote, Pilgrim",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-mckee-bros-footed/1hVPb7af58rCmxEgViGMnX",
+   "best": "EAPG McKee & Brothers PILGRIM; MAJESTIC Compote 7.5\"t x 9.5 ...",
+   "med": 111,
+   "ratio": 5.55,
+   "ai_value": ""
   },
   {
    "pid": "7981540824",
@@ -4030,6 +4063,17 @@
    "best": "Coupon Exempt",
    "med": 125,
    "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981597803",
+   "title": "Vintage souvenir paperweight",
+   "price": 25,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-souvenir/6DbfqxM1XQRMV6bDay8K7Z",
+   "best": "Craigslist",
+   "med": 78,
+   "ratio": 3.12,
    "ai_value": ""
   },
   {
@@ -5881,6 +5925,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977192063",
+   "title": "Vintage Gerber COHO Knife with Original Sheath",
+   "price": 100,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-gerber-coho-knife/eKVPepvXBez6TH89MZJYY7",
+   "best": "Vintage Gerber Coho 60's-70's Fishing Knife Portland OR USA ...",
+   "med": 90,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7928450032",
    "title": "Light Green Tourmaline and Sterling Silver Ring",
    "price": 118,
@@ -6514,6 +6569,39 @@
    "area": "hudsonvalley",
    "url": "https://www.craigslist.org/view/d/kingston-vintage-imperial-usa-stainless/xpyvLiedg1KLG8gB5afki7",
    "best": "Fjord Japan Fishing Stainless Steel 6 Inch Fillet Knife w ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978159767",
+   "title": "Vintage boy scouts of America utensil set",
+   "price": 50,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-boy-scouts-of/k5z3JKh3Szk8g13F8u5rJf",
+   "best": "George Schrade Vintage Boy Scout Fork Spoon Knife Utensil ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950818004",
+   "title": "PIPES. Vintage Lot of 8 Stone and Metal Wood Stash Box Steampunk Pipe",
+   "price": 95,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-pipes-vintage-lot-of/gCTi8FY4C9n8kvNuZPbDSF",
+   "best": "Rolling Accessories: A classic cigarette/paper roller and two vintage mid-century packs of Zig-Zag rolling pap",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981593198",
+   "title": "Vintage Decorative bowl hand-paint ed",
+   "price": 65,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/riverside-vintage-decorative-bowl-hand/8UYWVhJGgFmwYWJGqQn61M",
+   "best": "Chairish",
    "med": null,
    "ratio": null,
    "ai_value": ""
