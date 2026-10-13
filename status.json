@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:14:54Z",
+ "updated": "2026-10-13T23:19:14Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7174,
-  "events": 26594,
+  "lens": 7199,
+  "events": 26619,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 395,
+  "lensed": 404,
   "comps/pass": 1,
-  "queued/relens": 337,
+  "queued/relens": 340,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 615,
+  "flagged": 628,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 479
+  "queued": 454
  },
  "last_harvests": [
   {
@@ -756,6 +756,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982877120",
+   "title": "BOWLBACK MANDOLIN",
+   "price": 10,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/clementon-bowlback-mandolin/h34pZXd8tkJUrVV5qBi7BH",
+   "best": "Prudencio Saez Mandolina S | Reverb Belgium",
+   "med": 384,
+   "ratio": 38.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968207213",
+   "title": "Crescent Moon Silver Pendant/Green Malachite Stone Handmade",
+   "price": 5,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-crescent-moon-silver-pendant/gjM8qLV92mHuhMiuCL5ipD",
+   "best": "To the Moon and Back Pendant / Crescent Pendant / Sterling ...",
+   "med": 189,
+   "ratio": 37.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7955728380",
    "title": "Vintage Stone & Shell Necklace",
    "price": 10,
@@ -764,6 +786,17 @@
    "best": "Craigslist",
    "med": 350,
    "ratio": 35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982895771",
+   "title": "Dresden Royal Figurines Handpainted-Japan",
+   "price": 15,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/keizer-dresden-royal-figurines/78h76S7ZrHCFPmxxVcup2A",
+   "best": "Lot - 3 Vintage Dresden German Lace Decorated Figurines",
+   "med": 513,
+   "ratio": 34.2,
    "ai_value": ""
   },
   {
@@ -1152,6 +1185,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943899772",
+   "title": "Glass Vase",
+   "price": 25,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/richmond-glass-vase/8t4UJFHtWSmMewZPdYbAdc",
+   "best": "romanian mouthblown glass amber | eBay",
+   "med": 325,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
    "pid": "7953914312",
    "title": "Beautiful Vintage Lamp",
    "price": 10,
@@ -1170,6 +1214,17 @@
    "url": "https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/6hzZWsY7KGRqZ1GCt53iDo",
    "best": "Vintage Urn Style Porcelain Hand Painted Floral Motif With ...",
    "med": 126,
+   "ratio": 12.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954717171",
+   "title": "Hand painted large Mexican urn",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/haverhill-hand-painted-large-mexican-urn/3RFwTfGwk4E56xwuUxZNue",
+   "best": "Talavera Mexican Pottery Ginger Jar 17\" Yellow/Blue/Green ...",
+   "med": 315,
    "ratio": 12.6,
    "ai_value": ""
   },
@@ -1490,6 +1545,17 @@
    "best": "Towle Huge 17\u201d Silverplated Serving Tray Vintage Incredible ...",
    "med": 225,
    "ratio": 9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952517572",
+   "title": "Sterling Silver Kokopelli Broach",
+   "price": 30,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-sterling-silver-kokopelli/kFsXpFK6BsRDRdXBUnG9SE",
+   "best": "NATIVE AMERICAN Sterling Silver Onyx KOKOPELLI ...",
+   "med": 264,
+   "ratio": 8.8,
    "ai_value": ""
   },
   {
@@ -2010,6 +2076,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942432767",
+   "title": "Vintage 1985 Beachcomber Decorative key chains, 4\"",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-1985-beachcomber/v7rawcu9w1vFVHN4p3327N",
+   "best": "Vintage 80's The Beachcombers Intl 1988 Keyring Key Chain | eBay",
+   "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7945033825",
    "title": "Cross pendant 14 kt solid gold",
    "price": 30,
@@ -2127,6 +2204,17 @@
    "url": "https://www.craigslist.org/view/d/college-place-elgin-railroad-pocket/6jSSkUGDt3kmxd8W3sFYL4",
    "best": "Etsy",
    "med": 2100,
+   "ratio": 5.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952401728",
+   "title": "Antique Ryubundo Signed Japanese Tetsubin Cast Iron Kettle 19th Centur",
+   "price": 175,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-antique-ryubundo-signed/4r8AZbTSd4shnu58RsA9as",
+   "best": "Antique Ryubundo Signed Japanese Tetsubin Cast Iron Kettle ...",
+   "med": 980,
    "ratio": 5.6,
    "ai_value": ""
   },
@@ -3407,6 +3495,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965406095",
+   "title": "Old Antique Butter Church Pottery Vintage Stonewear",
+   "price": 55,
+   "area": "northmiss",
+   "url": "https://www.craigslist.org/view/d/coffeeville-old-antique-butter-church/gc9E6F7gg1UVDb82RkAyPD",
+   "best": "Antique Davis Brothers Three-Gallon Pottery Churn | eBay",
+   "med": 160,
+   "ratio": 2.91,
+   "ai_value": ""
+  },
+  {
    "pid": "7982940801",
    "title": "knife collection",
    "price": 50,
@@ -3506,6 +3605,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930857446",
+   "title": "Antique Asian dragon tea set lithophane geisha",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/la-mesa-antique-asian-dragon-tea-set/iEaZUZH6UXa98QuxweB6su",
+   "best": "Japanese Teapot Set - Etsy",
+   "med": 140,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7980554475",
    "title": "10 K 18\" Singapore chain  ecklace",
    "price": 110,
@@ -3601,6 +3711,17 @@
    "url": "https://www.craigslist.org/view/d/saint-paul-60s-vintage-kessler-whiskey/c7vT8vC3amLb6xNDh9uf3L",
    "best": "Vintage/Antique Kessler Whiskey Baseball Player Figure Lamp ...",
    "med": 165,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949334936",
+   "title": "Vintage Roberson Shuredge safety award pocket knife",
+   "price": 40,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-roberson-shuredge/wwBFJF7tmz44Xcbhi2nShY",
+   "best": "Vintage Robeson ShurEdge Safety First Pays Award Knife ...",
+   "med": 110,
    "ratio": 2.75,
    "ai_value": ""
   },
@@ -4250,6 +4371,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-vintage-hobnail-pink-bowl/u8AYDz5wixKqWDZEECyTo3",
    "best": "Vintage COMPOTE Large VASE DISH Fenton Pastel Pink Hobnail ...",
    "med": 125,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971829080",
+   "title": "Vtg Turquoise Dainty Sterling Silver Native American Cuff Bracelet",
+   "price": 65,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-vtg-turquoise-dainty-sterling/cxMJNxaqVNNyQKQK82gLcN",
+   "best": "Native American Sterling Silver and Turquoise Cuff Bracelet ...",
+   "med": 135,
    "ratio": 2.08,
    "ai_value": ""
   },
@@ -7153,6 +7285,17 @@
    "area": "tallahassee",
    "url": "https://www.craigslist.org/view/d/crawfordville-hunting-knife/eiq7M1dctqHFqLphzgtEwX",
    "best": "Schrade Uncle Henry Knife 153UH w/ Sheath & Stone New in ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950283296",
+   "title": "QUEEN 26A KNIFE",
+   "price": 39,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-queen-26a-knife/jefEmzG3dUruVFoesNbMYD",
+   "best": "Boker Plus 4-Blade Yellow Handle Congress Pocket Knife ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
