@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-13T18:34:56Z",
+ "updated": "2026-10-13T18:39:10Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6803,
-  "events": 24085,
+  "lens": 6828,
+  "events": 24110,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6655,
-  "lensed": 315,
+  "lensed": 325,
   "comps/pass": 1,
-  "queued/relens": 264,
+  "queued/relens": 269,
   "decided/ask": 87,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 398,
+  "flagged": 408,
   "comps/fail": 5,
   "expired": 9,
   "decided/bundle": 7,
   "decided/find": 8,
-  "queued": 50
+  "queued": 25
  },
  "last_harvests": [
   {
@@ -967,6 +967,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928936201",
+   "title": "OLDER JOHNSON REELS",
+   "price": 20,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/gillett-older-johnson-reels/5mf6BExP3XSfMzWn8GB6Bf",
+   "best": "Vintage Fishing Reel Johnson Century | eBay",
+   "med": 225,
+   "ratio": 11.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7959986586",
    "title": "Vintage Vase",
    "price": 40,
@@ -1231,6 +1242,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981671243",
+   "title": "Vintage ice-skating pendant",
+   "price": 25,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/brooksville-vintage-ice-skating-pendant/eSLjY86yY4P8f9WP7c1MMi",
+   "best": "VTG BEAU STERLING SILVER CHARM FIGURE SKATING SHOE SKATE | eBay",
+   "med": 193,
+   "ratio": 7.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7980320721",
    "title": "Drum Stuff",
    "price": 30,
@@ -1260,6 +1282,17 @@
    "url": "https://www.craigslist.org/view/d/la-jolla-phoenix-rising-antique-chinese/t6vAmUdBMMsPzSoLk8nDwh",
    "best": "Vintage Blue Cloisonn\u00e9 Enamel Brass Jar Table Lamp Floral ...",
    "med": 725,
+   "ratio": 7.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939149225",
+   "title": "Chinese Scenery Drawing",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-chinese-scenery-drawing/wAjtJ5PdmTG7vK6dzdsHzh",
+   "best": "Vintage Wall Art \u2014 Fox & Thistle Studio",
+   "med": 145,
    "ratio": 7.25,
    "ai_value": ""
   },
@@ -1352,6 +1385,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949056244",
+   "title": "Vintage painting of Girl and her Flowers",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/covina-vintage-painting-of-girl-and-her/grx5BWEgT4HBpEuzBqccub",
+   "best": "PATRICIA WELCH \"Flower Girl\" Original Mid Century Modern ...",
+   "med": 135,
+   "ratio": 6.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7973140689",
    "title": "Vintage lighter Zaima Chateau",
    "price": 45,
@@ -1393,6 +1437,17 @@
    "best": "Earrings: A pair of rectangular/geometric clip-on earrings featuring matching multi-colored art glass or ename",
    "med": 65,
    "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940288086",
+   "title": "4 Vintage Christmas Small Round Plastic Victorian Ornaments.",
+   "price": 20,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-christmas-small/u56uKaJXAkxHiFb3fBnUK1",
+   "best": "Vintage Miniature World of Peter Bates Ltd \u2022 Set of 3 Cameo ...",
+   "med": 129,
+   "ratio": 6.45,
    "ai_value": ""
   },
   {
@@ -2045,6 +2100,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7946715646",
+   "title": "Wagner Ware Sidney -O- #3",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/glenview-wagner-ware-sidney/b4bqYik4ftv9V7ikHwVVZr",
+   "best": "What is the value of this cruddy cast iron pan?",
+   "med": 90,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934842564",
+   "title": "Post cards",
+   "price": 5,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/covina-post-cards/5wgT71QqLz242k5hdfKDUU",
+   "best": "Geronimo Apache Native American Medicine Man Indian ...",
+   "med": 18,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7955421863",
    "title": "vintage officer army cap hat",
    "price": 22,
@@ -2075,6 +2152,17 @@
    "best": "JAPANESE SATSUMA PEACOCK VINTAGE PORCELAIN VASE WITH LID | eBay",
    "med": 89,
    "ratio": 3.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972596543",
+   "title": "*Sale*Vintage Lead Crystal Decanter/Vase..VERY Nice Piece",
+   "price": 25,
+   "area": "killeen",
+   "url": "https://www.craigslist.org/view/d/kempner-salevintage-lead-crystal/2WbELqybGbhPsmtWgHX34G",
+   "best": "Waterford Glandore Crystal Cordial Decanter 11\" Tall Ireland",
+   "med": 88,
+   "ratio": 3.52,
    "ai_value": ""
   },
   {
@@ -2229,6 +2317,17 @@
    "best": "Vtg Art Nouveau after Auguste Moreau Lady Girl On A Swing ...",
    "med": 194,
    "ratio": 3.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969130235",
+   "title": "Premier snare drums",
+   "price": 98,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/strongsville-premier-snare-drums/nb8aVirjGerZpfwQY1bDL1",
+   "best": "Used Premier SNARE DRUM 8-LUG ENGLAND Metal Snare Drum 14\"",
+   "med": 316,
+   "ratio": 3.22,
    "ai_value": ""
   },
   {
@@ -4735,6 +4834,17 @@
    "area": "buffalo",
    "url": "https://www.craigslist.org/view/d/tonawanda-vintage-nomad-exciter-wah/cDw3ws8AEQpqodYx7V95H2",
    "best": "Shin-ei Companion WF-8 8TR WAH-FUZZ (06/24) | Reverb",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955892278",
+   "title": "VINTAGE - PLAYBOY CLUB GLASS ASHTRY",
+   "price": 18,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bangor-vintage-playboy-club-glass-ashtry/fvDAxb89DwHv4TzUnfVSr1",
+   "best": "VINTAGE PLAYBOY BUNNY HUGH HEFFNER MANSION CLUB STRIPPER ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
