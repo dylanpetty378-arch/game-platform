@@ -66,3 +66,4 @@ Buy rule (short): Buy only pencil-signed original intaglio prints (visible plate
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Etching Anclote Lighthouse" – $125 – ask seller (probably pass) – Walter Ronald Locke "Anclote Light" (Tarpon Springs FL) etching, pencil-signed lower right, framed with mat; Locke Florida etchings estimated $100–250 at auction (general knowledge, verify) → at $125 needs resale ≥ ~$235; pass unless price drops to ≤ $50.
 - 2026-10-13 – craigslist – "Original Signed Lithograph by Isabel Baillen" – $50 – pass – Isabel Baillen naive village/bridge scene lithograph, numbered 154/250 and signed; decorator tier, resale ~$30–90.
+- 2026-10-13 – review note – W.R. (Walter Ronald) Locke Florida lighthouse etchings (e.g. "Anclote Light") were published by Associated American Artists in large editions and are seen asking $125 framed. At that price they need more than $320 resale, so pass above about $40.

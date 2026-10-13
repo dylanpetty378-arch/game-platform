@@ -59,3 +59,4 @@ Profit = median × 0.87 − ship − ship − price. Repros: pass at any price o
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Texaco Thermometer" – $40 – pass – 1980s–2000s nostalgia reproduction (cream molded frame, "Gasoline Filling Station / Clean Rest Rooms" novelty text, "Made in USA" tiny print, pristine), not a period original; est. resale $15–25.
+- 2026-10-13 – review note – Texaco "Clean Rest Rooms" cream/red painted thermometer (13.25 x 3.75 in) is the common nostalgia reproduction; pass at $40 (example 7964189370).

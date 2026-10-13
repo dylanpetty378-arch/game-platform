@@ -58,3 +58,4 @@ Profit = sold × 0.87 − $6 − $6 − price ≥ max($50, price). Stamped cross
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Antique Chinese 'Shanghai best' paktong ink box" – $100 – pass – stamped crossed Five-Colour/18-star flag oval box with "SANHGAI BEST" misspelling and yin-yang roundel: classic modern reproduction souvenir; est. resale $15–35.
+- 2026-10-13 – review note – Lens's AI reads the misspelled "SANHCAI BEST" lid as "Shanghai Best" and calls it antique; the misspelling plus stamped stippled-ground relief = souvenir tier.

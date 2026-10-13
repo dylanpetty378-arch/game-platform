@@ -56,3 +56,4 @@ Buy when: brass Ainsworth under $70, K&E/aluminum under $35. Pass when: K&E at $
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist omaha – "compass Keuffel and Esser" – $60 – passed – K&E Natural Sine, cream aluminum, with case; est. $90–130 sold, profit short of $50
+- 2026-10-13 – review note – Aluminum Wm. Ainsworth & Sons Bruntons marked "PAT. JULY 20 1926" with 5-digit serials (e.g. 16976) are late-1920s/1930s pre-war Ainsworth production - a step above 1950s-70s Brunton Co. aluminum; the patent block (1894/1914/1912/1913/1926 dates) is on the back plate. Lens IDs these correctly as "D.W. Brunton Pocket Transit".

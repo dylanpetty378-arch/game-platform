@@ -61,3 +61,4 @@ Buy when: Lie-Nielsen/Veritas under $100; Stanley Bedrock under $50; a lot of se
 - 2026-10-13 – craigslist – "ANTIQUE WOOD JACK PLANE" – $35 – lensed/ – No. 10 carriagemaker's rabbet plane (Stanley); Lens best: If you'd like, let me know:; Lens median $49 (asking-price based)
 - 2026-10-13 – craigslist – "Vintage plane" – $20 – lensed/ – No. 22 transitional plane (Stanley); Lens best: +1; Lens median $51 (asking-price based)
 - 2026-10-13 – craigslist – "Vintage Stanley Planer made in USA #4" – $50 – queued/relens – No. 4 plane (Stanley); Lens best: Results are personalized; Lens median $? (asking-price based)
+- 2026-10-13 – review note – Lens AI labeled a plain 9-1/8in Bailey-pattern bench smoother as a "Stanley No. 10 Carriagemaker's Rabbet" - always check the sole width/length in the listing (2-3/8 x 9-1/8 = No. 4 size).

@@ -68,3 +68,4 @@ Profit = sold median × 0.87 − ~$10 to buyer − ~$10 to Dylan − price; pass
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "VINTAGE MOUSEKETEER DOLL" – $20 – pass – the stand reads "Ginny": a Vogue Ginny Disney Mouseketeer "Betsy" collector doll (c.2000s, vinyl, ~8"), not Madame Alexander; resale ~$20–40.
 - 2026-10-13 – craigslist – "VINTAGE MADAME ALEXANDER'S DOLLS" – $20 – pass – five 5" McDonald's Madame Alexander Happy Meal dolls (Cinderella, groom, Alice, Jasmine, girl with bear) some with tags; resale ~$8–15 for the lot.
+- 2026-10-13 – review note – 5in Madame Alexander dolls from the early 2000s are McDonald's Happy Meal premiums ($2-5 each), not collector dolls.

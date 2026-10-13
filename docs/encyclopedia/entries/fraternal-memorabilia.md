@@ -56,3 +56,4 @@ Price ≤ $200; profit = median × 0.87 − ~$16 out − ~$16 in − price ≥ m
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Lulu Temple Shriners Stein" – $10 – pass – 1904 Shrine Imperial Council (Atlantic City) souvenir mug from Lulu Temple, Philadelphia (Moorish temple transfer, brown-shaded body, plain C-handle, not figural). Resale is ~$35–60; profit at $10 is roughly $10–20, below the $50 bar.
+- 2026-10-13 – review note – 1904 Lulu Temple (Atlantic City session) mugs were also made by Thos. Maddock's Sons, Trenton NJ (American, not only German makers) - plain handle, brown-glazed base with sepia transfer of the Lulu Temple building.

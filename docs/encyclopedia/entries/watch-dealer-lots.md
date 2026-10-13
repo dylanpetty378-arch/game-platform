@@ -71,3 +71,4 @@ Profit = median × 0.87 − ~$6 to buyer − ~$8 to Dylan − price ≥ max($50,
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage watches and pocket watches for sell" – $59 – pass – Antique-mall showcase, each watch individually tagged ($59–149): Chalet, Timex automatics, 1950s Bulova 23J self-winding, Elgin and Bulova gold-filled dress watches, Kanji-dial novelty; all base-metal/gold-filled mid-tier, est. resale $25–90 each, already retail-priced and unserviced.
+- 2026-10-13 – review note – A photo of a glass display case full of tagged watches ("RUNS" tags, prices) means a booth dealer is advertising stock. Kill it on sight even when the title says "vintage mechanical watches".

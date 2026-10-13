@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Helpers for the review cycle (docs/review-cycle.md).
   python3 scripts/review_helpers.py --flagged              # TSV of every listing whose latest stage is 'flagged', best Lens ratio first
+  python3 scripts/review_helpers.py --lensed               # TSV of every listing Lens ran on but did not flag (text-triage pool)
   python3 scripts/review_helpers.py --body <url> [...]     # listing title / price / body / still-live for Craigslist URLs
   python3 scripts/review_helpers.py --shortlist pid,pid,…  # writes shortlist.json (listing rows) for lens_export.py --photos
   python3 scripts/review_helpers.py --terapeak-js          # prints the Terapeak TPR/COMP helper to paste into an ebay.com/sh tab
@@ -32,7 +33,15 @@ if __name__ == '__main__':
         q = '''SELECT s.pid, s.price, l.cat, s.area, s.title, lens.ratio, lens.med, lens.collect, lens.best, lens.ai_value, substr(lens.ai,1,160), l.clip, s.url
                FROM listing_status s JOIN listings l ON l.pid=s.pid JOIN lens ON lens.pid=s.pid WHERE s.stage='flagged' GROUP BY s.pid ORDER BY lens.ratio DESC'''
         print('pid\tprice\tcat\tarea\ttitle\tratio\tmed\tcollect\tbest\tai_value\tai\tclip\turl')
-        for r in con.execute(q): print('\t'.join('' if v is None else str(v).replace('\t', ' ').replace('\n', ' ') for v in r))
+        for r in con.execute(q): print('\t'.join('' if v is None else str(v).replace('\t', ' ').replace('\n', ' ').replace('\r', ' ') for v in r))
+    elif a[0] == '--lensed':
+        # every listing whose latest stage is 'lensed' (Lens ran, not flagged) — the text-triage pool. Lens flags miss most
+        # real leads (Oct 13 research: 0 keeps in ~330 flagged vs ~10 leads found among all scanned), so these get read too.
+        con = db.build_sqlite()
+        q = '''SELECT s.pid, s.price, l.cat, s.area, s.title, lens.best, lens.med, substr(lens.ai,1,300), s.url, json_extract(l.imgs,'$[0]')
+               FROM listing_status s JOIN listings l ON l.pid=s.pid JOIN lens ON lens.pid=s.pid WHERE s.stage='lensed' GROUP BY s.pid'''
+        print('pid\tprice\tcat\tarea\ttitle\tbest\tmed\tai\turl\timg')
+        for r in con.execute(q): print('\t'.join('' if v is None else str(v).replace('\t', ' ').replace('\n', ' ').replace('\r', ' ') for v in r))
     elif a[0] == '--body':
         for u in a[1:]: print(json.dumps(body(u), ensure_ascii=False))
     elif a[0] == '--shortlist':

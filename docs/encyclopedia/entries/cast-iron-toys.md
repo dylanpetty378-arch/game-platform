@@ -60,3 +60,5 @@ Profit = sold × 0.87 − $11 − $11 − price ≥ max($50, price). Need crisp 
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Antique Cast Iron Car" – $25 – pass – red four-door cast iron sedan with grainy casting, seam gaps, rubber tires on white-metal spoked hubs: reproduction of A.C. Williams/Arcade style (late 20th c.); est. resale $15–30.
+- 2026-10-13 – review note – Uncle Sam mechanical banks (coin in hand, lever, carpet bag, eagle on red base) with glossy fresh paint are modern Book of Knowledge-type reproductions, $20-40.
+- 2026-10-13 – review note – Red sedan with crude, pitted casting and white-metal spoke hubs on black rubber tires is the common reproduction form; genuine Arcade/A.C. Williams sedans have crisp castings and cast or nickel disc wheels.

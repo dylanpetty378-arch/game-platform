@@ -70,3 +70,5 @@ Price ≤ $200; profit = sold median × 0.87 − ~$6 ship per LP (Media Mail) �
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "George Benson Records 33 LP vintage" – $10 – pass – two LPs: George Benson "Breezin'" (Warner Bros. 1976, the blue script is printed cover art) and "Blue Benson" (Polydor PD-1-6084, 1976); a silver scrawl on Blue Benson may be a signature but unverifiable. Common titles, $5–12 each.
 - 2026-10-13 – craigslist – "Box of vinyl albums" – $75 – ask seller – only top record visible: Heart "Dreamboat Annie" (Mushroom, 1976), common ($8–15), plus a De-Lite Records (Kool & the Gang label) LP beneath; ask for count and photos of every spine. Only a buy if ≥ 50 records with several jazz/soul/psych originals.
+- 2026-10-13 – review note – punk/emo/hardcore titles (Heroin s/t on Gravity, Social Distortion "Live at the Roxy" on Time Bomb 1998) turn up in classic-rock and soul dealer-style lots priced flat at $10-20. They are worth an ask for the matrix and label to tell originals from reissues.
+- 2026-10-13 – review note – JR Cadillac "This Time" is a Seattle bar-band private press with low regional value ($10-25, general knowledge, verify).

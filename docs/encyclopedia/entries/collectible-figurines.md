@@ -66,3 +66,4 @@ Buy when: Josef California-era lot under $15/figure; retired Sid Dickens under $
 - 2026-10-12 – craigslist minneapolis – Josef Originals lot Hedy/Sunny/Blue Belle/April/June/Good Night – $180 – passed – at market
 - 2026-10-12 – craigslist bellingham – Sid Dickens T23 retired – $95 – passed – at market
 - 2026-10-12 – craigslist tallahassee – 11 Cherished Teddies – $60 – passed – junk tier
+- 2026-10-13 – review note – "Victorian carpet balls" listings can be modern glazed decor balls with Chinese-style blue/cream floral. Real carpet balls are hard white earthenware with sponged or hand-painted motifs (stars, lattice, thistles), about 3 in, and slightly irregular (example 7936122042).

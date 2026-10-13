@@ -69,3 +69,4 @@ Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) �
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Antique Siler-plated Pennsylvania Railroad Teapot" – $135 – pass – Photo shows a hotel-weight silverplate individual teapot (~10–12 oz) with a side-stamped PRR keystone, hinged lid, heavy spotting/plate wear; genuine-looking PRR dining-car piece (maker likely Reed & Barton or International, base not shown). Est. resale $50–100 (general knowledge, verify); at $135 profit is negative.
+- 2026-10-13 – review note – C.M.&St.P. (Chicago, Milwaukee & St. Paul) marks predate the 1928 reorganisation to CMStP&P, so they date a piece to before 1928. A small International Silver hinged-lid sugar marked on the bottom only is worth about $40-80; it is not a buy at $70 (example 7970619189).

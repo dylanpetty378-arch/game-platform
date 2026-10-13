@@ -95,3 +95,4 @@ Buy rule (short): Pass on anything machine-made after ~1915 unless it's a known 
 - 2026-10-13 – craigslist – "Old bottles" – $20 – pass – modern Italian "Absolutely Pure Milk" embossed-cow decor bottle with cork; sells $10–25.
 - 2026-10-13 – craigslist – "Vintage Coca Cola Bottles" – $10 – pass – 1990s Coca-Cola NASCAR commemorative 8 oz six-packs; sell $7–35 per pack.
 - 2026-10-13 – craigslist – "Vintage Blue Glass Bottles" – $15 – pass – two large aqua bottles with flared/tooled lips (apothecary or water bottles, possibly early 1900s; stoppers not shown); est. $15–40 each, fragile and bulky to ship.
+- 2026-10-13 – review note – 1970s-80s screw-cap clear bottles with a printed red skull-and-crossbones "POISON" and "ANTIDOTE" label are modern rubbing-alcohol bottles. They are not antique poisons ($5-10).

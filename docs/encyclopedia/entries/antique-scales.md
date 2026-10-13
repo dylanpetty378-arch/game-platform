@@ -95,3 +95,4 @@ Buy rule (short): Only Toledo/Computing-Scale fan or candy scales and complete b
 - 2026-10-13 – craigslist – "Vintage pelouze scale" – $20 – pass – Pelouze Y-5 "Deluxe Y Line" 5 lb postal scale with May 1971 rate chart; sells $7–25, median $11.65.
 - 2026-10-13 – craigslist – "2 Antique Scales" – $100 – pass – Toledo model 3111 candy scale (1960s, white enamel, badge plate) plus a second scale not shown; 3111 median ~$118 sold, heavy; needs local resale and ~$25 price to work.
 - 2026-10-13 – craigslist – "Vintage scales" – $50 – pass – American Family 24 lb kitchen dial scale (c. 1900s–30s, cream face) plus a brass-faced household dial scale; sell $16–40 each.
+- 2026-10-13 – review note – Miniature cast-iron balance scales with an aluminum scoop and a nesting set of brass weights (10/20/50) are modern decorative replicas, $10-20.

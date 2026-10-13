@@ -77,3 +77,4 @@ Profit = sold median × 0.87 − ~$8 shipping to buyer − ~$8 to Dylan − pric
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Levis Jeans" – $20 – pass – Levi's 501 W46 L32 with paper patch, red tab, double-needle pockets, medium wash; 1990s–2000s, very large waist; est. resale $25–45 (Terapeak 501 median $56 skews to new STF); profit < $10. Ask for cuff/care tag only if the seller has others.
 - 2026-10-13 – craigslist – "Vintage Denim Jacket" – $15 – pass – dark-wash type-3-style trucker with a gold script designer label (not Sears Western Wear despite the Lens match), copper buttons, 1990s fashion label; est. resale $15–30.
+- 2026-10-13 – review note – 1990s Levi's 501 with paper patch and red tab in big sizes (42-46 waist) ask ~$20 locally but sell only $30-60 - below the two-way-ship floor.

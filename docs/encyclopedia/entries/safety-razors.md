@@ -77,3 +77,4 @@ Profit = sold median × 0.87 − ~$8 ship to buyer − ~$8 ship to Dylan − pri
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Razor Collection Vintage" – $50 – pass – Single gold-plated 3-piece Gillette-style open-comb razor (Old Type pattern, c. 1910s–20s) in a velvet-lined brass pocket case with Rexall blade packet; brassing on guard. Est. resale $45–80; at $50 profit is negative. Only revisit if the listing actually has several razors including adjustables.
+- 2026-10-13 – review note – Craigslist "razor collection" listings often show only one razor in the main photo; the other photos can hold several gold Gillettes, a Rolls Razor and a boxed Durham Duplex. Always pull every photo on razor lots.

@@ -58,3 +58,4 @@ Buy when: 1970s-or-earlier or scarce-regional neon under $40 and the sign is loc
 - 2026-10-12 – craigslist mcallen – "Previously Owned Neon Sign" (Coors 15x15) – $75 – passed – common 1990s Coors, fair price, shipping risk
 - 2026-10-12 – craigslist chillicothe – "Cheerwine Neon Light Clock" – $40 – passed – licensed repro clock, sells $60–100
 - 2026-10-13 – craigslist – "Stroh’s Vintage Neon Sign" – $100 – queued/relens – Stroh's neon sign (Stroh's); Lens best: Results are personalized; Lens median $? (asking-price based)
+- 2026-10-13 – review note – the Four Roses (Frankfort Distillers Corp, NY, "90.5 proof, 60% grain neutral spirits") lighted counter clock with a rose-and-leaf center is 1950s. Est. $80-150 working (no comps). Most such sellers are local-only, which makes it unworkable without a local buyer (example 7974542037).

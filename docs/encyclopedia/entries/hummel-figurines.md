@@ -66,3 +66,4 @@ Profit = median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($5
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Hummel Figurines" – $15 – ASK SELLER (possible buy if $15 is for the lot) – Photo shows ~24 genuine-looking Goebel M.I. Hummel figurines (matte glaze, oval bases; incl. Accordion Boy-type, Chimney Sweep, Goose Girl-style, Apple Tree-style pieces), marks not visible. As a lot est. resale $300–500; if $15 buys all: profit ≈ $400×0.87 − $35 − $30 − $15 ≈ $270 (Tier A). Most likely $15 is per figure (then pass: ~$15–25 resale each).
+- 2026-10-13 – review note – CL sellers' own TMK readings are unreliable. "Goebel W. Germany + full bee" is often TMK-3 stylized bee. Require base photos before valuing a "mostly full bee" lot; #377 Bashful dates to 1972+ (TMK-5 or later).
