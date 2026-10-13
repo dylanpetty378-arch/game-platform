@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:14:17Z",
+ "updated": "2026-10-13T13:17:40Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4862,
-  "events": 14797,
+  "lens": 4887,
+  "events": 14822,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 609,
-  "queued": 1378,
+  "lensed": 624,
+  "queued": 1353,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 356,
-  "flagged": 481,
+  "queued/relens": 359,
+  "flagged": 488,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -345,6 +345,17 @@
    "best": "Details: Embossed grape or floral motifs on the glass, a clear crystal or pressed glass saucer-like drip/fring",
    "med": 2500,
    "ratio": 125,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958018189",
+   "title": "Water Pitcher:  Hammered Tin",
+   "price": 12,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/enfield-water-pitcher-hammered-tin/wGN7xXfrbKX667d5x3JxFc",
+   "best": "Craigslist",
+   "med": 1450,
+   "ratio": 120.83,
    "ai_value": ""
   },
   {
@@ -2350,6 +2361,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957279430",
+   "title": "Italian Sterling Silver Venice Bridge",
+   "price": 60,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-italian-sterling-silver-venice/piXDVS74wQ3LoydbjvdCiV",
+   "best": "Subject: Depicts \"ROMA - PONTE PONTICE E LA CITT\u00c0 DA S. PIETRO\" (Rome - bridge and city view from St. Peter's)",
+   "med": 333,
+   "ratio": 5.55,
+   "ai_value": "Value/Market: These vintage Italian silver relief plaques typically resell between $4"
+  },
+  {
    "pid": "7981540824",
    "title": "Antique Hat Rack",
    "price": 65,
@@ -4044,6 +4066,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968519084",
+   "title": "Early 1900s H.M.C. CUTLERY CO. STRAIGHT EDGE RAZOR - Whale Logo",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/springfield-early-1900s-hmc-cutlery-co/8yFcz6UkD2UK7Dov4tCxxr",
+   "best": "Vintage H.M.C. Cutlery Co. New Bedford Mass Straight Razor ...",
+   "med": 75,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7934046383",
    "title": "VINTAGE COLLECTIBLES BRASS BOOKENDS",
    "price": 75,
@@ -4429,6 +4462,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970778951",
+   "title": "Antique silver straw spoon",
+   "price": 50,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/glen-arm-antique-silver-straw-spoon/pJVP7t18DygqV8EEoJLFju",
+   "best": "Vintage Bombilla straw, the prettiest I have seen. Silver ...",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7981112253",
    "title": "Beautiful Gibson Maestro Guitar",
    "price": 80,
@@ -4548,6 +4592,17 @@
    "med": 52,
    "ratio": 1.73,
    "ai_value": "Value / Market Range: Typically sells anywhere from roughly $30 to $140"
+  },
+  {
+   "pid": "7948940331",
+   "title": "Schmid vintage Carriage Clock",
+   "price": 80,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-schmid-vintage-carriage-clock/sgveuLG6LPkZT4a1NkxFhz",
+   "best": "Etsy",
+   "med": 138,
+   "ratio": 1.73,
+   "ai_value": ""
   },
   {
    "pid": "7967571786",
@@ -5590,6 +5645,28 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-leatherman-pst-vintage/aVtogG4agntSzpyDRohrv7",
    "best": "Tool Type: Stainless steel folding multi-tool featuring needlenose/regular pliers, wire cutters, a knife blade",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981622100",
+   "title": "Vintage Western Boulder Colorado Fixed Blade 6\" Knife Patent 1967479",
+   "price": 150,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-western-boulder/ivUaEWvE2mCHv9QvDhkrU6",
+   "best": "Handle: Stacked leather washer grip with metal guard and pommel/butt cap.",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952305840",
+   "title": "Vintage Antique Masons Sword",
+   "price": 60,
+   "area": "york",
+   "url": "https://www.craigslist.org/view/d/york-vintage-antique-masons-sword/by83EF1NNpr2ZacyMJ4oHJ",
+   "best": "Antique Victorian 1800's Knights Of The Golden Eagle ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
