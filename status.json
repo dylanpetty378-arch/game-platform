@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T15:44:10Z",
+ "updated": "2026-10-13T15:47:54Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5812,
-  "events": 19221,
+  "lens": 5837,
+  "events": 19246,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 5971,
+  "photo_review/kill": 5946,
   "queued": 690,
   "comps/pass": 1,
-  "queued/relens": 185,
+  "queued/relens": 190,
   "decided/ask": 54,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
   "expired": 7,
   "decided/find": 8,
-  "lensed": 47,
-  "flagged": 33
+  "lensed": 61,
+  "flagged": 39
  },
  "last_harvests": [
   {
@@ -367,6 +367,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944107723",
+   "title": "Wristwatch, Elgin, c 1980, Quartz Men's Wristwatch",
+   "price": 5,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/mound-wristwatch-elgin-1980-quartz-mens/rk5o35Ww835ihddKSVBVQc",
+   "best": "Vintage Elgin Mens Watch 33mm Gold Tone 17 Jewels NOT ...",
+   "med": 105,
+   "ratio": 21,
+   "ai_value": ""
+  },
+  {
    "pid": "7943870857",
    "title": "Vintage Stoneware Vase Glidden Pottery USA Round #63 Turquoise New Yor",
    "price": 65,
@@ -430,6 +441,17 @@
    "best": "Common Use: Traditionally used in Asian Buddhist or ancestral altars for burning incense sticks, coils, or pow",
    "med": 299,
    "ratio": 8.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963650435",
+   "title": "Doll Vintage Madame Alexander Doll",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-doll-vintage-madame/cvZSfcS2yXnL3PWYnNvWQh",
+   "best": "Madame Alexander Kathy Doll | eBay",
+   "med": 125,
+   "ratio": 8.33,
    "ai_value": ""
   },
   {
@@ -609,6 +631,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7953881598",
+   "title": "Snakeskin Oval Hinged Bracelets from Florence, Italy",
+   "price": 35,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-snakeskin-oval-hinged-bracelets/u63Qn1RuCf2AaG85HaD8g7",
+   "best": "Vintage 24KT Gold Plated Snakeskin Bangle Bracelet Hinged ...",
+   "med": 95,
+   "ratio": 2.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933306378",
+   "title": "World Map",
+   "price": 35,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-world-map/c6RBC11RYqxrwqDgaAuomy",
+   "best": "Framed Gold Foil Vintage World Map 'nova Totius Terrarum ...",
+   "med": 88,
+   "ratio": 2.51,
+   "ai_value": ""
+  },
+  {
    "pid": "7955159417",
    "title": "Vintage Copper Bucket",
    "price": 40,
@@ -628,6 +672,17 @@
    "best": "Las mejores ofertas en Gorham post - 1940 objetos antiguos ...",
    "med": 215,
    "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930151538",
+   "title": "VINTAGE BOILER",
+   "price": 75,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-vintage-boiler/hchZuKvncHPBQZxQnyUUbr",
+   "best": "Galvanized Boiler Tub - Etsy",
+   "med": 135,
+   "ratio": 1.8,
    "ai_value": ""
   },
   {
@@ -661,6 +716,17 @@
    "best": "Origin: Typically attributed to 1920s\u20131930s Czech (Czechoslovakian) costume or artisan jewelry production.",
    "med": 105,
    "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955143053",
+   "title": "Knick-knack stuff",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/fair-oaks-knick-knack-stuff/5rV5KF1e7sTjaATwk3KR8b",
+   "best": "It's a beautiful day to do some vintage shopping. Start out ...",
+   "med": 95,
+   "ratio": 0.95,
    "ai_value": ""
   },
   {
