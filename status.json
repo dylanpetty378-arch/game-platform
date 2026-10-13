@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-13T02:21:58Z",
+ "updated": "2026-10-13T02:24:45Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4600,
-  "lens": 735,
-  "events": 5434,
+  "lens": 754,
+  "events": 5453,
   "comps": 0,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 95,
-  "queued": 3901,
+  "queued": 3882,
   "decided/find": 1,
-  "lensed": 372,
-  "flagged": 230,
+  "lensed": 379,
+  "flagged": 242,
   "decided/ask": 1
  },
  "last_harvests": [
@@ -175,6 +175,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954060153",
+   "title": "MISC FURNITURE",
+   "price": 20,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/tulsa-misc-furniture/63usotWWXFS7554eMKum6D",
+   "best": "+1",
+   "med": 7285,
+   "ratio": 364.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968052710",
    "title": "Antique Chest / Trunk",
    "price": 30,
@@ -271,6 +282,17 @@
    "best": "Craigslist",
    "med": 2600,
    "ratio": 86.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947419903",
+   "title": "Vintage vinyl lingerie dresser",
+   "price": 30,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-vinyl-lingerie-dresser/gEqbTQd2pBLF35mF9fYsEp",
+   "best": "Gemma Silver Chest Dresser for Sale in Nashville, TN - OfferUp",
+   "med": 2500,
+   "ratio": 83.33,
    "ai_value": ""
   },
   {
@@ -458,6 +480,17 @@
    "best": "+1",
    "med": 1200,
    "ratio": 34.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935600691",
+   "title": "Antique hutch",
+   "price": 50,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-antique-hutch/soswSdbf5NxdDHGmMhV4YX",
+   "best": "+2",
+   "med": 1690,
+   "ratio": 33.8,
    "ai_value": ""
   },
   {
@@ -799,6 +832,28 @@
    "best": "+1",
    "med": 1412,
    "ratio": 15.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974332094",
+   "title": "Dry Bar/Liquor Cabinet/Buffet/Sideboard Antique",
+   "price": 99,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-dry-bar-liquor-cabinet-buffet/tK8wxCAVXumpFYUkKKwidh",
+   "best": "+3",
+   "med": 1523,
+   "ratio": 15.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943836312",
+   "title": "Wildwood vintage brass lamp",
+   "price": 15,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/mogadore-wildwood-vintage-brass-lamp/9JAZHYefeMJbBCqQwvNowH",
+   "best": "Chairish",
+   "med": 224,
+   "ratio": 14.93,
    "ai_value": ""
   },
   {
@@ -1297,6 +1352,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963374501",
+   "title": "Vintage license plates",
+   "price": 13,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/mogadore-vintage-license-plates/kgau7ou7QL7y3EWMsu9Lih",
+   "best": "+1",
+   "med": 95,
+   "ratio": 7.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7943693064",
    "title": "Vintage Geisha Foil Prints",
    "price": 50,
@@ -1371,6 +1437,17 @@
    "best": "+2",
    "med": 320,
    "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938602547",
+   "title": "Antique Chicken Crate",
+   "price": 75,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/williamstown-antique-chicken-crate/na9AsbwrJG5pDq18c7PEVh",
+   "best": "+2",
+   "med": 475,
+   "ratio": 6.33,
    "ai_value": ""
   },
   {
@@ -1693,6 +1770,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961012244",
+   "title": "Vintage Wilson Leather Jacket",
+   "price": 80,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/arvada-vintage-wilson-leather-jacket/emiwf6JArWXxbFhGcNYTNb",
+   "best": "+1",
+   "med": 342,
+   "ratio": 4.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7959199503",
    "title": "Vintage Spear Fishing Decoys",
    "price": 20,
@@ -1866,6 +1954,17 @@
    "best": "+2",
    "med": 150,
    "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980752544",
+   "title": "Vintage croqet set",
+   "price": 50,
+   "area": "scottsbluff",
+   "url": "https://www.craigslist.org/view/d/windsor-vintage-croqet-set/1XLaYhzAP1nKoyheBfEr6s",
+   "best": "+1",
+   "med": 185,
+   "ratio": 3.7,
    "ai_value": ""
   },
   {
@@ -2087,6 +2186,17 @@
    "med": 89,
    "ratio": 3.18,
    "ai_value": "Value: Typically ranges around $28"
+  },
+  {
+   "pid": "7951843255",
+   "title": "Vintage DuKane Filmstrip Projector",
+   "price": 100,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/eureka-springs-vintage-dukane-filmstrip/fJpXwNxz8Ux88yiJoFnnVF",
+   "best": "+1",
+   "med": 318,
+   "ratio": 3.18,
+   "ai_value": ""
   },
   {
    "pid": "7982398623",
@@ -2386,6 +2496,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938601837",
+   "title": "Antique mitre saw",
+   "price": 75,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/sewell-antique-mitre-saw/8RUKMjzLpkyvHxPy8v6MFs",
+   "best": "+2",
+   "med": 130,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7971285354",
    "title": "vintage turntable Radio",
    "price": 100,
@@ -2645,6 +2766,17 @@
    "area": "boise",
    "url": "https://www.craigslist.org/view/d/boise-vintage-puma-pocket-knife/eWHQJshmh2ohxizRagKMLG",
    "best": "+2",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942940053",
+   "title": "Vintage Scuba Tank",
+   "price": 25,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/eureka-springs-vintage-scuba-tank/5ZtVBLUfPjJcNUJpmqKD6P",
+   "best": "Craigslist",
    "med": null,
    "ratio": null,
    "ai_value": ""

@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T02:21:58Z
+# Refurbish status — 2026-10-13T02:24:45Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,9 +6,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 3901 |
-| lensed | 372 |
-| flagged | 230 |
+| queued | 3882 |
+| lensed | 379 |
+| flagged | 242 |
 | photo_review/kill | 95 |
 | decided/find | 1 |
 | decided/ask | 1 |
@@ -18,8 +18,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 3
 - searches: 1
 - listings: 4600
-- lens: 735
-- events: 5434
+- lens: 754
+- events: 5453
 - comps: 0
 - item_types: 1
 - runs: 0
@@ -37,13 +37,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00x0x_6Ab68jUXkYb_0CI0t2_300x300.jpg" width="160"> | [Vintage Squash Blossom Necklace](https://www.craigslist.org/view/d/san-francisco-vintage-squash-blossom/vQn5dcL9uCUZGUtgL1rzor) | $75 | sfbay | **decided/find** — Tier B (A if >=$300 sold): $75 ask; est resale $250-400 for 2.6 oz unmarked; profit ~$110-260. Confirm with Terapeak once eBay signed in; ask seller for naja back + length photos |
 | <img src="https://images.craigslist.org/00n0n_lcUDSWcDygf_0CI0t2_300x300.jpg" width="160"> | [Antique Hampden pocket watch](https://www.craigslist.org/view/d/loveland-antique-hampden-pocket-watch/apCVVbQ3NsLzQYFBZm1j6q) | $40 | denver | **decided/ask** — Hampden (Canton O.) hunter-case pocket watch, engraved gold-filled case, $40 Denver. If running: sells ~$100-180 -> profit ~$60-100 (passes). Ask: does it run, case size (16s vs 6s), any dents/cracks in dial |
 
-## Flagged by Lens, waiting for photo review (230)
+## Flagged by Lens, waiting for photo review (242)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
 | photo | pid | price | area | title | Lens best match | match median | ratio |
 |---|---|---|---|---|---|---|---|
 | <img src="https://images.craigslist.org/00f0f_7ysEy9SbpDe_0t20CI_300x300.jpg" width="120"> | 7968475059 | $80 | buffalo | [Antique Unicorn Lamp](https://www.craigslist.org/view/d/willowdale-east-antique-unicorn-lamp/jSm57nmdQcZ4Ezq5pZz1sR) | +3 | 150925 | 1886.56 |
+| <img src="https://images.craigslist.org/00D0D_7SC8urkWGfP_0t20CI_300x300.jpg" width="120"> | 7954060153 | $20 | oklahomacity | [MISC FURNITURE](https://www.craigslist.org/view/d/tulsa-misc-furniture/63usotWWXFS7554eMKum6D) | +1 | 7285 | 364.25 |
 | <img src="https://images.craigslist.org/00T0T_kBLKFmrxzjy_0CI0t2_300x300.jpg" width="120"> | 7968052710 | $30 | buffalo | [Antique Chest / Trunk](https://www.craigslist.org/view/d/willowdale-east-antique-chest-trunk/b64VTc1Kvt4Kjpa1A5AwPN) | +1 | 8400 | 280 |
 | <img src="https://images.craigslist.org/00H0H_jvfRGeyzAPn_0CI0t2_300x300.jpg" width="120"> | 7955863923 | $25 | houston | [Vintage Wooden Sewing Cabinet](https://www.craigslist.org/view/d/houston-vintage-wooden-sewing-cabinet/1L9EdKGr1eLVsCHv1pVUn8) | +1 | 5836 | 233.44 |
 | <img src="https://images.craigslist.org/00P0P_h1eqvZTgm57_0t20CI_300x300.jpg" width="120"> | 7982403291 | $10 | vermont | [Vintage Snocraft Toboggan](https://www.craigslist.org/view/d/northampton-vintage-snocraft-toboggan/gcJFTUfALGri7zsDP3ow1s) | Adirondack Toboggan Wood Sled 8' Vintage / eBay | 2315 | 231.5 |
@@ -53,6 +54,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00f0f_aZKYYw5W5RF_0hT0CI_300x300.jpg" width="120"> | 7939923619 | $50 | detroit | [Bathroom sink, vintage](https://www.craigslist.org/view/d/wyandotte-bathroom-sink-vintage/pCfp79iai7xDdhdo6GMPdW) | +1 | 6275 | 125.5 |
 | <img src="https://images.craigslist.org/00i0i_lukGzuDBx3T_0kO0is_300x300.jpg" width="120"> | 7955776879 | $40 | chicago | [Vintage Wood Settee](https://www.craigslist.org/view/d/chicago-vintage-wood-settee/c45kLLHSY1n5JSKTrbuqEc) | Bissell Canister Vacuum Cleaner available for pickup for ... | 3678 | 91.95 |
 | <img src="https://images.craigslist.org/00o0o_6LwWC9dGCAT_0CI0lN_300x300.jpg" width="120"> | 7950875152 | $30 | raleigh | [Vintage Metal Sailboats](https://www.craigslist.org/view/d/mount-mourne-vintage-metal-sailboats/iHTY7pSoJ3o57HjYePxvLv) | Craigslist | 2600 | 86.67 |
+| <img src="https://images.craigslist.org/00707_iIMNR7vvmzI_0t20CI_300x300.jpg" width="120"> | 7947419903 | $30 | portland | [Vintage vinyl lingerie dresser](https://www.craigslist.org/view/d/portland-vintage-vinyl-lingerie-dresser/gEqbTQd2pBLF35mF9fYsEp) | Gemma Silver Chest Dresser for Sale in Nashville, TN - Offer | 2500 | 83.33 |
 | <img src="https://images.craigslist.org/00v0v_89Hv4dk6AZD_0lM0t2_300x300.jpg" width="120"> | 7955233639 | $50 | seattle | [Antique Secretary Desk](https://www.craigslist.org/view/d/fairview-antique-secretary-desk/dWz32gpduU9t7j6dC66Wuv) | +2 | 3875 | 77.5 |
 | <img src="https://images.craigslist.org/00E0E_jALZYdmTVgL_0CI0uy_300x300.jpg" width="120"> | 7978451406 | $10 | minneapolis | [Old wooden trunk](https://www.craigslist.org/view/d/inver-grove-heights-old-wooden-trunk/6ZucW388ydq6u5xy6eKEYw) | +2 | 695 | 69.5 |
 | <img src="https://images.craigslist.org/00G0G_dJNNscRqvQr_0CI0t2_300x300.jpg" width="120"> | 7958389835 | $45 | raleigh | [Vintage Painted Table](https://www.craigslist.org/view/d/mooresville-vintage-painted-table/pMaM2v5uDFsQ6VC2VGQywv) | Pennsylvania House Solid Cherry Queen Anne Extention Dining  | 2965 | 65.89 |
@@ -70,6 +72,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00C0C_4EA0Wj4lVU3_0t20CI_300x300.jpg" width="120"> | 7982371317 | $100 | newyork | [Antique hallway table](https://www.craigslist.org/view/d/binghamton-antique-hallway-table/7WQn6Rxt3bTWfydLrzkemQ) | +2 | 3595 | 35.95 |
 | <img src="https://images.craigslist.org/00U0U_kY45RkNxBa4_0CI0t2_300x300.jpg" width="120"> | 7940156508 | $25 | houston | [Vintage Wooden School Desk](https://www.craigslist.org/view/d/houston-vintage-wooden-school-desk/jqZsi2ZM9vzB8iEshhX2NC) | Vintage wooden school desks with inkwells | 875 | 35 |
 | <img src="https://images.craigslist.org/00E0E_ljGhsPMHWeJ_0t20CI_300x300.jpg" width="120"> | 7930925885 | $35 | washingtondc | [Antique Victorian side chairs](https://www.craigslist.org/view/d/mechanicsville-antique-victorian-side/q5wPPMGnPip8E4MH1apmXT) | +1 | 1200 | 34.29 |
+| <img src="https://images.craigslist.org/00s0s_5tMEcK8QSQZ_0Mo12w_300x300.jpg" width="120"> | 7935600691 | $50 | albuquerque | [Antique hutch](https://www.craigslist.org/view/d/albuquerque-antique-hutch/soswSdbf5NxdDHGmMhV4YX) | +2 | 1690 | 33.8 |
 | <img src="https://images.craigslist.org/00H0H_bmm3xZ53frC_0CI0t2_300x300.jpg" width="120"> | 7949693109 | $40 | seattle | [Antique chairs](https://www.craigslist.org/view/d/portland-antique-chairs/rMgpCsmv5ho8k5zBpFdPa5) | +1 | 1295 | 32.38 |
 | <img src="https://images.craigslist.org/00k0k_659zv1vYFMn_0lR0t2_300x300.jpg" width="120"> | 7974412677 | $50 | detroit | [Vintage Stereo Console](https://www.craigslist.org/view/d/milford-vintage-stereo-console/pVfWwu6bazxyhDA7QhW3Qu) | +1 | 1595 | 31.9 |
 | <img src="https://images.craigslist.org/00t0t_dn7Q1BFCF7M_0t20CI_300x300.jpg" width="120"> | 7982381952 | $95 | orlando | [Elegant antique Ogee Mirror](https://www.craigslist.org/view/d/jacksonville-elegant-antique-ogee-mirror/sEYJPP6onh2LLBB93ZjWfN) | Lot - A William and Mary style walnut cushion molded mirror  | 2800 | 29.47 |
@@ -101,6 +104,8 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00M0M_l71r8oJsppG_0lM0t2_300x300.jpg" width="120"> | 7962259758 | $40 | atlanta | [Antique Wine Rack](https://www.craigslist.org/view/d/lenoir-city-antique-wine-rack/f3wDWbtC17NxEKei7aqGYG) | Arthur Umanoff Iron & Rattan Wine Rack With Shelves - Etsy | 645 | 16.13 |
 | <img src="https://images.craigslist.org/00707_5WkBcD2xgdh_0t20CI_300x300.jpg" width="120"> | 7952378679 | $50 | minneapolis | [Vintage Maritime Brass Lamp](https://www.craigslist.org/view/d/lakeville-vintage-maritime-brass-lamp/isC8Ad3kKWrHvVVx39QHvP) | +3 | 800 | 16 |
 | <img src="https://images.craigslist.org/00L0L_aBsFgneOUq5_0oG0t2_300x300.jpg" width="120"> | 7929713878 | $89 | raleigh | [Vintage Drop-Front Secretary Desk](https://www.craigslist.org/view/d/mooresville-vintage-drop-front/sq1J5xrAQBLBSurCPHxpPB) | +1 | 1412 | 15.87 |
+| <img src="https://images.craigslist.org/00X0X_e0XaqmcXqnC_0CI0t2_300x300.jpg" width="120"> | 7974332094 | $99 | atlanta | [Dry Bar/Liquor Cabinet/Buffet/Sideboard Antique](https://www.craigslist.org/view/d/atlanta-dry-bar-liquor-cabinet-buffet/tK8wxCAVXumpFYUkKKwidh) | +3 | 1523 | 15.38 |
+| <img src="https://images.craigslist.org/00h0h_2JA0KQ209Xz_0t20Cz_300x300.jpg" width="120"> | 7943836312 | $15 | detroit | [Wildwood vintage brass lamp](https://www.craigslist.org/view/d/mogadore-wildwood-vintage-brass-lamp/9JAZHYefeMJbBCqQwvNowH) | Chairish | 224 | 14.93 |
 | <img src="https://images.craigslist.org/00x0x_bxH8xHG88Do_0hF0gg_300x300.jpg" width="120"> | 7979763464 | $50 | denver | [Antique Oak Sever Table](https://www.craigslist.org/view/d/colorado-springs-antique-oak-sever-table/4bVm3zoxWYvEn7uL49Zws1) | +1 | 743 | 14.86 |
 | <img src="https://images.craigslist.org/00V0V_14Zmup0WCpY_0gY0t2_300x300.jpg" width="120"> | 7936363288 | $50 | albuquerque | [Antique wall lamps](https://www.craigslist.org/view/d/santa-cruz-antique-wall-lamps/ovraiwiPTpMdRNnJSnDwhg) | Pair of Small Antique Brass and Glass Paneled Post Lamps ... | 724 | 14.48 |
 | <img src="https://images.craigslist.org/00F0F_8X3JecXhqyi_0t20CI_300x300.jpg" width="120"> | 7978454118 | $100 | spokane | [VINTAGE WOOD DRESSER](https://www.craigslist.org/view/d/greenacres-vintage-wood-dresser/cELkEY6ict2vWkdMk7KHv1) | +2 | 1390 | 13.9 |
@@ -146,6 +151,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00s0s_2slJSO7nfJy_0CI0t2_300x300.jpg" width="120"> | 7973710899 | $30 | boston | [Vintage Pine blanket chest](https://www.craigslist.org/view/d/beverly-vintage-pine-blanket-chest/rPkyZ7K1Z87g33dmYdapMh) | Craigslist | 225 | 7.5 |
 | <img src="https://images.craigslist.org/00f0f_3IGOpctbC1W_0t20CI_300x300.jpg" width="120"> | 7954045054 | $10 | sfbay | [Antique Dresden porcelain girl](https://www.craigslist.org/view/d/san-francisco-antique-dresden-porcelain/xs178veoBBJhhpctrQZndY) | +6 | 75 | 7.5 |
 | <img src="https://images.craigslist.org/00i0i_h2D7bx9ySQu_0ak0a8_300x300.jpg" width="120"> | 7977535761 | $30 | denver | [Vintage Bushel Basket](https://www.craigslist.org/view/d/niwot-vintage-bushel-basket/dC98qaB1sb3Mjxzf8NYmyA) | +1 | 220 | 7.33 |
+| <img src="https://images.craigslist.org/00Y0Y_2TG96QIZtI3_0t20Cz_300x300.jpg" width="120"> | 7963374501 | $13 | detroit | [Vintage license plates](https://www.craigslist.org/view/d/mogadore-vintage-license-plates/kgau7ou7QL7y3EWMsu9Lih) | +1 | 95 | 7.31 |
 | <img src="https://images.craigslist.org/00U0U_54wufPIFLHk_0t20CI_300x300.jpg" width="120"> | 7943693064 | $50 | dallas | [Vintage Geisha Foil Prints](https://www.craigslist.org/view/d/palestine-vintage-geisha-foil-prints/9gBzpeUSFTjrEixr1VFvoa) | +1 | 360 | 7.2 |
 | <img src="https://images.craigslist.org/00B0B_85eTTRxdvve_0CI0t2_300x300.jpg" width="120"> | 7943252205 | $10 | buffalo | [Various vintage liquor decanters](https://www.craigslist.org/view/d/jacksonville-various-vintage-liquor/i2nJLsrHK9TBgrCBByKs1F) | +1 | 72 | 7.2 |
 | <img src="https://images.craigslist.org/00h0h_kEkYd7phlBN_0t20CI_300x300.jpg" width="120"> | 7946908610 | $25 | vermont | [Vintage Stoneware Jug](https://www.craigslist.org/view/d/schenectady-vintage-stoneware-jug/cbaoZQduXAfUW9a6FCFrwM) | +1 | 175 | 7 |
@@ -153,13 +159,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00U0U_bl4aBhKJEiQ_0tW0CI_300x300.jpg" width="120"> | 7969498434 | $100 | albuquerque | [Antique Wood Mirror](https://www.craigslist.org/view/d/corrales-antique-wood-mirror/wLGFAoeWrZaRmqDifkHsPx) | +2 | 675 | 6.75 |
 | <img src="https://images.craigslist.org/00r0r_7Tybenvxpov_0t20CI_300x300.jpg" width="120"> | 7941371071 | $30 | houston | [VINTAGE Beautiful Ladies Coat](https://www.craigslist.org/view/d/houston-vintage-beautiful-ladies-coat/rRayX2ysWKfxAueeiuig7s) | +3 | 195 | 6.5 |
 | <img src="https://images.craigslist.org/00606_6M0kxX8bSod_0t20CI_300x300.jpg" width="120"> | 7942534317 | $50 | newyork | [Vintage Capodimonte Table Lamp](https://www.craigslist.org/view/d/schenectady-vintage-capodimonte-table/uMh28XnYucjneQ53VdwtYJ) | +2 | 320 | 6.4 |
+| <img src="https://images.craigslist.org/00w0w_fAcGfLFfC24_0t20CI_300x300.jpg" width="120"> | 7938602547 | $75 | washingtondc | [Antique Chicken Crate](https://www.craigslist.org/view/d/williamstown-antique-chicken-crate/na9AsbwrJG5pDq18c7PEVh) | +2 | 475 | 6.33 |
 | <img src="https://images.craigslist.org/00q0q_a0AP5AQZ55k_0oM0x2_300x300.jpg" width="120"> | 7937918321 | $50 | sfbay | [VINTAGE VICTORIAN STYLE DECORATIVE BIRDCAGE](https://www.craigslist.org/view/d/discovery-bay-vintage-victorian-style/69atYARA3SUp16X68XcdGQ) | +1 | 315 | 6.3 |
 | <img src="https://images.craigslist.org/01616_kPtJdyExyqF_0t20CI_300x300.jpg" width="120"> | 7953100906 | $40 | washingtondc | [Vintage Radiator Cover Surround](https://www.craigslist.org/view/d/philadelphia-vintage-radiator-cover/n2E6kJGiwMdjcVdi46iiSn) | +1 | 250 | 6.25 |
 | <img src="https://images.craigslist.org/00I0I_dj7FFJYI6VW_0t20CI_300x300.jpg" width="120"> | 7974209307 | $20 | oklahomacity | [VINTAGE BLACKAMOOR LAMPS](https://www.craigslist.org/view/d/tulsa-vintage-blackamoor-lamps/1fFx91NZodPy3eWP2qa9NB) | +1 | 125 | 6.25 |
-| <img src="https://images.craigslist.org/00000_5l6zIfarElt_0CI0t2_300x300.jpg" width="120"> | 7929144493 | $95 | phoenix | [Quality Vintage Bicycle](https://www.craigslist.org/view/d/mesa-quality-vintage-bicycle/dN1gzet13SgJZbxx39Hzoj) | Anyone missing a bike? Triumph Ravine mtn(?) bike with a ... | 590 | 6.21 |
-| <img src="https://images.craigslist.org/00707_cONwGwv92wB_0gk0t2_300x300.jpg" width="120"> | 7982353851 | $20 | washingtondc | [Vintage Ironing Board](https://www.craigslist.org/view/d/newark-vintage-ironing-board/s5j7NTcP7BcWy7JrJYGYwt) | +1 | 123 | 6.15 |
-| <img src="https://images.craigslist.org/00s0s_gnEfiuvPLt0_0CI0CI_300x300.jpg" width="120"> | 7982442417 | $65 | phoenix | [Vintage key cutting machine](https://www.craigslist.org/view/d/phoenix-vintage-key-cutting-machine/9sSJoej5MhKEpLxJtR8J9m) | Cole National Corporation 3K Commercial Machine / eBay | 400 | 6.15 |
-| <img src="https://images.craigslist.org/00D0D_29ga3uXu0TL_0t20t2_300x300.jpg" width="120"> | 7945275082 | $40 | portland | [Grandma's drawers](https://www.craigslist.org/view/d/wilkeson-grandmas-drawers/giVi3cn51QMPCCTfXqyJyi) | +1 | 243 | 6.08 |
-| <img src="https://images.craigslist.org/00M0M_i1aO5CV8ZA7_0t212w_300x300.jpg" width="120"> | 7946185599 | $50 | denver | [Vintage crystal lamp &](https://www.craigslist.org/view/d/denver-vintage-crystal-lamp/8cByHxSX8AU7XAgfHbx9je) | Hampton Bay Mix & Match White Linen Table Shade 16319 - The  | 300 | 6 |
-| <img src="https://images.craigslist.org/00c0c_bb7WYEPe6SN_0CI0t2_300x300.jpg" width="120"> | 7980671676 | $20 | stlouis | [Old Wood Drilling Tools](https://www.craigslist.org/view/d/saint-louis-old-wood-drilling-tools/kcqUHoN7unajBbjK7SGw9X) | +2 | 120 | 6 |
-| <img src="https://images.craigslist.org/00k0k_h7oHfDwXT19_0t20CI_300x300.jpg" width="120"> | 7954332015 | $50 | spokane | [Vintage Dress Forms](https://www.craigslist.org/view/d/post-falls-vintage-dress-forms/hJWnc2zbTffmkUwZCfkZ9A) | +2 | 295 | 5.9 |
