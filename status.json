@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:52:04Z",
+ "updated": "2026-10-13T06:55:34Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2454,
-  "events": 10239,
+  "lens": 2479,
+  "events": 10264,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2986,
+  "queued": 2961,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 34,
-  "flagged": 41
+  "lensed": 44,
+  "flagged": 56
  },
  "last_harvests": [
   {
@@ -257,6 +257,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7968191268",
+   "title": "Stunning 18K/sterling silver CZ 360 pave` ring estate find",
+   "price": 100,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/holly-hill-stunning-18k-sterling-silver/jkN5qPPwMtBMU5qbL4mWCF",
+   "best": "Alibaba.com",
+   "med": 37000,
+   "ratio": 370,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982582199",
+   "title": "AUCTION SIGNED ARTWORK, NIIHAU SHELL LEI, ART GLASS, ERTE BRONZES",
+   "price": 10,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-auction-signed-artwork-niihau/qVEemdCFLGWXN6jrgv789b",
+   "best": "Mdina Glass",
+   "med": 1000,
+   "ratio": 100,
+   "ai_value": ""
+  },
+  {
    "pid": "7953802005",
    "title": "Assorted Vintage China Serving Pieces",
    "price": 1,
@@ -287,6 +309,17 @@
    "best": "19th century large ornate Carved Gilt wood Frame - c1860s ...",
    "med": 580,
    "ratio": 38.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934470986",
+   "title": "AUTHENTIC VINTAGE  ITALIAN PLATES COLLECTION",
+   "price": 10,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/chatsworth-authentic-vintage-italian/kKaxoDjbdfq3QLDnTiDUa9",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 25,
    "ai_value": ""
   },
   {
@@ -543,6 +576,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7951107399",
+   "title": "Lovely Silver Overlay Bowl",
+   "price": 18,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/menlo-park-lovely-silver-overlay-bowl/uDSF6WnPyVuFdcxTnLQt9X",
+   "best": "Lenox With Silver Overlay - Etsy Israel",
+   "med": 65,
+   "ratio": 3.61,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952978366",
+   "title": "Dean axes",
+   "price": 95,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-dean-axes/h4x6DMi5nx783QbDq5pfmU",
+   "best": "Used Epiphone Les Paul Junior Black Solid Body Electric ...",
+   "med": 335,
+   "ratio": 3.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7952425613",
    "title": "BRACELET. Vintage \"Goldette\" Slide Chain Bracelet. 1960s. 9\" Long.",
    "price": 55,
@@ -552,6 +607,17 @@
    "med": 190,
    "ratio": 3.45,
    "ai_value": ""
+  },
+  {
+   "pid": "7980331365",
+   "title": "Union Pacific Railroad Brass Spittoon",
+   "price": 30,
+   "area": "bakersfield",
+   "url": "https://www.craigslist.org/view/d/bakersfield-union-pacific-railroad/2owJ6MTMWxPcXmBsBge1ws",
+   "best": "Vintage Union Pacific RR Railroad Brass Spittoon | eBay",
+   "med": 100,
+   "ratio": 3.33,
+   "ai_value": "sell online and in antique shops for roughly $30 to $96,"
   },
   {
    "pid": "7956170841",
@@ -598,6 +664,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7953536188",
+   "title": "Antique Cast Iron Kettle Bean Pot",
+   "price": 125,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/petersburg-antique-cast-iron-kettle/aRdFgvVYBg96Tq1uEf2Ln5",
+   "best": "Base/Legs: Typically features a rounded or flat bottom, sometimes with three small legs or a heat/gate mark un",
+   "med": 250,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941258286",
+   "title": "Beautiful Vintage 16\" Cultured Pearl Necklace w/ Sterling Silver Clasp",
+   "price": 75,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-beautiful-vintage-16-cultured/bNJYPNb8sC982qN2otERfg",
+   "best": "Facebook",
+   "med": 142,
+   "ratio": 1.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929805032",
+   "title": "Michael Hallinan Caribbean Delight",
+   "price": 70,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/makawao-michael-hallinan-caribbean/pG9asFikAsc3RTrZ8bgqUn",
+   "best": "Dina Art Company",
+   "med": 132,
+   "ratio": 1.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7966560180",
    "title": "Antique Stoneware Pot with Lid",
    "price": 55,
@@ -606,6 +705,17 @@
    "best": "Brown and White Crock | eBay",
    "med": 100,
    "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940837201",
+   "title": "simplex time recorder",
+   "price": 200,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/winchester-simplex-time-recorder/gcfeEW9XemdNpcqarUW8e3",
+   "best": "Function: Workers punched a specific numbered button corresponding to their employee ID when arriving or leavi",
+   "med": 325,
+   "ratio": 1.63,
    "ai_value": ""
   },
   {
@@ -631,6 +741,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930773394",
+   "title": "Vintage Sterling Silver Grape Shears Germany 7\u201d",
+   "price": 195,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/novato-vintage-sterling-silver-grape/vYonSqMXk2j7GHFWAx77nG",
+   "best": "Invaluable.com",
+   "med": 280,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7946630061",
    "title": "Old camera",
    "price": 65,
@@ -640,6 +761,17 @@
    "med": 90,
    "ratio": 1.38,
    "ai_value": ""
+  },
+  {
+   "pid": "7975273071",
+   "title": "Vintage Metal Hand-Painted Ltd Edition British Soldiers Welsh Guards",
+   "price": 95,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-vintage-metal-hand-painted-ltd/oMMZaTeUcuPGmQwYUcb3Rp",
+   "best": "Set Number: No. 5186",
+   "med": 125,
+   "ratio": 1.32,
+   "ai_value": "Value: Typically sells between $95"
   },
   {
    "pid": "7956245521",
@@ -653,6 +785,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931225988",
+   "title": "$$BUYING OLD SIGNS $$",
+   "price": 100,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/des-moines-buying-old-signs/1dtj5ANA5zL9US6Y9FAnLT",
+   "best": "11 x 11 in PHILLIPS 66 GAS & OIL SHIELD ADV. SIGN DIE CUT ...",
+   "med": 100,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7931689297",
    "title": "vintage Schiaparelli hat",
    "price": 100,
@@ -661,6 +804,17 @@
    "best": "White Feather Fascinator Clip, Le Diner En Blanc Fascinator ...",
    "med": 85,
    "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963783194",
+   "title": "Vintage 1940s Shawnee Pottery \"Puss 'n Boots\" Set - 3 Pieces",
+   "price": 180,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-1940s-shawnee/xusGFbd54UPPEDZpHc5Xtn",
+   "best": "Would you like to know how to spot backstamps or markings to verify if they are authentic Shawnee pieces, or w",
+   "med": 129,
+   "ratio": 0.72,
    "ai_value": ""
   },
   {
@@ -684,6 +838,17 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7938428642",
+   "title": "Vintage Sheriff Decanter Lionstone 1969",
+   "price": 30,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-sheriff-decanter/fkyMBbUG7zd5C8GWkgaV1m",
+   "best": "Vintage Lionstone Whisky Whiskey Decanter 1969 Sheriff ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": "Value / Market Price: Typically sells between $20"
   }
  ],
  "finds": [
