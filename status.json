@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:35:29Z",
+ "updated": "2026-10-13T07:39:19Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2729,
-  "events": 10514,
+  "lens": 2754,
+  "events": 10539,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2711,
+  "queued": 2686,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 179,
-  "flagged": 141
+  "lensed": 196,
+  "flagged": 149
  },
  "last_harvests": [
   {
@@ -796,6 +796,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955389802",
+   "title": "Raymond Weil Ladies Watch",
+   "price": 85,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/raymond-weil-ladies-watch/3zCve2VeDfBebKQ691QKJ6",
+   "best": "Vintage SEANJOHN Men's Watch~Gold Tone/Stainless Steel Back ...",
+   "med": 527,
+   "ratio": 6.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7981192767",
    "title": "Hallmark Snoopy Charlie Brown",
    "price": 100,
@@ -837,6 +848,17 @@
    "best": "Can't decide if I like it or not! : r/ThriftStoreHauls",
    "med": 189,
    "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981523472",
+   "title": "14k yellow gold miniature ring pendant",
+   "price": 150,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-14k-yellow-gold-miniature/9nSyobXzQGzo3QmTYWo96Q",
+   "best": "Zirconia Baby Sized/Pinky Ring (14k) \u2013 Popular J",
+   "med": 791,
+   "ratio": 5.27,
    "ai_value": ""
   },
   {
@@ -903,6 +925,17 @@
    "best": "Nancy Delpero Art for Sale | Fine Art America",
    "med": 395,
    "ratio": 4.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976862804",
+   "title": "CONN ACOUSTIC  GUITAR",
+   "price": 140,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-conn-acoustic-guitar/tTLQyd5DiDWA9mKzKsJ68M",
+   "best": "Estrella Classical Acoustic Guitar 1970's Made In Japan ...",
+   "med": 670,
+   "ratio": 4.79,
    "ai_value": ""
   },
   {
@@ -980,6 +1013,17 @@
    "best": "Size: Approximately 8 inches tall",
    "med": 207,
    "ratio": 4.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967640516",
+   "title": "Vintage gray stool with hat rack",
+   "price": 75,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/south-saint-paul-vintage-gray-stool/hpkmrnAfBi4pu2fDGxDPmL",
+   "best": "Vintage Grey Painted Stool With Hat Rack Storage, Circa ...",
+   "med": 304,
+   "ratio": 4.05,
    "ai_value": ""
   },
   {
@@ -1067,6 +1111,17 @@
    "url": "https://www.craigslist.org/view/d/salem-vintage-silver-brides-basket/gbNVijECE7GeLsfBG3Q66V",
    "best": "R Gleason & Sons Silver Plate Repousse 12\" Centerpiece ...",
    "med": 175,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950015847",
+   "title": "SIGNED ALEXANDER BLAZQUEZ MEXICAN METAL&POTTERY CHICKEN SCULPTURE-ART",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-signed-alexander-blazquez/ejxZq8BnuXavH7zNx8A4Te",
+   "best": "Mexican Ceramic Crescent Moon Sculpture \"El Angel& | Vintage ...",
+   "med": 350,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -1247,6 +1302,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962778449",
+   "title": "Antique Briggs and Stratton Fuel Tank",
+   "price": 45,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/wichita-antique-briggs-and-stratton/r1DwrR864UQQqTtie9P9Zi",
+   "best": "Vintage Antique Appliance Fuel Tank? Steampunk | eBay",
+   "med": 117,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7979572125",
    "title": "EPIPHONE 12 STRING GUITAR",
    "price": 100,
@@ -1255,6 +1321,17 @@
    "best": "Epiphone 12 String Acoustic Guitars for sale | eBay",
    "med": 250,
    "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947966386",
+   "title": "ARTIST-SIGNED VINTAGE MODERN ART ETCHING PRINT HAPPY PLAYING KITTY CAT",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-artist-signed-vintage-modern/w3WCmJ26Yw1x2dts7Jh9L9",
+   "best": "Cat in Hand\" Original by Peter Barger \u2013 Auction \u2013 Art for ...",
+   "med": 183,
+   "ratio": 2.44,
    "ai_value": ""
   },
   {
@@ -1640,6 +1717,17 @@
    "best": "Left Doll: Wears a red jacket, black trousers, and a white/light cap, holding a pair of wooden skis.",
    "med": 85,
    "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982642895",
+   "title": "Vintage Webcor Stereofonic Imperial Reel-to-Reel w/ Mic",
+   "price": 95,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/leander-vintage-webcor-stereofonic/sP5kstE2uzfL8k2Nr43eDZ",
+   "best": "Vintage Webcor Regent EP-2820-10 Reel to Reel Recorder ...",
+   "med": 100,
+   "ratio": 1.05,
    "ai_value": ""
   },
   {
