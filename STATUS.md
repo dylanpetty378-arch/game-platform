@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T13:38:53Z
+# Refurbish status — 2026-10-13T13:42:25Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1228 |
-| lensed | 695 |
-| flagged | 533 |
-| queued/relens | 368 |
+| queued | 1203 |
+| lensed | 707 |
+| flagged | 540 |
+| queued/relens | 374 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 5012
-- events: 14947
+- lens: 5037
+- events: 14972
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (533)
+## Flagged by Lens, waiting for photo review (540)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -160,6 +160,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00X0X_81vUgImfWgF_0c60g8_300x300.jpg" width="120"> | 7956349346 | $99 | yuma | [Ioptron Electronic Antique Microscope](https://www.craigslist.org/view/d/el-cajon-ioptron-electronic-antique/5eLzHbSZv59TdZuMhVjCbN) | iOptron | 1699 | 17.16 |
 | <img src="https://images.craigslist.org/00606_2yWykyrt8Wk_0CI0t2_300x300.jpg" width="120"> | 7975199943 | $15 | omaha | [Vintage apothecary bottles- reduced](https://www.craigslist.org/view/d/glidden-vintage-apothecary-bottles/ufRfNrqF4r4cch1H9tKXGu) | Smaller Vials: Several smaller amber and clear glass dropper | 250 | 16.67 |
 | <img src="https://images.craigslist.org/00g0g_a7D2MRRhOvj_0CI0t2_300x300.jpg" width="120"> | 7954024043 | $30 | chicago | [Estate Sale:  Vintage Wax Still Life Painting Sign](https://www.craigslist.org/view/d/brookfield-estate-sale-vintage-wax/qBAHz3mXrRWaKXHKLZEDdh) | Craigslist | 495 | 16.5 |
+| <img src="https://images.craigslist.org/00g0g_e8kb4I9Eqid_0mz0mA_300x300.jpg" width="120"> | 7953182739 | $50 | losangeles | [Vintage Illuminated World Globe Lamp by Fucashun I](https://www.craigslist.org/view/d/pasadena-vintage-illuminated-world/nvjYF4reyxWuhdJskUPi7C) | Cardanic DUO Globe from Columbus for sale at Pamono | 824 | 16.48 |
 | <img src="https://images.craigslist.org/00x0x_ldZePweQFwj_0CI0t2_300x300.jpg" width="120"> | 7958395850 | $40 | eugene | [Vintage tools and bag](https://www.craigslist.org/view/d/bend-vintage-tools-and-bag/unjMzP4pSVquQ54QGVTJWd) | Antique LEATHER Ladies Doctors Dentists Medical Bag ... | 650 | 16.25 |
 | <img src="https://images.craigslist.org/00d0d_hNS8U4eZtYS_0t20CI_300x300.jpg" width="120"> | 7932514458 | $100 | norfolk | [Vintage Japanese Tatame Mats](https://www.craigslist.org/view/d/arlington-vintage-japanese-tatame-mats/g7usyrKUYraACS9J8EgWzx) | Holt Hill Audio | 1620 | 16.2 |
 | <img src="https://images.craigslist.org/00B0B_fu4G2HrXJNJ_0CI0B4_300x300.jpg" width="120"> | 7979533446 | $50 | duluth | [Antique wooden pulley](https://www.craigslist.org/view/d/saint-cloud-antique-wooden-pulley/kZaPecwY86f1EcmtZWWtUN) | Gilbert Wood Split Pulley Antique Flat Belt Mill Wheel ... | 810 | 16.2 |
@@ -212,4 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00101_b4dFgiBx6rO_0CI0t2_300x300.jpg" width="120"> | 7950623954 | $50 | minneapolis | [Vintage WWII Mountain Snowshoes](https://www.craigslist.org/view/d/lakeville-vintage-wwii-mountain/nKEErGkBTT9CeGn8CpnUeS) | Vintage 1940s Bear Claw Snow Shoes - Etsy | 475 | 9.5 |
 | <img src="https://images.craigslist.org/01212_jD2gSb16Uon_0t20CI_300x300.jpg" width="120"> | 7953691360 | $10 | washingtondc | [Vintage BARBIE FASHION OUTFIT COLLECTION - Lot 5](https://www.craigslist.org/view/d/springfield-vintage-barbie-fashion/pXM2vn1L6pyqVETUVFyFet) | Midge 1962 Barbie 1958 JAPAN On Foot Brown Bubble Cut Hair . | 95 | 9.5 |
 | <img src="https://images.craigslist.org/00s0s_coWXgViXNDg_0hr0CI_300x300.jpg" width="120"> | 7933993433 | $50 | southjersey | [Vintage Murano Figurine](https://www.craigslist.org/view/d/swedesboro-vintage-murano-figurine/6nQKHGKL4cVrcnPELeh8Fh) | Object type: Hand-blown art glass sculpture, commonly shaped | 475 | 9.5 |
-| <img src="https://images.craigslist.org/01111_eKD6VnOi9un_0CI0t2_300x300.jpg" width="120"> | 7947091276 | $10 | buffalo | [Various Vintage Fisher-Price Toys](https://www.craigslist.org/view/d/rochester-various-vintage-fisher-price/844ozmKizN9q9FwTfHQM4T) | Fisher Price Loving Family Lot Of Dolls & Furnishings / eBay | 91 | 9.1 |

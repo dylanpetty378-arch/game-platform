@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:38:53Z",
+ "updated": "2026-10-13T13:42:25Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5012,
-  "events": 14947,
+  "lens": 5037,
+  "events": 14972,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 695,
-  "queued": 1228,
+  "lensed": 707,
+  "queued": 1203,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 368,
-  "flagged": 533,
+  "queued/relens": 374,
+  "flagged": 540,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1041,6 +1041,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953182739",
+   "title": "Vintage Illuminated World Globe Lamp by Fucashun Industrial Co.",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/pasadena-vintage-illuminated-world/nvjYF4reyxWuhdJskUPi7C",
+   "best": "Cardanic DUO Globe from Columbus for sale at Pamono",
+   "med": 824,
+   "ratio": 16.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7958395850",
    "title": "Vintage tools and bag",
    "price": 40,
@@ -1646,6 +1657,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944571304",
+   "title": "VINTAGE ASTROLITE HASBRO 1969",
+   "price": 10,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/windsor-vintage-astrolite-hasbro-1969/28szkifKYz4LJgSqVQ54vt",
+   "best": "Hasbro Astrolite 1969 Part of the Hasbro Adventures in Light ...",
+   "med": 90,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
    "pid": "7963191822",
    "title": "Vintage ammo box",
    "price": 25,
@@ -1819,6 +1841,17 @@
    "best": "Regal Award Vintage Gold and Ruby Red Rhinestone Cufflinks ...",
    "med": 83,
    "ratio": 8.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953275296",
+   "title": "Vintage Sapota Ceramic Scalloped Shell Plate",
+   "price": 8,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-sapota-ceramic/sDFEchnprWaUop1w6jHaNt",
+   "best": "Sea Clam Shell Scallop Plates (4) Seafood Beach Decor 9\u201d | eBay",
+   "med": 65,
+   "ratio": 8.13,
    "ai_value": ""
   },
   {
@@ -2303,6 +2336,17 @@
    "best": "RARE EARLY 20TH C CHALLENGE NO. 3 JAPANESE TEA PAPER COVERED ...",
    "med": 187,
    "ratio": 6.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963257381",
+   "title": "Johnson Brothers \"Old Britain Castles Blue\" OVAL Plater 8\" X 12\"",
+   "price": 30,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/logan-johnson-brothers-old-britain/6L8ZHUHrjkXUm4WXaL6WiJ",
+   "best": "Johnson Brothers - Old Britain Castles - Blue - Sandwich ...",
+   "med": 185,
+   "ratio": 6.17,
    "ai_value": ""
   },
   {
@@ -2874,6 +2918,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-vintage-studio-art-pottery/9EFor4BQ7iYivmNDFsCvCa",
    "best": "2 Mid Century SDW Stoneware Designs West of California ...",
    "med": 75,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953937397",
+   "title": "LARGE 15 \" WATT PLATTER",
+   "price": 20,
+   "area": "jackson",
+   "url": "https://www.craigslist.org/view/d/clinton-large-15-watt-platter/91stgEEVS81qRFSjdKuEj9",
+   "best": "CHERRY\" Pasta Bowl #39 Watt Pottery Oven Ware USA Circa 1953 ...",
+   "med": 100,
    "ratio": 5,
    "ai_value": ""
   },
@@ -4814,6 +4869,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951180522",
+   "title": "KNIFE: Vintage Sterling Silver Handle Dessert Knife.Monticello Pattern",
+   "price": 95,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-knife-vintage-sterling/pY51cBoFuXRZLchT2M65uw",
+   "best": "Monticello by Lunt Sterling Silver Dessert Knife Blunt 7 1/2 ...",
+   "med": 189,
+   "ratio": 1.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7957136975",
    "title": "VINTAGE ROYAL TYPEWRITER",
    "price": 100,
@@ -5240,6 +5306,17 @@
    "best": "Vintage 31 1/2\" Tree, Evener, Hitch Wood Parts Farm - Horse ...",
    "med": 106,
    "ratio": 1.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931932373",
+   "title": "Pok\u00e9mon Ball",
+   "price": 100,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-washington-pokmon-ball/uLtvY6KyA4e4UnwJ1Up45i",
+   "best": "23K Gold Plated CHARIZARD Trading Card 1999 Burger King ...",
+   "med": 140,
+   "ratio": 1.4,
    "ai_value": ""
   },
   {
