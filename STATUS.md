@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T15:04:28Z
+# Refurbish status — 2026-10-13T15:07:52Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1478 |
-| lensed | 997 |
-| flagged | 710 |
-| queued/relens | 439 |
+| queued | 1453 |
+| lensed | 1007 |
+| flagged | 722 |
+| queued/relens | 442 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 6
 - searches: 1504
 - listings: 7007
-- lens: 5562
-- events: 16297
+- lens: 5587
+- events: 16322
 - comps: 1350
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (710)
+## Flagged by Lens, waiting for photo review (722)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -97,6 +97,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01313_4smE6wk7JP3_0t20CI_300x300.jpg" width="120"> | 7982012121 | $20 | williamsport | [Vintage floor lamp](https://www.craigslist.org/view/d/south-orange-vintage-floor-lamp/8SzM8vAVkqke7ehX4p63JL) | Hirune Floor Lamp / AnthroHome | 7367 | 368.35 |
 | <img src="https://images.craigslist.org/00A0A_8Mq9JYSojgY_0lM0t2_300x300.jpg" width="120"> | 7955332544 | $25 | chicago | [Vintage Chalkware Rebecca At The Well Statue](https://www.craigslist.org/view/d/shorewood-vintage-chalkware-rebecca-at/rJVbJvmRdA1gsMLiKfstPY) | Rebecca at the Well Statue / eBay | 6839 | 273.56 |
 | <img src="https://images.craigslist.org/00S0S_eWN1HTiu0NV_0AA132_300x300.jpg" width="120"> | 7951853022 | $1 | philadelphia | [Antique Office Items](https://www.craigslist.org/view/d/mont-clare-antique-office-items/vG2dd1JQQAYttduE4ESDaY) | Small Midcentury Roller Shutter Cabinet / Solid Oak / Desk . | 255 | 255 |
+| <img src="https://images.craigslist.org/00909_5j5S8NAbkEl_0CI0t2_300x300.jpg" width="120"> | 7941280867 | $1 | boston | [GORGEOUS VINTAGE STERLING SILVER JEWELRY FOR SALE-](https://www.craigslist.org/view/d/peabody-gorgeous-vintage-sterling/7rCdkYHFHXb2sydKSc5Uoe) | Rings & Boxes: Assorted rings in ring boxes (including a cam | 255 | 255 |
 | <img src="https://images.craigslist.org/00J0J_i6mwdgV585K_0iA0iA_300x300.jpg" width="120"> | 7970681433 | $1 | orangecounty | [Gold, Sterling Silver, Pearls...WOW !](https://www.craigslist.org/view/d/santa-ana-gold-sterling-silver/pTmahqGrQPTcXhJdbdgmgK) | Etsy | 184 | 184 |
 | <img src="https://images.craigslist.org/00u0u_5QGRxGtjUZS_0lM0t2_300x300.jpg" width="120"> | 7979783190 | $20 | buffalo | [2 Antique Glass Lamps](https://www.craigslist.org/view/d/buffalo-antique-glass-lamps/uhsX52remR2j35Ys7hkCTS) | Details: Embossed grape or floral motifs on the glass, a cle | 2500 | 125 |
 | <img src="https://images.craigslist.org/00404_dbPkPOOtj2M_0aT0ew_300x300.jpg" width="120"> | 7958018189 | $12 | hartford | [Water Pitcher:  Hammered Tin](https://www.craigslist.org/view/d/enfield-water-pitcher-hammered-tin/wGN7xXfrbKX667d5x3JxFc) | Craigslist | 1450 | 120.83 |
@@ -195,6 +196,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00O0O_cSlsTRPJDLq_13O0Nm_300x300.jpg" width="120"> | 7947026390 | $15 | madison | [Vintage schwinn bike](https://www.craigslist.org/view/d/davenport-vintage-schwinn-bike/1rFSMExWmejmbwCQahRbGa) | 1975 Schwinn World Tourist Cruiser Road Bike 44cm XX-Small . | 234 | 15.6 |
 | <img src="https://images.craigslist.org/00e0e_fFFdA17cjeo_0CI0t2_300x300.jpg" width="120"> | 7945328692 | $50 | vermont | [Antique Wooden Commode](https://www.craigslist.org/view/d/sanbornton-antique-wooden-commode/v7tyLg5pMNy2zm1SJHxbhT) | eBay | 750 | 15 |
 | <img src="https://images.craigslist.org/00j0j_94umym9KfCZ_0t20CI_300x300.jpg" width="120"> | 7981661277 | $10 | beaumont | [Antique Jester Teddy Bear](https://www.craigslist.org/view/d/houston-antique-jester-teddy-bear/xukdUvKHdn5QWi3c8erZyT) | eBay | 150 | 15 |
+| <img src="https://images.craigslist.org/00000_2LDOndQBMWu_0t20CI_300x300.jpg" width="120"> | 7950659925 | $60 | grandrapids | [VINTAGE GOLD OVER STERLING HALF HOOPS](https://www.craigslist.org/view/d/wyoming-vintage-gold-over-sterling-half/hef7eCgYuLavPUv1tZCHTv) | Etsy | 899 | 14.98 |
 | <img src="https://images.craigslist.org/00U0U_es6SX3fgrBL_0CI0t2_300x300.jpg" width="120"> | 7968189717 | $45 | galveston | [SCALE VINTAGE TOLEDO #1361](https://www.craigslist.org/view/d/yoakum-scale-vintage-toledo-1361/mCABHPzKw6S5DnnBHmX9Ey) | Toledo Scale Vintage FOR SALE! - PicClick | 673 | 14.96 |
 | <img src="https://images.craigslist.org/00101_1D4r7jHdFPW_0g80c6_300x300.jpg" width="120"> | 7944870335 | $5 | chicago | [Vintage Rectangular Clear Glass 2 Handled Tray](https://www.craigslist.org/view/d/shorewood-vintage-rectangular-clear/3qDfVX7mMXsumMrdTHBd57) | Craigslist | 73 | 14.6 |
 | <img src="https://images.craigslist.org/01313_9PLeBMWHsYY_0CI0pK_300x300.jpg" width="120"> | 7958079032 | $100 | knoxville | [Vintage 1952 Baby Bassinet](https://www.craigslist.org/view/d/sevierville-vintage-1952-baby-bassinet/8MkzdidKCLuMoUUuMojSLw) | Note: Vintage baby furniture of this age generally does not  | 1450 | 14.5 |
@@ -211,5 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00L0L_jogmyc7iiax_0t20CI_300x300.jpg" width="120"> | 7970581428 | $100 | milwaukee | [Vintage saddle bags](https://www.craigslist.org/view/d/stevens-point-vintage-saddle-bags/hWzzX5Ls65qwSnVSc6UteD) | ORIGINAL Vintage Harley saddle buddy seat Panhead ... | 1300 | 13 |
 | <img src="https://images.craigslist.org/00B0B_ga9LVJdZ6OY_0t20CI_300x300.jpg" width="120"> | 7935162080 | $28 | swv | [Old shoe shine  box](https://www.craigslist.org/view/d/thomasville-old-shoe-shine-box/r8pT4mi6MUGUuTudNHed4d) | Antique 1960s GRIFFIN Style Wooden Shoe Shine Box - Etsy | 364 | 13 |
 | <img src="https://images.craigslist.org/00303_kFbbR3JHySF_0fu0bC_300x300.jpg" width="120"> | 7961254881 | $18 | eastky | [Antique Picture Frame](https://www.craigslist.org/view/d/asheville-antique-picture-frame/jMDSDn8R9wxzdA3k19P5pw) | eBay | 234 | 13 |
-| <img src="https://images.craigslist.org/00K0K_jMxIxw86IR2_08d0gw_300x300.jpg" width="120"> | 7943157211 | $20 | duluth | [Antique/Vintage Berry Spoon](https://www.craigslist.org/view/d/stillwater-antique-vintage-berry-spoon/u32HshJA8sPAcUDERDxmsL) | Grape-Roger Bros Silverplate Large Grape Spoon 9" Monogram . | 259 | 12.95 |
-| <img src="https://images.craigslist.org/00000_emwylBhuMAD_0CI0t2_300x300.jpg" width="120"> | 7969735398 | $20 | kansascity | [Antique Wood Toolbox](https://www.craigslist.org/view/d/farley-antique-wood-toolbox/ugTdKfg9SkbwYq71EiL9py) | Vintage Metal Tray Red Handle Old Metal Tool Tray Tool ... | 258 | 12.9 |

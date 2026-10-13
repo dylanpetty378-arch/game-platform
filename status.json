@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T15:04:28Z",
+ "updated": "2026-10-13T15:07:52Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5562,
-  "events": 16297,
+  "lens": 5587,
+  "events": 16322,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 997,
-  "queued": 1478,
+  "lensed": 1007,
+  "queued": 1453,
   "comps/pass": 1,
-  "queued/relens": 439,
+  "queued/relens": 442,
   "decided/ask": 37,
-  "flagged": 710,
+  "flagged": 722,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -373,6 +373,17 @@
    "area": "philadelphia",
    "url": "https://www.craigslist.org/view/d/mont-clare-antique-office-items/vG2dd1JQQAYttduE4ESDaY",
    "best": "Small Midcentury Roller Shutter Cabinet | Solid Oak | Desk ...",
+   "med": 255,
+   "ratio": 255,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941280867",
+   "title": "GORGEOUS VINTAGE STERLING SILVER JEWELRY FOR SALE-MANY HANDMADE & CUSTOM PIECES!",
+   "price": 1,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/peabody-gorgeous-vintage-sterling/7rCdkYHFHXb2sydKSc5Uoe",
+   "best": "Rings & Boxes: Assorted rings in ring boxes (including a cameo in an open velvet/satin case, turquoise-set pie",
    "med": 255,
    "ratio": 255,
    "ai_value": ""
@@ -1456,6 +1467,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950659925",
+   "title": "VINTAGE GOLD OVER STERLING HALF HOOPS",
+   "price": 60,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-gold-over-sterling-half/hef7eCgYuLavPUv1tZCHTv",
+   "best": "Etsy",
+   "med": 899,
+   "ratio": 14.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7968189717",
    "title": "SCALE VINTAGE TOLEDO #1361",
    "price": 45,
@@ -1738,6 +1760,17 @@
    "url": "https://www.craigslist.org/view/d/springfield-vintage-straight-razor-case/heN28HaQSbFtQ7oLoVvsfU",
    "best": "Antique KROPP of Lodon Hollow Ground Duplex Straight Razor ...",
    "med": 60,
+   "ratio": 12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949588099",
+   "title": "Vintage Young Girl Bracelet",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-vintage-young-girl-bracelet/cRxAyK7WryjJWBoEMyqrw1",
+   "best": "Era: Circa 1960s",
+   "med": 120,
    "ratio": 12,
    "ai_value": ""
   },
@@ -2996,6 +3029,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955490401",
+   "title": "STERLING SILVER DANGLE EARRINGS",
+   "price": 25,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-sterling-silver-dangle-earrings/8MTgTsjjh1WwuEdngqhSpd",
+   "best": "VINTAGE STERLING SILVER FILIGREE DANGLE DROP EARRINGS | eBay",
+   "med": 150,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7978733907",
    "title": "Genuine Citrine & Silvertone Necklace",
    "price": 20,
@@ -3689,6 +3733,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937826242",
+   "title": "Vintage Sterling Silver Demitasse Teaspoon Pin",
+   "price": 28,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/nashua-vintage-sterling-silver/jMSmXS9xdGCL6jTtfVED7A",
+   "best": "Grande Imperiale by Buccellati Italian Sterling Silver ...",
+   "med": 134,
+   "ratio": 4.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7955335595",
    "title": "Vintage Paintbrush x 2",
    "price": 20,
@@ -3774,6 +3829,17 @@
    "best": "Antique Victorian Hand Painted Glass Electric Oil PARLOR ...",
    "med": 347,
    "ratio": 4.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954708420",
+   "title": "Vintage Sterling Silver Demitasse Teaspoon Pin",
+   "price": 28,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/nashua-vintage-sterling-silver/szS3nnfk62kRZGTPcDpHDu",
+   "best": "Craigslist",
+   "med": 129,
+   "ratio": 4.61,
    "ai_value": ""
   },
   {
@@ -4113,6 +4179,17 @@
    "area": "allentown",
    "url": "https://www.craigslist.org/view/d/emmaus-colibri-pocket-watch-pocket/p4LFm6fSDZZKFc1J7gQYa3",
    "best": "Vintage Colibri Pocket Watch And Knife Set. In Box With ...",
+   "med": 81,
+   "ratio": 4.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941553048",
+   "title": "Sterling Silver Earrings",
+   "price": 20,
+   "area": "sanangelo",
+   "url": "https://www.craigslist.org/view/d/center-point-sterling-silver-earrings/bnzFxWMADCfa9u16UTyYTx",
+   "best": "Etsy",
    "med": 81,
    "ratio": 4.05,
    "ai_value": ""
@@ -5097,6 +5174,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934810476",
+   "title": "Vintage Bitossi Pottery",
+   "price": 150,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-vintage-bitossi-pottery/iVrpN198QgG3EbWsent9Vi",
+   "best": "Jan Showers",
+   "med": 448,
+   "ratio": 2.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7982670372",
    "title": "Kala KA-TEAK-S Soprano Ukulele Solid Teak Wood",
    "price": 50,
@@ -5724,6 +5812,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963406505",
+   "title": "Vintage Egyptian Filigree Silver Bracelet",
+   "price": 60,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-egyptian-filigree/oRnSkgzEJWpAjqpjjFzqhR",
+   "best": "Ruby Lane",
+   "med": 149,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7971868533",
    "title": "Vintage desktop lamp 1940s",
    "price": 100,
@@ -6162,6 +6261,28 @@
    "med": 124,
    "ratio": 2.07,
    "ai_value": "sell online for around $40 to $125"
+  },
+  {
+   "pid": "7935617662",
+   "title": "Antique Statue",
+   "price": 165,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-antique-statue/gEZgYpFxxisy8fvYYxN8TY",
+   "best": "Religious Polychrome Santos Wood Carving For Sale at 1stDibs ...",
+   "med": 340,
+   "ratio": 2.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953142729",
+   "title": "20th Cenrury assorted coin collection",
+   "price": 100,
+   "area": "kalamazoo",
+   "url": "https://www.craigslist.org/view/d/kalamazoo-20th-cenrury-assorted-coin/3FCYPMsotJFXpzt1u58nCL",
+   "best": "What is Included in the Set:",
+   "med": 205,
+   "ratio": 2.05,
+   "ai_value": ""
   },
   {
    "pid": "7961551944",
@@ -6623,6 +6744,17 @@
    "best": "WorthPoint",
    "med": 99,
    "ratio": 1.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946109415",
+   "title": "STERLING SILVER 8\" BRACELET",
+   "price": 50,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-sterling-silver-bracelet/uBAXYGVUVuFVmUakR2TPK3",
+   "best": "eBay",
+   "med": 81,
+   "ratio": 1.62,
    "ai_value": ""
   },
   {
