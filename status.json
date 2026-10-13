@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T10:01:37Z",
+ "updated": "2026-10-13T10:05:09Z",
  "tables": {
   "harvests": 4,
   "searches": 1310,
   "listings": 5407,
-  "lens": 3654,
-  "events": 12438,
+  "lens": 3679,
+  "events": 12463,
   "comps": 1163,
   "item_types": 782,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2977,
-  "lensed": 149,
-  "queued": 1786,
+  "lensed": 162,
+  "queued": 1761,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 342,
-  "flagged": 98,
+  "flagged": 110,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -258,6 +258,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982188554",
+   "title": "Moving sale, furniture",
+   "price": 10,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-moving-sale-furniture/iS9QWqvGLDrH2rTG4apvGe",
+   "best": "Interview Setup Stock Photo - Download Image Now - Black ...",
+   "med": 829,
+   "ratio": 82.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7969827663",
    "title": "Vintage Hour Glass",
    "price": 20,
@@ -398,6 +409,17 @@
    "best": "Estimated Value",
    "med": 1275,
    "ratio": 19.62,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942543024",
+   "title": "Vintage Print",
+   "price": 25,
+   "area": "myrtlebeach",
+   "url": "https://www.craigslist.org/view/d/moncure-vintage-print/mNjQ6W9UrEuc4GcKZkmHEX",
+   "best": "JAGUAR AND CUB PICTURE BY \"R. SAMARAWEERA | #466226029",
+   "med": 380,
+   "ratio": 15.2,
    "ai_value": ""
   },
   {
@@ -610,6 +632,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945090172",
+   "title": "Vintage Polaroid Camera",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/gloucester-city-vintage-polaroid-camera/ixSQy2fUz1iXeBmfnqLjYT",
+   "best": "Accessories: Includes M3B flashbulbs, a flash attachment, paper manuals, and a hard-sided carrying case.",
+   "med": 80,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7982225400",
    "title": "Antique Wooden Fruit Boxes",
    "price": 20,
@@ -676,6 +709,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7934930818",
+   "title": "Vintage WIKA psi Gauge",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/hartford-vintage-wika-psi-gauge/4gEYb2nZUwJGV4shcnTtRJ",
+   "best": "Craigslist",
+   "med": 120,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951696489",
+   "title": "2 Vintage Pocket knives",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-pocket-knives/gStVNfsHa2DPX2eHAnfD1x",
+   "best": "Craigslist",
+   "med": 90,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7982115942",
    "title": "Women's Watches - Vintage",
    "price": 10,
@@ -698,6 +753,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7951657893",
+   "title": "Vintage Punch Bowl Set",
+   "price": 40,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/argyle-vintage-punch-bowl-set/3dcYdgtoHZ7EgRkXJN9Ljs",
+   "best": "Tiffin-franciscan Moon & Stars EAPG Glass Punch Bowl Set ...",
+   "med": 235,
+   "ratio": 5.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967191083",
+   "title": "New Vintage Gas Grill",
+   "price": 40,
+   "area": "bemidji",
+   "url": "https://www.craigslist.org/view/d/duluth-new-vintage-gas-grill/3FLNSgk7pmRfsVsJ4z361J",
+   "best": "Craigslist",
+   "med": 229,
+   "ratio": 5.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7968327900",
    "title": "Antique Hand Painted Lamp",
    "price": 50,
@@ -717,6 +794,17 @@
    "best": "DS 2014 AIR MAX LUNAR 90 C3.0 631744 104 OBSIDIAN 9.5, 11 ...",
    "med": 255,
    "ratio": 5.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951180811",
+   "title": "Antique bobsled",
+   "price": 40,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/itasca-antique-bobsled/ntXFRabtrpVPYvHPk1A2dz",
+   "best": "Vintage Steermaster Bob-Ski Sled with Rudder | #159505355",
+   "med": 225,
+   "ratio": 5.63,
    "ai_value": ""
   },
   {
@@ -783,6 +871,17 @@
    "best": "DURANGO Suede Tan Leather Western Cowboy Riding Biker Work ...",
    "med": 70,
    "ratio": 4.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950916144",
+   "title": "Assorted Vintage Tools",
+   "price": 20,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/richland-assorted-vintage-tools/4ihcdJFDFtL9dcvnGQDZsJ",
+   "best": "25 vintage farm implement mechanic collectible wrench garage ...",
+   "med": 93,
+   "ratio": 4.65,
    "ai_value": ""
   },
   {
@@ -904,6 +1003,28 @@
    "best": "Vintage Thomasville Winston Court Collection Traditional ...",
    "med": 342,
    "ratio": 3.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982152767",
+   "title": "Antique Health-O-Meter Stork Scale",
+   "price": 20,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/red-bluff-antique-health-meter-stork/hcqVh77Qrw4Yvi3FHwEZ4n",
+   "best": "Would you like to know more about how to clean/restore this type of vintage metal scale, or are you looking fo",
+   "med": 68,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963246434",
+   "title": "Antique Tools in Venice",
+   "price": 25,
+   "area": "santamaria",
+   "url": "https://www.craigslist.org/view/d/santa-monica-antique-tools-in-venice/2J3odYRwDW3REyJWf7XAwU",
+   "best": "Hand Brace & Auger Bit: A C-shaped hand-crank tool used for drilling holes in wood.",
+   "med": 84,
+   "ratio": 3.36,
    "ai_value": ""
   },
   {
@@ -1146,6 +1267,17 @@
    "best": "Vintage Brass Lamp Boho Chic | Mercari",
    "med": 175,
    "ratio": 2.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941236013",
+   "title": "Vintage Canister Set",
+   "price": 39,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/nazareth-vintage-canister-set/oQGgDXv5EiZbMhUqxN3VCa",
+   "best": "4 Vtg 1950's Lincoln Beautyware Canister Set Chrome Tea ...",
+   "med": 82,
+   "ratio": 2.1,
    "ai_value": ""
   },
   {
