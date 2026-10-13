@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:39:34Z",
+ "updated": "2026-10-13T12:43:22Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4637,
-  "events": 14572,
+  "lens": 4662,
+  "events": 14597,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 475,
-  "queued": 1603,
+  "lensed": 487,
+  "queued": 1578,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 347,
-  "flagged": 399,
+  "queued/relens": 348,
+  "flagged": 411,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -337,6 +337,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982701905",
+   "title": "4 New Breast Cancer Jewelry - $11 each OR $4 Both Pins",
+   "price": 4,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/mc-farland-new-breast-cancer-jewelry-11/46A9sDDg73Hpo6oWjDoVhv",
+   "best": "Brighton \"EVERBLOOM FLUTTER\" Necklace-Earring-Bracelet Set ...",
+   "med": 478,
+   "ratio": 119.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952251586",
    "title": "vintage camera case",
    "price": 60,
@@ -645,6 +656,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950949878",
+   "title": "Large painted clay Boston bean type pot",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/roslindale-large-painted-clay-boston/2SAEGY9qQvwpPeTSMFVdSz",
+   "best": "Antique French Stoneware Confit Pot \u2014 Glazed Brown ...",
+   "med": 250,
+   "ratio": 25,
+   "ai_value": ""
+  },
+  {
    "pid": "7955169494",
    "title": "Virtual Garage Sale-Misc Decorations",
    "price": 25,
@@ -686,6 +708,17 @@
    "best": "Vintage Anna Hutte Lead Crystal Banker Lamp \u2013 Damaged Bar ...",
    "med": 1180,
    "ratio": 23.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954059282",
+   "title": "Antique 18x23 Painting of Young Woman/Girl w/Flowers",
+   "price": 125,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-antique-18x23-painting-of/mXUa557AYNcN28yAAaL5QZ",
+   "best": "Antique Print of Girl With Flowers in Hand Carved Wood Frame ...",
+   "med": 2850,
+   "ratio": 22.8,
    "ai_value": ""
   },
   {
@@ -1250,6 +1283,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953691360",
+   "title": "Vintage BARBIE FASHION OUTFIT COLLECTION - Lot 5",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-barbie-fashion/pXM2vn1L6pyqVETUVFyFet",
+   "best": "Midge 1962 Barbie 1958 JAPAN On Foot Brown Bubble Cut Hair ...",
+   "med": 95,
+   "ratio": 9.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947091276",
    "title": "Various Vintage Fisher-Price Toys",
    "price": 10,
@@ -1698,6 +1742,17 @@
    "best": "Ross-Simons Sapphire Double-Drop Ncklc in 18k Gold Plate 18 ...",
    "med": 197,
    "ratio": 6.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934374363",
+   "title": "NECKLACE: Vintage Carnelian Beads w/ Tiny Gold-Tone Beads",
+   "price": 45,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-necklace-vintage/nkuxET9ts8HF7GkbC2UQWV",
+   "best": "Vintage Robert Lee Morris 24K Gold Plated Brass Carnelain ...",
+   "med": 295,
+   "ratio": 6.56,
    "ai_value": ""
   },
   {
@@ -3604,6 +3659,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930364409",
+   "title": "Vintage elegant rhinestone 2\"L brooch pink",
+   "price": 45,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/logan-vintage-elegant-rhinestone-2l/hNUeNA3bpfsTcqbzuW2LiK",
+   "best": "Vintage Tiered Pink Rhinestone and Pink Enameled Aurora ...",
+   "med": 106,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7951137194",
    "title": "Vintage typewriters",
    "price": 100,
@@ -3879,6 +3945,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942515082",
+   "title": "Vintage Disney Fantasia Mickey W/Chernabog's Hand Figurine",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-disney-fantasia/amogy6YvFYhbbBvhfaeHtd",
+   "best": "Fantasia's Sorcerer Mickey LE Disney Watch Chernabog's Hand ...",
+   "med": 175,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7967571786",
    "title": "Vintage Cola Bottle Collection",
    "price": 55,
@@ -4011,6 +4088,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929149201",
+   "title": "Sterling Silver Native American Charm Bracelet",
+   "price": 100,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-sterling-silver-native-american/ieHHT1Ac8RmPWGKqkV9iTe",
+   "best": "Vintage Sterling Carolyn Pollack Charm Bracelet - Etsy",
+   "med": 145,
+   "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7950465000",
    "title": "G Armani Figurine",
    "price": 75,
@@ -4121,6 +4209,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947313765",
+   "title": "14K Gold Plated Cuban Link Heart Necklace and Bracelet with Cubic Zirconia Stone",
+   "price": 120,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/jacksonville-14k-gold-plated-cuban-link/hktW9g7rdMmrwm85Ym8GSf",
+   "best": "New! 18k Gold Plated Cuban Chain Link Heart Jewelry Set ...",
+   "med": 155,
+   "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7955323234",
    "title": "Antique mantle clock",
    "price": 90,
@@ -4129,6 +4228,17 @@
    "best": "Antique Sessions Parlor Kitchen Mantle Clock with chime No ...",
    "med": 115,
    "ratio": 1.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933532579",
+   "title": "20\" Native American Sterling Silver Coral Necklace Stamped",
+   "price": 97,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-20-native-american/rHBQ7BQ4HUWVJxEPBV8peq",
+   "best": "Necklace with Red Coral Accents | Tibetan-Inspired Coral ...",
+   "med": 123,
+   "ratio": 1.27,
    "ai_value": ""
   },
   {
@@ -4209,6 +4319,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933687224",
+   "title": "Three Stooges Bobbleheads",
+   "price": 150,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-three-stooges-bobbleheads/p4NXNK74qEz1KYLhmhBCPi",
+   "best": "Three Stooges Bobbing Nodder Head SET SAMs (1st Set) | eBay",
+   "med": 150,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7978027587",
    "title": "Vintage Crate amplifier",
    "price": 75,
@@ -4261,6 +4382,17 @@
    "best": "J & G Meakin Blue Nordic Onion Design Ironstone Transferware ...",
    "med": 85,
    "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933531620",
+   "title": "20\" Native American Sterling Silver 5 Turquoise Necklace",
+   "price": 177,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-20-native-american/7nxeN9adfNq9CQ1T7keKTd",
+   "best": "Stella Blue turquoise lariat necklace handmade with silver",
+   "med": 147,
+   "ratio": 0.83,
    "ai_value": ""
   },
   {

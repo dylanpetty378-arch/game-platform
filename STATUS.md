@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T12:39:34Z
+# Refurbish status — 2026-10-13T12:43:22Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1603 |
-| lensed | 475 |
-| flagged | 399 |
-| queued/relens | 347 |
+| queued | 1578 |
+| lensed | 487 |
+| flagged | 411 |
+| queued/relens | 348 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 4637
-- events: 14572
+- lens: 4662
+- events: 14597
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (399)
+## Flagged by Lens, waiting for photo review (411)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -96,6 +96,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01313_4smE6wk7JP3_0t20CI_300x300.jpg" width="120"> | 7982012121 | $20 | williamsport | [Vintage floor lamp](https://www.craigslist.org/view/d/south-orange-vintage-floor-lamp/8SzM8vAVkqke7ehX4p63JL) | Hirune Floor Lamp / AnthroHome | 7367 | 368.35 |
 | <img src="https://images.craigslist.org/00A0A_8Mq9JYSojgY_0lM0t2_300x300.jpg" width="120"> | 7955332544 | $25 | chicago | [Vintage Chalkware Rebecca At The Well Statue](https://www.craigslist.org/view/d/shorewood-vintage-chalkware-rebecca-at/rJVbJvmRdA1gsMLiKfstPY) | Rebecca at the Well Statue / eBay | 6839 | 273.56 |
 | <img src="https://images.craigslist.org/00u0u_5QGRxGtjUZS_0lM0t2_300x300.jpg" width="120"> | 7979783190 | $20 | buffalo | [2 Antique Glass Lamps](https://www.craigslist.org/view/d/buffalo-antique-glass-lamps/uhsX52remR2j35Ys7hkCTS) | Details: Embossed grape or floral motifs on the glass, a cle | 2500 | 125 |
+| <img src="https://images.craigslist.org/00d0d_8zv5XMMLY8u_0kc0hM_300x300.jpg" width="120"> | 7982701905 | $4 | madison | [4 New Breast Cancer Jewelry - $11 each OR $4 Both ](https://www.craigslist.org/view/d/mc-farland-new-breast-cancer-jewelry-11/46A9sDDg73Hpo6oWjDoVhv) | Brighton "EVERBLOOM FLUTTER" Necklace-Earring-Bracelet Set . | 478 | 119.5 |
 | <img src="https://images.craigslist.org/00k0k_4ljwMFOVoV9_0ne0hq_300x300.jpg" width="120"> | 7952251586 | $60 | phoenix | [vintage camera case](https://www.craigslist.org/view/d/scottsdale-vintage-camera-case/psaRdiz3Abv9QAdhTktkxW) | Craigslist | 6944 | 115.73 |
 | <img src="https://images.craigslist.org/00k0k_fHdrwHCqvpv_0t20CI_300x300.jpg" width="120"> | 7981964397 | $25 | slo | [Antique weed whacker](https://www.craigslist.org/view/d/santa-barbara-antique-weed-whacker/4nATqiYT8TKmZiDcrDN2Yi) | Collector Value: These vintage primitive farm tools typicall | 2065 | 82.6 |
 | <img src="https://images.craigslist.org/00j0j_8VCpyi9RYrRz_0dW0iA_300x300.jpg" width="120"> | 7982074329 | $25 | nmi | ["Vintage" metal bird cage](https://www.craigslist.org/view/d/lansing-vintage-metal-bird-cage/1BEG7KV2PA6RCTBaihK43m) | Newel - Antique Gallery | 1753 | 70.12 |
@@ -124,10 +125,12 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00S0S_cuZZ8OUZZQI_0ey0br_300x300.jpg" width="120"> | 7941139818 | $10 | chambana | [Decorative Vintage decoupage box](https://www.craigslist.org/view/d/decorative-vintage-decoupage-box/oSHtcQgZVihe4xMAqdPko9) | Value / Market: Commonly sold as a collectible or vintage de | 275 | 27.5 |
 | <img src="https://images.craigslist.org/00u0u_jeN9coNO3W1_0CI0t2_300x300.jpg" width="120"> | 7951922051 | $50 | boston | [VINTAGE COLUMBIA RAMBLER CRUISER](https://www.craigslist.org/view/d/marblehead-vintage-columbia-rambler/pU2143ZbzP7szjp52GvdCW) | Restoration tips | 1350 | 27 |
 | <img src="https://images.craigslist.org/00X0X_4vNN7H2Rdip_0CI0lM_300x300.jpg" width="120"> | 7973412108 | $20 | duluth | [VINTAGE ELECTRIC MOTOR](https://www.craigslist.org/view/d/walker-vintage-electric-motor/7fZsUmYHXZen7DXsRG7uE9) | Motor: A smooth-running vintage electric/induction motor (su | 522 | 26.1 |
+| <img src="https://images.craigslist.org/01212_3ZuI5r2s7Wm_0t20CI_300x300.jpg" width="120"> | 7950949878 | $10 | boston | [Large painted clay Boston bean type pot](https://www.craigslist.org/view/d/roslindale-large-painted-clay-boston/2SAEGY9qQvwpPeTSMFVdSz) | Antique French Stoneware Confit Pot — Glazed Brown ... | 250 | 25 |
 | <img src="https://images.craigslist.org/00x0x_diOGXTyavGH_0t20CI_300x300.jpg" width="120"> | 7955169494 | $25 | scottsbluff | [Virtual Garage Sale-Misc Decorations](https://www.craigslist.org/view/d/timnath-virtual-garage-sale-misc/9xofnoVQ2WVWuGAq2r1JSr) | Charming Armillary Sundial For Sale at 1stDibs | 620 | 24.8 |
 | <img src="https://images.craigslist.org/00Z0Z_fwJtE9VaXqm_0t20CI_300x300.jpg" width="120"> | 7981517139 | $75 | kalispell | [Antique Scroll Saw](https://www.craigslist.org/view/d/spokane-antique-scroll-saw/8a7PPyymySF1V2KPuM2zRV) | Condition: The unit appears to be just the upper tabletop or | 1820 | 24.27 |
 | <img src="https://images.craigslist.org/00j0j_FsB0OE9lOV_0CI0t2_300x300.jpg" width="120"> | 7978376829 | $20 | galveston | [OLD TRICYCLE YARD ART](https://www.craigslist.org/view/d/yoakum-old-tricycle-yard-art/3599rw6TDhtuYTAaCgnfnm) | Vintage Red AMF Junior Children's Tricycle / eBay | 485 | 24.25 |
 | <img src="https://images.craigslist.org/01212_dsEpaO34U9h_0CI0t2_300x300.jpg" width="120"> | 7973346483 | $50 | desmoines | [vintage bankers style lamp](https://www.craigslist.org/view/d/ottumwa-vintage-bankers-style-lamp/k4p3A7ZnSFJ9XjYkNh6aQM) | Vintage Anna Hutte Lead Crystal Banker Lamp – Damaged Bar .. | 1180 | 23.6 |
+| <img src="https://images.craigslist.org/00000_50J1GOaFH8w_0kK0oc_300x300.jpg" width="120"> | 7954059282 | $125 | santabarbara | [Antique 18x23 Painting of Young Woman/Girl w/Flowe](https://www.craigslist.org/view/d/santa-barbara-antique-18x23-painting-of/mXUa557AYNcN28yAAaL5QZ) | Antique Print of Girl With Flowers in Hand Carved Wood Frame | 2850 | 22.8 |
 | <img src="https://images.craigslist.org/01515_2aFptm1eJJo_0m00q4_300x300.jpg" width="120"> | 7928418568 | $20 | denver | [Antique Reel Edger](https://www.craigslist.org/view/d/littleton-antique-reel-edger/hTumE8DXPfm5yRpr1StbUN) | Vintage Primitive Mardon Push Lawn Edger Trimmer Yard Tool . | 450 | 22.5 |
 | <img src="https://images.craigslist.org/00T0T_eK3HYTnFLds_0t20CI_300x300.jpg" width="120"> | 7979349030 | $50 | hudsonvalley | [Vintage medieval knight](https://www.craigslist.org/view/d/poughkeepsie-vintage-medieval-knight/o6LRsyE6auSameon6zs5PW) | Terra-cotta statue of knight in armor entitled Bois Guilbert | 1095 | 21.9 |
 | <img src="https://images.craigslist.org/00e0e_5Iyea5s9xnrz_0CI0t2_300x300.jpg" width="120"> | 7948495128 | $10 | bloomington | [Vintage 1970's Bed Comforter](https://www.craigslist.org/view/d/lafayette-vintage-1970s-bed-comforter/a7qyJ2o7RYjod847WehzQm) | VINTAGE Ralph Lauren Full Queen Comforter Sophie Brooke Pink | 209 | 20.9 |
@@ -179,6 +182,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00b0b_fDpcehXYiPR_0CI0t2_300x300.jpg" width="120"> | 7982695752 | $15 | minneapolis | [Antique Woodworking Tools](https://www.craigslist.org/view/d/lakeville-antique-woodworking-tools/qXD3wkcSUiWSMCjPVRfNHh) | Don't stuff those vintage tools in a toolbox or a drawer ... | 150 | 10 |
 | <img src="https://images.craigslist.org/00303_5TrprcZ9Dzu_0t20CI_300x300.jpg" width="120"> | 7931278745 | $100 | potsdam | [Antique Grain Scythe](https://www.craigslist.org/view/d/glens-falls-antique-grain-scythe/1vvW5ZRaiAWseHD3GPQfzq) | 86 Vintage | 960 | 9.6 |
 | <img src="https://images.craigslist.org/00101_b4dFgiBx6rO_0CI0t2_300x300.jpg" width="120"> | 7950623954 | $50 | minneapolis | [Vintage WWII Mountain Snowshoes](https://www.craigslist.org/view/d/lakeville-vintage-wwii-mountain/nKEErGkBTT9CeGn8CpnUeS) | Vintage 1940s Bear Claw Snow Shoes - Etsy | 475 | 9.5 |
+| <img src="https://images.craigslist.org/01212_jD2gSb16Uon_0t20CI_300x300.jpg" width="120"> | 7953691360 | $10 | washingtondc | [Vintage BARBIE FASHION OUTFIT COLLECTION - Lot 5](https://www.craigslist.org/view/d/springfield-vintage-barbie-fashion/pXM2vn1L6pyqVETUVFyFet) | Midge 1962 Barbie 1958 JAPAN On Foot Brown Bubble Cut Hair . | 95 | 9.5 |
 | <img src="https://images.craigslist.org/01111_eKD6VnOi9un_0CI0t2_300x300.jpg" width="120"> | 7947091276 | $10 | buffalo | [Various Vintage Fisher-Price Toys](https://www.craigslist.org/view/d/rochester-various-vintage-fisher-price/844ozmKizN9q9FwTfHQM4T) | Fisher Price Loving Family Lot Of Dolls & Furnishings / eBay | 91 | 9.1 |
 | <img src="https://images.craigslist.org/00I0I_eOdtn3JC1y4_0je0t2_300x300.jpg" width="120"> | 7973770338 | $25 | cincinnati | [Antique Table Lamp](https://www.craigslist.org/view/d/harrisburg-antique-table-lamp/sJUbNghA7fEuvVV6QUXAmY) | Similar pieces typically sell on platforms like Etsy or Chai | 225 | 9 |
 | <img src="https://images.craigslist.org/00606_f5hRbqCaEsJ_0t20CI_300x300.jpg" width="120"> | 7943635439 | $25 | buffalo | [VINTAGE CHAMPION SNOW SLED](https://www.craigslist.org/view/d/ontario-center-vintage-champion-snow/54YDxfVEcLxLKd8Kdw6qkr) | Craigslist | 225 | 9 |
@@ -209,7 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00b0b_j25DfJjZd5e_0CI0iv_300x300.jpg" width="120"> | 7966082733 | $40 | fresno | [Old Brooch Pin](https://www.craigslist.org/view/d/los-osos-old-brooch-pin/oAtyrtqy9KcRTNGmcNEePe) | Chairish | 297 | 7.42 |
 | <img src="https://images.craigslist.org/00i0i_lAqdlA7LED8_0t20CI_300x300.jpg" width="120"> | 7947930673 | $100 | honolulu | [Vintage Wooden Telephone Box](https://www.craigslist.org/view/d/kapolei-vintage-wooden-telephone-box/qrZn1exhSMLS3tgJnBn8Xq) | Vintage Wooden Telephone Box | 720 | 7.2 |
 | <img src="https://images.craigslist.org/00M0M_9QGnDNDpXc9_0t20CI_300x300.jpg" width="120"> | 7955459158 | $20 | wichita | [Antique Box](https://www.craigslist.org/view/d/wichita-antique-box/rF8RZfvb5XrXZQ9r4MdYtP) | Wooden Notecard Box - Etsy | 140 | 7 |
-| <img src="https://images.craigslist.org/01515_jAfCujWFy92_0ak07K_300x300.jpg" width="120"> | 7939505943 | $25 | greenbay | [Vintage Zenith Portable Radio](https://www.craigslist.org/view/d/brookfield-vintage-zenith-portable-radio/hBhhFPp5JaBF6dyRDg6h9d) | 1980s Zenith AM FM TV1 TV2 Radio Portable Model R82 for ... | 175 | 7 |
-| <img src="https://images.craigslist.org/01212_GijSxEu0uS_0lM0t2_300x300.jpg" width="120"> | 7975639251 | $40 | missoula | [Vintage handmade southwest pottery](https://www.craigslist.org/view/d/columbia-falls-vintage-handmade/2paaJzq1m3z8NrpfXaYgPh) | Craigslist | 280 | 7 |
-| <img src="https://images.craigslist.org/00a0a_25SAdlnypvk_0pO0jm_300x300.jpg" width="120"> | 7954466074 | $10 | siouxfalls | [old toys and Collectables](https://www.craigslist.org/view/d/old-toys-and-collectables/nwMZpcDVCyPHwyh6gf6jnS) | Craigslist | 70 | 7 |
-| <img src="https://images.craigslist.org/00A0A_lsypAJqakUl_0CI0t2_300x300.jpg" width="120"> | 7952265540 | $25 | nashville | [3 old cameras](https://www.craigslist.org/view/d/muldraugh-old-cameras/wN85kaudHyJkMJReVRHzBz) | 660 Polaroid / eBay | 169 | 6.76 |
