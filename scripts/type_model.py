@@ -8,11 +8,16 @@ Model: multinomial naive Bayes over title words (pure Python, ~1 MB JSON). Type 
 value = clamp(expected_profit_typical / 25, -3, 3) + 0.5 × (undervalue_frequency − 3) — positive for types where owners
 often under-price and a typical buy clears the rule, negative for types that almost never pay (shipping, low value).
 scoring.score() adds value × confidence when the top type clearly beats the runner-up (p1/(p1+p2) ≥ 0.65).
+Quick-reject (Oct 13): types where p75 × 0.87 − 2 × ship_cost_to_buyer < $20 are 'dead' — a single item can never
+clear the rule — and get an extra −1.5 unless the title says a lot/collection/plural/count
+(checked against the 40 open leads: a −3 version demoted 9 of them, so the penalty is mild and plurals are exempt).
 """
 import os, re, sys, json, math, csv, collections
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 ROOT = os.path.dirname(HERE); OUT = os.path.join(ROOT, 'research', 'type_model.json')
 STOP = set('vintage antique old the a an and of for with in on set lot pair item items great nice good condition sale new used beautiful rare'.split())
+
+LOTS = re.compile(r'\b(lot|lots|collection|set of \d+|\d+\s*(?:pcs|pieces)|bundle|assorted|misc|miscellaneous|various|pair|(?:[2-9]|\d{2,})\s+[a-z]+|figurines|heads|albums|records|tools|knives|pieces)\b', re.I)
 
 def toks(t):
     return [w for w in re.findall(r'[a-z0-9]+', (t or '').lower()) if len(w) > 1 and w not in STOP]
@@ -49,6 +54,11 @@ def build():
         try: u = float(r.get('undervalue_frequency'))
         except Exception: u = 3
         model['value'][s] = round(max(-3, min(3, e / 25)) + 0.5 * (u - 3), 2)
+        # quick-reject: even a p75 single sale minus fees and round-trip shipping can't clear $20 → type never passes
+        try:
+            p75 = float((r.get('price_p25_p50_p75') or [0, 0, 0])[2]); sh = float(r.get('ship_cost_to_buyer') or 15)
+            if p75 * 0.87 - 2 * sh < 20: model.setdefault('dead', []).append(s)
+        except Exception: pass
     json.dump(model, open(OUT, 'w'), separators=(',', ':'))
     print(f'{len(data)} labelled titles, {len(prior)} types, vocab {V} → {OUT}')
 
@@ -78,7 +88,10 @@ def adjustment(title):
     if len(p) < 2: return 0.0
     (s, p1, val), (_, p2, _) = p
     conf = p1 / (p1 + p2)
-    return round(val * conf, 2) if conf >= 0.65 else 0.0
+    if conf < 0.65: return 0.0
+    # dead single-item types get a hard demotion — unless the title is a lot/collection (per-unit math changes)
+    if s in set(load().get('dead', [])) and not LOTS.search(title or ''): return round(min(val, 0) * conf - 1.5, 2)
+    return round(val * conf, 2)
 
 if __name__ == '__main__':
     a = sys.argv[1:]

@@ -26,6 +26,18 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (10:00) — quick-reject for types that can never pass
+- `type_model.py build` now marks a type **dead** when its rubric p75 × 0.87 − 2 × ship_cost_to_buyer < $20, meaning a
+  single item can't clear the rule even at a good price. 208 of 605 rubric'd types are dead: Avon bottles, dinnerware,
+  prints, advertising tins, carnival glass and the like.
+- `adjustment()` gives dead types an extra −1.5 when the classifier is confident, unless the title signals multiples:
+  lot, collection, set of N, N pcs, a count, plurals such as figurines/heads/albums/tools, assorted, misc.
+- Calibrated against the 40 open leads. A −3 penalty without the plural exemption demoted 9 of them (Bossons heads,
+  Hummel figurines, LP albums…). The final version mildly demotes 4 single items and spares every lot. Of the last
+  20k harvested listings, ~1.4k were in dead types.
+- health.py now also reports encyclopedia comp coverage (459/607 with Terapeak), open leads (40) and the text-triage
+  backlog.
+
 ### 2026-10-13 (09:30) — round 4 + calibration lesson
 - Triage round 4 (917 listings): 1 "buy" + 8 asks from agents; Terapeak re-check killed 4 of them — **agent
   general-knowledge resale estimates ran ~2–3× higher than Terapeak sold medians** (lead soldiers $120 est vs ~$30/lot
