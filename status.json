@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:23:26Z",
+ "updated": "2026-10-13T13:27:15Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4912,
-  "events": 14847,
+  "lens": 4937,
+  "events": 14872,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 640,
-  "queued": 1328,
+  "lensed": 653,
+  "queued": 1303,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 361,
-  "flagged": 495,
+  "queued/relens": 362,
+  "flagged": 506,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -381,6 +381,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978899858",
+   "title": "Coins, vintage necklace",
+   "price": 1,
+   "area": "myrtlebeach",
+   "url": "https://www.craigslist.org/view/d/pawleys-island-coins-vintage-necklace/kRCDycuqQiWBCmtF51duw9",
+   "best": "1890-CC Morgan Silver Dollar Coin | Bullion Shark Rare Coins",
+   "med": 110,
+   "ratio": 110,
+   "ai_value": ""
+  },
+  {
    "pid": "7971410328",
    "title": "Vintage Designer Fine Jewelry By Tiffany, Taxco, Robert Lee Morris RLM, Barbara",
    "price": 1,
@@ -511,6 +522,17 @@
    "med": 898,
    "ratio": 44.9,
    "ai_value": "Price: Typically priced around $0"
+  },
+  {
+   "pid": "7947925261",
+   "title": "Vintage gold tone 3 Inch of Gold Bracelet WHITE diamond cut 7 1/2 inch",
+   "price": 25,
+   "area": "athensohio",
+   "url": "https://www.craigslist.org/view/d/logan-vintage-gold-tone-inch-of-gold/4UsrxPzajUkokxB2FyXbHM",
+   "best": "Vintage Delicate Gold Tone Chain & Crystal Accented Tennis ...",
+   "med": 1050,
+   "ratio": 42,
+   "ai_value": ""
   },
   {
    "pid": "7975791501",
@@ -1173,6 +1195,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931495586",
+   "title": "Set of 2 Decanter Bottle Stopper Toppers",
+   "price": 10,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-set-of-decanter-bottle/85ci5K9RqtrMdg9DueoQzk",
+   "best": "Rogaska Crystal GALLIA Ship Decanter & Stopper - 10 1/2\" | eBay",
+   "med": 131,
+   "ratio": 13.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7970581428",
    "title": "Vintage saddle bags",
    "price": 100,
@@ -1778,6 +1811,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7946217828",
+   "title": "VINTAGE 36\" METAL IRON CHEF",
+   "price": 25,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/denville-vintage-36-metal-iron-chef/8WVHNac9vCeGFVPefBVoxF",
+   "best": "VINTAGE METAL IRON CHEF FOR YOUR KITCHEN. | eBay",
+   "med": 199,
+   "ratio": 7.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956132580",
+   "title": "Japanese Vintage Condiment Set",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-japanese-vintage-condiment-set/iQRbtf1o6b8NzHDrXrSyu4",
+   "best": "JAPAN vinegar salad Oil bottles Sugar shaker Tea pot creamer ...",
+   "med": 119,
+   "ratio": 7.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7947324009",
    "title": "Vintage Nishiki International Frameset",
    "price": 50,
@@ -2214,6 +2269,17 @@
    "url": "https://www.craigslist.org/view/d/painting-oil-original-vintage-framed/6eEgEPqJfxkY1tkP6dmANh",
    "best": "OfferUp",
    "med": 600,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952306182",
+   "title": "Vintage Craftsman Toolbox 20\"",
+   "price": 10,
+   "area": "york",
+   "url": "https://www.craigslist.org/view/d/york-vintage-craftsman-toolbox-20/3f3PJirtG4GUdWH9spsiWi",
+   "best": "Vintage 20\" Craftsman Tombstone Style Tool Box With Tray ...",
+   "med": 60,
    "ratio": 6,
    "ai_value": ""
   },
@@ -3164,6 +3230,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970816637",
+   "title": "Pre-Hispanic Ceramic Art Reproductions:",
+   "price": 50,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/blythewood-pre-hispanic-ceramic-art/jc6sM6yB5MNvSGrwAMmwWG",
+   "best": "Roseberys London | Two ancient pottery vessels, possibly of ...",
+   "med": 195,
+   "ratio": 3.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7951324787",
    "title": "Vintage chinese large vase",
    "price": 60,
@@ -3513,6 +3590,17 @@
    "best": "Blacksmith Shear | eBay",
    "med": 210,
    "ratio": 3.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955129161",
+   "title": "Paterson NJ sign",
+   "price": 50,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/hawthorne-paterson-nj-sign/pXmYVuChdY9kZHZGPNHnC3",
+   "best": "1950s Vanderbilt Premium Tread Tires metal tin sign modern ...",
+   "med": 161,
+   "ratio": 3.22,
    "ai_value": ""
   },
   {
@@ -4495,6 +4583,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930212000",
+   "title": "Vintage Hand-Sewn Geisha Doll",
+   "price": 125,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/kamuela-vintage-hand-sewn-geisha-doll/u89yS2bDHivkBMSUi5spfs",
+   "best": "Vintage 17\"Japanese Doll GEISHA OHGI-NO-MAI BEAUTIFUL ...",
+   "med": 250,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7957136975",
    "title": "VINTAGE ROYAL TYPEWRITER",
    "price": 100,
@@ -4601,6 +4700,17 @@
    "url": "https://www.craigslist.org/view/d/llano-about-70-old-bottles/sQPVgoPg3BbvFY43p2uvjK",
    "best": "eBay",
    "med": 137,
+   "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945718135",
+   "title": "Violin Suzuki Vintage, Beautiful !",
+   "price": 150,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/santa-ana-violin-suzuki-vintage/hHiWb5ELq9piGw8AV6oY94",
+   "best": "Suzuki No. 220 size 1/8 Violin, Japan 1978, Good Condition ...",
+   "med": 275,
    "ratio": 1.83,
    "ai_value": ""
   },
@@ -5744,6 +5854,17 @@
    "area": "jacksonville",
    "url": "https://www.craigslist.org/view/d/neptune-beach-japanese-tanto-knife/hTrpsbJN5oGKHnnztcwvGf",
    "best": "Tanto nuz kost\u011bn\u00fd vzhled, fantasy d\u00fdka replika | Aukro",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961535735",
+   "title": "Epiphone SG",
+   "price": 80,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/excelsior-springs-epiphone-sg/jFoSAg4hqtxVzxz7EPCVbr",
+   "best": "Epiphone SG special 6 String Electric Guitar - Cherry ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
