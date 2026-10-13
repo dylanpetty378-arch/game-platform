@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:43:11Z",
+ "updated": "2026-10-13T07:47:12Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2779,
-  "events": 10564,
+  "lens": 2804,
+  "events": 10589,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2661,
+  "queued": 2636,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 211,
-  "flagged": 159
+  "lensed": 225,
+  "flagged": 170
  },
  "last_harvests": [
   {
@@ -466,6 +466,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938335328",
+   "title": "Light",
+   "price": 15,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/towson-light/n4aNBLYCvfDqeTQfdocGdn",
+   "best": "Antique French Wall Mounted Sconce Light in Translucid ...",
+   "med": 303,
+   "ratio": 20.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950481117",
    "title": "Elvis Presley Large Memorabilia Collection",
    "price": 28,
@@ -529,6 +540,17 @@
    "best": "eBay",
    "med": 450,
    "ratio": 15.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980345885",
+   "title": "Japanese Bronze Sculpture of Daikeko",
+   "price": 45,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/goleta-japanese-bronze-sculpture-of/qv9ooAYetscdUQobP5YX3v",
+   "best": "Daikoku Bizen | eBay",
+   "med": 685,
+   "ratio": 15.22,
    "ai_value": ""
   },
   {
@@ -628,6 +650,17 @@
    "best": "Artist / Publisher: Engraved or illustrated by the Pauquet Brothers (Hippolyte and Polydor Pauquet) from their",
    "med": 459,
    "ratio": 11.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970095212",
+   "title": "Chrysocolla & Rhodochrosite Necklace",
+   "price": 19,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-chrysocolla/mtN95LP6edp3LctcqgucWQ",
+   "best": "Turquoise, Coral and Pearl Bracelet, Seed Bead Jewelry - Etsy",
+   "med": 199,
+   "ratio": 10.47,
    "ai_value": ""
   },
   {
@@ -884,6 +917,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942038390",
+   "title": "OHANA Baritone ukulele",
+   "price": 55,
+   "area": "yuma",
+   "url": "https://www.craigslist.org/view/d/lake-havasu-city-ohana-baritone-ukulele/6iuRAYue7aqnfpnbLnnuBd",
+   "best": "Ohana BK-10 Baritone Ukulele (Recent) \u2013 Elderly Instruments",
+   "med": 299,
+   "ratio": 5.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7952566103",
    "title": "Vintage Velvet Indian Painting",
    "price": 35,
@@ -902,6 +946,17 @@
    "url": "https://www.craigslist.org/view/d/san-marcos-14k-yellow-gold-miniature/9nSyobXzQGzo3QmTYWo96Q",
    "best": "Zirconia Baby Sized/Pinky Ring (14k) \u2013 Popular J",
    "med": 791,
+   "ratio": 5.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947248625",
+   "title": "Pair Antique ca. 1890 Bristol Glass Hand Painted Victorian Vases",
+   "price": 75,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-pair-antique-ca-1890-bristol/6iyjNigovkxD7y9H6qFTob",
+   "best": "Pair Bristol Vases - Etsy",
+   "med": 395,
    "ratio": 5.27,
    "ai_value": ""
   },
@@ -1049,6 +1104,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971567195",
+   "title": "Thomas Kincaid picture",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/oceanside-thomas-kincaid-picture/p8xfYbrsPmSR6dPjRVf5cj",
+   "best": "Thomas Kinkade Clearing Storms Seaside Memories IV Painting ...",
+   "med": 171,
+   "ratio": 4.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7937798972",
    "title": "Vintage Nautical Temperature Gauge 1945",
    "price": 30,
@@ -1110,6 +1176,17 @@
    "area": "portland",
    "url": "https://www.craigslist.org/view/d/vancouver-bonaparte-lake-resort-painting/a48kBJEY7TGgQuEw76yB26",
    "best": "WA Tonasket RARE RPPC 1940's BONAPARTE LAKE RESORT ...",
+   "med": 100,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952956109",
+   "title": "Vintage fuel cans",
+   "price": 25,
+   "area": "prescott",
+   "url": "https://www.craigslist.org/view/d/prescott-vintage-fuel-cans/4kJp9whayc2xRyHhpxJWA1",
+   "best": "Vintage/antique Hibbard? 2 Gallon Zinc Oil Can Fuel Can ...",
    "med": 100,
    "ratio": 4,
    "ai_value": ""
@@ -1489,6 +1566,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951006118",
+   "title": "Vintage or antique handblown art glass bowl",
+   "price": 45,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-vintage-or-antique/qpUdgvmQ77VGn9wcBCAz3v",
+   "best": "Jugendstil\" - Glasschale. Poschinger, 20.Jh. | eBay.de",
+   "med": 100,
+   "ratio": 2.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7930867565",
    "title": "Vintage Boy Scout Lot, Local Cashmere 1960s Shirts Hat Canteen + More",
    "price": 40,
@@ -1530,6 +1618,17 @@
    "best": "Base/Legs: Typically features a rounded or flat bottom, sometimes with three small legs or a heat/gate mark un",
    "med": 250,
    "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950401072",
+   "title": "4.  antique Globes,  1930s- 1970",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/alexandria-antique-globes-1930s-1970/oxvgFRowbHjMf7XPg4oBHD",
+   "best": "World Globe Cram's Imperial Circa 1950 12 inch at 1stDibs ...",
+   "med": 155,
+   "ratio": 1.94,
    "ai_value": ""
   },
   {
@@ -1808,6 +1907,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933306235",
+   "title": "Vintage Bayou Le Mardis Gras New Orleans Pencil-Signed Poster",
+   "price": 75,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/hampton-vintage-bayou-le-mardis-gras/4bcsu6pZ3RrhZCPisFN4q7",
+   "best": "1997 George Luttrell Le Mardi Gras Basin Street Jazz Print ...",
+   "med": 80,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7948706564",
    "title": "9 - 1964 World's Fair Dolls",
    "price": 90,
@@ -1979,6 +2089,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/medford-vintage-butterfly-knives-knife/dAyPZbCw1UKBvdJjD86bUG",
    "best": "2 Vintage butterfly knives knife",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970251143",
+   "title": "Signed, original pastel by Judith Jaffe, \u201cIsadora\u201d",
+   "price": 55,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/lincoln-signed-original-pastel-by/uemSgnWxFZsAyNNd43EEWv",
+   "best": "Karl Foster | Seated Nude | MutualArt",
    "med": null,
    "ratio": null,
    "ai_value": ""
