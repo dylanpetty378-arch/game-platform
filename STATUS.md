@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T23:53:47Z
+# Refurbish status — 2026-10-13T23:58:21Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 767 |
-| lensed | 456 |
-| queued/relens | 374 |
-| queued | 229 |
+| flagged | 777 |
+| lensed | 466 |
+| queued/relens | 379 |
+| queued | 204 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 11 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7424
-- events: 26845
+- lens: 7449
+- events: 26870
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (767)
+## Flagged by Lens, waiting for photo review (777)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -205,6 +205,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00A0A_9AogMSNGNd0_0lM0t2_300x300.jpg" width="120"> | 7953102416 | $200 | sfbay | [Antique lamps, hurricane lamps](https://www.craigslist.org/view/d/san-jose-antique-lamps-hurricane-lamps/ubLy5bwvpsJsgFMediJLJd) | Vintage Hollywood Regency Crystal Strand Table Lamp With ... | 2450 | 12.25 |
 | <img src="https://images.craigslist.org/00000_cgr7lL92XC8_0t20CI_300x300.jpg" width="120"> | 7955344936 | $50 | losangeles | [Vintage Asian Floral Vase](https://www.craigslist.org/view/d/carson-vintage-asian-floral-vase/rKfTxVrBVBaV1ZGUQPBdsb) | eBay | 599 | 11.98 |
 | <img src="https://images.craigslist.org/00v0v_iGLpFpieMKo_0Mo12w_300x300.jpg" width="120"> | 7934424256 | $30 | fresno | [Hand Carved Wood Symobolic Idol Figure](https://www.craigslist.org/view/d/fresno-hand-carved-wood-symobolic-idol/h5F9MHAuYDkfpjfeA9tapF) | Lobi Bateba - Etsy | 359 | 11.97 |
+| <img src="https://images.craigslist.org/00J0J_9e9nfkkC1qX_07K0ak_300x300.jpg" width="120"> | 7978726878 | $20 | sfbay | [Framed Elephant Beaded Pillow](https://www.craigslist.org/view/d/san-francisco-framed-elephant-beaded/tu4GLHDANQeC1zGTVhgbjF) | Burmese Kalaga tapestry featuring high-relief #literati_art  | 235 | 11.75 |
 | <img src="https://images.craigslist.org/00Q0Q_lNndF9z6bTD_0Mo12w_300x300.jpg" width="120"> | 7934410252 | $60 | fresno | [Vintage Sterling Silver Jewelry -NAVAJO ZUNI Turqu](https://www.craigslist.org/view/d/fresno-vintage-sterling-silver-jewelry/eva2E9JeJVjTNNNoQ7amvZ) | Vintage zuni nastacio sterling - Gem | 700 | 11.67 |
 | <img src="https://images.craigslist.org/01010_8bhNFNXRpVk_0lM0t2_300x300.jpg" width="120"> | 7933576450 | $20 | slo | [Gemstone necklace](https://www.craigslist.org/view/d/nipomo-gemstone-necklace/1AkK4Fvz3tub7B49ppxQK3) | Etsy | 230 | 11.5 |
 | <img src="https://images.craigslist.org/00h0h_lYkzFD0tcFn_0k50t2_300x300.jpg" width="120"> | 7940313370 | $20 | miami | [Vase with Side Handles](https://www.craigslist.org/view/d/miami-vase-with-side-handles/sLT7fM18ihiwKe9p68CgZE) | VINTAGE H/P CAPODIMONTE PORCELAIN LARGE FOOTED HANDLED VASE  | 228 | 11.4 |
@@ -235,4 +236,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00g0g_4UC0qed7513_0lM0t2_300x300.jpg" width="120"> | 7952517572 | $30 | portland | [Sterling Silver Kokopelli Broach](https://www.craigslist.org/view/d/portland-sterling-silver-kokopelli/kFsXpFK6BsRDRdXBUnG9SE) | NATIVE AMERICAN Sterling Silver Onyx KOKOPELLI ... | 264 | 8.8 |
 | <img src="https://images.craigslist.org/00404_chmAOlSBRVa_04A0c6_300x300.jpg" width="120"> | 7950790524 | $65 | prescott | [vintage 16" FOOTED red green ONYX VASE](https://www.craigslist.org/view/d/prescott-vintage-16-footed-red-green/moSVKJeQcwakC4b3tkn99Y) | Vintage Onyx Marble Vase 7 3/4” Green and Brown Mantel ... | 570 | 8.77 |
 | <img src="https://images.craigslist.org/00v0v_eMxmhitKyxm_0nN0rN_300x300.jpg" width="120"> | 7935171170 | $25 | orangecounty | [Antique/Vintage Rembrandt Framed Print. Lot 4](https://www.craigslist.org/view/d/lake-forest-antique-vintage-rembrandt/ogFBmhfi1BCfmNUAg4PDp7) | Vintage 1960s Man With the Golden Helmet Rembrandt Print in  | 219 | 8.76 |
-| <img src="https://images.craigslist.org/00Q0Q_35ssGm0ewJM_0t20CI_300x300.jpg" width="120"> | 7959399108 | $20 | albany | [California Pottery](https://www.craigslist.org/view/d/albany-california-pottery/eLj5HFJdaxTBVgDbpjcYHf) | eBay | 175 | 8.75 |

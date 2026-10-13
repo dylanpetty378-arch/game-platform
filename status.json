@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:53:47Z",
+ "updated": "2026-10-13T23:58:21Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7424,
-  "events": 26845,
+  "lens": 7449,
+  "events": 26870,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 456,
+  "lensed": 466,
   "comps/pass": 1,
-  "queued/relens": 374,
+  "queued/relens": 379,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 767,
+  "flagged": 777,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 229
+  "queued": 204
  },
  "last_harvests": [
   {
@@ -1372,6 +1372,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978726878",
+   "title": "Framed Elephant Beaded Pillow",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-framed-elephant-beaded/tu4GLHDANQeC1zGTVhgbjF",
+   "best": "Burmese Kalaga tapestry featuring high-relief #literati_art ...",
+   "med": 235,
+   "ratio": 11.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7934410252",
    "title": "Vintage Sterling Silver Jewelry -NAVAJO ZUNI Turquoise Rings, Earring",
    "price": 60,
@@ -1852,6 +1863,17 @@
    "url": "https://www.craigslist.org/view/d/daly-city-mossimo-quartz-watch-japan/45ZG86VbnrbnjB8dBsPuCm",
    "best": "VINTAGE RARE SWISS CHROME BLUE DIAL SMALL LADIES QUARTZ ...",
    "med": 119,
+   "ratio": 7.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953373060",
+   "title": "Antique Viennese Silver Bowl",
+   "price": 75,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/boca-raton-antique-viennese-silver-bowl/hgVuUc8iD3p2NPWUQ5sSUE",
+   "best": "Vintage Silver Plate Ornate Embossed Footed Serving Dish ...",
+   "med": 595,
    "ratio": 7.93,
    "ai_value": ""
   },
@@ -2637,6 +2659,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946675385",
+   "title": "Vintage Limoges Golf Plate",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-limoges-golf-plate/bcRfJkqsgHiWTSvUpKAqar",
+   "best": "eBay",
+   "med": 51,
+   "ratio": 5.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7974511815",
    "title": "Cuff links vintage",
    "price": 15,
@@ -3185,6 +3218,17 @@
    "med": 135,
    "ratio": 3.86,
    "ai_value": "sell online for around $35"
+  },
+  {
+   "pid": "7950347025",
+   "title": "Signed Chaplan lithographs",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/valencia-signed-chaplan-lithographs/2bFTtFoPEweXWLPohjgMFx",
+   "best": "Artwork: Depicts two puppies sitting together with their reflection mirrored below them in sepia or black-and-",
+   "med": 77,
+   "ratio": 3.85,
+   "ai_value": "Value / Market: Similar vintage 1970s prints typically resell online for roughly $35 to $65"
   },
   {
    "pid": "7951378837",
@@ -4529,6 +4573,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968392130",
+   "title": "Leather Bibles $10 Each",
+   "price": 10,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/vail-leather-bibles-10-each/bu1GUpJ3ZNUBbqNNTo3S8t",
+   "best": "Vintage HOLY BIBLE World Publishing Company KJV Self ...",
+   "med": 25,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952474900",
    "title": "African Tribal Art",
    "price": 70,
@@ -4680,6 +4735,17 @@
    "best": "Lord Elgin Watch \u2013 14K Gold Filled \u2013 Black Dial \u2013 Gold ...",
    "med": 300,
    "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961847663",
+   "title": "Vintage ,Mid Century green candy bowls",
+   "price": 75,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-vintage-mid-century-green-candy/r19gLHUrT5LFEaJkmxCpz2",
+   "best": "Pairpoint Colias \"Butterflies & Spiderwebs\" Green Vaseline ...",
+   "med": 179,
+   "ratio": 2.39,
    "ai_value": ""
   },
   {
@@ -4856,6 +4922,17 @@
    "best": "Old Indian Tribal silver pendant. Prayer box. Dangles. Fine ...",
    "med": 77,
    "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952483670",
+   "title": "Vintage Beer Stein",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vintage-beer-stein/jVPH5ZZgVadFr3nwVYFjTL",
+   "best": "What is the value of my beer stein?",
+   "med": 175,
+   "ratio": 2.19,
    "ai_value": ""
   },
   {
@@ -5717,6 +5794,17 @@
    "ai_value": "Value: Typically sells between $15"
   },
   {
+   "pid": "7952824757",
+   "title": "Diamond and Emerald 925 Silver Ring",
+   "price": 50,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/cincinnati-diamond-and-emerald-925/sftKMN66xPWNRhB7YWMhiL",
+   "best": "Gift New 925 Sterling Silver Irish Heart CZ Claddagh Promise ...",
+   "med": 84,
+   "ratio": 1.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7931134171",
    "title": "ANTIQUE VASE WITH CORK STOPPER",
    "price": 75,
@@ -6571,6 +6659,17 @@
    "url": "https://www.craigslist.org/view/d/huntington-beach-large-miscellaneous/nutjBWCLnJQn7Hc6MrGnuZ",
    "best": "Large Miscellaneous Arts & Craft Lot \u00b7 Whatnot : Acheter ...",
    "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959464991",
+   "title": "Antique Sessions Clock Co. mantel clock, works",
+   "price": 250,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-antique-sessions-clock-co-mantel/eR6Sna8xN5aw9fqzFNfnpm",
+   "best": "119",
+   "med": 300,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -8387,6 +8486,17 @@
    "best": "Mystery Jewelry Box & Lucky Scoops Gift \u2013 LOVE WISD",
    "med": 21,
    "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982864466",
+   "title": "Very old record collection",
+   "price": 95,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/dallesport-very-old-record-collection/scXBfigMq8zRH353mxpvaR",
+   "best": "RCA Victor Red Seal Prokofieff Romeo Juliet Ballet Suite ...",
+   "med": 24,
+   "ratio": 0.25,
    "ai_value": ""
   },
   {
