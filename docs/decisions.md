@@ -9,7 +9,8 @@ Considered: (a) SQLite file in git, (b) hosted DB (Firebase/Supabase/Turso), (c)
 - (b) best for live writes from the browser, but needs an account and a secret; a secret can't live in a public repo
   and Claude can't create accounts. Every Claude surface reaches GitHub; not all reach a custom DB.
 - (c) workable sink for the browser, but another account dependency and awkward to query.
-- (d) **chosen**: readable from anywhere by URL, writable by any session with the repo, merges cleanly (append-only),
+- (d) **chosen**: readable from anywhere by URL, writable by any session with the repo, merges cleanly with git's
+  `merge=union` driver (.gitattributes — plain append-only lines DO conflict without it; learned on the first cloud run),
   full history in git, free, no limits that matter. SQLite built on demand gives real SQL. Mutable state is events.
 - Not stored: the full raw harvest (~260 K listings per 48 h ≈ 100 MB/run would bloat git by GBs/year). Only queued
   listings + per-category counts. Revisit if price-history-of-everything becomes a goal (then: compressed monthly

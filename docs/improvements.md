@@ -26,6 +26,25 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-12 (night) — first cloud run, coverage fix, worker live
+- **Lens worker (userscript) running in Dylan's Chrome**: ~5 listings/min, 0 Google blocks in the first 90, 42% flagged.
+  First token was rejected (HTTP 401) — results buffered in the browser until a valid token is saved. Userscript 1.1
+  backs off uploads for 5 min after a failure; 1.2 switches to a newer cloud queue every 40 items.
+- **Cloud run 1** (Actions): harvest worked from GitHub's servers — 97,189 listings / 6 h, 800 queued — but the commit
+  failed: my push and the bot's both appended to `db/events/2026-10.jsonl` → git conflict. "Append-only merges cleanly"
+  was wrong. Fix: `.gitattributes` `merge=union` for db/*.jsonl, bot pulls with `-X theirs` for generated files, retries.
+- **Harvest was badly truncated**: sapi returns at most the newest 360 per query; with a 150-mile radius SF antiques had
+  5,159 matches and we got 6 h of them. Now: each site's own listings (no radius → no overlap between neighbouring
+  sites) + adaptive price-band splitting whenever a query is capped before the window ends. Test: 5 metros × 3 cats ×
+  24 h → 7,380 listings, 24 splits, 0 still capped.
+- `mus` is not a valid sapi category (HTTP 400 for every area = the 413 failed requests). Owner instruments = `msa`.
+- Queue order now rotates across areas within each score tier (the first 200 of run 14 were all SF/Seattle).
+- STATUS.md is the live dashboard: github.com renders it with listing photos (finds table + flagged table).
+  Link: https://github.com/dylanpetty378-arch/game-platform/blob/refurbish/STATUS.md
+- eBay is not signed in on the new Mac → Terapeak unavailable; comps fell back to web search. Dylan to sign in.
+- Run-14 Stage 2 (in-page loop's 93): 38 flagged → 37 killed by photo, 1 find: SF all-silver squash blossom necklace
+  $75 (73.5 g, cast naja, est. profit $110–260).
+
 ### 2026-10-12 (evening) — the always-on system
 - Moved the whole project into the `refurbish` branch of game-platform: docs, encyclopedia, history, scripts, data.
 - Database introduced (`db/`, `scripts/db.py`) — every harvest, queued listing, Lens result, stage change, comp.
