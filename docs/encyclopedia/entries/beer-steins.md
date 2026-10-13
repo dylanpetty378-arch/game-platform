@@ -38,3 +38,7 @@ Buy when: a Mettlach castle mark or a lithophane regimental is visible and the p
 - 2026-10-12 – craigslist elpaso – Beer Stein Collection Nine items from Germany – $95 – passed – tourist relief, overpriced
 - 2026-10-12 – craigslist chicago – Dozen Vintage Bas Relief Milk Glass Beer Steins – $125 – passed – novelty
 - 2026-10-12 – craigslist sandiego – Collectible Beer Steins from the 1950's – $120 – passed – 1950s tourist
+- 2026-10-13 – craigslist – "4 Vintage German Stein's." – $30 – lensed/ – German pewter steins (SKS Zinn); Lens best: +1; Lens median $40 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage German (Gerz) Ceramic Beer Stein" – $25 – lensed/ – ceramic beer stein (Gerz); Lens best: Etsy; Lens median $50 (asking-price based)
+- 2026-10-13 – craigslist – "Beer steins" – $20 – lensed/ – parrot character stein (Corona); Lens best: Corona Parrot Butler Character Beer Stein - GermanSteins.com; Lens median $40 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage  1950's Falstaff Beer Stein" – $10 – lensed/ – 1950s musical stein (Falstaff); Lens best: eBay; Lens median $30 (asking-price based)

@@ -35,6 +35,8 @@ Buy when: price ≤ $40 each and the photo shows original crazed paint + glass e
 <!-- section from review agent I, run 12 -->
 
 ---
+- 2026-10-13 – craigslist – "Decoy vintage Duck" – $150 – photo_review/kill – carved wooden duck decoy; Lens best: +1; Lens median $185 (asking-price based)
+- 2026-10-13 – craigslist – "Unique vintage ducks" – $20 – queued/relens – decorative ducks; Lens best: Results are personalized; Lens median $? (asking-price based)
 
 ## Additional research (earlier entry: Duck decoys (hunting and carved))
 Updated: 2026-10-12 · Sources: wisducks.org Herter's history (Warman's price guide values), duckboats.net forum, agent knowledge

@@ -27,3 +27,4 @@ Buy when: visibly old (crazed paint, tin fins, lead belly) fish decoy ≤ $30, o
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist fargo/Moorhead – 8 7/8" green/white fish decoy "made in North Dakota", new – $14 – passed – modern hobby carving
+- 2026-10-13 – craigslist – "Vintage Spear Fishing Decoys" – $20 – decided/ask – fish spearing decoys (Bru-ell); Lens best: Bru-ell Spearing Decoys -; Lens median $85 (asking-price based)

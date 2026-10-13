@@ -35,6 +35,7 @@ Buy when: cult compact or pro body named above ≤ 35% of sold; beercan + body �
 <!-- section from review agent C, run 12 -->
 
 ---
+- 2026-10-13 – craigslist – "Ksx sears vintage camera" – $20 – queued/relens – Sears KSX film SLR (Sears KSX); Lens best: Woosir Vintage Leather Messenger Shoulder Bag for Men - Woos; Lens median $15 (asking-price based)
 
 ## Additional research (earlier entry: Film SLR cameras, 1970s–90s (Canon AE-1, Pentax K1000, Yashica FX-3, Minolta X-700))
 Updated: 2026-10-12 · Sources: eBay/KEH used price browse Oct 2025; sweep listings 2509, 2623, 2631, 2609

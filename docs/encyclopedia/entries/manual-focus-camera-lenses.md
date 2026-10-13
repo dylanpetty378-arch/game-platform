@@ -24,3 +24,4 @@ Buy when: Nikon Micro/ED lenses ≤ 40% of kamerastore price; Vivitar Series 1 �
 ## Seen in sweeps
 - 2026-10-12 – craigslist kansascity – Nikon 200mm f/4 Micro AI-S IF – $185 – passed – resale $250–320, profit ~$60 < price; seller knows
 - 2026-10-12 – craigslist spokane – Tele Vivitar 400mm T-mount – $90 – passed – $25 lens
+- 2026-10-13 – craigslist – "VINTAGE CAMERA LENSES" – $30 – lensed/ – vintage camera lenses (Carsen); Lens best: Craigslist; Lens median $30 (asking-price based)

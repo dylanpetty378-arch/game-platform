@@ -29,3 +29,4 @@ Buy when: labeled L&H/Washburn/Vega/Bacon under $60 with straight neck; any Mart
 ## Seen in sweeps
 - 2026-10-12 – craigslist Green Bay (National Mine MI) – "American Conservatory Bowl Back Mandolin" – $100 – passed (lead at ≤ $60) – clean L&H American Conservatory, 20-ish ribs, no strings, label photo; resale $150–300 minus $45 ship leaves < $100.
 - 2026-10-12 – craigslist Albuquerque – "Vintage 1900s–1920s Bowl-Back 'Tater Bug' Mandolin – 7-Rib" – $150 – passed – 7 wide ribs = cheap import tier.
+- 2026-10-13 – craigslist – "Unbranded Vintage Antique Bowlback Mandolin 1900-1920’s antique" – $150 – photo_review/kill – 1900-1920s bowlback mandolin; Lens best: Antique Bowl Back Mandolin c. 1920s? Handcrafted w/ Original; Lens median $384 (asking-price based)

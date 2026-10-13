@@ -42,6 +42,10 @@ Buy when: Accutron/Hamilton Electric/Seiko 6139/Omega/Longines mechanical under 
 <!-- section from review agent I, run 12 -->
 
 ---
+- 2026-10-13 – craigslist – "Vintage Lady's Wind-Up Watches-Longines" – $35 – photo_review/kill – ladies wind-up watches (Longines); Lens best: eBay; Lens median $85 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage Women’s Non-Working  Seiko Watch" – $52 – queued/relens – ladies 2205 watch (non-working) (Seiko); Lens best: Vintage Seiko 2205-0050 Japanese Vintage Watch Ladies | eBay; Lens median $100 (asking-price based)
+- 2026-10-13 – craigslist – "mens vintage silver  round Tradition electronic watch" – $20 – queued/relens – Swiss mechanical watch (Tradition); Lens best: TRADITION VINTAGE SWISS MADE 17 JEWELS WINDING MECHANICAL ..; Lens median $200 (asking-price based)
+- 2026-10-13 – craigslist – "TIMEX ELECTRIC Wrist Watch Vintage" – $125 – lensed/ – Electric men's watch (Timex); Lens best: eBay; Lens median $78 (asking-price based)
 
 ## Additional research (earlier entry: Vintage mechanical wristwatches (Bulova, Elgin, Hamilton, Seiko, Omega))
 Updated: 2026-10-12 · Sources: eBay sold listings (agent knowledge Oct 2026)

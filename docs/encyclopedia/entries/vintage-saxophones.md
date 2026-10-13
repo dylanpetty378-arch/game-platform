@@ -31,3 +31,4 @@ Buy when: a pro-tier horn (Conn 6M/10M, King Super 20, Martin, Selmer Paris) is 
 ---
 
 <!-- section from review agent C, run 12 -->
+- 2026-10-13 – craigslist – "Old Saxophone" – $50 – lensed/ – alto saxophone (Martin (The Indiana)); Lens best: Vintage 1952 The Indiana By Martin Elkhart Indiana Alto ...; Lens median $14999 (asking-price based)

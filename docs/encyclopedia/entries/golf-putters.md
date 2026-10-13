@@ -30,3 +30,4 @@ Buy when: Scotty Cameron ≤ $100, Ping Scottsdale ≤ $80, Sacks Parente ≤ $6
 ---
 
 <!-- section from review agent A, run 12 -->
+- 2026-10-13 – craigslist – "Vintage Gorilla Golf Putter" – $50 – queued/relens – putter (Gorilla); Lens best: VTG Beckley Ralston John Black PUTTER - Steel Shaft - All ..; Lens median $39 (asking-price based)

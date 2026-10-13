@@ -28,3 +28,4 @@ Buy when: any stamped Fairbanks/Vega/Stewart/Cole/Bacon under $300 with straight
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist Chico (SF) – "Antique Banjo 1900" – $120 – passed – unmarked catalogue 5-string, friction pegs, star inlay, missing one string and two hooks, dusty; resale $100–150.
+- 2026-10-13 – craigslist – "Antique/vintage Banjo" – $50 – photo_review/kill – antique banjo; Lens best: Qin qin musical instrument golden flower python skin three .; Lens median $200 (asking-price based)

@@ -27,3 +27,4 @@ Buy when: pencil-signed & numbered confirmed in photo, price ≤ $40, local or d
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist desmoines (Ottumwa IA) – "terry redlin framed print heading home 1990" – $10 (placeholder, calls only; seller photographed a $300 eBay listing) – lead needing real price
+- 2026-10-13 – craigslist – "Vintage F. MAssa Print of 2 Birds + Butterfly - BEST OFFER ACCEPTED!" – $35 – lensed/ – robins and butterfly print (Frank Massa); Lens best: Artist: Frank Massa (F. Massa); Lens median $66 (asking-price based)

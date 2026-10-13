@@ -28,3 +28,5 @@ Buy when: marked Romanelli/Catalina Island/Bauer large forms at ≤ 35% of sold;
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist reno – "1941 Metlox Romanelli Nude Vase" – $150 – passed – seller names it; sold $80–200
+- 2026-10-13 – craigslist – "Vintage 1960s Maurice of California Pottery Ashtray" – $40 – lensed/ – 1960s ashtray (Maurice of California); Lens best: Vintage California Originals Ashtray 575 Cal Orig Atomic ...; Lens median $35 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage Tea Pot from Vernon Kilns" – $40 – lensed/ – Native California teapot (Vernon Kilns); Lens best: Etsy; Lens median $65 (asking-price based)

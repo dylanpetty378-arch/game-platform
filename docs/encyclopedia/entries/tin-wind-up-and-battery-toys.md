@@ -29,3 +29,4 @@ Buy when: Japan/Marx/Schuco marked, working, ≤ 35% of sold value, or any robot
 ## Seen in sweeps
 - 2026-10-12 – craigslist cleveland – "Marx Funny Drummer Tiger Toy" – $100 – passed – seller names it; sold $75–150
 - 2026-10-12 – craigslist chico – 1940s–50s celluloid wind-up crawling baby, Japan – $60 – passed – sold $40–80
+- 2026-10-13 – craigslist – "Vintage Lever Action Car" – $30 – lensed/ – tin litho lever action Model T (Modern Toys); Lens best: +2; Lens median $50 (asking-price based)

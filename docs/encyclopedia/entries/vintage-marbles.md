@@ -23,3 +23,4 @@ Buy when: ≤ $15/quart of pre-1970 machine-made, or any lot with visible pontil
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist boston – "Three jars of vintage marbles" (mixed machine-made in Ball/Atlas jars) – $99 – passed – resale $100–150, glass shipping; no handmade visible
+- 2026-10-13 – craigslist – "Vintage marvel collection" – $80 – queued/ – glass marble lot; Lens best: Marbles Lot Of 80 Multi Colors Mint BEST Selection! Retired ; Lens median $23 (asking-price based)

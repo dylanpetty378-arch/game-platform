@@ -28,3 +28,4 @@ Buy when: 1930s–50s POM/Duncan-Miller/Rhodes head, working with key, ≤ $60. 
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist baltimore (Englishtown NJ dealer) – "Rare Vintage 1950-60s PARK-O-METER Custom Parking Meter Lamp, Works!" – $75 – passed – lamp conversion from an antiques dealer; sold $100–175, profit < $50 after $40 shipping
+- 2026-10-13 – craigslist – "parking meter- vintage" – $120 – queued/relens – parking meter (Duncan Miller); Lens best: 2 NEW DUNCAN MILLER POLICE WILL NOT TURN HANDLE TAG FOR 60 .; Lens median $40 (asking-price based)

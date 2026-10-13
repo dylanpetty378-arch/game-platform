@@ -35,6 +35,8 @@ Buy when: an original 1980s Powell/Santa Cruz/Vision ≤ $100, or NOS reissue �
 <!-- section from review agent D, run 12 -->
 
 ---
+- 2026-10-13 – craigslist – "Vintage Skateboard Trucks 7.75" – $15 – lensed/ – aluminum skateboard trucks 7.75; Lens best: Finish: Raw silver aluminum with signs of surface wear, scra; Lens median $45 (asking-price based)
+- 2026-10-13 – craigslist – "SKATEBOARD VINTAGE SURFING THEMED" – $35 – lensed/ – surf-themed complete skateboard; Lens best: eBay; Lens median $75 (asking-price based)
 
 ## Additional research (earlier entry: Vintage skateboard decks (1980s Vision, Powell-Peralta, Santa Cruz))
 Updated: 2026-10-12 · Sources: eBay sold knowledge 2024–25 (Vision Double Vision / Gator originals $150–400; Powell Ripper/Skull & Sword originals $300–1,000; 2000s–2020s reissues $60–120); Art of Skateboarding price references.

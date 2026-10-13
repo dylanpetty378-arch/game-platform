@@ -27,3 +27,5 @@ Buy when: novelty shape (Automobile/Football/Basketball/Donut/Nautilus/Airflow/R
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist lexington KY – "Hall Teapot set" 1940s forest green/citron Boston-shape teapot, sugar, creamer – $40 – passed – common shape, $40–60 ceiling for the set
+- 2026-10-13 – craigslist – "Jewel Tea Pitcher (Hall)" – $35 – lensed/ – Autumn Leaf utility jug (Hall (Jewel Tea)); Lens best: Vintage Hall's Superior Jewel Autumn Tea Leaf rayed Utility ; Lens median $20 (asking-price based)
+- 2026-10-13 – craigslist – "Cookie jar MCM Hall’s" – $45 – lensed/ – Big Ear cookie jar (Hall (Eva Zeisel)); Lens best: Would you like to know its current market value, tips on how; Lens median $30 (asking-price based)

@@ -27,3 +27,4 @@ Buy when: screw-arm plow plane ≤ $60, H&R set ≤ $100, named 18th-c. maker at
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist sacramento/Red Bluff – 3 unmarked wooden bench planes – $70 – passed – $20–30 each, decor grade
+- 2026-10-13 – craigslist – "Antique plane" – $15 – lensed/ – coffin smoothing plane; Lens best: +4; Lens median $40 (asking-price based)

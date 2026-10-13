@@ -27,3 +27,4 @@ Buy when: Baldwin/Guy's Dropper/Dewar ≤ $30, or a box lot with several brass l
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist harrisonburg/McSherrystown – Justrite coal miner's lamp, excellent – $100 – passed – overpriced ~2x
+- 2026-10-13 – craigslist – "Vintage Auto-lite Carbide Miner’s Helmet Lamp" – $45 – queued/relens – carbide miner's helmet lamp (Auto-Lite); Lens best: Results are personalized; Lens median $? (asking-price based)

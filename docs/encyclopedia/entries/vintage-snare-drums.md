@@ -31,3 +31,4 @@ Buy when: Ludwig keystone/blue-olive, Slingerland, Rogers, Gretsch badge visible
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist eugene – "chrome snare" with case – $75 – passed – lug style MIJ 70s, no badge; ~$70 resale
+- 2026-10-13 – craigslist – "Vintage Decorative Snare Drum" – $25 – photo_review/kill – decorative marching snare drum; Lens best: +1; Lens median $550 (asking-price based)

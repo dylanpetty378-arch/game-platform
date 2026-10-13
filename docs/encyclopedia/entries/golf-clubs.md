@@ -34,3 +34,4 @@ Buy when: Scotty Cameron under $100, Ping Anser Scottsdale/Phoenix under $60, Mi
 - 2026-10-12 – craigslist denver – Ping Rapture driver – $70 – passed – 2006 driver, $25–40
 - 2026-10-12 – craigslist nmi – TaylorMade Stealth 2 driver – $200 – passed – fair
 - 2026-10-12 – craigslist atlanta – Complete Ben Hogan set with bag – $50 – passed – need to see "Apex" forged; likely Edge/Bounce Sole, $50–100 set, shipping kills it
+- 2026-10-13 – craigslist – "Antique Vintage Golf Clubs" – $25 – queued/ – Ping Eye 2 woods (Ping); Lens best: +1; Lens median $60 (asking-price based)

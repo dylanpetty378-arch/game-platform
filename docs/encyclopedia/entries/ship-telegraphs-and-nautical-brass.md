@@ -23,3 +23,4 @@ Buy when: maker plate visible (Chadburn, Robinson, Henschel, Bendix) and ≤ $20
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist dallas – "Brelco antique ships telegraph" 12", cracked glass – $100 – passed – decor reproduction tier ($80–150)
+- 2026-10-13 – craigslist – "Vintage Maritime Brass Lamp" – $50 – photo_review/kill – brass nautical lantern; Lens best: +3; Lens median $800 (asking-price based)

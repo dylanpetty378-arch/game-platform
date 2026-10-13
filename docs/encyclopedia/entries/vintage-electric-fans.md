@@ -23,3 +23,4 @@ Buy when: working Vornado ≤ $40 or brass-blade Emerson/GE working ≤ $60. Pas
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist wenatchee – Vornado 16-C, "doesn't seem to work" – $35 – passed (repair rule) – as-is resale $50–80, working $110–150; cheap if a restorer wants it
+- 2026-10-13 – craigslist – "Vintage Fan" – $50 – photo_review/kill – desk fan (Manning Bowman); Lens best: +4; Lens median $89 (asking-price based)

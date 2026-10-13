@@ -27,3 +27,6 @@ Buy when: porcelain (not plastic/tin) pump plate or small sign ≤ $150 with cle
 - 2026-10-12 – craigslist vermont – Joe Camel fold-up floor ashtray, worn, rusty tray – $150 – passed – resale $150–250 for clean examples; seller knows
 - 2026-10-12 – craigslist quadcities – Caffrey's Irish Ale neon – $200 – passed – at limit, breakage
 - 2026-10-12 – craigslist stlouis – Marlboro wall clock – $115 – passed – $60–100 item
+- 2026-10-13 – craigslist – "Old vintage NOS sign" – $100 – queued/relens – NOS sign; Lens best: Results are personalized; Lens median $? (asking-price based)
+- 2026-10-13 – craigslist – "Vintage plastic Dickey's BBQ sign" – $20 – photo_review/kill – plastic standing sign (Dickey's Barbecue); Lens best: Would you like to know more about the history of Dickey's Ba; Lens median $? (asking-price based)
+- 2026-10-13 – craigslist – "Old Rusted Tractor Sign Bridges Hardware" – $20 – photo_review/kill – round metal farm machinery sign (Bridges Hardware); Lens best: Craigslist; Lens median $110 (asking-price based)

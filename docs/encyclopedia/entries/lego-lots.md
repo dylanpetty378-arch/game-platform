@@ -32,3 +32,5 @@ Buy when: price ≤ $3/lb with visible licensed minifigs, or retired set ≤ 40%
 ---
 
 <!-- section from review agent B, run 12 -->
+- 2026-10-13 – craigslist – "Assorted Legos" – $65 – photo_review/kill – bulk LEGO bin (LEGO); Lens best: LEGO Bulk 12 LB Mixed Bricks RANDOM Box LEGO Pieces Make ...; Lens median $140 (asking-price based)
+- 2026-10-13 – craigslist – "Box of Legos" – $40 – lensed/ – vintage LEGO lot (LEGO); Lens best: If you'd like, let me know:; Lens median $50 (asking-price based)

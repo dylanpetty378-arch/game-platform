@@ -24,3 +24,4 @@ Buy when: Olympia SM/Hermes/colour Royal ≤ $60, Royal QDL/Smith-Corona ≤ $35
 ## Seen in sweeps
 - 2026-10-12 – craigslist phoenix – Royal Quiet De Luxe – $80 – passed – $100–150 item, seller researched
 - 2026-10-12 – craigslist syracuse – "Typewriter antique, no brand seen" (desktop standard, painted white) – $100 – passed – repainted, $30 item
+- 2026-10-13 – craigslist – "Remington Vintage Typewriter" – $55 – photo_review/kill – No. 12 standard typewriter (Remington); Lens best: Antique 1909 Remington No. 12 Standard Correspondence ...; Lens median $427 (asking-price based)

@@ -24,3 +24,4 @@ Buy when: signed Cost/Turpin/Lee/early Lynch under $100, or any signed call lot 
 ## Seen in sweeps
 - 2026-10-12 – craigslist jackson MS – Ashby gobbler box with signed Ike Ashby letter – $100 – passed – seller aware, resale $120–200, margin < $100
 - 2026-10-12 – craigslist greenbay – Quaker Boy crow call – $8 – passed
+- 2026-10-13 – craigslist – "Vintage Scotch Duck Call" – $10 – queued/relens – duck call (Scotch); Lens best: Results are personalized; Lens median $? (asking-price based)

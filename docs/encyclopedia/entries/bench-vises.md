@@ -30,3 +30,4 @@ Buy when: a real Wilton bullet (Chicago or Schiller Park), Parker, Prentiss, or 
 ## Seen in sweeps
 - 2026-10-12 – craigslist fortcollins – "WILTON 4" MACHINIST BENCH VISE" – $175 – passed – photos show a red SEARS vise with a "$80" tag (listing/photo mismatch); even a real Schiller Park 4" bullet at $175 nets < $50 after $100 shipping
 - 2026-10-12 – craigslist elmira – Central Forge table vise w/ anvil – $19 – passed – Harbor Freight
+- 2026-10-13 – craigslist – "Vintage GL bench vise" – $55 – queued/relens – 3in swivel bench vise (GL Japan); Lens best: Vintage GL Japan 3” Swivel Bench Vise | eBay; Lens median $30 (asking-price based)

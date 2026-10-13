@@ -27,3 +27,4 @@ Buy when: complete-ish Clipper (≥ 20 cams) ≤ $120. Pass when: body + a few c
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist oklahomacity – Curtis Clipper #15, 7 carriages + gauges – $150 – passed – resale ~$250, net ≈ $40 after shipping
+- 2026-10-13 – craigslist – "Vintage key cutting machine" – $65 – photo_review/kill – 3K key cutting machine (Cole National); Lens best: Cole National Corporation 3K Commercial Machine | eBay; Lens median $400 (asking-price based)

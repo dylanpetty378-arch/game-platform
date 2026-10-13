@@ -34,3 +34,4 @@ Buy when: a lot with a visible Ambassadeur/Penn Senator/Newell under $30; comple
 ---
 
 <!-- section from review agent G, run 12 -->
+- 2026-10-13 – craigslist – "5 Vintage Fishing Reels" – $10 – queued/relens – lot of 5 fishing reels; Lens best: Results are personalized; Lens median $? (asking-price based)

@@ -10,3 +10,4 @@ Pass on brown bakelite above $40 (per tube-radios); untested is a Dylan pass reg
 ## Seen in sweeps
 - 2026-10-12 – craigslist tucson – Zenith brown bakelite AM/FM (H725-type), untested – $45 – passed – $70–120 working, untested
 - 2026-10-12 – craigslist norfolk – "Mark II drive-in theatre speaker" – $50 – passed – $30–60 each, decor market
+- 2026-10-13 – craigslist – "Vintage zenith radio 1933" – $200 – queued/relens – 1933 Zenith tube radio (Zenith); Lens best: Zenith Model 755 Tube Radio with New Grill Cloth | Antique .; Lens median $50 (asking-price based)

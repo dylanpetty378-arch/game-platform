@@ -40,6 +40,11 @@ Buy when: Greensboro/New Geneva stencilled piece under $100 with no crack, or an
 <!-- section from review agent J, run 12 -->
 
 ---
+- 2026-10-13 – craigslist – "Antique Stoneware Jug" – $60 – photo_review/kill – salt glaze stoneware jug; Lens best: Antique 1 Gal Two Tone Brown Salt Glaze Stoneware Crock Jug ; Lens median $85 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage Stoneware Jug" – $25 – photo_review/kill – two-tone stoneware jug; Lens best: +1; Lens median $175 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage Primitive Brown Salt Glazed Moonshine Jug" – $100 – photo_review/kill – Albany slip stoneware jug; Lens best: Antique Brown Stoneware Jug With Cork Stopper - Etsy; Lens median $92 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage Large Cobalt Blue Water or Milk Pitcher with Flowers" – $60 – photo_review/kill – cobalt salt glaze pitcher; Lens best: Vintage Blue And White Salt Glazed Pottery Pitcher | eBay; Lens median $120 (asking-price based)
+- 2026-10-13 – craigslist – "Salt Glazed Stoneware Jug" – $50 – photo_review/kill – cobalt salt glazed jug; Lens best: pottery – Shaker Museum; Lens median $100 (asking-price based)
 
 ## Additional research (earlier entry: Stoneware crocks, jugs & salt cellars (Red Wing, Western, Monmouth, decorated salt-glaze))
 Updated: 2026-10-12 · Sources: eBay sold memory 2025, Red Wing Collectors Society knowledge

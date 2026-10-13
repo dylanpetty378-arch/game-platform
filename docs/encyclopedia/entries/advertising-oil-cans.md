@@ -35,3 +35,5 @@ Buy when: graphic quart/5-lb cans under $30; Archer/Mohawk/Polly pails under $60
 - 2026-10-12 – craigslist fargo – RARE Vintage 25LB Archer Lubricants Motor Oil Tin Can w/ Indian – $145 – passed – seller aware; sells $150–300, shipping heavy, no spread
 - 2026-10-12 – craigslist monterey – 5FT x 5FT SHELL GAS SIGN – $60 – passed – one-sided plastic, local pickup, not porcelain
 - 2026-10-12 – craigslist nashville – METAL REPRODUCTION ADVERTISING – $150 – passed – repro
+- 2026-10-13 – craigslist – "Vintage STP can" – $20 – queued/relens – oil treatment can (STP); Lens best: Vintage STP Oil Treatment Can | eBay; Lens median $14 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage Golf Oil Can" – $20 – queued/relens – 5 gallon lube can (Gulf); Lens best: Vintage Purple 5 Gallon Gulf Lube Can Bucket with Lid | eBay; Lens median $40 (asking-price based)

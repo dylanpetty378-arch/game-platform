@@ -34,6 +34,14 @@ Buy when: Chelsea/Sonora/Ansonia crystal regulator ≤ $100 running. Pass when: 
 <!-- section from review agent C, run 12 -->
 
 ---
+- 2026-10-13 – craigslist – "Sessions Mantle Clock Vintage" – $20 – queued/relens – mantel clock (Sessions); Lens best: Results are personalized; Lens median $? (asking-price based)
+- 2026-10-13 – craigslist – "Vintage Linden mantel clock" – $30 – lensed/ – figural porcelain clock (Linden); Lens best: +2; Lens median $38 (asking-price based)
+- 2026-10-13 – craigslist – "New Haven Victorian Clock" – $99 – queued/relens – Victorian clock (New Haven Clock Co); Lens best: WORKING Victorian Clock New Haven Clock Co. USA Decorative .; Lens median $95 (asking-price based)
+- 2026-10-13 – craigslist – "Victorian Vintage Oak Wooden Mantle Clock" – $150 – photo_review/kill – oak parlor kitchen clock (Sessions); Lens best: Antique Sessions Parlor Kitchen Mantle Clock with chime ...; Lens median $295 (asking-price based)
+- 2026-10-13 – craigslist – "New Haven Victorian Clock" – $99 – photo_review/kill – Victorian clock (New Haven Clock Co); Lens best: WORKING Victorian Clock New Haven Clock Co. USA Decorative .; Lens median $110 (asking-price based)
+- 2026-10-13 – craigslist – "Small Ansonia Clock" – $75 – queued/relens – small Ansonia clock (Ansonia); Lens best: Results are personalized; Lens median $? (asking-price based)
+- 2026-10-13 – craigslist – "We Hear the Chime/Antique Seth Thomas No. 89 Wood & Brass Mantle Clock" – $100 – queued/relens – No. 89 mantel clock (Seth Thomas); Lens best: Results are personalized; Lens median $? (asking-price based)
+- 2026-10-13 – craigslist – "ANTIQUE KOREAN SEISEKOWA COFFEE TABLE CLOCK" – $100 – queued/relens – Korean/Japanese table clock (Seikosha); Lens best: Results are personalized; Lens median $? (asking-price based)
 
 ## Additional research (earlier entry: Seth Thomas and American mantel clocks)
 Updated: 2026-10-12 · Sources: eBay sold browse Oct 2025 (Seth Thomas Adamantine, 89 movement); sweep listing 2642; NAWCC general knowledge

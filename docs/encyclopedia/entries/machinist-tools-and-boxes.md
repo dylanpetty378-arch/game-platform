@@ -26,3 +26,4 @@ Buy when: Kennedy 520/526 ≤ $50, Starrett 798 8" ≤ $60, Gerstner ≤ $120. P
 - 2026-10-12 – craigslist susanville – Kennedy 1810 cantilever – $125 – passed – $80–120 item
 - 2026-10-12 – craigslist boise – "Vintage Machinist & Woodworking Hand Tool Collection" (files, reamers, spade bits) – $75 – passed – junk tier
 - 2026-10-12 – craigslist yakima – "Bunch of vintage tools, great for decorating" – $75 – passed
+- 2026-10-13 – craigslist – "Vintage Weldon Tool Box" – $20 – photo_review/kill – metal tool chest (Weldon Tool Co); Lens best: Craigslist; Lens median $76 (asking-price based)

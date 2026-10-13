@@ -25,3 +25,4 @@ Buy when: Silkstone BFMC ≤ $50, Bob Mackie ≤ $40, 1988 Holiday NRFB ≤ $60,
 - 2026-10-12 – craigslist nashville – Barbie as Marilyn (Hollywood Legends) – $100 – passed – $40–70 item
 - 2026-10-12 – craigslist portland – 1997 Holiday Barbie 10th Anniversary – $30 – passed – $20–35 item
 - 2026-10-12 – craigslist stcloud – I Love Lucy "Job Switching" #21268 – $30 – passed; craigslist eugene – "Big lot of Barbies" – $175 – passed
+- 2026-10-13 – craigslist – "Vintage Barbie doll's" – $10 – photo_review/kill – Barbie with wardrobe case (Mattel); Lens best: +1; Lens median $107 (asking-price based)

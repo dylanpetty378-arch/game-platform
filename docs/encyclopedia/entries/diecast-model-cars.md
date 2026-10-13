@@ -35,3 +35,6 @@ Buy when: Carousel 1 / Exoto / CMC under $50; Danbury Mint 1:12 or truck series 
 ## Seen in sweeps
 - 2026-10-12 – craigslist tucson – Carousel 1 4501 Kurtis Kraft 1955 Indy – $40 – passed – seller knows value, pickup-only, no shipping; would otherwise be a flag (sells $120–200)
 - 2026-10-12 – craigslist milwaukee – Franklin Mint 1967 VW Beetle w/ case – $85 – passed – sells $50–80
+- 2026-10-13 – craigslist – "Assorted Vintage Hot Wheels" – $15 – lensed/ – assorted diecast cars (Hot Wheels / Matchbox); Lens best: Matchbox Porsche Diecast & Toy Truck for sale | eBay; Lens median $25 (asking-price based)
+- 2026-10-13 – craigslist – "Vintage 1993 Hot Wheels" – $15 – queued/relens – 1993 Hot Wheels (Hot Wheels); Lens best: Results are personalized; Lens median $? (asking-price based)
+- 2026-10-13 – craigslist – "Vintage Yatming Ferrari" – $10 – queued/relens – Ferrari 308 1:64 diecast (Yatming); Lens best: Vintage Unbranded Ferrari 308 GTB Gray/Silver 1:64 Diecast .; Lens median $13 (asking-price based)
