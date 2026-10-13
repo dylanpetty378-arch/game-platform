@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:57:10Z",
+ "updated": "2026-10-13T23:03:26Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7074,
-  "events": 26494,
+  "lens": 7099,
+  "events": 26519,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 375,
+  "lensed": 381,
   "comps/pass": 1,
-  "queued/relens": 320,
+  "queued/relens": 325,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 552,
+  "flagged": 566,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 579
+  "queued": 554
  },
  "last_harvests": [
   {
@@ -778,6 +778,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954059724",
+   "title": "Antique Moonstone Tennis Bracelet .925 Sterling",
+   "price": 175,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-antique-moonstone/nKBz6W6Py8cUUunFt7j5Bs",
+   "best": "BBJ 925 Sterling Silver Mother of Pearl Bracelet - 8-1/2 ...",
+   "med": 3695,
+   "ratio": 21.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7933717352",
    "title": "Antique Copper Vase Vintage Brass Urn",
    "price": 20,
@@ -842,6 +853,17 @@
    "med": 1705,
    "ratio": 17.05,
    "ai_value": "Price: Retails around $3,299"
+  },
+  {
+   "pid": "7975238325",
+   "title": "VINTAGE HUDSON SOPRANO UKULELE",
+   "price": 65,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/florissant-vintage-hudson-soprano/ecZkzNtAiJch5fBWYNj4a2",
+   "best": "KoAloha Super Soprano Long Neck Solid Koa KSM-02 Made in ...",
+   "med": 1095,
+   "ratio": 16.85,
+   "ai_value": ""
   },
   {
    "pid": "7951659226",
@@ -1097,6 +1119,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940313370",
+   "title": "Vase with Side Handles",
+   "price": 20,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-vase-with-side-handles/sLT7fM18ihiwKe9p68CgZE",
+   "best": "VINTAGE H/P CAPODIMONTE PORCELAIN LARGE FOOTED HANDLED VASE ...",
+   "med": 228,
+   "ratio": 11.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7928936201",
    "title": "OLDER JOHNSON REELS",
    "price": 20,
@@ -1262,6 +1295,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946710598",
+   "title": "Pendant Vintage Tribal Rectangular with Dangles",
+   "price": 15,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-pendant-vintage-tribal/1zQ24Gzfx6BusgTPHMe1Tj",
+   "best": "Vintage Rajasthani Silver Amulet, Tribal Pendant - Etsy",
+   "med": 150,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7947128386",
    "title": "FIVE OLD RELIGIOUS MEDALS",
    "price": 5,
@@ -1326,6 +1370,28 @@
    "med": 219,
    "ratio": 8.76,
    "ai_value": "valued around $25 to $100"
+  },
+  {
+   "pid": "7974818586",
+   "title": "Sterling baroque freshwater pearl bracelet",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-sterling-baroque-freshwater/oXZ92XDr4RgGr7JUjJNYDa",
+   "best": "Wide Freshwater Pearl Solid Silver 925 Bracelet, Three ...",
+   "med": 819,
+   "ratio": 8.62,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951926889",
+   "title": "Seiko Men's Watch Vintage \"TV\" Style",
+   "price": 70,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/danville-seiko-mens-watch-vintage-tv/7wpRmEyEsyzcD74fpZKoZx",
+   "best": "Seiko Dx | eBay",
+   "med": 599,
+   "ratio": 8.56,
+   "ai_value": ""
   },
   {
    "pid": "7982703225",
@@ -1944,6 +2010,17 @@
    "ai_value": "Value / Market: Generally sells between $40"
   },
   {
+   "pid": "7962366495",
+   "title": "2 Mid Century Paintings",
+   "price": 60,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/everett-mid-century-paintings/1A28FCUL5oy4Aa8Uam68xg",
+   "best": "Vintage Loomis Oil Painting On Canvas 24\"Wx 20\"H wood framed ...",
+   "med": 325,
+   "ratio": 5.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7978836273",
    "title": "Japanese Decor Vintage",
    "price": 25,
@@ -2017,6 +2094,28 @@
    "url": "https://www.craigslist.org/view/d/binghamton-oneida-quadruple-plate/k9gkYkW3uW87HNZ9AnZxGg",
    "best": "Van Bergh Quadruple Silver Plate Creamer, Etched Silver ...",
    "med": 50,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981752210",
+   "title": "Single Earrings ~ You Choose!   (Vintage)",
+   "price": 15,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-single-earrings-you-choose/qKa7irF29mU6KyPmzAZJUD",
+   "best": "Vintage Earrings Lot Handmade Beaded Dangles - Etsy",
+   "med": 75,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942827370",
+   "title": "Vintage Saint Joseph Pendant Necklace\tor Brooch",
+   "price": 5,
+   "area": "yakima",
+   "url": "https://www.craigslist.org/view/d/roslyn-vintage-saint-joseph-pendant/inK4M9p9x2TkQuyBUyZGDL",
+   "best": "Vatican Library Collection | Jewelry | Vatican Library ...",
+   "med": 25,
    "ratio": 5,
    "ai_value": ""
   },
@@ -4221,6 +4320,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974820545",
+   "title": "Vintage Blue Intaglio Cameo Brooch",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-blue-intaglio-cameo/nWXwWqZXgkgpZxCRiBP62m",
+   "best": "Vintage Silver Tone Avon Blue President's Recognition ...",
+   "med": 46,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7933954165",
    "title": "Vintage JFK Pocket Watch",
    "price": 50,
@@ -4514,6 +4624,17 @@
    "url": "https://www.craigslist.org/view/d/carrboro-vintage-war-soldiers-wood/msFMvzMXGkQe4GhPp9KkaA",
    "best": "Antiques Set Of 3 Wall Art Military Uniforms 1861-1862 on ...",
    "med": 46,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948157005",
+   "title": "Etanche World War II wrist watch",
+   "price": 275,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/lakewood-etanche-world-war-ii-wrist/2qBG8WYyM2KWwsYBp7Uw5w",
+   "best": "Vintage Military Watch - Etanche - Geneva Stripes - Manual ...",
+   "med": 420,
    "ratio": 1.53,
    "ai_value": ""
   },
@@ -5310,6 +5431,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954130629",
+   "title": "VIANI 925 STERLING SILVER QUARTZ GORGEOUS NEW WATCH W/BOX & PAPERWORK!",
+   "price": 99,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/secaucus-viani-925-sterling-silver/s7us9X6ELAdv9LLYmUdJmV",
+   "best": "Vivani Sterling Silver 925 Quartz Watch | eBay",
+   "med": 95,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7955143053",
    "title": "Knick-knack stuff",
    "price": 100,
@@ -5691,6 +5823,17 @@
    "url": "https://www.craigslist.org/view/d/la-mesa-antique-sterling-small-pitcher/1hoPfDwpjqrATgy8fNGVxT",
    "best": "Sterling Silver Novelty Jersey Milk / Cream Jug. Birmingham ...",
    "med": 169,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982883294",
+   "title": "Calypso Maxi Statement Necklace",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-calypso-maxi-statement-necklace/6Q1eFsynfoNVX8yMcBXo4h",
+   "best": "Charming Silver AUDREY Tribal/bohemian/ Oversized/bohoo ...",
+   "med": 34,
    "ratio": 0.68,
    "ai_value": ""
   },
@@ -6120,6 +6263,17 @@
    "url": "https://www.craigslist.org/view/d/utica-vintage-unisex-mint-pocket-watch/sdLoGHuAzzyu6hACfZCYLc",
    "best": "Wallapop",
    "med": 21,
+   "ratio": 0.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958558964",
+   "title": "Vintage Vinyl Album Collection",
+   "price": 50,
+   "area": "nwct",
+   "url": "https://www.craigslist.org/view/d/torrington-vintage-vinyl-album/a7U4krgXPHiQanjkfA3D9x",
+   "best": "LP Louis Armstrong, Bing Crosby, Nat King Cole White ...",
+   "med": 14,
    "ratio": 0.28,
    "ai_value": ""
   },
