@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T13:46:01Z
+# Refurbish status — 2026-10-13T13:49:53Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1178 |
-| lensed | 719 |
-| flagged | 548 |
-| queued/relens | 379 |
+| queued | 1153 |
+| lensed | 737 |
+| flagged | 554 |
+| queued/relens | 380 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 5062
-- events: 14997
+- lens: 5087
+- events: 15022
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,12 +87,13 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (548)
+## Flagged by Lens, waiting for photo review (554)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
 | photo | pid | price | area | title | Lens best match | match median | ratio |
 |---|---|---|---|---|---|---|---|
+| <img src="https://images.craigslist.org/01111_8vM6OzKuBNp_0CI0t2_300x300.jpg" width="120"> | 7940429521 | $5 | stjoseph | [Choice Coke Collection](https://www.craigslist.org/view/d/saint-joseph-choice-coke-collection/6WKC8P6oLjsFcCuWHncXMC) | LOT OF 13 COCA COLA INTERNATIONAL COLLECTION BEAN BAG PLUSH  | 2500 | 500 |
 | <img src="https://images.craigslist.org/01313_4smE6wk7JP3_0t20CI_300x300.jpg" width="120"> | 7982012121 | $20 | williamsport | [Vintage floor lamp](https://www.craigslist.org/view/d/south-orange-vintage-floor-lamp/8SzM8vAVkqke7ehX4p63JL) | Hirune Floor Lamp / AnthroHome | 7367 | 368.35 |
 | <img src="https://images.craigslist.org/00A0A_8Mq9JYSojgY_0lM0t2_300x300.jpg" width="120"> | 7955332544 | $25 | chicago | [Vintage Chalkware Rebecca At The Well Statue](https://www.craigslist.org/view/d/shorewood-vintage-chalkware-rebecca-at/rJVbJvmRdA1gsMLiKfstPY) | Rebecca at the Well Statue / eBay | 6839 | 273.56 |
 | <img src="https://images.craigslist.org/00J0J_i6mwdgV585K_0iA0iA_300x300.jpg" width="120"> | 7970681433 | $1 | orangecounty | [Gold, Sterling Silver, Pearls...WOW !](https://www.craigslist.org/view/d/santa-ana-gold-sterling-silver/pTmahqGrQPTcXhJdbdgmgK) | Etsy | 184 | 184 |
@@ -208,8 +209,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00o0o_aE9JYiSoWp1_0t20CI_300x300.jpg" width="120"> | 7954408750 | $75 | statesboro | [Vintage plant stand](https://www.craigslist.org/view/d/athens-vintage-plant-stand/cmZLeRXfp15YPWuLA2JoA8) | Chairish | 762 | 10.16 |
 | <img src="https://images.craigslist.org/00V0V_a5wLfSaDSlY_0t20t2_300x300.jpg" width="120"> | 7941367173 | $10 | duluth | [Vintage Wooden Tool Box](https://www.craigslist.org/view/d/south-saint-paul-vintage-wooden-tool-box/u8uWR8djcJi53MT9Y1obuD) | Vintage Wood Carpenter Tool Box - Etsy | 100 | 10 |
 | <img src="https://images.craigslist.org/00b0b_fDpcehXYiPR_0CI0t2_300x300.jpg" width="120"> | 7982695752 | $15 | minneapolis | [Antique Woodworking Tools](https://www.craigslist.org/view/d/lakeville-antique-woodworking-tools/qXD3wkcSUiWSMCjPVRfNHh) | Don't stuff those vintage tools in a toolbox or a drawer ... | 150 | 10 |
+| <img src="https://images.craigslist.org/00V0V_jwuIUiFUN4u_0jm0ew_300x300.jpg" width="120"> | 7940245982 | $10 | albany | [(10) Hallmark mini Lunchboxes Hot Wheels, Snoopy](https://www.craigslist.org/view/d/albany-10-hallmark-mini-lunchboxes-hot/meid3fwxrqeTmULL5MJyda) | Vintage Metal Lunch Boxes - Etsy | 100 | 10 |
 | <img src="https://images.craigslist.org/00R0R_jcu6PXQ3xpC_09M0t2_300x300.jpg" width="120"> | 7982698512 | $40 | portland | [Vintage Australian Aboriginal Didgeridoo Hand Pain](https://www.craigslist.org/view/d/vancouver-vintage-australian-aboriginal/kgdvVBvN3tpSBS8ejbLDZV) | Vintage Didgeridoo 51" Wood Wind Instrument / eBay | 390 | 9.75 |
 | <img src="https://images.craigslist.org/00303_5TrprcZ9Dzu_0t20CI_300x300.jpg" width="120"> | 7931278745 | $100 | potsdam | [Antique Grain Scythe](https://www.craigslist.org/view/d/glens-falls-antique-grain-scythe/1vvW5ZRaiAWseHD3GPQfzq) | 86 Vintage | 960 | 9.6 |
 | <img src="https://images.craigslist.org/00101_b4dFgiBx6rO_0CI0t2_300x300.jpg" width="120"> | 7950623954 | $50 | minneapolis | [Vintage WWII Mountain Snowshoes](https://www.craigslist.org/view/d/lakeville-vintage-wwii-mountain/nKEErGkBTT9CeGn8CpnUeS) | Vintage 1940s Bear Claw Snow Shoes - Etsy | 475 | 9.5 |
-| <img src="https://images.craigslist.org/01212_jD2gSb16Uon_0t20CI_300x300.jpg" width="120"> | 7953691360 | $10 | washingtondc | [Vintage BARBIE FASHION OUTFIT COLLECTION - Lot 5](https://www.craigslist.org/view/d/springfield-vintage-barbie-fashion/pXM2vn1L6pyqVETUVFyFet) | Midge 1962 Barbie 1958 JAPAN On Foot Brown Bubble Cut Hair . | 95 | 9.5 |
-| <img src="https://images.craigslist.org/00s0s_coWXgViXNDg_0hr0CI_300x300.jpg" width="120"> | 7933993433 | $50 | southjersey | [Vintage Murano Figurine](https://www.craigslist.org/view/d/swedesboro-vintage-murano-figurine/6nQKHGKL4cVrcnPELeh8Fh) | Object type: Hand-blown art glass sculpture, commonly shaped | 475 | 9.5 |

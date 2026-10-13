@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:46:01Z",
+ "updated": "2026-10-13T13:49:53Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5062,
-  "events": 14997,
+  "lens": 5087,
+  "events": 15022,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 719,
-  "queued": 1178,
+  "lensed": 737,
+  "queued": 1153,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 379,
-  "flagged": 548,
+  "queued/relens": 380,
+  "flagged": 554,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -303,6 +303,17 @@
   }
  ],
  "flagged_waiting": [
+  {
+   "pid": "7940429521",
+   "title": "Choice Coke Collection",
+   "price": 5,
+   "area": "stjoseph",
+   "url": "https://www.craigslist.org/view/d/saint-joseph-choice-coke-collection/6WKC8P6oLjsFcCuWHncXMC",
+   "best": "LOT OF 13 COCA COLA INTERNATIONAL COLLECTION BEAN BAG PLUSH ...",
+   "med": 2500,
+   "ratio": 500,
+   "ai_value": ""
+  },
   {
    "pid": "7982012121",
    "title": "Vintage floor lamp",
@@ -1569,6 +1580,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940245982",
+   "title": "(10) Hallmark mini Lunchboxes Hot Wheels, Snoopy",
+   "price": 10,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/albany-10-hallmark-mini-lunchboxes-hot/meid3fwxrqeTmULL5MJyda",
+   "best": "Vintage Metal Lunch Boxes - Etsy",
+   "med": 100,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7982698512",
    "title": "Vintage Australian Aboriginal Didgeridoo Hand Painted 40\"",
    "price": 40,
@@ -1731,6 +1753,17 @@
    "best": "PG 10282: FENDER MEXICO NASHVILLE TELE PG 10282: FENDER ...",
    "med": 875,
    "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963942404",
+   "title": "BELLEEK 7\" PLATES (5)",
+   "price": 30,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/shrewsbury-belleek-plates/3idDBCt8zgpnGRbHc5BSq3",
+   "best": "Antique Belleek Shamrock China \u2013 3rd Black Mark Parian ...",
+   "med": 260,
+   "ratio": 8.67,
    "ai_value": ""
   },
   {
@@ -2072,6 +2105,17 @@
    "best": "Chairish",
    "med": 297,
    "ratio": 7.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946264746",
+   "title": ".925 1\" 25MM 5.7G Sterling Silver Shell Pendant",
+   "price": 85,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-mm-57g-sterling-silver/8tmicAb3scYEznvEAQSe2J",
+   "best": "SEASHELL PENDANT CHARM WITH A DIAMOND CUT FINISH IN STERLING ...",
+   "med": 614,
+   "ratio": 7.22,
    "ai_value": ""
   },
   {
@@ -4803,6 +4847,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982693529",
+   "title": "Antique Medical Hearing Aid",
+   "price": 95,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-antique-medical-hearing-aid/aMUzNLJjSLg98S65sx77ay",
+   "best": "Mid-20th Century Black Enamel Pendant Light with Brass Top ...",
+   "med": 209,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7956328166",
    "title": "vintage costume jewelry lot from the 80s and 90s",
    "price": 40,
@@ -6327,6 +6382,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/medford-fish-figurine/r2cGoNKYut9jBtoS5vHnvf",
    "best": "Vintage 3D Carved Ocean Angel Fish Sculpture Statue ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978158312",
+   "title": "vintage Imperial U.S.A. stainless steel fish filet knife (80s era)",
+   "price": 15,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/kingston-vintage-imperial-usa-stainless/xpyvLiedg1KLG8gB5afki7",
+   "best": "Fjord Japan Fishing Stainless Steel 6 Inch Fillet Knife w ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
