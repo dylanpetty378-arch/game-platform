@@ -5848,3 +5848,4 @@
 {"ts":"2026-10-13T02:39:17Z","pid":"7957891406","stage":"flagged","run":"lensworker-20261013-0232","data":{"med":490,"ratio":3.92}}
 {"ts":"2026-10-13T02:39:27Z","pid":"7930176584","stage":"flagged","run":"lensworker-20261013-0232","data":{"med":200,"ratio":10}}
 {"ts":"2026-10-13T02:39:36Z","pid":"7942906937","stage":"flagged","run":"lensworker-20261013-0235","data":{"med":179,"ratio":2.24}}
+{"pid":"7969348839","stage":"decided","status":"pass","type":"pocket-watch-hampden","note":"seller: runs for a bit then stops -> needs service (repair rule)","run":"review-20261013","by":"claude","ts":"2026-10-13T02:40:08Z"}

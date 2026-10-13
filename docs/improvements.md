@@ -26,6 +26,18 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (early) — first top-10 report from the database
+- ~830 listings through Lens (worker v1.3 on the CLIP-ranked queue since 02:27 UTC), 360 flagged → all triaged; 40
+  photo-reviewed in full; Terapeak sold comps for ~25 item types (eBay now signed in on the Mac); listing bodies pulled
+  for every candidate (they changed 5 verdicts: per-item pricing, local-only, "stops running").
+- Funnel: flagged → photo keep ≈ 1 in 12; keep → passes the rule ≈ 1 in 4. Lens-flag yield on the OLD title-only queue
+  was mostly furniture; the CLIP-ranked queue's flags were visibly better (portraits, Islamic bronze, Limoges, guitars).
+- Earlier-run finds (camera lot, santo, chenets, Hoyt, Furbys, Thorens, cymbals) were liveness-checked and added to
+  the DB as `decided` events so the database holds every live lead.
+- `scripts/build_report.py` builds the printable report from a spec (seller contacts stay in the spec, not the repo).
+- Lesson: always read the listing body before comps — Lens + photos can't see "$20 each", "local cash only", or
+  "runs for a bit then stops".
+
 ### 2026-10-12 (night) — first cloud run, coverage fix, worker live
 - **Lens worker (userscript) running in Dylan's Chrome**: ~5 listings/min, 0 Google blocks in the first 90, 42% flagged.
   First token was rejected (HTTP 401) — results buffered in the browser until a valid token is saved. Userscript 1.1
