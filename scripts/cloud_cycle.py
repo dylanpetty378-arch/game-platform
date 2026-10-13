@@ -54,6 +54,10 @@ def harvest_and_select(hours, per_cycle):
     by = {}
     for r in rows: by[r['cat']] = by.get(r['cat'], 0) + 1
     known = db.known_pids()
+    # learn category weights from every Lens result so far (self-improving prioritisation)
+    Lby = {str(r['pid']): r for r in db.read('listings')}
+    scoring.LEARNED = scoring.learned_weights(list(db.read('lens')), Lby)
+    print('learned category weights:', scoring.LEARNED)
     fresh = [r for r in rows if str(r['pid']) not in known]
     scored = [(scoring.score(r), r) for r in fresh]
     scored = [x for x in scored if x[0] > -99]
@@ -64,7 +68,7 @@ def harvest_and_select(hours, per_cycle):
         seen_img.add(r['imgs'][0]); pick.append((s, r))
         if len(pick) >= per_cycle: break
     db.append('harvests', {'harvest_id': hid, 'source': 'craigslist', 'hours': hours, 'cats': harvest_cl.CATS, 'n_listings': len(rows),
-                           'n_new': len(fresh), 'n_selected': len(pick), 'failed_requests': fails, 'requests': jobs, 'by_cat': by, 'by': 'github-actions'})
+                           'n_new': len(fresh), 'n_selected': len(pick), 'learned': scoring.LEARNED, 'failed_requests': fails, 'requests': jobs, 'by_cat': by, 'by': 'github-actions'})
     db.append('listings', [{'pid': str(r['pid']), 'source': 'craigslist', 'harvest_id': hid, 'posted': r['posted'], 'price': r['price'],
                             'title': r['title'], 'area': r['area'], 'region': r['region'], 'cat': r['cat'], 'imgs': r['imgs'], 'score': s,
                             'url': f"https://www.craigslist.org/view/d/{r['slug']}/{r['uuid']}"} for s, r in pick])

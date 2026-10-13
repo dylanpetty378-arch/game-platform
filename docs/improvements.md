@@ -41,6 +41,11 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 - Queue order now rotates across areas within each score tier (the first 200 of run 14 were all SF/Seattle).
 - STATUS.md is the live dashboard: github.com renders it with listing photos (finds table + flagged table).
   Link: https://github.com/dylanpetty378-arch/game-platform/blob/refurbish/STATUS.md
+- **True volume is ~400 K listings/day** (cloud run 2: 143,076 in 8 h, 291 price splits, 0 capped, 0 failures). Lens
+  capacity is ~5–7 K/day, so prioritisation is now the main lever. Added category priors (antiques/collectibles/jewelry/
+  art/cameras/instruments up; furniture/RVs/boats/wanted down) plus a LEARNED per-category adjustment computed from
+  Lens outcomes every cycle (strong-signal share vs average, shrunk until ~150 results). Next: learn from Stage-2 keep/
+  kill and finds instead of Lens medians (which are inflated by category matches), then a title/image model.
 - eBay is not signed in on the new Mac → Terapeak unavailable; comps fell back to web search. Dylan to sign in.
 - Run-14 Stage 2 (in-page loop's 93): 38 flagged → 37 killed by photo, 1 find: SF all-silver squash blossom necklace
   $75 (73.5 g, cast naja, est. profit $110–260).
