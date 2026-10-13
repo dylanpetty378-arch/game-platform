@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:17:40Z",
+ "updated": "2026-10-13T13:23:26Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4887,
-  "events": 14822,
+  "lens": 4912,
+  "events": 14847,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 624,
-  "queued": 1353,
+  "lensed": 640,
+  "queued": 1328,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 359,
-  "flagged": 488,
+  "queued/relens": 361,
+  "flagged": 495,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1580,6 +1580,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955522114",
+   "title": "Monoprice Nashville Tele Guitar",
+   "price": 100,
+   "area": "athensga",
+   "url": "https://www.craigslist.org/view/d/chestnut-mountain-monoprice-nashville/iEFooo611SjpXTwefMawCa",
+   "best": "PG 10282: FENDER MEXICO NASHVILLE TELE PG 10282: FENDER ...",
+   "med": 875,
+   "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7954104568",
    "title": "Antique Child Soldier Statue",
    "price": 35,
@@ -1822,6 +1833,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979348919",
+   "title": "Singer Sewing Vintage Machines",
+   "price": 50,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/winter-garden-singer-sewing-vintage/eMNsywCiav9jX3ZWbH8CDg",
+   "best": "German SINGER 20 1920s Child Toy Sewing Machine 20-1 ...",
+   "med": 385,
+   "ratio": 7.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7945745921",
    "title": "Antique Pepsi Crate",
    "price": 10,
@@ -1918,6 +1940,17 @@
    "best": "Craigslist",
    "med": 70,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969685742",
+   "title": "VINTAGE NECKLACE",
+   "price": 10,
+   "area": "roanoke",
+   "url": "https://www.craigslist.org/view/d/fincastle-vintage-necklace/gPMrSrg61a9YrtK7LJAXZn",
+   "best": "Craigslist",
+   "med": 69,
+   "ratio": 6.9,
    "ai_value": ""
   },
   {
@@ -2952,6 +2985,17 @@
    "best": "Antique Victor Victrola Orthophonic Floral Carved Walnut ...",
    "med": 425,
    "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946479603",
+   "title": "Vintage Carved Red Soapstone Vase 6\u201d",
+   "price": 65,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-vintage-carved-red/tW3syBf2HDazLiBGdmLB9T",
+   "best": "Vintage Hand Carved Chinese Soapstone Vase Sculpture 7\" Tall ...",
+   "med": 275,
+   "ratio": 4.23,
    "ai_value": ""
   },
   {
@@ -4308,6 +4352,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970555949",
+   "title": "Vintage Lamp Set",
+   "price": 200,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/bethpage-vintage-lamp-set/4kG9Ej4tedEAakg8Hx8dDm",
+   "best": "Belle LAMPE Ancienne Statue Femme en Biscuit et Base en ...",
+   "med": 450,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7981885449",
    "title": "Vintage Fishing Items",
    "price": 45,
@@ -4425,6 +4480,17 @@
    "url": "https://www.craigslist.org/view/d/bozeman-craftsman-vintage-bandsaw/gsRxEjWQGx2ixEuFSy66yU",
    "best": "Craigslist",
    "med": 120,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958820954",
+   "title": "1820 Geo 3 Crown .925 SILVER Enameled Coin Vtg Servants Jewelry Pin",
+   "price": 100,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/kaufman-1820-geo-crown-925-silver/dZRC5KdMffqhc7JL2Qwdum",
+   "best": "1819 Vtg Geo III Crown .925 SILVER Enameled Coin Servants ...",
+   "med": 200,
    "ratio": 2,
    "ai_value": ""
   },
@@ -5667,6 +5733,17 @@
    "area": "york",
    "url": "https://www.craigslist.org/view/d/york-vintage-antique-masons-sword/by83EF1NNpr2ZacyMJ4oHJ",
    "best": "Antique Victorian 1800's Knights Of The Golden Eagle ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944698834",
+   "title": "Japanese Tanto knife",
+   "price": 35,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/neptune-beach-japanese-tanto-knife/hTrpsbJN5oGKHnnztcwvGf",
+   "best": "Tanto nuz kost\u011bn\u00fd vzhled, fantasy d\u00fdka replika | Aukro",
    "med": null,
    "ratio": null,
    "ai_value": ""

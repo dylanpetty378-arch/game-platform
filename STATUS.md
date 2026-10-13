@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T13:17:40Z
+# Refurbish status — 2026-10-13T13:23:26Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1353 |
-| lensed | 624 |
-| flagged | 488 |
-| queued/relens | 359 |
+| queued | 1328 |
+| lensed | 640 |
+| flagged | 495 |
+| queued/relens | 361 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 4887
-- events: 14822
+- lens: 4912
+- events: 14847
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (488)
+## Flagged by Lens, waiting for photo review (495)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -209,7 +209,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00t0t_Uz3bAsA9AK_0t20CI_300x300.jpg" width="120"> | 7961912637 | $25 | kpr | [Great Vintage Suitcase-Red](https://www.craigslist.org/view/d/spokane-great-vintage-suitcase-red/fUtUyTsA7UaBSWmvMYQtyg) | Vintage Sears Red Vinyl Medium Suitcase With Key/ Sears ... | 220 | 8.8 |
 | <img src="https://images.craigslist.org/00505_3aj9l4T4SRQ_0t20CI_300x300.jpg" width="120"> | 7977334782 | $100 | yuma | [Antique Sconce Lights](https://www.craigslist.org/view/d/el-cajon-antique-sconce-lights/vZBBgWHaLWppufoCze6T5Z) | Fixtures: Plated brass mounting plates and bodies with turn- | 880 | 8.8 |
 | <img src="https://images.craigslist.org/00b0b_6I41p9dqa6G_0Uw1d6_300x300.jpg" width="120"> | 7936848761 | $40 | houston | [Antique bronze figurine sculpture](https://www.craigslist.org/view/d/austin-antique-bronze-figurine-sculpture/fY2oKh6VrbVXRFCAYgayCi) | Eugen Börmel Market Data: Auction Results - MutualArt | 350 | 8.75 |
+| <img src="https://images.craigslist.org/00A0A_6HyEUrW8ZFf_0t20CI_300x300.jpg" width="120"> | 7955522114 | $100 | athensga | [Monoprice Nashville Tele Guitar](https://www.craigslist.org/view/d/chestnut-mountain-monoprice-nashville/iEFooo611SjpXTwefMawCa) | PG 10282: FENDER MEXICO NASHVILLE TELE PG 10282: FENDER ... | 875 | 8.75 |
 | <img src="https://images.craigslist.org/00A0A_fHGXJ3HTp9q_0lM0t2_300x300.jpg" width="120"> | 7954104568 | $35 | atlanta | [Antique Child Soldier Statue](https://www.craigslist.org/view/d/atlanta-antique-child-soldier-statue/tmEVuWjcTgWMxgfu2R537n) | Decorative Bangles For $5 In Atlanta, GA / For Sale & Free . | 300 | 8.57 |
 | <img src="https://images.craigslist.org/00X0X_hTcwIHJnHuP_0t20CI_300x300.jpg" width="120"> | 7971379626 | $45 | newyork | [Vintage lighter Zaima Chateau](https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/3ie5dPnrZgvNYgL8EyoZnF) | Briquet chateau chatelet vintage - Collection | 385 | 8.56 |
 | <img src="https://images.craigslist.org/00p0p_lkPiUa2YpnW_03S05a_300x300.jpg" width="120"> | 7942986859 | $97 | eastnc | [30'' Diamond Cut Sterling Silver Chain 5g](https://www.craigslist.org/view/d/cherry-point-30-diamond-cut-sterling/bjgK1J41oymMJa82SA8hGP) | eBay | 830 | 8.56 |
-| <img src="https://images.craigslist.org/00X0X_hTcwIHJnHuP_0t20CI_300x300.jpg" width="120"> | 7956097137 | $45 | newyork | [Vintage lighter Zaima Chateau](https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/8uu6ESbNq779xaS3cNte7z) | Would you like to know more about refilling the butane, repl | 385 | 8.56 |
