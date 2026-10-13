@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T18:19:00Z",
+ "updated": "2026-10-13T18:23:16Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6703,
-  "events": 21774,
+  "lens": 6728,
+  "events": 21799,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 270,
+  "lensed": 278,
   "comps/pass": 1,
-  "queued/relens": 254,
+  "queued/relens": 255,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 353,
+  "flagged": 369,
   "comps/fail": 5,
   "expired": 9,
   "decided/find": 8,
-  "queued": 150
+  "queued": 125
  },
  "last_harvests": [
   {
@@ -380,6 +380,17 @@
    "best": "Buy BIG 75+ Carat Cushion Cut Solitaire Party Cz Ring Vivid ...",
    "med": 176000,
    "ratio": 3200,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931421119",
+   "title": "Vintage 1970s Lotus Skateboard Deck",
+   "price": 10,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-vintage-1970s-lotus-skateboard/4tEs1puhawgbZ3ce84izyq",
+   "best": "Craigslist",
+   "med": 13495,
+   "ratio": 1349.5,
    "ai_value": ""
   },
   {
@@ -955,6 +966,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947776133",
+   "title": "vintage microsecope",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-crescenta-vintage-microsecope/ceoaYpUu4a51Ft5kSHzTDx",
+   "best": "BAUSCH & LOMB Vintage Jug Handle Microscope + Wood Case ...",
+   "med": 275,
+   "ratio": 11,
+   "ai_value": "Value: Similar vintage models typically sell between $100"
+  },
+  {
    "pid": "7974734832",
    "title": "Vintage cherub ceramic wall hanging decorations",
    "price": 50,
@@ -974,6 +996,17 @@
    "best": "Vintage Christmas Ornaments 1960-2000 Lot Hallmark Santa's ...",
    "med": 326,
    "ratio": 10.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979023503",
+   "title": "NW artist signed original watercolor painting",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-nw-artist-signed-original/aUquTKjUr4ETuYfWMTrNvY",
+   "best": "Craigslist",
+   "med": 650,
+   "ratio": 10.83,
    "ai_value": ""
   },
   {
@@ -1028,6 +1061,17 @@
    "url": "https://www.craigslist.org/view/d/fresno-limited-edition-plate-etchings/3LcoAoB1EvBi48ai12Vyd5",
    "best": "John Moran Auctioneers",
    "med": 400,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933048312",
+   "title": "Antique  Pewter Hip Flask R.W. 1817",
+   "price": 10,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-antique-pewter-hip-flask-rw-1817/ctFomp33YE79ouQ62Sfj1Y",
+   "best": "Antique French Pewter Flask R.W. 1817 Marked 96% - Etsy",
+   "med": 100,
    "ratio": 10,
    "ai_value": ""
   },
@@ -1160,6 +1204,17 @@
    "url": "https://www.craigslist.org/view/d/pasadena-drum-stuff/iLgX2ax1yAcdhg2zK1MD12",
    "best": "Vintage Tama Imperialstar 26 x 14 Bonham Bass Drum ...",
    "med": 225,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928549853",
+   "title": "Vintage Cigar Box",
+   "price": 8,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vintage-cigar-box/aKUhYWSQcZUAgunj4jhKJ1",
+   "best": "Romeo Y Julieta Wooden Cigar Box - Etsy",
+   "med": 60,
    "ratio": 7.5,
    "ai_value": ""
   },
@@ -1459,6 +1514,17 @@
    "med": 55,
    "ratio": 5.5,
    "ai_value": ""
+  },
+  {
+   "pid": "7939153037",
+   "title": "vintage BEAR COOKIE JAR crock ceramic",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/lanham-vintage-bear-cookie-jar-crock/jQDBr88EbpviGeY2iYewNY",
+   "best": "American Bisque Bear Cookie Jar | eBay",
+   "med": 110,
+   "ratio": 5.5,
+   "ai_value": "Value / Market: Generally sells between $40"
   },
   {
    "pid": "7953749197",
@@ -1932,6 +1998,17 @@
    "med": 35,
    "ratio": 3.5,
    "ai_value": ""
+  },
+  {
+   "pid": "7978671195",
+   "title": "Yamaha FG Junior JR-1",
+   "price": 130,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/clarendon-yamaha-fg-junior-jr/xpdgaHajKgrC2nsSEUq5fs",
+   "best": "Retail Price: Typically retails new for around $189.99, while used models generally sell between $85 and $130 ",
+   "med": 450,
+   "ratio": 3.46,
+   "ai_value": "Price: Typically retails new for around $189"
   },
   {
    "pid": "7975826109",
@@ -2561,6 +2638,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967367957",
+   "title": "1953 LORD ELGIN 670 14K GF WRIST WATCH",
+   "price": 125,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-1953-lord-elgin-gf-wrist/pXAbo9uHMVfQhUMnefDu2e",
+   "best": "Lord Elgin Watch \u2013 14K Gold Filled \u2013 Black Dial \u2013 Gold ...",
+   "med": 300,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7979629719",
    "title": "1972 GORHAM Sterling Silver Christmas Snowflake Ornament Pendant Medal",
    "price": 40,
@@ -3019,6 +3107,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-vintage-stoneware-pot/kFfqWwhA1Xe7ZX9Xb1UkMc",
    "best": "eBay",
    "med": 36,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970520345",
+   "title": "Vintage World War II/2 Magazines 1991/1992",
+   "price": 10,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-world-war-ii/bH1WeqPeKwLr5ryxEURNLs",
+   "best": "Right Issue: January 1995 featuring the cover story \"Java Sea Duel\" alongside articles like \"Strike on Norway,",
+   "med": 18,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -3573,6 +3672,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937769093",
+   "title": "2 vintage bronze Harry Klitzner ShrinerMason bronze belt buckles",
+   "price": 25,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-vintage-bronze-harry/3E8BVvHhcGMqAsUf76kTRy",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7931133687",
    "title": "VINTAGE GERMAN LITHO BEER STEIN",
    "price": 120,
@@ -3639,6 +3749,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947175824",
+   "title": "Cut Glass Beverage Decanter Vintage",
+   "price": 75,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/wayne-cut-glass-beverage-decanter/4932QPtHrcnBZboswXRjgS",
+   "best": "Lead Crystal Pitcher With Silver Plate Lid And Handle Vintage",
+   "med": 68,
+   "ratio": 0.91,
+   "ai_value": ""
+  },
+  {
    "pid": "7960955217",
    "title": "Vintage Hering Membi Harmonica",
    "price": 80,
@@ -3647,6 +3768,17 @@
    "best": "Craigslist",
    "med": 72,
    "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952944902",
+   "title": "Native American Indian Katchina's",
+   "price": 75,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-native-american-indian-katchinas/qgvbQjCnB8Sx4BebZBFbJh",
+   "best": "Base: Mounted on a round natural wood pedestal base.",
+   "med": 66,
+   "ratio": 0.88,
    "ai_value": ""
   },
   {
@@ -3757,6 +3889,17 @@
    "best": "Estimated Value/Pricing: Similar vintage sets typically sell on secondary markets and antique shops between $1",
    "med": 125,
    "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936811096",
+   "title": "Vintage 1990 \u201cLittle Frosty Friends Memory Wreaths\u201d",
+   "price": 20,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/elkhorn-vintage-1990-little-frosty/thuSqapTdkaD1uZXUj7YLY",
+   "best": "Hallmark Ornament Set of 4 Little Frosty Friends Memory w ...",
+   "med": 15,
+   "ratio": 0.75,
    "ai_value": ""
   },
   {
@@ -3966,6 +4109,28 @@
    "best": "Subject: Abraham Lincoln (depicting his appearance around 1860 when he sat for Volk in Chicago)",
    "med": 60,
    "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959682227",
+   "title": "Harley vintage catalogs",
+   "price": 75,
+   "area": "carbondale",
+   "url": "https://www.craigslist.org/view/d/carbondale-harley-vintage-catalogs/mCkcNxBsGJcG5NuxsGPcR1",
+   "best": "Harley Davidson Sales brochure catalog pamphlet book ...",
+   "med": 28,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932672317",
+   "title": "Unique Crystal Jewlery Lot Rings, Necklace, Earrings",
+   "price": 50,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-unique-crystal-jewlery-lot-rings/7eBB3hWpP3ZQBJ2zuSv671",
+   "best": "Etsy",
+   "med": 18,
+   "ratio": 0.36,
    "ai_value": ""
   },
   {
@@ -4239,6 +4404,17 @@
    "area": "albany",
    "url": "https://www.craigslist.org/view/d/cohoes-vintage-schaefer-beer-nautical/11b91epNSYrwfehCzJHLDA",
    "best": "Logo: Illuminated top round panel showcasing the red and white Schaefer Beer logo.",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969898007",
+   "title": "Altimeter/Barometer w/Leather Case Thommen 15,000 foot 19-jewel",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/west-linn-altimeter-barometer-leather/hxZVtpzna27vdg9vbnBdS9",
+   "best": "THOMMEN - Switzerland, vintage altimeter, 5000m, 19 jewels ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
