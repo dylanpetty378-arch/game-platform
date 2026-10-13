@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T08:39:57Z
+# Refurbish status — 2026-10-13T08:44:51Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,11 +6,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 2311 |
+| queued | 2286 |
 | photo_review/kill | 1994 |
-| lensed | 412 |
+| lensed | 428 |
 | queued/relens | 340 |
-| flagged | 306 |
+| flagged | 315 |
 | decided/ask | 28 |
 | decided/find | 7 |
 | comps/fail | 5 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 4
 - searches: 1006
 - listings: 5407
-- lens: 3129
-- events: 10915
+- lens: 3154
+- events: 10940
 - comps: 870
 - item_types: 777
 - runs: 0
@@ -77,7 +77,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00o0o_7CuhamuXq1g_0CI0t2_300x300.jpg" width="160"> | [Large Antique Steam Gauge](https://www.craigslist.org/view/d/highlands-large-antique-steam-gauge/etB54kpBK9fxV6EFG9mFWX) | $25 | jerseyshore | **decided/ask** — Ashton Valve Co. Boston 10.5 in brass 'Standard Test Gage' 0-500 psi, missing glass, red-painted back. No entry or comps. Large brass test gauges sell to steampunk/industrial buyers ~$100-200, but ship is heavy (~$25 eac |
 | <img src="https://images.craigslist.org/00U0U_id0sXmKkDvf_0CI0t2_300x300.jpg" width="160"> | [Old Coleman Empire Lantern](https://www.craigslist.org/view/d/bloomingdale-old-coleman-empire-lantern/nQFrLmBT5FsMtu4sNNumgf) | $15 | plattsburgh | **decided/ask** — Nickel-plated fount, red ventilator, red valve knob, fretwork burner guard, Pyrex globe; title says 'Coleman Empire'. Fount bottom photo shows no readable stamp. If it is a 1930s-40s nickel 242/243 class lantern, it sell |
 
-## Flagged by Lens, waiting for photo review (306)
+## Flagged by Lens, waiting for photo review (315)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -96,6 +96,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01111_GGDsgg6oDC_0CI0t2_300x300.jpg" width="120"> | 7953920719 | $20 | monterey | [Blue antique rose lamps](https://www.craigslist.org/view/d/san-juan-bautista-blue-antique-rose/h3rdkk3aNZ3JyHvx2DJVUx) | Fenton Blue Lamp / eBay | 1475 | 73.75 |
 | <img src="https://images.craigslist.org/00909_1TDQ9FQnn1s_0CI0t2_300x300.jpg" width="120"> | 7953802005 | $1 | tulsa | [Assorted Vintage China Serving Pieces](https://www.craigslist.org/view/d/tulsa-assorted-vintage-china-serving/dPmymRHqrw4eitr8SRuK1K) | Antique Covered Serving Dish Rose Pattern J&G Meakin Hanley  | 65 | 65 |
 | <img src="https://images.craigslist.org/00a0a_d715QXuiD1m_0850bM_300x300.jpg" width="120"> | 7967896599 | $200 | salem | [Standing Budha](https://www.craigslist.org/view/d/salem-standing-budha/xdAhHawdSTP7bxdRtfNpjb) | Vintage Green and Gilded Wood Carved Sculpture of a Thai ... | 12578 | 62.89 |
+| <img src="https://images.craigslist.org/01313_apzBbupjwYY_0CI0t2_300x300.jpg" width="120"> | 7982318676 | $40 | redding | [Refab antique desks](https://www.craigslist.org/view/d/merrill-refab-antique-desks/uropXf5ELNuJ6cbSMnNY5n) | vintage Hooker Furniture french provincial nightstand / eBay | 2395 | 59.88 |
 | <img src="https://images.craigslist.org/00d0d_gTvGZxSy3Ai_0t20CI_300x300.jpg" width="120"> | 7948690460 | $10 | columbus | [Decorative vintage jar with lid](https://www.craigslist.org/view/d/columbus-decorative-vintage-jar-with-lid/44qTYsi72e8rFvJXtzYU78) | Milk Glass, Vintage, Cigar Humidor, Belgium, Dutch Scene ... | 425 | 42.5 |
 | <img src="https://images.craigslist.org/00s0s_896L48FKY2P_0t20CI_300x300.jpg" width="120"> | 7981495671 | $25 | worcester | [Antique Primitive 1800’s Wooden Snow Shovel](https://www.craigslist.org/view/d/cherry-valley-antique-primitive-1800s/7f38EUkgiBe35m2Zz6ULAq) | Lot - WOOD SHOVEL AND PEEL Split rod handle. Length 51". | 995 | 39.8 |
 | <img src="https://images.craigslist.org/00o0o_jirUD98TXwu_0mA0r6_300x300.jpg" width="120"> | 7981419624 | $15 | washingtondc | [Old picture frame](https://www.craigslist.org/view/d/washington-old-picture-frame/ahrvMydLA6HNjkwnzpeRLL) | 19th century large ornate Carved Gilt wood Frame - c1860s .. | 580 | 38.67 |
@@ -184,6 +185,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00U0U_1gAIeuVz224_0pO0jm_300x300.jpg" width="120"> | 7965638310 | $50 | washingtondc | [Large Picture Frame/Art and misc. stuff](https://www.craigslist.org/view/d/falls-church-large-picture-frame-art/ut1VGEjof9hRCKb4gsjHKc) | Chairish | 299 | 5.98 |
 | <img src="https://images.craigslist.org/00101_l9gsBe1RqTF_0lJ0t2_300x300.jpg" width="120"> | 7950980277 | $15 | flagstaff | [Vintage mid-century Danish vase - amber](https://www.craigslist.org/view/d/sedona-vintage-mid-century-danish-vase/kzYAhHjnZDPkS4mpXb2DQe) | Vintage Medicine Jar Glass Amber Mini Vase 4" / eBay | 88 | 5.87 |
 | <img src="https://images.craigslist.org/00x0x_9pwaH61mhmk_06s04k_300x300.jpg" width="120"> | 7968366135 | $50 | buffalo | [ANTIQUE WAGON Ck Tailgate Ideas](https://www.craigslist.org/view/d/grand-island-antique-wagon-ck-tailgate/nJSzVmSmTvAaoJFWZeNXBb) | Pinterest | 289 | 5.78 |
+| <img src="https://images.craigslist.org/00B0B_cFu2cAJ10cd_05r07g_300x300.jpg" width="120"> | 7973451123 | $85 | denver | [Three Antique/Vintage Office Items](https://www.craigslist.org/view/d/denver-three-antique-vintage-office/dAmJ9GeQtTTHD4iqugj5Sk) | Underwood 11 Typewriter 1930 / eBay | 489 | 5.75 |
 | <img src="https://images.craigslist.org/00F0F_2lTNf9E0Gcd_0CI0t2_300x300.jpg" width="120"> | 7981192767 | $100 | minneapolis | [Hallmark Snoopy Charlie Brown](https://www.craigslist.org/view/d/burnsville-hallmark-snoopy-charlie-brown/eVDFfMzjjWWZg3KDfnAsDx) | The Figures Included | 575 | 5.75 |
 | <img src="https://images.craigslist.org/00000_fXPNwNquZeq_0t20CI_300x300.jpg" width="120"> | 7970111055 | $15 | southjersey | [2 vintage beer taps](https://www.craigslist.org/view/d/cherry-hill-vintage-beer-taps/gk3TiEAMss2uWAqkfh6dux) | Are you looking to buy, sell, or display this tap handle? | 85 | 5.67 |
 | <img src="https://images.craigslist.org/00O0O_eEnmqv5aTih_0hE0eF_300x300.jpg" width="120"> | 7971564948 | $35 | wyoming | [VTG. NATIVE AMERICAN SM STERLING SILVER TURQUOISE ](https://www.craigslist.org/view/d/masonville-vtg-native-american-sm/8pDBL8cVEhM6FEouwtrbUy) | Vintage Navajo Southwestern Sterling Silver Turquoise Brooch | 195 | 5.57 |
@@ -201,5 +203,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00U0U_hPochrnhaWF_0CI0t2_300x300.jpg" width="120"> | 7947605611 | $150 | denver | [McNeela Irish Mandolin](https://www.craigslist.org/view/d/littleton-mcneela-irish-mandolin/8ycZd2arb8MpzkKCmtYw1y) | McNeela Irish Mandolin - Best Beginner Mandolins | 787 | 5.25 |
 | <img src="https://images.craigslist.org/00M0M_4CIQ2IPoRWo_0t20CI_300x300.jpg" width="120"> | 7945248865 | $75 | minneapolis | [Old crockery](https://www.craigslist.org/view/d/shakopee-old-crockery/g9zdF4H85jozappzMXJjkm) | Antique Western Stoneware Jug Set of 2, Crock Jugs - Etsy | 390 | 5.2 |
 | <img src="https://images.craigslist.org/00Z0Z_iJbq1jdZzqY_0ak07K_300x300.jpg" width="120"> | 7951119521 | $50 | monterey | [vintage floral print with frame](https://www.craigslist.org/view/d/pacific-grove-vintage-floral-print-with/jFc8RR2DNjAhfPEVdstM5S) | Vintage Floral Still Life Large Framed Elmer Greene Print .. | 260 | 5.2 |
-| <img src="https://images.craigslist.org/00p0p_ebe6fqrXqd8_0lM0t2_300x300.jpg" width="120"> | 7954452583 | $60 | spacecoast | [Camera lot](https://www.craigslist.org/view/d/melbourne-camera-lot/m4aEDydeD921HqX6X3BRQT) | Nikon EM Film Camera + Series E Zoom 36-72mm F/3.5 Lens + .. | 300 | 5 |
-| <img src="https://images.craigslist.org/00R0R_c3Y4DDNsO0S_0MM132_300x300.jpg" width="120"> | 7931057371 | $25 | columbus | [Vintage - gold and pink necklace](https://www.craigslist.org/view/d/columbus-vintage-gold-and-pink-necklace/gewEgfn9xHVT3Yh2QUy1s4) | eBay | 125 | 5 |

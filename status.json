@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T08:39:57Z",
+ "updated": "2026-10-13T08:44:51Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3129,
-  "events": 10915,
+  "lens": 3154,
+  "events": 10940,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 412,
-  "queued": 2311,
+  "lensed": 428,
+  "queued": 2286,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 340,
-  "flagged": 306,
+  "flagged": 315,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -376,6 +376,17 @@
    "best": "Vintage Green and Gilded Wood Carved Sculpture of a Thai ...",
    "med": 12578,
    "ratio": 62.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982318676",
+   "title": "Refab antique desks",
+   "price": 40,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/merrill-refab-antique-desks/uropXf5ELNuJ6cbSMnNY5n",
+   "best": "vintage Hooker Furniture french provincial nightstand | eBay",
+   "med": 2395,
+   "ratio": 59.88,
    "ai_value": ""
   },
   {
@@ -1347,6 +1358,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973451123",
+   "title": "Three Antique/Vintage Office Items",
+   "price": 85,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-three-antique-vintage-office/dAmJ9GeQtTTHD4iqugj5Sk",
+   "best": "Underwood 11 Typewriter 1930 | eBay",
+   "med": 489,
+   "ratio": 5.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7981192767",
    "title": "Hallmark Snoopy Charlie Brown",
    "price": 100,
@@ -2238,6 +2260,28 @@
    "ai_value": "Value / Market Price: Around $170"
   },
   {
+   "pid": "7956817412",
+   "title": "SADDLE HORN IRON ANTIQUE",
+   "price": 45,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-saddle-horn-iron-antique/me69ms6SoTf1gLmzc8uUtP",
+   "best": "Vintage Saddle Horn Iron Brass Colored Magnet Does NOT Stick ...",
+   "med": 137,
+   "ratio": 3.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952375067",
+   "title": "Vintage Americana Whisk Brush",
+   "price": 30,
+   "area": "imperial",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-americana-whisk-brush/aPFgxku7vVKhoduXMbaN6z",
+   "best": "Antique Clothes Brush, Rhody Brush Co Wooden Woman Valet ...",
+   "med": 90,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7930082607",
    "title": "2 Vintage Bakelite Buttons",
    "price": 25,
@@ -2359,6 +2403,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960790223",
+   "title": "Vintage Wooden Fishing Net",
+   "price": 35,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cabot-vintage-wooden-fishing-net/saMBc5gy5DNptJC4raRyyq",
+   "best": "Orvis Battenkill Net 22 & Columbia 18\" Fly Fishing Net Lot ...",
+   "med": 100,
+   "ratio": 2.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7979607432",
    "title": "Hamilton Beach vintage stand mixer",
    "price": 35,
@@ -2455,6 +2510,17 @@
    "best": "Rare Large Antique Cast Iron Dighton Furnace Company DFC Tea ...",
    "med": 109,
    "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954088343",
+   "title": "vintage children's chalk board",
+   "price": 35,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/esko-vintage-childrens-chalk-board/kPg3EEYkhqzJbW8aVbBsoG",
+   "best": "Amsco 1950s Tin Litho Toy Folding Easel With Chalkboard. For ...",
+   "med": 95,
+   "ratio": 2.71,
    "ai_value": ""
   },
   {
@@ -2632,6 +2698,17 @@
    "med": 230,
    "ratio": 2.42,
    "ai_value": "Value: Similar vintage Budweiser hitch figurines typically sell in the $90 to $200"
+  },
+  {
+   "pid": "7960285512",
+   "title": "Antique Asian Puzzle Box",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/harwich-antique-asian-puzzle-box/8Wmzvmm26xLe2iCaf9pYky",
+   "best": "Vintage Japanese Himitsu-Bako Puzzle Box \u2013 Sailboat Scene ...",
+   "med": 120,
+   "ratio": 2.4,
+   "ai_value": ""
   },
   {
    "pid": "7978289976",
@@ -3129,6 +3206,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955320420",
+   "title": "Vintage Fiesta Ware Set",
+   "price": 75,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/center-valley-vintage-fiesta-ware-set/gyioEzTSwNW95ZLqtNnPdy",
+   "best": "Two Vintage Fiesta Luncheon Plates 9in, original yellow | eBay",
+   "med": 100,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7975273071",
    "title": "Vintage Metal Hand-Painted Ltd Edition British Soldiers Welsh Guards",
    "price": 95,
@@ -3159,6 +3247,17 @@
    "best": "Rare 1870s steel fork for roping",
    "med": 97,
    "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948086591",
+   "title": "Vintage Leather Vest (XL)",
+   "price": 100,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/petaluma-vintage-leather-vest-xl/sqSDKTu5fpYjFkXK3n1foy",
+   "best": "Boulder Ridge Leather Vest Vintage 90s Fishing Adventure ...",
+   "med": 125,
+   "ratio": 1.25,
    "ai_value": ""
   },
   {
