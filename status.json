@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:35:44Z",
+ "updated": "2026-10-13T23:39:05Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7299,
-  "events": 26720,
+  "lens": 7324,
+  "events": 26745,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 429,
+  "lensed": 436,
   "comps/pass": 1,
-  "queued/relens": 356,
+  "queued/relens": 360,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 687,
+  "flagged": 701,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 354
+  "queued": 329
  },
  "last_harvests": [
   {
@@ -423,6 +423,17 @@
    "best": "Craigslist",
    "med": 13495,
    "ratio": 1349.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944953395",
+   "title": "JEWELRY RINGS",
+   "price": 5,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/florissant-jewelry-rings/hozLEQTagq95jeTqqSUKZC",
+   "best": "Vintage 1940's 10k Yellow Gold Green Rectangular Stone Ring ...",
+   "med": 6000,
+   "ratio": 1200,
    "ai_value": ""
   },
   {
@@ -874,6 +885,17 @@
    "best": "Andrea by Sadek Tall Swan Urn | Tall Urn With Swan Handles ...",
    "med": 1972,
    "ratio": 26.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947075418",
+   "title": "18k gold fillled silver ring",
+   "price": 60,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bradley-18k-gold-fillled-silver-ring/vbFfMGMrMAmkUjSrycLA6T",
+   "best": "eBay",
+   "med": 1500,
+   "ratio": 25,
    "ai_value": ""
   },
   {
@@ -1940,6 +1962,17 @@
    "url": "https://www.craigslist.org/view/d/misenheimer-vintage-flat-bottom-cast/8ACCTsJcAALk9y54KTZARC",
    "best": "Antique HF Co. 3 Leg Kettle Cast Iron No. 8 3 Footed Kettle ...",
    "med": 140,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938008959",
+   "title": "3 Aquamarine/Sterling Silver Rings",
+   "price": 150,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cupertino-aquamarine-sterling-silver/pu6gfrSm87V3XGYK4753aE",
+   "best": "eBay Community",
+   "med": 1050,
    "ratio": 7,
    "ai_value": ""
   },
@@ -3275,6 +3308,17 @@
    "ai_value": "Price: Typically retails new for around $189"
   },
   {
+   "pid": "7981781907",
+   "title": "Vintage gold plated, hinged, engraved cuff bracelet",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-gold-plated-hinged/oj8fiKcVHpEgPYniZ6LLz4",
+   "best": "Victorian Plainville Stock Co. 10k Gold filled Taille d'\u00e9pargne ...",
+   "med": 135,
+   "ratio": 3.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7962832296",
    "title": "14K Golden Pearl Ring",
    "price": 200,
@@ -3693,6 +3737,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956933668",
+   "title": "Genuine Amber pendant on sterling snake necklace",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-genuine-amber-pendant-on/9dKcDBKK9QBXHdpdcUz1hr",
+   "best": "Gemstone: Large, teardrop-shaped natural Baltic amber with visible internal inclusions and a warm cognac-to-ho",
+   "med": 275,
+   "ratio": 2.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7982940801",
    "title": "knife collection",
    "price": 50,
@@ -3998,6 +4053,17 @@
    "best": "(Note: If you have an aesthetic shopping image or are looking to identify/value a specific piece of art, shari",
    "med": 199,
    "ratio": 2.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956557744",
+   "title": "New Sterling Silver & Mother of Pearl Floral & Dragonfly Earrings - Nordstrom",
+   "price": 25,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-new-sterling-silver-mother-of/spG82ktc3PbZ7d5v5VFGWL",
+   "best": "Sterling Silver Angel Earrings: Antique 925 Dangle Earrings ...",
+   "med": 66,
+   "ratio": 2.64,
    "ai_value": ""
   },
   {
@@ -4438,6 +4504,17 @@
    "best": "Styles:",
    "med": 45,
    "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951829874",
+   "title": "Vintage Table Clocks",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-bruno-vintage-table-clocks/4XjrogjLtnpqWNpMxPjsNA",
+   "best": "GoAntiques",
+   "med": 56,
+   "ratio": 2.24,
    "ai_value": ""
   },
   {
@@ -5244,6 +5321,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930234580",
+   "title": "Blue and Gold Enamel Hinged  Cuff Bracelet",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-blue-and-gold-enamel-hinged-cuff/4G3PqseAA8V1z3fhPeZ559",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 1.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7933110868",
    "title": "Antique Cast Iron Mechanical Monkey Bank",
    "price": 40,
@@ -5662,6 +5750,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949503830",
+   "title": "\"PRK\" 1938 Elgin National Watch Co. 10K Gold-Filled Pocket Watch",
+   "price": 435,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/irvine-prk-1938-elgin-national-watch-co/fjPVhb4SA5VBUdoJCGD6dt",
+   "best": "mainstreetjewelryandwatches.com",
+   "med": 620,
+   "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7974292407",
    "title": "Antique Straight Razor and Strop Set",
    "price": 60,
@@ -5670,6 +5769,17 @@
    "best": "Vintage Double Sided Leather Strop, Razor Blade Honing ...",
    "med": 85,
    "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982854539",
+   "title": "Antique Chinese Sterling Silverware",
+   "price": 400,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/yucaipa-antique-chinese-sterling/gy9UcnuZLoaePsfU3aQCbD",
+   "best": "12 Pieces Yourex Associated Silver Co Silver Plated Forks ...",
+   "med": 564,
+   "ratio": 1.41,
    "ai_value": ""
   },
   {
@@ -5814,6 +5924,17 @@
    "med": 465,
    "ratio": 1.33,
    "ai_value": ""
+  },
+  {
+   "pid": "7962270264",
+   "title": "Vintage Salt & pepper set",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-salt-pepper-set/6HJ4vCnbLU1mvaTcT2ESyL",
+   "best": "Old Salty: Depicts a fisherman in a yellow raincoat and hat smoking a pipe.",
+   "med": 20,
+   "ratio": 1.33,
+   "ai_value": "Value: Resale prices for vintage sets typically range between $15"
   },
   {
    "pid": "7938268887",
@@ -6256,6 +6377,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962091191",
+   "title": "Murano glass pendant",
+   "price": 15,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-murano-glass-pendant/puy6KzbTyPNJPGmX4fJGWf",
+   "best": "Collectible Pendant Resin Acrylic Gold Green Pink Turquoise ...",
+   "med": 16,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7954088815",
    "title": "Sterling Silver Ring",
    "price": 50,
@@ -6438,6 +6570,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/daly-city-tarina-tarantino-necklace/3TcTaBJS6HPVaQTtGYD15f",
    "best": "eBay",
+   "med": 44,
+   "ratio": 0.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956933830",
+   "title": "Anne Klein wrist watch",
+   "price": 45,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-anne-klein-wrist-watch/mggxEsLwKxrELKCaVejnUW",
+   "best": "Poshmark",
    "med": 44,
    "ratio": 0.98,
    "ai_value": ""
@@ -7155,6 +7298,17 @@
    "best": "Mid-Century Modern for Sale in Santa Monica, CA - OfferUp",
    "med": 85,
    "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967199888",
+   "title": "Peace Dove in Flight Glass Vintage Pendant",
+   "price": 35,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-peace-dove-in-flight-glass/sTUk8AGtbTZuXvctFbiwJe",
+   "best": "Nina Ricci Frosted Dove Pendant w Diamond & Chain - New in ...",
+   "med": 19,
+   "ratio": 0.54,
    "ai_value": ""
   },
   {
