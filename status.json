@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T15:28:01Z",
+ "updated": "2026-10-13T15:31:42Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5712,
-  "events": 16448,
+  "lens": 5737,
+  "events": 16473,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 1064,
-  "queued": 1328,
+  "lensed": 1076,
+  "queued": 1303,
   "comps/pass": 1,
-  "queued/relens": 465,
+  "queued/relens": 470,
   "decided/ask": 37,
-  "flagged": 766,
+  "flagged": 774,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1555,6 +1555,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941554179",
+   "title": "10k Gold Pendant",
+   "price": 69,
+   "area": "sanangelo",
+   "url": "https://www.craigslist.org/view/d/center-point-10k-gold-pendant/5nf9x99vP9NwAVthWoH3DH",
+   "best": "Women's Vintage Estate 14K Gold Sapphire & Diamond Ring 7.1g ...",
+   "med": 1025,
+   "ratio": 14.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7944870335",
    "title": "Vintage Rectangular Clear Glass 2 Handled Tray",
    "price": 5,
@@ -1772,6 +1783,17 @@
    "best": "Socket / Fitter: Brown porcelain or ceramic socket cluster with a weatherproof housing typically made by manuf",
    "med": 950,
    "ratio": 12.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953914312",
+   "title": "Beautiful Vintage Lamp",
+   "price": 10,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/bmm4SB168gJyLxt9DE3FzW",
+   "best": "Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ...",
+   "med": 126,
+   "ratio": 12.6,
    "ai_value": ""
   },
   {
@@ -2805,6 +2827,17 @@
    "url": "https://www.craigslist.org/view/d/old-toys-and-collectables/nwMZpcDVCyPHwyh6gf6jnS",
    "best": "Craigslist",
    "med": 70,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956750947",
+   "title": "Vintage flat bottom cast iron bean pot or cauldron",
+   "price": 20,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/misenheimer-vintage-flat-bottom-cast/8ACCTsJcAALk9y54KTZARC",
+   "best": "Antique HF Co. 3 Leg Kettle Cast Iron No. 8 3 Footed Kettle ...",
+   "med": 140,
    "ratio": 7,
    "ai_value": ""
   },
@@ -4899,6 +4932,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948518962",
+   "title": "STERLING SILVER 17\" CHAIN ~ NEW",
+   "price": 30,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-sterling-silver-17-chain-new/1La4BV1P435AuaNaZxrmy8",
+   "best": "Italy 925 Sterling Silver Twisted Snake Chain Necklace #B181 ...",
+   "med": 107,
+   "ratio": 3.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7962493206",
    "title": "Antique green glass necklace",
    "price": 65,
@@ -6626,6 +6670,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951803040",
+   "title": "sterling silver candle holders",
+   "price": 100,
+   "area": "lafayette",
+   "url": "https://www.craigslist.org/view/d/lafayette-sterling-silver-candle-holders/u2wy1rbSdJDeTCmktw1R3C",
+   "best": "Las mejores ofertas en Gorham post - 1940 objetos antiguos ...",
+   "med": 215,
+   "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7956328166",
    "title": "vintage costume jewelry lot from the 80s and 90s",
    "price": 40,
@@ -7315,6 +7370,17 @@
    "url": "https://www.craigslist.org/view/d/washington-misc-household-items-60-each/3AYweBGiCxHiYFpvLpeQ9C",
    "best": "Ceramic Glazed Beverage Dispenser - 3 Gallon for Sale in ...",
    "med": 95,
+   "ratio": 1.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982706894",
+   "title": "Sterling Silver Native American Charm Bracelet",
+   "price": 100,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-sterling-silver-native-american/8ND9LK9xdumE1UTrnB5jsa",
+   "best": "Vintage Sterling Carolyn Pollack Charm Bracelet - Etsy",
+   "med": 158,
    "ratio": 1.58,
    "ai_value": ""
   },
@@ -8755,6 +8821,28 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-swiss-army-knive/myfVpvpGMpskHnQ6rLD8ct",
    "best": "My bladeless 91mm Victorinox Swiss Army Knife, the \u201cEuropean ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982703777",
+   "title": "Antique Bronze Sword Handle - Indo-Persian Region",
+   "price": 45,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-antique-bronze-sword-handle-indo/pXdgnP1Js1LKJJvJPsaijp",
+   "best": "Vintage Design Indian Sword Handle For Home Decor",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982736216",
+   "title": "NEW Wolverine Wild Lite Pocket Watch",
+   "price": 40,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/penryn-new-wolverine-wild-lite-pocket/cdyiF5xJ6Yqcwgq1K253yr",
+   "best": "NEW WOLVERINE WILD-LITE COMPASS LIGHT QUARTZ ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
