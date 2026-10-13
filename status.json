@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:54:57Z",
+ "updated": "2026-10-13T07:58:29Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2854,
-  "events": 10640,
+  "lens": 2879,
+  "events": 10665,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2586,
+  "queued": 2561,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 255,
-  "flagged": 189,
+  "lensed": 270,
+  "flagged": 199,
   "expired": 1
  },
  "last_harvests": [
@@ -467,6 +467,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949759389",
+   "title": "Elgin vintage solid wood mantel clock empty box",
+   "price": 40,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-elgin-vintage-solid-wood/hADWwEJb93NBz3yerfSuco",
+   "best": "Howard Miller 1970s Graham Bracket Key Wound Mantel Clock ...",
+   "med": 890,
+   "ratio": 22.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7938335328",
    "title": "Light",
    "price": 15,
@@ -508,6 +519,17 @@
    "best": "Beautiful Signed & Framed Robert Cox Oil Painting 27x24 ...",
    "med": 180,
    "ratio": 18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932363345",
+   "title": "Paris Print",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/menlo-park-paris-print/2CkzgH1xeUkTUM4USt7hs3",
+   "best": "Montmartre Artist Watercolor - Etsy",
+   "med": 445,
+   "ratio": 17.8,
    "ai_value": ""
   },
   {
@@ -574,6 +596,17 @@
    "best": "Korean Celadon Bud Vase Sanggam Crane Inlay Crackle Glaze ...",
    "med": 300,
    "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935648308",
+   "title": "Vintage Eiffel Tower Paris Street Scene Oil Canvas Painting",
+   "price": 75,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-vintage-eiffel-tower-paris/oV729RNTGQATX8mi9taw3D",
+   "best": "Pair of Original Paris Street Scene Oil Paintings Signed ...",
+   "med": 1100,
+   "ratio": 14.67,
    "ai_value": ""
   },
   {
@@ -739,6 +772,17 @@
    "best": "Morgantown Red Golfball Water Goblet, 9 oz. (item #690595)",
    "med": 245,
    "ratio": 8.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958569812",
+   "title": "Royal Copenhagen 2005 Christmas Bell",
+   "price": 10,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/lake-elsinore-royal-copenhagen-2005/e54Aj86ugJdpysNYCjmdsr",
+   "best": "Etsy",
+   "med": 80,
+   "ratio": 8,
    "ai_value": ""
   },
   {
@@ -981,6 +1025,17 @@
    "best": "Can't decide if I like it or not! : r/ThriftStoreHauls",
    "med": 189,
    "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938347842",
+   "title": "Antique Darling 2/0 Bisque Face and Arms Doll  - Over 100 Years Old!",
+   "price": 60,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-antique-darling-0-bisque-face/aXKfGZkyUrtz2wzjxgc3Ny",
+   "best": "eBay",
+   "med": 321,
+   "ratio": 5.35,
    "ai_value": ""
   },
   {
@@ -1578,6 +1633,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954053619",
+   "title": "Royal Doulton Julia",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-royal-doulton-julia/54Y6VC4Bt3dS23Thrqyui4",
+   "best": "Royal Doulton 1974 Julia HN 2705 Figurine Bone China ...",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": "Value: Typically ranges from about $60 to $90"
+  },
+  {
    "pid": "7973168451",
    "title": "Silvertone Pro Series Acoustic Guitar",
    "price": 50,
@@ -1618,6 +1684,17 @@
    "url": "https://www.craigslist.org/view/d/hayward-vintage-lead-soldier-figures/aED53otxTVWhE7QWMwkQn4",
    "best": "From left to right, the selected figures and pieces include:",
    "med": 80,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929228977",
+   "title": "Chinese Cloisonn\u00e9 Lid Jar",
+   "price": 75,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-chinese-cloisonn-lid-jar/pCLFrtfxcCAB6DnyTHGsfq",
+   "best": "Vintage Pair Cloisonne Enamel Chinese Jars with Lilies ...",
+   "med": 200,
    "ratio": 2.67,
    "ai_value": ""
   },
@@ -1762,6 +1839,17 @@
    "best": "Vintage 1950s Boy Scout Official Uniform Shirt S Jubilee ...",
    "med": 86,
    "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954013000",
+   "title": "Copper Revere ware teapot",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-copper-revere-ware-teapot/91EDfb1cJq2nJBGaqP5LAz",
+   "best": "REVERE WARE Copper & Brass Tea Kettle 2 Quart Rome NY 1976 ...",
+   "med": 125,
+   "ratio": 2.08,
    "ai_value": ""
   },
   {
@@ -1952,6 +2040,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950501139",
+   "title": "Clocks",
+   "price": 130,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-clocks/gG635TPz1nWRp6hunRdEyA",
+   "best": "Vintage Antique Seth Thomas #102 Adamantine Mantel Clock | eBay",
+   "med": 220,
+   "ratio": 1.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7940837201",
    "title": "simplex time recorder",
    "price": 200,
@@ -2080,6 +2179,17 @@
    "url": "https://www.craigslist.org/view/d/whittier-vintage-antique-german-desk-set/2VqXGDn9FFZVJarEoDaoTe",
    "best": "Origin: Made in Solingen, Germany, by makers such as Julius Hammesfahr or Aug. Knecht during the Victorian or ",
    "med": 145,
+   "ratio": 1.21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979798877",
+   "title": "Mexico .925 Figaro Sterling Silver Bracelet",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/hawthorne-mexico-925-figaro-sterling/uZ5MVqYT8oTYTQcBMftzRz",
+   "best": "Tuggle Designs",
+   "med": 121,
    "ratio": 1.21,
    "ai_value": ""
   },
