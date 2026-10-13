@@ -11,6 +11,26 @@ Take longer per item and research deeply. Everything learned goes into the encyc
   `git clone --depth 200 -b refurbish https://github.com/dylanpetty378-arch/game-platform && cd game-platform`.
 - `git config user.email noreply@anthropic.com && git config user.name Claude`. Read `docs/START-HERE.md`.
 
+## 0b. Golden-egg loop (Oct 13 2026 — runs FIRST, every cycle)
+Dylan: "A hundred dollars profit isn't a golden egg." Eggs = worth $1,000+ (or ≥10× realistic price), unrecognised,
+shippable. Profitable leads are still filed (the "most profitable" list), but eggs are the goal. Dylan does at most
+ONE in-person stop a weekend, and only for an egg — so the sources are shipped first.
+Each source → pool.json → `python3 scripts/eye_screen.py sheets <run>` → 8 agents on research/GOLDEN_EYE_BRIEF.md
+(≈14 sheets each) → `eye_screen.py ingest` → deep review agents → eggs to Dylan immediately (push + PDF).
+1. **eBay casual-seller auctions** (best shipped source): workflow `ebay-eggs` refreshes research/pools/ebay-latest.json
+   every 6 h. `python3 scripts/ebay_eggs.py sheetpool`; flags → research/pools/ebay-flagged.json, dispatch
+   `ebay-eggs` with mode=detail, then research/EBAY_DEEP_BRIEF.md.
+2. **ShopGoodwill**: `python3 scripts/sgw.py harvest 36 --first` → research/GOLDEN_DEEP_BRIEF.md (`sgw.py detail`).
+   Dylan has an account (bids only with his OK on each bid).
+3. **Craigslist (shipping sellers)**: `python3 scripts/eye_screen.py harvest 12` (random 12k sample) → TRIAGE_BRIEF.
+4. **DFW estate sales** (weekly, Tue/Wed): `python3 scripts/esn.py pool` → ESTATE_EYE_BRIEF / ESTATE_DEEP_BRIEF.
+   Only an egg justifies Dylan's one stop.
+5. **HiBid** (Dylan logged in, browser only; images blocked from the container): shipping-offered lots via in-page
+   GraphQL (`shippingOffered:true`, docs: claude/site-access-methods.md) rendered as a grid and screenshotted.
+   Sample Oct 13: dominated by liquidators — low priority.
+Measured Oct 13: ~170k screened → 0 shippable eggs. Expect ~1 per 100k+; volume is the lever, so keep every source
+running every cycle rather than polishing filters.
+
 ## 1. Health check: every step of the machine
 `python3 scripts/health.py` prints PASS/WARN/FAIL with numbers for:
 - workflow runs
