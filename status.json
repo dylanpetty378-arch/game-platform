@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:35:21Z",
+ "updated": "2026-10-13T03:38:57Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1229,
-  "events": 6478,
+  "lens": 1254,
+  "events": 6503,
   "comps": 12,
   "item_types": 169,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3412,
-  "lensed": 481,
+  "queued": 3387,
+  "lensed": 495,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 87
+  "flagged": 98
  },
  "last_harvests": [
   {
@@ -366,6 +366,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7932096664",
+   "title": "Vintage Replogle world globe map",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/pico-rivera-vintage-replogle-world/bVKSUeuaCuQCFqq3ebpdBK",
+   "best": "Vtg MCM Replogle Floor Globe Wooden Stand Mid-Century Eames ...",
+   "med": 250,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953487722",
+   "title": "Monkey Lamp and Tin Vase INTERESTING!",
+   "price": 20,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/plano-monkey-lamp-and-tin-vase/pC4vrUiQwsNugRg8Xo1hDd",
+   "best": "Vintage Bellhop Money Lamp - Etsy Israel",
+   "med": 212,
+   "ratio": 10.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7982449032",
    "title": "Antique samovar electric",
    "price": 80,
@@ -641,6 +663,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982569533",
+   "title": "Vintage Ceramic Christmas Tree",
+   "price": 80,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/bristol-vintage-ceramic-christmas-tree/jrL39m1DZzZv547RDYJMx8",
+   "best": "Vintage Atlantic Mold Green Ceramic Lighted Base 17 ...",
+   "med": 330,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957072991",
+   "title": "Vintage Embossed Brass Decorative Log Box",
+   "price": 90,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-embossed-brass/xmXScM5jvVNdN8ecYmCdwB",
+   "best": "Antique Brass Embossed Tinder Box - Etsy",
+   "med": 362,
+   "ratio": 4.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7966382739",
    "title": "VINTAGE 20th CENTURY CHINESE FAMILLE ROSE PORCELAIN VASE 9\"",
    "price": 75,
@@ -696,6 +740,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953046383",
+   "title": "Hohner HW 300g",
+   "price": 50,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/medford-hohner-hw-300g/twjEokksMP5YrSKZFNxhkq",
+   "best": "Samick Acoustic Guitar MODEL LW - 015G/Read | eBay",
+   "med": 175,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7950113942",
    "title": "Victorian Wall Plates (2)",
    "price": 60,
@@ -703,6 +758,17 @@
    "url": "https://www.craigslist.org/view/d/san-marcos-victorian-wall-plates/jtQU85UijA443j67P2E2xb",
    "best": "Vintage Fragonard Porcelain Wall Plaques: Rococo Gold Accent ...",
    "med": 195,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935302012",
+   "title": "Antique Paul Revere Copper/Brass Gooseneck Tea Kettle",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/islip-antique-paul-revere-copper-brass/n3dpQxBGCzHXxiLedkpc64",
+   "best": "Vintage Metal Teapot Kettle With Wood Handle - Rustic ...",
+   "med": 65,
    "ratio": 3.25,
    "ai_value": ""
   },
@@ -769,6 +835,28 @@
    "url": "https://www.craigslist.org/view/d/kings-park-vintage-jaru-art-of/pH6KeHnA6n2mSYrCm5in9H",
    "best": "Vintage Framed Seashell Oil Painting | Miniature Original ...",
    "med": 120,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929713275",
+   "title": "Vintage African Carved Mask \u2013 Cameroon",
+   "price": 150,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-african-carved-mask/kcxqppE3EBsJdQWF5853fm",
+   "best": "Sold at Auction: A Bamum wood mask",
+   "med": 450,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982518638",
+   "title": "Oscar Schmidt Autoharp",
+   "price": 50,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/riverview-oscar-schmidt-autoharp/vm9b7e9Ct9EPeS7UZe2YSi",
+   "best": "Vintage Oscar Schmidt 15 Chord Autoharp (No Case) | eBay",
+   "med": 150,
    "ratio": 3,
    "ai_value": ""
   },
@@ -858,6 +946,17 @@
    "best": "Vintage Turkish Brass Coffee Mill with Etched Details - On ...",
    "med": 91,
    "ratio": 2.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982502198",
+   "title": "Vintage Hand Crank Butter Churn",
+   "price": 65,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-hand-crank-butter-churn/k2NAr8BnVVBXTAmMAhZwTV",
+   "best": "Vintage Dazey Butter Churn- 4Qt/ St Louis MO Works & Very ...",
+   "med": 139,
+   "ratio": 2.14,
    "ai_value": ""
   },
   {
@@ -1004,6 +1103,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982470266",
+   "title": "SILVERTONE GUITAR",
+   "price": 100,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-silvertone-guitar/bP5JERcG7fDmfn4FJHhhtn",
+   "best": "SILVERTONE Pro Series Acoustic Guitar #SD3000PKN. 6 string ...",
+   "med": 138,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7934115711",
    "title": "Antique Dragon Flowers Brass Bowl",
    "price": 75,
@@ -1120,6 +1230,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/lincoln-original-watercolor-by-judith/d4KWbVEzxKh2MXeTXKuhvD",
    "best": "Antonio Salemme | ANTONIO SALEMME, (PA/MA, 1892-1995 ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974549078",
+   "title": "Knives",
+   "price": 1,
+   "area": "bakersfield",
+   "url": "https://www.craigslist.org/view/d/bakersfield-knives/8cvG9mEcf3qdjCLK9x739j",
+   "best": "Vintage Puma White Hunter Knife 1967 With Patina | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
