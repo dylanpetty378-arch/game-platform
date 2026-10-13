@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:33:36Z",
+ "updated": "2026-10-13T09:39:42Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3479,
-  "events": 12188,
+  "lens": 3504,
+  "events": 12213,
   "comps": 876,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2902,
-  "lensed": 89,
-  "queued": 1961,
+  "lensed": 103,
+  "queued": 1936,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 341,
-  "flagged": 59,
+  "flagged": 70,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -280,6 +280,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930598698",
+   "title": "Antique Theatre/Auditorium Folding Seats",
+   "price": 25,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/baltimore-antique-theatre-auditorium/uCitjJSU9DdFTDAc98hVet",
+   "best": "Wood and Cast Iron Antique Theater Seats With Wire Hat ...",
+   "med": 875,
+   "ratio": 35,
+   "ai_value": ""
+  },
+  {
    "pid": "7950002398",
    "title": "Wooden vintage ironing board",
    "price": 20,
@@ -390,6 +401,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979466753",
+   "title": "Vintage Chrome dinning set",
+   "price": 50,
+   "area": "kpr",
+   "url": "https://www.craigslist.org/view/d/yakima-vintage-chrome-dinning-set/p1digy6b17xt6fLDZydXqn",
+   "best": "Dining Table and Chairs",
+   "med": 692,
+   "ratio": 13.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7937727871",
    "title": "Vintage Woven Picnic Basket",
    "price": 10,
@@ -453,6 +475,17 @@
    "best": "FabGabs",
    "med": 349,
    "ratio": 9.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943866539",
+   "title": "Antique Victorian Birdcage",
+   "price": 39,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/nazareth-antique-victorian-birdcage/f6TyBoB5egztc9e55WTqjH",
+   "best": "Vintage Victorian Wood and Wire Metal Dome Bird Cage White ...",
+   "med": 322,
+   "ratio": 8.26,
    "ai_value": ""
   },
   {
@@ -577,6 +610,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929878934",
+   "title": "Vintage 7-Way Hi-Intensity Lantern",
+   "price": 15,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-way-hi-intensity/jKkGox4uXRiaKovWTSjzyz",
+   "best": "WI WISELY Outdoor Bluetooth Speaker, Portable Wireless IPX6 ...",
+   "med": 68,
+   "ratio": 4.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7944056566",
    "title": "Vintage Honeywell Cameras",
    "price": 39,
@@ -585,6 +629,17 @@
    "best": "RARE* Honeywell Elmo Compact Super Filmatic 103 Movie Camera ...",
    "med": 175,
    "ratio": 4.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952270862",
+   "title": "Vintage balance scale.",
+   "price": 30,
+   "area": "littlerock",
+   "url": "https://www.craigslist.org/view/d/hot-springs-national-park-vintage/8RPe4wRou6pr7isKY93Xy6",
+   "best": "Antique Cast Iron Scale - No Weights, Part broke | eBay",
+   "med": 132,
+   "ratio": 4.4,
    "ai_value": ""
   },
   {
@@ -629,6 +684,17 @@
    "best": "Andrea By Sadek Porcelain Pastel Floral | Mercari",
    "med": 83,
    "ratio": 3.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953927195",
+   "title": "Vintage trolling motors",
+   "price": 100,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/necedah-vintage-trolling-motors/ngYBcWK8ADvHfQ7Tv2nMR3",
+   "best": "JOHNSON FOOT CONTROLLED TROLLING MOTOR, 12VOLT | eBay",
+   "med": 325,
+   "ratio": 3.25,
    "ai_value": ""
   },
   {
@@ -753,6 +819,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979590440",
+   "title": "Assorted Fine China",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-assorted-fine-china/usRi8azsQe7H8vpQsiDmbV",
+   "best": "Vintage Handcrafted Kelly Paulk for Silvestri Tea for One ...",
+   "med": 125,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7949429990",
    "title": "vintage lamp",
    "price": 85,
@@ -761,6 +838,28 @@
    "best": "2 Carl Falkenstein MCM three-way blue flower Lamps, like new ...",
    "med": 171,
    "ratio": 2.01,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931869329",
+   "title": "Vintage Lures",
+   "price": 75,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/woodridge-vintage-lures/t5zgqhZU77eJW4NabSk6za",
+   "best": "Aluminum Tackle Box | eBay",
+   "med": 120,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931958432",
+   "title": "Vintage Blue Carnival Glass",
+   "price": 60,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/clinton-vintage-blue-carnival-glass/6KUwo7atuYkuXRmSwrdrQf",
+   "best": "Vintage Peacock Blue Carnival Glass Pitcher & Set of 6 Cooler Glasses USA",
+   "med": 90,
+   "ratio": 1.5,
    "ai_value": ""
   },
   {
@@ -805,6 +904,17 @@
    "best": "Dk Bmx Stem | eBay",
    "med": 85,
    "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955279823",
+   "title": "Antique Dazey Butter Churn",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-dazey-butter-churn/dBAUzaok8MXpMZwn9wBAWw",
+   "best": "1920s-40s Dazey Churn, No. 4, Tulip Glass Jar, Made in ...",
+   "med": 84,
+   "ratio": 0.84,
    "ai_value": ""
   },
   {
@@ -858,6 +968,17 @@
    "area": "wv",
    "url": "https://www.craigslist.org/view/d/evington-vintage-metal-trash-can/vFMTEPY8rwBfk2nqkTF5zQ",
    "best": "Lincoln Beautyware Chrome Plated Trash Can w/ | Proxibid",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954070657",
+   "title": "Misc stuff",
+   "price": 85,
+   "area": "beaumont",
+   "url": "https://www.craigslist.org/view/d/simonton-misc-stuff/bSCaA2yzn6EoVnto6TYCPh",
+   "best": "TOOLS, Records, Scooters Whitmore Lake Estate... starts on ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
