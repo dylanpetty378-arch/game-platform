@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T14:40:57Z
+# Refurbish status — 2026-10-13T14:44:30Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| lensed | 918 |
-| queued | 828 |
-| flagged | 657 |
-| queued/relens | 421 |
+| lensed | 928 |
+| queued | 803 |
+| flagged | 667 |
+| queued/relens | 426 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 5412
-- events: 15347
+- lens: 5437
+- events: 15372
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (657)
+## Flagged by Lens, waiting for photo review (667)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -125,6 +125,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00000_1XNkD0kSQJO_0t20CI_300x300.jpg" width="120"> | 7975348986 | $80 | southjersey | [Silverplate Flatware set](https://www.craigslist.org/view/d/swedesboro-silverplate-flatware-set/st6CWwzFq87Xj8PYVytZut) | 1881 Rogers Oneida Vintage Silver Plate 1967 Baroque Rose .. | 3495 | 43.69 |
 | <img src="https://images.craigslist.org/00f0f_jlY8vCSRD9E_0t20CI_300x300.jpg" width="120"> | 7964768610 | $35 | humboldt | [Vintage Glider For Sale](https://www.craigslist.org/view/d/eureka-vintage-glider-for-sale/kNV392H37AcckMayNbTk1N) | Glider Rocker Chairs for sale in Hitchcock, Texas / Facebook | 1500 | 42.86 |
 | <img src="https://images.craigslist.org/01313_bXzIHEUx46l_0wg03m_300x300.jpg" width="120"> | 7947925261 | $25 | athensohio | [Vintage gold tone 3 Inch of Gold Bracelet WHITE di](https://www.craigslist.org/view/d/logan-vintage-gold-tone-inch-of-gold/4UsrxPzajUkokxB2FyXbHM) | Vintage Delicate Gold Tone Chain & Crystal Accented Tennis . | 1050 | 42 |
+| <img src="https://images.craigslist.org/01414_iRkRxfmbVuH_0t20CI_300x300.jpg" width="120"> | 7932760058 | $45 | sierravista | [Vintage wood clock thermometer](https://www.craigslist.org/view/d/tucson-vintage-wood-clock-thermometer/teL4o7PPmEHDfEZuTbbnfe) | 19th Century Architectural Barometer by Short & Mason ... | 1733 | 38.51 |
 | <img src="https://images.craigslist.org/00H0H_jTX1t64VwnA_0lN0CI_300x300.jpg" width="120"> | 7975791501 | $50 | bemidji | [Antique with secret compartment](https://www.craigslist.org/view/d/duluth-antique-with-secret-compartment/wdwSh7KxNqY3VYSE495cHi) | Vintage Music Box Wood Table Inlaid Marquetry Side Table ... | 1871 | 37.42 |
 | <img src="https://images.craigslist.org/01616_12wB7RKiPJ4_0lM0t2_300x300.jpg" width="120"> | 7973737395 | $25 | maine | [Antique Barometer](https://www.craigslist.org/view/d/strafford-antique-barometer/rV9Vp5veuTNqrVA7URTxVE) | Sold at Auction: ENGLISH EDWARDIAN CARVED OAK WALL-MOUNTED . | 877 | 35.08 |
 | <img src="https://images.craigslist.org/00l0l_6da3nhzgPGc_0t20CI_300x300.jpg" width="120"> | 7973809218 | $60 | losangeles | [Antique Pottery](https://www.craigslist.org/view/d/mission-viejo-antique-pottery/aWy3WKSPnmRsM8LA8sxFEP) | French Handmade Terracotta Anduze Planter by La Madeleine .. | 2100 | 35 |
@@ -212,4 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00202_8IzLLZkr2B4_0Mo12w_300x300.jpg" width="120"> | 7942474856 | $5 | austin | [Vintage Occupied Japan Colonial Lady Figurine](https://www.craigslist.org/view/d/kyle-vintage-occupied-japan-colonial/fN9YwLxeg1hQa6FT8jN44Y) | Colonial Lady Figurine Occupied Japan 1948 Pink, Green and . | 62 | 12.4 |
 | <img src="https://images.craigslist.org/01111_gXmTztJhtXY_0CI0t2_300x300.jpg" width="120"> | 7937181258 | $5 | washingtondc | [VINTAGE STRAIGHT RAZOR CASE](https://www.craigslist.org/view/d/springfield-vintage-straight-razor-case/heN28HaQSbFtQ7oLoVvsfU) | Antique KROPP of Lodon Hollow Ground Duplex Straight Razor . | 60 | 12 |
 | <img src="https://images.craigslist.org/00Y0Y_bWwIi9qfskP_0uc0t2_300x300.jpg" width="120"> | 7949906550 | $25 | phoenix | [Antique Stromberg Carlson Telephone](https://www.craigslist.org/view/d/phoenix-antique-stromberg-carlson/n2yd7TmzyxfcbszU3HSBSz) | Vintage Extremely Rare Western Electric Oak Crank Desk Top . | 295 | 11.8 |
-| <img src="https://images.craigslist.org/00W0W_d5p3bYBoMgW_0t20CI_300x300.jpg" width="120"> | 7945859061 | $15 | cleveland | [Coca-Cola Vintage Metal Sign](https://www.craigslist.org/view/d/medina-coca-cola-vintage-metal-sign/3jgwBoPqeaqdGV7DvaqHQY) | Rare Vintage Coca-Cola Antique Sign Machine Cooler Drink ... | 177 | 11.8 |

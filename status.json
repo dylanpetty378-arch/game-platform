@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:40:57Z",
+ "updated": "2026-10-13T14:44:30Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5412,
-  "events": 15347,
+  "lens": 5437,
+  "events": 15372,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 918,
-  "queued": 828,
+  "lensed": 928,
+  "queued": 803,
   "comps/pass": 1,
-  "queued/relens": 421,
+  "queued/relens": 426,
   "decided/ask": 37,
-  "flagged": 657,
+  "flagged": 667,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -653,6 +653,17 @@
    "best": "Vintage Delicate Gold Tone Chain & Crystal Accented Tennis ...",
    "med": 1050,
    "ratio": 42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932760058",
+   "title": "Vintage wood clock thermometer",
+   "price": 45,
+   "area": "sierravista",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-wood-clock-thermometer/teL4o7PPmEHDfEZuTbbnfe",
+   "best": "19th Century Architectural Barometer by Short & Mason ...",
+   "med": 1733,
+   "ratio": 38.51,
    "ai_value": ""
   },
   {
@@ -2471,6 +2482,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957005992",
+   "title": "Antique Chamber Pot",
+   "price": 10,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/wells-antique-chamber-pot/t1obMMLkMnF2922MZi8HZj",
+   "best": "English Transferware Chamber Pots - Etsy",
+   "med": 69,
+   "ratio": 6.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7969685742",
    "title": "VINTAGE NECKLACE",
    "price": 10,
@@ -3076,6 +3098,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968893604",
+   "title": "Antique Blacksmith Tools",
+   "price": 15,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-antique-blacksmith-tools/w5VjEC4pizoLdfLwpU93rT",
+   "best": "lot 4 Vtg Forge Blacksmith Tongs cutters tools 13-21 ...",
+   "med": 83,
+   "ratio": 5.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7954852011",
    "title": "vintage banana-seat bicycle",
    "price": 50,
@@ -3391,6 +3424,17 @@
    "url": "https://www.craigslist.org/view/d/enosburg-falls-underwood-antique/pNkjSdb6kysGnQzhoaeFvT",
    "best": "Underwood Golden Touch Vintage Typewriter - Etsy Israel",
    "med": 390,
+   "ratio": 4.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980518799",
+   "title": "Miscellaneous Golf Clubs",
+   "price": 25,
+   "area": "potsdam",
+   "url": "https://www.craigslist.org/view/d/middlebury-miscellaneous-golf-clubs/25NbYSk4bHgAExpHq894cR",
+   "best": "Vintage Golf Clubs Cactus Mastertrack 431 steel 1,3,5w 3i-PW ...",
+   "med": 122,
    "ratio": 4.88,
    "ai_value": ""
   },
@@ -3733,6 +3777,17 @@
    "best": "Buttermilk Cream Oak Washstand { Furniture Makeover }",
    "med": 315,
    "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965786153",
+   "title": "Vintage Berga Bicycle",
+   "price": 100,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/louisville-vintage-berga-bicycle/njjh9t9myP7kC85gSayNmi",
+   "best": "1965 Schwinn Breeze Vintage Cruiser Bike XSmall 49cm 3S ...",
+   "med": 417,
+   "ratio": 4.17,
    "ai_value": ""
   },
   {
@@ -4231,6 +4286,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959798072",
+   "title": "Vintage Camera Equipment",
+   "price": 65,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/san-antonio-vintage-camera-equipment/tMcHJRux5pEarCYwa7Yir4",
+   "best": "Rare!! Vintage Canon Main Flash Unit Model X! for Sale in ...",
+   "med": 225,
+   "ratio": 3.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7968594366",
    "title": "Vintage Glass Perfume Bottle",
    "price": 20,
@@ -4616,6 +4682,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959090285",
+   "title": "Vintage camera lot",
+   "price": 50,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/rutland-vintage-camera-lot/pjSwbHWset7ucMpPpBkEbW",
+   "best": "VINTAGE RHEEM MODEL 4000 CALIFONE PERCEPTA ...",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7981970859",
    "title": "antique vase from japan",
    "price": 50,
@@ -4723,6 +4800,17 @@
    "best": "Kala Ka-Teak-C - Teak Concert Ukulele | eBay",
    "med": 149,
    "ratio": 2.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959048435",
+   "title": "Vintage collectibles brooches",
+   "price": 22,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-vintage-collectibles-brooches/4iin5A3HwBP6RxmXo9EGg1",
+   "best": "Signed Joan Rivers Pink Enamel Orchid Brooch Aurora Borealis ...",
+   "med": 65,
+   "ratio": 2.95,
    "ai_value": ""
   },
   {
@@ -5437,6 +5525,17 @@
    "url": "https://www.craigslist.org/view/d/englewood-antique-electric-santo-motor/cqXXJKco2TfwcnsakYuFfv",
    "best": "SANTO MOTOR KELLER MANUFACTURING CO. VINTAGE / foto i VIDEO ...",
    "med": 175,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981582728",
+   "title": "Antique Dish and Plate",
+   "price": 60,
+   "area": "yuma",
+   "url": "https://www.craigslist.org/view/d/ramona-antique-dish-and-plate/xpUAETDvENrfWRxLopXGPU",
+   "best": "Antique Flow Blue Covered Dish - Etsy",
+   "med": 140,
    "ratio": 2.33,
    "ai_value": ""
   },
@@ -6692,6 +6791,17 @@
    "best": "Hi again, I have this object that was owned by my engineer ...",
    "med": 100,
    "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940026272",
+   "title": "Antique scale",
+   "price": 100,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/post-falls-antique-scale/9avFgdMFvLYukzBSJa5k7e",
+   "best": "Antique Fairbanks Grain Drachm General Store Apothecary ...",
+   "med": 95,
+   "ratio": 0.95,
    "ai_value": ""
   },
   {
