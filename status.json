@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T08:58:51Z",
+ "updated": "2026-10-13T09:02:37Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3254,
-  "events": 11040,
+  "lens": 3279,
+  "events": 11065,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 487,
-  "queued": 2186,
+  "lensed": 499,
+  "queued": 2161,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 341,
-  "flagged": 355,
+  "flagged": 368,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -324,6 +324,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937506970",
+   "title": "Old Bottles",
+   "price": 10,
+   "area": "wv",
+   "url": "https://www.craigslist.org/view/d/west-mifflin-old-bottles/8n81fRkxYcbuLFYQFbJQYA",
+   "best": "Antique Primitive Wooden Sugar Chest sold at auction from ...",
+   "med": 1195,
+   "ratio": 119.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7982582199",
    "title": "AUCTION SIGNED ARTWORK, NIIHAU SHELL LEI, ART GLASS, ERTE BRONZES",
    "price": 10,
@@ -519,6 +530,17 @@
    "best": "What is the origin and use of these bags?",
    "med": 850,
    "ratio": 24.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979795454",
+   "title": "Vintage footstool",
+   "price": 50,
+   "area": "klamath",
+   "url": "https://www.craigslist.org/view/d/bend-vintage-footstool/6QEuHZgHU5KCJxnfmZ6keP",
+   "best": "Vintage Floral Accent Bench With Hidden Storage - Etsy",
+   "med": 1199,
+   "ratio": 23.98,
    "ai_value": ""
   },
   {
@@ -916,6 +938,17 @@
    "med": 300,
    "ratio": 12,
    "ai_value": "Value: Similar hand-painted antique saws typically sell or are valued anywhere from $25"
+  },
+  {
+   "pid": "7952570637",
+   "title": "Old Sprayit Compressor",
+   "price": 100,
+   "area": "killeen",
+   "url": "https://www.craigslist.org/view/d/abilene-old-sprayit-compressor/tFwpiRvsgdoSWkG7ZbjeuG",
+   "best": "Air Compressor Vintage Craftsman Bench Top Machine Age No ...",
+   "med": 1199,
+   "ratio": 11.99,
+   "ai_value": ""
   },
   {
    "pid": "7982285994",
@@ -1369,6 +1402,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943266018",
+   "title": "Old basket",
+   "price": 40,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/holyoke-old-basket/1QWz3e58AqRFyaFLSozPy7",
+   "best": "Vintage Brown Wicker Basket Truck Picnic Basket Storage ...",
+   "med": 280,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7976998032",
    "title": "Old military wool pants and more",
    "price": 10,
@@ -1377,6 +1421,17 @@
    "best": "Craigslist",
    "med": 70,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951221217",
+   "title": "Old pump",
+   "price": 30,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/san-francisco-old-pump/hdE5SYV1ktCBk92LpVHpNS",
+   "best": "VINTAGE OIL BARREL PUMP DISPENSER | #407954737",
+   "med": 200,
+   "ratio": 6.67,
    "ai_value": ""
   },
   {
@@ -1485,6 +1540,17 @@
    "area": "redding",
    "url": "https://www.craigslist.org/view/d/fair-oaks-old-school-tool-box/5snxJ2UN7dFn6XW7uqMmKJ",
    "best": "Vintage Waterloo Machinist Tool Box - Etsy",
+   "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956200159",
+   "title": "Vintage Colt SP1 Handguards",
+   "price": 20,
+   "area": "moseslake",
+   "url": "https://www.craigslist.org/view/d/federal-way-vintage-colt-sp1-handguards/tesjsVUFVVsMHR43jc14YP",
+   "best": "Craigslist",
    "med": 125,
    "ratio": 6.25,
    "ai_value": ""
@@ -1908,6 +1974,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928235845",
+   "title": "VINTAGE IRISH CRYSTAL PITCHER!",
+   "price": 18,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/lenexa-vintage-irish-crystal-pitcher/s5h5a2GL1RP6FyfDpBDzRz",
+   "best": "American Brilliant ABCG Heavy Antique Crystal Cut Glass ...",
+   "med": 85,
+   "ratio": 4.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7979047728",
    "title": "Antique Apothecary Scale Fairbanks",
    "price": 35,
@@ -2092,6 +2169,17 @@
    "best": "eBay",
    "med": 62,
    "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944236851",
+   "title": "Vintage Large Brass Dolphin",
+   "price": 28,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-large-brass-dolphin/ejh6aXiXzKx7wSmLqEYHDV",
+   "best": "Vintage Large Solid Brass Mid Century Dolphin Paperweight Figurine Model Art Deco Metal Gold Nautical Sea Ocea",
+   "med": 115,
+   "ratio": 4.11,
    "ai_value": ""
   },
   {
@@ -2799,6 +2887,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969593840",
+   "title": "Vintage Schwinn Cruiser Bicycle",
+   "price": 80,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/darlington-vintage-schwinn-cruiser/5Ntm2kY93sDvxnBozN4Zod",
+   "best": "Men's Blue Electra Cruiser - Ocean Outfitters",
+   "med": 225,
+   "ratio": 2.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7937857770",
    "title": "ANTIQUE CIVIL WAR BELT",
    "price": 25,
@@ -3038,6 +3137,17 @@
    "best": "Vintage Galvanized Metal All Detergent Soap Pail Bucket ...",
    "med": 99,
    "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970320923",
+   "title": "Vintage Nativity Scene",
+   "price": 39,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-vintage-nativity-scene/jMzS5mwi1GaVxBZ68z6emp",
+   "best": "International Nativity Sets - Etsy",
+   "med": 95,
+   "ratio": 2.44,
    "ai_value": ""
   },
   {
@@ -3358,6 +3468,17 @@
    "med": 145,
    "ratio": 1.93,
    "ai_value": ""
+  },
+  {
+   "pid": "7948507229",
+   "title": "Large Vintage Lion Tapestry",
+   "price": 100,
+   "area": "lubbock",
+   "url": "https://www.craigslist.org/view/d/abilene-large-vintage-lion-tapestry/2mWmDUPt61U11vLvXXQz6L",
+   "best": "Value & Market: Similar vintage lion tapestries typically range from roughly $30 to $100+ USD depending on exa",
+   "med": 192,
+   "ratio": 1.92,
+   "ai_value": "Value & Market: Similar vintage lion tapestries typically range from roughly $30 to $100"
   },
   {
    "pid": "7951164450",
@@ -3954,12 +4075,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7932467361",
+   "title": "vintage Japanese pachinko machine",
+   "price": 75,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/salisbury-center-vintage-japanese/ajYYbtzCG26NNFmUyEKt9i",
+   "best": "THREESTAR Vintage Pachinko Machine Hand-Operated WoodFrame ...",
+   "med": 10,
+   "ratio": 0.13,
+   "ai_value": "Value: Typically worth between $40 to $150"
+  },
+  {
    "pid": "7982334093",
    "title": "Moving out SALE!!!",
    "price": 15,
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/central-falls-moving-out-sale/rDGcL5qSF8EpzZmESiLuTj",
    "best": "Office Desk And Chair for Sale in Houston, TX - OfferUp",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951184244",
+   "title": "Unicycle vintage schwinn",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/oceanside-unicycle-vintage-schwinn/xzmfBmwHco7svcNG7SwkXH",
+   "best": "The Unicycle Factory's Seat Posts",
    "med": null,
    "ratio": null,
    "ai_value": ""
