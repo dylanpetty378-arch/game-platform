@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T08:51:33Z",
+ "updated": "2026-10-13T08:55:11Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3204,
-  "events": 10990,
+  "lens": 3229,
+  "events": 11015,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 456,
-  "queued": 2236,
+  "lensed": 472,
+  "queued": 2211,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 341,
-  "flagged": 336,
+  "flagged": 345,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -478,6 +478,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951852850",
+   "title": "Vintage Antique Clock",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/montebello-vintage-antique-clock/vRur56co3UU1eyVdj922z8",
+   "best": "eBay",
+   "med": 636,
+   "ratio": 25.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7966561062",
    "title": "Painting",
    "price": 40,
@@ -728,6 +739,17 @@
    "best": "Korean Celadon Bud Vase Sanggam Crane Inlay Crackle Glaze ...",
    "med": 300,
    "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951220791",
+   "title": "Old oil pump",
+   "price": 30,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/san-francisco-old-oil-pump/n18X3txNKNVJ5QRosiZH8x",
+   "best": "Vintage Oil Pump Bennett 505 H 301 Lubester | eBay",
+   "med": 449,
+   "ratio": 14.97,
    "ai_value": ""
   },
   {
@@ -1050,6 +1072,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939948361",
+   "title": "TILSO TIGER VINTAGE JAPAN",
+   "price": 25,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/austin-tilso-tiger-vintage-japan/j2Xn5kctjeTz747XAFXw4k",
+   "best": "9944096 Porcelain Figurine Reclining Tiger Fine Painted ...",
+   "med": 232,
+   "ratio": 9.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7936085336",
    "title": "New Old Stock NOS Ball Bearings",
    "price": 25,
@@ -1237,6 +1270,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941958666",
+   "title": "Vintage WWII Military Stretcher/Gourneys",
+   "price": 99,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/mount-mourne-vintage-wwii-military/5cRyPvtscbvykJUnFdFnBR",
+   "best": "Bed Material: Heavy olive-green canvas",
+   "med": 740,
+   "ratio": 7.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7951224014",
    "title": "Antique Stock Certificates",
    "price": 75,
@@ -1413,6 +1457,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979799507",
+   "title": "Vintage southwest water canteen",
+   "price": 45,
+   "area": "klamath",
+   "url": "https://www.craigslist.org/view/d/bend-vintage-southwest-water-canteen/aB5e9fg1hxSFKpSwW8rUUW",
+   "best": "Vintage 8 Quart Oasis Metal Blanket Canteen - Rustic Cabin ...",
+   "med": 275,
+   "ratio": 6.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7948794754",
    "title": "Wall Decor by Francois Langlois 12\"x12\"",
    "price": 65,
@@ -1421,6 +1476,17 @@
    "best": "Henri-Louis Duhamel du Monceau - Botanical Study of Fruits ...",
    "med": 395,
    "ratio": 6.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960787874",
+   "title": "Antique Copper Tea Pot",
+   "price": 10,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cabot-antique-copper-tea-pot/8chQwcdhZnGcjF2JPZt3Ko",
+   "best": "Vintage ODI Copper Kettle W/ Spout & Lid Boiling Water Tea ...",
+   "med": 60,
+   "ratio": 6,
    "ai_value": ""
   },
   {
@@ -1784,6 +1850,17 @@
    "best": "Estrella Classical Acoustic Guitar 1970's Made In Japan ...",
    "med": 670,
    "ratio": 4.79,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979047728",
+   "title": "Antique Apothecary Scale Fairbanks",
+   "price": 35,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/portsmouth-antique-apothecary-scale/uABKSXYXSv8eyMnZRtsqtk",
+   "best": "Antique Fairbanks Grain Drachm General Store Apothecary ...",
+   "med": 165,
+   "ratio": 4.71,
    "ai_value": ""
   },
   {
@@ -2403,6 +2480,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972670268",
+   "title": "Vintage XL Racing Suite",
+   "price": 95,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/mount-mourne-vintage-xl-racing-suite/fV33k5NgMZ7ntQ2KMjQ5mg",
+   "best": "Etsy",
+   "med": 298,
+   "ratio": 3.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7969573440",
    "title": "Artifact from Middle East",
    "price": 45,
@@ -2620,6 +2708,17 @@
    "best": "Citizen Alarm Chronograph Vintage Citizen Alarm Chronograph ...",
    "med": 500,
    "ratio": 2.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937857770",
+   "title": "ANTIQUE CIVIL WAR BELT",
+   "price": 25,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/prescott-antique-civil-war-belt/edBT2aZPvMZzSbwL1UJ8yb",
+   "best": "Any markings, stamps, or logos on the leather or metal",
+   "med": 70,
+   "ratio": 2.8,
    "ai_value": ""
   },
   {
