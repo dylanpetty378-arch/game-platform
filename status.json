@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T04:46:55Z",
+ "updated": "2026-10-13T04:52:46Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1679,
-  "events": 7185,
+  "lens": 1704,
+  "events": 7211,
   "comps": 152,
-  "item_types": 513,
+  "item_types": 641,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 536,
-  "queued": 2961,
-  "lensed": 612,
+  "queued": 2936,
+  "lensed": 625,
   "comps/pass": 1,
-  "decided/ask": 14,
+  "decided/ask": 15,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 161,
+  "flagged": 172,
   "decided/find": 6
  },
  "last_harvests": [
@@ -233,6 +233,17 @@
    "med": 1250,
    "ratio": 62.5,
    "ai_value": "Value / Market Range: Similar vintage double-sided examples typically sell between $150"
+  },
+  {
+   "pid": "7948894633",
+   "title": "Antique Farm Sickle",
+   "price": 20,
+   "area": "roanoke",
+   "url": "https://www.craigslist.org/view/d/goodview-antique-farm-sickle/aGFoGkwmWqPMW9ADTq24CB",
+   "best": "Vintage Antique Scythe, Farm Tool 27 inch blade | eBay",
+   "med": 960,
+   "ratio": 48,
+   "ai_value": ""
   },
   {
    "pid": "7946978963",
@@ -488,6 +499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945679246",
+   "title": "Excelsior Vintage Lamp",
+   "price": 20,
+   "area": "duluth",
+   "url": "https://www.craigslist.org/view/d/duluth-excelsior-vintage-lamp/jgM2TQidh93PwHeA9pQHUn",
+   "best": "Antique Victorian French Porcelain Hand Painted Flower Vase ...",
+   "med": 225,
+   "ratio": 11.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7982444019",
    "title": "Harbor Haven \u2013 Hand-Painted Coastal Artwork",
    "price": 100,
@@ -507,6 +529,17 @@
    "best": "French Renaissance Figural Spelter Metal Cherub Candelabra ...",
    "med": 1500,
    "ratio": 10.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977668637",
+   "title": "Antique cast iron Lamp",
+   "price": 40,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/wallingford-antique-cast-iron-lamp/hTBUzd3TDJLakmzdheRCRy",
+   "best": "Art Deco Fluted Table Lamp in Bronze in the manner of Just ...",
+   "med": 428,
+   "ratio": 10.7,
    "ai_value": ""
   },
   {
@@ -595,6 +628,17 @@
    "best": "Manufacturer: Waco",
    "med": 92,
    "ratio": 9.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955213340",
+   "title": "Vintage Borghese Bookend",
+   "price": 30,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-borghese-bookend/hyeaYc753disK18aChWYyQ",
+   "best": "Podp\u00f3rka do ksi\u0105\u017cki ze scen\u0105 konia - Etsy Polska",
+   "med": 275,
+   "ratio": 9.17,
    "ai_value": ""
   },
   {
@@ -829,6 +873,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965873291",
+   "title": "Vintage US Army Footlocker",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/moraga-vintage-us-army-footlocker/6sqW7rWga3WEg9A5CkhcVu",
+   "best": "Vintage Army Foot Locker | eBay",
+   "med": 284,
+   "ratio": 5.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7953692146",
    "title": "Candelabra Girandole Brass, Crystal Marble 3 candle",
    "price": 70,
@@ -980,6 +1035,17 @@
    "best": "Wallapop",
    "med": 396,
    "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936343986",
+   "title": "Vintage Wicker Picnic Hamper",
+   "price": 30,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/dewitt-vintage-wicker-picnic-hamper/pc7SG9XRWisciHREqoeuuu",
+   "best": "Vintage Picnic Basket Wicker Weave Brown Wood Lid Metal ...",
+   "med": 121,
+   "ratio": 4.03,
    "ai_value": ""
   },
   {
@@ -1247,6 +1313,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945707838",
+   "title": "Stanley antique level",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/issaquah-stanley-antique-level/ihuofJr2FBKQbaPxiKKRHS",
+   "best": "Vintage Rare Stanley Rule & Level Brass Rosewood Level 14 ...",
+   "med": 65,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7982470083",
    "title": "Vintage Atkins Saw",
    "price": 75,
@@ -1266,6 +1343,17 @@
    "best": "Studio ART POTTERY STONEWARE BEAN POT Casserole With Lid ...",
    "med": 89,
    "ratio": 2.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951248006",
+   "title": "Antique Metal Postal Scale",
+   "price": 30,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-metal-postal-scale/mmyFfM2VZZnNdKwxcDcQzi",
+   "best": "Vtg Brumberger US Postal Service Mail Box Bank - COMPLETE w ...",
+   "med": 75,
+   "ratio": 2.5,
    "ai_value": ""
   },
   {
@@ -1709,6 +1797,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940990190",
+   "title": "Vintage  Royal Doulton  Mugs",
+   "price": 75,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-vintage-royal-doulton-mugs/9QSe2uXvHk2zfvxDCLWDjc",
+   "best": "ROYAL DOULTON ENGLAND CHARACTER TOBY JUG \"PARSON BROWN ...",
+   "med": 95,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7979775990",
    "title": "Vintage Tiffany Stained Glass Large 24\" Hanging Lamp Shade",
    "price": 200,
@@ -1728,6 +1827,17 @@
    "best": "1981 Federal Duck Stamp Print RW48 by Wilson | eBay",
    "med": 120,
    "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981464057",
+   "title": "Antique Covered Cheese Dish",
+   "price": 95,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/costa-mesa-antique-covered-cheese-dish/cA15q2dnohZgeiSbeJEQ3d",
+   "best": "Etsy",
+   "med": 113,
+   "ratio": 1.19,
    "ai_value": ""
   },
   {
@@ -1863,6 +1973,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954696935",
+   "title": "Antique Sheffield England knife",
+   "price": 45,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-antique-sheffield-england-knife/wR9cXZYsUoVezqWSd7x5i6",
+   "best": "Adams Green River Knives",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7943939074",
    "title": "Antique Messiah African dagger knife",
    "price": 175,
@@ -1988,6 +2109,16 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/lakeville-vintage-spear-fishing-decoys/rYEjbYYfCBySvsYvCNfz1k",
    "note": "14 handmade fish spearing decoys, $20 ea / $225 lot. Sold handmade decoys median $35-45 ea. At $225 lot profit ~$200 (< $225 needed). Offer $150 for all 14 -> profit ~$275. Tier C (offer)",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7970233674",
+   "title": "Vintage 1960\u2019s Bossons Heads",
+   "price": 45,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/pitcairn-vintage-1960s-bossons-heads/8npdH4uVcqX4yHNHvABQPS",
+   "note": "24 Bossons (Congleton, England) chalkware heads, 1960s; body: $5 each or $100 the set, some small chips. Terapeak singles median $16\u201322, mixed lots $67\u2013140. Sold singly (buyer pays ship) ~$360\u2013480 gross \u2192 ~$200+ profit at $100 but 24 listings; as 3\u20134 themed sets less. ASK: back stamps, which have chips; offer ~$75 for all.",
    "stage": "decided",
    "status": "ask"
   },
