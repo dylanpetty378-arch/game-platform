@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T22:32:32Z
+# Refurbish status — 2026-10-13T22:35:52Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| queued | 754 |
-| flagged | 441 |
-| lensed | 341 |
-| queued/relens | 290 |
+| queued | 729 |
+| flagged | 456 |
+| lensed | 344 |
+| queued/relens | 297 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 10 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 6899
-- events: 26319
+- lens: 6924
+- events: 26344
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -111,7 +111,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (441)
+## Flagged by Lens, waiting for photo review (456)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -204,6 +204,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00l0l_dZvX83QLLZm_0t20t2_300x300.jpg" width="120"> | 7981671243 | $25 | tampa | [Vintage ice-skating pendant](https://www.craigslist.org/view/d/brooksville-vintage-ice-skating-pendant/eSLjY86yY4P8f9WP7c1MMi) | VTG BEAU STERLING SILVER CHARM FIGURE SKATING SHOE SKATE / e | 193 | 7.72 |
 | <img src="https://images.craigslist.org/01616_6Q4of9MoFmZ_0t20CI_300x300.jpg" width="120"> | 7980320721 | $30 | losangeles | [Drum Stuff](https://www.craigslist.org/view/d/pasadena-drum-stuff/iLgX2ax1yAcdhg2zK1MD12) | Vintage Tama Imperialstar 26 x 14 Bonham Bass Drum ... | 225 | 7.5 |
 | <img src="https://images.craigslist.org/00Z0Z_acd2GpSg6pd_0t20CI_300x300.jpg" width="120"> | 7928549853 | $8 | losangeles | [Vintage Cigar Box](https://www.craigslist.org/view/d/carson-vintage-cigar-box/aKUhYWSQcZUAgunj4jhKJ1) | Romeo Y Julieta Wooden Cigar Box - Etsy | 60 | 7.5 |
+| <img src="https://images.craigslist.org/00l0l_d5EgxXAayEQ_0t20CI_300x300.jpg" width="120"> | 7942509567 | $15 | longisland | [Vintage costume Brooch/Pin](https://www.craigslist.org/view/d/farmingville-vintage-costume-brooch-pin/twHwG2bewDFcCFvHf7PPfh) | Craigslist | 110 | 7.33 |
 | <img src="https://images.craigslist.org/01616_h9HsRB9g1os_0l00t2_300x300.jpg" width="120"> | 7949106731 | $100 | sandiego | [PHOENIX RISING - ANTIQUE CHINESE VASE](https://www.craigslist.org/view/d/la-jolla-phoenix-rising-antique-chinese/t6vAmUdBMMsPzSoLk8nDwh) | Vintage Blue Cloisonné Enamel Brass Jar Table Lamp Floral .. | 725 | 7.25 |
 | <img src="https://images.craigslist.org/00606_2be9WijIOJE_0CI0t2_300x300.jpg" width="120"> | 7939149225 | $20 | minneapolis | [Chinese Scenery Drawing](https://www.craigslist.org/view/d/minneapolis-chinese-scenery-drawing/wAjtJ5PdmTG7vK6dzdsHzh) | Vintage Wall Art — Fox & Thistle Studio | 145 | 7.25 |
 | <img src="https://images.craigslist.org/00303_7ZOlqApiPB9_0AP0o7_300x300.jpg" width="120"> | 7939105997 | $125 | augusta | [Ladies Sterling Silver Band](https://www.craigslist.org/view/d/macon-ladies-sterling-silver-band/mzvnHK3i7fxeCVM4JN7WmE) | Southwest Sterling Silver and Turquoise Watch Cuff Bracelet  | 900 | 7.2 |
@@ -236,4 +237,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00p0p_dOQK5fEB8D9_0t20CI_300x300.jpg" width="120"> | 7932675120 | $25 | spokane | [Vintage 1940's/1950's costume clip](https://www.craigslist.org/view/d/coeur-alene-vintage-1940s-1950s-costume/msR1BKt78G6papR2xHJ1LG) | Etsy | 145 | 5.8 |
 | <img src="https://images.craigslist.org/00i0i_lMbnDIel5wH_0hq0hq_300x300.jpg" width="120"> | 7982713917 | $40 | jerseyshore | [Vintage 15.5" China Shiwan Wucai Porcelain Statue ](https://www.craigslist.org/view/d/colts-neck-vintage-155-china-shiwan/vhG61P4KvzxWaLrU9vLJtK) | 8” Vintage Porcelain Geisha W/O Box - Fantastic Condition /  | 230 | 5.75 |
 | <img src="https://images.craigslist.org/00s0s_5S0oOzMStAK_0CI0t2_300x300.jpg" width="120"> | 7952658862 | $35 | raleigh | [Antique Stanley Hand Planes](https://www.craigslist.org/view/d/raleigh-antique-stanley-hand-planes/ueUccZWevxXTM9hHDjYQtQ) | Stanley 48 hand plane for tongue and groove cuts | 200 | 5.71 |
-| <img src="https://images.craigslist.org/00G0G_hmnTZHsFaAE_0t20CI_300x300.jpg" width="120"> | 7954232109 | $375 | kpr | [Elgin Railroad Pocket Watch Brass 0s Vintage](https://www.craigslist.org/view/d/college-place-elgin-railroad-pocket/6jSSkUGDt3kmxd8W3sFYL4) | Etsy | 2100 | 5.6 |

@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:32:32Z",
+ "updated": "2026-10-13T22:35:52Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 6899,
-  "events": 26319,
+  "lens": 6924,
+  "events": 26344,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 341,
+  "lensed": 344,
   "comps/pass": 1,
-  "queued/relens": 290,
+  "queued/relens": 297,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 441,
+  "flagged": 456,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 754
+  "queued": 729
  },
  "last_harvests": [
   {
@@ -1350,6 +1350,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942509567",
+   "title": "Vintage costume Brooch/Pin",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-costume-brooch-pin/twHwG2bewDFcCFvHf7PPfh",
+   "best": "Craigslist",
+   "med": 110,
+   "ratio": 7.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7949106731",
    "title": "PHOENIX RISING - ANTIQUE CHINESE VASE",
    "price": 100,
@@ -1768,6 +1779,17 @@
    "ai_value": "Value / Market: Generally sells between $40"
   },
   {
+   "pid": "7968997653",
+   "title": "3 Old Hand Saws",
+   "price": 15,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/saratoga-springs-old-hand-saws/5gxGiuZgViKxPrs4RXEiyc",
+   "best": "Craigslist",
+   "med": 80,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7953749197",
    "title": "14 kt gold sanddollar toe ring- new",
    "price": 75,
@@ -2094,6 +2116,28 @@
    "url": "https://www.craigslist.org/view/d/vintage-tie-clips-assorted-styles/aEazu9QnBnTe1AQS2A9Zj3",
    "best": "eBay",
    "med": 40,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931888219",
+   "title": "Vintage  Indian turquoise  sterling size 6",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/la-mesa-vintage-indian-turquoise/67XsYS6Mm5mmbpp8zqHRMg",
+   "best": "eBay",
+   "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932901181",
+   "title": "Vintage Indian  turquoise sterling ring size 6",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/la-mesa-vintage-indian-turquoise/cKBoDeevzZNFk2FTg4RBYr",
+   "best": "eBay",
+   "med": 200,
    "ratio": 4,
    "ai_value": ""
   },
@@ -2527,6 +2571,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956016828",
+   "title": "Le Baron Women's Watch",
+   "price": 12,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-le-baron-womens-watch/ekB4bPN7kiEf9FVcSQdTB8",
+   "best": "eBay",
+   "med": 38,
+   "ratio": 3.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7933052409",
    "title": "Beautiful Clay Drum",
    "price": 35,
@@ -2678,6 +2733,17 @@
    "best": "Rare Vintage Trade Union Member Badge Ribbon Dayton Ohio ...",
    "med": 128,
    "ratio": 2.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965579474",
+   "title": "Vintage Signed \"BEST\" 1980s Modernist Runway Statement Necklace",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-signed-best-1980s/x2jrqhh2VMYJCNAmuqhGJy",
+   "best": "LCi -Liz Claiborne gold Tone black plastic middle Open Work ...",
+   "med": 110,
+   "ratio": 2.82,
    "ai_value": ""
   },
   {
@@ -3088,6 +3154,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942541839",
+   "title": "VINTAGE BRACELET",
+   "price": 10,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/seminole-vintage-bracelet/p5SJxZWaS7Dh3Rzw1X2jrC",
+   "best": "dacconsultancy.com",
+   "med": 23,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7980458214",
    "title": "Vintage Can + Bottle Openers",
    "price": 8,
@@ -3451,6 +3528,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929235728",
+   "title": "Vintage  Rhinestone Necklace Bracelet & Earrings Set. $50",
+   "price": 50,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-rhinestone-necklace/px6EAbGdH4VaCuMFMD3pFk",
+   "best": "Kramer - Morning Glory Jewelry & Antiques",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7954408892",
    "title": "Vintage Gold Toned Metal Signed \"Gay Boyer\" Fox Heads Belt Buckle",
    "price": 45,
@@ -3759,6 +3847,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946795902",
+   "title": "Vintage Mexico Sterling Silver Paper Clip Link Dog Bone Clasp Bracelet",
+   "price": 445,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-mexico-sterling-silver/57AkYBXki7m2rWcjUVm8R4",
+   "best": "Blanca Flor Silver Jewelry",
+   "med": 675,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7938055632",
    "title": "Prussia Antique Plate",
    "price": 20,
@@ -3832,6 +3931,17 @@
    "url": "https://www.craigslist.org/view/d/scottsmoor-ceramic-elephant-plant-stand/pmPBLwNMTKo9EhyEjRdeLE",
    "best": "eBay",
    "med": 111,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942464447",
+   "title": "8 Assorted Silver Charms",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-carlos-assorted-silver-charms/fdDTkUA9tQZ1AoB74dahRL",
+   "best": "Craigslist",
+   "med": 37,
    "ratio": 1.48,
    "ai_value": ""
   },
@@ -4221,6 +4331,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957200578",
+   "title": "Vintage Estee Lauder Pendant with Chain",
+   "price": 45,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-estee-lauder-pendant/fSwsjpLxK3qryPnYMofX2i",
+   "best": "Vtg Estee Lauder Perfume Locket Necklace W/lapis Glass Stone & E.l.",
+   "med": 49,
+   "ratio": 1.09,
+   "ai_value": ""
+  },
+  {
    "pid": "7935331335",
    "title": "Disney Mickey Mouse Watch",
    "price": 25,
@@ -4474,6 +4595,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959143718",
+   "title": "Vintage Perseo TCDD Turkish State Railways Pocket Watch \u2013 17 Jewels \u2013 Swiss",
+   "price": 350,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-perseo-tcdd-turkish/sLX8AmBJd2fprTS5iM8re2",
+   "best": "Of Railways and Watches \u2013 Nova Proga",
+   "med": 300,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7938060339",
    "title": "OVER HUNDREN YEARS OLD PITCHER",
    "price": 65,
@@ -4569,6 +4701,17 @@
    "url": "https://www.craigslist.org/view/d/elkhorn-vintage-enesco-precious-moments/1991BPDBvphFcTEyshzMpr",
    "best": "VTG 1984 Enesco Precious Moments \"Join In The Blessings\" Mbr ...",
    "med": 15,
+   "ratio": 0.79,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945089496",
+   "title": "Vintage Seiko Watch",
+   "price": 165,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-seiko-watch/coQDCXruAWhWqij18KWtxL",
+   "best": "eBay",
+   "med": 130,
    "ratio": 0.79,
    "ai_value": ""
   },
@@ -4723,6 +4866,17 @@
    "url": "https://www.craigslist.org/view/d/rochester-vintage-blowtorch/1caBeVvDwqAK7SSduVz1pF",
    "best": "Vintage Lakeside Guaranteed Special M.W. & Co Brass Blow ...",
    "med": 50,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941544059",
+   "title": "VINTAGE SARAH COVENTRY",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-sarah-coventry/ksBAJ2873s1Nwx13w5WKcR",
+   "best": "Etsy",
+   "med": 25,
    "ratio": 0.63,
    "ai_value": ""
   },
@@ -4977,6 +5131,17 @@
    "best": "Origin: Made in England by the historic Josiah Wedgwood and Sons pottery manufacturer, commonly dating from th",
    "med": 24,
    "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961163945",
+   "title": "Vintage Unisex MINT Pocket Watch",
+   "price": 75,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/utica-vintage-unisex-mint-pocket-watch/sdLoGHuAzzyu6hACfZCYLc",
+   "best": "Wallapop",
+   "med": 21,
+   "ratio": 0.28,
    "ai_value": ""
   },
   {
