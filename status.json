@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T15:35:31Z",
+ "updated": "2026-10-13T15:39:51Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5762,
-  "events": 18271,
+  "lens": 5787,
+  "events": 18296,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 5080,
-  "queued": 1278,
+  "queued": 1253,
   "comps/pass": 1,
-  "queued/relens": 476,
+  "queued/relens": 478,
   "decided/ask": 50,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
   "expired": 7,
   "decided/find": 7,
-  "lensed": 53,
-  "flagged": 44
+  "lensed": 62,
+  "flagged": 58
  },
  "last_harvests": [
   {
@@ -345,6 +345,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951036661",
+   "title": "Gold-tone Bangle Bracelets",
+   "price": 18,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-gold-tone-bangle-bracelets/gYdfZNm3C64Hh77EyWxVyg",
+   "best": "\u2728 Vintage Etched Gold-Tone Bangle \u2728 Elevate your... | Depop",
+   "med": 2276,
+   "ratio": 126.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7941554943",
    "title": "Sterling Silver Pendant",
    "price": 15,
@@ -367,6 +378,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7933099842",
+   "title": "Vintage Princess Light",
+   "price": 30,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-vintage-princess-light/nsgqc4LhsPti58UkaYxm1o",
+   "best": "Vintage OK Collection Resin Ballerina Lamp w/ Burgundy ...",
+   "med": 799,
+   "ratio": 26.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980282849",
+   "title": "African Female Ritual Pose",
+   "price": 75,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-african-female-ritual-pose/psnd3kABuwir59ptbsWAAD",
+   "best": "A BEAUTIFUL PATINA DOES NOT PROVE AGE. One of the most ...",
+   "med": 1650,
+   "ratio": 22,
+   "ai_value": ""
+  },
+  {
    "pid": "7960624842",
    "title": "Vintage Bathroom/Outdoor Light Fixture",
    "price": 40,
@@ -375,6 +408,17 @@
    "best": "Craigslist",
    "med": 875,
    "ratio": 21.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946109978",
+   "title": "CUBIC ZIRCONIA PENDANT 16\" 14K GF",
+   "price": 25,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-cubic-zirconia-pendant-16-14k-gf/kPPQqaZDrD2Y6dsZeqe24S",
+   "best": "18K Gold Twisted Circle Pendant Necklace: Cubic Zirconia ...",
+   "med": 462,
+   "ratio": 18.48,
    "ai_value": ""
   },
   {
@@ -419,6 +463,17 @@
    "best": "Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ...",
    "med": 126,
    "ratio": 12.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936408454",
+   "title": "STERLING SILVER CUBIC ZIRCONIA KEY PENDANT",
+   "price": 35,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-sterling-silver-cubic-zirconia/wMXQDVP26FFTrnFxWr3CZC",
+   "best": "Sterling Silver Key Necklace, White CZ Simulated Diamond ...",
+   "med": 399,
+   "ratio": 11.4,
    "ai_value": ""
   },
   {
@@ -507,6 +562,17 @@
    "best": "Earrings: A pair of rectangular/geometric clip-on earrings featuring matching multi-colored art glass or ename",
    "med": 65,
    "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945429038",
+   "title": "Antique Corn Shuckers - lot of 4",
+   "price": 12,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-antique-corn-shuckers-lot-of/4yHDDrVxkyXGZPLnp5783K",
+   "best": "Finds Tray: Birdlip brooch \u2013 The Past",
+   "med": 77,
+   "ratio": 6.42,
    "ai_value": ""
   },
   {
@@ -609,6 +675,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955490444",
+   "title": "VINTAGE HERITAGE SWISS MADE WATCH",
+   "price": 50,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-heritage-swiss-made/cW5JDxpi6jbAQGdLi92RFs",
+   "best": "Vintage Ostranders 17 Jewels Gold Filled Automatic Men's Watch",
+   "med": 175,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951258398",
    "title": "Antique Sleds",
    "price": 75,
@@ -617,6 +694,28 @@
    "best": "Vintage Flexible Flyer Sled | eBay",
    "med": 250,
    "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940673248",
+   "title": "Vintage Hand-Carved Tribal Fertility Figure",
+   "price": 30,
+   "area": "westmd",
+   "url": "https://www.craigslist.org/view/d/myersville-vintage-hand-carved-tribal/jGbt8ynEzJ4Y9i4MQ8DGAP",
+   "best": "A Yoruba Ibeji Style Figure | eBay",
+   "med": 100,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955490380",
+   "title": "ITALIAN MADE BEADED TASSEL LARIAT NECKLACE 18K ON BRONZE",
+   "price": 30,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-italian-made-beaded-tassel/uRSVuHEj2HsqohiMoDmoiu",
+   "best": "Romanza Italy 18 Karat Goldplated Y Orbit Necklace ...",
+   "med": 99,
+   "ratio": 3.3,
    "ai_value": ""
   },
   {
@@ -697,6 +796,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943668803",
+   "title": "Antique copper pot w handles",
+   "price": 120,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-antique-copper-pot-handles/aEdkPFmtg5Pesq8sUzjL1z",
+   "best": "Vintage . Copper Bowl Pot Wrought Iron Handles Copper Decor ...",
+   "med": 315,
+   "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7955159417",
    "title": "Vintage Copper Bucket",
    "price": 40,
@@ -719,6 +829,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950425762",
+   "title": "Movado Mens Watch",
+   "price": 110,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/medford-movado-mens-watch/iFKh4L1WWSpWLx77nLngew",
+   "best": "Vintage Movado Museum 87-E4-0863 Cal. ETA 902-002 Mens ...",
+   "med": 180,
+   "ratio": 1.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7982706894",
    "title": "Sterling Silver Native American Charm Bracelet",
    "price": 100,
@@ -727,6 +848,17 @@
    "best": "Vintage Sterling Carolyn Pollack Charm Bracelet - Etsy",
    "med": 158,
    "ratio": 1.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953309440",
+   "title": "Vintage Statue",
+   "price": 120,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-vintage-statue/ckmyizMHYoEZAYySJhd2TS",
+   "best": "Weathered perfection \ud83d\ude0d This statue is so beautiful with ...",
+   "med": 175,
+   "ratio": 1.46,
    "ai_value": ""
   },
   {
@@ -752,6 +884,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950426202",
+   "title": "Wittnauer Mens Watch w/diamonds",
+   "price": 110,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/medford-wittnauer-mens-watch-diamonds/7NWLhpm3yU8S2HRfeDffz2",
+   "best": "Vintage Wittnauer Swiss Crystal Indice Day Date Quartz ...",
+   "med": 135,
+   "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7930434908",
    "title": "VINTAGE METAL SIGN",
    "price": 75,
@@ -760,6 +903,17 @@
    "best": "Miller Genuine Draft Beer - This Week's Lottery Numbers ...",
    "med": 85,
    "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931949763",
+   "title": "3 vintage handbags",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-handbags/cBKCTyopJQhAbgdFsv94x2",
+   "best": "Kathrine Baumann Crystal Minaudi\u00e8re - Gold Evening Bags ...",
+   "med": 80,
+   "ratio": 0.8,
    "ai_value": ""
   },
   {
