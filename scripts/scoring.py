@@ -6,7 +6,7 @@ Change the rules here only, and log the change + the reason in docs/improvements
 """
 import re
 JUNK=re.compile(r'\b(firewood|tires?|rims?|mattress|couch|sofa|sectional|recliner|treadmill|elliptical|refrigerator|washer|dryer|dishwasher|stove|microwave|patio set|hot tub|trailer|mower|snow ?blower|generator|ladder|lumber|pallets?|bricks?|gravel|mulch|dirt|puppies|kittens|chickens|goats|horse|hay|car seat|stroller|crib|free|wanted|iso|looking for|services?|repair|install|cash app|zelle|venmo)\b',re.I)
-RESELLER=re.compile(r'\b(authentic|rare|collectible|collectable|nib|nwt|mint|sealed|htf|discontinued|retails?|msrp|worth|value|ebay|firm|obo|no ?lowball|lot of \d+|wholesale|bulk|inventory)\b',re.I)
+RESELLER=re.compile(r'\b(authentic|rare|collectible|collectable|nib|nwt|mint|sealed|htf|discontinued|retails?|msrp|worth|value|ebay|firm|no ?lowball|wholesale|bulk|inventory)\b',re.I)
 HELPER=re.compile(r"\b(estate|grandma|grandmother|grandpa|mom's|dad's|inherited|attic|basement|garage|clean ?out|cleanout|moving|downsizing|old|vintage|antique|box of|misc|miscellaneous|stuff|things|assorted|unknown|not sure|don't know|dont know)\b",re.I)
 MODEL=re.compile(r'\b[A-Z]{1,4}-?\d{2,5}[A-Z]?\b|\b\d{3,5}[A-Z]{1,3}\b')
 # Category priors (from Runs 4-14: finds came from antiques, collectibles, jewelry, cameras, instruments, art, vintage
@@ -49,7 +49,7 @@ def is_bulky(t):
 
 # Research tells (Oct 13): hunter-case / jewelled pocket watches and small gold-tone pieces are where solid gold hides
 # under "gold tone" titles; owners rarely look inside the case back. Small, cheap to ship, Terapeak-supported.
-TELL=re.compile(r'\b(pocket ?watch|hunter case|hunting case|\d{2} jewels?|jewel(?:l)?ed|railroad watch|elgin|waltham|hampden|illinois watch|straight razors?|sterling|\.?925|14k|10k|18k|hallmark(?:ed)?|signed)\b',re.I)
+TELL=re.compile(r'\b(collection|lot|set of \d+|\d+ (?:pieces|pcs)|full bee|goebel|pocket ?watch|hunter case|hunting case|\d{2} jewels?|jewel(?:l)?ed|railroad watch|elgin|waltham|hampden|illinois watch|straight razors?|sterling|\.?925|14k|10k|18k|hallmark(?:ed)?|signed)\b',re.I)
 
 def score(r):
     t=r.get('title') or ''; s=0.0
