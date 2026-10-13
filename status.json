@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:22:16Z",
+ "updated": "2026-10-13T03:25:36Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1129,
-  "events": 6378,
+  "lens": 1154,
+  "events": 6403,
   "comps": 12,
-  "item_types": 1,
+  "item_types": 169,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3512,
-  "lensed": 404,
+  "queued": 3487,
+  "lensed": 421,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 64
+  "flagged": 72
  },
  "last_harvests": [
   {
@@ -256,6 +256,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7965405843",
+   "title": "very unique purse vintage art great craftsmanship",
+   "price": 10,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-very-unique-purse-vintage-art/ufiz9ThKDh5zXa8dqXfZFG",
+   "best": "Las mejores ofertas en Cartera de Lat\u00f3n Vintage 1930s d\u00e9cada ...",
+   "med": 140,
+   "ratio": 14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978199766",
+   "title": "Vintage New York Times Newspaper Plaque (1993)",
+   "price": 60,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-new-york-times/ucnkHojG44tLeyu7fa2Mh6",
+   "best": "Vintage New York Times Newspaper Plaque (1993)",
+   "med": 800,
+   "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7980012690",
    "title": "Trifari, Coventry etc. Jewelry",
    "price": 10,
@@ -355,6 +377,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979524449",
+   "title": "Vintage Willson Tinted Glasses",
+   "price": 50,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-willson-tinted/9KutJd9xbE4ffNR3UQ2spK",
+   "best": "Ray Ban B&L Vintage W1761 Deco Metals Round Arista ...",
+   "med": 364,
+   "ratio": 7.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7963628712",
    "title": "Antique painting Kochel am See mountain Germany",
    "price": 140,
@@ -396,6 +429,17 @@
    "best": "Subject: Figures wearing traditional sombreros guiding pack animals/donkeys along a cobblestone street lined w",
    "med": 550,
    "ratio": 6.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974478842",
+   "title": "Vintage antique rhinestone necklace",
+   "price": 15,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/vista-vintage-antique-rhinestone/usP7jFUADE9yBq89EK2wPG",
+   "best": "Vintage Elegant Clear Glass Rhinestone Necklace Prom Wedding ...",
+   "med": 94,
+   "ratio": 6.27,
    "ai_value": ""
   },
   {
@@ -707,6 +751,17 @@
    "ai_value": "sell between $50"
   },
   {
+   "pid": "7972546236",
+   "title": "Vintage vases",
+   "price": 100,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-vases/wY2f6AjjNP5n83XrkDjRCK",
+   "best": "SW Farber New York Arts And Crafts Handwrought Dovetailed ...",
+   "med": 200,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7942011154",
    "title": "19 Century hollow bronze Japanese cloisone vase.",
    "price": 105,
@@ -751,6 +806,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948627862",
+   "title": "vintage hurricane lamp. large",
+   "price": 150,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/chandler-vintage-hurricane-lamp-large/5bxrz1zf2qo3VBEbSkPhxE",
+   "best": "Vintage 3 Way Gone With the Wind Table Lamp With Hand ...",
+   "med": 250,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7949415143",
    "title": "Vintage Ceramic Decorative Plate from Mexico",
    "price": 73,
@@ -759,6 +825,17 @@
    "best": "Origin: Tonal\u00e1, Jalisco, Mexico",
    "med": 120,
    "ratio": 1.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982544315",
+   "title": "Large Antique Chinese Rice Harvest Basket",
+   "price": 160,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-large-antique-chinese-rice/kMN9ZrECkYsgMcPsZ1YbaY",
+   "best": "Antique Chinese Rice Basket, Calligraphy Handles, Hand Woven ...",
+   "med": 250,
+   "ratio": 1.56,
    "ai_value": ""
   },
   {
@@ -814,6 +891,17 @@
    "best": "Henriot Quimper Breton Covered Octagon Casserole Dish Yellow ...",
    "med": 80,
    "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956272677",
+   "title": "Christmas Bundle! Vintage-Modern! Collecting/Resale! $125/60+ Items!",
+   "price": 125,
+   "area": "fayar",
+   "url": "https://www.craigslist.org/view/d/fayetteville-christmas-bundle-vintage/xbQ9KA67t2YybjcR2VGM1q",
+   "best": "Assorted Vintage Christmas 50 Ornaments, Candles, Soap ...",
+   "med": 86,
+   "ratio": 0.69,
    "ai_value": ""
   },
   {
