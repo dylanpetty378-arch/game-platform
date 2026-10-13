@@ -67,6 +67,7 @@ jobs:
       - name: Commit results
         run: |
           git config user.name "refurbish-bot"; git config user.email "refurbish-bot@users.noreply.github.com"
+          python3 scripts/manifest.py
           git add -A db q STATUS.md status.json research/type_model.json
           git diff --cached --quiet && exit 0
           git commit -qm "cycle $(date -u +%Y-%m-%dT%H:%MZ) (${{ github.event_name }})"
