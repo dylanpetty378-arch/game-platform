@@ -21596,3 +21596,28 @@
 {"ts":"2026-10-13T17:52:06Z","pid":"7976720295","stage":"flagged","run":"lensworker-20261013-1743","note":"Lens names Illinois — title does not","data":{"med":50,"ratio":0.67,"mismatch":["Illinois"]}}
 {"ts":"2026-10-13T17:52:13Z","pid":"7954771662","stage":"queued","status":"relens","run":"lensworker-20261013-1743","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-13T17:52:20Z","pid":"7955274543","stage":"queued","status":"relens","run":"lensworker-20261013-1743","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:52:30Z","pid":"7952080580","stage":"flagged","run":"lensworker-20261013-1743","note":"Lens names Fender, Gig — title does not","data":{"med":399,"ratio":3.19,"mismatch":["Fender","Gig"]}}
+{"ts":"2026-10-13T17:52:37Z","pid":"7949966770","stage":"lensed","run":"lensworker-20261013-1743","note":null,"data":{"med":50,"ratio":0.91,"mismatch":[]}}
+{"ts":"2026-10-13T17:52:46Z","pid":"7957383770","stage":"lensed","run":"lensworker-20261013-1743","note":null,"data":{"med":33,"ratio":1.65,"mismatch":[]}}
+{"ts":"2026-10-13T17:52:56Z","pid":"7977726585","stage":"flagged","run":"lensworker-20261013-1743","note":null,"data":{"med":110,"ratio":4.4,"mismatch":[]}}
+{"ts":"2026-10-13T17:53:05Z","pid":"7982800884","stage":"flagged","run":"lensworker-20261013-1743","note":null,"data":{"med":150,"ratio":15,"mismatch":[]}}
+{"ts":"2026-10-13T17:53:15Z","pid":"7955554225","stage":"lensed","run":"lensworker-20261013-1752","note":null,"data":{"med":65,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-13T17:53:21Z","pid":"7948078005","stage":"queued","status":"relens","run":"lensworker-20261013-1752","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:53:29Z","pid":"7929161588","stage":"flagged","run":"lensworker-20261013-1752","note":null,"data":{"med":40,"ratio":0.8,"mismatch":[]}}
+{"ts":"2026-10-13T17:53:35Z","pid":"7960635786","stage":"queued","status":"relens","run":"lensworker-20261013-1752","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:53:44Z","pid":"7982722932","stage":"flagged","run":"lensworker-20261013-1752","note":"Lens names Qing — title does not","data":{"med":390,"ratio":39,"mismatch":["Qing"]}}
+{"ts":"2026-10-13T17:53:53Z","pid":"7979002425","stage":"flagged","run":"lensworker-20261013-1752","note":"Lens names Silver, Van Bergh — title does not","data":{"med":50,"ratio":5,"mismatch":["Silver","Van Bergh"]}}
+{"ts":"2026-10-13T17:53:59Z","pid":"7972712421","stage":"queued","status":"relens","run":"lensworker-20261013-1752","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:54:07Z","pid":"7949931109","stage":"lensed","run":"lensworker-20261013-1752","note":null,"data":{"med":16,"ratio":1.07,"mismatch":[]}}
+{"ts":"2026-10-13T17:54:15Z","pid":"7932961612","stage":"lensed","run":"lensworker-20261013-1752","note":null,"data":{"med":29,"ratio":0.83,"mismatch":[]}}
+{"ts":"2026-10-13T17:54:24Z","pid":"7982759922","stage":"flagged","run":"lensworker-20261013-1752","note":"Lens names Jewelry — title does not","data":{"med":15,"ratio":0.68,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-13T17:54:31Z","pid":"7979273643","stage":"queued","status":"relens","run":"lensworker-20261013-1752","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:54:37Z","pid":"7942768195","stage":"queued","status":"relens","run":"lensworker-20261013-1752","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:54:47Z","pid":"7953790194","stage":"lensed","run":"lensworker-20261013-1752","note":null,"data":{"med":58,"ratio":2.9,"mismatch":[]}}
+{"ts":"2026-10-13T17:54:54Z","pid":"7937651951","stage":"queued","status":"relens","run":"lensworker-20261013-1752","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:55:02Z","pid":"7946507186","stage":"flagged","run":"lensworker-20261013-1752","note":"Lens names Jim Beam, Regal — title does not","data":{"med":40,"ratio":0.32,"mismatch":["Jim Beam","Regal"]}}
+{"ts":"2026-10-13T17:55:08Z","pid":"7966027914","stage":"queued","status":"relens","run":"lensworker-20261013-1752","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:55:16Z","pid":"7982779068","stage":"flagged","run":"lensworker-20261013-1752","note":null,"data":{"med":195,"ratio":5.57,"mismatch":[]}}
+{"ts":"2026-10-13T17:55:23Z","pid":"7944194267","stage":"flagged","run":"lensworker-20261013-1752","note":null,"data":{"med":146,"ratio":5.84,"mismatch":[]}}
+{"ts":"2026-10-13T17:55:32Z","pid":"7955991144","stage":"flagged","run":"lensworker-20261013-1752","note":"Lens names Salem, Size — title does not","data":{"med":42,"ratio":1.68,"mismatch":["Salem","Size"]}}
+{"ts":"2026-10-13T17:55:40Z","pid":"7929153891","stage":"lensed","run":"lensworker-20261013-1752","note":null,"data":{"med":56,"ratio":1.12,"mismatch":[]}}

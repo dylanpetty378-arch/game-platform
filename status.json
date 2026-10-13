@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:52:44Z",
+ "updated": "2026-10-13T17:56:03Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6528,
-  "events": 21598,
+  "lens": 6553,
+  "events": 21623,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 231,
+  "lensed": 238,
   "comps/pass": 1,
-  "queued/relens": 197,
+  "queued/relens": 204,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 274,
+  "flagged": 285,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 325
+  "queued": 300
  },
  "last_harvests": [
   {
@@ -526,6 +526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982722932",
+   "title": "Vintage Chinese Ginger Jar with Foo Dogs",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-chinese-ginger-jar/sWEwhyM4ZtViQNv4yqCFFG",
+   "best": "Etsy",
+   "med": 390,
+   "ratio": 39,
+   "ai_value": ""
+  },
+  {
    "pid": "7955728380",
    "title": "Vintage Stone & Shell Necklace",
    "price": 10,
@@ -644,6 +655,17 @@
    "best": "Origin: Made in New York, USA by Glidden Pottery (1940s\u20131950s).",
    "med": 995,
    "ratio": 15.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982800884",
+   "title": "Antique Jester Teddy Bear",
+   "price": 10,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-antique-jester-teddy-bear/rqsFp8Hw3cmfduLmr1MEnA",
+   "best": "Era: Typically dates from the 1950s through the 1970s based on similar carnival and novelty plush styles. Unbr",
+   "med": 150,
+   "ratio": 15,
    "ai_value": ""
   },
   {
@@ -1109,6 +1131,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944194267",
+   "title": "Antique Leaded glass chandelier",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/evergreen-antique-leaded-glass/m46etaKU82hTuzFDi4JdGz",
+   "best": "Style: Tiffany-style or Handel-style reproduction/vintage piece (similar patterns were produced by makers like",
+   "med": 146,
+   "ratio": 5.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7932675120",
    "title": "Vintage 1940's/1950's costume clip",
    "price": 25,
@@ -1137,6 +1170,17 @@
    "area": "cleveland",
    "url": "https://www.craigslist.org/view/d/painesville-vintage-flying-soft-case/dr1Nkph6XEBzyFZCdVTaDB",
    "best": "Performer\u2122 Shaped Flying V\u00ae Style Guitar Hardshell Case - TKL",
+   "med": 195,
+   "ratio": 5.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982779068",
+   "title": "1932-Beautiful-Small Oil On Canvas-E.Raines",
+   "price": 35,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-1932-beautiful-small-oil-on/sDXtLH6e8KUpFbdS7d2ykX",
+   "best": "I can help you look up more details or comparable values.",
    "med": 195,
    "ratio": 5.57,
    "ai_value": ""
@@ -1171,6 +1215,17 @@
    "url": "https://www.craigslist.org/view/d/macon-blue-red-turquoise-necklace/1yALkeVncefeWapMXrvn4Z",
    "best": "Vintage Turquoise, Spiny Oyster, Heishi and Sterling Silver ...",
    "med": 250,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979002425",
+   "title": "ONEIDA Quadruple Plate Creamer",
+   "price": 10,
+   "area": "binghamton",
+   "url": "https://www.craigslist.org/view/d/binghamton-oneida-quadruple-plate/k9gkYkW3uW87HNZ9AnZxGg",
+   "best": "Van Bergh Quadruple Silver Plate Creamer, Etched Silver ...",
+   "med": 50,
    "ratio": 5,
    "ai_value": ""
   },
@@ -1271,6 +1326,17 @@
    "best": "Turquoise Sterling Silver Star of David Oxidized Pendant ...",
    "med": 179,
    "ratio": 4.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977726585",
+   "title": "Vintage Brass Lion Door Knocker",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-vintage-brass-lion-door/qPGhhcMxs5TyCjLaf8H8BW",
+   "best": "Brass Foo Dog Door Knocker, Small \u2013 Luxe Curations",
+   "med": 110,
+   "ratio": 4.4,
    "ai_value": ""
   },
   {
@@ -1656,6 +1722,17 @@
    "best": "Craigslist",
    "med": 80,
    "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952080580",
+   "title": "Parts-Caster Guitar",
+   "price": 125,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-parts-caster-guitar/vt8SHVfVt34VE6jF4YoyuK",
+   "best": "Pre Owned Squier '51 Maple Fingerboard Black With Gig Bag ...",
+   "med": 399,
+   "ratio": 3.19,
    "ai_value": ""
   },
   {
@@ -2462,6 +2539,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955991144",
+   "title": "Piggy Bank - Vintage",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-piggy-bank-vintage/r5LVgZcseLRTs6x5yLNn2j",
+   "best": "Snow Crest Beverages Vintage Sitting Bear Glass Bank 7\" Tall ...",
+   "med": 42,
+   "ratio": 1.68,
+   "ai_value": "Value: Typically sells between $15"
+  },
+  {
    "pid": "7931134171",
    "title": "ANTIQUE VASE WITH CORK STOPPER",
    "price": 75,
@@ -2968,6 +3056,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929161588",
+   "title": "Men's Watch Lot",
+   "price": 50,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-mens-watch-lot/si3Y2gJG6BdXpVo7NGCMxD",
+   "best": "Quantity: Around 30+ individual timepieces, pocket watches, and watch components/straps.",
+   "med": 40,
+   "ratio": 0.8,
+   "ai_value": "sell or list anywhere from $30 to $100"
+  },
+  {
    "pid": "7949601267",
    "title": "Vintage Enesco \u201cPrecious Moments\u201d Special Figurines",
    "price": 19,
@@ -3032,6 +3131,17 @@
    "med": 65,
    "ratio": 0.68,
    "ai_value": "Value / Market Price: Typically ranges between $75"
+  },
+  {
+   "pid": "7982759922",
+   "title": "Vintage flowerette cowrie shell necklace",
+   "price": 22,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/carmel-vintage-flowerette-cowrie-shell/97taMKM7MZUqqAZ8hGfkEN",
+   "best": "Etsy",
+   "med": 15,
+   "ratio": 0.68,
+   "ai_value": ""
   },
   {
    "pid": "7960562115",
@@ -3185,6 +3295,17 @@
    "best": "925 Sterling Silver Ruby Quartz Gemstone Women Statement ...",
    "med": 12,
    "ratio": 0.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946507186",
+   "title": "8 COMMEMORATIVE GOLF DECANTERS",
+   "price": 125,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/placerville-commemorative-golf-decanters/mgrDa7kPZfr8DyyrgukSqZ",
+   "best": "JIM BEAM, UNITED AIR LINES 1974 HAWAIIAN OPEN GOLF ...",
+   "med": 40,
+   "ratio": 0.32,
    "ai_value": ""
   },
   {
