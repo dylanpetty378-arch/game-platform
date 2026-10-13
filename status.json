@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:03:26Z",
+ "updated": "2026-10-13T23:07:14Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7099,
-  "events": 26519,
+  "lens": 7124,
+  "events": 26544,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 381,
+  "lensed": 385,
   "comps/pass": 1,
-  "queued/relens": 325,
+  "queued/relens": 328,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 566,
+  "flagged": 584,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 554
+  "queued": 529
  },
  "last_harvests": [
   {
@@ -712,6 +712,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937316645",
+   "title": "VINTAGE GOEBEL GNOME",
+   "price": 25,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-goebel-gnome/nae3eoCXGh62oLnSKvbEiF",
+   "best": "Vintage Goebel Co-Boy Gnome Conny The Night Watchman 1972 | eBay",
+   "med": 799,
+   "ratio": 31.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7979031078",
    "title": "Vintage/antique silver plate engraved cup",
    "price": 15,
@@ -998,6 +1009,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937605749",
+   "title": "Vintage Adolfo Enamel and Pearl clips earrings",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-adolfo-enamel-and-pearl/wTcLQJQt2h4aKDjffYaQbP",
+   "best": "Vintage Moschino Clip-on Earrings With Pearl Studs & Gold ...",
+   "med": 398,
+   "ratio": 13.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7976681115",
    "title": "Ladies Sterling Silver Ring",
    "price": 25,
@@ -1185,6 +1207,17 @@
    "ai_value": "Value: Similar vintage models typically sell between $100"
   },
   {
+   "pid": "7974822876",
+   "title": "Vintage silver tone textured necklace 18-18.5\" long 8mm wide",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-silver-tone-textured/5ULqexMZaTQg7CjYknEeoE",
+   "best": "Moissanite Tennis Chain Necklace .925 Silver | eBay",
+   "med": 427,
+   "ratio": 10.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7974734832",
    "title": "Vintage cherub ceramic wall hanging decorations",
    "price": 50,
@@ -1303,6 +1336,17 @@
    "best": "Vintage Rajasthani Silver Amulet, Tribal Pendant - Etsy",
    "med": 150,
    "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941754711",
+   "title": "ROSE QUARTZ CRYSTAL NECKLACE",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-rose-quartz-crystal-necklace/pT326CXKa45masn2qTchTP",
+   "best": "Natural Amethyst Rose Pendant-hand Carved Rose-925 Sterling ...",
+   "med": 299,
+   "ratio": 9.97,
    "ai_value": ""
   },
   {
@@ -1435,6 +1479,17 @@
    "best": "White Opal / Milk Glass Shade (Left): Features a hand-painted floral or leaf garland design with a soft green ",
    "med": 165,
    "ratio": 8.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930652625",
+   "title": "Vintage classic Oscar de la Renta wristwatch",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-classic-oscar-de-la/v49zChLoeMzKdoKHgfZ5Ni",
+   "best": "Vtg Oscar De La Renta 23mm Watch Gold Tone White Tank Dial ...",
+   "med": 779,
+   "ratio": 8.2,
    "ai_value": ""
   },
   {
@@ -1765,6 +1820,17 @@
    "best": "Vintage Miniature World of Peter Bates Ltd \u2022 Set of 3 Cameo ...",
    "med": 129,
    "ratio": 6.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941091608",
+   "title": "Vintage Glass Clamshell Catchall",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-glass-clamshell-catchall/dp7HQHFPSTocRsd9eZLcTr",
+   "best": "Italian Murano Glass Clam Shell Vase | Chairish",
+   "med": 255,
+   "ratio": 6.38,
    "ai_value": ""
   },
   {
@@ -2516,6 +2582,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959158052",
+   "title": "Antique pewter tankard or mug. Lot 3",
+   "price": 40,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/lake-forest-antique-pewter-tankard-or/dsqsTJKXtEaUD3F5ZN6kwV",
+   "best": "Vintage Pewter Tankard Beer Mug with Glass Bottom Engraved ...",
+   "med": 160,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7956297772",
    "title": "Vintage BASIS American Time Hand Wind Skeleton Face Swiss Made Watch",
    "price": 80,
@@ -2824,6 +2901,17 @@
    "ai_value": "Price: Typically retails new for around $189"
   },
   {
+   "pid": "7962832296",
+   "title": "14K Golden Pearl Ring",
+   "price": 200,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-14k-golden-pearl-ring/1QbVh9brJZMTquYYKLKXzd",
+   "best": "14KT YELLOW GOLD DOUBLE PEARL & DIAMOND RING SIZE 7 | eBay",
+   "med": 688,
+   "ratio": 3.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7975826109",
    "title": "PartyLite Old World Village Collection The Clocktower",
    "price": 20,
@@ -3055,6 +3143,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975431714",
+   "title": "Carved Bakelite Bracelet",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-carved-bakelite-bracelet/fNQKFQg3Qwg6UaedBZqsZQ",
+   "best": "Vintage carved butterscotch floral hard plastic bangle thick ...",
+   "med": 151,
+   "ratio": 3.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7975427796",
    "title": "Sterling Silver Sisters Pendant Charm",
    "price": 20,
@@ -3117,6 +3216,17 @@
    "url": "https://www.craigslist.org/view/d/baldwin-vintage-green-enamel-brooch-pin/aRQuvGeB3fHRfPikbrQewj",
    "best": "Blue and Glow Green Daily Bread Music Resin Chip - Etsy",
    "med": 30,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952888601",
+   "title": "VINTAGE ROSE*50'S STYLE VASE",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-vintage-rose50s-style-vase/u9uBRacMWKZKMESSFbCJmU",
+   "best": "MCM Anchor Hocking Vase 16\" Tall Prairie Pink Rose Color ...",
+   "med": 135,
    "ratio": 3,
    "ai_value": ""
   },
@@ -3682,6 +3792,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983030774",
+   "title": "Signed Decorative Tribal-Style Hand-Crafted Wood-Fired Ceramic Stonewa",
+   "price": 150,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/beaverton-signed-decorative-tribal/wLjavSLZJbtxiRQmBCGsbx",
+   "best": "Rare Edmund Ronaky California Art Pottery Vase Signed For ...",
+   "med": 365,
+   "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7942750121",
    "title": "neclace",
    "price": 40,
@@ -3734,6 +3855,17 @@
    "best": "dacconsultancy.com",
    "med": 23,
    "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940752916",
+   "title": "14k Emerald & Diamond Pendant",
+   "price": 250,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/eastpointe-14k-emerald-diamond-pendant/dJz7XFrBaGR32sWBCMFMeZ",
+   "best": "14k Yellow Gold Natural Diamond & Natural Emerald Open Heart ...",
+   "med": 570,
+   "ratio": 2.28,
    "ai_value": ""
   },
   {
@@ -4529,6 +4661,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974860109",
+   "title": "Sterling Silver Pendant with Turquoise Stone",
+   "price": 250,
+   "area": "kpr",
+   "url": "https://www.craigslist.org/view/d/prosser-sterling-silver-pendant-with/1o9DKfCnbGyzJxV2o3538a",
+   "best": "Daniel Etsitty Sterling Silver Navajo Turquoise Pendant ...",
+   "med": 406,
+   "ratio": 1.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7940725703",
    "title": "Vintage Star Wars figure lot. Kenner",
    "price": 200,
@@ -4925,6 +5068,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949947702",
+   "title": "Mexican Sterling Silver Bracelet",
+   "price": 350,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/coupeville-mexican-sterling-silver/dGe49CYoRotJrpQxkrDfN9",
+   "best": "Vintage ATI Mexico Sterling Silver 925 Modernist Artisan ...",
+   "med": 465,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7938268887",
    "title": "Dozen crystal stemware vintage",
    "price": 85,
@@ -5266,6 +5420,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956237110",
+   "title": "Premier Designs Black Necklace",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-premier-designs-black-necklace/mar82o7GLSFs9X6sdbDf54",
+   "best": "Liz Claiborne Silver Tone Black Square Necklace Lobster ...",
+   "med": 13,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7980571134",
    "title": "Lenox Tinkerbell's Magical Garden",
    "price": 115,
@@ -5383,6 +5548,28 @@
    "url": "https://www.craigslist.org/view/d/kansas-city-vintage-bronze-harry/3E8BVvHhcGMqAsUf76kTRy",
    "best": "eBay",
    "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982976663",
+   "title": "13 Vintage Dolls",
+   "price": 10,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/north-olmsted-13-vintage-dolls/jygt4iGs3i2FgCE7BX5Syc",
+   "best": "Vintage Lot Fibre Craft Doll Faces Heads Pig Arms Feet ...",
+   "med": 10,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976947236",
+   "title": "Swiss Army Watches",
+   "price": 90,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/wellfleet-swiss-army-watches/dCaiYdRVXc8Nq8b9nnv1vj",
+   "best": "Swiss Army Ladies 90's Red Bezel Date Dial leather Band ...",
+   "med": 90,
    "ratio": 1,
    "ai_value": ""
   },
@@ -6320,6 +6507,17 @@
    "med": 13,
    "ratio": 0.22,
    "ai_value": "Prices - 3,746 Auction Price Results - Page 28 $24"
+  },
+  {
+   "pid": "7964896032",
+   "title": "Vintage Zhou Ling Serigraph",
+   "price": 450,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-zhou-ling-serigraph/k7K3wPhvkR6VG2395HTai8",
+   "best": "Sold at Auction: Zhou Ling, Zhou Ling, Print",
+   "med": 100,
+   "ratio": 0.22,
+   "ai_value": ""
   },
   {
    "pid": "7951615083",
