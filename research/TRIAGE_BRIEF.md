@@ -40,3 +40,12 @@ For EACH row:
 
 Final report: counts of kill, ask and buy; full details of every ask and buy (pid, identification, est. resale, profit,
 confidence); and any process lessons.
+
+## Calibration (learned Oct 13)
+Resale estimates from general knowledge have run 2–3× above actual eBay sold medians. Lot examples: lead-soldier lots
+sell for about $30, a vintage band tee for about $37, an Ideal plastic toy for about $25. So:
+- When you have no sold comp, use the LOW end of your range.
+- Mark the estimate "no comp".
+- Only call it a `buy` when a sold comp in db/comps.jsonl or the entry supports it. Otherwise call it an `ask` or a
+  `kill`.
+Strip `\r` from every field. The input files may have CRLF line endings.
