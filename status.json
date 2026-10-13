@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:51:08Z",
+ "updated": "2026-10-13T05:56:47Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2079,
-  "events": 9276,
+  "lens": 2104,
+  "events": 9301,
   "comps": 529,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1411,
-  "queued": 3361,
+  "queued": 3336,
   "comps/pass": 1,
   "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 125,
-  "lensed": 163,
+  "flagged": 136,
+  "lensed": 177,
   "decided/find": 7
  },
  "last_harvests": [
@@ -279,6 +279,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951593406",
+   "title": "VINTAGE ITALIAN FRUIT TOPIARY",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/discovery-bay-vintage-italian-fruit/4tEXkHC8wPmnr8bAyLJYdT",
+   "best": "Fitz and Floyd Venetian Romance Harvest Topiary Soup Tureen ...",
+   "med": 1850,
+   "ratio": 92.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7959253938",
    "title": "Vintage old surfboard longboard",
    "price": 100,
@@ -532,6 +543,17 @@
    "ai_value": "Value: Similar vintage Sunbeam shoe shine kits typically sell for around $12 to $35"
   },
   {
+   "pid": "7949122173",
+   "title": "Vintage Mack Truck Gages",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/half-moon-bay-vintage-mack-truck-gages/6oRHLsvY24frL1c6tmWLnD",
+   "best": "Genuine MACK 17MT389P1 Tachometer Gauge Not Tested. | eBay",
+   "med": 100,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7930598502",
    "title": "VINTAGE STEREO EQUIPMENT",
    "price": 80,
@@ -573,6 +595,17 @@
    "best": "garrettsander.com",
    "med": 86,
    "ratio": 8.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960495209",
+   "title": "Vintage Items/ Decor Purge - Many treasures!",
+   "price": 15,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-items-decor-purge-many/aY3UsayrdJR3kFgJipfMKm",
+   "best": "Vintage Indiana Whitehall Avocado Green Cubist Set Pitcher ...",
+   "med": 125,
+   "ratio": 8.33,
    "ai_value": ""
   },
   {
@@ -675,6 +708,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935728162",
+   "title": "VINTAGE JOHN WIND PIECE",
+   "price": 40,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-john-wind-piece/rnEaes4oWo2zfofZnFAphM",
+   "best": "Etsy",
+   "med": 260,
+   "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952962879",
    "title": "Vintage Stoneware Pottery Lamp",
    "price": 20,
@@ -774,6 +818,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952377501",
+   "title": "Majolica Pitcher",
+   "price": 28,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/quakertown-majolica-pitcher/cpQd9moP4iTdKcyJmUS9k2",
+   "best": "Antique Majolica Sunflower/fan & Floral Motif Pitcher Creamer ...",
+   "med": 160,
+   "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7944432868",
    "title": "Vintage silk lampshade",
    "price": 18,
@@ -793,6 +848,17 @@
    "best": "Antique Garden Gnome Dwarf statue old retro doorstop GARDEN ...",
    "med": 500,
    "ratio": 5.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948312144",
+   "title": "Vintage Black Stone Sculpture",
+   "price": 55,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/vintage-black-stone-sculpture/f5MsHKB4aZr3w4HLmcv9Um",
+   "best": "Vintage Black Stone Sculpture | Chairish",
+   "med": 289,
+   "ratio": 5.25,
    "ai_value": ""
   },
   {
@@ -848,6 +914,17 @@
    "best": "\ud835\udd38\ud835\udd3b\ud835\udd46\u2119\ud835\udd4b\ud835\udd3c\ud835\udd3b \u273f late tuesday night featuring: . : two ...",
    "med": 280,
    "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962571893",
+   "title": "Sterling Opal Necklace",
+   "price": 95,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/santa-maria-sterling-opal-necklace/w8ad3QiA4wozF9V5dzuhgk",
+   "best": "eBay",
+   "med": 440,
+   "ratio": 4.63,
    "ai_value": ""
   },
   {
@@ -1170,6 +1247,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7978632342",
+   "title": "Lot of 6 vintage cocktail glasses",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/tacoma-lot-of-vintage-cocktail-glasses/qop5jTxSb492U6jhfvA2Ms",
+   "best": "eBay",
+   "med": 72,
+   "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962571692",
+   "title": "Vintage Sterling Necklace 17\" inches",
+   "price": 85,
+   "area": "santamaria",
+   "url": "https://www.craigslist.org/view/d/santa-maria-vintage-sterling-necklace/h3bh632qwcNcXxaRuHdUWF",
+   "best": "eBay",
+   "med": 245,
+   "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7944742537",
    "title": "1950's vintage vase",
    "price": 15,
@@ -1412,6 +1511,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945300749",
+   "title": "Antique Vintage salt-glazed stoneware pitcher",
+   "price": 50,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-antique-vintage-salt-glazed/kLst8DuoBD252Cj2qSnJ34",
+   "best": "www.reynardine.co.uk",
+   "med": 83,
+   "ratio": 1.66,
+   "ai_value": ""
+  },
+  {
    "pid": "7939313471",
    "title": "Vintage Federal Photo Enlarger",
    "price": 55,
@@ -1431,6 +1541,17 @@
    "best": "Rare embossed axe L C B Lewis C Brunman Cinncinati ...",
    "med": 155,
    "ratio": 1.55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982244801",
+   "title": "25 Vintage Noisemakers",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-25-vintage-noisemakers/5pVE1kSHJXfjLGVZCFFSHc",
+   "best": "6 ORIGINAL VINTAGE PARTY NOISE MAKERS TIN LITHO TOYS ...",
+   "med": 100,
+   "ratio": 1.33,
    "ai_value": ""
   },
   {
