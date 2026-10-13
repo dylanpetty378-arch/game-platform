@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:42:49Z",
+ "updated": "2026-10-13T03:48:38Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1279,
-  "events": 6528,
+  "lens": 1304,
+  "events": 6553,
   "comps": 12,
   "item_types": 169,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3362,
-  "lensed": 513,
+  "queued": 3337,
+  "lensed": 529,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 105
+  "flagged": 114
  },
  "last_harvests": [
   {
@@ -245,6 +245,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944471146",
+   "title": "Vintage Stradivarius Violin Copy with Bow",
+   "price": 100,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-stradivarius-violin/13F31LMqDANHQ4i5RDT62a",
+   "best": "Beautiful Vintage German Violin - Jacob Stainer in Absam ...",
+   "med": 2400,
+   "ratio": 24,
+   "ai_value": ""
+  },
+  {
    "pid": "7953945971",
    "title": "Antique slag lamp marble base",
    "price": 100,
@@ -275,6 +286,17 @@
    "best": "Vintage Majolica Pottery Ceramic Vase Urn Style Signed Italy ...",
    "med": 275,
    "ratio": 18.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949843839",
+   "title": "Andrew Thomas Schwartz American landscape",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-andrew-thomas-schwartz/1xVenx1VNJsUi8MxPyBndQ",
+   "best": "ANDREW THOMAS SCHWARTZ (1867-1942) LISTED NEW YORK ARTIST ...",
+   "med": 450,
+   "ratio": 18,
    "ai_value": ""
   },
   {
@@ -553,6 +575,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965706437",
+   "title": "Vintage/Antique Cast Bronze Military Hussar Officer Statue on Green Ma",
+   "price": 50,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/waterbury-vintage-antique-cast-bronze/cwUeoKvF3MdtfsZKUQ7bLR",
+   "best": "Antique 1800s Bronze Statue Sculpture French Military ...",
+   "med": 344,
+   "ratio": 6.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7956204812",
    "title": "Large collector dolls NEW",
    "price": 20,
@@ -762,6 +795,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962788703",
+   "title": "Vintage Silver Serving Tray/Platter by WM Rogers",
+   "price": 60,
+   "area": "southcoast",
+   "url": "https://www.craigslist.org/view/d/east-bridgewater-vintage-silver-serving/g7pt8nkZFJ7RTujft7ewht",
+   "best": "VTG 1930s Victorian Style LARGE SILVER Plated SERVING TRAY W ...",
+   "med": 225,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7957680098",
    "title": "Vintage Oval English Gathering Basket- Great Patina",
    "price": 45,
@@ -916,6 +960,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982509725",
+   "title": "Guitar",
+   "price": 50,
+   "area": "corpuschristi",
+   "url": "https://www.craigslist.org/view/d/woodsboro-guitar/47Ds6kHdLArczmYtXZB4R1",
+   "best": "Fender FA-115 Dreadnought Pack V2 Natural | Guitar Center",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7961809758",
    "title": "BLENKO water carafe EMERALD GREEN  VINTAGE",
    "price": 45,
@@ -1015,6 +1070,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952062440",
+   "title": "Westclox Clock Of Tomorrow, Mid Century Modern",
+   "price": 45,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/plymouth-meeting-westclox-clock-of/m3p8UxvF4iNLBkseMQPBEi",
+   "best": "Westclox Alarm | eBay",
+   "med": 100,
+   "ratio": 2.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7982502198",
    "title": "Vintage Hand Crank Butter Churn",
    "price": 65,
@@ -1103,6 +1169,17 @@
    "ai_value": "Value: Complete sets typically sell between $150"
   },
   {
+   "pid": "7936405883",
+   "title": "Santa  14 inch vintage",
+   "price": 50,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/schenectady-santa-14-inch-vintage/4uvb8dY4K6sx1A6zXTxJNp",
+   "best": "vintage Atlantic Mold co. 1972 ceramic winking Santa Claus ...",
+   "med": 88,
+   "ratio": 1.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7941371676",
    "title": "Antique Persian Qajar Polychrome Ceramic Tile",
    "price": 200,
@@ -1111,6 +1188,17 @@
    "best": "Las mejores ofertas en Porcelana y Cer\u00e1mica 1900-1940 ...",
    "med": 350,
    "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951173854",
+   "title": "Antique copper coal scuttle, decorative metalwork, wood handle grips.",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-antique-copper-coal-scuttle/rmCWKeGudwS6Aye5McHcef",
+   "best": "Copper Brass Porcelain Ash Bucket | eBay",
+   "med": 85,
+   "ratio": 1.7,
    "ai_value": ""
   },
   {
@@ -1197,6 +1285,17 @@
    "area": "santafe",
    "url": "https://www.craigslist.org/view/d/pecos-antique-dragon-flowers-brass-bowl/23VPcc55AXQFdm6qhsSbgL",
    "best": "Origin/Markings: Many of these pieces are vintage or mid-20th-century decorative items marked \"China\" or inscr",
+   "med": 100,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970112507",
+   "title": "2 vintage portraits of Yankee greats",
+   "price": 75,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-portraits-of-yankee/t82dqbcTHsZPf8jRN9ZBLN",
+   "best": "ALLEN FRIEDLANDER \u201cLegends of the Game\u201d Dimaggio and Gehrig ...",
    "med": 100,
    "ratio": 1.33,
    "ai_value": ""
