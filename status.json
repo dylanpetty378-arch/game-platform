@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T03:52:31Z",
+ "updated": "2026-10-13T03:56:03Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1329,
-  "events": 6590,
+  "lens": 1354,
+  "events": 6728,
   "comps": 12,
   "item_types": 217,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 409,
-  "queued": 3312,
-  "lensed": 539,
+  "queued": 3287,
+  "lensed": 438,
   "comps/pass": 1,
   "decided/ask": 11,
-  "queued/relens": 195,
+  "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 127
+  "flagged": 139
  },
  "last_harvests": [
   {
@@ -213,6 +213,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950561101",
+   "title": "Vintage gas heater",
+   "price": 145,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/taylor-vintage-gas-heater/5HhBYXH8Dd6ZbzUhxScNxd",
+   "best": "Antique Quad Manufacturing Gas Heater | EBTH",
+   "med": 10500,
+   "ratio": 72.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7939329538",
    "title": "Great artwork for sale",
    "price": 30,
@@ -367,6 +378,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952470742",
+   "title": "1903 etching woman/dog Herbert Dicksee",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/potomac-1903-etching-woman-dog-herbert/1QBA1hhmJNm2XYo29tQg9w",
+   "best": "Artwork Details",
+   "med": 800,
+   "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7980012690",
    "title": "Trifari, Coventry etc. Jewelry",
    "price": 10,
@@ -422,6 +444,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941957882",
+   "title": "Vintage Westwood industries Brass Candelabra",
+   "price": 140,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/bensalem-vintage-westwood-industries/gZWKiSvR3mUcuW5WNJpTz8",
+   "best": "French Renaissance Figural Spelter Metal Cherub Candelabra ...",
+   "med": 1500,
+   "ratio": 10.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7953487722",
    "title": "Monkey Lamp and Tin Vase INTERESTING!",
    "price": 20,
@@ -455,6 +488,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957878914",
+   "title": "Roy Rogers/Dale Evans Estate Sale Personal Items",
+   "price": 125,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-roy-rogers-dale-evans/jaB9MwYJn2vqX8ahUPuscS",
+   "best": "eBay",
+   "med": 1280,
+   "ratio": 10.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7938603544",
    "title": "Signed painting Enrique Sanchez",
    "price": 150,
@@ -464,6 +508,17 @@
    "med": 1500,
    "ratio": 10,
    "ai_value": ""
+  },
+  {
+   "pid": "7934931919",
+   "title": "Pittsburgh Steelers garage sign",
+   "price": 20,
+   "area": "limaohio",
+   "url": "https://www.craigslist.org/view/d/findlay-pittsburgh-steelers-garage-sign/p9iHQNZPmm8G4Aa2sMjDaB",
+   "best": "JCPenney Sports Fanshop",
+   "med": 190,
+   "ratio": 9.5,
+   "ai_value": "Price: Typically ranges from about $19"
   },
   {
    "pid": "7953886502",
@@ -851,6 +906,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965801477",
+   "title": "Antique Phone",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-antique-phone/sAdqFJ8xdC3yU95fbnhW9L",
+   "best": "Astral Onyx | V&A Explore The Collections",
+   "med": 150,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7957680098",
    "title": "Vintage Oval English Gathering Basket- Great Patina",
    "price": 45,
@@ -891,6 +957,17 @@
    "url": "https://www.craigslist.org/view/d/medford-hohner-hw-300g/twjEokksMP5YrSKZFNxhkq",
    "best": "Samick Acoustic Guitar MODEL LW - 015G/Read | eBay",
    "med": 175,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982472210",
+   "title": "JAPANESE BUNKA ART/CRAFT",
+   "price": 40,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/waterville-japanese-bunka-art-craft/sUrKxxoDf8i8phYStFdzUs",
+   "best": "Estimated Value: Similar vintage framed Japanese textile or bunka geisha art pieces typically sell in the $40 ",
+   "med": 140,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -947,6 +1024,17 @@
    "best": "Craigslist",
    "med": 80,
    "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962296433",
+   "title": "Vintage turquoise cross",
+   "price": 125,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/leawood-vintage-turquoise-cross/bUZwudMeXiAPcuW8vywPYU",
+   "best": "romaarellano",
+   "med": 399,
+   "ratio": 3.19,
    "ai_value": ""
   },
   {
@@ -1291,6 +1379,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952642583",
+   "title": "Vintage Leaping gazelles TV lamp/planter",
+   "price": 60,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/babylon-vintage-leaping-gazelles-tv/vpLYh8tYGDsL8vAQa63uML",
+   "best": "Vintage 1950s Ceramic Gazelle Deer TV Lamp Planter Mid ...",
+   "med": 105,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7951173854",
    "title": "Antique copper coal scuttle, decorative metalwork, wood handle grips.",
    "price": 50,
@@ -1445,6 +1544,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965781935",
+   "title": "Teapot Collection (6)",
+   "price": 100,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/fort-mill-teapot-collection/75M2HMuu8RTaBY4dWTVgA9",
+   "best": "Sadler Teapot: Ivory & Gold Filigree, 1920s English Teapot ...",
+   "med": 90,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7956272677",
    "title": "Christmas Bundle! Vintage-Modern! Collecting/Resale! $125/60+ Items!",
    "price": 125,
@@ -1465,6 +1575,17 @@
    "med": 100,
    "ratio": 0.57,
    "ai_value": ""
+  },
+  {
+   "pid": "7947434910",
+   "title": "Yamaha Guitar",
+   "price": 193,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-yamaha-guitar/1edPB5j1HPT5aPJERUPLXq",
+   "best": "Used Yamaha FG336SB 2 Color Sunburst Acoustic Guitar 2 Color ...",
+   "med": 10,
+   "ratio": 0.05,
+   "ai_value": "Value: Typically sells on the used market between $150"
   },
   {
    "pid": "7942569310",
@@ -1561,6 +1682,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/lakeville-vintage-school-scene-print/q2PnnjembSmCCx3epKAyVP",
    "best": "Would you like to know more about the history of the painting, or are you looking for valuation and print deta",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943939074",
+   "title": "Antique Messiah African dagger knife",
+   "price": 175,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-antique-messiah-african-dagger/kmiifLJQWmzqii33CTQ8BC",
+   "best": "Blade: Short, double-edged steel blade.",
    "med": null,
    "ratio": null,
    "ai_value": ""
