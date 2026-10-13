@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:47:12Z",
+ "updated": "2026-10-13T07:51:04Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 2804,
-  "events": 10589,
+  "lens": 2829,
+  "events": 10615,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2636,
+  "queued": 2611,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 339,
@@ -20,8 +20,9 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 225,
-  "flagged": 170
+  "lensed": 240,
+  "flagged": 179,
+  "expired": 1
  },
  "last_harvests": [
   {
@@ -598,6 +599,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950754266",
+   "title": "Antique Porcelain lamp. Gold Trimmed Floral. Stunning. Unique!",
+   "price": 49,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-antique-porcelain-lamp-gold/kMNj5jzgNT7oJduEYecHB2",
+   "best": "ANTIQUE PORCELAIN ART NOUVEAU EWER TABLE LAMP ~ 26\" | eBay",
+   "med": 679,
+   "ratio": 13.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7982582118",
    "title": "Vintage Baby/Doll Furniture Lot",
    "price": 30,
@@ -807,6 +819,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982608833",
+   "title": "Vintage Die Cast Hubley Tractor Toy",
+   "price": 15,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/keizer-vintage-die-cast-hubley-tractor/dQdtfF1rmPdDsptWLsmuoW",
+   "best": "1950's Hubley Die Cast Ford 961 Tractor W20 | eBay",
+   "med": 100,
+   "ratio": 6.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7930065049",
    "title": "Vintage 1930's Leitz Slide Projector for Restoration",
    "price": 50,
@@ -836,6 +859,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-vintage-hand-painted-chinese/ctdN2eDZBdmXGi6uZtW2oV",
    "best": "Vintage Lotus Flower Pattern Ginger Jar Beautiful Hand ...",
    "med": 495,
+   "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964202033",
+   "title": "Black Marble Trinket Box",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-black-marble-trinket-box/u6EhTbQVsi5r835kh4b8cM",
+   "best": "Vintage Italian Handmade Genuine Silver Trinket Pill Snuff ...",
+   "med": 99,
    "ratio": 6.6,
    "ai_value": ""
   },
@@ -1046,6 +1080,17 @@
    "best": "Estrella Classical Acoustic Guitar 1970's Made In Japan ...",
    "med": 670,
    "ratio": 4.79,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949121477",
+   "title": "Antique brass candlesticks.",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-antique-brass-candlesticks/ndk8F2yuojJQX8NC3w1r27",
+   "best": "3 Antique English Spun Brass Push Up Candlesticks Candle ...",
+   "med": 165,
+   "ratio": 4.71,
    "ai_value": ""
   },
   {
@@ -1357,6 +1402,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7962601620",
+   "title": "reelcraft hose reel",
+   "price": 100,
+   "area": "chattanooga",
+   "url": "https://www.craigslist.org/view/d/collegedale-reelcraft-hose-reel/wdRJXJVhodiKQ6pcKJyuWd",
+   "best": "REELCRAFT INDUSTRIES SPRING RETURN HOSE REEL 300 PSI 50 ...",
+   "med": 315,
+   "ratio": 3.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969573440",
+   "title": "Artifact from Middle East",
+   "price": 45,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/irving-artifact-from-middle-east/jr2c5eRuMk9PnMKFMPXgj1",
+   "best": "Vintage Silverplate Kent Silversmith Coffee Tea Pot Set ...",
+   "med": 140,
+   "ratio": 3.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7956170841",
    "title": "Vintage Test Equipment \"Electrometer\"",
    "price": 40,
@@ -1420,6 +1487,17 @@
    "best": "Title: \"We, The People... 1787\"",
    "med": 72,
    "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978616310",
+   "title": "Vintage mens & ladies watches and pocket watch.",
+   "price": 175,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/vacaville-vintage-mens-ladies-watches/6KCz5r6oAKCAnVjsjKjQHW",
+   "best": "Citizen Alarm Chronograph Vintage Citizen Alarm Chronograph ...",
+   "med": 500,
+   "ratio": 2.86,
    "ai_value": ""
   },
   {
@@ -1720,6 +1798,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954090992",
+   "title": "Vintage radios",
+   "price": 100,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/tallman-vintage-radios/eQ4RvyAnsByXA5ScKKUW2y",
+   "best": "Vintage KLH Model Twenty One 21 FM Table Radio Wood Cabinet ...",
+   "med": 180,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7964811327",
    "title": "Necklaces & Bracelets",
    "price": 140,
@@ -1946,6 +2035,17 @@
    "area": "desmoines",
    "url": "https://www.craigslist.org/view/d/des-moines-buying-old-signs/1dtj5ANA5zL9US6Y9FAnLT",
    "best": "11 x 11 in PHILLIPS 66 GAS & OIL SHIELD ADV. SIGN DIE CUT ...",
+   "med": 100,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982625492",
+   "title": "sears tower 20b",
+   "price": 100,
+   "area": "wheeling",
+   "url": "https://www.craigslist.org/view/d/rayland-sears-tower-20b/dWdU3oTjjfnCdxoTDK3hAU",
+   "best": "Yashica LYNX-1000 45mm f/1.8 Rangefinder 35mm Film Camera ...",
    "med": 100,
    "ratio": 1,
    "ai_value": ""
