@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:39:42Z",
+ "updated": "2026-10-13T09:43:27Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3504,
-  "events": 12213,
+  "lens": 3529,
+  "events": 12238,
   "comps": 876,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2902,
-  "lensed": 103,
-  "queued": 1936,
+  "lensed": 122,
+  "queued": 1911,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 341,
-  "flagged": 70,
+  "flagged": 76,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -235,6 +235,17 @@
   }
  ],
  "flagged_waiting": [
+  {
+   "pid": "7982178114",
+   "title": "Old rusty wagon",
+   "price": 10,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/lyndonville-old-rusty-wagon/5tHzo4eDycboLmSiZkcSVG",
+   "best": "Antique Rare Hibbard's Cruiser Toy Wagon Large w Original ...",
+   "med": 1650,
+   "ratio": 165,
+   "ai_value": ""
+  },
   {
    "pid": "7944055509",
    "title": "Antique Pine Box",
@@ -478,6 +489,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945825445",
+   "title": "Old Piece",
+   "price": 20,
+   "area": "fingerlakes",
+   "url": "https://www.craigslist.org/view/d/whitehall-old-piece/dAKeoQP14FZditwT83ddyt",
+   "best": "Ramsbottom Blue Crown Beverage Dispenser # 3 Crock Cooler ...",
+   "med": 195,
+   "ratio": 9.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7943866539",
    "title": "Antique Victorian Birdcage",
    "price": 39,
@@ -497,6 +519,17 @@
    "best": "Craigslist",
    "med": 399,
    "ratio": 7.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974323208",
+   "title": "Vintage Egyptian head bust",
+   "price": 40,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/gainesville-vintage-egyptian-head-bust/9mh8B5qt5CtsWuDrxJHjDb",
+   "best": "Sold at Auction: Egyptian Pharaoh Amenhotep III Ceramic Bust",
+   "med": 295,
+   "ratio": 7.38,
    "ai_value": ""
   },
   {
@@ -553,6 +586,17 @@
    "med": 165,
    "ratio": 5.5,
    "ai_value": "sell in the $30 to $150"
+  },
+  {
+   "pid": "7951299280",
+   "title": "Vintage Punch Bunch",
+   "price": 50,
+   "area": "iowacity",
+   "url": "https://www.craigslist.org/view/d/monroe-vintage-punch-bunch/k9ZebTdiLhDJSyA1BQmBoL",
+   "best": "1940's Art Deco Lehman Brothers Saturn Ring Chrome Punch ...",
+   "med": 275,
+   "ratio": 5.5,
+   "ai_value": ""
   },
   {
    "pid": "7968582309",
@@ -753,6 +797,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946788569",
+   "title": "Vintage Owl Electric Clock",
+   "price": 35,
+   "area": "myrtlebeach",
+   "url": "https://www.craigslist.org/view/d/wilmington-vintage-owl-electric-clock/tG6uaprWNeCYikABZZy4pj",
+   "best": "Vintage Heavy Chalkware Pair of Owls Clock Movement Made by ...",
+   "med": 99,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7961042523",
    "title": "Kool Collection of Stuff...",
    "price": 85,
@@ -794,6 +849,17 @@
    "best": "Christian Ulbricht Seiffener King Nutcracker 13.5 ...",
    "med": 75,
    "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961880417",
+   "title": "Antique parlor clock",
+   "price": 100,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/jackson-antique-parlor-clock/iwMx4VCUi5GAMqoPB1bHLg",
+   "best": "Lot - MISSIN / ARTS AND CRAFTS TALL CASE CLOCK GILBERT",
+   "med": 245,
+   "ratio": 2.45,
    "ai_value": ""
   },
   {
