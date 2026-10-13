@@ -26,6 +26,21 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (06:30) — the encyclopedia now steers the harvest
+- `scripts/type_model.py`: a naive-Bayes title→type classifier, trained on about 2,500 labelled titles (review
+  events, research/types.tsv and entry names). It is rebuilt every harvest cycle. `scoring.score()` adds the predicted
+  type's value × confidence. Value = clamp(expected_profit_typical/25, ±3) + 0.5 × (undervalue_frequency − 3), taken
+  from the entry's rubric. Examples: pocket watches +0.96, straight razors +1.35, Hummel +1.0, decorator lamps −0.85,
+  antique bottles −0.68. Cost is about 1 ms per title.
+- Category learning now uses review outcomes (asks and finds) instead of Lens medians. Jewelry +1.1, art −1.1 (mostly
+  prints), furniture −1.3.
+- CLIP gets positive prompts for the lead patterns: collections laid out, open pocket-watch backs, razors, surveying
+  instruments, chalkware heads, maker marks, and silver jewelry.
+- 23 new entries for types first seen in triage, 607 in total.
+- Backlog idea from the research agents: a quick-reject rule. If a type's median × 0.87 − round-trip shipping is under
+  $50, the type can never pass at any price, so demote it hard. That is partly covered by the type value, since
+  expected_profit_typical is negative for those types.
+
 ### 2026-10-13 (05:00–06:30) — triage everything, Terapeak at scale, cron fix
 - Text-triage of ALL 678 Lens-scanned-but-unflagged listings (4 agents) + 206 flagged: flagged → 0 buys; unflagged →
   1 find (Ainsworth Brunton transit $35, Terapeak median $99–150) and several asks. Total open leads now ~30; PDF of the
