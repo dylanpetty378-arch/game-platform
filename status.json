@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:42:25Z",
+ "updated": "2026-10-13T13:46:01Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5037,
-  "events": 14972,
+  "lens": 5062,
+  "events": 14997,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 707,
-  "queued": 1203,
+  "lensed": 719,
+  "queued": 1178,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 374,
-  "flagged": 540,
+  "queued/relens": 379,
+  "flagged": 548,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -2955,6 +2955,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944946737",
+   "title": "Set of 8 Italy Faience Dinner Plates Colorful Hand Painted Italian",
+   "price": 100,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/park-ridge-set-of-italy-faience-dinner/xuw7jnFKyWd6LPc56ByyTR",
+   "best": "Set 12 plates months of the year Italian ceramic faience ...",
+   "med": 495,
+   "ratio": 4.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7979133798",
    "title": "Vintage Pottery Tea/Dish set",
    "price": 20,
@@ -3879,6 +3890,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961441139",
+   "title": "Vintage Egyptian Cairoware Vase",
+   "price": 95,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/devon-vintage-egyptian-cairoware-vase/x63wkaFqC2dqftK469neqi",
+   "best": "Amazing vtg Egyptian silver metal copper inlay figures brass ...",
+   "med": 300,
+   "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7982020947",
    "title": "Antique Photo Slide Storage",
    "price": 40,
@@ -4018,6 +4040,17 @@
    "url": "https://www.craigslist.org/view/d/shorewood-lot-of-vintage-royal/46b5CYNt8muEAw4jUoY2GS",
    "best": "Craigslist",
    "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966748175",
+   "title": "1940s Ronson Lighter - silver plated - vintage",
+   "price": 35,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-1940s-ronson-lighter-silver/39U741tTiy9f75oMaXUVzA",
+   "best": "Vintage Ronson \"Decanter\" Table Cigarette Lighter- Silver ...",
+   "med": 105,
    "ratio": 3,
    "ai_value": ""
   },
@@ -4249,6 +4282,17 @@
    "url": "https://www.craigslist.org/view/d/tucson-vintage-cinelli-stems/fNrS4dAFiAop8nYX4vXb3y",
    "best": "tucson.craigslist.org",
    "med": 108,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966748268",
+   "title": "Vintage 1940 TAXCO copper and sterling silver shot glass",
+   "price": 37,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-1940-taxco-copper-and/qouQdP5T9DwDbs4kBcYm7g",
+   "best": "Victoria Taxco Silver/Copper Shot Cup c1955 | eBay Australia",
+   "med": 100,
    "ratio": 2.7,
    "ai_value": ""
   },
@@ -4748,6 +4792,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951020430",
+   "title": "New Vons Wristwatch",
+   "price": 50,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/sunset-beach-new-vons-wristwatch/huYqnP6jNeiDUCLj3oVQ4A",
+   "best": "New Stuhrling Legacy Black Leather Automatic 308A.33152 ...",
+   "med": 110,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7956328166",
    "title": "vintage costume jewelry lot from the 80s and 90s",
    "price": 40,
@@ -5177,6 +5232,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959618615",
+   "title": "Vintage A.C. Gilbert Automotive Erector Set",
+   "price": 75,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/pennington-vintage-ac-gilbert/r4qseBJVtoL6Uti7b8JBei",
+   "best": "Vintage Erector Set | EJ'S Auction & Appraisal",
+   "med": 120,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7950364393",
    "title": "Vintage wagons",
    "price": 60,
@@ -5195,6 +5261,17 @@
    "url": "https://www.craigslist.org/view/d/sacramento-vintage-balance-board-workout/dANuzpQYWm3XFD1vQ7Uvbh",
    "best": "Authentic BELGAU BALANCE BOARD | #141425534",
    "med": 150,
+   "ratio": 1.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945215550",
+   "title": "MISC HOUSEHOLD ITEMS $60 EACH SEE PICTURES",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-misc-household-items-60-each/3AYweBGiCxHiYFpvLpeQ9C",
+   "best": "Ceramic Glazed Beverage Dispenser - 3 Gallon for Sale in ...",
+   "med": 95,
    "ratio": 1.58,
    "ai_value": ""
   },
@@ -5513,6 +5590,17 @@
    "area": "spokane",
    "url": "https://www.craigslist.org/view/d/spokane-vintage-metal-sign/41uCNuAVZU7EQTfteApGJZ",
    "best": "Craigslist",
+   "med": 120,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960310139",
+   "title": "Decorative Pair of Antique Chinese Solid Silver Spoons",
+   "price": 100,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-decorative-pair-of-antique/15AdXkoHPnP6kLNG6BbZSB",
+   "best": "Exeter 1814 SterlingSilver .925 Spoons GeorgeTurner UK ...",
    "med": 120,
    "ratio": 1.2,
    "ai_value": ""
