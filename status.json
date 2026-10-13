@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T09:54:36Z",
+ "updated": "2026-10-13T09:58:04Z",
  "tables": {
   "harvests": 4,
   "searches": 1310,
   "listings": 5407,
-  "lens": 3604,
-  "events": 12388,
+  "lens": 3629,
+  "events": 12413,
   "comps": 1163,
   "item_types": 782,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2977,
-  "lensed": 121,
-  "queued": 1836,
+  "lensed": 135,
+  "queued": 1811,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 342,
-  "flagged": 76,
+  "flagged": 87,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -302,6 +302,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974832293",
+   "title": "VINTAGE RED WAGON",
+   "price": 40,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/lombard-vintage-red-wagon/gDEE7gGsHivN82yJ95FyAH",
+   "best": "Invaluable.com",
+   "med": 1650,
+   "ratio": 41.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7931015754",
    "title": "VINTAGE MOVIE PROJECTOR 16MM",
    "price": 45,
@@ -489,6 +500,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946700000",
+   "title": "Antique Glass Seltzer Bottles",
+   "price": 85,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/bedford-antique-glass-seltzer-bottles/4pJUnDQgHKg6xHDjQTy5Tx",
+   "best": "Chairish",
+   "med": 895,
+   "ratio": 10.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7945825445",
    "title": "Old Piece",
    "price": 20,
@@ -519,6 +541,28 @@
    "best": "Vintage Navy Blue Samsonite Suitcase, Hardside Weekend Bag ...",
    "med": 89,
    "ratio": 8.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977598482",
+   "title": "Antique Gorgeous Ceramic  Lamp--16.5\"H",
+   "price": 60,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/lincoln-antique-gorgeous-ceramic-lamp/r9Z1QBWaGGkpEMcruQPdym",
+   "best": "Craigslist",
+   "med": 530,
+   "ratio": 8.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954060217",
+   "title": "Vintage Dolly",
+   "price": 30,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/roland-vintage-dolly/askjH2Ao3MUPE3F9DVNWZe",
+   "best": "Fairbanks 9201-1 Freight Hand Truck Heavy Duty Industrial ...",
+   "med": 250,
+   "ratio": 8.33,
    "ai_value": ""
   },
   {
@@ -577,6 +621,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7930432131",
+   "title": "Fried Q-2 loudspeakers vintage",
+   "price": 75,
+   "area": "gainesville",
+   "url": "https://www.craigslist.org/view/d/riverview-fried-2-loudspeakers-vintage/vBB45BHmdSszzGLzaAc6vR",
+   "best": "Fried A/3 Signature Transmission Line Speakers For Sale - US ...",
+   "med": 470,
+   "ratio": 6.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982115942",
+   "title": "Women's Watches - Vintage",
+   "price": 10,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/suttons-bay-womens-watches-vintage/bS4Knmqx4Bsap7GAnHVtbU",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7977466227",
    "title": "3 vintage bike bicycles",
    "price": 50,
@@ -585,6 +651,17 @@
    "best": "Vintage Late 1970's Raleigh Women's 3 Speed Bicycle | eBay",
    "med": 299,
    "ratio": 5.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968327900",
+   "title": "Antique Hand Painted Lamp",
+   "price": 50,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/lansing-antique-hand-painted-lamp/hksxfsrK2nAdxHKAaTXHGy",
+   "best": "Vintage Painted Frosted Glass Base Brass Table Lamp Bakelite ...",
+   "med": 285,
+   "ratio": 5.7,
    "ai_value": ""
   },
   {
@@ -830,6 +907,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979955273",
+   "title": "Vintage Fire Extinguisher",
+   "price": 50,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/wichita-vintage-fire-extinguisher/mpJxbN96AKKswthMxmNHF6",
+   "best": "Vintage! 1962 General Water / Antifreeze Fire Extinguisher ...",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7948144143",
    "title": "Antique water pump/fire extinguisher",
    "price": 50,
@@ -951,6 +1039,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941237037",
+   "title": "Antique Clay Jugs/Crocks",
+   "price": 49,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/nazareth-antique-clay-jugs-crocks/dUVFaRkTt5qGVmsqJsf7ZS",
+   "best": "Larger Jug (Left): Features a round body with a blue stencil/stamp logo (such as a heart or number 3/heart des",
+   "med": 85,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7931869329",
    "title": "Vintage Lures",
    "price": 75,
@@ -981,6 +1080,17 @@
    "best": "Vintage Moroccan Copper Tea Kettle Hand Tooled Moorish ...",
    "med": 125,
    "ratio": 1.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957671194",
+   "title": "Vintage gold encrusted glasses",
+   "price": 75,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/king-of-prussia-vintage-gold-encrusted/p1fJJNs5bnXRMUdDL9HSZF",
+   "best": "Vintage Gold Encrusted Cocktail Glasses - 1940s Martini ...",
+   "med": 85,
+   "ratio": 1.13,
    "ai_value": ""
   },
   {
@@ -1067,6 +1177,17 @@
    "area": "huntington",
    "url": "https://www.craigslist.org/view/d/hamilton-vintage-pocket-knife/gGwUx1BkXchB5K7LxW6NXV",
    "best": "Old Scout Knife - Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974168513",
+   "title": "vintage yard game",
+   "price": 60,
+   "area": "wausau",
+   "url": "https://www.craigslist.org/view/d/milwaukee-vintage-yard-game/tqLQM7UBkFWNJmAuyJF952",
+   "best": "Jarts Lawn Darts Neat vintage set See pics... | ALS+Goods ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

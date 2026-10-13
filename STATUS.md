@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T09:54:36Z
+# Refurbish status — 2026-10-13T09:58:04Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 2977 |
-| queued | 1836 |
+| queued | 1811 |
 | queued/relens | 342 |
-| lensed | 121 |
-| flagged | 76 |
+| lensed | 135 |
+| flagged | 87 |
 | decided/ask | 33 |
 | decided/find | 7 |
 | decided/kill | 6 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 4
 - searches: 1310
 - listings: 5407
-- lens: 3604
-- events: 12388
+- lens: 3629
+- events: 12413
 - comps: 1163
 - item_types: 782
 - runs: 0
@@ -82,7 +82,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (76)
+## Flagged by Lens, waiting for photo review (87)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -94,6 +94,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00E0E_kY0qyGUxaY9_0CI0t2_300x300.jpg" width="120"> | 7943864176 | $95 | ithaca | [Antique Broadcast Seed Sower](https://www.craigslist.org/view/d/nazareth-antique-broadcast-seed-sower/fvsdZQrpQp7K7ki3WCoCpH) | Antique Seed Spreader / eBay | 6000 | 63.16 |
 | <img src="https://images.craigslist.org/00707_1pPyFprPlqU_0t20CI_300x300.jpg" width="120"> | 7934676928 | $50 | austin | [Antique columns](https://www.craigslist.org/view/d/tuleta-antique-columns/qE7z9rqLdHAERBeT6Sg3v6) | Two Round Wood Porch Columns 94 1/2” Long 8” To 9 1/2 ... | 2622 | 52.44 |
 | <img src="https://images.craigslist.org/01717_1QZDVW2kmbp_0t20CI_300x300.jpg" width="120"> | 7964220384 | $40 | plattsburgh | [Vintage desk lamp](https://www.craigslist.org/view/d/ballston-spa-vintage-desk-lamp/vm9R5UTxabHA6AD3JEc1W7) | NIB Henny Penny ODS300.06 50 Lb Fryer Oil Disposal ... | 1695 | 42.38 |
+| <img src="https://images.craigslist.org/00E0E_62p59AU0uCg_0CI0t2_300x300.jpg" width="120"> | 7974832293 | $40 | chambana | [VINTAGE RED WAGON](https://www.craigslist.org/view/d/lombard-vintage-red-wagon/gDEE7gGsHivN82yJ95FyAH) | Invaluable.com | 1650 | 41.25 |
 | <img src="https://images.craigslist.org/00n0n_76ushr9H4t5_0de0fg_300x300.jpg" width="120"> | 7931015754 | $45 | buffalo | [VINTAGE MOVIE PROJECTOR 16MM](https://www.craigslist.org/view/d/lake-view-vintage-movie-projector-16mm/fsgqMVoNDyq7BXJYT1SHwM) | Vintage DeJUR 8mm Home Movie Projector, Model 750 with case  | 1599 | 35.53 |
 | <img src="https://images.craigslist.org/00N0N_adrU3xqVsYV_0CI0t2_300x300.jpg" width="120"> | 7930598698 | $25 | richmond | [Antique Theatre/Auditorium Folding Seats](https://www.craigslist.org/view/d/baltimore-antique-theatre-auditorium/uCitjJSU9DdFTDAc98hVet) | Wood and Cast Iron Antique Theater Seats With Wire Hat ... | 875 | 35 |
 | <img src="https://images.craigslist.org/00V0V_fsm4iyghpeb_0CI0t2_300x300.jpg" width="120"> | 7949644455 | $40 | reno | [VINTAGE CRYSTAL CLIP EARRINGS](https://www.craigslist.org/view/d/roseville-vintage-crystal-clip-earrings/vev38J8dyVYwNY2Yov1QJK) | eBay | 1375 | 34.38 |
@@ -111,15 +112,21 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_ailfrB1g82V_0lR0t2_300x300.jpg" width="120"> | 7955729509 | $50 | richmond | [Small antique wood cookstove](https://www.craigslist.org/view/d/woodbine-small-antique-wood-cookstove/eWUGwjEKVErsG3si1yewhJ) | heavy duty cast iron plant urns !!! 125.00 each #Switzer ... | 595 | 11.9 |
 | <img src="https://images.craigslist.org/00a0a_9hlrVX0zxRr_0CI0lJ_300x300.jpg" width="120"> | 7941138372 | $80 | spokane | [Vintage seats](https://www.craigslist.org/view/d/monitor-vintage-seats/e29RN34o1HEEiWD5ZwUyiC) | 4 Vintage Wood Folding Theater Seats, Auditorium Seats ... | 875 | 10.94 |
 | <img src="https://images.craigslist.org/00C0C_yJ7kQCdlkJ_09N0hq_300x300.jpg" width="120"> | 7960994526 | $65 | chico | [2 Vintage Metal Detectors](https://www.craigslist.org/view/d/redding-vintage-metal-detectors/4oUny4ECbrMyEMQG4ztbdP) | Vintage Sears Fat Shaking Machine - Etsy | 699 | 10.75 |
+| <img src="https://images.craigslist.org/00a0a_3Cxajf1KCw1_0CI0t2_300x300.jpg" width="120"> | 7946700000 | $85 | dallas | [Antique Glass Seltzer Bottles](https://www.craigslist.org/view/d/bedford-antique-glass-seltzer-bottles/4pJUnDQgHKg6xHDjQTy5Tx) | Chairish | 895 | 10.53 |
 | <img src="https://images.craigslist.org/00y0y_5XmRAc7k0RP_0t20CI_300x300.jpg" width="120"> | 7945825445 | $20 | fingerlakes | [Old Piece](https://www.craigslist.org/view/d/whitehall-old-piece/dAKeoQP14FZditwT83ddyt) | Ramsbottom Blue Crown Beverage Dispenser # 3 Crock Cooler .. | 195 | 9.75 |
 | <img src="https://images.craigslist.org/00P0P_bBrtq7MD3nc_0CI0t2_300x300.jpg" width="120"> | 7954877827 | $20 | portland | [Vintage giant mailbox](https://www.craigslist.org/view/d/portland-vintage-giant-mailbox/8x2tjDaKoXHTUamPrqY143) | Rural Mailbox Antique - Etsy | 189 | 9.45 |
 | <img src="https://images.craigslist.org/00707_ebLbeVaJV1e_0t20CI_300x300.jpg" width="120"> | 7977882882 | $10 | redding | [Vintage Samsonite Suitcase](https://www.craigslist.org/view/d/medford-vintage-samsonite-suitcase/93RT2CNdE3X2NzNhN9EeQd) | Vintage Navy Blue Samsonite Suitcase, Hardside Weekend Bag . | 89 | 8.9 |
+| <img src="https://images.craigslist.org/00R0R_cpKb9W04gZs_0t20CI_300x300.jpg" width="120"> | 7977598482 | $60 | omaha | [Antique Gorgeous Ceramic  Lamp--16.5"H](https://www.craigslist.org/view/d/lincoln-antique-gorgeous-ceramic-lamp/r9Z1QBWaGGkpEMcruQPdym) | Craigslist | 530 | 8.83 |
+| <img src="https://images.craigslist.org/01010_fERkWw0Tx54_0lM0t2_300x300.jpg" width="120"> | 7954060217 | $30 | tulsa | [Vintage Dolly](https://www.craigslist.org/view/d/roland-vintage-dolly/askjH2Ao3MUPE3F9DVNWZe) | Fairbanks 9201-1 Freight Hand Truck Heavy Duty Industrial .. | 250 | 8.33 |
 | <img src="https://images.craigslist.org/00x0x_c3dR3mZn5dW_0CI0t2_300x300.jpg" width="120"> | 7943866539 | $39 | ithaca | [Antique Victorian Birdcage](https://www.craigslist.org/view/d/nazareth-antique-victorian-birdcage/f6TyBoB5egztc9e55WTqjH) | Vintage Victorian Wood and Wire Metal Dome Bird Cage White . | 322 | 8.26 |
 | <img src="https://images.craigslist.org/00404_h8zjM5JBIZH_0CI0hq_300x300.jpg" width="120"> | 7982225400 | $20 | portland | [Antique Wooden Fruit Boxes](https://www.craigslist.org/view/d/salem-antique-wooden-fruit-boxes/svRiEuFZp6EnpW8jA5qYNQ) | Wholesale wooden crate for your store | 150 | 7.5 |
 | <img src="https://images.craigslist.org/00i0i_AG5PbLpqyi_0t20CI_300x300.jpg" width="120"> | 7974323208 | $40 | jacksonville | [Vintage Egyptian head bust](https://www.craigslist.org/view/d/gainesville-vintage-egyptian-head-bust/9mh8B5qt5CtsWuDrxJHjDb) | Sold at Auction: Egyptian Pharaoh Amenhotep III Ceramic Bust | 295 | 7.38 |
 | <img src="https://images.craigslist.org/00Z0Z_cimEbXiWNuu_0CI0t2_300x300.jpg" width="120"> | 7982220453 | $10 | austin | [Two vintage Baskets](https://www.craigslist.org/view/d/houston-two-vintage-baskets/rTC6XZ3fVzbEtGPEKGjbxS) | Round Woven reed basket embellished with dyed reed & sea ... | 69 | 6.9 |
 | <img src="https://images.craigslist.org/00H0H_kFxwRRo6rCJ_12w0Mo_300x300.jpg" width="120"> | 7982202573 | $10 | denver | [VINTAGE BADGES (3](https://www.craigslist.org/view/d/denver-vintage-badges/rMPd63TTqM9qv1TZRgiTtV) | Navy Hat Badge Pin Sterling Silver 10k GF Vanguard Vtg Old . | 65 | 6.5 |
+| <img src="https://images.craigslist.org/00p0p_1mANY8sAvjY_0t20CI_300x300.jpg" width="120"> | 7930432131 | $75 | gainesville | [Fried Q-2 loudspeakers vintage](https://www.craigslist.org/view/d/riverview-fried-2-loudspeakers-vintage/vBB45BHmdSszzGLzaAc6vR) | Fried A/3 Signature Transmission Line Speakers For Sale - US | 470 | 6.27 |
+| <img src="https://images.craigslist.org/01717_4ZN0Yun7bm_0t20CI_300x300.jpg" width="120"> | 7982115942 | $10 | grandrapids | [Women's Watches - Vintage](https://www.craigslist.org/view/d/suttons-bay-womens-watches-vintage/bS4Knmqx4Bsap7GAnHVtbU) | eBay | 60 | 6 |
 | <img src="https://images.craigslist.org/00000_e9EXcfjVKpp_0t20CI_300x300.jpg" width="120"> | 7977466227 | $50 | nashville | [3 vintage bike bicycles](https://www.craigslist.org/view/d/murfreesboro-vintage-bike-bicycles/pSEEH3Nesz3MJViMisomX5) | Vintage Late 1970's Raleigh Women's 3 Speed Bicycle / eBay | 299 | 5.98 |
+| <img src="https://images.craigslist.org/00R0R_4B0zSZPawrv_0hS0CI_300x300.jpg" width="120"> | 7968327900 | $50 | lansing | [Antique Hand Painted Lamp](https://www.craigslist.org/view/d/lansing-antique-hand-painted-lamp/hksxfsrK2nAdxHKAaTXHGy) | Vintage Painted Frosted Glass Base Brass Table Lamp Bakelite | 285 | 5.7 |
 | <img src="https://images.craigslist.org/00u0u_fiAerm1F91D_0t20CI_300x300.jpg" width="120"> | 7968027411 | $45 | pittsburgh | [VINTAGE NIKE AIRMAX LUNAR90.C3.0](https://www.craigslist.org/view/d/berkeley-springs-vintage-nike-airmax/pMpSjigNMGDV7wBBG7XsbQ) | DS 2014 AIR MAX LUNAR 90 C3.0 631744 104 OBSIDIAN 9.5, 11 .. | 255 | 5.67 |
 | <img src="https://images.craigslist.org/00f0f_dt2uDaqNkqS_0t20CI_300x300.jpg" width="120"> | 7951299280 | $50 | iowacity | [Vintage Punch Bunch](https://www.craigslist.org/view/d/monroe-vintage-punch-bunch/k9ZebTdiLhDJSyA1BQmBoL) | 1940's Art Deco Lehman Brothers Saturn Ring Chrome Punch ... | 275 | 5.5 |
 | <img src="https://images.craigslist.org/00U0U_g1yiHMOYGJA_0CI0t2_300x300.jpg" width="120"> | 7944996283 | $49 | baltimore | [Antique Handmade Birdcage](https://www.craigslist.org/view/d/nazareth-antique-handmade-birdcage/xcnb1CpVW887sTiBM8khwc) | Antique Bird Cage Wooden Birdcage Large Wood Bird Cage ... | 257 | 5.24 |
@@ -142,6 +149,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00b0b_ep7AYXU6CJv_0CI0uc_300x300.jpg" width="120"> | 7982116713 | $25 | siouxcity | [Vintage VICTROLA Needles Tin](https://www.craigslist.org/view/d/adrian-vintage-victrola-needles-tin/vBnB77RzibZDz74VvrbcQh) | Artwork: Depicts "Nipper," the famous terrier, sitting besid | 76 | 3.04 |
 | <img src="https://images.craigslist.org/00202_ljTq5cR0W85_0jp0my_300x300.jpg" width="120"> | 7930579458 | $100 | washingtondc | [Vintage Voigtländer Folding Camera](https://www.craigslist.org/view/d/mount-laurel-vintage-voigtlnder-folding/sxEL7AempoWdQXHV25Bujo) | Voigtlander AVUS 9x12 Folding Plate Camera Skopar 1:4.5 F .. | 300 | 3 |
 | <img src="https://images.craigslist.org/00000_bqM3xJ6NWui_0CI0t2_300x300.jpg" width="120"> | 7965161871 | $50 | atlanta | [NICE VINTAGE CAMERA&CASE](https://www.craigslist.org/view/d/friendsville-nice-vintage-cameracase/iGyZygHgqd2Nq6B3WawqRR) | Vintage G Yashica Electro 35 GSN Camera 1:1.7 Lens 45 mm ... | 150 | 3 |
+| <img src="https://images.craigslist.org/00O0O_2nyYJkPNJAE_0t20CI_300x300.jpg" width="120"> | 7979955273 | $50 | oklahomacity | [Vintage Fire Extinguisher](https://www.craigslist.org/view/d/wichita-vintage-fire-extinguisher/mpJxbN96AKKswthMxmNHF6) | Vintage! 1962 General Water / Antifreeze Fire Extinguisher . | 150 | 3 |
 | <img src="https://images.craigslist.org/00D0D_1JffgKKrWRt_0t20CI_300x300.jpg" width="120"> | 7948144143 | $50 | vermont | [Antique water pump/fire extinguisher](https://www.craigslist.org/view/d/templeton-antique-water-pump-fire/9eZSZvSbvo8ihSY6fbx5uE) | WW2 Underwriters Laboratories By Doehler Metal Furniture Co  | 149 | 2.98 |
 | <img src="https://images.craigslist.org/00A0A_6kPUJgFe3nw_0t20CI_300x300.jpg" width="120"> | 7946788569 | $35 | myrtlebeach | [Vintage Owl Electric Clock](https://www.craigslist.org/view/d/wilmington-vintage-owl-electric-clock/tG6uaprWNeCYikABZZy4pj) | Vintage Heavy Chalkware Pair of Owls Clock Movement Made by  | 99 | 2.83 |
 | <img src="https://images.craigslist.org/00707_914nsnplvE1_0bC0pO_300x300.jpg" width="120"> | 7961042523 | $85 | springfieldil | [Kool Collection of Stuff...](https://www.craigslist.org/view/d/morris-kool-collection-of-stuff/xu3ZX7fsdZeKhDt6bAJfvZ) | Winston Salem Jaws Shark Vacuform Advertising Vintage and .. | 239 | 2.81 |
@@ -153,9 +161,11 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00z0z_4sjCdwl6Iq0_0t20CI_300x300.jpg" width="120"> | 7961880417 | $100 | madison | [Antique parlor clock](https://www.craigslist.org/view/d/jackson-antique-parlor-clock/iwMx4VCUi5GAMqoPB1bHLg) | Lot - MISSIN / ARTS AND CRAFTS TALL CASE CLOCK GILBERT | 245 | 2.45 |
 | <img src="https://images.craigslist.org/00h0h_9KgNOobw4A8_0t20CI_300x300.jpg" width="120"> | 7951896416 | $80 | omaha | [Vintage tulip lamp](https://www.craigslist.org/view/d/lincoln-vintage-tulip-lamp/kDHRQgzieNWNFoxU3hoBMv) | Vintage Brass Lamp Boho Chic / Mercari | 175 | 2.19 |
 | <img src="https://images.craigslist.org/00V0V_jN772gzB1RI_0CI0t2_300x300.jpg" width="120"> | 7979590440 | $60 | losangeles | [Assorted Fine China](https://www.craigslist.org/view/d/los-angeles-assorted-fine-china/usRi8azsQe7H8vpQsiDmbV) | Vintage Handcrafted Kelly Paulk for Silvestri Tea for One .. | 125 | 2.08 |
+| <img src="https://images.craigslist.org/01313_arIRq43opn2_0CI0t2_300x300.jpg" width="120"> | 7941237037 | $49 | ithaca | [Antique Clay Jugs/Crocks](https://www.craigslist.org/view/d/nazareth-antique-clay-jugs-crocks/dUVFaRkTt5qGVmsqJsf7ZS) | Larger Jug (Left): Features a round body with a blue stencil | 85 | 1.73 |
 | <img src="https://images.craigslist.org/00r0r_cQzMAqfkTQt_08a0ew_300x300.jpg" width="120"> | 7931869329 | $75 | chambana | [Vintage Lures](https://www.craigslist.org/view/d/woodridge-vintage-lures/t5zgqhZU77eJW4NabSk6za) | Aluminum Tackle Box / eBay | 120 | 1.6 |
 | <img src="https://images.craigslist.org/00M0M_jHH1ukNHSrS_0CI0t2_300x300.jpg" width="120"> | 7931958432 | $60 | kansascity | [Vintage Blue Carnival Glass](https://www.craigslist.org/view/d/clinton-vintage-blue-carnival-glass/6KUwo7atuYkuXRmSwrdrQf) | Vintage Peacock Blue Carnival Glass Pitcher & Set of 6 Coole | 90 | 1.5 |
 | <img src="https://images.craigslist.org/00I0I_2OnlGlN1UC0_0CI0t2_300x300.jpg" width="120"> | 7943866416 | $95 | ithaca | [Antique Turkish/Persian Copper/Silver Teapot](https://www.craigslist.org/view/d/nazareth-antique-turkish-persian-copper/wV8PZqAgcmf6aoXZCY9zZu) | Vintage Moroccan Copper Tea Kettle Hand Tooled Moorish ... | 125 | 1.32 |
+| <img src="https://images.craigslist.org/00q0q_bpxSwgYbF2D_0hS0CI_300x300.jpg" width="120"> | 7957671194 | $75 | washingtondc | [Vintage gold encrusted glasses](https://www.craigslist.org/view/d/king-of-prussia-vintage-gold-encrusted/p1fJJNs5bnXRMUdDL9HSZF) | Vintage Gold Encrusted Cocktail Glasses - 1940s Martini ... | 85 | 1.13 |
 | <img src="https://images.craigslist.org/00a0a_gnipLoUNFEp_0hq07m_300x300.jpg" width="120"> | 7955409430 | $85 | boston | [Vintage sterling amber brooch](https://www.craigslist.org/view/d/natick-vintage-sterling-amber-brooch/edu8M4asEFT2WRVFRmyxkA) | Vintage Sterling Silver Mexico Amber Stone Pin Navajo Brooch | 89 | 1.05 |
 | <img src="https://images.craigslist.org/00505_8aq7zLSTaE_0gw0co_300x300.jpg" width="120"> | 7948825018 | $99 | portland | [Vintage Lodge Collar](https://www.craigslist.org/view/d/vancouver-vintage-lodge-collar/smpdtmP89AVPBGGDNb25JG) | Rare BPOR Benevolent and Protective Order of REINDEER ... | 85 | 0.86 |
 | <img src="https://images.craigslist.org/00505_bINNWH1vhK0_0CI0t2_300x300.jpg" width="120"> | 7981247730 | $100 | losangeles | [Vintage DK bmx stem](https://www.craigslist.org/view/d/north-hollywood-vintage-dk-bmx-stem/qAfVBVrFK1HjYvGsK1KraY) | Dk Bmx Stem / eBay | 85 | 0.85 |
@@ -164,3 +174,4 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00U0U_wiQDftCBRD_0CI0t2_300x300.jpg" width="120"> | 7960041003 | $15 | wv | [Vintage Metal Trash Can](https://www.craigslist.org/view/d/evington-vintage-metal-trash-can/vFMTEPY8rwBfk2nqkTF5zQ) | Lincoln Beautyware Chrome Plated Trash Can w/ / Proxibid | None | None |
 | <img src="https://images.craigslist.org/00e0e_gpRXLUQ16TD_0t20CI_300x300.jpg" width="120"> | 7954070657 | $85 | beaumont | [Misc stuff](https://www.craigslist.org/view/d/simonton-misc-stuff/bSCaA2yzn6EoVnto6TYCPh) | TOOLS, Records, Scooters Whitmore Lake Estate... starts on . | None | None |
 | <img src="https://images.craigslist.org/00202_eASvo3W0k3z_0CI0t2_300x300.jpg" width="120"> | 7929329129 | $25 | huntington | [Vintage pocket knife](https://www.craigslist.org/view/d/hamilton-vintage-pocket-knife/gGwUx1BkXchB5K7LxW6NXV) | Old Scout Knife - Etsy | None | None |
+| <img src="https://images.craigslist.org/00J0J_8boiS3VbRtC_0CI0t2_300x300.jpg" width="120"> | 7974168513 | $60 | wausau | [vintage yard game](https://www.craigslist.org/view/d/milwaukee-vintage-yard-game/tqLQM7UBkFWNJmAuyJF952) | Jarts Lawn Darts Neat vintage set See pics... / ALS+Goods .. | None | None |
