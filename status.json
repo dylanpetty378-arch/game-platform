@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T22:53:31Z",
+ "updated": "2026-10-13T22:57:10Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7049,
-  "events": 26469,
+  "lens": 7074,
+  "events": 26494,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 369,
+  "lensed": 375,
   "comps/pass": 1,
-  "queued/relens": 319,
+  "queued/relens": 320,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 534,
+  "flagged": 552,
   "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "queued": 604
+  "queued": 579
  },
  "last_harvests": [
   {
@@ -844,6 +844,17 @@
    "ai_value": "Price: Retails around $3,299"
   },
   {
+   "pid": "7951659226",
+   "title": "Vintage Jewelry - Pins/Brooches (Picture #10 )",
+   "price": 4,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/southampton-vintage-jewelry-pins/6TVkieBp7WpeAAcMp123Ag",
+   "best": "Flowers & Leaves Pearl Vintage Pin Brooch Gold J-405 | eBay",
+   "med": 65,
+   "ratio": 16.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7981830597",
    "title": "Vintage Floor Lamp",
    "price": 100,
@@ -994,6 +1005,17 @@
    "url": "https://www.craigslist.org/view/d/summerville-antique-brass-oil-lamp/7cnDRhcLCymv3XsVxYnyHz",
    "best": "Wonderful Pair of Antique Etched Glass Brass Turkish ...",
    "med": 650,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930403288",
+   "title": "Costume Jewelry Women's  Vintage Gold Triangle Necklace",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/napa-costume-jewelry-womens-vintage/1pJk6Wt1ez3GmaKvGYtQiT",
+   "best": "Alexis Bittar Archive Futurist Link Necklace - Gold ...",
+   "med": 130,
    "ratio": 13,
    "ai_value": ""
   },
@@ -1240,6 +1262,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947128386",
+   "title": "FIVE OLD RELIGIOUS MEDALS",
+   "price": 5,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/huntingdon-valley-five-old-religious/wUJev3nrsJE5kEDqsgg8hR",
+   "best": "Vintage Estate 14K Gold Blessed Mother Mary Medal Pendant ...",
+   "med": 49,
+   "ratio": 9.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7962774231",
    "title": "Sterling Silver Ruby Rings - $40 each",
    "price": 40,
@@ -1358,6 +1391,17 @@
    "best": "eBay",
    "med": 200,
    "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957330076",
+   "title": "Mossimo Quartz Watch Japan",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-mossimo-quartz-watch-japan/45ZG86VbnrbnjB8dBsPuCm",
+   "best": "VINTAGE RARE SWISS CHROME BLUE DIAL SMALL LADIES QUARTZ ...",
+   "med": 119,
+   "ratio": 7.93,
    "ai_value": ""
   },
   {
@@ -2230,6 +2274,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7950886951",
+   "title": "HALO SETTING RING....SIZE 8.....",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-halo-setting-ringsize/7W8z4NVbdAdSkxEQ6bceeM",
+   "best": "eBay",
+   "med": 170,
+   "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940818077",
+   "title": "Vintage Poodle Charm Bracelet",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-poodle-charm/hZB4XUJ7TR5RooBbZirK18",
+   "best": "Vintage Gold Tone Leaf Bracelet: Rhinestones & Pearl Beads ...",
+   "med": 85,
+   "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7966921398",
    "title": "ernie ball volume pedal",
    "price": 25,
@@ -2505,6 +2571,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938652783",
+   "title": "Vintage Marionette from Thailand",
+   "price": 30,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-marionette-from/vdAxADSYxDensbsUSGd551",
+   "best": "Face: Hand-painted wooden features with a serene, smiling expression.",
+   "med": 109,
+   "ratio": 3.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7982798637",
    "title": "Old \"Flair\" Brass French Alarm Clock",
    "price": 65,
@@ -2700,6 +2777,17 @@
    "best": "Rare 25 PC Antique George Frederick Bowers \"scinde\" Tea ...",
    "med": 83,
    "ratio": 3.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980433581",
+   "title": "VINTAGE NAVAJO STERLING SILVER BLUE TURQUOISE RING SIZE 5.5",
+   "price": 80,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-navajo-sterling/6YZZjiWVc9p5LLmpW3nMXU",
+   "best": "eBay",
+   "med": 265,
+   "ratio": 3.31,
    "ai_value": ""
   },
   {
@@ -3572,6 +3660,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939685739",
+   "title": "Vintage Seed Bead Medallion Necklaces",
+   "price": 20,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-seed-bead-medallion/1pbWBiQaLyC3UpAL1TcgST",
+   "best": "Styles:",
+   "med": 45,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7980227487",
    "title": "Vintage Lillie Etched Glassware",
    "price": 45,
@@ -3990,6 +4089,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941004045",
+   "title": "Bangle Bracelets New",
+   "price": 10,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/labelle-bangle-bracelets-new/cWQzatXHgZD2QGoAc2yUrR",
+   "best": "7pcs/Set European And American Style Bangle Set With ...",
+   "med": 19,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7954408892",
    "title": "Vintage Gold Toned Metal Signed \"Gay Boyer\" Fox Heads Belt Buckle",
    "price": 45,
@@ -4056,6 +4166,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953106928",
+   "title": "Luke Adams glass pumpkin",
+   "price": 40,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/ford-city-luke-adams-glass-pumpkin/s8B4PgAxuano841QCR6s6N",
+   "best": "Etsy",
+   "med": 75,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7951881500",
    "title": "Vintage Water Pumps",
    "price": 75,
@@ -4086,6 +4207,17 @@
    "best": "Sold at Auction: Flache Kayserzinn Schale mit Mohnbl\u00fcte, um 1900",
    "med": 149,
    "ratio": 1.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951814342",
+   "title": "Spiro Agnew watch",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-spiro-agnew-watch/hh8wJu5XsQWj32iAHwFBG6",
+   "best": "Vintage SPIRO AGNEW Cartoon Style Wrist Watch by Sheffield ...",
+   "med": 74,
+   "ratio": 1.85,
    "ai_value": ""
   },
   {
@@ -4309,6 +4441,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983023829",
+   "title": "SILVER 925 CHARMS\ud83e\ude77\ud83c\udf85\ud83c\udf85\ud83c\udf85",
+   "price": 5,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-silver-925-charms/g39XiJEkKmgN77TrvWhDmU",
+   "best": "Sterling Silver Turtle Bracelet. Personalized Custom Charm ...",
+   "med": 8,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7982706894",
    "title": "Sterling Silver Native American Charm Bracelet",
    "price": 100,
@@ -4349,6 +4492,28 @@
    "url": "https://www.craigslist.org/view/d/solon-antique-mortar-and-pestle/deRiwUihf4XU8jbQ4uX4CJ",
    "best": "Mortar & Pestle from Pharmacy Solid Brass 2 Handles Engraved ...",
    "med": 115,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981786230",
+   "title": "Vintage Ladies Seiko 5420-5029 Gold Tone Quartz Watch",
+   "price": 49,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/sherborn-vintage-ladies-seiko-gold-tone/dqiXPgcA8Qks4qhmo6neTL",
+   "best": "Seiko Watch Women 20mm Champagne Dial Gold Tone ...",
+   "med": 75,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954706588",
+   "title": "Vintage War Soldiers Wood Bookends",
+   "price": 30,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-war-soldiers-wood/msFMvzMXGkQe4GhPp9KkaA",
+   "best": "Antiques Set Of 3 Wall Art Military Uniforms 1861-1862 on ...",
+   "med": 46,
    "ratio": 1.53,
    "ai_value": ""
   },
@@ -4661,6 +4826,17 @@
    "ai_value": "Price: $18"
   },
   {
+   "pid": "7976417538",
+   "title": "Butterfly Necklace Clear Jewelry",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-estates-butterfly-necklace/qB2XeewBDg1cN2V1tL8rnu",
+   "best": "Etsy",
+   "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7973653254",
    "title": "Vintage round concrete planter",
    "price": 85,
@@ -4689,6 +4865,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/natick-sterling-malachite-earring-925/dhan1md8itVH7XbBPGiyte",
    "best": "eBay",
+   "med": 50,
+   "ratio": 1.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981780848",
+   "title": "Vintage multi color resin beads necklace",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-multi-color-resin-beads/sm9thmxGFBkqgCzPYGKSV1",
+   "best": "Natural Multi Stone Bracelet w/Silver Toggle Clasp | eBay",
    "med": 50,
    "ratio": 1.28,
    "ai_value": ""
@@ -4756,6 +4943,17 @@
    "url": "https://www.craigslist.org/view/d/san-marcos-vintage-brooch-with-matching/2zNZMApLMTaa3AS9QDkwQx",
    "best": "Ruby Lane",
    "med": 60,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978833795",
+   "title": "Earring assortment +",
+   "price": 30,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/new-britain-earring-assortment/9gnpjXmZLk5RKAmXatSfkD",
+   "best": "Hallmark Mother's Day Gold Tone Nana Rose Pendant Necklace ...",
+   "med": 36,
    "ratio": 1.2,
    "ai_value": ""
   },
