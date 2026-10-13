@@ -1,5 +1,5 @@
 # Shoe shine boxes (homemade/folk wooden boxes; Griffin, Shinola, Esquire, Kiwi, Bixby, Whittemore promotional kits; cast-iron footrests by Star, Griffin, Shinola, unmarked foundries)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: eBay sold https://www.ebay.com/sch/i.html?_nkw=antique+shoe+shine+box&LH_Sold=1 ; WorthPoint https://www.worthpoint.com/inventory/search?query=shoe+shine+box ; no rows in comps.jsonl
+Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: eBay sold https://www.ebay.com/sch/i.html?_nkw=antique+shoe+shine+box&LH_Sold=1 ; WorthPoint https://www.worthpoint.com/inventory/search?query=shoe+shine+box ; no rows in comps.jsonl · tells 2026-10-13
 Slug: shoe-shine-boxes · Aliases: shoeshine box, shoe shine kit, shine box, boot black box, shoe shine stand, shoe polish box, cobbler box, shoe shine foot rest
 Summary: Plain wooden/homemade boxes $20–45; boxes with cast-iron footrest or nice original paint $40–90; advertising (Shinola, Griffin, Esquire) or folk-art/painted/inlaid boxes $80–250; 19th-century bootblack stands or exceptional folk art $250–600.
 Buy rule (short): Buy only advertising-marked, folk-art decorated or footrest boxes with strong original surface at ≤ $25; plain boxes are decor-price items that never clear $50 profit.
@@ -13,6 +13,17 @@ A wooden box (8–16 in long) holding brushes, polish tins and rags, with a rais
 - **Advertising kits**: Griffin Allwite, Shinola ("Shinola" stenciled), Esquire Boot Polish, Kiwi, Bixby, Whittemore. Graphics and original contents (tins, brushes) add value; $50–150.
 - **Folk art**: chip-carved, painted, inlaid, tramp-art or soldier-made boxes with names/dates; $100–300+.
 - **Shoe shine stands/chairs**: furniture, too big.
+
+### Golden-egg tells
+- Folk-art painted, named and dated box (soldier/sailor-made, WWII dated) with original surface — $100–300+ vs $25 Terapeak "wooden shoe shine box" median (~4–12×) — hand-lettered name/unit/date, polychrome paint worn at the footrest, chip-carved or applied edges; refinished = plain-box price (entry comp)
+- Tramp-art layered chip-carved box — $100–300+ (~4–12×) — notched, stacked cigar-box-wood layers in pyramids, dark original varnish (entry comp)
+- Shinola stencilled advertising kit with original tins and daubers — $60–150 vs $25 (~3–6×) — "SHINOLA" stencil on the lid or side, 1910s–30s tins and horsehair brushes inside (entry comp; https://www.ebay.com/sch/i.html?_nkw=antique+shoe+shine+box&LH_Sold=1)
+- Griffin Allwite / Esquire Boot Polish / Kiwi promotional boxes — same $60–150 band — printed or stencilled brand graphics, matching branded tins (entry comp)
+- Old cast-iron pierced footrest with foundry lettering ("STAR", patent date) on a period box — $40–90 (~2–3×); the rest alone $15–40 — lettering cast through the plate, high points worn smooth and shiny; crisp casting with bright paint = repro (entry comp)
+- Early polish tins inside (Shinola 1910s, Whittemore's Gilt Edge, Bixby's Royal Polish, 2-in-1) — tins can be worth more than the box, +$10–40 each — lithographed lids, small 2–3" sizes (entry comp)
+- 19th-c. bootblack's stand/box with pedestal footrest and strap — $250–600 (~10–20×) — tall pedestal rest, iron strap handle, square nails, polish-black interior (entry comp)
+- No premium: homemade pine box with Phillips screws or uniform stain — $20–45 (entry comp)
+
 
 ## Materials, finishes and quality tells
 Old: square/cut nails, dark grimy patina, polish-stained interiors, mismatched wood. New "rustic" decor: uniform stain, Phillips screws, distressed pine, new cast-iron footrests (very common in repro). Original contents (dated tins, horsehair brushes) add $10–40.

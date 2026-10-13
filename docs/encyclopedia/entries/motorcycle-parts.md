@@ -1,5 +1,5 @@
 # Vintage motorcycle parts (Harley-Davidson, Indian, Triumph/BSA, Honda, Bates/Buco accessories)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak data for this type in db/comps.jsonl
+Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak data for this type in db/comps.jsonl
 Slug: motorcycle-parts · Aliases: Harley fender, panhead parts, shovelhead parts, knucklehead, tank, tins, sportster parts, OEM fender, bobber, chopper parts
 Summary: aftermarket/common metric parts $10-60; OEM Harley Shovel/Sportster tins $75-300; Panhead/Knucklehead-era OEM tins, tanks, dash $300-1500+; small NOS parts and emblems $25-200 (general knowledge, verify)
 Buy rule (short): Only small, identifiable OEM pieces (emblems, NOS boxed parts, tank badges, speedometers ≤ shoebox) under $40; fenders/tanks are bulky and fitment-ID heavy - pass unless numbered and cheap.
@@ -9,6 +9,15 @@ Removed parts from old bikes: fenders, tanks, seats, lights, emblems, speedomete
 
 ## Makers, brands and variants
 Harley-Davidson (OEM part numbers stamped or cast), Indian (pre-1953 most valuable), British (Triumph/BSA/Norton 1950s-70s), Japanese (Honda CB, CL), accessory brands (Bates, Buco, Wald, Cycle Ray, Paughco reproductions).
+
+### Golden-egg tells
+- 1947 Knucklehead gas tanks (one-year-only) — $1,000–1,500 auction estimate vs $40 median Harley rear fender, ~25–35× — a pair of tank halves with the cat-eye dash recess and speedometer hole between them, no later-style petcock bosses (https://www.liveauctioneers.com/catalog/103514_leikala-harley-davidson-auction-2/)
+- 1936–39 Big Twin / Knucklehead front fender in primer — $800–1,500 vs $40 median, ~20–35× — deep-skirted fender with a riveted (not welded) centre brace, no bullet-signal holes, old grey or red primer rather than a repaint (https://www.liveauctioneers.com/catalog/103514_leikala-harley-davidson-auction-2/)
+- 1948-only Panhead rear fender — $800–1,500 vs $40 — tombstone tail-light base pressed into the fender tip, 1948 trim-strip holes; 1954 Panhead tank-shift tanks $400–600 (https://www.liveauctioneers.com/catalog/103514_leikala-harley-davidson-auction-2/)
+- WW2 WLA NOS leg shields — $600–1,500 NOS vs $10–60 common parts — olive-drab paint, no mounting wear, "NOS" with the original part tag (https://www.liveauctioneers.com/catalog/103514_leikala-harley-davidson-auction-2/)
+- Original Stewart-Warner 509-series speedometer (1948–61 Panhead/FL) — "hundreds of dollars" for an original core vs a few dollars once, and Asian reproductions are common — look for the S-W name on the face, a brass or zinc housing with patina, a worn chrome bezel; a perfectly glossy face and a bright bezel on a "1948" speedo is the repro (https://forum.antiquemotorcycle.org/bboard/forum/technical-discussions-harley-davidson/pan-heads/21493-1948-fl-panhead-speedo-required)
+- 1940s Indian Chief oval tank emblems as a matched pair — $250–400 the pair vs ~$150 a single, ~2× per piece — two emblems with the same wear and script in one photo (entry comp)
+- Indian dash / instrument panel (pre-1953) — $90 median sold vs $21 median "Panhead tank" search, ~4× — a cast dash with the Indian script and an ammeter hole, not a flat repro plate (entry comp)
 
 ## Materials, finishes and quality tells
 OEM steel is heavier gauge than reproduction; Taiwan/India repros have different bead rolls and thinner metal. Original paint (factory colors) adds value even when worn; repaints lower it. Chrome over pitting is a repro tell.

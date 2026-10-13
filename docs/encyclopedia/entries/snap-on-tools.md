@@ -1,5 +1,5 @@
 # Snap-on hand tools and tool boxes (Snap-on, Blue-Point)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge, Snap-on retail catalogue pricing, vintage tool collector forums (Garage Journal)
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge, Snap-on retail catalogue pricing, vintage tool collector forums (Garage Journal) · tells 2026-10-13
 Slug: snap-on-tools · Aliases: Snap-on, Snap on, Snapon, Blue-Point, mechanic's tools, Snap-on screwdriver set, Snap-on ratchet, Snap-on socket set, Snap-on tool box, KRA chest, KRL roll cab
 Summary: Singles and loose sockets $5–20; used 12 pc screwdriver sets, ratchets and speed handles $60–180; tray socket sets, restored 1970s chests and T-handle ratcheting drivers $200–500; large KRL roll cabs and complete 3/4"–1" sets $800–4,000.
 Buy rule (short): 12 pc screwdriver set under $60, ratchets under $25, sockets by the tray under 30% of eBay; pass on new sets at retail and boxes that need freight unless local.
@@ -19,6 +19,17 @@ Sellers write "Snap-on", so the information gap is small. Value comes from sets 
 - **Instinct**: soft-grip screwdrivers, priced like the Classic sets.
 - **Tool boxes**: KRA/KRL roll cabs (new $1,500–6,000; used large KRL $800–4,000). KR-series top and bottom chests from the 1950s–70s.
 - **Other truck brands** (Mac, Matco, Cornwell) have similar markets but lower resale than Snap-on (general knowledge, verify).
+
+### Golden-egg tells
+- Complete socket sets in the original tray or metal box (1/2" and 3/8" drive, all sockets and ratchet present) — $200–500 vs $5–20 per loose socket (~5× the sum of parts) — every slot filled, matching chrome, part numbers stamped, Snap-on tray or lidded box (entry comp)
+- Complete 3/4" and 1" drive sets — $800–4,000 — oversized sockets, long ratchet, in a steel case; usually from a truck/heavy-equipment shop (entry comp)
+- 12 pc Classic hard-handle screwdriver set (SDDX120/SGDX series) — $120–180 used vs $5–20 a single (~1.5× the count) — clear red/black acetate handles, full count on a rack, no cracked handles (entry comp)
+- Flex-head combination wrenches — $30–45 each vs $5–20 for a plain combo wrench (~3×) — pivoting box end on a hinge pin; count them out of "misc tool" lots (entry comp)
+- TMRT8 1/4" T-handle ratcheting driver — $60–80 — T-shaped red handle, ratchet in the head (entry comp)
+- 1950s–70s KR-series top chest + bottom roll (KR-562 etc.), drawers working, even repainted black — $250–500 local vs $50 asks — script "Snap-on" badge (older), heavy-gauge steel, friction slides; freight makes it local-only (entry comp)
+- Anniversary / limited-edition tools (not NASCAR/driver sets, which are lower) — top tier — engraved anniversary wordmark and dates on the shank, presentation box (entry comp)
+- Blue-Point singles — worth less than the Snap-on equivalent, $5–20 — "Blue-Point" instead of "Snap-on" script on the shank (entry comp)
+- Counterfeit tell — new-in-box sets at too-good prices — wrong logo font, rough chrome, part numbers not matching the catalogue (entry comp)
 
 ## Materials, finishes and quality tells
 - Chrome-vanadium tools with a polished chrome finish. The stamped date code on sockets and wrenches dates them (general knowledge, verify).

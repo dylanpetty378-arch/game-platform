@@ -1,5 +1,5 @@
 # Vintage chrome toasters (Sunbeam Radiant Control, Toastmaster, GE, Universal, Manning-Bowman, flip-side 1920s–30s)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay Sunbeam toaster category 2026-10 (T-9 1939 "tested working" $130 ask; AT-W Radiant Control $120 ask; T-20B listings $150–300 restored), gigazine.net "1949 toaster still the best" (Sunbeam T-20 cult), appraisily antique toaster value guide, sweep listing (NJ antique dealer, 6 toasters at $35 each).
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay Sunbeam toaster category 2026-10 (T-9 1939 "tested working" $130 ask; AT-W Radiant Control $120 ask; T-20B listings $150–300 restored), gigazine.net "1949 toaster still the best" (Sunbeam T-20 cult), appraisily antique toaster value guide, sweep listing (NJ antique dealer, 6 toasters at $35 each). · tells 2026-10-13
 Slug: vintage-toasters · Aliases: vintage toaster, chrome toaster, mid century toaster, Sunbeam Radiant Control, automatic toaster, art deco toaster, flip-side toaster
 Summary: 1960s–80s lever toasters $10–30; deco Toastmaster/GE, Sunbeam T-9, 1920s flip-sides $40–90; Sunbeam T-20/T-35/AT-W working $100–200 (restored $200–300); rare deco and NOS T-20 $200–500.
 Buy rule (short): Buy Sunbeam Radiant Control (no lever) under $40, deco Toastmaster/GE under $20; pass lever toasters over $20 and untested $35+ lots.
@@ -20,6 +20,18 @@ deco), **Universal/Landers Frary & Clark** flip-side toasters (1920s, you flip t
 - **Universal / Landers, Frary & Clark**: 1920s flip-sides; E947 with porcelain (top).
 - **Manning-Bowman**: deco designs incl. "Flat Iron" (top).
 - **Hotpoint**, **Sterling**, **Kwikway**, **Handy Hot**, **Proctor-Silex** — mostly common.
+
+### Golden-egg tells
+- Universal "Sweetheart" E9410 (Landers, Frary & Clark, 1920s) — $1,200–2,000 (sale $1,795) vs $10–30 for a lever toaster (~50×) — heart-shaped pierced cut-outs in the chrome side doors, porcelain base, deco scrollwork (https://articles.appraisily.com/antique-toaster-value)
+- Toast-Rite porcelain-body toaster (Pan Electric, 1915–25) — $1,500–2,500 (~80×) — white ceramic body with nickel-plated wire frames, elements inside the porcelain (https://appraisily.com/antique-toaster-value/)
+- Blue Willow pattern porcelain toaster (1928) — record £1,820 at Auction Team Breker 2001 — blue-and-white willow-pattern porcelain base with wire bread frames on both sides (https://cdn.antiquestradegazette.com/news/2001/the-toast-of-society)
+- Toastmaster 1A1 (Waters Genter, 1926, first pop-up) — $800–1,500, sale $1,100 (~40×) — tall narrow single-slot chrome body, mechanical clock-timer dial on the side, "Toastmaster" script on the front (https://articles.appraisily.com/antique-toaster-value)
+- GE D-12 (1909) — sale $750 (~30×) — white porcelain base, bare exposed coil elements, bread leans on an open wire cage, no cover (https://articles.appraisily.com/antique-toaster-value)
+- Star Electric ornate swivel toaster (Fitzgerald, 1920s) — $600–900, sale $895 — pierced ornate nickel body on a swivelling pedestal (https://appraisily.com/antique-toaster-value/)
+- Sunbeam T-20 / T-20A / T-20B Radiant Control (1949+), tested working — $100–200, $200–300 hobbyist-restored, vs $10–30 lever (~5–10×); one guide claims $300–600 — rounded chrome body, two slots, NO push-down lever, only a small light/dark knob at the base; model on the bottom plate (entry comp)
+- Sunbeam T-9 (1937–40) — $40–90, $130 ask tested working (~4×) — streamlined deco body with a ribbed/fluted chrome base and bakelite handle, a lever (so not Radiant Control) (entry comp)
+- Toastmaster 1B14 / 1B9 (1940s–50s) — $60–90 (~3×) — fluted deco chrome with bakelite handles and a single push lever, "Toastmaster" badge (entry comp)
+- Universal E947 flip-side with porcelain insert and Manning-Bowman "Flat Iron" — $200–500 (~10×) — flip-side doors on an upright frame with a porcelain panel; Flat-Iron's angular flatiron silhouette (entry comp)
 
 ## Materials, finishes and quality tells
 Heavy chrome-plated steel/brass bodies, bakelite handles and feet, mica-wound nichrome elements. Quality tells: bright

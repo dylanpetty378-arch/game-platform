@@ -1,5 +1,5 @@
 # Buck knives – 110 Folding Hunter, 112 Ranger and fixed blades (Buck Knives Inc., San Diego/El Cajon CA 1945–2005, Post Falls ID 2005–)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Verify date codes at https://www.buckknives.com (Buck "date codes" page) and collector forum https://www.buckcollectorsclub.org (URLs not fetched this run).
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Verify date codes at https://www.buckknives.com (Buck "date codes" page) and collector forum https://www.buckcollectorsclub.org (URLs not fetched this run). · tells 2026-10-13
 Slug: buck-knives · Aliases: Buck 110, Folding Hunter, Buck 112 Ranger, Buck lockback, Buck 119 Special, Buck 120 General, Buck pocket knife
 Summary: Modern date-coded (1986–) 110/112 users $25–45; 1972–86 "BUCK 110 USA" no-date-code $45–90; 1960s two/three-line stamp 110s $90–300+; early 1960s, boxed, or rare variants (Buck 110 "Ranger" prototypes, custom shop, Hoyt Buck fixed blades) $200–1,000+.
 Buy rule (short): Buy 110/112 only if the tang stamp shows pre-1986 multi-line "BUCK/U.S.A." marks, or for boxed early knives, at ≤ 40% of tier price; date-coded modern Bucks are pass above ~$15.
@@ -13,6 +13,15 @@ Dating hinges on the blade tang stamp: requires a clear close-up photo.
 - Pin count, "nail nick", bolster shape and Macassar vs Dymondwood scales help date. Brass bolsters with 3 pins per side on many vintage; Dymondwood (laminated) from ~1980s.
 - Fixed blades: 1940s–60s Hoyt H. Buck and early Buck & Son (San Diego) knives are high-value.
 - Imports & clones: Frost, Pakistan "Buck-style", Schrade LB7 (different, also collectible), Gerber/Case lockback lookalikes.
+
+### Golden-egg tells
+- Hoyt Buck hand-made "four strikes" knife (pre-1961) — $200–1,000+ vs $25–45 for a date-coded 110 — BUCK on the blade struck as four separate letter stamps, uneven spacing and depth; file-steel blade, stacked leather or lucite handle (https://en.wikipedia.org/wiki/Buck_Knives; entry comp)
+- 1961–1960s Buck fixed blade with the first one-piece "BUCK" stamp, no model number — 1960s tier $90–300 — single word BUCK only, no "U.S.A." or number; aluminium pommel, phenolic handle (https://en.wikipedia.org/wiki/Buck_Knives; entry comp)
+- 110 with a two-line "BUCK / U.S.A." stamp and no model number (1964–67 first production) — ~3–6× a modern 110 ($90–300 vs $25–45) — tang reads two lines only; brass bolsters, Macassar ebony scales (entry comp)
+- 110 three-line "BUCK / 110 / U.S.A." (c.1967–72) — ~2× — three lines stacked on the tang (entry comp)
+- 110 "Two Dot" (1974–80), "BUCK 110 U.S.A." with a dot each side — Terapeak median $51, p75 $75 vs $14.77 on the generic 110 query — look for the two dots flanking the stamp; 440C steel era (entry comp)
+- Macassar ebony scales (dark with visible open grain) vs Dymondwood (uniform laminate stripes, ~1980s on) — ebony = pre-1980s, worth the earlier tier; Dymondwood = modern tier (entry comp)
+- Downgrade: a year-symbol after "U.S.A." (1986 on) — modern $25–45 even when the seller says "vintage 1994" (entry comp)
 
 ## Materials, finishes and quality tells
 420HC blade (modern), 440C (some vintage), brass bolsters, ebony/Dymondwood/Macassar scales. Original Buck sheath (black or brown leather, Buck embossed) and box add 20–50%.

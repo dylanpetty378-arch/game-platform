@@ -1,5 +1,5 @@
 # Vintage perfume bottles (Lanvin, Guerlain, Chanel, Caron, Schiaparelli, Lalique, Baccarat, DeVilbiss, Irice, Matson, Stylebuilt, Czech Bohemian)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; verify); /home/claude/game-platform/db/comps.jsonl has no Terapeak rows for this type; Lens medians from our sweep (Lanvin Arpege extrait $44, Matson ormolu $75)
+Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run; verify); /home/claude/game-platform/db/comps.jsonl has no Terapeak rows for this type; Lens medians from our sweep (Lanvin Arpege extrait $44, Matson ormolu $75)
 Slug: vintage-perfume-bottles · Aliases: vintage parfum, extrait, pure perfume, perfume flacon, factice, dummy bottle, ormolu perfume bottle, filigree perfume bottle, Hollywood Regency vanity bottle, atomizer, DeVilbiss atomizer, Czech perfume bottle, crystal perfume bottle, vanity bottle
 Summary: Empty commercial bottles and gold-tone ormolu vanity bottles $10–45; full boxed vintage extraits (Arpege, Shalimar, Joy, No.5) $40–150; Czech jewelled/intaglio bottles and DeVilbiss atomizers $60–300; Lalique/Baccarat signed flacons and large factices $150–1,000+.
 Buy rule (short): Buy only sealed or near-full boxed pre-1980 extraits at ≤ 1/3 of sold comps, signed Czech/Lalique/Baccarat glass with intact stopper and dauber at ≤ $60, or giant store factices; pass on empty common bottles, ormolu vanity bottles over $25 and Egyptian souvenir glass.
@@ -19,6 +19,15 @@ Photo tells for value: frosted figural stopper with long dauber (Czech), acid-et
 - **Czech Bohemian** (Hoffmann, Morlee, Hermann Schlevogt; 1920s–30s): jewelled filigree collars, intaglio stoppers with nude figures, coloured cut glass, "Made in Czechoslovakia" acid stamp.
 - **DeVilbiss** (Toledo OH, 1900s–60s) atomizers, often on Steuben or Fostoria blanks; marked "DeVilbiss" on the metal fitting or acid stamp.
 - **Irice** (New York importer, 1940s–60s), **Matson** (1940s–60s, gold-plated ormolu over crystal with cast rose finials), **Stylebuilt**, **Globe**: Hollywood Regency vanity bottles. Matson often has a paper label or "Matson" stamp; most have a glass dauber.
+
+### Golden-egg tells
+- Lanvin Arpège extrait in the large 1–2 oz black "boule" flacon with the gold Iribe mother-and-daughter logo, sealed or near full — $100+ vs $60 median for the ½ oz, ~2× — a black ball bottle with a gold-stencilled logo and a black ball stopper; the small square clear flacon with the octagonal black cap is the $50–60 one (entry comp)
+- Guerlain Shalimar/Mitsouko in a Baccarat-made flacon — $80–400 vs $40–150 for a 1960s–80s Guerlain bottle, ~2–3× — "Baccarat" acid-etched on the base, the blue bat-wing (Shalimar) or heart stopper, numbered stopper matching the neck (entry comp)
+- "R. Lalique" signature (pre-1945) on a frosted/opalescent flacon — $200–2,000+ vs $25–75 for a vanity bottle, ~5–20× — the signature moulded or wheel-cut into the base or lower body; "Lalique France" without the R is post-1945 and worth a fraction (entry comp)
+- Czech Bohemian bottle with a frosted intaglio stopper (nude figure or flower cut into its back) and the "Made in Czechoslovakia" acid stamp or metal tag — $80–400 vs $36 Matson ormolu median, ~2–10× — the stopper is large, flat and frosted with the figure visible through it; a long glass dauber; base wear (entry comp)
+- DeVilbiss atomizer on a Steuben or Fostoria blank — $80–400 vs $25–75 for an Irice atomizer, ~3–5× — "DeVilbiss" on the metal collar or an acid stamp, gold-encrusted or Aurene-style glass, original tassel bulb (entry comp)
+- Giant store factice (dummy display bottle) of a wanted house — worth more than the retail size, $200+ vs $40–150 for the real retail extrait — an oversized version of the bottle, usually filled with coloured water, no baudruche seal (entry comp)
+- Matson signed vs unsigned ormolu — no premium: "Signed Matson" sold $30 against a $36 median — so a Matson paper label or stamp is not a tell; pass at the normal $25 limit (entry comp)
 
 ## Materials, finishes and quality tells
 - Lead crystal rings, is heavy, and shows sharp, polished cut edges; pressed glass shows mould seams and rounded "cuts".

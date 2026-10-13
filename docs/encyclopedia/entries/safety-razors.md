@@ -1,5 +1,5 @@
 # Vintage safety razors (Gillette, Gem, Ever-Ready, Schick, Rolls, Valet, Wilkinson, Merkur)
-Updated: 2026-10-13 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Safety_razor ; https://en.wikipedia.org/wiki/Gillette ; eBay sold search "gillette old type" / "gillette fat boy" / "gillette aristocrat" (not run this pass — no comps in db/comps.jsonl); collector community dating references (Badger & Blade forum, gillette date-code charts) — no URLs verified this run
+Updated: 2026-10-13 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Safety_razor ; https://en.wikipedia.org/wiki/Gillette ; eBay sold search "gillette old type" / "gillette fat boy" / "gillette aristocrat" (not run this pass — no comps in db/comps.jsonl); collector community dating references (Badger & Blade forum, gillette date-code charts) — no URLs verified this run · tells 2026-10-13
 Slug: safety-razors · Aliases: old razor, shaving razor, DE razor, double edge razor, Gillette razor set, barber razor (wrongly), shaving kit, gold razor, travel razor
 Summary: common 1950s-70s Gillette/Gem razors $10–30; 1920s Gillette Old Type/New Improved in case $35–90; gold-plate 1950s Gillette (Aristocrat, Fat Boy, Toggle, Tech gold) $50–150; rare/early (1904–1910 single-ring, Aristocrat #15 gold w/case, Merkur/Wilkinson Sticky boxed) $150–500+
 Buy rule (short): Buy only adjustable/gold/early Gillette or boxed rarities identified from photos at ≤ 1/3 of sold median; plain Old Type/Tech/Super Speed are pass at >$15.
@@ -21,6 +21,16 @@ A double-edge (DE) or single-edge (SE) safety razor: a head (cap + guard) that c
 - **Valet AutoStrop**: strop-sharpened; $20–60.
 - **Wilkinson Sword "Sticky"**, **Merkur (Germany)** older models, **Rex Ambassador** (rare adjustable, $300+), **Mergress**, **Hoffritz**.
 - Store brands/clones: Rexall, Kroger, Durham Duplex, Gillette-patent licensees; usually low value.
+
+### Golden-egg tells
+- Gillette 1904–05 "Single Ring" Old Type — $150–500+ vs the $24.50 Terapeak median for a 1920s Old Type (~6–20×) — one knurled ring at the top of the handle, serial number on the inner head plate (entry comp)
+- Gillette Toggle (1958–60 adjustable) — $150–500+ tier — a flat toggle lever on the head instead of a twist-to-open knob, adjustment dial on the handle (entry comp)
+- Gillette Fat Boy (195, 1958–61) with date code — $50–150 vs $10–30 for a plain Super Speed (~3–5×) — fat handle, numbered 1–9 dial at the base of the head, letter+number code (D–G) under the head (entry comp)
+- Gillette Aristocrat #15 gold in its case, or President/Diplomat gold TTO (1950s) — $150–500 vs $35–90 for an Aristocrat Jr. — gold plate, fitted case, "President" or "Diplomat" on the case/box (entry comp)
+- Rex Ambassador adjustable — $300+ — heavy stainless, "REX" on the handle, open-comb adjustable head (entry comp)
+- Old Type Pocket Edition gold-plated in metal case — Terapeak median $40 (p75 $44) vs $24.50 — only ~1.5×; the case and blade bank, not the razor, carry it (entry comp)
+- Rolls Razor complete in the box (hone, strop, lid intact) — $40–120 vs $10–30 for loose common razors — rectangular chrome case with strop under the lid (entry comp)
+- Downgrade: Gillette Tech / Ball End Tech (1938–70s three-piece) — $10–30, floods eBay — three-piece head with diamond knurl handle, no TTO doors (entry comp)
 
 ## Materials, finishes and quality tells
 - Gold plate (often worn to brass on high spots) on premium Gillettes; nickel plating on common ones; brass base metal. Plastic handles (Tech) = cheap.

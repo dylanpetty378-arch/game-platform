@@ -1,5 +1,5 @@
 # Surveying transits, levels and drafting instruments (K&E, Gurley, Dietzgen, Berger, Buff & Buff, Brunton)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings Oct 2026, journalofantiques.com, agent knowledge
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings Oct 2026, journalofantiques.com, agent knowledge · tells 2026-10-13
 Slug: surveying-instruments · Aliases: transit, surveyor's transit, dumpy level, theodolite, surveying level, Brunton pocket transit, antique surveying tool
 Summary: modern dumpy levels $30–80; K&E/Dietzgen mid-century transits with box $120–250; brass pre-1920 Gurley/K&E Paragon/Brunton $300–700; 19th-c. solar compasses and mining/railroad transits $800–3,000.
 Buy rule (short): Brass Gurley/K&E/Young with box under $120, or Brunton under $50; pass black 1950s–70s K&E at $150+ and levels.
@@ -18,6 +18,16 @@ Buy rule (short): Brass Gurley/K&E/Young with box under $120, or Brunton under $
 - **Brunton**: a pocket transit (a compass and clinometer in a palm-size case), used by geologists. Leather case adds value.
 - **David White, CST, Sokkia, Topcon**: 1970s–90s builder's levels, low value.
 - Top variants: solar attachments, side telescopes (mining), railroad transits, and 19th-c. vernier compasses.
+
+### Golden-egg tells
+- Gurley or Young & Sons solar compass / transit with Burt's solar attachment, 19th c. — $800–3,000 (entry Top) vs $120–250 black mid-century K&E (~5–12×) — extra tilted sun assembly on top: latitude arc, hour circle and a small lens-and-plate arm above the compass box (entry comp)
+- Mining transit with side (auxiliary) telescope — $800–2,000 (~5–8×) — a second, smaller telescope mounted beside the standard on an extended horizontal axis, brass, often with a reflector on the circle (entry comp)
+- Railroad/engineer's brass transit pre-1920 — K&E "Paragon" (serial under ~50,000) or Gurley with box and tripod — $300–700 (~2–3×) — lacquered (not polished) brass, silvered circles with vernier windows, "Paragon" or "W. & L. E. Gurley, Troy, N.Y." engraved on the plate (entry comp)
+- Early American vernier surveyor's compass by a listed maker (Harttmann & Saxe, Knox & Shain, Joseph Farr, T. R. Graves, John Oakes, Edward Meister) — pre-1860 compasses in the $1,000–3,000 band (verify) — large brass compass with folding sight vanes and the maker's name engraved on the dial face (https://www.surveyhistory.org/)
+- Berger tunnel transit (e.g. #4029) — specialised, few made; above the $300–700 standard-transit band (verify) — eccentric/offset telescope on a short standard for sighting past the axis (https://www.antiquesurveying.com/)
+- Early Brunton pocket transit in leather, "Wm. Ainsworth & Sons, Denver" plate — $150–400 vs $50–100 for later/modern Brunton (~3×) — brass or black case with Ainsworth maker name, hinged mirror lid, leather case (entry comp)
+- Watch-out: Indian "nautical brass" repro theodolites with fake "Stanley London"/"K&E" engraving — $30–60; light weight, crude engraving, no serial number (entry comp)
+
 
 ## Materials, finishes and quality tells
 - Early: lacquered brass, silver-inlaid graduated circles and fine engraving. Mid-century: black crinkle paint over aluminium or brass.

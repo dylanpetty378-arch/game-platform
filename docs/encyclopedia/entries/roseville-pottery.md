@@ -1,5 +1,5 @@
 # Roseville Pottery (Wisteria, Pine Cone, Futura, etc.)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: underpricedai.com sold-price aggregation for Wisteria 634-7 (median $158.75 over 62 sales; range $58–485; blue examples $300–460), antiquesandthearts.com auction reports, Kovels knowledge
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: underpricedai.com sold-price aggregation for Wisteria 634-7 (median $158.75 over 62 sales; range $58–485; blue examples $300–460), antiquesandthearts.com auction reports, Kovels knowledge · tells 2026-10-13
 Slug: roseville-pottery · Aliases: Roseville, Roseville USA, Ohio art pottery, Wisteria vase, Pine Cone vase, Futura vase, vintage pottery vase
 Summary: Repros and chipped common lines $10–40; common lines (Zephyr Lily, Freesia, Magnolia…) $40–120; brown Wisteria, blue Pine Cone, small Futura $150–400; blue Wisteria 8"+, Sunflower, Falline, Ferella and rare Futura $500–2,000+.
 Buy rule (short): Blue Wisteria/Pine Cone/Futura under $120 with a clear mark photo; brown Wisteria under $60; unrecognised money-line matches under $40; pass on any repro tell.
@@ -27,6 +27,17 @@ Reproductions from China (1990s–2000s) copy Wisteria, Pine Cone and Futura. Te
 - **Size**: larger shapes in money lines step up a tier (Wisteria blue 8"+ $400–900; Pine Cone blue 8"+ $200–400).
 - **Futura**: small shapes $200–400; tall or rare shapes are top tier.
 - Earlier lines (pre-1920s Rozane, Della Robbia) are a separate, high-end market (general knowledge, verify).
+
+### Golden-egg tells
+- Wisteria blue 12" vases (1933) — up to $2,000+ mint vs $158.75 median for brown 634-7 (~12×) — blue ground under the purple clusters, foil sticker or impressed shape number, shape number ending "-12" (https://wisconsinpottery.org/tag/roseville/)
+- Wisteria blue 6–8" shapes (630-6 $418.50, 631-6 $405, 635-8 $460) vs brown 634-7 $158.75 — ~2.6–3× — blue-green ground showing between the bark texture; brown ground = the common one (entry comp)
+- Sunflower (1930) — $300–400 estimate for a 4.5" hanging basket, ~3–5× a 6–8" Zephyr Lily/Magnolia vase — tall yellow sunflowers with green stems on a blue-green ground, hanging basket with three chain holes (https://auctions.justartpottery.com/online-auctions/just-art-pottery/roseville-sunflower-1930-vintage-arts-and-crafts-pottery-hanging-basket-planter-6953106)
+- Ferella (1930), red — $100–200 estimate for a 4.25" piece 498-4, ~3× a same-size common line — mottled red with green glaze, rows of pierced cut-outs around the rim and foot (https://auctions.justartpottery.com/online-auctions/just-art-pottery/roseville-ferella-red-1930-vintage-art-deco-pottery-ceramic-vase-498-4-7148166)
+- Futura and Imperial II (1926–28) — $200–400 small, top tier for tall shapes, often unmarked — small triangular black paper label or no mark at all; angular stepped deco forms (https://wisconsinpottery.org/tag/roseville/)
+- Trial-glaze / experimental pieces (Wincraft, Baneda, Pine Cone, Ferella, Jonquil, Water Lily) — rare, one-off, auction pricing — hand-sculpted relief, handwritten underglaze numbers and notes on the bottom, unusual colours for the line; most "experimentals" offered are imposters (https://wisconsinpottery.org/tag/roseville/)
+- Rozane / Della Robbia (1900–1915) — top-tier auction, separate market — "Rozane Ware" wafer seal or "RPCo" mark, carved/sgraffito decoration rather than moulded relief (https://wisconsinpottery.org/tag/roseville/)
+- Donatello genuine vs repro — genuine marked "Donatello R.P.Co."; a relief script mark on Donatello Panel = reproduction (https://wisconsinpottery.org/tag/roseville/)
+- Repro tell — raised "Roseville" WITHOUT "U.S.A." on white clay sells $12–35 — flip-the-base photo: genuine clay is yellowish/buff, repro is white; post-1937 genuine reads "Roseville U.S.A." (https://wisconsinpottery.org/tag/roseville/)
 
 ## Materials, finishes and quality tells
 - Genuine pieces are moulded earthenware with a soft matte glaze, crisp relief detail and colour pooling in the recesses.

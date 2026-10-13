@@ -1,5 +1,5 @@
 # Fraternal memorabilia (Shriners/AAONMS, Masonic, Knights Templar, Odd Fellows, Elks, Knights of Pythias)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.liveauctioneers.com, https://www.shrinersinternational.org
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.liveauctioneers.com, https://www.shrinersinternational.org · tells 2026-10-13
 Slug: fraternal-memorabilia · Aliases: Shriner mug, Shrine stein, Masonic mug, Knights Templar goblet, KT conclave mug, Shriners fez, Odd Fellows sword, Masonic apron, IOOF, Elks tooth
 Summary: post-1950 pins, fezzes, plates $5–40; 1900–1915 Shrine convention mugs/steins and KT conclave goblets $30–120; rare temples/cities, figural or lustre-decorated steins, early ceremonial regalia, KT swords $100–400; early folk-art regalia, painted aprons, rare 1890s convention pieces $300–2,000+ (general knowledge, verify)
 Buy rule (short): Pass on common Shrine/KT convention mugs above ~$15 unless it's a rare year/city or figural form; buy early painted Masonic aprons and folk-art pieces at ≤ 1/3 of resale.
@@ -9,6 +9,14 @@ Souvenirs and regalia from fraternal orders. The classic is the Shrine (AAONMS) 
 
 ## Makers, brands and variants
 Shrine mugs: Lulu Temple (Philadelphia; Moorish building on Spring Garden St), Syria Temple (Pittsburgh), Mecca (New York), Medinah (Chicago), Al Malaikah (LA). 1904 was the Atlantic City session hosted by Lulu. Makers: Tirschenreuth, Rudolstadt, "Bavaria"; there is also lustreware and figural (fish/horn handles). KT: Libbey/Pairpoint-cut goblets.
+
+### Golden-egg tells
+- 18th–19th-c. hand-painted lambskin Masonic apron — $300–2,000+ vs $5–40 for a 20th-c. printed apron; Terapeak median $161 on a thin sample — brush-stroked all-seeing eye, columns and checkerboard with visible paint variance, silk ribbon ties, lambskin not satin (entry comp)
+- Figural-handle Shrine mug (fish, horn, crescent) from Tirschenreuth/Rudolstadt — $80–250 vs $30–90 for a plain 1900–1915 temple mug (~2–3×) — moulded animal or scimitar handle; gilt lustre intact (entry comp)
+- Rare-temple Shrine mug (anything other than Lulu/Syria/Mecca/Medinah/Al Malaikah) — $80–250 tier — temple name and session year on the body; Lulu 1904 Atlantic City is the common one, Lens median $40 (entry comp)
+- Knights Templar sword with owner's name etched on the blade, pearl/ivory grip and a named maker (Ames, Pettibone, Lilley, Henderson-Ames) — $100–400 vs the $54 Terapeak median (~2–7×) — etched panel on the blade, knight's-head pommel, maker name at the ricasso (entry comp)
+- Odd Fellows / Masonic lodge folk-art ritual props and painted banners (19th c.) — Top tier $300–2,000+ — hand-painted canvas or carved wood with lodge symbols; not catalogue regalia (entry comp)
+- Downgrade: post-1950 fezzes, plates and pins — $5–40 — machine embroidery, "Lions"/"Shriners" branded modern tassels (entry comp)
 
 ## Materials, finishes and quality tells
 Porcelain transfer-printed with a lustre or matte brown body; fine detailed engraving-style transfers. Figural handles (horns, fish, camels) are worth more. Later 1950s+ items are mass-produced.

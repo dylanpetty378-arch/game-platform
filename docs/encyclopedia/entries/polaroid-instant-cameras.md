@@ -1,5 +1,5 @@
 # Polaroid instant cameras (Polaroid 600 OneStep/Sun 660, SX-70, Spectra, Land cameras, Impossible/Polaroid Originals)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type)
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type) · tells 2026-10-13
 Slug: polaroid-instant-cameras · Aliases: Polaroid camera, OneStep, Sun 600, 600 camera, SX-70, Land camera, instant camera
 Summary: untested 600 box cameras $15–35; tested 600 OneStep/Sun 660 $40–80; SX-70 folding (tested, cleaned) $150–350; SLR 680/690 $250–500; pack-film Land 100–400 series $25–100, Model 180/195 $200–500 (general knowledge, verify)
 Buy rule (short): buy only folding SX-70/SLR 680/690 or Land 180/195 at ≤ $60, tested with a film shot; 600 box cameras are a pass.
@@ -9,6 +9,13 @@ Buy rule (short): buy only folding SX-70/SLR 680/690 or Land 180/195 at ≤ $60,
 
 ## Makers, brands and variants
 Polaroid Corporation (1948–2008), Impossible Project / Polaroid Originals refurbs (2010s), Fuji Instax (current, separate).
+
+### Golden-egg tells
+- Original SX-70 (1972) — ~5–10× a OneStep 600 box camera ($150–350 vs $30 median) — folding SLR, chrome-plated polysulfone body with tan leather, no split-image rangefinder circle in the finder (https://en.wikipedia.org/wiki/Polaroid_SX-70; entry comp)
+- SX-70 Alpha 1 / Sonar OneStep (1978) — top of the SX-70 band — gold-grille sonar transducer above the lens on the folding body; manual-focus override (https://en.wikipedia.org/wiki/Polaroid_SX-70; entry comp)
+- SLR 680 / SLR 690 — $250–500 vs $150–350 for a plain SX-70 — SX-70-style folding body with a built-in flash head and sonar, takes 600 film; the one Polaroid collectors call "highly sought after" (https://en.wikipedia.org/wiki/Polaroid_SX-70; entry comp)
+- Downgrade: SX-70 Model 3 — ordinary tier, not an SLR — viewfinder window cut into the mirror hood instead of through-the-lens; ABS body in Ebony or Ivory like the Model 2 (https://en.wikipedia.org/wiki/Polaroid_SX-70)
+- Land 195 / 180 pack-film folders — $250–500 vs $20–40 for a plastic-lens 100-series — glass Tominon f/3.8 lens with manual aperture and shutter rings on the lens barrel, no electric eye; metal body (entry comp)
 
 ## Materials, finishes and quality tells
 Original box adds $10–20 on 600 cameras. SX-70 leather lifting, chrome pitting reduce value.

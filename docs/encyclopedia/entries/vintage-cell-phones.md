@@ -1,5 +1,5 @@
 # Vintage cell phones (Motorola DynaTAC/StarTAC/MicroTAC/RAZR, Nokia 8xxx/3310, early Samsung/LG flips, BlackBerry, early iPhone)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type)
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type) · tells 2026-10-13
 Slug: vintage-cell-phones · Aliases: old cell phones, flip phones, brick phone, retro phones, Nokia lot, Motorola flip, phone lot for parts
 Summary: common 2000s flips/candybars $5–20 each; lots of 10+ untested $25–80; boxed NOS phones $30–150; Motorola StarTAC/Nokia 8810/8850 $40–200; DynaTAC 8000 brick $300–1,500; sealed 1st-gen iPhone $1,000+ (general knowledge, verify)
 Buy rule (short): buy only DynaTAC/early Motorola bricks, Nokia 88xx chrome sliders or sealed early iPhones at ≤ $50; common flip lots are untested electronics → pass.
@@ -9,6 +9,19 @@ Buy rule (short): buy only DynaTAC/early Motorola bricks, Nokia 88xx chrome slid
 
 ## Makers, brands and variants
 Motorola, Nokia, Ericsson, Samsung, LG, Kyocera, Audiovox, BlackBerry, Apple.
+
+### Golden-egg tells
+- Motorola DynaTAC 8000X (1983) — ~100× vs a 2000s flip (£800–3,500 ≈ $1,000–4,500 vs $5–20) — cream brick with a long rubber antenna, red LED display above a 20-key pad; often rebadged (BT, carrier names), so read the back label for "8000X" (https://www.loveantiques.com/blog/2021/06/top-15-most-valuable-vintage-mobile-phones)
+- Nokia 8800 Sapphire / Sirocco Gold (2005–06) — £500–2,000 ≈ $600–2,500 vs $40–200 for a Nokia 8810/8850 — stainless slider with a sapphire-crystal menu key and 24ct gold plating on the gold version; fakes are common, so look for the boxed set with the desk stand (https://www.loveantiques.com/blog/2021/06/top-15-most-valuable-vintage-mobile-phones)
+- IBM Simon Personal Communicator (1994, BellSouth) — £800–2,000 ≈ $1,000–2,500 — green-tinted touchscreen slab the size of a brick, no keypad, BellSouth/IBM branding (same source)
+- Mobira Senator NMT (1981) / Nokia Mobira Cityman (1987) — £800–2,000 / £100–400 — Senator is a briefcase-style box with a handset on top; Cityman is a brick with "Mobira" on the face (same source)
+- Technophone PC105T (1986) and Orbitel Citiphone (1987) — £600–1,500 / £600–1,000 — small grey candybar with "Technophone"; Orbitel brick rarely seen (same source)
+- Ericsson R290 satellite phone (1999) — £300–1,000 vs $10 for a 1990s Ericsson GSM — thick fold-out antenna, "Satellite" branding (same source)
+- Motorola "Rainbow" StarTAC — £100–400 ≈ $130–500 vs $40–200 for a grey StarTAC — multicoloured panel clamshell, the "Benetton" phone (same source; entry comp)
+- Nokia 8110 "Matrix" banana (1996) — £150–300 vs $5–20 for a Nokia 3310 — curved body with a sliding keypad cover (same source)
+- Nokia 9000 Communicator (1996) — £80–300 — heavy clam that opens sideways to a full QWERTY and wide screen (same source)
+- Apple A1203 iPhone 2G (2007) — $100–300 loose, $1,000+ factory sealed, ~10× a sealed iPhone 4s — aluminium back with black plastic base; "A1203" on the back; pre-production prototypes £10,000+ (entry field note; same source)
+- Vertu — genuine basic models from £50, jewelled models thousands, but fakes dominate listings; pass without box and service papers (same source; entry)
 
 ## Materials, finishes and quality tells
 Boxed with manuals and chargers adds value. Batteries swollen in many.

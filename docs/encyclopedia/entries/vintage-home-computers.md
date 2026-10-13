@@ -1,5 +1,5 @@
 # Vintage home computers (Apple, Commodore, Radio Shack/Tandy TRS-80, Atari, TI, Amiga, IBM)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: dfarq.homeip.net (TRS-80 MC-10 value article, Sept 2024), eBay listings Oct 2026, agent knowledge
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: dfarq.homeip.net (TRS-80 MC-10 value article, Sept 2024), eBay listings Oct 2026, agent knowledge · tells 2026-10-13
 Slug: vintage-home-computers · Aliases: retro computer, old computer, Tandy computer, Radio Shack computer, TRS-80, Commodore 64, C64, Apple II, Apple IIe, Amiga, vintage PC, 8-bit computer
 Summary: Common 8-bit machines (MC-10, TI-99/4A, VIC-20, Atari 400, loose C64) $25–120; boxed/working C64, Apple IIe, Amiga 500 $100–400; Model 100, IIc boxed, SX-64, NeXT $300–1,000; Apple II/II+, Altair, IBM 5150, Lisa $1,000+.
 Buy rule (short): Buy Apple II family, Amiga, SX-64 or Model 100 shown working under $100; pass MC-10, TI-99, Atari 400/800XL, VIC-20 and anything untested.
@@ -23,6 +23,16 @@ MC-10 is a tiny white wedge with chiclet keys; TI-99/4A has a silver/black case 
 - **Atari**: 400 low; 800 boxed collectible; XL/XE common.
 - **Texas Instruments**: TI-99/4A common; peripheral expansion box adds.
 - **Others**: NeXT (anything), early IBM 5150 complete, Altair 8800, Osborne/Kaypro portables (general knowledge, verify).
+
+### Golden-egg tells
+- Apple II (1977 original, not "plus"/IIe), especially an early lid without vent slots — $2,500–10,000 vs an Apple IIe at $150–300 — badge reads "Apple ][" with no "plus"; smooth unvented top lid; fine sealed example sold $4,687 (2015) (https://www.cnbc.com/2020/01/23/vintage-apple-computers-worth-nearly-900000-you-might-have-one-in-your-basement.html; entry comp)
+- Apple-1 bare board — $175,000–905,000 (replica/kit ~$1,000) — green PCB silkscreened "Apple Computer 1", no case; any seller calling a board "Apple 1" is either a replica or a museum sale (https://www.cnbc.com/2020/01/23/vintage-apple-computers-worth-nearly-900000-you-might-have-one-in-your-basement.html)
+- Apple Lisa 1 with the two "Twiggy" 5.25" drives — $31,000–50,000 vs $2,000–4,000 for a Lisa 2/XL — two floppy slots stacked on the front face instead of one 3.5" slot (https://www.cnbc.com/2020/01/23/vintage-apple-computers-worth-nearly-900000-you-might-have-one-in-your-basement.html)
+- Macintosh 128K (M0001) — $1,500–2,000 vs $150–400 for a Plus/SE — rear badge says "Macintosh" with no "512K"; original travel bag adds ~$100 and even the empty box sells (https://www.cnbc.com/2020/01/23/vintage-apple-computers-worth-nearly-900000-you-might-have-one-in-your-basement.html)
+- Commodore DX-64 (two drives) — far scarcer than the SX-64's <9,000 units; the SX-64 alone is ~5–10× a breadbin C64 ($300–1,000 vs $60–120) — "Executive computer" front panel, 5" colour screen; DX-64 has a second drive where the SX's storage compartment sits above the drive (https://sx64.net/history/sx64_history.html; entry comp)
+- Amiga 1000 — strong tier, lift when the inside of the case lid shows the moulded team signatures — ask for a photo of the inside of the top cover (entry comp)
+- TRS-80 MC-10 boxed with the 16K RAM module (26-3013) — ~2× a boxed MC-10 ($80–150 vs $50) — grey cartridge-style pack on the rear port, catalog number on the box (https://dfarq.homeip.net; entry comp)
+- NeXT Cube or NeXTstation, any condition — collectible tier $300–1,000+ vs ordinary 1990s PCs near $0 — black magnesium cube or slab with the NeXT colour logo (entry comp)
 
 ## Materials, finishes and quality tells
 ABS plastic cases (yellowing from UV is normal for 1980s beige; retr0brite whitening is common and some collectors

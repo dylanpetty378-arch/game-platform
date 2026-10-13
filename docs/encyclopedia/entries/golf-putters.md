@@ -1,5 +1,5 @@
 # Golf putters (Scotty Cameron, Ping, Bettinardi, Sacks Parente, Odyssey, hickory antiques)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2024–25; GolfWRX classifieds; Sacks Parente retail $400–500 (used $150–300); George Nicoll Leven hickory putters eBay sold $40–120.
+Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: eBay sold knowledge 2024–25; GolfWRX classifieds; Sacks Parente retail $400–500 (used $150–300); George Nicoll Leven hickory putters eBay sold $40–120.
 Slug: golf-putters · Aliases: putter, Scotty Cameron putter, Ping Anser, Bettinardi, Sacks Parente, hickory putter, antique golf club, old putter
 Summary: Odyssey two-ball, Wilson, Ray Cook, Cobra, department-store $20–60; Ping Anser (Phoenix), Odyssey Toulon, Sacks Parente, Spider $100–250; Scotty Newport/Studio, Ping Scottsdale Anser, Bettinardi $250–600; Circle T/Tour, Ping 1A/Redwood, long-nose woods $1,000–10,000.
 Buy rule (short): Scotty Cameron ≤ $100, Ping Scottsdale ≤ $80, Sacks Parente ≤ $60, hickory Nicoll/Stewart ≤ $25; pass sellers who name the model and ask within 30% of market.
@@ -18,6 +18,15 @@ See also `golf-clubs`, which gives Scotty Cameron $200–600 used and Ping Anser
 - **Bobby Grace / Cobra HSM** (1990s): $40–80.
 - **Hickory**: George Nicoll Leven (hand mark), Tom Stewart (pipe mark), 1800s long-nose wood putters (top).
 - **Junk**: Wilson, Ray Cook, Cobra, department-store, Gorilla.
+
+### Golden-egg tells
+- Ping Anser stamped "Redwood City, Cal." (1967–69) — $1,000–3,000+ vs $50–120 for a Scottsdale-no-ZIP Anser, ~20×+ — read the address line on the sole/cavity: "Redwood City" instead of "Scottsdale" (https://appraisily.com/articles/old-ping-putter-values/)
+- Ping Anser with the Scottsdale ZIP code "Scottsdale, AZ 85282" (1969–73) — $150–500 vs $50–120 without the ZIP (1973–86), ~3–4× — the five-digit ZIP in the cavity stamp is the whole difference (https://appraisily.com/articles/old-ping-putter-values/)
+- Ping beryllium-copper (BeCu) Anser/Zing (1980s on) — $200–1,000+ vs $20–65 steel 1980s–90s Pings — the head is copper-pink to brown with uneven patina, not grey; "BeCu" often stamped on the sole (https://appraisily.com/articles/old-ping-putter-values/)
+- Ping 1-A (the 1959 original) — $90–200 vs $20–65 later Pings — slotted, hollow-backed blade with the "PING" sound-box look and early Phoenix/Redwood address (https://appraisily.com/articles/old-ping-putter-values/)
+- Scotty Cameron Circle T (Tour Only) stamp — $1,500–2,500 vs ~$350 for the same retail model, ~4–7× — a circled T engraved on the toe, bumper or sole and on the headcover; counterfeits are poorly engraved, so demand a close-up (https://pluggedingolf.com/?p=18789)
+- Scotty Cameron 009 / Timeless tour models — ~$4,000 vs $350 retail Newport, ~10×+ — "009" or "Timeless" stamped on the head with a Circle T; GSS (German stainless) tour prototypes with adjustable weights or long necks reach $19,500–30,000 (https://linksmagazine.com/scotty-cameron-collector-mania-where-to-find-the-games-most-coveted-putters/)
+- Hickory putters with a Tom Stewart pipe cleek mark or a rare Scottish forge mark — $300+ vs $40–120 for a common George Nicoll "hand" Leven, ~3–5× — the small stamped pipe or hand on the back of the blade is the tell (entry comp)
 
 ## Materials, finishes and quality tells
 Milled carbon or stainless steel (Cameron, Bettinardi) vs cast heads; Ping BeCu (copper) or manganese bronze vs steel; hickory shafts with hand-forged heads and cleek marks. Original grips, headcovers and the Cameron "Circle T" stamp add (general knowledge, verify).

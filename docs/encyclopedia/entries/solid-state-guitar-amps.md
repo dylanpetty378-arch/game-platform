@@ -1,5 +1,5 @@
 # Guitar & bass amplifiers – solid-state practice/modelling vs tube (Line 6, Fender, Peavey, Roland, Vox, Marshall, Ampeg)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Reverb/eBay sold knowledge, sweep listings 2026-10 (Line 6 Spider IV 120 $169, Spider III $40, Line 6 "Guitar Amp" $175, Fender Power Chorus $195, Smarvo Avenger 150 $125, Diago Little Smasher $70, Peavey PVI 10 $100, Peavey XR-600B $50, Line 6 Amplifi TT free, BP mini amp $100).
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Reverb/eBay sold knowledge, sweep listings 2026-10 (Line 6 Spider IV 120 $169, Spider III $40, Line 6 "Guitar Amp" $175, Fender Power Chorus $195, Smarvo Avenger 150 $125, Diago Little Smasher $70, Peavey PVI 10 $100, Peavey XR-600B $50, Line 6 Amplifi TT free, BP mini amp $100). · tells 2026-10-13
 Slug: solid-state-guitar-amps · Aliases: guitar amp, bass amp, practice amp, combo amp, Line 6 Spider, Fender amp, tube amp, Roland JC-120, modelling amp
 Summary: Spider/Frontman/MG/Crate/no-name practice amps $25–120; Katana, Mustang GTX, Bandit, Power Chorus, Cube, Crush 35 $120–250; JC-120, Blues Jr/Hot Rod Deluxe, AC15, Classic 30, Polytone, Lab Series $350–700; vintage Fender/Vox AC30/Marshall/Mesa/B-15/Music Man $800–4,000+.
 Buy rule (short): Vintage tube amps (Fender blackface/silverface, Vox AC, Marshall), JC-120, Music Man, B-15 under $250 and complete; pass on any solid-state practice/modelling amp and anything "needs repair".
@@ -20,6 +20,19 @@ A box with a speaker grille and a control panel.
 - **Music Man**: hybrid, $600–1,200.
 - **Polytone Mini-Brute** ($300–450), **Lab Series L5** ($400–700), **Yamaha G100** ($150–250), **Acoustic 360/370** bass ($800–2,000).
 - **Line 6 Spider** (all generations) and Amplifi, Crate, Smarvo, Diago, no-name: junk tier. Spider IV 120W sells $100–150 at most.
+
+### Golden-egg tells
+- Fender Deluxe Reverb blackface 1964–67 (tube chart AA763/AB763) — ~25× a $25–120 practice amp ($2,500–3,500 player grade) — black control panel with white script lettering, raised "Fender" grille logo, tube chart glued inside the cab reading AA763/AB763; Oxford speaker code (https://fenderguru.com/?p=73)
+- Fender Deluxe Reverb "drip edge" 1968–69 — Reverb price guide $1,910 vs $1,705 for a 1970–77 silverface and ~$3,000 blackface — silver panel with blue-line lettering PLUS a thin aluminium trim strip framing the grille cloth; AB763 circuit under a silverface skin (https://reverb.com/p/fender-deluxe-reverb-drip-edge-1968)
+- Fender Deluxe Reverb silverface 1970–77 — Reverb price guide ~$1,705 (≈15× a practice amp); the 1977–79 version with a push-pull "boost" volume knob sells below it — silver panel, no aluminium trim, tube chart A1172/A1270; pull-knob on volume = late, cheaper (https://reverb.com/p/fender-deluxe-reverb-silverface-1970s)
+- Roland JC-120 Jazz Chorus (1975+) — $500–900, ~4× a Roland Cube — two 12" speakers side by side in a wide black cab, "Jazz Chorus 120" badge top-left, Chorus/Vibrato section on the panel; the 2025 50th-anniversary reissue is new stock, not vintage (entry comp)
+- Acoustic 360 preamp head + 361 folded-horn cab (1968–72) / 370 head — $800–2,000 vs $100–250 for an ordinary bass combo — black panel with a blue stripe, "Acoustic" block logo, fuzz control, head is preamp-only (power amp lives in the cab); cab is oversize, local only (https://bluebookofguitarvalues.com/products/acoustic-360)
+- Ampeg B-15 Portaflex (1960s) — top tier $800–4,000+ vs $50–120 for a Peavey/Crate bass combo — flip-top head that latches upside-down inside the cab, blue-check (or black) tolex, chrome Ampeg "a" badge (entry comp)
+- Vox AC30 / AC15 1960s (JMI era) — AC30 $800–4,000, AC15 $350–700, ~10–30× a Marshall MG — diamond-pattern grille cloth, top-mounted copper or chrome control panel, "Vox" script badge, cabinet handles on top (entry comp)
+- Music Man HD-130 / 65 / RD-series (1974–84) — $600–1,200, ~5× a Fender Frontman — black tolex, white-faced panel with "Music Man" script and a row of silver knobs; hybrid tube power section visible from the back (entry comp)
+- Polytone Mini-Brute (1970s–90s) — $300–450, ~3× a modelling amp — small black cube with a sloped front panel and white "Polytone" lettering, usually scuffed from gig use (entry comp)
+- Lab Series L5 (Gibson/Moog, 1977–80) — $400–700, ~4× a Line 6 Spider — grey-black tolex, sloped top panel with "Lab Series" and a compressor/multifilter section, 2×12 (entry comp)
+- Peavey Bandit "red stripe" (1980s) — $120–200 vs $50–100 for later black-grille Bandits (~2×) — one horizontal red stripe across the black grille, chrome Peavey logo (entry comp)
 
 ## Materials, finishes and quality tells
 - Tube amps have a heavy steel chassis, transformers, visible tubes, and hand-wired or eyelet-board construction in vintage Fender.

@@ -1,5 +1,5 @@
 # Wooden crates and boxes (ammunition: Winchester, Remington UMC, Peters, Western, US military; explosives: Hercules, Atlas, DuPont; liquor: Drambuie, Johnnie Walker, Old Grand-Dad; soda: Coca-Cola, Pepsi, Nehi, Dr Pepper; dairy, fruit, cheese, egg and poultry crates)
-Updated: 2026-10-13 · Sources: general knowledge of advertising-crate collecting and eBay sold patterns; Winchester Repeating Arms Co. history (New Haven CT, 1866–1981; Olin ownership from 1931); W.J. Carpenter named by Lens as a poultry-crate maker (location and dates unknown – verify); no sold comps in comps.jsonl; all prices are estimates (general knowledge, verify).
+Updated: 2026-10-13 · Sources: general knowledge of advertising-crate collecting and eBay sold patterns; Winchester Repeating Arms Co. history (New Haven CT, 1866–1981; Olin ownership from 1931); W.J. Carpenter named by Lens as a poultry-crate maker (location and dates unknown – verify); no sold comps in comps.jsonl; all prices are estimates (general knowledge, verify). · tells 2026-10-13
 Slug: wooden-crates · Aliases: wood crate, wooden box, ammo box, ammo crate, shot shell box, Winchester box, dynamite box, whisky crate, liquor crate, soda crate, Coca-Cola crate, chicken crate, poultry crate, egg crate, fruit crate, cheese box, apple box
 Summary: plain/unbranded crates and chicken crates $15–60 (local); soda and liquor crates $25–70; branded ammo, dynamite and cartridge boxes $50–200; rare early two-piece ammo/powder boxes with paper labels and military WWI/early crates $150–600.
 Buy rule (short): Buy only small branded ammo/powder/explosives boxes with dovetailed or finger-jointed corners, intact stencils and sliding lids at ≤ $30; pass liquor, soda, poultry and plain crates.
@@ -21,6 +21,16 @@ Wooden shipping boxes printed or branded with the shipper's name. Tells:
 - **Fruit crates** with original paper labels $20–80 (labels alone sold separately).
 - **Liquor**: Drambuie, Johnnie Walker, Old Fitzgerald, Dewar's $25–70.
 - **Poultry/egg**: chicken crates $30–100 local (farmhouse décor), egg crates $15–40.
+
+### Golden-egg tells
+- Pre-1912 UMC / Winchester two-piece paper-label cartridge boxes for rifle calibres (.44 WCF, .45-70, .50-110 Express) — ~$250/box as a 32-box lot ($8,337.50 at James D. Julia, est. $3–5k), ~4× a wooden Winchester shotshell box's $60 median — small cardboard/wooden two-piece boxes with coloured paper labels (orange, blue, green, purple) naming the rifle and calibre, round or square corners (https://jamesdjulia.com/item/1094-358/)
+- Winchester and U.S. Cartridge Co. 50-round pistol boxes with Colt-calibre labels (.32 Colt New Police, Colt .44, .38 Long Colt) — est. $1,400–2,250 for three unopened, ~8–12× a lidless wooden shotshell box — green top label with a bullet image, maroon or orange side labels, unopened and still full (https://www.rockislandauction.com/detail/73/272/three-boxes-of-antique-ammunition)
+- Winchester "Repeating Arms Co. New Haven Conn." wooden 500-shell box with its sliding lid and sharp end stencil — $70–130 vs $50–80 median for lidless/worn (~1.5×) — lid riding in grooves, gauge and count stencil ("500 Loaded Shot Shells 12 Ga") on the end board, finger-jointed corners (entry comp)
+- Winchester stencil without "Western" or "Olin" (pre-1931 New Haven wording) — ~1.5–2× a 1960s "Winchester-Western/Olin" box — the stencil names only "Winchester Repeating Arms Co. New Haven Conn. U.S.A." (entry comp)
+- Dynamite/powder boxes (DuPont, Hercules, Atlas, Austin) with a legible "High Explosives – Dangerous" stencil, finger joints and lid — $40–150 vs $10–30 for a plain crate (~4×) — red or black explosive warning stencil on the side, 50 lb weight stencil, dovetail/finger-jointed corners, sliding or nailed lid present (entry comp)
+- US military .30/.50-cal wooden ammo crates with a pre-1945 date stencil — $40–150 vs $10–30 plain (~3×) — rope handles, hinged lid with wire hasps, lot number and calibre stencil plus a war-year date (entry comp)
+- Fruit crates with the original lithographed paper end label intact and bright — $20–80, the label is the whole value (~3× an unlabelled box) — full-colour printed label glued to the end board, not faded or torn (entry comp)
+- Repro tell — Hobby Lobby/Target "Winchester", "Coca-Cola" and "Dynamite" crates sell $10–30 — laser-crisp stencil sitting on top of the grain, brad nails, clean unworn interior (entry comp)
 
 ## Materials, finishes and quality tells
 Original stencil should be faded but sharp-edged and sunk slightly into the grain; repainted/new stencils sit on top, too crisp. Weathering should be consistent (end grain darker). Old wood shows oxidation inside nail holes. Original sliding lids and hinged hardware add 30–50%.

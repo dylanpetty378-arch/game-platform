@@ -1,5 +1,5 @@
 # Stamp collections and albums (Scott, Harris, Minkus, White Ace, generic albums, stock books, kiloware)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type); Scott catalogue conventions
+Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type); Scott catalogue conventions · tells 2026-10-13
 Slug: stamp-collections · Aliases: stamp album, stamp collection, old stamps, postage stamps lot, kiloware, mint sheets, first day covers
 Summary: kid/beginner albums and off-paper bags $10–50; mixed worldwide albums $30–150; US mint sheet hoards (sell near face) $0.5–0.8 per $1 face; specialized/classic collections $200–2,000+ (general knowledge, verify)
 Buy rule (short): pass unless photos show pre-1930 US/British Commonwealth on album pages, a Scott Specialty/White Ace/Minkus album that is well filled, or mint US sheets bought below ~50% of face.
@@ -9,6 +9,16 @@ Most estate "antique stamp collections" are kids' collections from 1940s–70s: 
 
 ## Makers, brands and variants
 Scott (Specialty, International, National), Minkus, Harris, White Ace, Lighthouse, Davo, Schaubek; stock books (Lighthouse, Hagner sheets). Golden Book of Indian Stamps etc. are 1950s–70s children's activity books ($5–15).
+
+### Golden-egg tells
+- 1893 Columbian Exposition $1–$5 values — a full 16-stamp set $100,000+ (2006), the $3 had only 27,650 printed, vs $40–150 for a whole mixed album — large horizontal engraved stamps with "$1"–"$5" in the corners (Isabella Pledging Her Jewels, Columbus Describing Third Voyage, Isabella and Columbus) on a US album page (https://en.wikipedia.org/wiki/Columbian_Issue)
+- Columbian 1¢–15¢ values — common, cents to a few dollars each; only the 50¢ and dollar values turn the album — same design family, cent denominations (https://en.wikipedia.org/wiki/Columbian_Issue)
+- 1930 Graf Zeppelin airmails C13–C15 (65¢ green, $1.30 brown, $2.60 blue) — hundreds to $1,000+ for the set, ~10× a filled album — three large airmail stamps of the zeppelin over the Atlantic/globe on the US airmail page; 1933 50¢ green Century of Progress zeppelin C18 is the cheaper cousin (entry comp)
+- 1918 24¢ Inverted Jenny — $1M+ genuine, but every one in an estate album is a reprint/forgery unless expertised — carmine frame with the blue biplane upside down; treat as a pass, not a find (entry comp)
+- Pre-1870 US issues (1851–57 Franklins/Washingtons, 1861 Civil War issue, 1869 pictorials, large banknotes 1870–88) on album pages — $200–2,000+ tier vs $40–150 album — imperforate or coarse-perf engraved stamps, pen or grid cancels, on the first pages of a US album (entry comp)
+- Early British Commonwealth (Victoria/Edward VII heads, Cape triangles, colonial issues pre-1920) on well-filled pages — $200–2,000+ tier — monarch-head stamps across many colonies with mounts, not hinges, in a Scott Specialty/White Ace/Lighthouse binder (entry comp)
+- Mint US sheets and plate blocks 1930s–60s — 50–80% of face as postage, not collector value — full sheets with selvage and plate numbers, glassine interleaving (entry comp)
+- Junk tell — Golden Book of Indian/Animal Stamps, Harris "Statesman", generic brown "Postage Stamp Album", glassine kiloware — $5–40 — picture stamps, hinge-mounted common commemoratives, no mounts (entry comp)
 
 ## Materials, finishes and quality tells
 Mint never hinged > mint hinged > used. Centering, perforations, gum condition. Modern US (post-1940) mint is worth at most face value as postage.

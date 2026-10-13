@@ -1,5 +1,5 @@
 # Singer sewing machines (221/222 Featherweight, 15-91, 201, 301, 500 Rocketeer, 66, 99)
-Updated: 2026-10-08 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only; full research still to do); remaining sections from general knowledge
+Updated: 2026-10-08 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only; full research still to do); remaining sections from general knowledge · tells 2026-10-13
 Slug: singer-sewing-machines · Aliases: Singer Featherweight, Singer 221, Singer 222K, Singer 15-91, Singer 201, Singer 301, Singer Rocketeer, vintage sewing machine, treadle sewing machine, Singer head
 Summary: 221 Featherweight $250–400 (median ~$335); 15-91 head $75–150; 500 Rocketeer $100–200; common 66/99/201 $40–100.
 Buy rule (short): Featherweight only under ~$120; 15-91 under $40; everything else pass unless free.
@@ -31,6 +31,18 @@ All information below this line is general knowledge, verify.
 - **66 / 99**: $40–100. Decals (Redeye, Sphinx, Lotus) and condition drive value.
 - **Treadle and cabinet machines** (27, 66, 127, 128 etc.): low value as furniture-sized items. Excluded by the size rule.
 - **Toy Singer Sewhandy (20)**: a separate small collectible (verify).
+
+### Golden-egg tells
+- 222K free-arm Featherweight (Kilbowie, 1953–61) — ~2.5–4× vs a black 221 ($800–1,500 vs ~$335 median) — the bed slides off leaving a cylinder free arm, feed-dog drop lever, plain black (not chrome) balance wheel (entry comp; https://www.singersewinginfo.co.uk/singer_machines/featherweight/models/221k)
+- White / pale-green 221K-7 (mid–late 1960s) — upper end of the $300–800 band, "more for white or tan" — painted body with no gold decals, printed (glued) badge, two-tone light-blue/turquoise carry case (https://www.aol.com/articles/6-retro-sewing-machines-worth-140056907.html; singersewinginfo)
+- Tan/beige 221J (Canada) — same premium tier as white — creamy beige to light-brown paint, "J" serial prefix on the bed (https://www.singersewinginfo.co.uk/singer_machines/featherweight/models/221k)
+- Texas Centennial badge 221 (1936, Dallas exposition) — "very rare", collector multiple over a standard 221 — red badge in place of the brass Singer medallion on the front (same source)
+- WWII black crinkle-finish 221 with grooved bed edge and faceplate — short run, premium — matte wrinkle paint instead of gloss japanning, machined grooves along the bed (same source)
+- "Blackside" 221 (immediately post-WWII) — short run, premium — chemically blackened faceplate, bobbin cover and plates instead of chrome (same source)
+- Centennial badge 221/221K (1951 only, ~40,000 Kilbowie) — modest premium (~1.2–1.5× when the badge is shown) — blue band reading "A Century of Sewing Service 1851–1951" around the medallion (same source; multiple is entry estimate)
+- Singer 301A long-bed in mocha/black — $400–700 vs $40–100 for a 201 — slant needle, aluminium body, two-tone tan, "301A" on the bed plate (https://www.aol.com/articles/6-retro-sewing-machines-worth-140056907.html)
+- Singer 29K71 red walking-foot patcher (1940s) — $4,000–5,500 vs $40–80 for a 66/99 head — red paint, long cylinder arm on a 360° articulating head, treadle stand (https://greenlitcontent.com/coin/most-valuable-antique-sewing-machines-worth-4000-a-collectors-guide)
+- Singer 107w102 Irish embroidery machine (industrial, 1940s) — $3,000–4,200 — industrial head with multi-row pattern mechanism, original tension system and feet (same source)
 
 ## Materials, finishes and quality tells
 - Cast-iron bodies (aluminium on the Featherweight and 301), black japanned finish with gold decals, chrome or scroll faceplates.

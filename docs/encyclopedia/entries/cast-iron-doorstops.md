@@ -1,5 +1,5 @@
 # Cast iron doorstops & figures (Hubley, Bradley & Hubbard, Albany Foundry, National Foundry, Judd, Spencer)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist 1836 photos; eBay sold pattern (knowledge 2024–25); Bertoia Auctions doorstop sales (reference); chairish.com Hubley listings (dog figurals $225–975 asking); 1stDibs Hubley flower-basket listings; frenchgardenhouse.com; eBay sold knowledge
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist 1836 photos; eBay sold pattern (knowledge 2024–25); Bertoia Auctions doorstop sales (reference); chairish.com Hubley listings (dog figurals $225–975 asking); 1stDibs Hubley flower-basket listings; frenchgardenhouse.com; eBay sold knowledge · tells 2026-10-13
 Slug: cast-iron-doorstops · Aliases: antique doorstop, cast iron dog, Hubley dog, Boston terrier doorstop, cast iron flower basket, door stop, cast iron figure, Victorian doorstop
 Summary: Repros/repaints $10–60; small original-paint baskets $40–100; Hubley flower baskets 8–10" and full-figure dogs with good original paint $90–350 (up to $500 for top paint); B&H and rare figurals $400–3,000.
 Buy rule (short): Buy original-paint figural dog/cat/ship/cottage ≤ $40–50, flower basket 8"+ with good paint ≤ $30, B&H-marked ≤ $100; pass repaints, Phillips screws and repro tells.
@@ -12,6 +12,15 @@ Buy rule (short): Buy original-paint figural dog/cat/ship/cottage ≤ $40–50, 
 - **Bradley & Hubbard (Meriden, CT)** – "B&H": best quality; cats, parrots and other figurals command the top.
 - **Albany Foundry, Judd, Spencer, National Foundry**: good period makers, mid value.
 - Rare subjects: Halloween cat/girl, Mammy with broom, Topsy, Parrot, Giraffe, large ships, golfer.
+
+### Golden-egg tells
+- Bradley & Hubbard "B&H" marked figurals (cats, parrots, baskets) — Terapeak median $140, p75 $206, top $438.75 vs Hubley median $88 and $10–60 repros (~1.6× Hubley, ~5× repro) — "B&H" cast on the back or base, finer, thinner casting with sharp detail (entry comp)
+- Hubley full-figure Boston terrier 10" with 60–90% original paint — $120–160 vs $35–60 silver-repainted (~3×) — two-piece halves joined by a slotted screw, chalky worn paint showing iron at the ears and muzzle, "HUBLEY" with a number under the base (entry comp)
+- Hubley Scottie 11.75" and fox terrier, original paint — Chairish asks $975 and $325 (dealer asks run 2–3× eBay sold) — full-figure dog, brush-painted eyes and collar detail intact (entry comp)
+- Hubley flower baskets 8–10" (Petunias & Asters #456, Nasturtium #221, Lilies, Poppies, French basket) with good original paint — $100–250 vs $40–100 for 5–7" baskets (~2.5×) — pattern number cast inside the flat back, individually painted blooms (entry comp)
+- Rare subjects — Halloween cat/girl, Mammy with broom, Topsy, Parrot, Giraffe, large ships, golfer — $400–3,000 vs $90 median (~5–30×) — unusual subject in period paint with a maker mark; Bertoia-grade paint sends them to auction (entry comp)
+- Albany Foundry, Judd, Spencer, National Foundry marked pieces — mid value $100–350 — foundry name cast on the base (entry comp)
+- Junk tell — Phillips screw, grainy casting, light weight, glossy fresh paint, silver/gold spray — $10–60 regardless of subject (entry comp)
 
 ## Materials, finishes and quality tells
 Everything is in the paint: original paint (60–90%+) with natural wear at high points and chalky surface is what sells; repaint (especially silver/gold spray) drops to junk. Period construction: two-piece halves joined by slotted screws or rivets, tight seams, crisp casting; flat-back single castings also period. Weight – repros are lighter. Old paint has fine crazing and dirt in recesses; new paint is glossy and even (general knowledge, verify).

@@ -1,5 +1,5 @@
 # English ironstone (Mason's Patent Ironstone, Ashworth, Hicks & Meigh, Spode Stone China, Wedgwood/Meakin/Mellor white ironstone, Johnson Bros, Alfred Meakin, J&G Meakin)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://en.wikipedia.org/wiki/Ironstone_china , https://www.whiteironstonechina.com (White Ironstone China Association), Godden "Godden's Guide to Mason's China and the Ironstone Wares", eBay sold search "Mason's patent ironstone", "white ironstone tureen")
+Updated: 2026-10-13 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://en.wikipedia.org/wiki/Ironstone_china , https://www.whiteironstonechina.com (White Ironstone China Association), Godden "Godden's Guide to Mason's China and the Ironstone Wares", eBay sold search "Mason's patent ironstone", "white ironstone tureen") · tells 2026-10-13
 Slug: english-ironstone · Aliases: ironstone china, Mason's, Masons Patent Ironstone, stone china, white ironstone, Imari ironstone, Japan pattern, chinoiserie plate, Regency, Mandalay, Johnson Bros Indies, Hall's ironstone, granite ware (ceramic)
 Summary: 20th-c. Mason's/Johnson Bros/Meakin tableware $8–40 per piece; 19th-c. Mason's/Ashworth Imari plates and jugs $30–120; early (1813–1840) Mason's large jugs, tureens and 19th-c. white ironstone tureens/pitchers $100–600.
 Buy rule (short): Buy only pre-1850 Mason's/Ashworth large pieces (jugs, tureens, platters) or 19th-c. white ironstone tureens and pitchers at ≤ $50; pass on 20th-c. plates and coffee sets.
@@ -16,6 +16,16 @@ Buy rule (short): Buy only pre-1850 Mason's/Ashworth large pieces (jugs, tureens
 - **Hicks & Meigh, Spode "Stone China", Davenport:** early, collectable.
 - **White ironstone potters:** J. Wedgwood, T&R Boote, Elsmore & Forster, Edward Walley, J&G Meakin, Mellor Taylor.
 - **Johnson Bros (Indies, Old Britain Castles), Alfred Meakin, Grindley:** 20th-c. tableware.
+
+### Golden-egg tells
+- G.M. & C.J. Mason impressed "MASON'S PATENT IRONSTONE CHINA" in a straight line or early printed crown WITHOUT "England" (1813–1848) — $90–300 for jugs, $300–2,000+ for services, vs $8–40 for Ashworth/20th-c. (~10×) — impressed mark on a grey-white body, slightly blurred printed outline under thick hand enamel (entry comp)
+- Mason's Hydra (snake-handle) octagonal jugs, large 7"+ — $90–300 vs $30–90 for small jugs — octagonal body, serpent handle, Imari palette; graduated sets are the top (entry comp)
+- 19th-c. Mason's chinoiserie/Imari plates with a pre-"England" mark — Terapeak median $120 vs $38 median for a Mason's platter (~3×) — flowering-rock and dragon scenes, iron-red/cobalt/gilt, mark lacking "England" (entry comp)
+- Ashworth Bros / Mason's with "ENGLAND" (post-1891) or "Made in England" / "Detergent proof" — $8–40, the common version — printed crowned mark reading ENGLAND; pattern names Mandalay, Regency, Vista (entry comp)
+- White ironstone tureens, pitchers and chamber sets 1840s–80s (T&R Boote, Elsmore & Forster, J. Wedgwood, Edward Walley, J&G Meakin) — $90–300 vs $8–40 for a plain 20th-c. white plate (~5×) — heavily moulded Wheat, Ceres, Gothic-panel or Grape bodies with a British registry diamond mark or "Rd. No." and the potter's name impressed (https://www.whiteironstonechina.com/)
+- Hicks & Meigh, Spode "Stone China", Davenport, Ridgway stone china (1805–1830s) — early-Mason's tier at auction — "STONE CHINA" printed marks, Imari and Japan patterns with heavy gilding, pre-Victorian shapes (entry comp)
+- Early Mason's garniture vases and large covered jars — $300–2,000+ at auction — dragon-knop covers, mazarine blue ground with gilt (entry comp)
+- Staple-repaired early Mason's — still collectable, unlike a cracked 20th-c. plate — metal staples across a crack on an impressed-mark piece (entry comp)
 
 ## Materials, finishes and quality tells
 - Weight: ironstone is heavy. Early Mason's has a greyish body and slightly blurred printed outline with thick hand enamel; later Ashworth/20th-c. has crisp, bright, uniform colour.

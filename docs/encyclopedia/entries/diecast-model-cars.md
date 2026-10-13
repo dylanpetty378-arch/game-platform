@@ -1,5 +1,5 @@
 # Diecast model cars 1:18 / 1:24 / 1:43 (Franklin Mint, Danbury Mint, Carousel 1, Exoto, AUTOart, Kyosho, Ertl)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: sweep listing Tucson 2026-10 (Carousel 1 #4501 1955 Indy Kurtis Kraft, seller cites "$100–200 on eBay"), Franklin Mint 1967 VW Beetle w/ case CL $85, 2002 Neiman Marcus Thunderbird $69, Ertl John Deere 541 $20; eBay sold knowledge; Google Lens (asking-price) checks 2026-10-13.
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: sweep listing Tucson 2026-10 (Carousel 1 #4501 1955 Indy Kurtis Kraft, seller cites "$100–200 on eBay"), Franklin Mint 1967 VW Beetle w/ case CL $85, 2002 Neiman Marcus Thunderbird $69, Ertl John Deere 541 $20; eBay sold knowledge; Google Lens (asking-price) checks 2026-10-13. · tells 2026-10-13
 Slug: diecast-model-cars · Aliases: diecast collection, model car, 1:18 scale, 1/24 Franklin Mint, Danbury Mint car, precision model, Hot Wheels lot, Matchbox lot, Yatming
 Summary: Maisto/Bburago/Welly/promos $10–40; boxed Franklin/Danbury, AUTOart/Kyosho $50–150; Carousel 1, Exoto, CMC, Danbury 1:12/trucks $120–400; Exoto Motorbox, rare CMC, pewter/sterling Danbury $400–1,500+.
 Buy rule (short): Carousel 1 / Exoto / CMC under $50; Danbury 1:12 or trucks under $40 boxed; lots ≤ $5/car with premium bases. Pass Franklin/Danbury 1:24 over $30 and all budget brands.
@@ -25,6 +25,17 @@ Model on a plinth or in a styrofoam-lined box; brand on the base. Tells:
 - **Ertl**: 1:18 muscle cars (common) and 1/16 farm toys (John Deere precision series collectible).
 - **Maisto / Bburago / Jada / Welly**: budget toy-grade; junk tier.
 - **Pocher** 1:8 kits built: top tier when built well (general knowledge, verify on build quality).
+
+### Golden-egg tells
+- Exoto Motorbox Signature Series 1:18 (GT40 Mk IV, Ferrari 250 GTO, Chaparral) — ~4–8× vs a boxed Franklin/Danbury 1:24 ($400–800 vs $50–100) — black "Motorbox" presentation case, "Exoto" cast in the chassis plate, wire wheels and photo-etched grilles visible in the listing photo (entry comp: Terapeak Exoto Motorbox median $135, p75 $170 for the plain line)
+- CMC 1:18 (Mercedes W196, Ferrari 250 GTO, Auto Union Type C, Bugatti 57SC) — ~5–10× vs AUTOart/Kyosho 1:18 ($540 median vs $80–150) — "CMC Classic Model Cars" script on the chassis plate, leather hood straps, individually spoked wire wheels, numbered certificate in a hinged box (entry comp: Terapeak CMC median $540, p75 $695)
+- Carousel 1 Indy 500 winners and Novi/Watson roadsters (#4501 Sweikert 1955 etc.) — ~3–5× vs Ertl/Maisto 1:18 ($120–300 vs $10–40) — exposed-wheel roadster in a styrofoam clamshell, "Carousel 1" on the base with a four-digit item number, Novi livery up to $300 (entry comp)
+- Danbury Mint 1:24 retired Corvettes (1964 Coupe in saddle tan LE, 1967 427) — ~2–3× vs an ordinary Danbury 1:24 — "Limited Edition" title sheet and numbered certificate in the box, retired-colour interiors; look for the title card in the lid photo (https://www.ebay.de/itm/197765151010 asking)
+- Danbury Mint 1:12 scale and pewter/sterling editions — ~3–5× vs Danbury 1:24 ($150–400 vs $30–80) — box roughly 16" long, or an unpainted grey pewter body with a hallmark on the base (entry comp)
+- Greenlight 1:24 "Christine" 1977 Plymouth Fury (item 84142) — ~3× its $25 retail (used $79) — red/white Fury with the movie logo on the window box; the item number is on the box end (https://priceguide.modelcar.com/scales/1-24-modelcars?page=4)
+- Solido 1:24 Mercedes Actros 2 tractor truck (2400201) — ~4× retail (used $220 vs $50 new) — long white truck cab box; Solido logo on the base (https://priceguide.modelcar.com/scales/1-24-modelcars?page=4)
+- Ertl "Precision Series" / Precision Classics John Deere 1/16 (numbered #1 Model A onward) — ~3× vs plain Ertl farm toys ($40–150 vs $10–40) — "Precision Series" medallion on the box, metal steering, rubber tyres, wood-look display base (entry comp)
+- Pocher 1:8 built kits (Mercedes 540K, Alfa 8C, Bugatti 50T) — ~10×+ vs any 1:24 ($400–1,500+) — 20"+ long, working leaf springs and opening everything; look for the Pocher plaque on the base (entry comp)
 
 ## Materials, finishes and quality tells
 Zinc-alloy (Zamac) body with plastic interior and details. Quality tells: separate photo-etched parts, carpeted interiors, working steering and suspension, many opening panels, sharp panel gaps, real-rubber tyres with tread. Budget tells: thick panel gaps, toy-like chrome, molded-in details, oversized pins. Brand and scale are cast or printed on the chassis plate (general knowledge, verify).

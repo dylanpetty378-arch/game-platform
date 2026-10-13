@@ -1,5 +1,5 @@
 # Boomboxes (JVC, Sharp, Panasonic, Sony, Conion/Clairtone, Lasonic, Crown, Hitachi, Aiwa, Sanyo, Marantz, GE, Realistic)
-Updated: 2026-10-13 · Sources: No Terapeak data in comps.jsonl for this type; boombox collector market knowledge (general knowledge, verify; e.g. collector sites such as pocketcalculatorshow.com/boombox and the "Boombox Museum" community). No web search this run.
+Updated: 2026-10-13 · Sources: No Terapeak data in comps.jsonl for this type; boombox collector market knowledge (general knowledge, verify; e.g. collector sites such as pocketcalculatorshow.com/boombox and the "Boombox Museum" community). No web search this run. · tells 2026-10-13
 Slug: boomboxes · Aliases: ghetto blaster, jambox, portable stereo, radio cassette recorder, CD boombox, portable component system, Kawasaki-style boombox
 Summary: 1990s CD boomboxes and small 80s units $15–60; mid-size 80s stereo cassette boomboxes $60–200; "big" 80s collector models (JVC RC-M90, Sharp GF-777, Conion C-100F, Lasonic TRC-931, Panasonic RX-7700, Sanyo M-X920) $300–2,000+ working.
 Buy rule (short): Only 1980s full-size collector models with seller video playing tape and radio, at ≤ $150; pass on 1990s CD units and anything untested.
@@ -12,6 +12,19 @@ Portable radio/cassette (and later CD) players. The collectable era is about 197
 - **Sharp**: GF-777, GF-9000, GF-575, Searcher series.
 - **Conion/Clairtone C-100F, Lasonic TRC-931/920, Crown SZ-5100, Panasonic RX-7700 / RX-5500, Hitachi TRK-W5, Sanyo M-X920, Aiwa CS-880, Marantz PMS-7000, Sony CFS-W series**.
 - **Budget brands (GPX, Emerson, Soundesign, Lloyds, Yorx)**: low.
+
+### Golden-egg tells
+- JVC RC-M90, 1981 — $1,000–3,000 (entry Grail tier) vs $60–200 80s mid (~10×) — 66.8 cm wide, 10 kg, silver face with two large VU meters, 8 tuning bands, "Super ANRS" badge, single deck (https://www.pocketcalculatorshow.com/boombox/)
+- Conion C-100F, 1984 (also badged Clairtone 7980 / Helix HX-4635) — $1,000–2,500 vs $60–200 (~10×) — black 12 kg body, dual cassette, two large woofers behind horizontal bars, burglar-alarm switch; the Clairtone/Helix badges are the same box at lower asks (https://www.pocketcalculatorshow.com/boombox/)
+- Sharp GF-777, c. 1982 — $1,000–2,000 vs $60–200 (~8×) — four speakers (two big woofers) across a wide silver front, twin decks, "GF-777" on the face (entry comp; https://en.wikipedia.org/wiki/Boombox)
+- Sanyo MR-X20 "Big Ben" — Hall-of-Fame model, ~5× the mid tier (verify) — one huge central woofer visible through the grille, removable grille, 75 cm wide, 9 kg (https://www.pocketcalculatorshow.com/boombox/)
+- Panasonic/National RX-7000, 1981 ($749 MSRP) and RX-7700 — $300–900 vs $60–200 (~3–5×) — smooth silver face, wood-grain end panels, weighted tuning dial, logic-controlled deck (https://www.pocketcalculatorshow.com/boombox/)
+- Sharp VZ-2500 / VZ-V20 — built-in vertical turntable with "AutoDisc" dual tonearms, often red — rare, Hall-of-Fame; ~$500–1,500 (verify) — vinyl visible in a vertical window on the front (https://www.pocketcalculatorshow.com/boombox/)
+- Sharp MR-990 "Melody Searcher", 1985 (¥128,000 MSRP) — detachable keyboard "Melody Computer" plus detachable speakers; without the keyboard it is a mid-tier unit (https://www.pocketcalculatorshow.com/boombox/)
+- JVC RC-550, late 1970s — rare; 10" woofer, small directional mic on top, five bands, fine-tuning knob, mono-only record (https://www.pocketcalculatorshow.com/boombox/)
+- Breakdancer BD-8000 "DiscoLite", 1986 — black case, gold controls, LEDs behind the speakers that pulse with music, 10-segment VU (https://www.pocketcalculatorshow.com/boombox/)
+- No premium: JVC PC-X100/102/200 and any top-load CD unit — $20–80 (Lens $80 for PC-X102) (entry comp)
+
 
 ## Materials, finishes and quality tells
 Metal grills, heavy weight, multiple drivers, mechanical piano-key cassette controls, Made in Japan = better. Plastic, soft-touch logic buttons, "Made in Malaysia/China" = 1990s.
