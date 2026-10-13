@@ -65,6 +65,21 @@ def harvest_and_select(hours, per_cycle):
     scored = [(scoring.score(r), r) for r in fresh]
     scored = [x for x in scored if x[0] > -99]
     scored.sort(key=lambda x: (-x[0], -x[1]['posted']))
+    # Image pre-ranking: CLIP scores the first photo of the best CLIP_N title candidates ("looks collectible" vs junk).
+    # combined = title score + CLIP_W * clip score. Falls back to title-only if torch/open_clip are unavailable.
+    clip_n = int(os.environ.get('CLIP_N', '12000')); clip_w = float(os.environ.get('CLIP_W', '0.6'))
+    if clip_n > 0:
+        try:
+            import clip_rank
+            t0 = time.time(); cr = clip_rank.ClipRanker(); head = scored[:clip_n]
+            res = cr.score_listings([r for _, r in head])
+            for (s0, r), (cs, _) in zip(head, res): r['clip'] = cs
+            head = [((s0 + clip_w * r['clip']) if r.get('clip') is not None else s0 - 3, r) for s0, r in head]
+            head.sort(key=lambda x: (-x[0], -x[1]['posted']))
+            scored = head + scored[clip_n:]
+            print(f'CLIP ranked {len(res)} candidates in {time.time()-t0:.0f}s')
+        except Exception as e:
+            print('CLIP unavailable, title-only ranking:', repr(e)[:200])
     seen_img = set(); pick = []
     for s, r in scored:
         if r['imgs'][0] in seen_img: continue           # cross-posted duplicates share the first photo
@@ -73,9 +88,9 @@ def harvest_and_select(hours, per_cycle):
     db.append('harvests', {'harvest_id': hid, 'source': 'craigslist', 'hours': hours, 'cats': harvest_cl.CATS, 'n_listings': len(rows),
                            'n_new': len(fresh), 'n_selected': len(pick), 'learned': scoring.LEARNED, 'failed_requests': fails, 'requests': jobs, 'by_cat': by, 'by': 'github-actions'})
     db.append('listings', [{'pid': str(r['pid']), 'source': 'craigslist', 'harvest_id': hid, 'posted': r['posted'], 'price': r['price'],
-                            'title': r['title'], 'area': r['area'], 'region': r['region'], 'cat': r['cat'], 'imgs': r['imgs'], 'score': s,
+                            'title': r['title'], 'area': r['area'], 'region': r['region'], 'cat': r['cat'], 'imgs': r['imgs'], 'score': round(s, 2), 'clip': r.get('clip'),
                             'url': f"https://www.craigslist.org/view/d/{r['slug']}/{r['uuid']}"} for s, r in pick])
-    db.append('events', [{'pid': str(r['pid']), 'stage': 'queued', 'run': hid, 'data': {'score': s}} for s, r in pick])
+    db.append('events', [{'pid': str(r['pid']), 'stage': 'queued', 'run': hid, 'data': {'score': round(s, 2), 'clip': r.get('clip')}} for s, r in pick])
     print(f'harvest {hid}: {len(rows)} listings, {len(fresh)} new, {len(pick)} queued, {fails}/{jobs} failed requests')
     return hid
 

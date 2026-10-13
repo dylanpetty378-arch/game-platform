@@ -46,6 +46,11 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   art/cameras/instruments up; furniture/RVs/boats/wanted down) plus a LEARNED per-category adjustment computed from
   Lens outcomes every cycle (strong-signal share vs average, shrunk until ~150 results). Next: learn from Stage-2 keep/
   kill and finds instead of Lens medians (which are inflated by category matches), then a title/image model.
+- **CLIP image pre-ranking** (`scripts/clip_rank.py`, open_clip ViT-B-32, free on the Actions CPU): the best 12,000 title
+  candidates per cycle get a photo score ("looks collectible" prompts vs junk prompts); combined = title + 0.6 × clip.
+  Test on 400 random listings: top = Roseville bowl, original paintings, Inuit print, enamel art; bottom = CPAP part,
+  file cabinets, bikes, barbells. 13.5 img/s on 2 threads. Embeddings are not stored yet (size); a learned ranker on
+  embeddings + our outcomes is the next step (recompute from photo URLs while listings are live).
 - eBay is not signed in on the new Mac → Terapeak unavailable; comps fell back to web search. Dylan to sign in.
 - Run-14 Stage 2 (in-page loop's 93): 38 flagged → 37 killed by photo, 1 find: SF all-silver squash blossom necklace
   $75 (73.5 g, cast naja, est. profit $110–260).

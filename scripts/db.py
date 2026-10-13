@@ -50,7 +50,7 @@ TABLES = {
 SCHEMA = {
     'harvests': ['ts','harvest_id','source','hours','cats','n_listings','by_cat','file','note'],
     'searches': ['ts','site','query','purpose','results','run','note'],
-    'listings': ['ts','pid','source','harvest_id','posted','price','title','area','region','cat','imgs','url'],
+    'listings': ['ts','pid','source','harvest_id','posted','price','title','area','region','cat','imgs','url','score','clip'],
     'lens': ['ts','pid','run','i','img','price','best','med','n','ratio','collect','sources','ai','ai_value','flag'],
     'events': ['ts','pid','stage','status','type','note','run','by','data'],
     'comps': ['ts','type','query','source','prices','median','n','pid','note','run'],
