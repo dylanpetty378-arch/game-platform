@@ -75,3 +75,4 @@ Price ≤ $200; profit = sold median × 0.87 − ~$15 ship out − ~$15 ship in 
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage pumpkin blow mold" – $25 – pass – not a blow mold: a molded resin/foam jack-o'-lantern with painted yellow cutouts (Lens says 1998 Paper Magic Group); modern. Est. resale $15–25.
 - 2026-10-13 – craigslist – "Misc Halloween stuff" – $10 – pass – modern party goods (treat bags, mesh ribbon, wooden pumpkin sign, plastic bucket, spider, candy bowl); no vintage. Resale ~$10–20 total.
+- 2026-10-13 – review note – Impact Plastic (Union Products-era) flat yard-stake signs ~26x16in are pickup-only bulky items; fail passenger-seat/shipping math regardless of rarity claims.

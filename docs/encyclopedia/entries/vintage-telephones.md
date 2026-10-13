@@ -67,3 +67,4 @@ Price ≤ $200; profit = sold median × 0.87 − ~$15 ship out − ~$15 ship in 
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Rotary Telephone" – $29 – pass – brown Automatic Electric/GTE Type 80-style rotary desk phone (1960s–70s, square silver dial plate, original number card); common color. Est. resale $25–45.
 - 2026-10-13 – craigslist – "VINTAGE OLD SCHOOL COKE PHONE" – $60 – pass – 1990s Coca-Cola licensed red disc push-button phone with lighted bottle; novelty, est. resale $25–45.
+- 2026-10-13 – review note – brass candlestick phones with a dial in an ornate cast base and an orange/wood receiver are 1970s-90s decorator reproductions, not Western Electric. Coiled handset cords and modern dial cards mark reproduction "retro" 302-lookalikes (example 7974595035).

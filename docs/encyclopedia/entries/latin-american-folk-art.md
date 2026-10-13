@@ -81,3 +81,4 @@ Profit = sold median × 0.87 − ~$20 to buyer − ~$20 to Dylan − price; pass
 - 2026-10-13 – craigslist – "Vintage Hand Painted 17.5" Mexican Batea Dish" – $30 – pass – Michoacán-style painted wooden batea with roses on black ground; a visible split runs through the centre; resale ~$25–50.
 - 2026-10-13 – craigslist – "Vintage Tonalea Mexican folk art pitcher" – $25 – pass – Tonalá burnished-ware jug (grey/rust/cream, flower and bird), mid-century, unsigned, no petatillo; resale ~$40–70 → profit negative after shipping.
 - 2026-10-13 – review note – Blue-on-white crane/bird pottery made for Las Mananitas restaurant (Cuernavaca) turns up as "Mexican pottery"; unsigned pieces are about $25-40 each.
+- 2026-10-13 – review note – bright turquoise acrylic Mexican ponchos get Lens-matched to Chimayo blankets; true Chimayo is wool with a center diamond and no neck slit.

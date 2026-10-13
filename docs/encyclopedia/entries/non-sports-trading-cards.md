@@ -60,3 +60,4 @@ Profit = resale × 0.87 − ~$5 out − ~$5 in − price ≥ max($50, price). 19
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Marvel Trading Cards" – $50 – pass – Nine 1993 SkyBox Marvel Universe Series IV cards: commons #87 Terror Inc., #103 Blaze, #106 Darkhold Redeemers, #133 Die-Cut, Super Heroes subset Sersi, Gambit, Archangel, Motormouth, plus a "Sixth Member of the Infinity Watch" card in a sleeve. All commons. Est. resale $3–10 for the lot.
+- 2026-10-13 – review note – Lens med on 1990s Marvel card lots reflects single-card asks; sellers price loose 1991 Marvel/1993 SkyBox commons $1-5 each.

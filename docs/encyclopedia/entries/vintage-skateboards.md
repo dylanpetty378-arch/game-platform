@@ -119,3 +119,4 @@ Merged rules from the earlier write-ups:
 - 2026-10-12 – Terapeak G&S Fibreflex complete: 32 sold, median $204 (p25 $155, p75 $300). Yuma $200 ask – passed
 - 2026-10-13 – craigslist – "Vintage Skateboard Trucks 7.75" – $15 – lensed/ – aluminum skateboard trucks 7.75; Lens best: Finish: Raw silver aluminum with signs of surface wear, scra; Lens median $45 (asking-price based)
 - 2026-10-13 – craigslist – "SKATEBOARD VINTAGE SURFING THEMED" – $35 – lensed/ – surf-themed complete skateboard; Lens best: eBay; Lens median $75 (asking-price based)
+- 2026-10-13 – review note – Powell "Rollerbones" aluminum skate cases (dated June 1980) resell ~$60-150; aftermarket stickers don't add value.

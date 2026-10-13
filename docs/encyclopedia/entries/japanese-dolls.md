@@ -71,3 +71,4 @@ Price ≤ $200; profit = sold median × 0.87 − ~$25 ship out − ~$25 ship in 
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage Japanese Samurai Doll" – $15 – pass – small (~10") post-war souvenir musha ningyo, molded face, synthetic brocade and foil armor, no case; est. resale $20–40 (Lens $375 is retail of better dolls).
 - 2026-10-13 – craigslist – "Vintage Japanese Samurai Warrior Doll" – $76 – pass – 1960s–80s mounted musha ningyo on white horse in black-lacquer glass case with gold paper back; souvenir/display grade. Est. resale $50–110; shipping a glass case kills margin.
+- 2026-10-13 – review note – Craigslist "Nishi dolls" lots are usually mixed post-war souvenir dolls (Japanese, Chinese, Filipina in one lot) - treat as souvenir tier.

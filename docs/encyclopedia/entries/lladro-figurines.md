@@ -57,3 +57,4 @@ Buy when: 12"+ groups or boxed retired pieces under $100; lots under $5/piece wi
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist Iowa City – "lot of 2 lladro angels" – $65 – passed – small angels sell $30–50 each; no margin.
+- 2026-10-13 – review note – #4870 "Yawning Boy" 8.5in glossy - single mid-size boy figures like this list at $25 on CL and resell ~$50-70; below buy threshold.

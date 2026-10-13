@@ -55,3 +55,4 @@ Electric samovars rarely clear profit.
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Antique samovar electric" – $50 – pass – Soviet-era electric nickel-plated samovar (ribbed vase body, white plastic knobs, crown top with star cut-outs), 1950s–80s; not an Imperial coal samovar. Est. resale $70–120; profit negative after shipping.
+- 2026-10-13 – review note – CL "19th-century" electric samovars are nickel-plated Soviet/Turkish electric types with white plastic tap and handle knobs. Electric means 20th c., whatever the seller says (example 7982449320).

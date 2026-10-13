@@ -62,3 +62,4 @@ Profit = sold × 0.87 − $12 − $12 − price ≥ max($50, price). A $30 Turne
 ```
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "Vintage   Microphone   With   Cable" – $30 – pass – Turner Model 33/S33D-type dynamic (1950s, Cedar Rapids) with heavy paint flaking, untested; est. resale $45–80; profit ≈ $0–15 after shipping both ways.
+- 2026-10-13 – review note – "antique microphone and stand" sold as a "display item" can be a Bakelite telephone mouthpiece stuck on a rod - Lens will still match Kellogg T-32 candlestick mics.

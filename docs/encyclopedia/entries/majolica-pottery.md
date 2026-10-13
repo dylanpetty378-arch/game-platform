@@ -76,3 +76,4 @@ Profit = sold median × 0.87 − ~$22 to buyer − ~$22 to Dylan − price; pass
 ## Seen in sweeps
 - 2026-10-13 – craigslist – "VINTAGE ITALIAN FRUIT TOPIARY" – $20 – pass (borderline) – Italian 1960s–70s glazed ceramic fruit centerpiece (grapes, peaches, pomegranate, banana) on gilt-painted Greek-key pedestal, ~14"; resale ~$60–110 → profit ~$0–30 after shipping both ways; worth it only as a local flip or if bundled. Lens $1,850 is a retail match, not this.
 - 2026-10-13 – craigslist – "Vintage Majolica-style Cachepot" – $50 – pass – modern majolica-style rabbit cachepot with branch handles (decor import, 1990s–2000s); resale ~$20–40.
+- 2026-10-13 – review note – unmarked American majolica daisy/sunflower pitchers (~$60-110) don't pass at $28 once two-way shipping is counted; they need a mark (Etruscan, Holdcroft) or ≤ $15.
