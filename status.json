@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:59:39Z",
+ "updated": "2026-10-13T18:03:06Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6578,
-  "events": 21648,
+  "lens": 6603,
+  "events": 21673,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 246,
+  "lensed": 249,
   "comps/pass": 1,
-  "queued/relens": 208,
+  "queued/relens": 216,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 298,
+  "flagged": 312,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 275
+  "queued": 250
  },
  "last_harvests": [
   {
@@ -867,6 +867,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949577225",
+   "title": "Antique Horns",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-antique-horns/mFsP4BQFfA5QwwcNb5QMCh",
+   "best": "Vintage Auto-lite Dual Trumpet Horn Heavy Patina Rat Rod ...",
+   "med": 165,
+   "ratio": 11,
+   "ai_value": ""
+  },
+  {
    "pid": "7974734832",
    "title": "Vintage cherub ceramic wall hanging decorations",
    "price": 50,
@@ -876,6 +887,28 @@
    "med": 545,
    "ratio": 10.9,
    "ai_value": "sell online ranging from roughly $25 to $95"
+  },
+  {
+   "pid": "7934121798",
+   "title": "Over 100 Vintage Christmas Ornaments",
+   "price": 30,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-over-100-vintage-christmas/pNp3CmT6A5a46ZxrqmhKkX",
+   "best": "Vintage Christmas Ornaments 1960-2000 Lot Hallmark Santa's ...",
+   "med": 326,
+   "ratio": 10.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949398368",
+   "title": "Antique Copper Bed Warmer - offers accepted",
+   "price": 25,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/ferndale-antique-copper-bed-warmer/jwcpCoTDMEdPN76QTbiybw",
+   "best": "Bassinoire cuivre vintage & moulin \u00e0 caf\u00e9 - D\u00e9coration",
+   "med": 257,
+   "ratio": 10.28,
+   "ai_value": ""
   },
   {
    "pid": "7928883924",
@@ -930,6 +963,17 @@
    "best": "Flower Pink Ruby Gemstone Ring : 925 Sterling Silver - Etsy",
    "med": 389,
    "ratio": 9.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979723589",
+   "title": "Antique Vintage Wood & Brass Bed Warmer",
+   "price": 30,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-antique-vintage-wood-brass-bed/rbfd98n9vN31B7vtyPxbZ4",
+   "best": "Vintage Bed Warmer | eBay",
+   "med": 288,
+   "ratio": 9.6,
    "ai_value": ""
   },
   {
@@ -1186,6 +1230,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934915578",
+   "title": "Replica Antique Mexican Pesos",
+   "price": 20,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-replica-antique-mexican-pesos/emwMk2wRDLm5qbrtvLS3Km",
+   "best": "1882 Republica Mexicana Libertad 8R.Z.1882.J.S.10D.20G ...",
+   "med": 120,
+   "ratio": 6,
+   "ai_value": "Value & Authenticity: Genuine circulated pieces generally trade for around $100 to $200"
+  },
+  {
    "pid": "7945944456",
    "title": "vintage Beetles albums/ records",
    "price": 200,
@@ -1271,6 +1326,17 @@
    "best": "I can help you look up more details or comparable values.",
    "med": 195,
    "ratio": 5.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982824605",
+   "title": "Vintage 7 1/2\" Brass/Bronze Ashcroft Pressure Gauge Clock",
+   "price": 45,
+   "area": "missoula",
+   "url": "https://www.craigslist.org/view/d/frenchtown-vintage-brass-bronze/9UL4FXdCoE8EBKpKfZj4s9",
+   "best": "Connection: Bottom-mounted threaded brass/iron pipe connection piece.",
+   "med": 250,
+   "ratio": 5.56,
    "ai_value": ""
   },
   {
@@ -2429,12 +2495,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7948510159",
+   "title": "Sage turquoise with opal inlay set",
+   "price": 40,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/dillard-sage-turquoise-with-opal-inlay/u13HjWDvBhz9nUW49Jnqf1",
+   "best": "Craigslist",
+   "med": 80,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7955725602",
    "title": "Large Mermaid Statue",
    "price": 50,
    "area": "daytona",
    "url": "https://www.craigslist.org/view/d/daytona-beach-large-mermaid-statue/azmyuTFJ1g1HConGBgUPxw",
    "best": "Tiki Mug: Tiki-A-Go-Go 2026 Event Mug - Orange Seahorse ...",
+   "med": 99,
+   "ratio": 1.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951776157",
+   "title": "Bullet ridden Old railroad signs",
+   "price": 50,
+   "area": "lincoln",
+   "url": "https://www.craigslist.org/view/d/greenwood-bullet-ridden-old-railroad/9Sw69qejeYScQxWPV6DJNt",
+   "best": "Craigslist",
    "med": 99,
    "ratio": 1.98,
    "ai_value": ""
@@ -2536,6 +2624,17 @@
    "best": "Assymetrical, Retro, Art-deco, Black and Silver, Upcycled CD ...",
    "med": 28,
    "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979034357",
+   "title": "Antique Kayserzinn pewter tray",
+   "price": 80,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-antique-kayserzinn-pewter-tray/8Py7uVDgqziedMbh8gkEvL",
+   "best": "Sold at Auction: Flache Kayserzinn Schale mit Mohnbl\u00fcte, um 1900",
+   "med": 149,
+   "ratio": 1.86,
    "ai_value": ""
   },
   {
@@ -2690,6 +2789,17 @@
    "best": "Ken Merrick Pottery Jar w/Cork Studio Art Stoneware Canister ...",
    "med": 125,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977590217",
+   "title": "Classical guitar- vintage El Degas",
+   "price": 125,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/clearwater-classical-guitar-vintage-el/hoDeJoqbyi12FoKkf1W47S",
+   "best": "Aria AC-15 Classical Acoustic Guitar Amber | Musician's Friend",
+   "med": 200,
+   "ratio": 1.6,
    "ai_value": ""
   },
   {
@@ -3100,6 +3210,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931133687",
+   "title": "VINTAGE GERMAN LITHO BEER STEIN",
+   "price": 120,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-vintage-german-litho/k8Go3AMazEccQaAJKGhrFN",
+   "best": "Inscriptions: Features Bavarian regimental details, text reading \"Infanterie Rgt. 11\" and \"Erinnerung an meine",
+   "med": 118,
+   "ratio": 0.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7982745453",
    "title": "Vintage 1930s-40s Rhinestone Earrings and Pins. Starting at.....",
    "price": 25,
@@ -3130,6 +3251,17 @@
    "best": "Facebook",
    "med": 85,
    "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975555674",
+   "title": "Large Vintage 33 Carat Blue Topaz Sterling Silver Ring",
+   "price": 200,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/auburn-large-vintage-33-carat-blue/7d3FRVN9sXbnjerXMMEhGe",
+   "best": "Tibet Shining",
+   "med": 186,
+   "ratio": 0.93,
    "ai_value": ""
   },
   {
@@ -3375,6 +3507,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980514644",
+   "title": "3 Holiday Barbie Hallmark Ornaments",
+   "price": 30,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/menifee-holiday-barbie-hallmark/aptpEhGCTcrWoWEukEZnqZ",
+   "best": "Vintage Hallmark Keepsake Ornament 1996 \"Holiday Barbie ...",
+   "med": 16,
+   "ratio": 0.53,
+   "ai_value": "sells on secondary markets (such as eBay, Etsy, or Mercari) for about $5 to $20"
+  },
+  {
    "pid": "7949577809",
    "title": "Vintage Federal Style Brass Eagle Bookends",
    "price": 75,
@@ -3503,6 +3646,17 @@
    "url": "https://www.craigslist.org/view/d/la-grange-park-pairs-of-vintage-earrings/p7JJkG9nXDEY2UTVVGBxER",
    "best": "eBay",
    "med": 10,
+   "ratio": 0.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969466469",
+   "title": "Vintage Silver Iridescent 3 piece tea set",
+   "price": 150,
+   "area": "santamaria",
+   "url": "https://www.craigslist.org/view/d/santa-maria-vintage-silver-iridescent/87sPwSgtrz2w5T9UDsEFKM",
+   "best": "Common Manufacturers: Similar vintage sets from this era were frequently produced by American potters like Hom",
+   "med": 21,
    "ratio": 0.14,
    "ai_value": ""
   },
