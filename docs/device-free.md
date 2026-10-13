@@ -29,8 +29,10 @@ before every commit; run it yourself before committing db/ changes). JSON twins 
    device-free paths above.
 4. Before stopping: release the lock, commit, push, and refresh the project volumes (`enc.py volumes`).
 
-With no repo tooling (a plain chat), read STATUS.md and START-HERE.md via WebFetch from raw.githubusercontent.com
-and work from those. Then hand Dylan the `db.py event …` lines to log next time.
+With no repo tooling (a plain chat), use the website's JSON (`<base>/api/overview.json`, `leads.json`,
+`search.json?q=`, `listing/<pid>.json`) — the claude.ai project doc `claude/website-access.md` has the base URL and
+the full list. Hand Dylan the `db.py event …` lines to log next time. The project no longer carries encyclopedia
+volumes; read entries on the site or here.
 
 ## The scheduled runner
 One recurring Claude cloud task runs the review cycle every 3 h, with no device bound. It is the ONLY scheduled

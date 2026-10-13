@@ -7,7 +7,7 @@
   python3 scripts/enc.py add <file.md> [...]  # add/replace entries written elsewhere (slug from the file's "Slug:" line or name)
   python3 scripts/enc.py index                # rebuild docs/encyclopedia/index.md from the entries
   python3 scripts/enc.py sync                 # write every entry's type rubric into db/item_types.jsonl (only changed ones)
-  python3 scripts/enc.py volumes <out_dir>    # bundle entries into A-B … T-Z volumes (for the claude.ai project copy)
+  python3 scripts/enc.py volumes  # (no longer uploaded to the claude.ai project since Oct 13 — the website serves entries) <out_dir>    # bundle entries into A-B … T-Z volumes (for the claude.ai project copy)
   python3 scripts/enc.py lint                 # entries missing required sections / rubric fields
 
 Entry format: docs/encyclopedia/README.md. Rubric fields: docs/rubric.md. The rubric is a ```json block under
