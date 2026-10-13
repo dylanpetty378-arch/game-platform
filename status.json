@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:33:14Z",
+ "updated": "2026-10-13T17:38:20Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6403,
-  "events": 21473,
+  "lens": 6428,
+  "events": 21498,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 195,
+  "lensed": 197,
   "comps/pass": 1,
-  "queued/relens": 151,
+  "queued/relens": 170,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 231,
+  "flagged": 235,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 450
+  "queued": 425
  },
  "last_harvests": [
   {
@@ -754,6 +754,17 @@
    "best": "Flower Pink Ruby Gemstone Ring : 925 Sterling Silver - Etsy",
    "med": 389,
    "ratio": 9.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970415882",
+   "title": "ONIDA Silver Platter",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/west-linn-onida-silver-platter/jscGjdJn5X6knwSVU6Zw1y",
+   "best": "Towle Huge 17\u201d Silverplated Serving Tray Vintage Incredible ...",
+   "med": 225,
+   "ratio": 9,
    "ai_value": ""
   },
   {
@@ -1813,6 +1824,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934810689",
+   "title": "Vintage Santa",
+   "price": 65,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/piedmont-vintage-santa/ni9EpfiXhnsQRZPtueFCXi",
+   "best": "17\" VINTAGE SANTA CLAUS RUBBER FACE RED + WHITE OUTFIT ...",
+   "med": 140,
+   "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7934461234",
    "title": "Antique Brooch Sterling silver MOP Mother Of Pearl Cameo Pendant",
    "price": 40,
@@ -1942,6 +1964,17 @@
    "best": "Vintage Wood Gold Metal Beverages Crate,Twin Cities ...",
    "med": 85,
    "ratio": 1.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967367858",
+   "title": "VINTAGE BULOVA AVAITOR WRIST WATCH",
+   "price": 125,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/elmhurst-vintage-bulova-avaitor-wrist/r6c99hWXfvr8Dpa1T1nWV8",
+   "best": "Bulova 14K Gold Filled Mens Watch Functions but not tested ...",
+   "med": 235,
+   "ratio": 1.88,
    "ai_value": ""
   },
   {
@@ -2897,6 +2930,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/pasadena-blue-gibsons/hec8Ev6kAE2Gbcz6MQqE4B",
    "best": "Body & Neck: Solid mahogany double-cutaway body with a set mahogany SlimTaper neck.",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955448693",
+   "title": "BUCK 102 HUNTING KNIFE",
+   "price": 50,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/gillett-buck-102-hunting-knife/7tUi8vRR2dXVwbBxJNm6Be",
+   "best": "Vintage Buck 118 W/INVERTED STAMP USA ORIGINAL SHEATH | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
