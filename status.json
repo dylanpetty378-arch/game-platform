@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T15:14:56Z",
+ "updated": "2026-10-13T15:19:01Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5637,
-  "events": 16372,
+  "lens": 5662,
+  "events": 16397,
   "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 1030,
-  "queued": 1403,
+  "lensed": 1043,
+  "queued": 1378,
   "comps/pass": 1,
-  "queued/relens": 448,
+  "queued/relens": 454,
   "decided/ask": 37,
-  "flagged": 743,
+  "flagged": 749,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -386,6 +386,17 @@
    "best": "Rings & Boxes: Assorted rings in ring boxes (including a cameo in an open velvet/satin case, turquoise-set pie",
    "med": 255,
    "ratio": 255,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940571077",
+   "title": "Sterling Silver Necklace",
+   "price": 99,
+   "area": "sanangelo",
+   "url": "https://www.craigslist.org/view/d/center-point-sterling-silver-necklace/tQJmjCNWtMAaioYhisMVxs",
+   "best": "14K GOLD 5MM TRICOLOR FANCY CHAIN White Gold / 20\"",
+   "med": 18645,
+   "ratio": 188.33,
    "ai_value": ""
   },
   {
@@ -1588,6 +1599,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976681115",
+   "title": "Ladies Sterling Silver Ring",
+   "price": 25,
+   "area": "littlerock",
+   "url": "https://www.craigslist.org/view/d/roland-ladies-sterling-silver-ring/iFSogrCv2Zj2YfBWgZbd6P",
+   "best": "925 Ruby and Pink Sapphire Bowtie Ring, 3.91 TCW",
+   "med": 340,
+   "ratio": 13.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7963389252",
    "title": "Antique Wash Basin Set",
    "price": 25,
@@ -1927,6 +1949,17 @@
    "med": 109,
    "ratio": 10.9,
    "ai_value": ""
+  },
+  {
+   "pid": "7974734832",
+   "title": "Vintage cherub ceramic wall hanging decorations",
+   "price": 50,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-cherub-ceramic/rYRduUUUBpRRSP67S3KtCk",
+   "best": "Similar vintage and antique cherub wall plaques\u2014often crafted in mid-20th-century European styles, plaster, or",
+   "med": 545,
+   "ratio": 10.9,
+   "ai_value": "sell online ranging from roughly $25 to $95"
   },
   {
    "pid": "7955093057",
@@ -2300,6 +2333,17 @@
    "best": "Would you like to know more about refilling the butane, replacing the flint, or troubleshooting ignition issue",
    "med": 385,
    "ratio": 8.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982703225",
+   "title": "Antique Small Bronze/Brass Incense Burner",
+   "price": 35,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-antique-small-bronze-brass/aiFSH2UZT5PgT3pbTkqMkC",
+   "best": "Common Use: Traditionally used in Asian Buddhist or ancestral altars for burning incense sticks, coils, or pow",
+   "med": 299,
+   "ratio": 8.54,
    "ai_value": ""
   },
   {
@@ -2914,6 +2958,17 @@
    "area": "sierravista",
    "url": "https://www.craigslist.org/view/d/tucson-vintage-moonshine-jug/wXdCBKbhRvv3tRLggXmniz",
    "best": "Vintage Stoneware \"moonshine\" Jug, Crock, With Brown Top",
+   "med": 65,
+   "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931828187",
+   "title": "Necklace and Earring Sets",
+   "price": 10,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-necklace-and-earring-sets/hidEZ34EJPQLtqXgyrhGHZ",
+   "best": "Earrings: A pair of rectangular/geometric clip-on earrings featuring matching multi-colored art glass or ename",
    "med": 65,
    "ratio": 6.5,
    "ai_value": ""
@@ -7227,6 +7282,17 @@
    "url": "https://www.craigslist.org/view/d/mount-washington-pokmon-ball/uLtvY6KyA4e4UnwJ1Up45i",
    "best": "23K Gold Plated CHARIZARD Trading Card 1999 Burger King ...",
    "med": 140,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975529115",
+   "title": "Vintage art deco pendant necklace",
+   "price": 75,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/east-derry-vintage-art-deco-pendant/xAmNAtBTWzdyJZvVMUh7Dk",
+   "best": "Origin: Typically attributed to 1920s\u20131930s Czech (Czechoslovakian) costume or artisan jewelry production.",
+   "med": 105,
    "ratio": 1.4,
    "ai_value": ""
   },

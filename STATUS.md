@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T15:14:56Z
+# Refurbish status — 2026-10-13T15:19:01Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1403 |
-| lensed | 1030 |
-| flagged | 743 |
-| queued/relens | 448 |
+| queued | 1378 |
+| lensed | 1043 |
+| flagged | 749 |
+| queued/relens | 454 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 6
 - searches: 1504
 - listings: 7007
-- lens: 5637
-- events: 16372
+- lens: 5662
+- events: 16397
 - comps: 1350
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (743)
+## Flagged by Lens, waiting for photo review (749)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -98,6 +98,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00A0A_8Mq9JYSojgY_0lM0t2_300x300.jpg" width="120"> | 7955332544 | $25 | chicago | [Vintage Chalkware Rebecca At The Well Statue](https://www.craigslist.org/view/d/shorewood-vintage-chalkware-rebecca-at/rJVbJvmRdA1gsMLiKfstPY) | Rebecca at the Well Statue / eBay | 6839 | 273.56 |
 | <img src="https://images.craigslist.org/00S0S_eWN1HTiu0NV_0AA132_300x300.jpg" width="120"> | 7951853022 | $1 | philadelphia | [Antique Office Items](https://www.craigslist.org/view/d/mont-clare-antique-office-items/vG2dd1JQQAYttduE4ESDaY) | Small Midcentury Roller Shutter Cabinet / Solid Oak / Desk . | 255 | 255 |
 | <img src="https://images.craigslist.org/00909_5j5S8NAbkEl_0CI0t2_300x300.jpg" width="120"> | 7941280867 | $1 | boston | [GORGEOUS VINTAGE STERLING SILVER JEWELRY FOR SALE-](https://www.craigslist.org/view/d/peabody-gorgeous-vintage-sterling/7rCdkYHFHXb2sydKSc5Uoe) | Rings & Boxes: Assorted rings in ring boxes (including a cam | 255 | 255 |
+| <img src="https://images.craigslist.org/00S0S_lBnaaDtyQ3B_0t20CI_300x300.jpg" width="120"> | 7940571077 | $99 | sanangelo | [Sterling Silver Necklace](https://www.craigslist.org/view/d/center-point-sterling-silver-necklace/tQJmjCNWtMAaioYhisMVxs) | 14K GOLD 5MM TRICOLOR FANCY CHAIN White Gold / 20" | 18645 | 188.33 |
 | <img src="https://images.craigslist.org/00J0J_i6mwdgV585K_0iA0iA_300x300.jpg" width="120"> | 7970681433 | $1 | orangecounty | [Gold, Sterling Silver, Pearls...WOW !](https://www.craigslist.org/view/d/santa-ana-gold-sterling-silver/pTmahqGrQPTcXhJdbdgmgK) | Etsy | 184 | 184 |
 | <img src="https://images.craigslist.org/00u0u_5QGRxGtjUZS_0lM0t2_300x300.jpg" width="120"> | 7979783190 | $20 | buffalo | [2 Antique Glass Lamps](https://www.craigslist.org/view/d/buffalo-antique-glass-lamps/uhsX52remR2j35Ys7hkCTS) | Details: Embossed grape or floral motifs on the glass, a cle | 2500 | 125 |
 | <img src="https://images.craigslist.org/00404_dbPkPOOtj2M_0aT0ew_300x300.jpg" width="120"> | 7958018189 | $12 | hartford | [Water Pitcher:  Hammered Tin](https://www.craigslist.org/view/d/enfield-water-pitcher-hammered-tin/wGN7xXfrbKX667d5x3JxFc) | Craigslist | 1450 | 120.83 |
@@ -207,9 +208,8 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01313_kwREUG4gkh5_0t20CI_300x300.jpg" width="120"> | 7982694066 | $35 | losangeles | [Groucho Marx Figurine](https://www.craigslist.org/view/d/los-angeles-groucho-marx-figurine/5y8p1acj4CoycDPk5vs3hu) | Groucho Marx Figurine / eBay | 500 | 14.29 |
 | <img src="https://images.craigslist.org/00B0B_8L0dGvm8VuH_03S05a_300x300.jpg" width="120"> | 7933533603 | $77 | eastnc | [16" Sterling Silver Snake Chain Stamped Sterling 7](https://www.craigslist.org/view/d/cherry-point-16-sterling-silver-snake/v94LynjnJj4zZpymtbsT5E) | eBay | 1062 | 13.79 |
 | <img src="https://images.craigslist.org/00t0t_kzCThitqDuP_09b0bx_300x300.jpg" width="120"> | 7951120784 | $10 | honolulu | [Stud crystal Earrings](https://www.craigslist.org/view/d/pearl-city-stud-crystal-earrings/iowwjvUfX3S27RbgRxv5Af) | Les Haudères Midi Halo Stud Earrings - GENEVIVE | 136 | 13.6 |
+| <img src="https://images.craigslist.org/00707_aGvSGLPf6X7_0lM0t2_300x300.jpg" width="120"> | 7976681115 | $25 | littlerock | [Ladies Sterling Silver Ring](https://www.craigslist.org/view/d/roland-ladies-sterling-silver-ring/iFSogrCv2Zj2YfBWgZbd6P) | 925 Ruby and Pink Sapphire Bowtie Ring, 3.91 TCW | 340 | 13.6 |
 | <img src="https://images.craigslist.org/00E0E_1v0uet4PhYP_0CI0t2_300x300.jpg" width="120"> | 7963389252 | $25 | yuma | [Antique Wash Basin Set](https://www.craigslist.org/view/d/san-diego-antique-wash-basin-set/5s55CYunqeGexNZvRmaqBe) | W.H.Tatler Decorating Co. Wash Basin sold at auction on 22nd | 335 | 13.4 |
 | <img src="https://images.craigslist.org/00f0f_lCwsNdAFlF5_0ak07K_300x300.jpg" width="120"> | 7972557738 | $30 | nh | [OLD  GERMAN Grandfather clock works](https://www.craigslist.org/view/d/manchester-old-german-grandfather-clock/g2zLYfpwdTxRYhhJbjT6Xg) | Urgos 03011 03011A Grandfather Clock Movement USED ... | 402 | 13.4 |
 | <img src="https://images.craigslist.org/00f0f_dKpI3FyOXQW_0ut0t2_300x300.jpg" width="120"> | 7952131916 | $95 | southjersey | [P.J's CAROUSEL COLLECTION MULLER STYLE, "MAJOR." 1](https://www.craigslist.org/view/d/cherry-hill-pjs-carousel-collection/oXTzdzudnGvCBQ2ZYk4ZA5) | Charles Carmel Overview: Sales Records & Exhibition History | 1259 | 13.25 |
 | <img src="https://images.craigslist.org/00Y0Y_d4HAYXVUmKn_0w10t2_300x300.jpg" width="120"> | 7953318070 | $5 | nd | [Johnson Brothers Pitcher](https://www.craigslist.org/view/d/grand-forks-johnson-brothers-pitcher/gKNiuPtToeq3nmAdRFzpTG) | Johnson Brothers Marie 4" Creamer Pitcher Fine English ... | 66 | 13.2 |
-| <img src="https://images.craigslist.org/00d0d_2SE1uacrvFs_0CI0t2_300x300.jpg" width="120"> | 7950850375 | $25 | buffalo | [ANTIQUE WOODEN "COMSTOCK/EGYPT" CRATE](https://www.craigslist.org/view/d/ontario-center-antique-wooden-comstock/dMRGibz94W3yskxDuqQ7jt) | Craigslist | 329 | 13.16 |
-| <img src="https://images.craigslist.org/00z0z_gBL1DdxD9F5_0lM0t2_300x300.jpg" width="120"> | 7931495586 | $10 | chicago | [Set of 2 Decanter Bottle Stopper Toppers](https://www.craigslist.org/view/d/shorewood-set-of-decanter-bottle/85ci5K9RqtrMdg9DueoQzk) | Rogaska Crystal GALLIA Ship Decanter & Stopper - 10 1/2" / e | 131 | 13.1 |
