@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:27:15Z",
+ "updated": "2026-10-13T13:30:45Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4937,
-  "events": 14872,
+  "lens": 4962,
+  "events": 14897,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 653,
-  "queued": 1303,
+  "lensed": 666,
+  "queued": 1278,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 362,
-  "flagged": 506,
+  "queued/relens": 364,
+  "flagged": 516,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -755,6 +755,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932007022",
+   "title": "Vintage Crystal Vase, France",
+   "price": 10,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-crystal-vase-france/en7yn8PVU18ykHsJYCya19",
+   "best": "Vtg Strombergshyttan SWEDEN lARGE 10\" Art Glass Vase iCE ...",
+   "med": 264,
+   "ratio": 26.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7973412108",
    "title": "VINTAGE ELECTRIC MOTOR",
    "price": 20,
@@ -1063,6 +1074,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964329725",
+   "title": "Stangl Pottery Set of 10 pieces",
+   "price": 15,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/mountville-stangl-pottery-set-of-10/3Diyx63o4HabvrvZjvuCLM",
+   "best": "Vintage STANGL POTTERY 2 TIERED PLATES CENTER W/ HOLES Exc ...",
+   "med": 240,
+   "ratio": 16,
+   "ai_value": ""
+  },
+  {
    "pid": "7948285609",
    "title": "Vintage Mixing Bowls",
    "price": 16,
@@ -1182,6 +1204,17 @@
    "med": 335,
    "ratio": 13.4,
    "ai_value": "sell or are valued between $40"
+  },
+  {
+   "pid": "7953318070",
+   "title": "Johnson Brothers Pitcher",
+   "price": 5,
+   "area": "nd",
+   "url": "https://www.craigslist.org/view/d/grand-forks-johnson-brothers-pitcher/gKNiuPtToeq3nmAdRFzpTG",
+   "best": "Johnson Brothers Marie 4\" Creamer Pitcher Fine English ...",
+   "med": 66,
+   "ratio": 13.2,
+   "ai_value": ""
   },
   {
    "pid": "7950850375",
@@ -1434,6 +1467,17 @@
    "best": "Antique Hand Crank Champion Blower & Forge Co Model # 806 ...",
    "med": 935,
    "ratio": 10.39,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948804246",
+   "title": "Ladies vintage lapel pin \ud83d\udccc",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-ladies-vintage-lapel-pin/bRs72zNp98Z4ErYB8kZpRY",
+   "best": "Interesting Group of Sterling Silver Mexican Jewelry ...",
+   "med": 155,
+   "ratio": 10.33,
    "ai_value": ""
   },
   {
@@ -1921,6 +1965,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982693394",
+   "title": "Antique Coffee Grinder",
+   "price": 100,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/huntington-antique-coffee-grinder/cJMh9vRk7eErdAJD6kXcfK",
+   "best": "Antique Landers Frary and Clark #20 Black Coffee Mill ...",
+   "med": 750,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7977892125",
    "title": "Antique sled",
    "price": 100,
@@ -2061,6 +2116,17 @@
    "best": "Pig Bank: Appears to be a mid-century or vintage solid brass or brass-tone pig coin bank, typically weighing a",
    "med": 299,
    "ratio": 6.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974641724",
+   "title": "(Cash only) Arbor guitar",
+   "price": 30,
+   "area": "lubbock",
+   "url": "https://www.craigslist.org/view/d/borger-cash-only-arbor-guitar/6fi5nvTsXrNm1EtWLzx2As",
+   "best": "Vintage Hohner Acoustic Guitar Made in Korea 6 String ...",
+   "med": 199,
+   "ratio": 6.63,
    "ai_value": ""
   },
   {
@@ -3329,6 +3395,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968516360",
+   "title": "Vintage Pyrometer gauge steampunk, it works",
+   "price": 40,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kings-park-vintage-pyrometer-gauge/nkktdYFMunuhoiSbS83LcC",
+   "best": "Vintage Brown Electric Pyrometer | eBay",
+   "med": 150,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7959443982",
    "title": "Farmhouse Vintage Truck Decor",
    "price": 27,
@@ -4099,6 +4176,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949986050",
+   "title": "Pewter Goblets",
+   "price": 40,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/galway-pewter-goblets/3wPQj4UmTC25TxUGsrbMRC",
+   "best": "The Noble Collection Vault #6 \u2013 Legends of the British Isles ...",
+   "med": 103,
+   "ratio": 2.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7944297694",
    "title": "Tommy Hilfiger Men's Brown Watch with date",
    "price": 35,
@@ -4693,6 +4781,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971906042",
+   "title": "\ud83c\udf3e Antique Farm Implements Lot \ud83c\udf3e",
+   "price": 75,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-antique-farm-implements-lot/hSkLfhSF738B6Xkch9ixuP",
+   "best": "Antique Wooden Hand Corn Seed Planter Wood Handle Farm Tool ...",
+   "med": 138,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7981714881",
    "title": "ABOUT 70+ OLD BOTTLES",
    "price": 75,
@@ -5163,6 +5262,17 @@
    "best": "Paire de petits coffres japonais en laque noire et or, Japon ...",
    "med": 125,
    "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947291220",
+   "title": "Lord Shiva Nataraja",
+   "price": 70,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-lord-shiva-nataraja/gkSxX1byhaz92dE6UsNwZY",
+   "best": "Nataraja Shiva Lord of Dance Vintage Bronze - Etsy",
+   "med": 86,
+   "ratio": 1.23,
    "ai_value": ""
   },
   {
