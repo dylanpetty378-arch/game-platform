@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:06:04Z",
+ "updated": "2026-10-13T03:09:46Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1029,
-  "events": 6278,
+  "lens": 1054,
+  "events": 6303,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3612,
-  "lensed": 337,
+  "queued": 3587,
+  "lensed": 352,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 31
+  "flagged": 41
  },
  "last_harvests": [
   {
@@ -223,6 +223,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7952378229",
+   "title": "ANTIQUE METAL MINERS OIL LAMP",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-antique-metal-miners-oil-lamp/rnhHkpfFJUjYQuaGpp8b7A",
+   "best": "FIRE LIGHTER, iron, first half of the 20th century. Swedish ...",
+   "med": 350,
+   "ratio": 17.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982468046",
+   "title": "Antique teacher\u2019s apple paperweight",
+   "price": 5,
+   "area": "humboldt",
+   "url": "https://www.craigslist.org/view/d/eureka-antique-teachers-apple/uGi5LBjyvKpavYR9MXGB1r",
+   "best": "eBay",
+   "med": 74,
+   "ratio": 14.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7930087323",
    "title": "Vintage Jostens women's Quartz Swiss Gold Tone Watch w/ Hadley band.",
    "price": 20,
@@ -278,6 +300,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7969467948",
+   "title": "Vintage Japanese Samurai Warrior Doll",
+   "price": 76,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-japanese-samurai/aCNnzTvnsHgFU5o5CnnLAX",
+   "best": "Subject: Japanese Musha Ningyo (Boy's Day / Tango no Sekku display doll)",
+   "med": 500,
+   "ratio": 6.58,
+   "ai_value": "Value / Market Range: Generally sells between $75"
+  },
+  {
+   "pid": "7948748433",
+   "title": "Old Rusted Tractor Sign Bridges Hardware",
+   "price": 20,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-old-rusted-tractor-sign/cs8RzybPCUDDSKPWWbLiaw",
+   "best": "Craigslist",
+   "med": 110,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7971176613",
    "title": "Beautiful 3D Lady Art",
    "price": 70,
@@ -311,6 +355,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966382739",
+   "title": "VINTAGE 20th CENTURY CHINESE FAMILLE ROSE PORCELAIN VASE 9\"",
+   "price": 75,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/van-nuys-vintage-20th-century-chinese/98jxon1U4WfAj8JX2uBQHB",
+   "best": "Etsy",
+   "med": 300,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7953512408",
    "title": "English riders hunting scene",
    "price": 40,
@@ -330,6 +385,17 @@
    "best": "Facebook",
    "med": 72,
    "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955380732",
+   "title": "GOLD-TONE NECKLACE 17\" + CLIP-ON EARRINGS",
+   "price": 20,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/north-brunswick-gold-tone-necklace-17/1xFj9Nrwg7Cj871gFcyLyy",
+   "best": "eBay",
+   "med": 64,
+   "ratio": 3.2,
    "ai_value": ""
   },
   {
@@ -363,6 +429,28 @@
    "best": "Case & Movement: Gold-tone case with a hand-winding mechanical movement.",
    "med": 120,
    "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960127838",
+   "title": "Vintage Jaru Art of California",
+   "price": 40,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/kings-park-vintage-jaru-art-of/pH6KeHnA6n2mSYrCm5in9H",
+   "best": "Vintage Framed Seashell Oil Painting | Miniature Original ...",
+   "med": 120,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961809758",
+   "title": "BLENKO water carafe EMERALD GREEN  VINTAGE",
+   "price": 45,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/holt-blenko-water-carafe-emerald-green/hYgCqeLpjxFVK2dvnRDks8",
+   "best": "Vintage 2000 Blenko Emerald Green 384 Double Spout Water ...",
+   "med": 134,
+   "ratio": 2.98,
    "ai_value": ""
   },
   {
@@ -421,6 +509,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945533880",
+   "title": "Original Signed Lithograph by Isabel Baillen",
+   "price": 50,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/kailua-original-signed-lithograph-by/vVGed3yu44ZcwbgNXB9GaR",
+   "best": "Isabel Baillen (20th C) French, Lithograph for sale at ...",
+   "med": 100,
+   "ratio": 2,
+   "ai_value": "sell between $50"
+  },
+  {
    "pid": "7942011154",
    "title": "19 Century hollow bronze Japanese cloisone vase.",
    "price": 105,
@@ -430,6 +529,17 @@
    "med": 195,
    "ratio": 1.86,
    "ai_value": ""
+  },
+  {
+   "pid": "7956651816",
+   "title": "Vintage dog Mugsey cookie jar with salt/pepper",
+   "price": 100,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ojai-vintage-dog-mugsey-cookie-jar-with/6KWQNnFT4ZR7bwX1w2wdGT",
+   "best": "Subject: White ceramic dog wearing a blue head-wrap/bandana (depicting a toothache) and a matching set of salt",
+   "med": 180,
+   "ratio": 1.8,
+   "ai_value": "Value: Complete sets typically sell between $150"
   },
   {
    "pid": "7964172171",
