@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:43:22Z",
+ "updated": "2026-10-13T12:47:21Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4662,
-  "events": 14597,
+  "lens": 4687,
+  "events": 14622,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 487,
-  "queued": 1578,
+  "lensed": 506,
+  "queued": 1553,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 348,
-  "flagged": 411,
+  "queued/relens": 349,
+  "flagged": 416,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -744,6 +744,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937567101",
+   "title": "Vintage Egyptian Black Stone Pharoah's bust statue/ornament",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/west-roxbury-vintage-egyptian-black/3dmXUEgJhkTMbTrJKx9pas",
+   "best": "Vintage Egyptian Black Stone Pharoah's bust statue/ornament ...",
+   "med": 423,
+   "ratio": 21.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7948495128",
    "title": "Vintage 1970's Bed Comforter",
    "price": 10,
@@ -1118,6 +1129,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982699844",
+   "title": "Vintage Mountain Landscape Oil Painting Signed Talbot",
+   "price": 85,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-mountain-landscape/aVAXiNk54q9ebniWdeHHHT",
+   "best": "Robert Lee McComb | ROBERT MCCOMB OIL ON CANVAS, VIEW OF ...",
+   "med": 1059,
+   "ratio": 12.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7937181258",
    "title": "VINTAGE STRAIGHT RAZOR CASE",
    "price": 5,
@@ -1148,6 +1170,17 @@
    "best": "Rare Vintage Coca-Cola Antique Sign Machine Cooler Drink ...",
    "med": 177,
    "ratio": 11.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978784082",
+   "title": "antique cookie Jars",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/lowell-antique-cookie-jars/fcZyQN63419TTUmNgDQZwZ",
+   "best": "Vintage Cookie Jar 1950s American Bisque \"granny Grandma ...",
+   "med": 115,
+   "ratio": 11.5,
    "ai_value": ""
   },
   {
@@ -2614,6 +2647,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961752110",
+   "title": "Asian Vintage Carved Figurines - Members of Eight Immortals - Pair",
+   "price": 40,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/devon-asian-vintage-carved-figurines/oKaKuyycGS9BCTighWk6wk",
+   "best": "Chinese Men Hand Carved Figures Made In Italy | eBay",
+   "med": 165,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7949534864",
    "title": "Vintage Car Radio",
    "price": 55,
@@ -3292,6 +3336,17 @@
    "url": "https://www.craigslist.org/view/d/grants-pass-vintage-60s-firemans-helmet/1Ab91giAQeLCSGGmFVXMsb",
    "best": "eBay",
    "med": 85,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969685916",
+   "title": "ANTIQUE SHELL PENDANT",
+   "price": 35,
+   "area": "roanoke",
+   "url": "https://www.craigslist.org/view/d/fincastle-antique-shell-pendant/tCUB2G6iVTB5yDskHFFsg6",
+   "best": "Small Vintage Mother-of-pearl Box, Rare Pearl, French ...",
+   "med": 99,
    "ratio": 2.83,
    "ai_value": ""
   },
