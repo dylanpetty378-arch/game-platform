@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T08:22:18Z",
+ "updated": "2026-10-13T08:26:43Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3029,
-  "events": 10815,
+  "lens": 3054,
+  "events": 10840,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2411,
+  "queued": 2386,
   "comps/pass": 1,
   "decided/ask": 28,
-  "queued/relens": 339,
+  "queued/relens": 340,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 269,
-  "lensed": 350,
+  "flagged": 280,
+  "lensed": 363,
   "decided/find": 7,
   "expired": 1
  },
@@ -643,6 +643,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967809980",
+   "title": "Vintage Bottle Cappers",
+   "price": 15,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-bottle-cappers/a7Lx8mXLLBFoVWAvcjE2zU",
+   "best": "Vintage Green Glass Seltzer Bottle / Green Siphon Seltzer ...",
+   "med": 217,
+   "ratio": 14.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7948490694",
    "title": "Guitar \"Tito's Handmade Vodka\" Edition Serial #SP171667",
    "price": 100,
@@ -706,6 +717,28 @@
    "best": "Metal Vintage 1950s \"Doll-E-Crib\" Adjustable Side Rail Blue ...",
    "med": 400,
    "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965638040",
+   "title": "Large Picture Frame/Art and misc. stuff",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-large-picture-frame-art/aCHTWiaz6PaRGStJjPUcR8",
+   "best": "Ralph W. Groff (American, 20th c.) Original Painting sold at ...",
+   "med": 625,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981352076",
+   "title": "Vintage Onkyo Dual Cassette Deck",
+   "price": 40,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-vintage-onkyo-dual-cassette-deck/7mLNnz4GTiGmaGCuHjJKuM",
+   "best": "Vintage Onkyo Stereo Cassette Tape Deck TA-W88 & Manual ...",
+   "med": 500,
+   "ratio": 12.5,
    "ai_value": ""
   },
   {
@@ -926,6 +959,28 @@
    "best": "Etsy",
    "med": 80,
    "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951047470",
+   "title": "cow horn ship/night light /antique",
+   "price": 50,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-cow-horn-ship-night-light/j1qyJ9qbSh6cuyop9u5Nzj",
+   "best": "vintage carved bull horn sailing ship santa lucia 3 mast 15 ...",
+   "med": 395,
+   "ratio": 7.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978432182",
+   "title": "Vintage Magazine Holder",
+   "price": 25,
+   "area": "bend",
+   "url": "https://www.craigslist.org/view/d/redmond-vintage-magazine-holder/gVBvP67SnNoRr29au4c8mw",
+   "best": "Vintage Butler Wood Magazine Rack | eBay",
+   "med": 195,
+   "ratio": 7.8,
    "ai_value": ""
   },
   {
@@ -1204,6 +1259,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937855103",
+   "title": "2 Vintage Wilson Gym Duffle Bags",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/western-springs-vintage-wilson-gym/b8H8CtE3gLP8yYyzF9dN45",
+   "best": "Vintage wilson Golf Bag Caddy Shack Rare for Sale in San ...",
+   "med": 139,
+   "ratio": 5.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7965026841",
    "title": "GORGEOUS VINTAGE VICTORIAN HAT",
    "price": 45,
@@ -1411,6 +1477,17 @@
    "med": 310,
    "ratio": 4.92,
    "ai_value": "Value: Pre-owned or vintage listings typically range from $60 to $120"
+  },
+  {
+   "pid": "7965030336",
+   "title": "VINTAGE BANANA REPUBLIC STRAW HAT",
+   "price": 27,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-vintage-banana-republic-straw-hat/gq7yHLBD9n7JNj363L5pbi",
+   "best": "Vintage LORD & TAYLOR 100% Straw Ladies Hat in Box Made In ...",
+   "med": 131,
+   "ratio": 4.85,
+   "ai_value": ""
   },
   {
    "pid": "7976862804",
@@ -1974,6 +2051,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952198452",
+   "title": "Antique British machete and case.",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-antique-british-machete-and-case/7erDBtR3y8rdX7sHgzXe8k",
+   "best": "Sold at Auction: EDGED WEAPONS | WORLD | USA WW2 Machete ...",
+   "med": 155,
+   "ratio": 3.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7948107733",
    "title": "Guitar",
    "price": 170,
@@ -2003,6 +2091,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-vintage-ambers/kREUruTB2cQsUQRUgix3JS",
    "best": "Setting: Gold-plated or gold-filled metal mountings with toggle-bar closures.",
    "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935220876",
+   "title": "Vintage Wood Train Lamp",
+   "price": 20,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-vintage-wood-train-lamp/53hKS62RaP65gCEfKaem6L",
+   "best": "Vintage Large Wooden Wood Folk Art Choo Choo Train Hand Made ...",
+   "med": 60,
    "ratio": 3,
    "ai_value": ""
   },
@@ -2425,6 +2524,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954697465",
+   "title": "Vintage 1940's   WWII Naples Dagger Knife",
+   "price": 55,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-vintage-1940s-wwii-naples/2pBynkC5QJiGmmFbMud2QT",
+   "best": "Vintage 1944 Naples Dagger Knife Letter Opener Desk Paper ...",
+   "med": 118,
+   "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7930867565",
    "title": "Vintage Boy Scout Lot, Local Cashmere 1960s Shirts Hat Canteen + More",
    "price": 40,
@@ -2697,6 +2807,17 @@
    "best": "Asian Carved Snuff Bottle With People Dragons Animals - Etsy",
    "med": 119,
    "ratio": 1.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979211495",
+   "title": "Vintage McCULLOCH Mini Mac Chainsaw Case",
+   "price": 60,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-mcculloch-mini-mac/gA1e3T6haxEHJrAe3Te7oR",
+   "best": "Rare Early 1970's McCulloch Chainsaw Case Mini Mac 30+ | eBay",
+   "med": 90,
+   "ratio": 1.5,
    "ai_value": ""
   },
   {
