@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:44:30Z",
+ "updated": "2026-10-13T14:48:08Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5437,
-  "events": 15372,
+  "lens": 5462,
+  "events": 15397,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 928,
-  "queued": 803,
+  "lensed": 942,
+  "queued": 778,
   "comps/pass": 1,
-  "queued/relens": 426,
+  "queued/relens": 429,
   "decided/ask": 37,
-  "flagged": 667,
+  "flagged": 675,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -433,6 +433,17 @@
    "best": "RLM Sterling Silver Double Hoop Large 2-\u201c Dangle Earrings | eBay",
    "med": 95,
    "ratio": 95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939777335",
+   "title": "Antique KEIL Drill Tool",
+   "price": 10,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/marinette-antique-keil-drill-tool/pRb4aY5a6YqwPHEoE7MvGT",
+   "best": "Vintage American Hand Crank Leather Splitting Skiver Tool ...",
+   "med": 935,
+   "ratio": 93.5,
    "ai_value": ""
   },
   {
@@ -917,6 +928,17 @@
    "best": "Motor: A smooth-running vintage electric/induction motor (such as an Emerson or similar fractional-horsepower ",
    "med": 522,
    "ratio": 26.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954467049",
+   "title": "MISC ART WORK",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-misc-art-work/oeczJcKjKvq2nyCpfSzVfW",
+   "best": "Stupell Industries Cloudy Sailboat Fleet Transportation ...",
+   "med": 650,
+   "ratio": 26,
    "ai_value": ""
   },
   {
@@ -3186,6 +3208,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947387798",
+   "title": "VINTAGE HI-POINT MX BOOT",
+   "price": 65,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/lenore-vintage-hi-point-mx-boot/9pfsGesZT1H62TYTfHWAyz",
+   "best": "25+ Alpinestars 100% Leather Motorcycle & Powersports Boots ...",
+   "med": 350,
+   "ratio": 5.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7945032229",
    "title": "XL Vintage Canton Collection Jar",
    "price": 150,
@@ -4055,6 +4088,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947851386",
+   "title": "Vintage cars",
+   "price": 30,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-cars/pjbM7L68HPtKsNHaPWUXE5",
+   "best": "Dub City 24\" Jada Toy BIG BALLERS 2002 Cadillac Escalade 1 ...",
+   "med": 116,
+   "ratio": 3.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7981974507",
    "title": "VINTAGE WOOD BARREL",
    "price": 40,
@@ -4484,6 +4528,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948891839",
+   "title": "Vintage Enamelware Bucket",
+   "price": 20,
+   "area": "duluth",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-enamelware-bucket/vdfih8oNuQoW7WDjLdwqC2",
+   "best": "White Enamel Pail With Handle Black Rim - Etsy",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7958161238",
    "title": "Vintage ceramic platters",
    "price": 20,
@@ -4580,6 +4635,17 @@
    "best": "Amazing vtg Egyptian silver metal copper inlay figures brass ...",
    "med": 300,
    "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954001195",
+   "title": "Vintage Photo Equipment",
+   "price": 55,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/jamestown-vintage-photo-equipment/1Nx6xAna47uaKncMpXcs9L",
+   "best": "2 1/4 X 3 1/4 Graflex Speed Graphic Press Camera With Lens ...",
+   "med": 173,
+   "ratio": 3.15,
    "ai_value": ""
   },
   {
@@ -5229,6 +5295,17 @@
    "best": "vinted.at",
    "med": 90,
    "ratio": 2.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943444811",
+   "title": "Vintage 80s NOS lights",
+   "price": 25,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/arroyo-grande-vintage-80s-nos-lights/pQUrMgwCFMqYUV2KfVSUKr",
+   "best": "2.5' Vintage MCM Wheat Grass U Shaped- Bathroom Double Light ...",
+   "med": 64,
+   "ratio": 2.56,
    "ai_value": ""
   },
   {
@@ -7141,6 +7218,17 @@
    "area": "buffalo",
    "url": "https://www.craigslist.org/view/d/rochester-vintage-husky-socket-set/jVpEdLMPnCJNyRTtwLX1je",
    "best": "Vtg Husky Professional 1/4 3/8 Dr. 24pc SAE Socket Set 40005 ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946654699",
+   "title": "Vintage multi tools",
+   "price": 40,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/sandia-park-vintage-multi-tools/wQbqCjx2S3todGa3ReDUoE",
+   "best": "VINTAGE STERLING SILVER MULTI TOOL POCKET KNIFE STAINLESS ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

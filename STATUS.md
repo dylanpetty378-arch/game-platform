@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T14:44:30Z
+# Refurbish status — 2026-10-13T14:48:08Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| lensed | 928 |
-| queued | 803 |
-| flagged | 667 |
-| queued/relens | 426 |
+| lensed | 942 |
+| queued | 778 |
+| flagged | 675 |
+| queued/relens | 429 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 5437
-- events: 15372
+- lens: 5462
+- events: 15397
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (667)
+## Flagged by Lens, waiting for photo review (675)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -105,6 +105,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00b0b_1J0jfQi5ihU_0i90eD_300x300.jpg" width="120"> | 7941007294 | $25 | losangeles | [Handcrafted vintage model ship](https://www.craigslist.org/view/d/santa-monica-handcrafted-vintage-model/4X6dkVsJKNfrWkh9KEYZz3) | Etsy | 2820 | 112.8 |
 | <img src="https://images.craigslist.org/00g0g_1vtL3Z7vxPk_0t20CI_300x300.jpg" width="120"> | 7978899858 | $1 | myrtlebeach | [Coins, vintage necklace](https://www.craigslist.org/view/d/pawleys-island-coins-vintage-necklace/kRCDycuqQiWBCmtF51duw9) | 1890-CC Morgan Silver Dollar Coin / Bullion Shark Rare Coins | 110 | 110 |
 | <img src="https://images.craigslist.org/00T0T_pF3o5oFmSB_0t90CI_300x300.jpg" width="120"> | 7971410328 | $1 | grandisland | [Vintage Designer Fine Jewelry By Tiffany, Taxco, R](https://www.craigslist.org/view/d/omaha-vintage-designer-fine-jewelry-by/hP2pzZTWhw7g25GpK1VqcS) | RLM Sterling Silver Double Hoop Large 2-“ Dangle Earrings /  | 95 | 95 |
+| <img src="https://images.craigslist.org/00X0X_7RTl3Q6grBb_0CI0t2_300x300.jpg" width="120"> | 7939777335 | $10 | greenbay | [Antique KEIL Drill Tool](https://www.craigslist.org/view/d/marinette-antique-keil-drill-tool/pRb4aY5a6YqwPHEoE7MvGT) | Vintage American Hand Crank Leather Splitting Skiver Tool .. | 935 | 93.5 |
 | <img src="https://images.craigslist.org/00M0M_8IQ7I9tsYg5_0CI0t2_300x300.jpg" width="120"> | 7954055278 | $150 | boston | [Antique Malaya Solid Silver Cruet Set](https://www.craigslist.org/view/d/epping-antique-malaya-solid-silver/uwhYAzrxkaQbTjFCEEQrfe) | Etsy | 14000 | 93.33 |
 | <img src="https://images.craigslist.org/00k0k_fHdrwHCqvpv_0t20CI_300x300.jpg" width="120"> | 7981964397 | $25 | slo | [Antique weed whacker](https://www.craigslist.org/view/d/santa-barbara-antique-weed-whacker/4nATqiYT8TKmZiDcrDN2Yi) | Collector Value: These vintage primitive farm tools typicall | 2065 | 82.6 |
 | <img src="https://images.craigslist.org/00505_fPeIsLbGTDO_0CI0t2_300x300.jpg" width="120"> | 7932511277 | $85 | oklahomacity | [Antique love seat](https://www.craigslist.org/view/d/tulsa-antique-love-seat/ecsAkwQsPVvA43CitHDSv5) | Two piece Southwood Chippendale style sofa and loveseat with | 6473 | 76.15 |
@@ -149,6 +150,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00g0g_82C7ygSPbQn_0g80c6_300x300.jpg" width="120"> | 7932007022 | $10 | chicago | [Vintage Crystal Vase, France](https://www.craigslist.org/view/d/shorewood-vintage-crystal-vase-france/en7yn8PVU18ykHsJYCya19) | Vtg Strombergshyttan SWEDEN lARGE 10" Art Glass Vase iCE ... | 264 | 26.4 |
 | <img src="https://images.craigslist.org/00w0w_cMKSt40iF3X_0CI0fB_300x300.jpg" width="120"> | 7959024981 | $40 | oregoncoast | [VINTAGE BOOMBOX WORKING](https://www.craigslist.org/view/d/lebanon-vintage-boombox-working/8RzDaptjsGobCXfXP5uVUw) | JVC PC-V66 Portable Component System Boombox Radio Cassette  | 1052 | 26.3 |
 | <img src="https://images.craigslist.org/00X0X_4vNN7H2Rdip_0CI0lM_300x300.jpg" width="120"> | 7973412108 | $20 | duluth | [VINTAGE ELECTRIC MOTOR](https://www.craigslist.org/view/d/walker-vintage-electric-motor/7fZsUmYHXZen7DXsRG7uE9) | Motor: A smooth-running vintage electric/induction motor (su | 522 | 26.1 |
+| <img src="https://images.craigslist.org/00808_jc49UskqgQL_0ak0dL_300x300.jpg" width="120"> | 7954467049 | $25 | austin | [MISC ART WORK](https://www.craigslist.org/view/d/austin-misc-art-work/oeczJcKjKvq2nyCpfSzVfW) | Stupell Industries Cloudy Sailboat Fleet Transportation ... | 650 | 26 |
 | <img src="https://images.craigslist.org/00R0R_bh5ASXMOoU6_0t20CI_300x300.jpg" width="120"> | 7979483679 | $50 | yuma | [Antique French Bidet](https://www.craigslist.org/view/d/san-diego-antique-french-bidet/8MhhhBvVZspWRuX7HgQw7d) | Vintage French Oval White Enamel and Floral Baby Bath ... | 1300 | 26 |
 | <img src="https://images.craigslist.org/01212_3ZuI5r2s7Wm_0t20CI_300x300.jpg" width="120"> | 7950949878 | $10 | boston | [Large painted clay Boston bean type pot](https://www.craigslist.org/view/d/roslindale-large-painted-clay-boston/2SAEGY9qQvwpPeTSMFVdSz) | Antique French Stoneware Confit Pot — Glazed Brown ... | 250 | 25 |
 | <img src="https://images.craigslist.org/00x0x_diOGXTyavGH_0t20CI_300x300.jpg" width="120"> | 7955169494 | $25 | scottsbluff | [Virtual Garage Sale-Misc Decorations](https://www.craigslist.org/view/d/timnath-virtual-garage-sale-misc/9xofnoVQ2WVWuGAq2r1JSr) | Charming Armillary Sundial For Sale at 1stDibs | 620 | 24.8 |
@@ -211,5 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00A0A_3883QRScsIB_0lR0t2_300x300.jpg" width="120"> | 7931577468 | $10 | newyork | [Vintage U.S. Bicentennial Society The Double Eagle](https://www.craigslist.org/view/d/new-york-vintage-us-bicentennial/iHBvYEZNAsyz62K5p6Wz9S) | Vtg 1973 Collectors Double Eagle Plate Americas Bicentennial | 125 | 12.5 |
 | <img src="https://images.craigslist.org/00k0k_hrhNsHpYm6_0t20CI_300x300.jpg" width="120"> | 7982699844 | $85 | portland | [Vintage Mountain Landscape Oil Painting Signed Tal](https://www.craigslist.org/view/d/vancouver-vintage-mountain-landscape/aVAXiNk54q9ebniWdeHHHT) | Robert Lee McComb / ROBERT MCCOMB OIL ON CANVAS, VIEW OF ... | 1059 | 12.46 |
 | <img src="https://images.craigslist.org/00202_8IzLLZkr2B4_0Mo12w_300x300.jpg" width="120"> | 7942474856 | $5 | austin | [Vintage Occupied Japan Colonial Lady Figurine](https://www.craigslist.org/view/d/kyle-vintage-occupied-japan-colonial/fN9YwLxeg1hQa6FT8jN44Y) | Colonial Lady Figurine Occupied Japan 1948 Pink, Green and . | 62 | 12.4 |
-| <img src="https://images.craigslist.org/01111_gXmTztJhtXY_0CI0t2_300x300.jpg" width="120"> | 7937181258 | $5 | washingtondc | [VINTAGE STRAIGHT RAZOR CASE](https://www.craigslist.org/view/d/springfield-vintage-straight-razor-case/heN28HaQSbFtQ7oLoVvsfU) | Antique KROPP of Lodon Hollow Ground Duplex Straight Razor . | 60 | 12 |
-| <img src="https://images.craigslist.org/00Y0Y_bWwIi9qfskP_0uc0t2_300x300.jpg" width="120"> | 7949906550 | $25 | phoenix | [Antique Stromberg Carlson Telephone](https://www.craigslist.org/view/d/phoenix-antique-stromberg-carlson/n2yd7TmzyxfcbszU3HSBSz) | Vintage Extremely Rare Western Electric Oak Crank Desk Top . | 295 | 11.8 |
