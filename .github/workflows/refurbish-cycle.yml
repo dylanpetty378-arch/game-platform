@@ -24,6 +24,18 @@ jobs:
         with: {ref: refurbish, fetch-depth: 50}
       - uses: actions/setup-python@v5
         with: {python-version: '3.12'}
+      - uses: actions/cache@v4
+        if: github.event_name != 'push'
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/huggingface
+          key: refurbish-clip-v1
+      - name: Install image model (CPU)
+        if: github.event_name != 'push'
+        run: |
+          pip install -q torch torchvision --index-url https://download.pytorch.org/whl/cpu
+          pip install -q open_clip_torch pillow
       - name: Run one cycle
         run: |
           ARGS="--hours ${{ github.event.inputs.hours || '6' }}"
