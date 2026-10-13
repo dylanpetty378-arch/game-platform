@@ -26,6 +26,31 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (04:00–06:00) — deep research, rubric, encyclopedia restructure
+- Dylan: passenger-seat size rule (hard exclusion), deep research on every scanned item, rubric of key facts per type and
+  per item, full dossiers for anything bought/sold, one working chat (scheduled review task deleted).
+- Encyclopedia moved to one file per type (`docs/encyclopedia/entries/`, `scripts/enc.py`); duplicate sections merged;
+  48 new researched entries (wave 1 of 417 types found in the 960 scanned listings); all 168 older entries upgraded
+  to the full template with machine-readable rubric (`enc.py lint` = 0). 216 entries total, synced to `item_types`.
+- Research findings that changed the process:
+  * Non-flagged listings hide the real leads: the best lead of the night (a "quartz" Jostens watch whose dial reads
+    21 Jewels — possible 14K, Tier A) was never flagged by Lens. Type research over ALL scanned items finds them.
+  * Lens medians are asking prices / category matches; > 5× asking price usually means a wrong match.
+  * Read text on the item (dial, base, labels) — it contradicts titles. Wrong names in titles ("Napoleon") are leads.
+  * Same photo posted twice → deduped in the queue now. Offensive-imagery / ivory items → excluded (eBay bans).
+  * Empty Lens reads ("Results are personalized") ran at 28% on the v1 worker at night → auto re-queued at ingest
+    (max 2 tries); 113 backfilled.
+  * Sold data: container can't reach eBay sold pages; WorthPoint paywalled; WebSearch is capped at 200 calls per chat
+    turn shared by all agents. Terapeak in Chrome works but bot protection (Radware) blocked it after ~160 queries with
+    3 parallel loops — run it sequentially, ≥ 2–3 s apart. 161 Terapeak queries imported to `comps`.
+  * Metals moved: silver ~$60.7/oz, gold ~$4,144/oz (Oct 2026) — entries pegged to older spot (silver-certificates,
+    scarab bracelets, wristwatch gold cases) need re-pegging; any small gold-tone piece with karat marks → ask for the mark.
+- Proposed (blocked by the safety classifier, needs Dylan's decision): let the Lens worker also run one Terapeak query
+  per Lens page from his browser and upload the comps — fully automatic sold data with no Claude tokens.
+- Known encyclopedia clean-ups: merge/alias overlapping entries (film-cameras ↔ film-slr-cameras, hohner-harmonicas ↔
+  hohner-chromatic-harmonicas, snap-on-tools ↔ snap-on-vintage-toolboxes, the three reel entries, duck ↔ fish decoys,
+  tube-radios ↔ bakelite-and-mid-century-radios); 120+ entries are confidence "low" until a Terapeak pass.
+
 ### 2026-10-13 (03:10) — review 41 flagged, what the labels say
 - Reviewed all 41 flagged (v1 reads): 0 keeps. Notables killed with reasons: modern cloisonné and Rose Medallion,
   Elgin GF hunter and Swiss Bijou watches at near-market asks, amateur-painted Limoges, unsigned cobalt salt-glaze jug

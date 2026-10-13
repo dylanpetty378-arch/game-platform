@@ -1,5 +1,8 @@
 # Beer steins (Mettlach, regimental, Westerwald, character, Budweiser/Anheuser-Busch, tourist)
-Updated: 2026-10-12 · Sources: appraisily antique beer stein value guide (Mettlach #2001 $9,775 Heritage 2022; Budweiser holiday $20–150, Clydesdale $30–100; regimental $1,000–3,500 – note appraisily figures run high vs eBay), Stein Collectors International knowledge, sweep listings 2026-10 (six German steins $20, 9 German steins $95, dozen milk-glass bas-relief $125, Budweiser Clydesdale $25, 1950s collectible steins $120).
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: appraisily antique beer stein value guide (Mettlach #2001 $9,775 Heritage 2022; Budweiser holiday $20–150, Clydesdale $30–100; regimental $1,000–3,500 – note appraisily figures run high vs eBay), Stein Collectors International knowledge, sweep listings 2026-10 (six German steins $20, 9 German steins $95, dozen milk-glass bas-relief $125, Budweiser Clydesdale $25, 1950s collectible steins $120).
+Slug: beer-steins · Aliases: beer stein, German stein, lidded stein, Mettlach, regimental stein, character stein, Westerwald, Budweiser stein, Clydesdale stein, stein collection
+Summary: Tourist West Germany relief, Avon, Budweiser holiday, milk glass $8–40; pre-1920 Westerwald, antique relief, Mettlach PUG $50–150; etched Mettlach, lithophane regimentals, Schierholz character $150–600; rare Mettlach/Navy regimentals/early glass $800–10,000.
+Buy rule (short): Mettlach castle mark or lithophane regimental visible and < $60; character < $40; pass West Germany relief > $10 each and unverified lots > $50.
 
 ## What it is / how to recognise it in a photo
 Lidded (pewter) or unlidded mug, stoneware or glass. The tells that separate $10 from $500:
@@ -11,6 +14,18 @@ Lidded (pewter) or unlidded mug, stoneware or glass. The tells that separate $10
 - **Tourist 1950s–90s** "Germany/West Germany" relief steins (Gerz, Thewalt, King, Zöller & Born, Rastal): **$10–40** each regardless of what the seller says; lidded 1 L a bit more.
 - **Milk glass / Fenton / Avon / Jim Beam / HOFB** novelty: $5–20.
 
+## Makers, brands and variants
+Mettlach/Villeroy & Boch (etched, chromolith, PUG, cameo/phanolith); Schierholz/Musterschutz and Bohne (character); Marzi & Remy, Thewalt, Merkelbach, Gerz, King, Zöller & Born, Rastal (relief/tourist, with older Marzi & Remy/Thewalt antique relief in the decent tier); regimental/Reservist (Imperial Navy the top); Westerwald salt-glaze (antique vs 20th c.); Creussen and Bohemian glass (17th–18th c., top); Anheuser-Busch by Ceramarte (holiday, Clydesdale, limited editions); American novelty (Falstaff, Avon, Jim Beam).
+
+## Materials, finishes and quality tells
+Etched (Mettlach): matte, inlaid colour with incised outlines you can feel. Relief (tourist): moulded, glossy, soft detail. PUG: flat transfer print under glaze. Lithophane: a porcelain base that shows a picture when held to light. Pewter lids: older ones have hand-finished thumblifts and hallmarks; newer are thin and stamped (general knowledge, verify). "West Germany" mark = 1949–1990; "Germany" alone is ambiguous (general knowledge, verify).
+
+## Condition, damage and repairs
+Chips at rim and base, hairlines, lid/hinge damage, missing lids, replaced lids (married), cracked lithophanes. Lid missing or replaced cuts value sharply on antique steins. Restoration shows under UV (general knowledge, verify).
+
+## Fakes, reproductions and reissues
+Post-1960s regimental reproductions (thin, glossy, no lithophane, "West Germany") $30–80. Reproduction Mettlach-style etched steins and fake castle marks exist (general knowledge, verify): check the form number, date code, and crisp inlaid colour. Modern character steins (King/Gerz) copy antique Schierholz designs.
+
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
 |---|---|---|---|
@@ -20,9 +35,12 @@ Lidded (pewter) or unlidded mug, stoneware or glass. The tells that separate $10
 | Top | Rare Mettlach 2xxx/3xxx, cameo/phanolith, Imperial Navy regimentals, 17th–18th c. Creussen/Bohemian glass | $800–10,000 | auction house, not eBay |
 
 ## Comps (sold, dated)
-- 2022 – Heritage – Mettlach #2001 King Gambrinus – $9,775 (appraisily)
+- 2022 – Heritage – Mettlach #2001 King Gambrinus – $9,775 (appraisily; note: Mettlach form 2001 is usually cited as the "book" stein series – verify this attribution)
 - 2021 – Hermann Historica – Imperial Navy regimental – $4,250 (appraisily; exceptional)
-- 2026-10 – CL various – 6 German steins $20, 9 German steins $95, dozen milk-glass $125, Budweiser Clydesdale $25 – all tourist/novelty, passed
+- 2026-10 – CL various – 6 German steins $20, 9 German steins $95, dozen milk-glass $125, Budweiser Clydesdale $25 – all tourist/novelty, passed (asks)
+
+## Market
+Huge supply of tourist steins (slow, cheap); a serious collector base (Stein Collectors International) for Mettlach, regimentals and character steins, served by specialist auctions (e.g. Fox Auctions) (general knowledge, verify). Budweiser steins have a nostalgia market with soft prices.
 
 ## What sellers usually miss
 The base. A Mettlach castle mark or a regimental with lithophane buried in a "German stein collection $50" lot. Photo tells: etched (matte, inlaid colour, sharp outlines) vs relief (moulded, glossy, tourist). Lithophane visible when the base is held to light.
@@ -30,8 +48,16 @@ The base. A Mettlach castle mark or a regimental with lithophane buried in a "Ge
 ## Shipping / handling
 Heavy and fragile: 2–4 lb each, double-box, $15–25 each way for one, $30–50 for a lot. Sell singles on eBay (13%); lots don't ship well.
 
+## Selling it (for the buyer-facing listing)
+State maker, mark, form number and date code (Mettlach), capacity (½ L, 1 L), lid type and condition, lithophane, any chips/hairlines. Photograph base mark, lid and thumblift, lithophane backlit, each side. Keywords: maker + form number + "etched" / "regimental" / "character" + "stein" + capacity + "lidded".
+
 ## Buy rule
-Buy when: a Mettlach castle mark or a lithophane regimental is visible and the piece is under $60; character steins under $40. Pass when: "West Germany" relief steins at any price over $10 each, any multi-stein lot over $50 without a verified Mettlach/regimental. Profit must be ≥ max($50, price) after fees and shipping both ways.
+Buy when: a Mettlach castle mark or a lithophane regimental is visible and the piece is under $60; character steins under $40. Pass when: "West Germany" relief steins at any price over $10 each, any multi-stein lot over $50 without a verified Mettlach/regimental. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (steins do).
+
+## Rubric
+```json
+{"size_class": "shoebox", "weight_lb": 4, "shape": "tall", "fragility": 4, "transit_damage_risk": 3, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 4, "id_difficulty": 4, "rarity": 2, "sold_per_month": "?", "sell_through": "?", "days_to_sell": "?", "price_p25_p50_p75": [15, 35, 150], "price_spread": 10.0, "condition_sensitivity": 4, "seasonality": "possibly Oct (Oktoberfest) and Nov–Dec (verify)", "best_platform": "eBay; specialist stein auctions for top tier", "fees_pct": 13, "ship_cost_to_buyer": 20, "undervalue_frequency": 2, "bust_probability": 40, "expected_profit_typical": 0, "confidence": "medium"}
+```
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist littlerock – 6 German beer steins – $20 – passed – tourist relief

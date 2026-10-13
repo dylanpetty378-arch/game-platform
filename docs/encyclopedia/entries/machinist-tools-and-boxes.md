@@ -1,8 +1,27 @@
-# Machinist tools & tool chests (Starrett, Kennedy, Gerstner, Brown & Sharpe)
-Updated: 2026-10-12 · Sources: eBay sold knowledge 2024–25 (Kennedy 520/526 chests $90–180, Gerstner oak $250–600, Starrett 798 8" digital caliper $150–220, 436 micrometer sets); craigslist listings this sweep.
+# Machinist tools & tool chests (Starrett, Kennedy, Gerstner, Brown & Sharpe, Mitutoyo, Lufkin)
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2024–25 (Kennedy 520/526 chests $90–180, Gerstner oak $250–600, Starrett 798 8" digital caliper $150–220, 436 micrometer sets); craigslist listings this sweep; Google Lens asking-price median from the 2026-10-13 sweep (asking-price based); remaining detail general knowledge, verify
+Slug: machinist-tools-and-boxes · Aliases: machinist toolbox, machinist chest, Kennedy toolbox, Gerstner chest, Starrett calipers, micrometer set, precision tools, vintage machinist tools, tool chest
+Summary: files/punches/reamers $1–5 each; Kennedy 1810 cantilever, Starrett 6" dial caliper, single mics $60–120; Kennedy 520/526 w/ base, Starrett 798, 436 mic sets, small Gerstners $150–300; Gerstner 11-drawer oak, master sets $400–1,000
+Buy rule (short): Kennedy 520/526 ≤ $50, Starrett 798 8" ≤ $60, Gerstner ≤ $120
 
 ## What it is / how to recognise it in a photo
-Kennedy: brown "wrinkle" or red steel machinist chest with drawers behind a drop front (520/526 = 7–8 drawer, 1810 cantilever = fold-open tray box). Gerstner: oak/walnut chest with felt-lined drawers and a leather handle. Starrett: "L.S. Starrett Athol Mass." on calipers, micrometers, squares, red plastic cases. Brown & Sharpe, Lufkin, Mitutoyo also good. Sellers write "machinist toolbox", "Kennedy toolbox", "Starrett calipers", "vintage machinist tools".
+Kennedy: brown "wrinkle" or red steel machinist chest with drawers behind a drop front (520/526 = 7–8 drawer, 1810 cantilever = fold-open tray box). Gerstner: oak/walnut chest with felt-lined drawers and a leather handle. Starrett: "L.S. Starrett Athol Mass." on calipers, micrometers, squares, red plastic cases. Brown & Sharpe, Lufkin, Mitutoyo also good. Look-alikes: Waterloo, Craftsman, Union, Weldon Tool Co, Homak and import chests (lower value). Sellers write "machinist toolbox", "Kennedy toolbox", "Starrett calipers", "vintage machinist tools".
+
+## Makers, brands and variants
+- **Kennedy Manufacturing** (Van Wert, OH) – 520, 526 machinist chests (with optional 529 base, general knowledge, verify), 1810 cantilever box; brown wrinkle finish older/most desirable to some, red and black later.
+- **H. Gerstner & Sons** (Dayton, OH, since 1906) – oak/walnut chests; 11-drawer oak (e.g. model 041) is the classic (general knowledge, verify model number).
+- **L.S. Starrett** (Athol, MA) – calipers (798 digital, 120 dial), micrometers (436 sets), combination squares, master sets; red cases.
+- **Brown & Sharpe** (Providence, RI; later North Kingstown), **Lufkin**, **Mitutoyo** (Japan), **Moore & Wright** (UK) – precision instruments.
+- Weldon Tool Co – metal tool chests, lower tier.
+
+## Materials, finishes and quality tells
+Kennedy: heavy-gauge steel, wrinkle paint, ball-bearing or felt-lined drawers, locking drop front with keys. Gerstner: solid quarter-sawn oak, felt-lined drawers, brass hardware, maker label/stamp inside. Instruments: hardened steel, satin chrome, crisp graduations; fitted wooden or red plastic cases. Old vs new: Starrett "Athol Mass" stampings and older case styles; Gerstner labels changed over time. (general knowledge, verify)
+
+## Condition, damage and repairs
+Chests: rust, dents, missing keys/base/drawer liners, repainted Kennedys, cracked Gerstner veneer, broken handles/locks. Instruments: dropped calipers (jaws not closing to zero), corroded or dead digital units, missing anvils/standards in mic sets, rust pitting. Ask: does the caliper zero, are all pieces in the set, are keys present.
+
+## Fakes, reproductions and reissues
+Counterfeit Mitutoyo digital calipers are common online; Starrett less so. Gerstner-style import chests ("International" line, Gerstner's own import line, and copies) – check labels and solid wood. (general knowledge, verify)
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
@@ -12,14 +31,30 @@ Kennedy: brown "wrinkle" or red steel machinist chest with drawers behind a drop
 | Collectible | Kennedy 520/526 w/ base, Starrett 798 8" digital, Starrett 436 mic sets, Gerstner small chests | $150–300 | |
 | Top | Gerstner 11-drawer oak, Starrett master sets, Moore & Wright, Brown & Sharpe vernier sets boxed | $400–1,000 | |
 
+## Comps (sold, dated)
+- 2024–25 – eBay sold (knowledge) – Kennedy 520/526 chests $90–180; Gerstner oak $250–600; Starrett 798 8" digital caliper $150–220
+- 2026-10-13 – Lens median for Weldon Tool Co metal tool chest – $76 (asking-price based, not sold)
+- No dated sold comps with exact dates yet.
+
+## Market
+Steady eBay demand from machinists, hobbyists and collectors; retiring-machinist estates supply the market. Starrett/Mitutoyo instruments sell quickly; chests sell well locally due to weight. (general knowledge, verify)
+
 ## What sellers usually miss
 A "vintage tools" lot can hide Starrett/B&S instruments – look for red cases and the Starrett script. Kennedy boxes with the original base and keys bring double. Tools "great for decorating" lots (files, pipe wrenches) are worth nothing.
 
 ## Shipping / handling
-Kennedy chest 25–35 lb, $45–60 to ship; calipers 1 lb, $10. Resell on eBay; fees 13%.
+Kennedy chest 25–35 lb, $45–60 to ship; calipers 1 lb, $10. Resell on eBay; fees 13%. Tape drawers shut and pad the drop front.
+
+## Selling it (for the buyer-facing listing)
+State maker, model, number of drawers, keys/base included, finish, interior condition; for instruments: range, resolution, zeroes correctly, case, all pieces. Photograph maker labels/stamps, interiors, keys, instrument graduations. Title keywords: "Kennedy 526 machinist chest brown wrinkle with keys", "Gerstner oak", "Starrett 798 0-8 digital caliper".
 
 ## Buy rule
-Buy when: Kennedy 520/526 ≤ $50, Starrett 798 8" ≤ $60, Gerstner ≤ $120. Pass when: file/punch/reamer piles, seller names the brand and asks market. Profit must be ≥ max($50, price) after fees and shipping both ways.
+Buy when: Kennedy 520/526 ≤ $50, Starrett 798 8" ≤ $60, Gerstner ≤ $120. Pass when: file/punch/reamer piles, seller names the brand and asks market. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Chests and instruments fit a passenger seat.
+
+## Rubric
+```json
+{"size_class": "carry-on", "weight_lb": 30, "shape": "irregular", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 2, "id_difficulty": 2, "rarity": 2, "sold_per_month": 1000, "sell_through": 50, "days_to_sell": 14, "price_p25_p50_p75": [60, 130, 250], "price_spread": 4.2, "condition_sensitivity": 3, "seasonality": "none", "best_platform": "eBay; local for chests", "fees_pct": 13, "ship_cost_to_buyer": 45, "undervalue_frequency": 3, "bust_probability": 30, "expected_profit_typical": 20, "confidence": "low"}
+```
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist detroit – Starrett digital caliper 0–8" – $125 – passed – resale $150–220, seller knows

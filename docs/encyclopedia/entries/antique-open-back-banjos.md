@@ -1,8 +1,29 @@
-# Antique open-back 5-string banjos (1880s–1920s)
-Updated: 2026-10-12 · Sources: eBay/Reverb sold knowledge, Elderly Instruments and Retrofret catalogue pricing, banjo collector sites (Mugwumps, Banjo Hangout classifieds)
+# Antique open-back 5-string banjos (1880s–1920s) (S.S. Stewart, Fairbanks, Vega, Bacon, Cole, Dobson, Washburn)
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay/Reverb sold knowledge, Elderly Instruments and Retrofret catalogue pricing, banjo collector sites (Mugwumps, Banjo Hangout classifieds)
+Slug: antique-open-back-banjos · Aliases: antique banjo, 5-string banjo, open back banjo, parlor banjo, Victorian banjo, fretless banjo, Whyte Laydie, Tubaphone
+Summary: Unmarked Buckbee-style/damaged $60–150; Stewart student, Washburn, plain Bacon $150–400; Whyte Laydie, Tubaphone, Thoroughbred, Cole's Eclipse $800–3,000; Fairbanks Electric/presentation $3,000–10,000.
+Buy rule (short): Stamped Fairbanks/Vega/Stewart/Cole/Bacon < $300 with straight neck; unmarked with engraved rim or tone ring < $100; pass plain unmarked > $60.
 
 ## What it is / how to recognise it in a photo
-Skin head, wooden rim with a spun-over metal "pot", many hook-and-nut tensioners, 5 strings (short 5th string peg on the side of the neck), friction (violin-style) pegs or early geared tuners, often a star/crescent inlay on the headstock. Makers to find, usually stamped on the dowel stick inside the rim or on the headstock back: **S.S. Stewart** (Philadelphia, engraved rim), **Fairbanks / Fairbanks-Vega** (Whyte Laydie, Tubaphone – tone ring = money), **Bacon**, **Cole's Eclipse**, **Dobson**, **Gatcomb**, **Washburn (Lyon & Healy)**, **Orpheum**. Unmarked "Buckbee"-made catalogue banjos (star inlay, simple nickel rim, 1890–1910) are the common tier. Tells of value: fancy engraved metal rim, a visible tone ring (metal ring under the head), heavy pearl inlay, name stamped on the dowel stick, 11" or larger pot with 20+ brackets.
+Skin head, wooden rim with a spun-over metal "pot", many hook-and-nut tensioners, 5 strings (short 5th string peg on the side of the neck), friction (violin-style) pegs or early geared tuners, often a star/crescent inlay on the headstock. Makers to find, usually stamped on the dowel stick inside the rim or on the headstock back: **S.S. Stewart** (Philadelphia, engraved rim), **Fairbanks / Fairbanks-Vega** (Whyte Laydie, Tubaphone – tone ring = money), **Bacon**, **Cole's Eclipse**, **Dobson**, **Gatcomb**, **Washburn (Lyon & Healy)**, **Orpheum**. Unmarked "Buckbee"-made catalogue banjos (star inlay, simple nickel rim, 1890–1910) are the common tier. Tells of value: fancy engraved metal rim, a visible tone ring (metal ring under the head), heavy pearl inlay, name stamped on the dowel stick, 11" or larger pot with 20+ brackets. Look-alikes: resonator banjos (closed back, 1920s+), 4-string tenor/plectrum banjos, banjo-ukes and banjo-mandolins (general knowledge, verify).
+
+## Makers, brands and variants
+- **S.S. Stewart** (Philadelphia) – student models and Universal Favorite decent ($350–600 playable); Thoroughbred and presentation grades collectible/top.
+- **A.C. Fairbanks / Fairbanks & Cole / Vega** – Whyte Laydie No.2/No.7 ($1,500–2,500 for No.2), Electric (top), Vega Tubaphone (collectible; #9 top).
+- **Cole's Eclipse** – collectible.
+- **Bacon** – plain models decent.
+- **Dobson, Gatcomb, Orpheum** – mid to collectible depending on grade (general knowledge, verify).
+- **Washburn (Lyon & Healy)** – decent.
+- **Buckbee** (unmarked catalogue banjos) – common tier.
+
+## Materials, finishes and quality tells
+Maple or walnut neck, ebony or rosewood fingerboard, pearl inlay; nickel-plated brass rim; skin (calfskin) head. Quality tells: engraved rim, tone ring, number of brackets (20+), carved heel, ebony fretboard, pearl inlay, stamped dowel stick. Cheap ones: plain spun rim, few brackets, painted "ebonised" fingerboard, simple star inlay (general knowledge, verify).
+
+## Condition, damage and repairs
+Common: missing hooks/nuts, torn skin head, missing strings, worn frets. Value killers: cracked rim, warped neck (repair rule – pass). A torn head or missing hooks is cheap to fix; a replaced neck or refinish hurts collectible value (general knowledge, verify). Ask for a side photo along the neck and a photo inside the rim showing the dowel stick.
+
+## Fakes, reproductions and reissues
+No significant fakes. Later reissue Whyte Laydie/Tubaphone models (e.g. Vega/Deering-era) exist – check the dowel stick stamp and serial (general knowledge, verify). Married parts (replacement necks) are the main risk.
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
@@ -17,14 +38,25 @@ Skin head, wooden rim with a spun-over metal "pot", many hook-and-nut tensioners
 - 2025–26 – S.S. Stewart Universal Favorite, playable – $350–600 (eBay/Reverb)
 - 2025–26 – Fairbanks Whyte Laydie No.2 – $1,500–2,500 (Reverb/Elderly)
 
+## Market
+Old-time/clawhammer players buy playable open-backs; collectors buy named high-grade models. Sells on Reverb, Banjo Hangout classifieds, and through dealers (Elderly, Retrofret, Mugwumps). Unmarked wall-hangers are slow (general knowledge, verify).
+
 ## What sellers usually miss
 The dowel-stick stamp (ask for a photo looking inside the rim) and tone ring. "Antique banjo 1900" with a star headstock and a plain nickel rim is a Buckbee – pass unless under $60.
 
 ## Shipping / handling
 Long box (40×16×8), 6–8 lb: $40–60 ground. Reverb 8%. Pad the neck; drop the head tension before shipping.
 
+## Selling it (for the buyer-facing listing)
+State maker/model (dowel-stick stamp), serial, pot diameter, bracket count, scale length, tone ring or not, playability (neck straight, action), head condition, missing parts. Photograph headstock front/back, inside the rim, the stamp, the heel, and a side view along the neck. Keywords: maker + model + "open back banjo" + "5 string" + "antique" + "clawhammer".
+
 ## Buy rule
-Buy when: any stamped Fairbanks/Vega/Stewart/Cole/Bacon under $300 with straight neck; unmarked with engraved rim or tone ring under $100. Pass when: unmarked plain rim over $60; cracked rim or warped neck (repair rule). Profit must be ≥ max($50, price).
+Buy when: any stamped Fairbanks/Vega/Stewart/Cole/Bacon under $300 with straight neck; unmarked with engraved rim or tone ring under $100. Pass when: unmarked plain rim over $60; cracked rim or warped neck (repair rule). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (it does).
+
+## Rubric
+```json
+{"size_class": "passenger-seat", "weight_lb": 8, "shape": "irregular", "fragility": 3, "transit_damage_risk": 3, "hidden_defect_risk": 4, "testability": 4, "repro_risk": 2, "id_difficulty": 4, "rarity": 3, "sold_per_month": "?", "sell_through": "?", "days_to_sell": "?", "price_p25_p50_p75": [90, 150, 450], "price_spread": 5.0, "condition_sensitivity": 4, "seasonality": "none known", "best_platform": "Reverb / Banjo Hangout", "fees_pct": 8, "ship_cost_to_buyer": 50, "undervalue_frequency": 3, "bust_probability": 35, "expected_profit_typical": 10, "confidence": "medium"}
+```
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist Chico (SF) – "Antique Banjo 1900" – $120 – passed – unmarked catalogue 5-string, friction pegs, star inlay, missing one string and two hooks, dusty; resale $100–150.

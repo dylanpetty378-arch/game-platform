@@ -1,5 +1,8 @@
-# Clarinets
-Updated: 2026-10-12 · Sources: alamomusic.com (pre-owned Selmer Paris Series 9 $2,000); palenmusic.com (restored Selmer USA Signet Soloist $495); reverb.com Selmer Centered Tone listing; run12 sheet 63
+# Clarinets (Selmer Paris, Selmer USA/Bundy, Buffet Crampon, Leblanc, Yamaha)
+Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: alamomusic.com (pre-owned Selmer Paris Series 9 $2,000); palenmusic.com (restored Selmer USA Signet Soloist $495); reverb.com Selmer Centered Tone listing; run12 sheet 63
+Slug: clarinets · Aliases: Bb clarinet, B-flat clarinet, student clarinet, wood clarinet, Selmer clarinet, Buffet clarinet, Bundy clarinet, band instrument
+Summary: Plastic student (Bundy, CL300, Yamaha 250, B12) $50–150; wood intermediates (Signet, E11, Noblet, Vito wood) $150–400; Selmer Paris Series 9/10, Buffet R13 $800–1,800; Centered Tone, 1960s R13, matched pairs, bass clarinets $1,500–4,000.
+Buy rule (short): Buy only with a visible Selmer Paris or Buffet R13 stamp under $400 and no cracks; pass plastic student horns over $40.
 
 ## What it is / how to recognise it in a photo
 Bb soprano clarinet in a case. Value is all in the maker + model stamped on the upper joint/bell, and wood vs plastic:
@@ -9,27 +12,60 @@ Bb soprano clarinet in a case. Value is all in the maker + model stamped on the 
 - Leblanc, Yamaha YCL-650/CSV (pro $600–1,200), Yamaha 250/255 student $80–150. Vintage Conn, Penzel-Mueller, Noblet wood: $80–250.
 Tell: grenadilla wood is dull black with visible grain; plastic/resonite is glossy uniform. Nickel vs silver keys matters little; cracks and missing pads matter a lot.
 
+## Makers, brands and variants
+- **Henri Selmer Paris**: Centered Tone (1950s, top), Series 9 / 9*, 10G, Recital, Signature.
+- **Selmer USA / Conn-Selmer (Elkhart)**: Signet Soloist/Special (wood), Bundy, CL300/CL301 (plastic student).
+- **Buffet Crampon (France/Germany)**: R13 (pro benchmark; 1960s R13 top), Festival, Prestige; E11/E12 intermediate; B12 student.
+- **Leblanc** (incl. Noblet, Vito – Vito wood intermediate).
+- **Yamaha**: YCL-650, CSV pro; 250/255 student.
+- **Vintage**: Conn, Penzel-Mueller, Noblet wood; metal clarinets (Conn, Pedler) are a small curiosity market (general knowledge, verify).
+- Multipliers: A/Bb matched pairs, bass clarinets, alto clarinets in good order.
+
+## Materials, finishes and quality tells
+Grenadilla (African blackwood) = intermediate/pro; plastic/resonite = student. Pro horns have hand-forged keys, the model stamp under the logo (R13 stamped under Buffet logo), serial numbers on the joints (date the instrument). Silver-plated vs nickel keys matters little.
+
+## Condition, damage and repairs
+Cracks in the upper joint (especially around tone holes and tenons) are the big value killer; pinned crack repairs are acceptable if done well but reduce value. Missing/torn pads, cork tenon wear, bent keys, missing barrel/mouthpiece, mismatched joints. Pro horns usually need a $100–150 repad. Ask for close-ups of the upper joint stamp and the full length of the upper joint for cracks.
+
+## Fakes, reproductions and reissues
+Chinese "stencil" clarinets with invented brand names; occasional counterfeit Buffet stamps on Asian-made bodies (general knowledge, verify). Mismatched joints from different instruments ("married" horns) reduce value.
+
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
 |---|---|---|---|
 | Junk / common | Bundy, CL300, Yamaha 250, B12, no-name Chinese | $50–150 | most Craigslist listings |
 | Decent | wood intermediates: Signet, Buffet E11, Noblet, Vito wood | $150–400 | |
-| Collectible | Selmer Paris Series 9/10, Buffet R13 playing condition | $800–1,800 | needs overhaul check |
+| Collectible | Selmer Paris Series 9/10, Buffet R13 playing condition | $800–1,800 | needs overhaul check (the identification section cites $800–2,500 used for Selmer Paris pro models) |
 | Top | Centered Tone, R13 1960s, A/Bb matched pairs, bass clarinets | $1,500–4,000 | |
 
 ## Comps (sold, dated)
-- 2025 – Selmer Paris Series 9, pre-owned – $2,000 ask (Alamo Music)
+- 2025 – Selmer Paris Series 9, pre-owned – $2,000 **ask** (Alamo Music – dealer asking, not a sold comp)
 - 2025 – Selmer USA Signet Soloist 1960s, professionally restored – $495 (Palen Music, sold out)
 - 2025 – Selmer CL300/Bundy plastic – $75–130 band (eBay sold, agent knowledge)
+
+## Market
+Huge supply of student horns (school band leftovers) – slow, cheap, saturated, peaks in Aug–Sept back-to-school season. Pro horns sell steadily on Reverb/eBay and to repair techs/dealers; buyers want serial numbers and recent overhaul (general knowledge, verify).
 
 ## What sellers usually miss
 "Selmer" alone – they don't distinguish Paris from USA/Bundy. The Paris stamp and the model name are on the upper joint; always ask for that photo. Also "Buffet" student B12 vs R13 (R13 has the model stamped under the Buffet logo).
 
 ## Shipping / handling
-~4 lb with case, $15–20 each way. Sell on Reverb/eBay; many buyers want a tech's play-test, so budget $100–150 for a repad on pro horns.
+~4 lb with case, $15–20 each way. Sell on Reverb/eBay; many buyers want a tech's play-test, so budget $100–150 for a repad on pro horns. Ship in its case inside a box; wood horns should avoid temperature extremes (crack risk).
+
+## Selling it (for the buyer-facing listing)
+Maker, model, serial number (and year), material, crack history (state "no cracks" only if verified), pad condition, what's included (barrel, mouthpiece, ligature, case). Photograph stamps on upper joint and bell, serials, full-length shots of each joint, tone holes. Title: "Buffet R13 Bb Clarinet serial xxxx wood".
 
 ## Buy rule
-Buy when: Selmer Paris or Buffet R13 stamp visible under $400, no cracks. Pass when: plastic student line at any price over $40, or "Selmer" with the modern blue-badge case (7613). Profit must be ≥ max($50, price).
+Buy when: Selmer Paris or Buffet R13 stamp visible under $400, no cracks. Pass when: plastic student line at any price over $40, or "Selmer" with the modern blue-badge case (7613). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
+
+## Rubric
+```json
+{"size_class": "carry-on", "weight_lb": 5, "shape": "flat",
+ "fragility": 3, "transit_damage_risk": 2, "hidden_defect_risk": 4, "testability": 4, "repro_risk": 2, "id_difficulty": 3,
+ "rarity": 2, "sold_per_month": 400, "sell_through": "?", "days_to_sell": 30, "price_p25_p50_p75": [75, 130, 450], "price_spread": 6,
+ "condition_sensitivity": 4, "seasonality": "Aug–Sept back-to-school for student horns", "best_platform": "Reverb / eBay", "fees_pct": 13, "ship_cost_to_buyer": 18,
+ "undervalue_frequency": 2, "bust_probability": "40%", "expected_profit_typical": -20, "confidence": "medium"}
+```
 
 ## Seen in sweeps
 - 2026-10-12 – craigslist desmoines – "Selmer Clarinet", modern black Selmer case, seller says retails $800 – $200 – passed – Selmer USA student (CL300-type), sells $100–150
