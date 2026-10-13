@@ -1,21 +1,22 @@
 {
- "updated": "2026-10-13T02:49:21Z",
+ "updated": "2026-10-13T02:50:32Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
   "lens": 904,
-  "events": 5901,
+  "events": 6113,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 374,
-  "queued": 3732,
+  "queued": 3722,
+  "queued/relens": 212,
   "comps/pass": 1,
-  "lensed": 450,
-  "flagged": 35,
+  "lensed": 261,
+  "flagged": 22,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
@@ -211,17 +212,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7930176584",
-   "title": "mens vintage silver  round Tradition electronic watch",
-   "price": 20,
-   "area": "louisville",
-   "url": "https://www.craigslist.org/view/d/mount-saint-francis-mens-vintage-silver/uWhPRZtfe2BDeNUzJmnqeP",
-   "best": "TRADITION VINTAGE SWISS MADE 17 JEWELS WINDING MECHANICAL ...",
-   "med": 200,
-   "ratio": 10,
-   "ai_value": ""
-  },
-  {
    "pid": "7955389584",
    "title": "Vintage Borghese Bookend",
    "price": 30,
@@ -266,28 +256,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7937592260",
-   "title": "Set of copper candle stick holders vintage",
-   "price": 50,
-   "area": "miami",
-   "url": "https://www.craigslist.org/view/d/pompano-beach-set-of-copper-candle/kKDThUDyu7TshkaUAZUcDy",
-   "best": "Vintage Tin Washed Copper Candle Holder United Arab Republic ...",
-   "med": 300,
-   "ratio": 6,
-   "ai_value": ""
-  },
-  {
-   "pid": "7952421314",
-   "title": "Antique Hurricane Pink Lamp Shade",
-   "price": 50,
-   "area": "medford",
-   "url": "https://www.craigslist.org/view/d/gold-hill-antique-hurricane-pink-lamp/6wvX7o8UrdZwYQK3J4cAQG",
-   "best": "Antique Pink Glass Hurricane Shade - Etsy",
-   "med": 290,
-   "ratio": 5.8,
-   "ai_value": ""
-  },
-  {
    "pid": "7956636875",
    "title": "Antique- Middle East (Turkish) Brass Coffee/Tea Pot",
    "price": 30,
@@ -299,17 +267,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7979197665",
-   "title": "Vintage New Haven Clock Co. (est 1817) Vermont Model - Works REDUCED",
-   "price": 50,
-   "area": "slo",
-   "url": "https://www.craigslist.org/view/d/arroyo-grande-vintage-new-haven-clock/5jYHzgpHBhAaHt9cBbETWs",
-   "best": "Vintage Working 1950's NEW HAVEN 8 Day Maple Steeple ...",
-   "med": 260,
-   "ratio": 5.2,
-   "ai_value": ""
-  },
-  {
    "pid": "7961860176",
    "title": "Fine China Coffee Set",
    "price": 45,
@@ -318,28 +275,6 @@
    "best": "Vintage Johnson Bros. Indies White - Blue Floral Ironstone ...",
    "med": 231,
    "ratio": 5.13,
-   "ai_value": ""
-  },
-  {
-   "pid": "7949415374",
-   "title": "Vintage Chinese Jar with Lid (Hair Receiver)",
-   "price": 48,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/new-york-vintage-chinese-jar-with-lid/7v6uq5LjpsBXvwPFDGAMmq",
-   "best": "Antique Chinese Jar With Lid (hair Receiver) - Etsy",
-   "med": 241,
-   "ratio": 5.02,
-   "ai_value": ""
-  },
-  {
-   "pid": "7957891406",
-   "title": "Antique Parlor Lamp",
-   "price": 125,
-   "area": "providence",
-   "url": "https://www.craigslist.org/view/d/hope-valley-antique-parlor-lamp/8FYYk77M83NNX2Rh82tNBK",
-   "best": "Antique Very Large Parlor Hand Painted Gone with the Wind ...",
-   "med": 490,
-   "ratio": 3.92,
    "ai_value": ""
   },
   {
@@ -387,17 +322,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7928248506",
-   "title": "Roses on canvas with frame",
-   "price": 60,
-   "area": "seattle",
-   "url": "https://www.craigslist.org/view/d/sammamish-roses-on-canvas-with-frame/2cxVEyZt6SzgxjXyegbyKi",
-   "best": "Climbing Roses Yellow Orange 24x48\u201d oil on canvas",
-   "med": 198,
-   "ratio": 3.3,
-   "ai_value": ""
-  },
-  {
    "pid": "7939879293",
    "title": "Antique Limoges porcelain jardiniere,signed by artist 1902",
    "price": 150,
@@ -409,28 +333,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7942463736",
-   "title": "Vintage Green Cameo Uranium Depression Glass Vase",
-   "price": 30,
-   "area": "lasvegas",
-   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-green-cameo-uranium/tqUNXibkQhzj5jMjDKadbK",
-   "best": "Cameo Green Depression Uranium Glass Vase | One Kings Lane",
-   "med": 95,
-   "ratio": 3.17,
-   "ai_value": ""
-  },
-  {
-   "pid": "7961697087",
-   "title": "Vintage Green Cameo Uranium Depression Glass Vase",
-   "price": 70,
-   "area": "lasvegas",
-   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-green-cameo-uranium/iVxyEBu2NBZmceoYyp5J3f",
-   "best": "Hocking Cameo / Ballerina Green Small Footed Vase | eBay",
-   "med": 220,
-   "ratio": 3.14,
-   "ai_value": ""
-  },
-  {
    "pid": "7940687295",
    "title": "Vintage 1970's Choker Necklaces",
    "price": 30,
@@ -439,17 +341,6 @@
    "best": "Big lot of 15 sterling silver, bead, necklaces tested chains ...",
    "med": 80,
    "ratio": 2.67,
-   "ai_value": ""
-  },
-  {
-   "pid": "7942906937",
-   "title": "Balalayka (musical instrument)",
-   "price": 80,
-   "area": "sacramento",
-   "url": "https://www.craigslist.org/view/d/elverta-balalayka-musical-instrument/qyMfRvkkRyuuLc1G7zGMJG",
-   "best": "Vintage Old Balalaika, Made in the USSR, 3 Strings, Natural ...",
-   "med": 179,
-   "ratio": 2.24,
    "ai_value": ""
   },
   {
@@ -472,17 +363,6 @@
    "best": "Antique Sessions Parlor Kitchen Mantle Clock with chime ...",
    "med": 295,
    "ratio": 1.97,
-   "ai_value": ""
-  },
-  {
-   "pid": "7949206110",
-   "title": "Lap Harp",
-   "price": 75,
-   "area": "sacramento",
-   "url": "https://www.craigslist.org/view/d/elverta-lap-harp/d5GoYMDwqi1wXw1tJWoRjU",
-   "best": "ANTIQUE AMERICAN THE BELL HARP CO ZITHER /AUTOHARP 19\" X 12 ...",
-   "med": 134,
-   "ratio": 1.79,
    "ai_value": ""
   },
   {
@@ -516,28 +396,6 @@
    "best": "WORKING Victorian Clock New Haven Clock Co. USA Decorative ...",
    "med": 110,
    "ratio": 1.11,
-   "ai_value": ""
-  },
-  {
-   "pid": "7952316899",
-   "title": "New Haven Victorian Clock",
-   "price": 99,
-   "area": "minneapolis",
-   "url": "https://www.craigslist.org/view/d/minneapolis-new-haven-victorian-clock/nhrotaSKtYC7uur8cthWXu",
-   "best": "WORKING Victorian Clock New Haven Clock Co. USA Decorative ...",
-   "med": 95,
-   "ratio": 0.96,
-   "ai_value": ""
-  },
-  {
-   "pid": "7976897940",
-   "title": "Antique Picture and Frame",
-   "price": 125,
-   "area": "boston",
-   "url": "https://www.craigslist.org/view/d/malden-antique-picture-and-frame/42JwgHqJpAd63iJNxCeGz8",
-   "best": "Charles Haigh Wood - Etsy",
-   "med": 110,
-   "ratio": 0.88,
    "ai_value": ""
   },
   {
