@@ -1,90 +1,30 @@
 {
- "updated": "2026-10-13T19:02:43Z",
+ "updated": "2026-10-13T21:58:38Z",
  "tables": {
-  "harvests": 7,
+  "harvests": 8,
   "searches": 1728,
-  "listings": 7807,
+  "listings": 8945,
   "lens": 6849,
-  "events": 24199,
+  "events": 26269,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 6683,
+  "photo_review/kill": 7211,
   "lensed": 332,
   "comps/pass": 1,
   "queued/relens": 275,
-  "decided/ask": 58,
-  "decided/bundle": 7,
-  "decided/kill": 8,
-  "decided/pass": 1,
-  "flagged": 416,
+  "decided/ask": 59,
+  "decided/bundle": 5,
+  "decided/kill": 40,
+  "flagged": 415,
+  "expired": 10,
   "decided/find": 9,
   "comps/fail": 5,
-  "expired": 9,
-  "queued": 4
+  "queued": 804
  },
  "last_harvests": [
-  {
-   "harvest_id": "craigslist-20261013-0047",
-   "source": "craigslist",
-   "hours": 4.0,
-   "cats": "ata,cba,clt,ele,emd,hab,hsh,jwa,msa,pha,spo,sys,tls,tag,vga,bik,bop,boo,clo,mob,mpo,rvs,wan,for,hsd,gms,art,fua,atq",
-   "n_listings": 66174,
-   "n_new": 65291,
-   "n_selected": 800,
-   "learned": {
-    "ata": 0.18,
-    "cba": -0.05,
-    "ele": -0.01,
-    "emd": -0.03,
-    "hab": -0.04,
-    "jwa": -0.07,
-    "pha": -0.03,
-    "spo": -0.03,
-    "tls": -0.04,
-    "tag": 0.03,
-    "bop": -0.01,
-    "clo": 0.04,
-    "mob": -0.01,
-    "for": -0.03,
-    "fua": 0.04
-   },
-   "failed_requests": 0,
-   "requests": 11977,
-   "by_cat": {
-    "ata": 2445,
-    "cba": 7001,
-    "ele": 3923,
-    "emd": 729,
-    "hab": 1414,
-    "hsh": 8427,
-    "jwa": 981,
-    "msa": 1544,
-    "pha": 539,
-    "spo": 4268,
-    "sys": 528,
-    "tls": 3943,
-    "tag": 1999,
-    "vga": 433,
-    "bik": 914,
-    "bop": 700,
-    "boo": 61,
-    "clo": 5432,
-    "mob": 202,
-    "mpo": 680,
-    "wan": 667,
-    "for": 12412,
-    "gms": 139,
-    "art": 1957,
-    "fua": 4829,
-    "rvs": 4,
-    "hsd": 3
-   },
-   "by": "github-actions",
-   "ts": "2026-10-13T00:58:26Z"
-  },
   {
    "harvest_id": "craigslist-20261013-0537",
    "source": "craigslist",
@@ -358,6 +298,97 @@
    },
    "by": "github-actions",
    "ts": "2026-10-13T16:26:09Z"
+  },
+  {
+   "harvest_id": "craigslist-20261013-2137",
+   "source": "craigslist",
+   "hours": 6.0,
+   "cats": "ata,cba,clt,ele,emd,hab,hsh,jwa,msa,pha,spo,sys,tls,tag,vga,bik,bop,boo,clo,mob,mpo,rvs,wan,for,hsd,gms,art,fua,atq",
+   "n_listings": 135787,
+   "n_new": 135236,
+   "n_selected": 800,
+   "learned": {
+    "pha": -0.96,
+    "jwa": 1.85,
+    "mob": -0.15,
+    "ata": -0.75,
+    "clo": -0.14,
+    "tag": 1.07,
+    "cba": -0.22,
+    "fua": -1.67,
+    "ele": 0.8,
+    "spo": 0.93,
+    "hsh": -0.52,
+    "tls": -1.55,
+    "for": -1.09,
+    "hab": -0.71,
+    "bop": -0.75,
+    "bik": -0.88,
+    "art": 1.59,
+    "mpo": -0.62,
+    "emd": 0.75,
+    "msa": 1.32,
+    "sys": -0.18,
+    "boo": -0.03,
+    "vga": -0.06,
+    "clt": -0.03,
+    "hsd": -0.03,
+    "atq": -0.03,
+    "Jewelry & Gemstones > Watches > Men's Watches": -0.1,
+    "Art > Prints": 0.26,
+    "Collectibles > Knives/Swords": -0.12,
+    "Art > Paintings": -0.59,
+    "Art > Sculptures": -0.12,
+    "Jewelry & Gemstones > Rings": -0.15,
+    "Glass > Art Glass": -0.03,
+    "Art > Pottery": -0.15,
+    "Antiques": -0.15,
+    "Books > Antique/Collectible": -0.03,
+    "Art > Indigenous Art": -0.12,
+    "Miscellaneous": -0.03,
+    "Science & Education > Telescopes": -0.03,
+    "Science & Education": -0.06,
+    "Art > Posters": -0.03,
+    "Art": -0.1,
+    "Jewelry & Gemstones > Watches > Women's Watches": -0.03,
+    "Art > Drawings": -0.03,
+    "Bulk > Jewelry & Gemstones": -0.03
+   },
+   "failed_requests": 19,
+   "requests": 11977,
+   "by_cat": {
+    "ata": 5691,
+    "cba": 14627,
+    "ele": 7336,
+    "emd": 1494,
+    "hab": 2680,
+    "hsh": 15688,
+    "jwa": 2064,
+    "msa": 4079,
+    "pha": 1060,
+    "spo": 9796,
+    "sys": 1672,
+    "tls": 8721,
+    "tag": 3760,
+    "vga": 812,
+    "bik": 2749,
+    "bop": 1410,
+    "boo": 251,
+    "clo": 10293,
+    "mob": 830,
+    "mpo": 1352,
+    "wan": 1229,
+    "for": 23381,
+    "gms": 230,
+    "art": 3165,
+    "fua": 11401,
+    "rvs": 10,
+    "hsd": 3,
+    "atq": 2,
+    "clt": 1
+   },
+   "by": "github-actions",
+   "ts": "2026-10-13T21:58:26Z"
   }
  ],
  "flagged_waiting": [
@@ -481,17 +512,6 @@
    "med": 21995,
    "ratio": 109.97,
    "ai_value": ""
-  },
-  {
-   "pid": "7981826904",
-   "title": "Vintage Omega Ladymatic Watch",
-   "price": 80,
-   "area": "austin",
-   "url": "https://www.craigslist.org/view/d/round-rock-vintage-omega-ladymatic-watch/odJ8aJU5zJfvnrZcJF8gWY",
-   "best": "Finchley Watches",
-   "med": 6500,
-   "ratio": 81.25,
-   "ai_value": "Value: Pre-owned and vintage market values generally range from roughly $500 to $900"
   },
   {
    "pid": "7976662893",
@@ -4970,16 +4990,6 @@
    "status": "ask"
   },
   {
-   "pid": "7982048130",
-   "title": "Vintage brutalist necklace",
-   "price": 35,
-   "area": "phoenix",
-   "url": "https://www.craigslist.org/view/d/gilbert-vintage-brutalist-necklace/jJ56LcEwryUHVhyi1umHTa",
-   "note": "handmade 1970s brutalist brass wire collar necklace with 3 caged red glass/carnelian-type cabochons, unsigned in photos \u2014 Ask for a close photo of the back of the center panel and the clasp/jump ring for any artist mark, 'Sterling'/925 or Scandinavian/Israeli hallmark. Signed studio brutalist (or real carnelian + silver) = $150+; unsigned brass = $40-70 and kill. $35 ask",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7959199503",
    "title": "Vintage Spear Fishing Decoys",
    "price": 20,
@@ -5020,26 +5030,6 @@
    "status": "ask"
   },
   {
-   "pid": "7928235845",
-   "title": "VINTAGE IRISH CRYSTAL PITCHER!",
-   "price": 18,
-   "area": "kansascity",
-   "url": "https://www.craigslist.org/view/d/lenexa-vintage-irish-crystal-pitcher/s5h5a2GL1RP6FyfDpBDzRz",
-   "note": "American Brilliant/late floral period (c.1905-1915) cut-glass 11in tankard pitcher: hobstar & crosshatch bands, engraved daisies, notched applied handle \u2014 Ask the seller to tilt the pitcher under a light and photograph inside the base and the top of the handle for an acid-etched signature (Hawkes, Libbey, Clark, Sinclaire, Tuthill). Signed = $150-250 (Libbey/Hawkes comps $60 median for bowls, pitchers run higher) -> clears $50 at $18; unsigned = $60-90 and only ~$10-25 profit after 2x heavy ship. Seller calls it 'Irish' but cutting style is American floral-brilliant",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7940963378",
-   "title": "*Antique fiddle bow*",
-   "price": 75,
-   "area": "neworleans",
-   "url": "https://www.craigslist.org/view/d/mandeville-antique-fiddle-bow/sQW8v2mahU5kr5vUrvTAhA",
-   "note": "Nickel-mounted (wire winding, plain ebony frog) trade violin bow, 29.5in, 48.8g, seller says \"maybe Mirecourt 1920s\" with no proof. Unstamped trade-bow tier $100-300 (low end $100, no comp) gives about -$8 profit at $75. Ask: is there a maker stamp on the stick just above the frog (photo), is the stick pernambuco, is it straight/uncracked; offer about $35-40 unstamped; buy at $75 only if stamped Mirecourt/German workshop.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7951164883",
    "title": "Vintage Eye Glasses Lot",
    "price": 50,
@@ -5056,16 +5046,6 @@
    "area": "raleigh",
    "url": "https://www.craigslist.org/view/d/richmond-vintage-hummel-figurines/vQodnYWAmNzSDgPM9mzZa3",
    "note": "Terapeak 365d sold: full-bee singles ~$25. 20 claimed TMK-2 for $15 \u2192 ~$380 if the marks are real. ASK base photos (V-bee).",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7964602944",
-   "title": "Miscellaneous costume jewelry",
-   "price": 20,
-   "area": "tampa",
-   "url": "https://www.craigslist.org/view/d/new-port-richey-miscellaneous-costume/kwRzqyA3FuzMrEE2QRJW55",
-   "note": " \u2014 mixed costume jewelry lot: rhinestone brooches, butterfly brooch, rings, bead necklaces, watch, boxed set|$20 lot; '3 lb unsearched' lots sell ~$50 but only signed/sterling pieces make it pay - ask: close-up of backs of the brooches and ring shanks for 'Sterling/925' or signatures (Trifari, Coro, Monet)",
    "stage": "decided",
    "status": "ask"
   },
@@ -5110,32 +5090,12 @@
    "status": "find"
   },
   {
-   "pid": "7982453061",
-   "title": "Box of vinyl albums",
-   "price": 75,
-   "area": "sd",
-   "url": "https://www.craigslist.org/view/d/fargo-box-of-vinyl-albums/9VpT9RxJT5hLk4fWEfTZmQ",
-   "note": "box of ~50 1970s LPs: Heart Dreamboat Annie, Kool & Gang GH, Al Green, Frampton Comes Alive, Rita Coolidge, Ronstadt Simple Dreams, Eagles Hotel California, Steve Miller, Rufus x2, EWF Spirit, Commodores, Marvin Gaye Let's Get It On \u2014 $1.50/record with ~6 soul/funk titles visible ($8-15 each) \u2014 entry rule wants >=3 valuable originals at <=$1-2/record; ASK: photo of all spines + vinyl condition; if 10+ soul/funk titles clean it is worth $75 (sell singly); medium-low confidence, heavy",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7981875915",
    "title": "Vintage African Wildlife Figurines",
    "price": 50,
    "area": "nh",
    "url": "https://www.craigslist.org/view/d/wrentham-vintage-african-wildlife/eCxn4rpo5SvUr4UqgcG8h8",
    "note": "Terapeak 365d sold: Tonal\u00e1 papier-m\u00e2ch\u00e9 hippo sold $64 (n=1, thin). 7 pieces for $50 \u2192 up to ~$300. ASK underside photos for SERMEL stamp.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7951514190",
-   "title": "Vintage Lighters",
-   "price": 40,
-   "area": "savannah",
-   "url": "https://www.craigslist.org/view/d/fernandina-beach-vintage-lighters/8df2VNhfUAHYLMYQzX9Phe",
-   "note": "Six Zippo-style lighters (one Michael Waltrip #15 NASCAR Zippo, one engraved Zippo, one ribbed Park-type, brass trench/tube lighter, Ronson flints box). Value hinges on bottom stamps: a Zippo with \"PAT. 2032695\" and 4-barrel hinge (1937-50) or \"PAT. PEND.\" 3-barrel sells $50-150 each; 1970s+ date-coded bottoms $10-15. Ask for a photo of every bottom stamp. As-is lot est. $60 (no comp) -> profit ~$2; only buy if a pre-1950 bottom shows. Tier C.",
    "stage": "decided",
    "status": "ask"
   },
@@ -5160,56 +5120,6 @@
    "status": "ask"
   },
   {
-   "pid": "7980009849",
-   "title": "Vintage Screwback Earrings",
-   "price": 10,
-   "area": "harrisburg",
-   "url": "https://www.craigslist.org/view/d/marysville-vintage-screwback-earrings/dpWoRSGA7YjP5trVjWxHzf",
-   "note": "5 pr 1950s screwback earrings: 2 sterling (green, blue), 1 Czecho, purple pear/navette rhinestone pair and pink moonglow navette pair (possible D&E/Juliana construction) \u2014 Ask for a photo of the BACKS of the purple and pink pairs: open-back prong settings with Juliana-style construction would make the lot ~$60-75; if closed/glued backs, it's a $30 lot (kill). $10 price.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7957675322",
-   "title": "Misc Pepsi items",
-   "price": 25,
-   "area": "lakeland",
-   "url": "https://www.craigslist.org/view/d/davenport-misc-pepsi-items/cCdmtmn76YsgHMemh8DNvy",
-   "note": "Pepsi lot: 1980s-90s wood-framed Pepsi sunburst-logo wall clock, FBI Jr. Pepsi walkie talkies (Nasta 1990s), 1991 Diet Pepsi Movin' Groovin' Can, plush bears, can bank \u2014 Ask the price of the CLOCK alone and a photo of its back/label: a 1970s-80s Pam/Swihart lighted Pepsi clock sells $75-150; if it's a quartz battery reproduction (1990s-2000s) kill. Rest of lot is $5-15 toys.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7940686285",
-   "title": "Vintage Ultraman Shirt",
-   "price": 30,
-   "area": "providence",
-   "url": "https://www.craigslist.org/view/d/woonsocket-vintage-ultraman-shirt/oQxCrPSoN3B1K239DxoiJL",
-   "note": "Ultraman Gaia graphic tee, heather charcoal, propaganda-poster art with Tsuburaya 1998 copyright line, est 2XL-3XL. Could be 1998-99 Japan/US official merch ($80-150) or 2000s licensed reprint ($20-35). Ask: photo of neck tag and hem (single vs double stitch), where/when bought. Buy at $30 only if tag is a late-90s blank (Hanes Beefy/Fruit/Japanese Printstar) with single stitch.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7958742807",
-   "title": "Vintage Oversized Sunglasses",
-   "price": 26,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/new-york-vintage-oversized-sunglasses/qLczSnXF32tBykHorpD7eq",
-   "note": "Gold-wire round/oval sunglasses with tortoise/pearlized rim inlay and decorated temples, green lenses, marked \"1101\" (1980s-90s, possibly Luxottica/Italian) \u2014 Ask for a close photo of the INSIDE of both temples and bridge (brand, \"Made in Italy\", size): a Luxottica/Persol/Italian-made frame sells $50-120; unbranded Asian frames $15-25 (kill). $26.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7955524758",
-   "title": "Vintage Oversized Sunglasses",
-   "price": 34,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/new-york-vintage-oversized-sunglasses/1H5U93D7kNQso2eD2Ca3rj",
-   "note": "Same model as 7958742807: gold-wire oval sunglasses, tortoise/pearl rim inlay, engraved temples, green lenses, \"1101\" (1980s-90s, possibly Luxottica) \u2014 Ask for INSIDE-temple photo (brand/Made in Italy/size). Italian-made Luxottica/Persol era frames $50-120; unbranded = kill. $34; buy only with the cheaper twin if both branded.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7969292715",
    "title": "Antique Hampden pocket watch",
    "price": 40,
@@ -5225,39 +5135,9 @@
    "price": 100,
    "area": "delaware",
    "url": "https://www.craigslist.org/view/d/new-castle-old-mc-helmets/rf3rLAPfNtujMzh2k7sBjJ",
-   "note": "Two 1970s metalflake open-face motorcycle helmets (maroon with gold-flake eagle side panels; one with Honda sticker), snaps for visor, worn \u2014 Ask for photos of the INSIDE labels/liners and the back-of-shell DOT/Snell stickers: Bell 500/500-TX or Buco = $100-200 each (Bell Star 1960s median $100, Buco $150); Lesco/no-name Asian shells = $25-50 each (kill). $100 for both.",
+   "note": "Current-process redo: Terapeak Bell 500-TX median $800 (n=50, p25 $439) vs generic metalflake open-face $50 (n=47). Ask for inside label/DOT sticker photos: Bell 500-TX = Tier A, else kill.",
    "stage": "decided",
    "status": "ask"
-  },
-  {
-   "pid": "7978633380",
-   "title": "Lot of six vintage cocktail glasses",
-   "price": 25,
-   "area": "seattle",
-   "url": "https://www.craigslist.org/view/d/tacoma-lot-of-six-vintage-cocktail/bB9mccLmkhLj1w5SBdQGcF",
-   "note": "6 mixed cocktail glasses: ruby cut-to-clear rocks glass, Culver-style gold/turquoise scale tumbler, silver geometric glass, pink depression spiral-stem martini, 2 bubble glasses with red decals \u2014 Ask for a photo of the base of the ruby cut-to-clear glass and the gold-scale tumbler: Bohemian/Faberge/Ajka cased crystal or signed Culver 22k = $25-60 each; unmarked = $5-10 each (kill). $25 for six.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7954362159",
-   "title": "Antique/ vintage copper drawer pulls + hinges",
-   "price": 45,
-   "area": "roanoke",
-   "url": "https://www.craigslist.org/view/d/roanoke-antique-vintage-copper-drawer/d12dw6Uoy9HqzVk1XqLaDt",
-   "note": "photo: matching set of 1940s hammered copper-finish steel arrowhead strap hinges (38) + 25 bail pulls from a 1948 house; restorer demand for full matching sets; ask maker mark on back (Amerock/National Lock), weight/total count, rust; offer ~$35 shipped-ready",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7946814669",
-   "title": "Antique Brass Bowl. 19th Century Persian",
-   "price": 49,
-   "area": "sfbay",
-   "url": "https://www.craigslist.org/view/d/san-francisco-antique-brass-bowl-19th/v7AfcKqoYJqRg4JxbNy8iB",
-   "note": "Tier B (thin comps): cast/engraved Persian-Islamic bronze bowl w/ calligraphy band, 4.5in, $49 SF. Sold Islamic calligraphy bronze bowls $120-250 (n=3). Profit ~$80. Risk: modern Afghan repro - ask for base photo / patina inside foot",
-   "stage": "decided",
-   "status": "find"
   },
   {
    "pid": "7954897115",
@@ -5275,7 +5155,7 @@
    "price": 50,
    "area": "boulder",
    "url": "https://www.craigslist.org/view/d/louisville-salt-glazed-stoneware-jug/vqe8MYwV3Ts1nP6TdSoJdU",
-   "note": "salt-glazed stoneware jug with brushed cobalt floral, c.1860-80, maker incised but unread \u2014 Salt-glazed ovoid jug ~9in (about half gallon) with brushed cobalt flower, 1860-80 New England/NY style, no visible stamp; unmarked cobalt jugs sell $75-150 which is break-even at $50 firm after 2x$20 shipping, but seller says there IS a lightly incised maker mark on the base. ASK: a raking-light photo of the base/shoulder mark - a named potter (Whites Utica, Cowden & Wilcox, Norton, Hamilton & Jones) makes it $150-350",
+   "note": "Current-process redo: Terapeak cobalt-decorated salt-glaze jugs median $70, p75 $185 (n=50). Unmarked loses at $50; a named potter (raking-light base photo) reaches p75 -> ~$71 profit.",
    "stage": "decided",
    "status": "ask"
   },
@@ -5290,26 +5170,6 @@
    "status": "ask"
   },
   {
-   "pid": "7941691585",
-   "title": "Decorative Pottery Vase; xlnt condition",
-   "price": 40,
-   "area": "sfbay",
-   "url": "https://www.craigslist.org/view/d/santa-rosa-decorative-pottery-vase-xlnt/eaC8iDD4g8joBwEX5MNfwq",
-   "note": "unidentified: needs base photo - large painted sunflower vase, possibly Czech Art Deco (Ditmar Urbach) or painted gourd \u2014 Large squat hand-formed pottery vase 11in x 18in diameter, hand-painted sunflowers and leaves in matte red/green/ochre - looks like 1920s-30s Czech/Austrian (Ditmar Urbach / Amphora type) or a large painted gourd; seller says no marks. At $40 and unidentified: ASK for a photo of the base/foot and whether it is clay or gourd; a Czech Art Deco piece of this size sells $150-300",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7930087323",
-   "title": "Vintage Jostens women's Quartz Swiss Gold Tone Watch w/ Hadley band.",
-   "price": 20,
-   "area": "louisville",
-   "url": "https://www.craigslist.org/view/d/mount-saint-francis-vintage-jostens/fqVbq5mutg23kukE8rCV7X",
-   "note": "GE-logo Jostens 21-jewel service-award watch titled quartz, $20 cash, Georgetown IN. Ask for case-back photos (14K vs 10K GF) and whether it runs. 14K \u2192 Tier A.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7974478842",
    "title": "Vintage antique rhinestone necklace",
    "price": 15,
@@ -5320,32 +5180,12 @@
    "status": "ask"
   },
   {
-   "pid": "7966017849",
-   "title": "Vintage Brunton's Compass with Case",
-   "price": 35,
-   "area": "denver",
-   "url": "https://www.craigslist.org/view/d/littleton-vintage-bruntons-compass-with/a6FwU5AcEzMdByuETqAgNs",
-   "note": "Terapeak 365d sold: Ainsworth Brunton transits median $100 (n=50, p75 $130). At $35 profit \u2248 $28 \u2014 below the $50 rule. Offer $20, or bundle with other instruments.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7956827711",
    "title": "Turquoise Jewelry",
    "price": 20,
    "area": "yuma",
    "url": "https://www.craigslist.org/view/d/yuma-turquoise-jewelry/gZC6qRF6A7CoDVNuop4SSZ",
    "note": "Terapeak 365d sold: Zuni channel-inlay cuffs median $135 (n=50). ~$73 profit at $20. ASK hallmark/sterling stamp.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7967415798",
-   "title": "Vintage Whitman's Chocolates two sided store sign",
-   "price": 20,
-   "area": "washingtondc",
-   "url": "https://www.craigslist.org/view/d/potomac-vintage-whitmans-chocolates-two/topeEWLgwqT6bU9F2Y32pW",
-   "note": "Whitman's Chocolates painted wood double-sided hanging store sign, 34x8x5/8 in, messenger-boy logo + (R) mark; clean graphics could be 1970s-90s promo or repro. Ask: photos of back/edges/hanger holes for age wear and any maker/printer mark, and whether seller will ship or meet. At $20 only works if genuine pre-1960 (~$120-175 resale; profit ~$50-75 after ~$40 two-way ship of a 34in flat box).",
    "stage": "decided",
    "status": "ask"
   },
@@ -5420,32 +5260,12 @@
    "status": "ask"
   },
   {
-   "pid": "7951902015",
-   "title": "Brown Pitcher",
-   "price": 35,
-   "area": "seattle",
-   "url": "https://www.craigslist.org/view/d/bremerton-brown-pitcher/v1MsiVrGtiFFAvdYfhLGDs",
-   "note": "19th-c American Rockingham heron & bullrush pitcher, Bennett/Coxon form \u2014 maker needs base photo \u2014 Rockingham-glazed 'Heron and Bullrush' pitcher with stag-head spout, crisp mold, mottled glossy glaze, 8.5in \u2014 the E&W Bennett (Baltimore, Charles Coxon design 1850s-70s) form; Bennett-marked examples $150-300, unmarked later Ohio copies $50-100. Ask: photo of the base (impressed BENNETT mark? dry unglazed foot?). At $35 even the unmarked tier is near break-even, a marked one is Tier A",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7947241340",
    "title": "Vintage Sterling Silver Rings",
    "price": 25,
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/brooklyn-vintage-sterling-silver-rings/7opcM2GG2V3NKRHaoSbpZU",
    "note": "Terapeak 365d sold: James Avery sterling ring lots median $150 (n=50). 5 rings for $100 \u2192 ~$180 if JA-marked. ASK inside-band hallmarks.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7976420340",
-   "title": "Large Antique Steam Gauge",
-   "price": 25,
-   "area": "jerseyshore",
-   "url": "https://www.craigslist.org/view/d/highlands-large-antique-steam-gauge/etB54kpBK9fxV6EFG9mFWX",
-   "note": "Ashton Valve Co. Boston 10.5 in brass 'Standard Test Gage' 0-500 psi, missing glass, red-painted back. No entry or comps. Large brass test gauges sell to steampunk/industrial buyers ~$100-200, but ship is heavy (~$25 each way): 150*0.87-25-25-25=55, passes only near $150. Ask weight and whether the needle and movement are intact; offer $20. Low confidence until sold comps are checked",
    "stage": "decided",
    "status": "ask"
   },
@@ -5470,32 +5290,12 @@
    "status": "ask"
   },
   {
-   "pid": "7960470552",
-   "title": "Antique Russian Porcelain Coffee/Tea Server circa 1920s",
-   "price": 125,
-   "area": "washingtondc",
-   "url": "https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs",
-   "note": "8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $125; need resale ~$200 -> max buy ~$70. Ask for photo of the blue overglaze stamp and confirm no repair; offer $70. Profit at $70 = 200*.87-15-15-70 = ~$74.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7972487241",
    "title": "Blindstitch Embroidery 2 Pieces in Frames",
    "price": 1,
    "area": "sacramento",
    "url": "https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536",
-   "note": "Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing\u2013Republic c.1900-30, small frames (~10x12). Fine stitching, faded but intact. Seller asks $1/\"make a fair offer\". Offer $40 for both; ask for back-of-frame photo, sizes, any stains/holes. Resale ~$60-90 each unframed/framed on eBay -> ~$150 pair; profit at $40 = 150*.87-20-15-40 = ~$55.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7962784680",
-   "title": "Inuit Soapstone Carving Signed -Josie",
-   "price": 50,
-   "area": "santabarbara",
-   "url": "https://www.craigslist.org/view/d/goleta-inuit-soapstone-carving-signed/oiMTMXJMESfJALf5aTjUfW",
-   "note": "Canadian Inuit-style serpentine/soapstone carving of a bear (on seal), base incised 'JOSIE' with a number (possible E-disc number), small base crack \u2014 Base inscription in photo 3 reads JOSIE plus a partial number - a signed Inuit carving with community/disc number sells $100-250, an unsigned tourist stone $20-40. Ask the thrift store (Destined For Grace, Goleta) for a sharp straight-on photo of the base: syllabics, E-number, community name (Kinngait/Cape Dorset etc.) or igloo-tag sticker; and confirm the crack is surface only. No sold comp in db yet - pull one before buying.",
+   "note": "Current-process redo: Terapeak antique Chinese embroidered silk panels median $100 (n=50), framed Qing $145 (n=10). Two panels at a $40 offer -> ~$104 profit. Ask back-of-frame photo and sizes.",
    "stage": "decided",
    "status": "ask"
   },
@@ -5520,16 +5320,6 @@
    "status": "find"
   },
   {
-   "pid": "7931248829",
-   "title": "Kalo Shop sterling silver bracelet",
-   "price": 199,
-   "area": "missoula",
-   "url": "https://www.craigslist.org/view/d/grantsdale-kalo-shop-sterling-silver/5nEpaHHH2zGjrnVCBJhjQh",
-   "note": "Terapeak: Kalo sterling bracelets median $240 (n=16, bangles $86-92, leaf bracelet $365). At $199 fails; offer $110 \u2192 ~$70 profit if it is a substantial piece. Tier C.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7956026043",
    "title": "Hiro Yamagata Limited Edition Signed Serigraphs",
    "price": 1,
@@ -5540,52 +5330,12 @@
    "status": "find"
   },
   {
-   "pid": "7964400282",
-   "title": "Unique Foreign Collection",
-   "price": 40,
-   "area": "jacksonville",
-   "url": "https://www.craigslist.org/view/d/doctors-inlet-unique-foreign-collection/3PqNrdvEnqzJBgEVMp5j4B",
-   "note": "Terapeak 365d sold: Mexican 8 reales median $110 (n=50). ~$32 at $40. ASK reverse + weight.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7954218689",
-   "title": "BALENCIAGA Typo Logo Gold tone Ring",
-   "price": 10,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/new-york-balenciaga-typo-logo-gold-tone/7QwKDaXwy7tnc3wnVjYWSe",
-   "note": "Balenciaga Typo script-logo ring, gold-tone brass (Italy, c.2021-23) - listing uses retailer stock photos \u2014 Both photos are retail stock shots (white seamless, MR PORTER style). Ask for photos of the actual ring showing the inside 'BALENCIAGA' stamp/size and any box/dust bag; genuine resells $120-200 (profit ~$100 at $10), no real photo = assume counterfeit",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7982680338",
-   "title": "Hunting Equipment",
-   "price": 25,
-   "area": "delaware",
-   "url": "https://www.craigslist.org/view/d/wilmington-hunting-equipment/9gXWKK2zobZH3UKMLGrk7o",
-   "note": "Drawer of ~25 knives: traditional jigged-bone/Delrin slipjoints (Imperial/Schrade/Camillus-type), several Swiss Army knives, Italian long-bolster stiletto-style folder, fixed blade with stag/bone handle, lockbacks; plus hunting clothes \u2014 Ask the price for the whole knife drawer and for close-ups of the tang stamps on the red jigged-bone slipjoints and the long-bolster folder; Case/Schrade USA/Ulster/Italian stiletto would make a lot worth $150-250; seller currently prices per item (otherwise kill)",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7957580222",
    "title": "ZAP COMIC FIRST Edition",
    "price": 50,
    "area": "portland",
    "url": "https://www.craigslist.org/view/d/vancouver-zap-comic-first-edition/vE1uE7uG49Le8y9APhFT4G",
    "note": "Terapeak: Zap #1 median $75, Donahue edition sold $80 (Jan 2026), p75 $210. Only a 1st printing clears; a 2nd printing is ~$80-200. At $50: ask for back cover; buy only if Plymell/Charles Plymell 25\u00a2 first.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7977567654",
-   "title": "vintage train collection",
-   "price": 50,
-   "area": "cincinnati",
-   "url": "https://www.craigslist.org/view/d/cincinnati-vintage-train-collection/5NXeHeq19eV89RDsAGdBJA",
-   "note": "Terapeak: 6520 searchlight car sells ~$16, 3462 milk car $25 \u2014 the lot is worth ~$120-180 not $250. At $50 profit \u2248 $60 only if they run. Tier C now; offer $40 max.",
    "stage": "decided",
    "status": "ask"
   },
@@ -5606,6 +5356,286 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/garden-grove-vintage-patty-hearst-tania/67mgvrXgPbuaZ3CZU9z7uC",
    "note": "Terapeak 365d sold: original 1974 Tania posters median $250 (n=12). OFFER $70 \u2192 ~$117. ASK paper edge/back photo.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7946602969",
+   "title": "Antique Leitz Brass Compound Monocular Microscope 11inches high",
+   "price": 180,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-antique-leitz-brass/nfnmRXMGyEhXLLrnUPcL6r",
+   "note": "eye-first: E. Leitz Wetzlar No. 18204 (engraved on top lens per body), black-japanned horseshoe foot + lacquered brass tube/pillar, top-knob fine focus continental stand, c. 1888-1892 by serial. Entry ladder: black-and-brass Leitz $200-600. At $180 asking it needs resale >= ~$470, so it fails unless at least two objectives and a case come with it. Ask: (1) how many objectives, and photos of their engravings (Leitz '3', '7', oil immersion '1/12'); (2) eyepiece present?; (3) any wooden case; (4) will they ship to TX, or take $100 (at $100, resale of ~$290 clears it). Local pickup only, cash, Wes",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7954908412",
+   "title": "BRONZE SCULPTURE FIGURINES Dancing Ballet Statue Ballerina 16\" Tall",
+   "price": 79,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/floral-park-bronze-sculpture-figurines/ei57FMxzGftqDk4HuZV6Bb",
+   "note": "eye-first: 16in abstract brutalist/expressionist dancer, welded-cast metal with wire accents on black stone base, 5 photos show no signature. Likely unsigned 1970s decor (~$60-100 = no margin at $79 + ~10lb ship); ONLY worth it if a signature/foundry mark exists. Ask: photo of base underside and the foot/plinth area for an incised signature, date or foundry stamp; is it bronze (non-magnetic) or iron/spelter?",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7969671453",
+   "title": "Real civil war belt buckle",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-real-civil-war-belt-buckle/c1HJEBXyJ5JJforxR5rUNR",
+   "note": "eye-first: US oval belt plate (waist-belt size), stamped brass face, lead-filled back with two brass arrowhead hooks and one tongue/bar hook, which is the correct 1860s Model 1839/1863 construction. Reproductions copy this exactly, and the bright crystalline 'spangled' lead in photos 2-3 is a common tell of a modern recast; originals usually show dull, smooth grey oxidized lead and wear at the hooks. Ask: exact size (3.5 x 2.2 in large vs 2.75 in small), any maker stamp on the hooks or lead (e.g., 'BOYD', 'J.H. SMITH'), and the source/provenance (dug or family). Buy only if the lead is dull an",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7967850966",
+   "title": "Vintage Wooden Hunting Decoy Duck",
+   "price": 10,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-vintage-wooden-hunting-decoy/iNq2vXn19tEp3nF3aiveXQ",
+   "note": "eye-first: Working wood decoy, 12 in, glass eyes, screwed-on keel weight strip, original worn and crazed paint, separate dowelled head. Paint pattern is a black body and head with white crown/nape patches and a pale bill, which reads as a SURF SCOTER (New England sea-duck decoy) rather than a generic 'duck' as the seller calls it. A coastal scoter brings more than the $80 unmarked-decoy median. Ask: any brand, initials or stamp on the bottom board or under the keel weight; the state/region it came from; whether the head is original (photo of the dowel joint). Unmarked at the $80 median it fail",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7958102372",
+   "title": "Old Toy Trucks and Cars Vintage",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/napa-old-toy-trucks-and-cars-vintage/kvwXQmx6VGQc7bYRfgbThU",
+   "note": "eye-first: Big 1950s-60s collector toy lot, $20 is a placeholder ('call for info'). Seen across 8 photos: Smith-Miller-style cast-aluminum GMC cabover tractor-trailers (white cab with 'Miller' script, olive U.S. Army, silver Mack with blue fenders) - Smith-Miller is the upper tier per entry; 4 tether/spindizzy race cars (#3 red marked 'TORNADO RACER', yellow #5 with engine, red #8, black #50); Japanese tin litho friction racer #98 with driver; blue #31 hot-rod roadster; boxed modern reissues (Thimble Drome Champion, Real McCoy Midget Racer, Rodzy Standard - repro boxes, lower value); Tonka/Str",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7964567391",
+   "title": "2 Vintage duck decoys",
+   "price": 150,
+   "area": "easternshore",
+   "url": "https://www.craigslist.org/view/d/fruitland-vintage-duck-decoys/xzRAg8vzKbbCtwabESkSRA",
+   "note": "eye-first: Pair of hollow?/solid wood working bluebill (scaup) drake decoys from Fruitland MD (Lower Eastern Shore -- Crisfield/Ward Bros country). Worn crazed paint looks original, dark head/breast/tail, light back. Unmarked Chesapeake bluebills sell ~$60-120 each, which does NOT clear $150 + shipping; only a maker makes this. ASK: photos of both undersides (brand, initials, 'L.T. Ward & Bro.', owner brands, keel/lead weight), the neck joint (dowelled head, replaced?), eyes (glass vs tack vs painted), and whether paint is original. Buy only if a named Lower Shore carver mark appears.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7940537948",
+   "title": "Old School Hip Hop Records",
+   "price": 5,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/huntington-beach-old-school-hip-hop/1gNp5Z4qpZNm6SuizvxZPe",
+   "note": "eye-first: Sealed original 1984-89 LA electro/rap 12in singles, Macola Record Co. deadstock, several copies of each. Photos show: The Arabian Prince 'It Ain't Tough' (Rapsur RP 10005; Arabian Prince was a founding NWA member), Fila Fresh Crew 'Fear Of The Rap' (Get Live MRC-1089; Dr. Dre/D.O.C.-related Dallas crew), The Triple Threat Three 'M.P.G. Rap' (Sound of Sacramento SAT-2010, with a Dr. Dre credit), Unknown DJ 'Break-Down' (Techno Hop), The Future M.C.'s 'We Are The Future' (Flash 001) and 'Erotic' (Hitt's RAPP-001), Future Flash/King M.C. 'State of Shock', The Mistress & DJ Madame E 'I",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7982912178",
+   "title": "Vintage Action Figures",
+   "price": 10,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/west-hartford-vintage-action-figures/vvTcMSqQHfVUeufum4d6jK",
+   "note": "eye-first: Lot of 11 loose figures: 1979 Kenner Star Wars Boba Fett (blue-gray body, green chest) + 1983 AT-ST Driver, rest 1970s Fisher-Price Adventure People with accessories (rocket, jetpack, camera, rifles). $10 total, Hartford. Ask: close-up of Boba Fett's leg COO stamp (Hong Kong/Taiwan 1979 original vs knockoff) and whether the black blaster in the pile is his original; only clears $50 profit if Boba is original with blaster (~$85+ lot). No comp (low end).",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7948438162",
+   "title": "Captain Beefheart Magic Band Trout Mask Replica vinyl record album",
+   "price": 100,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/orange-captain-beefheart-magic-band/e49uH9xteE1sC1w5XUu8ab",
+   "note": "eye-first: Captain Beefheart Trout Mask Replica 2LP, pink Straight label 2 STS 1053 (1969 US original, not the Reprise reissue). At $100 needs ~$250 resale; no comp. Ask: gatefold cover condition, vinyl grade, inner sleeves; offer $60. Est low end, no comp.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7944072645",
+   "title": "Vintage Scholastic 65 Graduation pendant / charm",
+   "price": 12,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-scholastic-65-graduation/boy2qCoAC6e94kPsLkkedq",
+   "note": "eye-first: 1965 class-year scroll charm ('65' plaque with scroll ends, coiled bail; 'Scholastic' style), seller calls it gold-tone but back/bail shows no visible mark at photo resolution. Class charms of this form were commonly made in 10K. Ask: close-up of back, bail and jump ring for '10K'/'1/20 10K GF'/maker mark (Balfour, Jostens, Herff Jones) and weight in grams. If 10K and ~2g, melt ~$80-100 (no comp); if GF, ~$5.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "7941180203",
+   "title": "Champagne capsules",
+   "price": 5,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/san-luis-obispo-champagne-capsules/wRRmKofxWqqv5x7ixrJBSc",
+   "note": "eye-first: About 180 champagne capsules (plaques de muselet), collected in the early-1980s LA sommelier trade, about 90% different; visible Moet, Mumm and coloured/portrait caps; the seller mentions 'rare ones from the Taittinger collection'. Light to ship. Ask: (1) is $5 the price for the whole lot or per capsule; (2) a count; (3) close-ups of the Taittinger and any portrait/numbered or pre-1980 caps (Krug, Salon, Dom Perignon, Cristal and old non-French caps are the ones capsule collectors pay for). At $5 for the lot, about $80 resale passes. No comp, so the estimate is low-end.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "sgw279590271",
+   "title": "Vintage Old Man Portrait Mina Moiseyev 1882 Print",
+   "price": 9.99,
+   "area": "seller 29",
+   "url": "https://shopgoodwill.com/item/279590271",
+   "note": "golden-egg review: Hand-painted oil on hardboard (~12x9) copy of Ivan Kramskoi's 'Mina Moiseyev' (1882, State Russian Museum), signed 'N. Ivanov' upper left; listing wrongly calls it a print \u2014 Mislisted as 'Licensed Reprint' so few bidders; small/light, cheap to ship. Profit only if resold as hand-painted oil copy; not an egg.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5114067-16",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Disney Sleeping Beauty (1959) production cel of Flora, Fauna and Merryweather, Art Corner-style mat \u2014 Turn over: look for gold Disneyland Art Corner sticker on back of mat; confirm hand-painted cel (raised paint, layered acetate) vs. sericel/print; check paint lifting. Buy if under ~$500.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5117127-7",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Bubble Up 'kiss of lemon, kiss of lime' lighted bubble-glass advertising wall clock (Pam-style, c.1950s-60s) \u2014 Check back for Pam Clock Co. (New Rochelle NY) label, that it lights and runs, glass uncracked, no rust on can. Worth it under ~$150.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5114067-14",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Disneyland Art Corner production cel, Sleeping Beauty (1959): Briar Rose/Aurora seated with rabbit and two squirrels, matted. \u2014 Company lists the Sleeping Beauty cels in the description (Aurora, woodland creatures, fairies, Prince Phillip), so they know it; only worth the trip if tagged under ~$1,000. Check the back for the gold Art Corner sticker/certificate, paint lifting, and that the cel is hand-inked (not a sericel/litho). Go Wed opening 9am.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn4867968-169",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Watercolor signed \"A J Merrill\" lower left, Native woman/pueblo scene with adobe and tree; likely Arthur J. Merrill (1885-1973), Taos/Southwest watercolorist with a work in the Harwood Museum. \u2014 Marginal: buy only if tagged under ~$100. Confirm it is a hand-painted watercolor (not print), look for a date next to the signature (1930s-40s best) and any Taos/New Mexico label on the back. Sale description does not mention art, so likely priced as decor.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5115378-44",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: R.C. Gorman hand-pulled lithograph of a seated shawled woman with fringe, pencil-signed \"R.C. Gorman\" and dated (looks like 1977) lower left, pencil edition number lower right (looks like x/75), deckle edges, framed. \u2014 Buy under ~$150. Confirm pencil (not plate-printed) signature and edition number, deckle-edge lithograph paper (not offset poster - look for halftone dots with a loupe), and note title/printer chop (Tamarind/Western Graphics) on back. Frame ~30x38 in, fits passenger seat/back seat. Company field is blank: check the sale page for the operator.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5103432-53",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Framed 1885 Ulysses S. Grant \"In Memoriam\" printed fringed silk/textile from Memorial Services, City Park, Dayton, Ohio, Saturday Aug 8 1885 - period regional memorial piece \u2014 Confirm it is printed silk (not modern paper repro), check staining/tears and the left panel text; larger Dayton-specific piece is scarcer than standard ribbons. Buy under ~$150.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5103432-409",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Pair of Chinese blue-and-white \"Double Happiness\" (shuangxi) jars with later wood lids, likely late Qing 19th c \u2014 Turn over: want unglazed sandy/orange-toned foot ring, kiln grit, slightly bluish glaze, hand-painted irregular scrolls; reject if bright white glaze, glazed base, or stenciled-looking uniform painting (modern Jingdezhen repro). Check rims for chips/hairlines. Pair under ~$150 is a buy.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5115420-0",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Leica screw-mount rangefinder (III-series, knurled chrome dial visible) in original brown Leitz ever-ready case \u2014 Open case: model (IIIc/IIIf), serial, lens (Elmar/Summitar/Summicron), shutter firing at all speeds, fungus/haze; also check rest of the \"collection of cameras\" for Leitz lenses. Pass if tagged over ~$200 for body+Elmar",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5113749-41",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Andy Warhol / Paul Morrissey / Viva event poster, University of St. Thomas (Houston), 1968, hand-signed \"Andy Warhol 68\" in marker plus \"Viva!\" signature; water staining at lower margin \u2014 Close-up of signature in listing suggests company knows it is signed - expect a real price; worth buying under ~$500. Check signature is ink (not printed), dated 68, provenance story (attendee at UST/Menil 1968 event), staining extent, full poster image. Sale moved offsite to warehouse; address released Fri Oct 16 9am; sale Sat-Sun 9-1. Authentication (JSA/PSA) needed before res",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "esn5115420-42",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: VEB Freiberger Prazisionsmechanik (East German) micrometer-drum marine sextant, cream frame, scope, wooden box, blue certificate/manual (owner name \"Walker Brents\" written on frame) \u2014 Buy at $200 or less. Make sure mirrors are unsilvered/clean and not cracked, the drum turns smoothly, the telescope is present (the black piece in the box), and the certificate is in the lid. Owner name is written in marker on the frame, which hurts value a little.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5081277-169",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Blickensderfer No. 7 portable typewriter (c.1897-1916) with original oak base and Blickensderfer-labeled bentwood case \u2014 Buy at $150 or less. Make sure the typewheel is present (the missing-wheel ones lose most of their value), the keys depress and the wheel rotates, the case lid and lock are complete, and there is no heavy rust. Note whether the keys are yellow; yellow keys are rarer.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5090424-138",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: American Airlines eagle-and-AA round dimensional sign, about 3 ft, red ring with raised blue eagle and letters \u2014 Decide whether it is original or a decorator reproduction. Original: molded fiberglass or acrylic with mounting hardware, a fabricator label on the back, and real wear on the paint. Reproduction: MDF/CNC wood or thin plastic with no label. Buy at $250 or less if original, otherwise pass. Measure it against the passenger seat (about 36 in diameter).",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5102907-10",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Jaeger-LeCoultre Atmos clock, cal. 540 \"Classique\" (Swiss, gilt case, skeleton dial), with a 1981 presentation plaque engraved to James L. Basham \u2014 Buy only if the price is under about $350. The caption does not name it, but Cottage Classics is a high-end gallery sale and may know what it is. Check that the balance wheel (the rotating torsion pendulum) turns, that the movement is locked (lever under the base), that the glass is not cracked and the case corners are not dented. The plaque lowers the value; it can be unscrewed.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "esn5113092-17",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "estate-sale golden-egg review: Chest of about 60 pieces of ornate Baroque-pattern flatware, looks like Wallace Grande Baroque; it could be sterling or a silverplate copy (Godinger and others) \u2014 The photo is dark and the marks cannot be read. Flip a fork: if it is stamped \"Wallace Sterling\" or \"Sterling\", it is worth $1,500 or more just for the silver weight, so buy if the price is anything near silverplate pricing. If it is stamped Godinger, silverplate, EP or IS, walk away. David C. Turner is a professional company, so sterling will probably be priced as sterling.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "ebay237111124288",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24\"H \u2014 Not an egg: the artist is named in the title, and comps run $325-1,300 (median ~$600). Blue spray-paint overspray on the plinth can be refinished. Shipping isn't listed, and a heavy bronze costs ~$60+ to ship in. Ended 20:09Z, before this review finished, so the price may already be settled.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "ebay366716632233",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-19th c. Qing type, no lid \u2014 Not an egg: realistic value is $400-800 if period, and Jingdezhen reproductions of this exact pattern are common. The listing gives no size, and the description is boilerplate. At $175 + $22 shipping the margin is thin, so only buy at or below $175. Ends 20:44Z.",
    "stage": "decided",
    "status": "ask"
   }
