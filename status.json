@@ -1,21 +1,21 @@
 {
- "updated": "2026-10-13T02:21:21Z",
+ "updated": "2026-10-13T02:21:37Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4600,
-  "lens": 293,
-  "events": 4992,
+  "lens": 493,
+  "events": 5192,
   "comps": 0,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 95,
-  "queued": 4343,
+  "queued": 4143,
   "decided/find": 1,
-  "lensed": 140,
-  "flagged": 20,
+  "lensed": 252,
+  "flagged": 108,
   "decided/ask": 1
  },
  "last_harvests": [
@@ -164,6 +164,50 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7968475059",
+   "title": "Antique Unicorn Lamp",
+   "price": 80,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/willowdale-east-antique-unicorn-lamp/jSm57nmdQcZ4Ezq5pZz1sR",
+   "best": "+3",
+   "med": 150925,
+   "ratio": 1886.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968052710",
+   "title": "Antique Chest / Trunk",
+   "price": 30,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/willowdale-east-antique-chest-trunk/b64VTc1Kvt4Kjpa1A5AwPN",
+   "best": "+1",
+   "med": 8400,
+   "ratio": 280,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955863923",
+   "title": "Vintage Wooden Sewing Cabinet",
+   "price": 25,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-wooden-sewing-cabinet/1L9EdKGr1eLVsCHv1pVUn8",
+   "best": "+1",
+   "med": 5836,
+   "ratio": 233.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935450842",
+   "title": "Vintage Folding Table",
+   "price": 30,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/mooresville-vintage-folding-table/oDB2jzamnUqPWafPyspvJk",
+   "best": "Protective Waterproof Bag for Forma Marine Table M600T ...",
+   "med": 5717,
+   "ratio": 190.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7982452881",
    "title": "Furniture- moving sale",
    "price": 100,
@@ -172,6 +216,39 @@
    "best": "Lowe's",
    "med": 14500,
    "ratio": 145,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939923619",
+   "title": "Bathroom sink, vintage",
+   "price": 50,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/wyandotte-bathroom-sink-vintage/pCfp79iai7xDdhdo6GMPdW",
+   "best": "+1",
+   "med": 6275,
+   "ratio": 125.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950875152",
+   "title": "Vintage Metal Sailboats",
+   "price": 30,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/mount-mourne-vintage-metal-sailboats/iHTY7pSoJ3o57HjYePxvLv",
+   "best": "Craigslist",
+   "med": 2600,
+   "ratio": 86.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955233639",
+   "title": "Antique Secretary Desk",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/fairview-antique-secretary-desk/dWz32gpduU9t7j6dC66Wuv",
+   "best": "+2",
+   "med": 3875,
+   "ratio": 77.5,
    "ai_value": ""
   },
   {
@@ -184,6 +261,17 @@
    "med": 475,
    "ratio": 47.5,
    "ai_value": ""
+  },
+  {
+   "pid": "7940156508",
+   "title": "Vintage Wooden School Desk",
+   "price": 25,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-wooden-school-desk/jqZsi2ZM9vzB8iEshhX2NC",
+   "best": "Vintage wooden school desks with inkwells",
+   "med": 875,
+   "ratio": 35,
+   "ai_value": "Value: Similar vintage wooden school desks typically sell locally or online between $25"
   },
   {
    "pid": "7949693109",
@@ -205,6 +293,105 @@
    "best": "+1",
    "med": 1395,
    "ratio": 27.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978406739",
+   "title": "Vintage Beach Chair",
+   "price": 20,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/manton-vintage-beach-chair/kyVtHvEXSW41PsdVWENJXe",
+   "best": "+1",
+   "med": 550,
+   "ratio": 27.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968481344",
+   "title": "Bentwood Thonet Vintage Chair",
+   "price": 40,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/willowdale-east-bentwood-thonet-vintage/8zvpGKGp2THwmHaSrpCRGT",
+   "best": "Instagram",
+   "med": 1050,
+   "ratio": 26.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982412255",
+   "title": "Antique 3 wheel wheelchair",
+   "price": 60,
+   "area": "yakima",
+   "url": "https://www.craigslist.org/view/d/arlington-antique-wheel-wheelchair/uaPUoiEVFuqduhQuV9ivTn",
+   "best": "+3",
+   "med": 1500,
+   "ratio": 25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963655463",
+   "title": "cigarette lighter - vintage",
+   "price": 25,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/san-jose-cigarette-lighter-vintage/9uv6vETV3wpQwsbYDDrCQk",
+   "best": "+1",
+   "med": 598,
+   "ratio": 23.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944331398",
+   "title": "Antique Vanity Desk",
+   "price": 100,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/mount-mourne-antique-vanity-desk/aTsW3QSa6FkjAofYM5L7oZ",
+   "best": "+1",
+   "med": 2245,
+   "ratio": 22.45,
+   "ai_value": "Value: Usually ranges between $70"
+  },
+  {
+   "pid": "7969036767",
+   "title": "Vintage Decorative Snare Drum",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/northbrook-vintage-decorative-snare-drum/an4HfYqwRwHnRWxEz6rE8r",
+   "best": "+1",
+   "med": 550,
+   "ratio": 22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948265422",
+   "title": "Vintage glass Abstract Dancers",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-glass-abstract-dancers/jibDNbHQbZA4y1v78VQork",
+   "best": "+1",
+   "med": 640,
+   "ratio": 21.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947028352",
+   "title": "Antique Desk",
+   "price": 95,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/portland-antique-desk/71eoQ2yBvZLezjNwdvXfPz",
+   "best": "Mid 20th Century Vintage Walnut Side Table With One Drawer ...",
+   "med": 1975,
+   "ratio": 20.79,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947069817",
+   "title": "Antique oak banker's lawyer's chair",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-antique-oak-bankers/pnPYU5o1rq1Gn9CHRPSTpC",
+   "best": "Solid Oak Mid Century Desk Chair / Armchair (OFC-10) | eBay",
+   "med": 1704,
+   "ratio": 17.04,
    "ai_value": ""
   },
   {
@@ -230,6 +417,116 @@
    "ai_value": ""
   },
   {
+   "pid": "7929713878",
+   "title": "Vintage Drop-Front Secretary Desk",
+   "price": 89,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/mooresville-vintage-drop-front/sq1J5xrAQBLBSurCPHxpPB",
+   "best": "+1",
+   "med": 1412,
+   "ratio": 15.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936363288",
+   "title": "Antique wall lamps",
+   "price": 50,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/santa-cruz-antique-wall-lamps/ovraiwiPTpMdRNnJSnDwhg",
+   "best": "Pair of Small Antique Brass and Glass Paneled Post Lamps ...",
+   "med": 724,
+   "ratio": 14.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978454118",
+   "title": "VINTAGE WOOD DRESSER",
+   "price": 100,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/greenacres-vintage-wood-dresser/cELkEY6ict2vWkdMk7KHv1",
+   "best": "+2",
+   "med": 1390,
+   "ratio": 13.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966567431",
+   "title": "Vintage cocktail table",
+   "price": 60,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-cocktail-table/bTL9Fuo6FBvEVeTbFfVomQ",
+   "best": "+1",
+   "med": 811,
+   "ratio": 13.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982413707",
+   "title": "Vintage Brass Lamp",
+   "price": 60,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bolingbrook-vintage-brass-lamp/tT8apt76WLhi3vRSgaaPTs",
+   "best": "+1",
+   "med": 795,
+   "ratio": 13.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948593419",
+   "title": "Vintage Blue Glass Bottles",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/healdsburg-vintage-blue-glass-bottles/fGLzEmK1rr6SSdM8o3E6h5",
+   "best": "+4",
+   "med": 196,
+   "ratio": 13.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953458338",
+   "title": "Vintage Soapstone Ashtray",
+   "price": 25,
+   "area": "imperial",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-soapstone-ashtray/87j3PJvQdp69FRf2WTcod4",
+   "best": "+2",
+   "med": 303,
+   "ratio": 12.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970756742",
+   "title": "Antique Side Table",
+   "price": 90,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/willowdale-east-antique-side-table/kPQXxV8q2RvqYeEjeZTXF3",
+   "best": "+1",
+   "med": 975,
+   "ratio": 10.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950310558",
+   "title": "Vintage Barbie doll's",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-barbie-dolls/iTwAz7cZvQAWPcqiUU2cSM",
+   "best": "+1",
+   "med": 107,
+   "ratio": 10.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942248064",
+   "title": "Antique Terra Cotta",
+   "price": 30,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/milford-antique-terra-cotta/25fb8MbQcoj4x3SYY7sEqJ",
+   "best": "Craigslist",
+   "med": 320,
+   "ratio": 10.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7961447538",
    "title": "Vintage TAK-A-PEG Desk",
    "price": 25,
@@ -241,6 +538,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929139070",
+   "title": "LAMP Vintage",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/lamp-vintage/wDhPxDXNmxcH17xkfpVBDD",
+   "best": "+1",
+   "med": 1000,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7928422599",
    "title": "Antique Woodworking Tools",
    "price": 15,
@@ -249,6 +557,50 @@
    "best": "Don't stuff those vintage tools in a toolbox or a drawer ...",
    "med": 150,
    "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933418556",
+   "title": "Vintage 60's Royal Scotland China",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-60s-royal-scotland/fpvCKcjuo968QPRBY3YWWj",
+   "best": "+1",
+   "med": 150,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944042161",
+   "title": "vintage ice bucket/wine chiller",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/mamaroneck-vintage-ice-bucket-wine/1FnT3f5v95dk6xUCY97EmX",
+   "best": "Tiffany & Co. Crystal Ice Bucket sold at auction on 15th May ...",
+   "med": 149,
+   "ratio": 9.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955478133",
+   "title": "ESTATE CLEARANCE SALE",
+   "price": 25,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/don-mills-south-estate-clearance-sale/qEeSfVv8tMHDTYsMshWq22",
+   "best": "Amazon.com: Non-Slip High Pile Area Rug Shaggy Rug for ...",
+   "med": 240,
+   "ratio": 9.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942423400",
+   "title": "MOVING: Shabby chic nightstand",
+   "price": 75,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/playa-vista-moving-shabby-chic/8YpiyAgnEAxKcoaaXXLaHj",
+   "best": "All Things Shabby (@shabbythings) \u2022 Facebook",
+   "med": 699,
+   "ratio": 9.32,
    "ai_value": ""
   },
   {
@@ -271,6 +623,127 @@
    "best": "+4",
    "med": 410,
    "ratio": 8.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950304231",
+   "title": "Painted antique milk can",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/cornish-painted-antique-milk-can/xxvtTvtKdFm28k1FjRtBdC",
+   "best": "Gorgeous Antique Milk Can Hand Painted The Old Ford ...",
+   "med": 390,
+   "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980486543",
+   "title": "KITCHEN STUFF",
+   "price": 10,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-kitchen-stuff/nKswtR6uoZaUfXdQUENsNp",
+   "best": "+1",
+   "med": 78,
+   "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977535761",
+   "title": "Vintage Bushel Basket",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/niwot-vintage-bushel-basket/dC98qaB1sb3Mjxzf8NYmyA",
+   "best": "+1",
+   "med": 220,
+   "ratio": 7.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943693064",
+   "title": "Vintage Geisha Foil Prints",
+   "price": 50,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/palestine-vintage-geisha-foil-prints/9gBzpeUSFTjrEixr1VFvoa",
+   "best": "+1",
+   "med": 360,
+   "ratio": 7.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946345290",
+   "title": "Vintage Goodyear Ruler",
+   "price": 10,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/greentown-vintage-goodyear-ruler/8tfmN7S5Y9uXi2DF7RFTSb",
+   "best": "If you'd like, let me know:",
+   "med": 69,
+   "ratio": 6.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941371071",
+   "title": "VINTAGE Beautiful Ladies Coat",
+   "price": 30,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-beautiful-ladies-coat/rRayX2ysWKfxAueeiuig7s",
+   "best": "+3",
+   "med": 195,
+   "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953100906",
+   "title": "Vintage Radiator Cover Surround",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/philadelphia-vintage-radiator-cover/n2E6kJGiwMdjcVdi46iiSn",
+   "best": "+1",
+   "med": 250,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982442417",
+   "title": "Vintage key cutting machine",
+   "price": 65,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-key-cutting-machine/9sSJoej5MhKEpLxJtR8J9m",
+   "best": "Cole National Corporation 3K Commercial Machine | eBay",
+   "med": 400,
+   "ratio": 6.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946185599",
+   "title": "Vintage crystal lamp &",
+   "price": 50,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-crystal-lamp/8cByHxSX8AU7XAgfHbx9je",
+   "best": "Hampton Bay Mix & Match White Linen Table Shade 16319 - The ...",
+   "med": 300,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954332015",
+   "title": "Vintage Dress Forms",
+   "price": 50,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/post-falls-vintage-dress-forms/hJWnc2zbTffmkUwZCfkZ9A",
+   "best": "+2",
+   "med": 295,
+   "ratio": 5.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954492597",
+   "title": "ESTATE CLEARANCE SALE",
+   "price": 25,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/don-mills-south-estate-clearance-sale/rEZA9k79ni6S8pobWmadgF",
+   "best": "Thicker Than Thick\u00ae - Coma Inducer\u00ae Comforter - Down ...",
+   "med": 145,
+   "ratio": 5.8,
    "ai_value": ""
   },
   {
@@ -307,6 +780,72 @@
    "ai_value": ""
   },
   {
+   "pid": "7939771042",
+   "title": "Vintage crystal wine decanter",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-crystal-wine-decanter/qvW1ai4swH3X1QToqYpyqZ",
+   "best": "+3",
+   "med": 125,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938471926",
+   "title": "Flax Antique table lamp",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-flax-antique-table-lamp/prQKF9CxnDiyokJZhZpWoV",
+   "best": "If you'd like, let me know:",
+   "med": 96,
+   "ratio": 4.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935977583",
+   "title": "LAMP Vintage. Metal Base",
+   "price": 30,
+   "area": "binghamton",
+   "url": "https://www.craigslist.org/view/d/lamp-vintage-metal-base/uzWxSVKpR1scLF1yupSypB",
+   "best": "Set of Two Double Light Table Lamps by Coaster - 900738",
+   "med": 144,
+   "ratio": 4.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939923970",
+   "title": "Hoover vacuum, vintage",
+   "price": 25,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/wyandotte-hoover-vacuum-vintage/naHhTQKCp1ja3WAwzwDFJM",
+   "best": "+2",
+   "med": 117,
+   "ratio": 4.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974498696",
+   "title": "Antique Mission Style Oak Rocking Chair",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-city-antique-mission-style-oak/rSjQfKAwb3Q2otqTRBDFCB",
+   "best": "Signed Limbert Vintage Mission Oak Arts & Crafts Childs ...",
+   "med": 465,
+   "ratio": 4.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935808813",
+   "title": "Vintage Ceramic Lady Lamp",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/collegeville-vintage-ceramic-lady-lamp/dkk2QvPZjuzeKLF1KUWpqu",
+   "best": "+2",
+   "med": 220,
+   "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7977290373",
    "title": "Vintage Oak School Desk",
    "price": 99,
@@ -318,6 +857,248 @@
    "ai_value": ""
   },
   {
+   "pid": "7952093988",
+   "title": "Vintage Montgomery Ward sewing machine model 30",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/modesto-vintage-montgomery-ward-sewing/vYSBdpknr6e2qr5EvxW1a7",
+   "best": "Vintage National Sewing Machine Co. R.H. Macy Reversew ...",
+   "med": 400,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942251853",
+   "title": "Antique Repro Stair Spindles",
+   "price": 30,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/milford-antique-repro-stair-spindles/vj2pB5mZtr5Ppt52eUk79h",
+   "best": "+1",
+   "med": 119,
+   "ratio": 3.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974041070",
+   "title": "Vintage Christian Louboutin Heels",
+   "price": 40,
+   "area": "yuma",
+   "url": "https://www.craigslist.org/view/d/palm-springs-vintage-christian/9edwYoGqQCeACD2g5CnsWT",
+   "best": "+1",
+   "med": 158,
+   "ratio": 3.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945511688",
+   "title": "Vintage roll-top desk organizer",
+   "price": 20,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/toledo-vintage-roll-top-desk-organizer/jK2FEsoNA26wixGKb5yGMi",
+   "best": "The Byte Box Dual Wood Rolltop CD Disk Holder Storage 2101 ...",
+   "med": 77,
+   "ratio": 3.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932911520",
+   "title": "Vintage Hanging Wall Units",
+   "price": 65,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/carrollton-vintage-hanging-wall-units/dbuSLVeVXfXLatgtD81yrJ",
+   "best": "+2",
+   "med": 248,
+   "ratio": 3.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974448704",
+   "title": "Vintage Weldon Tool Box",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/ludlow-vintage-weldon-tool-box/anydBBU6b1TL9fdsY7HUHv",
+   "best": "Craigslist",
+   "med": 76,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982438913",
+   "title": "ANTIQUE SCHOOL DESK",
+   "price": 55,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/carrollton-antique-school-desk/migF2YX37BNsstgjjWTzRg",
+   "best": "Antique American Seating Co Childrens School Desk Cast Iron ...",
+   "med": 207,
+   "ratio": 3.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953364058",
+   "title": "Vintage Popeye Mug 1980",
+   "price": 35,
+   "area": "imperial",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-popeye-mug-1980/gwjWYQHPnjkLFB9T9r3WdW",
+   "best": "+1",
+   "med": 125,
+   "ratio": 3.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942251662",
+   "title": "Robot Stuff",
+   "price": 80,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/milford-robot-stuff/4dD7EwCWFPNR1U5K6hj9N1",
+   "best": "+3",
+   "med": 280,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969037205",
+   "title": "VINTAGE DOLLS",
+   "price": 50,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/hersey-vintage-dolls/jAC53hhgakmuHwdNydkYrU",
+   "best": "The Ashton Drake Galleries, \u201cLittle Grace\u201d collectible doll ...",
+   "med": 175,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982430582",
+   "title": "Singer vintage sewing machine",
+   "price": 80,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/cottage-grove-singer-vintage-sewing/hwWFvyqkcu5uWKrrQdwSoe",
+   "best": "+2",
+   "med": 277,
+   "ratio": 3.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948245845",
+   "title": "Vintage anniversary clock",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-anniversary-clock/e1tfPE9gAuUycL238EzSjd",
+   "best": "+2",
+   "med": 100,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943689862",
+   "title": "2 Antique Farmhouse Pulleys",
+   "price": 30,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-farmhouse-pulleys/f8gziQ6qgHbsp4zXnBvPAV",
+   "best": "Vintage Rustic Wood Single Block and Tackle Pulley | eBay",
+   "med": 99,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956221923",
+   "title": "Vintage Trinket Box- made in India",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-trinket-box-made/4Pp3uBdLYwuXgjoRscAZDm",
+   "best": "Vintage Trinket Box Textile Art 4\" Jewelry Box | eBay",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929767116",
+   "title": "ESTATE CLEARANCE SALE",
+   "price": 25,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/don-mills-south-estate-clearance-sale/bL3NJxrXRkw3fo9mqq7ps3",
+   "best": "VOLKL Blue Aster Sensortex Parka WATERPROOF SKI/SNOWBOARDING ...",
+   "med": 80,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982425080",
+   "title": "Vintage metal magazine rack",
+   "price": 28,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/proberta-vintage-metal-magazine-rack/w8hWnBgfdTeYLqCGC64xfL",
+   "best": "+1",
+   "med": 89,
+   "ratio": 3.18,
+   "ai_value": "Value: Typically ranges around $28"
+  },
+  {
+   "pid": "7953650062",
+   "title": "Vintage Burberry purse",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/clarendon-hills-vintage-burberry-purse/5FdRzeSEaESuaTHyamWejU",
+   "best": "The RealReal",
+   "med": 300,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954895693",
+   "title": "Antique Magazine Newspaper Wooden Rack",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/el-sobrante-antique-magazine-newspaper/9sijQmXyakPv5iLRPCt9zh",
+   "best": "+1",
+   "med": 135,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948740470",
+   "title": "Antique Chinese wooden bucket",
+   "price": 75,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/haverhill-antique-chinese-wooden-bucket/sQ8gohemyoYqeqf5aC2CBT",
+   "best": "+2",
+   "med": 223,
+   "ratio": 2.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952631186",
+   "title": "Antique solid brass dragons",
+   "price": 49,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/penney-farms-antique-solid-brass-dragons/8xPQbHydDad8qryLN21z5U",
+   "best": "+2",
+   "med": 140,
+   "ratio": 2.86,
+   "ai_value": "Value/Market Price: Generally ranges from about $50 to $150"
+  },
+  {
+   "pid": "7982416005",
+   "title": "Antique Chinese Opium/Tobacco Pipe",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-antique-chinese-opium-tobacco/rxF1JwaAPbKchD8FpcKKW7",
+   "best": "eBay",
+   "med": 260,
+   "ratio": 2.74,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952180811",
+   "title": "Solid Brass Vintage Goblet",
+   "price": 45,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/mooresville-solid-brass-vintage-goblet/1XgQBeqdZ97qA63ZQXLATD",
+   "best": "+1",
+   "med": 121,
+   "ratio": 2.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7964505780",
    "title": "2 Antique Scales",
    "price": 100,
@@ -326,6 +1107,94 @@
    "best": "+1",
    "med": 263,
    "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951258544",
+   "title": "Two Antique Kerosene Lanterns",
+   "price": 60,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/lebanon-two-antique-kerosene-lanterns/e1iWx4Ur3vJGiCmHkUctdV",
+   "best": "eBay",
+   "med": 148,
+   "ratio": 2.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953951367",
+   "title": "Vintage \u201cZero\u201d Desk Fan",
+   "price": 35,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/greentown-vintage-zero-desk-fan/fmZFY4w1QnCZgCtpJtU8wy",
+   "best": "+1",
+   "med": 85,
+   "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971618603",
+   "title": "Vintage Steel Card Cabinet",
+   "price": 40,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-steel-card-cabinet/9LZJ3XGr5mi1UpqCVwHsio",
+   "best": "+1",
+   "med": 95,
+   "ratio": 2.38,
+   "ai_value": "Value/Market Price: Generally sells secondhand between $40"
+  },
+  {
+   "pid": "7970333553",
+   "title": "VINTAGE WOODEN POTTY CHAIR",
+   "price": 40,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-wooden-potty-chair/r9mmtmWMHNoKxNkB3DzPxK",
+   "best": "+1",
+   "med": 94,
+   "ratio": 2.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981193715",
+   "title": "Beautiful Framed vintage needlepoint",
+   "price": 70,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-beautiful-framed-vintage/4Q8cpHvuFrwTAvvpYsvqoo",
+   "best": "+1",
+   "med": 161,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952184840",
+   "title": "Vintage hurricane lamps",
+   "price": 100,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-hurricane-lamps/iZD1LqakifHyGr6agfGEiC",
+   "best": "+2",
+   "med": 230,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933267011",
+   "title": "Vintage Weasel Spinner",
+   "price": 99,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/mooresville-vintage-weasel-spinner/aedXQjBg66p9SpptdduPxF",
+   "best": "ANTIQUE SPINNING WHEEL AND YARN WINDER SPINNING WHEEL | eBay",
+   "med": 180,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970384604",
+   "title": "Vintage Fan",
+   "price": 50,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/clarksville-vintage-fan/13ZmtoMFzPni2cGfWWgbEJ",
+   "best": "+4",
+   "med": 89,
+   "ratio": 1.78,
    "ai_value": ""
   },
   {
@@ -351,6 +1220,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7974637422",
+   "title": "Vintage Red-Tinted Glassware Set",
+   "price": 60,
+   "area": "wenatchee",
+   "url": "https://www.craigslist.org/view/d/bellingham-vintage-red-tinted-glassware/hx2Ly7DAEefHBPdNzcUi8s",
+   "best": "+1",
+   "med": 90,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946414044",
+   "title": "Antique Stoneware Jug",
+   "price": 60,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/underhill-antique-stoneware-jug/nhg9s83yTgJFps36aiBvhb",
+   "best": "Antique 1 Gal Two Tone Brown Salt Glaze Stoneware Crock Jug ...",
+   "med": 85,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7970293008",
    "title": "Beautiful Vintage Quilt",
    "price": 65,
@@ -373,6 +1264,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953015409",
+   "title": "Vintage tulip hurricane lamps",
+   "price": 100,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-tulip-hurricane-lamps/5zpNdbboMYrwTL7m8kyCbW",
+   "best": "+1",
+   "med": 129,
+   "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7939906266",
    "title": "Decoy vintage Duck",
    "price": 150,
@@ -381,6 +1283,72 @@
    "best": "+1",
    "med": 185,
    "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948578409",
+   "title": "Vintage table lamps pair",
+   "price": 90,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/douglas-vintage-table-lamps-pair/mJsMGFRvjcDq9ZmkTWUbpB",
+   "best": "+1",
+   "med": 95,
+   "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968101841",
+   "title": "Vintage oriental lamp",
+   "price": 99,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/penney-farms-vintage-oriental-lamp/hLHvfXkBRwpAZJ2v68yF4R",
+   "best": "+2",
+   "med": 80,
+   "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965265872",
+   "title": "Old Cast Iron Sinks",
+   "price": 15,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/duluth-old-cast-iron-sinks/6ZJ21VGqGHmY2DsPScJ2P6",
+   "best": "+2",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952067916",
+   "title": "Vintage Pepsi Beach Chair",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-pepsi-beach-chair/grP6yyq4bvZZeAmpPrWKeF",
+   "best": "If you are looking to buy, sell, or price one of these chairs, let me know:",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951860522",
+   "title": "Vintage Wicker Rocking Chair",
+   "price": 75,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/carrollton-vintage-wicker-rocking-chair/t3HJSrjVFcHAFis3ewnt6x",
+   "best": "Amazon.com: Jeco 3 Piece Rocker Wicker Chair Set, Black ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": "WorthPoint Vintage Antique Child's Wicker Rocking Chair | #1785096694 $325"
+  },
+  {
+   "pid": "7947442563",
+   "title": "white freightliner- truck emblem... vintage",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-clara-white-freightliner-truck/vxjjNf73LqGhPyFZApuVaz",
+   "best": "1960's - 1970,s WHITE FREIGHTLINER TRUCK TRACTOR EMBLEM ...",
+   "med": null,
+   "ratio": null,
    "ai_value": ""
   }
  ],
