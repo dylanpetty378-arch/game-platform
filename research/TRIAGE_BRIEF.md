@@ -85,3 +85,9 @@ The 2,211-listing redo found the earlier kill VERDICTS were mostly right, but ev
 valuable piece was only visible in photo 2+ (a base mark, a case back, a temple stamp, an advertising lid, unopened
 blade packs). For any multi-item lot or anything with a maker question, open ALL photos before deciding. Also: never
 repeat a Lens maker name without checking it in the photo — Lens named the wrong maker on most flagged rows.
+
+## Eye-first rows (Oct 13, 14:30) — supersedes Rethink rule 1 for these rows
+Rows whose `eye` column is filled were flagged by a picker scanning photo contact sheets (scripts/eye_screen.py). They
+are triaged without Lens: the eye flag is the identification hint; check it against ALL photos and the body. Sold
+evidence is required for a buy: say what Terapeak query would confirm it (`tp_query`), and the parent will run it.
+Tested-by-seller electronics need profit ≥ 3× price; $200–500 items need profit ≥ 10× price.

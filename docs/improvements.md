@@ -289,3 +289,18 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   93 through Lens, 38 flagged (41%), 0 blocks, 7 stalls, 2 stale-frame reads, 3 empty reads. Stopped by memory guard.
 - Lessons: performance.memory is cached — measure real memory with ps via osascript; Lens result pages land on
   `www.google.com/search?…udm=26`; a stalled iframe can return the previous item's text (now detected and retried).
+
+## 2026-10-13 — Why yield looked like it fell, and the eye-first test
+- **Diagnosis (7,800 reviewed listings, 109 leads):** the title score that picks 800 of 30–140k fresh listings per
+  harvest does not predict leads. Lead rate ≈1.4% in every score fifth, every category, price band and title keyword;
+  CLIP fifths the same; Lens-read 1.2% vs not 1.7%. Early runs looked richer because "leads" then were agent guesses
+  (2–3× high); with sold comps required, Run 12 was ~1 find per 1,000, the same as now.
+- **Redo of open leads under the current process:** 30 dropped (no sold comp, comp shows no margin, repair, authentication),
+  3 re-based on Terapeak (Bell 500-TX helmets ask, cobalt stoneware ask, Chinese silk panels Tier A ask).
+- **Eye-first test (scripts/eye_screen.py, run eye-20261013-1904):** 116,850 listings (12 h, 17 categories) → 91,277
+  after size/junk filters → random 12,000 as 100 contact sheets → 261 flagged by 8 agents (2.2%) → deep review:
+  11 asks, 0 buys. Per deep review: 4.2% asks vs ~1.4% for the score-picked 800 (≈3× efficiency). Per listing seen:
+  about the same yield. Eye flags misread ~1 in 7 thumbnails; the body text killed most fast.
+- **Conclusion:** neither title nor thumbnail finds golden eggs at a useful rate; the base rate on Craigslist ≤$500 is
+  ~1 sold-comp-confirmed find per 1,000 listings. The eye screen is kept as the selector because it is 3× cheaper per
+  lead. Knowledge from the review: research/eye-knowledge-20261013.md.
