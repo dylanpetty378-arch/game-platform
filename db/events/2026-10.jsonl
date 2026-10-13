@@ -19296,3 +19296,28 @@
 {"ts":"2026-10-13T15:55:19Z","pid":"7953344699","stage":"flagged","run":"lensworker-20261013-1547","data":{"med":126,"ratio":2.52}}
 {"ts":"2026-10-13T15:55:34Z","pid":"7927850282","stage":"expired","run":"liveness","note":"posting gone (was flagged/)"}
 {"pid":"7957580222","stage":"decided","status":"ask","type":"underground-comix","note":"Zap Comix #1, 35¢ cover, $50. Back cover 'Printed by Don Donahue' = 2nd printing (~5,000 run), raw VG $500-900 → Tier A; no printer line = Print Mint 3rd printing $40-70 → pass. ASK for back-cover + indicia photos. No sold comp yet.","run":"triage-20261013f","by":"claude","data":{"tier":"A?","est_resale":600},"ts":"2026-10-13T15:58:33Z"}
+{"ts":"2026-10-13T15:55:28Z","pid":"7939308333","stage":"queued","status":"relens","run":"lensworker-20261013-1547","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:55:37Z","pid":"7955411382","stage":"lensed","run":"lensworker-20261013-1547","data":{"med":9,"ratio":0.9}}
+{"ts":"2026-10-13T15:55:43Z","pid":"7963109112","stage":"lensed","run":"lensworker-20261013-1547","data":{"med":29,"ratio":1.93}}
+{"ts":"2026-10-13T15:55:51Z","pid":"7943470035","stage":"lensed","run":"lensworker-20261013-1547","data":{"med":40,"ratio":1.14}}
+{"ts":"2026-10-13T15:56:00Z","pid":"7963160799","stage":"lensed","run":"lensworker-20261013-1547","data":{"med":25,"ratio":1.39}}
+{"ts":"2026-10-13T15:56:08Z","pid":"7952277393","stage":"lensed","run":"lensworker-20261013-1547","data":{"med":55,"ratio":1.83}}
+{"ts":"2026-10-13T15:58:14Z","pid":"7978828992","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":47,"ratio":2.35}}
+{"ts":"2026-10-13T15:58:21Z","pid":"7971438426","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":50,"ratio":0.53}}
+{"ts":"2026-10-13T15:58:29Z","pid":"7957406798","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":184,"ratio":12.27}}
+{"ts":"2026-10-13T15:58:37Z","pid":"7958989359","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":50,"ratio":0.5}}
+{"ts":"2026-10-13T15:58:44Z","pid":"7955307167","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":107,"ratio":1.43}}
+{"ts":"2026-10-13T15:58:53Z","pid":"7947233982","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":28,"ratio":1.4}}
+{"ts":"2026-10-13T15:59:01Z","pid":"7973722053","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":140,"ratio":7}}
+{"ts":"2026-10-13T15:59:09Z","pid":"7950854589","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":30,"ratio":0.6}}
+{"ts":"2026-10-13T15:59:18Z","pid":"7951103436","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":1348,"ratio":13.48}}
+{"ts":"2026-10-13T15:59:26Z","pid":"7929905482","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":38,"ratio":1.52}}
+{"ts":"2026-10-13T15:59:34Z","pid":"7963530723","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":20,"ratio":1}}
+{"ts":"2026-10-13T15:59:42Z","pid":"7981712112","stage":"queued","status":"relens","run":"lensworker-20261013-1555","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T15:59:51Z","pid":"7931313397","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":175,"ratio":7}}
+{"ts":"2026-10-13T16:00:02Z","pid":"7941586899","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":10,"ratio":1}}
+{"ts":"2026-10-13T16:00:10Z","pid":"7981660311","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":110,"ratio":2.2}}
+{"ts":"2026-10-13T16:00:19Z","pid":"7956136828","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":100,"ratio":2}}
+{"ts":"2026-10-13T16:00:28Z","pid":"7957275164","stage":"lensed","run":"lensworker-20261013-1555","data":{"med":64,"ratio":2.13}}
+{"ts":"2026-10-13T16:00:37Z","pid":"7979501007","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":258,"ratio":4.3}}
+{"ts":"2026-10-13T16:00:46Z","pid":"7961437398","stage":"flagged","run":"lensworker-20261013-1555","data":{"med":4500,"ratio":56.25}}

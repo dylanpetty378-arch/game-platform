@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-13T15:55:35Z",
+ "updated": "2026-10-13T16:01:01Z",
  "tables": {
   "harvests": 6,
   "searches": 1504,
   "listings": 7007,
-  "lens": 5887,
-  "events": 19297,
+  "lens": 5912,
+  "events": 19323,
   "comps": 1350,
-  "item_types": 791,
+  "item_types": 795,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 5931,
-  "queued": 656,
+  "photo_review/kill": 5930,
+  "lensed": 101,
+  "queued": 631,
   "comps/pass": 1,
-  "queued/relens": 195,
-  "lensed": 87,
-  "decided/ask": 53,
+  "queued/relens": 197,
+  "decided/ask": 54,
   "decided/kill": 6,
   "decided/pass": 1,
-  "flagged": 57,
+  "flagged": 66,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 8
@@ -378,6 +378,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961437398",
+   "title": "Vintage oscilloscope",
+   "price": 80,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/des-moines-vintage-oscilloscope/rtDXp5JEFiY4grzuDCHVMF",
+   "best": "RCA WO-33A Oscilloscope",
+   "med": 4500,
+   "ratio": 56.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7957790297",
    "title": "Antique Winter Scene Print",
    "price": 20,
@@ -466,6 +477,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951103436",
+   "title": "Vintage pole lamp",
+   "price": 100,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/loomis-vintage-pole-lamp/iqkLAGWvskwYBRF575GcoD",
+   "best": "Tall Vintage English Walnut Standard Lamp, 1980 for sale at ...",
+   "med": 1348,
+   "ratio": 13.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7953914312",
    "title": "Beautiful Vintage Lamp",
    "price": 10,
@@ -474,6 +496,17 @@
    "best": "Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ...",
    "med": 126,
    "ratio": 12.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957406798",
+   "title": "Antique Tin Comb Cases",
+   "price": 15,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-antique-tin-comb-cases/rYiaht1X5fijv5wjA4TKpe",
+   "best": "Wooden Philco Radio Cathedral Wind Up Music Box Sanyo ...",
+   "med": 184,
+   "ratio": 12.27,
    "ai_value": ""
   },
   {
@@ -529,6 +562,28 @@
    "best": "Tiger's Eye Necklace - Peacock Necklace - Pearl Necklace ...",
    "med": 78,
    "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931313397",
+   "title": "Antique Doll",
+   "price": 25,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/florence-antique-doll/eh2JLndMJ3dp63CeA3xFCC",
+   "best": "Vintage Madame Alexander Elise Doll; Red Hair Girl w/ Pink ...",
+   "med": 175,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973722053",
+   "title": "Old branding iron",
+   "price": 20,
+   "area": "visalia",
+   "url": "https://www.craigslist.org/view/d/reedley-old-branding-iron/1VAzmFM6W9dMQVK6MQpPRc",
+   "best": "Wild West Vtg Branding Iron Hand Forged Cattle Brand Bar 5 ...",
+   "med": 140,
+   "ratio": 7,
    "ai_value": ""
   },
   {
@@ -607,6 +662,17 @@
    "med": 65,
    "ratio": 4.33,
    "ai_value": ""
+  },
+  {
+   "pid": "7979501007",
+   "title": "Large Antique Copper Kettle",
+   "price": 60,
+   "area": "iowacity",
+   "url": "https://www.craigslist.org/view/d/mount-horeb-large-antique-copper-kettle/o2oRSQrizd1KyL9ucNuXkC",
+   "best": "W.S. Adams & Sons Ironmongers Queen Copper Kettle Teapot Tea ...",
+   "med": 258,
+   "ratio": 4.3,
+   "ai_value": "Value: Similar antique copper kettles generally sell in the $180 to $450"
   },
   {
    "pid": "7944079877",
@@ -807,6 +873,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981660311",
+   "title": "1970-80 vintage champion jacket",
+   "price": 50,
+   "area": "humboldt",
+   "url": "https://www.craigslist.org/view/d/eureka-vintage-champion-jacket/6zovm4oUA9Z4RfmRGJM5kS",
+   "best": "Label Details",
+   "med": 110,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7951803040",
    "title": "sterling silver candle holders",
    "price": 100,
@@ -815,6 +892,17 @@
    "best": "Las mejores ofertas en Gorham post - 1940 objetos antiguos ...",
    "med": 215,
    "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956136828",
+   "title": "Vintage Argus camera",
+   "price": 50,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/somerset-vintage-argus-camera/qSBAd1ZUQGArQYWBct8FEH",
+   "best": "Vintage Argus C3 Camera in Leather Case Circa early 1950s ...",
+   "med": 100,
+   "ratio": 2,
    "ai_value": ""
   },
   {
@@ -882,6 +970,17 @@
    "med": 80,
    "ratio": 1.45,
    "ai_value": ""
+  },
+  {
+   "pid": "7955307167",
+   "title": "Vintage Large Wicker Basket",
+   "price": 75,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-vintage-large-wicker-basket/mo6EuEjmYtVdwqCefCe72v",
+   "best": "French Provincial Tall 2 Handle Wicker Basket | Chairish",
+   "med": 107,
+   "ratio": 1.43,
+   "ai_value": "Value: Typically ranges from about $20"
   },
   {
    "pid": "7975529115",
@@ -1541,6 +1640,16 @@
    "note": "Fender silverface CHAMP tube amp (3 knobs Vol/Treble/Bass, blue-script 'Champ', 2 inputs; back plate 'Fender/CBS Musical Instruments Fullerton', 6 W RMS, 3.2 ohm \u2014 the AA764 Champ spec, c.1975-81). Replacement Pyle Driver speaker (original would add ~$100). Seller: works as it should, father's amp, $50, text for pickup \u2014 ask to ship (~20 lb, $35 each way). Entry buy rule: vintage Fender silverface tube amp under $250. Est resale $350 low (replaced speaker; Reverb/eBay $350-550). Profit ~$180 = 3.6x price. Confirm tube chart/serial photo and that the tubes (6V6, 12AX7, 5Y3) are present",
    "stage": "decided",
    "status": "find"
+  },
+  {
+   "pid": "7957580222",
+   "title": "ZAP COMIC FIRST Edition",
+   "price": 50,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-zap-comic-first-edition/vE1uE7uG49Le8y9APhFT4G",
+   "note": "Zap Comix #1, 35\u00a2 cover, $50. Back cover 'Printed by Don Donahue' = 2nd printing (~5,000 run), raw VG $500-900 \u2192 Tier A; no printer line = Print Mint 3rd printing $40-70 \u2192 pass. ASK for back-cover + indicia photos. No sold comp yet.",
+   "stage": "decided",
+   "status": "ask"
   },
   {
    "pid": "7977567654",
