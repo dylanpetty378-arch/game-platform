@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T17:01:33Z
+# Refurbish status — 2026-10-13T17:04:49Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,11 +7,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 6698 |
-| queued | 675 |
-| flagged | 164 |
-| lensed | 160 |
+| queued | 650 |
+| flagged | 175 |
+| lensed | 162 |
 | decided/ask | 51 |
-| queued/relens | 28 |
+| queued/relens | 40 |
 | decided/find | 9 |
 | decided/kill | 8 |
 | expired | 8 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 7
 - searches: 1727
 - listings: 7807
-- lens: 6178
-- events: 21248
+- lens: 6203
+- events: 21273
 - comps: 1561
 - item_types: 801
 - runs: 0
@@ -103,7 +103,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00V0V_dGZSsOXo0V5_09G03K_300x300.jpg" width="160"> | [WWII US M3 CASE 1943 KNIFE](https://www.craigslist.org/view/d/yakima-wwii-us-m3-case-1943-knife/i7Hcuk756VG3uuDbb2nVNs) | $100 | yakima | **decided/ask** — WWII US M3 trench knife, stacked-leather grip, steel cross guard, sold with a Pacific-island wood/brass souvenir dagger for $100 both. Blade heavily pitted, no M8 scabbard, maker mark NOT shown. Only a crisp "U.S. M3 CAS |
 | <img src="https://images.craigslist.org/00r0r_cjWfJ7PAvej_0mB0t2_300x300.jpg" width="160"> | [Vintage Patty Hearst Tania SLA Poster](https://www.craigslist.org/view/d/garden-grove-vintage-patty-hearst-tania/67mgvrXgPbuaZ3CZU9z7uC) | $100 | orangecounty | **decided/ask** — 1974 'TANIA' Patty Hearst SLA halftone poster 16x22, toned newsprint, pin holes, shrink-wrapped to board — originals sold $150-300, reprints $20. ASK: offer $50; photo of paper edge/back to confirm thin toned 1974 newspr |
 
-## Flagged by Lens, waiting for photo review (164)
+## Flagged by Lens, waiting for photo review (175)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -121,6 +121,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01111_XC0S5oP5UE_0t20CI_300x300.jpg" width="120"> | 7934479671 | $100 | albuquerque | [Vintage Pendulum clock](https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/rJdaGmo7RFLTAkrCMPiLvr) | eBay | 3200 | 32 |
 | <img src="https://images.craigslist.org/00C0C_hWJr1cjM5aH_0uz0CI_300x300.jpg" width="120"> | 7960624842 | $40 | chico | [Vintage Bathroom/Outdoor Light Fixture](https://www.craigslist.org/view/d/chico-vintage-bathroom-outdoor-light/nbauhVtzQ3PKtv2K76mLi9) | Craigslist | 875 | 21.88 |
 | <img src="https://images.craigslist.org/00g0g_cVyYS7HkBLT_0lN0CI_300x300.jpg" width="120"> | 7944107723 | $5 | minneapolis | [Wristwatch, Elgin, c 1980, Quartz Men's Wristwatch](https://www.craigslist.org/view/d/mound-wristwatch-elgin-1980-quartz-mens/rk5o35Ww835ihddKSVBVQc) | Vintage Elgin Mens Watch 33mm Gold Tone 17 Jewels NOT ... | 105 | 21 |
+| <img src="https://images.craigslist.org/00j0j_gCsLu0nHrQa_0lM0t2_300x300.jpg" width="120"> | 7958028950 | $75 | reading | [VINTAGE FLOOR  TOM DRUM](https://www.craigslist.org/view/d/reading-vintage-floor-tom-drum/iQ5HgkYpg9Y2tFcjVhZcm6) | Drugan's Drums & Guitars | 1476 | 19.68 |
 | <img src="https://images.craigslist.org/00e0e_aubgXzLJYxy_0t20CI_300x300.jpg" width="120"> | 7951818601 | $20 | oklahomacity | [Antique Fork](https://www.craigslist.org/view/d/wichita-antique-fork/p16Z6C3wPvGs2zVbHRP5VN) | Classicist Silver Roast Fork, France, 1880s for sale at Pamo | 346 | 17.3 |
 | <img src="https://images.craigslist.org/01111_jTyXc7NfY30_0t20CI_300x300.jpg" width="120"> | 7981830597 | $100 | phoenix | [Vintage Floor Lamp](https://www.craigslist.org/view/d/marana-vintage-floor-lamp/gFGjDj9SKNv5exL8dqxKxg) | Vtg STIFFEL Enamel and Brass Candlestick Lamps with ... | 1550 | 15.5 |
 | <img src="https://images.craigslist.org/00j0j_e1mwnWBMhWP_0CI0t2_300x300.jpg" width="120"> | 7943870857 | $65 | sfbay | [Vintage Stoneware Vase Glidden Pottery USA Round #](https://www.craigslist.org/view/d/oakland-vintage-stoneware-vase-glidden/1HCNFVwn6zswDUrDbu3McC) | Origin: Made in New York, USA by Glidden Pottery (1940s–1950 | 995 | 15.31 |
@@ -143,6 +144,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01616_h9HsRB9g1os_0l00t2_300x300.jpg" width="120"> | 7949106731 | $100 | sandiego | [PHOENIX RISING - ANTIQUE CHINESE VASE](https://www.craigslist.org/view/d/la-jolla-phoenix-rising-antique-chinese/t6vAmUdBMMsPzSoLk8nDwh) | Vintage Blue Cloisonné Enamel Brass Jar Table Lamp Floral .. | 725 | 7.25 |
 | <img src="https://images.craigslist.org/00303_7ZOlqApiPB9_0AP0o7_300x300.jpg" width="120"> | 7939105997 | $125 | augusta | [Ladies Sterling Silver Band](https://www.craigslist.org/view/d/macon-ladies-sterling-silver-band/mzvnHK3i7fxeCVM4JN7WmE) | Southwest Sterling Silver and Turquoise Watch Cuff Bracelet  | 900 | 7.2 |
 | <img src="https://images.craigslist.org/01313_cNS78cejvzm_0iA0dW_300x300.jpg" width="120"> | 7942627095 | $35 | cincinnati | [Vintage "FAT" lamp](https://www.craigslist.org/view/d/grove-city-vintage-fat-lamp/db4R84iEJmHorhzwjiZs57) | www.casavictoriala.com | 250 | 7.14 |
+| <img src="https://images.craigslist.org/00Y0Y_47qHYTgticg_0CI0t2_300x300.jpg" width="120"> | 7928807810 | $30 | fresno | [Sterling Silver Opal Ring .925 Silver](https://www.craigslist.org/view/d/fresno-sterling-silver-opal-ring-925/fxmTz7Uy842u7MqHnSu4Yy) | Classic White CZ White Lab Opal Ring New .925 Sterling ... | 211 | 7.03 |
 | <img src="https://images.craigslist.org/01616_50zp6RzwvjVz_07K0ak_300x300.jpg" width="120"> | 7956750947 | $20 | charlotte | [Vintage flat bottom cast iron bean pot or cauldron](https://www.craigslist.org/view/d/misenheimer-vintage-flat-bottom-cast/8ACCTsJcAALk9y54KTZARC) | Antique HF Co. 3 Leg Kettle Cast Iron No. 8 3 Footed Kettle  | 140 | 7 |
 | <img src="https://images.craigslist.org/00d0d_hEljhxjZPDB_0t20CI_300x300.jpg" width="120"> | 7936792585 | $20 | houston | [Half Dollar Wrist Watch](https://www.craigslist.org/view/d/houston-half-dollar-wrist-watch/2myQNr8T8Kt1u6gUt8GuHe) | Working American Historic Time Piece Half Dollar Wristwatch  | 139 | 6.95 |
 | <img src="https://images.craigslist.org/00F0F_80jyjRSS53x_0Cz0t2_300x300.jpg" width="120"> | 7951354578 | $50 | iowacity | [Vintage Skil belt sander](https://www.craigslist.org/view/d/janesville-vintage-skil-belt-sander/e1X4uuxKAVeDsZyp5Gjq8w) | Vintage Model 448 Skil Locomotive Belt Sander Made In USA | 345 | 6.9 |
@@ -150,6 +152,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_eLssAkeeuFb_0CI0t2_300x300.jpg" width="120"> | 7935132535 | $50 | phoenix | [Two Vintage Art Prints](https://www.craigslist.org/view/d/sun-city-west-two-vintage-art-prints/nMyWFavjQ1GsmivPm9VMQN) | www.pamono.com | 325 | 6.5 |
 | <img src="https://images.craigslist.org/00o0o_2KmOpqaCezl_0CI0t2_300x300.jpg" width="120"> | 7957509338 | $20 | oklahomacity | [Antique Hand Tool Box](https://www.craigslist.org/view/d/wichita-antique-hand-tool-box/s4YdtAkVdNowTVVgtm8o7y) | Market Value: Similar vintage or handmade wood carriers typi | 130 | 6.5 |
 | <img src="https://images.craigslist.org/00z0z_h8KSDxpa8ae_0bK0b6_300x300.jpg" width="120"> | 7931828187 | $10 | philadelphia | [Necklace and Earring Sets](https://www.craigslist.org/view/d/philadelphia-necklace-and-earring-sets/hidEZ34EJPQLtqXgyrhGHZ) | Earrings: A pair of rectangular/geometric clip-on earrings f | 65 | 6.5 |
+| <img src="https://images.craigslist.org/00303_25v73MddkhH_0t20CI_300x300.jpg" width="120"> | 7982807664 | $60 | rochester | [Mandolin](https://www.craigslist.org/view/d/rochester-mandolin/3FD5C85dUi7yeLJydXyszZ) | Restoring a Romanian-made mandolin | 380 | 6.33 |
 | <img src="https://images.craigslist.org/00E0E_kdi5FdwNCpx_0pO0jm_300x300.jpg" width="120"> | 7950290971 | $75 | columbus | [Old Acoustic Guitar](https://www.craigslist.org/view/d/chillicothe-old-acoustic-guitar/gyMWusLePjztqkh5QW4SD7) | 38" Woolworth's Audition Guitar Acoustic 6-String Vintage .. | 468 | 6.24 |
 | <img src="https://images.craigslist.org/00s0s_cvMOCiQ7M4P_0CI0t2_300x300.jpg" width="120"> | 7945944456 | $200 | sfbay | [vintage Beetles albums/ records](https://www.craigslist.org/view/d/fresno-vintage-beetles-albums-records/23BQ5u1ufFKH9Cs1LbbUwQ) | Beatles-Sgt. Pepper's Lonely Hearts Club Band-1967 Capitol . | 1191 | 5.96 |
 | <img src="https://images.craigslist.org/00909_agZf8sxgQ5P_0t20CI_300x300.jpg" width="120"> | 7981479300 | $20 | reno | [Vintage floral bracelt](https://www.craigslist.org/view/d/citrus-heights-vintage-floral-bracelt/nZumSLbiK9XmvvFxLWStyk) | eBay | 118 | 5.9 |
@@ -226,6 +229,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00S0S_56e4DutTLBp_0oG0t2_300x300.jpg" width="120"> | 7942805077 | $100 | reno | [ANTIQUE YARN WINDER](https://www.craigslist.org/view/d/sacramento-antique-yarn-winder/64NRZVwG4MM6LzF5idmEe6) | Function: Used in historical textile work to wind spun yarn  | 180 | 1.8 |
 | <img src="https://images.craigslist.org/00A0A_dmvxo4aSihF_0lM0CI_300x300.jpg" width="120"> | 7939971376 | $80 | reno | [NICE ORNATE VINTAGE LAMPS](https://www.craigslist.org/view/d/carmichael-nice-ornate-vintage-lamps/3cYpnPosh2nqqjUXiETdHD) | Medallion Artwork: Oval hand-painted or decal plaques featur | 144 | 1.8 |
 | <img src="https://images.craigslist.org/00v0v_8Kolvnie9Ny_0zD0CI_300x300.jpg" width="120"> | 7930151538 | $75 | salem | [VINTAGE BOILER](https://www.craigslist.org/view/d/salem-vintage-boiler/hchZuKvncHPBQZxQnyUUbr) | Galvanized Boiler Tub - Etsy | 135 | 1.8 |
-| <img src="https://images.craigslist.org/00P0P_jSzSD4zzhQ3_0p40t2_300x300.jpg" width="120"> | 7953823535 | $75 | tucson | [Antique sterling needle case](https://www.craigslist.org/view/d/tucson-antique-sterling-needle-case/nqYuv4XV4CDuMa6Qsv66bj) | You searched for chatelaine aide memoire - Morning Glory ... | 135 | 1.8 |
-| <img src="https://images.craigslist.org/00A0A_dmvxo4aSihF_0lM0CI_300x300.jpg" width="120"> | 7939342862 | $80 | sacramento | [NICE ORNATE VINTAGE LAMPS](https://www.craigslist.org/view/d/carmichael-nice-ornate-vintage-lamps/ubjQSwJLAS3XnAD1B1pPPg) | Plaque Artwork: Oval hand-painted or decal medallions on the | 144 | 1.8 |
-| <img src="https://images.craigslist.org/00p0p_ac0QJcnbu7r_0t20CI_300x300.jpg" width="120"> | 7978405131 | $65 | seattle | [vintage STIG LARSON GUSTAVSBERG TEAPOT](https://www.craigslist.org/view/d/bainbridge-island-vintage-stig-larson/tAG6yKUystx6YxwZbG2bJv) | Auctionet | 115 | 1.77 |

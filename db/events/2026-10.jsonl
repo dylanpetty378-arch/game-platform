@@ -21246,3 +21246,28 @@
 {"ts":"2026-10-13T17:01:02Z","pid":"7965361485","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Size — title does not","data":{"med":98,"ratio":2.18,"mismatch":["Size"]}}
 {"ts":"2026-10-13T17:01:09Z","pid":"7953541770","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Royal — title does not","data":{"med":34,"ratio":3.4,"mismatch":["Royal"]}}
 {"ts":"2026-10-13T17:01:16Z","pid":"7979630007","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:01:27Z","pid":"7939105740","stage":"flagged","run":"lensworker-20261013-1657","note":null,"data":{"med":80,"ratio":0.64,"mismatch":[]}}
+{"ts":"2026-10-13T17:01:33Z","pid":"7952959911","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:01:39Z","pid":"7936601621","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:01:46Z","pid":"7981564062","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Origin, Waterbury — title does not","data":{"med":61,"ratio":0.61,"mismatch":["Origin","Waterbury"]}}
+{"ts":"2026-10-13T17:01:52Z","pid":"7938042859","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:02:03Z","pid":"7960562115","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Origin — title does not","data":{"med":30,"ratio":0.67,"mismatch":["Origin"]}}
+{"ts":"2026-10-13T17:02:11Z","pid":"7949601267","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Enesco Precious Moments — title does not","data":{"med":15,"ratio":0.79,"mismatch":["Enesco Precious Moments"]}}
+{"ts":"2026-10-13T17:02:18Z","pid":"7951798694","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:02:24Z","pid":"7979272206","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:02:32Z","pid":"7980475125","stage":"lensed","run":"lensworker-20261013-1657","note":null,"data":{"med":43,"ratio":4.3,"mismatch":[]}}
+{"ts":"2026-10-13T17:02:40Z","pid":"7979016309","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Evans — title does not","data":{"med":40,"ratio":0.4,"mismatch":["Evans"]}}
+{"ts":"2026-10-13T17:02:47Z","pid":"7935333595","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Size — title does not","data":{"med":null,"ratio":null,"mismatch":["Size"]}}
+{"ts":"2026-10-13T17:02:53Z","pid":"7951014411","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:03:00Z","pid":"7931135530","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:03:07Z","pid":"7933380498","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:03:17Z","pid":"7929163965","stage":"lensed","run":"lensworker-20261013-1657","note":null,"data":{"med":120,"ratio":3,"mismatch":[]}}
+{"ts":"2026-10-13T17:03:24Z","pid":"7982807664","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Portuguese — title does not","data":{"med":380,"ratio":6.33,"mismatch":["Portuguese"]}}
+{"ts":"2026-10-13T17:03:33Z","pid":"7928807810","stage":"flagged","run":"lensworker-20261013-1657","note":null,"data":{"med":211,"ratio":7.03,"mismatch":[]}}
+{"ts":"2026-10-13T17:03:41Z","pid":"7978553298","stage":"flagged","run":"lensworker-20261013-1657","note":null,"data":{"med":90,"ratio":1.8,"mismatch":[]}}
+{"ts":"2026-10-13T17:03:50Z","pid":"7960955217","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Brazil, Origin — title does not","data":{"med":72,"ratio":0.9,"mismatch":["Brazil","Origin"]}}
+{"ts":"2026-10-13T17:03:56Z","pid":"7960519989","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:04:03Z","pid":"7929788267","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:04:12Z","pid":"7958028950","stage":"flagged","run":"lensworker-20261013-1657","note":"Lens names Hardware, Ludwig, MIJ, Rogers — title does not","data":{"med":1476,"ratio":19.68,"mismatch":["Hardware","Ludwig","MIJ","Rogers"]}}
+{"ts":"2026-10-13T17:04:19Z","pid":"7980997233","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-13T17:04:26Z","pid":"7949809442","stage":"queued","status":"relens","run":"lensworker-20261013-1657","note":"empty Lens read, auto re-queued"}

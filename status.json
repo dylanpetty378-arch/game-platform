@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:01:33Z",
+ "updated": "2026-10-13T17:04:49Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6178,
-  "events": 21248,
+  "lens": 6203,
+  "events": 21273,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 160,
+  "lensed": 162,
   "comps/pass": 1,
-  "queued/relens": 28,
+  "queued/relens": 40,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 164,
+  "flagged": 175,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 675
+  "queued": 650
  },
  "last_harvests": [
   {
@@ -493,6 +493,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958028950",
+   "title": "VINTAGE FLOOR  TOM DRUM",
+   "price": 75,
+   "area": "reading",
+   "url": "https://www.craigslist.org/view/d/reading-vintage-floor-tom-drum/iQ5HgkYpg9Y2tFcjVhZcm6",
+   "best": "Drugan's Drums & Guitars",
+   "med": 1476,
+   "ratio": 19.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7951818601",
    "title": "Antique Fork",
    "price": 20,
@@ -735,6 +746,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928807810",
+   "title": "Sterling Silver Opal Ring .925 Silver",
+   "price": 30,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-sterling-silver-opal-ring-925/fxmTz7Uy842u7MqHnSu4Yy",
+   "best": "Classic White CZ White Lab Opal Ring New .925 Sterling ...",
+   "med": 211,
+   "ratio": 7.03,
+   "ai_value": ""
+  },
+  {
    "pid": "7956750947",
    "title": "Vintage flat bottom cast iron bean pot or cauldron",
    "price": 20,
@@ -809,6 +831,17 @@
    "best": "Earrings: A pair of rectangular/geometric clip-on earrings featuring matching multi-colored art glass or ename",
    "med": 65,
    "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982807664",
+   "title": "Mandolin",
+   "price": 60,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-mandolin/3FD5C85dUi7yeLJydXyszZ",
+   "best": "Restoring a Romanian-made mandolin",
+   "med": 380,
+   "ratio": 6.33,
    "ai_value": ""
   },
   {
@@ -1670,6 +1703,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978553298",
+   "title": "Vintage brooch",
+   "price": 50,
+   "area": "lakeland",
+   "url": "https://www.craigslist.org/view/d/winter-haven-vintage-brooch/dtJ14aba77mgkUdzF29yNY",
+   "best": "Craigslist",
+   "med": 90,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7978405131",
    "title": "vintage STIG LARSON GUSTAVSBERG TEAPOT",
    "price": 65,
@@ -1945,6 +1989,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960955217",
+   "title": "Vintage Hering Membi Harmonica",
+   "price": 80,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/bayonne-vintage-hering-membi-harmonica/wX9qVjj2UFGqRkc8UHPoyw",
+   "best": "Craigslist",
+   "med": 72,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7934461182",
    "title": ".925 Sterling Silver Ring Lot of 4",
    "price": 30,
@@ -1986,6 +2041,17 @@
    "best": "Stella & Dot Gold Tone Green Acrylic Stone Bib Dangle ...",
    "med": 28,
    "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949601267",
+   "title": "Vintage Enesco \u201cPrecious Moments\u201d Special Figurines",
+   "price": 19,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/elkhorn-vintage-enesco-precious-moments/1991BPDBvphFcTEyshzMpr",
+   "best": "VTG 1984 Enesco Precious Moments \"Join In The Blessings\" Mbr ...",
+   "med": 15,
+   "ratio": 0.79,
    "ai_value": ""
   },
   {
@@ -2033,6 +2099,28 @@
    "ai_value": "Value / Market Price: Typically ranges between $75"
   },
   {
+   "pid": "7960562115",
+   "title": "Antique glass paperwights",
+   "price": 45,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/jamestown-antique-glass-paperwights/bGXyDKCA7YicwqhZaLwNLX",
+   "best": "WorthPoint",
+   "med": 30,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939105740",
+   "title": "2 strand Green Turquoise/Heart Pendant/Sterling silver necklace",
+   "price": 125,
+   "area": "augusta",
+   "url": "https://www.craigslist.org/view/d/macon-strand-green-turquoise-heart/oGWw1c37FoinQd2NS9eKqd",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 0.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7953805998",
    "title": ".925 Sterling Silver Pendant Lot for Necklaces",
    "price": 150,
@@ -2041,6 +2129,17 @@
    "best": "Sterling Silver Pendants Earrings Necklaces Jewelry ...",
    "med": 95,
    "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981564062",
+   "title": "Emil Schmeckenbecher Ship Clock",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-emil-schmeckenbecher-ship/qRSwq8A7dJm8ewHgDxrYop",
+   "best": "Antique Waterbury Jeweled Ship Wheel Brass Clock ...",
+   "med": 61,
+   "ratio": 0.61,
    "ai_value": ""
   },
   {
@@ -2074,6 +2173,17 @@
    "best": "Marks4Antiques",
    "med": 100,
    "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979016309",
+   "title": "Antique Robert Portner beer/soda bottle collection",
+   "price": 100,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-antique-robert-portner-beer/pV48rqro4EL6PgBeLkVwJS",
+   "best": "Auctions - Jeffrey S. Evans & Associates",
+   "med": 40,
+   "ratio": 0.4,
    "ai_value": ""
   },
   {
@@ -2160,6 +2270,17 @@
    "area": "seks",
    "url": "https://www.craigslist.org/view/d/lincoln-vintage-village-antique-mall/nuweToFUgpWdwc9i7rpqWP",
    "best": "Store Details",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935333595",
+   "title": "Vintage Asian Snuff Bottles",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vintage-asian-snuff-bottles/1NXtZQmXbdF1spxUecYyzk",
+   "best": "Size: Approximately 3 inches (7.6 cm) tall.",
    "med": null,
    "ratio": null,
    "ai_value": ""
