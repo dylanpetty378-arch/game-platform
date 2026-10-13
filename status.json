@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:55:14Z",
+ "updated": "2026-10-13T13:58:34Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5112,
-  "events": 15047,
+  "lens": 5137,
+  "events": 15072,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 753,
-  "queued": 1128,
+  "lensed": 768,
+  "queued": 1103,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 384,
-  "flagged": 559,
+  "queued/relens": 388,
+  "flagged": 565,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -389,6 +389,17 @@
    "best": "Craigslist",
    "med": 6944,
    "ratio": 115.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941007294",
+   "title": "Handcrafted vintage model ship",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-handcrafted-vintage-model/4X6dkVsJKNfrWkh9KEYZz3",
+   "best": "Etsy",
+   "med": 2820,
+   "ratio": 112.8,
    "ai_value": ""
   },
   {
@@ -2130,6 +2141,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947077810",
+   "title": "Vintage BARBIE FASHION OUTFIT COLLECTION - Valentine Lot - Mattel",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-barbie-fashion/paiNwGLYWThYhCMKyFTJ6h",
+   "best": "1983 Vintage Loving You Barbie In Original Dress Mattel 7072 ...",
+   "med": 144,
+   "ratio": 7.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7955459158",
    "title": "Antique Box",
    "price": 20,
@@ -3472,6 +3494,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950095324",
+   "title": "ANTIQUE HOME HEATING GRATE",
+   "price": 25,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/south-harrison-township-antique-home/iLYutmAsEWhUcFYmuNeRU7",
+   "best": "Craigslist",
+   "med": 99,
+   "ratio": 3.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7982687613",
    "title": "Beautiful Vintage Seiko Watch",
    "price": 80,
@@ -3721,6 +3754,17 @@
    "url": "https://www.craigslist.org/view/d/tomball-cigar-humidor-vintage/fth5pYdKm7u5duptbbWJJQ",
    "best": "Vintage Sheffield England Double Cigare Case, Stainless ...",
    "med": 210,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932312408",
+   "title": "Beatles memorabilia",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/coventry-beatles-memorabilia/iH6uNPCCR2Pd71CcrUGhnW",
+   "best": "Beatles (Icons Gift Tins) Book The Fast Free Shipping | eBay",
+   "med": 70,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -4172,6 +4216,17 @@
    "url": "https://www.craigslist.org/view/d/santa-ana-doll-vintage-brazil-wow/jK1fJ7qE433m4TSAy8oSFD",
    "best": "Era & Style: These handmade folk souvenir dolls were commonly produced from the mid-20th century (often dating",
    "med": 73,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954912407",
+   "title": "Court Dancer - Thailand",
+   "price": 160,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-court-dancer-thailand/dJHhsxr29WsDwVpsuthGJf",
+   "best": "Mid-20th Century Thai Teppanom Gilded Bronze Buddhist Dancer ...",
+   "med": 467,
    "ratio": 2.92,
    "ai_value": ""
   },
@@ -4667,6 +4722,17 @@
    "url": "https://www.craigslist.org/view/d/logan-vintage-elegant-rhinestone-2l/iVsoz5WmuzFPLQQvFpCePb",
    "best": "Vintage Tiered Pink Rhinestone and Pink Enameled Aurora ...",
    "med": 110,
+   "ratio": 2.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966748100",
+   "title": "Vintage Crystal Perfume Bottle- signed and dated James Clarke",
+   "price": 95,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-crystal-perfume-bottle/fFvMVv4y7LSKjJBVYT8Bui",
+   "best": "Google",
+   "med": 232,
    "ratio": 2.44,
    "ai_value": ""
   },

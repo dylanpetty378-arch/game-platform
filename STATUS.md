@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T13:55:14Z
+# Refurbish status — 2026-10-13T13:58:34Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1128 |
-| lensed | 753 |
-| flagged | 559 |
-| queued/relens | 384 |
+| queued | 1103 |
+| lensed | 768 |
+| flagged | 565 |
+| queued/relens | 388 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 5112
-- events: 15047
+- lens: 5137
+- events: 15072
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (559)
+## Flagged by Lens, waiting for photo review (565)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -101,6 +101,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_dbPkPOOtj2M_0aT0ew_300x300.jpg" width="120"> | 7958018189 | $12 | hartford | [Water Pitcher:  Hammered Tin](https://www.craigslist.org/view/d/enfield-water-pitcher-hammered-tin/wGN7xXfrbKX667d5x3JxFc) | Craigslist | 1450 | 120.83 |
 | <img src="https://images.craigslist.org/00d0d_8zv5XMMLY8u_0kc0hM_300x300.jpg" width="120"> | 7982701905 | $4 | madison | [4 New Breast Cancer Jewelry - $11 each OR $4 Both ](https://www.craigslist.org/view/d/mc-farland-new-breast-cancer-jewelry-11/46A9sDDg73Hpo6oWjDoVhv) | Brighton "EVERBLOOM FLUTTER" Necklace-Earring-Bracelet Set . | 478 | 119.5 |
 | <img src="https://images.craigslist.org/00k0k_4ljwMFOVoV9_0ne0hq_300x300.jpg" width="120"> | 7952251586 | $60 | phoenix | [vintage camera case](https://www.craigslist.org/view/d/scottsdale-vintage-camera-case/psaRdiz3Abv9QAdhTktkxW) | Craigslist | 6944 | 115.73 |
+| <img src="https://images.craigslist.org/00b0b_1J0jfQi5ihU_0i90eD_300x300.jpg" width="120"> | 7941007294 | $25 | losangeles | [Handcrafted vintage model ship](https://www.craigslist.org/view/d/santa-monica-handcrafted-vintage-model/4X6dkVsJKNfrWkh9KEYZz3) | Etsy | 2820 | 112.8 |
 | <img src="https://images.craigslist.org/00g0g_1vtL3Z7vxPk_0t20CI_300x300.jpg" width="120"> | 7978899858 | $1 | myrtlebeach | [Coins, vintage necklace](https://www.craigslist.org/view/d/pawleys-island-coins-vintage-necklace/kRCDycuqQiWBCmtF51duw9) | 1890-CC Morgan Silver Dollar Coin / Bullion Shark Rare Coins | 110 | 110 |
 | <img src="https://images.craigslist.org/00T0T_pF3o5oFmSB_0t90CI_300x300.jpg" width="120"> | 7971410328 | $1 | grandisland | [Vintage Designer Fine Jewelry By Tiffany, Taxco, R](https://www.craigslist.org/view/d/omaha-vintage-designer-fine-jewelry-by/hP2pzZTWhw7g25GpK1VqcS) | RLM Sterling Silver Double Hoop Large 2-“ Dangle Earrings /  | 95 | 95 |
 | <img src="https://images.craigslist.org/00M0M_8IQ7I9tsYg5_0CI0t2_300x300.jpg" width="120"> | 7954055278 | $150 | boston | [Antique Malaya Solid Silver Cruet Set](https://www.craigslist.org/view/d/epping-antique-malaya-solid-silver/uwhYAzrxkaQbTjFCEEQrfe) | Etsy | 14000 | 93.33 |
@@ -212,4 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00V0V_jwuIUiFUN4u_0jm0ew_300x300.jpg" width="120"> | 7940245982 | $10 | albany | [(10) Hallmark mini Lunchboxes Hot Wheels, Snoopy](https://www.craigslist.org/view/d/albany-10-hallmark-mini-lunchboxes-hot/meid3fwxrqeTmULL5MJyda) | Vintage Metal Lunch Boxes - Etsy | 100 | 10 |
 | <img src="https://images.craigslist.org/00R0R_jcu6PXQ3xpC_09M0t2_300x300.jpg" width="120"> | 7982698512 | $40 | portland | [Vintage Australian Aboriginal Didgeridoo Hand Pain](https://www.craigslist.org/view/d/vancouver-vintage-australian-aboriginal/kgdvVBvN3tpSBS8ejbLDZV) | Vintage Didgeridoo 51" Wood Wind Instrument / eBay | 390 | 9.75 |
 | <img src="https://images.craigslist.org/00303_5TrprcZ9Dzu_0t20CI_300x300.jpg" width="120"> | 7931278745 | $100 | potsdam | [Antique Grain Scythe](https://www.craigslist.org/view/d/glens-falls-antique-grain-scythe/1vvW5ZRaiAWseHD3GPQfzq) | 86 Vintage | 960 | 9.6 |
-| <img src="https://images.craigslist.org/00101_b4dFgiBx6rO_0CI0t2_300x300.jpg" width="120"> | 7950623954 | $50 | minneapolis | [Vintage WWII Mountain Snowshoes](https://www.craigslist.org/view/d/lakeville-vintage-wwii-mountain/nKEErGkBTT9CeGn8CpnUeS) | Vintage 1940s Bear Claw Snow Shoes - Etsy | 475 | 9.5 |
