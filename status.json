@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T07:08:29Z",
+ "updated": "2026-10-13T07:12:23Z",
  "tables": {
   "harvests": 4,
-  "searches": 637,
+  "searches": 1006,
   "listings": 5407,
-  "lens": 2554,
-  "events": 10339,
-  "comps": 529,
+  "lens": 2579,
+  "events": 10364,
+  "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 2886,
+  "queued": 2861,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 93,
-  "flagged": 82
+  "lensed": 109,
+  "flagged": 91
  },
  "last_harvests": [
   {
@@ -276,6 +276,17 @@
    "best": "Alibaba.com",
    "med": 37000,
    "ratio": 370,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943373649",
+   "title": "Collection of Vintage Cameras",
+   "price": 1,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/5BTuXv5rLGni1ZKQiKkns7",
+   "best": "Kodak | Cameras, Photo & Video | Vintage Kodak Duaflex Ii ...",
+   "med": 120,
+   "ratio": 120,
    "ai_value": ""
   },
   {
@@ -697,12 +708,45 @@
    "ai_value": ""
   },
   {
+   "pid": "7937798972",
+   "title": "Vintage Nautical Temperature Gauge 1945",
+   "price": 30,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-nautical-temperature/tgba7iYxZ8FrMf2iAi21pC",
+   "best": "Vintage advertising thermometer, ship's wheel, The Osborne ...",
+   "med": 125,
+   "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978665594",
+   "title": "Antiques, collectibles and miscellaneous",
+   "price": 50,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/athol-antiques-collectibles-and/uKZmjTmiKZvpFD4iQD1vAE",
+   "best": "Size: Approximately 8 inches tall",
+   "med": 207,
+   "ratio": 4.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7971299454",
    "title": "Vintage Smokeglass Pitcher",
    "price": 25,
    "area": "austin",
    "url": "https://www.craigslist.org/view/d/cedar-park-vintage-smokeglass-pitcher/8cX5nmoKUjTAKUJHarcArk",
    "best": "Medium Vintage Smokey Brown Glass Pitcher - Etsy",
+   "med": 100,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982630028",
+   "title": "Bonaparte Lake Resort painting",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-bonaparte-lake-resort-painting/a48kBJEY7TGgQuEw76yB26",
+   "best": "WA Tonasket RARE RPPC 1940's BONAPARTE LAKE RESORT ...",
    "med": 100,
    "ratio": 4,
    "ai_value": ""
@@ -796,6 +840,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982623323",
+   "title": "Vintage pay phone",
+   "price": 185,
+   "area": "yuma",
+   "url": "https://www.craigslist.org/view/d/yuma-vintage-pay-phone/k5Ukt96nGu5izrmPUxa5AX",
+   "best": "Vintage AUTOMATIC ELECTRIC COMPANY Rotary PAYPHONE TELEPHONE ...",
+   "med": 595,
+   "ratio": 3.22,
+   "ai_value": "sell between $225"
+  },
+  {
    "pid": "7956170841",
    "title": "Vintage Test Equipment \"Electrometer\"",
    "price": 40,
@@ -804,6 +859,17 @@
    "best": "Leeds & Northrup Co Potentiometer | eBay",
    "med": 120,
    "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966759470",
+   "title": "Framed, Signed Mort Kunstler Art Print",
+   "price": 25,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/middletown-framed-signed-mort-kunstler/swFP7AAXDvma9verWbUjBh",
+   "best": "Title: \"We, The People... 1787\"",
+   "med": 72,
+   "ratio": 2.88,
    "ai_value": ""
   },
   {
@@ -837,6 +903,28 @@
    "best": "Hand Painted Chocolate - Tea Pot - Blue Gold Pink Yellow ...",
    "med": 119,
    "ratio": 2.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978289976",
+   "title": "Tiffany Portfolio clock",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-tiffany-portfolio-clock/oPkJm4KNHGBthp4NPqduHD",
+   "best": "Fontaine's Auction Gallery",
+   "med": 120,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946503822",
+   "title": "Vintage L.F. & C. Pocketknife",
+   "price": 45,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-lf-pocketknife/6rsugoqiD5A5usfsvUwuJ6",
+   "best": "Vintage Shapleigh HDW Co DE Diamond 2 Blade Celluloid ...",
+   "med": 105,
+   "ratio": 2.33,
    "ai_value": ""
   },
   {
@@ -1035,6 +1123,17 @@
    "best": "Rare 1870s steel fork for roping",
    "med": 97,
    "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929595994",
+   "title": "Vintage antique German desk set",
+   "price": 120,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/whittier-vintage-antique-german-desk-set/2VqXGDn9FFZVJarEoDaoTe",
+   "best": "Origin: Made in Solingen, Germany, by makers such as Julius Hammesfahr or Aug. Knecht during the Victorian or ",
+   "med": 145,
+   "ratio": 1.21,
    "ai_value": ""
   },
   {
