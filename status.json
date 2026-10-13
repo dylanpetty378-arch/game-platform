@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T10:10:41Z",
+ "updated": "2026-10-13T10:14:17Z",
  "tables": {
   "harvests": 4,
   "searches": 1310,
   "listings": 5407,
-  "lens": 3704,
-  "events": 12488,
+  "lens": 3729,
+  "events": 12513,
   "comps": 1163,
   "item_types": 782,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2977,
-  "lensed": 179,
-  "queued": 1736,
+  "lensed": 193,
+  "queued": 1711,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 342,
-  "flagged": 118,
+  "flagged": 129,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -258,6 +258,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982119392",
+   "title": "Vintage Porcelain",
+   "price": 15,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/charleston-vintage-porcelain/pahDXDDEZzaCQAhfp42gFw",
+   "best": "Vintage Porcelain Colonial Man Playing Piano Figurine ...",
+   "med": 1385,
+   "ratio": 92.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7982188554",
    "title": "Moving sale, furniture",
    "price": 10,
@@ -277,6 +288,28 @@
    "best": "Vintage Victorian Table Lamp green glass brass gold gild ...",
    "med": 1650,
    "ratio": 82.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947078286",
+   "title": "Old Antique Red Wagon",
+   "price": 20,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/springfield-old-antique-red-wagon/x8MxCfXeKCNUibP23LP2m3",
+   "best": "86 Vintage",
+   "med": 1650,
+   "ratio": 82.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981079898",
+   "title": "antique pepper shakers",
+   "price": 10,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/bonita-springs-antique-pepper-shakers/pQ8JyCNnHpbjsmhtpKMZcg",
+   "best": "Antique Chinese Famille Rose Porcelain Tea Caddy (item #1110460)",
+   "med": 799,
+   "ratio": 79.9,
    "ai_value": ""
   },
   {
@@ -310,6 +343,17 @@
    "best": "Two Round Wood Porch Columns 94 1/2\u201d Long 8\u201d To 9 1/2 ...",
    "med": 2622,
    "ratio": 52.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955724071",
+   "title": "Antique Medical/Scientist's Instruments Box",
+   "price": 75,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/lakemore-antique-medical-scientists/2VrwnKgCCyLaCbAS3RHyzm",
+   "best": "35373 - Suchspiegelger\u00e4t der Luftwaffe im originaler ...",
+   "med": 3600,
+   "ratio": 48,
    "ai_value": ""
   },
   {
@@ -929,6 +973,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982108130",
+   "title": "Vintage liquor decanter",
+   "price": 20,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/brooksville-vintage-liquor-decanter/2L6gGea34epV6jicHh3Htj",
+   "best": "Era/Origin: Mid-century (commonly dated to the 1960s or 1970s), often manufactured in Hong Kong or Japan.",
+   "med": 100,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955259401",
    "title": "**Vintage Durango Suede Boots**",
    "price": 15,
@@ -1079,6 +1134,17 @@
    "url": "https://www.craigslist.org/view/d/red-bluff-antique-health-meter-stork/hcqVh77Qrw4Yvi3FHwEZ4n",
    "best": "Would you like to know more about how to clean/restore this type of vintage metal scale, or are you looking fo",
    "med": 68,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935302131",
+   "title": "Large Vintage Swivel Hook",
+   "price": 25,
+   "area": "charlestonwv",
+   "url": "https://www.craigslist.org/view/d/scenery-hill-large-vintage-swivel-hook/fgRCa8qe94fKFBvfwFyM4N",
+   "best": "CROSBY HOIST HOOK WITH SWIVEL | eBay",
+   "med": 85,
    "ratio": 3.4,
    "ai_value": ""
   },
@@ -1281,6 +1347,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950273142",
+   "title": "Antique Chalkboard (1940's)",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/warrington-antique-chalkboard-1940s/3NJyNUKo5tnTWCLCeYhi8D",
+   "best": "Wooden Folding Chalkboard Children's Real Slate Easel Fold ...",
+   "med": 135,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7942661472",
    "title": "Coke ice box vintage",
    "price": 95,
@@ -1413,6 +1490,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955130067",
+   "title": "Antique items",
+   "price": 80,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/dunn-antique-items/8Ac2JASezuxE5DeeorgNVt",
+   "best": "Craigslist",
+   "med": 120,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7943866416",
    "title": "Antique Turkish/Persian Copper/Silver Teapot",
    "price": 95,
@@ -1490,12 +1578,45 @@
    "ai_value": ""
   },
   {
+   "pid": "7959365913",
+   "title": "Vintage Gloria Vanderbilt Umbrella",
+   "price": 40,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/franklin-vintage-gloria-vanderbilt/34GWYsod8hhi9jADbeWPHm",
+   "best": "Gloria Vanderbilt Umbrella - Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948460803",
+   "title": "Vintage Aurora Batman Model",
+   "price": 35,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/itasca-vintage-aurora-batman-model/iLkfFYyi9VcDqnKeJS7Fo5",
+   "best": "Vintage Aurora Batman Model - Built and Painted 1965 ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7960041003",
    "title": "Vintage Metal Trash Can",
    "price": 15,
    "area": "wv",
    "url": "https://www.craigslist.org/view/d/evington-vintage-metal-trash-can/vFMTEPY8rwBfk2nqkTF5zQ",
    "best": "Lincoln Beautyware Chrome Plated Trash Can w/ | Proxibid",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974168750",
+   "title": "vintage yard game",
+   "price": 60,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/milwaukee-vintage-yard-game/qpViwvZPjtz228d49GQR5S",
+   "best": "Lawn darts were banned in the United States in 1987 by the Consumer Product Safety Commission (CPSC) after mul",
    "med": null,
    "ratio": null,
    "ai_value": ""
