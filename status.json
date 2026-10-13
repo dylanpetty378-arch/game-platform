@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:42:29Z",
+ "updated": "2026-10-13T23:46:13Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7349,
-  "events": 26770,
+  "lens": 7374,
+  "events": 26795,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 440,
+  "lensed": 443,
   "comps/pass": 1,
-  "queued/relens": 365,
+  "queued/relens": 366,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 717,
+  "flagged": 738,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 304
+  "queued": 279
  },
  "last_harvests": [
   {
@@ -547,6 +547,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928278977",
+   "title": "VINTAGE DYADEMA DOUBLE PANTHER HEAD BRACELET",
+   "price": 65,
+   "area": "flagstaff",
+   "url": "https://www.craigslist.org/view/d/prescott-valley-vintage-dyadema-double/iEdgLVWDWQKuxBfdZAiGw2",
+   "best": "Etsy",
+   "med": 8000,
+   "ratio": 123.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7982818380",
    "title": "Vintage 1970s LERO Telecaster built in Japan.",
    "price": 200,
@@ -863,6 +874,17 @@
    "best": "Vintage Child's Cup, Quadruple Silver Plate by Forbes Silver ...",
    "med": 420,
    "ratio": 28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957041968",
+   "title": "Vintage Coro Brooch with Aquamarine Crystals",
+   "price": 40,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-coro-brooch-with/dsnGDCNoqzhA1XywnXKpay",
+   "best": "Etsy",
+   "med": 1095,
+   "ratio": 27.38,
    "ai_value": ""
   },
   {
@@ -2296,6 +2318,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950502658",
+   "title": "Original artwork",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1",
+   "best": "Abstract Still Life #1, 32x32cm, Watercolour, Pastel, 2010 ...",
+   "med": 450,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7945033825",
    "title": "Cross pendant 14 kt solid gold",
    "price": 30,
@@ -2348,6 +2381,17 @@
    "best": "Citizen Men's Vintage Watch, Gold-Tone, Run | eBay",
    "med": 59,
    "ratio": 5.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936138593",
+   "title": "Bohemian Style Initial L Faux Turquoise Necklace. Not sterling",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-bohemian-style-initial-faux/9ww7VyyLJnuwcuw7JXX4Kc",
+   "best": "You can find similar styles available across various online boutiques and marketplaces:",
+   "med": 88,
+   "ratio": 5.87,
    "ai_value": ""
   },
   {
@@ -2822,6 +2866,17 @@
    "med": 173,
    "ratio": 4.33,
    "ai_value": ""
+  },
+  {
+   "pid": "7968525549",
+   "title": "Vintage Decanter",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-decanter/8cPjsePjVZu4tfevsK6UMn",
+   "best": "Origin: Mid-century Czech or Bohemian art glass.",
+   "med": 65,
+   "ratio": 4.33,
+   "ai_value": "sell online (via platforms like Etsy or eBay) from $45 to $135,"
   },
   {
    "pid": "7940242431",
@@ -3572,6 +3627,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934881000",
+   "title": "vintage Pitcher",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-pitcher/orriAzCZQSJ4eGqV8QpJfV",
+   "best": "Pattern/Mark: Often associated with the 1777 Henneberg mark or similar mid-century floral tableware lines",
+   "med": 47,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7935512073",
    "title": "ALWAND VAHAN Sterling Amethyst Heart Pendant w/ 14k and Diamond Accent",
    "price": 65,
@@ -3678,6 +3744,17 @@
    "url": "https://www.craigslist.org/view/d/san-jose-vintage-rose50s-style-vase/u9uBRacMWKZKMESSFbCJmU",
    "best": "MCM Anchor Hocking Vase 16\" Tall Prairie Pink Rose Color ...",
    "med": 135,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954493045",
+   "title": "Vintage Glass Basket",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-glass-basket/6ow76JA8CNYSCKvKFaG5zB",
+   "best": "Fenton Sea Foam Large Basket - Etsy",
+   "med": 45,
    "ratio": 3,
    "ai_value": ""
   },
@@ -4100,6 +4177,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938430593",
+   "title": "Native American Sterling Silver Navajo Eagle Inlay Turqouise Ring Size",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-native-american-sterling/qEgcVxpvn8TpaipysZgguy",
+   "best": "Stone/Inlay: Crushed turquoise chip inlay divided by horizontal silver bars in an oval bezel.",
+   "med": 264,
+   "ratio": 2.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7955920842",
    "title": "Vintage sterling silver statement ring",
    "price": 49,
@@ -4298,6 +4386,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979462559",
+   "title": "Vintage Cherub Soap Dish Collection",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-cherub-soap-dish/iyBNvkkpy8NeEFgbETcvf5",
+   "best": "Craigslist",
+   "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952474900",
    "title": "African Tribal Art",
    "price": 70,
@@ -4305,6 +4404,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-african-tribal-art/9UwDm6QF1UvEqeT57jjkdC",
    "best": "Asante Fante Akua'ba Fertility Doll Ghana",
    "med": 174,
+   "ratio": 2.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948226865",
+   "title": "1967 Vintage American Archery Cheetah Hunting Bow",
+   "price": 100,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-1967-vintage-american/2CoL9izKJbNSrG3XQMPqX2",
+   "best": "Ottomans Dagger - Etsy",
+   "med": 249,
    "ratio": 2.49,
    "ai_value": ""
   },
@@ -4372,6 +4482,17 @@
    "best": "Taco Bell Star Wars Figures: Sealed promotional action figures and vehicle toys from the 1996 Star Wars Trilog",
    "med": 147,
    "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974976698",
+   "title": "Vintage 21\u201d Crash Cymbal",
+   "price": 90,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/reading-vintage-21-crash-cymbal/dz7wb13tAaBnqsnFuNn5xi",
+   "best": "Istanbul Agop 20\" 30th Anniversary Ride Cymbal (30TH20 ...",
+   "med": 220,
+   "ratio": 2.44,
    "ai_value": ""
   },
   {
@@ -4483,6 +4604,17 @@
    "med": 35,
    "ratio": 2.33,
    "ai_value": ""
+  },
+  {
+   "pid": "7956887513",
+   "title": "Black Maltese Cross Necklace",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-black-maltese-cross-necklace/a7DRzxpGzBfa9HP3Jzq5sx",
+   "best": "Neckchain: Multi-strand black beaded or seed-bead chain.",
+   "med": 35,
+   "ratio": 2.33,
+   "ai_value": "sell across second-hand and vintage marketplaces like Craigslist ($15"
   },
   {
    "pid": "7942541839",
@@ -5332,6 +5464,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956467210",
+   "title": "Vintage Lucky Strike Cigarette Tin Container",
+   "price": 10,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/gilbert-vintage-lucky-strike-cigarette/xqx92RvKwqusLSPKZ1DUvR",
+   "best": "Capacity: Designed to hold 50 flat-style cigarettes.",
+   "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7978405131",
    "title": "vintage STIG LARSON GUSTAVSBERG TEAPOT",
    "price": 65,
@@ -6069,6 +6212,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941474994",
+   "title": "Butterfly necklaces, 3pc",
+   "price": 19,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-butterfly-necklaces-3pc/1vEca2ogTjCxEJMPHiwjf6",
+   "best": "Butterfly lovers! \ud83e\udd8b Just made these sweet little pendant ...",
+   "med": 24,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7947173051",
    "title": "Antique Cloisonn\u00e9 Vase Set",
    "price": 80,
@@ -6209,6 +6363,17 @@
    "best": "Chain Type: Braided wheat/rope silver-tone chain",
    "med": 18,
    "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980673965",
+   "title": "Disney Sorcerer Mickey Mouse Watch",
+   "price": 85,
+   "area": "modesto",
+   "url": "https://www.craigslist.org/view/d/modesto-disney-sorcerer-mickey-mouse/feqfWL9AX3Bmxv33dvVeBA",
+   "best": "eBay",
+   "med": 101,
+   "ratio": 1.19,
    "ai_value": ""
   },
   {
@@ -6806,6 +6971,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970909724",
+   "title": "Large Vintage 1950's signed Chinese Hand painted Glazed Earthenware",
+   "price": 195,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-large-vintage-1950s-signed/x79qR7o8MhNEBTaEQVoVpS",
+   "best": "eBay",
+   "med": 179,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7969569177",
    "title": "VINTAGE BOHEMIAN COBALT BLUE CUT-TO-CLEAR CRYSTAL \u201cTUMBLE-UP\u201d SET",
    "price": 75,
@@ -6905,6 +7081,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937196049",
+   "title": "Vintage 30 inch gold tone necklace with sand dollar pendant / Earrings",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-30-inch-gold-tone/pJoBnY57WnkMNZEiSWhQq9",
+   "best": "eBay",
+   "med": 34,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7959143718",
    "title": "Vintage Perseo TCDD Turkish State Railways Pocket Watch \u2013 17 Jewels \u2013 Swiss",
    "price": 350,
@@ -6947,6 +7134,17 @@
    "med": 85,
    "ratio": 0.85,
    "ai_value": "Value: Typically ranges from $50 to $100"
+  },
+  {
+   "pid": "7962827889",
+   "title": "14K Opal Necklace",
+   "price": 200,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-14k-opal-necklace/r9CWNK5JFmx6UMc7GAeCdu",
+   "best": "Etsy",
+   "med": 169,
+   "ratio": 0.84,
+   "ai_value": ""
   },
   {
    "pid": "7929786078",
@@ -7312,6 +7510,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951910993",
+   "title": "Labradorite Necklace and Earrings",
+   "price": 50,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/roseburg-labradorite-necklace-and/d6FLoiD4wpTC2vCKTeViYp",
+   "best": "Primary Gemstone: Oval cabochon-cut labradorite with natural flash/chatoyancy",
+   "med": 33,
+   "ratio": 0.66,
+   "ai_value": ""
+  },
+  {
    "pid": "7939105740",
    "title": "2 strand Green Turquoise/Heart Pendant/Sterling silver necklace",
    "price": 125,
@@ -7418,6 +7627,17 @@
    "url": "https://www.craigslist.org/view/d/pasadena-davids-bridal-swarovski/ty1GkJ9mEApHgkixEYymfW",
    "best": "David's Bridal",
    "med": 45,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983022812",
+   "title": "CAT CHARMS\ud83e\ude77\ud83c\udf85\ud83c\udf85\ud83c\udf85",
+   "price": 15,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-cat-charms/b7VAHmkz8jsyTuZysX8WaG",
+   "best": "Vintage danecraft angel cat - Gem",
+   "med": 9,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -7541,6 +7761,17 @@
    "med": 22,
    "ratio": 0.49,
    "ai_value": ""
+  },
+  {
+   "pid": "7938715032",
+   "title": "Vintage 11 piece blow mold nativity set",
+   "price": 300,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cohoes-vintage-11-piece-blow-mold/bkavPYeubeYL41cy9VAuFm",
+   "best": "Market Value: Used or vintage sets typically sell anywhere from $350 to $1,200 depending on completeness, pain",
+   "med": 143,
+   "ratio": 0.48,
+   "ai_value": "Value: Used or vintage sets typically sell anywhere from $350 to $1,200"
   },
   {
    "pid": "7957974029",
