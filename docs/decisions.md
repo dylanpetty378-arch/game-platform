@@ -69,3 +69,17 @@ Dylan: the system must run on any device and without his laptop open. Decision:
 - Triage without Lens: `review_helpers.py --unlensed`. Measured on Oct 13: Lens flags gave 0 keepers; reading the
   listings found the leads.
 - The send_later check-in chain is retired. It was bound to the Mac, so it stalled when the Mac was closed.
+
+## 2026-10-13 — Lens's role, and why Refurbish doesn't live in Vectus
+- **Lens's role (Dylan's framing):** Lens is the identifier. It turns a photo into a description of what the item
+  really is. Claude takes that description, researches what the public sells it for, and compares that with what the
+  seller says and asks. The gap is the deal. Lens was never meant to price anything. What failed was our use of Lens's
+  match-price ratio as a filter. The Lens AI identification text stays a core input to triage. Where no browser is
+  available, Claude identifies from the photo itself (`--unlensed`), which fills the same role.
+- **Only Claude sleuths.** It may run only while Claude is active, but it must start from any device: any chat via
+  docs/device-free.md, or the cloud scheduled task.
+- **Vectus checked.** It is Dylan's tabletop RPG platform: a Postgres (Neon) database with game tables (identity,
+  campaigns, records, characters, assets), on Fly.io, auto-deployed on every push to main, with strict corpus and
+  vocabulary rules. It has no harvesting, comps or resale code, and adding resale tables would break its own rules
+  and risk the live playtest. Refurbish stays in game-platform/refurbish: git JSONL plus SQLite on demand, free, and
+  already running. The eBay keys go in game-platform's Actions secrets.
