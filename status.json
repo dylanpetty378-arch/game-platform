@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:49:46Z",
+ "updated": "2026-10-13T23:53:47Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7399,
-  "events": 26820,
+  "lens": 7424,
+  "events": 26845,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 450,
+  "lensed": 456,
   "comps/pass": 1,
-  "queued/relens": 370,
+  "queued/relens": 374,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 752,
+  "flagged": 767,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 254
+  "queued": 229
  },
  "last_harvests": [
   {
@@ -489,6 +489,17 @@
    "best": "Otto A. Hoyer \"Pariser\", fine gold mounted violin bow",
    "med": 16000,
    "ratio": 213.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970926626",
+   "title": "Alot of Jewelry each piece 20.00",
+   "price": 20,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/depew-alot-of-jewelry-each-piece-2000/tB6QBrKs6nCQFiVrXRwpYV",
+   "best": "Ross-Simons",
+   "med": 3819,
+   "ratio": 190.95,
    "ai_value": ""
   },
   {
@@ -2043,6 +2054,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934893857",
+   "title": "10 vintage wood carvings 1960s 197025",
+   "price": 10,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/new-paltz-10-vintage-wood-carvings/2azXpgsyre5wxwSdK61eyv",
+   "best": "Beautiful Vintage African Family Art, Wooden, 12\u201d, 14\u201d | eBay",
+   "med": 70,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7981257762",
    "title": "Framed Oil Painting artist unknown",
    "price": 50,
@@ -3550,6 +3572,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955043274",
+   "title": "Vintage Gilligan's Island signed limited edition lithograph",
+   "price": 100,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/greendale-vintage-gilligans-island/dLuH146cf3b9cLPipzSZ2p",
+   "best": "Gilligan's Island Lithograph Signed By 4 Cast Members | eBay",
+   "med": 329,
+   "ratio": 3.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7946736997",
    "title": "Antique Kieninger&Obergfell glass domed clock",
    "price": 75,
@@ -3913,6 +3946,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971700911",
+   "title": "Southwest Boho Beaded Hematite Silver Necklace",
+   "price": 10,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-southwest-boho-beaded-hematite/ucLE13QCUKcvA5Sk2a6s54",
+   "best": "eBay",
+   "med": 29,
+   "ratio": 2.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7956933668",
    "title": "Genuine Amber pendant on sterling snake necklace",
    "price": 95,
@@ -3931,6 +3975,17 @@
    "url": "https://www.craigslist.org/view/d/louisville-knife-collection/4YrP8j9FJmifBF6PyMhkMh",
    "best": "25+ Multi-tool Collectible Vintage Factory Manufactured ...",
    "med": 144,
+   "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957216427",
+   "title": "Vintage Articulated Cowboy Pin",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-articulated-cowboy-pin/qA1rmHcmKYMASRrwypJB2v",
+   "best": "vintage metal distressed photo plate easel stand | eBay",
+   "med": 115,
    "ratio": 2.88,
    "ai_value": ""
   },
@@ -5079,6 +5134,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952496050",
+   "title": "Lot of Annalee Dolls",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/east-bridgewater-lot-of-annalee-dolls/bXZy8jLFZd1LwYBXnaCRXQ",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933012732",
    "title": "Ax  Large vintage",
    "price": 75,
@@ -5360,6 +5426,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/natick-vintage-loft-rhinestone-pendant/wdVRyvZ1f4oVLJJBwy4Hn5",
    "best": "Poshmark",
+   "med": 28,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970751636",
+   "title": "Vintage Sanrio Hello Kitty Analog Watch",
+   "price": 15,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/woodland-vintage-sanrio-hello-kitty/46nyrxDFA2cb7NmckPmbYM",
+   "best": "Hello Kitty 2009 Sanrio Watch - Classic Collectible | eBay",
    "med": 28,
    "ratio": 1.87,
    "ai_value": ""
@@ -6047,6 +6124,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944137738",
+   "title": "3 necklaces",
+   "price": 60,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-necklaces/fWZihm5DMCw5xUKmTK3xeD",
+   "best": "Center (Brown cord necklace): Features an adjustable brown knotted cord (similar to macram\u00e9 or hemp) with smal",
+   "med": 85,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7982854539",
    "title": "Antique Chinese Sterling Silverware",
    "price": 400,
@@ -6109,6 +6197,17 @@
    "url": "https://www.craigslist.org/view/d/santa-barbara-wonderful-beverly-pottery/xrNTZWkWiAseAME4TgpZJ1",
    "best": "About Face Jugs",
    "med": 98,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936478119",
+   "title": "Vintage Baseball Cards",
+   "price": 10,
+   "area": "reading",
+   "url": "https://www.craigslist.org/view/d/pottstown-vintage-baseball-cards/dGarcARu7e1nReMc1SiL8n",
+   "best": "Notable Cards Shown:",
+   "med": 14,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -6461,6 +6560,17 @@
    "url": "https://www.craigslist.org/view/d/boise-vassago-celtic-knot-silver-tone/pCp1QjQq483YnUfs5ddRd8",
    "best": "Chain Type: Braided wheat/rope silver-tone chain",
    "med": 18,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932371243",
+   "title": "Large Miscellaneous Arts & Craft Lot",
+   "price": 25,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/huntington-beach-large-miscellaneous/nutjBWCLnJQn7Hc6MrGnuZ",
+   "best": "Large Miscellaneous Arts & Craft Lot \u00b7 Whatnot : Acheter ...",
+   "med": 30,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -6938,6 +7048,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955677963",
+   "title": "Avon Stein collection",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-avon-stein-collection/oVB5dKwivhXuLrzS2iZoat",
+   "best": "Right Stein: \"At Point\u2026 English Setter\" Sporting Stein",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7931133687",
    "title": "VINTAGE GERMAN LITHO BEER STEIN",
    "price": 120,
@@ -6969,6 +7090,17 @@
    "med": 44,
    "ratio": 0.98,
    "ai_value": ""
+  },
+  {
+   "pid": "7955736660",
+   "title": "WATERFORD Crystal heart shaped w/ sterling silver NECKLACE",
+   "price": 50,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/rockwall-waterford-crystal-heart-shaped/tmY6vyxVaRmvdKAWwne9HU",
+   "best": "waterford crystal watches - Gem",
+   "med": 49,
+   "ratio": 0.98,
+   "ai_value": "sell between $30"
   },
   {
    "pid": "7954309986",
@@ -7440,6 +7572,17 @@
    "url": "https://www.craigslist.org/view/d/natick-floral-graduated-statement/vKFLVtmiyY53hCDCjTRoTc",
    "best": "Faire",
    "med": 24,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935699539",
+   "title": "Vintage Hair Styling Collection",
+   "price": 100,
+   "area": "humboldt",
+   "url": "https://www.craigslist.org/view/d/redway-vintage-hair-styling-collection/jp2DWr1j3w22jTT4bPTgQE",
+   "best": "Lot Vintage Tip Top Goody & More Aluminum Wave Hair Clips ...",
+   "med": 80,
    "ratio": 0.8,
    "ai_value": ""
   },
@@ -7945,6 +8088,17 @@
    "area": "phoenix",
    "url": "https://www.craigslist.org/view/d/phoenix-vintage-ceramic-pottery/wGivUFddck1V9khYcQxZag",
    "best": "The collection includes:",
+   "med": 45,
+   "ratio": 0.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943933406",
+   "title": "Vintage Sterling Silver Filigree Butterfly **  Beautiful !",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-sterling-silver/ee4XryQjrRoaBS2TthDfDh",
+   "best": "eBay",
    "med": 45,
    "ratio": 0.45,
    "ai_value": ""
@@ -8660,6 +8814,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/farmingville-vintage-sailor-decanter/haCighCcVhJg8i7fvXgVnQ",
    "best": "Tori.fi",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969689993",
+   "title": "Vintage Cutco Rosewood 1882 Bullwhip  folding knife",
+   "price": 275,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-vintage-cutco-rosewood-1882/9TfbK5MYiug5WSix4DSuWZ",
+   "best": "Craigslist",
    "med": null,
    "ratio": null,
    "ai_value": ""

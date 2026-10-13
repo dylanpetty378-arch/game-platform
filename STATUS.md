@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T23:49:46Z
+# Refurbish status — 2026-10-13T23:53:47Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 752 |
-| lensed | 450 |
-| queued/relens | 370 |
-| queued | 254 |
+| flagged | 767 |
+| lensed | 456 |
+| queued/relens | 374 |
+| queued | 229 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 11 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7399
-- events: 26820
+- lens: 7424
+- events: 26845
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (752)
+## Flagged by Lens, waiting for photo review (767)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -125,6 +125,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00N0N_17He5NO0atU_0t20CI_300x300.jpg" width="120"> | 7956898073 | $1 | tucson | [Rings](https://www.craigslist.org/view/d/tucson-rings/c8LeL4QjmTWt6nwYiwVAz5) | Navajo Ring 925 Silver Natural Blue Turquoise Artist Signed  | 225 | 225 |
 | <img src="https://images.craigslist.org/00C0C_bWv5LVLU3tF_0dp0t2_300x300.jpg" width="120"> | 7957667393 | $26 | visalia | [Lots of different stuff](https://www.craigslist.org/view/d/salinas-lots-of-different-stuff/kPnMXv2sJYehvrX5DdBTeC) | Antique 20th Century Washstand In Oak in Antique Wash Stands | 5740 | 220.77 |
 | <img src="https://images.craigslist.org/00x0x_7TBXhvpc2b7_07K0ak_300x300.jpg" width="120"> | 7940962813 | $75 | neworleans | [*Antique fiddle bow*](https://www.craigslist.org/view/d/mandeville-antique-fiddle-bow/r3qRaSgHCvu5e2VtTZAJnk) | Otto A. Hoyer "Pariser", fine gold mounted violin bow | 16000 | 213.33 |
+| <img src="https://images.craigslist.org/00v0v_7X0YqWxh7Yc_0t20CI_300x300.jpg" width="120"> | 7970926626 | $20 | buffalo | [Alot of Jewelry each piece 20.00](https://www.craigslist.org/view/d/depew-alot-of-jewelry-each-piece-2000/tB6QBrKs6nCQFiVrXRwpYV) | Ross-Simons | 3819 | 190.95 |
 | <img src="https://images.craigslist.org/00S0S_lBnaaDtyQ3B_0t20CI_300x300.jpg" width="120"> | 7940571077 | $99 | sanangelo | [Sterling Silver Necklace](https://www.craigslist.org/view/d/center-point-sterling-silver-necklace/tQJmjCNWtMAaioYhisMVxs) | 14K GOLD 5MM TRICOLOR FANCY CHAIN White Gold / 20" | 18645 | 188.33 |
 | <img src="https://images.craigslist.org/00W0W_ct5UEVuQxLu_07K0ak_300x300.jpg" width="120"> | 7982786373 | $1 | wilmington | [sterling forks](https://www.craigslist.org/view/d/wilmington-sterling-forks/rfowtxGvR8jT3cRtieos2E) | Set of 6 Rogers Bros "Vintage" Pattern 7.5" Dinner Forks /11 | 170 | 170 |
 | <img src="https://images.craigslist.org/00V0V_kmkWe6yxUgI_0hr0CI_300x300.jpg" width="120"> | 7934825752 | $1 | medford | [Antique Vintage Asian pieces](https://www.craigslist.org/view/d/gold-hill-antique-vintage-asian-pieces/obPibbWkQyKVWn91gEx4cm) | Delft Candle Sticks - Etsy | 150 | 150 |
@@ -235,4 +236,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_chmAOlSBRVa_04A0c6_300x300.jpg" width="120"> | 7950790524 | $65 | prescott | [vintage 16" FOOTED red green ONYX VASE](https://www.craigslist.org/view/d/prescott-vintage-16-footed-red-green/moSVKJeQcwakC4b3tkn99Y) | Vintage Onyx Marble Vase 7 3/4” Green and Brown Mantel ... | 570 | 8.77 |
 | <img src="https://images.craigslist.org/00v0v_eMxmhitKyxm_0nN0rN_300x300.jpg" width="120"> | 7935171170 | $25 | orangecounty | [Antique/Vintage Rembrandt Framed Print. Lot 4](https://www.craigslist.org/view/d/lake-forest-antique-vintage-rembrandt/ogFBmhfi1BCfmNUAg4PDp7) | Vintage 1960s Man With the Golden Helmet Rembrandt Print in  | 219 | 8.76 |
 | <img src="https://images.craigslist.org/00Q0Q_35ssGm0ewJM_0t20CI_300x300.jpg" width="120"> | 7959399108 | $20 | albany | [California Pottery](https://www.craigslist.org/view/d/albany-california-pottery/eLj5HFJdaxTBVgDbpjcYHf) | eBay | 175 | 8.75 |
-| <img src="https://images.craigslist.org/00909_dMUSfiAqite_0ln0t2_300x300.jpg" width="120"> | 7976756595 | $15 | sandiego | [Heart Necklace Tiffany Replica](https://www.craigslist.org/view/d/del-mar-heart-necklace-tiffany-replica/1zL19pxrBMREhQDR6yD78H) | The RealReal | 130 | 8.67 |
