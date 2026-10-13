@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:35:46Z",
+ "updated": "2026-10-13T12:39:34Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4612,
-  "events": 14547,
+  "lens": 4637,
+  "events": 14572,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 462,
-  "queued": 1628,
+  "lensed": 475,
+  "queued": 1603,
   "comps/pass": 1,
   "decided/ask": 37,
   "queued/relens": 347,
-  "flagged": 387,
+  "flagged": 399,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -403,6 +403,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953218546",
+   "title": "Beautiful CZ Gold over Sterling Silver Ring",
+   "price": 25,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/plano-beautiful-cz-gold-over-sterling/ccgEMAS7vww582QNw1WHRw",
+   "best": "1pc Romantic Cubic Zirconia Ring, Women's Style, Suitable ...",
+   "med": 1131,
+   "ratio": 45.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7955850239",
    "title": "Vintage Cezanne Cultured Pearl Necklace by Richelieu",
    "price": 20,
@@ -686,6 +697,17 @@
    "best": "Vintage Primitive Mardon Push Lawn Edger Trimmer Yard Tool ...",
    "med": 450,
    "ratio": 22.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979349030",
+   "title": "Vintage medieval knight",
+   "price": 50,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-medieval-knight/o6LRsyE6auSameon6zs5PW",
+   "best": "Terra-cotta statue of knight in armor entitled Bois Guilbert ...",
+   "med": 1095,
+   "ratio": 21.9,
    "ai_value": ""
   },
   {
@@ -1195,6 +1217,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982695752",
+   "title": "Antique Woodworking Tools",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-antique-woodworking-tools/qXD3wkcSUiWSMCjPVRfNHh",
+   "best": "Don't stuff those vintage tools in a toolbox or a drawer ...",
+   "med": 150,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7931278745",
    "title": "Antique Grain Scythe",
    "price": 100,
@@ -1657,6 +1690,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938689779",
+   "title": "SWAROVSKI -NECKLACE / SAPPHIRE/AQUAMARINE CRYSTALS-VINTAGE",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/bethesda-swarovski-necklace-sapphire/icN1AsBxEbvtxqPa4xktrd",
+   "best": "Ross-Simons Sapphire Double-Drop Ncklc in 18k Gold Plate 18 ...",
+   "med": 197,
+   "ratio": 6.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7943979462",
    "title": "Old Masters Collage reduced",
    "price": 100,
@@ -2028,6 +2072,17 @@
    "best": "*FOR PARTS* JVC (HR-DX44U) 4-Head Dual Audio Output ...",
    "med": 81,
    "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945032229",
+   "title": "XL Vintage Canton Collection Jar",
+   "price": 150,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/lynnwood-xl-vintage-canton-collection/fpDhxhheBUN8vmQYpE8mwh",
+   "best": "Amazon.com: Blue and White Ginger Jar, Ceramic Chinoiserie ...",
+   "med": 799,
+   "ratio": 5.33,
    "ai_value": ""
   },
   {
@@ -2526,6 +2581,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942829524",
+   "title": "Colibri Pocket Watch & Pocket Knife - new",
+   "price": 20,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/emmaus-colibri-pocket-watch-pocket/p4LFm6fSDZZKFc1J7gQYa3",
+   "best": "Vintage Colibri Pocket Watch And Knife Set. In Box With ...",
+   "med": 81,
+   "ratio": 4.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7951243339",
    "title": "Vintage Ice-Cream Freezer",
    "price": 95,
@@ -2754,6 +2820,17 @@
    "best": "Style & Era: Resembles 1920s to 1950s Art Deco, Aztec revival, or Brutalist-influenced Czech/European costume ",
    "med": 230,
    "ratio": 3.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982685024",
+   "title": "4pc Necklace & Natural Gemstone Bracelet Set 10K 14K 22K Gold Fill",
+   "price": 25,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/cape-coral-4pc-necklace-natural/qmDbSefpF4LibnrUPCcuxu",
+   "best": "Bulbasaur Pokemon Glass Cabachon Necklace for Sale in Cape ...",
+   "med": 88,
+   "ratio": 3.52,
    "ai_value": ""
   },
   {
@@ -3417,6 +3494,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941493228",
+   "title": "Turquoise Rings",
+   "price": 60,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/stamford-turquoise-rings/5Rv498Co4aVdqu8E1Fq5ME",
+   "best": "Large Heavy Native American Turquoise Silver Ring 22.5 grams ...",
+   "med": 150,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7934046383",
    "title": "VINTAGE COLLECTIBLES BRASS BOOKENDS",
    "price": 75,
@@ -3458,6 +3546,17 @@
    "best": "Antique Chinese Zhangzhou Ware Export Porcelain Bowl Circa ...",
    "med": 245,
    "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930363824",
+   "title": "Vintage elegant rhinestone 2\"L brooch pin vgc",
+   "price": 45,
+   "area": "athensohio",
+   "url": "https://www.craigslist.org/view/d/logan-vintage-elegant-rhinestone-2l/iVsoz5WmuzFPLQQvFpCePb",
+   "best": "Vintage Tiered Pink Rhinestone and Pink Enameled Aurora ...",
+   "med": 110,
+   "ratio": 2.44,
    "ai_value": ""
   },
   {
@@ -3912,6 +4011,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950465000",
+   "title": "G Armani Figurine",
+   "price": 75,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/manchester-armani-figurine/a1TcZgadTMh9x3TeeJvH9b",
+   "best": "Vtg Giuseppe Armani Florence Wedding From Gulliver's World ...",
+   "med": 108,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7976880996",
    "title": "Antique Greek Key Glass",
    "price": 70,
@@ -4173,6 +4283,17 @@
    "best": "CAROUSEL King Size GUMBALL MACHINE - Vintage - 14\" - EUC! | eBay",
    "med": 80,
    "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977154203",
+   "title": "Vintage Nativity figurine set",
+   "price": 175,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-nativity-figurine/do3WLZMv4RiWPHkxHXgknk",
+   "best": "Vintage Nativity Creche Set German British Zone by JasperCup",
+   "med": 136,
+   "ratio": 0.78,
    "ai_value": ""
   },
   {
@@ -4556,6 +4677,17 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-smokeing-pipes/9ZLo1TQ5Qhr6mRA5GaiX6d",
    "best": "Lot of French Pipes Flamidor, Bayle, Denicotea etc for ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981611456",
+   "title": "Vintage Hitler youth knife sheath",
+   "price": 100,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-hitler-youth-knife/6QJa4aqWzizC4YgKg6dtKg",
+   "best": "Vintage Czech Model 58 Bayonet w/Leather Sheath Knife ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
