@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:04:49Z",
+ "updated": "2026-10-13T17:07:55Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6203,
-  "events": 21273,
+  "lens": 6228,
+  "events": 21298,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 162,
+  "lensed": 166,
   "comps/pass": 1,
-  "queued/relens": 40,
+  "queued/relens": 52,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 175,
+  "flagged": 184,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 650
+  "queued": 625
  },
  "last_harvests": [
   {
@@ -658,6 +658,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962774231",
+   "title": "Sterling Silver Ruby Rings - $40 each",
+   "price": 40,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/mckinney-sterling-silver-ruby-rings-40/oagV6X6GCxhCJngGpaevbv",
+   "best": "Flower Pink Ruby Gemstone Ring : 925 Sterling Silver - Etsy",
+   "med": 389,
+   "ratio": 9.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7982703225",
    "title": "Antique Small Bronze/Brass Incense Burner",
    "price": 35,
@@ -1054,6 +1065,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930852955",
+   "title": "Vintage Pabst Beer Coasters and Bloters",
+   "price": 20,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/new-berlin-vintage-pabst-beer-coasters/jsvcXv6SZocEpeE112YMaX",
+   "best": "VINTAGE PABST BLUE RIBBON BEER COASTER LOT OF 6 | eBay",
+   "med": 76,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7947022865",
    "title": "Vintage Turquoise Ring",
    "price": 20,
@@ -1183,6 +1205,17 @@
    "best": "Vintage Ucagco Japan Royal Vista Creamer and Sugar Bowl with ...",
    "med": 34,
    "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939916567",
+   "title": "Vintage Bantam Teddy Bear",
+   "price": 15,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-bantam-teddy-bear/pGmFPizFqQBcYbhk4gvJTL",
+   "best": "Musical Teddy Bear Vintage for sale | eBay",
+   "med": 50,
+   "ratio": 3.33,
    "ai_value": ""
   },
   {
@@ -1382,6 +1415,17 @@
    "med": 120,
    "ratio": 2.67,
    "ai_value": ""
+  },
+  {
+   "pid": "7937596828",
+   "title": "Vintage Polaroid Cameras",
+   "price": 65,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/north-bonneville-vintage-polaroid/51o52T3hVCgmDYaoLgt6NY",
+   "best": "Value / Condition: Pre-owned or untested vintage units typically sell for roughly $50 to $70 on platforms like",
+   "med": 169,
+   "ratio": 2.6,
+   "ai_value": "Value / Condition: Pre-owned or untested vintage units typically sell for roughly $50 to $70"
   },
   {
    "pid": "7963406985",
@@ -1802,6 +1846,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936359839",
+   "title": "Vintage Christmas Brooch Pins Lots",
+   "price": 25,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-christmas-brooch/v9K6idU9Tfv7sFPPmxxjHm",
+   "best": "Eisenberg Ice Marked Small Dark Sparkly Green Enamel w Tiny ...",
+   "med": 36,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7951013144",
    "title": "Seiko 2E20-6311 Women's Quartz Watch",
    "price": 35,
@@ -1877,6 +1932,17 @@
    "med": 112,
    "ratio": 1.32,
    "ai_value": ""
+  },
+  {
+   "pid": "7936810915",
+   "title": "Vintage Hallmark Santa Claus Ornaments",
+   "price": 10,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/elkhorn-vintage-hallmark-santa-claus/21U7AQR1nU8KWuaL7bcR9h",
+   "best": "Item Name: Santa's Gifts (Folk Art Americana Collection)",
+   "med": 13,
+   "ratio": 1.3,
+   "ai_value": "Price: $18"
   },
   {
    "pid": "7954297435",
@@ -2187,6 +2253,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949616895",
+   "title": "jewel antique amulet",
+   "price": 90,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/parkville-jewel-antique-amulet/hVc1GYbGhY8XDzX9p5SD6E",
+   "best": "Solid Sterling Silver 925 Oxidized Lord Ganesha Pendant - Etsy",
+   "med": 27,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7938419532",
    "title": "Medalion plates",
    "price": 70,
@@ -2195,6 +2272,17 @@
    "best": "eBay",
    "med": 19,
    "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951615083",
+   "title": "Vintage Wedgewood Harvard College Dishes Collection",
+   "price": 175,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-wedgewood-harvard/qiZYay4CjEmRfgayTe18sC",
+   "best": "Harvard Wedgwood plate - Mass and Dane Halls \u2013 NextStage Vintage",
+   "med": 35,
+   "ratio": 0.2,
    "ai_value": ""
   },
   {
@@ -2281,6 +2369,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/carson-vintage-asian-snuff-bottles/1NXtZQmXbdF1spxUecYyzk",
    "best": "Size: Approximately 3 inches (7.6 cm) tall.",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951001373",
+   "title": "Pretty Rings",
+   "price": 55,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/katy-pretty-rings/4BvKCD3fLZqo27B2vfzriy",
+   "best": "Facebook",
    "med": null,
    "ratio": null,
    "ai_value": ""
