@@ -77,6 +77,17 @@ for e in db.read('events'):
 flagged = sum(1 for e in cur.values() if e['stage'] == 'flagged')
 check('review backlog: flagged waiting <= 300', flagged <= 300, f'{flagged} waiting for photo review', warn=True)
 
+# 5. knowledge & leads
+try:
+    import enc
+    ents = list(enc.entries()); withc = sum(1 for _, t in ents if 'Terapeak' in t)
+    check('encyclopedia: entries with Terapeak sold comps', withc / max(1, len(ents)) >= .5, f'{withc}/{len(ents)} ({withc/max(1,len(ents)):.0%})', warn=True)
+except Exception as e: check('encyclopedia readable', False, str(e))
+leads = [p for p, e in cur.items() if e['stage'] == 'decided' and e.get('status') in ('ask', 'find')]
+check('open leads (ask/find) — Dylan to decide', True, f'{len(leads)} open')
+lensed_wait = sum(1 for e in cur.values() if e['stage'] == 'lensed')
+check('text-triage backlog (lensed, unread) <= 600', lensed_wait <= 600, f'{lensed_wait} waiting', warn=True)
+
 w = max(len(r[1]) for r in rows)
 for s, n, d in rows: print(f'{s:<5} {n:<{w}}  {d}')
 sys.exit(1 if any(r[0] == 'FAIL' for r in rows) else 0)
