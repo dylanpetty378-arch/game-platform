@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T10:14:17Z",
+ "updated": "2026-10-13T10:18:14Z",
  "tables": {
   "harvests": 4,
   "searches": 1310,
   "listings": 5407,
-  "lens": 3729,
-  "events": 12513,
+  "lens": 3754,
+  "events": 12538,
   "comps": 1163,
   "item_types": 782,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 2977,
-  "lensed": 193,
-  "queued": 1711,
+  "lensed": 208,
+  "queued": 1686,
   "comps/pass": 1,
   "decided/ask": 33,
   "queued/relens": 342,
-  "flagged": 129,
+  "flagged": 139,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -445,6 +445,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959639528",
+   "title": "Vintage Galvanized Rolling Washtub",
+   "price": 80,
+   "area": "carbondale",
+   "url": "https://www.craigslist.org/view/d/wentzville-vintage-galvanized-rolling/bmmuBeeqNhBrC8pSCVuNwm",
+   "best": "Craigslist",
+   "med": 1850,
+   "ratio": 23.13,
+   "ai_value": "Value: Generally ranges between $60"
+  },
+  {
    "pid": "7948764257",
    "title": "antique garden implement wheel",
    "price": 10,
@@ -533,6 +544,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943756856",
+   "title": "Vintage Floral Woman's Hat",
+   "price": 25,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/bedford-vintage-floral-womans-hat/8GzskCET6opavwhFm6Saz5",
+   "best": "Craigslist",
+   "med": 359,
+   "ratio": 14.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7979466753",
    "title": "Vintage Chrome dinning set",
    "price": 50,
@@ -541,6 +563,17 @@
    "best": "Dining Table and Chairs",
    "med": 692,
    "ratio": 13.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973693997",
+   "title": "Antique Baby Scale",
+   "price": 50,
+   "area": "plattsburgh",
+   "url": "https://www.craigslist.org/view/d/schenectady-antique-baby-scale/cERmVwgFDEsss8bf496SY5",
+   "best": "Etsy",
+   "med": 675,
+   "ratio": 13.5,
    "ai_value": ""
   },
   {
@@ -695,6 +728,17 @@
    "best": "Craigslist",
    "med": 530,
    "ratio": 8.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969809543",
+   "title": "Vintage 1950s Swank Cufflinks",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/belmont-vintage-1950s-swank-cufflinks/o8sRYTQxNvRxwB7Kk4jpNS",
+   "best": "Craigslist",
+   "med": 175,
+   "ratio": 8.75,
    "ai_value": ""
   },
   {
@@ -918,6 +962,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937156958",
+   "title": "UNDERWOOD STANDARD #5 Antique Typewriter",
+   "price": 98,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-estates-underwood-standard/8NVyQZfnUQ3XbGumDuHdZi",
+   "best": "Antique 1920's No. 5 Underwood Standard Typewriter | eBay",
+   "med": 550,
+   "ratio": 5.61,
+   "ai_value": ""
+  },
+  {
    "pid": "7951299280",
    "title": "Vintage Punch Bunch",
    "price": 50,
@@ -981,6 +1036,17 @@
    "best": "Era/Origin: Mid-century (commonly dated to the 1960s or 1970s), often manufactured in Hong Kong or Japan.",
    "med": 100,
    "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963976112",
+   "title": "Antique sled",
+   "price": 65,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/savage-antique-sled/5R2R1SWXhSmBa9qvQh6cPd",
+   "best": "eBay",
+   "med": 319,
+   "ratio": 4.91,
    "ai_value": ""
   },
   {
@@ -1413,6 +1479,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952191699",
+   "title": "Antique Iron Handled Cauldron/Pot/Kettle",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/hoffman-estates-antique-iron-handled/bP4WwcFozxXbEZMEG3yXgR",
+   "best": "Copper Bucket, Vintage Copper Pot, Copper Pot, French ...",
+   "med": 123,
+   "ratio": 2.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7961880417",
    "title": "Antique parlor clock",
    "price": 100,
@@ -1501,6 +1578,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955129799",
+   "title": "Antique items",
+   "price": 80,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/dunn-antique-items/bBSJ7DckbbF6BG8ArJd9P9",
+   "best": "Function: Operated by hand-twisting the tool into the soil to lift and remove dirt without heavy spade digging",
+   "med": 113,
+   "ratio": 1.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7943866416",
    "title": "Antique Turkish/Persian Copper/Silver Teapot",
    "price": 95,
@@ -1578,12 +1666,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7980025947",
+   "title": "Vintage Scroll Saw",
+   "price": 65,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/richmond-vintage-scroll-saw/mT1iFWjXCFtTTYWh5DAqUJ",
+   "best": "Lot - Vintage Sears Roebuck Co. Jig Saw",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
    "pid": "7959365913",
    "title": "Vintage Gloria Vanderbilt Umbrella",
    "price": 40,
    "area": "nashville",
    "url": "https://www.craigslist.org/view/d/franklin-vintage-gloria-vanderbilt/34GWYsod8hhi9jADbeWPHm",
    "best": "Gloria Vanderbilt Umbrella - Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949813154",
+   "title": "antique RCA Victrola",
+   "price": 99,
+   "area": "columbia",
+   "url": "https://www.craigslist.org/view/d/charleston-antique-rca-victrola/qtQqrx2tt6V49owTyAn9sm",
+   "best": "Estimated Value & Market",
    "med": null,
    "ratio": null,
    "ai_value": ""
