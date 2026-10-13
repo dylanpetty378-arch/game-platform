@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:24:17Z",
+ "updated": "2026-10-13T12:28:08Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4537,
-  "events": 14472,
+  "lens": 4562,
+  "events": 14497,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 423,
-  "queued": 1703,
+  "lensed": 437,
+  "queued": 1678,
   "comps/pass": 1,
   "decided/ask": 37,
   "queued/relens": 345,
-  "flagged": 353,
+  "flagged": 364,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -568,6 +568,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936513713",
+   "title": "Costume Heart Shape Sterling Style Necklace",
+   "price": 10,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-costume-heart-shape-sterling-style/bdgiZoNyardNYe6GvLoy4f",
+   "best": "TIFFANY & CO. Heart Pendant W/ Diamond Delicate Oval Link ...",
+   "med": 300,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
    "pid": "7941139818",
    "title": "Decorative Vintage decoupage box",
    "price": 10,
@@ -1019,6 +1030,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937181258",
+   "title": "VINTAGE STRAIGHT RAZOR CASE",
+   "price": 5,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/springfield-vintage-straight-razor-case/heN28HaQSbFtQ7oLoVvsfU",
+   "best": "Antique KROPP of Lodon Hollow Ground Duplex Straight Razor ...",
+   "med": 60,
+   "ratio": 12,
+   "ai_value": ""
+  },
+  {
    "pid": "7949906550",
    "title": "Antique Stromberg Carlson Telephone",
    "price": 25,
@@ -1272,6 +1294,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970260023",
+   "title": "Old broach \u2026.Ladies \ud83d\udca5\u2728\ud83d\udd25\ud83c\udf24\u2600\ufe0f\ud83c\udf2a",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-old-broach-ladies/6Prm9B8nfdsQ7juYXxCgVZ",
+   "best": "Unique Unusual Jewelry Findings PIN BROOCH Handmade Acrylic ...",
+   "med": 85,
+   "ratio": 8.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981937970",
    "title": "Vintage Italian Jewelry Box",
    "price": 30,
@@ -1291,6 +1324,17 @@
    "best": "VINTAGE MLB UMPIRE CATCHING GEAR ALL STAR BOB DAVIDSON ...",
    "med": 250,
    "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948945073",
+   "title": "Hummel Figurines",
+   "price": 19,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/marietta-hummel-figurines/pubXcVdg6rEAZe3AeNmVyt",
+   "best": "Identified Figurines in the Image",
+   "med": 158,
+   "ratio": 8.32,
    "ai_value": ""
   },
   {
@@ -2394,6 +2438,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982687613",
+   "title": "Beautiful Vintage Seiko Watch",
+   "price": 80,
+   "area": "huntsville",
+   "url": "https://www.craigslist.org/view/d/harvest-beautiful-vintage-seiko-watch/912k8EPeHFjCLp3pxJDjXN",
+   "best": "WatchCharts Marketplace",
+   "med": 315,
+   "ratio": 3.94,
+   "ai_value": "sell on secondary marketplaces like eBay and WatchCharts for roughly $100 to $250"
+  },
+  {
    "pid": "7953690796",
    "title": "Vintage FAR SIDE T-shirt",
    "price": 30,
@@ -2900,6 +2955,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982687973",
+   "title": "Vintage Studio Pottery Bowl Signed by Artist",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-studio-pottery-bowl/faBoYJJzqxt7DVuLfizrgw",
+   "best": "Very old Karatsu Chawan with tasteful colours (item #1263400)",
+   "med": 72,
+   "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7955901574",
    "title": "Thermaster Antique Vintage Cooler",
    "price": 40,
@@ -3076,6 +3142,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954521769",
+   "title": "Vintage Sterling Silver 18\" Necklace W/3 Turquoise Pendants",
+   "price": 97,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-vintage-sterling-silver-18/ogxDY493iuHPg86yphqbwQ",
+   "best": "Navajo Earring Pendant Set Sterling Silver Blue Turquoise ...",
+   "med": 250,
+   "ratio": 2.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7957651187",
    "title": "Vintage Brush Hook Axe",
    "price": 35,
@@ -3093,6 +3170,17 @@
    "area": "bemidji",
    "url": "https://www.craigslist.org/view/d/carlton-vintage-magazine-rack/n8cYwYB6KhmWtVzFor9twy",
    "best": "Vintage Mid Century Modern Maple Magazine Rack By Authentic ...",
+   "med": 63,
+   "ratio": 2.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949370824",
+   "title": "Jewelry Vintage...$25 takes all",
+   "price": 25,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/hudson-jewelry-vintage25-takes-all/3CpdPai3kshvMfbjuLUoSK",
+   "best": "1950's CHUNKY FAUX TURQUOISE FLORAL SILVER TONE 6\" COSTUME ...",
    "med": 63,
    "ratio": 2.52,
    "ai_value": ""
@@ -3326,6 +3414,17 @@
    "best": "Craigslist",
    "med": 100,
    "ratio": 2.22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949746995",
+   "title": "Vintage jewelry",
+   "price": 125,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/hollywood-vintage-jewelry/1GjBzf2zbxFDifnncjtFUZ",
+   "best": "Stunning Vtg Sterling Rhinestone Some Gold Bakelite Glass+ ...",
+   "med": 275,
+   "ratio": 2.2,
    "ai_value": ""
   },
   {
@@ -3780,6 +3879,17 @@
    "ai_value": "Price: Typically ranges from roughly $55 to $130"
   },
   {
+   "pid": "7965718497",
+   "title": "18\" Liquid Stamped Sterling Silver Necklace 9.6g",
+   "price": 177,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-18-liquid-stamped-sterling/wp8g9v84KBZysRNrYMMwxm",
+   "best": "Vintage Navajo Liquid Sterling Silver 10 Multi Strands ...",
+   "med": 160,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7935341410",
    "title": "ANTIQUE,,RAT ROD, GA TAGS,,,",
    "price": 99,
@@ -3821,6 +3931,17 @@
    "best": "CAROUSEL King Size GUMBALL MACHINE - Vintage - 14\" - EUC! | eBay",
    "med": 80,
    "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978389960",
+   "title": "Collection of Antique Japanese Decor",
+   "price": 150,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/limeport-collection-of-antique-japanese/hL6eA3f3Si7yMzdLaWZ2vR",
+   "best": "VTG JAPANESE BLACK POTTERY VASE 10\" FLOWERS ...",
+   "med": 100,
+   "ratio": 0.67,
    "ai_value": ""
   },
   {
