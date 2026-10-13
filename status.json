@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T13:49:53Z",
+ "updated": "2026-10-13T13:55:14Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5087,
-  "events": 15022,
+  "lens": 5112,
+  "events": 15047,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 737,
-  "queued": 1153,
+  "lensed": 753,
+  "queued": 1128,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 380,
-  "flagged": 554,
+  "queued/relens": 384,
+  "flagged": 559,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -3615,6 +3615,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973122896",
+   "title": "Vintage 1951-1957 McLaughlin-Millard Adirondack Official Softball Bat",
+   "price": 18,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/brookline-vintage-mclaughlin-millard/geK3N4GwTGEcPrSe2qqutv",
+   "best": "Vintage Hillerich & Bradsby H&B Louisville No. 9 Al ...",
+   "med": 67,
+   "ratio": 3.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7959443982",
    "title": "Farmhouse Vintage Truck Decor",
    "price": 27,
@@ -3967,6 +3978,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967287194",
+   "title": "Snare drum",
+   "price": 40,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/madera-snare-drum/sRGwsvBpwNJcUbzb7TS2An",
+   "best": "Coupon Exempt",
+   "med": 125,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7970328342",
    "title": "Vintage Flashlight",
    "price": 25,
@@ -4139,6 +4161,17 @@
    "url": "https://www.craigslist.org/view/d/oakmont-old-wood-planes/hScWJGFmUTX5ZhECyee8io",
    "best": "Antique Coffin Style Hand Planes | eBay",
    "med": 175,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955866382",
+   "title": "Doll Vintage Brazil ...Wow!",
+   "price": 25,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/santa-ana-doll-vintage-brazil-wow/jK1fJ7qE433m4TSAy8oSFD",
+   "best": "Era & Style: These handmade folk souvenir dolls were commonly produced from the mid-20th century (often dating",
+   "med": 73,
    "ratio": 2.92,
    "ai_value": ""
   },
@@ -4858,6 +4891,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939657592",
+   "title": "Browning Graphite Rod",
+   "price": 40,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/eugene-browning-graphite-rod/xc1RoPngQZ2AAoTst1z7rH",
+   "best": "Guide Series Advantage Crank Bait 1-Piece Casting Rod | eBay",
+   "med": 86,
+   "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7956328166",
    "title": "vintage costume jewelry lot from the 80s and 90s",
    "price": 40,
@@ -4975,6 +5019,17 @@
    "url": "https://www.craigslist.org/view/d/kamuela-vintage-hand-sewn-geisha-doll/u89yS2bDHivkBMSUi5spfs",
    "best": "Vintage 17\"Japanese Doll GEISHA OHGI-NO-MAI BEAUTIFUL ...",
    "med": 250,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963094169",
+   "title": "Schenley Whiskey advertising seat",
+   "price": 45,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/hawthorne-schenley-whiskey-advertising/qys6tWsSsJH7hpG7Jv3zuV",
+   "best": "1930's SCHENLEY'S RED LABEL WHISKEY ADV WOOD CANE SEAT | eBay",
+   "med": 90,
    "ratio": 2,
    "ai_value": ""
   },
