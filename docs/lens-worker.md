@@ -3,7 +3,19 @@
 Google blocks Lens from servers/headless browsers ("unusual traffic"), so photo identification has to run in a real,
 signed-in browser. That is the only piece not in the cloud.
 
-## Current method: Tampermonkey userscript `scripts/refurbish-lens.user.js` (v1.0, Oct 12 2026)
+## Current method: Tampermonkey loader `scripts/refurbish-lens.user.js` (v2.0) + worker logic `scripts/lens-worker.js`
+
+**Loader/worker split (v2.0, Oct 13 2026):** the userscript Dylan installs is only a loader. It fetches
+`scripts/lens-worker.js` from the branch (re-checked every 10 min, last good copy cached) and runs it. To change the
+worker, edit `lens-worker.js`, bump `WORKER_VERSION`, push — every browser runs it within ~10 minutes. The control page
+shows the running version. Never change the loader unless unavoidable (that needs a manual reinstall).
+
+**Completeness rule (v2.0):** a Lens page counts as read only when "Visual matches" is present AND ≥3 priced matches
+have loaded (or 9 s passed) AND the AI Overview is finished if its heading appeared (else 3 s after the matches,
+max 11 s) AND the page text has not changed for 2 s; hard cap 30 s; incomplete pages are retried once. v1 moved on
+1.5 s after page start once the heading appeared — measured: AI text 67% vs 80% and 10% empty match lists.
+Each result now carries `q` = {v, wait ms, prices, ai, why} so read quality is measurable per version.
+Incomplete v1 reads were re-queued (`queued/relens` events, `,r` flag in queue.txt so the worker re-runs them).
 
 - Control page: **https://www.google.com/robots.txt?refurb** (status, Start/Stop, token box, log).
 - Start marks that one tab as the worker (sessionStorage). The tab then *navigates itself*:

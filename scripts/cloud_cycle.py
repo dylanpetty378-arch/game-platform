@@ -97,7 +97,9 @@ def harvest_and_select(hours, per_cycle):
 def build_queue(maxn=3000, days=10):
     cur = latest_stage(); cutoff = time.time() - days * 86400
     L = {str(r['pid']): r for r in db.read('listings')}
-    pend = [L[p] for p, e in cur.items() if e['stage'] == 'queued' and p in L and (L[p].get('posted') or 0) >= cutoff]
+    pend = [L[p] for p, e in cur.items() if e['stage'] == 'queued' and p in L and (L[p].get('posted') or 0) >= cutoff and e.get('status') != 'relens']
+    # re-runs (incomplete earlier Lens reads) go first, flagged 'r' so the worker runs them even if already in its DONE set
+    relens = [L[p] for p, e in cur.items() if e['stage'] == 'queued' and e.get('status') == 'relens' and p in L]
     # best score first; within one score, newest first and rotated across areas so one big metro can't fill the queue
     pend.sort(key=lambda r: (-(r.get('score') or 0), -(r.get('posted') or 0)))
     out, i = [], 0
@@ -114,7 +116,8 @@ def build_queue(maxn=3000, days=10):
         i = j
     pend = out
     os.makedirs(os.path.join(ROOT, 'q', 'current'), exist_ok=True)
-    open(os.path.join(ROOT, 'q', 'current', 'queue.txt'), 'w').write(';'.join(f"{r['imgs'][0]},{r['price']},{r['pid']}" for r in pend))
+    pend = relens + pend[:max(0, maxn - len(relens))]
+    open(os.path.join(ROOT, 'q', 'current', 'queue.txt'), 'w').write(';'.join(f"{r['imgs'][0]},{r['price']},{r['pid']}" + (',r' if r in relens else '') for r in pend))
     qid = datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%d-%H%M')
     json.dump({'id': qid, 'n': len(pend), 'made': db.now()}, open(os.path.join(ROOT, 'q', 'current', 'meta.json'), 'w'))
     print(f'queue {qid}: {len(pend)} pending'); return len(pend)
