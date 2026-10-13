@@ -26,6 +26,19 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (14:00–15:10) — the website, and eBay comps from the cloud
+- **Refurbish website** is live at a hidden path on the Vectus site (URL in the claude.ai project; `spec/refurbish.md` in
+  the Vectus repo). Own Postgres database beside the game's, own code, no shared tables. Pages: dashboard, leads,
+  listings search, item file (photos, Lens, history, comps, entries, notes, tracking), encyclopedia, Lens control,
+  bought/sold ledger, printable report. JSON twins under `<base>/api/*.json`.
+- Sync: reads `db/manifest.json` (scripts/manifest.py, run by the workflow before every commit) and raw files — no
+  GitHub API, which is rate-limited per IP on Fly. First sync stalled on the API and on a single 15k-row insert;
+  fixed with the manifest and 500-row chunks. Full sync from empty ≈ 2 min; incremental every 10 min.
+- **eBay keys work.** First cloud run: 194 queries, 187 with results. The Browse token works; the Marketplace
+  Insights (sold) token is refused, so these are ACTIVE asking prices (source `ebay-active`), a ceiling only. Dylan
+  can apply for the Insights scope at developer.ebay.com; until then every lead still needs a sold comp.
+- Harvest at 13:35 UTC succeeded end-to-end with the type_model fix and the manifest step.
+
 ### 2026-10-13 (12:00–12:40) — triage round 5, 48 more entries deepened, field notes
 - Triage: 347 rows (208 lensed + 139 flagged), 4 agents. 343 kills, 4 asks, 0 buys.
   - Postcards: 65 cards for $35; needs the card count and the number of RPPCs.
