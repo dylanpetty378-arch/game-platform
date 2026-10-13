@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-13T18:06:54Z",
+ "updated": "2026-10-13T18:09:52Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6628,
-  "events": 21698,
+  "lens": 6653,
+  "events": 21723,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
@@ -14,15 +14,15 @@
   "photo_review/kill": 6698,
   "lensed": 257,
   "comps/pass": 1,
-  "queued/relens": 228,
+  "queued/relens": 244,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 317,
+  "flagged": 326,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 225
+  "queued": 200
  },
  "last_harvests": [
   {
@@ -2121,6 +2121,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932241775",
+   "title": "Pair of Antique German-Made Hygrometers",
+   "price": 90,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-pair-of-antique-german-made/w3ZqsGBZdarkeHS9PxtSKY",
+   "best": "Left Hygrometer (Embossograph Process Co.): Housed in a brass-toned metal case with a white paper dial marked ",
+   "med": 250,
+   "ratio": 2.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7953310085",
    "title": "Gruen Veri-thin 17 jewels Men\u2019s Winding Watch",
    "price": 70,
@@ -2242,6 +2253,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982792955",
+   "title": "Vintage Signed McIlhenny 1987 Glass Paperweight Blue and Light Blue Swirl Patter",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/yonkers-vintage-signed-mcilhenny-1987/k95Bfu8V6JB2Mqh4SotMrc",
+   "best": "Craigslist",
+   "med": 89,
+   "ratio": 2.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7953344699",
    "title": "Antique telephone replica",
    "price": 50,
@@ -2304,6 +2326,17 @@
    "url": "https://www.craigslist.org/view/d/jacksonville-vintage-ray-cutright-oil/dYdBfcgHYLVBEfUnTjhsih",
    "best": "VINTAGE MacGregor Oil Hardened Jack Nicklaus Muirfield ...",
    "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948774304",
+   "title": "Great All Wood Small Ukulele",
+   "price": 12,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-great-all-wood-small/nWrMWzxMCcjsQmYdNMxmkw",
+   "best": "Common Origin: Often sold as a tropical souvenir or entry-level instrument by makers like Universal Worldwide ",
+   "med": 30,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -2539,6 +2572,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7967017428",
+   "title": "Royal Holland pewter daalderop",
+   "price": 15,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-royal-holland-pewter-daalderop/aasmYNCcvqLsRWXpcotLPm",
+   "best": "Etsy",
+   "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933012732",
+   "title": "Ax  Large vintage",
+   "price": 75,
+   "area": "macon",
+   "url": "https://www.craigslist.org/view/d/dexter-ax-large-vintage/77A5mEBuxvmkgGsYDb5CLu",
+   "best": "Vtg CRAFTSMAN Hatchet Broad Axe Straight Handel. | eBay",
+   "med": 149,
+   "ratio": 1.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7955725602",
    "title": "Large Mermaid Statue",
    "price": 50,
@@ -2755,6 +2810,17 @@
    "url": "https://www.craigslist.org/view/d/winter-haven-vintage-brooch/dtJ14aba77mgkUdzF29yNY",
    "best": "Craigslist",
    "med": 90,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950487578",
+   "title": "Vintage Stoneware Pot",
+   "price": 20,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-stoneware-pot/kFfqWwhA1Xe7ZX9Xb1UkMc",
+   "best": "eBay",
+   "med": 36,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -3177,6 +3243,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980507453",
+   "title": "Vintage Royal Satsuma Lidded Ginger Bowl Moriage Gold Guilded Decor",
+   "price": 60,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/west-new-york-vintage-royal-satsuma/gW5sws3Z1316Maveo6YBTe",
+   "best": "Origin & Style: While labeled or marketed as \"Royal Satsuma,\" similar vintage pieces of this style are often m",
+   "med": 65,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7980571134",
    "title": "Lenox Tinkerbell's Magical Garden",
    "price": 115,
@@ -3306,6 +3383,17 @@
    "best": "Tibet Shining",
    "med": 186,
    "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969569177",
+   "title": "VINTAGE BOHEMIAN COBALT BLUE CUT-TO-CLEAR CRYSTAL \u201cTUMBLE-UP\u201d SET",
+   "price": 75,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/durham-vintage-bohemian-cobalt-blue-cut/1egryEDDQrkh3B1FPL7oSJ",
+   "best": "Era & Origin: Commonly produced as vintage or antique European glass, frequently attributed to 1920s Bohemian ",
+   "med": 68,
+   "ratio": 0.91,
    "ai_value": ""
   },
   {
@@ -3515,6 +3603,17 @@
    "best": "Vintage Lakeside Guaranteed Special M.W. & Co Brass Blow ...",
    "med": 50,
    "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954645931",
+   "title": "Woman\u2019s Vintage Seiko Quartz Watch",
+   "price": 45,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/englewood-womans-vintage-seiko-quartz/3zeRsma4CjNtPaKz44u24Q",
+   "best": "Vintage Radar",
+   "med": 28,
+   "ratio": 0.62,
    "ai_value": ""
   },
   {
