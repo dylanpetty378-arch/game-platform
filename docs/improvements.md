@@ -324,3 +324,13 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 - Best yield of the day per photo reviewed: estate sales have no bidders and companies only caption ~10% of photos.
 - Bug fixed: ~25% of estate flags pointed at the wrong photo — cell labels under thumbnails were read as the next
   row's. Labels now sit in a yellow tag inside the top-left of each cell (eye_screen.py).
+
+## 2026-10-13 (late afternoon) — eBay casual-seller auctions (scripts/ebay_eggs.py + ebay-eggs workflow)
+- Browse API from Actions (api.ebay.com is blocked from Claude's container): auctions ending ≤24 h, ≤$200, ≤3 bids,
+  seller feedback ≤150, in Art/Antiques/Pottery & Glass/Jewelry & Watches/Cameras/Collectibles/Instruments/Militaria
+  → 15,904 (12,783 without sports cards) → 107 sheets → 67 flags → full listing + every photo (detail mode) →
+  **0 eggs, 2 thin leads** (Wally Shoop bronze ended first; Qing-type lotus jar max $175).
+- Day total: ~170,000 listings/photos screened across Craigslist, ShopGoodwill, DFW estate sales, HiBid (sample) and
+  eBay → 1 egg-grade item (needs authentication), 0 shippable confirmed golden eggs. A true egg (≥$1,000 unrecognised,
+  shippable, ≤$500) is on the order of 1 per 100k+ listings online. The pipeline now covers enough volume to see
+  ~50k/day if run continuously; that is the realistic way to find them.
