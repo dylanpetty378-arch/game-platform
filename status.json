@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:18:02Z",
+ "updated": "2026-10-13T05:23:44Z",
  "tables": {
   "harvests": 3,
   "searches": 168,
   "listings": 4607,
-  "lens": 1879,
-  "events": 8276,
+  "lens": 1904,
+  "events": 8301,
   "comps": 159,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1411,
-  "queued": 2761,
+  "queued": 2736,
   "comps/pass": 1,
   "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "flagged": 55,
-  "lensed": 33,
+  "flagged": 64,
+  "lensed": 49,
   "decided/find": 7
  },
  "last_harvests": [
@@ -246,6 +246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953667450",
+   "title": "Vintage Tea Serving Cart",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/morton-grove-vintage-tea-serving-cart/uRM51ejHeFJCsmiEMynCBM",
+   "best": "86 Vintage",
+   "med": 900,
+   "ratio": 18,
+   "ai_value": ""
+  },
+  {
    "pid": "7982249538",
    "title": "Vintage Rolling Wood Cart",
    "price": 20,
@@ -254,6 +265,17 @@
    "best": "AN ERCOL WINDSOR GOLDEN DAWN ELM TV MEDIA CABINET / STAND ...",
    "med": 324,
    "ratio": 16.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972593099",
+   "title": "Picnic Basket Vintage",
+   "price": 35,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-picnic-basket-vintage/tkeXQnZyDo3pUHsTJxEgmo",
+   "best": "BEAUTY PICNIC SET BASKET VINTAGE PORSCHE 356 MERCEDES MB 190 ...",
+   "med": 550,
+   "ratio": 15.71,
    "ai_value": ""
   },
   {
@@ -279,6 +301,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7965371748",
+   "title": "Vintage mongoose bike",
+   "price": 45,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-mongoose-bike/iqqCBKq2qd5priYD9rrHHs",
+   "best": "20\" Mongoose Mode 180 Boys' BMX bike for Sale in St. Cloud ...",
+   "med": 585,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979754132",
+   "title": "Vintage Sunbeam Shoeshine Kit",
+   "price": 10,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-sunbeam-shoeshine-kit/bsJe4mEjkLQGkZYyAeNqYi",
+   "best": "Vintage Sunbeam Shoe Shine Brushes 2-Speed Polisher in ...",
+   "med": 120,
+   "ratio": 12,
+   "ai_value": "Value: Similar vintage Sunbeam shoe shine kits typically sell for around $12 to $35"
+  },
+  {
    "pid": "7930598502",
    "title": "VINTAGE STEREO EQUIPMENT",
    "price": 80,
@@ -301,6 +345,17 @@
    "ai_value": "valued or sold online between $50"
   },
   {
+   "pid": "7949899228",
+   "title": "Vintage Barbie doll's",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-barbie-dolls/cX8rdXj6qWK6CqzxMZnjAw",
+   "best": "garrettsander.com",
+   "med": 86,
+   "ratio": 8.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7961582856",
    "title": "Vintage silver plated trays",
    "price": 20,
@@ -309,6 +364,17 @@
    "best": "Round Tray: A vintage silver-plated circular tray or serving plate featuring a decorative rim. Similar sets of",
    "med": 162,
    "ratio": 8.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946271314",
+   "title": "VINTAGE HAT",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-hat/1RRK3wQjR3oVF7FrHCktKK",
+   "best": "Poshmark",
+   "med": 80,
+   "ratio": 8,
    "ai_value": ""
   },
   {
@@ -376,6 +442,17 @@
    "med": 250,
    "ratio": 6.25,
    "ai_value": "Value: Typically ranges from $90 to $795"
+  },
+  {
+   "pid": "7982371893",
+   "title": "TWO VINTAGE AIR COMPRESSOR",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bremerton-two-vintage-air-compressor/bAzo2BMpzpbEanBizPxc5G",
+   "best": "older portable Sears/Craftsman piston",
+   "med": 250,
+   "ratio": 6.25,
+   "ai_value": ""
   },
   {
    "pid": "7982351679",
@@ -653,6 +730,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952577915",
+   "title": "Vintage Modern Metal Rack",
+   "price": 45,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-vintage-modern-metal-rack/o55GZgdfWijL2L5nWaUJ3v",
+   "best": "Portland Revibe",
+   "med": 99,
+   "ratio": 2.2,
+   "ai_value": "Value: Typically sells secondhand or vintage online between $25"
+  },
+  {
    "pid": "7955184246",
    "title": "Vintage Russian Cuckoo clock",
    "price": 100,
@@ -672,6 +760,17 @@
    "best": "Working Vintage 1940's Kellogg Model T-32 Black Candlestick ...",
    "med": 175,
    "ratio": 2.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951356264",
+   "title": "TC Electronics Vintage Overdrive",
+   "price": 70,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-tc-electronics-vintage/6iUV6hVCoe89kaG8yzRcYK",
+   "best": "Reverb",
+   "med": 146,
+   "ratio": 2.09,
    "ai_value": ""
   },
   {
