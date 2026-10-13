@@ -12261,3 +12261,76 @@
 {"ts":"2026-10-13T09:46:44Z","pid":"7928419449","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":180,"ratio":3.6}}
 {"ts":"2026-10-13T09:46:51Z","pid":"7931015754","stage":"flagged","run":"lensworker-20261013-0943","data":{"med":1599,"ratio":35.53}}
 {"ts":"2026-10-13T09:47:01Z","pid":"7962247815","stage":"lensed","run":"lensworker-20261013-0943","data":{"med":24,"ratio":0.28}}
+{"pid":"7963406424","stage":"photo_review","status":"kill","type":null,"note":"model ship labelled for repair; large","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7955563122","stage":"photo_review","status":"kill","type":null,"note":"decanter set, Lens match wrong; glass, low comps","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7944537664","stage":"photo_review","status":"kill","type":null,"note":"wicker plant stand — bigger than passenger seat","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7972596069","stage":"photo_review","status":"kill","type":null,"note":"picnic basket ~$30-50 sold","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7961660343","stage":"photo_review","status":"kill","type":null,"note":"oil furnace burner — bulky/untested","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7981243887","stage":"photo_review","status":"kill","type":null,"note":"bike frame — size rule","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7956624401","stage":"photo_review","status":"kill","type":null,"note":"bike frames — size rule","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7981243659","stage":"photo_review","status":"kill","type":null,"note":"bike frame — size rule","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7944056566","stage":"photo_review","status":"kill","type":null,"note":"untested movie camera electronics","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7980108927","stage":"photo_review","status":"kill","type":null,"note":"4 toasters — untested electrics, bulky","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7964569782","stage":"photo_review","status":"kill","type":null,"note":"barn lights — bulky","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7949429990","stage":"photo_review","status":"kill","type":null,"note":"lamp pair, fragile/bulky","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7980026883","stage":"photo_review","status":"kill","type":null,"note":"repro candlestick phone","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7929863253","stage":"photo_review","status":"kill","type":null,"note":"Stanley 78 + bits ~$40-60 sold, fails $50","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7982192691","stage":"photo_review","status":"kill","type":null,"note":"4 pocket knives lot ~$30-45 sold, fails $50","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7951003326","stage":"photo_review","status":"kill","type":null,"note":"Coleman 220 ~$60-100 sold, fails at $50","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7979896725","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7962640761","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7982174325","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:22Z"}
+{"pid":"7945238678","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7973733756","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7960393677","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7956634499","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7953341368","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7936663280","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7939150990","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7965178044","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7942892185","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7932316588","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7976874981","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7944414915","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7945361409","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7968582309","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7982289147","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7947591463","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7982212971","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7973945172","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:23Z"}
+{"pid":"7938326167","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7974595764","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7982234889","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7930372449","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7930220428","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7939710971","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7954868501","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7945237697","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7945834827","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7948853440","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7955992888","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7974187056","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7982196870","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7957842542","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7966930251","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7973624331","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7973685945","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7982244000","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7957829309","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:24Z"}
+{"pid":"7978363326","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7978357098","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7963605909","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7982177826","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7979455170","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7982166960","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7975909197","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7968805551","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7930178576","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7951056564","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7938324940","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7976468526","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7956059403","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7956381860","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7943189252","stage":"photo_review","status":"kill","type":null,"note":"text triage: comps below rule, size or fit","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:25Z"}
+{"pid":"7973817117","stage":"photo_review","status":"kill","type":null,"note":"brass gaff, cracked wooden handle (repair)","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:38Z"}
+{"pid":"7940804995","stage":"photo_review","status":"kill","type":null,"note":"pre-made mixed boxes, no selection; June yard-sale post (stale)","run":"triage-20261013c","by":"claude","data":null,"ts":"2026-10-13T09:26:38Z"}

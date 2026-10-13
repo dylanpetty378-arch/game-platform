@@ -26,6 +26,27 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (10:30–11:00) — 48 entries deepened (research/DEEPEN_BRIEF.md)
+- The 48 most-seen non-dead types with thin entries (<7 KB) were rewritten by 6 research agents (≤30 web searches
+  each). Each now has deeper maker/marks/finish detail, a **Quick ID checklist** and a **What to tell the buyer** paragraph.
+  Every earlier fact, comp and sweep line is kept, with no invented comps.
+- Errors fixed along the way:
+  - Ivory Pyralin is DuPont's.
+  - Emerson's 4th model digit is the blade count.
+  - The vintage Barbie body mark is "Barbie T.M.".
+  - Royal Doulton HN2000 dates to the late 1940s, and the © year is the design year.
+  - Smith-Miller is postwar.
+  - TNF Steep Tech dates from 1991.
+  - The red-white-blue ILGWU label is 1974–95.
+  - Valje was founded by Tom Flores in LA.
+  - Josef Originals' Japan production began in 1959.
+  - Revere Ware is copper-clad stainless steel.
+- Flagged, not changed:
+  - Shawnee Corn King/Queen colours need checking against the Mangus guide.
+  - Several Terapeak lines are contaminated by parts or accessories: Gibson J-45, Martin D-18, KEF LS3/5A, and new LED
+    signs in beer neon. Re-query these with exclusions.
+- Batch the rest the same way: next are the types ranked 49–156 by sightings.
+
 ### 2026-10-13 (10:00) — quick-reject for types that can never pass
 - `type_model.py build` now marks a type **dead** when its rubric p75 × 0.87 − 2 × ship_cost_to_buyer < $20, meaning a
   single item can't clear the rule even at a good price. 208 of 605 rubric'd types are dead: Avon bottles, dinnerware,

@@ -1,29 +1,46 @@
 # Crystal decanters (Waterford, Baccarat, Lalique, Saint-Louis, Orrefors, Kosta Boda, Stuart, Edinburgh, Webb Corbett, Moser, Val Saint Lambert, Bohemian/Czech, Cristiro Romania, Godinger/Shannon, Riedel)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("crystal decanters" median $35.62 n=48, p25 $21.48 p75 $116.65, incl. Rémy Martin Louis XIII Baccarat decanter $227.35 Oct 2026; "crystal wine decanter" median $25 n=50, p25 $18.99 p75 $39.99). Maker marks (general knowledge, verify). No web search this run.
-Slug: crystal-decanters · Aliases: wine decanter, whiskey decanter, liquor decanter, cut glass decanter, crystal carafe, cruet, ship's decanter, Bohemian decanter
+Updated: 2026-10-13 · deepened 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("crystal decanters" median $35.62 n=48, p25 $21.48 p75 $116.65, incl. Rémy Martin Louis XIII Baccarat decanter $227.35 Oct 2026; "crystal wine decanter" median $25 n=50, p25 $18.99 p75 $39.99). Maker marks (general knowledge, verify). Philippe's, "Dating Waterford Crystal Marks" (early Old English script mark; seahorse emblem mid-20th c.; acid marks on the base common post-1950s; Lismore and Kylemore patterns) https://philippes.com/dating-waterford-crystal-marks/ ; Chairish, Baccarat Fleur-de-Lys wheel-engraved decanter (acid-etched mark = post-1936; engraving no. 5588 from 1892; $767 asking) https://www.chairish.com/product/31231192/baccarat-fleur-de-lys-wheel-engraved-decanter-signed ; Chairish, mid-century Baccarat Rémy Martin Louis XIII decanter (base acid-etched with Baccarat mark and "E. Remy Martin & Cie., Cognac, France"; 11" tall; c.1960–70s; $675 asking) https://www.chairish.com/product/3388635/mid-century-baccarat-remy-martin-louis-xiii-cognac-crystal-decanter ; eBay listing, numbered empty Baccarat Louis XIII decanter https://www.ebay.com/itm/156798160869 (not readable this run)
+Slug: crystal-decanters · Aliases: wine decanter, whiskey decanter, liquor decanter, cut glass decanter, crystal carafe, cruet, ship's decanter, Bohemian decanter, Louis XIII decanter, tantalus decanter, claret jug
 Summary: Unmarked/modern glass decanters $10–35; Romanian/Czech hand-blown and Godinger/Shannon $20–90; Waterford, Stuart, Edinburgh, Orrefors $60–200; Baccarat, Saint-Louis, Lalique, Moser $150–800+; empty Louis XIII Baccarat bottles $200–1,500 (depending on edition).
 Buy rule (short): Pass on unmarked glass; buy only acid-etched marked Waterford/Baccarat/Lalique/Saint-Louis/Moser decanters with stopper at ≤ $40, or an empty Rémy Martin Louis XIII Baccarat decanter with fleur-de-lis stopper at ≤ $100.
 
 ## What it is / how to recognise it in a photo
 Stoppered glass vessel for wine or spirits.
-- **Waterford (Ireland)**: deep wedge/diamond cuts (Lismore, Colleen, Alana), acid-etched "Waterford" seahorse/script on base.
-- **Baccarat (France)**: heavy, very clear, "Baccarat France" circle stamp; Harcourt, Massena, Louis XIII decanter for Rémy Martin (fleur-de-lis stopper, numbered).
+- **Waterford (Ireland)**: deep wedge/diamond cuts (Lismore, Colleen, Alana, Kylemore), acid-etched "Waterford" on the base. The early mark is the word "Waterford" in Old English (Gothic) script; the seahorse emblem became the brand's logo from the mid-20th century and appears on labels and some later marks (general knowledge, verify which pieces carry a seahorse acid mark).
+- **Baccarat (France)**: heavy, very clear, "Baccarat France" circle stamp (acid-etched; the acid stamp dates a piece to **after 1936**; earlier Baccarat is usually unmarked or paper-labelled); Harcourt, Massena, Fleur-de-Lys/Chablis engraved, Louis XIII decanter for Rémy Martin (fleur-de-lis stopper, numbered).
+- **Rémy Martin Louis XIII**: flattened round flask shape with fleur-de-lis decoration and a fleur-de-lis stopper; the base is acid-etched with the Baccarat mark and "E. Rémy Martin & Cie, Cognac, France"; about 11" tall for the standard 700/750 ml size.
 - **Lalique**: frosted/clear moulded glass, "Lalique France" engraved.
 - **Moser (Czech)**: coloured crystal with gilding, "Moser" signature.
 - **Cristiro (Romania, 1970s–80s)**: hand-blown coloured (aqua, cranberry, amber) cruet-shaped decanters with gold enamel flowers and gilded rims; often foil "Cristiro Romania" labels.
 - **Generic**: bulbous wine decanters with long neck and light floral etching; foil "Made in Romania/Poland/Italy" labels.
 
+### Quick ID checklist
+- Base close-up under raking light: acid-etched maker mark (Waterford script, Baccarat circle, "Lalique France", "Moser"), or nothing.
+- Stopper: original, fits snugly, cut to match the body; on high-end pieces a number on the stopper matches a number on the neck or base.
+- Cuts: sharp, crisp edges that catch light (cut) vs rounded, soft edges and mould seams (pressed/moulded).
+- Weight and clarity: lead crystal is heavy and very clear; grey or green tint suggests soda glass.
+- Interior: clear vs cloudy "sick glass" film or a water line.
+- Rim and stopper flange: run a finger (or ask) for chips; a flat, frosted ground rim = repair.
+- Louis XIII: fleur-de-lis stopper present, Baccarat and Rémy Martin acid marks on the base, any number, and whether the original coffret (case) is included.
+- Shape names: ship's decanter (very wide base), square spirits decanter (tantalus type), claret jug (handle and spout).
+
 ## Makers, brands and variants
 As above, plus Stuart, Edinburgh, Webb Corbett (UK), Orrefors and Kosta Boda (Sweden), Val Saint Lambert (Belgium), Hawkes and Libbey (American Brilliant cut glass, 1880–1915, $150–800).
+- **Waterford**: the modern Waterford factory began after WWII (the original 18th-century Waterford works closed in the 19th century); Lismore (1952) is the best-known pattern (general knowledge, verify dates). Later Waterford production moved partly to Slovenia, Czech Republic and Germany; check for "Made in Ireland" stickers or country marks on later pieces (general knowledge, verify).
+- **Baccarat**: engraved patterns have catalogue numbers (e.g. Fleur-de-Lys engraving no. 5588, introduced 1892). Pre-1936 pieces can be very valuable but are hard to attribute without a mark.
+- **Saint-Louis (France)**: acid-etched "St Louis France" mark on modern pieces; Tommy pattern is the best known (general knowledge, verify).
 
 ## Materials, finishes and quality tells
 Lead crystal rings when tapped, is heavy and very clear; ground and numbered stoppers (matching numbers on stopper and neck) on high-end. Sharp cut edges = cut crystal; rounded = moulded. American Brilliant pieces have deep, intricate cuts, star-cut bases.
+- Hand-cut vs pressed: hand-cut patterns show small irregularities between repeats; pressed glass has mould seams along the sides and soft facet edges.
+- Old vs new: wear scratches on the base ring (normal use), older acid marks that are faint, pontil marks polished out on quality pieces; new imports have crisp foil stickers and laser or sandblasted logos.
+- Gilding on Moser and Cristiro: rubbed gold at rims and high points is common and lowers value.
 
 ## Condition, damage and repairs
-Chips on stopper/flange, cloudy "sick glass" interiors (permanent), stuck stoppers, ground-down rims (repairs). Gold wear on enamelled pieces.
+Chips on stopper/flange, cloudy "sick glass" interiors (permanent), stuck stoppers, ground-down rims (repairs). Gold wear on enamelled pieces. Also mismatched stoppers (wrong cut or loose fit) and hairline cracks near the neck that show only when lit from behind.
 
 ## Fakes, reproductions and reissues
-Fake Waterford acid marks on Eastern-European cut glass; Louis XIII decanter replicas without Baccarat stamp/numbering.
+Fake Waterford acid marks on Eastern-European cut glass; Louis XIII decanter replicas without Baccarat stamp/numbering. Some period dealers describe Louis XIII decanters as "an exact replica" of a historic flask: that refers to the design, not a fake. Genuine Louis XIII decanters come with Baccarat and Rémy Martin marks; check the stopper is the fleur-de-lis type, not a generic one.
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
@@ -39,18 +56,22 @@ Fake Waterford acid marks on Eastern-European cut glass; Louis XIII decanter rep
 - 2025-12-04 – eBay (Terapeak) – hand-blown U-shaped glass wine decanter – $18.91
 - 2026-07-29 – eBay (Terapeak) – LEVARE wine decanter with aerator – $35.78
 - 2026-10-13 – Terapeak 365d sold, query "Saint-Louis crystal decanter" (top-tier variant): n=50, median $145, p25 $95, p75 $289.95 — e.g. $66.0 St Louis Crystal Decanter (); $125.0 Clear Cut Crystal Square St Louis Deca ()
+- Asking only (not sold): Baccarat Fleur-de-Lys engraved decanter $767; c.1960–70s Baccarat Louis XIII decanter with stopper $675 (Chairish dealers).
 
 ## Market
 Steady. Branded crystal sells within weeks; generic sits.
 
 ## What sellers usually miss
-Faint acid marks on bases; Louis XIII decanters (empties are valuable to collectors); matched-number stoppers indicating quality.
+Faint acid marks on bases; Louis XIII decanters (empties are valuable to collectors); matched-number stoppers indicating quality. Also Baccarat engraving pattern names, and the fact that an acid mark only dates Baccarat to after 1936.
 
 ## Shipping / handling
 3–5 lb, tall; double-box with stopper wrapped separately; $15–20.
 
 ## Selling it (for the buyer-facing listing)
 Base mark photo, height, stopper fit, interior clarity, chips.
+
+### What to tell the buyer
+"[Maker] [pattern] crystal decanter with original stopper; acid-etched [mark text] on the base (photo). Height [x] in with stopper. Stopper fits [snugly]; [matching numbers on stopper and neck]. Interior is [clear / light cloudiness]; rim and stopper flange [free of chips / small flea bite at …]. Lead crystal, hand-cut [pattern]." For Louis XIII: "Empty Rémy Martin Louis XIII decanter made by Baccarat, base marked [text], fleur-de-lis stopper, [number], [case/box included]; sold empty as a collectible."
 
 ## Buy rule
 Profit = median × 0.87 − ~$18 to buyer − ~$15 to Dylan − price. Generic ($25): loss. Cristiro (~$45): loss. Waterford decanter (~$120) at ≤ $25: 104 − 33 − 25 = $46 — borderline; ≤ $20 needed. Louis XIII empty ($300+) at ≤ $100: 261 − 33 − 100 = $128.

@@ -1,6 +1,6 @@
 # Copper cookware and molds (Mauviel, Dehillerin, Gaillard, Bourgeat, Revere, Paul Revere Ware, Waldow, Portuguese/Taiwan decorative molds, Benjamin & Medwin, Hammersmith)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run)
-Slug: copper-cookware-and-molds · Aliases: copper jello mold, copper wall mold, aspic mold, French copper pot, tin-lined copper, copper saucepan, copper bundt, copper fish mold
+Updated: 2026-10-13 · deepened 2026-10-13 · Sources: general knowledge (no web search this run); Terapeak 365d sold pulls 2026-10-13 (see Comps); Vintage French Copper blog — overstamped Jacquotot & Dehillerin sauté https://www.vintagefrenchcopper.com/?p=17987 , typefaces/stamping history https://www.vintagefrenchcopper.com/2019/01/25/using-typefaces-to-identify-vintage-copper/ , Dehillerin visit https://www.vintagefrenchcopper.com/2023/03/vfc-visits-dehillerin/ ; Jesus College Cambridge collections, Benham & Froud jelly mould https://collegecollections.jesus.cam.ac.uk/index.php/jelly-mould ; Benham & Froud mould listings (pattern numbers, cross-and-orb mark) https://www.chairish.com/product/29876150/antique-benham-froud-copper-jelly-mold-477-cross-orb-mark
+Slug: copper-cookware-and-molds · Aliases: copper jello mold, copper wall mold, aspic mold, French copper pot, tin-lined copper, copper saucepan, copper bundt, copper fish mold, batterie de cuisine, rondeau, sauteuse, jelly mould, Benham mould, Dehillerin pan, Mauviel pan
 Summary: thin decorative wall molds $3–12 each ($20–50 per lot); good tin-lined culinary molds $30–150; heavy 2–3 mm French saucepans/rondeaux $80–400 each; 19th-c. stamped kitchen copper $150–800 (general knowledge, verify)
 Buy rule (short): Buy heavy (2 mm+) French/English culinary copper with stamped marks under ~1/4 value; thin decorative wall-hanging molds are a pass.
 
@@ -8,18 +8,42 @@ Buy rule (short): Buy heavy (2 mm+) French/English culinary copper with stamped 
 - **Decorative wall molds** (1970s–90s): thin copper or copper-plated steel, brass hanging ring soldered on the back, often tin-lined or lacquered inside; motifs: fish, pig, rooster, lobster, heart, grapes, turban. Sold by the millions (Portugal, Taiwan, India).
 - **Culinary molds** (19th–mid 20th c.): heavier, seamed or spun, tin-lined, deep relief, stamped inventory numbers or maker marks (e.g., "Benham & Froud", "Jones Bros").
 - **Cookware**: saucepans, sauté pans, rondeaux with cast iron or bronze handles; thickness is the value driver (1.5 mm decor vs 2.5–3 mm professional).
+- **Where the marks are**: French pans carry stamps on the side wall just below the rim near the handle or on the base: maker or shop oval (e.g. "Jacquotot & Dehillerin 130 Rue de Grenelle Paris"), a diameter number in cm, and often owner's initials or scratched names. English moulds carry a pattern number and, on Benham & Froud pieces, a cross-and-orb mark (Chairish listings; Jesus College records Benham & Froud mould design no. 201). Many genuine old pieces have no maker stamp at all, only a size number or initials (Vintage French Copper).
+- **How to tell a decor piece in one photo**: hanging ring on the back, very shallow pressed relief, shiny lacquered exterior, no stamps, no rivets.
 
 ## Makers, brands and variants
 Mauviel (Villedieu, 1830–), E. Dehillerin (Paris shop stamp), Gaillard, Bourgeat, Jacquotot; English Benham & Froud, Jones Brothers; American Revere Ware (copper-clad steel — modest), Paul Revere Ware; Waldow (Germany); Hammersmith; decorative: unbranded Portugal/Taiwan/India.
+- **Stamping history (France)**: laws from 1735–1745 required traceable maker marks; most pre-1960s French pots carry at least one stamp (maker, shop, size number or owner's initials); from the 1960s stamping shrank to a generic "Made in France" plus perhaps a store stamp or small logo. After WWII production concentrated in Villedieu-les-Poêles, dominated by Mauviel, which exported heavily from the 1960s (Vintage French Copper).
+- **Jacquotot & Dehillerin**: partnership stamp at 130 Rue de Grenelle, Paris dated 1914–1920 by Vintage French Copper; the address became 128 & 130 in 1922. Dehillerin stamps are often over-stamped on pans made by other workshops (shop mark, not maker).
+- **Gaillard / Jacquotot / Dehillerin size-number typefaces** differ (Gaillard ornate with a triangular 4 crossbar; Jacquotot a vertical stroke at the 4's crossbar end; Dehillerin a thin serif 4) — the author calls this method experimental (Vintage French Copper).
+- **Grands Magasins du Louvre** batterie (reportedly Mauviel-made, unverified reader comment): "Extra-Fort" ≥ 2.2 mm with deep oval stamps vs "Fort" ~1.4 mm with shallow stamps; a central compass mark is cited as pre-1914; likely no later than 1939 (copper requisitioned in the occupation).
+- **Benham & Froud** (London, working 1855–1924): tin-lined jelly and aspic moulds with pattern numbers (Jesus College collections).
+- **Revere Ware**: stainless steel with copper-clad bottoms (general knowledge, verify) — user cookware, not a collector line; the old entry's "copper-clad steel" means the copper is only a bottom layer.
+
+### Quick ID checklist
+- Hanging ring + light weight + shallow relief = decorative wall mold (pass).
+- Rim thickness photo: ≥ 2 mm = professional; ~1–1.5 mm = table/serving grade.
+- Stamps: maker/shop oval, a diameter number, initials; "Made in France" alone suggests 1960s or later.
+- Handles: cast iron with hand-file marks (c. 1880–1930s per VFC) vs bronze/brass (serving pieces) vs stainless with stainless rivets (modern or import).
+- Rivets: copper rivets (usually 2–3) with flush interior heads on older pans; mushroom-head interior rivets are 20th-century.
+- Hammering: narrow, irregular hand-planishing marks = older; uniform sequin-like piston-hammer finish = recent Mauviel/Havard.
+- Lining: grey, slightly uneven tin = hand-wiped; bright stainless lining = modern bimetal; bare copper interior on a cooking pan = needs retinning.
+- Molds: English pattern number and/or cross-and-orb mark = Benham & Froud; seamed construction and deep relief = culinary.
 
 ## Materials, finishes and quality tells
 Thickness (check rim edge), heft, iron/bronze riveted handles, tin lining wiped by hand (not plated), dovetailed seams on old pieces. Brass hanging ring + light weight + shallow pressed relief = decorative.
+- Weight benchmark: a pre-1920 28 cm sauté at 2.4 mm weighed 3,860 g pan alone and 5,054 g with lid (Vintage French Copper). Ask for a kitchen-scale weight; it is the best remote proxy for thickness.
+- Old-vs-new construction: hand-filed cast-iron handles c. 1880–1930s; after WWII finishing was cursory; three crisp bevel planes on a base can survive heavy wear; hand hammering and a compass mark cited as pre-1914, rolled plate without compass mark as interwar (Vintage French Copper).
+- Linings: tin (traditional), stainless (bimetal, modern), and a rare nickel lining ("Louvre Nickelée") (Vintage French Copper).
 
 ## Condition, damage and repairs
 Worn tin lining (retinning costs $50–150 — a repair), dents, polished-off marks, lacquer peeling, green verdigris.
+- Overstamps and partly obliterated marks are normal on shop-sold French copper and are not a defect (Vintage French Copper).
+- Loose handles (worn rivets), split seams, burnt spots where a dry pan overheated and the tin melted, and machine-buffed surfaces that erase hammer marks and stamps all cut value.
 
 ## Fakes, reproductions and reissues
 Indian reproductions of "antique French" pans, thin with stainless rivets; faux dovetail seams; fake Dehillerin stamps rare but present.
+- Modern Mauviel still makes traditional shapes; a uniform piston-hammered surface, stainless lining and laser/clean stamps mark current production.
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
@@ -39,13 +63,16 @@ No sold comps verified this run.
 Decorative molds: oversupplied, slow. Heavy French copper: liquid, strong buyer base (cooks and collectors).
 
 ## What sellers usually miss
-Heavy French pans sold by weight-blind owners as "copper pot"; Dehillerin shop stamps; old seamed molds mixed with decorative ones.
+Heavy French pans sold by weight-blind owners as "copper pot"; Dehillerin shop stamps; old seamed molds mixed with decorative ones. Also: English pattern-numbered moulds (Benham & Froud) sold unmarked-as-"copper mold", and the weight of a pan — owners rarely state it.
 
 ## Shipping / handling
-Molds light; pans 3–8 lb each. $10–25.
+Molds light; pans 3–8 lb each. $10–25. Pad rims; a dented rim on a pan is a real value loss.
 
 ## Selling it (for the buyer-facing listing)
 Give thickness (mm), weight, diameter, marks, lining state.
+
+### What to tell the buyer
+State the diameter in cm (French pans are sized by stamped cm number), the rim thickness measured with calipers, the weight on a scale with and without lid, every stamp and where it sits (maker or shop oval, size number, initials), the handle material, how many rivets there are, and the lining type and condition, including any bare copper showing. For a mould, give the pattern number and whether it carries a maker mark, and describe the construction (seamed or spun). Date it only from features you can show: hand-filed cast-iron handles, hand-planishing marks, or a period shop address such as Jacquotot & Dehillerin, 130 Rue de Grenelle, 1914–1920.
 
 ## Buy rule
 Decorative molds never clear the profit rule. Heavy marked French copper: buy at ≤ 1/4 of median.

@@ -1,26 +1,40 @@
 # Vintage medical equipment (resuscitators, quack/electro-therapy devices, instruments, sterilizers, apothecary items; Hudson, Stephenson Minuteman, E&J, Burdick, Welch Allyn, Bausch & Lomb, Sharp & Smith, Kny-Scheerer, Violet Ray makers)
-Updated: 2026-10-13 · Sources: general knowledge of eBay/LiveAuctioneers medical antiques (no sold data fetched; estimates, verify); Phisick medical antiques reference (https://www.phisick.com) — identification reference, not fetched
-Slug: vintage-medical-equipment · Aliases: medical device, doctor's kit, resuscitator, oxygen unit, violet ray, quack device, surgical instruments, amputation kit, stethoscope, medical case, EMS case, first aid case
+Updated: 2026-10-13 · deepened 2026-10-13 · Sources: general knowledge of eBay/LiveAuctioneers medical antiques (no sold data fetched; estimates, verify); Phisick medical antiques reference (https://www.phisick.com) — identification reference, not fetched; MedicalAntiques.com (Dr. Douglas Arbittier), "Post-1880's Surgical Sets and Instruments" (non-metal handles = pre-sterilization; all-metal or plated handles = post-1880/1890; cases are not a reliable date guide) https://medicalantiques.com/civilwar/Articles/Post_1880_surgical_sets.htm ; MedicalAntiques.com, Tiemann maker marks and addresses 1826–1900 https://medicalantiques.com/civilwar/Articles/Tiemann_maker_marks.htm ; MedicalAntiques.com, Makers of pre-1870 American surgical sets https://medicalantiques.com/civilwar/Articles/Surgical_instrument_makers.htm ; Wikipedia, "Violet ray" (makers Renulife, Fitzgerald, Fisher, Star Electric, Master Electric, Lawndale, Violetta; 1951 FDA seizure of Master devices) https://en.wikipedia.org/wiki/Violet_ray ; Museum Wales, Stephenson Minuteman Resuscitator Mk 2 (1970s, British Oxygen Co., red case, 7.65 kg) https://museum.wales/collections/online/object/4137d754-825f-31fe-a4ff-6ed0eaab992b ; Professional Car Society forum, vintage E&J resuscitator thread (plastic parts = 1970s+, 1950s–60s aluminum/bakelite; early-1950s E&Js 50+ lb) https://professionalcarsociety.org/goto/post?id=12827
+Slug: vintage-medical-equipment · Aliases: medical device, doctor's kit, resuscitator, oxygen unit, violet ray, quack device, surgical instruments, amputation kit, stethoscope, medical case, EMS case, first aid case, electrotherapy, violet wand, Civil War surgeon kit, post-mortem set
 Summary: mid-century empty cases and common resuscitator kits $20–80; violet-ray/electro-therapy boxed sets $50–200; cased 19th-c. surgical/amputation sets $300–3,000+; Civil War-provenance sets more; apothecary/glass items $20–150.
 Buy rule (short): Pass empty mid-century cases; buy only complete cased pre-1900 instrument sets with ebony/ivory handles or boxed violet-ray kits under 25% of comps; no electrical testing promises.
 
 ## What it is / how to recognise it in a photo
 Hard-sided cases (vinyl/leatherette with brass corner caps and a handle) holding oxygen bottles, masks, regulators (1950s–70s Hudson, Stephenson "Minuteman", E&J); boxed electro-therapy wands with glass electrodes; wooden velvet-lined cases with steel instruments.
+- **Portable resuscitators**: a case (often red, green or grey) with one or two small oxygen cylinders, a regulator/gauge, hoses, face masks and airways. The Stephenson Minuteman Mk 2 in Museum Wales is a 1970s red-cased unit about 24 × 63 × 19 cm and 7.65 kg (made in the UK by British Oxygen Co.). Large early-1950s E&J units can weigh 50+ lb.
+- **Violet ray kits**: a fitted box (often leatherette) with a bakelite or hard-rubber hand unit holding the high-voltage coil, and several evacuated glass electrodes of different shapes (comb, surface, nasal, rectal/throat); some have a separate control box.
+- **Surgical sets**: brass-bound mahogany (or rosewood) case with fitted, velvet- or plush-lined compartments, often a brass cartouche on the lid and a maker's label inside; instruments include saws, amputation knives, tourniquet, bone forceps, trephines.
+
+### Quick ID checklist
+- Handles on surgical instruments: ebony, ivory, bone, tortoiseshell or composite = pre-sterilization (pre-c.1880); all-metal, nickel or chrome-plated = c.1880 or later (post-1890 for chrome).
+- Maker marks on blades/saws (Tiemann, Kny-Scheerer, Shepard & Dudley, Weiss, Arnold & Sons, Charrière, Aesculap) and whether all instruments share one maker and font.
+- Fitted case: every slot filled with an instrument that fits it exactly (empty slots or loose fits = incomplete or married).
+- Label inside the lid or a lid cartouche; address on a Tiemann label dates it (e.g. 63 Chatham St = 1833–c.1864; 67 Chatham = c.1864–1886; 107 Park Row = 1886–1900).
+- Resuscitators: maker plate, glass vs plastic parts (plastic = 1970s+), and whether the cylinders are present and empty.
+- Violet ray: brand name on the box or hand unit, number and condition of glass electrodes, instruction booklet, cord condition.
+- Ivory content (legal restrictions on sale and shipping across states/borders).
 
 ## Makers, brands and variants
-- **Hudson Oxygen Therapy Sales (Hudson RCI)**, **Stephenson Corp. (Minuteman resuscitator)**, **E&J Mfg (Glendale CA)**: 1950s–70s portable resuscitators. Collectors: fire/EMS memorabilia buyers.
-- **Violet ray**: Renulife, Master, Star, Fischer, Eliksir (1910s–30s) — glass tubes fragile, value in complete boxed sets.
-- **Surgical**: Tiemann, Kny-Scheerer, Shepard & Dudley, Weiss, Arnold & Sons; 19th-c. with ebony or ivory handles.
+- **Hudson Oxygen Therapy Sales (Hudson RCI)**, **Stephenson Corp. (Minuteman resuscitator)**, **E&J Mfg (Glendale CA)**: 1950s–70s portable resuscitators. Collectors: fire/EMS memorabilia buyers. Dating: 1950s–60s units use aluminum, bakelite and molded rubber grips; plastic parts point to the 1970s or later (forum rule of thumb: about 1972 was the changeover). The Minuteman was also built under licence in the UK by British Oxygen Co. (Mk 2, 1970s).
+- **Violet ray**: Renulife, Master (Master Electric), Star (Star Electric), Fischer/Fisher, Fitzgerald, Lawndale Laboratories (R & R), Violetta (1910s–30s) — glass tubes fragile, value in complete boxed sets. Most US examples predate the Depression; in 1951 the FDA seized Master Electric's devices for misbranding. (Corrected: "Eliksir" in the earlier entry could not be verified as a maker and has been replaced with the documented brands.)
+- **Surgical**: Tiemann, Kny-Scheerer, Shepard & Dudley, Weiss, Arnold & Sons; 19th-c. with ebony or ivory handles. George Tiemann (New York) marks run "Tiemans"/"Geo. Tiemann" (before 1855), "Geo. Tiemann & Co." (1855–1860s), "Tiemann & Co." (1860s–1880s, in Old English script and later block letters), and "Tiemann" (1886–1920s). After the war, Tiemann sets can mix markings, so one mark alone does not date a set.
 - **Diagnostic**: Burdick, Welch Allyn, Bausch & Lomb microscopes.
 
 ## Materials, finishes and quality tells
 Pre-1900 instruments: hand-forged steel, ebony/ivory/tortoise handles, brass-bound mahogany cases with maker's label. Mid-century: chromed steel, bakelite, vinyl cases. Pressure cylinders: never ship pressurized; old oxygen cylinders are hazmat if charged.
+- Cross-hatched (checkered) ebony handles are typical of pre-1870 American sets (general knowledge, verify).
+- Case style alone does not date a set: makers still used mahogany, brass-bound, velvet-lined cases for post-1880 all-metal instruments (a c.1881 Tiemann set looked pre-1860 until opened).
 
 ## Condition, damage and repairs
-Missing contents (common — case only), corroded regulators, perished rubber masks/hoses, broken glass electrodes, foxed linings. Ivory = shipping/legal restrictions.
+Missing contents (common — case only), corroded regulators, perished rubber masks/hoses, broken glass electrodes, foxed linings. Ivory = shipping/legal restrictions. Also replacement instruments of the wrong maker or era, re-polished steel (removes marks), cracked or shrunk ebony handles, and violet-ray cords with cracked insulation (display only).
 
 ## Fakes, reproductions and reissues
-"Civil War surgeon's kits" are assembled and faked frequently; cases from India with new instruments. Mid-century resuscitators are not faked.
+"Civil War surgeon's kits" are assembled and faked frequently; cases from India with new instruments. Mid-century resuscitators are not faked. Married sets: compare fonts, handles and ferrules across instruments; matching marks alone do not prove originality.
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
@@ -37,13 +51,16 @@ No dated sold comps found this run. Sweep Lens median $50 matches common-tier li
 Oddities/medical collectors active but price-sensitive; mid-century cases slow (60+ days).
 
 ## What sellers usually miss
-Mahogany boxes with brass corners labelled with surgical makers are often sold as "old box"; check interior fitted velvet.
+Mahogany boxes with brass corners labelled with surgical makers are often sold as "old box"; check interior fitted velvet. Also the maker's address on a label (dates the set) and the handle material (the single best age tell).
 
 ## Shipping / handling
-Resuscitator case 10–20 lb, 20 in. tall; Ground $20–35. Cylinders must be empty and valve open; carriers may refuse.
+Resuscitator case 10–20 lb, 20 in. tall; Ground $20–35. Cylinders must be empty and valve open; carriers may refuse. Size rule: early-1950s E&J floor/ambulance units (50+ lb) and anything bigger than a passenger seat (exam tables, sterilizer cabinets, X-ray units) are excluded.
 
 ## Selling it (for the buyer-facing listing)
 List every component, maker labels, cylinder status (empty), display-only, no medical use.
+
+### What to tell the buyer
+"[Maker] [device], c.[era] (based on [label address / handle material / glass vs plastic parts]). Contents: [list every piece]; [all original / x pieces replaced]. Case [condition]; lining [condition]. Oxygen cylinders are empty with valves open. Sold as a display/collectible item only, not for medical use; electrical items are untested." For surgical sets: "Handles are [ebony / metal]; instruments marked [maker] in [font/address]."
 
 ## Buy rule
 Pass mid-century cases: median $50 → loss after shipping. Pre-1900 cased sets: buy when comps ≥ 3× price, price ≤ $150, contents complete and maker-labelled. Electrical devices sold as untested display only — Dylan's no-untested-electronics rule means pass unless very cheap and sold as display.

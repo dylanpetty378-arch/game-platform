@@ -1,33 +1,53 @@
 # Precision measuring tools (Starrett, Mitutoyo, Brown & Sharpe, Lufkin)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold (agent knowledge Oct 2026)
-Slug: precision-measuring-tools · Aliases: machinist tools, micrometer set, dial caliper, dial indicator, combination square, height gauge, gauge blocks, inspection tools, machinist tool lot
+Updated: 2026-10-12 · upgraded 2026-10-13 · deepened 2026-10-13 · Sources: eBay sold (agent knowledge Oct 2026); Industrial Monitor Direct, "Starrett Metrology Tool Sourcing: Origin Markings" (https://industrialmonitordirect.com/blogs/knowledgebase/starrett-metrology-tool-sourcing-origin-markings-and-discounts); Hobby-Machinist, "Dating vintage Starrett tools" thread (https://hobby-machinist.com/threads/dating-vintage-starrett-tools.17015/page-5); EEVblog forum, "How to spot fake Mitutoyo calipers" (https://eevblog.com/forum/mechanical-engineering/how-to-spot-fake-mitutoyo-calipers); Hobby-Machinist, "Counterfeits, Fakes And Copies... Tools And Gages" (https://hobby-machinist.com/threads/counterfeits-fakes-and-copies-tools-and-gages.35547/page-4)
+Slug: precision-measuring-tools · Aliases: machinist tools, micrometer set, dial caliper, dial indicator, combination square, height gauge, gauge blocks, inspection tools, machinist tool lot, dial test indicator, Digimatic, mic set
 Summary: No-name calipers/mics $5–25; single Starrett/Mitutoyo pieces $40–100; boxed mic sets and height gauges $150–400; master sets and gauge-block sets $300–1,000.
 Buy rule (short): Buy Starrett/Mitutoyo/B&S sets or boxes in a lot at ≤ 30% of resale; pass on single calipers and mics.
 
 ## What it is / how to recognise it in a photo
 Micrometers, dial and digital calipers, dial indicators, squares, height gauges and gauge blocks, often in fitted wooden or plastic boxes. The brand is etched or stamped on the frame. Machinists' estate "tool lots" on Craigslist are where these hide, under a $40–100 "tools" title. Gauge block sets look like a wooden box of small steel squares. Fitted wooden cases with a brand stamp on the lid usually mean a set (general knowledge, verify).
+- **Where the marks are**: micrometers on the frame (front face, often with the catalog number and range, e.g. "No. 436 0–1 in."); patent dates are often on the back of the frame on older mics; calipers on the beam or dial face; indicators on the dial face and back; squares on the blade and head; gauge blocks on each block face.
+- **Reading a mic set photo**: count the instruments against the case slots and look for the setting standards (the steel rods for 1–2", 2–3" etc.) and the spanner wrench.
+- **Look-alikes**: Craftsman, Fowler, Central Tool, Harbor Freight/Pittsburgh, Insize and no-name imports. Fowler and Insize are honest mid/low brands, not fakes.
 
 ## Makers, brands and variants
 - **L.S. Starrett (Athol, MA)**: micrometers, combination squares, indicators (No. 196 indicator sets), master sets. US-made older pieces carry the most collector and user demand (general knowledge, verify). A 1" mic is $40–80, a 12" combination square $50–90, a 0–6" mic set in box $200–400 and a 24" 4-piece combo square $150–250.
-- **Mitutoyo (Japan)**: dial calipers (6" $40–70), deep-throat mics ($50–100), height gauges ($150–300), gauge-block sets.
-- **Brown & Sharpe (Providence, RI)**: micrometer sets and indicators in the collectible tier.
+  - Starrett plants and lines (Industrial Monitor Direct): Athol, MA makes micrometers, calipers, dial indicators, combination squares, precision gages and master tools; Suzhou, China makes punches, tape measures, thread gages and entry-level hand tools; Itupeva, Brazil makes entry-level metrology, rules and tapes; Motherwell, Scotland makes saw blades; Santiago, Dominican Republic makes steel rules and entry-level measuring tools. 2010 catalogs flagged "American Made" vs "Global Series".
+  - US stamp: "The L.S. Starrett Co. Athol Mass. USA"; older tools may read only "Athol, Mass. U.S.A." or "American Made". No origin stamp is not proof of US manufacture.
+- **Mitutoyo (Japan)**: dial calipers (6" $40–70), deep-throat mics ($50–100), height gauges ($150–300), gauge-block sets. Digimatic/Absolute digital calipers: e.g. 500-196-30 (standard, no auto shut-off) and 500-753-20 (IP67 coolant-proof, auto shut-off) per EEVblog.
+- **Brown & Sharpe (Providence, RI)**: micrometer sets and indicators in the collectible tier. Older pieces are dated by patent stamps and by matching to dated catalogs (Hobby-Machinist).
 - **Lufkin**: rules, tapes and micrometers. Generally a step below Starrett (general knowledge, verify).
 - **Moore, Etalon, Mahr**: bench gauges in the top tier.
 - **Starrett-Webber / Mitutoyo gauge block sets (81-pc)**: $300–800.
 - Junk: Harbor Freight/Pittsburgh digital calipers, no-name mics, Craftsman squares.
 
+### Quick ID checklist
+- Brand and catalog number legible on the frame or dial (photo of the stamp).
+- Starrett: "Athol Mass USA" stamp vs "Made in China/Brazil" or no origin; patent dates on older mics.
+- Range and graduation (.001 or .0001; 0–1", 1–2", 0–6" set).
+- Mic set: every case slot filled, standards and wrench present, matching brand and finish across pieces.
+- Measuring faces: clean, no rust pitting; mic shown closed at zero.
+- Indicators: needle on zero, crystal uncracked, plunger or lever moves.
+- Gauge blocks: count against the set list, rust spots, block grade on the lid.
+- Digital Mitutoyo: display colour, typography, fixed-jaw machining and packaging compared with known genuine photos.
+- Case: brand stamp on the lid, fitted interior matching the tools.
+
 ## Materials, finishes and quality tells
 - Quality pieces have a hardened steel frame with a satin-chrome or black-crinkle finish, carbide-tipped mic anvils, a smooth ratchet stop, and a fitted case with the brand stamp.
 - Cheap production has stamped or painted bodies, a plastic case and a misspelled or no-name brand ("didital calipers").
 - Older Starrett has a "THE L.S. STARRETT CO. ATHOL MASS USA" stamp. A "Made in China/Brazil" mark on later Starrett lines lowers value to users (general knowledge, verify).
+- Patent dates give the earliest possible manufacture date, not the actual date (Hobby-Machinist: a No. 226 1–2" mic is stamped "Pat 10 March 1891 and May 4 1897").
+- Wire-brushing and polishing damage markings and edges; collectors and users prefer untouched patina with crisp graduations.
 
 ## Condition, damage and repairs
 - Rust or pitting on measuring faces, a dropped (bent) frame, a dial indicator with a sticky or skipping needle, and missing standards or wrenches from mic sets all cut value.
 - Gauge blocks with rust spots are worth far less, because each block must be within tolerance.
+- Polished-over graduations, worn thimble lines, and loose spindles (play) reduce user value.
 - Ask for photos of the measuring faces, of the mic closed at zero, of the indicator needle, and of the case interior (empty slots show missing pieces).
 
 ## Fakes, reproductions and reissues
 Counterfeit "Mitutoyo" digital calipers are common on marketplaces: wrong fonts, missing serial, cheap case (general knowledge, verify). Starrett and Brown & Sharpe vintage fakes are rare. Mixed-brand "sets" in one case (married sets) are common, so check that each piece matches the case.
+- EEVblog tells for fake Mitutoyo digital calipers: wrong packaging (black stripes instead of grey), a noticeably different display colour, poor typography, fixed-jaw machining that differs from genuine photos, outer body lines that are not parallel, missing dashes on the battery insert, a recessed origin button. Auto shut-off and price are not reliable tests; fakes have been sold at normal prices by first-party sellers.
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
@@ -45,12 +65,16 @@ Machinists, hobby machinists and tool resellers buy fast on eBay. Volume is high
 
 ## What sellers usually miss
 The brand in a crowded tool-box photo. Gauge block sets look like a wooden box of steel squares. Snap-on/Mac mechanics' tools are a different, well-known market (sellers always name them; see snap-on-tools).
+- US-made (Athol) vs import Starrett, and the catalog number, are rarely in casual titles.
 
 ## Shipping / handling
-1–10 lb, $10–30. eBay; machinists buy fast. Pack instruments so they cannot move inside the case, and lock indicator plungers.
+1–10 lb, $10–30. eBay; machinists buy fast. Pack instruments so they cannot move inside the case, and lock indicator plungers. Oil or wrap bare steel faces against rust in transit.
 
 ## Selling it (for the buyer-facing listing)
 Title: brand + instrument + range + resolution, e.g. "Starrett No. 436 0–1" Micrometer .0001 USA". State the range, graduation, completeness of the set (list every piece and standard), whether it zeroes, and the case condition. Photograph the brand stamp, measuring faces, dial and case interior.
+
+### What to tell the buyer
+State brand, catalog number, range and graduation, and the country-of-origin stamp exactly as marked ("Athol Mass USA"). List every piece in a set, including standards and wrench, and name anything missing. Say whether it closes to zero (with a photo) and whether faces are free of rust or pitting. Say the tool has not been calibrated, unless a certificate is included. For digital calipers, state the model number and that it powers on and reads.
 
 ## Buy rule
 Buy when: a Starrett/Mitutoyo/B&S set or box is visible in a lot priced ≤ 30% of its resale. Pass when: single calipers or mics (margin < $50), or "didital calipers" no-name. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
