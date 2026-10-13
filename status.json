@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:23:24Z",
+ "updated": "2026-10-13T17:26:44Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6328,
-  "events": 21398,
+  "lens": 6353,
+  "events": 21423,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 180,
+  "lensed": 185,
   "comps/pass": 1,
-  "queued/relens": 113,
+  "queued/relens": 126,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 209,
+  "flagged": 216,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 525
+  "queued": 500
  },
  "last_harvests": [
   {
@@ -449,6 +449,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964518269",
+   "title": "Vintage KIGU of London Compact",
+   "price": 40,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-vintage-kigu-of-london/3jFcJGLcwttBAfU2rrxWL7",
+   "best": "Body: Gold-tone metal case (typically loose powder compact style with an internal mirror and powder well).",
+   "med": 1630,
+   "ratio": 40.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7957790297",
    "title": "Antique Winter Scene Print",
    "price": 20,
@@ -479,6 +490,17 @@
    "best": "eBay",
    "med": 3200,
    "ratio": 32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963962630",
+   "title": "ANTIQUE VAZE",
+   "price": 75,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/friendsville-antique-vaze/rAKsz9x9XF44e4oyRnkmMH",
+   "best": "Andrea by Sadek Tall Swan Urn | Tall Urn With Swan Handles ...",
+   "med": 1972,
+   "ratio": 26.29,
    "ai_value": ""
   },
   {
@@ -676,6 +698,17 @@
    "url": "https://www.craigslist.org/view/d/fresno-vintage-ceramic-handpainted-drum/eWPjZ8z8ZYJx6ESyCHBpkg",
    "best": "Dylan Bowen - Contemporary Ceramics NEW",
    "med": 400,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939389417",
+   "title": "2 Vintage Christmas Swans A-Swimming",
+   "price": 15,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-christmas-swans/gxe8LxW5F1Y2ED3mLKyf78",
+   "best": "Swan Limoges - Etsy",
+   "med": 150,
    "ratio": 10,
    "ai_value": ""
   },
@@ -1131,6 +1164,17 @@
    "ai_value": "sell on secondary markets like eBay for roughly $150 to $200"
   },
   {
+   "pid": "7973922648",
+   "title": "Vintage electric footstool",
+   "price": 50,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-electric-footstool/jnus1tmt9ppUg9ccmxJfgf",
+   "best": "Antique Footstool, Floral Needlepoint Top, Wood Frame ...",
+   "med": 185,
+   "ratio": 3.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7954944202",
    "title": "Sterling Silver 925 Open Cuff Bracelet 10.392g",
    "price": 49,
@@ -1238,6 +1282,17 @@
    "best": "Vintage Ucagco Japan Royal Vista Creamer and Sugar Bowl with ...",
    "med": 34,
    "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932629076",
+   "title": "Japanese Hotei Clay Doll",
+   "price": 80,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/englewood-japanese-hotei-clay-doll/aAJGAL8EA64Usj3pY7Vtmh",
+   "best": "Sold at Auction: ANTIQUE FUSHIMI NINGYO CLAY HOTEI BUDDHA FIGURE",
+   "med": 269,
+   "ratio": 3.36,
    "ai_value": ""
   },
   {
@@ -1626,6 +1681,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980458214",
+   "title": "Vintage Can + Bottle Openers",
+   "price": 8,
+   "area": "nwct",
+   "url": "https://www.craigslist.org/view/d/oakville-vintage-can-bottle-openers/nghGRGMX1q6pi5USQCur7H",
+   "best": "Lot of Beer / Soda Church Key Openers - Lot of 6 | eBay",
+   "med": 18,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7942033011",
    "title": "Vintage Ceramic Figurines",
    "price": 10,
@@ -1952,6 +2018,17 @@
    "url": "https://www.craigslist.org/view/d/veradale-prussia-antique-plate/gSuwJv1EjZjetMAeDcg6yS",
    "best": "Set Of 5 RS GERMANY PRUSSIA PLATES, Pink Roses FLOWERS AND ...",
    "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980166236",
+   "title": "Woody-Toy story-Vintage",
+   "price": 10,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-woody-toy-story-vintage/vdT1PprKJG8YUhg2eqfJrn",
+   "best": "Vintage Burger King Kids Meal Disney Toy Story Woody Plush ...",
+   "med": 15,
    "ratio": 1.5,
    "ai_value": ""
   },
