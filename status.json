@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T08:35:58Z",
+ "updated": "2026-10-13T08:39:57Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3104,
-  "events": 10890,
+  "lens": 3129,
+  "events": 10915,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 401,
-  "queued": 2336,
+  "lensed": 412,
+  "queued": 2311,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 340,
-  "flagged": 292,
+  "flagged": 306,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -423,6 +423,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949336002",
+   "title": "Vintage art pieces",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/caldwell-vintage-art-pieces/7RC4g8JVkuQBq5iMvxU1Y2",
+   "best": "Any information about the signature starting with 'P'?",
+   "med": 3500,
+   "ratio": 35,
+   "ai_value": ""
+  },
+  {
    "pid": "7951007261",
    "title": "Vintage Fukagawa porcelain blue and white vase with a bamboo decoratio",
    "price": 95,
@@ -511,6 +522,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967343321",
+   "title": "VINTAGE AQUARIUM",
+   "price": 25,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/mount-morris-vintage-aquarium/ueniS2SG84vDJM3zD4unjw",
+   "best": "6gal. Fish Tank | eBay",
+   "med": 525,
+   "ratio": 21,
+   "ai_value": ""
+  },
+  {
    "pid": "7982564865",
    "title": "Vintage Bath Vanity Mirror/Medicine Cabinet",
    "price": 20,
@@ -530,6 +552,17 @@
    "best": "Antique French Wall Mounted Sconce Light in Translucid ...",
    "med": 303,
    "ratio": 20.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937909995",
+   "title": "Antique Table Lamp",
+   "price": 20,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/traverse-city-antique-table-lamp/7kt1vYPu2LVypRyVgTMoqG",
+   "best": "Antique Floral Table Lamp For $20 In Williamsburg, MI | For ...",
+   "med": 395,
+   "ratio": 19.75,
    "ai_value": ""
   },
   {
@@ -830,6 +863,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962886443",
+   "title": "Vintage hand saws",
+   "price": 10,
+   "area": "mcallen",
+   "url": "https://www.craigslist.org/view/d/mcallen-vintage-hand-saws/hGRqdj3pW4pAoFz2QU3mb8",
+   "best": "6 Vintage Saw Lot Disston Carved Designed Handles | eBay",
+   "med": 109,
+   "ratio": 10.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7970095212",
    "title": "Chrysocolla & Rhodochrosite Necklace",
    "price": 19,
@@ -863,6 +907,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952950324",
+   "title": "Vintage Lamp",
+   "price": 55,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/tampa-vintage-lamp/7hZpbtaajgyzyJKgsG29oC",
+   "best": "Atomic lamps and starburst clock",
+   "med": 555,
+   "ratio": 10.09,
+   "ai_value": ""
+  },
+  {
    "pid": "7954451666",
    "title": "Vintage all-wool blanket",
    "price": 10,
@@ -893,6 +948,17 @@
    "best": "eBay",
    "med": 475,
    "ratio": 9.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960645671",
+   "title": "Antique cherry pitter",
+   "price": 25,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/batavia-antique-cherry-pitter/5Qb993SV6FkmjpwLUbaGLs",
+   "best": "Antique Goodell Co. Double Cherry Pitter Cast Metal, Antrim ...",
+   "med": 235,
+   "ratio": 9.4,
    "ai_value": ""
   },
   {
@@ -1212,6 +1278,17 @@
    "best": "Mid Century HUBLEY 665 Bookend Gold Federal Patriotic Eagle ...",
    "med": 129,
    "ratio": 6.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946562026",
+   "title": "VINTAGE 1930's QUILT",
+   "price": 75,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/burbank-vintage-1930s-quilt/2hGjEwRWLAStCm6nsiGRLj",
+   "best": "Large Colorful Quilt. Vintage Hand Quilted Geometric Quilt ...",
+   "med": 468,
+   "ratio": 6.24,
    "ai_value": ""
   },
   {
@@ -2502,6 +2579,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955276119",
+   "title": "Antique 1920s hand mirror",
+   "price": 75,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/renton-antique-1920s-hand-mirror/dwyXmJE6kbsoDaudEdsfUL",
+   "best": "Vintage Ladies Small Gilt Make up Mirror - Vanity Mirror ...",
+   "med": 186,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7947966386",
    "title": "ARTIST-SIGNED VINTAGE MODERN ART ETCHING PRINT HAPPY PLAYING KITTY CAT",
    "price": 75,
@@ -2568,6 +2656,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956037912",
+   "title": "Antique Austrian Porcelain Tureen",
+   "price": 55,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/san-marcos-antique-austrian-porcelain/7RydRxKCx7UKEoy5kTTTjq",
+   "best": "Peony",
+   "med": 130,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7946503822",
    "title": "Vintage L.F. & C. Pocketknife",
    "price": 45,
@@ -2601,6 +2700,17 @@
    "ai_value": "Value / Market Price: Typically ranges from about $100 to $200"
   },
   {
+   "pid": "7944446352",
+   "title": "Vintage milk jug",
+   "price": 40,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/new-kent-vintage-milk-jug/1kjufdCu5i8s64pX3uzkKs",
+   "best": "Vintage Whiting Milk Co Boston MA Steel Milk Can Cream Can ...",
+   "med": 90,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7952455090",
    "title": "Original Painting on Canvas",
    "price": 80,
@@ -2620,6 +2730,17 @@
    "best": "Jugendstil\" - Glasschale. Poschinger, 20.Jh. | eBay.de",
    "med": 100,
    "ratio": 2.22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952673410",
+   "title": "Vintage handmade wooden box",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-vintage-handmade-wooden-box/utezEABdd1m7GFZsP66eFN",
+   "best": "Angled Keepsake Midsize Box / Cherry W/ Birdseye Maple ...",
+   "med": 108,
+   "ratio": 2.16,
    "ai_value": ""
   },
   {
@@ -2697,6 +2818,17 @@
    "best": "Base/Legs: Typically features a rounded or flat bottom, sometimes with three small legs or a heat/gate mark un",
    "med": 250,
    "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955707825",
+   "title": "orvis duffelbag,vintage",
+   "price": 100,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/santa-cruz-orvis-duffelbagvintage/uPhdfEZtjSeDNBaJL7rabt",
+   "best": "Orvis Canvas Bags for Men | Updated Sep 2026",
+   "med": 199,
+   "ratio": 1.99,
    "ai_value": ""
   },
   {
@@ -2862,6 +2994,17 @@
    "best": "Vintage Antique Seth Thomas #102 Adamantine Mantel Clock | eBay",
    "med": 220,
    "ratio": 1.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935193774",
+   "title": "Vintage Airplane aluminum",
+   "price": 75,
+   "area": "imperial",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-airplane-aluminum/gnz7TwsoAeNA5CrLbck8Bm",
+   "best": "Flying Boat Seaplane Plated Cast Metal Airplane Sculpture | eBay",
+   "med": 126,
+   "ratio": 1.68,
    "ai_value": ""
   },
   {
@@ -3289,6 +3432,17 @@
    "area": "vermont",
    "url": "https://www.craigslist.org/view/d/ballston-spa-vintage-leather-scabbard/887YhRtvtQh7r5ryGPKbPX",
    "best": "Vtg Leather Case Soviet Rifle Gun Russian Army Officers ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980264375",
+   "title": "Archery stuff",
+   "price": 50,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/petaluma-archery-stuff/vUDv4BmnxT4gCTtRTfNLQF",
+   "best": "Barely Used Barnett Centershot Mossy Oak Recurve Bow Ages 5 ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
