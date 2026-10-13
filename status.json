@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-13T04:31:33Z",
+ "updated": "2026-10-13T04:35:19Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1579,
-  "events": 7081,
+  "lens": 1604,
+  "events": 7106,
   "comps": 152,
   "item_types": 385,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3062,
-  "lensed": 555,
+  "queued": 3037,
+  "lensed": 571,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 310,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 6,
-  "decided/find": 6,
-  "flagged": 119
+  "flagged": 128,
+  "decided/find": 6
  },
  "last_harvests": [
   {
@@ -265,6 +265,17 @@
    "best": "Mercari",
    "med": 495,
    "ratio": 22.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981483488",
+   "title": "Antique Pine Foot Locker",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-antique-pine-foot-locker/cPvfnyFkXB7f15WFzbRo64",
+   "best": "Lot - Vintage Chesapeake Bay Gunning Box",
+   "med": 540,
+   "ratio": 21.6,
    "ai_value": ""
   },
   {
@@ -532,6 +543,17 @@
    "ai_value": "Value: Typically ranges from about $130"
   },
   {
+   "pid": "7954054138",
+   "title": "Vintage Hartmann Train Case",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wayland-vintage-hartmann-train-case/6keVAHkPUcmmYbaagPwXsp",
+   "best": "Vintage Original Hartmann Gold Tweed Suitcase Luggage ...",
+   "med": 117,
+   "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7940658227",
    "title": "Antique Art in Antique Silver-colored Frame",
    "price": 25,
@@ -584,6 +606,17 @@
    "best": "Origin: Imperial Porcelain Manufactory (Lomonosov / LFZ), St. Petersburg, Russia.",
    "med": 350,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952074641",
+   "title": "Vintage tea cart",
+   "price": 100,
+   "area": "dayton",
+   "url": "https://www.craigslist.org/view/d/troy-vintage-tea-cart/exF24ZawDLtM2TXj1Teqej",
+   "best": "Vintage Colonial Wood Drop Leaf Rolling Bar Cart Tea Trolley ...",
+   "med": 695,
+   "ratio": 6.95,
    "ai_value": ""
   },
   {
@@ -661,6 +694,17 @@
    "best": "Mahogany Baritone Ukulele 1940s - Natural mahogany Kay ...",
    "med": 550,
    "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952399793",
+   "title": "Vintage Maytime German Clock",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-maytime-german-clock/9sSA9qCyVujc8E7pGSRDHJ",
+   "best": "Vintage Linden Black Forest Miniature 4.5\u201d Musical Alarm ...",
+   "med": 210,
+   "ratio": 5.25,
    "ai_value": ""
   },
   {
@@ -1214,6 +1258,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953877897",
+   "title": "Antique apple peelers",
+   "price": 65,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/granby-antique-apple-peelers/gZcNfSdh4wPJfupZN71v8n",
+   "best": "ANTIQUE APPLE PEELER Parer Corer SINCLAIR SCOTT ...",
+   "med": 110,
+   "ratio": 1.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7947828014",
    "title": "Antique Emerson Electric Fan",
    "price": 120,
@@ -1244,6 +1299,17 @@
    "best": "John Wayne Decanter Ceramic Statue Mike Wayne Distilling ...",
    "med": 80,
    "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947467294",
+   "title": "Vintage tool box",
+   "price": 75,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-tool-box/srx6C6NmrBKKawEQ1MGjj4",
+   "best": "Vintage CRAFTSMAN #6536 Tombstone Cantilever METAL TOOL BOX ...",
+   "med": 113,
+   "ratio": 1.51,
    "ai_value": ""
   },
   {
@@ -1399,6 +1465,39 @@
    "med": 10,
    "ratio": 0.05,
    "ai_value": "Value: Typically sells on the used market between $150"
+  },
+  {
+   "pid": "7952796187",
+   "title": "Vintage Radio Flyer Row-Cart",
+   "price": 55,
+   "area": "easternshore",
+   "url": "https://www.craigslist.org/view/d/centreville-vintage-radio-flyer-row-cart/iL9SpZUgjRvSitjpttf8gk",
+   "best": "Vintage Kids Children RADIO FLYER ROW-CART Red Push / Pull ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966511679",
+   "title": "Vintage Vise",
+   "price": 75,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/londonderry-vintage-vise/tikJsJLCMwspjhtcYKh4YA",
+   "best": "BRIDGEPORT VISE, 5\" OPENING, 5\" WIDTH, 17\" OVERALL LENGTH OF ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955921887",
+   "title": "Three old Anniversary Clocks",
+   "price": 100,
+   "area": "wheeling",
+   "url": "https://www.craigslist.org/view/d/martins-ferry-three-old-anniversary/n4ysnrsZC9Xps2ePUKP3wV",
+   "best": "Vintage Kundo Anniversary Clock: German Brass Dome Clock - Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   },
   {
    "pid": "7943939074",
