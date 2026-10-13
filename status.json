@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:25:36Z",
+ "updated": "2026-10-13T03:28:58Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1154,
-  "events": 6403,
+  "lens": 1179,
+  "events": 6428,
   "comps": 12,
   "item_types": 169,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3487,
-  "lensed": 421,
+  "queued": 3462,
+  "lensed": 439,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 72
+  "flagged": 79
  },
  "last_harvests": [
   {
@@ -190,6 +190,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982496051",
+   "title": "Antique Oak Frame print on Canvas 25 3/4 x 29 3/4",
+   "price": 40,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/omaha-antique-oak-frame-print-on-canvas/r88j5BPGbYTdeuikuzFRDw",
+   "best": "KPM BERLIN PORCELAIN PLAQUE LARGER PSYCHE HOLDING URN NEAR ...",
+   "med": 2999,
+   "ratio": 74.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7939329538",
    "title": "Great artwork for sale",
    "price": 30,
@@ -278,6 +289,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947574131",
+   "title": "vintage Metal Tin SEWING BOX  organizer container",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/lanham-vintage-metal-tin-sewing-box/66fK29ULMQH1ebJ3bhVUoJ",
+   "best": "Vintage Rectangular Tin With Hinged Lid Made in England - Etsy",
+   "med": 200,
+   "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7980012690",
    "title": "Trifari, Coventry etc. Jewelry",
    "price": 10,
@@ -285,6 +307,17 @@
    "url": "https://www.craigslist.org/view/d/marysville-trifari-coventry-etc-jewelry/4931KgfkMV9Y2YcHLNtTxN",
    "best": "Signed de luxe nyc/adam - Gem",
    "med": 130,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981404810",
+   "title": "5 Gallon Large Wing Red Wing Jug",
+   "price": 40,
+   "area": "rmn",
+   "url": "https://www.craigslist.org/view/d/kasson-gallon-large-wing-red-wing-jug/4i45bVCCNkJPY75ZAEHJLh",
+   "best": "Early 20th Century 3-Gallon Red Wing Crock | eBay",
+   "med": 520,
    "ratio": 13,
    "ai_value": ""
   },
@@ -341,6 +374,17 @@
    "best": "Jean L. Barton | Wall Decor | Historic Cape May Lighthouse ...",
    "med": 200,
    "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967511966",
+   "title": "Lot of Antique Lighting",
+   "price": 125,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/waretown-lot-of-antique-lighting/itqAY7zkrN2puMmzbSiwip",
+   "best": "Antique French Bronze Crystal Art Nouveau Chandelier ...",
+   "med": 945,
+   "ratio": 7.56,
    "ai_value": ""
   },
   {
@@ -440,6 +484,17 @@
    "best": "Vintage Elegant Clear Glass Rhinestone Necklace Prom Wedding ...",
    "med": 94,
    "ratio": 6.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950048718",
+   "title": "Vihuela",
+   "price": 100,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/wilsonville-vihuela/9nwhC3NCwqVzqWdg7feyPZ",
+   "best": "H Jimenez LV2 El Quetzal Acoustic Vihuela with Free Bag! NEW ...",
+   "med": 589,
+   "ratio": 5.89,
    "ai_value": ""
   },
   {
@@ -561,6 +616,17 @@
    "best": "Vintage CHINESE 5\" HAND WARMER Ornate QILIN Design ~ Brass ...",
    "med": 300,
    "ratio": 3.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950113942",
+   "title": "Victorian Wall Plates (2)",
+   "price": 60,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-victorian-wall-plates/jtQU85UijA443j67P2E2xb",
+   "best": "Vintage Fragonard Porcelain Wall Plaques: Rococo Gold Accent ...",
+   "med": 195,
+   "ratio": 3.25,
    "ai_value": ""
   },
   {
@@ -955,6 +1021,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/los-angeles-vintage-conga-drum/aEgWJpN4UD1KJpQfrqwPY3",
    "best": "Unbranded Congas for sale | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970246013",
+   "title": "original watercolor by Judith Jaffe, \u201cHats Off\u201d",
+   "price": 45,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/lincoln-original-watercolor-by-judith/d4KWbVEzxKh2MXeTXKuhvD",
+   "best": "Antonio Salemme | ANTONIO SALEMME, (PA/MA, 1892-1995 ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
