@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T12:56:48Z",
+ "updated": "2026-10-13T13:00:51Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 4737,
-  "events": 14672,
+  "lens": 4762,
+  "events": 14697,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 539,
-  "queued": 1503,
+  "lensed": 551,
+  "queued": 1478,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 349,
-  "flagged": 433,
+  "queued/relens": 352,
+  "flagged": 443,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -326,6 +326,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970681433",
+   "title": "Gold, Sterling Silver, Pearls...WOW !",
+   "price": 1,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/santa-ana-gold-sterling-silver/pTmahqGrQPTcXhJdbdgmgK",
+   "best": "Etsy",
+   "med": 184,
+   "ratio": 184,
+   "ai_value": ""
+  },
+  {
    "pid": "7979783190",
    "title": "2 Antique Glass Lamps",
    "price": 20,
@@ -356,6 +367,28 @@
    "best": "Craigslist",
    "med": 6944,
    "ratio": 115.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971410328",
+   "title": "Vintage Designer Fine Jewelry By Tiffany, Taxco, Robert Lee Morris RLM, Barbara",
+   "price": 1,
+   "area": "grandisland",
+   "url": "https://www.craigslist.org/view/d/omaha-vintage-designer-fine-jewelry-by/hP2pzZTWhw7g25GpK1VqcS",
+   "best": "RLM Sterling Silver Double Hoop Large 2-\u201c Dangle Earrings | eBay",
+   "med": 95,
+   "ratio": 95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954055278",
+   "title": "Antique Malaya Solid Silver Cruet Set",
+   "price": 150,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-antique-malaya-solid-silver/uwhYAzrxkaQbTjFCEEQrfe",
+   "best": "Etsy",
+   "med": 14000,
+   "ratio": 93.33,
    "ai_value": ""
   },
   {
@@ -1027,6 +1060,17 @@
    "best": "Note: Vintage baby furniture of this age generally does not meet modern federal safety standards (such as stri",
    "med": 1450,
    "ratio": 14.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933533603",
+   "title": "16\" Sterling Silver Snake Chain Stamped Sterling 7g",
+   "price": 77,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-16-sterling-silver-snake/v94LynjnJj4zZpymtbsT5E",
+   "best": "eBay",
+   "med": 1062,
+   "ratio": 13.79,
    "ai_value": ""
   },
   {
@@ -3109,6 +3153,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982692089",
+   "title": "HENS ON NEST Vintage",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/massapequa-park-hens-on-nest-vintage/vEvvvrH63YjC3PUJkWSqoR",
+   "best": "Rare Sowerby Carnival Marigold Glass Hen Chicken With Chicks ...",
+   "med": 66,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7970091984",
    "title": "Skis Head wood vintage",
    "price": 30,
@@ -3325,6 +3380,17 @@
    "url": "https://www.craigslist.org/view/d/spokane-vintage-wall-decor/s3BHUdrhcLuUPKPTteeAM9",
    "best": "eBay",
    "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935531485",
+   "title": "Set Of 2 Vintage Framed Silhouette Pictures",
+   "price": 30,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-set-of-vintage-framed/rdRBuMAzQUi7ieZLtLHvk5",
+   "best": "Art Style: Reverse-painted glass or foil silhouette art (popular during the 1930s and 1940s, often produced by",
+   "med": 90,
    "ratio": 3,
    "ai_value": ""
   },
@@ -4165,6 +4231,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955699578",
+   "title": "Beautiful vintage gold heraldic crown",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/brentwood-beautiful-vintage-gold/xoqL6sHwkxm9vqc2TL1LTm",
+   "best": "Etsy",
+   "med": 125,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7973778375",
    "title": "Attention Vintage Tool Collectors!",
    "price": 80,
@@ -4429,6 +4506,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973131155",
+   "title": "Vintage Art Deco Bronze Cleopatra Statement Modernist Statement Necklace Choker",
+   "price": 70,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-art-deco-bronze/pVirh2vEtXDsF92uf2cjxr",
+   "best": "Etsy",
+   "med": 89,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7980894321",
    "title": "15 Old Cell Phones",
    "price": 100,
@@ -4580,6 +4668,17 @@
    "best": "Stella Blue turquoise lariat necklace handmade with silver",
    "med": 147,
    "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933778658",
+   "title": "18\"  American Indian Liquid Sterling Silver Turquoise Beads 20.6g",
+   "price": 177,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-18-american-indian-liquid/gvEUFyPtoSd6d3FhJR21qH",
+   "best": "eBay",
+   "med": 143,
+   "ratio": 0.81,
    "ai_value": ""
   },
   {
@@ -5062,6 +5161,17 @@
    "area": "maine",
    "url": "https://www.craigslist.org/view/d/scarborough-old-timer-blade/9QhUZXyJGcitnVZNLoyekk",
    "best": "Schrade 1209456 Frontier Gray Fixed Blade Knife Gray Handles ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936577995",
+   "title": "3  POCKET KNIVES",
+   "price": 20,
+   "area": "roanoke",
+   "url": "https://www.craigslist.org/view/d/fincastle-pocket-knives/bLpZMSf7KcggNkvNMK9vri",
+   "best": "Left Knife: A small, well-worn utility or pen knife with dark wooden or bone-like handle scales and brass line",
    "med": null,
    "ratio": null,
    "ai_value": ""
