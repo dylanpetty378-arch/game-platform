@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-13T04:23:47Z",
+ "updated": "2026-10-13T04:27:37Z",
  "tables": {
   "harvests": 3,
   "searches": 162,
   "listings": 4607,
-  "lens": 1529,
-  "events": 7031,
+  "lens": 1554,
+  "events": 7056,
   "comps": 152,
-  "item_types": 217,
+  "item_types": 385,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 535,
-  "queued": 3112,
-  "lensed": 530,
+  "queued": 3087,
+  "lensed": 541,
   "comps/pass": 1,
   "decided/ask": 12,
   "queued/relens": 310,
@@ -21,7 +21,7 @@
   "decided/kill": 2,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 94
+  "flagged": 108
  },
  "last_harvests": [
   {
@@ -257,6 +257,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949379687",
+   "title": "Vintage Ceramic Small Water Pitcher",
+   "price": 10,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/apex-vintage-ceramic-small-water-pitcher/nfRjyu4Qj9dwdEyVrzgAKw",
+   "best": "Antique Dudson Bros Hanley England RARE White on White ...",
+   "med": 207,
+   "ratio": 20.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7947120747",
    "title": "Vintage Round Silver-Tone Brooch",
    "price": 18,
@@ -320,6 +331,17 @@
    "best": "Etsy",
    "med": 125,
    "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981137930",
+   "title": "Mid-Century solid brass large bowl pedestal chalice",
+   "price": 140,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/duluth-mid-century-solid-brass-large/113aoDf1KnJj5kQ1K9C8RQ",
+   "best": "Vintage Hollywood Regency MCM Brass Bowl Pedestal Chalice ...",
+   "med": 1700,
+   "ratio": 12.14,
    "ai_value": ""
   },
   {
@@ -510,6 +532,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976501403",
+   "title": "Italian Vase",
+   "price": 120,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-mateo-italian-vase/9CCpbtguYFUBgUQaQfHwNS",
+   "best": "undefined at Lowes.com",
+   "med": 695,
+   "ratio": 5.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7954878801",
    "title": "( MAIJA )  INDIAN FRAMED WALL PICTURE",
    "price": 100,
@@ -529,6 +562,17 @@
    "best": "eBay",
    "med": 395,
    "ratio": 5.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982551224",
+   "title": "Vintage Chinese enamel brass Op oil lamp no shade",
+   "price": 36,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-vintage-chinese-enamel-brass-op/sD8ssMiR7hrXUKYWpaCEX6",
+   "best": "Vtg Chinese Enamel Brass Opium Oil Lamp *no Shade - Etsy",
+   "med": 200,
+   "ratio": 5.56,
    "ai_value": ""
   },
   {
@@ -653,6 +697,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7949459466",
+   "title": "Bronze Lion of Lucerne",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-bronze-lion-of-lucerne/9qzY2q3n8K8sAsD7C3jsSe",
+   "best": "Lion Of Lucerne\" Metal Lion Figure, Laying Swiss Guard ...",
+   "med": 350,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961744925",
+   "title": "Old Marquette Welder w/ Lots Of Rods",
+   "price": 100,
+   "area": "wyoming",
+   "url": "https://www.craigslist.org/view/d/pinedale-old-marquette-welder-lots-of/9NUKgUzcmPc3gpMjJj68Rj",
+   "best": "Tools for sale in State College, Pennsylvania | Facebook ...",
+   "med": 349,
+   "ratio": 3.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7972434330",
    "title": "Vintage Hand-Carved Wooden Jar",
    "price": 25,
@@ -694,6 +760,17 @@
    "best": "Robinson Ransbottom Roseville OHIO 9 Inch 2.5 Quart Blue ...",
    "med": 185,
    "ratio": 3.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946910619",
+   "title": "Fender Squier Strat",
+   "price": 100,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-fender-squier-strat/sdUobTk2pRTSmAka3L5rD7",
+   "best": "Used Squier MIK Stratocaster Black and White Solid Body ...",
+   "med": 300,
+   "ratio": 3,
    "ai_value": ""
   },
   {
@@ -785,6 +862,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962538365",
+   "title": "Blue Willow Square Teapot",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-blue-willow-square-teapot/wPAbsfFX5WEzWDt3i648Cc",
+   "best": "Blue & White TEAPOT, unusual square shape 5\" tall | eBay",
+   "med": 100,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955497041",
    "title": "ACOUSTIC GUITAR",
    "price": 170,
@@ -862,6 +950,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930846745",
+   "title": "Painting",
+   "price": 40,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/tappan-painting/3B2SLNXXSstGvrXxAsN7FU",
+   "best": "William C Ressler \"The Finish Line\" Philadelphia Ltd Ed ...",
+   "med": 95,
+   "ratio": 2.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7943336347",
    "title": "Antic Chinese hand painting on silk",
    "price": 60,
@@ -869,6 +968,28 @@
    "url": "https://www.craigslist.org/view/d/daly-city-antic-chinese-hand-painting/mEH9iFiuafbiEC6kMCaBFu",
    "best": "Asian watercolor painting on silk paper, Bird with Orange ...",
    "med": 135,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951678680",
+   "title": "Antique RCA Loudspeaker 365151 FH-Style Radio Horn Speaker 1920s AS IS",
+   "price": 100,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-antique-rca-loudspeaker-fh/sXvVqooE8qtkQgijExF1CC",
+   "best": "vintage WESTERN ELECTRIC 518-W HORN SPEAKER - Working at 301 ...",
+   "med": 225,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982555115",
+   "title": "Reinhold Schlegelmilch cream and sugar set",
+   "price": 40,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-reinhold-schlegelmilch/mV6D37torHYdC5UEHoVwCG",
+   "best": "Antique R.S. Prussia Fine Porcelain Cream & Sugar w/ Pink ...",
+   "med": 90,
    "ratio": 2.25,
    "ai_value": ""
   },
@@ -950,6 +1071,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951710298",
+   "title": "Sterling silver bracelet",
+   "price": 75,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/leawood-sterling-silver-bracelet/mc9jqcU4Ju6mb9QufA546m",
+   "best": "Sterling Silver Bracelet. Vintage Filligree Organic Art ...",
+   "med": 139,
+   "ratio": 1.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7952642583",
    "title": "Vintage Leaping gazelles TV lamp/planter",
    "price": 60,
@@ -1005,6 +1137,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928362003",
+   "title": "Lionstone Whiskey decanter Mountain man 1800-186 3700436585",
+   "price": 50,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/milwaukee-lionstone-whiskey-decanter/i6zoK7PRX8ctAbRHSYDHzU",
+   "best": "John Wayne Decanter Ceramic Statue Mike Wayne Distilling ...",
+   "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7939184433",
    "title": "Pith Helmet",
    "price": 55,
@@ -1023,6 +1166,17 @@
    "url": "https://www.craigslist.org/view/d/san-diego-yamaha-classical-guitar/w1i6ZMdTv6YnXQnL58wdgU",
    "best": "eBay",
    "med": 202,
+   "ratio": 1.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968303126",
+   "title": "Vintage Waldorf-Astoria International Silver Co Seashell-shaped Dish",
+   "price": 60,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/apex-vintage-waldorf-astoria/vv7ykC2DGz73N72TrqJQ8W",
+   "best": "Silver Shell Dish In Antique Us Silver-Plated Platters ...",
+   "med": 81,
    "ratio": 1.35,
    "ai_value": ""
   },
