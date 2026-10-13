@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T05:56:47Z",
+ "updated": "2026-10-13T06:00:24Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2104,
-  "events": 9301,
+  "lens": 2129,
+  "events": 9326,
   "comps": 529,
   "item_types": 754,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1411,
-  "queued": 3336,
+  "queued": 3311,
   "comps/pass": 1,
   "decided/ask": 23,
   "queued/relens": 309,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
-  "flagged": 136,
-  "lensed": 177,
+  "flagged": 151,
+  "lensed": 187,
   "decided/find": 7
  },
  "last_harvests": [
@@ -246,6 +246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961967624",
+   "title": "wonderful vintage  advertisement",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/menlo-park-wonderful-vintage/6B3pMkZFzkfAyuw4H8QW7H",
+   "best": "Song details: Words were written by Jean Lefevre, with music composed by W.C. Polla and Willard Goldsmith.",
+   "med": 11500,
+   "ratio": 287.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7943275913",
    "title": "vintage  outdoor wall lantern",
    "price": 20,
@@ -320,6 +331,17 @@
    "best": "Primitive Rustic Antique Vintage General Store Scale ...",
    "med": 1800,
    "ratio": 45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931331413",
+   "title": "Vintage Signed / Numbered Vintage Black Americana Young Man Print",
+   "price": 45,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-vintage-signed-numbered-vintage/epnrCzjsBJ8TGHV6QLK3LV",
+   "best": "Mutual Art",
+   "med": 1495,
+   "ratio": 33.22,
    "ai_value": ""
   },
   {
@@ -463,6 +485,17 @@
    "best": "Sold at Auction: KOREAN BRASS GRILL / BRAZIER",
    "med": 750,
    "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966649136",
+   "title": "KOREAN Bronze Tone Iron Statue",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-korean-bronze-tone-iron-statue/creA7fGFAtu7jcYLqKajru",
+   "best": "ANTIQUE Early 20th Century 3-pc Chinese Bronze Figural \"Toba ...",
+   "med": 1499,
+   "ratio": 14.99,
    "ai_value": ""
   },
   {
@@ -719,6 +752,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972536228",
+   "title": "STUNNING LARGE VINTAGE SIGNED ABSTRACT EXPRESSIONIST SERIGRAPH",
+   "price": 55,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-stunning-large-vintage-signed/jkZd6wxw8z8gFJRY6W3vN2",
+   "best": "Roman Cross #3 Yoga Mat by Terry Davis - Fine Art America",
+   "med": 355,
+   "ratio": 6.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7952962879",
    "title": "Vintage Stoneware Pottery Lamp",
    "price": 20,
@@ -961,6 +1005,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952395925",
+   "title": "Antique Oil Painting",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-antique-oil-painting/pya7ET7uP9eJkQkeJcCWY3",
+   "best": "Ferruccio Vitale Auction Results: Historical Sales Records",
+   "med": 435,
+   "ratio": 4.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7958742807",
    "title": "Vintage Oversized Sunglasses",
    "price": 26,
@@ -1024,6 +1079,28 @@
    "best": "Miners Head Lamp - Etsy",
    "med": 175,
    "ratio": 3.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951061041",
+   "title": "Vintage Mini Brown/Beige Jug",
+   "price": 25,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-vintage-mini-brown-beige-jug/ncksELmrtLdg51oaYfwicR",
+   "best": "Antique 1 Gallon Stoneware Crock Primitive Finger Jug / Two ...",
+   "med": 95,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952107083",
+   "title": "Handcrafted Metal Vase",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/castro-valley-handcrafted-metal-vase/7DsNn2kf9pke7QCaQ6iuoq",
+   "best": "Bed Bath & Beyond",
+   "med": 169,
+   "ratio": 3.76,
    "ai_value": ""
   },
   {
@@ -1115,6 +1192,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928693213",
+   "title": "Old Hunting Knife 4\"",
+   "price": 100,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-old-hunting-knife/nZAvGMKc9aQgXzjWRvUqsj",
+   "best": "VINTAGE FIXED BLADE, GAMBILL SOLINGER, STAG HANDLE, MADE IN ...",
+   "med": 349,
+   "ratio": 3.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7981128453",
    "title": "Vintage Amberglass Demijohn Bottle",
    "price": 75,
@@ -1122,6 +1210,17 @@
    "url": "https://www.craigslist.org/view/d/nazareth-vintage-amberglass-demijohn/bn6gVoFcRupMnBdHophkKD",
    "best": "Antique French Dame Jeanne Amber Glass Demijohn Wine Bottle ...",
    "med": 252,
+   "ratio": 3.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929231174",
+   "title": "Vintage Chinese Cloisonn\u00e9 Green Floral Enamel",
+   "price": 25,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-vintage-chinese-cloisonn-green/sEs5dsePdYdUr1iHyU32HZ",
+   "best": "Beautiful Unique Plum Blossom With Butterfly Chinese Brass ...",
+   "med": 84,
    "ratio": 3.36,
    "ai_value": ""
   },
@@ -1269,6 +1368,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7974833472",
+   "title": "1901 hamilton pocket watch",
+   "price": 100,
+   "area": "boulder",
+   "url": "https://www.craigslist.org/view/d/lafayette-1901-hamilton-pocket-watch/jm2x1aextY8LaRmhhSVeTv",
+   "best": "eBay",
+   "med": 275,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966561614",
+   "title": "Antique Stoneware Jug",
+   "price": 60,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/henniker-antique-stoneware-jug/dBx3uCgSKXy6KAYdEgf9Mu",
+   "best": "\u00b7jmfren02",
+   "med": 165,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7944742537",
    "title": "1950's vintage vase",
    "price": 15,
@@ -1288,6 +1409,17 @@
    "best": "Vintage 1974 Ceramic Atlantic Mold Milk Can Canister Cookie ...",
    "med": 145,
    "ratio": 2.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943405300",
+   "title": "Oval Picture Frame Vintage",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-ridge-oval-picture-frame-vintage/b8NCA4xaQrF7GY2qSPj5DS",
+   "best": "Large Antique Tiger Striped Framed Portrait of the Virgin Mary ...",
+   "med": 195,
+   "ratio": 2.6,
    "ai_value": ""
   },
   {
@@ -1522,6 +1654,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941200002",
+   "title": "Vintage Sterling Silver 925 Filigree Onyx Earings",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-vintage-sterling-silver-925/r9dAsa9jAqo3geMHzcAAK8",
+   "best": "eBay",
+   "med": 81,
+   "ratio": 1.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7939313471",
    "title": "Vintage Federal Photo Enlarger",
    "price": 55,
@@ -1531,6 +1674,17 @@
    "med": 88,
    "ratio": 1.6,
    "ai_value": ""
+  },
+  {
+   "pid": "7952399070",
+   "title": "Vintage Chinese Made Flower And Birds Vase",
+   "price": 85,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-vintage-chinese-made-flower-and/4rywkTA55Mmp4nH7rAGZvU",
+   "best": "Etsy",
+   "med": 135,
+   "ratio": 1.59,
+   "ai_value": "Sold at Auction: Chinese Porcelain Floral & Birds Vase $471"
   },
   {
    "pid": "7982511420",
@@ -1729,6 +1883,17 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7939935636",
+   "title": "VINTAGE GOLFER",
+   "price": 20,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/eugene-vintage-golfer/jGyjjSn6bZf8rqZBYtoe5D",
+   "best": "Rare Vintage Arnart Realistic GOLFER ON THE GREEN Porcelain ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": "Value / Market Range: Typically ranges from about $15 to $75"
   }
  ],
  "finds": [
