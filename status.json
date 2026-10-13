@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:05:25Z",
+ "updated": "2026-10-13T14:09:00Z",
  "tables": {
   "harvests": 5,
   "searches": 1310,
   "listings": 6207,
-  "lens": 5187,
-  "events": 15122,
+  "lens": 5212,
+  "events": 15147,
   "comps": 1163,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 800,
-  "queued": 1053,
+  "lensed": 813,
+  "queued": 1028,
   "comps/pass": 1,
   "decided/ask": 37,
-  "queued/relens": 394,
-  "flagged": 577,
+  "queued/relens": 398,
+  "flagged": 585,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -555,6 +555,17 @@
    "med": 898,
    "ratio": 44.9,
    "ai_value": "Price: Typically priced around $0"
+  },
+  {
+   "pid": "7956132433",
+   "title": "Two Hutschenreuther Hohenberg Plates",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-two-hutschenreuther-hohenberg/qGMxfzMdNVKJNLYfZqBrzc",
+   "best": "Accents | Hutschenreuther Mohenberg Germany Porcelain Cobalt ...",
+   "med": 1113,
+   "ratio": 44.52,
+   "ai_value": ""
   },
   {
    "pid": "7975348986",
@@ -1478,6 +1489,17 @@
    "best": "Antique Primitive Handmade Wicker Melon Eggs Buttocks ...",
    "med": 399,
    "ratio": 11.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977147867",
+   "title": "Plumbers lead pot",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/sheridan-plumbers-lead-pot/w1Df8HYcK57P7Q7AMqDEXW",
+   "best": "Vintage Clayton and Lambert plumbers furnace smelting stove ...",
+   "med": 168,
+   "ratio": 11.2,
    "ai_value": ""
   },
   {
@@ -4440,6 +4462,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948025132",
+   "title": "Antique brass civil war buckle",
+   "price": 55,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-antique-brass-civil-war/buhg3iHoJVQESw9RUnUXA5",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7948719355",
    "title": "All New Assorted Hardware",
    "price": 35,
@@ -4825,6 +4858,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953939891",
+   "title": "VINTAGE WOODEN OX YOKE",
+   "price": 149,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-vintage-wooden-ox-yoke/n7yxSXVjr1cm7mN6JFptdX",
+   "best": "RARE Amazing Find! Antique 1800's Hand Carved All Wood ...",
+   "med": 356,
+   "ratio": 2.39,
+   "ai_value": ""
+  },
+  {
    "pid": "7938451308",
    "title": "Vintage Wooden Sculpture",
    "price": 40,
@@ -5188,6 +5232,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931248829",
+   "title": "Kalo Shop sterling silver bracelet",
+   "price": 199,
+   "area": "missoula",
+   "url": "https://www.craigslist.org/view/d/grantsdale-kalo-shop-sterling-silver/5nEpaHHH2zGjrnVCBJhjQh",
+   "best": "Taxco, Mexican 925 Sterling Silver Handmade Bracelet. 6.7 ...",
+   "med": 382,
+   "ratio": 1.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7980503652",
    "title": "VINTAGE COMMERCIAL LIGHTED BUDWEISER SIGN",
    "price": 50,
@@ -5471,6 +5526,17 @@
    "best": "Vintage Erector Set | EJ'S Auction & Appraisal",
    "med": 120,
    "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982698614",
+   "title": "Antique Micronesian Carved Wood Folk Art Driftwood Fish signed Gusmed",
+   "price": 85,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/lowell-antique-micronesian-carved-wood/tCq94NE15ppUghp29px8Br",
+   "best": "Vintage Phillipines Wood Hand Carved Fish Decorative Palm ...",
+   "med": 135,
+   "ratio": 1.59,
    "ai_value": ""
   },
   {
@@ -6068,6 +6134,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929477230",
+   "title": "Set of Two Hand\u2011Carved African Wooden Masks \u2013 Vintage Tribal Art",
+   "price": 120,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-set-of-two-handcarved-african/fBcsuG3zSDyeAkKP3uFNAT",
+   "best": "Red Mask: Features a bold red and green painted finish, an elongated face, and a distinctive carved headdress/",
+   "med": 93,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7972526454",
    "title": "Vintage Aynsley Orchard Gold Teacup and Saucer Set - Burgundy Red - Signed by D.",
    "price": 160,
@@ -6649,6 +6726,17 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7969583139",
+   "title": "1955 Topps Football Card",
+   "price": 65,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/highlands-1955-topps-football-card/9smcvaRuTTG2vZ6uSh1Z76",
+   "best": "Set: 1955 Topps All-American (Card #6)",
+   "med": null,
+   "ratio": null,
+   "ai_value": "Value: Ungraded or lower-grade copies typically sell for roughly $60 to $150,"
   }
  ],
  "finds": [

@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T14:05:25Z
+# Refurbish status — 2026-10-13T14:09:00Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| queued | 1053 |
-| lensed | 800 |
-| flagged | 577 |
-| queued/relens | 394 |
+| queued | 1028 |
+| lensed | 813 |
+| flagged | 585 |
+| queued/relens | 398 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 5
 - searches: 1310
 - listings: 6207
-- lens: 5187
-- events: 15122
+- lens: 5212
+- events: 15147
 - comps: 1163
 - item_types: 791
 - runs: 0
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (577)
+## Flagged by Lens, waiting for photo review (585)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -116,6 +116,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00D0D_f5byDhMITJ0_0t20CI_300x300.jpg" width="120"> | 7955850239 | $20 | vermont | [Vintage Cezanne Cultured Pearl Necklace by Richeli](https://www.craigslist.org/view/d/south-burlington-vintage-cezanne/fyUb8aCJPbMSpwsRnDBzbU) | Cezanne Pearls Necklace Beaded Vintage Case New / eBay | 903 | 45.15 |
 | <img src="https://images.craigslist.org/00808_3XegAVq1LeQ_0lN0CI_300x300.jpg" width="120"> | 7954432145 | $100 | flagstaff | [antique full bed set](https://www.craigslist.org/view/d/phoenix-antique-full-bed-set/mv7kMeqQW3NbALX3L2npeh) | Berkey & Gay COMPLETE Bedroom Set Full/Double, Chest ... | 4500 | 45 |
 | <img src="https://images.craigslist.org/00o0o_1obFBv24OYw_0t20CI_300x300.jpg" width="120"> | 7953648442 | $20 | memphis | [Antique Sheet Music](https://www.craigslist.org/view/d/millington-antique-sheet-music/9ztezSaoT8NMd4VAGow8kP) | Rare The Beatles YELLOW SUBMARINE original sheet music ... | 898 | 44.9 |
+| <img src="https://images.craigslist.org/00x0x_hM1gCxz6JiY_09G07g_300x300.jpg" width="120"> | 7956132433 | $25 | boston | [Two Hutschenreuther Hohenberg Plates](https://www.craigslist.org/view/d/medford-two-hutschenreuther-hohenberg/qGMxfzMdNVKJNLYfZqBrzc) | Accents / Hutschenreuther Mohenberg Germany Porcelain Cobalt | 1113 | 44.52 |
 | <img src="https://images.craigslist.org/00000_1XNkD0kSQJO_0t20CI_300x300.jpg" width="120"> | 7975348986 | $80 | southjersey | [Silverplate Flatware set](https://www.craigslist.org/view/d/swedesboro-silverplate-flatware-set/st6CWwzFq87Xj8PYVytZut) | 1881 Rogers Oneida Vintage Silver Plate 1967 Baroque Rose .. | 3495 | 43.69 |
 | <img src="https://images.craigslist.org/01313_bXzIHEUx46l_0wg03m_300x300.jpg" width="120"> | 7947925261 | $25 | athensohio | [Vintage gold tone 3 Inch of Gold Bracelet WHITE di](https://www.craigslist.org/view/d/logan-vintage-gold-tone-inch-of-gold/4UsrxPzajUkokxB2FyXbHM) | Vintage Delicate Gold Tone Chain & Crystal Accented Tennis . | 1050 | 42 |
 | <img src="https://images.craigslist.org/00H0H_jTX1t64VwnA_0lN0CI_300x300.jpg" width="120"> | 7975791501 | $50 | bemidji | [Antique with secret compartment](https://www.craigslist.org/view/d/duluth-antique-with-secret-compartment/wdwSh7KxNqY3VYSE495cHi) | Vintage Music Box Wood Table Inlaid Marquetry Side Table ... | 1871 | 37.42 |
@@ -200,6 +201,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00W0W_d5p3bYBoMgW_0t20CI_300x300.jpg" width="120"> | 7945859061 | $15 | cleveland | [Coca-Cola Vintage Metal Sign](https://www.craigslist.org/view/d/medina-coca-cola-vintage-metal-sign/3jgwBoPqeaqdGV7DvaqHQY) | Rare Vintage Coca-Cola Antique Sign Machine Cooler Drink ... | 177 | 11.8 |
 | <img src="https://images.craigslist.org/00y0y_3cENxpHvuUq_03S05a_300x300.jpg" width="120"> | 7978784082 | $10 | boston | [antique cookie Jars](https://www.craigslist.org/view/d/lowell-antique-cookie-jars/fcZyQN63419TTUmNgDQZwZ) | Vintage Cookie Jar 1950s American Bisque "granny Grandma ... | 115 | 11.5 |
 | <img src="https://images.craigslist.org/00d0d_7XDdxFDH3pi_0jm0ew_300x300.jpg" width="120"> | 7948318397 | $35 | valdosta | [Antique Egg gathering Basket](https://www.craigslist.org/view/d/summerfield-antique-egg-gathering-basket/pPC2jCt5FcKcGjPg9fiVmt) | Antique Primitive Handmade Wicker Melon Eggs Buttocks ... | 399 | 11.4 |
+| <img src="https://images.craigslist.org/01717_gF635XsbUHb_0MM132_300x300.jpg" width="120"> | 7977147867 | $15 | portland | [Plumbers lead pot](https://www.craigslist.org/view/d/sheridan-plumbers-lead-pot/w1Df8HYcK57P7Q7AMqDEXW) | Vintage Clayton and Lambert plumbers furnace smelting stove  | 168 | 11.2 |
 | <img src="https://images.craigslist.org/00b0b_bN4UahmyTEd_0t20CI_300x300.jpg" width="120"> | 7941714611 | $25 | tulsa | [Vintage Loudspeaker](https://www.craigslist.org/view/d/wichita-vintage-loudspeaker/qsWLeXNEHhVrR8jCzq27Ew) | PUBLIC ADDRESS OR ALARM SPEAKER, COMMTRON, 8 OHM, 25 WATT .. | 279 | 11.16 |
 | <img src="https://images.craigslist.org/00s0s_2gph3zK6wRQ_0ew0gk_300x300.jpg" width="120"> | 7956666416 | $10 | jackson | [3 rings](https://www.craigslist.org/view/d/tuscaloosa-rings/rUqDyyWn7BSzB45p7NWZu5) | DESIGNER JD SIGNED STERLING SILVER NATURAL DIAMONDS HEARTS . | 110 | 11 |
 | <img src="https://images.craigslist.org/00c0c_f8hPPl3fJao_0CI0t2_300x300.jpg" width="120"> | 7936579124 | $10 | tallahassee | [Antique Hand Tools](https://www.craigslist.org/view/d/middleburg-antique-hand-tools/v97sNw3F95v5AFRjHRcha5) | 9 antique key hole saw Disston Atkins & more collectible ... | 109 | 10.9 |
@@ -211,5 +213,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00o0o_aE9JYiSoWp1_0t20CI_300x300.jpg" width="120"> | 7954408750 | $75 | statesboro | [Vintage plant stand](https://www.craigslist.org/view/d/athens-vintage-plant-stand/cmZLeRXfp15YPWuLA2JoA8) | Chairish | 762 | 10.16 |
 | <img src="https://images.craigslist.org/00V0V_a5wLfSaDSlY_0t20t2_300x300.jpg" width="120"> | 7941367173 | $10 | duluth | [Vintage Wooden Tool Box](https://www.craigslist.org/view/d/south-saint-paul-vintage-wooden-tool-box/u8uWR8djcJi53MT9Y1obuD) | Vintage Wood Carpenter Tool Box - Etsy | 100 | 10 |
 | <img src="https://images.craigslist.org/00b0b_fDpcehXYiPR_0CI0t2_300x300.jpg" width="120"> | 7982695752 | $15 | minneapolis | [Antique Woodworking Tools](https://www.craigslist.org/view/d/lakeville-antique-woodworking-tools/qXD3wkcSUiWSMCjPVRfNHh) | Don't stuff those vintage tools in a toolbox or a drawer ... | 150 | 10 |
-| <img src="https://images.craigslist.org/00V0V_jwuIUiFUN4u_0jm0ew_300x300.jpg" width="120"> | 7940245982 | $10 | albany | [(10) Hallmark mini Lunchboxes Hot Wheels, Snoopy](https://www.craigslist.org/view/d/albany-10-hallmark-mini-lunchboxes-hot/meid3fwxrqeTmULL5MJyda) | Vintage Metal Lunch Boxes - Etsy | 100 | 10 |
-| <img src="https://images.craigslist.org/00R0R_jcu6PXQ3xpC_09M0t2_300x300.jpg" width="120"> | 7982698512 | $40 | portland | [Vintage Australian Aboriginal Didgeridoo Hand Pain](https://www.craigslist.org/view/d/vancouver-vintage-australian-aboriginal/kgdvVBvN3tpSBS8ejbLDZV) | Vintage Didgeridoo 51" Wood Wind Instrument / eBay | 390 | 9.75 |
