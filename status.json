@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T14:51:53Z",
+ "updated": "2026-10-13T14:57:17Z",
  "tables": {
   "harvests": 6,
-  "searches": 1310,
-  "listings": 6207,
-  "lens": 5487,
-  "events": 15422,
-  "comps": 1163,
+  "searches": 1504,
+  "listings": 7007,
+  "lens": 5512,
+  "events": 16247,
+  "comps": 1350,
   "item_types": 791,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 3320,
-  "lensed": 954,
-  "queued": 753,
+  "lensed": 968,
+  "queued": 1528,
   "comps/pass": 1,
-  "queued/relens": 429,
+  "queued/relens": 434,
   "decided/ask": 37,
-  "flagged": 688,
+  "flagged": 694,
   "decided/kill": 6,
   "decided/pass": 1,
   "comps/fail": 5,
@@ -1574,6 +1574,17 @@
    "best": "eBay",
    "med": 234,
    "ratio": 13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943157211",
+   "title": "Antique/Vintage Berry Spoon",
+   "price": 20,
+   "area": "duluth",
+   "url": "https://www.craigslist.org/view/d/stillwater-antique-vintage-berry-spoon/u32HshJA8sPAcUDERDxmsL",
+   "best": "Grape-Roger Bros Silverplate Large Grape Spoon 9\" Monogram ...",
+   "med": 259,
+   "ratio": 12.95,
    "ai_value": ""
   },
   {
@@ -3741,6 +3752,17 @@
    "best": "Vintage Pabst Brewing Company 7.75 Gallon Keg, Gasser Fuel ...",
    "med": 129,
    "ratio": 4.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942057034",
+   "title": "Antique military ice cooler",
+   "price": 45,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/corvallis-antique-military-ice-cooler/9nFCbhuYifWVJmHostwfLz",
+   "best": "Wholesale Vintage Military Canvas & Leather Binocular ...",
+   "med": 200,
+   "ratio": 4.44,
    "ai_value": ""
   },
   {
@@ -6285,6 +6307,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941578443",
+   "title": "Vintage 1950s cocktail shaker",
+   "price": 45,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-myers-vintage-1950s-cocktail-shaker/1S9E3tscsk4tkEirwUwbh3",
+   "best": "Cocktail Shaker Hazel Atlas Ragtime Themed Mid Century with ...",
+   "med": 80,
+   "ratio": 1.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7981875915",
    "title": "Vintage African Wildlife Figurines",
    "price": 50,
@@ -6293,6 +6326,17 @@
    "best": "Vintage Sermel Tonala Jal Paper Mache Hand Painted Hippo ...",
    "med": 88,
    "ratio": 1.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947387904",
+   "title": "VINTAGE MALCOLM SMITH JACKET",
+   "price": 100,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/lenore-vintage-malcolm-smith-jacket/bLBiiibM98cVqFxha8TG1U",
+   "best": "eBay",
+   "med": 175,
+   "ratio": 1.75,
    "ai_value": ""
   },
   {
@@ -6934,6 +6978,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956685559",
+   "title": "Old Post Hole Digger",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/chino-valley-old-post-hole-digger/gE8SwbWh43Bj8U3c5CKcT5",
+   "best": "Patents: Similar historical models carry patent dates from August 24, 1909, March 7, 1911, and April 4, 1911.",
+   "med": 104,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
    "pid": "7972414371",
    "title": "Barbie Stuff",
    "price": 100,
@@ -7358,6 +7413,17 @@
    "area": "nashville",
    "url": "https://www.craigslist.org/view/d/nashville-vintage-theater-seating/qJkhifgJzE3FmSdUo1G5Qj",
    "best": "Red Theater Seats Images \u2013 Browse 442,692 Stock Photos ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934575385",
+   "title": "Vintage lighted \"Fruja\" sign-New",
+   "price": 95,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/delaware-vintage-lighted-fruja-sign-new/t5EL4QdP7B2JmyKgZ1qrE7",
+   "best": "Rare Hiram Walker FRUJA Lighted Bar Liquor Beer Sign A+ ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

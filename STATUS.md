@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T14:51:53Z
+# Refurbish status — 2026-10-13T14:57:17Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 3320 |
-| lensed | 954 |
-| queued | 753 |
-| flagged | 688 |
-| queued/relens | 429 |
+| queued | 1528 |
+| lensed | 968 |
+| flagged | 694 |
+| queued/relens | 434 |
 | decided/ask | 37 |
 | expired | 7 |
 | decided/find | 7 |
@@ -22,11 +22,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 ## Tables
 
 - harvests: 6
-- searches: 1310
-- listings: 6207
-- lens: 5487
-- events: 15422
-- comps: 1163
+- searches: 1504
+- listings: 7007
+- lens: 5512
+- events: 16247
+- comps: 1350
 - item_types: 791
 - runs: 0
 
@@ -87,7 +87,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="160"> | [Antique Russian Porcelain Coffee/Tea Server circa 1920s](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | $125 | washingtondc | **decided/ask** — 8.75in Kuznetsov-type Rybinsk/USSR porcelain kumgan ewer made for the Central Asian/Middle East market c.1917-20s: cobalt flow ground, gilt stars, hand-painted rose reserve, stopper intact, seller says no chips. Asking $ |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Two framed Chinese silk satin-stitch embroidered panels on blue silk (one a purse/pouch face, one a figural court-lady panel with peony/butterfly), late Qing–Republic c.1900-30, small frames (~10x12). Fine stitching, fad |
 
-## Flagged by Lens, waiting for photo review (688)
+## Flagged by Lens, waiting for photo review (694)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -206,10 +206,10 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00L0L_jogmyc7iiax_0t20CI_300x300.jpg" width="120"> | 7970581428 | $100 | milwaukee | [Vintage saddle bags](https://www.craigslist.org/view/d/stevens-point-vintage-saddle-bags/hWzzX5Ls65qwSnVSc6UteD) | ORIGINAL Vintage Harley saddle buddy seat Panhead ... | 1300 | 13 |
 | <img src="https://images.craigslist.org/00B0B_ga9LVJdZ6OY_0t20CI_300x300.jpg" width="120"> | 7935162080 | $28 | swv | [Old shoe shine  box](https://www.craigslist.org/view/d/thomasville-old-shoe-shine-box/r8pT4mi6MUGUuTudNHed4d) | Antique 1960s GRIFFIN Style Wooden Shoe Shine Box - Etsy | 364 | 13 |
 | <img src="https://images.craigslist.org/00303_kFbbR3JHySF_0fu0bC_300x300.jpg" width="120"> | 7961254881 | $18 | eastky | [Antique Picture Frame](https://www.craigslist.org/view/d/asheville-antique-picture-frame/jMDSDn8R9wxzdA3k19P5pw) | eBay | 234 | 13 |
+| <img src="https://images.craigslist.org/00K0K_jMxIxw86IR2_08d0gw_300x300.jpg" width="120"> | 7943157211 | $20 | duluth | [Antique/Vintage Berry Spoon](https://www.craigslist.org/view/d/stillwater-antique-vintage-berry-spoon/u32HshJA8sPAcUDERDxmsL) | Grape-Roger Bros Silverplate Large Grape Spoon 9" Monogram . | 259 | 12.95 |
 | <img src="https://images.craigslist.org/00000_emwylBhuMAD_0CI0t2_300x300.jpg" width="120"> | 7969735398 | $20 | kansascity | [Antique Wood Toolbox](https://www.craigslist.org/view/d/farley-antique-wood-toolbox/ugTdKfg9SkbwYq71EiL9py) | Vintage Metal Tray Red Handle Old Metal Tool Tray Tool ... | 258 | 12.9 |
 | <img src="https://images.craigslist.org/00Z0Z_fSTUNIYs2Uh_0t20CI_300x300.jpg" width="120"> | 7930151370 | $50 | newyork | [Vintage spotlight and tripod](https://www.craigslist.org/view/d/brooklyn-vintage-spotlight-and-tripod/a91y31z21oDmzFwZHdm67j) | Chairish | 644 | 12.88 |
 | <img src="https://images.craigslist.org/00b0b_4MRx7sWg9uW_0CI0t2_300x300.jpg" width="120"> | 7954745713 | $75 | wichita | [Vintage Porcelain Light Fixture](https://www.craigslist.org/view/d/great-bend-vintage-porcelain-light/b1M4UcHp7S5vWUhduZLx7a) | Socket / Fitter: Brown porcelain or ceramic socket cluster w | 950 | 12.67 |
 | <img src="https://images.craigslist.org/00u0u_fEU6kKfN1N8_0t20CI_300x300.jpg" width="120"> | 7951590114 | $20 | omaha | [Vintage Croquet Set](https://www.craigslist.org/view/d/des-moines-vintage-croquet-set/fXSxZNFvitFZsnweB24x24) | Vintage WOODEN CROQUET SET W/ Original Green Painted Stand . | 250 | 12.5 |
 | <img src="https://images.craigslist.org/00g0g_480F9cEdr6j_0CI0nH_300x300.jpg" width="120"> | 7972063920 | $20 | appleton | [Antique Doll Trunk](https://www.craigslist.org/view/d/fox-river-grove-antique-doll-trunk/nasa3rk95BMGF3WvfdYnTu) | Antique Wood Dome-Top Doll Trunk or Chest in Overall Good .. | 250 | 12.5 |
 | <img src="https://images.craigslist.org/00A0A_3883QRScsIB_0lR0t2_300x300.jpg" width="120"> | 7931577468 | $10 | newyork | [Vintage U.S. Bicentennial Society The Double Eagle](https://www.craigslist.org/view/d/new-york-vintage-us-bicentennial/iHBvYEZNAsyz62K5p6Wz9S) | Vtg 1973 Collectors Double Eagle Plate Americas Bicentennial | 125 | 12.5 |
-| <img src="https://images.craigslist.org/00k0k_hrhNsHpYm6_0t20CI_300x300.jpg" width="120"> | 7982699844 | $85 | portland | [Vintage Mountain Landscape Oil Painting Signed Tal](https://www.craigslist.org/view/d/vancouver-vintage-mountain-landscape/aVAXiNk54q9ebniWdeHHHT) | Robert Lee McComb / ROBERT MCCOMB OIL ON CANVAS, VIEW OF ... | 1059 | 12.46 |
