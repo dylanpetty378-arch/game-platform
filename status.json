@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-13T08:55:11Z",
+ "updated": "2026-10-13T08:58:51Z",
  "tables": {
   "harvests": 4,
   "searches": 1006,
   "listings": 5407,
-  "lens": 3229,
-  "events": 11015,
+  "lens": 3254,
+  "events": 11040,
   "comps": 870,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "lensed": 472,
-  "queued": 2211,
+  "lensed": 487,
+  "queued": 2186,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 341,
-  "flagged": 345,
+  "flagged": 355,
   "decided/pass": 1,
   "decided/kill": 2,
   "comps/fail": 5,
@@ -918,6 +918,17 @@
    "ai_value": "Value: Similar hand-painted antique saws typically sell or are valued anywhere from $25"
   },
   {
+   "pid": "7982285994",
+   "title": "Vintage Water Skis",
+   "price": 20,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/fort-worth-vintage-water-skis/nkF2ZpN7n4netCUpnNbhvB",
+   "best": "Manor Auctions",
+   "med": 234,
+   "ratio": 11.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7931066757",
    "title": "Old West Throw Pillows",
    "price": 30,
@@ -1171,6 +1182,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976200335",
+   "title": "Antique Paper Cut-Out Lampshade",
+   "price": 50,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/nazareth-antique-paper-cut-out-lampshade/kcre7i24btucRnxKZ6x7g8",
+   "best": "Etsy",
+   "med": 400,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7962914286",
    "title": "Vintage Snake Skin Bracelet Pair 1980's Italy",
    "price": 25,
@@ -1256,6 +1278,17 @@
    "best": "VINTAGE ROYAL BAYREUTH FISH CREAMER (NOT ...",
    "med": 115,
    "ratio": 7.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948904521",
+   "title": "Vintage Lipstick Lighter",
+   "price": 20,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/citrus-heights-vintage-lipstick-lighter/gDQqqCqFguWJ4uZubQ3tPh",
+   "best": "1930s Lighter Silver Trench Wind Proof Lighter Great Working ...",
+   "med": 150,
+   "ratio": 7.5,
    "ai_value": ""
   },
   {
@@ -1432,6 +1465,28 @@
    "best": "Mid Century HUBLEY 665 Bookend Gold Federal Patriotic Eagle ...",
    "med": 129,
    "ratio": 6.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958273198",
+   "title": "Vintage Shoei Helmet",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-shoei-helmet/9QaN7jN6zjJgh5inDUmebx",
+   "best": "Craigslist",
+   "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948421099",
+   "title": "Old School Tool Box",
+   "price": 20,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/fair-oaks-old-school-tool-box/5snxJ2UN7dFn6XW7uqMmKJ",
+   "best": "Vintage Waterloo Machinist Tool Box - Etsy",
+   "med": 125,
+   "ratio": 6.25,
    "ai_value": ""
   },
   {
@@ -2381,6 +2436,17 @@
    "ai_value": "sell online and in antique shops for roughly $30 to $96,"
   },
   {
+   "pid": "7952769454",
+   "title": "Vintage Violets Rag Quilt",
+   "price": 75,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/hillsboro-vintage-violets-rag-quilt/tsBL1LtYmsiTpCZXzVwgaC",
+   "best": "My First Quilt : r/quilting",
+   "med": 249,
+   "ratio": 3.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7962784680",
    "title": "Inuit Soapstone Carving Signed -Josie",
    "price": 50,
@@ -2421,6 +2487,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-vintage-gold-plated-bracelet/caWSTTJ56hgspbMpJ353ET",
    "best": "COLORFUL N/M COND LADY'S YELLOW GOLD FILLED BRACELET ...",
    "med": 64,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982235483",
+   "title": "Vintage Wood Duck Decoys",
+   "price": 75,
+   "area": "pullman",
+   "url": "https://www.craigslist.org/view/d/frenchtown-vintage-wood-duck-decoys/w9QnGALLR4U1RWAwJe9TmD",
+   "best": "Vintage Veri Lite Duck Decoy - Paper Mache Fiber, Made in ...",
+   "med": 240,
    "ratio": 3.2,
    "ai_value": ""
   },
@@ -2533,6 +2610,17 @@
    "med": 521,
    "ratio": 3.06,
    "ai_value": "Value / Market Price: Around $170"
+  },
+  {
+   "pid": "7942074254",
+   "title": "Vintage AMBERS!!!!",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-ambers/4vkRc5ARfsGkyrfcR568DU",
+   "best": "eBay",
+   "med": 76,
+   "ratio": 3.04,
+   "ai_value": ""
   },
   {
    "pid": "7956817412",
@@ -3228,6 +3316,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954771855",
+   "title": "Vintage large water basin",
+   "price": 50,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/youngstown-vintage-large-water-basin/6Fg7HUPSwxfYZA2uVeHuc2",
+   "best": "Components: Includes a large water pitcher, a matching wash basin (bowl), and smaller vanity/chamber pieces (s",
+   "med": 99,
+   "ratio": 1.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7950401072",
    "title": "4.  antique Globes,  1930s- 1970",
    "price": 80,
@@ -3676,6 +3775,17 @@
    "best": "1997 George Luttrell Le Mardi Gras Basin Street Jazz Print ...",
    "med": 80,
    "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936632817",
+   "title": "Hawk-eye 3A camera vintage",
+   "price": 90,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/pompano-beach-hawk-eye-3a-camera-vintage/3skW1uvPJ5T135NvL1WkwU",
+   "best": "No. 3A Folding Pocket Kodak Camera",
+   "med": 95,
+   "ratio": 1.06,
    "ai_value": ""
   },
   {
