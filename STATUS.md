@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T18:23:16Z
+# Refurbish status — 2026-10-13T18:27:10Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 6698 |
-| flagged | 369 |
-| lensed | 278 |
-| queued/relens | 255 |
-| queued | 125 |
+| flagged | 379 |
+| lensed | 290 |
+| queued/relens | 258 |
+| queued | 100 |
 | decided/ask | 51 |
 | expired | 9 |
 | decided/kill | 8 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 7
 - searches: 1727
 - listings: 7807
-- lens: 6728
-- events: 21799
+- lens: 6753
+- events: 21824
 - comps: 1561
 - item_types: 801
 - runs: 0
@@ -102,7 +102,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00V0V_dGZSsOXo0V5_09G03K_300x300.jpg" width="160"> | [WWII US M3 CASE 1943 KNIFE](https://www.craigslist.org/view/d/yakima-wwii-us-m3-case-1943-knife/i7Hcuk756VG3uuDbb2nVNs) | $100 | yakima | **decided/ask** — WWII US M3 trench knife, stacked-leather grip, steel cross guard, sold with a Pacific-island wood/brass souvenir dagger for $100 both. Blade heavily pitted, no M8 scabbard, maker mark NOT shown. Only a crisp "U.S. M3 CAS |
 | <img src="https://images.craigslist.org/00r0r_cjWfJ7PAvej_0mB0t2_300x300.jpg" width="160"> | [Vintage Patty Hearst Tania SLA Poster](https://www.craigslist.org/view/d/garden-grove-vintage-patty-hearst-tania/67mgvrXgPbuaZ3CZU9z7uC) | $100 | orangecounty | **decided/ask** — 1974 'TANIA' Patty Hearst SLA halftone poster 16x22, toned newsprint, pin holes, shrink-wrapped to board — originals sold $150-300, reprints $20. ASK: offer $50; photo of paper edge/back to confirm thin toned 1974 newspr |
 
-## Flagged by Lens, waiting for photo review (369)
+## Flagged by Lens, waiting for photo review (379)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -157,6 +157,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00W0W_bCPFAXOdG81_0CI0t2_300x300.jpg" width="120"> | 7951593504 | $10 | sfbay | [Vintage 1950s Rhinestone Sewing Coat Buttons](https://www.craigslist.org/view/d/san-francisco-vintage-1950s-rhinestone/wQo66e1J3zk8QL6jm89wCB) | Set of 3 Vintage Look Round Crystal Detail Fancy Brooches /  | 135 | 13.5 |
 | <img src="https://images.craigslist.org/00H0H_2cPY5p7gJlt_1u8176_300x300.jpg" width="120"> | 7975824978 | $50 | charleston | [Antique Brass Oil Lamp](https://www.craigslist.org/view/d/summerville-antique-brass-oil-lamp/7cnDRhcLCymv3XsVxYnyHz) | Wonderful Pair of Antique Etched Glass Brass Turkish ... | 650 | 13 |
 | <img src="https://images.craigslist.org/00l0l_6Dr1izel70F_0lM0t2_300x300.jpg" width="120"> | 7953914312 | $10 | chicago | [Beautiful Vintage Lamp](https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/bmm4SB168gJyLxt9DE3FzW) | Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ... | 126 | 12.6 |
+| <img src="https://images.craigslist.org/01616_jqdqbLpskLx_0lM0t2_300x300.jpg" width="120"> | 7943642566 | $10 | chicago | [Beautiful Vintage Lamp](https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/6hzZWsY7KGRqZ1GCt53iDo) | Vintage Urn Style Porcelain Hand Painted Floral Motif With . | 126 | 12.6 |
 | <img src="https://images.craigslist.org/00v0v_iGLpFpieMKo_0Mo12w_300x300.jpg" width="120"> | 7934424256 | $30 | fresno | [Hand Carved Wood Symobolic Idol Figure](https://www.craigslist.org/view/d/fresno-hand-carved-wood-symobolic-idol/h5F9MHAuYDkfpjfeA9tapF) | Lobi Bateba - Etsy | 359 | 11.97 |
 | <img src="https://images.craigslist.org/00Q0Q_lNndF9z6bTD_0Mo12w_300x300.jpg" width="120"> | 7934410252 | $60 | fresno | [Vintage Sterling Silver Jewelry -NAVAJO ZUNI Turqu](https://www.craigslist.org/view/d/fresno-vintage-sterling-silver-jewelry/eva2E9JeJVjTNNNoQ7amvZ) | Vintage zuni nastacio sterling - Gem | 700 | 11.67 |
 | <img src="https://images.craigslist.org/01010_8bhNFNXRpVk_0lM0t2_300x300.jpg" width="120"> | 7933576450 | $20 | slo | [Gemstone necklace](https://www.craigslist.org/view/d/nipomo-gemstone-necklace/1AkK4Fvz3tub7B49ppxQK3) | Etsy | 230 | 11.5 |
@@ -202,6 +203,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00303_25v73MddkhH_0t20CI_300x300.jpg" width="120"> | 7982807664 | $60 | rochester | [Mandolin](https://www.craigslist.org/view/d/rochester-mandolin/3FD5C85dUi7yeLJydXyszZ) | Restoring a Romanian-made mandolin | 380 | 6.33 |
 | <img src="https://images.craigslist.org/00E0E_kdi5FdwNCpx_0pO0jm_300x300.jpg" width="120"> | 7950290971 | $75 | columbus | [Old Acoustic Guitar](https://www.craigslist.org/view/d/chillicothe-old-acoustic-guitar/gyMWusLePjztqkh5QW4SD7) | 38" Woolworth's Audition Guitar Acoustic 6-String Vintage .. | 468 | 6.24 |
 | <img src="https://images.craigslist.org/00K0K_9sKOK4H1m3x_0t20CI_300x300.jpg" width="120"> | 7934915578 | $20 | fresno | [Replica Antique Mexican Pesos](https://www.craigslist.org/view/d/fresno-replica-antique-mexican-pesos/emwMk2wRDLm5qbrtvLS3Km) | 1882 Republica Mexicana Libertad 8R.Z.1882.J.S.10D.20G ... | 120 | 6 |
+| <img src="https://images.craigslist.org/00g0g_8d9HNDZQvif_0uN0n6_300x300.jpg" width="120"> | 7948035931 | $20 | chicago | [Burgundy Necklace w/Matching Earings And Bracelet](https://www.craigslist.org/view/d/des-plaines-burgundy-necklace-matching/t3EqFzqNAV4eFf3KwXtWKw) | set of Contract bracelet earring Ring Embroidered handmade . | 120 | 6 |
 | <img src="https://images.craigslist.org/00z0z_6pawAwfkNT3_0t20CI_300x300.jpg" width="120"> | 7945033825 | $30 | allentown | [Cross pendant 14 kt solid gold](https://www.craigslist.org/view/d/bethlehem-cross-pendant-14-kt-solid-gold/o68tmhv5jaCekWmwt2hap9) | eBay | 179 | 5.97 |
 | <img src="https://images.craigslist.org/00s0s_cvMOCiQ7M4P_0CI0t2_300x300.jpg" width="120"> | 7945944456 | $200 | sfbay | [vintage Beetles albums/ records](https://www.craigslist.org/view/d/fresno-vintage-beetles-albums-records/23BQ5u1ufFKH9Cs1LbbUwQ) | Beatles-Sgt. Pepper's Lonely Hearts Club Band-1967 Capitol . | 1191 | 5.96 |
 | <img src="https://images.craigslist.org/00909_agZf8sxgQ5P_0t20CI_300x300.jpg" width="120"> | 7981479300 | $20 | reno | [Vintage floral bracelt](https://www.craigslist.org/view/d/citrus-heights-vintage-floral-bracelt/nZumSLbiK9XmvvFxLWStyk) | eBay | 118 | 5.9 |
@@ -226,5 +228,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01414_c603oUR0ZFm_0CI0t2_300x300.jpg" width="120"> | 7981524750 | $35 | kansascity | [VINTAGE BRASS ROOSTER](https://www.craigslist.org/view/d/blackburn-vintage-brass-rooster/vuPgMkaY1tcPdbEMzbV9DF) | 10.4" Antique old China bronze gilt lucky Wealth fengshui .. | 167 | 4.77 |
 | <img src="https://images.craigslist.org/00101_2MwGYFwu2Zo_0CI0t2_300x300.jpg" width="120"> | 7942528645 | $85 | oklahomacity | [Large Vintage Painting](https://www.craigslist.org/view/d/piedmont-large-vintage-painting/t6hYH3j7HGkakJBL3xEF7A) | 1980s Original Signed Sid Mountain 'October' Oil Painting .. | 400 | 4.71 |
 | <img src="https://images.craigslist.org/01212_h0UefT25yqx_0t20CI_300x300.jpg" width="120"> | 7955319963 | $15 | southcoast | [Vintage Hand Saw](https://www.craigslist.org/view/d/somerset-vintage-hand-saw/gbBp6dawAijEpwRC2qAvzt) | Antique Hand Saw With Carved Wooden Handle and "warranted .. | 70 | 4.67 |
-| <img src="https://images.craigslist.org/00o0o_9wiqMlFuYT3_0CI0t2_300x300.jpg" width="120"> | 7953674065 | $50 | reno | [Vintage Schwinn wheel lot](https://www.craigslist.org/view/d/dayton-vintage-schwinn-wheel-lot/jhYDpJE8LfqJLYbZfHmuNt) | DOND - Vintage Schwinn 26" S-2 painted wheel set / Deal Or . | 230 | 4.6 |
-| <img src="https://images.craigslist.org/01414_aOc7ifP4iAM_0lM0t2_300x300.jpg" width="120"> | 7929167864 | $20 | fresno | [Vintage Wood Nutcracker 11"](https://www.craigslist.org/view/d/fresno-vintage-wood-nutcracker-11/qT7ZXDR1NPyD1MYXfLP3ps) | Function: Operates as a lever nutcracker, where moving the b | 92 | 4.6 |
