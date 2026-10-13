@@ -26,6 +26,13 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-13 (07:10) — Terapeak wave 2 and the eBay bot check
+- 1,100 queries were generated from every entry's Collectible and Top tiers. The first 369 ran (341 comps, 172 entries
+  got top-tier sold data). Then eBay served its "Pardon Our Interruption" bot-check page, so the rest returned nothing.
+  The loop now has to stop on a run of zero-result queries or that page title, and stay under about 300 queries per
+  session (research/terapeak-bulk.md). Indices 369–1099 are still to run.
+- Triage round 3: 250 listings, 2 weak asks. Policy filter now also covers bear claws, eagle feathers and sea turtle.
+
 ### 2026-10-13 (06:30) — the encyclopedia now steers the harvest
 - `scripts/type_model.py`: a naive-Bayes title→type classifier, trained on about 2,500 labelled titles (review
   events, research/types.tsv and entry names). It is rebuilt every harvest cycle. `scoring.score()` adds the predicted

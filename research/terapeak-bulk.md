@@ -32,3 +32,12 @@ Prefer specific identification queries.
   Save to `localStorage` every 10 queries so a reload doesn't lose work.
 - **Queries.** Use specific identification queries ("Hampden pocket watch", "heartring straight razor"). Generic type
   queries ("barware", "sports memorabilia") return new retail goods and unrelated items, so their medians are noise.
+- **eBay bot check (Oct 13).** After about 370 sequential queries (about 30 min at roughly 12/min), the API started
+  returning an HTML page titled "Pardon Our Interruption" (HTTP 200). TPR read that as 0 results, so about 730 queries
+  were wasted.
+  - Stop the loop when 5 queries in a row return n = 0, or when the response text contains "Pardon Our
+    Interruption".
+  - Keep a session to 300 queries or fewer, with at least an hour between sessions.
+  - Never try to solve or bypass the challenge. If it persists, Dylan opens eBay in his own browser and continues
+    normally.
+  - Wave 2 is unfinished: indices 369–1099 of research/tp_queries_wave2.json remain to run.
