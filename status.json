@@ -1,18 +1,18 @@
 {
- "updated": "2026-10-13T06:47:59Z",
+ "updated": "2026-10-13T06:52:04Z",
  "tables": {
   "harvests": 4,
   "searches": 637,
   "listings": 5407,
-  "lens": 2429,
-  "events": 10214,
+  "lens": 2454,
+  "events": 10239,
   "comps": 529,
   "item_types": 777,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 1994,
-  "queued": 3011,
+  "queued": 2986,
   "comps/pass": 1,
   "decided/ask": 28,
   "queued/relens": 309,
@@ -20,8 +20,8 @@
   "decided/kill": 2,
   "comps/fail": 5,
   "decided/find": 7,
-  "lensed": 20,
-  "flagged": 30
+  "lensed": 34,
+  "flagged": 41
  },
  "last_harvests": [
   {
@@ -290,6 +290,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982649909",
+   "title": "Framed Signed Print by Sean Jacobs",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-framed-signed-print-by/kerwh1YreDz6yyT6xjg9TE",
+   "best": "Gallery Direct Sean Jacobs 'Before Time' 2-piece Canvas Art ...",
+   "med": 1350,
+   "ratio": 22.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7953998239",
    "title": "Vintage blue and white Chinese ceramic vase",
    "price": 5,
@@ -334,6 +345,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940295571",
+   "title": "Korean Signed Green Glazed Bottle Vase",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/herndon-korean-signed-green-glazed/fhGAM85ssC8eafHdqGrBDP",
+   "best": "Korean Celadon Bud Vase Sanggam Crane Inlay Crackle Glaze ...",
+   "med": 300,
+   "ratio": 15,
+   "ai_value": ""
+  },
+  {
    "pid": "7948490694",
    "title": "Guitar \"Tito's Handmade Vodka\" Edition Serial #SP171667",
    "price": 100,
@@ -367,6 +389,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932145793",
+   "title": "Vintage 1950's Coral Red Glass Bead Necklace",
+   "price": 20,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-vintage-1950s-coral-red-glass/ekMT2cDpMaiNnqFohkLqo6",
+   "best": "Vintage Red Lucite Silver Tone Bracelet Anklet Paisley Shape ...",
+   "med": 155,
+   "ratio": 7.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7965923544",
    "title": "Vtg Hammered Aluminum Tray and Serving Bowl",
    "price": 12,
@@ -375,6 +408,17 @@
    "best": "Vintage Mid Century Aluminum 2 Matching Farber & Shlevin ...",
    "med": 89,
    "ratio": 7.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930065049",
+   "title": "Vintage 1930's Leitz Slide Projector for Restoration",
+   "price": 50,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-1930s-leitz-slide/jpcnLJuHNjW6P2xRKEvUW7",
+   "best": "Leitz VIII Diaprojector Slide Projector with Leitz-Hektor ...",
+   "med": 333,
+   "ratio": 6.66,
    "ai_value": ""
   },
   {
@@ -411,6 +455,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951119521",
+   "title": "vintage floral print with frame",
+   "price": 50,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/pacific-grove-vintage-floral-print-with/jFc8RR2DNjAhfPEVdstM5S",
+   "best": "Vintage Floral Still Life Large Framed Elmer Greene Print ...",
+   "med": 260,
+   "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7954452583",
    "title": "Camera lot",
    "price": 60,
@@ -433,6 +488,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7946635119",
+   "title": "All of these impeccable antique VASES for $29 each",
+   "price": 29,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/plano-all-of-these-impeccable-antique/ehATemi574PBHC4Fps4cC4",
+   "best": "VTG HAND PAINTED FLOWERS ON FROSTED AMETHYST GLASS PEDESTAL ...",
+   "med": 135,
+   "ratio": 4.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975278795",
+   "title": "Vintage Rubiks Cubes",
+   "price": 15,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/roseville-vintage-rubiks-cubes/7Sek9SDbX3pChYV5KCBuHN",
+   "best": "Vintage 80's Magic Ball Round Circular Rubiks \"Cube\" Toy ...",
+   "med": 68,
+   "ratio": 4.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7947254950",
    "title": "antique belt buckle with turquoise",
    "price": 20,
@@ -444,6 +521,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971299454",
+   "title": "Vintage Smokeglass Pitcher",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/cedar-park-vintage-smokeglass-pitcher/8cX5nmoKUjTAKUJHarcArk",
+   "best": "Medium Vintage Smokey Brown Glass Pitcher - Etsy",
+   "med": 100,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7952031238",
    "title": "Vintage Murano Amber Glass Bowl/Dish",
    "price": 85,
@@ -452,6 +540,17 @@
    "best": "STUNNING! Vintage MURANO Style Art Glass AMBER GOLD Candy ...",
    "med": 332,
    "ratio": 3.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952425613",
+   "title": "BRACELET. Vintage \"Goldette\" Slide Chain Bracelet. 1960s. 9\" Long.",
+   "price": 55,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-bracelet-vintage-goldette/rJH9oNGH4GwveGXtbwEzuh",
+   "best": "25+ Antique Slide Bracelet In Victorian & Edwardian Fine ...",
+   "med": 190,
+   "ratio": 3.45,
    "ai_value": ""
   },
   {
@@ -521,6 +620,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952622885",
+   "title": "ANTIQUE CHINESE OLD HANDCARVED SNUFF BOTTLE",
+   "price": 79,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/temple-antique-chinese-old-handcarved/5gVEhR22RNf5JYUWJQHdZG",
+   "best": "Asian Carved Snuff Bottle With People Dragons Animals - Etsy",
+   "med": 119,
+   "ratio": 1.51,
+   "ai_value": ""
+  },
+  {
    "pid": "7946630061",
    "title": "Old camera",
    "price": 65,
@@ -529,6 +639,17 @@
    "best": "Agfa Billy Record 4.5 Folding Camera Anastigmat Apotar 1:4.5 ...",
    "med": 90,
    "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956245521",
+   "title": "ANTIQUE BRASS SADDLE HORN",
+   "price": 75,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-antique-brass-saddle-horn/dd9ewaiTXVpJLWDmzKJd8h",
+   "best": "Rare 1870s steel fork for roping",
+   "med": 97,
+   "ratio": 1.29,
    "ai_value": ""
   },
   {

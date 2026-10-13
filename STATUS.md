@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T06:47:59Z
+# Refurbish status — 2026-10-13T06:52:04Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,12 +6,12 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 3011 |
+| queued | 2986 |
 | photo_review/kill | 1994 |
 | queued/relens | 309 |
-| flagged | 30 |
+| flagged | 41 |
+| lensed | 34 |
 | decided/ask | 28 |
-| lensed | 20 |
 | decided/find | 7 |
 | comps/fail | 5 |
 | decided/kill | 2 |
@@ -23,8 +23,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 4
 - searches: 637
 - listings: 5407
-- lens: 2429
-- events: 10214
+- lens: 2454
+- events: 10239
 - comps: 529
 - item_types: 777
 - runs: 0
@@ -76,7 +76,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00o0o_7CuhamuXq1g_0CI0t2_300x300.jpg" width="160"> | [Large Antique Steam Gauge](https://www.craigslist.org/view/d/highlands-large-antique-steam-gauge/etB54kpBK9fxV6EFG9mFWX) | $25 | jerseyshore | **decided/ask** — Ashton Valve Co. Boston 10.5 in brass 'Standard Test Gage' 0-500 psi, missing glass, red-painted back. No entry or comps. Large brass test gauges sell to steampunk/industrial buyers ~$100-200, but ship is heavy (~$25 eac |
 | <img src="https://images.craigslist.org/00U0U_id0sXmKkDvf_0CI0t2_300x300.jpg" width="160"> | [Old Coleman Empire Lantern](https://www.craigslist.org/view/d/bloomingdale-old-coleman-empire-lantern/nQFrLmBT5FsMtu4sNNumgf) | $15 | plattsburgh | **decided/ask** — Nickel-plated fount, red ventilator, red valve knob, fretwork burner guard, Pyrex globe; title says 'Coleman Empire'. Fount bottom photo shows no readable stamp. If it is a 1930s-40s nickel 242/243 class lantern, it sell |
 
-## Flagged by Lens, waiting for photo review (30)
+## Flagged by Lens, waiting for photo review (41)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -87,28 +87,39 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00909_1TDQ9FQnn1s_0CI0t2_300x300.jpg" width="120"> | 7953802005 | $1 | tulsa | [Assorted Vintage China Serving Pieces](https://www.craigslist.org/view/d/tulsa-assorted-vintage-china-serving/dPmymRHqrw4eitr8SRuK1K) | Antique Covered Serving Dish Rose Pattern J&G Meakin Hanley  | 65 | 65 |
 | <img src="https://images.craigslist.org/00a0a_d715QXuiD1m_0850bM_300x300.jpg" width="120"> | 7967896599 | $200 | salem | [Standing Budha](https://www.craigslist.org/view/d/salem-standing-budha/xdAhHawdSTP7bxdRtfNpjb) | Vintage Green and Gilded Wood Carved Sculpture of a Thai ... | 12578 | 62.89 |
 | <img src="https://images.craigslist.org/00o0o_jirUD98TXwu_0mA0r6_300x300.jpg" width="120"> | 7981419624 | $15 | washingtondc | [Old picture frame](https://www.craigslist.org/view/d/washington-old-picture-frame/ahrvMydLA6HNjkwnzpeRLL) | 19th century large ornate Carved Gilt wood Frame - c1860s .. | 580 | 38.67 |
+| <img src="https://images.craigslist.org/00h0h_31G2yYyzJXc_0CI0t2_300x300.jpg" width="120"> | 7982649909 | $60 | sfbay | [Framed Signed Print by Sean Jacobs](https://www.craigslist.org/view/d/san-francisco-framed-signed-print-by/kerwh1YreDz6yyT6xjg9TE) | Gallery Direct Sean Jacobs 'Before Time' 2-piece Canvas Art  | 1350 | 22.5 |
 | <img src="https://images.craigslist.org/00N0N_jhtA83WLqD7_0od0t2_300x300.jpg" width="120"> | 7953998239 | $5 | losangeles | [Vintage blue and white Chinese ceramic vase](https://www.craigslist.org/view/d/los-angeles-vintage-blue-and-white/87Z1ozeUEKGwRmYKEPoyJM) | Blue and White Asian Style Floral Designed Vase / eBay | 95 | 19 |
 | <img src="https://images.craigslist.org/01717_ikskBrHw6tt_0CI0t2_300x300.jpg" width="120"> | 7953546060 | $10 | chicago | [Hang picture](https://www.craigslist.org/view/d/downers-grove-hang-picture/oWy9q1iw8npKxZnj4aYifM) | Beautiful Signed & Framed Robert Cox Oil Painting 27x24 ... | 180 | 18 |
 | <img src="https://images.craigslist.org/01717_g8bfKCeHkCX_0wg0o7_300x300.jpg" width="120"> | 7971752520 | $45 | jacksonville | [VINTAGE AMERICAN EXPRESSIONIST WATERCOLOR LANDSCAP](https://www.craigslist.org/view/d/kingsland-vintage-american/i6AQ1g6RqfarRpjWbvRSks) | Vintage Ireland Painting Wall Art Set/original Gauche ... | 750 | 16.67 |
 | <img src="https://images.craigslist.org/00000_dHvASSn6ncG_0jm0pO_300x300.jpg" width="120"> | 7945139348 | $10 | sandiego | [VINTAGE METAL SIGNS](https://www.craigslist.org/view/d/oceanside-vintage-metal-signs/pNV2dwS3aFzofD3kwXKqf8) | ALL STAR KOLA 1994 U.S.A. Pubblicità insegna latta / eBay | 150 | 15 |
+| <img src="https://images.craigslist.org/00g0g_iwyWG7dyXFm_0aT0ew_300x300.jpg" width="120"> | 7940295571 | $20 | washingtondc | [Korean Signed Green Glazed Bottle Vase](https://www.craigslist.org/view/d/herndon-korean-signed-green-glazed/fhGAM85ssC8eafHdqGrBDP) | Korean Celadon Bud Vase Sanggam Crane Inlay Crackle Glaze .. | 300 | 15 |
 | <img src="https://images.craigslist.org/00202_hh1tOU79mpI_0c40t2_300x300.jpg" width="120"> | 7948490694 | $100 | seattle | [Guitar "Tito's Handmade Vodka" Edition Serial #SP1](https://www.craigslist.org/view/d/monroe-guitar-titos-handmade-vodka/xeHX2ivNkNt5Embj1hZRSE) | Charitybuzz: Bert "Tito" Beveridge Signed Tito's Handmade .. | 1400 | 14 |
 | <img src="https://images.craigslist.org/00202_9q0MjAHLMPB_1l610k_300x300.jpg" width="120"> | 7960432437 | $30 | sfbay | [Exquisite Pottery](https://www.craigslist.org/view/d/menlo-park-exquisite-pottery/sfMzsZ7TYcLuPm6X2HGthq) | Handmade Pottery Creamer Signed by Dave 5.25" x 3" / eBay | 420 | 14 |
 | <img src="https://images.craigslist.org/00L0L_N5sskxUB5C_0t20CI_300x300.jpg" width="120"> | 7937856437 | $40 | wichita | [Antique Seed Drill End Plate](https://www.craigslist.org/view/d/wichita-antique-seed-drill-end-plate/5WHcp8Y1YMwHX98haDXJ8x) | Country Lane Antiques / Lowell IN | 350 | 8.75 |
+| <img src="https://images.craigslist.org/00101_6sbZ8jKeROm_0CI0t2_300x300.jpg" width="120"> | 7932145793 | $20 | columbus | [Vintage 1950's Coral Red Glass Bead Necklace](https://www.craigslist.org/view/d/columbus-vintage-1950s-coral-red-glass/ekMT2cDpMaiNnqFohkLqo6) | Vintage Red Lucite Silver Tone Bracelet Anklet Paisley Shape | 155 | 7.75 |
 | <img src="https://images.craigslist.org/00D0D_8yUKJmWLAly_0t20CI_300x300.jpg" width="120"> | 7965923544 | $12 | cedarrapids | [Vtg Hammered Aluminum Tray and Serving Bowl](https://www.craigslist.org/view/d/lisbon-vtg-hammered-aluminum-tray-and/hLWpcuSJRsmYh5TThgm7DT) | Vintage Mid Century Aluminum 2 Matching Farber & Shlevin ... | 89 | 7.42 |
+| <img src="https://images.craigslist.org/00V0V_dfuPtKz4yZB_0ak07K_300x300.jpg" width="120"> | 7930065049 | $50 | kansascity | [Vintage 1930's Leitz Slide Projector for Restorati](https://www.craigslist.org/view/d/shawnee-vintage-1930s-leitz-slide/jpcnLJuHNjW6P2xRKEvUW7) | Leitz VIII Diaprojector Slide Projector with Leitz-Hektor .. | 333 | 6.66 |
 | <img src="https://images.craigslist.org/00404_cc6xLTxFXS2_0t20CI_300x300.jpg" width="120"> | 7940752202 | $95 | sfbay | [Fine Artist ---- Decorated Vase](https://www.craigslist.org/view/d/menlo-park-fine-artist-decorated-vase/uV6FcMyJasEvQfbTAB1ipW) | RARE Cedar Key Pottery Catherine Graham Christie Fisher ... | 629 | 6.62 |
 | <img src="https://images.craigslist.org/00Q0Q_aERrhxqH2d6_0de09U_300x300.jpg" width="120"> | 7955894570 | $75 | sfbay | [Vintage Hand Painted Chinese Decorative Jar/Vase](https://www.craigslist.org/view/d/oakland-vintage-hand-painted-chinese/ctdN2eDZBdmXGi6uZtW2oV) | Vintage Lotus Flower Pattern Ginger Jar Beautiful Hand ... | 495 | 6.6 |
 | <img src="https://images.craigslist.org/00a0a_9dtDC7Soqej_03S05a_300x300.jpg" width="120"> | 7956638012 | $30 | sarasota | [Antique- Middle East (Turkish) Brass Coffee/Tea Po](https://www.craigslist.org/view/d/sarasota-antique-middle-east-turkish/jX6k6LMD93B9FdJJDy8gjJ) | Saudi Arabian Dallah Coffee Pot Brass Hand Hammered 15” high | 165 | 5.5 |
+| <img src="https://images.craigslist.org/00Z0Z_iJbq1jdZzqY_0ak07K_300x300.jpg" width="120"> | 7951119521 | $50 | monterey | [vintage floral print with frame](https://www.craigslist.org/view/d/pacific-grove-vintage-floral-print-with/jFc8RR2DNjAhfPEVdstM5S) | Vintage Floral Still Life Large Framed Elmer Greene Print .. | 260 | 5.2 |
 | <img src="https://images.craigslist.org/00p0p_ebe6fqrXqd8_0lM0t2_300x300.jpg" width="120"> | 7954452583 | $60 | spacecoast | [Camera lot](https://www.craigslist.org/view/d/melbourne-camera-lot/m4aEDydeD921HqX6X3BRQT) | Nikon EM Film Camera + Series E Zoom 36-72mm F/3.5 Lens + .. | 300 | 5 |
 | <img src="https://images.craigslist.org/00i0i_bCqnxj5W0jp_08K08K_300x300.jpg" width="120"> | 7947991538 | $100 | phoenix | [ARTIST-SIGNED GREENLEAF ARIZONA LANDSCAPE WATERCOL](https://www.craigslist.org/view/d/cave-creek-artist-signed-greenleaf/1hpgHdsyVpbEfdno98oZEJ) | Lithograph Sunset Woods - Etsy | 495 | 4.95 |
+| <img src="https://images.craigslist.org/00t0t_gqxMKMWOUYr_0ox0t2_300x300.jpg" width="120"> | 7946635119 | $29 | dallas | [All of these impeccable antique VASES for $29 each](https://www.craigslist.org/view/d/plano-all-of-these-impeccable-antique/ehATemi574PBHC4Fps4cC4) | VTG HAND PAINTED FLOWERS ON FROSTED AMETHYST GLASS PEDESTAL  | 135 | 4.66 |
+| <img src="https://images.craigslist.org/00j0j_fy1jCMe9ks6_0dr0t2_300x300.jpg" width="120"> | 7975278795 | $15 | sacramento | [Vintage Rubiks Cubes](https://www.craigslist.org/view/d/roseville-vintage-rubiks-cubes/7Sek9SDbX3pChYV5KCBuHN) | Vintage 80's Magic Ball Round Circular Rubiks "Cube" Toy ... | 68 | 4.53 |
 | <img src="https://images.craigslist.org/00404_j1hAyNWIPgd_0rt0t2_300x300.jpg" width="120"> | 7947254950 | $20 | medford | [antique belt buckle with turquoise](https://www.craigslist.org/view/d/grants-pass-antique-belt-buckle-with/6G1Ryo4AtYFgzgCvxzey4X) | Antique 19thC Chinese Ornate Filigree Jeweled Caryatid ... | 89 | 4.45 |
+| <img src="https://images.craigslist.org/00n0n_hoTca5sEdPY_0lM0t2_300x300.jpg" width="120"> | 7971299454 | $25 | austin | [Vintage Smokeglass Pitcher](https://www.craigslist.org/view/d/cedar-park-vintage-smokeglass-pitcher/8cX5nmoKUjTAKUJHarcArk) | Medium Vintage Smokey Brown Glass Pitcher - Etsy | 100 | 4 |
 | <img src="https://images.craigslist.org/00X0X_7awEMN6k0H0_0aT0ew_300x300.jpg" width="120"> | 7952031238 | $85 | tampa | [Vintage Murano Amber Glass Bowl/Dish](https://www.craigslist.org/view/d/spring-hill-vintage-murano-amber-glass/jdSpBh9mBQgFGU25DxsQyd) | STUNNING! Vintage MURANO Style Art Glass AMBER GOLD Candy .. | 332 | 3.91 |
+| <img src="https://images.craigslist.org/00U0U_gKclMO5OAnl_0kD0ey_300x300.jpg" width="120"> | 7952425613 | $55 | santabarbara | [BRACELET. Vintage "Goldette" Slide Chain Bracelet.](https://www.craigslist.org/view/d/santa-barbara-bracelet-vintage-goldette/rJH9oNGH4GwveGXtbwEzuh) | 25+ Antique Slide Bracelet In Victorian & Edwardian Fine ... | 190 | 3.45 |
 | <img src="https://images.craigslist.org/00303_2V5aZJ8e25u_0t20CI_300x300.jpg" width="120"> | 7956170841 | $40 | tampa | [Vintage Test Equipment "Electrometer"](https://www.craigslist.org/view/d/palm-harbor-vintage-test-equipment/u8TJRUzU12di5QAkXQnVw2) | Leeds & Northrup Co Potentiometer / eBay | 120 | 3 |
 | <img src="https://images.craigslist.org/00N0N_6bEnVhej7Gj_0t20CI_300x300.jpg" width="120"> | 7965398709 | $45 | orangecounty | [Vintage Chocolate Pot](https://www.craigslist.org/view/d/mission-viejo-vintage-chocolate-pot/pLZwyhfLweE1dnLL7vax2f) | Hand Painted Chocolate - Tea Pot - Blue Gold Pink Yellow ... | 119 | 2.64 |
 | <img src="https://images.craigslist.org/00I0I_9JCn9qIQTpU_0CI0t2_300x300.jpg" width="120"> | 7930867565 | $40 | seattle | [Vintage Boy Scout Lot, Local Cashmere 1960s Shirts](https://www.craigslist.org/view/d/bothell-vintage-boy-scout-lot-local/s9dDSApYshtbTD6AbQsiCx) | Vintage 1950s Boy Scout Official Uniform Shirt S Jubilee ... | 86 | 2.15 |
 | <img src="https://images.craigslist.org/00C0C_3jL7eLsuHxq_08K08K_300x300.jpg" width="120"> | 7947544303 | $75 | phoenix | [VINTAGE LORRAINE TRESTER ENAMEL COPPER ART PAINTIN](https://www.craigslist.org/view/d/cave-creek-vintage-lorraine-trester/hXsCABsJSCwVHVBv22c7AX) | Lorraine Trester Enamel On Copper Painting Art Girl On Lake  | 150 | 2 |
 | <img src="https://images.craigslist.org/00p0p_hwtaVr5IjiT_0jo0ku_300x300.jpg" width="120"> | 7966560180 | $55 | nh | [Antique Stoneware Pot with Lid](https://www.craigslist.org/view/d/henniker-antique-stoneware-pot-with-lid/uSPG8rCJbSQqM6p33MM4ak) | Brown and White Crock / eBay | 100 | 1.82 |
 | <img src="https://images.craigslist.org/00303_c5MWSbNkH32_0CI0lN_300x300.jpg" width="120"> | 7951164400 | $195 | chicago | [Oil painting Signed Framed OOC Vintage mid-century](https://www.craigslist.org/view/d/midlothian-oil-painting-signed-framed/t3Xv1PeFYp7xj2LWrQULgL) | Digital Download / Absolute Beautiful Blue Iris Flowers ... | 300 | 1.54 |
+| <img src="https://images.craigslist.org/00k0k_jyTYsBrL9O8_0CI0t2_300x300.jpg" width="120"> | 7952622885 | $79 | dallas | [ANTIQUE CHINESE OLD HANDCARVED SNUFF BOTTLE](https://www.craigslist.org/view/d/temple-antique-chinese-old-handcarved/5gVEhR22RNf5JYUWJQHdZG) | Asian Carved Snuff Bottle With People Dragons Animals - Etsy | 119 | 1.51 |
 | <img src="https://images.craigslist.org/00101_8Ja1aIt8sCP_0g00t2_300x300.jpg" width="120"> | 7946630061 | $65 | mohave | [Old camera](https://www.craigslist.org/view/d/lake-havasu-city-old-camera/n5tyyU98LMVuNKPDdZv47W) | Agfa Billy Record 4.5 Folding Camera Anastigmat Apotar 1:4.5 | 90 | 1.38 |
+| <img src="https://images.craigslist.org/00W0W_gwKuGQjh5FS_0t20CI_300x300.jpg" width="120"> | 7956245521 | $75 | austin | [ANTIQUE BRASS SADDLE HORN](https://www.craigslist.org/view/d/austin-antique-brass-saddle-horn/dd9ewaiTXVpJLWDmzKJd8h) | Rare 1870s steel fork for roping | 97 | 1.29 |
 | <img src="https://images.craigslist.org/00G0G_baMtjhjtZMA_0Mo12w_300x300.jpg" width="120"> | 7931689297 | $100 | tampa | [vintage Schiaparelli hat](https://www.craigslist.org/view/d/spring-hill-vintage-schiaparelli-hat/55zRgCQPKr54wAjPyAjM5V) | White Feather Fascinator Clip, Le Diner En Blanc Fascinator  | 85 | 0.85 |
 | <img src="https://images.craigslist.org/00R0R_hgCxVaxhcU4_0lM0t2_300x300.jpg" width="120"> | 7960470552 | $125 | washingtondc | [Antique Russian Porcelain Coffee/Tea Server circa ](https://www.craigslist.org/view/d/college-park-antique-russian-porcelain/oxitU35CvKDpNbrMuwkFXs) | Kuznetsov zarafeti... 1860-1890 yılları arası büyük boy ... | None | None |
 | <img src="https://images.craigslist.org/00W0W_kiqr3xf3PVh_0lN0CI_300x300.jpg" width="120"> | 7951022063 | $60 | eugene | [NEW VINTAGE CAMEL ZIPPO LIGHTERS](https://www.craigslist.org/view/d/springfield-new-vintage-camel-zippo/nVbzVqZQiKXEvZAKqkMQ1X) | Vintage Zippo 1992 Camel Tombstone Lighter Rider / RARE ... | None | None |
