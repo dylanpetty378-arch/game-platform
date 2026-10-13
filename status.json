@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-13T03:13:28Z",
+ "updated": "2026-10-13T03:18:41Z",
  "tables": {
   "harvests": 3,
   "searches": 1,
   "listings": 4607,
-  "lens": 1079,
-  "events": 6328,
+  "lens": 1104,
+  "events": 6353,
   "comps": 12,
   "item_types": 1,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 414,
-  "queued": 3562,
-  "lensed": 368,
+  "queued": 3537,
+  "lensed": 387,
   "comps/pass": 1,
   "queued/relens": 197,
   "decided/pass": 1,
   "decided/ask": 4,
   "comps/fail": 6,
   "decided/find": 6,
-  "flagged": 50
+  "flagged": 56
  },
  "last_harvests": [
   {
@@ -267,6 +267,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949862325",
+   "title": "Lunch box 1982 Native American Theme-Vintage",
+   "price": 19,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-lunch-box-1982-native/ryTVmnYrpTEZdV9j1JuUmF",
+   "best": "1955 Wild Bill Hickok And Jingles Metal Lunchbox - No Thermos",
+   "med": 165,
+   "ratio": 8.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7944016859",
    "title": "Antique milk can with lid",
    "price": 25,
@@ -286,6 +297,17 @@
    "best": "Plaza Carriages | 16\u201dx12\u201d Lithograph | SOLD | J R Hamil",
    "med": 650,
    "ratio": 8.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950898891",
+   "title": "Jean L Barton lithograph",
+   "price": 25,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-jean-barton-lithograph/9tYs71dLm8M6aXceyciNe9",
+   "best": "Jean L. Barton | Wall Decor | Historic Cape May Lighthouse ...",
+   "med": 200,
+   "ratio": 8,
    "ai_value": ""
   },
   {
@@ -407,6 +429,17 @@
    "best": "Google",
    "med": 150,
    "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957680098",
+   "title": "Vintage Oval English Gathering Basket- Great Patina",
+   "price": 45,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-oval-english-gathering/tuWYkwHv2gPqUUmnL3BmyA",
+   "best": "Craigslist",
+   "med": 165,
+   "ratio": 3.67,
    "ai_value": ""
   },
   {
@@ -564,6 +597,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7957735178",
+   "title": "Antique Brass Pepper Mill/Coffee Grinder Greek",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/antique-brass-pepper-mill-coffee/5QTK75NgwNJU2w2wrMncpD",
+   "best": "Vintage Turkish Brass Coffee Mill with Etched Details - On ...",
+   "med": 91,
+   "ratio": 2.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981221795",
+   "title": "Antique brass lamp with statue",
+   "price": 85,
+   "area": "duluth",
+   "url": "https://www.craigslist.org/view/d/duluth-antique-brass-lamp-with-statue/7DhWQmqxCzZkdbCARTzP3m",
+   "best": "eBay",
+   "med": 180,
+   "ratio": 2.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7973611005",
    "title": "Vintage Glass Oil Lamp with Hurricane Chimney-$40",
    "price": 40,
@@ -627,6 +682,17 @@
    "best": "Pinterest",
    "med": 202,
    "ratio": 1.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982493606",
+   "title": "War Ship Photograph",
+   "price": 55,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-war-ship-photograph/7uvvtZuoMrkr46v1w9HgXM",
+   "best": "Antique Nautical Poster,vintage Tall Ship Wall Art ...",
+   "med": 80,
+   "ratio": 1.45,
    "ai_value": ""
   },
   {
