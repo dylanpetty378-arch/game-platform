@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T17:49:07Z",
+ "updated": "2026-10-13T17:52:44Z",
  "tables": {
   "harvests": 7,
   "searches": 1727,
   "listings": 7807,
-  "lens": 6503,
-  "events": 21573,
+  "lens": 6528,
+  "events": 21598,
   "comps": 1561,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 6698,
-  "lensed": 223,
+  "lensed": 231,
   "comps/pass": 1,
-  "queued/relens": 192,
+  "queued/relens": 197,
   "decided/ask": 51,
   "decided/kill": 8,
   "decided/pass": 1,
-  "flagged": 262,
+  "flagged": 274,
   "comps/fail": 5,
   "expired": 8,
   "decided/find": 9,
-  "queued": 350
+  "queued": 325
  },
  "last_harvests": [
   {
@@ -380,6 +380,17 @@
    "best": "Buy BIG 75+ Carat Cushion Cut Solitaire Party Cz Ring Vivid ...",
    "med": 176000,
    "ratio": 3200,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957538813",
+   "title": "Vintage 6 3/8\" Ceramic Saucer, Japan",
+   "price": 5,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-ceramic-saucer-japan/iv3KW6yZP7vvHXoU5Bf6yA",
+   "best": "Alfred Meakin Saucers - Etsy Canada",
+   "med": 4331,
+   "ratio": 866.2,
    "ai_value": ""
   },
   {
@@ -1186,6 +1197,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935486563",
+   "title": "2 Gorgeous Vintage Dishes",
+   "price": 10,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-gorgeous-vintage-dishes/faAfCt9skNUdgWCQkMBdjt",
+   "best": "Weimar Germany Porcelain Serving Dish Tray Antique Pink ...",
+   "med": 49,
+   "ratio": 4.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7981524750",
    "title": "VINTAGE BRASS ROOSTER",
    "price": 35,
@@ -1271,6 +1293,17 @@
    "best": "Timex T20471 Men's Easy Reader Watch 48148204713| eBay",
    "med": 65,
    "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940242431",
+   "title": "Climbing Belt - Vintage",
+   "price": 25,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/lake-worth-climbing-belt-vintage/1nTJJegqqubhHvTSB64DQz",
+   "best": "VTG Date 11-78 RIGHT 20 Bell System E Buckingham Utility ...",
+   "med": 108,
+   "ratio": 4.32,
    "ai_value": ""
   },
   {
@@ -1560,6 +1593,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932266365",
+   "title": "Vintage Cundy Bettoney co. Clarinet",
+   "price": 75,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/new-berlin-vintage-cundy-bettoney-co/cRztEXX1SqANyRf42hxsUw",
+   "best": "Antique S# WW197 Early H.N. White Co Cleveland Oh American ...",
+   "med": 247,
+   "ratio": 3.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7946736997",
    "title": "Antique Kieninger&Obergfell glass domed clock",
    "price": 75,
@@ -1666,6 +1710,28 @@
    "url": "https://www.craigslist.org/view/d/chino-valley-porcelain-canister/bjBKzgA3Fe25BwCEURzaNg",
    "best": "25+ Japan Biscuit Jar Made In Art Pottery for sale | Updated ...",
    "med": 135,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930578994",
+   "title": "Vintage Voigtl\u00e4nder Folding Camera",
+   "price": 100,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/mount-laurel-vintage-voigtlnder-folding/fSfuEEL7FzaVZPRvcjDiYF",
+   "best": "Voigtlander AVUS 9x12 Folding Plate Camera Skopar 1:4.5 F ...",
+   "med": 300,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951223043",
+   "title": "Collection of Vintage and Antiquarian Framed and Loose Photographs",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/beverly-collection-of-vintage-and/bkr2ZU3v7t6q4TLj2rENaZ",
+   "best": "Portraits of Families Vintage Black & White Photo Lot ...",
+   "med": 30,
    "ratio": 3,
    "ai_value": ""
   },
@@ -1934,6 +2000,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981664445",
+   "title": "Vintage Ray Cutright Oil Hardened Persimmon Driver",
+   "price": 20,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/jacksonville-vintage-ray-cutright-oil/dYdBfcgHYLVBEfUnTjhsih",
+   "best": "VINTAGE MacGregor Oil Hardened Jack Nicklaus Muirfield ...",
+   "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955159417",
    "title": "Vintage Copper Bucket",
    "price": 40,
@@ -2140,6 +2217,17 @@
    "best": "Top Print: \"The Road Along the Cove\" / \"A Bermudan View\" \u2014 Depicts a sunny coastal road with tropical foliage,",
    "med": 120,
    "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955725602",
+   "title": "Large Mermaid Statue",
+   "price": 50,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-large-mermaid-statue/azmyuTFJ1g1HConGBgUPxw",
+   "best": "Tiki Mug: Tiki-A-Go-Go 2026 Event Mug - Orange Seahorse ...",
+   "med": 99,
+   "ratio": 1.98,
    "ai_value": ""
   },
   {
@@ -2682,6 +2770,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956746903",
+   "title": "pair of vintage Chinese resin figures",
+   "price": 135,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/boyertown-pair-of-vintage-chinese-resin/4dvCSPvJ5Z8KyY8romfCi4",
+   "best": "Chinese Emperor And Empress Figurines. Carved Resin, Wood ...",
+   "med": 150,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7973912457",
    "title": "Vintage bongos",
    "price": 45,
@@ -2880,6 +2979,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958733567",
+   "title": "Vintage/Sheaffer Targa #1003 Fountain Pen",
+   "price": 90,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-sheaffer-targa-1003/n2UCBxfm5h5VeJn2hHzNhw",
+   "best": "Sheaffer Imperial Fountain Pen Palladium Medium Nib Gold ...",
+   "med": 70,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7971008979",
    "title": "Vintage Lot of Disneykins Marx Collectibles",
    "price": 30,
@@ -2931,6 +3041,17 @@
    "url": "https://www.craigslist.org/view/d/jamestown-antique-glass-paperwights/bGXyDKCA7YicwqhZaLwNLX",
    "best": "WorthPoint",
    "med": 30,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976720295",
+   "title": "Western stoneware",
+   "price": 75,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-peters-western-stoneware/qzKqRL3WDs36LZGxyHAiH8",
+   "best": "Early 20th Century Western Stoneware 1 Gallon Maple Leaf ...",
+   "med": 50,
    "ratio": 0.67,
    "ai_value": ""
   },
@@ -3053,6 +3174,17 @@
    "best": "Vintage H&K Tunstall Creamer Petit Point Floral Gold Trim ...",
    "med": 18,
    "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955806147",
+   "title": "Red Garnet & Coral Marked 925 Sterling Jewelry Ring. 5.3+ grams Size 6.5 (US).",
+   "price": 34,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/lightfoot-red-garnet-coral-marked-925/kZWNexUuT4MSN2Pvx2R263",
+   "best": "925 Sterling Silver Ruby Quartz Gemstone Women Statement ...",
+   "med": 12,
+   "ratio": 0.35,
    "ai_value": ""
   },
   {
