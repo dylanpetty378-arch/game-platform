@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Refurbish Lens worker
 // @namespace    refurbish
-// @version      1.2.0
+// @version      1.3.0
 // @description  Runs Google Lens on the Refurbish queue in ONE dedicated tab, one fresh page per listing (memory never builds up), saves every result immediately, uploads them to the database in batches.
 // @match        https://www.google.com/robots.txt?refurb*
 // @match        https://www.google.com/search*
@@ -48,7 +48,7 @@
     const a = t.indexOf('AI Overview'); let ai = ''; if (a >= 0) ai = t.slice(a + 11, a + 600).replace(/\n+/g, ' ').replace(/AI Mode replied:\s*/, '').trim();
     const v = t.indexOf('Visual matches'); const rows = [];
     if (v >= 0) {
-      const ls = t.slice(v + 14).split('\n').map(x => x.trim()).filter(x => x && !/^(Feedback|Search Results|AI Overview|Exact matches|Visual matches|All|AI Mode|Show all|See more|Thinking|Searching|Thinking a little longer|Shared|0 files|In stock|Out of stock|Related search(es)?)$/.test(x) && !/^\d\.\d\(/.test(x));
+      const ls = t.slice(v + 14).split('\n').map(x => x.trim()).filter(x => x && !/^(Feedback|Search Results|AI Overview|Exact matches|Visual matches|All|AI Mode|Show all|See more|Thinking|Searching|Thinking a little longer|Shared|0 files|In stock|Out of stock|Related search(es)?)$/.test(x) && !/^\d\.\d\(/.test(x) && !/^\+\d+$/.test(x) && !/^s-l\d+\.(jpg|png|webp)$/i.test(x));
       let price = null, src = null;
       for (const l of ls.slice(0, 80)) {
         const pm = l.match(/^\$([\d,.]+)\*?$/); if (pm) { price = parseFloat(pm[1].replace(/,/g, '')); continue; }
@@ -59,7 +59,7 @@
     const sec = rows.filter(r => SECOND.test(r.src) && !/craigslist/i.test(r.src));
     const prices = sec.map(r => r.price).filter(p => p > 0).sort((x, y) => x - y);
     const med = prices.length ? prices[Math.floor(prices.length / 2)] : null;
-    const best = (rows.find(r => !/craigslist/i.test(r.src) && !/^(Key|Material|Design|Type)/.test(r.title)) || rows[0] || {}).title || '';
+    const best = (rows.find(r => !/craigslist/i.test(r.src) && !/^(\+\d|Key |Key$|Material|Design|Type|Dimensions|Brand|Model|If you|Shared)/.test(r.title)) || rows[0] || {}).title || '';
     const aiVal = (ai.match(/(sell|sold|value|worth|price)[^.]{0,80}?\$[\d,]+(?:\s*(?:to|-|–)\s*\$?[\d,]+)?/i) || [''])[0];
     return { ai: ai.slice(0, 500), best, med, n: prices.length, collect: rows.some(r => COLLECT.test(r.src)), aiVal, srcs: [...new Set(rows.map(r => r.src))].slice(0, 8).join(','), rows: rows.slice(0, 15) };
   }
