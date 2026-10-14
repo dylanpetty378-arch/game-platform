@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T23:02:23Z",
+ "updated": "2026-10-14T23:08:19Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9874,
-  "events": 33490,
+  "lens": 9899,
+  "events": 33515,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 178,
-  "flagged": 1418,
-  "lensed": 468
+  "queued": 153,
+  "flagged": 1436,
+  "lensed": 475
  },
  "last_harvests": [
   {
@@ -828,6 +828,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954287250",
+   "title": "Fashion Gold Dragon Fly Cubic Zirconia Earrings",
+   "price": 35,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-gold-dragon-fly/mPBJfZ11LRSVdSsRqhrwji",
+   "best": "Rhinestone And Crystal Jewelry Shop By | Trendy Wholesale",
+   "med": 2977,
+   "ratio": 85.06,
+   "ai_value": ""
+  },
+  {
    "pid": "7938027882",
    "title": "Vintage Sterling Silver Camphor Glass Pendant Victorian? Art Deco",
    "price": 20,
@@ -1499,6 +1510,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979606565",
+   "title": "Colonial Williamsburg Collection",
+   "price": 20,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/palmetto-colonial-williamsburg/xs5ukfUJqz7fdr3XXtrXyC",
+   "best": "Global Views Colonial Williamsburg Large Deep Blue Ginger ...",
+   "med": 500,
+   "ratio": 25,
+   "ai_value": ""
+  },
+  {
    "pid": "7938276883",
    "title": "3 new sterling silver rings size 7",
    "price": 100,
@@ -1573,6 +1595,17 @@
    "best": "Vtg Gold Plate Flatware Set 86 Pc Wooden Box GOLDEN BOUQUET ...",
    "med": 572,
    "ratio": 22.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947026842",
+   "title": "Vintage Oil Painting Red Sailed Ship",
+   "price": 80,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/bandon-vintage-oil-painting-red-sailed/h3f4rybFTk7DzUH2b8aQHn",
+   "best": "Norsemen Art - Etsy",
+   "med": 1825,
+   "ratio": 22.81,
    "ai_value": ""
   },
   {
@@ -2379,6 +2412,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967433264",
+   "title": "Chinese Porcelain Plates",
+   "price": 10,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/detroit-chinese-porcelain-plates/fpS4A6xH9zU3D3qRJz5xY7",
+   "best": "Imperial Jingdezhen Beauties of the Red Mansion Series- Set ...",
+   "med": 125,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7983264771",
    "title": "1960s Swank cufflink collection",
    "price": 12,
@@ -2585,6 +2629,17 @@
    "best": "Las mejores ofertas en Gibson Les Paul Epiphone 6 Cuerdas ...",
    "med": 1115,
    "ratio": 11.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945100736",
+   "title": "Floral original oil paintings",
+   "price": 15,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-floral-original-oil-paintings/aksrwpRk2cJdEDTuDhQgkt",
+   "best": "Rossy \"Flowers In Vase Scene\" Oil Painting - Signed And ...",
+   "med": 167,
+   "ratio": 11.13,
    "ai_value": ""
   },
   {
@@ -4634,6 +4689,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971219243",
+   "title": "Vintage Capodimonte large floral vase",
+   "price": 20,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-vintage-capodimonte-large/sqjNPfggYyCT2LiSfmkHn6",
+   "best": "Antique VTG Capodimonte Made Italy Porcelain Rose Vase Large ...",
+   "med": 87,
+   "ratio": 4.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7954787701",
    "title": "Chinese Porcelain Vase - signed",
    "price": 35,
@@ -4729,6 +4795,17 @@
    "url": "https://www.craigslist.org/view/d/spring-branch-brand-new-automatic-self/thpuiM2i9ZEQC27sUoMaLR",
    "best": "Men Watches Luxury Business Waterproof Watches Automatic ...",
    "med": 128,
+   "ratio": 4.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977236055",
+   "title": "Vintage Gourd Container from Kenya",
+   "price": 15,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-gourd-container-from/32mouGRQmJ5jLS2Y6TSG4o",
+   "best": "ANTIQUE OMANI BEDOUIN WOVEN LIDDED BASKET WITH LEATHER | eBay",
+   "med": 64,
    "ratio": 4.27,
    "ai_value": ""
   },
@@ -5646,6 +5723,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948192321",
+   "title": "Vase",
+   "price": 30,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-vase/mbQabZQvkCXBFdYPwxAdsV",
+   "best": "Celestial Rose Vase by Rosanna Sanders | eBay",
+   "med": 100,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7954961733",
    "title": "Vintage LONGINES Golf Dial Sub Seconds Men's Wristwatch",
    "price": 299,
@@ -6207,6 +6295,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949311525",
+   "title": "Gold huggy earrings",
+   "price": 255,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-gold-huggy-earrings/gD9cFC2e1PJRYKLjaXjowL",
+   "best": "Ernesto's Lab. | Jewelry | Gold Huggy Earrings | Poshmark",
+   "med": 765,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -6346,6 +6445,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-14k-gold-plated-bar-pendant/tuGPmbKxKpqgy1Tx5gL9Zn",
    "best": "22K Gold Tiny Bar Pendant Necklace, 22K Bullion Gold ...",
    "med": 360,
+   "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954971952",
+   "title": "\ud83d\udc8e 14k White GOLD & DIAMOND Amazing 1920s Art Deco Ladies Wristwatch",
+   "price": 399,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-14k-white-gold-diamond-amazing/56bSjXmapUq3mvuRzWeGjm",
+   "best": "Elgin Platinum and Diamond Wrist Watch - Etsy",
+   "med": 1149,
    "ratio": 2.88,
    "ai_value": ""
   },
@@ -6764,6 +6874,17 @@
    "url": "https://www.craigslist.org/view/d/bothell-coke-sign/hgRgqhHVc4GHBUKB7hahZy",
    "best": "Vintage COCA-COLA Ingress-Plastene Co Electric Wall Clock ...",
    "med": 104,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967366343",
+   "title": "Vintage Carolers",
+   "price": 25,
+   "area": "memphis",
+   "url": "https://www.craigslist.org/view/d/memphis-vintage-carolers/uNMQp56eqzzEY8YnW9XWkm",
+   "best": "eBay",
+   "med": 65,
    "ratio": 2.6,
    "ai_value": ""
   },
@@ -8539,6 +8660,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942621600",
+   "title": "Ladies 1956 Omega Seamaster  watch",
+   "price": 225,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-ladies-1956-omega-seamaster/nKtLjS76BQnciHrTRaPjRH",
+   "best": "Vintage OMEGA Seamaster Women's Manual Wind Watch | eBay",
+   "med": 420,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7963446408",
    "title": "Antique Victorian American Waltham 1891 Ladies Pocket Watch",
    "price": 350,
@@ -9459,6 +9591,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-14k-tri-color-gold-hoop/oTunVfGymJMjo9K2GwDdcL",
    "best": "Solid 10K Gold Tri-color Hoop Earring 2cm Size, Ladies Gold ...",
    "med": 249,
+   "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951734485",
+   "title": "Old pliers",
+   "price": 90,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/richland-center-old-pliers/9B8L7cz9TQ4HxaJjaFgumm",
+   "best": "Do others prefer vintage tools over modern ones for certain ...",
+   "med": 141,
    "ratio": 1.57,
    "ai_value": ""
   },
@@ -11164,6 +11307,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-purple-vintage-earring-pair/oB3iE5MgadKzFaqjkRec5y",
    "best": "eBay",
    "med": 35,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949798110",
+   "title": "Vintage 1970's with Swarovski Ruby & clear crystals",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-1970s-with-swarovski/rVfcRp1szQsUxUGrVYDNGF",
+   "best": "Vintage 1970s Ruby Crystal Cocktail Ring: 18k Gold ...",
+   "med": 70,
    "ratio": 1.17,
    "ai_value": ""
   },
@@ -13269,6 +13423,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931382820",
+   "title": "Vintage Oreno fishing reel",
+   "price": 40,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/rubicon-vintage-oreno-fishing-reel/9WnXe2TrCVnwvg2NNf853X",
+   "best": "Vintage South Bend Model 1200 Casting Reel - Good Condition ...",
+   "med": 29,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7960677090",
    "title": "Turquoise in sterling silver pendant",
    "price": 200,
@@ -13852,6 +14017,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953360050",
+   "title": "1920's Cleveland INDIANS Sterling Silver Souvenir SPOON",
+   "price": 99,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-1920s-cleveland-indians/tQMD3dT1K7weMiMnUda65h",
+   "best": "Etsy",
+   "med": 57,
+   "ratio": 0.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7933722942",
    "title": "New Vintage Doll/Clown Heads & Doll Faces",
    "price": 35,
@@ -14156,6 +14332,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-vintage-penguin-jewelry-pin/bzcggELREMpXs3RvVnc1uN",
    "best": "eBay",
    "med": 15,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971352569",
+   "title": "Lots of vintage costume jewelry",
+   "price": 50,
+   "area": "wausau",
+   "url": "https://www.craigslist.org/view/d/junction-city-lots-of-vintage-costume/7ZcYp8bczhpP7YangbXBrx",
+   "best": "Vintage Silver tone Dangle OWL BIRD Shape Pendant on 24 ...",
+   "med": 25,
    "ratio": 0.5,
    "ai_value": ""
   },
@@ -16058,6 +16245,17 @@
    "area": "allentown",
    "url": "https://www.craigslist.org/view/d/bethlehem-new-fossil-watch-with-genuine/a5bR1Dy2JKAhJ1Tk7MiwNn",
    "best": "Fossil Watch Women Silver Tone Rectangle Brown Cuff Leather ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937568055",
+   "title": "Costume jewelry",
+   "price": 20,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-costume-jewelry/fWYX7R4w9qRx9ASGVetHh8",
+   "best": "Twist Set of 3 Stacking Rings, 14K Gold Fill \u2013 Hannah Naomi ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
