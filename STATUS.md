@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T23:34:49Z
+# Refurbish status — 2026-10-14T23:54:48Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1469 |
-| queued | 903 |
-| lensed | 492 |
+| flagged | 1573 |
+| queued | 778 |
+| lensed | 513 |
 | queued/relens | 485 |
 | decided/ask | 85 |
 | decided/kill | 40 |
@@ -18,17 +18,16 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | decided/find | 8 |
 | decided/bundle | 5 |
 | comps/fail | 5 |
-| queued | 3 |
 | comps/pass | 1 |
 
 ## Tables
 
 - harvests: 12
-- searches: 2614
+- searches: 2841
 - listings: 12183
-- lens: 9949
-- events: 34365
-- comps: 2358
+- lens: 10074
+- events: 34490
+- comps: 2558
 - item_types: 893
 - runs: 0
 
@@ -138,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1550)
+## Flagged by Lens, waiting for photo review (1573)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
