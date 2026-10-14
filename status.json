@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:23:52Z",
+ "updated": "2026-10-14T06:29:43Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7874,
-  "events": 29888,
+  "lens": 7899,
+  "events": 29913,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 578,
-  "flagged": 184,
-  "lensed": 40
+  "queued": 553,
+  "flagged": 201,
+  "lensed": 48
  },
  "last_harvests": [
   {
@@ -496,6 +496,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949234254",
+   "title": "Sterling Silver, Ruby,  Pearl & Diamond 18\u201d Necklace",
+   "price": 90,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-ruby/7bbpQjJPofVjus92FHV7BV",
+   "best": "Victorian Rubies Diamonds 14K Rose Gold Silver Pendant ...",
+   "med": 1480,
+   "ratio": 16.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471663",
    "title": "Vintage 925/14k Gold Vermeil filigree Jade & Pearl Earrings",
    "price": 30,
@@ -672,6 +683,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983135555",
+   "title": "NEW 14K Gold Ruby and Diamond Ring",
+   "price": 190,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/new-14k-gold-ruby-and-diamond-ring/uAjGQB6n1Ng51FRR9kVZyh",
+   "best": "14k Yellow Gold Marquise Ruby Diamond Halo Ring - US Size 6 ...",
+   "med": 1176,
+   "ratio": 6.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7952660752",
    "title": "Vintage 3d postcards lot of 17",
    "price": 10,
@@ -746,6 +768,17 @@
    "best": "Emerald Wedding Ring in 18k Yellow Gold| Baguette-Cut Eternity Ring| May Birthstone Ring| Evita",
    "med": 95,
    "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950474788",
+   "title": "Illinois Watch Co Pocket Watch. for Parts",
+   "price": 49,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-illinois-watch-co-pocket-watch/vkTwmsVPkn5XDhuDPk8dn8",
+   "best": "Illinois Watch Co. 18s 17 Jewels Gold Filled Open Face ...",
+   "med": 230,
+   "ratio": 4.69,
    "ai_value": ""
   },
   {
@@ -826,6 +859,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969473732",
+   "title": "Ceramic handmade bowl",
+   "price": 20,
+   "area": "stockton",
+   "url": "https://www.craigslist.org/view/d/stockton-ceramic-handmade-bowl/5mnE6S66sx4VTn2pfGx6Q8",
+   "best": "Queensware Pottery - Etsy",
+   "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7961334891",
    "title": "Faye Freedman Signed 1960s",
    "price": 80,
@@ -834,6 +878,17 @@
    "best": "Artwork Details",
    "med": 310,
    "ratio": 3.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951112681",
+   "title": "Necklace (14)",
+   "price": 13,
+   "area": "lubbock",
+   "url": "https://www.craigslist.org/view/d/amarillo-necklace-14/g32bBBs1337YMxtYdNGSdS",
+   "best": "Kramer Of New York Clear Rhinestone Festoon Choker Necklace ...",
+   "med": 50,
+   "ratio": 3.85,
    "ai_value": ""
   },
   {
@@ -889,6 +944,17 @@
    "best": "eBay",
    "med": 540,
    "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952986702",
+   "title": "Vintage Arteriors Bronze Statue / Figurine",
+   "price": 275,
+   "area": "mohave",
+   "url": "https://www.craigslist.org/view/d/bullhead-city-vintage-arteriors-bronze/e6o8pfSAvW9LpzpSSGdmmZ",
+   "best": "Arteriors Bronze Lady w/ Apple Basket Peasant Girl Statue ...",
+   "med": 971,
+   "ratio": 3.53,
    "ai_value": ""
   },
   {
@@ -980,6 +1046,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977186360",
+   "title": "Vintage Catholic Religious Medal & Rosary Lot (4 Items) - St. Peter, Holy Family",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-catholic-religious/cu6jgAKAMx9hxurVJqJP3p",
+   "best": "Vintage Inri Silver Tone Catholic Finger Medal Crown of ...",
+   "med": 28,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7954408453",
    "title": "2-vintage ladies bulova 10k gold plated, needs serviced,watches.",
    "price": 40,
@@ -999,6 +1076,17 @@
    "best": "eBay",
    "med": 225,
    "ratio": 2.74,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936434686",
+   "title": "Set of 5 Vintage Knives",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-set-of-vintage-knives/5rHscpaSP7PBjdajGYBBLq",
+   "best": "Knife Butter Cheese Knives Silver Set of 6 Signed 1847 ...",
+   "med": 40,
+   "ratio": 2.67,
    "ai_value": ""
   },
   {
@@ -1046,6 +1134,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943910859",
+   "title": "Vintage Boxes",
+   "price": 40,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-vintage-boxes/xvQ2QfZZb8jmHkRzTSUJTt",
+   "best": "Vintage Carved Wood Round Trinket Made in Russia 2.5 Inch | eBay",
+   "med": 98,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7938203567",
    "title": "Silver cuff bracelet",
    "price": 65,
@@ -1053,6 +1152,17 @@
    "url": "https://www.craigslist.org/view/d/tucson-silver-cuff-bracelet/acvRUVu8mvgUKRD7raREdQ",
    "best": "Savvy Collector",
    "med": 158,
+   "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935673519",
+   "title": "Trafalgar Square, London",
+   "price": 37,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-trafalgar-square-london/5iHoTVBeqSQv8egmhnae7G",
+   "best": "Framed 1981 Original London Vintage Print - Trafalgar Square ...",
+   "med": 90,
    "ratio": 2.43,
    "ai_value": ""
   },
@@ -1178,6 +1288,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937786884",
+   "title": "Geneva men\u2019s Watch",
+   "price": 20,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-geneva-mens-watch/e25aa1iPvX9qV78AsXZqCo",
+   "best": "Men's Silver Finish $ Sign Fashion Dressy Casual Hip Hop ...",
+   "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7931592455",
    "title": "Sterling silver garnet earrings",
    "price": 25,
@@ -1200,6 +1321,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952936157",
+   "title": "Vintage Navajo Jasper cuff petrified wood agate sterling silver",
+   "price": 195,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/vista-vintage-navajo-jasper-cuff/cnnjKddX8r1VUguGfAzZ6u",
+   "best": "Vintage Bell Trading Post Sterling Silver Native Navajo ...",
+   "med": 375,
+   "ratio": 1.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7947692053",
    "title": "Vintage GUCCI Watch sale",
    "price": 165,
@@ -1208,6 +1340,17 @@
    "best": "NISHIKINO VINTAGE KYOTO",
    "med": 315,
    "ratio": 1.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962598692",
+   "title": "Two pendants",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-two-pendants/aehmABsxPyQLdybEtZFUnz",
+   "best": "Black Onyx Gemstone on Etched Silver Plated Pendant Necklace ...",
+   "med": 38,
+   "ratio": 1.9,
    "ai_value": ""
   },
   {
@@ -1552,6 +1695,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7969211769",
+   "title": "Swarovski Necklace",
+   "price": 80,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/nashua-swarovski-necklace/faQ5uUrRDY86RCBs45NnMz",
+   "best": "Ti Sento Milano Two Tone Sterling Silver Necklace ...",
+   "med": 112,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965370614",
+   "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
+   "price": 18,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/birmingham-mixed-costume-jewelry/thLxyQBUtAx9zBrqtqw1wE",
+   "best": "Vintage / Modern Costume Fashion Jewelry Earrings Wearable ...",
+   "med": 25,
+   "ratio": 1.39,
+   "ai_value": ""
+  },
+  {
    "pid": "7949234609",
    "title": "Sterling Silver 1 3/4\u201d Hoop Earrings",
    "price": 30,
@@ -1739,6 +1904,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979462421",
+   "title": "Custom handmade turquoise ring",
+   "price": 65,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-custom-handmade-turquoise-ring/jSKbtRLdwDst13aAqZiHuK",
+   "best": "Beautiful Blue Turquoise Ring,925 Sterling Silver,Vintage ...",
+   "med": 72,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7962599217",
    "title": "Two pendants",
    "price": 20,
@@ -1812,6 +1988,17 @@
    "url": "https://www.craigslist.org/view/d/wilmington-mid-century-modern-signed/dzKCtWBBMh3cFgfusEsbtk",
    "best": "MutualArt",
    "med": 317,
+   "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936654330",
+   "title": "Knife Carving Set",
+   "price": 50,
+   "area": "mohave",
+   "url": "https://www.craigslist.org/view/d/bullhead-city-knife-carving-set/sm5SM3RcHQMPPGXbGGGbFc",
+   "best": "Vintage Taylor Witness Sheffield England Knife Carving Set ...",
+   "med": 53,
    "ratio": 1.06,
    "ai_value": ""
   },
