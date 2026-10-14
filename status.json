@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:44:14Z",
+ "updated": "2026-10-14T06:47:33Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7999,
-  "events": 30013,
+  "lens": 8024,
+  "events": 30038,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 167,
+  "queued/relens": 179,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 453,
-  "flagged": 246,
-  "lensed": 84
+  "queued": 428,
+  "flagged": 253,
+  "lensed": 90
  },
  "last_harvests": [
   {
@@ -903,6 +903,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934801534",
+   "title": "Sterling Silver Size 8 Ring",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-size-ring/tC7Wjkp8zFPMq1FDK6Ba3s",
+   "best": "Modern Silver Ring, 925 Ring, Size 6 Ring, Silver Ring ...",
+   "med": 135,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7962419925",
    "title": "Vintage 1978 C3PO Toy",
    "price": 10,
@@ -1046,6 +1057,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951809965",
+   "title": "Raymond Weil Tango Watch",
+   "price": 175,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-raymond-weil-tango-watch/uzj3JEGjr6zE1sXGtkMHdg",
+   "best": "Raymond Weil Tango Watch Ref. 5971 19mm Quartz Stainless ...",
+   "med": 650,
+   "ratio": 3.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7940918247",
    "title": "Vintage Ceramic Peace Sign Pendant",
    "price": 30,
@@ -1186,6 +1208,17 @@
    "best": "Vintage Elgin 10K Gold Ladies Mechanical Cocktail Watch, Original Boxes, Papers! Working! 1950's Beauty! WOW!!",
    "med": 185,
    "ratio": 3.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963163685",
+   "title": "Extra large Glass Vase .",
+   "price": 50,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-extra-large-glass-vase/eDMVMCHWGGrc6oRaf9m6vV",
+   "best": "Large Amber Glass Vase Clear Fluted base Home Decor Table ...",
+   "med": 150,
+   "ratio": 3,
    "ai_value": ""
   },
   {
@@ -1827,6 +1860,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983114246",
+   "title": "Vintage Cookie Jars",
+   "price": 110,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/peoria-vintage-cookie-jars/2scFiaaPzzorgw7DYVdvRS",
+   "best": "Vintage 1940s Shawnee Pottery Smiley Pig Tulip Cookie Jar ...",
+   "med": 173,
+   "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7951092953",
    "title": "Bracelet (8)",
    "price": 13,
@@ -2091,6 +2135,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936676068",
+   "title": "Antique/Vintage American Indian Doll",
+   "price": 10,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/snohomish-antique-vintage-american/b8VcxPdeSgsjZJn4nxh2nV",
+   "best": "Vintage Native American Indian Woman Doll Leather Dress ...",
+   "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -2141,6 +2196,17 @@
    "area": "boone",
    "url": "https://www.craigslist.org/view/d/vilas-vintage-nicaraguan-folk-art-vase/wUomYd9qEzMJpcGM2fNHcf",
    "best": "boone.craigslist.org",
+   "med": 25,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952661959",
+   "title": "Sterling silver heart earrings",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-sterling-silver-heart-earrings/dwgiyPMgPP91SdpMPnAvGs",
+   "best": "Jewelry Trends Sterling Silver Open Flower Heart Dangle ...",
    "med": 25,
    "ratio": 1.25,
    "ai_value": ""
@@ -2616,6 +2682,17 @@
    "best": "Borrowed Bling",
    "med": 56,
    "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961182713",
+   "title": "Vintage Mankato Creamery Item",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-mankato-creamery/vLgfaJSMMyB1uuMdPLmRPM",
+   "best": "Antique Craftsman DMT Mini Knife Sharpener Portable Folding ...",
+   "med": 12,
+   "ratio": 0.8,
    "ai_value": ""
   },
   {
