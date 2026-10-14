@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T07:22:41Z
+# Refurbish status — 2026-10-14T07:26:13Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 367 |
-| queued/relens | 278 |
-| queued | 203 |
-| lensed | 102 |
+| flagged | 374 |
+| queued/relens | 285 |
+| queued | 178 |
+| lensed | 113 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 9
 - searches: 2158
 - listings: 9783
-- lens: 8249
-- events: 30263
+- lens: 8274
+- events: 30288
 - comps: 1953
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (367)
+## Flagged by Lens, waiting for photo review (374)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -201,6 +201,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00D0D_jcv4TL6B04J_0lM0t2_300x300.jpg" width="120"> | 7932471758 | $20 | washingtondc | [Vintage Sterling/14k Gold Vermeil Emerald Eternity](https://www.craigslist.org/view/d/fort-washington-vintage-sterling-14k/qyH3JtFimjhbTMaus3Kikq) | Emerald Wedding Ring in 18k Yellow Gold/ Baguette-Cut Eterni | 95 | 4.75 |
 | <img src="https://images.craigslist.org/00H0H_1dL9jBBCXOP_0pA0oM_300x300.jpg" width="120"> | 7971564798 | $20 | stlouis | [Vintage IRMA BAVARIA Sugar Bowl with lid.](https://www.craigslist.org/view/d/saint-louis-vintage-irma-bavaria-sugar/5ixmKrSUzXpt1dkwtJX4gL) | Vintage M Z Austria Floral Sugar Bowl: Shabby Chic Cottage . | 95 | 4.75 |
 | <img src="https://images.craigslist.org/00P0P_kTmGYZ8NSIV_0CI0t2_300x300.jpg" width="120"> | 7950474788 | $49 | portland | [Illinois Watch Co Pocket Watch. for Parts](https://www.craigslist.org/view/d/portland-illinois-watch-co-pocket-watch/vkTwmsVPkn5XDhuDPk8dn8) | Illinois Watch Co. 18s 17 Jewels Gold Filled Open Face ... | 230 | 4.69 |
+| <img src="https://images.craigslist.org/00g0g_7zlI1oXKqgq_0iz0lZ_300x300.jpg" width="120"> | 7954349337 | $75 | allentown | [Moses Ten Commandments Sculpture](https://www.craigslist.org/view/d/catasauqua-moses-ten-commandments/cK5pUibWAuiN7HEh99WNdP) | Judaica Sterling Silver Jewish Moses Figure Sculpture on ... | 340 | 4.53 |
 | <img src="https://images.craigslist.org/00q0q_kHMPWQxCpG6_0dQ0ic_300x300.jpg" width="120"> | 7934801534 | $30 | phoenix | [Sterling Silver Size 8 Ring](https://www.craigslist.org/view/d/sun-city-west-sterling-silver-size-ring/tC7Wjkp8zFPMq1FDK6Ba3s) | Modern Silver Ring, 925 Ring, Size 6 Ring, Silver Ring ... | 135 | 4.5 |
 | <img src="https://images.craigslist.org/00y0y_2hhAB9ppk1q_0CI0iY_300x300.jpg" width="120"> | 7961751714 | $10 | kansascity | [Old Story  books](https://www.craigslist.org/view/d/kansas-city-old-story-books/31Ynk9dq45Hn3eNrGWX9WY) | Amazon.com | 45 | 4.5 |
 | <img src="https://images.craigslist.org/00H0H_4jtsNrFGZLj_0t20CI_300x300.jpg" width="120"> | 7962419925 | $10 | greenbay | [Vintage 1978 C3PO Toy](https://www.craigslist.org/view/d/green-bay-vintage-1978-c3po-toy/8zRZwMB7X4XpMVzhMPQfaa) | Vintage 1979 C-3PO Star Wars Kenner 12" Action Figure / eBay | 44 | 4.4 |
@@ -237,6 +238,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00y0y_63OMtSwTwIG_09o0bo_300x300.jpg" width="120"> | 7946650491 | $20 | medford | [Wonderful Vintage Head Vase 1940's Good Condition](https://www.craigslist.org/view/d/grants-pass-wonderful-vintage-head-vase/mNstP2627ZAGNVy182Tkay) | Vintage UCAGO Co Japan Lady Head Vase Blonde Curls Big Hat . | 65 | 3.25 |
 | <img src="https://images.craigslist.org/00K0K_28ZMxiTkQUD_0ew0aQ_300x300.jpg" width="120"> | 7983120864 | $30 | albany | [Sterling Silver Ammonite Fossil Pin](https://www.craigslist.org/view/d/troy-sterling-silver-ammonite-fossil-pin/37j9x69eLG3e92FCy6prJx) | RING, sterling silver & ammonite, handsmithed unikat, Warsaw | 97 | 3.23 |
 | <img src="https://images.craigslist.org/00h0h_jn972OGqTjj_0gl0t2_300x300.jpg" width="120"> | 7977605844 | $40 | seattle | [UKULELE by Makala !!!](https://www.craigslist.org/view/d/bainbridge-island-ukulele-by-makala/xpc3R1bzoSVCMnidp67MZf) | Mass Street Music | 129 | 3.23 |
+| <img src="https://images.craigslist.org/00w0w_8KhfcqCyCOq_0Cz0t2_300x300.jpg" width="120"> | 7929818374 | $40 | madison | [Pre-Columbian "Sun Goddess Design" Earrings](https://www.craigslist.org/view/d/madison-pre-columbian-sun-goddess/9Mi5uvCCeLgi6vpPLZE8ZW) | Etsy | 129 | 3.23 |
 | <img src="https://images.craigslist.org/00t0t_4g0jiCFkXy6_0wa0t2_300x300.jpg" width="120"> | 7965241119 | $18 | southjersey | [Lot of Costume Diamonds, bracelet, necklaces](https://www.craigslist.org/view/d/birmingham-lot-of-costume-diamonds/wDepX6hoEUWN1pgUQ2emiY) | eBay | 58 | 3.22 |
 | <img src="https://images.craigslist.org/00Z0Z_e2kVCheQVwC_0sW0aQ_300x300.jpg" width="120"> | 7943638069 | $75 | phoenix | [Vintage Handmade Sterling Silver 6 1/2” Floral Dan](https://www.craigslist.org/view/d/sun-city-west-vintage-handmade-sterling/uuMf7aXbNQXb3C9BiDwPH6) | Yemenite tribal antique filigree silver anklet leg bracelet  | 241 | 3.21 |
 | <img src="https://images.craigslist.org/00W0W_i2ltH6fT0fw_0t20CI_300x300.jpg" width="120"> | 7981974675 | $45 | tucson | [Sterling silver earrings](https://www.craigslist.org/view/d/tucson-sterling-silver-earrings/tD8pUrEHGkcDbWQwK6qB8k) | TAG Heuer 6000 Men's Stainless Steel End Link For Band ... | 140 | 3.11 |
@@ -262,5 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_3ngCy3v1pSh_0t20CI_300x300.jpg" width="120"> | 7942901843 | $15 | sfbay | [Vintage 1939 Creamer commemorating The King  & Que](https://www.craigslist.org/view/d/san-jose-vintage-1939-creamer/uoLnDz77yoGQAuUi3zc5nB) | Royal Albert Loyalty Mini Creamer - 1939 Royal Visit of King | 37 | 2.47 |
 | <img src="https://images.craigslist.org/00J0J_d3FuuuTHSob_0lp0fA_300x300.jpg" width="120"> | 7943910859 | $40 | denver | [Vintage Boxes](https://www.craigslist.org/view/d/aurora-vintage-boxes/xvQ2QfZZb8jmHkRzTSUJTt) | Vintage Carved Wood Round Trinket Made in Russia 2.5 Inch /  | 98 | 2.45 |
 | <img src="https://images.craigslist.org/00F0F_hxcjE3wGuEb_0CI0t2_300x300.jpg" width="120"> | 7938203567 | $65 | tucson | [Silver cuff bracelet](https://www.craigslist.org/view/d/tucson-silver-cuff-bracelet/acvRUVu8mvgUKRD7raREdQ) | Savvy Collector | 158 | 2.43 |
-| <img src="https://images.craigslist.org/00s0s_8jtNaJoAvns_0Mo0Vr_300x300.jpg" width="120"> | 7935673519 | $37 | sfbay | [Trafalgar Square, London](https://www.craigslist.org/view/d/sunnyvale-trafalgar-square-london/5iHoTVBeqSQv8egmhnae7G) | Framed 1981 Original London Vintage Print - Trafalgar Square | 90 | 2.43 |
-| <img src="https://images.craigslist.org/00k0k_iUYsRurrhrG_0po0t2_300x300.jpg" width="120"> | 7948676105 | $12 | sfbay | [Rose Bud Clip-on Earings](https://www.craigslist.org/view/d/cupertino-rose-bud-clip-on-earings/oC4kMjU4oiqqR34Za5AhT3) | eBay | 29 | 2.42 |

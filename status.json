@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:22:41Z",
+ "updated": "2026-10-14T07:26:13Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8249,
-  "events": 30263,
+  "lens": 8274,
+  "events": 30288,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 278,
+  "queued/relens": 285,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 203,
-  "flagged": 367,
-  "lensed": 102
+  "queued": 178,
+  "flagged": 374,
+  "lensed": 113
  },
  "last_harvests": [
   {
@@ -1046,6 +1046,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954349337",
+   "title": "Moses Ten Commandments Sculpture",
+   "price": 75,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/catasauqua-moses-ten-commandments/cK5pUibWAuiN7HEh99WNdP",
+   "best": "Judaica Sterling Silver Jewish Moses Figure Sculpture on ...",
+   "med": 340,
+   "ratio": 4.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7934801534",
    "title": "Sterling Silver Size 8 Ring",
    "price": 30,
@@ -1437,6 +1448,17 @@
    "area": "seattle",
    "url": "https://www.craigslist.org/view/d/bainbridge-island-ukulele-by-makala/xpc3R1bzoSVCMnidp67MZf",
    "best": "Mass Street Music",
+   "med": 129,
+   "ratio": 3.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929818374",
+   "title": "Pre-Columbian \"Sun Goddess Design\" Earrings",
+   "price": 40,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/madison-pre-columbian-sun-goddess/9Mi5uvCCeLgi6vpPLZE8ZW",
+   "best": "Etsy",
    "med": 129,
    "ratio": 3.23,
    "ai_value": ""
@@ -2036,6 +2058,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7983192876",
+   "title": "Indigenous Alaskan statues",
+   "price": 40,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/durham-indigenous-alaskan-statues/rJZ5rNS2fSQeLdtyaipews",
+   "best": "EXTREMELY RARE VERY LARGE WOLF ORIGINAL ~BEAUTIFUL ~ | eBay",
+   "med": 80,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981865439",
+   "title": "Islanders ukulele",
+   "price": 65,
+   "area": "prescott",
+   "url": "https://www.craigslist.org/view/d/prescott-valley-islanders-ukulele/ouaTwxSvPXjC6Q7rbS7LSG",
+   "best": "Ibanez UKS100 Soprano Ukulele - Open Pore Natural | eBay",
+   "med": 130,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -2274,6 +2318,17 @@
    "url": "https://www.craigslist.org/view/d/oceanside-antique-1960s-925-sterling/vwUsqGT47rf8TYjks4xxiW",
    "best": "16\u201d, vintage Mexican sterling silver 925 handmade oval ...",
    "med": 104,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971509778",
+   "title": "Etching Venice Canal Italy",
+   "price": 120,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-etching-venice-canal-italy/c2iipoUwGmazw5XcEz98RA",
+   "best": "Slim Aarons Single Piece Art Prints for sale | eBay",
+   "med": 207,
    "ratio": 1.73,
    "ai_value": ""
   },
@@ -2769,6 +2824,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-angel-charm-bracelet/rcueRaxsim3t5gzP9PrGA8",
    "best": "Etsy",
    "med": 28,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970967663",
+   "title": "2 Vintage Kingwood Pitchers",
+   "price": 30,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/mabank-vintage-kingwood-pitchers/hCrJFKCCxxbTaN3J9BtWhW",
+   "best": "Vintage Wedgwood Of Etruria & Barlaston Pitcher | eBay",
+   "med": 42,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -3770,6 +3836,17 @@
    "url": "https://www.craigslist.org/view/d/spokane-vincent-bach-corp/uH4mj2uesAmYRGwffSCF6C",
    "best": "Craigslist",
    "med": 10,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934982494",
+   "title": "Shirley Temple Doll Collection",
+   "price": 45,
+   "area": "lacrosse",
+   "url": "https://www.craigslist.org/view/d/la-crosse-shirley-temple-doll-collection/1QcENEPnv3FddHVRixCpQ8",
+   "best": "VINTAGE 8\" Ideal Shirley Temple Hard Plastic Doll with ...",
+   "med": 30,
    "ratio": 0.67,
    "ai_value": ""
   },
