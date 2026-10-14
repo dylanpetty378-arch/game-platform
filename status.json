@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-14T05:37:31Z",
+ "updated": "2026-10-14T05:52:51Z",
  "tables": {
   "harvests": 9,
-  "searches": 1930,
+  "searches": 2158,
   "listings": 9783,
-  "lens": 7649,
-  "events": 29663,
-  "comps": 1749,
+  "lens": 7674,
+  "events": 29688,
+  "comps": 1953,
   "item_types": 893,
   "runs": 0
  },
@@ -21,7 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 803
+  "queued": 778,
+  "flagged": 22,
+  "lensed": 3
  },
  "last_harvests": [
   {
@@ -415,7 +417,250 @@
    "ts": "2026-10-14T05:37:29Z"
   }
  ],
- "flagged_waiting": [],
+ "flagged_waiting": [
+  {
+   "pid": "7955365058",
+   "title": "Costume jewelry",
+   "price": 15,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-costume-jewelry/t7oLR44HMhuBQjRJcuyKDw",
+   "best": "Nordstrom",
+   "med": 1199,
+   "ratio": 79.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954896055",
+   "title": "Gold Tone Charm Bracelet",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-gold-tone-charm-bracelet/8uGFdtQ47pvaktkYDnarm2",
+   "best": "Gold Coin Charm Bracelet",
+   "med": 220,
+   "ratio": 18.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949421619",
+   "title": "Handmade Pottery Pitcher",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/castro-valley-handmade-pottery-pitcher/tXZEiPpTxTqXUR552o6FkS",
+   "best": "Etsy",
+   "med": 290,
+   "ratio": 14.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977883716",
+   "title": "Five Old Straight Razors - Varying Conditions",
+   "price": 20,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/weaverville-five-old-straight-razors/4zYm1kGdqVPaeow6EefLUX",
+   "best": "Antique Collection Straight Razors Solingen Hollow Arkans ...",
+   "med": 175,
+   "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943911669",
+   "title": "Antique Oriental Items",
+   "price": 35,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-antique-oriental-items/cqsH4hDKPnnf8vm1DhbixJ",
+   "best": "Chinese Antique Cloisonne handmade lion incense burner ...",
+   "med": 233,
+   "ratio": 6.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963246140",
+   "title": "Vintage Goldette NY Bracelet Gold Tone",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-goldette-ny-bracelet-gold/wPNtaQPczjF1QxV2SUT7H3",
+   "best": "Craigslist",
+   "med": 80,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929881101",
+   "title": "Vintage ladies Benrus,10k r.g.p, w/diamonds, needs serviced.",
+   "price": 60,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-vintage-ladies-benrus10k-rgp/8kSLTmLapynw5FLUzMJRE3",
+   "best": "Vintage Elgin 10K Gold Ladies Mechanical Cocktail Watch, Original Boxes, Papers! Working! 1950's Beauty! WOW!!",
+   "med": 185,
+   "ratio": 3.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954408453",
+   "title": "2-vintage ladies bulova 10k gold plated, needs serviced,watches.",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-vintage-ladies-bulova-10k-gold/gqUYHdyBTCidhmRyp6Wqfr",
+   "best": "eBay",
+   "med": 110,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951810082",
+   "title": "Antique 800 Silver FG part of pocket watch",
+   "price": 95,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-antique-800-silver-fg-part/b7yheufZkadrpgrJKV99fP",
+   "best": "EJ's Auction & Appraisal",
+   "med": 235,
+   "ratio": 2.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938206970",
+   "title": "Sterling silver necklace with pendant and matching earrings",
+   "price": 60,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-sterling-silver-necklace-with/j5Ybk81iHLwnLRX26NYLGD",
+   "best": "Etsy",
+   "med": 140,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942418674",
+   "title": "Men\u2019s Rings - Set of 5",
+   "price": 45,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/fort-myers-mens-rings-set-of/jbWsbZsqphbFtmDkgMsv2L",
+   "best": "Danielle B.",
+   "med": 104,
+   "ratio": 2.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968965697",
+   "title": "New Vintage Barse Sterling Silver & Picture Jasper 17\u201d Necklace",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-new-vintage-barse/h4FUcbU7XUmC6C9ASzD8Gv",
+   "best": "HUGE Runway Chunky Brown Jasper Beaded 925 Sterling Silver ...",
+   "med": 75,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933078547",
+   "title": "Vintage rensie ladies working wristwatch,1940s-1950s,wind up.",
+   "price": 30,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-vintage-rensie-ladies-working/okWpPNZ4ipE8L1Gk4LLRDa",
+   "best": "Craigslist",
+   "med": 50,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929922868",
+   "title": "Vintage ladies elgin watch,working.",
+   "price": 80,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-vintage-ladies-elgin/5Q8yXpmxHNGsYncJDsQdCL",
+   "best": "Vintage Elgin Watch Ladies Silver Tone Manual Wind Art Deco Bracelet",
+   "med": 129.5,
+   "ratio": 1.62,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967208591",
+   "title": "Sterling Silver Herringbone Bracelet",
+   "price": 25,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-sterling-silver-herringbone/dyCMxFv9Cb3KcnYWHMSK1i",
+   "best": "Vintage Elegant Sterling Silver 925 Classic Flat Herringbone ...",
+   "med": 40,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953208388",
+   "title": "Sterling Silver & Turquoise Pendants",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/aL9ijPspucj75xKoPZc6dx",
+   "best": "eBay",
+   "med": 49,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931217089",
+   "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
+   "price": 100,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/marana-vintage-full-set-of-goebel/rrjPekqGcWLQpkmfRiesmR",
+   "best": "Goebel Hummel Figurine Stem Wine Glasses 14K Gold Trim Germany Lot of 6",
+   "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954817436",
+   "title": "Vintage Fragonard Lot of 2 Brooches Porcelain Romantic Scene & Gold Tr",
+   "price": 22,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-fragonard-lot-of/mocLfGhRsQviXQ1wVPM3ab",
+   "best": "Vintage Fragonard Courting Couple Brooch Pendant | eBay",
+   "med": 21,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948667022",
+   "title": "Beautiful sterling bracelet with unique vintage charms",
+   "price": 175,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-beautiful-sterling-bracelet-with/qRSsjyoQik91r1uHoTNXxN",
+   "best": "Vintage 1940s Sterling Silver Charm Bracelet 17 Charms - Etsy",
+   "med": 165,
+   "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950445010",
+   "title": "Vintage Ladies Elgin Watch",
+   "price": 275,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-ladies-elgin-watch/52Ny9tPw4ywYAfRrom6CjC",
+   "best": "eBay",
+   "med": 121,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948412127",
+   "title": "4 Pieces Antique Jewelry",
+   "price": 99,
+   "area": "charlottesville",
+   "url": "https://www.craigslist.org/view/d/charlottesville-pieces-antique-jewelry/nfwA2ribFF31e4GkZ2nfau",
+   "best": "Las mejores ofertas en Anillo medall\u00f3n en anillos finos sin ...",
+   "med": 40,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962720222",
+   "title": "vintage CARVED STONE HEAD BUST",
+   "price": 225,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-vintage-carved-stone-head-bust/r89PikJ2LzoztRYDhD22Hk",
+   "best": "Instagram",
+   "med": 90,
+   "ratio": 0.4,
+   "ai_value": ""
+  }
+ ],
  "finds": [
   {
    "pid": "7982456682",
