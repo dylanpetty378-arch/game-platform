@@ -32050,3 +32050,14 @@
 {"ts":"2026-10-14T16:59:42Z","pid":"7964010906","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names Montgomery Ward — title does not","data":{"med":null,"ratio":null,"mismatch":["Montgomery Ward"]}}
 {"ts":"2026-10-14T16:59:52Z","pid":"7983306045","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names Company — title does not","data":{"med":90,"ratio":1.38,"mismatch":["Company"]}}
 {"ts":"2026-10-14T17:00:00Z","pid":"7943192025","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names Pink — title does not","data":{"med":null,"ratio":null,"mismatch":["Pink"]}}
+{"ts":"2026-10-14T17:00:10Z","pid":"7972471830","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names Indiana Glass, Moss, Sandwich — title does not","data":{"med":48,"ratio":1.6,"mismatch":["Indiana Glass","Moss","Sandwich"]}}
+{"ts":"2026-10-14T17:00:17Z","pid":"7934050392","stage":"lensed","run":"lensworker-20261014-1651","note":null,"data":{"med":24,"ratio":0.96,"mismatch":[]}}
+{"ts":"2026-10-14T17:00:25Z","pid":"7976585823","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names Marshall, Mexican — title does not","data":{"med":65,"ratio":1.18,"mismatch":["Marshall","Mexican"]}}
+{"ts":"2026-10-14T17:00:32Z","pid":"7973164383","stage":"flagged","run":"lensworker-20261014-1651","note":null,"data":{"med":70,"ratio":2.8,"mismatch":[]}}
+{"ts":"2026-10-14T17:00:40Z","pid":"7942143626","stage":"flagged","run":"lensworker-20261014-1651","note":null,"data":{"med":830,"ratio":41.5,"mismatch":[]}}
+{"ts":"2026-10-14T17:00:47Z","pid":"7953126095","stage":"lensed","run":"lensworker-20261014-1651","note":null,"data":{"med":20,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-14T17:00:54Z","pid":"7940432863","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names Advertising — title does not","data":{"med":20,"ratio":1,"mismatch":["Advertising"]}}
+{"ts":"2026-10-14T17:01:03Z","pid":"7934834869","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names European, Homer Laughlin, Pink, Republic — title does not","data":{"med":30,"ratio":2,"mismatch":["European","Homer Laughlin","Pink","Republic"]}}
+{"ts":"2026-10-14T17:01:13Z","pid":"7954345893","stage":"flagged","run":"lensworker-20261014-1651","note":null,"data":{"med":145,"ratio":0.82,"mismatch":[]}}
+{"ts":"2026-10-14T17:01:20Z","pid":"7967099763","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names Toy, Types — title does not","data":{"med":35,"ratio":0.35,"mismatch":["Toy","Types"]}}
+{"ts":"2026-10-14T17:01:27Z","pid":"7947072070","stage":"flagged","run":"lensworker-20261014-1651","note":"Lens names Spanish — title does not","data":{"med":35,"ratio":0.44,"mismatch":["Spanish"]}}

@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T17:00:18Z",
+ "updated": "2026-10-14T17:21:51Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9238,
-  "events": 32052,
+  "lens": 9249,
+  "events": 32063,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 14,
-  "flagged": 923,
-  "lensed": 335
+  "queued": 3,
+  "flagged": 932,
+  "lensed": 337
  },
  "last_harvests": [
   {
@@ -813,6 +813,17 @@
    "best": "JOAN SIMPSON AFRICAN AMERICAN PEOPLE LARGE GICLEE ON CANVAS ...",
    "med": 847,
    "ratio": 42.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942143626",
+   "title": "ganesha bookends",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/panorama-city-ganesha-bookends/a2PCVCTdkGGqonWQkTYMWF",
+   "best": "Double Sided Corundum Ruby Ganesha Statue | Spiritual Altar ...",
+   "med": 830,
+   "ratio": 41.5,
    "ai_value": ""
   },
   {
@@ -4127,6 +4138,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973164383",
+   "title": "CHICAGO WHITE SOX SANTA",
+   "price": 25,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/newark-chicago-white-sox-santa/a1dM9EJqTopgiQvFKidNsr",
+   "best": "eBay",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7945601047",
    "title": "Citizen Eco-Drive Watch",
    "price": 50,
@@ -5183,6 +5205,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934834869",
+   "title": "Antique Vintage Covered Rose Floral Casserole Dish",
+   "price": 15,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-vintage-covered-rose/9rZKQYqCWAFVDe6Bf1k6SV",
+   "best": "Etsy",
+   "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -5905,6 +5938,17 @@
    "url": "https://www.craigslist.org/view/d/york-iroquois-beer-tray/6xkSJmKXMJeyUz9m1Xhe2x",
    "best": "Vintage IROQUOIS INDIAN HEAD BEER BREWING 13\" METAL TRAY ...",
    "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972471830",
+   "title": "Two Vintage French Emerald Green Candle Holders",
+   "price": 30,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-two-vintage-french-emerald/a433bgj7bAZCaZA9up3qys",
+   "best": "The Cupboard Shop",
+   "med": 48,
    "ratio": 1.6,
    "ai_value": ""
   },
@@ -7108,6 +7152,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976585823",
+   "title": "Vintage Beige & Blue Stoneware Jug Signed & Stamped.",
+   "price": 55,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-beige-blue-stoneware/5caSbJsBUZdd1HuwhnTKBK",
+   "best": "Etsy",
+   "med": 65,
+   "ratio": 1.18,
+   "ai_value": ""
+  },
+  {
    "pid": "7956250971",
    "title": "ETAH Love The Emperor ring",
    "price": 60,
@@ -7735,6 +7790,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940432863",
+   "title": "Three Old Canada Road Maps",
+   "price": 20,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/chelsea-three-old-canada-road-maps/8J4FdSNmAUsWfMcfkvZ45R",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -8215,6 +8281,17 @@
    "url": "https://www.craigslist.org/view/d/lynnwood-misc-music-gear/g4Ni466QH1kWvU8pW82ttV",
    "best": "Amazon.com",
    "med": 33,
+   "ratio": 0.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954345893",
+   "title": "Sterling Silver Blue/Gold Shank Flakte Stone  Brooch/Pendant 16.11g",
+   "price": 177,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-sterling-silver-blue-gold/8JKuEcmpkLa1zuchX4JevV",
+   "best": "800 Sterling Silver Casket Form Pill / Trinket Box W/ Murano ...",
+   "med": 145,
    "ratio": 0.82,
    "ai_value": ""
   },
@@ -9363,6 +9440,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947072070",
+   "title": "Vintage Handcrafted Male & Female Dolls from Philippines",
+   "price": 80,
+   "area": "shreveport",
+   "url": "https://www.craigslist.org/view/d/shreveport-vintage-handcrafted-male/oa1cqePRfLV4AaBbs9DSUV",
+   "best": "Pinterest",
+   "med": 35,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7983222369",
    "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
    "price": 38,
@@ -9523,6 +9611,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/minneapolis-doll-stones-yesterdays/hoSgcibps7qdDh9he4PPnP",
    "best": "eBay",
+   "med": 35,
+   "ratio": 0.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967099763",
+   "title": "Lot of 16 Vintage Large Plastic Robots-Super Cool Deal!",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-lot-of-16-vintage-large-plastic/aWQLRqTeee3SSosz8Spp3C",
+   "best": "Craigslist",
    "med": 35,
    "ratio": 0.35,
    "ai_value": ""

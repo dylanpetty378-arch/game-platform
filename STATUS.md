@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T17:00:18Z
+# Refurbish status — 2026-10-14T17:21:51Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,17 +7,17 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 923 |
+| flagged | 932 |
 | queued/relens | 478 |
-| lensed | 335 |
+| lensed | 337 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
-| queued | 14 |
 | expired | 12 |
 | decided/find | 8 |
 | decided/bundle | 5 |
 | comps/fail | 5 |
+| queued | 3 |
 | comps/pass | 1 |
 
 ## Tables
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 10
 - searches: 2386
 - listings: 10583
-- lens: 9238
-- events: 32052
+- lens: 9249
+- events: 32063
 - comps: 2156
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (923)
+## Flagged by Lens, waiting for photo review (932)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -178,6 +178,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00h0h_gdHDwwX5k9G_0lM0t2_300x300.jpg" width="120"> | 7974614568 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/puhGk1YDhXv4efAvcckoFi) | Galle Emile / eBay | 3978 | 44.2 |
 | <img src="https://images.craigslist.org/00h0h_d4JZLiALhIE_0iE0j0_300x300.jpg" width="120"> | 7948313336 | $40 | charlotte | [Iced Out Cuban & Coffee Link Bracelet](https://www.craigslist.org/view/d/charlotte-iced-out-cuban-coffee-link/21PMcxKXUXfo6o9KQn4oiD) | Apzzic 17mm Miami Cuban Link Chain Bling Iced Out Coffee ... | 1697 | 42.42 |
 | <img src="https://images.craigslist.org/00303_766NlesEsPf_0t20CI_300x300.jpg" width="120"> | 7955279212 | $20 | sanantonio | [Vintage African Tribal Artwork](https://www.craigslist.org/view/d/san-antonio-vintage-african-tribal/muiiFCA1FjZNVDVurF4ggQ) | JOAN SIMPSON AFRICAN AMERICAN PEOPLE LARGE GICLEE ON CANVAS  | 847 | 42.35 |
+| <img src="https://images.craigslist.org/00Z0Z_1LUhptDdWLa_0CI0t2_300x300.jpg" width="120"> | 7942143626 | $20 | losangeles | [ganesha bookends](https://www.craigslist.org/view/d/panorama-city-ganesha-bookends/a2PCVCTdkGGqonWQkTYMWF) | Double Sided Corundum Ruby Ganesha Statue / Spiritual Altar  | 830 | 41.5 |
 | <img src="https://images.craigslist.org/00Y0Y_gotp7NnBHVA_05r06m_300x300.jpg" width="120"> | 7941406369 | $75 | longisland | [Antique Oil Painting](https://www.craigslist.org/view/d/kings-park-antique-oil-painting/h4iE3V9ievpkUNNiFKPzs7) | Artist is 'E SENECA' - Anyone know of this artist? : r ... | 3000 | 40 |
 | <img src="https://images.craigslist.org/00808_eWWWmbZgjq5_0t20t2_300x300.jpg" width="120"> | 7971124623 | $60 | myrtlebeach | [Vintage Bass Guitar Body](https://www.craigslist.org/view/d/myrtle-beach-vintage-bass-guitar-body/cDGJSwDjoxCCQcb1snsRWa) | Mosrite The Ventures Model Red USA 1966 Vintage Solid Body . | 2316 | 38.6 |
 | <img src="https://images.craigslist.org/00N0N_bYir9ZNTE7w_0CI0i3_300x300.jpg" width="120"> | 7942787999 | $1 | spokane | [Vintage foreign beer glasses](https://www.craigslist.org/view/d/spokane-vintage-foreign-beer-glasses/gnQexqVDvUvrmrAFAPAKwB) | Vintage KLOSTERBRÄU Koblenz RHEINISCH PILS Beer Tulip ... | 38 | 38 |
@@ -263,4 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00i0i_fsy8vLf4Y1E_0CI0vg_300x300.jpg" width="120"> | 7975678224 | $50 | greenbay | [1800s Cast Iron Cuspidor](https://www.craigslist.org/view/d/whitelaw-1800s-cast-iron-cuspidor/1RpjfUU5fWnd7BXpPYCzm6) | 1stDibs | 600 | 12 |
 | <img src="https://images.craigslist.org/01515_iJtYjoUdPwd_0t20t2_300x300.jpg" width="120"> | 7942937814 | $15 | tulsa | [Bracelets](https://www.craigslist.org/view/d/broken-arrow-bracelets/hnkM2T4Fs2MDbm6MmrNoeg) | eBay | 175 | 11.67 |
 | <img src="https://images.craigslist.org/00V0V_78W7TnOMiO2_0CI0t2_300x300.jpg" width="120"> | 7978093833 | $52 | losangeles | [BARBARA A. WOOD](https://www.craigslist.org/view/d/monrovia-barbara-wood/fUMC8BsekuSehFZgF6buVe) | Art Brokerage | 600 | 11.54 |
-| <img src="https://images.craigslist.org/00c0c_8coi7fQKFpT_0jS0t2_300x300.jpg" width="120"> | 7933122532 | $6 | memphis | [Set of 4 Antique Elegant Glass Candle Holders](https://www.craigslist.org/view/d/collierville-set-of-antique-elegant/4nsJEXY7DKcSY6JtB8yy4Q) | Set Of 4 Hobby Lobby Bubble Glass Clear Ball Candlesticks .. | 68 | 11.33 |
