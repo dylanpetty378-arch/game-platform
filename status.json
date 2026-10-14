@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T21:58:05Z",
+ "updated": "2026-10-14T22:03:13Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9474,
-  "events": 33090,
+  "lens": 9499,
+  "events": 33115,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 578,
-  "flagged": 1122,
-  "lensed": 370
+  "queued": 553,
+  "flagged": 1139,
+  "lensed": 378
  },
  "last_harvests": [
   {
@@ -531,6 +531,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957064009",
+   "title": "Antique Elgin Size 12 17 Jewel Pocketwatch 14K Gold Filled",
+   "price": 1,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/palm-coast-antique-elgin-size-jewel/j5BbSgMQ89YkRmHxgBSFVH",
+   "best": "Elgin 1927 Grade 479 17 Jewels Pocket-Watch | eBay",
+   "med": 385,
+   "ratio": 385,
+   "ai_value": ""
+  },
+  {
    "pid": "7937626231",
    "title": "GORGEOUS VINTAGE 14K GOLD JEWELRY & STERLING SILVER JEWELRY COLLECTION FOR SALE",
    "price": 1,
@@ -550,6 +561,17 @@
    "best": "Large Butterfly Pendant Necklace \u2013 Chelsea Pacifica",
    "med": 5950,
    "ratio": 297.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972387107",
+   "title": "D-Decorative Antique spoon ETC.",
+   "price": 55,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-decorative-antique-spoon/qnYj6FxdVYPn1zA4pVY1pu",
+   "best": "REED & BARTON LES SIX FLEURS STERLING SILVER 2 PC SALAD SERV ...",
+   "med": 14950,
+   "ratio": 271.82,
    "ai_value": ""
   },
   {
@@ -825,6 +847,17 @@
    "best": "Over 1 Pound Jewelry Vintage Modern Huge Lot ALL GOOD Wear ...",
    "med": 125,
    "ratio": 62.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950666174",
+   "title": "Vintage Floral Plates",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-vintage-floral-plates/hUdSGSY9JPJvsMp6ozXuxk",
+   "best": "LARGE VINTAGE ROYAL ALBERT SERVICE PLATE IN PINK ...",
+   "med": 1200,
+   "ratio": 60,
    "ai_value": ""
   },
   {
@@ -1353,6 +1386,17 @@
    "best": "Craigslist",
    "med": 418,
    "ratio": 20.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951927771",
+   "title": "AQUAMARINE 14k Gold EARRINGS",
+   "price": 99,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-aquamarine-14k-gold-earrings/7M34zMHoW4bgtfY4jrFYCW",
+   "best": "Size 5.25 - 14K 585 Rose Gold Topaz Ring - Elegant Vintage ...",
+   "med": 2058,
+   "ratio": 20.79,
    "ai_value": ""
   },
   {
@@ -2808,6 +2852,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983363387",
+   "title": "Vintage Nishi Geisha Dolls",
+   "price": 20,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/nashville-vintage-nishi-geisha-dolls/fdNxrXtdGosdCdJ8Ti3GA6",
+   "best": "Vintage Nishi And Co Ltd Snow Queen Japanese Geisha Doll ...",
+   "med": 139,
+   "ratio": 6.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7983294336",
    "title": "Dan Wheeler Oregon Studio Pottery/Porcelain 14\" Covered Jar",
    "price": 60,
@@ -3556,6 +3611,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943771249",
+   "title": "Polynesian Mask",
+   "price": 75,
+   "area": "lascruces",
+   "url": "https://www.craigslist.org/view/d/las-cruces-polynesian-mask/h46rAUE6CtC66pVMb3JoPo",
+   "best": "Vintage Pre-columbian Style Wooden Mask: Latin American ...",
+   "med": 353,
+   "ratio": 4.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7950474788",
    "title": "Illinois Watch Co Pocket Watch. for Parts",
    "price": 49,
@@ -4161,6 +4227,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941603397",
+   "title": "14K Amethyst Pendant",
+   "price": 90,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/hillsboro-14k-amethyst-pendant/ojMgDbYpq3Adm1N4zJbwa3",
+   "best": "18K Yellow Gold 4 ct. Amethyst Pendant | eBay",
+   "med": 355,
+   "ratio": 3.94,
+   "ai_value": ""
+  },
+  {
    "pid": "7947850125",
    "title": "Brooches and Pins",
    "price": 10,
@@ -4213,6 +4290,17 @@
    "best": "Vintage Art Deco Style Rhinestone Pendant Statement ...",
    "med": 96,
    "ratio": 3.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945743517",
+   "title": "ANTIQUE DEATH MASK",
+   "price": 125,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/elmhurst-antique-death-mask/hFU31TS3H3kqEpbfNYk66K",
+   "best": "African Mask from Cameroon | eBay",
+   "med": 475,
+   "ratio": 3.8,
    "ai_value": ""
   },
   {
@@ -5173,6 +5261,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950275333",
+   "title": "Very Pretty Sterling Silver CAMEO Pendant",
+   "price": 59,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-very-pretty-sterling-silver/hurZKXcpvfDrnNrJx5NCqQ",
+   "best": "Vintage Sterling Silver and Palladium Carved Shell Cameo ...",
+   "med": 162,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7953763068",
    "title": "Beautiful Pottery Bowl",
    "price": 82,
@@ -5565,6 +5664,17 @@
    "url": "https://www.craigslist.org/view/d/santa-barbara-vintage-chinese-tea/oRg4HLeiZLhMwsyztz6rCo",
    "best": "Etsy",
    "med": 120,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971111342",
+   "title": "Vintage Framed Signed Portrait Oil Painting",
+   "price": 250,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-vintage-framed-signed-portrait/qJiEW5mYhxKgCjxVeApwia",
+   "best": "Original W. Dawson Old Man With Pipe Oil Painting",
+   "med": 599,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -6072,6 +6182,17 @@
    "best": "eBay",
    "med": 106,
    "ratio": 2.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936398651",
+   "title": "Old Porcelain Courtesan / Geisha Girl Figurine",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/cambridge-old-porcelain-courtesan/oTZ67nM42gSGu6Lqo6sT2h",
+   "best": "Aynsley Bone China 3 Piece Tea Set for Sale in Winthrop, MA ...",
+   "med": 200,
+   "ratio": 2.11,
    "ai_value": ""
   },
   {
@@ -6867,6 +6988,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956256853",
+   "title": "Vintage pink glass basket",
+   "price": 25,
+   "area": "carbondale",
+   "url": "https://www.craigslist.org/view/d/mount-vernon-vintage-pink-glass-basket/kbWbFgH4SDQf2jYJ2hZ3Ur",
+   "best": "Fenton Art Glass Dusty Rose Inverted Strawberry Basket 6 ...",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -7424,6 +7556,17 @@
    "url": "https://www.craigslist.org/view/d/denver-beautiful-italian-pictire/aZ3N8uq1LXPKTvwaHnMaDm",
    "best": "eBay",
    "med": 315,
+   "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954565024",
+   "title": "14k Tri-Color GOLD HOOP EARRINGS medium size",
+   "price": 159,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-14k-tri-color-gold-hoop/oTunVfGymJMjo9K2GwDdcL",
+   "best": "Solid 10K Gold Tri-color Hoop Earring 2cm Size, Ladies Gold ...",
+   "med": 249,
    "ratio": 1.57,
    "ai_value": ""
   },
@@ -8414,6 +8557,17 @@
    "url": "https://www.craigslist.org/view/d/woodland-hills-vintage-african-hand/7yja6BQprngUBFLKgrC15M",
    "best": "African Medicine Man Statue - Etsy",
    "med": 98,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949341953",
+   "title": "Sterling silver Cushion Cut Citrine Topaz",
+   "price": 95,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/happy-valley-sterling-silver-cushion/71qJgN7gp5B4diWDKP4qMD",
+   "best": "Cushion-Cut Citrine and White Topaz Ring in Sterling Silver ...",
+   "med": 120,
    "ratio": 1.26,
    "ai_value": ""
   },
@@ -9811,6 +9965,17 @@
    "url": "https://www.craigslist.org/view/d/grantsdale-assortment-of-vintage-music/fr6W2Dnt7GKi7noBAEjZRK",
    "best": "Sanyo Figurines Kids Under Rotating Umbrella/ HUMMELL SYTLE ...",
    "med": 18,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983408063",
+   "title": "Vintage DeMario NY Signed Gold Tone Brooch and Clip On Earrings Set",
+   "price": 50,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/huntington-beach-vintage-demario-ny/1XRhTuH1VLBDd7LHTdEi7V",
+   "best": "Vintage Coro Berry Leaf Rhinestone Cluster Gold Tone Pin ...",
+   "med": 45,
    "ratio": 0.9,
    "ai_value": ""
   },
@@ -12802,6 +12967,28 @@
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/chicago-jewelry-set/anX94Z91umGY4qpYebYb2v",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942014853",
+   "title": "NUDE WOMAN 1880's Antique German STRAIGHT RAZOR",
+   "price": 199,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-nude-woman-1880s-antique/bh9WzRN3gXvVYFZWEBeXoa",
+   "best": "Absolute Auctions & Realty",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954376437",
+   "title": "Panerai 47 Special Watch",
+   "price": 475,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-panerai-47-special-watch/5gt76AUcQ6bRRabmWbrCwm",
+   "best": "Watch Panerai Radiomir California Dial 1936 PAM 249 New with ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
