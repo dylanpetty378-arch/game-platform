@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:58:26Z",
+ "updated": "2026-10-14T23:02:23Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9849,
-  "events": 33465,
+  "lens": 9874,
+  "events": 33490,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 203,
-  "flagged": 1403,
-  "lensed": 458
+  "queued": 178,
+  "flagged": 1418,
+  "lensed": 468
  },
  "last_harvests": [
   {
@@ -531,6 +531,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935117441",
+   "title": "Vintage gold toned leaf pin",
+   "price": 1,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-vintage-gold-toned-leaf-pin/iM9wEzqoxzjkaWgG2QCWNz",
+   "best": "Tiffany & Co. 14K Yellow Gold Detailed Flared Textured ...",
+   "med": 500,
+   "ratio": 500,
+   "ai_value": ""
+  },
+  {
    "pid": "7975187556",
    "title": "Goldtone Chain w/HD Pendent",
    "price": 10,
@@ -927,6 +938,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954502050",
+   "title": "Fashion Gold Square Earrings",
+   "price": 12,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-gold-square-earrings/hUeJGrNdWawe7LeqPxe3XJ",
+   "best": "Robin Rotenier | Jewelry | Robin Rotenier 8k Yellow Gold ...",
+   "med": 788,
+   "ratio": 65.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7949573802",
    "title": "Vintage Silver Sugar Serving Tongs",
    "price": 1,
@@ -1166,6 +1188,17 @@
    "best": "Double Sided Corundum Ruby Ganesha Statue | Spiritual Altar ...",
    "med": 830,
    "ratio": 41.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949314282",
+   "title": "Miami Cuban Link bracelet",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-miami-cuban-link-bracelet/fou9XtS2ceyuQg8r6zurLa",
+   "best": "Miami Cuban Link Bracelet Thick 25 Mil Gold Filled... From ...",
+   "med": 4044,
+   "ratio": 40.44,
    "ai_value": ""
   },
   {
@@ -2046,6 +2079,17 @@
    "best": "Etsy",
    "med": 465,
    "ratio": 15.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983461889",
+   "title": "Men's silver chain",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-mens-silver-chain/n3vqqavNL6pVmdQPsBW9qw",
+   "best": "Estate Vintage Ornate Sterling Silver Embossed Link Chain ...",
+   "med": 604,
+   "ratio": 15.1,
    "ai_value": ""
   },
   {
@@ -3127,6 +3171,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948581518",
+   "title": "Gold Metal and Pearls Beaded Necklace",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-gold-metal-and-pearls-beaded/6H8cSwzSC4Xdbr5MciZwtd",
+   "best": "A classic Necklace encompassing Pearls and 916 Gold ...",
+   "med": 350,
+   "ratio": 7.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7949550641",
    "title": "wall paintings",
    "price": 30,
@@ -3442,6 +3497,17 @@
    "url": "https://www.craigslist.org/view/d/bellaire-antique-womens-watches/5cVve2b9wzkBACJrS39NN1",
    "best": "Fortis 17 Jewels Vintage Womens Cocktail Watch 10K RGP Bezel ...",
    "med": 65,
+   "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983498147",
+   "title": "Majolica 8\" Pitcher with Birds Antique",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/maynard-majolica-pitcher-with-birds/cdQvAVxJWrKYrTjfv2VQ7f",
+   "best": "Vintage Majolica 8\" Pitcher with Birds | eBay",
+   "med": 325,
    "ratio": 6.5,
    "ai_value": ""
   },
@@ -4337,6 +4403,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982040006",
+   "title": "VNTG Taxco Sterling Silver Modernist Torque Collar Necklace 1970's",
+   "price": 40,
+   "area": "yuma",
+   "url": "https://www.craigslist.org/view/d/yuma-vntg-taxco-sterling-silver/nrGFWWpNo8oiasxUtDTAxC",
+   "best": "Sterling Silver Open Choker Necklace \u2013 6\" Sleek Style - Etsy",
+   "med": 187,
+   "ratio": 4.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7983186774",
    "title": "4 Peter Max Lithographs Hearts signed numbered",
    "price": 325,
@@ -4641,6 +4718,17 @@
    "url": "https://www.craigslist.org/view/d/chagrin-falls-navajo-sterling-turquoise/oDyXMhpNZssvEu1ttMKfbA",
    "best": "Vintage Ramon Sleeping Beauty Turquoise Cluster Watch ...",
    "med": 1195,
+   "ratio": 4.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983353742",
+   "title": "*Brand New* Automatic Self-Wind Mechanical Watch",
+   "price": 30,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/spring-branch-brand-new-automatic-self/thpuiM2i9ZEQC27sUoMaLR",
+   "best": "Men Watches Luxury Business Waterproof Watches Automatic ...",
+   "med": 128,
    "ratio": 4.27,
    "ai_value": ""
   },
@@ -5393,6 +5481,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979303442",
+   "title": "Silver Chain Necklace 20\"",
+   "price": 10,
+   "area": "billings",
+   "url": "https://www.craigslist.org/view/d/bozeman-silver-chain-necklace-20/vakSx7idy5Ku5HN2MUTEiH",
+   "best": "Joseph Nudelman Signed White Gold 14K Italy Diamond Cut ...",
+   "med": 35,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -5800,6 +5899,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947946397",
+   "title": "Fashion Jewelry Gold Bangle Bracelet",
+   "price": 14,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-jewelry-gold-bangle/q2RVNf6RApou38hsou8P4y",
+   "best": "Monet Gold tone Bangle Stackable Bracelet Etched CLASSY ...",
+   "med": 44,
+   "ratio": 3.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7980616389",
    "title": "Vintage Nautical Clock",
    "price": 40,
@@ -6185,6 +6295,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982306100",
+   "title": "Vintage Silver Tone Miraculous Medal of the Immaculate Conception Pendant Neckla",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-silver-tone-miraculous/qa8hahLGVq1vH7Kx6L6u36",
+   "best": "Vintage Miraculous Mary Chapel Sterling Silver Medal ...",
+   "med": 35,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7945352349",
    "title": "Antique Englefields London Tankard",
    "price": 55,
@@ -6545,6 +6666,17 @@
    "best": "World Bazaars Jade Collection 11 Pc Nativity Set Wood Base ...",
    "med": 128,
    "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936456409",
+   "title": "14k gold filled 35 grams chain",
+   "price": 395,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-14k-gold-filled-35-grams-chain/tyUqJaNsKWoBU73Z1Lt8Xe",
+   "best": "Solid 14k gold twisted rope 20\u201d necklace 1.6mm chain w ...",
+   "med": 1050,
+   "ratio": 2.66,
    "ai_value": ""
   },
   {
@@ -7094,6 +7226,17 @@
    "url": "https://www.craigslist.org/view/d/tempe-aspen-gold-wolf-by-maija/pRakVyrRnDYawP6th9Qsrp",
    "best": "Maija Aspen Gold Native American Maiden With Wolf Signed ...",
    "med": 130,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948505737",
+   "title": "Framed Art Painting Spain",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-framed-art-painting-spain/fVhcaUiqZG3p8DUFe5sTr7",
+   "best": "Amazon.com: Petal Lane Small Vintage Framed Wall Art ...",
+   "med": 106,
    "ratio": 2.36,
    "ai_value": ""
   },
@@ -7692,6 +7835,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949341737",
+   "title": "Swarovski heart earrings",
+   "price": 55,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-swarovski-heart-earrings/sbyQd7BhBb6iKy1P6bcjAa",
+   "best": "Swarovski | Jewelry | Swarovski Gold Tone Open Heart ...",
+   "med": 115,
+   "ratio": 2.09,
+   "ai_value": ""
+  },
+  {
    "pid": "7955450715",
    "title": "Painting by Zina Roitman (Hand-signed & Numbered Limited Edition)",
    "price": 60,
@@ -8139,6 +8293,17 @@
    "url": "https://www.craigslist.org/view/d/reading-handcrafted-sterling-silver/qmasCoMiNKQY3GqKRLj2qT",
    "best": "Lot of 6 assorted Authentic Native American Necklaces ...",
    "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964232933",
+   "title": "MadMen Pan Am dinner knife",
+   "price": 25,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/weehawken-madmen-pan-am-dinner-knife/3ixg6CKxaPipvJdxUYVJho",
+   "best": "6 Sterling Silver Table Knives By Betsy Patterson Stieff Co ...",
+   "med": 50,
    "ratio": 2,
    "ai_value": ""
   },
