@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:47:33Z",
+ "updated": "2026-10-14T06:51:04Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8024,
-  "events": 30038,
+  "lens": 8049,
+  "events": 30063,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 179,
+  "queued/relens": 189,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,8 +21,8 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 428,
-  "flagged": 253,
+  "queued": 403,
+  "flagged": 268,
   "lensed": 90
  },
  "last_harvests": [
@@ -705,6 +705,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977951291",
+   "title": "Rings size 7",
+   "price": 10,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/akron-rings-size/nZ13KSiZtWwhNdgo7uqTdT",
+   "best": "Etsy",
+   "med": 70,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135039",
    "title": "NEW 10K Sapphire & Diamond Ring",
    "price": 75,
@@ -887,6 +898,17 @@
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/fort-washington-vintage-sterling-14k/qyH3JtFimjhbTMaus3Kikq",
    "best": "Emerald Wedding Ring in 18k Yellow Gold| Baguette-Cut Eternity Ring| May Birthstone Ring| Evita",
+   "med": 95,
+   "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971564798",
+   "title": "Vintage IRMA BAVARIA Sugar Bowl with lid.",
+   "price": 20,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-vintage-irma-bavaria-sugar/5ixmKrSUzXpt1dkwtJX4gL",
+   "best": "Vintage M Z Austria Floral Sugar Bowl: Shabby Chic Cottage ...",
    "med": 95,
    "ratio": 4.75,
    "ai_value": ""
@@ -1167,6 +1189,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983120864",
+   "title": "Sterling Silver Ammonite Fossil Pin",
+   "price": 30,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-sterling-silver-ammonite-fossil-pin/37j9x69eLG3e92FCy6prJx",
+   "best": "RING, sterling silver & ammonite, handsmithed unikat, Warsaw ...",
+   "med": 97,
+   "ratio": 3.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7965241119",
    "title": "Lot of Costume Diamonds, bracelet, necklaces",
    "price": 18,
@@ -1299,6 +1332,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938166705",
+   "title": "Turquoise and smokey quartz necklace",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-turquoise-and-smokey-quartz/xqTeMX75cmjQ6WLPw6Mmmp",
+   "best": "eBay",
+   "med": 108,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7936434686",
    "title": "Set of 5 Vintage Knives",
    "price": 15,
@@ -1351,6 +1395,17 @@
    "best": "14kY Arizona Amethyst Horizon Gold Ring \u2013 Sami Fine Jewelry",
    "med": 1258,
    "ratio": 2.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958306450",
+   "title": "Vintage Goldstone Nursing Brooch",
+   "price": 6,
+   "area": "memphis",
+   "url": "https://www.craigslist.org/view/d/collierville-vintage-goldstone-nursing/9ooTV92gipekprNieKy3K6",
+   "best": "Etsy",
+   "med": 15,
+   "ratio": 2.5,
    "ai_value": ""
   },
   {
@@ -1713,6 +1768,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-whitney/mWoSpqrv5K13Jb8miRTFv6",
    "best": "Craigslist",
    "med": 70,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934384017",
+   "title": "Vintage Flower Broach Pin - A",
+   "price": 20,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-vintage-flower-broach-pin/75kxX7s2uVZdT7ZpkVE9pa",
+   "best": "Etsy",
+   "med": 35,
    "ratio": 1.75,
    "ai_value": ""
   },
@@ -2289,6 +2355,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948587345",
+   "title": "Navajo Signed T Sterling Silver & Natural Turquoise Pendant",
+   "price": 150,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-signed-sterling/gRhBEPyYbKPpHBLxUnDPXa",
+   "best": "Etsy",
+   "med": 179,
+   "ratio": 1.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7950509932",
    "title": "New Set of 2 Hand-Crafted Clay Figurines",
    "price": 85,
@@ -2476,6 +2553,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932016391",
+   "title": "Sterling Silver & Turquoise Size 7.25 Ring Stamped Sterling Mexico",
+   "price": 85,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/wD3JuAsamM1mCarRK4wcgA",
+   "best": "Native America Navajo Handmade Sterling Silver Turquoise ...",
+   "med": 87,
+   "ratio": 1.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7943192265",
    "title": "Sterling Silver & Coral Size 6 Ring",
    "price": 30,
@@ -2494,6 +2582,17 @@
    "url": "https://www.craigslist.org/view/d/oak-lawn-haeger-pottery-magnificent/rJ9RRCJa8L6yWgwHzYoA8S",
    "best": "Haeger 1965 S. Maglio L-12 Vase | #30598411",
    "med": 125,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948909252",
+   "title": "Sterling Silver CZ & Synthetic Emeralds Set",
+   "price": 85,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-sterling-silver-cz-synthetic/8m2HFR7C4RKfSadENCH5Ut",
+   "best": "Emerald Green Oval Crystal Drop Necklace, Stud Earrings and ...",
+   "med": 85,
    "ratio": 1,
    "ai_value": ""
   },
@@ -2729,6 +2828,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981974135",
+   "title": "Vintage Navajo Sterling silver earrings",
+   "price": 125,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-navajo-sterling-silver/8joZscFkDQ4yAVqPkMpkQk",
+   "best": "Vintage Native American Navajo Sterling Silver Turquoise ...",
+   "med": 92,
+   "ratio": 0.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7940114039",
    "title": "Sterling silver kokopelli earrings",
    "price": 40,
@@ -2802,6 +2912,17 @@
    "url": "https://www.craigslist.org/view/d/spencerport-jewelry/dy4jBMc4sGgcnH4xHGXCCQ",
    "best": "Native American J Nelson Turquoise Pendant Sterling Silver ...",
    "med": 251,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967793102",
+   "title": "Vintage Navajo Sterling Silver Petit Point Butterfly Size 7 Ring",
+   "price": 150,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-vintage-navajo-sterling-silver/sBKPUzNjMy5cRaaeRyMTBV",
+   "best": "Early Vintage Native American Navajo Snake Eyes Turquoise ...",
+   "med": 94,
    "ratio": 0.63,
    "ai_value": ""
   },
@@ -2927,6 +3048,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943810788",
+   "title": "Vintage 4 Piece Brown Drip Coffee/Tea Set",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-piece-brown-drip/2YrnMpNj6qeBSodii9MoSA",
+   "best": "Hull Pottery Brown Drip Coffee Tea Set / 14 Piece USA ...",
+   "med": 24,
+   "ratio": 0.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7942923496",
    "title": "Kendra Scott Bracelet/Necklace Combo Like NEW!",
    "price": 80,
@@ -3037,6 +3169,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932673439",
+   "title": "Sterling silver adjustable necklace",
+   "price": 35,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-adjustable/dwMJAUFNJQcsm6UBPqSWe4",
+   "best": "Silve Beaded choker Ethnic Handmade Necklace Chain Jewelry ...",
+   "med": 13,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7981590990",
    "title": "Sterling Silver & Larimar ring - size10",
    "price": 150,
@@ -3136,6 +3279,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955770631",
+   "title": "Large vintage wall pocket watch clock",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-large-vintage-wall-pocket/hDZnn1a8fE9m3Hgg9cbvZh",
+   "best": "eBay",
+   "med": 15,
+   "ratio": 0.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7941911946",
    "title": "14k SOLID GOLD CHAIN",
    "price": 300,
@@ -3197,6 +3351,17 @@
    "area": "cnj",
    "url": "https://www.craigslist.org/view/d/plainfield-18-gold-cross/cnujJNn9S7zz6oCxKfAieL",
    "best": "Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945813631",
+   "title": "1970's Vintage Slingerland 9x13 Tom",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/1970s-vintage-slingerland-9x13-tom/fu7gmX2kYDoAF4R6S4YoRH",
+   "best": "Used Yamaha 3 Piece Stage Custom Natural Drum Kit Natural ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

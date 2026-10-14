@@ -30036,3 +30036,28 @@
 {"ts":"2026-10-14T06:47:03Z","pid":"7954976996","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-14T06:47:09Z","pid":"7944220559","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-14T06:47:20Z","pid":"7948292767","stage":"lensed","run":"lensworker-20261014-0644","note":null,"data":{"med":55,"ratio":0.28,"mismatch":[]}}
+{"ts":"2026-10-14T06:47:29Z","pid":"7948909252","stage":"flagged","run":"lensworker-20261014-0644","note":null,"data":{"med":85,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-14T06:47:36Z","pid":"7949274322","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:47:46Z","pid":"7983120864","stage":"flagged","run":"lensworker-20261014-0644","note":null,"data":{"med":97,"ratio":3.23,"mismatch":[]}}
+{"ts":"2026-10-14T06:47:54Z","pid":"7931668605","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:48:04Z","pid":"7932673439","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Jewelry — title does not","data":{"med":13,"ratio":0.37,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-14T06:48:15Z","pid":"7943810788","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Hull — title does not","data":{"med":24,"ratio":0.48,"mismatch":["Hull"]}}
+{"ts":"2026-10-14T06:48:20Z","pid":"7929017809","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:48:31Z","pid":"7967793102","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Eyes, Native — title does not","data":{"med":94,"ratio":0.63,"mismatch":["Eyes","Native"]}}
+{"ts":"2026-10-14T06:48:37Z","pid":"7951172958","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:48:45Z","pid":"7958306450","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Jewelry, Lane — title does not","data":{"med":15,"ratio":2.5,"mismatch":["Jewelry","Lane"]}}
+{"ts":"2026-10-14T06:48:53Z","pid":"7945813631","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Yamaha — title does not","data":{"med":null,"ratio":null,"mismatch":["Yamaha"]}}
+{"ts":"2026-10-14T06:48:59Z","pid":"7952660550","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:49:07Z","pid":"7932016391","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Native, Navajo — title does not","data":{"med":87,"ratio":1.02,"mismatch":["Native","Navajo"]}}
+{"ts":"2026-10-14T06:49:15Z","pid":"7934384017","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Gold, Jewelry — title does not","data":{"med":35,"ratio":1.75,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-14T06:49:23Z","pid":"7971564798","stage":"flagged","run":"lensworker-20261014-0644","note":null,"data":{"med":95,"ratio":4.75,"mismatch":[]}}
+{"ts":"2026-10-14T06:49:32Z","pid":"7955770631","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Company, Hardware, United Clock Corp — title does not","data":{"med":15,"ratio":0.15,"mismatch":["Company","Hardware","United Clock Corp"]}}
+{"ts":"2026-10-14T06:49:40Z","pid":"7983184710","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:49:50Z","pid":"7938166705","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Czech Art Deco, Enamel, Gold, Jewelry — title does not","data":{"med":108,"ratio":2.7,"mismatch":["Czech Art Deco","Enamel","Gold","Jewelry"]}}
+{"ts":"2026-10-14T06:49:58Z","pid":"7948587345","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Jewelry, Morris, Native — title does not","data":{"med":179,"ratio":1.19,"mismatch":["Jewelry","Morris","Native"]}}
+{"ts":"2026-10-14T06:50:05Z","pid":"7944220696","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:50:12Z","pid":"7945115604","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:50:21Z","pid":"7977951291","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Opal, Silver — title does not","data":{"med":70,"ratio":7,"mismatch":["Opal","Silver"]}}
+{"ts":"2026-10-14T06:50:29Z","pid":"7981974135","stage":"flagged","run":"lensworker-20261014-0644","note":"Lens names Native — title does not","data":{"med":92,"ratio":0.74,"mismatch":["Native"]}}
+{"ts":"2026-10-14T06:50:36Z","pid":"7952375425","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:50:43Z","pid":"7983218598","stage":"queued","status":"relens","run":"lensworker-20261014-0644","note":"empty Lens read, auto re-queued"}
