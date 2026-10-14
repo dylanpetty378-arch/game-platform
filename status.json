@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:48:27Z",
+ "updated": "2026-10-14T16:51:53Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9163,
-  "events": 31977,
+  "lens": 9188,
+  "events": 32002,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 470,
+  "queued/relens": 475,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 89,
-  "flagged": 878,
-  "lensed": 313
+  "queued": 64,
+  "flagged": 890,
+  "lensed": 321
  },
  "last_harvests": [
   {
@@ -607,6 +607,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983248475",
+   "title": "Vintage - (New) Chinese Tea Pot",
+   "price": 10,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/deland-vintage-new-chinese-tea-pot/kzwBuugbzEKfWy74M1noCz",
+   "best": "MT465 Vintage Red Ceramic Watch Tower Teapot Swords And ...",
+   "med": 995,
+   "ratio": 99.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7979444442",
    "title": "Horseshoe Clover Jewelry Charm",
    "price": 5,
@@ -945,6 +956,17 @@
    "best": "eBay",
    "med": 2995,
    "ratio": 29.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950709518",
+   "title": "Artisan Rose Quartz Necklace $20",
+   "price": 20,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-artisan-rose-quartz/dqZLwxxKyYDjif6vzPhMVc",
+   "best": "925 Sterling Silver Mesh Bracelet With Button Pearls 39.4g ...",
+   "med": 590,
+   "ratio": 29.5,
    "ai_value": ""
   },
   {
@@ -1531,6 +1553,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975309791",
+   "title": "Vintage Skull Pewter Goth Ring",
+   "price": 5,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/saugus-vintage-skull-pewter-goth-ring/5UZ1Gnb4PYWLeRYWmnGgYL",
+   "best": "Vintage Sterling Silver Chicago Native American Spoon Ring ...",
+   "med": 65,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
    "pid": "7954057584",
    "title": "Beautiful Vintage Lamp",
    "price": 10,
@@ -1561,6 +1594,17 @@
    "best": "Craigslist",
    "med": 2500,
    "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983264771",
+   "title": "1960s Swank cufflink collection",
+   "price": 12,
+   "area": "newlondon",
+   "url": "https://www.craigslist.org/view/d/waterford-1960s-swank-cufflink/3DwdBTkwHR7sqAvJ7pwxEc",
+   "best": "Vintage Mens Cuff Links and Tie Bar in Vintage Travel Box - Etsy",
+   "med": 149,
+   "ratio": 12.42,
    "ai_value": ""
   },
   {
@@ -2169,6 +2213,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954934702",
+   "title": "Jade carved bracelet",
+   "price": 75,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/melbourne-jade-carved-bracelet/dvZ9Mwvrj2ZwK9Tos6VHvT",
+   "best": "Natural genuine Burmese jade jadeite bangle floral figure ...",
+   "med": 538,
+   "ratio": 7.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7972199868",
    "title": "VINTAGE JADE AND ART GLASS BONSAI TREE",
    "price": 35,
@@ -2396,6 +2451,17 @@
    "url": "https://www.craigslist.org/view/d/narvon-buck-373-old-timer-knives/kDfh4Z67dxTyvgzVVaBS9u",
    "best": "Vintage Coast Cutlery, Silver Moose lockback 3\", NOS | eBay",
    "med": 150,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983278721",
+   "title": "Western Figurines",
+   "price": 15,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/manchaca-western-figurines/bnMtcddtWgwJZ7Uo6WXNiY",
+   "best": "Russ Berrie Ceramic Figure on Base - Cowboy Trails Last ...",
+   "med": 90,
    "ratio": 6,
    "ai_value": ""
   },
@@ -2958,6 +3024,17 @@
    "best": "Jewelry Lot 10 Earrings Hoops Silver Tone Dangle Barefoot ...",
    "med": 13,
    "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969167423",
+   "title": "JUG MUSIC BOX",
+   "price": 20,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/newark-jug-music-box/3ky3B8MFh6MmWYwHeuvfSB",
+   "best": "Vintage Thorens Inc Music Box Ceramic Pottery Jug New York ...",
+   "med": 86,
+   "ratio": 4.3,
    "ai_value": ""
   },
   {
@@ -3540,6 +3617,17 @@
    "url": "https://www.craigslist.org/view/d/mckinney-fashion-necklaces/m8gtyyfyx445JP6eTJ61tG",
    "best": "Etsy",
    "med": 66,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947724704",
+   "title": "Royal Doulton Tony Willer 3\u201d high mug",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-royal-doulton-tony-willer/7vnpUqKZ8LMj7adnDxTcsR",
+   "best": "Vintage 1930s Royal Doulton England Tony Weller D 5531 ...",
+   "med": 33,
    "ratio": 3.3,
    "ai_value": ""
   },
@@ -4475,6 +4563,17 @@
    "url": "https://www.craigslist.org/view/d/pompano-beach-ludwig-piccolo-snare-drum/w95bvnhXEnBcbed3wDsy3i",
    "best": "eBay",
    "med": 229,
+   "ratio": 2.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943922250",
+   "title": "Antique American Tool Co. Hatchet",
+   "price": 65,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/whitelaw-antique-american-tool-co/vTTXxzC6XW1LkU4rvXe1SJ",
+   "best": "VINTAGE WWII PLUMB VICTORY HATCHET c.1942 Original Handle ...",
+   "med": 150,
    "ratio": 2.31,
    "ai_value": ""
   },
@@ -6015,6 +6114,17 @@
    "url": "https://www.craigslist.org/view/d/saint-louis-vintage-buttons-mixed-lot/aPZPrafKcVGWvMDnHnmamE",
    "best": "Vintage Lot of 70+ Sewing Buttons on 20 Cards Pink & Purple ...",
    "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971973515",
+   "title": "Vintage Industrial Simplex 11\" Wall Clock",
+   "price": 100,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-industrial-simplex/7BujNeiw17AQMTUVzLYNSZ",
+   "best": "Vintage Simplex 14\u201d School /Industrial Wall Clock Electric ...",
+   "med": 150,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -8109,6 +8219,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983312108",
+   "title": "Bronze Statues - a Pair",
+   "price": 500,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/silver-spring-bronze-statues-pair/vs1P5F6D6c2Prmb3fRyjXW",
+   "best": "VINTAGE BRONZE PERSONAL BUTLER STATUES. SET OF 2, 10.5\u201d TALL ...",
+   "med": 375,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7971834546",
    "title": "Vintage Sterling Silver Turquoise & Coral Hopi/Navajo Size 6 1/4 Ring",
    "price": 250,
@@ -8336,6 +8457,17 @@
    "url": "https://www.craigslist.org/view/d/conowingo-sinkiang-rebel-cash-coin/bM4fR4s5rcKm8pYZkwRwcG",
    "best": "eBay",
    "med": 28,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983255714",
+   "title": "Vintage Travel Sewing Kit",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/brookline-vintage-travel-sewing-kit/efky3JDeJX6PyUoy3qhQEG",
+   "best": "Vtg Pink Plastic Complete Travel Sewing Kit w/Rhinestones ...",
+   "med": 10,
    "ratio": 0.67,
    "ai_value": ""
   },
