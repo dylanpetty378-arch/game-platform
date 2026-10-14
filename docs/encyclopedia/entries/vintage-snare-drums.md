@@ -71,6 +71,9 @@ Buy when: Ludwig keystone/blue-olive, Slingerland, Rogers, Gretsch badge visible
 visible or MIJ lug style (tapered nut lugs). Profit must be ≥ max($50, price) after ~13% fees (Reverb ~8%) and shipping
 both ways. Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-14: Some Craigslist "Premier snare" listings are just screenshots of other dealers' listings (an anti-spam rant). Check that the photos show the seller's own item.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 10, "shape": "round", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 2, "id_difficulty": 3, "rarity": 2, "sold_per_month": 600, "sell_through": "?", "days_to_sell": 21, "price_p25_p50_p75": [70, 150, 350], "price_spread": 5.0, "condition_sensitivity": 3, "seasonality": "none", "best_platform": "Reverb", "fees_pct": 8, "ship_cost_to_buyer": 25, "undervalue_frequency": 3, "bust_probability": 30, "expected_profit_typical": 10, "confidence": "low"}

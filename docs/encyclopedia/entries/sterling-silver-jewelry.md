@@ -96,6 +96,9 @@ Ranges are compiled estimates from dealer and collector guides; no dated sold co
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): Kalo Shop (Chicago Arts & Crafts silversmiths, 1900-1970) is missing from the entry — marks "KALO / STERLING / HAND WROUGHT"; original boxes printed "The Kalo Shop, 222 S. Michigan Ave, Chicago" date 1936-1970 (late period); plain late-period link bracelets ~$250-400, early hand-hammered pieces $500+ (no comp, verify)
+- 2026-10-14: An "AV" or "Alwand Vahan" hallmark with "925 14K" on the bail means mall-retail sterling with a thin 14k accent, under 2 cm. It is not gold-value; resale is about $40-60.
+- 2026-10-14: Lots described as "Navajo Zuni" that show square green-onyx cabochon earrings, chip-inlay coral/turquoise bands and abalone hoops are Mexican/Taxco-type tourist silver, priced by weight (~$1.5–2/g resale), not signed Southwestern work.
+- 2026-10-14: Forstner "charm bracelets" are often listed with NO charms attached - the bare Forstner sterling curb chain is ~8g, near melt; check the photo for actual charms before valuing as a charm bracelet.
 
 ## Rubric
 ```json

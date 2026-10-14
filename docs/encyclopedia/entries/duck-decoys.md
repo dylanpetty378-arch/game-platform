@@ -72,6 +72,7 @@ Buy when: wood body with glass eyes and keel/weight and original crazed paint (o
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): Plasti-Duk (Neumann & Bennetts, Berkeley CA, 1950s) inflatable plastic decoys sell $20-40 a pair; not carved-wood value.
+- 2026-10-14: unpainted, varnished pine "decoys" with a tin/lead bottom and a dowel weight hole and no glass eyes are 1970s-80s decorator carvings, not working decoys.
 
 ## Rubric
 ```json

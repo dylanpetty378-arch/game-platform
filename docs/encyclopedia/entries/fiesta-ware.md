@@ -69,6 +69,8 @@ Profit = sold median × 0.87 − ship to buyer (~$15–20) − ship to Dylan (~$
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): A 14.5-15" chop plate in original light green (minty, 1936-51) sells ~$40-70; the $300+ one is medium green (true kelly green, 1959-69). Tell: medium green is darker and bluer; light green reads pastel mint. Chop plates are often unmarked, so "unmarked" is not itself a red flag.
+- 2026-10-14: The seller's other listings tell you about the teapot. A seller with a "vintage original green" teapot also had Post-86 Persimmon/Cinnabar pieces, so get the base mark before trusting "vintage" (7942022128 vs 7943777513).
+- 2026-10-14: Cinnabar (maroon) and Persimmon (coral) are Post-86 colours. A listing showing them is Post-86, whatever the title says.
 
 ## Rubric
 ```json

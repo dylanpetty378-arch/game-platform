@@ -81,6 +81,9 @@ Title: maker – era – material (mohair) – size – button/tag status – mo
 ## Buy rule
 Buy when: (a) a mohair bear shows a Steiff button (any era) with ear/chest tag, a Merrythought/Hermann/Knickerbocker/Chad Valley label, or a Schuco mechanism, is largely intact (no heavy bald, original eyes/pads), and is priced ≤ 30% of a conservative sold value; or (b) a Raikes 1985 first-edition set or signed pre-Applause original at ≤ $40 per bear with box/certificate. Profit must be ≥ max($50, price) after 13% fees and ~$15 shipping each way. Pass when: tagless "antique" bears (attribution risk), synthetic plush, Raikes loose later editions above $20, bears with mould/odour/heavy loss, replicas priced as originals, and any pre-1915 Steiff above $200 where authenticity needs a specialist. Must fit a passenger seat (≤ 30 in).
 
+## Field notes (learned in triage)
+- 2026-10-14: The "A Bantam Toy" script tag and the "by BANTAM U.S.-TOYS INC." cloth tag mark a 1950s American plush bear with a red felt tongue. It is the low tier (about $25-40), not Ideal or Knickerbocker.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 3, "shape": "irregular",

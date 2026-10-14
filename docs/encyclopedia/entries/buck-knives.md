@@ -63,6 +63,7 @@ Modern Buck 110 sold ~$35 → can't clear $50. A 1960s multi-line 110 selling $1
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): Buck 110 "2 dot" (one dot each side of the model number) = 1974-80, sells $45-70; a blade sharpened past its belly drops it to the low end.
+- 2026-10-14: On a Buck 102 Woodsman, an aluminum pommel/guard with a black phenolic handle and a multi-line BUCK/USA stamp is the 1970s-80s version (~$40-60). The premium is a pre-1967 H.H. Buck or "BUCK" 2-line stamp with a black phenolic or stacked-leather handle.
 
 ## Rubric
 ```json

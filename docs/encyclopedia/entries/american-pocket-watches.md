@@ -79,6 +79,9 @@ Give maker, grade, size, jewels, serial and year (from serial lookup), case type
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$10) − ship to Dylan (~$10) − price ≥ max($50, price). A running Hampden GF hunter (median $150) works up to ~$60 asking (150 × 0.87 − 20 − 60 ≈ $50). Before buying ask: does it run, and what is stamped inside the back cover (karat or "gold filled/warranted")? Any solid gold case under $200 is a buy on gold weight alone (verify mark with a photo; acid-test on receipt). Pass: dollar watches above $15, non-running watches above $25, anything needing a service to sell. High-end Swiss watches (Patek, Vacheron, etc.) need authentication – out of scope.
 
+## Field notes (learned in triage)
+- 2026-10-14: On the Terapeak query "14k hunter case pocket watch Elgin" (median $570), the p25 example is a 14K gold-filled case. Quote it only once the inside lid reads solid 14K with an assay/karat stamp, never "14K gold filled" / "Guaranteed 20 years".
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.3, "shape": "round",

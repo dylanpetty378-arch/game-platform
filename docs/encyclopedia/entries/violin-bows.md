@@ -81,6 +81,7 @@ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger sea
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): weighing a bow on a kitchen scale (about 48-50 g for a violin bow) is common in CL photos. Weight alone doesn't show maker; ask for the stamp area just above the frog.
+- 2026-10-14: Craigslist "antique fiddle bow" listings often include a scale photo – a full-size (29.5"/75 cm) violin bow under ~55 g is light/under-weight; the value photo is a fire-brand stamp on the stick just above the frog (Bazin/Ouchard/Mirecourt vs "Germany"/blank), plus nickel vs silver mounts.
 
 ## Rubric
 ```json

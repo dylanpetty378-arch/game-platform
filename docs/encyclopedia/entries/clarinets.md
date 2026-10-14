@@ -62,6 +62,7 @@ Buy when: Selmer Paris or Buffet R13 stamp visible under $400, no cracks. Pass w
 
 ## Field notes (learned in triage)
 - 2026-10-13 (redo): Andre Chabot (Paris) is a French student wood stencil ($60-120), not a Buffet/Selmer tier.
+- 2026-10-14: Cundy-Bettoney (Boston) made one-piece silver-plated metal clarinets in the 1920s-40s. The line is engraved on the bell: Silva-Bet is the premium model, while Boston Wonder, Three Star and Columbia are student lines. With worn plating and no case they fall in the $60-120 tier, so a $75 asking price never clears.
 
 ## Rubric
 ```json

@@ -63,6 +63,9 @@ Describe as "Chinese brass, 20th century" unless provenance supports older; give
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$15) − ship to Dylan (~$15) − price ≥ max($50, price). Needs ~$95+ median. Buy only heavy, finely cast, unpolished hand warmers/censers at ≤ $40 and sell as 20th century. Pass plaques, engraved export bowls, polished pieces at $50+. Anything sold on dynasty claims requires authentication – pass.
 
+## Field notes (learned in triage)
+- 2026-10-14: Copper jars with applied white-metal dragons/masks, machine-pierced neck band, glass "cabochons" and a foo-dog finial are modern Nepal (Kathmandu) export ware; Lens calls them "Tibetan … silver-plated"; ~$40–70.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "round",

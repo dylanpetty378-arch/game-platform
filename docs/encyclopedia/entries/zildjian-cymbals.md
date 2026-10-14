@@ -109,6 +109,9 @@ Merged from the five write-ups:
 - Profit must be ≥ max($50, price) after ~13% fees (Reverb ~8%) and shipping both ways (Dylan's rule). Must fit a
   passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-14: Lens labels any old, patinated, unmarked large cymbal "Istanbul Agop". Ignore that and ask for the stamp (trans-stamp Zildjian, Istanbul K, Paiste) plus the weight.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 6, "shape": "flat", "fragility": 2, "transit_damage_risk": 2, "hidden_defect_risk": 3, "testability": 2, "repro_risk": 2, "id_difficulty": 3, "rarity": 1, "sold_per_month": 5000, "sell_through": "?", "days_to_sell": 14, "price_p25_p50_p75": [40, 120, 250], "price_spread": 6.3, "condition_sensitivity": 5, "seasonality": "none", "best_platform": "Reverb", "fees_pct": 8, "ship_cost_to_buyer": 25, "undervalue_frequency": 3, "bust_probability": 30, "expected_profit_typical": 15, "confidence": "medium"}

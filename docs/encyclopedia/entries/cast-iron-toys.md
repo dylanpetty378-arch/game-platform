@@ -97,6 +97,9 @@ Profit = sold × 0.87 − $11 − $11 − price ≥ max($50, price). Need crisp 
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): "Cast-iron tractor" sellers often have 1990s Spec-cast/Ertl collector diecast (cast "Spec-cast, Dyersville, IA" under the body, Old Farmer's Almanac 1992 edition) — $20-40, not Arcade/Hubley.
+- 2026-10-14: The "MONKEY BANK" (organ grinder) reproduction has bright green, yellow and brown paint, raised "MONKEY BANK" letters on the base front, a coarse sand-cast finish, a new steel coil spring and a bright trap. The base is about 9 in long. "I Always Did 'Spise a Mule" banks that sellers date to the 1970s are reproductions, not the J&E Stevens original.
+- 2026-10-14: Marx Disneykins sold loose and unboxed (Snow White, the dwarfs, Jiminy, Figaro) are the low tier at about $5-12 each. The boxed singles and the TV Scenes play sets are the valuable versions. Marx also made 1960s Kennedy family figures on square bases that show up mixed into these lots.
+- 2026-10-14: Mechanical bank lots in glossy bright paint with crisp lettered bases (Trick Dog, Trick Pony, Acrobat, Cat and Mouse, Humpty Dumpty bust, Hometown Battery) are 1970s reproductions. The seller of 7929167999 said so too.
 
 ## Rubric
 ```json

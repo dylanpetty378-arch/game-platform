@@ -69,6 +69,7 @@ Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) �
 - 2026-10-13 (triage): Black-bezel wrist compass with white degree ring on leather strap matches the postwar Soviet Adrianov type (Terapeak sold median $30); US WWII Taylor/USAAF and German AK39 wrist compasses are the $100+ versions and have maker text on the dial.
 - 2026-10-13 (triage): WWII M3 trench knives — Case-made M3s (1943 only) are blade-marked "U.S. M3 CASE" on the ricasso and are among the scarcer makers; guard-marked Imperial/Camillus/Utica are the common ones. Pitted blade with no M8 scabbard caps even a Case at ~$150-200; clean Case $300+.
 - 2026-10-13 (triage): Greek-return M1 bayonets are marked "E-US" (not "US") under the ordnance flaming bomb, and often come with restored/replacement "U.S. M7" scabbards; ~19,000 were imported — common, $60-100. Only WWII US-maker marks (UFH, AFH, PAL, UC, OL) or 1905E1 cut-downs bring $150-250.
+- 2026-10-14: A US Army green enlisted service cap with a light-blue infantry disc behind the eagle is the 1960s-80s pattern, about $25-35. The valuable versions are WWII officer crushers (soft visor, Bancroft/Flighter labels).
 
 ## Rubric
 ```json

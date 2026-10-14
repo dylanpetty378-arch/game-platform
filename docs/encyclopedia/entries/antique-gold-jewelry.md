@@ -128,6 +128,8 @@ Price ≤ $200; profit = median × 0.87 − ~$6 out − ~$6 in − price ≥ max
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): a pierced-lattice 14k initial ring like 7970681433 is ~1.5-2.5 g; at $1 "make an offer" listings, ask the gram weight before offering — melt sets the ceiling.
+- 2026-10-14: Victorian gold-filled hinged bangles with a black-enamel engraved band (taille d'épargne look) and a safety chain sometimes carry "Plainville Stock Co" or patent marks inside. Unmarked ones are low tier. Lens jumps to "10k gold filled Taille d'épargne", which sounds bigger than it is.
+- 2026-10-14: A seller's chain weight often includes the pendant. A thin 18in 14K serpentine/S-link chain weighs about 2-4 g, so "7.5 g" needs a scale photo of the chain alone before you price it at melt. Italian chains have a "14K ITALY" tag on the jump ring by the clasp.
 
 ## Rubric
 ```json

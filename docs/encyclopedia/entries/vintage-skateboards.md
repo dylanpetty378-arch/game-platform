@@ -120,6 +120,7 @@ Merged rules from the earlier write-ups:
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): 1980s BMX-style scooters: only GT Zoot Scoot / Mongoose names fetch $200-500; Huffy/Murray pastel ones $40-80 and ~20 lb, fail on shipping.
 - 2026-10-13 (triage): "Kryptonics" deck with a pink/neon rail and a big KRYPT ONICS top logo is often the 2010s mass-retail revival (Target/Walmart cruisers), not a 1980s original. Check for the modern bar code or sticker before treating it as collectible.
+- 2026-10-14: "Lotus" 1970s decks with the twin-globe banner logo are injection-molded plastic with a ribbed underside and molded truck pads – dept-store toy tier ($10–40), not a fibreglass/laminated collector deck.
 
 ## Rubric
 ```json

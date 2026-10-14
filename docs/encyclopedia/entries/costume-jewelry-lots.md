@@ -95,6 +95,7 @@ Buy rule (short): Pay for marks, metal content and sets, not for the word "vinta
 - 2026-10-13 (redo): a 1950s baguette riviere necklace with rhinestone loops is worth $50-80 signed (Weiss/Kramer/Eisenberg) and $20-30 unsigned. Always ask for the clasp photo.
 - 2026-10-13 (redo): 'Marjorie Baer' on an earring card is a modern San Francisco designer, $15-25 per pair resale
 - 2026-10-13 (triage): A "case of mom's vintage jewelry" with cloisonne and faux pearls and no visible signatures resells at the lot median ~$33 regardless of case size.
+- 2026-10-14: Matisse / Renoir enamel-on-copper brooches are stamped "MATISSE ©RENOIR" in small caps on the bare copper back (seen on the kite and apple forms). The kite form has a curly copper wire tail with a bow, and the apple has an open wire heart frame. No sold comp yet; estimate about $35-45 each, so a single brooch never clears $50 profit.
 
 ## Rubric
 ```json

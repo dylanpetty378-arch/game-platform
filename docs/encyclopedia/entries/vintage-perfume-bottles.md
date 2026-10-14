@@ -78,6 +78,7 @@ Profit = sold median × 0.87 − ~$12 shipping to buyer − ~$12 shipping to Dyl
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): Lanvin Arpege extrait 1/2 oz sealed with box — Terapeak median $60; sellers asking $55 are at retail. Only the large (1-2 oz) black boule flacons or pre-1950 stoppered bottles clear $100.
+- 2026-10-14: The Nina Ricci "L'Air du Temps" frosted-dove motif also exists as a pendant (frosted dove over a ribbed clear crescent, gold-tone bail) sold untitled as "peace dove glass pendant"; value hinges on an acid-etched Lalique/Nina Ricci mark on the back.
 
 ## Rubric
 ```json

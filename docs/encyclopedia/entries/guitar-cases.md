@@ -53,6 +53,9 @@ Interior label, lining, hinge/latch condition, interior dimensions and which gui
 ## Buy rule
 Profit = median × 0.87 − ~$55 − ~$55 − price ≥ max($50, price). Chipboard: never. Lifton/Geib (median $300): ≤ $60. Gibson brown/pink 50s (median $800): ≤ $200.
 
+## Field notes (learned in triage)
+- 2026-10-14: Black tolex, red plush and a combination-lock latch mean a 1970s–80s generic or import hardshell. A Lens "Geib 1940s/50s" match on such a case is wrong, because Geib cases are plywood with pebbled leather and earlier latches.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 8, "shape": "irregular",

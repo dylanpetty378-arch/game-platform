@@ -73,6 +73,9 @@ List every component, maker labels, cylinder status (empty), display-only, no me
 ## Buy rule
 Pass mid-century cases: median $50 → loss after shipping. Pre-1900 cased sets: buy when comps ≥ 3× price, price ≤ $150, contents complete and maker-labelled. Electrical devices sold as untested display only — Dylan's no-untested-electronics rule means pass unless very cheap and sold as display.
 
+## Field notes (learned in triage)
+- 2026-10-14: S. Maw Son & Thompson "Maw's Double Valved Earthenware Inhaler" (transfer-printed, London) — the top/mouthpiece is usually missing; a chipped original top still counts. Dr Nelson's Improved Inhaler is the common companion piece.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 15, "shape": "irregular",

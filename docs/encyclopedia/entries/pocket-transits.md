@@ -76,6 +76,9 @@ Name the maker and city exactly as marked ("Wm. Ainsworth & Sons, Denver"), the 
 ## Buy rule
 Buy when: brass Ainsworth under $70, K&E/aluminum under $35. Pass when: K&E at $60 (sold ~$100, profit <$50). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does). Correction: read "genuine (aluminium) Ainsworth under $70"; pass brass "Bruntons" as probable replicas.
 
+## Field notes (learned in triage)
+- 2026-10-14: The brass "NATURAL SINE" Brunton-style compass with "INDIA" cast on the lid is the Indian brass replica. A genuine K&E Natural Sine is aluminium and K&E-marked (7943355097).
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 1, "shape": "flat", "fragility": 2, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 2, "id_difficulty": 2, "rarity": 3, "sold_per_month": 40, "sell_through": 40, "days_to_sell": 30, "price_p25_p50_p75": [80, 120, 200], "price_spread": 2.5, "condition_sensitivity": 3, "seasonality": "none known (estimate)", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 8, "undervalue_frequency": 3, "bust_probability": 20, "expected_profit_typical": 30, "confidence": "low", "notes": "no dated sold comps; numbers are estimates; repro_risk 2 understates brass replicas (common on eBay) — consider 3"}

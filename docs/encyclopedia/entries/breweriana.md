@@ -94,6 +94,7 @@ Profit = sold × 0.87 − shipping each way − price ≥ max($50, price). Commo
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): 1970s-80s 2-sided plastic "Nothin' but taste" Winston lighted signs (20x9 in) list around $50 working. Oversize shipping plus a ~$40-80 resale means pass.
+- 2026-10-14: the Anheuser-Busch oval "Angels" serving tray is a common 1970s+ reproduction; sellers call it "very rare".
 
 ## Rubric
 ```json

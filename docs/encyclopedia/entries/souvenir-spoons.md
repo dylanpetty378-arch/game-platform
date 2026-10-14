@@ -52,6 +52,7 @@ Profit = sold × 0.87 − ~$6 ship to buyer − ~$6 ship to Dylan − price ≥ 
 
 ## Field notes (learned in triage)
 - 2026-10-13 (redo): Italian figural-finial demitasse spoons (Rome she-wolf, Venice lion, etc.) are often 800 silver even when the seller says plated. The back stamp ("800" vs "Italy" only) settles it.
+- 2026-10-14: The "Rolex collector spoon" sellers talk up is the Bucherer of Switzerland (Rolex dealer) giveaway, usually Interlaken/Luzern with a bear finial in a red-lined black case; very common, ~$15-25. It is not a Rolex-made item.
 
 ## Rubric
 ```json

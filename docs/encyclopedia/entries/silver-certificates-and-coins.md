@@ -71,6 +71,9 @@ Title: "[Year]-[Mint] Morgan Silver Dollar [grade/slab]" or "Series 1935[letter]
 ## Buy rule
 Buy when: silver is priced at or below melt (lots sold by weight), or a key-date/CC Morgan in a slabbed holder is under grey-sheet. Pass when: a single common silver cert is priced over $5, or a Morgan over $45 raw. The $45 cut-off was set at ~$35/oz silver; re-peg to current spot (Morgan melt = 0.7734 × spot). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-14: sellers who quote "spot price only, no discount" are bullion flippers; skip.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.2, "shape": "flat", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 3, "testability": 4, "repro_risk": 5, "id_difficulty": 4, "rarity": 1, "sold_per_month": 20000, "sell_through": 60, "days_to_sell": 7, "price_p25_p50_p75": [3, 15, 50], "price_spread": 16.7, "condition_sensitivity": 5, "seasonality": "none (tracks silver spot)", "best_platform": "eBay; local coin dealer for bullion", "fees_pct": 13, "ship_cost_to_buyer": 5, "undervalue_frequency": 1, "bust_probability": 40, "expected_profit_typical": 0, "confidence": "medium"}

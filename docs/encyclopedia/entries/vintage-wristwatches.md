@@ -128,6 +128,8 @@ Merged from both write-ups:
 - 2026-10-13 (triage): A lot of 4 common 1980s Swatch Gents resells ~$120-160 (no comp); only artist/rare refs (Velvet Underground, Blue Racer, Keith Haring) move the lot; two broken bands and untested quartz cap it.
 - 2026-10-13 (triage): Gruen "Veri-Thin" dials sit in curved rectangular GF cases that look like Curvex; the Curvex premium needs a curved caliber (311/330/440) visible on the movement. A missing stem/crown drops any Gruen to parts tier $40-90.
 - 2026-10-13 (triage): "Cadola" is a current microbrand selling ~$200 new (quartz chronograph, "1946" is marketing); resells $80-130 — not a vintage Swiss chronograph.
+- 2026-10-14: 1920s ladies cushion cases with an engraved white bezel and a 24-hour dial are often solid 14K or 18K white gold. Check the inside of the case back for a karat stamp without "filled", "GF", "rolled" or "25 year". A solid case alone carries $100+ in melt at 2026 gold prices, even with the hands missing.
+- 2026-10-14: CL "vintage watch collection" lots of ~6 typically = 2 1960s Bulova steel date dress watches + Wenger/Seiko quartz fillers; watch-dealer-lots comp median $60 caps them.
 
 ## Rubric
 ```json

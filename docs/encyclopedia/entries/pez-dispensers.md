@@ -54,6 +54,9 @@ Feet/no-feet, patent number, country, head condition, spring working, any swaps.
 ## Buy rule
 Profit = sold median × 0.87 − ~$5 to buyer − ~$5 to Dylan − price ≥ max($50, price). Single common no-feet pieces never qualify. Buy only early no-feet rarities with confirmed ≥ $80 comps at ≤ $15, or lots with several no-feet heads at ≤ $3 each. Avoid rarities that need authentication unless very cheap.
 
+## Field notes (learned in triage)
+- 2026-10-14: The Star Wars Pez in circulation are 1997+ releases with feet, worth about $2 each. They are not the valuable early no-feet dispensers.
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.1, "shape": "tall",

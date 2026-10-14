@@ -82,6 +82,9 @@ Buy rule (short): Pass on anything machine-made after ~1915 unless it's a known 
 - Practically: only pre-1910 coloured poisons, bitters, early sodas, labelled medicines or rare-town Cokes with a sold median of $100+ bought at ≤ ~$25–30.
 - Mixed lots: only local pickup, and only if the photo shows at least one high-value bottle by the tells above.
 
+## Field notes (learned in triage)
+- 2026-10-14: Robert Portner Brewing (Alexandria VA) aqua blob-tops/lightning-stopper beers embossed "Tivoli" are plentiful; Hygeia-embossed examples were the soda line. A 6–7 bottle remnant lot at $100 does not clear after heavy-glass shipping.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "tall",

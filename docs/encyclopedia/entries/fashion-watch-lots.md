@@ -89,6 +89,9 @@ Price ≤ $200. Profit = sold median × 0.87 − shipping to buyer − shipping 
 - No luxury brands (Rolex/Omega/Cartier): professional authentication required.
 - Fits in a pocket.
 
+## Field notes (learned in triage)
+- 2026-10-14: Ladies' watch lots can hide a Gruen Veri-Thin (usually gold-filled) or a Benrus 17j. Without a 14K/18K case stamp these do not lift a lot past about $60 (7929163965).
+
 ## Rubric
 ```json
 {"size_class": "pocket", "weight_lb": 0.2, "shape": "set-of-many",

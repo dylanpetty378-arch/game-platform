@@ -52,6 +52,9 @@ Maker and backstamp photo, capacity (cups), dimensions, condition of gilt, any c
 ## Buy rule
 Profit ≥ max($50, price). A $35 floral Sadler nets negative at any price above $0. Buy only Tier High/Top pieces under ~$60. Fits easily.
 
+## Field notes (learned in triage)
+- 2026-10-14: The Mintons crowned-globe mark reads "MINTONS / EST. 1793 / ENGLAND" in a laurel wreath. With "Rd No 566884 / PAT. DEC 20 1910" printed in puce and a hand-written red pattern number (about "B833"), it marks an Edwardian enamelled-floral bone china breakfast service with a turquoise scroll band, gilt rims and twisted handles.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "irregular",

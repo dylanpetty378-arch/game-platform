@@ -54,6 +54,9 @@ State maker/mark, height, era, and show close-ups of every ruffle and the finger
 ## Buy rule
 Buy only if marked German (or Irish Dresden), ≥6" or multi-figure, lace essentially perfect in photos, and price ≤ $40 so that resale ~$120+ clears profit ≥ $50 after $15 + $15 shipping. Small single ladies under $60 resale cannot meet the rule at any price. No restoration jobs.
 
+## Field notes (learned in triage)
+- 2026-10-14: A blue crowned "ZD / Germany" underglaze mark was seen on a seated lady with a rose basket, 5.5 in. Treat it as the generic tier, below Volkstedt (crossed lines / "Dresden" crown) and Unterweissbach.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "irregular",

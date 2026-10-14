@@ -58,6 +58,7 @@ Buy rule (short): Buy 1950s–70s large designer decanters, tall floor vases (18
 
 ## Field notes (learned in triage)
 - 2026-10-13 (redo): cobalt ice-lip pitchers without a sandblast mark or label are unattributable; $40-70 even as Blenko.
+- 2026-10-14: An oval clear sticker reading "BLENKO HANDCRAFT · [phone removed] · www.blenkoglass.com · MADE IN U.S.A." means modern production (2000s and later), not mid-century. The emerald "cabbage leaf" bowl with this sticker is a current-catalog piece.
 
 ## Rubric
 ```json

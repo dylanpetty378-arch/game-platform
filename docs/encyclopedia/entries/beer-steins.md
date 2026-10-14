@@ -66,6 +66,10 @@ State maker, mark, form number and date code (Mettlach), capacity (½ L, 1 L), l
 ## Buy rule
 Buy when: a Mettlach castle mark or a lithophane regimental is visible and the piece is under $60; character steins under $40. Pass when: "West Germany" relief steins at any price over $10 each, any multi-stein lot over $50 without a verified Mettlach/regimental. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (steins do).
 
+## Field notes (learned in triage)
+- 2026-10-14: Regimental lithophane steins with a crisp printed scene, red rope bands, a figural soldier finial and a dated unit (for example Infanterie Rgt 11 München 1903/05) are usually postwar reproductions. Comp: regimental lithophane sold median $98, so pass any of them above about $60.
+- 2026-10-14: A relief stoneware 2 L stein labelled "Catalog No. 889" (Beham peasant-dance frieze, master stein to No. 351) is a modern collector stein. Sellers quote catalog prices of $90-175, which are not sold prices.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 4, "shape": "tall", "fragility": 4, "transit_damage_risk": 3, "hidden_defect_risk": 3, "testability": 3, "repro_risk": 4, "id_difficulty": 4, "rarity": 2, "sold_per_month": "?", "sell_through": "?", "days_to_sell": "?", "price_p25_p50_p75": [15, 35, 150], "price_spread": 10.0, "condition_sensitivity": 4, "seasonality": "possibly Oct (Oktoberfest) and Nov–Dec (verify)", "best_platform": "eBay; specialist stein auctions for top tier", "fees_pct": 13, "ship_cost_to_buyer": 20, "undervalue_frequency": 2, "bust_probability": 40, "expected_profit_typical": 0, "confidence": "medium"}

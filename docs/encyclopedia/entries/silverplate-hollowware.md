@@ -98,6 +98,8 @@ Price ≤ $200. Profit = sold median × 0.87 − shipping to buyer − shipping 
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): Meriden Britannia Pat. 1858 double-wall ice-water pitchers are a standard Victorian form, $80-180 depending on plate wear, and weigh 6-8 lb.
+- 2026-10-14: Brassy/yellow base metal showing through worn areas = silverplate, regardless of a "sterling" title (Oneida "sterling pitcher" example).
+- 2026-10-14: Square pewter flasks engraved "R.W. 1817" with grapes are 20th-c. German souvenir pieces stamped "ZINN 95%" on the base – not period Biedermeier pewter.
 
 ## Rubric
 ```json

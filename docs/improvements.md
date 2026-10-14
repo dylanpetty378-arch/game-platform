@@ -334,3 +334,25 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   eBay → 1 egg-grade item (needs authentication), 0 shippable confirmed golden eggs. A true egg (≥$1,000 unrecognised,
   shippable, ≤$500) is on the order of 1 per 100k+ listings online. The pipeline now covers enough volume to see
   ~50k/day if run continuously; that is the realistic way to find them.
+
+## 2026-10-14 00:15 — scheduled runner (cloud, no device)
+- health.py FAIL: lens empty reads 20% (priced 78%). Saved rows carry best="Results are personalized", n=0, no AI —
+  measure() saw prices the parser did not, so v2.0.0's empty guard let them through. **lens-worker.js 2.0.1** also
+  retries a *parsed*-empty page once, then leaves it in the queue. Loader picks it up within 10 min. Also: cloud ingest
+  dropped the worker's `q` block, so health always reported version "v1"; ingest now keeps `q` — next health run
+  shows the real worker version and wait/why stats.
+- Text triage: 504 lensed + 812 flagged = 1,316 rows (8 agents). 0 buys, 30 asks (all Tier C, mostly "show the mark /
+  karat stamp"), 1,286 kills. Logged as events run `review-20261014-0015`. Two asks have real sold comps behind the
+  upside: Frankart nude lamp (Terapeak median $200, n=50) and a 1917 Elgin hunter if solid 14K (median $570, n=49).
+- Skipped `--unlensed 300`: TRIAGE_BRIEF Rethink rule 1 says the unlensed pool goes to the Lens worker, and the worker
+  was live (newest read 0.0 h). The scheduled-task prompt still lists it — Dylan to settle which wins.
+- Agents' phone numbers leaked into two triage notes; scrubbed before commit. Brief should say "no phone/email in note".
+- Encyclopedia: 48 thin entries deepened (Quick ID, Golden-egg tells, buyer copy; several factual fixes — Nerf/Kenner
+  dates, Yashica T4 f/3.5, Homco "Denim Days", Stanley thermos history, Boat and Tote 1944/1965). 14 new entries
+  (vintage-comic-books, japanese-tetsubin, class-rings, liddle-kiddles, schramberg-smf-pottery, mechanical-stopwatches,
+  chinese-silk-embroidery, vintage-star-wars-figures, mexican-silver, chinese-export-silver, military-insignia,
+  antique-tennis-rackets, railroad-spittoons, advertising-china). russian-porcelain and antique-scissors overlap
+  existing entries → research/merge-pending/ for a merge, not added. 58 triage field notes into 43 entries; 27 to
+  new-type-candidates (several are aliases of existing slugs, e.g. costume-jewelry → costume-jewelry-lots).
+- To fix: stopwatches-and-timers ladder ($90–160 for plain Minerva timers) looks ~3× high (Catawiki €30 sale).
+- Idea: triage agents should get an alias map (slug → existing slug) so they stop inventing near-duplicate slugs.

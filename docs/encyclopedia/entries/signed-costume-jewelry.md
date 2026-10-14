@@ -95,6 +95,7 @@ Buy when: a Boucher/Eisenberg/Hobé/HAR/Schiaparelli/Haskell signature is visibl
 - 2026-10-13 (redo): Weiss blue navette pinwheel brooch ~$45-50 intact; one missing stone drops it to $30-40
 - 2026-10-13 (triage): Sherman AB navette wreath brooch + clip earrings sets were sold through T. Eaton Co. in the 1960s; sellers who name Eaton usually have the signed piece — still ask for the SHERMAN stamp on the brooch back AND each earring
 - 2026-10-13 (triage): teal/AB dangle clip earrings in the D&E/Juliana style show up unsigned. Juliana is never signed, so value depends on construction tells (open backs, figure-8 links), and front-only photos aren't enough.
+- 2026-10-14: Valentino clip earrings marked with a small "valentino" cartouche on the clip bar. The seller asked $100 against an estimated $80-150 sold, so there is no margin and the piece needs authentication (7946609664).
 
 ## Rubric
 ```json

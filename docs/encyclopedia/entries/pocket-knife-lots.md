@@ -63,6 +63,10 @@ State maker, pattern/model number, tang stamp (photo) and dating, handle materia
 ## Buy rule
 Buy when: lot ≤ $8/knife with visible Case XX bone or Buck 110 pieces, or Case XX 1960s–70s singles ≤ $25. Pass when: seller names Case/Buck and prices at $25+/knife; auto knives (shipping rules). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).
 
+## Field notes (learned in triage)
+- 2026-10-14: In Craigslist knife lots, the jigged-bone red and black stockmen with shields are where Case XX, Remington or Camillus can hide. Always ask for tang stamps before writing the lot off as Imperial, Kutmaster or Colonial.
+- 2026-10-14: Schrade Uncle Henry 153UH-pattern Bowie with Staglon handle and tooled sheath is the common version (~$40–50 sold-range); not a buy above ~$15.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 2, "shape": "set-of-many", "fragility": 1, "transit_damage_risk": 1, "hidden_defect_risk": 2, "testability": 2, "repro_risk": 3, "id_difficulty": 3, "rarity": 1, "sold_per_month": 20000, "sell_through": 50, "days_to_sell": 14, "price_p25_p50_p75": [15, 35, 80], "price_spread": 5.3, "condition_sensitivity": 3, "seasonality": "Father's Day and Nov–Dec (estimate)", "best_platform": "eBay", "fees_pct": 13, "ship_cost_to_buyer": 10, "undervalue_frequency": 3, "bust_probability": 25, "expected_profit_typical": 30, "confidence": "low", "notes": "weight is for a small lot; prices are per knife; numbers are estimates"}

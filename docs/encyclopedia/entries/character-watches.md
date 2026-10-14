@@ -74,6 +74,9 @@ Watch shipping is cheap (~$6 each way), so profit = sold × 0.87 − 12 − pric
 
 ## Field notes (learned in triage)
 - 2026-10-13 (redo): Bradley 17-jewel mechanical Mickey (1970s-80s) sells $40-90; only Ingersoll 1930s Mickeys reach ~$150 median
+- 2026-10-14: The Spiro Agnew watch was made by Dirty Time Co. (1970, Swiss pin-lever, wind-up). The body confirms the maker; it sells for about $40-70, so a $40 asking price has no margin.
+- 2026-10-14: 1947-50s Ingersoll/U.S. Time Mickey in a curved tonneau chrome case has Mickey's gloved arms as the hands and "©WDP" small at 6; sellers call it "1958". Distinguish from the 1958 U.S. Time Birthday series (round case) by case shape.
+- 2026-10-14: Lorus quartz Mickeys (black or chrome case, "LORUS QUARTZ" on dial) are the filler in "3 Disney watches" lots ($10-15 each); the 1950 U.S. Time Cinderella (pink dial, Cinderella full figure, cushion chrome case, canvas strap) is the only value piece.
 
 ## Rubric
 ```json

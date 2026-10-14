@@ -55,6 +55,9 @@ State maker, serial, objective magnifications/NA, focus action condition, optics
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$25) − ship to Dylan (~$25) − price ≥ max($50, price). A student scope at $60 sold → loss at any price. Only buy brass-tubed or black-and-brass horseshoe stands with an engraved maker/serial (Leitz, Zeiss, B&L, Spencer, English makers) at ≤ $60–100, ideally with fitted case. Passenger-seat size OK. No authentication issue.
 
+## Field notes (learned in triage)
+- 2026-10-14: B&L "jug-handle" stand = black-japanned horseshoe foot with a looped arm and lacquered-brass coarse-focus knobs (c.1900-1920); Lens calls it "Bausch & Lomb or Spencer jug handle"; confirm by engraved "BAUSCH & LOMB OPTICAL CO ROCHESTER NY" + serial on arm (serial dates it).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 8, "shape": "tall",

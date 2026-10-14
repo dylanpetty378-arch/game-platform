@@ -91,6 +91,9 @@ Give the maker exactly as stamped (with raking-light photos of both cheeks and t
 ## Buy rule
 Needs visible premium markings.
 
+## Field notes (learned in triage)
+- 2026-10-14: Small lathing or half-hatchet heads have scalloped cheeks and a nail-pull notch under the bit. Without a visible Plumb, Kelly, Underhill or Vaughan stamp they stay in the $15-25 tier, and the shipping weight kills lots of them.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 5, "shape": "irregular",

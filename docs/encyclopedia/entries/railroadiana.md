@@ -70,6 +70,10 @@ Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) �
 - Keys/locks: high fake risk; buy only with clear period maker marks and low price.
 - Fits passenger seat: yes.
 
+## Field notes (learned in triage)
+- 2026-10-14: Thin spun-copper body + brass flare spittoons with an embossed 4-4-0 locomotive over "UNION PACIFIC RR" / "NORTHERN PACIFIC R.R." are the 1970s-80s decorative souvenir type (often resold on Etsy at $115 asking). Real railroad spittoons are heavy cast/weighted brass with property stamping. Kill both (seen 7934680570, 7937649305).
+- 2026-10-14: The "CENTRAL PACIFIC R.R. 1527 / THOMAS' PAT. FEB.19.1867" brass baggage check is a Golden Spike National Historic Site souvenir; the back is stamped "GOLDEN SPIKE NATIONAL HISTORIC SITE PROMONTORY SUMMIT, UTAH". Always ask for the back photo (7942880861).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "irregular",

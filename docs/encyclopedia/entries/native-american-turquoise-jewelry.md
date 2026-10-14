@@ -72,6 +72,9 @@ Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). A $120-me
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): Carolyn Sandoval is a Navajo silversmith; large clip earrings in green-matrix turquoise with leaf/rope settings list $80-150 sold. At $100 ask there is no spread. An unsigned 1970s shadowbox oval ring sells ~$45.
 - 2026-10-13 (triage): a seller offering ring settings as "silver-finished" means plated base metal, not sterling — kill from the body text
+- 2026-10-14: Marie Tsosie (Navajo) stick-inlay pendant+earring set retailed $240 at Eagle Plume's (Allenspark CO) - small modern inlay sets, low resale tier.
+- 2026-10-14: The Lens artist name was wrong again. Lens said "Daniel Etsitty", but the hallmark reads "...CKSON" (Jackson). Always read the stamp on the back before quoting an artist.
+- 2026-10-14: Fred Harvey-era tourist cuff tells are stamped crossed arrows, Zia sun symbols, and a fluted "whirl" concho with a small turquoise. About 18–19 g, $15–60 tier. A Lens "silver pawn Navajo cuff circa 1930s $249" match is asking-price noise.
 
 ## Rubric
 ```json

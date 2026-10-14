@@ -66,6 +66,9 @@ Profit = sold median × 0.87 − ~$12 to buyer − ~$12 to Dylan − price; pass
 - Sterling collector plates: buy only if price ≤ melt × 0.6 (ask weight and "Sterling" stamp photo).
 - Pre-1915 RC/B&G: buy at ≤ $20 when year confirmed and resale ≥ $100.
 
+## Field notes (learned in triage)
+- 2026-10-14: The "Catalina Island Series" plates (The Evergreen Press 1986, Avalon Historical Society, numbered /5000) are decal collector plates, not Catalina Pottery. They are worth about $10 each (7937823008).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "flat",

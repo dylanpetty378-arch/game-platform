@@ -89,6 +89,9 @@ Height to socket and overall, maker mark photos, whether wiring is original, tes
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$30) − ship to Dylan (~$30) − price ≥ max($50, price). With ~$60 of round-trip shipping, a lamp must sell for ≥ ~$130 even at $0 cost. Buy only: Frankart/Nuart Art Deco metal nude lamps with original glass at ≤ $80; Moss lucite figurals at ≤ $80; Royal Haeger/Kron panthers at ≤ $25. Pass: resin fantasy lamps, courting-couple urns, Japan boudoir ladies, moriage pairs over $30, anything with frayed wiring (repair) or that can't be photographed lit (untested electric). Pass on Blackamoor/Nubian items for eBay (policy). Lamps over ~30 in or with glass lily shades do not ship well – local only.
 
+## Field notes (learned in triage)
+- 2026-10-14: Art Deco kneeling-nude lamp variant with a bare small bulb socket behind the figure on a stepped rectangular/triangular spelter base (~7" long) turns up untitled at $15; the decision photo is the base edge/underside for "Frankart Inc. Pat. Appl'd For" or "Nuart Creations NY" and whether a glass globe slot is empty.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 8, "shape": "tall",
