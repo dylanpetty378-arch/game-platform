@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:55:51Z",
+ "updated": "2026-10-14T17:00:18Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9213,
-  "events": 32027,
+  "lens": 9238,
+  "events": 32052,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 475,
+  "queued/relens": 478,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 39,
-  "flagged": 904,
-  "lensed": 332
+  "queued": 14,
+  "flagged": 923,
+  "lensed": 335
  },
  "last_harvests": [
   {
@@ -461,6 +461,17 @@
    "best": "Oblong Quartz Charm - Etsy",
    "med": 18951,
    "ratio": 947.55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966647969",
+   "title": "granfather watch",
+   "price": 1,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/alsip-granfather-watch/cafW9dptLf4YAWsPKrgDqZ",
+   "best": "eBay",
+   "med": 825,
+   "ratio": 825,
    "ai_value": ""
   },
   {
@@ -926,6 +937,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956132143",
+   "title": "Cistoporic Tetradrachm",
+   "price": 25,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-cistoporic-tetradrachm/7vpiAqQQUmKVZeLk2UUUre",
+   "best": "Etsy",
+   "med": 765,
+   "ratio": 30.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7983315735",
    "title": "Antique Silver Metal Flower Vase Chalice",
    "price": 35,
@@ -967,6 +989,17 @@
    "best": "925 Sterling Silver Mesh Bracelet With Button Pearls 39.4g ...",
    "med": 590,
    "ratio": 29.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950838763",
+   "title": "vintage black frame with glass",
+   "price": 5,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/milford-vintage-black-frame-with-glass/7p25Cub1pJkYhsxcAPSusJ",
+   "best": "Vintage Poodle Painting - Etsy",
+   "med": 125,
+   "ratio": 25,
    "ai_value": ""
   },
   {
@@ -4754,6 +4787,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973720643",
+   "title": "1977 Boulder High School Band Pendant",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-1977-boulder-high-school-band/cGAW8ezutXTBwLsUjic8sn",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933473814",
    "title": "Sterling Silver & Agate Delicate Filagree Size 5 Ring",
    "price": 50,
@@ -5454,6 +5498,17 @@
    "url": "https://www.craigslist.org/view/d/fountain-valley-spectacular-artisan/bJriJDxy3mjMkPeFN3te8f",
    "best": "eBay",
    "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969475409",
+   "title": "Vintage Exclusively for Avon Mallard Duck",
+   "price": 15,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-exclusively-for-avon/bCPa8jq4YkdV9bEU15xU94",
+   "best": "eBay",
+   "med": 27,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -6558,6 +6613,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7962361953",
+   "title": "Vintage Crescent \"Giant No. 1\" nail puller.",
+   "price": 40,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/greenville-vintage-crescent-giant-no/4AeKzUhHWRWnwUiYXX34Gc",
+   "best": "Craigslist",
+   "med": 55,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983306045",
+   "title": "Old Antique Jug",
+   "price": 65,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/chesterfield-old-antique-jug/5e2muuzm5KKSt6EotEU5oU",
+   "best": "Etsy",
+   "med": 90,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7951080881",
    "title": "Antique Clay Black Handpainted ceramic Vase Large",
    "price": 99,
@@ -6983,6 +7060,17 @@
    "url": "https://www.craigslist.org/view/d/stockbridge-vintage-old-west-themed/tYEsC5HcoTt1E1FUz9A1qA",
    "best": "Avon 1980 Cattle Drive Stage Coach Chuck Wagon Beer Mug ...",
    "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962445149",
+   "title": "SEX AND THE CITY LOVE KEYCHAIN",
+   "price": 15,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/lake-worth-sex-and-the-city-love/dbyj5Y4JYF4c99au5yDKLX",
+   "best": "eBay",
+   "med": 18,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -7413,6 +7501,28 @@
    "best": "Vintage Taylor Witness Sheffield England Knife Carving Set ...",
    "med": 53,
    "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969944696",
+   "title": "Charm bracelet",
+   "price": 20,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/washingtonville-charm-bracelet/dU66KtaCtDFv1DUDYFu92p",
+   "best": "eBay",
+   "med": 21,
+   "ratio": 1.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932506616",
+   "title": "vintage MOTHER of pearl BROOCH gift mother's day",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/lanham-vintage-mother-of-pearl-brooch/3kjEZSCKyW2zsgmutrvmeA",
+   "best": "eBay",
+   "med": 21,
+   "ratio": 1.05,
    "ai_value": ""
   },
   {
@@ -7852,6 +7962,17 @@
    "url": "https://www.craigslist.org/view/d/newport-modern-abstract-original/uLKYyJ5S2i4ZLxvy8xTYbx",
    "best": "Abstract 25, Original Acrylic Painting, Signed, Framed ...",
    "med": 90,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963934916",
+   "title": "Chromolithograph",
+   "price": 200,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/maryville-chromolithograph/fMRqKUkdjZj63QnUxYPG3F",
+   "best": "eBay",
+   "med": 179,
    "ratio": 0.9,
    "ai_value": ""
   },
@@ -9022,6 +9143,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971975462",
+   "title": "Winking Owl.",
+   "price": 50,
+   "area": "york",
+   "url": "https://www.craigslist.org/view/d/east-prospect-winking-owl/xwqzJFP4GJNRLWyQK2rRdK",
+   "best": "Facebook",
+   "med": 25,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7944220078",
    "title": "Sterling Silver Siam Earrings",
    "price": 35,
@@ -9264,6 +9396,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939109606",
+   "title": "Men\u2019s watch unknown brand need help identifying it",
+   "price": 123,
+   "area": "fortwayne",
+   "url": "https://www.craigslist.org/view/d/decatur-mens-watch-unknown-brand-need/jMbP3FmZDVVx4J3wY4zHtU",
+   "best": "Jewel Tone Dual Finish Crystal Bezel Watch \u2013 The Jewel Parlor",
+   "med": 50,
+   "ratio": 0.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7948412127",
    "title": "4 Pieces Antique Jewelry",
    "price": 99,
@@ -9371,6 +9514,17 @@
    "best": "Vintage Watch movements, faces, bezels, straps - spare ...",
    "med": 125,
    "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933540268",
+   "title": "Doll Stones Yesterdays Child Figurines Collection Of 28 Figurines",
+   "price": 100,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-doll-stones-yesterdays/hoSgcibps7qdDh9he4PPnP",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 0.35,
    "ai_value": ""
   },
   {
@@ -9737,6 +9891,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953108465",
+   "title": "Set of 10 Vintage Fiesta Ware Coffee Cups/Mugs",
+   "price": 75,
+   "area": "joplin",
+   "url": "https://www.craigslist.org/view/d/purdy-set-of-10-vintage-fiesta-ware/xxPM1pfqGxVcNn1Qqh4LTS",
+   "best": "eBay",
+   "med": 13,
+   "ratio": 0.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7955770631",
    "title": "Large vintage wall pocket watch clock",
    "price": 100,
@@ -9899,6 +10064,17 @@
    "best": "eBay",
    "med": 23,
    "ratio": 0.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938152222",
+   "title": "Ray Harm Kestrel print",
+   "price": 100,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/new-albany-ray-harm-kestrel-print/vRfcwW2KSwQwYRtBxdtQAn",
+   "best": "eBay",
+   "med": 5,
+   "ratio": 0.05,
    "ai_value": ""
   },
   {
@@ -10381,6 +10557,39 @@
    "area": "miami",
    "url": "https://www.craigslist.org/view/d/lake-worth-star-trek-eaglemoss-ships/5kRuVaARVqzd8favkZHyNL",
    "best": "Eaglemoss Ships | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983266991",
+   "title": "R&B SG STYLE GUITAR W. HARDSHELL CASE",
+   "price": 100,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/bowdoinham-rb-sg-style-guitar-hardshell/pwPrfYGa7w1Fh8Uzogxhz8",
+   "best": "Amazon.com",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964010906",
+   "title": "VINTAGE SHOTGUN CLEANING KIT",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/saint-petersburg-vintage-shotgun/jQWFS5VhpD5rvwRKH4cmKL",
+   "best": "Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943192025",
+   "title": "*AUTHENIC EARLY AMERICAN COPPER LUSTRE PITCHER*",
+   "price": 175,
+   "area": "neworleans",
+   "url": "https://www.craigslist.org/view/d/mandeville-authenic-early-american/5rEe1NwwW4ZF9KnMpdV1uf",
+   "best": "Appleby Antiques",
    "med": null,
    "ratio": null,
    "ai_value": ""
