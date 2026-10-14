@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-14T00:07:27Z",
+ "updated": "2026-10-14T00:10:58Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7499,
-  "events": 26920,
+  "lens": 7524,
+  "events": 26945,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 485,
+  "lensed": 497,
   "comps/pass": 1,
-  "queued/relens": 393,
+  "queued/relens": 401,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 794,
+  "flagged": 799,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 154
+  "queued": 129
  },
  "last_harvests": [
   {
@@ -2978,6 +2978,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983032691",
+   "title": "Gucci 8900M Watch",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/buffalo-grove-gucci-8900m-watch/bCXvQoBzu7rJQGj87gjV9c",
+   "best": "Gucci 8900M Two-tone Date Men's Quartz Watch Working - Etsy",
+   "med": 335,
+   "ratio": 4.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7935170893",
    "title": "Antique/Vintage Framed Art Print. Lot 7",
    "price": 20,
@@ -3064,6 +3075,17 @@
    "med": 65,
    "ratio": 4.33,
    "ai_value": "sell online (via platforms like Etsy or eBay) from $45 to $135,"
+  },
+  {
+   "pid": "7944166773",
+   "title": "Bulova men's bracelet",
+   "price": 100,
+   "area": "corpuschristi",
+   "url": "https://www.craigslist.org/view/d/corpus-christi-bulova-mens-bracelet/us29KMVejk1HE6TT67YhBZ",
+   "best": "Bulova - Brandclub - Bulova Mens Classic Chain Bracelet",
+   "med": 433,
+   "ratio": 4.33,
+   "ai_value": ""
   },
   {
    "pid": "7940242431",
@@ -6949,6 +6971,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977304335",
+   "title": "Real Silver Necklace 32\"",
+   "price": 60,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/bellevue-real-silver-necklace-32/gF8UHGn2cckRys9Q3oK9zx",
+   "best": "Market & Spruce | Jewelry | Market Spruce Necklace | Poshmark",
+   "med": 67,
+   "ratio": 1.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7973140314",
    "title": "3/strand vintage crystal necklace",
    "price": 35,
@@ -8236,6 +8269,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967367651",
+   "title": "14K GOLD  EAR RINGS",
+   "price": 250,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-14k-gold-ear-rings/9Xe3unj8LjA1CsuyCLeMbZ",
+   "best": "Vintage 14k Yellow Gold Floating Opal Teardrop Screw Back ...",
+   "med": 135,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7980514644",
    "title": "3 Holiday Barbie Hallmark Ornaments",
    "price": 30,
@@ -8738,6 +8782,17 @@
    "url": "https://www.craigslist.org/view/d/olympia-mickey-mouse-pocket-watch-chain/gbSBWN9hbqs292tiSpsRSZ",
    "best": "Craigslist",
    "med": 15,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936066415",
+   "title": "VINTAGE VINYL ALBUM COLLECTION",
+   "price": 40,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-vinyl-album-collection/rsR2aXjCwF2fCXcdE6WyPJ",
+   "best": "Recorded Live: Flamingo Hotel in Las Vegas, Nevada",
+   "med": 8,
    "ratio": 0.2,
    "ai_value": ""
   },
