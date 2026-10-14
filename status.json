@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:13:00Z",
+ "updated": "2026-10-14T06:16:42Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7799,
-  "events": 29813,
+  "lens": 7824,
+  "events": 29838,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 653,
-  "flagged": 126,
-  "lensed": 23
+  "queued": 628,
+  "flagged": 145,
+  "lensed": 29
  },
  "last_harvests": [
   {
@@ -463,6 +463,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948667406",
+   "title": "Handmade ceramic vase",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-handmade-ceramic-vase/2Hp5WJ57GMNVU5ZDfGoVEN",
+   "best": "Antique French Confit or Olive Pot Yellow Glazed Terracotta ...",
+   "med": 650,
+   "ratio": 32.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7954896055",
    "title": "Gold Tone Charm Bracelet",
    "price": 12,
@@ -529,6 +540,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937440601",
+   "title": "Serigraph Baicycle Rider Vintage",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-serigraph-baicycle-rider/buwYp2BBHUPhwGxaya94mZ",
+   "best": "Vintage Framed \"Jackrabbit\" Woodcut Edition 184 Signed by ...",
+   "med": 800,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7977883716",
    "title": "Five Old Straight Razors - Varying Conditions",
    "price": 20,
@@ -573,6 +595,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983135039",
+   "title": "NEW 10K Sapphire & Diamond Ring",
+   "price": 75,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/new-10k-sapphire-diamond-ring/cfVGEpVD8cSYdKePC5bYLG",
+   "best": "eBay",
+   "med": 500,
+   "ratio": 6.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7943911669",
    "title": "Antique Oriental Items",
    "price": 35,
@@ -592,6 +625,17 @@
    "best": "Wallapop",
    "med": 60,
    "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974613113",
+   "title": "Antique 19th century Etchings",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-antique-19th-century-etchings/m3nL32MH1crAUjRe2QEokL",
+   "best": "eBay",
+   "med": 440,
+   "ratio": 5.5,
    "ai_value": ""
   },
   {
@@ -680,6 +724,17 @@
    "best": "Vintage Catholic BROACH lapel Pin Jewelry ST. Anne de ...",
    "med": 41,
    "ratio": 4.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940787122",
+   "title": "Vintage Easter figures",
+   "price": 40,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-easter-figures/rH5Vz9raahjcdUgAhLrUZk",
+   "best": "RARE Empire Blow Mold Easter Bunny Set Mr. Mrs. Rabbit lot ...",
+   "med": 160,
+   "ratio": 4,
    "ai_value": ""
   },
   {
@@ -837,6 +892,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983158967",
+   "title": "Small wood sculpture",
+   "price": 25,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/huntington-beach-small-wood-sculpture/pddXtYPpnEaUxyBUkV8nxn",
+   "best": "eBay",
+   "med": 65,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7951810082",
    "title": "Antique 800 Silver FG part of pocket watch",
    "price": 95,
@@ -856,6 +922,17 @@
    "best": "Savvy Collector",
    "med": 158,
    "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948676105",
+   "title": "Rose Bud Clip-on Earings",
+   "price": 12,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cupertino-rose-bud-clip-on-earings/oC4kMjU4oiqqR34Za5AhT3",
+   "best": "eBay",
+   "med": 29,
+   "ratio": 2.42,
    "ai_value": ""
   },
   {
@@ -933,6 +1010,17 @@
    "best": "eBay",
    "med": 106,
    "ratio": 2.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972368246",
+   "title": "The Ruby Slippers Necklace",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-the-ruby-slippers-necklace/tazuFxoz823Vqhb3mgkF2B",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 2,
    "ai_value": ""
   },
   {
@@ -1046,6 +1134,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950375313",
+   "title": "Hammered Sterling Silver ring size 10",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-hammered-sterling-silver/7ReCudKp5FfM2itucna5Bb",
+   "best": "Etsy",
+   "med": 69,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7933078547",
    "title": "Vintage rensie ladies working wristwatch,1940s-1950s,wind up.",
    "price": 30,
@@ -1063,6 +1162,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/stillwater-handmade-ceramic-mug/bQn2xwHFq4waM4NgDdgv3g",
    "best": "Etsy",
+   "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975717944",
+   "title": "NEW BRACELET WATCHES - $15 each",
+   "price": 15,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/garland-new-bracelet-watches-15-each/cTWzuHGEwWWovWNQFNxcUN",
+   "best": "Shein",
    "med": 25,
    "ratio": 1.67,
    "ai_value": ""
@@ -1277,6 +1387,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965917298",
+   "title": "Vintage Corday 16\u201d French man&woman figurines",
+   "price": 40,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/pennington-vintage-corday-16-french/cuYy6tc47Urre67G2nJHqC",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7955408722",
    "title": "Earring-sterling and turquoise",
    "price": 25,
@@ -1453,6 +1574,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943637820",
+   "title": "Peruvian Sterling Silver Cuff Bracelet",
+   "price": 160,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-peruvian-sterling-silver/cAsqWxStXse2bgeMX6tTfD",
+   "best": "eBay",
+   "med": 149,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7969319202",
    "title": "Vintage Porcelain Soap Dispenser",
    "price": 35,
@@ -1530,6 +1662,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940114039",
+   "title": "Sterling silver kokopelli earrings",
+   "price": 40,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-sterling-silver-kokopelli/3tECM5TQ1s4uqo9LCi8yC6",
+   "best": "eBay",
+   "med": 29,
+   "ratio": 0.72,
+   "ai_value": "sell or are valued between $30"
+  },
+  {
    "pid": "7960677090",
    "title": "Turquoise in sterling silver pendant",
    "price": 200,
@@ -1541,6 +1684,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957425146",
+   "title": "Vintage Rhinestone Austrian Brooch",
+   "price": 125,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-rhinestone-austrian/2f9dPBJchVM6WF7gwJGEPs",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7939308740",
    "title": "Vintage Joy Mex Sterling Silver & Inlay Turquoise Ring Size 6",
    "price": 40,
@@ -1549,6 +1703,17 @@
    "best": "eBay",
    "med": 25,
    "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951814381",
+   "title": "Hallmark Fine Open Heart Diamond Necklace",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-hallmark-fine-open-heart/miKqaMyj7bm9k4NGpz9jgX",
+   "best": "eBay",
+   "med": 62,
+   "ratio": 0.62,
    "ai_value": ""
   },
   {
@@ -1706,6 +1871,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983160416",
+   "title": "vintage collection of Avon figural/novelty glass decanters",
+   "price": 35,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/grand-rapids-vintage-collection-of-avon/oYXLeQaybLyQRuvCgp9kmt",
+   "best": "eBay",
+   "med": 14,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7981590990",
    "title": "Sterling Silver & Larimar ring - size10",
    "price": 150,
@@ -1728,6 +1904,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7939153229",
+   "title": "Vintage Annalee\u2019s",
+   "price": 75,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/cranston-vintage-annalees/4ELdTxbx9hSAGNg7NqjYsW",
+   "best": "Vintage Annalee Hersheys Kiss Doll Size 8\u201d Original Tags ...",
+   "med": 25,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947692482",
+   "title": "WALTHAM 25 Self Winding Watch",
+   "price": 320,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-mirada-waltham-25-self-winding-watch/myQ6JRst3P3H4Rn2LzETzo",
+   "best": "Vintage Watch Restoration",
+   "med": 95,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7951742975",
    "title": "Sterling Silver 925 Lot Mexico India Scandivai Italy Necklace Bracelet",
    "price": 99,
@@ -1746,6 +1944,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-tennis-photo/ew2vTRtmyBPAoWp3hRNeP1",
    "best": "LD295 Original Wide World Photo PROFESSIONAL TENNIS ...",
    "med": 20,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951119172",
+   "title": "Earrings-Jade Antique Artisan Crafted",
+   "price": 175,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-earrings-jade-antique-artisan/cg49Nz28m1oaKFWwTDozGv",
+   "best": "Beads of Paradise",
+   "med": 35,
    "ratio": 0.2,
    "ai_value": ""
   },
