@@ -29711,3 +29711,28 @@
 {"ts":"2026-10-14T05:57:42Z","pid":"7946578571","stage":"lensed","run":"lensworker-20261014-0552","note":null,"data":{"med":55,"ratio":0.79,"mismatch":[]}}
 {"ts":"2026-10-14T05:57:50Z","pid":"7967791632","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Fashion, Kay — title does not","data":{"med":500,"ratio":14.29,"mismatch":["Fashion","Kay"]}}
 {"ts":"2026-10-14T05:57:58Z","pid":"7946375985","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Pink — title does not","data":{"med":30,"ratio":0.86,"mismatch":["Pink"]}}
+{"ts":"2026-10-14T05:58:07Z","pid":"7947630115","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Artist, Franz — title does not","data":{"med":null,"ratio":null,"mismatch":["Artist","Franz"]}}
+{"ts":"2026-10-14T05:58:15Z","pid":"7983181830","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Tiffany, Waltham — title does not","data":{"med":700,"ratio":700,"mismatch":["Tiffany","Waltham"]}}
+{"ts":"2026-10-14T05:58:25Z","pid":"7965241119","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Silver — title does not","data":{"med":58,"ratio":3.22,"mismatch":["Silver"]}}
+{"ts":"2026-10-14T05:58:31Z","pid":"7983165243","stage":"flagged","run":"lensworker-20261014-0552","note":null,"data":{"med":317,"ratio":1.06,"mismatch":[]}}
+{"ts":"2026-10-14T05:58:41Z","pid":"7944250897","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Gold — title does not","data":{"med":18,"ratio":0.9,"mismatch":["Gold"]}}
+{"ts":"2026-10-14T05:58:49Z","pid":"7942381489","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Group — title does not","data":{"med":96,"ratio":1.92,"mismatch":["Group"]}}
+{"ts":"2026-10-14T05:58:59Z","pid":"7949666109","stage":"flagged","run":"lensworker-20261014-0552","note":null,"data":{"med":140,"ratio":1.12,"mismatch":[]}}
+{"ts":"2026-10-14T05:59:06Z","pid":"7937081796","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Artist, Blue Ridge — title does not","data":{"med":25,"ratio":1.67,"mismatch":["Artist","Blue Ridge"]}}
+{"ts":"2026-10-14T05:59:16Z","pid":"7953789021","stage":"lensed","run":"lensworker-20261014-0552","note":null,"data":{"med":55,"ratio":0.73,"mismatch":[]}}
+{"ts":"2026-10-14T05:59:24Z","pid":"7947034219","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Gold — title does not","data":{"med":375,"ratio":1.5,"mismatch":["Gold"]}}
+{"ts":"2026-10-14T05:59:32Z","pid":"7981590990","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Perfect — title does not","data":{"med":54,"ratio":0.36,"mismatch":["Perfect"]}}
+{"ts":"2026-10-14T05:59:43Z","pid":"7948997992","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Crescent — title does not","data":{"med":45,"ratio":0.9,"mismatch":["Crescent"]}}
+{"ts":"2026-10-14T05:59:50Z","pid":"7954164665","stage":"lensed","run":"lensworker-20261014-0552","note":null,"data":{"med":35,"ratio":1.4,"mismatch":[]}}
+{"ts":"2026-10-14T05:59:57Z","pid":"7932471758","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Jewelry, Silver — title does not","data":{"med":95,"ratio":4.75,"mismatch":["Jewelry","Silver"]}}
+{"ts":"2026-10-14T06:00:06Z","pid":"7937968387","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Avon — title does not","data":{"med":16,"ratio":0.46,"mismatch":["Avon"]}}
+{"ts":"2026-10-14T06:00:17Z","pid":"7939458688","stage":"lensed","run":"lensworker-20261014-0552","note":null,"data":{"med":26,"ratio":1.04,"mismatch":[]}}
+{"ts":"2026-10-14T06:00:26Z","pid":"7949412959","stage":"lensed","run":"lensworker-20261014-0552","note":null,"data":{"med":13,"ratio":0.52,"mismatch":[]}}
+{"ts":"2026-10-14T06:00:36Z","pid":"7950006923","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Native — title does not","data":{"med":148,"ratio":1.14,"mismatch":["Native"]}}
+{"ts":"2026-10-14T06:00:43Z","pid":"7955808450","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Jewelry, Silver — title does not","data":{"med":18,"ratio":1.8,"mismatch":["Jewelry","Silver"]}}
+{"ts":"2026-10-14T06:00:52Z","pid":"7931762213","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Native — title does not","data":{"med":699,"ratio":1.57,"mismatch":["Native"]}}
+{"ts":"2026-10-14T06:01:04Z","pid":"7967824866","stage":"lensed","run":"lensworker-20261014-0552","note":null,"data":{"med":52,"ratio":1.73,"mismatch":[]}}
+{"ts":"2026-10-14T06:01:10Z","pid":"7938207775","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Jewelry, Navajo — title does not","data":{"med":80,"ratio":2.29,"mismatch":["Jewelry","Navajo"]}}
+{"ts":"2026-10-14T06:01:19Z","pid":"7938207613","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Elegant, Gold — title does not","data":{"med":null,"ratio":null,"mismatch":["Elegant","Gold"]}}
+{"ts":"2026-10-14T06:01:27Z","pid":"7978263843","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Franklin Mint, Gold, Motor — title does not","data":{"med":59,"ratio":2.95,"mismatch":["Franklin Mint","Gold","Motor"]}}
+{"ts":"2026-10-14T06:01:35Z","pid":"7960677090","stage":"flagged","run":"lensworker-20261014-0552","note":"Lens names Jewelry, Navajo — title does not","data":{"med":142,"ratio":0.71,"mismatch":["Jewelry","Navajo"]}}

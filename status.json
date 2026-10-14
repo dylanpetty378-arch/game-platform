@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T05:58:46Z",
+ "updated": "2026-10-14T06:02:09Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7699,
-  "events": 29713,
+  "lens": 7724,
+  "events": 29738,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 753,
-  "flagged": 44,
-  "lensed": 6
+  "queued": 728,
+  "flagged": 64,
+  "lensed": 11
  },
  "last_harvests": [
   {
@@ -419,6 +419,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7983181830",
+   "title": "*** SMALL CENTURY POCKET WATCH ***",
+   "price": 1,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/manchester-small-century-pocket-watch/fiLRKsTVeAEK8wqrHDKXWa",
+   "best": "eBay",
+   "med": 700,
+   "ratio": 700,
+   "ai_value": ""
+  },
+  {
    "pid": "7955365058",
    "title": "Costume jewelry",
    "price": 15,
@@ -518,6 +529,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932471758",
+   "title": "Vintage Sterling/14k Gold Vermeil Emerald Eternity Ring,Sz4",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fort-washington-vintage-sterling-14k/qyH3JtFimjhbTMaus3Kikq",
+   "best": "Emerald Wedding Ring in 18k Yellow Gold| Baguette-Cut Eternity Ring| May Birthstone Ring| Evita",
+   "med": 95,
+   "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7959014670",
    "title": "Vintage 1928 Necklace",
    "price": 20,
@@ -562,6 +584,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965241119",
+   "title": "Lot of Costume Diamonds, bracelet, necklaces",
+   "price": 18,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/birmingham-lot-of-costume-diamonds/wDepX6hoEUWN1pgUQ2emiY",
+   "best": "eBay",
+   "med": 58,
+   "ratio": 3.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7929881101",
    "title": "Vintage ladies Benrus,10k r.g.p, w/diamonds, needs serviced.",
    "price": 60,
@@ -570,6 +603,17 @@
    "best": "Vintage Elgin 10K Gold Ladies Mechanical Cocktail Watch, Original Boxes, Papers! Working! 1950's Beauty! WOW!!",
    "med": 185,
    "ratio": 3.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978263843",
+   "title": "Harley Davidson pocket watch",
+   "price": 20,
+   "area": "appleton",
+   "url": "https://www.craigslist.org/view/d/wild-rose-harley-davidson-pocket-watch/tyhUnxWbGAqUNfWYU8c42b",
+   "best": "eBay",
+   "med": 59,
+   "ratio": 2.95,
    "ai_value": ""
   },
   {
@@ -628,6 +672,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7938207775",
+   "title": "Native American Sterling silver ring",
+   "price": 35,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-native-american-sterling-silver/vH2XfYvL1chNKNLALL8tHd",
+   "best": "Vintage Sterling Silver Swirl Band Ring, Ornate Artisan ...",
+   "med": 80,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942381489",
+   "title": "Vintage Jewelry",
+   "price": 50,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/orangevale-vintage-jewelry/7v3JXjrJmgo1h5Cid36L5z",
+   "best": "eBay",
+   "med": 96,
+   "ratio": 1.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7968965697",
    "title": "New Vintage Barse Sterling Silver & Picture Jasper 17\u201d Necklace",
    "price": 40,
@@ -639,6 +705,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955808450",
+   "title": "8 Bracelets Total",
+   "price": 10,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-bracelets-total/3HgUQEsLBbKa3PT7NKTLCL",
+   "best": "Lot of 9 Mixed Bracelets - Pre-Owned Very Good Condition as ...",
+   "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7933078547",
    "title": "Vintage rensie ladies working wristwatch,1940s-1950s,wind up.",
    "price": 30,
@@ -646,6 +723,17 @@
    "url": "https://www.craigslist.org/view/d/el-cajon-vintage-rensie-ladies-working/okWpPNZ4ipE8L1Gk4LLRDa",
    "best": "Craigslist",
    "med": 50,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937081796",
+   "title": "Handmade Ceramic Mug",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-handmade-ceramic-mug/bQn2xwHFq4waM4NgDdgv3g",
+   "best": "Etsy",
+   "med": 25,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -669,6 +757,28 @@
    "best": "Vintage Elegant Sterling Silver 925 Classic Flat Herringbone ...",
    "med": 40,
    "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931762213",
+   "title": "Vintage Turquoise & Sterling Silver Navajo Cuff - 110g",
+   "price": 445,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-turquoise-sterling/6AhoSQ2VFEK2UjCY3g3TWb",
+   "best": "Etsy",
+   "med": 699,
+   "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947034219",
+   "title": "Seiko vintage watch",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-seiko-vintage-watch/kuPhZ1eSp8fkZP5KeEoxGe",
+   "best": "eBay",
+   "med": 375,
+   "ratio": 1.5,
    "ai_value": ""
   },
   {
@@ -716,6 +826,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950006923",
+   "title": "Vintage Navajo Sterling Silver & Robins Egg Blue Turquoise Size 10Ring",
+   "price": 130,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-navajo-sterling/9A5yu5mpQ79mCdx9AWv6wd",
+   "best": "eBay",
+   "med": 148,
+   "ratio": 1.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7944252343",
    "title": "Vintage Pottery Dashboard or Commuter \u201cNo-Spill\u201d Mug",
    "price": 25,
@@ -723,6 +844,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-vintage-pottery-dashboard-or/gEzf6Xk2FnRURHryyhFCDq",
    "best": "eBay",
    "med": 28,
+   "ratio": 1.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949666109",
+   "title": "Vintage Sterling Silver Calla Lily Brooch",
+   "price": 125,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-sterling-silver/uVdAg6iBWzn4SHJ1v9Wpai",
+   "best": "eBay",
+   "med": 140,
    "ratio": 1.12,
    "ai_value": ""
   },
@@ -735,6 +867,17 @@
    "best": "Etsy",
    "med": 32,
    "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983165243",
+   "title": "Mid Century Modern Signed Framed Sailboat Painting Vintage",
+   "price": 300,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/wilmington-mid-century-modern-signed/dzKCtWBBMh3cFgfusEsbtk",
+   "best": "MutualArt",
+   "med": 317,
+   "ratio": 1.06,
    "ai_value": ""
   },
   {
@@ -793,6 +936,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7944250897",
+   "title": "Vintage Small Noritake Pitcher",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-small-noritake/qonu7PTEbKWMg8VnqamSjq",
+   "best": "Etsy",
+   "med": 18,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948997992",
+   "title": "Vintage Sterling Silver (DOS Turkey) Earrings",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-sterling-silver/iWFugPB878hna4uRfVPaVq",
+   "best": "Etsy",
+   "med": 45,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7979722731",
    "title": "Handmade Vintage Pottery Bowl Signed by Artist Gray",
    "price": 40,
@@ -812,6 +977,17 @@
    "best": "Etsy",
    "med": 30,
    "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960677090",
+   "title": "Turquoise in sterling silver pendant",
+   "price": 200,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-turquoise-in-sterling-silver/nbvjyJEB2xaxGip2n85v7C",
+   "best": "eBay",
+   "med": 142,
+   "ratio": 0.71,
    "ai_value": ""
   },
   {
@@ -859,6 +1035,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937968387",
+   "title": "Vintage Gold Tone Cream Enamel Necklace",
+   "price": 35,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-gold-tone-cream/tKtQDf3ZT5uUPFJvb7bXhR",
+   "best": "eBay",
+   "med": 16,
+   "ratio": 0.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7950445010",
    "title": "Vintage Ladies Elgin Watch",
    "price": 275,
@@ -892,6 +1079,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981590990",
+   "title": "Sterling Silver & Larimar ring - size10",
+   "price": 150,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-larimar-ring/uWKY61uB6mik4DApD5retf",
+   "best": "Etsy",
+   "med": 54,
+   "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7941911946",
    "title": "14k SOLID GOLD CHAIN",
    "price": 300,
@@ -900,6 +1098,28 @@
    "best": "Etsy",
    "med": 25,
    "ratio": 0.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947630115",
+   "title": "Antique color Engraving  Portrait",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-antique-color-engraving/1FjiZ5MpR5HC6D8iyLE5KJ",
+   "best": "Auctionet",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938207613",
+   "title": "Sterling silver filigree earrings",
+   "price": 30,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-sterling-silver-filigree-earrings/oYeyZ4xoEJKF8Dij6d1o36",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
    "ai_value": ""
   }
  ],
