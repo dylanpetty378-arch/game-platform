@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:44:13Z",
+ "updated": "2026-10-14T16:48:27Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9138,
-  "events": 31952,
+  "lens": 9163,
+  "events": 31977,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 467,
+  "queued/relens": 470,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 114,
-  "flagged": 865,
-  "lensed": 304
+  "queued": 89,
+  "flagged": 878,
+  "lensed": 313
  },
  "last_harvests": [
   {
@@ -1201,6 +1201,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954937321",
+   "title": "Happy Buddha pendant",
+   "price": 20,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/happy-buddha-pendant/e6VWkWpfo6tp9TZEGfnSiu",
+   "best": "Red Jade Buddha Pendant 14k Yellow Gold | eBay",
+   "med": 341,
+   "ratio": 17.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7930050002",
    "title": "Oval Morganite Designer Ring",
    "price": 65,
@@ -1209,6 +1220,17 @@
    "best": "Pre-Owned Morganite With Champagne Diamond 18k Rose Gold ...",
    "med": 1100,
    "ratio": 16.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979941494",
+   "title": "Vintage recorder flute, made in USA",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-vintage-recorder-flute-made/6Y6TAWj8MotZVMcg5YvYfi",
+   "best": "Disney Beauty/Beast book + Plastic Xylotune Flute Soprano ...",
+   "med": 168,
+   "ratio": 16.8,
    "ai_value": ""
   },
   {
@@ -1550,6 +1572,17 @@
    "best": "14k White Gold 24\" Lite Miami Cuban Curb Link 7 mm 30 ...",
    "med": 247,
    "ratio": 12.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943841277",
+   "title": "IYV Rick Style Guitar",
+   "price": 175,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-iyv-rick-style-guitar/eEj1R2sz678XwHJtVGmdek",
+   "best": "Amazon.com: IYV-IRK-300 Semi Hollow Electric Guitar 3T ...",
+   "med": 2149,
+   "ratio": 12.28,
    "ai_value": ""
   },
   {
@@ -2356,6 +2389,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950285930",
+   "title": "BUCK 373 & OLD TIMER KNIVES",
+   "price": 25,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/narvon-buck-373-old-timer-knives/kDfh4Z67dxTyvgzVVaBS9u",
+   "best": "Vintage Coast Cutlery, Silver Moose lockback 3\", NOS | eBay",
+   "med": 150,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7946810571",
    "title": "Diamond silver man\u2019s ring",
    "price": 150,
@@ -2397,6 +2441,17 @@
    "best": "Signed R Blue Raw Turquoise Sterling Silver Bracelet Cuff ...",
    "med": 1375,
    "ratio": 5.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966170225",
+   "title": "Gold-Tone Watch with Black Dial",
+   "price": 40,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/port-richey-gold-tone-watch-with-black/gpeA9bvZNhQ9ew92A9xbDa",
+   "best": "Timex Waterbury Traditional Quartz Black Dial Ladies Watch ...",
+   "med": 229,
+   "ratio": 5.72,
    "ai_value": ""
   },
   {
@@ -2895,6 +2950,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983274071",
+   "title": "7 Pair of Earrings - $3 to $6 each OR $23 All 7 Pair",
+   "price": 3,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/mc-farland-pair-of-earrings-to-each-or/mTuAT6ViRL1cTBPYJfFX4w",
+   "best": "Jewelry Lot 10 Earrings Hoops Silver Tone Dangle Barefoot ...",
+   "med": 13,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7978097712",
    "title": "BARBARA A. WOOD",
    "price": 175,
@@ -3170,6 +3236,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939950465",
+   "title": "1950\u201ds necklace Stunning \ud83d\ude0d look",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-1950s-necklace-stunning-look/mkLRcf8y3r5gV4Q7qnocVw",
+   "best": "Vintage Art Deco Style Rhinestone Pendant Statement ...",
+   "med": 96,
+   "ratio": 3.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7972351545",
    "title": "Sterling Silver Ring",
    "price": 20,
@@ -3243,6 +3320,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-vintage-ceramic-peace-sign/5r2b3R4Fz3ZSzHqzF6CPym",
    "best": "Craigslist",
    "med": 110,
+   "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928627653",
+   "title": "Poor condition knife collection Kutmaster Kabar Edgebrand Imperial",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brookhaven-poor-condition-knife/49iBMuwBn126CEp1cbDoq6",
+   "best": "Vtg 5 Pocket Knives 4 Frost Cutlery, \"Pakistan\" 1 Steel Warrior ...",
+   "med": 55,
    "ratio": 3.67,
    "ai_value": ""
   },
@@ -5931,6 +6019,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978264713",
+   "title": "Native American",
+   "price": 100,
+   "area": "memphis",
+   "url": "https://www.craigslist.org/view/d/byhalia-native-american/dQzDzNPK1Z9rMGvsMAu7ow",
+   "best": "Hand-carved Viking Ouroboros Amulet \u2013 Norse Dragon Necklace ...",
+   "med": 149,
+   "ratio": 1.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -6191,6 +6290,17 @@
    "url": "https://www.craigslist.org/view/d/clovis-sterling-silver-onyx-size-ring/vCXjcALmjbBqGmjYpxUXcX",
    "best": "eBay",
    "med": 70,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946771345",
+   "title": "DEMDACO WILLOW TREE COURAGE",
+   "price": 10,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/oconomowoc-demdaco-willow-tree-courage/atypTjpTNeuzXUktXo628e",
+   "best": "Willow Tree\u00ae Courage Figurine - Figurines | Hallmark",
+   "med": 14,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -8879,6 +8989,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951031445",
+   "title": "Vintage watches",
+   "price": 123,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/wildwood-vintage-watches/4mNTVYy6XDdDbnWZ64L5wY",
+   "best": "10 Pounds Unsorted Huge Lot Jewelry Vintage & Modern Junk ...",
+   "med": 52,
+   "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7948412127",
    "title": "4 Pieces Antique Jewelry",
    "price": 99,
@@ -9952,6 +10073,28 @@
    "area": "cincinnati",
    "url": "https://www.craigslist.org/view/d/cincinnati-hollowbody-bass-project/7raMg7NgBV8Sbic1AsUyNc",
    "best": "Guitarra Semiac\u00fastica Sx Gg7, Custom, Gotoh, Dimarzio '57 ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942925943",
+   "title": "Vintage 1970's New Haven Jesus Christ shadow box clock w/ gold frame",
+   "price": 40,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/west-roxbury-vintage-1970s-new-haven/wq6PhPRZMZ2cmWKVYWt9Nz",
+   "best": "Vintage MCM New Haven Jesus Christ Shadow Box Clock With ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983269937",
+   "title": "Costume jewelry",
+   "price": 2,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/downingtown-costume-jewelry/49tuYKX8Bu8LPgHo3yAgQt",
+   "best": "Kingwood estate sale starts Friday",
    "med": null,
    "ratio": null,
    "ai_value": ""
