@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:38:37Z",
+ "updated": "2026-10-14T07:42:41Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8349,
-  "events": 30363,
+  "lens": 8374,
+  "events": 30388,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 103,
-  "flagged": 402,
-  "lensed": 133
+  "queued": 78,
+  "flagged": 416,
+  "lensed": 144
  },
  "last_harvests": [
   {
@@ -463,6 +463,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929354406",
+   "title": "native art",
+   "price": 100,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-native-art/6stBFvHFUaVaHnxKfkokDX",
+   "best": "Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ...",
+   "med": 4800,
+   "ratio": 48,
+   "ai_value": ""
+  },
+  {
    "pid": "7958130497",
    "title": "Art Nouveau Cameo Glass Vase",
    "price": 90,
@@ -691,6 +702,17 @@
    "best": "2.02 CT Round Lab Grown Diamond Cluster Flower Earrings G ...",
    "med": 940,
    "ratio": 12.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964325765",
+   "title": "1973 vintage half dollar jfk pendant",
+   "price": 80,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-1973-vintage-half-dollar-jfk/s6FrJS4yZqFx9hQtvM9DD3",
+   "best": "Vintage Medallion Frame .900 Gold Coin SINCO PESOS 1955 ...",
+   "med": 975,
+   "ratio": 12.19,
    "ai_value": ""
   },
   {
@@ -1134,6 +1156,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983186774",
+   "title": "4 Peter Max Lithographs Hearts signed numbered",
+   "price": 325,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/fayetteville-peter-max-lithographs/gRcmCqQyKVZ8A4sbRZdDyf",
+   "best": "PETER MAX Heart Suite III, Ltd Ed 4 Lithographs 2.75\" x 2.5 ...",
+   "med": 1500,
+   "ratio": 4.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7954349337",
    "title": "Moses Ten Commandments Sculpture",
    "price": 75,
@@ -1229,6 +1262,17 @@
    "url": "https://www.craigslist.org/view/d/south-plainfield-gold-bracelet/5es5xgrSiKYySdQEijsMic",
    "best": "Etsy",
    "med": 2099,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977633159",
+   "title": "vintage russian amber pin",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-russian-amber-pin/kM58iXhdoC8ZFEtbgWaChL",
+   "best": "Vintage Original Soviet USSR Grape Design Brooch Pin Baltic ...",
+   "med": 105,
    "ratio": 4.2,
    "ai_value": ""
   },
@@ -1471,6 +1515,17 @@
    "url": "https://www.craigslist.org/view/d/orange-city-james-estate/qFfZWTAKr7uyV5TH4bZpdn",
    "best": "Jointer Guard for sale | eBay",
    "med": 170,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954103040",
+   "title": "Gold Earrings",
+   "price": 5,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-gold-earrings/wuUnN7C5wFmgYjrzxCZK5m",
+   "best": "Claire's | Jewelry | New Angel Wings Earrings | Poshmark",
+   "med": 17,
    "ratio": 3.4,
    "ai_value": ""
   },
@@ -1794,6 +1849,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943073369",
+   "title": "Anthropomorphic Ladybug Figurines  \"Made in Occupied Japan",
+   "price": 10,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/west-des-moines-anthropomorphic-ladybug/wtA6JKoBqY7ejGDr3VCEN9",
+   "best": "1950s Anthropomorphic Flying Winged Bug People Salt & Pepper ...",
+   "med": 26,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7948625232",
    "title": "Sterling Silver Twisted Herringbone 20 1/2\u201d Necklace",
    "price": 35,
@@ -2036,6 +2102,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938279602",
+   "title": "Vintage plated gold silver large  medallion Chinese mythical",
+   "price": 45,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/vista-vintage-plated-gold-silver-large/w7ugnrpV4RZy1dFJZNi14k",
+   "best": "Themis Scales of Justice Handmade Silver Necklace, Roman Law ...",
+   "med": 100,
+   "ratio": 2.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7959823173",
    "title": "NECKLACE Sterling (925) Pearl Necklace",
    "price": 50,
@@ -2065,6 +2142,17 @@
    "url": "https://www.craigslist.org/view/d/south-plainfield-garnet-gold-ladys-ring/1Vjpyij3dVSHDzkjSxdDyz",
    "best": "10K Yellow Gold Ring 4.49g Fine Jewelry Size 7 Band Garnet ...",
    "med": 814,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966484694",
+   "title": "Vintage Vittorio Silver Slanted Star Brooch",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-vittorio-silver/sxC2ycusMYNi6G69MRBpEB",
+   "best": "Simple Silver Tone Star Brooch Pin 2 1/2\" Womens Fashion ...",
+   "med": 65,
    "ratio": 2.17,
    "ai_value": ""
   },
@@ -2872,6 +2960,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7954284674",
+   "title": "Sterling silver Turquoise ring",
+   "price": 60,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-sterling-silver-turquoise-ring/cZaGjx2LY6EgRWCea2HLSf",
+   "best": "Vintage Sterling Silver Turquoise Oval Dome Ring. - Etsy",
+   "med": 90,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930913426",
+   "title": "Mother of Pearl Cuff Bracelet",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-mother-of-pearl-cuff-bracelet/weReJh51TsAngECHkHQmwr",
+   "best": "Vintage Silver Plated Oval Abalone Pearl Taxco Mexico ...",
+   "med": 45,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -3664,6 +3774,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941729575",
+   "title": "Murano Vintage Glass Clowns, reduced",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/tijeras-murano-vintage-glass-clowns/najo9noeZ7L8qTddf2dVLo",
+   "best": "Murano | Art | Vintage Murano Art Glass Clown Decanter ...",
+   "med": 100,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -3738,6 +3859,17 @@
    "best": "eBay",
    "med": 13,
    "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966649352",
+   "title": "Embossed Nautical Scene  Framed",
+   "price": 120,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-embossed-nautical-scene/qbX6WJ2CjNBxPRzadEDyJr",
+   "best": "Creazioni Artistche 925 Sterling Silver Paesaggio Hand ...",
+   "med": 110,
+   "ratio": 0.92,
    "ai_value": ""
   },
   {
@@ -4155,6 +4287,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-vintage-studio-art-pottery/b38E4zU6KvagPHVYTHqMqs",
    "best": "KYLLIKKI SALMENHAARA. Vase, with handles, active at Arabia ...",
    "med": 30,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977831957",
+   "title": "Small collection Watercolors",
+   "price": 200,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-small-collection-watercolors/3oBwAjaWGtDtqYDjjS27GU",
+   "best": "Pressed Dried Wild Flowers Pictures Pair 1991 Hand Made ...",
+   "med": 121,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -4750,6 +4893,17 @@
    "best": "Green Stone Jewelry Set- 18\u201d Necklace W/ Silver Accents ...",
    "med": 17,
    "ratio": 0.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946429936",
+   "title": "Diamond cross",
+   "price": 225,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-diamond-cross/mfBNKoToaWtHba954iPYfu",
+   "best": "Crucifix Cross Faith Religious Pendant Necklace Jewelry 18k ...",
+   "med": 4,
+   "ratio": 0.02,
    "ai_value": ""
   },
   {
