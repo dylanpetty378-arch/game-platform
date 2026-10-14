@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T21:31:25Z
+# Refurbish status — 2026-10-14T21:34:51Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 973 |
-| queued | 753 |
+| flagged | 993 |
+| queued | 728 |
 | queued/relens | 479 |
-| lensed | 344 |
+| lensed | 349 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 11
 - searches: 2614
 - listings: 11383
-- lens: 9299
-- events: 32914
+- lens: 9324
+- events: 32939
 - comps: 2358
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (973)
+## Flagged by Lens, waiting for photo review (993)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -156,6 +156,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00808_kcbkA8EOezv_0t20CI_300x300.jpg" width="120"> | 7969480947 | $25 | austin | [Vintage Ornate Destressed White & Gold Tone Decora](https://www.craigslist.org/view/d/kyle-vintage-ornate-destressed-white/3cDrTDnKUaFKcYMzgdyztn) | Miller Studios Floral Chalkware Flowers Wall Hanging Green . | 4200 | 168 |
 | <img src="https://images.craigslist.org/00n0n_7K3KNkDcIk8_0pO0lC_300x300.jpg" width="120"> | 7953135437 | $25 | miami | [ART MASTERPIECES](https://www.craigslist.org/view/d/boynton-beach-art-masterpieces/qYsWz9d2DR2UxYHXcY6cgF) | Sold at Auction: Bill Gallen, Bill Gallen / The Red Mountain | 3500 | 140 |
 | <img src="https://images.craigslist.org/00v0v_7IZjBvA9zir_0t20CI_300x300.jpg" width="120"> | 7975200744 | $30 | boston | [Faux sAmber & Diamond Pendant](https://www.craigslist.org/view/d/saugus-faux-samber-diamond-pendant/cT9r7QrTL9RpfJNUFxT9wr) | 1stDibs | 3950 | 131.67 |
+| <img src="https://images.craigslist.org/00U0U_5V1gqoU72hw_0t20CI_300x300.jpg" width="120"> | 7937435125 | $20 | sfbay | [Marcasite,Sterling Silver Earrings](https://www.craigslist.org/view/d/san-francisco-marcasitesterling-silver/7bFuWD8yGuP7CGH84BEpd1) | eBay | 2515 | 125.75 |
 | <img src="https://images.craigslist.org/00Y0Y_aIdoZrT2zJw_0c607W_300x300.jpg" width="120"> | 7943638984 | $1 | longisland | [Collection of Vintage Cameras](https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/7rKHySm9qMZFks2E7wZnoh) | eBay | 120 | 120 |
 | <img src="https://images.craigslist.org/00W0W_lFG5hKSy0R8_0lN0CI_300x300.jpg" width="120"> | 7976589723 | $40 | southcoast | [Flora by titan. (reproduction)](https://www.craigslist.org/view/d/acushnet-flora-by-titan-reproduction/vibZ9nD6gSBuvDHwzheiyu) | Craigslist | 4800 | 120 |
 | <img src="https://images.craigslist.org/00c0c_XZ1qulzZ4X_0CI0t2_300x300.jpg" width="120"> | 7946281064 | $175 | asheville | [Cozart Gold Leaf Strat](https://www.craigslist.org/view/d/asheville-cozart-gold-leaf-strat/ajtegAE17aLqK3nRjobtEg) | Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ... | 18362 | 104.93 |
@@ -204,6 +205,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00n0n_jOWsFqnjz2d_0CI0t2_300x300.jpg" width="120"> | 7978095447 | $41 | losangeles | [BARBARA A. WOOD](https://www.craigslist.org/view/d/monrovia-barbara-wood/gXJTMWmXfhdtBL7gTZ1iH3) | Barbara Wood / Signed Barbara A. Wood “Nude w Flowers ... | 950 | 23.17 |
 | <img src="https://images.craigslist.org/00505_83JPcFgZgra_0lR0t2_300x300.jpg" width="120"> | 7958873487 | $80 | boston | [Buddha Statue](https://www.craigslist.org/view/d/wakefield-buddha-statue/uz7tyxzCsfug3ViNexVerc) | Buddha Bronze Bust Bculpture / eBay | 1850 | 23.13 |
 | <img src="https://images.craigslist.org/00101_hgjvh3vahsQ_0ak07K_300x300.jpg" width="120"> | 7952137958 | $25 | redding | [VIRTUAL ESTATE SALE II](https://www.craigslist.org/view/d/redding-virtual-estate-sale-ii/7FjPuCjFXCjyJ8VvQDrwHu) | Vtg Gold Plate Flatware Set 86 Pc Wooden Box GOLDEN BOUQUET  | 572 | 22.88 |
+| <img src="https://images.craigslist.org/00S0S_eJyk3wf4G1e_0t20CI_300x300.jpg" width="120"> | 7954561925 | $199 | pittsburgh | [SILVER CONCHO Vintage BRACELET](https://www.craigslist.org/view/d/strabane-silver-concho-vintage-bracelet/fB6SuhidynEDyVgrWEfPDG) | eBay | 4500 | 22.61 |
 | <img src="https://images.craigslist.org/00I0I_iLbycuGKHjG_0CI0rf_300x300.jpg" width="120"> | 7952347705 | $10 | yakima | [Vintage Clip-on & Screw-back Earrings   Lot #1](https://www.craigslist.org/view/d/roslyn-vintage-clip-on-screw-back/cGqNFKGvfkbBbcCQEYJRgd) | 18 Vintage Pairs of Earrings (A4347) - Etsy | 225 | 22.5 |
 | <img src="https://images.craigslist.org/00t0t_3sA9ADGGfSu_0CI0t2_300x300.jpg" width="120"> | 7978092384 | $44 | losangeles | [BARBARA A. WOOD](https://www.craigslist.org/view/d/monrovia-barbara-wood/88MQojTNBmkzsqg2c3Usgy) | Barbara A. Wood Original "THE FAN" Signed Print Lithograph . | 950 | 21.59 |
 | <img src="https://images.craigslist.org/00y0y_aVxcXnuXfUD_0t20CI_300x300.jpg" width="120"> | 7983382749 | $375 | losangeles | [Vintage Mido Multifort Super Automatic Watch](https://www.craigslist.org/view/d/los-angeles-vintage-mido-multifort/bnzwAT8WY2Kkn5eDjT9iwk) | Etsy | 7980 | 21.28 |
@@ -262,5 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00s0s_5OgwAiAWOHl_0CI0lN_300x300.jpg" width="120"> | 7983264771 | $12 | newlondon | [1960s Swank cufflink collection](https://www.craigslist.org/view/d/waterford-1960s-swank-cufflink/3DwdBTkwHR7sqAvJ7pwxEc) | Vintage Mens Cuff Links and Tie Bar in Vintage Travel Box -  | 149 | 12.42 |
 | <img src="https://images.craigslist.org/00a0a_7wSztXvRF5j_0n80mt_300x300.jpg" width="120"> | 7952454503 | $20 | losangeles | [Jewelry restoration and Mirror Polish](https://www.craigslist.org/view/d/los-angeles-jewelry-restoration-and/iRyR4Ns5G1vX55tgpu75fu) | 14k White Gold 24" Lite Miami Cuban Curb Link 7 mm 30 ... | 247 | 12.35 |
 | <img src="https://images.craigslist.org/01414_eDTuoNxPGNg_0CI0t2_300x300.jpg" width="120"> | 7943841277 | $175 | asheville | [IYV Rick Style Guitar](https://www.craigslist.org/view/d/asheville-iyv-rick-style-guitar/eEj1R2sz678XwHJtVGmdek) | Amazon.com: IYV-IRK-300 Semi Hollow Electric Guitar 3T ... | 2149 | 12.28 |
-| <img src="https://images.craigslist.org/00v0v_dgHjXtTxmKQ_0tO12w_300x300.jpg" width="120"> | 7964325765 | $80 | seattle | [1973 vintage half dollar jfk pendant](https://www.craigslist.org/view/d/renton-1973-vintage-half-dollar-jfk/s6FrJS4yZqFx9hQtvM9DD3) | Vintage Medallion Frame .900 Gold Coin SINCO PESOS 1955 ... | 975 | 12.19 |
-| <img src="https://images.craigslist.org/01010_ersC1ymEhE2_07K0ak_300x300.jpg" width="120"> | 7968091428 | $10 | sacramento | [2 Vintage Korean/Japanese Dolls on Stands-Priced E](https://www.craigslist.org/view/d/penryn-vintage-korean-japanese-dolls-on/m5RdY2Z4thM9z5YQtLxaiL) | 01 Japanese Vintage Kimono Cloth Geisha Doll 44cm / OOGI ... | 120 | 12 |

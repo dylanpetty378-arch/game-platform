@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T21:31:25Z",
+ "updated": "2026-10-14T21:34:51Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9299,
-  "events": 32914,
+  "lens": 9324,
+  "events": 32939,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 753,
-  "flagged": 973,
-  "lensed": 344
+  "queued": 728,
+  "flagged": 993,
+  "lensed": 349
  },
  "last_harvests": [
   {
@@ -597,6 +597,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937435125",
+   "title": "Marcasite,Sterling Silver Earrings",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-marcasitesterling-silver/7bFuWD8yGuP7CGH84BEpd1",
+   "best": "eBay",
+   "med": 2515,
+   "ratio": 125.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7943638984",
    "title": "Collection of Vintage Cameras",
    "price": 1,
@@ -1122,6 +1133,17 @@
    "best": "Vtg Gold Plate Flatware Set 86 Pc Wooden Box GOLDEN BOUQUET ...",
    "med": 572,
    "ratio": 22.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954561925",
+   "title": "SILVER CONCHO Vintage BRACELET",
+   "price": 199,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-silver-concho-vintage-bracelet/fB6SuhidynEDyVgrWEfPDG",
+   "best": "eBay",
+   "med": 4500,
+   "ratio": 22.61,
    "ai_value": ""
   },
   {
@@ -1851,6 +1873,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964202927",
+   "title": "Vintage Bogoff Jewelry Set - Excellent Condition!",
+   "price": 70,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/quitman-vintage-bogoff-jewelry-set/vdPLPRLtSusvsxfi9SPWB1",
+   "best": "Craigslist",
+   "med": 795,
+   "ratio": 11.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7933122532",
    "title": "Set of 4 Antique Elegant Glass Candle Holders",
    "price": 6,
@@ -1935,6 +1968,17 @@
    "url": "https://www.craigslist.org/view/d/pauma-valley-china-sculpture-porcelin/nzdmEWLBx4Eo35yCG4Nzdd",
    "best": "Vintage Shou Xing Shou Lao Porcelain Statue 22\" Chinese ...",
    "med": 1980,
+   "ratio": 10.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972837953",
+   "title": "Elgin Pocket Watch",
+   "price": 40,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/longmont-elgin-pocket-watch/wPqGRjQphAawXTChN6Pvfc",
+   "best": "eBay",
+   "med": 406,
    "ratio": 10.15,
    "ai_value": ""
   },
@@ -2793,6 +2837,17 @@
    "url": "https://www.craigslist.org/view/d/washington-antique-19th-century-etchings/m3nL32MH1crAUjRe2QEokL",
    "best": "eBay",
    "med": 440,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953525185",
+   "title": "Vintage Damascene Necklace",
+   "price": 20,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/white-springs-vintage-damascene-necklace/rECXBAniX8kR3QqeDFELhu",
+   "best": "Etsy",
+   "med": 110,
    "ratio": 5.5,
    "ai_value": ""
   },
@@ -4216,6 +4271,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965724908",
+   "title": "\ud83d\udc09\ud83d\udc32 Sterling Silver DRAGON 8.25\" BRACELET \ud83d\udc09\ud83d\udc32",
+   "price": 79,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-sterling-silver-dragon-825/j11Rj5imHK9n62BHQSfJDt",
+   "best": "eBay",
+   "med": 234,
+   "ratio": 2.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7978263843",
    "title": "Harley Davidson pocket watch",
    "price": 20,
@@ -4433,6 +4499,17 @@
    "best": "eBay",
    "med": 108,
    "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945744025",
+   "title": "2 ANTIQUE ENAMELED LOCKETS",
+   "price": 65,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-antique-enameled-lockets/oswGPVfUkqSNuCvc8wNmSZ",
+   "best": "Etsy",
+   "med": 175,
+   "ratio": 2.69,
    "ai_value": ""
   },
   {
@@ -4898,6 +4975,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928603664",
+   "title": "Vintage Cultured Pearl with 14k White Gold Overlay Heart Necklace",
+   "price": 45,
+   "area": "mansfield",
+   "url": "https://www.craigslist.org/view/d/mansfield-vintage-cultured-pearl-with/4pMor95tauCpJWdfLnR8uv",
+   "best": "MIKIMOTO JAPAN Akoya 4.6mm Pearls Necklace Pendant Silver ...",
+   "med": 105,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7950186310",
    "title": "Vintage Cloisonn\u00e9/ Chinese Enamel",
    "price": 125,
@@ -5015,6 +5103,28 @@
    "url": "https://www.craigslist.org/view/d/sioux-falls-pocket-watch/fX7DCMRwbsGDjr6hH7smrh",
    "best": "eBay",
    "med": 450,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962190875",
+   "title": "Hamilton RailRoad Pocket Watch",
+   "price": 400,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-hamilton-railroad-pocket-watch/sQg91UgGBWHDaEA9napeGf",
+   "best": "eBay",
+   "med": 900,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958094560",
+   "title": "Antique McCoy Pottery Vase - Signed",
+   "price": 20,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/parksville-antique-mccoy-pottery-vase/nY6UZUKp9CeeYwnAj3NZd7",
+   "best": "eBay",
+   "med": 45,
    "ratio": 2.25,
    "ai_value": ""
   },
@@ -5488,6 +5598,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-antique-vintage-covered-rose/9rZKQYqCWAFVDe6Bf1k6SV",
    "best": "Etsy",
    "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941798766",
+   "title": "vintage Navajo Sterling Silver Cuff Bracelet",
+   "price": 150,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-navajo-sterling/nNQmQnjUN48JuxSP2vURPG",
+   "best": "eBay",
+   "med": 300,
    "ratio": 2,
    "ai_value": ""
   },
@@ -6064,6 +6185,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945743031",
+   "title": "ANTIQUE VASE WITH CORK STOPPER",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-antique-vase-with-cork/1NFWidbAfGZqGGokYka4WD",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965008391",
    "title": "Vintage Hand embroidered Elephant Tapestry",
    "price": 175,
@@ -6236,6 +6368,17 @@
    "url": "https://www.craigslist.org/view/d/brightwaters-two-vintage-french-emerald/a433bgj7bAZCaZA9up3qys",
    "best": "The Cupboard Shop",
    "med": 48,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934771290",
+   "title": "Necklace & Turquoise Sterling Silver Pendanf",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-necklace-turquoise-sterling-silver/qY8aWsGfo9iU1yFak2pjPi",
+   "best": "eBay",
+   "med": 80,
    "ratio": 1.6,
    "ai_value": ""
   },
@@ -6735,6 +6878,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947321106",
+   "title": "vintage Zealandia sterling silver earrings",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-zealandia/q6H9Vm4iqf3MbV8Xf2N17f",
+   "best": "Fish Creek Company",
+   "med": 95,
+   "ratio": 1.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7934857282",
    "title": "Vintage Wooden Ducks",
    "price": 20,
@@ -7061,6 +7215,17 @@
    "url": "https://www.craigslist.org/view/d/mc-adenville-vintage-silvertone-model-63/vm5N4KfbQ6i2R518zcgsU7",
    "best": "Evolution Music",
    "med": 100,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960845813",
+   "title": "Vintage Paquette brooch",
+   "price": 15,
+   "area": "bham",
+   "url": "https://www.craigslist.org/view/d/morris-vintage-paquette-brooch/txts1WVFbZrKksRehB6DpF",
+   "best": "Craigslist",
+   "med": 20,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -8176,6 +8341,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946901185",
+   "title": "Bert 17 Jewels Braille Gold Filled Watch",
+   "price": 150,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/clearwater-bert-17-jewels-braille-gold/uXoKZz2iAPZr7EMqs7KfVJ",
+   "best": "The Vintage Wristwatch",
+   "med": 150,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -8330,6 +8506,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951113296",
+   "title": "WATCH-- GALLERY COLLECTION",
+   "price": 30,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/woodland-hills-watch-gallery-collection/pRUmdsiD3gF8YWQcykYb9q",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7966649352",
    "title": "Embossed Nautical Scene  Framed",
    "price": 120,
@@ -8425,6 +8612,17 @@
    "url": "https://www.craigslist.org/view/d/maryville-chromolithograph/fMRqKUkdjZj63QnUxYPG3F",
    "best": "eBay",
    "med": 179,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949706890",
+   "title": "VINTAGE AUSTRIAN CRYSTAL SUNCATCHERS",
+   "price": 10,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-austrian-crystal/q3AAa1h5c5yRmadNS68WKN",
+   "best": "Etsy",
+   "med": 9,
    "ratio": 0.9,
    "ai_value": ""
   },
@@ -9661,6 +9859,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940108661",
+   "title": "Vintage Penguin Jewelry Pin Brooch",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-vintage-penguin-jewelry-pin/bzcggELREMpXs3RvVnc1uN",
+   "best": "eBay",
+   "med": 15,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7944220078",
    "title": "Sterling Silver Siam Earrings",
    "price": 35,
@@ -9943,6 +10152,17 @@
    "url": "https://www.craigslist.org/view/d/decatur-mens-watch-unknown-brand-need/jMbP3FmZDVVx4J3wY4zHtU",
    "best": "Jewel Tone Dual Finish Crystal Bezel Watch \u2013 The Jewel Parlor",
    "med": 50,
+   "ratio": 0.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954561676",
+   "title": "SIAM STERLING SILVER Antique COMPACT & BRACELET",
+   "price": 379,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-siam-sterling-silver-antique/gsYswrtptMgTB4U9mCSzfp",
+   "best": "Etsy",
+   "med": 157,
    "ratio": 0.41,
    "ai_value": ""
   },
