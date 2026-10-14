@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T06:41:10Z
+# Refurbish status — 2026-10-14T06:44:14Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,11 +7,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| queued | 478 |
-| flagged | 244 |
-| queued/relens | 152 |
+| queued | 453 |
+| flagged | 246 |
+| queued/relens | 167 |
 | decided/ask | 86 |
-| lensed | 76 |
+| lensed | 84 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
 | expired | 12 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 9
 - searches: 2158
 - listings: 9783
-- lens: 7974
-- events: 29988
+- lens: 7999
+- events: 30013
 - comps: 1953
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (244)
+## Flagged by Lens, waiting for photo review (246)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -163,6 +163,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00s0s_9E6tJEOu4TJ_06h05W_300x300.jpg" width="120"> | 7961743800 | $80 | washingtondc | [Antique Oil painting](https://www.craigslist.org/view/d/washington-antique-oil-painting/svMx3uM5HHcfed2cDexFEq) | Invaluable.com | 800 | 10 |
 | <img src="https://images.craigslist.org/01111_aIYaE9jML8M_0Bh0t2_300x300.jpg" width="120"> | 7937440601 | $80 | washingtondc | [Serigraph Baicycle Rider Vintage](https://www.craigslist.org/view/d/arlington-serigraph-baicycle-rider/buwYp2BBHUPhwGxaya94mZ) | Vintage Framed "Jackrabbit" Woodcut Edition 184 Signed by .. | 800 | 10 |
 | <img src="https://images.craigslist.org/00r0r_928REBzmMoH_0nw0t2_300x300.jpg" width="120"> | 7976613474 | $9 | orangecounty | [Garden TOOLS LOT Vintage Antique Shabby Chic](https://www.craigslist.org/view/d/garden-tools-lot-vintage-antique-shabby/xiZ9fGAc4eSYRqDQWarrmw) | Kusakichi Kana Scraper (Short Handle) - HIDA TOOL | 80 | 8.89 |
+| <img src="https://images.craigslist.org/01515_jrYcpFZ3TBt_0pO0jm_300x300.jpg" width="120"> | 7957410125 | $25 | sacramento | [SIGNED OIL PAINTING ON CANVAS WITH PEACHES](https://www.craigslist.org/view/d/antelope-signed-oil-painting-on-canvas/bU1P16wHUqC84gDQsvh2Wg) | Vintage "Peaches & Flowers" Oil Painting, Framed Still Life  | 219 | 8.76 |
 | <img src="https://images.craigslist.org/00W0W_7SfqXAz4kJF_0CI0t2_300x300.jpg" width="120"> | 7977883716 | $20 | asheville | [Five Old Straight Razors - Varying Conditions](https://www.craigslist.org/view/d/weaverville-five-old-straight-razors/4zYm1kGdqVPaeow6EefLUX) | Antique Collection Straight Razors Solingen Hollow Arkans .. | 175 | 8.75 |
 | <img src="https://images.craigslist.org/00202_ezt85QF7r4V_0lW0gs_300x300.jpg" width="120"> | 7943910701 | $35 | denver | [Vintage Oriental Group](https://www.craigslist.org/view/d/aurora-vintage-oriental-group/7ywteveAUk5tWFJuGKKWGM) | eBay | 300 | 8.57 |
 | <img src="https://images.craigslist.org/00606_2rmjWYk6MIq_0t20CI_300x300.jpg" width="120"> | 7956172009 | $35 | sfbay | [PEARL AMETHYST STERLING EARRINGS](https://www.craigslist.org/view/d/santa-rosa-pearl-amethyst-sterling/pSSwF7rk6j57P6C2JnXRrJ) | Grandview Mercantile | 285 | 8.14 |
@@ -224,6 +225,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00k0k_aWVkfhMIRsG_0ff0cV_300x300.jpg" width="120"> | 7953206201 | $30 | phoenix | [Sterling Silver & Teal Turquoise Pendant](https://www.craigslist.org/view/d/sun-city-west-sterling-silver-teal/bv98NYyEP5ysjSd3nN26qh) | 925 Sterling Silver Oval Blue Turquoise Pendant 18.9 Grams . | 79 | 2.63 |
 | <img src="https://images.craigslist.org/00h0h_40sFmJi33Gk_0lM0t2_300x300.jpg" width="120"> | 7983158967 | $25 | orangecounty | [Small wood sculpture](https://www.craigslist.org/view/d/huntington-beach-small-wood-sculpture/pddXtYPpnEaUxyBUkV8nxn) | eBay | 65 | 2.6 |
 | <img src="https://images.craigslist.org/00w0w_2SSar0TNkym_0kG0t2_300x300.jpg" width="120"> | 7948625232 | $35 | phoenix | [Sterling Silver Twisted Herringbone 20 1/2” Neckla](https://www.craigslist.org/view/d/sun-city-west-sterling-silver-twisted/jspKkgx9uM57zkvzwgBHVV) | UNIQUE STERLING SILVER TWISTED HERRINGBONE CHAIN NECKLACE 20 | 90 | 2.57 |
+| <img src="https://images.craigslist.org/00t0t_4wjFamlhnwwz_0qu0t2_300x300.jpg" width="120"> | 7983186024 | $495 | annapolis | [Reduced! Vintage Natural Rhodolite Garnet and Diam](https://www.craigslist.org/view/d/gambrills-reduced-vintage-natural/nPmUM4V4eXeoQkRjDtR68V) | 14kY Arizona Amethyst Horizon Gold Ring – Sami Fine Jewelry | 1258 | 2.54 |
 | <img src="https://images.craigslist.org/00E0E_iwZx3OBF7pq_0t20CI_300x300.jpg" width="120"> | 7951810082 | $95 | sandiego | [Antique 800 Silver FG part of pocket watch](https://www.craigslist.org/view/d/san-marcos-antique-800-silver-fg-part/b7yheufZkadrpgrJKV99fP) | EJ's Auction & Appraisal | 235 | 2.47 |
 | <img src="https://images.craigslist.org/00J0J_d3FuuuTHSob_0lp0fA_300x300.jpg" width="120"> | 7943910859 | $40 | denver | [Vintage Boxes](https://www.craigslist.org/view/d/aurora-vintage-boxes/xvQ2QfZZb8jmHkRzTSUJTt) | Vintage Carved Wood Round Trinket Made in Russia 2.5 Inch /  | 98 | 2.45 |
 | <img src="https://images.craigslist.org/00F0F_hxcjE3wGuEb_0CI0t2_300x300.jpg" width="120"> | 7938203567 | $65 | tucson | [Silver cuff bracelet](https://www.craigslist.org/view/d/tucson-silver-cuff-bracelet/acvRUVu8mvgUKRD7raREdQ) | Savvy Collector | 158 | 2.43 |
@@ -262,5 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00a0a_fEbWyzCKPHW_0lM0CI_300x300.jpg" width="120"> | 7948668528 | $35 | seattle | [Sterling silver bracelet with sqares](https://www.craigslist.org/view/d/renton-sterling-silver-bracelet-with/kEWJB3RAv1wrfF5KSMuBcZ) | eBay | 60 | 1.71 |
 | <img src="https://images.craigslist.org/00M0M_5LIteYP1V5h_0t20CI_300x300.jpg" width="120"> | 7933078547 | $30 | sandiego | [Vintage rensie ladies working wristwatch,1940s-195](https://www.craigslist.org/view/d/el-cajon-vintage-rensie-ladies-working/okWpPNZ4ipE8L1Gk4LLRDa) | Craigslist | 50 | 1.67 |
 | <img src="https://images.craigslist.org/00b0b_aHEDCpBS4UM_0xf0t2_300x300.jpg" width="120"> | 7937081796 | $15 | minneapolis | [Handmade Ceramic Mug](https://www.craigslist.org/view/d/stillwater-handmade-ceramic-mug/bQn2xwHFq4waM4NgDdgv3g) | Etsy | 25 | 1.67 |
-| <img src="https://images.craigslist.org/00S0S_lyyAnqgA0M0_0t20CI_300x300.jpg" width="120"> | 7975717944 | $15 | dallas | [NEW BRACELET WATCHES - $15 each](https://www.craigslist.org/view/d/garland-new-bracelet-watches-15-each/cTWzuHGEwWWovWNQFNxcUN) | Shein | 25 | 1.67 |
-| <img src="https://images.craigslist.org/01717_1GsJcXtRp6v_0t20CI_300x300.jpg" width="120"> | 7929922868 | $80 | sandiego | [Vintage ladies elgin watch,working.](https://www.craigslist.org/view/d/el-cajon-vintage-ladies-elgin/5Q8yXpmxHNGsYncJDsQdCL) | Vintage Elgin Watch Ladies Silver Tone Manual Wind Art Deco  | 129.5 | 1.62 |

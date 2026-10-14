@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:41:10Z",
+ "updated": "2026-10-14T06:44:14Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7974,
-  "events": 29988,
+  "lens": 7999,
+  "events": 30013,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 152,
+  "queued/relens": 167,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 478,
-  "flagged": 244,
-  "lensed": 76
+  "queued": 453,
+  "flagged": 246,
+  "lensed": 84
  },
  "last_harvests": [
   {
@@ -625,6 +625,17 @@
    "best": "Kusakichi Kana Scraper (Short Handle) - HIDA TOOL",
    "med": 80,
    "ratio": 8.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957410125",
+   "title": "SIGNED OIL PAINTING ON CANVAS WITH PEACHES",
+   "price": 25,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/antelope-signed-oil-painting-on-canvas/bU1P16wHUqC84gDQsvh2Wg",
+   "best": "Vintage \"Peaches & Flowers\" Oil Painting, Framed Still Life ...",
+   "med": 219,
+   "ratio": 8.76,
    "ai_value": ""
   },
   {
@@ -1296,6 +1307,17 @@
    "best": "UNIQUE STERLING SILVER TWISTED HERRINGBONE CHAIN NECKLACE 20 ...",
    "med": 90,
    "ratio": 2.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983186024",
+   "title": "Reduced! Vintage Natural Rhodolite Garnet and Diamond 14K Gold Ring",
+   "price": 495,
+   "area": "annapolis",
+   "url": "https://www.craigslist.org/view/d/gambrills-reduced-vintage-natural/nPmUM4V4eXeoQkRjDtR68V",
+   "best": "14kY Arizona Amethyst Horizon Gold Ring \u2013 Sami Fine Jewelry",
+   "med": 1258,
+   "ratio": 2.54,
    "ai_value": ""
   },
   {
