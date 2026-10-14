@@ -28746,3 +28746,79 @@
 {"pid":"7950937812","stage":"photo_review","status":"ask","type":"sterling-jewelry","note":"text-triage T4: Gold-vermeil (gold over sterling) oval-link chain bracelet with a heart tag by the lobster clasp, $10. ASK: close photo of the heart tag stamp and weight in grams. A maker-stamped heavy piece could clear; if the tag reads Tiffany it's an authentication item -> pass. No comp.","run":"review-20261014-0315","by":"claude","data":{"verdict":"ask","est_resale":40,"tier":"C","sold_check":"needs sold check"},"ts":"2026-10-14T03:26:04Z"}
 {"pid":"7962062439","stage":"photo_review","status":"ask","type":"bronze-figural","note":"text-triage T4: Patinated bronze dressed-monkey candlestick on tasseled cushion base, felt-covered bottom (seller says late 19th c). ASK: whether any foundry/maker mark is under the felt or on the cushion edge, and weight; Maitland-Smith-type 20th-c castings sell low. Works only with a mark or offer <= $40. No comp.","run":"review-20261014-0315","by":"claude","data":{"verdict":"ask","est_resale":150,"tier":"C","sold_check":"needs sold check"},"ts":"2026-10-14T03:26:04Z"}
 {"pid":"7952544371","stage":"photo_review","status":"ask","type":"rhinestone-brooches","note":"text-triage T4: Triangular cluster of AB rhinestone flower heads (reads as a Christmas-tree brooch), only a front photo. ASK: photo of the back for a signature (Eisenberg, Weiss, Hollycraft dated, Sherman). Unsigned = kill. No comp.","run":"review-20261014-0315","by":"claude","data":{"verdict":"ask","est_resale":40,"tier":"C","sold_check":"needs sold check"},"ts":"2026-10-14T03:26:04Z"}
+{"pid":"ebay298741163400","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay189057959450","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay257788083782","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860020636896","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay298733052362","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay960033125955","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay128121636583","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay168774218117","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay237113496465","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay407274500488","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860008936035","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay407274506986","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay278443387766","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay147624719574","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay327393932785","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860020993658","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay377553260928","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay377553286774","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay920019069064","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay366719248341","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860021112305","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay920017322899","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay128121849048","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay267807420195","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay168782101111","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay920008797775","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay227557351399","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay198696825840","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay407274505923","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay178565676149","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860021377693","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay800758586773","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay800769623479","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay298733006051","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay128121669604","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay960032999224","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay128121531048","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay257788372635","stage":"queued","run":"ebay-20261014-0334","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay298741163400","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Period Dutch/Barbizon-school wooded landscape oil, possibly 19th-century original","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay189057959450","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Carved wood bear group, possibly antique Swiss Black Forest (Brienz) carving","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay257788083782","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Small aged panel painting of bird, possibly 19th-century original oil","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860020636896","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Chinese ink-and-color pagoda landscape, possibly a Qing/Republic-period scroll painting","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay298733052362","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Aged pen-and-wash sketch of riders/figures, possibly 19th-century Western or academic study","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay960033125955","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Pair of small period-framed genre paintings, possibly 19th-century European originals","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay128121636583","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Texas bluebonnet landscape oil in gilt frame, possibly Texas regionalist (Onderdonk-school) original","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay168774218117","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Aged vertical figure-and-birds painting, possibly antique Japanese/Chinese scroll or panel","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay237113496465","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Red-rock desert mesa landscape, possibly early Southwest/Taos-school original painting","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay407274500488","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Antique kangaroo plate, possibly Gould Mammals of Australia lithograph or early engraving","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860008936035","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Small gilt-framed schooner painting, possibly 19th-century American marine oil","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay407274506986","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Antique hand-colored natural history plate, possibly Audubon Viviparous Quadrupeds lithograph","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay278443387766","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Aged rococo putto/figure painting, possibly 18th-19th century French school oil","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay147624719574","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Framed early-20th-c pastel/watercolor of children; possible listed illustrator original","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay327393932785","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Framed dark drawing/etching already bid $80; possible listed artist original work on paper","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860020993658","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Small figural oil in period gilt frame; possible listed early-20th-c painter","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay377553260928","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Figural painting in ornate antique gilt frame; possible 19th-c European original","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay377553286774","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Oval Rococo-style scene, framed; possible 18th/19th-c gouache fan leaf or miniature","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay920019069064","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: European street-scene oil in carved gilt frame; possible listed 19th/early-20th-c painter","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay366719248341","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Patinated bronze eagle on base; possible signed foundry bronze","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860021112305","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Full-length Highland officer portrait, gilt frame; possible 19th-c British oil","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay920017322899","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Loose tonal river landscape; possible early-20th-c American plein-air/tonalist oil","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay128121849048","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Southwest desert landscape watercolor, already bid; possible listed Taos/California watercolorist","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay267807420195","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Abstract black-patinated figural sculpture, bid $145; possible signed mid-century modernist bronze","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay168782101111","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Orchard-trees etching; possible original signed early-20th-c etching by listed printmaker","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay920008797775","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Framed pastoral landscape oil bid $200; possible listed American/European landscape painter","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay227557351399","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Chinese silver sycee ingot; if genuine Qing tael, $1,000+","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay198696825840","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Pale celadon carved figure; possible Chinese jade/hardstone carving of boy","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay407274505923","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Worn antique handwritten book; possible Islamic/Persian manuscript, $1,000+ if pre-1900","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay178565676149","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Hexagonal celadon-glazed vase; possible Chinese Longquan/Qing celadon","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay860021377693","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Small archaic Chinese bronze seated figure, possibly Ming or earlier","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay800758586773","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Carved red coral Chinese snuff bottle, Qing period","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay800769623479","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Matte buttressed art pottery vase, possibly Teco or Grueby arts-and-crafts","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay298733006051","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Handled art nouveau vase, possibly early Van Briggle or Zsolnay","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay128121669604","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Gilt-enameled ruby glass covered vase, possibly Moser","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay960032999224","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Wooden pro clarinet in double case, possibly Buffet R13 or Selmer","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay128121531048","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Violin with figured back, possibly older European trade or maker instrument","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
+{"pid":"ebay257788372635","stage":"flagged","run":"ebay-20261014-0334","by":"claude","note":"eye screen: Sunburst small-body acoustic, possibly 1950s-60s Gibson LG or B-25","data":{"eye":true},"ts":"2026-10-14T03:49:20Z"}
