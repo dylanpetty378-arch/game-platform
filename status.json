@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:11:47Z",
+ "updated": "2026-10-14T07:16:00Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8174,
-  "events": 30188,
+  "lens": 8199,
+  "events": 30213,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 245,
+  "queued/relens": 256,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 278,
-  "flagged": 333,
-  "lensed": 94
+  "queued": 253,
+  "flagged": 345,
+  "lensed": 96
  },
  "last_harvests": [
   {
@@ -1035,6 +1035,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961751714",
+   "title": "Old Story  books",
+   "price": 10,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-old-story-books/31Ynk9dq45Hn3eNrGWX9WY",
+   "best": "Amazon.com",
+   "med": 45,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7962419925",
    "title": "Vintage 1978 C3PO Toy",
    "price": 10,
@@ -1068,6 +1079,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949303930",
+   "title": "Very old antique Japanese bronze statue soldier",
+   "price": 65,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/vista-very-old-antique-japanese-bronze/qqfxswrrGAdCkBRay9XnbM",
+   "best": "Invaluable.com",
+   "med": 275,
+   "ratio": 4.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7956087698",
    "title": "Beautiful sterling silver necklace",
    "price": 100,
@@ -1075,6 +1097,17 @@
    "url": "https://www.craigslist.org/view/d/renton-beautiful-sterling-silver/kPdH3MhVGfLVzAsoe8ynZJ",
    "best": "Faire",
    "med": 420,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953172563",
+   "title": "Gold bracelet",
+   "price": 500,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/south-plainfield-gold-bracelet/5es5xgrSiKYySdQEijsMic",
+   "best": "Etsy",
+   "med": 2099,
    "ratio": 4.2,
    "ai_value": ""
   },
@@ -1739,6 +1772,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949006096",
+   "title": "Fashion Long Necklace 23\"L",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/castro-valley-fashion-long-necklace-23l/jYjyW4BYcLaA99Med1H4V8",
+   "best": "Craigslist",
+   "med": 23,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7938207775",
    "title": "Native American Sterling silver ring",
    "price": 35,
@@ -1792,6 +1836,17 @@
    "med": 106,
    "ratio": 2.12,
    "ai_value": ""
+  },
+  {
+   "pid": "7955450715",
+   "title": "Painting by Zina Roitman (Hand-signed & Numbered Limited Edition)",
+   "price": 60,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/elk-grove-painting-by-zina-roitman-hand/dhkNjGVZVwYmfDKR1s1qX6",
+   "best": "Maxsold",
+   "med": 125,
+   "ratio": 2.08,
+   "ai_value": "Prices $180"
   },
   {
    "pid": "7950885127",
@@ -2410,6 +2465,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980701895",
+   "title": "Decorative Figurine Statues, Set of 4",
+   "price": 32,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-decorative-figurine-statues/gADmNi9CExihEgPzVFggA8",
+   "best": "FOUR (4) RARE VINTAGE HAKATA NINGYO DOLLS JAPAN*HAKATA ...",
+   "med": 48,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -2443,6 +2509,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952988755",
+   "title": "Navajo Sterling Silver Turquoise & Coral 6\u201d Cuff with 1\u201d Opening",
+   "price": 300,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-sterling-silver/ix2vLf1qQK3dQdqV4A2WqW",
+   "best": "Lorena Young Jewelry",
+   "med": 443,
+   "ratio": 1.48,
+   "ai_value": "sell in the $195 to $382"
+  },
+  {
    "pid": "7958902101",
    "title": "Vintage Avon Double Strand Faux Pearl signed Necklace Set",
    "price": 15,
@@ -2462,6 +2539,17 @@
    "best": "Elsa Peretti Pearls by the Yard Necklace in Sterling Silver, Size: 18\"",
    "med": 51,
    "ratio": 1.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932006187",
+   "title": "Sterling Silver Pyrope Garnet & Marcasite 16\u201d-18\u201d Necklace",
+   "price": 85,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-pyrope/hVtyGa7ZCcU4GxjVrM7WD9",
+   "best": "eBay",
+   "med": 120,
+   "ratio": 1.41,
    "ai_value": ""
   },
   {
@@ -2553,6 +2641,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943810904",
+   "title": "Handcrafted Studio Pottery Ceramic Shot Glass",
+   "price": 18,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-handcrafted-studio-pottery/eY88x8y7TepAN3DK68j7fu",
+   "best": "Hausenware Ninette Parisi sunflower collector jumbo mug | eBay",
+   "med": 25,
+   "ratio": 1.39,
+   "ai_value": ""
+  },
+  {
    "pid": "7937952842",
    "title": "Vintage brooch",
    "price": 40,
@@ -2603,6 +2702,17 @@
    "area": "desmoines",
    "url": "https://www.craigslist.org/view/d/west-des-moines-vintage-coke-trays/q9Y1VYjvLCW9GeKRdBTBfE",
    "best": "Vintage COCA-COLA COKE Collectible Tray TOURING CAR | eBay",
+   "med": 33,
+   "ratio": 1.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953814925",
+   "title": "Sterling Silver & Turquoise 7/8\u201d Pendant",
+   "price": 25,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/djFsQcPhD3kfmP1nNyxsB3",
+   "best": "Amazon.in",
    "med": 33,
    "ratio": 1.32,
    "ai_value": ""
@@ -2934,6 +3044,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-sterling-silver-wheat-chain/wf3FfghCU3nSz425cwtGhS",
    "best": "Etsy",
    "med": 138,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934480369",
+   "title": "Vintage Hula Doll 1960s",
+   "price": 50,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-hula-doll-1960s/qiAHv8mY87W4ECEHnpEuka",
+   "best": "eBay",
+   "med": 55,
    "ratio": 1.1,
    "ai_value": ""
   },
@@ -3790,6 +3911,17 @@
    "price": 35,
    "area": "grandrapids",
    "url": "https://www.craigslist.org/view/d/grand-rapids-vintage-collection-of-avon/oYXLeQaybLyQRuvCgp9kmt",
+   "best": "eBay",
+   "med": 14,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946019984",
+   "title": "A group of 3 vintage Precious Moments figurines",
+   "price": 35,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/elk-grove-group-of-vintage-precious/4ECHMnq5RfgzSUMMPNghak",
    "best": "eBay",
    "med": 14,
    "ratio": 0.4,
