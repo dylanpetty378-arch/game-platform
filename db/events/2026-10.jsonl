@@ -30111,3 +30111,28 @@
 {"ts":"2026-10-14T06:59:01Z","pid":"7983197805","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Silver — title does not","data":{"med":127,"ratio":0.53,"mismatch":["Silver"]}}
 {"ts":"2026-10-14T06:59:07Z","pid":"7973590614","stage":"flagged","run":"lensworker-20261014-0654","note":null,"data":{"med":66,"ratio":3.3,"mismatch":[]}}
 {"ts":"2026-10-14T06:59:14Z","pid":"7947751697","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:59:24Z","pid":"7961378814","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Tin, Turner — title does not","data":{"med":13,"ratio":0.22,"mismatch":["Tin","Turner"]}}
+{"ts":"2026-10-14T06:59:33Z","pid":"7970684541","stage":"lensed","run":"lensworker-20261014-0654","note":null,"data":{"med":18,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-14T06:59:43Z","pid":"7947746958","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names British, Mouthpieces, Silver — title does not","data":{"med":10,"ratio":0.67,"mismatch":["British","Mouthpieces","Silver"]}}
+{"ts":"2026-10-14T06:59:50Z","pid":"7951080881","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Pueblo — title does not","data":{"med":136,"ratio":1.37,"mismatch":["Pueblo"]}}
+{"ts":"2026-10-14T06:59:56Z","pid":"7946284858","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:00:06Z","pid":"7953267254","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Lefton — title does not","data":{"med":18,"ratio":0.51,"mismatch":["Lefton"]}}
+{"ts":"2026-10-14T07:00:13Z","pid":"7948805433","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:00:20Z","pid":"7956109646","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:00:27Z","pid":"7961210682","stage":"flagged","run":"lensworker-20261014-0654","note":null,"data":{"med":95,"ratio":1.58,"mismatch":[]}}
+{"ts":"2026-10-14T07:00:34Z","pid":"7928395843","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:00:42Z","pid":"7967792133","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Gold, Jewelry — title does not","data":{"med":3917,"ratio":32.64,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-14T07:00:49Z","pid":"7952908162","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:00:55Z","pid":"7950003638","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Jewelry — title does not","data":{"med":50,"ratio":0.71,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-14T07:01:03Z","pid":"7943395628","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:01:10Z","pid":"7943910995","stage":"flagged","run":"lensworker-20261014-0654","note":null,"data":{"med":106,"ratio":2.36,"mismatch":[]}}
+{"ts":"2026-10-14T07:01:18Z","pid":"7937787003","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Winchester — title does not","data":{"med":80,"ratio":1.6,"mismatch":["Winchester"]}}
+{"ts":"2026-10-14T07:01:25Z","pid":"7950568646","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Boutique, Origin — title does not","data":{"med":1000,"ratio":5.41,"mismatch":["Boutique","Origin"]}}
+{"ts":"2026-10-14T07:01:37Z","pid":"7939953492","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Silver — title does not","data":{"med":111,"ratio":2.85,"mismatch":["Silver"]}}
+{"ts":"2026-10-14T07:01:47Z","pid":"7946683529","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Nelson McCoy — title does not","data":{"med":13,"ratio":0.93,"mismatch":["Nelson McCoy"]}}
+{"ts":"2026-10-14T07:02:24Z","pid":"7953102445","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:02:33Z","pid":"7983135315","stage":"flagged","run":"lensworker-20261014-0654","note":null,"data":{"med":425,"ratio":2.24,"mismatch":[]}}
+{"ts":"2026-10-14T07:02:41Z","pid":"7952322291","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Lane — title does not","data":{"med":69,"ratio":3.45,"mismatch":["Lane"]}}
+{"ts":"2026-10-14T07:02:48Z","pid":"7950031727","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Silver, William Spratling — title does not","data":{"med":2995,"ratio":29.95,"mismatch":["Silver","William Spratling"]}}
+{"ts":"2026-10-14T07:02:56Z","pid":"7944381596","stage":"queued","status":"relens","run":"lensworker-20261014-0654","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:03:07Z","pid":"7950642878","stage":"flagged","run":"lensworker-20261014-0654","note":"Lens names Arts & Crafts, Onyx — title does not","data":{"med":960,"ratio":3.84,"mismatch":["Arts & Crafts","Onyx"]}}

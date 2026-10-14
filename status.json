@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:59:31Z",
+ "updated": "2026-10-14T07:03:31Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8099,
-  "events": 30113,
+  "lens": 8124,
+  "events": 30138,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 225,
+  "queued/relens": 233,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 353,
-  "flagged": 280,
-  "lensed": 92
+  "queued": 328,
+  "flagged": 296,
+  "lensed": 93
  },
  "last_harvests": [
   {
@@ -474,6 +474,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967792133",
+   "title": "Sterling Silver Omega 18\u201d 6mm Necklace",
+   "price": 120,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-sterling-silver-omega-18-6mm/j1RWVTzXMLTm72fbn6LTiJ",
+   "best": "David's Antiques & Jewelry",
+   "med": 3917,
+   "ratio": 32.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7948667406",
    "title": "Handmade ceramic vase",
    "price": 20,
@@ -493,6 +504,17 @@
    "best": "vintage Bond Street London gold tone framed Hanging clock ...",
    "med": 3200,
    "ratio": 32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950031727",
+   "title": "Vintage sterling choker",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-vintage-sterling-choker/7guP4ETe5zKe3rMgbfG49w",
+   "best": "eBay",
+   "med": 2995,
+   "ratio": 29.95,
    "ai_value": ""
   },
   {
@@ -826,6 +848,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950568646",
+   "title": "Autographed vintage oil painting of still life",
+   "price": 185,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-autographed-vintage-oil/69gqKvZi4xGpvnd8WZzu88",
+   "best": "eBay",
+   "med": 1000,
+   "ratio": 5.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7963246140",
    "title": "Vintage Goldette NY Bracelet Gold Tone",
    "price": 15,
@@ -1057,6 +1090,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950642878",
+   "title": "Ring Vintage Jade Silver Size 6",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-ring-vintage-jade-silver-size/vGGg6ahE2qDTUiPmG9AQEa",
+   "best": "Novica",
+   "med": 960,
+   "ratio": 3.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7972351545",
    "title": "Sterling Silver Ring",
    "price": 20,
@@ -1153,6 +1197,17 @@
    "best": "eBay",
    "med": 122,
    "ratio": 3.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952322291",
+   "title": "Ladies Quality Bracelet",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-ladies-quality-bracelet/gjN9FnHkrJmnMuq9NVnQY7",
+   "best": "eBay",
+   "med": 69,
+   "ratio": 3.45,
    "ai_value": ""
   },
   {
@@ -1317,6 +1372,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-cuff-w/2DYf5UcVt9wjQ2hqJvwmLo",
    "best": "eBay",
    "med": 171,
+   "ratio": 2.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939953492",
+   "title": "New Shell Pendant",
+   "price": 39,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/north-hollywood-new-shell-pendant/6xSNXWojNrpZk8Re4KdDd4",
+   "best": "Etsy",
+   "med": 111,
    "ratio": 2.85,
    "ai_value": ""
   },
@@ -1519,6 +1585,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943910995",
+   "title": "Antique Brass Vases",
+   "price": 45,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-antique-brass-vases/sanRMEtq9gkGwjxpuvTNQy",
+   "best": "Etsy",
+   "med": 106,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7938206970",
    "title": "Sterling silver necklace with pendant and matching earrings",
    "price": 60,
@@ -1582,6 +1659,17 @@
    "best": "Vintage 14K Yellow Gold Triple Strand Pearl Bracelet - Etsy",
    "med": 252,
    "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983135315",
+   "title": "NEW 14K Gold Ruby and Diamond Ring",
+   "price": 190,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/new-14k-gold-ruby-and-diamond-ring/m4uYiAs3k6m4ph9bNHuXPW",
+   "best": "Etsy",
+   "med": 425,
+   "ratio": 2.24,
    "ai_value": ""
   },
   {
@@ -1959,6 +2047,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937787003",
+   "title": "Men\u2019s Watch",
+   "price": 50,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-mens-watch/7rTAaYdX4cHLV6S6hJPTro",
+   "best": "TheWatchAgency",
+   "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -1967,6 +2066,17 @@
    "best": "Sterling Silver Amethyst Bracelet Vintage | eBay",
    "med": 127,
    "ratio": 1.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961210682",
+   "title": "Color Etching French artist",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-color-etching-french-artist/tsTMF9t8z6w1Lbmwhg7npX",
+   "best": "Leboncoin",
+   "med": 95,
+   "ratio": 1.58,
    "ai_value": ""
   },
   {
@@ -2231,6 +2341,17 @@
    "best": "Vintage Marianne Signed Clear Rhinestone Silver Tone Art ...",
    "med": 55,
    "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951080881",
+   "title": "Antique Clay Black Handpainted ceramic Vase Large",
+   "price": 99,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/newport-beach-antique-clay-black/huJMZWLKZYCZEkY5ecwfXb",
+   "best": "Chairish",
+   "med": 136,
+   "ratio": 1.37,
    "ai_value": ""
   },
   {
@@ -2740,6 +2861,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946683529",
+   "title": "Vintage McCoy Brown Drip Creamer",
+   "price": 14,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-mccoy-brown-drip/kqzTqHKZF8RsQ5HXxJEp9m",
+   "best": "eBay",
+   "med": 13,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7969319202",
    "title": "Vintage Porcelain Soap Dispenser",
    "price": 35,
@@ -2971,6 +3103,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950003638",
+   "title": "Sterling Silver Sunflower & Leaf Size 9 3/4 Ring",
+   "price": 70,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-sunflower/keeBsQiviuBY2e5wKi1mf7",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 0.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7948092563",
    "title": "Vintage West Germany Filagree Size 5 Ring",
    "price": 50,
@@ -2990,6 +3133,17 @@
    "best": "eBay",
    "med": 85,
    "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947746958",
+   "title": "Vincent Bach Corp,",
+   "price": 15,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vincent-bach-corp/uH4mj2uesAmYRGwffSCF6C",
+   "best": "Craigslist",
+   "med": 10,
+   "ratio": 0.67,
    "ai_value": ""
   },
   {
@@ -3111,6 +3265,17 @@
    "best": "Etsy",
    "med": 127,
    "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953267254",
+   "title": "Pilgrim Figurines",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-pilgrim-figurines/tMe2yGU6xtHkusWWFrLDxb",
+   "best": "Craigslist",
+   "med": 18,
+   "ratio": 0.51,
    "ai_value": ""
   },
   {
@@ -3375,6 +3540,17 @@
    "best": "Etsy",
    "med": 27,
    "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961378814",
+   "title": "Vintage 1981 ToyTime Inc. Wizard of Oz dolls set Of 3",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-vintage-1981-toytime-inc/gFdQxqQb4jJ2ar2nwLd5Ym",
+   "best": "eBay",
+   "med": 13,
+   "ratio": 0.22,
    "ai_value": ""
   },
   {
