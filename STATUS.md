@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T23:20:22Z
+# Refurbish status — 2026-10-14T23:24:12Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,11 +7,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1487 |
-| lensed | 499 |
+| flagged | 1509 |
+| lensed | 502 |
 | queued/relens | 485 |
 | decided/ask | 85 |
-| queued | 78 |
+| queued | 53 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
 | expired | 14 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 11
 - searches: 2614
 - listings: 11383
-- lens: 9974
-- events: 33590
+- lens: 9999
+- events: 33615
 - comps: 2358
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1487)
+## Flagged by Lens, waiting for photo review (1509)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -218,6 +218,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00Z0Z_1LUhptDdWLa_0CI0t2_300x300.jpg" width="120"> | 7942143626 | $20 | losangeles | [ganesha bookends](https://www.craigslist.org/view/d/panorama-city-ganesha-bookends/a2PCVCTdkGGqonWQkTYMWF) | Double Sided Corundum Ruby Ganesha Statue / Spiritual Altar  | 830 | 41.5 |
 | <img src="https://images.craigslist.org/00X0X_RAxK1yQTJd_0mc0CI_300x300.jpg" width="120"> | 7949314282 | $100 | lasvegas | [Miami Cuban Link bracelet](https://www.craigslist.org/view/d/las-vegas-miami-cuban-link-bracelet/fou9XtS2ceyuQg8r6zurLa) | Miami Cuban Link Bracelet Thick 25 Mil Gold Filled... From . | 4044 | 40.44 |
 | <img src="https://images.craigslist.org/00Y0Y_gotp7NnBHVA_05r06m_300x300.jpg" width="120"> | 7941406369 | $75 | longisland | [Antique Oil Painting](https://www.craigslist.org/view/d/kings-park-antique-oil-painting/h4iE3V9ievpkUNNiFKPzs7) | Artist is 'E SENECA' - Anyone know of this artist? : r ... | 3000 | 40 |
+| <img src="https://images.craigslist.org/00I0I_drAa1wuUE3g_09M08h_300x300.jpg" width="120"> | 7982183682 | $15 | washingtondc | [Ladies Fashion Gold Ring Sz 7 1/2](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring-sz/15XC7UaXMYCznNQEvNVr1d) | Craigslist | 599 | 39.93 |
 | <img src="https://images.craigslist.org/00808_eWWWmbZgjq5_0t20t2_300x300.jpg" width="120"> | 7971124623 | $60 | myrtlebeach | [Vintage Bass Guitar Body](https://www.craigslist.org/view/d/myrtle-beach-vintage-bass-guitar-body/cDGJSwDjoxCCQcb1snsRWa) | Mosrite The Ventures Model Red USA 1966 Vintage Solid Body . | 2316 | 38.6 |
 | <img src="https://images.craigslist.org/00N0N_bYir9ZNTE7w_0CI0i3_300x300.jpg" width="120"> | 7942787999 | $1 | spokane | [Vintage foreign beer glasses](https://www.craigslist.org/view/d/spokane-vintage-foreign-beer-glasses/gnQexqVDvUvrmrAFAPAKwB) | Vintage KLOSTERBRÄU Koblenz RHEINISCH PILS Beer Tulip ... | 38 | 38 |
 | <img src="https://images.craigslist.org/00O0O_agoWdB4lYdb_0t20CI_300x300.jpg" width="120"> | 7978088604 | $49 | losangeles | [TARKEI](https://www.craigslist.org/view/d/monrovia-tarkei/3RQAMnSq8rJiBTF1iFahWt) | Itzchak Tarkay “Charming Memories” Embellished Serigraph on  | 1750 | 35.71 |
@@ -241,6 +242,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00m0m_lRJGyEsi48n_0t20CI_300x300.jpg" width="120"> | 7978187826 | $40 | sfbay | [Vintage Temple Jar Fine Porcelain Collectibles](https://www.craigslist.org/view/d/el-sobrante-vintage-temple-jar-fine/nnZLP9baWN32Doe7E3zj3J) | Blue Delft Crock Pot - Etsy Ireland | 1200 | 30 |
 | <img src="https://images.craigslist.org/00m0m_hHO8lobhngD_0tO12w_300x300.jpg" width="120"> | 7950031727 | $100 | seattle | [Vintage sterling choker](https://www.craigslist.org/view/d/renton-vintage-sterling-choker/7guP4ETe5zKe3rMgbfG49w) | eBay | 2995 | 29.95 |
 | <img src="https://images.craigslist.org/00u0u_92oUNOdErr8_0zh0rb_300x300.jpg" width="120"> | 7950709518 | $20 | orangecounty | [Artisan Rose Quartz Necklace $20](https://www.craigslist.org/view/d/fountain-valley-artisan-rose-quartz/dqZLwxxKyYDjif6vzPhMVc) | 925 Sterling Silver Mesh Bracelet With Button Pearls 39.4g . | 590 | 29.5 |
+| <img src="https://images.craigslist.org/00000_iNTClEsfTJI_0lR0t2_300x300.jpg" width="120"> | 7953371245 | $9 | rochester | [Hand thrown pottery](https://www.craigslist.org/view/d/rochester-hand-thrown-pottery/42QAkNCcqhpwV4hjsLMX6s) | Turtle Farm Pottery Handmade Ceramic Mug — Turtle Farm ... | 250 | 27.78 |
 | <img src="https://images.craigslist.org/00W0W_lgNc3E0DwNG_0gx0cW_300x300.jpg" width="120"> | 7950842587 | $50 | portland | [Vintage ring](https://www.craigslist.org/view/d/portland-vintage-ring/uGbcBatbTy3qho9npjmHja) | Etsy | 1387 | 27.74 |
 | <img src="https://images.craigslist.org/00K0K_ly4ce105Mk5_0CI0vu_300x300.jpg" width="120"> | 7933139401 | $12 | syracuse | [Reproduction Fraktur](https://www.craigslist.org/view/d/liverpool-reproduction-fraktur/pv2ucoTRTW98M7wUpHMJF8) | Antique Bird Print of the Stock Dove by Von Wright, 1929 For | 311 | 25.92 |
 | <img src="https://images.craigslist.org/00b0b_2vNh5Rq37Jt_0pf0t2_300x300.jpg" width="120"> | 7950838763 | $5 | newhaven | [vintage black frame with glass](https://www.craigslist.org/view/d/milford-vintage-black-frame-with-glass/7p25Cub1pJkYhsxcAPSusJ) | Vintage Poodle Painting - Etsy | 125 | 25 |
@@ -261,5 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00909_c0uiUa2oVJW_0t20CI_300x300.jpg" width="120"> | 7931510232 | $75 | monterey | [Jewelry](https://www.craigslist.org/view/d/salinas-jewelry/xoEVkQ7QTdfnNMiwai65sz) | Long Pearl Necklace 9ct Gold Floral Sapphire Clasp 25 ... | 1608 | 21.44 |
 | <img src="https://images.craigslist.org/00y0y_aVxcXnuXfUD_0t20CI_300x300.jpg" width="120"> | 7983382749 | $375 | losangeles | [Vintage Mido Multifort Super Automatic Watch](https://www.craigslist.org/view/d/los-angeles-vintage-mido-multifort/bnzwAT8WY2Kkn5eDjT9iwk) | Etsy | 7980 | 21.28 |
 | <img src="https://images.craigslist.org/00707_bHARK6XpQPW_0t20CI_300x300.jpg" width="120"> | 7958666490 | $20 | lexington | [Pearl Shell VASES](https://www.craigslist.org/view/d/lexington-pearl-shell-vases/wUdaXHhUmGGFpBM6nLwDbE) | Craigslist | 418 | 20.9 |
-| <img src="https://images.craigslist.org/00r0r_f8TAR3WHhGc_0rv0t2_300x300.jpg" width="120"> | 7951927771 | $99 | pittsburgh | [AQUAMARINE 14k Gold EARRINGS](https://www.craigslist.org/view/d/strabane-aquamarine-14k-gold-earrings/7M34zMHoW4bgtfY4jrFYCW) | Size 5.25 - 14K 585 Rose Gold Topaz Ring - Elegant Vintage . | 2058 | 20.79 |
-| <img src="https://images.craigslist.org/00o0o_krD1eoKQhXI_0kI0fx_300x300.jpg" width="120"> | 7949999524 | $30 | sfbay | [Ear Studs Turquoise- Vintage](https://www.craigslist.org/view/d/san-jose-ear-studs-turquoise-vintage/fGxXt8akY3E3RTbWPmYsRT) | eBay | 620 | 20.67 |

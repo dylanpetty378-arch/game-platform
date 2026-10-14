@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T23:20:22Z",
+ "updated": "2026-10-14T23:24:12Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9974,
-  "events": 33590,
+  "lens": 9999,
+  "events": 33615,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 78,
-  "flagged": 1487,
-  "lensed": 499
+  "queued": 53,
+  "flagged": 1509,
+  "lensed": 502
  },
  "last_harvests": [
   {
@@ -1290,6 +1290,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982183682",
+   "title": "Ladies Fashion Gold Ring Sz 7 1/2",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring-sz/15XC7UaXMYCznNQEvNVr1d",
+   "best": "Craigslist",
+   "med": 599,
+   "ratio": 39.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7971124623",
    "title": "Vintage Bass Guitar Body",
    "price": 60,
@@ -1540,6 +1551,17 @@
    "best": "925 Sterling Silver Mesh Bracelet With Button Pearls 39.4g ...",
    "med": 590,
    "ratio": 29.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953371245",
+   "title": "Hand thrown pottery",
+   "price": 9,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-hand-thrown-pottery/42QAkNCcqhpwV4hjsLMX6s",
+   "best": "Turtle Farm Pottery Handmade Ceramic Mug \u2014 Turtle Farm ...",
+   "med": 250,
+   "ratio": 27.78,
    "ai_value": ""
   },
   {
@@ -2379,6 +2401,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983430863",
+   "title": "1961 CHARLIE WEAVER BARTENDER",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-1961-charlie-weaver-bartender/4Cqc6RYnpJwUA5fZd2eRfX",
+   "best": "Vintage Toy Charlie Weaver Bartender by Rosko Japan #0650 ...",
+   "med": 140,
+   "ratio": 14,
+   "ai_value": ""
+  },
+  {
    "pid": "7931311842",
    "title": "Vintage.925/Gold Vermeil Amethyst and diamond cocktail ring",
    "price": 50,
@@ -2761,6 +2794,28 @@
    "best": "Antique Hand Painted Limoges Porcelain Fruit Motifs Dessert ...",
    "med": 113,
    "ratio": 11.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932508727",
+   "title": "Vintage late '40's Child's 10k? Gold ID Bracelet",
+   "price": 8,
+   "area": "mansfield",
+   "url": "https://www.craigslist.org/view/d/mansfield-vintage-late-40s-childs-10k/kZDrsCTnKf3trRHvNsBoaA",
+   "best": "eBay",
+   "med": 90,
+   "ratio": 11.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982339847",
+   "title": "Persian signed Miniature painting",
+   "price": 89,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-persian-signed-miniature/stcryJUnS1esvJeTHmU6zr",
+   "best": "Persian Miniature Painting On Ivory, Iran, Depicting A",
+   "med": 995,
+   "ratio": 11.18,
    "ai_value": ""
   },
   {
@@ -3179,6 +3234,17 @@
    "best": "Fashion Jewelry Earrings Brass And Purple Round ...",
    "med": 130,
    "ratio": 8.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934745906",
+   "title": "Vintage OWL Bronze Bookend circa 1900's",
+   "price": 55,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/forest-grove-vintage-owl-bronze-bookend/sCSpXasrAS21F54pM9fnT2",
+   "best": "25+ Owl Bookends for sale | Updated Oct 2026",
+   "med": 476,
+   "ratio": 8.65,
    "ai_value": ""
   },
   {
@@ -3919,6 +3985,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949060469",
+   "title": "Vintage 80s 90s Lot of 3 New in Box Wood Nutcracker Figures 11\u201d & 14\"",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pacifica-vintage-80s-90s-lot-of-new-in/vg8mZrJgP7oAeWdWDcqf6a",
+   "best": "Wooden Nutcracker Soldier 15\" Hand Painted Holiday Figure ...",
+   "med": 181,
+   "ratio": 6.03,
+   "ai_value": ""
+  },
+  {
    "pid": "7952660752",
    "title": "Vintage 3d postcards lot of 17",
    "price": 10,
@@ -4037,6 +4114,17 @@
    "best": "Mercari",
    "med": 500,
    "ratio": 5.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935643312",
+   "title": "Capodimonte Trinket Box",
+   "price": 30,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-capodimonte-trinket-box/4BYfa1hpdAmQPeTwSX2xpM",
+   "best": "Vintage/Authentic Capodimonte Ceramic Round Shaped ...",
+   "med": 175,
+   "ratio": 5.83,
    "ai_value": ""
   },
   {
@@ -4271,6 +4359,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946081938",
+   "title": "crystal bracelet",
+   "price": 15,
+   "area": "iowacity",
+   "url": "https://www.craigslist.org/view/d/collins-crystal-bracelet/bGprVYi7KEN1xMxUjTXUZM",
+   "best": "Green Kyanite, Jade and Aventurine, Cultured Pearls ...",
+   "med": 80,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7983159279",
    "title": "Hand Made Earrings",
    "price": 65,
@@ -4311,6 +4410,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-antique-14k-white-gold/rnoYiLJ4ZXTMaCGRPQUoLV",
    "best": "eBay",
    "med": 520,
+   "ratio": 5.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983389778",
+   "title": "Paparazzi Accessories",
+   "price": 8,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/lake-elsinore-paparazzi-accessories/aQoQNgT3cfKhWqxvQ6VT2t",
+   "best": "Gold Presidents",
+   "med": 42,
    "ratio": 5.25,
    "ai_value": ""
   },
@@ -5371,6 +5481,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983450723",
+   "title": "Vintage Harmony Archtop guitar",
+   "price": 125,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/cicero-vintage-harmony-archtop-guitar/vr1VzeWCxzGu9PJUDVmV71",
+   "best": "Harmony Archtop acoustic 1945 Sunburst | Reverb",
+   "med": 500,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -5822,6 +5943,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957791062",
+   "title": "Antique  Irons",
+   "price": 10,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/antique-irons/s4X1Wjo1UovQtHDGxzQLmm",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -5862,6 +5994,17 @@
    "url": "https://www.craigslist.org/view/d/san-rafael-jewelry-necklaces/ogWiuhG4ebMPwBRBj3BCwf",
    "best": "eBay",
    "med": 52,
+   "ratio": 3.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936662561",
+   "title": "Abraham Lincoln ILLINOIS 21j RAILROAD POCKET WATCH w/ Montgomery Dial",
+   "price": 299,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-abraham-lincoln-illinois-21j/hg6mfEowaPU7q4yYNN3d6B",
+   "best": "Illinois Bunn Special 23 Jewels Pocket-Watch | eBay",
+   "med": 1037,
    "ratio": 3.47,
    "ai_value": ""
   },
@@ -6603,6 +6746,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950386629",
+   "title": "Vintage Danish Christmas Plates Lot",
+   "price": 120,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-danish-christmas/hkHrL2t3eC3XNAGZYrkPQm",
+   "best": "eBay",
+   "med": 360,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -7032,6 +7186,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937712352",
+   "title": "Antique Vanity/Dresser jar",
+   "price": 35,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-antique-vanity-dresser-jar/jhmuLdSPporb5u3nDmZPvS",
+   "best": "Etsy",
+   "med": 95,
+   "ratio": 2.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7938166705",
    "title": "Turquoise and smokey quartz necklace",
    "price": 40,
@@ -7116,6 +7281,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-teal/bv98NYyEP5ysjSd3nN26qh",
    "best": "925 Sterling Silver Oval Blue Turquoise Pendant 18.9 Grams ...",
    "med": 79,
+   "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965030129",
+   "title": "TROMBONE ROTH AND REYNOLDS",
+   "price": 95,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-trombone-roth-and-reynolds/eDyM1TzmPa6EQMNaYNrG1w",
+   "best": "Reynolds Roth Brass Trombone, USA, with case & mouthpiece ...",
+   "med": 250,
    "ratio": 2.63,
    "ai_value": ""
   },
@@ -8018,6 +8194,17 @@
    "url": "https://www.craigslist.org/view/d/quitman-vintage-hematite-cameo/2McB6nTbE8ScTxgDZ9zj8P",
    "best": "Hot Sale Stainless Steel Biker Lion Dog Tag Pendant Hematite ...",
    "med": 18,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960193346",
+   "title": "Vintage Ex Voto Sacred Eye Tattoo",
+   "price": 80,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-vintage-ex-voto-sacred-eye/7WR6Ev4tuEnwcYvbmLVNne",
+   "best": "eBay",
+   "med": 180,
    "ratio": 2.25,
    "ai_value": ""
   },
@@ -9463,6 +9650,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938494543",
+   "title": "SWAROVSKI CRYSTAL NECKLACE, BRACELET, EARRINGS",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-swarovski-crystal-necklace/pn4Mbd34f3TNtxaknyFS5n",
+   "best": "Rock Me to Vitrail Handmade Swarovski Crystal Necklace Set ...",
+   "med": 51,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7967127546",
    "title": "925 Sterling Silver Unisex 16.5\" Choker 19.22g",
    "price": 49,
@@ -10571,6 +10769,17 @@
    "best": "eBay",
    "med": 29,
    "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971725919",
+   "title": "Earrings w/Phenomenal New Zealand Shell",
+   "price": 35,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-earrings-phenomenal-new/waE3kEprB6dWNvZu6Bg52T",
+   "best": "CFJ 925 Sterling Silver and Abalone Dangle Earrings | eBay",
+   "med": 50,
+   "ratio": 1.43,
    "ai_value": ""
   },
   {
@@ -14666,6 +14875,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950228957",
+   "title": "Vintage 925 silver link panel bracelet with abalone shell Made in Mexi",
+   "price": 165,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-vintage-925-silver-link-panel/86hQ9qPqz7Y1MGmcbSh8SY",
+   "best": "eBay",
+   "med": 90,
+   "ratio": 0.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7948558885",
    "title": "Set of 2 Porcelain Angel Figurine, New",
    "price": 35,
@@ -15058,6 +15278,17 @@
    "url": "https://www.craigslist.org/view/d/philadelphia-ring-silver-turquoise/e8nMtibp4pEHJXUVe2ziyU",
    "best": "eBay",
    "med": 38,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949318995",
+   "title": "Miami Cuban link",
+   "price": 380,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-miami-cuban-link/3s1rT6NHJbbMFQ7UonFd4q",
+   "best": "Mercari",
+   "med": 180,
    "ratio": 0.47,
    "ai_value": ""
   },
@@ -16817,6 +17048,17 @@
    "area": "charlotte",
    "url": "https://www.craigslist.org/view/d/charlotte-costume-jewelry/fWYX7R4w9qRx9ASGVetHh8",
    "best": "Twist Set of 3 Stacking Rings, 14K Gold Fill \u2013 Hannah Naomi ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972620240",
+   "title": "Antique World War 2 Cattaraugus  Military Knife",
+   "price": 200,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/delray-beach-antique-world-war/f8YbA4qcM9voyV4cjcgGJQ",
+   "best": "Sold at Auction: Lot of 5 German Solingen Knives all with ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
