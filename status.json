@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:51:08Z",
+ "updated": "2026-10-14T22:54:42Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9799,
-  "events": 33415,
+  "lens": 9824,
+  "events": 33440,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 253,
-  "flagged": 1362,
-  "lensed": 449
+  "queued": 228,
+  "flagged": 1386,
+  "lensed": 450
  },
  "last_harvests": [
   {
@@ -707,6 +707,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965711534",
+   "title": "Bella Luce Hoop Earrings",
+   "price": 25,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/solvang-bella-luce-hoop-earrings/kt8q2YPH8uWiANGoZhkEVa",
+   "best": "Craigslist",
+   "med": 3139,
+   "ratio": 125.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7943638984",
    "title": "Collection of Vintage Cameras",
    "price": 1,
@@ -880,6 +891,17 @@
    "best": "Vintage 14K Yellow Gold Emerald Cat Kitten Bow Brooch Pin ...",
    "med": 723,
    "ratio": 72.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959036216",
+   "title": "Gibson Guitars &  Bunch Of Other Stuff",
+   "price": 60,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/brentwood-gibson-guitars-bunch-of-other/v6uHNYK4AMY4aiVLySEAfx",
+   "best": "Carter Vintage Guitar",
+   "med": 4277,
+   "ratio": 71.28,
    "ai_value": ""
   },
   {
@@ -1199,6 +1221,17 @@
    "best": "14K Solid Yellow Gold Pearl Ring \u2022 Size 7 \u2022 2.3g \u2022 Classic ...",
    "med": 529,
    "ratio": 35.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979679837",
+   "title": "vintage large copper kettle",
+   "price": 40,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/hilo-vintage-large-copper-kettle/vrM6RRgh2ESuUqtPerjHg8",
+   "best": "Union Drummer Boy",
+   "med": 1400,
+   "ratio": 35,
    "ai_value": ""
   },
   {
@@ -1639,6 +1672,17 @@
    "best": "eBay",
    "med": 350,
    "ratio": 19.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956410117",
+   "title": "Fashion Gold Dangle Filigree Earrings",
+   "price": 16,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-gold-dangle/cX2qvPgMspZZ2GAuvusr4V",
+   "best": "Filigree Earrings Gold Dangle, Vintage Diamond Drop Earrings ...",
+   "med": 308,
+   "ratio": 19.25,
    "ai_value": ""
   },
   {
@@ -2170,6 +2214,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946253984",
+   "title": "Nivada Colorama Watch",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-nivada-colorama-watch/3dCvx3cvv2WCfGhnYyr2bk",
+   "best": "Vintage Nivada 1960 Colorama VI Women's 6 Bezels With Box ...",
+   "med": 395,
+   "ratio": 13.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7976769864",
    "title": "Vintage Coca-Cola Bottles \u2013 Set of 8 ($10 Each / $40 for All)",
    "price": 10,
@@ -2632,6 +2687,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983474633",
+   "title": "Silver rings",
+   "price": 30,
+   "area": "huntsville",
+   "url": "https://www.craigslist.org/view/d/huntsville-silver-rings/uQeWMfhqexjsCCP7cd7qRF",
+   "best": "eBay",
+   "med": 300,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7953372719",
    "title": "Hand thrown pottery",
    "price": 14,
@@ -2991,6 +3057,17 @@
    "url": "https://www.craigslist.org/view/d/union-city-thai-crackeld-celadon/kYToEY8FWZKaQ7GLJbpwMB",
    "best": "Craigslist",
    "med": 400,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949597888",
+   "title": "Womens Gold Crystal Watch",
+   "price": 15,
+   "area": "blacksburg",
+   "url": "https://www.craigslist.org/view/d/forest-womens-gold-crystal-watch/dMZpMQH3PL7gNC6fuwQGsM",
+   "best": "eBay",
+   "med": 120,
    "ratio": 8,
    "ai_value": ""
   },
@@ -4249,6 +4326,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972167207",
+   "title": "Sterling Southwest Design Woman\u2019s Watch with Flexible Watch Band",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/woodland-hills-sterling-southwest/7NJ6mUkxMcEV9r3d53LAxk",
+   "best": "eBay",
+   "med": 275,
+   "ratio": 4.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7953868190",
    "title": "Antique Brass Old Vintage Pendant Fixture Wall Mounted Light Sconce",
    "price": 80,
@@ -4487,6 +4575,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-vintage-small-silver-sun/hrrE9CrGvwj9DpvFp8ZRrd",
    "best": "eBay",
    "med": 64,
+   "ratio": 4.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962712962",
+   "title": "Navajo Sterling /Turquoise Watch Band",
+   "price": 280,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-navajo-sterling-turquoise/oDyXMhpNZssvEu1ttMKfbA",
+   "best": "Vintage Ramon Sleeping Beauty Turquoise Cluster Watch ...",
+   "med": 1195,
    "ratio": 4.27,
    "ai_value": ""
   },
@@ -6064,6 +6163,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934914221",
+   "title": "14k gold plated bar pendant with chain",
+   "price": 125,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-14k-gold-plated-bar-pendant/tuGPmbKxKpqgy1Tx5gL9Zn",
+   "best": "22K Gold Tiny Bar Pendant Necklace, 22K Bullion Gold ...",
+   "med": 360,
+   "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7945575944",
    "title": "Sterling Silver & Smokey Quartz 18\u201d Necklace",
    "price": 75,
@@ -6303,6 +6413,17 @@
    "best": "Chunky Marbled Resin Pebble Necklace \u2013 Le' Diva Boutique Store",
    "med": 41,
    "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954565090",
+   "title": "\ud83d\udc8eAntique Victorian 14k Gold & Diamond FILIGREE PIN  \ud83d\udc8e",
+   "price": 399,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-antique-victorian-14k-gold/pn4Z28pwqWg5TfRPs38jzL",
+   "best": "eBay",
+   "med": 1080,
+   "ratio": 2.71,
    "ai_value": ""
   },
   {
@@ -7307,6 +7428,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947559361",
+   "title": "Vintage Sterling Silver Parrot Earrings with old screw back post",
+   "price": 65,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-sterling-silver/ptAJZTxMBqWubfJpvNbnxy",
+   "best": "Etsy",
+   "med": 143,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933473814",
    "title": "Sterling Silver & Agate Delicate Filagree Size 5 Ring",
    "price": 50,
@@ -7391,6 +7523,17 @@
    "url": "https://www.craigslist.org/view/d/spokane-vintage-ceramic-creamer/f3BQ7MmFjfCRtXhgeeCppV",
    "best": "Craigslist",
    "med": 43,
+   "ratio": 2.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947108614",
+   "title": "Sterling silver bracelet",
+   "price": 125,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/tampa-sterling-silver-bracelet/jFbnQHLhmusduKQ1JmfRNU",
+   "best": "eBay",
+   "med": 269,
    "ratio": 2.15,
    "ai_value": ""
   },
@@ -9144,6 +9287,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952138791",
+   "title": "Vintage Gold Gilt Oval Picture",
+   "price": 65,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-gold-gilt-oval/j1agDqPcX2NDtrQMWwree3",
+   "best": "Vintage Oval Wooden Frame, French Fashion Sketch, Wall Art ...",
+   "med": 99,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7950454675",
    "title": "Elgin Silver Big Antique POCKET WATCH \u231a",
    "price": 199,
@@ -9804,6 +9958,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972060890",
+   "title": "6-Old Style Belt Buckle--New",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-old-style-belt-buckle-new/2NspPuE11tmMQ3ovnKufR9",
+   "best": "Vintage Native American Indian Head Chief Belt Buckle | eBay",
+   "med": 63,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7965370614",
    "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
    "price": 18,
@@ -9936,6 +10101,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946070809",
+   "title": "VINTAGE FRUIT BASKET",
+   "price": 25,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-fruit-basket/qfbTXY7CwiT6JJb8dzuSF4",
+   "best": "Craigslist",
+   "med": 34,
+   "ratio": 1.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7949234609",
    "title": "Sterling Silver 1 3/4\u201d Hoop Earrings",
    "price": 30,
@@ -10044,6 +10220,28 @@
    "med": 20,
    "ratio": 1.33,
    "ai_value": ""
+  },
+  {
+   "pid": "7983349212",
+   "title": "Vintage 1980s Costume or fashion jewelry lot  new old stock",
+   "price": 15,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/somerville-vintage-1980s-costume-or/nKpFuJ4chGYKTk1hcnzPy7",
+   "best": "Vintage Mixed Lot of 5 Costume Jewelry Wooden Wood Beaded ...",
+   "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945418004",
+   "title": "Bulova Accutron Vintage",
+   "price": 375,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-bulova-accutron-vintage/7uEYi3TPjWmVyRuWtxqfgc",
+   "best": "Elite HNW",
+   "med": 500,
+   "ratio": 1.33,
+   "ai_value": "price tag ($95"
   },
   {
    "pid": "7951339190",
@@ -10372,6 +10570,17 @@
    "url": "https://www.craigslist.org/view/d/salem-elgin-garfield-gold-antique/eNoYBjQRzXTb8ScUe32BeJ",
    "best": "Watch Works",
    "med": 350,
+   "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956180823",
+   "title": "Sterling Silver Bracelet w/ Amber Stones 7.5\u201d",
+   "price": 120,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-sterling-silver-bracelet-amber/h5LvSQS3zkstXwMh34GpN3",
+   "best": "eBay",
+   "med": 148,
    "ratio": 1.23,
    "ai_value": ""
   },
@@ -11828,6 +12037,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946412923",
+   "title": "14k Gold Necklace",
+   "price": 355,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/center-point-14k-gold-necklace/niALkzY8L4gavCsJds48cf",
+   "best": "Five Eight Five Jewelry",
+   "med": 325,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7969319202",
    "title": "Vintage Porcelain Soap Dispenser",
    "price": 35,
@@ -12363,6 +12583,17 @@
    "url": "https://www.craigslist.org/view/d/el-paso-fossil-rose-gold-watch/9xwsJiC1kE9Js1NrKLyhZ3",
    "best": "eBay",
    "med": 40,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983512328",
+   "title": "10K Diamond Cluster Ring",
+   "price": 500,
+   "area": "boone",
+   "url": "https://www.craigslist.org/view/d/fleetwood-10k-diamond-cluster-ring/2R82ZeTKLequdqQVP4soYq",
+   "best": "eBay",
+   "med": 400,
    "ratio": 0.8,
    "ai_value": ""
   },
@@ -13254,6 +13485,17 @@
    "url": "https://www.craigslist.org/view/d/saint-louis-banjo-string-with-case/oo75XjGVZhqqZ6eBWPFHry",
    "best": "eBay",
    "med": 250,
+   "ratio": 0.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983438648",
+   "title": "Sterling Silver 925 Diamond Ring Gemstone Ring",
+   "price": 85,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-sterling-silver-925/xqza1YgWAcVc4gD5xV3toA",
+   "best": "Etsy",
+   "med": 50,
    "ratio": 0.59,
    "ai_value": ""
   },
@@ -15442,6 +15684,28 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-rafael-original-paintings/gBbySXdwdNeTSwdyyVzFno",
    "best": "Wayfair",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980287226",
+   "title": "Vintage Silvertone Archtop Guitar 1950s",
+   "price": 400,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-silvertone-archtop/m5WqCihus6XDkULqjqQYSX",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982194137",
+   "title": "NEW Wolverine Wild Lite Pocket Watch",
+   "price": 40,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/penryn-new-wolverine-wild-lite-pocket/t5haaGCxnRHjfUi4bEUzYS",
+   "best": "NEW WOLVERINE WILD-LITE COMPASS LIGHT QUARTZ ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
