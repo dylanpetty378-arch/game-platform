@@ -31261,3 +31261,28 @@
 {"pid":"7967099763","stage":"queued","run":"craigslist-20261014-1406","data":{"score":11.38,"clip":5.95},"ts":"2026-10-14T14:26:41Z"}
 {"pid":"7954345893","stage":"queued","run":"craigslist-20261014-1406","data":{"score":11.38,"clip":7.95},"ts":"2026-10-14T14:26:41Z"}
 {"pid":"7940432863","stage":"queued","run":"craigslist-20261014-1406","data":{"score":11.38,"clip":5.96},"ts":"2026-10-14T14:26:41Z"}
+{"ts":"2026-10-14T14:54:13Z","pid":"7968712965","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:54:20Z","pid":"7947378794","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:54:26Z","pid":"7944261756","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:54:33Z","pid":"7975254432","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Silver, Trifari — title does not","data":{"med":40,"ratio":8,"mismatch":["Silver","Trifari"]}}
+{"ts":"2026-10-14T14:54:42Z","pid":"7950455984","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:54:49Z","pid":"7963355718","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:54:55Z","pid":"7931606669","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:55:02Z","pid":"7947788162","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:55:09Z","pid":"7953706349","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:55:16Z","pid":"7966875957","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:55:22Z","pid":"7963331295","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:55:30Z","pid":"7972548621","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Silver — title does not","data":{"med":22,"ratio":1.47,"mismatch":["Silver"]}}
+{"ts":"2026-10-14T14:55:38Z","pid":"7950830099","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Limited — title does not","data":{"med":115,"ratio":0.33,"mismatch":["Limited"]}}
+{"ts":"2026-10-14T14:55:45Z","pid":"7983280845","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:55:52Z","pid":"7977080238","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Gold — title does not","data":{"med":150,"ratio":0.75,"mismatch":["Gold"]}}
+{"ts":"2026-10-14T14:55:59Z","pid":"7941720244","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:56:06Z","pid":"7969724187","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Gold, Indian — title does not","data":{"med":45,"ratio":1.5,"mismatch":["Gold","Indian"]}}
+{"ts":"2026-10-14T14:56:14Z","pid":"7934210874","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:56:21Z","pid":"7950824473","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:56:27Z","pid":"7972767015","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:56:34Z","pid":"7954145537","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:56:40Z","pid":"7983307167","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:56:47Z","pid":"7955089967","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:56:58Z","pid":"7953874856","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Gold, Jewelry, Silver — title does not","data":{"med":44,"ratio":0.44,"mismatch":["Gold","Jewelry","Silver"]}}
+{"ts":"2026-10-14T14:57:05Z","pid":"7974145488","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}

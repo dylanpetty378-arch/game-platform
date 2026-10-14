@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-14T14:26:47Z",
+ "updated": "2026-10-14T14:57:29Z",
  "tables": {
   "harvests": 10,
-  "searches": 2158,
+  "searches": 2386,
   "listings": 10583,
-  "lens": 8449,
-  "events": 31263,
-  "comps": 1953,
+  "lens": 8474,
+  "events": 31288,
+  "comps": 2156,
   "item_types": 893,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 322,
+  "queued/relens": 341,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,8 +21,8 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 803,
-  "flagged": 458,
+  "queued": 778,
+  "flagged": 464,
   "lensed": 167
  },
  "last_harvests": [
@@ -999,6 +999,17 @@
    "url": "https://www.craigslist.org/view/d/omaha-marianne-weller-porcelain-vase/86Q7UnB46RgVY358jyReEJ",
    "best": "Weller Forest Pottery | eBay",
    "med": 2400,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975254432",
+   "title": "Vintage Layered necklace signed NY",
+   "price": 5,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-layered/dFay97uTKHZTarwJaUuY99",
+   "best": "Craigslist",
+   "med": 40,
    "ratio": 8,
    "ai_value": ""
   },
@@ -3313,6 +3324,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969724187",
+   "title": "Vintage 1942 & 1944 Mercury Dime Earrings-.925 Sterling Silver Hooks",
+   "price": 30,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-vintage-mercury-dime-earrings/1UnETq9NsJee9pZPcD8KMG",
+   "best": "Coin Earrings 90% Silver Mercury Dimes Coin Edge 14K Gold ...",
+   "med": 45,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -3363,6 +3385,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/hamel-vintage-avon-double-strand-faux/de331BgG8qQf5fmSNDMTFr",
    "best": "eBay",
+   "med": 22,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972548621",
+   "title": "(2) pairs earrings",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-pairs-earrings/ipSm34VpbM3VP4VVLxMS12",
+   "best": "Vintage Ornate Bronze Colored Dangle Earrings 3.25\u201d | eBay",
    "med": 22,
    "ratio": 1.47,
    "ai_value": ""
@@ -4545,6 +4578,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977080238",
+   "title": "VINTAGE WALTHAM POCKET WATCH",
+   "price": 200,
+   "area": "rmn",
+   "url": "https://www.craigslist.org/view/d/byron-vintage-waltham-pocket-watch/uMCA8RUpbpg2Dszpxv7ZR2",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7971834546",
    "title": "Vintage Sterling Silver Turquoise & Coral Hopi/Navajo Size 6 1/4 Ring",
    "price": 250,
@@ -4985,6 +5029,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953874856",
+   "title": "VINTAGE JEWERLY",
+   "price": 100,
+   "area": "mobile",
+   "url": "https://www.craigslist.org/view/d/gulf-shores-vintage-jewerly/aMPjtqLHjEN1mhzKVWcXxh",
+   "best": "Etsy",
+   "med": 44,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7983222369",
    "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
    "price": 38,
@@ -5135,6 +5190,17 @@
    "url": "https://www.craigslist.org/view/d/arlington-antique-air-force-logo-circa/61TQSVZFLpKpyyAPSHXey9",
    "best": "eBay",
    "med": 20,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950830099",
+   "title": "Harley Davidson Pocket Watch",
+   "price": 350,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/elk-grove-village-harley-davidson/rwcausuqKyagBKRkdk39jR",
+   "best": "Mecum On Time - Mecum Auctions",
+   "med": 115,
    "ratio": 0.33,
    "ai_value": ""
   },
