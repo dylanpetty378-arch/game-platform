@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T21:45:59Z
+# Refurbish status — 2026-10-14T21:49:44Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1058 |
-| queued | 653 |
+| flagged | 1082 |
+| queued | 628 |
 | queued/relens | 479 |
-| lensed | 359 |
+| lensed | 360 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 11
 - searches: 2614
 - listings: 11383
-- lens: 9399
-- events: 33014
+- lens: 9424
+- events: 33039
 - comps: 2358
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1058)
+## Flagged by Lens, waiting for photo review (1082)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -166,6 +166,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00z0z_7RsWle2O7md_0jt0gU_300x300.jpg" width="120"> | 7983248475 | $10 | daytona | [Vintage - (New) Chinese Tea Pot](https://www.craigslist.org/view/d/deland-vintage-new-chinese-tea-pot/kzwBuugbzEKfWy74M1noCz) | MT465 Vintage Red Ceramic Watch Tower Teapot Swords And ... | 995 | 99.5 |
 | <img src="https://images.craigslist.org/00101_5LXc3XXewoF_0t20CI_300x300.jpg" width="120"> | 7979444442 | $5 | fortwayne | [Horseshoe Clover Jewelry Charm](https://www.craigslist.org/view/d/south-bend-horseshoe-clover-jewelry/n4nDmrjhv3mTLUZ7Yw8G3r) | Your Trusted Source for Jewelry - Pendants & Necklaces ... | 480 | 96 |
 | <img src="https://images.craigslist.org/00T0T_8kRcHgX2LHZ_0ni0t2_300x300.jpg" width="120"> | 7938027882 | $20 | portland | [Vintage Sterling Silver Camphor Glass Pendant Vict](https://www.craigslist.org/view/d/vancouver-vintage-sterling-silver/qrPA33GUAuHWYPuHo4LfRr) | Anew Foods | 1698 | 84.9 |
+| <img src="https://images.craigslist.org/00R0R_57MbY3or15F_0hC0ct_300x300.jpg" width="120"> | 7981146621 | $15 | washingtondc | [Ladies Fashion Gold Filigree Ring Sz 10](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold/hZ3wJoGbNrZzZ6ikBULjyz) | Etsy | 1200 | 80 |
 | <img src="https://images.craigslist.org/01515_eYlzMkgaPAuz_0t20CI_300x300.jpg" width="120"> | 7955365058 | $15 | denver | [Costume jewelry](https://www.craigslist.org/view/d/aurora-costume-jewelry/t7oLR44HMhuBQjRJcuyKDw) | Nordstrom | 1199 | 79.93 |
 | <img src="https://images.craigslist.org/00s0s_yCO7XW3goW_0CI0hR_300x300.jpg" width="120"> | 7953446717 | $1 | nh | [Wedgewood](https://www.craigslist.org/view/d/raymond-wedgewood/ry77GkhiBDpjxbHFe3HptL) | Etsy | 79 | 79 |
 | <img src="https://images.craigslist.org/00s0s_2tWdLsXmgrh_0jm0ew_300x300.jpg" width="120"> | 7952447071 | $10 | chicago | [New purse, jewelry](https://www.craigslist.org/view/d/new-purse-jewelry/ksUuNy9TYSHQQbkWFjyRv7) | Craigslist | 775 | 77.5 |
@@ -173,6 +174,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_3ltCanLYVJW_05a03S_300x300.jpg" width="120"> | 7969750110 | $10 | denver | [Vintage Chinese Ginger Jar with Foo Dogs](https://www.craigslist.org/view/d/littleton-vintage-chinese-ginger-jar/q7JYfstAWBo8g2jroASJ2b) | Antique 19th Century Qing Dynasty Foo Dog Kamcheng ... | 695 | 69.5 |
 | <img src="https://images.craigslist.org/00l0l_fV5PN7DOyZQ_0CI0t2_300x300.jpg" width="120"> | 7949573802 | $1 | boston | [Vintage Silver Sugar Serving Tongs](https://www.craigslist.org/view/d/boston-vintage-silver-sugar-serving/9DdKqNMtKPBrbKmeWvBGkq) | Craigslist | 65 | 65 |
 | <img src="https://images.craigslist.org/00G0G_hoLpXtUoWqL_0hT0t2_300x300.jpg" width="120"> | 7955980451 | $100 | phoenix | [PSA Graded Baseball Cards](https://www.craigslist.org/view/d/scottsdale-psa-graded-baseball-cards/sQXLRws8sW4HWvjJZmDnN8) | 1972 TOPPS BASEBALL COMPLETE SET 787 Cards NM-MT / MINT ... | 6278 | 62.78 |
+| <img src="https://images.craigslist.org/00r0r_icImtQVwjFh_0t20CI_300x300.jpg" width="120"> | 7957168862 | $2 | westernmass | [Prices reduced:  large collection of Costume Jewel](https://www.craigslist.org/view/d/longmeadow-prices-reduced-large/7KjJUKRNKo9LjeLwGBSLBk) | Over 1 Pound Jewelry Vintage Modern Huge Lot ALL GOOD Wear . | 125 | 62.5 |
 | <img src="https://images.craigslist.org/00x0x_25xZdYEhXbL_0t20CI_300x300.jpg" width="120"> | 7954916105 | $3 | newyork | [Costume Jewelry](https://www.craigslist.org/view/d/costume-jewelry/8CitBSRY2y3HeoXTt4cn5A) | 925 heart shape clasp, pearl yellow crystal. lot of 7 ... | 170 | 56.67 |
 | <img src="https://images.craigslist.org/00M0M_goHAg115JTH_0CI0CI_300x300.jpg" width="120"> | 7972891719 | $80 | houston | [SIGNED Vintage Dryden Pottery Vase ONE OF A KIND A](https://www.craigslist.org/view/d/deer-park-signed-vintage-dryden-pottery/4naSLEA9NHNVumY5Wq6yxZ) | Ancien vase pot gres d'Alsace signé Anne ehret Deco - Décora | 4500 | 56.25 |
 | <img src="https://images.craigslist.org/00B0B_7s0yIGihpsk_0lM0t2_300x300.jpg" width="120"> | 7932644949 | $10 | orangecounty | [Pink Faceted "Statement Necklace"](https://www.craigslist.org/view/d/fountain-valley-pink-faceted-statement/ic833zH2rNfoXt3mAdhV1o) | Etsy | 550 | 55 |
@@ -262,5 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00P0P_1xt7tZtO3IW_0lM0t2_300x300.jpg" width="120"> | 7965183150 | $80 | washingtondc | [Color Lithograph 1960s](https://www.craigslist.org/view/d/washington-color-lithograph-1960s/o235fH841vJyQrDsEAsAgs) | Fay Friedman Call Me Madam Mid Century Block Print Ink ... | 1140 | 14.25 |
 | <img src="https://images.craigslist.org/00505_5m5rtI96v69_08Q05Z_300x300.jpg" width="120"> | 7951742668 | $99 | orangecounty | [Sterling Silver and Contemporary Ethnic Jewelry](https://www.craigslist.org/view/d/newport-beach-sterling-silver-and/rPxvvS9ATqEGdsM164SjBs) | eBay | 1395 | 14.09 |
 | <img src="https://images.craigslist.org/00h0h_tS5nm8Sg6r_0AG0MU_300x300.jpg" width="120"> | 7949206185 | $199 | pittsburgh | [LONGINES Vintage Gentleman's WRISTWATCH](https://www.craigslist.org/view/d/strabane-longines-vintage-gentlemans/1b9c4n82ndiyU8hhvTbiSN) | Craigslist | 2801 | 14.08 |
-| <img src="https://images.craigslist.org/00Q0Q_kL9xtFcWNkM_0lM0t2_300x300.jpg" width="120"> | 7931311842 | $50 | washingtondc | [Vintage.925/Gold Vermeil Amethyst and diamond cock](https://www.craigslist.org/view/d/fort-washington-vintage925-gold-vermeil/cJJEZTJUo12WxGXkoD4zjF) | Gem | 677 | 13.54 |
-| <img src="https://images.craigslist.org/00909_2gt7veRIgRTz_0xb0oT_300x300.jpg" width="120"> | 7963077570 | $20 | orangecounty | [Handmade Meenakari Bracelet Minakaali Bangles Bran](https://www.craigslist.org/view/d/handmade-meenakari-bracelet-minakaali/54ir5eWd9xWCtALbAVDoWn) | Meenakari Peacock Design Gold Plated Hinged Bracelet | 270 | 13.5 |

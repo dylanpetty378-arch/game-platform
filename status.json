@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T21:45:59Z",
+ "updated": "2026-10-14T21:49:44Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9399,
-  "events": 33014,
+  "lens": 9424,
+  "events": 33039,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 653,
-  "flagged": 1058,
-  "lensed": 359
+  "queued": 628,
+  "flagged": 1082,
+  "lensed": 360
  },
  "last_harvests": [
   {
@@ -707,6 +707,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981146621",
+   "title": "Ladies Fashion Gold Filigree Ring Sz 10",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-ladies-fashion-gold/hZ3wJoGbNrZzZ6ikBULjyz",
+   "best": "Etsy",
+   "med": 1200,
+   "ratio": 80,
+   "ai_value": ""
+  },
+  {
    "pid": "7955365058",
    "title": "Costume jewelry",
    "price": 15,
@@ -781,6 +792,17 @@
    "best": "1972 TOPPS BASEBALL COMPLETE SET 787 Cards NM-MT / MINT ...",
    "med": 6278,
    "ratio": 62.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957168862",
+   "title": "Prices reduced:  large collection of Costume Jewelry",
+   "price": 2,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/longmeadow-prices-reduced-large/7KjJUKRNKo9LjeLwGBSLBk",
+   "best": "Over 1 Pound Jewelry Vintage Modern Huge Lot ALL GOOD Wear ...",
+   "med": 125,
+   "ratio": 62.5,
    "ai_value": ""
   },
   {
@@ -2181,6 +2203,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953372719",
+   "title": "Hand thrown pottery",
+   "price": 14,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-hand-thrown-pottery/ik4281SMdJhQnmScDaghQQ",
+   "best": "eBay",
+   "med": 138,
+   "ratio": 9.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7944220681",
    "title": "Sterling Silver Nacre & Snowflake Obsidian Earrings",
    "price": 40,
@@ -2200,6 +2233,17 @@
    "best": "Hand Carved Black Opal Necklace: Silver925 Dream Catcher ...",
    "med": 97,
    "ratio": 9.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943859512",
+   "title": "Vintage Christmas Pixie Elf",
+   "price": 29,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/olney-vintage-christmas-pixie-elf/fXjnip7ygERc2MjMhxTKX6",
+   "best": "eBay",
+   "med": 275,
+   "ratio": 9.48,
    "ai_value": ""
   },
   {
@@ -2401,6 +2445,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950675617",
+   "title": "Vintage CELTIC Necklace",
+   "price": 12,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/orange-vintage-celtic-necklace/siiKWK2FdACUjZpmq6Yfhr",
+   "best": "Triskelion Necklace Triskele Celtic Pendant Jewelry Gold ...",
+   "med": 100,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7956172009",
    "title": "PEARL AMETHYST STERLING EARRINGS",
    "price": 35,
@@ -2595,6 +2650,17 @@
    "url": "https://www.craigslist.org/view/d/chagrin-falls-ciner-sterling-green/fKW9nq9TSM2CYPxqFHZPzk",
    "best": "Etsy",
    "med": 440,
+   "ratio": 7.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952314217",
+   "title": "Silver necklace and earrings",
+   "price": 30,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/summerland-silver-necklace-and-earrings/j1ZoFQ57Bnnqe865orv7hT",
+   "best": "Etsy",
+   "med": 220,
    "ratio": 7.33,
    "ai_value": ""
   },
@@ -2925,6 +2991,17 @@
    "url": "https://www.craigslist.org/view/d/manchaca-western-figurines/bnMtcddtWgwJZ7Uo6WXNiY",
    "best": "Russ Berrie Ceramic Figure on Base - Cowboy Trails Last ...",
    "med": 90,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937903270",
+   "title": "Vintage brooches and pins . LOOK",
+   "price": 20,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/decatur-vintage-brooches-and-pins-look/hJha4DjTz4pYS6hnDgZXya",
+   "best": "eBay",
+   "med": 120,
    "ratio": 6,
    "ai_value": ""
   },
@@ -3424,6 +3501,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962713514",
+   "title": "Old pawn Native American Turquoise Bracelet",
+   "price": 195,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-old-pawn-native-american/nPvLmnvyVkFUsYTuaF9sGS",
+   "best": "Western Trading Post",
+   "med": 898,
+   "ratio": 4.61,
+   "ai_value": ""
+  },
+  {
    "pid": "7936146514",
    "title": "Vintage FREDERICK REYNOLDS - Straight Razor",
    "price": 25,
@@ -3498,6 +3586,28 @@
    "best": "Fine Art America",
    "med": 450,
    "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971433560",
+   "title": "Antique Vintage Mandolin as is state",
+   "price": 50,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/east-rochester-antique-vintage-mandolin/raHGSsrWWjhG7qob7mUzGB",
+   "best": "House of Musical Traditions",
+   "med": 225,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957589063",
+   "title": "Brighton Maharani Crystal Retired Necklace",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-brighton-maharani-crystal/hgyjM5SWiMtC6NTXidXmtR",
+   "best": "eBay",
+   "med": 223,
+   "ratio": 4.46,
    "ai_value": ""
   },
   {
@@ -3655,6 +3765,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947763562",
+   "title": "Handmade Studio Art Bowl Pottery Glazed Signed",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-handmade-studio-art-bowl/qLUq3R7vuVJeMapXcf6jk3",
+   "best": "Facebook",
+   "med": 106,
+   "ratio": 4.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7949303930",
    "title": "Very old antique Japanese bronze statue soldier",
    "price": 65,
@@ -3751,6 +3872,17 @@
    "best": "Vintage Catholic BROACH lapel Pin Jewelry ST. Anne de ...",
    "med": 41,
    "ratio": 4.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949402790",
+   "title": "ELLE Jewelry 925 Sterling Double 2-Piece LOVE / DITTO Pendant Necklace",
+   "price": 54,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/mequon-elle-jewelry-925-sterling-double/nqzcrdWnrX8bpbrk5qhXfS",
+   "best": "ELLE Sterling Silver \"Stardust\" Pendant Defiance Ohio",
+   "med": 220,
+   "ratio": 4.07,
    "ai_value": ""
   },
   {
@@ -4091,6 +4223,17 @@
    "url": "https://www.craigslist.org/view/d/rockville-1966-ladies-omega-14k-gold/svY3QifNVkC9oQSouJZDiH",
    "best": "eBay",
    "med": 743,
+   "ratio": 3.62,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968450663",
+   "title": "Tribal Necklace Vintage Never Used",
+   "price": 29,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-tribal-necklace-vintage-never/3kEbWaZmBWeh7cAALMfPqa",
+   "best": "Craigslist",
+   "med": 105,
    "ratio": 3.62,
    "ai_value": ""
   },
@@ -4469,6 +4612,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980616389",
+   "title": "Vintage Nautical Clock",
+   "price": 40,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/seal-beach-vintage-nautical-clock/ahVwtWxnHhGf6iGntjieeu",
+   "best": "Craigslist",
+   "med": 125,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7981974675",
    "title": "Sterling silver earrings",
    "price": 45,
@@ -4543,6 +4697,17 @@
    "best": "eBay",
    "med": 77,
    "ratio": 3.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936980049",
+   "title": "Vintage Sterling Silver Pearl Earrings",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-sterling-silver/5mncuyP6DAixzvTBMgTx9x",
+   "best": "Ruby Lane",
+   "med": 92,
+   "ratio": 3.07,
    "ai_value": ""
   },
   {
@@ -4762,6 +4927,17 @@
    "url": "https://www.craigslist.org/view/d/rockford-cobalt-blue-platter/pReneN19bFpBK28zBK1Zxj",
    "best": "eBay",
    "med": 68,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977455643",
+   "title": "Handmade by artist vtg ceramic dish",
+   "price": 30,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-handmade-by-artist-vtg-ceramic/bL2qrw4aQMk9K5HcvseG3d",
+   "best": "Vintage HARRIS - CIES Vintage Pottery Signed & Dated 1992 ...",
+   "med": 85,
    "ratio": 2.83,
    "ai_value": ""
   },
@@ -5136,6 +5312,17 @@
    "url": "https://www.craigslist.org/view/d/quitman-vintage-deauville-tripple/8sLQbrW3SZBN2ELFTBuEbh",
    "best": "Etsy",
    "med": 60,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933936590",
+   "title": "Vintage Pottery-Gonder, Roseville, Hull, McCoy, Bauer,Weller, Shawnee",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-rafael-vintage-pottery-gonder/ebLxWxho4iv1vtV5bpQyex",
+   "best": "Etsy",
+   "med": 50,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -5620,6 +5807,17 @@
    "url": "https://www.craigslist.org/view/d/littleton-1977-boulder-high-school-band/cGAW8ezutXTBwLsUjic8sn",
    "best": "eBay",
    "med": 22,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948692030",
+   "title": "Vintage jewelry",
+   "price": 125,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/hollywood-vintage-jewelry/1xUPVPhBdAPZ4mRJSoXvKX",
+   "best": "Stunning Vtg Sterling Rhinestone Some Gold Bakelite Glass+ ...",
+   "med": 275,
    "ratio": 2.2,
    "ai_value": ""
   },
@@ -6412,6 +6610,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-vintage-exclusively-for-avon/bCPa8jq4YkdV9bEU15xU94",
    "best": "eBay",
    "med": 27,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946488202",
+   "title": "Vintage Enterprise Spock Kirk Bronze Medallion",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-vintage-enterprise-spock/7M5k4KxLGiBTM1rscPwKKN",
+   "best": "Star Trek Medallion | eBay",
+   "med": 90,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -7373,6 +7582,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972373997",
+   "title": "Sterling Silver Heart Pendant",
+   "price": 89,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/grandview-sterling-silver-heart-pendant/fdoqUTA6EvchrASpDMrxK5",
+   "best": "eBay",
+   "med": 131,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7943191919",
    "title": "Sterling Silver Beaded 20\u201d Necklace",
    "price": 35,
@@ -8040,6 +8260,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-necklace-earrings-set-vintage/cXCH4LxqrXkQK6bEuenydX",
    "best": "Etsy",
    "med": 49,
+   "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937824680",
+   "title": "Elgin Garfield Gold Antique Wristwatch Year-1954",
+   "price": 285,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/salem-elgin-garfield-gold-antique/eNoYBjQRzXTb8ScUe32BeJ",
+   "best": "Watch Works",
+   "med": 350,
    "ratio": 1.23,
    "ai_value": ""
   },
@@ -8913,6 +9144,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980194895",
+   "title": "Classic Women's Watch",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/peoria-classic-womens-watch/byZBsLx4kT9LVyAkvzgahm",
+   "best": "Ellen Tracy Women's Gold-Tone Quartz Analog Cushion Case ...",
+   "med": 30,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -9305,6 +9547,17 @@
    "url": "https://www.craigslist.org/view/d/charleston-afb-vintage-pottery-bowl/fx66mGGnkPdfqbrurEsP2E",
    "best": "romaarellano",
    "med": 88,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965291408",
+   "title": "Glass bell collection",
+   "price": 40,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/colville-glass-bell-collection/ayuUECnzaUtZXJ21DyDHae",
+   "best": "Craigslist",
+   "med": 35,
    "ratio": 0.88,
    "ai_value": ""
   },
@@ -11231,6 +11484,17 @@
    "best": "Mutual Art",
    "med": 100,
    "ratio": 0.22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949341870",
+   "title": "Unique pendant & sterling silver chain",
+   "price": 80,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-unique-pendant-sterling-silver/oWJT6xFvu5Zgrdh8SV6TH5",
+   "best": "Alberta Necklace, Alberta Jewelry, Alberta Gift, Alberta ...",
+   "med": 17,
+   "ratio": 0.21,
    "ai_value": ""
   },
   {
