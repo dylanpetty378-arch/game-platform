@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:43:49Z",
+ "updated": "2026-10-14T22:47:20Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9749,
-  "events": 33365,
+  "lens": 9774,
+  "events": 33390,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 484,
+  "queued/relens": 485,
   "decided/ask": 85,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 303,
-  "flagged": 1323,
-  "lensed": 439
+  "queued": 278,
+  "flagged": 1342,
+  "lensed": 444
  },
  "last_harvests": [
   {
@@ -1924,6 +1924,17 @@
    "url": "https://www.craigslist.org/view/d/santa-fe-vintage-art-deco-style-metal/f337LaH4Vc9RZeb44m1JSq",
    "best": "Bronze Mermaid on Moon Figurine: Elegant Fairy Sculpture - Etsy",
    "med": 775,
+   "ratio": 15.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965668142",
+   "title": "Fashion Gold Twist Necklace",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-gold-twist-necklace/uDm7aHyhZoNwTiDidSbH1g",
+   "best": "Etsy",
+   "med": 465,
    "ratio": 15.5,
    "ai_value": ""
   },
@@ -4788,6 +4799,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939072352",
+   "title": "Beautiful vintage Oil Painting with gold frame",
+   "price": 250,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-beautiful-vintage-oil/fF9EvikxvHKeTQ4761WKyF",
+   "best": "Etsy",
+   "med": 975,
+   "ratio": 3.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7961334891",
    "title": "Faye Freedman Signed 1960s",
    "price": 80,
@@ -4909,6 +4931,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957375931",
+   "title": "Polk-A-Lay-Lee Vintage Polk Brothers Instrument",
+   "price": 150,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/wheaton-polk-lay-lee-vintage-polk/sw3pBVrHGgzGdmzXcNs9EK",
+   "best": "Invaluable.com",
+   "med": 560,
+   "ratio": 3.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7951809965",
    "title": "Raymond Weil Tango Watch",
    "price": 175,
@@ -4926,6 +4959,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/jericho-necklace-beads-stones-60-length/wTgbXzabG3ruW1TrAECUCW",
    "best": "Three Strand Green Glass Bead Necklace (A5) | eBay",
+   "med": 130,
+   "ratio": 3.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949004662",
+   "title": "VINTAGE FRENCH PRINT",
+   "price": 35,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-vintage-french-print/8PMC3D39yGt3QnkLyfVdty",
+   "best": "Rives du Rhin (Banks of the Rhine) by Jan Brueghel the Elder ...",
    "med": 130,
    "ratio": 3.71,
    "ai_value": ""
@@ -5052,6 +5096,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948975942",
+   "title": "WALL HANGINGS ARTWORKS   SIGNED OIL LANDSCAPE",
+   "price": 55,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-wall-hangings-artworks-signed/cxbGuYf6nfhaaV4YyyaurH",
+   "best": "</Image Grid>",
+   "med": 193,
+   "ratio": 3.51,
+   "ai_value": ""
+  },
+  {
    "pid": "7983202050",
    "title": "Vintage Classical Guitar",
    "price": 100,
@@ -5162,6 +5217,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954877341",
+   "title": "Collection of Vintage Glass Mason Jars-Priced Individually",
+   "price": 7,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/penryn-collection-of-vintage-glass/o3KiPTy579NeYquyh2p8aZ",
+   "best": "One Vintage IMPERFECT Midland Mason Clear Quart Sized Jar ...",
+   "med": 24,
+   "ratio": 3.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7983134007",
    "title": "James Estate",
    "price": 50,
@@ -5247,6 +5313,17 @@
    "best": "Craigslist",
    "med": 100,
    "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954961733",
+   "title": "Vintage LONGINES Golf Dial Sub Seconds Men's Wristwatch",
+   "price": 299,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-vintage-longines-golf-dial-sub/8b53Lcz7qCdJaatjai2h1o",
+   "best": "C.1956 Vintage Longines Calatrava waffle dial watch ref ...",
+   "med": 992,
+   "ratio": 3.32,
    "ai_value": ""
   },
   {
@@ -5477,6 +5554,17 @@
    "url": "https://www.craigslist.org/view/d/scottsdale-14k-gold-dainty-diamond/cxTAwvZYj3NNJagAa1S2kY",
    "best": "Stunning 1/3ct Round Brilliant Diamond Pendant 14K Box 18 ...",
    "med": 625,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929876655",
+   "title": "HOOP STUD 14K YELLOW GOLD EARRINGS",
+   "price": 239,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-hoop-stud-14k-yellow-gold/5bjPrreRrGJXzjtpSAF1uD",
+   "best": "Etsy",
+   "med": 747,
    "ratio": 3.13,
    "ai_value": ""
   },
@@ -6313,6 +6401,17 @@
    "url": "https://www.craigslist.org/view/d/kew-gardens-ladies-custome-choker-needs/nXcCqFo9fMVwx3H9p1quV4",
    "best": "Craigslist",
    "med": 38,
+   "ratio": 2.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949341903",
+   "title": "Sterling Silver 925 Greek Key Bangle Bracelet",
+   "price": 58,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-sterling-silver-925-greek-key/86NCPowEiCXRkES4nEmZVV",
+   "best": "Etsy",
+   "med": 147,
    "ratio": 2.53,
    "ai_value": ""
   },
@@ -7912,6 +8011,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945263965",
+   "title": "Vintage Pendant Mostly Blue Colors, Sparkly Stones, Costume Jewelry",
+   "price": 19,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-pendant-mostly-blue/eWHc1TAbfbC3kNADwMDJgj",
+   "best": "2 pendentifs m\u00e9daillon le 1er fleurs \u00e9maill\u00e9es \u00e9maill\u00e9es, le ...",
+   "med": 35,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7948591225",
    "title": "Sterling Silver & Rhodonite Brooch",
    "price": 35,
@@ -8084,6 +8194,17 @@
    "url": "https://www.craigslist.org/view/d/van-nuys-zsolnay-hand-painted-vase/kTzwizPVNCgrFi2fHCq5Hv",
    "best": "Vintage Zsolnay Hungary Porcelain Vase Hand Painted Floral ...",
    "med": 99,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945408936",
+   "title": "Unique Sterling Silver Ring",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/laurel-unique-sterling-silver-ring/qHmaw7aEWcNLXkvUTHfj7G",
+   "best": "Craigslist",
+   "med": 36,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -9140,6 +9261,28 @@
    "url": "https://www.craigslist.org/view/d/peoria-antique-sugar-bowl/qd6ieA7UTysrFSbcc2hQib",
    "best": "eBay",
    "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966068276",
+   "title": "Gray Druzy Banded Agate Pendant",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-gray-druzy-banded-agate/tifz3YT5rtGJdkgWJ9v2Qt",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971962313",
+   "title": "Necklaces",
+   "price": 50,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cohoes-necklaces/bNdetc5xxHdCasJszDezi9",
+   "best": "Lot of 4 Natural Stone Heart, Cross Pendant Silver 16 ...",
+   "med": 75,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -10288,6 +10431,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943762512",
+   "title": "Sterling Silver Size 10",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-sterling-silver-size-10/69gMgXbu26EzL5PTcmesgs",
+   "best": "Wilson Brothers Jewelry",
+   "med": 59,
+   "ratio": 1.18,
+   "ai_value": ""
+  },
+  {
    "pid": "7956250971",
    "title": "ETAH Love The Emperor ring",
    "price": 60,
@@ -10383,6 +10537,17 @@
    "url": "https://www.craigslist.org/view/d/bay-village-vintage-baby-head-vase/e7aEnFD8oKuJe9TEiZjumo",
    "best": "Baby Head Relpo Vase From Japan, Numbered K1860 Vintage - Etsy",
    "med": 46,
+   "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960841199",
+   "title": "Vintage Navajo sterling silver pendant with mother of pearl",
+   "price": 65,
+   "area": "bham",
+   "url": "https://www.craigslist.org/view/d/morris-vintage-navajo-sterling-silver/5A7oznmF77Heu2cucqaNfe",
+   "best": "Craigslist",
+   "med": 75,
    "ratio": 1.15,
    "ai_value": ""
   },
@@ -10756,6 +10921,17 @@
    "area": "fingerlakes",
    "url": "https://www.craigslist.org/view/d/canandaigua-assortment-of-stenciling/f9cBBubKqguMTWH3HH7kGp",
    "best": "Stencils-Vinyl-Rub Ons-Transfers-Stickers-Etch-Cling-Iron On ...",
+   "med": 16,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981327722",
+   "title": "Old Catholic Miraculous Medal Italy Pendant Virgin Mary Metal Ball Chain Necklac",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-old-catholic-miraculous-medal/k2EvasNpQ9bEy8RAgRq1EX",
+   "best": "eBay",
    "med": 16,
    "ratio": 1.07,
    "ai_value": ""
@@ -12070,6 +12246,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949312567",
+   "title": "Tennis bracelet",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-tennis-bracelet/vvxY3WjtR6o1Fv35Ntmeu2",
+   "best": "Poshmark",
+   "med": 78,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7983183432",
    "title": "Reduced! Vintage Natural London Blue Topaz & Diamond 14K Gold Ring",
    "price": 485,
@@ -12660,6 +12847,17 @@
    "url": "https://www.craigslist.org/view/d/elk-grove-vintage-precious-moments-bells/vnEd6f9iEhMVgeaZXhoXJS",
    "best": "Enesco Jonathan & David bell E-7179 The Lord Bless You and ...",
    "med": 16,
+   "ratio": 0.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973198496",
+   "title": "Vintage Lorus Disney Mickey Mouse Quartz Watch -$50 OBO",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/federal-way-vintage-lorus-disney-mickey/naGznp8CRccjf7phSRp42J",
+   "best": "Unworn 1987 Mickey Mouse Lorus Seiko Divers 100m Character ...",
+   "med": 32,
    "ratio": 0.64,
    "ai_value": ""
   },
@@ -14332,6 +14530,17 @@
    "url": "https://www.craigslist.org/view/d/jacksonville-heart-shape-earrings-make/vskNmiUx4qSWYwwsNdB9td",
    "best": "10Kt Yellow Gold Leverback Dangle/Drop Heart Shaped Earrings ...",
    "med": 40,
+   "ratio": 0.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983576240",
+   "title": "Lot of 8 Vintage VOGUE hat fascinator sewing patterns 1930s 1940s 1950",
+   "price": 175,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/roswell-lot-of-vintage-vogue-hat/bbvF6CEwrN6XHoXvawLjvb",
+   "best": "Vintage 40s Vogue 7464 Hats Millinery Fascinator UNCUT ...",
+   "med": 15,
    "ratio": 0.09,
    "ai_value": ""
   },
