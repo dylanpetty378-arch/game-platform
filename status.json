@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:49:46Z",
+ "updated": "2026-10-14T07:53:23Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8424,
-  "events": 30438,
+  "lens": 8449,
+  "events": 30463,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 320,
+  "queued/relens": 322,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 28,
-  "flagged": 438,
-  "lensed": 164
+  "queued": 3,
+  "flagged": 458,
+  "lensed": 167
  },
  "last_harvests": [
   {
@@ -441,6 +441,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953135437",
+   "title": "ART MASTERPIECES",
+   "price": 25,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/boynton-beach-art-masterpieces/qYsWz9d2DR2UxYHXcY6cgF",
+   "best": "Sold at Auction: Bill Gallen, Bill Gallen | The Red Mountain",
+   "med": 3500,
+   "ratio": 140,
+   "ai_value": ""
+  },
+  {
    "pid": "7955365058",
    "title": "Costume jewelry",
    "price": 15,
@@ -584,6 +595,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949999524",
+   "title": "Ear Studs Turquoise- Vintage",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-ear-studs-turquoise-vintage/fGxXt8akY3E3RTbWPmYsRT",
+   "best": "eBay",
+   "med": 620,
+   "ratio": 20.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7977948921",
    "title": "Handmade necklaces",
    "price": 1,
@@ -603,6 +625,17 @@
    "best": "eBay",
    "med": 400,
    "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948190890",
+   "title": "Very beautiful of reprint of flower picture. Size: 30.5\" x 30.5\".",
+   "price": 20,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/plano-very-beautiful-of-reprint-of/pP6wx9xSFAStEMqHdGaYcd",
+   "best": "Victoria Bella 24AB17/C Framed Painting Art 24\" x 30\" Print ...",
+   "med": 399,
+   "ratio": 19.95,
    "ai_value": ""
   },
   {
@@ -669,6 +702,17 @@
    "best": "VINTAGE CREAMER & SUGAR BOWL W/ LID GERMANY L3 ...",
    "med": 105,
    "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954381637",
+   "title": "2 antique handmade boxes",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-antique-handmade-boxes/mPeaPswMX2jo8fXEfHNopK",
+   "best": "Anticstore",
+   "med": 1475,
+   "ratio": 14.75,
    "ai_value": ""
   },
   {
@@ -771,6 +815,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977588606",
+   "title": "Collection of  34  Medals 1964 - 1968",
+   "price": 5,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-collection-of-34-medals/1uV1NHBqjNPJGcCRDy37qG",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 12,
+   "ai_value": ""
+  },
+  {
    "pid": "7942937814",
    "title": "Bracelets",
    "price": 15,
@@ -793,6 +848,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965917430",
+   "title": "Vintage woman/baby 13\u201d figurine",
+   "price": 40,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/pennington-vintage-woman-baby-13/3REfbmYNY7ykd8zdptCE9H",
+   "best": "MutualArt",
+   "med": 410,
+   "ratio": 10.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7961743800",
    "title": "Antique Oil painting",
    "price": 80,
@@ -812,6 +878,17 @@
    "best": "Vintage Framed \"Jackrabbit\" Woodcut Edition 184 Signed by ...",
    "med": 800,
    "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944220681",
+   "title": "Sterling Silver Nacre & Snowflake Obsidian Earrings",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-nacre/fGC9D89VvC7morbnYw4MPK",
+   "best": "Archway Gallery",
+   "med": 389,
+   "ratio": 9.72,
    "ai_value": ""
   },
   {
@@ -870,6 +947,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939412262",
+   "title": "Handcrafted Ceramic Decorative Studio Pottery Mug",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-handcrafted-ceramic/3Xw6KkLLwnNyb3k1hXbr65",
+   "best": "Replacements, Ltd.",
+   "med": 125,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7956172009",
    "title": "PEARL AMETHYST STERLING EARRINGS",
    "price": 35,
@@ -900,6 +988,17 @@
    "best": "Vintage M Scott Signed Oil Painting Morning Mist 3D Textured ...",
    "med": 232,
    "ratio": 7.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957624211",
+   "title": "Vintage Limoges 10\" Porcelain Plate",
+   "price": 35,
+   "area": "corvallis",
+   "url": "https://www.craigslist.org/view/d/corvallis-vintage-limoges-10-porcelain/3F3i3J4LYXbE6EcFCAUpin",
+   "best": "Nextdoor",
+   "med": 269,
+   "ratio": 7.69,
    "ai_value": ""
   },
   {
@@ -991,6 +1090,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938167228",
+   "title": "Star pendant",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-star-pendant/qsBenpUYXzDTNkkxnT9pJe",
+   "best": "Gold Plated Star Pendant, Moissanite Star Celestial Charm ...",
+   "med": 124,
+   "ratio": 6.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135555",
    "title": "NEW 14K Gold Ruby and Diamond Ring",
    "price": 190,
@@ -1032,6 +1142,17 @@
    "best": "Lot - Vintage c. 1940's Boy Scouts of America Ulster Jack ...",
    "med": 90,
    "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946810571",
+   "title": "Diamond silver man\u2019s ring",
+   "price": 150,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-diamond-silver-mans-ring/eYTzRabLbaA9vFAyY8UVav",
+   "best": "eBay",
+   "med": 873,
+   "ratio": 5.82,
    "ai_value": ""
   },
   {
@@ -1570,6 +1691,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-sterling-silver/8H28E6ycL4xMHtBL4r4Yri",
    "best": "eBay",
    "med": 540,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979706075",
+   "title": "Vintage Handmade Macrame Bracelet",
+   "price": 5,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/apex-vintage-handmade-macrame-bracelet/dPiQmEtQXAM3JFzpUMHsMT",
+   "best": "Craigslist",
+   "med": 18,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -3323,6 +3455,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962392178",
+   "title": "Vintage Ceramic Beer Stein-W Germany PRICE DROP!",
+   "price": 25,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-ceramic-beer-stein/i1CKUmMQLsj57HTh2BjGZS",
+   "best": "Etsy",
+   "med": 35,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7965370614",
    "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
    "price": 18,
@@ -3510,6 +3653,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966495389",
+   "title": "/// \ud83d\udc8d VTG COPPER CURB CHAIN BRACELET & RING COLLECTION \ud83d\udc8d \\\\\\",
+   "price": 20,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/rocklin-vtg-copper-curb-chain-bracelet/2L6hhUGUvvqou29Y3amNzz",
+   "best": "Copper Jewelry Lot MCM Mod cuff bracelets earrings brooch ...",
+   "med": 25,
+   "ratio": 1.25,
+   "ai_value": "Sold at Auction: Group of Copper Costume Jewelry Rings Out of stock $2,680"
+  },
+  {
    "pid": "7943192526",
    "title": "Sterling Silver & Turquoise Size 7 1/4 Ring",
    "price": 35,
@@ -3671,6 +3825,17 @@
    "url": "https://www.craigslist.org/view/d/boise-24-lion-head-pendant-necklace-and/teQoRCH6eAMrdLrtqRVGbc",
    "best": "Lion Necklace | Lion Pendant Necklace | eBay",
    "med": 17,
+   "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945432091",
+   "title": "Artisan made sterling silver turquoise ring size 5",
+   "price": 175,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-artisan-made-sterling-silver/x8ydH5vxMd7hcVr6vX2k8d",
+   "best": "eBay",
+   "med": 197,
    "ratio": 1.13,
    "ai_value": ""
   },
@@ -3972,6 +4137,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961177406",
+   "title": "Vintage Signed Monet Silver Tone Heart Brooch Pin",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-signed-monet-silver/cNqsygySvKcMaR4nJCYxm3",
+   "best": "eBay",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -4214,6 +4390,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932012126",
+   "title": "Navajo Sterling Silver Turquoise Coral & Mop Size 5 3/4 Ring",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-sterling-silver/b7pGhBt8tsHmmzZdV6W4Kv",
+   "best": "Etsy",
+   "med": 64,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7931818139",
    "title": "Vintage Anne Klein Jewelry",
    "price": 200,
@@ -4309,6 +4496,17 @@
    "url": "https://www.craigslist.org/view/d/forest-lake-vintage-1900-george/g2VaL1M9t46tXcW57CLQso",
    "best": "Etsy",
    "med": 65,
+   "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946878552",
+   "title": "Vintage 1950s Italian Jumping Deer Decanter",
+   "price": 25,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/west-babylon-vintage-1950s-italian/e53pLY1Y3JZKKkcZc7tuU5",
+   "best": "Vintage Biscoff Cherry Deer/Fawn Decanter, Hand Painted in ...",
+   "med": 19,
    "ratio": 0.76,
    "ai_value": ""
   },
@@ -4907,6 +5105,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945694386",
+   "title": "Antique Air Force  Logo circa 1947",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-antique-air-force-logo-circa/61TQSVZFLpKpyyAPSHXey9",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7947692482",
    "title": "WALTHAM 25 Self Winding Watch",
    "price": 320,
@@ -5232,6 +5441,17 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/irvine-headband-bejeweled-kundan-indian/9KH9xsNgXfWzFgVtieMp79",
    "best": "Buy Gold Beads Kundan Shell Pearl Floral Headband by Paisley ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977056163",
+   "title": "Vintage Girl Scout knife",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/everett-vintage-girl-scout-knife/2mVjTLkyYB2nzN4Aknf9az",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
