@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:16:00Z",
+ "updated": "2026-10-14T07:19:17Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8199,
-  "events": 30213,
+  "lens": 8224,
+  "events": 30238,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 256,
+  "queued/relens": 266,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 253,
-  "flagged": 345,
-  "lensed": 96
+  "queued": 228,
+  "flagged": 358,
+  "lensed": 98
  },
  "last_harvests": [
   {
@@ -647,6 +647,17 @@
    "best": "Gem",
    "med": 677,
    "ratio": 13.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976769864",
+   "title": "Vintage Coca-Cola Bottles \u2013 Set of 8 ($10 Each / $40 for All)",
+   "price": 10,
+   "area": "bozeman",
+   "url": "https://www.craigslist.org/view/d/bozeman-vintage-coca-cola-bottles-set/rRZZp7Js35fc84NawxXQ34",
+   "best": "Craigslist",
+   "med": 130,
+   "ratio": 13,
    "ai_value": ""
   },
   {
@@ -1695,6 +1706,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977092829",
+   "title": "Juicy Couture Ring, Size 7 or 8",
+   "price": 50,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/templeton-juicy-couture-ring-size-or/jWQYkRswiKRz28N72UQ7tG",
+   "best": "Etsy",
+   "med": 120,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7933261660",
    "title": "Sterling silver and turquoise necklaces",
    "price": 75,
@@ -1747,6 +1769,17 @@
    "best": "Fancy Green/Blue & Gold Glass Beaded Bracelet & Earrings Set ...",
    "med": 35,
    "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950186310",
+   "title": "Vintage Cloisonn\u00e9/ Chinese Enamel",
+   "price": 125,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/madison-vintage-cloisonn-chinese-enamel/gHPJcJ8ULk1zYyZs43437p",
+   "best": "eBay",
+   "med": 290,
+   "ratio": 2.32,
    "ai_value": ""
   },
   {
@@ -1934,6 +1967,17 @@
    "best": "Hallmark | Holiday | Hallmark Harry Potter Mini Ornaments ...",
    "med": 24,
    "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950793987",
+   "title": "Sterling Silver & turquoise bracelet - New 8\"",
+   "price": 165,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-turquoise/6uzcdSk45vqnt7oRB49jMh",
+   "best": "eBay",
+   "med": 329,
+   "ratio": 1.99,
    "ai_value": ""
   },
   {
@@ -2179,6 +2223,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959262986",
+   "title": "Lady golfer",
+   "price": 50,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-lady-golfer/4eZ5bpY6z89xLzNAntmTnh",
+   "best": "AUSTIN SCULPTURE Lady Golfer Golf Outing By Heath 15 in H | eBay",
+   "med": 84,
+   "ratio": 1.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7933078547",
    "title": "Vintage rensie ladies working wristwatch,1940s-1950s,wind up.",
    "price": 30,
@@ -2377,6 +2432,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974613362",
+   "title": "Andre Bardet  Lithograph",
+   "price": 120,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-andre-bardet-lithograph/hf2av2Xce13cAS2etEmkb5",
+   "best": "Invaluable.com",
+   "med": 185,
+   "ratio": 1.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7951372734",
    "title": "Antique Silver Jewelry Tribal Indian India  Asian",
    "price": 99,
@@ -2384,6 +2450,17 @@
    "url": "https://www.craigslist.org/view/d/miramonte-antique-silver-jewelry-tribal/n2XbQapcAaMpwEtZJYLYPq",
    "best": "Chairish",
    "med": 150,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943911854",
+   "title": "Antique Statues",
+   "price": 65,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-antique-statues/cqqoRrJWXxATmjs55GDB4D",
+   "best": "eBay",
+   "med": 99,
    "ratio": 1.52,
    "ai_value": ""
   },
@@ -3077,6 +3154,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-discreet-jewelry-by-ankletme/8rEEJEBGMdBnWnxTJeGhsm",
    "best": "Ankletme",
    "med": 48,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948092598",
+   "title": "Sterling Silver & Amber Size 9 Ring",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-amber/eRxuxqqfAPfoMWJMiAAwZf",
+   "best": "Etsy",
+   "med": 80,
    "ratio": 1.07,
    "ai_value": ""
   },
@@ -4016,6 +4104,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950585492",
+   "title": "Vintage handcrafted jewelry music box",
+   "price": 195,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/ahwahnee-vintage-handcrafted-jewelry/mStRmrgGWvNcFhazUEDDej",
+   "best": "Etsy",
+   "med": 59,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7983165459",
    "title": "Great Football Card Lot",
    "price": 75,
@@ -4035,6 +4134,17 @@
    "best": "Etsy",
    "med": 27,
    "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948568420",
+   "title": "Vintage Charles Albert Sterling, Blue & Clear Topaz w/Imperial Jasper",
+   "price": 180,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-charles-albert/3LbnEhZvkjpdif1LL97uQK",
+   "best": "Etsy",
+   "med": 47,
+   "ratio": 0.26,
    "ai_value": ""
   },
   {
@@ -4079,6 +4189,28 @@
    "best": "eBay",
    "med": 2,
    "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983136965",
+   "title": "James Estate",
+   "price": 50,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orange-city-james-estate/qgtFJ8HsScAScRpKDuWxuv",
+   "best": "OfferUp",
+   "med": 10,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933424756",
+   "title": "Sterling Silver Ecclissi Art Deco Cuff 7 1/2\u201d Watch",
+   "price": 175,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-ecclissi/qRinfxERW8LKfeRJNsx58b",
+   "best": "Etsy",
+   "med": 33,
+   "ratio": 0.19,
    "ai_value": ""
   },
   {
@@ -4209,6 +4341,17 @@
    "area": "lascruces",
    "url": "https://www.craigslist.org/view/d/las-cruces-browning-pocket-knife/3TePAo9dukCHCoEXficb8F",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951809511",
+   "title": "Sterling Silver Butterfly Ring Size 10 w/Mystic Topaz & Cubic Zirconia",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-butterfly/rn3dWzaPGS9cYUfUZybDK3",
+   "best": "Elegant Silver Design Women's Ring, Inlaid With Sparkling ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
