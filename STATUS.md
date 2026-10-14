@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T21:49:44Z
+# Refurbish status — 2026-10-14T21:53:28Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1082 |
-| queued | 628 |
+| flagged | 1104 |
+| queued | 603 |
 | queued/relens | 479 |
-| lensed | 360 |
+| lensed | 363 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 11
 - searches: 2614
 - listings: 11383
-- lens: 9424
-- events: 33039
+- lens: 9449
+- events: 33064
 - comps: 2358
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1082)
+## Flagged by Lens, waiting for photo review (1104)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -201,6 +201,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00T0T_eLbgJcDHKQK_0t20CI_300x300.jpg" width="120"> | 7948667406 | $20 | seattle | [Handmade ceramic vase](https://www.craigslist.org/view/d/renton-handmade-ceramic-vase/2Hp5WJ57GMNVU5ZDfGoVEN) | Antique French Confit or Olive Pot Yellow Glazed Terracotta  | 650 | 32.5 |
 | <img src="https://images.craigslist.org/01111_XC0S5oP5UE_0t20CI_300x300.jpg" width="120"> | 7934249959 | $100 | albuquerque | [Vintage Pendulum clock](https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/61iy3ZbeHn1D7Pu1W7xvKv) | vintage Bond Street London gold tone framed Hanging clock .. | 3200 | 32 |
 | <img src="https://images.craigslist.org/00404_aAEeiWHRkNM_0sz0nZ_300x300.jpg" width="120"> | 7944806418 | $25 | rochester | [Vintage Monet 1.5" Turtle Brooch](https://www.craigslist.org/view/d/rochester-vintage-monet-15-turtle-brooch/bQxeL8LurwJVV1MaD4Dq96) | Vintage fanny turtle gold - Gem | 798 | 31.92 |
+| <img src="https://images.craigslist.org/00d0d_b7fWKD2QVX0_0CI0t2_300x300.jpg" width="120"> | 7940935310 | $75 | sarasota | [Bracelet with green stones](https://www.craigslist.org/view/d/tallevast-bracelet-with-green-stones/2YTGLVB5bvstRHttocQmf7) | Etsy | 2375 | 31.67 |
 | <img src="https://images.craigslist.org/00Q0Q_81Zj13gz68a_0cO0dR_300x300.jpg" width="120"> | 7953306808 | $75 | newyork | [Beautiful antique cast bronze vase. Made by Muraka](https://www.craigslist.org/view/d/new-york-beautiful-antique-cast-bronze/7BGTFH677MZESeYvTsWkHp) | Japanese Patinated Bronze Vases: Elephant Handles, Dragons . | 2297 | 30.63 |
 | <img src="https://images.craigslist.org/00C0C_5izBLVEoXEu_0a00dl_300x300.jpg" width="120"> | 7956132143 | $25 | baltimore | [Cistoporic Tetradrachm](https://www.craigslist.org/view/d/conowingo-cistoporic-tetradrachm/7vpiAqQQUmKVZeLk2UUUre) | Etsy | 765 | 30.6 |
 | <img src="https://images.craigslist.org/00m0m_MABmqb5DQV_0pO0jm_300x300.jpg" width="120"> | 7983315735 | $35 | seattle | [Antique Silver Metal Flower Vase Chalice](https://www.craigslist.org/view/d/bremerton-antique-silver-metal-flower/cGPPZpr7Td7KwtBN77Mc4i) | Silver Vase Quadruple Plate, Wilcox Silver Plate Co. Meriden | 1063 | 30.37 |
@@ -219,6 +220,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00S0S_eJyk3wf4G1e_0t20CI_300x300.jpg" width="120"> | 7954561925 | $199 | pittsburgh | [SILVER CONCHO Vintage BRACELET](https://www.craigslist.org/view/d/strabane-silver-concho-vintage-bracelet/fB6SuhidynEDyVgrWEfPDG) | eBay | 4500 | 22.61 |
 | <img src="https://images.craigslist.org/00I0I_iLbycuGKHjG_0CI0rf_300x300.jpg" width="120"> | 7952347705 | $10 | yakima | [Vintage Clip-on & Screw-back Earrings   Lot #1](https://www.craigslist.org/view/d/roslyn-vintage-clip-on-screw-back/cGqNFKGvfkbBbcCQEYJRgd) | 18 Vintage Pairs of Earrings (A4347) - Etsy | 225 | 22.5 |
 | <img src="https://images.craigslist.org/00t0t_3sA9ADGGfSu_0CI0t2_300x300.jpg" width="120"> | 7978092384 | $44 | losangeles | [BARBARA A. WOOD](https://www.craigslist.org/view/d/monrovia-barbara-wood/88MQojTNBmkzsqg2c3Usgy) | Barbara A. Wood Original "THE FAN" Signed Print Lithograph . | 950 | 21.59 |
+| <img src="https://images.craigslist.org/00909_c0uiUa2oVJW_0t20CI_300x300.jpg" width="120"> | 7931510232 | $75 | monterey | [Jewelry](https://www.craigslist.org/view/d/salinas-jewelry/xoEVkQ7QTdfnNMiwai65sz) | Long Pearl Necklace 9ct Gold Floral Sapphire Clasp 25 ... | 1608 | 21.44 |
 | <img src="https://images.craigslist.org/00y0y_aVxcXnuXfUD_0t20CI_300x300.jpg" width="120"> | 7983382749 | $375 | losangeles | [Vintage Mido Multifort Super Automatic Watch](https://www.craigslist.org/view/d/los-angeles-vintage-mido-multifort/bnzwAT8WY2Kkn5eDjT9iwk) | Etsy | 7980 | 21.28 |
 | <img src="https://images.craigslist.org/00707_bHARK6XpQPW_0t20CI_300x300.jpg" width="120"> | 7958666490 | $20 | lexington | [Pearl Shell VASES](https://www.craigslist.org/view/d/lexington-pearl-shell-vases/wUdaXHhUmGGFpBM6nLwDbE) | Craigslist | 418 | 20.9 |
 | <img src="https://images.craigslist.org/00o0o_krD1eoKQhXI_0kI0fx_300x300.jpg" width="120"> | 7949999524 | $30 | sfbay | [Ear Studs Turquoise- Vintage](https://www.craigslist.org/view/d/san-jose-ear-studs-turquoise-vintage/fGxXt8akY3E3RTbWPmYsRT) | eBay | 620 | 20.67 |
@@ -262,5 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00q0q_hzRjMnZAefa_0ec0t2_300x300.jpg" width="120"> | 7967791632 | $35 | phoenix | [Sterling Silver & Cubic Zirconia 18” Necklace](https://www.craigslist.org/view/d/sun-city-sterling-silver-cubic-zirconia/3EknirWqg5CVC3hUoMPGLG) | Amazon.com | 500 | 14.29 |
 | <img src="https://images.craigslist.org/00G0G_6bl4MlxzaO_0t20CI_300x300.jpg" width="120"> | 7937734975 | $35 | newyork | [Older choker](https://www.craigslist.org/view/d/howard-beach-older-choker/w7CHZi1P5CH3whXDHScLr4) | Vintage Native American Hopi 925 Sterling Silver Bib Choker  | 500 | 14.29 |
 | <img src="https://images.craigslist.org/00P0P_1xt7tZtO3IW_0lM0t2_300x300.jpg" width="120"> | 7965183150 | $80 | washingtondc | [Color Lithograph 1960s](https://www.craigslist.org/view/d/washington-color-lithograph-1960s/o235fH841vJyQrDsEAsAgs) | Fay Friedman Call Me Madam Mid Century Block Print Ink ... | 1140 | 14.25 |
-| <img src="https://images.craigslist.org/00505_5m5rtI96v69_08Q05Z_300x300.jpg" width="120"> | 7951742668 | $99 | orangecounty | [Sterling Silver and Contemporary Ethnic Jewelry](https://www.craigslist.org/view/d/newport-beach-sterling-silver-and/rPxvvS9ATqEGdsM164SjBs) | eBay | 1395 | 14.09 |
-| <img src="https://images.craigslist.org/00h0h_tS5nm8Sg6r_0AG0MU_300x300.jpg" width="120"> | 7949206185 | $199 | pittsburgh | [LONGINES Vintage Gentleman's WRISTWATCH](https://www.craigslist.org/view/d/strabane-longines-vintage-gentlemans/1b9c4n82ndiyU8hhvTbiSN) | Craigslist | 2801 | 14.08 |

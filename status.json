@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T21:49:44Z",
+ "updated": "2026-10-14T21:53:28Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9424,
-  "events": 33039,
+  "lens": 9449,
+  "events": 33064,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 628,
-  "flagged": 1082,
-  "lensed": 360
+  "queued": 603,
+  "flagged": 1104,
+  "lensed": 363
  },
  "last_harvests": [
   {
@@ -1092,6 +1092,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940935310",
+   "title": "Bracelet with green stones",
+   "price": 75,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/tallevast-bracelet-with-green-stones/2YTGLVB5bvstRHttocQmf7",
+   "best": "Etsy",
+   "med": 2375,
+   "ratio": 31.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7953306808",
    "title": "Beautiful antique cast bronze vase. Made by Murakami, Kyoto, Japan.'",
    "price": 75,
@@ -1287,6 +1298,17 @@
    "best": "Barbara A. Wood Original \"THE FAN\" Signed Print Lithograph ...",
    "med": 950,
    "ratio": 21.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931510232",
+   "title": "Jewelry",
+   "price": 75,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-jewelry/xoEVkQ7QTdfnNMiwai65sz",
+   "best": "Long Pearl Necklace 9ct Gold Floral Sapphire Clasp 25 ...",
+   "med": 1608,
+   "ratio": 21.44,
    "ai_value": ""
   },
   {
@@ -2676,6 +2698,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945313707",
+   "title": "Turtle Collection & Misc.",
+   "price": 5,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/glasser-turtle-collection-misc/bpyjQH5rZwPvGKvjqUZzzJ",
+   "best": "Craigslist",
+   "med": 36,
+   "ratio": 7.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7954934702",
    "title": "Jade carved bracelet",
    "price": 75,
@@ -3003,6 +3036,17 @@
    "best": "eBay",
    "med": 120,
    "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929982117",
+   "title": "Vintage Native American Sterling Turquoise Ring Size 4 3/4",
+   "price": 25,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-vintage-native-american-sterling/uqbcjtyucKtLBcoDfdfD85",
+   "best": "eBay",
+   "med": 149,
+   "ratio": 5.96,
    "ai_value": ""
   },
   {
@@ -5217,6 +5261,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967018196",
+   "title": "14K Gold Bracelet With Repeating rectangular Pattern",
+   "price": 450,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/merritt-island-14k-gold-bracelet-with/btArPstPDQiJ3QeWy8wUzN",
+   "best": "Castafiore",
+   "med": 1158,
+   "ratio": 2.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7950742943",
    "title": "Antique Omani Solid Silver Necklace",
    "price": 450,
@@ -5668,6 +5723,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929710082",
+   "title": "Vintage Vases,",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-vases/dx6zfxKBWgqJ7cABZANNGR",
+   "best": "eBay",
+   "med": 23,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7938207775",
    "title": "Native American Sterling silver ring",
    "price": 35,
@@ -5686,6 +5752,17 @@
    "url": "https://www.craigslist.org/view/d/nipomo-vintage-rice-pearl-and-14k-gold/pi6MU72dKyazmu6UeckQKQ",
    "best": "Vintage 14K Yellow Gold Triple Strand Pearl Bracelet - Etsy",
    "med": 252,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981872783",
+   "title": "Vintage Sterling Silver Pendant Necklace",
+   "price": 35,
+   "area": "santamaria",
+   "url": "https://www.craigslist.org/view/d/santa-maria-vintage-sterling-silver/umSkS8KDB6PcHUo3dyeoq3",
+   "best": "STERLING SILVER BLACK ONYX RECTANGULAR SLIDE ...",
+   "med": 80,
    "ratio": 2.29,
    "ai_value": ""
   },
@@ -5763,6 +5840,17 @@
    "url": "https://www.craigslist.org/view/d/lakewood-antique-trenton-pocket-watch/5LYiXsvikiizokrV84wUYh",
    "best": "Ruby Lane",
    "med": 159,
+   "ratio": 2.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940455039",
+   "title": "4 ladies necklaces",
+   "price": 25,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/apollo-beach-ladies-necklaces/mqStNaBygejnXuZayEnqro",
+   "best": "Craigslist",
+   "med": 56,
    "ratio": 2.24,
    "ai_value": ""
   },
@@ -5877,6 +5965,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948599006",
+   "title": "Landstrom 10K Gold Tie Tack",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/el-verano-landstrom-10k-gold-tie-tack/9K6areLYA8cuCQ5HZEdAmQ",
+   "best": "Craigslist",
+   "med": 163,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949666488",
    "title": "Vintage Navajo Sterling Turquoise &  Coral Chip Inlay Size 4 3/4 Ring",
    "price": 50,
@@ -5895,6 +5994,17 @@
    "url": "https://www.craigslist.org/view/d/ballwin-turquoise-pendant-18kt-gold/eDi2VPgfXZ3JSxMKB4Aarv",
    "best": "Craigslist",
    "med": 88,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930925193",
+   "title": "OLD Knifes",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-old-knifes/v1Jwna21vKNV7FH2zeh5q8",
+   "best": "eBay",
+   "med": 42,
    "ratio": 2.1,
    "ai_value": ""
   },
@@ -5941,6 +6051,17 @@
    "med": 93,
    "ratio": 2.07,
    "ai_value": ""
+  },
+  {
+   "pid": "7937389616",
+   "title": "Silver necklace chain",
+   "price": 75,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-silver-necklace-chain/aYdq2o3KkwMEzpsUGaKtLz",
+   "best": "eBay",
+   "med": 155,
+   "ratio": 2.07,
+   "ai_value": "sell anywhere from $35"
   },
   {
    "pid": "7953044364",
@@ -6383,6 +6504,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946412605",
+   "title": "14k Gold Pendant",
+   "price": 100,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/center-point-14k-gold-pendant/gBVupEVzmGsY2W21oHyk7n",
+   "best": "Etsy",
+   "med": 189,
+   "ratio": 1.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7968965697",
    "title": "New Vintage Barse Sterling Silver & Picture Jasper 17\u201d Necklace",
    "price": 40,
@@ -6625,6 +6757,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955902204",
+   "title": "Men's antique jewelry",
+   "price": 25,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/old-hickory-mens-antique-jewelry/bFEg4F9ND2vASJUXZX3qot",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -6764,6 +6907,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-dillards-cubic-zirconia/8qFTdcKAjewyzgueSEQUeK",
    "best": "eBay",
    "med": 26,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935665988",
+   "title": "Queen Elizabeth Necklace",
+   "price": 55,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-queen-elizabeth-necklace/ai4ZQckU18YkriQNjbrrfc",
+   "best": "Etsy",
+   "med": 95,
    "ratio": 1.73,
    "ai_value": ""
   },
@@ -7467,6 +7621,17 @@
    "area": "boise",
    "url": "https://www.craigslist.org/view/d/boise-bracelets-total/xcKHuFrLnp7vTJ3SRGNaBT",
    "best": "eBay",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973925561",
+   "title": "Vintage Music Box",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/mission-viejo-vintage-music-box/pywbGhi9UEF3a8SfJgrSH8",
+   "best": "Vintage Lefton \"pinkie\" & \"blue Boy\" Figurine Music Box - Etsy",
    "med": 15,
    "ratio": 1.5,
    "ai_value": ""
@@ -8385,6 +8550,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948197429",
+   "title": "two Daichiban\u2014 Okinawan traditional crescent-shaped flask",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/union-city-two-daichiban-okinawan/6f7zTH4a6neZE6n2TFMxeA",
+   "best": "Etsy",
+   "med": 120,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -9151,6 +9327,17 @@
    "url": "https://www.craigslist.org/view/d/peoria-classic-womens-watch/byZBsLx4kT9LVyAkvzgahm",
    "best": "Ellen Tracy Women's Gold-Tone Quartz Analog Cushion Case ...",
    "med": 30,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977749595",
+   "title": "Vintage Gentleman\u2019s Shoe Care Collection",
+   "price": 40,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-gentlemans-shoe-care/jUJb7iB3QeQpgdmoM4mfMo",
+   "best": "Antique Pair of SHOE STRETCHER Wood/Flex Metal Natural ...",
+   "med": 40,
    "ratio": 1,
    "ai_value": ""
   },
@@ -10288,6 +10475,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983486519",
+   "title": "Swank tie pin",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/milpitas-swank-tie-pin/kWGNmm6AufSZ7rCzTxpemi",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7950732303",
    "title": "Sterling Silver Pearl Necklace",
    "price": 70,
@@ -10405,6 +10603,17 @@
    "url": "https://www.craigslist.org/view/d/jessup-oil-painting-vintage-signed-by/77J4vwUX7F8YmcgetC1okt",
    "best": "1stDibs",
    "med": 235,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965503481",
+   "title": "Boulder Opal 2-Piece Pendant",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-boulder-opal-piece-pendant/kZxcyLhtzrHGU7sdMMymsg",
+   "best": "Craigslist",
+   "med": 19,
    "ratio": 0.63,
    "ai_value": ""
   },
@@ -11454,6 +11663,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983373440",
+   "title": "Elgin Watch Dealers Sign Antique",
+   "price": 500,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/williamsburg-elgin-watch-dealers-sign/t7X7bd7s4yLdE8nTQqd9rA",
+   "best": "Ruby Lane",
+   "med": 130,
+   "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7935004452",
    "title": "Vintage Randy Souders Country Grocery Lithograph",
    "price": 80,
@@ -11615,6 +11835,17 @@
    "url": "https://www.craigslist.org/view/d/greensburg-14k-gold-and-genuine-stone/6gRPPRoPPvthkW67Mg1FVY",
    "best": "NEW Silpada Mother of Pearl Sterling Silver Toggle 36 ...",
    "med": 55,
+   "ratio": 0.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968007869",
+   "title": "Antique Solid Gold Clip",
+   "price": 100,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/hamtramck-antique-solid-gold-clip/vnFoWBtgYMJHs8iowAkBsi",
+   "best": "925 Sterling Silver Vintage Shiny Etched Detail Dark Tone ...",
+   "med": 18,
    "ratio": 0.18,
    "ai_value": ""
   },
@@ -12361,6 +12592,17 @@
    "price": 30,
    "area": "santabarbara",
    "url": "https://www.craigslist.org/view/d/summerland-necklace-and-matching/c2C5NSFR3iDueKT8wWo3iy",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952447542",
+   "title": "Jewelry Set",
+   "price": 150,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-jewelry-set/anX94Z91umGY4qpYebYb2v",
    "best": "Craigslist",
    "med": null,
    "ratio": null,
