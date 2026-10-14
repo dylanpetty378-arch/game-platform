@@ -1,5 +1,5 @@
 {
-"made": "2026-10-14T03:46:57Z",
+"made": "2026-10-14T03:52:27Z",
 "files": [
 {
 "path": "db/comps.jsonl",
@@ -7,7 +7,7 @@
 },
 {
 "path": "db/events/2026-10.jsonl",
-"sha": "514aacb572d02269fece00b9ad2a4f64f27beaf6"
+"sha": "33cdbcbdc6295189b498c953229e826b6620b635"
 },
 {
 "path": "db/harvests.jsonl",
@@ -23,7 +23,7 @@
 },
 {
 "path": "db/listings/2026-10.jsonl",
-"sha": "2cefdf657352a3893741f8bbec94f27dd42a1246"
+"sha": "dc655e4681dedbeb96bd405f7deb7455e9244468"
 },
 {
 "path": "db/searches.jsonl",
@@ -2053,7 +2053,7 @@
 },
 {
 "slug": "trade-violins",
-"sha": "5e470bcfa96c5086566ce1061fdf58f916455813"
+"sha": "3c32d6efcc593d3d27b930331140a7c0c274987e"
 },
 {
 "slug": "transferware",

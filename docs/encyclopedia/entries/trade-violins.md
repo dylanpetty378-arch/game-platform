@@ -70,6 +70,9 @@ Buy when: Roth/Juzek/Pfretzschner/French labelled and playable at ≤ $150; or a
 Pass when: "needs repair"; no strings or bridge; unlabelled trade copy; anything that requires an appraiser.
 Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-14: E.R. Pfretzschner "model 301" (Scherl & Roth import, 1960s–70s, label + S&R shop stamp) is a student outfit, ~$250–450 (memory, needs sold check) — not the $600–2,500 vintage Pfretzschner tier.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 8, "shape": "irregular", "fragility": 3, "transit_damage_risk": 3, "hidden_defect_risk": 4, "testability": 4, "repro_risk": 4, "id_difficulty": 5, "rarity": 2, "sold_per_month": 2000, "sell_through": "?", "days_to_sell": 30, "price_p25_p50_p75": [70, 150, 300], "price_spread": 4.3, "condition_sensitivity": 4, "seasonality": "Aug–Sep (back to school)", "best_platform": "Reverb; eBay; Tarisio for better instruments", "fees_pct": 13, "ship_cost_to_buyer": 35, "undervalue_frequency": 2, "bust_probability": 55, "expected_profit_typical": -20, "confidence": "low"}

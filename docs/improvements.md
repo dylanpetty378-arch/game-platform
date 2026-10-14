@@ -378,3 +378,8 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   (2) flagged TSV has 15 columns vs 10 for lensed — unify; (3) alias `industrial-gauges` → `industrial-pressure-gauges`
   in comps; (4) jewelry < $25 with no karat/maker word could be pre-killed (≈40% of the unlensed pool, 0 leads);
   (5) pickup-only asks need a rule (kill, or ask to ship?) — Dylan to decide.
+- eBay egg loop (03:34Z pool, 16,026 auctions): screened only the 3,598 ending after 20:15Z (the rest overlapped the
+  Oct 13 20:14 pool, already screened) → 30 sheets, 3 eye agents → 38 flags → detail mode (run 4) → 3 deep agents:
+  **0 eggs, 0 leads**. Paintings/prints were 25 of 38 flags and all were reprints, hobby art or book plates — the eye
+  brief over-flags "aged" paintings on eBay; the description settled every one. Closest: Pfretzschner 301 student violin
+  (needs sold check, ~$140 max bid). Idea: `sheetpool` should drop auctions already in the previous pool automatically.
