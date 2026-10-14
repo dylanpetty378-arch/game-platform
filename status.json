@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:47:20Z",
+ "updated": "2026-10-14T22:51:08Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9774,
-  "events": 33390,
+  "lens": 9799,
+  "events": 33415,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 278,
-  "flagged": 1342,
-  "lensed": 444
+  "queued": 253,
+  "flagged": 1362,
+  "lensed": 449
  },
  "last_harvests": [
   {
@@ -861,6 +861,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940455351",
+   "title": "2 ladies geometric bracelets",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/apollo-beach-ladies-geometric-bracelets/kNAYBb8ewWxFuxqrTdadmi",
+   "best": "Vintage 1970s Sterling Silver Wave Cuff Bracelet ...",
+   "med": 1459,
+   "ratio": 72.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7942507551",
    "title": "Jewelry coins",
    "price": 10,
@@ -1231,6 +1242,17 @@
    "url": "https://www.craigslist.org/view/d/renton-handmade-ceramic-vase/2Hp5WJ57GMNVU5ZDfGoVEN",
    "best": "Antique French Confit or Olive Pot Yellow Glazed Terracotta ...",
    "med": 650,
+   "ratio": 32.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953254914",
+   "title": "I Love You, Je t'aime, Te quiero, Te amo Necklace 925",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-love-you-je-taime-te-quiero-te/tu2HhhmHDG5xJgTmm3F32M",
+   "best": "Mercado Libre",
+   "med": 1300,
    "ratio": 32.5,
    "ai_value": ""
   },
@@ -2266,6 +2288,17 @@
    "best": "Vintage Medallion Frame .900 Gold Coin SINCO PESOS 1955 ...",
    "med": 975,
    "ratio": 12.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965097734",
+   "title": "Necklace with Matching Earrings",
+   "price": 7,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/papillion-necklace-with-matching/5E9Ku1zNhVyMs2nWoPLexu",
+   "best": "Craigslist",
+   "med": 85,
+   "ratio": 12.14,
    "ai_value": ""
   },
   {
@@ -3391,6 +3424,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7928757903",
+   "title": "Women's Antique Watches",
+   "price": 10,
+   "area": "nmi",
+   "url": "https://www.craigslist.org/view/d/bellaire-womens-antique-watches/dkhDJm3P1oakrRjJNtortG",
+   "best": "eBay",
+   "med": 62,
+   "ratio": 6.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971604968",
+   "title": "Vintage Asian Vase",
+   "price": 5,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-vintage-asian-vase/wNUeZy8HqcJXMpsBJkXTJc",
+   "best": "Vintage Black Vase with Gold Flowers 5\u201d tall Made in Japan ...",
+   "med": 31,
+   "ratio": 6.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135555",
    "title": "NEW 14K Gold Ruby and Diamond Ring",
    "price": 190,
@@ -3630,6 +3685,17 @@
    "best": "Southwestern Canisters - Etsy",
    "med": 225,
    "ratio": 5.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951903384",
+   "title": "vintage BUTTERFLY Brooch",
+   "price": 7,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/orange-vintage-butterfly-brooch/85NFZH8L5UKMazphw8J7VU",
+   "best": "eBay",
+   "med": 39,
+   "ratio": 5.57,
    "ai_value": ""
   },
   {
@@ -4854,6 +4920,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954761337",
+   "title": "Antique Sewing Scissors solid forged steel",
+   "price": 30,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/long-beach-antique-sewing-scissors/fojKZe1NMB99gjQUaf3Ugb",
+   "best": "Craigslist",
+   "med": 115,
+   "ratio": 3.83,
+   "ai_value": "WorthPoint Vintage Harlo Steel Tempered Ornate House Scissors | #38483378 $58"
+  },
+  {
    "pid": "7949206436",
    "title": "\ud83d\udc8dAntique 14k White GOLD FILIGREE RING w/ Rose Cut Diamonds \ud83d\udc8d",
    "price": 299,
@@ -5382,6 +5459,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936957143",
+   "title": "Slingerland 15x12\" Tom Drum Vintage",
+   "price": 99,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/lake-forest-slingerland-15x12-tom-drum/cRt1tq8vNHzJmaorSchSN9",
+   "best": "Etsy",
+   "med": 325,
+   "ratio": 3.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7944219985",
    "title": "Vintage Sterling Silver Amethyst & Marcasite CPI Earrings",
    "price": 40,
@@ -5514,6 +5602,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983489129",
+   "title": "Wooden BOHO Beaded Tribal Style Necklace 28\"",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-wooden-boho-beaded-tribal-style/wTCgcqCmA37pz126A15zxd",
+   "best": "eBay",
+   "med": 48,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7963619385",
    "title": "Lladro collection and more",
    "price": 250,
@@ -5532,6 +5631,17 @@
    "url": "https://www.craigslist.org/view/d/south-plainfield-diamond-engagement-ring/nv7HeBHu2ERRiSGRpXtaRP",
    "best": "50ctw Round Diamond with Accents Engagement Ring 14k Yellow ...",
    "med": 1499,
+   "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953540502",
+   "title": "Vintage 1976 Caravelle Pocket Watch Set w/ Chain & Early FOE Horn Fob",
+   "price": 50,
+   "area": "wausau",
+   "url": "https://www.craigslist.org/view/d/rothschild-vintage-1976-caravelle/iCd9svqFjBEW9nfwtV9Brd",
+   "best": "Gem",
+   "med": 158,
    "ratio": 3.16,
    "ai_value": ""
   },
@@ -5609,6 +5719,17 @@
    "url": "https://www.craigslist.org/view/d/newark-cg-conn-saxophone/6agJYmzKyooeSQ4sLyxbdc",
    "best": "Vintage K & C Kohlert Silvertone Tenor Saxophone Brass ...",
    "med": 1099,
+   "ratio": 3.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940455814",
+   "title": "Seiko waterproof Ladies watch",
+   "price": 50,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/apollo-beach-seiko-waterproof-ladies/v5ZMKAjiu8dfWw8CMSgKGT",
+   "best": "eBay",
+   "med": 155,
    "ratio": 3.1,
    "ai_value": ""
   },
@@ -6075,6 +6196,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969325559",
+   "title": "Antique Vintage Sterling silver ladle",
+   "price": 65,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/east-rochester-antique-vintage-sterling/597sw5AVXPN5P2ePXdbdF8",
+   "best": "Craigslist",
+   "med": 180,
+   "ratio": 2.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7983251565",
    "title": "Lot of guitars and drums",
    "price": 500,
@@ -6137,6 +6269,17 @@
    "url": "https://www.craigslist.org/view/d/jacksonville-poul-signed-canvas-picture/22ebdLAzeRAsTpNZ1qC8Sj",
    "best": "Leo Scott \u2013 Large Still Life With Fruit and Books, Original ...",
    "med": 179,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954287414",
+   "title": "Fashion Gold Diamond Shaped Cubic Zirconia Earrings",
+   "price": 24,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-gold-diamond-shaped/134bNfdXapv8fCaK6Uv6yp",
+   "best": "eBay",
+   "med": 66,
    "ratio": 2.75,
    "ai_value": ""
   },
@@ -6852,6 +6995,17 @@
    "url": "https://www.craigslist.org/view/d/north-hollywood-14k-gold-plated-vintage/eiE73PPPJJbveFWGhufDps",
    "best": "Craigslist",
    "med": 580,
+   "ratio": 2.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937390185",
+   "title": "Silver cup",
+   "price": 95,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-silver-cup/ekkVMNbggWhkv5RWSE9VWo",
+   "best": "Gorham Coin Silver GOBLET Engraved 6.75 oz No Mono | eBay",
+   "med": 220,
    "ratio": 2.32,
    "ai_value": ""
   },
@@ -10376,6 +10530,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967276010",
+   "title": "Portuguese Guitarra",
+   "price": 500,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/auburn-portuguese-guitarra/bWQbibD1ZhKRQb1oL3spjk",
+   "best": "Craigslist",
+   "med": 599,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -10702,6 +10867,17 @@
    "url": "https://www.craigslist.org/view/d/columbus-new-10k-gold-unicorn-pendant/tswXMvyao1nCRSA1C6VEDD",
    "best": "Taiwan American Avon brand antique small unicorn set with ...",
    "med": 249,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951386709",
+   "title": "Signed Staats Cotsworth Drawing",
+   "price": 165,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/oak-harbor-signed-staats-cotsworth/bSatzLjXLEmBKfZszrXVLf",
+   "best": "Poshmark",
+   "med": 183,
    "ratio": 1.11,
    "ai_value": ""
   },
@@ -12972,6 +13148,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972376364",
+   "title": "Custom Jewelry - Bag Included",
+   "price": 80,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-custom-jewelry-bag-included/p8gkqEUtz7XAV12z3kHnvY",
+   "best": "eBay",
+   "med": 49,
+   "ratio": 0.61,
+   "ai_value": ""
+  },
+  {
    "pid": "7934382142",
    "title": "Vintage Studio Art Pottery Crock",
    "price": 50,
@@ -13078,6 +13265,17 @@
    "url": "https://www.craigslist.org/view/d/richland-center-old-metal-box/9XbKnPKEjZ8PykRzReQqr8",
    "best": "Etsy",
    "med": 35,
+   "ratio": 0.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970809716",
+   "title": "Set of 3 Garnet bracelets",
+   "price": 95,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-set-of-garnet-bracelets/52yLvS9kEweKntS2SYBmGe",
+   "best": "Natural Garnet Crystal Bead Bracelet 12mm, Genuine Garnet ...",
+   "med": 55,
    "ratio": 0.58,
    "ai_value": ""
   },
@@ -14182,6 +14380,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959791325",
+   "title": "CZ Diamond studs Emerald Jadite Amber Sterling reduced",
+   "price": 20,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-cz-diamond-studs-emerald/4We2BVLFjZ8fDKmodHnVto",
+   "best": "Court Couture Green Necklace Paparazzi New | eBay",
+   "med": 5,
+   "ratio": 0.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7935004452",
    "title": "Vintage Randy Souders Country Grocery Lithograph",
    "price": 80,
@@ -14189,6 +14398,17 @@
    "url": "https://www.craigslist.org/view/d/bay-village-vintage-randy-souders/2u8dYZKCJxqD2RHXU1Srdh",
    "best": "eBay",
    "med": 18,
+   "ratio": 0.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949301639",
+   "title": "Gold flower chain",
+   "price": 300,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-gold-flower-chain/i1wp96MAX4mmg4jHovdEVz",
+   "best": "Poshmark",
+   "med": 70,
    "ratio": 0.23,
    "ai_value": ""
   },
