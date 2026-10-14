@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-14T00:21:36Z",
+ "updated": "2026-10-14T00:25:23Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7599,
-  "events": 27020,
+  "lens": 7624,
+  "events": 27045,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 520,
+  "lensed": 522,
   "comps/pass": 1,
-  "queued/relens": 423,
+  "queued/relens": 434,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 829,
+  "flagged": 841,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 54
+  "queued": 29
  },
  "last_harvests": [
   {
@@ -544,6 +544,17 @@
    "best": "Delft Candle Sticks - Etsy",
    "med": 150,
    "ratio": 150,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966611579",
+   "title": "26\" Heavy Byzantine Silver Tone Necklace",
+   "price": 20,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-26-heavy-byzantine-silver-tone/cy1CeaFnCrrbsHVd2YH9Xq",
+   "best": "gem.app",
+   "med": 2868,
+   "ratio": 143.4,
    "ai_value": ""
   },
   {
@@ -2516,6 +2527,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7950719870",
+   "title": "Moraccan Tea Pot",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-cruz-moraccan-tea-pot/qDrzGgdNKDfyoAw4QeTCUu",
+   "best": "Faris Deluxe \u2013 Moroccan Legs Teapot with Traditional Engravings",
+   "med": 149,
+   "ratio": 5.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945538474",
+   "title": "Vintage Mortar and Pestle",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-vintage-mortar-and-pestle/9pnCXr4trrRiUkX3xu2G2c",
+   "best": "English 19th Century Lignum Vitae Mortar and Pestle at 1stDibs",
+   "med": 178,
+   "ratio": 5.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7937805648",
    "title": "Vintage 1928 gold tone clip earrings",
    "price": 32,
@@ -2747,6 +2780,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951287055",
+   "title": "Vintage Jerome Rettich Tennis Lithograph",
+   "price": 120,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-jerome-rettich-tennis/f8MG4w7hQUBhNEAfYw7z85",
+   "best": "Lithograph Signed and Numbered by Listed Artist Jerome ...",
+   "med": 650,
+   "ratio": 5.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7978836273",
    "title": "Japanese Decor Vintage",
    "price": 25,
@@ -2967,6 +3011,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956934412",
+   "title": "Vintage Damascene pendant / brooch Japan",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-damascene-pendant-brooch/87aj81rdUJ4L7J5bFPaFiC",
+   "best": "Discover 83 Art & Craft: Japanese Lacquer Art and japanese ...",
+   "med": 165,
+   "ratio": 4.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7955319963",
    "title": "Vintage Hand Saw",
    "price": 15,
@@ -3039,6 +3094,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/farmingville-pottery-pitchers-vase/e4V23nHpDZ3wjugv28Zboi",
    "best": "eBay",
+   "med": 45,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941004320",
+   "title": "Pearl Drop Earrings New",
+   "price": 10,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/labelle-pearl-drop-earrings-new/1kMFytYmpTNmqjEPBvNaZe",
+   "best": "Bling Queen",
    "med": 45,
    "ratio": 4.5,
    "ai_value": ""
@@ -3682,6 +3748,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7951842725",
+   "title": "Turquoise bracelet cuff and ring",
+   "price": 150,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/mckeesport-turquoise-bracelet-cuff-and/wKgnWH2SrqyyG7okiL6bnK",
+   "best": "Invaluable.com",
+   "med": 531,
+   "ratio": 3.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930653775",
+   "title": "Vintage Cherub Angel Fine Art Statue",
+   "price": 85,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-cherub-angel-fine-art/qdWd5Zokrsnhoiiiojwxk8",
+   "best": "Vintage MAC Sculptures Inc. of California Cherub Angel Fine ...",
+   "med": 300,
+   "ratio": 3.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7972596543",
    "title": "*Sale*Vintage Lead Crystal Decanter/Vase..VERY Nice Piece",
    "price": 25,
@@ -4218,6 +4306,17 @@
    "best": "Craigslist",
    "med": 85,
    "ratio": 2.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960081323",
+   "title": "Lorus Watch with Speidel Band",
+   "price": 12,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/daly-city-lorus-watch-with-speidel-band/kCUNDxKHBsTyzjzG3t5r9j",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 2.92,
    "ai_value": ""
   },
   {
@@ -5332,6 +5431,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952791342",
+   "title": "Silver Hamsa Pendant Necklace",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/albany-silver-hamsa-pendant-necklace/wRHniDGgDfqZDmAypDQmvm",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7936225689",
    "title": "Norman Rockwell vintage plates",
    "price": 50,
@@ -5374,6 +5484,17 @@
    "med": 42,
    "ratio": 2.1,
    "ai_value": "price of $50"
+  },
+  {
+   "pid": "7954336367",
+   "title": "Vintage Set Of 4 Pewter Goblets",
+   "price": 20,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-set-of-pewter-goblets/psa5E8x76wfxy2u3zxk1Un",
+   "best": "Craigslist",
+   "med": 42,
+   "ratio": 2.1,
+   "ai_value": ""
   },
   {
    "pid": "7929411784",
@@ -5702,6 +5823,17 @@
    "url": "https://www.craigslist.org/view/d/labelle-bangle-bracelets-new/cWQzatXHgZD2QGoAc2yUrR",
    "best": "7pcs/Set European And American Style Bangle Set With ...",
    "med": 19,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954907021",
+   "title": "Vintage Mid Century Almazan Metal Money Bag",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-mid-century-almazan/9jNeCzGTPUCaAi31SXi42x",
+   "best": "Invaluable.com",
+   "med": 76,
    "ratio": 1.9,
    "ai_value": ""
   },

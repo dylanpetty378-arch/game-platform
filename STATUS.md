@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T00:21:36Z
+# Refurbish status — 2026-10-14T00:25:23Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,12 +7,12 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 829 |
-| lensed | 520 |
-| queued/relens | 423 |
+| flagged | 841 |
+| lensed | 522 |
+| queued/relens | 434 |
 | decided/ask | 59 |
-| queued | 54 |
 | decided/kill | 40 |
+| queued | 29 |
 | expired | 11 |
 | decided/find | 8 |
 | decided/bundle | 5 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7599
-- events: 27020
+- lens: 7624
+- events: 27045
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (829)
+## Flagged by Lens, waiting for photo review (841)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -130,6 +130,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00S0S_lBnaaDtyQ3B_0t20CI_300x300.jpg" width="120"> | 7940571077 | $99 | sanangelo | [Sterling Silver Necklace](https://www.craigslist.org/view/d/center-point-sterling-silver-necklace/tQJmjCNWtMAaioYhisMVxs) | 14K GOLD 5MM TRICOLOR FANCY CHAIN White Gold / 20" | 18645 | 188.33 |
 | <img src="https://images.craigslist.org/00W0W_ct5UEVuQxLu_07K0ak_300x300.jpg" width="120"> | 7982786373 | $1 | wilmington | [sterling forks](https://www.craigslist.org/view/d/wilmington-sterling-forks/rfowtxGvR8jT3cRtieos2E) | Set of 6 Rogers Bros "Vintage" Pattern 7.5" Dinner Forks /11 | 170 | 170 |
 | <img src="https://images.craigslist.org/00V0V_kmkWe6yxUgI_0hr0CI_300x300.jpg" width="120"> | 7934825752 | $1 | medford | [Antique Vintage Asian pieces](https://www.craigslist.org/view/d/gold-hill-antique-vintage-asian-pieces/obPibbWkQyKVWn91gEx4cm) | Delft Candle Sticks - Etsy | 150 | 150 |
+| <img src="https://images.craigslist.org/00i0i_7f52PPKRM4A_0t20CI_300x300.jpg" width="120"> | 7966611579 | $20 | boise | [26" Heavy Byzantine Silver Tone Necklace](https://www.craigslist.org/view/d/boise-26-heavy-byzantine-silver-tone/cy1CeaFnCrrbsHVd2YH9Xq) | gem.app | 2868 | 143.4 |
 | <img src="https://images.craigslist.org/00303_5kh0uTho2eI_0lM0t2_300x300.jpg" width="120"> | 7945090108 | $75 | sfbay | [Vintage Seiko Men’s Dress Watch](https://www.craigslist.org/view/d/cotati-vintage-seiko-mens-dress-watch/jbV9uaFS1qu3PwLsinsVE8) | Vintage Seiko Men 6530-5759 Dress Gold Dial Tank Quartz ... | 10613 | 141.51 |
 | <img src="https://images.craigslist.org/00303_jHJR4wEGCCP_0jm0pO_300x300.jpg" width="120"> | 7954569846 | $10 | erie | [NECKLACE & BRACELET SET](https://www.craigslist.org/view/d/harborcreek-necklace-bracelet-set/8KFdZWusLpeZscz7G6oZ3R) | Ladies/womens 9ct yellow gold twisted link bracelet and ... | 1383 | 138.3 |
 | <img src="https://images.craigslist.org/00d0d_l5KlZnk9Hl0_0lN0CI_300x300.jpg" width="120"> | 7928278977 | $65 | flagstaff | [VINTAGE DYADEMA DOUBLE PANTHER HEAD BRACELET](https://www.craigslist.org/view/d/prescott-valley-vintage-dyadema-double/iEdgLVWDWQKuxBfdZAiGw2) | Etsy | 8000 | 123.08 |
@@ -235,4 +236,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00606_hdqv3HS3BJuz_04p05W_300x300.jpg" width="120"> | 7946710598 | $15 | asheville | [Pendant Vintage Tribal Rectangular with Dangles](https://www.craigslist.org/view/d/asheville-pendant-vintage-tribal/1zQ24Gzfx6BusgTPHMe1Tj) | Vintage Rajasthani Silver Amulet, Tribal Pendant - Etsy | 150 | 10 |
 | <img src="https://images.craigslist.org/00L0L_9Unvxa1Irr6_0t20CI_300x300.jpg" width="120"> | 7941754711 | $30 | sfbay | [ROSE QUARTZ CRYSTAL NECKLACE](https://www.craigslist.org/view/d/santa-rosa-rose-quartz-crystal-necklace/pT326CXKa45masn2qTchTP) | Natural Amethyst Rose Pendant-hand Carved Rose-925 Sterling  | 299 | 9.97 |
 | <img src="https://images.craigslist.org/00u0u_lgNxwZhZ0Qt_0ak07K_300x300.jpg" width="120"> | 7947128386 | $5 | philadelphia | [FIVE OLD RELIGIOUS MEDALS](https://www.craigslist.org/view/d/huntingdon-valley-five-old-religious/wUJev3nrsJE5kEDqsgg8hR) | Vintage Estate 14K Gold Blessed Mother Mary Medal Pendant .. | 49 | 9.8 |
-| <img src="https://images.craigslist.org/00I0I_4rl9oKMt0Mt_0CI0b2_300x300.jpg" width="120"> | 7962774231 | $40 | dallas | [Sterling Silver Ruby Rings - $40 each](https://www.craigslist.org/view/d/mckinney-sterling-silver-ruby-rings-40/oagV6X6GCxhCJngGpaevbv) | Flower Pink Ruby Gemstone Ring : 925 Sterling Silver - Etsy | 389 | 9.72 |
