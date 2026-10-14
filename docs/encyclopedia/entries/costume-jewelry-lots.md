@@ -96,6 +96,10 @@ Buy rule (short): Pay for marks, metal content and sets, not for the word "vinta
 - 2026-10-13 (redo): 'Marjorie Baer' on an earring card is a modern San Francisco designer, $15-25 per pair resale
 - 2026-10-13 (triage): A "case of mom's vintage jewelry" with cloisonne and faux pearls and no visible signatures resells at the lot median ~$33 regardless of case size.
 - 2026-10-14: Matisse / Renoir enamel-on-copper brooches are stamped "MATISSE ©RENOIR" in small caps on the bare copper back (seen on the kite and apple forms). The kite form has a curly copper wire tail with a bow, and the apple has an open wire heart frame. No sold comp yet; estimate about $35-45 each, so a single brooch never clears $50 profit.
+- 2026-10-14: Zentall (Robert Zentall, 1960s) hammered gold-tone brooches carry an incised "ZENTALL" cartouche on a petal back; signed but a minor name (~$20-40), do not pay $50.
+- 2026-10-14: "Cleo MMA 925" = Metropolitan Museum of Art reproduction-line sterling; sells as modern sterling (~$40-80 at ~11 g), not as Art Deco.
+- 2026-10-14: "LC" brand on new-looking glass/MOP jewelry = Liquidation Channel TV-shopping stock; no resale premium.
+- 2026-10-14: bead-bracelet "junk" lots can hide tiny yellow-metal charms (initial letters, animals) in the bottom row; ask for jump-ring/back close-ups for 10K/14K before killing on the bracelets.
 
 ## Rubric
 ```json

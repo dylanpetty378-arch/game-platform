@@ -93,6 +93,7 @@ Needs visible premium markings.
 
 ## Field notes (learned in triage)
 - 2026-10-14: Small lathing or half-hatchet heads have scalloped cheeks and a nail-pull notch under the bit. Without a visible Plumb, Kelly, Underhill or Vaughan stamp they stay in the $15-25 tier, and the shipping weight kills lots of them.
+- 2026-10-14: steel-handle hatchet with perforated rubber grip and leather sheath alongside a Plumb is an Estwing-type; pairs at $30 fail on 2x ~3 lb shipping, not ID.
 
 ## Rubric
 ```json

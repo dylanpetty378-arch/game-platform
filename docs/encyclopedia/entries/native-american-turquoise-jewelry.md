@@ -75,6 +75,7 @@ Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). A $120-me
 - 2026-10-14: Marie Tsosie (Navajo) stick-inlay pendant+earring set retailed $240 at Eagle Plume's (Allenspark CO) - small modern inlay sets, low resale tier.
 - 2026-10-14: The Lens artist name was wrong again. Lens said "Daniel Etsitty", but the hallmark reads "...CKSON" (Jackson). Always read the stamp on the back before quoting an artist.
 - 2026-10-14: Fred Harvey-era tourist cuff tells are stamped crossed arrows, Zia sun symbols, and a fluted "whirl" concho with a small turquoise. About 18–19 g, $15–60 tier. A Lens "silver pawn Navajo cuff circa 1930s $249" match is asking-price noise.
+- 2026-10-14: watch tips stamped only with initials (e.g. "W.C.B.") and no "sterling" stamp, chip turquoise/coral inlay on a Speidel stretch band, about $40-90. Tom & Sylvia Kee make storyteller overlay cuffs (horse/rider scenes); weigh before offering.
 
 ## Rubric
 ```json

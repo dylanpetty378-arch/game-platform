@@ -72,6 +72,9 @@ Photograph the full mark; transcribe decor name and numbers; give height, condit
 ## Buy rule
 Price ≤ $200. Profit = sold × 0.87 − ~$15 to buyer − ~$15 to Dylan − price ≥ max($50, price). A geometric Deco piece at ~$120 sold → buy ≤ $25; a Zeisel-documented piece at ~$250 → buy ≤ $85. Florals/landscapes never clear. Require a base photo with the mark and no chips. Vases fit a passenger seat.
 
+## Field notes (learned in triage)
+- 2026-10-14: Mark "HANDPAINTED / SMF shield / GERMANY" (English "Handpainted", no "Schramberg", no decor name) on a stylized black/orange bird-decor pitcher (pid 7949857139); the absence of a decor name in the mark is the tell that it is not a named 1928-35 decor; ask for impressed shape number.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "tall",

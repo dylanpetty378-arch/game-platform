@@ -71,6 +71,10 @@ Profit = sold median × 0.87 − ~$10 to buyer − ~$10 to Dylan − price; pass
 - Post-1970 dolls, McDonald's minis, modern exclusives: pass.
 - 1950s hard-plastic 8" in tagged original outfit: buy at ≤ $30 if resale ≥ $100 (ask back-mark and tag photos).
 
+## Field notes (learned in triage)
+- 2026-10-14: Mixed "estate doll" lots of 8in hard-plastic dolls often combine Alexander-kins internationals (Dutch girl w/ velvet bodice + white apron; Scot w/ red jacket, fur sporran, tartan tam) with Nancy Ann Storybook dolls (jointed arms, side-glance painted or sleep eyes) and 10in teen bodies; the only check that matters is the torso back mark ("ALEX." / "VOGUE" / "STORYBOOK DOLLS USA") plus bent-knee legs.
+- 2026-10-14: 7in sleep-eye hard-plastic Nancy Ann Storybook dolls (1950s) are the common later version; the premium Storybooks are the earlier painted-eye bisque ones (1936-47).
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 0.5, "shape": "irregular",

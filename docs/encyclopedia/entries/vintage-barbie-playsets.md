@@ -74,6 +74,9 @@ Furniture, play environments, carrying cases and tiny accessories made for Barbi
 - Buy when photos/answers show 1959–67 dolls (bubble cut, ponytail, Francie, Skipper, Midge), named outfits or complete boxed 1960s playsets and the sold median clears the rule.
 - Must fit the passenger seat; small and flat is ideal.
 
+## Field notes (learned in triage)
+- 2026-10-14: "World of Barbie Double Doll Case" (1968, Mattel) and purple Barbie case with rose graphic (c.1967) date a lot to TNT era; identification needs doll back marks and black Mattel clothing tags.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 3, "shape": "irregular",

@@ -55,6 +55,9 @@ Front, back stamp and label photo, year, height, call out every chip; group by t
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). Selling singly at ~$16–22 with buyer-paid shipping, each head nets ~$14–19 before inbound costs; a lot of 20+ at ≤ $3/head clears the rule easily (Tier A at ≤ $2/head). If Dylan must absorb shipping (~$8/head), require ≤ $1.50/head. Labour: ~one listing per head — group into themed sets of 3–4. Confirm Bossons stamps on backs and no chips before buying.
 
+## Field notes (learned in triage)
+- 2026-10-14: Sellers tag Bossons singly at ~$4 at estate sales; Terapeak sold median $16 means even $4/head fails after per-head shipping - only buy at <=$3 or scarce heads.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 0.7, "shape": "set-of-many",

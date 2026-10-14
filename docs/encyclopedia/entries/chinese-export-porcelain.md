@@ -75,6 +75,7 @@ Profit = sold median × 0.87 − ship to buyer (~$18) − ship to Dylan (~$18) �
 
 ## Field notes (learned in triage)
 - 2026-10-13 (redo): a gritty unglazed foot ring and staple-repair holes confirm 19th-c. Canton-type plates, but chips and staples cut them to $40-80 each.
+- 2026-10-14: small 19th-c. provincial blue-and-white dishes with kiln-sand gritty feet and staple repairs still fail at ~$50 each asking; a seller saying "hundreds more pieces" is worth a follow-up only for unrepaired platters or covered pieces at <=$40.
 
 ## Rubric
 ```json

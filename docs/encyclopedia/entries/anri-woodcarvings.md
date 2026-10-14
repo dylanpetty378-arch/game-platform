@@ -61,6 +61,9 @@ Count, list each action, which levers work, ANRI stamps (photo), height, cork co
 ## Buy rule
 Profit ≥ max($50, price). A lot selling for $90 nets ~$78 before ~$12 shipping each way: buy price must be ≤ ~$10 for $50 profit. So: stoppers ≤ ~$1–2 each in large lots, Big Mouth holders ≤ $5 each. Large ANRI Disney/Ferrandiz limited editions only at ≤ 25% of sold and only if they fit a passenger seat. No testing issues beyond the lever.
 
+## Field notes (learned in triage)
+- 2026-10-14: Romer (Italy) carved figures (e.g. doctor/vet with dog holding a metal syringe) sit with ANRI mechanical pieces, ~$20-60.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "set-of-many",

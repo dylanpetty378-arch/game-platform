@@ -81,6 +81,8 @@ Profit = sold median × 0.87 − ship to buyer (~$10) − ship to Dylan (~$10) �
 
 ## Field notes (learned in triage)
 - 2026-10-14: On the Terapeak query "14k hunter case pocket watch Elgin" (median $570), the p25 example is a 14K gold-filled case. Quote it only once the inside lid reads solid 14K with an assay/karat stamp, never "14K gold filled" / "Guaranteed 20 years".
+- 2026-10-14: Hampden "Canton O." hunters in heavily engraved yellow cases: case interior colour does not show karat; always ask for the inside back-lid stamp before valuing (gold-filled non-runner ~$70-90 vs solid 14K at melt+).
+- 2026-10-14: Check the movement photo on ladies 0s watches - pid 7954236339 (Waltham in Wadsworth case) was a stripped movement shell with loose wheels, listed as "good condition".
 
 ## Rubric
 ```json

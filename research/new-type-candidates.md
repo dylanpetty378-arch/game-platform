@@ -157,3 +157,16 @@
 - liddle-kiddles: Kologne dolls (Orange Blossom, Apple Blossom, Sweet Pea, Honeysuckle, Lilac) and Lucky Locket dolls (Lorna, Larky) are often sold loose without the bottle/locket - accessories carry much of the value; first-series Bunson Bernie #3501 and Liddle Diddle #3503 are the stronger loose dolls.
 - stamps: "Inland Revenue one penny lilac" GB stamps are revenue issues; sellers routinely misread catalog values ($220) for them - they are few-dollar items.
 - pocket-knives: Craigslist sellers include eBay screenshots of Carl Schlieper "Eye Brand" cracked-ice congress knives ($204 sold) for unrelated cracked-ice stockmen with no visible tang stamp - require the tang stamp photo.
+
+## From triage 2026-10-14 03:15
+- art-glass-paperweights: "BRIONI" stamped on a ground pontil = 1990s Brioni Studios iridescent spotted/threaded weights; Lens confuses them with Kelly Howard spheres ($195 asking) — different, more valuable maker.
+- turned-wood-bowls: pen-signed base + segmented walnut/ash rings + glued-on button feet = hobby turner (e.g. "Jack Horan"); only named studio turners (Moulthrop, Stocksdale, Ellsworth, Lindquist, Prestini) carry premiums.
+- celadon: molded crane/phoenix celadon teapot with crackle glaze, cane bail handle and raw unglazed foot = modern Chinese/Thai import (Lillian Vernon-type); Lens "Song Ru kiln" matches are fantasy repro listings.
+- brass-instruments: "Cavalier ... Elkhart Ind. USA" engraved on bell = student stencil cornet; Lens names Frank Holton wrongly.
+- mortar-and-pestle: footed turned dark mortar with porcelain-headed pestle — Lens matches lignum vitae; seller calls it walnut. Weight settles it (lignum sinks; 8x5in ≈ 4-5 lb).
+- other: Red Wing Union Stoneware Co. blue circular stamp + incised shape numbers (e.g. 168 / 891) on celadon ring-handled art-pottery vases (1930s); 2-3 lb, shipping kills it below ~$100 sold.
+- pewter: "PURE ETAIN" / "ETAIN PUR" angel touchmark with a 3-digit model number beside it (e.g. 220) = 20th-century French production pewter (shell-thumbpiece tankards/flagons), $30-60; not an 18th-c maker's touchmark.
+- kendra-scott: Kendra Scott Elle/drop earrings on the white paper card in the yellow box are the plated-brass fashion line; "14K rose gold" in listings means plating. The solid-gold fine-jewelry line uses different packaging. Resale ~$20-30.
+- novelty-banks: "Big-ear mouse" banks marked ROY DES of FLA (1970) or Huron Products are Topo Gigio knockoffs, not licensed Topo Gigio.
+- beer-trays: West End Brewing Co. Utica NY "Columbia" lady tray is the widely reissued commemorative tray (1970s-80s); $15-30.
+- scandinavian-art-glass: Marcolin Art Crystal (Sweden) small sommerso animals with the silver foil label, 5in fish, about $25-45.

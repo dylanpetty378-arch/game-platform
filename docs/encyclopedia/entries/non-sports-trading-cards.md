@@ -54,6 +54,7 @@ Profit = resale × 0.87 − ~$5 out − ~$5 in − price ≥ max($50, price). 19
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): Zap Comix #1 (R. Crumb) — only the Feb 1968 Charles Plymell first printing is the money ($500–2,000): 25¢ cover price, "Printed by Charles Plymell" on the inside front cover, no Apex Novelties logo. The Apex Novelties 35¢ cover is the 2nd–4th printing (1968–69), $40–100; 50¢/$1+ covers are 1970s+ reprints under $30. No encyclopedia entry exists for underground comix — worth writing one (Zap, Mr. Natural, Fabulous Furry Freak Brothers; first-printing tells are cover price + printer credit).
+- 2026-10-14: Mars Attacks cards in mixed modern lots (with ANS Wacky Packages, new GPK) are usually the 2012 Topps Heritage reissue; the back copyright line (1962 Bubbles Inc vs Topps 2012) settles it.
 
 ## Rubric
 ```json

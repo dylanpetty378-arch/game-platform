@@ -356,3 +356,25 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   new-type-candidates (several are aliases of existing slugs, e.g. costume-jewelry → costume-jewelry-lots).
 - To fix: stopwatches-and-timers ladder ($90–160 for plain Minerva timers) looks ~3× high (Catawiki €30 sale).
 - Idea: triage agents should get an alias map (slug → existing slug) so they stop inventing near-duplicate slugs.
+
+## 2026-10-14 03:15 — scheduled runner (cloud, no device)
+- health.py: 3 FAILs, none cloud-fixable. Lens quality (64% priced, 34% empty) is measured on the last 200 rows, which
+  all predate lens-worker 2.0.1 (worker idle since 00:29Z; Dylan's Chrome closed). Re-judge after the worker runs 2.0.1.
+  Queue 444 < 500 only because the worker consumed it; next cloud cycle rebuilds 800.
+- **ebay-eggs schedule never fired** (cron `41 */6` on main; only 2 manual runs since it was added Oct 13 20:04 —
+  GitHub often skips crons on newly added workflows until the next push to the default branch). Dispatched run 3
+  manually at 03:25Z. If it still doesn't fire by itself, a push to main (any commit touching the yml) re-registers it.
+- Text triage: 22 lensed + 38 flagged + 300 unlensed = 360 rows (4 agents). 0 buys, 17 asks (all Tier C, no sold comp
+  clears the bar), 343 kills. Run `review-20261014-0315`. Unlensed pool triaged this time because the worker was idle
+  (prompt asks for it; TRIAGE_BRIEF rule 1 assumes a live worker) — unlensed yielded 14 asks from 300, all Tier C.
+- Best asks: 9-doll lot $25 with probable Alexander-kins (sold median $40/doll), bracelet lot $15 with possible 14K
+  charms, signed numbered screenprint $25 (artist unnamed by seller — mismatch signal), Hampden hunter $40 if solid 14K.
+- Encyclopedia: 48 thin entries deepened (several factual fixes: Blue Mountain 1953, Nemadji 1920–2002, Franklin Mint
+  history/"Sterling Plus", F&E = Hedman, Masudaya Gang of Five, Betjemann stamp location, ES Keramik = Emons & Söhne,
+  tennis-ball can dates, Byers' Choice clay faces). 7 new: vintage-football-helmets, nancy-ann-storybook-dolls,
+  chocolate-molds, industrial-pressure-gauges, eye-wash-cups, western-hats, farm-implement-wrenches. 31 field notes into
+  entries, 11 to new-type-candidates.
+- Ideas: (1) review_helpers should skip pids already in an entry's "Seen in sweeps" (SMF pitcher triaged twice);
+  (2) flagged TSV has 15 columns vs 10 for lensed — unify; (3) alias `industrial-gauges` → `industrial-pressure-gauges`
+  in comps; (4) jewelry < $25 with no karat/maker word could be pre-killed (≈40% of the unlensed pool, 0 leads);
+  (5) pickup-only asks need a rule (kill, or ask to ship?) — Dylan to decide.

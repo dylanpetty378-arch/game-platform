@@ -66,6 +66,7 @@ Buy when: lot ≤ $8/knife with visible Case XX bone or Buck 110 pieces, or Case
 ## Field notes (learned in triage)
 - 2026-10-14: In Craigslist knife lots, the jigged-bone red and black stockmen with shields are where Case XX, Remington or Camillus can hide. Always ask for tang stamps before writing the lot off as Imperial, Kutmaster or Colonial.
 - 2026-10-14: Schrade Uncle Henry 153UH-pattern Bowie with Staglon handle and tooled sheath is the common version (~$40–50 sold-range); not a buy above ~$15.
+- 2026-10-14: Winchester "Limited Edition" tin 3-knife gift sets with perforated stainless handles are 2000s Blue Grass Cutlery-era production even when sellers say "made in USA, bygone era"; $25-50 class.
 
 ## Rubric
 ```json

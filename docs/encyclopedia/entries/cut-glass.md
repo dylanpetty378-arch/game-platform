@@ -63,6 +63,7 @@ Profit = median × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). Pressed
 
 ## Field notes (learned in triage)
 - 2026-10-13 (redo): an ABP late-floral pitcher (hobstar/crosshatch bands plus engraved daisies, notched applied handle) is ~$60-90 unsigned and $150-250 with an acid signature (Hawkes, Libbey, Clark). Sellers often mislabel it "Irish crystal". Check inside the base and the top of the handle.
+- 2026-10-14: Hawkes etched (not cut) comports on a sterling foot price at or below the signed-Hawkes-bowl sold median (~$60, p75 $150).
 
 ## Rubric
 ```json

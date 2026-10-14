@@ -81,6 +81,9 @@ Empty, valve open, hydro date, maker, display-only. For regulators: model, seria
 ## Buy rule
 Tanks alone fail profit math (heavy, ~$50-80 resale). Look for regulators.
 
+## Field notes (learned in triage)
+- 2026-10-14: "ADMIRAL" West Germany wrist depth gauge (0-100, black dial, knurled bezel, strap) - mass-market 1970s gauge; not a buy at $200.
+
 ## Rubric
 ```json
 {"size_class": "passenger-seat", "weight_lb": 30, "shape": "tall",

@@ -57,6 +57,9 @@ Photograph the base mark and date, both sides of the scene, the inside, and the 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$18 ship-out − ~$18 ship-in − price, and it must be ≥ max($50, price). In practice: Deldare and rare jugs only, perfect condition, priced ≤ ~35% of the sold median. Pass on any crack, chip or restoration, and on restaurant ware. Ask for a base-mark photo and a light-through photo for hairlines.
 
+## Field notes (learned in triage)
+- 2026-10-14: Holland multicolor pitcher with eagle + buffalo circle mark and year ("HOLLAND / BUFFALO 19xx / POTTERY") - glaze staining/crazing common; single sold comp $79.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 3, "shape": "round",

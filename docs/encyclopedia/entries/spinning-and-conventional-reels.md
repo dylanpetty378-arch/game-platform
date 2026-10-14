@@ -85,6 +85,7 @@ Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan
 ## Field notes (learned in triage)
 - 2026-10-13 (redo): blue 'Mitchell' box with white interior + spare spool/manual = 1960s Garcia era; look for the wire bail in the photo — full bail = $40-80 boxed, half-bail = $80-150
 - 2026-10-13 (triage): Wright & McGill Eagle Claw 125 with zip case sells ~$30 even "like new"; it is not a Mitchell 308/300 (the brown Mitchell 308 ultralight is the one that clears $60-100).
+- 2026-10-14: Ambassadeur "5000A" (A suffix, Garcia-branded box with red header card) = c.1970s, priced at the 1970s rung even when boxed with leather case and papers (~$130 max); the 1950s three-screw is the valuable one.
 
 ## Rubric
 ```json

@@ -84,6 +84,7 @@ Profit = sold median × 0.87 − ~$15 to buyer − ~$15 to Dylan − price; pass
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): 12 in seated bisque piano-baby PAIR (girl in wide blue bonnet pointing, boy in feathered hat holding fruit), pastel matte paint, soft modeling = late-20th-c Asian import, $20-35 pair; real Heubach needs incised sunburst/square mark and crisp hands/toes — confirmed again Oct 13.
+- 2026-10-14: 13in pastel matte bisque boy/girl pairs with gilt bases look German 1900-1930 (Heubach / Conta & Boehme type) but most are Japanese copies; base photo is the whole decision.
 
 ## Rubric
 ```json

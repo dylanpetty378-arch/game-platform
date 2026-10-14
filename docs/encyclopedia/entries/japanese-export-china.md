@@ -81,6 +81,7 @@ Profit = median × 0.87 − $13 − $13 − price ≥ max($50, price). A $10 tea
 
 ## Field notes (learned in triage)
 - 2026-10-13 (redo): 'Made in Japan' backstamp (post-1921) rules out the Nippon-era premium even when the decoration (flying geese, heavy gilt) copies Nippon.
+- 2026-10-14: Moriyama "MM" Mori-Machi mark is c.1915-1930s Japan, not "mid-1800s" as sellers claim; prices with Nippon moriage (sold median ~$62).
 
 ## Rubric
 ```json

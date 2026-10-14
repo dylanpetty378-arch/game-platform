@@ -89,6 +89,7 @@ Profit = median × 0.87 − ~$5 − ~$5 − price ≥ max($50, price). Base-meta
 
 ## Field notes (learned in triage)
 - 2026-10-13 (triage): Toshikane Japan porcelain Noh-mask (Okina, white brows and beard) cufflinks with sterling backs — $60-110 no comp; need a $20 buy to work.
+- 2026-10-14: St George & dragon "coin" cufflinks in grey base metal in costume lots are replicas, not sovereigns/crowns.
 
 ## Rubric
 ```json

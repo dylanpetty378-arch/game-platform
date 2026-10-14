@@ -1,26 +1,56 @@
 # Micro Machines and small toy car lots (Galoob Micro Machines, Hot Wheels, Matchbox, Tonka, fast-food premiums)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type)
+Updated: 2026-10-13 · deepened 2026-10-14 · Sources: general knowledge (first run; no Terapeak rows in db/comps.jsonl for this type); Wikipedia "Micro Machines" https://en.wikipedia.org/wiki/Micro_Machines ; Toy Tales "Galoob" (Hasbro purchase Sept 1998, $220M) https://toytales.ca/galoob/ ; eBay listings for Super Van City, Military and Hasbro Hot Rods (asking, type reference only) https://www.ebay.de/itm/126749085959 , https://www.ebay.de/itm/277386030949
 Slug: micro-machines · Aliases: micro machines lot, Galoob, tiny cars, mini cars lot, toy car lot, 80s 90s toy cars
 Summary: mixed small-car lots $15–50; true Galoob Micro Machines lots of 50+ $40–120; playsets (city/garage/briefcase cases) and sealed packs $40–250; rare Military/Star Trek/Star Wars sets higher (general knowledge, verify)
 Buy rule (short): buy only real Galoob Micro Machines (≈1.5", "GALOOB" + year on chassis) or playsets at ≤ $40 when the lot is 50+ pieces or includes playsets/sealed packs.
 
 ## What it is / how to recognise it in a photo
-Galoob Micro Machines (1986–1999, then Hasbro to ~2006, revived 2016 by Jazwares) are tiny (about 1–1.6 in) vehicles, usually with no moving wheels on the earliest ones, chunky simple shapes, chassis stamped "GALOOB ©19xx" and "China/Hong Kong". In a photo they look like a pile of thumbnail-sized cars; a hand or coin for scale is decisive. Anything the size of a Hot Wheels (~3 in) is not a Micro Machine. Playsets fold out of cases (briefcase, city, police station, Super Van City) and are often where the value is.
+Galoob Micro Machines are tiny vehicles, about 1–1.6 in long ("slightly larger than N scale"). The earliest ones usually have no moving wheels. Shapes are chunky and simple, and the chassis is stamped "GALOOB ©19xx" and "China/Hong Kong". In a photo they look like a pile of thumbnail-sized cars; a hand or coin for scale is decisive. Anything the size of a Hot Wheels (~3 in) is not a Micro Machine. Playsets fold out of cases (briefcase, city, police station, Super Van City) and are often where the value is.
+
+Dates (corrected): Wikipedia dates the Galoob line from 1987 (many collectors say 1986 for the first test packs). Hasbro bought Galoob in September 1998 (about $220M), and the basic line was largely discontinued after that; by 2006 the name survived only on Star Wars and Transformers "Titanium" diecast. There was a brief Hasbro revival in 2015–16 tied to Star Wars: The Force Awakens. The 2020 revival is Jazwares/Wicked Cool Toys with Hasbro, in stores from August 2020. The first entry said "Galoob to 1999" and "revived 2016 by Jazwares"; both are corrected here.
+
+TV ads featured fast-talker John Moschitta Jr. with the slogan "If it doesn't say Micro Machines, it's not the real thing!" Title words: "Galoob", "Micro Machines", "playset", "Super Van City", "Insiders", "Military", "Star Wars", "lot".
 
 ## Makers, brands and variants
-- **Galoob Micro Machines**: cars, military, Star Wars Action Fleet/Micro Machines Star Wars (1993–99), Star Trek, Babylon 5, Insiders, "Travel City" playsets.
-- **Hasbro** era (1999–2006): lighter plastic.
-- **Jazwares** revival (2020s): new, low value.
-- Look-alikes: Hot Wheels Speed Winds/"Hot Wheels Micro", Matchbox, Tonka "Turbo", Kinder/fast-food premiums (keychain loops on top = premium or keychain).
+- **Galoob Micro Machines** (1987–98): cars, military, Star Wars Action Fleet/Micro Machines Star Wars (1993–99), Star Trek, Babylon 5, Insiders, "Travel City" playsets. Also:
+  - Power Rangers, Men in Black, James Bond and Indiana Jones licences.
+  - Tuff Trax (TNT Motorsports monster trucks such as Grave Digger).
+  - Presidential Limousine series (1989: Truman's 1950 Lincoln Cosmopolitan bubble-top, Kennedy's Lincoln X-100, Carter's 1977 Lincoln).
+  - Color-changers and "Private Eyes" (vehicles that open to show an illustration of their contents).
+  - Insiders (a smaller car hinged inside a bigger one).
+  - Super Van City (1991, a fold-out van playset) and 1990s transforming playsets (a toolbox, a head or a case that opens into a city).
+- **Hasbro** era (1999–2006): lighter plastic. Lines include Winner's Circle NASCAR, G.I. Joe, Hot Rods (sealed 1999 Hasbro Hot Rods packs appear at high asking prices), and the 3-in Titanium series.
+- **Jazwares / Wicked Cool Toys** revival (2020s): Muscle Cars, Farm, Racing, Construction, Off-Road and an updated Super Van City. New and low value.
+- **Look-alikes**: Hot Wheels Speed Winds/"Hot Wheels Micro", Matchbox, Tonka "Turbo", and Kinder/fast-food premiums (a keychain loop on top means a premium or keychain).
+
+### Quick ID checklist
+- Scale: about 1.5 in, roughly a thumbnail or a quarter-and-a-half. A Hot Wheels-size car (~3 in) means "not Micro Machines".
+- Underside photo: "GALOOB" plus a year (1980s–90s) vs "Hasbro" (1999+) vs "Jazwares"/"WCT" (2020+), or no marks (knock-off).
+- Licensed pieces: Star Wars, Star Trek, Babylon 5, James Bond, Indiana Jones, military.
+- Playset cases: Super Van City, briefcase or toolbox cities; check the hinges and the small accessories.
+- Sealed packs: unopened blister cards with the Galoob logo, and the series number on the card.
+- Keychain loops or sticker graphics mean fast-food premiums.
+- Count the genuine Galoob pieces vs filler.
+
+### Golden-egg tells
+- **Complete Galoob playsets (Super Van City 1991, transforming city cases, military bases)**: $40–150 complete vs $15–50 for a junk lot, about 2–5× (existing entry). Photo tell: a fold-out case, intact hinges, accessories present.
+- **Sealed Galoob packs and sealed Star Wars/Star Trek sets**: $50–250+ (existing entry; the Terapeak median for sealed Star Wars is $21.26 per pack, p75 $36.46). Photo tell: an unopened blister and an uncreased card.
+- **Military line and Military Super Van City**: in the "rare" tier with Star Wars/Trek (existing entry; verify). Photo tell: olive drab tanks, jets and missile launchers with Galoob bases.
+- **Presidential Limousines (1989) and Insiders**: a premium over generic cars (no $ cited; verify). Photo tell: a bubble-top Lincoln or presidential flags; a hinged car with a small car inside.
+- **Hasbro 1999 Hot Rods sealed packs**: seen at high asking prices (one listing about €228 asking; not a sold comp, verify). Photo tell: Hasbro-branded card, "Hot Rods Collection" and a series number.
+- **Large genuine Galoob lots (50–100+ pieces)**: $40–120 vs $15–50 for mixed lots. Photo tell: a uniform tiny scale; undersides show GALOOB.
 
 ## Materials, finishes and quality tells
-Galoob: die-cast-feel plastic or metal bodies, crisp tampo printing. Premiums/keychains: lighter plastic, sticker graphics, keyring loops.
+- **Galoob**: die-cast-feel plastic or metal bodies, crisp tampo printing.
+- **Premiums and keychains**: lighter plastic, sticker graphics, keyring loops.
+- **Hasbro-era pieces**: lighter, with simpler paint.
+- **Jazwares pieces**: modern, glossy, often with rolling wheels and a dated recent copyright.
 
 ## Condition, damage and repairs
-Paint wear, missing parts on playsets, broken hinges on cases. Playset completeness drives price.
+Paint wear, missing parts on playsets, broken hinges on cases. Playset completeness drives price. Yellowed or cracked blister bubbles on sealed packs reduce value.
 
 ## Fakes, reproductions and reissues
-Jazwares reissues; knock-off "mini cars" from China without Galoob marks.
+Jazwares reissues; knock-off "mini cars" from China without Galoob marks; 2015–16 Hasbro Star Wars sets mistaken for 1990s Galoob.
 
 ## Value ladder (sold prices, not asking)
 | Tier | Examples | Typical sold price | Notes |
@@ -35,7 +65,7 @@ None gathered this run; numbers are estimates (general knowledge, verify).
 - 2026-10-13 – Terapeak 365d sold, query "Micro Machines Star Wars sealed": n=50, median $21.26, p25 $17.99, p75 $36.46
 
 ## Market
-Nostalgia-driven 80s–90s kids; steady. Lots sell in 1–3 weeks at the right price.
+Nostalgia-driven buyers who were 80s–90s kids; steady. Lots sell in 1–3 weeks at the right price.
 
 ## What sellers usually miss
 Playsets stored in a closet, and Star Wars Micro Machines mixed into generic lots.
@@ -44,7 +74,9 @@ Playsets stored in a closet, and Star Wars Micro Machines mixed into generic lot
 Lot of 40 in a padded box: 2–3 lb, ~$10–15.
 
 ## Selling it (for the buyer-facing listing)
-Photograph undersides with "GALOOB" marks, count pieces, call out licensed pieces.
+Photograph the undersides with the "GALOOB" marks, count the pieces, and call out licensed pieces.
+### What to tell the buyer
+Give the exact piece count, and how many are confirmed Galoob by chassis stamp (with year range), Hasbro-era or unmarked. Name every licensed or special line present (Star Wars, Star Trek, Military, Insiders, Presidential Limousines). For playsets, give the name, year and what is complete or missing, and the hinge condition. For sealed packs, give the series and any card or bubble wear. Use a coin in the photos for scale.
 
 ## Buy rule
 Profit = median × 0.87 − $12 − $12 − price ≥ max($50, price). A $50 mixed lot needs ≥ $130 resale — only real Galoob + playsets reach that. Never buy a lot whose photo shows Hot Wheels-size cars.

@@ -72,6 +72,9 @@ Face and backstamp photos, maker, date or date code, size, chips/hairlines (chec
 ## Buy rule
 Profit = sold × 0.87 − $10 − $10 − price ≥ max($50, price). Beef-extract mugs and calendar plates at $20–50 sold can't clear $50 profit singly — lots only at ≤ $5 per piece. Top-marked railroad china: buy ≤ $25 when sold median ≥ $100. Old Sleepy Eye: only with clear photos of the marks and body, ≤ $40. Kill racist imagery (policy). Fits easily.
 
+## Field notes (learned in triage)
+- 2026-10-14: "We're Satisfied Only When You Are / D. T. Graves, Marysville, Ind." backstamp = early-1900s merchant giveaway on common transfer-printed semi-porcelain; local-interest only (~$20-30), not a pottery maker.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1, "shape": "round",

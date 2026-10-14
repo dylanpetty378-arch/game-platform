@@ -68,6 +68,9 @@ Height and base diameter, weight, every mark, base photo, enamel/pottery conditi
 ## Buy rule
 Profit = sold × 0.87 − $20 − $20 − price ≥ max($50, price). Reproductions: kill (also a misrepresentation risk). Genuine low-profile railroad-marked: buy ≤ $40–60 when photos show initials and form clearly (resale $150+). Unmarked weighted brass and plain stoneware: pass unless ≤ $15. Decorated stoneware: ≤ $40. Anything needing re-plating or crack repair: pass.
 
+## Field notes (learned in triage)
+- 2026-10-14: 7x7in flared-rim brass spittoon with a plain unstamped base (photo 3) = unmarked generic; no RR/hotel value without a base stamp.
+
 ## Rubric
 ```json
 {"size_class": "carry-on", "weight_lb": 6, "shape": "round",

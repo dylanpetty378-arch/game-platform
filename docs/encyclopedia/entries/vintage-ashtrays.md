@@ -81,6 +81,9 @@ Ceramic and glass ashtrays are 0.5–3 lb. Double-box with 2" of padding: $10–
 ## Buy rule
 Profit = sold median × 0.87 − shipping to buyer (~$12) − shipping to Dylan (~$12) − price, and it must be ≥ max($50, price). That needs a resale of at least about $100 even on a $10 buy, which means the target is a designer or signed piece: Higgins, Fornasetti, Bitossi Rimini Blu, Lalique, Baccarat, large Sommerso Murano, bronze figural, or a 1950s famous-club or Vegas strip piece in a lot. Buy at ≤ 25% of estimated sold value when the signature or mark is visible or the form is unmistakable. Pass on lots of common ceramic and glass, onyx and alabaster, Snuf-A-Rette and Shawnee at seller "antique" prices. No authentication service needed, but ask for a base or mark photo before paying anything over $20.
 
+## Field notes (learned in triage)
+- 2026-10-14: German mid-century brass stacking ashtray sets with ancient Greek coin reliefs (owl, bee, crab, bull; "v. Chr." dates) on a hanging holder - decorative, no sold comp seen; well under $100.
+
 ## Rubric
 ```json
 {"size_class": "shoebox", "weight_lb": 1.5, "shape": "flat",

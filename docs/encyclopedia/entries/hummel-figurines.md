@@ -70,6 +70,7 @@ Profit = median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($5
 - 2026-10-13 (triage): Wall plaques #92 Merry Wanderer and #93 Little Fiddler sell $20-40 each regardless of era unless TMK-1 crown / TMK-2 full bee; comps crown-mark median $65.
 - 2026-10-13 (triage): "BH"-numbered figures (e.g. BH 82, BH 3, BH 53, 1996–99) marked Thailand are "Berta Hummel" Goebel-licensed resin/porcelain, not M.I. Hummel Goebel pieces — $5–15 each; sellers lump them in with TMK-marked Goebels.
 - 2026-10-14: blue "Goebel W.Germany" script with no bee = TMK-6 (1979-90); Hello 124/0 in TMK-6 sells ~$20.
+- 2026-10-14: Base mark "Goebel" script + "Germany" (no "W."), as on Trumpet Boy #97, is TMK-7 (1991-99): $10-25 tier.
 
 ## Rubric
 ```json

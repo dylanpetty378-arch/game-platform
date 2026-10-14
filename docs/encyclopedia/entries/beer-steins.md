@@ -69,6 +69,7 @@ Buy when: a Mettlach castle mark or a lithophane regimental is visible and the p
 ## Field notes (learned in triage)
 - 2026-10-14: Regimental lithophane steins with a crisp printed scene, red rope bands, a figural soldier finial and a dated unit (for example Infanterie Rgt 11 München 1903/05) are usually postwar reproductions. Comp: regimental lithophane sold median $98, so pass any of them above about $60.
 - 2026-10-14: A relief stoneware 2 L stein labelled "Catalog No. 889" (Beham peasant-dance frieze, master stein to No. 351) is a modern collector stein. Sellers quote catalog prices of $90-175, which are not sold prices.
+- 2026-10-14: lustre-glazed foot ring + relief tavern/watchman scene + tower-shaped figural lid ("hat ihre Zeit") = 1960s-80s West German souvenir steins, ~$15-30 each; not Mettlach etched.
 
 ## Rubric
 ```json

@@ -70,6 +70,7 @@ Profit = sold median × 0.87 − ship to buyer (~$15) − ship to Dylan (~$15) �
 - 2026-10-13 (redo): Bareuther Waldsassen (crown-over-W mark, Bavaria Germany, 1960s-80s) Meissen-style scattered-flower giftware is $10-20 a piece
 - 2026-10-13 (triage): Green backstamps on decal-rose chocolate pots are RS Germany / Bavaria era (post-1910) — only the RED wreath-and-star RS Prussia mark carries the $100-400 money; ask for a sharp photo of the mark before paying over $30.
 - 2026-10-14: A painter's name on the side (e.g. "M. Ross / Leroy") with no printed Pickard/Stouffer backstamp means amateur/independent decoration even when the seller titles it "Pickard".
+- 2026-10-14: an "RS Prussia" piece the seller calls unmarked has no red wreath-and-star mark — price as unattributed German blank (~$20-30).
 
 ## Rubric
 ```json

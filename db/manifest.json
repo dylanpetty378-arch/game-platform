@@ -1,5 +1,5 @@
 {
-"made": "2026-10-14T00:50:02Z",
+"made": "2026-10-14T03:46:57Z",
 "files": [
 {
 "path": "db/comps.jsonl",
@@ -7,7 +7,7 @@
 },
 {
 "path": "db/events/2026-10.jsonl",
-"sha": "a61844bce09f8b914820fffdc6101309fd34d820"
+"sha": "514aacb572d02269fece00b9ad2a4f64f27beaf6"
 },
 {
 "path": "db/harvests.jsonl",
@@ -15,7 +15,7 @@
 },
 {
 "path": "db/item_types.jsonl",
-"sha": "2ba11d9e1705323a7bde06fce3e5e9d5273388d5"
+"sha": "b40b9182258e744327f226c1e88dff32cd9af9d0"
 },
 {
 "path": "db/lens/2026-10.jsonl",
@@ -53,7 +53,7 @@
 },
 {
 "slug": "advertising-china",
-"sha": "2d4a8f7ddd383d8ab3305beff8565941ae7246f1"
+"sha": "7c10d219fc058e30885c9dd5cd65da088724fa47"
 },
 {
 "slug": "advertising-collectibles-coca-cola",
@@ -93,7 +93,7 @@
 },
 {
 "slug": "akro-agate-glass",
-"sha": "1733464c10e4d8e179a5c6a3d833aa1b13cd3bfb"
+"sha": "e1a5e6b9d2227867ebccddf8de0b7de1cd678deb"
 },
 {
 "slug": "aluminum-serving-ware",
@@ -113,7 +113,7 @@
 },
 {
 "slug": "american-pocket-watches",
-"sha": "ce8d551fbb06af5aae4922c652104c173503caec"
+"sha": "36b9abb980a48d0e00048581fc85e398f5329de2"
 },
 {
 "slug": "american-shelf-clocks",
@@ -133,7 +133,7 @@
 },
 {
 "slug": "anri-woodcarvings",
-"sha": "f7370e88bbf29ee7a6df538673927311685c69ef"
+"sha": "d5848fde6496c43fc2ccb3b448734d9b2742f9c4"
 },
 {
 "slug": "antique-baskets",
@@ -357,7 +357,7 @@
 },
 {
 "slug": "beaded-fruit-decor",
-"sha": "8e21148a3b0e9d267397970a540a391b7b231923"
+"sha": "2a4ed606409590671ac8e435844358e92a90c6fb"
 },
 {
 "slug": "beaded-jewelry",
@@ -373,7 +373,7 @@
 },
 {
 "slug": "beer-steins",
-"sha": "b2b40ebfaa137deb1af41bb9a4e4e59e132df1de"
+"sha": "8978d32f8af85984cc249874e2c96ca82f227c92"
 },
 {
 "slug": "belt-buckles",
@@ -409,7 +409,7 @@
 },
 {
 "slug": "blue-mountain-pottery",
-"sha": "a7b23777a1702bf08dca3fb7a29c3baa776d0197"
+"sha": "03bb182bf2ed2d066be103b2d20d69e7b520b651"
 },
 {
 "slug": "blue-willow-china",
@@ -441,7 +441,7 @@
 },
 {
 "slug": "bossons-chalkware-heads",
-"sha": "7b27326de74ed9bcc7ead042d10dece2ef16cfe8"
+"sha": "60783e7774183f1ee2501153728c3032f8d6f651"
 },
 {
 "slug": "bottle-cappers-and-corkers",
@@ -481,11 +481,11 @@
 },
 {
 "slug": "buffalo-pottery",
-"sha": "49194f7c233130386617d66446f94ef939314a3b"
+"sha": "290a0d8d5215c1fe5b14714fbfa96ec36a18659d"
 },
 {
 "slug": "byers-carolers",
-"sha": "998b021ff408c9ac535f55f0ca6509c2101155ef"
+"sha": "49824a9d89ef9fb5abb50def725217682e490861"
 },
 {
 "slug": "california-art-pottery",
@@ -573,7 +573,7 @@
 },
 {
 "slug": "ceramic-christmas-trees",
-"sha": "0a4ee957ba548dd7de24f360ed13c7b4e57cd926"
+"sha": "8728299ff9ddf85182edc66a680f0e940ed3f06c"
 },
 {
 "slug": "character-mugs",
@@ -585,7 +585,7 @@
 },
 {
 "slug": "check-writers",
-"sha": "eb0f10e5b623c7619ae0171f83e4d127a1b42b51"
+"sha": "34d188c746b1019752807926771123db2fd5c050"
 },
 {
 "slug": "chess-sets",
@@ -613,7 +613,7 @@
 },
 {
 "slug": "chinese-export-porcelain",
-"sha": "40355fb6e7110fd2736243f90631eab04b8d03f4"
+"sha": "f54455d211507ca0f9414a8fd179dbf3f9713208"
 },
 {
 "slug": "chinese-export-silver",
@@ -646,6 +646,10 @@
 {
 "slug": "chinese-wooden-tubs",
 "sha": "67e5035118397fdbdea82573474bb8df81deedc1"
+},
+{
+"slug": "chocolate-molds",
+"sha": "369cac8b96697ef1191516fd8eb62f453a19197f"
 },
 {
 "slug": "christmas-dinnerware",
@@ -729,7 +733,7 @@
 },
 {
 "slug": "cordey-porcelain",
-"sha": "7acc18ec6e0bcb2f68eada2a5c2c2cde4ab4c612"
+"sha": "c2e8de52e712acf30a6ee64b54b997538df7b4e6"
 },
 {
 "slug": "cordless-power-tools",
@@ -741,7 +745,7 @@
 },
 {
 "slug": "costume-jewelry-lots",
-"sha": "fdd76b69f097638aeffd02d9111a2d306be12702"
+"sha": "feb165cf1c5f17f0a61eac020f906d8f7696edee"
 },
 {
 "slug": "craftsman-hand-tools",
@@ -749,7 +753,7 @@
 },
 {
 "slug": "crosscut-logging-saws",
-"sha": "acac9776bd9192088ca2a5873914281638f34894"
+"sha": "d85ee92aaaf74a5f33a2b598fff21f5e6f6a93c1"
 },
 {
 "slug": "crystal-animal-figurines",
@@ -769,15 +773,15 @@
 },
 {
 "slug": "crystal-hurricane-lamps",
-"sha": "27789bbdfbfc6dacb81e3f42d9444752e931fb88"
+"sha": "f75f2be9764f99106a9d4f551cfeb3d75b1b160f"
 },
 {
 "slug": "cuboro-marble-runs",
-"sha": "4e96ba925eadd6895929e06f1638ef02c91bb9cc"
+"sha": "1376950f8355abe5b6bea30e4994f2cd58f316b1"
 },
 {
 "slug": "cufflinks",
-"sha": "5171abead7ec1e53d575db965707507469270aa2"
+"sha": "141ae663ab0a440b53e2dae38a198c78adedbae6"
 },
 {
 "slug": "curtis-jere-metal-wall-art",
@@ -785,7 +789,7 @@
 },
 {
 "slug": "cut-glass",
-"sha": "a35a612029b1ff9917a91481b49487e6852cd898"
+"sha": "d6fa44cc645e2964855d067f7c96d3158c36b5e8"
 },
 {
 "slug": "danish-bronzes",
@@ -940,16 +944,24 @@
 "sha": "742efbcee7024d8c6fdbc56db3470ee017eda11c"
 },
 {
+"slug": "eye-wash-cups",
+"sha": "adf27befcd027db083839d32c610f6f8e480f9ae"
+},
+{
+"slug": "farm-implement-wrenches",
+"sha": "fad60610ab0770a9b570bda79e9272e9a3358891"
+},
+{
 "slug": "fashion-watch-lots",
 "sha": "d1aec28834c0e710f0e51025602c791f86356a3c"
 },
 {
 "slug": "fat-lava-pottery",
-"sha": "af1a962a30732e8241c2f241d9a17a39139000b2"
+"sha": "6c95bf9a54db08417d2dea138698e89379955dea"
 },
 {
 "slug": "felt-souvenir-pennants",
-"sha": "3561afc3fefbe5dc1e4e6e945cce4d115da05d0d"
+"sha": "9036e51aedf0747bef283c6898b8b08b945b6817"
 },
 {
 "slug": "fenton-art-glass",
@@ -1017,7 +1029,7 @@
 },
 {
 "slug": "franklin-mint-collectibles",
-"sha": "5758a0ff62351fa2471476419b49a2e19fc07ded"
+"sha": "4432e24dcac918d43582e1e02994896578a06d77"
 },
 {
 "slug": "frankoma-pottery",
@@ -1037,7 +1049,7 @@
 },
 {
 "slug": "fused-glass-art",
-"sha": "c5c70cbcd3576d8370358f1b62cddaecaba10715"
+"sha": "35d7d2114a97d2b71eabfafabc6f8cf0db90e552"
 },
 {
 "slug": "galvanized-watering-cans",
@@ -1109,7 +1121,7 @@
 },
 {
 "slug": "hand-painted-porcelain",
-"sha": "f2247477d687f6af2a6f77e5b374524061883e0a"
+"sha": "e94327750ceffd70712736fd2e1f21fc9d8255d3"
 },
 {
 "slug": "hand-planes",
@@ -1161,11 +1173,11 @@
 },
 {
 "slug": "hull-pottery",
-"sha": "f958253b26e52294937dba7d2b93c7f9329cedc5"
+"sha": "f988f3eca545f754a358afeae3c5f39c2d48f2d8"
 },
 {
 "slug": "hummel-figurines",
-"sha": "38e330a8c7a3f0b6149163f5199ffd4b631fd176"
+"sha": "ef8161ab1e4dde25e9e12004f30949d99629108c"
 },
 {
 "slug": "ice-cream-makers",
@@ -1178,6 +1190,10 @@
 {
 "slug": "indian-textile-boxes",
 "sha": "ea23a8aaff2e566be7d9e5bddae8e3c7bfe133e3"
+},
+{
+"slug": "industrial-pressure-gauges",
+"sha": "dbb5095447a7d6c0125f416b6f284e05e61a8293"
 },
 {
 "slug": "islamic-metalwork",
@@ -1201,7 +1217,7 @@
 },
 {
 "slug": "japanese-export-china",
-"sha": "2552394a13a7e95288c0d63c314d6a3cc06cf5a6"
+"sha": "8a85e7b76374fd18088c4bcbb2109c74527431aa"
 },
 {
 "slug": "japanese-porcelain-figurines",
@@ -1257,7 +1273,7 @@
 },
 {
 "slug": "laser-tag-toys",
-"sha": "df578fa6c0fa2e7dbb83a926b96d52c3f193f01e"
+"sha": "d0e8cb544673be63543a218fb8b5941f859dcba4"
 },
 {
 "slug": "latin-american-folk-art",
@@ -1317,7 +1333,7 @@
 },
 {
 "slug": "madame-alexander-dolls",
-"sha": "5a72470d3cf348f9b61755d926016d36e97ad056"
+"sha": "654bca53bc989a68e7a590143c7551d039ad39fb"
 },
 {
 "slug": "mahjong-sets",
@@ -1337,7 +1353,7 @@
 },
 {
 "slug": "map-measurers",
-"sha": "dabc8bfe029864222cbf5feb02e03263f7d6771b"
+"sha": "e1ef076f2727b8b7d9e21942f5110cdb3e9ee18e"
 },
 {
 "slug": "marine-navigation-lights",
@@ -1361,7 +1377,7 @@
 },
 {
 "slug": "mens-formal-accessories",
-"sha": "7cbe80b515eb5a65b79a61bf8fa83aca740fca4b"
+"sha": "5c8aa09e6eae27222347fe10ec1f0c39a7531f0e"
 },
 {
 "slug": "metal-lunch-boxes",
@@ -1369,7 +1385,7 @@
 },
 {
 "slug": "metronomes",
-"sha": "719f17fda2cd53c8628f6e38626f363802548113"
+"sha": "46748cd2ae4afef7ed73170158037a11174ae8bb"
 },
 {
 "slug": "mexican-silver",
@@ -1377,7 +1393,7 @@
 },
 {
 "slug": "micro-machines",
-"sha": "c723efbb8233aa4b205bf8fbba9e09022edfb151"
+"sha": "1b2180fa44956726119c8470fbf5f2531ac666f5"
 },
 {
 "slug": "middle-eastern-daggers",
@@ -1464,8 +1480,12 @@
 "sha": "da8a7b44c949d129e40783044eacc1256bc90eca"
 },
 {
+"slug": "nancy-ann-storybook-dolls",
+"sha": "3c87eb24108d5db60c2cc8e595e4b578a0995d59"
+},
+{
 "slug": "native-american-turquoise-jewelry",
-"sha": "a45f1f757a2b7b612ff6bc5b0cc68e4bec24cc80"
+"sha": "e4918c258c6dec807c91f262c7c93e0e96fbf993"
 },
 {
 "slug": "navajo-squash-blossom-necklaces",
@@ -1477,7 +1497,7 @@
 },
 {
 "slug": "nemadji-pottery",
-"sha": "89dec812bb0c65b68d0acc98a1f5eb7a53b36486"
+"sha": "319e32bfca430685c49a461ffc1535b0148178cb"
 },
 {
 "slug": "nikon-f-series-film-slrs",
@@ -1489,7 +1509,7 @@
 },
 {
 "slug": "non-sports-trading-cards",
-"sha": "09a3437be046a8163eef2cf2e9fc981b53a7e849"
+"sha": "20fb29e56985e8b1bb5246377c2c438c1e40ea84"
 },
 {
 "slug": "norman-rockwell-collectibles",
@@ -1529,7 +1549,7 @@
 },
 {
 "slug": "paper-ephemera",
-"sha": "bfe1d8ad4ddeb2990e14a492191739dc0c3d6fe9"
+"sha": "e34efcf70871a4a614ec6fa65d24979005bcae4d"
 },
 {
 "slug": "parking-meters",
@@ -1557,7 +1577,7 @@
 },
 {
 "slug": "photography-studio-gear",
-"sha": "068f6c675d8fb59f74b7c864c3dc637c908f537a"
+"sha": "ce5717abe84576a58410c8352982d68b0addc6fc"
 },
 {
 "slug": "pioneer-cdj-decks",
@@ -1577,7 +1597,7 @@
 },
 {
 "slug": "pocket-knife-lots",
-"sha": "b2255512720afc4fe2b7109f93596cccfb4eee12"
+"sha": "16e7decc36d4813c7b3d0373c9c1364db0328535"
 },
 {
 "slug": "pocket-transits",
@@ -1601,7 +1621,7 @@
 },
 {
 "slug": "porcelain-figurines",
-"sha": "6c408ff3d238770d81e76f2952a57667f4cd4764"
+"sha": "1837460744a98b9d5575f04a1405e86f1a0c2c1c"
 },
 {
 "slug": "porcelain-trinket-boxes",
@@ -1617,7 +1637,7 @@
 },
 {
 "slug": "power-tool-accessories",
-"sha": "8331831cb2b811b223ed7f151185e54ce43dd1c3"
+"sha": "ae025687e7b2699336d3e1fdaf1ea1fa226e9221"
 },
 {
 "slug": "precision-measuring-tools",
@@ -1637,7 +1657,7 @@
 },
 {
 "slug": "primitive-farm-tools",
-"sha": "6f7b16bca61ac6ec64cd8a4b03e0747e30ea5dba"
+"sha": "655c400dce8010871eda7a73d507d6679a57e94f"
 },
 {
 "slug": "primitive-kitchen-tools",
@@ -1661,7 +1681,7 @@
 },
 {
 "slug": "racing-memorabilia",
-"sha": "fa8f5eda377bf43e4a2910852e568bf53ec855a9"
+"sha": "dd25a1caa649c42d3098c483e00df387dd4c0e47"
 },
 {
 "slug": "railroad-lanterns",
@@ -1669,7 +1689,7 @@
 },
 {
 "slug": "railroad-spittoons",
-"sha": "dcb63465d8e8f82e9e059a044cfc0dc1889f7681"
+"sha": "3ef10f585f9c193a8a7abf3ea9ad2e458f46861b"
 },
 {
 "slug": "railroadiana",
@@ -1689,7 +1709,7 @@
 },
 {
 "slug": "reel-to-reel-tapes",
-"sha": "09bcc33b33252db237bd4682341e4fabb0a94520"
+"sha": "b4761c158963eec2887a44fb037c6862a72f5e9b"
 },
 {
 "slug": "religious-crucifixes",
@@ -1709,15 +1729,15 @@
 },
 {
 "slug": "resin-dog-statues",
-"sha": "99882a47ca7d9e23824cd6e92bc3b26d5070e891"
+"sha": "5d5ab246c724da7d4124b6df05e48a073c4e0fe1"
 },
 {
 "slug": "rifle-scopes",
-"sha": "3e67aa7999f9c2a81ce54c22ebee93a56704b38d"
+"sha": "f4f555c7d8239e05a1fab36c410b4250f68c7e77"
 },
 {
 "slug": "road-flare-reflectors",
-"sha": "a0b024ac86b8f7ad5356555d3de842ed089833b5"
+"sha": "1a0f7f71ff44815f73e4cb858a8fd314ca4eea90"
 },
 {
 "slug": "rookwood-pottery",
@@ -1781,7 +1801,7 @@
 },
 {
 "slug": "schramberg-smf-pottery",
-"sha": "b5f493948a2bc3cc84ba6f0be236eb7b4438de61"
+"sha": "eaa3d05e4d6dfd71dbc6e6237dde46bfed053906"
 },
 {
 "slug": "schwinn-bicycle-parts",
@@ -1789,7 +1809,7 @@
 },
 {
 "slug": "scuba-gear",
-"sha": "e737ab52557e097cbb550d4156d88a930a840d89"
+"sha": "2b7019fc9e04cbd8509e143043e55ce5370ec054"
 },
 {
 "slug": "seashells-and-natural-specimens",
@@ -1853,7 +1873,7 @@
 },
 {
 "slug": "slag-glass-mirrors",
-"sha": "19ef57d6bc89b560dc8ab7147663125916090aaa"
+"sha": "1fde433e121409aa7d4900437b92a17601ce3b66"
 },
 {
 "slug": "snap-on-tools",
@@ -1869,7 +1889,7 @@
 },
 {
 "slug": "soldering-irons",
-"sha": "ca2127d7e9f511e3140a2b275c050c4344e3729d"
+"sha": "8f652da2defbe7a80242692ff3a44efde5ec3ac4"
 },
 {
 "slug": "solid-state-guitar-amps",
@@ -1877,7 +1897,7 @@
 },
 {
 "slug": "sombreros",
-"sha": "8b422c1960a6ef3d63b5e5a3189aafb3276e9172"
+"sha": "812be2399a15fd4c11a9f9cc68d2e0572e81f90b"
 },
 {
 "slug": "souvenir-spoons",
@@ -1885,11 +1905,11 @@
 },
 {
 "slug": "spinning-and-conventional-reels",
-"sha": "390527e2fc14f449a14d60a63c01a56e1dd4e2e1"
+"sha": "410ea15877c61593a15ab9758e6abd4bbf078659"
 },
 {
 "slug": "spinning-reels-vintage",
-"sha": "4dbb097d8f66446c0fd7f6171ef7060c61324ea0"
+"sha": "0731594fc462f0890734a97f5741c9e0514f160a"
 },
 {
 "slug": "spongeware-and-spatterware",
@@ -1905,7 +1925,7 @@
 },
 {
 "slug": "sports-memorabilia",
-"sha": "6a5ddf0859698cb8af847a10e8007bc0be21b148"
+"sha": "746e4cdf64fa305789c98a6101f90aa88d8c5549"
 },
 {
 "slug": "spring-rocking-horses",
@@ -1921,7 +1941,7 @@
 },
 {
 "slug": "sterling-candlesticks",
-"sha": "ce3fa08b4a07514bef8fe1d32ba9315342b51eaf"
+"sha": "e1a9da0147b5b71752d388e39ff2d1239a64b79c"
 },
 {
 "slug": "sterling-silver-jewelry",
@@ -1949,7 +1969,7 @@
 },
 {
 "slug": "stressless-recliners",
-"sha": "f315e31712589a1ad19fccc148bc7a506aa11bb1"
+"sha": "f32e12ef62e00890b925bac854cf6abfb43da615"
 },
 {
 "slug": "studio-pottery",
@@ -1965,7 +1985,7 @@
 },
 {
 "slug": "tantalus-decanter-sets",
-"sha": "55aea212f1060e8af43fa63a57456d439ecf7cdd"
+"sha": "6ad972866f540aeb5f5954afd0d30547fd140268"
 },
 {
 "slug": "tattoo-equipment",
@@ -2001,7 +2021,7 @@
 },
 {
 "slug": "tin-robot-toys",
-"sha": "09e1e728575d524d79d830600a7cb246d7e92ca6"
+"sha": "3cea5b3c83dc10dfad21e770980949b6b25ef49a"
 },
 {
 "slug": "tin-wind-up-and-battery-toys",
@@ -2045,7 +2065,7 @@
 },
 {
 "slug": "transit-tokens",
-"sha": "d3660228c07022c81f8923279ceaa2356c69c451"
+"sha": "156b479003fdfec29f60da851046da012f83d23b"
 },
 {
 "slug": "tribal-area-rugs",
@@ -2105,15 +2125,15 @@
 },
 {
 "slug": "vintage-ashtrays",
-"sha": "954344875c8a1aaa61cb6ac91b117180a001dd5a"
+"sha": "264d137c9e30cb732d74c0d94255d68c58db8bc4"
 },
 {
 "slug": "vintage-axes",
-"sha": "b00bea695b9a3c4215303fdb680c38abee64ee06"
+"sha": "fc3665a83de4e5d1cd0a468c046b9605138c1d83"
 },
 {
 "slug": "vintage-barbie-playsets",
-"sha": "7bb2a0f976e36e19c8070ed384af51bc7c83dca5"
+"sha": "19521d9a6ead74c3d5d9def2b8c33e435fec659a"
 },
 {
 "slug": "vintage-bicycle-parts",
@@ -2200,6 +2220,10 @@
 "sha": "c5320dbac76bb21ff4076d1e9d8a42f7bbc4ff7d"
 },
 {
+"slug": "vintage-football-helmets",
+"sha": "ed839b25ed068dac7075144b2ce17c071235e151"
+},
+{
 "slug": "vintage-fountain-pens",
 "sha": "f9ea3f42fe2b33b83d20830659a3d0cc60e8aec6"
 },
@@ -2269,7 +2293,7 @@
 },
 {
 "slug": "vintage-minnow-buckets",
-"sha": "8e00caa9376caf7a0f13838dfd1595b7a1d81625"
+"sha": "9b7e3fa27b82c4de53d89c023e5f7da3720bbae9"
 },
 {
 "slug": "vintage-nerf-toys",
@@ -2305,7 +2329,7 @@
 },
 {
 "slug": "vintage-postcards",
-"sha": "076271f7e1fdef71cf498fb48ffcf1e20669c94a"
+"sha": "2e7184ff841bb3441af90e79aec96afc74376342"
 },
 {
 "slug": "vintage-power-tools",
@@ -2337,7 +2361,7 @@
 },
 {
 "slug": "vintage-shaving-brushes",
-"sha": "352a8917667bfc1087bb59116ba69f2204c3f19e"
+"sha": "3398478ccff671748d2bc5b713be25c04eccaa8e"
 },
 {
 "slug": "vintage-skateboards",
@@ -2377,7 +2401,7 @@
 },
 {
 "slug": "vintage-tennis-ball-cans",
-"sha": "a3b643c0f18e17410ee7701f86fdadb35746188d"
+"sha": "276edd2743474adf3a5fad2c79262a95a0e9241f"
 },
 {
 "slug": "vintage-test-equipment",
@@ -2389,7 +2413,7 @@
 },
 {
 "slug": "vintage-tool-bags",
-"sha": "a213f78835d231321cebf19ded1485575bcc0918"
+"sha": "e9b9cd9134ca8be8109f14a8451873a727e2ffed"
 },
 {
 "slug": "vintage-tote-bags",
@@ -2397,7 +2421,7 @@
 },
 {
 "slug": "vintage-toy-luggage",
-"sha": "58fa22ef2c516e48d8af6695c65cb94a16976703"
+"sha": "94b0d23e1399d8da946b82d5dd8b92ece297295a"
 },
 {
 "slug": "vintage-tracing-stencils",
@@ -2481,7 +2505,7 @@
 },
 {
 "slug": "wedgwood-jasperware",
-"sha": "2c26a3702b04da218d2ecf854168c779a043b88d"
+"sha": "ecf216202e43b44018a5bf68e683e09d3a144b7c"
 },
 {
 "slug": "weltron-radios",
@@ -2490,6 +2514,10 @@
 {
 "slug": "west-point-cadet-uniforms",
 "sha": "78d2d6d73f9ceba6d188c15843dd06978a852238"
+},
+{
+"slug": "western-hats",
+"sha": "200b8547c51f0413ca51a70b580061e8c00a36c6"
 },
 {
 "slug": "whiskey-decanters",
@@ -2505,7 +2533,7 @@
 },
 {
 "slug": "wire-baskets",
-"sha": "58c92b0998475cb012f90b83b0f8d8f65b8cc1ed"
+"sha": "36f48fa98f9b48f5364b34984a6890775dcfd3e0"
 },
 {
 "slug": "wood-cased-telephones",
