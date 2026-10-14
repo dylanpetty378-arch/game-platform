@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:41:45Z",
+ "updated": "2026-10-14T15:45:23Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8738,
-  "events": 31552,
+  "lens": 8763,
+  "events": 31577,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 408,
+  "queued/relens": 413,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 514,
-  "flagged": 617,
-  "lensed": 211
+  "queued": 489,
+  "flagged": 630,
+  "lensed": 218
  },
  "last_harvests": [
   {
@@ -541,6 +541,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969750110",
+   "title": "Vintage Chinese Ginger Jar with Foo Dogs",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-chinese-ginger-jar/q7JYfstAWBo8g2jroASJ2b",
+   "best": "Antique 19th Century Qing Dynasty Foo Dog Kamcheng ...",
+   "med": 695,
+   "ratio": 69.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7932644949",
    "title": "Pink Faceted \"Statement Necklace\"",
    "price": 10,
@@ -615,6 +626,17 @@
    "best": "Artist is 'E SENECA' - Anyone know of this artist? : r ...",
    "med": 3000,
    "ratio": 40,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971124623",
+   "title": "Vintage Bass Guitar Body",
+   "price": 60,
+   "area": "myrtlebeach",
+   "url": "https://www.craigslist.org/view/d/myrtle-beach-vintage-bass-guitar-body/cDGJSwDjoxCCQcb1snsRWa",
+   "best": "Mosrite The Ventures Model Red USA 1966 Vintage Solid Body ...",
+   "med": 2316,
+   "ratio": 38.6,
    "ai_value": ""
   },
   {
@@ -813,6 +835,17 @@
    "best": "Victoria Bella 24AB17/C Framed Painting Art 24\" x 30\" Print ...",
    "med": 399,
    "ratio": 19.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932946037",
+   "title": "Vintage Signed Pendant Necklace on long corded chain with lobster",
+   "price": 5,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-signed-pendant/jr5iCyVbXQ992xcv4VYBZK",
+   "best": "Artisan Sterling Silver Dichroic Art Glass Pendant Necklace ...",
+   "med": 94,
+   "ratio": 18.8,
    "ai_value": ""
   },
   {
@@ -1135,6 +1168,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940570014",
+   "title": "Nice antique vase \ud83c\udffa",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-nice-antique-vase/4KhJFrVZ2e3DCQHsionTkE",
+   "best": "Antique Moser Ruby Red Glass Vase With Gold and White Hand ...",
+   "med": 300,
+   "ratio": 12,
+   "ai_value": ""
+  },
+  {
    "pid": "7942937814",
    "title": "Bracelets",
    "price": 15,
@@ -1208,6 +1252,17 @@
    "url": "https://www.craigslist.org/view/d/arlington-serigraph-baicycle-rider/buwYp2BBHUPhwGxaya94mZ",
    "best": "Vintage Framed \"Jackrabbit\" Woodcut Edition 184 Signed by ...",
    "med": 800,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941619751",
+   "title": ".925 Sterling Silver Gold Plated 3cm. Hoop Earrings",
+   "price": 22,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/ballwin-925-sterling-silver-gold-plated/vYCsBXwaLhjpmxcnES8PJW",
+   "best": "Rigged Hoop Earring .925 Sterling Silver - BS084 | eBay",
+   "med": 220,
    "ratio": 10,
    "ai_value": ""
   },
@@ -1374,6 +1429,17 @@
    "best": "Grandview Mercantile",
    "med": 285,
    "ratio": 8.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932160381",
+   "title": "Beautiful 8.5 women's turquoise ring",
+   "price": 8,
+   "area": "ames",
+   "url": "https://www.craigslist.org/view/d/creston-beautiful-85-womens-turquoise/h8oiB9c7P17fWkjxNuQj6R",
+   "best": "Handmade Sterling Silver Turquoise Ring: Tibetan Gemstone ...",
+   "med": 65,
+   "ratio": 8.13,
    "ai_value": ""
   },
   {
@@ -2499,6 +2565,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983314427",
+   "title": "Kala Ukulele",
+   "price": 250,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/sturbridge-kala-ukulele/hKgYi6gc2sszJmBWc2u6Yz",
+   "best": "KALA Solid Acacia Series Ukulele All Solid Acacia Body Tenor ...",
+   "med": 808,
+   "ratio": 3.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7965241119",
    "title": "Lot of Costume Diamonds, bracelet, necklaces",
    "price": 18,
@@ -2814,6 +2891,17 @@
    "url": "https://www.craigslist.org/view/d/fort-lauderdale-jewelry-and-more/h2DZXGKkTGG6fZMBgHHPCR",
    "best": "Vintage lot of 17 earrings,brooches & pendants Trifari, avon ...",
    "med": 65,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948150857",
+   "title": "NWOT Vintage EXPRESS Gold Tone Link Bracelet $10 EACH",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-nwot-vintage-express/unC89JRdcdqgDaZzCb3tbA",
+   "best": "Shop Women's Jewelry Online - Rings, Bracelets, Necklaces ...",
+   "med": 26,
    "ratio": 2.6,
    "ai_value": ""
   },
@@ -3134,6 +3222,17 @@
    "best": "Vintage 14K Yellow Gold Triple Strand Pearl Bracelet - Etsy",
    "med": 252,
    "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940053529",
+   "title": "Antique teapot",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-antique-teapot/tiw39hNtRBieEbMof6UCW5",
+   "best": "Antique W&S Blackinton Silverplate Pitcher with Bamboo ...",
+   "med": 34,
+   "ratio": 2.27,
    "ai_value": ""
   },
   {
@@ -3551,6 +3650,17 @@
    "url": "https://www.craigslist.org/view/d/la-mirada-vintage-gucci-watch-sale/bgixViD55TmGgKm2KZSFiR",
    "best": "NISHIKINO VINTAGE KYOTO",
    "med": 315,
+   "ratio": 1.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943755762",
+   "title": "Stemware with gold trim",
+   "price": 99,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/farmington-stemware-with-gold-trim/k7zXrvk4N8nGFuGDs9kRU4",
+   "best": "Vintage Wine Glass \u2013 Laurel (stem 14196) by Tiffin ...",
+   "med": 189,
    "ratio": 1.91,
    "ai_value": ""
   },
@@ -4908,6 +5018,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946998539",
+   "title": "Vintage Old West-Themed Brazilian-made stein: \u201cCattle Roundup\u201d",
+   "price": 25,
+   "area": "lansing",
+   "url": "https://www.craigslist.org/view/d/stockbridge-vintage-old-west-themed/tYEsC5HcoTt1E1FUz9A1qA",
+   "best": "Avon 1980 Cattle Drive Stage Coach Chuck Wagon Beer Mug ...",
+   "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -4992,6 +5113,17 @@
    "url": "https://www.craigslist.org/view/d/acworth-vintage-lucite-lot-of-figurines/c4zC4uZHGeiNVA8Dt7Evxm",
    "best": "eBay",
    "med": 98,
+   "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954289800",
+   "title": "Vintage Baby Head Vase",
+   "price": 40,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/bay-village-vintage-baby-head-vase/e7aEnFD8oKuJe9TEiZjumo",
+   "best": "Baby Head Relpo Vase From Japan, Numbered K1860 Vintage - Etsy",
+   "med": 46,
    "ratio": 1.15,
    "ai_value": ""
   },
@@ -5916,6 +6048,17 @@
    "url": "https://www.craigslist.org/view/d/wappingers-falls-14k-yellow-gold-plated/4HZU8bFho52jJ2nG3orGis",
    "best": "Welch Jewelers",
    "med": 18,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952571456",
+   "title": "Vintage Art Glass Floral Flower Paperweights Set of 3",
+   "price": 50,
+   "area": "greenville",
+   "url": "https://www.craigslist.org/view/d/waterloo-vintage-art-glass-floral/bDSVPu95jmRVj2iZyAVuME",
+   "best": "Dynasty Gallery Heirloom Collectible Glass Pink Flower ...",
+   "med": 36,
    "ratio": 0.72,
    "ai_value": ""
   },
