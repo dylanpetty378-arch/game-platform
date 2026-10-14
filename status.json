@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:10:59Z",
+ "updated": "2026-10-14T22:15:09Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9549,
-  "events": 33165,
+  "lens": 9574,
+  "events": 33190,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 503,
-  "flagged": 1168,
-  "lensed": 399
+  "queued": 478,
+  "flagged": 1183,
+  "lensed": 409
  },
  "last_harvests": [
   {
@@ -949,6 +949,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939244058",
+   "title": "Necklace with Cuff Bracelet all for $12",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-necklace-with-cuff-bracelet-all/8ZpStnzbF9RPWF2p8hG6gD",
+   "best": "\ud83d\udef5\u0425\u04af\u0440\u0433\u044d\u043b\u0442 \u04af\u043d\u044d\u0433\u04af\u0439 /\u0410 \u0431\u04af\u0441\u044d\u0434/ \ud83d\udca5\u04ae\u043d\u044d: 59000 \ud83d\udcab14k \u0430\u043b\u0442\u0430\u043d \u0431\u04af\u0440\u043c\u044d\u043b ...",
+   "med": 568,
+   "ratio": 47.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7946417677",
    "title": "Breitling Chronometer> Blue Dial >Replica>Stainless Band Marked",
    "price": 175,
@@ -957,6 +968,17 @@
    "best": "Reddit",
    "med": 7950,
    "ratio": 45.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933462459",
+   "title": "Toys In The Attic",
+   "price": 20,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-toys-in-the-attic/oyK342y5FcdD2tM4Tjf7sf",
+   "best": "Coins & Bank Notes inc. House & Gardens Sale - Gorringe's",
+   "med": 899,
+   "ratio": 44.95,
    "ai_value": ""
   },
   {
@@ -1279,6 +1301,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962772860",
+   "title": "Sterling Silver Ring, about size 8",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-sterling-silver-ring/qSZXPUfziFPXtvxJj9PMBE",
+   "best": "Estate Michelle Albala Sterling Silver Oval Cut Garnet Three ...",
+   "med": 728,
+   "ratio": 24.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7948989527",
    "title": "Beaded necklaces and pendants",
    "price": 25,
@@ -1331,6 +1364,17 @@
    "best": "Vtg Gold Plate Flatware Set 86 Pc Wooden Box GOLDEN BOUQUET ...",
    "med": 572,
    "ratio": 22.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969231923",
+   "title": "Swarovski ruby ring Vintage",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-swarovski-ruby-ring-vintage/4eKuRKBBoM3ASqiHfmEgbZ",
+   "best": "Minimalist Channel Set Half Eternity Band Ring | Ruby & Oscar",
+   "med": 1360,
+   "ratio": 22.67,
    "ai_value": ""
   },
   {
@@ -1681,6 +1725,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/stillwater-vintage-handmade-ceramic/v7c9k4p3mw3YZmVWsX5QmX",
    "best": "Pink Pottery Side Plate - Etsy",
+   "med": 249,
+   "ratio": 16.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942403097",
+   "title": "Vintage 925 sterling Silver Gold plated natural Jade earring",
+   "price": 15,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-925-sterling-silver/jRpsNCXUZ26v48xxpBdcGj",
+   "best": "VTG CUSTOM MADE FINE CHINESE 14K YELLOW GOLD GREEN APPLE ...",
    "med": 249,
    "ratio": 16.6,
    "ai_value": ""
@@ -3278,6 +3333,17 @@
    "best": "eBay",
    "med": 400,
    "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981365720",
+   "title": "Vintage Pearl Earrings Gold Tone",
+   "price": 39,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-pearl-earrings-gold/2QMf85YPFMh39CsuyqCpwY",
+   "best": "14K Yellow Gold & Pearl Trio-Flat Strand Dangle Post ...",
+   "med": 220,
+   "ratio": 5.64,
    "ai_value": ""
   },
   {
@@ -4920,6 +4986,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969914099",
+   "title": "14K GOLD DAINTY DIAMOND NECKLACE",
+   "price": 200,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-14k-gold-dainty-diamond/cxTAwvZYj3NNJagAa1S2kY",
+   "best": "Stunning 1/3ct Round Brilliant Diamond Pendant 14K Box 18 ...",
+   "med": 625,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7981974675",
    "title": "Sterling silver earrings",
    "price": 45,
@@ -5085,6 +5162,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956292216",
+   "title": "Vintage GOLDETTE NY Silver Tone Faux Pearl Ring Link Bracelet Very nice!!",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-goldette-ny-silver-tone/qyqATmf5MJLbugXXdWFBC5",
+   "best": "Vintage Chain Bracelet Interwoven W Pearl Beads Elegant ...",
+   "med": 45,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -5159,6 +5247,17 @@
    "best": "eBay",
    "med": 50,
    "ratio": 2.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953881949",
+   "title": "Bracelet Hawaiian Bangle 925 Sterling Silver",
+   "price": 60,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-bracelet-hawaiian-bangle-925/96Jkand5dAFNzPBVfNDJS8",
+   "best": "HAWAII STERLING SILVER TURTLE TRIBAL NATIVE ...",
+   "med": 175,
+   "ratio": 2.92,
    "ai_value": ""
   },
   {
@@ -5642,6 +5741,17 @@
    "url": "https://www.craigslist.org/view/d/rochester-late-20th-century-moneto/qdnXvCmCt7e3cBkAuJNf6E",
    "best": "Napoleon Necklace | eBay",
    "med": 88,
+   "ratio": 2.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960231164",
+   "title": "\ud83d\udc8e Antique 14k Gold Amethyst & Diamond Necklace \ud83d\udc8e",
+   "price": 399,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-antique-14k-gold-amethyst/gZo7WUrm7dEd9LWfBpU55P",
+   "best": "Amethyst Teardrop Charm Pendant and Chain - Rose Gold ...",
+   "med": 1000,
    "ratio": 2.51,
    "ai_value": ""
   },
@@ -6159,6 +6269,17 @@
    "url": "https://www.craigslist.org/view/d/parksville-antique-mccoy-pottery-vase/nY6UZUKp9CeeYwnAj3NZd7",
    "best": "eBay",
    "med": 45,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964231784",
+   "title": "Vintage Hematite Cameo",
+   "price": 8,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/quitman-vintage-hematite-cameo/2McB6nTbE8ScTxgDZ9zj8P",
+   "best": "Hot Sale Stainless Steel Biker Lion Dog Tag Pendant Hematite ...",
+   "med": 18,
    "ratio": 2.25,
    "ai_value": ""
   },
@@ -9947,6 +10068,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942210458",
+   "title": "Turquoise Lightning Bug Pin",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-turquoise-lightning-bug-pin/qK3UoM8RFjmsVBdWPvo69y",
+   "best": "1950s Turquoise Bug Pin \u2013 Garland's",
+   "med": 98,
+   "ratio": 0.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637872",
    "title": "Sterling Silver Vintage Rocha Braided Cuff Bracelet",
    "price": 170,
@@ -11164,6 +11296,17 @@
    "url": "https://www.craigslist.org/view/d/acworth-bags-full-variety-fashion-rings/b5aCdzcQPrbEwGkB1dYEeL",
    "best": "Wholesale 100pcs Bohemia Vintage Rings Women Antique Silver ...",
    "med": 65,
+   "ratio": 0.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965732507",
+   "title": "TOE RINGS...REDUCED PRICE...",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-toe-ringsreduced-price/sDDZLX1wDT6v9tVSHSg64i",
+   "best": "Adjustable Sterling Silver Toe Ring: Celtic Knot, Beach ...",
+   "med": 26,
    "ratio": 0.65,
    "ai_value": ""
   },
@@ -12697,6 +12840,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954062174",
+   "title": "20 Ceramic Dolls Collection",
+   "price": 150,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-20-ceramic-dolls-collection/mjqSoCCAvqwWhphER7QGjZ",
+   "best": "eBay",
+   "med": 12,
+   "ratio": 0.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7975122936",
    "title": "Jewelry Business Start up",
    "price": 300,
@@ -13308,6 +13462,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/los-angeles-panerai-47-special-watch/5gt76AUcQ6bRRabmWbrCwm",
    "best": "Watch Panerai Radiomir California Dial 1936 PAM 249 New with ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951190909",
+   "title": "Jewelry Case with Bling",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/union-city-jewelry-case-with-bling/qoaHnegcaG9X91dSbumacQ",
+   "best": "Vintage Estate Costume Jewelry Lot! MONET, AVON and more! | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
