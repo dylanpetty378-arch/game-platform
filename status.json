@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:03:06Z",
+ "updated": "2026-10-14T16:09:03Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8888,
-  "events": 31702,
+  "lens": 8913,
+  "events": 31727,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 434,
+  "queued/relens": 438,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 364,
-  "flagged": 705,
-  "lensed": 247
+  "queued": 339,
+  "flagged": 720,
+  "lensed": 253
  },
  "last_harvests": [
   {
@@ -904,6 +904,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940948406",
+   "title": "Vintage minature  telescope\u2026..",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-minature-telescope/oaCrLRfjcB7ef5YEG12g9E",
+   "best": "eBay",
+   "med": 199,
+   "ratio": 19.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7932946037",
    "title": "Vintage Signed Pendant Necklace on long corded chain with lobster",
    "price": 5,
@@ -1553,6 +1564,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949718522",
+   "title": "Chinese Export Porcelain Vase",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/irvine-chinese-export-porcelain-vase/jU845sbYh3o8B9YNbaDTEF",
+   "best": "eBay",
+   "med": 84,
+   "ratio": 8.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7940645134",
    "title": "Vintage \u2018SeaShell Coast\u2019 Original Signed Painting Canvas",
    "price": 119,
@@ -2191,6 +2213,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931133368",
+   "title": "Golfer Picture",
+   "price": 100,
+   "area": "bloomington",
+   "url": "https://www.craigslist.org/view/d/martinsville-golfer-picture/u4vDFg2sLgzFBX71LF7eFe",
+   "best": "eBay",
+   "med": 500,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -2532,6 +2565,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983308637",
+   "title": "Limited Edition Ragnar Bobble Head",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/chaska-limited-edition-ragnar-bobble/5WEmA7RYeaTXPDH3zux27v",
+   "best": "Vintage Minnesota Vikings Ragnar Mascot Bobblehead Doll ...",
+   "med": 100,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7947850125",
    "title": "Brooches and Pins",
    "price": 10,
@@ -2620,6 +2664,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962424770",
+   "title": "NECKLACE, BEADS/STONES, 60\" length",
+   "price": 35,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-necklace-beads-stones-60-length/wTgbXzabG3ruW1TrAECUCW",
+   "best": "Three Strand Green Glass Bead Necklace (A5) | eBay",
+   "med": 130,
+   "ratio": 3.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7940918247",
    "title": "Vintage Ceramic Peace Sign Pendant",
    "price": 30,
@@ -2704,6 +2759,17 @@
    "url": "https://www.craigslist.org/view/d/fountain-valley-avon-pearl-and-crystal/aVSbCJToWQXLuoC5K5or6h",
    "best": "Round Gold Filigree and Pearl Teardrop Pierced or Clip on ...",
    "med": 35,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933143728",
+   "title": "Vintage pearl export series snare",
+   "price": 100,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/champaign-vintage-pearl-export-series/fSUoMdhihf5wDYNW3cNqzp",
+   "best": "</Image Grid>",
+   "med": 350,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -2994,6 +3060,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964377131",
+   "title": "Decorative Vintage Bowl Made in Italy",
+   "price": 100,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/acushnet-decorative-vintage-bowl-made/mA7iEBKdzGSbK9UrebLEGz",
+   "best": "eBay",
+   "med": 302,
+   "ratio": 3.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7963163685",
    "title": "Extra large Glass Vase .",
    "price": 50,
@@ -3134,6 +3211,17 @@
    "best": "Vintage Satin Brown Glass Compote Candy Lid Dish Amber With ...",
    "med": 70,
    "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983251565",
+   "title": "Lot of guitars and drums",
+   "price": 500,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/belleville-lot-of-guitars-and-drums/69eTzv6hrRdzqRNX298uhN",
+   "best": "eBay",
+   "med": 1380,
+   "ratio": 2.76,
    "ai_value": ""
   },
   {
@@ -3995,6 +4083,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955879179",
+   "title": "Victorian scene open type locket keychain",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-victorian-scene-open-type/rhhgWbtZuo8TF1cG8FHbt3",
+   "best": "Craigslist",
+   "med": 20,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -4387,6 +4486,17 @@
    "url": "https://www.craigslist.org/view/d/renton-sterling-silver-bracelet-with/kEWJB3RAv1wrfF5KSMuBcZ",
    "best": "eBay",
    "med": 60,
+   "ratio": 1.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965418989",
+   "title": "Aquamarine from Tanzania in Sterling Ring",
+   "price": 95,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-aquamarine-from-tanzania-in/pDvp9jBJzsTn1vjURcNPmw",
+   "best": "Elliade bijoux",
+   "med": 162,
    "ratio": 1.71,
    "ai_value": ""
   },
@@ -4982,6 +5092,17 @@
    "best": "Elsa Peretti Pearls by the Yard Necklace in Sterling Silver, Size: 18\"",
    "med": 51,
    "ratio": 1.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934857282",
+   "title": "Vintage Wooden Ducks",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-vintage-wooden-ducks/29h5GRK2Sbqqqbf4TMNbSE",
+   "best": "eBay",
+   "med": 29,
+   "ratio": 1.45,
    "ai_value": ""
   },
   {
@@ -5832,6 +5953,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947090056",
+   "title": "Vintage Coca Cola glass snack bowl",
+   "price": 20,
+   "area": "easttexas",
+   "url": "https://www.craigslist.org/view/d/tyler-vintage-coca-cola-glass-snack-bowl/2gSbKLvQUQSbSnHaovkeft",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7949271613",
    "title": "Beau Sterling Silver Bangle",
    "price": 30,
@@ -6371,6 +6503,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962606132",
+   "title": "Littlestown Vise #25. USA",
+   "price": 75,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-littlestown-vise-25-usa/gMk6pGDCgAwUs8hDkCjVES",
+   "best": "eBay",
+   "med": 65,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7946375985",
    "title": "Sterling Silver & Rhodonite 20\u201d Necklace",
    "price": 35,
@@ -6613,6 +6756,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945299693",
+   "title": "Pearl necklace with Symbella's pendant",
+   "price": 250,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-pearl-necklace-with-symbellas/8Y8GvKgRadJRVUsGmCcChT",
+   "best": "alvenstad.se",
+   "med": 189,
+   "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7947741971",
    "title": "Art Nouveau  Pendant Necklace 1960'",
    "price": 60,
@@ -6644,6 +6798,17 @@
    "med": 30,
    "ratio": 0.75,
    "ai_value": ""
+  },
+  {
+   "pid": "7983302790",
+   "title": "1982 Hondo 732 Deluxe",
+   "price": 250,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-1982-hondo-732-deluxe/eC7vJzRRzyRdxku3zvxh6F",
+   "best": "Craigslist",
+   "med": 187,
+   "ratio": 0.75,
+   "ai_value": "worth? $10"
   },
   {
    "pid": "7971834546",
