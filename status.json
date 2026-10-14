@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T21:34:51Z",
+ "updated": "2026-10-14T21:38:36Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9324,
-  "events": 32939,
+  "lens": 9349,
+  "events": 32964,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 728,
-  "flagged": 993,
-  "lensed": 349
+  "queued": 703,
+  "flagged": 1013,
+  "lensed": 354
  },
  "last_harvests": [
   {
@@ -550,6 +550,17 @@
    "best": "14k Yellow Gold Heart Filigree Diamond Pendant Pendant 1.16 ...",
    "med": 778,
    "ratio": 259.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945970858",
+   "title": "Vintage Elgin Self Winding 17 Jewel Diamond Men's Watch",
+   "price": 1,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-vintage-elgin-self-winding-17/pKxq1wzLrAz1dZMVW9RCoz",
+   "best": "Craigslist",
+   "med": 249,
+   "ratio": 249,
    "ai_value": ""
   },
   {
@@ -1496,6 +1507,17 @@
    "best": "eBay",
    "med": 475,
    "ratio": 15.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981363473",
+   "title": "Vintage Lightweight Tribal Handmade Pendant",
+   "price": 19,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-lightweight-tribal/xbgcFRbfeXgsMuKKGfuMQZ",
+   "best": "\u0e23\u0e1a\u0e01\u0e27\u0e19\u0e0a\u0e48\u0e27\u0e22\u0e41\u0e19\u0e30\u0e19\u0e33\u0e2b\u0e19\u0e48\u0e2d\u0e22\u0e04\u0e31\u0e1a 2\u0e23\u0e39\u0e1b\u0e19\u0e35\u0e49\u0e1e\u0e2d\u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e40\u0e07\u0e34\u0e19\u0e41\u0e17\u0e49\u0e44\u0e2b\u0e21\u0e04\u0e31\u0e1a \u0e40\u0e01\u0e47\u0e19\u0e21\u0e32 ...",
+   "med": 300,
+   "ratio": 15.79,
    "ai_value": ""
   },
   {
@@ -2951,6 +2973,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957132277",
+   "title": "Antique 14k White Gold FILIGREE Blue Topaz  Pin circa 1940",
+   "price": 99,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-antique-14k-white-gold/rnoYiLJ4ZXTMaCGRPQUoLV",
+   "best": "eBay",
+   "med": 520,
+   "ratio": 5.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7947294440",
    "title": "Vintage Pocket Knives",
    "price": 95,
@@ -2970,6 +3003,28 @@
    "best": "Craigslist",
    "med": 130,
    "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977850491",
+   "title": "Vintage Pendant w/4 Heart Dangles",
+   "price": 25,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-pendant-4-heart/4LR4es3eUHaEboRqBSFj3n",
+   "best": "Etsy",
+   "med": 130,
+   "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965504219",
+   "title": "old Japanese Ceramic hibachi",
+   "price": 300,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/union-city-old-japanese-ceramic-hibachi/1D6Bouv6AJhfrgyGqsfAPe",
+   "best": "Craigslist",
+   "med": 1555,
+   "ratio": 5.18,
    "ai_value": ""
   },
   {
@@ -3124,6 +3179,17 @@
    "best": "Golden Embers Teapot \u2014 Nicole Hummel Ceramics",
    "med": 49,
    "ratio": 4.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960030260",
+   "title": "Vintage Horseshoe Stud Earring Gold Filled Small",
+   "price": 25,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-horseshoe-stud/jobEWkLWXupetKqeRey1ny",
+   "best": "14K Gold Horseshoe Stud Earrings | Lucky Charm Pushbacks - Etsy",
+   "med": 122,
+   "ratio": 4.88,
    "ai_value": ""
   },
   {
@@ -3358,6 +3424,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983337461",
+   "title": "Waltham Crescent St. Canadian Dial Pocket Watch",
+   "price": 495,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-waltham-crescent-st-canadian/k2Ubp9FRzSRX6oRHkYHv81",
+   "best": "eBay",
+   "med": 2100,
+   "ratio": 4.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7949303930",
    "title": "Very old antique Japanese bronze statue soldier",
    "price": 65,
@@ -3578,6 +3655,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7949518851",
+   "title": "Elgin Ladies Wristwatch",
+   "price": 10,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/peoria-elgin-ladies-wristwatch/g5q4AfquAFAwKp2u7prxH2",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938027756",
+   "title": "3 Vintage Jewelry Lot Filigree Bracelet Rhinestone & Button Earrings",
+   "price": 5,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-jewelry-lot-filigree/fDpZfT7cnYMB1mm9k2sUXN",
+   "best": "Etsy",
+   "med": 20,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -3740,6 +3839,17 @@
    "best": "eBay",
    "med": 145,
    "ratio": 3.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942637201",
+   "title": "1966 Ladies Omega 14K Gold Filled Watch",
+   "price": 205,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-1966-ladies-omega-14k-gold/svY3QifNVkC9oQSouJZDiH",
+   "best": "eBay",
+   "med": 743,
+   "ratio": 3.62,
    "ai_value": ""
   },
   {
@@ -4278,6 +4388,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-sterling-silver-dragon-825/j11Rj5imHK9n62BHQSfJDt",
    "best": "eBay",
    "med": 234,
+   "ratio": 2.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941401831",
+   "title": "Vintage Owl Jewelry Bundle",
+   "price": 25,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/pismo-beach-vintage-owl-jewelry-bundle/1FVB7ug1ZGa9rAnDurb7Fw",
+   "best": "E0049 Silver Color Clear Rhinestones Mini Bird Owl Shape ...",
+   "med": 74,
    "ratio": 2.96,
    "ai_value": ""
   },
@@ -5338,6 +5459,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942542379",
+   "title": "Jewelry",
+   "price": 20,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-jewelry/dEuudJpHkbAG3sKVRdmk2x",
+   "best": "3 Goldtone Kitty Cat Pins Brooch Auora Borealis Stones ...",
+   "med": 41,
+   "ratio": 2.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7944640724",
    "title": "Set of 2 Antique Pewter Coffee/Tea Pots",
    "price": 135,
@@ -5613,6 +5745,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981255209",
+   "title": "Many vintage necklaces for women",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/belmont-many-vintage-necklaces-for-women/bxS7uxZho5xzfCBzc6LwrC",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -5789,6 +5932,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948787269",
+   "title": "Vintage Carnival Glass Dish",
+   "price": 30,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-vintage-carnival-glass-dish/grUMzywh6sw4ingrk4Q4eo",
+   "best": "carnivalglassclubs.com",
+   "med": 56,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7963446408",
    "title": "Antique Victorian American Waltham 1891 Ladies Pocket Watch",
    "price": 350,
@@ -5817,6 +5971,17 @@
    "area": "austin",
    "url": "https://www.craigslist.org/view/d/kyle-vintage-the-royle-doulton-shepherd/eKKkPfAppKi5cGveyRx75A",
    "best": "eBay",
+   "med": 65,
+   "ratio": 1.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980613392",
+   "title": "Antique Brass Enamel Vases",
+   "price": 35,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/surfside-antique-brass-enamel-vases/2b5gGLsRj5JGzJypEeK2wG",
+   "best": "Etsy",
    "med": 65,
    "ratio": 1.86,
    "ai_value": ""
@@ -6863,6 +7028,17 @@
    "url": "https://www.craigslist.org/view/d/livermore-vintage-1974-kenner-steve/aDs5v3B3fziZm2MyPEwG6F",
    "best": "Vintage Steve Scout Metal Detector Toy - Etsy",
    "med": 22,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942015565",
+   "title": "\ud83c\udf96\ufe0f1950's Swiss Military Style STERLING SILVER WATCH MONEY CLIP\ud83c\udf96\ufe0f",
+   "price": 99,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-1950s-swiss-military-style/5orYYf1fqBxPDztPABLDv4",
+   "best": "Rare german military watch - Gem",
+   "med": 146,
    "ratio": 1.47,
    "ai_value": ""
   },
@@ -8517,6 +8693,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980039462",
+   "title": "Native American Lot",
+   "price": 30,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-native-american-lot/x9Za2KhqWqmUTorgu5vQrW",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7966649352",
    "title": "Embossed Nautical Scene  Framed",
    "price": 120,
@@ -9177,6 +9364,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954559836",
+   "title": "Paparazzi neclace and earings lot ($34)($1 apiece)",
+   "price": 34,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/claymont-paparazzi-neclace-and-earings/4DHPF5VnqqbPr9Dpsj3gwq",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 0.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7949457505",
    "title": "Sterling Silver 7\u201d Watch by Ecclissi",
    "price": 110,
@@ -9514,6 +9712,17 @@
    "url": "https://www.craigslist.org/view/d/occoquan-vintage-block-planes-carpenter/35pUqHowVcRuk1utQq7Uyb",
    "best": "Set Of 4. JORGENSEN Size 0 Adjustable 8\" Hand Screw ...",
    "med": 47,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948960705",
+   "title": "Oil Painting Vintage Signed by Cox",
+   "price": 375,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/jessup-oil-painting-vintage-signed-by/77J4vwUX7F8YmcgetC1okt",
+   "best": "1stDibs",
+   "med": 235,
    "ratio": 0.63,
    "ai_value": ""
   },
@@ -11383,6 +11592,17 @@
    "area": "neworleans",
    "url": "https://www.craigslist.org/view/d/mandeville-authenic-early-american/5rEe1NwwW4ZF9KnMpdV1uf",
    "best": "Appleby Antiques",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957246886",
+   "title": "Vintage Native American Turquoise Ring",
+   "price": 1,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/palm-coast-vintage-native-american/dadJsJHXdgjE1PuyqtTUhP",
+   "best": "Craigslist",
    "med": null,
    "ratio": null,
    "ai_value": ""
