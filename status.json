@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T21:53:28Z",
+ "updated": "2026-10-14T21:58:05Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9449,
-  "events": 33064,
+  "lens": 9474,
+  "events": 33090,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -14,16 +14,16 @@
   "photo_review/kill": 8880,
   "comps/pass": 1,
   "queued/relens": 479,
-  "decided/ask": 86,
+  "decided/ask": 85,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "expired": 13,
+  "expired": 14,
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 603,
-  "flagged": 1104,
-  "lensed": 363
+  "queued": 578,
+  "flagged": 1122,
+  "lensed": 370
  },
  "last_harvests": [
   {
@@ -509,6 +509,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933364664",
+   "title": "Watch collection",
+   "price": 1,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/weaverville-watch-collection/eETy3x5ioeUo6BX75t335p",
+   "best": "Seiko Chronograph Stainless steel White 2004 | Dealer ...",
+   "med": 525,
+   "ratio": 525,
+   "ai_value": ""
+  },
+  {
    "pid": "7975187556",
    "title": "Goldtone Chain w/HD Pendent",
    "price": 10,
@@ -693,6 +704,17 @@
    "best": "Your Trusted Source for Jewelry - Pendants & Necklaces ...",
    "med": 480,
    "ratio": 96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968030888",
+   "title": "Vintage Handmade Lot 18 Costume Jewelry Rings Necklaces Bracelets $10",
+   "price": 1,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-handmade-lot-18/eJgavmjhpbFBdMGL6MjWms",
+   "best": "Vintage to Now Wearable Costume Jewelry Necklaces Bracelets ...",
+   "med": 93,
+   "ratio": 93,
    "ai_value": ""
   },
   {
@@ -2071,6 +2093,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932119002",
+   "title": "MARLBORO SWISS REYMOND POCKET WATCH",
+   "price": 45,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/harmans-marlboro-swiss-reymond-pocket/mEi2VUCcMCd4KUni6wJBNG",
+   "best": "Waltham Grade 610 Model 1899 18s 7j Model 1899 Pocket Watch ...",
+   "med": 510,
+   "ratio": 11.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7954510305",
    "title": "VINTAGE STERLING SILVER LAGOS CHARM BRACELET WITH 14K CROSS CHARM",
    "price": 150,
@@ -2112,6 +2145,17 @@
    "best": "Vintage F\u00fcrstenberg Porcelain Bird Coasters Set of 4, Tropical ...",
    "med": 130,
    "ratio": 10.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942023006",
+   "title": "\ud83d\udc8e 14k White Gold & Diamond Art Deco 1930's Ladies LeCoutier Watch\ud83d\udc8e",
+   "price": 399,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-14k-white-gold-diamond-art/ea5nUC9PrL1n8R26jXwW3w",
+   "best": "Vintage Ladies Concord 14k White Gold & Diamonds Watch | eBay",
+   "med": 4300,
+   "ratio": 10.78,
    "ai_value": ""
   },
   {
@@ -2926,6 +2970,17 @@
    "best": "eBay",
    "med": 252,
    "ratio": 6.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983332874",
+   "title": "Set of 6 Goebel Hummel Figurines (West Germany)",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingdale-set-of-goebel-hummel/q15h3b7dofEcAiFnokeKd4",
+   "best": "Vintage Hummel Style Figurines ,music Themed, Hand Painted ...",
+   "med": 125,
+   "ratio": 6.25,
    "ai_value": ""
   },
   {
@@ -3919,6 +3974,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946081731",
+   "title": "Sterling silver cross pendant",
+   "price": 60,
+   "area": "iowacity",
+   "url": "https://www.craigslist.org/view/d/collins-sterling-silver-cross-pendant/wWb1JNkLqNVAi6USWwoDTb",
+   "best": "Vintage Gemstone Cross - Etsy",
+   "med": 245,
+   "ratio": 4.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7949402790",
    "title": "ELLE Jewelry 925 Sterling Double 2-Piece LOVE / DITTO Pendant Necklace",
    "price": 54,
@@ -4876,6 +4942,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968061539",
+   "title": "Vintage Necklaces LOOK",
+   "price": 20,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/decatur-vintage-necklaces-look/mg5CV2AWG8zDyYhtBysTYC",
+   "best": "Lia Sophia | Jewelry | Lia Sophia Necklace | Poshmark",
+   "med": 59,
+   "ratio": 2.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7953330039",
    "title": "Vintage Brooches and Stick Pin",
    "price": 17,
@@ -5280,6 +5357,17 @@
    "best": "Antique Silver Bedouin Necklace Hadramout Yemen - Etsy",
    "med": 1150,
    "ratio": 2.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954969418",
+   "title": "Michael Kors Crystal Accent Wristwatch",
+   "price": 49,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-michael-kors-crystal-accent/1VtyUttRc9VYVUStrPd6FR",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 2.55,
    "ai_value": ""
   },
   {
@@ -6027,6 +6115,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-18-chain/6DffvcEnLxhab2gPKsmCHb",
    "best": "Navajo Necklace 925 Silver Natural Turquoise Artist EH C ...",
    "med": 250,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951973494",
+   "title": "Signed Original Pastel Portrait of a Woman",
+   "price": 95,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/reno-signed-original-pastel-portrait-of/oRabBwYHNRAzSYHa16Kxub",
+   "best": "Jan Ledbetter Native American Pastel Drawing | eBay",
+   "med": 198,
    "ratio": 2.08,
    "ai_value": ""
   },
@@ -7087,6 +7186,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7956125504",
+   "title": "\u2728Lot of Costume Jewelry! Rhinestones, Faux Pearls, Beads,vintage\u2728\ufe0f",
+   "price": 30,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/worcester-lot-of-costume-jewelry/hgfLeTTfCnZYLEjHzbtckD",
+   "best": "Garnet & Gold Seed Bead Earrings: Handmade Copper Circle ...",
+   "med": 49,
+   "ratio": 1.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955403960",
+   "title": "14K GOLD STUD EARRINGS",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-14k-gold-stud-earrings/tTEQG8N4UuDeTEgL8UTw1T",
+   "best": "Glam Yellow Gold Tone Round Stud Earrings 1/4\" Diameter AZJ ...",
+   "med": 163,
+   "ratio": 1.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7929922868",
    "title": "Vintage ladies elgin watch,working.",
    "price": 80,
@@ -7824,6 +7945,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954972655",
+   "title": "Train \ud83d\ude82 Engraved 21j Waltham Riverside RAILROAD 2-Tone Pocket Watch \u231a",
+   "price": 399,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-train-engraved-21j-waltham/aZm5izdTpaKmwB5GbiU28o",
+   "best": "Antique 10k Gold Filled Railroad Pocket Watch Waltham ...",
+   "med": 565,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7932006187",
    "title": "Sterling Silver Pyrope Garnet & Marcasite 16\u201d-18\u201d Necklace",
    "price": 85,
@@ -7952,6 +8084,17 @@
    "url": "https://www.craigslist.org/view/d/oconomowoc-demdaco-willow-tree-courage/atypTjpTNeuzXUktXo628e",
    "best": "Willow Tree\u00ae Courage Figurine - Figurines | Hallmark",
    "med": 14,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952322787",
+   "title": "14k White Gold & Diamond Antique 23 Jewel Ladies Wristwatch \u231a",
+   "price": 249,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-14k-white-gold-diamond-antique/1S3QUqqCE9tsD6oqQ4ALsY",
+   "best": "Ladies Bulova 10k White Rolled Gold Plate M7 W/ Diamonds | eBay",
+   "med": 348,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -8733,6 +8876,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-vintage-but-never-worn/wjvYMhcbVofBCzEEY6oSov",
    "best": "Navajo Snake Eye Earrings 925 Silver Blue Turquoise Native ...",
    "med": 40,
+   "ratio": 1.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983338769",
+   "title": "American Watch Co. Waltham Appleton, Tracy & Co. Pocket Watch",
+   "price": 350,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-american-watch-co-waltham/aaB1hiZhXvEgAswos2JeVp",
+   "best": "1897 WALTHAM AWW Co. GRADE No. 650 16s MODEL 1888 17 JEWEL ...",
+   "med": 400,
    "ratio": 1.14,
    "ai_value": ""
   },
@@ -9646,6 +9800,17 @@
    "url": "https://www.craigslist.org/view/d/portland-vintage-heart-marquis-ring/rS5wu4mZFBWLbsv2NtedBW",
    "best": "eBay",
    "med": 45,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952964965",
+   "title": "Assortment of Vintage Music Boxes (ALL $20)",
+   "price": 20,
+   "area": "missoula",
+   "url": "https://www.craigslist.org/view/d/grantsdale-assortment-of-vintage-music/fr6W2Dnt7GKi7noBAEjZRK",
+   "best": "Sanyo Figurines Kids Under Rotating Umbrella/ HUMMELL SYTLE ...",
+   "med": 18,
    "ratio": 0.9,
    "ai_value": ""
   },
@@ -10640,6 +10805,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936662611",
+   "title": "ROCKFORD POCKET WATCH in SALESMAN'S DISPLAY CASE",
+   "price": 299,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-rockford-pocket-watch-in/dTAyEqNyMgShACmEBGZLzR",
+   "best": "Vintage Rockford Pocket Watch 18S 935 17J 1910 Lever Set ...",
+   "med": 185,
+   "ratio": 0.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7934382142",
    "title": "Vintage Studio Art Pottery Crock",
    "price": 50,
@@ -10702,6 +10878,17 @@
    "url": "https://www.craigslist.org/view/d/saint-louis-fire-agate-necklace/jMxRY3r8yZMXznwvFfTMV1",
    "best": "Fire Agate Pendant Necklace 925 Sterling Silver / Jewelry ...",
    "med": 81,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968932352",
+   "title": "Pendants Galore!",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-pendants-galore/u6SBinrZCk3PjjXoN5qaeL",
+   "best": "Boho Gemstone Pendants, Silver Overlay, Handmade Crystal ...",
+   "med": 9,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -11526,6 +11713,17 @@
    "area": "santabarbara",
    "url": "https://www.craigslist.org/view/d/santa-barbara-large-studio-plate-bowl/gGG5FWCzPznhWt15APp5Ux",
    "best": "Studio Pottery Bowl White Cobalt Blue Brush Stroke Abstract ...",
+   "med": 15,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972433622",
+   "title": "FF Vintage Decorative.",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-ff-vintage-decorative/jr7zGtML44vnM3vk8pR1M3",
+   "best": "Vintage Amish Grandpa Grandma Couple Salt and Pepper Shakers ...",
    "med": 15,
    "ratio": 0.33,
    "ai_value": ""
@@ -12627,16 +12825,6 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-bunch-of-old-lighters/qoRX4wdzo8VmbMq6zCKWMD",
    "note": "Terapeak: Dunhill Unique sold median $229 (n=50). If the pearl lift-arm is a stamped Dunhill Unique: 229\u00d70.87\u221230\u221265 \u2248 $104 profit at the $65 lot price \u2192 Tier B. Ask for base stamp photo.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7974580866",
-   "title": "Assorted Quality Brands Sunglasses",
-   "price": 25,
-   "area": "austin",
-   "url": "https://www.craigslist.org/view/d/austin-assorted-quality-brands/grZmn5EV6aav32tjshEDmy",
-   "note": "Terapeak 365d sold: B&L Ray-Ban aviators median $110. At $25 each ~$47 per B&L pair. ASK which carry B&L etch.",
    "stage": "decided",
    "status": "ask"
   },
