@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:24:33Z",
+ "updated": "2026-10-14T15:28:19Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8638,
-  "events": 31452,
+  "lens": 8663,
+  "events": 31477,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 394,
+  "queued/relens": 395,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 614,
-  "flagged": 558,
-  "lensed": 184
+  "queued": 589,
+  "flagged": 575,
+  "lensed": 191
  },
  "last_harvests": [
   {
@@ -574,6 +574,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955279212",
+   "title": "Vintage African Tribal Artwork",
+   "price": 20,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-vintage-african-tribal/muiiFCA1FjZNVDVurF4ggQ",
+   "best": "JOAN SIMPSON AFRICAN AMERICAN PEOPLE LARGE GICLEE ON CANVAS ...",
+   "med": 847,
+   "ratio": 42.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7941406369",
    "title": "Antique Oil Painting",
    "price": 75,
@@ -772,6 +783,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942427495",
+   "title": "Vintage SET of Peach colored Beaded Necklace and Earrings $10",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-set-of-peach/jCQ9XurxdfqZ8Q4jeHsVjD",
+   "best": "SHADES of ORANGE and WHITE Jewelry Set - Etsy",
+   "med": 166,
+   "ratio": 16.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7949234254",
    "title": "Sterling Silver, Ruby,  Pearl & Diamond 18\u201d Necklace",
    "price": 90,
@@ -802,6 +824,17 @@
    "best": "VINTAGE CREAMER & SUGAR BOWL W/ LID GERMANY L3 ...",
    "med": 105,
    "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945621449",
+   "title": "2 Schooner Art Prints",
+   "price": 20,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/new-providence-schooner-art-prints/7Z4wQRiZ7jA5341iuMKHW9",
+   "best": "Framed 23\"x18\" Print Schooner \"Genesta\" USA Cup Ship 1884 ...",
+   "med": 299,
+   "ratio": 14.95,
    "ai_value": ""
   },
   {
@@ -912,6 +945,17 @@
    "best": "2.02 CT Round Lab Grown Diamond Cluster Flower Earrings G ...",
    "med": 940,
    "ratio": 12.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952454503",
+   "title": "Jewelry restoration and Mirror Polish",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-jewelry-restoration-and/iRyR4Ns5G1vX55tgpu75fu",
+   "best": "14k White Gold 24\" Lite Miami Cuban Curb Link 7 mm 30 ...",
+   "med": 247,
+   "ratio": 12.35,
    "ai_value": ""
   },
   {
@@ -1286,6 +1330,17 @@
    "best": "eBay",
    "med": 64,
    "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971396561",
+   "title": "Vintage tool lot Lufkin plumbers drill antique",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brookhaven-vintage-tool-lot-lufkin/oMRNoynQLgw2Ko4HNaQbtW",
+   "best": "Vintage tools lot mixed Estate Find Unusual Old american ...",
+   "med": 63,
+   "ratio": 6.3,
    "ai_value": ""
   },
   {
@@ -1696,6 +1751,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943036733",
+   "title": "Cookie Lee Tassel Chain Pendant Necklace  $10",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-cookie-lee-tassel-chain/qEcHcj96p4iwZ9cqfgM7qa",
+   "best": "Vintage Monet White Enamel Metal Tulip Pendant Tassel ...",
+   "med": 44,
+   "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7954787701",
    "title": "Chinese Porcelain Vase - signed",
    "price": 35,
@@ -1846,6 +1912,17 @@
    "url": "https://www.craigslist.org/view/d/vancouver-vintage-gerda-christoffersen/3LBBqPf1YJb1gLNyyPpwi8",
    "best": "Craigslist",
    "med": 40,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981744143",
+   "title": "Antique French Fashion Hand-Colored Lithographs",
+   "price": 300,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-antique-french-fashion-hand/jFTBarTR7fhA2R5BbzkQFB",
+   "best": "Vintage French Fashion Prints From The 1860s, Set Of 3 | eBay",
+   "med": 1200,
    "ratio": 4,
    "ai_value": ""
   },
@@ -2290,6 +2367,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946050424",
+   "title": "Hummel Figurines",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/mount-sinai-hummel-figurines/myTjrcL1q8tao6XRLz9PMQ",
+   "best": "Hummel Serenade boy Figurine Goebel 85 musician clarinet ...",
+   "med": 29,
+   "ratio": 2.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7945575944",
    "title": "Sterling Silver & Smokey Quartz 18\u201d Necklace",
    "price": 75,
@@ -2617,6 +2705,17 @@
    "best": "Etsy",
    "med": 120,
    "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941091737",
+   "title": "Lot of Four Vintage Cast Pencil Sharpeners",
+   "price": 35,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/roseville-lot-of-four-vintage-cast/sZnk64kzJSCKEu8gXTnMK5",
+   "best": "VINTAGE MINIATURE BRONZE DIE CAST DESKTOP PENCIL SHARPENERS ...",
+   "med": 83,
+   "ratio": 2.37,
    "ai_value": ""
   },
   {
@@ -3056,6 +3155,28 @@
    "url": "https://www.craigslist.org/view/d/arlington-vintage-mccoy-pottery-grape/4qz6CccLnNhSbqwF7TZbq1",
    "best": "eBay",
    "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944262713",
+   "title": "Pulsar ladies watch",
+   "price": 30,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/flemington-pulsar-ladies-watch/4ZCF44nC7RwVYfcVqgwxRD",
+   "best": "Etsy",
+   "med": 60,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979796957",
+   "title": "Caravelle woman watch",
+   "price": 20,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/indianapolis-caravelle-woman-watch/2SBtMY2VWgUABqRU3kDjdf",
+   "best": "Caravelle by Bulova Women's 45L54 Two Tone Quartz Watch | eBay",
+   "med": 40,
    "ratio": 2,
    "ai_value": ""
   },
@@ -3566,6 +3687,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982106441",
+   "title": "Antique Victoria Carlsbad Mantle Vases",
+   "price": 50,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/essex-antique-victoria-carlsbad-mantle/mxhuPFiPJzEJcoaTsDFeZb",
+   "best": "Victoria Carlsbad Austria Porcelain Vase - Etsy Antique ...",
+   "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -4068,6 +4200,17 @@
    "url": "https://www.craigslist.org/view/d/phoenix-vintage-ceramic-beer-stein/i1CKUmMQLsj57HTh2BjGZS",
    "best": "Etsy",
    "med": 35,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934891676",
+   "title": "Sterling Silver Onyx size 6 1/2 RING",
+   "price": 50,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/clovis-sterling-silver-onyx-size-ring/vCXjcALmjbBqGmjYpxUXcX",
+   "best": "eBay",
+   "med": 70,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -4853,6 +4996,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939762903",
+   "title": "Vintage 1958 Massachusetts State Track Championship Medal-C.H.H./Koch",
+   "price": 20,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-vintage-1958-massachusetts/wktxKQN6wfxEMrTzCYmxFc",
+   "best": "LOT OF 6 VINTAGE RARE Secondary School Principles Assn ...",
+   "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -5102,6 +5256,17 @@
    "url": "https://www.craigslist.org/view/d/round-rock-vintage-mexican-sterling/fJ3wok3HaaaeiJ1WPDCCoN",
    "best": "eBay",
    "med": 163,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948745943",
+   "title": "ANTIQUE TEAPOT & CREAMER",
+   "price": 35,
+   "area": "kalispell",
+   "url": "https://www.craigslist.org/view/d/kalispell-antique-teapot-creamer/6nSdktJiCXjkU7u9CY9Jdh",
+   "best": "Antique Nippon Sugar Bowl and Creamer Pink Roses - Etsy",
+   "med": 30,
    "ratio": 0.86,
    "ai_value": ""
   },
@@ -6272,6 +6437,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970628102",
+   "title": "Vintage Shreve, Crump and Low Sterling Silver Baby Cup 65.5 Grams",
+   "price": 125,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-shreve-crump-and-low/8Lenw1RrvEHRbsuMQMmnAr",
+   "best": "Craigslist",
+   "med": 25,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933424756",
    "title": "Sterling Silver Ecclissi Art Deco Cuff 7 1/2\u201d Watch",
    "price": 175,
@@ -6368,6 +6544,17 @@
    "best": "Sherman Faith Identification Auto Emblem, IXOYE, Gold Tone ...",
    "med": 6,
    "ratio": 0.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931606692",
+   "title": "17 gorgeous pendants",
+   "price": 85,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-17-gorgeous-pendants/nRm9ziN9C3Aq2gHBitB9pF",
+   "best": "Handmade Botswana Agate Pendant: 925 Sterling Silver Plated ...",
+   "med": 9,
+   "ratio": 0.11,
    "ai_value": ""
   },
   {
