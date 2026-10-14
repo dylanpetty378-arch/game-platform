@@ -31825,3 +31825,28 @@
 {"ts":"2026-10-14T16:22:25Z","pid":"7968707172","stage":"flagged","run":"lensworker-20261014-1615","note":"Lens names Hunter, Pocket — title does not","data":{"med":150,"ratio":2,"mismatch":["Hunter","Pocket"]}}
 {"ts":"2026-10-14T16:22:32Z","pid":"7931907222","stage":"lensed","run":"lensworker-20261014-1615","note":null,"data":{"med":24,"ratio":0.96,"mismatch":[]}}
 {"ts":"2026-10-14T16:22:42Z","pid":"7983248142","stage":"flagged","run":"lensworker-20261014-1615","note":"Lens names Hickory, Iron — title does not","data":{"med":130,"ratio":5.2,"mismatch":["Hickory","Iron"]}}
+{"ts":"2026-10-14T16:23:23Z","pid":"7946417677","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":7950,"ratio":45.43,"mismatch":[]}}
+{"ts":"2026-10-14T16:23:30Z","pid":"7975678224","stage":"flagged","run":"lensworker-20261014-1619","note":"Lens names Perfect — title does not","data":{"med":600,"ratio":12,"mismatch":["Perfect"]}}
+{"ts":"2026-10-14T16:23:40Z","pid":"7954911675","stage":"flagged","run":"lensworker-20261014-1619","note":"Lens names E. Ingraham, New Haven, Sessions, Seth Thomas — title does not","data":{"med":115,"ratio":1.28,"mismatch":["E. Ingraham","New Haven","Sessions","Seth Thomas"]}}
+{"ts":"2026-10-14T16:23:47Z","pid":"7945055639","stage":"flagged","run":"lensworker-20261014-1619","note":"Lens names Company, Holland Mold — title does not","data":{"med":45,"ratio":1.5,"mismatch":["Company","Holland Mold"]}}
+{"ts":"2026-10-14T16:23:55Z","pid":"7969230117","stage":"queued","status":"relens","run":"lensworker-20261014-1619","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T16:24:02Z","pid":"7945601047","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":139,"ratio":2.78,"mismatch":[]}}
+{"ts":"2026-10-14T16:24:08Z","pid":"7932095944","stage":"queued","status":"relens","run":"lensworker-20261014-1619","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T16:24:15Z","pid":"7943838646","stage":"queued","status":"relens","run":"lensworker-20261014-1619","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T16:24:22Z","pid":"7967347683","stage":"queued","status":"relens","run":"lensworker-20261014-1619","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T16:24:29Z","pid":"7983273675","stage":"lensed","run":"lensworker-20261014-1619","note":null,"data":{"med":7,"ratio":1.4,"mismatch":[]}}
+{"ts":"2026-10-14T16:24:40Z","pid":"7954422092","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":137,"ratio":1.37,"mismatch":[]}}
+{"ts":"2026-10-14T16:24:49Z","pid":"7983262776","stage":"lensed","run":"lensworker-20261014-1619","note":null,"data":{"med":54,"ratio":2.16,"mismatch":[]}}
+{"ts":"2026-10-14T16:24:57Z","pid":"7983257346","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":324,"ratio":16.2,"mismatch":[]}}
+{"ts":"2026-10-14T16:25:07Z","pid":"7950877006","stage":"flagged","run":"lensworker-20261014-1619","note":"Lens names Waterbury — title does not","data":{"med":346,"ratio":4.61,"mismatch":["Waterbury"]}}
+{"ts":"2026-10-14T16:25:15Z","pid":"7953076428","stage":"lensed","run":"lensworker-20261014-1619","note":null,"data":{"med":23,"ratio":1.53,"mismatch":[]}}
+{"ts":"2026-10-14T16:25:26Z","pid":"7955980451","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":6278,"ratio":62.78,"mismatch":[]}}
+{"ts":"2026-10-14T16:25:36Z","pid":"7961684136","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":80,"ratio":0.53,"mismatch":[]}}
+{"ts":"2026-10-14T16:25:43Z","pid":"7975200744","stage":"flagged","run":"lensworker-20261014-1619","note":"Lens names Gold, Jewelry, Pink — title does not","data":{"med":3950,"ratio":131.67,"mismatch":["Gold","Jewelry","Pink"]}}
+{"ts":"2026-10-14T16:25:54Z","pid":"7956959501","stage":"lensed","run":"lensworker-20261014-1619","note":null,"data":{"med":55,"ratio":1.1,"mismatch":[]}}
+{"ts":"2026-10-14T16:26:04Z","pid":"7961639817","stage":"flagged","run":"lensworker-20261014-1619","note":"Lens names Limited — title does not","data":{"med":25,"ratio":1.25,"mismatch":["Limited"]}}
+{"ts":"2026-10-14T16:26:12Z","pid":"7970506284","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":85,"ratio":1.42,"mismatch":[]}}
+{"ts":"2026-10-14T16:26:22Z","pid":"7942746019","stage":"lensed","run":"lensworker-20261014-1619","note":null,"data":{"med":10,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-14T16:26:32Z","pid":"7952865376","stage":"lensed","run":"lensworker-20261014-1619","note":null,"data":{"med":16,"ratio":0.64,"mismatch":[]}}
+{"ts":"2026-10-14T16:26:40Z","pid":"7946165866","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":1055,"ratio":10.55,"mismatch":[]}}
+{"ts":"2026-10-14T16:26:49Z","pid":"7978089552","stage":"flagged","run":"lensworker-20261014-1619","note":null,"data":{"med":500,"ratio":2.99,"mismatch":[]}}

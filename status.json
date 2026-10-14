@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:23:15Z",
+ "updated": "2026-10-14T16:27:07Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9013,
-  "events": 31827,
+  "lens": 9038,
+  "events": 31852,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 446,
+  "queued/relens": 450,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 239,
-  "flagged": 796,
-  "lensed": 269
+  "queued": 214,
+  "flagged": 811,
+  "lensed": 275
  },
  "last_harvests": [
   {
@@ -552,6 +552,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975200744",
+   "title": "Faux sAmber & Diamond Pendant",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/saugus-faux-samber-diamond-pendant/cT9r7QrTL9RpfJNUFxT9wr",
+   "best": "1stDibs",
+   "med": 3950,
+   "ratio": 131.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7943638984",
    "title": "Collection of Vintage Cameras",
    "price": 1,
@@ -640,6 +651,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955980451",
+   "title": "PSA Graded Baseball Cards",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-psa-graded-baseball-cards/sQXLRws8sW4HWvjJZmDnN8",
+   "best": "1972 TOPPS BASEBALL COMPLETE SET 787 Cards NM-MT / MINT ...",
+   "med": 6278,
+   "ratio": 62.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7954916105",
    "title": "Costume Jewelry",
    "price": 3,
@@ -692,6 +714,17 @@
    "best": "Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ...",
    "med": 4800,
    "ratio": 48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946417677",
+   "title": "Breitling Chronometer> Blue Dial >Replica>Stainless Band Marked",
+   "price": 175,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-breitling-chronometer-blue-dial/7puGej2v4UaaRfcid4pEW2",
+   "best": "Reddit",
+   "med": 7950,
+   "ratio": 45.43,
    "ai_value": ""
   },
   {
@@ -1135,6 +1168,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983257346",
+   "title": "HEART PENDANTS (NEW)",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-city-heart-pendants-new/hApSD7ABy16amBFTiUggzf",
+   "best": "Open CZ Heart Pendant. Style #ASP024 - Etsy",
+   "med": 324,
+   "ratio": 16.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471663",
    "title": "Vintage 925/14k Gold Vermeil filigree Jade & Pearl Earrings",
    "price": 30,
@@ -1432,6 +1476,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975678224",
+   "title": "1800s Cast Iron Cuspidor",
+   "price": 50,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/whitelaw-1800s-cast-iron-cuspidor/1RpjfUU5fWnd7BXpPYCzm6",
+   "best": "1stDibs",
+   "med": 600,
+   "ratio": 12,
+   "ai_value": ""
+  },
+  {
    "pid": "7942937814",
    "title": "Bracelets",
    "price": 15,
@@ -1495,6 +1550,17 @@
    "best": "Las mejores ofertas en Gibson Les Paul Epiphone 6 Cuerdas ...",
    "med": 1115,
    "ratio": 11.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946165866",
+   "title": "LAGUIOLE  KNIVES",
+   "price": 100,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/collingswood-laguiole-knives/jz1bRkXKmivAkRpybzHcvM",
+   "best": "Laguiole Bougna - Table knife set - ABS - Folding knives ...",
+   "med": 1055,
+   "ratio": 10.55,
    "ai_value": ""
   },
   {
@@ -2510,6 +2576,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950877006",
+   "title": "Antique Ansonia Clock",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-antique-ansonia-clock/6v9gPQ7x4bgsRbuCBCY4FT",
+   "best": "Waterbury 10 Inch Drop Octagon Schoolhouse General Store ...",
+   "med": 346,
+   "ratio": 4.61,
+   "ai_value": ""
+  },
+  {
    "pid": "7954349337",
    "title": "Moses Ten Commandments Sculpture",
    "price": 75,
@@ -3368,6 +3445,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978089552",
+   "title": "BARBARA A. WOOD",
+   "price": 167,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/monrovia-barbara-wood/s4V3AzH8gccAcGeX4xURk1",
+   "best": "19 Best Barbara Wood ideas | barbara woods, barbara ...",
+   "med": 500,
+   "ratio": 2.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7978263843",
    "title": "Harley Davidson pocket watch",
    "price": 20,
@@ -3497,6 +3585,17 @@
    "best": "eBay",
    "med": 70,
    "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945601047",
+   "title": "Citizen Eco-Drive Watch",
+   "price": 50,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-citizen-eco-drive-watch/62ykxMbARNXzQbm8Ue7Uj2",
+   "best": "eBay",
+   "med": 139,
+   "ratio": 2.78,
    "ai_value": ""
   },
   {
@@ -5458,6 +5557,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945055639",
+   "title": "Vintage Atlantic Mold Co. Set of 6 Animals Replacements Nativity",
+   "price": 30,
+   "area": "greenville",
+   "url": "https://www.craigslist.org/view/d/waterloo-vintage-atlantic-mold-co-set/a2HPNuif8bHYWrMNuhpPbk",
+   "best": "Poshmark",
+   "med": 45,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -5574,6 +5684,17 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/anaheim-vintage-saint-george-pendant/wnqWp5mMUuNUrMVVNJYtKb",
    "best": "Antique Religious Large Sterling Medal. Saint Georges ...",
+   "med": 85,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970506284",
+   "title": "Parker-Edward And Schrade Walden knives",
+   "price": 60,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/mount-holly-parker-edward-and-schrade/nXD5rJBa9QQLTeJ6gFqimr",
+   "best": "Vintage White Tail Cutlery Pakistan Handmade Stag Horn 055 ...",
    "med": 85,
    "ratio": 1.42,
    "ai_value": ""
@@ -5777,6 +5898,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954422092",
+   "title": "Antique Bottles 1920's/30's",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/staten-island-antique-bottles-1920s-30s/ogUGrLUghnDZK8Dz49556Q",
+   "best": "antique bottles 1800-1900 | eBay",
+   "med": 137,
+   "ratio": 1.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7949234609",
    "title": "Sterling Silver 1 3/4\u201d Hoop Earrings",
    "price": 30,
@@ -5906,6 +6038,17 @@
    "best": "Etsy",
    "med": 13,
    "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954911675",
+   "title": "Antique mantle clock",
+   "price": 90,
+   "area": "easttexas",
+   "url": "https://www.craigslist.org/view/d/sulphur-springs-antique-mantle-clock/6e4kiLGgUNG8qZnDvwt734",
+   "best": "eBay",
+   "med": 115,
+   "ratio": 1.28,
    "ai_value": ""
   },
   {
@@ -6059,6 +6202,17 @@
    "url": "https://www.craigslist.org/view/d/conowingo-swarovski-miniature-crystal/2VUCWgdDk9kHanzWBne9Td",
    "best": "eBay",
    "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961639817",
+   "title": "Vintage Jewel Princess Barbie",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/woburn-vintage-jewel-princess-barbie/eLoJ3asenMNwmuq5Cgeg7e",
+   "best": "1996 Jewel Princess Barbie Limited Edition Winter Princess ...",
+   "med": 25,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -7929,6 +8083,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-signed-double-shank/m6UTJT11kLDpXALmLeqN3y",
    "best": "Etsy",
    "med": 127,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961684136",
+   "title": "Vintage Vinyl 80s Metal Picture Disc Collection",
+   "price": 150,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-vintage-vinyl-80s-metal/mjGJ78xSPjRvfx81UuabcK",
+   "best": "MEAT LOAF SIGNED AUTOGRAPH BAT OUT OF HELL PICTURE DISC ...",
+   "med": 80,
    "ratio": 0.53,
    "ai_value": ""
   },
