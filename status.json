@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:08:41Z",
+ "updated": "2026-10-14T15:12:46Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8524,
-  "events": 31338,
+  "lens": 8549,
+  "events": 31363,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 366,
+  "queued/relens": 377,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 728,
-  "flagged": 485,
-  "lensed": 171
+  "queued": 703,
+  "flagged": 497,
+  "lensed": 173
  },
  "last_harvests": [
   {
@@ -812,6 +812,17 @@
    "url": "https://www.craigslist.org/view/d/bozeman-vintage-coca-cola-bottles-set/rRZZp7Js35fc84NawxXQ34",
    "best": "Craigslist",
    "med": 130,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953509796",
+   "title": "Vintage Pure Silver Plated Necklace and Pendent",
+   "price": 25,
+   "area": "youngstown",
+   "url": "https://www.craigslist.org/view/d/aliquippa-vintage-pure-silver-plated/dcQEnfCr9xDVPgHCe5nf8G",
+   "best": "Kohl's",
+   "med": 325,
    "ratio": 13,
    "ai_value": ""
   },
@@ -1817,6 +1828,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956349316",
+   "title": "Bulova watch",
+   "price": 50,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/colonial-heights-bulova-watch/n2LAiCqnAPMmLisYyXWbak",
+   "best": "Craigslist",
+   "med": 175,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -2246,6 +2268,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983288564",
+   "title": "Costume Jewelry Lot \u2013 Pins, Brooches, Earrings & Stick Pin",
+   "price": 12,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/birmingham-costume-jewelry-lot-pins/vYvu1m6cfHjFBem828HbgA",
+   "best": "Huge Lot Of 34 Pins Brooches Costume Jewelry Hats Gold Tone ...",
+   "med": 30,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951810082",
    "title": "Antique 800 Silver FG part of pocket watch",
    "price": 95,
@@ -2353,6 +2386,17 @@
    "best": "Etsy",
    "med": 106,
    "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952358236",
+   "title": "LLADRO'S, WEDDING and WEDDING BELLS STATUES",
+   "price": 35,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-lladros-wedding-and-wedding/sGCK4aYoDTYoJEMRGJ3oni",
+   "best": "eBay",
+   "med": 82,
+   "ratio": 2.34,
    "ai_value": ""
   },
   {
@@ -3522,6 +3566,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949912946",
+   "title": "Antique Sheep Shears",
+   "price": 15,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/stratham-antique-sheep-shears/3B1NYb1Umh8h9nDecs3jpt",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7943191919",
    "title": "Sterling Silver Beaded 20\u201d Necklace",
    "price": 35,
@@ -3661,6 +3716,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-handcrafted-studio-pottery/eY88x8y7TepAN3DK68j7fu",
    "best": "Hausenware Ninette Parisi sunflower collector jumbo mug | eBay",
    "med": 25,
+   "ratio": 1.39,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955795366",
+   "title": "Retired Silpada sterling silver filigree floral slide pendant necklace",
+   "price": 49,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/ballwin-retired-silpada-sterling-silver/q6rdZfoisdWhBf6LHFTLXR",
+   "best": "eBay",
+   "med": 68,
    "ratio": 1.39,
    "ai_value": ""
   },
@@ -4435,6 +4501,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954181492",
+   "title": "Sterling/Turquoise ring",
+   "price": 75,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/bernalillo-sterling-turquoise-ring/qfGe57JGPwA8j2PpddTy94",
+   "best": "Craigslist",
+   "med": 70,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7966649352",
    "title": "Embossed Nautical Scene  Framed",
    "price": 120,
@@ -4787,6 +4864,17 @@
    "ai_value": "sell or are valued between $30"
   },
   {
+   "pid": "7983281565",
+   "title": "14K YELLOW GOLD PLATED 22\" ROPE CHAIN",
+   "price": 25,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/wappingers-falls-14k-yellow-gold-plated/4HZU8bFho52jJ2nG3orGis",
+   "best": "Welch Jewelers",
+   "med": 18,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7960677090",
    "title": "Turquoise in sterling silver pendant",
    "price": 200,
@@ -4805,6 +4893,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-sunflower/keeBsQiviuBY2e5wKi1mf7",
    "best": "eBay",
    "med": 50,
+   "ratio": 0.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935069543",
+   "title": "Tica Rosa Sterling 925 Aventurine Bracelet",
+   "price": 28,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/nashua-tica-rosa-sterling-925/joAz7hSXXnAvMEpNge3pkx",
+   "best": "Etsy",
+   "med": 20,
    "ratio": 0.71,
    "ai_value": ""
   },
@@ -4970,6 +5069,17 @@
    "url": "https://www.craigslist.org/view/d/dickson-collection-of-hummels/aqgUsoHAVWA3r9WPx1iLPm",
    "best": "Goebel Hummel #333 \"Blessed Event\" 5-1/2 inches tall TMK5 ...",
    "med": 60,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983306987",
+   "title": "SILVER JEWELRY MISC.\ud83e\ude77\ud83c\udf85\ud83c\udf85\ud83c\udf85",
+   "price": 25,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-silver-jewelry-misc/7SMthNZvszL8fEETDYpdHR",
+   "best": "LOT OF 33 STERLING SILVER .925 SPORTS CROSS NUMBER FLOWER ...",
+   "med": 15,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -5326,6 +5436,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953283701",
+   "title": "VINTAGE STERLING SILVER ONYX ZEBRA BRACELET HOOK BANGLE MEXICO NATIVE",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-sterling-silver-onyx/kstC4m3ud93Wkgq5z4Xpuq",
+   "best": "Craigslist",
+   "med": 36,
+   "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7975555695",
    "title": "2.25\" Vintage 8 Point Star Octagram Sterling Pendant Taxco Black Onyx",
    "price": 150,
@@ -5619,6 +5740,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-ecclissi-sterling-silver/gvDaPXf5UMKB2ihNwc6sNv",
    "best": "eBay",
    "med": 22,
+   "ratio": 0.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931749814",
+   "title": "Vintage glassware",
+   "price": 400,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/sweetwater-vintage-glassware/my5hkcewMYw63K78V2sk75",
+   "best": "Mid Century L.E. Smith Large Colonial Blue Paneled Footed ...",
+   "med": 50,
    "ratio": 0.13,
    "ai_value": ""
   },

@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T15:08:41Z
+# Refurbish status — 2026-10-14T15:12:46Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| queued | 728 |
-| flagged | 485 |
-| queued/relens | 366 |
-| lensed | 171 |
+| queued | 703 |
+| flagged | 497 |
+| queued/relens | 377 |
+| lensed | 173 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 10
 - searches: 2386
 - listings: 10583
-- lens: 8524
-- events: 31338
+- lens: 8549
+- events: 31363
 - comps: 2156
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (485)
+## Flagged by Lens, waiting for photo review (497)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -178,6 +178,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00505_5m5rtI96v69_08Q05Z_300x300.jpg" width="120"> | 7951742668 | $99 | orangecounty | [Sterling Silver and Contemporary Ethnic Jewelry](https://www.craigslist.org/view/d/newport-beach-sterling-silver-and/rPxvvS9ATqEGdsM164SjBs) | eBay | 1395 | 14.09 |
 | <img src="https://images.craigslist.org/00Q0Q_kL9xtFcWNkM_0lM0t2_300x300.jpg" width="120"> | 7931311842 | $50 | washingtondc | [Vintage.925/Gold Vermeil Amethyst and diamond cock](https://www.craigslist.org/view/d/fort-washington-vintage925-gold-vermeil/cJJEZTJUo12WxGXkoD4zjF) | Gem | 677 | 13.54 |
 | <img src="https://images.craigslist.org/01010_4NW8cBbsluk_12w0Mo_300x300.jpg" width="120"> | 7976769864 | $10 | bozeman | [Vintage Coca-Cola Bottles – Set of 8 ($10 Each / $](https://www.craigslist.org/view/d/bozeman-vintage-coca-cola-bottles-set/rRZZp7Js35fc84NawxXQ34) | Craigslist | 130 | 13 |
+| <img src="https://images.craigslist.org/00o0o_chtAiZbJNnl_0t20Cz_300x300.jpg" width="120"> | 7953509796 | $25 | youngstown | [Vintage Pure Silver Plated Necklace and Pendent](https://www.craigslist.org/view/d/aliquippa-vintage-pure-silver-plated/dcQEnfCr9xDVPgHCe5nf8G) | Kohl's | 325 | 13 |
 | <img src="https://images.craigslist.org/01717_8Bpi4VamhvCz_0t20CI_300x300.jpg" width="120"> | 7945560669 | $75 | cnj | [Diamond earrings](https://www.craigslist.org/view/d/plainfield-diamond-earrings/aVkbnJ46vsD6ZkeZppaxow) | 2.02 CT Round Lab Grown Diamond Cluster Flower Earrings G .. | 940 | 12.53 |
 | <img src="https://images.craigslist.org/00v0v_dgHjXtTxmKQ_0tO12w_300x300.jpg" width="120"> | 7964325765 | $80 | seattle | [1973 vintage half dollar jfk pendant](https://www.craigslist.org/view/d/renton-1973-vintage-half-dollar-jfk/s6FrJS4yZqFx9hQtvM9DD3) | Vintage Medallion Frame .900 Gold Coin SINCO PESOS 1955 ... | 975 | 12.19 |
 | <img src="https://images.craigslist.org/01010_ersC1ymEhE2_07K0ak_300x300.jpg" width="120"> | 7968091428 | $10 | sacramento | [2 Vintage Korean/Japanese Dolls on Stands-Priced E](https://www.craigslist.org/view/d/penryn-vintage-korean-japanese-dolls-on/m5RdY2Z4thM9z5YQtLxaiL) | 01 Japanese Vintage Kimono Cloth Geisha Doll 44cm / OOGI ... | 120 | 12 |
@@ -263,4 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01010_5a4VCcPzLNF_0t20CI_300x300.jpg" width="120"> | 7972351545 | $20 | palmsprings | [Sterling Silver Ring](https://www.craigslist.org/view/d/palm-springs-sterling-silver-ring/37Rw7RwMineEWjdfApnQZo) | Etsy | 75 | 3.75 |
 | <img src="https://images.craigslist.org/00d0d_lXzFNfAiUyC_0fe0ew_300x300.jpg" width="120"> | 7972045461 | $120 | washingtondc | [Watercolor Sailboats Signed -](https://www.craigslist.org/view/d/washington-watercolor-sailboats-signed/sGeMbPiXr2e6V2phJA6aRo) | Lily Pad Galleries | 450 | 3.75 |
 | <img src="https://images.craigslist.org/00Z0Z_ipDBPDH96Hz_0t20CI_300x300.jpg" width="120"> | 7951809965 | $175 | sandiego | [Raymond Weil Tango Watch](https://www.craigslist.org/view/d/san-marcos-raymond-weil-tango-watch/uzj3JEGjr6zE1sXGtkMHdg) | Raymond Weil Tango Watch Ref. 5971 19mm Quartz Stainless ... | 650 | 3.71 |
-| <img src="https://images.craigslist.org/00A0A_lxLXK2RldWE_0t20CI_300x300.jpg" width="120"> | 7940918247 | $30 | minneapolis | [Vintage Ceramic Peace Sign Pendant](https://www.craigslist.org/view/d/stillwater-vintage-ceramic-peace-sign/5r2b3R4Fz3ZSzHqzF6CPym) | Craigslist | 110 | 3.67 |
