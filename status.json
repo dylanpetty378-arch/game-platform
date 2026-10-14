@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T23:16:33Z",
+ "updated": "2026-10-14T23:20:22Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9949,
-  "events": 33565,
+  "lens": 9974,
+  "events": 33590,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 103,
-  "flagged": 1469,
-  "lensed": 492
+  "queued": 78,
+  "flagged": 1487,
+  "lensed": 499
  },
  "last_harvests": [
   {
@@ -682,6 +682,17 @@
    "best": "Miller Studios Floral Chalkware Flowers Wall Hanging Green ...",
    "med": 4200,
    "ratio": 168,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974234039",
+   "title": "Ladies Silver Ring",
+   "price": 35,
+   "area": "littlerock",
+   "url": "https://www.craigslist.org/view/d/roland-ladies-silver-ring/iQKronBfF9z4P7EyjnyLEe",
+   "best": "Retired Silpada 925 Sterling Silver Champagne Cubic Zirconia ...",
+   "med": 4950,
+   "ratio": 141.43,
    "ai_value": ""
   },
   {
@@ -1620,6 +1631,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982183895",
+   "title": "Ladies Fashion Gold Ring sz10",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring/hm2QR21RgQBr5VfAwj4ZN4",
+   "best": "CUTE Solid 14K Yellow Gold DOUBLE HEART Filigree Ring 1.6gr ...",
+   "med": 350,
+   "ratio": 23.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7978095447",
    "title": "BARBARA A. WOOD",
    "price": 41,
@@ -2104,6 +2126,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962496635",
+   "title": "Vintage Oval Desk/Mantle Clock - Green & Gold (Taiwan)",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/schaumburg-vintage-oval-desk-mantle/eQz5QxjtRiyPDue6eg3hXL",
+   "best": "Cartier Paris Baignoire Table Alarm Clock | eBay",
+   "med": 569,
+   "ratio": 16.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7947936712",
    "title": "7 vintage lucite art deco sculptures",
    "price": 40,
@@ -2445,6 +2478,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957976840",
+   "title": "Vintage Porcelain Trinket-Jewelry Box",
+   "price": 15,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/ashland-vintage-porcelain-trinket/uCcEvR76jNRbL84JopKEC6",
+   "best": "VINTAGE PORCELAIN HAIR RECEIVER W/ LID TEAL CORAL FLORAL ...",
+   "med": 195,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
    "pid": "7955996012",
    "title": "3 Ladies Watches",
    "price": 10,
@@ -2651,6 +2695,17 @@
    "best": "Art Brokerage",
    "med": 600,
    "ratio": 11.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957177586",
+   "title": "Sterling silver ring by Hon Nagi",
+   "price": 65,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-sterling-silver-ring-by-hon/tsb3eTvuF1Dk51x6Z4Kt1b",
+   "best": "HERMES Chaine d'ancre Enchainee Diamond Sterling Silver ...",
+   "med": 745,
+   "ratio": 11.46,
    "ai_value": ""
   },
   {
@@ -2929,6 +2984,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953191489",
+   "title": "Japanese Gold Imari Decorative Plate-Hand-Painted",
+   "price": 15,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/cypress-japanese-gold-imari-decorative/qNJobdZC2aZYwtsv5h22PM",
+   "best": "Gold Imari Handpainted Japanese GIM1 Pattern Salad Plate ...",
+   "med": 150,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7953372719",
    "title": "Hand thrown pottery",
    "price": 14,
@@ -3047,6 +3113,17 @@
    "best": "MEMORIES Pink Roses Silver Necklace - Etsy",
    "med": 45,
    "ratio": 9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955404918",
+   "title": "14K GOLD LAPIS EARRINGS",
+   "price": 300,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-14k-gold-lapis-earrings/whSnaqthhUD8V6PFknJypP",
+   "best": "Statement Ring With Lapis Center Stone \u2013 18K Yellow Gold ...",
+   "med": 2698,
+   "ratio": 8.99,
    "ai_value": ""
   },
   {
@@ -3256,6 +3333,17 @@
    "best": "eBay",
    "med": 122,
    "ratio": 8.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931775542",
+   "title": "10\" gold fish vase",
+   "price": 35,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/charleston-afb-10-gold-fish-vase/oLhkZhu3zh1P5qBAjp677C",
+   "best": "Japo\u0144ska waza emalia Shippo Cloisonne 20cm Japonia po\u0142owa XX ...",
+   "med": 284,
+   "ratio": 8.11,
    "ai_value": ""
   },
   {
@@ -4740,6 +4828,17 @@
    "url": "https://www.craigslist.org/view/d/cohoes-necklaces/aNnb5jVQEovkNTtNgUWLhg",
    "best": "Vintage 42 CT Oval Moonstone Pendant 925 Silver 2.5MM ...",
    "med": 90,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955995545",
+   "title": "Southwest Turquoise Hair Comb",
+   "price": 40,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/newbury-southwest-turquoise-hair-comb/8aUJCRsfgeiMvBBeQBmoeg",
+   "best": "vtg Native American Zuni Sterling Turquoise petit point hair ...",
+   "med": 180,
    "ratio": 4.5,
    "ai_value": ""
   },
@@ -6303,6 +6402,17 @@
    "best": "Ruby Lane",
    "med": 92,
    "ratio": 3.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954562007",
+   "title": "INFINITY Figure 8 Hallmark 10k Gold & Diamond 18\" NECKLACE",
+   "price": 149,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-infinity-figure-hallmark-10k/fUxFyVJ9paf4ecfyx9S8Ea",
+   "best": "18KT ROSE GOLD STERLING SILVER DIAMOND SET WHITE SAPPHIRE ...",
+   "med": 456,
+   "ratio": 3.06,
    "ai_value": ""
   },
   {
@@ -8869,6 +8979,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953131786",
+   "title": "VTG- Egyptian Scarab Revival Bracelet",
+   "price": 40,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vtg-egyptian-scarab-revival/qfbAdbniesbFKshiFC3yNf",
+   "best": "Vintage Coro Scarab Link Bracelet - Etsy",
+   "med": 75,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7953070017",
    "title": "Antique Men's Tie Clip w/ Hallmark",
    "price": 15,
@@ -10662,6 +10783,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7955652764",
+   "title": "LADY'S WACH NEW",
+   "price": 30,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/mcalester-ladys-wach-new/p78r8YP2qQqG3HwkCGoemq",
+   "best": "Men Hip Hop Iced Gold Plated Bling Black Dial Lab Diamond ...",
+   "med": 42,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934646535",
+   "title": "Antique Sugar Bowl",
+   "price": 10,
+   "area": "bn",
+   "url": "https://www.craigslist.org/view/d/peoria-antique-sugar-bowl/jB7U6t5nMKikioATPTFuPh",
+   "best": "Jeannette Cube Cubist Pink Depression Glass Double Handled ...",
+   "med": 14,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7965370614",
    "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
    "price": 18,
@@ -10967,6 +11110,17 @@
    "best": "eBay",
    "med": 33,
    "ratio": 1.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951388075",
+   "title": "14K Gold Purple Stone Halo Ring",
+   "price": 200,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-14k-gold-purple-stone-halo/c4V9LH53MDtcsTjhZaQ1hm",
+   "best": "14K Yellow Gold Pink Sapphire Diamond Halo Ring - Etsy",
+   "med": 263,
+   "ratio": 1.31,
    "ai_value": ""
   },
   {
@@ -11571,6 +11725,17 @@
    "url": "https://www.craigslist.org/view/d/portland-vintage-1970s-with-swarovski/rVfcRp1szQsUxUGrVYDNGF",
    "best": "Vintage 1970s Ruby Crystal Cocktail Ring: 18k Gold ...",
    "med": 70,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938204842",
+   "title": "Three Teabowls by Bonita Cohn",
+   "price": 115,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/union-city-three-teabowls-by-bonita-cohn/kpyU6ANeYFQwSfxFZzB8zS",
+   "best": "Tea Bowl Shigaraki Ware Konishi Toko Matcha Chawan w/Box Tea ...",
+   "med": 134,
    "ratio": 1.17,
    "ai_value": ""
   },
@@ -12235,6 +12400,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931836885",
+   "title": "Vintage Large Crystal Basket",
+   "price": 95,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasant-hill-vintage-large-crystal/5GVSzV8p4X9m7k7FvEPzco",
+   "best": "Toscany Cut Crystal Basket | Please Read | eBay",
+   "med": 99,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
    "pid": "7968810867",
    "title": "ANTIQUE ART DECO ELGIN MODEL 7 S16 17J POCKET WATCH, MADE 1937, RUNNIN",
    "price": 325,
@@ -12583,6 +12759,17 @@
    "url": "https://www.craigslist.org/view/d/carlsbad-vintage-children-carolers/nQcgkSaasMx9EnB62e78qa",
    "best": "eBay",
    "med": 39,
+   "ratio": 0.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971962976",
+   "title": "Necklaces",
+   "price": 30,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cohoes-necklaces/b1LFFeJq6qHDotDAxVDn1G",
+   "best": "Dalmatian Jasper Silver Gemstone Pendant - Dainty Crystal ...",
+   "med": 29,
    "ratio": 0.97,
    "ai_value": ""
   },
@@ -14444,6 +14631,17 @@
    "med": 42,
    "ratio": 0.56,
    "ai_value": "Sold at Auction: Vintage Bamboo Wicker Shanghai Imports Owl Vase Out of stock $20"
+  },
+  {
+   "pid": "7972430718",
+   "title": "Decorative Antique.",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-decorative-antique/xAMiS2gocCDr9vZYMgWW1U",
+   "best": "Vtg Nippon Ceramic & Lace Bride Figurine 4.5\" Japan | eBay",
+   "med": 25,
+   "ratio": 0.56,
+   "ai_value": ""
   },
   {
    "pid": "7961822934",

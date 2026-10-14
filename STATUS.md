@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T23:16:33Z
+# Refurbish status — 2026-10-14T23:20:22Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,11 +7,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1469 |
-| lensed | 492 |
+| flagged | 1487 |
+| lensed | 499 |
 | queued/relens | 485 |
-| queued | 103 |
 | decided/ask | 85 |
+| queued | 78 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
 | expired | 14 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 11
 - searches: 2614
 - listings: 11383
-- lens: 9949
-- events: 33565
+- lens: 9974
+- events: 33590
 - comps: 2358
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1469)
+## Flagged by Lens, waiting for photo review (1487)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -163,6 +163,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00v0v_4EcgrjmPdHC_0lM0t2_300x300.jpg" width="120"> | 7983290109 | $50 | atlanta | [Light Amber from Baltic](https://www.craigslist.org/view/d/tucker-light-amber-from-baltic/oJU8kEdsKno1fqfaRNrL6E) | Vintage Natural Baltic Butterscotch Amber Necklace with 14K  | 9746 | 194.92 |
 | <img src="https://images.craigslist.org/00z0z_fIwhtjT3lm5_0CI0hq_300x300.jpg" width="120"> | 7972979781 | $35 | boise | [BRIGHTON Meridian Petite Prime Bracelet](https://www.craigslist.org/view/d/boise-brighton-meridian-petite-prime/cN7nY6DFh2z9HUZS2GrkpW) | Brighton Meridian Petite Bracelet / eBay | 6200 | 177.14 |
 | <img src="https://images.craigslist.org/00808_kcbkA8EOezv_0t20CI_300x300.jpg" width="120"> | 7969480947 | $25 | austin | [Vintage Ornate Destressed White & Gold Tone Decora](https://www.craigslist.org/view/d/kyle-vintage-ornate-destressed-white/3cDrTDnKUaFKcYMzgdyztn) | Miller Studios Floral Chalkware Flowers Wall Hanging Green . | 4200 | 168 |
+| <img src="https://images.craigslist.org/00I0I_9SG3FiEyFOI_0CI0t2_300x300.jpg" width="120"> | 7974234039 | $35 | littlerock | [Ladies Silver Ring](https://www.craigslist.org/view/d/roland-ladies-silver-ring/iQKronBfF9z4P7EyjnyLEe) | Retired Silpada 925 Sterling Silver Champagne Cubic Zirconia | 4950 | 141.43 |
 | <img src="https://images.craigslist.org/00n0n_7K3KNkDcIk8_0pO0lC_300x300.jpg" width="120"> | 7953135437 | $25 | miami | [ART MASTERPIECES](https://www.craigslist.org/view/d/boynton-beach-art-masterpieces/qYsWz9d2DR2UxYHXcY6cgF) | Sold at Auction: Bill Gallen, Bill Gallen / The Red Mountain | 3500 | 140 |
 | <img src="https://images.craigslist.org/00v0v_7IZjBvA9zir_0t20CI_300x300.jpg" width="120"> | 7975200744 | $30 | boston | [Faux sAmber & Diamond Pendant](https://www.craigslist.org/view/d/saugus-faux-samber-diamond-pendant/cT9r7QrTL9RpfJNUFxT9wr) | 1stDibs | 3950 | 131.67 |
 | <img src="https://images.craigslist.org/00U0U_5V1gqoU72hw_0t20CI_300x300.jpg" width="120"> | 7937435125 | $20 | sfbay | [Marcasite,Sterling Silver Earrings](https://www.craigslist.org/view/d/san-francisco-marcasitesterling-silver/7bFuWD8yGuP7CGH84BEpd1) | eBay | 2515 | 125.75 |
@@ -248,6 +249,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00707_ksnY7dDANFo_0t20CI_300x300.jpg" width="120"> | 7962772860 | $30 | sfbay | [Sterling Silver Ring, about size 8](https://www.craigslist.org/view/d/san-francisco-sterling-silver-ring/qSZXPUfziFPXtvxJj9PMBE) | Estate Michelle Albala Sterling Silver Oval Cut Garnet Three | 728 | 24.27 |
 | <img src="https://images.craigslist.org/00e0e_ajdmX5VipJJ_0jN0qo_300x300.jpg" width="120"> | 7948989527 | $25 | albuquerque | [Beaded necklaces and pendants](https://www.craigslist.org/view/d/sandia-park-beaded-necklaces-and/9vT4cngDeMLvE2XmmhbY5a) | Craigslist | 586 | 23.44 |
 | <img src="https://images.craigslist.org/00s0s_hoAu6MM10Y5_0CI0t2_300x300.jpg" width="120"> | 7961158218 | $20 | longisland | [Antique Pierced Earrings  ~ Bakelite](https://www.craigslist.org/view/d/aquebogue-antique-pierced-earrings/jhWh1fP3j4YxYRxVYFqK9g) | Buy Vintage 14k Solid Gold Carved Genuine Shell Cameo ... | 468 | 23.4 |
+| <img src="https://images.craigslist.org/00o0o_kJq20DwLeFq_0cb08f_300x300.jpg" width="120"> | 7982183895 | $15 | washingtondc | [Ladies Fashion Gold Ring sz10](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring/hm2QR21RgQBr5VfAwj4ZN4) | CUTE Solid 14K Yellow Gold DOUBLE HEART Filigree Ring 1.6gr  | 350 | 23.33 |
 | <img src="https://images.craigslist.org/00n0n_jOWsFqnjz2d_0CI0t2_300x300.jpg" width="120"> | 7978095447 | $41 | losangeles | [BARBARA A. WOOD](https://www.craigslist.org/view/d/monrovia-barbara-wood/gXJTMWmXfhdtBL7gTZ1iH3) | Barbara Wood / Signed Barbara A. Wood “Nude w Flowers ... | 950 | 23.17 |
 | <img src="https://images.craigslist.org/00505_83JPcFgZgra_0lR0t2_300x300.jpg" width="120"> | 7958873487 | $80 | boston | [Buddha Statue](https://www.craigslist.org/view/d/wakefield-buddha-statue/uz7tyxzCsfug3ViNexVerc) | Buddha Bronze Bust Bculpture / eBay | 1850 | 23.13 |
 | <img src="https://images.craigslist.org/00101_hgjvh3vahsQ_0ak07K_300x300.jpg" width="120"> | 7952137958 | $25 | redding | [VIRTUAL ESTATE SALE II](https://www.craigslist.org/view/d/redding-virtual-estate-sale-ii/7FjPuCjFXCjyJ8VvQDrwHu) | Vtg Gold Plate Flatware Set 86 Pc Wooden Box GOLDEN BOUQUET  | 572 | 22.88 |
@@ -261,5 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00707_bHARK6XpQPW_0t20CI_300x300.jpg" width="120"> | 7958666490 | $20 | lexington | [Pearl Shell VASES](https://www.craigslist.org/view/d/lexington-pearl-shell-vases/wUdaXHhUmGGFpBM6nLwDbE) | Craigslist | 418 | 20.9 |
 | <img src="https://images.craigslist.org/00r0r_f8TAR3WHhGc_0rv0t2_300x300.jpg" width="120"> | 7951927771 | $99 | pittsburgh | [AQUAMARINE 14k Gold EARRINGS](https://www.craigslist.org/view/d/strabane-aquamarine-14k-gold-earrings/7M34zMHoW4bgtfY4jrFYCW) | Size 5.25 - 14K 585 Rose Gold Topaz Ring - Elegant Vintage . | 2058 | 20.79 |
 | <img src="https://images.craigslist.org/00o0o_krD1eoKQhXI_0kI0fx_300x300.jpg" width="120"> | 7949999524 | $30 | sfbay | [Ear Studs Turquoise- Vintage](https://www.craigslist.org/view/d/san-jose-ear-studs-turquoise-vintage/fGxXt8akY3E3RTbWPmYsRT) | eBay | 620 | 20.67 |
-| <img src="https://images.craigslist.org/01111_3hVZJZWc5jP_0t90CI_300x300.jpg" width="120"> | 7977948921 | $1 | akroncanton | [Handmade necklaces](https://www.craigslist.org/view/d/akron-handmade-necklaces/kdQ8FukbijoYKXTfRhSEco) | Etsy | 20 | 20 |
-| <img src="https://images.craigslist.org/00202_9ZgTFZD0PMl_0t20CI_300x300.jpg" width="120"> | 7936737252 | $20 | albuquerque | [Elizabeth Taylor signed picture](https://www.craigslist.org/view/d/albuquerque-elizabeth-taylor-signed/6FvJuSKnNBPqHAYdcLdxHC) | eBay | 400 | 20 |
