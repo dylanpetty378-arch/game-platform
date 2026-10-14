@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:34:42Z",
+ "updated": "2026-10-14T16:40:33Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9088,
-  "events": 31902,
+  "lens": 9113,
+  "events": 31927,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 461,
+  "queued/relens": 464,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 164,
-  "flagged": 837,
-  "lensed": 288
+  "queued": 139,
+  "flagged": 849,
+  "lensed": 298
  },
  "last_harvests": [
   {
@@ -607,6 +607,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979444442",
+   "title": "Horseshoe Clover Jewelry Charm",
+   "price": 5,
+   "area": "fortwayne",
+   "url": "https://www.craigslist.org/view/d/south-bend-horseshoe-clover-jewelry/n4nDmrjhv3mTLUZ7Yw8G3r",
+   "best": "Your Trusted Source for Jewelry - Pendants & Necklaces ...",
+   "med": 480,
+   "ratio": 96,
+   "ai_value": ""
+  },
+  {
    "pid": "7955365058",
    "title": "Costume jewelry",
    "price": 15,
@@ -893,6 +904,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953306808",
+   "title": "Beautiful antique cast bronze vase. Made by Murakami, Kyoto, Japan.'",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-beautiful-antique-cast-bronze/7BGTFH677MZESeYvTsWkHp",
+   "best": "Japanese Patinated Bronze Vases: Elephant Handles, Dragons ...",
+   "med": 2297,
+   "ratio": 30.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7983315735",
    "title": "Antique Silver Metal Flower Vase Chalice",
    "price": 35,
@@ -967,6 +989,28 @@
    "best": "Barbara Wood | Signed Barbara A. Wood \u201cNude w Flowers ...",
    "med": 950,
    "ratio": 23.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958873487",
+   "title": "Buddha Statue",
+   "price": 80,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wakefield-buddha-statue/uz7tyxzCsfug3ViNexVerc",
+   "best": "Buddha Bronze Bust Bculpture | eBay",
+   "med": 1850,
+   "ratio": 23.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952137958",
+   "title": "VIRTUAL ESTATE SALE II",
+   "price": 25,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/redding-virtual-estate-sale-ii/7FjPuCjFXCjyJ8VvQDrwHu",
+   "best": "Vtg Gold Plate Flatware Set 86 Pc Wooden Box GOLDEN BOUQUET ...",
+   "med": 572,
+   "ratio": 22.88,
    "ai_value": ""
   },
   {
@@ -1129,6 +1173,17 @@
    "price": 150,
    "area": "harrisburg",
    "url": "https://www.craigslist.org/view/d/harrisburg-guitar/aLdk5jwk5fDqViGaEmux4k",
+   "best": "Martin D-18 1976 Used Acoustic Guitar | eBay",
+   "med": 2624,
+   "ratio": 17.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956130182",
+   "title": "guitar",
+   "price": 150,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/harrisburg-guitar/7gPmoygMuDJrmFtCV3ry7f",
    "best": "Martin D-18 1976 Used Acoustic Guitar | eBay",
    "med": 2624,
    "ratio": 17.49,
@@ -2892,6 +2947,17 @@
    "best": "eBay",
    "med": 415,
    "ratio": 4.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968569418",
+   "title": "1800\u201ds era flatware",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/richmond-hill-1800s-era-flatware/x444wrSgxQVuons45DdMid",
+   "best": "Antique English Victorian Mother of Pearl 24 Piece Fish Set ...",
+   "med": 185,
+   "ratio": 4.11,
    "ai_value": ""
   },
   {
@@ -7779,6 +7845,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973657640",
+   "title": "Cuban chain nice thick wide link",
+   "price": 110,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-cuban-chain-nice-thick-wide/kPWqa7WGt7wsbPFfcofLEs",
+   "best": "925 Silver Cuban Chain Braid Chain for Men Oxidize Silver - Etsy",
+   "med": 83,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7971834546",
    "title": "Vintage Sterling Silver Turquoise & Coral Hopi/Navajo Size 6 1/4 Ring",
    "price": 250,
@@ -8032,6 +8109,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963808340",
+   "title": "Vintage Godinger Crystal Perfume Bottle",
+   "price": 35,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-vintage-godinger-crystal/9ZcjqKD1BLw2bh9PjC1w3B",
+   "best": "Vintage Godinger Silver Plated Ornate Stopper Glass Fan ...",
+   "med": 23,
+   "ratio": 0.66,
+   "ai_value": ""
+  },
+  {
    "pid": "7949674847",
    "title": "3 bags full variety fashion rings",
    "price": 100,
@@ -8182,6 +8270,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-france-four-vintage-coins/7jKwiRVPPnJB1RRKf5hKfg",
    "best": "Reverse Design: The number \"2\", the word \"FRANCS\", the year \"1948\", the motto \"LIBERTE \u2022 EGALITE \u2022 FRATERNITE\"",
    "med": 6,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983274971",
+   "title": "Fire Agate Necklace",
+   "price": 135,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-fire-agate-necklace/jMxRY3r8yZMXznwvFfTMV1",
+   "best": "Fire Agate Pendant Necklace 925 Sterling Silver / Jewelry ...",
+   "med": 81,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -8391,6 +8490,17 @@
    "url": "https://www.craigslist.org/view/d/parkville-seiko-sports-150/7W9n2Y39mWUiQtTjvRbZNN",
    "best": "Poshmark",
    "med": 149,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944498181",
+   "title": "2-sets dish's",
+   "price": 40,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/northfield-sets-dishs/5dr4HjuiUFhyRgsneedC6N",
+   "best": "Royal (USA) Colonial Homestead Green Bread & Butter, Dinner ...",
+   "med": 20,
    "ratio": 0.5,
    "ai_value": ""
   },
@@ -8714,6 +8824,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953973737",
+   "title": "Collection of 46 watch movement cases /Stainless/Base metal backs",
+   "price": 350,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-collection-of-46-watch-movement/36o4PdqrZn89AWJQpupn2e",
+   "best": "Vintage Watch movements, faces, bezels, straps - spare ...",
+   "med": 125,
+   "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7975555695",
    "title": "2.25\" Vintage 8 Point Star Octagram Sterling Pendant Taxco Black Onyx",
    "price": 150,
@@ -8831,6 +8952,17 @@
    "url": "https://www.craigslist.org/view/d/allentown-avon-steins/81sx922CFZ8G82ESG9Pu2S",
    "best": "eBay",
    "med": 30,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947721300",
+   "title": "8\"   NEW   WOMEN'S BRACELET 14K  GOLD 8 INCHES.2.4 GRAMS",
+   "price": 450,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/shrewsbury-new-womens-bracelet-14k-gold/63xuzBVdGJr9xnhNzsprti",
+   "best": "14k Gold Dainty Rope Chain Bracelet \u2013 Baby Gold",
+   "med": 135,
    "ratio": 0.3,
    "ai_value": ""
   },
