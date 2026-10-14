@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:42:41Z",
+ "updated": "2026-10-14T07:46:14Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8374,
-  "events": 30388,
+  "lens": 8399,
+  "events": 30413,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 312,
+  "queued/relens": 317,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 78,
-  "flagged": 416,
-  "lensed": 144
+  "queued": 53,
+  "flagged": 426,
+  "lensed": 154
  },
  "last_harvests": [
   {
@@ -639,6 +639,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959327315",
+   "title": "Vintage Footed Condiment/Jelly Bowl & Lid",
+   "price": 7,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-vintage-footed-condiment/gvkimKNd2ssuM1weZodARF",
+   "best": "VINTAGE CREAMER & SUGAR BOWL W/ LID GERMANY L3 ...",
+   "med": 105,
+   "ratio": 15,
+   "ai_value": ""
+  },
+  {
    "pid": "7949421619",
    "title": "Handmade Pottery Pitcher",
    "price": 20,
@@ -735,6 +746,17 @@
    "best": "eBay",
    "med": 175,
    "ratio": 11.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933122532",
+   "title": "Set of 4 Antique Elegant Glass Candle Holders",
+   "price": 6,
+   "area": "memphis",
+   "url": "https://www.craigslist.org/view/d/collierville-set-of-antique-elegant/4nsJEXY7DKcSY6JtB8yy4Q",
+   "best": "Set Of 4 Hobby Lobby Bubble Glass Clear Ball Candlesticks ...",
+   "med": 68,
+   "ratio": 11.33,
    "ai_value": ""
   },
   {
@@ -980,6 +1002,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946313155",
+   "title": "Cuff bracelets-Sterling, turquoise, bear, claw and more",
+   "price": 240,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/sandia-park-cuff-bracelets-sterling/q7LAJLNBNLPECEzHWnrMPn",
+   "best": "Signed R Blue Raw Turquoise Sterling Silver Bracelet Cuff ...",
+   "med": 1375,
+   "ratio": 5.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7933438341",
    "title": "Vintage Asian Brass Incense Burner / Censer",
    "price": 70,
@@ -1035,6 +1068,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951779294",
+   "title": "NECKLACES FOR SALE",
+   "price": 5,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-necklaces-for-sale/gs84ZsyqamJ9zM1uLY9xtA",
+   "best": "Small Jewelry Display Bust - Etsy",
+   "med": 27,
+   "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7963246140",
    "title": "Vintage Goldette NY Bracelet Gold Tone",
    "price": 15,
@@ -1065,6 +1109,17 @@
    "best": "Victorian Mourning Brooch, 14K Gold, Seed Pearl, Hair ...",
    "med": 346,
    "ratio": 5.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934413242",
+   "title": "Mud People Set",
+   "price": 35,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/long-lake-mud-people-set/qMU3RfQkS85yeQ5xfvLGHv",
+   "best": "Set of 2 Small Shiwan Bonsai Mudman Figurines Mini Shekwan ...",
+   "med": 180,
+   "ratio": 5.14,
    "ai_value": ""
   },
   {
@@ -2124,6 +2179,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962595455",
+   "title": "Wire wrapped pendant/necklace",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/mill-creek-wire-wrapped-pendant-necklace/c6z4ZqxnK7D5iCL75vEPKY",
+   "best": "Jellyfish Pendant Tutorial, Jewelry Wire Wrapping Tutorial ...",
+   "med": 44,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933473814",
    "title": "Sterling Silver & Agate Delicate Filagree Size 5 Ring",
    "price": 50,
@@ -2868,6 +2934,17 @@
    "url": "https://www.craigslist.org/view/d/aurora-antique-statues/cqqoRrJWXxATmjs55GDB4D",
    "best": "eBay",
    "med": 99,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947692533",
+   "title": "LONGINES Electronic Watch sale",
+   "price": 250,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-mirada-longines-electronic-watch-sale/kHsepkQWTVoQTxCdSBvDUX",
+   "best": "longines ademral tv dial - Gem",
+   "med": 380,
    "ratio": 1.52,
    "ai_value": ""
   },
@@ -3928,6 +4005,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950645092",
+   "title": "Necklace Silver (92.5) 18 Inch 90 Grams",
+   "price": 475,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-necklace-silver-inch-90-grams/jJGJjKbsa6FhJ2YjU8hUVZ",
+   "best": "Stylish Taxco Mexico sterling silver 925 grape pendant ...",
+   "med": 425,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7979722731",
    "title": "Handmade Vintage Pottery Bowl Signed by Artist Gray",
    "price": 40,
@@ -4071,6 +4159,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948679755",
+   "title": "** Original Signed Painting - \u201cBarnegat Light\u201d -  Old Barney -**",
+   "price": 125,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/lambertville-original-signed-painting/1Pwa8DVdtatoMk9RQggeUC",
+   "best": "Barnegat Lighthouse Framed Wall Art | Coast And Country",
+   "med": 98,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7983183432",
    "title": "Reduced! Vintage Natural London Blue Topaz & Diamond 14K Gold Ring",
    "price": 485,
@@ -4188,6 +4287,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-west-germany/x8bE5iWcaEhz66KyMj552G",
    "best": "Ring Southwest Lizard 925 Silver w Black Onyx Gecko Iguana ...",
    "med": 35,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950375464",
+   "title": "Sterling Silver & Turquoise necklace",
+   "price": 155,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/vista-sterling-silver-turquoise-necklace/eYKUCvHLAUPB1sZ1CBnDHz",
+   "best": "Mark Milanich (@mark.milanich) \u2022 Facebook, Connect with friends",
+   "med": 108,
    "ratio": 0.7,
    "ai_value": ""
   },
