@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:51:04Z",
+ "updated": "2026-10-14T06:54:29Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8049,
-  "events": 30063,
+  "lens": 8074,
+  "events": 30088,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 189,
+  "queued/relens": 209,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,8 +21,8 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 403,
-  "flagged": 268,
+  "queued": 378,
+  "flagged": 273,
   "lensed": 90
  },
  "last_harvests": [
@@ -1739,6 +1739,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952899775",
+   "title": "Green Olive Indiana Glass",
+   "price": 30,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-green-olive-indiana-glass/5x8GEmoioYT2wiaSAjgYpz",
+   "best": "Craigslist",
+   "med": 54,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -2146,6 +2157,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930913346",
+   "title": "Angel Charm Bracelet",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-angel-charm-bracelet/rcueRaxsim3t5gzP9PrGA8",
+   "best": "Etsy",
+   "med": 28,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7965370614",
    "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
    "price": 18,
@@ -2175,6 +2197,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-hoop/2QvXqwpmnSpB5KqULKM5m7",
    "best": "Craigslist",
    "med": 40,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951030741",
+   "title": "Germany cuckoo clock vintage",
+   "price": 75,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/howell-germany-cuckoo-clock-vintage/jnDtxNiRKymbLaB63YsqAU",
+   "best": "Pinterest",
+   "med": 100,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -2718,6 +2751,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950189401",
+   "title": "Vintage National Sportsman Magazine Cover Prints",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-vintage-national-sportsman/1DaC96YwHM2jprPW9dxNeR",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7946375985",
    "title": "Sterling Silver & Rhodonite 20\u201d Necklace",
    "price": 35,
@@ -3188,6 +3232,17 @@
    "best": "Etsy",
    "med": 54,
    "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975555695",
+   "title": "2.25\" Vintage 8 Point Star Octagram Sterling Pendant Taxco Black Onyx",
+   "price": 150,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/gladstone-225-vintage-point-star/wJEt9aEgwjTqqvjtoxiXy2",
+   "best": "Etsy",
+   "med": 51,
+   "ratio": 0.34,
    "ai_value": ""
   },
   {
