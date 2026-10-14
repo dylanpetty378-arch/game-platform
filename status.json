@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:19:11Z",
+ "updated": "2026-10-14T16:23:15Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8988,
-  "events": 31802,
+  "lens": 9013,
+  "events": 31827,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 264,
-  "flagged": 775,
-  "lensed": 265
+  "queued": 239,
+  "flagged": 796,
+  "lensed": 269
  },
  "last_harvests": [
   {
@@ -640,6 +640,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954916105",
+   "title": "Costume Jewelry",
+   "price": 3,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/costume-jewelry/8CitBSRY2y3HeoXTt4cn5A",
+   "best": "925 heart shape clasp, pearl yellow crystal. lot of 7 ...",
+   "med": 170,
+   "ratio": 56.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7932644949",
    "title": "Pink Faceted \"Statement Necklace\"",
    "price": 10,
@@ -647,6 +658,17 @@
    "url": "https://www.craigslist.org/view/d/fountain-valley-pink-faceted-statement/ic833zH2rNfoXt3mAdhV1o",
    "best": "Etsy",
    "med": 550,
+   "ratio": 55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955837070",
+   "title": "Antique Meiselman Asian Bird Floral Tureen Set",
+   "price": 50,
+   "area": "scranton",
+   "url": "https://www.craigslist.org/view/d/pittston-antique-meiselman-asian-bird/gdxb4pnyNoB8bHkMJTYD8L",
+   "best": "Pinterest",
+   "med": 2750,
    "ratio": 55,
    "ai_value": ""
   },
@@ -1003,6 +1025,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945022558",
+   "title": "Silver plated punch bowl",
+   "price": 50,
+   "area": "bemidji",
+   "url": "https://www.craigslist.org/view/d/walker-silver-plated-punch-bowl/aKdgeFAuXwvnj6eJED6Jqf",
+   "best": "Chairish",
+   "med": 895,
+   "ratio": 17.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7948745843",
    "title": "ANTIQUE POTTERY VASE",
    "price": 45,
@@ -1253,6 +1286,17 @@
    "best": "Meenakari Peacock Design Gold Plated Hinged Bracelet",
    "med": 270,
    "ratio": 13.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953717611",
+   "title": "Antique Moonstone Tennis Bracelet .925 Sterling\"",
+   "price": 175,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-antique-moonstone/e9faVPj6Sn4aSYR9Gc72yY",
+   "best": "Edwardian Graduated Moonstone Cabochon and Gold Bar Link ...",
+   "med": 2350,
+   "ratio": 13.43,
    "ai_value": ""
   },
   {
@@ -1806,6 +1850,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979401251",
+   "title": "Antique Walking Sticks $25.00 Each",
+   "price": 25,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-washington-antique-walking-sticks/oNBeevrL5rf2REc3NtFtEc",
+   "best": "eBay",
+   "med": 187,
+   "ratio": 7.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7941465612",
    "title": "2 Antique porcelain lamps",
    "price": 40,
@@ -2243,6 +2298,17 @@
    "best": "German Made Pocket Knives - Etsy",
    "med": 495,
    "ratio": 5.21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983248142",
+   "title": "New - (2) Vintage Lion\u2019s Head Door Knockers/Wall Plaques",
+   "price": 25,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/deland-new-vintage-lions-head-door/uCuRqYdYX3yyDipZaLSJQA",
+   "best": "Craigslist",
+   "med": 130,
+   "ratio": 5.2,
    "ai_value": ""
   },
   {
@@ -3291,6 +3357,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966880460",
+   "title": "Two vintage man cave decanters",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/trumbull-two-vintage-man-cave-decanters/rpTYLNpsaVmwUSy7Ejg5g3",
+   "best": "Napping Black Bear Cub Garden Statue Yard Home Decor 4x7 ...",
+   "med": 45,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978263843",
    "title": "Harley Davidson pocket watch",
    "price": 20,
@@ -3484,6 +3561,17 @@
    "area": "grandforks",
    "url": "https://www.craigslist.org/view/d/moorhead-large-vintage-jesus-portrait/eUC3fCF3fnhYqYZThFcwDH",
    "best": "eBay",
+   "med": 80,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980179964",
+   "title": "Vintage 1970 Schraade NY USA 835y Walden",
+   "price": 30,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/harleyville-vintage-1970-schraade-ny/sEfucrcjcZvhTajKE9VSWh",
+   "best": "Craigslist",
    "med": 80,
    "ratio": 2.67,
    "ai_value": ""
@@ -3728,6 +3816,17 @@
    "best": "Etsy",
    "med": 120,
    "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958886126",
+   "title": "Glass Buddha Head",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wakefield-glass-buddha-head/fGM86iJBkpQzhUnxq42nyg",
+   "best": "eBay",
+   "med": 119,
+   "ratio": 2.38,
    "ai_value": ""
   },
   {
@@ -4347,6 +4446,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7977693591",
+   "title": "Genuine Smoky Quartz & Rutilated Quartz Necklace",
+   "price": 20,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/oak-park-genuine-smoky-quartz-rutilated/cSfwVz23UsnpqFo5j2MwTg",
+   "best": "Craigslist",
+   "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968707172",
+   "title": "Buck knife",
+   "price": 75,
+   "area": "sheboygan",
+   "url": "https://www.craigslist.org/view/d/cascade-buck-knife/bAiifecdCpukmwpz61Xyeu",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -4364,6 +4485,17 @@
    "area": "sandiego",
    "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-garnet/7fgrVqFHfwWkVyYAnK9DC8",
    "best": "eBay",
+   "med": 49,
+   "ratio": 1.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945600965",
+   "title": "Vintage Weller Pottery Basket Vase",
+   "price": 25,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-vintage-weller-pottery-basket/v1hm48MoA9TuBEQ2ArhgLn",
+   "best": "Vtg Peachy Pink Weller Wild Rose Art Pottery w/ Green Handle ...",
    "med": 49,
    "ratio": 1.96,
    "ai_value": ""
@@ -5810,6 +5942,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946677278",
+   "title": "4 Vintage African Hand Carved Wooden Sculptures 32.5x26x12\"",
+   "price": 78,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/woodland-hills-vintage-african-hand/7yja6BQprngUBFLKgrC15M",
+   "best": "African Medicine Man Statue - Etsy",
+   "med": 98,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -6217,6 +6360,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952062509",
+   "title": "Vintage 1960's TAMMY DOLL w/Clothes",
+   "price": 45,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/nashua-vintage-1960s-tammy-doll-clothes/7huun9Zm8DaEGLYaiNCM82",
+   "best": "Vintage Tammy 1960s Doll Ideal Toy Company - Etsy",
+   "med": 50,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7962599217",
    "title": "Two pendants",
    "price": 20,
@@ -6324,6 +6478,17 @@
    "best": "eBay",
    "med": 22,
    "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949203653",
+   "title": "Vintage 'NYC Skyline' 3-Piece B&W Accent Art",
+   "price": 60,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-nyc-skyline-piece-bw/4rp8zebNmU8BLUYfPTPzUE",
+   "best": "SendAFrame.com",
+   "med": 65,
+   "ratio": 1.08,
    "ai_value": ""
   },
   {
@@ -6679,6 +6844,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945227416",
+   "title": "Helen Post Painting",
+   "price": 400,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-helen-post-painting/v8z3GU4Z23vKEAvzHojTeN",
+   "best": "Vintage Italian Lily Daneu-Giachery Watercolor Landscape of ...",
+   "med": 380,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7948667022",
    "title": "Beautiful sterling bracelet with unique vintage charms",
    "price": 175,
@@ -6741,6 +6917,17 @@
    "url": "https://www.craigslist.org/view/d/washington-embossed-nautical-scene/qbX6WJ2CjNBxPRzadEDyJr",
    "best": "Creazioni Artistche 925 Sterling Silver Paesaggio Hand ...",
    "med": 110,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942559293",
+   "title": "Antique Ruby Red Glass Stemware w/  Glass Twisted Stems, Set of 12",
+   "price": 65,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/antique-ruby-red-glass-stemware-glass/cxHKWJKua7GB4hBwerU4An",
+   "best": "eBay",
+   "med": 60,
    "ratio": 0.92,
    "ai_value": ""
   },
@@ -7460,6 +7647,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951984552",
+   "title": "1862-1867 Sinkiang Rebel Cash Coin",
+   "price": 42,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-sinkiang-rebel-cash-coin/bM4fR4s5rcKm8pYZkwRwcG",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7950732303",
    "title": "Sterling Silver Pearl Necklace",
    "price": 70,
@@ -7467,6 +7665,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-sterling-silver-pearl-necklace/riagiLrZxnaiKR8fpQ2wNo",
    "best": "\u041c\u043e\u0439 \u041c\u0438\u0440",
    "med": 46,
+   "ratio": 0.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931633116",
+   "title": "Real painting on canvas vintage",
+   "price": 250,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/roseville-real-painting-on-canvas/39WR2ZaMQbQuDcfp3zxb61",
+   "best": "Budget-Friendly Coastal Sitting Room Refresh pt1 New Art and ...",
+   "med": 165,
    "ratio": 0.66,
    "ai_value": ""
   },
@@ -8318,6 +8527,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943550281",
+   "title": "Tetsuro Sawada (signed, numbered, dated)",
+   "price": 450,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-tetsuro-sawada-signed/9MJwLpgBu638HGHdnrbM7W",
+   "best": "Mutual Art",
+   "med": 100,
+   "ratio": 0.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7954011806",
    "title": "Vintage Tennis Photo",
    "price": 100,
@@ -8962,6 +9182,17 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/santa-ana-vintage-daisy-bb-collection/mK5CYqkFwcUa4ZFc6g2Jyv",
    "best": "Daisy Target | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952074728",
+   "title": "Cool Butterscotch Vintage Icon Tele",
+   "price": 350,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-cool-butterscotch-vintage/8Jj1rFaUYuXvomsN9KhQZ1",
+   "best": "South Shore Music",
    "med": null,
    "ratio": null,
    "ai_value": ""
