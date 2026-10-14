@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:03:13Z",
+ "updated": "2026-10-14T22:07:03Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9499,
-  "events": 33115,
+  "lens": 9524,
+  "events": 33140,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 553,
-  "flagged": 1139,
-  "lensed": 378
+  "queued": 528,
+  "flagged": 1153,
+  "lensed": 389
  },
  "last_harvests": [
   {
@@ -1708,6 +1708,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983463017",
+   "title": "Blue Topaz CZ Jewelry Set",
+   "price": 8,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/montville-blue-topaz-cz-jewelry-set/tUyaN6dBrx2bPS8H4myx63",
+   "best": "Sterling Silver Light Blue Topaz Pear Shaped And Round ...",
+   "med": 128,
+   "ratio": 16,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471663",
    "title": "Vintage 925/14k Gold Vermeil filigree Jade & Pearl Earrings",
    "price": 30,
@@ -2309,6 +2320,17 @@
    "url": "https://www.craigslist.org/view/d/summerland-pocket-watch/nA9YxHvTAEtB8toq66AA1w",
    "best": "Etsy",
    "med": 200,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951975738",
+   "title": "Signed Original Pastel Portrait of woman",
+   "price": 95,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/reno-signed-original-pastel-portrait-of/bBgQ8uipZ5Buj3xUYqR3y8",
+   "best": "Closed auctions in Central City, CO, USA | Maxsold",
+   "med": 950,
    "ratio": 10,
    "ai_value": ""
   },
@@ -3556,6 +3578,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955311327",
+   "title": "Ladies Austin watch",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/woodland-hills-ladies-austin-watch/ftdXbtErpTVjzNodwECEwq",
+   "best": "Vintage Rare Fortis Gretchen Switzerland Genuine Diamonds ...",
+   "med": 300,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -4293,6 +4326,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949206436",
+   "title": "\ud83d\udc8dAntique 14k White GOLD FILIGREE RING w/ Rose Cut Diamonds \ud83d\udc8d",
+   "price": 299,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-antique-14k-white-gold/9Qhz3nBJQQXSTu9pEAbGGs",
+   "best": "Vintage Gold Filigree Ring - Sandler's Diamonds & Time",
+   "med": 1143,
+   "ratio": 3.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7945743517",
    "title": "ANTIQUE DEATH MASK",
    "price": 125,
@@ -4454,6 +4498,17 @@
    "url": "https://www.craigslist.org/view/d/apex-vintage-handmade-macrame-bracelet/dPiQmEtQXAM3JFzpUMHsMT",
    "best": "Craigslist",
    "med": 18,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962712548",
+   "title": "Navajo Red Coral//Sterling silver Cuff Bracelet",
+   "price": 250,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-navajo-red-coral-sterling/2K1U4tRkkkwRSPVNC9i71e",
+   "best": "RADIANT Vintage Sterling Silver OLD RED MEDITERRANEAN CORAL ...",
+   "med": 900,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -5334,6 +5389,17 @@
    "url": "https://www.craigslist.org/view/d/harleyville-vintage-1970-schraade-ny/sEfucrcjcZvhTajKE9VSWh",
    "best": "Craigslist",
    "med": 80,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958433762",
+   "title": "Vintage Porcelain Atlantic Mold Nativity Set",
+   "price": 48,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-porcelain-atlantic/72Jr1RdQ3nrk3s7ZUrqRSE",
+   "best": "World Bazaars Jade Collection 11 Pc Nativity Set Wood Base ...",
+   "med": 128,
    "ratio": 2.67,
    "ai_value": ""
   },
@@ -6603,6 +6669,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950689566",
+   "title": "vintage metal vace 20 inch tall",
+   "price": 85,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/boyertown-vintage-metal-vace-20-inch/u2Q8mfRSnFFHRd526H9N6Y",
+   "best": "Bid Gallery | Oro-Medonte (Ontario, Canada) SELLER MANAGED ...",
+   "med": 170,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -7571,6 +7648,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970350491",
+   "title": "Art Deco Sterling Bracelet & Earring set",
+   "price": 160,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-art-deco-sterling-bracelet-earring/tKciNY2mKcCjbydWjweJdY",
+   "best": "Vintage 925 Sterling Silver Lapis Lazuli Black Onyx Heart ...",
+   "med": 250,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7944709221",
    "title": "JESTERS VINTAGE",
    "price": 20,
@@ -8352,6 +8440,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977992793",
+   "title": "Swatch Chronograph 1991 Blue Watch",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-swatch-chronograph-1991-blue/wcabwF5UC9EqRooDYw7jK7",
+   "best": "VINTAGE BEAUTIFUL MEN'S CHRONOGRAPH QUARTZ WATCH \"SWATCH\" 22 ...",
+   "med": 102,
+   "ratio": 1.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7949234609",
    "title": "Sterling Silver 1 3/4\u201d Hoop Earrings",
    "price": 30,
@@ -8414,6 +8513,17 @@
    "url": "https://www.craigslist.org/view/d/fort-lauderdale-mixed-assorted-old/njwJ8EZbCkCqrWBSBiYd6k",
    "best": "FASHION PIN/BROOCH ASSORTMENT - 7 PINS | eBay",
    "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932157384",
+   "title": "WATCH  MICKEY  MOUSE  \ud83d\udc2d SQUARE FACE",
+   "price": 75,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/watch-mickey-mouse-square-face/ibn9mePWiXScsp966mSMXy",
+   "best": "wrist watch | eBay",
+   "med": 100,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -8734,6 +8844,17 @@
    "best": "Watch Works",
    "med": 350,
    "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951975370",
+   "title": "Signed Original Pastel Portrait of a Woman",
+   "price": 95,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/reno-signed-original-pastel-portrait-of/tb6ycbxZF4jfGwmmFBYWwZ",
+   "best": "Navajo Woman - Etsy",
+   "med": 115,
+   "ratio": 1.21,
    "ai_value": ""
   },
   {
@@ -9338,6 +9459,17 @@
    "url": "https://www.craigslist.org/view/d/bullhead-city-knife-carving-set/sm5SM3RcHQMPPGXbGGGbFc",
    "best": "Vintage Taylor Witness Sheffield England Knife Carving Set ...",
    "med": 53,
+   "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960309551",
+   "title": "Vintage c1960's Tonalist Forest Oil Painting signed \"J. Cooper\"",
+   "price": 85,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/agoura-hills-vintage-c1960s-tonalist/vEN1NjAgrreKrh7doQcBNK",
+   "best": "Incredible Vintage c1960's Tonalist Forest | Mercari",
+   "med": 90,
    "ratio": 1.06,
    "ai_value": ""
   },
@@ -10145,6 +10277,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966799070",
+   "title": "Vintage 1960s Stella Harmony Parlor Guitar",
+   "price": 185,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/alexandria-vintage-1960s-stella-harmony/xrbEZcQZSUui8r2dpnoDqj",
+   "best": "Harmony Parlor Flat Top Vintage Acoustic Guitars for sale | eBay",
+   "med": 159,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7934421094",
    "title": "Yellow Asian Cloisonne Bowl",
    "price": 100,
@@ -10746,6 +10889,17 @@
    "url": "https://www.craigslist.org/view/d/kalispell-cloisonne-teapot/e2jp5RbZqu7phJxMs82n8f",
    "best": "eBay",
    "med": 65,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983343581",
+   "title": "Calypso Maxi Statement Necklace",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-calypso-maxi-statement-necklace/uSx3KxvDf3xAEbNzAzP6S2",
+   "best": "Charming Silver AUDREY Tribal/bohemian/ Oversized/bohoo ...",
+   "med": 34,
    "ratio": 0.68,
    "ai_value": ""
   },
