@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:31:18Z",
+ "updated": "2026-10-14T07:34:54Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8299,
-  "events": 30313,
+  "lens": 8324,
+  "events": 30338,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 303,
+  "queued/relens": 308,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 153,
-  "flagged": 378,
-  "lensed": 116
+  "queued": 128,
+  "flagged": 391,
+  "lensed": 123
  },
  "last_harvests": [
   {
@@ -463,6 +463,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974614568",
+   "title": "Art Nouveau Cameo Glass Vase",
+   "price": 90,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/puhGk1YDhXv4efAvcckoFi",
+   "best": "Galle Emile | eBay",
+   "med": 3978,
+   "ratio": 44.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7941406369",
    "title": "Antique Oil Painting",
    "price": 75,
@@ -782,6 +793,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949550641",
+   "title": "wall paintings",
+   "price": 30,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-wall-paintings/rXkh8xU6mLoyeWqEc1c7zd",
+   "best": "Vintage M Scott Signed Oil Painting Morning Mist 3D Textured ...",
+   "med": 232,
+   "ratio": 7.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7941465612",
    "title": "2 Antique porcelain lamps",
    "price": 40,
@@ -998,6 +1020,17 @@
    "url": "https://www.craigslist.org/view/d/boise-vintage-roman-necklace-1775-gold/tFkDAdDsyiDFdsQgNLg9C6",
    "best": "Craigslist",
    "med": 100,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936239731",
+   "title": "Vintage mid century Tic pottery cactus bowl",
+   "price": 19,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-vintage-mid-century-tic/9DiU1omoNLEksPnppTsqAN",
+   "best": "Vintage MCM Tic Ceramic USA Art Pottery Pink Cactus Flower ...",
+   "med": 95,
    "ratio": 5,
    "ai_value": ""
   },
@@ -1497,6 +1530,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944581343",
+   "title": "Antique Pewter James Yates Tankard",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/long-lake-antique-pewter-james-yates/qj5iByxPGFt6zhf2esZiWv",
+   "best": "Antique James Yates Pewter Tankard Pint Mug Cup Rare HTF ...",
+   "med": 160,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7981974675",
    "title": "Sterling silver earrings",
    "price": 45,
@@ -1525,6 +1569,17 @@
    "area": "kansascity",
    "url": "https://www.craigslist.org/view/d/kansas-city-extra-large-glass-vase/eDMVMCHWGGrc6oRaf9m6vV",
    "best": "Large Amber Glass Vase Clear Fluted base Home Decor Table ...",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967691378",
+   "title": "Sterling Silver & CZ Earrings and RingSize 9 3/4 by YGI",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-cz/gWZVhKpSHt5jeEy6J7zoF4",
+   "best": "Women's Diamond Heart Earrings & Ring Set Sterling Silver ...",
    "med": 150,
    "ratio": 3,
    "ai_value": ""
@@ -1992,6 +2047,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7944640724",
+   "title": "Set of 2 Antique Pewter Coffee/Tea Pots",
+   "price": 135,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/long-lake-set-of-antique-pewter-coffee/4YPuggoKbsJotPHFZep8Cv",
+   "best": "9133097-d Antique Coffee Pot Britanniametall Zinnlegierung ...",
+   "med": 275,
+   "ratio": 2.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933540451",
+   "title": "Sterling Silver, Elbaite & Marcasite Size 7 3/4 Ring",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-elbaite/wMqG6sjeDvq8z1rDMKEBKw",
+   "best": "Art Deco Style Garnet & Marcasite Multi Gemstone Ornate ...",
+   "med": 81,
+   "ratio": 2.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7972368246",
    "title": "The Ruby Slippers Necklace",
    "price": 15,
@@ -2406,6 +2483,17 @@
    "url": "https://www.craigslist.org/view/d/garland-new-bracelet-watches-15-each/cTWzuHGEwWWovWNQFNxcUN",
    "best": "Shein",
    "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966961904",
+   "title": "Elvis Presley Collection-11 items",
+   "price": 90,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/camarillo-elvis-presley-collection-11/jZ4DJgHj6pWGa3MTSvLt1d",
+   "best": "Elvis Presley",
+   "med": 150,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -2982,6 +3070,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949280819",
+   "title": "Sterling Silver Evil Eye 7 1/2\u201d Bracelet",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-evil-eye/kAAfF5VCxctbWwREyVHPhL",
+   "best": "eBay",
+   "med": 38,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -3477,6 +3576,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975099095",
+   "title": "Vintage Ertyl Tractors.",
+   "price": 15,
+   "area": "appleton",
+   "url": "https://www.craigslist.org/view/d/fond-du-lac-vintage-ertyl-tractors/iL52x85yTRaKYD73MHvjH1",
+   "best": "Vintage ERTL #405 Red International Harvester 1:32 Diecast ...",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -3741,6 +3851,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970700624",
+   "title": "Vintage Goebel Praying Angel Figurine",
+   "price": 19,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-vintage-goebel-praying/446zEBhMPMr5fL5XRFp6R1",
+   "best": "Lefton China Blue Hand Painted Praying Angel Figurine 1994 ...",
+   "med": 15,
+   "ratio": 0.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7983183432",
    "title": "Reduced! Vintage Natural London Blue Topaz & Diamond 14K Gold Ring",
    "price": 485,
@@ -3994,6 +4115,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976433054",
+   "title": "Hummel Figures",
+   "price": 70,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-hummel-figures/dCVyS632tFk4pKtxASytMX",
+   "best": "Vintage Goebel Hummel Figurine \u201cSerenade\u201d #85 | eBay",
+   "med": 38,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7948673232",
    "title": "Sterling Silver 16\u201d Omega Necklace",
    "price": 95,
@@ -4056,6 +4188,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-siam/a3jVUdXizjn4r7hAjJs41z",
    "best": "E0552 Antique Matte Silver Color Metal Lady Woman Girl Long ...",
    "med": 17,
+   "ratio": 0.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981974441",
+   "title": "Navajo vintage sterling silver dangle earrings and brooch set",
+   "price": 250,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-navajo-vintage-sterling-silver/rbYk85TKzgduMo1Q16vqE3",
+   "best": "Vintage Navajo Style Sterling Pueblo Village, Corn & Cross ...",
+   "med": 123,
    "ratio": 0.49,
    "ai_value": ""
   },
