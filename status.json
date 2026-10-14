@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:30:17Z",
+ "updated": "2026-10-14T22:35:50Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9674,
-  "events": 33290,
+  "lens": 9699,
+  "events": 33315,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 479,
+  "queued/relens": 481,
   "decided/ask": 85,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 378,
-  "flagged": 1263,
-  "lensed": 429
+  "queued": 353,
+  "flagged": 1283,
+  "lensed": 432
  },
  "last_harvests": [
   {
@@ -586,6 +586,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982182176",
+   "title": "Ladies Fashion Gold Rings sz 9 1/2",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-rings/p9DLHF6eavhfoXEL14gt7C",
+   "best": "Etsy",
+   "med": 4229,
+   "ratio": 281.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7972387107",
    "title": "D-Decorative Antique spoon ETC.",
    "price": 55,
@@ -869,6 +880,17 @@
    "best": "Craigslist",
    "med": 65,
    "ratio": 65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951306170",
+   "title": "woman playing  guitar painting",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/staten-island-woman-playing-guitar/rWRRZmSFvji8uv8RcJK3Wa",
+   "best": "Trademark Global Joarez \"Soft Guitar\" Canvas Art, 24\" x 18 ...",
+   "med": 2250,
+   "ratio": 64.29,
    "ai_value": ""
   },
   {
@@ -1232,6 +1254,17 @@
    "best": "Etsy",
    "med": 2375,
    "ratio": 31.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948770419",
+   "title": "Ceramic Tea Pot",
+   "price": 4,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/mount-prospect-ceramic-tea-pot/eqhbaqsfDgZArGRaC8WZv1",
+   "best": "Independence-Kentucky-Jordan Photography NKU-Tony Winchester ...",
+   "med": 125,
+   "ratio": 31.25,
    "ai_value": ""
   },
   {
@@ -2346,6 +2379,17 @@
    "ai_value": "price $11"
   },
   {
+   "pid": "7954409096",
+   "title": "Antique European painting",
+   "price": 50,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-antique-european-painting/wmaGoaFGRYsqLC9C3cYJya",
+   "best": "Craigslist",
+   "med": 550,
+   "ratio": 11,
+   "ai_value": ""
+  },
+  {
    "pid": "7983263697",
    "title": "Set of 6 bird coasters",
    "price": 12,
@@ -3303,6 +3347,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958383970",
+   "title": "Women watches",
+   "price": 10,
+   "area": "lincoln",
+   "url": "https://www.craigslist.org/view/d/lincoln-women-watches/qCzeDpsWmL1cjXzSqpaSA9",
+   "best": "Etsy",
+   "med": 61,
+   "ratio": 6.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7952660752",
    "title": "Vintage 3d postcards lot of 17",
    "price": 10,
@@ -3864,6 +3919,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7971100353",
+   "title": "Statue Sculpture Female Model",
+   "price": 25,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-statue-sculpture-female-model/gCpJSBGGtRZbdvQesuRar5",
+   "best": "Statue Africaine bois - D\u00e9coration",
+   "med": 125,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937903074",
+   "title": "Vintage brooches and pins . LOOK",
+   "price": 20,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/decatur-vintage-brooches-and-pins-look/j52dCDYfrKRkQ2KTEL7VM3",
+   "best": "Etsy",
+   "med": 100,
+   "ratio": 5,
+   "ai_value": "values ranging from $30 to $100"
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -3904,6 +3981,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-native-american-old-sterling/2H19gTubY8624j4mb3h7Kn",
    "best": "MUSEUM VINTAGE 'SWIRLS AROUND ROYSTON TURQUOISE' SILVER ...",
    "med": 480,
+   "ratio": 4.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973832174",
+   "title": "\ud83d\udc8d Antique 14k Gold 1/4 Ct. Natural DIAMOND ENGAGEMENT RING Sz. 6.5\ud83d\udc8d",
+   "price": 299,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-antique-14k-gold-4-ct-natural/1dLQbTfqQJXFnHjH6ysU41",
+   "best": "eBay",
+   "med": 1450,
    "ratio": 4.85,
    "ai_value": ""
   },
@@ -4037,6 +4125,17 @@
    "best": "Elgin Veritas 1903 Size 18 Railroad Grade Pocket Watch ...",
    "med": 675,
    "ratio": 4.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938314561",
+   "title": "\ud83d\udc8e Antique 14k Yellow Gold FILIGREE DIAMOND RING \ud83d\udc8e",
+   "price": 499,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-antique-14k-yellow-gold/2M6ZBLxJ21BqmnXmCN5SdV",
+   "best": "The Antique Parlour",
+   "med": 2250,
+   "ratio": 4.51,
    "ai_value": ""
   },
   {
@@ -4590,6 +4689,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954561485",
+   "title": "Vintage Sterling Silver CHRISTMAS CHARMS \ud83c\udf84 \u2744\ufe0f \ud83d\udef7  \u26c4 $10 each",
+   "price": 10,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-vintage-sterling-silver/g8PH9JWK2wJeo8ytKHYLwE",
+   "best": "eBay",
+   "med": 39,
+   "ratio": 3.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7961334891",
    "title": "Faye Freedman Signed 1960s",
    "price": 80,
@@ -4894,6 +5004,17 @@
    "url": "https://www.craigslist.org/view/d/champaign-vintage-pearl-export-series/fSUoMdhihf5wDYNW3cNqzp",
    "best": "</Image Grid>",
    "med": 350,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983580224",
+   "title": "Vintage Floral & Statement Stud Earrings ($16\u2013$20)",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/watertown-vintage-floral-statement-stud/26bB1u1GbnBYJiqXcuWaKz",
+   "best": "Venta de art\u00edculos vintage | Aretes vintage disponibles ...",
+   "med": 70,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -5455,6 +5576,17 @@
    "url": "https://www.craigslist.org/view/d/salinas-vintage-eagle-scout-mom-pin/tLbGQYuRkuhe6Vbi7s3P2V",
    "best": "eBay",
    "med": 30,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978980594",
+   "title": "Emerald Green Faceted Glass Rhinestone Bib Necklace",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-emerald-green-faceted-glass/r7JD15Hgq58g9AgYUP7tRf",
+   "best": "Green Rhinestone Bib Necklace - Etsy",
+   "med": 90,
    "ratio": 3,
    "ai_value": ""
   },
@@ -6812,6 +6944,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977387681",
+   "title": "Large Vintage Glass Lamp Shade",
+   "price": 30,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/templeton-large-vintage-glass-lamp-shade/jvQPSu5huP8zQ15NQxNKWT",
+   "best": "eBay",
+   "med": 65,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7950216572",
    "title": "VINTAGE CERAMIC CREAMER",
    "price": 20,
@@ -7292,6 +7435,17 @@
    "url": "https://www.craigslist.org/view/d/santa-maria-sterling-silver-necklace/f9Qi7PQW4kr9u9hJ4p1oD9",
    "best": "Modern Mauve and Gold Cloisonne Necklace and Earrings - Etsy",
    "med": 50,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957699022",
+   "title": "Handcrafted Sterling Silver Necklaces",
+   "price": 20,
+   "area": "reading",
+   "url": "https://www.craigslist.org/view/d/reading-handcrafted-sterling-silver/qmasCoMiNKQY3GqKRLj2qT",
+   "best": "Lot of 6 assorted Authentic Native American Necklaces ...",
+   "med": 40,
    "ratio": 2,
    "ai_value": ""
   },
@@ -8253,6 +8407,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954422680",
+   "title": "Really beautiful Saks necklace",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-really-beautiful-saks-necklace/qPduZg5LMgjB7D5Rwzxh19",
+   "best": "She She Shoes",
+   "med": 64,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -8711,6 +8876,17 @@
    "url": "https://www.craigslist.org/view/d/renton-vintage-handmade-bedroom-set-lot/pMfhX8rQsyTU3sdc6FTWNL",
    "best": "Vintage 6pc Dollhouse Furniture Lot Wood Floral Couch ...",
    "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935179739",
+   "title": "Vintage Memphis Grizzlies nesting eggs",
+   "price": 40,
+   "area": "memphis",
+   "url": "https://www.craigslist.org/view/d/horn-lake-vintage-memphis-grizzlies/6sTSC5MmsRKM2Tp3yQGTYu",
+   "best": "Russian nesting dolls. Golden State Warriors basketball club ...",
+   "med": 60,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -10321,6 +10497,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983494079",
+   "title": "Vintage Gucci watch",
+   "price": 245,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-gucci-watch/rTapJf1akoxbLnmVJbYdNk",
+   "best": "1stDibs",
+   "med": 260,
+   "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
    "pid": "7969944696",
    "title": "Charm bracelet",
    "price": 20,
@@ -10684,6 +10871,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7957698287",
+   "title": "Handcrafted Sterling Silver Earrings",
+   "price": 20,
+   "area": "reading",
+   "url": "https://www.craigslist.org/view/d/reading-handcrafted-sterling-silver/gCGcSKD43UaEVmaLGCJyPm",
+   "best": "Unique jewelry by local designers - ARTique",
+   "med": 20,
+   "ratio": 1,
+   "ai_value": "price tags ranging from $10 to $25"
+  },
+  {
+   "pid": "7934281221",
+   "title": "Bamboo Leaf Jasper Gemstone Collar Necklace",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-bamboo-leaf-jasper-gemstone/gf42cBK7sj7FhDA8SJNSVV",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -10900,6 +11109,17 @@
    "url": "https://www.craigslist.org/view/d/antique-ruby-red-glass-stemware-glass/cxHKWJKua7GB4hBwerU4An",
    "best": "eBay",
    "med": 60,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940889408",
+   "title": "STERLING SILVER 925 BRACELET WITH BLACK ONYX",
+   "price": 250,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-sterling-silver-925-bracelet/uQX7xQKbb9tFo8Ud44oaBi",
+   "best": "Etsy",
+   "med": 229,
    "ratio": 0.92,
    "ai_value": ""
   },
