@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-13T23:58:21Z
+# Refurbish status — 2026-10-14T00:02:07Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 777 |
-| lensed | 466 |
-| queued/relens | 379 |
-| queued | 204 |
+| flagged | 784 |
+| lensed | 480 |
+| queued/relens | 383 |
+| queued | 179 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 11 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7449
-- events: 26870
+- lens: 7474
+- events: 26895
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (777)
+## Flagged by Lens, waiting for photo review (784)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -160,6 +160,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00k0k_9jmE6HEHsVIz_0CI0t2_300x300.jpg" width="120"> | 7982895771 | $15 | salem | [Dresden Royal Figurines Handpainted-Japan](https://www.craigslist.org/view/d/keizer-dresden-royal-figurines/78h76S7ZrHCFPmxxVcup2A) | Lot - 3 Vintage Dresden German Lace Decorated Figurines | 513 | 34.2 |
 | <img src="https://images.craigslist.org/01111_XC0S5oP5UE_0t20CI_300x300.jpg" width="120"> | 7934479671 | $100 | albuquerque | [Vintage Pendulum clock](https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/rJdaGmo7RFLTAkrCMPiLvr) | eBay | 3200 | 32 |
 | <img src="https://images.craigslist.org/00n0n_kaswK7GHSQr_05O0ak_300x300.jpg" width="120"> | 7937316645 | $25 | sandiego | [VINTAGE GOEBEL GNOME](https://www.craigslist.org/view/d/san-diego-vintage-goebel-gnome/nae3eoCXGh62oLnSKvbEiF) | Vintage Goebel Co-Boy Gnome Conny The Night Watchman 1972 /  | 799 | 31.96 |
+| <img src="https://images.craigslist.org/00U0U_cZZUHvm7R2w_0dp0t2_300x300.jpg" width="120"> | 7932306690 | $139 | orangecounty | [Antique vase with stand](https://www.craigslist.org/view/d/cypress-antique-vase-with-stand/riQ6JbaoEkzLWPLYcJip86) | Grand vase Médicis style Empire XIXème – Pendule ancienne et | 4200 | 30.22 |
 | <img src="https://images.craigslist.org/00r0r_7rMBuPyQTO3_0CI0t2_300x300.jpg" width="120"> | 7979031078 | $15 | portland | [Vintage/antique silver plate engraved cup](https://www.craigslist.org/view/d/woodland-vintage-antique-silver-plate/8f3vNE1fWc4r62VTyGExJZ) | Vintage Child's Cup, Quadruple Silver Plate by Forbes Silver | 420 | 28 |
 | <img src="https://images.craigslist.org/00e0e_1eaUVGgnIo1_0CI0t2_300x300.jpg" width="120"> | 7957041968 | $40 | boise | [Vintage Coro Brooch with Aquamarine Crystals](https://www.craigslist.org/view/d/boise-vintage-coro-brooch-with/dsnGDCNoqzhA1XywnXKpay) | Etsy | 1095 | 27.38 |
 | <img src="https://images.craigslist.org/00303_7fOJjSFIdZb_0xu0t2_300x300.jpg" width="120"> | 7928724618 | $75 | providence | [Vintage Original Oil Painting of Horses](https://www.craigslist.org/view/d/johnston-vintage-original-oil-painting/izhMF4vrkFSFg7675AEisJ) | Playmate Aires - Robyn Ryan Art | 1999 | 26.65 |
@@ -235,4 +236,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00808_ixOVnBna7n_0MM132_300x300.jpg" width="120"> | 7970415882 | $25 | portland | [ONIDA Silver Platter](https://www.craigslist.org/view/d/west-linn-onida-silver-platter/jscGjdJn5X6knwSVU6Zw1y) | Towle Huge 17” Silverplated Serving Tray Vintage Incredible  | 225 | 9 |
 | <img src="https://images.craigslist.org/00g0g_4UC0qed7513_0lM0t2_300x300.jpg" width="120"> | 7952517572 | $30 | portland | [Sterling Silver Kokopelli Broach](https://www.craigslist.org/view/d/portland-sterling-silver-kokopelli/kFsXpFK6BsRDRdXBUnG9SE) | NATIVE AMERICAN Sterling Silver Onyx KOKOPELLI ... | 264 | 8.8 |
 | <img src="https://images.craigslist.org/00404_chmAOlSBRVa_04A0c6_300x300.jpg" width="120"> | 7950790524 | $65 | prescott | [vintage 16" FOOTED red green ONYX VASE](https://www.craigslist.org/view/d/prescott-vintage-16-footed-red-green/moSVKJeQcwakC4b3tkn99Y) | Vintage Onyx Marble Vase 7 3/4” Green and Brown Mantel ... | 570 | 8.77 |
-| <img src="https://images.craigslist.org/00v0v_eMxmhitKyxm_0nN0rN_300x300.jpg" width="120"> | 7935171170 | $25 | orangecounty | [Antique/Vintage Rembrandt Framed Print. Lot 4](https://www.craigslist.org/view/d/lake-forest-antique-vintage-rembrandt/ogFBmhfi1BCfmNUAg4PDp7) | Vintage 1960s Man With the Golden Helmet Rembrandt Print in  | 219 | 8.76 |

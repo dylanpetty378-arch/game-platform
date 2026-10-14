@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-13T23:58:21Z",
+ "updated": "2026-10-14T00:02:07Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7449,
-  "events": 26870,
+  "lens": 7474,
+  "events": 26895,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 466,
+  "lensed": 480,
   "comps/pass": 1,
-  "queued/relens": 379,
+  "queued/relens": 383,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 777,
+  "flagged": 784,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 204
+  "queued": 179
  },
  "last_harvests": [
   {
@@ -874,6 +874,17 @@
    "best": "Vintage Goebel Co-Boy Gnome Conny The Night Watchman 1972 | eBay",
    "med": 799,
    "ratio": 31.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932306690",
+   "title": "Antique vase with stand",
+   "price": 139,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/cypress-antique-vase-with-stand/riQ6JbaoEkzLWPLYcJip86",
+   "best": "Grand vase M\u00e9dicis style Empire XIX\u00e8me \u2013 Pendule ancienne et ...",
+   "med": 4200,
+   "ratio": 30.22,
    "ai_value": ""
   },
   {
@@ -2087,6 +2098,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951235754",
+   "title": "Wall Paintings from Paris",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/boulder-wall-paintings-from-paris/fiaHtUA8hr6wqQebbF3rQe",
+   "best": "Vintage Maurice Legendre Druck - Paris Montmartre ...",
+   "med": 175,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7981257762",
    "title": "Framed Oil Painting artist unknown",
    "price": 50,
@@ -2505,6 +2527,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960457445",
+   "title": "Vintage bass",
+   "price": 275,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-bass/qnsaDgD1Bee8DcTywLCCbP",
+   "best": "Gibson SG Standard Bass 2011 - Faded Satin | Reverb Portugal",
+   "med": 1575,
+   "ratio": 5.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7952658862",
    "title": "Antique Stanley Hand Planes",
    "price": 35,
@@ -2788,6 +2821,17 @@
    "best": "eBay",
    "med": 49,
    "ratio": 4.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945081358",
+   "title": "Vintage Oil Painting by Georgia Dolcini",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-oil-painting-by-georgia/kna2yEuWDq34iuC7CcBCjD",
+   "best": "Jean Monod | Vague (86) | MutualArt",
+   "med": 360,
+   "ratio": 4.8,
    "ai_value": ""
   },
   {
@@ -4155,6 +4199,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971961032",
+   "title": "Vintage Hand made Pottery Sun and Moon art vase, from the 80's",
+   "price": 75,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-hand-made-pottery-sun/3dbkaWeN3ZVRV8F2XejhZm",
+   "best": "Clay Vase Sun & Moon Made in Mexico - Etsy",
+   "med": 210,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7980554475",
    "title": "10 K 18\" Singapore chain  ecklace",
    "price": 110,
@@ -5306,6 +5361,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-silver-tone-row-panther/gzWmq15z3m4pAkJcycy9bE",
    "best": "Etsy",
    "med": 95,
+   "ratio": 1.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966831449",
+   "title": "VINTAGE STEAK KNIFE SET",
+   "price": 35,
+   "area": "lubbock",
+   "url": "https://www.craigslist.org/view/d/lubbock-vintage-steak-knife-set/8DgsGRooHMh4N1B6Ed4g6F",
+   "best": "VTG George Wood & Sons Sheffield England Lion Brand ...",
+   "med": 68,
    "ratio": 1.94,
    "ai_value": ""
   },
@@ -7825,6 +7891,17 @@
    "url": "https://www.craigslist.org/view/d/bellevue-oleg-cassini-mens-watch/bSm8vxXCFphc1pfpYs1jes",
    "best": "Craigslist",
    "med": 28,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971965325",
+   "title": "Kate Spade Crosstown Ladies watch",
+   "price": 99,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-kate-spade-crosstown-ladies-watch/d6cvoYuePw2zCeSo5tWm2p",
+   "best": "Kate Spade Watch Crosstown Gold | eBay",
+   "med": 69,
    "ratio": 0.7,
    "ai_value": ""
   },
