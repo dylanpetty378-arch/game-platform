@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:12:16Z",
+ "updated": "2026-10-14T16:15:39Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8938,
-  "events": 31752,
+  "lens": 8963,
+  "events": 31777,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 442,
+  "queued/relens": 444,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 314,
-  "flagged": 739,
-  "lensed": 255
+  "queued": 289,
+  "flagged": 758,
+  "lensed": 259
  },
  "last_harvests": [
   {
@@ -552,6 +552,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976589723",
+   "title": "Flora by titan. (reproduction)",
+   "price": 40,
+   "area": "southcoast",
+   "url": "https://www.craigslist.org/view/d/acushnet-flora-by-titan-reproduction/vibZ9nD6gSBuvDHwzheiyu",
+   "best": "Craigslist",
+   "med": 4800,
+   "ratio": 120,
+   "ai_value": ""
+  },
+  {
    "pid": "7983294150",
    "title": "Large Face Mug Vase Studio Pottery Signed",
    "price": 20,
@@ -571,6 +582,17 @@
    "best": "Nordstrom",
    "med": 1199,
    "ratio": 79.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953446717",
+   "title": "Wedgewood",
+   "price": 1,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/raymond-wedgewood/ry77GkhiBDpjxbHFe3HptL",
+   "best": "Etsy",
+   "med": 79,
+   "ratio": 79,
    "ai_value": ""
   },
   {
@@ -1355,6 +1377,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978093833",
+   "title": "BARBARA A. WOOD",
+   "price": 52,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/monrovia-barbara-wood/fUMC8BsekuSehFZgF6buVe",
+   "best": "Art Brokerage",
+   "med": 600,
+   "ratio": 11.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7933122532",
    "title": "Set of 4 Antique Elegant Glass Candle Holders",
    "price": 6,
@@ -1803,6 +1836,17 @@
    "best": "Etsy",
    "med": 70,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983294336",
+   "title": "Dan Wheeler Oregon Studio Pottery/Porcelain 14\" Covered Jar",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-dan-wheeler-oregon-studio/hVAMqGATZUCm8qGNRJquCi",
+   "best": "Trocadero",
+   "med": 412,
+   "ratio": 6.87,
    "ai_value": ""
   },
   {
@@ -3302,6 +3346,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983300846",
+   "title": "Vintage Chinese porcelain teapot hand painted phoenix & floral motifs",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-vintage-chinese-porcelain/xudD48TTkENjLHKbzt8rwk",
+   "best": "eBay",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7983251565",
    "title": "Lot of guitars and drums",
    "price": 500,
@@ -3464,6 +3519,17 @@
    "best": "14kY Arizona Amethyst Horizon Gold Ring \u2013 Sami Fine Jewelry",
    "med": 1258,
    "ratio": 2.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937540898",
+   "title": "Ladies custome choker (needs polishing )",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-ladies-custome-choker-needs/nXcCqFo9fMVwx3H9p1quV4",
+   "best": "Craigslist",
+   "med": 38,
+   "ratio": 2.53,
    "ai_value": ""
   },
   {
@@ -4193,6 +4259,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932001039",
+   "title": "Vintage invalid feeder",
+   "price": 15,
+   "area": "lexington",
+   "url": "https://www.craigslist.org/view/d/lexington-vintage-invalid-feeder/mSRWNe1pKsj1nVbaqHczuj",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -4332,6 +4409,17 @@
    "url": "https://www.craigslist.org/view/d/buffalo-ornate-satsuma-pitcher/dGWJ7Eo8Px3KcoqgmoQQJZ",
    "best": "meg tyndall design | @seahivestation_secondsundays this ...",
    "med": 75,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983272307",
+   "title": "Accordion style jewelry box",
+   "price": 80,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/jamesville-accordion-style-jewelry-box/6xGipSQbUqF8kSjQBYfqYB",
+   "best": "eBay",
+   "med": 150,
    "ratio": 1.88,
    "ai_value": ""
   },
@@ -4552,6 +4640,17 @@
    "url": "https://www.craigslist.org/view/d/benson-large-gold-frame/kSS3n4idmYWz4YQfQDWY8R",
    "best": "Vintage LARGE PICTURE Frame Glass Cover - 29\" x 26\" | eBay",
    "med": 175,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935069830",
+   "title": "Vintage General Electric \"Daisy\" Wall Clock",
+   "price": 40,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/islip-vintage-general-electric-daisy/kxmPjobFs4Qw6vjjWwdDXB",
+   "best": "eBay",
+   "med": 70,
    "ratio": 1.75,
    "ai_value": ""
   },
@@ -5447,6 +5546,17 @@
    "ai_value": "Sold at Auction: Trifari Gold Tone Necklace W Clear Rhinestones $200"
   },
   {
+   "pid": "7944146873",
+   "title": "Antique Chinese Blue & White Porcelain Teapot",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-antique-chinese-blue-white/cm31kSpG3PsQcFk9Skh95P",
+   "best": "eBay",
+   "med": 131,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7951080881",
    "title": "Antique Clay Black Handpainted ceramic Vase Large",
    "price": 99,
@@ -6173,6 +6283,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968225648",
+   "title": "Vintage Spiral Optic Swirl Green Glass Vase",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-vintage-spiral-optic-swirl/toPThqcuPwkS8V9TCa9Uby",
+   "best": "eBay",
+   "med": 16,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7983165243",
    "title": "Mid Century Modern Signed Framed Sailboat Painting Vintage",
    "price": 300,
@@ -6862,6 +6983,28 @@
    "url": "https://www.craigslist.org/view/d/lambertville-original-signed-painting/1Pwa8DVdtatoMk9RQggeUC",
    "best": "Barnegat Lighthouse Framed Wall Art | Coast And Country",
    "med": 98,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962540630",
+   "title": "Vintage 3/strand crystal boreal necklace",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-strand-crystal/2KCGMt1LmHgnUTXXXocrL5",
+   "best": "Ruby Lane",
+   "med": 39,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969205697",
+   "title": "Lanterns Antique Vintage",
+   "price": 45,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/gilbert-lanterns-antique-vintage/nztu74za98WRHvg6TumMCv",
+   "best": "Antique Dietz No.40 Warning Lantern, \"Traffic Gard\" w ...",
+   "med": 35,
    "ratio": 0.78,
    "ai_value": ""
   },
@@ -7779,6 +7922,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948214011",
+   "title": "Boy Scout of America Items, Various Vintage",
+   "price": 50,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-boy-scout-of-america-items/t6NZ429TeZ2unKaRaEeo9C",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7932673439",
    "title": "Sterling silver adjustable necklace",
    "price": 35,
@@ -8252,6 +8406,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929372953",
+   "title": "Vintage Baseball Cards HUGE LOT",
+   "price": 400,
+   "area": "flint",
+   "url": "https://www.craigslist.org/view/d/otisville-vintage-baseball-cards-huge/7pcrDbZq6V5gaSt3yox4DZ",
+   "best": "eBay",
+   "med": 23,
+   "ratio": 0.06,
+   "ai_value": ""
+  },
+  {
    "pid": "7949674924",
    "title": "Huge lot of variety stone rings",
    "price": 275,
@@ -8566,6 +8731,50 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/new-york-pondering-girl-vintage-xl-art/sbPQxicP3uteFWVzNVUBPx",
    "best": "Michael Jackson - Isabel G Art - Paintings & Prints, People ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954314060",
+   "title": "Dallas cowboy replica rings",
+   "price": 25,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/batavia-dallas-cowboy-replica-rings/5dboLfFpahKVkdJ6e2AC9L",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937292631",
+   "title": "PRESIDENTS BOBBLEHEADS",
+   "price": 235,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/lake-worth-presidents-bobbleheads/3e7qKTXFezyno2E8r9nEPM",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950405341",
+   "title": "Cluse woman watch",
+   "price": 20,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/indianapolis-cluse-woman-watch/4TmmsAPWLykXAPf7L39rMP",
+   "best": "Bezali",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983312915",
+   "title": "Men\u2019s Swiss Watch",
+   "price": 420,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/silver-spring-mens-swiss-watch/qm122hWUste8fVM8enAUN3",
+   "best": "Chrono24",
    "med": null,
    "ratio": null,
    "ai_value": ""
