@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:07:03Z",
+ "updated": "2026-10-14T22:10:59Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9524,
-  "events": 33140,
+  "lens": 9549,
+  "events": 33165,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 528,
-  "flagged": 1153,
-  "lensed": 389
+  "queued": 503,
+  "flagged": 1168,
+  "lensed": 399
  },
  "last_harvests": [
   {
@@ -605,6 +605,17 @@
    "best": "Vintage Natural Baltic Butterscotch Amber Necklace with 14K ...",
    "med": 9746,
    "ratio": 194.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972979781",
+   "title": "BRIGHTON Meridian Petite Prime Bracelet",
+   "price": 35,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-brighton-meridian-petite-prime/cN7nY6DFh2z9HUZS2GrkpW",
+   "best": "Brighton Meridian Petite Bracelet | eBay",
+   "med": 6200,
+   "ratio": 177.14,
    "ai_value": ""
   },
   {
@@ -1862,6 +1873,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945743983",
+   "title": "2 VINTAGE BROOCHES/LAPEL PINS",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-vintage-brooches-lapel/scfgkumLkws8nHStfmgNCT",
+   "best": "Ladies Antique 14K Gold Italian Carved Cameo Stud Earrings ...",
+   "med": 495,
+   "ratio": 14.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7951742668",
    "title": "Sterling Silver and Contemporary Ethnic Jewelry",
    "price": 99,
@@ -2253,6 +2275,17 @@
    "area": "denver",
    "url": "https://www.craigslist.org/view/d/longmont-elgin-pocket-watch/wPqGRjQphAawXTChN6Pvfc",
    "best": "eBay",
+   "med": 406,
+   "ratio": 10.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967763594",
+   "title": "Elgin Pocket Watch",
+   "price": 40,
+   "area": "boulder",
+   "url": "https://www.craigslist.org/view/d/longmont-elgin-pocket-watch/2pitAMi5mzzzMLhYXYMHvE",
+   "best": "WW2 Era Elgin Mechanical Pocket Watch, Black Dial, 7 Jewel ...",
    "med": 406,
    "ratio": 10.15,
    "ai_value": ""
@@ -3619,6 +3652,17 @@
    "best": "14K Gold Horseshoe Stud Earrings | Lucky Charm Pushbacks - Etsy",
    "med": 122,
    "ratio": 4.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942013111",
+   "title": "NATIVE AMERICAN Old Sterling Silver & Turquoise CUFF BANGLE BRACELET",
+   "price": 99,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-native-american-old-sterling/2H19gTubY8624j4mb3h7Kn",
+   "best": "MUSEUM VINTAGE 'SWIRLS AROUND ROYSTON TURQUOISE' SILVER ...",
+   "med": 480,
+   "ratio": 4.85,
    "ai_value": ""
   },
   {
@@ -5096,6 +5140,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964203131",
+   "title": "14K GOLD ENGAGEMENT RINGS LAB DIAMONDS",
+   "price": 299,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-14k-gold-engagement-rings/wSzXJy6eCEu8fJYRaNi6ru",
+   "best": "Anillos Sortija De Compromiso Deoro 18k Con Zirkon Diamante ...",
+   "med": 881,
+   "ratio": 2.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7953330039",
    "title": "Vintage Brooches and Stick Pin",
    "price": 17,
@@ -5338,6 +5393,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952684383",
+   "title": "Gemstone Jewelry",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/river-falls-gemstone-jewelry/k5NCfV4zM8aWpqjnXbVYM6",
+   "best": "Chunky Marbled Resin Pebble Necklace \u2013 Le' Diva Boutique Store",
+   "med": 41,
+   "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7938166705",
    "title": "Turquoise and smokey quartz necklace",
    "price": 40,
@@ -5525,6 +5591,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946081848",
+   "title": "genuine amber sterling silver pendant",
+   "price": 45,
+   "area": "iowacity",
+   "url": "https://www.craigslist.org/view/d/collins-genuine-amber-sterling-silver/4emFLUh3icnTNyw8Xqjadg",
+   "best": "LADIES STERLING SILVER BALTIC AMBER PENDANT CHARM | eBay",
+   "med": 115,
+   "ratio": 2.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7954969418",
    "title": "Michael Kors Crystal Accent Wristwatch",
    "price": 49,
@@ -5631,6 +5708,17 @@
    "url": "https://www.craigslist.org/view/d/san-rafael-vintage-pottery-gonder/ebLxWxho4iv1vtV5bpQyex",
    "best": "Etsy",
    "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953316476",
+   "title": "LOT OF 8  VINTAGE/ANTIQUE PAINTED PORCELAIN PLATES",
+   "price": 60,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/north-miami-beach-lot-of-vintage/94Z14kreF7UXV6jtU3tfBD",
+   "best": "Vintage Japanese Imari Plate \u2013 Peacock & Floral Porcelain ...",
+   "med": 150,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -6680,6 +6768,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982225139",
+   "title": "Red & Gold Pedestal Bowl",
+   "price": 20,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-red-gold-pedestal-bowl/7pyCzzVSo79rkDffiLYioG",
+   "best": "Partylite Moroccan Spice Pedestal Bowl RETIRED Fruit Candle ...",
+   "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -7076,6 +7175,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958892402",
+   "title": "ZSOLNAY HAND-PAINTED VASE SIGNED  HUNGARIAN ART POTTERY",
+   "price": 55,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/van-nuys-zsolnay-hand-painted-vase/kTzwizPVNCgrFi2fHCq5Hv",
+   "best": "Vintage Zsolnay Hungary Porcelain Vase Hand Painted Floral ...",
+   "med": 99,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -7351,6 +7461,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942487595",
+   "title": "Porcelain bear collection",
+   "price": 15,
+   "area": "appleton",
+   "url": "https://www.craigslist.org/view/d/black-creek-porcelain-bear-collection/t6CQWHkzfrVtM3DRhpanrq",
+   "best": "Homco Home Interiors Calandar Bears, 11 Of The 12, All ...",
+   "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965008391",
    "title": "Vintage Hand embroidered Elephant Tapestry",
    "price": 175,
@@ -7600,6 +7721,17 @@
    "url": "https://www.craigslist.org/view/d/carlsbad-sterling-silver-jet-onyx-bangle/3gJKn8sAZq8hwPomxijgJS",
    "best": "Wholesale Sterling Silver Black Agate Bangle | Bulk Resell ...",
    "med": 150,
+   "ratio": 1.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955408891",
+   "title": "Two-tone gold bracelet",
+   "price": 410,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-two-tone-gold-bracelet/pFJhn4TyMLWuYr2JV5iENW",
+   "best": "Two-tone gold bracelet",
+   "med": 649,
    "ratio": 1.58,
    "ai_value": ""
   },
@@ -7985,6 +8117,17 @@
    "url": "https://www.craigslist.org/view/d/mission-viejo-vintage-music-box/pywbGhi9UEF3a8SfJgrSH8",
    "best": "Vintage Lefton \"pinkie\" & \"blue Boy\" Figurine Music Box - Etsy",
    "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980373608",
+   "title": "MCM vintage Italian pottery by Alvino Bagni",
+   "price": 100,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/maineville-mcm-vintage-italian-pottery/mFuzw9qRjA4W4jMzXRGSmW",
+   "best": "Vintage Alvino Bagni MCM Vase Italy Pottery Large Geometric ...",
+   "med": 150,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -8414,6 +8557,17 @@
    "url": "https://www.craigslist.org/view/d/chesterfield-old-antique-jug/5e2muuzm5KKSt6EotEU5oU",
    "best": "Etsy",
    "med": 90,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953360514",
+   "title": "HOWARD Pocket Watch Circa 1912 in Original Box w/ Receipt",
+   "price": 399,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-howard-pocket-watch-circa-1912/bbpJCdVb9m9tPrC6ru73w6",
+   "best": "1921 E. HOWARD Series 12 Art Deco Pocket Watch w/Box ...",
+   "med": 550,
    "ratio": 1.38,
    "ai_value": ""
   },
@@ -12055,6 +12209,17 @@
    "url": "https://www.craigslist.org/view/d/indianapolis-caravelle-vintage-watch/31u6WcyemTVk6Dg44fpiLZ",
    "best": "VINTAGE RARE JEROME PIQUOT 41 JEWELS GENT'S WRIST WATCH ...",
    "med": 125,
+   "ratio": 0.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929856291",
+   "title": "Vintage sterling vanity set",
+   "price": 375,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/burlington-vintage-sterling-vanity-set/tgZe9VeBEJRmQzFevCvYmV",
+   "best": "Vintage Silver Plated Hand Held Mirror And Brush (removable ...",
+   "med": 117,
    "ratio": 0.31,
    "ai_value": ""
   },
