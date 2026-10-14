@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:45:23Z",
+ "updated": "2026-10-14T15:49:02Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8763,
-  "events": 31577,
+  "lens": 8788,
+  "events": 31602,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 413,
+  "queued/relens": 418,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 489,
-  "flagged": 630,
-  "lensed": 218
+  "queued": 464,
+  "flagged": 643,
+  "lensed": 225
  },
  "last_harvests": [
   {
@@ -1113,6 +1113,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954057584",
+   "title": "Beautiful Vintage Lamp",
+   "price": 10,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/hickory-hills-beautiful-vintage-lamp/qp5FPnszbEvE1KotnPS4KT",
+   "best": "Ceramic Urn Lamp Floral Porcelain Lamp Metal Foot Double ...",
+   "med": 126,
+   "ratio": 12.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7945560669",
    "title": "Diamond earrings",
    "price": 75,
@@ -1286,6 +1297,17 @@
    "best": "Hand Carved Black Opal Necklace: Silver925 Dream Catcher ...",
    "med": 97,
    "ratio": 9.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955227779",
+   "title": "Antique Crocks",
+   "price": 20,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-washington-antique-crocks/bENxVkNb1HXjf9kX3BX8G6",
+   "best": "ANTIQUE WHISKEY MOONSHINE JUG CROCK STONEWARE TWO TONE BROWN ...",
+   "med": 189,
+   "ratio": 9.45,
    "ai_value": ""
   },
   {
@@ -1982,6 +2004,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947988984",
+   "title": "Pearl & Diamond set",
+   "price": 75,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/los-lunas-pearl-diamond-set/kUMrTAHXvDg3usF63T9PSo",
+   "best": "pearl set fine jewelry | eBay",
+   "med": 350,
+   "ratio": 4.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7983186774",
    "title": "4 Peter Max Lithographs Hearts signed numbered",
    "price": 325,
@@ -2400,6 +2433,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947358111",
+   "title": "AVON? Pearl and crystal dangle Earrings $10",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-avon-pearl-and-crystal/aVSbCJToWQXLuoC5K5or6h",
+   "best": "Round Gold Filigree and Pearl Teardrop Pierced or Clip on ...",
+   "med": 35,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -2628,6 +2672,28 @@
    "best": "TAG Heuer 6000 Men's Stainless Steel End Link For Band ...",
    "med": 140,
    "ratio": 3.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971694626",
+   "title": "14kt Yellow Gold Ornate Cross Pendant",
+   "price": 159,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/ballwin-14kt-yellow-gold-ornate-cross/2sM3iLnunkaSqMjDoXPJAp",
+   "best": "14k Yellow Gold Diamond-Cut Textured Passion Cross Charm ...",
+   "med": 495,
+   "ratio": 3.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981838712",
+   "title": "Vintage Capodimonte Style Footed Vase - Made in Portugal",
+   "price": 50,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/union-vintage-capodimonte-style-footed/aFhTR7Ky9EfNAWLWKaw1kg",
+   "best": "BEAUTIFUL VINTAGE CAPADIMONTE BASSANO ITALY DOUBLE HANDLE ...",
+   "med": 155,
+   "ratio": 3.1,
    "ai_value": ""
   },
   {
@@ -3192,6 +3258,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939296185",
+   "title": "Vintage Victorian Village Collectibles - Victoria Station",
+   "price": 45,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-vintage-victorian-village/uDL9HYg6NX81LyteDL5xTN",
+   "best": "Christmas Village Porcelain Lighted House Victoria Station ...",
+   "med": 104,
+   "ratio": 2.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7949006096",
    "title": "Fashion Long Necklace 23\"L",
    "price": 10,
@@ -3375,6 +3452,17 @@
    "url": "https://www.craigslist.org/view/d/washington-ernest-hemingway-portrait/658s5HXWGfJEFRWnYGWiAQ",
    "best": "Poshmark",
    "med": 124,
+   "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944685151",
+   "title": "Pair Mexican pottery statues",
+   "price": 45,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-pair-mexican-pottery-statues/1oPge2Np59myzn1fybK6id",
+   "best": "Ancestor Pair - Ixtl\u00e1n del R\u00edo - The Metropolitan Museum of ...",
+   "med": 93,
    "ratio": 2.07,
    "ai_value": ""
   },
@@ -4930,6 +5018,28 @@
    "ai_value": "Sold at Auction: Group of Copper Costume Jewelry Rings Out of stock $2,680"
   },
   {
+   "pid": "7954685740",
+   "title": "Vintage 1939 Walking Liberty Silver Half Dollar Coin Watch",
+   "price": 125,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-vintage-1939-walking-liberty/2hpegYMwp9Yd1m2xZpjqnd",
+   "best": "Vintage Board Of Education School District Of Philadelphia ...",
+   "med": 156,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947007429",
+   "title": "20 Ty beanies collection",
+   "price": 40,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-20-ty-beanies-collection/hGR8oPHGtqRatsGPU9KCAx",
+   "best": "Lot #15 of 32 Original Retired Ty Beanie Babies Bears w ...",
+   "med": 50,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -5744,6 +5854,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932936735",
+   "title": "Milk Glass Cameo Plate",
+   "price": 85,
+   "area": "roanoke",
+   "url": "https://www.craigslist.org/view/d/milk-glass-cameo-plate/53zNKVu61UBkLj3DGJzFsd",
+   "best": "Fostoria Milk Glass Jenny Lind Blue Dresser Tray, Jenny Lind ...",
+   "med": 75,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -6401,6 +6522,17 @@
    "best": "Etsy",
    "med": 127,
    "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946993347",
+   "title": "2-Vintage Shawnee wheat vase",
+   "price": 25,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/mount-holly-vintage-shawnee-wheat-vase/8LCqpbC77wj9Dz5P4kqMCx",
+   "best": "Vintage Shawnee Pottery 1258 Wheat Motif Cream & Yellow 8 ...",
+   "med": 13,
+   "ratio": 0.52,
    "ai_value": ""
   },
   {
@@ -7367,6 +7499,17 @@
    "area": "salem",
    "url": "https://www.craigslist.org/view/d/hubbard-camping-enameled-cookware-pieces/d2VxVMKHtUUXGr3Yyfo7Bp",
    "best": "Red Speckled Enamel Iron Coffee Percolator - Durable Retro ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975113438",
+   "title": "Men\u2019s New Watch",
+   "price": 360,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/silver-spring-mens-new-watch/okkM3NF4dEfdosnq7JQL7N",
+   "best": "Amazon.com: Breitling Superocean Heritage II Chronograph ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

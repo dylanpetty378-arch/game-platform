@@ -31575,3 +31575,28 @@
 {"ts":"2026-10-14T15:44:43Z","pid":"7930252075","stage":"lensed","run":"lensworker-20261014-1537","note":null,"data":{"med":15,"ratio":0.75,"mismatch":[]}}
 {"ts":"2026-10-14T15:44:54Z","pid":"7954289800","stage":"flagged","run":"lensworker-20261014-1537","note":"Lens names Relpo — title does not","data":{"med":46,"ratio":1.15,"mismatch":["Relpo"]}}
 {"ts":"2026-10-14T15:45:01Z","pid":"7930664809","stage":"lensed","run":"lensworker-20261014-1537","note":null,"data":{"med":31,"ratio":0.69,"mismatch":[]}}
+{"ts":"2026-10-14T15:45:11Z","pid":"7981129650","stage":"lensed","run":"lensworker-20261014-1537","note":null,"data":{"med":14,"ratio":0.47,"mismatch":[]}}
+{"ts":"2026-10-14T15:45:17Z","pid":"7978473756","stage":"queued","status":"relens","run":"lensworker-20261014-1537","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:45:28Z","pid":"7944685151","stage":"flagged","run":"lensworker-20261014-1537","note":"Lens names Museum — title does not","data":{"med":93,"ratio":2.07,"mismatch":["Museum"]}}
+{"ts":"2026-10-14T15:45:38Z","pid":"7983273078","stage":"lensed","run":"lensworker-20261014-1537","note":null,"data":{"med":40,"ratio":8,"mismatch":[]}}
+{"ts":"2026-10-14T15:45:49Z","pid":"7975113438","stage":"flagged","run":"lensworker-20261014-1537","note":"Lens names Breitling — title does not","data":{"med":null,"ratio":null,"mismatch":["Breitling"]}}
+{"ts":"2026-10-14T15:45:59Z","pid":"7933527810","stage":"lensed","run":"lensworker-20261014-1537","note":null,"data":{"med":46,"ratio":1.84,"mismatch":[]}}
+{"ts":"2026-10-14T15:46:07Z","pid":"7950400623","stage":"lensed","run":"lensworker-20261014-1537","note":null,"data":{"med":25,"ratio":0.5,"mismatch":[]}}
+{"ts":"2026-10-14T15:46:17Z","pid":"7971694626","stage":"flagged","run":"lensworker-20261014-1537","note":null,"data":{"med":495,"ratio":3.11,"mismatch":[]}}
+{"ts":"2026-10-14T15:46:24Z","pid":"7955227779","stage":"flagged","run":"lensworker-20261014-1537","note":null,"data":{"med":189,"ratio":9.45,"mismatch":[]}}
+{"ts":"2026-10-14T15:46:35Z","pid":"7953060400","stage":"lensed","run":"lensworker-20261014-1537","note":null,"data":{"med":25,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-14T15:46:47Z","pid":"7981838712","stage":"flagged","run":"lensworker-20261014-1545","note":null,"data":{"med":155,"ratio":3.1,"mismatch":[]}}
+{"ts":"2026-10-14T15:46:58Z","pid":"7932936735","stage":"flagged","run":"lensworker-20261014-1545","note":"Lens names Fostoria — title does not","data":{"med":75,"ratio":0.88,"mismatch":["Fostoria"]}}
+{"ts":"2026-10-14T15:47:05Z","pid":"7946993347","stage":"flagged","run":"lensworker-20261014-1545","note":"Lens names Shawnee Pottery — title does not","data":{"med":13,"ratio":0.52,"mismatch":["Shawnee Pottery"]}}
+{"ts":"2026-10-14T15:47:14Z","pid":"7939296185","stage":"flagged","run":"lensworker-20261014-1545","note":null,"data":{"med":104,"ratio":2.31,"mismatch":[]}}
+{"ts":"2026-10-14T15:47:23Z","pid":"7954685740","stage":"flagged","run":"lensworker-20261014-1545","note":"Lens names School — title does not","data":{"med":156,"ratio":1.25,"mismatch":["School"]}}
+{"ts":"2026-10-14T15:47:29Z","pid":"7944245533","stage":"queued","status":"relens","run":"lensworker-20261014-1545","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:47:37Z","pid":"7947007429","stage":"flagged","run":"lensworker-20261014-1545","note":"Lens names Ty Beanie Babies — title does not","data":{"med":50,"ratio":1.25,"mismatch":["Ty Beanie Babies"]}}
+{"ts":"2026-10-14T15:47:44Z","pid":"7946870694","stage":"queued","status":"relens","run":"lensworker-20261014-1545","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:47:53Z","pid":"7954057584","stage":"flagged","run":"lensworker-20261014-1545","note":null,"data":{"med":126,"ratio":12.6,"mismatch":[]}}
+{"ts":"2026-10-14T15:48:02Z","pid":"7947988984","stage":"flagged","run":"lensworker-20261014-1545","note":null,"data":{"med":350,"ratio":4.67,"mismatch":[]}}
+{"ts":"2026-10-14T15:48:11Z","pid":"7947358111","stage":"flagged","run":"lensworker-20261014-1545","note":"Lens names Gold — title does not","data":{"med":35,"ratio":3.5,"mismatch":["Gold"]}}
+{"ts":"2026-10-14T15:48:19Z","pid":"7945140768","stage":"lensed","run":"lensworker-20261014-1545","note":null,"data":{"med":41,"ratio":1.17,"mismatch":[]}}
+{"ts":"2026-10-14T15:48:29Z","pid":"7983263760","stage":"lensed","run":"lensworker-20261014-1545","note":null,"data":{"med":41,"ratio":1.17,"mismatch":[]}}
+{"ts":"2026-10-14T15:48:36Z","pid":"7932355461","stage":"queued","status":"relens","run":"lensworker-20261014-1545","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:48:42Z","pid":"7943378212","stage":"queued","status":"relens","run":"lensworker-20261014-1545","note":"empty Lens read, auto re-queued"}
