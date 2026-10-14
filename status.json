@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:37:28Z",
+ "updated": "2026-10-14T06:41:10Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7949,
-  "events": 29963,
+  "lens": 7974,
+  "events": 29988,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 148,
+  "queued/relens": 152,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 503,
-  "flagged": 228,
-  "lensed": 71
+  "queued": 478,
+  "flagged": 244,
+  "lensed": 76
  },
  "last_harvests": [
   {
@@ -485,6 +485,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934249959",
+   "title": "Vintage Pendulum clock",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/61iy3ZbeHn1D7Pu1W7xvKv",
+   "best": "vintage Bond Street London gold tone framed Hanging clock ...",
+   "med": 3200,
+   "ratio": 32,
+   "ai_value": ""
+  },
+  {
    "pid": "7954896055",
    "title": "Gold Tone Charm Bracelet",
    "price": 12,
@@ -559,6 +570,17 @@
    "best": "Gem",
    "med": 677,
    "ratio": 13.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945560669",
+   "title": "Diamond earrings",
+   "price": 75,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-diamond-earrings/aVkbnJ46vsD6ZkeZppaxow",
+   "best": "2.02 CT Round Lab Grown Diamond Cluster Flower Earrings G ...",
+   "med": 940,
+   "ratio": 12.53,
    "ai_value": ""
   },
   {
@@ -801,6 +823,17 @@
    "best": "Vintage Silpada DROPS OF THE OCEAN Sterling Silver Howlite ...",
    "med": 400,
    "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939454176",
+   "title": "Vintage MCM Scheurich Ceramic Pitcher Vase",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-mcm-scheurich/hcaj87ojTbGzUXGRiyX3Ly",
+   "best": "Scheurich 523 - Etsy",
+   "med": 251,
+   "ratio": 5.02,
    "ai_value": ""
   },
   {
@@ -1090,6 +1123,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946650491",
+   "title": "Wonderful Vintage Head Vase 1940's Good Condition",
+   "price": 20,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-wonderful-vintage-head-vase/mNstP2627ZAGNVy182Tkay",
+   "best": "Vintage UCAGO Co Japan Lady Head Vase Blonde Curls Big Hat ...",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7965241119",
    "title": "Lot of Costume Diamonds, bracelet, necklaces",
    "price": 18,
@@ -1109,6 +1153,17 @@
    "best": "Yemenite tribal antique filigree silver anklet leg bracelet ...",
    "med": 241,
    "ratio": 3.21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981974675",
+   "title": "Sterling silver earrings",
+   "price": 45,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-sterling-silver-earrings/tD8pUrEHGkcDbWQwK6qB8k",
+   "best": "TAG Heuer 6000 Men's Stainless Steel End Link For Band ...",
+   "med": 140,
+   "ratio": 3.11,
    "ai_value": ""
   },
   {
@@ -1163,6 +1218,17 @@
    "url": "https://www.craigslist.org/view/d/saint-paul-vintage-catholic-religious/cu6jgAKAMx9hxurVJqJP3p",
    "best": "Vintage Inri Silver Tone Catholic Finger Medal Crown of ...",
    "med": 28,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932802106",
+   "title": "Vintage Japanese Two Handled Vase PRICE DROP!",
+   "price": 15,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-japanese-two-handled/eF7awyyF1BMFgVDjBJg8T1",
+   "best": "Craigslist",
+   "med": 42,
    "ratio": 2.8,
    "ai_value": ""
   },
@@ -1365,6 +1431,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966592568",
+   "title": "Vintage Rice Pearl and 14K Gold Clasp and Beads 5 Strand Bracelet",
+   "price": 110,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/nipomo-vintage-rice-pearl-and-14k-gold/pi6MU72dKyazmu6UeckQKQ",
+   "best": "Vintage 14K Yellow Gold Triple Strand Pearl Bracelet - Etsy",
+   "med": 252,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7959823173",
    "title": "NECKLACE Sterling (925) Pearl Necklace",
    "price": 50,
@@ -1552,6 +1629,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943637755",
+   "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/26McMaKTN4D62Wm7rb98B5",
+   "best": "Navajo Ring 925 Silver Spiderweb Turquoise Native Artist C ...",
+   "med": 179,
+   "ratio": 1.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7942746542",
    "title": "Vintage Lightning Bolt Stones Necklace",
    "price": 40,
@@ -1581,6 +1669,17 @@
    "url": "https://www.craigslist.org/view/d/san-marcos-hammered-sterling-silver/7ReCudKp5FfM2itucna5Bb",
    "best": "Etsy",
    "med": 69,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933479147",
+   "title": "Antique 1960s 925 sterling silver Mexican choker necklace Mexico Hallmark",
+   "price": 60,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/oceanside-antique-1960s-925-sterling/vwUsqGT47rf8TYjks4xxiW",
+   "best": "16\u201d, vintage Mexican sterling silver 925 handmade oval ...",
+   "med": 104,
    "ratio": 1.73,
    "ai_value": ""
   },
@@ -1669,6 +1768,17 @@
    "url": "https://www.craigslist.org/view/d/kansas-city-blow-glass-vase/hJZ5bPN1yJLnmNNJ7rhekx",
    "best": "Bol",
    "med": 64,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949599230",
+   "title": "Earrings and Necklaces",
+   "price": 20,
+   "area": "utica",
+   "url": "https://www.craigslist.org/view/d/davenport-earrings-and-necklaces/umJPjjNP36NAjAkNDqLTWx",
+   "best": "birthday gift - earring CLAIRE'S 18K GOLD Plated & Silver ...",
+   "med": 32,
    "ratio": 1.6,
    "ai_value": ""
   },
@@ -1783,6 +1893,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968999660",
+   "title": "New Vintage Barse Sterling Silver & Chunky Carnelian Agate 17\u201d Necklac",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-new-vintage-barse/eta7DjKQoHhm6JkfPEhhwL",
+   "best": "Four Gemstone Bead Necklaces Carnelian Tiger Eye Onyx ...",
+   "med": 60,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -1813,6 +1934,17 @@
    "best": "eBay",
    "med": 22,
    "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943191919",
+   "title": "Sterling Silver Beaded 20\u201d Necklace",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-beaded-20/u8tKr4ipnt1VHvKN8YT1xx",
+   "best": "Elsa Peretti Pearls by the Yard Necklace in Sterling Silver, Size: 18\"",
+   "med": 51,
+   "ratio": 1.46,
    "ai_value": ""
   },
   {
@@ -2055,6 +2187,17 @@
    "best": "Vintage Estate Jewelry Lot of 8 necklaces all Wearable one ...",
    "med": 18,
    "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932018315",
+   "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
+   "price": 80,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-sterling-silver/kRZokPLVzp7ddfZZZNNrHM",
+   "best": "Vintage English Art Deco Chrysoprase Marcasite Sterling ...",
+   "med": 95,
+   "ratio": 1.19,
    "ai_value": ""
   },
   {
@@ -2399,6 +2542,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943910746",
+   "title": "3 Antique Vases",
+   "price": 35,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-antique-vases/ajBfHprjAS7hEz2T5iQowg",
+   "best": "BING GRONDAHL B&G Royal Copenhagen Blue APPLE TWIG Porcelain ...",
+   "med": 30,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7934421094",
    "title": "Yellow Asian Cloisonne Bowl",
    "price": 100,
@@ -2440,6 +2594,28 @@
    "best": "Borrowed Bling",
    "med": 56,
    "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983183432",
+   "title": "Reduced! Vintage Natural London Blue Topaz & Diamond 14K Gold Ring",
+   "price": 485,
+   "area": "annapolis",
+   "url": "https://www.craigslist.org/view/d/gambrills-reduced-vintage-natural/2KsJo6z175AEcpN96GXCNK",
+   "best": "Tonal Blue Topaz Three-Stone Ring in 14kt Yellow Gold, 5.40 ct. t.w., Size 9",
+   "med": 375,
+   "ratio": 0.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947741971",
+   "title": "Art Nouveau  Pendant Necklace 1960'",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-art-nouveau-pendant-necklace/35V7Hti14iniH5qD1ZxsvR",
+   "best": "Vintage Pewter Colored Cameo Pendant Necklace 1960's Jewelry ...",
+   "med": 45,
+   "ratio": 0.75,
    "ai_value": ""
   },
   {
