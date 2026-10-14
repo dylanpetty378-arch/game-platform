@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T05:52:51Z",
+ "updated": "2026-10-14T05:58:46Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7674,
-  "events": 29688,
+  "lens": 7699,
+  "events": 29713,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 778,
-  "flagged": 22,
-  "lensed": 3
+  "queued": 753,
+  "flagged": 44,
+  "lensed": 6
  },
  "last_harvests": [
   {
@@ -452,6 +452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967791632",
+   "title": "Sterling Silver & Cubic Zirconia 18\u201d Necklace",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-sterling-silver-cubic-zirconia/3EknirWqg5CVC3hUoMPGLG",
+   "best": "Amazon.com",
+   "med": 500,
+   "ratio": 14.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7977883716",
    "title": "Five Old Straight Razors - Varying Conditions",
    "price": 20,
@@ -460,6 +471,17 @@
    "best": "Antique Collection Straight Razors Solingen Hollow Arkans ...",
    "med": 175,
    "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956172009",
+   "title": "PEARL AMETHYST STERLING EARRINGS",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-pearl-amethyst-sterling/pSSwF7rk6j57P6C2JnXRrJ",
+   "best": "Grandview Mercantile",
+   "med": 285,
+   "ratio": 8.14,
    "ai_value": ""
   },
   {
@@ -485,6 +507,61 @@
    "ai_value": ""
   },
   {
+   "pid": "7981429362",
+   "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
+   "price": 30,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/vista-harley-davidson-motorcycle/bDzQ6UxvJzChZ94RojdLjq",
+   "best": "Harley-davidson 925 Silver Heart And Flame Earrings",
+   "med": 149,
+   "ratio": 4.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959014670",
+   "title": "Vintage 1928 Necklace",
+   "price": 20,
+   "area": "missoula",
+   "url": "https://www.craigslist.org/view/d/missoula-vintage-1928-necklace/gdtoQbSvCKiS9FD1Xz8WeY",
+   "best": "Craigslist",
+   "med": 85,
+   "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956087698",
+   "title": "Beautiful sterling silver necklace",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-beautiful-sterling-silver/kPdH3MhVGfLVzAsoe8ynZJ",
+   "best": "Faire",
+   "med": 420,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972351545",
+   "title": "Sterling Silver Ring",
+   "price": 20,
+   "area": "palmsprings",
+   "url": "https://www.craigslist.org/view/d/palm-springs-sterling-silver-ring/37Rw7RwMineEWjdfApnQZo",
+   "best": "Etsy",
+   "med": 75,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953887286",
+   "title": "Vintage Am Lee 925 Sterling Silver Rhinestone Filigree Necklace 14\u201d Ar",
+   "price": 40,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/somerville-vintage-am-lee-925-sterling/8kdBrna1EtJAW83nMbfgF8",
+   "best": "eBay",
+   "med": 145,
+   "ratio": 3.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7929881101",
    "title": "Vintage ladies Benrus,10k r.g.p, w/diamonds, needs serviced.",
    "price": 60,
@@ -493,6 +570,17 @@
    "best": "Vintage Elgin 10K Gold Ladies Mechanical Cocktail Watch, Original Boxes, Papers! Working! 1950's Beauty! WOW!!",
    "med": 185,
    "ratio": 3.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953788924",
+   "title": "Sterling Silver Cuff 5\u201d w/Turquoise",
+   "price": 60,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-cuff-w/2DYf5UcVt9wjQ2hqJvwmLo",
+   "best": "eBay",
+   "med": 171,
+   "ratio": 2.85,
    "ai_value": ""
   },
   {
@@ -595,6 +683,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956906458",
+   "title": "5 VINTAGE TEA POTS",
+   "price": 25,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/antelope-vintage-tea-pots/tSm9rTsfa7eHVkM3ARHznm",
+   "best": "VINTAGE CHINESE CERAMIC TEAPOT | eBay",
+   "med": 35,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -603,6 +702,61 @@
    "best": "Goebel Hummel Figurine Stem Wine Glasses 14K Gold Trim Germany Lot of 6",
    "med": 125,
    "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955408722",
+   "title": "Earring-sterling and turquoise",
+   "price": 25,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/sandia-park-earring-sterling-and/vS88JUdNrkUmYE54RdYqV8",
+   "best": "Craigslist",
+   "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944252343",
+   "title": "Vintage Pottery Dashboard or Commuter \u201cNo-Spill\u201d Mug",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-pottery-dashboard-or/gEzf6Xk2FnRURHryyhFCDq",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 1.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949271613",
+   "title": "Beau Sterling Silver Bangle",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-beau-sterling-silver/jdigSevwdb9pq55n8Fykp4",
+   "best": "Etsy",
+   "med": 32,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972942062",
+   "title": "Gemstone Pendants ( B2G1F)",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/mill-creek-gemstone-pendants-b2g1f/qTW1QyPEkbNCfUodzPZwXx",
+   "best": "Sale Jasper & Mix Gemstone 925 Sterling Silver Plated 10 PCs ...",
+   "med": 26,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955793281",
+   "title": "Gemstone Pendants ( B2G1F)",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/mill-creek-gemstone-pendants-b2g1f/fthfjefnPVLDTJeCkTPa39",
+   "best": "Craigslist",
+   "med": 26,
+   "ratio": 1.04,
    "ai_value": ""
   },
   {
@@ -625,6 +779,83 @@
    "best": "Vintage 1940s Sterling Silver Charm Bracelet 17 Charms - Etsy",
    "med": 165,
    "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969319202",
+   "title": "Vintage Porcelain Soap Dispenser",
+   "price": 35,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-porcelain-soap/jTaSiEPgMy5zW3TntP69Y3",
+   "best": "What is the age and value of my grandmother's unmarked antique?",
+   "med": 32,
+   "ratio": 0.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979722731",
+   "title": "Handmade Vintage Pottery Bowl Signed by Artist Gray",
+   "price": 40,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/apex-handmade-vintage-pottery-bowl/mDJ5HWsAKjj69MnN5ZJxna",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946375985",
+   "title": "Sterling Silver & Rhodonite 20\u201d Necklace",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-rhodonite/wTanakx345NcyKoecnGGj6",
+   "best": "Etsy",
+   "med": 30,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948558885",
+   "title": "Set of 2 Porcelain Angel Figurine, New",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/castro-valley-set-of-porcelain-angel/iTpFYfPjqhq5Vr94Fi2et9",
+   "best": "eBay",
+   "med": 19,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971364938",
+   "title": "Jewelry lot",
+   "price": 50,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/hollywood-jewelry-lot/uKHYmoQ5Ub5RJ3duAjUKGn",
+   "best": "Lot of 16 Assorted EARRINGS Various Types Materials ...",
+   "med": 24,
+   "ratio": 0.48,
+   "ai_value": "Sold at Auction: Selection of Costume Jewelry Earrings $53"
+  },
+  {
+   "pid": "7954787454",
+   "title": "Hammered Sterling Silver Ring",
+   "price": 95,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-hammered-sterling-silver-ring/ber4rFUMohfXxkKBviqknW",
+   "best": "eBay",
+   "med": 46,
+   "ratio": 0.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942923496",
+   "title": "Kendra Scott Bracelet/Necklace Combo Like NEW!",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-kendra-scott-bracelet/iPToDHVhVGzuqzh3Xa5Pqq",
+   "best": "Kendra Scott Rayne Long Tassel Pendant Necklace in Gold Tone Brass \u2013 Layering Statement Necklace for Women",
+   "med": 38,
+   "ratio": 0.47,
    "ai_value": ""
   },
   {
@@ -658,6 +889,17 @@
    "best": "Instagram",
    "med": 90,
    "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941911946",
+   "title": "14k SOLID GOLD CHAIN",
+   "price": 300,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-14k-solid-gold-chain/3hpPhxbEtNbG5hMg8fTKGS",
+   "best": "Etsy",
+   "med": 25,
+   "ratio": 0.08,
    "ai_value": ""
   }
  ],
