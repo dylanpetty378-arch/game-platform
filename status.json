@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:34:54Z",
+ "updated": "2026-10-14T07:38:37Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8324,
-  "events": 30338,
+  "lens": 8349,
+  "events": 30363,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 308,
+  "queued/relens": 312,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 128,
-  "flagged": 391,
-  "lensed": 123
+  "queued": 103,
+  "flagged": 402,
+  "lensed": 133
  },
  "last_harvests": [
   {
@@ -452,6 +452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933968362",
+   "title": "JAZ Paris Watch Ladies 18k gold plated Oval Dial",
+   "price": 49,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/irvine-jaz-paris-watch-ladies-18k-gold/g3tYMbR1fKrRjRw76mYoyK",
+   "best": "Cartier Vendome LM - Ref. 78090 | Watch Scout",
+   "med": 3600,
+   "ratio": 73.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7958130497",
    "title": "Art Nouveau Cameo Glass Vase",
    "price": 90,
@@ -680,6 +691,17 @@
    "best": "2.02 CT Round Lab Grown Diamond Cluster Flower Earrings G ...",
    "med": 940,
    "ratio": 12.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968091428",
+   "title": "2 Vintage Korean/Japanese Dolls on Stands-Priced Each",
+   "price": 10,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/penryn-vintage-korean-japanese-dolls-on/m5RdY2Z4thM9z5YQtLxaiL",
+   "best": "01 Japanese Vintage Kimono Cloth Geisha Doll 44cm / OOGI ...",
+   "med": 120,
+   "ratio": 12,
    "ai_value": ""
   },
   {
@@ -958,6 +980,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948904068",
+   "title": "LOT of THREE-BRIGHTLY COLORED FOREIGN CITY SCENES- EFFECTIVE !",
+   "price": 95,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/boynton-beach-lot-of-three-brightly/kojbc7X1ZAaSpbNQhgjS2Z",
+   "best": "Mid-20th Century Street Market Impasto Oil Painting Framed ...",
+   "med": 525,
+   "ratio": 5.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7974613113",
    "title": "Antique 19th century Etchings",
    "price": 80,
@@ -999,6 +1032,17 @@
    "best": "Vintage Silpada DROPS OF THE OCEAN Sterling Silver Howlite ...",
    "med": 400,
    "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983159279",
+   "title": "Hand Made Earrings",
+   "price": 65,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/fresh-meadows-hand-made-earrings/wQVKxCxnUALngrF1pgfRoj",
+   "best": "Victorian Mourning Brooch, 14K Gold, Seed Pearl, Hair ...",
+   "med": 346,
+   "ratio": 5.32,
    "ai_value": ""
   },
   {
@@ -1420,6 +1464,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983134007",
+   "title": "James Estate",
+   "price": 50,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orange-city-james-estate/qFfZWTAKr7uyV5TH4bZpdn",
+   "best": "Jointer Guard for sale | eBay",
+   "med": 170,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7974693465",
    "title": "Vintage Alfred Dunhill cast iron rotating ashtray",
    "price": 25,
@@ -1538,6 +1593,17 @@
    "best": "Antique James Yates Pewter Tankard Pint Mug Cup Rare HTF ...",
    "med": 160,
    "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950353213",
+   "title": "diamond engagement ring",
+   "price": 475,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/south-plainfield-diamond-engagement-ring/nv7HeBHu2ERRiSGRpXtaRP",
+   "best": "50ctw Round Diamond with Accents Engagement Ring 14k Yellow ...",
+   "med": 1499,
+   "ratio": 3.16,
    "ai_value": ""
   },
   {
@@ -2023,6 +2089,17 @@
    "med": 125,
    "ratio": 2.08,
    "ai_value": "Prices $180"
+  },
+  {
+   "pid": "7948092765",
+   "title": "Sterling Silver 18\u201d Chain w/Navajo Sterling Silver & Turquoise Pendant",
+   "price": 120,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-18-chain/6DffvcEnLxhab2gPKsmCHb",
+   "best": "Navajo Necklace 925 Silver Natural Turquoise Artist EH C ...",
+   "med": 250,
+   "ratio": 2.08,
+   "ai_value": ""
   },
   {
    "pid": "7950885127",
@@ -3873,6 +3950,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960881426",
+   "title": "Native American Sterling Silver Cuff Bracelet",
+   "price": 150,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-native-american-sterling/6LFWQUwQFqVQkah1FubP4D",
+   "best": "Vintage Native American Tribal Stamps Silver Cuff Bracelet ...",
+   "med": 115,
+   "ratio": 0.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7954233431",
    "title": "Vintage 1900 George Washington Tobacco Tin",
    "price": 85,
@@ -4566,6 +4654,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983141696",
+   "title": "Vintage Organdie Vernonware",
+   "price": 100,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-vintage-organdie-vernonware/b9WtDijLFzsr9PxgjweYWH",
+   "best": "Vintage Vernon Kilns Vernonware ORGANDIE OVAL PLATTER MID ...",
+   "med": 20,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933424756",
    "title": "Sterling Silver Ecclissi Art Deco Cuff 7 1/2\u201d Watch",
    "price": 175,
@@ -4618,6 +4717,17 @@
    "best": "eBay",
    "med": 22,
    "ratio": 0.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954713547",
+   "title": "Vintage Bronze Fish Symbol",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-bronze-fish-symbol/sibCECKhTvKJ33b8EATfFX",
+   "best": "Sherman Faith Identification Auto Emblem, IXOYE, Gold Tone ...",
+   "med": 6,
+   "ratio": 0.12,
    "ai_value": ""
   },
   {
@@ -4715,6 +4825,17 @@
    "area": "phoenix",
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-butterfly/rn3dWzaPGS9cYUfUZybDK3",
    "best": "Elegant Silver Design Women's Ring, Inlaid With Sparkling ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952777905",
+   "title": "Headband bejeweled kundan indian antique vintage",
+   "price": 119,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/irvine-headband-bejeweled-kundan-indian/9KH9xsNgXfWzFgVtieMp79",
+   "best": "Buy Gold Beads Kundan Shell Pearl Floral Headband by Paisley ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
