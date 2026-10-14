@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:33:36Z",
+ "updated": "2026-10-14T06:37:28Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7924,
-  "events": 29938,
+  "lens": 7949,
+  "events": 29963,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 528,
-  "flagged": 213,
-  "lensed": 61
+  "queued": 503,
+  "flagged": 228,
+  "lensed": 71
  },
  "last_harvests": [
   {
@@ -496,6 +496,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983123567",
+   "title": "Vintage Asian storage or Jewelry  Box",
+   "price": 20,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/baltimore-vintage-asian-storage-or/858ESG3A6RAbqLVe6pkoFt",
+   "best": "Round Lacquer Box - Etsy",
+   "med": 333,
+   "ratio": 16.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7949234254",
    "title": "Sterling Silver, Ruby,  Pearl & Diamond 18\u201d Necklace",
    "price": 90,
@@ -749,6 +760,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956087207",
+   "title": "4 ceramic vintage canisters",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-ceramic-vintage-canisters/h22mM929g1JrsodBnW8nKB",
+   "best": "Southwestern Canisters - Etsy",
+   "med": 225,
+   "ratio": 5.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7974613113",
    "title": "Antique 19th century Etchings",
    "price": 80,
@@ -804,6 +826,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981355043",
+   "title": "Handmade ceramic teapot!",
+   "price": 10,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-handmade-ceramic-teapot/9qYL4YxmwVJyrA5uyCgEhA",
+   "best": "Golden Embers Teapot \u2014 Nicole Hummel Ceramics",
+   "med": 49,
+   "ratio": 4.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471758",
    "title": "Vintage Sterling/14k Gold Vermeil Emerald Eternity Ring,Sz4",
    "price": 20,
@@ -823,6 +856,17 @@
    "best": "Illinois Watch Co. 18s 17 Jewels Gold Filled Open Face ...",
    "med": 230,
    "ratio": 4.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962419925",
+   "title": "Vintage 1978 C3PO Toy",
+   "price": 10,
+   "area": "greenbay",
+   "url": "https://www.craigslist.org/view/d/green-bay-vintage-1978-c3po-toy/8zRZwMB7X4XpMVzhMPQfaa",
+   "best": "Vintage 1979 C-3PO Star Wars Kenner 12\" Action Figure | eBay",
+   "med": 44,
+   "ratio": 4.4,
    "ai_value": ""
   },
   {
@@ -1010,6 +1054,17 @@
    "best": "Julian Espinosa 1971 - Ignacio Fleta style classical guitar ...",
    "med": 350,
    "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931792065",
+   "title": "Sterling silver and zircon pendant",
+   "price": 35,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-and-zircon/ixLFHxcgPzZ6q2CFjyAihq",
+   "best": "eBay",
+   "med": 122,
+   "ratio": 3.49,
    "ai_value": ""
   },
   {
@@ -1266,6 +1321,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964958741",
+   "title": "Aqua Bracelet and Earrings",
+   "price": 15,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/chula-vista-aqua-bracelet-and-earrings/eYLxYWWyXiHsNQAvNFgCrX",
+   "best": "Fancy Green/Blue & Gold Glass Beaded Bracelet & Earrings Set ...",
+   "med": 35,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7942418674",
    "title": "Men\u2019s Rings - Set of 5",
    "price": 45,
@@ -1427,6 +1493,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-new-vintage-barse/h4FUcbU7XUmC6C9ASzD8Gv",
    "best": "HUGE Runway Chunky Brown Jasper Beaded 925 Sterling Silver ...",
    "med": 75,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945295627",
+   "title": "Pandora leather bracelet with sterling silver charms",
+   "price": 90,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/everett-pandora-leather-bracelet-with/6FVdGnu4xUeN8QeKQ4556t",
+   "best": "PANDORA Made With Love .925 STERLING SLIVER Charm Bracelet ...",
+   "med": 169,
    "ratio": 1.88,
    "ai_value": ""
   },
@@ -1695,6 +1772,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954868512",
+   "title": "Vintage Fenton Glass Bells - $20 each",
+   "price": 20,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/catasauqua-vintage-fenton-glass-bells/oj5prHrfTApbbR9eFmBoxc",
+   "best": "CHOICE of Fenton Hand Painted Mini Bells - Etsy",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -1783,6 +1871,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943638537",
+   "title": "Sterling Silver Charm Bracelet 7 1/2\u201d",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-charm/jy4dMomhV4d59LKZBkUY5J",
+   "best": "James Avery Heavy Double Curb Charm Bracelet for Sale in ...",
+   "med": 49,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7965370614",
    "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
    "price": 18,
@@ -1794,6 +1893,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937952842",
+   "title": "Vintage brooch",
+   "price": 40,
+   "area": "valdosta",
+   "url": "https://www.craigslist.org/view/d/lake-city-vintage-brooch/apAziKtSPc5VbUd8WsTHNU",
+   "best": "Vintage Marianne Signed Clear Rhinestone Silver Tone Art ...",
+   "med": 55,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7949234609",
    "title": "Sterling Silver 1 3/4\u201d Hoop Earrings",
    "price": 30,
@@ -1802,6 +1912,17 @@
    "best": "Craigslist",
    "med": 40,
    "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951339190",
+   "title": "2 Vintage Coke Trays",
+   "price": 25,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/west-des-moines-vintage-coke-trays/q9Y1VYjvLCW9GeKRdBTBfE",
+   "best": "Vintage COCA-COLA COKE Collectible Tray TOURING CAR | eBay",
+   "med": 33,
+   "ratio": 1.32,
    "ai_value": ""
   },
   {
@@ -2135,6 +2256,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938218828",
+   "title": "Haeger Pottery Magnificent Signed Large Vase",
+   "price": 125,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/oak-lawn-haeger-pottery-magnificent/rJ9RRCJa8L6yWgwHzYoA8S",
+   "best": "Haeger 1965 S. Maglio L-12 Vase | #30598411",
+   "med": 125,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -2234,6 +2366,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983199305",
+   "title": "Sterling Silver Ring - New",
+   "price": 45,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-ring-new/qDwS35v8cPheHcmAWx3XTv",
+   "best": "Wide Adjustable Sterling Silver Ring With Layered Wave ...",
+   "med": 40,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7979722731",
    "title": "Handmade Vintage Pottery Bowl Signed by Artist Gray",
    "price": 40,
@@ -2300,6 +2443,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971834546",
+   "title": "Vintage Sterling Silver Turquoise & Coral Hopi/Navajo Size 6 1/4 Ring",
+   "price": 250,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-sterling-silver/qQApg4fsPe2nqA9cD4cQGw",
+   "best": "VINTAGE STERLING SILVER TURQUOISE & CORAL CABOCHON NATIVE ...",
+   "med": 184,
+   "ratio": 0.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7940114039",
    "title": "Sterling silver kokopelli earrings",
    "price": 40,
@@ -2319,6 +2473,17 @@
    "best": "eBay",
    "med": 142,
    "ratio": 0.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948092563",
+   "title": "Vintage West Germany Filagree Size 5 Ring",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-west-germany/x8bE5iWcaEhz66KyMj552G",
+   "best": "Ring Southwest Lizard 925 Silver w Black Onyx Gecko Iguana ...",
+   "med": 35,
+   "ratio": 0.7,
    "ai_value": ""
   },
   {
