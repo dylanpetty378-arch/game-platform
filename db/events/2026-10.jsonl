@@ -31286,3 +31286,28 @@
 {"ts":"2026-10-14T14:56:47Z","pid":"7955089967","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-14T14:56:58Z","pid":"7953874856","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Gold, Jewelry, Silver — title does not","data":{"med":44,"ratio":0.44,"mismatch":["Gold","Jewelry","Silver"]}}
 {"ts":"2026-10-14T14:57:05Z","pid":"7974145488","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:57:14Z","pid":"7928594635","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:57:20Z","pid":"7982128455","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:57:27Z","pid":"7939275474","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:57:33Z","pid":"7950744132","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:57:40Z","pid":"7952864045","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:57:46Z","pid":"7942879580","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:57:56Z","pid":"7943948657","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Lefton — title does not","data":{"med":30,"ratio":2,"mismatch":["Lefton"]}}
+{"ts":"2026-10-14T14:58:04Z","pid":"7959096771","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:58:10Z","pid":"7952656406","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:58:18Z","pid":"7959142017","stage":"flagged","run":"lensworker-20261014-1426","note":"Lens names Bulova, Gold, Gucci — title does not","data":{"med":125,"ratio":0.31,"mismatch":["Bulova","Gold","Gucci"]}}
+{"ts":"2026-10-14T14:58:25Z","pid":"7973503992","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:58:31Z","pid":"7939275453","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:58:38Z","pid":"7977571287","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:58:45Z","pid":"7953927839","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:58:52Z","pid":"7931779663","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:58:58Z","pid":"7947383818","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:59:04Z","pid":"7938275874","stage":"lensed","run":"lensworker-20261014-1426","note":null,"data":{"med":48,"ratio":0.48,"mismatch":[]}}
+{"ts":"2026-10-14T14:59:12Z","pid":"7953796274","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T14:59:19Z","pid":"7983288708","stage":"queued","status":"relens","run":"lensworker-20261014-1426","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:01:25Z","pid":"7977853386","stage":"queued","status":"relens","run":"lensworker-20261014-1457","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:01:32Z","pid":"7971212679","stage":"queued","status":"relens","run":"lensworker-20261014-1457","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:01:39Z","pid":"7975033974","stage":"flagged","run":"lensworker-20261014-1457","note":"Lens names Goebel — title does not","data":{"med":100,"ratio":0.67,"mismatch":["Goebel"]}}
+{"ts":"2026-10-14T15:01:46Z","pid":"7965720639","stage":"queued","status":"relens","run":"lensworker-20261014-1457","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:01:56Z","pid":"7950123036","stage":"flagged","run":"lensworker-20261014-1457","note":"Lens names Gold, Special, Waltham — title does not","data":{"med":450,"ratio":2.25,"mismatch":["Gold","Special","Waltham"]}}
+{"ts":"2026-10-14T15:02:02Z","pid":"7947941302","stage":"flagged","run":"lensworker-20261014-1457","note":"Lens names Silver — title does not","data":{"med":60,"ratio":1.33,"mismatch":["Silver"]}}

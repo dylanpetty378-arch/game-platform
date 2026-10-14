@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T14:57:29Z",
+ "updated": "2026-10-14T15:02:26Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8474,
-  "events": 31288,
+  "lens": 8499,
+  "events": 31313,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 341,
+  "queued/relens": 360,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 778,
-  "flagged": 464,
-  "lensed": 167
+  "queued": 753,
+  "flagged": 469,
+  "lensed": 168
  },
  "last_harvests": [
   {
@@ -2378,6 +2378,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950123036",
+   "title": "Pocket Watch",
+   "price": 200,
+   "area": "sd",
+   "url": "https://www.craigslist.org/view/d/sioux-falls-pocket-watch/fX7DCMRwbsGDjr6hH7smrh",
+   "best": "eBay",
+   "med": 450,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135315",
    "title": "NEW 14K Gold Ruby and Diamond Ring",
    "price": 190,
@@ -2627,6 +2638,17 @@
    "url": "https://www.craigslist.org/view/d/prescott-valley-islanders-ukulele/ouaTwxSvPXjC6Q7rbS7LSG",
    "best": "Ibanez UKS100 Soprano Ukulele - Open Pore Natural | eBay",
    "med": 130,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943948657",
+   "title": "Vintage Christmas Carolers",
+   "price": 15,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-vintage-christmas-carolers/jF6BwP4GAF6zf4rSr5Uoy6",
+   "best": "eBay",
+   "med": 30,
    "ratio": 2,
    "ai_value": ""
   },
@@ -3584,6 +3606,17 @@
    "url": "https://www.craigslist.org/view/d/howell-germany-cuckoo-clock-vintage/jnDtxNiRKymbLaB63YsqAU",
    "best": "Pinterest",
    "med": 100,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947941302",
+   "title": "Scottish Luckenbooth pendants",
+   "price": 45,
+   "area": "staugustine",
+   "url": "https://www.craigslist.org/view/d/jacksonville-scottish-luckenbooth/mvsA9QHpHqsSs4heNxYyzx",
+   "best": "eBay",
+   "med": 60,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -4710,6 +4743,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975033974",
+   "title": "Collection of Hummels",
+   "price": 150,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/dickson-collection-of-hummels/fF16LbNBRuByzByDMvVnkX",
+   "best": "Lot of 9 Goebel Hummel Figurines Hummelscapes Happy ...",
+   "med": 100,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7950732303",
    "title": "Sterling Silver Pearl Necklace",
    "price": 70,
@@ -5202,6 +5246,17 @@
    "best": "Mecum On Time - Mecum Auctions",
    "med": 115,
    "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959142017",
+   "title": "Caravelle vintage watch just repaired good",
+   "price": 400,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/indianapolis-caravelle-vintage-watch/31u6WcyemTVk6Dg44fpiLZ",
+   "best": "VINTAGE RARE JEROME PIQUOT 41 JEWELS GENT'S WRIST WATCH ...",
+   "med": 125,
+   "ratio": 0.31,
    "ai_value": ""
   },
   {
