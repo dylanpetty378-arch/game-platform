@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-14T00:02:07Z",
+ "updated": "2026-10-14T00:07:27Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7474,
-  "events": 26895,
+  "lens": 7499,
+  "events": 26920,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 480,
+  "lensed": 485,
   "comps/pass": 1,
-  "queued/relens": 383,
+  "queued/relens": 393,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 784,
+  "flagged": 794,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 179
+  "queued": 154
  },
  "last_harvests": [
   {
@@ -445,6 +445,17 @@
    "best": "Alfred Meakin Saucers - Etsy Canada",
    "med": 4331,
    "ratio": 866.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953540320",
+   "title": "old model ship. In poor shape",
+   "price": 50,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/placentia-old-model-ship-in-poor-shape/2kG5f5wfPda9JieoXPGbxg",
+   "best": "Nineteenth Century Ship Model in Original Paint \u2013 Lannan Gallery",
+   "med": 12500,
+   "ratio": 250,
    "ai_value": ""
   },
   {
@@ -1006,6 +1017,17 @@
    "best": "Vintage Elgin Mens Watch 33mm Gold Tone 17 Jewels NOT ...",
    "med": 105,
    "ratio": 21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931143431",
+   "title": "Vintage Beverage Tray",
+   "price": 1,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/wellfleet-vintage-beverage-tray/cVtfHvmh8MC4AfZ1i3mPcv",
+   "best": "Vintage 70's The Warm & Wonderful Beverage Company Tin ...",
+   "med": 20,
+   "ratio": 20,
    "ai_value": ""
   },
   {
@@ -1944,6 +1966,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949677514",
+   "title": "Vintage large industrial clock postal telegraph",
+   "price": 99,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/la-mesa-vintage-large-industrial-clock/vxvumApJC2tpRXCZxSDG4c",
+   "best": "Postal Telegraph Clock - 2 For Sale on 1stDibs | postal clock",
+   "med": 750,
+   "ratio": 7.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7980320721",
    "title": "Drum Stuff",
    "price": 30,
@@ -2535,6 +2568,17 @@
    "best": "Gibson SG Standard Bass 2011 - Faded Satin | Reverb Portugal",
    "med": 1575,
    "ratio": 5.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930652123",
+   "title": "Yellow Gold Tone Classic Collar Necklace, 18.5\"L",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-yellow-gold-tone-classic-collar/3P5xUFwXFFc8JGbG1nmzFz",
+   "best": "Vintage Sterling Silver Collar Choker Necklace - Etsy",
+   "med": 166,
+   "ratio": 5.72,
    "ai_value": ""
   },
   {
@@ -3293,6 +3337,17 @@
    "url": "https://www.craigslist.org/view/d/new-berlin-vintage-pabst-beer-coasters/jsvcXv6SZocEpeE112YMaX",
    "best": "VINTAGE PABST BLUE RIBBON BEER COASTER LOT OF 6 | eBay",
    "med": 76,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943895342",
+   "title": "Antique Jewelry Box",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-antique-jewelry-box/qTA3GiEMiczCDXkU2mao7U",
+   "best": "Vintage Carom Golf Board. For $100 In Long Beach, CA | For ...",
+   "med": 95,
    "ratio": 3.8,
    "ai_value": ""
   },
@@ -5376,6 +5431,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952048951",
+   "title": "Necklace with glass beads accents",
+   "price": 18,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-necklace-with-glass-beads/6rGbve1uP1NSsb3MGUEBqt",
+   "best": "Gold Tone Convertible Necklace Glass Tiger Eye Beads EUC 18 ...",
+   "med": 35,
+   "ratio": 1.94,
+   "ai_value": ""
+  },
+  {
    "pid": "7965867258",
    "title": "1911 Elgin pocket watch",
    "price": 275,
@@ -6190,6 +6256,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952138719",
+   "title": "Vintage Carlos Marchiori Signed Rooster Print",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-carlos-marchiori-signed/tiuCgfNgaxrEAEoFNARiY4",
+   "best": "Vintage Carlos Marchiori Signed Rooster Print - Posters ...",
+   "med": 118,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7963353672",
    "title": "HULL VINTAGE POTTERY SET",
    "price": 100,
@@ -6604,6 +6681,17 @@
    "url": "https://www.craigslist.org/view/d/carrboro-vintage-stoneware-zebra/d2Z53uzZsB1FJq5bb6RhJj",
    "best": "Stoneware Pottery Jug Pitcher Gray Blue Print Zebra Prestige ...",
    "med": 25,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955743436",
+   "title": "Elephant Statue",
+   "price": 60,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/huntington-elephant-statue/vG8ECqQioeVEqASPnc9Pdb",
+   "best": "Lenox Carousel ELEPHANT HORSE 8\" BY 8\" | eBay",
+   "med": 75,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -8665,6 +8753,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982918517",
+   "title": "Vintage Doll Collection",
+   "price": 100,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-doll-collection/wd8UtRFZaLYfUfadBVVnMz",
+   "best": "Elegant Vintage ~ Oklahoma 15\" Doll ~ Boutique Doll Corp ...",
+   "med": 19,
+   "ratio": 0.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7963321269",
    "title": "Vintage Pandora Bracelet",
    "price": 75,
@@ -9012,6 +9111,17 @@
    "area": "pittsburgh",
    "url": "https://www.craigslist.org/view/d/pittsburgh-vintage-cutco-rosewood-1882/9TfbK5MYiug5WSix4DSuWZ",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928998350",
+   "title": "Vintage Kingston Guitar",
+   "price": 75,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/mequon-vintage-kingston-guitar/b6HPvGF8aTWa734FV5tCZ2",
+   "best": "Guitars & Basses for sale in West Bend, Wisconsin | Facebook ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

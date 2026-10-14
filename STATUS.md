@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T00:02:07Z
+# Refurbish status — 2026-10-14T00:07:27Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 784 |
-| lensed | 480 |
-| queued/relens | 383 |
-| queued | 179 |
+| flagged | 794 |
+| lensed | 485 |
+| queued/relens | 393 |
+| queued | 154 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 11 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7474
-- events: 26895
+- lens: 7499
+- events: 26920
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (784)
+## Flagged by Lens, waiting for photo review (794)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -121,6 +121,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01111_d3yYNCW13SR_0Mo12w_300x300.jpg" width="120"> | 7931421119 | $10 | fresno | [Vintage 1970s Lotus Skateboard Deck](https://www.craigslist.org/view/d/fresno-vintage-1970s-lotus-skateboard/4tEs1puhawgbZ3ce84izyq) | Craigslist | 13495 | 1349.5 |
 | <img src="https://images.craigslist.org/00i0i_axxUnt34qoy_0qR0t2_300x300.jpg" width="120"> | 7944953395 | $5 | stlouis | [JEWELRY RINGS](https://www.craigslist.org/view/d/florissant-jewelry-rings/hozLEQTagq95jeTqqSUKZC) | Vintage 1940's 10k Yellow Gold Green Rectangular Stone Ring  | 6000 | 1200 |
 | <img src="https://images.craigslist.org/00b0b_Yq7uvPRGCW_0g80c6_300x300.jpg" width="120"> | 7957538813 | $5 | chicago | [Vintage 6 3/8" Ceramic Saucer, Japan](https://www.craigslist.org/view/d/shorewood-vintage-ceramic-saucer-japan/iv3KW6yZP7vvHXoU5Bf6yA) | Alfred Meakin Saucers - Etsy Canada | 4331 | 866.2 |
+| <img src="https://images.craigslist.org/00505_65I3klcZT2n_0lN0CI_300x300.jpg" width="120"> | 7953540320 | $50 | orangecounty | [old model ship. In poor shape](https://www.craigslist.org/view/d/placentia-old-model-ship-in-poor-shape/2kG5f5wfPda9JieoXPGbxg) | Nineteenth Century Ship Model in Original Paint – Lannan Gal | 12500 | 250 |
 | <img src="https://images.craigslist.org/00606_36MCgWbQ4c8_0ti132_300x300.jpg" width="120"> | 7936161441 | $1 | medford | [Antique Old Noritake Large Vase](https://www.craigslist.org/view/d/gold-hill-antique-old-noritake-large/4EUwipRbu2xyFdxAaP1SsX) | BEAUTIFUL HAND PAINTED NIPPON EARLY 20TH CENTURY FLORAL HIGH | 240 | 240 |
 | <img src="https://images.craigslist.org/00N0N_17He5NO0atU_0t20CI_300x300.jpg" width="120"> | 7956898073 | $1 | tucson | [Rings](https://www.craigslist.org/view/d/tucson-rings/c8LeL4QjmTWt6nwYiwVAz5) | Navajo Ring 925 Silver Natural Blue Turquoise Artist Signed  | 225 | 225 |
 | <img src="https://images.craigslist.org/00C0C_bWv5LVLU3tF_0dp0t2_300x300.jpg" width="120"> | 7957667393 | $26 | visalia | [Lots of different stuff](https://www.craigslist.org/view/d/salinas-lots-of-different-stuff/kPnMXv2sJYehvrX5DdBTeC) | Antique 20th Century Washstand In Oak in Antique Wash Stands | 5740 | 220.77 |
@@ -172,6 +173,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00202_a9G5YOVxeFK_0t20CI_300x300.jpg" width="120"> | 7954059724 | $175 | miami | [Antique Moonstone Tennis Bracelet .925 Sterling](https://www.craigslist.org/view/d/fort-lauderdale-antique-moonstone/nKBz6W6Py8cUUunFt7j5Bs) | BBJ 925 Sterling Silver Mother of Pearl Bracelet - 8-1/2 ... | 3695 | 21.11 |
 | <img src="https://images.craigslist.org/00d0d_4MfmxnoiHQR_0Mo12w_300x300.jpg" width="120"> | 7933717352 | $20 | fresno | [Antique Copper Vase Vintage Brass Urn](https://www.craigslist.org/view/d/fresno-antique-copper-vase-vintage/itp4nNSdDQjbXV9tEKiLeK) | Motifs: Relief-carved dragon and mask/mythical animal design | 421 | 21.05 |
 | <img src="https://images.craigslist.org/00g0g_cVyYS7HkBLT_0lN0CI_300x300.jpg" width="120"> | 7944107723 | $5 | minneapolis | [Wristwatch, Elgin, c 1980, Quartz Men's Wristwatch](https://www.craigslist.org/view/d/mound-wristwatch-elgin-1980-quartz-mens/rk5o35Ww835ihddKSVBVQc) | Vintage Elgin Mens Watch 33mm Gold Tone 17 Jewels NOT ... | 105 | 21 |
+| <img src="https://images.craigslist.org/00y0y_eCcNnTQRhKQ_0CI0t2_300x300.jpg" width="120"> | 7931143431 | $1 | capecod | [Vintage Beverage Tray](https://www.craigslist.org/view/d/wellfleet-vintage-beverage-tray/cVtfHvmh8MC4AfZ1i3mPcv) | Vintage 70's The Warm & Wonderful Beverage Company Tin ... | 20 | 20 |
 | <img src="https://images.craigslist.org/00i0i_kMosrxMNORL_0CI0pQ_300x300.jpg" width="120"> | 7953360770 | $35 | lancaster | [2 Pottery Bowls from Morocco](https://www.craigslist.org/view/d/lancaster-pottery-bowls-from-morocco/eFTkq24usPoC42D7tAvDpZ) | North African School, 19th Century / GRAND TOBSIL (ca. 1860  | 695 | 19.86 |
 | <img src="https://images.craigslist.org/00j0j_gCsLu0nHrQa_0lM0t2_300x300.jpg" width="120"> | 7958028950 | $75 | reading | [VINTAGE FLOOR  TOM DRUM](https://www.craigslist.org/view/d/reading-vintage-floor-tom-drum/iQ5HgkYpg9Y2tFcjVhZcm6) | Drugan's Drums & Guitars | 1476 | 19.68 |
 | <img src="https://images.craigslist.org/00e0e_aubgXzLJYxy_0t20CI_300x300.jpg" width="120"> | 7951818601 | $20 | oklahomacity | [Antique Fork](https://www.craigslist.org/view/d/wichita-antique-fork/p16Z6C3wPvGs2zVbHRP5VN) | Classicist Silver Roast Fork, France, 1880s for sale at Pamo | 346 | 17.3 |
@@ -234,5 +236,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00g0g_jA0bL35isMx_07K0ak_300x300.jpg" width="120"> | 7979723589 | $30 | newyork | [Antique Vintage Wood & Brass Bed Warmer](https://www.craigslist.org/view/d/brooklyn-antique-vintage-wood-brass-bed/rbfd98n9vN31B7vtyPxbZ4) | Vintage Bed Warmer / eBay | 288 | 9.6 |
 | <img src="https://images.craigslist.org/00303_eEdYF5AOlon_0CI0t2_300x300.jpg" width="120"> | 7967367567 | $40 | chicago | [VINTAGE COSTUME BRACELET AND EAR RINGS](https://www.craigslist.org/view/d/la-grange-park-vintage-costume-bracelet/9xkEU9WunPPKZEpZVdo8jY) | Vintage Kramer of New York Rhinestone Bangle Bracelet and .. | 370 | 9.25 |
 | <img src="https://images.craigslist.org/00808_ixOVnBna7n_0MM132_300x300.jpg" width="120"> | 7970415882 | $25 | portland | [ONIDA Silver Platter](https://www.craigslist.org/view/d/west-linn-onida-silver-platter/jscGjdJn5X6knwSVU6Zw1y) | Towle Huge 17” Silverplated Serving Tray Vintage Incredible  | 225 | 9 |
-| <img src="https://images.craigslist.org/00g0g_4UC0qed7513_0lM0t2_300x300.jpg" width="120"> | 7952517572 | $30 | portland | [Sterling Silver Kokopelli Broach](https://www.craigslist.org/view/d/portland-sterling-silver-kokopelli/kFsXpFK6BsRDRdXBUnG9SE) | NATIVE AMERICAN Sterling Silver Onyx KOKOPELLI ... | 264 | 8.8 |
-| <img src="https://images.craigslist.org/00404_chmAOlSBRVa_04A0c6_300x300.jpg" width="120"> | 7950790524 | $65 | prescott | [vintage 16" FOOTED red green ONYX VASE](https://www.craigslist.org/view/d/prescott-vintage-16-footed-red-green/moSVKJeQcwakC4b3tkn99Y) | Vintage Onyx Marble Vase 7 3/4” Green and Brown Mantel ... | 570 | 8.77 |
