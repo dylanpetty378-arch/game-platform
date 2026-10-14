@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:19:06Z",
+ "updated": "2026-10-14T22:22:59Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9599,
-  "events": 33215,
+  "lens": 9624,
+  "events": 33240,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 453,
-  "flagged": 1202,
-  "lensed": 415
+  "queued": 428,
+  "flagged": 1218,
+  "lensed": 424
  },
  "last_harvests": [
   {
@@ -3193,6 +3193,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951672331",
+   "title": "Vintage Set of 6 leather Coaster",
+   "price": 18,
+   "area": "palmsprings",
+   "url": "https://www.craigslist.org/view/d/yucca-valley-vintage-set-of-leather/jgVGbPienMZozb86NswK5k",
+   "best": "eBay",
+   "med": 110,
+   "ratio": 6.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7952660752",
    "title": "Vintage 3d postcards lot of 17",
    "price": 10,
@@ -4260,6 +4271,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956206019",
+   "title": "VINTAGE GERMAN WEDDING CUP",
+   "price": 86,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/monaca-vintage-german-wedding-cup/4fmQc71HYxJ89HLnjwkD9k",
+   "best": "20TH CENTURY ANTIQUE WEDDING CUP SILVER PLATED AND GOLD ...",
+   "med": 350,
+   "ratio": 4.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7965506973",
    "title": "Vintage Asian Woman figurine, excellent condition",
    "price": 49,
@@ -4777,6 +4799,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931029598",
+   "title": "\ud83d\udc8d Antique White Gold & DIAMOND RING\ud83d\udc8d",
+   "price": 199,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-antique-white-gold-diamond-ring/qp7HojD1c9yyx1kJAVoCkt",
+   "best": "Art Deco Diamond Starburst Camphor Glass Ring in 10K White ...",
+   "med": 695,
+   "ratio": 3.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7952720401",
    "title": "Jewelry- Necklaces",
    "price": 15,
@@ -4861,6 +4894,17 @@
    "url": "https://www.craigslist.org/view/d/bel-air-925-sterling-silver-ring-size/pqdhyLHuqFbKjPW6oteGzv",
    "best": "Beautiful Faceted Amethyst and Crystal Vintage Ring - Etsy",
    "med": 100,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945714992",
+   "title": "10K womens gold spring ring",
+   "price": 260,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buda-10k-womens-gold-spring-ring/vfWMoM999pACsTKwZdKRFt",
+   "best": "Dainty Ruby Ring: Gold Alloy July Birthstone Jewelry - Etsy",
+   "med": 865,
    "ratio": 3.33,
    "ai_value": ""
   },
@@ -5921,6 +5965,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7937379746",
+   "title": "Vintage 1968 Childcraft Rubber Hand Puppet Policeman",
+   "price": 40,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/lincoln-vintage-1968-childcraft-rubber/pC4hFUhArCzxonChxUzgJC",
+   "best": "Rare VINTAGE 1968 POLICE OFFICER RUBBER HAND Childcraft ...",
+   "med": 100,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959059388",
+   "title": "Gold and silver watch",
+   "price": 20,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/mentor-gold-and-silver-watch/sjD2tJBtNjeBuijak6CiK2",
+   "best": "Berenger rectangular stainless steel - Gem",
+   "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951810082",
    "title": "Antique 800 Silver FG part of pocket watch",
    "price": 95,
@@ -6280,6 +6346,17 @@
    "url": "https://www.craigslist.org/view/d/minneapolis-vintage-vases/dx6zfxKBWgqJ7cABZANNGR",
    "best": "eBay",
    "med": 23,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930338534",
+   "title": "Kenneth Freeman Signed Serigraph",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-kenneth-freeman-signed/afnKU1mWMYAsrsYCAs9eCZ",
+   "best": "Indian Bride Ken Freeman Hand Embellished Serigraph ...",
+   "med": 576,
    "ratio": 2.3,
    "ai_value": ""
   },
@@ -8385,12 +8462,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7952666677",
+   "title": "Vintage handmade bedroom set lot 7",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-vintage-handmade-bedroom-set-lot/pMfhX8rQsyTU3sdc6FTWNL",
+   "best": "Vintage 6pc Dollhouse Furniture Lot Wood Floral Couch ...",
+   "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
    "area": "memphis",
    "url": "https://www.craigslist.org/view/d/byhalia-native-american/dQzDzNPK1Z9rMGvsMAu7ow",
    "best": "Hand-carved Viking Ouroboros Amulet \u2013 Norse Dragon Necklace ...",
+   "med": 149,
+   "ratio": 1.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934811432",
+   "title": "Crystal costume jewelry pieces , Diamonds",
+   "price": 100,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-crystal-costume-jewelry-pieces/6wHNcfZUt9GUbekqjFbLeH",
+   "best": "Discover 97 Otis Company In RI, 1943-1970 and brooch pin ...",
    "med": 149,
    "ratio": 1.49,
    "ai_value": ""
@@ -8935,6 +9034,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955753561",
+   "title": "VTG Tiny Sterling Silver \u201cSugar\u201d Spoon",
+   "price": 30,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vtg-tiny-sterling-silver-sugar/toVnnQEK8pXdZtnpRZkat8",
+   "best": "2 Vintage Sterling Silver 925 Ball Scoop Salt Spoons | eBay",
+   "med": 40,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -9210,6 +9320,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954299541",
+   "title": "Vintage Neuvex Multi-Year 17 Jewel Swiss Calendar Watch",
+   "price": 100,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medway-vintage-neuvex-multi-year-17/vUx5W1mygkJgfqXYxfpQh4",
+   "best": "Raketa Full set - 21/03/1989 - Gioielleria Fasoli for $333 ...",
+   "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -9430,6 +9551,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953986922",
+   "title": "Cross pendant",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/morgan-hill-cross-pendant/bBY6gFucdUM52k9oD2EvxN",
+   "best": "Faceted Garnet Cross Pendant: Handmade Sterling Silver ...",
+   "med": 47,
+   "ratio": 1.18,
+   "ai_value": ""
+  },
+  {
    "pid": "7956250971",
    "title": "ETAH Love The Emperor ring",
    "price": 60,
@@ -9595,6 +9727,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936298984",
+   "title": "Catholic Rosary, Vintage",
+   "price": 40,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-catholic-rosary-vintage/4CwNHLufu7tUWzCCt7bfJQ",
+   "best": "Antique Sterling Silver Religious Catholic Faceted Crystal ...",
+   "med": 45,
+   "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7944252343",
    "title": "Vintage Pottery Dashboard or Commuter \u201cNo-Spill\u201d Mug",
    "price": 25,
@@ -9646,6 +9789,17 @@
    "url": "https://www.craigslist.org/view/d/nashua-vintage-1960s-tammy-doll-clothes/7huun9Zm8DaEGLYaiNCM82",
    "best": "Vintage Tammy 1960s Doll Ideal Toy Company - Etsy",
    "med": 50,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980186750",
+   "title": "New 10K Gold Unicorn Pendant With Necklace",
+   "price": 225,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-new-10k-gold-unicorn-pendant/tswXMvyao1nCRSA1C6VEDD",
+   "best": "Taiwan American Avon brand antique small unicorn set with ...",
+   "med": 249,
    "ratio": 1.11,
    "ai_value": ""
   },
@@ -11751,6 +11905,17 @@
    "ai_value": "Soldier figures | eBay In stock $30"
   },
   {
+   "pid": "7965616881",
+   "title": "New Little Girl\u2019s Jewelry Set",
+   "price": 20,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/monterey-new-little-girls-jewelry-set/wiJTTryuReVUcX4VQ8E4PK",
+   "best": "5Pcs Luxury Heart Shape Jewelry Sets Of Necklace Ring ...",
+   "med": 11,
+   "ratio": 0.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7948558885",
    "title": "Set of 2 Porcelain Angel Figurine, New",
    "price": 35,
@@ -12924,6 +13089,17 @@
    "url": "https://www.craigslist.org/view/d/alexandria-ann-delorge-jazz-watercolor/rsMVE6mfNsdbaDj8RwRmbT",
    "best": "ANN DELORGE \"PRESERVE THAT JAZZ\" LIMITED SIGNED LITHOGRAPH ...",
    "med": 38,
+   "ratio": 0.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966548222",
+   "title": "Cortebert wrist watch",
+   "price": 450,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-cortebert-wrist-watch/eMhpruw87tbbfWN9jzwxs9",
+   "best": "Kama ChChZ mechanical 17j Soviet Era 50s vintage mens watch ...",
+   "med": 68,
    "ratio": 0.15,
    "ai_value": ""
   },
