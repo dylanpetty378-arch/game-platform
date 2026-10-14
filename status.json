@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:39:44Z",
+ "updated": "2026-10-14T22:43:49Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9724,
-  "events": 33340,
+  "lens": 9749,
+  "events": 33365,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 482,
+  "queued/relens": 484,
   "decided/ask": 85,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 328,
-  "flagged": 1304,
-  "lensed": 435
+  "queued": 303,
+  "flagged": 1323,
+  "lensed": 439
  },
  "last_harvests": [
   {
@@ -561,6 +561,17 @@
    "best": "Used Morgan Monroe OB-150 Natural Banjo Natural | Guitar Center",
    "med": 5000,
    "ratio": 357.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976437500",
+   "title": "Vintage Phoenix Ware",
+   "price": 1,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/pottstown-vintage-phoenix-ware/3Yk6G2yvPch5HBRV3htW5x",
+   "best": "Noritake Nippon Tea Set Blue White \u2013 Japanese Porcelain Set ...",
+   "med": 353,
+   "ratio": 353,
    "ai_value": ""
   },
   {
@@ -2060,6 +2071,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971725355",
+   "title": "Vintage Tribal Pendants (Your Choice out of Two)",
+   "price": 25,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-tribal-pendants-your/bVreYsCkYCKeqxRx9tjYJr",
+   "best": "Middle Eastern Silver Kuchi Glass Pendant | eBay",
+   "med": 350,
+   "ratio": 14,
+   "ai_value": ""
+  },
+  {
    "pid": "7931311842",
    "title": "Vintage.925/Gold Vermeil Amethyst and diamond cocktail ring",
    "price": 50,
@@ -2672,6 +2694,17 @@
    "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-dainty-d-rose/6VSRadDqqvaxUqr11QeHhz",
    "best": "Etsy",
    "med": 90,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953821633",
+   "title": "Lovely Roses Pendant with Chain",
+   "price": 5,
+   "area": "winstonsalem",
+   "url": "https://www.craigslist.org/view/d/walnut-cove-lovely-roses-pendant-with/cqVmi7amtMP1XCNa3wfjkV",
+   "best": "MEMORIES Pink Roses Silver Necklace - Etsy",
+   "med": 45,
    "ratio": 9,
    "ai_value": ""
   },
@@ -3974,6 +4007,17 @@
    "ai_value": "values ranging from $30 to $100"
   },
   {
+   "pid": "7935116467",
+   "title": "Vintage Swank ducks in flight tie clip",
+   "price": 15,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-vintage-swank-ducks-in-flight/tafYy3WgEfA8CWGo9Htvhj",
+   "best": "Poshmark",
+   "med": 75,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -5250,6 +5294,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953807797",
+   "title": "Beautiful vintage handcrafted bone accessories lot 6",
+   "price": 10,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-beautiful-vintage-handcrafted/eUZRu8R9z6w8KXZHshpXSe",
+   "best": "Craigslist",
+   "med": 33,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7944219985",
    "title": "Vintage Sterling Silver Amethyst & Marcasite CPI Earrings",
    "price": 40,
@@ -5279,6 +5334,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-pyrope/7BD4vKswLvfhxDwQkNBXG7",
    "best": "Vintage Sterling Silver Black Onyx Drop Dangle Shepherds ...",
    "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945267414",
+   "title": "Antique Gorham Sterling Silver Nut Spoon",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-antique-gorham-sterling/eXV6Ja1KbwC4ejn86RcBAi",
+   "best": "Strasbourg by Gorham Sterling Silver Bon Bon, Nut or Candy ...",
+   "med": 130,
    "ratio": 3.25,
    "ai_value": ""
   },
@@ -5653,6 +5719,17 @@
    "url": "https://www.craigslist.org/view/d/las-vegas-vintage-sterling-silver-lord/mG4mGpxrKrN5gAhrk1XwVM",
    "best": "Etsy",
    "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948976464",
+   "title": "Art Pieces, framed (10)",
+   "price": 25,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/seminole-art-pieces-framed-10/6pdqrPFXHGNxW7g8bLa3Aq",
+   "best": "VENICE ITALY PAINTING, Folk Art, Framed Art, Original ...",
+   "med": 75,
    "ratio": 3,
    "ai_value": ""
   },
@@ -6669,6 +6746,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973745249",
+   "title": "14K Gold Plated Vintage Men Watch with 3 Real Diamond.",
+   "price": 250,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/north-hollywood-14k-gold-plated-vintage/eiE73PPPJJbveFWGhufDps",
+   "best": "Craigslist",
+   "med": 580,
+   "ratio": 2.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7942418674",
    "title": "Men\u2019s Rings - Set of 5",
    "price": 45,
@@ -7175,6 +7263,17 @@
    "ai_value": "sell anywhere from $35"
   },
   {
+   "pid": "7943881223",
+   "title": "7\" Double Link Chain Bracelet Gold Tone",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-double-link-chain-bracelet-gold/qJaMozEr6Xc2CoRE9yj3Cr",
+   "best": "eBay",
+   "med": 31,
+   "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7953044364",
    "title": "14K Yellow Gold Diamond Band Ring",
    "price": 300,
@@ -7666,6 +7765,17 @@
    "url": "https://www.craigslist.org/view/d/franklin-vintage-wooden-duck-decoy/2pRFATxRRNud2i547JfTR9",
    "best": "eBay",
    "med": 57,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937955825",
+   "title": "Bracelet",
+   "price": 79,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/grandview-bracelet/mNBqMJCTazLYqiJS7PStHC",
+   "best": "Craigslist",
+   "med": 150,
    "ratio": 1.9,
    "ai_value": ""
   },
@@ -8172,6 +8282,17 @@
    "url": "https://www.craigslist.org/view/d/ballwin-925-sterling-silver-unisex-165/iNyoEy5mLqgN73qMSFVof9",
    "best": "eBay",
    "med": 83,
+   "ratio": 1.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945960992",
+   "title": "Vintage 2003 Mr. Potato head Hallmark ornament",
+   "price": 13,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-2003-mr-potato-head/4wZkWhZ3zCfb7gAgtGVHkk",
+   "best": "eBay",
+   "med": 22,
    "ratio": 1.69,
    "ai_value": ""
   },
@@ -9617,6 +9738,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950722135",
+   "title": "Vintage Enesco Old Gentleman Artist Figurine",
+   "price": 15,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-enesco-old-gentleman/ufua6Ju6uHSYNPRscXLru3",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -10090,6 +10222,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952447041",
+   "title": "Necklaces",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-necklaces/fsdhA2vS8ZiwRfqUJYRU2y",
+   "best": "Poshmark",
+   "med": 18,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -10526,6 +10669,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-vintage-nyc-skyline-piece-bw/4rp8zebNmU8BLUYfPTPzUE",
    "best": "SendAFrame.com",
    "med": 65,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945743440",
+   "title": "A. LINCOLN BRONZE BUST",
+   "price": 150,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/elmhurst-lincoln-bronze-bust/beYFULY16WwPkonifCt15d",
+   "best": "Lot - AFTER LEONARD W. VOLK, AMERICAN 1828-1895, BUST OF ...",
+   "med": 162,
    "ratio": 1.08,
    "ai_value": ""
   },
@@ -11047,6 +11201,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7933157931",
+   "title": "Lot of 4 Royal Doulton Large Character Mugs Cups Steins",
+   "price": 60,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/palatine-lot-of-royal-doulton-large/uiPU7d9tXc1vK6TV3uaCSv",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951450466",
+   "title": "Flower Brooch \"WaterLily\"",
+   "price": 25,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-flower-brooch-waterlily/muqZgL7D1LHAm3aLJxrebT",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -11252,6 +11428,17 @@
    "url": "https://www.craigslist.org/view/d/portland-swarovski-heart-necklace/wiWfwPQYdLD1Nw8xfiQAh5",
    "best": "Etsy",
    "med": 65,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953212839",
+   "title": "Vintage canteen",
+   "price": 30,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-canteen/aLaVWXCjymEYjZdCpuCGKv",
+   "best": "eBay",
+   "med": 28,
    "ratio": 0.93,
    "ai_value": ""
   },
@@ -11813,6 +12000,17 @@
    "url": "https://www.craigslist.org/view/d/pineville-15-vintage-rabbit-figurines/x6AkVPuV7HGTKwkk2kNhJC",
    "best": "My Blushing Bunnies \u201cAn Abundance of Blessings\u201d Enesco ...",
    "med": 24,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952577655",
+   "title": "Fossil Rose Gold Watch",
+   "price": 50,
+   "area": "elpaso",
+   "url": "https://www.craigslist.org/view/d/el-paso-fossil-rose-gold-watch/9xwsJiC1kE9Js1NrKLyhZ3",
+   "best": "eBay",
+   "med": 40,
    "ratio": 0.8,
    "ai_value": ""
   },
@@ -14223,6 +14421,17 @@
    "best": "Crucifix Cross Faith Religious Pendant Necklace Jewelry 18k ...",
    "med": 4,
    "ratio": 0.02,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954968709",
+   "title": "Vintage Art Deco Style HAMILTON Wristwatch with MASONIC Dial",
+   "price": 150,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-vintage-art-deco-style/8RSb1S6JLn4a97d9Bp4np3",
+   "best": "Auctions",
+   "med": 1,
+   "ratio": 0.01,
    "ai_value": ""
   },
   {
