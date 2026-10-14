@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:26:13Z",
+ "updated": "2026-10-14T07:31:18Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8274,
-  "events": 30288,
+  "lens": 8299,
+  "events": 30313,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 285,
+  "queued/relens": 303,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 178,
-  "flagged": 374,
-  "lensed": 113
+  "queued": 153,
+  "flagged": 378,
+  "lensed": 116
  },
  "last_harvests": [
   {
@@ -702,6 +702,17 @@
    "best": "Vintage Framed \"Jackrabbit\" Woodcut Edition 184 Signed by ...",
    "med": 800,
    "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949231693",
+   "title": "Sterling Silver & Turquoise Inlay Drop Earrings",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/2112LVgkqoV8Y6E8x4x1Pq",
+   "best": "Mixtec Earrings - Etsy",
+   "med": 325,
+   "ratio": 9.29,
    "ai_value": ""
   },
   {
@@ -2223,6 +2234,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979729109",
+   "title": "Navajo Kachina Inlay",
+   "price": 110,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-navajo-kachina-inlay/4YzeByjzPAAX1QyzyyjZqY",
+   "best": "What is the age and stamp on the back of this Navajo jewelry?",
+   "med": 200,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7949659551",
    "title": "Sterling Silver & Marcasite Quartz Watch 7\u201d",
    "price": 80,
@@ -2561,6 +2583,17 @@
    "best": "Invaluable.com",
    "med": 185,
    "ratio": 1.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953788503",
+   "title": "Vintage Sterling Silver & Mother of Pearl Earrings",
+   "price": 45,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-sterling-silver/qtx99khDUP43Q6m8qGrS7L",
+   "best": "Yellow Opal Tanzanite Earrings: Oxidized Sterling Silver ...",
+   "med": 69,
+   "ratio": 1.53,
    "ai_value": ""
   },
   {
@@ -3936,6 +3969,17 @@
    "best": "eBay",
    "med": 99,
    "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953788591",
+   "title": "Sterling Silver Vermeil Clear Stone Criss Cross Size 6.5 Ring",
+   "price": 45,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-vermeil/dtEREjCbaQCnBK2Gny7pHd",
+   "best": "Round Cut Diamond Crisscross Band Ring 14K White Gold 0.95 ...",
+   "med": 25,
+   "ratio": 0.56,
    "ai_value": ""
   },
   {
