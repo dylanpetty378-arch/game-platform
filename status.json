@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:09:03Z",
+ "updated": "2026-10-14T16:12:16Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8913,
-  "events": 31727,
+  "lens": 8938,
+  "events": 31752,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 438,
+  "queued/relens": 442,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 339,
-  "flagged": 720,
-  "lensed": 253
+  "queued": 314,
+  "flagged": 739,
+  "lensed": 255
  },
  "last_harvests": [
   {
@@ -475,6 +475,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975187556",
+   "title": "Goldtone Chain w/HD Pendent",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/saugus-goldtone-chain-hd-pendent/wJuqtUXBgyAN6Cyqx3cv3C",
+   "best": "Trifari Necklace 1970's Gold Link Chain Oval Onyx Black ...",
+   "med": 4500,
+   "ratio": 450,
+   "ai_value": ""
+  },
+  {
    "pid": "7937626231",
    "title": "GORGEOUS VINTAGE 14K GOLD JEWELRY & STERLING SILVER JEWELRY COLLECTION FOR SALE",
    "price": 1,
@@ -857,6 +868,17 @@
    "best": "Barbara A. Wood Original \"THE FAN\" Signed Print Lithograph ...",
    "med": 950,
    "ratio": 21.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958666490",
+   "title": "Pearl Shell VASES",
+   "price": 20,
+   "area": "lexington",
+   "url": "https://www.craigslist.org/view/d/lexington-pearl-shell-vases/wUdaXHhUmGGFpBM6nLwDbE",
+   "best": "Craigslist",
+   "med": 418,
+   "ratio": 20.9,
    "ai_value": ""
   },
   {
@@ -1256,6 +1278,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945902016",
+   "title": "14K Gold Antique / Vintage Onyx & Diamonds Ring Size 5 ~ $200",
+   "price": 200,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/osprey-14k-gold-antique-vintage-onyx/ktPa4jRWuLUh6E3jGE4yKr",
+   "best": "Craigslist",
+   "med": 2500,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952454503",
    "title": "Jewelry restoration and Mirror Polish",
    "price": 20,
@@ -1406,6 +1439,17 @@
    "url": "https://www.craigslist.org/view/d/ballwin-925-sterling-silver-gold-plated/vYCsBXwaLhjpmxcnES8PJW",
    "best": "Rigged Hoop Earring .925 Sterling Silver - BS084 | eBay",
    "med": 220,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969478151",
+   "title": "Vintage 1985 Orginal Oil Painting On Canves",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-1985-orginal-oil-painting/3Y9R86FxKPhfdLAE7q3Cfk",
+   "best": "Antonio Bachs Casteran Auction Results: Historical Sales Records",
+   "med": 250,
    "ratio": 10,
    "ai_value": ""
   },
@@ -1671,6 +1715,17 @@
    "best": "Nextdoor",
    "med": 269,
    "ratio": 7.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931217286",
+   "title": "Antique Wooden Duck Decoy",
+   "price": 40,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/south-dennis-antique-wooden-duck-decoy/qAAj32gw3iygRELvtR4fYx",
+   "best": "eBay",
+   "med": 305,
+   "ratio": 7.63,
    "ai_value": ""
   },
   {
@@ -2055,6 +2110,17 @@
    "url": "https://www.craigslist.org/view/d/denver-turquoise-sante-fe-style/tYVkz7Zwa1qVx37iMifMEB",
    "best": "Vintage Silpada DROPS OF THE OCEAN Sterling Silver Howlite ...",
    "med": 400,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942557232",
+   "title": "Swiss Army Watches",
+   "price": 15,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/port-richey-swiss-army-watches/rsb41xh7VKAZB1qpLL3Jee",
+   "best": "eBay",
+   "med": 80,
    "ratio": 5.33,
    "ai_value": ""
   },
@@ -2463,6 +2529,17 @@
    "best": "Etsy",
    "med": 125,
    "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974833544",
+   "title": "Gold ring",
+   "price": 100,
+   "area": "memphis",
+   "url": "https://www.craigslist.org/view/d/byhalia-gold-ring/bCJr9d3xjoFZ4MQANhryj5",
+   "best": "eBay",
+   "med": 415,
+   "ratio": 4.15,
    "ai_value": ""
   },
   {
@@ -3181,6 +3258,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983287970",
+   "title": "COBALT BLUE PLATTER",
+   "price": 24,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/rockford-cobalt-blue-platter/pReneN19bFpBK28zBK1Zxj",
+   "best": "eBay",
+   "med": 68,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7977186360",
    "title": "Vintage Catholic Religious Medal & Rosary Lot (4 Items) - St. Peter, Holy Family",
    "price": 10,
@@ -3330,6 +3418,17 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/fountain-valley-nwot-vintage-express/unC89JRdcdqgDaZzCb3tbA",
    "best": "Shop Women's Jewelry Online - Rings, Bracelets, Necklaces ...",
+   "med": 26,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946677538",
+   "title": "Vintage Egg Beater",
+   "price": 10,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/palmyra-vintage-egg-beater/1fxTjCLWzA5CVUCEqLCVA2",
+   "best": "eBay",
    "med": 26,
    "ratio": 2.6,
    "ai_value": ""
@@ -4446,6 +4545,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958009807",
+   "title": "Large Gold Frame",
+   "price": 100,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/benson-large-gold-frame/kSS3n4idmYWz4YQfQDWY8R",
+   "best": "Vintage LARGE PICTURE Frame Glass Cover - 29\" x 26\" | eBay",
+   "med": 175,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7950375313",
    "title": "Hammered Sterling Silver ring size 10",
    "price": 40,
@@ -4475,6 +4585,17 @@
    "url": "https://www.craigslist.org/view/d/arlington-etching-venice-canal-italy/c2iipoUwGmazw5XcEz98RA",
    "best": "Slim Aarons Single Piece Art Prints for sale | eBay",
    "med": 207,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949041711",
+   "title": "Dillards Cubic Zirconia Adjustable Bracelet *NWOT",
+   "price": 15,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-dillards-cubic-zirconia/8qFTdcKAjewyzgueSEQUeK",
+   "best": "eBay",
+   "med": 26,
    "ratio": 1.73,
    "ai_value": ""
   },
@@ -4697,6 +4818,17 @@
    "med": 80,
    "ratio": 1.6,
    "ai_value": ""
+  },
+  {
+   "pid": "7952246039",
+   "title": "Antique Uncle Sam's 3-Coin Register Bank",
+   "price": 25,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-antique-uncle-sams-coin/fZQkmFgFRYvWHs9rgLS94a",
+   "best": "Vintage Uncle Sam's 3-Coin Register Bank Western Stamping ...",
+   "med": 40,
+   "ratio": 1.6,
+   "ai_value": "Value/Price: Typically sells on the secondhand and antique market anywhere from $20 to $125"
   },
   {
    "pid": "7967793477",
@@ -5003,6 +5135,17 @@
    "url": "https://www.craigslist.org/view/d/winchester-sake-cup/1QiWn88PPUxbLXyZbDt86C",
    "best": "eismont.com",
    "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963330992",
+   "title": "Stainless steel hoop earrings",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/woodhaven-stainless-steel-hoop-earrings/eA4hb1gYv31XdJooYAhLh9",
+   "best": "Vintage Sterling Silver Hoop Earrings 3cm JB3 | eBay",
+   "med": 30,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -5431,6 +5574,17 @@
    "area": "austin",
    "url": "https://www.craigslist.org/view/d/kyle-vintage-fine-quality-bisque/u8WbCqDY4DvwHatL55eRqD",
    "best": "eBay",
+   "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973146452",
+   "title": "Vintage Container Tin Can",
+   "price": 10,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-container-tin-can/429frAHevyR6bZ83WWEZDR",
+   "best": "Etsy",
    "med": 13,
    "ratio": 1.3,
    "ai_value": ""
@@ -6591,6 +6745,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928933730",
+   "title": "Custom Vintage Artistic Piece",
+   "price": 75,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-custom-vintage-artistic-piece/pMnyC7WKCbY1QGUUgNLihd",
+   "best": "Galleria",
+   "med": 64,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7931818139",
    "title": "Vintage Anne Klein Jewelry",
    "price": 200,
@@ -6840,6 +7005,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-watch-by/8Hb9aFXPnSX8Qf4k7f4NyR",
    "best": "eBay",
    "med": 80,
+   "ratio": 0.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956162887",
+   "title": "Vintage Mid 20th Century Textured Starfish Brooch",
+   "price": 30,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-mid-20th-century/1nVQDwVMAVRVMsi2BdjC19",
+   "best": "Vintage Gold Tone Starfish Brooch Textured Ocean Sealife ...",
+   "med": 22,
    "ratio": 0.73,
    "ai_value": ""
   },
@@ -7148,6 +7324,17 @@
    "url": "https://www.craigslist.org/view/d/honolulu-silver-jewelry-misc/7SMthNZvszL8fEETDYpdHR",
    "best": "LOT OF 33 STERLING SILVER .925 SPORTS CROSS NUMBER FLOWER ...",
    "med": 15,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931813924",
+   "title": "France Four Vintage Coins 1948-1971",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-france-four-vintage-coins/7jKwiRVPPnJB1RRKf5hKfg",
+   "best": "Reverse Design: The number \"2\", the word \"FRANCS\", the year \"1948\", the motto \"LIBERTE \u2022 EGALITE \u2022 FRATERNITE\"",
+   "med": 6,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -8065,6 +8252,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949674924",
+   "title": "Huge lot of variety stone rings",
+   "price": 275,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-huge-lot-of-variety-stone-rings/wRf6hMWJoxjNTf1ND1KiAq",
+   "best": "Etsy",
+   "med": 8,
+   "ratio": 0.03,
+   "ai_value": ""
+  },
+  {
    "pid": "7946429936",
    "title": "Diamond cross",
    "price": 225,
@@ -8357,6 +8555,17 @@
    "area": "denver",
    "url": "https://www.craigslist.org/view/d/arvada-guitar/r5hEahf7ESB1cB5g8QJTyR",
    "best": "Guitar Center",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981818078",
+   "title": "'Pondering Girl' Vintage XL Art w/ Original Frame [Signed]",
+   "price": 180,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-pondering-girl-vintage-xl-art/sbPQxicP3uteFWVzNVUBPx",
+   "best": "Michael Jackson - Isabel G Art - Paintings & Prints, People ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
