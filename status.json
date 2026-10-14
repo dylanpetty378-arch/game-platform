@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:32:21Z",
+ "updated": "2026-10-14T15:37:53Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8688,
-  "events": 31502,
+  "lens": 8713,
+  "events": 31527,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 399,
+  "queued/relens": 407,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 564,
-  "flagged": 588,
-  "lensed": 199
+  "queued": 539,
+  "flagged": 600,
+  "lensed": 204
  },
  "last_harvests": [
   {
@@ -541,6 +541,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978102380",
+   "title": "BARBARA  A. WOOD",
+   "price": 44,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ventura-barbara-wood/qR1ev4uaW5QTBdvUZaPpJD",
+   "best": "Barbara Wood | BARBARA A WOOD Signed Portrait Curly Haired ...",
+   "med": 2178,
+   "ratio": 49.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7929354406",
    "title": "native art",
    "price": 100,
@@ -593,6 +604,17 @@
    "best": "Artist is 'E SENECA' - Anyone know of this artist? : r ...",
    "med": 3000,
    "ratio": 40,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974777579",
+   "title": "Gold Plated Ring w Pearl, Size 5.5",
+   "price": 15,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-gold-plated-ring-pearl-size-55/afajEHzSrQmwGCsk2kAsGT",
+   "best": "14K Solid Yellow Gold Pearl Ring \u2022 Size 7 \u2022 2.3g \u2022 Classic ...",
+   "med": 529,
+   "ratio": 35.27,
    "ai_value": ""
   },
   {
@@ -681,6 +703,17 @@
    "best": "Craigslist",
    "med": 586,
    "ratio": 23.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978092384",
+   "title": "BARBARA A. WOOD",
+   "price": 44,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/monrovia-barbara-wood/88MQojTNBmkzsqg2c3Usgy",
+   "best": "Barbara A. Wood Original \"THE FAN\" Signed Print Lithograph ...",
+   "med": 950,
+   "ratio": 21.59,
    "ai_value": ""
   },
   {
@@ -923,6 +956,17 @@
    "best": "Gem",
    "med": 677,
    "ratio": 13.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963077570",
+   "title": "Handmade Meenakari Bracelet Minakaali Bangles Brand NEW",
+   "price": 20,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/handmade-meenakari-bracelet-minakaali/54ir5eWd9xWCtALbAVDoWn",
+   "best": "Meenakari Peacock Design Gold Plated Hinged Bracelet",
+   "med": 270,
+   "ratio": 13.5,
    "ai_value": ""
   },
   {
@@ -1198,6 +1242,17 @@
    "best": "eBay",
    "med": 300,
    "ratio": 8.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960853916",
+   "title": "Bali Wooden Dance Mask",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-bali-wooden-dance-mask/kj9VNcpdr6cq23AcL8fAMr",
+   "best": "Facebook",
+   "med": 210,
+   "ratio": 8.4,
    "ai_value": ""
   },
   {
@@ -1484,6 +1539,17 @@
    "best": "eBay",
    "med": 873,
    "ratio": 5.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983262482",
+   "title": "Earrings",
+   "price": 12,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/lake-worth-earrings/9cgVnPJsdBwTE8HkFaByfg",
+   "best": "Sachin & Babi Kate Crystal Hoop Clip-on Earrings - Clear ...",
+   "med": 69,
+   "ratio": 5.75,
    "ai_value": ""
   },
   {
@@ -2433,6 +2499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953508140",
+   "title": "Vintage Pure Silver Plated Necklace and Pendent",
+   "price": 25,
+   "area": "youngstown",
+   "url": "https://www.craigslist.org/view/d/aliquippa-vintage-pure-silver-plated/ceqi4tyxEUwAQKWnBLiMnM",
+   "best": "1pc Elegant Shiny Crown Decorated Cross Copper Pendant ...",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978263843",
    "title": "Harley Davidson pocket watch",
    "price": 20,
@@ -3276,6 +3353,17 @@
    "url": "https://www.craigslist.org/view/d/indianapolis-caravelle-woman-watch/2SBtMY2VWgUABqRU3kDjdf",
    "best": "Caravelle by Bulova Women's 45L54 Two Tone Quartz Watch | eBay",
    "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952062478",
+   "title": "Vintage 1960's TAMMY DOLL w/clothes",
+   "price": 45,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/nashua-vintage-1960s-tammy-doll-clothes/hmTfpH4Nk2WBLFEQsANuKE",
+   "best": "1962~\"TAMMY DOLL\"~MINT HI-COLOR FACE~BEAUTIFUL ...",
+   "med": 90,
    "ratio": 2,
    "ai_value": ""
   },
@@ -4204,6 +4292,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963151835",
+   "title": "Vintage Saint George Pendant Iraqi Coin with Pewter Bracelet",
+   "price": 60,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/anaheim-vintage-saint-george-pendant/wnqWp5mMUuNUrMVVNJYtKb",
+   "best": "Antique Religious Large Sterling Medal. Saint Georges ...",
+   "med": 85,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7932006187",
    "title": "Sterling Silver Pyrope Garnet & Marcasite 16\u201d-18\u201d Necklace",
    "price": 85,
@@ -4710,6 +4809,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956250971",
+   "title": "ETAH Love The Emperor ring",
+   "price": 60,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/lemon-grove-etah-love-the-emperor-ring/i5GvavAJEoypk94hn73feq",
+   "best": "Size 6.75 Sterling Silver Colorful Shell Beach Band Ring ...",
+   "med": 70,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949254133",
    "title": "Vintage Suarti Sterling Silver & Cultured Pearl Cuff",
    "price": 160,
@@ -4882,6 +4992,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-vintage-hula-doll-1960s/qiAHv8mY87W4ECEHnpEuka",
    "best": "eBay",
    "med": 55,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974163641",
+   "title": "Vintage Ulster Knife Co. Pocket Knife",
+   "price": 125,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-ulster-knife-co/vKRGdTkEcRwSehZCKm6m4z",
+   "best": "Camillus USA Cub Scout Pocket Knife Vintage 1960s w Cub ...",
+   "med": 137,
    "ratio": 1.1,
    "ai_value": ""
   },
@@ -6687,6 +6808,17 @@
    "best": "Handmade Botswana Agate Pendant: 925 Sterling Silver Plated ...",
    "med": 9,
    "ratio": 0.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941841424",
+   "title": "HEART SHAPE EARRINGS  MAKE A RESONABLE OFFER",
+   "price": 450,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/jacksonville-heart-shape-earrings-make/vskNmiUx4qSWYwwsNdB9td",
+   "best": "10Kt Yellow Gold Leverback Dangle/Drop Heart Shaped Earrings ...",
+   "med": 40,
+   "ratio": 0.09,
    "ai_value": ""
   },
   {
