@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T21:26:03Z
+# Refurbish status — 2026-10-14T21:31:25Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 952 |
-| queued | 778 |
-| queued/relens | 478 |
-| lensed | 341 |
+| flagged | 973 |
+| queued | 753 |
+| queued/relens | 479 |
+| lensed | 344 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 11
 - searches: 2614
 - listings: 11383
-- lens: 9274
-- events: 32889
+- lens: 9299
+- events: 32914
 - comps: 2358
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (952)
+## Flagged by Lens, waiting for photo review (973)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -194,6 +194,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00C0C_5izBLVEoXEu_0a00dl_300x300.jpg" width="120"> | 7956132143 | $25 | baltimore | [Cistoporic Tetradrachm](https://www.craigslist.org/view/d/conowingo-cistoporic-tetradrachm/7vpiAqQQUmKVZeLk2UUUre) | Etsy | 765 | 30.6 |
 | <img src="https://images.craigslist.org/00m0m_MABmqb5DQV_0pO0jm_300x300.jpg" width="120"> | 7983315735 | $35 | seattle | [Antique Silver Metal Flower Vase Chalice](https://www.craigslist.org/view/d/bremerton-antique-silver-metal-flower/cGPPZpr7Td7KwtBN77Mc4i) | Silver Vase Quadruple Plate, Wilcox Silver Plate Co. Meriden | 1063 | 30.37 |
 | <img src="https://images.craigslist.org/00101_4SlctXi2GAN_0CI0t2_300x300.jpg" width="120"> | 7954283558 | $15 | washingtondc | [2 FRAMED WATERCOLOR PAINTINGS](https://www.craigslist.org/view/d/chevy-chase-framed-watercolor-paintings/8nVZQxeLZwtSbj89dFNMpA) | The Amazing Self-Taught Listed Georgia Artist Arthur H. Ludy | 450 | 30 |
+| <img src="https://images.craigslist.org/00X0X_jUlR3cNydHD_0zm0CI_300x300.jpg" width="120"> | 7959525558 | $45 | utica | [Vintage Hand Painted Pottery Vase Signed Italy](https://www.craigslist.org/view/d/new-hartford-vintage-hand-painted/6eQ27VocLPHWocskrbgFEn) | SanJuan De Oriente Nicaragua Pottery Jar signed Guadalupe .. | 1350 | 30 |
 | <img src="https://images.craigslist.org/00m0m_hHO8lobhngD_0tO12w_300x300.jpg" width="120"> | 7950031727 | $100 | seattle | [Vintage sterling choker](https://www.craigslist.org/view/d/renton-vintage-sterling-choker/7guP4ETe5zKe3rMgbfG49w) | eBay | 2995 | 29.95 |
 | <img src="https://images.craigslist.org/00u0u_92oUNOdErr8_0zh0rb_300x300.jpg" width="120"> | 7950709518 | $20 | orangecounty | [Artisan Rose Quartz Necklace $20](https://www.craigslist.org/view/d/fountain-valley-artisan-rose-quartz/dqZLwxxKyYDjif6vzPhMVc) | 925 Sterling Silver Mesh Bracelet With Button Pearls 39.4g . | 590 | 29.5 |
 | <img src="https://images.craigslist.org/00b0b_2vNh5Rq37Jt_0pf0t2_300x300.jpg" width="120"> | 7950838763 | $5 | newhaven | [vintage black frame with glass](https://www.craigslist.org/view/d/milford-vintage-black-frame-with-glass/7p25Cub1pJkYhsxcAPSusJ) | Vintage Poodle Painting - Etsy | 125 | 25 |
@@ -205,6 +206,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00101_hgjvh3vahsQ_0ak07K_300x300.jpg" width="120"> | 7952137958 | $25 | redding | [VIRTUAL ESTATE SALE II](https://www.craigslist.org/view/d/redding-virtual-estate-sale-ii/7FjPuCjFXCjyJ8VvQDrwHu) | Vtg Gold Plate Flatware Set 86 Pc Wooden Box GOLDEN BOUQUET  | 572 | 22.88 |
 | <img src="https://images.craigslist.org/00I0I_iLbycuGKHjG_0CI0rf_300x300.jpg" width="120"> | 7952347705 | $10 | yakima | [Vintage Clip-on & Screw-back Earrings   Lot #1](https://www.craigslist.org/view/d/roslyn-vintage-clip-on-screw-back/cGqNFKGvfkbBbcCQEYJRgd) | 18 Vintage Pairs of Earrings (A4347) - Etsy | 225 | 22.5 |
 | <img src="https://images.craigslist.org/00t0t_3sA9ADGGfSu_0CI0t2_300x300.jpg" width="120"> | 7978092384 | $44 | losangeles | [BARBARA A. WOOD](https://www.craigslist.org/view/d/monrovia-barbara-wood/88MQojTNBmkzsqg2c3Usgy) | Barbara A. Wood Original "THE FAN" Signed Print Lithograph . | 950 | 21.59 |
+| <img src="https://images.craigslist.org/00y0y_aVxcXnuXfUD_0t20CI_300x300.jpg" width="120"> | 7983382749 | $375 | losangeles | [Vintage Mido Multifort Super Automatic Watch](https://www.craigslist.org/view/d/los-angeles-vintage-mido-multifort/bnzwAT8WY2Kkn5eDjT9iwk) | Etsy | 7980 | 21.28 |
 | <img src="https://images.craigslist.org/00707_bHARK6XpQPW_0t20CI_300x300.jpg" width="120"> | 7958666490 | $20 | lexington | [Pearl Shell VASES](https://www.craigslist.org/view/d/lexington-pearl-shell-vases/wUdaXHhUmGGFpBM6nLwDbE) | Craigslist | 418 | 20.9 |
 | <img src="https://images.craigslist.org/00o0o_krD1eoKQhXI_0kI0fx_300x300.jpg" width="120"> | 7949999524 | $30 | sfbay | [Ear Studs Turquoise- Vintage](https://www.craigslist.org/view/d/san-jose-ear-studs-turquoise-vintage/fGxXt8akY3E3RTbWPmYsRT) | eBay | 620 | 20.67 |
 | <img src="https://images.craigslist.org/01111_3hVZJZWc5jP_0t90CI_300x300.jpg" width="120"> | 7977948921 | $1 | akroncanton | [Handmade necklaces](https://www.craigslist.org/view/d/akron-handmade-necklaces/kdQ8FukbijoYKXTfRhSEco) | Etsy | 20 | 20 |
@@ -262,5 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01414_eDTuoNxPGNg_0CI0t2_300x300.jpg" width="120"> | 7943841277 | $175 | asheville | [IYV Rick Style Guitar](https://www.craigslist.org/view/d/asheville-iyv-rick-style-guitar/eEj1R2sz678XwHJtVGmdek) | Amazon.com: IYV-IRK-300 Semi Hollow Electric Guitar 3T ... | 2149 | 12.28 |
 | <img src="https://images.craigslist.org/00v0v_dgHjXtTxmKQ_0tO12w_300x300.jpg" width="120"> | 7964325765 | $80 | seattle | [1973 vintage half dollar jfk pendant](https://www.craigslist.org/view/d/renton-1973-vintage-half-dollar-jfk/s6FrJS4yZqFx9hQtvM9DD3) | Vintage Medallion Frame .900 Gold Coin SINCO PESOS 1955 ... | 975 | 12.19 |
 | <img src="https://images.craigslist.org/01010_ersC1ymEhE2_07K0ak_300x300.jpg" width="120"> | 7968091428 | $10 | sacramento | [2 Vintage Korean/Japanese Dolls on Stands-Priced E](https://www.craigslist.org/view/d/penryn-vintage-korean-japanese-dolls-on/m5RdY2Z4thM9z5YQtLxaiL) | 01 Japanese Vintage Kimono Cloth Geisha Doll 44cm / OOGI ... | 120 | 12 |
-| <img src="https://images.craigslist.org/01313_LfKs2EVJ0w_0bC0fu_300x300.jpg" width="120"> | 7977588606 | $5 | tucson | [Collection of  34  Medals 1964 - 1968](https://www.craigslist.org/view/d/tucson-collection-of-34-medals/1uV1NHBqjNPJGcCRDy37qG) | eBay | 60 | 12 |
-| <img src="https://images.craigslist.org/00505_9aLi9SmPuNA_0t20CI_300x300.jpg" width="120"> | 7940570014 | $25 | newyork | [Nice antique vase 🏺](https://www.craigslist.org/view/d/kew-gardens-nice-antique-vase/4KhJFrVZ2e3DCQHsionTkE) | Antique Moser Ruby Red Glass Vase With Gold and White Hand . | 300 | 12 |

@@ -32887,3 +32887,28 @@
 {"ts":"2026-10-14T21:25:23Z","pid":"7936809220","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Jewelry, Silver — title does not","data":{"med":225,"ratio":7.5,"mismatch":["Jewelry","Silver"]}}
 {"ts":"2026-10-14T21:25:31Z","pid":"7931909724","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Jewelry, Tiffany — title does not","data":{"med":1039,"ratio":51.95,"mismatch":["Jewelry","Tiffany"]}}
 {"ts":"2026-10-14T21:25:39Z","pid":"7949417120","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Fashion, Gold, Jewelry, Silver — title does not","data":{"med":25,"ratio":0.5,"mismatch":["Fashion","Gold","Jewelry","Silver"]}}
+{"ts":"2026-10-14T21:25:51Z","pid":"7950225432","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Gold, Lane, Size — title does not","data":{"med":600,"ratio":3.02,"mismatch":["Gold","Lane","Size"]}}
+{"ts":"2026-10-14T21:25:59Z","pid":"7954561201","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Gorham, Whiting Mfg. Co — title does not","data":{"med":300,"ratio":1.51,"mismatch":["Gorham","Whiting Mfg. Co"]}}
+{"ts":"2026-10-14T21:26:06Z","pid":"7952726988","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Native, Navajo — title does not","data":{"med":38,"ratio":0.47,"mismatch":["Native","Navajo"]}}
+{"ts":"2026-10-14T21:26:14Z","pid":"7940311431","stage":"flagged","run":"lensworker-20261014-2058","note":null,"data":{"med":200,"ratio":10,"mismatch":[]}}
+{"ts":"2026-10-14T21:26:21Z","pid":"7935573018","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Silver — title does not","data":{"med":153,"ratio":1.53,"mismatch":["Silver"]}}
+{"ts":"2026-10-14T21:26:30Z","pid":"7936141110","stage":"flagged","run":"lensworker-20261014-2058","note":null,"data":{"med":395,"ratio":6.58,"mismatch":[]}}
+{"ts":"2026-10-14T21:26:37Z","pid":"7973240109","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Elegant, Silver — title does not","data":{"med":32,"ratio":0.49,"mismatch":["Elegant","Silver"]}}
+{"ts":"2026-10-14T21:26:45Z","pid":"7951460199","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Gift, Museum, Origin — title does not","data":{"med":50,"ratio":2.5,"mismatch":["Gift","Museum","Origin"]}}
+{"ts":"2026-10-14T21:26:52Z","pid":"7946944841","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names European, School — title does not","data":{"med":299,"ratio":11.96,"mismatch":["European","School"]}}
+{"ts":"2026-10-14T21:27:00Z","pid":"7954015371","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Omega, Silver — title does not","data":{"med":40,"ratio":1,"mismatch":["Omega","Silver"]}}
+{"ts":"2026-10-14T21:27:12Z","pid":"7954637241","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Denim Days, Farm, Homco, Home Interiors & Gifts — title does not","data":{"med":71,"ratio":3.55,"mismatch":["Denim Days","Farm","Homco","Home Interiors & Gifts"]}}
+{"ts":"2026-10-14T21:27:19Z","pid":"7948207672","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Gold, Westclox — title does not","data":{"med":99,"ratio":3.96,"mismatch":["Gold","Westclox"]}}
+{"ts":"2026-10-14T21:27:25Z","pid":"7956633740","stage":"flagged","run":"lensworker-20261014-2058","note":null,"data":{"med":169,"ratio":6.76,"mismatch":[]}}
+{"ts":"2026-10-14T21:27:35Z","pid":"7951513796","stage":"lensed","run":"lensworker-20261014-2058","note":null,"data":{"med":25,"ratio":0.25,"mismatch":[]}}
+{"ts":"2026-10-14T21:27:45Z","pid":"7951144433","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names McCoy, Tea — title does not","data":{"med":22,"ratio":1.1,"mismatch":["McCoy","Tea"]}}
+{"ts":"2026-10-14T21:27:52Z","pid":"7946947317","stage":"queued","status":"relens","run":"lensworker-20261014-2058","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T21:28:03Z","pid":"7959525558","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names European, Royal — title does not","data":{"med":1350,"ratio":30,"mismatch":["European","Royal"]}}
+{"ts":"2026-10-14T21:28:12Z","pid":"7961544297","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Aurora, Coro, Juliana — title does not","data":{"med":70,"ratio":2.33,"mismatch":["Aurora","Coro","Juliana"]}}
+{"ts":"2026-10-14T21:28:19Z","pid":"7983382749","stage":"flagged","run":"lensworker-20261014-2058","note":"Lens names Accessories — title does not","data":{"med":7980,"ratio":21.28,"mismatch":["Accessories"]}}
+{"ts":"2026-10-14T21:30:25Z","pid":"7943907799","stage":"flagged","run":"lensworker-20261014-2126","note":"Lens names Coro, Eisenberg, Jewelry, Kramer — title does not","data":{"med":77,"ratio":3.08,"mismatch":["Coro","Eisenberg","Jewelry","Kramer"]}}
+{"ts":"2026-10-14T21:30:32Z","pid":"7972938048","stage":"lensed","run":"lensworker-20261014-2126","note":null,"data":{"med":25,"ratio":0.56,"mismatch":[]}}
+{"ts":"2026-10-14T21:30:39Z","pid":"7938184589","stage":"flagged","run":"lensworker-20261014-2126","note":null,"data":{"med":266,"ratio":0.82,"mismatch":[]}}
+{"ts":"2026-10-14T21:30:49Z","pid":"7945928616","stage":"flagged","run":"lensworker-20261014-2126","note":"Lens names Fashion — title does not","data":{"med":130,"ratio":8.67,"mismatch":["Fashion"]}}
+{"ts":"2026-10-14T21:30:56Z","pid":"7981738359","stage":"lensed","run":"lensworker-20261014-2126","note":null,"data":{"med":30,"ratio":0.75,"mismatch":[]}}
+{"ts":"2026-10-14T21:31:03Z","pid":"7931687640","stage":"flagged","run":"lensworker-20261014-2126","note":"Lens names Clay, Mexican — title does not","data":{"med":88,"ratio":0.88,"mismatch":["Clay","Mexican"]}}
