@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:46:14Z",
+ "updated": "2026-10-14T07:49:46Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8399,
-  "events": 30413,
+  "lens": 8424,
+  "events": 30438,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 317,
+  "queued/relens": 320,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 53,
-  "flagged": 426,
-  "lensed": 154
+  "queued": 28,
+  "flagged": 438,
+  "lensed": 164
  },
  "last_harvests": [
   {
@@ -573,6 +573,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948989527",
+   "title": "Beaded necklaces and pendants",
+   "price": 25,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/sandia-park-beaded-necklaces-and/9vT4cngDeMLvE2XmmhbY5a",
+   "best": "Craigslist",
+   "med": 586,
+   "ratio": 23.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7977948921",
    "title": "Handmade necklaces",
    "price": 1,
@@ -603,6 +614,17 @@
    "best": "Gold Coin Charm Bracelet",
    "med": 220,
    "ratio": 18.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949524641",
+   "title": "Old Blacksmith tools/hand shears/casterator",
+   "price": 10,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-old-blacksmith-tools-hand/rNC7SHjKhcf4Q3S8o2Prwh",
+   "best": "Collection of 7 User Blacksmith Tongs - 96841 \u2013 Jim Bode Tools",
+   "med": 175,
+   "ratio": 17.5,
    "ai_value": ""
   },
   {
@@ -669,6 +691,17 @@
    "best": "Amazon.com",
    "med": 500,
    "ratio": 14.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965183150",
+   "title": "Color Lithograph 1960s",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-color-lithograph-1960s/o235fH841vJyQrDsEAsAgs",
+   "best": "Fay Friedman Call Me Madam Mid Century Block Print Ink ...",
+   "med": 1140,
+   "ratio": 14.25,
    "ai_value": ""
   },
   {
@@ -889,6 +922,17 @@
    "best": "Abu Garcia Ambassadeur 5000D Green Casting Reel /Sweden 1975 ...",
    "med": 295,
    "ratio": 7.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977075240",
+   "title": "Vintage silver-plated and metal concert flutes",
+   "price": 35,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lonsdale-vintage-silver-plated-and/eQWp32j91kNTNyHWSjmgqp",
+   "best": "Armstrong 103 B-Foot Open-Hole Flute, with Case. USA. Very ...",
+   "med": 254,
+   "ratio": 7.26,
    "ai_value": ""
   },
   {
@@ -1152,6 +1196,17 @@
    "url": "https://www.craigslist.org/view/d/santa-barbara-vintage-mid-century-tic/9DiU1omoNLEksPnppTsqAN",
    "best": "Vintage MCM Tic Ceramic USA Art Pottery Pink Cactus Flower ...",
    "med": 95,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949659573",
+   "title": "antique clock",
+   "price": 30,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/long-beach-antique-clock/bEWaxg2Phwm4r8ZxKnVXgC",
+   "best": "Vintage Three Mountaineers 8 day Pine steeple Clock with key ...",
+   "med": 150,
    "ratio": 5,
    "ai_value": ""
   },
@@ -1635,6 +1690,17 @@
    "area": "medford",
    "url": "https://www.craigslist.org/view/d/grants-pass-wonderful-vintage-head-vase/mNstP2627ZAGNVy182Tkay",
    "best": "Vintage UCAGO Co Japan Lady Head Vase Blonde Curls Big Hat ...",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944220543",
+   "title": "Sterling Silver & Pyrope Garnet Earrings",
+   "price": 20,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-pyrope/7BD4vKswLvfhxDwQkNBXG7",
+   "best": "Vintage Sterling Silver Black Onyx Drop Dangle Shepherds ...",
    "med": 65,
    "ratio": 3.25,
    "ai_value": ""
@@ -2586,6 +2652,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952660659",
+   "title": "Long necklace",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-long-necklace/qTYXxpJDnVo8yVJGC8pm3P",
+   "best": "Vintage SU ITALY 925 Sterling Silver Twisted Herringbone ...",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -2850,6 +2927,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949277755",
+   "title": "Sterling Silver Jet Onyx Bangle",
+   "price": 95,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-sterling-silver-jet-onyx-bangle/3gJKn8sAZq8hwPomxijgJS",
+   "best": "Wholesale Sterling Silver Black Agate Bangle | Bulk Resell ...",
+   "med": 150,
+   "ratio": 1.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7931762213",
    "title": "Vintage Turquoise & Sterling Silver Navajo Cuff - 110g",
    "price": 445,
@@ -3055,6 +3143,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-mother-of-pearl-cuff-bracelet/weReJh51TsAngECHkHQmwr",
    "best": "Vintage Silver Plated Oval Abalone Pearl Taxco Mexico ...",
    "med": 45,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962756645",
+   "title": "Sarah Coventry maple leaf stardust brooch signed \u00a9SarahCov gold tone",
+   "price": 10,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/omaha-sarah-coventry-maple-leaf/eaGMVgdXLWCtcJrmvAJJqt",
+   "best": "Vintage Jewelry SARAH COVENTRY Leaf Pin Brooch Gold Tone ...",
+   "med": 15,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -3708,6 +3807,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929031324",
+   "title": "Navajo Sterling Silver Turquoise & Coral Cuff Bracelet",
+   "price": 200,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-sterling-silver/eqhEsBpUTWc8DFz7jFahVb",
+   "best": "AT 93 Feather Bead Oval Cuff Bracelet Sterling Silver Coral ...",
+   "med": 214,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7983165243",
    "title": "Mid Century Modern Signed Framed Sailboat Painting Vintage",
    "price": 300,
@@ -4346,6 +4456,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946237740",
+   "title": "4 vintage Precious Moments bells",
+   "price": 25,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/elk-grove-vintage-precious-moments-bells/vnEd6f9iEhMVgeaZXhoXJS",
+   "best": "Enesco Jonathan & David bell E-7179 The Lord Bless You and ...",
+   "med": 16,
+   "ratio": 0.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7939308740",
    "title": "Vintage Joy Mex Sterling Silver & Inlay Turquoise Ring Size 6",
    "price": 40,
@@ -4848,6 +4969,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-charles-albert/3LbnEhZvkjpdif1LL97uQK",
    "best": "Etsy",
    "med": 47,
+   "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947610582",
+   "title": "Louie H. Erwing Silkscreen",
+   "price": 350,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/alexandria-louie-erwing-silkscreen/uz7a2zQTmf5ajTadMPhtU6",
+   "best": "Louie Ewing - Blue Heron Gallery",
+   "med": 90,
    "ratio": 0.26,
    "ai_value": ""
   },
