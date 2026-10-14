@@ -30161,3 +30161,28 @@
 {"ts":"2026-10-14T07:07:11Z","pid":"7954233431","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Company, Reynolds, Salem — title does not","data":{"med":65,"ratio":0.76,"mismatch":["Company","Reynolds","Salem"]}}
 {"ts":"2026-10-14T07:07:22Z","pid":"7942651899","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Morris, Pink — title does not","data":{"med":24,"ratio":1.6,"mismatch":["Morris","Pink"]}}
 {"ts":"2026-10-14T07:07:28Z","pid":"7954475163","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Artist — title does not","data":{"med":38,"ratio":0.15,"mismatch":["Artist"]}}
+{"ts":"2026-10-14T07:07:41Z","pid":"7963244061","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Accessories, Silver — title does not","data":{"med":2,"ratio":0.2,"mismatch":["Accessories","Silver"]}}
+{"ts":"2026-10-14T07:07:50Z","pid":"7931311614","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names National — title does not","data":{"med":77,"ratio":1.93,"mismatch":["National"]}}
+{"ts":"2026-10-14T07:08:00Z","pid":"7951742668","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Gold — title does not","data":{"med":1395,"ratio":14.09,"mismatch":["Gold"]}}
+{"ts":"2026-10-14T07:08:07Z","pid":"7943638350","stage":"queued","status":"relens","run":"lensworker-20261014-0703","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:08:14Z","pid":"7970322564","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Lladró — title does not","data":{"med":20,"ratio":2,"mismatch":["Lladró"]}}
+{"ts":"2026-10-14T07:08:23Z","pid":"7950885127","stage":"flagged","run":"lensworker-20261014-0703","note":null,"data":{"med":124,"ratio":2.07,"mismatch":[]}}
+{"ts":"2026-10-14T07:08:32Z","pid":"7943484382","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Royal — title does not","data":{"med":24,"ratio":2,"mismatch":["Royal"]}}
+{"ts":"2026-10-14T07:08:39Z","pid":"7977482226","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Buck, History, Hunter — title does not","data":{"med":null,"ratio":null,"mismatch":["Buck","History","Hunter"]}}
+{"ts":"2026-10-14T07:08:48Z","pid":"7949723502","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Special — title does not","data":{"med":110,"ratio":0.37,"mismatch":["Special"]}}
+{"ts":"2026-10-14T07:09:25Z","pid":"7961286288","stage":"queued","status":"relens","run":"lensworker-20261014-0703","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:09:33Z","pid":"7938166765","stage":"lensed","run":"lensworker-20261014-0703","note":null,"data":{"med":49,"ratio":3.27,"mismatch":[]}}
+{"ts":"2026-10-14T07:09:40Z","pid":"7936737252","stage":"flagged","run":"lensworker-20261014-0703","note":null,"data":{"med":400,"ratio":20,"mismatch":[]}}
+{"ts":"2026-10-14T07:09:48Z","pid":"7968387411","stage":"flagged","run":"lensworker-20261014-0703","note":null,"data":{"med":315,"ratio":1.57,"mismatch":[]}}
+{"ts":"2026-10-14T07:09:58Z","pid":"7962125271","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names County — title does not","data":{"med":85,"ratio":0.85,"mismatch":["County"]}}
+{"ts":"2026-10-14T07:10:06Z","pid":"7951116212","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Gold, Jewelry, Onyx, Silver — title does not","data":{"med":15,"ratio":1.15,"mismatch":["Gold","Jewelry","Onyx","Silver"]}}
+{"ts":"2026-10-14T07:10:14Z","pid":"7964967228","stage":"queued","status":"relens","run":"lensworker-20261014-0703","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:10:24Z","pid":"7943637414","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Accessories — title does not","data":{"med":22,"ratio":0.13,"mismatch":["Accessories"]}}
+{"ts":"2026-10-14T07:10:31Z","pid":"7933421201","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Jewelry — title does not","data":{"med":75,"ratio":0.94,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-14T07:10:38Z","pid":"7977830634","stage":"queued","status":"relens","run":"lensworker-20261014-0703","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:10:45Z","pid":"7983165459","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Star, Topps, Upper Deck — title does not","data":{"med":22,"ratio":0.29,"mismatch":["Star","Topps","Upper Deck"]}}
+{"ts":"2026-10-14T07:10:54Z","pid":"7951070432","stage":"flagged","run":"lensworker-20261014-0703","note":null,"data":{"med":200,"ratio":1.01,"mismatch":[]}}
+{"ts":"2026-10-14T07:11:03Z","pid":"7948093182","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Pink — title does not","data":{"med":89,"ratio":1.48,"mismatch":["Pink"]}}
+{"ts":"2026-10-14T07:11:12Z","pid":"7944220007","stage":"flagged","run":"lensworker-20261014-0703","note":"Lens names Gold — title does not","data":{"med":85,"ratio":0.42,"mismatch":["Gold"]}}
+{"ts":"2026-10-14T07:11:19Z","pid":"7977168789","stage":"queued","status":"relens","run":"lensworker-20261014-0703","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T07:11:27Z","pid":"7955204663","stage":"queued","status":"relens","run":"lensworker-20261014-0707","note":"empty Lens read, auto re-queued"}

@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:07:48Z",
+ "updated": "2026-10-14T07:11:47Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8149,
-  "events": 30163,
+  "lens": 8174,
+  "events": 30188,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 239,
+  "queued/relens": 245,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 303,
-  "flagged": 315,
-  "lensed": 93
+  "queued": 278,
+  "flagged": 333,
+  "lensed": 94
  },
  "last_harvests": [
   {
@@ -551,6 +551,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936737252",
+   "title": "Elizabeth Taylor signed picture",
+   "price": 20,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-elizabeth-taylor-signed/6FvJuSKnNBPqHAYdcLdxHC",
+   "best": "eBay",
+   "med": 400,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
    "pid": "7954896055",
    "title": "Gold Tone Charm Bracelet",
    "price": 12,
@@ -614,6 +625,17 @@
    "best": "Amazon.com",
    "med": 500,
    "ratio": 14.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951742668",
+   "title": "Sterling Silver and Contemporary Ethnic Jewelry",
+   "price": 99,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/newport-beach-sterling-silver-and/rPxvvS9ATqEGdsM164SjBs",
+   "best": "eBay",
+   "med": 1395,
+   "ratio": 14.09,
    "ai_value": ""
   },
   {
@@ -1772,6 +1794,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950885127",
+   "title": "Ernest Hemingway Portrait.",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-ernest-hemingway-portrait/658s5HXWGfJEFRWnYGWiAQ",
+   "best": "Poshmark",
+   "med": 124,
+   "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7953044364",
    "title": "14K Yellow Gold Diamond Band Ring",
    "price": 300,
@@ -1827,6 +1860,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7970322564",
+   "title": "Lot of Annalee Dolls",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/east-bridgewater-lot-of-annalee-dolls/uMDkFxhfGnFjV2BqSUePv7",
+   "best": "Vintage Annalee Doll Society LITTLE MAE FLOWERS Logo Kid ...",
+   "med": 20,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943484382",
+   "title": "Vintage Hallmark 'Happy the Snowman' Ceramic Teapot",
+   "price": 12,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/west-des-moines-vintage-hallmark-happy/gBXPo1Q6M6RBG3uW371xes",
+   "best": "Hallmark | Holiday | Hallmark Harry Potter Mini Ornaments ...",
+   "med": 24,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7931592455",
    "title": "Sterling silver garnet earrings",
    "price": 25,
@@ -1846,6 +1901,17 @@
    "best": "eBay",
    "med": 252,
    "ratio": 1.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931311614",
+   "title": "Vintage 10k GF woman's Hamilton 5 jewel commemorative",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fort-washington-vintage-10k-gf-womans/6bx8Q49VycmuAssKumtU5t",
+   "best": "Men's Vintage NSA National Security Agency Hamilton ...",
+   "med": 77,
+   "ratio": 1.93,
    "ai_value": ""
   },
   {
@@ -2234,6 +2300,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968387411",
+   "title": "BEAUTIFUL ITALIAN  PICTIRE",
+   "price": 200,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-beautiful-italian-pictire/aZ3N8uq1LXPKTvwaHnMaDm",
+   "best": "eBay",
+   "med": 315,
+   "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7951092953",
    "title": "Bracelet (8)",
    "price": 13,
@@ -2351,6 +2428,17 @@
    "url": "https://www.craigslist.org/view/d/roseburg-sterling-silver-filigree/eg46pHRsfMowP5tZgQaoaj",
    "best": "Etsy",
    "med": 59,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948093182",
+   "title": "Sterling Silver Necklace w/Locket 20\u201d",
+   "price": 60,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-necklace/vTJA8E94wTEmu8QwwrSLvM",
+   "best": "eBay",
+   "med": 89,
    "ratio": 1.48,
    "ai_value": ""
   },
@@ -2729,6 +2817,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951116212",
+   "title": "Mother of Pearl Necklace",
+   "price": 13,
+   "area": "lubbock",
+   "url": "https://www.craigslist.org/view/d/amarillo-mother-of-pearl-necklace/bbxc8tSKHCt44EGuGL3g2v",
+   "best": "Mercari",
+   "med": 15,
+   "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7950006923",
    "title": "Vintage Navajo Sterling Silver & Robins Egg Blue Turquoise Size 10Ring",
    "price": 130,
@@ -2938,6 +3037,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951070432",
+   "title": "Sterling Silver Bowls Spoon Indian Handmade",
+   "price": 199,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/newport-beach-sterling-silver-bowls/sUeSg8Zvkn37NmwZYA3yYQ",
+   "best": "Etsy",
+   "med": 200,
+   "ratio": 1.01,
+   "ai_value": ""
+  },
+  {
    "pid": "7943192265",
    "title": "Sterling Silver & Coral Size 6 Ring",
    "price": 30,
@@ -3022,6 +3132,17 @@
    "url": "https://www.craigslist.org/view/d/renton-beautiful-sterling-bracelet-with/qRSsjyoQik91r1uHoTNXxN",
    "best": "Vintage 1940s Sterling Silver Charm Bracelet 17 Charms - Etsy",
    "med": 165,
+   "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933421201",
+   "title": "Sterling Silver & Red Coral Size 9 Ring Signed S",
+   "price": 80,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-red-coral/n8nZkLcJ9Yzk9unorvXudb",
+   "best": "eBay",
+   "med": 75,
    "ratio": 0.94,
    "ai_value": ""
   },
@@ -3163,6 +3284,17 @@
    "price": 100,
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/long-lake-yellow-asian-cloisonne-bowl/vReGeMjJ15YsMiWK5DbKse",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962125271",
+   "title": "Antique Munising wooden salad bowl set 7piece",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/glendale-antique-munising-wooden-salad/gVegW3GepS4vKyX6VcFQup",
    "best": "eBay",
    "med": 85,
    "ratio": 0.85,
@@ -3620,6 +3752,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944220007",
+   "title": "Navajo Turquoise & Sterling Silver Chandelier Earrings",
+   "price": 200,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-turquoise-sterling/fJVyA8PjQciDvvbNaeuu5N",
+   "best": "Etsy",
+   "med": 85,
+   "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7948412127",
    "title": "4 Pieces Antique Jewelry",
    "price": 99,
@@ -3660,6 +3803,17 @@
    "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-adjustable/dwMJAUFNJQcsm6UBPqSWe4",
    "best": "Silve Beaded choker Ethnic Handmade Necklace Chain Jewelry ...",
    "med": 13,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949723502",
+   "title": "Vintage Hazelle\u2019s Marionettes (2)",
+   "price": 295,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-hazelles-marionettes/8HDZoHNqwbJ1hiqdWSaDfv",
+   "best": "Hazelle's Other Vintage & Antique Toys | eBay",
+   "med": 110,
    "ratio": 0.37,
    "ai_value": ""
   },
@@ -3730,6 +3884,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983165459",
+   "title": "Great Football Card Lot",
+   "price": 75,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/washougal-great-football-card-lot/9DkJ8dGLkRgXBcXPQA1467",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 0.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7951742975",
    "title": "Sterling Silver 925 Lot Mexico India Scandivai Italy Necklace Bracelet",
    "price": 99,
@@ -3774,6 +3939,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963244061",
+   "title": "Red Jasper Stretch Bracelet",
+   "price": 10,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-red-jasper-stretch-bracelet/4Qdz1Q9m9cnJjFBiqqmtoH",
+   "best": "eBay",
+   "med": 2,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7954379451",
    "title": "Huge vintage doll house lot",
    "price": 150,
@@ -3804,6 +3980,17 @@
    "best": "ANN DELORGE \"PRESERVE THAT JAZZ\" LIMITED SIGNED LITHOGRAPH ...",
    "med": 38,
    "ratio": 0.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943637414",
+   "title": "Ecclissi Sterling Silver & Turquoise Cabochon 7\u201d Watch",
+   "price": 170,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-ecclissi-sterling-silver/gvDaPXf5UMKB2ihNwc6sNv",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 0.13,
    "ai_value": ""
   },
   {
@@ -3879,6 +4066,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/1970s-vintage-slingerland-9x13-tom/fu7gmX2kYDoAF4R6S4YoRH",
    "best": "Used Yamaha 3 Piece Stage Custom Natural Drum Kit Natural ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977482226",
+   "title": "Browning pocket knife",
+   "price": 50,
+   "area": "lascruces",
+   "url": "https://www.craigslist.org/view/d/las-cruces-browning-pocket-knife/3TePAo9dukCHCoEXficb8F",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
