@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T23:12:34Z
+# Refurbish status — 2026-10-14T23:16:33Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1450 |
-| lensed | 486 |
+| flagged | 1469 |
+| lensed | 492 |
 | queued/relens | 485 |
-| queued | 128 |
+| queued | 103 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 11
 - searches: 2614
 - listings: 11383
-- lens: 9924
-- events: 33540
+- lens: 9949
+- events: 33565
 - comps: 2358
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1450)
+## Flagged by Lens, waiting for photo review (1469)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -176,6 +176,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00z0z_7RsWle2O7md_0jt0gU_300x300.jpg" width="120"> | 7983248475 | $10 | daytona | [Vintage - (New) Chinese Tea Pot](https://www.craigslist.org/view/d/deland-vintage-new-chinese-tea-pot/kzwBuugbzEKfWy74M1noCz) | MT465 Vintage Red Ceramic Watch Tower Teapot Swords And ... | 995 | 99.5 |
 | <img src="https://images.craigslist.org/00101_5LXc3XXewoF_0t20CI_300x300.jpg" width="120"> | 7979444442 | $5 | fortwayne | [Horseshoe Clover Jewelry Charm](https://www.craigslist.org/view/d/south-bend-horseshoe-clover-jewelry/n4nDmrjhv3mTLUZ7Yw8G3r) | Your Trusted Source for Jewelry - Pendants & Necklaces ... | 480 | 96 |
 | <img src="https://images.craigslist.org/00r0r_3U0aZ72p2Kz_0CI0t2_300x300.jpg" width="120"> | 7968030888 | $1 | lasvegas | [Vintage Handmade Lot 18 Costume Jewelry Rings Neck](https://www.craigslist.org/view/d/las-vegas-vintage-handmade-lot-18/eJgavmjhpbFBdMGL6MjWms) | Vintage to Now Wearable Costume Jewelry Necklaces Bracelets  | 93 | 93 |
+| <img src="https://images.craigslist.org/00606_fYRKfC33tqc_0t20CI_300x300.jpg" width="120"> | 7971641340 | $10 | phoenix | [Gold Plated 15 inch Floral Necklace](https://www.craigslist.org/view/d/sun-city-west-gold-plated-15-inch/rVzn8c56BtSLkbjucbFSd8) | Gold Tone Chain Choker Necklace 15" Lily Vintage Chunky Bold | 865 | 86.5 |
 | <img src="https://images.craigslist.org/00U0U_kVwLkcqr6CQ_0t20CI_300x300.jpg" width="120"> | 7944507991 | $10 | bham | [Gold Plate Over 925 pendant](https://www.craigslist.org/view/d/morris-gold-plate-over-925-pendant/rJ2ybFbUSuyaUd7ApaBnjk) | 14k Gold And Diamond Italian Necklace / eBay | 853 | 85.3 |
 | <img src="https://images.craigslist.org/00u0u_kOrqdySfj3r_0jm0pO_300x300.jpg" width="120"> | 7954287250 | $35 | washingtondc | [Fashion Gold Dragon Fly Cubic Zirconia Earrings](https://www.craigslist.org/view/d/centreville-fashion-gold-dragon-fly/mPBJfZ11LRSVdSsRqhrwji) | Rhinestone And Crystal Jewelry Shop By / Trendy Wholesale | 2977 | 85.06 |
 | <img src="https://images.craigslist.org/00T0T_8kRcHgX2LHZ_0ni0t2_300x300.jpg" width="120"> | 7938027882 | $20 | portland | [Vintage Sterling Silver Camphor Glass Pendant Vict](https://www.craigslist.org/view/d/vancouver-vintage-sterling-silver/qrPA33GUAuHWYPuHo4LfRr) | Anew Foods | 1698 | 84.9 |
@@ -204,6 +205,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00U0U_4WNy0iyjRJE_0CI0t2_300x300.jpg" width="120"> | 7978102380 | $44 | ventura | [BARBARA  A. WOOD](https://www.craigslist.org/view/d/ventura-barbara-wood/qR1ev4uaW5QTBdvUZaPpJD) | Barbara Wood / BARBARA A WOOD Signed Portrait Curly Haired . | 2178 | 49.5 |
 | <img src="https://images.craigslist.org/00H0H_4xHBlDprahh_0t20CI_300x300.jpg" width="120"> | 7929354406 | $100 | sandiego | [native art](https://www.craigslist.org/view/d/san-diego-native-art/6stBFvHFUaVaHnxKfkokDX) | Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ... | 4800 | 48 |
 | <img src="https://images.craigslist.org/00w0w_2xh8nJnsEDR_0t20CI_300x300.jpg" width="120"> | 7939244058 | $12 | boise | [Necklace with Cuff Bracelet all for $12](https://www.craigslist.org/view/d/boise-necklace-with-cuff-bracelet-all/8ZpStnzbF9RPWF2p8hG6gD) | 🛵Хүргэлт үнэгүй /А бүсэд/ 💥Үнэ: 59000 💫14k алтан бүрмэл ... | 568 | 47.33 |
+| <img src="https://images.craigslist.org/00K0K_161KYPzOY3z_0uY0hq_300x300.jpg" width="120"> | 7969448511 | $3 | seattle | [Vintage Woodheaven collection stone ware set](https://www.craigslist.org/view/d/seattle-vintage-woodheaven-collection/2QpK4ATgd7eUVd9CUXV44N) | Mountain Wood Stoneware Bowl - Etsy | 142 | 47.33 |
 | <img src="https://images.craigslist.org/00Y0Y_4Y0blOg0wMn_0t20t2_300x300.jpg" width="120"> | 7982312115 | $50 | tampa | [925 Figaro chain bracelet](https://www.craigslist.org/view/d/brooksville-925-figaro-chain-bracelet/iq8sVUQEP4dfaWJ8x5cBwa) | Craigslist | 2349 | 46.98 |
 | <img src="https://images.craigslist.org/00l0l_hsC8n6fXXTp_0t20CI_300x300.jpg" width="120"> | 7946417677 | $175 | buffalo | [Breitling Chronometer> Blue Dial >Replica>Stainles](https://www.craigslist.org/view/d/buffalo-breitling-chronometer-blue-dial/7puGej2v4UaaRfcid4pEW2) | Reddit | 7950 | 45.43 |
 | <img src="https://images.craigslist.org/00t0t_5OcBCXBXDk0_0m90t2_300x300.jpg" width="120"> | 7933462459 | $20 | miami | [Toys In The Attic](https://www.craigslist.org/view/d/fort-lauderdale-toys-in-the-attic/oyK342y5FcdD2tM4Tjf7sf) | Coins & Bank Notes inc. House & Gardens Sale - Gorringe's | 899 | 44.95 |
@@ -261,5 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00o0o_krD1eoKQhXI_0kI0fx_300x300.jpg" width="120"> | 7949999524 | $30 | sfbay | [Ear Studs Turquoise- Vintage](https://www.craigslist.org/view/d/san-jose-ear-studs-turquoise-vintage/fGxXt8akY3E3RTbWPmYsRT) | eBay | 620 | 20.67 |
 | <img src="https://images.craigslist.org/01111_3hVZJZWc5jP_0t90CI_300x300.jpg" width="120"> | 7977948921 | $1 | akroncanton | [Handmade necklaces](https://www.craigslist.org/view/d/akron-handmade-necklaces/kdQ8FukbijoYKXTfRhSEco) | Etsy | 20 | 20 |
 | <img src="https://images.craigslist.org/00202_9ZgTFZD0PMl_0t20CI_300x300.jpg" width="120"> | 7936737252 | $20 | albuquerque | [Elizabeth Taylor signed picture](https://www.craigslist.org/view/d/albuquerque-elizabeth-taylor-signed/6FvJuSKnNBPqHAYdcLdxHC) | eBay | 400 | 20 |
-| <img src="https://images.craigslist.org/00a0a_9twtTV20gR4_0hq0hq_300x300.jpg" width="120"> | 7983296298 | $10 | phoenix | [Lot of Small Antique Items](https://www.craigslist.org/view/d/glendale-lot-of-small-antique-items/ncSsQfuMFfHnjgWAcNNpGd) | Vintage Collectible Office Supplies / Set Design Props ... | 200 | 20 |
-| <img src="https://images.craigslist.org/00i0i_lEgkxTI5hab_0v00ng_300x300.jpg" width="120"> | 7948190890 | $20 | dallas | [Very beautiful of reprint of flower picture. Size:](https://www.craigslist.org/view/d/plano-very-beautiful-of-reprint-of/pP6wx9xSFAStEMqHdGaYcd) | Victoria Bella 24AB17/C Framed Painting Art 24" x 30" Print  | 399 | 19.95 |
