@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:52:59Z",
+ "updated": "2026-10-14T15:56:30Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8813,
-  "events": 31627,
+  "lens": 8838,
+  "events": 31652,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 422,
+  "queued/relens": 428,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 439,
-  "flagged": 654,
-  "lensed": 235
+  "queued": 414,
+  "flagged": 668,
+  "lensed": 240
  },
  "last_harvests": [
   {
@@ -516,6 +516,17 @@
    "best": "Sold at Auction: Bill Gallen, Bill Gallen | The Red Mountain",
    "med": 3500,
    "ratio": 140,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943638984",
+   "title": "Collection of Vintage Cameras",
+   "price": 1,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/7rKHySm9qMZFks2E7wZnoh",
+   "best": "eBay",
+   "med": 120,
+   "ratio": 120,
    "ai_value": ""
   },
   {
@@ -1278,6 +1289,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952920881",
+   "title": "Project Les Paul (lefty)",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-project-les-paul-lefty/nq6W7G9fRTsnbECNA8rXSP",
+   "best": "Las mejores ofertas en Gibson Les Paul Epiphone 6 Cuerdas ...",
+   "med": 1115,
+   "ratio": 11.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7965917430",
    "title": "Vintage woman/baby 13\u201d figurine",
    "price": 40,
@@ -1561,6 +1583,17 @@
    "best": "Nextdoor",
    "med": 269,
    "ratio": 7.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933473857",
+   "title": "Vintage Star Wars Princess Leia Cermanic Sigma Tastesetter 1983 Mug",
+   "price": 10,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-star-wars-princess-leia/nH2YBXJGcaKLrH5v6c4S8q",
+   "best": "Star Wars Princess Leia Carrie Fisher Ceramic Mug Cup 1983 ...",
+   "med": 75,
+   "ratio": 7.5,
    "ai_value": ""
   },
   {
@@ -1924,6 +1957,28 @@
    "best": "Victorian Mourning Brooch, 14K Gold, Seed Pearl, Hair ...",
    "med": 346,
    "ratio": 5.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951573276",
+   "title": "* vintage ROSARY with beautiful medal, beads and cross. excellent. $15",
+   "price": 15,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/niagara-falls-vintage-rosary-with/7apcniTE4V1eNp9hoghrzV",
+   "best": "Antique Sterling Silver Beads Rosary | eBay",
+   "med": 79,
+   "ratio": 5.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947294440",
+   "title": "Vintage Pocket Knives",
+   "price": 95,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/wilmington-vintage-pocket-knives/rCTXCzZdyprHYkQqS3o5fA",
+   "best": "German Made Pocket Knives - Etsy",
+   "med": 495,
+   "ratio": 5.21,
    "ai_value": ""
   },
   {
@@ -2396,6 +2451,17 @@
    "url": "https://www.craigslist.org/view/d/washington-watercolor-sailboats-signed/sGeMbPiXr2e6V2phJA6aRo",
    "best": "Lily Pad Galleries",
    "med": 450,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981636044",
+   "title": "2 old bowls",
+   "price": 20,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/sweetwater-old-bowls/nmPKcs1A5AASzDuw8PLRNH",
+   "best": "430 Crock and bowls ideas | vintage yellow ware crock bowl ...",
+   "med": 75,
    "ratio": 3.75,
    "ai_value": ""
   },
@@ -3291,6 +3357,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955872757",
+   "title": "Cameo locket   Opens.   \ud83c\udf79\ud83e\udd44\ud83c\udf7e",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-cameo-locket-opens/cETzHGPmwdUNEqNt9FgYjS",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7950186310",
    "title": "Vintage Cloisonn\u00e9/ Chinese Enamel",
    "price": 125,
@@ -3331,6 +3408,17 @@
    "url": "https://www.craigslist.org/view/d/washington-vintage-victorian-village/uDL9HYg6NX81LyteDL5xTN",
    "best": "Christmas Village Porcelain Lighted House Victoria Station ...",
    "med": 104,
+   "ratio": 2.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931428133",
+   "title": "Ludwig Piccolo Snare Drum",
+   "price": 99,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/pompano-beach-ludwig-piccolo-snare-drum/w95bvnhXEnBcbed3wDsy3i",
+   "best": "eBay",
+   "med": 229,
    "ratio": 2.31,
    "ai_value": ""
   },
@@ -5458,6 +5546,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962070551",
+   "title": "VINTAGE DISNEY LITTLE MERMAID FIGURINES",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/albany-vintage-disney-little-mermaid/pTBJjGz3XkqnzsG1Wk5bPJ",
+   "best": "eBay",
+   "med": 11,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7949271613",
    "title": "Beau Sterling Silver Bangle",
    "price": 30,
@@ -6085,6 +6184,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983319053",
+   "title": "misc music gear",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/lynnwood-misc-music-gear/g4Ni466QH1kWvU8pW82ttV",
+   "best": "Amazon.com",
+   "med": 33,
+   "ratio": 0.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7952296200",
    "title": "VINTAGE ONYX and MARCASITE PENDANTS on STERLING CHAINS",
    "price": 69,
@@ -6102,6 +6212,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/minneapolis-vintage-mankato-creamery/vLgfaJSMMyB1uuMdPLmRPM",
    "best": "Antique Craftsman DMT Mini Knife Sharpener Portable Folding ...",
+   "med": 12,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964733174",
+   "title": "Precious Moments: All Things Grow With Love",
+   "price": 15,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/fort-collins-precious-moments-all/igPa5bYeecHyNmy3Nww4J9",
+   "best": "eBay",
    "med": 12,
    "ratio": 0.8,
    "ai_value": ""
@@ -6503,6 +6624,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954697405",
+   "title": "Original Framed Paintings, Art, Signed",
+   "price": 350,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/newport-original-framed-paintings-art/9VbedZMHsvqq1YLkbgXpSg",
+   "best": "Original Oil Painting - Still Life-apple by Gevorg Sinanian",
+   "med": 216,
+   "ratio": 0.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7934382142",
    "title": "Vintage Studio Art Pottery Crock",
    "price": 50,
@@ -6763,6 +6895,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-vintage-piece-brown-drip/2YrnMpNj6qeBSodii9MoSA",
    "best": "Hull Pottery Brown Drip Coffee Tea Set / 14 Piece USA ...",
    "med": 24,
+   "ratio": 0.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948522388",
+   "title": "ANTIQUE WOMAN'S WATCH BRACELET FROM",
+   "price": 260,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/shrewsbury-antique-womans-watch/jpCwRA7xWhL83Xq7Wzdf6c",
+   "best": "Victorian 935 Sterling Silver Marcasite Fleur de Lis ...",
+   "med": 125,
    "ratio": 0.48,
    "ai_value": ""
   },
@@ -7631,6 +7774,17 @@
    "area": "austin",
    "url": "https://www.craigslist.org/view/d/kyle-vintage-daisy-bb-guns/owrekM6qGrdLXtq9aim4en",
    "best": "Daisy Model 95B BB Gun Vintage Works Good | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951460237",
+   "title": "Davy Allison Case xx Knife",
+   "price": 75,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/mount-holly-davy-allison-case-xx-knife/x5ndcTFERb4sCBuqwenMqo",
+   "best": "Case XX Trapper Davey Allison",
    "med": null,
    "ratio": null,
    "ai_value": ""

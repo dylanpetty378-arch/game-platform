@@ -31625,3 +31625,28 @@
 {"ts":"2026-10-14T15:52:17Z","pid":"7945609379","stage":"lensed","run":"lensworker-20261014-1545","note":null,"data":{"med":24,"ratio":1.2,"mismatch":[]}}
 {"ts":"2026-10-14T15:52:26Z","pid":"7950399100","stage":"lensed","run":"lensworker-20261014-1545","note":null,"data":{"med":51,"ratio":2.04,"mismatch":[]}}
 {"ts":"2026-10-14T15:52:34Z","pid":"7950185393","stage":"flagged","run":"lensworker-20261014-1545","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-14T15:52:48Z","pid":"7933008221","stage":"lensed","run":"lensworker-20261014-1549","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-14T15:52:58Z","pid":"7981636044","stage":"flagged","run":"lensworker-20261014-1549","note":null,"data":{"med":75,"ratio":3.75,"mismatch":[]}}
+{"ts":"2026-10-14T15:53:03Z","pid":"7930886421","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:53:10Z","pid":"7953268207","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:53:20Z","pid":"7954697405","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Life — title does not","data":{"med":216,"ratio":0.62,"mismatch":["Life"]}}
+{"ts":"2026-10-14T15:53:30Z","pid":"7948522388","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Silver — title does not","data":{"med":125,"ratio":0.48,"mismatch":["Silver"]}}
+{"ts":"2026-10-14T15:53:40Z","pid":"7979935089","stage":"lensed","run":"lensworker-20261014-1549","note":null,"data":{"med":25,"ratio":0.5,"mismatch":[]}}
+{"ts":"2026-10-14T15:53:48Z","pid":"7952920881","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Gibson — title does not","data":{"med":1115,"ratio":11.15,"mismatch":["Gibson"]}}
+{"ts":"2026-10-14T15:53:54Z","pid":"7947392668","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:54:05Z","pid":"7933473857","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Fisher — title does not","data":{"med":75,"ratio":7.5,"mismatch":["Fisher"]}}
+{"ts":"2026-10-14T15:54:12Z","pid":"7977811872","stage":"lensed","run":"lensworker-20261014-1549","note":null,"data":{"med":695,"ratio":1.39,"mismatch":[]}}
+{"ts":"2026-10-14T15:54:21Z","pid":"7964733174","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Enesco — title does not","data":{"med":12,"ratio":0.8,"mismatch":["Enesco"]}}
+{"ts":"2026-10-14T15:54:27Z","pid":"7962070551","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Mad, Wave — title does not","data":{"med":11,"ratio":1.1,"mismatch":["Mad","Wave"]}}
+{"ts":"2026-10-14T15:54:36Z","pid":"7943638984","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Company, Eastman Kodak — title does not","data":{"med":120,"ratio":120,"mismatch":["Company","Eastman Kodak"]}}
+{"ts":"2026-10-14T15:54:42Z","pid":"7936525233","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:54:53Z","pid":"7945055568","stage":"lensed","run":"lensworker-20261014-1549","note":null,"data":{"med":63,"ratio":1.57,"mismatch":[]}}
+{"ts":"2026-10-14T15:55:03Z","pid":"7947294440","stage":"flagged","run":"lensworker-20261014-1549","note":null,"data":{"med":495,"ratio":5.21,"mismatch":[]}}
+{"ts":"2026-10-14T15:55:10Z","pid":"7951573276","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Silver — title does not","data":{"med":79,"ratio":5.27,"mismatch":["Silver"]}}
+{"ts":"2026-10-14T15:55:18Z","pid":"7948134618","stage":"lensed","run":"lensworker-20261014-1549","note":null,"data":{"med":45,"ratio":1.13,"mismatch":[]}}
+{"ts":"2026-10-14T15:55:25Z","pid":"7946986554","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:55:33Z","pid":"7983319053","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Wilkinson — title does not","data":{"med":33,"ratio":0.82,"mismatch":["Wilkinson"]}}
+{"ts":"2026-10-14T15:55:41Z","pid":"7931428133","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Elite, Evans, Farm — title does not","data":{"med":229,"ratio":2.31,"mismatch":["Elite","Evans","Farm"]}}
+{"ts":"2026-10-14T15:55:47Z","pid":"7951460237","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Champion, Pocket, W.R. Case & Sons — title does not","data":{"med":null,"ratio":null,"mismatch":["Champion","Pocket","W.R. Case & Sons"]}}
+{"ts":"2026-10-14T15:55:54Z","pid":"7929149164","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:56:05Z","pid":"7955872757","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Gold, Jewelry, Silver — title does not","data":{"med":35,"ratio":2.33,"mismatch":["Gold","Jewelry","Silver"]}}
