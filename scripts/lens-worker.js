@@ -1,7 +1,7 @@
 // Refurbish Lens worker — the logic. Executed by the Tampermonkey loader (scripts/refurbish-lens.user.js), which
 // passes GM_getValue / GM_setValue / GM_xmlhttpRequest in. EDIT THIS FILE to change the worker: every browser picks up
 // the new version within ~10 minutes with no reinstall. Plain JS only. Bump WORKER_VERSION on every change.
-const WORKER_VERSION = '2.0.0';
+const WORKER_VERSION = '2.0.1';
 
 //
 // HOW IT WORKS (full doc: docs/lens-worker.md)
@@ -130,13 +130,17 @@ const WORKER_VERSION = '2.0.0';
       const t = document.body ? document.body.innerText : '';
       const m = measure(t); const wait = now() - t0;
       const empty = m.prices === 0 && /Results are personalized/.test(t) && !m.hasAI;
-      if (ok && !empty) {
-        const p = parseLens(t); const ratio = p.med && cur.price ? +(p.med / cur.price).toFixed(2) : null;
+      // v2.0.1: also treat a PARSED-empty page as empty (no priced rows, no AI text, best = footer text). Measured Oct 14:
+      // 20% of saved reads were 'Results are personalized' with n=0 — measure() saw prices the parser did not.
+      const p0 = (ok && !empty) ? parseLens(t) : null;
+      const parsedEmpty = !!p0 && !p0.n && (p0.ai || '').length < 20 && (!p0.best || /personalized/i.test(p0.best));
+      if (ok && !empty && !parsedEmpty) {
+        const p = p0; const ratio = p.med && cur.price ? +(p.med / cur.price).toFixed(2) : null;
         const f = (ratio !== null && ratio >= 2.5 && p.n >= 2 && p.med >= 60) || (p.collect && (p.med === null || p.med >= 80)) || (!!p.aiVal && /\$\s?[1-9]\d{2,}/.test(p.aiVal));
         finishItem({ run: 'lensworker-' + G('qid', ''), pid: cur.pid, img: cur.img, price: cur.price, ratio, med: p.med, n: p.n, c: p.collect ? 1 : 0, best: p.best, ai: p.ai, av: p.aiVal, s: p.srcs, f: f ? 1 : 0, ts: now(), rows: p.rows,
                      q: { v: WORKER_VERSION, wait, prices: m.prices, ai: m.aiDone ? 1 : 0, why } });
       } else if ((cur.tries || 0) < 1) {
-        cur.tries = (cur.tries || 0) + 1; S('cur', cur); log('incomplete page (' + why + '), retry ' + cur.pid); return next(5000);
+        cur.tries = (cur.tries || 0) + 1; S('cur', cur); log('incomplete page (' + why + (parsedEmpty ? ', parsed empty' : '') + '), retry ' + cur.pid); return next(5000);
       } else {
         const st = stats(); st.noresult++; setStats(st); log('no result after retry, left in queue for later ' + cur.pid); finishItem(null);
       }

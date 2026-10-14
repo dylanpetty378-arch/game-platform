@@ -48,7 +48,7 @@ def ingest_inbox():
             ts = datetime.datetime.fromtimestamp((x.get('ts') or time.time() * 1000) / 1000, datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
             rows.append({'ts': ts, 'pid': pid, 'run': run, 'i': x.get('i'), 'img': x.get('img'), 'price': x.get('price'), 'best': x.get('best'),
                          'med': x.get('med'), 'n': x.get('n'), 'ratio': x.get('ratio'), 'collect': x.get('c'), 'sources': x.get('s'),
-                         'ai': x.get('ai'), 'ai_value': x.get('av'), 'flag': x.get('f')})
+                         'ai': x.get('ai'), 'ai_value': x.get('av'), 'flag': x.get('f'), **({'q': x.get('q')} if x.get('q') else {})})
             # an empty/incomplete read ("Results are personalized", nothing priced, no AI text) goes straight back to the
             # queue as a re-run (at most twice per listing) instead of counting as 'lensed'
             empty = ('personalized' in (x.get('best') or '') or not x.get('best')) and not x.get('n') and len(x.get('ai') or '') < 20
