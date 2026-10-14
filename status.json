@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-14T00:10:58Z",
+ "updated": "2026-10-14T00:14:38Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7524,
-  "events": 26945,
+  "lens": 7549,
+  "events": 26970,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 497,
+  "lensed": 504,
   "comps/pass": 1,
-  "queued/relens": 401,
+  "queued/relens": 406,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 799,
+  "flagged": 812,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 129
+  "queued": 104
  },
  "last_harvests": [
   {
@@ -1292,6 +1292,17 @@
    "best": "Set of 3 Vintage Look Round Crystal Detail Fancy Brooches | eBay",
    "med": 135,
    "ratio": 13.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957814519",
+   "title": "Guns N Roses Necklace",
+   "price": 10,
+   "area": "dayton",
+   "url": "https://www.craigslist.org/view/d/dayton-guns-roses-necklace/rMRcpUUmofFfr4SgwbAKpT",
+   "best": "Metal Giyim Guns n Roses Zincirli Kolye - Fiyat\u0131",
+   "med": 133,
+   "ratio": 13.3,
    "ai_value": ""
   },
   {
@@ -2615,6 +2626,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953452400",
+   "title": "Japanese Gold Imari Decorative Plate-Hand-Painted",
+   "price": 15,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/cypress-japanese-gold-imari-decorative/sYpg3JL33Eudrj2miR9NWM",
+   "best": "Gold Imari Handpainted Japanese GIM1 Pattern Salad Plate ...",
+   "med": 84,
+   "ratio": 5.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7951643895",
    "title": "Vintage  Flying V  Soft Case",
    "price": 35,
@@ -2956,6 +2978,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983055260",
+   "title": "Kulana Electric Ukulele",
+   "price": 70,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/bradenton-kulana-electric-ukulele/8UoS1VbG3j7QXEcLApnNdo",
+   "best": "Amazon.com: Kala KA-CE Satin Mahogany Concert Acoustic ...",
+   "med": 319,
+   "ratio": 4.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7948600744",
    "title": "Pottery Pitchers & vase",
    "price": 10,
@@ -3107,6 +3140,17 @@
    "best": "Turquoise Ring Carved Feather Style Retro Women's Bohemian ...",
    "med": 129,
    "ratio": 4.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974784671",
+   "title": "Set of 6 Native American Plates",
+   "price": 60,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/arvada-set-of-native-american-plates/fkJJ3zgpKLiaAjFoGp13VU",
+   "best": "Hamilton Coll: \u201cLimited Edition\u201d4 Beautiful Plates(American ...",
+   "med": 256,
+   "ratio": 4.27,
    "ai_value": ""
   },
   {
@@ -3535,6 +3579,17 @@
    "url": "https://www.craigslist.org/view/d/kew-gardens-cuff-links-vintage/cyipbeTVCSr5KvdAXX1aBF",
    "best": "Mr. tara tie clip - Gem",
    "med": 54,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981726290",
+   "title": "Various Collectibles",
+   "price": 20,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-various-collectibles/fzzKosjgeSTdYu6nsqYxZ1",
+   "best": "COORS Light Beer 13\" Round Tray | eBay",
+   "med": 72,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -4397,6 +4452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951380603",
+   "title": "Vintage Gillette silver plated Razor set",
+   "price": 40,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-gillette-silver/q8vTaa2Gi57ukYXtMV7m2z",
+   "best": "Vintage GILLETTE known the world over Safety Shaving Razor ...",
+   "med": 110,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7953391492",
    "title": "Set of four small clay bowls",
    "price": 30,
@@ -5053,6 +5119,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-vintage-unusual-silver/3pVZ5Pee3C33y3rRUZdV4N",
    "best": "Old Indian Tribal silver pendant. Prayer box. Dangles. Fine ...",
    "med": 77,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951909049",
+   "title": "Antique United 12\" Roman Numeral Wall Clock",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/baldwin-antique-united-12-roman-numeral/pbzvrhUCNg6q7RpEyten9M",
+   "best": "Vintage large United Clock Corp. Model 47 Electric pocket ...",
+   "med": 55,
    "ratio": 2.2,
    "ai_value": ""
   },
@@ -6223,6 +6300,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946518817",
+   "title": "Native American Indian Horseback Hunter Bookends",
+   "price": 100,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/south-wellfleet-native-american-indian/pVkpZGMvLXLNokJZ61mMyH",
+   "best": "ANTIQUE SOLID BRONZE NATIVE AMERICAN INDIAN HORSE PROTEST ...",
+   "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951269784",
    "title": "Movado watch",
    "price": 200,
@@ -6384,6 +6472,17 @@
    "url": "https://www.craigslist.org/view/d/tucson-necklaces/fWZihm5DMCw5xUKmTK3xeD",
    "best": "Center (Brown cord necklace): Features an adjustable brown knotted cord (similar to macram\u00e9 or hemp) with smal",
    "med": 85,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937938716",
+   "title": "MORECAMBE, UK Charm (v2)",
+   "price": 12,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/somersworth-morecambe-uk-charm-v2/j5B2bT1ggMm5F86nDh6Y5k",
+   "best": "Morecambe UK Vintage Sterling Silver Enamel Travel Shield ...",
+   "med": 17,
    "ratio": 1.42,
    "ai_value": ""
   },
@@ -6901,6 +7000,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-sterling-silver-earrings-from/kCYAe2WPiTEUmfAjmtuWF9",
    "best": "Origin/Style: Often associated with handcrafted South American (such as Peruvian silverwork) or tribal/gypsy-i",
    "med": 35,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962179718",
+   "title": "vintage pendant with genuine agate gemstone",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/gig-harbor-vintage-pendant-with-genuine/2BRVCbHC2KAkoiTzvUSCBq",
+   "best": "Orange Shell Pendant on Sterling Silver Box Chain Necklace ...",
+   "med": 41,
    "ratio": 1.17,
    "ai_value": ""
   },
@@ -7895,6 +8005,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947940382",
+   "title": "Vintage Enesco \u201cPrecious Moments\u201d Special Figurines",
+   "price": 19,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/elkhorn-vintage-enesco-precious-moments/33JJ7TEqrF191eRdt34CqG",
+   "best": "VTG 1984 Enesco Precious Moments \"Join In The Blessings\" Mbr ...",
+   "med": 15,
+   "ratio": 0.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7958733567",
    "title": "Vintage/Sheaffer Targa #1003 Fountain Pen",
    "price": 90,
@@ -8236,6 +8357,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965427011",
+   "title": "Vintage 1920's GRUEN Art Deco Ladies Watch",
+   "price": 270,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-1920s-gruen-art-deco/pasKkMBgTaa2QePZvR7ng1",
+   "best": "Antique Swiss Emerson 20K RGP Delicate 15 Jewels Kreisler ...",
+   "med": 158,
+   "ratio": 0.59,
+   "ai_value": ""
+  },
+  {
    "pid": "7949667772",
    "title": "Memorial pocket watch honoring president Abraham Lincoln",
    "price": 125,
@@ -8254,6 +8386,17 @@
    "url": "https://www.craigslist.org/view/d/santa-monica-old-man-laughing/bCjFmBHxacubboD6KZsP3o",
    "best": "Mid-Century Modern for Sale in Santa Monica, CA - OfferUp",
    "med": 85,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973458113",
+   "title": "14k gold necklace chain",
+   "price": 350,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-14k-gold-necklace-chain/vYuGUrvMnUDAhqk9GEGRuR",
+   "best": "14k Yellow Gold Square Franco Chain (3.00 mm) | eBay",
+   "med": 199,
    "ratio": 0.57,
    "ai_value": ""
   },
