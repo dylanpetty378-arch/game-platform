@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:49:02Z",
+ "updated": "2026-10-14T15:52:59Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8788,
-  "events": 31602,
+  "lens": 8813,
+  "events": 31627,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 418,
+  "queued/relens": 422,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 464,
-  "flagged": 643,
-  "lensed": 225
+  "queued": 439,
+  "flagged": 654,
+  "lensed": 235
  },
  "last_harvests": [
   {
@@ -442,6 +442,17 @@
  ],
  "flagged_waiting": [
   {
+   "pid": "7977695499",
+   "title": "Genuine Citrine & Silvertone Necklace",
+   "price": 20,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/oak-park-genuine-citrine-silvertone/dNZuWZhqPmphLp87C6aPbY",
+   "best": "Oblong Quartz Charm - Etsy",
+   "med": 18951,
+   "ratio": 947.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7983181830",
    "title": "*** SMALL CENTURY POCKET WATCH ***",
    "price": 1,
@@ -640,6 +651,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942787999",
+   "title": "Vintage foreign beer glasses",
+   "price": 1,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-foreign-beer-glasses/gnQexqVDvUvrmrAFAPAKwB",
+   "best": "Vintage KLOSTERBR\u00c4U Koblenz RHEINISCH PILS Beer Tulip ...",
+   "med": 38,
+   "ratio": 38,
+   "ai_value": ""
+  },
+  {
    "pid": "7978088604",
    "title": "TARKEI",
    "price": 49,
@@ -714,6 +736,17 @@
    "best": "Vintage fanny turtle gold - Gem",
    "med": 798,
    "ratio": 31.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983315735",
+   "title": "Antique Silver Metal Flower Vase Chalice",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bremerton-antique-silver-metal-flower/cGPPZpr7Td7KwtBN77Mc4i",
+   "best": "Silver Vase Quadruple Plate, Wilcox Silver Plate Co. Meriden ...",
+   "med": 1063,
+   "ratio": 30.37,
    "ai_value": ""
   },
   {
@@ -966,6 +999,17 @@
    "url": "https://www.craigslist.org/view/d/shorewood-vintage-footed-condiment/gvkimKNd2ssuM1weZodARF",
    "best": "VINTAGE CREAMER & SUGAR BOWL W/ LID GERMANY L3 ...",
    "med": 105,
+   "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942461994",
+   "title": "Necklace",
+   "price": 2,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-necklace/ac2duCSUZuEwDyvEbe7kAc",
+   "best": "Avon Gold Tone Scroll Octagon Locket Necklace, Faux Lapis ...",
+   "med": 30,
    "ratio": 15,
    "ai_value": ""
   },
@@ -1594,6 +1638,17 @@
    "best": "Chinese Antique Cloisonne handmade lion incense burner ...",
    "med": 233,
    "ratio": 6.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970772840",
+   "title": "Vintage Cloisonne Vase  - Toyo Marbella by Macau",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-vintage-cloisonne-vase/264sujHpyFibXGoSDPmWws",
+   "best": "Toyo Marbella By Macau Cloisonne Green Gold Ceramic ...",
+   "med": 99,
+   "ratio": 6.6,
    "ai_value": ""
   },
   {
@@ -2517,6 +2572,17 @@
    "url": "https://www.craigslist.org/view/d/vista-vintage-afghan-east-asia-cabochon/skRdcpwiidjkxb1RzdxFb7",
    "best": "eBay",
    "med": 150,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983269331",
+   "title": "925 Sterling Silver Ring size 9",
+   "price": 30,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/bel-air-925-sterling-silver-ring-size/pqdhyLHuqFbKjPW6oteGzv",
+   "best": "Beautiful Faceted Amethyst and Crystal Vintage Ring - Etsy",
+   "med": 100,
    "ratio": 3.33,
    "ai_value": ""
   },
@@ -4941,6 +5007,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962879000",
+   "title": "Invicta lupah",
+   "price": 85,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-invicta-lupah/vtcmPhup1indKQBDv6ZZ3y",
+   "best": "Rare 1st Gen. Invicta Men's Lupah Swiss ETA Quartz ...",
+   "med": 108,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -5810,6 +5887,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7944924723",
+   "title": "Vintage Collection of 'Old\" Vegas Casino/Ashtrays/Postcards etc",
+   "price": 50,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-vintage-collection-of-old-vegas/uw2GbpoMsVb1C1avEPE6Wa",
+   "best": "Vintage Casino Ashtray \u2013 Retro Barware, Collectible Trinket ...",
+   "med": 45,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966092378",
+   "title": "Modern Abstract, Original Paintings, Signed, Art",
+   "price": 100,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/newport-modern-abstract-original/uLKYyJ5S2i4ZLxvy8xTYbx",
+   "best": "Abstract 25, Original Acrylic Painting, Signed, Framed ...",
+   "med": 90,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7983199305",
    "title": "Sterling Silver Ring - New",
    "price": 45,
@@ -6059,6 +6158,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-native-american-sterling/6LFWQUwQFqVQkah1FubP4D",
    "best": "Vintage Native American Tribal Stamps Silver Cuff Bracelet ...",
    "med": 115,
+   "ratio": 0.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962040797",
+   "title": "Vintage Asian Vase",
+   "price": 125,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/junction-city-vintage-asian-vase/nRcGMtbyxc7eawrePnWmJg",
+   "best": "Amazon.sg",
+   "med": 96,
    "ratio": 0.77,
    "ai_value": ""
   },
@@ -7510,6 +7620,17 @@
    "area": "baltimore",
    "url": "https://www.craigslist.org/view/d/silver-spring-mens-new-watch/okkM3NF4dEfdosnq7JQL7N",
    "best": "Amazon.com: Breitling Superocean Heritage II Chronograph ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950185393",
+   "title": "Vintage Daisy BB guns",
+   "price": 35,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-daisy-bb-guns/owrekM6qGrdLXtq9aim4en",
+   "best": "Daisy Model 95B BB Gun Vintage Works Good | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
