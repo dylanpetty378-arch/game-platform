@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:27:07Z",
+ "updated": "2026-10-14T16:30:57Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9038,
-  "events": 31852,
+  "lens": 9063,
+  "events": 31877,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 450,
+  "queued/relens": 455,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 214,
-  "flagged": 811,
-  "lensed": 275
+  "queued": 189,
+  "flagged": 824,
+  "lensed": 282
  },
  "last_harvests": [
   {
@@ -750,6 +750,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948313336",
+   "title": "Iced Out Cuban & Coffee Link Bracelet",
+   "price": 40,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-iced-out-cuban-coffee-link/21PMcxKXUXfo6o9KQn4oiD",
+   "best": "Apzzic 17mm Miami Cuban Link Chain Bling Iced Out Coffee ...",
+   "med": 1697,
+   "ratio": 42.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7955279212",
    "title": "Vintage African Tribal Artwork",
    "price": 20,
@@ -1157,6 +1168,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983278877",
+   "title": "Vintage Handmade Ceramic Trinket Tray",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-handmade-ceramic/v7c9k4p3mw3YZmVWsX5QmX",
+   "best": "Pink Pottery Side Plate - Etsy",
+   "med": 249,
+   "ratio": 16.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7949234254",
    "title": "Sterling Silver, Ruby,  Pearl & Diamond 18\u201d Necklace",
    "price": 90,
@@ -1553,6 +1575,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983263697",
+   "title": "Set of 6 bird coasters",
+   "price": 12,
+   "area": "newlondon",
+   "url": "https://www.craigslist.org/view/d/waterford-set-of-bird-coasters/5TaRTvT33hvsyHGmkhpMCz",
+   "best": "Vintage F\u00fcrstenberg Porcelain Bird Coasters Set of 4, Tropical ...",
+   "med": 130,
+   "ratio": 10.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7946165866",
    "title": "LAGUIOLE  KNIVES",
    "price": 100,
@@ -1572,6 +1605,17 @@
    "best": "MutualArt",
    "med": 410,
    "ratio": 10.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946222533",
+   "title": "China sculpture porcelin restaurant",
+   "price": 195,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/pauma-valley-china-sculpture-porcelin/nzdmEWLBx4Eo35yCG4Nzdd",
+   "best": "Vintage Shou Xing Shou Lao Porcelain Statue 22\" Chinese ...",
+   "med": 1980,
+   "ratio": 10.15,
    "ai_value": ""
   },
   {
@@ -1615,6 +1659,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-vintage-1985-orginal-oil-painting/3Y9R86FxKPhfdLAE7q3Cfk",
    "best": "Antonio Bachs Casteran Auction Results: Historical Sales Records",
    "med": 250,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950189765",
+   "title": "Scarab Bracelet by Burt Cassell Ca:  1960",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/aquebogue-scarab-bracelet-by-burt/rkr1iYXaijKe8kGu2aRej3",
+   "best": "1960s Gold-Filled Link Bracelet w 7 Multicolor Carved Stone ...",
+   "med": 150,
    "ratio": 10,
    "ai_value": ""
   },
@@ -2045,6 +2100,17 @@
    "best": "WorthPoint",
    "med": 65,
    "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950181153",
+   "title": "Vintage 19.5\" Cream Can w/ Lid",
+   "price": 30,
+   "area": "joplin",
+   "url": "https://www.craigslist.org/view/d/purdy-vintage-195-cream-can-lid/kkTeGmWgm19QsGCyCJhvg1",
+   "best": "Antique Farm Metal Milk Dairy Jug Container 10 gallon Can ...",
+   "med": 193,
+   "ratio": 6.43,
    "ai_value": ""
   },
   {
@@ -2587,6 +2653,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953868190",
+   "title": "Antique Brass Old Vintage Pendant Fixture Wall Mounted Light Sconce",
+   "price": 80,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-antique-brass-old-vintage/u3xE9Ur3W6GJkhoCaicSRe",
+   "best": "Amazon.com: Retro Copper Wall Lamp American Style Luxury ...",
+   "med": 364,
+   "ratio": 4.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7954349337",
    "title": "Moses Ten Commandments Sculpture",
    "price": 75,
@@ -2891,6 +2968,17 @@
    "url": "https://www.craigslist.org/view/d/chaska-limited-edition-ragnar-bobble/5WEmA7RYeaTXPDH3zux27v",
    "best": "Vintage Minnesota Vikings Ragnar Mascot Bobblehead Doll ...",
    "med": 100,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973726223",
+   "title": "Vintage Hand Carved Stone Eagle",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-hand-carved-stone/1ebkDAyAQ3qF9jArFJjTLt",
+   "best": "Peruvian Carved Black Onyx Snow Quartz American Eagle And ...",
+   "med": 80,
    "ratio": 4,
    "ai_value": ""
   },
@@ -3980,6 +4068,17 @@
    "url": "https://www.craigslist.org/view/d/austin-vintage-glass-murano-clown/sH12FXbN9L9K9F3yARUfYJ",
    "best": "Auctionet",
    "med": 165,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953478174",
+   "title": "Aspen Gold - Wolf by Maija",
+   "price": 55,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/tempe-aspen-gold-wolf-by-maija/pRakVyrRnDYawP6th9Qsrp",
+   "best": "Maija Aspen Gold Native American Maiden With Wolf Signed ...",
+   "med": 130,
    "ratio": 2.36,
    "ai_value": ""
   },
@@ -5568,6 +5667,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948214360",
+   "title": "Vintage Buttons, Mixed Lot",
+   "price": 10,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-vintage-buttons-mixed-lot/aPZPrafKcVGWvMDnHnmamE",
+   "best": "Vintage Lot of 70+ Sewing Buttons on 20 Cards Pink & Purple ...",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -6928,6 +7038,17 @@
    "url": "https://www.craigslist.org/view/d/lynn-harmony-supertone-parlor-guitar/4CPj2pacoVXGeN9vQiBZJn",
    "best": "Harmony Supertone vintage acoustic parlor guitar w/bag 1930s ...",
    "med": 400,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946992071",
+   "title": "Vintage Brazilian-made Stein: \u201cCar Classics\u201d",
+   "price": 25,
+   "area": "annarbor",
+   "url": "https://www.craigslist.org/view/d/chelsea-vintage-brazilian-made-stein/gvCwvthAWD8b2fnB8PBMgS",
+   "best": "RARE 1979 Vintage Avon Ford Cars Beer Stein | eBay",
+   "med": 25,
    "ratio": 1,
    "ai_value": ""
   },
@@ -8560,6 +8681,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980470256",
+   "title": "Large studio plate/bowl in asian style signed",
+   "price": 45,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-large-studio-plate-bowl/gGG5FWCzPznhWt15APp5Ux",
+   "best": "Studio Pottery Bowl White Cobalt Blue Brush Stroke Abstract ...",
+   "med": 15,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7959142017",
    "title": "Caravelle vintage watch just repaired good",
    "price": 400,
@@ -9358,6 +9490,17 @@
    "area": "asheville",
    "url": "https://www.craigslist.org/view/d/asheville-cool-butterscotch-vintage/8Jj1rFaUYuXvomsN9KhQZ1",
    "best": "South Shore Music",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969812705",
+   "title": "Vintage Slingerland drums",
+   "price": 350,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/santa-ana-vintage-slingerland-drums/kesBntCGTVF2ARpsz712mn",
+   "best": "Slingerland \"Spirit\" series 5 piece drum set/holders ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
