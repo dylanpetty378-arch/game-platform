@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:28:19Z",
+ "updated": "2026-10-14T15:32:21Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8663,
-  "events": 31477,
+  "lens": 8688,
+  "events": 31502,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 395,
+  "queued/relens": 399,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 589,
-  "flagged": 575,
-  "lensed": 191
+  "queued": 564,
+  "flagged": 588,
+  "lensed": 199
  },
  "last_harvests": [
   {
@@ -739,6 +739,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939795649",
+   "title": "Imari Covered Rice Bowl",
+   "price": 15,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/edgewater-imari-covered-rice-bowl/eAcnzvTyaUicsFSyNAzia6",
+   "best": "Kutani- Antique Ceramic Tea Set, Golden Floral Sencha ...",
+   "med": 275,
+   "ratio": 18.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7978226859",
    "title": "Mens goldtone cheap automatic watch",
    "price": 25,
@@ -758,6 +769,17 @@
    "best": "Collection of 7 User Blacksmith Tongs - 96841 \u2013 Jim Bode Tools",
    "med": 175,
    "ratio": 17.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930050002",
+   "title": "Oval Morganite Designer Ring",
+   "price": 65,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-oval-morganite-designer-ring/7QLucAzgxqjQqzNysceHcL",
+   "best": "Pre-Owned Morganite With Champagne Diamond 18k Rose Gold ...",
+   "med": 1100,
+   "ratio": 16.92,
    "ai_value": ""
   },
   {
@@ -901,6 +923,17 @@
    "best": "Gem",
    "med": 677,
    "ratio": 13.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974163095",
+   "title": "'Like New' Set of 2 Flower Prints/Pictures from Homco",
+   "price": 15,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/mc-farland-like-new-set-of-flower/6DzvR678FLCdKPHtR3JSum",
+   "best": "Framed Art print \"Magnolia\" by Peggy Thatch Sibley | eBay",
+   "med": 199,
+   "ratio": 13.27,
    "ai_value": ""
   },
   {
@@ -1102,6 +1135,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957058978",
+   "title": "Vintage Raku Pottery Bowl/Vase",
+   "price": 33,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-vintage-raku-pottery-bowl-vase/tfVso1VdsDd4rUcEVoXkFh",
+   "best": "Found this very cool ceramic vase in our collection. It's ...",
+   "med": 300,
+   "ratio": 9.09,
+   "ai_value": ""
+  },
+  {
    "pid": "7945172391",
    "title": "Vintage Dainty 3-D Rose Pendant on 16\" chain $10",
    "price": 10,
@@ -1208,6 +1252,17 @@
    "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-layered/dFay97uTKHZTarwJaUuY99",
    "best": "Craigslist",
    "med": 40,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978898013",
+   "title": "Casio G-shoc",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-bruno-casio-shoc/oH742k5iQhHBJTd6pqZsJc",
+   "best": "VTG CASIO G-Shock Quartz Watch G-Glide DW-003 Men 200m ...",
+   "med": 160,
    "ratio": 8,
    "ai_value": ""
   },
@@ -1339,6 +1394,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/brookhaven-vintage-tool-lot-lufkin/oMRNoynQLgw2Ko4HNaQbtW",
    "best": "Vintage tools lot mixed Estate Find Unusual Old american ...",
+   "med": 63,
+   "ratio": 6.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941755688",
+   "title": "SET of 3 Bangle Bracelets",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-set-of-bangle-bracelets/gmoGGQ2V7aBXduNgwyLywc",
+   "best": "Avon Fade to Dusk Bangle Set Med/Lrg | eBay",
    "med": 63,
    "ratio": 6.3,
    "ai_value": ""
@@ -1505,6 +1571,17 @@
    "url": "https://www.craigslist.org/view/d/san-diego-necklaces-for-sale/gs84ZsyqamJ9zM1uLY9xtA",
    "best": "Small Jewelry Display Bust - Etsy",
    "med": 27,
+   "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975306641",
+   "title": "Heart Faux Diamond Necklace",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/saugus-heart-faux-diamond-necklace/kFhhDNP6FzRtCRpxM9beAT",
+   "best": "Head pin 1pkg1 sterling silver, 2 inch / 3.5mm open heart ...",
+   "med": 81,
    "ratio": 5.4,
    "ai_value": ""
   },
@@ -1726,6 +1803,17 @@
    "best": "eBay",
    "med": 45,
    "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983254112",
+   "title": "Vintage Taylor smith signed album collage coa verso",
+   "price": 100,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/laurel-vintage-taylor-smith-signed/57PFP4TdeCtUHbBfx88Lrb",
+   "best": "Taylor Swift Tim Mcgraw for sale | eBay",
+   "med": 441,
+   "ratio": 4.41,
    "ai_value": ""
   },
   {
@@ -2562,6 +2650,17 @@
    "best": "UNIQUE STERLING SILVER TWISTED HERRINGBONE CHAIN NECKLACE 20 ...",
    "med": 90,
    "ratio": 2.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950742943",
+   "title": "Antique Omani Solid Silver Necklace",
+   "price": 450,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-antique-omani-solid-silver/haFTEk6ZMz3Ldc6ySERKb8",
+   "best": "Antique Silver Bedouin Necklace Hadramout Yemen - Etsy",
+   "med": 1150,
+   "ratio": 2.56,
    "ai_value": ""
   },
   {
@@ -4094,6 +4193,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974161394",
+   "title": "Vintage CS Osborne Leather Working Draw Gauge",
+   "price": 60,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-cs-osborne-leather/gS7d7RzAqWzFRtY51Bacsi",
+   "best": "Osborne Pistol Grip Leather Slitting Tool Draw Gage Knife ...",
+   "med": 85,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7932006187",
    "title": "Sterling Silver Pyrope Garnet & Marcasite 16\u201d-18\u201d Necklace",
    "price": 85,
@@ -5003,6 +5113,17 @@
    "url": "https://www.craigslist.org/view/d/conowingo-vintage-1958-massachusetts/wktxKQN6wfxEMrTzCYmxFc",
    "best": "LOT OF 6 VINTAGE RARE Secondary School Principles Assn ...",
    "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949795905",
+   "title": "25 Vintage Barclay WW2 Lead Soldiers",
+   "price": 100,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-washington-25-vintage-barclay-ww2/g2b45vabqeg2Bf1ubHnirz",
+   "best": "VINTAGE ANTIQUE BARCLAY METAL TOY LEAD FIGURES ARMY SOLDIER ...",
+   "med": 100,
    "ratio": 1,
    "ai_value": ""
   },
@@ -6503,6 +6624,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973198682",
+   "title": "Disney stuff",
+   "price": 70,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/cocoa-disney-stuff/q986dATCbF2b9p6DGRR6P6",
+   "best": "1903 Indian Head Cent Penny X1374 | eBay",
+   "med": 10,
+   "ratio": 0.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637414",
    "title": "Ecclissi Sterling Silver & Turquoise Cabochon 7\u201d Watch",
    "price": 170,
@@ -6762,6 +6894,17 @@
    "area": "atlanta",
    "url": "https://www.craigslist.org/view/d/acworth-lot-of-rings/2o6JefTJhrPPVUZ4HCWyNm",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981108599",
+   "title": "Vintage 1950s Pickett Dial-Rule Circular Slide Rule",
+   "price": 60,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-1950s-pickett-dial/1EJN7jLDxsCi3piNySL1v9",
+   "best": "Slide Rule Instructions | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
