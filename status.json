@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:40:33Z",
+ "updated": "2026-10-14T16:44:13Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9113,
-  "events": 31927,
+  "lens": 9138,
+  "events": 31952,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 464,
+  "queued/relens": 467,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 139,
-  "flagged": 849,
-  "lensed": 298
+  "queued": 114,
+  "flagged": 865,
+  "lensed": 304
  },
  "last_harvests": [
   {
@@ -1069,6 +1069,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983296298",
+   "title": "Lot of Small Antique Items",
+   "price": 10,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/glendale-lot-of-small-antique-items/ncSsQfuMFfHnjgWAcNNpGd",
+   "best": "Vintage Collectible Office Supplies / Set Design Props ...",
+   "med": 200,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
    "pid": "7948190890",
    "title": "Very beautiful of reprint of flower picture. Size: 30.5\" x 30.5\".",
    "price": 20,
@@ -1264,6 +1275,17 @@
    "best": "Victorian Rubies Diamonds 14K Rose Gold Silver Pendant ...",
    "med": 1480,
    "ratio": 16.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947936712",
+   "title": "7 vintage lucite art deco sculptures",
+   "price": 40,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-vintage-lucite-art-deco/bnbErtSaHrUxu3Jte118ZZ",
+   "best": "Vintage, W Anina, Signed, Acrylic, Lucite, Sculpture, of a ...",
+   "med": 650,
+   "ratio": 16.25,
    "ai_value": ""
   },
   {
@@ -1879,6 +1901,17 @@
    "url": "https://www.craigslist.org/view/d/aurora-vintage-oriental-group/7ywteveAUk5tWFJuGKKWGM",
    "best": "eBay",
    "med": 300,
+   "ratio": 8.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983256773",
+   "title": "Rickenbacker 620 Copy",
+   "price": 350,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/van-nuys-rickenbacker-620-copy/1v7HhEexFKQ8KckzuRjs1o",
+   "best": "Wildwood Guitars",
+   "med": 2999,
    "ratio": 8.57,
    "ai_value": ""
   },
@@ -3170,6 +3203,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933527953",
+   "title": "Late 1800s stoneware gin bottle, signed (Rotterdam)",
+   "price": 20,
+   "area": "annarbor",
+   "url": "https://www.craigslist.org/view/d/chelsea-late-1800s-stoneware-gin-bottle/4gmo5Q64FX91B6AN297qDE",
+   "best": "Antique Dutch Stoneware Gin Bottle Hulstkamp Zoon Molyn ...",
+   "med": 75,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7951809965",
    "title": "Raymond Weil Tango Watch",
    "price": 175,
@@ -3522,6 +3566,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963619385",
+   "title": "Lladro collection and more",
+   "price": 250,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-lladro-collection-and-more/b57FsGbe29jqNughBWghyp",
+   "best": "LLADRO Figurines Set of 10 NATIVITY SCENE No Box 4670-4680 ...",
+   "med": 795,
+   "ratio": 3.18,
+   "ai_value": ""
+  },
+  {
    "pid": "7950353213",
    "title": "diamond engagement ring",
    "price": 475,
@@ -3562,6 +3617,17 @@
    "url": "https://www.craigslist.org/view/d/union-vintage-capodimonte-style-footed/aFhTR7Ky9EfNAWLWKaw1kg",
    "best": "BEAUTIFUL VINTAGE CAPADIMONTE BASSANO ITALY DOUBLE HANDLE ...",
    "med": 155,
+   "ratio": 3.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970372820",
+   "title": "C.G. CONN SAXOPHONE",
+   "price": 355,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/newark-cg-conn-saxophone/6agJYmzKyooeSQ4sLyxbdc",
+   "best": "Vintage K & C Kohlert Silvertone Tenor Saxophone Brass ...",
+   "med": 1099,
    "ratio": 3.1,
    "ai_value": ""
   },
@@ -4479,6 +4545,17 @@
    "ai_value": "WorthPoint ANTIQUE HICKORY SHAFT TUXEDO PUTTER GOLF CLUB | #3844499567 $99"
   },
   {
+   "pid": "7955215200",
+   "title": "VINTAGE 1993  COCA COLA COLLECTIBLES",
+   "price": 35,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/saint-petersburg-vintage-1993-coca-cola/7dsmFrYWSh5W7Q9SUoY7U2",
+   "best": "1995 Coca-Cola Collection Trading Cards Series 4 - #304 ...",
+   "med": 76,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949666488",
    "title": "Vintage Navajo Sterling Turquoise &  Coral Chip Inlay Size 4 3/4 Ring",
    "price": 50,
@@ -4798,6 +4875,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932743399",
+   "title": "Vintage Mihai Topescu Art Glass",
+   "price": 70,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-vintage-mihai-topescu/kTPmot7bhAW1ncVFqLWByA",
+   "best": "Mihai Topescu Art Glass Human Circle Contemporary Green 9 ...",
+   "med": 140,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -5025,6 +5113,17 @@
    "url": "https://www.craigslist.org/view/d/denver-navajo-kachina-inlay/4YzeByjzPAAX1QyzyyjZqY",
    "best": "What is the age and stamp on the back of this Navajo jewelry?",
    "med": 200,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981715421",
+   "title": "ISAAC ABRAMS COSMIC EGG LITHOGRAPH WITH COA",
+   "price": 220,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/cosby-isaac-abrams-cosmic-egg/nBwPEoAKpwH85DKD6EsBzG",
+   "best": "Isaac Abrams, The Cosmic Egg, Lithograph, Signed and ...",
+   "med": 400,
    "ratio": 1.82,
    "ai_value": ""
   },
@@ -5337,6 +5436,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965008391",
+   "title": "Vintage Hand embroidered Elephant Tapestry",
+   "price": 175,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/pompano-beach-vintage-hand-embroidered/cw1moKRTPdsimNCzNFB7HT",
+   "best": "Thai Burmese Kalaga 3-D Embroidered Elephant Sequins Wall ...",
+   "med": 290,
+   "ratio": 1.66,
+   "ai_value": ""
+  },
+  {
    "pid": "7978458735",
    "title": "Diamond sz7 Ring",
    "price": 289,
@@ -5467,6 +5577,17 @@
    "med": 40,
    "ratio": 1.6,
    "ai_value": "Value/Price: Typically sells on the secondhand and antique market anywhere from $20 to $125"
+  },
+  {
+   "pid": "7949968122",
+   "title": "Iroquois beer tray",
+   "price": 50,
+   "area": "york",
+   "url": "https://www.craigslist.org/view/d/york-iroquois-beer-tray/6xkSJmKXMJeyUz9m1Xhe2x",
+   "best": "Vintage IROQUOIS INDIAN HEAD BEER BREWING 13\" METAL TRAY ...",
+   "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
   },
   {
    "pid": "7967793477",
@@ -6965,6 +7086,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950516915",
+   "title": "Assortment of Stenciling Decor",
+   "price": 15,
+   "area": "fingerlakes",
+   "url": "https://www.craigslist.org/view/d/canandaigua-assortment-of-stenciling/f9cBBubKqguMTWH3HH7kGp",
+   "best": "Stencils-Vinyl-Rub Ons-Transfers-Stickers-Etch-Cling-Iron On ...",
+   "med": 16,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7983165243",
    "title": "Mid Century Modern Signed Framed Sailboat Painting Vintage",
    "price": 300,
@@ -7665,6 +7797,17 @@
    "url": "https://www.craigslist.org/view/d/fort-collins-precious-moments-all/igPa5bYeecHyNmy3Nww4J9",
    "best": "eBay",
    "med": 12,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946952480",
+   "title": "Unicorn Figures Collection",
+   "price": 20,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/waterford-unicorn-figures-collection/vyMSvXMyhxrSQh66Px28Xh",
+   "best": "Schleich Bayala Unicorn Standing Retired 70521 Brand New In ...",
+   "med": 16,
    "ratio": 0.8,
    "ai_value": ""
   },
@@ -8582,6 +8725,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931623413",
+   "title": "Floral arrangement in vintage sewing Box",
+   "price": 75,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/berlin-floral-arrangement-in-vintage/p4X4Gj6frB4Yvc8gYKBY6W",
+   "best": "Wicker Sewing Basket Red & White Floral Arrangement ...",
+   "med": 36,
+   "ratio": 0.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7942923496",
    "title": "Kendra Scott Bracelet/Necklace Combo Like NEW!",
    "price": 80,
@@ -9172,6 +9326,17 @@
    "url": "https://www.craigslist.org/view/d/aliquippa-vintage-qvc-sterling-silver/6usimV9qn3gYbtUDszT1Kw",
    "best": "QVC DIAMONIQUE 14K Solid Gold 9mm Cubic Zirconia Pendant 1/2 ...",
    "med": 10,
+   "ratio": 0.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952269373",
+   "title": "14k Gold and Genuine Stone Necklace",
+   "price": 300,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/greensburg-14k-gold-and-genuine-stone/6gRPPRoPPvthkW67Mg1FVY",
+   "best": "NEW Silpada Mother of Pearl Sterling Silver Toggle 36 ...",
+   "med": 55,
    "ratio": 0.18,
    "ai_value": ""
   },
@@ -9776,6 +9941,17 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-smokeing-stuff-such/5KmWodJVBBpBidhqkZRmws",
    "best": "Vintage Collectible Tobacco Tin Mac Baren's Plum Cake | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968312276",
+   "title": "Hollowbody bass project",
+   "price": 200,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/cincinnati-hollowbody-bass-project/7raMg7NgBV8Sbic1AsUyNc",
+   "best": "Guitarra Semiac\u00fastica Sx Gg7, Custom, Gotoh, Dimarzio '57 ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

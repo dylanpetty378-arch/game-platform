@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T16:40:33Z
+# Refurbish status — 2026-10-14T16:44:13Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 849 |
-| queued/relens | 464 |
-| lensed | 298 |
-| queued | 139 |
+| flagged | 865 |
+| queued/relens | 467 |
+| lensed | 304 |
+| queued | 114 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 10
 - searches: 2386
 - listings: 10583
-- lens: 9113
-- events: 31927
+- lens: 9138
+- events: 31952
 - comps: 2156
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (849)
+## Flagged by Lens, waiting for photo review (865)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -201,6 +201,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00o0o_krD1eoKQhXI_0kI0fx_300x300.jpg" width="120"> | 7949999524 | $30 | sfbay | [Ear Studs Turquoise- Vintage](https://www.craigslist.org/view/d/san-jose-ear-studs-turquoise-vintage/fGxXt8akY3E3RTbWPmYsRT) | eBay | 620 | 20.67 |
 | <img src="https://images.craigslist.org/01111_3hVZJZWc5jP_0t90CI_300x300.jpg" width="120"> | 7977948921 | $1 | akroncanton | [Handmade necklaces](https://www.craigslist.org/view/d/akron-handmade-necklaces/kdQ8FukbijoYKXTfRhSEco) | Etsy | 20 | 20 |
 | <img src="https://images.craigslist.org/00202_9ZgTFZD0PMl_0t20CI_300x300.jpg" width="120"> | 7936737252 | $20 | albuquerque | [Elizabeth Taylor signed picture](https://www.craigslist.org/view/d/albuquerque-elizabeth-taylor-signed/6FvJuSKnNBPqHAYdcLdxHC) | eBay | 400 | 20 |
+| <img src="https://images.craigslist.org/00a0a_9twtTV20gR4_0hq0hq_300x300.jpg" width="120"> | 7983296298 | $10 | phoenix | [Lot of Small Antique Items](https://www.craigslist.org/view/d/glendale-lot-of-small-antique-items/ncSsQfuMFfHnjgWAcNNpGd) | Vintage Collectible Office Supplies / Set Design Props ... | 200 | 20 |
 | <img src="https://images.craigslist.org/00i0i_lEgkxTI5hab_0v00ng_300x300.jpg" width="120"> | 7948190890 | $20 | dallas | [Very beautiful of reprint of flower picture. Size:](https://www.craigslist.org/view/d/plano-very-beautiful-of-reprint-of/pP6wx9xSFAStEMqHdGaYcd) | Victoria Bella 24AB17/C Framed Painting Art 24" x 30" Print  | 399 | 19.95 |
 | <img src="https://images.craigslist.org/00404_hx9pDUnicwD_0t20CI_300x300.jpg" width="120"> | 7940948406 | $10 | newyork | [Vintage minature  telescope…..](https://www.craigslist.org/view/d/kew-gardens-vintage-minature-telescope/oaCrLRfjcB7ef5YEG12g9E) | eBay | 199 | 19.9 |
 | <img src="https://images.craigslist.org/01414_8RYxBrb8HIj_0kL0t2_300x300.jpg" width="120"> | 7932946037 | $5 | orangecounty | [Vintage Signed Pendant Necklace on long corded cha](https://www.craigslist.org/view/d/fountain-valley-vintage-signed-pendant/jr5iCyVbXQ992xcv4VYBZK) | Artisan Sterling Silver Dichroic Art Glass Pendant Necklace  | 94 | 18.8 |
@@ -219,6 +220,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00K0K_3rOif7fcXnJ_0lM0t2_300x300.jpg" width="120"> | 7942427495 | $10 | orangecounty | [Vintage SET of Peach colored Beaded Necklace and E](https://www.craigslist.org/view/d/fountain-valley-vintage-set-of-peach/jCQ9XurxdfqZ8Q4jeHsVjD) | SHADES of ORANGE and WHITE Jewelry Set - Etsy | 166 | 16.6 |
 | <img src="https://images.craigslist.org/00c0c_5d9fbMYJR00_0u10t2_300x300.jpg" width="120"> | 7983278877 | $15 | minneapolis | [Vintage Handmade Ceramic Trinket Tray](https://www.craigslist.org/view/d/stillwater-vintage-handmade-ceramic/v7c9k4p3mw3YZmVWsX5QmX) | Pink Pottery Side Plate - Etsy | 249 | 16.6 |
 | <img src="https://images.craigslist.org/01313_5Pf6qzmfG5o_0gy0i1_300x300.jpg" width="120"> | 7949234254 | $90 | phoenix | [Sterling Silver, Ruby,  Pearl & Diamond 18” Neckla](https://www.craigslist.org/view/d/sun-city-west-sterling-silver-ruby/7bbpQjJPofVjus92FHV7BV) | Victorian Rubies Diamonds 14K Rose Gold Silver Pendant ... | 1480 | 16.44 |
+| <img src="https://images.craigslist.org/00w0w_63kIusq64rF_0CI0CI_300x300.jpg" width="120"> | 7947936712 | $40 | atlanta | [7 vintage lucite art deco sculptures](https://www.craigslist.org/view/d/acworth-vintage-lucite-art-deco/bnbErtSaHrUxu3Jte118ZZ) | Vintage, W Anina, Signed, Acrylic, Lucite, Sculpture, of a . | 650 | 16.25 |
 | <img src="https://images.craigslist.org/00h0h_2x34J1oqttA_0jm0CI_300x300.jpg" width="120"> | 7983257346 | $20 | sfbay | [HEART PENDANTS (NEW)](https://www.craigslist.org/view/d/redwood-city-heart-pendants-new/hApSD7ABy16amBFTiUggzf) | Open CZ Heart Pendant. Style #ASP024 - Etsy | 324 | 16.2 |
 | <img src="https://images.craigslist.org/00o0o_8avRCHf6xWd_0lM0t2_300x300.jpg" width="120"> | 7932471663 | $30 | washingtondc | [Vintage 925/14k Gold Vermeil filigree Jade & Pearl](https://www.craigslist.org/view/d/fort-washington-vintage-gold-vermeil/wAuXNFrVW8gLxVWshspZLK) | eBay | 475 | 15.83 |
 | <img src="https://images.craigslist.org/00S0S_dGHaARRCYkA_0g80c6_300x300.jpg" width="120"> | 7959327315 | $7 | chicago | [Vintage Footed Condiment/Jelly Bowl & Lid](https://www.craigslist.org/view/d/shorewood-vintage-footed-condiment/gvkimKNd2ssuM1weZodARF) | VINTAGE CREAMER & SUGAR BOWL W/ LID GERMANY L3 ... | 105 | 15 |
@@ -262,5 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01111_aIYaE9jML8M_0Bh0t2_300x300.jpg" width="120"> | 7937440601 | $80 | washingtondc | [Serigraph Baicycle Rider Vintage](https://www.craigslist.org/view/d/arlington-serigraph-baicycle-rider/buwYp2BBHUPhwGxaya94mZ) | Vintage Framed "Jackrabbit" Woodcut Edition 184 Signed by .. | 800 | 10 |
 | <img src="https://images.craigslist.org/00W0W_bZlidlKbo9A_0vA0t2_300x300.jpg" width="120"> | 7941619751 | $22 | stlouis | [.925 Sterling Silver Gold Plated 3cm. Hoop Earring](https://www.craigslist.org/view/d/ballwin-925-sterling-silver-gold-plated/vYCsBXwaLhjpmxcnES8PJW) | Rigged Hoop Earring .925 Sterling Silver - BS084 / eBay | 220 | 10 |
 | <img src="https://images.craigslist.org/00f0f_hBRCau0083N_0t20CI_300x300.jpg" width="120"> | 7969478151 | $25 | austin | [Vintage 1985 Orginal Oil Painting On Canves](https://www.craigslist.org/view/d/kyle-vintage-1985-orginal-oil-painting/3Y9R86FxKPhfdLAE7q3Cfk) | Antonio Bachs Casteran Auction Results: Historical Sales Rec | 250 | 10 |
-| <img src="https://images.craigslist.org/00x0x_g9T6Kr1xiyK_0CI0t2_300x300.jpg" width="120"> | 7950189765 | $15 | longisland | [Scarab Bracelet by Burt Cassell Ca:  1960](https://www.craigslist.org/view/d/aquebogue-scarab-bracelet-by-burt/rkr1iYXaijKe8kGu2aRej3) | 1960s Gold-Filled Link Bracelet w 7 Multicolor Carved Stone  | 150 | 10 |
-| <img src="https://images.craigslist.org/00X0X_7cdxVQRDXx_0nV0t2_300x300.jpg" width="120"> | 7944220681 | $40 | phoenix | [Sterling Silver Nacre & Snowflake Obsidian Earring](https://www.craigslist.org/view/d/sun-city-west-sterling-silver-nacre/fGC9D89VvC7morbnYw4MPK) | Archway Gallery | 389 | 9.72 |
