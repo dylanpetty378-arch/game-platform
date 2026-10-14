@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T00:18:10Z
+# Refurbish status — 2026-10-14T00:21:36Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,11 +7,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 819 |
-| lensed | 512 |
-| queued/relens | 416 |
-| queued | 79 |
+| flagged | 829 |
+| lensed | 520 |
+| queued/relens | 423 |
 | decided/ask | 59 |
+| queued | 54 |
 | decided/kill | 40 |
 | expired | 11 |
 | decided/find | 8 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7574
-- events: 26995
+- lens: 7599
+- events: 27020
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (819)
+## Flagged by Lens, waiting for photo review (829)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 

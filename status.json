@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-14T00:18:10Z",
+ "updated": "2026-10-14T00:21:36Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7574,
-  "events": 26995,
+  "lens": 7599,
+  "events": 27020,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 512,
+  "lensed": 520,
   "comps/pass": 1,
-  "queued/relens": 416,
+  "queued/relens": 423,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 819,
+  "flagged": 829,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 79
+  "queued": 54
  },
  "last_harvests": [
   {
@@ -1724,6 +1724,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940980182",
+   "title": "Vintage Watercolor of Coit Tower",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-watercolor-of-coit-tower/ubx28kZCbkXXE1dUd4hhMm",
+   "best": "Large Signed Howard Watson Delaware River Philadelphia ...",
+   "med": 756,
+   "ratio": 9.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7967367567",
    "title": "VINTAGE COSTUME BRACELET AND EAR RINGS",
    "price": 40,
@@ -2879,6 +2890,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965208266",
+   "title": "Vintage Cast Iron Relief",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-bruno-vintage-cast-iron-relief/g8R7XCVeRknYZGrBcLY5s7",
+   "best": "1800s Antique Ornamental Cast Iron Fireplace Summer Cover ...",
+   "med": 496,
+   "ratio": 4.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7973619108",
    "title": "Vintage Equestrian Hat",
    "price": 20,
@@ -3616,6 +3638,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948601382",
+   "title": "Claire Burke Pitcher",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-claire-burke-pitcher/fNkc3WvxPmQqttBW89tkao",
+   "best": "Vintage CLAIRE BURCH Ceramic Pitcher Peaches | eBay",
+   "med": 36,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7955421863",
    "title": "vintage officer army cap hat",
    "price": 22,
@@ -4151,6 +4184,17 @@
    "url": "https://www.craigslist.org/view/d/gig-harbor-antique-porcelain-figurine/ez2XDJaB2f6mf6abWxqvA1",
    "best": "German Volkstedt 1762 Dresden Lace Porcelain Sitting Lady | eBay",
    "med": 191,
+   "ratio": 2.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964909322",
+   "title": "Brass Naga Kanya statue",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/mill-valley-brass-naga-kanya-statue/pdLndQRu5WKg96UjYZNKxg",
+   "best": "Amazon.com",
+   "med": 294,
    "ratio": 2.94,
    "ai_value": ""
   },
@@ -6223,6 +6267,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955325454",
+   "title": "Silver & Carnelian Ring - Size 7.5",
+   "price": 100,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-silver-carnelian-ring-size/nPtEAybCATwVpuVtuHjgGV",
+   "best": "Yemen Agate - Natural Red Agate Stone Ring 925 Silver ...",
+   "med": 155,
+   "ratio": 1.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7928899718",
    "title": "Sapphire ring 14k gold",
    "price": 400,
@@ -6362,6 +6417,17 @@
    "url": "https://www.craigslist.org/view/d/south-wellfleet-native-american-indian/pVkpZGMvLXLNokJZ61mMyH",
    "best": "ANTIQUE SOLID BRONZE NATIVE AMERICAN INDIAN HORSE PROTEST ...",
    "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981782228",
+   "title": "Vintage Brooch Barbara Lavallee Alaskan Art Cloisonne",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-brooch-barbara-lavallee/mLxGd4mAQWNyvJdEYsAQxv",
+   "best": "Alaskan Inuit Artist ARTIQUE LTD BARBARA LAVALEE Vintage ...",
+   "med": 15,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -7653,6 +7719,17 @@
    "ai_value": "sell on secondary markets like eBay or Etsy between $30"
   },
   {
+   "pid": "7969256178",
+   "title": "Vintage Monet 75th Anniversary Pearl Necklace \u2013 NEW with Tags",
+   "price": 100,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/new-windsor-vintage-monet-75th/nUorMchTfVQJiJiN8Qad5M",
+   "best": "Zoe B | Jewelry | Faith Champ Freshwater Pearlsterling ...",
+   "med": 94,
+   "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
    "pid": "7975555674",
    "title": "Large Vintage 33 Carat Blue Topaz Sterling Silver Ring",
    "price": 200,
@@ -8599,6 +8676,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944907774",
+   "title": "Vintage Sterling silver oval pendant / brooch with hand carved cameo",
+   "price": 175,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-sterling-silver-oval/cCArY8ap2fQrUGAHo1BUv4",
+   "best": "Cameo Antique Mother Of Pearl Abalone C Clasp Brooch ...",
+   "med": 80,
+   "ratio": 0.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7942013693",
    "title": "Vintage ceramic pottery",
    "price": 100,
@@ -8815,6 +8903,17 @@
    "url": "https://www.craigslist.org/view/d/brookfield-vintage-bottle-opener/kM9mfY5Xk1d1SE1Mcj7bS1",
    "best": "Lot of 22 Antique Vintage Advertising Plain Corkscrew Bottle ...",
    "med": 23,
+   "ratio": 0.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940878484",
+   "title": "Antique Chinese Rose Wood Guanyin Statue",
+   "price": 300,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/montebello-antique-chinese-rose-wood/5hjJQEZEx1HFCKdFmUNjuP",
+   "best": "vintage carving wooden Kwan-yin statue bodhisattva buddhist ...",
+   "med": 92,
    "ratio": 0.31,
    "ai_value": ""
   },
@@ -9397,6 +9496,17 @@
    "area": "milwaukee",
    "url": "https://www.craigslist.org/view/d/mequon-vintage-kingston-guitar/b6HPvGF8aTWa734FV5tCZ2",
    "best": "Guitars & Basses for sale in West Bend, Wisconsin | Facebook ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937932832",
+   "title": "Vintage Cavalier Trumpet / Cornet with Case",
+   "price": 100,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/colton-vintage-cavalier-trumpet-cornet/wBD1Yenh74XiaXccFDpxSV",
+   "best": "Antique Frank Holton Cornet 1914 W/Case Attic Find | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
