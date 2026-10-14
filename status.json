@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:02:26Z",
+ "updated": "2026-10-14T15:08:41Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8499,
-  "events": 31313,
+  "lens": 8524,
+  "events": 31338,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 360,
+  "queued/relens": 366,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 753,
-  "flagged": 469,
-  "lensed": 168
+  "queued": 728,
+  "flagged": 485,
+  "lensed": 171
  },
  "last_harvests": [
   {
@@ -450,6 +450,17 @@
    "best": "eBay",
    "med": 700,
    "ratio": 700,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937626231",
+   "title": "GORGEOUS VINTAGE 14K GOLD JEWELRY & STERLING SILVER JEWELRY COLLECTION FOR SALE",
+   "price": 1,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/peabody-gorgeous-vintage-14k-gold/qF2X37LSdg7HNYP64D4thq",
+   "best": "Craigslist",
+   "med": 320,
+   "ratio": 320,
    "ai_value": ""
   },
   {
@@ -926,6 +937,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983269466",
+   "title": "12 kt gold filled scarab bracelet VINTAGE",
+   "price": 30,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/bel-air-12-kt-gold-filled-scarab/3MNGTcSyvkoeX92HQx6Kpc",
+   "best": "eBay",
+   "med": 275,
+   "ratio": 9.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7976613474",
    "title": "Garden TOOLS LOT Vintage Antique Shabby Chic",
    "price": 9,
@@ -1175,6 +1197,17 @@
    "url": "https://www.craigslist.org/view/d/minneapolis-vintage-pocket-knives/mBb6ZtWtAvkarHe2iW9sdS",
    "best": "Lot - Vintage c. 1940's Boy Scouts of America Ulster Jack ...",
    "med": 90,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936160841",
+   "title": "18K Silver Plated Artisan Heart Charm Bracelet",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-18k-silver-plated/5fr63JD2WMEQ9yQCQhXdde",
+   "best": "eBay",
+   "med": 60,
    "ratio": 6,
    "ai_value": ""
   },
@@ -1476,6 +1509,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946052168",
+   "title": "Vintage Necklaces Marked 925, $10.00 Each, Estate Finds",
+   "price": 10,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-washington-vintage-necklaces/tpFUumQiFV3G5hNQeWThtW",
+   "best": "Etsy",
+   "med": 44,
+   "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7954787701",
    "title": "Chinese Porcelain Vase - signed",
    "price": 35,
@@ -1615,6 +1659,17 @@
    "url": "https://www.craigslist.org/view/d/westminster-vintage-poster/oz2bAnMmB4N6QWuKezNbJs",
    "best": "eBay",
    "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983294432",
+   "title": "Vintage GERDA CHRISTOFFERSEN Native American Children Watercolor",
+   "price": 10,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-gerda-christoffersen/3LBBqPf1YJb1gLNyyPpwi8",
+   "best": "Craigslist",
+   "med": 40,
    "ratio": 4,
    "ai_value": ""
   },
@@ -2070,6 +2125,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954072168",
+   "title": "Vintage Satin Glass Compote",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/everett-vintage-satin-glass-compote/6fe992gaeL35midAg5aiYt",
+   "best": "Vintage Satin Brown Glass Compote Candy Lid Dish Amber With ...",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7954408453",
    "title": "2-vintage ladies bulova 10k gold plated, needs serviced,watches.",
    "price": 40,
@@ -2477,6 +2543,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969940361",
+   "title": "Turquoise Pendant w/18kt Gold Plated Bail.",
+   "price": 42,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/ballwin-turquoise-pendant-18kt-gold/eDi2VPgfXZ3JSxMKB4Aarv",
+   "best": "Craigslist",
+   "med": 88,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7955450715",
    "title": "Painting by Zina Roitman (Hand-signed & Numbered Limited Edition)",
    "price": 60,
@@ -2647,6 +2724,17 @@
    "price": 15,
    "area": "sandiego",
    "url": "https://www.craigslist.org/view/d/carlsbad-vintage-christmas-carolers/jF6BwP4GAF6zf4rSr5Uoy6",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960557633",
+   "title": "Vintage McCoy Pottery Grape Leaf Ewer Vase",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-vintage-mccoy-pottery-grape/4qz6CccLnNhSbqwF7TZbq1",
    "best": "eBay",
    "med": 30,
    "ratio": 2,
@@ -2847,6 +2935,17 @@
    "url": "https://www.craigslist.org/view/d/renton-long-necklace/qTYXxpJDnVo8yVJGC8pm3P",
    "best": "Vintage SU ITALY 925 Sterling Silver Twisted Herringbone ...",
    "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946482442",
+   "title": "Cenere pocket watch great",
+   "price": 20,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/indianapolis-cenere-pocket-watch-great/k9qUksyo11zJLxwAN3Pdk1",
+   "best": "Cenere Brushed Nickel Pocket Watch Quartz Japan W/Leather ...",
+   "med": 36,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -3665,6 +3764,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935865994",
+   "title": "Vintage LONG Layered Gold tone Necklace",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-long-layered/8CfxzYkMmZoVNa6ET1jBAE",
+   "best": "Lab Created Opal Double Sided Slab Style 2 Strand Necklace ...",
+   "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7949280819",
    "title": "Sterling Silver Evil Eye 7 1/2\u201d Bracelet",
    "price": 30,
@@ -4259,6 +4369,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936224576",
+   "title": "Bling ring fashion lot",
+   "price": 100,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-bling-ring-fashion-lot/sTD3r8D71EyHYxUe9wUbFA",
+   "best": "Instagram",
+   "med": 96,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7954817436",
    "title": "Vintage Fragonard Lot of 2 Brooches Porcelain Romantic Scene & Gold Tr",
    "price": 22,
@@ -4842,6 +4963,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975032894",
+   "title": "Collection of Hummels",
+   "price": 100,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/dickson-collection-of-hummels/aqgUsoHAVWA3r9WPx1iLPm",
+   "best": "Goebel Hummel #333 \"Blessed Event\" 5-1/2 inches tall TMK5 ...",
+   "med": 60,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7933722942",
    "title": "New Vintage Doll/Clown Heads & Doll Faces",
    "price": 35,
@@ -4893,6 +5025,17 @@
    "url": "https://www.craigslist.org/view/d/columbus-hummel-figures/dCVyS632tFk4pKtxASytMX",
    "best": "Vintage Goebel Hummel Figurine \u201cSerenade\u201d #85 | eBay",
    "med": 38,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945993368",
+   "title": "Antique Chinese Cloisonne Vase",
+   "price": 180,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-antique-chinese-cloisonne-vase/88nK1BwFHWXBMRF8BXRtuA",
+   "best": "eBay",
+   "med": 98,
    "ratio": 0.54,
    "ai_value": ""
   },
@@ -5337,6 +5480,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935004452",
+   "title": "Vintage Randy Souders Country Grocery Lithograph",
+   "price": 80,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/bay-village-vintage-randy-souders/2u8dYZKCJxqD2RHXU1Srdh",
+   "best": "eBay",
+   "med": 18,
+   "ratio": 0.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7961378814",
    "title": "Vintage 1981 ToyTime Inc. Wizard of Oz dolls set Of 3",
    "price": 60,
@@ -5399,6 +5553,17 @@
    "url": "https://www.craigslist.org/view/d/round-rock-vintage-organdie-vernonware/b9WtDijLFzsr9PxgjweYWH",
    "best": "Vintage Vernon Kilns Vernonware ORGANDIE OVAL PLATTER MID ...",
    "med": 20,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955938397",
+   "title": "Old Bardstown Citation Bourbon Decanter Stopper",
+   "price": 25,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/shepherdsville-old-bardstown-citation/fvVxnh2Gf2w2iHdAcAg3Ga",
+   "best": "T\u00eate de jockey sur bouchon li\u00e8ge de bouteille - Arts de la table",
+   "med": 5,
    "ratio": 0.2,
    "ai_value": ""
   },
@@ -5596,6 +5761,17 @@
    "area": "seattle",
    "url": "https://www.craigslist.org/view/d/everett-vintage-girl-scout-knife/2mVjTLkyYB2nzN4Aknf9az",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976207856",
+   "title": "LOT/Set of 2 Vintage Laffun Head Squirter Bibi Products Peter Figuren",
+   "price": 100,
+   "area": "ocala",
+   "url": "https://www.craigslist.org/view/d/coleman-lot-set-of-vintage-laffun-head/eQiKAwW9qddQVu2DUjmajz",
+   "best": "Etsy",
    "med": null,
    "ratio": null,
    "ai_value": ""
