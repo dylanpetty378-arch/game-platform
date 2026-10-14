@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:20:06Z",
+ "updated": "2026-10-14T06:23:52Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7849,
-  "events": 29863,
+  "lens": 7874,
+  "events": 29888,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 603,
-  "flagged": 167,
-  "lensed": 32
+  "queued": 578,
+  "flagged": 184,
+  "lensed": 40
  },
  "last_harvests": [
   {
@@ -463,6 +463,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952605223",
+   "title": "Beautiful sterling silver bracelet marked 925",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-beautiful-sterling-silver/q12nRXCWatTK4vPWcwkBEk",
+   "best": "Vintage Lovely Silver & Gold Tone Magnetic Therapy Bracelet ...",
+   "med": 1650,
+   "ratio": 33,
+   "ai_value": ""
+  },
+  {
    "pid": "7948667406",
    "title": "Handmade ceramic vase",
    "price": 20,
@@ -606,6 +617,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7941465612",
+   "title": "2 Antique porcelain lamps",
+   "price": 40,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-antique-porcelain-lamps/atniEj5vg98eHBb2Mccyp1",
+   "best": "Vintage Porcelain Hand Painted Detailed Floral Table Lamp ...",
+   "med": 299,
+   "ratio": 7.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983124731",
+   "title": "Vintage Baitcast Reel",
+   "price": 40,
+   "area": "myrtlebeach",
+   "url": "https://www.craigslist.org/view/d/calabash-vintage-baitcast-reel/epsYks6eVXFMYnY18nUkbg",
+   "best": "Abu Garcia Ambassadeur 5000D Green Casting Reel /Sweden 1975 ...",
+   "med": 295,
+   "ratio": 7.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135039",
    "title": "NEW 10K Sapphire & Diamond Ring",
    "price": 75,
@@ -647,6 +680,17 @@
    "best": "Wallapop",
    "med": 60,
    "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933438341",
+   "title": "Vintage Asian Brass Incense Burner / Censer",
+   "price": 70,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/homosassa-vintage-asian-brass-incense/xx5gJy1wkPgesKnDo3aBFG",
+   "best": "eBay",
+   "med": 400,
+   "ratio": 5.71,
    "ai_value": ""
   },
   {
@@ -771,6 +815,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977117720",
+   "title": "Danville Banjo",
+   "price": 100,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-danville-banjo/6pf7rE3ZQzgBz9KT5o4ebL",
+   "best": "Gretsch 5 String Banjos for sale | eBay",
+   "med": 400,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7961334891",
    "title": "Faye Freedman Signed 1960s",
    "price": 80,
@@ -845,6 +900,28 @@
    "best": "Julian Espinosa 1971 - Ignacio Fleta style classical guitar ...",
    "med": 350,
    "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974693465",
+   "title": "Vintage Alfred Dunhill cast iron rotating ashtray",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lonsdale-vintage-alfred-dunhill-cast/mR7pfueTsqf4xE7cFDqZ6z",
+   "best": "ANTIQUE ALFRED DUNHILL CAST IRON CIGAR ORNATE COBRA ASHTRAY ...",
+   "med": 84,
+   "ratio": 3.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944219985",
+   "title": "Vintage Sterling Silver Amethyst & Marcasite CPI Earrings",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-sterling-silver/7ZsbLnJcStjzJHH3wvnRMP",
+   "best": "Boho Amethyst Dangle Earrings Sterling Silver Gold Large ...",
+   "med": 130,
+   "ratio": 3.25,
    "ai_value": ""
   },
   {
@@ -944,6 +1021,17 @@
    "best": "eBay",
    "med": 65,
    "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948625232",
+   "title": "Sterling Silver Twisted Herringbone 20 1/2\u201d Necklace",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-twisted/jspKkgx9uM57zkvzwgBHVV",
+   "best": "UNIQUE STERLING SILVER TWISTED HERRINGBONE CHAIN NECKLACE 20 ...",
+   "med": 90,
+   "ratio": 2.57,
    "ai_value": ""
   },
   {
@@ -1607,6 +1695,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949254133",
+   "title": "Vintage Suarti Sterling Silver & Cultured Pearl Cuff",
+   "price": 160,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-suarti-sterling/hzh2Cf1TpfR8VSA8jVnbab",
+   "best": "GreaterGood",
+   "med": 185,
+   "ratio": 1.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7950006923",
    "title": "Vintage Navajo Sterling Silver & Robins Egg Blue Turquoise Size 10Ring",
    "price": 130,
@@ -1739,6 +1838,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965838347",
+   "title": "Antique NewYork Hudson River",
+   "price": 120,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-antique-newyork-hudson-river/bL2zoUTvfcHdVKCnSchFR6",
+   "best": "Hudson Valley Paintings Auction Ending 5/21",
+   "med": 125,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
    "pid": "7943192265",
    "title": "Sterling Silver & Coral Size 6 Ring",
    "price": 30,
@@ -1747,6 +1857,17 @@
    "best": "Etsy",
    "med": 30,
    "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943637872",
+   "title": "Sterling Silver Vintage Rocha Braided Cuff Bracelet",
+   "price": 170,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-vintage/p5PyDZhF8Sgvmf5GUz5S6f",
+   "best": "Mexican Braided Sterling Silvef Cuff Bracelet (rocha ...",
+   "med": 165,
+   "ratio": 0.97,
    "ai_value": ""
   },
   {
@@ -1871,6 +1992,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945235612",
+   "title": "Neher Pottery Handwarmer Mug",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-neher-pottery-handwarmer-mug/byWSiSxD5y8ZRcbze4e5jU",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7952296200",
    "title": "VINTAGE ONYX and MARCASITE PENDANTS on STERLING CHAINS",
    "price": 69,
@@ -1915,6 +2047,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950732303",
+   "title": "Sterling Silver Pearl Necklace",
+   "price": 70,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-sterling-silver-pearl-necklace/riagiLrZxnaiKR8fpQ2wNo",
+   "best": "\u041c\u043e\u0439 \u041c\u0438\u0440",
+   "med": 46,
+   "ratio": 0.66,
+   "ai_value": ""
+  },
+  {
    "pid": "7939308740",
    "title": "Vintage Joy Mex Sterling Silver & Inlay Turquoise Ring Size 6",
    "price": 40,
@@ -1922,6 +2065,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-joy-mex-sterling/vNRnjHMFvNipXDbr3Rx5zF",
    "best": "eBay",
    "med": 25,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950748311",
+   "title": "JEWELRY",
+   "price": 400,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/spencerport-jewelry/dy4jBMc4sGgcnH4xHGXCCQ",
+   "best": "Native American J Nelson Turquoise Pendant Sterling Silver ...",
+   "med": 251,
    "ratio": 0.63,
    "ai_value": ""
   },
@@ -2080,6 +2234,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944724677",
+   "title": "Jewelry group 4",
+   "price": 45,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/broken-arrow-jewelry-group/nSxjXZrr5HS6SoXM9qdRX4",
+   "best": "Gold Tone Slide Beaded Necklace Simple & Dainty NWOT | eBay",
+   "med": 20,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7983222369",
    "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
    "price": 38,
@@ -2157,6 +2322,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944220262",
+   "title": "Sterling Silver Disco Ball Hoop Earrings",
+   "price": 45,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-disco/8TRKv7BcDt8vGBNQiNPGbX",
+   "best": "Round Wire Hoop Black Silver Stones Earrings Dangle Drop ...",
+   "med": 15,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7947692482",
    "title": "WALTHAM 25 Self Winding Watch",
    "price": 320,
@@ -2209,6 +2385,17 @@
    "best": "Etsy",
    "med": 25,
    "ratio": 0.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975122936",
+   "title": "Jewelry Business Start up",
+   "price": 300,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-jewelry-business-start-up/3ece4fV6PTZ2KcDAuChQ1S",
+   "best": "Green Stone Jewelry Set- 18\u201d Necklace W/ Silver Accents ...",
+   "med": 17,
+   "ratio": 0.06,
    "ai_value": ""
   },
   {
