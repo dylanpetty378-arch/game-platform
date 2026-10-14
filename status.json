@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:56:30Z",
+ "updated": "2026-10-14T15:59:55Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8838,
-  "events": 31652,
+  "lens": 8863,
+  "events": 31677,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 428,
+  "queued/relens": 431,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 414,
-  "flagged": 668,
-  "lensed": 240
+  "queued": 389,
+  "flagged": 687,
+  "lensed": 243
  },
  "last_harvests": [
   {
@@ -441,6 +441,17 @@
   }
  ],
  "flagged_waiting": [
+  {
+   "pid": "7983256881",
+   "title": "large collection of lighting",
+   "price": 1,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/hugo-large-collection-of-lighting/88trK5tVVHmLJ6mn1fPwyg",
+   "best": "Vintage Shop",
+   "med": 2401,
+   "ratio": 2401,
+   "ai_value": ""
+  },
   {
    "pid": "7977695499",
    "title": "Genuine Citrine & Silvertone Necklace",
@@ -915,6 +926,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948745843",
+   "title": "ANTIQUE POTTERY VASE",
+   "price": 45,
+   "area": "kalispell",
+   "url": "https://www.craigslist.org/view/d/kalispell-antique-pottery-vase/1qUEk7mUWJ8BqspViHV7BF",
+   "best": "eBay",
+   "med": 795,
+   "ratio": 17.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7978226859",
    "title": "Mens goldtone cheap automatic watch",
    "price": 25,
@@ -1034,6 +1056,17 @@
    "med": 299,
    "ratio": 14.95,
    "ai_value": ""
+  },
+  {
+   "pid": "7959224205",
+   "title": "Vintage Conquistador sculpture",
+   "price": 20,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-conquistador-sculpture/f71RPUb2qVJ4jY6nhAtEm1",
+   "best": "Nextdoor",
+   "med": 299,
+   "ratio": 14.95,
+   "ai_value": "sell anywhere from $20 to $300"
   },
   {
    "pid": "7954381637",
@@ -1630,6 +1663,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972199868",
+   "title": "VINTAGE JADE AND ART GLASS BONSAI TREE",
+   "price": 35,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-vintage-jade-and-art/hQC35y8KwBxYk7Z1VgQNop",
+   "best": "alvenstad.se",
+   "med": 250,
+   "ratio": 7.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7971367368",
    "title": "Vintage 17\" Doll",
    "price": 9,
@@ -1704,6 +1748,17 @@
    "best": "eBay",
    "med": 64,
    "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975305096",
+   "title": "Necklace Heart Design Locklet",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/saugus-necklace-heart-design-locklet/7jAqQaA9CkTaSYSLTtFzsR",
+   "best": "Craigslist",
+   "med": 95,
+   "ratio": 6.33,
    "ai_value": ""
   },
   {
@@ -1971,6 +2026,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953268108",
+   "title": "Hummels each",
+   "price": 20,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/ormond-beach-hummels-each/tQdGntKfy3prbK25DjFKVq",
+   "best": "eBay",
+   "med": 105,
+   "ratio": 5.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7947294440",
    "title": "Vintage Pocket Knives",
    "price": 95,
@@ -2055,6 +2121,17 @@
    "url": "https://www.craigslist.org/view/d/palmyra-20-pieces-of-antique-sewing/wqTZhovFnuWtuxPrf7kuKz",
    "best": "eBay",
    "med": 50,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930397413",
+   "title": "Teisco Vintage Short Scale Neck",
+   "price": 40,
+   "area": "yubasutter",
+   "url": "https://www.craigslist.org/view/d/yuba-city-teisco-vintage-short-scale/fm9UKgZSYUuDqFENbrDVk2",
+   "best": "Reverb",
+   "med": 200,
    "ratio": 5,
    "ai_value": ""
   },
@@ -2385,6 +2462,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-antique-french-fashion-hand/jFTBarTR7fhA2R5BbzkQFB",
    "best": "Vintage French Fashion Prints From The 1860s, Set Of 3 | eBay",
    "med": 1200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941245410",
+   "title": "Old ions",
+   "price": 5,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/broken-arrow-old-ions/a9YEGx92thsUriumewettQ",
+   "best": "eBay",
+   "med": 20,
    "ratio": 4,
    "ai_value": ""
   },
@@ -3313,6 +3401,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969919448",
+   "title": "Vintage Glass Murano Clown Pumpkin 7\" Figurine",
+   "price": 70,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-glass-murano-clown/sH12FXbN9L9K9F3yARUfYJ",
+   "best": "Auctionet",
+   "med": 165,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7948270211",
    "title": "Vintage Arrow Express Train",
    "price": 40,
@@ -3918,6 +4017,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970248293",
+   "title": "Vintage Wooden Duck Decoy",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/franklin-vintage-wooden-duck-decoy/2pRFATxRRNud2i547JfTR9",
+   "best": "eBay",
+   "med": 57,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7968965697",
    "title": "New Vintage Barse Sterling Silver & Picture Jasper 17\u201d Necklace",
    "price": 40,
@@ -3936,6 +4046,17 @@
    "url": "https://www.craigslist.org/view/d/everett-pandora-leather-bracelet-with/6FVdGnu4xUeN8QeKQ4556t",
    "best": "PANDORA Made With Love .925 STERLING SLIVER Charm Bracelet ...",
    "med": 169,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934955155",
+   "title": "Ornate Satsuma Pitcher /Handpainted and Signed >Birds in Garden Scene",
+   "price": 40,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-ornate-satsuma-pitcher/dGWJ7Eo8Px3KcoqgmoQQJZ",
+   "best": "meg tyndall design | @seahivestation_secondsundays this ...",
+   "med": 75,
    "ratio": 1.88,
    "ai_value": ""
   },
@@ -4256,6 +4377,17 @@
    "best": "Elvis Presley",
    "med": 150,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940571871",
+   "title": "Antique brass civil war buckle",
+   "price": 55,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-antique-brass-civil-war/neAiPTA26qarZc7Zx3v8dN",
+   "best": "Antique Style Military Civil War US UNION Belt Buckle Oval ...",
+   "med": 90,
+   "ratio": 1.64,
    "ai_value": ""
   },
   {
@@ -5205,6 +5337,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931444027",
+   "title": "Swarovski Miniature Crystal Animals",
+   "price": 100,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-swarovski-miniature-crystal/2VUCWgdDk9kHanzWBne9Td",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -5414,6 +5557,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969917684",
+   "title": "Set of 3 Small Handcarved Wood Mini Masks from Indonesia",
+   "price": 35,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-set-of-small-handcarved-wood/xj4csCD4SCqYayQttxUh29",
+   "best": "VTG Hand Crafted Wood Java Dancer Mask Wall D\u00e9cor Javanese ...",
+   "med": 40,
+   "ratio": 1.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7939232593",
    "title": "24\" Lion Head Pendant Necklace and Bracelet Gold Tone all for $15",
    "price": 15,
@@ -5597,6 +5751,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-sterling-silver/eqhEsBpUTWc8DFz7jFahVb",
    "best": "AT 93 Feather Bead Oval Cuff Bracelet Sterling Silver Coral ...",
    "med": 214,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949757633",
+   "title": "jjj Jewelry Brooch Pin - Butterfly",
+   "price": 15,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/mckinney-jjj-jewelry-brooch-pin/7hE2DyUPU29sPnP8Ed4QPA",
+   "best": "Etsy",
+   "med": 16,
    "ratio": 1.07,
    "ai_value": ""
   },
@@ -5872,6 +6037,17 @@
    "url": "https://www.craigslist.org/view/d/phoenix-vintage-fragonard-lot-of/mocLfGhRsQviXQ1wVPM3ab",
    "best": "Vintage Fragonard Courting Couple Brooch Pendant | eBay",
    "med": 21,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935902054",
+   "title": "Antique Style Round Porcelain Vase w/Floral Designs - Made in China",
+   "price": 20,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/south-dennis-antique-style-round/cBwuawnW8nzZDLChuNScum",
+   "best": "Craigslist",
+   "med": 19,
    "ratio": 0.95,
    "ai_value": ""
   },
@@ -6741,6 +6917,17 @@
    "url": "https://www.craigslist.org/view/d/epping-antique-chinese-cloisonne-vase/88nK1BwFHWXBMRF8BXRtuA",
    "best": "eBay",
    "med": 98,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970178879",
+   "title": "Old coin banks odd stuff",
+   "price": 50,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/old-coin-banks-odd-stuff/jgDhxjqK6xByeAJX29tiVg",
+   "best": "Vintage Accents | Vintage Pink Rabbit Bank Unique Decor Easter Rubber Hard Plastic Blow Mold Mcm | Color: Pink",
+   "med": 27,
    "ratio": 0.54,
    "ai_value": ""
   },
@@ -7785,6 +7972,28 @@
    "area": "charlotte",
    "url": "https://www.craigslist.org/view/d/mount-holly-davy-allison-case-xx-knife/x5ndcTFERb4sCBuqwenMqo",
    "best": "Case XX Trapper Davey Allison",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968060678",
+   "title": "Schrade Walden model 163",
+   "price": 35,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-schrade-walden-model-163/dsEAZFYTzLTUKYu7YEW6v6",
+   "best": "Vintage CROWING ROOSTER 3.5\" Stockman with ZEBRA WOOD ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929853538",
+   "title": "12\u201d Tama Drum Tom",
+   "price": 45,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/pompano-beach-12-tama-drum-tom/ven8DMPCgrjarpQsYPTbAz",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""

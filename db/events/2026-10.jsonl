@@ -31650,3 +31650,28 @@
 {"ts":"2026-10-14T15:55:47Z","pid":"7951460237","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Champion, Pocket, W.R. Case & Sons — title does not","data":{"med":null,"ratio":null,"mismatch":["Champion","Pocket","W.R. Case & Sons"]}}
 {"ts":"2026-10-14T15:55:54Z","pid":"7929149164","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
 {"ts":"2026-10-14T15:56:05Z","pid":"7955872757","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Gold, Jewelry, Silver — title does not","data":{"med":35,"ratio":2.33,"mismatch":["Gold","Jewelry","Silver"]}}
+{"ts":"2026-10-14T15:56:15Z","pid":"7969917684","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Imports — title does not","data":{"med":40,"ratio":1.14,"mismatch":["Imports"]}}
+{"ts":"2026-10-14T15:56:22Z","pid":"7948745843","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Gonda Hirosuke, Phoenix — title does not","data":{"med":795,"ratio":17.67,"mismatch":["Gonda Hirosuke","Phoenix"]}}
+{"ts":"2026-10-14T15:56:32Z","pid":"7975305096","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Silver — title does not","data":{"med":95,"ratio":6.33,"mismatch":["Silver"]}}
+{"ts":"2026-10-14T15:56:39Z","pid":"7931444027","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Collectible — title does not","data":{"med":125,"ratio":1.25,"mismatch":["Collectible"]}}
+{"ts":"2026-10-14T15:56:46Z","pid":"7953575997","stage":"lensed","run":"lensworker-20261014-1549","note":null,"data":{"med":29,"ratio":1.93,"mismatch":[]}}
+{"ts":"2026-10-14T15:56:58Z","pid":"7969919448","stage":"flagged","run":"lensworker-20261014-1549","note":null,"data":{"med":165,"ratio":2.36,"mismatch":[]}}
+{"ts":"2026-10-14T15:57:06Z","pid":"7983256881","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Origin — title does not","data":{"med":2401,"ratio":2401,"mismatch":["Origin"]}}
+{"ts":"2026-10-14T15:57:14Z","pid":"7953268108","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Goebel — title does not","data":{"med":105,"ratio":5.25,"mismatch":["Goebel"]}}
+{"ts":"2026-10-14T15:57:24Z","pid":"7940571871","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names History, Military, Museum, Union — title does not","data":{"med":90,"ratio":1.64,"mismatch":["History","Military","Museum","Union"]}}
+{"ts":"2026-10-14T15:57:31Z","pid":"7935902054","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Pink, Platinum, Studio — title does not","data":{"med":19,"ratio":0.95,"mismatch":["Pink","Platinum","Studio"]}}
+{"ts":"2026-10-14T15:57:38Z","pid":"7934955155","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Derby, Royal — title does not","data":{"med":75,"ratio":1.88,"mismatch":["Derby","Royal"]}}
+{"ts":"2026-10-14T15:57:46Z","pid":"7970178879","stage":"flagged","run":"lensworker-20261014-1549","note":"Lens names Pink, Size — title does not","data":{"med":27,"ratio":0.54,"mismatch":["Pink","Size"]}}
+{"ts":"2026-10-14T15:57:53Z","pid":"7978246926","stage":"lensed","run":"lensworker-20261014-1549","note":null,"data":{"med":20,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-14T15:58:00Z","pid":"7942983167","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:58:07Z","pid":"7946677531","stage":"queued","status":"relens","run":"lensworker-20261014-1549","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:58:16Z","pid":"7956286835","stage":"lensed","run":"lensworker-20261014-1556","note":null,"data":{"med":50,"ratio":2.5,"mismatch":[]}}
+{"ts":"2026-10-14T15:58:23Z","pid":"7970248293","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Eyes — title does not","data":{"med":57,"ratio":1.9,"mismatch":["Eyes"]}}
+{"ts":"2026-10-14T15:58:30Z","pid":"7972199868","stage":"flagged","run":"lensworker-20261014-1556","note":null,"data":{"med":250,"ratio":7.14,"mismatch":[]}}
+{"ts":"2026-10-14T15:58:37Z","pid":"7978772502","stage":"queued","status":"relens","run":"lensworker-20261014-1556","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T15:58:44Z","pid":"7930397413","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Kay — title does not","data":{"med":200,"ratio":5,"mismatch":["Kay"]}}
+{"ts":"2026-10-14T15:58:52Z","pid":"7929853538","stage":"flagged","run":"lensworker-20261014-1556","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-14T15:59:02Z","pid":"7968060678","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names King, Pocket — title does not","data":{"med":null,"ratio":null,"mismatch":["King","Pocket"]}}
+{"ts":"2026-10-14T15:59:08Z","pid":"7949757633","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Gold — title does not","data":{"med":16,"ratio":1.07,"mismatch":["Gold"]}}
+{"ts":"2026-10-14T15:59:19Z","pid":"7941245410","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Iron, Size — title does not","data":{"med":20,"ratio":4,"mismatch":["Iron","Size"]}}
+{"ts":"2026-10-14T15:59:30Z","pid":"7959224205","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Spanish, Universal — title does not","data":{"med":299,"ratio":14.95,"mismatch":["Spanish","Universal"]}}
