@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:16:42Z",
+ "updated": "2026-10-14T06:20:06Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7824,
-  "events": 29838,
+  "lens": 7849,
+  "events": 29863,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 628,
-  "flagged": 145,
-  "lensed": 29
+  "queued": 603,
+  "flagged": 167,
+  "lensed": 32
  },
  "last_harvests": [
   {
@@ -485,6 +485,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932471663",
+   "title": "Vintage 925/14k Gold Vermeil filigree Jade & Pearl Earrings",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fort-washington-vintage-gold-vermeil/wAuXNFrVW8gLxVWshspZLK",
+   "best": "eBay",
+   "med": 475,
+   "ratio": 15.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7949421619",
    "title": "Handmade Pottery Pitcher",
    "price": 20,
@@ -617,6 +628,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950050388",
+   "title": "New Sterling Silver Earrings",
+   "price": 10,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-new-sterling-silver-earrings/wVad9TU8Ap6sTcwsAUdzfJ",
+   "best": "eBay",
+   "med": 64,
+   "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7952660752",
    "title": "Vintage 3d postcards lot of 17",
    "price": 10,
@@ -738,6 +760,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935689731",
+   "title": "Collection of Animals Figurines",
+   "price": 55,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-collection-of-animals/459JVnd9k4yAin5jXZAWzC",
+   "best": "4 JORGE WILMOT Vintage Mexican Tonala ART POTTERY Dove Duck ...",
+   "med": 220,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7961334891",
    "title": "Faye Freedman Signed 1960s",
    "price": 80,
@@ -790,6 +823,17 @@
    "best": "eBay",
    "med": 145,
    "ratio": 3.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942835524",
+   "title": "Navajo Sterling Silver & Turquoise Belt Buckle",
+   "price": 150,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-sterling-silver/8H28E6ycL4xMHtBL4r4Yri",
+   "best": "eBay",
+   "med": 540,
+   "ratio": 3.6,
    "ai_value": ""
   },
   {
@@ -1024,6 +1068,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7946287024",
+   "title": "Vintage Auggie Douglas Navajo Sterling Silver & Turquoise Ring 6 1/2",
+   "price": 125,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-auggie-douglas/66fqG9nEJHuTMbVPgfykJR",
+   "best": "Etsy",
+   "med": 250,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964306760",
+   "title": "Set of 6 Vintage Castleton Ironstone Bowls/Saucers/Plates",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/shorewood-set-of-vintage-castleton/9tWebEgKtB3Lq3GgEs7Pkv",
+   "best": "VTG Independence Ironstone Castleton Japan GARLAND Octagonal ...",
+   "med": 50,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7931592455",
    "title": "Sterling silver garnet earrings",
    "price": 25,
@@ -1145,6 +1211,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948668528",
+   "title": "Sterling silver bracelet with sqares",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-sterling-silver-bracelet-with/kEWJB3RAv1wrfF5KSMuBcZ",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 1.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7933078547",
    "title": "Vintage rensie ladies working wristwatch,1940s-1950s,wind up.",
    "price": 30,
@@ -1222,6 +1299,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967793477",
+   "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
+   "price": 80,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-sterling-silver-amethyst/769h5QmiecCwbqCFZVxdC7",
+   "best": "Sterling Silver Amethyst Bracelet Vintage | eBay",
+   "med": 127,
+   "ratio": 1.59,
+   "ai_value": ""
+  },
+  {
    "pid": "7931762213",
    "title": "Vintage Turquoise & Sterling Silver Navajo Cuff - 110g",
    "price": 445,
@@ -1288,6 +1376,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961842764",
+   "title": "Antique Engraving  Portrait",
+   "price": 60,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-antique-engraving-portrait/hrDTiXzXSwEWUBMh6dDd81",
+   "best": "Auctionet",
+   "med": 90,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -1296,6 +1395,28 @@
    "best": "Etsy",
    "med": 37,
    "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983210357",
+   "title": "Sterling Silver Filigree Earrings",
+   "price": 40,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/roseburg-sterling-silver-filigree/eg46pHRsfMowP5tZgQaoaj",
+   "best": "Etsy",
+   "med": 59,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958902101",
+   "title": "Vintage Avon Double Strand Faux Pearl signed Necklace Set",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/hamel-vintage-avon-double-strand-faux/de331BgG8qQf5fmSNDMTFr",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 1.47,
    "ai_value": ""
   },
   {
@@ -1354,6 +1475,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983184308",
+   "title": "Vintage Natural Pink & Green Tourmaline Ring in Floral Motif 14K Gold",
+   "price": 380,
+   "area": "annapolis",
+   "url": "https://www.craigslist.org/view/d/gambrills-vintage-natural-pink-green/stpLmPWB1q6xqDxzaHjG5B",
+   "best": "Antiques And Teacups",
+   "med": 495,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -1398,6 +1530,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7946579217",
+   "title": "Vintage Nicaraguan Folk Art Vase",
+   "price": 20,
+   "area": "boone",
+   "url": "https://www.craigslist.org/view/d/vilas-vintage-nicaraguan-folk-art-vase/wUomYd9qEzMJpcGM2fNHcf",
+   "best": "boone.craigslist.org",
+   "med": 25,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943192526",
+   "title": "Sterling Silver & Turquoise Size 7 1/4 Ring",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/6ZpVB2vw1VJ7kLTP6j6RZu",
+   "best": "Etsy",
+   "med": 43,
+   "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7955408722",
    "title": "Earring-sterling and turquoise",
    "price": 25,
@@ -1428,6 +1582,28 @@
    "best": "Etsy",
    "med": 120,
    "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944220529",
+   "title": "Sterling Silver Earrings",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-earrings/7obY7EiQaeVnJK1H2egeBN",
+   "best": "Article Consignment",
+   "med": 36,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950509932",
+   "title": "New Set of 2 Hand-Crafted Clay Figurines",
+   "price": 85,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/castro-valley-new-set-of-hand-crafted/goRxp1zGEqzgCApR363EBH",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 1.18,
    "ai_value": ""
   },
   {
@@ -1482,6 +1658,28 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/bXtRue7CLTsrNzSvxo2fV6",
    "best": "Craigslist",
    "med": 55,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962594429",
+   "title": "Gemstone pendants/necklace",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/mill-creek-gemstone-pendants-necklace/kWtvqjwBnNPiqpibNw4enc",
+   "best": "Craigslist",
+   "med": 22,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931750417",
+   "title": "Sterling Silver Figaro 20\u201d 4mm Necklace",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-figaro-20/7ijy1i4CdyL4nBhNjkEeJr",
+   "best": "eBay",
+   "med": 110,
    "ratio": 1.1,
    "ai_value": ""
   },
@@ -1651,6 +1849,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7934421094",
+   "title": "Yellow Asian Cloisonne Bowl",
+   "price": 100,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/long-lake-yellow-asian-cloisonne-bowl/vReGeMjJ15YsMiWK5DbKse",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931818139",
+   "title": "Vintage Anne Klein Jewelry",
+   "price": 200,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-anne-klein-jewelry/2mJS3hgnVwFQqdbPbUPswo",
+   "best": "Etsy",
+   "med": 169,
+   "ratio": 0.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7952296200",
    "title": "VINTAGE ONYX and MARCASITE PENDANTS on STERLING CHAINS",
    "price": 69,
@@ -1714,6 +1934,17 @@
    "best": "eBay",
    "med": 62,
    "ratio": 0.62,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934382142",
+   "title": "Vintage Studio Art Pottery Crock",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-studio-art-pottery/b38E4zU6KvagPHVYTHqMqs",
+   "best": "KYLLIKKI SALMENHAARA. Vase, with handles, active at Arabia ...",
+   "med": 30,
+   "ratio": 0.6,
    "ai_value": ""
   },
   {
@@ -1846,6 +2077,17 @@
    "best": "eBay",
    "med": 121,
    "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983222369",
+   "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
+   "price": 38,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-nfs-original-vintage-tropical/7MdHrZnz4K31oVDtfuegaL",
+   "best": "Pink African Violets - Chart Counted Cross Stitch Patterns ...",
+   "med": 16,
+   "ratio": 0.42,
    "ai_value": ""
   },
   {
