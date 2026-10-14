@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:03:31Z",
+ "updated": "2026-10-14T07:07:48Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8124,
-  "events": 30138,
+  "lens": 8149,
+  "events": 30163,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 233,
+  "queued/relens": 239,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,8 +21,8 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 328,
-  "flagged": 296,
+  "queued": 303,
+  "flagged": 315,
   "lensed": 93
  },
  "last_harvests": [
@@ -430,6 +430,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959822936",
+   "title": "NECKLACE Butterfly",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/west-roxbury-necklace-butterfly/34KgABNT8Z6DhvYq4ieivM",
+   "best": "Large Butterfly Pendant Necklace \u2013 Chelsea Pacifica",
+   "med": 5950,
+   "ratio": 297.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7955365058",
    "title": "Costume jewelry",
    "price": 15,
@@ -507,6 +518,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954283558",
+   "title": "2 FRAMED WATERCOLOR PAINTINGS",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/chevy-chase-framed-watercolor-paintings/8nVZQxeLZwtSbj89dFNMpA",
+   "best": "The Amazing Self-Taught Listed Georgia Artist Arthur H. Ludy ...",
+   "med": 450,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
    "pid": "7950031727",
    "title": "Vintage sterling choker",
    "price": 100,
@@ -515,6 +537,17 @@
    "best": "eBay",
    "med": 2995,
    "ratio": 29.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977948921",
+   "title": "Handmade necklaces",
+   "price": 1,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/akron-handmade-necklaces/kdQ8FukbijoYKXTfRhSEco",
+   "best": "Etsy",
+   "med": 20,
+   "ratio": 20,
    "ai_value": ""
   },
   {
@@ -815,6 +848,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946369216",
+   "title": "Sterling Silver Nacre, Smokey Quartz & Magnesite 24\u201d Necklace",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-nacre/b6aYyVBjqWa5qSibN3T1s7",
+   "best": "eBay",
+   "med": 201,
+   "ratio": 5.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7933438341",
    "title": "Vintage Asian Brass Incense Burner / Censer",
    "price": 70,
@@ -980,6 +1024,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954787701",
+   "title": "Chinese Porcelain Vase - signed",
+   "price": 35,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-chinese-porcelain-vase-signed/oynNUvatcjFZo5YJavJYxJ",
+   "best": "Bidamount.com",
+   "med": 152,
+   "ratio": 4.34,
+   "ai_value": ""
+  },
+  {
    "pid": "7959014670",
    "title": "Vintage 1928 Necklace",
    "price": 20,
@@ -1063,6 +1118,17 @@
    "area": "stockton",
    "url": "https://www.craigslist.org/view/d/stockton-ceramic-handmade-bowl/5mnE6S66sx4VTn2pfGx6Q8",
    "best": "Queensware Pottery - Etsy",
+   "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936459048",
+   "title": "Vintage poster",
+   "price": 20,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/westminster-vintage-poster/oz2bAnMmB4N6QWuKezNbJs",
+   "best": "eBay",
    "med": 80,
    "ratio": 4,
    "ai_value": ""
@@ -1351,6 +1417,17 @@
    "best": "eBay",
    "med": 59,
    "ratio": 2.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945352349",
+   "title": "Antique Englefields London Tankard",
+   "price": 55,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/long-lake-antique-englefields-london/tmuviTwC6uL1MVb89gJsuB",
+   "best": "eBay",
+   "med": 160,
+   "ratio": 2.91,
    "ai_value": ""
   },
   {
@@ -1695,6 +1772,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953044364",
+   "title": "14K Yellow Gold Diamond Band Ring",
+   "price": 300,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-14k-yellow-gold-diamond-band/uRmmZjTYPeLn7tjnXdDuuW",
+   "best": "Massoyan Jewelers",
+   "med": 614,
+   "ratio": 2.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7972368246",
    "title": "The Ruby Slippers Necklace",
    "price": 15,
@@ -1857,6 +1945,17 @@
    "best": "eBay",
    "med": 64,
    "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949659551",
+   "title": "Sterling Silver & Marcasite Quartz Watch 7\u201d",
+   "price": 80,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-marcasite/cgeoR1VoLo99vrR9GmXbqi",
+   "best": "Etsy",
+   "med": 145,
+   "ratio": 1.81,
    "ai_value": ""
   },
   {
@@ -2058,6 +2157,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7955692791",
+   "title": "Faded Glory Watch",
+   "price": 10,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/mount-laurel-faded-glory-watch/tmetWAbpcb2vsARe1koWVF",
+   "best": "eBay",
+   "med": 16,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942651899",
+   "title": "Vintage Mid Century Italian Art Pottery Basket",
+   "price": 15,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/west-des-moines-vintage-mid-century/ud2ShJuCt5vFE3QscqMkhc",
+   "best": "Vintage Stoneware Frog Basket by Paul Morris, 1990s - Etsy",
+   "med": 24,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -2076,6 +2197,17 @@
    "url": "https://www.craigslist.org/view/d/washington-color-etching-french-artist/tsTMF9t8z6w1Lbmwhg7npX",
    "best": "Leboncoin",
    "med": 95,
+   "ratio": 1.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941519865",
+   "title": "Donner Ukulele Kit",
+   "price": 50,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/elyria-donner-ukulele-kit/dMXtFJjvH7oQR9aUkNCHie",
+   "best": "Amazon.sg",
+   "med": 79,
    "ratio": 1.58,
    "ai_value": ""
   },
@@ -2542,6 +2674,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944220350",
+   "title": "Sterling Silver & MOP Earrings by WJ",
+   "price": 45,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-mop/a7bKz65SNc7qspChdpwf4z",
+   "best": "Etsy",
+   "med": 54,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -2594,6 +2737,17 @@
    "best": "eBay",
    "med": 148,
    "ratio": 1.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939232593",
+   "title": "24\" Lion Head Pendant Necklace and Bracelet Gold Tone all for $15",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-24-lion-head-pendant-necklace-and/teQoRCH6eAMrdLrtqRVGbc",
+   "best": "Lion Necklace | Lion Pendant Necklace | eBay",
+   "med": 17,
+   "ratio": 1.13,
    "ai_value": ""
   },
   {
@@ -2674,6 +2828,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947365822",
+   "title": "Sterling Silver Wheat Chain Collar 16\u201d",
+   "price": 125,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-sterling-silver-wheat-chain/wf3FfghCU3nSz425cwtGhS",
+   "best": "Etsy",
+   "med": 138,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7949271613",
    "title": "Beau Sterling Silver Bangle",
    "price": 30,
@@ -2747,6 +2912,17 @@
    "url": "https://www.craigslist.org/view/d/washington-antique-newyork-hudson-river/bL2zoUTvfcHdVKCnSchFR6",
    "best": "Hudson Valley Paintings Auction Ending 5/21",
    "med": 125,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962409719",
+   "title": "M CHARLES DAVIS",
+   "price": 350,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/antioch-charles-davis/8R9JCZaytsFS6exn7gR2Cm",
+   "best": "eBay",
+   "med": 365,
    "ratio": 1.04,
    "ai_value": ""
   },
@@ -2949,6 +3125,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974014871",
+   "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
+   "price": 30,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/colton-1992-heart-angel-wing-pin/jCsHsMQHREQatQjattdf5q",
+   "best": "Heart With Wings Belt Buckle, Wings Belt Pin, Silver Heart Belt ...",
+   "med": 26,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7946375985",
    "title": "Sterling Silver & Rhodonite 20\u201d Necklace",
    "price": 35,
@@ -3034,6 +3221,17 @@
    "best": "Tonal Blue Topaz Three-Stone Ring in 14kt Yellow Gold, 5.40 ct. t.w., Size 9",
    "med": 375,
    "ratio": 0.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954233431",
+   "title": "Vintage 1900 George Washington Tobacco Tin",
+   "price": 85,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/forest-lake-vintage-1900-george/g2VaL1M9t46tXcW57CLQso",
+   "best": "Etsy",
+   "med": 65,
+   "ratio": 0.76,
    "ai_value": ""
   },
   {
@@ -3594,6 +3792,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-large-vintage-wall-pocket/hDZnn1a8fE9m3Hgg9cbvZh",
    "best": "eBay",
    "med": 15,
+   "ratio": 0.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954475163",
+   "title": "Ann Delorge  \u201cJazz\u201d  watercolor signed",
+   "price": 250,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/alexandria-ann-delorge-jazz-watercolor/rsMVE6mfNsdbaDj8RwRmbT",
+   "best": "ANN DELORGE \"PRESERVE THAT JAZZ\" LIMITED SIGNED LITHOGRAPH ...",
+   "med": 38,
    "ratio": 0.15,
    "ai_value": ""
   },
