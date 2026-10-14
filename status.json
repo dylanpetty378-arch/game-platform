@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:15:39Z",
+ "updated": "2026-10-14T16:19:11Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8963,
-  "events": 31777,
+  "lens": 8988,
+  "events": 31802,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 444,
+  "queued/relens": 446,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 289,
-  "flagged": 758,
-  "lensed": 259
+  "queued": 264,
+  "flagged": 775,
+  "lensed": 265
  },
  "last_harvests": [
   {
@@ -527,6 +527,17 @@
    "best": "Vintage Natural Baltic Butterscotch Amber Necklace with 14K ...",
    "med": 9746,
    "ratio": 194.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969480947",
+   "title": "Vintage Ornate Destressed White & Gold Tone Decorative Frame Artwork",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-ornate-destressed-white/3cDrTDnKUaFKcYMzgdyztn",
+   "best": "Miller Studios Floral Chalkware Flowers Wall Hanging Green ...",
+   "med": 4200,
+   "ratio": 168,
    "ai_value": ""
   },
   {
@@ -1124,6 +1135,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977726171",
+   "title": "3 Necklaces (1 New) - $2 to $6 each",
+   "price": 2,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/mc-farland-necklaces-new-to-each/ny7SA1kHoJCQ5rEnkt4PBz",
+   "best": "4 Goldtone/Silvertone Chain Necklaces - Avon, Vendome | eBay",
+   "med": 30,
+   "ratio": 15,
+   "ai_value": ""
+  },
+  {
    "pid": "7945621449",
    "title": "2 Schooner Art Prints",
    "price": 20,
@@ -1692,6 +1714,17 @@
    "url": "https://www.craigslist.org/view/d/creston-beautiful-85-womens-turquoise/h8oiB9c7P17fWkjxNuQj6R",
    "best": "Handmade Sterling Silver Turquoise Ring: Tibetan Gemstone ...",
    "med": 65,
+   "ratio": 8.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947512622",
+   "title": "Art - Sondra Wompler",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/oak-brook-art-sondra-wompler/x3oBL3camzHSXXZDnZYvNF",
+   "best": "eBay",
+   "med": 122,
    "ratio": 8.13,
    "ai_value": ""
   },
@@ -2455,6 +2488,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983312435",
+   "title": "Original Signed Whimsical Artwork \u2013 Professionally Framed",
+   "price": 100,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/concord-original-signed-whimsical/fTrTiJ3grAQNcLJktAYi7i",
+   "best": "Fine Art America",
+   "med": 450,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7983254112",
    "title": "Vintage Taylor smith signed album collage coa verso",
    "price": 100,
@@ -2507,6 +2551,17 @@
    "best": "Bidamount.com",
    "med": 152,
    "ratio": 4.34,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978097712",
+   "title": "BARBARA A. WOOD",
+   "price": 175,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ventura-barbara-wood/phYZnz9pJYyjXpRczJWrQA",
+   "best": "Abstract Art Tapestry: Large Modern Wall Hanging - Firestarter ...",
+   "med": 750,
+   "ratio": 4.29,
    "ai_value": ""
   },
   {
@@ -2837,6 +2892,17 @@
    "best": "Craigslist",
    "med": 18,
    "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935556827",
+   "title": "jjj 2 Sterling Amethyst and CZ Rings - $35 each",
+   "price": 35,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/mckinney-jjj-sterling-amethyst-and-cz/vU8r6C2jdNzPsjSQozjjCE",
+   "best": "Etsy",
+   "med": 125,
+   "ratio": 3.57,
    "ai_value": ""
   },
   {
@@ -3971,6 +4037,17 @@
    "med": 65,
    "ratio": 2.17,
    "ai_value": ""
+  },
+  {
+   "pid": "7935565503",
+   "title": "Hickory Shaft vintage Putter and jigger,golf clubs",
+   "price": 60,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/coos-bay-hickory-shaft-vintage-putter/axd9GPsxDNsTS4hCN67Ddk",
+   "best": "ANTIQUE HICKORY SHAFT TUXEDO PUTTER GOLF CLUB | #3844499567",
+   "med": 130,
+   "ratio": 2.17,
+   "ai_value": "WorthPoint ANTIQUE HICKORY SHAFT TUXEDO PUTTER GOLF CLUB | #3844499567 $99"
   },
   {
    "pid": "7949666488",
@@ -5986,6 +6063,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929297076",
+   "title": "Vintage 1950s/60s Webcor Webster-Chicago Tube Amp project",
+   "price": 300,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-1950s-60s-webcor/qRHt27btsPcHR67gKDbdbw",
+   "best": "Reverb",
+   "med": 350,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949254133",
    "title": "Vintage Suarti Sterling Silver & Cultured Pearl Cuff",
    "price": 160,
@@ -6058,6 +6146,17 @@
    "area": "austin",
    "url": "https://www.craigslist.org/view/d/austin-set-of-small-handcarved-wood/xj4csCD4SCqYayQttxUh29",
    "best": "VTG Hand Crafted Wood Java Dancer Mask Wall D\u00e9cor Javanese ...",
+   "med": 40,
+   "ratio": 1.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967882064",
+   "title": "\"AUSTRIAN BEER STEIN WITH COINS IN CENTER\"",
+   "price": 35,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/chatsworth-austrian-beer-stein-with/4nc7n1rDCEViQ3z2DvPK4h",
+   "best": "eBay",
    "med": 40,
    "ratio": 1.14,
    "ai_value": ""
@@ -6767,6 +6866,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950825952",
+   "title": "Stunning Novelle Quartz Ladies Silver & Black Watch with a Bracelet",
+   "price": 40,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-stunning-novelle-quartz/66cMwsknQ3U4mmDLeJUrGs",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -7119,6 +7229,17 @@
    "ai_value": "worth? $10"
   },
   {
+   "pid": "7975279914",
+   "title": "TWO Frog Figurines",
+   "price": 55,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-two-frog-figurines/cpAivq3x9UyomjTm6BuNy9",
+   "best": "Etsy",
+   "med": 41,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7971834546",
    "title": "Vintage Sterling Silver Turquoise & Coral Hopi/Navajo Size 6 1/4 Ring",
    "price": 250,
@@ -7405,6 +7526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966143525",
+   "title": "Pendents",
+   "price": 8,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-pendents/uuKej3k4bJGn8tx4Ub9Cno",
+   "best": "Craigslist",
+   "med": 5,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7951814381",
    "title": "Hallmark Fine Open Heart Diamond Necklace",
    "price": 100,
@@ -7654,6 +7786,17 @@
    "url": "https://www.craigslist.org/view/d/portland-womens-watch/xyTG2SUz7xjgjVtJHRPhgw",
    "best": "nitroset.com",
    "med": 25,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946266644",
+   "title": "Seiko Sports 150",
+   "price": 300,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/parkville-seiko-sports-150/7W9n2Y39mWUiQtTjvRbZNN",
+   "best": "Poshmark",
+   "med": 149,
    "ratio": 0.5,
    "ai_value": ""
   },
@@ -8098,6 +8241,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939931472",
+   "title": "Student Guitar, Montana made in Romania",
+   "price": 90,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/stratham-student-guitar-montana-made-in/2Xcr2pxkuBVTx9JF8CMeY2",
+   "best": "Harmony H-5423 Vintage Parlor| Sunburst Orange/ Black | Reverb",
+   "med": 25,
+   "ratio": 0.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7951742975",
    "title": "Sterling Silver 925 Lot Mexico India Scandivai Italy Necklace Bracelet",
    "price": 99,
@@ -8274,6 +8428,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958227898",
+   "title": "Odd Lot of 13 Mens Vintage Watches w/Bands >Some Fancy Lugs",
+   "price": 150,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-odd-lot-of-13-mens-vintage/tnTQtEQkE17JkncNe8GAjv",
+   "best": "Craigslist",
+   "med": 26,
+   "ratio": 0.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7955770631",
    "title": "Large vintage wall pocket watch clock",
    "price": 100,
@@ -8303,6 +8468,17 @@
    "url": "https://www.craigslist.org/view/d/cocoa-disney-stuff/q986dATCbF2b9p6DGRR6P6",
    "best": "1903 Indian Head Cent Penny X1374 | eBay",
    "med": 10,
+   "ratio": 0.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966686372",
+   "title": "'Floral Blue' Dark Bronze Frame/Glass Artwork",
+   "price": 49,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-floral-blue-dark-bronze-frame/x2JJgf8bRND9nrygsNsfrR",
+   "best": "Blick Art Materials",
+   "med": 7,
    "ratio": 0.14,
    "ai_value": ""
   },
@@ -8775,6 +8951,17 @@
    "area": "baltimore",
    "url": "https://www.craigslist.org/view/d/silver-spring-mens-swiss-watch/qm122hWUste8fVM8enAUN3",
    "best": "Chrono24",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951699095",
+   "title": "Vintage Daisy BB  collection",
+   "price": 475,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/santa-ana-vintage-daisy-bb-collection/mK5CYqkFwcUa4ZFc6g2Jyv",
+   "best": "Daisy Target | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
