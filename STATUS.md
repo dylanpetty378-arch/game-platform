@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T16:30:57Z
+# Refurbish status — 2026-10-14T16:34:42Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 824 |
-| queued/relens | 455 |
-| lensed | 282 |
-| queued | 189 |
+| flagged | 837 |
+| queued/relens | 461 |
+| lensed | 288 |
+| queued | 164 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 10
 - searches: 2386
 - listings: 10583
-- lens: 9063
-- events: 31877
+- lens: 9088
+- events: 31902
 - comps: 2156
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (824)
+## Flagged by Lens, waiting for photo review (837)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -157,6 +157,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00v0v_7IZjBvA9zir_0t20CI_300x300.jpg" width="120"> | 7975200744 | $30 | boston | [Faux sAmber & Diamond Pendant](https://www.craigslist.org/view/d/saugus-faux-samber-diamond-pendant/cT9r7QrTL9RpfJNUFxT9wr) | 1stDibs | 3950 | 131.67 |
 | <img src="https://images.craigslist.org/00Y0Y_aIdoZrT2zJw_0c607W_300x300.jpg" width="120"> | 7943638984 | $1 | longisland | [Collection of Vintage Cameras](https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/7rKHySm9qMZFks2E7wZnoh) | eBay | 120 | 120 |
 | <img src="https://images.craigslist.org/00W0W_lFG5hKSy0R8_0lN0CI_300x300.jpg" width="120"> | 7976589723 | $40 | southcoast | [Flora by titan. (reproduction)](https://www.craigslist.org/view/d/acushnet-flora-by-titan-reproduction/vibZ9nD6gSBuvDHwzheiyu) | Craigslist | 4800 | 120 |
+| <img src="https://images.craigslist.org/00c0c_XZ1qulzZ4X_0CI0t2_300x300.jpg" width="120"> | 7946281064 | $175 | asheville | [Cozart Gold Leaf Strat](https://www.craigslist.org/view/d/asheville-cozart-gold-leaf-strat/ajtegAE17aLqK3nRjobtEg) | Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ... | 18362 | 104.93 |
 | <img src="https://images.craigslist.org/00M0M_bzo0tdRUZE6_0vQ0t2_300x300.jpg" width="120"> | 7983294150 | $20 | portland | [Large Face Mug Vase Studio Pottery Signed](https://www.craigslist.org/view/d/vancouver-large-face-mug-vase-studio/8mxh4LnF7ACohdYZC82icA) | Craigslist | 2010 | 100.5 |
 | <img src="https://images.craigslist.org/01515_eYlzMkgaPAuz_0t20CI_300x300.jpg" width="120"> | 7955365058 | $15 | denver | [Costume jewelry](https://www.craigslist.org/view/d/aurora-costume-jewelry/t7oLR44HMhuBQjRJcuyKDw) | Nordstrom | 1199 | 79.93 |
 | <img src="https://images.craigslist.org/00s0s_yCO7XW3goW_0CI0hR_300x300.jpg" width="120"> | 7953446717 | $1 | nh | [Wedgewood](https://www.craigslist.org/view/d/raymond-wedgewood/ry77GkhiBDpjxbHFe3HptL) | Etsy | 79 | 79 |
@@ -205,6 +206,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00000_ieFW1s0WDg0_0by0jn_300x300.jpg" width="120"> | 7948745843 | $45 | kalispell | [ANTIQUE POTTERY VASE](https://www.craigslist.org/view/d/kalispell-antique-pottery-vase/1qUEk7mUWJ8BqspViHV7BF) | eBay | 795 | 17.67 |
 | <img src="https://images.craigslist.org/00L0L_cTcedw8DQO4_0t20CI_300x300.jpg" width="120"> | 7978226859 | $25 | newyork | [Mens goldtone cheap automatic watch](https://www.craigslist.org/view/d/kew-gardens-mens-goldtone-cheap/bSBafvHjseifETCnTLaCai) | Why It Is Fake: | 438 | 17.52 |
 | <img src="https://images.craigslist.org/01313_irveoZrRYH3_0t20Cz_300x300.jpg" width="120"> | 7949524641 | $10 | albuquerque | [Old Blacksmith tools/hand shears/casterator](https://www.craigslist.org/view/d/corrales-old-blacksmith-tools-hand/rNC7SHjKhcf4Q3S8o2Prwh) | Collection of 7 User Blacksmith Tongs - 96841 – Jim Bode Too | 175 | 17.5 |
+| <img src="https://images.craigslist.org/00101_lOeKcJptiQd_0bE0fu_300x300.jpg" width="120"> | 7971350739 | $150 | harrisburg | [guitar](https://www.craigslist.org/view/d/harrisburg-guitar/aLdk5jwk5fDqViGaEmux4k) | Martin D-18 1976 Used Acoustic Guitar / eBay | 2624 | 17.49 |
 | <img src="https://images.craigslist.org/00606_30fPCyCyFqN_0gw0bq_300x300.jpg" width="120"> | 7930050002 | $65 | baltimore | [Oval Morganite Designer Ring](https://www.craigslist.org/view/d/conowingo-oval-morganite-designer-ring/7QLucAzgxqjQqzNysceHcL) | Pre-Owned Morganite With Champagne Diamond 18k Rose Gold ... | 1100 | 16.92 |
 | <img src="https://images.craigslist.org/00J0J_249GKO6AVTU_0gl0t2_300x300.jpg" width="120"> | 7934238503 | $15 | chattanooga | [Bracelets & Watch](https://www.craigslist.org/view/d/dunlap-bracelets-watch/bAgNkdsZCk2c3FgwpBdgMk) | eBay | 250 | 16.67 |
 | <img src="https://images.craigslist.org/00j0j_84LtKA4Vfha_05s07g_300x300.jpg" width="120"> | 7957467854 | $150 | harrisburg | [guitar](https://www.craigslist.org/view/d/harrisburg-guitar/iJv2Cnms4WwJ4ZPkm2gN5T) | Craigslist | 2500 | 16.67 |
@@ -262,5 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00101_6LM6zvcbMSm_0xU0t2_300x300.jpg" width="120"> | 7946626182 | $10 | orangecounty | [Christian Charm Bracelet with Cross Charm](https://www.craigslist.org/view/d/fountain-valley-christian-charm/nmzYWMMqRfHEAWMMdPpV32) | 14k Gold Filled Textured Cross Coin Bracelet – Mac & Ry ... | 94 | 9.4 |
 | <img src="https://images.craigslist.org/00A0A_8ib0qMITR9q_0s10sn_300x300.jpg" width="120"> | 7949231693 | $35 | phoenix | [Sterling Silver & Turquoise Inlay Drop Earrings](https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/2112LVgkqoV8Y6E8x4x1Pq) | Mixtec Earrings - Etsy | 325 | 9.29 |
 | <img src="https://images.craigslist.org/00d0d_jOeUjfuK11P_0CI0t2_300x300.jpg" width="120"> | 7983269466 | $30 | baltimore | [12 kt gold filled scarab bracelet VINTAGE](https://www.craigslist.org/view/d/bel-air-12-kt-gold-filled-scarab/3MNGTcSyvkoeX92HQx6Kpc) | eBay | 275 | 9.17 |
-| <img src="https://images.craigslist.org/00U0U_cqoPZcqsRE0_06k0dl_300x300.jpg" width="120"> | 7957058978 | $33 | baltimore | [Vintage Raku Pottery Bowl/Vase](https://www.craigslist.org/view/d/conowingo-vintage-raku-pottery-bowl-vase/tfVso1VdsDd4rUcEVoXkFh) | Found this very cool ceramic vase in our collection. It's .. | 300 | 9.09 |
-| <img src="https://images.craigslist.org/00G0G_g4Vl8h52AXl_0CI0t2_300x300.jpg" width="120"> | 7945172391 | $10 | orangecounty | [Vintage Dainty 3-D Rose Pendant on 16" chain $10](https://www.craigslist.org/view/d/fountain-valley-vintage-dainty-d-rose/6VSRadDqqvaxUqr11QeHhz) | Etsy | 90 | 9 |

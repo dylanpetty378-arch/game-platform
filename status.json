@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:30:57Z",
+ "updated": "2026-10-14T16:34:42Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9063,
-  "events": 31877,
+  "lens": 9088,
+  "events": 31902,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 455,
+  "queued/relens": 461,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 189,
-  "flagged": 824,
-  "lensed": 282
+  "queued": 164,
+  "flagged": 837,
+  "lensed": 288
  },
  "last_harvests": [
   {
@@ -585,6 +585,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946281064",
+   "title": "Cozart Gold Leaf Strat",
+   "price": 175,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-cozart-gold-leaf-strat/ajtegAE17aLqK3nRjobtEg",
+   "best": "Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ...",
+   "med": 18362,
+   "ratio": 104.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7983294150",
    "title": "Large Face Mug Vase Studio Pottery Signed",
    "price": 20,
@@ -1110,6 +1121,17 @@
    "best": "Collection of 7 User Blacksmith Tongs - 96841 \u2013 Jim Bode Tools",
    "med": 175,
    "ratio": 17.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971350739",
+   "title": "guitar",
+   "price": 150,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/harrisburg-guitar/aLdk5jwk5fDqViGaEmux4k",
+   "best": "Martin D-18 1976 Used Acoustic Guitar | eBay",
+   "med": 2624,
+   "ratio": 17.49,
    "ai_value": ""
   },
   {
@@ -2001,6 +2023,17 @@
    "best": "Abu Garcia Ambassadeur 5000D Green Casting Reel /Sweden 1975 ...",
    "med": 295,
    "ratio": 7.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952269520",
+   "title": "Judith Ripka  Stunning Necklace",
+   "price": 75,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/greensburg-judith-ripka-stunning/d9HBagsMvvwUbMHG1YJRu8",
+   "best": "Judith Ripka Interchangeable SS & 14K clad Cultured Pearl ...",
+   "med": 550,
+   "ratio": 7.33,
    "ai_value": ""
   },
   {
@@ -2983,6 +3016,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957429658",
+   "title": "Vintage 1940s-50s Tube Amp--Guitar/Harp",
+   "price": 500,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/albany-vintage-1940s-50s-tube-amp/tS7m8AXvbL1gGLG5HEVqTi",
+   "best": "30s / '40s mystery amp. Field coil speaker w/speaker-mounted ...",
+   "med": 1999,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7947850125",
    "title": "Brooches and Pins",
    "price": 10,
@@ -3830,6 +3874,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934824869",
+   "title": "Coke Sign",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-coke-sign/hgRgqhHVc4GHBUKB7hahZy",
+   "best": "Vintage COCA-COLA Ingress-Plastene Co Electric Wall Clock ...",
+   "med": 104,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7948625232",
    "title": "Sterling Silver Twisted Herringbone 20 1/2\u201d Necklace",
    "price": 35,
@@ -3871,6 +3926,17 @@
    "best": "Craigslist",
    "med": 38,
    "ratio": 2.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938906082",
+   "title": "Late 20th Century Moneto Double Sided Napoleon Pendant",
+   "price": 35,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-late-20th-century-moneto/qdnXvCmCt7e3cBkAuJNf6E",
+   "best": "Napoleon Necklace | eBay",
+   "med": 88,
+   "ratio": 2.51,
    "ai_value": ""
   },
   {
@@ -5750,6 +5816,17 @@
    "area": "nh",
    "url": "https://www.craigslist.org/view/d/stratham-antique-sheep-shears/3B1NYb1Umh8h9nDecs3jpt",
    "best": "eBay",
+   "med": 22,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973791257",
+   "title": "Vintage 1974 Kenner Steve Scout Metal Detector",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/livermore-vintage-1974-kenner-steve/aDs5v3B3fziZm2MyPEwG6F",
+   "best": "Vintage Steve Scout Metal Detector Toy - Etsy",
    "med": 22,
    "ratio": 1.47,
    "ai_value": ""
@@ -8021,6 +8098,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934698017",
+   "title": "Vintage block planes carpenter tools",
+   "price": 75,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/occoquan-vintage-block-planes-carpenter/35pUqHowVcRuk1utQq7Uyb",
+   "best": "Set Of 4. JORGENSEN Size 0 Adjustable 8\" Hand Screw ...",
+   "med": 47,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7951814381",
    "title": "Hallmark Fine Open Heart Diamond Necklace",
    "price": 100,
@@ -8182,6 +8270,17 @@
    "url": "https://www.craigslist.org/view/d/old-coin-banks-odd-stuff/jgDhxjqK6xByeAJX29tiVg",
    "best": "Vintage Accents | Vintage Pink Rabbit Bank Unique Decor Easter Rubber Hard Plastic Blow Mold Mcm | Color: Pink",
    "med": 27,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980509958",
+   "title": "Reduced price-Rose Earrings and Brooch Set",
+   "price": 125,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/depew-reduced-price-rose-earrings-and/4ZsWdx9S74Q6xPedFPMS8K",
+   "best": "Graziano England Rose 1997 Gold Plated Enamel Crystal Rose ...",
+   "med": 68,
    "ratio": 0.54,
    "ai_value": ""
   },
@@ -9000,6 +9099,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938697065",
+   "title": "*MATT STEBLY POTTERY PITCHER 11\"t *",
+   "price": 175,
+   "area": "neworleans",
+   "url": "https://www.craigslist.org/view/d/mandeville-matt-stebly-pottery-pitcher/x2PUZVcDRZkCayJeXrnDP3",
+   "best": "Royal Doulton Isaac Walton the Gallant Fisher Tudor Jug ...",
+   "med": 25,
+   "ratio": 0.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637414",
    "title": "Ecclissi Sterling Silver & Turquoise Cabochon 7\u201d Watch",
    "price": 170,
@@ -9501,6 +9611,39 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/santa-ana-vintage-slingerland-drums/kesBntCGTVF2ARpsz712mn",
    "best": "Slingerland \"Spirit\" series 5 piece drum set/holders ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983309504",
+   "title": "DRAGON BULLIONS, 1/2 OUNCE\ud83e\ude77\ud83c\udf85\ud83c\udf85\ud83c\udf85",
+   "price": 38,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-dragon-bullions-2-ounce/4emMtThjFsbxxqNEo3drpA",
+   "best": "Buy 1/2 oz Silver Bar - APMEX (2012 Year of the Dragon) | APMEX",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962741684",
+   "title": "Vintage Knife Lot 40+ Pieces Hunting Pocket Fixed Blade Buck Marttiini",
+   "price": 200,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/burnsville-vintage-knife-lot-40-pieces/fAiVyG6unTV5qqGfg3ySpN",
+   "best": "Vintage Pocket/Fixed Blade Knife Lot 18 Piece Lot All Used ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972567317",
+   "title": "Smokeing stuff n such",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-smokeing-stuff-such/5KmWodJVBBpBidhqkZRmws",
+   "best": "Vintage Collectible Tobacco Tin Mac Baren's Plum Cake | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
