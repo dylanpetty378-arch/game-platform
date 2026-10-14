@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T15:12:46Z
+# Refurbish status — 2026-10-14T15:16:08Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| queued | 703 |
-| flagged | 497 |
-| queued/relens | 377 |
-| lensed | 173 |
+| queued | 678 |
+| flagged | 515 |
+| queued/relens | 383 |
+| lensed | 174 |
 | decided/ask | 86 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 10
 - searches: 2386
 - listings: 10583
-- lens: 8549
-- events: 31363
+- lens: 8574
+- events: 31388
 - comps: 2156
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (497)
+## Flagged by Lens, waiting for photo review (515)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -147,6 +147,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00t0t_ewx3TbogFxF_0lM0t2_300x300.jpg" width="120"> | 7983181830 | $1 | hartford | [*** SMALL CENTURY POCKET WATCH ***](https://www.craigslist.org/view/d/manchester-small-century-pocket-watch/fiLRKsTVeAEK8wqrHDKXWa) | eBay | 700 | 700 |
 | <img src="https://images.craigslist.org/00z0z_49glNwuxP86_0t20CI_300x300.jpg" width="120"> | 7937626231 | $1 | boston | [GORGEOUS VINTAGE 14K GOLD JEWELRY & STERLING SILVE](https://www.craigslist.org/view/d/peabody-gorgeous-vintage-14k-gold/qF2X37LSdg7HNYP64D4thq) | Craigslist | 320 | 320 |
 | <img src="https://images.craigslist.org/00808_6GNLXhkzaBi_0t20CI_300x300.jpg" width="120"> | 7959822936 | $20 | boston | [NECKLACE Butterfly](https://www.craigslist.org/view/d/west-roxbury-necklace-butterfly/34KgABNT8Z6DhvYq4ieivM) | Large Butterfly Pendant Necklace – Chelsea Pacifica | 5950 | 297.5 |
+| <img src="https://images.craigslist.org/00505_jhO85EvhP1W_0CI0t2_300x300.jpg" width="120"> | 7931649699 | $3 | philadelphia | [Hearts  - Small Assorted Pendants- 3 Designs  -2 w](https://www.craigslist.org/view/d/philadelphia-hearts-small-assorted/t4vBPpSABRfFxMFz1qPGxS) | 14k Yellow Gold Heart Filigree Diamond Pendant Pendant 1.16  | 778 | 259.33 |
 | <img src="https://images.craigslist.org/00n0n_7K3KNkDcIk8_0pO0lC_300x300.jpg" width="120"> | 7953135437 | $25 | miami | [ART MASTERPIECES](https://www.craigslist.org/view/d/boynton-beach-art-masterpieces/qYsWz9d2DR2UxYHXcY6cgF) | Sold at Auction: Bill Gallen, Bill Gallen / The Red Mountain | 3500 | 140 |
 | <img src="https://images.craigslist.org/01515_eYlzMkgaPAuz_0t20CI_300x300.jpg" width="120"> | 7955365058 | $15 | denver | [Costume jewelry](https://www.craigslist.org/view/d/aurora-costume-jewelry/t7oLR44HMhuBQjRJcuyKDw) | Nordstrom | 1199 | 79.93 |
 | <img src="https://images.craigslist.org/00T0T_aio4u70EH0C_0lM0t2_300x300.jpg" width="120"> | 7933968362 | $49 | orangecounty | [JAZ Paris Watch Ladies 18k gold plated Oval Dial](https://www.craigslist.org/view/d/irvine-jaz-paris-watch-ladies-18k-gold/g3tYMbR1fKrRjRw76mYoyK) | Cartier Vendome LM - Ref. 78090 / Watch Scout | 3600 | 73.47 |
@@ -167,6 +168,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00i0i_lEgkxTI5hab_0v00ng_300x300.jpg" width="120"> | 7948190890 | $20 | dallas | [Very beautiful of reprint of flower picture. Size:](https://www.craigslist.org/view/d/plano-very-beautiful-of-reprint-of/pP6wx9xSFAStEMqHdGaYcd) | Victoria Bella 24AB17/C Framed Painting Art 24" x 30" Print  | 399 | 19.95 |
 | <img src="https://images.craigslist.org/01414_9KGWTBR0Rca_0CI0pV_300x300.jpg" width="120"> | 7954896055 | $12 | boise | [Gold Tone Charm Bracelet](https://www.craigslist.org/view/d/boise-gold-tone-charm-bracelet/8uGFdtQ47pvaktkYDnarm2) | Gold Coin Charm Bracelet | 220 | 18.33 |
 | <img src="https://images.craigslist.org/01313_irveoZrRYH3_0t20Cz_300x300.jpg" width="120"> | 7949524641 | $10 | albuquerque | [Old Blacksmith tools/hand shears/casterator](https://www.craigslist.org/view/d/corrales-old-blacksmith-tools-hand/rNC7SHjKhcf4Q3S8o2Prwh) | Collection of 7 User Blacksmith Tongs - 96841 – Jim Bode Too | 175 | 17.5 |
+| <img src="https://images.craigslist.org/00J0J_249GKO6AVTU_0gl0t2_300x300.jpg" width="120"> | 7934238503 | $15 | chattanooga | [Bracelets & Watch](https://www.craigslist.org/view/d/dunlap-bracelets-watch/bAgNkdsZCk2c3FgwpBdgMk) | eBay | 250 | 16.67 |
 | <img src="https://images.craigslist.org/00r0r_dDK0pDSmm2R_0oo0ww_300x300.jpg" width="120"> | 7983123567 | $20 | baltimore | [Vintage Asian storage or Jewelry  Box](https://www.craigslist.org/view/d/baltimore-vintage-asian-storage-or/858ESG3A6RAbqLVe6pkoFt) | Round Lacquer Box - Etsy | 333 | 16.65 |
 | <img src="https://images.craigslist.org/01313_5Pf6qzmfG5o_0gy0i1_300x300.jpg" width="120"> | 7949234254 | $90 | phoenix | [Sterling Silver, Ruby,  Pearl & Diamond 18” Neckla](https://www.craigslist.org/view/d/sun-city-west-sterling-silver-ruby/7bbpQjJPofVjus92FHV7BV) | Victorian Rubies Diamonds 14K Rose Gold Silver Pendant ... | 1480 | 16.44 |
 | <img src="https://images.craigslist.org/00o0o_8avRCHf6xWd_0lM0t2_300x300.jpg" width="120"> | 7932471663 | $30 | washingtondc | [Vintage 925/14k Gold Vermeil filigree Jade & Pearl](https://www.craigslist.org/view/d/fort-washington-vintage-gold-vermeil/wAuXNFrVW8gLxVWshspZLK) | eBay | 475 | 15.83 |
@@ -177,6 +179,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00P0P_1xt7tZtO3IW_0lM0t2_300x300.jpg" width="120"> | 7965183150 | $80 | washingtondc | [Color Lithograph 1960s](https://www.craigslist.org/view/d/washington-color-lithograph-1960s/o235fH841vJyQrDsEAsAgs) | Fay Friedman Call Me Madam Mid Century Block Print Ink ... | 1140 | 14.25 |
 | <img src="https://images.craigslist.org/00505_5m5rtI96v69_08Q05Z_300x300.jpg" width="120"> | 7951742668 | $99 | orangecounty | [Sterling Silver and Contemporary Ethnic Jewelry](https://www.craigslist.org/view/d/newport-beach-sterling-silver-and/rPxvvS9ATqEGdsM164SjBs) | eBay | 1395 | 14.09 |
 | <img src="https://images.craigslist.org/00Q0Q_kL9xtFcWNkM_0lM0t2_300x300.jpg" width="120"> | 7931311842 | $50 | washingtondc | [Vintage.925/Gold Vermeil Amethyst and diamond cock](https://www.craigslist.org/view/d/fort-washington-vintage925-gold-vermeil/cJJEZTJUo12WxGXkoD4zjF) | Gem | 677 | 13.54 |
+| <img src="https://images.craigslist.org/01212_7Sclqwvk0Bn_0CI0t2_300x300.jpg" width="120"> | 7974189018 | $20 | sfbay | [Collection of Beaded Necklaces and Bracelets](https://www.craigslist.org/view/d/dublin-collection-of-beaded-necklaces/5GSC23Jaew4T15qrwBfrfp) | Assorted Lot of 14 Amethyst Quartz Malachite Onyx Amazonite  | 264 | 13.2 |
 | <img src="https://images.craigslist.org/01010_4NW8cBbsluk_12w0Mo_300x300.jpg" width="120"> | 7976769864 | $10 | bozeman | [Vintage Coca-Cola Bottles – Set of 8 ($10 Each / $](https://www.craigslist.org/view/d/bozeman-vintage-coca-cola-bottles-set/rRZZp7Js35fc84NawxXQ34) | Craigslist | 130 | 13 |
 | <img src="https://images.craigslist.org/00o0o_chtAiZbJNnl_0t20Cz_300x300.jpg" width="120"> | 7953509796 | $25 | youngstown | [Vintage Pure Silver Plated Necklace and Pendent](https://www.craigslist.org/view/d/aliquippa-vintage-pure-silver-plated/dcQEnfCr9xDVPgHCe5nf8G) | Kohl's | 325 | 13 |
 | <img src="https://images.craigslist.org/01717_8Bpi4VamhvCz_0t20CI_300x300.jpg" width="120"> | 7945560669 | $75 | cnj | [Diamond earrings](https://www.craigslist.org/view/d/plainfield-diamond-earrings/aVkbnJ46vsD6ZkeZppaxow) | 2.02 CT Round Lab Grown Diamond Cluster Flower Earrings G .. | 940 | 12.53 |
@@ -185,6 +188,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01313_LfKs2EVJ0w_0bC0fu_300x300.jpg" width="120"> | 7977588606 | $5 | tucson | [Collection of  34  Medals 1964 - 1968](https://www.craigslist.org/view/d/tucson-collection-of-34-medals/1uV1NHBqjNPJGcCRDy37qG) | eBay | 60 | 12 |
 | <img src="https://images.craigslist.org/01515_iJtYjoUdPwd_0t20t2_300x300.jpg" width="120"> | 7942937814 | $15 | tulsa | [Bracelets](https://www.craigslist.org/view/d/broken-arrow-bracelets/hnkM2T4Fs2MDbm6MmrNoeg) | eBay | 175 | 11.67 |
 | <img src="https://images.craigslist.org/00c0c_8coi7fQKFpT_0jS0t2_300x300.jpg" width="120"> | 7933122532 | $6 | memphis | [Set of 4 Antique Elegant Glass Candle Holders](https://www.craigslist.org/view/d/collierville-set-of-antique-elegant/4nsJEXY7DKcSY6JtB8yy4Q) | Set Of 4 Hobby Lobby Bubble Glass Clear Ball Candlesticks .. | 68 | 11.33 |
+| <img src="https://images.craigslist.org/01212_cuDDXHHIEQ3_0t20CI_300x300.jpg" width="120"> | 7954510305 | $150 | dallas | [VINTAGE STERLING SILVER LAGOS CHARM BRACELET WITH ](https://www.craigslist.org/view/d/grand-prairie-vintage-sterling-silver/srdNNWkmu5P3huvbWDPEX5) | SAINT by Sarah Jane 19 inch Sterling Silver Double Link ... | 1695 | 11.3 |
 | <img src="https://images.craigslist.org/00808_hQcC8DoBpqq_0t20CI_300x300.jpg" width="120"> | 7965917430 | $40 | cnj | [Vintage woman/baby 13” figurine](https://www.craigslist.org/view/d/pennington-vintage-woman-baby-13/3REfbmYNY7ykd8zdptCE9H) | MutualArt | 410 | 10.25 |
 | <img src="https://images.craigslist.org/00s0s_9E6tJEOu4TJ_06h05W_300x300.jpg" width="120"> | 7961743800 | $80 | washingtondc | [Antique Oil painting](https://www.craigslist.org/view/d/washington-antique-oil-painting/svMx3uM5HHcfed2cDexFEq) | Invaluable.com | 800 | 10 |
 | <img src="https://images.craigslist.org/01111_aIYaE9jML8M_0Bh0t2_300x300.jpg" width="120"> | 7937440601 | $80 | washingtondc | [Serigraph Baicycle Rider Vintage](https://www.craigslist.org/view/d/arlington-serigraph-baicycle-rider/buwYp2BBHUPhwGxaya94mZ) | Vintage Framed "Jackrabbit" Woodcut Edition 184 Signed by .. | 800 | 10 |
@@ -195,6 +199,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01515_jrYcpFZ3TBt_0pO0jm_300x300.jpg" width="120"> | 7957410125 | $25 | sacramento | [SIGNED OIL PAINTING ON CANVAS WITH PEACHES](https://www.craigslist.org/view/d/antelope-signed-oil-painting-on-canvas/bU1P16wHUqC84gDQsvh2Wg) | Vintage "Peaches & Flowers" Oil Painting, Framed Still Life  | 219 | 8.76 |
 | <img src="https://images.craigslist.org/00W0W_7SfqXAz4kJF_0CI0t2_300x300.jpg" width="120"> | 7977883716 | $20 | asheville | [Five Old Straight Razors - Varying Conditions](https://www.craigslist.org/view/d/weaverville-five-old-straight-razors/4zYm1kGdqVPaeow6EefLUX) | Antique Collection Straight Razors Solingen Hollow Arkans .. | 175 | 8.75 |
 | <img src="https://images.craigslist.org/00202_ezt85QF7r4V_0lW0gs_300x300.jpg" width="120"> | 7943910701 | $35 | denver | [Vintage Oriental Group](https://www.craigslist.org/view/d/aurora-vintage-oriental-group/7ywteveAUk5tWFJuGKKWGM) | eBay | 300 | 8.57 |
+| <img src="https://images.craigslist.org/00d0d_4VKu7PpTrA7z_0c10an_300x300.jpg" width="120"> | 7940645134 | $119 | newyork | [Vintage ‘SeaShell Coast’ Original Signed Painting ](https://www.craigslist.org/view/d/new-york-vintage-seashell-coast/tk8nNL2SYr28i7WFCYZtPR) | CRIS REVERDY : Nautical | 995 | 8.36 |
 | <img src="https://images.craigslist.org/00404_28uBqvZs4QT_0oB0t2_300x300.jpg" width="120"> | 7939412262 | $15 | minneapolis | [Handcrafted Ceramic Decorative Studio Pottery Mug](https://www.craigslist.org/view/d/stillwater-handcrafted-ceramic/3Xw6KkLLwnNyb3k1hXbr65) | Replacements, Ltd. | 125 | 8.33 |
 | <img src="https://images.craigslist.org/00606_2rmjWYk6MIq_0t20CI_300x300.jpg" width="120"> | 7956172009 | $35 | sfbay | [PEARL AMETHYST STERLING EARRINGS](https://www.craigslist.org/view/d/santa-rosa-pearl-amethyst-sterling/pSSwF7rk6j57P6C2JnXRrJ) | Grandview Mercantile | 285 | 8.14 |
 | <img src="https://images.craigslist.org/00707_ipVuGxSCeY4_0tY0su_300x300.jpg" width="120"> | 7957928156 | $300 | omaha | [Marianne Weller porcelain vase 8" signed hand pain](https://www.craigslist.org/view/d/omaha-marianne-weller-porcelain-vase/86Q7UnB46RgVY358jyReEJ) | Weller Forest Pottery / eBay | 2400 | 8 |
@@ -232,6 +237,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00K0K_2cQuTNg3kH2_0j90CI_300x300.jpg" width="120"> | 7941693077 | $20 | boise | [Vintage ROMAN Necklace 17.75" Gold Tone](https://www.craigslist.org/view/d/boise-vintage-roman-necklace-1775-gold/tFkDAdDsyiDFdsQgNLg9C6) | Craigslist | 100 | 5 |
 | <img src="https://images.craigslist.org/00Y0Y_3gYZsnt02Ym_0CI0t2_300x300.jpg" width="120"> | 7936239731 | $19 | santabarbara | [Vintage mid century Tic pottery cactus bowl](https://www.craigslist.org/view/d/santa-barbara-vintage-mid-century-tic/9DiU1omoNLEksPnppTsqAN) | Vintage MCM Tic Ceramic USA Art Pottery Pink Cactus Flower . | 95 | 5 |
 | <img src="https://images.craigslist.org/00R0R_60wENmoyHjr_0t90CI_300x300.jpg" width="120"> | 7949659573 | $30 | losangeles | [antique clock](https://www.craigslist.org/view/d/long-beach-antique-clock/bEWaxg2Phwm4r8ZxKnVXgC) | Vintage Three Mountaineers 8 day Pine steeple Clock with key | 150 | 5 |
+| <img src="https://images.craigslist.org/00303_4J27lrt4wwK_0C10t2_300x300.jpg" width="120"> | 7940681586 | $10 | maine | [20 pieces of antique sewing items](https://www.craigslist.org/view/d/palmyra-20-pieces-of-antique-sewing/wqTZhovFnuWtuxPrf7kuKz) | eBay | 50 | 5 |
 | <img src="https://images.craigslist.org/00J0J_gTdJKhgDZig_0CI0hq_300x300.jpg" width="120"> | 7981429362 | $30 | sandiego | [Harley-Davidson Motorcycle sterling silver earring](https://www.craigslist.org/view/d/vista-harley-davidson-motorcycle/bDzQ6UxvJzChZ94RojdLjq) | Harley-davidson 925 Silver Heart And Flame Earrings | 149 | 4.97 |
 | <img src="https://images.craigslist.org/00Z0Z_akHsLiwBNk7_0t20CI_300x300.jpg" width="120"> | 7981355043 | $10 | losangeles | [Handmade ceramic teapot!](https://www.craigslist.org/view/d/los-angeles-handmade-ceramic-teapot/9qYL4YxmwVJyrA5uyCgEhA) | Golden Embers Teapot — Nicole Hummel Ceramics | 49 | 4.9 |
 | <img src="https://images.craigslist.org/00D0D_jcv4TL6B04J_0lM0t2_300x300.jpg" width="120"> | 7932471758 | $20 | washingtondc | [Vintage Sterling/14k Gold Vermeil Emerald Eternity](https://www.craigslist.org/view/d/fort-washington-vintage-sterling-14k/qyH3JtFimjhbTMaus3Kikq) | Emerald Wedding Ring in 18k Yellow Gold/ Baguette-Cut Eterni | 95 | 4.75 |
@@ -241,6 +247,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00g0g_7zlI1oXKqgq_0iz0lZ_300x300.jpg" width="120"> | 7954349337 | $75 | allentown | [Moses Ten Commandments Sculpture](https://www.craigslist.org/view/d/catasauqua-moses-ten-commandments/cK5pUibWAuiN7HEh99WNdP) | Judaica Sterling Silver Jewish Moses Figure Sculpture on ... | 340 | 4.53 |
 | <img src="https://images.craigslist.org/00q0q_kHMPWQxCpG6_0dQ0ic_300x300.jpg" width="120"> | 7934801534 | $30 | phoenix | [Sterling Silver Size 8 Ring](https://www.craigslist.org/view/d/sun-city-west-sterling-silver-size-ring/tC7Wjkp8zFPMq1FDK6Ba3s) | Modern Silver Ring, 925 Ring, Size 6 Ring, Silver Ring ... | 135 | 4.5 |
 | <img src="https://images.craigslist.org/00y0y_2hhAB9ppk1q_0CI0iY_300x300.jpg" width="120"> | 7961751714 | $10 | kansascity | [Old Story  books](https://www.craigslist.org/view/d/kansas-city-old-story-books/31Ynk9dq45Hn3eNrGWX9WY) | Amazon.com | 45 | 4.5 |
+| <img src="https://images.craigslist.org/00s0s_8PPn1UFOWHh_0lM0t2_300x300.jpg" width="120"> | 7941826288 | $10 | orangecounty | [Vintage Silver tone Circle of Hearts Pendant Neckl](https://www.craigslist.org/view/d/fountain-valley-vintage-silver-tone/sbp7i7ifAE513bVc1jcCan) | eBay | 45 | 4.5 |
 | <img src="https://images.craigslist.org/00H0H_4jtsNrFGZLj_0t20CI_300x300.jpg" width="120"> | 7962419925 | $10 | greenbay | [Vintage 1978 C3PO Toy](https://www.craigslist.org/view/d/green-bay-vintage-1978-c3po-toy/8zRZwMB7X4XpMVzhMPQfaa) | Vintage 1979 C-3PO Star Wars Kenner 12" Action Figure / eBay | 44 | 4.4 |
 | <img src="https://images.craigslist.org/00Z0Z_gktJdKSXFoe_0CI0t2_300x300.jpg" width="120"> | 7946052168 | $10 | louisville | [Vintage Necklaces Marked 925, $10.00 Each, Estate ](https://www.craigslist.org/view/d/mount-washington-vintage-necklaces/tpFUumQiFV3G5hNQeWThtW) | Etsy | 44 | 4.4 |
 | <img src="https://images.craigslist.org/00w0w_2Q7PPJ2g1GE_0jm0es_300x300.jpg" width="120"> | 7954787701 | $35 | sandiego | [Chinese Porcelain Vase - signed](https://www.craigslist.org/view/d/san-marcos-chinese-porcelain-vase-signed/oynNUvatcjFZo5YJavJYxJ) | Bidamount.com | 152 | 4.34 |
@@ -257,10 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00303_9h0HNPiOwXs_0CI0hS_300x300.jpg" width="120"> | 7969473732 | $20 | stockton | [Ceramic handmade bowl](https://www.craigslist.org/view/d/stockton-ceramic-handmade-bowl/5mnE6S66sx4VTn2pfGx6Q8) | Queensware Pottery - Etsy | 80 | 4 |
 | <img src="https://images.craigslist.org/00w0w_lAFZnFWrPn1_0t20CI_300x300.jpg" width="120"> | 7936459048 | $20 | worcester | [Vintage poster](https://www.craigslist.org/view/d/westminster-vintage-poster/oz2bAnMmB4N6QWuKezNbJs) | eBay | 80 | 4 |
 | <img src="https://images.craigslist.org/00Y0Y_8l3h71ojw80_0CI0ks_300x300.jpg" width="120"> | 7983294432 | $10 | portland | [Vintage GERDA CHRISTOFFERSEN Native American Child](https://www.craigslist.org/view/d/vancouver-vintage-gerda-christoffersen/3LBBqPf1YJb1gLNyyPpwi8) | Craigslist | 40 | 4 |
-| <img src="https://images.craigslist.org/01010_erbG15jBDAY_0ni0os_300x300.jpg" width="120"> | 7947850125 | $10 | seattle | [Brooches and Pins](https://www.craigslist.org/view/d/bothell-brooches-and-pins/m5MJoFUAqE5jwZz6GUbeUX) | Craigslist | 39 | 3.9 |
-| <img src="https://images.craigslist.org/00O0O_2m3vsxOqU6X_0t20CI_300x300.jpg" width="120"> | 7961334891 | $80 | washingtondc | [Faye Freedman Signed 1960s](https://www.craigslist.org/view/d/washington-faye-freedman-signed-1960s/115Fhcr2EfsQkhTQemacNF) | Artwork Details | 310 | 3.88 |
-| <img src="https://images.craigslist.org/00T0T_CCSGs4ChYW_07g09G_300x300.jpg" width="120"> | 7951112681 | $13 | lubbock | [Necklace (14)](https://www.craigslist.org/view/d/amarillo-necklace-14/g32bBBs1337YMxtYdNGSdS) | Kramer Of New York Clear Rhinestone Festoon Choker Necklace  | 50 | 3.85 |
-| <img src="https://images.craigslist.org/01111_2nXWkTegMg_0eC0cx_300x300.jpg" width="120"> | 7950642878 | $250 | sfbay | [Ring Vintage Jade Silver Size 6](https://www.craigslist.org/view/d/san-jose-ring-vintage-jade-silver-size/vGGg6ahE2qDTUiPmG9AQEa) | Novica | 960 | 3.84 |
-| <img src="https://images.craigslist.org/01010_5a4VCcPzLNF_0t20CI_300x300.jpg" width="120"> | 7972351545 | $20 | palmsprings | [Sterling Silver Ring](https://www.craigslist.org/view/d/palm-springs-sterling-silver-ring/37Rw7RwMineEWjdfApnQZo) | Etsy | 75 | 3.75 |
-| <img src="https://images.craigslist.org/00d0d_lXzFNfAiUyC_0fe0ew_300x300.jpg" width="120"> | 7972045461 | $120 | washingtondc | [Watercolor Sailboats Signed -](https://www.craigslist.org/view/d/washington-watercolor-sailboats-signed/sGeMbPiXr2e6V2phJA6aRo) | Lily Pad Galleries | 450 | 3.75 |
-| <img src="https://images.craigslist.org/00Z0Z_ipDBPDH96Hz_0t20CI_300x300.jpg" width="120"> | 7951809965 | $175 | sandiego | [Raymond Weil Tango Watch](https://www.craigslist.org/view/d/san-marcos-raymond-weil-tango-watch/uzj3JEGjr6zE1sXGtkMHdg) | Raymond Weil Tango Watch Ref. 5971 19mm Quartz Stainless ... | 650 | 3.71 |

@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:12:46Z",
+ "updated": "2026-10-14T15:16:08Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8549,
-  "events": 31363,
+  "lens": 8574,
+  "events": 31388,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 377,
+  "queued/relens": 383,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 703,
-  "flagged": 497,
-  "lensed": 173
+  "queued": 678,
+  "flagged": 515,
+  "lensed": 174
  },
  "last_harvests": [
   {
@@ -475,6 +475,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931649699",
+   "title": "Hearts  - Small Assorted Pendants- 3 Designs  -2 w/rhinestones",
+   "price": 3,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-hearts-small-assorted/t4vBPpSABRfFxMFz1qPGxS",
+   "best": "14k Yellow Gold Heart Filigree Diamond Pendant Pendant 1.16 ...",
+   "med": 778,
+   "ratio": 259.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7953135437",
    "title": "ART MASTERPIECES",
    "price": 25,
@@ -695,6 +706,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934238503",
+   "title": "Bracelets & Watch",
+   "price": 15,
+   "area": "chattanooga",
+   "url": "https://www.craigslist.org/view/d/dunlap-bracelets-watch/bAgNkdsZCk2c3FgwpBdgMk",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 16.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7983123567",
    "title": "Vintage Asian storage or Jewelry  Box",
    "price": 20,
@@ -805,6 +827,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974189018",
+   "title": "Collection of Beaded Necklaces and Bracelets",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/dublin-collection-of-beaded-necklaces/5GSC23Jaew4T15qrwBfrfp",
+   "best": "Assorted Lot of 14 Amethyst Quartz Malachite Onyx Amazonite ...",
+   "med": 264,
+   "ratio": 13.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7976769864",
    "title": "Vintage Coca-Cola Bottles \u2013 Set of 8 ($10 Each / $40 for All)",
    "price": 10,
@@ -890,6 +923,17 @@
    "best": "Set Of 4 Hobby Lobby Bubble Glass Clear Ball Candlesticks ...",
    "med": 68,
    "ratio": 11.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954510305",
+   "title": "VINTAGE STERLING SILVER LAGOS CHARM BRACELET WITH 14K CROSS CHARM",
+   "price": 150,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/grand-prairie-vintage-sterling-silver/srdNNWkmu5P3huvbWDPEX5",
+   "best": "SAINT by Sarah Jane 19 inch Sterling Silver Double Link ...",
+   "med": 1695,
+   "ratio": 11.3,
    "ai_value": ""
   },
   {
@@ -1000,6 +1044,17 @@
    "best": "eBay",
    "med": 300,
    "ratio": 8.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940645134",
+   "title": "Vintage \u2018SeaShell Coast\u2019 Original Signed Painting Canvas",
+   "price": 119,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-seashell-coast/tk8nNL2SYr28i7WFCYZtPR",
+   "best": "CRIS REVERDY : Nautical",
+   "med": 995,
+   "ratio": 8.36,
    "ai_value": ""
   },
   {
@@ -1410,6 +1465,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940681586",
+   "title": "20 pieces of antique sewing items",
+   "price": 10,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/palmyra-20-pieces-of-antique-sewing/wqTZhovFnuWtuxPrf7kuKz",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -1504,6 +1570,17 @@
    "area": "kansascity",
    "url": "https://www.craigslist.org/view/d/kansas-city-old-story-books/31Ynk9dq45Hn3eNrGWX9WY",
    "best": "Amazon.com",
+   "med": 45,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941826288",
+   "title": "Vintage Silver tone Circle of Hearts Pendant Necklace",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-silver-tone/sbp7i7ifAE513bVc1jcCan",
+   "best": "eBay",
    "med": 45,
    "ratio": 4.5,
    "ai_value": ""
@@ -2235,6 +2312,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979810016",
+   "title": "Jewelry and More",
+   "price": 25,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-jewelry-and-more/h2DZXGKkTGG6fZMBgHHPCR",
+   "best": "Vintage lot of 17 earrings,brooches & pendants Trifari, avon ...",
+   "med": 65,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7948625232",
    "title": "Sterling Silver Twisted Herringbone 20 1/2\u201d Necklace",
    "price": 35,
@@ -2312,6 +2400,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980988860",
+   "title": "Vintage Yale Locks and Assorted Key Collection",
+   "price": 45,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-yale-locks-and-assorted/5T2QG5qkWoUrS8w6reioAP",
+   "best": "VINTAGE SKELTON KEYS & LOCKS LOT OF 41 PIECES | eBay",
+   "med": 110,
+   "ratio": 2.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7938203567",
    "title": "Silver cuff bracelet",
    "price": 65,
@@ -2350,6 +2449,17 @@
    "price": 50,
    "area": "slo",
    "url": "https://www.craigslist.org/view/d/templeton-juicy-couture-ring-size-or/jWQYkRswiKRz28N72UQ7tG",
+   "best": "Etsy",
+   "med": 120,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947072435",
+   "title": "3 vintage chinese tea caddies",
+   "price": 50,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-vintage-chinese-tea/oRg4HLeiZLhMwsyztz6rCo",
    "best": "Etsy",
    "med": 120,
    "ratio": 2.4,
@@ -2895,6 +3005,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953070017",
+   "title": "Antique Men's Tie Clip w/ Hallmark",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/aquebogue-antique-mens-tie-clip-hallmark/47YDRk1zBPdj8x8VygvDbD",
+   "best": "Etsy",
+   "med": 28,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7963446408",
    "title": "Antique Victorian American Waltham 1891 Ladies Pocket Watch",
    "price": 350,
@@ -3038,6 +3159,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935313499",
+   "title": "1940s Roseville Vase",
+   "price": 65,
+   "area": "jxn",
+   "url": "https://www.craigslist.org/view/d/grass-lake-1940s-roseville-vase/vaMqpQZB2HpBLNT97thwNS",
+   "best": "Just Art Pottery",
+   "med": 114,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7950375313",
    "title": "Hammered Sterling Silver ring size 10",
    "price": 40,
@@ -3079,6 +3211,17 @@
    "best": "eBay",
    "med": 60,
    "ratio": 1.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967127546",
+   "title": "925 Sterling Silver Unisex 16.5\" Choker 19.22g",
+   "price": 49,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/ballwin-925-sterling-silver-unisex-165/iNyoEy5mLqgN73qMSFVof9",
+   "best": "eBay",
+   "med": 83,
+   "ratio": 1.69,
    "ai_value": ""
   },
   {
@@ -3500,6 +3643,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940477470",
+   "title": "sake cup",
+   "price": 100,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/winchester-sake-cup/1QiWn88PPUxbLXyZbDt86C",
+   "best": "eismont.com",
+   "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -3786,6 +3940,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943793665",
+   "title": "Vintage Silvertone Model f-63",
+   "price": 75,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/mc-adenville-vintage-silvertone-model-63/vm5N4KfbQ6i2R518zcgsU7",
+   "best": "Evolution Music",
+   "med": 100,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -3836,6 +4001,17 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/fountain-valley-vintage-long-layered/8CfxzYkMmZoVNa6ET1jBAE",
    "best": "Lab Created Opal Double Sided Slab Style 2 Strand Necklace ...",
+   "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931973303",
+   "title": "Vintage Fine Quality Bisque Porcelain Merri- Bell",
+   "price": 10,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-fine-quality-bisque/u8WbCqDY4DvwHatL55eRqD",
+   "best": "eBay",
    "med": 13,
    "ratio": 1.3,
    "ai_value": ""
@@ -4743,6 +4919,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983284955",
+   "title": "Handmade Decoupage Shell Art lot",
+   "price": 24,
+   "area": "easternshore",
+   "url": "https://www.craigslist.org/view/d/ocean-city-handmade-decoupage-shell-art/rkaqCfPWk85NAKSPLRdxze",
+   "best": "Etsy",
+   "med": 19,
+   "ratio": 0.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7948679755",
    "title": "** Original Signed Painting - \u201cBarnegat Light\u201d -  Old Barney -**",
    "price": 125,
@@ -5278,6 +5465,17 @@
    "url": "https://www.craigslist.org/view/d/lake-stevens-hummel-figurines-vintage/2GzPfZ4MY6fD1VS6pMCfwU",
    "best": "Lot of 8 Vintage Hummel Goebel figurines | eBay",
    "med": 70,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980876138",
+   "title": "Lot of 3 Vintage Stangl Decorative Pheasant/Duck Ashtrays",
+   "price": 75,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/pennington-lot-of-vintage-stangl/sLBaPrGnLnxVKUtYNCf2kj",
+   "best": "eBay",
+   "med": 35,
    "ratio": 0.47,
    "ai_value": ""
   },

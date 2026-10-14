@@ -1,5 +1,5 @@
 {
-"made": "2026-10-14T15:12:46Z",
+"made": "2026-10-14T15:16:09Z",
 "files": [
 {
 "path": "db/comps.jsonl",
@@ -7,7 +7,7 @@
 },
 {
 "path": "db/events/2026-10.jsonl",
-"sha": "3145ad77edc0fcaea88a222aa68e27eb40609f95"
+"sha": "bd1d5970da4dba8b52fffb533c948ae6b2c3d82f"
 },
 {
 "path": "db/harvests.jsonl",
@@ -19,7 +19,7 @@
 },
 {
 "path": "db/lens/2026-10.jsonl",
-"sha": "1dea5666e9a87de8f53f698eae04c2fcda81a8ad"
+"sha": "c508be51d823ffbd19b0d90897c5d25f63c2f4a0"
 },
 {
 "path": "db/listings/2026-10.jsonl",
