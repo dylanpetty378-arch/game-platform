@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:29:43Z",
+ "updated": "2026-10-14T06:33:36Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7899,
-  "events": 29913,
+  "lens": 7924,
+  "events": 29938,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 553,
-  "flagged": 201,
-  "lensed": 48
+  "queued": 528,
+  "flagged": 213,
+  "lensed": 61
  },
  "last_harvests": [
   {
@@ -584,6 +584,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976613474",
+   "title": "Garden TOOLS LOT Vintage Antique Shabby Chic",
+   "price": 9,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-tools-lot-vintage-antique-shabby/xiZ9fGAc4eSYRqDQWarrmw",
+   "best": "Kusakichi Kana Scraper (Short Handle) - HIDA TOOL",
+   "med": 80,
+   "ratio": 8.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7977883716",
    "title": "Five Old Straight Razors - Varying Conditions",
    "price": 20,
@@ -705,6 +716,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7942709433",
+   "title": "UPDATE: Assorted Jewelry - Individual Packets or Buy the Lot!",
+   "price": 5,
+   "area": "prescott",
+   "url": "https://www.craigslist.org/view/d/prescott-update-assorted-jewelry/55KMyRrjpbZgML5o3gCjbG",
+   "best": "Lot Of 28 Pair Wearable Fashion Earrings - Vintage To Now ...",
+   "med": 30,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951592248",
+   "title": "2 Vintage Pocket knives",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-pocket-knives/mBb6ZtWtAvkarHe2iW9sdS",
+   "best": "Lot - Vintage c. 1940's Boy Scouts of America Ulster Jack ...",
+   "med": 90,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7933438341",
    "title": "Vintage Asian Brass Incense Burner / Censer",
    "price": 70,
@@ -734,6 +767,17 @@
    "url": "https://www.craigslist.org/view/d/boise-vintage-goldette-ny-bracelet-gold/wPNtaQPczjF1QxV2SUT7H3",
    "best": "Craigslist",
    "med": 80,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979202531",
+   "title": "Turquoise, Sante Fe Style",
+   "price": 75,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-turquoise-sante-fe-style/tYVkz7Zwa1qVx37iMifMEB",
+   "best": "Vintage Silpada DROPS OF THE OCEAN Sterling Silver Howlite ...",
+   "med": 400,
    "ratio": 5.33,
    "ai_value": ""
   },
@@ -1002,6 +1046,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943638069",
+   "title": "Vintage Handmade Sterling Silver 6 1/2\u201d Floral Dangle Bracelet",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-handmade-sterling/uuMf7aXbNQXb3C9BiDwPH6",
+   "best": "Yemenite tribal antique filigree silver anklet leg bracelet ...",
+   "med": 241,
+   "ratio": 3.21,
+   "ai_value": ""
+  },
+  {
    "pid": "7929881101",
    "title": "Vintage ladies Benrus,10k r.g.p, w/diamonds, needs serviced.",
    "price": 60,
@@ -1185,6 +1240,17 @@
    "url": "https://www.craigslist.org/view/d/sandia-park-sterling-silver-and/wsiWVi2EANuygFeDefeCMb",
    "best": "eBay",
    "med": 177,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949715306",
+   "title": "Nautical Artwork By Ralph S.Coventry",
+   "price": 55,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/kenmore-nautical-artwork-by-ralph/obgxLT4Tmng6hGDmZPpzB4",
+   "best": "Foil Art Rough Waters Stormy Skies & A Ship Wood Frame Ralph ...",
+   "med": 130,
    "ratio": 2.36,
    "ai_value": ""
   },
@@ -1552,6 +1618,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951092953",
+   "title": "Bracelet (8)",
+   "price": 13,
+   "area": "amarillo",
+   "url": "https://www.craigslist.org/view/d/amarillo-bracelet/vztW4fdfHmVerPyY3cRzVN",
+   "best": "Etsy",
+   "med": 20,
+   "ratio": 1.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7951372734",
    "title": "Antique Silver Jewelry Tribal Indian India  Asian",
    "price": 99,
@@ -1849,6 +1926,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972377552",
+   "title": "Teenager Necklaces & Bracelet",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-teenager-necklaces-bracelet/iJ7muxwpdxM67P1iVzDWh7",
+   "best": "Vintage Estate Jewelry Lot of 8 necklaces all Wearable one ...",
+   "med": 18,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950509932",
    "title": "New Set of 2 Hand-Crafted Clay Figurines",
    "price": 85,
@@ -2044,6 +2132,17 @@
    "best": "Etsy",
    "med": 30,
    "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954791610",
+   "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
+   "price": 200,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-navajo-sterling/tp9185MUDVtugpvgJz21TM",
+   "best": "Sandcast Stamped Sterling Silver Cuff Bracelet by Derrick ...",
+   "med": 199,
+   "ratio": 0.99,
    "ai_value": ""
   },
   {
@@ -2344,6 +2443,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944220572",
+   "title": "Sterling Silver Earrings",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-earrings/uWkuXbvuTAvGCEydS79HrU",
+   "best": "Monet Textured Silvertone C Clip on Earrings - Etsy",
+   "med": 15,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7944220078",
    "title": "Sterling Silver Siam Earrings",
    "price": 35,
@@ -2406,6 +2516,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-vintage-gold-tone-cream/tKtQDf3ZT5uUPFJvb7bXhR",
    "best": "eBay",
    "med": 16,
+   "ratio": 0.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947692369",
+   "title": "SEIKO HI-BEAT Automatic ladie Watch",
+   "price": 240,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-mirada-seiko-hi-beat-automatic-ladie/mK4Wc8xv4oiJ2FtpeeVHEE",
+   "best": "u148 Seiko DX Automatic Day Date 17 J - Ref 6106-5429",
+   "med": 110,
    "ratio": 0.46,
    "ai_value": ""
   },
@@ -2561,6 +2682,17 @@
    "best": "Beads of Paradise",
    "med": 35,
    "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954379451",
+   "title": "Huge vintage doll house lot",
+   "price": 150,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-huge-vintage-doll-house-lot/65XQrHTgZosdhwh1F8LnVX",
+   "best": "eBay",
+   "med": 27,
+   "ratio": 0.18,
    "ai_value": ""
   },
   {
