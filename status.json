@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-14T20:58:17Z",
+ "updated": "2026-10-14T21:26:03Z",
  "tables": {
   "harvests": 11,
-  "searches": 2386,
+  "searches": 2614,
   "listings": 11383,
-  "lens": 9249,
-  "events": 32864,
-  "comps": 2156,
+  "lens": 9274,
+  "events": 32889,
+  "comps": 2358,
   "item_types": 893,
   "runs": 0
  },
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 803,
-  "flagged": 931,
-  "lensed": 337
+  "queued": 778,
+  "flagged": 952,
+  "lensed": 341
  },
  "last_harvests": [
   {
@@ -762,6 +762,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931909724",
+   "title": "Gold pocket watch",
+   "price": 20,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/summerland-gold-pocket-watch/g8xCckmuaPkLBZaNrSSioq",
+   "best": "1975 Vintage Wittnauer Gold Plated Pocket Watch Floral ...",
+   "med": 1039,
+   "ratio": 51.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7978102380",
    "title": "BARBARA  A. WOOD",
    "price": 44,
@@ -1100,6 +1111,17 @@
    "best": "Vtg Gold Plate Flatware Set 86 Pc Wooden Box GOLDEN BOUQUET ...",
    "med": 572,
    "ratio": 22.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952347705",
+   "title": "Vintage Clip-on & Screw-back Earrings   Lot #1",
+   "price": 10,
+   "area": "yakima",
+   "url": "https://www.craigslist.org/view/d/roslyn-vintage-clip-on-screw-back/cGqNFKGvfkbBbcCQEYJRgd",
+   "best": "18 Vintage Pairs of Earrings (A4347) - Etsy",
+   "med": 225,
+   "ratio": 22.5,
    "ai_value": ""
   },
   {
@@ -1551,6 +1573,17 @@
    "best": "eBay",
    "med": 1395,
    "ratio": 14.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949206185",
+   "title": "LONGINES Vintage Gentleman's WRISTWATCH",
+   "price": 199,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-longines-vintage-gentlemans/1b9c4n82ndiyU8hhvTbiSN",
+   "best": "Craigslist",
+   "med": 2801,
+   "ratio": 14.08,
    "ai_value": ""
   },
   {
@@ -2258,6 +2291,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936809220",
+   "title": "Sterling,Marcasite, Green Stone Necklace",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-sterlingmarcasite-green/isRz2EDLPLcNVVrBst46AD",
+   "best": "eBay",
+   "med": 225,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7979401251",
    "title": "Antique Walking Sticks $25.00 Each",
    "price": 25,
@@ -2343,6 +2387,17 @@
    "best": "1900's 14\" Composite Doll: Straw Stuffed Body: Jointed Arms ...",
    "med": 64,
    "ratio": 7.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959319368",
+   "title": "PORTRAIT Vintage",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/portrait-vintage/d6zrjPRmbjNFYmSe7gyb6E",
+   "best": "Etsy",
+   "med": 176,
+   "ratio": 7.04,
    "ai_value": ""
   },
   {
@@ -4018,6 +4073,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953802456",
+   "title": "Lot of 6 Vintage Pendants",
+   "price": 10,
+   "area": "yakima",
+   "url": "https://www.craigslist.org/view/d/roslyn-lot-of-vintage-pendants/5H5sPvEoeWs5iErZ1NBWVS",
+   "best": "Colgante o dije de collar con espada de castillo medieval de ...",
+   "med": 30,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -4205,6 +4271,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7948158807",
+   "title": "Vintage religious necklaces (set of 4)",
+   "price": 20,
+   "area": "eauclaire",
+   "url": "https://www.craigslist.org/view/d/chetek-vintage-religious-necklaces-set/7vBuDquDuTmhpTkn8WrZYi",
+   "best": "Estate Find Dainty Necklaces X 4. 2- .925, 1- SARAH COV ...",
+   "med": 55,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974777498",
+   "title": "Vintage Rhinestone Necklace",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-rhinestone-necklace/qN7dvfvnGZhL2s1338JNi9",
+   "best": "Vintage Art Deco Revival Brass Rhinestone Necklace | eBay",
+   "med": 55,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7953763068",
    "title": "Beautiful Pottery Bowl",
    "price": 82,
@@ -4268,6 +4356,17 @@
    "best": "925 Sterling Silver Oval Blue Turquoise Pendant 18.9 Grams ...",
    "med": 79,
    "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944177949",
+   "title": "Vintage Natural Oval Green Turquoise Gemstone & Sterling Silver Ring 7",
+   "price": 49,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-natural-oval/dFxQhRB75Uw1byR4hn5y9z",
+   "best": "eBay",
+   "med": 128,
+   "ratio": 2.61,
    "ai_value": ""
   },
   {
@@ -4795,6 +4894,17 @@
    "url": "https://www.craigslist.org/view/d/brick-antique-pyrex-mixing-bowlsset-of/qsjip2o31mDLcxiWNoAqzh",
    "best": "eBay",
    "med": 190,
+   "ratio": 2.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938728107",
+   "title": "Antique Trenton Pocket Watch",
+   "price": 71,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/lakewood-antique-trenton-pocket-watch/5LYiXsvikiizokrV84wUYh",
+   "best": "Ruby Lane",
+   "med": 159,
    "ratio": 2.24,
    "ai_value": ""
   },
@@ -5800,6 +5910,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950454625",
+   "title": "21J WALTHAM VANGUARD VINTAGE RAILROAD POCKET WATCH",
+   "price": 300,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-21j-waltham-vanguard-vintage/oWPYjUEYWtXY92K6envgJn",
+   "best": "eBay",
+   "med": 500,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965008391",
    "title": "Vintage Hand embroidered Elephant Tapestry",
    "price": 175,
@@ -6138,6 +6259,17 @@
    "best": "longines ademral tv dial - Gem",
    "med": 380,
    "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950454675",
+   "title": "Elgin Silver Big Antique POCKET WATCH \u231a",
+   "price": 199,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-elgin-silver-big-antique/oA1ZWymVwXz1M3cxzUZewa",
+   "best": "eBay",
+   "med": 300,
+   "ratio": 1.51,
    "ai_value": ""
   },
   {
@@ -7054,6 +7186,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940140677",
+   "title": "Necklace Earrings Set Vintage Costume Jewelry Excellent!",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-necklace-earrings-set-vintage/cXCH4LxqrXkQK6bEuenydX",
+   "best": "Etsy",
+   "med": 49,
+   "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7955408722",
    "title": "Earring-sterling and turquoise",
    "price": 25,
@@ -7138,6 +7281,17 @@
    "url": "https://www.craigslist.org/view/d/lake-worth-sex-and-the-city-love/dbyj5Y4JYF4c99au5yDKLX",
    "best": "eBay",
    "med": 18,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975781388",
+   "title": "Vintage Bulova 17j Pocket watch",
+   "price": 125,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/kerby-vintage-bulova-17j-pocket-watch/xnpKLtBdq16Hob332oughi",
+   "best": "Bulova Vintage Pocket Watch Linen Dial Beautiful Condition ...",
+   "med": 150,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -7824,6 +7978,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963960539",
+   "title": "Beach themed Jewelry",
+   "price": 15,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/casco-beach-themed-jewelry/6mkryEsvpqdBy4L52UbHAA",
+   "best": "Silver Beach Starfish Anklet Seashell Charm Ankle Bracelet ...",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -7930,6 +8095,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-red-coral/n8nZkLcJ9Yzk9unorvXudb",
    "best": "eBay",
    "med": 75,
+   "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983530676",
+   "title": "vintage Ingersol pocket watch",
+   "price": 85,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/solon-vintage-ingersol-pocket-watch/9s8Hq9eqCejd78ig4JfAyG",
+   "best": "eBay",
+   "med": 80,
    "ratio": 0.94,
    "ai_value": ""
   },
@@ -8282,6 +8458,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-vintage-decorative-railroad/gkm5gZWPxwK6tYWLmAJCa8",
    "best": "eBay",
    "med": 25,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983422766",
+   "title": "3 VINTAGE POCKET KNIVES",
+   "price": 60,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/walled-lake-vintage-pocket-knives/vvDZ6p7RDVdZ2d1S8Ebn3C",
+   "best": "eBay",
+   "med": 50,
    "ratio": 0.83,
    "ai_value": ""
   },
@@ -8722,6 +8909,17 @@
    "url": "https://www.craigslist.org/view/d/conowingo-vintage-cc-hughes-1923/bmad5DndrqwQtvouDYqWwA",
    "best": "Relic Vintage Watch Women ZR 71010 One Jewel | eBay",
    "med": 45,
+   "ratio": 0.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937129540",
+   "title": "Antique Hampden Watch Co. Gold Filled Dueber Special Pocket",
+   "price": 499,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/clearwater-antique-hampden-watch-co/6ZyyeywxuamEcVM3uSqyVt",
+   "best": "eBay",
+   "med": 345,
    "ratio": 0.69,
    "ai_value": ""
   },
@@ -9243,6 +9441,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949417120",
+   "title": "Earing Lot 6 Pairs Vintage Earrings",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-earing-lot-pairs-vintage/ifRbiufzTz7VjiAA1FMwhu",
+   "best": "6 pairs rare vintage - Gem",
+   "med": 25,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7944220078",
    "title": "Sterling Silver Siam Earrings",
    "price": 35,
@@ -9584,6 +9793,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955964565",
+   "title": "Carolyn Pollack Sterling Necklace 3pc Set",
+   "price": 400,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-carolyn-pollack-sterling-necklace/9wao3PbvcvQXnEeRaiTPH2",
+   "best": "Craigslist",
+   "med": 148,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7981590990",
    "title": "Sterling Silver & Larimar ring - size10",
    "price": 150,
@@ -9769,6 +9989,17 @@
    "med": 135,
    "ratio": 0.3,
    "ai_value": ""
+  },
+  {
+   "pid": "7962710313",
+   "title": "Playskool vintage toy lot",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/kingston-playskool-vintage-toy-lot/gksEkNz2YJRmqbL1XqFvhE",
+   "best": "Craigslist",
+   "med": 30,
+   "ratio": 0.3,
+   "ai_value": "Price Dollhouses (1963-Now) | eBay $12"
   },
   {
    "pid": "7983165459",
