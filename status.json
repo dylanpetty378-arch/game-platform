@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:09:13Z",
+ "updated": "2026-10-14T06:13:00Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7774,
-  "events": 29788,
+  "lens": 7799,
+  "events": 29813,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 147,
+  "queued/relens": 148,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 678,
-  "flagged": 104,
-  "lensed": 21
+  "queued": 653,
+  "flagged": 126,
+  "lensed": 23
  },
  "last_harvests": [
   {
@@ -452,6 +452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941406369",
+   "title": "Antique Oil Painting",
+   "price": 75,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/kings-park-antique-oil-painting/h4iE3V9ievpkUNNiFKPzs7",
+   "best": "Artist is 'E SENECA' - Anyone know of this artist? : r ...",
+   "med": 3000,
+   "ratio": 40,
+   "ai_value": ""
+  },
+  {
    "pid": "7954896055",
    "title": "Gold Tone Charm Bracelet",
    "price": 12,
@@ -482,6 +493,28 @@
    "best": "Amazon.com",
    "med": 500,
    "ratio": 14.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931311842",
+   "title": "Vintage.925/Gold Vermeil Amethyst and diamond cocktail ring",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fort-washington-vintage925-gold-vermeil/cJJEZTJUo12WxGXkoD4zjF",
+   "best": "Gem",
+   "med": 677,
+   "ratio": 13.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942937814",
+   "title": "Bracelets",
+   "price": 15,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/broken-arrow-bracelets/hnkM2T4Fs2MDbm6MmrNoeg",
+   "best": "eBay",
+   "med": 175,
+   "ratio": 11.67,
    "ai_value": ""
   },
   {
@@ -672,6 +705,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972045461",
+   "title": "Watercolor Sailboats Signed -",
+   "price": 120,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-watercolor-sailboats-signed/sGeMbPiXr2e6V2phJA6aRo",
+   "best": "Lily Pad Galleries",
+   "med": 450,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7940918247",
    "title": "Vintage Ceramic Peace Sign Pendant",
    "price": 30,
@@ -691,6 +735,17 @@
    "best": "eBay",
    "med": 145,
    "ratio": 3.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983202050",
+   "title": "Vintage Classical Guitar",
+   "price": 100,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/pleasant-hill-vintage-classical-guitar/2AnMgb3sr4agEbRx4B6v6C",
+   "best": "Julian Espinosa 1971 - Ignacio Fleta style classical guitar ...",
+   "med": 350,
+   "ratio": 3.5,
    "ai_value": ""
   },
   {
@@ -760,6 +815,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7953763068",
+   "title": "Beautiful Pottery Bowl",
+   "price": 82,
+   "area": "flint",
+   "url": "https://www.craigslist.org/view/d/burton-beautiful-pottery-bowl/dhuABrdqmNF5ARhi49fq79",
+   "best": "eBay",
+   "med": 225,
+   "ratio": 2.74,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953206201",
+   "title": "Sterling Silver & Teal Turquoise Pendant",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-teal/bv98NYyEP5ysjSd3nN26qh",
+   "best": "925 Sterling Silver Oval Blue Turquoise Pendant 18.9 Grams ...",
+   "med": 79,
+   "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7951810082",
    "title": "Antique 800 Silver FG part of pocket watch",
    "price": 95,
@@ -768,6 +845,17 @@
    "best": "EJ's Auction & Appraisal",
    "med": 235,
    "ratio": 2.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938203567",
+   "title": "Silver cuff bracelet",
+   "price": 65,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-silver-cuff-bracelet/acvRUVu8mvgUKRD7raREdQ",
+   "best": "Savvy Collector",
+   "med": 158,
+   "ratio": 2.43,
    "ai_value": ""
   },
   {
@@ -1013,6 +1101,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952922486",
+   "title": "Blow Glass Vase",
+   "price": 40,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/kansas-city-blow-glass-vase/hJZ5bPN1yJLnmNNJ7rhekx",
+   "best": "Bol",
+   "med": 64,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7931762213",
    "title": "Vintage Turquoise & Sterling Silver Navajo Cuff - 110g",
    "price": 445,
@@ -1065,6 +1164,28 @@
    "best": "Etsy",
    "med": 30,
    "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948672857",
+   "title": "Sterling Silver 16 1/4\u201d Omega Necklace",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-omega/g1kY8h1ptk98JA7enZndHe",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947141905",
+   "title": "Sterling Silver Filigree Size 7 1/2 Ring",
+   "price": 25,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-sterling-silver-filigree-size/56fHc2gG47Z7d1eYWfCqwo",
+   "best": "Etsy",
+   "med": 37,
+   "ratio": 1.48,
    "ai_value": ""
   },
   {
@@ -1145,6 +1266,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932009777",
+   "title": "Vintage Navajo Sterling Silver & Turquoise Size 7.25 Ring",
+   "price": 110,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-navajo-sterling/tgAGhqB4V4Ps7GgzN39sRk",
+   "best": "eBay",
+   "med": 137,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7955408722",
    "title": "Earring-sterling and turquoise",
    "price": 25,
@@ -1163,6 +1295,17 @@
    "url": "https://www.craigslist.org/view/d/waterford-signed-navaho-vase/aCbYwk3d4fumyczHprRAud",
    "best": "Invaluable.com",
    "med": 60,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932008294",
+   "title": "Vintage Dutch Button Silver Size 5 Ring",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-dutch-button/9Zut9yGHtdPtB8zR6B2QQ4",
+   "best": "Etsy",
+   "med": 120,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -1197,6 +1340,28 @@
    "best": "eBay",
    "med": 140,
    "ratio": 1.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962599217",
+   "title": "Two pendants",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-two-pendants/qJwtUYxX7kB1R5QGqJ4zD8",
+   "best": "Craigslist",
+   "med": 22,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953208838",
+   "title": "Sterling Silver & Turquoise Pendant",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-turquoise/bXtRue7CLTsrNzSvxo2fV6",
+   "best": "Craigslist",
+   "med": 55,
+   "ratio": 1.1,
    "ai_value": ""
   },
   {
@@ -1255,6 +1420,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943192265",
+   "title": "Sterling Silver & Coral Size 6 Ring",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-coral/iKhXqiASkiuuMthqaDs88q",
+   "best": "Etsy",
+   "med": 30,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954817436",
    "title": "Vintage Fragonard Lot of 2 Brooches Porcelain Romantic Scene & Gold Tr",
    "price": 22,
@@ -1306,6 +1482,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-sterling-silver/iWFugPB878hna4uRfVPaVq",
    "best": "Etsy",
    "med": 45,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969934025",
+   "title": "porcelain antique ROSEVILLE NEW WHARF POTTERY england",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-porcelain-antique-roseville/6g86C8qtFgdjt7UnSCV7gJ",
+   "best": "Pinterest",
+   "med": 90,
    "ratio": 0.9,
    "ai_value": ""
   },
@@ -1362,6 +1549,28 @@
    "best": "eBay",
    "med": 25,
    "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933722942",
+   "title": "New Vintage Doll/Clown Heads & Doll Faces",
+   "price": 35,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-new-vintage-doll-clown/pFmfcVVDVvYW6yzg2LdKv4",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950985223",
+   "title": "Silver turquoise bracelet",
+   "price": 175,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-silver-turquoise-bracelet/osoGCMsPFtXDutgD83B1sX",
+   "best": "eBay",
+   "med": 99,
+   "ratio": 0.57,
    "ai_value": ""
   },
   {
@@ -1519,6 +1728,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951742975",
+   "title": "Sterling Silver 925 Lot Mexico India Scandivai Italy Necklace Bracelet",
+   "price": 99,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/irvine-sterling-silver-925-lot-mexico/qjyp3gW9Kw2aS7kNq3cmZ8",
+   "best": "Etsy",
+   "med": 27,
+   "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7954011806",
    "title": "Vintage Tennis Photo",
    "price": 100,
@@ -1558,6 +1778,28 @@
    "area": "tucson",
    "url": "https://www.craigslist.org/view/d/tucson-sterling-silver-filigree-earrings/oYeyZ4xoEJKF8Dij6d1o36",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979586783",
+   "title": "Goya g15 #369968",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/fremont-goya/copsEmKj8csRQScpCiPz14",
+   "best": "Maxsold",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946637602",
+   "title": "18 K gold cross",
+   "price": 495,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-18-gold-cross/cnujJNn9S7zz6oCxKfAieL",
+   "best": "Etsy",
    "med": null,
    "ratio": null,
    "ai_value": ""

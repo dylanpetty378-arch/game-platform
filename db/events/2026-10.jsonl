@@ -29786,3 +29786,28 @@
 {"ts":"2026-10-14T06:08:32Z","pid":"7931592455","stage":"flagged","run":"lensworker-20261014-0602","note":"Lens names Jewelry, Onyx — title does not","data":{"med":49,"ratio":1.96,"mismatch":["Jewelry","Onyx"]}}
 {"ts":"2026-10-14T06:08:40Z","pid":"7947692053","stage":"flagged","run":"lensworker-20261014-0602","note":"Lens names Gold, Victor — title does not","data":{"med":315,"ratio":1.91,"mismatch":["Gold","Victor"]}}
 {"ts":"2026-10-14T06:08:52Z","pid":"7959823173","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Jewelry, Silver — title does not","data":{"med":110,"ratio":2.2,"mismatch":["Jewelry","Silver"]}}
+{"ts":"2026-10-14T06:09:02Z","pid":"7947141905","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Jewelry — title does not","data":{"med":37,"ratio":1.48,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-14T06:09:12Z","pid":"7953206201","stage":"flagged","run":"lensworker-20261014-0605","note":null,"data":{"med":79,"ratio":2.63,"mismatch":[]}}
+{"ts":"2026-10-14T06:09:20Z","pid":"7933722942","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Collectible — title does not","data":{"med":20,"ratio":0.57,"mismatch":["Collectible"]}}
+{"ts":"2026-10-14T06:09:28Z","pid":"7950985223","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Boutique, Mexican, Native, Navajo — title does not","data":{"med":99,"ratio":0.57,"mismatch":["Boutique","Mexican","Native","Navajo"]}}
+{"ts":"2026-10-14T06:09:34Z","pid":"7972045461","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Artist, Creative, Lisa, Rogers — title does not","data":{"med":450,"ratio":3.75,"mismatch":["Artist","Creative","Lisa","Rogers"]}}
+{"ts":"2026-10-14T06:09:46Z","pid":"7952922486","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Amber — title does not","data":{"med":64,"ratio":1.6,"mismatch":["Amber"]}}
+{"ts":"2026-10-14T06:09:57Z","pid":"7962599217","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Amber, Jewelry, Silver — title does not","data":{"med":22,"ratio":1.1,"mismatch":["Amber","Jewelry","Silver"]}}
+{"ts":"2026-10-14T06:10:04Z","pid":"7958719842","stage":"lensed","run":"lensworker-20261014-0605","note":null,"data":{"med":120,"ratio":2.4,"mismatch":[]}}
+{"ts":"2026-10-14T06:10:15Z","pid":"7969934025","stage":"flagged","run":"lensworker-20261014-0605","note":null,"data":{"med":90,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-14T06:10:24Z","pid":"7953763068","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Evans — title does not","data":{"med":225,"ratio":2.74,"mismatch":["Evans"]}}
+{"ts":"2026-10-14T06:10:32Z","pid":"7972039542","stage":"lensed","run":"lensworker-20261014-0605","note":null,"data":{"med":10,"ratio":0.13,"mismatch":[]}}
+{"ts":"2026-10-14T06:10:39Z","pid":"7931311842","stage":"flagged","run":"lensworker-20261014-0605","note":null,"data":{"med":677,"ratio":13.54,"mismatch":[]}}
+{"ts":"2026-10-14T06:10:50Z","pid":"7953208838","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Gift — title does not","data":{"med":55,"ratio":1.1,"mismatch":["Gift"]}}
+{"ts":"2026-10-14T06:11:00Z","pid":"7932008294","stage":"flagged","run":"lensworker-20261014-0605","note":null,"data":{"med":120,"ratio":1.2,"mismatch":[]}}
+{"ts":"2026-10-14T06:11:10Z","pid":"7979586783","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Spanish — title does not","data":{"med":null,"ratio":null,"mismatch":["Spanish"]}}
+{"ts":"2026-10-14T06:11:16Z","pid":"7943192604","stage":"queued","status":"relens","run":"lensworker-20261014-0605","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T06:11:25Z","pid":"7932009777","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Native — title does not","data":{"med":137,"ratio":1.25,"mismatch":["Native"]}}
+{"ts":"2026-10-14T06:11:32Z","pid":"7948672857","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Gold, Jewelry — title does not","data":{"med":150,"ratio":1.5,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-14T06:11:43Z","pid":"7942937814","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Gold, Silver, Wheat — title does not","data":{"med":175,"ratio":11.67,"mismatch":["Gold","Silver","Wheat"]}}
+{"ts":"2026-10-14T06:11:50Z","pid":"7941406369","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Artist, Reproductions — title does not","data":{"med":3000,"ratio":40,"mismatch":["Artist","Reproductions"]}}
+{"ts":"2026-10-14T06:12:00Z","pid":"7943192265","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Native — title does not","data":{"med":30,"ratio":1,"mismatch":["Native"]}}
+{"ts":"2026-10-14T06:12:09Z","pid":"7938203567","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Cable, Navajo — title does not","data":{"med":158,"ratio":2.43,"mismatch":["Cable","Navajo"]}}
+{"ts":"2026-10-14T06:12:20Z","pid":"7951742975","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Fashion, Indian, Jewelry — title does not","data":{"med":27,"ratio":0.27,"mismatch":["Fashion","Indian","Jewelry"]}}
+{"ts":"2026-10-14T06:12:27Z","pid":"7946637602","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Jewelry — title does not","data":{"med":null,"ratio":null,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-14T06:12:37Z","pid":"7983202050","stage":"flagged","run":"lensworker-20261014-0605","note":"Lens names Conn, MIJ — title does not","data":{"med":350,"ratio":3.5,"mismatch":["Conn","MIJ"]}}
