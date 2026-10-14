@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T16:51:53Z",
+ "updated": "2026-10-14T16:55:51Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 9188,
-  "events": 32002,
+  "lens": 9213,
+  "events": 32027,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 64,
-  "flagged": 890,
-  "lensed": 321
+  "queued": 39,
+  "flagged": 904,
+  "lensed": 332
  },
  "last_harvests": [
   {
@@ -1124,6 +1124,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983268932",
+   "title": "French Brass/Bronze Vintage Garniture Urns? 13 1/2\" Tall",
+   "price": 150,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/springfield-french-brass-bronze-vintage/pHqSkyNpfocsZGd4Rxx2xs",
+   "best": "eBay",
+   "med": 2850,
+   "ratio": 19,
+   "ai_value": ""
+  },
+  {
    "pid": "7932946037",
    "title": "Vintage Signed Pendant Necklace on long corded chain with lobster",
    "price": 5,
@@ -2158,6 +2169,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7967349162",
+   "title": "Vintage \"Little Miss Junket\" Advertising Pin",
+   "price": 2,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/wyoming-vintage-little-miss-junket/qwoWdNTishmVPXF5F4zSiY",
+   "best": "Busy Beaver Button Museum",
+   "med": 15,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940835030",
+   "title": "8 Vintage World Banknotes Collection-Includes Uncirculated!",
+   "price": 20,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/conowingo-vintage-world-banknotes/8r4zBV1edBHHQ5yaZA2RhW",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7979401251",
    "title": "Antique Walking Sticks $25.00 Each",
    "price": 25,
@@ -2807,6 +2840,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965379500",
+   "title": "\ud83c\udfb8 Guitar +",
+   "price": 40,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/laurel-guitar/iWDU2nyqFKLno119r3QnPa",
+   "best": "First Act ME444",
+   "med": 200,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -3100,6 +3144,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-russian-amber-pin/kM58iXhdoC8ZFEtbgWaChL",
    "best": "Vintage Original Soviet USSR Grape Design Brooch Pin Baltic ...",
    "med": 105,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950990264",
+   "title": "Kate spade great woman watch",
+   "price": 20,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/indianapolis-kate-spade-great-woman/fnG5NfZw6BpVGUpaiLRwJ3",
+   "best": "Kate Spade KSW1534 Ladies Quartz Watch",
+   "med": 84,
    "ratio": 4.2,
    "ai_value": ""
   },
@@ -3738,6 +3793,17 @@
    "url": "https://www.craigslist.org/view/d/long-lake-antique-pewter-james-yates/qj5iByxPGFt6zhf2esZiWv",
    "best": "Antique James Yates Pewter Tankard Pint Mug Cup Rare HTF ...",
    "med": 160,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940866184",
+   "title": "Vintage small grease gun",
+   "price": 10,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/ballston-lake-vintage-small-grease-gun/bPA2ius2tMaPj6auNdfAsh",
+   "best": "eBay",
+   "med": 32,
    "ratio": 3.2,
    "ai_value": ""
   },
@@ -5641,6 +5707,17 @@
    "url": "https://www.craigslist.org/view/d/ballwin-diamond-sz7-ring/jY6EuXaCL6FD9MZWieSMFh",
    "best": "eBay",
    "med": 476,
+   "ratio": 1.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978756203",
+   "title": "Genuine Green Onyx and Mother-Of-Pearl Bracelet",
+   "price": 20,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/oak-park-genuine-green-onyx-and-mother/7yQw1EgSxgNLBoWuxxqjSF",
+   "best": "Onyx Bracelets in Gold, Silver & Gemstones | TJC UK",
+   "med": 33,
    "ratio": 1.65,
    "ai_value": ""
   },
@@ -7625,6 +7702,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949375443",
+   "title": "Antique Winchester Cigar Jack Pocket Knife 1912-1942",
+   "price": 299,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/mount-washington-antique-winchester/t4KnKkHcgMZd9LwQMSsywG",
+   "best": "eBay",
+   "med": 285,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7948667022",
    "title": "Beautiful sterling bracelet with unique vintage charms",
    "price": 175,
@@ -7786,6 +7874,17 @@
    "url": "https://www.craigslist.org/view/d/san-jose-necklace-silver-inch-90-grams/jJGJjKbsa6FhJ2YjU8hUVZ",
    "best": "Stylish Taxco Mexico sterling silver 925 grape pendant ...",
    "med": 425,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955227190",
+   "title": "7 inch .925 silver bracelet (Made in Italy)",
+   "price": 75,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/mansfield-inch-925-silver-bracelet-made/6EtV8jNNqntLR5M497qX3F",
+   "best": "Beautiful 14K White Gold 1mm wide Rope Chain Necklace 18 ...",
+   "med": 67,
    "ratio": 0.89,
    "ai_value": ""
   },
@@ -7960,6 +8059,17 @@
    "price": 30,
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/stillwater-neher-pottery-handwarmer-mug/byWSiSxD5y8ZRcbze4e5jU",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937699956",
+   "title": "Vintage Decorative Railroad Wall Sign",
+   "price": 30,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-decorative-railroad/gkm5gZWPxwK6tYWLmAJCa8",
    "best": "eBay",
    "med": 25,
    "ratio": 0.83,
@@ -8373,6 +8483,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959532260",
+   "title": "Vintage Albums",
+   "price": 10,
+   "area": "greensboro",
+   "url": "https://www.craigslist.org/view/d/winston-salem-vintage-albums/hk9EjEhtx4g957xwPCimPU",
+   "best": "eBay",
+   "med": 7,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7955101350",
    "title": "Vintage CC Hughes 1923 Mercury Dime Coin Watch-UNWORN",
    "price": 65,
@@ -8667,6 +8788,17 @@
    "best": "Fire Agate Pendant Necklace 925 Sterling Silver / Jewelry ...",
    "med": 81,
    "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969703721",
+   "title": "Banjo - 5 String with Case",
+   "price": 425,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-banjo-string-with-case/oo75XjGVZhqqZ6eBWPFHry",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 0.59,
    "ai_value": ""
   },
   {
@@ -10227,6 +10359,28 @@
    "area": "philadelphia",
    "url": "https://www.craigslist.org/view/d/downingtown-costume-jewelry/49tuYKX8Bu8LPgHo3yAgQt",
    "best": "Kingwood estate sale starts Friday",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967343606",
+   "title": "Vintage Steiner parlor guitar - spruce top, maple body - bright, projecting tone",
+   "price": 200,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-steiner-parlor/hcZJ3LYWmADmDQ3MoHknM9",
+   "best": "Maple Body Parlor Acoustic Guitars for sale | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974119472",
+   "title": "STAR TREK (EAGLEMOSS) SHIPS",
+   "price": 19,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/lake-worth-star-trek-eaglemoss-ships/5kRuVaARVqzd8favkZHyNL",
+   "best": "Eaglemoss Ships | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""

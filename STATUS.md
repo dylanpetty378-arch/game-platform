@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T16:51:53Z
+# Refurbish status — 2026-10-14T16:55:51Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,12 +7,12 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 890 |
+| flagged | 904 |
 | queued/relens | 475 |
-| lensed | 321 |
+| lensed | 332 |
 | decided/ask | 86 |
-| queued | 64 |
 | decided/kill | 40 |
+| queued | 39 |
 | photo_review/ask | 17 |
 | expired | 12 |
 | decided/find | 8 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 10
 - searches: 2386
 - listings: 10583
-- lens: 9188
-- events: 32002
+- lens: 9213
+- events: 32027
 - comps: 2156
 - item_types: 893
 - runs: 0
@@ -138,7 +138,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (890)
+## Flagged by Lens, waiting for photo review (904)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -206,6 +206,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00a0a_9twtTV20gR4_0hq0hq_300x300.jpg" width="120"> | 7983296298 | $10 | phoenix | [Lot of Small Antique Items](https://www.craigslist.org/view/d/glendale-lot-of-small-antique-items/ncSsQfuMFfHnjgWAcNNpGd) | Vintage Collectible Office Supplies / Set Design Props ... | 200 | 20 |
 | <img src="https://images.craigslist.org/00i0i_lEgkxTI5hab_0v00ng_300x300.jpg" width="120"> | 7948190890 | $20 | dallas | [Very beautiful of reprint of flower picture. Size:](https://www.craigslist.org/view/d/plano-very-beautiful-of-reprint-of/pP6wx9xSFAStEMqHdGaYcd) | Victoria Bella 24AB17/C Framed Painting Art 24" x 30" Print  | 399 | 19.95 |
 | <img src="https://images.craigslist.org/00404_hx9pDUnicwD_0t20CI_300x300.jpg" width="120"> | 7940948406 | $10 | newyork | [Vintage minature  telescope…..](https://www.craigslist.org/view/d/kew-gardens-vintage-minature-telescope/oaCrLRfjcB7ef5YEG12g9E) | eBay | 199 | 19.9 |
+| <img src="https://images.craigslist.org/00707_bMu0wp65f6C_0CI0t2_300x300.jpg" width="120"> | 7983268932 | $150 | washingtondc | [French Brass/Bronze Vintage Garniture Urns? 13 1/2](https://www.craigslist.org/view/d/springfield-french-brass-bronze-vintage/pHqSkyNpfocsZGd4Rxx2xs) | eBay | 2850 | 19 |
 | <img src="https://images.craigslist.org/01414_8RYxBrb8HIj_0kL0t2_300x300.jpg" width="120"> | 7932946037 | $5 | orangecounty | [Vintage Signed Pendant Necklace on long corded cha](https://www.craigslist.org/view/d/fountain-valley-vintage-signed-pendant/jr5iCyVbXQ992xcv4VYBZK) | Artisan Sterling Silver Dichroic Art Glass Pendant Necklace  | 94 | 18.8 |
 | <img src="https://images.craigslist.org/01414_9KGWTBR0Rca_0CI0pV_300x300.jpg" width="120"> | 7954896055 | $12 | boise | [Gold Tone Charm Bracelet](https://www.craigslist.org/view/d/boise-gold-tone-charm-bracelet/8uGFdtQ47pvaktkYDnarm2) | Gold Coin Charm Bracelet | 220 | 18.33 |
 | <img src="https://images.craigslist.org/00S0S_iwCQs8JL0do_0CI0t2_300x300.jpg" width="120"> | 7939795649 | $15 | daytona | [Imari Covered Rice Bowl](https://www.craigslist.org/view/d/edgewater-imari-covered-rice-bowl/eAcnzvTyaUicsFSyNAzia6) | Kutani- Antique Ceramic Tea Set, Golden Floral Sencha ... | 275 | 18.33 |
@@ -263,4 +264,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01212_cuDDXHHIEQ3_0t20CI_300x300.jpg" width="120"> | 7954510305 | $150 | dallas | [VINTAGE STERLING SILVER LAGOS CHARM BRACELET WITH ](https://www.craigslist.org/view/d/grand-prairie-vintage-sterling-silver/srdNNWkmu5P3huvbWDPEX5) | SAINT by Sarah Jane 19 inch Sterling Silver Double Link ... | 1695 | 11.3 |
 | <img src="https://images.craigslist.org/00505_akEbjKjYIqjz_05a03S_300x300.jpg" width="120"> | 7973726517 | $10 | denver | [Vintage Dessert Plates (All 3 for $10)](https://www.craigslist.org/view/d/littleton-vintage-dessert-plates-all/fi6dq33qPTAXFQEbLd9PP7) | Antique Hand Painted Limoges Porcelain Fruit Motifs Dessert  | 113 | 11.3 |
 | <img src="https://images.craigslist.org/00N0N_81o0Z2WFV9r_0t20CI_300x300.jpg" width="120"> | 7952920881 | $100 | newyork | [Project Les Paul (lefty)](https://www.craigslist.org/view/d/new-york-project-les-paul-lefty/nq6W7G9fRTsnbECNA8rXSP) | Las mejores ofertas en Gibson Les Paul Epiphone 6 Cuerdas .. | 1115 | 11.15 |
-| <img src="https://images.craigslist.org/01313_kVzUYu2OSAC_0aT0jm_300x300.jpg" width="120"> | 7983263697 | $12 | newlondon | [Set of 6 bird coasters](https://www.craigslist.org/view/d/waterford-set-of-bird-coasters/5TaRTvT33hvsyHGmkhpMCz) | Vintage Fürstenberg Porcelain Bird Coasters Set of 4, Tropic | 130 | 10.83 |
