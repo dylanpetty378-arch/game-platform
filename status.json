@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-14T00:14:38Z",
+ "updated": "2026-10-14T00:18:10Z",
  "tables": {
   "harvests": 8,
   "searches": 1930,
   "listings": 8945,
-  "lens": 7549,
-  "events": 26970,
+  "lens": 7574,
+  "events": 26995,
   "comps": 1749,
   "item_types": 801,
   "runs": 0
  },
  "stages": {
   "photo_review/kill": 7211,
-  "lensed": 504,
+  "lensed": 512,
   "comps/pass": 1,
-  "queued/relens": 406,
+  "queued/relens": 416,
   "decided/ask": 59,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "flagged": 812,
+  "flagged": 819,
   "expired": 11,
   "decided/find": 8,
   "comps/fail": 5,
-  "queued": 104
+  "queued": 79
  },
  "last_harvests": [
   {
@@ -866,6 +866,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960909965",
+   "title": "Vintage Light Fixtures",
+   "price": 30,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-light-fixtures/9UtVXscA8SWozQiyPgGcjg",
+   "best": "Pair of antique Rewired Bronze And Brass Wall Sconces Wow ...",
+   "med": 980,
+   "ratio": 32.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7934479671",
    "title": "Vintage Pendulum clock",
    "price": 100,
@@ -1478,6 +1489,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-star-of-david-sterling/h3mbAEymVQ6n84uuMYBVwB",
    "best": "Vintage James Avery Hammered Star of David Pendant - Retired ...",
    "med": 450,
+   "ratio": 11.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974697980",
+   "title": "Christmas Ornament 30\" Necklace and Stocking Earrings",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-christmas-ornament-30-necklace/w5XpMA89uTrFYpknRMxNVV",
+   "best": "Joan Rivers Plique a Jour Charm Necklace, Signed - Etsy",
+   "med": 135,
    "ratio": 11.25,
    "ai_value": ""
   },
@@ -5068,6 +5090,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974869688",
+   "title": "Mens vintage cuff link lot and tie tacks and bars selling together",
+   "price": 40,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/de-ruyter-mens-vintage-cuff-link-lot/sJXb2hPjfxc94wesX5SUci",
+   "best": "50PCS+ Vintage Most Are Signed Swank Cufflinks And Tie Clips ...",
+   "med": 90,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7951829874",
    "title": "Vintage Table Clocks",
    "price": 25,
@@ -6058,6 +6091,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946098604",
+   "title": "Vintage Glass hand cut crystal Bowl",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-bruno-vintage-glass-hand-cut/eoaA2TGXgTHgZ6SxjNTS9d",
+   "best": "American Brilliant Period Cut Glass Bowl 9.25\" | eBay",
+   "med": 75,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7966333146",
    "title": "Goebel Cherub",
    "price": 20,
@@ -6176,6 +6220,17 @@
    "best": "Subject: A Catholic patron saint medal depicting Saint Jude holding a staff and wearing a halo, with a sunburs",
    "med": 650,
    "ratio": 1.55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928899718",
+   "title": "Sapphire ring 14k gold",
+   "price": 400,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-sapphire-ring-14k-gold/ouaEZpozFBNusYuxYhiRNR",
+   "best": "14k Yellow Gold 1.50TCw Blue Sapphire And Diamond Ring Size ...",
+   "med": 616,
+   "ratio": 1.54,
    "ai_value": ""
   },
   {
@@ -8192,6 +8247,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933884945",
+   "title": "Antique Sterling silver small pitcher vase 93 grams",
+   "price": 250,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/la-mesa-antique-sterling-silver-small/sakwcXuwC3uZXR3Sj3Ty6U",
+   "best": "Silver Ewer | eBay",
+   "med": 169,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7960562115",
    "title": "Antique glass paperwights",
    "price": 45,
@@ -8738,6 +8804,17 @@
    "url": "https://www.craigslist.org/view/d/sacramento-lot-of-beautiful-vintage/6dUfGrEoH76GHUAVK59w7w",
    "best": "eBay",
    "med": 47,
+   "ratio": 0.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960405557",
+   "title": "Vintage Bottle Opener Collection",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brookfield-vintage-bottle-opener/kM9mfY5Xk1d1SE1Mcj7bS1",
+   "best": "Lot of 22 Antique Vintage Advertising Plain Corkscrew Bottle ...",
+   "med": 23,
    "ratio": 0.31,
    "ai_value": ""
   },

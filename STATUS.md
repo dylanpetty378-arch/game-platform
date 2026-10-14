@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-14T00:14:38Z
+# Refurbish status — 2026-10-14T00:18:10Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 7211 |
-| flagged | 812 |
-| lensed | 504 |
-| queued/relens | 406 |
-| queued | 104 |
+| flagged | 819 |
+| lensed | 512 |
+| queued/relens | 416 |
+| queued | 79 |
 | decided/ask | 59 |
 | decided/kill | 40 |
 | expired | 11 |
@@ -24,8 +24,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 8
 - searches: 1930
 - listings: 8945
-- lens: 7549
-- events: 26970
+- lens: 7574
+- events: 26995
 - comps: 1749
 - item_types: 801
 - runs: 0
@@ -110,7 +110,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Wally Shoop (b.1941, Cherokee-American) 'Spirit I (Eagle Catcher)' patinated bronze, signed & dated '86 on walnut plinth, ~24"H — Not an egg: the artist is named in the title, and comps run $325-1 |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese blue-and-white ovoid ginger jar, bold lotus-scroll (Indian lotus) body under a key-fret shoulder band, unglazed mouth rim, glazed recessed base with chatter marks and iron spotting; 18th-1 |
 
-## Flagged by Lens, waiting for photo review (812)
+## Flagged by Lens, waiting for photo review (819)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -159,6 +159,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00505_6FoMFT6IzF9_07l09N_300x300.jpg" width="120"> | 7968207213 | $5 | asheville | [Crescent Moon Silver Pendant/Green Malachite Stone](https://www.craigslist.org/view/d/asheville-crescent-moon-silver-pendant/gjM8qLV92mHuhMiuCL5ipD) | To the Moon and Back Pendant / Crescent Pendant / Sterling . | 189 | 37.8 |
 | <img src="https://images.craigslist.org/00h0h_cJyUbBfvIgW_0lM0t2_300x300.jpg" width="120"> | 7955728380 | $10 | albuquerque | [Vintage Stone & Shell Necklace](https://www.craigslist.org/view/d/albuquerque-vintage-stone-shell-necklace/jyX8ejfCrnFV2FUunTDSwe) | Craigslist | 350 | 35 |
 | <img src="https://images.craigslist.org/00k0k_9jmE6HEHsVIz_0CI0t2_300x300.jpg" width="120"> | 7982895771 | $15 | salem | [Dresden Royal Figurines Handpainted-Japan](https://www.craigslist.org/view/d/keizer-dresden-royal-figurines/78h76S7ZrHCFPmxxVcup2A) | Lot - 3 Vintage Dresden German Lace Decorated Figurines | 513 | 34.2 |
+| <img src="https://images.craigslist.org/00k0k_efnHvEpIEAN_0t20CI_300x300.jpg" width="120"> | 7960909965 | $30 | sandiego | [Vintage Light Fixtures](https://www.craigslist.org/view/d/san-diego-vintage-light-fixtures/9UtVXscA8SWozQiyPgGcjg) | Pair of antique Rewired Bronze And Brass Wall Sconces Wow .. | 980 | 32.67 |
 | <img src="https://images.craigslist.org/01111_XC0S5oP5UE_0t20CI_300x300.jpg" width="120"> | 7934479671 | $100 | albuquerque | [Vintage Pendulum clock](https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/rJdaGmo7RFLTAkrCMPiLvr) | eBay | 3200 | 32 |
 | <img src="https://images.craigslist.org/00n0n_kaswK7GHSQr_05O0ak_300x300.jpg" width="120"> | 7937316645 | $25 | sandiego | [VINTAGE GOEBEL GNOME](https://www.craigslist.org/view/d/san-diego-vintage-goebel-gnome/nae3eoCXGh62oLnSKvbEiF) | Vintage Goebel Co-Boy Gnome Conny The Night Watchman 1972 /  | 799 | 31.96 |
 | <img src="https://images.craigslist.org/00U0U_cZZUHvm7R2w_0dp0t2_300x300.jpg" width="120"> | 7932306690 | $139 | orangecounty | [Antique vase with stand](https://www.craigslist.org/view/d/cypress-antique-vase-with-stand/riQ6JbaoEkzLWPLYcJip86) | Grand vase Médicis style Empire XIXème – Pendule ancienne et | 4200 | 30.22 |
@@ -215,6 +216,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00h0h_lYkzFD0tcFn_0k50t2_300x300.jpg" width="120"> | 7940313370 | $20 | miami | [Vase with Side Handles](https://www.craigslist.org/view/d/miami-vase-with-side-handles/sLT7fM18ihiwKe9p68CgZE) | VINTAGE H/P CAPODIMONTE PORCELAIN LARGE FOOTED HANDLED VASE  | 228 | 11.4 |
 | <img src="https://images.craigslist.org/00l0l_aI334y83jdF_0uY0hq_300x300.jpg" width="120"> | 7928936201 | $20 | greenbay | [OLDER JOHNSON REELS](https://www.craigslist.org/view/d/gillett-older-johnson-reels/5mf6BExP3XSfMzWn8GB6Bf) | Vintage Fishing Reel Johnson Century / eBay | 225 | 11.25 |
 | <img src="https://images.craigslist.org/00c0c_dIEYpthbLFC_0kB0sf_300x300.jpg" width="120"> | 7948134857 | $40 | albuquerque | [STAR OF DAVID - Sterling Silver](https://www.craigslist.org/view/d/albuquerque-star-of-david-sterling/h3mbAEymVQ6n84uuMYBVwB) | Vintage James Avery Hammered Star of David Pendant - Retired | 450 | 11.25 |
+| <img src="https://images.craigslist.org/00B0B_7N5RarPZtyd_0t20CI_300x300.jpg" width="120"> | 7974697980 | $12 | boise | [Christmas Ornament 30" Necklace and Stocking Earri](https://www.craigslist.org/view/d/boise-christmas-ornament-30-necklace/w5XpMA89uTrFYpknRMxNVV) | Joan Rivers Plique a Jour Charm Necklace, Signed - Etsy | 135 | 11.25 |
 | <img src="https://images.craigslist.org/01313_2mVAAvMR61X_0lM0t2_300x300.jpg" width="120"> | 7959986586 | $40 | portland | [Vintage Vase](https://www.craigslist.org/view/d/oregon-city-vintage-vase/vDzmTsVbJAEjRHhaPtepE9) | 190 Dunand et Linossier / Dinanderie ideas / jean dunand ... | 446 | 11.15 |
 | <img src="https://images.craigslist.org/01212_ibARuOTLWh_0CI0t2_300x300.jpg" width="120"> | 7934477929 | $40 | fresno | [Vintage Navajo Handmade Sterling Silver and Turquo](https://www.craigslist.org/view/d/fresno-vintage-navajo-handmade-sterling/vdzAvE2FSCHED74kxZg9kM) | Native American Sterling Blue Colored Cuff 5inch Interior /  | 440 | 11 |
 | <img src="https://images.craigslist.org/00l0l_7agpxLyupq5z_0lM0t2_300x300.jpg" width="120"> | 7949577225 | $15 | minneapolis | [Antique Horns](https://www.craigslist.org/view/d/lakeville-antique-horns/mFsP4BQFfA5QwwcNb5QMCh) | Vintage Auto-lite Dual Trumpet Horn Heavy Patina Rat Rod ... | 165 | 11 |
@@ -234,5 +236,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00L0L_9Unvxa1Irr6_0t20CI_300x300.jpg" width="120"> | 7941754711 | $30 | sfbay | [ROSE QUARTZ CRYSTAL NECKLACE](https://www.craigslist.org/view/d/santa-rosa-rose-quartz-crystal-necklace/pT326CXKa45masn2qTchTP) | Natural Amethyst Rose Pendant-hand Carved Rose-925 Sterling  | 299 | 9.97 |
 | <img src="https://images.craigslist.org/00u0u_lgNxwZhZ0Qt_0ak07K_300x300.jpg" width="120"> | 7947128386 | $5 | philadelphia | [FIVE OLD RELIGIOUS MEDALS](https://www.craigslist.org/view/d/huntingdon-valley-five-old-religious/wUJev3nrsJE5kEDqsgg8hR) | Vintage Estate 14K Gold Blessed Mother Mary Medal Pendant .. | 49 | 9.8 |
 | <img src="https://images.craigslist.org/00I0I_4rl9oKMt0Mt_0CI0b2_300x300.jpg" width="120"> | 7962774231 | $40 | dallas | [Sterling Silver Ruby Rings - $40 each](https://www.craigslist.org/view/d/mckinney-sterling-silver-ruby-rings-40/oagV6X6GCxhCJngGpaevbv) | Flower Pink Ruby Gemstone Ring : 925 Sterling Silver - Etsy | 389 | 9.72 |
-| <img src="https://images.craigslist.org/00g0g_jA0bL35isMx_07K0ak_300x300.jpg" width="120"> | 7979723589 | $30 | newyork | [Antique Vintage Wood & Brass Bed Warmer](https://www.craigslist.org/view/d/brooklyn-antique-vintage-wood-brass-bed/rbfd98n9vN31B7vtyPxbZ4) | Vintage Bed Warmer / eBay | 288 | 9.6 |
-| <img src="https://images.craigslist.org/00303_eEdYF5AOlon_0CI0t2_300x300.jpg" width="120"> | 7967367567 | $40 | chicago | [VINTAGE COSTUME BRACELET AND EAR RINGS](https://www.craigslist.org/view/d/la-grange-park-vintage-costume-bracelet/9xkEU9WunPPKZEpZVdo8jY) | Vintage Kramer of New York Rhinestone Bangle Bracelet and .. | 370 | 9.25 |
