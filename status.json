@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:02:09Z",
+ "updated": "2026-10-14T06:05:28Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7724,
-  "events": 29738,
+  "lens": 7749,
+  "events": 29763,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 728,
-  "flagged": 64,
-  "lensed": 11
+  "queued": 703,
+  "flagged": 85,
+  "lensed": 15
  },
  "last_harvests": [
   {
@@ -474,6 +474,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961743800",
+   "title": "Antique Oil painting",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-antique-oil-painting/svMx3uM5HHcfed2cDexFEq",
+   "best": "Invaluable.com",
+   "med": 800,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7977883716",
    "title": "Five Old Straight Razors - Varying Conditions",
    "price": 20,
@@ -496,6 +507,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957928156",
+   "title": "Marianne Weller porcelain vase 8\" signed hand painted vintage pottery",
+   "price": 300,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/omaha-marianne-weller-porcelain-vase/86Q7UnB46RgVY358jyReEJ",
+   "best": "Weller Forest Pottery | eBay",
+   "med": 2400,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943911669",
    "title": "Antique Oriental Items",
    "price": 35,
@@ -507,6 +529,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952660752",
+   "title": "Vintage 3d postcards lot of 17",
+   "price": 10,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-vintage-3d-postcards-lot-of-17/7NQ9zMxSm8Ja1G3Jw2UVmh",
+   "best": "Wallapop",
+   "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7963246140",
    "title": "Vintage Goldette NY Bracelet Gold Tone",
    "price": 15,
@@ -515,6 +548,17 @@
    "best": "Craigslist",
    "med": 80,
    "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941693077",
+   "title": "Vintage ROMAN Necklace 17.75\" Gold Tone",
+   "price": 20,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-roman-necklace-1775-gold/tFkDAdDsyiDFdsQgNLg9C6",
+   "best": "Craigslist",
+   "med": 100,
+   "ratio": 5,
    "ai_value": ""
   },
   {
@@ -562,6 +606,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977547677",
+   "title": "Vintage Gold Tone Filigree Catholic Brooch Pin",
+   "price": 10,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-gold-tone-filigree/uLDt7onFhKJDKBfBbXRxFz",
+   "best": "Vintage Catholic BROACH lapel Pin Jewelry ST. Anne de ...",
+   "med": 41,
+   "ratio": 4.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7972351545",
    "title": "Sterling Silver Ring",
    "price": 20,
@@ -570,6 +625,17 @@
    "best": "Etsy",
    "med": 75,
    "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940918247",
+   "title": "Vintage Ceramic Peace Sign Pendant",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-ceramic-peace-sign/5r2b3R4Fz3ZSzHqzF6CPym",
+   "best": "Craigslist",
+   "med": 110,
+   "ratio": 3.67,
    "ai_value": ""
   },
   {
@@ -617,6 +683,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945575944",
+   "title": "Sterling Silver & Smokey Quartz 18\u201d Necklace",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-smokey/8w2Xa6Pb5K1gb3txZErRrK",
+   "best": "Etsy",
+   "med": 215,
+   "ratio": 2.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788924",
    "title": "Sterling Silver Cuff 5\u201d w/Turquoise",
    "price": 60,
@@ -650,6 +727,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933261660",
+   "title": "Sterling silver and turquoise necklaces",
+   "price": 75,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/sandia-park-sterling-silver-and/wsiWVi2EANuygFeDefeCMb",
+   "best": "eBay",
+   "med": 177,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7938206970",
    "title": "Sterling silver necklace with pendant and matching earrings",
    "price": 60,
@@ -668,6 +756,17 @@
    "url": "https://www.craigslist.org/view/d/fort-myers-mens-rings-set-of/jbWsbZsqphbFtmDkgMsv2L",
    "best": "Danielle B.",
    "med": 104,
+   "ratio": 2.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980258387",
+   "title": "S.M.C antique pocket watch from 1800s or early 1900s. 6 Rubies Jewels. Seems to",
+   "price": 67,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/kirkland-smc-antique-pocket-watch-from/3Vwe5Ju14QbKXWern4CMrm",
+   "best": "Second Hand Horology",
+   "med": 155,
    "ratio": 2.31,
    "ai_value": ""
   },
@@ -705,6 +804,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948591225",
+   "title": "Sterling Silver & Rhodonite Brooch",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-rhodonite/9F8hfDjEmYsWFFsFprDKKh",
+   "best": "eBay",
+   "med": 64,
+   "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7955808450",
    "title": "8 Bracelets Total",
    "price": 10,
@@ -713,6 +823,17 @@
    "best": "Lot of 9 Mixed Bracelets - Pre-Owned Very Good Condition as ...",
    "med": 18,
    "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953576739",
+   "title": "Sterling Silver Whitney Kelly Pendant",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-whitney/mWoSpqrv5K13Jb8miRTFv6",
+   "best": "Craigslist",
+   "med": 70,
+   "ratio": 1.75,
    "ai_value": ""
   },
   {
@@ -771,6 +892,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951372734",
+   "title": "Antique Silver Jewelry Tribal Indian India  Asian",
+   "price": 99,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/miramonte-antique-silver-jewelry-tribal/n2XbQapcAaMpwEtZJYLYPq",
+   "best": "Chairish",
+   "med": 150,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7947034219",
    "title": "Seiko vintage watch",
    "price": 250,
@@ -778,6 +910,17 @@
    "url": "https://www.craigslist.org/view/d/daly-city-seiko-vintage-watch/kuPhZ1eSp8fkZP5KeEoxGe",
    "best": "eBay",
    "med": 375,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942127711",
+   "title": "Vintage Retractable Chain Pin",
+   "price": 20,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/missouri-city-vintage-retractable-chain/izLA1FoCTDk1RVEySERR12",
+   "best": "eBay",
+   "med": 30,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -804,6 +947,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959825654",
+   "title": "Vintage Anne Klein Jewelry",
+   "price": 200,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-vintage-anne-klein-jewelry/3PhCTRRpw35D486Rg82AP4",
+   "best": "Etsy",
+   "med": 279,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -815,6 +969,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961777130",
+   "title": "CARAVELLE Lady",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-mirada-caravelle-lady/tScKU9QQymUWFBvKkUamQq",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7955408722",
    "title": "Earring-sterling and turquoise",
    "price": 25,
@@ -822,6 +987,17 @@
    "url": "https://www.craigslist.org/view/d/sandia-park-earring-sterling-and/vS88JUdNrkUmYE54RdYqV8",
    "best": "Craigslist",
    "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977307011",
+   "title": "Signed \"Navaho\" Vase",
+   "price": 50,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/waterford-signed-navaho-vase/aCbYwk3d4fumyczHprRAud",
+   "best": "Invaluable.com",
+   "med": 60,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -866,6 +1042,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-beau-sterling-silver/jdigSevwdb9pq55n8Fykp4",
    "best": "Etsy",
    "med": 32,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929707168",
+   "title": "Discreet Jewelry by Ankletme",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-discreet-jewelry-by-ankletme/8rEEJEBGMdBnWnxTJeGhsm",
+   "best": "Ankletme",
+   "med": 48,
    "ratio": 1.07,
    "ai_value": ""
   },
@@ -980,6 +1167,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952296200",
+   "title": "VINTAGE ONYX and MARCASITE PENDANTS on STERLING CHAINS",
+   "price": 69,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/vintage-onyx-and-marcasite-pendants-on/iHFowBhx8qLzCAoJ8c1Q5c",
+   "best": "Borrowed Bling",
+   "med": 56,
+   "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7960677090",
    "title": "Turquoise in sterling silver pendant",
    "price": 200,
@@ -999,6 +1197,17 @@
    "best": "eBay",
    "med": 19,
    "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929442757",
+   "title": "MICKEY MOUSE WATCH",
+   "price": 50,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/pomona-mickey-mouse-watch/99cecKkenFQ46FYJSMgw1u",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 0.5,
    "ai_value": ""
   },
   {
@@ -1031,6 +1240,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-kendra-scott-bracelet/iPToDHVhVGzuqzh3Xa5Pqq",
    "best": "Kendra Scott Rayne Long Tassel Pendant Necklace in Gold Tone Brass \u2013 Layering Statement Necklace for Women",
    "med": 38,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955427213",
+   "title": "5 Hummel Figurines vintage",
+   "price": 150,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/lake-stevens-hummel-figurines-vintage/2GzPfZ4MY6fD1VS6pMCfwU",
+   "best": "Lot of 8 Vintage Hummel Goebel figurines | eBay",
+   "med": 70,
    "ratio": 0.47,
    "ai_value": ""
   },
@@ -1087,6 +1307,17 @@
    "best": "Etsy",
    "med": 54,
    "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954011806",
+   "title": "Vintage Tennis Photo",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-tennis-photo/ew2vTRtmyBPAoWp3hRNeP1",
+   "best": "LD295 Original Wide World Photo PROFESSIONAL TENNIS ...",
+   "med": 20,
+   "ratio": 0.2,
    "ai_value": ""
   },
   {
