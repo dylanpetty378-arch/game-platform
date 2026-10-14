@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:26:41Z",
+ "updated": "2026-10-14T22:30:17Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9649,
-  "events": 33265,
+  "lens": 9674,
+  "events": 33290,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 403,
-  "flagged": 1241,
-  "lensed": 426
+  "queued": 378,
+  "flagged": 1263,
+  "lensed": 429
  },
  "last_harvests": [
   {
@@ -2335,6 +2335,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954287194",
+   "title": "Fashion Gold Butterfly Earrings",
+   "price": 11,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-gold-butterfly/kswHL6kXYsHkLepZH7Zicp",
+   "best": "Poshmark",
+   "med": 122,
+   "ratio": 11.09,
+   "ai_value": "price $11"
+  },
+  {
    "pid": "7983263697",
    "title": "Set of 6 bird coasters",
    "price": 12,
@@ -2343,6 +2354,17 @@
    "best": "Vintage F\u00fcrstenberg Porcelain Bird Coasters Set of 4, Tropical ...",
    "med": 130,
    "ratio": 10.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939216331",
+   "title": "Indian style Elegant Gold Plated Jewelry Set",
+   "price": 15,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-indian-style-elegant-gold/7zweQVdF3LFABVyBvaKapc",
+   "best": "Indian Bridal Wedding Jewelry 22ct Heavy Gold Plated ...",
+   "med": 162,
+   "ratio": 10.8,
    "ai_value": ""
   },
   {
@@ -2738,6 +2760,17 @@
    "url": "https://www.craigslist.org/view/d/orange-vintage-celtic-necklace/siiKWK2FdACUjZpmq6Yfhr",
    "best": "Triskelion Necklace Triskele Celtic Pendant Jewelry Gold ...",
    "med": 100,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935931450",
+   "title": "Vintage Norwegian Pewter Spoon",
+   "price": 15,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-norwegian-pewter/qj6FTUwgpzYMt7tKQfAieW",
+   "best": "eBay",
+   "med": 125,
    "ratio": 8.33,
    "ai_value": ""
   },
@@ -3552,6 +3585,17 @@
    "url": "https://www.craigslist.org/view/d/saugus-heart-faux-diamond-necklace/kFhhDNP6FzRtCRpxM9beAT",
    "best": "Head pin 1pkg1 sterling silver, 2 inch / 3.5mm open heart ...",
    "med": 81,
+   "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966068144",
+   "title": "Elegant Turquoise Silver-tone Ring - Size 6",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-elegant-turquoise-silver/19KzfoLNhkP4fnrEtiUWN9",
+   "best": "eBay",
+   "med": 108,
    "ratio": 5.4,
    "ai_value": ""
   },
@@ -5030,6 +5074,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952447113",
+   "title": "Necklace",
+   "price": 10,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-necklace/j2nGvbj6bausPur6RLzGhm",
+   "best": "eBay",
+   "med": 33,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7944219985",
    "title": "Vintage Sterling Silver Amethyst & Marcasite CPI Earrings",
    "price": 40,
@@ -5389,6 +5444,17 @@
    "url": "https://www.craigslist.org/view/d/pleasanton-antique-12-roses-embossed/rVgAppHtWhXRQJqu7zwBd6",
    "best": "eBay",
    "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974621042",
+   "title": "VINTAGE EAGLE SCOUT MOM PIN",
+   "price": 10,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-vintage-eagle-scout-mom-pin/tLbGQYuRkuhe6Vbi7s3P2V",
+   "best": "eBay",
+   "med": 30,
    "ratio": 3,
    "ai_value": ""
   },
@@ -6196,6 +6262,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944617258",
+   "title": "Unusual, Lightweight Vintage Pendant, Gold Tone",
+   "price": 25,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-unusual-lightweight-vintage/47RCB5grJ4QnW583GPUEws",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7958886126",
    "title": "Glass Buddha Head",
    "price": 50,
@@ -6658,6 +6735,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979555964",
+   "title": "Teacups in a Royal Doultan style",
+   "price": 20,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-teacups-in-royal-doultan-style/eZ2XuzsRSamHdosZGcSQpC",
+   "best": "Craigslist",
+   "med": 44,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933473814",
    "title": "Sterling Silver & Agate Delicate Filagree Size 5 Ring",
    "price": 50,
@@ -6808,6 +6896,17 @@
    "url": "https://www.craigslist.org/view/d/reno-signed-original-pastel-portrait-of/oRabBwYHNRAzSYHa16Kxub",
    "best": "Jan Ledbetter Native American Pastel Drawing | eBay",
    "med": 198,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949311158",
+   "title": "925 Rope bracelet",
+   "price": 60,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-925-rope-bracelet/jBpthMGVUvfRVhmSZURfdx",
+   "best": "Etsy",
+   "med": 125,
    "ratio": 2.08,
    "ai_value": ""
   },
@@ -8968,6 +9067,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955378444",
+   "title": "Vintage Signed Painting On Canvas In A Gold Gilded Frame",
+   "price": 100,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/new-haven-vintage-signed-painting-on/qwrT28aJUWhEB9w73YJiQn",
+   "best": "Andres ORPINAS Country House and Wagon Wheel Litho Framed ...",
+   "med": 140,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7965370614",
    "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
    "price": 18,
@@ -9184,6 +9294,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-vtg-tiny-sterling-silver-sugar/toVnnQEK8pXdZtnpRZkat8",
    "best": "2 Vintage Sterling Silver 925 Ball Scoop Salt Spoons | eBay",
    "med": 40,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947816150",
+   "title": "Vintage Bucherer Mid-Century Modern Watch Cufflinks",
+   "price": 150,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/palatine-vintage-bucherer-mid-century/4VWGUBtzNWNKUgac14XwHa",
+   "best": "LiveAuctioneers",
+   "med": 199,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -9738,6 +9859,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940133283",
+   "title": "Purple Vintage Earring Pair Excellent!",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-purple-vintage-earring-pair/oB3iE5MgadKzFaqjkRec5y",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949254133",
    "title": "Vintage Suarti Sterling Silver & Cultured Pearl Cuff",
    "price": 160,
@@ -10222,6 +10354,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934385287",
+   "title": "PERIDOT EARRINGS & PENDANT",
+   "price": 100,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-peridot-earrings-pendant/bLi4GeLP5vmkTSk722Qgkj",
+   "best": "Etsy",
+   "med": 105,
+   "ratio": 1.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7972942062",
    "title": "Gemstone Pendants ( B2G1F)",
    "price": 25,
@@ -10272,6 +10415,17 @@
    "area": "santamaria",
    "url": "https://www.craigslist.org/view/d/santa-maria-sterling-silver-necklace/oTNWBueEf3udMhQen4qPVe",
    "best": "Poshmark",
+   "med": 26,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941483634",
+   "title": "Owl shaped ring",
+   "price": 25,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/monterey-owl-shaped-ring/b7AMiJBr3LLCW9GQoiyZJW",
+   "best": "Etsy",
    "med": 26,
    "ratio": 1.04,
    "ai_value": ""
@@ -11091,6 +11245,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944003691",
+   "title": "Polished Dark Malachite Carved Frog is 3-3/4\"x2-1/2\"x1\"tall....More",
+   "price": 40,
+   "area": "saginaw",
+   "url": "https://www.craigslist.org/view/d/bay-city-polished-dark-malachite-carved/rZDv1qvtR1vYHshxmzuqYy",
+   "best": "eBay",
+   "med": 34,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7931818139",
    "title": "Vintage Anne Klein Jewelry",
    "price": 200,
@@ -11098,6 +11263,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-vintage-anne-klein-jewelry/2mJS3hgnVwFQqdbPbUPswo",
    "best": "Etsy",
    "med": 169,
+   "ratio": 0.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942227918",
+   "title": "Vintage Resin Tiki Warrior Mask Necklaces and Wooden Carved Rattles",
+   "price": 25,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-resin-tiki-warrior/hXoFSvvEjPD9LmxNmcxixQ",
+   "best": "Tribal Masks Representing Various Counties a Collection of ...",
+   "med": 21,
    "ratio": 0.84,
    "ai_value": ""
   },
@@ -11531,6 +11707,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968452991",
+   "title": "Vintage Southwest Vintage Colorful Post Earrings",
+   "price": 55,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-southwest-vintage/ok9moAvYfvDTAynQhdmWhm",
+   "best": "Etsy",
+   "med": 40,
+   "ratio": 0.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7940114039",
    "title": "Sterling silver kokopelli earrings",
    "price": 40,
@@ -11670,6 +11857,17 @@
    "url": "https://www.craigslist.org/view/d/renton-sterling-and-gold-plated-bangle/fDmpRFxBhERMaSyaa3x9a9",
    "best": "eBay",
    "med": 14,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946247524",
+   "title": "Tigger Disney watch",
+   "price": 50,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/taylorsville-tigger-disney-watch/mjRzKRNmo6aRx7uCT41ypm",
+   "best": "Nextdoor",
+   "med": 35,
    "ratio": 0.7,
    "ai_value": ""
   },
@@ -12246,6 +12444,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949922485",
+   "title": "Vintage 1960s Circus Memorabilia/Books",
+   "price": 25,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-1960s-circus/kZ6ZWWgbexSeB6Gd9MBBFf",
+   "best": "Miniature Circus & Carnival Posters, Model Trains ...",
+   "med": 13,
+   "ratio": 0.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7953267254",
    "title": "Pilgrim Figurines",
    "price": 35,
@@ -12686,6 +12895,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983354693",
+   "title": "Vintage Elvis Memorabilia",
+   "price": 70,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/denton-vintage-elvis-memorabilia/pUSgo4N5FAwnpDuZvSW4xC",
+   "best": "eBay",
+   "med": 29,
+   "ratio": 0.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7948412127",
    "title": "4 Pieces Antique Jewelry",
    "price": 99,
@@ -12961,6 +13181,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951503960",
+   "title": "Vintage angel playing violin brooch",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-angel-playing-violin/3qxohwU2nUrEJJDrSapVdx",
+   "best": "eBay",
+   "med": 13,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7959142017",
    "title": "Caravelle vintage watch just repaired good",
    "price": 400,
@@ -13112,6 +13343,17 @@
    "best": "Ruby Lane",
    "med": 130,
    "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954573736",
+   "title": "Huge Lot of Vintage Glass Avon Bottles",
+   "price": 40,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-huge-lot-of-vintage-glass-avon/7R4xwssrvQfTvRCRLkX5ky",
+   "best": "Facebook",
+   "med": 10,
+   "ratio": 0.25,
    "ai_value": ""
   },
   {
