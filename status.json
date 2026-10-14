@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T15:59:55Z",
+ "updated": "2026-10-14T16:03:06Z",
  "tables": {
   "harvests": 10,
   "searches": 2386,
   "listings": 10583,
-  "lens": 8863,
-  "events": 31677,
+  "lens": 8888,
+  "events": 31702,
   "comps": 2156,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 431,
+  "queued/relens": 434,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 389,
-  "flagged": 687,
-  "lensed": 243
+  "queued": 364,
+  "flagged": 705,
+  "lensed": 247
  },
  "last_harvests": [
   {
@@ -585,6 +585,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949573802",
+   "title": "Vintage Silver Sugar Serving Tongs",
+   "price": 1,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/boston-vintage-silver-sugar-serving/9DdKqNMtKPBrbKmeWvBGkq",
+   "best": "Craigslist",
+   "med": 65,
+   "ratio": 65,
+   "ai_value": ""
+  },
+  {
    "pid": "7932644949",
    "title": "Pink Faceted \"Statement Necklace\"",
    "price": 10,
@@ -977,6 +988,17 @@
    "url": "https://www.craigslist.org/view/d/dunlap-bracelets-watch/bAgNkdsZCk2c3FgwpBdgMk",
    "best": "eBay",
    "med": 250,
+   "ratio": 16.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957467854",
+   "title": "guitar",
+   "price": 150,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/harrisburg-guitar/iJv2Cnms4WwJ4ZPkm2gN5T",
+   "best": "Craigslist",
+   "med": 2500,
    "ratio": 16.67,
    "ai_value": ""
   },
@@ -1506,6 +1528,17 @@
    "best": "eBay",
    "med": 300,
    "ratio": 8.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940571455",
+   "title": "Vintage lighter Zaima Chateau",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/eeTfuAS2Gt1huNnVKygbMf",
+   "best": "Leboncoin",
+   "med": 385,
+   "ratio": 8.56,
    "ai_value": ""
   },
   {
@@ -2132,6 +2165,28 @@
    "url": "https://www.craigslist.org/view/d/yuba-city-teisco-vintage-short-scale/fm9UKgZSYUuDqFENbrDVk2",
    "best": "Reverb",
    "med": 200,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938274481",
+   "title": "Vintage Hunting Clothing, Lot of 3",
+   "price": 30,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-vintage-hunting-clothing/9iwN9HbEGESqPYfGFkrbgU",
+   "best": "Etsy",
+   "med": 150,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951831122",
+   "title": "guitar",
+   "price": 150,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/harrisburg-guitar/q3qZ1PMuq543FdESJCwfAU",
+   "best": "Craigslist",
+   "med": 750,
    "ratio": 5,
    "ai_value": ""
   },
@@ -3588,6 +3643,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983287268",
+   "title": "Antique PYREX Mixing Bowls,Set of 4,",
+   "price": 85,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-antique-pyrex-mixing-bowlsset-of/qsjip2o31mDLcxiWNoAqzh",
+   "best": "eBay",
+   "med": 190,
+   "ratio": 2.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7938279602",
    "title": "Vintage plated gold silver large  medallion Chinese mythical",
    "price": 45,
@@ -3918,6 +3984,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939950399",
+   "title": "Vintage cz style diamond \ud83d\udc8d ladies bracelet",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-cz-style-diamond/ceuUhkffCVt9bJEeeAeBrK",
+   "best": "eBay",
+   "med": 70,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -4193,6 +4270,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942199068",
+   "title": "Spectacular! Artisan made Blue Beaded Cleopatra Necklace",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/fountain-valley-spectacular-artisan/bJriJDxy3mjMkPeFN3te8f",
+   "best": "eBay",
+   "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -4377,6 +4465,17 @@
    "best": "Elvis Presley",
    "med": 150,
    "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978458735",
+   "title": "Diamond sz7 Ring",
+   "price": 289,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/ballwin-diamond-sz7-ring/jY6EuXaCL6FD9MZWieSMFh",
+   "best": "eBay",
+   "med": 476,
+   "ratio": 1.65,
    "ai_value": ""
   },
   {
@@ -5238,6 +5337,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968074370",
+   "title": "Schrade old timer knife 340T",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-schrade-old-timer-knife-340t/b9vfvvBiGvQSyQknQqTmLG",
+   "best": "Craigslist",
+   "med": 38,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -5707,6 +5817,17 @@
    "url": "https://www.craigslist.org/view/d/albany-vintage-disney-little-mermaid/pTBJjGz3XkqnzsG1Wk5bPJ",
    "best": "eBay",
    "med": 11,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937423510",
+   "title": "Antique San Remo electric clock",
+   "price": 50,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-antique-san-remo-electric/bRseRJWfxhJbrCnXkPXAe6",
+   "best": "Imperial Electric Clock",
+   "med": 55,
    "ratio": 1.1,
    "ai_value": ""
   },
@@ -6624,6 +6745,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940356636",
+   "title": "Hand carved wood statues",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-hand-carved-wood-statues/ezXL47JRpGLxCuhj1HCwtG",
+   "best": "Craigslist",
+   "med": 25,
+   "ratio": 0.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7948092563",
    "title": "Vintage West Germany Filagree Size 5 Ring",
    "price": 50,
@@ -6886,6 +7018,17 @@
    "med": 25,
    "ratio": 0.56,
    "ai_value": ""
+  },
+  {
+   "pid": "7961822934",
+   "title": "Set of 15 WW1 Lead Soldiers > Various Poses>Excellent",
+   "price": 65,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-set-of-15-ww1-lead-soldiers/xykLK26iKRv7TtwPkXBJ7i",
+   "best": "Craigslist",
+   "med": 36,
+   "ratio": 0.55,
+   "ai_value": "Soldier figures | eBay In stock $30"
   },
   {
    "pid": "7948558885",
@@ -7170,6 +7313,17 @@
    "url": "https://www.craigslist.org/view/d/garden-grove-vintage-reeses-adjustable/eFgEJVQtmK1fDM5EbBz8Nn",
    "best": "eBay",
    "med": 23,
+   "ratio": 0.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964028318",
+   "title": "Antique Tool Collection",
+   "price": 200,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/titusville-antique-tool-collection/fy2Sn4FLw8tUsReWNeJJP2",
+   "best": "Woodworking plane lot No 7, 6, 5, 4, # 3, Stanley & more ...",
+   "med": 92,
    "ratio": 0.46,
    "ai_value": ""
   },
@@ -7702,6 +7856,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951489709",
+   "title": "Lot of vintage collectibles",
+   "price": 200,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/acworth-lot-of-vintage-collectibles/hwJZGBFTBynSqvtY5FVnw5",
+   "best": "1880'S BRYCE DIAMOND QUILTED PATTERN #1000 AQUA BLUE LARGE ...",
+   "med": 20,
+   "ratio": 0.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7941841424",
    "title": "HEART SHAPE EARRINGS  MAKE A RESONABLE OFFER",
    "price": 450,
@@ -7994,6 +8159,39 @@
    "area": "miami",
    "url": "https://www.craigslist.org/view/d/pompano-beach-12-tama-drum-tom/ven8DMPCgrjarpQsYPTbAz",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959486432",
+   "title": "925 Sterling Silver Gold Plated Drop Pendant Necklace 17 in.",
+   "price": 39,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/ballwin-925-sterling-silver-gold-plated/iGdnLjqHGEqw3f3YHaXSrc",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983254904",
+   "title": "Antique Rhinestone Cufflinks",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/brookline-antique-rhinestone-cufflinks/9pPJ3YerDAbdK3hyoGxthY",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944501991",
+   "title": "Guitar",
+   "price": 100,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/arvada-guitar/r5hEahf7ESB1cB5g8QJTyR",
+   "best": "Guitar Center",
    "med": null,
    "ratio": null,
    "ai_value": ""

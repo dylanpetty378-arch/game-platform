@@ -31675,3 +31675,28 @@
 {"ts":"2026-10-14T15:59:08Z","pid":"7949757633","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Gold — title does not","data":{"med":16,"ratio":1.07,"mismatch":["Gold"]}}
 {"ts":"2026-10-14T15:59:19Z","pid":"7941245410","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Iron, Size — title does not","data":{"med":20,"ratio":4,"mismatch":["Iron","Size"]}}
 {"ts":"2026-10-14T15:59:30Z","pid":"7959224205","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Spanish, Universal — title does not","data":{"med":299,"ratio":14.95,"mismatch":["Spanish","Universal"]}}
+{"ts":"2026-10-14T15:59:39Z","pid":"7938274481","stage":"flagged","run":"lensworker-20261014-1556","note":null,"data":{"med":150,"ratio":5,"mismatch":[]}}
+{"ts":"2026-10-14T15:59:45Z","pid":"7940571455","stage":"flagged","run":"lensworker-20261014-1556","note":null,"data":{"med":385,"ratio":8.56,"mismatch":[]}}
+{"ts":"2026-10-14T15:59:52Z","pid":"7940356636","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Black Forest — title does not","data":{"med":25,"ratio":0.71,"mismatch":["Black Forest"]}}
+{"ts":"2026-10-14T15:59:59Z","pid":"7973704557","stage":"queued","status":"relens","run":"lensworker-20261014-1556","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T16:00:06Z","pid":"7942199068","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Elegant, Jewelry, Silver — title does not","data":{"med":18,"ratio":1.8,"mismatch":["Elegant","Jewelry","Silver"]}}
+{"ts":"2026-10-14T16:00:14Z","pid":"7968074370","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Pocket — title does not","data":{"med":38,"ratio":1.27,"mismatch":["Pocket"]}}
+{"ts":"2026-10-14T16:00:24Z","pid":"7937423510","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Arts & Crafts, Howard Miller, Imperial — title does not","data":{"med":55,"ratio":1.1,"mismatch":["Arts & Crafts","Howard Miller","Imperial"]}}
+{"ts":"2026-10-14T16:00:30Z","pid":"7952285311","stage":"lensed","run":"lensworker-20261014-1556","note":null,"data":{"med":45,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-14T16:00:38Z","pid":"7964028318","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Stanley — title does not","data":{"med":92,"ratio":0.46,"mismatch":["Stanley"]}}
+{"ts":"2026-10-14T16:00:46Z","pid":"7975256052","stage":"lensed","run":"lensworker-20261014-1556","note":null,"data":{"med":49,"ratio":0.98,"mismatch":[]}}
+{"ts":"2026-10-14T16:00:54Z","pid":"7953268048","stage":"lensed","run":"lensworker-20261014-1556","note":null,"data":{"med":40,"ratio":1.14,"mismatch":[]}}
+{"ts":"2026-10-14T16:01:00Z","pid":"7978889091","stage":"queued","status":"relens","run":"lensworker-20261014-1556","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T16:01:06Z","pid":"7983274929","stage":"lensed","run":"lensworker-20261014-1556","note":null,"data":{"med":28,"ratio":2.8,"mismatch":[]}}
+{"ts":"2026-10-14T16:01:14Z","pid":"7957467854","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Elite — title does not","data":{"med":2500,"ratio":16.67,"mismatch":["Elite"]}}
+{"ts":"2026-10-14T16:01:22Z","pid":"7959486432","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Jewelry — title does not","data":{"med":null,"ratio":null,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-14T16:01:34Z","pid":"7951489709","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Company, Indiana Glass — title does not","data":{"med":20,"ratio":0.1,"mismatch":["Company","Indiana Glass"]}}
+{"ts":"2026-10-14T16:01:40Z","pid":"7968099555","stage":"queued","status":"relens","run":"lensworker-20261014-1556","note":"empty Lens read, auto re-queued"}
+{"ts":"2026-10-14T16:01:47Z","pid":"7951831122","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Blue Ridge, Gibson — title does not","data":{"med":750,"ratio":5,"mismatch":["Blue Ridge","Gibson"]}}
+{"ts":"2026-10-14T16:01:54Z","pid":"7949573802","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Jewelry, Russia, Soviet — title does not","data":{"med":65,"ratio":65,"mismatch":["Jewelry","Russia","Soviet"]}}
+{"ts":"2026-10-14T16:02:03Z","pid":"7978458735","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Gold, Size — title does not","data":{"med":476,"ratio":1.65,"mismatch":["Gold","Size"]}}
+{"ts":"2026-10-14T16:02:11Z","pid":"7939950399","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Jewelry, Silver — title does not","data":{"med":70,"ratio":2,"mismatch":["Jewelry","Silver"]}}
+{"ts":"2026-10-14T16:02:18Z","pid":"7983287268","stage":"flagged","run":"lensworker-20261014-1556","note":null,"data":{"med":190,"ratio":2.24,"mismatch":[]}}
+{"ts":"2026-10-14T16:02:29Z","pid":"7983254904","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Fashion, Gift, Silver, Star — title does not","data":{"med":null,"ratio":null,"mismatch":["Fashion","Gift","Silver","Star"]}}
+{"ts":"2026-10-14T16:02:35Z","pid":"7961822934","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Collectible, Toy — title does not","data":{"med":36,"ratio":0.55,"mismatch":["Collectible","Toy"]}}
+{"ts":"2026-10-14T16:02:45Z","pid":"7944501991","stage":"flagged","run":"lensworker-20261014-1556","note":"Lens names Ibanez, Lafayette — title does not","data":{"med":null,"ratio":null,"mismatch":["Ibanez","Lafayette"]}}
