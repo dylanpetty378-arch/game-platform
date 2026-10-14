@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T06:05:28Z",
+ "updated": "2026-10-14T06:09:13Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 7749,
-  "events": 29763,
+  "lens": 7774,
+  "events": 29788,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 703,
-  "flagged": 85,
-  "lensed": 15
+  "queued": 678,
+  "flagged": 104,
+  "lensed": 21
  },
  "last_harvests": [
   {
@@ -441,6 +441,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958130497",
+   "title": "Art Nouveau Cameo Glass Vase",
+   "price": 90,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/epXBtmnVkE6qFLNrGezXEg",
+   "best": "eBay",
+   "med": 3978,
+   "ratio": 44.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7954896055",
    "title": "Gold Tone Charm Bracelet",
    "price": 12,
@@ -493,6 +504,17 @@
    "best": "Antique Collection Straight Razors Solingen Hollow Arkans ...",
    "med": 175,
    "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943910701",
+   "title": "Vintage Oriental Group",
+   "price": 35,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-vintage-oriental-group/7ywteveAUk5tWFJuGKKWGM",
+   "best": "eBay",
+   "med": 300,
+   "ratio": 8.57,
    "ai_value": ""
   },
   {
@@ -606,6 +628,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932471543",
+   "title": "Vintage 925/Gold vermeil Etruscan Aquamarine and Pearl Earrings, EXCEL",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fort-washington-vintage-925-gold/keA6DRrPqymFowM2seM6id",
+   "best": "Etsy",
+   "med": 125,
+   "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7977547677",
    "title": "Vintage Gold Tone Filigree Catholic Brooch Pin",
    "price": 10,
@@ -614,6 +647,17 @@
    "best": "Vintage Catholic BROACH lapel Pin Jewelry ST. Anne de ...",
    "med": 41,
    "ratio": 4.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961334891",
+   "title": "Faye Freedman Signed 1960s",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-faye-freedman-signed-1960s/115Fhcr2EfsQkhTQemacNF",
+   "best": "Artwork Details",
+   "med": 310,
+   "ratio": 3.88,
    "ai_value": ""
   },
   {
@@ -782,6 +826,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7959823173",
+   "title": "NECKLACE Sterling (925) Pearl Necklace",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/west-roxbury-necklace-sterling-925/1dNLx9Qie45yRCLQJyFcKQ",
+   "best": "eBay",
+   "med": 110,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949666488",
+   "title": "Vintage Navajo Sterling Turquoise &  Coral Chip Inlay Size 4 3/4 Ring",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-navajo-sterling/3bjYyHsudYnrePBJJvUfp9",
+   "best": "eBay",
+   "med": 106,
+   "ratio": 2.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931592455",
+   "title": "Sterling silver garnet earrings",
+   "price": 25,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-garnet/7fgrVqFHfwWkVyYAnK9DC8",
+   "best": "eBay",
+   "med": 49,
+   "ratio": 1.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7942381489",
    "title": "Vintage Jewelry",
    "price": 50,
@@ -793,6 +870,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947692053",
+   "title": "Vintage GUCCI Watch sale",
+   "price": 165,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-mirada-vintage-gucci-watch-sale/bgixViD55TmGgKm2KZSFiR",
+   "best": "NISHIKINO VINTAGE KYOTO",
+   "med": 315,
+   "ratio": 1.91,
+   "ai_value": ""
+  },
+  {
    "pid": "7968965697",
    "title": "New Vintage Barse Sterling Silver & Picture Jasper 17\u201d Necklace",
    "price": 40,
@@ -801,6 +889,28 @@
    "best": "HUGE Runway Chunky Brown Jasper Beaded 925 Sterling Silver ...",
    "med": 75,
    "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963446408",
+   "title": "Antique Victorian American Waltham 1891 Ladies Pocket Watch",
+   "price": 350,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/omaha-antique-victorian-american/pRuT5gw4gwgbca9nmM2oUy",
+   "best": "\u041f\u0440\u043e\u0434\u0430\u0436\u0430 \u041d\u0430\u0440\u0443\u0447\u043d\u044b\u0435 \u0447\u0430\u0441\u044b \u0432 \u0433. \u041a\u0430\u0443\u043d\u0441\u0438\u043b-\u0411\u043b\u0430\u0444\u0441 | Facebook Marketplace",
+   "med": 650,
+   "ratio": 1.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935889583",
+   "title": "Vintage Quality Military Misc Cufflinks Lot",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-quality-military-misc/8GC8aFApe2asd9zFDKNifh",
+   "best": "eBay",
+   "med": 65,
+   "ratio": 1.86,
    "ai_value": ""
   },
   {
@@ -823,6 +933,17 @@
    "best": "Lot of 9 Mixed Bracelets - Pre-Owned Very Good Condition as ...",
    "med": 18,
    "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942746542",
+   "title": "Vintage Lightning Bolt Stones Necklace",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-vintage-lightning-bolt/ceVqMyRFYBtc5FZU2KFtGp",
+   "best": "Etsy",
+   "med": 71,
+   "ratio": 1.77,
    "ai_value": ""
   },
   {
@@ -881,6 +1002,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951383343",
+   "title": "vintage micro mosaic pin",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-micro-mosaic-pin/9gXH5qaoP4VYvpYU2t9HGb",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7931762213",
    "title": "Vintage Turquoise & Sterling Silver Navajo Cuff - 110g",
    "price": 445,
@@ -925,6 +1057,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939181141",
+   "title": "Vintage enamel bowl",
+   "price": 20,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/trafford-vintage-enamel-bowl/iCmPyALKjUmeqD7eekKhDn",
+   "best": "Etsy",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7953208388",
    "title": "Sterling Silver & Turquoise Pendants",
    "price": 35,
@@ -955,6 +1098,28 @@
    "best": "Etsy",
    "med": 279,
    "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934384111",
+   "title": "Vintage Flower Broach Pin - B",
+   "price": 20,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-vintage-flower-broach-pin/7Azgi87LoffdBHKPbfWKFk",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949234609",
+   "title": "Sterling Silver 1 3/4\u201d Hoop Earrings",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-hoop/2QvXqwpmnSpB5KqULKM5m7",
+   "best": "Craigslist",
+   "med": 40,
+   "ratio": 1.33,
    "ai_value": ""
   },
   {
@@ -1189,6 +1354,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939308740",
+   "title": "Vintage Joy Mex Sterling Silver & Inlay Turquoise Ring Size 6",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-joy-mex-sterling/vNRnjHMFvNipXDbr3Rx5zF",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7948558885",
    "title": "Set of 2 Porcelain Angel Figurine, New",
    "price": 35,
@@ -1200,6 +1376,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948673232",
+   "title": "Sterling Silver 16\u201d Omega Necklace",
+   "price": 95,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-16-omega/m9C7KZytQEety1imocu9EZ",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7929442757",
    "title": "MICKEY MOUSE WATCH",
    "price": 50,
@@ -1208,6 +1395,17 @@
    "best": "eBay",
    "med": 25,
    "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944220078",
+   "title": "Sterling Silver Siam Earrings",
+   "price": 35,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-siam/a3jVUdXizjn4r7hAjJs41z",
+   "best": "E0552 Antique Matte Silver Color Metal Lady Woman Girl Long ...",
+   "med": 17,
+   "ratio": 0.49,
    "ai_value": ""
   },
   {
@@ -1307,6 +1505,17 @@
    "best": "Etsy",
    "med": 54,
    "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955793164",
+   "title": "6 Turquoise and green colored pendants",
+   "price": 30,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-turquoise-and-green-colored/hA7AohF8TH4kYQjKSiroJf",
+   "best": "Green Wild Horse Turquoise Gemstone Pendant, 925 Starling ...",
+   "med": 10,
+   "ratio": 0.33,
    "ai_value": ""
   },
   {
