@@ -33613,3 +33613,28 @@
 {"ts":"2026-10-14T23:23:27Z","pid":"7950386629","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Copenhagen, Royal — title does not","data":{"med":360,"ratio":3,"mismatch":["Copenhagen","Royal"]}}
 {"ts":"2026-10-14T23:23:37Z","pid":"7937712352","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Lane, Powder — title does not","data":{"med":95,"ratio":2.71,"mismatch":["Lane","Powder"]}}
 {"ts":"2026-10-14T23:23:45Z","pid":"7932508727","stage":"flagged","run":"lensworker-20261014-2316","note":null,"data":{"med":90,"ratio":11.25,"mismatch":[]}}
+{"ts":"2026-10-14T23:23:55Z","pid":"7934147490","stage":"lensed","run":"lensworker-20261014-2316","note":null,"data":{"med":47,"ratio":2.47,"mismatch":[]}}
+{"ts":"2026-10-14T23:24:02Z","pid":"7955337931","stage":"flagged","run":"lensworker-20261014-2316","note":null,"data":{"med":365,"ratio":9.13,"mismatch":[]}}
+{"ts":"2026-10-14T23:24:10Z","pid":"7958310407","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Origin, Restaurant — title does not","data":{"med":45,"ratio":0.56,"mismatch":["Origin","Restaurant"]}}
+{"ts":"2026-10-14T23:24:18Z","pid":"7983539493","stage":"lensed","run":"lensworker-20261014-2316","note":null,"data":{"med":35,"ratio":1.17,"mismatch":[]}}
+{"ts":"2026-10-14T23:24:26Z","pid":"7951732615","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Black & Decker, Craftsman, Sears — title does not","data":{"med":24,"ratio":1.2,"mismatch":["Black & Decker","Craftsman","Sears"]}}
+{"ts":"2026-10-14T23:24:33Z","pid":"7973238012","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Native, Navajo, Silver, Size — title does not","data":{"med":149,"ratio":2.29,"mismatch":["Native","Navajo","Silver","Size"]}}
+{"ts":"2026-10-14T23:24:42Z","pid":"7962538506","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Silver — title does not","data":{"med":85,"ratio":2.83,"mismatch":["Silver"]}}
+{"ts":"2026-10-14T23:24:52Z","pid":"7941846980","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Evans, Museum — title does not","data":{"med":375,"ratio":2.27,"mismatch":["Evans","Museum"]}}
+{"ts":"2026-10-14T23:25:00Z","pid":"7980188013","stage":"flagged","run":"lensworker-20261014-2316","note":null,"data":{"med":762,"ratio":3.05,"mismatch":[]}}
+{"ts":"2026-10-14T23:25:08Z","pid":"7935242652","stage":"lensed","run":"lensworker-20261014-2316","note":null,"data":{"med":14,"ratio":0.11,"mismatch":[]}}
+{"ts":"2026-10-14T23:25:19Z","pid":"7977813771","stage":"lensed","run":"lensworker-20261014-2316","note":null,"data":{"med":18,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-14T23:25:26Z","pid":"7955214552","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Dennison, Native — title does not","data":{"med":70,"ratio":0.88,"mismatch":["Dennison","Native"]}}
+{"ts":"2026-10-14T23:25:35Z","pid":"7936105208","stage":"flagged","run":"lensworker-20261014-2316","note":null,"data":{"med":160,"ratio":5.33,"mismatch":[]}}
+{"ts":"2026-10-14T23:25:43Z","pid":"7929072720","stage":"flagged","run":"lensworker-20261014-2316","note":"Lens names Artist, Arts & Crafts, Life, Mexican — title does not","data":{"med":14,"ratio":0.7,"mismatch":["Artist","Arts & Crafts","Life","Mexican"]}}
+{"ts":"2026-10-14T23:25:55Z","pid":"7934312629","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Boutique, Lee, Native, Silver — title does not","data":{"med":89,"ratio":3.56,"mismatch":["Boutique","Lee","Native","Silver"]}}
+{"ts":"2026-10-14T23:26:01Z","pid":"7972939128","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Clay, Mexican — title does not","data":{"med":37,"ratio":0.82,"mismatch":["Clay","Mexican"]}}
+{"ts":"2026-10-14T23:26:11Z","pid":"7938567903","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Company, Jewelry, Lace, Pint — title does not","data":{"med":89,"ratio":0.77,"mismatch":["Company","Jewelry","Lace","Pint"]}}
+{"ts":"2026-10-14T23:26:18Z","pid":"7957975460","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Copenhagen, Royal — title does not","data":{"med":20,"ratio":1,"mismatch":["Copenhagen","Royal"]}}
+{"ts":"2026-10-14T23:26:26Z","pid":"7963722993","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Enamel — title does not","data":{"med":13,"ratio":2.6,"mismatch":["Enamel"]}}
+{"ts":"2026-10-14T23:26:37Z","pid":"7941702885","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Cameo, Gold, Silver — title does not","data":{"med":20,"ratio":1.33,"mismatch":["Cameo","Gold","Silver"]}}
+{"ts":"2026-10-14T23:26:47Z","pid":"7964142015","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Baltic amber, Gold — title does not","data":{"med":60,"ratio":6,"mismatch":["Baltic amber","Gold"]}}
+{"ts":"2026-10-14T23:26:58Z","pid":"7983461331","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Lefton, Pink — title does not","data":{"med":30,"ratio":3,"mismatch":["Lefton","Pink"]}}
+{"ts":"2026-10-14T23:27:04Z","pid":"7934835407","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Lane — title does not","data":{"med":20,"ratio":0.33,"mismatch":["Lane"]}}
+{"ts":"2026-10-14T23:27:12Z","pid":"7980914022","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Spanish — title does not","data":{"med":17,"ratio":0.17,"mismatch":["Spanish"]}}
+{"ts":"2026-10-14T23:27:20Z","pid":"7954125804","stage":"flagged","run":"lensworker-20261014-2324","note":"Lens names Pocket — title does not","data":{"med":60,"ratio":1.2,"mismatch":["Pocket"]}}

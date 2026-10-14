@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T23:24:12Z",
+ "updated": "2026-10-14T23:27:39Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9999,
-  "events": 33615,
+  "lens": 10024,
+  "events": 33640,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 53,
-  "flagged": 1509,
-  "lensed": 502
+  "queued": 28,
+  "flagged": 1530,
+  "lensed": 506
  },
  "last_harvests": [
   {
@@ -3138,6 +3138,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955337931",
+   "title": "Monkey (Le Pitheque)picture",
+   "price": 40,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/rowlett-monkey-le-pithequepicture/u2FZKvLFoZLRzMpRNJNtGB",
+   "best": "1 of 3 18th Century French Hand Colored George-louis Leclerc ...",
+   "med": 365,
+   "ratio": 9.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7957058978",
    "title": "Vintage Raku Pottery Bowl/Vase",
    "price": 33,
@@ -4095,6 +4106,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964142015",
+   "title": "Amber necklace new",
+   "price": 10,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-amber-necklace-new/3ZGd1XwiS9ethZsiEKdh9S",
+   "best": "Etsy",
+   "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7929982117",
    "title": "Vintage Native American Sterling Turquoise Ring Size 4 3/4",
    "price": 25,
@@ -4366,6 +4388,17 @@
    "url": "https://www.craigslist.org/view/d/collins-crystal-bracelet/bGprVYi7KEN1xMxUjTXUZM",
    "best": "Green Kyanite, Jade and Aventurine, Cultured Pearls ...",
    "med": 80,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936105208",
+   "title": "Lot of three vintage logging tools",
+   "price": 30,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/west-simsbury-lot-of-three-vintage/2okvRNMQryUp7QzbDLXfsN",
+   "best": "Craigslist",
+   "med": 160,
    "ratio": 5.33,
    "ai_value": ""
   },
@@ -5833,6 +5866,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934312629",
+   "title": "Triangular Chert Breccia Earrings",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-triangular-chert-breccia/3ost4TjAaXeTN5gsuZZ5Q9",
+   "best": "eBay",
+   "med": 89,
+   "ratio": 3.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7954637241",
    "title": "Vintage 9 Pc. Lot Demin Days Figurines",
    "price": 20,
@@ -6559,6 +6603,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980188013",
+   "title": "New 10K Gold Earrings",
+   "price": 250,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-new-10k-gold-earrings/jq7bUrxVmYKxeiwsHKFidu",
+   "best": "Etsy",
+   "med": 762,
+   "ratio": 3.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7964377131",
    "title": "Decorative Vintage Bowl Made in Italy",
    "price": 100,
@@ -6753,6 +6808,17 @@
    "url": "https://www.craigslist.org/view/d/san-diego-vintage-danish-christmas/hkHrL2t3eC3XNAGZYrkPQm",
    "best": "eBay",
    "med": 360,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983461331",
+   "title": "Vintage Porcelain Figures",
+   "price": 10,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/nashville-vintage-porcelain-figures/aL72ju9peVKiWcX7jdXdCe",
+   "best": "Etsy",
+   "med": 30,
    "ratio": 3,
    "ai_value": ""
   },
@@ -6994,6 +7060,17 @@
    "area": "sarasota",
    "url": "https://www.craigslist.org/view/d/sarasota-handmade-by-artist-vtg-ceramic/bL2qrw4aQMk9K5HcvseG3d",
    "best": "Vintage HARRIS - CIES Vintage Pottery Signed & Dated 1992 ...",
+   "med": 85,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962538506",
+   "title": "Faceted Blue Goldstone Pendant",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-faceted-blue-goldstone/4vnzAshLYpHzvAy8aNmdmR",
+   "best": "Etsy",
    "med": 85,
    "ratio": 2.83,
    "ai_value": ""
@@ -7380,6 +7457,17 @@
    "url": "https://www.craigslist.org/view/d/memphis-vintage-carolers/uNMQp56eqzzEY8YnW9XWkm",
    "best": "eBay",
    "med": 65,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963722993",
+   "title": "Set of 2 Snowmen Earrings",
+   "price": 5,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/casco-set-of-snowmen-earrings/3ww4wLMeDPP28LfXLYWZVn",
+   "best": "Snowman Face Earrings, Christmas Snowman Face Earrings ...",
+   "med": 13,
    "ratio": 2.6,
    "ai_value": ""
   },
@@ -8132,6 +8220,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973238012",
+   "title": "Turquoise Stones Southwest Earring (One)",
+   "price": 65,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-turquoise-stones-southwest/5MVteVzUpzDqgqDYrJLZZw",
+   "best": "Etsy",
+   "med": 149,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7951926438",
    "title": "Hamilton Pocket Watch (1909)",
    "price": 325,
@@ -8150,6 +8249,17 @@
    "url": "https://www.craigslist.org/view/d/kew-gardens-antique-teapot/tiw39hNtRBieEbMof6UCW5",
    "best": "Antique W&S Blackinton Silverplate Pitcher with Bamboo ...",
    "med": 34,
+   "ratio": 2.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941846980",
+   "title": "Antique Spatterware Tea Pot",
+   "price": 165,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bath-antique-spatterware-tea-pot/oqGU6SSq1ujb8qG8uHko2R",
+   "best": "Auctions - Jeffrey S. Evans & Associates",
+   "med": 375,
    "ratio": 2.27,
    "ai_value": ""
   },
@@ -11289,6 +11399,17 @@
    "ai_value": "price tag ($95"
   },
   {
+   "pid": "7941702885",
+   "title": "Antique Brass And Jade Cross Brooch",
+   "price": 15,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-antique-brass-and-jade-cross/pKG31RwB753nSUxKdTmhst",
+   "best": "Vintage Gold Tone Cameo Bow Locket Brooch 1.75\" | eBay",
+   "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -11813,6 +11934,28 @@
    "url": "https://www.craigslist.org/view/d/auburn-portuguese-guitarra/bWQbibD1ZhKRQb1oL3spjk",
    "best": "Craigslist",
    "med": 599,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951732615",
+   "title": "Old catalogs",
+   "price": 20,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/richland-center-old-catalogs/q8gxtw2ReKeuJWZKcg1fzQ",
+   "best": "Craftsman Handbook for power tools Sears Roebuck 1952 1957 ...",
+   "med": 24,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954125804",
+   "title": "Vintage Boy Scouts Gear and Memorabilia",
+   "price": 50,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-boy-scouts-gear-and/2ovM6sGXktQWSxT13UTSML",
+   "best": "eBay",
+   "med": 60,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -12928,6 +13071,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957975460",
+   "title": "Vintage Goebel Germany 1972 Munich Olympics Plate",
+   "price": 20,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/ashland-vintage-goebel-germany-1972/aXkXhKpsZmybEm6URGafN6",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -13423,6 +13577,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955214552",
+   "title": "Navajo Pottery  4  all signed",
+   "price": 80,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-navajo-pottery-all/oK7ohEEzYooGN3TDvxu7bJ",
+   "best": "Etsy",
+   "med": 70,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -13665,6 +13830,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972939128",
+   "title": "GG Old Decorative Ceramic Item.",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-gg-old-decorative-ceramic/uv9k7SJuRtJtJ6o9Auh76K",
+   "best": "Craigslist",
+   "med": 37,
+   "ratio": 0.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7952296200",
    "title": "VINTAGE ONYX and MARCASITE PENDANTS on STERLING CHAINS",
    "price": 69,
@@ -13881,6 +14057,17 @@
    "url": "https://www.craigslist.org/view/d/sacramento-banjo-plus-accessories/6fnM9XfbAPmSzYR1M7eVFZ",
    "best": "1970 Vintage Closed Back Eagle Resonate 5 Strings Banjo | eBay",
    "med": 250,
+   "ratio": 0.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938567903",
+   "title": "Silver Earrings with Amber",
+   "price": 115,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/brattleboro-silver-earrings-with-amber/iJnMkjpyciCSc6yExoNpL1",
+   "best": "Sterling Amber Dangle Leaf Earrings, Amber Jewelry, Silver ...",
+   "med": 89,
    "ratio": 0.77,
    "ai_value": ""
   },
@@ -14266,6 +14453,17 @@
    "url": "https://www.craigslist.org/view/d/taylorsville-tigger-disney-watch/mjRzKRNmo6aRx7uCT41ypm",
    "best": "Nextdoor",
    "med": 35,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929072720",
+   "title": "Delbert Carlo Collage",
+   "price": 20,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/monterey-delbert-carlo-collage/mJKpJa7PA5A4hiMPJguHfd",
+   "best": "Mexico Art Travel Poster Vintage Decor Print 12x16\" XR429 | eBay",
+   "med": 14,
    "ratio": 0.7,
    "ai_value": ""
   },
@@ -14849,6 +15047,17 @@
    "url": "https://www.craigslist.org/view/d/forest-hills-decorative-antique/xAMiS2gocCDr9vZYMgWW1U",
    "best": "Vtg Nippon Ceramic & Lace Bride Figurine 4.5\" Japan | eBay",
    "med": 25,
+   "ratio": 0.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958310407",
+   "title": "Antique Vintage Durgin Park Boston Beanpot",
+   "price": 80,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/middletown-antique-vintage-durgin-park/uHSX3JGAR1HwNYiJZeX9RS",
+   "best": "eBay",
+   "med": 45,
    "ratio": 0.56,
    "ai_value": ""
   },
@@ -15766,6 +15975,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934835407",
+   "title": "Vintage family estate lot",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/aptos-vintage-family-estate-lot/hLKse6pSgu5QKY3vcoFuMd",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7959142017",
    "title": "Caravelle vintage watch just repaired good",
    "price": 400,
@@ -16158,6 +16378,17 @@
    "url": "https://www.craigslist.org/view/d/purdy-set-of-10-vintage-fiesta-ware/xxPM1pfqGxVcNn1Qqh4LTS",
    "best": "eBay",
    "med": 13,
+   "ratio": 0.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980914022",
+   "title": "Vintage 1930s Mandolin Sheet Music",
+   "price": 100,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/coraopolis-vintage-1930s-mandolin-sheet/1dMi6bUYHimQzWRXjhybcA",
+   "best": "Craigslist",
+   "med": 17,
    "ratio": 0.17,
    "ai_value": ""
   },
