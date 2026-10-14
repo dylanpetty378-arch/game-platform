@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T22:54:42Z",
+ "updated": "2026-10-14T22:58:26Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9824,
-  "events": 33440,
+  "lens": 9849,
+  "events": 33465,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 228,
-  "flagged": 1386,
-  "lensed": 450
+  "queued": 203,
+  "flagged": 1403,
+  "lensed": 458
  },
  "last_harvests": [
   {
@@ -806,6 +806,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944507991",
+   "title": "Gold Plate Over 925 pendant",
+   "price": 10,
+   "area": "bham",
+   "url": "https://www.craigslist.org/view/d/morris-gold-plate-over-925-pendant/rJ2ybFbUSuyaUd7ApaBnjk",
+   "best": "14k Gold And Diamond Italian Necklace | eBay",
+   "med": 853,
+   "ratio": 85.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7938027882",
    "title": "Vintage Sterling Silver Camphor Glass Pendant Victorian? Art Deco",
    "price": 20,
@@ -1389,6 +1400,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978187826",
+   "title": "Vintage Temple Jar Fine Porcelain Collectibles",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/el-sobrante-vintage-temple-jar-fine/nnZLP9baWN32Doe7E3zj3J",
+   "best": "Blue Delft Crock Pot - Etsy Ireland",
+   "med": 1200,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
    "pid": "7950031727",
    "title": "Vintage sterling choker",
    "price": 100,
@@ -1419,6 +1441,17 @@
    "best": "Etsy",
    "med": 1387,
    "ratio": 27.74,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933139401",
+   "title": "Reproduction Fraktur",
+   "price": 12,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/liverpool-reproduction-fraktur/pv2ucoTRTW98M7wUpHMJF8",
+   "best": "Antique Bird Print of the Stock Dove by Von Wright, 1929 For ...",
+   "med": 311,
+   "ratio": 25.92,
    "ai_value": ""
   },
   {
@@ -1661,6 +1694,17 @@
    "best": "eBay",
    "med": 199,
    "ratio": 19.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949021878",
+   "title": "STUFF ASIAN METAL WARRIOR STATUARY",
+   "price": 20,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-stuff-asian-metal-warrior/snaH987mbyN677th8x2tai",
+   "best": "Vtg Chinese Terracotta Army Clay Warrior Soldier Statue ...",
+   "med": 390,
+   "ratio": 19.5,
    "ai_value": ""
   },
   {
@@ -2980,6 +3024,17 @@
    "url": "https://www.craigslist.org/view/d/sacramento-vintage-norwegian-pewter/qj6FTUwgpzYMt7tKQfAieW",
    "best": "eBay",
    "med": 125,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955122822",
+   "title": "Thomas kinkade painting",
+   "price": 60,
+   "area": "roanoke",
+   "url": "https://www.craigslist.org/view/d/roanoke-thomas-kinkade-painting/7gGADPmcz3RK2NDp9gscMi",
+   "best": "Thomas Kinkade Ltd Edition 789/4950 COBBLESTONE BROOKE ...",
+   "med": 500,
    "ratio": 8.33,
    "ai_value": ""
   },
@@ -6801,6 +6856,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7944710611",
+   "title": "20 piece vintage coin collection",
+   "price": 20,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-20-piece-vintage-coin-collection/3Lcvqsi597QkDWZuSdZgqw",
+   "best": "Vintage World Coins Italy Great Britain Costa Rica Brazil ...",
+   "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952578764",
+   "title": "Art, yellow Tulips Floral",
+   "price": 60,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/moorpark-art-yellow-tulips-floral/rmpHc9K11sh13kUMSYUKtZ",
+   "best": "Grace Haverty, \"Yellow Tulips\", poster, 22\"h x 28\"w image ...",
+   "med": 150,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941600386",
+   "title": "14K Gold Hoop Earrings",
+   "price": 200,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/hillsboro-14k-gold-hoop-earrings/vWHe3bVyRL5shBwzgVyqGK",
+   "best": "14K Yellow Gold Clad 925 Silver 5mmx42mm All Shiny Oval Hoop ...",
+   "med": 499,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951810082",
    "title": "Antique 800 Silver FG part of pocket watch",
    "price": 95,
@@ -6944,6 +7032,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930195217",
+   "title": "Fashion Jewelry sterling silver 925 chain 18\" necklace round pendant",
+   "price": 49,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/lake-zurich-fashion-jewelry-sterling/3oqETiDGRP1M6fcrc6N6Ch",
+   "best": "Louis Vuitton | Jewelry | Authentic Louis Vuitton Rhinestone ...",
+   "med": 116,
+   "ratio": 2.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7933261660",
    "title": "Sterling silver and turquoise necklaces",
    "price": 75,
@@ -7083,6 +7182,17 @@
    "url": "https://www.craigslist.org/view/d/buford-vintage-hawaiian-ukulele-and-case/kcxT15inmwhWZusoefTW1c",
    "best": "eBay",
    "med": 350,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940833553",
+   "title": "Beautiful vintage oil painting",
+   "price": 15,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-beautiful-vintage-oil-painting/qjj2MHqDMd4JNymDTETpw5",
+   "best": "No. 356, Pink and Purple Bouquet Painting Fine Art Print - Etsy",
+   "med": 35,
    "ratio": 2.33,
    "ai_value": ""
   },
@@ -8539,6 +8649,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955561951",
+   "title": "14k GOLD HOOP EARRINGS",
+   "price": 139,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-14k-gold-hoop-earrings/4gc7PLgAyuD6SQE3jUH2nh",
+   "best": "18K Gold Earrings. Smooth Hoops. 20.7 X 3 Mm. Ref. AT302 | eBay",
+   "med": 244,
+   "ratio": 1.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7953576739",
    "title": "Sterling Silver Whitney Kelly Pendant",
    "price": 40,
@@ -9595,6 +9716,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952555743",
+   "title": "SWAROVSKI CRYSTAL NECKLACE",
+   "price": 20,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-swarovski-crystal-necklace/tSmWyLhS955Vy9YD3KpeRy",
+   "best": "Pink Lovers Dream Necklace - Etsy",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -10541,6 +10673,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963847763",
+   "title": "Old camera lot",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/kingston-old-camera-lot/kKH2RR6UVcn8Z45LS3QDwx",
+   "best": "VINTAGE POLAROID FOLDING LAND CAMERA MODEL 95B 1950's W/BC ...",
+   "med": 124,
+   "ratio": 1.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7943192526",
    "title": "Sterling Silver & Turquoise Size 7 1/4 Ring",
    "price": 35,
@@ -10977,6 +11120,17 @@
    "url": "https://www.craigslist.org/view/d/epping-american-watch-co-waltham/aaB1hiZhXvEgAswos2JeVp",
    "best": "1897 WALTHAM AWW Co. GRADE No. 650 16s MODEL 1888 17 JEWEL ...",
    "med": 400,
+   "ratio": 1.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952162448",
+   "title": "Raymond Weil 18K Electroplated 21MM Ladies Watch M#3740-1",
+   "price": 250,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/clearwater-raymond-weil-18k/xg8WpJ5dLdwcibD63BX3LA",
+   "best": "Raymond Weil Geneve Orologio da Donna Al Quarzo Elettrolato ...",
+   "med": 285,
    "ratio": 1.14,
    "ai_value": ""
   },
@@ -12594,6 +12748,17 @@
    "url": "https://www.craigslist.org/view/d/fleetwood-10k-diamond-cluster-ring/2R82ZeTKLequdqQVP4soYq",
    "best": "eBay",
    "med": 400,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977761760",
+   "title": "Old Clarinet",
+   "price": 50,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/poteet-old-clarinet/ammuUiXyq1hnr5qa68NgyT",
+   "best": "Vintage Selmer Model 1401 Clarinet Playing Condition | eBay",
+   "med": 40,
    "ratio": 0.8,
    "ai_value": ""
   },
@@ -14776,6 +14941,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982200596",
+   "title": "14K white gold chain and 925 cross",
+   "price": 160,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buda-14k-white-gold-chain-and-925-cross/hJCRBskXwqbrXpSU1rjMkW",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 0.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7954379451",
    "title": "Huge vintage doll house lot",
    "price": 150,
@@ -15706,6 +15882,17 @@
    "area": "sacramento",
    "url": "https://www.craigslist.org/view/d/penryn-new-wolverine-wild-lite-pocket/t5haaGCxnRHjfUi4bEUzYS",
    "best": "NEW WOLVERINE WILD-LITE COMPASS LIGHT QUARTZ ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956229023",
+   "title": "NEW Fossil Watch with Genuine Leather Band",
+   "price": 100,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-new-fossil-watch-with-genuine/a5bR1Dy2JKAhJ1Tk7MiwNn",
+   "best": "Fossil Watch Women Silver Tone Rectangle Brown Cuff Leather ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
