@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T07:19:17Z",
+ "updated": "2026-10-14T07:22:41Z",
  "tables": {
   "harvests": 9,
   "searches": 2158,
   "listings": 9783,
-  "lens": 8224,
-  "events": 30238,
+  "lens": 8249,
+  "events": 30263,
   "comps": 1953,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8880,
   "comps/pass": 1,
-  "queued/relens": 266,
+  "queued/relens": 278,
   "decided/ask": 86,
   "decided/bundle": 5,
   "decided/kill": 40,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 228,
-  "flagged": 358,
-  "lensed": 98
+  "queued": 203,
+  "flagged": 367,
+  "lensed": 102
  },
  "last_harvests": [
   {
@@ -793,6 +793,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971367368",
+   "title": "Vintage 17\" Doll",
+   "price": 9,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-17-doll/nxdz7osmAfogjtmG8PVXmc",
+   "best": "1900's 14\" Composite Doll: Straw Stuffed Body: Jointed Arms ...",
+   "med": 64,
+   "ratio": 7.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7977951291",
    "title": "Rings size 7",
    "price": 10,
@@ -1197,6 +1208,17 @@
    "best": "eBay",
    "med": 80,
    "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947850125",
+   "title": "Brooches and Pins",
+   "price": 10,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-brooches-and-pins/m5MJoFUAqE5jwZz6GUbeUX",
+   "best": "Craigslist",
+   "med": 39,
+   "ratio": 3.9,
    "ai_value": ""
   },
   {
@@ -1662,6 +1684,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942901843",
+   "title": "Vintage 1939 Creamer commemorating The King  & Queens visit to Canada",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-vintage-1939-creamer/uoLnDz77yoGQAuUi3zc5nB",
+   "best": "Royal Albert Loyalty Mini Creamer - 1939 Royal Visit of King ...",
+   "med": 37,
+   "ratio": 2.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7943910859",
    "title": "Vintage Boxes",
    "price": 40,
@@ -1860,6 +1893,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7933473814",
+   "title": "Sterling Silver & Agate Delicate Filagree Size 5 Ring",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-agate/ts2vfLXXW1T9gN72c6Xq5P",
+   "best": "Septarian Ring Size 6 1/2 6.5, Big Black White Dragon Stone ...",
+   "med": 109,
+   "ratio": 2.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950985332",
+   "title": "Garnet gold lady's ring",
+   "price": 375,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/south-plainfield-garnet-gold-ladys-ring/1Vjpyij3dVSHDzkjSxdDyz",
+   "best": "10K Yellow Gold Ring 4.49g Fine Jewelry Size 7 Band Garnet ...",
+   "med": 814,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949666488",
    "title": "Vintage Navajo Sterling Turquoise &  Coral Chip Inlay Size 4 3/4 Ring",
    "price": 50,
@@ -1966,6 +2021,17 @@
    "url": "https://www.craigslist.org/view/d/west-des-moines-vintage-hallmark-happy/gBXPo1Q6M6RBG3uW371xes",
    "best": "Hallmark | Holiday | Hallmark Harry Potter Mini Ornaments ...",
    "med": 24,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951124683",
+   "title": "Two Vintage Metal Horses",
+   "price": 40,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/long-lake-two-vintage-metal-horses/jhJd5EXQo653rSg5u6C1oQ",
+   "best": "Antique Hubley Cast Iron Thoroughbred Horse Doorstop w ...",
+   "med": 80,
    "ratio": 2,
    "ai_value": ""
   },
@@ -3015,6 +3081,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937900839",
+   "title": "ANTIQUE CHINESE SHIWAN \u201cMUDMAN\u201d FIGURINE",
+   "price": 100,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/center-ossipee-antique-chinese-shiwan/bRLfoiJBr4dBiNjwV1GS93",
+   "best": "eBay",
+   "med": 115,
+   "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7950006923",
    "title": "Vintage Navajo Sterling Silver & Robins Egg Blue Turquoise Size 10Ring",
    "price": 130,
@@ -3484,6 +3561,17 @@
    "url": "https://www.craigslist.org/view/d/aurora-antique-vases/ajBfHprjAS7hEz2T5iQowg",
    "best": "BING GRONDAHL B&G Royal Copenhagen Blue APPLE TWIG Porcelain ...",
    "med": 30,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944331998",
+   "title": "Vintage Mexican Sterling Silver Belt-Buckle Bangle Bracelet. 950 Purity  $190 Or",
+   "price": 190,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-vintage-mexican-sterling/fJ3wok3HaaaeiJ1WPDCCoN",
+   "best": "eBay",
+   "med": 163,
    "ratio": 0.86,
    "ai_value": ""
   },
@@ -4111,6 +4199,17 @@
    "url": "https://www.craigslist.org/view/d/ahwahnee-vintage-handcrafted-jewelry/mStRmrgGWvNcFhazUEDDej",
    "best": "Etsy",
    "med": 59,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956103251",
+   "title": "Avon Steins",
+   "price": 100,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/allentown-avon-steins/81sx922CFZ8G82ESG9Pu2S",
+   "best": "eBay",
+   "med": 30,
    "ratio": 0.3,
    "ai_value": ""
   },
