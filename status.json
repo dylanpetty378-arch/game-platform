@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14T23:08:19Z",
+ "updated": "2026-10-14T23:12:34Z",
  "tables": {
   "harvests": 11,
   "searches": 2614,
   "listings": 11383,
-  "lens": 9899,
-  "events": 33515,
+  "lens": 9924,
+  "events": 33540,
   "comps": 2358,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 153,
-  "flagged": 1436,
-  "lensed": 475
+  "queued": 128,
+  "flagged": 1450,
+  "lensed": 486
  },
  "last_harvests": [
   {
@@ -762,6 +762,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954561566",
+   "title": "Big Sterling Silver Yellow &White Gemstone CROSS",
+   "price": 89,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-big-sterling-silver-yellow/ejQKW5PfHcHVBWzWedJobh",
+   "best": "14K White Gold 5CT Two-Tone Diamonds Large Cross | eBay",
+   "med": 9680,
+   "ratio": 108.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7946281064",
    "title": "Cozart Gold Leaf Strat",
    "price": 175,
@@ -894,6 +905,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935117254",
+   "title": "Gold tone circle pin with faux pearl",
+   "price": 2,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-gold-tone-circle-pin-with-faux/huokyDgh5xRZGKv5FhNBpE",
+   "best": "Vintage Gold Tone Brushed Texture Round Circle Faux Pearl ...",
+   "med": 155,
+   "ratio": 77.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7933968362",
    "title": "JAZ Paris Watch Ladies 18k gold plated Oval Dial",
    "price": 49,
@@ -924,6 +946,17 @@
    "best": "Vintage 14K Yellow Gold Emerald Cat Kitten Bow Brooch Pin ...",
    "med": 723,
    "ratio": 72.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970205222",
+   "title": "Fashion Gold Figaro Necklaces",
+   "price": 24,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-gold-figaro/4EDwZc1STHYBniKmJkaZbF",
+   "best": "Beautiful Vintage 10K Yellow GOLD Twisted FIGARO CHAIN ...",
+   "med": 1719,
+   "ratio": 71.63,
    "ai_value": ""
   },
   {
@@ -3314,6 +3347,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965982653",
+   "title": "1956 Spiedel I.D. bracelet.",
+   "price": 50,
+   "area": "rmn",
+   "url": "https://www.craigslist.org/view/d/rochester-1956-spiedel-id-bracelet/3gbhyBhzUs69g92GauATWt",
+   "best": "Gemex Bracelet - Etsy",
+   "med": 375,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7979401251",
    "title": "Antique Walking Sticks $25.00 Each",
    "price": 25,
@@ -4623,6 +4667,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971963111",
+   "title": "Necklaces",
+   "price": 20,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/cohoes-necklaces/aNnb5jVQEovkNTtNgUWLhg",
+   "best": "Vintage 42 CT Oval Moonstone Pendant 925 Silver 2.5MM ...",
+   "med": 90,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7957589063",
    "title": "Brighton Maharani Crystal Retired Necklace",
    "price": 50,
@@ -5371,6 +5426,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952447084",
+   "title": "Jewelry Set",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-jewelry-set/rQk2FYifoJFJUTnWKpvjJe",
+   "best": "Vintage Lucite Rainbow Iridescent Pastel Colors Leaves 24 ...",
+   "med": 74,
+   "ratio": 3.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7940918247",
    "title": "Vintage Ceramic Peace Sign Pendant",
    "price": 30,
@@ -5565,6 +5631,17 @@
    "url": "https://www.craigslist.org/view/d/bozeman-silver-chain-necklace-20/vakSx7idy5Ku5HN2MUTEiH",
    "best": "Joseph Nudelman Signed White Gold 14K Italy Diamond Cut ...",
    "med": 35,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967686533",
+   "title": "Vintage Zildjian Avedis 20\" Ride Cymbal",
+   "price": 100,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/nashville-vintage-zildjian-avedis-20/cz8WuKXMaXssDnKU5Qc2UJ",
+   "best": "Used Zildjian 16in amir 2 Cymbal 36 | Guitar Center",
+   "med": 350,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -5797,6 +5874,17 @@
    "best": "Craigslist",
    "med": 33,
    "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941461076",
+   "title": "Beautiful Vintage Handcrafted Natural Jade Pendant Necklace",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-beautiful-vintage-handcrafted/g8wni5y8DTk2ESKcDwWstG",
+   "best": "Certified Hand Carved Lavender Natural Myanmar Burma A Jade ...",
+   "med": 329,
+   "ratio": 3.29,
    "ai_value": ""
   },
   {
@@ -6401,6 +6489,17 @@
    "url": "https://www.craigslist.org/view/d/boise-vintage-silver-tone-miraculous/qa8hahLGVq1vH7Kx6L6u36",
    "best": "Vintage Miraculous Mary Chapel Sterling Silver Medal ...",
    "med": 35,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979540181",
+   "title": "2 vintage signed watercolor paintings from the 1980\u2019s",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-vintage-signed-watercolor/941xgtUUwuLXvR4RZDvWZ7",
+   "best": "Tom Nicholas Signed Lithograph Oregon Coast | eBay",
+   "med": 175,
    "ratio": 2.92,
    "ai_value": ""
   },
@@ -11520,6 +11619,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952746297",
+   "title": "RING - sterling silver and quartz",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-ring-sterling-silver-and/pmbiEFkwaazJ7VDgYvxfEy",
+   "best": "925 Sterling Silver Vintage Real Cabochon Rutilated Quartz ...",
+   "med": 84,
+   "ratio": 1.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7979462421",
    "title": "Custom handmade turquoise ring",
    "price": 65,
@@ -11703,6 +11813,17 @@
    "url": "https://www.craigslist.org/view/d/elmhurst-lincoln-bronze-bust/beYFULY16WwPkonifCt15d",
    "best": "Lot - AFTER LEONARD W. VOLK, AMERICAN 1828-1895, BUST OF ...",
    "med": 162,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954502174",
+   "title": "Fashion Rhodium Hoop Earrings",
+   "price": 12,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/centreville-fashion-rhodium-hoop/kHMnUn1svMioADBKuudN14",
+   "best": "1 1/2' Monet Braid Band Hoops Pierced Post Earrings Vintage ...",
+   "med": 13,
    "ratio": 1.08,
    "ai_value": ""
   },
@@ -13302,6 +13423,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969305807",
+   "title": "Vintage Set Of 4 Neiman Marcus Hand Blown Art Glass Wine/Water Glasses",
+   "price": 80,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/loudon-vintage-set-of-neiman-marcus/9qTCS59c9GUWq2z71i1uZC",
+   "best": "25+ Collectible & Drinkware with Vintage 1980-1989 Time ...",
+   "med": 60,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7971834546",
    "title": "Vintage Sterling Silver Turquoise & Coral Hopi/Navajo Size 6 1/4 Ring",
    "price": 250,
@@ -13837,6 +13969,17 @@
    "url": "https://www.craigslist.org/view/d/pleasanton-boulder-opal-piece-pendant/kZxcyLhtzrHGU7sdMMymsg",
    "best": "Craigslist",
    "med": 19,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945742865",
+   "title": "VINTAGE GERMAN LITHO BEER STEIN",
+   "price": 120,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-vintage-german-litho/scQABBjh8SZQXbkH4xHzsZ",
+   "best": "WW1 Military Regimental Porcelain Lidded Beer Stein. Unknown ...",
+   "med": 75,
    "ratio": 0.63,
    "ai_value": ""
   },
@@ -14805,6 +14948,17 @@
    "url": "https://www.craigslist.org/view/d/hillsboro-14k-pendant-and-earring-set/eQ4VVmUVTxdsETDnYfT4eG",
    "best": "Vintage Abstract Fillegree Necklace and Earring Set Gold ...",
    "med": 67,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951731892",
+   "title": "Nemadji vase",
+   "price": 65,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-nemadji-vase/ikLVFnPhoX5fBcfKzYSeZx",
+   "best": "Nemadji Indian Pottery Native Clay Swirl Glaze Vase 6\"h - Etsy",
+   "med": 24,
    "ratio": 0.37,
    "ai_value": ""
   },
