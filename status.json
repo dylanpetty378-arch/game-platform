@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:40:39Z",
+ "updated": "2026-10-15T00:43:49Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10349,
-  "events": 34765,
+  "lens": 10374,
+  "events": 34790,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 503,
-  "flagged": 1803,
-  "lensed": 558
+  "queued": 478,
+  "flagged": 1822,
+  "lensed": 564
  },
  "last_harvests": [
   {
@@ -893,6 +893,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981923351",
+   "title": "Old Bisque Figure",
+   "price": 1,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/collegeville-old-bisque-figure/oCp2Zp8Y9vfzrofjDV22Cy",
+   "best": "Craigslist",
+   "med": 90,
+   "ratio": 90,
+   "ai_value": ""
+  },
+  {
    "pid": "7971641340",
    "title": "Gold Plated 15 inch Floral Necklace",
    "price": 10,
@@ -1142,6 +1153,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-vintage-floral-plates/hUdSGSY9JPJvsMp6ozXuxk",
    "best": "LARGE VINTAGE ROYAL ALBERT SERVICE PLATE IN PINK ...",
    "med": 1200,
+   "ratio": 60,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976459112",
+   "title": "Vintage items",
+   "price": 1,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG",
+   "best": "Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag ...",
+   "med": 60,
    "ratio": 60,
    "ai_value": ""
   },
@@ -3489,6 +3511,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956088840",
+   "title": "2 paintings",
+   "price": 40,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-paintings/8o2Twgw5wwwayWxy2sWUr2",
+   "best": "eBay",
+   "med": 395,
+   "ratio": 9.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7953372719",
    "title": "Hand thrown pottery",
    "price": 14,
@@ -4358,6 +4391,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953662177",
+   "title": "Vintage 1981 Imperial Pottery 22K gold rimmed toothpick holder flowers",
+   "price": 10,
+   "area": "corvallis",
+   "url": "https://www.craigslist.org/view/d/albany-vintage-1981-imperial-pottery/pmvvHxYaphLwoGKQprtUic",
+   "best": "Home and Garden Party Stoneware Magnolia Crock November 1999 ...",
+   "med": 66,
+   "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7936141110",
    "title": "waltham pocket watch antique",
    "price": 60,
@@ -4430,6 +4474,17 @@
    "area": "charlotte",
    "url": "https://www.craigslist.org/view/d/matthews-sterling/i4huvrrGmGQQ7qgzSBBMqm",
    "best": "Craigslist",
+   "med": 64,
+   "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980565182",
+   "title": "Vintage 1978 L. Gaydos \"Iris & Butterfly",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-1978-gaydos-iris/dVVHEGQCZnqU7DZm4fdfyB",
+   "best": "Etsy",
    "med": 64,
    "ratio": 6.4,
    "ai_value": ""
@@ -5403,6 +5458,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939432383",
+   "title": "Signed painting of a clown",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/waltham-signed-painting-of-clown/nbzbjzUQ1psV6KcCchLasL",
+   "best": "LEIGHTON -JONES 'CLOWN WITH RED HAIR\" Canvas Print 23\" X 29 ...",
+   "med": 150,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -5895,6 +5961,17 @@
    "best": "Craigslist",
    "med": 65,
    "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979757228",
+   "title": "Bodhran",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-bodhran/bgtg6iKRFgAerdjbpy2T1x",
+   "best": "Reverb",
+   "med": 431,
+   "ratio": 4.31,
    "ai_value": ""
   },
   {
@@ -6687,6 +6764,17 @@
    "best": "Vtg 5 Pocket Knives 4 Frost Cutlery, \"Pakistan\" 1 Steel Warrior ...",
    "med": 55,
    "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931893965",
+   "title": "Vintage Seal Charm",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-seal-charm/pWdLUcQ3YNDvAKuDwGyPvZ",
+   "best": "eBay",
+   "med": 73,
+   "ratio": 3.65,
    "ai_value": ""
   },
   {
@@ -9117,6 +9205,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-antique-glass-cameo/7Hj8U8dq3agGKfgU8KoWvc",
    "best": "Etsy",
    "med": 95,
+   "ratio": 2.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962144651",
+   "title": "Gold Ring, 14k Mens",
+   "price": 400,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-gold-ring-14k-mens/amypAYaJYB4fjq1ZjrPuoG",
+   "best": "eBay",
+   "med": 950,
    "ratio": 2.38,
    "ai_value": ""
   },
@@ -11915,6 +12014,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983610221",
+   "title": "Blue Ceramic Casserole Dish",
+   "price": 20,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/cary-blue-ceramic-casserole-dish/9Xq7rV1cfCwGzzNFnryQbW",
+   "best": "eBay",
+   "med": 32,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -12542,6 +12652,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970366478",
+   "title": "Love 18K Gold Plated Necklace Bracelet Layering Magnetic Clasp",
+   "price": 12,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-love-18k-gold-plated-necklace/8CFqeUpeLF3HivvTCGnykK",
+   "best": "Amazon.sg",
+   "med": 18,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -12715,6 +12836,17 @@
    "best": "eBay",
    "med": 29,
    "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949136426",
+   "title": "Paz Creations Sterling Silver Roman Glass Charm Bracelet 7\"",
+   "price": 125,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-paz-creations-sterling-silver/snZzFZu6Eh2ENxT6S331yH",
+   "best": "Etsy",
+   "med": 180,
+   "ratio": 1.44,
    "ai_value": ""
   },
   {
@@ -15347,6 +15479,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7983632877",
+   "title": "Owens Pottery - Pitcher and Garlic Pot",
+   "price": 25,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/cary-owens-pottery-pitcher-and-garlic/wepWnpTvkorK9EgD8CnoMn",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973981385",
+   "title": "Jeweled Elephant key chain, bag charm, new",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-jeweled-elephant-key-chain-bag/h348G9F8kfVQSp8uppSXjp",
+   "best": "Blue Lucky Elephant Bling Rhinestones Key Chain Fob Purse ...",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -15409,6 +15563,17 @@
    "url": "https://www.craigslist.org/view/d/lexington-beautiful-hand-made-silver/cFPYY9EgTCV48PsNm5U4gf",
    "best": "Paparazzi \u2665 Mischievous - Zi Collection \u2665 \u2013 LisaAbercrombie",
    "med": 29,
+   "ratio": 0.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956136812",
+   "title": "STATUETTE Indian Woman",
+   "price": 40,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/statuette-indian-woman/opYrDtcPwQtTbkCiagiW7v",
+   "best": "eBay",
+   "med": 39,
    "ratio": 0.97,
    "ai_value": ""
   },
@@ -15926,6 +16091,17 @@
    "url": "https://www.craigslist.org/view/d/colorado-springs-navajo-pottery-all/oK7ohEEzYooGN3TDvxu7bJ",
    "best": "Etsy",
    "med": 70,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977710649",
+   "title": "SCULPTURE Metal. Vintage. 28\" tall",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/sculpture-metal-vintage-28-tall/ufdsChNVvJCwmxVDY4yFMV",
+   "best": "Craigslist",
+   "med": 88,
    "ratio": 0.88,
    "ai_value": ""
   },
@@ -17855,6 +18031,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983646890",
+   "title": "Vintage 1930s Waltham 10K Gold Filled Wrist Watch Works Fine!",
+   "price": 185,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-vintage-1930s-waltham-10k/6HkvGgJTtR1gMKyTSWZgZa",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7948673232",
    "title": "Sterling Silver 16\u201d Omega Necklace",
    "price": 95,
@@ -19153,6 +19340,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983694764",
+   "title": "Collection of 28 Vintage PC Games",
+   "price": 20,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/waunakee-collection-of-28-vintage-pc/eCCcptRjuo5TYcFFiRyNwf",
+   "best": "eBay",
+   "med": 4,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933424756",
    "title": "Sterling Silver Ecclissi Art Deco Cuff 7 1/2\u201d Watch",
    "price": 175,
@@ -20314,6 +20512,17 @@
    "area": "richmond",
    "url": "https://www.craigslist.org/view/d/colonial-heights-mandolin/kBAihad8Wx6BuUaK3yuJrd",
    "best": "Reverb",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978860969",
+   "title": "Vintage 1970s Eureka DRACULA Halloween Die-Cut Deco",
+   "price": 45,
+   "area": "harrisburg",
+   "url": "https://www.craigslist.org/view/d/harrisburg-vintage-1970s-eureka-dracula/ke3dEoqVGpKgPS14WjhJig",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
