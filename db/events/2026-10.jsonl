@@ -38233,3 +38233,28 @@
 {"ts":"2026-10-15T15:23:50Z","pid":"7983853866","stage":"flagged","run":"lensworker-20261015-1515","note":"Lens names Jewelry — title does not","data":{"med":48,"ratio":0.96,"mismatch":["Jewelry"]}}
 {"ts":"2026-10-15T15:23:58Z","pid":"7961658189","stage":"lensed","run":"lensworker-20261015-1515","note":null,"data":{"med":50,"ratio":2,"mismatch":[]}}
 {"ts":"2026-10-15T15:24:09Z","pid":"7943150184","stage":"flagged","run":"lensworker-20261015-1515","note":"Lens names Vision — title does not","data":{"med":45,"ratio":0.9,"mismatch":["Vision"]}}
+{"ts":"2026-10-15T15:24:21Z","pid":"7937523308","stage":"flagged","run":"lensworker-20261015-1515","note":null,"data":{"med":150,"ratio":30,"mismatch":[]}}
+{"ts":"2026-10-15T15:24:33Z","pid":"7971277758","stage":"lensed","run":"lensworker-20261015-1515","note":null,"data":{"med":20,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-15T15:24:44Z","pid":"7950355590","stage":"lensed","run":"lensworker-20261015-1515","note":null,"data":{"med":349,"ratio":1.4,"mismatch":[]}}
+{"ts":"2026-10-15T15:24:50Z","pid":"7956117363","stage":"flagged","run":"lensworker-20261015-1515","note":null,"data":{"med":1969,"ratio":3.94,"mismatch":[]}}
+{"ts":"2026-10-15T15:25:01Z","pid":"7983860580","stage":"flagged","run":"lensworker-20261015-1515","note":"Lens names Enesco, Limited — title does not","data":{"med":225,"ratio":9,"mismatch":["Enesco","Limited"]}}
+{"ts":"2026-10-15T15:25:10Z","pid":"7972865400","stage":"flagged","run":"lensworker-20261015-1515","note":"Lens names Company, Star — title does not","data":{"med":200,"ratio":4,"mismatch":["Company","Star"]}}
+{"ts":"2026-10-15T15:25:19Z","pid":"7983836424","stage":"flagged","run":"lensworker-20261015-1515","note":"Lens names Clay — title does not","data":{"med":50,"ratio":0.91,"mismatch":["Clay"]}}
+{"ts":"2026-10-15T15:25:27Z","pid":"7930292149","stage":"flagged","run":"lensworker-20261015-1515","note":"Lens names Company, Robinson Ransbottom, Roseville — title does not","data":{"med":19,"ratio":0.32,"mismatch":["Company","Robinson Ransbottom","Roseville"]}}
+{"ts":"2026-10-15T15:25:34Z","pid":"7970782140","stage":"flagged","run":"lensworker-20261015-1515","note":null,"data":{"med":174,"ratio":3.87,"mismatch":[]}}
+{"ts":"2026-10-15T15:25:43Z","pid":"7929468244","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Museum — title does not","data":{"med":500,"ratio":1.67,"mismatch":["Museum"]}}
+{"ts":"2026-10-15T15:25:53Z","pid":"7972558080","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Robinson Ransbottom, Roseville — title does not","data":{"med":25,"ratio":0.42,"mismatch":["Robinson Ransbottom","Roseville"]}}
+{"ts":"2026-10-15T15:26:00Z","pid":"7948403910","stage":"lensed","run":"lensworker-20261015-1524","note":null,"data":{"med":9,"ratio":0.6,"mismatch":[]}}
+{"ts":"2026-10-15T15:26:08Z","pid":"7958534358","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Carter, Pink — title does not","data":{"med":580,"ratio":7.73,"mismatch":["Carter","Pink"]}}
+{"ts":"2026-10-15T15:26:19Z","pid":"7930292408","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Bauer — title does not","data":{"med":895,"ratio":25.57,"mismatch":["Bauer"]}}
+{"ts":"2026-10-15T15:26:25Z","pid":"7933472840","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Gold — title does not","data":{"med":19,"ratio":0.95,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T15:26:34Z","pid":"7954287700","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Fashion, Gold — title does not","data":{"med":77,"ratio":0.31,"mismatch":["Fashion","Gold"]}}
+{"ts":"2026-10-15T15:26:41Z","pid":"7951844733","stage":"lensed","run":"lensworker-20261015-1524","note":null,"data":{"med":18,"ratio":1.8,"mismatch":[]}}
+{"ts":"2026-10-15T15:26:50Z","pid":"7983845388","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Jewelry, Size, Zuni — title does not","data":{"med":100,"ratio":0.26,"mismatch":["Jewelry","Size","Zuni"]}}
+{"ts":"2026-10-15T15:27:00Z","pid":"7939504951","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Gold, Jewelry — title does not","data":{"med":182,"ratio":7.28,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-15T15:27:11Z","pid":"7946852370","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names U.S. Time — title does not","data":{"med":65,"ratio":0.42,"mismatch":["U.S. Time"]}}
+{"ts":"2026-10-15T15:27:19Z","pid":"7969715775","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Aladdin, Lee — title does not","data":{"med":166,"ratio":3.32,"mismatch":["Aladdin","Lee"]}}
+{"ts":"2026-10-15T15:27:27Z","pid":"7954149893","stage":"lensed","run":"lensworker-20261015-1524","note":null,"data":{"med":38,"ratio":0.3,"mismatch":[]}}
+{"ts":"2026-10-15T15:27:33Z","pid":"7955140995","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Bulova, Citizen, Gold, Seiko — title does not","data":{"med":62,"ratio":3.1,"mismatch":["Bulova","Citizen","Gold","Seiko"]}}
+{"ts":"2026-10-15T15:27:41Z","pid":"7983885714","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Enamel, Gold, Jewelry — title does not","data":{"med":68,"ratio":0.54,"mismatch":["Enamel","Gold","Jewelry"]}}
+{"ts":"2026-10-15T15:27:49Z","pid":"7983878106","stage":"flagged","run":"lensworker-20261015-1524","note":null,"data":{"med":675,"ratio":3.75,"mismatch":[]}}

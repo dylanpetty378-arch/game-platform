@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:24:31Z",
+ "updated": "2026-10-15T15:28:11Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13790,
-  "lens": 12124,
-  "events": 38235,
+  "lens": 12149,
+  "events": 38260,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 328,
-  "flagged": 3165,
-  "lensed": 968
+  "queued": 303,
+  "flagged": 3185,
+  "lensed": 973
  },
  "last_harvests": [
   {
@@ -2400,6 +2400,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937523308",
+   "title": "Flowers Painting",
+   "price": 5,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/paramus-flowers-painting/mGozUqHRXNmq2EBYgMoMgG",
+   "best": "Original Vintage P.Keeling Oil Painting Canvas Floral Still ...",
+   "med": 150,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
    "pid": "7974832344",
    "title": "Vintage Liberty Statue '1886' brooch, 5 1/4\" long",
    "price": 35,
@@ -2540,6 +2551,17 @@
    "best": "Antique Bird Print of the Stock Dove by Von Wright, 1929 For ...",
    "med": 311,
    "ratio": 25.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930292408",
+   "title": "vase",
+   "price": 35,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-vase/kvvJNKMEUJNLnpbjtM7wve",
+   "best": "Chairish",
+   "med": 895,
+   "ratio": 25.57,
    "ai_value": ""
   },
   {
@@ -5733,6 +5755,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983860580",
+   "title": "Precious Moments Porcelain Bisque Doll Vintage",
+   "price": 25,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-precious-moments-porcelain/jqcZYVUvC7VEqxUVAQHDD2",
+   "best": "eBay",
+   "med": 225,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
    "pid": "7955404918",
    "title": "14K GOLD LAPIS EARRINGS",
    "price": 300,
@@ -6382,6 +6415,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958534358",
+   "title": "Vintage Fantastic Black Americana Signed Print - \"MY MAMA'S KITCHEN\"!!",
+   "price": 75,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-vintage-fantastic-black/8hyT1gBPNHJsaNp97xivyy",
+   "best": "Heritages Art",
+   "med": 580,
+   "ratio": 7.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7957624211",
    "title": "Vintage Limoges 10\" Porcelain Plate",
    "price": 35,
@@ -6709,6 +6753,17 @@
    "best": "Eco Evolution",
    "med": 474,
    "ratio": 7.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939504951",
+   "title": "Sterling Silver Cubic Zirconia Tennis Bracelet",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-silver-cubic-zirconia/9Hu3dFYyjTN5umPUZpkPGK",
+   "best": "Tanzanite Tennis Bracelet in 14K/18K Gold",
+   "med": 182,
+   "ratio": 7.28,
    "ai_value": ""
   },
   {
@@ -10639,6 +10694,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972865400",
+   "title": "Vintage beer sign",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-beer-sign/iZn3jgMSGE7RomgyrsVHEj",
+   "best": "Great Northern Brewing Minott's Black Star TIN SIGN ...",
+   "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -10679,6 +10745,17 @@
    "url": "https://www.craigslist.org/view/d/hillsboro-14k-amethyst-pendant/ojMgDbYpq3Adm1N4zJbwa3",
    "best": "18K Yellow Gold 4 ct. Amethyst Pendant | eBay",
    "med": 355,
+   "ratio": 3.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956117363",
+   "title": "Hagstrom Viking Custom-P",
+   "price": 500,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-hagstrom-viking-custom/fZVVQFbTSXgVUGW8br1R8b",
+   "best": "Reverb",
+   "med": 1969,
    "ratio": 3.94,
    "ai_value": ""
   },
@@ -10779,6 +10856,17 @@
    "best": "eBay",
    "med": 31,
    "ratio": 3.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970782140",
+   "title": "VINTAGE SIGNED JAPANESE WATERCOLOR/GOUACHE ON FABRIC EDO SHOGUN RULER",
+   "price": 45,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-vintage-signed-japanese/jFse4DSXPRWaN2qTiULevZ",
+   "best": "Craigslist",
+   "med": 174,
+   "ratio": 3.87,
    "ai_value": ""
   },
   {
@@ -11086,6 +11174,17 @@
    "url": "https://www.craigslist.org/view/d/vancouver-nachez-us-mail-vicksburg-new/8Xj2Eh1nhZ41sJs6fD4FGU",
    "best": "Mid-century Copper Boat \"natchez\" Steam Boat Replica - Etsy",
    "med": 150,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983878106",
+   "title": "Antique Chinese Bronze Tripod Censer",
+   "price": 180,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-antique-chinese-bronze-tripod/8bPw5QgTgT3QtBQ3mP8MXD",
+   "best": "Etsy",
+   "med": 675,
    "ratio": 3.75,
    "ai_value": ""
   },
@@ -12234,6 +12333,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969715775",
+   "title": "Vintage lunchboxes",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/manassas-vintage-lunchboxes/nb2d5NmhnEBqjdwdX9N4pR",
+   "best": "eBay",
+   "med": 166,
+   "ratio": 3.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7973590614",
    "title": "Hawaii Landscape Wall Hanging",
    "price": 20,
@@ -12823,6 +12933,17 @@
    "area": "cleveland",
    "url": "https://www.craigslist.org/view/d/novelty-sterling-howling-coyote-earrings/sX9m5hUkkGktvS7Udc3uNB",
    "best": "eBay",
+   "med": 62,
+   "ratio": 3.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955140995",
+   "title": "JEWELRY - WATCHES & TIE BAR/CLASP",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-jewelry-watches-tie-bar-clasp/f7wXYthHKhUc3XuD77rZHX",
+   "best": "Seiko Women's Gold Toned Bracelet Band Analog Watch | eBay",
    "med": 62,
    "ratio": 3.1,
    "ai_value": ""
@@ -20154,6 +20275,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929468244",
+   "title": "African Camum Mask \u2013 Vintage Hand\u2011Carved Wood",
+   "price": 300,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-african-camum-mask-vintage/kjZn1G1BK9ht396zX8Fhqc",
+   "best": "Dayton Art Institute",
+   "med": 500,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965008391",
    "title": "Vintage Hand embroidered Elephant Tapestry",
    "price": 175,
@@ -26842,6 +26974,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933472840",
+   "title": "Vintage Japan Nappy Dish w/handle",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/reston-vintage-japan-nappy-dish-handle/2yd8Crk8vo7uSASFrMRThy",
+   "best": "eBay",
+   "med": 19,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7948667022",
    "title": "Beautiful sterling bracelet with unique vintage charms",
    "price": 175,
@@ -27179,6 +27322,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-fabulous-necklace-and/cGETWGnR6jkzTLXzosmPLJ",
    "best": "Etsy",
    "med": 77,
+   "ratio": 0.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983836424",
+   "title": "Vintage Hand Thrown Wine Goblets",
+   "price": 55,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-hand-thrown-wine/n8VgCf1pMtdXTwZJTt6KiT",
+   "best": "Chairish",
+   "med": 50,
    "ratio": 0.91,
    "ai_value": ""
   },
@@ -30967,6 +31121,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983885714",
+   "title": "Reduced price -Rose Earrings and Brooch Set",
+   "price": 125,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/depew-reduced-price-rose-earrings-and/kK5Dz13pAJr1Xb2D9m8msS",
+   "best": "eBay",
+   "med": 68,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7948673232",
    "title": "Sterling Silver 16\u201d Omega Necklace",
    "price": 95,
@@ -32045,6 +32210,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7972558080",
+   "title": "pitcher",
+   "price": 60,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-pitcher/b3ToA1fLeVoQvttU6TZVzj",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946852370",
+   "title": "Vintage Ingersoll Mickey Mouse Watch",
+   "price": 155,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/windermere-vintage-ingersoll-mickey/3JVG1LeZyd1tnuH6sTbgpz",
+   "best": "eBay",
+   "med": 65,
+   "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7939109606",
    "title": "Men\u2019s watch unknown brand need help identifying it",
    "price": 123,
@@ -32727,6 +32914,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930292149",
+   "title": "pitcher",
+   "price": 60,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-pitcher/5UQQou68HDTv4cCzvQUfyr",
+   "best": "eBay",
+   "med": 19,
+   "ratio": 0.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7959142017",
    "title": "Caravelle vintage watch just repaired good",
    "price": 400,
@@ -32756,6 +32954,17 @@
    "url": "https://www.craigslist.org/view/d/port-angeles-vintage-turquoise-navajo/2rGQv6kzTJi31J1EkbiQ9i",
    "best": "Craigslist",
    "med": 17,
+   "ratio": 0.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954287700",
+   "title": "8\" .925 Ocean Sterling Silver Charm Bracelet 20g",
+   "price": 247,
+   "area": "eastnc",
+   "url": "https://www.craigslist.org/view/d/cherry-point-ocean-sterling-silver/77gTR7X2wqjSNXu6SPxCma",
+   "best": "Ariva Silver Silver & 18K Gold Clad Seashell C harm Bracelet ...",
+   "med": 77,
    "ratio": 0.31,
    "ai_value": ""
   },
@@ -33053,6 +33262,17 @@
    "url": "https://www.craigslist.org/view/d/palatine-vintage-framed-signed-large/mzBjPLMyadb1zov1gnyjda",
    "best": "Vintage Framed Floral Oil Painting by Rossy - Etsy",
    "med": 92,
+   "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983845388",
+   "title": "Vintage Large Native American Turquoise Sterling Silver Ring",
+   "price": 385,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-vintage-large-native-american/tvPoXRZ1YLSWXvyQzx8fCo",
+   "best": "Etsy",
+   "med": 100,
    "ratio": 0.26,
    "ai_value": ""
   },
