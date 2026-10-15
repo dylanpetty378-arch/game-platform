@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T00:58:55Z
+# Refurbish status — 2026-10-15T01:04:36Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,14 +7,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1907 |
-| lensed | 579 |
+| flagged | 1922 |
+| lensed | 587 |
 | queued/relens | 485 |
-| queued | 378 |
+| queued | 353 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
-| expired | 14 |
+| expired | 16 |
 | decided/find | 8 |
 | decided/bundle | 5 |
 | comps/fail | 5 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 12
 - searches: 2841
 - listings: 12183
-- lens: 10474
-- events: 34890
+- lens: 10499
+- events: 34917
 - comps: 2558
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1907)
+## Flagged by Lens, waiting for photo review (1922)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -236,6 +236,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00I0I_drAa1wuUE3g_09M08h_300x300.jpg" width="120"> | 7982183682 | $15 | washingtondc | [Ladies Fashion Gold Ring Sz 7 1/2](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-ring-sz/15XC7UaXMYCznNQEvNVr1d) | Craigslist | 599 | 39.93 |
 | <img src="https://images.craigslist.org/00k0k_a5DXDOXjjCj_0aD0hq_300x300.jpg" width="120"> | 7968981048 | $15 | boston | [Vintage Cloisonne Enamel Floral Ring, size: 8](https://www.craigslist.org/view/d/natick-vintage-cloisonne-enamel-floral/boDu7hTGDvnEUUyegW8x4A) | Vintage Thin Chinese Enamel Ring | 580 | 38.67 |
 | <img src="https://images.craigslist.org/00808_eWWWmbZgjq5_0t20t2_300x300.jpg" width="120"> | 7971124623 | $60 | myrtlebeach | [Vintage Bass Guitar Body](https://www.craigslist.org/view/d/myrtle-beach-vintage-bass-guitar-body/cDGJSwDjoxCCQcb1snsRWa) | Mosrite The Ventures Model Red USA 1966 Vintage Solid Body . | 2316 | 38.6 |
+| <img src="https://images.craigslist.org/01616_efbwME4cFbm_0t20CI_300x300.jpg" width="120"> | 7939922861 | $15 | austin | [VASE NATE BERKUS](https://www.craigslist.org/view/d/austin-vase-nate-berkus/icjAPb1Kbar7cYbG8WNDFq) | Art / Pacific Northwest Native American Pottery Art Signed . | 572 | 38.13 |
 | <img src="https://images.craigslist.org/00N0N_bYir9ZNTE7w_0CI0i3_300x300.jpg" width="120"> | 7942787999 | $1 | spokane | [Vintage foreign beer glasses](https://www.craigslist.org/view/d/spokane-vintage-foreign-beer-glasses/gnQexqVDvUvrmrAFAPAKwB) | Vintage KLOSTERBRÄU Koblenz RHEINISCH PILS Beer Tulip ... | 38 | 38 |
 | <img src="https://images.craigslist.org/00y0y_i23EkPobfnf_0mE0CI_300x300.jpg" width="120"> | 7949050110 | $30 | racine | [Vintage West German Pottery Pitcher Vase 271-21 | ](https://www.craigslist.org/view/d/kenosha-vintage-west-german-pottery/o11yPaScqAFaSJbfUf2SbL) | Etsy | 1116 | 37.2 |
 | <img src="https://images.craigslist.org/00O0O_agoWdB4lYdb_0t20CI_300x300.jpg" width="120"> | 7978088604 | $49 | losangeles | [TARKEI](https://www.craigslist.org/view/d/monrovia-tarkei/3RQAMnSq8rJiBTF1iFahWt) | Itzchak Tarkay “Charming Memories” Embellished Serigraph on  | 1750 | 35.71 |
@@ -250,6 +251,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_9caznyt5ujH_0lM0t2_300x300.jpg" width="120"> | 7953254914 | $40 | sfbay | [I Love You, Je t'aime, Te quiero, Te amo Necklace ](https://www.craigslist.org/view/d/oakland-love-you-je-taime-te-quiero-te/tu2HhhmHDG5xJgTmm3F32M) | Mercado Libre | 1300 | 32.5 |
 | <img src="https://images.craigslist.org/00I0I_eFW5siwu0Xr_0mm0hq_300x300.jpg" width="120"> | 7949138249 | $20 | boston | [Vintage Gold tone hinged scarf ring](https://www.craigslist.org/view/d/natick-vintage-gold-tone-hinged-scarf/if9RJFQyoLnpD6mPz9qwF1) | Craigslist | 650 | 32.5 |
 | <img src="https://images.craigslist.org/00808_cH6Rh5LPbcK_0cU09G_300x300.jpg" width="120"> | 7965575643 | $40 | denver | [Pocket Watches](https://www.craigslist.org/view/d/longmont-pocket-watches/qku9QNWvnj8Yzg6poYM7So) | Antique Waltham 0-Size Double Hunter Pocket Watch, Solid 14K | 1300 | 32.5 |
+| <img src="https://images.craigslist.org/00T0T_fnNaWSOJenl_0CI0nt_300x300.jpg" width="120"> | 7954812843 | $35 | minneapolis | [Art Deco Brooch](https://www.craigslist.org/view/d/saint-paul-art-deco-brooch/gS1BEsNqd3tEACZdtxbNqY) | Openwork Rectangular Setting With Old European Cut White ... | 1130 | 32.29 |
 | <img src="https://images.craigslist.org/01111_XC0S5oP5UE_0t20CI_300x300.jpg" width="120"> | 7934249959 | $100 | albuquerque | [Vintage Pendulum clock](https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/61iy3ZbeHn1D7Pu1W7xvKv) | vintage Bond Street London gold tone framed Hanging clock .. | 3200 | 32 |
 | <img src="https://images.craigslist.org/00404_aAEeiWHRkNM_0sz0nZ_300x300.jpg" width="120"> | 7944806418 | $25 | rochester | [Vintage Monet 1.5" Turtle Brooch](https://www.craigslist.org/view/d/rochester-vintage-monet-15-turtle-brooch/bQxeL8LurwJVV1MaD4Dq96) | Vintage fanny turtle gold - Gem | 798 | 31.92 |
 | <img src="https://images.craigslist.org/00d0d_b7fWKD2QVX0_0CI0t2_300x300.jpg" width="120"> | 7940935310 | $75 | sarasota | [Bracelet with green stones](https://www.craigslist.org/view/d/tallevast-bracelet-with-green-stones/2YTGLVB5bvstRHttocQmf7) | Etsy | 2375 | 31.67 |
@@ -261,5 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00X0X_jUlR3cNydHD_0zm0CI_300x300.jpg" width="120"> | 7959525558 | $45 | utica | [Vintage Hand Painted Pottery Vase Signed Italy](https://www.craigslist.org/view/d/new-hartford-vintage-hand-painted/6eQ27VocLPHWocskrbgFEn) | SanJuan De Oriente Nicaragua Pottery Jar signed Guadalupe .. | 1350 | 30 |
 | <img src="https://images.craigslist.org/00m0m_lRJGyEsi48n_0t20CI_300x300.jpg" width="120"> | 7978187826 | $40 | sfbay | [Vintage Temple Jar Fine Porcelain Collectibles](https://www.craigslist.org/view/d/el-sobrante-vintage-temple-jar-fine/nnZLP9baWN32Doe7E3zj3J) | Blue Delft Crock Pot - Etsy Ireland | 1200 | 30 |
 | <img src="https://images.craigslist.org/00m0m_hHO8lobhngD_0tO12w_300x300.jpg" width="120"> | 7950031727 | $100 | seattle | [Vintage sterling choker](https://www.craigslist.org/view/d/renton-vintage-sterling-choker/7guP4ETe5zKe3rMgbfG49w) | eBay | 2995 | 29.95 |
-| <img src="https://images.craigslist.org/00u0u_92oUNOdErr8_0zh0rb_300x300.jpg" width="120"> | 7950709518 | $20 | orangecounty | [Artisan Rose Quartz Necklace $20](https://www.craigslist.org/view/d/fountain-valley-artisan-rose-quartz/dqZLwxxKyYDjif6vzPhMVc) | 925 Sterling Silver Mesh Bracelet With Button Pearls 39.4g . | 590 | 29.5 |
-| <img src="https://images.craigslist.org/00000_iNTClEsfTJI_0lR0t2_300x300.jpg" width="120"> | 7953371245 | $9 | rochester | [Hand thrown pottery](https://www.craigslist.org/view/d/rochester-hand-thrown-pottery/42QAkNCcqhpwV4hjsLMX6s) | Turtle Farm Pottery Handmade Ceramic Mug — Turtle Farm ... | 250 | 27.78 |

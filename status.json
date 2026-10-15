@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:58:55Z",
+ "updated": "2026-10-15T01:04:36Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10474,
-  "events": 34890,
+  "lens": 10499,
+  "events": 34917,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -17,13 +17,13 @@
   "decided/ask": 85,
   "decided/bundle": 5,
   "decided/kill": 40,
-  "expired": 14,
+  "expired": 16,
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 378,
-  "flagged": 1907,
-  "lensed": 579
+  "queued": 353,
+  "flagged": 1922,
+  "lensed": 587
  },
  "last_harvests": [
   {
@@ -1509,6 +1509,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939922861",
+   "title": "VASE NATE BERKUS",
+   "price": 15,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vase-nate-berkus/icjAPb1Kbar7cYbG8WNDFq",
+   "best": "Art | Pacific Northwest Native American Pottery Art Signed ...",
+   "med": 572,
+   "ratio": 38.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7942787999",
    "title": "Vintage foreign beer glasses",
    "price": 1,
@@ -1660,6 +1671,17 @@
    "best": "Antique Waltham 0-Size Double Hunter Pocket Watch, Solid 14K ...",
    "med": 1300,
    "ratio": 32.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954812843",
+   "title": "Art Deco Brooch",
+   "price": 35,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-art-deco-brooch/gS1BEsNqd3tEACZdtxbNqY",
+   "best": "Openwork Rectangular Setting With Old European Cut White ...",
+   "med": 1130,
+   "ratio": 32.29,
    "ai_value": ""
   },
   {
@@ -4952,6 +4974,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935520316",
+   "title": "Vintage Floral Cup and Saucer Set Japan",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-vintage-floral-cup-and/22XYpXrp6pS2ae4ojg3rYi",
+   "best": "4 Sets of Vintage Japanese Lusterware Tea Cups and Saucers ...",
+   "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7929982117",
    "title": "Vintage Native American Sterling Turquoise Ring Size 4 3/4",
    "price": 25,
@@ -6470,6 +6503,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965512436",
+   "title": "Large, Carved Green Onyx Leaf Pendant",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-large-carved-green-onyx-leaf/n1r1PrdMswTU6426RjAHiu",
+   "best": "Carved Onyx Sterling Silver Pendant: Handmade Bohemian ...",
+   "med": 125,
+   "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7974833544",
    "title": "Gold ring",
    "price": 100,
@@ -7207,6 +7251,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952633288",
+   "title": "Vintage MCM American Beauty Round Platter",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-city-vintage-mcm-american/1rpEXjdceEJGemzQ32mqfs",
+   "best": "Vintage Ballerina Union Made 22 Carat Gold Gilt Serving ...",
+   "med": 36,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7935556827",
    "title": "jjj 2 Sterling Amethyst and CZ Rings - $35 each",
    "price": 35,
@@ -7412,6 +7467,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-antique-white-gold-diamond-ring/qp7HojD1c9yyx1kJAVoCkt",
    "best": "Art Deco Diamond Starburst Camphor Glass Ring in 10K White ...",
    "med": 695,
+   "ratio": 3.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948579646",
+   "title": "Vintage Snail Collection",
+   "price": 35,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-vintage-snail-collection/qPPgBVKnapnxCvNqQLbdSY",
+   "best": "Set Of 2) Stangl 22KT Gold Orange Pottery Birds Ducks ...",
+   "med": 122,
    "ratio": 3.49,
    "ai_value": ""
   },
@@ -7834,17 +7900,6 @@
    "ai_value": ""
   },
   {
-   "pid": "7965241119",
-   "title": "Lot of Costume Diamonds, bracelet, necklaces",
-   "price": 18,
-   "area": "southjersey",
-   "url": "https://www.craigslist.org/view/d/birmingham-lot-of-costume-diamonds/wDepX6hoEUWN1pgUQ2emiY",
-   "best": "eBay",
-   "med": 58,
-   "ratio": 3.22,
-   "ai_value": ""
-  },
-  {
    "pid": "7943638069",
    "title": "Vintage Handmade Sterling Silver 6 1/2\u201d Floral Dangle Bracelet",
    "price": 75,
@@ -8127,6 +8182,17 @@
    "url": "https://www.craigslist.org/view/d/columbus-new-10k-gold-earrings/jq7bUrxVmYKxeiwsHKFidu",
    "best": "Etsy",
    "med": 762,
+   "ratio": 3.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930116356",
+   "title": "Vintage Bell Chime",
+   "price": 40,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-vintage-bell-chime/umRXLnVMawvHEoDmhqmkUj",
+   "best": "Antique Double Goat Bell on Cloud Shaped Ring 1900s Antique ...",
+   "med": 122,
    "ratio": 3.05,
    "ai_value": ""
   },
@@ -8545,6 +8611,17 @@
    "url": "https://www.craigslist.org/view/d/woodson-grandpas-beautifully/j8rbh5nFTEAJtSz1JF2dcQ",
    "best": "Beautiful Cedar Turned Wood Bowl With Lid - Etsy",
    "med": 29,
+   "ratio": 2.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930913474",
+   "title": "\u2b50\ufe0fVINTAGE HAWAIIAN KAMAKA UKULELE",
+   "price": 500,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/laguna-beach-vintage-hawaiian-kamaka/8sb7QgTUDjwkSovTzMMLqd",
+   "best": "Vintage 1950s Kamaka Gold Label Soprano Ukulele \u2013 TR ...",
+   "med": 1450,
    "ratio": 2.9,
    "ai_value": ""
   },
@@ -9161,6 +9238,17 @@
    "url": "https://www.craigslist.org/view/d/casco-set-of-snowmen-earrings/3ww4wLMeDPP28LfXLYWZVn",
    "best": "Snowman Face Earrings, Christmas Snowman Face Earrings ...",
    "med": 13,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946409064",
+   "title": "Brighton Camera and Suitcase Retired Charms",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-brighton-camera-and-suitcase/k1tdMUSeX5xiySr5pnoaDW",
+   "best": "Brighton Camera Charm Dangle Jewelry Silver Tone Cheese ...",
+   "med": 39,
    "ratio": 2.6,
    "ai_value": ""
   },
@@ -13323,6 +13411,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970366271",
+   "title": "Filigree cuff bracelet",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-filigree-cuff-bracelet/6ixPuJo8NsF6ooTZ1TW4ob",
+   "best": "Costume Lia Sophia Retired Cuff Bracelet Silver with ...",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -13804,17 +13903,6 @@
    "best": "Old Unique Zodiac Pendant ~aries, March 21-april 20 ...",
    "med": 35,
    "ratio": 1.4,
-   "ai_value": ""
-  },
-  {
-   "pid": "7965370614",
-   "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
-   "price": 18,
-   "area": "southjersey",
-   "url": "https://www.craigslist.org/view/d/birmingham-mixed-costume-jewelry/thLxyQBUtAx9zBrqtqw1wE",
-   "best": "Vintage / Modern Costume Fashion Jewelry Earrings Wearable ...",
-   "med": 25,
-   "ratio": 1.39,
    "ai_value": ""
   },
   {
@@ -14852,6 +14940,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948806968",
+   "title": "Vintage Weighted Sterling Silver & Glass Bud Vase & Candy Dish",
+   "price": 100,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-vintage-weighted-sterling/4fH7XZFmcrPRzvMjyDdti7",
+   "best": "1950s Maurice Duchin Ny Sterling Silver Etched Glass Covered ...",
+   "med": 120,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -15013,6 +15112,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-cambridge-epcsilver/rxxEFR68ZvnT3mVyUsUMRP",
    "best": "eBay",
    "med": 34,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949934076",
+   "title": "Costume Jewelry Collection",
+   "price": 75,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/studio-city-costume-jewelry-collection/vfucC9r5narvHx9gup3Jyw",
+   "best": "BEAUTIFUL LOT OF VINTAGE JEWELRY 39 PCS Mixed | eBay",
+   "med": 88,
    "ratio": 1.17,
    "ai_value": ""
   },
@@ -17822,6 +17932,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952021249",
+   "title": "Turquoise bug earrings  1970s Fred Harvey Era",
+   "price": 200,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-turquoise-bug-earrings-1970s/cKnJ3ZHZume9pxh3iBNKGJ",
+   "best": "Vintage Sterling Silver Turquoise Bug Earrings - Etsy",
+   "med": 145,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7960677090",
    "title": "Turquoise in sterling silver pendant",
    "price": 200,
@@ -18115,6 +18236,17 @@
    "url": "https://www.craigslist.org/view/d/north-salem-hummels-collection/oBkP2uBHUn2BSsjruYaYgs",
    "best": "Antiques, Collectibles & Some Vintage Too!... starts on 9/9/2026",
    "med": 200,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972509942",
+   "title": "RASTA MAN VINTAGE WOOD CARVING ART",
+   "price": 75,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-rasta-man-vintage-wood-carving/o4B36Zmt5M3zXbdpR1S3H2",
+   "best": "Vintage Carved Wood Native American Large Face Carving - Etsy",
+   "med": 50,
    "ratio": 0.67,
    "ai_value": ""
   },
@@ -18559,6 +18691,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934147536",
+   "title": "Vintage Celebrity \"Black Rose\" four - piece jewelry set with box",
+   "price": 75,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-vintage-celebrity-black-rose/pjES54g6MUAJdJCFnebqSH",
+   "best": "Cameo Brooch Earring Set - Etsy",
+   "med": 45,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7969703721",
    "title": "Banjo - 5 String with Case",
    "price": 425,
@@ -18588,6 +18731,17 @@
    "url": "https://www.craigslist.org/view/d/zephyr-cove-jewelers-triplet-magnifying/mv7cRQoXf5BQ2z8ePKa4om",
    "best": "eBay",
    "med": 17,
+   "ratio": 0.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929249358",
+   "title": "Sculpture",
+   "price": 169,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-sculpture/hmsXwvHcL5w1aZxoZZU3py",
+   "best": "Signed Peggy Mach Pierrot Clown Ceramic Art Sculpture 1971 ...",
+   "med": 100,
    "ratio": 0.59,
    "ai_value": ""
   },
@@ -20524,6 +20678,17 @@
    "url": "https://www.craigslist.org/view/d/reston-imported-heart-necklace/h14BrCX1Fx2BAJihBNV6Sb",
    "best": "Etsy",
    "med": 40,
+   "ratio": 0.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983552072",
+   "title": "Beaded Bracelet Jewelry lot of 32",
+   "price": 160,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/oceanside-beaded-bracelet-jewelry-lot/5CzXSWoiPHMEXAEZmNgdkj",
+   "best": "Indian Blues Bracelet/Choker by Edita | aJudaica.com",
+   "med": 20,
    "ratio": 0.13,
    "ai_value": ""
   },
