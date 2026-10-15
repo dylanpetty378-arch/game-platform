@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:51:42Z",
+ "updated": "2026-10-15T07:55:36Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11549,
-  "events": 36768,
+  "lens": 11574,
+  "events": 36793,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 103,
-  "flagged": 2724,
-  "lensed": 834
+  "queued": 78,
+  "flagged": 2741,
+  "lensed": 842
  },
  "last_harvests": [
   {
@@ -806,6 +806,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928661025",
+   "title": "Vintage 1955 Dodgers Giants Program",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-1955-dodgers/wV5BHP6sEHbChffGkGHynz",
+   "best": "8/27 1955 New York Giants vs Milwaukee Braves scored ...",
+   "med": 3603,
+   "ratio": 144.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7947565852",
    "title": "Elegant Pink Ruby and 925 Sterling Silver Cocktail Ring  - Size 7.5",
    "price": 75,
@@ -1375,6 +1386,17 @@
    "best": "Over 1 Pound Jewelry Vintage Modern Huge Lot ALL GOOD Wear ...",
    "med": 125,
    "ratio": 62.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952363113",
+   "title": "misc old items",
+   "price": 1,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/fairfax-misc-old-items/h2kkcVVaRXr1LPoDP3kc2N",
+   "best": "Antique Primitive Copper Coffee Water Dipper with Spout and ...",
+   "med": 62,
+   "ratio": 62,
    "ai_value": ""
   },
   {
@@ -4832,6 +4854,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950471756",
+   "title": "Vintage metal candelstick",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/west-hollywood-vintage-metal-candelstick/cjLUyxgA2BsbbypTCShizf",
+   "best": "Vintage Wrenches Tools Crankshaft Gear Table Endtable ...",
+   "med": 200,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792374",
    "title": "Vintage WWII-Era Military Medal & Ribbon Collection",
    "price": 50,
@@ -6482,6 +6515,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942469843",
+   "title": "Bracelets",
+   "price": 20,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/jacksonville-bracelets/q7X8iWbjF79gL6mrWiQM4U",
+   "best": "LOT OF 27 BRACELETS AND BANGLES & CUFFS - FASHION JEWELRY ...",
+   "med": 123,
+   "ratio": 6.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7951672331",
    "title": "Vintage Set of 6 leather Coaster",
    "price": 18,
@@ -6950,6 +6994,17 @@
    "area": "seattle",
    "url": "https://www.craigslist.org/view/d/renton-ceramic-vintage-canisters/h22mM929g1JrsodBnW8nKB",
    "best": "Southwestern Canisters - Etsy",
+   "med": 225,
+   "ratio": 5.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975519803",
+   "title": "Natural High Quality Turquoise Nugget Necklace Sterling Silver/16\"",
+   "price": 40,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/somerville-natural-high-quality/eqjguG8Mg6bV24RPp6nnvH",
+   "best": "Rumardo Coriz Necklace Sterling Silver Turquoise Nugget ...",
    "med": 225,
    "ratio": 5.63,
    "ai_value": ""
@@ -7813,6 +7868,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943591899",
+   "title": "Beautiful Artificial Tulips w/Vase",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/silver-spring-beautiful-artificial/oqUE1ZBbEPXEjPk4yqJf7z",
+   "best": "Weighty Hypertufa Style Planter Pocket Tulip Floral ...",
+   "med": 119,
+   "ratio": 4.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471758",
    "title": "Vintage Sterling/14k Gold Vermeil Emerald Eternity Ring,Sz4",
    "price": 20,
@@ -7876,6 +7942,17 @@
    "best": "GALLE Signed Cameo Art Nouveau Glass Vase US Duty Free | eBay",
    "med": 259,
    "ratio": 4.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950853631",
+   "title": "Antique Nippon Porcelain Sugar Shaker",
+   "price": 50,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/richmond-antique-nippon-porcelain-sugar/1oAWU1nx9BoaxurEGBu5ZF",
+   "best": "Antique Nippon Porcelain Sugar Shaker",
+   "med": 235,
+   "ratio": 4.7,
    "ai_value": ""
   },
   {
@@ -10178,6 +10255,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947265030",
+   "title": "6-String Banjo",
+   "price": 200,
+   "area": "lexington",
+   "url": "https://www.craigslist.org/view/d/lexington-string-banjo/9hp1YgPTrUTAxjGcqFS3zk",
+   "best": "Gibson TB-4 Tenor Trapdoor Banjo 1922 | Reverb",
+   "med": 699,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -10526,6 +10614,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-acoma-pueblo-olla/qxRHJqGTqsbHoVTsSF7GZz",
    "best": "Sold at Auction: Mary Histia Acoma Painted Polychrome ...",
    "med": 750,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955922016",
+   "title": "Cross Pendant Necklace with 925 Sterling Silver Clasp",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-cross-pendant-necklace-with-925/37iq3XyBPxM4d48QvjMD3t",
+   "best": "Vintage Gold Toned Wire Wrapped Cross Pendant Necklace ...",
+   "med": 50,
    "ratio": 3.33,
    "ai_value": ""
   },
@@ -16943,6 +17042,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953529013",
+   "title": "Green Fostoria \"Beverly\" Sherbet Glasses",
+   "price": 20,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/elk-grove-green-fostoria-beverly/hjAReYPQkP8sTZrituR3jh",
+   "best": "Fostoria Beverly Green Depression Glass Champagne, Etched ...",
+   "med": 35,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7983738489",
    "title": "Ukulele, vintage, soprano 1950s Japan",
    "price": 70,
@@ -17053,6 +17163,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957491566",
+   "title": "CORVETTE GARAGE CLOCK",
+   "price": 99,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/norfolk-corvette-garage-clock/c2c8w8DnUkFoSax4uamqGa",
+   "best": "Retro Nostalgic C3 Corvette Logo 68-82 LED Lighted Backlit ...",
+   "med": 170,
+   "ratio": 1.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7948668528",
    "title": "Sterling silver bracelet with sqares",
    "price": 35,
@@ -17071,6 +17192,17 @@
    "url": "https://www.craigslist.org/view/d/saint-louis-aquamarine-from-tanzania-in/pDvp9jBJzsTn1vjURcNPmw",
    "best": "Elliade bijoux",
    "med": 162,
+   "ratio": 1.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949913187",
+   "title": "Diamond lady\u2019s gold ring",
+   "price": 435,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-diamond-ladys-gold-ring/cviHv9DBh7KUV2Cxzpnrb2",
+   "best": "14K GOLD DIAMOND MEDIUM JESSIE CUSHION RING \u2013 Jen K Online",
+   "med": 746,
    "ratio": 1.71,
    "ai_value": ""
   },
@@ -17214,6 +17346,17 @@
    "url": "https://www.craigslist.org/view/d/houston-lady-golfer/4nNRY4z6SzjAQx3vC4ia1K",
    "best": "eBay",
    "med": 84,
+   "ratio": 1.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939580709",
+   "title": "Maltese Falcon",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-maltese-falcon/1QR8Z9E46hcw5kW3NtrASV",
+   "best": "1941 Maltese Falcon Statue Screen Accurate Resin Prop by ...",
+   "med": 109,
    "ratio": 1.68,
    "ai_value": ""
   },
@@ -19106,6 +19249,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-heavy-bronze/qHgUcFpZEwiqiB92MUQbmZ",
    "best": "eBay",
    "med": 250,
+   "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951252240",
+   "title": "James Avery Butterfly Ring, Retired",
+   "price": 160,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-james-avery-butterfly-ring-retired/qzmgcnUiB9hNYWdJSJ34q4",
+   "best": "James Avery Retired Wide Spring Butterfly 14K YG Ring, Size ...",
+   "med": 229,
    "ratio": 1.43,
    "ai_value": ""
   },
@@ -23686,6 +23840,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936771991",
+   "title": "Antique Chinese HeTian White Jade/Ruby Bracelet.",
+   "price": 95,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-antique-chinese-hetian/odMR5fXj1aX7X2XVZRtAfw",
+   "best": "Sterling Silver Daisy Flower S Clasp With Jade Inlaid ...",
+   "med": 85,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7979722731",
    "title": "Handmade Vintage Pottery Bowl Signed by Artist Gray",
    "price": 40,
@@ -24782,6 +24947,17 @@
    "url": "https://www.craigslist.org/view/d/byron-signed-drawings/3wxeTsQHcxgEf4cv1VvEbQ",
    "best": "eBay",
    "med": 38,
+   "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951593697",
+   "title": "White gold ring",
+   "price": 395,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-white-gold-ring/ciJJBwedJCujDFCB6N2uud",
+   "best": "14 Karat White Gold Newborn Created Diamond Solitaire White ...",
+   "med": 299,
    "ratio": 0.76,
    "ai_value": ""
   },
@@ -27840,6 +28016,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-earrings-and-brooch-napier/fEoxNx1tcPLiQmpVeUn9Xo",
    "best": "Vintage Monet Modern Leaf Brooch, Goldtone Metal, Openwork ...",
    "med": 16,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969623669",
+   "title": "Master Card Beanie Babies",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/stony-brook-master-card-beanie-babies/7vG542bX2JeWyx5QHPCFau",
+   "best": "Ty Beanie Babies Mastercard Bears - Etsy",
+   "med": 8,
    "ratio": 0.4,
    "ai_value": ""
   },
