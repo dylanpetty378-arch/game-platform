@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T22:13:09Z",
+ "updated": "2026-10-15T22:17:16Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 13049,
-  "events": 40242,
+  "lens": 13074,
+  "events": 40267,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 203,
-  "flagged": 3853,
-  "lensed": 1205
+  "queued": 178,
+  "flagged": 3869,
+  "lensed": 1214
  },
  "last_harvests": [
   {
@@ -3218,6 +3218,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969184718",
+   "title": "Vintage Shadow Puppet Rawhide Handheld Fan",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-shadow-puppet-rawhide/1yWEzxSNq6WtFz51y1hCap",
+   "best": "Antique 1900s Wayang Golek Traditional Theatre Dance Fan ...",
+   "med": 234,
+   "ratio": 23.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7982183895",
    "title": "Ladies Fashion Gold Ring sz10",
    "price": 15,
@@ -4362,6 +4373,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947311549",
+   "title": "Relic Vintage Icon Tele",
+   "price": 250,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-relic-vintage-icon-tele/usto7QG5Rczgcbp37cUH1L",
+   "best": "Fender Custom Shop '59 Telecaster Journeyman Relic Electric ...",
+   "med": 4037,
+   "ratio": 16.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7983463017",
    "title": "Blue Topaz CZ Jewelry Set",
    "price": 8,
@@ -4469,6 +4491,17 @@
    "best": "eBay",
    "med": 315,
    "ratio": 15.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966516110",
+   "title": "Gibson Flying V Replica",
+   "price": 350,
+   "area": "stgeorge",
+   "url": "https://www.craigslist.org/view/d/saint-george-gibson-flying-replica/qTaDCi6H8eiR7JRvDuVaZ1",
+   "best": "Gibson Custom Shop 1958 Flying V Mahogany VOS Walnut 6.14 #81543",
+   "med": 5499,
+   "ratio": 15.71,
    "ai_value": ""
   },
   {
@@ -6504,6 +6537,17 @@
    "best": "Simply Vera Silver Tone Chain Necklace With Pink And Clear ...",
    "med": 49,
    "ratio": 9.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955134287",
+   "title": "Antique Mesh Metal handbag",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-antique-mesh-metal-handbag/awfGrVKcYYKF115Nvsg7Go",
+   "best": "Antique Art Deco Excellent Condition Germany Dresden Fine ...",
+   "med": 195,
+   "ratio": 9.75,
    "ai_value": ""
   },
   {
@@ -9396,6 +9440,17 @@
    "url": "https://www.craigslist.org/view/d/palm-harbor-garnet-sterling-silver/6ak2YMAFwMCQEFspTjzXyX",
    "best": "Garnet Pendant, Genuine Garnet Sterling Silver Butterfly ...",
    "med": 120,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956325454",
+   "title": "Antique Match/Keys Holder",
+   "price": 10,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-antique-match-keys/4N7ZTKrcXpks3b9WzWSGs3",
+   "best": "Antique Cast Iron Match Holder | eBay",
+   "med": 60,
    "ratio": 6,
    "ai_value": ""
   },
@@ -16979,6 +17034,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943732608",
+   "title": "Antique Gillette Razor Kit",
+   "price": 50,
+   "area": "mohave",
+   "url": "https://www.craigslist.org/view/d/lake-havasu-city-antique-gillette-razor/rJJekKF1ESmJuTpxpnM9ZL",
+   "best": "eBay",
+   "med": 143,
+   "ratio": 2.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788924",
    "title": "Sterling Silver Cuff 5\u201d w/Turquoise",
    "price": 60,
@@ -21170,6 +21236,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972393881",
+   "title": "Brighton Silver/Gold Tone Belt Vintage 90's",
+   "price": 15,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/wilsonville-brighton-silver-gold-tone/uYqKfuJTcFqXD6uMZQvUsc",
+   "best": "Brighton | Accessories | Vintage Brighton Tan Leather Rope ...",
+   "med": 31,
+   "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7954662609",
    "title": "Vintage Wooden Christmas Nutcrackers",
    "price": 125,
@@ -23025,6 +23102,17 @@
    "url": "https://www.craigslist.org/view/d/martinsville-1921-morgan-dollar-pendant/pcyQUnzAszt6UchBTsKHzi",
    "best": "Mint State 1921 BU Morgan Silver Dollar PCS Coins Slabbed ...",
    "med": 138,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948956831",
+   "title": "Vintage silver, turquoise and coral bracelet and ring",
+   "price": 125,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/massapequa-park-vintage-silver/oMVECkoZzEYy7H5z26fiHa",
+   "best": "925 Sterling Silver Geometric Turquoise Spiny Oyster Chip ...",
+   "med": 230,
    "ratio": 1.84,
    "ai_value": ""
   },
@@ -25603,6 +25691,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983943206",
+   "title": "Waterford Crystal Millennium Collection Toasting Flutes",
+   "price": 65,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-waterford-crystal-millennium/2RaW6MwqkubLdFVjYDWJ7E",
+   "best": "STUNNING WATERFORD CRYSTAL MILLENIUM 'HAPPINESS' 9 1/4 ...",
+   "med": 100,
+   "ratio": 1.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788503",
    "title": "Vintage Sterling Silver & Mother of Pearl Earrings",
    "price": 45,
@@ -26380,6 +26479,17 @@
    "url": "https://www.craigslist.org/view/d/jamaica-antique-apollo-epns-silver/h9RS8niaS87VhqKmuWReKF",
    "best": "Etsy",
    "med": 75,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932025480",
+   "title": "Charm Bracelet and 20\" Charm Necklace Set",
+   "price": 30,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-charm-bracelet-and-20-charm/vz5ZyQjBXK6Fsj9KZ1846X",
+   "best": "Craigslist",
+   "med": 45,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -27370,6 +27480,17 @@
    "url": "https://www.craigslist.org/view/d/boise-vintage-armitron-and-westclox/xojHpKxREckx5ucQEzrbaw",
    "best": "eBay",
    "med": 35,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953964356",
+   "title": "Silverware",
+   "price": 20,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/mount-joy-silverware/bgnrje9PorRMZCL2eu8CUB",
+   "best": "Vintage 23 Karat Gold Plated Teaspoons. Set of 4: Made in ...",
+   "med": 28,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -31301,6 +31422,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949371064",
+   "title": "Antique fostoria art deco candle sticks",
+   "price": 25,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/penney-farms-antique-fostoria-art-deco/xBe63zbYvMPKpRya1KtcMo",
+   "best": "Elegant Crystal Vintage Glass Pair Taper Candleholders ...",
+   "med": 26,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
    "pid": "7968810867",
    "title": "ANTIQUE ART DECO ELGIN MODEL 7 S16 17J POCKET WATCH, MADE 1937, RUNNIN",
    "price": 325,
@@ -32749,6 +32881,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-ati-blue-sterling-ring-size-1/dBHndRuz1ZRfPA2u9YVoB1",
    "best": "Cushion Faceted Aqua Chalcedony Gemstone 925 Sterling Silver ...",
    "med": 42,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945084030",
+   "title": "Vintage Geneva Elite 1066 Stainless Steel Beads Womens Girls Watch B",
+   "price": 30,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-geneva-elite-1066/hYgzRV1JwxwcC5ehQS1Kxm",
+   "best": "Geneva | Accessories | Geneva Womens Rose Goldtone Tbar ...",
+   "med": 28,
    "ratio": 0.93,
    "ai_value": ""
   },
@@ -39760,6 +39903,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947005597",
+   "title": "Crystal and Cut Glass Collection (price REDUCED)",
+   "price": 110,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/wellington-crystal-and-cut-glass/bKWrLcL6hrvjhiiXG9DxAP",
+   "best": "Vintage Kemple Yellow - Amber heavy cut glass sawtooth edge ...",
+   "med": 30,
+   "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7948568420",
    "title": "Vintage Charles Albert Sterling, Blue & Clear Topaz w/Imperial Jasper",
    "price": 180,
@@ -40460,6 +40614,17 @@
    "url": "https://www.craigslist.org/view/d/dallas-gorgeous-vintage-wisconsin/kEffpErUEP9y3RvebkWBBK",
    "best": "Etsy",
    "med": 18,
+   "ratio": 0.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937957957",
+   "title": "Gorgeous vintage carnival glass collection READY TO DEAL",
+   "price": 300,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/southlake-gorgeous-vintage-carnival/4NkhXZmVML4yFMJh69iGCR",
+   "best": "Etsy",
+   "med": 55,
    "ratio": 0.18,
    "ai_value": ""
   },
@@ -42857,6 +43022,17 @@
    "area": "wilmington",
    "url": "https://www.craigslist.org/view/d/wilmington-famous-quote-mug-dolly/1Q73viWNVFV7xELe9VAr35",
    "best": "Sugarboo & Co",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956980444",
+   "title": "RANGER Knife, American Made, antique/vintage",
+   "price": 25,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/union-ranger-knife-american-made/emDRoH6QgRddrsBqkAxTcW",
+   "best": "Vintage USA made COLONIAL KNIFE CO - RANGER Small Jack Knife ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
