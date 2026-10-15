@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:44:38Z",
+ "updated": "2026-10-15T21:50:26Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12874,
-  "events": 40067,
+  "lens": 12899,
+  "events": 40092,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 378,
-  "flagged": 3718,
-  "lensed": 1165
+  "queued": 353,
+  "flagged": 3736,
+  "lensed": 1172
  },
  "last_harvests": [
   {
@@ -2544,6 +2544,17 @@
    "best": "eBay",
    "med": 6485,
    "ratio": 32.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982610528",
+   "title": "Sterling silver diamond hoop earrings",
+   "price": 50,
+   "area": "brownsville",
+   "url": "https://www.craigslist.org/view/d/harlingen-sterling-silver-diamond-hoop/vFSeX9qh8WdnyE5VyJzRKW",
+   "best": "Sparkling Hoop Earrings | Sterling silver | Pandora US",
+   "med": 1617,
+   "ratio": 32.34,
    "ai_value": ""
   },
   {
@@ -7035,6 +7046,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945709184",
+   "title": "14K gold chain / necklace",
+   "price": 300,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buda-14k-gold-chain-necklace/doAxa5BEo8zpNG5GT8XpYx",
+   "best": "14k Gold Rope Chain: 3mm/4mm Real Gold Necklace - Etsy",
+   "med": 2500,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951470286",
    "title": "Very Large Hand Painted Porcelain Vase",
    "price": 150,
@@ -7261,6 +7283,17 @@
    "area": "fortwayne",
    "url": "https://www.craigslist.org/view/d/auburn-mens-tungsten-carbide-gold/5pau5ybgKrt9zjEiv7ckus",
    "best": "His/her Rings Set - 18 Kt Yellow Gold Wedding Bands (6mm/4mm ...",
+   "med": 120,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947749213",
+   "title": "Glamorous Beads Charm Fashion Necklace Jewelry Gift",
+   "price": 15,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-glamorous-beads-charm-fashion/uhGCvZ4CkbnF7LsDF4UaJe",
+   "best": "facebook.com",
    "med": 120,
    "ratio": 8,
    "ai_value": ""
@@ -8175,6 +8208,17 @@
    "url": "https://www.craigslist.org/view/d/palm-harbor-peridot-sterling-silver/hgdw3PRrmhHcrA2E4dB5eR",
    "best": "14K GOLD GENUINE PERIDOTS AND GENUINE DIAMONDS NECKLACE ...",
    "med": 135,
+   "ratio": 6.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962734730",
+   "title": "Painting - Sunflowers",
+   "price": 40,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-painting-sunflowers/1PLECxSXFNXDhQdfKXi4uu",
+   "best": "Craigslist",
+   "med": 270,
    "ratio": 6.75,
    "ai_value": ""
   },
@@ -9528,6 +9572,17 @@
    "url": "https://www.craigslist.org/view/d/austin-vintage-leaf-brooch-pin-with/3tfJwQay1f4PfwBMm5pnCW",
    "best": "Vintage Silver Tone Clear Rhinestone Floral Leaf Plant ...",
    "med": 28,
+   "ratio": 5.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943151335",
+   "title": "Vintage Remington Electra Manual Wind Winder has Swiss Parts Made by L",
+   "price": 25,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-remington-electra-manual/wpVQ2qxWggvbVd3NXt39z6",
+   "best": "eBay",
+   "med": 140,
    "ratio": 5.6,
    "ai_value": ""
   },
@@ -14632,6 +14687,28 @@
    "url": "https://www.craigslist.org/view/d/renton-sterling-charm-bracelet-golf/5PktLDpx2jMuTWNp9AXFAH",
    "best": "Animal Lovers Bracelet - Unique Shop Design | Jes MaHarry",
    "med": 198,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934225710",
+   "title": "*VICTORIAN MUSICAL MUSE LITHOGRAPH*",
+   "price": 50,
+   "area": "neworleans",
+   "url": "https://www.craigslist.org/view/d/mandeville-victorian-musical-muse/8R4MHXAnUTQakCkFqGQdpK",
+   "best": "eBay",
+   "med": 165,
+   "ratio": 3.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974808116",
+   "title": "Pair of Vintage Capodimonte Style Porcelain Urns",
+   "price": 200,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/sterling-pair-of-vintage-capodimonte/9BHAy4b9hw4mdH6TdTmA8u",
+   "best": "Vintage Italian Decorative Urns- Set of 2 | Chairish",
+   "med": 660,
    "ratio": 3.3,
    "ai_value": ""
   },
@@ -21577,6 +21654,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984032015",
+   "title": "Have two classical guitars for sale",
+   "price": 75,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/camarillo-have-two-classical-guitars/cBm4vFWPzP4qPS44z93mU6",
+   "best": "eBay",
+   "med": 145,
+   "ratio": 1.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7942381489",
    "title": "Vintage Jewelry",
    "price": 50,
@@ -22072,6 +22160,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972726983",
+   "title": "Invicta Pro Diver Model 24468 Automatic Watch",
+   "price": 75,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-invicta-pro-diver-model/brE3GB8GSXZn3m9iERrYEU",
+   "best": "Invictawatch",
+   "med": 140,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7963446408",
    "title": "Antique Victorian American Waltham 1891 Ladies Pocket Watch",
    "price": 350,
@@ -22332,6 +22431,17 @@
    "url": "https://www.craigslist.org/view/d/osage-beach-vintage-nelsonic-mens/jFegqRV6JNeVnAtDc5Bsrh",
    "best": "Mercari",
    "med": 64,
+   "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976241795",
+   "title": "Relic Brand Silver Pocket Watch",
+   "price": 12,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-relic-brand-silver-pocket/wDU7RZ1DTffGqxm4vGcnXA",
+   "best": "eBay",
+   "med": 22,
    "ratio": 1.83,
    "ai_value": ""
   },
@@ -22727,6 +22837,17 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/newport-beach-vintagerosa-parzellan-tea/wpSM53ZRNjxd1tC3g4wZ1W",
    "best": "Craigslist",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970385846",
+   "title": "Vintage Peach Lustreware African Violet Pot",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-vintage-peach-lustreware/39ExGmFTvrsCmQke89ToLA",
+   "best": "Crown Devon Biscuit Jar - Etsy",
    "med": 45,
    "ratio": 1.8,
    "ai_value": ""
@@ -25467,6 +25588,17 @@
    "url": "https://www.craigslist.org/view/d/round-rock-vintage-granny-core-set-of/eKQdAQbpwyrrE4dzktN7Dk",
    "best": "Baby Crocheted Teething Blanket - Etsy",
    "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935150201",
+   "title": "Group of Vintage Artwork",
+   "price": 30,
+   "area": "nwct",
+   "url": "https://www.craigslist.org/view/d/bethel-group-of-vintage-artwork/f4jWUKSAuDSab8EmTmNLaP",
+   "best": "3 MCM Oil Paintings Landscape Alice Noel Listed Artist ...",
+   "med": 45,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -29706,6 +29838,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951362404",
+   "title": "Vintage Tiffany & Co. Sterling Silver Tie Clip Tie Bar",
+   "price": 255,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/glendale-vintage-tiffany-co-sterling/tbF55ZhKL9sErEM8LGPoau",
+   "best": "eBay",
+   "med": 280,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7983534870",
    "title": "Tribal Art Collection",
    "price": 450,
@@ -33303,6 +33446,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954011600",
+   "title": "Vintage Cloisonn\u00e9 Vases (set of 2)",
+   "price": 140,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/valley-village-vintage-cloisonn-vases/7kjhpZiGxSJjH1xVBQGWm8",
+   "best": "Etsy",
+   "med": 111,
+   "ratio": 0.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7948679755",
    "title": "** Original Signed Painting - \u201cBarnegat Light\u201d -  Old Barney -**",
    "price": 125,
@@ -34766,6 +34920,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958816196",
+   "title": "1970s Napier Pearl Cabochon Brooch",
+   "price": 30,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-1970s-napier-pearl-cabochon/83KXVupz9aXWLEQ3K6Uuos",
+   "best": "Etsy",
+   "med": 20,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7950732303",
    "title": "Sterling Silver Pearl Necklace",
    "price": 70,
@@ -36108,6 +36273,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979825766",
+   "title": "Make offers ( Antique sets)",
+   "price": 111,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-make-offers-antique-sets/dU61anvQ1MBToSzUg9EkCg",
+   "best": "Craigslist",
+   "med": 60,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7948673232",
    "title": "Sterling Silver 16\u201d Omega Necklace",
    "price": 95,
@@ -37272,6 +37448,17 @@
    "med": 65,
    "ratio": 0.42,
    "ai_value": ""
+  },
+  {
+   "pid": "7971904557",
+   "title": "Vintage Traditional East African Turkana Vessel",
+   "price": 155,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-traditional-east/tU2LywRQFPvXCk3rHR6uMY",
+   "best": "TURKANA KENYA GOARD BOTTLE MID - LATE 20 CENTURY AFRICAN ...",
+   "med": 65,
+   "ratio": 0.42,
+   "ai_value": "Sold at Auction: African Water Gourd #87406 Out of stock $65"
   },
   {
    "pid": "7939109606",
@@ -39030,6 +39217,17 @@
    "url": "https://www.craigslist.org/view/d/garden-grove-vintage-faber-castell/cZ4iHL5QoPaTqgdW94txyS",
    "best": "eBay",
    "med": 11,
+   "ratio": 0.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984004319",
+   "title": "2 Gorgeous Vintage Wisconsin Prints Beautifully Framed",
+   "price": 100,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-gorgeous-vintage-wisconsin/kEffpErUEP9y3RvebkWBBK",
+   "best": "Etsy",
+   "med": 18,
    "ratio": 0.18,
    "ai_value": ""
   },

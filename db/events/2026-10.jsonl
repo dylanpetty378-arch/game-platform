@@ -40065,3 +40065,28 @@
 {"ts":"2026-10-15T21:43:55Z","pid":"7958800350","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Jewelry — title does not","data":{"med":68,"ratio":0.57,"mismatch":["Jewelry"]}}
 {"ts":"2026-10-15T21:44:05Z","pid":"7964320230","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Imperial — title does not","data":{"med":33,"ratio":0.33,"mismatch":["Imperial"]}}
 {"ts":"2026-10-15T21:44:14Z","pid":"7935378623","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Company — title does not","data":{"med":49,"ratio":3.27,"mismatch":["Company"]}}
+{"ts":"2026-10-15T21:44:25Z","pid":"7943151335","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Company, Rolex, Silver — title does not","data":{"med":140,"ratio":5.6,"mismatch":["Company","Rolex","Silver"]}}
+{"ts":"2026-10-15T21:44:32Z","pid":"7974792360","stage":"lensed","run":"lensworker-20261015-2140","note":null,"data":{"med":60,"ratio":0.25,"mismatch":[]}}
+{"ts":"2026-10-15T21:44:40Z","pid":"7984039140","stage":"lensed","run":"lensworker-20261015-2140","note":null,"data":{"med":46,"ratio":1.84,"mismatch":[]}}
+{"ts":"2026-10-15T21:44:52Z","pid":"7982610528","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Gold — title does not","data":{"med":1617,"ratio":32.34,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T21:45:00Z","pid":"7962734730","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Life — title does not","data":{"med":270,"ratio":6.75,"mismatch":["Life"]}}
+{"ts":"2026-10-15T21:45:07Z","pid":"7934225710","stage":"flagged","run":"lensworker-20261015-2140","note":null,"data":{"med":165,"ratio":3.3,"mismatch":[]}}
+{"ts":"2026-10-15T21:45:18Z","pid":"7979825766","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Lefton — title does not","data":{"med":60,"ratio":0.54,"mismatch":["Lefton"]}}
+{"ts":"2026-10-15T21:45:26Z","pid":"7935150201","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Allen, Artist, Norway — title does not","data":{"med":45,"ratio":1.5,"mismatch":["Allen","Artist","Norway"]}}
+{"ts":"2026-10-15T21:45:37Z","pid":"7974808116","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Carter — title does not","data":{"med":660,"ratio":3.3,"mismatch":["Carter"]}}
+{"ts":"2026-10-15T21:45:48Z","pid":"7972726983","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Gold — title does not","data":{"med":140,"ratio":1.87,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T21:45:55Z","pid":"7971904557","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Museum — title does not","data":{"med":65,"ratio":0.42,"mismatch":["Museum"]}}
+{"ts":"2026-10-15T21:46:05Z","pid":"7984004319","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Milwaukee, Museum — title does not","data":{"med":18,"ratio":0.18,"mismatch":["Milwaukee","Museum"]}}
+{"ts":"2026-10-15T21:46:16Z","pid":"7970385846","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Biscuit, Company — title does not","data":{"med":45,"ratio":1.8,"mismatch":["Biscuit","Company"]}}
+{"ts":"2026-10-15T21:46:23Z","pid":"7976241795","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Hamilton — title does not","data":{"med":22,"ratio":1.83,"mismatch":["Hamilton"]}}
+{"ts":"2026-10-15T21:46:33Z","pid":"7947749213","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Juliana, Republic — title does not","data":{"med":120,"ratio":8,"mismatch":["Juliana","Republic"]}}
+{"ts":"2026-10-15T21:46:42Z","pid":"7958816196","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Gold, Jewelry — title does not","data":{"med":20,"ratio":0.67,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-15T21:46:49Z","pid":"7954011600","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Enamel — title does not","data":{"med":111,"ratio":0.79,"mismatch":["Enamel"]}}
+{"ts":"2026-10-15T21:46:58Z","pid":"7945709184","stage":"flagged","run":"lensworker-20261015-2140","note":"Lens names Jewelry — title does not","data":{"med":2500,"ratio":8.33,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T21:47:05Z","pid":"7945841413","stage":"lensed","run":"lensworker-20261015-2140","note":null,"data":{"med":25,"ratio":0.56,"mismatch":[]}}
+{"ts":"2026-10-15T21:49:13Z","pid":"7983919026","stage":"lensed","run":"lensworker-20261015-2144","note":null,"data":{"med":79,"ratio":0.79,"mismatch":[]}}
+{"ts":"2026-10-15T21:49:24Z","pid":"7951362404","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Gold, Jewelry, Signature — title does not","data":{"med":280,"ratio":1.1,"mismatch":["Gold","Jewelry","Signature"]}}
+{"ts":"2026-10-15T21:49:32Z","pid":"7939733008","stage":"lensed","run":"lensworker-20261015-2144","note":null,"data":{"med":40,"ratio":1.14,"mismatch":[]}}
+{"ts":"2026-10-15T21:49:43Z","pid":"7971553071","stage":"lensed","run":"lensworker-20261015-2144","note":null,"data":{"med":12,"ratio":2.4,"mismatch":[]}}
+{"ts":"2026-10-15T21:49:50Z","pid":"7984032015","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Franciscan, Yamaha — title does not","data":{"med":145,"ratio":1.93,"mismatch":["Franciscan","Yamaha"]}}
+{"ts":"2026-10-15T21:49:58Z","pid":"7976651403","stage":"lensed","run":"lensworker-20261015-2144","note":null,"data":{"med":45,"ratio":3,"mismatch":[]}}
