@@ -38322,3 +38322,10 @@
 {"ts":"2026-10-15T15:34:44Z","pid":"7953691719","stage":"flagged","run":"lensworker-20261015-1528","note":null,"data":{"med":98,"ratio":3.92,"mismatch":[]}}
 {"ts":"2026-10-15T15:34:50Z","pid":"7961990112","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Alfred Meakin, Johnson Bros — title does not","data":{"med":43,"ratio":2.39,"mismatch":["Alfred Meakin","Johnson Bros"]}}
 {"ts":"2026-10-15T15:34:58Z","pid":"7975394412","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Harmony — title does not","data":{"med":9,"ratio":0.75,"mismatch":["Harmony"]}}
+{"pid":"ebay960042174137","stage":"decided","status":"kill","type":null,"note":"Radtke Lauckner 1890 trade etching (C. Harris), foxed; ~$75","run":"ebay-20261015-1530","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:36:21Z"}
+{"pid":"ebay206613114023","stage":"decided","status":"kill","type":null,"note":"hobby slip-cast vase incised GWEN T.; ~$40","run":"ebay-20261015-1530","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:36:21Z"}
+{"pid":"ebay227558663412","stage":"decided","status":"kill","type":null,"note":"Fossil Defender modern quartz watch","run":"ebay-20261015-1530","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:36:21Z"}
+{"pid":"ebay407276801882","stage":"decided","status":"kill","type":null,"note":"modern sterling inlay ring, $29","run":"ebay-20261015-1530","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:36:21Z"}
+{"pid":"ebay800779812965","stage":"decided","status":"kill","type":null,"note":"1950s Boston police jacket, common","run":"ebay-20261015-1530","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:36:21Z"}
+{"pid":"ebay820217722192","stage":"decided","status":"kill","type":null,"note":"modern Tarahumara tourist basket","run":"ebay-20261015-1530","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:36:21Z"}
+{"pid":"ebay800775849347","stage":"decided","status":"kill","type":null,"note":"Bonne 1778 map correctly titled, bid $195 near value","run":"ebay-20261015-1530","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:36:21Z"}

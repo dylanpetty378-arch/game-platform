@@ -393,3 +393,10 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   `ebay_eggs.py flags <run>` writes the flagged file.
 - Terapeak on the 11 open Craigslist asks: 2 kept (Smith-Miller + Thimble Drome lot ≈ $900 if originals; surf scoter decoy
   median $270), 9 dropped.
+- 15:14 run (eBay only): the 12:09 pool's 3,573 unscreened auctions had **all ended** (12:02–15:16Z) — screened before
+  noticing, 7 flags all dead. Fix: `ebay_eggs.py sheetpool` now drops auctions ending within 30 min. Dispatched a fresh
+  pool (15:30Z, 3,084 new) → 26 sheets, 8 eye agents → 7 flags → detail → **0 eggs, 0 leads, 7 kills** (Radtke Lauckner
+  trade etching, hobby slip-cast vase, Bonne 1778 map already near value, modern watch/ring/basket, police jacket).
+  Counts: eBay 6,657 screened (3,084 live). Health: no FAILs; WARN backlogs 3,204 flagged / 979 lensed unread.
+  Idea: the cron (41 */6) leaves pools up to 6 h stale against a 3-h review cadence — dispatch `mode=pool` at the
+  start of every run (≈9 min) instead of trusting the last scheduled pool.
