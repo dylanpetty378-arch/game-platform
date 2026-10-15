@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:08:44Z",
+ "updated": "2026-10-15T01:12:38Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10524,
-  "events": 34942,
+  "lens": 10549,
+  "events": 34967,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 328,
-  "flagged": 1940,
-  "lensed": 594
+  "queued": 303,
+  "flagged": 1953,
+  "lensed": 606
  },
  "last_harvests": [
   {
@@ -978,6 +978,17 @@
    "best": "QuickSell",
    "med": 4212,
    "ratio": 84.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962933525",
+   "title": "Vintage handmade gold plated sterling silver natural emerald ring",
+   "price": 45,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-handmade-gold-plated/tmSGYSTY8FMCCTbW8j4njG",
+   "best": "Imperial Jade Ring 14k Gold - Etsy",
+   "med": 3750,
+   "ratio": 83.33,
    "ai_value": ""
   },
   {
@@ -3500,6 +3511,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968419376",
+   "title": "Vintage  Ladies wind Up Watch Woman's Compact Weldwood",
+   "price": 7,
+   "area": "dayton",
+   "url": "https://www.craigslist.org/view/d/dayton-vintage-ladies-wind-up-watch/6ifi9dgvExHy5Gc3WcNKzz",
+   "best": "Vintage 1930's Illinois Watch Case Co. Lady's Powder Compact ...",
+   "med": 75,
+   "ratio": 10.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7957510838",
    "title": "Vintage Glass Pitcher",
    "price": 10,
@@ -4864,6 +4886,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937395098",
+   "title": "Bright Blue and Purple Titanium Druzy Pendant",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-bright-blue-and-purple/meFtiV7PavqiMsHfD5KrWN",
+   "best": "Elven Elvish Fantasy Amulet Necklace Mystical Forest Large ...",
+   "med": 186,
+   "ratio": 6.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135555",
    "title": "NEW 14K Gold Ruby and Diamond Ring",
    "price": 190,
@@ -5773,6 +5806,17 @@
    "url": "https://www.craigslist.org/view/d/waltham-signed-painting-of-clown/nbzbjzUQ1psV6KcCchLasL",
    "best": "LEIGHTON -JONES 'CLOWN WITH RED HAIR\" Canvas Print 23\" X 29 ...",
    "med": 150,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938378084",
+   "title": "OVER HUNDREN YEARS OLD 3 SIDE PITCHER",
+   "price": 65,
+   "area": "meadville",
+   "url": "https://www.craigslist.org/view/d/erie-over-hundren-years-old-side-pitcher/d254VuGktzPPDyefKsbWN3",
+   "best": "Antique BUFFALO POTTERY Larkin Soap Promo Holland Dutch ...",
+   "med": 325,
    "ratio": 5,
    "ai_value": ""
   },
@@ -7207,6 +7251,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969711101",
+   "title": "Hounddogs",
+   "price": 40,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/wichita-hounddogs/rzCyGxpcpqsBhxU9fb7DAA",
+   "best": "Norman Rockwell PALS Collection Plate. The Danbury - 1978 ...",
+   "med": 148,
+   "ratio": 3.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7940918247",
    "title": "Vintage Ceramic Peace Sign Pendant",
    "price": 30,
@@ -7225,6 +7280,17 @@
    "url": "https://www.craigslist.org/view/d/brookhaven-poor-condition-knife/49iBMuwBn126CEp1cbDoq6",
    "best": "Vtg 5 Pocket Knives 4 Frost Cutlery, \"Pakistan\" 1 Steel Warrior ...",
    "med": 55,
+   "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953831529",
+   "title": "Vintage falcon statue",
+   "price": 75,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/moultrie-vintage-falcon-statue/nU6GRBSknvtYXVnGaU9FGt",
+   "best": "Michael's Thrift Shop | eBay Stores",
+   "med": 275,
    "ratio": 3.67,
    "ai_value": ""
   },
@@ -9484,6 +9550,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983673806",
+   "title": "djembe drum",
+   "price": 15,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-djembe-drum/vDRGmvU3mfpNXo2eYr7Ebg",
+   "best": "DJEMBE DRUM Wooden Disney Theatrical Group Ltd | eBay",
+   "med": 38,
+   "ratio": 2.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7938906082",
    "title": "Late 20th Century Moneto Double Sided Napoleon Pendant",
    "price": 35,
@@ -9865,6 +9942,17 @@
    "url": "https://www.craigslist.org/view/d/lake-oswego-vintage-large-blue-pottery/uBh7JLBeRXyCULp1EE2tK7",
    "best": "eBay Community",
    "med": 60,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952707370",
+   "title": "\u2764\ufe0f \ud83d\udc8e 10K GOLD NECKLACE w/ DIAMOND HEARTS PENDANT \ud83d\udc8e \ud83d\udc95",
+   "price": 129,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-10k-gold-necklace-diamond/hB6q5UK5FuqLbUmfT5Pkhx",
+   "best": "10K Yellow Gold 0.36ct Channel Set Diamond Twisted Heart ...",
+   "med": 310,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -10405,6 +10493,17 @@
    "best": "eBay",
    "med": 34,
    "ratio": 2.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941671120",
+   "title": "Sterling silver set",
+   "price": 199,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/reston-sterling-silver-set/vo51vujcDDcr1mrt73E3Kg",
+   "best": "Emerald - Silver - 2 piece jewellery set - auction online ...",
+   "med": 450,
+   "ratio": 2.26,
    "ai_value": ""
   },
   {
@@ -14170,6 +14269,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980126378",
+   "title": "6 vintage Monet bracelets",
+   "price": 35,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/brooksville-vintage-monet-bracelets/vypGiysWW5WM8rkVtxwT9v",
+   "best": "Monet Bangle Bracelet / Vintage Jewelry / 1960s Bracelet ...",
+   "med": 48,
+   "ratio": 1.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7977992793",
    "title": "Swatch Chronograph 1991 Blue Watch",
    "price": 75,
@@ -16575,6 +16685,17 @@
    "url": "https://www.craigslist.org/view/d/las-vegas-turquoise-lightning-bug-pin/qK3UoM8RFjmsVBdWPvo69y",
    "best": "1950s Turquoise Bug Pin \u2013 Garland's",
    "med": 98,
+   "ratio": 0.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941504995",
+   "title": "Antique Chinese Rosewood Statue",
+   "price": 300,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/montebello-antique-chinese-rosewood/rfQXSVRPikWdaChgK9Uzew",
+   "best": "Antique Finely Carved Chinese SHOU LAO God of Longevity 14 ...",
+   "med": 295,
    "ratio": 0.98,
    "ai_value": ""
   },
@@ -20792,6 +20913,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973398419",
+   "title": "Small Enamel  Charms,Gold color",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-small-enamel-charmsgold/dngwTCsGXRf4CVCxw345zF",
+   "best": "Amazon.com: SANNIX 350Pcs Bracelet Charms Jewelry Making ...",
+   "med": 3,
+   "ratio": 0.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7973198682",
    "title": "Disney stuff",
    "price": 70,
@@ -21821,6 +21953,17 @@
    "area": "pittsburgh",
    "url": "https://www.craigslist.org/view/d/strabane-vintage-working-led-hamilton/11KZW2ZRE2UAPaagoSHUzY",
    "best": "Hamilton QED/QTC LED Vintage for $1,135 for sale from a ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963512738",
+   "title": "Sterling St. Vincent",
+   "price": 500,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/tualatin-sterling-st-vincent/6DhZgWY9vE5iAJnDRbeXri",
+   "best": "Open Box Sterling by Music Man St. Vincent Electric Guitar ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
