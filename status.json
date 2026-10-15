@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:47:48Z",
+ "updated": "2026-10-15T01:51:28Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10774,
-  "events": 35192,
+  "lens": 10799,
+  "events": 35217,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 78,
-  "flagged": 2125,
-  "lensed": 659
+  "queued": 53,
+  "flagged": 2148,
+  "lensed": 661
  },
  "last_harvests": [
   {
@@ -706,6 +706,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949539876",
+   "title": "BEAUTIFUL ORIGINAL PAINTING",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/discovery-bay-beautiful-original/aSWW5x3LcnQKp1wEAE3tkc",
+   "best": "Norwalk, Rowayton Artists Honored In Brushwork Exhibition ...",
+   "med": 1895,
+   "ratio": 189.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7973797344",
    "title": "Bijou Earrings, Sterling 925 Italy, Vintage",
    "price": 45,
@@ -879,6 +890,17 @@
    "best": "Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ...",
    "med": 18362,
    "ratio": 104.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966080237",
+   "title": "Vintage 18\" Diamond-Cut Gold-Tone Rope Chain Necklace Brilliant Shine",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-18-diamond-cut-gold-tone/ezfyQtYa7pxbxJEocdH5Vs",
+   "best": "eBay",
+   "med": 3000,
+   "ratio": 103.45,
    "ai_value": ""
   },
   {
@@ -1242,6 +1264,17 @@
    "best": "925 heart shape clasp, pearl yellow crystal. lot of 7 ...",
    "med": 170,
    "ratio": 56.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955869303",
+   "title": "2 vintage Bracelets Bangle and Clamper cuff",
+   "price": 5,
+   "area": "boulder",
+   "url": "https://www.craigslist.org/view/d/longmont-vintage-bracelets-bangle-and/r7mU6R8kMJmzDqjm68ahBn",
+   "best": "Certified pre-owned Lalaounis rings - Castafiore",
+   "med": 283,
+   "ratio": 56.6,
    "ai_value": ""
   },
   {
@@ -6239,6 +6272,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944911416",
+   "title": "Vintage/ Antique German Butter Paddle.",
+   "price": 40,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/westminster-vintage-antique-german/8HBvietfs5o2dvUsCQrJyB",
+   "best": "eBay",
+   "med": 200,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -6470,6 +6514,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977406296",
+   "title": "Antique Porcelain Plate with Floral Design",
+   "price": 25,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/sandown-antique-porcelain-plate-with/t2g12cttoaeXs46yyA63F6",
+   "best": "eBay",
+   "med": 115,
+   "ratio": 4.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7972167207",
    "title": "Sterling Southwest Design Woman\u2019s Watch with Flexible Watch Band",
    "price": 60,
@@ -6624,6 +6679,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971509190",
+   "title": "Vintage Victorian Floral Ashtray",
+   "price": 30,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/fairfield-vintage-victorian-floral/e5uHZAv1s4X2v2p1JvKyXz",
+   "best": "Sk\u00e5l -Dalane Folkemuseum / DigitaltMuseum",
+   "med": 134,
+   "ratio": 4.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7957589063",
    "title": "Brighton Maharani Crystal Retired Necklace",
    "price": 50,
@@ -6686,6 +6752,17 @@
    "url": "https://www.craigslist.org/view/d/chagrin-falls-vintage-gold-tone/1Xv7xyQLAnurrJZNmf6U29",
    "best": "Etsy",
    "med": 110,
+   "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948218482",
+   "title": "Vintage Black & White Round Bead Necklace",
+   "price": 5,
+   "area": "yakima",
+   "url": "https://www.craigslist.org/view/d/roslyn-vintage-black-white-round-bead/iewVQFzbHFbfJYkxJFWfsr",
+   "best": "eBay",
+   "med": 22,
    "ratio": 4.4,
    "ai_value": ""
   },
@@ -6818,6 +6895,17 @@
    "url": "https://www.craigslist.org/view/d/stockton-vintage-cobalt-blue-glass/bcxqdZEqMVSsxvAbcSdJh7",
    "best": "Murano Glass Decanters - Etsy Australia",
    "med": 150,
+   "ratio": 4.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929965449",
+   "title": "Vintage  CROTON AQUAMATIC DIVERS WATCH MENS  CA301157 NEW BATTERY",
+   "price": 99,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/milwaukee-vintage-croton-aquamatic/kVnPEXRVnRH9z8yWnwtuLg",
+   "best": "Poshmark",
+   "med": 425,
    "ratio": 4.29,
    "ai_value": ""
   },
@@ -7394,6 +7482,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983611328",
+   "title": "Large Mediterranean Coastal Painting",
+   "price": 300,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/tarzana-large-mediterranean-coastal/jbv9qNSV4qzrB1DmpSmcjd",
+   "best": "Bob Pejman Capri Terrace Deluxe Edition 41\u201d x 51\u201d Framed ...",
+   "med": 1200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -7779,6 +7878,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951246067",
+   "title": "Vintage Italian Jewelry Music Box",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-italian-jewelry/1Z1rmtGn82bPN4vQJAG15B",
+   "best": "Alan Maley \" Walk In The Park \" MAKE OFFER #DSSBA | eBay",
+   "med": 365,
+   "ratio": 3.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7953887286",
    "title": "Vintage Am Lee 925 Sterling Silver Rhinestone Filigree Necklace 14\u201d Ar",
    "price": 40,
@@ -7863,6 +7973,17 @@
    "url": "https://www.craigslist.org/view/d/redwood-city-vintage-mcm-american/1rpEXjdceEJGemzQ32mqfs",
    "best": "Vintage Ballerina Union Made 22 Carat Gold Gilt Serving ...",
    "med": 36,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953172260",
+   "title": "Beautiful Heart \u2764\ufe0f Necklace Pendants",
+   "price": 20,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-beautiful-heart-necklace/4jcjL423igG1PCYUmkdBfJ",
+   "best": "Etsy",
+   "med": 72,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -14016,6 +14137,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970025897",
+   "title": "Hess Truck Collection",
+   "price": 50,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/deer-park-hess-truck-collection/kN2KC4pBDjxGgcNY33v2K7",
+   "best": "HESS TRUCK COLLECTION~With Miniature Collection~ Used But ...",
+   "med": 80,
+   "ratio": 1.6,
+   "ai_value": "Sold at Auction: Collection of 11 Hess Trucks & Helicopters Out of stock $150"
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -14738,6 +14870,17 @@
    "url": "https://www.craigslist.org/view/d/redding-ladies-watches/1aMaGHyq4QjvcjuNYAcxro",
    "best": "Amazon.com",
    "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936804841",
+   "title": "Vintage Sladek Pottery Covered Dish color Blue",
+   "price": 30,
+   "area": "ocala",
+   "url": "https://www.craigslist.org/view/d/summerfield-vintage-sladek-pottery/puZrB1LWE5eAWwponteKyi",
+   "best": "Etsy",
+   "med": 45,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -15783,6 +15926,17 @@
    "url": "https://www.craigslist.org/view/d/norman-sets-of-earrings/uC9KPoGU3rgqxEBZKkcnk8",
    "best": "Frog, Toad or Tadpole Silver Charm Earrings on Sterling ...",
    "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981825899",
+   "title": "Lowered Price Martin D-Jre",
+   "price": 450,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-lowered-price-martin-jre/fHvEXDjzdb8gnv8J8APP9W",
+   "best": "Guitar Center",
+   "med": 586,
    "ratio": 1.3,
    "ai_value": ""
   },
@@ -18515,6 +18669,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957599284",
+   "title": "Deering Goodtime Banjo",
+   "price": 420,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/lake-worth-deering-goodtime-banjo/tbPAZ33zuf857XmHgQJuwy",
+   "best": "Amazon.com",
+   "med": 380,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7983199305",
    "title": "Sterling Silver Ring - New",
    "price": 45,
@@ -19626,6 +19791,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7983580392",
+   "title": "Vintage Moriage Dragonware Lithophane Geisha Tea Set",
+   "price": 115,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-moriage-dragonware/dQzASVD3ZGmqVgqdZ619Yf",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 0.74,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931320442",
+   "title": "Tea candle assorted XMas designs 1 dozen",
+   "price": 19,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-tea-candle-assorted-xmas/scKpWN7REWGbcYZZUqc2Tt",
+   "best": "Amazon.com",
+   "med": 14,
+   "ratio": 0.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7949457505",
    "title": "Sterling Silver 7\u201d Watch by Ecclissi",
    "price": 110,
@@ -19941,6 +20128,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-vintage-earrings-heart-and/gZSgqpD5WyotHkF5yTQgvW",
    "best": "Ornate Heart Valentine's Day Vintage Inspired Drop / Dangle ...",
    "med": 24,
+   "ratio": 0.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945743369",
+   "title": "2 OLD MEERSCHAUM PORN PIPES",
+   "price": 125,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-park-old-meerschaum-porn-pipes/eSofKMvZ73QzS5NU8Fjs7g",
+   "best": "Anew Foods",
+   "med": 86,
    "ratio": 0.69,
    "ai_value": ""
   },
@@ -20319,6 +20517,17 @@
    "ai_value": "Sold at Auction: Vintage Costume Jewelry Brooches and Pendants $12"
   },
   {
+   "pid": "7960545456",
+   "title": "A BEAUTIFUL CROSS WITH CHAIN",
+   "price": 35,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/modena-beautiful-cross-with-chain/qYkMM8aFNXGCedFAK1W229",
+   "best": "2024 NEW 316L Stainless Steel Chain Cross Necklace ...",
+   "med": 22,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7951814381",
    "title": "Hallmark Fine Open Heart Diamond Necklace",
    "price": 100,
@@ -20667,6 +20876,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-handmade-sterling-hoop/rcTqNeBfSip3CtaGGGx4tt",
    "best": "Tk Sterling | eBay",
    "med": 55,
+   "ratio": 0.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931114479",
+   "title": "LOT of Ribbons",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/beaverton-lot-of-ribbons/r9JhJy5ZdDcU35yijGQ3S7",
+   "best": "Antique Velvet Ribbon | eBay",
+   "med": 35,
    "ratio": 0.58,
    "ai_value": ""
   },
@@ -21540,6 +21760,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951509575",
+   "title": "Mexican Cobalt & White Pottery Plates \u2013 Set of 2",
+   "price": 70,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/englewood-mexican-cobalt-white-pottery/itQjkqhAikLZg394Z1nTRk",
+   "best": "Vintage Talavera Plate Mexican Pottery Folk Art Signed Ruth ...",
+   "med": 30,
+   "ratio": 0.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7983222369",
    "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
    "price": 38,
@@ -22321,6 +22552,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953998819",
+   "title": "New Fine Silver Plated Charm Bracelet",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-new-fine-silver-plated-charm/1TES2ysydY1MswMffhNHKe",
+   "best": "eBay",
+   "med": 7,
+   "ratio": 0.23,
+   "ai_value": "priced at $79"
+  },
+  {
    "pid": "7961378814",
    "title": "Vintage 1981 ToyTime Inc. Wizard of Oz dolls set Of 3",
    "price": 60,
@@ -22482,6 +22724,17 @@
    "url": "https://www.craigslist.org/view/d/austin-navajo-bracelet-sugilite/hZX6MsUT4wVPoNukqAEdTK",
    "best": "Native American Richard Aguilar Santo Domingo Pueblo SS ...",
    "med": 59,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950590417",
+   "title": "12 vintage nickel silver-plated cups and punchbowl",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/rohnert-park-12-vintage-nickel-silver/6EoqnL5avVYr9bTg5q34vW",
+   "best": "eBay",
+   "med": 20,
    "ratio": 0.2,
    "ai_value": ""
   },
