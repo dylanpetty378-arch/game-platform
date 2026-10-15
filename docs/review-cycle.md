@@ -31,6 +31,27 @@ Each source → pool.json → `python3 scripts/eye_screen.py sheets <run>` → 8
 Measured Oct 13: ~170k screened → 0 shippable eggs. Expect ~1 per 100k+; volume is the lever, so keep every source
 running every cycle rather than polishing filters.
 
+
+### 0c. Lessons from the Marie jar (Oct 15 2026): find things on day 1, not in the last 12 hours
+The jar was listed for 7 days and reached Dylan 12 h before it closed. Why, and what changed:
+1. **The pool only looked at auctions ending within 24 h**, so by design we saw every auction on its last day.
+   Fixed: `ebay_eggs.py pool` now also pulls auctions listed in the last 10 h (`sort=newlyListed`). The every-6-h
+   workflow therefore sees each auction on day 1. ebay-screened.json still ensures each one is screened once.
+   Backfill run Oct 15: 9,765 newly-listed rows plus 7-day ending rows = 16,080 new auctions screened.
+   **ShopGoodwill still harvests by ending time.** It needs the same newly-listed pass (TODO: find the API's sort
+   for newest).
+2. **Scheduled runs went quiet without anyone noticing.** No run between Oct 14 03:15 and Oct 15 18:14 logged
+   results, and ShopGoodwill wasn't screened Oct 13 → Oct 15. Every run must append a line to docs/improvements.md
+   (sources, counts, or why it skipped), even if it found nothing, so gaps are visible.
+3. **The first valuation used the clean-condition price.** Value by condition band (EBAY_DEEP_BRIEF.md
+   "Lessons" section). The jar's black surface had flaked off in patches, which dropped it from $2,600+ to
+   $250–1,150.
+4. **For a signed piece, compare the signature** with 3–5 authenticated examples before calling it an egg, and
+   send Dylan the comparison image.
+5. **Look at the seller's other items** (`ebay-seller-req.json` + detail mode).
+6. **Lead time is part of the egg.** For every flag, report hours left. Anything ending in <24 h gets deep review
+   first.
+
 ## 1. Health check: every step of the machine
 `python3 scripts/health.py` prints PASS/WARN/FAIL with numbers for:
 - workflow runs
