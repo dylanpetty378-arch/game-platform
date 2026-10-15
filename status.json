@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:04:36Z",
+ "updated": "2026-10-15T01:08:44Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10499,
-  "events": 34917,
+  "lens": 10524,
+  "events": 34942,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 353,
-  "flagged": 1922,
-  "lensed": 587
+  "queued": 328,
+  "flagged": 1940,
+  "lensed": 594
  },
  "last_harvests": [
   {
@@ -802,6 +802,17 @@
    "best": "Craigslist",
    "med": 3139,
    "ratio": 125.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947129653",
+   "title": "Old school 20\u201d Wuhan China Cymbal",
+   "price": 20,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-old-school-20-wuhan-china-cymbal/5y7SAeqzu3jvX3JzJHBwpx",
+   "best": "Ufip Natural China 20 | Reverb",
+   "med": 2499,
+   "ratio": 124.95,
    "ai_value": ""
   },
   {
@@ -3489,6 +3500,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957510838",
+   "title": "Vintage Glass Pitcher",
+   "price": 10,
+   "area": "annarbor",
+   "url": "https://www.craigslist.org/view/d/ypsilanti-vintage-glass-pitcher/qCQ86rkArkTadsFgoce6QB",
+   "best": "Antique THREADED Blue Art Glass Pitcher POLISH PONTIL ...",
+   "med": 106,
+   "ratio": 10.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7946165866",
    "title": "LAGUIOLE  KNIVES",
    "price": 100,
@@ -3984,6 +4006,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952323661",
+   "title": "Antique blue ceramic Chinese garden seat",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-antique-blue-ceramic-chinese/gPu4cE7AL3tTMSPUy7FnAW",
+   "best": "Infiniti Feng-Shui Ceramic Garden Stool - On Sale - Bed Bath ...",
+   "med": 850,
+   "ratio": 8.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7982298312",
    "title": "Emerald Tree Branch Ring",
    "price": 15,
@@ -4391,6 +4424,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949724462",
+   "title": "Handcrafted Terracotta & Green Glaze Water/Oil Jug Vase",
+   "price": 35,
+   "area": "racine",
+   "url": "https://www.craigslist.org/view/d/kenosha-handcrafted-terracotta-green/7xtEmjXF7anQfPArBS5WdU",
+   "best": "Old Terracotta Water Jug, Old Clay Jugs Home Use, Pot Flask ...",
+   "med": 256,
+   "ratio": 7.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7977075240",
    "title": "Vintage silver-plated and metal concert flutes",
    "price": 35,
@@ -4498,6 +4542,17 @@
    "best": "Assorted Quality Brands Sunglasses - jewelry - by owner ...",
    "med": 175,
    "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964448915",
+   "title": "Vintage c1970s Plein Air Autumn Landscape Oil Painting signed \"BH\"",
+   "price": 40,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/agoura-hills-vintage-c1970s-plein-air/4AhcprzAQsqNPrbKeW52Wp",
+   "best": "VINTAGE PAINTING, Oil Painting, Vintage Realism, Socialist ...",
+   "med": 279,
+   "ratio": 6.97,
    "ai_value": ""
   },
   {
@@ -6844,6 +6899,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953797288",
+   "title": "Vintage Sword Tie Bar Gold Tone",
+   "price": 5,
+   "area": "yakima",
+   "url": "https://www.craigslist.org/view/d/roslyn-vintage-sword-tie-bar-gold-tone/2NaJZZevDTo8EiWN2sjQte",
+   "best": "Vintage Signed Swank Mother of Pearl Gold Tone Pierced ...",
+   "med": 20,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -7999,6 +8065,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953148911",
+   "title": "Vintage Mata Ortiz By J. Manuel Reyes Design Black Pottery Vase Signed",
+   "price": 80,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/westminster-vintage-mata-ortiz-by/65bhztJcNZrEXmavivxXAB",
+   "best": "VISIONS by Earthtones Pottery Vase Silver on Black Tuscon ...",
+   "med": 252,
+   "ratio": 3.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7947946397",
    "title": "Fashion Jewelry Gold Bangle Bracelet",
    "price": 14,
@@ -8446,6 +8523,17 @@
    "url": "https://www.craigslist.org/view/d/raleigh-three-antique-cast-iron-door/kNSj4W64X4r2vZZKtZBst8",
    "best": "Black-Eyed Susans Antiques",
    "med": 285,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955362269",
+   "title": "Collection of Vintage Framed Cross Stitch",
+   "price": 20,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-collection-of-vintage-framed/3HiR8Xw5agWsNysXisZSWC",
+   "best": "Which is your favorite? I love them all! \ud83d\ude0d #tehachapi ...",
+   "med": 60,
    "ratio": 3,
    "ai_value": ""
   },
@@ -9011,6 +9099,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959258906",
+   "title": "Vintage/Antique Tribal Pendant w/Blue Stone/Lots of Dangly Bits",
+   "price": 35,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-antique-tribal/tboVV1YbDVgHZqFL5r9dtv",
+   "best": "Moroccan antique lower grade silver Cinnabar Jewish head ...",
+   "med": 95,
+   "ratio": 2.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7938166705",
    "title": "Turquoise and smokey quartz necklace",
    "price": 40,
@@ -9250,6 +9349,17 @@
    "best": "Brighton Camera Charm Dangle Jewelry Silver Tone Cheese ...",
    "med": 39,
    "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978776879",
+   "title": "PAINTING. Original. Oil. Lighthouse.",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/painting-original-oil-lighthouse/a5MUePZjLobPBuKPBs8WB1",
+   "best": "Painting Beautiful Oil/Canvas Signed H.Fleming.21\"X17 ...",
+   "med": 259,
+   "ratio": 2.59,
    "ai_value": ""
   },
   {
@@ -9622,6 +9732,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-jose-vintage-1939-creamer/uoLnDz77yoGQAuUi3zc5nB",
    "best": "Royal Albert Loyalty Mini Creamer - 1939 Royal Visit of King ...",
+   "med": 37,
+   "ratio": 2.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949014671",
+   "title": "Vintage square stone ashtray",
+   "price": 15,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/sunset-beach-vintage-square-stone/uyDbnBHarYAApmNmw7Uo5C",
+   "best": "Wooden Cigar Ashtray Cigar Accessories Cigarettes Ashtrays ...",
    "med": 37,
    "ratio": 2.47,
    "ai_value": ""
@@ -10815,6 +10936,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960388112",
+   "title": "Crystal bead double strand bracelet, 7in",
+   "price": 12,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-crystal-bead-double-strand/wsJYomXaeCGXTSEfV9wEDT",
+   "best": "Black Beaded Rhinestone Gold Tone Flexible Wrap Coil ...",
+   "med": 25,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7950885127",
    "title": "Ernest Hemingway Portrait.",
    "price": 60,
@@ -11640,6 +11772,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954561105",
+   "title": "125 Year Old Tiny CHAINMAIL COIN PURSE \ud83d\udc5b",
+   "price": 99,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-125-year-old-tiny-chainmail/peYTse1tY6tmXi4AYoj4gq",
+   "best": "Proantic: Louis Purse Pendant Yellow Gold Pearl",
+   "med": 185,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7963446408",
    "title": "Antique Victorian American Waltham 1891 Ladies Pocket Watch",
    "price": 350,
@@ -11967,6 +12110,17 @@
    "best": "Navajo Ring 925 Silver Spiderweb Turquoise Native Artist C ...",
    "med": 179,
    "ratio": 1.79,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936662996",
+   "title": "14k Yellow Gold TRIPLE ROW HOOP EARRINGS",
+   "price": 199,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-14k-yellow-gold-triple-row/qcWMFyMJm8bV8fp1tpBPuU",
+   "best": "Vintage 14k Yellow Gold Triple Twist Hoop Earrings | eBay",
+   "med": 355,
+   "ratio": 1.78,
    "ai_value": ""
   },
   {
@@ -14247,6 +14401,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949319498",
+   "title": "Cross pendant",
+   "price": 200,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-cross-pendant/qiK3F1dczANnNwWYQEaK3W",
+   "best": "14K Yellow Gold Polished Ribbon Cross Pendant | eBay",
+   "med": 265,
+   "ratio": 1.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7951388075",
    "title": "14K Gold Purple Stone Halo Ring",
    "price": 200,
@@ -15575,6 +15740,17 @@
    "best": "Etsy",
    "med": 55,
    "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983534870",
+   "title": "Tribal Art Collection",
+   "price": 450,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-tribal-art-collection/ozRsbxFqwef9Zje3FdniUx",
+   "best": "Mambila Guardian Figure Tadep Cameroon | eBay",
+   "med": 490,
+   "ratio": 1.09,
    "ai_value": ""
   },
   {
@@ -19054,6 +19230,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945490474",
+   "title": "Garnet and diamond pendant",
+   "price": 45,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-garnet-and-diamond-pendant/1Wm9ggw1EGkxb5SFzsLmEp",
+   "best": "ROSS SIMONS 925 Sterling Silver Italy Diamond Accent Garnet ...",
+   "med": 24,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7946993347",
    "title": "2-Vintage Shawnee wheat vase",
    "price": 25,
@@ -21623,6 +21810,17 @@
    "area": "harrisburg",
    "url": "https://www.craigslist.org/view/d/harrisburg-vintage-1970s-eureka-dracula/ke3dEoqVGpKgPS14WjhJig",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981273383",
+   "title": "Vintage Working LED HAMILTON Gent's WRISTWATCH",
+   "price": 499,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-vintage-working-led-hamilton/11KZW2ZRE2UAPaagoSHUzY",
+   "best": "Hamilton QED/QTC LED Vintage for $1,135 for sale from a ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

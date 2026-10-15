@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T01:04:36Z
+# Refurbish status — 2026-10-15T01:08:44Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1922 |
-| lensed | 587 |
+| flagged | 1940 |
+| lensed | 594 |
 | queued/relens | 485 |
-| queued | 353 |
+| queued | 328 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 12
 - searches: 2841
 - listings: 12183
-- lens: 10499
-- events: 34917
+- lens: 10524
+- events: 34942
 - comps: 2558
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1922)
+## Flagged by Lens, waiting for photo review (1940)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -172,6 +172,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00202_1LBeiKUWkZy_0e10ay_300x300.jpg" width="120"> | 7973797446 | $10 | boston | [Bamboo hoop earrings](https://www.craigslist.org/view/d/natick-bamboo-hoop-earrings/9B4XQDv66PDyC9AANJpnf8) | Pastel Collection Large (3") 3D Goldtone Heart Earrings ... | 1308 | 130.8 |
 | <img src="https://images.craigslist.org/00U0U_5V1gqoU72hw_0t20CI_300x300.jpg" width="120"> | 7937435125 | $20 | sfbay | [Marcasite,Sterling Silver Earrings](https://www.craigslist.org/view/d/san-francisco-marcasitesterling-silver/7bFuWD8yGuP7CGH84BEpd1) | eBay | 2515 | 125.75 |
 | <img src="https://images.craigslist.org/01111_czyerSRpvJE_0jm0cI_300x300.jpg" width="120"> | 7965711534 | $25 | santabarbara | [Bella Luce Hoop Earrings](https://www.craigslist.org/view/d/solvang-bella-luce-hoop-earrings/kt8q2YPH8uWiANGoZhkEVa) | Craigslist | 3139 | 125.56 |
+| <img src="https://images.craigslist.org/01515_8I9j9c5NyHd_0t20CI_300x300.jpg" width="120"> | 7947129653 | $20 | buffalo | [Old school 20” Wuhan China Cymbal](https://www.craigslist.org/view/d/buffalo-old-school-20-wuhan-china-cymbal/5y7SAeqzu3jvX3JzJHBwpx) | Ufip Natural China 20 / Reverb | 2499 | 124.95 |
 | <img src="https://images.craigslist.org/00Y0Y_aIdoZrT2zJw_0c607W_300x300.jpg" width="120"> | 7943638984 | $1 | longisland | [Collection of Vintage Cameras](https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/7rKHySm9qMZFks2E7wZnoh) | eBay | 120 | 120 |
 | <img src="https://images.craigslist.org/00W0W_lFG5hKSy0R8_0lN0CI_300x300.jpg" width="120"> | 7976589723 | $40 | southcoast | [Flora by titan. (reproduction)](https://www.craigslist.org/view/d/acushnet-flora-by-titan-reproduction/vibZ9nD6gSBuvDHwzheiyu) | Craigslist | 4800 | 120 |
 | <img src="https://images.craigslist.org/00404_9R4uwm3M9Ef_0t20CA_300x300.jpg" width="120"> | 7953166452 | $40 | austin | [Gold lanco pocket watch](https://www.craigslist.org/view/d/austin-gold-lanco-pocket-watch/5AZzoJKBycxZq83FJUo8tz) | VINTAGE 1940'S DIANA WATCH 67A / eBay | 4399 | 109.97 |
@@ -262,4 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00101_4SlctXi2GAN_0CI0t2_300x300.jpg" width="120"> | 7954283558 | $15 | washingtondc | [2 FRAMED WATERCOLOR PAINTINGS](https://www.craigslist.org/view/d/chevy-chase-framed-watercolor-paintings/8nVZQxeLZwtSbj89dFNMpA) | The Amazing Self-Taught Listed Georgia Artist Arthur H. Ludy | 450 | 30 |
 | <img src="https://images.craigslist.org/00X0X_jUlR3cNydHD_0zm0CI_300x300.jpg" width="120"> | 7959525558 | $45 | utica | [Vintage Hand Painted Pottery Vase Signed Italy](https://www.craigslist.org/view/d/new-hartford-vintage-hand-painted/6eQ27VocLPHWocskrbgFEn) | SanJuan De Oriente Nicaragua Pottery Jar signed Guadalupe .. | 1350 | 30 |
 | <img src="https://images.craigslist.org/00m0m_lRJGyEsi48n_0t20CI_300x300.jpg" width="120"> | 7978187826 | $40 | sfbay | [Vintage Temple Jar Fine Porcelain Collectibles](https://www.craigslist.org/view/d/el-sobrante-vintage-temple-jar-fine/nnZLP9baWN32Doe7E3zj3J) | Blue Delft Crock Pot - Etsy Ireland | 1200 | 30 |
-| <img src="https://images.craigslist.org/00m0m_hHO8lobhngD_0tO12w_300x300.jpg" width="120"> | 7950031727 | $100 | seattle | [Vintage sterling choker](https://www.craigslist.org/view/d/renton-vintage-sterling-choker/7guP4ETe5zKe3rMgbfG49w) | eBay | 2995 | 29.95 |
