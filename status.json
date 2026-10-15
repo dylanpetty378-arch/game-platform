@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T22:27:12Z",
+ "updated": "2026-10-15T22:31:11Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 13124,
-  "events": 40317,
+  "lens": 13149,
+  "events": 40342,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 128,
-  "flagged": 3897,
-  "lensed": 1236
+  "queued": 103,
+  "flagged": 3914,
+  "lensed": 1244
  },
  "last_harvests": [
   {
@@ -806,6 +806,17 @@
    "best": "Antique Elgin Pocket Watch 1910 7J Open face 18s Silveroid ...",
    "med": 220,
    "ratio": 220,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983912765",
+   "title": "Vintage Art Deco Link Bracelet - 7\"",
+   "price": 20,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-art-deco-link-bracelet/tysjwdojCPcTMfDFVLVcdc",
+   "best": "Lot 855 - AN 18K GOLD TENNIS BRACELET - \u05dc\u05ea\u05d9\u05e8\u05d5\u05e9",
+   "med": 4340,
+   "ratio": 217,
    "ai_value": ""
   },
   {
@@ -2866,6 +2877,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957557125",
+   "title": "Lot of 10 fire king milkglass vintage",
+   "price": 20,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/penney-farms-lot-of-10-fire-king/wJpTiYaPDWL9WowCBRcvfm",
+   "best": "AUGUSTE MOREAU After Sculpture Art Nouveau CHILDREN Sitting ...",
+   "med": 600,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
    "pid": "7974832344",
    "title": "Vintage Liberty Statue '1886' brooch, 5 1/4\" long",
    "price": 35,
@@ -3686,6 +3708,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/brookhaven-hyde-park-corner-picture/f8dGTMnjHXL4d5CsmcxvrF",
    "best": "MutualArt",
+   "med": 200,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977231387",
+   "title": "Monet Clip Earrings.    South Austin.",
+   "price": 10,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-monet-clip-earrings-south-austin/93gckcwpEgFLbYXSXhi9nV",
+   "best": "'aura' Earrings, Silver Stainless Steel, Abalone Spiral, Blue ...",
    "med": 200,
    "ratio": 20,
    "ai_value": ""
@@ -5220,6 +5253,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979772240",
+   "title": "SIGNED PAINTING: OLD SHIP ON WATER",
+   "price": 39,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/costa-mesa-signed-painting-old-ship-on/tx3uv44rG674zvBqwndAm2",
+   "best": "Ivan Aivazovsky Meeting of the Brig Mercury Oil Painting ...",
+   "med": 500,
+   "ratio": 12.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7955996012",
    "title": "3 Ladies Watches",
    "price": 10,
@@ -5745,6 +5789,17 @@
    "best": "Multi Color Medium Cross Necklace by Firefly Jewelry ...",
    "med": 115,
    "ratio": 11.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931962584",
+   "title": "Vintage Unisex Turquoise Heishi 24\" Necklace w/Shell/Sodalite Accents",
+   "price": 165,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-unisex-turquoise-heishi/mh7PyEB8W3DMhi7SFf2JnC",
+   "best": "Turquoise Matrix Heishi Necklace \u2013 Bead Goes On",
+   "med": 1895,
+   "ratio": 11.48,
    "ai_value": ""
   },
   {
@@ -7651,6 +7706,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981745049",
+   "title": "Native American silver bird pendant",
+   "price": 25,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/brooksville-native-american-silver-bird/rFuWzDsAMQYJU5CTksfhLP",
+   "best": "Vintage Sign Sterling Navajo Zuni Tribal Multi stone Inlaid ...",
+   "med": 198,
+   "ratio": 7.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7983850296",
    "title": "Vintage HEDDON Fishing pole",
    "price": 10,
@@ -9517,6 +9583,17 @@
    "url": "https://www.craigslist.org/view/d/farmingville-carved-wooden-statute/6vqeEWhcBgsgL2F29CFENq",
    "best": "African Maasai Sculpture Female Bust Hand carved Ebony | eBay",
    "med": 150,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984044453",
+   "title": "Clock Howard Miller 1973",
+   "price": 50,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-clock-howard-miller-1973/3qLpA9T3W58Qm9kNzVdtHa",
+   "best": "Howard Miller 1970s Graham Bracket Key Wound Mantel Clock ...",
+   "med": 300,
    "ratio": 6,
    "ai_value": ""
   },
@@ -18277,6 +18354,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939916981",
+   "title": "Antique copper liquid oil measure can",
+   "price": 25,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/shelburne-falls-antique-copper-liquid/qH3n6h5TTDEWeDA8DgFm2A",
+   "best": "Vintage Swingspout One Quart Oil Can with Lid, Pivoting Long ...",
+   "med": 65,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7978776879",
    "title": "PAINTING. Original. Oil. Lighthouse.",
    "price": 100,
@@ -23821,6 +23909,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947004299",
+   "title": "Dichroic Glass Pendant",
+   "price": 18,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-dichroic-glass-pendant/9iuGGheakw2hJu7xWxCAoN",
+   "best": "DICHROIC Glass PENDANT Rainbow Silver Slide Blue Pink Gold ...",
+   "med": 32,
+   "ratio": 1.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7942746542",
    "title": "Vintage Lightning Bolt Stones Necklace",
    "price": 40,
@@ -27946,6 +28045,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974978225",
+   "title": "Antique Engraved Silver Wall Art",
+   "price": 250,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/massillon-antique-engraved-silver-wall/sPrdtvynFLrxvkbw42i9zW",
+   "best": "SETTING DISH/WALL DISH 4 pcs, bronze, Art Deco, 1930s ...",
+   "med": 342,
+   "ratio": 1.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7977992793",
    "title": "Swatch Chronograph 1991 Blue Watch",
    "price": 75,
@@ -28921,6 +29031,17 @@
    "url": "https://www.craigslist.org/view/d/rockville-1920s-mandolin/b7Su38CR7vHqZptyvgQGBY",
    "best": "1920's Weymann Mandolute Natural \u2013 Music City Vintage Guitars",
    "med": 499,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954939303",
+   "title": "VINTAGE SILVER VANITY SET",
+   "price": 125,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-silver-vanity-set/6MqagpLDMzDp3URnBDHo1p",
+   "best": "Silver Plated Brush and Mirror Set 1950's - Etsy",
+   "med": 158,
    "ratio": 1.26,
    "ai_value": ""
   },
@@ -32555,6 +32676,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966572852",
+   "title": "1800s Antique Porcelain Desk Clock",
+   "price": 359,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/valley-village-1800s-antique-porcelain/dTVdJVUZBvy2JFe3KZHXB9",
+   "best": "Waterbury Clock Co. | Accents | 80s Antique Porcelain Desk ...",
+   "med": 359,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -33596,6 +33728,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-antique-chinese-hetian/odMR5fXj1aX7X2XVZRtAfw",
    "best": "Sterling Silver Daisy Flower S Clasp With Jade Inlaid ...",
    "med": 85,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947488188",
+   "title": "Vintage Colorful folk Art Ceramic Sun Face",
+   "price": 135,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/duncanville-vintage-colorful-folk-art/td7iSRHfn7FHqLsjz1YwRe",
+   "best": "Sun Ceramic Talavera Home Patio Kitchen Pottery | Small ...",
+   "med": 120,
    "ratio": 0.89,
    "ai_value": ""
   },
@@ -38627,6 +38770,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952656165",
+   "title": "MARY GREGORY GLASS VASES, Cobalt & Cranberry",
+   "price": 225,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-mary-gregory-glass-vases-cobalt/sRXRzbLtTvicnnCVVYFsFG",
+   "best": "Vintage Cobalt Blue MARY GREGORY Tall Fluted Vase - Etsy",
+   "med": 105,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7937968387",
    "title": "Vintage Gold Tone Cream Enamel Necklace",
    "price": 35,
@@ -38887,6 +39041,17 @@
    "url": "https://www.craigslist.org/view/d/caldwell-art-pieces-read-de-ion/aiYyvpWjCUSc42ydGUH1S5",
    "best": "Framed Courtyard Garden Print \u2013 Home Interiors Wall Art ...",
    "med": 130,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977666993",
+   "title": "Wine Tasting Room Artwork",
+   "price": 400,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/templeton-wine-tasting-room-artwork/jK7t6GGdcejvRjgmtVYnkZ",
+   "best": "June Carey 60x40 Atist Signed Limited Edition Masterwork ...",
+   "med": 175,
    "ratio": 0.44,
    "ai_value": ""
   },
@@ -39283,6 +39448,17 @@
    "url": "https://www.craigslist.org/view/d/port-angeles-vintage-18-inch-navajo/3PHX3Hk7vDXxzksjrvsngQ",
    "best": "Etsy",
    "med": 33,
+   "ratio": 0.39,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951246306",
+   "title": "Vintage HandBlown Amber/Honey Elephant",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-handblown-amber/7H4Jgp9NtuXsJARUctjUaL",
+   "best": "Vintage MURANO ICET Amber Art Glass Elephant With White ...",
+   "med": 29,
    "ratio": 0.39,
    "ai_value": ""
   },
@@ -43341,6 +43517,17 @@
    "area": "nh",
    "url": "https://www.craigslist.org/view/d/union-ranger-knife-american-made/emDRoH6QgRddrsBqkAxTcW",
    "best": "Vintage USA made COLONIAL KNIFE CO - RANGER Small Jack Knife ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984089441",
+   "title": "Antique Billy Club Baton",
+   "price": 85,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/glendale-antique-billy-club-baton/djMbEjjV87bgYQcDbAcZAS",
+   "best": "British Bobby Police Baton Antique Wood Truncheon Billy",
    "med": null,
    "ratio": null,
    "ai_value": ""

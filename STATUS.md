@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T22:27:12Z
+# Refurbish status — 2026-10-15T22:31:11Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,11 +7,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3897 |
-| lensed | 1236 |
+| flagged | 3914 |
+| lensed | 1244 |
 | queued/relens | 486 |
-| queued | 128 |
 | decided/kill | 125 |
+| queued | 103 |
 | decided/ask | 80 |
 | expired | 19 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 13124
-- events: 40317
+- lens: 13149
+- events: 40342
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -140,7 +140,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **decided/find** — Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possib |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (3897)
+## Flagged by Lens, waiting for photo review (3914)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -175,6 +175,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01515_7inXI1teY2r_0MM132_300x300.jpg" width="120"> | 7945970858 | $1 | houston | [Vintage Elgin Self Winding 17 Jewel Diamond Men's ](https://www.craigslist.org/view/d/houston-vintage-elgin-self-winding-17/pKxq1wzLrAz1dZMVW9RCoz) | Craigslist | 249 | 249 |
 | <img src="https://images.craigslist.org/00c0c_gNFKKvrNwSp_0t20CI_300x300.jpg" width="120"> | 7948088780 | $1 | lasvegas | [Wall painting](https://www.craigslist.org/view/d/las-vegas-wall-painting/sd158AQEMvfA2VXvJVZ2z8) | Framed Print Golden evening gondola / Home Decor for sale on | 229 | 229 |
 | <img src="https://images.craigslist.org/00A0A_heHGVKhQNzF_0CI0t2_300x300.jpg" width="120"> | 7949999968 | $1 | philadelphia | [2 POCKET WATCHES](https://www.craigslist.org/view/d/modena-pocket-watches/t6W8hj4opsv6JpCB5r6krg) | Antique Elgin Pocket Watch 1910 7J Open face 18s Silveroid . | 220 | 220 |
+| <img src="https://images.craigslist.org/00404_csVWgxFV69J_0CI0t2_300x300.jpg" width="120"> | 7983912765 | $20 | austin | [Vintage Art Deco Link Bracelet - 7"](https://www.craigslist.org/view/d/austin-vintage-art-deco-link-bracelet/tysjwdojCPcTMfDFVLVcdc) | Lot 855 - AN 18K GOLD TENNIS BRACELET - לתירוש | 4340 | 217 |
 | <img src="https://images.craigslist.org/00v0v_4EcgrjmPdHC_0lM0t2_300x300.jpg" width="120"> | 7983290109 | $50 | atlanta | [Light Amber from Baltic](https://www.craigslist.org/view/d/tucker-light-amber-from-baltic/oJU8kEdsKno1fqfaRNrL6E) | Vintage Natural Baltic Butterscotch Amber Necklace with 14K  | 9746 | 194.92 |
 | <img src="https://images.craigslist.org/01414_3XnEqlRrdFv_0t20CI_300x300.jpg" width="120"> | 7949916666 | $40 | slo | [Gold plated hammered dog tag cross](https://www.craigslist.org/view/d/morro-bay-gold-plated-hammered-dog-tag/k6A2r4h2LFgT4hdsj1B3j6) | Goldstyle "Hammered Chic" Gold Pendant (For Men) / Lukfook . | 7600 | 190 |
 | <img src="https://images.craigslist.org/00z0z_eUfXbJcGWKm_0CI0t2_300x300.jpg" width="120"> | 7949539876 | $10 | sfbay | [BEAUTIFUL ORIGINAL PAINTING](https://www.craigslist.org/view/d/discovery-bay-beautiful-original/aSWW5x3LcnQKp1wEAE3tkc) | Norwalk, Rowayton Artists Honored In Brushwork Exhibition .. | 1895 | 189.5 |
@@ -265,4 +266,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00d0d_3wujKbw5DqH_1761u8_300x300.jpg" width="120"> | 7975391187 | $20 | minneapolis | [Chinese Foo Dog Figures](https://www.craigslist.org/view/d/cambridge-chinese-foo-dog-figures/h4gcQtc4gynusRM1KwqhjJ) | Etsy | 1190 | 59.5 |
 | <img src="https://images.craigslist.org/00v0v_aHBN53mpdQpz_0lG0t2_300x300.jpg" width="120"> | 7983863388 | $8 | boston | [RING! Sterling Crystal Rainbow Iridescent Gemstone](https://www.craigslist.org/view/d/braintree-ring-sterling-crystal-rainbow/i8iMWCoERerQE8BYkkZDiH) | Etsy | 474 | 59.25 |
 | <img src="https://images.craigslist.org/00V0V_ahQJdvWccWi_0CI0qs_300x300.jpg" width="120"> | 7983656892 | $10 | raleigh | [NC Pottery - Mildred Teague Baskets](https://www.craigslist.org/view/d/cary-nc-pottery-mildred-teague-baskets/dYzUmb3oU2YpXL1BNUDBt4) | Vintage 1953 Dutch Milk Maid Pitcher: Hand-painted Spring .. | 590 | 59 |
-| <img src="https://images.craigslist.org/01717_13vjesFP3PZ_08I05O_300x300.jpg" width="120"> | 7983913236 | $30 | tampa | [Citrine & sterling silver butterfly earring set](https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/sZRPtxyp2iasyzCrQEctfU) | Craigslist | 1750 | 58.33 |
