@@ -64,8 +64,16 @@ def sheetpool():
     out = [{'pid': 'ebay' + r['id'].split('|')[1] if '|' in r['id'] else 'ebay' + r['id'], 'source': 'ebay', 'price': r['p'], 'title': r['t'],
             'thumb': r['img'].replace('s-l1600', 's-l225'), 'imgs': [r['img']], 'url': r['url'], 'cat': r['c'], 'area': f"fb {r['fb']}",
             'region': 'eBay', 'posted': 0, 'ends': r['end'], 'bids': r['b']} for r in P['rows'] if r['img'] and r['c'] != 'Sports Mem']
+    # Skip auctions already screened in an earlier run (pools overlap; ids kept until their auction ends).
+    sp = os.path.join(ROOT, 'research', 'pools', 'ebay-screened.json')
+    seen = json.load(open(sp)) if os.path.exists(sp) else {}
+    now = datetime.datetime.now(datetime.timezone.utc).isoformat()
+    seen = {k: v for k, v in seen.items() if (v or '') > now[:19]}
+    out = [r for r in out if r['pid'] not in seen]
+    for r in out: seen[r['pid']] = (r.get('ends') or '')[:19]
+    json.dump(seen, open(sp, 'w'), separators=(',', ':'))
     d = f'/tmp/eye/{run}'; os.makedirs(d + '/th', exist_ok=True); json.dump(out, open(d + '/pool.json', 'w'))
-    print(run, len(out))
+    print(run, len(out), 'new to screen (research/pools/ebay-screened.json updated — commit it)')
 
 if __name__ == '__main__':
     a = sys.argv[1:]
