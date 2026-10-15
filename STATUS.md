@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T16:00:15Z
+# Refurbish status — 2026-10-15T16:04:06Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,11 +7,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8937 |
-| flagged | 3314 |
-| lensed | 1043 |
+| flagged | 3330 |
+| lensed | 1052 |
 | queued/relens | 486 |
-| queued | 103 |
 | decided/ask | 82 |
+| queued | 78 |
 | decided/kill | 56 |
 | photo_review/ask | 17 |
 | expired | 16 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13797
-- lens: 12349
-- events: 38481
+- lens: 12374
+- events: 38506
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (3314)
+## Flagged by Lens, waiting for photo review (3330)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -234,6 +234,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00G0G_hoLpXtUoWqL_0hT0t2_300x300.jpg" width="120"> | 7955980451 | $100 | phoenix | [PSA Graded Baseball Cards](https://www.craigslist.org/view/d/scottsdale-psa-graded-baseball-cards/sQXLRws8sW4HWvjJZmDnN8) | 1972 TOPPS BASEBALL COMPLETE SET 787 Cards NM-MT / MINT ... | 6278 | 62.78 |
 | <img src="https://images.craigslist.org/00r0r_icImtQVwjFh_0t20CI_300x300.jpg" width="120"> | 7957168862 | $2 | westernmass | [Prices reduced:  large collection of Costume Jewel](https://www.craigslist.org/view/d/longmeadow-prices-reduced-large/7KjJUKRNKo9LjeLwGBSLBk) | Over 1 Pound Jewelry Vintage Modern Huge Lot ALL GOOD Wear . | 125 | 62.5 |
 | <img src="https://images.craigslist.org/00Z0Z_7d6VlfkVV5X_0t20CI_300x300.jpg" width="120"> | 7952363113 | $1 | sfbay | [misc old items](https://www.craigslist.org/view/d/fairfax-misc-old-items/h2kkcVVaRXr1LPoDP3kc2N) | Antique Primitive Copper Coffee Water Dipper with Spout and  | 62 | 62 |
+| <img src="https://images.craigslist.org/00E0E_9MbqLj8uzyU_0bU0aT_300x300.jpg" width="120"> | 7983852081 | $3 | madison | [3 New Earrings (1 Sterling Silver) - $3 to $10 eac](https://www.craigslist.org/view/d/mc-farland-new-earrings-sterling-silver/bCPa3HbS2eaNuqtoEMFb6h) | Liz Claiborne Hypoallergenic Silver Twisted Hoop Earrings .. | 184 | 61.33 |
 | <img src="https://images.craigslist.org/00b0b_hS7FO9XWOGp_0sT0t2_300x300.jpg" width="120"> | 7977598179 | $33 | sfbay | [Vintage Large+ Size Original Amazonite Pendant.](https://www.craigslist.org/view/d/san-francisco-vintage-large-size/bHdJCoLXybr51oWWm7F6Ja) | IPPOLITA ROCK CANDY® 18K YELLOW GOLD 750 QUARTZ ... | 1999 | 60.58 |
 | <img src="https://images.craigslist.org/00G0G_gxCM0upfDMH_0CI0pO_300x300.jpg" width="120"> | 7950666174 | $20 | sfbay | [Vintage Floral Plates](https://www.craigslist.org/view/d/oakland-vintage-floral-plates/hUdSGSY9JPJvsMp6ozXuxk) | LARGE VINTAGE ROYAL ALBERT SERVICE PLATE IN PINK ... | 1200 | 60 |
 | <img src="https://images.craigslist.org/01212_r59b0nsrR8_0d40hq_300x300.jpg" width="120"> | 7976459112 | $1 | sfbay | [Vintage items](https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG) | Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag  | 60 | 60 |
@@ -259,4 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00Y0Y_4Y0blOg0wMn_0t20t2_300x300.jpg" width="120"> | 7982312115 | $50 | tampa | [925 Figaro chain bracelet](https://www.craigslist.org/view/d/brooksville-925-figaro-chain-bracelet/iq8sVUQEP4dfaWJ8x5cBwa) | Craigslist | 2349 | 46.98 |
 | <img src="https://images.craigslist.org/01111_drzi3tYmwji_0tO12w_300x300.jpg" width="120"> | 7954423288 | $30 | seattle | [Small sterling silver heart bracelet](https://www.craigslist.org/view/d/renton-small-sterling-silver-heart/d2z4MDigAAoL7A3E41ZeNb) | Ross-Simons Italian 10kt Yellow Gold Leaf Station Bracelet . | 1400 | 46.67 |
 | <img src="https://images.craigslist.org/00R0R_6SMY6bekI3n_0t20CI_300x300.jpg" width="120"> | 7964361273 | $45 | slo | [Aurora 18K HGE topaz rhinestones vintage](https://www.craigslist.org/view/d/morro-bay-aurora-18k-hge-topaz/b97xwNByEPK8znzcnmcYEY) | Gem | 2095 | 46.56 |
-| <img src="https://images.craigslist.org/00s0s_et5xqxUCaRL_0t20lM_300x300.jpg" width="120"> | 7955868716 | $2 | boulder | [Misc Jewerly Vintage](https://www.craigslist.org/view/d/longmont-misc-jewerly-vintage/ubrWFT2GVGj8UNb9aYU5qW) | Huge Vintage Costume Jewelry Earring Necklace Bracelet Lot . | 93 | 46.5 |

@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T16:00:15Z",
+ "updated": "2026-10-15T16:04:06Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12349,
-  "events": 38481,
+  "lens": 12374,
+  "events": 38506,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 103,
-  "flagged": 3314,
-  "lensed": 1043
+  "queued": 78,
+  "flagged": 3330,
+  "lensed": 1052
  },
  "last_harvests": [
   {
@@ -1520,6 +1520,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983852081",
+   "title": "3 New Earrings (1 Sterling Silver) - $3 to $10 each",
+   "price": 3,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/mc-farland-new-earrings-sterling-silver/bCPa3HbS2eaNuqtoEMFb6h",
+   "best": "Liz Claiborne Hypoallergenic Silver Twisted Hoop Earrings ...",
+   "med": 184,
+   "ratio": 61.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7977598179",
    "title": "Vintage Large+ Size Original Amazonite Pendant.",
    "price": 33,
@@ -2147,6 +2158,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930426226",
+   "title": "Carrington Oil Painting On Canvas 1910 Chalmers",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-carrington-oil-painting-on/5khyvTUvbY1ZpbooWpDVTr",
+   "best": "Carrington Collection Serigraph Oil Painting On Canvas 1910 ...",
+   "med": 1800,
+   "ratio": 36,
+   "ai_value": ""
+  },
+  {
    "pid": "7978088604",
    "title": "TARKEI",
    "price": 49,
@@ -2518,6 +2540,17 @@
    "best": "eBay",
    "med": 2995,
    "ratio": 29.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973652459",
+   "title": "Vintage copper dish",
+   "price": 20,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-copper-dish/cpXatCTRYN5yepkm689WmA",
+   "best": "Small octagonal ceramic dish, shishi lion dog and peony ...",
+   "med": 595,
+   "ratio": 29.75,
    "ai_value": ""
   },
   {
@@ -3126,6 +3159,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943963533",
+   "title": "Karate tournament metals",
+   "price": 29,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/waianae-karate-tournament-metals/usR88ypVXeSn6vuVTdhHwz",
+   "best": "SOLD - Cased Czech Annexation Medal",
+   "med": 600,
+   "ratio": 20.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7949999524",
    "title": "Ear Studs Turquoise- Vintage",
    "price": 30,
@@ -3199,6 +3243,17 @@
    "url": "https://www.craigslist.org/view/d/thompson-crock/1h2K2LhDSzgu1bKoMDt9X9",
    "best": "Vintage Stoneware Primitive Churning Canning Crock | eBay",
    "med": 200,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946048072",
+   "title": "CUFF LINKS BY DIOR",
+   "price": 20,
+   "area": "erie",
+   "url": "https://www.craigslist.org/view/d/cuff-links-by-dior/2yjpLLF59zQd7To1A8aZAA",
+   "best": "25+ Dior Silver Cufflinks for Men for sale | Updated Oct 2026",
+   "med": 400,
    "ratio": 20,
    "ai_value": ""
   },
@@ -3552,6 +3607,17 @@
    "best": "Martin D-18 1976 Used Acoustic Guitar | eBay",
    "med": 2624,
    "ratio": 17.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980541968",
+   "title": "Antique Anniversary Clocks",
+   "price": 40,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/brunswick-antique-anniversary-clocks/qt7oa5y4RG1eAFPwCzQWJX",
+   "best": "Antique GUSTAV BECKER 400 Day \"Deluxe\" Model Anniversary ...",
+   "med": 687,
+   "ratio": 17.18,
    "ai_value": ""
   },
   {
@@ -6994,6 +7060,17 @@
    "url": "https://www.craigslist.org/view/d/east-northport-eagle-canyon-numbered/hbMgcWw2bsMvgDAX7SWxf5",
    "best": "Don Balke | Art | Lithograph Signed By Artist Don Balke 725 ...",
    "med": 220,
+   "ratio": 7.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935648876",
+   "title": "Paris Street Scene Oil Eiffel Tower Vintage Canvas Painting",
+   "price": 75,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-paris-street-scene-oil-eiffel/hxiFBMuZaU9XNiUEUCQbNE",
+   "best": "1960s Impressionist Framed Oil Painting, Paris, Eiffel ...",
+   "med": 550,
    "ratio": 7.33,
    "ai_value": ""
   },
@@ -14313,6 +14390,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977732783",
+   "title": "Terrific Antique Oil Painting: Pink Roses",
+   "price": 275,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-terrific-antique-oil/oM2WAppUTuF13ZKTzoiGzg",
+   "best": "Belgian Artist, Romantic Floral Still Life, 1900, Oil ...",
+   "med": 802,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7945352349",
    "title": "Antique Englefields London Tankard",
    "price": 55,
@@ -16128,6 +16216,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983826491",
+   "title": "VINTAGE PETROL LAMP",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/cerritos-vintage-petrol-lamp/5QJxz1pEf85uh8N8TTeTzj",
+   "best": "Vintage Brass Gramophone Phonograph For Home Decor S2u | eBay",
+   "med": 248,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7951810082",
    "title": "Antique 800 Silver FG part of pocket watch",
    "price": 95,
@@ -16267,6 +16366,17 @@
    "url": "https://www.craigslist.org/view/d/cupertino-rose-bud-clip-on-earings/oC4kMjU4oiqqR34Za5AhT3",
    "best": "eBay",
    "med": 29,
+   "ratio": 2.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954859497",
+   "title": "Multiple musical instruments for sale",
+   "price": 125,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/dryden-multiple-musical-instruments-for/i9m1ybqvbMZkiwah5SfX2F",
+   "best": "1960's Silvertone F70 Model 319.1212000 Acoustic Guitar | Reverb",
+   "med": 302,
    "ratio": 2.42,
    "ai_value": ""
   },
@@ -23289,6 +23399,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983872820",
+   "title": "Vintage power rangers from the 90s",
+   "price": 90,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-vintage-power-rangers-from-the/4ZuzEbe1Wm3vZrUHFdDuEk",
+   "best": "Jason RED Ranger VTG 1993 BANDAI Mighty Morphin Power ...",
+   "med": 128,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7932006187",
    "title": "Sterling Silver Pyrope Garnet & Marcasite 16\u201d-18\u201d Necklace",
    "price": 85,
@@ -27007,6 +27128,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930031262",
+   "title": "Vintage Effanbee 15\" Anne Shirley Doll w/ Extra Outfit",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-effanbee-15-anne/6z6HNtCgvr5Eabu7agGmai",
+   "best": "17 Madame Alexander Dolls ideas | madam alexander dolls ...",
+   "med": 104,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
    "pid": "7968810867",
    "title": "ANTIQUE ART DECO ELGIN MODEL 7 S16 17J POCKET WATCH, MADE 1937, RUNNIN",
    "price": 325,
@@ -27718,6 +27850,17 @@
    "url": "https://www.craigslist.org/view/d/plano-omega-genve-cal-620-manual-wind/3JegfJ52X4cLgep76AwaAo",
    "best": "Omega Gen\u00e8ve Ladies Watch | Cal. 485 | 1971 | Manual Wind ...",
    "med": 350,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983852966",
+   "title": "3 Vintage Items",
+   "price": 10,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bellwood-vintage-items/2czPRGmYykxYg7ULZi2Pgz",
+   "best": "Vintage 1/2 Lb. Calumet Baking Powder Tin | eBay",
+   "med": 10,
    "ratio": 1,
    "ai_value": ""
   },
@@ -32272,6 +32415,17 @@
    "url": "https://www.craigslist.org/view/d/depew-reduced-price-rose-earrings-and/kK5Dz13pAJr1Xb2D9m8msS",
    "best": "eBay",
    "med": 68,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933142816",
+   "title": "Vintage Oriental Farmer Carrying 2 Buckets of Water",
+   "price": 65,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-oriental-farmer/81up8TRzEHHhn5c7VvTvhe",
+   "best": "Toyo Statues | eBay",
+   "med": 35,
    "ratio": 0.54,
    "ai_value": ""
   },
@@ -36935,6 +37089,28 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/medford-antique-rare-british-sheffield/45HusFcQNjxiMWFQyaoSBq",
    "best": "Vintage Custom Italian Made Fixed Blade Knife W/ Leather ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959617379",
+   "title": "Alvarez rd 20sc nat",
+   "price": 150,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-alvarez-rd-20sc-nat/xoEahBdDvgz5xjnuVEqPxR",
+   "best": "Alvarez RD20SC Solid Spruce Top Acoustic-Electric Cutaway ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955006999",
+   "title": "LLADRO, \"SPRING\" PORCELAIN FIGURINE",
+   "price": 65,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-lladro-spring-porcelain-figurine/bMZiiJn36arTrVNeNzENRo",
+   "best": "Lladro Spring Girl w/ flowers /Bird 1983 porcelain glossy ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
