@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T06:59:52Z
+# Refurbish status — 2026-10-15T07:03:24Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2473 |
-| lensed | 760 |
+| flagged | 2493 |
+| lensed | 765 |
 | queued/relens | 485 |
-| queued | 428 |
+| queued | 403 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | expired | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 13
 - searches: 3068
 - listings: 12983
-- lens: 11224
-- events: 36443
+- lens: 11249
+- events: 36468
 - comps: 2758
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2473)
+## Flagged by Lens, waiting for photo review (2493)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -185,6 +185,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00c0c_XZ1qulzZ4X_0CI0t2_300x300.jpg" width="120"> | 7946281064 | $175 | asheville | [Cozart Gold Leaf Strat](https://www.craigslist.org/view/d/asheville-cozart-gold-leaf-strat/ajtegAE17aLqK3nRjobtEg) | Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ... | 18362 | 104.93 |
 | <img src="https://images.craigslist.org/00I0I_9McHJvnwqRd_0uY0hq_300x300.jpg" width="120"> | 7966080237 | $29 | boston | [Vintage 18" Diamond-Cut Gold-Tone Rope Chain Neckl](https://www.craigslist.org/view/d/natick-vintage-18-diamond-cut-gold-tone/ezfyQtYa7pxbxJEocdH5Vs) | eBay | 3000 | 103.45 |
 | <img src="https://images.craigslist.org/00M0M_bzo0tdRUZE6_0vQ0t2_300x300.jpg" width="120"> | 7983294150 | $20 | portland | [Large Face Mug Vase Studio Pottery Signed](https://www.craigslist.org/view/d/vancouver-large-face-mug-vase-studio/8mxh4LnF7ACohdYZC82icA) | Craigslist | 2010 | 100.5 |
+| <img src="https://images.craigslist.org/00404_3J4Iak3uO15_0CI0lN_300x300.jpg" width="120"> | 7979672226 | $80 | lasvegas | [Vintage FAKE Fender Jaguar COPY](https://www.craigslist.org/view/d/las-vegas-vintage-fake-fender-jaguar/mvmFN3ECCbnonK6ZWfcyua) | 1959 Vintage Fender Jazzmaster BODY / Reverb The Netherlands | 8000 | 100 |
 | <img src="https://images.craigslist.org/00z0z_7RsWle2O7md_0jt0gU_300x300.jpg" width="120"> | 7983248475 | $10 | daytona | [Vintage - (New) Chinese Tea Pot](https://www.craigslist.org/view/d/deland-vintage-new-chinese-tea-pot/kzwBuugbzEKfWy74M1noCz) | MT465 Vintage Red Ceramic Watch Tower Teapot Swords And ... | 995 | 99.5 |
 | <img src="https://images.craigslist.org/00101_5LXc3XXewoF_0t20CI_300x300.jpg" width="120"> | 7979444442 | $5 | fortwayne | [Horseshoe Clover Jewelry Charm](https://www.craigslist.org/view/d/south-bend-horseshoe-clover-jewelry/n4nDmrjhv3mTLUZ7Yw8G3r) | Your Trusted Source for Jewelry - Pendants & Necklaces ... | 480 | 96 |
 | <img src="https://images.craigslist.org/00r0r_3U0aZ72p2Kz_0CI0t2_300x300.jpg" width="120"> | 7968030888 | $1 | lasvegas | [Vintage Handmade Lot 18 Costume Jewelry Rings Neck](https://www.craigslist.org/view/d/las-vegas-vintage-handmade-lot-18/eJgavmjhpbFBdMGL6MjWms) | Vintage to Now Wearable Costume Jewelry Necklaces Bracelets  | 93 | 93 |
@@ -200,6 +201,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00303_iSYWVxZokZa_0t20CI_300x300.jpg" width="120"> | 7962594246 | $30 | slo | [18k HGE electro plated ring](https://www.craigslist.org/view/d/morro-bay-18k-hge-electro-plated-ring/wptnPjhKjjz3aT1i7xnZRa) | Craigslist | 2500 | 83.33 |
 | <img src="https://images.craigslist.org/00V0V_e5usTdQ8MbE_0on0t2_300x300.jpg" width="120"> | 7947839484 | $55 | minneapolis | [Women's Tennis Bracelet](https://www.craigslist.org/view/d/saint-paul-womens-tennis-bracelet/v8cRDdvKcowsGQhDVKEhtM) | How Do I Choose the Right Size for a 14K CVD VVS Bracelet? | 4450 | 80.91 |
 | <img src="https://images.craigslist.org/00R0R_57MbY3or15F_0hC0ct_300x300.jpg" width="120"> | 7981146621 | $15 | washingtondc | [Ladies Fashion Gold Filigree Ring Sz 10](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold/hZ3wJoGbNrZzZ6ikBULjyz) | Etsy | 1200 | 80 |
+| <img src="https://images.craigslist.org/00000_iX2r3V2lvFR_0dk0i7_300x300.jpg" width="120"> | 7973207664 | $150 | nh | [Victorian Era Gold Filled Ornate Monogrammed Brace](https://www.craigslist.org/view/d/dover-victorian-era-gold-filled-ornate/jR7zc1gNG1nyy7vWLqqSmK) | 1889 Queen Victorian 22k Gold Sovereign/brooch | 11995 | 79.97 |
 | <img src="https://images.craigslist.org/01515_eYlzMkgaPAuz_0t20CI_300x300.jpg" width="120"> | 7955365058 | $15 | denver | [Costume jewelry](https://www.craigslist.org/view/d/aurora-costume-jewelry/t7oLR44HMhuBQjRJcuyKDw) | Nordstrom | 1199 | 79.93 |
 | <img src="https://images.craigslist.org/00s0s_yCO7XW3goW_0CI0hR_300x300.jpg" width="120"> | 7953446717 | $1 | nh | [Wedgewood](https://www.craigslist.org/view/d/raymond-wedgewood/ry77GkhiBDpjxbHFe3HptL) | Etsy | 79 | 79 |
 | <img src="https://images.craigslist.org/00s0s_2tWdLsXmgrh_0jm0ew_300x300.jpg" width="120"> | 7952447071 | $10 | chicago | [New purse, jewelry](https://www.craigslist.org/view/d/new-purse-jewelry/ksUuNy9TYSHQQbkWFjyRv7) | Craigslist | 775 | 77.5 |
@@ -261,5 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00808_eWWWmbZgjq5_0t20t2_300x300.jpg" width="120"> | 7971124623 | $60 | myrtlebeach | [Vintage Bass Guitar Body](https://www.craigslist.org/view/d/myrtle-beach-vintage-bass-guitar-body/cDGJSwDjoxCCQcb1snsRWa) | Mosrite The Ventures Model Red USA 1966 Vintage Solid Body . | 2316 | 38.6 |
 | <img src="https://images.craigslist.org/01616_efbwME4cFbm_0t20CI_300x300.jpg" width="120"> | 7939922861 | $15 | austin | [VASE NATE BERKUS](https://www.craigslist.org/view/d/austin-vase-nate-berkus/icjAPb1Kbar7cYbG8WNDFq) | Art / Pacific Northwest Native American Pottery Art Signed . | 572 | 38.13 |
 | <img src="https://images.craigslist.org/00N0N_bYir9ZNTE7w_0CI0i3_300x300.jpg" width="120"> | 7942787999 | $1 | spokane | [Vintage foreign beer glasses](https://www.craigslist.org/view/d/spokane-vintage-foreign-beer-glasses/gnQexqVDvUvrmrAFAPAKwB) | Vintage KLOSTERBRÄU Koblenz RHEINISCH PILS Beer Tulip ... | 38 | 38 |
-| <img src="https://images.craigslist.org/00y0y_i23EkPobfnf_0mE0CI_300x300.jpg" width="120"> | 7949050110 | $30 | racine | [Vintage West German Pottery Pitcher Vase 271-21 | ](https://www.craigslist.org/view/d/kenosha-vintage-west-german-pottery/o11yPaScqAFaSJbfUf2SbL) | Etsy | 1116 | 37.2 |
-| <img src="https://images.craigslist.org/00O0O_agoWdB4lYdb_0t20CI_300x300.jpg" width="120"> | 7978088604 | $49 | losangeles | [TARKEI](https://www.craigslist.org/view/d/monrovia-tarkei/3RQAMnSq8rJiBTF1iFahWt) | Itzchak Tarkay “Charming Memories” Embellished Serigraph on  | 1750 | 35.71 |
