@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:51:28Z",
+ "updated": "2026-10-15T01:55:28Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10799,
-  "events": 35217,
+  "lens": 10824,
+  "events": 35242,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 53,
-  "flagged": 2148,
-  "lensed": 661
+  "queued": 28,
+  "flagged": 2161,
+  "lensed": 673
  },
  "last_harvests": [
   {
@@ -3313,6 +3313,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960300053",
+   "title": "Japanese deep sea natural Coral Vintage Necklace with 14K gold clasp",
+   "price": 120,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-japanese-deep-sea-natural/mYws3NU9zQjye1Q4zvqmP2",
+   "best": "Vintage Angel Skin Coral Necklace: 18 Inch Peach Bead Strand ...",
+   "med": 1500,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7983264771",
    "title": "1960s Swank cufflink collection",
    "price": 12,
@@ -3705,6 +3716,17 @@
    "url": "https://www.craigslist.org/view/d/dayton-vintage-ladies-wind-up-watch/6ifi9dgvExHy5Gc3WcNKzz",
    "best": "Vintage 1930's Illinois Watch Case Co. Lady's Powder Compact ...",
    "med": 75,
+   "ratio": 10.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961012097",
+   "title": "2 Large Vintage Christian Cross Pendants: C. Stein +Unmarked",
+   "price": 14,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/quitman-large-vintage-christian-cross/s2qJroEC5StKcgvwsD7asX",
+   "best": "Hungarian, 17th century, Jewellery",
+   "med": 150,
    "ratio": 10.71,
    "ai_value": ""
   },
@@ -4399,6 +4421,17 @@
    "best": "Cottone Auctions",
    "med": 1600,
    "ratio": 8.21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952707743",
+   "title": "\ud83d\udc95 \"Love Grows\" 14k Gold & Diamond Heart Ring \ud83d\udc8e",
+   "price": 449,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-love-grows-14k-gold-diamond/jRDcBFV8CwvuNUMNhqrHfG",
+   "best": "14K Yellow GOLD RING 0.45 tcw DIAMOND HEART CLUSTER size ...",
+   "med": 3668,
+   "ratio": 8.17,
    "ai_value": ""
   },
   {
@@ -5887,6 +5920,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953062716",
+   "title": "Beautiful Heart Shaped Locket Pendant Necklace",
+   "price": 15,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-beautiful-heart-shaped/9NPBKbdHghb6mPhVLNJeCe",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7983159279",
    "title": "Hand Made Earrings",
    "price": 65,
@@ -6323,6 +6367,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-vintage-horseshoe-stud/jobEWkLWXupetKqeRey1ny",
    "best": "14K Gold Horseshoe Stud Earrings | Lucky Charm Pushbacks - Etsy",
    "med": 122,
+   "ratio": 4.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965944484",
+   "title": "Antique Brass Pot Vintage Metal Well Made",
+   "price": 40,
+   "area": "lacrosse",
+   "url": "https://www.craigslist.org/view/d/holmen-antique-brass-pot-vintage-metal/83ZRYZfbxWcX6sLULk51CN",
+   "best": "Antique Brass Jam Pan Pot Bucket with Iron Handle | eBay",
+   "med": 195,
    "ratio": 4.88,
    "ai_value": ""
   },
@@ -7988,6 +8043,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941008731",
+   "title": "Horn Brass Silver CUFF BRACELET - Vintage, Hand Made",
+   "price": 35,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-horn-brass-silver-cuff/cVUH6CbroN2s8uj3A2WK2x",
+   "best": "eBay",
+   "med": 126,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7935556827",
    "title": "jjj 2 Sterling Amethyst and CZ Rings - $35 each",
    "price": 35,
@@ -8666,6 +8732,17 @@
    "url": "https://www.craigslist.org/view/d/sturbridge-kala-ukulele/hKgYi6gc2sszJmBWc2u6Yz",
    "best": "KALA Solid Acacia Series Ukulele All Solid Acacia Body Tenor ...",
    "med": 808,
+   "ratio": 3.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983687867",
+   "title": "TIMEX INDIGLO MEN\u2019S WATCH",
+   "price": 30,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-timex-indiglo-mens-watch/izCNqmYGPuYyuaEjyDYzvP",
+   "best": "Men's Watch - Poshmark",
+   "med": 97,
    "ratio": 3.23,
    "ai_value": ""
   },
@@ -17624,6 +17701,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977572583",
+   "title": "Vintage Flower Frog made by De Uberti",
+   "price": 50,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/templeton-vintage-flower-frog-made-by/rXNAaKXjaotfCag578ozhE",
+   "best": "de Uberti (Italy) Glass & Silver Flower Frog - BOx | eBay",
+   "med": 52,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
    "pid": "7968810867",
    "title": "ANTIQUE ART DECO ELGIN MODEL 7 S16 17J POCKET WATCH, MADE 1937, RUNNIN",
    "price": 325,
@@ -18130,6 +18218,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963691946",
+   "title": "Hummel - \u201cSweet Music\u201d  #186 TMK-5",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-hummel-sweet-music-186-tmk/6cmH59LxrbgHskqETLUBrP",
+   "best": "Goebel Hummel ~ Boy With Cello ~ Sweet Music ~ #186 ...",
+   "med": 50,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -18535,6 +18634,17 @@
    "med": 50,
    "ratio": 0.91,
    "ai_value": "sell in the $35 to $60"
+  },
+  {
+   "pid": "7931119477",
+   "title": "HUMMEL-CENTURY COLLECTION PI\"ECE \"ROCK-A BYE-",
+   "price": 350,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/stamford-hummel-century-collection/gH44UUHSovrDWv6fhvJMWm",
+   "best": "eBay",
+   "med": 320,
+   "ratio": 0.91,
+   "ai_value": ""
   },
   {
    "pid": "7944250897",
@@ -20792,6 +20902,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964812602",
+   "title": "1981 Federal Duck Stamp Art",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-1981-federal-duck-stamp-art/nqNfBNbzVdzdmCqc55bcCE",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7969703721",
    "title": "Banjo - 5 String with Case",
    "price": 425,
@@ -22383,6 +22504,17 @@
    "url": "https://www.craigslist.org/view/d/irvine-sterling-silver-925-lot-mexico/qjyp3gW9Kw2aS7kNq3cmZ8",
    "best": "Etsy",
    "med": 27,
+   "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952180774",
+   "title": "Vintage Sign",
+   "price": 75,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/durham-vintage-sign/ruaV2XDeGDqHyKhD9qiBEm",
+   "best": "Concord Court Apartments | Sinking Spring PA",
+   "med": 20,
    "ratio": 0.27,
    "ai_value": ""
   },
@@ -24109,6 +24241,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/discovery-bay-vintage-miniature-doctor/kbVZQ56E6E9KfAM3R4EA1H",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983465897",
+   "title": "Topiary Panels",
+   "price": 20,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/nashville-topiary-panels/rwwKJbenD7nH8auCyPEbfW",
+   "best": "Wayfair",
    "med": null,
    "ratio": null,
    "ai_value": ""
