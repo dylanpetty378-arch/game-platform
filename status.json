@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:34:30Z",
+ "updated": "2026-10-15T14:37:58Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11824,
-  "events": 37914,
+  "lens": 11849,
+  "events": 37939,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 628,
-  "flagged": 2954,
-  "lensed": 879
+  "queued": 603,
+  "flagged": 2973,
+  "lensed": 885
  },
  "last_harvests": [
   {
@@ -530,6 +530,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935764861",
+   "title": "Heidi Klum Silver Tone Wide Hinged Cuff Bracelet  & Earrings -Signed",
+   "price": 35,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/fort-mill-heidi-klum-silver-tone-wide/fzAZZt8g5SHjyHDpjhapVU",
+   "best": "Etsy",
+   "med": 30240,
+   "ratio": 864,
+   "ai_value": ""
+  },
+  {
    "pid": "7966647969",
    "title": "granfather watch",
    "price": 1,
@@ -912,6 +923,17 @@
    "best": "Craigslist",
    "med": 3139,
    "ratio": 125.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954702504",
+   "title": "ASSORTED BEAR COLLECTION",
+   "price": 1,
+   "area": "bakersfield",
+   "url": "https://www.craigslist.org/view/d/bakersfield-assorted-bear-collection/jMQwG9QhjKNrjJQ4JtfTjP",
+   "best": "Craigslist",
+   "med": 125,
+   "ratio": 125,
    "ai_value": ""
   },
   {
@@ -2473,6 +2495,28 @@
    "url": "https://www.craigslist.org/view/d/chandler-osolnik-candlestick-collection/2td3b9ru9NbWNnzPW96CLe",
    "best": "Selling Antiques",
    "med": 1250,
+   "ratio": 25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949025290",
+   "title": "Painting / artwork",
+   "price": 10,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/katy-painting-artwork/aQsA9nkaBuCmoNJa2UcFcq",
+   "best": "Craigslist",
+   "med": 250,
+   "ratio": 25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936993013",
+   "title": "BSK Rhinestone Brooch",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-bsk-rhinestone-brooch/trpwqdyStv6C56vF4WHAbF",
+   "best": "eBay",
+   "med": 625,
    "ratio": 25,
    "ai_value": ""
   },
@@ -5865,6 +5909,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951647536",
+   "title": "A Man\u2019s Fashion Accessory",
+   "price": 69,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-mans-fashion-accessory/xuwoCG8wKE6BD6s7qrT5fN",
+   "best": "Etsy",
+   "med": 550,
+   "ratio": 7.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7952902592",
    "title": "VINTAGE JEWELRY",
    "price": 25,
@@ -6027,6 +6082,17 @@
    "best": "Timex Expedition Metal | eBay",
    "med": 151,
    "ratio": 7.55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967997564",
+   "title": "Star Trek Misc. Lot, Includes Season 3 Kirk Tunic",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-star-trek-misc-lot-includes/98jrPDgkiWVidQ3eVyBVUi",
+   "best": "Star Trek TNG Lot Set of 23 Action Figures Playmates Toys ...",
+   "med": 113,
+   "ratio": 7.53,
    "ai_value": ""
   },
   {
@@ -8874,6 +8940,17 @@
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/laurel-vintage-taylor-smith-signed/57PFP4TdeCtUHbBfx88Lrb",
    "best": "Taylor Swift Tim Mcgraw for sale | eBay",
+   "med": 441,
+   "ratio": 4.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983835170",
+   "title": "Vintage Taylor smith signed album collage coa verso",
+   "price": 100,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/laurel-vintage-taylor-smith-signed/iXtMBQXKCiuAjxeF3zvj8X",
+   "best": "Taylor Swift Signed Collage \u2013 Legends Vault",
    "med": 441,
    "ratio": 4.41,
    "ai_value": ""
@@ -13048,6 +13125,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943995825",
+   "title": "Silver Gothic Cross Jeweled Earrings Screw Back",
+   "price": 30,
+   "area": "easttexas",
+   "url": "https://www.craigslist.org/view/d/bullard-silver-gothic-cross-jeweled/wPNcSKBHkGuz816xYbNTUK",
+   "best": "eBay",
+   "med": 84,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7945601047",
    "title": "Citizen Eco-Drive Watch",
    "price": 50,
@@ -16821,6 +16909,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983879156",
+   "title": "Harmony Supertone Ukulele ANTIQUE Vintage ACOUSTIC GUITAR",
+   "price": 70,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/towson-harmony-supertone-ukulele/7fqkNj3KZ4fJXXGu8UAiB7",
+   "best": "Craigslist",
+   "med": 140,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -17224,6 +17323,17 @@
    "url": "https://www.craigslist.org/view/d/orlando-pretty-bracelet-length/8M7oXJBZFKcazWquxBQF1w",
    "best": "Aureus Boutique",
    "med": 19,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946246481",
+   "title": "Vintage MINI KABAR KNIFE",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/silverdale-vintage-mini-kabar-knife/3r1jHuvv5BwgjvLehxcm26",
+   "best": "eBay",
+   "med": 95,
    "ratio": 1.9,
    "ai_value": ""
   },
@@ -22497,6 +22607,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983848352",
+   "title": "North Carolina Emeralds",
+   "price": 135,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-north-carolina-emeralds/gzLLopYSyMHfpqaNh9J8Kx",
+   "best": "Etsy",
+   "med": 163,
+   "ratio": 1.21,
+   "ai_value": ""
+  },
+  {
    "pid": "7955408722",
    "title": "Earring-sterling and turquoise",
    "price": 25,
@@ -22823,6 +22944,17 @@
    "url": "https://www.craigslist.org/view/d/san-diego-vintage-antique-eagle-bookends/sLVD2892hRHL4ScQanxEE9",
    "best": "1stDibs",
    "med": 150,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933330373",
+   "title": "Sterling and Marcasite N Pin",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-and-marcasite-pin/cEj4rp6FNiYGz3xcbsVbJw",
+   "best": "Charter Club | Jewelry | Charter Club Silver Tone Marcasite ...",
+   "med": 30,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -26369,6 +26501,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962534126",
+   "title": "Silver tone MONET NECKLACE & BRACELET SET \u201cClimber Collection\u201d 1950-60",
+   "price": 40,
+   "area": "kalispell",
+   "url": "https://www.craigslist.org/view/d/kalispell-silver-tone-monet-necklace/fQem5GJr3RifRrQSsKpfwf",
+   "best": "eBay",
+   "med": 33,
+   "ratio": 0.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7952296200",
    "title": "VINTAGE ONYX and MARCASITE PENDANTS on STERLING CHAINS",
    "price": 69,
@@ -26848,6 +26991,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/pleasanton-natural-fossilized-ammonite/91EYipBNaP27A7YAsKLiuj",
    "best": "Craigslist",
+   "med": 23,
+   "ratio": 0.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928563212",
+   "title": "Vintage Figurine Old Man Gardening",
+   "price": 30,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/huntington-beach-vintage-figurine-old/wk7nperdG7yrQ9VFgvNuRn",
+   "best": "eBay",
    "med": 23,
    "ratio": 0.77,
    "ai_value": ""
@@ -28503,6 +28657,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7936993033",
+   "title": "Eisenberg Ice Rhinestone Bracelet Brooch SET",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-eisenberg-ice-rhinestone/uWbMuZ9LXqd7gALS9BN5bK",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975947606",
+   "title": "Vintage camera and lens collection",
+   "price": 300,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/wallingford-vintage-camera-and-lens/w7UVf6knwpxs52RUyhE3ay",
+   "best": "eBay",
+   "med": 180,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982183808",
+   "title": "Women\u2019s Watch",
+   "price": 50,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-womens-watch/twBWyQFKGruaHvhDLkQXs9",
+   "best": "\u00b7TT Watches",
+   "med": 30,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7969703721",
    "title": "Banjo - 5 String with Case",
    "price": 425,
@@ -28950,6 +29137,17 @@
    "url": "https://www.craigslist.org/view/d/santa-barbara-vintage-1930s-waltham-10k/6HkvGgJTtR1gMKyTSWZgZa",
    "best": "eBay",
    "med": 100,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983864771",
+   "title": "Antique Victoria Carlsbad Mantle Vases",
+   "price": 50,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/essex-antique-victoria-carlsbad-mantle/qCzncp7cqtMNyyRvXy6vUm",
+   "best": "Antique Victoria Austria Large 12\" Porcelain Pink Roses Vase ...",
+   "med": 27,
    "ratio": 0.54,
    "ai_value": ""
   },
@@ -31317,6 +31515,17 @@
    "med": 15,
    "ratio": 0.19,
    "ai_value": "priced at $80"
+  },
+  {
+   "pid": "7955312251",
+   "title": "Vintage Confections Tin Collection",
+   "price": 135,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/darien-vintage-confections-tin/2XVVZYzk5LHPNoSzbDfJ85",
+   "best": "Etsy",
+   "med": 25,
+   "ratio": 0.19,
+   "ai_value": ""
   },
   {
    "pid": "7954379451",

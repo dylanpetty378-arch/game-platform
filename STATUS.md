@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T14:34:30Z
+# Refurbish status — 2026-10-15T14:37:58Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8935 |
-| flagged | 2954 |
-| lensed | 879 |
-| queued | 628 |
+| flagged | 2973 |
+| lensed | 885 |
+| queued | 603 |
 | queued/relens | 485 |
 | decided/ask | 82 |
 | decided/kill | 49 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13783
-- lens: 11824
-- events: 37914
+- lens: 11849
+- events: 37939
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (2954)
+## Flagged by Lens, waiting for photo review (2973)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -144,6 +144,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00L0L_63tg40YZxM6_0MM132_300x300.jpg" width="120"> | 7983256881 | $1 | minneapolis | [large collection of lighting](https://www.craigslist.org/view/d/hugo-large-collection-of-lighting/88trK5tVVHmLJ6mn1fPwyg) | Vintage Shop | 2401 | 2401 |
 | <img src="https://images.craigslist.org/00u0u_fRPOCRRLLFt_0CI0t2_300x300.jpg" width="120"> | 7965995400 | $10 | omaha | [Rings](https://www.craigslist.org/view/d/omaha-rings/77AbNdRX2i22gmSEq2DXoh) | Novi in rabljeni artikli naprodaj v kategoriji Rings ... | 17000 | 1700 |
 | <img src="https://images.craigslist.org/00l0l_1nDBWnON3RU_0t20t2_300x300.jpg" width="120"> | 7977695499 | $20 | ventura | [Genuine Citrine & Silvertone Necklace](https://www.craigslist.org/view/d/oak-park-genuine-citrine-silvertone/dNZuWZhqPmphLp87C6aPbY) | Oblong Quartz Charm - Etsy | 18951 | 947.55 |
+| <img src="https://images.craigslist.org/00000_6EgOTmHZlsD_0xE0t2_300x300.jpg" width="120"> | 7935764861 | $35 | charlotte | [Heidi Klum Silver Tone Wide Hinged Cuff Bracelet  ](https://www.craigslist.org/view/d/fort-mill-heidi-klum-silver-tone-wide/fzAZZt8g5SHjyHDpjhapVU) | Etsy | 30240 | 864 |
 | <img src="https://images.craigslist.org/00707_czVOzxVhp5v_0lN0CI_300x300.jpg" width="120"> | 7966647969 | $1 | chicago | [granfather watch](https://www.craigslist.org/view/d/alsip-granfather-watch/cafW9dptLf4YAWsPKrgDqZ) | eBay | 825 | 825 |
 | <img src="https://images.craigslist.org/00q0q_kblb2v5Iwyf_0CI0mF_300x300.jpg" width="120"> | 7954586207 | $10 | boise | [Plunder Designs Mesh Gold Tone Bracelet](https://www.craigslist.org/view/d/boise-plunder-designs-mesh-gold-tone/73REptQXAAP1HUf2d6ukab) | Plunder Bracelet - Chunky Gold Mesh Stretch - / Mercari | 7350 | 735 |
 | <img src="https://images.craigslist.org/00t0t_ewx3TbogFxF_0lM0t2_300x300.jpg" width="120"> | 7983181830 | $1 | hartford | [*** SMALL CENTURY POCKET WATCH ***](https://www.craigslist.org/view/d/manchester-small-century-pocket-watch/fiLRKsTVeAEK8wqrHDKXWa) | eBay | 700 | 700 |
@@ -179,6 +180,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00202_1LBeiKUWkZy_0e10ay_300x300.jpg" width="120"> | 7973797446 | $10 | boston | [Bamboo hoop earrings](https://www.craigslist.org/view/d/natick-bamboo-hoop-earrings/9B4XQDv66PDyC9AANJpnf8) | Pastel Collection Large (3") 3D Goldtone Heart Earrings ... | 1308 | 130.8 |
 | <img src="https://images.craigslist.org/00U0U_5V1gqoU72hw_0t20CI_300x300.jpg" width="120"> | 7937435125 | $20 | sfbay | [Marcasite,Sterling Silver Earrings](https://www.craigslist.org/view/d/san-francisco-marcasitesterling-silver/7bFuWD8yGuP7CGH84BEpd1) | eBay | 2515 | 125.75 |
 | <img src="https://images.craigslist.org/01111_czyerSRpvJE_0jm0cI_300x300.jpg" width="120"> | 7965711534 | $25 | santabarbara | [Bella Luce Hoop Earrings](https://www.craigslist.org/view/d/solvang-bella-luce-hoop-earrings/kt8q2YPH8uWiANGoZhkEVa) | Craigslist | 3139 | 125.56 |
+| <img src="https://images.craigslist.org/01212_jhsSh8Vnivj_0CI0t2_300x300.jpg" width="120"> | 7954702504 | $1 | bakersfield | [ASSORTED BEAR COLLECTION](https://www.craigslist.org/view/d/bakersfield-assorted-bear-collection/jMQwG9QhjKNrjJQ4JtfTjP) | Craigslist | 125 | 125 |
 | <img src="https://images.craigslist.org/01515_8I9j9c5NyHd_0t20CI_300x300.jpg" width="120"> | 7947129653 | $20 | buffalo | [Old school 20” Wuhan China Cymbal](https://www.craigslist.org/view/d/buffalo-old-school-20-wuhan-china-cymbal/5y7SAeqzu3jvX3JzJHBwpx) | Ufip Natural China 20 / Reverb | 2499 | 124.95 |
 | <img src="https://images.craigslist.org/00Y0Y_aIdoZrT2zJw_0c607W_300x300.jpg" width="120"> | 7943638984 | $1 | longisland | [Collection of Vintage Cameras](https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/7rKHySm9qMZFks2E7wZnoh) | eBay | 120 | 120 |
 | <img src="https://images.craigslist.org/00W0W_lFG5hKSy0R8_0lN0CI_300x300.jpg" width="120"> | 7976589723 | $40 | southcoast | [Flora by titan. (reproduction)](https://www.craigslist.org/view/d/acushnet-flora-by-titan-reproduction/vibZ9nD6gSBuvDHwzheiyu) | Craigslist | 4800 | 120 |
@@ -258,5 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00t0t_5OcBCXBXDk0_0m90t2_300x300.jpg" width="120"> | 7933462459 | $20 | miami | [Toys In The Attic](https://www.craigslist.org/view/d/fort-lauderdale-toys-in-the-attic/oyK342y5FcdD2tM4Tjf7sf) | Coins & Bank Notes inc. House & Gardens Sale - Gorringe's | 899 | 44.95 |
 | <img src="https://images.craigslist.org/00V0V_6b3EzvF2DuM_0CI0qh_300x300.jpg" width="120"> | 7962497376 | $35 | chicago | [Antique / Vintage Silver-Plated Chamberstick Candl](https://www.craigslist.org/view/d/schaumburg-antique-vintage-silver/n1bEZSkeRpqT6h35z9tS1M) | eBay | 1569 | 44.83 |
 | <img src="https://images.craigslist.org/00Y0Y_ep0uo7jJq3N_0ra0mo_300x300.jpg" width="120"> | 7929677833 | $15 | chicago | [Vintage Danecraft 1/20 12k Gold Filled Earrings](https://www.craigslist.org/view/d/chicago-vintage-danecraft-gold-filled/bPEBpGBwLYtgXtvTswQogA) | Vintage 14k Gold Tapered Wide Band | 664 | 44.27 |
-| <img src="https://images.craigslist.org/00u0u_3A7VdgWroBo_0kI0t2_300x300.jpg" width="120"> | 7958130497 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/epXBtmnVkE6qFLNrGezXEg) | eBay | 3978 | 44.2 |
-| <img src="https://images.craigslist.org/00h0h_gdHDwwX5k9G_0lM0t2_300x300.jpg" width="120"> | 7974614568 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/puhGk1YDhXv4efAvcckoFi) | Galle Emile / eBay | 3978 | 44.2 |
