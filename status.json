@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:15:26Z",
+ "updated": "2026-10-15T15:20:53Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 12074,
-  "events": 38164,
+  "lens": 12099,
+  "events": 38189,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 378,
-  "flagged": 3124,
-  "lensed": 959
+  "queued": 353,
+  "flagged": 3145,
+  "lensed": 963
  },
  "last_harvests": [
   {
@@ -2499,6 +2499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976591568",
+   "title": "New Bracelet with Earrings Set - $15 for the Set",
+   "price": 15,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/mc-farland-new-bracelet-with-earrings/v4S3hbL1x2cLxcz7USbZ4V",
+   "best": "Craigslist",
+   "med": 399,
+   "ratio": 26.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7944945076",
    "title": "After shock",
    "price": 475,
@@ -2873,6 +2884,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983879039",
+   "title": "Vintage Advertising Sign",
+   "price": 55,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/jacksonville-vintage-advertising-sign/cA7hoFQtdVcv6tPyXaQSnq",
+   "best": "Sad Eye Joe 5c Game of Amusement Knott's Berry Farm | eBay",
+   "med": 1195,
+   "ratio": 21.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7978092384",
    "title": "BARBARA A. WOOD",
    "price": 44,
@@ -3220,6 +3242,17 @@
    "area": "boise",
    "url": "https://www.craigslist.org/view/d/boise-bubblegum-stretch-bracelet/gJBKeYQnAnEBJKJgEpSTeN",
    "best": "Craigslist",
+   "med": 150,
+   "ratio": 18.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953803083",
+   "title": "oval mosaic opal",
+   "price": 8,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/decatur-oval-mosaic-opal/9nqbwvePMahN1C1oYH9Kpv",
+   "best": "Etsy",
    "med": 150,
    "ratio": 18.75,
    "ai_value": ""
@@ -6195,6 +6228,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953886084",
+   "title": "Vintage 5' Hand Saw Blade",
+   "price": 10,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/thompson-vintage-hand-saw-blade/5PZ5ZSXxLfErBV7AfKUZa5",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7951647536",
    "title": "A Man\u2019s Fashion Accessory",
    "price": 69,
@@ -6236,6 +6280,17 @@
    "best": "Craigslist",
    "med": 1190,
    "ratio": 7.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983850296",
+   "title": "Vintage HEDDON Fishing pole",
+   "price": 10,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bellwood-vintage-heddon-fishing-pole/bp1B93cPwnsN2i9r3tSzc8",
+   "best": "WorthPoint",
+   "med": 79,
+   "ratio": 7.9,
    "ai_value": ""
   },
   {
@@ -7302,6 +7357,17 @@
    "url": "https://www.craigslist.org/view/d/phoenix-1950s-vintage-mccoy-pottery/f3zJWgvYdi5JMmgkfVNxih",
    "best": "Vintage Mccoy Planter, Lotus Jardiniere, Aqua Blue. Large ...",
    "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932539508",
+   "title": "Old Tennis rackets",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-old-tennis-rackets/8BaKDw6LVcnEsvVRGAEGWJ",
+   "best": "eBay",
+   "med": 250,
    "ratio": 6.25,
    "ai_value": ""
   },
@@ -8747,6 +8813,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942980088",
+   "title": "Vintage glass dome clock",
+   "price": 140,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/edgewater-vintage-glass-dome-clock/93TEoRDdmU7hquCL5xfa67",
+   "best": "eBay",
+   "med": 695,
+   "ratio": 4.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7968141270",
    "title": "Limoges chocolate set",
    "price": 40,
@@ -8798,6 +8875,17 @@
    "url": "https://www.craigslist.org/view/d/los-angeles-handmade-ceramic-teapot/9qYL4YxmwVJyrA5uyCgEhA",
    "best": "Golden Embers Teapot \u2014 Nicole Hummel Ceramics",
    "med": 49,
+   "ratio": 4.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946684968",
+   "title": "assorted jack knives",
+   "price": 50,
+   "area": "newlondon",
+   "url": "https://www.craigslist.org/view/d/quaker-hill-assorted-jack-knives/7zH2B3FNDedRmBYxRMmE2D",
+   "best": "Rare Vintage Wenger 1960's Era with Z Style Can Opener ...",
+   "med": 245,
    "ratio": 4.9,
    "ai_value": ""
   },
@@ -11623,6 +11711,28 @@
    "price": 20,
    "area": "tucson",
    "url": "https://www.craigslist.org/view/d/tucson-vintage-wood-duck-decoy/2psh5s5ao29wBnBkTdUYwQ",
+   "best": "eBay",
+   "med": 70,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954056614",
+   "title": "Lenox Salt & Pepper Set",
+   "price": 10,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-lenox-salt-pepper-set/6aiwTJws3ppVqbmkPGe15E",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983879318",
+   "title": "Budddah chain",
+   "price": 20,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-budddah-chain/5AWD6bKKYiHSNJ6TrWPs8Z",
    "best": "eBay",
    "med": 70,
    "ratio": 3.5,
@@ -14540,6 +14650,17 @@
    "url": "https://www.craigslist.org/view/d/fremont-vintage-cast-iron-garden-hose/djVgYqZwC7Matqog3Q5Ljc",
    "best": "Esschert Design Cast Iron Hose Cart Patio, Lawn & Garden",
    "med": 673,
+   "ratio": 2.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933094956",
+   "title": "Longaberger Christmas Teapot",
+   "price": 29,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/brookeville-longaberger-christmas-teapot/q9LAQs6enYGTbpPZ6WdjQy",
+   "best": "Longaberger Holly Teapot With Lid - Etsy",
+   "med": 75,
    "ratio": 2.59,
    "ai_value": ""
   },
@@ -21892,6 +22013,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959050574",
+   "title": "George Crionas \"Circus Time\" Signed Mixed Media Art 48/175",
+   "price": 175,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ventura-george-crionas-circus-time/dT6YEKqNkLJ35cPjt6pA9A",
+   "best": "GEORGE CRIONAS Vintage Signed Numbered Titled COA LITHOGRAPH ...",
+   "med": 250,
+   "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7974161394",
    "title": "Vintage CS Osborne Leather Working Draw Gauge",
    "price": 60,
@@ -23575,6 +23707,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974368742",
+   "title": "Yamaha fg 360",
+   "price": 400,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-yamaha-fg-360/5L9P2saVLGEuuXbCTsyh22",
+   "best": "Yamaha FG-580 MIJ Jumbo Dreadnought 1972- 1974 Natural | Reverb",
+   "med": 500,
+   "ratio": 1.25,
+   "ai_value": "worth the price? Facebook What is the manufacturing year of a Yamaha FG580 guitar? $500"
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -24675,6 +24818,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955378445",
+   "title": "3 Piece Necklace and Earrings",
+   "price": 8,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/munroe-falls-piece-necklace-and-earrings/2mrz5b968GcUegeLq7awB9",
+   "best": "Craigslist",
+   "med": 9,
+   "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7944252343",
    "title": "Vintage Pottery Dashboard or Commuter \u201cNo-Spill\u201d Mug",
    "price": 25,
@@ -24761,6 +24915,17 @@
    "med": 140,
    "ratio": 1.12,
    "ai_value": ""
+  },
+  {
+   "pid": "7934005765",
+   "title": "Large Sterling Hoop Earrings",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-large-sterling-hoop-earrings/oBnA4JPhbBkE3RnLn5umaS",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 1.12,
+   "ai_value": "price tag showing \"$9"
   },
   {
    "pid": "7979462421",
@@ -26413,6 +26578,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945607796",
+   "title": "Pair of Vintage Wheatonware Green Vases with Gold Designs",
+   "price": 25,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/islip-pair-of-vintage-wheatonware-green/1vJZMoK95hDPeMv1VvryBV",
+   "best": "eBay",
+   "med": 24,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7954817436",
    "title": "Vintage Fragonard Lot of 2 Brooches Porcelain Romantic Scene & Gold Tr",
    "price": 22,
@@ -27751,6 +27927,17 @@
    "url": "https://www.craigslist.org/view/d/clarkdale-vintage-swiss-firefighter/hP4EBwifrgHe6guGaDYzYE",
    "best": "Vintage Swiss Firefighters Helmet | eBay",
    "med": 208,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981060410",
+   "title": "Vintage Pendant, 90% Silver winged Mercury head dime, cut-out",
+   "price": 35,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-vintage-pendant-90-silver/h3PCpgPJgHmmqVcLssSBrA",
+   "best": "Cut-Out Coin - 10c Barber Silver Dime - SKU-X3190 | eBay",
+   "med": 29,
    "ratio": 0.83,
    "ai_value": ""
   },
@@ -29104,6 +29291,17 @@
    "url": "https://www.craigslist.org/view/d/vista-sterling-silver-turquoise-necklace/3PTZJJao2nsVsXCqBfTBQx",
    "best": "Sterling Silver Choker Pendant Necklace with Recon ...",
    "med": 108,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967226780",
+   "title": "GUITAR CAPO - BLACK",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-guitar-capo-black/8NejQ8Sk9qNWFezDM3s42Q",
+   "best": "Craigslist",
+   "med": 7,
    "ratio": 0.7,
    "ai_value": ""
   },
@@ -30659,6 +30857,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938689573",
+   "title": "Air Plane Pin",
+   "price": 30,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/stormville-air-plane-pin/nAJeAxrnTmiBtq14PVr8xg",
+   "best": "Etsy",
+   "med": 16,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7946993347",
    "title": "2-Vintage Shawnee wheat vase",
    "price": 25,
@@ -32041,6 +32250,17 @@
    "url": "https://www.craigslist.org/view/d/orlando-pill-ring/vKfc1fH8MLL3q6ymQsbJpN",
    "best": "Sterling Silver Oxidized Baboon Ring \u2013 Silverdepot",
    "med": 49,
+   "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983870819",
+   "title": "ANTIQUE VAUDVILLE SHOW SIGN",
+   "price": 250,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/holyoke-antique-vaudville-show-sign/hjfMzY9ksS1xE7bmDZj5Hf",
+   "best": "Vaudeville Galore Debut Poster | Vaudeville circus ...",
+   "med": 90,
    "ratio": 0.36,
    "ai_value": ""
   },
@@ -34845,6 +35065,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/brookline-groovetubes-fatfinger/dSs9MTHHhALcxDbNEeha1T",
    "best": "Groove Tubes Fatfinger Guitar Sustain Enhancer | zZounds",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954386988",
+   "title": "Birds n Flowers by Lisa Audit",
+   "price": 25,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/coos-bay-birds-flowers-by-lisa-audit/d5SDRCVaWfgvuGZrsdhfDn",
+   "best": "Amazon.com",
    "med": null,
    "ratio": null,
    "ai_value": ""
