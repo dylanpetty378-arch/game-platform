@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:27:28Z",
+ "updated": "2026-10-15T14:31:00Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11774,
-  "events": 37864,
+  "lens": 11799,
+  "events": 37889,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 678,
-  "flagged": 2914,
-  "lensed": 869
+  "queued": 653,
+  "flagged": 2934,
+  "lensed": 874
  },
  "last_harvests": [
   {
@@ -659,6 +659,17 @@
    "best": "Craigslist",
    "med": 320,
    "ratio": 320,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938079495",
+   "title": "Sterling Silver Ring size 9",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-silver-ring-size/qktqSzYNuH6zGHPzD6wC2m",
+   "best": "eBay",
+   "med": 7995,
+   "ratio": 319.8,
    "ai_value": ""
   },
   {
@@ -1352,6 +1363,17 @@
    "best": "Antique 19th Century Qing Dynasty Foo Dog Kamcheng ...",
    "med": 695,
    "ratio": 69.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933871811",
+   "title": "NEW Sterling Ring",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-new-sterling-ring/my8SzaNHFCM2aDUXPymHUr",
+   "best": "eBay",
+   "med": 1675,
+   "ratio": 67,
    "ai_value": ""
   },
   {
@@ -2400,6 +2422,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970952120",
+   "title": "Vintage 1988 Giraffe Painting by G. Miller",
+   "price": 20,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/coos-bay-vintage-1988-giraffe-painting/vV9EygcM7kYG5j1zjax3Ai",
+   "best": "Vintage Reverse Painted Glass 1970's Giraffe Framed ...",
+   "med": 505,
+   "ratio": 25.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7950838763",
    "title": "vintage black frame with glass",
    "price": 5,
@@ -2429,6 +2462,17 @@
    "url": "https://www.craigslist.org/view/d/independence-ring-bracelet-pairs/jTxyG67Sd1GkBgd7FyYYVL",
    "best": "Vtg Lovely Foiled Murano Art Glass Large Beads Collar ...",
    "med": 250,
+   "ratio": 25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930248733",
+   "title": "Osolnik Candlestick Collection from $50.00",
+   "price": 50,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/chandler-osolnik-candlestick-collection/2td3b9ru9NbWNnzPW96CLe",
+   "best": "Selling Antiques",
+   "med": 1250,
    "ratio": 25,
    "ai_value": ""
   },
@@ -5531,6 +5575,17 @@
    "url": "https://www.craigslist.org/view/d/appleton-ceramic-leaf-platter/bhbqEkDH3hhF3v8LZF3Avu",
    "best": "2008 Monterey Collection By Home Studio Green Leaf Design ...",
    "med": 85,
+   "ratio": 8.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944837982",
+   "title": "Vintage 18K Gold Plated (HGE) Signed Lion Ring Made in the USA / S~11.",
+   "price": 100,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/keene-vintage-18k-gold-plated-hge/7g7bzg1Ea9RhD7H4zkTr6F",
+   "best": "eBay",
+   "med": 850,
    "ratio": 8.5,
    "ai_value": ""
   },
@@ -8791,6 +8846,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7947090377",
+   "title": "Vintage Opalescent And Red Rhinestone Victorian Revival Dangle Brooch",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/south-boston-vintage-opalescent-and-red/uSKdb1McRahzNJ9LReeURp",
+   "best": "Etsy",
+   "med": 155,
+   "ratio": 4.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954344037",
+   "title": "Vintage 925 Silver and Mojave Turquoise Cross Pendant",
+   "price": 100,
+   "area": "shreveport",
+   "url": "https://www.craigslist.org/view/d/bullard-vintage-925-silver-and-mojave/bcEHKUBXMyda98NNSdGn9x",
+   "best": "eBay",
+   "med": 442,
+   "ratio": 4.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7983254112",
    "title": "Vintage Taylor smith signed album collage coa verso",
    "price": 100,
@@ -11233,6 +11310,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955200603",
+   "title": "Framed Water Lily Painting",
+   "price": 60,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/roseville-framed-water-lily-painting/hGYHKVchEorj2DB4qWiCCg",
+   "best": "Regina Leffers Art for Sale | Fine Art America",
+   "med": 200,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7954961733",
    "title": "Vintage LONGINES Golf Dial Sub Seconds Men's Wristwatch",
    "price": 299,
@@ -11603,6 +11691,17 @@
    "url": "https://www.craigslist.org/view/d/dover-swarovski-iridescent-crystal/5NtCAxjv81J36rfSCQHhDL",
    "best": "Find Vintage Beauty",
    "med": 80,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977029268",
+   "title": "Vintage Miniature pitcher Toby Mugs",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-miniature-pitcher/azcpqtbucRmNHyxJF7xvbU",
+   "best": "Craigslist",
+   "med": 32,
    "ratio": 3.2,
    "ai_value": ""
   },
@@ -13158,6 +13257,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983853065",
+   "title": "10k gold charm necklace",
+   "price": 90,
+   "area": "wv",
+   "url": "https://www.craigslist.org/view/d/malta-10k-gold-charm-necklace/oTEWGD1yL5vjDAxdJ8ym6J",
+   "best": "Poshmark",
+   "med": 245,
+   "ratio": 2.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7954565090",
    "title": "\ud83d\udc8eAntique Victorian 14k Gold & Diamond FILIGREE PIN  \ud83d\udc8e",
    "price": 399,
@@ -14210,6 +14320,28 @@
    "url": "https://www.craigslist.org/view/d/aurora-vintage-boxes/xvQ2QfZZb8jmHkRzTSUJTt",
    "best": "Vintage Carved Wood Round Trinket Made in Russia 2.5 Inch | eBay",
    "med": 98,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951212437",
+   "title": "Capodimonte Vintage Figurine",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/mount-prospect-capodimonte-vintage/iUtWrkzouBwX8gwgXLPFNF",
+   "best": "eBay",
+   "med": 49,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928898000",
+   "title": "~ Turquoise  Earrings ~",
+   "price": 20,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/carrolls-turquoise-earrings/jg9sBnsD9oXnMuSkmGcTbM",
+   "best": "Craigslist",
+   "med": 49,
    "ratio": 2.45,
    "ai_value": ""
   },
@@ -18339,6 +18471,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939840767",
+   "title": "Collar Bars",
+   "price": 10,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/glenmont-collar-bars/bzqXEBMd7k9TUL3UtzmHuS",
+   "best": "Large Safety Pin Vintage Safety Pin Kilt Pin Vintage Blanket ...",
+   "med": 17,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7967127546",
    "title": "925 Sterling Silver Unisex 16.5\" Choker 19.22g",
    "price": 49,
@@ -19523,6 +19666,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-buck-knmife-110/kFFBYzZyt8DeV24rAMZwcH",
    "best": "Schrade Leather Brown Collectible Knife, Sword & Blade ...",
    "med": 115,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943636740",
+   "title": "Jewelry collection from estate -  Necklaces/Rings",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-jewelry-collection-from/8Cjp3ywbL5DvpvHEn3egFX",
+   "best": "Joan Rivers Classics Collection Black Tassel Necklace | eBay",
+   "med": 23,
    "ratio": 1.53,
    "ai_value": ""
   },
@@ -21584,6 +21738,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974843024",
+   "title": "Halloween Flying Witch Mugs - Set of 2",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/olney-halloween-flying-witch-mugs-set/34wAjYyu94YeVQUXVHaiSb",
+   "best": "eBay",
+   "med": 26,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7948156780",
    "title": "Vintage Blue Enamel Earrings",
    "price": 31,
@@ -23439,6 +23604,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-vintage-80s-black-gold/cBXHR5h2UyfW4u7dqwMoJY",
    "best": "Craigslist",
    "med": 22,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933351739",
+   "title": "STAR WARS LOT OF 24 ACTION FIGURES",
+   "price": 50,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/new-paltz-star-wars-lot-of-24-action/wTVsLp9gZgASeYPkSmjQip",
+   "best": "eBay",
+   "med": 55,
    "ratio": 1.1,
    "ai_value": ""
   },
@@ -27304,6 +27480,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978011537",
+   "title": "Vintage 1993 Signed Gail Pittman floral design pitcher/bowl set",
+   "price": 35,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-vintage-1993-signed-gail/fGuGXZgzrW8c4BHh2NuaqE",
+   "best": "Poshmark",
+   "med": 24,
+   "ratio": 0.69,
+   "ai_value": ""
+  },
+  {
    "pid": "7957425146",
    "title": "Vintage Rhinestone Austrian Brooch",
    "price": 125,
@@ -30318,6 +30505,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946664508",
+   "title": "Vintage Lead presidents 3 pcs",
+   "price": 47,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/depew-vintage-lead-presidents-pcs/wmwaJA1xbRMhuqR7M5iv66",
+   "best": "eBay",
+   "med": 14,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7983165459",
    "title": "Great Football Card Lot",
    "price": 75,
@@ -31249,6 +31447,17 @@
    "url": "https://www.craigslist.org/view/d/san-antonio-vintage-coca-cola-framed-ad/76XzDTayD3pszFoACrwtAT",
    "best": "Etsy",
    "med": 20,
+   "ratio": 0.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933946044",
+   "title": "POLISHED 925 SILVER ring",
+   "price": 135,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-polished-925-silver-ring/nLWk93r6egkeJmoCXW6xDD",
+   "best": "Noihsaf Bazaar",
+   "med": 15,
    "ratio": 0.11,
    "ai_value": ""
   },
@@ -32535,6 +32744,17 @@
    "area": "asheville",
    "url": "https://www.craigslist.org/view/d/asheville-vintage-aztec-style-ceramic/nJv4UrTvCQYyH9AC53Hvi6",
    "best": "Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983895695",
+   "title": "88 Vintage Hallmark Christmas Ornament Collection Santa Tree Reindeer",
+   "price": 100,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/toms-river-88-vintage-hallmark/3ALSap3FQzurgPQP7RVYmq",
+   "best": "Craigslist",
    "med": null,
    "ratio": null,
    "ai_value": ""

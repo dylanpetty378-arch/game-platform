@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T14:27:28Z
+# Refurbish status — 2026-10-15T14:31:00Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8935 |
-| flagged | 2914 |
-| lensed | 869 |
-| queued | 678 |
+| flagged | 2934 |
+| lensed | 874 |
+| queued | 653 |
 | queued/relens | 485 |
 | decided/ask | 82 |
 | decided/kill | 49 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13783
-- lens: 11774
-- events: 37864
+- lens: 11799
+- events: 37889
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (2914)
+## Flagged by Lens, waiting for photo review (2934)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -156,6 +156,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00h0h_9vVRyzN8hf8_05r07g_300x300.jpg" width="120"> | 7945003497 | $14 | losangeles | [Banjo](https://www.craigslist.org/view/d/los-angeles-banjo/wxprHAScXho25Tre2cKobf) | Used Morgan Monroe OB-150 Natural Banjo Natural / Guitar Cen | 5000 | 357.14 |
 | <img src="https://images.craigslist.org/00l0l_8s81hZtcXMo_0sx0bC_300x300.jpg" width="120"> | 7976437500 | $1 | philadelphia | [Vintage Phoenix Ware](https://www.craigslist.org/view/d/pottstown-vintage-phoenix-ware/3Yk6G2yvPch5HBRV3htW5x) | Noritake Nippon Tea Set Blue White – Japanese Porcelain Set  | 353 | 353 |
 | <img src="https://images.craigslist.org/00z0z_49glNwuxP86_0t20CI_300x300.jpg" width="120"> | 7937626231 | $1 | boston | [GORGEOUS VINTAGE 14K GOLD JEWELRY & STERLING SILVE](https://www.craigslist.org/view/d/peabody-gorgeous-vintage-14k-gold/qF2X37LSdg7HNYP64D4thq) | Craigslist | 320 | 320 |
+| <img src="https://images.craigslist.org/01111_bp4qm46eKZ9_0lS0gE_300x300.jpg" width="120"> | 7938079495 | $25 | chicago | [Sterling Silver Ring size 9](https://www.craigslist.org/view/d/chicago-sterling-silver-ring-size/qktqSzYNuH6zGHPzD6wC2m) | eBay | 7995 | 319.8 |
 | <img src="https://images.craigslist.org/00808_6GNLXhkzaBi_0t20CI_300x300.jpg" width="120"> | 7959822936 | $20 | boston | [NECKLACE Butterfly](https://www.craigslist.org/view/d/west-roxbury-necklace-butterfly/34KgABNT8Z6DhvYq4ieivM) | Large Butterfly Pendant Necklace – Chelsea Pacifica | 5950 | 297.5 |
 | <img src="https://images.craigslist.org/00P0P_1sy6uhq8wCp_0lH0aA_300x300.jpg" width="120"> | 7982182176 | $15 | washingtondc | [Ladies Fashion Gold Rings sz 9 1/2](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-rings/p9DLHF6eavhfoXEL14gt7C) | Etsy | 4229 | 281.93 |
 | <img src="https://images.craigslist.org/00d0d_6JM1vpMNIgI_0bC0bC_300x300.jpg" width="120"> | 7972387107 | $55 | newyork | [D-Decorative Antique spoon ETC.](https://www.craigslist.org/view/d/forest-hills-decorative-antique-spoon/qnYj6FxdVYPn1zA4pVY1pu) | REED & BARTON LES SIX FLEURS STERLING SILVER 2 PC SALAD SERV | 14950 | 271.82 |
@@ -219,6 +220,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00w0w_1sV3ZFoH8Zw_0pO0jm_300x300.jpg" width="120"> | 7959036216 | $60 | nashville | [Gibson Guitars &  Bunch Of Other Stuff](https://www.craigslist.org/view/d/brentwood-gibson-guitars-bunch-of-other/v6uHNYK4AMY4aiVLySEAfx) | Carter Vintage Guitar | 4277 | 71.28 |
 | <img src="https://images.craigslist.org/00I0I_fZowFlsRjGF_0t20CI_300x300.jpg" width="120"> | 7942484163 | $100 | philadelphia | [Cartier bleu watch automatic 42mm](https://www.craigslist.org/view/d/richboro-cartier-bleu-watch-automatic/cGmFEyxuVUXphZLexpDFZo) | Cartier Ballon Bleu De Cartier Automatic Brand New ... | 6995 | 69.95 |
 | <img src="https://images.craigslist.org/00404_3ltCanLYVJW_05a03S_300x300.jpg" width="120"> | 7969750110 | $10 | denver | [Vintage Chinese Ginger Jar with Foo Dogs](https://www.craigslist.org/view/d/littleton-vintage-chinese-ginger-jar/q7JYfstAWBo8g2jroASJ2b) | Antique 19th Century Qing Dynasty Foo Dog Kamcheng ... | 695 | 69.5 |
+| <img src="https://images.craigslist.org/00C0C_5a5ZEb1u6iv_0hu0gi_300x300.jpg" width="120"> | 7933871811 | $25 | chicago | [NEW Sterling Ring](https://www.craigslist.org/view/d/chicago-new-sterling-ring/my8SzaNHFCM2aDUXPymHUr) | eBay | 1675 | 67 |
 | <img src="https://images.craigslist.org/01717_75tn3KA1dMb_0jm0pO_300x300.jpg" width="120"> | 7954502050 | $12 | washingtondc | [Fashion Gold Square Earrings](https://www.craigslist.org/view/d/centreville-fashion-gold-square-earrings/hUeJGrNdWawe7LeqPxe3XJ) | Robin Rotenier / Jewelry / Robin Rotenier 8k Yellow Gold ... | 788 | 65.67 |
 | <img src="https://images.craigslist.org/00l0l_fV5PN7DOyZQ_0CI0t2_300x300.jpg" width="120"> | 7949573802 | $1 | boston | [Vintage Silver Sugar Serving Tongs](https://www.craigslist.org/view/d/boston-vintage-silver-sugar-serving/9DdKqNMtKPBrbKmeWvBGkq) | Craigslist | 65 | 65 |
 | <img src="https://images.craigslist.org/00Q0Q_1llJBSaReh0_0t20CI_300x300.jpg" width="120"> | 7952430050 | $40 | slo | [Vintage RSC ring Blue stone with zirconia](https://www.craigslist.org/view/d/morro-bay-vintage-rsc-ring-blue-stone/nAyiXzKr9dVYBvaPQcCyyp) | eBay | 2600 | 65 |
@@ -258,5 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00Y0Y_ep0uo7jJq3N_0ra0mo_300x300.jpg" width="120"> | 7929677833 | $15 | chicago | [Vintage Danecraft 1/20 12k Gold Filled Earrings](https://www.craigslist.org/view/d/chicago-vintage-danecraft-gold-filled/bPEBpGBwLYtgXtvTswQogA) | Vintage 14k Gold Tapered Wide Band | 664 | 44.27 |
 | <img src="https://images.craigslist.org/00u0u_3A7VdgWroBo_0kI0t2_300x300.jpg" width="120"> | 7958130497 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/epXBtmnVkE6qFLNrGezXEg) | eBay | 3978 | 44.2 |
 | <img src="https://images.craigslist.org/00h0h_gdHDwwX5k9G_0lM0t2_300x300.jpg" width="120"> | 7974614568 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/puhGk1YDhXv4efAvcckoFi) | Galle Emile / eBay | 3978 | 44.2 |
-| <img src="https://images.craigslist.org/00w0w_10kIz4jlfNP_0t20CI_300x300.jpg" width="120"> | 7949369207 | $10 | honolulu | [Asian Vase](https://www.craigslist.org/view/d/honolulu-asian-vase/27vnYJ6yrf1qu9aPrFTuBg) | Cloisonne Enamel Flower and Pot design Chinese ... | 440 | 44 |
-| <img src="https://images.craigslist.org/01414_fKLIzDyhJTa_0rZ0t2_300x300.jpg" width="120"> | 7946095244 | $15 | desmoines | [Costume jewelry decorations earrings ring necklace](https://www.craigslist.org/view/d/urbandale-costume-jewelry-decorations/9JkThSmy7UTXsTR9YDoG9z) | Mixed Lot Pre-Owned Sterling Silver .925 Women's Jewelry ... | 650 | 43.33 |
