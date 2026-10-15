@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:48:14Z",
+ "updated": "2026-10-15T06:52:12Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11149,
-  "events": 36368,
+  "lens": 11174,
+  "events": 36393,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 503,
-  "flagged": 2418,
-  "lensed": 740
+  "queued": 478,
+  "flagged": 2436,
+  "lensed": 747
  },
  "last_harvests": [
   {
@@ -971,6 +971,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963921788",
+   "title": "Sterling silver size 7 ring",
+   "price": 65,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/cranford-sterling-silver-size-ring/qVt15gedoSPtS84ykyjZkJ",
+   "best": "His & Hers 18K RGP Rings Size 7 & 8.5 | eBay",
+   "med": 5733,
+   "ratio": 88.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7971641340",
    "title": "Gold Plated 15 inch Floral Necklace",
    "price": 10,
@@ -1188,6 +1199,17 @@
    "best": "Carter Vintage Guitar",
    "med": 4277,
    "ratio": 71.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942484163",
+   "title": "Cartier bleu watch automatic 42mm",
+   "price": 100,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/richboro-cartier-bleu-watch-automatic/cGmFEyxuVUXphZLexpDFZo",
+   "best": "Cartier Ballon Bleu De Cartier Automatic Brand New ...",
+   "med": 6995,
+   "ratio": 69.95,
    "ai_value": ""
   },
   {
@@ -2324,6 +2346,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956228249",
+   "title": "Two Vintage Pins",
+   "price": 10,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/princeton-two-vintage-pins/acNQHDTbs587KABvJUnn3U",
+   "best": "Wood Products for Sale up to 90% Off Retail: Poshmark",
+   "med": 225,
+   "ratio": 22.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7971493362",
    "title": "Vintage Blue & White Chinoiserie Planter",
    "price": 39,
@@ -3322,6 +3355,17 @@
    "best": "Edwardian Graduated Moonstone Cabochon and Gold Bar Link ...",
    "med": 2350,
    "ratio": 13.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960994199",
+   "title": "Sterling silver earrings with round crystal stones",
+   "price": 30,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-sterling-silver-earrings-with/2mjydpiUeFiQtbesxiL566",
+   "best": "Diamonique x Jennifer Miller \"Go Big or Go Home\" Earrings ...",
+   "med": 400,
+   "ratio": 13.33,
    "ai_value": ""
   },
   {
@@ -4491,6 +4535,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953917620",
+   "title": "Vintage landscape Painting",
+   "price": 60,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-landscape-painting/2cMZMFaYX5awB3jj5Tw5GJ",
+   "best": "Gold Framed Traditional Landscape Paintings - Etsy",
+   "med": 556,
+   "ratio": 9.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7983269466",
    "title": "12 kt gold filled scarab bracelet VINTAGE",
    "price": 30,
@@ -5180,6 +5235,17 @@
    "url": "https://www.craigslist.org/view/d/mckinleyville-antique-teapot/9r3Z1ReSGRY4o9zYTBY6ma",
    "best": "Etsy",
    "med": 150,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946034550",
+   "title": "1970's Vintage Slingerland 9x13 Tom",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/1970s-vintage-slingerland-9x13-tom/vMDYXL1cERpDvCgTMtrmZD",
+   "best": "Used Yamaha 3 Piece Stage Custom Natural Drum Kit Natural ...",
+   "med": 450,
    "ratio": 7.5,
    "ai_value": ""
   },
@@ -6900,6 +6966,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983722079",
+   "title": "Natural Turquoise Cuff Bracelet Sterling Silver.",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-natural-turquoise-cuff/3SQh7NEPY5xvyPsmVuBKpN",
+   "best": "Tibetan Turquoise Gemstone Bangle: Solid 925 Sterling Silver ...",
+   "med": 150,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -7549,6 +7626,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955350543",
+   "title": "10 Vintage Military Wine Decanter set of 10 George Washington 1789",
+   "price": 375,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-10-vintage-military-wine/iAXyYsHp6s1CjmzmbenAWG",
+   "best": "Nine Grenadier porcelain liquor bottles sold at auction on ...",
+   "med": 1627,
+   "ratio": 4.34,
+   "ai_value": ""
+  },
+  {
    "pid": "7983274071",
    "title": "7 Pair of Earrings - $3 to $6 each OR $23 All 7 Pair",
    "price": 3,
@@ -7786,6 +7874,17 @@
    "area": "sandiego",
    "url": "https://www.craigslist.org/view/d/vista-very-old-antique-japanese-bronze/qqfxswrrGAdCkBRay9XnbM",
    "best": "Invaluable.com",
+   "med": 275,
+   "ratio": 4.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936496750",
+   "title": "Navajo Wedding Pot  Signed Mana",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-navajo-wedding-pot-signed/24TBQ4RhNBXUibm5RowftE",
+   "best": "Mana Pottery Vintage Arizona Quail Wedding Vase - Etsy",
    "med": 275,
    "ratio": 4.23,
    "ai_value": ""
@@ -8286,6 +8385,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954822149",
+   "title": "Lot of 16 Collectible Vintage Dolls",
+   "price": 50,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/waxahachie-lot-of-16-collectible/8JmDcqSQSFyXiu8mmFNmMX",
+   "best": "Your Choice Vintage Porcelain Dolls From the 1990's Early ...",
+   "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -8381,6 +8491,17 @@
    "url": "https://www.craigslist.org/view/d/waterbury-earrings-pierced-ears/bruVTr2iaa3HP3WcEaDfML",
    "best": "Vintage Stud Earrings Sterling Silver 925 Western Oval ...",
    "med": 39,
+   "ratio": 3.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949581637",
+   "title": "Vintage James March Phillips Watercolor California",
+   "price": 500,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-james-march/fDHdrZGnVD8R1pv16E2AFh",
+   "best": "Michael Albertyn | CAPE WINE FARM | MutualArt",
+   "med": 1950,
    "ratio": 3.9,
    "ai_value": ""
   },
@@ -9459,6 +9580,17 @@
    "url": "https://www.craigslist.org/view/d/las-vegas-beautiful-vintage-handcrafted/g8wni5y8DTk2ESKcDwWstG",
    "best": "Certified Hand Carved Lavender Natural Myanmar Burma A Jade ...",
    "med": 329,
+   "ratio": 3.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945291068",
+   "title": "Vintage Navajo Brown Matrix Turquoise Pendant and Silver-Tone Chain",
+   "price": 205,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-navajo-brown-matrix/jWpNvqkCv1DHYzr8FHPhJG",
+   "best": "Turquoise & Sterling Silver Pendant - Randy Billy - Etsy",
+   "med": 675,
    "ratio": 3.29,
    "ai_value": ""
   },
@@ -10999,6 +11131,17 @@
    "url": "https://www.craigslist.org/view/d/palatine-vintage-hand-blown-glass/9SYXjNeyPB4jomEhcw3Jbp",
    "best": "Instagram",
    "med": 1099,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939561534",
+   "title": "Vintage gold tone mesh necklace and earrings",
+   "price": 60,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-gold-tone-mesh/1FVqGfEkY1mwGaPEgEip6k",
+   "best": "Cool Vtg Kramer Gold Tone Mesh Necklace & Drop Clip Earrings ...",
+   "med": 165,
    "ratio": 2.75,
    "ai_value": ""
   },
@@ -13962,6 +14105,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947765310",
+   "title": "VINTAGE SIGNED JOSEPH JOE VELAZQUEZ WESTERN COWBOY BRONZE SCULPTURE",
+   "price": 400,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/cave-creek-vintage-signed-joseph-joe/7bfEZ8FC5iB2o6gmzBPv6L",
+   "best": "Similar Items to Signed, Dated & Numbered Original Vintage ...",
+   "med": 800,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -15377,6 +15531,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-antique-18k-gold-hand-carved/6eXKbvjBYjcQP24AfrzoWr",
    "best": "eBay",
    "med": 500,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979669430",
+   "title": "Webster Sterling Silver .925 Vintage Baby Cup #22541",
+   "price": 60,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-webster-sterling-silver-925/fTSRE17BUtqdKvo2FTCcny",
+   "best": "Webster Sterling Silver .925 Vintage Baby Cup #22541 | eBay",
+   "med": 100,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -20507,6 +20672,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949689206",
+   "title": "Cross pendant and chain",
+   "price": 25,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-cross-pendant-and-chain/tKCM2z1366nTmxPXykhD1J",
+   "best": "Greek Cross Jewelry: Equal Arm Cross Necklaces & Pendants ...",
+   "med": 24,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7954817436",
    "title": "Vintage Fragonard Lot of 2 Brooches Porcelain Romantic Scene & Gold Tr",
    "price": 22,
@@ -24170,6 +24346,17 @@
    "ai_value": "Sold at Auction: Platzteller $37"
   },
   {
+   "pid": "7948084859",
+   "title": "Antique 1895 Waltham Pocket Watch",
+   "price": 450,
+   "area": "wheeling",
+   "url": "https://www.craigslist.org/view/d/martins-ferry-antique-1895-waltham/afPVwoDe8unXZX4UmhqPE5",
+   "best": "ANTIQUE HAMPDEN 18S ART DECO POCKET WATCH RUNS WELL EARLY ...",
+   "med": 220,
+   "ratio": 0.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7971364938",
    "title": "Jewelry lot",
    "price": 50,
@@ -27080,6 +27267,17 @@
    "area": "newjersey",
    "url": "https://www.craigslist.org/view/d/bergenfield-chicos-multi-strand-beaded/qY4X7MUJcTN9Pj5JJY1z6V",
    "best": "Chico's | Jewelry | Chicos Red And Black Necklace | Poshmark",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973118903",
+   "title": "Vintage Boho Coin Dangling Earrings ON SALE.",
+   "price": 5,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-boho-coin/6KCuyufiGHq2BNXGNdwmkh",
+   "best": "Jan Michaels Vintage Feel Jewelry",
    "med": null,
    "ratio": null,
    "ai_value": ""
