@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T22:09:07Z",
+ "updated": "2026-10-15T22:13:09Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 13024,
-  "events": 40217,
+  "lens": 13049,
+  "events": 40242,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 228,
-  "flagged": 3838,
-  "lensed": 1195
+  "queued": 203,
+  "flagged": 3853,
+  "lensed": 1205
  },
  "last_harvests": [
   {
@@ -2635,6 +2635,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951674335",
+   "title": "NECKLACES AND BRACELETS",
+   "price": 5,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-necklaces-and-bracelets/rY5xzpEWDYqZzd6QSMChmp",
+   "best": "LOT ESTATE SALE VINTAGE TREASURES, JEWELRY ...",
+   "med": 161,
+   "ratio": 32.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7934249959",
    "title": "Vintage Pendulum clock",
    "price": 100,
@@ -4879,6 +4890,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938380859",
+   "title": "Byers Choice Carolers",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wellesley-byers-choice-carolers/tXBmsRs2ufcuxFwpFZZ7kd",
+   "best": "Byers' Choice Ltd 1991 The Carolers, Boy Holding Photo of ...",
+   "med": 418,
+   "ratio": 13.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7976115480",
    "title": "house decor",
    "price": 100,
@@ -6404,6 +6426,17 @@
    "url": "https://www.craigslist.org/view/d/farmingville-fish-picture/n78D6p3DPvp4x6N5QpE1wm",
    "best": "Allposters",
    "med": 100,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984095675",
+   "title": "Lovely signed art",
+   "price": 50,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/north-falmouth-lovely-signed-art/fRagHbnx3cW8j14vpgedCp",
+   "best": "Candance Lovely Rare Signed Art Print \"Sea Shell Pink ...",
+   "med": 500,
    "ratio": 10,
    "ai_value": ""
   },
@@ -8608,6 +8641,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980335571",
+   "title": "Movado Museum Watch 87.45.882",
+   "price": 76,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/southampton-movado-museum-watch/d9P9qJnQjWWULEqcRT6qAB",
+   "best": "Vintage Movado Museum Swiss Made Gold + Black Sapphire ...",
+   "med": 495,
+   "ratio": 6.51,
+   "ai_value": ""
+  },
+  {
    "pid": "7948213899",
    "title": "Bottles Lot ~ Vintage",
    "price": 10,
@@ -9708,6 +9752,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957015037",
+   "title": "Vintage Hand-Engraved Copper Pitcher",
+   "price": 35,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/sterling-vintage-hand-engraved-copper/7aCGtWV9yTX7XGEZPkaf8q",
+   "best": "SOLD Vintage Hand-Engraved Copper Pitcher",
+   "med": 198,
+   "ratio": 5.66,
+   "ai_value": ""
+  },
+  {
    "pid": "7929876448",
    "title": "TWISTED HOOP 14K YELLOW GOLD EARRINGS",
    "price": 199,
@@ -10385,6 +10440,17 @@
    "area": "saltlakecity",
    "url": "https://www.craigslist.org/view/d/west-jordan-vintage-paolo-gucci-chunky/iAiNzrxnzzQUaega29FyCL",
    "best": "Vintage Paolo Gucci Clip On Earrings Goldtone Signed | eBay",
+   "med": 127,
+   "ratio": 5.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950840590",
+   "title": "Vintage Silver plate ladles, lot of 3",
+   "price": 25,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/babylon-vintage-silver-plate-ladles-lot/138dbMi4h59eGeGwqXev7f",
+   "best": "At Auction: Trio of Sterling Silver Ladles includes Georg Jensen",
    "med": 127,
    "ratio": 5.08,
    "ai_value": ""
@@ -12491,6 +12557,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947107512",
+   "title": "Zina designer sterling Silver bracelet",
+   "price": 85,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/south-san-francisco-zina-designer/3Ljs2vGFp5EPQXzSL8WrwU",
+   "best": "Windows Cuff Bracelet \u2013 Zina Beverly Hills",
+   "med": 350,
+   "ratio": 4.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7968569418",
    "title": "1800\u201ds era flatware",
    "price": 45,
@@ -13730,6 +13807,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-vtg-hand-painted-lacquer-pin/rFqERzMNL8JtynGt6uLesy",
    "best": "French Limoges Box \u201cblue Rose Elegance\u201d Petite Ring, Pill ...",
    "med": 74,
+   "ratio": 3.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978736769",
+   "title": "A framed floral painting",
+   "price": 50,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/monterey-framed-floral-painting/pAEwdoMyY5rFeVjhscCCWx",
+   "best": "Finished? Blue Bellflowers 16x20\u201d oil on canvas : r/oilpainting",
+   "med": 185,
    "ratio": 3.7,
    "ai_value": ""
   },
@@ -25053,6 +25141,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940659241",
+   "title": "Vintage Sifter and Spatula",
+   "price": 10,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/cumming-vintage-sifter-and-spatula/4hJceSBejZiWgSN2V2xkSt",
+   "best": "Vintage 1930's Bromwell's Flour Sifter Hand Crank Made in ...",
+   "med": 16,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -25390,6 +25489,17 @@
    "url": "https://www.craigslist.org/view/d/shawnee-vintage-mike-simplicio-navajo/mJ6wLYKLxuHGkNdZuAJAoZ",
    "best": "eBay",
    "med": 406,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980020913",
+   "title": "F style mandolin",
+   "price": 225,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/los-alamitos-style-mandolin/fXqYTUphk2R4LYT2gE1HCv",
+   "best": "Ibanez M522S F-Style Mandolin Brown Sunburst | Guitar Center",
+   "med": 350,
    "ratio": 1.56,
    "ai_value": ""
   },
@@ -28826,6 +28936,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980856599",
+   "title": "Persian Style Squat Kettle",
+   "price": 135,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-persian-style-squat-kettle/29BMDFjVJCV6HWsSK6Aa2k",
+   "best": "Antique Vtg Brass Footed Tea Kettle Gooseneck w/ Ornate ...",
+   "med": 169,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -32060,6 +32181,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930042379",
+   "title": "Vintage Lorus Rotating Mickey Mouse Watch",
+   "price": 40,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/jefferson-vintage-lorus-rotating-mickey/pfrEX7mdWuCLFhp33NsS5F",
+   "best": "Vintage Lorus By Seiko Mickey Mouse Watch Falling Mickey ...",
+   "med": 40,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -35074,6 +35206,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952682487",
+   "title": "D'Joy Indian Blue Moon Turquoise 925 Sterling Silver Size 7",
+   "price": 225,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-djoy-indian-blue-moon/p89iMD5WXMebX3jRcLymCq",
+   "best": "Men Turquoise Signet Ring, Minimalist Turquoise Ring, Hand ...",
+   "med": 165,
+   "ratio": 0.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7940114039",
    "title": "Sterling silver kokopelli earrings",
    "price": 40,
@@ -36720,6 +36863,17 @@
    "url": "https://www.craigslist.org/view/d/glenham-movado-watch/nVJQUAyYkXC8kHTFqnySUC",
    "best": "25+ Movado Roman Numerals Wristwatches for sale | Updated ...",
    "med": 176,
+   "ratio": 0.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978521027",
+   "title": "Borresen and Lassen Sterling Silver Leaf Brooch B&L Danish Modern",
+   "price": 95,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-borresen-and-lassen-sterling/7THtpTq1b7K1J7NsQTnzes",
+   "best": "Etsy",
+   "med": 56,
    "ratio": 0.59,
    "ai_value": ""
   },
@@ -40746,6 +40900,17 @@
    "url": "https://www.craigslist.org/view/d/roswell-lot-of-vintage-vogue-hat/bbvF6CEwrN6XHoXvawLjvb",
    "best": "Vintage 40s Vogue 7464 Hats Millinery Fascinator UNCUT ...",
    "med": 15,
+   "ratio": 0.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954288148",
+   "title": "Huge Old Sewing Lot - $100 Total",
+   "price": 100,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-huge-old-sewing-lot-total/6o2u27VRhsTNhKGHzted3P",
+   "best": "Woven Wicker Sewing Basket Antique/Vintage Brown Round ...",
+   "med": 9,
    "ratio": 0.09,
    "ai_value": ""
   },
