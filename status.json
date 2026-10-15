@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:47:48Z",
+ "updated": "2026-10-15T07:51:42Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11524,
-  "events": 36743,
+  "lens": 11549,
+  "events": 36768,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 128,
-  "flagged": 2708,
-  "lensed": 825
+  "queued": 103,
+  "flagged": 2724,
+  "lensed": 834
  },
  "last_harvests": [
   {
@@ -718,6 +718,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948088780",
+   "title": "Wall painting",
+   "price": 1,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-wall-painting/sd158AQEMvfA2VXvJVZ2z8",
+   "best": "Framed Print Golden evening gondola | Home Decor for sale on ...",
+   "med": 229,
+   "ratio": 229,
+   "ai_value": ""
+  },
+  {
    "pid": "7949999968",
    "title": "2 POCKET WATCHES",
    "price": 1,
@@ -990,6 +1001,17 @@
    "best": "MT465 Vintage Red Ceramic Watch Tower Teapot Swords And ...",
    "med": 995,
    "ratio": 99.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948536907",
+   "title": "Green Pendant Necklace",
+   "price": 18,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-green-pendant-necklace/jtPaouY9MjYDG2pRRqvZ5q",
+   "best": "Vintage Large Cloisonn\u00e9 Yellow Green Heart Beaded Jade ...",
+   "med": 1750,
+   "ratio": 97.22,
    "ai_value": ""
   },
   {
@@ -4227,6 +4249,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929086627",
+   "title": "Wood sculpture man and two children",
+   "price": 70,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-wood-sculpture-man-and-two/nuFNxHaLQt5ZQBZrtt7cWb",
+   "best": "Antique - Vintage Chinese Old Man Fisherman Fish Hand Carved ...",
+   "med": 800,
+   "ratio": 11.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7964202927",
    "title": "Vintage Bogoff Jewelry Set - Excellent Condition!",
    "price": 70,
@@ -7032,6 +7065,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966651161",
+   "title": "Sterling Kirk Stieff Perfume Atomizer",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/riverdale-sterling-kirk-stieff-perfume/tFkEbCSj6CV6pww8maZgxW",
+   "best": "MAISON ASRAR Unisex Future Collection Vision EDP Spray 3.4 ...",
+   "med": 275,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7946477212",
    "title": "Turquoise Indian Pendant",
    "price": 150,
@@ -9661,6 +9705,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947869587",
+   "title": "Vtg hand painted lacquer pin/brooch",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vtg-hand-painted-lacquer-pin/rFqERzMNL8JtynGt6uLesy",
+   "best": "French Limoges Box \u201cblue Rose Elegance\u201d Petite Ring, Pill ...",
+   "med": 74,
+   "ratio": 3.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7940918247",
    "title": "Vintage Ceramic Peace Sign Pendant",
    "price": 30,
@@ -11179,6 +11234,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975559550",
+   "title": "Vintage Mid Century Rooster dinnerware",
+   "price": 22,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/plainfield-vintage-mid-century-rooster/khdBoAYg9LGAVGhejMPrW7",
+   "best": "Early Children's pottery dishes (6) pieces | eBay",
+   "med": 67,
+   "ratio": 3.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7964377131",
    "title": "Decorative Vintage Bowl Made in Italy",
    "price": 100,
@@ -12103,6 +12169,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942457036",
+   "title": "Vintage Bronze Hindu Deity",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-bronze-hindu-deity/etzHMQ69oKfsNWHHVE3hZ2",
+   "best": "Hindu Goddess Shiva Nataraja Dancing Statue VINTAGE BRONZE ...",
+   "med": 210,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7945601047",
    "title": "Citizen Eco-Drive Watch",
    "price": 50,
@@ -12484,6 +12561,17 @@
    "url": "https://www.craigslist.org/view/d/honolulu-mens-silver-turquoise-ring/2PcfGnp9WJSR7rbrfHF6iy",
    "best": "eBay",
    "med": 160,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968561402",
+   "title": "8\" x 7.5\" Vintage Orange Homer Laughlin Fiestaware Handled Carafe",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-x-75-vintage-orange-homer/gPmM1EqVdeDn8YbKLYMK8H",
+   "best": "VTG Retro Fiestaware PINK PITCHER 1997 Great Color Flamingo ...",
+   "med": 80,
    "ratio": 2.67,
    "ai_value": ""
   },
@@ -13199,6 +13287,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-vintage-24-chinese-peacock/frunAxrW7wytPJG5DmPGJP",
    "best": "Craigslist",
    "med": 550,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954213193",
+   "title": "Vintage Cast Iron Doorstops",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-cast-iron/cfh8k1qZPdWvLmL8nFRZ9e",
+   "best": "Antique Cast Iron Hubley Door Stop Flower Basket Vintage | eBay",
+   "med": 125,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -14816,6 +14915,17 @@
    "url": "https://www.craigslist.org/view/d/wadsworth-girl-bathing/1vaE9XcGKgmzaRQMge9do4",
    "best": "nga.gov",
    "med": 105,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949234608",
+   "title": "Asian Vase",
+   "price": 20,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-asian-vase/f2jjrBaYd6CqVnC5iYZBre",
+   "best": "8\" Toyo Japan Vase Peony W/Gold Trim | eBay",
+   "med": 42,
    "ratio": 2.1,
    "ai_value": ""
   },
@@ -17236,6 +17346,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-goldtone-necklace-with-pairs/qnv5JSpyVuV2kafaHhxLRo",
    "best": "Nextdoor",
    "med": 20,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981971042",
+   "title": "Native American Series Alaskan doll",
+   "price": 15,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-native-american-series/7sPqLhM5DrFyB7qLaWGYsE",
+   "best": "Antique Inuit Eskimo Doll, Felt Costume With Fur Trim, Open ...",
+   "med": 25,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -22916,6 +23037,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963147332",
+   "title": "Set of 3 Parker Jotters: 60's-70's vintage",
+   "price": 95,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-anselmo-set-of-parker-jotters-60s/iJRV6WLC27i5Ak5UKSjETS",
+   "best": "Parker Vintage 51/21 Aerometric Red Fountain Pen | eBay",
+   "med": 92,
+   "ratio": 0.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7936224576",
    "title": "Bling ring fashion lot",
    "price": 100,
@@ -25534,6 +25666,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7931470065",
+   "title": "Vintage collection of Cufflinks & Tie Tacs",
+   "price": 30,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/south-elgin-vintage-collection-of/g6aiSybsT2kuZxENryWtgK",
+   "best": "Mens Vintage Cufflinks Cuff Links #22 Hickok Brown Pink ...",
+   "med": 20,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960592598",
+   "title": "Vintage Ahwanhee Hotel Creamer",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-ahwanhee-hotel/7ANx9dD6M5cEXx6x6BSMJ9",
+   "best": "International Silver Co. Silver Soldered Conrad Hilton 8 Oz ...",
+   "med": 50,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7950732303",
    "title": "Sterling Silver Pearl Necklace",
    "price": 70,
@@ -27514,6 +27668,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971221787",
+   "title": "Old license plates (set of 14)",
+   "price": 95,
+   "area": "eauclaire",
+   "url": "https://www.craigslist.org/view/d/chippewa-falls-old-license-plates-set/g5ZgxGs24qMMy26h33SaLh",
+   "best": "Florida Motorcycle License Plate Replacement | Law Fran",
+   "med": 40,
+   "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7939109606",
    "title": "Men\u2019s watch unknown brand need help identifying it",
    "price": 123,
@@ -28324,6 +28489,17 @@
    "url": "https://www.craigslist.org/view/d/san-antonio-vintage-aztec-mayan-clay/5W3FqgvCRcD9cQaUxdLJR3",
    "best": "eBay",
    "med": 26,
+   "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931584096",
+   "title": "Vintage Framed & Signed Large Light Floral Bouquet Oil Painting",
+   "price": 350,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/palatine-vintage-framed-signed-large/mzBjPLMyadb1zov1gnyjda",
+   "best": "Vintage Framed Floral Oil Painting by Rossy - Etsy",
+   "med": 92,
    "ratio": 0.26,
    "ai_value": ""
   },

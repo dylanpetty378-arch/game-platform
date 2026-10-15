@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T07:47:48Z
+# Refurbish status — 2026-10-15T07:51:42Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2708 |
-| lensed | 825 |
+| flagged | 2724 |
+| lensed | 834 |
 | queued/relens | 485 |
-| queued | 128 |
+| queued | 103 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | expired | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 13
 - searches: 3068
 - listings: 12983
-- lens: 11524
-- events: 36743
+- lens: 11549
+- events: 36768
 - comps: 2758
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2708)
+## Flagged by Lens, waiting for photo review (2724)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -164,6 +164,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00d0d_6JM1vpMNIgI_0bC0bC_300x300.jpg" width="120"> | 7972387107 | $55 | newyork | [D-Decorative Antique spoon ETC.](https://www.craigslist.org/view/d/forest-hills-decorative-antique-spoon/qnYj6FxdVYPn1zA4pVY1pu) | REED & BARTON LES SIX FLEURS STERLING SILVER 2 PC SALAD SERV | 14950 | 271.82 |
 | <img src="https://images.craigslist.org/00505_jhO85EvhP1W_0CI0t2_300x300.jpg" width="120"> | 7931649699 | $3 | philadelphia | [Hearts  - Small Assorted Pendants- 3 Designs  -2 w](https://www.craigslist.org/view/d/philadelphia-hearts-small-assorted/t4vBPpSABRfFxMFz1qPGxS) | 14k Yellow Gold Heart Filigree Diamond Pendant Pendant 1.16  | 778 | 259.33 |
 | <img src="https://images.craigslist.org/01515_7inXI1teY2r_0MM132_300x300.jpg" width="120"> | 7945970858 | $1 | houston | [Vintage Elgin Self Winding 17 Jewel Diamond Men's ](https://www.craigslist.org/view/d/houston-vintage-elgin-self-winding-17/pKxq1wzLrAz1dZMVW9RCoz) | Craigslist | 249 | 249 |
+| <img src="https://images.craigslist.org/00c0c_gNFKKvrNwSp_0t20CI_300x300.jpg" width="120"> | 7948088780 | $1 | lasvegas | [Wall painting](https://www.craigslist.org/view/d/las-vegas-wall-painting/sd158AQEMvfA2VXvJVZ2z8) | Framed Print Golden evening gondola / Home Decor for sale on | 229 | 229 |
 | <img src="https://images.craigslist.org/00A0A_heHGVKhQNzF_0CI0t2_300x300.jpg" width="120"> | 7949999968 | $1 | philadelphia | [2 POCKET WATCHES](https://www.craigslist.org/view/d/modena-pocket-watches/t6W8hj4opsv6JpCB5r6krg) | Antique Elgin Pocket Watch 1910 7J Open face 18s Silveroid . | 220 | 220 |
 | <img src="https://images.craigslist.org/00v0v_4EcgrjmPdHC_0lM0t2_300x300.jpg" width="120"> | 7983290109 | $50 | atlanta | [Light Amber from Baltic](https://www.craigslist.org/view/d/tucker-light-amber-from-baltic/oJU8kEdsKno1fqfaRNrL6E) | Vintage Natural Baltic Butterscotch Amber Necklace with 14K  | 9746 | 194.92 |
 | <img src="https://images.craigslist.org/00z0z_eUfXbJcGWKm_0CI0t2_300x300.jpg" width="120"> | 7949539876 | $10 | sfbay | [BEAUTIFUL ORIGINAL PAINTING](https://www.craigslist.org/view/d/discovery-bay-beautiful-original/aSWW5x3LcnQKp1wEAE3tkc) | Norwalk, Rowayton Artists Honored In Brushwork Exhibition .. | 1895 | 189.5 |
@@ -189,6 +190,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00M0M_bzo0tdRUZE6_0vQ0t2_300x300.jpg" width="120"> | 7983294150 | $20 | portland | [Large Face Mug Vase Studio Pottery Signed](https://www.craigslist.org/view/d/vancouver-large-face-mug-vase-studio/8mxh4LnF7ACohdYZC82icA) | Craigslist | 2010 | 100.5 |
 | <img src="https://images.craigslist.org/00404_3J4Iak3uO15_0CI0lN_300x300.jpg" width="120"> | 7979672226 | $80 | lasvegas | [Vintage FAKE Fender Jaguar COPY](https://www.craigslist.org/view/d/las-vegas-vintage-fake-fender-jaguar/mvmFN3ECCbnonK6ZWfcyua) | 1959 Vintage Fender Jazzmaster BODY / Reverb The Netherlands | 8000 | 100 |
 | <img src="https://images.craigslist.org/00z0z_7RsWle2O7md_0jt0gU_300x300.jpg" width="120"> | 7983248475 | $10 | daytona | [Vintage - (New) Chinese Tea Pot](https://www.craigslist.org/view/d/deland-vintage-new-chinese-tea-pot/kzwBuugbzEKfWy74M1noCz) | MT465 Vintage Red Ceramic Watch Tower Teapot Swords And ... | 995 | 99.5 |
+| <img src="https://images.craigslist.org/00101_ilMZZ5xDp9b_07K0ak_300x300.jpg" width="120"> | 7948536907 | $18 | newyork | [Green Pendant Necklace](https://www.craigslist.org/view/d/new-york-green-pendant-necklace/jtPaouY9MjYDG2pRRqvZ5q) | Vintage Large Cloisonné Yellow Green Heart Beaded Jade ... | 1750 | 97.22 |
 | <img src="https://images.craigslist.org/00101_5LXc3XXewoF_0t20CI_300x300.jpg" width="120"> | 7979444442 | $5 | fortwayne | [Horseshoe Clover Jewelry Charm](https://www.craigslist.org/view/d/south-bend-horseshoe-clover-jewelry/n4nDmrjhv3mTLUZ7Yw8G3r) | Your Trusted Source for Jewelry - Pendants & Necklaces ... | 480 | 96 |
 | <img src="https://images.craigslist.org/00r0r_3U0aZ72p2Kz_0CI0t2_300x300.jpg" width="120"> | 7968030888 | $1 | lasvegas | [Vintage Handmade Lot 18 Costume Jewelry Rings Neck](https://www.craigslist.org/view/d/las-vegas-vintage-handmade-lot-18/eJgavmjhpbFBdMGL6MjWms) | Vintage to Now Wearable Costume Jewelry Necklaces Bracelets  | 93 | 93 |
 | <img src="https://images.craigslist.org/00v0v_57ZwpC4X5yx_0CI0t2_300x300.jpg" width="120"> | 7981923351 | $1 | philadelphia | [Old Bisque Figure](https://www.craigslist.org/view/d/collegeville-old-bisque-figure/oCp2Zp8Y9vfzrofjDV22Cy) | Craigslist | 90 | 90 |
@@ -261,5 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00Y0Y_kIukw0kyF8U_0t20CI_300x300.jpg" width="120"> | 7950806808 | $25 | slo | [Vintage Gold tone black onyx ring](https://www.craigslist.org/view/d/morro-bay-vintage-gold-tone-black-onyx/1qBvU5sX6YxUg9X4uXkyv4) | NYJEWEL 14k Two Tone Gold Large Black Onyx 3ct Diamond Ring  | 1038 | 41.52 |
 | <img src="https://images.craigslist.org/00Z0Z_1LUhptDdWLa_0CI0t2_300x300.jpg" width="120"> | 7942143626 | $20 | losangeles | [ganesha bookends](https://www.craigslist.org/view/d/panorama-city-ganesha-bookends/a2PCVCTdkGGqonWQkTYMWF) | Double Sided Corundum Ruby Ganesha Statue / Spiritual Altar  | 830 | 41.5 |
 | <img src="https://images.craigslist.org/00h0h_ramc6vwbeP_0CI0t2_300x300.jpg" width="120"> | 7983713769 | $40 | pittsburgh | [Vintage Framed Oil Painting /Artwork - Local Artis](https://www.craigslist.org/view/d/wexford-vintage-framed-oil-painting/tdQNVCaJ8wrc2Eq8CqDzqB) | Roger Deering / Mountain Cottage / MutualArt | 1649 | 41.23 |
-| <img src="https://images.craigslist.org/00X0X_RAxK1yQTJd_0mc0CI_300x300.jpg" width="120"> | 7949314282 | $100 | lasvegas | [Miami Cuban Link bracelet](https://www.craigslist.org/view/d/las-vegas-miami-cuban-link-bracelet/fou9XtS2ceyuQg8r6zurLa) | Miami Cuban Link Bracelet Thick 25 Mil Gold Filled... From . | 4044 | 40.44 |
-| <img src="https://images.craigslist.org/00Y0Y_gotp7NnBHVA_05r06m_300x300.jpg" width="120"> | 7941406369 | $75 | longisland | [Antique Oil Painting](https://www.craigslist.org/view/d/kings-park-antique-oil-painting/h4iE3V9ievpkUNNiFKPzs7) | Artist is 'E SENECA' - Anyone know of this artist? : r ... | 3000 | 40 |
