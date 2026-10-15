@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:55:36Z",
+ "updated": "2026-10-15T07:59:23Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11574,
-  "events": 36793,
+  "lens": 11599,
+  "events": 36818,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 78,
-  "flagged": 2741,
-  "lensed": 842
+  "queued": 53,
+  "flagged": 2758,
+  "lensed": 850
  },
  "last_harvests": [
   {
@@ -748,6 +748,17 @@
    "best": "Vintage Natural Baltic Butterscotch Amber Necklace with 14K ...",
    "med": 9746,
    "ratio": 194.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949916666",
+   "title": "Gold plated hammered dog tag cross",
+   "price": 40,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-gold-plated-hammered-dog-tag/k6A2r4h2LFgT4hdsj1B3j6",
+   "best": "Goldstyle \"Hammered Chic\" Gold Pendant (For Men) | Lukfook ...",
+   "med": 7600,
+   "ratio": 190,
    "ai_value": ""
   },
   {
@@ -1576,6 +1587,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969574151",
+   "title": "17.75\" Necklace Delicate Gold Tone",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-1775-necklace-delicate-gold-tone/rhCrZV8uFf1jwzvyDpCZuX",
+   "best": "Vintage Solid 14k Yellow Gold Box Chain Necklace - 23.75 ...",
+   "med": 745,
+   "ratio": 49.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7978102380",
    "title": "BARBARA  A. WOOD",
    "price": 44,
@@ -2299,6 +2321,17 @@
    "best": "Buy Vintage Sterling Silver Gemstone Jewelry Pendant Lot of ...",
    "med": 1067,
    "ratio": 26.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944945076",
+   "title": "After shock",
+   "price": 475,
+   "area": "palmsprings",
+   "url": "https://www.craigslist.org/view/d/palm-springs-after-shock/vpCPguFQuR5iHWJ2zajyy8",
+   "best": "African Tribal Mask Feathered Hand Carved Wood Ritual Wall ...",
+   "med": 12500,
+   "ratio": 26.32,
    "ai_value": ""
   },
   {
@@ -3420,6 +3453,17 @@
    "url": "https://www.craigslist.org/view/d/mc-farland-necklaces-new-to-each/ny7SA1kHoJCQ5rEnkt4PBz",
    "best": "4 Goldtone/Silvertone Chain Necklaces - Avon, Vendome | eBay",
    "med": 30,
+   "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981696278",
+   "title": "Montpelier Hunt Races Vintage Posters",
+   "price": 20,
+   "area": "charlottesville",
+   "url": "https://www.craigslist.org/view/d/montpelier-station-montpelier-hunt/tanSsGcUkPyDT1XLdsv8S6",
+   "best": "Arthur Sarnoff - Track Sloppy 1960s Horse Racing Signed - 17 ...",
+   "med": 300,
    "ratio": 15,
    "ai_value": ""
   },
@@ -5841,6 +5885,17 @@
    "best": "Vintage Porcelain Hand Painted Detailed Floral Table Lamp ...",
    "med": 299,
    "ratio": 7.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948161281",
+   "title": "Vintage Capped Tube Linked Jade Green Necklace",
+   "price": 150,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-capped-tube-linked/gMrDZo9TMqeQCrrSAxwFvs",
+   "best": "Vintage Capped Tube Linked Jade Green Necklace | eBay",
+   "med": 1116,
+   "ratio": 7.44,
    "ai_value": ""
   },
   {
@@ -10629,6 +10684,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978016709",
+   "title": "Key Motif Vintage Brooch Lapel Pin Gold Tone",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-key-motif-vintage-brooch-lapel/8vtysXqgEpGfxCamHzT53n",
+   "best": "1928 Jewelry Co. Gold Tone Skeleton Key Brooch Pin | eBay",
+   "med": 40,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7954961733",
    "title": "Vintage LONGINES Golf Dial Sub Seconds Men's Wristwatch",
    "price": 299,
@@ -14919,6 +14985,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941904522",
+   "title": "Two Antique Brass Plates",
+   "price": 175,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-two-antique-brass-plates/buQiK7JDarixmW348P2rAH",
+   "best": "Vintage Brass Decorative Plate with Embossed Floral Design ...",
+   "med": 372,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7949666488",
    "title": "Vintage Navajo Sterling Turquoise &  Coral Chip Inlay Size 4 3/4 Ring",
    "price": 50,
@@ -16019,6 +16096,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948162086",
+   "title": "Vintage Laurel Burch Blue Necklace",
+   "price": 49,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-city-vintage-laurel-burch-blue/bJbZTQast5Upff6kAXXLH6",
+   "best": "Laurel Burch | Jewelry | Vintage Laurel Burch Blue Necklace ...",
+   "med": 94,
+   "ratio": 1.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7947692053",
    "title": "Vintage GUCCI Watch sale",
    "price": 165,
@@ -16124,6 +16212,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/haverhill-vintage-garfield-hunting-and/7yD66Fx1XCDqHnsgCesDAn",
    "best": "Cousin Willies Stainless Steel Hunting & Fishing Knife with ...",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946815050",
+   "title": "Hess Truck Collection",
+   "price": 50,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/wappingers-falls-hess-truck-collection/56XEqCo1iJt5AUp5qsGmBb",
+   "best": "HESS TRUCK COLLECTION~With Miniature Collection~ Used But ...",
    "med": 95,
    "ratio": 1.9,
    "ai_value": ""
@@ -16437,6 +16536,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7965019701",
+   "title": "Sterling Silver Topaz Bracelet",
+   "price": 175,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-topaz/ciX4voWizfLxHYwjiawSSa",
+   "best": "Sterling Silver 925 Blue Topaz 46 GEMS Double Row Tennis ...",
+   "med": 324,
+   "ratio": 1.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955334500",
+   "title": "Vintage Ghurka Knife",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-ghurka-knife/rfNNadT5yfr8jpk656akwj",
+   "best": "Antique Nepalese Bhojpure Kukri Fighting Knife | eBay",
+   "med": 120,
+   "ratio": 1.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7945263965",
    "title": "Vintage Pendant Mostly Blue Colors, Sparkly Stones, Costume Jewelry",
    "price": 19,
@@ -16521,6 +16642,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-vintage-sterling-silver/6PzkEHSjzn5qTtRSXrzABh",
    "best": "Vintage Hoop Earrings Sterling Silver 925 With Clear Stones ...",
    "med": 110,
+   "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979740098",
+   "title": "Beautiful Navajo silver bracelet by E Bilagody",
+   "price": 290,
+   "area": "bellingham",
+   "url": "https://www.craigslist.org/view/d/bellingham-beautiful-navajo-silver/jvabUac6ZxDkYzE7bC5kFF",
+   "best": "Vintage Huge Sterling Silver Navajo Stamped Cuff Bangle 65.5 ...",
+   "med": 530,
    "ratio": 1.83,
    "ai_value": ""
   },
@@ -19770,6 +19902,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941109693",
+   "title": "Eiffel Tower",
+   "price": 75,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-eiffel-tower/4iDAqLyAc2Zpq25VGw5n3c",
+   "best": "Guy Dessapt 'Paris \u2013 La Tour Eiffel' Signed Framed Print ...",
+   "med": 102,
+   "ratio": 1.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7976417982",
    "title": "amber glass jugs",
    "price": 20,
@@ -20019,6 +20162,17 @@
    "url": "https://www.craigslist.org/view/d/alachua-vintage-silver-tone-filigree/5DJPYtaY5iaBDJzyj26AjG",
    "best": "Etsy",
    "med": 24,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930397880",
+   "title": "Greetings from GRACELAND Glass",
+   "price": 15,
+   "area": "waco",
+   "url": "https://www.craigslist.org/view/d/mexia-greetings-from-graceland-glass/hc71UcvnG4PvdhTiuGv5GT",
+   "best": "Miller Lite Beer Tall Stemmed Glass Super Bowl XXXII NFL | eBay",
+   "med": 20,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -21134,6 +21288,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954501979",
+   "title": "Pair Antique Lefton Japan Little Boy Blue and Pinkie 3D Wall Hangings",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/lakeville-pair-antique-lefton-japan/h3gX4A29P6SbJxsPy94AFR",
+   "best": "Rare Lefton Boy and Girl Set of Wall Hangings Perfect ...",
+   "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -21713,6 +21878,17 @@
    "url": "https://www.craigslist.org/view/d/burlington-sterling-silver-mens-bracelet/ouTniJanYJr42RkNE1CYBZ",
    "best": "Byzantine Bracelet Double Chain Solid Sterling Silver Woven ...",
    "med": 475,
+   "ratio": 1.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953172761",
+   "title": "Diamond praying hands earrings",
+   "price": 125,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-diamond-praying-hands/vb3obVGuyup5KGZ2prXqqw",
+   "best": "King of Bling's 0.20ct Diamond 925 Sterling White Silver for ...",
+   "med": 140,
    "ratio": 1.12,
    "ai_value": ""
   },
@@ -23044,6 +23220,17 @@
    "url": "https://www.craigslist.org/view/d/nordland-bob-ross-bobblehead/t8XZyYhTBDzMq7TeTJLARf",
    "best": "Bob Ross Bobblehead: With Sound! RP Minis | eBay",
    "med": 10,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983782007",
+   "title": "Vintage 1979 Historical Plushie Dolls",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wrentham-vintage-1979-historical/6aQ6WtxnvL51PT1caWUyc7",
+   "best": "Hallmark Cloth Dolls Mark Twain Clara Barton Davy Crockett ...",
+   "med": 30,
    "ratio": 1,
    "ai_value": ""
   },

@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T07:55:36Z
+# Refurbish status — 2026-10-15T07:59:23Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,11 +7,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2741 |
-| lensed | 842 |
+| flagged | 2758 |
+| lensed | 850 |
 | queued/relens | 485 |
 | decided/ask | 85 |
-| queued | 78 |
+| queued | 53 |
 | decided/kill | 40 |
 | expired | 17 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 13
 - searches: 3068
 - listings: 12983
-- lens: 11574
-- events: 36793
+- lens: 11599
+- events: 36818
 - comps: 2758
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2741)
+## Flagged by Lens, waiting for photo review (2758)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -167,6 +167,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00c0c_gNFKKvrNwSp_0t20CI_300x300.jpg" width="120"> | 7948088780 | $1 | lasvegas | [Wall painting](https://www.craigslist.org/view/d/las-vegas-wall-painting/sd158AQEMvfA2VXvJVZ2z8) | Framed Print Golden evening gondola / Home Decor for sale on | 229 | 229 |
 | <img src="https://images.craigslist.org/00A0A_heHGVKhQNzF_0CI0t2_300x300.jpg" width="120"> | 7949999968 | $1 | philadelphia | [2 POCKET WATCHES](https://www.craigslist.org/view/d/modena-pocket-watches/t6W8hj4opsv6JpCB5r6krg) | Antique Elgin Pocket Watch 1910 7J Open face 18s Silveroid . | 220 | 220 |
 | <img src="https://images.craigslist.org/00v0v_4EcgrjmPdHC_0lM0t2_300x300.jpg" width="120"> | 7983290109 | $50 | atlanta | [Light Amber from Baltic](https://www.craigslist.org/view/d/tucker-light-amber-from-baltic/oJU8kEdsKno1fqfaRNrL6E) | Vintage Natural Baltic Butterscotch Amber Necklace with 14K  | 9746 | 194.92 |
+| <img src="https://images.craigslist.org/01414_3XnEqlRrdFv_0t20CI_300x300.jpg" width="120"> | 7949916666 | $40 | slo | [Gold plated hammered dog tag cross](https://www.craigslist.org/view/d/morro-bay-gold-plated-hammered-dog-tag/k6A2r4h2LFgT4hdsj1B3j6) | Goldstyle "Hammered Chic" Gold Pendant (For Men) / Lukfook . | 7600 | 190 |
 | <img src="https://images.craigslist.org/00z0z_eUfXbJcGWKm_0CI0t2_300x300.jpg" width="120"> | 7949539876 | $10 | sfbay | [BEAUTIFUL ORIGINAL PAINTING](https://www.craigslist.org/view/d/discovery-bay-beautiful-original/aSWW5x3LcnQKp1wEAE3tkc) | Norwalk, Rowayton Artists Honored In Brushwork Exhibition .. | 1895 | 189.5 |
 | <img src="https://images.craigslist.org/00G0G_hF0V4Oh05sr_0r90hq_300x300.jpg" width="120"> | 7973797344 | $45 | boston | [Bijou Earrings, Sterling 925 Italy, Vintage](https://www.craigslist.org/view/d/natick-bijou-earrings-sterling-925/3tk9PiJvYqLMLKPtaRMFAX) | Vintage bijou earrings - Auction IMPORTANT WATCHES AND FINE  | 8000 | 177.78 |
 | <img src="https://images.craigslist.org/00z0z_fIwhtjT3lm5_0CI0hq_300x300.jpg" width="120"> | 7972979781 | $35 | boise | [BRIGHTON Meridian Petite Prime Bracelet](https://www.craigslist.org/view/d/boise-brighton-meridian-petite-prime/cN7nY6DFh2z9HUZS2GrkpW) | Brighton Meridian Petite Bracelet / eBay | 6200 | 177.14 |
@@ -242,6 +243,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00j0j_8Q73XFjhqrJ_0t20CI_300x300.jpg" width="120"> | 7931909724 | $20 | santabarbara | [Gold pocket watch](https://www.craigslist.org/view/d/summerland-gold-pocket-watch/g8xCckmuaPkLBZaNrSSioq) | 1975 Vintage Wittnauer Gold Plated Pocket Watch Floral ... | 1039 | 51.95 |
 | <img src="https://images.craigslist.org/00r0r_iN3GdUdZIki_0t20CI_300x300.jpg" width="120"> | 7935589650 | $25 | sfbay | [Vase](https://www.craigslist.org/view/d/san-jose-vase/dwD54QdacBQWA1BwDXecKY) | Signed Lithograph "Spirit Horse" by Artist Woody Crumbo for  | 1286 | 51.44 |
 | <img src="https://images.craigslist.org/00M0M_6BSYpIesxih_0oZ0hq_300x300.jpg" width="120"> | 7974837603 | $10 | boston | [Vintage Black signet type ring, 6.5](https://www.craigslist.org/view/d/natick-vintage-black-signet-type-ring-65/oAV6wukp4Qm77AiLv4rbDt) | Etsy | 502 | 50.2 |
+| <img src="https://images.craigslist.org/01717_cE7YgIsmTRk_0h70t2_300x300.jpg" width="120"> | 7969574151 | $15 | boise | [17.75" Necklace Delicate Gold Tone](https://www.craigslist.org/view/d/boise-1775-necklace-delicate-gold-tone/rhCrZV8uFf1jwzvyDpCZuX) | Vintage Solid 14k Yellow Gold Box Chain Necklace - 23.75 ... | 745 | 49.67 |
 | <img src="https://images.craigslist.org/00U0U_4WNy0iyjRJE_0CI0t2_300x300.jpg" width="120"> | 7978102380 | $44 | ventura | [BARBARA  A. WOOD](https://www.craigslist.org/view/d/ventura-barbara-wood/qR1ev4uaW5QTBdvUZaPpJD) | Barbara Wood / BARBARA A WOOD Signed Portrait Curly Haired . | 2178 | 49.5 |
 | <img src="https://images.craigslist.org/00H0H_4xHBlDprahh_0t20CI_300x300.jpg" width="120"> | 7929354406 | $100 | sandiego | [native art](https://www.craigslist.org/view/d/san-diego-native-art/6stBFvHFUaVaHnxKfkokDX) | Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ... | 4800 | 48 |
 | <img src="https://images.craigslist.org/00w0w_2xh8nJnsEDR_0t20CI_300x300.jpg" width="120"> | 7939244058 | $12 | boise | [Necklace with Cuff Bracelet all for $12](https://www.craigslist.org/view/d/boise-necklace-with-cuff-bracelet-all/8ZpStnzbF9RPWF2p8hG6gD) | 🛵Хүргэлт үнэгүй /А бүсэд/ 💥Үнэ: 59000 💫14k алтан бүрмэл ... | 568 | 47.33 |
@@ -261,5 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00I0I_hl0J72Gzscc_0t20CI_300x300.jpg" width="120"> | 7945774545 | $35 | seattle | [Vintage Sterling Silver & CZ Eternity Ring](https://www.craigslist.org/view/d/olympia-vintage-sterling-silver-cz/pTPEHBJkHavenmt7D4ke3e) | Etsy | 1516 | 43.31 |
 | <img src="https://images.craigslist.org/00h0h_d4JZLiALhIE_0iE0j0_300x300.jpg" width="120"> | 7948313336 | $40 | charlotte | [Iced Out Cuban & Coffee Link Bracelet](https://www.craigslist.org/view/d/charlotte-iced-out-cuban-coffee-link/21PMcxKXUXfo6o9KQn4oiD) | Apzzic 17mm Miami Cuban Link Chain Bling Iced Out Coffee ... | 1697 | 42.42 |
 | <img src="https://images.craigslist.org/00303_766NlesEsPf_0t20CI_300x300.jpg" width="120"> | 7955279212 | $20 | sanantonio | [Vintage African Tribal Artwork](https://www.craigslist.org/view/d/san-antonio-vintage-african-tribal/muiiFCA1FjZNVDVurF4ggQ) | JOAN SIMPSON AFRICAN AMERICAN PEOPLE LARGE GICLEE ON CANVAS  | 847 | 42.35 |
-| <img src="https://images.craigslist.org/00k0k_io38ZMkB5xl_0lR0t2_300x300.jpg" width="120"> | 7954590338 | $50 | cleveland | [Navajo Sterling Bear Pendant](https://www.craigslist.org/view/d/chagrin-falls-navajo-sterling-bear/dmnDRK72MH1GcNood9DBs5) | amuleta navajo - Spirit Bear - argint & gold filled - Robert | 2100 | 42 |
-| <img src="https://images.craigslist.org/00Y0Y_kIukw0kyF8U_0t20CI_300x300.jpg" width="120"> | 7950806808 | $25 | slo | [Vintage Gold tone black onyx ring](https://www.craigslist.org/view/d/morro-bay-vintage-gold-tone-black-onyx/1qBvU5sX6YxUg9X4uXkyv4) | NYJEWEL 14k Two Tone Gold Large Black Onyx 3ct Diamond Ring  | 1038 | 41.52 |
