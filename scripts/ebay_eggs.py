@@ -83,6 +83,10 @@ def sheetpool():
     now = datetime.datetime.now(datetime.timezone.utc).isoformat()
     seen = {k: v for k, v in seen.items() if (v or '') > now[:19]}
     out = [r for r in out if r['pid'] not in seen]
+    # Drop auctions already ended or ending within 30 min — nothing can be done with them (Oct 15: a stale pool
+    # screened 3,573 auctions that had all ended).
+    soon = (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(minutes=30)).isoformat()[:19]
+    out = [r for r in out if (r.get('ends') or '9')[:19] > soon]
     for r in out: seen[r['pid']] = (r.get('ends') or '')[:19]
     json.dump(seen, open(sp, 'w'), separators=(',', ':'))
     d = f'/tmp/eye/{run}'; os.makedirs(d + '/th', exist_ok=True); json.dump(out, open(d + '/pool.json', 'w'))

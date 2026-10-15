@@ -38187,3 +38187,24 @@
 {"ts":"2026-10-15T15:20:10Z","pid":"7983879318","stage":"flagged","run":"lensworker-20261015-1515","note":"Lens names Gold, Jewelry, Trifari — title does not","data":{"med":70,"ratio":3.5,"mismatch":["Gold","Jewelry","Trifari"]}}
 {"ts":"2026-10-15T15:20:21Z","pid":"7968509274","stage":"lensed","run":"lensworker-20261015-1515","note":null,"data":{"med":48,"ratio":1.2,"mismatch":[]}}
 {"ts":"2026-10-15T15:20:29Z","pid":"7945607796","stage":"flagged","run":"lensworker-20261015-1515","note":"Lens names Collectible — title does not","data":{"med":24,"ratio":0.96,"mismatch":["Collectible"]}}
+{"pid":"ebay407275769514","stage":"queued","run":"ebay-20261015-1209","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay860023248958","stage":"queued","run":"ebay-20261015-1209","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay128122889796","stage":"queued","run":"ebay-20261015-1209","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay800772226055","stage":"queued","run":"ebay-20261015-1209","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay237114585878","stage":"queued","run":"ebay-20261015-1209","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay227558467108","stage":"queued","run":"ebay-20261015-1209","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay237114565367","stage":"queued","run":"ebay-20261015-1209","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay407275769514","stage":"flagged","run":"ebay-20261015-1209","by":"claude","note":"eye screen: Academic nude figure study on toned paper; could be 19th-c. atelier drawing","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay860023248958","stage":"flagged","run":"ebay-20261015-1209","by":"claude","note":"eye screen: Audubon Great Horned Owl plate; check for Bien/Havell edition, not reprint","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay128122889796","stage":"flagged","run":"ebay-20261015-1209","by":"claude","note":"eye screen: Japanese ink-painted hanging scroll, inscribed/sealed; Edo-period master hand would be $1,000+","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay800772226055","stage":"flagged","run":"ebay-20261015-1209","by":"claude","note":"eye screen: Blue iridescent vase with trailed threading; if Durand/Steuben-era American art glass, $1,000+","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay237114585878","stage":"flagged","run":"ebay-20261015-1209","by":"claude","note":"eye screen: Large graduated butterscotch/cherry beads; if natural Baltic amber, heavy strand $1,000+","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay227558467108","stage":"flagged","run":"ebay-20261015-1209","by":"claude","note":"eye screen: Multistrand red coral necklace plus bracelet; natural Mediterranean coral set $1,000+","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay237114565367","stage":"flagged","run":"ebay-20261015-1209","by":"claude","note":"eye screen: Avengers #13 (1965, 1st Count Nefaria) Silver Age; high grade $1,000+","data":{"eye":true},"ts":"2026-10-15T15:20:21Z"}
+{"pid":"ebay407275769514","stage":"photo_review","status":"kill","type":null,"note":"auction ended before screening (stale pool)","run":"ebay-20261015-1209","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:20:52Z"}
+{"pid":"ebay860023248958","stage":"photo_review","status":"kill","type":null,"note":"auction ended before screening (stale pool)","run":"ebay-20261015-1209","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:20:52Z"}
+{"pid":"ebay128122889796","stage":"photo_review","status":"kill","type":null,"note":"auction ended before screening (stale pool)","run":"ebay-20261015-1209","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:20:52Z"}
+{"pid":"ebay800772226055","stage":"photo_review","status":"kill","type":null,"note":"auction ended before screening (stale pool)","run":"ebay-20261015-1209","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:20:52Z"}
+{"pid":"ebay237114585878","stage":"photo_review","status":"kill","type":null,"note":"auction ended before screening (stale pool)","run":"ebay-20261015-1209","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:20:52Z"}
+{"pid":"ebay227558467108","stage":"photo_review","status":"kill","type":null,"note":"auction ended before screening (stale pool)","run":"ebay-20261015-1209","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:20:52Z"}
+{"pid":"ebay237114565367","stage":"photo_review","status":"kill","type":null,"note":"auction ended before screening (stale pool)","run":"ebay-20261015-1209","by":null,"data":{"verdict":"kill"},"ts":"2026-10-15T15:20:52Z"}
