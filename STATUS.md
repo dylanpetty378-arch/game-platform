@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T20:56:15Z
+# Refurbish status — 2026-10-15T20:59:57Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,13 +7,13 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3493 |
-| lensed | 1089 |
-| queued | 678 |
+| flagged | 3514 |
+| lensed | 1093 |
+| queued | 653 |
 | queued/relens | 486 |
-| decided/ask | 81 |
+| decided/ask | 80 |
 | decided/kill | 58 |
-| expired | 18 |
+| expired | 19 |
 | photo_review/ask | 17 |
 | decided/find | 9 |
 | comps/fail | 5 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14608
-- lens: 12574
-- events: 39542
+- lens: 12599
+- events: 39568
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -39,7 +39,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 - craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 
-## Finds and open leads (90)
+## Finds and open leads (89)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -74,7 +74,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00m0m_amvdvzDg1I8_0ik0t2_300x300.jpg" width="160"> | [1901 hamilton pocket watch](https://www.craigslist.org/view/d/lafayette-1901-hamilton-pocket-watch/jm2x1aextY8LaRmhhSVeTv) | $100 | boulder | **decided/ask** — Terapeak 365d sold: 1901-era Hamilton pocket watches median $310 (n=50). ~$146 profit at $100. ASK: runs, grade on movement, case marking. |
 | <img src="https://images.craigslist.org/00e0e_1k7pKbvYk1s_0ww0oo_300x300.jpg" width="160"> | [Vintage Sterling Silver Rings](https://www.craigslist.org/view/d/brooklyn-vintage-sterling-silver-rings/7opcM2GG2V3NKRHaoSbpZU) | $25 | newyork | **decided/ask** — Terapeak 365d sold: James Avery sterling ring lots median $150 (n=50). 5 rings for $100 → ~$180 if JA-marked. ASK inside-band hallmarks. |
 | <img src="https://images.craigslist.org/00C0C_bDTV3dzu2Ig_0kh0bI_300x300.jpg" width="160"> | [vintage souvenier spoons Italy](https://www.craigslist.org/view/d/westbrookville-vintage-souvenier-spoons/tJq6zEgeGKTfWrFr15efyL) | $50 | hudsonvalley | **decided/ask** — Terapeak 365d sold: Italian 800 silver souvenir spoons median $27 each (n=50). 7 for $50 → ~$90 if 800. ASK back stamps. |
-| <img src="https://images.craigslist.org/00U0U_id0sXmKkDvf_0CI0t2_300x300.jpg" width="160"> | [Old Coleman Empire Lantern](https://www.craigslist.org/view/d/bloomingdale-old-coleman-empire-lantern/nQFrLmBT5FsMtu4sNNumgf) | $15 | plattsburgh | **decided/ask** — Terapeak 365d sold: Coleman Empire lanterns median $137 (n=10). ~$74 profit at $15. ASK fount stamp. |
 | <img src="https://images.craigslist.org/00j0j_gWatcuQbPni_0lN0CI_300x300.jpg" width="160"> | [Blindstitch Embroidery 2 Pieces in Frames](https://www.craigslist.org/view/d/davis-blindstitch-embroidery-pieces-in/eoznSBtxnniqiPWZGqn536) | $1 | sacramento | **decided/ask** — Current-process redo: Terapeak antique Chinese embroidered silk panels median $100 (n=50), framed Qing $145 (n=10). Two panels at a $40 offer -> ~$104 profit. Ask back-of-frame photo and sizes. |
 | <img src="https://images.craigslist.org/00J0J_i6mwdgV585K_0iA0iA_300x300.jpg" width="160"> | [Gold, Sterling Silver, Pearls...WOW !](https://www.craigslist.org/view/d/santa-ana-gold-sterling-silver/pTmahqGrQPTcXhJdbdgmgK) | $1 | orangecounty | **decided/ask** — Terapeak 365d sold: 14K initial rings median $155 (n=50). Offer $40 → ~$71 profit. ASK gram weight + 14K stamp. |
 | <img src="https://images.craigslist.org/01616_miirjEaAih_0CI0t2_300x300.jpg" width="160"> | [5 Toby Royal Dalton Mugs](https://www.craigslist.org/view/d/rancho-mirage-toby-royal-dalton-mugs/gWXLQmkhKsV1YCD9kauTf7) | $40 | palmsprings | **decided/find** — Terapeak 365d sold: Royal Doulton large character jug lots $60–130; large jugs ~$40 each. 5 large (incl. Simple Simon D6374) for $40 → ~$90 profit. Fragile: double-box. |
@@ -134,7 +133,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
-## Flagged by Lens, waiting for photo review (3493)
+## Flagged by Lens, waiting for photo review (3514)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -143,6 +142,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00F0F_7Xv9MUQSatM_0CI0t2_300x300.jpg" width="120"> | 7950776553 | $1 | sandiego | [great interesting guitar collection](https://www.craigslist.org/view/d/descanso-great-interesting-guitar/thsSTn1HsTSbsXoGxvSMgp) | Made-in-China.com | 6759 | 6759 |
 | <img src="https://images.craigslist.org/00L0L_63tg40YZxM6_0MM132_300x300.jpg" width="120"> | 7983256881 | $1 | minneapolis | [large collection of lighting](https://www.craigslist.org/view/d/hugo-large-collection-of-lighting/88trK5tVVHmLJ6mn1fPwyg) | Vintage Shop | 2401 | 2401 |
 | <img src="https://images.craigslist.org/00p0p_kFxjqSYQ4n5_0CI0t2_300x300.jpg" width="120"> | 7950543714 | $1 | charlotte | [14K Gold Ladies Watches For Sale](https://www.craigslist.org/view/d/matthews-14k-gold-ladies-watches-for/xdnEJYtR9wC1KQdKqPf6Yz) | Ruby Lane | 1800 | 1800 |
+| <img src="https://images.craigslist.org/00l0l_kME14DEtzLT_0lM0t2_300x300.jpg" width="120"> | 7954167185 | $10 | cosprings | [Antique Goldtone Broach-Large](https://www.craigslist.org/view/d/colorado-springs-antique-goldtone/5ahRip254qwEjBrNroM2gd) | Estate 10k HEAVY Gold 24.2g Vintage Brooch Pin Custom OOAK . | 18000 | 1800 |
 | <img src="https://images.craigslist.org/00u0u_fRPOCRRLLFt_0CI0t2_300x300.jpg" width="120"> | 7965995400 | $10 | omaha | [Rings](https://www.craigslist.org/view/d/omaha-rings/77AbNdRX2i22gmSEq2DXoh) | Novi in rabljeni artikli naprodaj v kategoriji Rings ... | 17000 | 1700 |
 | <img src="https://images.craigslist.org/00l0l_1nDBWnON3RU_0t20t2_300x300.jpg" width="120"> | 7977695499 | $20 | ventura | [Genuine Citrine & Silvertone Necklace](https://www.craigslist.org/view/d/oak-park-genuine-citrine-silvertone/dNZuWZhqPmphLp87C6aPbY) | Oblong Quartz Charm - Etsy | 18951 | 947.55 |
 | <img src="https://images.craigslist.org/00000_6EgOTmHZlsD_0xE0t2_300x300.jpg" width="120"> | 7935764861 | $35 | charlotte | [Heidi Klum Silver Tone Wide Hinged Cuff Bracelet  ](https://www.craigslist.org/view/d/fort-mill-heidi-klum-silver-tone-wide/fzAZZt8g5SHjyHDpjhapVU) | Etsy | 30240 | 864 |
@@ -259,4 +259,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00F0F_6eiwbFDedWG_0sm0t2_300x300.jpg" width="120"> | 7945689868 | $1 | salem | [Vintage items misc items package lot](https://www.craigslist.org/view/d/stayton-vintage-items-misc-items/e7K8bfgPnhUQEM7heYuFu1) | eBay | 50 | 50 |
 | <img src="https://images.craigslist.org/01717_cE7YgIsmTRk_0h70t2_300x300.jpg" width="120"> | 7969574151 | $15 | boise | [17.75" Necklace Delicate Gold Tone](https://www.craigslist.org/view/d/boise-1775-necklace-delicate-gold-tone/rhCrZV8uFf1jwzvyDpCZuX) | Vintage Solid 14k Yellow Gold Box Chain Necklace - 23.75 ... | 745 | 49.67 |
 | <img src="https://images.craigslist.org/00U0U_4WNy0iyjRJE_0CI0t2_300x300.jpg" width="120"> | 7978102380 | $44 | ventura | [BARBARA  A. WOOD](https://www.craigslist.org/view/d/ventura-barbara-wood/qR1ev4uaW5QTBdvUZaPpJD) | Barbara Wood / BARBARA A WOOD Signed Portrait Curly Haired . | 2178 | 49.5 |
-| <img src="https://images.craigslist.org/00H0H_4xHBlDprahh_0t20CI_300x300.jpg" width="120"> | 7929354406 | $100 | sandiego | [native art](https://www.craigslist.org/view/d/san-diego-native-art/6stBFvHFUaVaHnxKfkokDX) | Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ... | 4800 | 48 |

@@ -39540,3 +39540,29 @@
 {"ts":"2026-10-15T20:55:31Z","pid":"7953970308","stage":"flagged","run":"lensworker-20261015-2048","note":"Lens names School — title does not","data":{"med":347,"ratio":8.68,"mismatch":["School"]}}
 {"ts":"2026-10-15T20:55:39Z","pid":"7974502476","stage":"flagged","run":"lensworker-20261015-2048","note":"Lens names Collectible, Goebel Hummel — title does not","data":{"med":199,"ratio":1.33,"mismatch":["Collectible","Goebel Hummel"]}}
 {"ts":"2026-10-15T20:55:53Z","pid":"7931963866","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Native, Navajo, Pueblo, Santo Domingo — title does not","data":{"med":2500,"ratio":10,"mismatch":["Native","Navajo","Pueblo","Santo Domingo"]}}
+{"ts":"2026-10-15T20:56:03Z","pid":"7931953804","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Native — title does not","data":{"med":176,"ratio":0.45,"mismatch":["Native"]}}
+{"ts":"2026-10-15T20:56:10Z","pid":"7935590023","stage":"lensed","run":"lensworker-20261015-2052","note":null,"data":{"med":25,"ratio":0.25,"mismatch":[]}}
+{"ts":"2026-10-15T20:56:17Z","pid":"7980899259","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Bitossi — title does not","data":{"med":95,"ratio":2.11,"mismatch":["Bitossi"]}}
+{"ts":"2026-10-15T20:56:26Z","pid":"7983944007","stage":"lensed","run":"lensworker-20261015-2052","note":null,"data":{"med":52,"ratio":0.69,"mismatch":[]}}
+{"ts":"2026-10-15T20:56:36Z","pid":"7932270620","stage":"flagged","run":"lensworker-20261015-2052","note":null,"data":{"med":235,"ratio":2.35,"mismatch":[]}}
+{"ts":"2026-10-15T20:56:43Z","pid":"7959500682","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Gold, Monroe — title does not","data":{"med":null,"ratio":null,"mismatch":["Gold","Monroe"]}}
+{"ts":"2026-10-15T20:56:51Z","pid":"7931004565","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Gold — title does not","data":{"med":85,"ratio":0.85,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T20:56:59Z","pid":"7940910539","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Accessories, Gold — title does not","data":{"med":340,"ratio":11.72,"mismatch":["Accessories","Gold"]}}
+{"ts":"2026-10-15T20:57:11Z","pid":"7971222078","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Hunter — title does not","data":{"med":50,"ratio":2,"mismatch":["Hunter"]}}
+{"ts":"2026-10-15T20:57:17Z","pid":"7972399584","stage":"lensed","run":"lensworker-20261015-2052","note":null,"data":{"med":16,"ratio":1.6,"mismatch":[]}}
+{"ts":"2026-10-15T20:57:28Z","pid":"7930768333","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Cherry, Company, Nambu — title does not","data":{"med":69,"ratio":1.38,"mismatch":["Cherry","Company","Nambu"]}}
+{"ts":"2026-10-15T20:57:35Z","pid":"7970576517","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Museum, Pocket, Sheffield — title does not","data":{"med":60,"ratio":0.6,"mismatch":["Museum","Pocket","Sheffield"]}}
+{"ts":"2026-10-15T20:57:44Z","pid":"7983910548","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Capodimonte, Company — title does not","data":{"med":69,"ratio":4.6,"mismatch":["Capodimonte","Company"]}}
+{"ts":"2026-10-15T20:57:52Z","pid":"7959034608","stage":"lensed","run":"lensworker-20261015-2052","note":null,"data":{"med":18,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-15T20:57:59Z","pid":"7953529536","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Royal — title does not","data":{"med":53,"ratio":1.32,"mismatch":["Royal"]}}
+{"ts":"2026-10-15T20:58:09Z","pid":"7940204480","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names School — title does not","data":{"med":1148,"ratio":14.35,"mismatch":["School"]}}
+{"ts":"2026-10-15T20:58:18Z","pid":"7949418977","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Rockwell — title does not","data":{"med":32,"ratio":1.28,"mismatch":["Rockwell"]}}
+{"ts":"2026-10-15T20:58:30Z","pid":"7957625975","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Museum, Pocket — title does not","data":{"med":125,"ratio":4.17,"mismatch":["Museum","Pocket"]}}
+{"ts":"2026-10-15T20:58:39Z","pid":"7953116486","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Company — title does not","data":{"med":46,"ratio":3.07,"mismatch":["Company"]}}
+{"ts":"2026-10-15T20:58:46Z","pid":"7976083944","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Hull, McCoy — title does not","data":{"med":28,"ratio":1.12,"mismatch":["Hull","McCoy"]}}
+{"ts":"2026-10-15T20:58:54Z","pid":"7948149591","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Fisher, Gold, Signature — title does not","data":{"med":39,"ratio":1.3,"mismatch":["Fisher","Gold","Signature"]}}
+{"ts":"2026-10-15T20:59:05Z","pid":"7951740027","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Silver, Size — title does not","data":{"med":560,"ratio":8.62,"mismatch":["Silver","Size"]}}
+{"ts":"2026-10-15T20:59:14Z","pid":"7951739399","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Artist, Jewelry, Navajo — title does not","data":{"med":80,"ratio":0.64,"mismatch":["Artist","Jewelry","Navajo"]}}
+{"ts":"2026-10-15T20:59:22Z","pid":"7935916325","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Gold — title does not","data":{"med":10,"ratio":0.1,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T20:59:34Z","pid":"7954167185","stage":"flagged","run":"lensworker-20261015-2052","note":"Lens names Enamel, Tiffany — title does not","data":{"med":18000,"ratio":1800,"mismatch":["Enamel","Tiffany"]}}
+{"ts":"2026-10-15T20:59:56Z","pid":"7981044990","stage":"expired","run":"liveness","note":"posting gone (was decided/ask)"}
