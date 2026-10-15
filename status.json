@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:00:22Z",
+ "updated": "2026-10-15T00:04:01Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10099,
-  "events": 34515,
+  "lens": 10124,
+  "events": 34540,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 753,
-  "flagged": 1595,
-  "lensed": 516
+  "queued": 728,
+  "flagged": 1616,
+  "lensed": 520
  },
  "last_harvests": [
   {
@@ -904,6 +904,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937377479",
+   "title": "Vermeil STERLING BERYL Multi gem - RING",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vermeil-sterling-beryl/geMdpWyXGGyPGVU1ADVPNk",
+   "best": "QuickSell",
+   "med": 4212,
+   "ratio": 84.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7981146621",
    "title": "Ladies Fashion Gold Filigree Ring Sz 10",
    "price": 15,
@@ -1395,6 +1406,17 @@
    "url": "https://www.craigslist.org/view/d/solvang-sterling-silver-rings/xzNp9bkNcip9nXnnGdWWfv",
    "best": "Lot of 8 Silver Tone Rings Blue Green Glass Amethyst ...",
    "med": 850,
+   "ratio": 34,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949488239",
+   "title": "MIXED JEWELRY",
+   "price": 5,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-charles-mixed-jewelry/5HsE8zZqNCHSUqpTBz5y7W",
+   "best": "Etsy",
+   "med": 170,
    "ratio": 34,
    "ai_value": ""
   },
@@ -4468,6 +4490,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956248756",
+   "title": "Vintage 60-70's Goldette Triple Strand Glass Intaglio Cameo Necklace",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-vintage-60-70s-goldette-triple/jysgGdoiViR4SvxrrMfLBA",
+   "best": "Etsy",
+   "med": 108,
+   "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7963246140",
    "title": "Vintage Goldette NY Bracelet Gold Tone",
    "price": 15,
@@ -5343,6 +5376,17 @@
    "area": "missoula",
    "url": "https://www.craigslist.org/view/d/missoula-vintage-1928-necklace/gdtoQbSvCKiS9FD1Xz8WeY",
    "best": "Craigslist",
+   "med": 85,
+   "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942543322",
+   "title": "Violin Earrings",
+   "price": 20,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-violin-earrings/gBpekTVXUYFC46ZUJ326ST",
+   "best": "3 Goldtone Kitty Cat Pins Brooch Auora Borealis Stones ...",
    "med": 85,
    "ratio": 4.25,
    "ai_value": ""
@@ -6324,6 +6368,17 @@
    "best": "Vintage Diamond Pendants, Diamond Heart Pendants, Vintage ...",
    "med": 1339,
    "ratio": 3.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937843366",
+   "title": "Nice Sterling Silver Emily Ray Bracelet",
+   "price": 80,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-nice-sterling-silver-emily/mf5rmRWxR87jgstUKyCbvt",
+   "best": "Some of My Favorite Things",
+   "med": 267,
+   "ratio": 3.34,
    "ai_value": ""
   },
   {
@@ -7324,6 +7379,17 @@
    "url": "https://www.craigslist.org/view/d/renton-sterling-silver-link-bracelet/vCQnXk9yFmUJ6p84NsC6mL",
    "best": "Fishers of Men Acts Bracelet Sterling Silver New Maltese ...",
    "med": 170,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944646030",
+   "title": "Vintage Signed WEISS Ruby Red Gold Tone Circle Brooch",
+   "price": 35,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-signed-weiss-ruby-red/4hZJTJMqSbYzMUmQkEf9zN",
+   "best": "eBay",
+   "med": 99,
    "ratio": 2.83,
    "ai_value": ""
   },
@@ -9440,6 +9506,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983668589",
+   "title": "Malachite earrings",
+   "price": 25,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/shady-cove-malachite-earrings/eYg56yaKDbYtJD9EJ3ku93",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -9470,6 +9547,17 @@
    "best": "Vtg Peachy Pink Weller Wild Rose Art Pottery w/ Green Handle ...",
    "med": 49,
    "ratio": 1.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937709068",
+   "title": "Antique Royal Chelsea 12 inch pitcher",
+   "price": 100,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/chesterfield-antique-royal-chelsea-12/rLNhB1MoYicB8fxNmmFvmn",
+   "best": "Etsy",
+   "med": 195,
+   "ratio": 1.95,
    "ai_value": ""
   },
   {
@@ -10606,6 +10694,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928680264",
+   "title": "Vintage Mr. Worrybird Sterling Silver Necklace",
+   "price": 30,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-mr-worrybird/5jP5gqyJ8SJT1orJGMkbXZ",
+   "best": "Sterling Silver M.I Hummel Club 20\" Chain Merry Wanderer ...",
+   "med": 48,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -11253,6 +11352,17 @@
    "med": 443,
    "ratio": 1.48,
    "ai_value": "sell in the $195 to $382"
+  },
+  {
+   "pid": "7976411343",
+   "title": "Vintage Taxco Sterling Silver Fish pin Brooch",
+   "price": 60,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/pompano-beach-vintage-taxco-sterling/qjCNZsECgzwbqqRzhJHTJr",
+   "best": "eBay",
+   "med": 89,
+   "ratio": 1.48,
+   "ai_value": ""
   },
   {
    "pid": "7958902101",
@@ -12003,6 +12113,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979898660",
+   "title": "Cubic Zirconia Pendant Necklace + Earrings",
+   "price": 30,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/beaverton-cubic-zirconia-pendant/uE4Ed9zo3Fs254CnTBjRta",
+   "best": "Victoria Townsend .925 Sterling Silver 1/4ct Diamond Circle ...",
+   "med": 39,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7954911675",
    "title": "Antique mantle clock",
    "price": 90,
@@ -12608,6 +12729,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950825064",
+   "title": "Vintage 1970s Portrait Brooch / Pendant",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-1970s-portrait-brooch/uDngFhzPytwARNxn1aLvAF",
+   "best": "Etsy",
+   "med": 34,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949254133",
    "title": "Vintage Suarti Sterling Silver & Cultured Pearl Cuff",
    "price": 160,
@@ -12615,6 +12747,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-suarti-sterling/hzh2Cf1TpfR8VSA8jVnbab",
    "best": "GreaterGood",
    "med": 185,
+   "ratio": 1.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973797626",
+   "title": "Angel wings earrings, vintage from the 80s",
+   "price": 19,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-angel-wings-earrings-vintage/omvdd7t4i2WFqexQtdaRJu",
+   "best": "Vintage JOAN COLLINS Gold Tone White Stone Winged Clip On ...",
+   "med": 22,
    "ratio": 1.16,
    "ai_value": ""
   },
@@ -13235,6 +13378,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960388952",
+   "title": "Vintage Guess Hearth gold tone necklace",
+   "price": 19,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-guess-hearth-gold-tone/8k4wUhUHsHqENMQv8bUwDW",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 1.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7972942062",
    "title": "Gemstone Pendants ( B2G1F)",
    "price": 25,
@@ -13319,6 +13473,17 @@
    "url": "https://www.craigslist.org/view/d/san-pedro-antique-art-deco-elgin-model/ojxeByH3Zi23c4h4bCPrpd",
    "best": "eBay",
    "med": 334,
+   "ratio": 1.03,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952448511",
+   "title": "Vintage signed Sarah Coventry necklace with Ann Taylor pendant 16+4\"",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-signed-sarah-coventry/a9WXHzVQzxmiT6t7C8CtGp",
+   "best": "Craigslist",
+   "med": 30,
    "ratio": 1.03,
    "ai_value": ""
   },
@@ -13660,6 +13825,28 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-new-in-box-beautiful/gPBdcYyjpqkw2pGHcAaw3P",
    "best": "eBay",
    "med": 50,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973792331",
+   "title": "Vintage silver paw turquoise earrings",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-silver-paw-turquoise/1gysfp7fHteEHpZwMvTCr7",
+   "best": "Ruby Lane",
+   "med": 29,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933362583",
+   "title": "BEAUTIFUL VINTAGE SIGNED HAND PAINTED GREEK POTTERY DECORATIVE VASE",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-beautiful-vintage-signed-hand/8CMGfYDisL7Vgsmw2mqD3y",
+   "best": "eBay",
+   "med": 35,
    "ratio": 1,
    "ai_value": ""
   },
@@ -14639,6 +14826,17 @@
    "url": "https://www.craigslist.org/view/d/decatur-vintage-variety-cuff-links/r5y5G6cPrWdpDccxvwBBLx",
    "best": "Nice Lot of Vintage Men's Jewelry MAD MEN Cuff Links, Tie ...",
    "med": 14,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966056993",
+   "title": "ROSENE ZAROS pottery collection",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/port-orchard-rosene-zaros-pottery/v8xKgWZbFEc5NWN3YZtwer",
+   "best": "Etsy",
+   "med": 39,
    "ratio": 0.78,
    "ai_value": ""
   },
@@ -16018,6 +16216,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956289326",
+   "title": "Vintage Floral Solid Jade Jewelry Box",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-vintage-floral-solid-jade/ft5JT4VLGS6ysf6eYsQ1BS",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7944220078",
    "title": "Sterling Silver Siam Earrings",
    "price": 35,
@@ -16443,6 +16652,17 @@
    "url": "https://www.craigslist.org/view/d/salinas-vintage-baseball-cards/64pD9kmJwkwrK6WMec6Yvg",
    "best": "1959 Topps Baseball #513 Tom Carroll VG/EX *d3 | eBay",
    "med": 20,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933470415",
+   "title": "HULL POTTERY VASE",
+   "price": 75,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-hull-pottery-vase/8RDyyz5EvkiisZKLJpyTnB",
+   "best": "eBay",
+   "med": 30,
    "ratio": 0.4,
    "ai_value": ""
   },
@@ -18026,6 +18246,17 @@
    "area": "stlouis",
    "url": "https://www.craigslist.org/view/d/saint-louis-vintage-violins/sHXiDgfXfpzUuJUowUHqhh",
    "best": "German Stradivarius Violin - Don Roy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930044549",
+   "title": "PAINTING Serigraph Vintage J.Murray 24\"x30\" Signed",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/painting-serigraph-vintage-jmurray/szP8CsyYZPEw5j2mBEmQ7X",
+   "best": "OfferUp",
    "med": null,
    "ratio": null,
    "ai_value": ""
