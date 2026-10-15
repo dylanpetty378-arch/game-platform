@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:46:32Z",
+ "updated": "2026-10-15T15:52:24Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12274,
-  "events": 38406,
+  "lens": 12299,
+  "events": 38431,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 178,
-  "flagged": 3274,
-  "lensed": 1008
+  "queued": 153,
+  "flagged": 3290,
+  "lensed": 1017
  },
  "last_harvests": [
   {
@@ -637,6 +637,17 @@
    "best": "Elgin 1927 Grade 479 17 Jewels Pocket-Watch | eBay",
    "med": 385,
    "ratio": 385,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929364407",
+   "title": "Sapphire and Diamond Ring",
+   "price": 30,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/norman-sapphire-and-diamond-ring/vg3q6dhM9rL5QfRKQdv7x3",
+   "best": "Topaz and Aquamarine Rings - Etsy",
+   "med": 11072,
+   "ratio": 369.07,
    "ai_value": ""
   },
   {
@@ -2111,6 +2122,17 @@
    "best": "Craigslist",
    "med": 295,
    "ratio": 36.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933389685",
+   "title": "Goldplated Sterling Amethyst Ring size 9",
+   "price": 45,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-goldplated-sterling-amethyst/pg6GRLe3jkPVnZMHnGXU7C",
+   "best": "Chunky 18ct Yellow Gold Tourmaline Ring \u2014 Gembank1973",
+   "med": 1645,
+   "ratio": 36.56,
    "ai_value": ""
   },
   {
@@ -6228,6 +6250,17 @@
    "ai_value": "Sold Out \u2013 Forest City Stained Glass $32"
   },
   {
+   "pid": "7979237892",
+   "title": "Old wood mortar and pestle",
+   "price": 15,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-old-wood-mortar-and-pestle/xf4o6LUkpNKVAfikeeXhkg",
+   "best": "Antique Wood Turned Mortar & Pestle Herb Apothecary Medicine ...",
+   "med": 125,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7953841196",
    "title": "Original vintage watercolor, Indiana Farm",
    "price": 30,
@@ -6400,6 +6433,17 @@
    "url": "https://www.craigslist.org/view/d/thompson-vintage-hand-saw-blade/5PZ5ZSXxLfErBV7AfKUZa5",
    "best": "eBay",
    "med": 80,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951585017",
+   "title": "Oberfrankishe Glass Set of 4 Heart Ornaments.",
+   "price": 15,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-oberfrankishe-glass-set-of/kVVeWZCkTqap83YKBmik2z",
+   "best": "Vtg Germany 6 Oberfrankische Glas Glass Heart Faux Trinket ...",
+   "med": 120,
    "ratio": 8,
    "ai_value": ""
   },
@@ -6763,6 +6807,17 @@
    "url": "https://www.craigslist.org/view/d/silverdale-vintage-macgregor-football/wUc5KaqxdhEGjiNdLdT9ZB",
    "best": "Old Vtg 1967 Game Worn Used Suspension Wilson F2010 Football ...",
    "med": 150,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983871155",
+   "title": "Vintage Arbor Electric Guitar Hot Pink !",
+   "price": 200,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-arbor-electric/sJXZKaaJaT1avSN5YY2x47",
+   "best": "Charvel Arbor Kramer Gibson Keisel BcRich Fender ESP 80s ...",
+   "med": 1499,
    "ratio": 7.5,
    "ai_value": ""
   },
@@ -8359,6 +8414,17 @@
    "best": "COACH Signature C Link GoldTone Multi Color Pave Crystal ...",
    "med": 166,
    "ratio": 5.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936548742",
+   "title": "2 Mid Century Three Tier Serving Trays",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-mid-century-three-tier-serving/23BjWJxqsKVNh39LHdnXbD",
+   "best": "MCM Turquoise Scallop Shell Bowl | eBay",
+   "med": 138,
+   "ratio": 5.52,
    "ai_value": ""
   },
   {
@@ -11959,6 +12025,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970808249",
+   "title": "James Avery ring",
+   "price": 70,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-james-avery-ring/17UqK3L4SVNFnJB3N5o6Xd",
+   "best": "James Avery Retired Open Sorrento Sterling Ring ( Size 7 ...",
+   "med": 250,
+   "ratio": 3.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7934312629",
    "title": "Triangular Chert Breccia Earrings",
    "price": 25,
@@ -13103,6 +13180,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958228186",
+   "title": "Women's Earrings",
+   "price": 5,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-womens-earrings/mduRkKX9Sf3BJ8zNJufnxg",
+   "best": "Vintage Avon Pink Ribbons Pierced Earrings with Box | eBay",
+   "med": 16,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7963619385",
    "title": "Lladro collection and more",
    "price": 250,
@@ -13934,6 +14022,17 @@
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/chicago-three-vintage-green-pyrex-bowl/rwLpocSV4CJcYtAdXiMTaF",
    "best": "Vintage Turquoise Pyrex Mixing Bowls Set of 3 - Etsy",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983842679",
+   "title": "Vintage Westmoreland \"DEEP CUT\" Crystal Dish",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/brookline-vintage-westmoreland-deep-cut/htih96qLgK27MPeXHUzRde",
+   "best": "Antique Vintage American Brilliant Period Cut Crystal Glass ...",
    "med": 75,
    "ratio": 3,
    "ai_value": ""
@@ -16183,6 +16282,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953691047",
+   "title": "Lenox Porcelain Chip & Dip",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/richmond-lenox-porcelain-chip-dip/ukpBoa8A5P2H7TwdQNVz7H",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7961990112",
    "title": "Hand painted Pheasant  plate",
    "price": 18,
@@ -16509,6 +16619,17 @@
    "url": "https://www.craigslist.org/view/d/encinitas-vintage-wire-wrapped-clay-jug/rNrK2jcooFagazQXsMSGBU",
    "best": "Vintage Clay Pot / Pottery Vase / Rustic Ceramic Bowl / Wabi ...",
    "med": 140,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952049059",
+   "title": "Vintage Cute Framed Oil Painting of Pair of Lion Cubs",
+   "price": 150,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/schaumburg-vintage-cute-framed-oil/nyGwKCUV8iZCAiMYGBc2km",
+   "best": "Vintage Oil Painting on Canvas, Tiger Cubs Scene, Van Bell ...",
+   "med": 350,
    "ratio": 2.33,
    "ai_value": ""
   },
@@ -21001,6 +21122,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936745356",
+   "title": "Heavy Aluminum Bunny Trays",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/richmond-heavy-aluminum-bunny-trays/jfEDKV5McZok7rg2nMx7ur",
+   "best": "Vintage 1986 Arthur Court Bunny Rabbit Easter Serving ...",
+   "med": 65,
+   "ratio": 1.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7929922868",
    "title": "Vintage ladies elgin watch,working.",
    "price": 80,
@@ -21360,6 +21492,17 @@
    "url": "https://www.craigslist.org/view/d/troy-towle-sterling-old-newbury-spoon/w6iS1AKequXJc3SDcKPNga",
    "best": "Old Newbury by Towle Sterling Silver Oval Soup Spoon 7 1/8 ...",
    "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973179215",
+   "title": "Two Vintage French Emerald Green Candle Holders",
+   "price": 30,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brightwaters-two-vintage-french-emerald/aUmCescf4JLwGtJxHUgwMc",
+   "best": "The Cupboard Shop",
+   "med": 48,
    "ratio": 1.6,
    "ai_value": ""
   },
@@ -21745,6 +21888,17 @@
    "url": "https://www.craigslist.org/view/d/waianae-mens-skull-ring/8dEjNckYX7AtQ7fiTxhB4w",
    "best": "Beret Skull Ring - Soldier Memorial Silver Jewelry - Etsy",
    "med": 152,
+   "ratio": 1.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967158290",
+   "title": "Two Afghanistan fighting knives dagger knife",
+   "price": 130,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-two-afghanistan-fighting-knives/jnDqPz2BbLmNHi1Fg2pTMt",
+   "best": "Vtg Industria JU CA Tandil Argentina, Armadillo Wrapped ...",
+   "med": 200,
    "ratio": 1.54,
    "ai_value": ""
   },
@@ -27388,6 +27542,17 @@
    "url": "https://www.craigslist.org/view/d/york-mc-pixie-candle-huggers/qGC86vCfPrCpKMt6LSY7fx",
    "best": "eBay",
    "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976686431",
+   "title": "Omega Gen\u00e8ve Cal. 620 Manual Wind Ref. 511.213 - Operation Unkown",
+   "price": 349,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/plano-omega-genve-cal-620-manual-wind/3JegfJ52X4cLgep76AwaAo",
+   "best": "Omega Gen\u00e8ve Ladies Watch | Cal. 485 | 1971 | Manual Wind ...",
+   "med": 350,
    "ratio": 1,
    "ai_value": ""
   },
@@ -34835,6 +35000,17 @@
    "url": "https://www.craigslist.org/view/d/dallas-bracelet-earrings-necklace/mbmaZQTRNtd8TfhJ9nfXh5",
    "best": "Pewter Handcrafted Jewelry Sets for sale | eBay",
    "med": 25,
+   "ratio": 0.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983879093",
+   "title": "Moissanite watch",
+   "price": 300,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-moissanite-watch/oGpNjsXcMaxpnMECxezgCt",
+   "best": "Men's Round Iced 47mm Bezel CZ Gold Plated Metal Strap ...",
+   "med": 40,
    "ratio": 0.13,
    "ai_value": ""
   },

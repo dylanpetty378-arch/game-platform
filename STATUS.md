@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T15:46:32Z
+# Refurbish status — 2026-10-15T15:52:24Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8937 |
-| flagged | 3274 |
-| lensed | 1008 |
+| flagged | 3290 |
+| lensed | 1017 |
 | queued/relens | 486 |
-| queued | 178 |
+| queued | 153 |
 | decided/ask | 82 |
 | decided/kill | 56 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13797
-- lens: 12274
-- events: 38406
+- lens: 12299
+- events: 38431
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (3274)
+## Flagged by Lens, waiting for photo review (3290)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -154,6 +154,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00k0k_6fe2De6WK0m_0lM0t2_300x300.jpg" width="120"> | 7931006890 | $12 | grandrapids | [Vintage Napier Gold Tone 17" Necklace Costume Jewe](https://www.craigslist.org/view/d/belmont-vintage-napier-gold-tone-17/tKMwYuQp8cbHr4Q3QNNWYn) | 10k Yellow Gold Chino Chain Solid Link Necklace 9mm 22"-26 . | 5640 | 470 |
 | <img src="https://images.craigslist.org/00Z0Z_6Wmc6ur9FHp_0t20CI_300x300.jpg" width="120"> | 7975187556 | $10 | boston | [Goldtone Chain w/HD Pendent](https://www.craigslist.org/view/d/saugus-goldtone-chain-hd-pendent/wJuqtUXBgyAN6Cyqx3cv3C) | Trifari Necklace 1970's Gold Link Chain Oval Onyx Black ... | 4500 | 450 |
 | <img src="https://images.craigslist.org/00606_bhiNqRGqa3I_0hT0CI_300x300.jpg" width="120"> | 7957064009 | $1 | daytona | [Antique Elgin Size 12 17 Jewel Pocketwatch 14K Gol](https://www.craigslist.org/view/d/palm-coast-antique-elgin-size-jewel/j5BbSgMQ89YkRmHxgBSFVH) | Elgin 1927 Grade 479 17 Jewels Pocket-Watch / eBay | 385 | 385 |
+| <img src="https://images.craigslist.org/00P0P_88glHazbnOx_0CI0t2_300x300.jpg" width="120"> | 7929364407 | $30 | oklahomacity | [Sapphire and Diamond Ring](https://www.craigslist.org/view/d/norman-sapphire-and-diamond-ring/vg3q6dhM9rL5QfRKQdv7x3) | Topaz and Aquamarine Rings - Etsy | 11072 | 369.07 |
 | <img src="https://images.craigslist.org/00h0h_9vVRyzN8hf8_05r07g_300x300.jpg" width="120"> | 7945003497 | $14 | losangeles | [Banjo](https://www.craigslist.org/view/d/los-angeles-banjo/wxprHAScXho25Tre2cKobf) | Used Morgan Monroe OB-150 Natural Banjo Natural / Guitar Cen | 5000 | 357.14 |
 | <img src="https://images.craigslist.org/00l0l_8s81hZtcXMo_0sx0bC_300x300.jpg" width="120"> | 7976437500 | $1 | philadelphia | [Vintage Phoenix Ware](https://www.craigslist.org/view/d/pottstown-vintage-phoenix-ware/3Yk6G2yvPch5HBRV3htW5x) | Noritake Nippon Tea Set Blue White – Japanese Porcelain Set  | 353 | 353 |
 | <img src="https://images.craigslist.org/00z0z_49glNwuxP86_0t20CI_300x300.jpg" width="120"> | 7937626231 | $1 | boston | [GORGEOUS VINTAGE 14K GOLD JEWELRY & STERLING SILVE](https://www.craigslist.org/view/d/peabody-gorgeous-vintage-14k-gold/qF2X37LSdg7HNYP64D4thq) | Craigslist | 320 | 320 |
@@ -259,4 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01111_drzi3tYmwji_0tO12w_300x300.jpg" width="120"> | 7954423288 | $30 | seattle | [Small sterling silver heart bracelet](https://www.craigslist.org/view/d/renton-small-sterling-silver-heart/d2z4MDigAAoL7A3E41ZeNb) | Ross-Simons Italian 10kt Yellow Gold Leaf Station Bracelet . | 1400 | 46.67 |
 | <img src="https://images.craigslist.org/00R0R_6SMY6bekI3n_0t20CI_300x300.jpg" width="120"> | 7964361273 | $45 | slo | [Aurora 18K HGE topaz rhinestones vintage](https://www.craigslist.org/view/d/morro-bay-aurora-18k-hge-topaz/b97xwNByEPK8znzcnmcYEY) | Gem | 2095 | 46.56 |
 | <img src="https://images.craigslist.org/00s0s_et5xqxUCaRL_0t20lM_300x300.jpg" width="120"> | 7955868716 | $2 | boulder | [Misc Jewerly Vintage](https://www.craigslist.org/view/d/longmont-misc-jewerly-vintage/ubrWFT2GVGj8UNb9aYU5qW) | Huge Vintage Costume Jewelry Earring Necklace Bracelet Lot . | 93 | 46.5 |
-| <img src="https://images.craigslist.org/00k0k_2QNkMKyRfU6_0CI0t2_300x300.jpg" width="120"> | 7943998943 | $15 | newjersey | [2 Vintage Large Silver-tone & Gold-tone Brooches/P](https://www.craigslist.org/view/d/new-milford-vintage-large-silver-tone/gVDWvTZxQJxZSxiFMs45AE) | eBay | 695 | 46.33 |
