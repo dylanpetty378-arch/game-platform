@@ -412,3 +412,7 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   ("Real-World Transactions"). Rewording the agent prompt as image-review-only worked. Use the MCP actions_list to wait on runs.
 - health: queue FAIL (484 < 500, refilled by the cycle), Lens worker 2.3 h stale (WARN), review backlog 3,383.
 - New type candidate: maria-martinez-pottery (signature-dating ladder) in research/new-type-candidates.md.
+- Oct 15 (follow-up): new `ebay_eggs.py detail` hook. List item ids in research/pools/ebay-seller-req.json, dispatch
+  ebay-eggs mode=detail, and the seller's other active listings land in ebay-detail.json `_seller_items`. It searches all
+  top-level categories with a sellers filter, and the username is never stored. Marie-jar seller: 17 other items, all household and garage
+  clear-out (skateboard decks, Doctor Who cards, a Weller Forest vase at $259, a 1994 Upper Deck Italy box). No other leads.
