@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T20:48:20Z
+# Refurbish status — 2026-10-15T20:52:34Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3448 |
-| lensed | 1084 |
-| queued | 728 |
+| flagged | 3469 |
+| lensed | 1088 |
+| queued | 703 |
 | queued/relens | 486 |
 | decided/ask | 81 |
 | decided/kill | 58 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14608
-- lens: 12524
-- events: 39492
+- lens: 12549
+- events: 39517
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
-## Flagged by Lens, waiting for photo review (3448)
+## Flagged by Lens, waiting for photo review (3469)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -142,6 +142,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 |---|---|---|---|---|---|---|---|
 | <img src="https://images.craigslist.org/00F0F_7Xv9MUQSatM_0CI0t2_300x300.jpg" width="120"> | 7950776553 | $1 | sandiego | [great interesting guitar collection](https://www.craigslist.org/view/d/descanso-great-interesting-guitar/thsSTn1HsTSbsXoGxvSMgp) | Made-in-China.com | 6759 | 6759 |
 | <img src="https://images.craigslist.org/00L0L_63tg40YZxM6_0MM132_300x300.jpg" width="120"> | 7983256881 | $1 | minneapolis | [large collection of lighting](https://www.craigslist.org/view/d/hugo-large-collection-of-lighting/88trK5tVVHmLJ6mn1fPwyg) | Vintage Shop | 2401 | 2401 |
+| <img src="https://images.craigslist.org/00p0p_kFxjqSYQ4n5_0CI0t2_300x300.jpg" width="120"> | 7950543714 | $1 | charlotte | [14K Gold Ladies Watches For Sale](https://www.craigslist.org/view/d/matthews-14k-gold-ladies-watches-for/xdnEJYtR9wC1KQdKqPf6Yz) | Ruby Lane | 1800 | 1800 |
 | <img src="https://images.craigslist.org/00u0u_fRPOCRRLLFt_0CI0t2_300x300.jpg" width="120"> | 7965995400 | $10 | omaha | [Rings](https://www.craigslist.org/view/d/omaha-rings/77AbNdRX2i22gmSEq2DXoh) | Novi in rabljeni artikli naprodaj v kategoriji Rings ... | 17000 | 1700 |
 | <img src="https://images.craigslist.org/00l0l_1nDBWnON3RU_0t20t2_300x300.jpg" width="120"> | 7977695499 | $20 | ventura | [Genuine Citrine & Silvertone Necklace](https://www.craigslist.org/view/d/oak-park-genuine-citrine-silvertone/dNZuWZhqPmphLp87C6aPbY) | Oblong Quartz Charm - Etsy | 18951 | 947.55 |
 | <img src="https://images.craigslist.org/00000_6EgOTmHZlsD_0xE0t2_300x300.jpg" width="120"> | 7935764861 | $35 | charlotte | [Heidi Klum Silver Tone Wide Hinged Cuff Bracelet  ](https://www.craigslist.org/view/d/fort-mill-heidi-klum-silver-tone-wide/fzAZZt8g5SHjyHDpjhapVU) | Etsy | 30240 | 864 |
@@ -237,6 +238,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00r0r_icImtQVwjFh_0t20CI_300x300.jpg" width="120"> | 7957168862 | $2 | westernmass | [Prices reduced:  large collection of Costume Jewel](https://www.craigslist.org/view/d/longmeadow-prices-reduced-large/7KjJUKRNKo9LjeLwGBSLBk) | Over 1 Pound Jewelry Vintage Modern Huge Lot ALL GOOD Wear . | 125 | 62.5 |
 | <img src="https://images.craigslist.org/00Z0Z_7d6VlfkVV5X_0t20CI_300x300.jpg" width="120"> | 7952363113 | $1 | sfbay | [misc old items](https://www.craigslist.org/view/d/fairfax-misc-old-items/h2kkcVVaRXr1LPoDP3kc2N) | Antique Primitive Copper Coffee Water Dipper with Spout and  | 62 | 62 |
 | <img src="https://images.craigslist.org/00E0E_9MbqLj8uzyU_0bU0aT_300x300.jpg" width="120"> | 7983852081 | $3 | madison | [3 New Earrings (1 Sterling Silver) - $3 to $10 eac](https://www.craigslist.org/view/d/mc-farland-new-earrings-sterling-silver/bCPa3HbS2eaNuqtoEMFb6h) | Liz Claiborne Hypoallergenic Silver Twisted Hoop Earrings .. | 184 | 61.33 |
+| <img src="https://images.craigslist.org/00N0N_fmWWqgUcKot_0t20CI_300x300.jpg" width="120"> | 7983912864 | $65 | austin | [Vintage Gold-Tone Owl Brooch](https://www.craigslist.org/view/d/austin-vintage-gold-tone-owl-brooch/4Hm2FcsQGciFjvuHg8kMXC) | メルカリ - Mercari | 3960 | 60.92 |
 | <img src="https://images.craigslist.org/00b0b_hS7FO9XWOGp_0sT0t2_300x300.jpg" width="120"> | 7977598179 | $33 | sfbay | [Vintage Large+ Size Original Amazonite Pendant.](https://www.craigslist.org/view/d/san-francisco-vintage-large-size/bHdJCoLXybr51oWWm7F6Ja) | IPPOLITA ROCK CANDY® 18K YELLOW GOLD 750 QUARTZ ... | 1999 | 60.58 |
 | <img src="https://images.craigslist.org/00G0G_gxCM0upfDMH_0CI0pO_300x300.jpg" width="120"> | 7950666174 | $20 | sfbay | [Vintage Floral Plates](https://www.craigslist.org/view/d/oakland-vintage-floral-plates/hUdSGSY9JPJvsMp6ozXuxk) | LARGE VINTAGE ROYAL ALBERT SERVICE PLATE IN PINK ... | 1200 | 60 |
 | <img src="https://images.craigslist.org/01212_r59b0nsrR8_0d40hq_300x300.jpg" width="120"> | 7976459112 | $1 | sfbay | [Vintage items](https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG) | Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag  | 60 | 60 |
@@ -258,5 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01717_cE7YgIsmTRk_0h70t2_300x300.jpg" width="120"> | 7969574151 | $15 | boise | [17.75" Necklace Delicate Gold Tone](https://www.craigslist.org/view/d/boise-1775-necklace-delicate-gold-tone/rhCrZV8uFf1jwzvyDpCZuX) | Vintage Solid 14k Yellow Gold Box Chain Necklace - 23.75 ... | 745 | 49.67 |
 | <img src="https://images.craigslist.org/00U0U_4WNy0iyjRJE_0CI0t2_300x300.jpg" width="120"> | 7978102380 | $44 | ventura | [BARBARA  A. WOOD](https://www.craigslist.org/view/d/ventura-barbara-wood/qR1ev4uaW5QTBdvUZaPpJD) | Barbara Wood / BARBARA A WOOD Signed Portrait Curly Haired . | 2178 | 49.5 |
 | <img src="https://images.craigslist.org/00H0H_4xHBlDprahh_0t20CI_300x300.jpg" width="120"> | 7929354406 | $100 | sandiego | [native art](https://www.craigslist.org/view/d/san-diego-native-art/6stBFvHFUaVaHnxKfkokDX) | Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ... | 4800 | 48 |
-| <img src="https://images.craigslist.org/00w0w_2xh8nJnsEDR_0t20CI_300x300.jpg" width="120"> | 7939244058 | $12 | boise | [Necklace with Cuff Bracelet all for $12](https://www.craigslist.org/view/d/boise-necklace-with-cuff-bracelet-all/8ZpStnzbF9RPWF2p8hG6gD) | 🛵Хүргэлт үнэгүй /А бүсэд/ 💥Үнэ: 59000 💫14k алтан бүрмэл ... | 568 | 47.33 |
-| <img src="https://images.craigslist.org/00K0K_161KYPzOY3z_0uY0hq_300x300.jpg" width="120"> | 7969448511 | $3 | seattle | [Vintage Woodheaven collection stone ware set](https://www.craigslist.org/view/d/seattle-vintage-woodheaven-collection/2QpK4ATgd7eUVd9CUXV44N) | Mountain Wood Stoneware Bowl - Etsy | 142 | 47.33 |
