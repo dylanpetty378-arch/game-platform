@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T07:16:01Z
+# Refurbish status — 2026-10-15T07:19:30Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2557 |
-| lensed | 776 |
+| flagged | 2578 |
+| lensed | 780 |
 | queued/relens | 485 |
-| queued | 328 |
+| queued | 303 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | expired | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 13
 - searches: 3068
 - listings: 12983
-- lens: 11324
-- events: 36543
+- lens: 11349
+- events: 36568
 - comps: 2758
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2557)
+## Flagged by Lens, waiting for photo review (2578)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -180,6 +180,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01515_8I9j9c5NyHd_0t20CI_300x300.jpg" width="120"> | 7947129653 | $20 | buffalo | [Old school 20” Wuhan China Cymbal](https://www.craigslist.org/view/d/buffalo-old-school-20-wuhan-china-cymbal/5y7SAeqzu3jvX3JzJHBwpx) | Ufip Natural China 20 / Reverb | 2499 | 124.95 |
 | <img src="https://images.craigslist.org/00Y0Y_aIdoZrT2zJw_0c607W_300x300.jpg" width="120"> | 7943638984 | $1 | longisland | [Collection of Vintage Cameras](https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/7rKHySm9qMZFks2E7wZnoh) | eBay | 120 | 120 |
 | <img src="https://images.craigslist.org/00W0W_lFG5hKSy0R8_0lN0CI_300x300.jpg" width="120"> | 7976589723 | $40 | southcoast | [Flora by titan. (reproduction)](https://www.craigslist.org/view/d/acushnet-flora-by-titan-reproduction/vibZ9nD6gSBuvDHwzheiyu) | Craigslist | 4800 | 120 |
+| <img src="https://images.craigslist.org/00Q0Q_2yrTrwBRZFW_0CI0CI_300x300.jpg" width="120"> | 7945030164 | $1 | stcloud | [ROOSTERS n Stuff](https://www.craigslist.org/view/d/little-falls-roosters-stuff/h5H4AmnyaWMSKqRrGDtKWw) | eBay | 113 | 113 |
 | <img src="https://images.craigslist.org/00404_9R4uwm3M9Ef_0t20CA_300x300.jpg" width="120"> | 7953166452 | $40 | austin | [Gold lanco pocket watch](https://www.craigslist.org/view/d/austin-gold-lanco-pocket-watch/5AZzoJKBycxZq83FJUo8tz) | VINTAGE 1940'S DIANA WATCH 67A / eBay | 4399 | 109.97 |
 | <img src="https://images.craigslist.org/00A0A_gUqMlHE7VLz_0MM132_300x300.jpg" width="120"> | 7954561566 | $89 | pittsburgh | [Big Sterling Silver Yellow &White Gemstone CROSS](https://www.craigslist.org/view/d/strabane-big-sterling-silver-yellow/ejQKW5PfHcHVBWzWedJobh) | 14K White Gold 5CT Two-Tone Diamonds Large Cross / eBay | 9680 | 108.76 |
 | <img src="https://images.craigslist.org/00c0c_XZ1qulzZ4X_0CI0t2_300x300.jpg" width="120"> | 7946281064 | $175 | asheville | [Cozart Gold Leaf Strat](https://www.craigslist.org/view/d/asheville-cozart-gold-leaf-strat/ajtegAE17aLqK3nRjobtEg) | Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ... | 18362 | 104.93 |
@@ -262,4 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00k0k_a5DXDOXjjCj_0aD0hq_300x300.jpg" width="120"> | 7968981048 | $15 | boston | [Vintage Cloisonne Enamel Floral Ring, size: 8](https://www.craigslist.org/view/d/natick-vintage-cloisonne-enamel-floral/boDu7hTGDvnEUUyegW8x4A) | Vintage Thin Chinese Enamel Ring | 580 | 38.67 |
 | <img src="https://images.craigslist.org/00808_eWWWmbZgjq5_0t20t2_300x300.jpg" width="120"> | 7971124623 | $60 | myrtlebeach | [Vintage Bass Guitar Body](https://www.craigslist.org/view/d/myrtle-beach-vintage-bass-guitar-body/cDGJSwDjoxCCQcb1snsRWa) | Mosrite The Ventures Model Red USA 1966 Vintage Solid Body . | 2316 | 38.6 |
 | <img src="https://images.craigslist.org/01616_efbwME4cFbm_0t20CI_300x300.jpg" width="120"> | 7939922861 | $15 | austin | [VASE NATE BERKUS](https://www.craigslist.org/view/d/austin-vase-nate-berkus/icjAPb1Kbar7cYbG8WNDFq) | Art / Pacific Northwest Native American Pottery Art Signed . | 572 | 38.13 |
-| <img src="https://images.craigslist.org/00N0N_bYir9ZNTE7w_0CI0i3_300x300.jpg" width="120"> | 7942787999 | $1 | spokane | [Vintage foreign beer glasses](https://www.craigslist.org/view/d/spokane-vintage-foreign-beer-glasses/gnQexqVDvUvrmrAFAPAKwB) | Vintage KLOSTERBRÄU Koblenz RHEINISCH PILS Beer Tulip ... | 38 | 38 |
