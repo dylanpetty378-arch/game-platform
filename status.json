@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:40:18Z",
+ "updated": "2026-10-15T06:44:24Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11099,
-  "events": 36318,
+  "lens": 11124,
+  "events": 36343,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 553,
-  "flagged": 2380,
-  "lensed": 728
+  "queued": 528,
+  "flagged": 2401,
+  "lensed": 732
  },
  "last_harvests": [
   {
@@ -2291,6 +2291,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949894612",
+   "title": "Necklace with Gem Charms",
+   "price": 15,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/marietta-necklace-with-gem-charms/bbcrtiPQiyGJvog6K8cBna",
+   "best": "Vintage 1980s-90s Made in Korea Gold Plated Necklace With ...",
+   "med": 340,
+   "ratio": 22.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7954561925",
    "title": "SILVER CONCHO Vintage BRACELET",
    "price": 199,
@@ -2376,6 +2387,17 @@
    "best": "Etsy",
    "med": 106,
    "ratio": 21.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953825782",
+   "title": "Costume Clip On Earrings",
+   "price": 5,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-costume-clip-on-earrings/jUyLJfLVcmyUYZv428HMUS",
+   "best": "Charles Krypell Sterling Silver 925 Puffy Lined Dome Clip On ...",
+   "med": 105,
+   "ratio": 21,
    "ai_value": ""
   },
   {
@@ -3413,6 +3435,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951655677",
+   "title": "Vintage tribal silver toned anklet",
+   "price": 30,
+   "area": "tricities",
+   "url": "https://www.craigslist.org/view/d/bristol-vintage-tribal-silver-toned/wpaDwiQsDeiy3BHL3WmWT6",
+   "best": "ANTIQUE TRIBAL OLD SILVER ANKLET BRACELET RAJASTHAN | eBay",
+   "med": 379,
+   "ratio": 12.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7954057584",
    "title": "Beautiful Vintage Lamp",
    "price": 10,
@@ -4414,6 +4447,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948149908",
+   "title": "Muse Artisan Sterling Silver Necklace, Various Stones",
+   "price": 85,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-muse-artisan-sterling-silver/c9QPC2zazdoqjErc29oMGj",
+   "best": "Vintage Green Gold White Long Bead Strand 48\" Flapper style ...",
+   "med": 798,
+   "ratio": 9.39,
+   "ai_value": ""
+  },
+  {
    "pid": "7951267868",
    "title": "Antique Milk Cans",
    "price": 40,
@@ -4920,6 +4964,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953422325",
+   "title": "Vintage Sterling Silver and Moissanite Ring",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-sterling-silver-and/d6ygjGpZu9YuTHqN2MDRjw",
+   "best": "Men's New 14K Black Gold Tone Finish Black Simulate ...",
+   "med": 278,
+   "ratio": 7.94,
+   "ai_value": ""
+  },
+  {
    "pid": "7962656781",
    "title": "Vintage  Goldtone Teardrop Statement Necklace Mid-century glamour",
    "price": 35,
@@ -5016,6 +5071,17 @@
    "best": "Vintage~Light (Up)~Yo Yo~Gold and Red~In Original Box ...",
    "med": 38,
    "ratio": 7.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949957559",
+   "title": "Timex expedition indiglo watch",
+   "price": 20,
+   "area": "tricities",
+   "url": "https://www.craigslist.org/view/d/bristol-timex-expedition-indiglo-watch/6V7FCthsG1Yo1gLu1Zu6nh",
+   "best": "Timex Expedition Metal | eBay",
+   "med": 151,
+   "ratio": 7.55,
    "ai_value": ""
   },
   {
@@ -6159,6 +6225,17 @@
    "url": "https://www.craigslist.org/view/d/boynton-beach-lot-of-three-brightly/kojbc7X1ZAaSpbNQhgjS2Z",
    "best": "Mid-20th Century Street Market Impasto Oil Painting Framed ...",
    "med": 525,
+   "ratio": 5.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951381832",
+   "title": "Iced Out Link Necklace",
+   "price": 30,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-iced-out-link-necklace/pDqeA16MDF8kwfTzmoi3f1",
+   "best": "COACH Signature C Link GoldTone Multi Color Pave Crystal ...",
+   "med": 166,
    "ratio": 5.53,
    "ai_value": ""
   },
@@ -8638,6 +8715,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958028005",
+   "title": "Vintage Oval Link Amber Bracelet",
+   "price": 41,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-oval-link-amber/8wUrHsNNF75fJXNziKwyf2",
+   "best": "Amber Bracelet Stone 8.25\u201d Possiby Gold Or Gold Filled K9 | eBay",
+   "med": 148,
+   "ratio": 3.61,
+   "ai_value": ""
+  },
+  {
    "pid": "7942835524",
    "title": "Navajo Sterling Silver & Turquoise Belt Buckle",
    "price": 150,
@@ -9075,6 +9163,17 @@
    "best": "Sweetwater",
    "med": 1699,
    "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979652030",
+   "title": "Vintage Silvertone jumbo guitar & case",
+   "price": 175,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-silvertone-jumbo/wzJXXqrBhsQJTB4vGGpyPT",
+   "best": "Rebuilt 1940s Kay Del Oro guitar with solid mahogany top",
+   "med": 594,
+   "ratio": 3.39,
    "ai_value": ""
   },
   {
@@ -11872,6 +11971,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938885131",
+   "title": "(2) Vintage Embosser Hand Press. Official Champ Steel Pocket Notary Se",
+   "price": 10,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-embosser-hand-press/3umaR8mqnyhaPbf6CJrjjm",
+   "best": "Vintage 1975 Regulation Justrite Embossing Seal with ...",
+   "med": 24,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7958886126",
    "title": "Glass Buddha Head",
    "price": 50,
@@ -13291,6 +13401,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956302376",
+   "title": "Handmade Native American Jewelry",
+   "price": 150,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-handmade-native-american/24UZDPSdn3AnGJMEHEbSXG",
+   "best": "Navajo Turquoise Ring - Four Winds Gallery",
+   "med": 301,
+   "ratio": 2.01,
+   "ai_value": ""
+  },
+  {
    "pid": "7972368246",
    "title": "The Ruby Slippers Necklace",
    "price": 15,
@@ -14171,6 +14292,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936770373",
+   "title": "Red And Gold Beaded Necklace And Earrings",
+   "price": 15,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/dover-red-and-gold-beaded-necklace-and/1XYSfjg6xaX2AGUrq1EouW",
+   "best": "Necklace 25 Inch Long Jewelry Red Bead Adjust Lobster Clasp ...",
+   "med": 28,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7963446408",
    "title": "Antique Victorian American Waltham 1891 Ladies Pocket Watch",
    "price": 350,
@@ -14266,6 +14398,17 @@
    "url": "https://www.craigslist.org/view/d/casco-vintage-starbucks-clock/nN3SyQQPggg6ZZDvL6mZ1n",
    "best": "Starbucks Good Coffee Good Fishing Wind Up Alarm Clock ...",
    "med": 46,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954879527",
+   "title": "Painting of Artis Ellen Cavanagh",
+   "price": 95,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-painting-of-artis-ellen/pumYA1yJiWfZPK5mwi5gvR",
+   "best": "The girl with flaxen hair [1893] by Frances Hodgkins [New ...",
+   "med": 175,
    "ratio": 1.84,
    "ai_value": ""
   },
@@ -16635,6 +16778,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948257124",
+   "title": "Vintage Benson(Ben) Boyd BB Sterling, Lapis, White Opal Pendant Necklace",
+   "price": 275,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-bensonben-boyd-bb/ruN7n956CjP8eiUBKiwJxz",
+   "best": "Sterling Silver Scarab Necklace: Egyptian Amulet Pendant - Etsy",
+   "med": 395,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7971725919",
    "title": "Earrings w/Phenomenal New Zealand Shell",
    "price": 35,
@@ -18076,6 +18230,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949955066",
+   "title": "14k Jade Pendant",
+   "price": 450,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-14k-jade-pendant/ccPwnDhvtBbdaUAex9Vca7",
+   "best": "14k Yellow Gold Large Grade A Carved Jade Pendant with ...",
+   "med": 555,
+   "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7951975370",
    "title": "Signed Original Pastel Portrait of a Woman",
    "price": 95,
@@ -18941,6 +19106,17 @@
    "url": "https://www.craigslist.org/view/d/ladies-sterling-silver-wrap-ring/uBgk8WGwTscF8F8muN1roR",
    "best": "eBay",
    "med": 50,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973201442",
+   "title": "Givenchy Y-Necklace Rhinestone Ceystals",
+   "price": 90,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/dover-givenchy-necklace-rhinestone/tFKDxyEKbM2smic8WTnFdx",
+   "best": "Kim Rogers Jewelry Glass Rhinestones - Necklace | eBay",
+   "med": 100,
    "ratio": 1.11,
    "ai_value": ""
   },
@@ -20067,6 +20243,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974186252",
+   "title": "Vintage Capodimonte Vase",
+   "price": 230,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-capodimonte-vase/bZMJ31gWGg9tboxqLUxtoj",
+   "best": "Capodimonte Vintage Vase Made in Italy. - Etsy",
+   "med": 228,
+   "ratio": 0.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7942210458",
    "title": "Turquoise Lightning Bug Pin",
    "price": 100,
@@ -20866,6 +21053,17 @@
    "url": "https://www.craigslist.org/view/d/anchorage-benrus-ladies-cuff-gold-tone/nnZdJrcVDdyuerEx7nBjrG",
    "best": "Benrus PIM320G Cuff Bracelet Quartz Analog Women's Watch Sz ...",
    "med": 35,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949913167",
+   "title": "Gold tone cross pendant",
+   "price": 25,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-gold-tone-cross-pendant/fyEnR4sY84HiwYH6S2hjHK",
+   "best": "14K Gold Plated Wooden Cross Necklace Christian Jewelry ...",
+   "med": 22,
    "ratio": 0.88,
    "ai_value": ""
   },
@@ -23983,6 +24181,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971086874",
+   "title": "Old license plates (set of 16)",
+   "price": 85,
+   "area": "eauclaire",
+   "url": "https://www.craigslist.org/view/d/chippewa-falls-old-license-plates-set/7RYi54LEPz2PjfXQrrD5Y5",
+   "best": "Minnesota License Plates History",
+   "med": 40,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7937968387",
    "title": "Vintage Gold Tone Cream Enamel Necklace",
    "price": 35,
@@ -24661,6 +24870,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-metallica-vhs-tape-lot/bW9RVugpva931BPf7LYKkd",
    "best": "Live Shit: Binge & Purge (Top): Two open cardboard outer boxes from the massive live concert/box set released ",
    "med": 13,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978714992",
+   "title": "Vintage 10K White Gold Diamond Tanzanite Flower Ring Sz 7",
+   "price": 79,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/augusta-vintage-10k-white-gold-diamond/n12y2v4i3EHLTzPvxNQnYV",
+   "best": "Handmade Tanzanite Flower Ring: 925 Sterling Silver ...",
+   "med": 26,
    "ratio": 0.33,
    "ai_value": ""
   },
@@ -26662,6 +26882,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/wrentham-vintage-dried-flowers-frames/236nmiDgFRraeHr9pP5sF6",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955632704",
+   "title": "Chico's Multi-Strand Beaded Necklace",
+   "price": 16,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/bergenfield-chicos-multi-strand-beaded/qY4X7MUJcTN9Pj5JJY1z6V",
+   "best": "Chico's | Jewelry | Chicos Red And Black Necklace | Poshmark",
    "med": null,
    "ratio": null,
    "ai_value": ""
