@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:34:29Z",
+ "updated": "2026-10-15T06:40:18Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11074,
-  "events": 36293,
+  "lens": 11099,
+  "events": 36318,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 578,
-  "flagged": 2364,
-  "lensed": 719
+  "queued": 553,
+  "flagged": 2380,
+  "lensed": 728
  },
  "last_harvests": [
   {
@@ -1122,6 +1122,17 @@
    "best": "Vintage Gold Tone Brushed Texture Round Circle Faux Pearl ...",
    "med": 155,
    "ratio": 77.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954368004",
+   "title": "Vintage Costume Jewelry",
+   "price": 5,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/puyallup-vintage-costume-jewelry/38CJ8NXrnajNMJCAY7Vndk",
+   "best": "Shiny Burgundy, Red Large and Medium Beads, Twisted ...",
+   "med": 369,
+   "ratio": 73.8,
    "ai_value": ""
   },
   {
@@ -3101,6 +3112,17 @@
    "url": "https://www.craigslist.org/view/d/castro-valley-handmade-pottery-pitcher/tXZEiPpTxTqXUR552o6FkS",
    "best": "Etsy",
    "med": 290,
+   "ratio": 14.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969854474",
+   "title": "Costume jewelry",
+   "price": 200,
+   "area": "wichitafalls",
+   "url": "https://www.craigslist.org/view/d/anadarko-costume-jewelry/jBvSTNUDn4EXAo79m2cvSC",
+   "best": "Silver Diamond Rings",
+   "med": 2900,
    "ratio": 14.5,
    "ai_value": ""
   },
@@ -5404,6 +5426,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952566023",
+   "title": "Vintage Large Bohemian Cut Glassd Vase",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-large-bohemian/3W1mPmVGehdcLHFKLoDFzf",
+   "best": "1960s Bohemian Cobalt Blue Cut Crystal Glass Vase 14 ...",
+   "med": 495,
+   "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7936141110",
    "title": "waltham pocket watch antique",
    "price": 60,
@@ -6328,6 +6361,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955334342",
+   "title": "Vintage Hawaiian/ Vietnamese Painting",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-hawaiian/sT7SP4ttoeJjEJEBDiQ9u5",
+   "best": "Asian Nude Oil Painting sold at auction on 28th June | Bidsquare",
+   "med": 1327,
+   "ratio": 5.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7951573276",
    "title": "* vintage ROSARY with beautiful medal, beads and cross. excellent. $15",
    "price": 15,
@@ -6889,6 +6933,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966155465",
+   "title": "Vintage Bohemia Glass Etched Vase",
+   "price": 55,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-bohemia-glass/3KrzHAX6UUE4d3YB67Noak",
+   "best": "GALLE Signed Cameo Art Nouveau Glass Vase US Duty Free | eBay",
+   "med": 259,
+   "ratio": 4.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7950474788",
    "title": "Illinois Watch Co Pocket Watch. for Parts",
    "price": 49,
@@ -7072,6 +7127,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-train-engraved-vintage-elgin/6HAY6jsgg9So61dDKMwBAw",
    "best": "Elgin Veritas 1903 Size 18 Railroad Grade Pocket Watch ...",
    "med": 675,
+   "ratio": 4.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971243675",
+   "title": "9.5\" x 4\" Vintage Peking Glass Vase with Overlay Red Blossom Tree",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-95-4-vintage-peking-glass-vase/b3KNqqycPTuF6TEtzYsmED",
+   "best": "Peking Glass vase with overlay red blossom tree CIRCA 1970s ...",
+   "med": 68,
    "ratio": 4.53,
    "ai_value": ""
   },
@@ -7395,6 +7461,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963693713",
+   "title": "Hallmark Celebrate Life Slider Charm Bracelet Very Nice!",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-hallmark-celebrate-life-slider/mYAuP9xxaqCag6M5UgRn72",
+   "best": "Vintage | Jewelry | 300 Celebrate Life Silver Tone ...",
+   "med": 65,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7979757228",
    "title": "Bodhran",
    "price": 100,
@@ -7567,6 +7644,17 @@
    "url": "https://www.craigslist.org/view/d/niles-beautiful-tissot-watch/31qrFccVFcV5fEt3aGEvet",
    "best": "Tissot",
    "med": 339,
+   "ratio": 4.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959777795",
+   "title": "Vintage Black Opal Sterling Silver Stud Earrings",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-black-opal-sterling/gorJB8iJzP31QCCfeLYsR7",
+   "best": "925 Sterling Silver Dark Blue Natural Large Australian Opal ...",
+   "med": 106,
    "ratio": 4.24,
    "ai_value": ""
   },
@@ -14732,6 +14820,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971092439",
+   "title": "Haitian lidded wood bowl",
+   "price": 15,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-haitian-lidded-wood-bowl/6z26HJj5bUp2f86HPp57zm",
+   "best": "Hull Pottery Brown Drip Glaze Sugar Bowl 4\" OVEN PROOF | eBay",
+   "med": 26,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7974838716",
    "title": "Silver and Turquoise Ring Sz5",
    "price": 29,
@@ -14739,6 +14838,17 @@
    "url": "https://www.craigslist.org/view/d/natick-silver-and-turquoise-ring-sz5/54qMQkLfwwn5SUfEAjmYnG",
    "best": "eBay",
    "med": 50,
+   "ratio": 1.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954430217",
+   "title": "Vintage Tiffany Mantel Clock",
+   "price": 145,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-tiffany-mantel/41krXcBdb4qRXKEbiqoomv",
+   "best": "Black Atmos Clock from Jaeger Lecoultre, 1969 | Chairish",
+   "med": 250,
    "ratio": 1.72,
    "ai_value": ""
   },
@@ -15832,6 +15942,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970260902",
+   "title": "Vintage Bulova Men's Quartz Watch. Needs battery.",
+   "price": 75,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-bulova-mens-quartz/iQ6CZiUjJtm5TeWgSbAmQ1",
+   "best": "Bulova Men's Bracelet Gold Watch 97C28 - Walmart.com",
+   "med": 114,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7950454675",
    "title": "Elgin Silver Big Antique POCKET WATCH \u231a",
    "price": 199,
@@ -16477,6 +16598,17 @@
    "url": "https://www.craigslist.org/view/d/bellevue-greek-20-drachmai-coin-necklace/dSj5yy1Xgs67Mxp2P2zEGN",
    "best": "eBay",
    "med": 29,
+   "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953172076",
+   "title": "Fire Opal gold charm",
+   "price": 460,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-fire-opal-gold-charm/uZQTwEzzQoQERqoRRnP7EH",
+   "best": "4.31ct Freeform Orange Mexican Fire Opal Pendant in 14kt ...",
+   "med": 665,
    "ratio": 1.45,
    "ai_value": ""
   },
@@ -19902,6 +20034,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983754980",
+   "title": "Vintage Bradley Mickey Mouse Watch Not Working. Stored away for 55 years WOW!",
+   "price": 100,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-vintage-bradley-mickey-mouse/bsXQAFLUR5y9cH4hqZDeAH",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -23169,6 +23312,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983787761",
+   "title": "Vintage Christmas baskets",
+   "price": 45,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-christmas-baskets/aumxYNr6ua9v1iYJPLLqtJ",
+   "best": "Vintage | Accents | Vintage Wicker Sewing Basket Plastic ...",
+   "med": 25,
+   "ratio": 0.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7961822934",
    "title": "Set of 15 WW1 Lead Soldiers > Various Poses>Excellent",
    "price": 65,
@@ -23352,6 +23506,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-sterling-silver-mom-nana-open/eRZtFGqpnUup16M3imX3ou",
    "best": "eBay",
    "med": 16,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937067422",
+   "title": "Vintage Weller Louwelsa Mug",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-weller-louwelsa/axX3RRM5VxHqY4M64VaCqK",
+   "best": "Erin / E. Janow Art Pottery Layered Glazed Mug - Coffee/Tea ...",
+   "med": 40,
    "ratio": 0.53,
    "ai_value": ""
   },
@@ -24650,6 +24815,17 @@
    "url": "https://www.craigslist.org/view/d/camarillo-tobacco-vintage-collectables/x4ypePNwF9bJZ3476GovST",
    "best": "eBay",
    "med": 14,
+   "ratio": 0.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955659128",
+   "title": "West Germany figurines",
+   "price": 90,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/middletown-west-germany-figurines/oTaMBMoeHtJA3aZv5PunJg",
+   "best": "Vintage Hummel Goebel Boys Lot Of 3 | eBay",
+   "med": 25,
    "ratio": 0.28,
    "ai_value": ""
   },

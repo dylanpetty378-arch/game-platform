@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T06:34:29Z
+# Refurbish status — 2026-10-15T06:40:18Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2364 |
-| lensed | 719 |
-| queued | 578 |
+| flagged | 2380 |
+| lensed | 728 |
+| queued | 553 |
 | queued/relens | 485 |
 | decided/ask | 85 |
 | decided/kill | 40 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 13
 - searches: 3068
 - listings: 12983
-- lens: 11074
-- events: 36293
+- lens: 11099
+- events: 36318
 - comps: 2758
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2364)
+## Flagged by Lens, waiting for photo review (2380)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -201,6 +201,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00s0s_yCO7XW3goW_0CI0hR_300x300.jpg" width="120"> | 7953446717 | $1 | nh | [Wedgewood](https://www.craigslist.org/view/d/raymond-wedgewood/ry77GkhiBDpjxbHFe3HptL) | Etsy | 79 | 79 |
 | <img src="https://images.craigslist.org/00s0s_2tWdLsXmgrh_0jm0ew_300x300.jpg" width="120"> | 7952447071 | $10 | chicago | [New purse, jewelry](https://www.craigslist.org/view/d/new-purse-jewelry/ksUuNy9TYSHQQbkWFjyRv7) | Craigslist | 775 | 77.5 |
 | <img src="https://images.craigslist.org/00G0G_4iSLJBCs2cy_1l610k_300x300.jpg" width="120"> | 7935117254 | $2 | sandiego | [Gold tone circle pin with faux pearl](https://www.craigslist.org/view/d/carlsbad-gold-tone-circle-pin-with-faux/huokyDgh5xRZGKv5FhNBpE) | Vintage Gold Tone Brushed Texture Round Circle Faux Pearl .. | 155 | 77.5 |
+| <img src="https://images.craigslist.org/00202_eVZ5jOAgRFx_0lM0CI_300x300.jpg" width="120"> | 7954368004 | $5 | seattle | [Vintage Costume Jewelry](https://www.craigslist.org/view/d/puyallup-vintage-costume-jewelry/38CJ8NXrnajNMJCAY7Vndk) | Shiny Burgundy, Red Large and Medium Beads, Twisted ... | 369 | 73.8 |
 | <img src="https://images.craigslist.org/00T0T_aio4u70EH0C_0lM0t2_300x300.jpg" width="120"> | 7933968362 | $49 | orangecounty | [JAZ Paris Watch Ladies 18k gold plated Oval Dial](https://www.craigslist.org/view/d/irvine-jaz-paris-watch-ladies-18k-gold/g3tYMbR1fKrRjRw76mYoyK) | Cartier Vendome LM - Ref. 78090 / Watch Scout | 3600 | 73.47 |
 | <img src="https://images.craigslist.org/00U0U_kK6igwEIdZa_0lR0t2_300x300.jpg" width="120"> | 7940455351 | $20 | tampa | [2 ladies geometric bracelets](https://www.craigslist.org/view/d/apollo-beach-ladies-geometric-bracelets/kNAYBb8ewWxFuxqrTdadmi) | Vintage 1970s Sterling Silver Wave Cuff Bracelet ... | 1459 | 72.95 |
 | <img src="https://images.craigslist.org/00L0L_dousbkvQYqx_0t20CI_300x300.jpg" width="120"> | 7942507551 | $10 | charlotte | [Jewelry coins](https://www.craigslist.org/view/d/charlotte-jewelry-coins/3TQwCvKeHjZdipTD6GoVEo) | Vintage 14K Yellow Gold Emerald Cat Kitten Bow Brooch Pin .. | 723 | 72.3 |
@@ -262,4 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01414_dxLuPR6TU9F_0lM0t2_300x300.jpg" width="120"> | 7979679837 | $40 | honolulu | [vintage large copper kettle](https://www.craigslist.org/view/d/hilo-vintage-large-copper-kettle/vrM6RRgh2ESuUqtPerjHg8) | Union Drummer Boy | 1400 | 35 |
 | <img src="https://images.craigslist.org/00f0f_jq3pNL75oph_0Nm13O_300x300.jpg" width="120"> | 7958808027 | $25 | santabarbara | [Sterling Silver Rings](https://www.craigslist.org/view/d/solvang-sterling-silver-rings/xzNp9bkNcip9nXnnGdWWfv) | Lot of 8 Silver Tone Rings Blue Green Glass Amethyst ... | 850 | 34 |
 | <img src="https://images.craigslist.org/00707_b9xC6bFB5n7_0BK156_300x300.jpg" width="120"> | 7949488239 | $5 | stlouis | [MIXED JEWELRY](https://www.craigslist.org/view/d/saint-charles-mixed-jewelry/5HsE8zZqNCHSUqpTBz5y7W) | Etsy | 170 | 34 |
-| <img src="https://images.craigslist.org/00F0F_a4wp3YgN3HN_0t20CI_300x300.jpg" width="120"> | 7952605223 | $50 | seattle | [Beautiful sterling silver bracelet marked 925](https://www.craigslist.org/view/d/renton-beautiful-sterling-silver/q12nRXCWatTK4vPWcwkBEk) | Vintage Lovely Silver & Gold Tone Magnetic Therapy Bracelet  | 1650 | 33 |
