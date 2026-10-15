@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-15T22:38:57Z",
+ "updated": "2026-10-15T22:43:18Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 13199,
-  "events": 40392,
+  "lens": 13224,
+  "events": 40420,
   "comps": 3149,
-  "item_types": 893,
+  "item_types": 906,
   "runs": 0
  },
  "stages": {
@@ -18,12 +18,13 @@
   "decided/bundle": 4,
   "decided/kill": 125,
   "expired": 19,
-  "decided/find": 16,
+  "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 53,
-  "flagged": 3946,
-  "lensed": 1262
+  "queued": 28,
+  "flagged": 3966,
+  "lensed": 1267,
+  "contacted/find": 3
  },
  "last_harvests": [
   {
@@ -1125,6 +1126,17 @@
    "best": "14K White Gold 5CT Two-Tone Diamonds Large Cross | eBay",
    "med": 9680,
    "ratio": 108.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945841922",
+   "title": "Vintage 1972 Fender Catalog",
+   "price": 45,
+   "area": "wilmington",
+   "url": "https://www.craigslist.org/view/d/rocky-point-vintage-1972-fender-catalog/vybopwTxJVV8BfYGQ5xRsr",
+   "best": "Vintage Guitar and Bass",
+   "med": 4800,
+   "ratio": 106.67,
    "ai_value": ""
   },
   {
@@ -2316,6 +2328,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983931830",
+   "title": "Sterling Silver Necklaces",
+   "price": 20,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-sterling-silver-necklaces/sbytkEDHkVs1QuPursYhfR",
+   "best": "eBay",
+   "med": 828,
+   "ratio": 41.4,
+   "ai_value": "price of $15"
+  },
+  {
    "pid": "7983713769",
    "title": "Vintage Framed Oil Painting /Artwork - Local Artist",
    "price": 40,
@@ -2356,6 +2379,17 @@
    "url": "https://www.craigslist.org/view/d/kings-park-antique-oil-painting/h4iE3V9ievpkUNNiFKPzs7",
    "best": "Artist is 'E SENECA' - Anyone know of this artist? : r ...",
    "med": 3000,
+   "ratio": 40,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930964394",
+   "title": "Terry Redlin Pictures",
+   "price": 15,
+   "area": "nd",
+   "url": "https://www.craigslist.org/view/d/grand-forks-terry-redlin-pictures/asekJeSfaXRjgqqDNUJoiZ",
+   "best": "eBay",
+   "med": 600,
    "ratio": 40,
    "ai_value": ""
   },
@@ -2797,6 +2831,17 @@
    "best": "Etsy",
    "med": 765,
    "ratio": 30.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948195636",
+   "title": "Shadow box of art of ladies face",
+   "price": 20,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-shadow-box-of-art-of-ladies-face/4WugQmUW7TZpZFBkHDZ5Gi",
+   "best": "Signed Shrunken Heads Tsantsa Trophies & Human Exotica ...",
+   "med": 610,
+   "ratio": 30.5,
    "ai_value": ""
   },
   {
@@ -6683,6 +6728,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974401988",
+   "title": "3 Unique Necklaces",
+   "price": 15,
+   "area": "merced",
+   "url": "https://www.craigslist.org/view/d/copperopolis-unique-necklaces/un5wgAdAqYF5KNP5ycLWUy",
+   "best": "African Yin Yang, 2 Necklaces, Wood Fertility Goddess, Water ...",
+   "med": 145,
+   "ratio": 9.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7949945567",
    "title": "Vintage Monet signed engraved clamper bangle bracelet 2.5\" across",
    "price": 45,
@@ -9224,6 +9280,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971882195",
+   "title": "Antique. Metal  20th century night watcher boy",
+   "price": 80,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/stafford-antique-metal-20th-century/xnJ11VQ6VveHf9Fhzbdn1w",
+   "best": "Vintage alloyed figurine \u201cNight Watcher Boy\u201d finished in ...",
+   "med": 498,
+   "ratio": 6.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7938167228",
    "title": "Star pendant",
    "price": 20,
@@ -10661,6 +10728,17 @@
    "url": "https://www.craigslist.org/view/d/bend-assorted-pairs-pierced-earrings/eHSptiE8EKMqMoRkEm1hwE",
    "best": "Vintage Post Earrings Gold Tone Lot Of 22 Brutalist Modern ...",
    "med": 26,
+   "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931744817",
+   "title": "Nice Chinese Ceramic pot  #2",
+   "price": 30,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-nice-chinese-ceramic-pot/eYcKhhowWBLsKRuDpwtYYS",
+   "best": "eBay",
+   "med": 156,
    "ratio": 5.2,
    "ai_value": ""
   },
@@ -14456,6 +14534,17 @@
    "url": "https://www.craigslist.org/view/d/herndon-mens-sterling-silver-ring-size/nBWgDeL3MGt5SPYNYAqaN2",
    "best": "925 Sterling Silver Vintage Viking Rune Band Ring Size 7.25 ...",
    "med": 108,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965485682",
+   "title": "NECKLACE & EARRING SET",
+   "price": 5,
+   "area": "erie",
+   "url": "https://www.craigslist.org/view/d/harborcreek-necklace-earring-set/jPYa7kgbNXUmDLHyQm2y8r",
+   "best": "Craigslist",
+   "med": 18,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -19267,6 +19356,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7951671632",
+   "title": "BEAUTIFUL NECKLACE",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-beautiful-necklace/efJqsQCDvBWH8KxBZ9BEFU",
+   "best": "Gargantilla Triple Eslabones Metal al por mayor para tu ...",
+   "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984032312",
+   "title": "Shiprock",
+   "price": 120,
+   "area": "farmington",
+   "url": "https://www.craigslist.org/view/d/farmington-shiprock/dRi9XFCwPyc69T4M75wcoi",
+   "best": "Great old American Desert Painting listed Artist | eBay",
+   "med": 300,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952572829",
    "title": "VINTAGE 1950-60'S ELKORN GETZEN CLARINET",
    "price": 80,
@@ -21016,6 +21127,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944824530",
+   "title": "Vintage Concert Zither",
+   "price": 150,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-concert-zither/cG1tEpsEwdDA6N9dsgW2xF",
+   "best": "eBay",
+   "med": 330,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7954241639",
    "title": "Sterling Onyx Bracelet Mexico Old Heavy",
    "price": 150,
@@ -21474,6 +21596,17 @@
    "url": "https://www.craigslist.org/view/d/somerville-vintage-80s-american-girl/uApxKDqMRd4iKBZt5yRvpE",
    "best": "eBay",
    "med": 21,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930848027",
+   "title": "Y2K Green Handmade Signed Texas Pottery Bowl 7\" Diameter",
+   "price": 20,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-y2k-green-handmade-signed/p6GHoCWF3NvqFx1RBuuHn3",
+   "best": "Craigslist",
+   "med": 42,
    "ratio": 2.1,
    "ai_value": ""
   },
@@ -24048,6 +24181,17 @@
    "url": "https://www.craigslist.org/view/d/peoria-butteryfly-pin-brooch/het42gn7FhYUJkfKnPv3Sk",
    "best": "Liz Claiborne | Jewelry | Liz Claiborne Colorful Metallic ...",
    "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953307856",
+   "title": "Antique Crystal Decanter",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-antique-crystal-decanter/v346Q9nq4w3nrQRKN2YBsx",
+   "best": "eBay",
+   "med": 90,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -26995,6 +27139,17 @@
    "area": "kansascity",
    "url": "https://www.craigslist.org/view/d/shawnee-1990s-signed-pendant-pin-and/c7nnfSRgqZbnjFidw2r2ps",
    "best": "Etsy",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939878900",
+   "title": "Vintage 20's Dougall Ketchum pin",
+   "price": 20,
+   "area": "lincoln",
+   "url": "https://www.craigslist.org/view/d/lincoln-vintage-20s-dougall-ketchum-pin/tUjiEimGtAChp9zz8Svdu3",
+   "best": "eBay",
    "med": 30,
    "ratio": 1.5,
    "ai_value": ""
@@ -30608,6 +30763,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935134425",
+   "title": "Antique Fan",
+   "price": 58,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/walnut-antique-fan/3fJni2AeTZHJgRLL5h4VGV",
+   "best": "Pinterest",
+   "med": 68,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949254133",
    "title": "Vintage Suarti Sterling Silver & Cultured Pearl Cuff",
    "price": 160,
@@ -32929,6 +33095,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944029290",
+   "title": "Vintage Wind Up Music Box From The Movie Love Story",
+   "price": 30,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-wind-up-music-box-from/fk1kwtTtFEs8hZXhtqgt11",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -33618,6 +33795,17 @@
    "url": "https://www.craigslist.org/view/d/arlington-vintage-turquoise-lustreware/9NgNnnvmnZQg5dzADwe5o1",
    "best": "Craigslist",
    "med": 23,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964803653",
+   "title": "Mayan Mask",
+   "price": 75,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-mayan-mask/hrSeHdtSNSjySfo1tjN3gD",
+   "best": "eBay",
+   "med": 69,
    "ratio": 0.92,
    "ai_value": ""
   },
@@ -37241,6 +37429,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980733020",
+   "title": "Harmony Kingdom Collectibles",
+   "price": 40,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/glendale-harmony-kingdom-collectibles/6FHFoGWjg5Kj7U7ozTg9Wy",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7951814381",
    "title": "Hallmark Fine Open Heart Diamond Necklace",
    "price": 100,
@@ -39408,6 +39607,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957643732",
+   "title": "Doll Collection",
+   "price": 30,
+   "area": "prescott",
+   "url": "https://www.craigslist.org/view/d/mayer-doll-collection/iAMspcZJSxyoxCAW9Cv74a",
+   "best": "eBay",
+   "med": 13,
+   "ratio": 0.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7983222369",
    "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
    "price": 38,
@@ -41527,6 +41737,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-vintage-gold-lane-tech-tie/n8UhHjgnVXXrR6ZBuSNeiB",
    "best": "WorthPoint",
    "med": 20,
+   "ratio": 0.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956282724",
+   "title": "Mario C\u00e9spedes Seoane Signed Lithograph #1",
+   "price": 250,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/goleta-mario-cspedes-seoane-signed/cH87kb7uYBcdEwAxHkKhKL",
+   "best": "Etsy",
+   "med": 40,
    "ratio": 0.16,
    "ai_value": ""
   },
@@ -44783,8 +45004,8 @@
    "price": 50.0,
    "area": "fb 8",
    "url": "https://www.ebay.com/itm/377556654389",
-   "note": "REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150 incl BP: Moran 11/2025 $264 lacquer+spalling; Pook 10/2020 avanyu olla worn $310; Moran 9/2026 repaired $1,143). Clean 5-9in Marie jars $2,600-5,400. Max bid $275.",
-   "stage": "decided",
+   "note": "Dylan placed a bid (Oct 15, told the chat)",
+   "stage": "contacted",
    "status": "find"
   },
   {
@@ -44833,8 +45054,8 @@
    "price": 19.99,
    "area": "fb 138",
    "url": "https://www.ebay.com/itm/377572449600",
-   "note": "Qajar Persian lacquered papier-mache qalamdan, late 19th c., figural lid (hunt scene) and side village scenes, red-ground underside, turquoise interior; ~9.5 in | Damaged-band value only; correctly titled so may be bid past $55 - walk away. At 55: 180x0.87=157 - 55 - ~25 shipping both ways = ~77 profit. Seller id added to ebay-seller-req.json; detail mode must run in GitHub Actions (eBay API block",
-   "stage": "decided",
+   "note": "Dylan placed a bid (Oct 15, told the chat)",
+   "stage": "contacted",
    "status": "find"
   },
   {
@@ -44843,8 +45064,8 @@
    "price": 68.0,
    "area": "fb 129",
    "url": "https://www.ebay.com/itm/128137081948",
-   "note": "Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possibly a kokoshnik '56' = 14k). Listed as 'gold tone' | Passes the hallmark rule, but the karat number is unread. Risk: Russian '84' silver-gilt uses the same oval cartouche (silver-gi",
-   "stage": "decided",
+   "note": "Dylan placed a bid (Oct 15, told the chat)",
+   "stage": "contacted",
    "status": "find"
   },
   {

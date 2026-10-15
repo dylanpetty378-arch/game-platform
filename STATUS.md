@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T22:38:57Z
+# Refurbish status — 2026-10-15T22:43:18Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,17 +7,18 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3946 |
-| lensed | 1262 |
+| flagged | 3966 |
+| lensed | 1267 |
 | queued/relens | 486 |
 | decided/kill | 125 |
 | decided/ask | 80 |
-| queued | 53 |
+| queued | 28 |
 | expired | 19 |
 | photo_review/ask | 17 |
-| decided/find | 16 |
+| decided/find | 13 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
+| contacted/find | 3 |
 | comps/pass | 1 |
 
 ## Tables
@@ -25,10 +26,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 13199
-- events: 40392
+- lens: 13224
+- events: 40420
 - comps: 3149
-- item_types: 893
+- item_types: 906
 - runs: 0
 
 ## Last harvests
@@ -131,16 +132,16 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Hiroshige I, Vertical Tokaido (Gojusan tsugi meisho zue) no.13 'Numazu, Ashigarayama Fuji no yukibare', 1855 design; title wrongly says Hiroshige II / 36 Views of Fuji — Edition unproven. The clos |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
-| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/127/Items/2026-10-08/d874242d-9743-4d78-80cc-27212499753asley_1008t1.jpeg_300x300.jpg" width="160"> | [Prints - SIGNED by Artist Sonia Delaunay & Poem by Tristan T](https://shopgoodwill.com/item/279896220) | $12.99 | seller 127 | **decided/find** — Sonia Delaunay original colour lithograph, 1968. Imprimerie du Lion, Paris; Editions des Nouvelles Images (Lombreuil), Collection Correspondances no 6. Edition of 420 on velin de Rives, exemplaire no 333. Folder with Ecc |
 | <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/122/Item/2026-10-08/9830893a-5584-486d-b4a0-e55cb82cf2f0llen_1008t1.jpeg_300x300.jpg" width="160"> | [Original 1943 Warren Hunter Watercolor Landscape Painting Fr](https://shopgoodwill.com/item/279898312) | $69.99 | seller 122 | **decided/find** — Watercolor pond landscape with lily pads, signed in block caps 'WARREN HUNTER 1943', glazed and framed; attributed to Warren Hunter (1904-1993), San Antonio / The block-caps signature does not match the reference example |
 | <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/43/Items/2026-10-13/83eff7d7-97b4-48c5-91bd-cdae78461c04prob_1013t1.jpeg_300x300.jpg" width="160"> | [36.7g 14K RG Doxa Vintage For Repair Personalized Women's Wa](https://shopgoodwill.com/item/280013768) | $199.99 | seller 43 | **decided/find** — 1940s Retro Doxa ladies cocktail watch, rose gold (acid-tested 14K, unmarked) with stepped scroll lugs, synthetic-looking ruby clusters + single-cut diamond chips, double snake-chain bracelet; 36.77 g gross; crown missin |
 | <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/376/Items/2026-10-12/87e1238b-2b19-40e8-abd6-32f677a05994gewc_1012t1.jpeg_300x300.jpg" width="160"> | [Antique 1903 Early Printing Of "The Call Of The Wild" By Jac](https://shopgoodwill.com/item/280291014) | $13.0 | seller 376 | **decided/find** — Jack London, The Call of the Wild, Macmillan 1903, pictorial green cloth, Goodwin/Bull illustrations, THIRD printing / Fair condition: rubbed corners, frayed spine ends, toned pages, plates present. Not a 1st printing, s |
-| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/3YQAAeSwdbtqb6i4/s-l225.jpg_300x300.jpg" width="160"> | [Rare Antique Persian Qalamdan Pen Case – 19th Century Hand-P](https://www.ebay.com/itm/377572449600) | $19.99 | fb 138 | **decided/find** — Qajar Persian lacquered papier-mache qalamdan, late 19th c., figural lid (hunt scene) and side village scenes, red-ground underside, turquoise interior; ~9.5 in / Damaged-band value only; correctly titled so may be bid p |
-| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **decided/find** — Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possib |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/3YQAAeSwdbtqb6i4/s-l225.jpg_300x300.jpg" width="160"> | [Rare Antique Persian Qalamdan Pen Case – 19th Century Hand-P](https://www.ebay.com/itm/377572449600) | $19.99 | fb 138 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (3946)
+## Flagged by Lens, waiting for photo review (3966)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -204,6 +205,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00Q0Q_2yrTrwBRZFW_0CI0CI_300x300.jpg" width="120"> | 7945030164 | $1 | stcloud | [ROOSTERS n Stuff](https://www.craigslist.org/view/d/little-falls-roosters-stuff/h5H4AmnyaWMSKqRrGDtKWw) | eBay | 113 | 113 |
 | <img src="https://images.craigslist.org/00404_9R4uwm3M9Ef_0t20CA_300x300.jpg" width="120"> | 7953166452 | $40 | austin | [Gold lanco pocket watch](https://www.craigslist.org/view/d/austin-gold-lanco-pocket-watch/5AZzoJKBycxZq83FJUo8tz) | VINTAGE 1940'S DIANA WATCH 67A / eBay | 4399 | 109.97 |
 | <img src="https://images.craigslist.org/00A0A_gUqMlHE7VLz_0MM132_300x300.jpg" width="120"> | 7954561566 | $89 | pittsburgh | [Big Sterling Silver Yellow &White Gemstone CROSS](https://www.craigslist.org/view/d/strabane-big-sterling-silver-yellow/ejQKW5PfHcHVBWzWedJobh) | 14K White Gold 5CT Two-Tone Diamonds Large Cross / eBay | 9680 | 108.76 |
+| <img src="https://images.craigslist.org/00202_kuVISEfv3S2_0Ny13O_300x300.jpg" width="120"> | 7945841922 | $45 | wilmington | [Vintage 1972 Fender Catalog](https://www.craigslist.org/view/d/rocky-point-vintage-1972-fender-catalog/vybopwTxJVV8BfYGQ5xRsr) | Vintage Guitar and Bass | 4800 | 106.67 |
 | <img src="https://images.craigslist.org/00c0c_XZ1qulzZ4X_0CI0t2_300x300.jpg" width="120"> | 7946281064 | $175 | asheville | [Cozart Gold Leaf Strat](https://www.craigslist.org/view/d/asheville-cozart-gold-leaf-strat/ajtegAE17aLqK3nRjobtEg) | Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ... | 18362 | 104.93 |
 | <img src="https://images.craigslist.org/00909_9WFMAL3htOS_0CI0l9_300x300.jpg" width="120"> | 7955892189 | $15 | boise | [Silver Tone Rhinestone TRIANGLE 18" Necklace](https://www.craigslist.org/view/d/boise-silver-tone-rhinestone-triangle/cqm1R8hJpb71Gt3wHiakK3) | eBay | 1560 | 104 |
 | <img src="https://images.craigslist.org/00I0I_9McHJvnwqRd_0uY0hq_300x300.jpg" width="120"> | 7966080237 | $29 | boston | [Vintage 18" Diamond-Cut Gold-Tone Rope Chain Neckl](https://www.craigslist.org/view/d/natick-vintage-18-diamond-cut-gold-tone/ezfyQtYa7pxbxJEocdH5Vs) | eBay | 3000 | 103.45 |
@@ -265,4 +267,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01212_r59b0nsrR8_0d40hq_300x300.jpg" width="120"> | 7976459112 | $1 | sfbay | [Vintage items](https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG) | Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag  | 60 | 60 |
 | <img src="https://images.craigslist.org/00d0d_3wujKbw5DqH_1761u8_300x300.jpg" width="120"> | 7975391187 | $20 | minneapolis | [Chinese Foo Dog Figures](https://www.craigslist.org/view/d/cambridge-chinese-foo-dog-figures/h4gcQtc4gynusRM1KwqhjJ) | Etsy | 1190 | 59.5 |
 | <img src="https://images.craigslist.org/00v0v_aHBN53mpdQpz_0lG0t2_300x300.jpg" width="120"> | 7983863388 | $8 | boston | [RING! Sterling Crystal Rainbow Iridescent Gemstone](https://www.craigslist.org/view/d/braintree-ring-sterling-crystal-rainbow/i8iMWCoERerQE8BYkkZDiH) | Etsy | 474 | 59.25 |
-| <img src="https://images.craigslist.org/00V0V_ahQJdvWccWi_0CI0qs_300x300.jpg" width="120"> | 7983656892 | $10 | raleigh | [NC Pottery - Mildred Teague Baskets](https://www.craigslist.org/view/d/cary-nc-pottery-mildred-teague-baskets/dYzUmb3oU2YpXL1BNUDBt4) | Vintage 1953 Dutch Milk Maid Pitcher: Hand-painted Spring .. | 590 | 59 |

@@ -40393,3 +40393,28 @@
 {"pid":"ebay377556654389","stage":"contacted","status":"find","type":null,"note":"Dylan placed a bid (Oct 15, told the chat)","run":null,"by":"dylan","data":{"action":"bid"},"ts":"2026-10-15T22:41:46Z"}
 {"pid":"ebay128137081948","stage":"contacted","status":"find","type":null,"note":"Dylan placed a bid (Oct 15, told the chat)","run":null,"by":"dylan","data":{"action":"bid"},"ts":"2026-10-15T22:41:46Z"}
 {"pid":"ebay377572449600","stage":"contacted","status":"find","type":null,"note":"Dylan placed a bid (Oct 15, told the chat)","run":null,"by":"dylan","data":{"action":"bid"},"ts":"2026-10-15T22:41:46Z"}
+{"ts":"2026-10-15T22:38:47Z","pid":"7951671632","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Accessories, Jewelry — title does not","data":{"med":50,"ratio":2.5,"mismatch":["Accessories","Jewelry"]}}
+{"ts":"2026-10-15T22:38:58Z","pid":"7951493696","stage":"lensed","run":"lensworker-20261015-2231","note":null,"data":{"med":48,"ratio":0.96,"mismatch":[]}}
+{"ts":"2026-10-15T22:39:06Z","pid":"7931744817","stage":"flagged","run":"lensworker-20261015-2231","note":null,"data":{"med":156,"ratio":5.2,"mismatch":[]}}
+{"ts":"2026-10-15T22:39:15Z","pid":"7948195636","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Heads — title does not","data":{"med":610,"ratio":30.5,"mismatch":["Heads"]}}
+{"ts":"2026-10-15T22:39:25Z","pid":"7944824530","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Harmony — title does not","data":{"med":330,"ratio":2.2,"mismatch":["Harmony"]}}
+{"ts":"2026-10-15T22:39:31Z","pid":"7953307856","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Libbey, Period — title does not","data":{"med":90,"ratio":1.8,"mismatch":["Libbey","Period"]}}
+{"ts":"2026-10-15T22:39:39Z","pid":"7957643732","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Arco, Origin — title does not","data":{"med":13,"ratio":0.43,"mismatch":["Arco","Origin"]}}
+{"ts":"2026-10-15T22:39:48Z","pid":"7939878900","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Silver — title does not","data":{"med":30,"ratio":1.5,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T22:39:56Z","pid":"7956404273","stage":"lensed","run":"lensworker-20261015-2231","note":null,"data":{"med":43,"ratio":1.72,"mismatch":[]}}
+{"ts":"2026-10-15T22:40:04Z","pid":"7930848027","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Studio — title does not","data":{"med":42,"ratio":2.1,"mismatch":["Studio"]}}
+{"ts":"2026-10-15T22:40:13Z","pid":"7945841922","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Fuller — title does not","data":{"med":4800,"ratio":106.67,"mismatch":["Fuller"]}}
+{"ts":"2026-10-15T22:40:20Z","pid":"7974401988","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Jewelry — title does not","data":{"med":145,"ratio":9.67,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T22:40:32Z","pid":"7971882195","stage":"flagged","run":"lensworker-20261015-2231","note":"Lens names Indian — title does not","data":{"med":498,"ratio":6.22,"mismatch":["Indian"]}}
+{"ts":"2026-10-15T22:40:42Z","pid":"7947168857","stage":"lensed","run":"lensworker-20261015-2231","note":null,"data":{"med":55,"ratio":3.67,"mismatch":[]}}
+{"ts":"2026-10-15T22:40:51Z","pid":"7945083981","stage":"lensed","run":"lensworker-20261015-2238","note":null,"data":{"med":94,"ratio":1.88,"mismatch":[]}}
+{"ts":"2026-10-15T22:41:00Z","pid":"7965485682","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Avon, Silver — title does not","data":{"med":18,"ratio":3.6,"mismatch":["Avon","Silver"]}}
+{"ts":"2026-10-15T22:41:44Z","pid":"7964803653","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Mexican, Mosaic, Onyx — title does not","data":{"med":69,"ratio":0.92,"mismatch":["Mexican","Mosaic","Onyx"]}}
+{"ts":"2026-10-15T22:41:51Z","pid":"7984032312","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Artist — title does not","data":{"med":300,"ratio":2.5,"mismatch":["Artist"]}}
+{"ts":"2026-10-15T22:41:59Z","pid":"7949190542","stage":"lensed","run":"lensworker-20261015-2238","note":null,"data":{"med":32,"ratio":0.91,"mismatch":[]}}
+{"ts":"2026-10-15T22:42:06Z","pid":"7980733020","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Artist — title does not","data":{"med":25,"ratio":0.63,"mismatch":["Artist"]}}
+{"ts":"2026-10-15T22:42:13Z","pid":"7930964394","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Limited — title does not","data":{"med":600,"ratio":40,"mismatch":["Limited"]}}
+{"ts":"2026-10-15T22:42:22Z","pid":"7983931830","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Gold — title does not","data":{"med":828,"ratio":41.4,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T22:42:32Z","pid":"7956282724","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Artist, Limited — title does not","data":{"med":40,"ratio":0.16,"mismatch":["Artist","Limited"]}}
+{"ts":"2026-10-15T22:42:42Z","pid":"7944029290","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Miller, Oliver — title does not","data":{"med":30,"ratio":1,"mismatch":["Miller","Oliver"]}}
+{"ts":"2026-10-15T22:42:53Z","pid":"7935134425","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names History, National — title does not","data":{"med":68,"ratio":1.17,"mismatch":["History","National"]}}
