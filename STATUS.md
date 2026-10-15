@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T14:47:41Z
+# Refurbish status — 2026-10-15T14:51:29Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8935 |
-| flagged | 3007 |
-| lensed | 901 |
-| queued | 553 |
+| flagged | 3023 |
+| lensed | 910 |
+| queued | 528 |
 | queued/relens | 485 |
 | decided/ask | 82 |
 | decided/kill | 49 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13783
-- lens: 11899
-- events: 37989
+- lens: 11924
+- events: 38014
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (3007)
+## Flagged by Lens, waiting for photo review (3023)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -202,6 +202,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00606_fYRKfC33tqc_0t20CI_300x300.jpg" width="120"> | 7971641340 | $10 | phoenix | [Gold Plated 15 inch Floral Necklace](https://www.craigslist.org/view/d/sun-city-west-gold-plated-15-inch/rVzn8c56BtSLkbjucbFSd8) | Gold Tone Chain Choker Necklace 15" Lily Vintage Chunky Bold | 865 | 86.5 |
 | <img src="https://images.craigslist.org/00U0U_kVwLkcqr6CQ_0t20CI_300x300.jpg" width="120"> | 7944507991 | $10 | bham | [Gold Plate Over 925 pendant](https://www.craigslist.org/view/d/morris-gold-plate-over-925-pendant/rJ2ybFbUSuyaUd7ApaBnjk) | 14k Gold And Diamond Italian Necklace / eBay | 853 | 85.3 |
 | <img src="https://images.craigslist.org/00u0u_kOrqdySfj3r_0jm0pO_300x300.jpg" width="120"> | 7954287250 | $35 | washingtondc | [Fashion Gold Dragon Fly Cubic Zirconia Earrings](https://www.craigslist.org/view/d/centreville-fashion-gold-dragon-fly/mPBJfZ11LRSVdSsRqhrwji) | Rhinestone And Crystal Jewelry Shop By / Trendy Wholesale | 2977 | 85.06 |
+| <img src="https://images.craigslist.org/01212_3J2R4LtjbEY_0t20CI_300x300.jpg" width="120"> | 7935063190 | $10 | nashville | [Antique Container](https://www.craigslist.org/view/d/hendersonville-antique-container/aCGqjJFoaNV3Vezs2MtjME) | eBay | 850 | 85 |
 | <img src="https://images.craigslist.org/00T0T_8kRcHgX2LHZ_0ni0t2_300x300.jpg" width="120"> | 7938027882 | $20 | portland | [Vintage Sterling Silver Camphor Glass Pendant Vict](https://www.craigslist.org/view/d/vancouver-vintage-sterling-silver/qrPA33GUAuHWYPuHo4LfRr) | Anew Foods | 1698 | 84.9 |
 | <img src="https://images.craigslist.org/00x0x_w6PpnQEQ2i_0gt0dc_300x300.jpg" width="120"> | 7937377479 | $50 | losangeles | [Vermeil STERLING BERYL Multi gem - RING](https://www.craigslist.org/view/d/los-angeles-vermeil-sterling-beryl/geMdpWyXGGyPGVU1ADVPNk) | QuickSell | 4212 | 84.24 |
 | <img src="https://images.craigslist.org/00Z0Z_hWx4sEge6xa_0CI0t2_300x300.jpg" width="120"> | 7979132475 | $5 | miami | [7 Rings](https://www.craigslist.org/view/d/pompano-beach-rings/pRx7mTfRyXMNib9Ws6xrpX) | Craigslist | 420 | 84 |
@@ -259,4 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00l0l_hsC8n6fXXTp_0t20CI_300x300.jpg" width="120"> | 7946417677 | $175 | buffalo | [Breitling Chronometer> Blue Dial >Replica>Stainles](https://www.craigslist.org/view/d/buffalo-breitling-chronometer-blue-dial/7puGej2v4UaaRfcid4pEW2) | Reddit | 7950 | 45.43 |
 | <img src="https://images.craigslist.org/00t0t_5OcBCXBXDk0_0m90t2_300x300.jpg" width="120"> | 7933462459 | $20 | miami | [Toys In The Attic](https://www.craigslist.org/view/d/fort-lauderdale-toys-in-the-attic/oyK342y5FcdD2tM4Tjf7sf) | Coins & Bank Notes inc. House & Gardens Sale - Gorringe's | 899 | 44.95 |
 | <img src="https://images.craigslist.org/00V0V_6b3EzvF2DuM_0CI0qh_300x300.jpg" width="120"> | 7962497376 | $35 | chicago | [Antique / Vintage Silver-Plated Chamberstick Candl](https://www.craigslist.org/view/d/schaumburg-antique-vintage-silver/n1bEZSkeRpqT6h35z9tS1M) | eBay | 1569 | 44.83 |
-| <img src="https://images.craigslist.org/00Y0Y_ep0uo7jJq3N_0ra0mo_300x300.jpg" width="120"> | 7929677833 | $15 | chicago | [Vintage Danecraft 1/20 12k Gold Filled Earrings](https://www.craigslist.org/view/d/chicago-vintage-danecraft-gold-filled/bPEBpGBwLYtgXtvTswQogA) | Vintage 14k Gold Tapered Wide Band | 664 | 44.27 |

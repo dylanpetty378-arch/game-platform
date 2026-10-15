@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:47:41Z",
+ "updated": "2026-10-15T14:51:29Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11899,
-  "events": 37989,
+  "lens": 11924,
+  "events": 38014,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 553,
-  "flagged": 3007,
-  "lensed": 901
+  "queued": 528,
+  "flagged": 3023,
+  "lensed": 910
  },
  "last_harvests": [
   {
@@ -1168,6 +1168,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935063190",
+   "title": "Antique Container",
+   "price": 10,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/hendersonville-antique-container/aCGqjJFoaNV3Vezs2MtjME",
+   "best": "eBay",
+   "med": 850,
+   "ratio": 85,
+   "ai_value": ""
+  },
+  {
    "pid": "7938027882",
    "title": "Vintage Sterling Silver Camphor Glass Pendant Victorian? Art Deco",
    "price": 20,
@@ -2257,6 +2268,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977025317",
+   "title": "M pendant, Kendra Scott adjustable necklace",
+   "price": 45,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-pendant-kendra-scott-adjustable/4zpvXYF1cU1Us9HiHXYN71",
+   "best": "Beau Letter M Pendant Necklace in Vintage Silver | Kendra Scott",
+   "med": 1398,
+   "ratio": 31.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7983800325",
    "title": "Vintage Floral Still-Life Art",
    "price": 100,
@@ -2968,6 +2990,17 @@
    "url": "https://www.craigslist.org/view/d/renton-hand-made-emroidery-vase-picture/53mxLe3TwMKiwczbm8Vfma",
    "best": "Asian Embroidery Classic Chinese Vase, Blue and White Dragon ...",
    "med": 400,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953885949",
+   "title": "Crock",
+   "price": 10,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/thompson-crock/1h2K2LhDSzgu1bKoMDt9X9",
+   "best": "Vintage Stoneware Primitive Churning Canning Crock | eBay",
+   "med": 200,
    "ratio": 20,
    "ai_value": ""
   },
@@ -4919,6 +4952,17 @@
    "ai_value": "value of a Breedlove Oregon mandolin? $999"
   },
   {
+   "pid": "7951213328",
+   "title": "Oil-On-Canvas Vintage Busy Cityscape Scene Framed Painting",
+   "price": 125,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-oil-on-canvas-vintage-busy/2zDLZkFDXi3WFjaqejSS9M",
+   "best": "VINTAGE IMPRESSIONISTIC OIL PAINTING ON CANVAS FRENCH ...",
+   "med": 1295,
+   "ratio": 10.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7953417576",
    "title": "Stolzenfels Castle (German: Schloss Stolzenfels) Etching signed",
    "price": 57,
@@ -5575,6 +5619,17 @@
    "url": "https://www.craigslist.org/view/d/grants-pass-antique-weidlich-sterling/nD5ftNLdfkCCkNjT8Uf5qp",
    "best": "Olympian by Tiffany and Co Sterling Silver Fish Serving Fork ...",
    "med": 350,
+   "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952282224",
+   "title": "ITALIAN VASE, VINTAGE, RARE",
+   "price": 20,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/concord-italian-vase-vintage-rare/uSicBkUQGD6Pni3rFi7npc",
+   "best": "Antique Italian Turquoise Glass Vase With Silver Overlay ...",
+   "med": 175,
    "ratio": 8.75,
    "ai_value": ""
   },
@@ -6698,6 +6753,17 @@
    "best": "Chinese Antique Cloisonne handmade lion incense burner ...",
    "med": 233,
    "ratio": 6.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941688386",
+   "title": "Beautiful VINTAGE SILVER BRACELET / CUFF from MOROCCO",
+   "price": 40,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-beautiful-vintage-silver/gt6ukGEABGW9cxWTS1aWSe",
+   "best": "Antique Silver Anklet Bracelets: Moroccan Engraved Jewelry ...",
+   "med": 265,
+   "ratio": 6.63,
    "ai_value": ""
   },
   {
@@ -10877,6 +10943,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-poland-sterling-tie-clips/vJ8v6YABCPhMWrWNecEMb2",
    "best": "Vintage Celtic Swirl Sterling Silver 925 Amber Cabochon 7.3g ...",
    "med": 90,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979978127",
+   "title": "Horseshoe nail ring",
+   "price": 20,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/colchester-horseshoe-nail-ring/8MdHRhLb2czD9mKmM4QTKf",
+   "best": "Handmade Horseshoe Nail Prairie Diamond Ring. Unisex ...",
+   "med": 72,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -16172,6 +16249,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931122069",
+   "title": "LARGE ANTIQUE COPPER KETTLE",
+   "price": 225,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/north-adams-large-antique-copper-kettle/u1XRoQS1qYaCXBWCYC8ReZ",
+   "best": "COPPER Candy CAULDRON - Iron Handles - 25 1/2\" diameter ...",
+   "med": 480,
+   "ratio": 2.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7949666488",
    "title": "Vintage Navajo Sterling Turquoise &  Coral Chip Inlay Size 4 3/4 Ring",
    "price": 50,
@@ -20000,6 +20088,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938884150",
+   "title": "Men's skull ring",
+   "price": 99,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/waianae-mens-skull-ring/8dEjNckYX7AtQ7fiTxhB4w",
+   "best": "Beret Skull Ring - Soldier Memorial Silver Jewelry - Etsy",
+   "med": 152,
+   "ratio": 1.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788503",
    "title": "Vintage Sterling Silver & Mother of Pearl Earrings",
    "price": 45,
@@ -20990,6 +21089,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929678282",
+   "title": "Vintage Winard Scarab Beetle Jadeite Amethyst 12K Gold Filled Bracelet",
+   "price": 45,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-winard-scarab-beetle/tRd7oqCKxjgQtmbM9rVWf9",
+   "best": "Amazon.com: CiNily 14K White Gold Plated Blue Fire Opal ...",
+   "med": 65,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7971725919",
    "title": "Earrings w/Phenomenal New Zealand Shell",
    "price": 35,
@@ -21591,6 +21701,17 @@
    "url": "https://www.craigslist.org/view/d/falls-church-swarovski-retired-signed/tDzKcZhpqQFeVuAYZHf8My",
    "best": "Etiqueta \u00danica",
    "med": 90,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953189252",
+   "title": "Chinese Jade & Hand Painted Porcelain Necklace",
+   "price": 55,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/epping-chinese-jade-hand-painted/eN7qPpENtWXnB8x2ca1Ch3",
+   "best": "1950s Vintage Hand Painted Ceramic, Pale Green Jade and Gold ...",
+   "med": 76,
    "ratio": 1.38,
    "ai_value": ""
   },
@@ -26864,6 +26985,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983863937",
+   "title": "vintage watch",
+   "price": 80,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/chesapeake-vintage-watch/ipzwJJCdSx3VLT54W5HJoR",
+   "best": "Ladies DKNY Black Square Dial Mesh Stainless Steel Silver ...",
+   "med": 65,
+   "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7961182713",
    "title": "Vintage Mankato Creamery Item",
    "price": 15,
@@ -28059,6 +28191,17 @@
    "url": "https://www.craigslist.org/view/d/wilmington-sterling-silver-teacher-bell/9SgrvhLNPC9iowT5nHM2VM",
    "best": "Chai GUARDIAN BELL w/ 2 Legend Cards Good Luck & Motorcycle ...",
    "med": 28,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950793920",
+   "title": "Sterling Silver & Turquoise necklace",
+   "price": 155,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/vista-sterling-silver-turquoise-necklace/3PTZJJao2nsVsXCqBfTBQx",
+   "best": "Sterling Silver Choker Pendant Necklace with Recon ...",
+   "med": 108,
    "ratio": 0.7,
    "ai_value": ""
   },
@@ -33558,6 +33701,39 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-original-first/mApwieNfCjyHp894WzQD3f",
    "best": "VINTAGE IDAHO LEATHER CO. Boise, Idaho Q95 Knife Leather ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983881205",
+   "title": "Alvarez",
+   "price": 400,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/bonne-terre-alvarez/2qkGxYzKqbxamBTqM4usxd",
+   "best": "Ibanez PN12E Parlor Acoustic-Electric Guitar Vintage ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944482009",
+   "title": "Two knife",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-two-knife/6it9YE3VgLCC51ZvYfqQ5R",
+   "best": "Rare Swedish Vintage 12 1/2\" Wood Handle Knife Sharpening ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981534830",
+   "title": "Gil Hibben Old West Boot Knife",
+   "price": 99,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/waianae-gil-hibben-old-west-boot-knife/wiVEqCjsxxBRi9y4cpJXgd",
+   "best": "Hibben Stainless Steel Blade Boot Collectible Modern Fixed ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
