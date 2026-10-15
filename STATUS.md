@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T20:39:07Z
+# Refurbish status — 2026-10-15T20:44:46Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3403 |
-| lensed | 1079 |
-| queued | 778 |
+| flagged | 3427 |
+| lensed | 1080 |
+| queued | 753 |
 | queued/relens | 486 |
 | decided/ask | 81 |
 | decided/kill | 58 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14608
-- lens: 12474
-- events: 39442
+- lens: 12499
+- events: 39467
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
-## Flagged by Lens, waiting for photo review (3403)
+## Flagged by Lens, waiting for photo review (3427)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -183,6 +183,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00U0U_5V1gqoU72hw_0t20CI_300x300.jpg" width="120"> | 7937435125 | $20 | sfbay | [Marcasite,Sterling Silver Earrings](https://www.craigslist.org/view/d/san-francisco-marcasitesterling-silver/7bFuWD8yGuP7CGH84BEpd1) | eBay | 2515 | 125.75 |
 | <img src="https://images.craigslist.org/01111_czyerSRpvJE_0jm0cI_300x300.jpg" width="120"> | 7965711534 | $25 | santabarbara | [Bella Luce Hoop Earrings](https://www.craigslist.org/view/d/solvang-bella-luce-hoop-earrings/kt8q2YPH8uWiANGoZhkEVa) | Craigslist | 3139 | 125.56 |
 | <img src="https://images.craigslist.org/01212_jhsSh8Vnivj_0CI0t2_300x300.jpg" width="120"> | 7954702504 | $1 | bakersfield | [ASSORTED BEAR COLLECTION](https://www.craigslist.org/view/d/bakersfield-assorted-bear-collection/jMQwG9QhjKNrjJQ4JtfTjP) | Craigslist | 125 | 125 |
+| <img src="https://images.craigslist.org/00b0b_fWiT3HO9xJG_0t20CI_300x300.jpg" width="120"> | 7953983814 | $1 | tucson | [Antique Mexico .925 pin](https://www.craigslist.org/view/d/tucson-antique-mexico-925-pin/nq7XAoBqtRTXqHn8QZM8ov) | eBay | 125 | 125 |
 | <img src="https://images.craigslist.org/01515_8I9j9c5NyHd_0t20CI_300x300.jpg" width="120"> | 7947129653 | $20 | buffalo | [Old school 20” Wuhan China Cymbal](https://www.craigslist.org/view/d/buffalo-old-school-20-wuhan-china-cymbal/5y7SAeqzu3jvX3JzJHBwpx) | Ufip Natural China 20 / Reverb | 2499 | 124.95 |
 | <img src="https://images.craigslist.org/00Y0Y_aIdoZrT2zJw_0c607W_300x300.jpg" width="120"> | 7943638984 | $1 | longisland | [Collection of Vintage Cameras](https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/7rKHySm9qMZFks2E7wZnoh) | eBay | 120 | 120 |
 | <img src="https://images.craigslist.org/00W0W_lFG5hKSy0R8_0lN0CI_300x300.jpg" width="120"> | 7976589723 | $40 | southcoast | [Flora by titan. (reproduction)](https://www.craigslist.org/view/d/acushnet-flora-by-titan-reproduction/vibZ9nD6gSBuvDHwzheiyu) | Craigslist | 4800 | 120 |
@@ -231,6 +232,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00l0l_fV5PN7DOyZQ_0CI0t2_300x300.jpg" width="120"> | 7949573802 | $1 | boston | [Vintage Silver Sugar Serving Tongs](https://www.craigslist.org/view/d/boston-vintage-silver-sugar-serving/9DdKqNMtKPBrbKmeWvBGkq) | Craigslist | 65 | 65 |
 | <img src="https://images.craigslist.org/00Q0Q_1llJBSaReh0_0t20CI_300x300.jpg" width="120"> | 7952430050 | $40 | slo | [Vintage RSC ring Blue stone with zirconia](https://www.craigslist.org/view/d/morro-bay-vintage-rsc-ring-blue-stone/nAyiXzKr9dVYBvaPQcCyyp) | eBay | 2600 | 65 |
 | <img src="https://images.craigslist.org/00N0N_ivHWrhm9OiS_0t20CI_300x300.jpg" width="120"> | 7951306170 | $35 | newyork | [woman playing  guitar painting](https://www.craigslist.org/view/d/staten-island-woman-playing-guitar/rWRRZmSFvji8uv8RcJK3Wa) | Trademark Global Joarez "Soft Guitar" Canvas Art, 24" x 18 . | 2250 | 64.29 |
+| <img src="https://images.craigslist.org/00e0e_iMGA0p9LKzY_0gv0m1_300x300.jpg" width="120"> | 7939159693 | $20 | washingtondc | [Vintage necklace](https://www.craigslist.org/view/d/rockville-vintage-necklace/34ZvgbYaX9WZfZoifLVkUF) | eBay | 1261 | 63.05 |
 | <img src="https://images.craigslist.org/00G0G_hoLpXtUoWqL_0hT0t2_300x300.jpg" width="120"> | 7955980451 | $100 | phoenix | [PSA Graded Baseball Cards](https://www.craigslist.org/view/d/scottsdale-psa-graded-baseball-cards/sQXLRws8sW4HWvjJZmDnN8) | 1972 TOPPS BASEBALL COMPLETE SET 787 Cards NM-MT / MINT ... | 6278 | 62.78 |
 | <img src="https://images.craigslist.org/00r0r_icImtQVwjFh_0t20CI_300x300.jpg" width="120"> | 7957168862 | $2 | westernmass | [Prices reduced:  large collection of Costume Jewel](https://www.craigslist.org/view/d/longmeadow-prices-reduced-large/7KjJUKRNKo9LjeLwGBSLBk) | Over 1 Pound Jewelry Vintage Modern Huge Lot ALL GOOD Wear . | 125 | 62.5 |
 | <img src="https://images.craigslist.org/00Z0Z_7d6VlfkVV5X_0t20CI_300x300.jpg" width="120"> | 7952363113 | $1 | sfbay | [misc old items](https://www.craigslist.org/view/d/fairfax-misc-old-items/h2kkcVVaRXr1LPoDP3kc2N) | Antique Primitive Copper Coffee Water Dipper with Spout and  | 62 | 62 |
@@ -258,5 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00H0H_4xHBlDprahh_0t20CI_300x300.jpg" width="120"> | 7929354406 | $100 | sandiego | [native art](https://www.craigslist.org/view/d/san-diego-native-art/6stBFvHFUaVaHnxKfkokDX) | Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ... | 4800 | 48 |
 | <img src="https://images.craigslist.org/00w0w_2xh8nJnsEDR_0t20CI_300x300.jpg" width="120"> | 7939244058 | $12 | boise | [Necklace with Cuff Bracelet all for $12](https://www.craigslist.org/view/d/boise-necklace-with-cuff-bracelet-all/8ZpStnzbF9RPWF2p8hG6gD) | 🛵Хүргэлт үнэгүй /А бүсэд/ 💥Үнэ: 59000 💫14k алтан бүрмэл ... | 568 | 47.33 |
 | <img src="https://images.craigslist.org/00K0K_161KYPzOY3z_0uY0hq_300x300.jpg" width="120"> | 7969448511 | $3 | seattle | [Vintage Woodheaven collection stone ware set](https://www.craigslist.org/view/d/seattle-vintage-woodheaven-collection/2QpK4ATgd7eUVd9CUXV44N) | Mountain Wood Stoneware Bowl - Etsy | 142 | 47.33 |
-| <img src="https://images.craigslist.org/00Y0Y_4Y0blOg0wMn_0t20t2_300x300.jpg" width="120"> | 7982312115 | $50 | tampa | [925 Figaro chain bracelet](https://www.craigslist.org/view/d/brooksville-925-figaro-chain-bracelet/iq8sVUQEP4dfaWJ8x5cBwa) | Craigslist | 2349 | 46.98 |
-| <img src="https://images.craigslist.org/01111_drzi3tYmwji_0tO12w_300x300.jpg" width="120"> | 7954423288 | $30 | seattle | [Small sterling silver heart bracelet](https://www.craigslist.org/view/d/renton-small-sterling-silver-heart/d2z4MDigAAoL7A3E41ZeNb) | Ross-Simons Italian 10kt Yellow Gold Leaf Station Bracelet . | 1400 | 46.67 |
