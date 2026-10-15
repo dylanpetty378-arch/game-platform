@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:28:58Z",
+ "updated": "2026-10-15T21:32:53Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12774,
-  "events": 39967,
+  "lens": 12799,
+  "events": 39992,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 478,
-  "flagged": 3645,
-  "lensed": 1138
+  "queued": 453,
+  "flagged": 3660,
+  "lensed": 1148
  },
  "last_harvests": [
   {
@@ -2775,6 +2775,17 @@
    "best": "Dresden Porcelain Figurine: Victorian Lace, Made in Germany ...",
    "med": 427,
    "ratio": 28.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979237037",
+   "title": "Antique French 3/4 violin",
+   "price": 395,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-antique-french-4-violin/cYtiyrLxLDmJ3Jxqfdav8p",
+   "best": "Scherl and Roth SR72 Series Professional Viola 16 in ...",
+   "med": 11000,
+   "ratio": 27.85,
    "ai_value": ""
   },
   {
@@ -6188,6 +6199,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932513007",
+   "title": "LLADRO FIGURINES, 12 diff. pcs.",
+   "price": 50,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-lladro-figurines-12-diff-pcs/7wsmx6XFHfJYym8YafdW1Q",
+   "best": "Tivoli Estate Sales/ Barrington Quality starts on 8/14/2026",
+   "med": 500,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792374",
    "title": "Vintage WWII-Era Military Medal & Ribbon Collection",
    "price": 50,
@@ -8366,6 +8388,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983958746",
+   "title": "2020 21\" Electric Ukelele",
+   "price": 50,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/waterville-electric-ukelele/1SmqWZcpGgeKirNyd8RNGq",
+   "best": "Baton Rouge Screwed crimson Mahagoni Concert Ukulele | eBay",
+   "med": 319,
+   "ratio": 6.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7975305096",
    "title": "Necklace Heart Design Locklet",
    "price": 15,
@@ -8978,6 +9011,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-gold-tone-tie-tack-pin/1xh8x9cqcqLeV3CNrL3tg1",
    "best": "Vintage MIRIAM HASKELL Signed High Domed White Milk Glass ...",
    "med": 89,
+   "ratio": 5.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932829718",
+   "title": "Red Wine Bottle Framed Paintings",
+   "price": 55,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/totowa-red-wine-bottle-framed-paintings/8YzVpt18Yiah2ohBwztjsU",
+   "best": "Original Oil Painting - Wine Cellar | eBay",
+   "med": 326,
    "ratio": 5.93,
    "ai_value": ""
   },
@@ -9726,6 +9770,17 @@
    "url": "https://www.craigslist.org/view/d/petaluma-necklace-with-coin/d5NSiP6M9c1UVeq4BZejcK",
    "best": "eBay",
    "med": 80,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969176609",
+   "title": "Painting - Blue Bonnets",
+   "price": 45,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-painting-blue-bonnets/vRJEs8LrTqQhvfnxSbZjiS",
+   "best": "Eloise Polk McGill, Bluebonnet Landscape for sale at auction ...",
+   "med": 240,
    "ratio": 5.33,
    "ai_value": ""
   },
@@ -15659,6 +15714,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974682989",
+   "title": "Brooch lot",
+   "price": 10,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-brooch-lot/crfghBmJWdnSmjyVPDJHiW",
+   "best": "Original Vintage Sterling Silver Dragonfly Brooch Marked ...",
+   "med": 30,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -16572,6 +16638,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951051087",
+   "title": "Artist Signed Christopher Heede Studio Pottery Raku Vase",
+   "price": 400,
+   "area": "eugene",
+   "url": "https://www.craigslist.org/view/d/eugene-artist-signed-christopher-heede/bPSDWhFRPvYXrDtG1JqP6X",
+   "best": "Tall Greek Amphora Inspired Vase Handled - Center Piece ...",
+   "med": 1100,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7953763068",
    "title": "Beautiful Pottery Bowl",
    "price": 82,
@@ -16778,6 +16855,17 @@
    "best": "Etsy",
    "med": 35,
    "ratio": 2.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931498663",
+   "title": "Cini Sterling Silver grape cluster brooch",
+   "price": 299,
+   "area": "missoula",
+   "url": "https://www.craigslist.org/view/d/grantsdale-cini-sterling-silver-grape/8SCvcXezJ9e2vRwe4USJ3S",
+   "best": "Etsy",
+   "med": 800,
+   "ratio": 2.68,
    "ai_value": ""
   },
   {
@@ -17833,6 +17921,17 @@
    "url": "https://www.craigslist.org/view/d/san-clemente-vintage-ladies-guess-watch/m8vPxhbsztxXU2pEnqseu5",
    "best": "eBay",
    "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950506334",
+   "title": "Sapphire Blue Color Cat's Eye Necklace And Earring Set",
+   "price": 10,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buchanan-dam-sapphire-blue-color-cats/5WceXGftXGJjgGKAcYScEw",
+   "best": "eBay",
+   "med": 25,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -25273,6 +25372,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942016667",
+   "title": "VINTAGE Assorted Stone Bracelets an COINS",
+   "price": 30,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/cincinnati-vintage-assorted-stone/5V3FxejVEbzpqDFbM4xiNq",
+   "best": "Agate And Gold Vintage Bracelets | eBay",
+   "med": 44,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7943191919",
    "title": "Sterling Silver Beaded 20\u201d Necklace",
    "price": 35,
@@ -27693,6 +27803,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984063782",
+   "title": "Antique Art Deco Cocktail Watch",
+   "price": 120,
+   "area": "boulder",
+   "url": "https://www.craigslist.org/view/d/firestone-antique-art-deco-cocktail/2PLWNinDawe9brmUizjnHC",
+   "best": "1920s Art Deco Design Bedford Ladies Watch \"NOT WORKING ...",
+   "med": 145,
+   "ratio": 1.21,
+   "ai_value": ""
+  },
+  {
    "pid": "7955408722",
    "title": "Earring-sterling and turquoise",
    "price": 25,
@@ -28986,6 +29107,17 @@
    "area": "athensohio",
    "url": "https://www.craigslist.org/view/d/logan-vintage-elegant-rhinestone-2l/vq3EKmymzv8q1TAz6HvnB8",
    "best": "Vintage Tiered Pink Rhinestone and Pink Enameled Aurora ...",
+   "med": 50,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928812525",
+   "title": "WEISS Vintage elegant rhinestone 2\"L brooch pin",
+   "price": 45,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/logan-weiss-vintage-elegant-rhinestone/qZMqpjQt6M4ayzSkVskKKt",
+   "best": "Vintage Brooch: Blue Rhinestone Gold Leaf Pin, 1950s Glamour ...",
    "med": 50,
    "ratio": 1.11,
    "ai_value": ""
@@ -30549,6 +30681,17 @@
    "url": "https://www.craigslist.org/view/d/elfers-decorations-craft-items/a5AJT8k4Ziyi7mACPxrwY9",
    "best": "ECOMISTIQ\u00ae 20pcs Painted Wood Heart Tags Hanging Craft DIY ...",
    "med": 12,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930363026",
+   "title": "WEISS Vintage elegant rhinestone 2\"L brooch pin",
+   "price": 45,
+   "area": "athensohio",
+   "url": "https://www.craigslist.org/view/d/logan-weiss-vintage-elegant-rhinestone/vvWsB18uzfMWLVPj4XybJR",
+   "best": "Vintage Brooch: Blue Rhinestone Gold Leaf Pin, 1950s Glamour ...",
+   "med": 45,
    "ratio": 1,
    "ai_value": ""
   },
@@ -40569,6 +40712,28 @@
    "area": "hartford",
    "url": "https://www.craigslist.org/view/d/burlington-royal-trumpet-vintage/4StYXVUZX9pJ7wQKn3RqBZ",
    "best": "Trumpets for sale in Thomaston, Connecticut | Facebook ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980483021",
+   "title": "Fishing collectibles lot",
+   "price": 100,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/chico-fishing-collectibles-lot/g7R8dX4a5TcJZB2JEzSFtz",
+   "best": "North Star Antiques",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954235906",
+   "title": "Vintage 1961 Oil Portrait Painting - Signed W. Herman Lowe",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-vintage-1961-oil-portrait/makVRWKRgxPTMT9cwZRr1W",
+   "best": "Red White & Blue Thrift Store, 19239 SE McLoughlin Blvd ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
