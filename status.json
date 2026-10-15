@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:43:49Z",
+ "updated": "2026-10-15T00:47:29Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10374,
-  "events": 34790,
+  "lens": 10399,
+  "events": 34815,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,8 +21,8 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 478,
-  "flagged": 1822,
+  "queued": 453,
+  "flagged": 1847,
   "lensed": 564
  },
  "last_harvests": [
@@ -1828,6 +1828,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952735594",
+   "title": "1 ring, 1 bracelet, 2 pairs earrings",
+   "price": 10,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/independence-ring-bracelet-pairs/jTxyG67Sd1GkBgd7FyYYVL",
+   "best": "Vtg Lovely Foiled Murano Art Glass Large Beads Collar ...",
+   "med": 250,
+   "ratio": 25,
+   "ai_value": ""
+  },
+  {
    "pid": "7938276883",
    "title": "3 new sterling silver rings size 7",
    "price": 100,
@@ -2607,6 +2618,17 @@
    "med": 299,
    "ratio": 14.95,
    "ai_value": "sell anywhere from $20 to $300"
+  },
+  {
+   "pid": "7953705489",
+   "title": "Vintage Fox Charm",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-fox-charm/eY8sJxWW6U6qAnNaDJo2AR",
+   "best": "Etsy",
+   "med": 297,
+   "ratio": 14.85,
+   "ai_value": ""
   },
   {
    "pid": "7954381637",
@@ -5832,6 +5854,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971432429",
+   "title": "Antique Vintage Mandolin as is state",
+   "price": 50,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/east-rochester-antique-vintage-mandolin/fFJAc9CLY7mvrF4UUhbC61",
+   "best": "eBay",
+   "med": 225,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7957589063",
    "title": "Brighton Maharani Crystal Retired Necklace",
    "price": 50,
@@ -6060,6 +6093,17 @@
    "best": "ANTIQUE OMANI BEDOUIN WOVEN LIDDED BASKET WITH LEATHER | eBay",
    "med": 64,
    "ratio": 4.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966510764",
+   "title": "Flower Arrangements",
+   "price": 35,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/russell-flower-arrangements/vEbKrE68A8mLjSKSSCHaG9",
+   "best": "Fall Sunflower Table Arrangement~Sunflower Autumn ...",
+   "med": 149,
+   "ratio": 4.26,
    "ai_value": ""
   },
   {
@@ -6514,6 +6558,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983613671",
+   "title": "Pharoh Bust",
+   "price": 75,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/henderson-pharoh-bust/r4t73TtbqxqknBsoSmfpcq",
+   "best": "Craigslist",
+   "med": 295,
+   "ratio": 3.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7950359550",
    "title": "Waltham riverside pocket watch",
    "price": 140,
@@ -6631,6 +6686,17 @@
    "url": "https://www.craigslist.org/view/d/elmhurst-antique-death-mask/hFU31TS3H3kqEpbfNYk66K",
    "best": "African Mask from Cameroon | eBay",
    "med": 475,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944126606",
+   "title": "Citizen watch",
+   "price": 25,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-citizen-watch/axfUJZR3BJRZCBrPDgF9DD",
+   "best": "Craigslist",
+   "med": 95,
    "ratio": 3.8,
    "ai_value": ""
   },
@@ -6840,6 +6906,17 @@
    "url": "https://www.craigslist.org/view/d/chagrin-falls-navajo-red-coral-sterling/2K1U4tRkkkwRSPVNC9i71e",
    "best": "RADIANT Vintage Sterling Silver OLD RED MEDITERRANEAN CORAL ...",
    "med": 900,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952526965",
+   "title": "Vintage 24\u201d Wooden Hand-Carved Rasta Man",
+   "price": 50,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-vintage-24-wooden-hand/hxnFDTc4W3DaUSxUvDJxT7",
+   "best": "Etsy",
+   "med": 180,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -8175,6 +8252,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974424731",
+   "title": "Old Native American Sterling Silver/ Turquoise/ Coral Bear Paw Buckle",
+   "price": 125,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-old-native-american/t5Cguek9fhKTwexiHTTjZz",
+   "best": "eBay",
+   "med": 360,
+   "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7945575944",
    "title": "Sterling Silver & Smokey Quartz 18\u201d Necklace",
    "price": 75,
@@ -8744,6 +8832,17 @@
    "best": "Snowman Face Earrings, Christmas Snowman Face Earrings ...",
    "med": 13,
    "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945293043",
+   "title": "Antique Vintage Gorham Sterling Silver Yo-Yo",
+   "price": 60,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/knightdale-antique-vintage-gorham/qb1yM2QuW3bGQHTPBy2Xh6",
+   "best": "eBay",
+   "med": 155,
+   "ratio": 2.58,
    "ai_value": ""
   },
   {
@@ -9660,6 +9759,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973331570",
+   "title": "Ladies watch, new",
+   "price": 35,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-ladies-watch-new/mcjnzmqLFw1mxVWJpDpCX6",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7951926438",
    "title": "Hamilton Pocket Watch (1909)",
    "price": 325,
@@ -9689,6 +9799,17 @@
    "url": "https://www.craigslist.org/view/d/bath-antique-spatterware-tea-pot/oqGU6SSq1ujb8qG8uHko2R",
    "best": "Auctions - Jeffrey S. Evans & Associates",
    "med": 375,
+   "ratio": 2.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973789661",
+   "title": "Druzy stone necklace",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-druzy-stone-necklace/oRMjLcnfPRW3wgTsVf2sZL",
+   "best": "eBay",
+   "med": 34,
    "ratio": 2.27,
    "ai_value": ""
   },
@@ -9755,6 +9876,17 @@
    "url": "https://www.craigslist.org/view/d/parksville-antique-mccoy-pottery-vase/ru8vAN7eFXVuBmsJDatgPm",
    "best": "eBay",
    "med": 45,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955995785",
+   "title": "Handcrafted Southwest Sterling Bear Earrings",
+   "price": 40,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-handcrafted-southwest/3dwvt3ZpHxuznUBcPhd2HW",
+   "best": "Etsy",
+   "med": 90,
    "ratio": 2.25,
    "ai_value": ""
   },
@@ -10118,6 +10250,17 @@
    "url": "https://www.craigslist.org/view/d/minneapolis-old-knifes/v1Jwna21vKNV7FH2zeh5q8",
    "best": "eBay",
    "med": 42,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935299682",
+   "title": "Girl bathing",
+   "price": 50,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/wadsworth-girl-bathing/1vaE9XcGKgmzaRQMge9do4",
+   "best": "nga.gov",
+   "med": 105,
    "ratio": 2.1,
    "ai_value": ""
   },
@@ -11053,6 +11196,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-vintage-pendant-mostly-blue/eWHc1TAbfbC3kNADwMDJgj",
    "best": "2 pendentifs m\u00e9daillon le 1er fleurs \u00e9maill\u00e9es \u00e9maill\u00e9es, le ...",
    "med": 35,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943194087",
+   "title": "Vintage Starbucks Clock",
+   "price": 25,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/casco-vintage-starbucks-clock/nN3SyQQPggg6ZZDvL6mZ1n",
+   "best": "Starbucks Good Coffee Good Fishing Wind Up Alarm Clock ...",
+   "med": 46,
    "ratio": 1.84,
    "ai_value": ""
   },
@@ -12861,6 +13015,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981922244",
+   "title": "Old Salt and Pepper",
+   "price": 35,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/collegeville-old-salt-and-pepper/qAzpEQGufV1K3QsgMjB7mG",
+   "best": "Craigslist",
+   "med": 50,
+   "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7974161394",
    "title": "Vintage CS Osborne Leather Working Draw Gauge",
    "price": 60,
@@ -13406,6 +13571,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/west-hempstead-pairs-of-vintage/1YB5ERBqMr2nPh19nQZrnv",
    "best": "Etsy",
+   "med": 40,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937397483",
+   "title": "Mother-of-Pearl and Pearl Pendant",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-mother-of-pearl-and-pearl/kij9HNmA6df6Hv7NU3VDVA",
+   "best": "eBay",
    "med": 40,
    "ratio": 1.33,
    "ai_value": ""
@@ -14122,6 +14298,17 @@
    "url": "https://www.craigslist.org/view/d/pollock-pines-boy-scouts-of-america/nrEbqttLXTfPuTnK8aiBSK",
    "best": "Boy Scout Cub Scout Lot Belt Slides Brass Buckle Neckerchief ...",
    "med": 24,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933424559",
+   "title": "Scrolled Wall Planter",
+   "price": 40,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-scrolled-wall-planter/aP7eGpjH7E87h6z7nSCKzW",
+   "best": "Thin Metal Tin Green Faux Copper Planter Embossed Flower ...",
+   "med": 48,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -14925,6 +15112,17 @@
    "url": "https://www.craigslist.org/view/d/agoura-hills-vintage-c1960s-tonalist/4s1qm7TvT263QhQ1wJF3o3",
    "best": "Mercari",
    "med": 90,
+   "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949225559",
+   "title": "Tom Lynch Chicago Cityscape Lithograph SIGNED \u201cChicago At Night\"",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/agoura-hills-tom-lynch-chicago/mbTCqY3DEfDfrnToeXoMnj",
+   "best": "Incredible Tom Lynch Chicago Cityscape | Mercari",
+   "med": 85,
    "ratio": 1.06,
    "ai_value": ""
   },
@@ -16344,6 +16542,17 @@
    "url": "https://www.craigslist.org/view/d/west-hempstead-beaded-indian-necklace/iDwzdSwgs9kAbdfzxpNmHd",
    "best": "Aucoudesanges",
    "med": 25,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981401186",
+   "title": "Native American busts",
+   "price": 60,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/fitchburg-native-american-busts/or3su3pLh7c9GXFw4FCne1",
+   "best": "Vintage Cigar Store Indian Chalkware Store Display Lamp ...",
+   "med": 50,
    "ratio": 0.83,
    "ai_value": ""
   },
@@ -17921,6 +18130,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938505708",
+   "title": "BOYDS BEAR CHRISTMAS COLLECTION- $32 FOR ALL",
+   "price": 32,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/house-springs-boyds-bear-christmas/53oFv66BfAHMdY6hKtNNEA",
+   "best": "eBay",
+   "med": 18,
+   "ratio": 0.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7961822934",
    "title": "Set of 15 WW1 Lead Soldiers > Various Poses>Excellent",
    "price": 65,
@@ -18104,6 +18324,17 @@
    "url": "https://www.craigslist.org/view/d/pompano-beach-12-necklaces/9CSYEFDBix8bHSQ6X4JYs6",
    "best": "Etsy",
    "med": 25,
+   "ratio": 0.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963685427",
+   "title": "Hummel - \u201cLittle Fiddler\u201d #4 TMK-5",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-hummel-little-fiddler-tmk/jZvB4v5Ew4pADasm5sRhok",
+   "best": "eBay",
+   "med": 26,
    "ratio": 0.52,
    "ai_value": ""
   },
@@ -18293,6 +18524,17 @@
    "med": 32,
    "ratio": 0.49,
    "ai_value": ""
+  },
+  {
+   "pid": "7955408956",
+   "title": "10k yellow gold, Franco Link bracelet",
+   "price": 470,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-10k-yellow-gold-franco-link/uKUPmSjqAZso3DSSfEEPbv",
+   "best": "14k Yellow Gold Mens Bracelets and more Fine Jewelry | Shane Co.",
+   "med": 230,
+   "ratio": 0.49,
+   "ai_value": "price tag of $469"
   },
   {
    "pid": "7971364938",
@@ -18545,6 +18787,17 @@
    "best": "Vintage Ceramic Red Cardinal Bird Music Box Oh What a ...",
    "med": 11,
    "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953643580",
+   "title": "10K Yellow Gold \"J\" Pendant | 2.8g",
+   "price": 329,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/playa-del-rey-10k-yellow-gold-pendant/oVe32fVRpMd7nZJ6YA1bVT",
+   "best": "eBay",
+   "med": 142,
+   "ratio": 0.43,
    "ai_value": ""
   },
   {
@@ -19087,6 +19340,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931760973",
+   "title": "Tobacco vintage collectables",
+   "price": 50,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/camarillo-tobacco-vintage-collectables/x4ypePNwF9bJZ3476GovST",
+   "best": "eBay",
+   "med": 14,
+   "ratio": 0.28,
+   "ai_value": ""
+  },
+  {
    "pid": "7951742975",
    "title": "Sterling Silver 925 Lot Mexico India Scandivai Italy Necklace Bracelet",
    "price": 99,
@@ -19203,6 +19467,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/bedford-csaba-markus-emerald-rhapsody/xi7esDDhdz8RUvdkWNwXDQ",
    "best": "eBay",
+   "med": 12,
+   "ratio": 0.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966068348",
+   "title": "Orthoceras Fossil Statement Ring - 925 Silver - Size 7",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-orthoceras-fossil-statement/ihRrXmSZFMbtRdoX7PRKsm",
+   "best": "925 Sterling Silverorthoceras Fossil Ring: Art Deco ...",
    "med": 12,
    "ratio": 0.24,
    "ai_value": ""
