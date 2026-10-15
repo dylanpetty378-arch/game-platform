@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T00:47:29Z
+# Refurbish status — 2026-10-15T00:51:07Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 1847 |
-| lensed | 564 |
+| flagged | 1869 |
+| lensed | 567 |
 | queued/relens | 485 |
-| queued | 453 |
+| queued | 428 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 12
 - searches: 2841
 - listings: 12183
-- lens: 10399
-- events: 34815
+- lens: 10424
+- events: 34840
 - comps: 2558
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (1847)
+## Flagged by Lens, waiting for photo review (1869)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -222,6 +222,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00k0k_2QNkMKyRfU6_0CI0t2_300x300.jpg" width="120"> | 7943998943 | $15 | newjersey | [2 Vintage Large Silver-tone & Gold-tone Brooches/P](https://www.craigslist.org/view/d/new-milford-vintage-large-silver-tone/gVDWvTZxQJxZSxiFMs45AE) | eBay | 695 | 46.33 |
 | <img src="https://images.craigslist.org/00l0l_hsC8n6fXXTp_0t20CI_300x300.jpg" width="120"> | 7946417677 | $175 | buffalo | [Breitling Chronometer> Blue Dial >Replica>Stainles](https://www.craigslist.org/view/d/buffalo-breitling-chronometer-blue-dial/7puGej2v4UaaRfcid4pEW2) | Reddit | 7950 | 45.43 |
 | <img src="https://images.craigslist.org/00t0t_5OcBCXBXDk0_0m90t2_300x300.jpg" width="120"> | 7933462459 | $20 | miami | [Toys In The Attic](https://www.craigslist.org/view/d/fort-lauderdale-toys-in-the-attic/oyK342y5FcdD2tM4Tjf7sf) | Coins & Bank Notes inc. House & Gardens Sale - Gorringe's | 899 | 44.95 |
+| <img src="https://images.craigslist.org/00V0V_6b3EzvF2DuM_0CI0qh_300x300.jpg" width="120"> | 7962497376 | $35 | chicago | [Antique / Vintage Silver-Plated Chamberstick Candl](https://www.craigslist.org/view/d/schaumburg-antique-vintage-silver/n1bEZSkeRpqT6h35z9tS1M) | eBay | 1569 | 44.83 |
 | <img src="https://images.craigslist.org/00u0u_3A7VdgWroBo_0kI0t2_300x300.jpg" width="120"> | 7958130497 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/epXBtmnVkE6qFLNrGezXEg) | eBay | 3978 | 44.2 |
 | <img src="https://images.craigslist.org/00h0h_gdHDwwX5k9G_0lM0t2_300x300.jpg" width="120"> | 7974614568 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/puhGk1YDhXv4efAvcckoFi) | Galle Emile / eBay | 3978 | 44.2 |
 | <img src="https://images.craigslist.org/00h0h_d4JZLiALhIE_0iE0j0_300x300.jpg" width="120"> | 7948313336 | $40 | charlotte | [Iced Out Cuban & Coffee Link Bracelet](https://www.craigslist.org/view/d/charlotte-iced-out-cuban-coffee-link/21PMcxKXUXfo6o9KQn4oiD) | Apzzic 17mm Miami Cuban Link Chain Bling Iced Out Coffee ... | 1697 | 42.42 |
@@ -262,4 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00W0W_lgNc3E0DwNG_0gx0cW_300x300.jpg" width="120"> | 7950842587 | $50 | portland | [Vintage ring](https://www.craigslist.org/view/d/portland-vintage-ring/uGbcBatbTy3qho9npjmHja) | Etsy | 1387 | 27.74 |
 | <img src="https://images.craigslist.org/00t0t_b2CmgBvNObI_0CI0t2_300x300.jpg" width="120"> | 7952230554 | $2 | albuquerque | [Nice Vintage Jewelry only $1 and $2](https://www.craigslist.org/view/d/albuquerque-nice-vintage-jewelry-only/gYd7zfA3wauqTzk2oAenSH) | Craigslist | 55 | 27.5 |
 | <img src="https://images.craigslist.org/00K0K_ly4ce105Mk5_0CI0vu_300x300.jpg" width="120"> | 7933139401 | $12 | syracuse | [Reproduction Fraktur](https://www.craigslist.org/view/d/liverpool-reproduction-fraktur/pv2ucoTRTW98M7wUpHMJF8) | Antique Bird Print of the Stock Dove by Von Wright, 1929 For | 311 | 25.92 |
-| <img src="https://images.craigslist.org/00J0J_3zP8CkeEaEk_0fT0fW_300x300.jpg" width="120"> | 7983648450 | $75 | wyoming | [ANTIQUE STERLING SILVER FILIGREE CAMEO SHELL PENDA](https://www.craigslist.org/view/d/masonville-antique-sterling-silver/cGR4EviijyX8mo1Liemnap) | Etsy | 1915 | 25.53 |
