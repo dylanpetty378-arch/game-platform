@@ -40340,3 +40340,28 @@
 {"ts":"2026-10-15T22:30:37Z","pid":"7978005381","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":12,"ratio":0.8,"mismatch":[]}}
 {"ts":"2026-10-15T22:30:45Z","pid":"7966572852","stage":"flagged","run":"lensworker-20261015-2227","note":"Lens names Waterbury — title does not","data":{"med":359,"ratio":1,"mismatch":["Waterbury"]}}
 {"ts":"2026-10-15T22:30:52Z","pid":"7939916981","stage":"flagged","run":"lensworker-20261015-2227","note":null,"data":{"med":65,"ratio":2.6,"mismatch":[]}}
+{"ts":"2026-10-15T22:31:02Z","pid":"7978251447","stage":"flagged","run":"lensworker-20261015-2227","note":"Lens names Silver — title does not","data":{"med":99,"ratio":0.51,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T22:31:10Z","pid":"7976392881","stage":"flagged","run":"lensworker-20261015-2227","note":null,"data":{"med":80,"ratio":0.81,"mismatch":[]}}
+{"ts":"2026-10-15T22:31:20Z","pid":"7983921606","stage":"flagged","run":"lensworker-20261015-2227","note":"Lens names Pink — title does not","data":{"med":38,"ratio":1.9,"mismatch":["Pink"]}}
+{"ts":"2026-10-15T22:31:28Z","pid":"7963945032","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":68,"ratio":0.41,"mismatch":[]}}
+{"ts":"2026-10-15T22:31:38Z","pid":"7937473719","stage":"flagged","run":"lensworker-20261015-2227","note":"Lens names Star — title does not","data":{"med":15,"ratio":0.75,"mismatch":["Star"]}}
+{"ts":"2026-10-15T22:31:45Z","pid":"7950376094","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":19,"ratio":0.68,"mismatch":[]}}
+{"ts":"2026-10-15T22:31:55Z","pid":"7958886885","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":30,"ratio":0.18,"mismatch":[]}}
+{"ts":"2026-10-15T22:32:06Z","pid":"7957699625","stage":"flagged","run":"lensworker-20261015-2227","note":null,"data":{"med":75,"ratio":3.75,"mismatch":[]}}
+{"ts":"2026-10-15T22:32:16Z","pid":"7982329698","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":15,"ratio":0.6,"mismatch":[]}}
+{"ts":"2026-10-15T22:32:27Z","pid":"7962175599","stage":"flagged","run":"lensworker-20261015-2227","note":"Lens names Accessories, Silver — title does not","data":{"med":325,"ratio":5.42,"mismatch":["Accessories","Silver"]}}
+{"ts":"2026-10-15T22:32:38Z","pid":"7938834848","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":47,"ratio":0.98,"mismatch":[]}}
+{"ts":"2026-10-15T22:32:46Z","pid":"7940435467","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":40,"ratio":1.6,"mismatch":[]}}
+{"ts":"2026-10-15T22:32:54Z","pid":"7984042044","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":30,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-15T22:33:01Z","pid":"7970916501","stage":"flagged","run":"lensworker-20261015-2227","note":"Lens names Collectible, Fenton Art Glass Co — title does not","data":{"med":217,"ratio":3.62,"mismatch":["Collectible","Fenton Art Glass Co"]}}
+{"ts":"2026-10-15T22:33:13Z","pid":"7979097630","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":50,"ratio":5,"mismatch":[]}}
+{"ts":"2026-10-15T22:33:24Z","pid":"7955950747","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":55,"ratio":0.73,"mismatch":[]}}
+{"ts":"2026-10-15T22:33:35Z","pid":"7960065438","stage":"flagged","run":"lensworker-20261015-2227","note":null,"data":{"med":100,"ratio":0.33,"mismatch":[]}}
+{"ts":"2026-10-15T22:33:46Z","pid":"7945695263","stage":"flagged","run":"lensworker-20261015-2227","note":null,"data":{"med":85,"ratio":2.83,"mismatch":[]}}
+{"ts":"2026-10-15T22:33:56Z","pid":"7984138881","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":35,"ratio":2.33,"mismatch":[]}}
+{"ts":"2026-10-15T22:34:07Z","pid":"7980046644","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":25,"ratio":0.83,"mismatch":[]}}
+{"ts":"2026-10-15T22:34:18Z","pid":"7948974860","stage":"flagged","run":"lensworker-20261015-2227","note":"Lens names Company, Fenton — title does not","data":{"med":35,"ratio":3.5,"mismatch":["Company","Fenton"]}}
+{"ts":"2026-10-15T22:34:26Z","pid":"7945242417","stage":"lensed","run":"lensworker-20261015-2227","note":null,"data":{"med":392,"ratio":1.6,"mismatch":[]}}
+{"ts":"2026-10-15T22:34:34Z","pid":"7942358472","stage":"flagged","run":"lensworker-20261015-2227","note":null,"data":{"med":108,"ratio":1.54,"mismatch":[]}}
+{"ts":"2026-10-15T22:34:42Z","pid":"7958827941","stage":"flagged","run":"lensworker-20261015-2227","note":"Lens names Crescent — title does not","data":{"med":195,"ratio":2.17,"mismatch":["Crescent"]}}
+{"ts":"2026-10-15T22:34:53Z","pid":"7962866109","stage":"lensed","run":"lensworker-20261015-2231","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}

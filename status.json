@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T22:31:11Z",
+ "updated": "2026-10-15T22:35:12Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 13149,
-  "events": 40342,
+  "lens": 13174,
+  "events": 40367,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 103,
-  "flagged": 3914,
-  "lensed": 1244
+  "queued": 78,
+  "flagged": 3926,
+  "lensed": 1257
  },
  "last_harvests": [
   {
@@ -10269,6 +10269,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962175599",
+   "title": "Corvette watch and sunglasses",
+   "price": 60,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/skowhegan-corvette-watch-and-sunglasses/6chGLhfyBP3WphTtsMSqQV",
+   "best": "Corvette | Accessories | Corvette Mens Silver And Black ...",
+   "med": 325,
+   "ratio": 5.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7950568646",
    "title": "Autographed vintage oil painting of still life",
    "price": 185,
@@ -13921,6 +13932,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957699625",
+   "title": "Silver necklace",
+   "price": 20,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/rockwall-silver-necklace/ibPGcd3JekZiX51bxoHZg4",
+   "best": "Sterling Silver Pendant Italian Coral Vintage Etruscan ...",
+   "med": 75,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7957375931",
    "title": "Polk-A-Lay-Lee Vintage Polk Brothers Instrument",
    "price": 150,
@@ -14203,6 +14225,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-tribal-necklace-vintage-never/3kEbWaZmBWeh7cAALMfPqa",
    "best": "Craigslist",
    "med": 105,
+   "ratio": 3.62,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970916501",
+   "title": "Vintage Mid-Century Fenton Art Glass Blue Opalescent Hobnail Set of 9",
+   "price": 60,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-mid-century-fenton-art/q3nigSVTGtxDbhDbkbmktH",
+   "best": "Etsy",
+   "med": 217,
    "ratio": 3.62,
    "ai_value": ""
   },
@@ -14764,6 +14797,17 @@
    "url": "https://www.craigslist.org/view/d/manchester-township-old-violin/wv8YsJ3qCvCobk5ESvTPCe",
    "best": "VINTAGE LAMBERTI VIOLIN 2006 model LV11 14 | eBay",
    "med": 350,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948974860",
+   "title": "4 vintage items",
+   "price": 10,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/penney-farms-vintage-items/wDGKEU1cFAbqPrzX34jq3C",
+   "best": "Fenton Art Glass Company Blue Opalescent Shallow Bonbon ...",
+   "med": 35,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -17370,6 +17414,17 @@
    "area": "orlando",
    "url": "https://www.craigslist.org/view/d/orlando-lot-of-vintage-clowns/7syhBke6f495RtgpTYZ59T",
    "best": "eBay",
+   "med": 85,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945695263",
+   "title": "Hand painted Vienna Austria jardiniere bowl/vase",
+   "price": 30,
+   "area": "santamaria",
+   "url": "https://www.craigslist.org/view/d/lompoc-hand-painted-vienna-austria/u1BkdH24ZjCZz5bhjDQmss",
+   "best": "200 JARDINIERE POTS ideas | beautiful centerpieces, hand ...",
    "med": 85,
    "ratio": 2.83,
    "ai_value": ""
@@ -21005,6 +21060,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958827941",
+   "title": "1940s Corocraft Capri Pearl Brooch",
+   "price": 90,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-1940s-corocraft-capri-pearl/mA4eZTpsrfc1pCQ7KFSvsF",
+   "best": "Corocraft Brooch, Pearl Diamant\u00e9 Crescent - Signed Costume ...",
+   "med": 195,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7950216572",
    "title": "VINTAGE CERAMIC CREAMER",
    "price": 20,
@@ -22904,6 +22970,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-vintage-vendome-jet-black-stone/qxGkzck6gnGySPGF1V2Fzf",
    "best": "Vintage Sterling Silver Made in Mexico Handmade Oval Black ...",
    "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983921606",
+   "title": "Vintage Japanese Rose Floral Serving Plate-Green & Gold Scalloped",
+   "price": 20,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/glendale-vintage-japanese-rose-floral/jsodyLvimjywkSBtt8ywdS",
+   "best": "Ant Roses Pink Gold Gilt Ornate Scalloped Embossed Green ...",
+   "med": 38,
    "ratio": 1.9,
    "ai_value": ""
   },
@@ -25995,6 +26072,17 @@
    "url": "https://www.craigslist.org/view/d/denver-waterford-crystal-millennium/2RaW6MwqkubLdFVjYDWJ7E",
    "best": "STUNNING WATERFORD CRYSTAL MILLENIUM 'HAPPINESS' 9 1/4 ...",
    "med": 100,
+   "ratio": 1.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942358472",
+   "title": "Vintage Handmade Italian Vessel Pitcher Jug Glazed Ceramic Pottery",
+   "price": 70,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-handmade-italian/oh7MbDkWxJnzWNVzH9vPwM",
+   "best": "Green Pottery Jug - Etsy Canada",
+   "med": 108,
    "ratio": 1.54,
    "ai_value": ""
   },
@@ -34656,6 +34744,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976392881",
+   "title": "Vintage oriental lamp",
+   "price": 99,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/penney-farms-vintage-oriental-lamp/i7CmGV7muaQx1CvqNRwBBe",
+   "best": "What Our Clients Say - Sue Johnson",
+   "med": 80,
+   "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7961182713",
    "title": "Vintage Mankato Creamery Item",
    "price": 15,
@@ -35521,6 +35620,17 @@
    "url": "https://www.craigslist.org/view/d/rochester-goebel-hummel-christmas-bells/5GPAfXMf6yW7dk5Vkk1ZkH",
    "best": "eBay",
    "med": 9,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937473719",
+   "title": "8 vintage soda bottles",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/monrovia-vintage-soda-bottles/nbvYbXkZMSHRtb9tZDQ2eY",
+   "best": "7-up Commemorative Bottle 1978 All Star Game San Diego | eBay",
+   "med": 15,
    "ratio": 0.75,
    "ai_value": ""
   },
@@ -38220,6 +38330,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978251447",
+   "title": "STERLING 'SNAKE' CHAIN",
+   "price": 195,
+   "area": "treasure",
+   "url": "https://www.craigslist.org/view/d/vero-beach-sterling-snake-chain/oGjvaNTScVd5RmZ4jFmp6Q",
+   "best": "Bracelet 8 Inch Sterling Silver Snake Chain 1.9mm Style 233 ...",
+   "med": 99,
+   "ratio": 0.51,
+   "ai_value": ""
+  },
+  {
    "pid": "7929442757",
    "title": "MICKEY MOUSE WATCH",
    "price": 50,
@@ -40031,6 +40152,17 @@
    "url": "https://www.craigslist.org/view/d/pueblo-antiques-collectibles-vintage/iKAKqikzZduibPnzD4UypH",
    "best": "Vintage Imperial Crystal Clear Candlewick Set of 4 Cups ...",
    "med": 33,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960065438",
+   "title": "Vintage Lladro nativity set",
+   "price": 300,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/natrona-heights-vintage-lladro-nativity/qkgphN4fn81AdTCkSFnrZg",
+   "best": "Amazon.com: LLADR\u00d3 Saint Joseph Nativity Figurine-Ii ...",
+   "med": 100,
    "ratio": 0.33,
    "ai_value": ""
   },
