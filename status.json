@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T16:07:55Z",
+ "updated": "2026-10-15T16:11:24Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12399,
-  "events": 38531,
+  "lens": 12424,
+  "events": 38556,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 53,
-  "flagged": 3342,
-  "lensed": 1065
+  "queued": 28,
+  "flagged": 3363,
+  "lensed": 1069
  },
  "last_harvests": [
   {
@@ -4545,6 +4545,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929678041",
+   "title": "Vintage Cultra 1/20 12k GF Cultured Pearl Earrings",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-cultra-gf-cultured/vYT3QN86aTqJxMppbuYjC7",
+   "best": "eBay",
+   "med": 195,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
    "pid": "7955996012",
    "title": "3 Ladies Watches",
    "price": 10,
@@ -6367,6 +6378,17 @@
    "url": "https://www.craigslist.org/view/d/kew-gardens-old-wood-mortar-and-pestle/xf4o6LUkpNKVAfikeeXhkg",
    "best": "Antique Wood Turned Mortar & Pestle Herb Apothecary Medicine ...",
    "med": 125,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954984081",
+   "title": "Cremona Violin",
+   "price": 60,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/bethany-cremona-violin/t8mj84QVrYZT4r7H8jqp2z",
+   "best": "YAMAHA V5 VIOLIN 4/4 SOLID SPRUCE TOP/MAPLE BACK W/BOW ...",
+   "med": 500,
    "ratio": 8.33,
    "ai_value": ""
   },
@@ -8384,6 +8406,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937306729",
+   "title": "Kodak Medalist II",
+   "price": 175,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-kodak-medalist-ii/dn4rJ9dFBd4Uug9DmnsEP5",
+   "best": "eBay",
+   "med": 1000,
+   "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7975658046",
    "title": "14K Gold Vintage Wedding Ring",
    "price": 350,
@@ -8490,6 +8523,17 @@
    "url": "https://www.craigslist.org/view/d/islip-four-vintage-gold-tone-brooches/mU7H6mtJeWN44t6Fo5FqpJ",
    "best": "Standing Lady / Saleswoman Brooch (top center): A gold-tone figural brooch depicting a stylish standing woman ",
    "med": 84,
+   "ratio": 5.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974795243",
+   "title": "Women's Bracelets & Bangles",
+   "price": 5,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-womens-bracelets-bangles/18xXGuVSBC6VdXELaU9e5Z",
+   "best": "eBay",
+   "med": 28,
    "ratio": 5.6,
    "ai_value": ""
   },
@@ -11277,6 +11321,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980492549",
+   "title": "Vintage framed print by Julia Crainer",
+   "price": 35,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-framed-print-by/twNWZ7WYUypokMA2xjwxg9",
+   "best": "Etsy",
+   "med": 140,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -12993,6 +13048,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955887643",
+   "title": "NATIVE AMERICAN STATUE",
+   "price": 15,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/avella-native-american-statue/qJehM1CBv9kfBeNg2CfZee",
+   "best": "Craigslist",
+   "med": 50,
+   "ratio": 3.33,
+   "ai_value": "Sold at Auction: Statue of Indian squaw with baby $50"
+  },
+  {
    "pid": "7954961733",
    "title": "Vintage LONGINES Golf Dial Sub Seconds Men's Wristwatch",
    "price": 299,
@@ -13440,6 +13506,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-bronze-hindu/gb2i3dfG32S6XxquwUF4oM",
    "best": "Etsy",
    "med": 207,
+   "ratio": 3.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972376724",
+   "title": "VINTAGE IMPESSIONIST WATERCOLOR \"PORCH FLOWERS\" ELLEN MURPHY DOUGAN",
+   "price": 55,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-vintage-impessionist/wi6ThWKjjgPiTAQm8MMUFr",
+   "best": "Gorgeous Framed Nancy Neville original watercolor art \"the ...",
+   "med": 175,
    "ratio": 3.18,
    "ai_value": ""
   },
@@ -15138,6 +15215,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949374507",
+   "title": "Beaded Indian Necklace",
+   "price": 20,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/munroe-falls-beaded-indian-necklace/rxdfXCbfxJvdfDiBxhtJVC",
+   "best": "eBay",
+   "med": 55,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7953763068",
    "title": "Beautiful Pottery Bowl",
    "price": 82,
@@ -15387,6 +15475,17 @@
    "url": "https://www.craigslist.org/view/d/falls-church-vintage-germany-marcasite/bZ7ZC6vtmzRPG8oPrB1qps",
    "best": "Curled Feather, Vintage Large Brooch. - Etsy",
    "med": 40,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952242931",
+   "title": "BLUE WHITE CHINESE NECKLACE",
+   "price": 30,
+   "area": "bend",
+   "url": "https://www.craigslist.org/view/d/bend-blue-white-chinese-necklace/onoVwSxqbjBG1uC3CrTR8t",
+   "best": "eBay",
+   "med": 80,
    "ratio": 2.67,
    "ai_value": ""
   },
@@ -16260,6 +16359,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951638557",
+   "title": "NAPCO CIGARETTE BOX",
+   "price": 30,
+   "area": "reading",
+   "url": "https://www.craigslist.org/view/d/reading-napco-cigarette-box/vWyiDBXsgtor1iu9pkJ9tq",
+   "best": "Etsy",
+   "med": 75,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952572829",
    "title": "VINTAGE 1950-60'S ELKORN GETZEN CLARINET",
    "price": 80,
@@ -16597,6 +16707,17 @@
    "url": "https://www.craigslist.org/view/d/richmond-lenox-porcelain-chip-dip/ukpBoa8A5P2H7TwdQNVz7H",
    "best": "eBay",
    "med": 60,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981654443",
+   "title": "Vintage Peanuts lunchbox",
+   "price": 20,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/milwaukee-vintage-peanuts-lunchbox/vpbHcdh9P9v8uKrcbXBrWW",
+   "best": "eBay",
+   "med": 48,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -19604,6 +19725,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983846567",
+   "title": "Elvis Bust Decanter",
+   "price": 35,
+   "area": "annarbor",
+   "url": "https://www.craigslist.org/view/d/canton-elvis-bust-decanter/jZJbc9tqQG2jtFGGC2dHNT",
+   "best": "Mercari",
+   "med": 66,
+   "ratio": 1.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7968965697",
    "title": "New Vintage Barse Sterling Silver & Picture Jasper 17\u201d Necklace",
    "price": 40,
@@ -20787,6 +20919,17 @@
    "area": "olympic",
    "url": "https://www.craigslist.org/view/d/carlsborg-vintage-24k-gold-plated/bnUKQNeRT4wSm9r289GhoS",
    "best": "grupomplaguna.com",
+   "med": 130,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944303605",
+   "title": "Vintage Lot of Mattel/Barbie 200+ Pieces. Sere Pics",
+   "price": 75,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/wharton-vintage-lot-of-mattel-barbie/9pWNdBymPHxPjmBpVyfVBL",
+   "best": "Top Row (Undressed / Body Dolls):",
    "med": 130,
    "ratio": 1.73,
    "ai_value": ""
@@ -23828,6 +23971,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968020499",
+   "title": "Vintage New Haven Pedometer",
+   "price": 15,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/silverdale-vintage-new-haven-pedometer/7STFtToJtxn9uaQe18rtaw",
+   "best": "eBay",
+   "med": 21,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7943810904",
    "title": "Handcrafted Studio Pottery Ceramic Shot Glass",
    "price": 18,
@@ -24884,6 +25038,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983836451",
+   "title": "Vintage Navajo Native American Stamped Floral Sterling Silver Earrings",
+   "price": 115,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-vintage-navajo-native/pSNp31MQZBkf9b9gGgt8LH",
+   "best": "Handmade Navajo Sterling Silver Pearl Earrings Native ...",
+   "med": 145,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -25168,6 +25333,17 @@
    "med": 500,
    "ratio": 1.25,
    "ai_value": "worth the price? Facebook What is the manufacturing year of a Yamaha FG580 guitar? $500"
+  },
+  {
+   "pid": "7946338493",
+   "title": "Vintage Leather Briefcase The Leather Specialty Co",
+   "price": 100,
+   "area": "dayton",
+   "url": "https://www.craigslist.org/view/d/dayton-vintage-leather-briefcase-the/abHqf386vxXX9UGy1S1jqW",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
   },
   {
    "pid": "7968077349",
@@ -26794,6 +26970,17 @@
    "url": "https://www.craigslist.org/view/d/wantagh-sterling-silver-rings-locket/jTHYxaQbK3G35XCG9Boeh4",
    "best": "Midnight Sun",
    "med": 96,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977755700",
+   "title": "Vintage African Tribal Folk Art Wooden Hand Carved Tall Wood Statue",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-african-tribal-folk/dnBaaqBDjzonbQo1VSks5B",
+   "best": "eBay",
+   "med": 108,
    "ratio": 1.08,
    "ai_value": ""
   },
@@ -29119,6 +29306,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951201628",
+   "title": "Two Original Professionally Framed Watercolor signed by artist",
+   "price": 85,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-ysidro-two-original-professionally/8BzfcVFNQj9Lsi7Me3QtUk",
+   "best": "Still life in watercolor experimenting with warm and cool ...",
+   "med": 75,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -29169,6 +29367,17 @@
    "area": "dallas",
    "url": "https://www.craigslist.org/view/d/fort-worth-cows/pPPm1v8eM9Uw2KVM1GHqRS",
    "best": "Cow Parade #7346 \"Chelsea\" 2005 | eBay",
+   "med": 39,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983834327",
+   "title": "Vintage children's dinnerware set",
+   "price": 45,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-childrens/2iRmB8BcgneEiiv5UZa7cx",
+   "best": "Pinterest",
    "med": 39,
    "ratio": 0.87,
    "ai_value": ""
@@ -33288,6 +33497,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979352489",
+   "title": "Mako Masques Carnaval",
+   "price": 30,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-mako-masques-carnaval/1GNsMp3mzv9eLwoH85Baut",
+   "best": "Craigslist",
+   "med": 14,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7937968387",
    "title": "Vintage Gold Tone Cream Enamel Necklace",
    "price": 35,
@@ -37243,6 +37463,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/jericho-lladro-spring-porcelain-figurine/bMZiiJn36arTrVNeNzENRo",
    "best": "Lladro Spring Girl w/ flowers /Bird 1983 porcelain glossy ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963737816",
+   "title": "Kershaw, Old Timer, Browning, Ducks Unlimited knives",
+   "price": 100,
+   "area": "mobile",
+   "url": "https://www.craigslist.org/view/d/grove-hill-kershaw-old-timer-browning/fH1rmjns3P6sVrn1uWRLMo",
+   "best": "Amazon.com",
    "med": null,
    "ratio": null,
    "ai_value": ""
