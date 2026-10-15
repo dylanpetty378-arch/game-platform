@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:51:07Z",
+ "updated": "2026-10-15T00:54:37Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10424,
-  "events": 34840,
+  "lens": 10449,
+  "events": 34865,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 428,
-  "flagged": 1869,
-  "lensed": 567
+  "queued": 403,
+  "flagged": 1889,
+  "lensed": 572
  },
  "last_harvests": [
   {
@@ -1630,6 +1630,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965575643",
+   "title": "Pocket Watches",
+   "price": 40,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/longmont-pocket-watches/qku9QNWvnj8Yzg6poYM7So",
+   "best": "Antique Waltham 0-Size Double Hunter Pocket Watch, Solid 14K ...",
+   "med": 1300,
+   "ratio": 32.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7934249959",
    "title": "Vintage Pendulum clock",
    "price": 100,
@@ -2363,6 +2374,17 @@
    "url": "https://www.craigslist.org/view/d/new-hartford-vintage-hand-painted/brYQmZquB52v8sGPceX8tu",
    "best": "SanJuan De Oriente Nicaragua Pottery Jar signed Guadalupe ...",
    "med": 765,
+   "ratio": 17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976457207",
+   "title": "Ophelia",
+   "price": 150,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-ophelia/3n8tcw1FNEoPXti1DmeYTq",
+   "best": "eBay",
+   "med": 2550,
    "ratio": 17,
    "ai_value": ""
   },
@@ -3214,6 +3236,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931895407",
+   "title": "Vintage Black Cat Charm",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-black-cat-charm/1JsAQwh43zw8SiSa2RRRrm",
+   "best": "Craigslist",
+   "med": 229,
+   "ratio": 11.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7964202927",
    "title": "Vintage Bogoff Jewelry Set - Excellent Condition!",
    "price": 70,
@@ -3562,6 +3595,17 @@
    "url": "https://www.craigslist.org/view/d/mooresville-dungeons-and-dragons/mKUhTuSM4hCMFEmRPkMeqm",
    "best": "eBay",
    "med": 800,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961020506",
+   "title": "Pulsar Quartz Two-Tone Metal Vintage Watch with Date Display",
+   "price": 15,
+   "area": "stockton",
+   "url": "https://www.craigslist.org/view/d/stockton-pulsar-quartz-two-tone-metal/w2XbdPeYcPmKXQpibiNkEC",
+   "best": "VINTAGE TIMEX ELECTRIC SELF WINDING WATCH - AUTOMATIC ...",
+   "med": 150,
    "ratio": 10,
    "ai_value": ""
   },
@@ -4278,6 +4322,17 @@
    "best": "Armstrong 103 B-Foot Open-Hole Flute, with Case. USA. Very ...",
    "med": 254,
    "ratio": 7.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960398849",
+   "title": "Antique ornate miniature liquor cup holders",
+   "price": 45,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-antique-ornate-miniature-liquor/kmGJdnNoieB8G9xTwddPJJ",
+   "best": "eBay",
+   "med": 325,
+   "ratio": 7.22,
    "ai_value": ""
   },
   {
@@ -5245,6 +5300,17 @@
    "url": "https://www.craigslist.org/view/d/niagara-falls-vintage-rosary-with/7apcniTE4V1eNp9hoghrzV",
    "best": "Antique Sterling Silver Beads Rosary | eBay",
    "med": 79,
+   "ratio": 5.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956221718",
+   "title": "VINTAGE MINIATURE PHOTO ALBUM",
+   "price": 22,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-miniature-photo/sHnqpqsyaHUaYkEQ9FwYL7",
+   "best": "Vintage French Framed Print Girl W Kitten by Jean Baptiste ...",
+   "med": 116,
    "ratio": 5.27,
    "ai_value": ""
   },
@@ -6591,12 +6657,34 @@
    "ai_value": ""
   },
   {
+   "pid": "7955868794",
+   "title": "silver-toned diamond stud earrings",
+   "price": 20,
+   "area": "boulder",
+   "url": "https://www.craigslist.org/view/d/longmont-silver-toned-diamond-stud/9YZtm3YrszEYNix36Tc1b7",
+   "best": "Sterling Silver Round White Diamonds 1/10 cttw Stud Earrings ...",
+   "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
    "area": "yakima",
    "url": "https://www.craigslist.org/view/d/roslyn-vintage-wittnauer-ladies-swiss/1x4kWwxxDz8o7eMBmoxPQp",
    "best": "Glycine-klockor till salu i: East Wenatchee, Washington ...",
+   "med": 99,
+   "ratio": 3.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962763182",
+   "title": "Sterling Silver Ring",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-sterling-silver-ring/gs8JfX28Fd1ejEMUJKyCtU",
+   "best": "925 Sterling Silver Ruby & Beryl Ring Size 10 - Etsy",
    "med": 99,
    "ratio": 3.96,
    "ai_value": ""
@@ -8131,6 +8219,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957788221",
+   "title": "Three Antique Cast Iron Door Stops",
+   "price": 95,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-three-antique-cast-iron-door/kNSj4W64X4r2vZZKtZBst8",
+   "best": "Black-Eyed Susans Antiques",
+   "med": 285,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -9231,6 +9330,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933950884",
+   "title": "2 Bracelets for $10",
+   "price": 10,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-bracelets-for-10/aN3GtMuNoJTRSXzxnmRpkc",
+   "best": "Gem",
+   "med": 25,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951477033",
    "title": "vintage NIPPON hand-painted double-handled porcelain ped",
    "price": 40,
@@ -9770,6 +9880,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939222121",
+   "title": "\u201cA Navaho Shaman\"",
+   "price": 65,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/buffalo-navaho-shaman/nXxeZPpTjEdXnQJ99PGHhS",
+   "best": "Vintage Native American Indian Art Print Navaho Shaman 1913 ...",
+   "med": 150,
+   "ratio": 2.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7949006096",
    "title": "Fashion Long Necklace 23\"L",
    "price": 10,
@@ -10305,6 +10426,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-vintage-navajo-sterling/3bjYyHsudYnrePBJJvUfp9",
    "best": "eBay",
    "med": 106,
+   "ratio": 2.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956918452",
+   "title": "Haeger green art deco pottery vase",
+   "price": 26,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/reno-haeger-green-art-deco-pottery-vase/4tTQ5PZmdVr1DtAR19g2wk",
+   "best": "Craigslist",
+   "med": 55,
    "ratio": 2.12,
    "ai_value": ""
   },
@@ -10921,6 +11053,28 @@
    "url": "https://www.craigslist.org/view/d/pleasant-grove-jewelry/t2ExKY1tK4UvEGq2jBixh2",
    "best": "eBay",
    "med": 100,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983570330",
+   "title": "Vintage Lace and Crochet Lot - Doilies, Handkerchief, Cap",
+   "price": 12,
+   "area": "saltlakecity",
+   "url": "https://www.craigslist.org/view/d/west-jordan-vintage-lace-and-crochet/bhpjiYP5gWcoVpoQSV1mMi",
+   "best": "eBay",
+   "med": 24,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963804863",
+   "title": "Frames",
+   "price": 10,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/summerland-frames/hKLcUsn57xNpC7ianUwpad",
+   "best": "Gallery Wall Frames | Size: 18 in x 18 in | Frame Collection ...",
+   "med": 20,
    "ratio": 2,
    "ai_value": ""
   },
@@ -12311,6 +12465,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938347680",
+   "title": "Pearl Necklace Vintage Antique Excellent Condition!",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-pearl-necklace-vintage-antique/bFaEUGM6TpxzNCe6oJnike",
+   "best": "eBay",
+   "med": 160,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -12560,6 +12725,17 @@
    "url": "https://www.craigslist.org/view/d/philadelphia-vintage-cast-iron-kettle/bsAkamCwDD88YrDMC2zNKs",
    "best": "eBay",
    "med": 46,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982336583",
+   "title": "Abstract face earrings, 3\"",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-abstract-face-earrings/ogrKX299M6VSM723VFBaEM",
+   "best": "Ruby Lane",
+   "med": 23,
    "ratio": 1.53,
    "ai_value": ""
   },
@@ -13759,6 +13935,17 @@
    "url": "https://www.craigslist.org/view/d/pleasanton-mother-of-pearl-and-pearl/kij9HNmA6df6Hv7NU3VDVA",
    "best": "eBay",
    "med": 40,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956205858",
+   "title": "HALLMARK TEA SET",
+   "price": 15,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/monaca-hallmark-tea-set/ieoev5x3CuJpkgtx6e5Eiy",
+   "best": "Craigslist",
+   "med": 20,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -15233,6 +15420,17 @@
    "url": "https://www.craigslist.org/view/d/centreville-fashion-rhodium-dangle/s3pJ4hj9QCNp3bMZUeUsvT",
    "best": "Twisted Infinity Earrings s925 Silver Drop Dangle Facing ...",
    "med": 16,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956256518",
+   "title": "Vintage Chunky Repousse Silver-Tone Clamper Cuff Bracelet.",
+   "price": 375,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-chunky-repousse-silver/wvNBXDvB133HVzkF77vAdK",
+   "best": "eBay",
+   "med": 400,
    "ratio": 1.07,
    "ai_value": ""
   },
@@ -19769,6 +19967,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936663080",
+   "title": "14k Yellow Gold TRIPLE TWISTED HOOP EARRINGS",
+   "price": 199,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-14k-yellow-gold-triple-twisted/vtUWFDtFp4ipta2oSsYLeD",
+   "best": "eBay",
+   "med": 41,
+   "ratio": 0.21,
+   "ai_value": ""
+  },
+  {
    "pid": "7954011806",
    "title": "Vintage Tennis Photo",
    "price": 100,
@@ -20106,6 +20315,17 @@
    "url": "https://www.craigslist.org/view/d/santa-ana-hummel-collection/hBexuEzrWxwbVEAnCQnfwn",
    "best": "Auctions | DuMouchelles",
    "med": 65,
+   "ratio": 0.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941001957",
+   "title": "Imported heart necklace",
+   "price": 299,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/reston-imported-heart-necklace/h14BrCX1Fx2BAJihBNV6Sb",
+   "best": "Etsy",
+   "med": 40,
    "ratio": 0.13,
    "ai_value": ""
   },
