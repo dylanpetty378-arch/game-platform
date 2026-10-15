@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:07:28Z",
+ "updated": "2026-10-15T15:11:15Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 12024,
-  "events": 38114,
+  "lens": 12049,
+  "events": 38139,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 428,
-  "flagged": 3085,
-  "lensed": 948
+  "queued": 403,
+  "flagged": 3102,
+  "lensed": 956
  },
  "last_harvests": [
   {
@@ -2474,6 +2474,17 @@
    "best": "Buy Vintage Sterling Silver Gemstone Jewelry Pendant Lot of ...",
    "med": 1067,
    "ratio": 26.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942611539",
+   "title": "COSTUME JEWLERY/ WATCHES",
+   "price": 5,
+   "area": "utica",
+   "url": "https://www.craigslist.org/view/d/costume-jewlery-watches/g9zvp2gBiLhBA2JsUTG9Az",
+   "best": "Vintage Jewelry Lot 3 1/2 + pounds Necklaces Bracelets Sets ...",
+   "med": 133,
+   "ratio": 26.6,
    "ai_value": ""
   },
   {
@@ -6327,6 +6338,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934210588",
+   "title": "Large Decorative Vase",
+   "price": 25,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-large-decorative-vase/vtC5BJjcS3wVeTJDHQtCAx",
+   "best": "Etsy",
+   "med": 190,
+   "ratio": 7.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7943860084",
    "title": "Vintage Christmas Pixie Elf",
    "price": 29,
@@ -7809,6 +7831,17 @@
    "best": "Vintage Donna Sharp Painted Clay Beaded Choker Necklace and ...",
    "med": 85,
    "ratio": 5.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929389186",
+   "title": "Antique V Troch Hansen Landscape Painting",
+   "price": 175,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-antique-troch-hansen-landscape/fFnYYT4hYKncxRSZun8qxV",
+   "best": "Bessie Hoover Wessel \u2014 Cincinnati Art Galleries, LLC",
+   "med": 990,
+   "ratio": 5.66,
    "ai_value": ""
   },
   {
@@ -9781,6 +9814,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932268318",
+   "title": "Beautiful Dragon Brooch",
+   "price": 29,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-beautiful-dragon-brooch/oL2ueaMfkDjT22uLvAbNWj",
+   "best": "eBay",
+   "med": 122,
+   "ratio": 4.21,
+   "ai_value": ""
+  },
+  {
    "pid": "7956087698",
    "title": "Beautiful sterling silver necklace",
    "price": 100,
@@ -10738,6 +10782,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938227710",
+   "title": "John Legend Vintage 2006  Hand-Signed Event Poster",
+   "price": 50,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-john-legend-vintage-2006-hand/cCzcHaQJW7bmWdD9jXyfYJ",
+   "best": "eBay",
+   "med": 188,
+   "ratio": 3.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7972351545",
    "title": "Sterling Silver Ring",
    "price": 20,
@@ -11493,6 +11548,17 @@
    "url": "https://www.craigslist.org/view/d/duluth-vintage-brass-bookends/uepnU6n9UGLh47ZzrbT9JZ",
    "best": "Amazon.com: SUNESA Bookends Bookends Antique Pineapple ...",
    "med": 175,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955881450",
+   "title": "Vintage wood duck decoy",
+   "price": 20,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-vintage-wood-duck-decoy/2psh5s5ao29wBnBkTdUYwQ",
+   "best": "eBay",
+   "med": 70,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -13510,6 +13576,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931349496",
+   "title": "Amber Sterling Silver Ring Size 8",
+   "price": 45,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-amber-sterling-silver-ring-size/duVANAZpJZMZRorXMp7Pek",
+   "best": "Khafagy",
+   "med": 128,
+   "ratio": 2.84,
+   "ai_value": ""
+  },
+  {
    "pid": "7983287970",
    "title": "COBALT BLUE PLATTER",
    "price": 24,
@@ -14925,6 +15002,17 @@
    "url": "https://www.craigslist.org/view/d/columbus-new-10k-gold-arrow-earrings/aewF1zHq9MEY99uae4YjQ8",
    "best": "14K Real Solid Yellow Gold Dainty Mini Arrow CZ Sleeper Stud ...",
    "med": 375,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966853226",
+   "title": "Fender Squire \u201804",
+   "price": 80,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/los-alamitos-fender-squire-04/2gqkB79r8qRT6hcakLpfku",
+   "best": "Guitar Center",
+   "med": 200,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -16777,6 +16865,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983864690",
+   "title": "vintage 80s american girl paper dolls lot of 4",
+   "price": 10,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/somerville-vintage-80s-american-girl/uApxKDqMRd4iKBZt5yRvpE",
+   "best": "eBay",
+   "med": 21,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7949341737",
    "title": "Swarovski heart earrings",
    "price": 55,
@@ -17939,6 +18038,17 @@
    "url": "https://www.craigslist.org/view/d/daytona-beach-container/s2kEHYMwKMiCZictM3A7N7",
    "best": "Red Wing Double \"P\" Bottom Signed Crock Minnesota Stoneware ...",
    "med": 86,
+   "ratio": 1.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983891693",
+   "title": "Vintage 1930s Hawkeye Clarinet-------Des Moines, Iowa",
+   "price": 125,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/des-moines-vintage-1930s-hawkeye/tbfTqMvvou8XePCAbDqZt8",
+   "best": "C.G. CONN METAL CLARINET ELKHART-IND USA | eBay",
+   "med": 239,
    "ratio": 1.91,
    "ai_value": ""
   },
@@ -19809,6 +19919,17 @@
    "url": "https://www.craigslist.org/view/d/cameo-earrings-with-posts/xaqDubiCceB5vtHQTfKoEu",
    "best": "eBay",
    "med": 90,
+   "ratio": 1.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983875910",
+   "title": "Octagon shape Garnet in Sterling Ring",
+   "price": 119,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-octagon-shape-garnet-in/8qfWwwpXZyvoHUWPYkG8W1",
+   "best": "eBay",
+   "med": 195,
    "ratio": 1.64,
    "ai_value": ""
   },
@@ -24114,6 +24235,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968393225",
+   "title": "Donald Duck Vintage mini Snow Globes Disney",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/methuen-donald-duck-vintage-mini-snow/aU9deJTKAuKPisgRBxrzpX",
+   "best": "Disney's Donald Duck w Wreath Christmas Holiday Mini Snow ...",
+   "med": 35,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949254133",
    "title": "Vintage Suarti Sterling Silver & Cultured Pearl Cuff",
    "price": 160,
@@ -27040,6 +27172,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932516366",
+   "title": "Merry-go-Round Fun Times",
+   "price": 149,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-merry-go-round-fun-times/973hrASnfGsTxFd4t9Mrzi",
+   "best": "eBay",
+   "med": 130,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7946375985",
    "title": "Sterling Silver & Rhodonite 20\u201d Necklace",
    "price": 35,
@@ -27762,6 +27905,17 @@
    "url": "https://www.craigslist.org/view/d/reading-vtg-gurley-candles/5EN1TCnwZneMMr7HqcYC5z",
    "best": "eBay",
    "med": 20,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978786938",
+   "title": "Angel Tea Light holder/statute",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-angel-tea-light-holder/7x9PFUpTqoyq1MVZ5N6ngh",
+   "best": "eBay",
+   "med": 12,
    "ratio": 0.8,
    "ai_value": ""
   },
@@ -30622,6 +30776,28 @@
    "url": "https://www.craigslist.org/view/d/south-park-mcclellan-childrens-circus/eVRGh9HU6WUN1e19rVbvyY",
    "best": "Etsy",
    "med": 10,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954726641",
+   "title": "AL Dornisch etching",
+   "price": 100,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-al-dornisch-etching/kqUwymr8PaoMycv7brgPTU",
+   "best": "Mutual Art",
+   "med": 50,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949497255",
+   "title": "Fantastic Antique Signed Large Snow Village Oil-On-Canvas Painting",
+   "price": 199,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-fantastic-antique-signed-large/fbhcjkK1G68LV6KUwyBh2r",
+   "best": "ulje na staklu...28 x 30 cm zima...d.m. croatia...",
+   "med": 100,
    "ratio": 0.5,
    "ai_value": ""
   },
@@ -34416,6 +34592,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/fremont-vintage-acoustic-guitar/6AnYppVqbAuiSK13siNRyH",
    "best": "Landola Buffalo V-71 (Martin Style) 1960's \u2013 L'instrumenterie",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957096406",
+   "title": "Groovetubes Fatfinger",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/brookline-groovetubes-fatfinger/dSs9MTHHhALcxDbNEeha1T",
+   "best": "Groove Tubes Fatfinger Guitar Sustain Enhancer | zZounds",
    "med": null,
    "ratio": null,
    "ai_value": ""
