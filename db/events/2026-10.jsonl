@@ -39641,3 +39641,89 @@
 {"ts":"2026-10-15T21:10:05Z","pid":"7939956638","stage":"flagged","run":"lensworker-20261015-2107","note":"Lens names Jewelry, Pink — title does not","data":{"med":40,"ratio":1.6,"mismatch":["Jewelry","Pink"]}}
 {"ts":"2026-10-15T21:10:13Z","pid":"7983927921","stage":"flagged","run":"lensworker-20261015-2107","note":null,"data":{"med":102,"ratio":1.02,"mismatch":[]}}
 {"ts":"2026-10-15T21:10:22Z","pid":"7955228479","stage":"lensed","run":"lensworker-20261015-2107","note":null,"data":{"med":72,"ratio":2.48,"mismatch":[]}}
+{"pid":"sgw279388958","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279923600","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280122208","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279967850","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280153730","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280177581","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw278540675","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280163334","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279897338","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279863291","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279885512","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280171597","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280266717","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279930758","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279641444","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279641459","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279978731","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279909030","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279939203","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279896220","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279898312","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279907961","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279779707","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279879428","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279856638","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280708425","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280708064","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280054703","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280013768","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280238174","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280230769","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280079104","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279195576","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280448643","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280100161","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280189702","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280144296","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279992738","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280030694","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280291014","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280013366","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280016691","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280002999","stage":"queued","run":"sgw-20261015-2053","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279388958","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Unnamed early cast-iron chainstitch machine; rare 1850s-60s American patent maker could top $1,000","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279923600","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Antique moonlit nocturne in period frame; 19th-c. tonalist hand could exceed $1,000","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280122208","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Art Deco 18K old-cut ring; untested pearl, if natural saltwater worth $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279967850","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Mucha \"Byzantine Head\" on aged card; if 1897 original lithograph, $2,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280153730","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Tosa Mitsuoka-attributed quail/chrysanthemum silk painting; if Edo-period original, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280177581","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Hanging scroll landscape, appears hand-painted with seals; Chinese scroll by listed artist could be $1k+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw278540675","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Matisse-style reclining woman line work, unrecognised; if period Matisse litho/etching, $1k+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280163334","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Hand-painted ink landscape scroll with seal; long shot for listed Chinese/Japanese master, $1k+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279897338","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Cappiello Parapluie-Revel; likely repro, but original 1922 Vercasson stone litho is $2k+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279863291","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Horned devil face jug, dark glaze; Southern folk (Meaders/Lanier) version $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279885512","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Chinese ink landscape hanging scroll; if genuine period/listed artist, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280171597","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Confident mid-century watercolor, cabin and tree; California Watercolor School version $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280266717","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Tall Southwest cloaked-figure oil, signature lower right; DeGrazia original version $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279930758","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Competent lilac/hydrangea still life oil in carved gilt frame; listed-artist version $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279641444","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Carved red Pueblo-style vessel; signed Santa Clara/Jemez sgraffito artist version $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279641459","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Handled black-on-black pot with incised design; San Ildefonso/Maria-era blackware version $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279978731","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: 1938 Moscow Museum of Modern Western Art portfolio; scarce Soviet-era plates, weak lead","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279909030","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Mid-century impasto abstract oil, carved frame; check signature for listed abstractionist","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279939203","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Gilt Satsuma-style vase; likely export decor, check for Meiji mark/quality (weak)","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279896220","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Pencil-signed Sonia Delaunay etching/pochoir, Tzara Juste Present suite; $1-3k if genuine","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279898312","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: 1943 Warren Hunter watercolor; San Antonio regionalist, good examples $1k+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279907961","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Rembrandt \"The Windmill\" B.233; if true etching with platemark (even restrike) $1k+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279779707","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: ~15 Thor comics, title says 1960s; Silver Age Thor #126-#170 run could clear $1k","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279879428","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Vintage 1940s two-register chronograph; if Universal/Gallet/Breitling/Longines, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279856638","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: 19th-c style cattle landscape oil, period frame; if genuine European/American 1800s, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280708425","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Tom Everhart Snoopy, appears hand-signed; signed limited lithograph can reach $1,000+ (verify edition)","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280708064","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Reverse-painted windmill dome shade; Handel/Pairpoint shade could be $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280054703","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Matte-green leaf-relief A&C bowl; if Grueby/Teco/Hampshire early, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280013768","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: 1940s retro rose-gold ruby watch; if solid 14k case and band, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280238174","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Confident gestural ink abstraction, already bid; if original mid-century master work, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280230769","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Chinese ink mountain-landscape hanging scroll; if hand-painted by listed artist, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280079104","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Three rolled, unopened Asian hanging scrolls, aged; an old Chinese painting could be $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279195576","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Chinese ink Guilin karst landscape, titled and sealed; if listed painter, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280448643","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Signed/sealed hand-painted Chinese wisteria scroll, listed generic; check if listed-artist work","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280100161","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Hand-brushed clerical-script Chinese calligraphy scroll, signed/sealed, titled generic; check calligrapher","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280189702","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Cast bronze Khmer Bayon-style deva head on stand; if period Angkor bronze, $1,000s","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280144296","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Looks 18th-c Chinese export Nanking blue-white lidless tureen/sugar w/ handles; check age","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw279992738","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Chinese court-ladies figure painting on aged silk, unsigned; if hand-painted Qing, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280030694","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: 1930s American Scene/WPA-style watercolor (Nancy Lee Newton); regionalist works can reach $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280291014","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Call of the Wild 1903 Macmillan pictorial cloth; true first edition first printing can reach $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280013366","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Famille rose Shoulao 17.5in; if late Qing/Republic not modern, $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280016691","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Unsigned Orientalist horsemen oil on panel, Schreyer-school handling; period work $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
+{"pid":"sgw280002999","stage":"flagged","run":"sgw-20261015-2053","by":"claude","note":"eye screen: Early-20th-c impressionist floral oil, signed, confident hand; Midwest regional painter could be $1,000+","data":{"eye":true},"ts":"2026-10-15T21:01:01Z"}
