@@ -40140,3 +40140,28 @@
 {"ts":"2026-10-15T21:57:06Z","pid":"7931598613","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Gold — title does not","data":{"med":182,"ratio":6.28,"mismatch":["Gold"]}}
 {"ts":"2026-10-15T21:57:15Z","pid":"7984100043","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Morris, Wilson — title does not","data":{"med":295,"ratio":1.69,"mismatch":["Morris","Wilson"]}}
 {"ts":"2026-10-15T21:57:25Z","pid":"7930768079","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Enamel — title does not","data":{"med":20,"ratio":0.27,"mismatch":["Enamel"]}}
+{"ts":"2026-10-15T21:57:38Z","pid":"7932962322","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Amber, Kent, Standard — title does not","data":{"med":620,"ratio":12.4,"mismatch":["Amber","Kent","Standard"]}}
+{"ts":"2026-10-15T21:57:47Z","pid":"7951788812","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Navajo, Silver — title does not","data":{"med":145,"ratio":0.64,"mismatch":["Navajo","Silver"]}}
+{"ts":"2026-10-15T21:57:56Z","pid":"7937941724","stage":"flagged","run":"lensworker-20261015-2153","note":null,"data":{"med":80,"ratio":2.29,"mismatch":[]}}
+{"ts":"2026-10-15T21:58:06Z","pid":"7935252629","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Jewelry — title does not","data":{"med":158,"ratio":3.51,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T21:58:17Z","pid":"7962343383","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Jewelry, Museum — title does not","data":{"med":10,"ratio":0.5,"mismatch":["Jewelry","Museum"]}}
+{"ts":"2026-10-15T21:58:27Z","pid":"7960846959","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Herter's — title does not","data":{"med":39,"ratio":1.95,"mismatch":["Herter's"]}}
+{"ts":"2026-10-15T21:58:35Z","pid":"7939649522","stage":"flagged","run":"lensworker-20261015-2153","note":null,"data":{"med":650,"ratio":1.63,"mismatch":[]}}
+{"ts":"2026-10-15T21:58:46Z","pid":"7953874153","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Company, Robinson Ransbottom, Roseville — title does not","data":{"med":20,"ratio":2,"mismatch":["Company","Robinson Ransbottom","Roseville"]}}
+{"ts":"2026-10-15T21:58:54Z","pid":"7983913896","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Yves Saint Laurent — title does not","data":{"med":1137,"ratio":37.9,"mismatch":["Yves Saint Laurent"]}}
+{"ts":"2026-10-15T21:59:05Z","pid":"7954841997","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Enamel, Junk, Miller — title does not","data":{"med":150,"ratio":7.5,"mismatch":["Enamel","Junk","Miller"]}}
+{"ts":"2026-10-15T21:59:11Z","pid":"7950351417","stage":"lensed","run":"lensworker-20261015-2153","note":null,"data":{"med":49,"ratio":0.4,"mismatch":[]}}
+{"ts":"2026-10-15T21:59:19Z","pid":"7956875699","stage":"flagged","run":"lensworker-20261015-2153","note":null,"data":{"med":71,"ratio":3.55,"mismatch":[]}}
+{"ts":"2026-10-15T21:59:27Z","pid":"7952582007","stage":"lensed","run":"lensworker-20261015-2153","note":null,"data":{"med":35,"ratio":3.5,"mismatch":[]}}
+{"ts":"2026-10-15T21:59:38Z","pid":"7952926363","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Seiko — title does not","data":{"med":75,"ratio":1.88,"mismatch":["Seiko"]}}
+{"ts":"2026-10-15T21:59:48Z","pid":"7970895879","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Dairy, Farm, Illinois, Iron — title does not","data":{"med":99,"ratio":1.41,"mismatch":["Dairy","Farm","Illinois","Iron"]}}
+{"ts":"2026-10-15T21:59:55Z","pid":"7944836171","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Company, Kellogg, Loops — title does not","data":{"med":13,"ratio":1.3,"mismatch":["Company","Kellogg","Loops"]}}
+{"ts":"2026-10-15T22:00:05Z","pid":"7983974187","stage":"lensed","run":"lensworker-20261015-2153","note":null,"data":{"med":22,"ratio":0.23,"mismatch":[]}}
+{"ts":"2026-10-15T22:00:15Z","pid":"7964212899","stage":"flagged","run":"lensworker-20261015-2153","note":null,"data":{"med":234,"ratio":4.68,"mismatch":[]}}
+{"ts":"2026-10-15T22:00:21Z","pid":"7952308635","stage":"lensed","run":"lensworker-20261015-2153","note":null,"data":{"med":11,"ratio":1.1,"mismatch":[]}}
+{"ts":"2026-10-15T22:00:29Z","pid":"7980147892","stage":"flagged","run":"lensworker-20261015-2153","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T22:00:40Z","pid":"7952119772","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Collectible, Reynolds, Tin — title does not","data":{"med":15,"ratio":0.22,"mismatch":["Collectible","Reynolds","Tin"]}}
+{"ts":"2026-10-15T22:00:48Z","pid":"7931705591","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Monet, Silver — title does not","data":{"med":27,"ratio":2.7,"mismatch":["Monet","Silver"]}}
+{"ts":"2026-10-15T22:00:58Z","pid":"7948385685","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Royal — title does not","data":{"med":432,"ratio":1.08,"mismatch":["Royal"]}}
+{"ts":"2026-10-15T22:01:10Z","pid":"7971099903","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Boutique — title does not","data":{"med":null,"ratio":null,"mismatch":["Boutique"]}}
+{"ts":"2026-10-15T22:01:20Z","pid":"7951501067","stage":"flagged","run":"lensworker-20261015-2157","note":"Lens names Roto-Vue — title does not","data":{"med":70,"ratio":0.7,"mismatch":["Roto-Vue"]}}

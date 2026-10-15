@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:57:50Z",
+ "updated": "2026-10-15T22:01:47Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12949,
-  "events": 40142,
+  "lens": 12974,
+  "events": 40167,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 303,
-  "flagged": 3780,
-  "lensed": 1178
+  "queued": 278,
+  "flagged": 3801,
+  "lensed": 1182
  },
  "last_harvests": [
   {
@@ -2390,6 +2390,17 @@
    "best": "Vintage KLOSTERBR\u00c4U Koblenz RHEINISCH PILS Beer Tulip ...",
    "med": 38,
    "ratio": 38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983913896",
+   "title": "Garnet & sterling silver butterfly earring set",
+   "price": 30,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-garnet-sterling-silver/2RGptCqnHBZhtbaKhTx7Ss",
+   "best": "Yves Saint Laurent YSL Vintage Deep Magenta Rhinestone ...",
+   "med": 1137,
+   "ratio": 37.9,
    "ai_value": ""
   },
   {
@@ -5341,6 +5352,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932962322",
+   "title": "CASTILLA MANDOLIN FOR PARTS OR PROJECT",
+   "price": 50,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/deer-park-castilla-mandolin-for-parts/pCADqYkQb6sE6u7y57Bpmv",
+   "best": "Reverb",
+   "med": 620,
+   "ratio": 12.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7955836691",
    "title": "Antique gold mining pan",
    "price": 40,
@@ -7856,6 +7878,17 @@
    "url": "https://www.craigslist.org/view/d/el-cerrito-4-spanish-style-classical/kMKdYxHTXeDHex9d8YbfEk",
    "best": "1960s Gibson C-0 Classic",
    "med": 750,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954841997",
+   "title": "Paying $20 an Ounce for Silver Coins Cutlery 925 Sterling broken",
+   "price": 20,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/fort-myers-paying-20-an-ounce-for/3bgkUq4Ycw9pS39D82RcjQ",
+   "best": "Craigslist",
+   "med": 150,
    "ratio": 7.5,
    "ai_value": ""
   },
@@ -11039,6 +11072,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964212899",
+   "title": "Framed Oil Painting",
+   "price": 50,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-framed-oil-painting/7zCJp3oUxNp7BiWXWhQJSr",
+   "best": "Vintage Country Side Oil On Canvas Landscape Painting In ...",
+   "med": 234,
+   "ratio": 4.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7947988984",
    "title": "Pearl & Diamond set",
    "price": 75,
@@ -13965,6 +14009,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956875699",
+   "title": "You and I Brand Cross Necklace",
+   "price": 20,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-you-and-brand-cross-necklace/2wbC2BZRKS8U2ofW8eEi11",
+   "best": "Craigslist",
+   "med": 71,
+   "ratio": 3.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7952409931",
    "title": "Vintage 1950s Marcel Boucher Deep Sapphire Baguette Bow Necklas",
    "price": 100,
@@ -14005,6 +14060,17 @@
    "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-rustic-metal/jkWBYHXE7ETdEjCBwriqme",
    "best": "Rustic Cylinder Bell, Farmhouse Dinner Gong, Yard Art - Etsy",
    "med": 263,
+   "ratio": 3.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935252629",
+   "title": "Vintage Bracelet",
+   "price": 45,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/leander-vintage-bracelet/bhrdoNL6akmXefvAZcpqvi",
+   "best": "Craigslist",
+   "med": 158,
    "ratio": 3.51,
    "ai_value": ""
   },
@@ -17309,6 +17375,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931705591",
+   "title": "Necklace - Nakamel",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-necklace-nakamel/jogekz6KRqqzSb8fwGofMH",
+   "best": "Craigslist",
+   "med": 27,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7945744025",
    "title": "2 ANTIQUE ENAMELED LOCKETS",
    "price": 65,
@@ -19674,6 +19751,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937941724",
+   "title": "Watch Swiss Army",
+   "price": 35,
+   "area": "lascruces",
+   "url": "https://www.craigslist.org/view/d/las-cruces-watch-swiss-army/mNFUZzcHYkGq5ZrNQwfzvS",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7951926438",
    "title": "Hamilton Pocket Watch (1909)",
    "price": 325,
@@ -21621,6 +21709,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953874153",
+   "title": "Pottery Pitcher",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-pottery-pitcher/w1fLvz2EXe6iDwWEBHo92p",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -21814,6 +21913,17 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/garden-grove-costume-jewelry/arf1idqSomxmZY2BddqXhd",
    "best": "You & I Signed Chunky Black Beaded Tear Drop Silver Tone ...",
+   "med": 39,
+   "ratio": 1.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960846959",
+   "title": "Vintage CAST IRON DOUBLE SPOUT SMELTING LADLE",
+   "price": 20,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/chico-vintage-cast-iron-double-spout/2sS63M7ftjFcytvEX4D7qM",
+   "best": "Etsy",
    "med": 39,
    "ratio": 1.95,
    "ai_value": ""
@@ -22312,6 +22422,17 @@
    "med": 15,
    "ratio": 1.88,
    "ai_value": "sell online for around $8"
+  },
+  {
+   "pid": "7952926363",
+   "title": "Vintage Watches",
+   "price": 40,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-watches/3wQgwJJdLLqj3XFyh9q58j",
+   "best": "Reddit",
+   "med": 75,
+   "ratio": 1.88,
+   "ai_value": ""
   },
   {
    "pid": "7953070017",
@@ -24292,6 +24413,17 @@
    "med": 65,
    "ratio": 1.63,
    "ai_value": ""
+  },
+  {
+   "pid": "7939649522",
+   "title": "Vintage Silvertone 'Blue Kentuckian ' Acoustic",
+   "price": 400,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/hooksett-vintage-silvertone-blue/hWnEf1j4yUnYXbzG1MQCxw",
+   "best": "Invaluable.com",
+   "med": 650,
+   "ratio": 1.63,
+   "ai_value": "Sold at Auction: Silvertone Kentucky Blue Acoustic Guitar $650"
   },
   {
    "pid": "7929922868",
@@ -26571,6 +26703,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970895879",
+   "title": "Antique Vulcan Railroad Jack",
+   "price": 70,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-vulcan-railroad-jack/vHzvgYf4fzsScMDjEsnp22",
+   "best": "Hazard a guess on this tool from Plain City - Farm and Dairy ...",
+   "med": 99,
+   "ratio": 1.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7953208388",
    "title": "Sterling Silver & Turquoise Pendants",
    "price": 35,
@@ -27810,6 +27953,17 @@
    "url": "https://www.craigslist.org/view/d/denver-vintage-heart-pave-clip-on/4DqGiMbvM1f3LM5MPEJ6dg",
    "best": "eBay",
    "med": 26,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944836171",
+   "title": "3 Vintage Tins - all for $10",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-tins-all-for-10/rxTirhzyMZ2hP7JZEKuA2Z",
+   "best": "eBay",
+   "med": 13,
    "ratio": 1.3,
    "ai_value": ""
   },
@@ -30274,6 +30428,17 @@
    "url": "https://www.craigslist.org/view/d/austin-vintage-marcasite-brooch-pin/eGxpXyc1ZCg4snpF2QpeQ1",
    "best": "eBay",
    "med": 70,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948385685",
+   "title": "SHINOLA THE RUNWELL 47MM",
+   "price": 400,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/hollywood-shinola-the-runwell-47mm/24YUYtQmLugHYY3Ek7ynSg",
+   "best": "The RealReal",
+   "med": 432,
    "ratio": 1.08,
    "ai_value": ""
   },
@@ -34986,6 +35151,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951501067",
+   "title": "VINTAGE 50\u2019s MOTION LAMP",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-50s-motion-lamp/beG6Tn9DRTzkD4zYBgThHL",
+   "best": "1950's Fountain of Youth Roto-vue Econolite Corp Motion ...",
+   "med": 70,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7955101350",
    "title": "Vintage CC Hughes 1923 Mercury Dime Coin Watch-UNWORN",
    "price": 65,
@@ -35543,6 +35719,17 @@
    "url": "https://www.craigslist.org/view/d/leawood-native-american-sterling-silver/tGUq5EU9igADF9nMY8N8h8",
    "best": "eBay",
    "med": 80,
+   "ratio": 0.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951788812",
+   "title": "Native American sterling inlay cuff/ring",
+   "price": 225,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/leawood-native-american-sterling-inlay/mvf34HmnTvoMtLPpkd9sBD",
+   "best": "Craigslist",
+   "med": 145,
    "ratio": 0.64,
    "ai_value": ""
   },
@@ -37162,6 +37349,17 @@
    "med": 25,
    "ratio": 0.5,
    "ai_value": "price: Offered together as a set of five for $50"
+  },
+  {
+   "pid": "7962343383",
+   "title": "Jolly Roger-Gothic Cross necklace",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-jolly-roger-gothic-cross/qNJo3hkXwrZ4JEog5sr4s9",
+   "best": "Alchemy Gothic",
+   "med": 10,
+   "ratio": 0.5,
+   "ai_value": ""
   },
   {
    "pid": "7944220078",
@@ -39349,6 +39547,17 @@
    "url": "https://www.craigslist.org/view/d/south-plainfield-10-gold-ladys-ring/qiqVahjyhhiM4Fqq8TRokt",
    "best": "Anillo...I want my wedding ring to look like this!!!",
    "med": 100,
+   "ratio": 0.22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952119772",
+   "title": "VINTAGE 90\u2019s JOE CAMEL MERCHANDISE",
+   "price": 69,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-90s-joe-camel/pUo7JGtHx41HCQGymeNEee",
+   "best": "VINTAGE TOBACCO CAMEL LIGHTS JOE CAMEL POOL PLASTIC ASHTRAY ...",
+   "med": 15,
    "ratio": 0.22,
    "ai_value": ""
   },
@@ -42054,6 +42263,28 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/santa-monica-vintage-1961-oil-portrait/makVRWKRgxPTMT9cwZRr1W",
    "best": "Red White & Blue Thrift Store, 19239 SE McLoughlin Blvd ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980147892",
+   "title": "6 string banjo",
+   "price": 125,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/san-tan-valley-string-banjo/a5ZycKSxcdvxncqRratHBc",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971099903",
+   "title": "Famous Quote Mug, \"Dolly\"",
+   "price": 18,
+   "area": "wilmington",
+   "url": "https://www.craigslist.org/view/d/wilmington-famous-quote-mug-dolly/1Q73viWNVFV7xELe9VAr35",
+   "best": "Sugarboo & Co",
    "med": null,
    "ratio": null,
    "ai_value": ""
