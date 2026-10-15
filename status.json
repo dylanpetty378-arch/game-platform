@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-15T15:20:53Z",
+ "updated": "2026-10-15T15:24:31Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
-  "listings": 13783,
-  "lens": 12099,
-  "events": 38189,
+  "listings": 13790,
+  "lens": 12124,
+  "events": 38235,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 8935,
+  "photo_review/kill": 8937,
   "comps/pass": 1,
   "queued/relens": 485,
   "decided/ask": 82,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 353,
-  "flagged": 3145,
-  "lensed": 963
+  "queued": 328,
+  "flagged": 3165,
+  "lensed": 968
  },
  "last_harvests": [
   {
@@ -10089,6 +10089,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965947385",
+   "title": "2 Pictures Framed",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-pictures-framed/gR6MHy7tLzH12Yeb345wka",
+   "best": "eBay",
+   "med": 105,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471543",
    "title": "Vintage 925/Gold vermeil Etruscan Aquamarine and Pearl Earrings, EXCEL",
    "price": 30,
@@ -10617,6 +10628,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948461540",
+   "title": "Lenox Lido Candlesticks",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/richmond-lenox-lido-candlesticks/mAVVQHYQGeArWa4KxbeLu8",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -10921,6 +10943,17 @@
    "url": "https://www.craigslist.org/view/d/fremont-ovation-made-in-usa-ultra-series/g7ngHBx5N59spmiiXTEtGs",
    "best": "Used Ovation 1112-1 Vintage Sunburst Acoustic Guitar Vintage ...",
    "med": 950,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929837768",
+   "title": "SCARF OF CHICAGO, VINTAGE",
+   "price": 5,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/concord-scarf-of-chicago-vintage/tut5PDMZXzpfu4SKGCVHBt",
+   "best": "Etsy",
+   "med": 19,
    "ratio": 3.8,
    "ai_value": ""
   },
@@ -13334,6 +13367,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935527143",
+   "title": "Chinese Mix & Match Tea Set",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/richmond-chinese-mix-match-tea-set/6gbJhP6dToWpk21f9Y5oLW",
+   "best": "eBay",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -15222,6 +15266,17 @@
    "url": "https://www.craigslist.org/view/d/los-alamitos-fender-squire-04/2gqkB79r8qRT6hcakLpfku",
    "best": "Guitar Center",
    "med": 200,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983846786",
+   "title": "Lovely Shell Necklace",
+   "price": 10,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-lovely-shell-necklace/gnuYsidfmFSYhhucVbjucS",
+   "best": "eBay",
+   "med": 25,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -17932,6 +17987,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7946677355",
+   "title": "Vintage Roe's Steel Tape",
+   "price": 15,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/dunstable-vintage-roes-steel-tape/k16HFwmpM4RDhYu2rBWpHr",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972868781",
+   "title": "Vintage beer sign",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-beer-sign/ebi1QhsZBaABVcsZfNQaCz",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -18587,6 +18664,17 @@
    "area": "nh",
    "url": "https://www.craigslist.org/view/d/dover-red-and-gold-beaded-necklace-and/1XYSfjg6xaX2AGUrq1EouW",
    "best": "Necklace 25 Inch Long Jewelry Red Bead Adjust Lobster Clasp ...",
+   "med": 28,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945811537",
+   "title": "Southern Belle Dinner Bell",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-southern-belle-dinner-bell/kGAUTJLaGShwthhB8HsUcG",
+   "best": "eBay",
    "med": 28,
    "ratio": 1.87,
    "ai_value": ""
@@ -20051,6 +20139,17 @@
    "url": "https://www.craigslist.org/view/d/vancouver-vintage-british-tank-helmet/7cRZpD7eihAj1ZUx6DNxdi",
    "best": "British Army AFV Tank Crew Helmet1 Amplivox Ltd Chieftain ...",
    "med": 100,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956244907",
+   "title": "Christmas Bow Pin By Monet",
+   "price": 12,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-christmas-bow-pin-by-monet/2Twb233g1aKGwqvAUwDGF4",
+   "best": "eBay",
+   "med": 20,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -21584,6 +21683,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971795222",
+   "title": "1941 Roseville \"Columbine\" Vase",
+   "price": 50,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/bradenton-1941-roseville-columbine-vase/46YBD7hLV9grRhFNz3YGxc",
+   "best": "eBay",
+   "med": 75,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -22464,6 +22574,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978019169",
+   "title": "Vintage Arthur Court Cast Aluminum Pitcher",
+   "price": 90,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-vintage-arthur-court-cast/eHfMRTsagdgQHg2x2yZvtV",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 1.39,
+   "ai_value": ""
+  },
+  {
    "pid": "7937952842",
    "title": "Vintage brooch",
    "price": 40,
@@ -22581,6 +22702,17 @@
    "url": "https://www.craigslist.org/view/d/epping-chinese-jade-hand-painted/eN7qPpENtWXnB8x2ca1Ch3",
    "best": "1950s Vintage Hand Painted Ceramic, Pale Green Jade and Gold ...",
    "med": 76,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983871254",
+   "title": "2006 Epiphone Sheraton II",
+   "price": 500,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/walpole-2006-epiphone-sheraton-ii/agHc3W56ZyPJjXNgtrZdoM",
+   "best": "Guitar Center",
+   "med": 690,
    "ratio": 1.38,
    "ai_value": ""
   },
@@ -24565,6 +24697,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947937803",
+   "title": "Antique cherry pitter",
+   "price": 25,
+   "area": "gainesville",
+   "url": "https://www.craigslist.org/view/d/alachua-antique-cherry-pitter/t3kNjjNqpSAEXfCDBdXoX8",
+   "best": "eBay",
+   "med": 29,
+   "ratio": 1.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7951116212",
    "title": "Mother of Pearl Necklace",
    "price": 13,
@@ -26402,6 +26545,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981733913",
+   "title": "MC Pixie Candle Huggers",
+   "price": 25,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/york-mc-pixie-candle-huggers/qGC86vCfPrCpKMt6LSY7fx",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -26585,6 +26739,17 @@
    "url": "https://www.craigslist.org/view/d/islip-pair-of-vintage-wheatonware-green/1vJZMoK95hDPeMv1VvryBV",
    "best": "eBay",
    "med": 24,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983853866",
+   "title": "Men's cross necklace",
+   "price": 50,
+   "area": "wv",
+   "url": "https://www.craigslist.org/view/d/malta-mens-cross-necklace/kfWVXcBCaBmVKNqgp2JZvG",
+   "best": "Macy's",
+   "med": 48,
    "ratio": 0.96,
    "ai_value": ""
   },
@@ -27216,6 +27381,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943150184",
+   "title": "Mid Century Electric Clock",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-mid-century-electric-clock/aFaiqBxSEAbGWLnBBRUoG7",
+   "best": "Vintage Haddon \"Golden Vision\" Mystery Desk Electric Clock ...",
+   "med": 45,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7983199305",
    "title": "Sterling Silver Ring - New",
    "price": 45,
@@ -27465,6 +27641,17 @@
    "url": "https://www.craigslist.org/view/d/brick-juicy-couture-pave-chain-necklace/syU1ozYj4WvRD3nK3RFx73",
    "best": "Juicy Couture Necklace Gold Pave Chain Cherry Heart Bow ...",
    "med": 57,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983862122",
+   "title": "Citizen Quartz",
+   "price": 40,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/chesapeake-citizen-quartz/kFsGaKwpiryLnVtwVGYJKZ",
+   "best": "Vintage Radar",
+   "med": 35,
    "ratio": 0.88,
    "ai_value": ""
   },
@@ -29302,6 +29489,28 @@
    "url": "https://www.craigslist.org/view/d/new-york-guitar-capo-black/8NejQ8Sk9qNWFezDM3s42Q",
    "best": "Craigslist",
    "med": 7,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946560985",
+   "title": "14 pieces =BOLOGNA SilverPlate 2R ITALY",
+   "price": 54,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/fort-worth-14-pieces-bologna/ibSTPseQfSV22wgkQYa4Zd",
+   "best": "eBay",
+   "med": 38,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932446618",
+   "title": "PRK Sterling Cufflinks and Tie Clip",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-prk-sterling-cufflinks-and-tie/6bgs9kXFZHfh5j6iKRkMD4",
+   "best": "Classic Vtg Anson Sterling Silver 925 Polished Oval ...",
+   "med": 35,
    "ratio": 0.7,
    "ai_value": ""
   },
@@ -35076,6 +35285,17 @@
    "area": "oregoncoast",
    "url": "https://www.craigslist.org/view/d/coos-bay-birds-flowers-by-lisa-audit/d5SDRCVaWfgvuGZrsdhfDn",
    "best": "Amazon.com",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957928999",
+   "title": "Gucci Sync Watch",
+   "price": 200,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/englewood-gucci-sync-watch/6CfAD4mSjzbP1jXSZ4brE7",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""

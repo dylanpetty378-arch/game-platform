@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T15:20:53Z
+# Refurbish status — 2026-10-15T15:24:31Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,11 +6,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| photo_review/kill | 8935 |
-| flagged | 3145 |
-| lensed | 963 |
+| photo_review/kill | 8937 |
+| flagged | 3165 |
+| lensed | 968 |
 | queued/relens | 485 |
-| queued | 353 |
+| queued | 328 |
 | decided/ask | 82 |
 | decided/kill | 49 |
 | photo_review/ask | 17 |
@@ -24,9 +24,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 - harvests: 14
 - searches: 3295
-- listings: 13783
-- lens: 12099
-- events: 38189
+- listings: 13790
+- lens: 12124
+- events: 38235
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (3145)
+## Flagged by Lens, waiting for photo review (3165)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
