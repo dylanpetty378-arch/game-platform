@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:15:20Z",
+ "updated": "2026-10-15T00:19:20Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10199,
-  "events": 34615,
+  "lens": 10224,
+  "events": 34640,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 653,
-  "flagged": 1681,
-  "lensed": 530
+  "queued": 628,
+  "flagged": 1700,
+  "lensed": 536
  },
  "last_harvests": [
   {
@@ -2202,6 +2202,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959847551",
+   "title": "Vintage Hand Painted Pottery Vase Signed Italy",
+   "price": 45,
+   "area": "utica",
+   "url": "https://www.craigslist.org/view/d/new-hartford-vintage-hand-painted/brYQmZquB52v8sGPceX8tu",
+   "best": "SanJuan De Oriente Nicaragua Pottery Jar signed Guadalupe ...",
+   "med": 765,
+   "ratio": 17,
+   "ai_value": ""
+  },
+  {
    "pid": "7930050002",
    "title": "Oval Morganite Designer Ring",
    "price": 65,
@@ -3555,6 +3566,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973775039",
+   "title": "'Moulin Rouge' vintage oil on canvas, signed 32\" x 28\"",
+   "price": 175,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/sherborn-moulin-rouge-vintage-oil-on/cLRymbJYGBUqUt7YUAEwCt",
+   "best": "C. Alexis, Signed Paris Street Scene, 20th C",
+   "med": 1495,
+   "ratio": 8.54,
+   "ai_value": ""
+  },
+  {
    "pid": "7982298312",
    "title": "Emerald Tree Branch Ring",
    "price": 15,
@@ -4254,6 +4276,17 @@
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/farmingdale-set-of-goebel-hummel/q15h3b7dofEcAiFnokeKd4",
    "best": "Vintage Hummel Style Figurines ,music Themed, Hand Painted ...",
+   "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980949728",
+   "title": "1950s Vintage McCOY pottery planter",
+   "price": 20,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-1950s-vintage-mccoy-pottery/f3zJWgvYdi5JMmgkfVNxih",
+   "best": "Vintage Mccoy Planter, Lotus Jardiniere, Aqua Blue. Large ...",
    "med": 125,
    "ratio": 6.25,
    "ai_value": ""
@@ -5172,6 +5205,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983614937",
+   "title": "antique/vintage silver plated serving pieces",
+   "price": 50,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/bath-antique-vintage-silver-plated/qdJbPpNe2zW8pzmkSoCNCp",
+   "best": "13\" ANTIQUE 1854 REED & BARTON SILVER Plate Etched ...",
+   "med": 238,
+   "ratio": 4.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471758",
    "title": "Vintage Sterling/14k Gold Vermeil Emerald Eternity Ring,Sz4",
    "price": 20,
@@ -5564,6 +5608,17 @@
    "url": "https://www.craigslist.org/view/d/ventura-barbara-wood/phYZnz9pJYyjXpRczJWrQA",
    "best": "Abstract Art Tapestry: Large Modern Wall Hanging - Firestarter ...",
    "med": 750,
+   "ratio": 4.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957750691",
+   "title": "Vintage Cobalt Blue Glass Decanter Set of 8 Gold Trim Hand Painted Flo",
+   "price": 35,
+   "area": "stockton",
+   "url": "https://www.craigslist.org/view/d/stockton-vintage-cobalt-blue-glass/bcxqdZEqMVSsxvAbcSdJh7",
+   "best": "Murano Glass Decanters - Etsy Australia",
+   "med": 150,
    "ratio": 4.29,
    "ai_value": ""
   },
@@ -7581,6 +7636,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973774523",
+   "title": "Vintage oil on canvas, signed seascape, framed landscape",
+   "price": 90,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-oil-on-canvas-signed/pgRvV1Wy3tHvF3vD1fx7AK",
+   "best": "ORIGINAL FRAMED OIL Painting, Signed 'Timothy' \u00a326.70 ...",
+   "med": 260,
+   "ratio": 2.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7934914221",
    "title": "14k gold plated bar pendant with chain",
    "price": 125,
@@ -8780,6 +8846,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965335169",
+   "title": "Aqua Bracelet and Earrings",
+   "price": 15,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/chula-vista-aqua-bracelet-and-earrings/pcJDCgJ931VY5b5KpykpYp",
+   "best": "Fancy Green/Blue & Gold Glass Beaded Bracelet & Earrings Set ...",
+   "med": 35,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7950186310",
    "title": "Vintage Cloisonn\u00e9/ Chinese Enamel",
    "price": 125,
@@ -9150,6 +9227,17 @@
    "url": "https://www.craigslist.org/view/d/vista-vintage-plated-gold-silver-large/w7ugnrpV4RZy1dFJZNi14k",
    "best": "Themis Scales of Justice Handmade Silver Necklace, Roman Law ...",
    "med": 100,
+   "ratio": 2.22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928813975",
+   "title": "Silver Bracelet",
+   "price": 180,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/lawndale-silver-bracelet/1QaKagWvZdpeMJWcWD2bt9",
+   "best": "STERLING SILVER AND TURQUOISE CLAUDIA AGUDELO VINTAGE ...",
+   "med": 400,
    "ratio": 2.22,
    "ai_value": ""
   },
@@ -9913,6 +10001,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983671913",
+   "title": "Navajo Sterling Turquoise 16 Stone Bracelet by Anita White Goat.BEAUTY",
+   "price": 349,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-navajo-sterling-turquoise/9Bqk7tysNPrVcefhaHdasU",
+   "best": "Native American Navajo Handmade Sterling Silver Turquoise ...",
+   "med": 695,
+   "ratio": 1.99,
+   "ai_value": ""
+  },
+  {
    "pid": "7931592455",
    "title": "Sterling silver garnet earrings",
    "price": 25,
@@ -10173,6 +10272,17 @@
    "url": "https://www.craigslist.org/view/d/austin-vintage-buffalo-nickel-sterling/vbb6VCqwRsJEUrPeG5s1Rr",
    "best": "Navajo Sterling Silver Turquoise Watch Tips Liberty Nadia ...",
    "med": 280,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935186452",
+   "title": "Vintage Pair Molded Mid Century Christmas Carolers",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/nampa-vintage-pair-molded-mid-century/geBk3kWySwhmqyE7cPeXUH",
+   "best": "Vtg Atlantic Mold Ceramic Christmas Caroler Hand Painted ...",
+   "med": 28,
    "ratio": 1.87,
    "ai_value": ""
   },
@@ -12597,6 +12707,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958121854",
+   "title": "3 sets of earrings",
+   "price": 10,
+   "area": "lawton",
+   "url": "https://www.craigslist.org/view/d/norman-sets-of-earrings/uC9KPoGU3rgqxEBZKkcnk8",
+   "best": "Frog, Toad or Tadpole Silver Charm Earrings on Sterling ...",
+   "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7954911675",
    "title": "Antique mantle clock",
    "price": 90,
@@ -12813,6 +12934,17 @@
    "url": "https://www.craigslist.org/view/d/medway-vintage-neuvex-multi-year-17/vUx5W1mygkJgfqXYxfpQh4",
    "best": "Raketa Full set - 21/03/1989 - Gioielleria Fasoli for $333 ...",
    "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961095716",
+   "title": "Angel pins",
+   "price": 20,
+   "area": "mcallen",
+   "url": "https://www.craigslist.org/view/d/edinburg-angel-pins/2kZscFSKyknG5S5RedsAgi",
+   "best": "Angels and Dove Gold And Silver Toned Pins Lot | eBay",
+   "med": 25,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -15017,6 +15149,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983608196",
+   "title": "Vintage Hull Art Pottery vase",
+   "price": 35,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ventura-vintage-hull-art-pottery-vase/dQ3qzRSL4iaY6bLUzzJwAD",
+   "best": "Hull Art Pottery Magnolia Blue Flower Light Pink Vase Gold ...",
+   "med": 30,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7934421094",
    "title": "Yellow Asian Cloisonne Bowl",
    "price": 100,
@@ -15222,6 +15365,17 @@
    "url": "https://www.craigslist.org/view/d/forest-hills-gg-old-decorative-ceramic/uv9k7SJuRtJtJ6o9Auh76K",
    "best": "Craigslist",
    "med": 37,
+   "ratio": 0.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953685039",
+   "title": "Antique Wade + Butcher Straight Razor + Box",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/beaverton-antique-wade-butcher-straight/k3KeeyYbpkWMctV2SgEozE",
+   "best": "Wade & Butcher Sheffield Straight Razor Hollow Ground ...",
+   "med": 49,
    "ratio": 0.82,
    "ai_value": ""
   },
@@ -15622,6 +15776,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952434099",
+   "title": "Vintage 2-Tone Black Cabochon Statement Pendant Necklace Ornate Frame",
+   "price": 75,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-tone-black-cabochon/2EjZM5ukcwmMmW8pj83Jmq",
+   "best": "Sterling Silver Pebbled Bezel-Set Black Onyx Drop 3.9g ...",
+   "med": 56,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7971834546",
    "title": "Vintage Sterling Silver Turquoise & Coral Hopi/Navajo Size 6 1/4 Ring",
    "price": 250,
@@ -15706,6 +15871,17 @@
    "url": "https://www.craigslist.org/view/d/pleasanton-dichroic-glass-piece-pendant/dsQfexxhf7V2tJ8YZQu85V",
    "best": "eBay",
    "med": 22,
+   "ratio": 0.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968450957",
+   "title": "Vintage Southwest Vintage Colorful Post Earrings",
+   "price": 55,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-southwest-vintage/cyU6odfvSiQpg5pCZdVaDs",
+   "best": "Native American Turquoise Onyx Coral Oval Sterling Dangle ...",
+   "med": 40,
    "ratio": 0.73,
    "ai_value": ""
   },
@@ -17745,6 +17921,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961894229",
+   "title": "Vintage U.S. Army Quartermaster Cufflinks",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-us-army/hfnxx6TFtpoRW8oX1PhjKX",
+   "best": "Vintage US Army QUARTERMASTER Center and School Uniform ...",
+   "med": 5,
+   "ratio": 0.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7936662652",
    "title": "LIONS HEAD CHARM in 14k Yellow Gold",
    "price": 479,
@@ -17917,6 +18104,17 @@
    "url": "https://www.craigslist.org/view/d/buda-14k-white-gold-chain-and-925-cross/hJCRBskXwqbrXpSU1rjMkW",
    "best": "eBay",
    "med": 30,
+   "ratio": 0.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973568669",
+   "title": "Vintage Venetian Mask Earrings - Silver",
+   "price": 150,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-venetian-mask-earrings/7grYYMYS9kzPRg8hCSZbHc",
+   "best": "Mardi Gras Masquerade Mask Lady Rhinestone Enamel Dangle ...",
+   "med": 29,
    "ratio": 0.19,
    "ai_value": ""
   },
@@ -18972,6 +19170,17 @@
    "area": "westmd",
    "url": "https://www.craigslist.org/view/d/hagerstown-artificial-jewelry-peach/2XQv64zNCVZHL96sbeVW9V",
    "best": "Shein",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952396797",
+   "title": "1900s Erotic pocket watch, 18 jewels, Locomotive motif",
+   "price": 300,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/martinez-1900s-erotic-pocket-watch-18/t8BhMnowbf7D8AvcyMZz5t",
+   "best": "Very Rare Antique Erotic Pocket Watch, Rare Watch, Antique ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
