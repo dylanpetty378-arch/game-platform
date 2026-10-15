@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:16:16Z",
+ "updated": "2026-10-15T06:19:51Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 10949,
-  "events": 36168,
+  "lens": 10974,
+  "events": 36193,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 703,
-  "flagged": 2261,
-  "lensed": 697
+  "queued": 678,
+  "flagged": 2283,
+  "lensed": 700
  },
  "last_harvests": [
   {
@@ -2863,6 +2863,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975826382",
+   "title": "Vintage Sterling and Citrine Hoop Earrings",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-sterling-and-citrine/37sTpw1FMg826xQ8hLh5xe",
+   "best": "Pippin Vintage Jewelry",
+   "med": 400,
+   "ratio": 16,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471663",
    "title": "Vintage 925/14k Gold Vermeil filigree Jade & Pearl Earrings",
    "price": 30,
@@ -4139,6 +4150,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931792374",
+   "title": "Vintage WWII-Era Military Medal & Ribbon Collection",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/novato-vintage-wwii-era-military-medal/946LfcxvuUs5EiqtQtyqyL",
+   "best": "1930 WWII US Navy Medal Grouping Nicaraguan Campaign ...",
+   "med": 496,
+   "ratio": 9.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7956088840",
    "title": "2 paintings",
    "price": 40,
@@ -4774,6 +4796,17 @@
    "best": "eBay",
    "med": 195,
    "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983791427",
+   "title": "Mary Jaffe Pottery Ceramic Bowl",
+   "price": 95,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/brookline-mary-jaffe-pottery-ceramic/rFAZJuP1fsWnFJw5cAp8aw",
+   "best": "eBay",
+   "med": 740,
+   "ratio": 7.79,
    "ai_value": ""
   },
   {
@@ -7956,6 +7989,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940987565",
+   "title": "Vintage Gold Tone Choker  Chain Necklace 14\"",
+   "price": 8,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/belmont-vintage-gold-tone-choker-chain/5DsRqARSCP3rz6SVUgnzzy",
+   "best": "eBay",
+   "med": 31,
+   "ratio": 3.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7951112681",
    "title": "Necklace (14)",
    "price": 13,
@@ -8649,6 +8693,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950853111",
+   "title": "Vintage Mizpah Sterling Silver Necklace",
+   "price": 20,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/richmond-vintage-mizpah-sterling-silver/1y7bf8rD2Ge7Wnqne7s6zm",
+   "best": "eBay",
+   "med": 69,
+   "ratio": 3.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7954877341",
    "title": "Collection of Vintage Glass Mason Jars-Priced Individually",
    "price": 7,
@@ -9140,6 +9195,17 @@
    "url": "https://www.craigslist.org/view/d/casco-ladies-wrist-watches-x3/vqRMgo1LGJWkqHYHfLJ4bw",
    "best": "eBay",
    "med": 16,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947245263",
+   "title": "Swarovski Iridescent Crystal Bracelet",
+   "price": 25,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/dover-swarovski-iridescent-crystal/5NtCAxjv81J36rfSCQHhDL",
+   "best": "Find Vintage Beauty",
+   "med": 80,
    "ratio": 3.2,
    "ai_value": ""
   },
@@ -10497,6 +10563,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937797159",
+   "title": "Vintage Sterling Silver Lab Created Diamond Pendant Necklace",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-sterling-silver-lab/chJDZ3rrGewdLUjwphrzfM",
+   "best": "Facebook",
+   "med": 94,
+   "ratio": 2.69,
+   "ai_value": "Sell in Shelton, Washington | Facebook Marketplace $1,840"
+  },
+  {
    "pid": "7936434686",
    "title": "Set of 5 Vintage Knives",
    "price": 15,
@@ -10814,6 +10891,17 @@
    "med": 115,
    "ratio": 2.56,
    "ai_value": ""
+  },
+  {
+   "pid": "7954653994",
+   "title": "Cuff links elephants",
+   "price": 25,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-cuff-links-elephants/2LmV9dGtmKamYmKBAnCMtw",
+   "best": "JJ Weston",
+   "med": 64,
+   "ratio": 2.56,
+   "ai_value": "Price: Typically around $38"
   },
   {
    "pid": "7954969418",
@@ -11274,6 +11362,17 @@
    "url": "https://www.craigslist.org/view/d/sunnyvale-trafalgar-square-london/5iHoTVBeqSQv8egmhnae7G",
    "best": "Framed 1981 Original London Vintage Print - Trafalgar Square ...",
    "med": 90,
+   "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983742743",
+   "title": "Vintage Lady's Wind-Up Watches-Longines",
+   "price": 35,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/keizer-vintage-ladys-wind-up-watches/pMcDBTwhVnpb2ctqrFYuRu",
+   "best": "eBay",
+   "med": 85,
    "ratio": 2.43,
    "ai_value": ""
   },
@@ -12650,6 +12749,17 @@
    "best": "eBay",
    "med": 31,
    "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954662609",
+   "title": "Vintage Wooden Christmas Nutcrackers",
+   "price": 125,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-rafael-vintage-wooden-christmas/qiGWRzzNY51cBkmAeiZ8rY",
+   "best": "Character Nutcracker | eBay",
+   "med": 258,
+   "ratio": 2.06,
    "ai_value": ""
   },
   {
@@ -14105,6 +14215,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983738489",
+   "title": "Ukulele, vintage, soprano 1950s Japan",
+   "price": 70,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/mililani-ukulele-vintage-soprano-1950s/kYkEfJ6hEt23Syb7yaAiBA",
+   "best": "Reverb",
+   "med": 122,
+   "ratio": 1.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7950375313",
    "title": "Hammered Sterling Silver ring size 10",
    "price": 40,
@@ -15062,6 +15183,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948312290",
+   "title": "Vintage Seashell, Pearl and Gold Beaded Necklace",
+   "price": 16,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/vintage-seashell-pearl-and-gold-beaded/uyRoQrowzRv5ZRoABtsfHi",
+   "best": "Antique Edwardian Carved Mother of Pearl 'pendant' Necklace ...",
+   "med": 25,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7944709221",
    "title": "JESTERS VINTAGE",
    "price": 20,
@@ -15871,6 +16003,17 @@
    "area": "philadelphia",
    "url": "https://www.craigslist.org/view/d/collegeville-old-salt-and-pepper/qAzpEQGufV1K3QsgMjB7mG",
    "best": "Craigslist",
+   "med": 50,
+   "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944672021",
+   "title": "Vintage Glass Vase  Handmade",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-glass-vase/iAKFThS32VMDN7Jw6w75yQ",
+   "best": "eBay",
    "med": 50,
    "ratio": 1.43,
    "ai_value": ""
@@ -16756,6 +16899,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944973158",
+   "title": "Sterling ring",
+   "price": 175,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-sterling-ring/ikHDEorVdGzsJTLjVBYyCY",
+   "best": "eBay",
+   "med": 225,
+   "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7954911675",
    "title": "Antique mantle clock",
    "price": 90,
@@ -17082,6 +17236,17 @@
    "url": "https://www.craigslist.org/view/d/moorpark-vintage-bank-collection/37CCc6BjEYarY6kNCFSBQ8",
    "best": "Poshmark",
    "med": 100,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949021268",
+   "title": "Sarah Coventry Celebrity set vintage",
+   "price": 100,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-sarah-coventry-celebrity-set/e16AiguqU6aCEVmrhiTem1",
+   "best": "Etsy",
+   "med": 125,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -17489,6 +17654,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-navajo-signed-sterling/gRhBEPyYbKPpHBLxUnDPXa",
    "best": "Etsy",
    "med": 179,
+   "ratio": 1.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931015661",
+   "title": "Vintage Victorian Watch Chain with Fob 7\"",
+   "price": 27,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/belmont-vintage-victorian-watch-chain/dhRheRCkWQ8xzLNq8fRMYk",
+   "best": "saintstevensthingery.com",
+   "med": 32,
    "ratio": 1.19,
    "ai_value": ""
   },
@@ -18017,6 +18193,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-vintage-costume-necklace-and/44YXzKviksJqaECSAxNVdu",
    "best": "Instagram",
    "med": 89,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953017169",
+   "title": "Ladies Sterling Silver Wrap ring",
+   "price": 45,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/ladies-sterling-silver-wrap-ring/uBgk8WGwTscF8F8muN1roR",
+   "best": "eBay",
+   "med": 50,
    "ratio": 1.11,
    "ai_value": ""
   },
@@ -19077,6 +19264,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946326652",
+   "title": "Fashion jewelry",
+   "price": 35,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-fashion-jewelry/bDu2SNYESiuaJ2XaYeMnPC",
+   "best": "Silver Tone Metal Women's Fashion Jewelry Mixed Lot - 5pc ...",
+   "med": 35,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -19869,6 +20067,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964369862",
+   "title": "Bohemian style jewelry",
+   "price": 40,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-bohemian-style-jewelry/tbg3vfjFgDYqXTAdse232y",
+   "best": "Craigslist",
+   "med": 35,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -20496,6 +20705,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952423527",
+   "title": "Floral design ring",
+   "price": 60,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-floral-design-ring/juMFZCCgbjKTACjmpHpXwx",
+   "best": "Etsy",
+   "med": 47,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7983183432",
    "title": "Reduced! Vintage Natural London Blue Topaz & Diamond 14K Gold Ring",
    "price": 485,
@@ -20910,6 +21130,17 @@
    "url": "https://www.craigslist.org/view/d/natick-faux-pearl-tear-drop-dangle/w5KqHWFTWp4VnqXMu1S9AG",
    "best": "Avon Earrings \u2013 Mur Nomade",
    "med": 11,
+   "ratio": 0.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960001733",
+   "title": "Vintage Seashell Necklace",
+   "price": 44,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-seashell-necklace/aYdZ2C3cmYmzL6X8wTCpSc",
+   "best": "eBay",
+   "med": 32,
    "ratio": 0.73,
    "ai_value": ""
   },
@@ -22087,6 +22318,17 @@
    "url": "https://www.craigslist.org/view/d/phoenix-selling-coin-collection/s65WZEZLCSQzMgnHNLtgba",
    "best": "Value & Market Context: Mass-market or promotional commemorative frames of this type (often sold by companies ",
    "med": 200,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977012897",
+   "title": "\u2728 Vintage Art Glass Collection \u2013 Imperial \u201cDewey\u201d Verde Covered Dish +",
+   "price": 80,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/federal-way-vintage-art-glass/qkNSP5oCiiGk1i2dA4Yj42",
+   "best": "Colony Glass Cobalt Light Blue Yellow Amber Multicolor ...",
+   "med": 46,
    "ratio": 0.57,
    "ai_value": ""
   },
