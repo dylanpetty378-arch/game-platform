@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:36:59Z",
+ "updated": "2026-10-15T01:40:39Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10699,
-  "events": 35117,
+  "lens": 10724,
+  "events": 35142,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 153,
-  "flagged": 2063,
-  "lensed": 646
+  "queued": 128,
+  "flagged": 2083,
+  "lensed": 651
  },
  "last_harvests": [
   {
@@ -1286,6 +1286,17 @@
    "best": "Antique Original Cast Iron Golfer Doorstop Original Paint | eBay",
    "med": 55,
    "ratio": 55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930220345",
+   "title": "COLLEEN LINDSAY ETCHING",
+   "price": 30,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-colleen-lindsay-etching/nAeVQfgg77i8YhwHLGTYNM",
+   "best": "The Oblist",
+   "med": 1603,
+   "ratio": 53.43,
    "ai_value": ""
   },
   {
@@ -3852,6 +3863,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7960727367",
+   "title": "SIGNED- Captain Spaulding Figure, Sid Haig",
+   "price": 200,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-signed-captain-spaulding-figure/g8oH9vq8UH5J3TER3jZH1V",
+   "best": "Craigslist",
+   "med": 2000,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955605535",
+   "title": "Vintage Red Stone Ring \u2013 Handcrafted Elegance",
+   "price": 25,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/river-falls-vintage-red-stone-ring/2oxsneFnGgy3tVenMexCo4",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7956088840",
    "title": "2 paintings",
    "price": 40,
@@ -4171,6 +4204,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979232288",
+   "title": ".925 Sterling Silver Rose Gold Olive Branch Anklet Bracelet",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/hawthorne-925-sterling-silver-rose-gold/oq1qiEuZyfQ9Lu4BjHMuW4",
+   "best": "Craigslist",
+   "med": 424,
+   "ratio": 8.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7982298312",
    "title": "Emerald Tree Branch Ring",
    "price": 15,
@@ -4431,6 +4475,17 @@
    "url": "https://www.craigslist.org/view/d/oklahoma-city-yellow-and-silver-tone/6XQNAbJxFhEDJ9bsWhFsCY",
    "best": "New With Tags Paparazzi Jewelry - Very Visionary Yellow ...",
    "med": 39,
+   "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970757195",
+   "title": "2 Vintage Perigord Plates Made in Germany",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasant-hill-vintage-perigord-plates/g5PcmQ4pvvXWCpi3UxLyPW",
+   "best": "eBay",
+   "med": 195,
    "ratio": 7.8,
    "ai_value": ""
   },
@@ -4827,6 +4882,17 @@
    "url": "https://www.craigslist.org/view/d/ventura-mid-century-korean-celadon-vase/9622jG3NmknsVS9we6CTDp",
    "best": "File Cabinet For $30 In Ventura, CA | For Sale & Free \u2014 Nextdoor",
    "med": 300,
+   "ratio": 6.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959435204",
+   "title": "Vintage Ceramic Buddha",
+   "price": 15,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/abingdon-vintage-ceramic-buddha/a8PrD5R4pnccBZhkMJCMbG",
+   "best": "eBay",
+   "med": 100,
    "ratio": 6.67,
    "ai_value": ""
   },
@@ -9198,6 +9264,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977872607",
+   "title": "Vintage NAO By LLADRO",
+   "price": 30,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/vintage-nao-by-lladro/8vF8rMVTwSXfc8oYRgVJ3n",
+   "best": "NAO by Lladr\u00f3 \"girl in Prayer\" | \u00a9 DAISA 1990 Spanish ...",
+   "med": 87,
+   "ratio": 2.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7973774523",
    "title": "Vintage oil on canvas, signed seascape, framed landscape",
    "price": 90,
@@ -9667,6 +9744,17 @@
    "url": "https://www.craigslist.org/view/d/la-grange-park-antique-enameled-lockets/oswGPVfUkqSNuCvc8wNmSZ",
    "best": "Etsy",
    "med": 175,
+   "ratio": 2.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975570926",
+   "title": "Antique locks",
+   "price": 35,
+   "area": "annarbor",
+   "url": "https://www.craigslist.org/view/d/whitmore-lake-antique-locks/8sFFhFBWULKVt91Yvq1AxJ",
+   "best": "eBay",
+   "med": 94,
    "ratio": 2.69,
    "ai_value": ""
   },
@@ -10899,6 +10987,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-kenneth-freeman-signed/afnKU1mWMYAsrsYCAs9eCZ",
    "best": "Indian Bride Ken Freeman Hand Embellished Serigraph ...",
    "med": 576,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947422548",
+   "title": "Vintage ICNS Ritual Dancers Sterling Silver Brooch / Pin",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/seminole-vintage-icns-ritual-dancers/krJXY7ppGBnrgHXCGR8AJ9",
+   "best": "Craigslist",
+   "med": 46,
    "ratio": 2.3,
    "ai_value": ""
   },
@@ -13675,6 +13774,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7939312051",
+   "title": "Costume jewelry",
+   "price": 10,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/summerland-costume-jewelry/jnzNZmfrSv3Zj26yuHpxjG",
+   "best": "eBay",
+   "med": 16,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967640240",
+   "title": "Vintage tabletop holiday choir blow mold",
+   "price": 50,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-tabletop-holiday/m4xKyVVe6z8TYm4u7xH6Ti",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -15215,6 +15336,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974335724",
+   "title": "Vintage Film Camera Equipment Collection",
+   "price": 75,
+   "area": "greenville",
+   "url": "https://www.craigslist.org/view/d/spartanburg-vintage-film-camera/dvkx82aLCdHtabThCRH22z",
+   "best": "Rare Wittnauer Cine-twin Zoom 800 8mm Movie Camera 1962 USA ...",
+   "med": 100,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -15992,6 +16124,17 @@
    "url": "https://www.craigslist.org/view/d/portland-vintage-herend-porcelain/gA5s2q3XjP2vPXHJ6PxhU3",
    "best": "Etsy",
    "med": 180,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942835641",
+   "title": "Vintage 1973 fire chief decanter",
+   "price": 25,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-1973-fire-chief/g5zKy6JhzbsPo6MUuajh4W",
+   "best": "Etsy",
+   "med": 30,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -17888,6 +18031,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966068045",
+   "title": "Teardrop Moss Agate Statement Ring - 925 Silver - Size 9",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-teardrop-moss-agate/h9SbPsdB9v58dVMkAatS7V",
+   "best": "eBay",
+   "med": 46,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7969319202",
    "title": "Vintage Porcelain Soap Dispenser",
    "price": 35,
@@ -18174,6 +18328,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942012974",
+   "title": "SOLID STERLING SILVER Vintage CIGARETTE CASE or WALLET",
+   "price": 399,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-solid-sterling-silver-vintage/fLW5tZGFFZd9s3stPKGC8Q",
+   "best": "Ruby Lane",
+   "med": 350,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -18434,6 +18599,17 @@
    "url": "https://www.craigslist.org/view/d/laredo-farmer-couple-figurines/9cWhTPjrgJnJKUnSSKBV6k",
    "best": "eBay",
    "med": 29,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953501097",
+   "title": "3 guitar for sale",
+   "price": 270,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/jordan-guitar-for-sale/ezuSY8Vg1ZMXMGUHhkn9Mm",
+   "best": "Craigslist",
+   "med": 225,
    "ratio": 0.83,
    "ai_value": ""
   },
@@ -20165,6 +20341,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940785482",
+   "title": "Selling coin collection",
+   "price": 350,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-selling-coin-collection/s65WZEZLCSQzMgnHNLtgba",
+   "best": "Value & Market Context: Mass-market or promotional commemorative frames of this type (often sold by companies ",
+   "med": 200,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788591",
    "title": "Sterling Silver Vermeil Clear Stone Criss Cross Size 6.5 Ring",
    "price": 45,
@@ -20920,6 +21107,17 @@
    "url": "https://www.craigslist.org/view/d/beaverton-vintage-porcelain-bird-song/mn4Vfm8Wp2LWWyrQLcSKDK",
    "best": "Vintage Ceramic Red Cardinal Bird Music Box Oh What a ...",
    "med": 11,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955366718",
+   "title": "14K Diamonique Heart Shaped Necklace",
+   "price": 400,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/hillsboro-14k-diamonique-heart-shaped/oGETeHhVjpViezyxcQBHjT",
+   "best": "DL 925 Sterling Silver CZ Open Heart Pendant Chain Necklace ...",
+   "med": 177,
    "ratio": 0.44,
    "ai_value": ""
   },
@@ -22178,6 +22376,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946188714",
+   "title": "Vintage Coca-Cola Framed Ad Collection (1946 & 1963) \u2013 Matching Pair",
+   "price": 175,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-vintage-coca-cola-framed-ad/76XzDTayD3pszFoACrwtAT",
+   "best": "Etsy",
+   "med": 20,
+   "ratio": 0.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7951489709",
    "title": "Lot of vintage collectibles",
    "price": 200,
@@ -23174,6 +23383,17 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/cortlandt-manor-vintage-playboy/jKmwaVYEz6ZwoP6HvVqUfA",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945018423",
+   "title": "PAINTING 11 ANTIQUE SHIP PAINTING",
+   "price": 225,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/san-clemente-painting-11-antique-ship/voDEy1bimX4qQW5WLdqC1o",
+   "best": "Alamy",
    "med": null,
    "ratio": null,
    "ai_value": ""
