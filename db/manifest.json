@@ -1,5 +1,5 @@
 {
-"made": "2026-10-15T22:38:57Z",
+"made": "2026-10-15T22:41:41Z",
 "files": [
 {
 "path": "db/comps.jsonl",
@@ -15,7 +15,7 @@
 },
 {
 "path": "db/item_types.jsonl",
-"sha": "b40b9182258e744327f226c1e88dff32cd9af9d0"
+"sha": "7f1dc975452dc0b05bf7e71bd07360c09597c9fd"
 },
 {
 "path": "db/lens/2026-10.jsonl",
@@ -114,6 +114,10 @@
 {
 "slug": "american-pocket-watches",
 "sha": "36b9abb980a48d0e00048581fc85e398f5329de2"
+},
+{
+"slug": "american-precious-metal-marks",
+"sha": "7f90cf7430a030a32a90e9766d8d5ff0c3b0bf36"
 },
 {
 "slug": "american-shelf-clocks",
@@ -476,6 +480,10 @@
 "sha": "e07aa556ac7900774aea62cda159939739d04c60"
 },
 {
+"slug": "british-and-irish-hallmarks",
+"sha": "cfb16f3b823fb2266d65aef7fef581ebb4c8352f"
+},
+{
 "slug": "buck-knives",
 "sha": "e402cb6eaed81af6ee545ec8ba22b020280883a1"
 },
@@ -570,6 +578,10 @@
 {
 "slug": "cast-iron-tractor-seats",
 "sha": "7bc125f91e2d154c791aa94b923262d6f140020e"
+},
+{
+"slug": "ceramic-and-glass-marks-that-multiply-value",
+"sha": "e8fd48d486db5736785639ee391be2fff611d549"
 },
 {
 "slug": "ceramic-christmas-trees",
@@ -714,6 +726,10 @@
 {
 "slug": "contemporary-art-prints",
 "sha": "422cc9eb4ed1a5e8fbe60ef98fede1ba93c82100"
+},
+{
+"slug": "continental-european-hallmarks",
+"sha": "ad5e47ff08c9729bd9691d224df1a2d6dc0f0e8a"
 },
 {
 "slug": "convex-bubble-glass-frames",
@@ -900,6 +916,10 @@
 "sha": "a727e86d9bbcf7aea9548244e8643773505daa71"
 },
 {
+"slug": "east-and-southeast-asian-gold-silver-marks",
+"sha": "1e6792b28141f26507d1af1bb95a0e45ef6e7957"
+},
+{
 "slug": "egyptian-perfume-bottles",
 "sha": "88f430456a67a6e2a920ee8438965af008450e76"
 },
@@ -1042,6 +1062,10 @@
 {
 "slug": "french-gilt-bronze-andirons",
 "sha": "90f3334184efca5995e3e4cdd466c2ac56c5c5e6"
+},
+{
+"slug": "french-hallmarks",
+"sha": "6c0783f3fcbf2ee6d23b74dc03ae39879965ba1e"
 },
 {
 "slug": "furbys",
@@ -1274,6 +1298,10 @@
 {
 "slug": "laser-tag-toys",
 "sha": "d0e8cb544673be63543a218fb8b5941f859dcba4"
+},
+{
+"slug": "latin-american-and-caribbean-hallmarks",
+"sha": "b4ad67b8f2cc41b3f0cb510f1ba1161a976505ff"
 },
 {
 "slug": "latin-american-folk-art",
@@ -1588,6 +1616,10 @@
 "sha": "257fd27fd980953fa63392b6dda0ebaa04cd6269"
 },
 {
+"slug": "platinum-and-palladium-marks",
+"sha": "1f62d3158333ba762884ae3a799c11bce43763ce"
+},
+{
 "slug": "plush-toys",
 "sha": "72f69efef3488801e1ae0387d0d9b5d7762f98f7"
 },
@@ -1638,6 +1670,10 @@
 {
 "slug": "power-tool-accessories",
 "sha": "ae025687e7b2699336d3e1fdaf1ea1fa226e9221"
+},
+{
+"slug": "precious-metal-marks-reading-guide",
+"sha": "b7216302d9bee6d2b7266978f0ef51bc1d876929"
 },
 {
 "slug": "precision-measuring-tools",
@@ -1768,6 +1804,10 @@
 "sha": "bf55b62f63289a48871cb45c864e780f2bc5ecd8"
 },
 {
+"slug": "russian-and-soviet-hallmarks",
+"sha": "96e2eb8d3cc49774d2de64687b45ddacbc570203"
+},
+{
 "slug": "russian-and-soviet-porcelain",
 "sha": "3a97929862c78aea221731dc50b6db959f0fa31e"
 },
@@ -1786,6 +1826,10 @@
 {
 "slug": "satsuma-pottery",
 "sha": "1bd3156dc6e29a5dd4ea444bcad2de611b4db9c5"
+},
+{
+"slug": "scandinavian-hallmarks",
+"sha": "b9203099a12dcbff82f2d18995c2420549066f63"
 },
 {
 "slug": "scandinavian-porcelain",
@@ -1898,6 +1942,10 @@
 {
 "slug": "sombreros",
 "sha": "812be2399a15fd4c11a9f9cc68d2e0572e81f90b"
+},
+{
+"slug": "south-asian-and-middle-eastern-gold-silver-marks",
+"sha": "102eed1559c2a497e7ff716f39064433d5c5c1fd"
 },
 {
 "slug": "souvenir-spoons",
@@ -2490,6 +2538,10 @@
 {
 "slug": "wallace-nutting-prints",
 "sha": "b570373b43653bb815a1ec007033d9d63ee0dbe9"
+},
+{
+"slug": "watch-case-marks",
+"sha": "11e1653fbf5f251232a0513be9ceaf3e67697675"
 },
 {
 "slug": "watch-dealer-lots",
