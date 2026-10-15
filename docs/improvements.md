@@ -383,3 +383,13 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   **0 eggs, 0 leads**. Paintings/prints were 25 of 38 flags and all were reprints, hobby art or book plates — the eye
   brief over-flags "aged" paintings on eBay; the description settled every one. Closest: Pfretzschner 301 student violin
   (needs sold check, ~$140 max bid). Idea: `sheetpool` should drop auctions already in the previous pool automatically.
+
+## 2026-10-15 — review cycle back on; eBay pool + Craigslist asks
+- The scheduled "Refurbish review cycle" had been disabled since Oct 14 03:53Z; re-enabled with a golden-egg-first prompt
+  (eBay every run; ShopGoodwill 00:14/12:14; Craigslist 12:14; DFW estate sales Tue 12:14; daily one-line status).
+- eBay pool 12:09Z: 12,664 new auctions → 106 sheets → 60 flags → full listings → 0 eggs, 5 leads (Hiroshige I Vertical
+  Tokaido Numazu — original only if the 1855 seals show; Pfretzschner bow; late-Qing censer; papillon vase; a scroll that
+  ended). `ebay_eggs.py sheetpool` now skips auctions already screened (research/pools/ebay-screened.json);
+  `ebay_eggs.py flags <run>` writes the flagged file.
+- Terapeak on the 11 open Craigslist asks: 2 kept (Smith-Miller + Thimble Drome lot ≈ $900 if originals; surf scoter decoy
+  median $270), 9 dropped.
