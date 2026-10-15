@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:12:52Z",
+ "updated": "2026-10-15T07:16:01Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11299,
-  "events": 36518,
+  "lens": 11324,
+  "events": 36543,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 353,
-  "flagged": 2535,
-  "lensed": 773
+  "queued": 328,
+  "flagged": 2557,
+  "lensed": 776
  },
  "last_harvests": [
   {
@@ -3127,6 +3127,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936377767",
+   "title": "Bow- Tie Necklace",
+   "price": 10,
+   "area": "stillwater",
+   "url": "https://www.craigslist.org/view/d/stillwater-bow-tie-necklace/6UWZTqxavQ9k8evu52rjyp",
+   "best": "Nextdoor",
+   "med": 156,
+   "ratio": 15.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7964704875",
    "title": "Vintage Art Deco style metal figurine sculpture",
    "price": 50,
@@ -4159,6 +4170,17 @@
    "med": 122,
    "ratio": 11.09,
    "ai_value": "price $11"
+  },
+  {
+   "pid": "7983777516",
+   "title": "Simulated Opal Earrings 14KT Gold - New",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/inver-grove-heights-simulated-opal/95Ej3x5hthDgRym7Etptdb",
+   "best": "2Ct Oval Cut Lab-Created Fire Opal Drop & Dangle Earrings ...",
+   "med": 554,
+   "ratio": 11.08,
+   "ai_value": ""
   },
   {
    "pid": "7954409096",
@@ -7747,6 +7769,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945821583",
+   "title": "Necklace with black pendant (Used)",
+   "price": 10,
+   "area": "stillwater",
+   "url": "https://www.craigslist.org/view/d/stillwater-necklace-with-black-pendant/vHAcY5trovSpPN53udd7aJ",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7971509190",
    "title": "Vintage Victorian Floral Ashtray",
    "price": 30,
@@ -8704,6 +8737,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970291511",
+   "title": "Sheath knife Solingen",
+   "price": 70,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/ponderay-sheath-knife-solingen/qH9uUewSjYU2tnwC2oPy1C",
+   "best": "Blade HQ",
+   "med": 280,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -9045,6 +9089,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951697533",
+   "title": "Vintage Chinese Red Lacquered Resin God Of Longevity 10\" Figurine, Fine Details,",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-chinese-red/1SS6vzysVJ23jyebCmsimd",
+   "best": "eBay Australia",
+   "med": 75,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7957375931",
    "title": "Polk-A-Lay-Lee Vintage Polk Brothers Instrument",
    "price": 150,
@@ -9163,6 +9218,17 @@
    "best": "Alan Maley \" Walk In The Park \" MAKE OFFER #DSSBA | eBay",
    "med": 365,
    "ratio": 3.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948965668",
+   "title": "Vintage Black Enamel and Silver Oval Brooch/Pendant from Israel",
+   "price": 55,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/vintage-black-enamel-and-silver-oval/s1vFa6dcABbK984DNzppe1",
+   "best": "Etsy",
+   "med": 200,
+   "ratio": 3.64,
    "ai_value": ""
   },
   {
@@ -9492,6 +9558,17 @@
    "url": "https://www.craigslist.org/view/d/santa-rosa-antique-oil-painting-in/rCn3otnYU1rQTBjuwPnyy6",
    "best": "eBay",
    "med": 350,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956862748",
+   "title": "Vintage Lenox clock",
+   "price": 10,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-vintage-lenox-clock/wqYXzp1WQAVo6BGPdmMgPe",
+   "best": "eBay",
+   "med": 35,
    "ratio": 3.5,
    "ai_value": ""
   },
@@ -10306,6 +10383,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-hoop-stud-14k-yellow-gold/5bjPrreRrGJXzjtpSAF1uD",
    "best": "Etsy",
    "med": 747,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980407259",
+   "title": "Vintage Chunky Pink Necklace",
+   "price": 8,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-chunky-pink-necklace/oHvXmk1cuoAVnrZFocCfv9",
+   "best": "Traci Lynn Collette Necklace Anna Wintour Watermelon Red ...",
+   "med": 25,
    "ratio": 3.13,
    "ai_value": ""
   },
@@ -11674,6 +11762,28 @@
    "ai_value": "Sell in Shelton, Washington | Facebook Marketplace $1,840"
   },
   {
+   "pid": "7949954732",
+   "title": "14k gold Jade Pin",
+   "price": 400,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-14k-gold-jade-pin/dgN8MNgjkDi1hxTUVWefm3",
+   "best": "the-saleroom",
+   "med": 1076,
+   "ratio": 2.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933280490",
+   "title": "Korean Celadon Vase 8 inches tall",
+   "price": 65,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-korean-celadon-vase-inches-tall/e1UgFQrp6kvpxLGz1wVuW8",
+   "best": "eBay",
+   "med": 175,
+   "ratio": 2.69,
+   "ai_value": "Sold at Auction: Antique Korean Celadon Vase $160"
+  },
+  {
    "pid": "7936434686",
    "title": "Set of 5 Vintage Knives",
    "price": 15,
@@ -12649,6 +12759,17 @@
    "url": "https://www.craigslist.org/view/d/rochester-vintage-embosser-hand-press/3umaR8mqnyhaPbf6CJrjjm",
    "best": "Vintage 1975 Regulation Justrite Embossing Seal with ...",
    "med": 24,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946975285",
+   "title": "Jerners Ducks plate collection",
+   "price": 15,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/warminster-jerners-ducks-plate/pgJZ38t1prbHxjjDfmRkSW",
+   "best": "Craigslist",
+   "med": 36,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -14655,6 +14776,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950333581",
+   "title": "Nice Lot Of Vintage Hat Pins",
+   "price": 20,
+   "area": "sanangelo",
+   "url": "https://www.craigslist.org/view/d/goodfellow-afb-nice-lot-of-vintage-hat/6N5Eva4JnEf7hsfvuynP1K",
+   "best": "Craigslist",
+   "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -16026,6 +16158,17 @@
    "url": "https://www.craigslist.org/view/d/boise-vintage-miraculous-medal-of-the/uJuEYnzr4svE36jSppjho1",
    "best": "Pinterest",
    "med": 42,
+   "ratio": 1.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959894441",
+   "title": "Lady golfer",
+   "price": 50,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/houston-lady-golfer/4nNRY4z6SzjAQx3vC4ia1K",
+   "best": "eBay",
+   "med": 84,
    "ratio": 1.68,
    "ai_value": ""
   },
@@ -17757,6 +17900,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955335001",
+   "title": "Vintage Heavy Bronze Indian",
+   "price": 175,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-heavy-bronze/qHgUcFpZEwiqiB92MUQbmZ",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7974161394",
    "title": "Vintage CS Osborne Leather Working Draw Gauge",
    "price": 60,
@@ -17841,6 +17995,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-armani-ceramic-43mm-mens/rqNfcLcWJEpTDYeEfy1RUZ",
    "best": "Emporio Armani Men's Watch - Ceramic - AR1429 | eBay",
    "med": 140,
+   "ratio": 1.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944971831",
+   "title": "Sterling bracelet 1 oz",
+   "price": 225,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-sterling-bracelet-oz/7XLMmoB3yQaa3PD2Qfbq3f",
+   "best": "Etsy",
+   "med": 318,
    "ratio": 1.41,
    "ai_value": ""
   },
@@ -18479,6 +18644,17 @@
    "url": "https://www.craigslist.org/view/d/butler-necklace-and-matching-ear-rings/1FkhJyWp6gBkGB6oaELMGr",
    "best": "925 OWE Sterling Silver Cubic Zirconia Necklace Earring Gift ...",
    "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966536174",
+   "title": "Vintage Silver-Tone Filigree Diffuser Locket Necklace Victorian Edward",
+   "price": 18,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/alachua-vintage-silver-tone-filigree/5DJPYtaY5iaBDJzyj26AjG",
+   "best": "Etsy",
+   "med": 24,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -19645,6 +19821,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-heavy-vtg-zuni-sterling/phcBgLxJ59hXLeW8xZBexH",
    "best": "Sterling Zuni Dickie & Amy Quandelacy Hummingbird Men's ...",
    "med": 295,
+   "ratio": 1.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931911954",
+   "title": "Ring with pink stone 18K GE",
+   "price": 55,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-ring-with-pink-stone-18k-ge/ndtFZsVYokZAs576bs55aV",
+   "best": "Etsy",
+   "med": 65,
    "ratio": 1.18,
    "ai_value": ""
   },
@@ -22564,6 +22751,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956957365",
+   "title": "Cufflinks",
+   "price": 65,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/wichita-cufflinks/dgn36jmF6d5V9zwVQJ46WR",
+   "best": "Etsy",
+   "med": 54,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7946854380",
    "title": "Antique Camera Collection",
    "price": 300,
@@ -22901,6 +23099,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-floral-design-ring/juMFZCCgbjKTACjmpHpXwx",
    "best": "Etsy",
    "med": 47,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962092199",
+   "title": "Vintage 'Birch Tree' Mid-Century Accent Art (w/ Original Frame, Signed",
+   "price": 250,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-birch-tree-mid-century/aASNbJG4EJKPAQVLs2DSub",
+   "best": "eBay",
+   "med": 195,
    "ratio": 0.78,
    "ai_value": ""
   },
@@ -24220,6 +24429,17 @@
    "area": "sacramento",
    "url": "https://www.craigslist.org/view/d/sacramento-beautiful-vintage-plate/stAadNvKBouvn15Wt8TDmy",
    "best": "VTG 1978 Guy Cambier Limoges France Collectors Plate SUMMER ...",
+   "med": 25,
+   "ratio": 0.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944513324",
+   "title": "ANTIQUE BUCYRUS ERIE SOLID BRASS Pocket Watch Fob",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/san-pedro-antique-bucyrus-erie-solid/fzBpUkDacLEbiJGkZwMZqW",
+   "best": "eBay",
    "med": 25,
    "ratio": 0.63,
    "ai_value": ""
@@ -26139,6 +26359,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948965646",
+   "title": "Costume Jewelry Sets",
+   "price": 38,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-costume-jewelry-sets/w4Wdq2QAehZrTwRoAFZKb3",
+   "best": "Etsy",
+   "med": 13,
+   "ratio": 0.34,
+   "ai_value": ""
+  },
+  {
    "pid": "7955793164",
    "title": "6 Turquoise and green colored pendants",
    "price": 30,
@@ -26676,6 +26907,17 @@
    "med": 7,
    "ratio": 0.23,
    "ai_value": "priced at $79"
+  },
+  {
+   "pid": "7947262049",
+   "title": "Lot Of Beautiful Vintage Stones For Jewelry Making",
+   "price": 30,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/dover-lot-of-beautiful-vintage-stones/uaH3xQvVmsyCYHfjHicg4c",
+   "best": "Synthetic Stones - Lot of 56 Pieces - Faux Gemstones ...",
+   "med": 7,
+   "ratio": 0.23,
+   "ai_value": ""
   },
   {
    "pid": "7961378814",
