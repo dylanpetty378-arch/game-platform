@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:59:23Z",
+ "updated": "2026-10-15T08:02:55Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11599,
-  "events": 36818,
+  "lens": 11624,
+  "events": 36843,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 53,
-  "flagged": 2758,
-  "lensed": 850
+  "queued": 28,
+  "flagged": 2776,
+  "lensed": 857
  },
  "last_harvests": [
   {
@@ -979,6 +979,17 @@
    "best": "Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ...",
    "med": 18362,
    "ratio": 104.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955892189",
+   "title": "Silver Tone Rhinestone TRIANGLE 18\" Necklace",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-silver-tone-rhinestone-triangle/cqm1R8hJpb71Gt3wHiakK3",
+   "best": "eBay",
+   "med": 1560,
+   "ratio": 104,
    "ai_value": ""
   },
   {
@@ -5481,6 +5492,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953841196",
+   "title": "Original vintage watercolor, Indiana Farm",
+   "price": 30,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/chatsworth-original-vintage-watercolor/cjHSPhYDuoBYPKKrEN1dJy",
+   "best": "Original 60's artist ENEYD ANDREWS Watercolor PAINTING ...",
+   "med": 249,
+   "ratio": 8.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7960927353",
    "title": "Antique clock collection",
    "price": 195,
@@ -5888,6 +5910,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973220087",
+   "title": "2 antique funnels",
+   "price": 20,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-antique-funnels/k3LFYDR4ubL5eDE6DnWRe8",
+   "best": "Vintage canco motor oil funnel | eBay",
+   "med": 149,
+   "ratio": 7.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7948161281",
    "title": "Vintage Capped Tube Linked Jade Green Necklace",
    "price": 150,
@@ -6225,6 +6258,17 @@
    "url": "https://www.craigslist.org/view/d/abingdon-vintage-ceramic-buddha/a8PrD5R4pnccBZhkMJCMbG",
    "best": "eBay",
    "med": 100,
+   "ratio": 6.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959110886",
+   "title": "21\u201d Tall Vintage Chrisdon Brown Framer Rabbitt",
+   "price": 30,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/garland-21-tall-vintage-chrisdon-brown/eRorLzKDW6iGKWQTnP5M6j",
+   "best": "Pinterest",
+   "med": 200,
    "ratio": 6.67,
    "ai_value": ""
   },
@@ -7798,6 +7842,17 @@
    "url": "https://www.craigslist.org/view/d/san-jose-costume-pierced-earrings/sXRHPw238MfnQaZz16J5yF",
    "best": "Style and Details",
    "med": 25,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951044783",
+   "title": "Precision Bass Pickguards (sale/trade)",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-precision-bass-pickguards-sale/uZCgjb1kSpPUHBKaQEaQem",
+   "best": "Amazon.com: Musiclily Pro 13-Hole 4-String P Bass Pickguard ...",
+   "med": 100,
    "ratio": 5,
    "ai_value": ""
   },
@@ -11080,6 +11135,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932533778",
+   "title": "Vintage Bronze Hindu Deities Statue",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-bronze-hindu/gb2i3dfG32S6XxquwUF4oM",
+   "best": "Etsy",
+   "med": 207,
+   "ratio": 3.18,
+   "ai_value": ""
+  },
+  {
    "pid": "7983743661",
    "title": "Lot of Costume Diamonds, bracelet, necklaces",
    "price": 18,
@@ -11769,6 +11835,17 @@
    "url": "https://www.craigslist.org/view/d/butler-necklace-matching-ear-rings-and/2VA7F8paNt9DmTHw8bycbT",
    "best": "Vintage 1980's Costume Gold With Rhinestones Necklace ...",
    "med": 45,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950733209",
+   "title": "Pedre Women's Vintage Gold-Tone Crystal Snap Wrist Band, Read Listing",
+   "price": 50,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/madison-pedre-womens-vintage-gold-tone/giiRExiC7e8auYX7939FMG",
+   "best": "vintage pedre disney mickey - Gem",
+   "med": 150,
    "ratio": 3,
    "ai_value": ""
   },
@@ -12983,6 +13060,17 @@
    "ai_value": "Sold at Auction: McCoy Ceramic Clown Cookie Jar Out of stock $50"
   },
   {
+   "pid": "7941014563",
+   "title": "Vintage Cast Iron Garden Hose Reel Cart",
+   "price": 260,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/fremont-vintage-cast-iron-garden-hose/djVgYqZwC7Matqog3Q5Ljc",
+   "best": "Esschert Design Cast Iron Hose Cart Patio, Lawn & Garden",
+   "med": 673,
+   "ratio": 2.59,
+   "ai_value": ""
+  },
+  {
    "pid": "7945293043",
    "title": "Antique Vintage Gorham Sterling Silver Yo-Yo",
    "price": 60,
@@ -13155,6 +13243,17 @@
    "url": "https://www.craigslist.org/view/d/burlington-vintage-pocket-watch/ppBYgbpaCPJPFt5hvARFhM",
    "best": "eBay",
    "med": 380,
+   "ratio": 2.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949893702",
+   "title": "Marvella Necklace & Earrings",
+   "price": 15,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/marietta-marvella-necklace-earrings/jCeLCU7eYYsp6xkZwi82aS",
+   "best": "2 strand pearl/gem Dark Blue necklace Costume 11 In | eBay",
+   "med": 38,
    "ratio": 2.53,
    "ai_value": ""
   },
@@ -14633,6 +14732,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983777807",
+   "title": "VINTAGE WORLD TIME DESK CLOCK",
+   "price": 99,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/dallesport-vintage-world-time-desk-clock/iP3pdfErvxZX243PzquHCV",
+   "best": "eBay",
+   "med": 219,
+   "ratio": 2.21,
+   "ai_value": ""
+  },
+  {
    "pid": "7959823173",
    "title": "NECKLACE Sterling (925) Pearl Necklace",
    "price": 50,
@@ -14897,6 +15007,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953988656",
+   "title": "Vintage Italian gold gilded Vase",
+   "price": 60,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-italian-gold-gilded-vase/v36X3wexFgQKM29cW5pGR9",
+   "best": "Lefton's~Reg. U.S. Pat. Ofe. Exclusive Japan #2375 Cup Vase ...",
+   "med": 130,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7950216572",
    "title": "VINTAGE CERAMIC CREAMER",
    "price": 20,
@@ -15102,6 +15223,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-asian-vase/f2jjrBaYd6CqVnC5iYZBre",
    "best": "8\" Toyo Japan Vase Peony W/Gold Trim | eBay",
    "med": 42,
+   "ratio": 2.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959319299",
+   "title": "Two Peacock Floral Vases ($5.00 Each)",
+   "price": 10,
+   "area": "waco",
+   "url": "https://www.craigslist.org/view/d/mexia-two-peacock-floral-vases-500-each/pBnkrUvD6bgWCJLFk8PC51",
+   "best": "eBay",
+   "med": 21,
    "ratio": 2.1,
    "ai_value": ""
   },
@@ -19748,6 +19880,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945332921",
+   "title": "10 K gold rope bracelet",
+   "price": 450,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/south-plainfield-10-gold-rope-bracelet/7ne8HSXyUBWkFKg8YSSzyL",
+   "best": "Sam's Club",
+   "med": 624,
+   "ratio": 1.39,
+   "ai_value": ""
+  },
+  {
    "pid": "7937952842",
    "title": "Vintage brooch",
    "price": 40,
@@ -20172,6 +20315,17 @@
    "area": "waco",
    "url": "https://www.craigslist.org/view/d/mexia-greetings-from-graceland-glass/hc71UcvnG4PvdhTiuGv5GT",
    "best": "Miller Lite Beer Tall Stemmed Glass Super Bowl XXXII NFL | eBay",
+   "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973600850",
+   "title": "Vintage Rootbeer metal trays",
+   "price": 15,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/lancaster-vintage-rootbeer-metal-trays/humcdaLHNHunofNgmFLVgM",
+   "best": "eBay",
    "med": 20,
    "ratio": 1.33,
    "ai_value": ""
@@ -20822,6 +20976,28 @@
    "url": "https://www.craigslist.org/view/d/vancouver-vintage-strawberry-shortcake/mtkVD3qdGvtrSVuECrBPH6",
    "best": "Vintage Strawberry Shortcake Doll Almond Tea with Marza ...",
    "med": 40,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983800916",
+   "title": "\"Eastern Cottontail in Snow\"",
+   "price": 100,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/la-vergne-eastern-cottontail-in-snow/nDGEkbbQ8XNKyfqNgeLSTz",
+   "best": "RALPH J. MCDONALD,\"EASTERN COTTONTAIL\", PRINT, SIGNED & #ED ...",
+   "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956466394",
+   "title": "Jester Pendant Necklace with Magnifying Glass",
+   "price": 80,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/sunset-beach-jester-pendant-necklace/9cVZLz3UBJcah2m4xzjpjm",
+   "best": "Vintage Magnifier Necklace - Etsy",
+   "med": 100,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -22153,6 +22329,17 @@
    "url": "https://www.craigslist.org/view/d/houston-tribal-art-collection/ozRsbxFqwef9Zje3FdniUx",
    "best": "Mambila Guardian Figure Tadep Cameroon | eBay",
    "med": 490,
+   "ratio": 1.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951150503",
+   "title": "Gold charm pendant",
+   "price": 235,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-gold-charm-pendant/weUEPTPEMjkNJV8KXF9Quv",
+   "best": "Vintage Gemini Twins 8k Gold Charm Pendant - Etsy",
+   "med": 257,
    "ratio": 1.09,
    "ai_value": ""
   },
@@ -27334,6 +27521,17 @@
    "url": "https://www.craigslist.org/view/d/pompano-beach-vintage-sarah-coventry/nGSxPucx2DXbuSANk2Ywog",
    "best": "eBay",
    "med": 18,
+   "ratio": 0.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932250976",
+   "title": "Women's Kenneth Cole Watch",
+   "price": 39,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/womens-kenneth-cole-watch/sZsar3SWfPBnP5dHntLb1z",
+   "best": "eBay",
+   "med": 20,
    "ratio": 0.51,
    "ai_value": ""
   },
