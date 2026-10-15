@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T16:04:06Z",
+ "updated": "2026-10-15T16:07:55Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12374,
-  "events": 38506,
+  "lens": 12399,
+  "events": 38531,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 78,
-  "flagged": 3330,
-  "lensed": 1052
+  "queued": 53,
+  "flagged": 3342,
+  "lensed": 1065
  },
  "last_harvests": [
   {
@@ -6734,6 +6734,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966432599",
+   "title": "Vintage Murano Art Glass Cobalt Blue Bullicante Bubble 7 1/2\" Bowl",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/red-wing-vintage-murano-art-glass/wqoJ71LKgG8jLxTt6GEff8",
+   "best": "Craigslist",
+   "med": 231,
+   "ratio": 7.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7957624211",
    "title": "Vintage Limoges 10\" Porcelain Plate",
    "price": 35,
@@ -9638,6 +9649,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961993826",
+   "title": "Poon Tai To Original Watercolors  on silk",
+   "price": 70,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-poon-tai-to-original/3r6wnzjGoTMNXFLr9KByXT",
+   "best": "Chinese Painting on Silk Fabric by Poon Tai To | Chairish",
+   "med": 325,
+   "ratio": 4.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7944410804",
    "title": "Vintage Sears Guitar 319 Series Mid-1960s-'70s Japan",
    "price": 150,
@@ -9765,6 +9787,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/woodland-hills-sterling-southwest/7NJ6mUkxMcEV9r3d53LAxk",
    "best": "eBay",
+   "med": 275,
+   "ratio": 4.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946802872",
+   "title": "Amazing Hand-Painted Antique Gone-With-The-Wind Lamp",
+   "price": 60,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/hampton-amazing-hand-painted-antique/pUP8XtCGW2f1DKYTkPP8HF",
+   "best": "Vintage Yellow Red Rose Floral Hurricane Lamp 16.75 ...",
    "med": 275,
    "ratio": 4.58,
    "ai_value": ""
@@ -11816,6 +11849,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940118265",
+   "title": "Antique Sconces (2)",
+   "price": 375,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/oak-brook-antique-sconces/gtGwBTVnfk67HE8whfcCUE",
+   "best": "Dollhouse Miniature Pair of Symphony Wall Sconces - Etsy",
+   "med": 1400,
+   "ratio": 3.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7935244975",
    "title": "Boot Hill Pottery Polar Bear Mug",
    "price": 25,
@@ -12175,6 +12219,17 @@
    "url": "https://www.craigslist.org/view/d/colchester-horseshoe-nail-ring/8MdHRhLb2czD9mKmM4QTKf",
    "best": "Handmade Horseshoe Nail Prairie Diamond Ring. Unisex ...",
    "med": 72,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982101260",
+   "title": "Excellent Antique Cloisson\u00e9 Ginger Jar: Good Size, 10\u201d by 7 1/2\u201d",
+   "price": 125,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-excellent-antique-cloisson/uFKU26iMW5xcQbfzvk4fqr",
+   "best": "Quality vintage handmade Chinese foo dog enamel champleve ...",
+   "med": 450,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -13444,6 +13499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964167818",
+   "title": "Bundy Clarinet In Case",
+   "price": 95,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/webster-bundy-clarinet-in-case/57PFapkMfZnxXdsDnzExXD",
+   "best": "Selmer Signet Clarinet. Made in USA | eBay",
+   "med": 300,
+   "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7953148911",
    "title": "Vintage Mata Ortiz By J. Manuel Reyes Design Black Pottery Vase Signed",
    "price": 80,
@@ -14639,6 +14705,17 @@
    "url": "https://www.craigslist.org/view/d/orlando-heart-locket-pendant/sU9JZiLmB6pTNuwrY2X5oD",
    "best": "Knotting Tides",
    "med": 100,
+   "ratio": 2.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941413190",
+   "title": "V.N. Montri Figural Thailand",
+   "price": 140,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-vn-montri-figural-thailand/4sWeGq2enUg5c9YRKFeVEV",
+   "best": "1960s Vintage Southeast Asian Workers Picking Rice Framed ...",
+   "med": 400,
    "ratio": 2.86,
    "ai_value": ""
   },
@@ -19120,6 +19197,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983847620",
+   "title": "Paragon double warrant teacup",
+   "price": 150,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/niagara-falls-paragon-double-warrant/bCLHP6Nz4MLAPLceRNutCW",
+   "best": "CUP ONLY * Paragon Floating White Rose Turquoise Blue Teacup ...",
+   "med": 295,
+   "ratio": 1.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7931592455",
    "title": "Sterling silver garnet earrings",
    "price": 25,
@@ -20007,6 +20095,17 @@
    "url": "https://www.craigslist.org/view/d/novato-victor-yurivilca-sterling-silver/tQBJnwRMRCvHpUUt3tX11P",
    "best": "Coral Angel Skin | eBay",
    "med": 636,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969904043",
+   "title": "King Baby Studios 925 Crown Garnet Stud Earring",
+   "price": 50,
+   "area": "shreveport",
+   "url": "https://www.craigslist.org/view/d/bullard-king-baby-studios-925-crown/5P6ThBLJbxLVz17z5czfw9",
+   "best": "Gothic Round Gemstone Carved Unisex Stud Earrings",
+   "med": 91,
    "ratio": 1.82,
    "ai_value": ""
   },
@@ -25929,6 +26028,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976604258",
+   "title": "1985 Matador Bowie fighting knife",
+   "price": 110,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-1985-matador-bowie-fighting/nwts3B6r9KPzJUCvWEDdem",
+   "best": "Knife Case XX model 325-6 USA & Sheath | eBay",
+   "med": 129,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7949254133",
    "title": "Vintage Suarti Sterling Silver & Cultured Pearl Cuff",
    "price": 160,
@@ -28998,6 +29108,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939280848",
+   "title": "Drum hardware & parts, misc.",
+   "price": 50,
+   "area": "myrtlebeach",
+   "url": "https://www.craigslist.org/view/d/myrtle-beach-drum-hardware-parts-misc/uhHpwLZG9xjvAd8NakrMCd",
+   "best": "Cymbal Ratchet Clamp Universal Adjustable Extension Arm Drum ...",
+   "med": 44,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -29038,6 +29159,17 @@
    "url": "https://www.craigslist.org/view/d/san-antonio-merry-go-round-fun-times/973hrASnfGsTxFd4t9Mrzi",
    "best": "eBay",
    "med": 130,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955703574",
+   "title": "Cows",
+   "price": 45,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/fort-worth-cows/pPPm1v8eM9Uw2KVM1GHqRS",
+   "best": "Cow Parade #7346 \"Chelsea\" 2005 | eBay",
+   "med": 39,
    "ratio": 0.87,
    "ai_value": ""
   },

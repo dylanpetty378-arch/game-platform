@@ -38504,3 +38504,28 @@
 {"ts":"2026-10-15T16:03:22Z","pid":"7935648876","stage":"flagged","run":"lensworker-20261015-1556","note":null,"data":{"med":550,"ratio":7.33,"mismatch":[]}}
 {"ts":"2026-10-15T16:03:30Z","pid":"7983859782","stage":"lensed","run":"lensworker-20261015-1556","note":null,"data":{"med":14,"ratio":2,"mismatch":[]}}
 {"ts":"2026-10-15T16:03:41Z","pid":"7980541968","stage":"flagged","run":"lensworker-20261015-1600","note":null,"data":{"med":687,"ratio":17.18,"mismatch":[]}}
+{"ts":"2026-10-15T16:03:53Z","pid":"7983842208","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":50,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-15T16:04:01Z","pid":"7973056542","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":35,"ratio":2.33,"mismatch":[]}}
+{"ts":"2026-10-15T16:04:08Z","pid":"7955703574","stage":"flagged","run":"lensworker-20261015-1600","note":"Lens names Chelsea — title does not","data":{"med":39,"ratio":0.87,"mismatch":["Chelsea"]}}
+{"ts":"2026-10-15T16:04:19Z","pid":"7982101260","stage":"flagged","run":"lensworker-20261015-1600","note":null,"data":{"med":450,"ratio":3.6,"mismatch":[]}}
+{"ts":"2026-10-15T16:04:27Z","pid":"7976604258","stage":"flagged","run":"lensworker-20261015-1600","note":null,"data":{"med":129,"ratio":1.17,"mismatch":[]}}
+{"ts":"2026-10-15T16:04:34Z","pid":"7964167818","stage":"flagged","run":"lensworker-20261015-1600","note":"Lens names Selmer, Signet — title does not","data":{"med":300,"ratio":3.16,"mismatch":["Selmer","Signet"]}}
+{"ts":"2026-10-15T16:04:46Z","pid":"7969904043","stage":"flagged","run":"lensworker-20261015-1600","note":null,"data":{"med":91,"ratio":1.82,"mismatch":[]}}
+{"ts":"2026-10-15T16:04:54Z","pid":"7983855405","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":20,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-15T16:05:05Z","pid":"7955893403","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":35,"ratio":0.44,"mismatch":[]}}
+{"ts":"2026-10-15T16:05:13Z","pid":"7983888474","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":4586,"ratio":764.33,"mismatch":[]}}
+{"ts":"2026-10-15T16:05:23Z","pid":"7939280848","stage":"flagged","run":"lensworker-20261015-1600","note":"Lens names Universal — title does not","data":{"med":44,"ratio":0.88,"mismatch":["Universal"]}}
+{"ts":"2026-10-15T16:05:32Z","pid":"7955154198","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":50,"ratio":1.25,"mismatch":[]}}
+{"ts":"2026-10-15T16:05:42Z","pid":"7957866494","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":40,"ratio":4,"mismatch":[]}}
+{"ts":"2026-10-15T16:05:51Z","pid":"7943531679","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":1000,"ratio":7.75,"mismatch":[]}}
+{"ts":"2026-10-15T16:06:01Z","pid":"7983847620","stage":"flagged","run":"lensworker-20261015-1600","note":null,"data":{"med":295,"ratio":1.97,"mismatch":[]}}
+{"ts":"2026-10-15T16:06:12Z","pid":"7941413190","stage":"flagged","run":"lensworker-20261015-1600","note":null,"data":{"med":400,"ratio":2.86,"mismatch":[]}}
+{"ts":"2026-10-15T16:06:20Z","pid":"7961993826","stage":"flagged","run":"lensworker-20261015-1600","note":"Lens names Fabric — title does not","data":{"med":325,"ratio":4.64,"mismatch":["Fabric"]}}
+{"ts":"2026-10-15T16:06:31Z","pid":"7958243267","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":15,"ratio":0.36,"mismatch":[]}}
+{"ts":"2026-10-15T16:06:41Z","pid":"7940118265","stage":"flagged","run":"lensworker-20261015-1600","note":null,"data":{"med":1400,"ratio":3.73,"mismatch":[]}}
+{"ts":"2026-10-15T16:06:49Z","pid":"7956293650","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":30,"ratio":1.5,"mismatch":[]}}
+{"ts":"2026-10-15T16:06:58Z","pid":"7946802872","stage":"flagged","run":"lensworker-20261015-1600","note":"Lens names Hurricane — title does not","data":{"med":275,"ratio":4.58,"mismatch":["Hurricane"]}}
+{"ts":"2026-10-15T16:07:09Z","pid":"7931464239","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":68,"ratio":0.69,"mismatch":[]}}
+{"ts":"2026-10-15T16:07:17Z","pid":"7963329396","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":30,"ratio":1.2,"mismatch":[]}}
+{"ts":"2026-10-15T16:07:23Z","pid":"7966432599","stage":"flagged","run":"lensworker-20261015-1600","note":"Lens names Barovier & Toso — title does not","data":{"med":231,"ratio":7.7,"mismatch":["Barovier & Toso"]}}
+{"ts":"2026-10-15T16:07:32Z","pid":"7983866499","stage":"lensed","run":"lensworker-20261015-1600","note":null,"data":{"med":31,"ratio":0.08,"mismatch":[]}}
