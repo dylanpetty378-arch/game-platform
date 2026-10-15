@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:31:00Z",
+ "updated": "2026-10-15T14:34:30Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11799,
-  "events": 37889,
+  "lens": 11824,
+  "events": 37914,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 653,
-  "flagged": 2934,
-  "lensed": 874
+  "queued": 628,
+  "flagged": 2954,
+  "lensed": 879
  },
  "last_harvests": [
   {
@@ -15831,6 +15831,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932197718",
+   "title": "Original Floral Still Life Oil Painting Signed Framed Vintage Artwork",
+   "price": 175,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/clark-original-floral-still-life-oil/sUpVmwQfDXYk88eciFGuzk",
+   "best": "Mid-20th Century J.E. Judge (aka Janet Greenleaf) Floral ...",
+   "med": 375,
+   "ratio": 2.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7951167434",
    "title": "Vintage Crushed Turquoise/Coral Chip Inlay Sterling Ring",
    "price": 85,
@@ -16788,6 +16799,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7981118640",
+   "title": "Delightful Antique Oil Painting: Signed, Dated, 1949",
+   "price": 150,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-delightful-antique-oil/syURWyAKVdYm3uNe4vno3t",
+   "best": "Poshmark",
+   "med": 300,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928609046",
+   "title": "Vintage Elephant Pendant",
+   "price": 3,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/vintage-elephant-pendant/awvdkp5YgaUKnc1T86GzLj",
+   "best": "M397 Black Tahitian Mop Elephant - Etsy",
+   "med": 6,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -17048,6 +17081,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-city-vintage-laurel-burch-blue/bJbZTQast5Upff6kAXXLH6",
    "best": "Laurel Burch | Jewelry | Vintage Laurel Burch Blue Necklace ...",
    "med": 94,
+   "ratio": 1.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955154966",
+   "title": "VINTAGE 1940  SCHOOL CLOCK",
+   "price": 65,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/north-adams-vintage-1940-school-clock/cLM62qD4FJSddNaxLSYgFC",
+   "best": "Etsy",
+   "med": 125,
    "ratio": 1.92,
    "ai_value": ""
   },
@@ -17939,6 +17983,17 @@
    "url": "https://www.craigslist.org/view/d/mount-prospect-vintage-capodimonte/goeYKdMJ4v1bo1WvWXpUNx",
    "best": "eBay",
    "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947308389",
+   "title": "LLADRO \"CARNIVAL COUPLE\", #01004882",
+   "price": 75,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-lladro-carnival-couple/aN98pFtn8o6d6DXpub3XB3",
+   "best": "eBay",
+   "med": 135,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -20231,6 +20286,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980838878",
+   "title": "Gorgeous bracelet",
+   "price": 60,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-gorgeous-bracelet/2Kp4bzdXaMi5FJGt1GANk3",
+   "best": "Craigslist",
+   "med": 90,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -20627,6 +20693,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955735008",
+   "title": "Four-piece Lighthouse collection hand-painted on wood plaques",
+   "price": 35,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/new-port-richey-four-piece-lighthouse/1DoQXU9ynMafqah6mF15JZ",
+   "best": "Vintage hand painted hanging plate imports Enesco Japan ...",
+   "med": 50,
+   "ratio": 1.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7974161394",
    "title": "Vintage CS Osborne Leather Working Draw Gauge",
    "price": 60,
@@ -20964,6 +21041,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-vintage-globe-siam-sterling/t8bsQNTiSETRCFjsD8A8gu",
    "best": "Etsy",
    "med": 35,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983873975",
+   "title": "I love you necklace",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/everett-love-you-necklace/gnVcoj4wT6XsV9ALGGCCX3",
+   "best": "eBay",
+   "med": 28,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -23454,6 +23542,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973685753",
+   "title": "4 Excellent, Vintage Watercolor Paintings: $45. each",
+   "price": 45,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-excellent-vintage-watercolor/f9wNT9RetigH3ZrQ9SVVEq",
+   "best": "Downtown Millerton New York, Framable Wall Art of Beautiful ...",
+   "med": 50,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7962599217",
    "title": "Two pendants",
    "price": 20,
@@ -24774,6 +24873,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7955656556",
+   "title": "Carved wooden bust",
+   "price": 250,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-carved-wooden-bust/o2Az3PMRMz413mBWS4S2vc",
+   "best": "honolulu.craigslist.org",
+   "med": 249,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942909962",
+   "title": "CHICO'S NECKLACE",
+   "price": 25,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/strongsville-chicos-necklace/gmGzEqjinLDUJeVNSf9fsW",
+   "best": "Jewelry | Puca Necklace Elephant Choker White Pink | Poshmark",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -25880,6 +26001,17 @@
    "area": "phoenix",
    "url": "https://www.craigslist.org/view/d/surprise-roseville-jonquil-jardiniere/t4DZzy2F1pCYPa9PBwi4Dd",
    "best": "Etsy",
+   "med": 150,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976376264",
+   "title": "Seiko World Clock",
+   "price": 175,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-seiko-world-clock/74tptvA71U8Xq4EDshorWy",
+   "best": "eBay",
    "med": 150,
    "ratio": 0.86,
    "ai_value": ""
@@ -27326,6 +27458,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967325816",
+   "title": "Fox hunt engraved painting",
+   "price": 400,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-fox-hunt-engraved-painting/3okteoqXdM3c2RQ1NCnAbg",
+   "best": "Chairish",
+   "med": 285,
+   "ratio": 0.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7948092563",
    "title": "Vintage West Germany Filagree Size 5 Ring",
    "price": 50,
@@ -28411,6 +28554,17 @@
    "url": "https://www.craigslist.org/view/d/saint-paul-memories-of-yesterday/6kY26tVvrZzwkhiKnvmANt",
    "best": "Enesco Memories of Yesterday I'se Spoken For Girl with Ring ...",
    "med": 19,
+   "ratio": 0.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979530164",
+   "title": "New 10K Gold Blue Topaz Cross Earrings",
+   "price": 160,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/columbus-new-10k-gold-blue-topaz-cross/bJtbEXdQRP9v29zSomsAG2",
+   "best": "Vintage CJI 14K Gold Cross Pierced Stud Earrings New | eBay",
+   "med": 95,
    "ratio": 0.59,
    "ai_value": ""
   },
@@ -29548,6 +29702,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983841647",
+   "title": "Vintage 18 Inch Navajo Turquoise Sterling Silver Bead Necklace",
+   "price": 75,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/port-angeles-vintage-18-inch-navajo/eCt3cF4J1F9ULL754w1mkX",
+   "best": "Etsy",
+   "med": 34,
+   "ratio": 0.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7950445010",
    "title": "Vintage Ladies Elgin Watch",
    "price": 275,
@@ -30083,6 +30248,28 @@
    "url": "https://www.craigslist.org/view/d/menard-antique-art-nouveau-ring/tTBGqBdkSnnZyyv4zKvp2S",
    "best": "eBay UK",
    "med": 90,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931791750",
+   "title": "Sterling silver adjustable necklace",
+   "price": 35,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-adjustable/41kK21JoZHEUVHbfg6gQRt",
+   "best": "eBay",
+   "med": 13,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983843123",
+   "title": "VINTAGE Blue Green Southwest Chunky Turquoise Necklace Sterling Silver",
+   "price": 175,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-vintage-blue-green-southwest/6oHr6kCMtM9R6JvZQFW3N9",
+   "best": "Etsy",
+   "med": 65,
    "ratio": 0.37,
    "ai_value": ""
   },
@@ -30875,6 +31062,17 @@
    "url": "https://www.craigslist.org/view/d/manchester-asia-floral-vase-pair/x9V17VgnCrzupAozFjFC6p",
    "best": "Etsy",
    "med": 46,
+   "ratio": 0.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983843807",
+   "title": "Vintage Faceted Black Onyx Southwest Sterling Silver Bead Earrings",
+   "price": 65,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-vintage-faceted-black-onyx/dhHm6bQmYPRTVd2AzkvPLf",
+   "best": "eBay",
+   "med": 15,
    "ratio": 0.23,
    "ai_value": ""
   },
@@ -32755,6 +32953,28 @@
    "area": "jerseyshore",
    "url": "https://www.craigslist.org/view/d/toms-river-88-vintage-hallmark/3ALSap3FQzurgPQP7RVYmq",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961307216",
+   "title": "Vintage Mid-Century 1970's Watering Can",
+   "price": 25,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-mid-century-1970s/wZkAwXW89rSqPiiodWJXeB",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977643542",
+   "title": "Vintage Indian wedding/ceremonial sword",
+   "price": 50,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/rancho-cucamonga-vintage-indian-wedding/hUs8nYCTfpQLDw6Fw3fGDY",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
