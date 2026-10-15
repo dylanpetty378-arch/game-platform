@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:38:02Z",
+ "updated": "2026-10-15T07:43:55Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11474,
-  "events": 36693,
+  "lens": 11499,
+  "events": 36718,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 178,
-  "flagged": 2673,
-  "lensed": 810
+  "queued": 153,
+  "flagged": 2691,
+  "lensed": 817
  },
  "last_harvests": [
   {
@@ -1763,6 +1763,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983713769",
+   "title": "Vintage Framed Oil Painting /Artwork - Local Artist",
+   "price": 40,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/wexford-vintage-framed-oil-painting/tdQNVCaJ8wrc2Eq8CqDzqB",
+   "best": "Roger Deering | Mountain Cottage | MutualArt",
+   "med": 1649,
+   "ratio": 41.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7949314282",
    "title": "Miami Cuban Link bracelet",
    "price": 100,
@@ -2885,6 +2896,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955286037",
+   "title": "Vintage Brass Concho-type Belt",
+   "price": 45,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/hyattsville-vintage-brass-concho-type/j1TLop9kFGo7d35R9F1Hdi",
+   "best": "Vintage 80s Goldtone Star Stretch Belt - Etsy Israel",
+   "med": 800,
+   "ratio": 17.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7948745843",
    "title": "ANTIQUE POTTERY VASE",
    "price": 45,
@@ -3336,6 +3358,17 @@
    "ai_value": "sell anywhere from $20 to $300"
   },
   {
+   "pid": "7938055093",
+   "title": "SILVER BRACELET FROM JERUSALEM",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-silver-bracelet-from/uozAFdQzeh4t7Vypkj5kFi",
+   "best": "Tiffany & Co. Sterling Silver Venetian Box Chain Link ...",
+   "med": 299,
+   "ratio": 14.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7953705489",
    "title": "Vintage Fox Charm",
    "price": 20,
@@ -3564,6 +3597,17 @@
    "best": "Meenakari Peacock Design Gold Plated Hinged Bracelet",
    "med": 270,
    "ratio": 13.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948703346",
+   "title": "Vintage Natural Carved Green Jade Sterling Silver  Necklace.",
+   "price": 33,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-natural-carved/sGZEwGV8NJNhUchfn7aUtE",
+   "best": "CHINESE VINTAGE APPLE GREEN JADE 8mm BEAD ...",
+   "med": 445,
+   "ratio": 13.48,
    "ai_value": ""
   },
   {
@@ -5437,6 +5481,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981192284",
+   "title": "Beautiful vintage oil painting on canvas",
+   "price": 150,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-beautiful-vintage-oil-painting/8EDV9JMnBAZaFjmW75UJVz",
+   "best": "Craigslist",
+   "med": 1190,
+   "ratio": 7.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7962656781",
    "title": "Vintage  Goldtone Teardrop Statement Necklace Mid-century glamour",
    "price": 35,
@@ -5855,6 +5910,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983699279",
+   "title": "Lawn/garden gnomes",
+   "price": 15,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/albany-lawn-garden-gnomes/7UV2g8umvsrgaYKFGV5DNw",
+   "best": "Vintage Large Ceramic Garden Gnome Statue - 17\u201d Hand-painted ...",
+   "med": 105,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7964448915",
    "title": "Vintage c1970s Plein Air Autumn Landscape Oil Painting signed \"BH\"",
    "price": 40,
@@ -5907,6 +5973,17 @@
    "best": "Unique Teapot Set Hand Painted Ceramic Blue Elephant ...",
    "med": 137,
    "ratio": 6.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938238106",
+   "title": "Vintage Genuine Burmese Jadeite Multi-Charm Necklace.",
+   "price": 19,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-genuine-burmese/j2dXzm2sntvmwqzcZH79Hk",
+   "best": "Real Jade Cross - Etsy",
+   "med": 129,
+   "ratio": 6.79,
    "ai_value": ""
   },
   {
@@ -6328,6 +6405,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953209006",
+   "title": "Vintage Bohemian Cut Glass Vase",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-bohemian-cut/eJA3LDUdsee2tVCk1KM9n1",
+   "best": "Crystal Vase Blue | Pedestal | 1pcs | Hand Cut - Etsy",
+   "med": 395,
+   "ratio": 6.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7975829556",
    "title": "Vintage Sterling and Tigers Eye Ring",
    "price": 25,
@@ -6521,6 +6609,17 @@
    "area": "albany",
    "url": "https://www.craigslist.org/view/d/troy-vintage-native-american-sterling/uqbcjtyucKtLBcoDfdfD85",
    "best": "eBay",
+   "med": 149,
+   "ratio": 5.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937940261",
+   "title": "Vintage Hedi Schoop Ceramic",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-hedi-schoop/jnASqSJhEuxPjP7NW16RTv",
+   "best": "Hedi Schoop Pottery - Etsy",
    "med": 149,
    "ratio": 5.96,
    "ai_value": ""
@@ -10779,6 +10878,17 @@
    "url": "https://www.craigslist.org/view/d/boise-vintage-chunky-pink-necklace/oHvXmk1cuoAVnrZFocCfv9",
    "best": "Traci Lynn Collette Necklace Anna Wintour Watermelon Red ...",
    "med": 25,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953000072",
+   "title": "Clock, Coke",
+   "price": 40,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-clock-coke/jZ5Ud3foKSJnbctMrdEZKP",
+   "best": "Brown Coca-Cola Clocks & Radios for sale | eBay",
+   "med": 125,
    "ratio": 3.13,
    "ai_value": ""
   },
@@ -15348,6 +15458,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982204739",
+   "title": "Vintage Kent Guitar Baritone  Ukulele",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-kent-guitar/1TUgAtZAqJ8CDwQgUcCXko",
+   "best": "Vintage 1950's Harmony Baritone Ukulele Natural Mahogany | eBay",
+   "med": 150,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -15667,6 +15788,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929069006",
+   "title": "Vintage Garfield hunting and fishing knife",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/haverhill-vintage-garfield-hunting-and/7yD66Fx1XCDqHnsgCesDAn",
+   "best": "Cousin Willies Stainless Steel Hunting & Fishing Knife with ...",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7946412605",
    "title": "14k Gold Pendant",
    "price": 100,
@@ -15775,6 +15907,17 @@
    "med": 75,
    "ratio": 1.88,
    "ai_value": ""
+  },
+  {
+   "pid": "7934937043",
+   "title": "Necklace Earrings Bracelet all for $8",
+   "price": 8,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-necklace-earrings-bracelet-all/szAXU3qAeM683Uak9ZNKYe",
+   "best": "Avon Iodized Gun Metal Multi Charm Necklace w/ Matching ...",
+   "med": 15,
+   "ratio": 1.88,
+   "ai_value": "sell online for around $8"
   },
   {
    "pid": "7953070017",
@@ -17720,6 +17863,17 @@
    "url": "https://www.craigslist.org/view/d/rochester-vintage-capodimonte-vase/oBCgbJx3qttC6ZnpcnSwPF",
    "best": "Etsy",
    "med": 155,
+   "ratio": 1.55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972962147",
+   "title": "SEVERAL GREAT ITEMS FOR SALE",
+   "price": 80,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-several-great-items-for-sale/hm279RJtcVVsEX4BJNAcYQ",
+   "best": "Antique England Ironstone Wash Basin & Pitcher Set 1890 ...",
+   "med": 124,
    "ratio": 1.55,
    "ai_value": ""
   },
@@ -20089,6 +20243,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983795150",
+   "title": "Vintage Strawberry Shortcake Mini Dolls Lot of 3 Colorful Hair 1980s",
+   "price": 32,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-strawberry-shortcake/mtkVD3qdGvtrSVuECrBPH6",
+   "best": "Vintage Strawberry Shortcake Doll Almond Tea with Marza ...",
+   "med": 40,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -22432,6 +22597,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950286556",
+   "title": "Bob Ross bobblehead",
+   "price": 10,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/nordland-bob-ross-bobblehead/t8XZyYhTBDzMq7TeTJLARf",
+   "best": "Bob Ross Bobblehead: With Sound! RP Minis | eBay",
+   "med": 10,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -24132,6 +24308,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/novato-lot-of-knives/eVRDPCEa1Z6CkmspAggknY",
    "best": "eBay",
+   "med": 39,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983767559",
+   "title": "Kinder Choir Hummels",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-kinder-choir-hummels/xrJkHemozQgXmWbepCef7S",
+   "best": "M.J. Hummel Goebel Keeping Time 2183 Germany 3 3/4\" TMK 8 ...",
    "med": 39,
    "ratio": 0.78,
    "ai_value": ""
@@ -29885,6 +30072,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-buck-knife-119/6oqkF9kujhvynYoh1vXrcj",
    "best": "Vintage Buck 119 Fixed Blade Knife 3 Line Pre tang stamp ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945285467",
+   "title": "Vintage Drum Mate 12\u201d Tom Drum",
+   "price": 50,
+   "area": "binghamton",
+   "url": "https://www.craigslist.org/view/d/bainbridge-vintage-drum-mate-12-tom-drum/2TaitW3S6HJi8hgU6qqU98",
+   "best": "Tama Limited Edition Superstar Maple \u201cClassic Rock\u201d Shell ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
