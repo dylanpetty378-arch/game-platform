@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:52:12Z",
+ "updated": "2026-10-15T06:56:03Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11174,
-  "events": 36393,
+  "lens": 11199,
+  "events": 36418,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 478,
-  "flagged": 2436,
-  "lensed": 747
+  "queued": 453,
+  "flagged": 2453,
+  "lensed": 755
  },
  "last_harvests": [
   {
@@ -509,6 +509,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965995400",
+   "title": "Rings",
+   "price": 10,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/omaha-rings/77AbNdRX2i22gmSEq2DXoh",
+   "best": "Novi in rabljeni artikli naprodaj v kategoriji Rings ...",
+   "med": 17000,
+   "ratio": 1700,
+   "ai_value": ""
+  },
+  {
    "pid": "7977695499",
    "title": "Genuine Citrine & Silvertone Necklace",
    "price": 20,
@@ -528,6 +539,17 @@
    "best": "eBay",
    "med": 825,
    "ratio": 825,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954586207",
+   "title": "Plunder Designs Mesh Gold Tone Bracelet",
+   "price": 10,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-plunder-designs-mesh-gold-tone/73REptQXAAP1HUf2d6ukab",
+   "best": "Plunder Bracelet - Chunky Gold Mesh Stretch - | Mercari",
+   "med": 7350,
+   "ratio": 735,
    "ai_value": ""
   },
   {
@@ -1661,6 +1683,17 @@
    "best": "amuleta navajo - Spirit Bear - argint & gold filled - Robert ...",
    "med": 2100,
    "ratio": 42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950806808",
+   "title": "Vintage Gold tone black onyx ring",
+   "price": 25,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-gold-tone-black-onyx/1qBvU5sX6YxUg9X4uXkyv4",
+   "best": "NYJEWEL 14k Two Tone Gold Large Black Onyx 3ct Diamond Ring ...",
+   "med": 1038,
+   "ratio": 41.52,
    "ai_value": ""
   },
   {
@@ -2984,6 +3017,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982329749",
+   "title": "Multi charm necklace",
+   "price": 7,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/kechi-multi-charm-necklace/mizTrYykDNHEVvHSht7Chw",
+   "best": "Jessica Simpson Women's Charm Y Necklace - Walmart.com",
+   "med": 112,
+   "ratio": 16,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471663",
    "title": "Vintage 925/14k Gold Vermeil filigree Jade & Pearl Earrings",
    "price": 30,
@@ -4095,6 +4139,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981868160",
+   "title": "Vintage Oversized Watch Radio",
+   "price": 30,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/swedesboro-vintage-oversized-watch-radio/sKqaRfj4zncPwjnX4LELXN",
+   "best": "Men's 14K Omega Watch 1-WYYDAA | eBay",
+   "med": 319,
+   "ratio": 10.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7957510838",
    "title": "Vintage Glass Pitcher",
    "price": 10,
@@ -4697,6 +4752,17 @@
    "best": "Fashion Jewelry Earrings Brass And Purple Round ...",
    "med": 130,
    "ratio": 8.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978769280",
+   "title": "Antique Tibetan Dzi Amulet/Multi-Gemstone Statement Necklace.",
+   "price": 32,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-antique-tibetan-dzi/cYL5fqyx3aH9JhXWqf8DxN",
+   "best": "Buy Multicolor Vintage Asian African Glass & Pumtek Pyu ...",
+   "med": 277,
+   "ratio": 8.66,
    "ai_value": ""
   },
   {
@@ -6235,6 +6301,17 @@
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/rockville-swarovski-crystal-necklace-new/vCAfuH3LxDrw6XNMZrtxMK",
    "best": "dailybanglarkhabar.com",
+   "med": 85,
+   "ratio": 5.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934995740",
+   "title": "Narmi Bangle Watch Necklace and Bracelet all for $15",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-narmi-bangle-watch-necklace-and/5dq5HAmmpHoAYVaFJ4Qofw",
+   "best": "Vintage Donna Sharp Painted Clay Beaded Choker Necklace and ...",
    "med": 85,
    "ratio": 5.67,
    "ai_value": ""
@@ -9331,6 +9408,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953286592",
+   "title": "Vintage \"ANSON\" 3 piece cuff links set!",
+   "price": 10,
+   "area": "sierravista",
+   "url": "https://www.craigslist.org/view/d/hereford-vintage-anson-piece-cuff-links/4KQmC26VeBax1bhQ3tGrdL",
+   "best": "Masonic Cuff Link & Tie Clip Set Gold Tone Mason Tool ...",
+   "med": 34,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7979652030",
    "title": "Vintage Silvertone jumbo guitar & case",
    "price": 175,
@@ -9481,6 +9569,17 @@
    "url": "https://www.craigslist.org/view/d/burlington-seiko-watch/vks6knXTv9EykKNdrSRQF8",
    "best": "Seiko Kinetic Men's Sport 39mm Two-Tone Steel Black Dial ...",
    "med": 200,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982245902",
+   "title": "Vintage Acoma Pueblo Olla",
+   "price": 225,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-acoma-pueblo-olla/qxRHJqGTqsbHoVTsSF7GZz",
+   "best": "Sold at Auction: Mary Histia Acoma Painted Polychrome ...",
+   "med": 750,
    "ratio": 3.33,
    "ai_value": ""
   },
@@ -11505,6 +11604,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-bulova-accutron/qxXqcT5N9TfYtwZLafhTY2",
    "best": "eBay",
    "med": 520,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947796452",
+   "title": "Vintage Pearl & Green Stone Necklace",
+   "price": 48,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-pearl-green-stone/pVSjFZp36ZeFci9ZzgfArn",
+   "best": "Vintage Rice Pearl Necklace Green Chalcedony Marked R.O.C ...",
+   "med": 125,
    "ratio": 2.6,
    "ai_value": ""
   },
@@ -14380,6 +14490,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953477761",
+   "title": "vintage Remington fixed blade knife (pre-Dupont)",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/novato-vintage-remington-fixed-blade/cLRg8r4a9CEPzTwidE7qmR",
+   "best": "Vintage Remington DuPont RH 251 Fixed Blade Leather Handle ...",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7946412605",
    "title": "14k Gold Pendant",
    "price": 100,
@@ -14695,6 +14816,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-beautiful-antique-garnet-pearl/hcsmHxfsvne5v7Kr2ZPF7S",
    "best": "A timeless beauty \u2728 This vintage 14K yellow gold ring ...",
    "med": 895,
+   "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974603924",
+   "title": "Vintage Sterling silver earrings with cubic zirconia and black stones",
+   "price": 60,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-sterling-silver/6PzkEHSjzn5qTtRSXrzABh",
+   "best": "Vintage Hoop Earrings Sterling Silver 925 With Clear Stones ...",
+   "med": 110,
    "ratio": 1.83,
    "ai_value": ""
   },
@@ -19330,6 +19462,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980211518",
+   "title": "BRAND NEW Very Nice SkeletonWatch Leather Band",
+   "price": 25,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/winchester-brand-new-very-nice/xrX1rzDki66Aat5Sr4uWWo",
+   "best": "Ohsal Men's Skeleton Automatic Dress Watch Gold Case Brown ...",
+   "med": 28,
+   "ratio": 1.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7979462421",
    "title": "Custom handmade turquoise ring",
    "price": 65,
@@ -20657,6 +20800,17 @@
    "url": "https://www.craigslist.org/view/d/urbandale-huge-lot-of-19-earrings/9gr9N7Kddmn7q8uWmmCv2N",
    "best": "eBay",
    "med": 29,
+   "ratio": 0.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932048250",
+   "title": "New bracelet.",
+   "price": 40,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-new-bracelet/ghkvMj7diMXu1jhQpGTc9b",
+   "best": "7.25\u201d, Vintage Sterling Silver Handmade Bracelet, 925 Heart ...",
+   "med": 39,
    "ratio": 0.97,
    "ai_value": ""
   },
@@ -22575,6 +22729,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953477853",
+   "title": "vintage Murvi pocket knife folder 420 stainless",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/novato-vintage-murvi-pocket-knife/3XKPmLF7ZgnuWBbzVz4UbU",
+   "best": "Very Nice! Franklin Mint Wyatt Earp Collector Knife W ...",
+   "med": 36,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7960677090",
    "title": "Turquoise in sterling silver pendant",
    "price": 200,
@@ -22989,6 +23154,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-vintage-pocket-watch-rollie/qAS1Eyq6efQUx7oHfw2EVh",
    "best": "Vintage Swiss Made 17 Jewel Sharon Pocket Watch- Parts ...",
    "med": 50,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954166438",
+   "title": "Vintage Glass paperweight set of 2",
+   "price": 30,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/tewksbury-vintage-glass-paperweight-set/iMPUCkkAAULXbKQ3QeLdXN",
+   "best": "Vintage Fabrique Crystal Figural Apple Paperweight With Gold ...",
+   "med": 20,
    "ratio": 0.67,
    "ai_value": ""
   },
@@ -27278,6 +27454,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-boho-coin/6KCuyufiGHq2BNXGNdwmkh",
    "best": "Jan Michaels Vintage Feel Jewelry",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959290301",
+   "title": "Swiss Military Watch Hanowa Chronograph",
+   "price": 50,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/redlands-swiss-military-watch-hanowa/emBvB4Y7TT8ToaW96WeEVW",
+   "best": "Swiss Military by Hanowa,Swiss Soldier Chrono Kar\u00f3ra ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

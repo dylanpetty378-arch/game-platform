@@ -36391,3 +36391,28 @@
 {"ts":"2026-10-15T06:51:25Z","pid":"7954213052","stage":"lensed","run":"lensworker-20261015-0644","note":null,"data":{"med":61,"ratio":0.44,"mismatch":[]}}
 {"ts":"2026-10-15T06:51:35Z","pid":"7939561534","stage":"flagged","run":"lensworker-20261015-0644","note":"Lens names Kramer — title does not","data":{"med":165,"ratio":2.75,"mismatch":["Kramer"]}}
 {"ts":"2026-10-15T06:51:47Z","pid":"7953917620","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Gold — title does not","data":{"med":556,"ratio":9.27,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T06:51:59Z","pid":"7962396720","stage":"lensed","run":"lensworker-20261015-0648","note":null,"data":{"med":37,"ratio":3.7,"mismatch":[]}}
+{"ts":"2026-10-15T06:52:08Z","pid":"7965995400","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":17000,"ratio":1700,"mismatch":[]}}
+{"ts":"2026-10-15T06:52:18Z","pid":"7954586207","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":7350,"ratio":735,"mismatch":[]}}
+{"ts":"2026-10-15T06:52:25Z","pid":"7943794468","stage":"lensed","run":"lensworker-20261015-0648","note":null,"data":{"med":50,"ratio":2.5,"mismatch":[]}}
+{"ts":"2026-10-15T06:52:33Z","pid":"7954166438","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Apple, Gold — title does not","data":{"med":20,"ratio":0.67,"mismatch":["Apple","Gold"]}}
+{"ts":"2026-10-15T06:52:43Z","pid":"7953477853","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Franklin Mint — title does not","data":{"med":36,"ratio":0.72,"mismatch":["Franklin Mint"]}}
+{"ts":"2026-10-15T06:52:53Z","pid":"7932048250","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Silver — title does not","data":{"med":39,"ratio":0.97,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T06:53:02Z","pid":"7934995740","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Clay, Sharp — title does not","data":{"med":85,"ratio":5.67,"mismatch":["Clay","Sharp"]}}
+{"ts":"2026-10-15T06:53:09Z","pid":"7980211518","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Gold — title does not","data":{"med":28,"ratio":1.12,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T06:53:19Z","pid":"7949369188","stage":"lensed","run":"lensworker-20261015-0648","note":null,"data":{"med":42,"ratio":8.4,"mismatch":[]}}
+{"ts":"2026-10-15T06:53:29Z","pid":"7947796452","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":125,"ratio":2.6,"mismatch":[]}}
+{"ts":"2026-10-15T06:53:37Z","pid":"7950806808","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":1038,"ratio":41.52,"mismatch":[]}}
+{"ts":"2026-10-15T06:53:48Z","pid":"7959290301","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T06:53:56Z","pid":"7982245902","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":750,"ratio":3.33,"mismatch":[]}}
+{"ts":"2026-10-15T06:54:06Z","pid":"7981868160","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Omega — title does not","data":{"med":319,"ratio":10.63,"mismatch":["Omega"]}}
+{"ts":"2026-10-15T06:54:16Z","pid":"7953477761","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":95,"ratio":1.9,"mismatch":[]}}
+{"ts":"2026-10-15T06:54:23Z","pid":"7953286592","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Gold — title does not","data":{"med":34,"ratio":3.4,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T06:54:33Z","pid":"7973206722","stage":"lensed","run":"lensworker-20261015-0648","note":null,"data":{"med":26,"ratio":0.52,"mismatch":[]}}
+{"ts":"2026-10-15T06:54:43Z","pid":"7981192527","stage":"lensed","run":"lensworker-20261015-0648","note":null,"data":{"med":55,"ratio":0.28,"mismatch":[]}}
+{"ts":"2026-10-15T06:54:53Z","pid":"7974603924","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":110,"ratio":1.83,"mismatch":[]}}
+{"ts":"2026-10-15T06:55:03Z","pid":"7978769280","stage":"flagged","run":"lensworker-20261015-0648","note":null,"data":{"med":277,"ratio":8.66,"mismatch":[]}}
+{"ts":"2026-10-15T06:55:11Z","pid":"7932978071","stage":"lensed","run":"lensworker-20261015-0648","note":null,"data":{"med":32,"ratio":0.64,"mismatch":[]}}
+{"ts":"2026-10-15T06:55:21Z","pid":"7952571871","stage":"lensed","run":"lensworker-20261015-0648","note":null,"data":{"med":60,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-15T06:55:29Z","pid":"7982329749","stage":"flagged","run":"lensworker-20261015-0648","note":"Lens names Simpson — title does not","data":{"med":112,"ratio":16,"mismatch":["Simpson"]}}
+{"ts":"2026-10-15T06:55:39Z","pid":"7948161249","stage":"lensed","run":"lensworker-20261015-0648","note":null,"data":{"med":16,"ratio":0.89,"mismatch":[]}}
