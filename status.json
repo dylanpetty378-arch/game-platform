@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T22:23:15Z",
+ "updated": "2026-10-15T22:27:12Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 13099,
-  "events": 40292,
+  "lens": 13124,
+  "events": 40317,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 153,
-  "flagged": 3882,
-  "lensed": 1226
+  "queued": 128,
+  "flagged": 3897,
+  "lensed": 1236
  },
  "last_harvests": [
   {
@@ -894,6 +894,17 @@
    "best": "Vintage Cubic Zircon and Emerald 925 Sterling Silver Prong ...",
    "med": 4200,
    "ratio": 168,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950119885",
+   "title": "Gemstones for sale",
+   "price": 10,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-gemstones-for-sale/vhtF9v3pQMW3TsDSzATnwF",
+   "best": "Faceted gemstone and opal jar prices and deals",
+   "med": 1590,
+   "ratio": 159,
    "ai_value": ""
   },
   {
@@ -8509,6 +8520,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944543978",
+   "title": "Vintage McNees Mold 1228 Signed Ceramic Crochet Bowl Ruffled Edge",
+   "price": 30,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-mcnees-mold-1228/heTYEsUMhzE4dE31JhuMun",
+   "best": "Hand Made Rope Lace Pattern Porcelain Pottery Lidded Dish ...",
+   "med": 203,
+   "ratio": 6.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7956633740",
    "title": "Lots of 925 Silver Gold Dipped Rings",
    "price": 25,
@@ -9180,6 +9202,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983982431",
+   "title": "#38 Minnesota Viknings Daunte Culpepper signed",
+   "price": 65,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/rosemount-38-minnesota-viknings-daunte/rVCNgYixbDDqFYTX53BwCQ",
+   "best": "Autographed Brad Johnson Minnesota Vikings Photograph ...",
+   "med": 400,
+   "ratio": 6.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7980370188",
    "title": "Ceramic vases (two)",
    "price": 40,
@@ -9473,6 +9506,17 @@
    "url": "https://www.craigslist.org/view/d/colorado-springs-antique-match-keys/4N7ZTKrcXpks3b9WzWSGs3",
    "best": "Antique Cast Iron Match Holder | eBay",
    "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939532910",
+   "title": "Carved wooden statute",
+   "price": 25,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-carved-wooden-statute/6vqeEWhcBgsgL2F29CFENq",
+   "best": "African Maasai Sculpture Female Bust Hand carved Ebony | eBay",
+   "med": 150,
    "ratio": 6,
    "ai_value": ""
   },
@@ -11930,6 +11974,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943597421",
+   "title": "knives for sale, straight razors",
+   "price": 40,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/smyrna-knives-for-sale-straight-razors/kNtbEPMrRi3mRA9WagLkPG",
+   "best": "lot 10 vintage straight razors black devil W Engels Solingen ...",
+   "med": 175,
+   "ratio": 4.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7945456754",
    "title": "1903 Elgin 0pen Face Sidewinder",
    "price": 365,
@@ -13169,6 +13224,17 @@
    "url": "https://www.craigslist.org/view/d/nordland-handmade-wooden-dancing-figure/mNXZ81Ki4gZexQK6Mbys19",
    "best": "ANTIQUE! Shinta Art Bali Wood Sculpture Hand Carving ...",
    "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950557315",
+   "title": "Black & White Necklace & Earrings Vintage '50s",
+   "price": 15,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-black-white-necklace/6PRDJgDT3yfZpWy23rgBEF",
+   "best": "Vintage Jewelry Memory Wire Bracelet 2 Strand Necklace Set ...",
+   "med": 60,
    "ratio": 4,
    "ai_value": ""
   },
@@ -14614,6 +14680,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976066178",
+   "title": "Old violin",
+   "price": 100,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/manchester-township-old-violin/wv8YsJ3qCvCobk5ESvTPCe",
+   "best": "VINTAGE LAMBERTI VIOLIN 2006 model LV11 14 | eBay",
+   "med": 350,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -15116,6 +15193,17 @@
    "url": "https://www.craigslist.org/view/d/summerville-vintage-artmark-asian-faux/njfmi6LiBve71HoyK6aqSd",
    "best": "Vintage Asian Man and Woman Resin Sculptures, Ornately ...",
    "med": 100,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976071476",
+   "title": "Harlequin Vintage Turquoise Casserole with Lid",
+   "price": 45,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-harlequin-vintage/g2AbSHhvFVcPYTmdkUBUwN",
+   "best": "Fiestaware Harlequin Vintage Turquoise Sugar Bowl w/Lid HLC ...",
+   "med": 150,
    "ratio": 3.33,
    "ai_value": ""
   },
@@ -17430,6 +17518,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979582526",
+   "title": "Vintage USA Hand Vase",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-usa-hand-vase/7rG8UnPN4frHcrCgiaJoc6",
+   "best": "Vintage Original Nelson McCoy Hand Vase. | eBay",
+   "med": 69,
+   "ratio": 2.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7954408453",
    "title": "2-vintage ladies bulova 10k gold plated, needs serviced,watches.",
    "price": 40,
@@ -18449,6 +18548,17 @@
    "url": "https://www.craigslist.org/view/d/south-harrison-township-antique-cast/8Qm19BTAq6qNtHDEWvN2bY",
    "best": "eBay",
    "med": 190,
+   "ratio": 2.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969710522",
+   "title": "1987 Seagull Pewter Canada",
+   "price": 15,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-1987-seagull-pewter-canada/oENNeYFvgqdHcMukV7K8ut",
+   "best": "Vintage Norseland Sterling Silver - Etsy",
+   "med": 38,
    "ratio": 2.53,
    "ai_value": ""
   },
@@ -23656,6 +23766,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939733500",
+   "title": "BUTTERYFLY PIN / BROOCH",
+   "price": 10,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/peoria-butteryfly-pin-brooch/het42gn7FhYUJkfKnPv3Sk",
+   "best": "Liz Claiborne | Jewelry | Liz Claiborne Colorful Metallic ...",
+   "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -24653,6 +24774,17 @@
    "url": "https://www.craigslist.org/view/d/boise-elegant-blood-red-necklace/jUXo8VfPWWcR36tHYC2CoD",
    "best": "Women's Burnt Orange Lucite Bubble Oval Teardrop Pendant ...",
    "med": 20,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968435516",
+   "title": "Signed PREMIER DESIGNS \"Chiffon\" Yellow Orange Green Medallion Circle",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-signed-premier-designs-chiffon/q2QeLijY7HCzuo7C2DFsSs",
+   "best": "PREMIER DESIGNS Silver Tone Multicolor Checkerboard ...",
+   "med": 25,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -30487,6 +30619,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984142769",
+   "title": "Ladies Gucci watch",
+   "price": 150,
+   "area": "utica",
+   "url": "https://www.craigslist.org/view/d/whitesboro-ladies-gucci-watch/gyzAYXZ852nuEi5JYJ49w3",
+   "best": "Vintage Gucci 2000L Swiss Made Quartz Women Watch A251 ...",
+   "med": 170,
+   "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7944252343",
    "title": "Vintage Pottery Dashboard or Commuter \u201cNo-Spill\u201d Mug",
    "price": 25,
@@ -31198,6 +31341,17 @@
    "url": "https://www.craigslist.org/view/d/esko-vintage-wood-and-steel-snatch-block/vdgNz4Zg8eQWUXcWeW1swa",
    "best": "eBay",
    "med": 95,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983944586",
+   "title": "misc guitar gear",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/lynnwood-misc-guitar-gear/cxRyBFRxe36uaZzYxD9yeh",
+   "best": "Amazon.com: Wilkinson M Series Classic Tone Overwound Open ...",
+   "med": 43,
    "ratio": 1.07,
    "ai_value": ""
   },
@@ -32826,6 +32980,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-antique-scottish-victorian/o4VxKC4vgzhtvyRCtAz39h",
    "best": "Scottish carnelian agate - Gem",
    "med": 118,
+   "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935837742",
+   "title": "Epiphone By Gibson",
+   "price": 425,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/stow-epiphone-by-gibson/3aqgqQoWjKbKEmcNbejU52",
+   "best": "Epiphone By Gibson acoustic guitar pr300 | eBay",
+   "med": 399,
    "ratio": 0.94,
    "ai_value": ""
   },

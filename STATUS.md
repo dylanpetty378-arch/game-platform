@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T22:23:15Z
+# Refurbish status — 2026-10-15T22:27:12Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3882 |
-| lensed | 1226 |
+| flagged | 3897 |
+| lensed | 1236 |
 | queued/relens | 486 |
-| queued | 153 |
+| queued | 128 |
 | decided/kill | 125 |
 | decided/ask | 80 |
 | expired | 19 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 13099
-- events: 40292
+- lens: 13124
+- events: 40317
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -140,7 +140,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **decided/find** — Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possib |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (3882)
+## Flagged by Lens, waiting for photo review (3897)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -183,6 +183,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00z0z_fIwhtjT3lm5_0CI0hq_300x300.jpg" width="120"> | 7972979781 | $35 | boise | [BRIGHTON Meridian Petite Prime Bracelet](https://www.craigslist.org/view/d/boise-brighton-meridian-petite-prime/cN7nY6DFh2z9HUZS2GrkpW) | Brighton Meridian Petite Bracelet / eBay | 6200 | 177.14 |
 | <img src="https://images.craigslist.org/00808_kcbkA8EOezv_0t20CI_300x300.jpg" width="120"> | 7969480947 | $25 | austin | [Vintage Ornate Destressed White & Gold Tone Decora](https://www.craigslist.org/view/d/kyle-vintage-ornate-destressed-white/3cDrTDnKUaFKcYMzgdyztn) | Miller Studios Floral Chalkware Flowers Wall Hanging Green . | 4200 | 168 |
 | <img src="https://images.craigslist.org/00M0M_jt7cSWmOQAyz_0CI0oZ_300x300.jpg" width="120"> | 7946479602 | $25 | chicago | [Sterling Emerald and Cubic Zirconia Earrings](https://www.craigslist.org/view/d/chicago-sterling-emerald-and-cubic/tRnxsQMnaRDoj1aWJvETdJ) | Vintage Cubic Zircon and Emerald 925 Sterling Silver Prong . | 4200 | 168 |
+| <img src="https://images.craigslist.org/00L0L_c13VH1jELS_0CI0t2_300x300.jpg" width="120"> | 7950119885 | $10 | portland | [Gemstones for sale](https://www.craigslist.org/view/d/portland-gemstones-for-sale/vhtF9v3pQMW3TsDSzATnwF) | Faceted gemstone and opal jar prices and deals | 1590 | 159 |
 | <img src="https://images.craigslist.org/00J0J_auLMZV8wmTU_0t20CI_300x300.jpg" width="120"> | 7974651777 | $25 | seattle | [Vintage Sterling, Amethyst, and CZ Ring](https://www.craigslist.org/view/d/olympia-vintage-sterling-amethyst-and/dRRA4WB7vuiTzx6nNPmmv6) | eBay | 3790 | 151.6 |
 | <img src="https://images.craigslist.org/00v0v_ejBohGGyzg3_0ak07K_300x300.jpg" width="120"> | 7928661025 | $25 | sfbay | [Vintage 1955 Dodgers Giants Program](https://www.craigslist.org/view/d/san-francisco-vintage-1955-dodgers/wV5BHP6sEHbChffGkGHynz) | 8/27 1955 New York Giants vs Milwaukee Braves scored ... | 3603 | 144.12 |
 | <img src="https://images.craigslist.org/01111_iwlqBCed3Vs_0t20t2_300x300.jpg" width="120"> | 7947565852 | $75 | sfbay | [Elegant Pink Ruby and 925 Sterling Silver Cocktail](https://www.craigslist.org/view/d/pleasanton-elegant-pink-ruby-and-925/fYVfmnYD3ukvUjapBcTTU3) | Certified Natural Burma Ruby Cabochon 10ct Diamond 18k White | 10800 | 144 |
@@ -265,4 +266,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00v0v_aHBN53mpdQpz_0lG0t2_300x300.jpg" width="120"> | 7983863388 | $8 | boston | [RING! Sterling Crystal Rainbow Iridescent Gemstone](https://www.craigslist.org/view/d/braintree-ring-sterling-crystal-rainbow/i8iMWCoERerQE8BYkkZDiH) | Etsy | 474 | 59.25 |
 | <img src="https://images.craigslist.org/00V0V_ahQJdvWccWi_0CI0qs_300x300.jpg" width="120"> | 7983656892 | $10 | raleigh | [NC Pottery - Mildred Teague Baskets](https://www.craigslist.org/view/d/cary-nc-pottery-mildred-teague-baskets/dYzUmb3oU2YpXL1BNUDBt4) | Vintage 1953 Dutch Milk Maid Pitcher: Hand-painted Spring .. | 590 | 59 |
 | <img src="https://images.craigslist.org/01717_13vjesFP3PZ_08I05O_300x300.jpg" width="120"> | 7983913236 | $30 | tampa | [Citrine & sterling silver butterfly earring set](https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/sZRPtxyp2iasyzCrQEctfU) | Craigslist | 1750 | 58.33 |
-| <img src="https://images.craigslist.org/01414_BT5Kx5x5bc_08I068_300x300.jpg" width="120"> | 7983914865 | $30 | tampa | [Citrine & sterling silver dragonfly earring set](https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/1Q1F4JH3VFTtLFQWAQvwvw) | Natural Citrine Gemstone with 925 Sterling Silver Cufflink . | 1750 | 58.33 |
