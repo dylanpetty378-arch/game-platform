@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:16:27Z",
+ "updated": "2026-10-15T14:20:02Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11699,
-  "events": 37789,
+  "lens": 11724,
+  "events": 37814,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 753,
-  "flagged": 2845,
-  "lensed": 863
+  "queued": 728,
+  "flagged": 2868,
+  "lensed": 865
  },
  "last_harvests": [
   {
@@ -2895,6 +2895,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944837541",
+   "title": "Vintage 18K Yellow Gold-Plated Signed Diamonique Lion Ring Made in the",
+   "price": 100,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/keene-vintage-18k-yellow-gold-plated/nvBmQ1utRdVGexCyxneVB5",
+   "best": "14K Yellow Gold Lion Head 0.14ctw Diamond Eyes Mouth ...",
+   "med": 1960,
+   "ratio": 19.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7949021878",
    "title": "STUFF ASIAN METAL WARRIOR STATUARY",
    "price": 20,
@@ -2991,6 +3002,17 @@
    "best": "Craigslist",
    "med": 150,
    "ratio": 18.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930022389",
+   "title": "Vintage JC Penney Sterling Golden Pearl Earrings",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-jc-penney-sterling/odQNb6WbCwdkg6f6nJ2A86",
+   "best": "Golden South Sea Pearl Stud Earrings 8 mm Grade AAA+ 14k ...",
+   "med": 280,
+   "ratio": 18.67,
    "ai_value": ""
   },
   {
@@ -5381,6 +5403,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949750704",
+   "title": "Vintage ORA Rhinestone Art Deco Necklace",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-vintage-ora-rhinestone-art/hMWK25BbY7YBKGNDqaUy8w",
+   "best": "Craigslist",
+   "med": 129,
+   "ratio": 8.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7943910701",
    "title": "Vintage Oriental Group",
    "price": 35,
@@ -6510,6 +6543,17 @@
    "url": "https://www.craigslist.org/view/d/fairbanks-golden-days-pin-collection/fnuaYjqegUaM3vKJHw8E35",
    "best": "Lion Fraternal Organization Pins Various States | eBay",
    "med": 160,
+   "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950051178",
+   "title": "New Sterling Silver Earrings",
+   "price": 10,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-new-sterling-silver-earrings/cgAKhFVKxWQ4VnbJy1MP9t",
+   "best": "eBay",
+   "med": 64,
    "ratio": 6.4,
    "ai_value": ""
   },
@@ -8142,6 +8186,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929592770",
+   "title": "2 Panetta Sterling Rings size 7",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-panetta-sterling-rings-size/5dtNM5n7ZTpN7Evq37URLB",
+   "best": "Etsy",
+   "med": 72,
+   "ratio": 4.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7983614937",
    "title": "antique/vintage silver plated serving pieces",
    "price": 50,
@@ -9671,6 +9726,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945761626",
+   "title": "Sterling Silver Bracelet",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-silver-bracelet/kgw1CNJLPGKnqMmN41ymEz",
+   "best": "eBay",
+   "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -10360,6 +10426,17 @@
    "url": "https://www.craigslist.org/view/d/lansing-two-gold-plated-necklaces/c92BEM3TJrGtUKXMew9HhL",
    "best": "Gold Colored Chain Vintage Long Lightweight No Clasp ...",
    "med": 36,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945384694",
+   "title": "Poland Sterling Tie Clips",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-poland-sterling-tie-clips/vJ8v6YABCPhMWrWNecEMb2",
+   "best": "Vintage Celtic Swirl Sterling Silver 925 Amber Cabochon 7.3g ...",
+   "med": 90,
    "ratio": 3.6,
    "ai_value": ""
   },
@@ -14016,6 +14093,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983861162",
+   "title": "Vintage watch",
+   "price": 60,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/chesapeake-vintage-watch/2zZcTGhNrQupd2beyb547G",
+   "best": "Gem",
+   "med": 146,
+   "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7948676105",
    "title": "Rose Bud Clip-on Earings",
    "price": 12,
@@ -15743,6 +15831,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933603130",
+   "title": "11 Small Sterling Silver Rings",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-11-small-sterling-silver-rings/fD4mUt8wHuqeu8bCqwUGV2",
+   "best": "eBay",
+   "med": 31,
+   "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7954662609",
    "title": "Vintage Wooden Christmas Nutcrackers",
    "price": 125,
@@ -16454,6 +16553,17 @@
    "url": "https://www.craigslist.org/view/d/princeton-victorinox-womens-watch/pkzXvippQMciiQU1ujbxMv",
    "best": "Victorinox Swiss Army Alliance Large watch model 241322 ...",
    "med": 195,
+   "ratio": 1.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930029773",
+   "title": "Taxco Mexican Green Stone Sterling Necklace",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-taxco-mexican-green-stone/pWnV9CcNeQrqtGhjxAdADc",
+   "best": "Em's Boutique",
+   "med": 69,
    "ratio": 1.97,
    "ai_value": ""
   },
@@ -17580,6 +17690,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950051044",
+   "title": "Hammered Sterling Silver ring size 10",
+   "price": 45,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-hammered-sterling-silver/eyiD7byH2rnTt3i6aoAZ9y",
+   "best": "Etsy",
+   "med": 79,
+   "ratio": 1.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7953576739",
    "title": "Sterling Silver Whitney Kelly Pendant",
    "price": 40,
@@ -17730,6 +17851,17 @@
    "url": "https://www.craigslist.org/view/d/elk-grove-green-fostoria-beverly/hjAReYPQkP8sTZrituR3jh",
    "best": "Fostoria Beverly Green Depression Glass Champagne, Etched ...",
    "med": 35,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949334252",
+   "title": "Multiple Art pieces",
+   "price": 100,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/caldwell-multiple-art-pieces/376WRhRXYad9Z26FuKJotW",
+   "best": "eBay",
+   "med": 175,
    "ratio": 1.75,
    "ai_value": ""
   },
@@ -19776,6 +19908,17 @@
    "url": "https://www.craigslist.org/view/d/pompano-beach-vintage-taxco-sterling/qjCNZsECgzwbqqRzhJHTJr",
    "best": "eBay",
    "med": 89,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959071190",
+   "title": "Vintage 14\" Bansuri Folk Bamboo Flute",
+   "price": 50,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/augusta-vintage-14-bansuri-folk-bamboo/rsAtcpsn13ajZXe2tqzC5t",
+   "best": "Amazon.se",
+   "med": 74,
    "ratio": 1.48,
    "ai_value": ""
   },
@@ -22090,6 +22233,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938092563",
+   "title": "Sterling Butterfly Brooch",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-butterfly-brooch/eXdo24VMUVz8R4Ub9oFrTf",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -23010,6 +23164,17 @@
    "url": "https://www.craigslist.org/view/d/centreville-fashion-rhodium-hoop/kHMnUn1svMioADBKuudN14",
    "best": "1 1/2' Monet Braid Band Hoops Pierced Post Earrings Vintage ...",
    "med": 13,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955123486",
+   "title": "Sterling Silver Rings, Locket, Bracelets, Chains, Earrings",
+   "price": 89,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/wantagh-sterling-silver-rings-locket/jTHYxaQbK3G35XCG9Boeh4",
+   "best": "Midnight Sun",
+   "med": 96,
    "ratio": 1.08,
    "ai_value": ""
   },
@@ -24059,6 +24224,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7962651171",
+   "title": "Vintage Jars - Assorted set of 5",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-jars-assorted-set-of/rhr9pEsWRnNkyAcgz57ttm",
+   "best": "VTG Clear Milk Bottles Different Size Lot Of 5 PC Rowan ...",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931092984",
+   "title": "Sterling Silver Ring",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-ring/7uhnmDc8dmb2a7NvkYANyW",
+   "best": "Paz Creations",
+   "med": 40,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -24594,6 +24781,17 @@
    "url": "https://www.craigslist.org/view/d/stamford-hummel-century-collection/gH44UUHSovrDWv6fhvJMWm",
    "best": "eBay",
    "med": 320,
+   "ratio": 0.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933609904",
+   "title": "Vintage Alpaca Inlay Turquoise Dangle Earrings",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-alpaca-inlay-turquoise/bWQh8GNj2d1JiKyRR77d2Y",
+   "best": "eBay",
+   "med": 32,
    "ratio": 0.91,
    "ai_value": ""
   },
@@ -29394,6 +29592,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983833631",
+   "title": "Vintage Unworn London Blue Topaz Silver Bracelet Toggle Clasp",
+   "price": 95,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-vintage-unworn-london-blue/xvr5UfxWbUsfA7G2CHAtGN",
+   "best": "Craigslist",
+   "med": 32,
+   "ratio": 0.34,
+   "ai_value": ""
+  },
+  {
    "pid": "7955793164",
    "title": "6 Turquoise and green colored pendants",
    "price": 30,
@@ -29742,6 +29951,17 @@
    "url": "https://www.craigslist.org/view/d/durham-vintage-sign/ruaV2XDeGDqHyKhD9qiBEm",
    "best": "Concord Court Apartments | Sinking Spring PA",
    "med": 20,
+   "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953273383",
+   "title": "Cultured Pearl Sterling Silver Pendant",
+   "price": 120,
+   "area": "staugustine",
+   "url": "https://www.craigslist.org/view/d/saint-augustine-cultured-pearl-sterling/vVN7xbUGspszzfHLTXpRYV",
+   "best": "Soccer Ball 3D 925 Sterling Silver Pendant Fine Sports ...",
+   "med": 32,
    "ratio": 0.27,
    "ai_value": ""
   },
@@ -31776,6 +31996,39 @@
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/chicago-austrian-crystal-sterling/fn5sVhDgdvEXscjBKjBZKy",
    "best": "Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931792125",
+   "title": "Sterling silver garnet earrings",
+   "price": 25,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-garnet/83Rz1qXhjzQNGBXPBgceTF",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983850164",
+   "title": "Pocket Knifes vintage",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bellwood-pocket-knifes-vintage/cmJyQKvKLWjJq2h2wEVBwc",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953020984",
+   "title": "MORE BURIED TREASURES!",
+   "price": 99,
+   "area": "corpuschristi",
+   "url": "https://www.craigslist.org/view/d/corpus-christi-more-buried-treasures/9nRngNksCk95JmHBcdQddX",
+   "best": "Craigslist",
    "med": null,
    "ratio": null,
    "ai_value": ""
