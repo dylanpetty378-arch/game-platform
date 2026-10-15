@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T20:52:34Z",
+ "updated": "2026-10-15T20:56:15Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14608,
-  "lens": 12549,
-  "events": 39517,
+  "lens": 12574,
+  "events": 39542,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 9,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 703,
-  "flagged": 3469,
-  "lensed": 1088
+  "queued": 678,
+  "flagged": 3493,
+  "lensed": 1089
  },
  "last_harvests": [
   {
@@ -3218,6 +3218,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953714347",
+   "title": "Antique Moonstone Tennis Bracelet .925 Sterling",
+   "price": 175,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-antique-moonstone/4uNH89iVxHGG9NEyLbenuy",
+   "best": "Victorian Moonstone 15K Gold Bracelet. For Sale at Ruby Lane",
+   "med": 3695,
+   "ratio": 21.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7947970813",
    "title": "New Pink Pearl Bracelet in Original Box",
    "price": 88,
@@ -4095,6 +4106,17 @@
    "best": "Nextdoor",
    "med": 156,
    "ratio": 15.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942018608",
+   "title": "SUPER NICE VASES",
+   "price": 16,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/cincinnati-super-nice-vases/dUK9Ygwpc6QgenDaSW8fZ4",
+   "best": "eBay",
+   "med": 249,
+   "ratio": 15.56,
    "ai_value": ""
   },
   {
@@ -5880,6 +5902,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931963866",
+   "title": "Vintage Turquoise Nugget and Heishi 32\" Necklace",
+   "price": 250,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-turquoise-nugget-and/xs9aaHbwyrsGszRvZ4FqY5",
+   "best": "Garland's",
+   "med": 2500,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792374",
    "title": "Vintage WWII-Era Military Medal & Ribbon Collection",
    "price": 50,
@@ -6328,6 +6361,17 @@
    "best": "Antique Italian Turquoise Glass Vase With Silver Overlay ...",
    "med": 175,
    "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953970308",
+   "title": "Antique Turkish Copper Pot",
+   "price": 40,
+   "area": "nwct",
+   "url": "https://www.craigslist.org/view/d/bethel-antique-turkish-copper-pot/jYWQjbb3tmQQsNYczasp1F",
+   "best": "Vintage Copper Vessel/Pot/Container Hammered W/Handles 7 ...",
+   "med": 347,
+   "ratio": 8.68,
    "ai_value": ""
   },
   {
@@ -8201,6 +8245,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980370188",
+   "title": "Ceramic vases (two)",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-ceramic-vases-two/a4LGpBaGRYohpyFQNwfHzF",
+   "best": "Handcrafted Terracotta Vases or Planters, Large Vintage Clay ...",
+   "med": 245,
+   "ratio": 6.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7951672331",
    "title": "Vintage Set of 6 leather Coaster",
    "price": 18,
@@ -8539,6 +8594,17 @@
    "best": "Musician's Friend",
    "med": 588,
    "ratio": 5.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964014365",
+   "title": "Rhinestone Rose Necklace",
+   "price": 7,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buchanan-dam-rhinestone-rose-necklace/8D2HPCwaHp7hHttVi81uim",
+   "best": "1.63 Carat Round Cut Diamond Flower Pendant Free Chain ...",
+   "med": 41,
+   "ratio": 5.86,
    "ai_value": ""
   },
   {
@@ -10995,6 +11061,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937257598",
+   "title": "Vintage Original F. Holzer Signed Oil Painting, Framed Canvas Artwork",
+   "price": 65,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/glenview-vintage-original-holzer-signed/7NGMaVENnzYYqztZTdWUNv",
+   "best": "Nextdoor",
+   "med": 275,
+   "ratio": 4.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7946601588",
    "title": "FINE VINTAGE SERIGRAPH IN EARTH TONES \"REFLECTION LAKE\" WALTON BUTTS",
    "price": 45,
@@ -13195,6 +13272,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930768768",
+   "title": "Antique Chinese Vase",
+   "price": 145,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/walnut-antique-chinese-vase/n5CkdKsNhU7yqCE8YXhmfh",
+   "best": "Bonhams",
+   "med": 500,
+   "ratio": 3.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7954877341",
    "title": "Collection of Vintage Glass Mason Jars-Priced Individually",
    "price": 7,
@@ -14856,6 +14944,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948148788",
+   "title": "JTS Earrings in Sterling Silver",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/herndon-jts-earrings-in-sterling-silver/5btFHfsHRenv92oooo7kG8",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -15215,6 +15314,17 @@
    "url": "https://www.craigslist.org/view/d/fairfax-vintage-decorative-chinese/vH6UhnDseo5NgX932c7DtS",
    "best": "Vintage Chinese Celadon Pottery Reverse Flow Teapot | eBay",
    "med": 72,
+   "ratio": 2.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975557753",
+   "title": "Japanese Mandolin",
+   "price": 120,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/albany-japanese-mandolin/s4znaG51hTiqRMgSduCgE4",
+   "best": "eBay",
+   "med": 345,
    "ratio": 2.88,
    "ai_value": ""
   },
@@ -15853,6 +15963,17 @@
    "url": "https://www.craigslist.org/view/d/los-angeles-engagement-rings-lab/xiFUN4Zvq8bfDzW4bZtXpo",
    "best": "1ct Brilliant Moissanite Halo Engagement 14k White Gold Ring ...",
    "med": 808,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952109884",
+   "title": "Vintage 1930s Art Deco Dollar Watch quartz movement - VINTAGE",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-1930s-art-deco/tEWNVw79jzXNo5kw17GxER",
+   "best": "eBay",
+   "med": 54,
    "ratio": 2.7,
    "ai_value": ""
   },
@@ -16946,6 +17067,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969174020",
+   "title": "Painting - White Flowers",
+   "price": 30,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-painting-white-flowers/8oDrSTV9fUDnqfdJkfRE7Y",
+   "best": "Craigslist",
+   "med": 75,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952572829",
    "title": "VINTAGE 1950-60'S ELKORN GETZEN CLARINET",
    "price": 80,
@@ -17316,6 +17448,17 @@
    "url": "https://www.craigslist.org/view/d/austin-vintage-enamel-rose-brooch-pin/9wmx1h21indhRsy1247r7D",
    "best": "eBay",
    "med": 84,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953805541",
+   "title": "Watch Mens quartz with date",
+   "price": 20,
+   "area": "lascruces",
+   "url": "https://www.craigslist.org/view/d/las-cruces-watch-mens-quartz-with-date/fCyuHTHM2uVSd9AiskAn8b",
+   "best": "Craigslist",
+   "med": 48,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -19850,6 +19993,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942443441",
+   "title": "Vintage Jim Beam Bottles / Decanters",
+   "price": 20,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-vintage-jim-beam-bottles-decanters/ffz9gU9wokHQyvngSry9AC",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -20044,6 +20198,17 @@
    "url": "https://www.craigslist.org/view/d/dover-vintage-1950s-aurora-borealis/5UhsHxj4KvPcz5bzQSNdNN",
    "best": "Vintage Gold-plated Crystal Pendant Necklace \u2013 Y Drop Design ...",
    "med": 126,
+   "ratio": 1.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976072019",
+   "title": "Pearl & Amethyst Necklace - Vintage",
+   "price": 50,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-pearl-amethyst-necklace/oGBVNnLzR8RvbN9dDAZq3W",
+   "best": "Vintage Amethyst & Pearl Beaded Necklace | eBay",
+   "med": 97,
    "ratio": 1.94,
    "ai_value": ""
   },
@@ -21507,6 +21672,28 @@
    "url": "https://www.craigslist.org/view/d/islip-vintage-general-electric-daisy/1puyodSpbtEVwarEX4SoDM",
    "best": "eBay",
    "med": 70,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967611968",
+   "title": "Vintage Floral Porcelain Jewelry Set - Ring and Earrings",
+   "price": 20,
+   "area": "saltlakecity",
+   "url": "https://www.craigslist.org/view/d/midvale-vintage-floral-porcelain/eDYXAwrqKycKufLtne7EcX",
+   "best": "Vintage set Ohrringe Ring KETTE ANH\u00c4NGER Emaille ...",
+   "med": 35,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961940354",
+   "title": "Portrait",
+   "price": 100,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-portrait/aC6uU4mioyK9WRpnq22LXn",
+   "best": "Invaluable.com",
+   "med": 175,
    "ratio": 1.75,
    "ai_value": ""
   },
@@ -25339,6 +25526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974502476",
+   "title": "Vintage Goebel Berta Hummel Christmas Ornaments, Set of 12",
+   "price": 150,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-goebel-berta-hummel/azUrJcLgoyWmRrRPGQWNZM",
+   "best": "Beautiful Goebel Berta Hummel Collectible 15 Ornaments ...",
+   "med": 199,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -25425,6 +25623,17 @@
    "med": 250,
    "ratio": 1.32,
    "ai_value": "Sold at Auction: Four Roseville Pottery 'Dahlrose' Wares Out of stock $399"
+  },
+  {
+   "pid": "7953951448",
+   "title": "Betty boop stuff",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/geneva-betty-boop-stuff/93Q6t48ttptah44Sxi9Pyv",
+   "best": "Craigslist",
+   "med": 66,
+   "ratio": 1.32,
+   "ai_value": ""
   },
   {
    "pid": "7951388075",
@@ -29046,6 +29255,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947004057",
+   "title": "Collection of Gold/Silver Bangle Bracelets",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-collection-of-gold-silver-bangle/mY9Bp1DawjdNKefSRtZw9W",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -29658,6 +29878,17 @@
    "url": "https://www.craigslist.org/view/d/surprise-roseville-magnolia-tall-vase/cxjgmtSEHFd5an6x9kes2U",
    "best": "Buy Roseville Pottery 98-15 Magnolia 1943 Mid Century Green ...",
    "med": 115,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970367630",
+   "title": "Vintage Turquoise Lustreware African Violet Pot",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-vintage-turquoise-lustreware/9NgNnnvmnZQg5dzADwe5o1",
+   "best": "Craigslist",
+   "med": 23,
    "ratio": 0.92,
    "ai_value": ""
   },
@@ -32628,6 +32859,17 @@
    "url": "https://www.craigslist.org/view/d/santa-barbara-large-terracotta-urn/jm9aqNxvvYNj8zL3PEuCLd",
    "best": "Chairish",
    "med": 130,
+   "ratio": 0.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964561043",
+   "title": "Vintage Christmas",
+   "price": 100,
+   "area": "scranton",
+   "url": "https://www.craigslist.org/view/d/forest-city-vintage-christmas/2BRxUPK5E6JuyGFZ7iKH8j",
+   "best": "Etsy",
+   "med": 65,
    "ratio": 0.65,
    "ai_value": ""
   },
@@ -38644,6 +38886,28 @@
    "area": "littlerock",
    "url": "https://www.craigslist.org/view/d/jacksonville-kaufman-signed-large/mKT1RCcNtMetPMGeqrZnd1",
    "best": "Sandu Liberman Art for Sale: Available Works & Gallery Listings",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931230134",
+   "title": "Vintage 1950's Emenee Flamingo Ukulele",
+   "price": 100,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/deer-park-vintage-1950s-emenee-flamingo/42MpSTDCx5HdDmiMvNQ167",
+   "best": "Facebook",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978991541",
+   "title": "Signed watercolor by NW artist Carl Lauersen",
+   "price": 50,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-signed-watercolor-by-nw-artist/6jHnkcmYP51CHSAsLBfQLt",
+   "best": "Goodpasture Bridge, McKenzie River, Eugene, Industrial Litho ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
