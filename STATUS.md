@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T13:52:15Z
+# Refurbish status — 2026-10-15T14:10:59Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,14 +7,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2799 |
-| lensed | 859 |
-| queued | 803 |
+| flagged | 2820 |
+| lensed | 863 |
+| queued | 778 |
 | queued/relens | 485 |
-| decided/ask | 85 |
-| decided/kill | 40 |
-| expired | 17 |
+| decided/ask | 77 |
+| decided/kill | 49 |
 | photo_review/ask | 17 |
+| expired | 16 |
 | decided/find | 8 |
 | decided/bundle | 5 |
 | comps/fail | 5 |
@@ -23,11 +23,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 ## Tables
 
 - harvests: 14
-- searches: 3068
+- searches: 3295
 - listings: 13783
-- lens: 11649
-- events: 37668
-- comps: 2758
+- lens: 11674
+- events: 37704
+- comps: 2958
 - item_types: 893
 - runs: 0
 
@@ -39,7 +39,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - craigslist-20261015-0511 — 82709 listings, 81951 new, 800 queued
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 
-## Finds and open leads (93)
+## Finds and open leads (85)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -96,16 +96,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/01414_71zzhNZxyv4_0CI0t2_300x300.jpg" width="160"> | [MOST UNIQUE!!Vintage Nude Girl Lamp-Works Fine](https://www.craigslist.org/view/d/houston-most-uniquevintage-nude-girl/7o7Mmd8QnFU1EXjLq6gX8W) | $15 | houston | **decided/ask** — text-triage F3: Art Deco kneeling nude (bobbed hair, hands on hips) on stepped base, spelter/white metal with gold "art finish", ~7" with small bulb behind figure – the Frankart/Nuart form. Seller does not name a maker.  |
 | <img src="https://images.craigslist.org/00k0k_c2zlFPOtIFF_0CI0t2_300x300.jpg" width="160"> | [Vintage Old Costume Jewelry from 1950's to 1970's Nice](https://www.craigslist.org/view/d/sacramento-vintage-old-costume-jewelry/brPiTpjRkzK1vfQ3DN1Qcd) | $120 | sacramento | **decided/ask** — text-triage L3: Lot $120: tonneau-case Mickey Mouse watch with Mickey's arms as hands and "©WDP" on dial — 1947-50s Ingersoll/U.S. Time (seller says 1958, needs work), plus pair of antique cut-steel shoe buckles, carved  |
 | <img src="https://images.craigslist.org/00m0m_2SDGWP7u3CG_0CI0t2_300x300.jpg" width="160"> | [vintage microsecope](https://www.craigslist.org/view/d/la-crescenta-vintage-microsecope/ceoaYpUu4a51Ft5kSHzTDx) | $25 | losangeles | **decided/ask** — text-triage F1: Bausch & Lomb 'jug-handle' stand (black-japanned horseshoe foot, lacquered-brass coarse knob, c.1900-1920) at $25. Entry ladder: B&L black-and-brass 1900-30 $200-600, lab monocular $60-175 (general knowle |
-| <img src="https://images.craigslist.org/00S0S_1ZjAIjXyYCE_0t20t2_300x300.jpg" width="160"> | [Antique Leitz Brass Compound Monocular Microscope 11inches h](https://www.craigslist.org/view/d/los-angeles-antique-leitz-brass/nfnmRXMGyEhXLLrnUPcL6r) | $180 | losangeles | **decided/ask** — eye-first: E. Leitz Wetzlar No. 18204 (engraved on top lens per body), black-japanned horseshoe foot + lacquered brass tube/pillar, top-knob fine focus continental stand, c. 1888-1892 by serial. Entry ladder: black-and-b |
-| <img src="https://images.craigslist.org/00U0U_hPuFFJ39g2sz_0lj0t2_300x300.jpg" width="160"> | [BRONZE SCULPTURE FIGURINES Dancing Ballet Statue Ballerina 1](https://www.craigslist.org/view/d/floral-park-bronze-sculpture-figurines/ei57FMxzGftqDk4HuZV6Bb) | $79 | newyork | **decided/ask** — eye-first: 16in abstract brutalist/expressionist dancer, welded-cast metal with wire accents on black stone base, 5 photos show no signature. Likely unsigned 1970s decor (~$60-100 = no margin at $79 + ~10lb ship); ONLY w |
-| <img src="https://images.craigslist.org/00K0K_dDJwdjIgOlc_0t20CI_300x300.jpg" width="160"> | [Real civil war belt buckle](https://www.craigslist.org/view/d/kew-gardens-real-civil-war-belt-buckle/c1HJEBXyJ5JJforxR5rUNR) | $75 | newyork | **decided/ask** — eye-first: US oval belt plate (waist-belt size), stamped brass face, lead-filled back with two brass arrowhead hooks and one tongue/bar hook, which is the correct 1860s Model 1839/1863 construction. Reproductions copy th |
-| <img src="https://images.craigslist.org/00F0F_3l7aCLk7HO5_0CI0np_300x300.jpg" width="160"> | [Vintage Wooden Hunting Decoy Duck](https://www.craigslist.org/view/d/atlanta-vintage-wooden-hunting-decoy/iNq2vXn19tEp3nF3aiveXQ) | $10 | atlanta | **decided/ask** — eye-first: Working wood decoy, 12 in, glass eyes, screwed-on keel weight strip, original worn and crazed paint, separate dowelled head. Paint pattern is a black body and head with white crown/nape patches and a pale bill |
-| <img src="https://images.craigslist.org/00v0v_3jphpvZTYO8_0CI0t2_300x300.jpg" width="160"> | [Old Toy Trucks and Cars Vintage](https://www.craigslist.org/view/d/napa-old-toy-trucks-and-cars-vintage/kvwXQmx6VGQc7bYRfgbThU) | $20 | sfbay | **decided/ask** — eye-first: Big 1950s-60s collector toy lot, $20 is a placeholder ('call for info'). Seen across 8 photos: Smith-Miller-style cast-aluminum GMC cabover tractor-trailers (white cab with 'Miller' script, olive U.S. Army, si |
-| <img src="https://images.craigslist.org/00f0f_be8E5t0AQHB_0jm0pO_300x300.jpg" width="160"> | [2 Vintage duck decoys](https://www.craigslist.org/view/d/fruitland-vintage-duck-decoys/xzRAg8vzKbbCtwabESkSRA) | $150 | easternshore | **decided/ask** — eye-first: Pair of hollow?/solid wood working bluebill (scaup) drake decoys from Fruitland MD (Lower Eastern Shore -- Crisfield/Ward Bros country). Worn crazed paint looks original, dark head/breast/tail, light back. Unm |
-| <img src="https://images.craigslist.org/00a0a_2DkMVamSa9X_0xl0t2_300x300.jpg" width="160"> | [Old School Hip Hop Records](https://www.craigslist.org/view/d/huntington-beach-old-school-hip-hop/1gNp5Z4qpZNm6SuizvxZPe) | $5 | orangecounty | **decided/ask** — eye-first: Sealed original 1984-89 LA electro/rap 12in singles, Macola Record Co. deadstock, several copies of each. Photos show: The Arabian Prince 'It Ain't Tough' (Rapsur RP 10005; Arabian Prince was a founding NWA me |
-| <img src="https://images.craigslist.org/00X0X_d8xVWqasg9a_0rY0t2_300x300.jpg" width="160"> | [Captain Beefheart Magic Band Trout Mask Replica vinyl record](https://www.craigslist.org/view/d/orange-captain-beefheart-magic-band/e49uH9xteE1sC1w5XUu8ab) | $100 | orangecounty | **decided/ask** — eye-first: Captain Beefheart Trout Mask Replica 2LP, pink Straight label 2 STS 1053 (1969 US original, not the Reprise reissue). At $100 needs ~$250 resale; no comp. Ask: gatefold cover condition, vinyl grade, inner slee |
-| <img src="https://images.craigslist.org/00w0w_6PuOTd4Dcqr_0hq0nt_300x300.jpg" width="160"> | [Vintage Scholastic 65 Graduation pendant / charm](https://www.craigslist.org/view/d/natick-vintage-scholastic-65-graduation/boy2qCoAC6e94kPsLkkedq) | $12 | boston | **decided/ask** — eye-first: 1965 class-year scroll charm ('65' plaque with scroll ends, coiled bail; 'Scholastic' style), seller calls it gold-tone but back/bail shows no visible mark at photo resolution. Class charms of this form were c |
-| <img src="https://images.craigslist.org/01010_fzGsR5mWhMi_0CI0dN_300x300.jpg" width="160"> | [Champagne capsules](https://www.craigslist.org/view/d/san-luis-obispo-champagne-capsules/wRRmKofxWqqv5x7ixrJBSc) | $5 | slo | **decided/ask** — eye-first: About 180 champagne capsules (plaques de muselet), collected in the early-1980s LA sommelier trade, about 90% different; visible Moet, Mumm and coloured/portrait caps; the seller mentions 'rare ones from the T |
+| <img src="https://images.craigslist.org/00F0F_3l7aCLk7HO5_0CI0np_300x300.jpg" width="160"> | [Vintage Wooden Hunting Decoy Duck](https://www.craigslist.org/view/d/atlanta-vintage-wooden-hunting-decoy/iNq2vXn19tEp3nF3aiveXQ) | $10 | atlanta | **decided/ask** — Terapeak 365d: Wood surf scoter decoys median $270 (n=2, thin). At $10: ~$195 profit if original paint/glass eyes. Ask for bottom brands + neck joint. |
+| <img src="https://images.craigslist.org/00v0v_3jphpvZTYO8_0CI0t2_300x300.jpg" width="160"> | [Old Toy Trucks and Cars Vintage](https://www.craigslist.org/view/d/napa-old-toy-trucks-and-cars-vintage/kvwXQmx6VGQc7bYRfgbThU) | $20 | sfbay | **decided/ask** — Terapeak 365d: Smith-Miller GMC tractor-trailers median $175 (n=50, p75 $225); Thimble Drome tether cars median $100 (n=49, p75 $191). 3 Smith-Miller + 4 tether cars ≈ $900+ if originals. Ask per-item prices + underside  |
 | <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/29/Items/2026-09-20/f7f04208-5c70-44a6-bed0-b683eef9920boung_0920t1.jpeg_300x300.jpg" width="160"> | [Vintage Old Man Portrait Mina Moiseyev 1882 Print](https://shopgoodwill.com/item/279590271) | $9.99 | seller 29 | **decided/ask** — golden-egg review: Hand-painted oil on hardboard (~12x9) copy of Ivan Kramskoi's 'Mina Moiseyev' (1882, State Russian Museum), signed 'N. Ivanov' upper left; listing wrongly calls it a print — Mislisted as 'Licensed Repr |
 |  | [](None) | $None | None | **decided/ask** — estate-sale golden-egg review: Disney Sleeping Beauty (1959) production cel of Flora, Fauna and Merryweather, Art Corner-style mat — Turn over: look for gold Disneyland Art Corner sticker on back of mat; confirm hand-pai |
 |  | [](None) | $None | None | **decided/ask** — estate-sale golden-egg review: Bubble Up 'kiss of lemon, kiss of lime' lighted bubble-glass advertising wall clock (Pam-style, c.1950s-60s) — Check back for Pam Clock Co. (New Rochelle NY) label, that it lights and runs, |
@@ -137,7 +129,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2799)
+## Flagged by Lens, waiting for photo review (2820)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 

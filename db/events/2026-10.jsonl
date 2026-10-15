@@ -37677,3 +37677,28 @@
 {"pid":"7982912178","stage":"decided","status":"kill","note":"Terapeak 365d: Loose 1979 Boba Fett median $40 (n=49); lot ~$55 → ~$18 profit.","run":"tp-asks-20261015","by":"claude","ts":"2026-10-15T14:01:06Z"}
 {"pid":"7944072645","stage":"decided","status":"kill","note":"Terapeak 365d: No sold comps for 10K class charms; ~2 g melt only.","run":"tp-asks-20261015","by":"claude","ts":"2026-10-15T14:01:06Z"}
 {"pid":"7954908412","stage":"decided","status":"kill","note":"Terapeak 365d: Brutalist dancer sculptures median $40 (n=19).","run":"tp-asks-20261015","by":"claude","ts":"2026-10-15T14:01:06Z"}
+{"ts":"2026-10-15T14:07:16Z","pid":"7939841543","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Jewelry — title does not","data":{"med":15,"ratio":1.5,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T14:07:24Z","pid":"7932236244","stage":"lensed","run":"lensworker-20261015-1352","note":null,"data":{"med":42,"ratio":0.28,"mismatch":[]}}
+{"ts":"2026-10-15T14:07:36Z","pid":"7951201642","stage":"flagged","run":"lensworker-20261015-1352","note":null,"data":{"med":110,"ratio":1.47,"mismatch":[]}}
+{"ts":"2026-10-15T14:07:43Z","pid":"7981110498","stage":"flagged","run":"lensworker-20261015-1352","note":null,"data":{"med":190,"ratio":1.27,"mismatch":[]}}
+{"ts":"2026-10-15T14:07:51Z","pid":"7933352278","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Native, Navajo — title does not","data":{"med":186,"ratio":4.13,"mismatch":["Native","Navajo"]}}
+{"ts":"2026-10-15T14:08:00Z","pid":"7983841632","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Enamel — title does not","data":{"med":301,"ratio":4.63,"mismatch":["Enamel"]}}
+{"ts":"2026-10-15T14:08:10Z","pid":"7968492672","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Accessories, Gold, Jewelry, School — title does not","data":{"med":38,"ratio":1.52,"mismatch":["Accessories","Gold","Jewelry","School"]}}
+{"ts":"2026-10-15T14:08:18Z","pid":"7948003483","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Elgin, Gold, Illinois, Waltham — title does not","data":{"med":230,"ratio":2.3,"mismatch":["Elgin","Gold","Illinois","Waltham"]}}
+{"ts":"2026-10-15T14:08:27Z","pid":"7941935265","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Cable, Jewelry, Silver, Tiffany — title does not","data":{"med":370,"ratio":4.35,"mismatch":["Cable","Jewelry","Silver","Tiffany"]}}
+{"ts":"2026-10-15T14:08:35Z","pid":"7941935224","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Mexican, Silver, Tiffany — title does not","data":{"med":289,"ratio":3.4,"mismatch":["Mexican","Silver","Tiffany"]}}
+{"ts":"2026-10-15T14:08:43Z","pid":"7931374944","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Size — title does not","data":{"med":90,"ratio":0.37,"mismatch":["Size"]}}
+{"ts":"2026-10-15T14:08:50Z","pid":"7931945913","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Gold — title does not","data":{"med":120,"ratio":1.35,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T14:08:58Z","pid":"7983862989","stage":"flagged","run":"lensworker-20261015-1352","note":null,"data":{"med":70,"ratio":3.5,"mismatch":[]}}
+{"ts":"2026-10-15T14:09:06Z","pid":"7931331501","stage":"flagged","run":"lensworker-20261015-1352","note":null,"data":{"med":1495,"ratio":33.22,"mismatch":[]}}
+{"ts":"2026-10-15T14:09:17Z","pid":"7983836274","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Blue Ridge, Native, Navajo — title does not","data":{"med":650,"ratio":2.36,"mismatch":["Blue Ridge","Native","Navajo"]}}
+{"ts":"2026-10-15T14:09:27Z","pid":"7931995120","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Washburn — title does not","data":{"med":213,"ratio":0.43,"mismatch":["Washburn"]}}
+{"ts":"2026-10-15T14:09:36Z","pid":"7953295940","stage":"lensed","run":"lensworker-20261015-1352","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T14:09:44Z","pid":"7956355229","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Native, Zuni — title does not","data":{"med":170,"ratio":1.7,"mismatch":["Native","Zuni"]}}
+{"ts":"2026-10-15T14:09:51Z","pid":"7947322108","stage":"lensed","run":"lensworker-20261015-1352","note":null,"data":{"med":20,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-15T14:09:58Z","pid":"7935069734","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Jewelry — title does not","data":{"med":84,"ratio":5.6,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T14:10:05Z","pid":"7954489837","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Silver — title does not","data":{"med":40,"ratio":2.67,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T14:10:13Z","pid":"7976406654","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Gold — title does not","data":{"med":480,"ratio":19.2,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T14:10:22Z","pid":"7983854052","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Zinc — title does not","data":{"med":95,"ratio":9.5,"mismatch":["Zinc"]}}
+{"ts":"2026-10-15T14:10:29Z","pid":"7954340473","stage":"lensed","run":"lensworker-20261015-1352","note":null,"data":{"med":62,"ratio":1.24,"mismatch":[]}}
+{"ts":"2026-10-15T14:10:36Z","pid":"7949374427","stage":"flagged","run":"lensworker-20261015-1352","note":"Lens names Jewelry, Native — title does not","data":{"med":108,"ratio":3.09,"mismatch":["Jewelry","Native"]}}

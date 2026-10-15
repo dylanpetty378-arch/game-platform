@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-15T13:52:15Z",
+ "updated": "2026-10-15T14:10:59Z",
  "tables": {
   "harvests": 14,
-  "searches": 3068,
+  "searches": 3295,
   "listings": 13783,
-  "lens": 11649,
-  "events": 37668,
-  "comps": 2758,
+  "lens": 11674,
+  "events": 37704,
+  "comps": 2958,
   "item_types": 893,
   "runs": 0
  },
@@ -14,16 +14,16 @@
   "photo_review/kill": 8880,
   "comps/pass": 1,
   "queued/relens": 485,
-  "decided/ask": 85,
+  "decided/ask": 77,
   "decided/bundle": 5,
-  "decided/kill": 40,
-  "expired": 17,
+  "decided/kill": 49,
+  "expired": 16,
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 803,
-  "flagged": 2799,
-  "lensed": 859
+  "queued": 778,
+  "flagged": 2820,
+  "lensed": 863
  },
  "last_harvests": [
   {
@@ -2026,6 +2026,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931331501",
+   "title": "Signed / Numbered Vintage Black Americana Young Man Print",
+   "price": 45,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/hampton-signed-numbered-vintage-black/65SwvvqF45eqSAeqSmxVuu",
+   "best": "Everett Raymond Kinstler | Katherine Hepburn (1985) | MutualArt",
+   "med": 1495,
+   "ratio": 33.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7952605223",
    "title": "Beautiful sterling silver bracelet marked 925",
    "price": 50,
@@ -2903,6 +2914,17 @@
    "best": "Filigree Earrings Gold Dangle, Vintage Diamond Drop Earrings ...",
    "med": 308,
    "ratio": 19.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976406654",
+   "title": "Ladies Sterling Silver Earrings",
+   "price": 25,
+   "area": "littlerock",
+   "url": "https://www.craigslist.org/view/d/roland-ladies-sterling-silver-earrings/qXZLcSRkBWC7GcpaMQBnyL",
+   "best": "Craigslist",
+   "med": 480,
+   "ratio": 19.2,
    "ai_value": ""
   },
   {
@@ -5029,6 +5051,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983854052",
+   "title": "Jewelry",
+   "price": 10,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/oklahoma-city-jewelry/jkqsYUdUwSMg8wzrHVY3D4",
+   "best": "2pcs earrings 1pc necklace womens fashion bohemian geometric ...",
+   "med": 95,
+   "ratio": 9.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7943859512",
    "title": "Vintage Christmas Pixie Elf",
    "price": 29,
@@ -7152,6 +7185,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935069734",
+   "title": "Four Vintage Gold Tone Brooches",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/islip-four-vintage-gold-tone-brooches/mU7H6mtJeWN44t6Fo5FqpJ",
+   "best": "Standing Lady / Saleswoman Brooch (top center): A gold-tone figural brooch depicting a stylish standing woman ",
+   "med": 84,
+   "ratio": 5.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7951903384",
    "title": "vintage BUTTERFLY Brooch",
    "price": 7,
@@ -8197,6 +8241,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983841632",
+   "title": "2 STERLING Silver Religious Chains and Charms",
+   "price": 65,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bellwood-sterling-silver-religious/6kCz1P3wxRcFmQdzWgXMjt",
+   "best": "eBay",
+   "med": 301,
+   "ratio": 4.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7983186774",
    "title": "4 Peter Max Lithographs Hearts signed numbered",
    "price": 325,
@@ -8659,6 +8714,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941935265",
+   "title": "Vintage Sterling AV 925 Toggle Heart Bracelet",
+   "price": 85,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/nashua-vintage-sterling-av-925-toggle/8UCrS8kWFXxqdu1pkuoQnV",
+   "best": "eBay",
+   "med": 370,
+   "ratio": 4.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7954787701",
    "title": "Chinese Porcelain Vase - signed",
    "price": 35,
@@ -9117,6 +9183,17 @@
    "url": "https://www.craigslist.org/view/d/marina-del-rey-limited-addition/g5YzzEd8aVMJJH9W83adTw",
    "best": "Framed Art Print Dublin Ireland Leeson Bridge Guesthouse ...",
    "med": 165,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933352278",
+   "title": "VINTAGE STERLING SILVER TURQUOISE BUTTERFLY PIN",
+   "price": 45,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/new-paltz-vintage-sterling-silver/raMLzjWNsYjLj8cGMtBfqX",
+   "best": "Etsy",
+   "med": 186,
    "ratio": 4.13,
    "ai_value": ""
   },
@@ -10441,6 +10518,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983862989",
+   "title": "Vintage Wedgwood Cameo Brooch",
+   "price": 20,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/phoenixville-vintage-wedgwood-cameo/wUbS3Q9t5HiiZUJCgxiSYv",
+   "best": "Etsy",
+   "med": 70,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -10635,6 +10723,17 @@
    "url": "https://www.craigslist.org/view/d/san-marcos-michele-baratta-925-sterling/msoady5ZHhZmo1AiojnsLy",
    "best": "Barry Kieselstein Cord 1996 925 Silver Heart Pendant Link ...",
    "med": 595,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941935224",
+   "title": "Vintage Sterling AV 925 Toggle Heart Bracelet",
+   "price": 85,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/nashua-vintage-sterling-av-925-toggle/mfYUVREde3YtVmV9ctgbm3",
+   "best": "eBay",
+   "med": 289,
    "ratio": 3.4,
    "ai_value": ""
   },
@@ -11438,6 +11537,17 @@
    "url": "https://www.craigslist.org/view/d/apollo-hummel-style-vintage-erich/gy5zbYehC2npQqPne1GwBK",
    "best": "Craigslist",
    "med": 170,
+   "ratio": 3.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949374427",
+   "title": "Sterling Silver Pendant Brooch",
+   "price": 35,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/munroe-falls-sterling-silver-pendant/3YrJTdC6VrDprdqV8FoNpN",
+   "best": "Poshmark",
+   "med": 108,
    "ratio": 3.09,
    "ai_value": ""
   },
@@ -12905,6 +13015,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954489837",
+   "title": "Vintage W Germany Marcasite Pin Brooch 2\u201d",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-vintage-germany-marcasite/bZ7ZC6vtmzRPG8oPrB1qps",
+   "best": "Curled Feather, Vintage Large Brooch. - Etsy",
+   "med": 40,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7936456409",
    "title": "14k gold filled 35 grams chain",
    "price": 395,
@@ -14060,6 +14181,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983836274",
+   "title": "Vintage Unworn Sterling Silver Turquoise Dragonfly Pendant",
+   "price": 275,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/port-angeles-vintage-unworn-sterling/9NRp9WRhJM5AdFq9cy9KQ4",
+   "best": "Turquoise Network",
+   "med": 650,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7948270211",
    "title": "Vintage Arrow Express Train",
    "price": 40,
@@ -14452,6 +14584,17 @@
    "url": "https://www.craigslist.org/view/d/diamond-bar-vintage-lp-bongos-fiberglass/fNXaSgiejATBMNoUN8DJX2",
    "best": "Latin Percussion LP-JRX-DW Junior Wood Conga Set w/ Comfort ...",
    "med": 690,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948003483",
+   "title": "Princeton 6 jewel pocket watch",
+   "price": 100,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/attica-princeton-jewel-pocket-watch/uStXiJ5Mn7RdA9XZZgU8tw",
+   "best": "Vintage 1930s 14k White Gold Waltham Open Face Pocket Watch ...",
+   "med": 230,
    "ratio": 2.3,
    "ai_value": ""
   },
@@ -17679,6 +17822,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956355229",
+   "title": "VINTAGE STERLING SILVER CUFFLINKS:AZTEC BIRD DESIGN",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/bloomingdale-vintage-sterling-silver/uKgUfiUQPtZj3qKM1DnvTp",
+   "best": "Vintage 1940s Zuni Bird Cufflinks - Sterling Silver Native ...",
+   "med": 170,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7967127546",
    "title": "925 Sterling Silver Unisex 16.5\" Choker 19.22g",
    "price": 49,
@@ -18856,6 +19010,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968492672",
+   "title": "Large lot of rings",
+   "price": 25,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/waianae-large-lot-of-rings/6CMsf4bnUf9H8Bp9K8nQsm",
+   "best": "eBay",
+   "med": 38,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
    "pid": "7950454675",
    "title": "Elgin Silver Big Antique POCKET WATCH \u231a",
    "price": 199,
@@ -19329,6 +19494,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939841543",
+   "title": "Necklace - vintage Avon",
+   "price": 10,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/glenmont-necklace-vintage-avon/tWQ7Xv6sApuaA4uWB6SF1L",
+   "best": "Craigslist",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -19501,6 +19677,17 @@
    "url": "https://www.craigslist.org/view/d/plainfield-diamond-gold-band/cdxSDFVwEBvxdvV173A2fU",
    "best": "Similar Items to Diamond Encrusted Wide Band Ring, Open ...",
    "med": 675,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951201642",
+   "title": "VINTAGE-THE KINDU COLLECTION VASES",
+   "price": 75,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-vintage-the-kindu-collection/eGwzbWnL6sEjo2dfiXd6uD",
+   "best": "eBay",
+   "med": 110,
    "ratio": 1.47,
    "ai_value": ""
   },
@@ -20253,6 +20440,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931945913",
+   "title": "Mickey Mouse Pocket Watch",
+   "price": 89,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/san-antonio-mickey-mouse-pocket-watch/npxngdDRrGoZ9kSW26fZpp",
+   "best": "eBay",
+   "med": 120,
+   "ratio": 1.35,
+   "ai_value": "Sold at Auction: Lot of 3 Mickey Mouse Pocket Watches $120"
+  },
+  {
    "pid": "7949234609",
    "title": "Sterling Silver 1 3/4\u201d Hoop Earrings",
    "price": 30,
@@ -20876,6 +21074,17 @@
    "url": "https://www.craigslist.org/view/d/denver-schrade-old-timer-knife-340t/b9vfvvBiGvQSyQknQqTmLG",
    "best": "Craigslist",
    "med": 38,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981110498",
+   "title": "ANTIQUE POCKET WATCH",
+   "price": 150,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/alden-antique-pocket-watch/8k2bKbZRNyNk7uEtxXpiPC",
+   "best": "Belle Suisse - Locomotive Pocket Watch - Embossed with Chain ...",
+   "med": 190,
    "ratio": 1.27,
    "ai_value": ""
   },
@@ -28415,6 +28624,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931995120",
+   "title": "Antique Mandolin",
+   "price": 500,
+   "area": "terrehaute",
+   "url": "https://www.craigslist.org/view/d/brazil-antique-mandolin/c85kwaXQ4v9CWFCLmrLFFc",
+   "best": "eBay",
+   "med": 213,
+   "ratio": 0.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7983222369",
    "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
    "price": 38,
@@ -28763,6 +28983,17 @@
    "url": "https://www.craigslist.org/view/d/burlington-pandora-gift-set/perzPDdoitfSSF7ijyCREh",
    "best": "eBay",
    "med": 35,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931374944",
+   "title": "Antique Art Nouveau Ring Sterling Silver Boxed",
+   "price": 245,
+   "area": "carbondale",
+   "url": "https://www.craigslist.org/view/d/menard-antique-art-nouveau-ring/tTBGqBdkSnnZyyv4zKvp2S",
+   "best": "eBay UK",
+   "med": 90,
    "ratio": 0.37,
    "ai_value": ""
   },
@@ -31807,42 +32038,12 @@
    "status": "ask"
   },
   {
-   "pid": "7946602969",
-   "title": "Antique Leitz Brass Compound Monocular Microscope 11inches high",
-   "price": 180,
-   "area": "losangeles",
-   "url": "https://www.craigslist.org/view/d/los-angeles-antique-leitz-brass/nfnmRXMGyEhXLLrnUPcL6r",
-   "note": "eye-first: E. Leitz Wetzlar No. 18204 (engraved on top lens per body), black-japanned horseshoe foot + lacquered brass tube/pillar, top-knob fine focus continental stand, c. 1888-1892 by serial. Entry ladder: black-and-brass Leitz $200-600. At $180 asking it needs resale >= ~$470, so it fails unless at least two objectives and a case come with it. Ask: (1) how many objectives, and photos of their engravings (Leitz '3', '7', oil immersion '1/12'); (2) eyepiece present?; (3) any wooden case; (4) will they ship to TX, or take $100 (at $100, resale of ~$290 clears it). Local pickup only, cash, Wes",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7954908412",
-   "title": "BRONZE SCULPTURE FIGURINES Dancing Ballet Statue Ballerina 16\" Tall",
-   "price": 79,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/floral-park-bronze-sculpture-figurines/ei57FMxzGftqDk4HuZV6Bb",
-   "note": "eye-first: 16in abstract brutalist/expressionist dancer, welded-cast metal with wire accents on black stone base, 5 photos show no signature. Likely unsigned 1970s decor (~$60-100 = no margin at $79 + ~10lb ship); ONLY worth it if a signature/foundry mark exists. Ask: photo of base underside and the foot/plinth area for an incised signature, date or foundry stamp; is it bronze (non-magnetic) or iron/spelter?",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7969671453",
-   "title": "Real civil war belt buckle",
-   "price": 75,
-   "area": "newyork",
-   "url": "https://www.craigslist.org/view/d/kew-gardens-real-civil-war-belt-buckle/c1HJEBXyJ5JJforxR5rUNR",
-   "note": "eye-first: US oval belt plate (waist-belt size), stamped brass face, lead-filled back with two brass arrowhead hooks and one tongue/bar hook, which is the correct 1860s Model 1839/1863 construction. Reproductions copy this exactly, and the bright crystalline 'spangled' lead in photos 2-3 is a common tell of a modern recast; originals usually show dull, smooth grey oxidized lead and wear at the hooks. Ask: exact size (3.5 x 2.2 in large vs 2.75 in small), any maker stamp on the hooks or lead (e.g., 'BOYD', 'J.H. SMITH'), and the source/provenance (dug or family). Buy only if the lead is dull an",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
    "pid": "7967850966",
    "title": "Vintage Wooden Hunting Decoy Duck",
    "price": 10,
    "area": "atlanta",
    "url": "https://www.craigslist.org/view/d/atlanta-vintage-wooden-hunting-decoy/iNq2vXn19tEp3nF3aiveXQ",
-   "note": "eye-first: Working wood decoy, 12 in, glass eyes, screwed-on keel weight strip, original worn and crazed paint, separate dowelled head. Paint pattern is a black body and head with white crown/nape patches and a pale bill, which reads as a SURF SCOTER (New England sea-duck decoy) rather than a generic 'duck' as the seller calls it. A coastal scoter brings more than the $80 unmarked-decoy median. Ask: any brand, initials or stamp on the bottom board or under the keel weight; the state/region it came from; whether the head is original (photo of the dowel joint). Unmarked at the $80 median it fail",
+   "note": "Terapeak 365d: Wood surf scoter decoys median $270 (n=2, thin). At $10: ~$195 profit if original paint/glass eyes. Ask for bottom brands + neck joint.",
    "stage": "decided",
    "status": "ask"
   },
@@ -31852,57 +32053,7 @@
    "price": 20,
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/napa-old-toy-trucks-and-cars-vintage/kvwXQmx6VGQc7bYRfgbThU",
-   "note": "eye-first: Big 1950s-60s collector toy lot, $20 is a placeholder ('call for info'). Seen across 8 photos: Smith-Miller-style cast-aluminum GMC cabover tractor-trailers (white cab with 'Miller' script, olive U.S. Army, silver Mack with blue fenders) - Smith-Miller is the upper tier per entry; 4 tether/spindizzy race cars (#3 red marked 'TORNADO RACER', yellow #5 with engine, red #8, black #50); Japanese tin litho friction racer #98 with driver; blue #31 hot-rod roadster; boxed modern reissues (Thimble Drome Champion, Real McCoy Midget Racer, Rodzy Standard - repro boxes, lower value); Tonka/Str",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7964567391",
-   "title": "2 Vintage duck decoys",
-   "price": 150,
-   "area": "easternshore",
-   "url": "https://www.craigslist.org/view/d/fruitland-vintage-duck-decoys/xzRAg8vzKbbCtwabESkSRA",
-   "note": "eye-first: Pair of hollow?/solid wood working bluebill (scaup) drake decoys from Fruitland MD (Lower Eastern Shore -- Crisfield/Ward Bros country). Worn crazed paint looks original, dark head/breast/tail, light back. Unmarked Chesapeake bluebills sell ~$60-120 each, which does NOT clear $150 + shipping; only a maker makes this. ASK: photos of both undersides (brand, initials, 'L.T. Ward & Bro.', owner brands, keel/lead weight), the neck joint (dowelled head, replaced?), eyes (glass vs tack vs painted), and whether paint is original. Buy only if a named Lower Shore carver mark appears.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7940537948",
-   "title": "Old School Hip Hop Records",
-   "price": 5,
-   "area": "orangecounty",
-   "url": "https://www.craigslist.org/view/d/huntington-beach-old-school-hip-hop/1gNp5Z4qpZNm6SuizvxZPe",
-   "note": "eye-first: Sealed original 1984-89 LA electro/rap 12in singles, Macola Record Co. deadstock, several copies of each. Photos show: The Arabian Prince 'It Ain't Tough' (Rapsur RP 10005; Arabian Prince was a founding NWA member), Fila Fresh Crew 'Fear Of The Rap' (Get Live MRC-1089; Dr. Dre/D.O.C.-related Dallas crew), The Triple Threat Three 'M.P.G. Rap' (Sound of Sacramento SAT-2010, with a Dr. Dre credit), Unknown DJ 'Break-Down' (Techno Hop), The Future M.C.'s 'We Are The Future' (Flash 001) and 'Erotic' (Hitt's RAPP-001), Future Flash/King M.C. 'State of Shock', The Mistress & DJ Madame E 'I",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7948438162",
-   "title": "Captain Beefheart Magic Band Trout Mask Replica vinyl record album",
-   "price": 100,
-   "area": "orangecounty",
-   "url": "https://www.craigslist.org/view/d/orange-captain-beefheart-magic-band/e49uH9xteE1sC1w5XUu8ab",
-   "note": "eye-first: Captain Beefheart Trout Mask Replica 2LP, pink Straight label 2 STS 1053 (1969 US original, not the Reprise reissue). At $100 needs ~$250 resale; no comp. Ask: gatefold cover condition, vinyl grade, inner sleeves; offer $60. Est low end, no comp.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7944072645",
-   "title": "Vintage Scholastic 65 Graduation pendant / charm",
-   "price": 12,
-   "area": "boston",
-   "url": "https://www.craigslist.org/view/d/natick-vintage-scholastic-65-graduation/boy2qCoAC6e94kPsLkkedq",
-   "note": "eye-first: 1965 class-year scroll charm ('65' plaque with scroll ends, coiled bail; 'Scholastic' style), seller calls it gold-tone but back/bail shows no visible mark at photo resolution. Class charms of this form were commonly made in 10K. Ask: close-up of back, bail and jump ring for '10K'/'1/20 10K GF'/maker mark (Balfour, Jostens, Herff Jones) and weight in grams. If 10K and ~2g, melt ~$80-100 (no comp); if GF, ~$5.",
-   "stage": "decided",
-   "status": "ask"
-  },
-  {
-   "pid": "7941180203",
-   "title": "Champagne capsules",
-   "price": 5,
-   "area": "slo",
-   "url": "https://www.craigslist.org/view/d/san-luis-obispo-champagne-capsules/wRRmKofxWqqv5x7ixrJBSc",
-   "note": "eye-first: About 180 champagne capsules (plaques de muselet), collected in the early-1980s LA sommelier trade, about 90% different; visible Moet, Mumm and coloured/portrait caps; the seller mentions 'rare ones from the Taittinger collection'. Light to ship. Ask: (1) is $5 the price for the whole lot or per capsule; (2) a count; (3) close-ups of the Taittinger and any portrait/numbered or pre-1980 caps (Krug, Salon, Dom Perignon, Cristal and old non-French caps are the ones capsule collectors pay for). At $5 for the lot, about $80 resale passes. No comp, so the estimate is low-end.",
+   "note": "Terapeak 365d: Smith-Miller GMC tractor-trailers median $175 (n=50, p75 $225); Thimble Drome tether cars median $100 (n=49, p75 $191). 3 Smith-Miller + 4 tether cars \u2248 $900+ if originals. Ask per-item prices + underside photos.",
    "stage": "decided",
    "status": "ask"
   },
