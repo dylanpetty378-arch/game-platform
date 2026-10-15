@@ -21,15 +21,25 @@ SELLER_CATS = ['20081', '550', '2984', '267', '12576', '625', '15032', '11450', 
                '45100', '26395', '11700', '281', '11232', '11233', '619', '1281', '870', '888', '64482', '260', '220', '3252',
                '1249', '99', '6000']
 
-def pool(hours=24):
+def pool(hours=24, new_hours=10):
+    """Two passes per category (Oct 15 2026 lesson: the Marie jar was listed 7 days but only entered the pool in its
+    last 24 h, because this pass only looked at auctions ENDING soon). Pass 1 = NEWLY LISTED auctions (started within
+    new_hours, any end date) so each auction is screened on day 1, while there are days to research and ask. Pass 2 =
+    ending within `hours` (catches anything pass 1 missed). sheetpool's screened-set dedupe means each auction is still
+    screened once, just ~6 days earlier."""
     import ebay_api
-    end = (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=hours)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    now = datetime.datetime.now(datetime.timezone.utc)
+    end = (now + datetime.timedelta(hours=hours)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    start = (now - datetime.timedelta(hours=new_hours)).strftime('%Y-%m-%dT%H:%M:%SZ')
+    base = 'buyingOptions:{AUCTION},price:[..200],priceCurrency:USD,itemLocationCountry:US'
+    passes = [('newlyListed', base + f',itemStartDate:[{start}..]'), ('endingSoonest', base + f',itemEndDate:[..{end}]')]
     rows, seen = [], set()
     for cid, name in CATS.items():
+      for sort, flt in passes:
         for off in range(0, 10000, 200):
             d = ebay_api._get('browse', '/buy/browse/v1/item_summary/search', {
-                'category_ids': cid, 'limit': 200, 'offset': off, 'sort': 'endingSoonest',
-                'filter': f'buyingOptions:{{AUCTION}},price:[..200],priceCurrency:USD,itemEndDate:[..{end}],itemLocationCountry:US'})
+                'category_ids': cid, 'limit': 200, 'offset': off, 'sort': sort, 'filter': flt})
+            if off == 0 and (d or {}).get('error'): print(name, sort, 'ERROR', d['error'][:120])
             items = (d or {}).get('itemSummaries') or []
             for it in items:
                 iid = it.get('itemId')
@@ -40,13 +50,14 @@ def pool(hours=24):
                 if fb is None or fb > 150 or bids > 3: continue          # casual sellers, few bidders
                 img = (it.get('image') or {}).get('imageUrl') or ''
                 rows.append({'id': iid, 't': it.get('title', '')[:90], 'p': float(((it.get('currentBidPrice') or it.get('price') or {}).get('value')) or 0),
-                             'b': bids, 'fb': fb, 'end': it.get('itemEndDate'), 'img': img, 'url': it.get('itemWebUrl', '').split('?')[0], 'c': name})
+                             'b': bids, 'fb': fb, 'end': it.get('itemEndDate'), 'img': img, 'url': it.get('itemWebUrl', '').split('?')[0], 'c': name,
+                             'via': sort})
             if len(items) < 200: break
             time.sleep(0.5)
-        print(name, len(rows))
+      print(name, len(rows))
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
     json.dump({'made': datetime.datetime.now(datetime.timezone.utc).isoformat(), 'hours': hours, 'rows': rows}, open(OUT, 'w'), separators=(',', ':'))
-    print('ebay pool', len(rows), 'auctions (feedback <=150, <=3 bids, <=$200, ending within', hours, 'h)')
+    print('ebay pool', len(rows), 'auctions (feedback <=150, <=3 bids, <=$200; new in last', new_hours, 'h or ending within', hours, 'h)')
 
 def detail():
     """Full description + every photo for research/pools/ebay-flagged.json (Browse getItem) -> ebay-detail.json."""
