@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T22:43:18Z
+# Refurbish status — 2026-10-15T22:46:58Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,17 +7,17 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3966 |
-| lensed | 1267 |
+| flagged | 3985 |
+| lensed | 1273 |
 | queued/relens | 486 |
 | decided/kill | 125 |
 | decided/ask | 80 |
-| queued | 28 |
 | expired | 19 |
 | photo_review/ask | 17 |
 | decided/find | 13 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
+| queued | 3 |
 | contacted/find | 3 |
 | comps/pass | 1 |
 
@@ -26,8 +26,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 13224
-- events: 40420
+- lens: 13249
+- events: 40445
 - comps: 3149
 - item_types: 906
 - runs: 0
@@ -141,7 +141,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (3966)
+## Flagged by Lens, waiting for photo review (3985)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 

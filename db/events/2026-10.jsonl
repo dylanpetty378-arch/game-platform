@@ -40418,3 +40418,28 @@
 {"ts":"2026-10-15T22:42:32Z","pid":"7956282724","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Artist, Limited — title does not","data":{"med":40,"ratio":0.16,"mismatch":["Artist","Limited"]}}
 {"ts":"2026-10-15T22:42:42Z","pid":"7944029290","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Miller, Oliver — title does not","data":{"med":30,"ratio":1,"mismatch":["Miller","Oliver"]}}
 {"ts":"2026-10-15T22:42:53Z","pid":"7935134425","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names History, National — title does not","data":{"med":68,"ratio":1.17,"mismatch":["History","National"]}}
+{"ts":"2026-10-15T22:43:05Z","pid":"7943919046","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Silver — title does not","data":{"med":24,"ratio":1.2,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T22:43:14Z","pid":"7983953397","stage":"flagged","run":"lensworker-20261015-2238","note":null,"data":{"med":275,"ratio":5.5,"mismatch":[]}}
+{"ts":"2026-10-15T22:43:25Z","pid":"7942775652","stage":"lensed","run":"lensworker-20261015-2238","note":null,"data":{"med":46,"ratio":0.66,"mismatch":[]}}
+{"ts":"2026-10-15T22:43:32Z","pid":"7973739318","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Group, Imperial, Stanley, Winchester — title does not","data":{"med":null,"ratio":null,"mismatch":["Group","Imperial","Stanley","Winchester"]}}
+{"ts":"2026-10-15T22:43:39Z","pid":"7942353385","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Diecast — title does not","data":{"med":55,"ratio":0.11,"mismatch":["Diecast"]}}
+{"ts":"2026-10-15T22:43:49Z","pid":"7979093958","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Capodimonte, Powder — title does not","data":{"med":95,"ratio":2.38,"mismatch":["Capodimonte","Powder"]}}
+{"ts":"2026-10-15T22:43:56Z","pid":"7966961550","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Hohner Marine Band, Special — title does not","data":{"med":200,"ratio":20,"mismatch":["Hohner Marine Band","Special"]}}
+{"ts":"2026-10-15T22:44:04Z","pid":"7965543438","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Gold, Harmony, Korean, Silver — title does not","data":{"med":299,"ratio":0.85,"mismatch":["Gold","Harmony","Korean","Silver"]}}
+{"ts":"2026-10-15T22:44:14Z","pid":"7968568560","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Spanish — title does not","data":{"med":375,"ratio":37.5,"mismatch":["Spanish"]}}
+{"ts":"2026-10-15T22:44:21Z","pid":"7947941607","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Gibson, Hasbro, Toy — title does not","data":{"med":45,"ratio":2.25,"mismatch":["Gibson","Hasbro","Toy"]}}
+{"ts":"2026-10-15T22:44:33Z","pid":"7950388908","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Bonanza, Hamilton — title does not","data":{"med":40,"ratio":2,"mismatch":["Bonanza","Hamilton"]}}
+{"ts":"2026-10-15T22:44:40Z","pid":"7973306277","stage":"lensed","run":"lensworker-20261015-2238","note":null,"data":{"med":61,"ratio":0.94,"mismatch":[]}}
+{"ts":"2026-10-15T22:44:51Z","pid":"7984046220","stage":"lensed","run":"lensworker-20261015-2238","note":null,"data":{"med":25,"ratio":0.63,"mismatch":[]}}
+{"ts":"2026-10-15T22:44:58Z","pid":"7931878671","stage":"flagged","run":"lensworker-20261015-2238","note":null,"data":{"med":320,"ratio":32,"mismatch":[]}}
+{"ts":"2026-10-15T22:45:06Z","pid":"7978970310","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names A.C. Williams, Company — title does not","data":{"med":30,"ratio":0.6,"mismatch":["A.C. Williams","Company"]}}
+{"ts":"2026-10-15T22:45:16Z","pid":"7940114007","stage":"flagged","run":"lensworker-20261015-2238","note":null,"data":{"med":75,"ratio":2.5,"mismatch":[]}}
+{"ts":"2026-10-15T22:45:23Z","pid":"7952119709","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Gift, Hallmark — title does not","data":{"med":8,"ratio":0.53,"mismatch":["Gift","Hallmark"]}}
+{"ts":"2026-10-15T22:45:32Z","pid":"7954937297","stage":"flagged","run":"lensworker-20261015-2238","note":null,"data":{"med":97,"ratio":1.39,"mismatch":[]}}
+{"ts":"2026-10-15T22:45:42Z","pid":"7935271384","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Jewelry, Silver — title does not","data":{"med":15,"ratio":1.5,"mismatch":["Jewelry","Silver"]}}
+{"ts":"2026-10-15T22:45:51Z","pid":"7945577726","stage":"lensed","run":"lensworker-20261015-2238","note":null,"data":{"med":24,"ratio":0.6,"mismatch":[]}}
+{"ts":"2026-10-15T22:46:02Z","pid":"7935983222","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Jewelry, Russian, Tin — title does not","data":{"med":22,"ratio":1.1,"mismatch":["Jewelry","Russian","Tin"]}}
+{"ts":"2026-10-15T22:46:10Z","pid":"7958360138","stage":"lensed","run":"lensworker-20261015-2238","note":null,"data":{"med":30,"ratio":0.3,"mismatch":[]}}
+{"ts":"2026-10-15T22:46:18Z","pid":"7975231020","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names McKee — title does not","data":{"med":96,"ratio":1.92,"mismatch":["McKee"]}}
+{"ts":"2026-10-15T22:46:28Z","pid":"7939232913","stage":"flagged","run":"lensworker-20261015-2238","note":"Lens names Jewelry — title does not","data":{"med":606,"ratio":40.4,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T22:46:36Z","pid":"7950025154","stage":"lensed","run":"lensworker-20261015-2238","note":null,"data":{"med":17,"ratio":0.85,"mismatch":[]}}

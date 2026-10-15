@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T22:43:18Z",
+ "updated": "2026-10-15T22:46:58Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 13224,
-  "events": 40420,
+  "lens": 13249,
+  "events": 40445,
   "comps": 3149,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 28,
-  "flagged": 3966,
-  "lensed": 1267,
+  "queued": 3,
+  "flagged": 3985,
+  "lensed": 1273,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -2361,6 +2361,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939232913",
+   "title": "INC Layered Multi Row Mesh Chain Gold Tone Crystal Disco Ball Statement Necklace",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-inc-layered-multi-row-mesh-chain/bUPRycxyfjSYFkhA6nuhjF",
+   "best": "eBay",
+   "med": 606,
+   "ratio": 40.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7981145985",
    "title": "Vintage Lampwork Bead Glass Flower Boquet",
    "price": 10,
@@ -2468,6 +2479,17 @@
    "best": "Yves Saint Laurent YSL Vintage Deep Magenta Rhinestone ...",
    "med": 1137,
    "ratio": 37.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968568560",
+   "title": "Cute Little Vintage Ashtray",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-cute-little-vintage-ashtray/9b5VEhdYB5rYTSYhzHVAQa",
+   "best": "Etsy",
+   "med": 375,
+   "ratio": 37.5,
    "ai_value": ""
   },
   {
@@ -2720,6 +2742,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/61iy3ZbeHn1D7Pu1W7xvKv",
    "best": "vintage Bond Street London gold tone framed Hanging clock ...",
    "med": 3200,
+   "ratio": 32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931878671",
+   "title": "SMALL VASE",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-small-vase/pvjnUFLxksKxwV8w9HxMt6",
+   "best": "Madelena Antiques",
+   "med": 320,
    "ratio": 32,
    "ai_value": ""
   },
@@ -3764,6 +3797,17 @@
    "area": "austin",
    "url": "https://www.craigslist.org/view/d/austin-monet-clip-earrings-south-austin/93gckcwpEgFLbYXSXhi9nV",
    "best": "'aura' Earrings, Silver Stainless Steel, Abalone Spiral, Blue ...",
+   "med": 200,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966961550",
+   "title": "Vintage Marine Band M. Hohner Harmonica Made in Germany",
+   "price": 10,
+   "area": "chico",
+   "url": "https://www.craigslist.org/view/d/chico-vintage-marine-band-hohner/eN6eLAx5R4pDsqRvpQRFWy",
+   "best": "M. Hohner Marine Band Harmonica No. 1896 Key of G made ...",
    "med": 200,
    "ratio": 20,
    "ai_value": ""
@@ -10354,6 +10398,17 @@
    "url": "https://www.craigslist.org/view/d/oregon-city-vintage-decor/uRPgoLBezdpKmPX6F8JiAB",
    "best": "Craigslist",
    "med": 55,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983953397",
+   "title": "Vintage Milk Cans",
+   "price": 50,
+   "area": "chambersburg",
+   "url": "https://www.craigslist.org/view/d/mont-alto-vintage-milk-cans/81g2KMX4U8MwXLaZAJtpsK",
+   "best": "eBay",
+   "med": 275,
    "ratio": 5.5,
    "ai_value": ""
   },
@@ -19378,6 +19433,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940114007",
+   "title": "Ceramiche Tadinate Italy 2-Toned Round Embossed Vase",
+   "price": 30,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-ceramiche-tadinate-italy-toned/e7ozWPmzomiTZXUUABvuTv",
+   "best": "Craigslist",
+   "med": 75,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952572829",
    "title": "VINTAGE 1950-60'S ELKORN GETZEN CLARINET",
    "price": 80,
@@ -19858,6 +19924,17 @@
    "url": "https://www.craigslist.org/view/d/carrboro-antique-cruet-decanter-carafe/3TVkqwVgDM4hzH54ACKqm3",
    "best": "La Vitrine de Caroline",
    "med": 190,
+   "ratio": 2.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979093958",
+   "title": "Perfume Bottle w/Top",
+   "price": 40,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-perfume-bottle-top/xk4wbydBPWkAusZQJngEjB",
+   "best": "eBay",
+   "med": 95,
    "ratio": 2.38,
    "ai_value": ""
   },
@@ -20826,6 +20903,17 @@
    "url": "https://www.craigslist.org/view/d/shawnee-vintage-faux-gem-14-necklace/3ao3EjnPpRkiJziMfMGEd7",
    "best": "D&E Juliana Topaz Rhinestone and Molded Art Glass Leaves ...",
    "med": 135,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947941607",
+   "title": "Barter Items",
+   "price": 20,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-barter-items/joWTxnLo5RfLS6b1osC7J3",
+   "best": "eBay",
+   "med": 45,
    "ratio": 2.25,
    "ai_value": ""
   },
@@ -22634,6 +22722,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950388908",
+   "title": "BRAND NEW..Timeless refreshment of Coca-Cola collection",
+   "price": 20,
+   "area": "santamaria",
+   "url": "https://www.craigslist.org/view/d/lompoc-brand-newtimeless-refreshment-of/ujGWtc1XVoAd5CEvyzCdN1",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -23026,6 +23125,17 @@
    "url": "https://www.craigslist.org/view/d/williamstown-ss-vintage-navajo-sh/8RKme89kRff9aRuxLknYr8",
    "best": "eBay",
    "med": 240,
+   "ratio": 1.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975231020",
+   "title": "Vintage cut glass vase",
+   "price": 50,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-vintage-cut-glass-vase/nHWEtdnHQVv9aPk94LtaDQ",
+   "best": "eBay",
+   "med": 96,
    "ratio": 1.92,
    "ai_value": ""
   },
@@ -27155,6 +27265,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935271384",
+   "title": "Hello Kitty Necklace",
+   "price": 10,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-hello-kitty-necklace/feAKvETdfypHgxPasrFFQy",
+   "best": "eBay",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -28207,6 +28328,17 @@
    "url": "https://www.craigslist.org/view/d/burbank-vintage-arthur-court-cast/eHfMRTsagdgQHg2x2yZvtV",
    "best": "eBay",
    "med": 125,
+   "ratio": 1.39,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954937297",
+   "title": "Bali Legacy Jalak Bali Ring in Sterling Silver  Size 8",
+   "price": 70,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-bali-legacy-jalak-bali-ring-in/fvrRWATsFAzbwoGVFYLXjA",
+   "best": "eBay",
+   "med": 97,
    "ratio": 1.39,
    "ai_value": ""
   },
@@ -30444,6 +30576,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943919046",
+   "title": "4 Watch Faces",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/largo-watch-faces/hQwZyALVnUAVJGTtuibj4H",
+   "best": "Fait-Maison",
+   "med": 24,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -31606,6 +31749,17 @@
    "url": "https://www.craigslist.org/view/d/glendale-vintage-tiffany-co-sterling/tbF55ZhKL9sErEM8LGPoau",
    "best": "eBay",
    "med": 280,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935983222",
+   "title": "1990's Signed Floral Enameled Pendant Pin from the USSR",
+   "price": 20,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-1990s-signed-floral-enameled/n7fa75MnmwoFPy2VRTuGEA",
+   "best": "eBay",
+   "med": 22,
    "ratio": 1.1,
    "ai_value": ""
   },
@@ -34745,6 +34899,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965543438",
+   "title": "Vintage 5-String Double Eagle Style Resonator Banjo with Grover Tuners & Hard Ca",
+   "price": 350,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/manassas-vintage-string-double-eagle/fBsxxVfYwZZbErENYwX126",
+   "best": "Eagle Resonator Nashville 1970's | Reverb",
+   "med": 299,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7931818139",
    "title": "Vintage Anne Klein Jewelry",
    "price": 200,
@@ -37836,6 +38001,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978970310",
+   "title": "Antique Cast Iron Bank, Sharecropper",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-cast-iron-bank-sharecropper/gkHJocT3oeRuMyC6sVbRCL",
+   "best": "Maker: A.C. Williams (a prominent American toy and still bank manufacturer active in the late 19th and early 2",
+   "med": 30,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7969703721",
    "title": "Banjo - 5 String with Case",
    "price": 425,
@@ -38536,6 +38712,17 @@
    "url": "https://www.craigslist.org/view/d/stormville-air-plane-pin/nAJeAxrnTmiBtq14PVr8xg",
    "best": "Etsy",
    "med": 16,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952119709",
+   "title": "MIKASA - Winter Dreams, Glass Candle Votive",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-mikasa-winter-dreams-glass/6EKsZDsaHYBh4pP6MgEvpp",
+   "best": "eBay",
+   "med": 8,
    "ratio": 0.53,
    "ai_value": ""
   },
@@ -42038,6 +42225,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942353385",
+   "title": "Dukes of Hazzard Collection",
+   "price": 500,
+   "area": "farmington",
+   "url": "https://www.craigslist.org/view/d/farmington-dukes-of-hazzard-collection/p5xZ6VymFvTAJJaiaBdm9b",
+   "best": "eBay",
+   "med": 55,
+   "ratio": 0.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7951489709",
    "title": "Lot of vintage collectibles",
    "price": 200,
@@ -44101,6 +44299,17 @@
    "area": "miami",
    "url": "https://www.craigslist.org/view/d/miami-set-of-red-long-stem-goblet/oXZ1PjPeHsuNj8e7waNZHL",
    "best": "Candlesticks Set, 3 Piece - Macy's",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973739318",
+   "title": "Set of 10 folding pocket knives",
+   "price": 40,
+   "area": "huntsville",
+   "url": "https://www.craigslist.org/view/d/ryland-set-of-10-folding-pocket-knives/qUBk6HsYheZEdqyh3FoExJ",
+   "best": "Navaja Old Timer | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
