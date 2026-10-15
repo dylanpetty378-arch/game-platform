@@ -34638,3 +34638,28 @@
 {"ts":"2026-10-15T00:18:39Z","pid":"7953649925","stage":"lensed","run":"lensworker-20261015-0015","note":null,"data":{"med":25,"ratio":0.71,"mismatch":[]}}
 {"ts":"2026-10-15T00:18:48Z","pid":"7980949728","stage":"flagged","run":"lensworker-20261015-0015","note":null,"data":{"med":125,"ratio":6.25,"mismatch":[]}}
 {"ts":"2026-10-15T00:18:59Z","pid":"7935186452","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Atlantic Mold — title does not","data":{"med":28,"ratio":1.87,"mismatch":["Atlantic Mold"]}}
+{"ts":"2026-10-15T00:19:11Z","pid":"7962348063","stage":"lensed","run":"lensworker-20261015-0015","note":null,"data":{"med":14,"ratio":1.4,"mismatch":[]}}
+{"ts":"2026-10-15T00:19:17Z","pid":"7929746910","stage":"flagged","run":"lensworker-20261015-0015","note":null,"data":{"med":240,"ratio":12,"mismatch":[]}}
+{"ts":"2026-10-15T00:19:28Z","pid":"7983614601","stage":"lensed","run":"lensworker-20261015-0015","note":null,"data":{"med":49,"ratio":1.09,"mismatch":[]}}
+{"ts":"2026-10-15T00:19:36Z","pid":"7972754172","stage":"flagged","run":"lensworker-20261015-0015","note":null,"data":{"med":94,"ratio":2.35,"mismatch":[]}}
+{"ts":"2026-10-15T00:19:46Z","pid":"7955868716","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Jewelry — title does not","data":{"med":93,"ratio":46.5,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T00:19:54Z","pid":"7983657627","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Eyes — title does not","data":{"med":24,"ratio":1.2,"mismatch":["Eyes"]}}
+{"ts":"2026-10-15T00:20:03Z","pid":"7968755214","stage":"lensed","run":"lensworker-20261015-0015","note":null,"data":{"med":4,"ratio":0.4,"mismatch":[]}}
+{"ts":"2026-10-15T00:20:12Z","pid":"7945271758","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Amish — title does not","data":{"med":14,"ratio":1.17,"mismatch":["Amish"]}}
+{"ts":"2026-10-15T00:20:19Z","pid":"7955153465","stage":"flagged","run":"lensworker-20261015-0015","note":null,"data":{"med":350,"ratio":2.33,"mismatch":[]}}
+{"ts":"2026-10-15T00:20:30Z","pid":"7975533909","stage":"flagged","run":"lensworker-20261015-0015","note":null,"data":{"med":2650,"ratio":6.71,"mismatch":[]}}
+{"ts":"2026-10-15T00:20:38Z","pid":"7983608550","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Ventura — title does not","data":{"med":300,"ratio":6.67,"mismatch":["Ventura"]}}
+{"ts":"2026-10-15T00:20:49Z","pid":"7973800623","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Fashion, Jewelry — title does not","data":{"med":28,"ratio":0.62,"mismatch":["Fashion","Jewelry"]}}
+{"ts":"2026-10-15T00:20:56Z","pid":"7983662532","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Silver — title does not","data":{"med":19,"ratio":0.95,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T00:21:06Z","pid":"7949154018","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Jewelry — title does not","data":{"med":28,"ratio":0.7,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T00:21:14Z","pid":"7951179928","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Silver — title does not","data":{"med":20,"ratio":2,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T00:21:24Z","pid":"7934752868","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names King, Silver — title does not","data":{"med":350,"ratio":23.33,"mismatch":["King","Silver"]}}
+{"ts":"2026-10-15T00:21:33Z","pid":"7931890905","stage":"flagged","run":"lensworker-20261015-0015","note":null,"data":{"med":67,"ratio":3.35,"mismatch":[]}}
+{"ts":"2026-10-15T00:21:43Z","pid":"7935412863","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Collectible — title does not","data":{"med":22,"ratio":2.2,"mismatch":["Collectible"]}}
+{"ts":"2026-10-15T00:21:54Z","pid":"7954618160","stage":"lensed","run":"lensworker-20261015-0015","note":null,"data":{"med":14,"ratio":1.4,"mismatch":[]}}
+{"ts":"2026-10-15T00:22:01Z","pid":"7936447932","stage":"flagged","run":"lensworker-20261015-0015","note":null,"data":{"med":160,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-15T00:22:09Z","pid":"7955869535","stage":"lensed","run":"lensworker-20261015-0015","note":null,"data":{"med":13,"ratio":1.86,"mismatch":[]}}
+{"ts":"2026-10-15T00:22:16Z","pid":"7954626587","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Size — title does not","data":{"med":null,"ratio":null,"mismatch":["Size"]}}
+{"ts":"2026-10-15T00:22:25Z","pid":"7973801970","stage":"lensed","run":"lensworker-20261015-0015","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T00:22:33Z","pid":"7983657690","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Jewelry, Size — title does not","data":{"med":25,"ratio":0.17,"mismatch":["Jewelry","Size"]}}
+{"ts":"2026-10-15T00:22:41Z","pid":"7975472046","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Danbury Mint — title does not","data":{"med":40,"ratio":4,"mismatch":["Danbury Mint"]}}
