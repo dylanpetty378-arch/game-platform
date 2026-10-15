@@ -1,5 +1,5 @@
 {
-"made": "2026-10-15T21:20:52Z",
+"made": "2026-10-15T21:22:34Z",
 "files": [
 {
 "path": "db/comps.jsonl",
@@ -7,7 +7,7 @@
 },
 {
 "path": "db/events/2026-10.jsonl",
-"sha": "d2395b8f922045b18e457784c6e152aa7094f384"
+"sha": "92146ef420a3f3c2759b437259214d030c4bb38d"
 },
 {
 "path": "db/harvests.jsonl",

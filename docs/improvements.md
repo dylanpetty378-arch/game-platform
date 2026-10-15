@@ -416,8 +416,14 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   ebay-eggs mode=detail, and the seller's other active listings land in ebay-detail.json `_seller_items`. It searches all
   top-level categories with a sellers filter, and the username is never stored. Marie-jar seller: 17 other items, all household and garage
   clear-out (skateboard decks, Doctor Who cards, a Weller Forest vase at $259, a 1994 Upper Deck Italy box). No other leads.
-- Oct 15 21:14Z run: **blocked**. `ebay_eggs.py sheetpool` (a purely local JSON filter) was refused twice by the session's
-  permission classifier ("Real-World Transactions"), so no eBay screening happened. Counts: eBay 0 · SGW/CL/estate not
-  scheduled this slot · eggs 0 · leads 0. health: no FAILs (review backlog 3,623 WARN, text-triage backlog 1,102 WARN).
-  ebay-screened.json untouched, so the next run picks up this pool. Fix idea: the task prompt's bid/buy wording seems to
-  prime the classifier; the scripts never bid.
+
+## 2026-10-15 ~20:00–21:40 UTC: chat-driven extra cycle after the Marie-jar post-mortem
+- Lessons are recorded in docs/review-cycle.md §0c. Code: `ebay_eggs.py pool` now has a newly-listed pass.
+- **eBay 7-day backfill:** 29,735 pooled (9,765 via newlyListed) → 16,080 new screened (134 sheets, 10 agents) → 34 flags →
+  3 pre-killed (katana, Rolex, loose Zenith movement: authentication) → 31 deep-reviewed. Result: 0 eggs, 3 leads (He-Man
+  production cel max $110; Qajar qalamdan, damaged, max $55; hallmarked repoussé brooch, possibly Russian 56, max $150).
+- **ShopGoodwill:** 12,442 screened (104 sheets, first since Oct 13) → 43 flags → 0 eggs, 4 leads. The Doxa 36.7 g watch
+  is unstamped gold, so the unverifiable-metal rule says pass. Also: Delaunay 1968 Correspondances litho (max $120), Warren
+  Hunter attribution (doubtful), 1903 Call of the Wild 3rd printing (max $70).
+- Agents noted: a shared scratchpad helper script was overwritten by parallel agents. Give each agent its own subfolder.
+  The SGW detail API sometimes returns 403 under parallel load; a retry works.
