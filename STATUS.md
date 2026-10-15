@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T14:55:20Z
+# Refurbish status — 2026-10-15T14:59:31Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8935 |
-| flagged | 3037 |
-| lensed | 921 |
-| queued | 503 |
+| flagged | 3053 |
+| lensed | 930 |
 | queued/relens | 485 |
+| queued | 478 |
 | decided/ask | 82 |
 | decided/kill | 49 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13783
-- lens: 11949
-- events: 38039
+- lens: 11974
+- events: 38064
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (3037)
+## Flagged by Lens, waiting for photo review (3053)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -214,6 +214,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00000_iX2r3V2lvFR_0dk0i7_300x300.jpg" width="120"> | 7973207664 | $150 | nh | [Victorian Era Gold Filled Ornate Monogrammed Brace](https://www.craigslist.org/view/d/dover-victorian-era-gold-filled-ornate/jR7zc1gNG1nyy7vWLqqSmK) | 1889 Queen Victorian 22k Gold Sovereign/brooch | 11995 | 79.97 |
 | <img src="https://images.craigslist.org/01515_eYlzMkgaPAuz_0t20CI_300x300.jpg" width="120"> | 7955365058 | $15 | denver | [Costume jewelry](https://www.craigslist.org/view/d/aurora-costume-jewelry/t7oLR44HMhuBQjRJcuyKDw) | Nordstrom | 1199 | 79.93 |
 | <img src="https://images.craigslist.org/00s0s_yCO7XW3goW_0CI0hR_300x300.jpg" width="120"> | 7953446717 | $1 | nh | [Wedgewood](https://www.craigslist.org/view/d/raymond-wedgewood/ry77GkhiBDpjxbHFe3HptL) | Etsy | 79 | 79 |
+| <img src="https://images.craigslist.org/00m0m_cUXXemnTwxC_0lO0t2_300x300.jpg" width="120"> | 7931587911 | $25 | orlando | [stunning Pendant](https://www.craigslist.org/view/d/orlando-stunning-pendant/azevjn8yWCfoXTmsZ6wUx9) | 1.70 CTW Round Cut Moissanite Anniversary Gift Necklace In . | 1950 | 78 |
 | <img src="https://images.craigslist.org/00s0s_2tWdLsXmgrh_0jm0ew_300x300.jpg" width="120"> | 7952447071 | $10 | chicago | [New purse, jewelry](https://www.craigslist.org/view/d/new-purse-jewelry/ksUuNy9TYSHQQbkWFjyRv7) | Craigslist | 775 | 77.5 |
 | <img src="https://images.craigslist.org/00G0G_4iSLJBCs2cy_1l610k_300x300.jpg" width="120"> | 7935117254 | $2 | sandiego | [Gold tone circle pin with faux pearl](https://www.craigslist.org/view/d/carlsbad-gold-tone-circle-pin-with-faux/huokyDgh5xRZGKv5FhNBpE) | Vintage Gold Tone Brushed Texture Round Circle Faux Pearl .. | 155 | 77.5 |
 | <img src="https://images.craigslist.org/00202_eVZ5jOAgRFx_0lM0CI_300x300.jpg" width="120"> | 7954368004 | $5 | seattle | [Vintage Costume Jewelry](https://www.craigslist.org/view/d/puyallup-vintage-costume-jewelry/38CJ8NXrnajNMJCAY7Vndk) | Shiny Burgundy, Red Large and Medium Beads, Twisted ... | 369 | 73.8 |
@@ -259,4 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00s0s_et5xqxUCaRL_0t20lM_300x300.jpg" width="120"> | 7955868716 | $2 | boulder | [Misc Jewerly Vintage](https://www.craigslist.org/view/d/longmont-misc-jewerly-vintage/ubrWFT2GVGj8UNb9aYU5qW) | Huge Vintage Costume Jewelry Earring Necklace Bracelet Lot . | 93 | 46.5 |
 | <img src="https://images.craigslist.org/00k0k_2QNkMKyRfU6_0CI0t2_300x300.jpg" width="120"> | 7943998943 | $15 | newjersey | [2 Vintage Large Silver-tone & Gold-tone Brooches/P](https://www.craigslist.org/view/d/new-milford-vintage-large-silver-tone/gVDWvTZxQJxZSxiFMs45AE) | eBay | 695 | 46.33 |
 | <img src="https://images.craigslist.org/00l0l_hsC8n6fXXTp_0t20CI_300x300.jpg" width="120"> | 7946417677 | $175 | buffalo | [Breitling Chronometer> Blue Dial >Replica>Stainles](https://www.craigslist.org/view/d/buffalo-breitling-chronometer-blue-dial/7puGej2v4UaaRfcid4pEW2) | Reddit | 7950 | 45.43 |
-| <img src="https://images.craigslist.org/00t0t_5OcBCXBXDk0_0m90t2_300x300.jpg" width="120"> | 7933462459 | $20 | miami | [Toys In The Attic](https://www.craigslist.org/view/d/fort-lauderdale-toys-in-the-attic/oyK342y5FcdD2tM4Tjf7sf) | Coins & Bank Notes inc. House & Gardens Sale - Gorringe's | 899 | 44.95 |

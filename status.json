@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:55:20Z",
+ "updated": "2026-10-15T14:59:31Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11949,
-  "events": 38039,
+  "lens": 11974,
+  "events": 38064,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 503,
-  "flagged": 3037,
-  "lensed": 921
+  "queued": 478,
+  "flagged": 3053,
+  "lensed": 930
  },
  "last_harvests": [
   {
@@ -1297,6 +1297,17 @@
    "best": "Etsy",
    "med": 79,
    "ratio": 79,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931587911",
+   "title": "stunning Pendant",
+   "price": 25,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-stunning-pendant/azevjn8yWCfoXTmsZ6wUx9",
+   "best": "1.70 CTW Round Cut Moissanite Anniversary Gift Necklace In ...",
+   "med": 1950,
+   "ratio": 78,
    "ai_value": ""
   },
   {
@@ -3995,6 +4006,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980746061",
+   "title": "Men's Ring",
+   "price": 15,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-mens-ring/wCNbs8awiBnbui65rz9SQH",
+   "best": "HIJONES Men's Lightweight Luxury Large Rhinestone Ring ...",
+   "med": 206,
+   "ratio": 13.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7953676309",
    "title": "Gold plated A Initial pendant necklace",
    "price": 25,
@@ -4344,6 +4366,17 @@
    "best": "eBay",
    "med": 125,
    "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968686181",
+   "title": "Beautiful ladies ruby / diamond Seiko gold tone watch with brand new battery",
+   "price": 80,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/glenshaw-beautiful-ladies-ruby-diamond/4FKGrsapEVX58hJX8r8bwX",
+   "best": "Seiko Ruby & Diamond Watch \u2014 Alps Vintage",
+   "med": 999,
+   "ratio": 12.49,
    "ai_value": ""
   },
   {
@@ -6338,6 +6371,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976054451",
+   "title": "Vintage MacGregor Football Helmet",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/silverdale-vintage-macgregor-football/wUc5KaqxdhEGjiNdLdT9ZB",
+   "best": "Old Vtg 1967 Game Worn Used Suspension Wilson F2010 Football ...",
+   "med": 150,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7979401251",
    "title": "Antique Walking Sticks $25.00 Each",
    "price": 25,
@@ -7401,6 +7445,17 @@
    "url": "https://www.craigslist.org/view/d/goodfellow-afb-beautiful-choker-type/jqDQyNBwSeBKgrr3qpujRD",
    "best": "Nextdoor",
    "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983846690",
+   "title": "Sterling Silver Ring Mexico Size 7 1/2",
+   "price": 40,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-sterling-silver-ring-mexico-size-1/fDfXxx3YAvQe4GnCkEmbMf",
+   "best": "Vintage TAXCO Mexico TV-21 925 Sterling Silver Hinged ...",
+   "med": 240,
    "ratio": 6,
    "ai_value": ""
   },
@@ -10529,6 +10584,17 @@
    "ai_value": "SOLD at Ruby Lane $65"
   },
   {
+   "pid": "7983864708",
+   "title": "Ovation made in usa ultra series",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/fremont-ovation-made-in-usa-ultra-series/g7ngHBx5N59spmiiXTEtGs",
+   "best": "Used Ovation 1112-1 Vintage Sunburst Acoustic Guitar Vintage ...",
+   "med": 950,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7963190664",
    "title": "Vtg 1966 Caravelle by Bulova Mens Watch 33mm Gold Manual Wind RUNNING",
    "price": 25,
@@ -10661,6 +10727,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935244975",
+   "title": "Boot Hill Pottery Polar Bear Mug",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-boot-hill-pottery-polar-bear-mug/874AjvMjHG5mH7ApuSb4fq",
+   "best": "Boot Hill Pottery | eBay",
+   "med": 93,
+   "ratio": 3.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7951809965",
    "title": "Raymond Weil Tango Watch",
    "price": 175,
@@ -10778,6 +10855,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-tuba-mouthpiece/cf7smaYrq72B7qGEan7cwR",
    "best": "Vintage Vincent Bach Corp. 6 1/2 AL Mouthpiece | eBay",
    "med": 55,
+   "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951063307",
+   "title": "Vintage McCoy 1488 USA Pottery Jardiniere Planter",
+   "price": 75,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/coos-bay-vintage-mccoy-1488-usa-pottery/sGiCGBD1UNV34ASHSDxDjU",
+   "best": "Vintage Cast Iron Rustic Basket Style Plant Stand Patina Mid ...",
+   "med": 275,
    "ratio": 3.67,
    "ai_value": ""
   },
@@ -14203,6 +14291,17 @@
    "ai_value": "Price: Typically around $38"
   },
   {
+   "pid": "7966171539",
+   "title": "Ohana resonator ukulele with vintage bra and case",
+   "price": 430,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/jeffersonville-ohana-resonator-ukulele/rduGyyVxSkGqLf2GjXhgwX",
+   "best": "Gibson Les Paul Original Series Hardshell Case - Brown ...",
+   "med": 1100,
+   "ratio": 2.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7954969418",
    "title": "Michael Kors Crystal Accent Wristwatch",
    "price": 49,
@@ -16282,6 +16381,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977595119",
+   "title": "Eagles Superbowl Pendant and chain",
+   "price": 35,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-eagles-superbowl-pendant/n7Sj1zmGmMvoBzAo8e1SWf",
+   "best": "Limited Edition Philadelphia Eagles Super Bowl LIX Replica ...",
+   "med": 75,
+   "ratio": 2.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7951167434",
    "title": "Vintage Crushed Turquoise/Coral Chip Inlay Sterling Ring",
    "price": 85,
@@ -18258,6 +18368,17 @@
    "url": "https://www.craigslist.org/view/d/chula-vista-vintage-stella-by-harmony/78zHgme5gHmz3wJYbdF96H",
    "best": "Vintage Silvertone Acoustic Parlor Guitar Sears Roebuck Co ...",
    "med": 272,
+   "ratio": 1.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938401005",
+   "title": "Reduced Price-Pearl Bridal Earrings",
+   "price": 32,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/depew-reduced-price-pearl-bridal/hdzHqTqnLzY2jZbTpVFF1J",
+   "best": "A144 Vintage Gold Tone Bow Earrings With Faux Pearl Drops ...",
+   "med": 58,
    "ratio": 1.81,
    "ai_value": ""
   },
@@ -25841,6 +25962,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953876646",
+   "title": "Antique Scottish, Victorian Agate Brooch",
+   "price": 125,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-antique-scottish-victorian/o4VxKC4vgzhtvyRCtAz39h",
+   "best": "Scottish carnelian agate - Gem",
+   "med": 118,
+   "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637820",
    "title": "Peruvian Sterling Silver Cuff Bracelet",
    "price": 160,
@@ -26309,6 +26441,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-united-knife-made/sT18LW3nRd9twB8ixMBeJb",
    "best": "eBay",
+   "med": 45,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955583103",
+   "title": "Pinky and blue boy prints",
+   "price": 50,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-pinky-and-blue-boy-prints/eeRUCCtEtwTbEhkbEc5Moq",
+   "best": "Vintage Gilt Framed Art Print,\"pinkie\" by Thomas Lawrence ...",
    "med": 45,
    "ratio": 0.9,
    "ai_value": ""
@@ -30648,6 +30791,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948107346",
+   "title": "Art pieces read description",
+   "price": 295,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/caldwell-art-pieces-read-de-ion/aiYyvpWjCUSc42ydGUH1S5",
+   "best": "Framed Courtyard Garden Print \u2013 Home Interiors Wall Art ...",
+   "med": 130,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7953643580",
    "title": "10K Yellow Gold \"J\" Pendant | 2.8g",
    "price": 329,
@@ -30820,6 +30974,17 @@
    "url": "https://www.craigslist.org/view/d/waianae-wolfen-thors-hammer-necklace/tvEn297RzKmbTusgRxq8aj",
    "best": "Amazon.com",
    "med": 16,
+   "ratio": 0.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971403422",
+   "title": "VINTAGE J.R.MCNEILL HAND CARVED HILLBILLY",
+   "price": 249,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-vintage-jrmcneill-hand/x8RL3JQHzxqPnAYt3QFpY3",
+   "best": "8511 Pa Appalachian Hillbilly Stump Jumper Latex Fiberglass ...",
+   "med": 101,
    "ratio": 0.41,
    "ai_value": ""
   },
@@ -33888,6 +34053,17 @@
    "area": "sarasota",
    "url": "https://www.craigslist.org/view/d/bradenton-cheyenne-buffalo-knife/ocZGrMg8rkRijMFL9KR5Xu",
    "best": "Franklin Mint Knife Buffalo for sale | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972268559",
+   "title": "Robert Coin Princess Bracelet",
+   "price": 1,
+   "area": "macon",
+   "url": "https://www.craigslist.org/view/d/macon-robert-coin-princess-bracelet/tYosQYVBmxQ5taTAczTsuN",
+   "best": "Roberto Coin 18K Yellow Gold Diamond Bracelet 001-170-01497 ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
