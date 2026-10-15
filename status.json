@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:41:50Z",
+ "updated": "2026-10-15T14:47:41Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11874,
-  "events": 37964,
+  "lens": 11899,
+  "events": 37989,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 578,
-  "flagged": 2990,
-  "lensed": 893
+  "queued": 553,
+  "flagged": 3007,
+  "lensed": 901
  },
  "last_harvests": [
   {
@@ -2213,6 +2213,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956244727",
+   "title": "Heart Earrings Vintage Silver Marcasite ScrewBacks\ud83d\udc95",
+   "price": 10,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-heart-earrings-vintage-silver/6j3VDFnWLxHCUzxkPsMfoo",
+   "best": "925 Silver Vintage Dainty Sparkly Topaz Love Heart Stud ...",
+   "med": 319,
+   "ratio": 31.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7940935310",
    "title": "Bracelet with green stones",
    "price": 75,
@@ -2419,6 +2430,17 @@
    "best": "African Tribal Mask Feathered Hand Carved Wood Ritual Wall ...",
    "med": 12500,
    "ratio": 26.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951858319",
+   "title": "Pearl Handle Knives",
+   "price": 25,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/bradenton-pearl-handle-knives/gGgpgGK6SanQw4gFQVKvpY",
+   "best": "Antique Art Deco Cutlery Knives Forks Silver Plated Bakelite ...",
+   "med": 650,
+   "ratio": 26,
    "ai_value": ""
   },
   {
@@ -3871,6 +3893,17 @@
    "best": "Craigslist",
    "med": 2801,
    "ratio": 14.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954970449",
+   "title": "Vintage 14\" High Glass Flower table lamp",
+   "price": 35,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/middleburgh-vintage-14-high-glass/fuMEw4h2oQNy1BEDtFZgEV",
+   "best": "Crown Creative Industries Hurricane Style Lamp Glass Body ...",
+   "med": 492,
+   "ratio": 14.06,
    "ai_value": ""
   },
   {
@@ -6096,6 +6129,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949750719",
+   "title": "Classy & Pretty Vintage Rhinestone Gold Tone Pin",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-classy-pretty-vintage/immE1PuXrXRRpm8RbspxPJ",
+   "best": "This item is unavailable - Etsy",
+   "med": 76,
+   "ratio": 7.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7943860084",
    "title": "Vintage Christmas Pixie Elf",
    "price": 29,
@@ -6213,6 +6257,17 @@
    "url": "https://www.craigslist.org/view/d/1970s-vintage-slingerland-9x13-tom/vMDYXL1cERpDvCgTMtrmZD",
    "best": "Used Yamaha 3 Piece Stage Custom Natural Drum Kit Natural ...",
    "med": 450,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948505101",
+   "title": "SET OF EARRINGS & NECKLACE-TURQUOISE & SILVER",
+   "price": 40,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-set-of-earrings-necklace/cb5nT6zbUHkZnL4DZKx8Vy",
+   "best": "Vintage Signed Mexico 925 Sterling Silver Turquoise Cross ...",
+   "med": 300,
    "ratio": 7.5,
    "ai_value": ""
   },
@@ -6686,6 +6741,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-large-bohemian/3W1mPmVGehdcLHFKLoDFzf",
    "best": "1960s Bohemian Cobalt Blue Cut Crystal Glass Vase 14 ...",
    "med": 495,
+   "ratio": 6.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952858823",
+   "title": "Vase approx 12\u201d high",
+   "price": 25,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vase-approx-12-high/4hRnKwZRSMFX8H2EYnMyMG",
+   "best": "Vintage Art Glass Vase Teleflora Orange Brown Swirl 9\" Retro ...",
+   "med": 165,
    "ratio": 6.6,
    "ai_value": ""
   },
@@ -10052,6 +10118,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-ridge-vintage-late-1990s-early/xwUNb7Bkzfcd36fsBnW1Ka",
    "best": "PANASONIC TV STAND/BASE MODEL TBL2AX00051 for Sale in ...",
    "med": 40,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949332687",
+   "title": "Art pieces, Read description",
+   "price": 100,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/caldwell-art-pieces-read-de-ion/4vzZCKEgeiNxV7GEQYraGm",
+   "best": "Earl Horter, Washington at Braddock's Defeat from The ...",
+   "med": 400,
    "ratio": 4,
    "ai_value": ""
   },
@@ -16040,6 +16117,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942385874",
+   "title": "Gold Rings",
+   "price": 400,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-gold-rings/iELmM3j42UZU9EpagWXgdQ",
+   "best": "Novo i kori\u0161teno u kategoriji Gold Jewelry za prodaju ...",
+   "med": 855,
+   "ratio": 2.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7951167434",
    "title": "Vintage Crushed Turquoise/Coral Chip Inlay Sterling Ring",
    "price": 85,
@@ -17030,6 +17118,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966510209",
+   "title": "WW2 Dog Tags Medals Pins",
+   "price": 100,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/augusta-ww2-dog-tags-medals-pins/k4zVDiLCsynUmC9YPdynYg",
+   "best": "MIXED U.S.MILITARY PATCHES RIBBONS BUTTONS MEDALS PINS ...",
+   "med": 200,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -17158,6 +17257,17 @@
    "url": "https://www.craigslist.org/view/d/providence-vintage-us-army-air-forces/f51Tj5CifPtcpzHzvYF1m4",
    "best": "USAF Air Force Enlisted Air Crew Member Wings Cufflinks ...",
    "med": 49,
+   "ratio": 1.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934274365",
+   "title": "Herringbone 14.5\" choker necklace",
+   "price": 45,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-herringbone-145-choker-necklace/tpwHh2e6EszTHwaQcN546V",
+   "best": "Signed Dynamite - Gold Tone Herringbone Necklace 16\" W/3 ...",
+   "med": 88,
    "ratio": 1.96,
    "ai_value": ""
   },
@@ -17443,6 +17553,17 @@
    "area": "seattle",
    "url": "https://www.craigslist.org/view/d/silverdale-vintage-mini-kabar-knife/3r1jHuvv5BwgjvLehxcm26",
    "best": "eBay",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941490888",
+   "title": "Vintage Vendome Jet Black Stone Goldtone Square Shank Adjustable Ring",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-vendome-jet-black-stone/qxGkzck6gnGySPGF1V2Fzf",
+   "best": "Vintage Sterling Silver Made in Mexico Handmade Oval Black ...",
    "med": 95,
    "ratio": 1.9,
    "ai_value": ""
@@ -21305,6 +21426,17 @@
    "url": "https://www.craigslist.org/view/d/belmont-vintage-southwest-native/asywquzkXwWKgZ8yYqeLjC",
    "best": "2 Red Clay Jugs Rustic Unglazed Applied Handle Ovoid Small 5 ...",
    "med": 70,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955946935",
+   "title": "August\u2019s-Galan automatic watch reference # AG843332004632",
+   "price": 275,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/jamaica-augusts-galan-automatic-watch/1NX4gYiGdLoQSHyz9mshnb",
+   "best": "New Auguste Galan Mod-AG 843332000627 Collectible Skeletal ...",
+   "med": 385,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -25610,6 +25742,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938077332",
+   "title": "ATI Blue Sterling Ring size 7 1/4",
+   "price": 45,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-ati-blue-sterling-ring-size-1/dBHndRuz1ZRfPA2u9YVoB1",
+   "best": "Cushion Faceted Aqua Chalcedony Gemstone 925 Sterling Silver ...",
+   "med": 42,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7966649352",
    "title": "Embossed Nautical Scene  Framed",
    "price": 120,
@@ -25683,6 +25826,28 @@
    "url": "https://www.craigslist.org/view/d/portland-lorus-lor-662-watch/tzZcEGv6FNEkS12LUPHfB9",
    "best": "eBay",
    "med": 23,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936186511",
+   "title": "Clowns",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/richmond-clowns/4b9xww97meB5RjjKhVTDH1",
+   "best": "Vintage Homco 1970's Laughing Circus Clowns Wall Hanging ...",
+   "med": 23,
+   "ratio": 0.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969533513",
+   "title": "Roseville Magnolia Tall Vase",
+   "price": 125,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/surprise-roseville-magnolia-tall-vase/cxjgmtSEHFd5an6x9kes2U",
+   "best": "Buy Roseville Pottery 98-15 Magnolia 1943 Mid Century Green ...",
+   "med": 115,
    "ratio": 0.92,
    "ai_value": ""
   },
@@ -28026,6 +28191,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-vintage-lisner-signed-clip-on/hFFzJuMrTHQnMx2M9Af2Wr",
    "best": "Vintage Retro Era Goldtone Prong Set Pink Rhinestone ...",
    "med": 44,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954707820",
+   "title": "vintage hand tools",
+   "price": 111,
+   "area": "duluth",
+   "url": "https://www.craigslist.org/view/d/esko-vintage-hand-tools/7aiwmCuGBbockj1vFkXngS",
+   "best": "Antique IH Cast Iron Tool Multi Size Wrench Plow or ...",
+   "med": 75,
    "ratio": 0.68,
    "ai_value": ""
   },
@@ -31997,6 +32173,17 @@
    "url": "https://www.craigslist.org/view/d/anadarko-collection-of-coins/2cbJyjCKDSSuANDhggy33c",
    "best": "eBay",
    "med": 19,
+   "ratio": 0.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933352132",
+   "title": "FINE PEWTER COLLECTION 18 PIECES",
+   "price": 400,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/new-paltz-fine-pewter-collection-18/5e17iyiYbbXaFJ6o7eHpUs",
+   "best": "Lot Of 11 Vintage Hallmark Little Gallery Pewter Figurines ...",
+   "med": 52,
    "ratio": 0.13,
    "ai_value": ""
   },
