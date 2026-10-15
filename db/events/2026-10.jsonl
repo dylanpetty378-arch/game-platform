@@ -34588,3 +34588,28 @@
 {"ts":"2026-10-15T00:10:45Z","pid":"7945067032","stage":"flagged","run":"lensworker-20261015-0004","note":"Lens names Lamps — title does not","data":{"med":315,"ratio":12.6,"mismatch":["Lamps"]}}
 {"ts":"2026-10-15T00:10:54Z","pid":"7974837444","stage":"flagged","run":"lensworker-20261015-0004","note":"Lens names Accessories, Franciscan, Silver — title does not","data":{"med":25,"ratio":2.78,"mismatch":["Accessories","Franciscan","Silver"]}}
 {"ts":"2026-10-15T00:11:05Z","pid":"7939433114","stage":"lensed","run":"lensworker-20261015-0007","note":null,"data":{"med":42,"ratio":0.84,"mismatch":[]}}
+{"ts":"2026-10-15T00:11:16Z","pid":"7970367837","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Gold — title does not","data":{"med":27,"ratio":1.8,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T00:11:25Z","pid":"7938507506","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Cameo, Enamel, Gold, Hickok — title does not","data":{"med":20,"ratio":0.67,"mismatch":["Cameo","Enamel","Gold","Hickok"]}}
+{"ts":"2026-10-15T00:11:33Z","pid":"7937724244","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Gold, Orient, Origin — title does not","data":{"med":30,"ratio":0.77,"mismatch":["Gold","Orient","Origin"]}}
+{"ts":"2026-10-15T00:11:42Z","pid":"7945264718","stage":"flagged","run":"lensworker-20261015-0007","note":null,"data":{"med":350,"ratio":3.5,"mismatch":[]}}
+{"ts":"2026-10-15T00:11:52Z","pid":"7931755264","stage":"lensed","run":"lensworker-20261015-0007","note":null,"data":{"med":79,"ratio":0.79,"mismatch":[]}}
+{"ts":"2026-10-15T00:11:58Z","pid":"7983607119","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Illinois, School — title does not","data":{"med":20,"ratio":0.16,"mismatch":["Illinois","School"]}}
+{"ts":"2026-10-15T00:12:07Z","pid":"7951190839","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Capodimonte, European, Group — title does not","data":{"med":103,"ratio":4.12,"mismatch":["Capodimonte","European","Group"]}}
+{"ts":"2026-10-15T00:12:14Z","pid":"7974290706","stage":"flagged","run":"lensworker-20261015-0007","note":null,"data":{"med":105,"ratio":1.4,"mismatch":[]}}
+{"ts":"2026-10-15T00:12:22Z","pid":"7936445907","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Elegant, Size — title does not","data":{"med":null,"ratio":null,"mismatch":["Elegant","Size"]}}
+{"ts":"2026-10-15T00:12:31Z","pid":"7983656409","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Accessories, Bausch & Lomb, Ray-Ban — title does not","data":{"med":175,"ratio":7,"mismatch":["Accessories","Bausch & Lomb","Ray-Ban"]}}
+{"ts":"2026-10-15T00:12:43Z","pid":"7938814105","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Gold — title does not","data":{"med":25,"ratio":12.5,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T00:12:52Z","pid":"7943879382","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Qing, Statues — title does not","data":{"med":95,"ratio":1.58,"mismatch":["Qing","Statues"]}}
+{"ts":"2026-10-15T00:13:02Z","pid":"7968941778","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Gift, Gold — title does not","data":{"med":39,"ratio":0.71,"mismatch":["Gift","Gold"]}}
+{"ts":"2026-10-15T00:13:12Z","pid":"7939829876","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Bonanza, Jewelry, Silver, Simpson — title does not","data":{"med":1675,"ratio":8.86,"mismatch":["Bonanza","Jewelry","Silver","Simpson"]}}
+{"ts":"2026-10-15T00:13:20Z","pid":"7983643737","stage":"flagged","run":"lensworker-20261015-0007","note":null,"data":{"med":229,"ratio":9.16,"mismatch":[]}}
+{"ts":"2026-10-15T00:13:29Z","pid":"7949226465","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Arts & Crafts — title does not","data":{"med":500,"ratio":5.88,"mismatch":["Arts & Crafts"]}}
+{"ts":"2026-10-15T00:13:39Z","pid":"7929115134","stage":"lensed","run":"lensworker-20261015-0007","note":null,"data":{"med":25,"ratio":2.5,"mismatch":[]}}
+{"ts":"2026-10-15T00:13:49Z","pid":"7944131278","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Bulova — title does not","data":{"med":250,"ratio":12.5,"mismatch":["Bulova"]}}
+{"ts":"2026-10-15T00:13:59Z","pid":"7968981048","stage":"flagged","run":"lensworker-20261015-0007","note":null,"data":{"med":580,"ratio":38.67,"mismatch":[]}}
+{"ts":"2026-10-15T00:14:10Z","pid":"7938614421","stage":"lensed","run":"lensworker-20261015-0007","note":null,"data":{"med":70,"ratio":1.75,"mismatch":[]}}
+{"ts":"2026-10-15T00:14:19Z","pid":"7950359550","stage":"flagged","run":"lensworker-20261015-0007","note":null,"data":{"med":547,"ratio":3.91,"mismatch":[]}}
+{"ts":"2026-10-15T00:14:28Z","pid":"7944573860","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Turner — title does not","data":{"med":91,"ratio":0.63,"mismatch":["Turner"]}}
+{"ts":"2026-10-15T00:14:38Z","pid":"7952768391","stage":"flagged","run":"lensworker-20261015-0007","note":null,"data":{"med":195,"ratio":3.25,"mismatch":[]}}
+{"ts":"2026-10-15T00:14:48Z","pid":"7954616659","stage":"flagged","run":"lensworker-20261015-0007","note":"Lens names Franklin Mint — title does not","data":{"med":15,"ratio":0.6,"mismatch":["Franklin Mint"]}}
+{"ts":"2026-10-15T00:14:59Z","pid":"7973797446","stage":"flagged","run":"lensworker-20261015-0007","note":null,"data":{"med":1308,"ratio":130.8,"mismatch":[]}}
