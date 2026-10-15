@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T22:01:47Z",
+ "updated": "2026-10-15T22:05:20Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12974,
-  "events": 40167,
+  "lens": 12999,
+  "events": 40192,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 278,
-  "flagged": 3801,
-  "lensed": 1182
+  "queued": 253,
+  "flagged": 3819,
+  "lensed": 1189
  },
  "last_harvests": [
   {
@@ -3950,6 +3950,17 @@
    "area": "daytona",
    "url": "https://www.craigslist.org/view/d/edgewater-imari-covered-rice-bowl/eAcnzvTyaUicsFSyNAzia6",
    "best": "Kutani- Antique Ceramic Tea Set, Golden Floral Sencha ...",
+   "med": 275,
+   "ratio": 18.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950779125",
+   "title": "Vintage Eggholder Glassware",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/sterling-vintage-eggholder-glassware/d36SBb8kb1rFNucdbLri1h",
+   "best": "Hull Pedestal Planter, Deep Brown W/ Mossy Green Drip Glaze ...",
    "med": 275,
    "ratio": 18.33,
    "ai_value": ""
@@ -11171,6 +11182,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978789464",
+   "title": "Vintage handmade tapestry from Burma",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-vintage-handmade-tapestry/3oFJknEeyzCtHPrrVzrFP6",
+   "best": "eBay",
+   "med": 185,
+   "ratio": 4.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7983186774",
    "title": "4 Peter Max Lithographs Hearts signed numbered",
    "price": 325,
@@ -12909,6 +12931,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948146887",
+   "title": "Italian Men's 24\" Chain Necklace in Sterling Silver",
+   "price": 65,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/herndon-italian-mens-24-chain-necklace/d7o8JNXGHsPddfbZ1nDaA2",
+   "best": "eBay",
+   "med": 259,
+   "ratio": 3.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -13070,6 +13103,17 @@
    "url": "https://www.craigslist.org/view/d/sellersville-antique-beer-glasses/92TRJBzLHHmGn6kxRZFDUY",
    "best": "Tradera",
    "med": 78,
+   "ratio": 3.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962064590",
+   "title": "HD Tankard",
+   "price": 10,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/chandler-hd-tankard/xqgbp2ASyrCV4y3PAQWzou",
+   "best": "eBay",
+   "med": 39,
    "ratio": 3.9,
    "ai_value": ""
   },
@@ -17562,6 +17606,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960136217",
+   "title": "HEART PENDANT \u2665\ufe0f",
+   "price": 75,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/hyannis-heart-pendant/7zy8R9pJzT7XqGDJtX8YHr",
+   "best": "Etsy",
+   "med": 200,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7936456409",
    "title": "14k gold filled 35 grams chain",
    "price": 395,
@@ -17646,6 +17701,17 @@
    "url": "https://www.craigslist.org/view/d/falls-church-sterling-silver-marcasite/gfUePBcjwaC6QaVtYQapdU",
    "best": "Etsy",
    "med": 92,
+   "ratio": 2.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956019412",
+   "title": "Vintage Filson luggage",
+   "price": 200,
+   "area": "eastidaho",
+   "url": "https://www.craigslist.org/view/d/idaho-falls-vintage-filson-luggage/dBGPz7kRhbR6kkHMVrbEgY",
+   "best": "Craigslist",
+   "med": 525,
    "ratio": 2.63,
    "ai_value": ""
   },
@@ -19758,6 +19824,28 @@
    "url": "https://www.craigslist.org/view/d/las-cruces-watch-swiss-army/mNFUZzcHYkGq5ZrNQwfzvS",
    "best": "eBay",
    "med": 80,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983956082",
+   "title": "Fender San Marino",
+   "price": 150,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/wilmington-fender-san-marino/veQtdRMAWcuhd4MSWUQhLu",
+   "best": "eBay",
+   "med": 344,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984087476",
+   "title": "Washburn Banjo",
+   "price": 175,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/laguna-woods-washburn-banjo/wku2Jatxdw7q9fXH2NnvMM",
+   "best": "Danville 4-String Tenor Banjo | eBay",
+   "med": 400,
    "ratio": 2.29,
    "ai_value": ""
   },
@@ -24833,6 +24921,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7975232991",
+   "title": "Equestrian Artwork",
+   "price": 75,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/colburn-equestrian-artwork/axp4ggj2xN5Kyfu3AAHuC3",
+   "best": "Antique- Victorian \" Pharoah's Horses\" Lithograph Print ...",
+   "med": 120,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955900724",
+   "title": "Watch and the bracelet combo",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-watch-and-the-bracelet-combo/sxKiD1xzreD4hv5H5s2siD",
+   "best": "Craigslist",
+   "med": 56,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -26028,6 +26138,17 @@
    "url": "https://www.craigslist.org/view/d/farmingville-old-amsterdam-teapot/8rkvppZb1M7ZsFQX1TvFVy",
    "best": "eBay",
    "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973654475",
+   "title": "Antique Apollo E.P.N.S. Silver Basket Planter",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/jamaica-antique-apollo-epns-silver/h9RS8niaS87VhqKmuWReKF",
+   "best": "Etsy",
+   "med": 75,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -34645,6 +34766,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966346454",
+   "title": "Vintage camera",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/sherman-oaks-vintage-camera/af7g9z2UcNowDh7XMvTPCf",
+   "best": "eBay",
+   "med": 37,
+   "ratio": 0.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7949457505",
    "title": "Sterling Silver 7\u201d Watch by Ecclissi",
    "price": 110,
@@ -35499,6 +35631,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-1970s-napier-pearl-cabochon/83KXVupz9aXWLEQ3K6Uuos",
    "best": "Etsy",
    "med": 20,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954806833",
+   "title": "Beer Stein",
+   "price": 75,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/south-lake-tahoe-beer-stein/1Ms1ehKVihmshj28dDN1sa",
+   "best": "eBay",
+   "med": 50,
    "ratio": 0.67,
    "ai_value": ""
   },
@@ -37362,6 +37505,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984156380",
+   "title": "Vintage Popeye 45RPM Record",
+   "price": 20,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-vintage-popeye-45rpm-record/pCcTKAt8iN8dgjadMgX4sn",
+   "best": "eBay",
+   "med": 10,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7944220078",
    "title": "Sterling Silver Siam Earrings",
    "price": 35,
@@ -38627,6 +38781,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943878535",
+   "title": "Vintage Fitz & Floyd",
+   "price": 80,
+   "area": "fredericksburg",
+   "url": "https://www.craigslist.org/view/d/culpeper-vintage-fitz-floyd/vjyVCxX4DgB1mfG8JCt5ft",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 0.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7975555695",
    "title": "2.25\" Vintage 8 Point Star Octagram Sterling Pendant Taxco Black Onyx",
    "price": 150,
@@ -39375,6 +39540,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971647412",
+   "title": "14K Blue Topaz Ring",
+   "price": 325,
+   "area": "ithaca",
+   "url": "https://www.craigslist.org/view/d/elmira-14k-blue-topaz-ring/hvkjV1tFXvsvG7ruPD7n8s",
+   "best": "Craigslist",
+   "med": 82,
+   "ratio": 0.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7936662652",
    "title": "LIONS HEAD CHARM in 14k Yellow Gold",
    "price": 479,
@@ -39745,6 +39921,28 @@
    "url": "https://www.craigslist.org/view/d/santa-maria-antique-cast-iron-clock/9BgEo2i55nTQufkRW65r96",
    "best": "eBay",
    "med": 15,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951710641",
+   "title": "14K Gold Sailfish Charm/Pendant",
+   "price": 375,
+   "area": "ocala",
+   "url": "https://www.craigslist.org/view/d/weirsdale-14k-gold-sailfish-charm/qnXDEoNPv8kGJBGFci3c4L",
+   "best": "eBay",
+   "med": 75,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942767413",
+   "title": "Beautiful MidCentury design  bamboo art piece Signed",
+   "price": 100,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-beautiful-midcentury-design/o8zTrtA6akTCrhjthCevgM",
+   "best": "Josephine Thomas Home",
+   "med": 20,
    "ratio": 0.2,
    "ai_value": ""
   },
