@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T22:17:16Z
+# Refurbish status — 2026-10-15T22:23:15Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3869 |
-| lensed | 1214 |
+| flagged | 3882 |
+| lensed | 1226 |
 | queued/relens | 486 |
-| queued | 178 |
+| queued | 153 |
 | decided/kill | 125 |
 | decided/ask | 80 |
 | expired | 19 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 13074
-- events: 40267
+- lens: 13099
+- events: 40292
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -140,7 +140,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **decided/find** — Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possib |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (3869)
+## Flagged by Lens, waiting for photo review (3882)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -205,6 +205,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00c0c_XZ1qulzZ4X_0CI0t2_300x300.jpg" width="120"> | 7946281064 | $175 | asheville | [Cozart Gold Leaf Strat](https://www.craigslist.org/view/d/asheville-cozart-gold-leaf-strat/ajtegAE17aLqK3nRjobtEg) | Fender Custom Shop Todd Krause Masterbuilt Eric Clapton ... | 18362 | 104.93 |
 | <img src="https://images.craigslist.org/00909_9WFMAL3htOS_0CI0l9_300x300.jpg" width="120"> | 7955892189 | $15 | boise | [Silver Tone Rhinestone TRIANGLE 18" Necklace](https://www.craigslist.org/view/d/boise-silver-tone-rhinestone-triangle/cqm1R8hJpb71Gt3wHiakK3) | eBay | 1560 | 104 |
 | <img src="https://images.craigslist.org/00I0I_9McHJvnwqRd_0uY0hq_300x300.jpg" width="120"> | 7966080237 | $29 | boston | [Vintage 18" Diamond-Cut Gold-Tone Rope Chain Neckl](https://www.craigslist.org/view/d/natick-vintage-18-diamond-cut-gold-tone/ezfyQtYa7pxbxJEocdH5Vs) | eBay | 3000 | 103.45 |
+| <img src="https://images.craigslist.org/00X0X_feAKxTV7xvn_0MM132_300x300.jpg" width="120"> | 7949517432 | $30 | ventura | [Green Buddha](https://www.craigslist.org/view/d/ventura-green-buddha/sb13Mv8JFpDjLXHyQKL7zP) | A Khmer-Lopburi Bronze Figure of an Adonrned Buddha at 1stDi | 3075 | 102.5 |
 | <img src="https://images.craigslist.org/00M0M_bzo0tdRUZE6_0vQ0t2_300x300.jpg" width="120"> | 7983294150 | $20 | portland | [Large Face Mug Vase Studio Pottery Signed](https://www.craigslist.org/view/d/vancouver-large-face-mug-vase-studio/8mxh4LnF7ACohdYZC82icA) | Craigslist | 2010 | 100.5 |
 | <img src="https://images.craigslist.org/00404_3J4Iak3uO15_0CI0lN_300x300.jpg" width="120"> | 7979672226 | $80 | lasvegas | [Vintage FAKE Fender Jaguar COPY](https://www.craigslist.org/view/d/las-vegas-vintage-fake-fender-jaguar/mvmFN3ECCbnonK6ZWfcyua) | 1959 Vintage Fender Jazzmaster BODY / Reverb The Netherlands | 8000 | 100 |
 | <img src="https://images.craigslist.org/00z0z_7RsWle2O7md_0jt0gU_300x300.jpg" width="120"> | 7983248475 | $10 | daytona | [Vintage - (New) Chinese Tea Pot](https://www.craigslist.org/view/d/deland-vintage-new-chinese-tea-pot/kzwBuugbzEKfWy74M1noCz) | MT465 Vintage Red Ceramic Watch Tower Teapot Swords And ... | 995 | 99.5 |
@@ -265,4 +266,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00V0V_ahQJdvWccWi_0CI0qs_300x300.jpg" width="120"> | 7983656892 | $10 | raleigh | [NC Pottery - Mildred Teague Baskets](https://www.craigslist.org/view/d/cary-nc-pottery-mildred-teague-baskets/dYzUmb3oU2YpXL1BNUDBt4) | Vintage 1953 Dutch Milk Maid Pitcher: Hand-painted Spring .. | 590 | 59 |
 | <img src="https://images.craigslist.org/01717_13vjesFP3PZ_08I05O_300x300.jpg" width="120"> | 7983913236 | $30 | tampa | [Citrine & sterling silver butterfly earring set](https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/sZRPtxyp2iasyzCrQEctfU) | Craigslist | 1750 | 58.33 |
 | <img src="https://images.craigslist.org/01414_BT5Kx5x5bc_08I068_300x300.jpg" width="120"> | 7983914865 | $30 | tampa | [Citrine & sterling silver dragonfly earring set](https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/1Q1F4JH3VFTtLFQWAQvwvw) | Natural Citrine Gemstone with 925 Sterling Silver Cufflink . | 1750 | 58.33 |
-| <img src="https://images.craigslist.org/00x0x_25xZdYEhXbL_0t20CI_300x300.jpg" width="120"> | 7954916105 | $3 | newyork | [Costume Jewelry](https://www.craigslist.org/view/d/costume-jewelry/8CitBSRY2y3HeoXTt4cn5A) | 925 heart shape clasp, pearl yellow crystal. lot of 7 ... | 170 | 56.67 |

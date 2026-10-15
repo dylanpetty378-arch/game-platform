@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T22:17:16Z",
+ "updated": "2026-10-15T22:23:15Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 13074,
-  "events": 40267,
+  "lens": 13099,
+  "events": 40292,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 178,
-  "flagged": 3869,
-  "lensed": 1214
+  "queued": 153,
+  "flagged": 3882,
+  "lensed": 1226
  },
  "last_harvests": [
   {
@@ -1136,6 +1136,17 @@
    "best": "eBay",
    "med": 3000,
    "ratio": 103.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949517432",
+   "title": "Green Buddha",
+   "price": 30,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ventura-green-buddha/sb13Mv8JFpDjLXHyQKL7zP",
+   "best": "A Khmer-Lopburi Bronze Figure of an Adonrned Buddha at 1stDibs",
+   "med": 3075,
+   "ratio": 102.5,
    "ai_value": ""
   },
   {
@@ -6471,6 +6482,17 @@
    "best": "Candance Lovely Rare Signed Art Print \"Sea Shell Pink ...",
    "med": 500,
    "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964591790",
+   "title": "DAVID McKIRDY Mixed Media 1984 Framed Signed Original Flying Kimona",
+   "price": 45,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-david-mckirdy-mixed-media-1984/cwF7GfokFeJNXvpr39Gji8",
+   "best": "Original Jacques Villon Lithograph, Signed | eBay",
+   "med": 449,
+   "ratio": 9.98,
    "ai_value": ""
   },
   {
@@ -13140,6 +13162,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978571100",
+   "title": "Handmade wooden Dancing Figure",
+   "price": 50,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/nordland-handmade-wooden-dancing-figure/mNXZ81Ki4gZexQK6Mbys19",
+   "best": "ANTIQUE! Shinta Art Bali Wood Sculpture Hand Carving ...",
+   "med": 200,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948146887",
    "title": "Italian Men's 24\" Chain Necklace in Sterling Silver",
    "price": 65,
@@ -17078,6 +17111,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965562833",
+   "title": "Vintage Swiss Army Pack",
+   "price": 75,
+   "area": "flagstaff",
+   "url": "https://www.craigslist.org/view/d/flagstaff-vintage-swiss-army-pack/mW1ENTcoyMQZruqSSxD7fg",
+   "best": "Vintage Swedish Army Military Framed Canvas Leather Backpack ...",
+   "med": 214,
+   "ratio": 2.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7931349496",
    "title": "Amber Sterling Silver Ring Size 8",
    "price": 45,
@@ -20301,6 +20345,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936791500",
+   "title": "Vintage Faux Gem 14\" Necklace with 5 1\" Faceted Settings Amber Color",
+   "price": 60,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-faux-gem-14-necklace/3ao3EjnPpRkiJziMfMGEd7",
+   "best": "D&E Juliana Topaz Rhinestone and Molded Art Glass Leaves ...",
+   "med": 135,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135315",
    "title": "NEW 14K Gold Ruby and Diamond Ring",
    "price": 190,
@@ -22145,6 +22200,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-tiffany-lapis-and/bDanUyBev4D7tWY641nrrN",
    "best": "Tiffany&co 18k Gold Sterling Silver Ring With Lapis\u2713 | eBay",
    "med": 495,
+   "ratio": 1.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944027736",
+   "title": "Vintage Jacques Du Manoir Roman Numerals Date Black Gold Watch Swiss",
+   "price": 50,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/carrboro-vintage-jacques-du-manoir/wDTDYryA5HZ9FzJi1VjtJi",
+   "best": "Jacques Du Manoir Swiss Made Unisex Watch-RC.27 | eBay",
+   "med": 99,
    "ratio": 1.98,
    "ai_value": ""
   },
@@ -28448,6 +28514,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-vintage-tins-all-for-10/rxTirhzyMZ2hP7JZEKuA2Z",
    "best": "eBay",
    "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960532550",
+   "title": "Duke Kahanamoku Aloha Ukulele",
+   "price": 150,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/buford-duke-kahanamoku-aloha-ukulele/86ERC73rJmb3cqZLHxorJz",
+   "best": "Vintage Hawaiian Duke Kahanamoku Ukulele 21\" in Box | eBay",
+   "med": 195,
    "ratio": 1.3,
    "ai_value": ""
   },
@@ -35250,6 +35327,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958787114",
+   "title": "1960s Trio Pearl Belly Parrot Brooch",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-1960s-trio-pearl-belly-parrot/3uiDJbu2ZB5PNUVMkBDA5r",
+   "best": "eBay",
+   "med": 26,
+   "ratio": 0.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7949457505",
    "title": "Sterling Silver 7\u201d Watch by Ecclissi",
    "price": 110,
@@ -35961,6 +36049,17 @@
    "url": "https://www.craigslist.org/view/d/vero-beach-sterling-anchor-necklace/61RniUUV7wccCW7rx3MnH3",
    "best": "Sterling Silver Flat Mariner Chain \u2013 Italy-made, 925 XRF ...",
    "med": 132,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955158527",
+   "title": "VINTAGE Lot of 19 Advertising Items Very Old 5 Mills Cross Pin Toy +",
+   "price": 25,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-peters-vintage-lot-of-19/b8dEsQ4RntUqWPnxkv3APH",
+   "best": "Prudential Life Insurance Advertising Vintage LOT of give ...",
+   "med": 17,
    "ratio": 0.68,
    "ai_value": ""
   },
@@ -37219,6 +37318,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957039175",
+   "title": "Joan Rivers Brooch Signed Dogwood Fuchsia/Purple Flower",
+   "price": 150,
+   "area": "battlecreek",
+   "url": "https://www.craigslist.org/view/d/battle-creek-joan-rivers-brooch-signed/7CnEFY4frSbrJtMKDidtEe",
+   "best": "Signed Joan Rivers Vintage Dogwood Flowers Faux Pearl ...",
+   "med": 85,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788591",
    "title": "Sterling Silver Vermeil Clear Stone Criss Cross Size 6.5 Ring",
    "price": 45,
@@ -38473,6 +38583,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979021604",
+   "title": "Original vintage watercolor by E. J. Baird",
+   "price": 250,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-original-vintage-watercolor-by/3mWXHm5WGkxxk4rxzJfZdw",
+   "best": "Antique Signed Painting Brown County Indiana Watercolor ...",
+   "med": 113,
+   "ratio": 0.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7950445010",
    "title": "Vintage Ladies Elgin Watch",
    "price": 275,
@@ -39034,6 +39155,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948563730",
+   "title": "Vintage, Owl and Bird, Bisque Porcelain Figurine",
+   "price": 40,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-owl-and-bird/qhC5vgvXCwxPM1kk1rcCnz",
+   "best": "Lefton China Owl - Etsy",
+   "med": 15,
+   "ratio": 0.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7932673439",
    "title": "Sterling silver adjustable necklace",
    "price": 35,
@@ -39294,6 +39426,17 @@
    "url": "https://www.craigslist.org/view/d/culpeper-vintage-fitz-floyd/vjyVCxX4DgB1mfG8JCt5ft",
    "best": "eBay",
    "med": 28,
+   "ratio": 0.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956757982",
+   "title": "56H x 45L Portrait",
+   "price": 299,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/north-babylon-56h-45l-portrait/gCEqc4emeGieVPH2r4hYTZ",
+   "best": "Bassett Fine Art Farmhouse Scene Decorative Art (0NX006 ...",
+   "med": 105,
    "ratio": 0.35,
    "ai_value": ""
   },
