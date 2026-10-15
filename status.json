@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-15T20:22:12Z",
+ "updated": "2026-10-15T20:39:07Z",
  "tables": {
   "harvests": 15,
-  "searches": 3295,
+  "searches": 3514,
   "listings": 14608,
-  "lens": 12449,
-  "events": 39417,
-  "comps": 2958,
+  "lens": 12474,
+  "events": 39442,
+  "comps": 3149,
   "item_types": 893,
   "runs": 0
  },
@@ -21,9 +21,9 @@
   "decided/find": 9,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 803,
-  "flagged": 3383,
-  "lensed": 1074
+  "queued": 778,
+  "flagged": 3403,
+  "lensed": 1079
  },
  "last_harvests": [
   {
@@ -1722,6 +1722,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945689868",
+   "title": "Vintage items misc items package lot",
+   "price": 1,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/stayton-vintage-items-misc-items/e7K8bfgPnhUQEM7heYuFu1",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 50,
+   "ai_value": ""
+  },
+  {
    "pid": "7969574151",
    "title": "17.75\" Necklace Delicate Gold Tone",
    "price": 15,
@@ -1994,6 +2005,17 @@
    "best": "amuleta navajo - Spirit Bear - argint & gold filled - Robert ...",
    "med": 2100,
    "ratio": 42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954983922",
+   "title": "1970's Jewelry for Sale",
+   "price": 20,
+   "area": "bellingham",
+   "url": "https://www.craigslist.org/view/d/ferndale-1970s-jewelry-for-sale/8H9STrH3AyAUg8oH3pmAn5",
+   "best": "Vintage Tribal South Western Style Faux Turquoise Pendant ...",
+   "med": 835,
+   "ratio": 41.75,
    "ai_value": ""
   },
   {
@@ -6804,6 +6826,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980238002",
+   "title": "Vintage Drip Paint Vase",
+   "price": 15,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-vintage-drip-paint-vase/b4nSQNKuyy7UiEaJ4fo8iV",
+   "best": "Etsy",
+   "med": 116,
+   "ratio": 7.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7966432599",
    "title": "Vintage Murano Art Glass Cobalt Blue Bullicante Bubble 7 1/2\" Bowl",
    "price": 30,
@@ -9609,6 +9642,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970620776",
+   "title": "Bulova Vintage Watch",
+   "price": 35,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/cincinnati-bulova-vintage-watch/2idfHhL6zK1ZCKFdGFqSsa",
+   "best": "Craigslist",
+   "med": 167,
+   "ratio": 4.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7983614937",
    "title": "antique/vintage silver plated serving pieces",
    "price": 50,
@@ -10885,6 +10929,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935939898",
+   "title": "Vintage costume jewelry lot",
+   "price": 30,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/ontario-vintage-costume-jewelry-lot/hzqRsG7cCfTcrbqFLFdNsQ",
+   "best": "Vintage Massive Brooch Stones Czech Glass Metal Gilding ...",
+   "med": 125,
+   "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7974833544",
    "title": "Gold ring",
    "price": 100,
@@ -11644,6 +11699,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983913728",
+   "title": "Vintage Native American Bust",
+   "price": 65,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/balch-springs-vintage-native-american/eAqEDkDBSRMVdZwQZiPy9X",
+   "best": "Invaluable.com",
+   "med": 250,
+   "ratio": 3.85,
+   "ai_value": "Sold at Auction: Marwal Native American Plaster Bust Out of stock $750"
+  },
+  {
    "pid": "7950642878",
    "title": "Ring Vintage Jade Silver Size 6",
    "price": 250,
@@ -12146,6 +12212,17 @@
    "url": "https://www.craigslist.org/view/d/coos-bay-vintage-mccoy-1488-usa-pottery/sGiCGBD1UNV34ASHSDxDjU",
    "best": "Vintage Cast Iron Rustic Basket Style Plant Stand Patina Mid ...",
    "med": 275,
+   "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965898788",
+   "title": "Vintage Southwestern Silver Tone Earings",
+   "price": 15,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-southwestern-silver/hHyMdmLajdbTpC7vhm2Q3Z",
+   "best": "Craigslist",
+   "med": 55,
    "ratio": 3.67,
    "ai_value": ""
   },
@@ -16880,6 +16957,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7984027803",
+   "title": "Antique red/pink transferware",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/port-orchard-antique-red-pink/of9bGiWcx9TgyLnNvzNzcu",
+   "best": "WorthPoint",
+   "med": 240,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983913110",
+   "title": "Vintage Enamel Rose Brooch/Pin",
+   "price": 35,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-enamel-rose-brooch-pin/9wmx1h21indhRsy1247r7D",
+   "best": "eBay",
+   "med": 84,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7961990112",
    "title": "Hand painted Pheasant  plate",
    "price": 18,
@@ -19736,6 +19835,17 @@
    "url": "https://www.craigslist.org/view/d/des-moines-vintage-1930s-hawkeye/tbfTqMvvou8XePCAbDqZt8",
    "best": "C.G. CONN METAL CLARINET ELKHART-IND USA | eBay",
    "med": 239,
+   "ratio": 1.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930264809",
+   "title": "Vintage watches sterling silver coins & etc.",
+   "price": 69,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-watches-sterling/jUNV1CngeHhLctJNnCkomR",
+   "best": "Hello we are selling vintage mechanical watches pocket ...",
+   "med": 132,
    "ratio": 1.91,
    "ai_value": ""
   },
@@ -23304,6 +23414,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983910071",
+   "title": "Vintage Scandinavian Bridal Brooch/Pin",
+   "price": 75,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-scandinavian-bridal/wwiCDfMUbcroaeH3y1dKzK",
+   "best": "Jual Bros Kebaya BROS JILBAB Permata Jurai Susun Dan Tumpuk ...",
+   "med": 112,
+   "ratio": 1.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -23663,6 +23784,28 @@
    "url": "https://www.craigslist.org/view/d/chicago-vintage-winard-scarab-beetle/tRd7oqCKxjgQtmbM9rVWf9",
    "best": "Amazon.com: CiNily 14K White Gold Plated Blue Fire Opal ...",
    "med": 65,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970320806",
+   "title": "Elgin pocket watch",
+   "price": 90,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/sherman-oaks-elgin-pocket-watch/q6XjSYf8ixbBuCQ84o6mHz",
+   "best": "eBay",
+   "med": 130,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977605526",
+   "title": "Vintage Paul Storie Texas Pottery Crock/Vase",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-paul-storie-texas/qADCHk4HoQy3Zm65nfT5oA",
+   "best": "eBay",
+   "med": 36,
    "ratio": 1.44,
    "ai_value": ""
   },
@@ -27088,6 +27231,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942550567",
+   "title": "Turquoise-sterling ring, Mexican earrings",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-turquoise-sterling-ring/8R82BWyZiKcmZjXBEisReL",
+   "best": "Craigslist",
+   "med": 22,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7983534870",
    "title": "Tribal Art Collection",
    "price": 450,
@@ -27161,6 +27315,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-vintage-african-tribal-folk/dnBaaqBDjzonbQo1VSks5B",
    "best": "eBay",
    "med": 108,
+   "ratio": 1.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983912159",
+   "title": "Vintage Marcasite Brooch/Pin",
+   "price": 65,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-marcasite-brooch-pin/eGxpXyc1ZCg4snpF2QpeQ1",
+   "best": "eBay",
+   "med": 70,
    "ratio": 1.08,
    "ai_value": ""
   },
@@ -28342,6 +28507,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7930549772",
+   "title": "VINTAGE PINS",
+   "price": 5,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/tulsa-vintage-pins/cLvX5mt4QtRx3tZhpApE9s",
+   "best": "eBay",
+   "med": 5,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979589003",
+   "title": "Vintage Cornucopia Vase",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/marysville-vintage-cornucopia-vase/4XMXNXQqDC9YL4QdeWkNYG",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -28371,6 +28558,17 @@
    "url": "https://www.craigslist.org/view/d/rochester-vintage-capodimonte-vase/bZMJ31gWGg9tboxqLUxtoj",
    "best": "Capodimonte Vintage Vase Made in Italy. - Etsy",
    "med": 228,
+   "ratio": 0.99,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946795080",
+   "title": "Nicaraguan Nicoya Ceramica Pottery Vase: Signed Elsa Mercado",
+   "price": 75,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-nicaraguan-nicoya-ceramica/iLs3u5NXthQLo62QfW3HSh",
+   "best": "Etsy",
+   "med": 74,
    "ratio": 0.99,
    "ai_value": ""
   },
@@ -37698,6 +37896,28 @@
    "area": "honolulu",
    "url": "https://www.craigslist.org/view/d/waianae-glock-knife/upikghqMv3vDwpC8zR53En",
    "best": "ePrague Knives",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983943536",
+   "title": "Antique Hand Carved Smoke Pipe",
+   "price": 55,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/gainesville-antique-hand-carved-smoke/93rstgkw7DZB5saHGXM8ma",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978263153",
+   "title": "Vintage Watch Collection",
+   "price": 300,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/wheat-ridge-vintage-watch-collection/6G4CihZ18NdFyq5AecW77B",
+   "best": "The Complete Guide to Vintage Seiko Diver Watches: A ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

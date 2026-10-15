@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T20:22:12Z
+# Refurbish status — 2026-10-15T20:39:07Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3383 |
-| lensed | 1074 |
-| queued | 803 |
+| flagged | 3403 |
+| lensed | 1079 |
+| queued | 778 |
 | queued/relens | 486 |
 | decided/ask | 81 |
 | decided/kill | 58 |
@@ -23,11 +23,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 ## Tables
 
 - harvests: 15
-- searches: 3295
+- searches: 3514
 - listings: 14608
-- lens: 12449
-- events: 39417
-- comps: 2958
+- lens: 12474
+- events: 39442
+- comps: 3149
 - item_types: 893
 - runs: 0
 
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
-## Flagged by Lens, waiting for photo review (3383)
+## Flagged by Lens, waiting for photo review (3403)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -252,6 +252,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00j0j_8Q73XFjhqrJ_0t20CI_300x300.jpg" width="120"> | 7931909724 | $20 | santabarbara | [Gold pocket watch](https://www.craigslist.org/view/d/summerland-gold-pocket-watch/g8xCckmuaPkLBZaNrSSioq) | 1975 Vintage Wittnauer Gold Plated Pocket Watch Floral ... | 1039 | 51.95 |
 | <img src="https://images.craigslist.org/00r0r_iN3GdUdZIki_0t20CI_300x300.jpg" width="120"> | 7935589650 | $25 | sfbay | [Vase](https://www.craigslist.org/view/d/san-jose-vase/dwD54QdacBQWA1BwDXecKY) | Signed Lithograph "Spirit Horse" by Artist Woody Crumbo for  | 1286 | 51.44 |
 | <img src="https://images.craigslist.org/00M0M_6BSYpIesxih_0oZ0hq_300x300.jpg" width="120"> | 7974837603 | $10 | boston | [Vintage Black signet type ring, 6.5](https://www.craigslist.org/view/d/natick-vintage-black-signet-type-ring-65/oAV6wukp4Qm77AiLv4rbDt) | Etsy | 502 | 50.2 |
+| <img src="https://images.craigslist.org/00F0F_6eiwbFDedWG_0sm0t2_300x300.jpg" width="120"> | 7945689868 | $1 | salem | [Vintage items misc items package lot](https://www.craigslist.org/view/d/stayton-vintage-items-misc-items/e7K8bfgPnhUQEM7heYuFu1) | eBay | 50 | 50 |
 | <img src="https://images.craigslist.org/01717_cE7YgIsmTRk_0h70t2_300x300.jpg" width="120"> | 7969574151 | $15 | boise | [17.75" Necklace Delicate Gold Tone](https://www.craigslist.org/view/d/boise-1775-necklace-delicate-gold-tone/rhCrZV8uFf1jwzvyDpCZuX) | Vintage Solid 14k Yellow Gold Box Chain Necklace - 23.75 ... | 745 | 49.67 |
 | <img src="https://images.craigslist.org/00U0U_4WNy0iyjRJE_0CI0t2_300x300.jpg" width="120"> | 7978102380 | $44 | ventura | [BARBARA  A. WOOD](https://www.craigslist.org/view/d/ventura-barbara-wood/qR1ev4uaW5QTBdvUZaPpJD) | Barbara Wood / BARBARA A WOOD Signed Portrait Curly Haired . | 2178 | 49.5 |
 | <img src="https://images.craigslist.org/00H0H_4xHBlDprahh_0t20CI_300x300.jpg" width="120"> | 7929354406 | $100 | sandiego | [native art](https://www.craigslist.org/view/d/san-diego-native-art/6stBFvHFUaVaHnxKfkokDX) | Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ... | 4800 | 48 |
@@ -259,4 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00K0K_161KYPzOY3z_0uY0hq_300x300.jpg" width="120"> | 7969448511 | $3 | seattle | [Vintage Woodheaven collection stone ware set](https://www.craigslist.org/view/d/seattle-vintage-woodheaven-collection/2QpK4ATgd7eUVd9CUXV44N) | Mountain Wood Stoneware Bowl - Etsy | 142 | 47.33 |
 | <img src="https://images.craigslist.org/00Y0Y_4Y0blOg0wMn_0t20t2_300x300.jpg" width="120"> | 7982312115 | $50 | tampa | [925 Figaro chain bracelet](https://www.craigslist.org/view/d/brooksville-925-figaro-chain-bracelet/iq8sVUQEP4dfaWJ8x5cBwa) | Craigslist | 2349 | 46.98 |
 | <img src="https://images.craigslist.org/01111_drzi3tYmwji_0tO12w_300x300.jpg" width="120"> | 7954423288 | $30 | seattle | [Small sterling silver heart bracelet](https://www.craigslist.org/view/d/renton-small-sterling-silver-heart/d2z4MDigAAoL7A3E41ZeNb) | Ross-Simons Italian 10kt Yellow Gold Leaf Station Bracelet . | 1400 | 46.67 |
-| <img src="https://images.craigslist.org/00R0R_6SMY6bekI3n_0t20CI_300x300.jpg" width="120"> | 7964361273 | $45 | slo | [Aurora 18K HGE topaz rhinestones vintage](https://www.craigslist.org/view/d/morro-bay-aurora-18k-hge-topaz/b97xwNByEPK8znzcnmcYEY) | Gem | 2095 | 46.56 |
