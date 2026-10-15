@@ -59,6 +59,19 @@ def detail():
     json.dump(out, open(os.path.join(ROOT, 'research', 'pools', 'ebay-detail.json'), 'w'), indent=0)
     print('details', len(out))
 
+def flags(run):
+    """/tmp/eye/<run>/flags_*.tsv (eye agents) -> research/pools/ebay-flagged.json for the detail run."""
+    import glob, re
+    d = f'/tmp/eye/{run}'; idx = json.load(open(d + '/index.json')); rows = []
+    for f in sorted(glob.glob(d + '/flags_*.tsv')):
+        for l in open(f):
+            m = re.match(r'^(\d+)\t([A-Ja-j]\d+)\t?(.*)$', l.rstrip('\n'))
+            r = m and idx.get(f'{int(m.group(1))}:{m.group(2).upper()}')
+            if r: rows.append({'id': r['pid'][4:], 'title': r['title'], 'bid': r['price'], 'bids': r['bids'], 'ends': r['ends'],
+                               'url': r['url'], 'img': r['imgs'][0], 'eye': m.group(3), 'fb': r['area']})
+    json.dump(rows, open(os.path.join(ROOT, 'research', 'pools', 'ebay-flagged.json'), 'w'), indent=0)
+    print(len(rows), 'flags -> research/pools/ebay-flagged.json')
+
 def sheetpool():
     P = json.load(open(OUT)); run = 'ebay-' + P['made'][:16].replace(':', '').replace('-', '').replace('T', '-')
     out = [{'pid': 'ebay' + r['id'].split('|')[1] if '|' in r['id'] else 'ebay' + r['id'], 'source': 'ebay', 'price': r['p'], 'title': r['t'],
@@ -81,3 +94,4 @@ if __name__ == '__main__':
     elif a[0] == 'pool': pool(float(a[1]) if len(a) > 1 else 24)
     elif a[0] == 'sheetpool': sheetpool()
     elif a[0] == 'detail': detail()
+    elif a[0] == 'flags': flags(a[1])
