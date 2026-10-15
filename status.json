@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:12:39Z",
+ "updated": "2026-10-15T06:16:16Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 10924,
-  "events": 36143,
+  "lens": 10949,
+  "events": 36168,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 728,
-  "flagged": 2237,
-  "lensed": 696
+  "queued": 703,
+  "flagged": 2261,
+  "lensed": 697
  },
  "last_harvests": [
   {
@@ -1202,6 +1202,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952430050",
+   "title": "Vintage RSC ring Blue stone with zirconia",
+   "price": 40,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-rsc-ring-blue-stone/nAyiXzKr9dVYBvaPQcCyyp",
+   "best": "eBay",
+   "med": 2600,
+   "ratio": 65,
+   "ai_value": ""
+  },
+  {
    "pid": "7951306170",
    "title": "woman playing  guitar painting",
    "price": 35,
@@ -1554,6 +1565,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7949369207",
+   "title": "Asian Vase",
+   "price": 10,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-asian-vase/27vnYJ6yrf1qu9aPrFTuBg",
+   "best": "Cloisonne Enamel Flower and Pot design Chinese ...",
+   "med": 440,
+   "ratio": 44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945774545",
+   "title": "Vintage Sterling Silver & CZ Eternity Ring",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-sterling-silver-cz/pTPEHBJkHavenmt7D4ke3e",
+   "best": "Etsy",
+   "med": 1516,
+   "ratio": 43.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7948313336",
    "title": "Iced Out Cuban & Coffee Link Bracelet",
    "price": 40,
@@ -1884,6 +1917,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983800325",
+   "title": "Vintage Floral Still-Life Art",
+   "price": 100,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/nashville-vintage-floral-still-life-art/awdvnwqBsmmDp9w6ybg33c",
+   "best": "Original ELIAS JOZSA Oil on Canvas. Still Life of Flowers ...",
+   "med": 3082,
+   "ratio": 30.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7953306808",
    "title": "Beautiful antique cast bronze vase. Made by Murakami, Kyoto, Japan.'",
    "price": 75,
@@ -2012,6 +2056,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-nice-vintage-jewelry-only/gYd7zfA3wauqTzk2oAenSH",
    "best": "Craigslist",
    "med": 55,
+   "ratio": 27.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979777742",
+   "title": "Vintage Squash Blossom Necklace",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-squash-blossom/d7XNj1ryP3W8FetS6C15yz",
+   "best": "Etsy",
+   "med": 2200,
    "ratio": 27.5,
    "ai_value": ""
   },
@@ -2863,6 +2918,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937788473",
+   "title": "Vintage Sterling Silver & Lab Created Diamond Journey Pendant Necklace",
+   "price": 45,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-sterling-silver-lab/rdNaqqFTMbd9DV323AYMEM",
+   "best": "eBay",
+   "med": 695,
+   "ratio": 15.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7965732762",
    "title": "RINGS",
    "price": 15,
@@ -3556,6 +3622,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947916198",
+   "title": "Handmade ceramic deer vase",
+   "price": 15,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/escondido-handmade-ceramic-deer-vase/fYtHuLkfGTdBhtsscTrj8c",
+   "best": "Etsy",
+   "med": 175,
+   "ratio": 11.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7978093833",
    "title": "BARBARA A. WOOD",
    "price": 52,
@@ -4081,6 +4158,17 @@
    "best": "eBay",
    "med": 138,
    "ratio": 9.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954136267",
+   "title": "Rhinestone Necklaces",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-rhinestone-necklaces/hnjXs5Km5FFf1oZWtsP26D",
+   "best": "Craigslist",
+   "med": 98,
+   "ratio": 9.8,
    "ai_value": ""
   },
   {
@@ -5401,6 +5489,17 @@
    "best": "14k Yellow Gold Marquise Ruby Diamond Halo Ring - US Size 6 ...",
    "med": 1176,
    "ratio": 6.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939502606",
+   "title": "Vintage Coro Bracelet 7 \" Signed",
+   "price": 13,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/belmont-vintage-coro-bracelet-signed/dmfJhUkQ9y7At9NSJFUB3G",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 6.15,
    "ai_value": ""
   },
   {
@@ -9353,6 +9452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954673516",
+   "title": "Vintage Swarovski pierced earrings",
+   "price": 48,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-swarovski-pierced/hdPbwcHbmxyJHmx4V2iRmk",
+   "best": "Etsy",
+   "med": 145,
+   "ratio": 3.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7963163685",
    "title": "Extra large Glass Vase .",
    "price": 50,
@@ -10603,6 +10713,17 @@
    "url": "https://www.craigslist.org/view/d/painting-original-oil-canvas/8fGQBawPynFxpFgfMm3UVf",
    "best": "LANDSCAPE Oil Canvas Original Vintage Artist Schwartz ...",
    "med": 195,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966158045",
+   "title": "Vintage Bulova Accutron Watch  1969 Vintage",
+   "price": 200,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-bulova-accutron/qxXqcT5N9TfYtwZLafhTY2",
+   "best": "eBay",
+   "med": 520,
    "ratio": 2.6,
    "ai_value": ""
   },
@@ -11978,6 +12099,17 @@
    "url": "https://www.craigslist.org/view/d/apollo-beach-ladies-necklaces/mqStNaBygejnXuZayEnqro",
    "best": "Craigslist",
    "med": 56,
+   "ratio": 2.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983756348",
+   "title": "Vintage hand carved art",
+   "price": 50,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-vintage-hand-carved-art/mPKuLvu1W1czp5EiZb3hi6",
+   "best": "eBay",
+   "med": 112,
    "ratio": 2.24,
    "ai_value": ""
   },
@@ -13544,6 +13676,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963865031",
+   "title": "Vintage Framed & Signed Floral Oil Painting",
+   "price": 250,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/palatine-vintage-framed-signed-floral/1kJPCSMJq4YR4RPk6SMxP2",
+   "best": "Anew Foods",
+   "med": 455,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7949659551",
    "title": "Sterling Silver & Marcasite Quartz Watch 7\u201d",
    "price": 80,
@@ -14134,6 +14277,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-vintage-pendant-abalone-inlay/wTPUJ1b5hNv4ewkasmkdeW",
    "best": "Las mejores ofertas en Pendientes de moda de plata de ley ...",
    "med": 49,
+   "ratio": 1.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948896013",
+   "title": "Antique Elgin Pocket Watch w/ Hickok Beltogram Chain - Excellent Cond.",
+   "price": 259,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-antique-elgin-pocket-watch/mkqGgy723TbWi8BQy6NHMi",
+   "best": "Working 1925 Elgin Open Face 17 Jewel Gold Filled Pocket ...",
+   "med": 438,
    "ratio": 1.69,
    "ai_value": ""
   },
@@ -15458,6 +15612,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981195242",
+   "title": "25 porcelain and ceramic vintage figurines",
+   "price": 70,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-25-porcelain-and-ceramic/2gvb4K2MDZBgVuBTFNa5UV",
+   "best": "eBay",
+   "med": 105,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -16382,6 +16547,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952622513",
+   "title": "COACH SIGNATURE BANGLE BRACELET",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/discovery-bay-coach-signature-bangle/vVyfroL3p4h2UFNtcDCdpu",
+   "best": "Craigslist",
+   "med": 40,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -16701,6 +16877,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954241556",
+   "title": "Sterling Brooch by Steve Stamos",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/riverdale-sterling-brooch-by-steve/xpAq1qbLDTc3dbkiK9moUE",
+   "best": "eBay",
+   "med": 63,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -16983,6 +17170,17 @@
    "url": "https://www.craigslist.org/view/d/orlando-antique-american-ladies-pocket/igsQp4XiXjhBTpZZrX4BXH",
    "best": "Antique Waltham Gold Plated Lady Pocket Watch 1900's USA ...",
    "med": 307,
+   "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949929123",
+   "title": "Sterling silver necklace and cross pendant",
+   "price": 48,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-sterling-silver-necklace-and/mdCJVMrUdFq5N21viP6LbL",
+   "best": "eBay",
+   "med": 59,
    "ratio": 1.23,
    "ai_value": ""
   },
@@ -18186,6 +18384,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940397096",
+   "title": "Vintage sterling silver ring with mother of pearl",
+   "price": 80,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-sterling-silver-ring/h8JxJ9EsnrciX7r8vhciYF",
+   "best": "Etsy",
+   "med": 85,
+   "ratio": 1.06,
+   "ai_value": ""
+  },
+  {
    "pid": "7969944696",
    "title": "Charm bracelet",
    "price": 20,
@@ -18237,6 +18446,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-guess-hearth-gold-tone/8k4wUhUHsHqENMQv8bUwDW",
    "best": "eBay",
    "med": 20,
+   "ratio": 1.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966443306",
+   "title": "ANTIQUE CHILD\u2019S TEA SET",
+   "price": 100,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/troutman-antique-childs-tea-set/j9mnS2M2ULkdZxTsu82ciZ",
+   "best": "eBay",
+   "med": 105,
    "ratio": 1.05,
    "ai_value": ""
   },
@@ -18952,6 +19172,17 @@
    "url": "https://www.craigslist.org/view/d/evanston-antique-chinese-porcelain-bowl/eb47Ar2jjUsfJzmJ6h24Jq",
    "best": "Porcelain Japan China Bowl Decorated In Hong Kong 6 ...",
    "med": 250,
+   "ratio": 0.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946156295",
+   "title": "Huge lot of 19 earrings",
+   "price": 30,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/urbandale-huge-lot-of-19-earrings/9gr9N7Kddmn7q8uWmmCv2N",
+   "best": "eBay",
+   "med": 29,
    "ratio": 0.97,
    "ai_value": ""
   },
@@ -20822,6 +21053,17 @@
    "url": "https://www.craigslist.org/view/d/san-diego-vintage-mexican-sterling/gkiYUXyVd87AfeDapt58ZX",
    "best": "eBay",
    "med": 70,
+   "ratio": 0.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964414109",
+   "title": "Vintage Silver chain with silver pendant turquoise",
+   "price": 155,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-silver-chain-with/vYruWx5RCZC2Roz4Hdamqa",
+   "best": "Craigslist",
+   "med": 110,
    "ratio": 0.71,
    "ai_value": ""
   },
@@ -25089,6 +25331,28 @@
    "area": "jerseyshore",
    "url": "https://www.craigslist.org/view/d/toms-river-88-vintage-hallmark/6g2W7Q7iNivriHRD7W3Aix",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929368560",
+   "title": "Basement full of collectibles",
+   "price": 100,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/east-brunswick-basement-full-of/pkULZQLCyKK1A8KzLh7Lro",
+   "best": "Wikipedia",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950141627",
+   "title": "Vintage Softshell Mandolin Case",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-softshell-mandolin/bJAq5xKCZ1ffNUvU4CibB4",
+   "best": "Vintage Mandolin Case 50's/60's tweed Silvertone/Kay Etc for ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
