@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T16:11:24Z",
+ "updated": "2026-10-15T16:14:48Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12424,
-  "events": 38556,
+  "lens": 12449,
+  "events": 38582,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -15,15 +15,15 @@
   "comps/pass": 1,
   "queued/relens": 486,
   "decided/ask": 82,
-  "decided/bundle": 5,
+  "decided/bundle": 4,
   "decided/kill": 56,
-  "expired": 16,
+  "expired": 17,
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 28,
-  "flagged": 3363,
-  "lensed": 1069
+  "queued": 3,
+  "flagged": 3383,
+  "lensed": 1074
  },
  "last_harvests": [
   {
@@ -1839,6 +1839,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968539775",
+   "title": "Original Oil Painting on Canvas Panel",
+   "price": 25,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/saint-louis-original-oil-painting-on/kwky7B9sqXcMqwpc2EvuwE",
+   "best": "CARL HENRIK JONNEVOLD (1856-1955) - Artworks - Sullivan Goss ...",
+   "med": 1134,
+   "ratio": 45.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7950136658",
    "title": "Hand made Brass",
    "price": 1,
@@ -1991,6 +2002,17 @@
    "med": 1038,
    "ratio": 41.52,
    "ai_value": ""
+  },
+  {
+   "pid": "7943402679",
+   "title": "2 Vintage Rooster Prints on Canvas, 8\" x 10\"",
+   "price": 40,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-rooster-prints-on-canvas/2StBgCs8rsf1LsVQesQk9A",
+   "best": "eBay",
+   "med": 1661,
+   "ratio": 41.52,
+   "ai_value": "WorthPoint Framed Art Chicken Rooster Signed Marilyn Rea | #1824567326 $6"
   },
   {
    "pid": "7942143626",
@@ -3082,6 +3104,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956374288",
+   "title": "Quantity 5 - Sizes 6 to 7 Sterling Concho Ring",
+   "price": 25,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/ormond-beach-quantity-sizes-to-sterling/quX3Ddnm8vp9qXaDepT9ZR",
+   "best": "Etsy",
+   "med": 536,
+   "ratio": 21.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7983382749",
    "title": "Vintage Mido Multifort Super Automatic Watch",
    "price": 375,
@@ -3254,6 +3287,17 @@
    "url": "https://www.craigslist.org/view/d/cuff-links-by-dior/2yjpLLF59zQd7To1A8aZAA",
    "best": "25+ Dior Silver Cufflinks for Men for sale | Updated Oct 2026",
    "med": 400,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963948485",
+   "title": "Hyde Park Corner picture Plate 1!",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/brookhaven-hyde-park-corner-picture/f8dGTMnjHXL4d5CsmcxvrF",
+   "best": "MutualArt",
+   "med": 200,
    "ratio": 20,
    "ai_value": ""
   },
@@ -7196,6 +7240,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962155331",
+   "title": "Xanadu \"Lands Of Fable\" Plate Collection",
+   "price": 10,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/north-chili-xanadu-lands-of-fable-plate/rFGz9tav2ckcaCBt9PtGAw",
+   "best": "eBay",
+   "med": 72,
+   "ratio": 7.2,
+   "ai_value": "WorthPoint Grateful Dead Hamilton 13 Plates Stanley Mouse | #22938665 $4"
+  },
+  {
    "pid": "7954934702",
    "title": "Jade carved bracelet",
    "price": 75,
@@ -8505,6 +8560,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950187932",
+   "title": "Elvis music box",
+   "price": 35,
+   "area": "reading",
+   "url": "https://www.craigslist.org/view/d/pottstown-elvis-music-box/rwAHDGZmr8Brb96nAkUG4R",
+   "best": "THE BRADFORD EDITIONS ELVIS PRESLEY SOLID GOLD MUSICAL ...",
+   "med": 197,
+   "ratio": 5.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7982393652",
    "title": "Antique Halloween papier mache candy containers",
    "price": 25,
@@ -8689,6 +8755,17 @@
    "best": "Natural Oval Arizona Turquoise Heavy Cast Pure Sterling ...",
    "med": 815,
    "ratio": 5.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983837930",
+   "title": "10kt gold/1ct. Diamonds",
+   "price": 300,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-10kt-gold-1ct-diamonds/91QjNQqbMVTWWu5GgTapP7",
+   "best": "Etsy",
+   "med": 1625,
+   "ratio": 5.42,
    "ai_value": ""
   },
   {
@@ -10393,6 +10470,17 @@
    "url": "https://www.craigslist.org/view/d/needham-heights-vintage-painting/fnkcNmUsjcVetuKVmXAxhJ",
    "best": "eBay",
    "med": 13,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930523603",
+   "title": "Noritake Sugar and Creamer",
+   "price": 15,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/glenmont-noritake-sugar-and-creamer/44xCgFVLJcbjNZRuQm7gHN",
+   "best": "Etsy",
+   "med": 65,
    "ratio": 4.33,
    "ai_value": ""
   },
@@ -13103,6 +13191,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948185059",
+   "title": "Last supper  Jesus over 100 years old",
+   "price": 195,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/kennesaw-last-supper-jesus-over-100/ge3HQGmda718Zd8cTSHxQd",
+   "best": "Etsy",
+   "med": 645,
+   "ratio": 3.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7973590614",
    "title": "Hawaii Landscape Wall Hanging",
    "price": 20,
@@ -14368,6 +14467,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979167497",
+   "title": "Fender Acoustasonic 30 DSP",
+   "price": 100,
+   "area": "treasure",
+   "url": "https://www.craigslist.org/view/d/vero-beach-fender-acoustasonic-30-dsp/tbenPmnmDjtRqRLBiRjDpr",
+   "best": "Craigslist",
+   "med": 300,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -14396,6 +14506,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/santa-monica-kala-ka-teak-soprano/efhVszCXkUjKpJKrkK6DoN",
    "best": "Kala Ka-Teak-C - Teak Concert Ukulele | eBay",
+   "med": 149,
+   "ratio": 2.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977611268",
+   "title": "27 piece Avon Cape Cod",
+   "price": 50,
+   "area": "indianapolis",
+   "url": "https://www.craigslist.org/view/d/indianapolis-27-piece-avon-cape-cod/tQqCmD7MnnFexVWBZD3FSu",
+   "best": "Etsy",
    "med": 149,
    "ratio": 2.98,
    "ai_value": ""
@@ -14837,6 +14958,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-amber-sterling-silver-ring-size/duVANAZpJZMZRorXMp7Pek",
    "best": "Khafagy",
    "med": 128,
+   "ratio": 2.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968039102",
+   "title": "ISLA SILVER MULTI GEMSTONE BANGLE -",
+   "price": 125,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/winter-springs-isla-silver-multi/1J7UinfJJ7hFnmytUmpjcS",
+   "best": "Niels Erik FROM Denmark Sterling silver cuff Bracelet MCM ...",
+   "med": 355,
    "ratio": 2.84,
    "ai_value": ""
   },
@@ -15534,6 +15666,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941647879",
+   "title": "antique copperplate engraving titled \"Diving Machines\",",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-mateo-antique-copperplate-engraving/iHViBgFhVXmRNnZnLJiTsQ",
+   "best": "Fine Art America",
+   "med": 66,
+   "ratio": 2.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7953206201",
    "title": "Sterling Silver & Teal Turquoise Pendant",
    "price": 30,
@@ -15981,6 +16124,17 @@
    "url": "https://www.craigslist.org/view/d/marietta-marvella-necklace-earrings/jCeLCU7eYYsp6xkZwi82aS",
    "best": "2 strand pearl/gem Dark Blue necklace Costume 11 In | eBay",
    "med": 38,
+   "ratio": 2.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959485142",
+   "title": "ANTIQUE CAST IRON TEA KETTLE / POT",
+   "price": 75,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/south-harrison-township-antique-cast/8Qm19BTAq6qNtHDEWvN2bY",
+   "best": "eBay",
+   "med": 190,
    "ratio": 2.53,
    "ai_value": ""
   },
@@ -22013,6 +22167,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968393837",
+   "title": "Maltese cross silver tone vintage brooch",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/methuen-maltese-cross-silver-tone/vJJQpUUoYMUGUyNXawZUUF",
+   "best": "eBay",
+   "med": 32,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -23373,6 +23538,17 @@
    "url": "https://www.craigslist.org/view/d/palos-park-doll-26-inches/4MjCb3GCgE2gWyJLCA3Zf9",
    "best": "26 Inch Raggedy Ann Doll Handmade With Light Color Skintone ...",
    "med": 51,
+   "ratio": 1.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962825678",
+   "title": "Lladro - Girlfriends",
+   "price": 225,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/north-canton-lladro-girlfriends/eEHDqc84abpHsg6XLdyqEc",
+   "best": "Lladr\u00f3",
+   "med": 328,
    "ratio": 1.46,
    "ai_value": ""
   },
@@ -35323,6 +35499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931194758",
+   "title": "Large Buddha Statue",
+   "price": 75,
+   "area": "dayton",
+   "url": "https://www.craigslist.org/view/d/dayton-large-buddha-statue/wQFuqSeGtjPCL4ghcQCFJ3",
+   "best": "eBay",
+   "med": 15,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933424756",
    "title": "Sterling Silver Ecclissi Art Deco Cuff 7 1/2\u201d Watch",
    "price": 175,
@@ -35440,6 +35627,17 @@
    "url": "https://www.craigslist.org/view/d/west-simsbury-lot-of-three-vintage/jsKp7EuJ6CRcZ64RHCVxGA",
    "best": "Etsy",
    "med": 21,
+   "ratio": 0.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977185436",
+   "title": "Vintage Faber Castell Germany 9007 Pencils",
+   "price": 60,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-faber-castell/cZ4iHL5QoPaTqgdW94txyS",
+   "best": "eBay",
+   "med": 11,
    "ratio": 0.18,
    "ai_value": ""
   },
@@ -37474,6 +37672,28 @@
    "area": "mobile",
    "url": "https://www.craigslist.org/view/d/grove-hill-kershaw-old-timer-browning/fH1rmjns3P6sVrn1uWRLMo",
    "best": "Amazon.com",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967424435",
+   "title": "Sailor Jerry poster",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-sailor-jerry-poster/33hy5zVP9TqatgwCcEmTnk",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981536828",
+   "title": "GLOCK Knife",
+   "price": 49,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/waianae-glock-knife/upikghqMv3vDwpC8zR53En",
+   "best": "ePrague Knives",
    "med": null,
    "ratio": null,
    "ai_value": ""
