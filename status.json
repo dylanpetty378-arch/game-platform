@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:56:21Z",
+ "updated": "2026-10-15T16:00:15Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12324,
-  "events": 38456,
+  "lens": 12349,
+  "events": 38481,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 128,
-  "flagged": 3297,
-  "lensed": 1035
+  "queued": 103,
+  "flagged": 3314,
+  "lensed": 1043
  },
  "last_harvests": [
   {
@@ -2136,6 +2136,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937712592",
+   "title": "Medieval Style Dagger",
+   "price": 10,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/brockport-medieval-style-dagger/25QeMJggFbqhxGQKvLSMLv",
+   "best": "Custom Handmade Ladder Pattern Damascus Japanese ...",
+   "med": 360,
+   "ratio": 36,
+   "ai_value": ""
+  },
+  {
    "pid": "7978088604",
    "title": "TARKEI",
    "price": 49,
@@ -3808,6 +3819,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954938370",
+   "title": "pretty ring, size 9.5",
+   "price": 25,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-pretty-ring-size-95/jJDgnWGbdpZcWEASb7xr9X",
+   "best": "STERLING SILVER BLUE TOPAZ, CUBIC ZIRCONIA RING FINE QUALITY ...",
+   "med": 400,
+   "ratio": 16,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471663",
    "title": "Vintage 925/14k Gold Vermeil filigree Jade & Pearl Earrings",
    "price": 30,
@@ -4321,6 +4343,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-sterling-silver-earrings-with/2mjydpiUeFiQtbesxiL566",
    "best": "Diamonique x Jennifer Miller \"Go Big or Go Home\" Earrings ...",
    "med": 400,
+   "ratio": 13.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946798911",
+   "title": "Custom Strat Body",
+   "price": 300,
+   "area": "stlouis",
+   "url": "https://www.craigslist.org/view/d/fenton-custom-strat-body/geyDkvq4udYuGWdrpK1AHt",
+   "best": "Tom Anderson The Classic | Dark Honey Burst",
+   "med": 3999,
    "ratio": 13.33,
    "ai_value": ""
   },
@@ -5590,6 +5623,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929839710",
+   "title": "CHERUB ANGELS TRINKET DISH, VINTAGE",
+   "price": 10,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/concord-cherub-angels-trinket-dish/emtrZRtztv8kD6Z375U6eG",
+   "best": "Vintage Italy Hand Painted Ceramic Trinket Dish, Vintage ...",
+   "med": 99,
+   "ratio": 9.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7956088840",
    "title": "2 paintings",
    "price": 40,
@@ -6443,6 +6487,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/saint-paul-oberfrankishe-glass-set-of/kVVeWZCkTqap83YKBmik2z",
    "best": "Vtg Germany 6 Oberfrankische Glas Glass Heart Faux Trinket ...",
+   "med": 120,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950186787",
+   "title": "Men's Tungsten Carbide Gold Wedding Ring",
+   "price": 15,
+   "area": "fortwayne",
+   "url": "https://www.craigslist.org/view/d/auburn-mens-tungsten-carbide-gold/5pau5ybgKrt9zjEiv7ckus",
+   "best": "His/her Rings Set - 18 Kt Yellow Gold Wedding Bands (6mm/4mm ...",
    "med": 120,
    "ratio": 8,
    "ai_value": ""
@@ -10397,6 +10452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946601588",
+   "title": "FINE VINTAGE SERIGRAPH IN EARTH TONES \"REFLECTION LAKE\" WALTON BUTTS",
+   "price": 45,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-fine-vintage-serigraph-in/3bWbRxMcj3suSRYwzQpyZy",
+   "best": "Lot - WALTON BUTTS, SEVEN SILKSCREEN PRINTS (Pacific",
+   "med": 190,
+   "ratio": 4.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7932268318",
    "title": "Beautiful Dragon Brooch",
    "price": 29,
@@ -11494,6 +11560,17 @@
    "best": "SOLD!!!\ud83d\udd38\ud83c\udf31\u2666\ufe0fVintage Handmade Tiny/Mini Peruvian Pottery ...",
    "med": 189,
    "ratio": 3.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983832866",
+   "title": "1-Inch Gold-Filled Cross Pendant",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-inch-gold-filled-cross/2RKe4Db85N2znFVoFrNK1r",
+   "best": "14k Yellow Gold Textured Small Cross Pendant | eBay",
+   "med": 151,
+   "ratio": 3.77,
    "ai_value": ""
   },
   {
@@ -14056,6 +14133,17 @@
    "url": "https://www.craigslist.org/view/d/brookline-vintage-westmoreland-deep-cut/htih96qLgK27MPeXHUzRde",
    "best": "Antique Vintage American Brilliant Period Cut Crystal Glass ...",
    "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929841323",
+   "title": "SHOE SHINE TRAVEL KIT, VINTAGE",
+   "price": 5,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/concord-shoe-shine-travel-kit-vintage/3duqoet2SnKRa1mgBGWdRZ",
+   "best": "Vintage German Clothes Brush With Zipper Close Area With ...",
+   "med": 15,
    "ratio": 3,
    "ai_value": ""
   },
@@ -17217,6 +17305,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941194130",
+   "title": "Set of 6 etched dishes",
+   "price": 20,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/palmyra-set-of-etched-dishes/d9CVC6M9oNh11n28hkCL8V",
+   "best": "Libbey Glass Company Stardust Champagne Sherbet Glasses Gray ...",
+   "med": 45,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135315",
    "title": "NEW 14K Gold Ruby and Diamond Ring",
    "price": 190,
@@ -20099,6 +20198,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937813892",
+   "title": "18k Gold over Sterling Slipper Shoe Pendant Necklace",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-18k-gold-over-sterling-slipper/k8dvW6VkPexegh4R6S45Mo",
+   "best": "Sandal Charm With Chain 18kt Gold Over Sterling Silver | eBay",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -20986,6 +21096,17 @@
    "url": "https://www.craigslist.org/view/d/san-diego-african-camum-mask-vintage/kjZn1G1BK9ht396zX8Fhqc",
    "best": "Dayton Art Institute",
    "med": 500,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969490727",
+   "title": "Butter \ud83e\uddc8 & Toast antique vase \ud83c\udffa",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-butter-toast-antique-vase/mmuDKasGZYrKeoQSyWEDvZ",
+   "best": "BUTTER + TOAST Ceramic Vase Studio Art Pottery 11\" x 4 ...",
+   "med": 125,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -23703,6 +23824,17 @@
    "url": "https://www.craigslist.org/view/d/brooksville-vintage-monet-bracelets/vypGiysWW5WM8rkVtxwT9v",
    "best": "Monet Bangle Bracelet / Vintage Jewelry / 1960s Bracelet ...",
    "med": 48,
+   "ratio": 1.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945614070",
+   "title": "Lot Of 2 Hatchet",
+   "price": 30,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/montville-lot-of-hatchet/m39JPYqWeP27TiAKAsYTXf",
+   "best": "Vintage Plumb Hatchet Carpenter Hammer Axe | eBay",
+   "med": 41,
    "ratio": 1.37,
    "ai_value": ""
   },
@@ -30780,6 +30912,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983831576",
+   "title": "1979 OKURA PORCELAIN VASE 12\"",
+   "price": 95,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-1979-okura-porcelain-vase-12/atHZoMGEzBM1JKYqa1VPDd",
+   "best": "Vintage Okura Japanese Vase by Franklin Mint, Yellow ...",
+   "med": 65,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7934982494",
    "title": "Shirley Temple Doll Collection",
    "price": 45,
@@ -33427,6 +33570,17 @@
    "url": "https://www.craigslist.org/view/d/stony-brook-master-card-beanie-babies/7vG542bX2JeWyx5QHPCFau",
    "best": "Ty Beanie Babies Mastercard Bears - Etsy",
    "med": 8,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929163560",
+   "title": "Picture Art Signed",
+   "price": 75,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/alpine-picture-art-signed/3AmfgmMZLJPnZpSiPtwuNe",
+   "best": "Native American Cherokee Dona Mares Original \"Turquoise ...",
+   "med": 30,
    "ratio": 0.4,
    "ai_value": ""
   },
@@ -36748,6 +36902,39 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/medford-zippo-folding-knife/4DzpW9wVNzLRXvu3ydyvjY",
    "best": "Zippo Pocketknife Collectible Vintage Factory Manufactured ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982429829",
+   "title": "Hamilton Collection \u201cGreat Fighter Planes From World War II\u201d",
+   "price": 100,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/brewerton-hamilton-collection-great/8RWfEJsBJs4jkTEG8MfLx9",
+   "best": "Coalport Reach For The Sky Collectors Plate by Michael ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937711557",
+   "title": "Szco Supplies Dagger",
+   "price": 10,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/brockport-szco-supplies-dagger/8sx5QPnSTcMxCXLAMMuK1a",
+   "best": "Vintage Model 13-12\" \"Arkansas Toothpick\" \u2013 Nordic Knives",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948240463",
+   "title": "Antique rare British Sheffield England fighting knife",
+   "price": 85,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-antique-rare-british-sheffield/45HusFcQNjxiMWFQyaoSBq",
+   "best": "Vintage Custom Italian Made Fixed Blade Knife W/ Leather ...",
    "med": null,
    "ratio": null,
    "ai_value": ""

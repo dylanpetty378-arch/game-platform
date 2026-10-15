@@ -38454,3 +38454,28 @@
 {"ts":"2026-10-15T15:55:38Z","pid":"7953641126","stage":"lensed","run":"lensworker-20261015-1546","note":null,"data":{"med":48,"ratio":1.07,"mismatch":[]}}
 {"ts":"2026-10-15T15:55:47Z","pid":"7983867168","stage":"lensed","run":"lensworker-20261015-1546","note":null,"data":{"med":50,"ratio":0.67,"mismatch":[]}}
 {"ts":"2026-10-15T15:55:58Z","pid":"7952638151","stage":"lensed","run":"lensworker-20261015-1546","note":null,"data":{"med":26,"ratio":1.73,"mismatch":[]}}
+{"ts":"2026-10-15T15:56:07Z","pid":"7953977652","stage":"lensed","run":"lensworker-20261015-1546","note":null,"data":{"med":27,"ratio":1.08,"mismatch":[]}}
+{"ts":"2026-10-15T15:56:18Z","pid":"7982429829","stage":"flagged","run":"lensworker-20261015-1546","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T15:56:28Z","pid":"7937711557","stage":"flagged","run":"lensworker-20261015-1546","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T15:56:36Z","pid":"7950186787","stage":"flagged","run":"lensworker-20261015-1546","note":null,"data":{"med":120,"ratio":8,"mismatch":[]}}
+{"ts":"2026-10-15T15:56:47Z","pid":"7929163560","stage":"flagged","run":"lensworker-20261015-1546","note":"Lens names Native — title does not","data":{"med":30,"ratio":0.4,"mismatch":["Native"]}}
+{"ts":"2026-10-15T15:56:55Z","pid":"7950375350","stage":"lensed","run":"lensworker-20261015-1546","note":null,"data":{"med":73,"ratio":2.43,"mismatch":[]}}
+{"ts":"2026-10-15T15:57:04Z","pid":"7939312821","stage":"lensed","run":"lensworker-20261015-1546","note":null,"data":{"med":7,"ratio":0.2,"mismatch":[]}}
+{"ts":"2026-10-15T15:57:14Z","pid":"7983832866","stage":"flagged","run":"lensworker-20261015-1546","note":null,"data":{"med":151,"ratio":3.77,"mismatch":[]}}
+{"ts":"2026-10-15T15:57:22Z","pid":"7929841323","stage":"flagged","run":"lensworker-20261015-1546","note":"Lens names Brush — title does not","data":{"med":15,"ratio":3,"mismatch":["Brush"]}}
+{"ts":"2026-10-15T15:57:32Z","pid":"7946601588","stage":"flagged","run":"lensworker-20261015-1556","note":null,"data":{"med":190,"ratio":4.22,"mismatch":[]}}
+{"ts":"2026-10-15T15:57:42Z","pid":"7945614070","stage":"flagged","run":"lensworker-20261015-1556","note":"Lens names Plumb — title does not","data":{"med":41,"ratio":1.37,"mismatch":["Plumb"]}}
+{"ts":"2026-10-15T15:57:52Z","pid":"7937712592","stage":"flagged","run":"lensworker-20261015-1556","note":null,"data":{"med":360,"ratio":36,"mismatch":[]}}
+{"ts":"2026-10-15T15:58:02Z","pid":"7954938370","stage":"flagged","run":"lensworker-20261015-1556","note":null,"data":{"med":400,"ratio":16,"mismatch":[]}}
+{"ts":"2026-10-15T15:58:12Z","pid":"7948240463","stage":"flagged","run":"lensworker-20261015-1556","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T15:58:19Z","pid":"7946798911","stage":"flagged","run":"lensworker-20261015-1556","note":null,"data":{"med":3999,"ratio":13.33,"mismatch":[]}}
+{"ts":"2026-10-15T15:58:26Z","pid":"7983845382","stage":"lensed","run":"lensworker-20261015-1556","note":null,"data":{"med":105,"ratio":1.5,"mismatch":[]}}
+{"ts":"2026-10-15T15:58:36Z","pid":"7937813892","stage":"flagged","run":"lensworker-20261015-1556","note":"Lens names Silver — title does not","data":{"med":45,"ratio":1.8,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T15:58:47Z","pid":"7969490727","stage":"flagged","run":"lensworker-20261015-1556","note":"Lens names Studio — title does not","data":{"med":125,"ratio":1.67,"mismatch":["Studio"]}}
+{"ts":"2026-10-15T15:58:57Z","pid":"7945360383","stage":"lensed","run":"lensworker-20261015-1556","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T15:59:07Z","pid":"7929839710","stage":"flagged","run":"lensworker-20261015-1556","note":null,"data":{"med":99,"ratio":9.9,"mismatch":[]}}
+{"ts":"2026-10-15T15:59:15Z","pid":"7938972683","stage":"lensed","run":"lensworker-20261015-1556","note":null,"data":{"med":20,"ratio":1.33,"mismatch":[]}}
+{"ts":"2026-10-15T15:59:24Z","pid":"7983831576","stage":"flagged","run":"lensworker-20261015-1556","note":"Lens names Franklin Mint — title does not","data":{"med":65,"ratio":0.68,"mismatch":["Franklin Mint"]}}
+{"ts":"2026-10-15T15:59:34Z","pid":"7973764920","stage":"lensed","run":"lensworker-20261015-1556","note":null,"data":{"med":33,"ratio":3.3,"mismatch":[]}}
+{"ts":"2026-10-15T15:59:42Z","pid":"7941194130","stage":"flagged","run":"lensworker-20261015-1556","note":"Lens names Champagne, Company, Libbey — title does not","data":{"med":45,"ratio":2.25,"mismatch":["Champagne","Company","Libbey"]}}
+{"ts":"2026-10-15T15:59:51Z","pid":"7956149966","stage":"lensed","run":"lensworker-20261015-1556","note":null,"data":{"med":40,"ratio":5,"mismatch":[]}}
