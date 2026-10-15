@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:16:33Z",
+ "updated": "2026-10-15T21:20:52Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12699,
-  "events": 39818,
+  "lens": 12724,
+  "events": 39886,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -16,14 +16,14 @@
   "queued/relens": 486,
   "decided/ask": 80,
   "decided/bundle": 4,
-  "decided/kill": 58,
+  "decided/kill": 97,
   "expired": 19,
-  "decided/find": 9,
+  "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 553,
-  "flagged": 3671,
-  "lensed": 1111
+  "queued": 528,
+  "flagged": 3646,
+  "lensed": 1118
  },
  "last_harvests": [
   {
@@ -949,6 +949,17 @@
    "best": "Sold at Auction: Bill Gallen, Bill Gallen | The Red Mountain",
    "med": 3500,
    "ratio": 140,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953991018",
+   "title": "antique Papago pottery",
+   "price": 1,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-antique-papago-pottery/kFzMBs8jAkdC7xR8KZ9ozS",
+   "best": "Vintage Blackened Clay Pot \u2013 5 Inch Handmade Earthenware ...",
+   "med": 139,
+   "ratio": 139,
    "ai_value": ""
   },
   {
@@ -3669,6 +3680,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950767153",
+   "title": "Vintage Faux Pearl Double Strand 20-21\"",
+   "price": 10,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/portsmouth-vintage-faux-pearl-double/eRjwn37tTKAdGXEty9u1rk",
+   "best": "Freshwater Pearl Three-strand Necklace - Sterling Silver ...",
+   "med": 187,
+   "ratio": 18.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7930022389",
    "title": "Vintage JC Penney Sterling Golden Pearl Earrings",
    "price": 15,
@@ -4160,6 +4182,17 @@
    "url": "https://www.craigslist.org/view/d/coos-bay-vintage-terracotta-female/ksnuwArgRqZhF2vbeHvyFC",
    "best": "Old Primitive Clay Figurine - Etsy",
    "med": 395,
+   "ratio": 15.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983908856",
+   "title": "Vintage Brass/Malachite Ring - Size 8",
+   "price": 35,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-brass-malachite-ring/4Db4MXraE7Rb9nyfXBLB2Q",
+   "best": "Antique Large Malachite Green Done Ring. - Etsy Israel",
+   "med": 553,
    "ratio": 15.8,
    "ai_value": ""
   },
@@ -5074,6 +5107,17 @@
    "best": "Vintage Mens Cuff Links and Tie Bar in Vintage Travel Box - Etsy",
    "med": 149,
    "ratio": 12.42,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955836691",
+   "title": "Antique gold mining pan",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/sherwood-antique-gold-mining-pan/cywiPcGgKbQkBv13Tyk62h",
+   "best": "eBay",
+   "med": 495,
+   "ratio": 12.38,
    "ai_value": ""
   },
   {
@@ -6250,6 +6294,17 @@
    "url": "https://www.craigslist.org/view/d/seattle-vintage-harmony-tenor-ukulele/nWFqNDAs3wGcSr99z2ZQDe",
    "best": "Victor Litz Music",
    "med": 750,
+   "ratio": 9.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971093948",
+   "title": "Vintage Cookie Jar",
+   "price": 8,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/rio-rico-vintage-cookie-jar/pcdrhBAKSd7wJooEDGw8F4",
+   "best": "Vintage KILROY WAS HERE \"Kilroy Loves Cookies\" FIGURAL ...",
+   "med": 75,
    "ratio": 9.38,
    "ai_value": ""
   },
@@ -8311,6 +8366,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968785637",
+   "title": "Art Pottery Bowl",
+   "price": 22,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/saratoga-art-pottery-bowl/8QXbK3FpQqh6Auwdg7XZKs",
+   "best": "Tea Bowl Takatori Ware Onimaru Setsuzan Matcha w/Box Tea ...",
+   "med": 138,
+   "ratio": 6.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7974043743",
    "title": "Turquoise bracelet",
    "price": 35,
@@ -8461,6 +8527,17 @@
    "url": "https://www.craigslist.org/view/d/portland-ceramic-vases-two/a4LGpBaGRYohpyFQNwfHzF",
    "best": "Handcrafted Terracotta Vases or Planters, Large Vintage Clay ...",
    "med": 245,
+   "ratio": 6.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948151349",
+   "title": "Sterling Silver ring, size 8",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/herndon-sterling-silver-ring-size/f8YrXRxFLkxPou6riUJHXZ",
+   "best": "Mexican Cigar Band Size 6.5 Aztec Mayan Design Vintage ...",
+   "med": 92,
    "ratio": 6.13,
    "ai_value": ""
   },
@@ -9143,6 +9220,17 @@
    "url": "https://www.craigslist.org/view/d/bonney-lake-vintage-combination-square/pN9FCFjyBgjHAuwUEfr7Hk",
    "best": "UNION TOOL CO ORANGE MASS USA CARP SQ 12 INCH RULE VTG | eBay",
    "med": 56,
+   "ratio": 5.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983912069",
+   "title": "Vintage Leaf Brooch/Pin with Rhinestones",
+   "price": 5,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-leaf-brooch-pin-with/3tfJwQay1f4PfwBMm5pnCW",
+   "best": "Vintage Silver Tone Clear Rhinestone Floral Leaf Plant ...",
+   "med": 28,
    "ratio": 5.6,
    "ai_value": ""
   },
@@ -13162,6 +13250,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948148237",
+   "title": "Men\u2019s Sterling Silver ring, size 10.5",
+   "price": 30,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/herndon-mens-sterling-silver-ring-size/nBWgDeL3MGt5SPYNYAqaN2",
+   "best": "925 Sterling Silver Vintage Viking Rune Band Ring Size 7.25 ...",
+   "med": 108,
+   "ratio": 3.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7935556827",
    "title": "jjj 2 Sterling Amethyst and CZ Rings - $35 each",
    "price": 35,
@@ -14636,6 +14735,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972287240",
+   "title": "Antique Alvin sterling silver overlay Green decanter and perfume bottl",
+   "price": 400,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-antique-alvin-sterling-silver/hVHGkYzHGQhW5JCYnVmD41",
+   "best": "Large Antique La Pierre Green Glass Sterling Silver Overlay ...",
+   "med": 1250,
+   "ratio": 3.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7936515050",
    "title": "Sterling Marqusite and Amethyst Teardrop Earrings",
    "price": 25,
@@ -15963,6 +16073,17 @@
    "url": "https://www.craigslist.org/view/d/halethorpe-vintage-1940s-champagne/1aHEAXQENcTGBLVw83ixy7",
    "best": "Vintage 1940s Emerald/champagne Ivory Glass Pearl Necklace ...",
    "med": 110,
+   "ratio": 2.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978592403",
+   "title": "Clarinet - Vintage Bundy Mazzeo",
+   "price": 100,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/clarinet-vintage-bundy-mazzeo/p8AWcagT9w7p9hqUy3oXpm",
+   "best": "YAMAHA CLARINET MODEL 20, VINTAGE #002513 \"REDUCED\" VERY ...",
+   "med": 282,
    "ratio": 2.82,
    "ai_value": ""
   },
@@ -19780,6 +19901,17 @@
    "url": "https://www.craigslist.org/view/d/kingsland-orig-1928-dry-point-etching/7asRkyKR1a4qBUG5seEx86",
    "best": "Old Food Market, October 1928, from the Cleveland Union ...",
    "med": 300,
+   "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983932832",
+   "title": "Set of Three Pendants",
+   "price": 30,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-set-of-three-pendants/edsi4ZnP2WXdqXRTa14Lmk",
+   "best": "Vintage Taxco Mexico Sterling Silver 925 Jasper Pendant | eBay",
+   "med": 62,
    "ratio": 2.07,
    "ai_value": ""
   },
@@ -24635,6 +24767,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955450818",
+   "title": "Vintage Footed Pin Cushion",
+   "price": 20,
+   "area": "duluth",
+   "url": "https://www.craigslist.org/view/d/solon-springs-vintage-footed-pin-cushion/nNK3UUiQYgD9Grxb3Hxo6m",
+   "best": "Vintage 70's Mid Century Homco Plastic Gold Wall Pocket ...",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -26599,6 +26742,17 @@
    "area": "charlotte",
    "url": "https://www.craigslist.org/view/d/alexis-1990s-mario-collection/rVR6HS43mUvUfAyDVhuP51",
    "best": "Etsy",
+   "med": 32,
+   "ratio": 1.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970612586",
+   "title": "Don Quixote figurine",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/alameda-don-quixote-figurine/uNiraqisPh9mp6o5k1QzF2",
+   "best": "Vintage Mexican Paper Mache Man Peasant Folk Art Figurine ...",
    "med": 32,
    "ratio": 1.28,
    "ai_value": ""
@@ -30087,6 +30241,28 @@
    "url": "https://www.craigslist.org/view/d/leawood-vintage-mexican-sterling-silver/dSVb32aPWn3qAk9xiMPzDY",
    "best": "Mexican Sterling Silver DOUBLE SIDED Pendant Mayan Calendar ...",
    "med": 125,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959095652",
+   "title": "TWO~MONET Chain Necklaces~One Price for Both",
+   "price": 30,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-twomonet-chain-necklacesone/rAnmmqC6r5b2x7TXcy8es2",
+   "best": "Monet Necklace: Gold Chain Necklace, 27 Inches, 70s Jewelry ...",
+   "med": 30,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929778525",
+   "title": "DECORATIONS / CRAFT ITEMS",
+   "price": 12,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/elfers-decorations-craft-items/a5AJT8k4Ziyi7mACPxrwY9",
+   "best": "ECOMISTIQ\u00ae 20pcs Painted Wood Heart Tags Hanging Craft DIY ...",
+   "med": 12,
    "ratio": 1,
    "ai_value": ""
   },
@@ -33787,6 +33963,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945178535",
+   "title": "necklace set bangle",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-necklace-set-bangle/hR3UHGaMNsWqy7qzkgSqEr",
+   "best": "3pcs Bracelet Set, Gold/Silver Four-Leaf Clover Bracelet ...",
+   "med": 26,
+   "ratio": 0.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7946237740",
    "title": "4 vintage Precious Moments bells",
    "price": 25,
@@ -34916,6 +35103,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-vintage-oriental-farmer/81up8TRzEHHhn5c7VvTvhe",
    "best": "Toyo Statues | eBay",
    "med": 35,
+   "ratio": 0.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952377856",
+   "title": "Southwestern Hand Painted Studio Pottery Vase Pair Signed Desert 7\"",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-southwestern-hand-painted/8bTW5k7uTsq5x8qMtA72cx",
+   "best": "Navajo Vase | eBay",
+   "med": 43,
    "ratio": 0.54,
    "ai_value": ""
   },
@@ -40046,479 +40244,6 @@
    "ai_value": ""
   },
   {
-   "pid": "sgw279388958",
-   "title": "Vintage Antique Hand Crank Cast Iron Sewing Machine Early Table Top Model",
-   "price": 251.0,
-   "area": "seller 12",
-   "url": "https://shopgoodwill.com/item/279388958",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279923600",
-   "title": "Coastal/Lakeside Cabin By Cliffs Under Moonlight VTG or Antique Painting Framed",
-   "price": 73.0,
-   "area": "seller 106",
-   "url": "https://shopgoodwill.com/item/279923600",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280122208",
-   "title": "Art Deco 18K Gold Pearl & Old Cut Diamond Accent Geometric Ring - Sz 4",
-   "price": 199.0,
-   "area": "seller 8",
-   "url": "https://shopgoodwill.com/item/280122208",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279967850",
-   "title": "Vintage Posters Of Mucha",
-   "price": 46.0,
-   "area": "seller 29",
-   "url": "https://shopgoodwill.com/item/279967850",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280153730",
-   "title": "Tosa Mitsuoka Chrysanthemum & Quail Japanese Art Framed [Local Pickup Only]",
-   "price": 8.19,
-   "area": "seller 176",
-   "url": "https://shopgoodwill.com/item/280153730",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280177581",
-   "title": "Asian Hanging Scroll Painting Landscape Waterfall Scholar Calligraphy Art",
-   "price": 39.99,
-   "area": "seller 8",
-   "url": "https://shopgoodwill.com/item/280177581",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw278540675",
-   "title": "*SD Local Pickup* Framed Reclining Woman Line Art Print Ornate Silver-Gold Frame",
-   "price": 99.0,
-   "area": "seller 12",
-   "url": "https://shopgoodwill.com/item/278540675",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280163334",
-   "title": "Vintage East Asian Ink Landscape Hanging Scroll Painting with Calligraphy Seal",
-   "price": 39.99,
-   "area": "seller 8",
-   "url": "https://shopgoodwill.com/item/280163334",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279897338",
-   "title": "Vintage 1922 \"Parapluie-Revel\" Art Print - Affiches Cappiello (LOCAL PICK UP)",
-   "price": 14.99,
-   "area": "seller 359",
-   "url": "https://shopgoodwill.com/item/279897338",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279863291",
-   "title": "Southern Folk Art Pottery Devil Face Jug",
-   "price": 101.0,
-   "area": "seller 20",
-   "url": "https://shopgoodwill.com/item/279863291",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279885512",
-   "title": "Lithograph Chinese Scroll Mountain-water Landscape W/ Calligraphy & Artist Seal",
-   "price": 14.99,
-   "area": "seller 62",
-   "url": "https://shopgoodwill.com/item/279885512",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280171597",
-   "title": "Bennett Acker Signed Watercolor Painting Rustic Scene Black Frame",
-   "price": 79.99,
-   "area": "seller 8",
-   "url": "https://shopgoodwill.com/item/280171597",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280266717",
-   "title": "Ted DeGrazia - Navajo Bridegroom - Vintage Lithograph Print - Signed-Framed",
-   "price": 65.0,
-   "area": "seller 81",
-   "url": "https://shopgoodwill.com/item/280266717",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279930758",
-   "title": "Framed Floral Still Life Wall Art Gold-tone Ornate Frame Signed",
-   "price": 12.99,
-   "area": "seller 133",
-   "url": "https://shopgoodwill.com/item/279930758",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279641444",
-   "title": "Ana Trillo Handcrafted Ceramic Vase Black Geometric Bird Motifs Terracotta",
-   "price": 20.0,
-   "area": "seller 12",
-   "url": "https://shopgoodwill.com/item/279641444",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279641459",
-   "title": "Isidro Ortiz Signed Hand-Etched Black Pottery Jar Mata Ortiz 4.5 Inch",
-   "price": 52.5,
-   "area": "seller 12",
-   "url": "https://shopgoodwill.com/item/279641459",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279978731",
-   "title": "Vintage 1938 Museum of Modern Western Art Moscow Portfolio with Color Prints",
-   "price": 49.98,
-   "area": "seller 122",
-   "url": "https://shopgoodwill.com/item/279978731",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279909030",
-   "title": "Vintage Abstract Oil Painting on Canvas with Heavy Impasto in Carved Wood Frame",
-   "price": 69.99,
-   "area": "seller 122",
-   "url": "https://shopgoodwill.com/item/279909030",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279939203",
-   "title": "Antique Japanese Vase",
-   "price": 20.99,
-   "area": "seller 57",
-   "url": "https://shopgoodwill.com/item/279939203",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279896220",
-   "title": "Prints - SIGNED by Artist Sonia Delaunay & Poem by Tristan Tzara",
-   "price": 12.99,
-   "area": "seller 127",
-   "url": "https://shopgoodwill.com/item/279896220",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279898312",
-   "title": "Original 1943 Warren Hunter Watercolor Landscape Painting Framed Art",
-   "price": 69.99,
-   "area": "seller 122",
-   "url": "https://shopgoodwill.com/item/279898312",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279907961",
-   "title": "Framed Windmill Landscape Etching Style Print with Rembrandt Signature",
-   "price": 26.99,
-   "area": "seller 60",
-   "url": "https://shopgoodwill.com/item/279907961",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279779707",
-   "title": "Vintage Marvel Comics Lot The Mighty Thor 1960s 1970s Original Prints",
-   "price": 26.36,
-   "area": "seller 12",
-   "url": "https://shopgoodwill.com/item/279779707",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279879428",
-   "title": "Vintage MCM Endura Sport Chronograph Telemeter Swiss Men's Watch",
-   "price": 101.0,
-   "area": "seller 185",
-   "url": "https://shopgoodwill.com/item/279879428",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279856638",
-   "title": "Ori Johnson Painting Cows Peaceful Pasture Oil On Canvas Signed 13x17 Inches",
-   "price": 132.31,
-   "area": "seller 134",
-   "url": "https://shopgoodwill.com/item/279856638",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280708425",
-   "title": "\"Salute\" Limited Edition Collectible Fine Art Lithograph by Renowned Charles Sch",
-   "price": 99.0,
-   "area": "seller 32",
-   "url": "https://shopgoodwill.com/item/280708425",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280708064",
-   "title": "IN STORE PICK UP ONLY Original Aladdin Model 620S Glass Shade",
-   "price": 49.99,
-   "area": "seller 32",
-   "url": "https://shopgoodwill.com/item/280708064",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280054703",
-   "title": "Vintage McCoy Pottery Vase-Bowl Green Glaze Raised Bamboo Pattern",
-   "price": 9.99,
-   "area": "seller 19",
-   "url": "https://shopgoodwill.com/item/280054703",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280013768",
-   "title": "36.7g 14K RG Doxa Vintage For Repair Personalized Women's Watch",
-   "price": 199.99,
-   "area": "seller 43",
-   "url": "https://shopgoodwill.com/item/280013768",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280238174",
-   "title": "Original Abstract Ink and Wash Painting Signed 2019 Black Frame 37x25\"",
-   "price": 79.99,
-   "area": "seller 8",
-   "url": "https://shopgoodwill.com/item/280238174",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280230769",
-   "title": "Traditional Chinese Ink Wash Landscape Hanging Scroll Painting 82x34",
-   "price": 39.99,
-   "area": "seller 8",
-   "url": "https://shopgoodwill.com/item/280230769",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280079104",
-   "title": "Lot Of 2 Scrolls W/ Traditional Art Work 23' & 25' * Damage *",
-   "price": 15.99,
-   "area": "seller 201",
-   "url": "https://shopgoodwill.com/item/280079104",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279195576",
-   "title": "Traditional Chinese Landscape Painting Ink Wash Mountains River Boats Scroll",
-   "price": 34.99,
-   "area": "seller 8",
-   "url": "https://shopgoodwill.com/item/279195576",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280448643",
-   "title": "Asian Inspired Wall Art 46\" x 20\"",
-   "price": 9.99,
-   "area": "seller 26",
-   "url": "https://shopgoodwill.com/item/280448643",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280100161",
-   "title": "East Asian Scroll",
-   "price": 9.99,
-   "area": "seller 29",
-   "url": "https://shopgoodwill.com/item/280100161",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280189702",
-   "title": "Bronze Brass Bust Sculpture Southeast Asian Deity Royal Figure Art Decor",
-   "price": 19.99,
-   "area": "seller 8",
-   "url": "https://shopgoodwill.com/item/280189702",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280144296",
-   "title": "Vintage Blue White Porcelain Bowl Asian Scenic Floral Motif 14cm Diameter",
-   "price": 14.99,
-   "area": "seller 5",
-   "url": "https://shopgoodwill.com/item/280144296",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw279992738",
-   "title": "Unsigned Vintage Asian Genre Scene Ink & Color Painting Framed 16x26",
-   "price": 24.99,
-   "area": "seller 343",
-   "url": "https://shopgoodwill.com/item/279992738",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280030694",
-   "title": "Framed Watercolor Painting of House by Nancy Lee Newton",
-   "price": 22.9,
-   "area": "seller 122",
-   "url": "https://shopgoodwill.com/item/280030694",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280291014",
-   "title": "Antique 1903 Early Printing Of \"The Call Of The Wild\" By Jack London",
-   "price": 13.0,
-   "area": "seller 376",
-   "url": "https://shopgoodwill.com/item/280291014",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280013366",
-   "title": "Unsigned Chinese Porcelain Shoulao Statue 17.5in Famille Rose God of Longevity",
-   "price": 14.99,
-   "area": "seller 117",
-   "url": "https://shopgoodwill.com/item/280013366",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280016691",
-   "title": "Unsigned Orientalist Oil Painting Arab Horsemen Equestrian Wood Panel 20x28",
-   "price": 43.0,
-   "area": "seller 343",
-   "url": "https://shopgoodwill.com/item/280016691",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "sgw280002999",
-   "title": "Framed Floral Still Life Painting",
-   "price": 46.0,
-   "area": "seller 29",
-   "url": "https://shopgoodwill.com/item/280002999",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
    "pid": "ebay407293107428",
    "title": "310 Antique Prints Maps Engravings Lot Franklin Birds Portraits Architecture",
    "price": 100.0,
@@ -41759,6 +41484,46 @@
    "area": "fb 8",
    "url": "https://www.ebay.com/itm/377556654389",
    "note": "REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150 incl BP: Moran 11/2025 $264 lacquer+spalling; Pook 10/2020 avanyu olla worn $310; Moran 9/2026 repaired $1,143). Clean 5-9in Marie jars $2,600-5,400. Max bid $275.",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "sgw279896220",
+   "title": "Prints - SIGNED by Artist Sonia Delaunay & Poem by Tristan Tzara",
+   "price": 12.99,
+   "area": "seller 127",
+   "url": "https://shopgoodwill.com/item/279896220",
+   "note": "Sonia Delaunay original colour lithograph, 1968. Imprimerie du Lion, Paris; Editions des Nouvelles Images (Lombreuil), Collection Correspondances no 6. Edition of 420 on velin de Rives, exemplaire no 333. Folder with Ecclesiastes text (NOT Tzara) | The signature is almost certainly printed in the stone, not pencil. It has the same matte grey tone as the litho crayon border, and the colophon does n",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "sgw279898312",
+   "title": "Original 1943 Warren Hunter Watercolor Landscape Painting Framed Art",
+   "price": 69.99,
+   "area": "seller 122",
+   "url": "https://shopgoodwill.com/item/279898312",
+   "note": "Watercolor pond landscape with lily pads, signed in block caps 'WARREN HUNTER 1943', glazed and framed; attributed to Warren Hunter (1904-1993), San Antonio | The block-caps signature does not match the reference example, and a green, non-Texas subject sold from WA weakens the attribution. In 1943 Hunter was with the Army Map Service. Not an egg. Bid only as a speculative attribution. Condition lo",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "sgw280013768",
+   "title": "36.7g 14K RG Doxa Vintage For Repair Personalized Women's Watch",
+   "price": 199.99,
+   "area": "seller 43",
+   "url": "https://shopgoodwill.com/item/280013768",
+   "note": "1940s Retro Doxa ladies cocktail watch, rose gold (acid-tested 14K, unmarked) with stepped scroll lugs, synthetic-looking ruby clusters + single-cut diamond chips, double snake-chain bracelet; 36.77 g gross; crown missing, not running; engraved 'J.N.G.' on back | Lead, not egg: the title already says '36.7g 14K', so gold buyers will see it and should take it to $1,400-1,800. Max $950 meets the pro",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "sgw280291014",
+   "title": "Antique 1903 Early Printing Of \"The Call Of The Wild\" By Jack London",
+   "price": 13.0,
+   "area": "seller 376",
+   "url": "https://shopgoodwill.com/item/280291014",
+   "note": "Jack London, The Call of the Wild, Macmillan 1903, pictorial green cloth, Goodwin/Bull illustrations, THIRD printing | Fair condition: rubbed corners, frayed spine ends, toned pages, plates present. Not a 1st printing, so not an egg. Fair 1903 reprints realise roughly $150-250. Profit floor holds only at or below $70.",
    "stage": "decided",
    "status": "find"
   }

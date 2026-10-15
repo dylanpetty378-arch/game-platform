@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T21:16:33Z
+# Refurbish status — 2026-10-15T21:20:52Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,15 +7,15 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3671 |
-| lensed | 1111 |
-| queued | 553 |
+| flagged | 3646 |
+| lensed | 1118 |
+| queued | 528 |
 | queued/relens | 486 |
+| decided/kill | 97 |
 | decided/ask | 80 |
-| decided/kill | 58 |
 | expired | 19 |
 | photo_review/ask | 17 |
-| decided/find | 9 |
+| decided/find | 13 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
 | comps/pass | 1 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 12699
-- events: 39818
+- lens: 12724
+- events: 39886
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -39,7 +39,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 - craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 
-## Finds and open leads (89)
+## Finds and open leads (93)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -132,8 +132,12 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
+| <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/127/Items/2026-10-08/d874242d-9743-4d78-80cc-27212499753asley_1008t1.jpeg_300x300.jpg" width="160"> | [Prints - SIGNED by Artist Sonia Delaunay & Poem by Tristan T](https://shopgoodwill.com/item/279896220) | $12.99 | seller 127 | **decided/find** — Sonia Delaunay original colour lithograph, 1968. Imprimerie du Lion, Paris; Editions des Nouvelles Images (Lombreuil), Collection Correspondances no 6. Edition of 420 on velin de Rives, exemplaire no 333. Folder with Ecc |
+| <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/122/Item/2026-10-08/9830893a-5584-486d-b4a0-e55cb82cf2f0llen_1008t1.jpeg_300x300.jpg" width="160"> | [Original 1943 Warren Hunter Watercolor Landscape Painting Fr](https://shopgoodwill.com/item/279898312) | $69.99 | seller 122 | **decided/find** — Watercolor pond landscape with lily pads, signed in block caps 'WARREN HUNTER 1943', glazed and framed; attributed to Warren Hunter (1904-1993), San Antonio / The block-caps signature does not match the reference example |
+| <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/43/Items/2026-10-13/83eff7d7-97b4-48c5-91bd-cdae78461c04prob_1013t1.jpeg_300x300.jpg" width="160"> | [36.7g 14K RG Doxa Vintage For Repair Personalized Women's Wa](https://shopgoodwill.com/item/280013768) | $199.99 | seller 43 | **decided/find** — 1940s Retro Doxa ladies cocktail watch, rose gold (acid-tested 14K, unmarked) with stepped scroll lugs, synthetic-looking ruby clusters + single-cut diamond chips, double snake-chain bracelet; 36.77 g gross; crown missin |
+| <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/376/Items/2026-10-12/87e1238b-2b19-40e8-abd6-32f677a05994gewc_1012t1.jpeg_300x300.jpg" width="160"> | [Antique 1903 Early Printing Of "The Call Of The Wild" By Jac](https://shopgoodwill.com/item/280291014) | $13.0 | seller 376 | **decided/find** — Jack London, The Call of the Wild, Macmillan 1903, pictorial green cloth, Goodwin/Bull illustrations, THIRD printing / Fair condition: rubbed corners, frayed spine ends, toned pages, plates present. Not a 1st printing, s |
 
-## Flagged by Lens, waiting for photo review (3671)
+## Flagged by Lens, waiting for photo review (3646)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -181,6 +185,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01111_iwlqBCed3Vs_0t20t2_300x300.jpg" width="120"> | 7947565852 | $75 | sfbay | [Elegant Pink Ruby and 925 Sterling Silver Cocktail](https://www.craigslist.org/view/d/pleasanton-elegant-pink-ruby-and-925/fYVfmnYD3ukvUjapBcTTU3) | Certified Natural Burma Ruby Cabochon 10ct Diamond 18k White | 10800 | 144 |
 | <img src="https://images.craigslist.org/00I0I_9SG3FiEyFOI_0CI0t2_300x300.jpg" width="120"> | 7974234039 | $35 | littlerock | [Ladies Silver Ring](https://www.craigslist.org/view/d/roland-ladies-silver-ring/iQKronBfF9z4P7EyjnyLEe) | Retired Silpada 925 Sterling Silver Champagne Cubic Zirconia | 4950 | 141.43 |
 | <img src="https://images.craigslist.org/00n0n_7K3KNkDcIk8_0pO0lC_300x300.jpg" width="120"> | 7953135437 | $25 | miami | [ART MASTERPIECES](https://www.craigslist.org/view/d/boynton-beach-art-masterpieces/qYsWz9d2DR2UxYHXcY6cgF) | Sold at Auction: Bill Gallen, Bill Gallen / The Red Mountain | 3500 | 140 |
+| <img src="https://images.craigslist.org/00L0L_7V9ipG1JjqY_0CI0t2_300x300.jpg" width="120"> | 7953991018 | $1 | tucson | [antique Papago pottery](https://www.craigslist.org/view/d/tucson-antique-papago-pottery/kFzMBs8jAkdC7xR8KZ9ozS) | Vintage Blackened Clay Pot – 5 Inch Handmade Earthenware ... | 139 | 139 |
 | <img src="https://images.craigslist.org/00v0v_7IZjBvA9zir_0t20CI_300x300.jpg" width="120"> | 7975200744 | $30 | boston | [Faux sAmber & Diamond Pendant](https://www.craigslist.org/view/d/saugus-faux-samber-diamond-pendant/cT9r7QrTL9RpfJNUFxT9wr) | 1stDibs | 3950 | 131.67 |
 | <img src="https://images.craigslist.org/00202_1LBeiKUWkZy_0e10ay_300x300.jpg" width="120"> | 7973797446 | $10 | boston | [Bamboo hoop earrings](https://www.craigslist.org/view/d/natick-bamboo-hoop-earrings/9B4XQDv66PDyC9AANJpnf8) | Pastel Collection Large (3") 3D Goldtone Heart Earrings ... | 1308 | 130.8 |
 | <img src="https://images.craigslist.org/00l0l_iezBstPTUOA_0gn0t2_300x300.jpg" width="120"> | 7930441710 | $30 | dallas | [jjj Sterling Silver Necklace Green Pendant on Gree](https://www.craigslist.org/view/d/mckinney-jjj-sterling-silver-necklace/5WaCezLQowc266HkjCLfbg) | M. Lowe and Co. | 3900 | 130 |
@@ -258,4 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00Y0Y_8HJo72IU80m_0lM0CI_300x300.jpg" width="120"> | 7952942809 | $1 | newyork | [Antique Doorstops - AMAZING](https://www.craigslist.org/view/d/great-neck-antique-doorstops-amazing/tHRT3NQtZas5qkCxte3NxF) | Antique Original Cast Iron Golfer Doorstop Original Paint /  | 55 | 55 |
 | <img src="https://images.craigslist.org/00J0J_4D4luEub8CS_0t20CI_300x300.jpg" width="120"> | 7930220345 | $30 | austin | [COLLEEN LINDSAY ETCHING](https://www.craigslist.org/view/d/austin-colleen-lindsay-etching/nAeVQfgg77i8YhwHLGTYNM) | The Oblist | 1603 | 53.43 |
 | <img src="https://images.craigslist.org/00w0w_gZqBe2wPQx0_0CI0t2_300x300.jpg" width="120"> | 7936285064 | $75 | hartford | [Lot of antique tools](https://www.craigslist.org/view/d/west-simsbury-lot-of-antique-tools/6siCNp67qUy3scnnddC1VP) | 1906 Antique Pine Carpenters Tool Chest Trunk Strong Box ... | 4000 | 53.33 |
-| <img src="https://images.craigslist.org/00j0j_8Q73XFjhqrJ_0t20CI_300x300.jpg" width="120"> | 7931909724 | $20 | santabarbara | [Gold pocket watch](https://www.craigslist.org/view/d/summerland-gold-pocket-watch/g8xCckmuaPkLBZaNrSSioq) | 1975 Vintage Wittnauer Gold Plated Pocket Watch Floral ... | 1039 | 51.95 |
