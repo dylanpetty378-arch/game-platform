@@ -34663,3 +34663,28 @@
 {"ts":"2026-10-15T00:22:25Z","pid":"7973801970","stage":"lensed","run":"lensworker-20261015-0015","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
 {"ts":"2026-10-15T00:22:33Z","pid":"7983657690","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Jewelry, Size — title does not","data":{"med":25,"ratio":0.17,"mismatch":["Jewelry","Size"]}}
 {"ts":"2026-10-15T00:22:41Z","pid":"7975472046","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Danbury Mint — title does not","data":{"med":40,"ratio":4,"mismatch":["Danbury Mint"]}}
+{"ts":"2026-10-15T00:22:54Z","pid":"7957937525","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Eagle — title does not","data":{"med":24,"ratio":1.2,"mismatch":["Eagle"]}}
+{"ts":"2026-10-15T00:23:01Z","pid":"7973797881","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Bows — title does not","data":{"med":45,"ratio":3,"mismatch":["Bows"]}}
+{"ts":"2026-10-15T00:23:09Z","pid":"7940936926","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Yamaha FG — title does not","data":{"med":475,"ratio":2.11,"mismatch":["Yamaha FG"]}}
+{"ts":"2026-10-15T00:23:18Z","pid":"7950822841","stage":"flagged","run":"lensworker-20261015-0015","note":"Lens names Gift — title does not","data":{"med":38,"ratio":0.55,"mismatch":["Gift"]}}
+{"ts":"2026-10-15T00:23:28Z","pid":"7976818740","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Monet, Trifari — title does not","data":{"med":60,"ratio":1,"mismatch":["Monet","Trifari"]}}
+{"ts":"2026-10-15T00:23:38Z","pid":"7939433580","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Matson — title does not","data":{"med":75,"ratio":1.15,"mismatch":["Matson"]}}
+{"ts":"2026-10-15T00:23:46Z","pid":"7974419811","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Capodimonte, Collectible — title does not","data":{"med":33,"ratio":0.29,"mismatch":["Capodimonte","Collectible"]}}
+{"ts":"2026-10-15T00:23:56Z","pid":"7952370432","stage":"lensed","run":"lensworker-20261015-0022","note":null,"data":{"med":30,"ratio":0.86,"mismatch":[]}}
+{"ts":"2026-10-15T00:24:04Z","pid":"7952038435","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Collectible — title does not","data":{"med":25,"ratio":1.67,"mismatch":["Collectible"]}}
+{"ts":"2026-10-15T00:24:13Z","pid":"7936444436","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Jewelry — title does not","data":{"med":4,"ratio":0.8,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-15T00:24:23Z","pid":"7945059896","stage":"lensed","run":"lensworker-20261015-0022","note":null,"data":{"med":37,"ratio":1.48,"mismatch":[]}}
+{"ts":"2026-10-15T00:24:32Z","pid":"7974838716","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Indian, Lane, Native, Navajo — title does not","data":{"med":50,"ratio":1.72,"mismatch":["Indian","Lane","Native","Navajo"]}}
+{"ts":"2026-10-15T00:24:40Z","pid":"7982132022","stage":"flagged","run":"lensworker-20261015-0022","note":null,"data":{"med":85,"ratio":5.67,"mismatch":[]}}
+{"ts":"2026-10-15T00:24:49Z","pid":"7955607932","stage":"lensed","run":"lensworker-20261015-0022","note":null,"data":{"med":43,"ratio":2.87,"mismatch":[]}}
+{"ts":"2026-10-15T00:24:57Z","pid":"7956207415","stage":"lensed","run":"lensworker-20261015-0022","note":null,"data":{"med":60,"ratio":0.8,"mismatch":[]}}
+{"ts":"2026-10-15T00:25:04Z","pid":"7952761188","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Artist — title does not","data":{"med":165,"ratio":4.13,"mismatch":["Artist"]}}
+{"ts":"2026-10-15T00:25:12Z","pid":"7934901725","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Company — title does not","data":{"med":25,"ratio":1.25,"mismatch":["Company"]}}
+{"ts":"2026-10-15T00:25:23Z","pid":"7974049335","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Gold, Monet — title does not","data":{"med":239,"ratio":2.41,"mismatch":["Gold","Monet"]}}
+{"ts":"2026-10-15T00:25:30Z","pid":"7937724620","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Company — title does not","data":{"med":130,"ratio":1.31,"mismatch":["Company"]}}
+{"ts":"2026-10-15T00:25:42Z","pid":"7975572858","stage":"flagged","run":"lensworker-20261015-0022","note":null,"data":{"med":994,"ratio":19.88,"mismatch":[]}}
+{"ts":"2026-10-15T00:25:48Z","pid":"7931827483","stage":"flagged","run":"lensworker-20261015-0022","note":"Lens names Advertising, Barber, Camco, Origin — title does not","data":{"med":15,"ratio":0.75,"mismatch":["Advertising","Barber","Camco","Origin"]}}
+{"ts":"2026-10-15T00:25:55Z","pid":"7948446581","stage":"lensed","run":"lensworker-20261015-0022","note":null,"data":{"med":25,"ratio":0.83,"mismatch":[]}}
+{"ts":"2026-10-15T00:26:05Z","pid":"7966837992","stage":"lensed","run":"lensworker-20261015-0022","note":null,"data":{"med":20,"ratio":2.86,"mismatch":[]}}
+{"ts":"2026-10-15T00:26:12Z","pid":"7983676977","stage":"lensed","run":"lensworker-20261015-0022","note":null,"data":{"med":6,"ratio":0.6,"mismatch":[]}}
+{"ts":"2026-10-15T00:26:19Z","pid":"7976241147","stage":"flagged","run":"lensworker-20261015-0022","note":null,"data":{"med":100,"ratio":2,"mismatch":[]}}

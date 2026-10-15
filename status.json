@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:22:58Z",
+ "updated": "2026-10-15T00:26:46Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10249,
-  "events": 34665,
+  "lens": 10274,
+  "events": 34690,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 603,
-  "flagged": 1719,
-  "lensed": 542
+  "queued": 578,
+  "flagged": 1737,
+  "lensed": 549
  },
  "last_harvests": [
   {
@@ -2034,6 +2034,17 @@
    "best": "eBay",
    "med": 199,
    "ratio": 19.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975572858",
+   "title": "Art",
+   "price": 50,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/debary-art/ddLrhDLbShj9r7UEov5PMP",
+   "best": "70 Fiberglass planter ideas | fiberglass planters, cement ...",
+   "med": 994,
+   "ratio": 19.88,
    "ai_value": ""
   },
   {
@@ -4688,6 +4699,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982132022",
+   "title": "Swarovski crystal necklace, new",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-swarovski-crystal-necklace-new/vCAfuH3LxDrw6XNMZrtxMK",
+   "best": "dailybanglarkhabar.com",
+   "med": 85,
+   "ratio": 5.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7981365720",
    "title": "Vintage Pearl Earrings Gold Tone",
    "price": 39,
@@ -5871,6 +5893,17 @@
    "area": "boise",
    "url": "https://www.craigslist.org/view/d/boise-vintage-modernist-wire-cuff/cX14bRvm5pDNfnfs1zXbQ7",
    "best": "Gem",
+   "med": 165,
+   "ratio": 4.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952761188",
+   "title": "Limited Addition Numbered Signed, Framed Photography",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/marina-del-rey-limited-addition/g5YzzEd8aVMJJH9W83adTw",
+   "best": "Framed Art Print Dublin Ireland Leeson Bridge Guesthouse ...",
    "med": 165,
    "ratio": 4.13,
    "ai_value": ""
@@ -7570,6 +7603,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973797881",
+   "title": "Vintage hammered silver puffy hearth and frosted bow earrings",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-hammered-silver-puffy/rg4k3NwHMdF89VuxWjmmJf",
+   "best": "Vintage Sterling Hearts Bows Earrings Dangle Puffed Hearts ...",
+   "med": 45,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -8659,6 +8703,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974049335",
+   "title": "Vintage bracelet with charm 12K GF, 8\" long",
+   "price": 99,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-bracelet-with-charm-12k/6bvsuCpMZ5N2CtLm9TYkBn",
+   "best": "Monet gold tone charm bracelet w/safety chain & gold plated ...",
+   "med": 239,
+   "ratio": 2.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7977092829",
    "title": "Juicy Couture Ring, Size 7 or 8",
    "price": 50,
@@ -9561,6 +9616,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940936926",
+   "title": "Vintage Yamaha FS 340",
+   "price": 225,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/southlake-vintage-yamaha-fs-340/w7t4EKiMFCRMeef8zm5qbW",
+   "best": "eBay",
+   "med": 475,
+   "ratio": 2.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7969940361",
    "title": "Turquoise Pendant w/18kt Gold Plated Bail.",
    "price": 42,
@@ -10118,6 +10184,17 @@
    "url": "https://www.craigslist.org/view/d/aldie-vintage-bulova-n4-mechanical-mens/w2nWYakx44vfmERvjzAEyd",
    "best": "Rare Bulova N4 Mechanical men's watch gold plate stainless ...",
    "med": 160,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976241147",
+   "title": "Jewelry",
+   "price": 50,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/pleasant-grove-jewelry/t2ExKY1tK4UvEGq2jBixh2",
+   "best": "eBay",
+   "med": 100,
    "ratio": 2,
    "ai_value": ""
   },
@@ -10870,6 +10947,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974838716",
+   "title": "Silver and Turquoise Ring Sz5",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-silver-and-turquoise-ring-sz5/54qMQkLfwwn5SUfEAjmYnG",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 1.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7948668528",
    "title": "Sterling silver bracelet with sqares",
    "price": 35,
@@ -11064,6 +11152,17 @@
    "url": "https://www.craigslist.org/view/d/kenosha-vintage-waltham-ladies-watch/3uhFwYqiqskVgyJbupVPkr",
    "best": "WALTHAM 10K RGP 21 Jewels Gold Women's Wristwatch Vintage ...",
    "med": 75,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952038435",
+   "title": "Barlow Golfer Keychain",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-barlow-golfer-keychain/jJtgnfVJYATR38VvMjDkkq",
+   "best": "eBay",
+   "med": 25,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -12762,6 +12861,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937724620",
+   "title": "14K white gold mountings for stud earrings.",
+   "price": 99,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/zephyr-cove-14k-white-gold-mountings/mvLHz2peUpeAtvNpY11oru",
+   "best": "14k yellow gold Basket earring setting 4 prong round Screw ...",
+   "med": 130,
+   "ratio": 1.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7983184308",
    "title": "Vintage Natural Pink & Green Tourmaline Ring in Floral Motif 14K Gold",
    "price": 380,
@@ -13081,6 +13191,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934901725",
+   "title": "Set Of 4 Porcelain Vintage Campbell Soup Kids Figurines",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-city-set-of-porcelain-vintage/tWeQNMo4zkzSwveZxrMvsk",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -13378,6 +13499,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957937525",
+   "title": "Boy Scouts of America Vintage Memorabilia",
+   "price": 20,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/pollock-pines-boy-scouts-of-america/nrEbqttLXTfPuTnK8aiBSK",
+   "best": "Boy Scout Cub Scout Lot Belt Slides Brass Buckle Neckerchief ...",
+   "med": 24,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -13616,6 +13748,17 @@
    "url": "https://www.craigslist.org/view/d/long-beach-vintage-folk-art-polychrome/sxE7KirW9ygwVd5iCWFDg9",
    "best": "Iconography: The figure is depicted with a beard and holds a prominent large key in one hand, which is the cla",
    "med": 69,
+   "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939433580",
+   "title": "Signed painting of light house",
+   "price": 65,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/waltham-signed-painting-of-light-house/bRPBsy1apWzaVGMt5ZywJS",
+   "best": "Craigslist",
+   "med": 75,
    "ratio": 1.15,
    "ai_value": ""
   },
@@ -14687,6 +14830,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976818740",
+   "title": "Gold tone with silver necklace with garnets",
+   "price": 60,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-gold-tone-with-silver-necklace/ifBe7DuCDhPPNoEGbPQ5Ew",
+   "best": "1960s Vintage Monet Gold Tone Choker Necklace - Etsy Israel",
+   "med": 60,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -15644,6 +15798,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936444436",
+   "title": "Vintage Plastic Discs",
+   "price": 5,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-plastic-discs/j3zma89gZ2Jaf8dmrp1eSR",
+   "best": "Etsy",
+   "med": 4,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7970700624",
    "title": "Vintage Goebel Praying Angel Figurine",
    "price": 19,
@@ -15948,6 +16113,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-tone-black-cabochon/2EjZM5ukcwmMmW8pj83Jmq",
    "best": "Sterling Silver Pebbled Bezel-Set Black Onyx Drop 3.9g ...",
    "med": 56,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931827483",
+   "title": "Antique Specialty Device Co Pen Knife",
+   "price": 20,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-antique-specialty-device/9DcyRoGA3QE89cXGcnPf18",
+   "best": "Vintage advertising pocket knife promoting Bender Barber ...",
+   "med": 15,
    "ratio": 0.75,
    "ai_value": ""
   },
@@ -16986,6 +17162,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950822841",
+   "title": "Vintage gold-toned nautical charm chain belt  48\" long",
+   "price": 69,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-gold-toned-nautical/oNJEnJ1ZJgVVAzvEx6mRGo",
+   "best": "Vintage 18 to 20 Inch Gold Toned Nautical Themed Anchor and ...",
+   "med": 38,
+   "ratio": 0.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7948558885",
    "title": "Set of 2 Porcelain Angel Figurine, New",
    "price": 35,
@@ -18015,6 +18202,17 @@
    "area": "portland",
    "url": "https://www.craigslist.org/view/d/canby-amber-depression-glass-and/34EuDJtrQzE15Lvqv3E7Wo",
    "best": "Etsy",
+   "med": 33,
+   "ratio": 0.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974419811",
+   "title": "Amber Depression Glass and Vintage Vases",
+   "price": 115,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/canby-amber-depression-glass-and/szfQYcz8eL35ANp2WHwUHr",
+   "best": "eBay",
    "med": 33,
    "ratio": 0.29,
    "ai_value": ""
