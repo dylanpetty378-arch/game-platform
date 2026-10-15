@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T21:24:53Z
+# Refurbish status — 2026-10-15T21:28:58Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3627 |
-| lensed | 1131 |
-| queued | 503 |
+| flagged | 3645 |
+| lensed | 1138 |
 | queued/relens | 486 |
+| queued | 478 |
 | decided/kill | 125 |
 | decided/ask | 80 |
 | expired | 19 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 12749
-- events: 39942
+- lens: 12774
+- events: 39967
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -140,7 +140,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **decided/find** — Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possib |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (3627)
+## Flagged by Lens, waiting for photo review (3645)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -239,6 +239,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00w0w_1sV3ZFoH8Zw_0pO0jm_300x300.jpg" width="120"> | 7959036216 | $60 | nashville | [Gibson Guitars &  Bunch Of Other Stuff](https://www.craigslist.org/view/d/brentwood-gibson-guitars-bunch-of-other/v6uHNYK4AMY4aiVLySEAfx) | Carter Vintage Guitar | 4277 | 71.28 |
 | <img src="https://images.craigslist.org/00I0I_fZowFlsRjGF_0t20CI_300x300.jpg" width="120"> | 7942484163 | $100 | philadelphia | [Cartier bleu watch automatic 42mm](https://www.craigslist.org/view/d/richboro-cartier-bleu-watch-automatic/cGmFEyxuVUXphZLexpDFZo) | Cartier Ballon Bleu De Cartier Automatic Brand New ... | 6995 | 69.95 |
 | <img src="https://images.craigslist.org/00404_3ltCanLYVJW_05a03S_300x300.jpg" width="120"> | 7969750110 | $10 | denver | [Vintage Chinese Ginger Jar with Foo Dogs](https://www.craigslist.org/view/d/littleton-vintage-chinese-ginger-jar/q7JYfstAWBo8g2jroASJ2b) | Antique 19th Century Qing Dynasty Foo Dog Kamcheng ... | 695 | 69.5 |
+| <img src="https://images.craigslist.org/00C0C_lESaMaWO2gp_09w0cM_300x300.jpg" width="120"> | 7965837504 | $25 | washingtondc | [Vintage Hand-Engraved Metal Calligraphic Plate w/H](https://www.craigslist.org/view/d/sterling-vintage-hand-engraved-metal/47cJyyLiam5c3TUXkKSPuB) | Whittaker Blue - Whittaker Blue added a new photo — in... | 1699 | 67.96 |
 | <img src="https://images.craigslist.org/00N0N_a9mIk06ZuLM_0lM0t2_300x300.jpg" width="120"> | 7984018806 | $30 | tucson | [NECKLACE~DESIGNER Karine Sultan Long~Gold Plated](https://www.craigslist.org/view/d/tucson-necklacedesigner-karine-sultan/fwgtD3Gd7hyFkHnFzNH1ef) | Karine Sultan Paris Gold Tone Chunky Textured Chain Necklace | 2026 | 67.53 |
 | <img src="https://images.craigslist.org/00C0C_5a5ZEb1u6iv_0hu0gi_300x300.jpg" width="120"> | 7933871811 | $25 | chicago | [NEW Sterling Ring](https://www.craigslist.org/view/d/chicago-new-sterling-ring/my8SzaNHFCM2aDUXPymHUr) | eBay | 1675 | 67 |
 | <img src="https://images.craigslist.org/01717_75tn3KA1dMb_0jm0pO_300x300.jpg" width="120"> | 7954502050 | $12 | washingtondc | [Fashion Gold Square Earrings](https://www.craigslist.org/view/d/centreville-fashion-gold-square-earrings/hUeJGrNdWawe7LeqPxe3XJ) | Robin Rotenier / Jewelry / Robin Rotenier 8k Yellow Gold ... | 788 | 65.67 |
@@ -265,4 +266,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00707_3A1iVNP1fjx_0wI0CI_300x300.jpg" width="120"> | 7955837070 | $50 | scranton | [Antique Meiselman Asian Bird Floral Tureen Set](https://www.craigslist.org/view/d/pittston-antique-meiselman-asian-bird/gdxb4pnyNoB8bHkMJTYD8L) | Pinterest | 2750 | 55 |
 | <img src="https://images.craigslist.org/00Y0Y_8HJo72IU80m_0lM0CI_300x300.jpg" width="120"> | 7952942809 | $1 | newyork | [Antique Doorstops - AMAZING](https://www.craigslist.org/view/d/great-neck-antique-doorstops-amazing/tHRT3NQtZas5qkCxte3NxF) | Antique Original Cast Iron Golfer Doorstop Original Paint /  | 55 | 55 |
 | <img src="https://images.craigslist.org/00J0J_4D4luEub8CS_0t20CI_300x300.jpg" width="120"> | 7930220345 | $30 | austin | [COLLEEN LINDSAY ETCHING](https://www.craigslist.org/view/d/austin-colleen-lindsay-etching/nAeVQfgg77i8YhwHLGTYNM) | The Oblist | 1603 | 53.43 |
-| <img src="https://images.craigslist.org/00w0w_gZqBe2wPQx0_0CI0t2_300x300.jpg" width="120"> | 7936285064 | $75 | hartford | [Lot of antique tools](https://www.craigslist.org/view/d/west-simsbury-lot-of-antique-tools/6siCNp67qUy3scnnddC1VP) | 1906 Antique Pine Carpenters Tool Chest Trunk Strong Box ... | 4000 | 53.33 |

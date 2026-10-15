@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:24:53Z",
+ "updated": "2026-10-15T21:28:58Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12749,
-  "events": 39942,
+  "lens": 12774,
+  "events": 39967,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 503,
-  "flagged": 3627,
-  "lensed": 1131
+  "queued": 478,
+  "flagged": 3645,
+  "lensed": 1138
  },
  "last_harvests": [
   {
@@ -1510,6 +1510,17 @@
    "best": "Antique 19th Century Qing Dynasty Foo Dog Kamcheng ...",
    "med": 695,
    "ratio": 69.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965837504",
+   "title": "Vintage Hand-Engraved Metal Calligraphic Plate w/Hanging Loop",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/sterling-vintage-hand-engraved-metal/47cJyyLiam5c3TUXkKSPuB",
+   "best": "Whittaker Blue - Whittaker Blue added a new photo \u2014 in...",
+   "med": 1699,
+   "ratio": 67.96,
    "ai_value": ""
   },
   {
@@ -3526,6 +3537,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953593293",
+   "title": "Givenchy Clip Earrings",
+   "price": 50,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/salem-givenchy-clip-earrings/rLuZXGsujRSeATKrTG8WMW",
+   "best": "Givenchy | Jewelry | Vintage 8s Givenchy Signed Gold Dome ...",
+   "med": 995,
+   "ratio": 19.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7953922327",
    "title": "Necklace amethyst",
    "price": 45,
@@ -3621,6 +3643,17 @@
    "url": "https://www.craigslist.org/view/d/medford-vintage-kay-4-cello-model-55/2HEzjCYjhUzgYW37SkE8VF",
    "best": "Kay-1953-Model 121 -1/2 Size -Cello w/ Bow & Bag | Reverb",
    "med": 7600,
+   "ratio": 19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981756263",
+   "title": "Set of 2 Vintage Brass Candle Holders",
+   "price": 38,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-set-of-vintage-brass-candle/hokRLW9BttMdo9AUDQVaUd",
+   "best": "Brass Candlestick Holders 1990s Home Decor for Taper Candles ...",
+   "med": 722,
    "ratio": 19,
    "ai_value": ""
   },
@@ -3852,6 +3885,17 @@
    "url": "https://www.craigslist.org/view/d/corrales-old-blacksmith-tools-hand/rNC7SHjKhcf4Q3S8o2Prwh",
    "best": "Collection of 7 User Blacksmith Tongs - 96841 \u2013 Jim Bode Tools",
    "med": 175,
+   "ratio": 17.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951554314",
+   "title": "Vintage Blessed Mary Religious Butterfly Wing Pendant",
+   "price": 8,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-vintage-blessed-mary/uJu5zt9Q5qm8fVhdYLKxL1",
+   "best": "Craigslist",
+   "med": 140,
    "ratio": 17.5,
    "ai_value": ""
   },
@@ -7849,6 +7893,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962741663",
+   "title": "Artwork - Pair of Swan",
+   "price": 12,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-artwork-pair-of-swan/v7iYMjySTnT52qmosnoV19",
+   "best": "eBay",
+   "med": 85,
+   "ratio": 7.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7959319368",
    "title": "PORTRAIT Vintage",
    "price": 25,
@@ -8604,6 +8659,17 @@
    "url": "https://www.craigslist.org/view/d/herndon-sterling-silver-ring-size/f8YrXRxFLkxPou6riUJHXZ",
    "best": "Mexican Cigar Band Size 6.5 Aztec Mayan Design Vintage ...",
    "med": 92,
+   "ratio": 6.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953905254",
+   "title": "Antique Copper Urn #2",
+   "price": 40,
+   "area": "nwct",
+   "url": "https://www.craigslist.org/view/d/bethel-antique-copper-urn/uB7zVqvV1nXp6ASHeGSuDj",
+   "best": "Large Vintage Copper Floor Urn Copper Vase Ornate Brass ...",
+   "med": 245,
    "ratio": 6.13,
    "ai_value": ""
   },
@@ -10177,6 +10243,17 @@
    "url": "https://www.craigslist.org/view/d/orlando-vintage-ceramic-milk-vase/wYV9KT8MnzyzVMzu1cdVy6",
    "best": "eBay",
    "med": 50,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964017731",
+   "title": "Rhinestone Necklace",
+   "price": 5,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buchanan-dam-rhinestone-necklace/jRnBVF2hReF765BaSWUiLn",
+   "best": "AVON Designer NR Marked, Medallion Pendant, 20\" Silver Tone ...",
+   "med": 25,
    "ratio": 5,
    "ai_value": ""
   },
@@ -14724,6 +14801,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980189555",
+   "title": "Japanese Kutani Eiraku Style Teal Plate, Silver Dragon Hand Painted Signed",
+   "price": 25,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-japanese-kutani-eiraku-style/vzAxnj753n4yXQ8VJNZkiE",
+   "best": "Japanese Green Eiraku Teacup and Saucer - Etsy",
+   "med": 79,
+   "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
    "pid": "7953148911",
    "title": "Vintage Mata Ortiz By J. Manuel Reyes Design Black Pottery Vase Signed",
    "price": 80,
@@ -18805,6 +18893,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979090805",
+   "title": "Vintage Floral Art Canvas",
+   "price": 10,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/atascadero-vintage-floral-art-canvas/eT5rx3FE1V5AfuozJSoKRh",
+   "best": "Spanish Red Rose Art Print Flower Bathroom Decor Bedroom Art ...",
+   "med": 23,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7938207775",
    "title": "Native American Sterling silver ring",
    "price": 35,
@@ -20785,6 +20884,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944106327",
+   "title": "Chinese Vase",
+   "price": 100,
+   "area": "martinsburg",
+   "url": "https://www.craigslist.org/view/d/halltown-chinese-vase/o8GK3FWBRXaD2wKqT3yJUi",
+   "best": "antique chinese Satsuma vase. Marked . 30 cm H | eBay",
+   "med": 200,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -22618,6 +22728,17 @@
    "url": "https://www.craigslist.org/view/d/cumming-vintage-coke-memorabilia/7hcH4QhebrPie2mMQSJTg4",
    "best": "Coca-Cola Metal Trays Collectible VTG TRAY RARE SAYS COCA ...",
    "med": 26,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951790939",
+   "title": "Native American turquoise and coral cuff",
+   "price": 150,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/leawood-native-american-turquoise-and/1dmPW2KsxrHS5JNQu82cSJ",
+   "best": "Vintage Navajo Sterling Silver Turquoise Coral Cuff Bracelet ...",
+   "med": 260,
    "ratio": 1.73,
    "ai_value": ""
   },
@@ -25031,6 +25152,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951337958",
+   "title": "Annalee Doll Collection",
+   "price": 50,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/albany-annalee-doll-collection/anPrFt4iSqMi1PEXpVvrfJ",
+   "best": "Annalee 10\" A World of Love from Annalee - Final Artist Doll ...",
+   "med": 74,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7958902101",
    "title": "Vintage Avon Double Strand Faux Pearl signed Necklace Set",
    "price": 15,
@@ -25830,6 +25962,17 @@
    "url": "https://www.craigslist.org/view/d/silverdale-vintage-new-haven-pedometer/7STFtToJtxn9uaQe18rtaw",
    "best": "eBay",
    "med": 21,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941233860",
+   "title": "Old ions",
+   "price": 10,
+   "area": "tulsa",
+   "url": "https://www.craigslist.org/view/d/broken-arrow-old-ions/ixitQLMoRmecGkfDKftgpz",
+   "best": "Vintage Cole Brookdale Iron Co. Sad Iron #3 Pottstown, PA ...",
+   "med": 14,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -27363,6 +27506,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932478690",
+   "title": "Vintage Zuni Necklace Cab Mounted on Silver with Beaded Decoration",
+   "price": 160,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/shawnee-vintage-zuni-necklace-cab/8ouyTkZaC3yzjZhSb8qRjq",
+   "best": "Socute925 Multicolor Necklace Pendant With Liquid Silver ...",
+   "med": 198,
+   "ratio": 1.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7943192526",
    "title": "Sterling Silver & Turquoise Size 7 1/4 Ring",
    "price": 35,
@@ -28580,6 +28734,17 @@
    "url": "https://www.craigslist.org/view/d/munroe-falls-piece-necklace-and-earrings/2mrz5b968GcUegeLq7awB9",
    "best": "Craigslist",
    "med": 9,
+   "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929630860",
+   "title": "Vintage Cobalt Blue Glassware",
+   "price": 90,
+   "area": "charlottesville",
+   "url": "https://www.craigslist.org/view/d/front-royal-vintage-cobalt-blue/9MtarpXQmtQuFZCJvvRGaT",
+   "best": "Cobalt Blue Glass Water Goblets. Set of Eight Contemporary ...",
+   "med": 102,
    "ratio": 1.13,
    "ai_value": ""
   },
@@ -31781,6 +31946,17 @@
    "url": "https://www.craigslist.org/view/d/fairfax-seiko-world-clock/74tptvA71U8Xq4EDshorWy",
    "best": "eBay",
    "med": 150,
+   "ratio": 0.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984023894",
+   "title": "Vintage Brass Sitting Cat",
+   "price": 50,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/summerville-vintage-brass-sitting-cat/cX28Fg3DD1ATvHfhWhHwiv",
+   "best": "Large Elegant Brass Cat Sculpture, Vintage Weighty Figurine ...",
+   "med": 43,
    "ratio": 0.86,
    "ai_value": ""
   },
@@ -38033,6 +38209,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948431338",
+   "title": "Lot of 4 vintage precious moment with boxes",
+   "price": 80,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/redlands-lot-of-vintage-precious-moment/5kZie838FyAKNePoe8MwAB",
+   "best": "Precious Moments 2001 Collectors Club Figurines - Complete ...",
+   "med": 15,
+   "ratio": 0.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7954379451",
    "title": "Huge vintage doll house lot",
    "price": 150,
@@ -40371,6 +40558,17 @@
    "area": "huntsville",
    "url": "https://www.craigslist.org/view/d/ryland-pocket-knives-set-of-10/25XsnLb2ghLmoEtqMyrYMd",
    "best": "Knife Lot of 10 TSA Confiscated Pocket Knives Various Brands ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943926128",
+   "title": "Royal Trumpet vintage",
+   "price": 90,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/burlington-royal-trumpet-vintage/4StYXVUZX9pJ7wQKn3RqBZ",
+   "best": "Trumpets for sale in Thomaston, Connecticut | Facebook ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
