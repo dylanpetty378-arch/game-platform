@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:03:22Z",
+ "updated": "2026-10-15T15:07:28Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11999,
-  "events": 38089,
+  "lens": 12024,
+  "events": 38114,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 453,
-  "flagged": 3071,
-  "lensed": 937
+  "queued": 428,
+  "flagged": 3085,
+  "lensed": 948
  },
  "last_harvests": [
   {
@@ -1968,6 +1968,17 @@
    "best": "Miami Cuban Link Bracelet Thick 25 Mil Gold Filled... From ...",
    "med": 4044,
    "ratio": 40.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981145985",
+   "title": "Vintage Lampwork Bead Glass Flower Boquet",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/west-babylon-vintage-lampwork-bead/3YC1oLfZcz8HYVLmHbptEc",
+   "best": "Decorative Wall Hooks, Coat Rack With Multicolored Resin ...",
+   "med": 401,
+   "ratio": 40.1,
    "ai_value": ""
   },
   {
@@ -5326,6 +5337,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952281074",
+   "title": "DECANTER (VINTAGE)",
+   "price": 5,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/concord-decanter-vintage/2obangXzTG9QY6KKrpC5yP",
+   "best": "Imperial Glass Cape Cod Clear Decanter with Stopper Barware ...",
+   "med": 50,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792374",
    "title": "Vintage WWII-Era Military Medal & Ribbon Collection",
    "price": 50,
@@ -5805,6 +5827,17 @@
    "area": "newyork",
    "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/eeTfuAS2Gt1huNnVKygbMf",
    "best": "Leboncoin",
+   "med": 385,
+   "ratio": 8.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947513449",
+   "title": "Vintage lighter Zaima Chateau",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-lighter-zaima/eSg423qaF7xXcpa1m4fTur",
+   "best": "Briquet chateau chatelet vintage - Collection",
    "med": 385,
    "ratio": 8.56,
    "ai_value": ""
@@ -7666,6 +7699,17 @@
    "best": "eBay",
    "med": 873,
    "ratio": 5.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947100050",
+   "title": "Vintage oval framed hand painted porcelain",
+   "price": 75,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/naples-vintage-oval-framed-hand-painted/3Y1Q9gJiz8rJGPjexCZhxP",
+   "best": "High Quality Lobster - clams - shrimp Still live Painting | eBay",
+   "med": 435,
+   "ratio": 5.8,
    "ai_value": ""
   },
   {
@@ -10364,6 +10408,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941193734",
+   "title": "Vintage Clay Tea Pot",
+   "price": 20,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/palmyra-vintage-clay-tea-pot/aKLduuohXq4eDhiFxmtyJ1",
+   "best": "Vintage Ceramic Stoneware Pottery Tea Pot Kettle Teapot ...",
+   "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -10778,6 +10833,17 @@
    "url": "https://www.craigslist.org/view/d/allentown-star-of-david-with-chai/rkvLTwBsaALkGNdbK9zzwh",
    "best": "STAR of DAVID with Chai Pendant - Pewter on 20-inch Chain ...",
    "med": 75,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983892761",
+   "title": "Nachez US Mail Vicksburg-New Orleans Pottery Sculpture",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-nachez-us-mail-vicksburg-new/8Xj2Eh1nhZ41sJs6fD4FGU",
+   "best": "Mid-century Copper Boat \"natchez\" Steam Boat Replica - Etsy",
+   "med": 150,
    "ratio": 3.75,
    "ai_value": ""
   },
@@ -12245,6 +12311,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938054912",
+   "title": "Black Onyx Sterling Ring size 9",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-black-onyx-sterling-ring-size/18CYMYGCmYq1Qqju7TQcTV",
+   "best": "Taxco Silver Onyx Rings - Etsy",
+   "med": 80,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7963619385",
    "title": "Lladro collection and more",
    "price": 250,
@@ -13034,6 +13111,17 @@
    "best": "\u00b7vivisue",
    "med": 299,
    "ratio": 2.99,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983851640",
+   "title": "Kala KA-TEAK-S Soprano Ukulele Solid Teak Wood",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/santa-monica-kala-ka-teak-soprano/efhVszCXkUjKpJKrkK6DoN",
+   "best": "Kala Ka-Teak-C - Teak Concert Ukulele | eBay",
+   "med": 149,
+   "ratio": 2.98,
    "ai_value": ""
   },
   {
@@ -17844,6 +17932,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972559172",
+   "title": "container",
+   "price": 45,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-container/s2kEHYMwKMiCZictM3A7N7",
+   "best": "Red Wing Double \"P\" Bottom Signed Crock Minnesota Stoneware ...",
+   "med": 86,
+   "ratio": 1.91,
+   "ai_value": ""
+  },
+  {
    "pid": "7962598692",
    "title": "Two pendants",
    "price": 20,
@@ -19292,6 +19391,17 @@
    "url": "https://www.craigslist.org/view/d/glenmont-collar-bars/bzqXEBMd7k9TUL3UtzmHuS",
    "best": "Large Safety Pin Vintage Safety Pin Kilt Pin Vintage Blanket ...",
    "med": 17,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981478391",
+   "title": "Oil Painting",
+   "price": 50,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/spring-oil-painting/mhCZsimyWkMjqnnfc6YVVw",
+   "best": "M. Aaron Original Floral Still Life Oil Painting on 36\" x 24 ...",
+   "med": 85,
    "ratio": 1.7,
    "ai_value": ""
   },
@@ -21210,6 +21320,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979618496",
+   "title": "Vintage Mid-Century Ohio Pottery Fan Vase",
+   "price": 40,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/north-canton-vintage-mid-century-ohio/8EiEtLYRYYfmwqBtabUWbR",
+   "best": "Purple Hull Vase - Etsy",
+   "med": 59,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7958902101",
    "title": "Vintage Avon Double Strand Faux Pearl signed Necklace Set",
    "price": 15,
@@ -22448,6 +22569,17 @@
    "area": "buffalo",
    "url": "https://www.craigslist.org/view/d/lancaster-vintage-rootbeer-metal-trays/humcdaLHNHunofNgmFLVgM",
    "best": "eBay",
+   "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942995109",
+   "title": "Vintage Candy Chocolate Molds Lot",
+   "price": 15,
+   "area": "rockford",
+   "url": "https://www.craigslist.org/view/d/rockford-vintage-candy-chocolate-molds/6H499Xhn5SkutZHdE3eEgN",
+   "best": "Wilton Sugar Mold Kit Vintage 1976 With Instruction Booklet ...",
    "med": 20,
    "ratio": 1.33,
    "ai_value": ""
@@ -24462,6 +24594,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-excellent-vintage-watercolor/f9wNT9RetigH3ZrQ9SVVEq",
    "best": "Downtown Millerton New York, Framable Wall Art of Beautiful ...",
    "med": 50,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976271810",
+   "title": "Vintage Kamba Tribal Drum",
+   "price": 75,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/winter-springs-vintage-kamba-tribal-drum/99PF9hRRLPs2ZaCncufGW7",
+   "best": "Vintage Africa Folk Instrument Kamba Tribal Art Handmade ...",
+   "med": 83,
    "ratio": 1.11,
    "ai_value": ""
   },
@@ -32822,6 +32965,17 @@
    "url": "https://www.craigslist.org/view/d/new-paltz-fine-pewter-collection-18/5e17iyiYbbXaFJ6o7eHpUs",
    "best": "Lot Of 11 Vintage Hallmark Little Gallery Pewter Figurines ...",
    "med": 52,
+   "ratio": 0.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954206206",
+   "title": "bracelet, earrings & necklace Amethyst, garnet, iolite",
+   "price": 200,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-bracelet-earrings-necklace/mbmaZQTRNtd8TfhJ9nfXh5",
+   "best": "Pewter Handcrafted Jewelry Sets for sale | eBay",
+   "med": 25,
    "ratio": 0.13,
    "ai_value": ""
   },
