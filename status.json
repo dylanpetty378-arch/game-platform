@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:31:23Z",
+ "updated": "2026-10-15T01:36:59Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10674,
-  "events": 35092,
+  "lens": 10699,
+  "events": 35117,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 178,
-  "flagged": 2044,
-  "lensed": 640
+  "queued": 153,
+  "flagged": 2063,
+  "lensed": 646
  },
  "last_harvests": [
   {
@@ -1209,6 +1209,17 @@
    "best": "Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag ...",
    "med": 60,
    "ratio": 60,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983656892",
+   "title": "NC Pottery - Mildred Teague Baskets",
+   "price": 10,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/cary-nc-pottery-mildred-teague-baskets/dYzUmb3oU2YpXL1BNUDBt4",
+   "best": "Vintage 1953 Dutch Milk Maid Pitcher: Hand-painted Spring ...",
+   "med": 590,
+   "ratio": 59,
    "ai_value": ""
   },
   {
@@ -5458,6 +5469,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929876448",
+   "title": "TWISTED HOOP 14K YELLOW GOLD EARRINGS",
+   "price": 199,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-twisted-hoop-14k-yellow-gold/tkiFKXASPYeF5ne5A1Lt2n",
+   "best": "Ruby Lane",
+   "med": 1125,
+   "ratio": 5.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7981365720",
    "title": "Vintage Pearl Earrings Gold Tone",
    "price": 39,
@@ -5740,6 +5762,17 @@
    "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-miniature-photo/sHnqpqsyaHUaYkEQ9FwYL7",
    "best": "Vintage French Framed Print Girl W Kitten by Jean Baptiste ...",
    "med": 116,
+   "ratio": 5.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936062593",
+   "title": "VINTAGE ATHENS GREECE TRINKET BOX 24K GOLD SPECIAL ART OVAL",
+   "price": 15,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/van-nuys-vintage-athens-greece-trinket/jvBGWBr8oHv73J1EZHPuvx",
+   "best": "eBay",
+   "med": 79,
    "ratio": 5.27,
    "ai_value": ""
   },
@@ -6059,6 +6092,17 @@
    "url": "https://www.craigslist.org/view/d/casco-vintage-creamer-by-fenton/3pzpdXRWwACUgwCCDZT7pD",
    "best": "Fenton Art Glass Emerald Green Daisy And Button And Bows ...",
    "med": 40,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944676255",
+   "title": "Avon Vintage Perfume Bottles - $10.00 Each",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-avon-vintage-perfume/4onEe2sYFc4Dy35s51AfTR",
+   "best": "eBay",
+   "med": 50,
    "ratio": 5,
    "ai_value": ""
   },
@@ -7400,6 +7444,17 @@
    "area": "boise",
    "url": "https://www.craigslist.org/view/d/boise-old-christian-orthodox-icon/wEUEKDUKQz8Kb3F4Ggtkwv",
    "best": "Saint Nicholas Pendant 14k Solid Gold, Icon Pendant for ...",
+   "med": 95,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983693696",
+   "title": "Vintage Stellaris, Tradition Incabloc, Timex Mechanical Watches Reduce",
+   "price": 25,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/lake-mary-vintage-stellaris-tradition/d95oFvE9yQe9B2S1f8pLoP",
+   "best": "eBay",
    "med": 95,
    "ratio": 3.8,
    "ai_value": ""
@@ -8945,6 +9000,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963737585",
+   "title": "Hummel \u201cKiss Me\u201d #311 TMK-5",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/round-rock-hummel-kiss-me-311-tmk/735RnUEqrm9WoBUC6F1nBh",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -9283,6 +9349,17 @@
    "best": "eBay",
    "med": 99,
    "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939908770",
+   "title": "Women's Bangle .925",
+   "price": 89,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-womens-bangle-925/jevaaTHApuESPy7EciYVuG",
+   "best": "GunBroker.com",
+   "med": 251,
+   "ratio": 2.82,
    "ai_value": ""
   },
   {
@@ -11079,6 +11156,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950666693",
+   "title": "Antique Freiberger Porzellan Ceramic Container",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-antique-freiberger-porzellan/ds3y6b6hJySA2AKD9wq2xW",
+   "best": "eBay",
+   "med": 89,
+   "ratio": 2.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7938279602",
    "title": "Vintage plated gold silver large  medallion Chinese mythical",
    "price": 45,
@@ -12080,6 +12168,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955362600",
+   "title": "Vintage U.S. Army Air Forces Aircrew Badge Cuff Links & Tie Clip Set",
+   "price": 25,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-us-army-air-forces/f51Tj5CifPtcpzHzvYF1m4",
+   "best": "USAF Air Force Enlisted Air Crew Member Wings Cufflinks ...",
+   "med": 49,
+   "ratio": 1.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7937709068",
    "title": "Antique Royal Chelsea 12 inch pitcher",
    "price": 100,
@@ -12164,6 +12263,17 @@
    "url": "https://www.craigslist.org/view/d/farmington-stemware-with-gold-trim/k7zXrvk4N8nGFuGDs9kRU4",
    "best": "Vintage Wine Glass \u2013 Laurel (stem 14196) by Tiffin ...",
    "med": 189,
+   "ratio": 1.91,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931373753",
+   "title": "Australian Opal Mosiac, Copper Wire Wrapped  Pendant",
+   "price": 65,
+   "area": "anchorage",
+   "url": "https://www.craigslist.org/view/d/jber-australian-opal-mosiac-copper-wire/wFapGPMHmy1tJiFf4YnRus",
+   "best": "Handmade Copper Wire Wrapped Australian Opal Necklace With ...",
+   "med": 124,
    "ratio": 1.91,
    "ai_value": ""
   },
@@ -13319,6 +13429,17 @@
    "url": "https://www.craigslist.org/view/d/alexandria-sterling-silver-remontoir/i12hRdmciawgq6ewXa7aKq",
    "best": "eBay",
    "med": 275,
+   "ratio": 1.62,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933575334",
+   "title": "Vintage Pens and Pencils",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-pens-and-pencils/h4pmqHdQyLepDc9hGnsK5W",
+   "best": "eBay",
+   "med": 162,
    "ratio": 1.62,
    "ai_value": ""
   },
@@ -15134,6 +15255,17 @@
    "url": "https://www.craigslist.org/view/d/las-vegas-cross-pendant/qiK3F1dczANnNwWYQEaK3W",
    "best": "14K Yellow Gold Polished Ribbon Cross Pendant | eBay",
    "med": 265,
+   "ratio": 1.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949296656",
+   "title": "Gold rope link chain",
+   "price": 420,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-gold-rope-link-chain/8RWahuQJhi5sddMd3qsosH",
+   "best": "Etsy",
+   "med": 554,
    "ratio": 1.32,
    "ai_value": ""
   },
@@ -18614,6 +18746,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951589181",
+   "title": "Vintage US Regulation Bugle",
+   "price": 120,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-vintage-us-regulation-bugle/7wPogPFVmV7pzRQigV44Wd",
+   "best": "eBay",
+   "med": 93,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7983183432",
    "title": "Reduced! Vintage Natural London Blue Topaz & Diamond 14K Gold Ring",
    "price": 485,
@@ -18702,6 +18845,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948609684",
+   "title": "Natural Fossilized Ammonite Pendant",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-natural-fossilized-ammonite/91EYipBNaP27A7YAsKLiuj",
+   "best": "Craigslist",
+   "med": 23,
+   "ratio": 0.77,
+   "ai_value": ""
+  },
+  {
    "pid": "7954233431",
    "title": "Vintage 1900 George Washington Tobacco Tin",
    "price": 85,
@@ -18731,6 +18885,17 @@
    "url": "https://www.craigslist.org/view/d/santa-fe-pearl-necklace-with-symbellas/8Y8GvKgRadJRVUsGmCcChT",
    "best": "alvenstad.se",
    "med": 189,
+   "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983652710",
+   "title": "GP Multi Strand Necklace",
+   "price": 50,
+   "area": "lakeland",
+   "url": "https://www.craigslist.org/view/d/lakeland-gp-multi-strand-necklace/bBu8uZX9jXgnQMNtNqmua9",
+   "best": "eBay",
+   "med": 38,
    "ratio": 0.76,
    "ai_value": ""
   },
@@ -19032,6 +19197,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952241525",
+   "title": "Vintage Rhinestone bracelet",
+   "price": 65,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-vintage-rhinestone-bracelet/ok51aQx7SPLgx22bzvzwys",
+   "best": "Etsy",
+   "med": 47,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7960677090",
    "title": "Turquoise in sterling silver pendant",
    "price": 200,
@@ -19248,6 +19424,17 @@
    "url": "https://www.craigslist.org/view/d/brooklyn-calypso-maxi-statement-necklace/uSx3KxvDf3xAEbNzAzP6S2",
    "best": "Charming Silver AUDREY Tribal/bohemian/ Oversized/bohoo ...",
    "med": 34,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949314620",
+   "title": "Silver rope bracelet",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-silver-rope-bracelet/3N6Wj75PfdAdANLfpZGQEX",
+   "best": "Poshmark",
+   "med": 68,
    "ratio": 0.68,
    "ai_value": ""
   },
@@ -22965,6 +23152,28 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/union-city-classic-oribe-pottery-basket/8PpecMRg6rezfPsKfNHWuH",
    "best": "Micaela Schoop ceramic artist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981524348",
+   "title": "Vintage 50's wall sconce",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/van-nuys-vintage-50s-wall-sconce/bRbDUYr7UAtHjeP35nfe7a",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969874913",
+   "title": "Vintage Playboy Collection",
+   "price": 150,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/cortlandt-manor-vintage-playboy/jKmwaVYEz6ZwoP6HvVqUfA",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""

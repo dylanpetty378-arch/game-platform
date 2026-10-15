@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T01:31:23Z
+# Refurbish status — 2026-10-15T01:36:59Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2044 |
-| lensed | 640 |
+| flagged | 2063 |
+| lensed | 646 |
 | queued/relens | 485 |
-| queued | 178 |
+| queued | 153 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 12
 - searches: 2841
 - listings: 12183
-- lens: 10674
-- events: 35092
+- lens: 10699
+- events: 35117
 - comps: 2558
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2044)
+## Flagged by Lens, waiting for photo review (2063)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -209,6 +209,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00r0r_icImtQVwjFh_0t20CI_300x300.jpg" width="120"> | 7957168862 | $2 | westernmass | [Prices reduced:  large collection of Costume Jewel](https://www.craigslist.org/view/d/longmeadow-prices-reduced-large/7KjJUKRNKo9LjeLwGBSLBk) | Over 1 Pound Jewelry Vintage Modern Huge Lot ALL GOOD Wear . | 125 | 62.5 |
 | <img src="https://images.craigslist.org/00G0G_gxCM0upfDMH_0CI0pO_300x300.jpg" width="120"> | 7950666174 | $20 | sfbay | [Vintage Floral Plates](https://www.craigslist.org/view/d/oakland-vintage-floral-plates/hUdSGSY9JPJvsMp6ozXuxk) | LARGE VINTAGE ROYAL ALBERT SERVICE PLATE IN PINK ... | 1200 | 60 |
 | <img src="https://images.craigslist.org/01212_r59b0nsrR8_0d40hq_300x300.jpg" width="120"> | 7976459112 | $1 | sfbay | [Vintage items](https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG) | Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag  | 60 | 60 |
+| <img src="https://images.craigslist.org/00V0V_ahQJdvWccWi_0CI0qs_300x300.jpg" width="120"> | 7983656892 | $10 | raleigh | [NC Pottery - Mildred Teague Baskets](https://www.craigslist.org/view/d/cary-nc-pottery-mildred-teague-baskets/dYzUmb3oU2YpXL1BNUDBt4) | Vintage 1953 Dutch Milk Maid Pitcher: Hand-painted Spring .. | 590 | 59 |
 | <img src="https://images.craigslist.org/00x0x_25xZdYEhXbL_0t20CI_300x300.jpg" width="120"> | 7954916105 | $3 | newyork | [Costume Jewelry](https://www.craigslist.org/view/d/costume-jewelry/8CitBSRY2y3HeoXTt4cn5A) | 925 heart shape clasp, pearl yellow crystal. lot of 7 ... | 170 | 56.67 |
 | <img src="https://images.craigslist.org/00M0M_goHAg115JTH_0CI0CI_300x300.jpg" width="120"> | 7972891719 | $80 | houston | [SIGNED Vintage Dryden Pottery Vase ONE OF A KIND A](https://www.craigslist.org/view/d/deer-park-signed-vintage-dryden-pottery/4naSLEA9NHNVumY5Wq6yxZ) | Ancien vase pot gres d'Alsace signé Anne ehret Deco - Décora | 4500 | 56.25 |
 | <img src="https://images.craigslist.org/00909_8BfX3nTVtZI_0lM0t2_300x300.jpg" width="120"> | 7955869002 | $1 | boulder | [Earrings some vintage](https://www.craigslist.org/view/d/longmont-earrings-some-vintage/jmupJNonTh8Nwd7jAMLg9v) | Craigslist | 56 | 56 |
@@ -262,4 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_aAEeiWHRkNM_0sz0nZ_300x300.jpg" width="120"> | 7944806418 | $25 | rochester | [Vintage Monet 1.5" Turtle Brooch](https://www.craigslist.org/view/d/rochester-vintage-monet-15-turtle-brooch/bQxeL8LurwJVV1MaD4Dq96) | Vintage fanny turtle gold - Gem | 798 | 31.92 |
 | <img src="https://images.craigslist.org/00d0d_b7fWKD2QVX0_0CI0t2_300x300.jpg" width="120"> | 7940935310 | $75 | sarasota | [Bracelet with green stones](https://www.craigslist.org/view/d/tallevast-bracelet-with-green-stones/2YTGLVB5bvstRHttocQmf7) | Etsy | 2375 | 31.67 |
 | <img src="https://images.craigslist.org/00c0c_48oZsW7BOby_07K05Q_300x300.jpg" width="120"> | 7948770419 | $4 | chicago | [Ceramic Tea Pot](https://www.craigslist.org/view/d/mount-prospect-ceramic-tea-pot/eqhbaqsfDgZArGRaC8WZv1) | Independence-Kentucky-Jordan Photography NKU-Tony Winchester | 125 | 31.25 |
-| <img src="https://images.craigslist.org/00Q0Q_81Zj13gz68a_0cO0dR_300x300.jpg" width="120"> | 7953306808 | $75 | newyork | [Beautiful antique cast bronze vase. Made by Muraka](https://www.craigslist.org/view/d/new-york-beautiful-antique-cast-bronze/7BGTFH677MZESeYvTsWkHp) | Japanese Patinated Bronze Vases: Elephant Handles, Dragons . | 2297 | 30.63 |
