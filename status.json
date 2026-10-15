@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:20:50Z",
+ "updated": "2026-10-15T01:24:38Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10599,
-  "events": 35017,
+  "lens": 10624,
+  "events": 35042,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 253,
-  "flagged": 1984,
-  "lensed": 625
+  "queued": 228,
+  "flagged": 2005,
+  "lensed": 629
  },
  "last_harvests": [
   {
@@ -2114,6 +2114,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958854425",
+   "title": "Ladies Watches",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-ladies-watches/66tC7gKoQtkDt3WNYLtLu8",
+   "best": "Vintage Movado Museum 22mm 14K Yellow Gold Steel Quartz ...",
+   "med": 215,
+   "ratio": 21.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931510232",
    "title": "Jewelry",
    "price": 75,
@@ -3225,6 +3236,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955993205",
+   "title": "Vintage Crystal Decanters",
+   "price": 10,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/chagrin-falls-vintage-crystal-decanters/o57ZJe49GhDiiVWjBRybY2",
+   "best": "eBay",
+   "med": 122,
+   "ratio": 12.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7964325765",
    "title": "1973 vintage half dollar jfk pendant",
    "price": 80,
@@ -3618,6 +3640,17 @@
    "best": "2.50tcw Art Deco Natural Bezel Set Vivid Colombian Emerald ...",
    "med": 1988,
    "ratio": 10.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983533928",
+   "title": "925 Figaro Style Chain Necklace - Flattened links",
+   "price": 60,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/murfreesboro-925-figaro-style-chain/mCbowhBzaY5E4FJ7bfBSFV",
+   "best": "eBay",
+   "med": 611,
+   "ratio": 10.18,
    "ai_value": ""
   },
   {
@@ -5378,6 +5411,17 @@
    "best": "Southwestern Canisters - Etsy",
    "med": 225,
    "ratio": 5.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982393652",
+   "title": "Antique Halloween papier mache candy containers",
+   "price": 25,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-antique-halloween-papier-mache/xdQScNNWGKvcvrXdaL15nG",
+   "best": "Nostalgic Papier-M\u00e2ch\u00e9 Devil Head",
+   "med": 140,
+   "ratio": 5.6,
    "ai_value": ""
   },
   {
@@ -7262,6 +7306,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981337661",
+   "title": "Old Christian Orthodox Icon Pendant Necklace Silver Tone 16\"",
+   "price": 25,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-old-christian-orthodox-icon/wEUEKDUKQz8Kb3F4Ggtkwv",
+   "best": "Saint Nicholas Pendant 14k Solid Gold, Icon Pendant for ...",
+   "med": 95,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7972351545",
    "title": "Sterling Silver Ring",
    "price": 20,
@@ -8857,6 +8912,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943789619",
+   "title": "8\" Chain Bracelet Gold Tone",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-chain-bracelet-gold-tone/nxv5zkePe8KVYxrPLSd7k2",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7945352349",
    "title": "Antique Englefields London Tankard",
    "price": 55,
@@ -9161,6 +9227,17 @@
    "url": "https://www.craigslist.org/view/d/east-rochester-antique-vintage-sterling/597sw5AVXPN5P2ePXdbdF8",
    "best": "Craigslist",
    "med": 180,
+   "ratio": 2.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958150180",
+   "title": "Artini Engraving",
+   "price": 40,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-artini-engraving/c1hyQfpzEqjGSBdSEm7iDh",
+   "best": "Etsy",
+   "med": 111,
    "ratio": 2.77,
    "ai_value": ""
   },
@@ -9557,6 +9634,17 @@
    "url": "https://www.craigslist.org/view/d/pleasanton-brighton-camera-and-suitcase/k1tdMUSeX5xiySr5pnoaDW",
    "best": "Brighton Camera Charm Dangle Jewelry Silver Tone Cheese ...",
    "med": 39,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954490756",
+   "title": "PAINTING Original Oil Canvas",
+   "price": 75,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/painting-original-oil-canvas/8fGQBawPynFxpFgfMm3UVf",
+   "best": "LANDSCAPE Oil Canvas Original Vintage Artist Schwartz ...",
+   "med": 195,
    "ratio": 2.6,
    "ai_value": ""
   },
@@ -10364,6 +10452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935030316",
+   "title": "1920s Banjo",
+   "price": 150,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-1920s-banjo/jfzP81wnAwjH5wDM8Kg1R6",
+   "best": "Invaluable.com",
+   "med": 350,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7950186310",
    "title": "Vintage Cloisonn\u00e9/ Chinese Enamel",
    "price": 125,
@@ -11002,6 +11101,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946639970",
+   "title": "Vintage Ambassador gold-tone rope chain necklace w pendant",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-ambassador-gold-tone/ojwEemsHfgNvTTprPgvcEK",
+   "best": "Round Shape Stone/metal Pendant On Leather Cord | eBay",
+   "med": 76,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7950216572",
    "title": "VINTAGE CERAMIC CREAMER",
    "price": 20,
@@ -11042,6 +11152,17 @@
    "url": "https://www.craigslist.org/view/d/greenacres-beautiful-vintage-pin/eK7uxGuG7xBDrNu5AkCcV6",
    "best": "Craigslist",
    "med": 425,
+   "ratio": 2.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952360854",
+   "title": "Vintage Toy Sports Figures - UD CO INC 1966 Football + Baseball Player",
+   "price": 42,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/roseville-vintage-toy-sports-figures-ud/rJsekBJhRXNC8nw2g59JRY",
+   "best": "VINTAGE 1966 UNEEDA Hee Wee Pee Wee Baseball Boy Doll made ...",
+   "med": 90,
    "ratio": 2.14,
    "ai_value": ""
   },
@@ -13873,6 +13994,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7983609591",
+   "title": "Chinese embroidered koi fish artwork",
+   "price": 60,
+   "area": "corvallis",
+   "url": "https://www.craigslist.org/view/d/corvallis-chinese-embroidered-koi-fish/sU2N1tVgKn4rctYGMNhebf",
+   "best": "vintage japanese fish art , framed , rare. | eBay",
+   "med": 90,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944756255",
+   "title": "Ladies watches",
+   "price": 20,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/redding-ladies-watches/1aMaGHyq4QjvcjuNYAcxro",
+   "best": "Amazon.com",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -14441,6 +14584,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-howard-pocket-watch-circa-1912/bbpJCdVb9m9tPrC6ru73w6",
    "best": "1921 E. HOWARD Series 12 Art Deco Pocket Watch w/Box ...",
    "med": 550,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954034605",
+   "title": "Vintage 20-Piece Nativity Set \u2013 Mid-Century Chalkware / Plaster Figures",
+   "price": 65,
+   "area": "racine",
+   "url": "https://www.craigslist.org/view/d/kenosha-vintage-20-piece-nativity-set/9QHFdCeboaXwByFBxru4xH",
+   "best": "Vintage Nativity Set, Mid Century Chalkware painted ...",
+   "med": 90,
    "ratio": 1.38,
    "ai_value": ""
   },
@@ -19296,6 +19450,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7934385352",
+   "title": "Gucci women\u2019s watch",
+   "price": 375,
+   "area": "fortwayne",
+   "url": "https://www.craigslist.org/view/d/elkhart-gucci-womens-watch/imuxRGo9UWiWJWrfJ5hJNg",
+   "best": "Gucci 3000L Sherry Line Women's Quartz Watch - Good ...",
+   "med": 224,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982372430",
+   "title": "Flower bead jewelry",
+   "price": 20,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-flower-bead-jewelry/uNNSnMyrFenJC6heLmGR8z",
+   "best": "SALE: Pretty MULTI-COLORED Flowers Spring Fimo Polymer Clay ...",
+   "med": 12,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7969703721",
    "title": "Banjo - 5 String with Case",
    "price": 425,
@@ -19710,6 +19886,17 @@
    "url": "https://www.craigslist.org/view/d/round-rock-hummel-little-fiddler-tmk/jZvB4v5Ew4pADasm5sRhok",
    "best": "eBay",
    "med": 26,
+   "ratio": 0.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938600352",
+   "title": "Chinese Dagger Knife",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-chinese-dagger-knife/myeuYq5QnbcyxMgWSgLB3f",
+   "best": "OfferUp",
+   "med": 13,
    "ratio": 0.52,
    "ai_value": ""
   },
@@ -20473,6 +20660,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948959247",
+   "title": "ENTIRE LOT AMAZING 30 items  ANTIQUE COLLECTION",
+   "price": 155,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/windsor-entire-lot-amazing-30-items/bWX2RFNXyxiy4EXhWfWQUF",
+   "best": "Etsy",
+   "med": 55,
+   "ratio": 0.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7975555695",
    "title": "2.25\" Vintage 8 Point Star Octagram Sterling Pendant Taxco Black Onyx",
    "price": 150,
@@ -20803,6 +21001,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952532369",
+   "title": "Vintage Aztec/Mayan Clay Pottery Flute Figure \u2014 8\u201d $100 OBO Beautiful",
+   "price": 100,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-vintage-aztec-mayan-clay/5W3FqgvCRcD9cQaUxdLJR3",
+   "best": "eBay",
+   "med": 26,
+   "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7954573736",
    "title": "Huge Lot of Vintage Glass Avon Bottles",
    "price": 40,
@@ -21041,6 +21250,28 @@
    "url": "https://www.craigslist.org/view/d/waunakee-collection-of-28-vintage-pc/eCCcptRjuo5TYcFFiRyNwf",
    "best": "eBay",
    "med": 4,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936543549",
+   "title": "Monaco Miami Cuban link",
+   "price": 230,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-monaco-miami-cuban-link/ivUTwJmHDJedR4MH3UiAxj",
+   "best": "eBay",
+   "med": 47,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956837881",
+   "title": "Conchos",
+   "price": 30,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/russell-conchos/urHqqnqg1BTCrnMfY2XFP5",
+   "best": "Etsy",
+   "med": 6,
    "ratio": 0.2,
    "ai_value": ""
   },
