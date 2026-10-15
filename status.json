@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:38:51Z",
+ "updated": "2026-10-15T15:42:42Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12224,
-  "events": 38356,
+  "lens": 12249,
+  "events": 38381,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -13,7 +13,7 @@
  "stages": {
   "photo_review/kill": 8937,
   "comps/pass": 1,
-  "queued/relens": 485,
+  "queued/relens": 486,
   "decided/ask": 82,
   "decided/bundle": 5,
   "decided/kill": 56,
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 228,
-  "flagged": 3245,
-  "lensed": 988
+  "queued": 203,
+  "flagged": 3259,
+  "lensed": 998
  },
  "last_harvests": [
   {
@@ -2925,6 +2925,17 @@
    "best": "Craigslist",
    "med": 450,
    "ratio": 22.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941630333",
+   "title": "vintage-style ornate gold 2-tier mirrored dessert stand",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-mateo-vintage-style-ornate-gold/nRY5BJQiG1NWwL5zhgGbXH",
+   "best": "Fleur de Lis Bronze Gold 21 1/2\" High Two Tier Cake Stand ...",
+   "med": 556,
+   "ratio": 22.24,
    "ai_value": ""
   },
   {
@@ -6844,6 +6855,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973184255",
+   "title": "Eagle Canyon numbered and signed  lithograph",
+   "price": 30,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/east-northport-eagle-canyon-numbered/hbMgcWw2bsMvgDAX7SWxf5",
+   "best": "Don Balke | Art | Lithograph Signed By Artist Don Balke 725 ...",
+   "med": 220,
+   "ratio": 7.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7949724462",
    "title": "Handcrafted Terracotta & Green Glaze Water/Oil Jug Vase",
    "price": 35,
@@ -9209,6 +9231,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973846874",
+   "title": "Vintage military helmet",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/littlerock-vintage-military-helmet/tZkfGiRmp4CEBNQVn4UAvJ",
+   "best": "Original Desert Storm / OIF Iraq Bringback - Iraqi Green HHD ...",
+   "med": 120,
+   "ratio": 4.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7983614937",
    "title": "antique/vintage silver plated serving pieces",
    "price": 50,
@@ -10559,6 +10592,17 @@
    "best": "20TH CENTURY ANTIQUE WEDDING CUP SILVER PLATED AND GOLD ...",
    "med": 350,
    "ratio": 4.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973921094",
+   "title": "Vintage silver plate 3 piece serving set",
+   "price": 21,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/barre-vintage-silver-plate-piece/6jpCF2732z2B9GnVUvNAz4",
+   "best": "Reed & Barton Hampton Court Sterling Silver Salad Fork NEW ...",
+   "med": 85,
+   "ratio": 4.05,
    "ai_value": ""
   },
   {
@@ -13803,6 +13847,17 @@
    "url": "https://www.craigslist.org/view/d/altoona-griswold-468/qeqsazRC9nz9tZGZXjgixS",
    "best": "Craigslist",
    "med": 300,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935742935",
+   "title": "Three Vintage GREEN Pyrex Bowl",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-three-vintage-green-pyrex-bowl/rwLpocSV4CJcYtAdXiMTaF",
+   "best": "Vintage Turquoise Pyrex Mixing Bowls Set of 3 - Etsy",
+   "med": 75,
    "ratio": 3,
    "ai_value": ""
   },
@@ -18713,6 +18768,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929678401",
+   "title": "Vintage Artisan Diamond Chip 1/20 12k GF Oval Cufflinks",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-artisan-diamond-chip-gf/tnqTMBPZpDfWCSCSdWdZwd",
+   "best": "Vintage Anson Men's Gold Tone Golf Motif Cufflinks | eBay",
+   "med": 29,
+   "ratio": 1.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7942381489",
    "title": "Vintage Jewelry",
    "price": 50,
@@ -21188,6 +21254,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983866811",
+   "title": "Towle Sterling Old Newbury Spoon, Monogram",
+   "price": 50,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-towle-sterling-old-newbury-spoon/w6iS1AKequXJc3SDcKPNga",
+   "best": "Old Newbury by Towle Sterling Silver Oval Soup Spoon 7 1/8 ...",
+   "med": 80,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -22288,6 +22365,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938912846",
+   "title": "Antique jeweled pendant lamp",
+   "price": 350,
+   "area": "nmi",
+   "url": "https://www.craigslist.org/view/d/washington-island-antique-jeweled/6XPLoUHH8qPmHRgbxPseBC",
+   "best": "Lot - American Patinated Metal & \"Jeweled\" Glass Hanging Lamp",
+   "med": 520,
+   "ratio": 1.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7947141905",
    "title": "Sterling Silver Filigree Size 7 1/2 Ring",
    "price": 25,
@@ -22460,6 +22548,17 @@
    "url": "https://www.craigslist.org/view/d/el-cajon-vintage-the-kindu-collection/eGwzbWnL6sEjo2dfiXd6uD",
    "best": "eBay",
    "med": 110,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942139059",
+   "title": "Robert Redbird  signed print/ 1989 by Sidekick/",
+   "price": 85,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-robert-redbird-signed-print/m48YTw2zDMYytut8Dq3rzx",
+   "best": "Robert Redbird Signed Art Print Native American Woman Framed ...",
+   "med": 125,
    "ratio": 1.47,
    "ai_value": ""
   },
@@ -29834,6 +29933,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963332606",
+   "title": "M.I. HUMMEL FIGURINE",
+   "price": 60,
+   "area": "reading",
+   "url": "https://www.craigslist.org/view/d/reading-mi-hummel-figurine/ij1MEgLU29kTNi23nRKcdX",
+   "best": "Celestial Drummer M I Hummel Goebel Figurine 2096/C First ...",
+   "med": 44,
+   "ratio": 0.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7940114039",
    "title": "Sterling silver kokopelli earrings",
    "price": 40,
@@ -29917,6 +30027,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/los-angeles-antique-vanity-mirror/oPNMe9XnLrquU2BvnQsbxU",
    "best": "Craigslist",
+   "med": 18,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983879021",
+   "title": "Vintage University of Montana cups",
+   "price": 25,
+   "area": "helena",
+   "url": "https://www.craigslist.org/view/d/fort-harrison-vintage-university-of/6bMXQZ1RDoPaUmHq78DpdE",
+   "best": "European Coffeehouse Coffee Mug 8oz White Gold trim | eBay",
    "med": 18,
    "ratio": 0.72,
    "ai_value": ""
@@ -34663,6 +34784,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969439658",
+   "title": "Assorted  Tea Cups and Saucers",
+   "price": 350,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-assorted-tea-cups-and-saucers/hzv5d3AQjeSK8t2hHh6tz2",
+   "best": "Vintage Royal Stafford Bone China Golden Bramble Teacup and ...",
+   "med": 40,
+   "ratio": 0.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7951489709",
    "title": "Lot of vintage collectibles",
    "price": 200,
@@ -34802,6 +34934,17 @@
    "url": "https://www.craigslist.org/view/d/new-albany-ray-harm-kestrel-print/vRfcwW2KSwQwYRtBxdtQAn",
    "best": "eBay",
    "med": 5,
+   "ratio": 0.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948487055",
+   "title": "Three Circle Dolphins Pendent",
+   "price": 150,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-three-circle-dolphins-pendent/v5yRV6mecWcEgWcmvBpGXX",
+   "best": "Sterling Silver Three Dolphins Forming A Circle Pendant ...",
+   "med": 8,
    "ratio": 0.05,
    "ai_value": ""
   },
@@ -36176,6 +36319,17 @@
    "area": "baltimore",
    "url": "https://www.craigslist.org/view/d/towson-american-eagle-milk-can/rAsywSWJoX7cWXyeytoNfb",
    "best": "Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974854379",
+   "title": "Great Home D\u00e9cor Paintings",
+   "price": 2,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/lisle-great-home-dcor-paintings/s7f8UYxKEupCwVfMCZZdjZ",
+   "best": "Hungryartist -Original Painting of a Still-Life Flowers on ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
