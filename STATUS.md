@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T14:51:29Z
+# Refurbish status — 2026-10-15T14:55:20Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8935 |
-| flagged | 3023 |
-| lensed | 910 |
-| queued | 528 |
+| flagged | 3037 |
+| lensed | 921 |
+| queued | 503 |
 | queued/relens | 485 |
 | decided/ask | 82 |
 | decided/kill | 49 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13783
-- lens: 11924
-- events: 38014
+- lens: 11949
+- events: 38039
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (3023)
+## Flagged by Lens, waiting for photo review (3037)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -171,6 +171,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00G0G_hF0V4Oh05sr_0r90hq_300x300.jpg" width="120"> | 7973797344 | $45 | boston | [Bijou Earrings, Sterling 925 Italy, Vintage](https://www.craigslist.org/view/d/natick-bijou-earrings-sterling-925/3tk9PiJvYqLMLKPtaRMFAX) | Vintage bijou earrings - Auction IMPORTANT WATCHES AND FINE  | 8000 | 177.78 |
 | <img src="https://images.craigslist.org/00z0z_fIwhtjT3lm5_0CI0hq_300x300.jpg" width="120"> | 7972979781 | $35 | boise | [BRIGHTON Meridian Petite Prime Bracelet](https://www.craigslist.org/view/d/boise-brighton-meridian-petite-prime/cN7nY6DFh2z9HUZS2GrkpW) | Brighton Meridian Petite Bracelet / eBay | 6200 | 177.14 |
 | <img src="https://images.craigslist.org/00808_kcbkA8EOezv_0t20CI_300x300.jpg" width="120"> | 7969480947 | $25 | austin | [Vintage Ornate Destressed White & Gold Tone Decora](https://www.craigslist.org/view/d/kyle-vintage-ornate-destressed-white/3cDrTDnKUaFKcYMzgdyztn) | Miller Studios Floral Chalkware Flowers Wall Hanging Green . | 4200 | 168 |
+| <img src="https://images.craigslist.org/00M0M_jt7cSWmOQAyz_0CI0oZ_300x300.jpg" width="120"> | 7946479602 | $25 | chicago | [Sterling Emerald and Cubic Zirconia Earrings](https://www.craigslist.org/view/d/chicago-sterling-emerald-and-cubic/tRnxsQMnaRDoj1aWJvETdJ) | Vintage Cubic Zircon and Emerald 925 Sterling Silver Prong . | 4200 | 168 |
 | <img src="https://images.craigslist.org/00J0J_auLMZV8wmTU_0t20CI_300x300.jpg" width="120"> | 7974651777 | $25 | seattle | [Vintage Sterling, Amethyst, and CZ Ring](https://www.craigslist.org/view/d/olympia-vintage-sterling-amethyst-and/dRRA4WB7vuiTzx6nNPmmv6) | eBay | 3790 | 151.6 |
 | <img src="https://images.craigslist.org/00v0v_ejBohGGyzg3_0ak07K_300x300.jpg" width="120"> | 7928661025 | $25 | sfbay | [Vintage 1955 Dodgers Giants Program](https://www.craigslist.org/view/d/san-francisco-vintage-1955-dodgers/wV5BHP6sEHbChffGkGHynz) | 8/27 1955 New York Giants vs Milwaukee Braves scored ... | 3603 | 144.12 |
 | <img src="https://images.craigslist.org/01111_iwlqBCed3Vs_0t20t2_300x300.jpg" width="120"> | 7947565852 | $75 | sfbay | [Elegant Pink Ruby and 925 Sterling Silver Cocktail](https://www.craigslist.org/view/d/pleasanton-elegant-pink-ruby-and-925/fYVfmnYD3ukvUjapBcTTU3) | Certified Natural Burma Ruby Cabochon 10ct Diamond 18k White | 10800 | 144 |
@@ -259,4 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00k0k_2QNkMKyRfU6_0CI0t2_300x300.jpg" width="120"> | 7943998943 | $15 | newjersey | [2 Vintage Large Silver-tone & Gold-tone Brooches/P](https://www.craigslist.org/view/d/new-milford-vintage-large-silver-tone/gVDWvTZxQJxZSxiFMs45AE) | eBay | 695 | 46.33 |
 | <img src="https://images.craigslist.org/00l0l_hsC8n6fXXTp_0t20CI_300x300.jpg" width="120"> | 7946417677 | $175 | buffalo | [Breitling Chronometer> Blue Dial >Replica>Stainles](https://www.craigslist.org/view/d/buffalo-breitling-chronometer-blue-dial/7puGej2v4UaaRfcid4pEW2) | Reddit | 7950 | 45.43 |
 | <img src="https://images.craigslist.org/00t0t_5OcBCXBXDk0_0m90t2_300x300.jpg" width="120"> | 7933462459 | $20 | miami | [Toys In The Attic](https://www.craigslist.org/view/d/fort-lauderdale-toys-in-the-attic/oyK342y5FcdD2tM4Tjf7sf) | Coins & Bank Notes inc. House & Gardens Sale - Gorringe's | 899 | 44.95 |
-| <img src="https://images.craigslist.org/00V0V_6b3EzvF2DuM_0CI0qh_300x300.jpg" width="120"> | 7962497376 | $35 | chicago | [Antique / Vintage Silver-Plated Chamberstick Candl](https://www.craigslist.org/view/d/schaumburg-antique-vintage-silver/n1bEZSkeRpqT6h35z9tS1M) | eBay | 1569 | 44.83 |
