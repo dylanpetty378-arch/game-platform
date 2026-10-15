@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:07:41Z",
+ "updated": "2026-10-15T00:11:25Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10149,
-  "events": 34565,
+  "lens": 10174,
+  "events": 34590,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 703,
-  "flagged": 1638,
-  "lensed": 523
+  "queued": 678,
+  "flagged": 1659,
+  "lensed": 527
  },
  "last_harvests": [
   {
@@ -1179,6 +1179,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974837603",
+   "title": "Vintage Black signet type ring, 6.5",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-black-signet-type-ring-65/oAV6wukp4Qm77AiLv4rbDt",
+   "best": "Etsy",
+   "med": 502,
+   "ratio": 50.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7978102380",
    "title": "BARBARA  A. WOOD",
    "price": 44,
@@ -1494,6 +1505,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-love-you-je-taime-te-quiero-te/tu2HhhmHDG5xJgTmm3F32M",
    "best": "Mercado Libre",
    "med": 1300,
+   "ratio": 32.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949138249",
+   "title": "Vintage Gold tone hinged scarf ring",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-gold-tone-hinged-scarf/if9RJFQyoLnpD6mPz9qwF1",
+   "best": "Craigslist",
+   "med": 650,
    "ratio": 32.5,
    "ai_value": ""
   },
@@ -2686,6 +2708,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945067032",
+   "title": "Hand painted large Mexican urn",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/haverhill-hand-painted-large-mexican-urn/1umN6UZC1usN6dotmjFbHp",
+   "best": "Craigslist",
+   "med": 315,
+   "ratio": 12.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7945560669",
    "title": "Diamond earrings",
    "price": 75,
@@ -3555,6 +3588,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960927353",
+   "title": "Antique clock collection",
+   "price": 195,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-antique-clock-collection/vciLMXxSb2qLdZDJk4YvgW",
+   "best": "Cottone Auctions",
+   "med": 1600,
+   "ratio": 8.21,
+   "ai_value": ""
+  },
+  {
    "pid": "7956172009",
    "title": "PEARL AMETHYST STERLING EARRINGS",
    "price": 35,
@@ -4347,6 +4391,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949994192",
+   "title": "Vintage Gold Tone Tie Tack Pin Decorative",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-gold-tone-tie-tack-pin/1xh8x9cqcqLeV3CNrL3tg1",
+   "best": "Vintage MIRIAM HASKELL Signed High Domed White Milk Glass ...",
+   "med": 89,
+   "ratio": 5.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7949226844",
    "title": "Antique c1963 Pastoral Mountain Lake Oil Painting signed S. E. Abbott",
    "price": 85,
@@ -4386,6 +4441,17 @@
    "area": "miami",
    "url": "https://www.craigslist.org/view/d/lake-worth-earrings/9cgVnPJsdBwTE8HkFaByfg",
    "best": "Sachin & Babi Kate Crystal Hoop Clip-on Earrings - Clear ...",
+   "med": 69,
+   "ratio": 5.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952632733",
+   "title": "VINTAGE AVON NECKLACE",
+   "price": 12,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/milford-vintage-avon-necklace/vtWuczVbxuFXTdBpfRev35",
+   "best": "Etsy",
    "med": 69,
    "ratio": 5.75,
    "ai_value": ""
@@ -6679,6 +6745,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975231773",
+   "title": "Vintage 925 Large STERLING HEART PENDANT - Taxco",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-vintage-925-large-sterling/uG4Y9LdjTzYdst8tLf1Tgw",
+   "best": "Brighton \"SONORA\" Bold Heart Necklace-Earring-Bracelet Set ...",
+   "med": 130,
+   "ratio": 3.25,
+   "ai_value": "Sold at Auction: TIFFANY & CO STERLING W/18KT TRIM HEART PENDANT $46"
+  },
+  {
    "pid": "7983120864",
    "title": "Sterling Silver Ammonite Fossil Pin",
    "price": 30,
@@ -7218,6 +7295,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943997930",
+   "title": "Vintage buckeye",
+   "price": 50,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/grand-rapids-vintage-buckeye/hKCYNbthFWX8TpcT2WCy51",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -7566,6 +7654,17 @@
    "url": "https://www.craigslist.org/view/d/conowingo-citizen-eco-drive-watch/62ykxMbARNXzQbm8Ue7Uj2",
    "best": "eBay",
    "med": 139,
+   "ratio": 2.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974837444",
+   "title": "Vintage Saint Anthony medal keychain ring",
+   "price": 9,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-saint-anthony-medal/wL6sFx36phhECZFfm33LXu",
+   "best": "eBay",
+   "med": 25,
    "ratio": 2.78,
    "ai_value": ""
   },
@@ -8901,6 +9000,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974049650",
+   "title": "18K overlay on brass necklace",
+   "price": 22,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-18k-overlay-on-brass-necklace/8QeiJRVSs2vUSwnrWJtReR",
+   "best": "Etsy",
+   "med": 49,
+   "ratio": 2.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7938279602",
    "title": "Vintage plated gold silver large  medallion Chinese mythical",
    "price": 45,
@@ -9282,6 +9392,17 @@
    "url": "https://www.craigslist.org/view/d/long-lake-set-of-antique-pewter-coffee/4YPuggoKbsJotPHFZep8Cv",
    "best": "9133097-d Antique Coffee Pot Britanniametall Zinnlegierung ...",
    "med": 275,
+   "ratio": 2.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937335185",
+   "title": "Vintage Illinoise Pocket Watch 10K Gold Filled Wind-Up Open Face 1920s",
+   "price": 349,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/hawthorne-vintage-illinoise-pocket/tooMmZF6nn4PkaJeSApdB9",
+   "best": "eBay",
+   "med": 712,
    "ratio": 2.04,
    "ai_value": ""
   },
@@ -10397,6 +10518,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947823129",
+   "title": "Vintage Irish Mr. Lucky Musical Decanter",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-irish-mr-lucky-musical/vPHtMPoHXN5FZ7xmdaEtVb",
+   "best": "eBay",
+   "med": 34,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7967127546",
    "title": "925 Sterling Silver Unisex 16.5\" Choker 19.22g",
    "price": 49,
@@ -10580,6 +10712,17 @@
    "url": "https://www.craigslist.org/view/d/oak-park-genuine-green-onyx-and-mother/7yQw1EgSxgNLBoWuxxqjSF",
    "best": "Onyx Bracelets in Gold, Silver & Gemstones | TJC UK",
    "med": 33,
+   "ratio": 1.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966092279",
+   "title": "Vintage Sterling double link bracelet with 6 charms",
+   "price": 60,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-sterling-double-link/jie68ji49r7QhaBYBSCW3K",
+   "best": "Vintage Rosi Beguden 925 Sterling Silver 7-Charms 6 ...",
+   "med": 99,
    "ratio": 1.65,
    "ai_value": ""
   },
@@ -10833,6 +10976,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-vintage-mr-worrybird/5jP5gqyJ8SJT1orJGMkbXZ",
    "best": "Sterling Silver M.I Hummel Club 20\" Chain Merry Wanderer ...",
    "med": 48,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973803539",
+   "title": "Vintage statement collar beaded necklace",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-statement-collar-beaded/dNgSZe1Qqi97cw3icd2x66",
+   "best": "Nordstrom | Jewelry | Nordstrom Brand Multi Color Necklace ...",
+   "med": 40,
    "ratio": 1.6,
    "ai_value": ""
   },
@@ -13125,6 +13279,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972178643",
+   "title": "Vintage Herrero Eagle",
+   "price": 30,
+   "area": "helena",
+   "url": "https://www.craigslist.org/view/d/east-helena-vintage-herrero-eagle/9DAKVdZSacd7DnraPBagcs",
+   "best": "eBay",
+   "med": 34,
+   "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
    "pid": "7944252343",
    "title": "Vintage Pottery Dashboard or Commuter \u201cNo-Spill\u201d Mug",
    "price": 25,
@@ -14060,6 +14225,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983623013",
+   "title": "Parisian Serigraph signed 99/295",
+   "price": 200,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/henderson-parisian-serigraph-signed/xk8SjYSd59cHkrjUz47uuW",
+   "best": "Craigslist",
+   "med": 200,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -14804,6 +14980,28 @@
    "url": "https://www.craigslist.org/view/d/salinas-custom-handmade-turquoise-ring/jGKNyFed2q4KqfMwfXkbqt",
    "best": "eBay",
    "med": 54,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972494894",
+   "title": "Beaded Indian Necklace",
+   "price": 30,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/west-hempstead-beaded-indian-necklace/wPHZRHXKKQHTuQVkCAzgKf",
+   "best": "Aucoudesanges",
+   "med": 25,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944557338",
+   "title": "Beaded Indian Necklace",
+   "price": 30,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/west-hempstead-beaded-indian-necklace/iDwzdSwgs9kAbdfzxpNmHd",
+   "best": "Aucoudesanges",
+   "med": 25,
    "ratio": 0.83,
    "ai_value": ""
   },
@@ -16117,6 +16315,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942632686",
+   "title": "Vintage 1939 Toy- Gabby from Gulliver's Travels",
+   "price": 350,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/canyon-country-vintage-1939-toy-gabby/c89wUaGBf9sKLvp9axN4gb",
+   "best": "eBay",
+   "med": 198,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788591",
    "title": "Sterling Silver Vermeil Clear Stone Criss Cross Size 6.5 Ring",
    "price": 45,
@@ -17213,6 +17422,17 @@
    "url": "https://www.craigslist.org/view/d/washougal-great-football-card-lot/9DkJ8dGLkRgXBcXPQA1467",
    "best": "eBay",
    "med": 22,
+   "ratio": 0.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974422322",
+   "title": "Amber Depression Glass and Vintage Vases",
+   "price": 115,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/canby-amber-depression-glass-and/34EuDJtrQzE15Lvqv3E7Wo",
+   "best": "Etsy",
+   "med": 33,
    "ratio": 0.29,
    "ai_value": ""
   },
@@ -18499,6 +18719,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/natick-vintage-italian-sterling-silver/sJZqsY9b47MrSJPDJkY7j4",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947653091",
+   "title": "Decor vases",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-decor-vases/b4NYqx56MN7gySS9Qg6WFj",
+   "best": "Assorted Collection of Home Decor; Vintage Style Candelabra ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
