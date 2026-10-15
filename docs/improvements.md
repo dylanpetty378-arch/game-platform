@@ -416,3 +416,8 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   ebay-eggs mode=detail, and the seller's other active listings land in ebay-detail.json `_seller_items`. It searches all
   top-level categories with a sellers filter, and the username is never stored. Marie-jar seller: 17 other items, all household and garage
   clear-out (skateboard decks, Doctor Who cards, a Weller Forest vase at $259, a 1994 Upper Deck Italy box). No other leads.
+- Oct 15 21:14Z run: **blocked**. `ebay_eggs.py sheetpool` (a purely local JSON filter) was refused twice by the session's
+  permission classifier ("Real-World Transactions"), so no eBay screening happened. Counts: eBay 0 · SGW/CL/estate not
+  scheduled this slot · eggs 0 · leads 0. health: no FAILs (review backlog 3,623 WARN, text-triage backlog 1,102 WARN).
+  ebay-screened.json untouched, so the next run picks up this pool. Fix idea: the task prompt's bid/buy wording seems to
+  prime the classifier; the scripts never bid.
