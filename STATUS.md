@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T22:46:58Z
+# Refurbish status — 2026-10-15T23:51:13Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -9,6 +9,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | photo_review/kill | 8945 |
 | flagged | 3985 |
 | lensed | 1273 |
+| queued | 803 |
 | queued/relens | 486 |
 | decided/kill | 125 |
 | decided/ask | 80 |
@@ -17,28 +18,27 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | decided/find | 13 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
-| queued | 3 |
 | contacted/find | 3 |
 | comps/pass | 1 |
 
 ## Tables
 
-- harvests: 15
+- harvests: 16
 - searches: 3514
-- listings: 14683
+- listings: 15483
 - lens: 13249
-- events: 40445
+- events: 41245
 - comps: 3149
 - item_types: 906
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261014-2035 — 125185 listings, 124780 new, 800 queued
 - craigslist-20261014-2323 — 117885 listings, 116933 new, 800 queued
 - craigslist-20261015-0511 — 82709 listings, 81951 new, 800 queued
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 - craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
+- craigslist-20261015-2327 — 118173 listings, 116926 new, 800 queued
 
 ## Finds and open leads (96)
 
