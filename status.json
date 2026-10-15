@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:16:38Z",
+ "updated": "2026-10-15T01:20:50Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10574,
-  "events": 34992,
+  "lens": 10599,
+  "events": 35017,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 278,
-  "flagged": 1968,
-  "lensed": 616
+  "queued": 253,
+  "flagged": 1984,
+  "lensed": 625
  },
  "last_harvests": [
   {
@@ -1256,6 +1256,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952942809",
+   "title": "Antique Doorstops - AMAZING",
+   "price": 1,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/great-neck-antique-doorstops-amazing/tHRT3NQtZas5qkCxte3NxF",
+   "best": "Antique Original Cast Iron Golfer Doorstop Original Paint | eBay",
+   "med": 55,
+   "ratio": 55,
+   "ai_value": ""
+  },
+  {
    "pid": "7936285064",
    "title": "Lot of antique tools",
    "price": 75,
@@ -2198,6 +2209,17 @@
    "url": "https://www.craigslist.org/view/d/rochester-painting-landscape/7tA7uZncjJpwpgbnyQLJ7z",
    "best": "Framed Watercolor Print Big Sky by Frank Ackerman Matted ...",
    "med": 1500,
+   "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963827627",
+   "title": "Hand Made Emroidery Vase Picture",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/renton-hand-made-emroidery-vase-picture/53mxLe3TwMKiwczbm8Vfma",
+   "best": "Asian Embroidery Classic Chinese Vase, Blue and White Dragon ...",
+   "med": 400,
    "ratio": 20,
    "ai_value": ""
   },
@@ -3566,6 +3588,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951021172",
+   "title": "Vintage gold-tone charm bracelet, 6 inch",
+   "price": 19,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-gold-tone-charm-bracelet/45JMXoJD9q1b16sLQZCiDW",
+   "best": "Rare! Very Beautiful Charles Jourdan Charm Bracelet in Gold ...",
+   "med": 195,
+   "ratio": 10.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7965917430",
    "title": "Vintage woman/baby 13\u201d figurine",
    "price": 40,
@@ -3574,6 +3607,17 @@
    "best": "MutualArt",
    "med": 410,
    "ratio": 10.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983579732",
+   "title": "Genuine Colombian Emerald Pendants",
+   "price": 195,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/bayside-genuine-colombian-emerald/hS5KLGNVfkL4PS8tWWEJic",
+   "best": "2.50tcw Art Deco Natural Bezel Set Vivid Colombian Emerald ...",
+   "med": 1988,
+   "ratio": 10.19,
    "ai_value": ""
   },
   {
@@ -4292,6 +4336,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954973983",
+   "title": "Yellow and Silver Tone Necklace Earring Set",
+   "price": 5,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/oklahoma-city-yellow-and-silver-tone/6XQNAbJxFhEDJ9bsWhFsCY",
+   "best": "New With Tags Paparazzi Jewelry - Very Visionary Yellow ...",
+   "med": 39,
+   "ratio": 7.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7948581518",
    "title": "Gold Metal and Pearls Beaded Necklace",
    "price": 45,
@@ -4798,6 +4853,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944064812",
+   "title": "Gucci watch",
+   "price": 25,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-gucci-watch/axQKpBx3vV81Lz2FgfJkSx",
+   "best": "Vintage Gold Silver Designed By Paolo Gucci 487W Women's ...",
+   "med": 158,
+   "ratio": 6.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7971396561",
    "title": "Vintage tool lot Lufkin plumbers drill antique",
    "price": 10,
@@ -5091,6 +5157,17 @@
    "url": "https://www.craigslist.org/view/d/pleasanton-vintage-floral-cup-and/22XYpXrp6pS2ae4ojg3rYi",
    "best": "4 Sets of Vintage Japanese Lusterware Tea Cups and Saucers ...",
    "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937591698",
+   "title": "Copper candle holder set of 2",
+   "price": 50,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/pompano-beach-copper-candle-holder-set/9eytmqTp9aziETyGkUHbSF",
+   "best": "Vintage Tin Washed Copper Candle Holder United Arab Republic ...",
+   "med": 300,
    "ratio": 6,
    "ai_value": ""
   },
@@ -5850,6 +5927,17 @@
    "url": "https://www.craigslist.org/view/d/tacoma-1990s-handmade-southwestern/3KvavPEP8eLbncC3FkjBAB",
    "best": "Cylinder Vase Ceramic - Etsy Singapore",
    "med": 100,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944667922",
+   "title": "Vintage Creamer by Fenton",
+   "price": 8,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/casco-vintage-creamer-by-fenton/3pzpdXRWwACUgwCCDZT7pD",
+   "best": "Fenton Art Glass Emerald Green Daisy And Button And Bows ...",
+   "med": 40,
    "ratio": 5,
    "ai_value": ""
   },
@@ -9187,6 +9275,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948945887",
+   "title": "1990s Silver & Gold Gruen II Watch",
+   "price": 40,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/woodland-hills-1990s-silver-gold-gruen/5Bj33g9F6cZfWfGNyBqQDx",
+   "best": "Herm\u00e8s Nantucket Watch - NA2.110 | The RealReal",
+   "med": 109,
+   "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7954565090",
    "title": "\ud83d\udc8eAntique Victorian 14k Gold & Diamond FILIGREE PIN  \ud83d\udc8e",
    "price": 399,
@@ -12102,6 +12201,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940176719",
+   "title": "Vintage Stella By Harmony No. 319.12020300 Sears Roebuck Acoustic Guit",
+   "price": 150,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/chula-vista-vintage-stella-by-harmony/78zHgme5gHmz3wJYbdF96H",
+   "best": "Vintage Silvertone Acoustic Parlor Guitar Sears Roebuck Co ...",
+   "med": 272,
+   "ratio": 1.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7955808450",
    "title": "8 Bracelets Total",
    "price": 10,
@@ -14808,6 +14918,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961042682",
+   "title": "Beautiful Heavy Silver and Turquoise Stamped Bracelet",
+   "price": 300,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-beautiful-heavy-silver-and/fTbwKQjujtR5qc86hMEQVL",
+   "best": "Signed Navajo P A Smith Sterling Silver Turquoise Cuff ...",
+   "med": 379,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -15376,6 +15497,17 @@
    "url": "https://www.craigslist.org/view/d/seattle-sterling-silver-size-10/69gMgXbu26EzL5PTcmesgs",
    "best": "Wilson Brothers Jewelry",
    "med": 59,
+   "ratio": 1.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983560340",
+   "title": "Heavy VTG Zuni Sterling Silver Turquoise Inlay Size 10 Ring 25.4 Grams",
+   "price": 249,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-heavy-vtg-zuni-sterling/phcBgLxJ59hXLeW8xZBexH",
+   "best": "Sterling Zuni Dickie & Amy Quandelacy Hummingbird Men's ...",
+   "med": 295,
    "ratio": 1.18,
    "ai_value": ""
   },
@@ -16788,6 +16920,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932337755",
+   "title": "Vintage Teleflora gift Floral Cup and Saucer",
+   "price": 20,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/elverta-vintage-teleflora-gift-floral/nxGyhr7iKtdLeffuQWkf3A",
+   "best": "\ud83c\udf80Vintage Teleflora Gift Cup & Saucer With Pink Flowers | eBay",
+   "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -16872,6 +17015,17 @@
    "url": "https://www.craigslist.org/view/d/statuette-indian-woman/opYrDtcPwQtTbkCiagiW7v",
    "best": "eBay",
    "med": 39,
+   "ratio": 0.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979469228",
+   "title": "ANTIQUE CHINESE PORCELAIN BOWL",
+   "price": 259,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/evanston-antique-chinese-porcelain-bowl/eb47Ar2jjUsfJzmJ6h24Jq",
+   "best": "Porcelain Japan China Bowl Decorated In Hong Kong 6 ...",
+   "med": 250,
    "ratio": 0.97,
    "ai_value": ""
   },
@@ -19505,6 +19659,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973775522",
+   "title": "Signed oil on canvas vintage art painting, framed Seascape",
+   "price": 375,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/sherborn-signed-oil-on-canvas-vintage/hrT3R8ZCbEhPLhypk4KSmU",
+   "best": "Cother Webb Paintings & Artwork for Sale | Cother Webb Art ...",
+   "med": 200,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7946993347",
    "title": "2-Vintage Shawnee wheat vase",
    "price": 25,
@@ -22129,6 +22294,17 @@
    "area": "denver",
    "url": "https://www.craigslist.org/view/d/denver-vintage-lot-of-fine-ceramic/1h8hU3oqBBjHz49UUPuchM",
    "best": "Aynsley Cottage Garden, Howard's Sprays & Royal Albert ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953214940",
+   "title": "Vintage Mid Century Antiques Collectibles Sale",
+   "price": 99,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-puente-vintage-mid-century-antiques/dDT3hGjVdiM29E59n2jXGX",
+   "best": "Amazon.com: LM Treasures Egyptian Plant Holder Male Life ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
