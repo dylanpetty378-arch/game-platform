@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T16:14:48Z
+# Refurbish status — 2026-10-15T20:22:12Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,38 +6,38 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| photo_review/kill | 8937 |
+| photo_review/kill | 8945 |
 | flagged | 3383 |
 | lensed | 1074 |
+| queued | 803 |
 | queued/relens | 486 |
-| decided/ask | 82 |
-| decided/kill | 56 |
-| expired | 17 |
+| decided/ask | 81 |
+| decided/kill | 58 |
+| expired | 18 |
 | photo_review/ask | 17 |
-| decided/find | 8 |
+| decided/find | 9 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
-| queued | 3 |
 | comps/pass | 1 |
 
 ## Tables
 
-- harvests: 14
+- harvests: 15
 - searches: 3295
-- listings: 13797
+- listings: 14608
 - lens: 12449
-- events: 38582
+- events: 39417
 - comps: 2958
 - item_types: 893
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261014-1406 — 52065 listings, 51915 new, 800 queued
 - craigslist-20261014-2035 — 125185 listings, 124780 new, 800 queued
 - craigslist-20261014-2323 — 117885 listings, 116933 new, 800 queued
 - craigslist-20261015-0511 — 82709 listings, 81951 new, 800 queued
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
+- craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 
 ## Finds and open leads (90)
 
@@ -90,7 +90,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00o0o_h0Mt57mfIfL_0t20CI_300x300.jpg" width="160"> | [Vintage Schramberg German Vase](https://www.craigslist.org/view/d/minneapolis-vintage-schramberg-german/ctkaCwjeVGWp44LXQ6rzuy) | $30 | minneapolis | **decided/ask** — text-triage L1: SMF Schramberg (Schramberger Majolikafabrik) hand-painted Art Deco pitcher (seller calls it a vase), 6", shield mark "Handpainted SMF Germany" (1920s-30s). Value hinges on whether the decor is an Eva Zeis |
 | <img src="https://images.craigslist.org/00L0L_9SrJBaaCja1_0wm0t2_300x300.jpg" width="160"> | [Vintage Christmas Brooch Pins Lots](https://www.craigslist.org/view/d/coraopolis-vintage-christmas-brooch/v9K6idU9Tfv7sFPPmxxjHm) | $25 | pittsburgh | **decided/ask** — text-triage F2: Christmas pin lots priced per sub-lot; the "Christmas Tree lot" ($25) has 5 enamel/rhinestone trees + Danforth pewter scatter pin on card. Ask for photos of the BACK of each tree pin: looking for Eisenber |
 | <img src="https://images.craigslist.org/00K0K_kS6jugZVNag_0CI0lM_300x300.jpg" width="160"> | [ANTIQUE MINTON'S CREAMER & SUGAR](https://www.craigslist.org/view/d/chicago-antique-mintons-creamer-sugar/2o5rtx75Y8DSgoHfzR8MAk) | $25 | chicago | **decided/ask** — text-triage F2: Mintons (crowned globe, "EST 1793 ENGLAND", Rd No 566884, PAT DEC 20 1910, red hand pattern no. ~"B833") Edwardian bone china enamelled-floral breakfast set: teapot, chocolate/coffee pot, covered butter o |
-| <img src="https://images.craigslist.org/00j0j_94umym9KfCZ_0t20CI_300x300.jpg" width="160"> | [Antique Jester Teddy Bear](https://www.craigslist.org/view/d/houston-antique-jester-teddy-bear/rqsFp8Hw3cmfduLmr1MEnA) | $10 | houston | **decided/ask** — text-triage F3: Plush jester/clown doll: painted cloth mask face, two-tone (brown/gold) plush body and hat, felt hands – 1940s-50s Knickerbocker/carnival type. Ask for any cloth tag on side seam/foot and whether the plus |
 | <img src="https://images.craigslist.org/00O0O_8OS21bYovI5_0CI0t2_300x300.jpg" width="160"> | [Men's Watch Lot](https://www.craigslist.org/view/d/fresno-mens-watch-lot/si3Y2gJG6BdXpVo7NGCMxD) | $50 | fresno | **decided/ask** — text-triage F5: ~45 watches + aluminum case of more, all need batteries/repair; mostly fashion quartz (Fossil, Timex, Bulova Marine Star quartz), several pocket watches, a Nixon, and a Tiffany & Co pouch in the case. Fas |
 | <img src="https://images.craigslist.org/01313_2wmLInBXg5F_0Mo12w_300x300.jpg" width="160"> | [Unique Vintage Handmade 2 Handle Jug Pottery Canteen Handing](https://www.craigslist.org/view/d/fresno-unique-vintage-handmade-handle/rsoyvk4E7Uhg1xFUzh8wCv) | $15 | fresno | **decided/ask** — text-triage F3: 5" handmade stoneware canteen/bottle, wax-resist panels over iron-oxide, two lugs with leather strap – 1960s-70s studio work. Ask for a photo of the base for an incised signature or chop mark; unsigned is |
 | <img src="https://images.craigslist.org/01414_71zzhNZxyv4_0CI0t2_300x300.jpg" width="160"> | [MOST UNIQUE!!Vintage Nude Girl Lamp-Works Fine](https://www.craigslist.org/view/d/houston-most-uniquevintage-nude-girl/7o7Mmd8QnFU1EXjLq6gX8W) | $15 | houston | **decided/ask** — text-triage F3: Art Deco kneeling nude (bobbed hair, hands on hips) on stepped base, spelter/white metal with gold "art finish", ~7" with small bulb behind figure – the Frankart/Nuart form. Seller does not name a maker.  |
@@ -133,6 +132,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Hiroshige I, Vertical Tokaido (Gojusan tsugi meisho zue) no.13 'Numazu, Ashigarayama Fuji no yukibare', 1855 design; title wrongly says Hiroshige II / 36 Views of Fuji — Edition unproven. The clos |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
 ## Flagged by Lens, waiting for photo review (3383)
 
