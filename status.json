@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:30:22Z",
+ "updated": "2026-10-15T07:34:15Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11424,
-  "events": 36643,
+  "lens": 11449,
+  "events": 36668,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 228,
-  "flagged": 2641,
-  "lensed": 792
+  "queued": 203,
+  "flagged": 2659,
+  "lensed": 799
  },
  "last_harvests": [
   {
@@ -1345,6 +1345,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977598179",
+   "title": "Vintage Large+ Size Original Amazonite Pendant.",
+   "price": 33,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-large-size/bHdJCoLXybr51oWWm7F6Ja",
+   "best": "IPPOLITA ROCK CANDY\u00ae 18K YELLOW GOLD 750 QUARTZ ...",
+   "med": 1999,
+   "ratio": 60.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7950666174",
    "title": "Vintage Floral Plates",
    "price": 20,
@@ -1672,6 +1683,17 @@
    "best": "Cloisonne Enamel Flower and Pot design Chinese ...",
    "med": 440,
    "ratio": 44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946095244",
+   "title": "Costume jewelry decorations earrings ring necklace",
+   "price": 15,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/urbandale-costume-jewelry-decorations/9JkThSmy7UTXsTR9YDoG9z",
+   "best": "Mixed Lot Pre-Owned Sterling Silver .925 Women's Jewelry ...",
+   "med": 650,
+   "ratio": 43.33,
    "ai_value": ""
   },
   {
@@ -4436,6 +4458,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956304529",
+   "title": "original painting",
+   "price": 39,
+   "area": "spacecoast",
+   "url": "https://www.craigslist.org/view/d/melbourne-original-painting/djncjGqs1vYsTwwde477ef",
+   "best": "Lovely Oil Painting on Canvas Framed Beautiful Landscape ...",
+   "med": 399,
+   "ratio": 10.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7983579732",
    "title": "Genuine Colombian Emerald Pendants",
    "price": 195,
@@ -5841,6 +5874,17 @@
    "best": "Mercari",
    "med": 343,
    "ratio": 6.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7975243305",
+   "title": "Tea Set/Lot of Kitchen stuff",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-tea-set-lot-of-kitchen/fPawGUenJFUNmGDJm7tkQz",
+   "best": "Unique Teapot Set Hand Painted Ceramic Blue Elephant ...",
+   "med": 137,
+   "ratio": 6.85,
    "ai_value": ""
   },
   {
@@ -7557,6 +7601,17 @@
    "best": "Vintage M Z Austria Floral Sugar Bowl: Shabby Chic Cottage ...",
    "med": 95,
    "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982319465",
+   "title": "Invicta Reserve Chronograph Watch",
+   "price": 95,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-invicta-reserve-chronograph/dKs3Qum49sq5mSzhz2HfTD",
+   "best": "Facebook",
+   "med": 449,
+   "ratio": 4.73,
    "ai_value": ""
   },
   {
@@ -9375,6 +9430,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957787885",
+   "title": "Beautiful Antique Look Premier Designs 7.25\" Toggle Bracelet",
+   "price": 20,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-beautiful-antique-look-premier/wBbjm77oa6Y6n4xWR9ypyX",
+   "best": "Vintage Silver Plated Premier Designs Bracelet Victorian ...",
+   "med": 74,
+   "ratio": 3.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7940918247",
    "title": "Vintage Ceramic Peace Sign Pendant",
    "price": 30,
@@ -9998,6 +10064,17 @@
    "url": "https://www.craigslist.org/view/d/hereford-vintage-anson-piece-cuff-links/4KQmC26VeBax1bhQ3tGrdL",
    "best": "Masonic Cuff Link & Tie Clip Set Gold Tone Mason Tool ...",
    "med": 34,
+   "ratio": 3.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943353893",
+   "title": "Michele Baratta 925 Sterling photo heart locket necklace",
+   "price": 175,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-michele-baratta-925-sterling/msoady5ZHhZmo1AiojnsLy",
+   "best": "Barry Kieselstein Cord 1996 925 Silver Heart Pendant Link ...",
+   "med": 595,
    "ratio": 3.4,
    "ai_value": ""
   },
@@ -11802,6 +11879,17 @@
    "url": "https://www.craigslist.org/view/d/salinas-artini-engraving/c1hyQfpzEqjGSBdSEm7iDh",
    "best": "Etsy",
    "med": 111,
+   "ratio": 2.77,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947799772",
+   "title": "Vintage Blue & White Enamel & Sterling Swordfish Pin",
+   "price": 65,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-blue-white-enamel/bE8hF9VTxqGR3NadiuzJ7R",
+   "best": "Vintage Blue & White Enamel Swordfish Pin - Etsy",
+   "med": 180,
    "ratio": 2.77,
    "ai_value": ""
   },
@@ -15337,6 +15425,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983734004",
+   "title": "Vintage Guerlain Bee Perfume bottles antique French",
+   "price": 70,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/fayetteville-vintage-guerlain-bee/5dyPewzRNYLPfi9cFtPsyr",
+   "best": "Vintage 1960s Guerlain Bee Embossed Glass Perfume Bottle ...",
+   "med": 135,
+   "ratio": 1.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7942381489",
    "title": "Vintage Jewelry",
    "price": 50,
@@ -17592,6 +17691,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979148840",
+   "title": "Vintage Buck Knmife 110 With Sheath",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-buck-knmife-110/kFFBYzZyt8DeV24rAMZwcH",
+   "best": "Schrade Leather Brown Collectible Knife, Sword & Blade ...",
+   "med": 115,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7951372734",
    "title": "Antique Silver Jewelry Tribal Indian India  Asian",
    "price": 99,
@@ -18105,6 +18215,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-sterling-silver-cats-eye/4DjvcYbzZzDrw5HEc3z2Mu",
    "best": "Etsy",
    "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961825943",
+   "title": "Vintage Polish Pottery Stars Stripes Serving Bowl",
+   "price": 30,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/tacoma-vintage-polish-pottery-stars/n4YCJKXx8mmUy1Yyh2nxM8",
+   "best": "1980s Vintage Arts & Crafts Americana Boho Chic Boleslawiec ...",
+   "med": 45,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -21295,6 +21416,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-vintage-sterling-silver-chain/sNySCqdDmCTAi5rs8vtPDb",
    "best": "HONEY MULTICOLOR CHERRY AMBER STERLING SILVER 3-STONE or ...",
    "med": 91,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966156209",
+   "title": "Vintage Steuben Glass Bowl",
+   "price": 150,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-steuben-glass-bowl/tccXHngJ6sKzwmszj1VjoK",
+   "best": "Mid Century Modern Steuben Crystal Don Pollard 8060 Design ...",
+   "med": 160,
    "ratio": 1.07,
    "ai_value": ""
   },
@@ -24654,6 +24786,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966788360",
+   "title": "Sterling Silver Teacher Bell",
+   "price": 40,
+   "area": "wilmington",
+   "url": "https://www.craigslist.org/view/d/wilmington-sterling-silver-teacher-bell/9SgrvhLNPC9iowT5nHM2VM",
+   "best": "Chai GUARDIAN BELL w/ 2 Legend Cards Good Luck & Motorcycle ...",
+   "med": 28,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7955101350",
    "title": "Vintage CC Hughes 1923 Mercury Dime Coin Watch-UNWORN",
    "price": 65,
@@ -24760,6 +24903,17 @@
    "url": "https://www.craigslist.org/view/d/minneapolis-vintage-elegant-glass-3pc/8gppRBSyZ4V5FCb3WGPT5T",
    "best": "Etsy",
    "med": 27,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939278886",
+   "title": "Vintage Lisner signed clip-on red emerald rhinestones earrings",
+   "price": 65,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-lisner-signed-clip-on/hFFzJuMrTHQnMx2M9Af2Wr",
+   "best": "Vintage Retro Era Goldtone Prong Set Pink Rhinestone ...",
+   "med": 44,
    "ratio": 0.68,
    "ai_value": ""
   },
@@ -25545,6 +25699,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983766899",
+   "title": "Memories of Yesterday",
+   "price": 32,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-memories-of-yesterday/6kY26tVvrZzwkhiKnvmANt",
+   "best": "Enesco Memories of Yesterday I'se Spoken For Girl with Ring ...",
+   "med": 19,
+   "ratio": 0.59,
+   "ai_value": ""
+  },
+  {
    "pid": "7951756822",
    "title": "Old metal box",
    "price": 60,
@@ -25849,6 +26014,17 @@
    "url": "https://www.craigslist.org/view/d/morrisville-antique-straight-razors/dU8asdMKqo9dUjx2QHPb2f",
    "best": "eBay",
    "med": 33,
+   "ratio": 0.55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955146267",
+   "title": "Art Glass Bowl, Hand Made and Signed by Robert Held, Canada Artist.",
+   "price": 275,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-art-glass-bowl-hand-made-and/4viwtdUDTg5eT3AndhSBZ7",
+   "best": "Robert Held Art Glass Bowl \u2013 Hand-blown Iridescent Confetti ...",
+   "med": 150,
    "ratio": 0.55,
    "ai_value": ""
   },
@@ -27213,6 +27389,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-costume-jewelry-sets/w4Wdq2QAehZrTwRoAFZKb3",
    "best": "Etsy",
    "med": 13,
+   "ratio": 0.34,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965424086",
+   "title": "John Deere Collection",
+   "price": 50,
+   "area": "anchorage",
+   "url": "https://www.craigslist.org/view/d/wasilla-john-deere-collection/cqokYPEbFsf62eMQVvJWn4",
+   "best": "John Deere Metal Tin Toolbox Lunchbox Hinged Lid | eBay",
+   "med": 17,
    "ratio": 0.34,
    "ai_value": ""
   },
@@ -29533,6 +29720,17 @@
    "area": "cnj",
    "url": "https://www.craigslist.org/view/d/south-plainfield-diamond-band/eQzsvyx33NnGhn66s4tHzR",
    "best": "Pawn America",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946686139",
+   "title": "Vintage Buck Knife  119",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-buck-knife-119/6oqkF9kujhvynYoh1vXrcj",
+   "best": "Vintage Buck 119 Fixed Blade Knife 3 Line Pre tang stamp ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
