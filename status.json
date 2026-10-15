@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:26:46Z",
+ "updated": "2026-10-15T00:32:31Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10274,
-  "events": 34690,
+  "lens": 10299,
+  "events": 34715,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 578,
-  "flagged": 1737,
-  "lensed": 549
+  "queued": 553,
+  "flagged": 1760,
+  "lensed": 551
  },
  "last_harvests": [
   {
@@ -1187,6 +1187,17 @@
    "best": "1975 Vintage Wittnauer Gold Plated Pocket Watch Floral ...",
    "med": 1039,
    "ratio": 51.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935589650",
+   "title": "Vase",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-vase/dwD54QdacBQWA1BwDXecKY",
+   "best": "Signed Lithograph \"Spirit Horse\" by Artist Woody Crumbo for ...",
+   "med": 1286,
+   "ratio": 51.44,
    "ai_value": ""
   },
   {
@@ -2631,6 +2642,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953676309",
+   "title": "Gold plated A Initial pendant necklace",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-gold-plated-initial-pendant/qGHK8aWNWYetmErAKH55c7",
+   "best": "Etsy",
+   "med": 342,
+   "ratio": 13.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7931311842",
    "title": "Vintage.925/Gold Vermeil Amethyst and diamond cocktail ring",
    "price": 50,
@@ -2840,6 +2862,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7939431228",
+   "title": "Signed painting of tiger",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/waltham-signed-painting-of-tiger/p96pVp8hLcZP9R6gsALMkb",
+   "best": "TIGER WILDLIFE HAND PAINTED 36\" OIL PAINTING OFFICE HOME ...",
+   "med": 250,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980964920",
+   "title": "Selling a vintage Brush pottery planter",
+   "price": 10,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-selling-vintage-brush-pottery/ii7VSBzc6Qg4E2vp2j86QL",
+   "best": "Vintage Mccoy Swirl Line Pedestal Vase in a Burnt Orange or ...",
+   "med": 125,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7983264771",
    "title": "1960s Swank cufflink collection",
    "price": 12,
@@ -2970,6 +3014,17 @@
    "med": 240,
    "ratio": 12,
    "ai_value": ""
+  },
+  {
+   "pid": "7971649440",
+   "title": "Summer Cabin Retreat",
+   "price": 10,
+   "area": "helena",
+   "url": "https://www.craigslist.org/view/d/east-helena-summer-cabin-retreat/dA8ZGTGtkFgKqzfUu5svmh",
+   "best": "Changed decor 3 piece canvas wall art Measurements in ...",
+   "med": 120,
+   "ratio": 12,
+   "ai_value": "Sold at Auction: Signed print \u201cPeaceful Path\u201d by Jack Pahul $199"
   },
   {
    "pid": "7946944841",
@@ -3181,6 +3236,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943881315",
+   "title": "Ring Size 7.25 Gold Tone Faux Stone",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-ring-size-725-gold-tone-faux-stone/vC5bxhRkw5TYotHqfzj4V4",
+   "best": "Black Onyx Poison Ring, Gothic Secret Compartment Ring ...",
+   "med": 129,
+   "ratio": 10.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7946165866",
    "title": "LAGUIOLE  KNIVES",
    "price": 100,
@@ -3331,6 +3397,17 @@
    "url": "https://www.craigslist.org/view/d/cypress-japanese-gold-imari-decorative/qNJobdZC2aZYwtsv5h22PM",
    "best": "Gold Imari Handpainted Japanese GIM1 Pattern Salad Plate ...",
    "med": 150,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940329056",
+   "title": "Dungeons and Dragons - Miscellaneous Lot",
+   "price": 80,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/mooresville-dungeons-and-dragons/mKUhTuSM4hCMFEmRPkMeqm",
+   "best": "eBay",
+   "med": 800,
    "ratio": 10,
    "ai_value": ""
   },
@@ -4545,6 +4622,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966092156",
+   "title": "Stretch bracelets, each",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-stretch-bracelets-each/3eSDbaBSkKxaH5uQQ37eLv",
+   "best": "6 Boho Bracelets Lot Earth Jewel Tones Faux Stone Beaded ...",
+   "med": 60,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
    "pid": "7929982117",
    "title": "Vintage Native American Sterling Turquoise Ring Size 4 3/4",
    "price": 25,
@@ -5293,6 +5381,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973981535",
+   "title": "Vintage St. Patrick Rosary prayer pendant 1.5\"",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-st-patrick-rosary-prayer/uB5zYVLBvvFtpQiGF6JQcY",
+   "best": "Vintage Saint Patrick Medal, France, Modernist Writing ...",
+   "med": 119,
+   "ratio": 4.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471758",
    "title": "Vintage Sterling/14k Gold Vermeil Emerald Eternity Ring,Sz4",
    "price": 20,
@@ -5312,6 +5411,17 @@
    "best": "Vintage M Z Austria Floral Sugar Bowl: Shabby Chic Cottage ...",
    "med": 95,
    "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933153708",
+   "title": "Signed R.Kennedy Boston Watercolor Framed Art",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-signed-rkennedy-boston/girxeRPNAszJpj2WL54c2z",
+   "best": "R.E. Kennedy, \u201cnewbury Street\u201d, 12/1500 - Boston, MA (1987 ...",
+   "med": 118,
+   "ratio": 4.72,
    "ai_value": ""
   },
   {
@@ -5871,6 +5981,17 @@
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/fort-washington-vintage-925-gold/keA6DRrPqymFowM2seM6id",
    "best": "Etsy",
+   "med": 125,
+   "ratio": 4.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983609033",
+   "title": "Vintage Liling cherry blossom vase",
+   "price": 30,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/ventura-vintage-liling-cherry-blossom/juieS7zJYhbRpwu1y8tWS5",
+   "best": "eBay",
    "med": 125,
    "ratio": 4.17,
    "ai_value": ""
@@ -6544,6 +6665,17 @@
    "best": "Craigslist",
    "med": 71,
    "ratio": 3.55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952409931",
+   "title": "Vintage 1950s Marcel Boucher Deep Sapphire Baguette Bow Necklas",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-vintage-1950s-marcel-boucher/2eZ7ML9shMHP14QCGLKxVt",
+   "best": "Poshmark",
+   "med": 354,
+   "ratio": 3.54,
    "ai_value": ""
   },
   {
@@ -7614,6 +7746,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949681604",
+   "title": "Vintage Black Pig Charm",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-black-pig-charm/xb8ynX2QRVYYcf7fVFnaEw",
+   "best": "eBay",
+   "med": 60,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -8216,6 +8359,17 @@
    "best": "Solid 14k gold twisted rope 20\u201d necklace 1.6mm chain w ...",
    "med": 1050,
    "ratio": 2.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947484569",
+   "title": "Vintage Pyrex, Friendship Birds, Black Gooseberry",
+   "price": 40,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/westminster-vintage-pyrex-friendship/c7ndXtyThrSbp5dYCN2PRu",
+   "best": "eBay",
+   "med": 106,
+   "ratio": 2.65,
    "ai_value": ""
   },
   {
@@ -9484,6 +9638,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953167429",
+   "title": "Precious Moments",
+   "price": 10,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/manhattan-beach-precious-moments/3uyDxgWbvdcppBYoUqrnTr",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933473814",
    "title": "Sterling Silver & Agate Delicate Filagree Size 5 Ring",
    "price": 50,
@@ -10364,6 +10529,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929068618",
+   "title": "vintage Garfield hunting and fishing knife",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/haverhill-vintage-garfield-hunting-and/hB1D87NXBRQb8M6PvGTTRg",
+   "best": "Etsy",
+   "med": 95,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7946412605",
    "title": "14k Gold Pendant",
    "price": 100,
@@ -10548,6 +10724,17 @@
    "best": "eBay",
    "med": 65,
    "ratio": 1.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961122380",
+   "title": "Very Nice Small Sized Vintage Silver Ring",
+   "price": 20,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/apex-very-nice-small-sized-vintage/aBcqRBtDunKpddbtzHiEjD",
+   "best": "Craigslist",
+   "med": 37,
+   "ratio": 1.85,
    "ai_value": ""
   },
   {
@@ -13202,6 +13389,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929486002",
+   "title": "Ice Cream Sephora Collection Bracelet",
+   "price": 40,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/monroe-ice-cream-sephora-collection/tM3bfNnRhTBqdjoVuJWbC4",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -13660,6 +13858,17 @@
    "url": "https://www.craigslist.org/view/d/nampa-vintage-miniature-cast-iron/uoJcVowxNWdtuAPzgUywSR",
    "best": "Vintage \"Amish Acres\" Souvenir Mini Cast Iron Skillet 4.5\" | eBay",
    "med": 14,
+   "ratio": 1.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952441307",
+   "title": "Vintage Cambridge E.P.C.silver-plated \"bachelor\" teapot",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-cambridge-epcsilver/rxxEFR68ZvnT3mVyUsUMRP",
+   "best": "eBay",
+   "med": 34,
    "ratio": 1.17,
    "ai_value": ""
   },
@@ -17173,6 +17382,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983688341",
+   "title": "6 Antique Straight Razors with Boxes",
+   "price": 60,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/morrisville-antique-straight-razors/dU8asdMKqo9dUjx2QHPb2f",
+   "best": "eBay",
+   "med": 33,
+   "ratio": 0.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7948558885",
    "title": "Set of 2 Porcelain Angel Figurine, New",
    "price": 35,
@@ -17279,6 +17499,17 @@
    "url": "https://www.craigslist.org/view/d/coraopolis-vintage-1960s-circus/kZ6ZWWgbexSeB6Gd9MBBFf",
    "best": "Miniature Circus & Carnival Posters, Model Trains ...",
    "med": 13,
+   "ratio": 0.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943938248",
+   "title": "12 Necklaces.",
+   "price": 48,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/pompano-beach-12-necklaces/9CSYEFDBix8bHSQ6X4JYs6",
+   "best": "Etsy",
+   "med": 25,
    "ratio": 0.52,
    "ai_value": ""
   },
@@ -19588,6 +19819,28 @@
    "area": "raleigh",
    "url": "https://www.craigslist.org/view/d/apex-vintage-silver-ring-with-violet/sZPNC5EDpKYvRDWPWKYR9q",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947284623",
+   "title": "Swiss Military Watch Hanowa Chronograph",
+   "price": 100,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/redlands-swiss-military-watch-hanowa/dnRwLJTtj8h4rVDD7PeJgC",
+   "best": "Zegarownia.pl",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954923246",
+   "title": "Vintage Fafnir Ball Bearing Charm",
+   "price": 25,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-fafnir-ball-bearing/1vUZZzjqcs8hS3mHfdx9PP",
+   "best": "Fafnir L207 Ball Bearing | eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
