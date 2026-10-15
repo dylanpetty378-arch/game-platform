@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:03:24Z",
+ "updated": "2026-10-15T07:07:00Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11249,
-  "events": 36468,
+  "lens": 11274,
+  "events": 36493,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 403,
-  "flagged": 2493,
-  "lensed": 765
+  "queued": 378,
+  "flagged": 2513,
+  "lensed": 770
  },
  "last_harvests": [
   {
@@ -2313,6 +2313,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934992407",
+   "title": "Soapstone carving",
+   "price": 30,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-soapstone-carving/iEXCTbD1doJi2jvzw2tcg3",
+   "best": "Craigslist",
+   "med": 700,
+   "ratio": 23.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7978095447",
    "title": "BARBARA A. WOOD",
    "price": 41,
@@ -3135,6 +3146,17 @@
    "best": "Under $1000 \u2013 Kingdom Jewelry",
    "med": 229,
    "ratio": 15.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969522515",
+   "title": "Vintage Native American Buckskin Beaded Doll 12\u201d",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-native-american/nBzsEA93e1pfRaGfUkiXvD",
+   "best": "eBay",
+   "med": 380,
+   "ratio": 15.2,
    "ai_value": ""
   },
   {
@@ -5492,6 +5514,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971269502",
+   "title": "1960-70'S Sterling Silver and Black Enamel Modernist Dome Ring (vintag",
+   "price": 65,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-sterling-silver-and-black/7wCi2ni3UhAzwxFjjGjUPL",
+   "best": "Eco Evolution",
+   "med": 474,
+   "ratio": 7.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7977075240",
    "title": "Vintage silver-plated and metal concert flutes",
    "price": 35,
@@ -7633,6 +7666,17 @@
    "url": "https://www.craigslist.org/view/d/riverview-caravelle-pocket-watch/pwzr78B5DgjNg4Vb8KWWHP",
    "best": "Vintage Caravelle Mechanical Wind Up Pocket Watch | eBay",
    "med": 45,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972845549",
+   "title": "African Trade Beads",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/soquel-african-trade-beads/rEk3WShfyw2DqpuWBpBLhm",
+   "best": "eBay",
+   "med": 225,
    "ratio": 4.5,
    "ai_value": ""
   },
@@ -11619,6 +11663,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958919504",
+   "title": "Kohala Ukulele Probably Tenor",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-kohala-ukulele-probably/5oKbGsg2Fj89ds9m4gioB7",
+   "best": "Clearance Fender Montecito Tenor Ukulele with Gig Bag ...",
+   "med": 199,
+   "ratio": 2.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7953206201",
    "title": "Sterling Silver & Teal Turquoise Pendant",
    "price": 30,
@@ -13225,6 +13280,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7928987601",
+   "title": "Gretsch vintage mahogany ukulele pair project",
+   "price": 100,
+   "area": "annarbor",
+   "url": "https://www.craigslist.org/view/d/ann-arbor-gretsch-vintage-mahogany/fQSdQFAeoNJvHGhgDE2qfu",
+   "best": "eBay",
+   "med": 225,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951389918",
+   "title": "Vintage antique wood pulley",
+   "price": 20,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/yarmouth-port-vintage-antique-wood/92kFk7Ey8M6eEGzX9aur3L",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135315",
    "title": "NEW 14K Gold Ruby and Diamond Ring",
    "price": 190,
@@ -13461,6 +13538,17 @@
    "price": 10,
    "area": "allentown",
    "url": "https://www.craigslist.org/view/d/bethlehem-small-vintage-lenox-tray/qWAmzzxohsu7NLgTde3trW",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983782193",
+   "title": "Vintage Planters Nut Chopper",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wrentham-vintage-planters-nut-chopper/fNQndNhTVrkbPth7vc2Jhf",
    "best": "eBay",
    "med": 22,
    "ratio": 2.2,
@@ -14970,6 +15058,17 @@
    "url": "https://www.craigslist.org/view/d/north-hollywood-antique-amber-cufflinks/w6BGSdVR2fA43q652rY7gQ",
    "best": "eBay",
    "med": 65,
+   "ratio": 1.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978587255",
+   "title": "11.5\" Antique German Westerwald salt-glazed stoneware pitcher",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-115-antique-german-westerwald/eU7kw4mXdxG8heKXskzNDJ",
+   "best": "eBay",
+   "med": 149,
    "ratio": 1.86,
    "ai_value": ""
   },
@@ -17493,6 +17592,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960948647",
+   "title": "vintage dolls",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-vintage-dolls/m9MNKTmVgX4wcSFd4YUfNw",
+   "best": "Small Clown Dolls | eBay",
+   "med": 36,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7971725919",
    "title": "Earrings w/Phenomenal New Zealand Shell",
    "price": 35,
@@ -18461,6 +18571,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971853992",
+   "title": "Beautiful silver bracelet, old Mexico style, 7\u201d",
+   "price": 150,
+   "area": "bellingham",
+   "url": "https://www.craigslist.org/view/d/bellingham-beautiful-silver-bracelet/6GdS9QwrAcoTmZa2aEu2ci",
+   "best": "eBay",
+   "med": 195,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7948156780",
    "title": "Vintage Blue Enamel Earrings",
    "price": 31,
@@ -18853,6 +18974,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-indian-bookends/jdCbQkotDgX37cpzNbap4Y",
    "best": "Vintage 40's Bronze Painted Spelter Pot Metal Native ...",
    "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933278283",
+   "title": "20 inch Asian Vase",
+   "price": 60,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-20-inch-asian-vase/sx23M93QpiqARdZXNME1zW",
+   "best": "eBay",
+   "med": 75,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -19271,6 +19403,17 @@
    "url": "https://www.craigslist.org/view/d/dover-vintage-1950s-silver-tone/tF3Wv7VGFpktECGytTQiHa",
    "best": "Etsy",
    "med": 60,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977124674",
+   "title": "Vintage 1960s India Brass Lot Of 3",
+   "price": 25,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-vintage-1960s-india-brass-lot/dgjQsPA4LHthTQhWfUXsEL",
+   "best": "eBay",
+   "med": 30,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -21013,6 +21156,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950870634",
+   "title": "Vintage Cut Glass Clock 1910",
+   "price": 50,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/richmond-vintage-cut-glass-clock-1910/vtA6hdSdH2ZmKoxLCCvREn",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -21409,6 +21563,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970574003",
+   "title": "Vintage Frog With Harp Statue (Reverie Collection)",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/scotts-valley-vintage-frog-with-harp/7vo7HMmPjb9qvmnFim2cEY",
+   "best": "Reverie Collection Frog With Horn Made Of Resin | eBay",
+   "med": 14,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7966649352",
    "title": "Embossed Nautical Scene  Framed",
    "price": 120,
@@ -21680,6 +21845,17 @@
    "url": "https://www.craigslist.org/view/d/marietta-deer-pocket-watch/6fueE9UrkJQ5FuNJQaYoBT",
    "best": "Craigslist",
    "med": 18,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934783173",
+   "title": "Pandora charms",
+   "price": 50,
+   "area": "greensboro",
+   "url": "https://www.craigslist.org/view/d/burlington-pandora-charms/vvUZoB3GeGKbAHJCmmBHHk",
+   "best": "Authentic Pandora Sterling Silver Red Enamel Swirl Rope ...",
+   "med": 45,
    "ratio": 0.9,
    "ai_value": ""
   },
@@ -22949,6 +23125,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935249693",
+   "title": "Antique Vase Made in Japan",
+   "price": 500,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/suffolk-antique-vase-made-in-japan/nwa3VEZ1cAJJsuHdJ9VNUP",
+   "best": "Auctionet",
+   "med": 370,
+   "ratio": 0.74,
+   "ai_value": ""
+  },
+  {
    "pid": "7949457505",
    "title": "Sterling Silver 7\u201d Watch by Ecclissi",
    "price": 110,
@@ -23099,6 +23286,17 @@
    "url": "https://www.craigslist.org/view/d/novato-vintage-murvi-pocket-knife/3XKPmLF7ZgnuWBbzVz4UbU",
    "best": "Very Nice! Franklin Mint Wyatt Earp Collector Knife W ...",
    "med": 36,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976097420",
+   "title": "Antique Vanity Mirror & Fashion Jewelry Great Pieces",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-antique-vanity-mirror/oPNMe9XnLrquU2BvnQsbxU",
+   "best": "Craigslist",
+   "med": 18,
    "ratio": 0.72,
    "ai_value": ""
   },
@@ -23406,6 +23604,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/oakland-hammered-sterling-silver/t7akQFmFFnKYjTtL4c563S",
    "best": "eBay",
+   "med": 27,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957881929",
+   "title": "Vintage Elegant glass 3pc set",
+   "price": 40,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-elegant-glass-3pc/8gppRBSyZ4V5FCb3WGPT5T",
+   "best": "Etsy",
    "med": 27,
    "ratio": 0.68,
    "ai_value": ""
@@ -25090,6 +25299,17 @@
    "url": "https://www.craigslist.org/view/d/martins-ferry-1870s-vintage-key-wind/5v2WBPsjRaX6MX9vqnjxGu",
    "best": "Antique Elgin Pocket Watch 1910 7J Open face 18s Silveroid ...",
    "med": 190,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949489659",
+   "title": "Tatted White Necklace",
+   "price": 15,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/exton-tatted-white-necklace/khbXnSBHRe88exRupgy83C",
+   "best": "Craigslist",
+   "med": 7,
    "ratio": 0.47,
    "ai_value": ""
   },
