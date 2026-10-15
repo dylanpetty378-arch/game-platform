@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:11:15Z",
+ "updated": "2026-10-15T15:15:26Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 12049,
-  "events": 38139,
+  "lens": 12074,
+  "events": 38164,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 403,
-  "flagged": 3102,
-  "lensed": 956
+  "queued": 378,
+  "flagged": 3124,
+  "lensed": 959
  },
  "last_harvests": [
   {
@@ -1539,6 +1539,17 @@
    "best": "Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag ...",
    "med": 60,
    "ratio": 60,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983863388",
+   "title": "RING! Sterling Crystal Rainbow Iridescent Gemstone, Blue/purple",
+   "price": 8,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/braintree-ring-sterling-crystal-rainbow/i8iMWCoERerQE8BYkkZDiH",
+   "best": "Etsy",
+   "med": 474,
+   "ratio": 59.25,
    "ai_value": ""
   },
   {
@@ -4061,6 +4072,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7967909232",
+   "title": "GOLD NECKLACE, TOLEDO DE ORO",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/port-chester-gold-necklace-toledo-de-oro/7nNnPp7dNa3zU22uDhE6LL",
+   "best": "CHILD'S Vintage HEART PENDANT Necklace Goldtone Tiny Link ...",
+   "med": 136,
+   "ratio": 13.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7931311842",
    "title": "Vintage.925/Gold Vermeil Amethyst and diamond cocktail ring",
    "price": 50,
@@ -6294,6 +6316,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933389206",
+   "title": "Sterling Silver Ring size 8",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-silver-ring-size/1aPqBzmpWAtUbqs126oUPP",
+   "best": "eBay",
+   "med": 116,
+   "ratio": 7.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7957624211",
    "title": "Vintage Limoges 10\" Porcelain Plate",
    "price": 35,
@@ -7152,6 +7185,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946677227",
+   "title": "Vintage Aristo Stopwatch",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/dunstable-vintage-aristo-stopwatch/bF5M76F2S5TY5sBR5urq1F",
+   "best": "eBay",
+   "med": 95,
+   "ratio": 6.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7944064812",
    "title": "Gucci watch",
    "price": 25,
@@ -7941,6 +7985,17 @@
    "best": "eBay",
    "med": 250,
    "ratio": 5.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950399310",
+   "title": "Tissot PR50 men\u2019s watch",
+   "price": 50,
+   "area": "vermont",
+   "url": "https://www.craigslist.org/view/d/colchester-tissot-pr50-mens-watch/vh55ETqYjsc3Cy7KaNZAQY",
+   "best": "eBay",
+   "med": 277,
+   "ratio": 5.54,
    "ai_value": ""
   },
   {
@@ -8787,6 +8842,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-antique-14k-gold-4-ct-natural/1dLQbTfqQJXFnHjH6ysU41",
    "best": "eBay",
    "med": 1450,
+   "ratio": 4.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959081117",
+   "title": "Vintage 1930's Ch. Mathieu 15\" Tin Flute Paris France",
+   "price": 40,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/augusta-vintage-1930s-ch-mathieu-15-tin/e38qsR5mJgmLtXu4kmfWfL",
+   "best": "Flageolet m\u00e9tallique Ch. Mathieu - Instruments de musique",
+   "med": 194,
    "ratio": 4.85,
    "ai_value": ""
   },
@@ -13543,6 +13609,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959907701",
+   "title": "heart locket pendant",
+   "price": 35,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-heart-locket-pendant/sU9JZiLmB6pTNuwrY2X5oD",
+   "best": "Knotting Tides",
+   "med": 100,
+   "ratio": 2.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788924",
    "title": "Sterling Silver Cuff 5\u201d w/Turquoise",
    "price": 60,
@@ -13759,6 +13836,17 @@
    "url": "https://www.craigslist.org/view/d/bullard-silver-gothic-cross-jeweled/wPNcSKBHkGuz816xYbNTUK",
    "best": "eBay",
    "med": 84,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956308367",
+   "title": "Vintage Campbell's Soup Ornaments",
+   "price": 5,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/la-grange-vintage-campbells-soup/3mHeLZqygoj5K1YfUXqJbD",
+   "best": "eBay",
+   "med": 14,
    "ratio": 2.8,
    "ai_value": ""
   },
@@ -16311,6 +16399,17 @@
    "url": "https://www.craigslist.org/view/d/dallesport-vintage-world-time-desk-clock/iP3pdfErvxZX243PzquHCV",
    "best": "eBay",
    "med": 219,
+   "ratio": 2.21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942138729",
+   "title": "Original  Sign Modern Watercolor",
+   "price": 95,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-original-sign-modern-watercolor/a4SkUkEjeghgwvUDDmXGQU",
+   "best": "Lulu and Georgia",
+   "med": 210,
    "ratio": 2.21,
    "ai_value": ""
   },
@@ -18966,6 +19065,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946500931",
+   "title": "Vintage 80\u2019s Fisher Price TV Radio",
+   "price": 25,
+   "area": "loz",
+   "url": "https://www.craigslist.org/view/d/osage-beach-vintage-80s-fisher-price-tv/uqLzp7WqnHLEb25cn53KFj",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -19237,6 +19347,17 @@
    "url": "https://www.craigslist.org/view/d/caldwell-multiple-art-pieces/376WRhRXYad9Z26FuKJotW",
    "best": "eBay",
    "med": 175,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958502231",
+   "title": "Vintage General Electric \"Daisy\" Wall Clock",
+   "price": 40,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/islip-vintage-general-electric-daisy/1puyodSpbtEVwarEX4SoDM",
+   "best": "eBay",
+   "med": 70,
    "ratio": 1.75,
    "ai_value": ""
   },
@@ -23586,6 +23707,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972557618",
+   "title": "brown plant bowl",
+   "price": 30,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/daytona-beach-brown-plant-bowl/5aN5ZuBGT7RAuKRiJtSGds",
+   "best": "Craigslist",
+   "med": 37,
+   "ratio": 1.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7951975370",
    "title": "Signed Original Pastel Portrait of a Woman",
    "price": 95,
@@ -24032,6 +24164,17 @@
    "area": "minneapolis",
    "url": "https://www.craigslist.org/view/d/lakeville-vintage-venetian-colbalt-blue/vhS3dyQzFxnDvNFvvNZSBj",
    "best": "eBay",
+   "med": 89,
+   "ratio": 1.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945384874",
+   "title": "14K Gold & Sterling Silver Masonic Mason Cufflinks",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-14k-gold-sterling-silver/8Q9ggoMayXQnjaepZZidMS",
+   "best": "Etsy",
    "med": 89,
    "ratio": 1.19,
    "ai_value": ""
@@ -26083,6 +26226,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938401066",
+   "title": "Reduced price-Pearl Wedding Earring",
+   "price": 32,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/depew-reduced-price-pearl-wedding/vWNbaF6LsFoTZEeV4Pb6si",
+   "best": "Vintage Napier Earrings: Silver Tone Dangle Earrings With ...",
+   "med": 32,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -28085,6 +28239,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946479414",
+   "title": "Milor Bronze Cuff Bracelet",
+   "price": 45,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-milor-bronze-cuff-bracelet/hvbXJzV3ZE96rh93qFmidk",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7983183432",
    "title": "Reduced! Vintage Natural London Blue Topaz & Diamond 14K Gold Ring",
    "price": 485,
@@ -28598,6 +28763,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-vintage-seashell-necklace/aYdZ2C3cmYmzL6X8wTCpSc",
    "best": "eBay",
    "med": 32,
+   "ratio": 0.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937412472",
+   "title": "Vintage Antique Stainless Steel Flask",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/richmond-vintage-antique-stainless/3gA2vGiaD6auiseo78AjNc",
+   "best": "Etsy",
+   "med": 11,
    "ratio": 0.73,
    "ai_value": ""
   },
@@ -29317,6 +29493,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955902433",
+   "title": "Threefold Cord artwork",
+   "price": 20,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/murfreesboro-threefold-cord-artwork/3EStiCVauF5C7kjUaB3Di2",
+   "best": "Girlfriends Poster 18\"x24\" Willabel Cole Mitchell 1991 ...",
+   "med": 13,
+   "ratio": 0.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7946237740",
    "title": "4 vintage Precious Moments bells",
    "price": 25,
@@ -29368,6 +29555,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-large-heath/3HcoyxE2dwykBLW29bgfZm",
    "best": "Vintage Large Oven Dish Mixing Bowl Sial Art Pottery Rust ...",
    "med": 64,
+   "ratio": 0.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958559618",
+   "title": "Colt stonewash fighting knife",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-colt-stonewash-fighting-knife/kWbGyeL9iMbhuHQVmt2Hpq",
+   "best": "RARE/DISCONTINUED COLT CT673 Yoroidoshi Fixed Blade Knife ...",
+   "med": 32,
    "ratio": 0.64,
    "ai_value": ""
   },
@@ -31341,6 +31539,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979679765",
+   "title": "Ozzy Osbourne stuff",
+   "price": 150,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/quinlan-ozzy-osbourne-stuff/7PPpDKYpYRy95bw8aVUBxc",
+   "best": "Collection Highlights",
+   "med": 65,
+   "ratio": 0.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7983222369",
    "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
    "price": 38,
@@ -31645,6 +31854,17 @@
    "url": "https://www.craigslist.org/view/d/pittsburgh-antique-french-cheese-grater/cCS3yvL195nuBsXhuc6JSz",
    "best": "eBay UK",
    "med": 25,
+   "ratio": 0.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982678178",
+   "title": "Antique Indian African Arabian Omani Bracelet",
+   "price": 333,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-antique-indian-african/sZVGvpkgRjFbQ9eJBPws9i",
+   "best": "Etsy",
+   "med": 125,
    "ratio": 0.38,
    "ai_value": ""
   },
@@ -33211,6 +33431,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968026664",
+   "title": "Vintage STERLING & GUILLOWS Model Airplane Collection",
+   "price": 375,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/silverdale-vintage-sterling-guillows/udm1MQZkaeDEvqco1cM7EF",
+   "best": "eBay",
+   "med": 39,
+   "ratio": 0.1,
+   "ai_value": ""
+  },
+  {
    "pid": "7941841424",
    "title": "HEART SHAPE EARRINGS  MAKE A RESONABLE OFFER",
    "price": 450,
@@ -33306,6 +33537,17 @@
    "url": "https://www.craigslist.org/view/d/clearwater-custom-made-shelby-cobra-925/g54pawZUgwhhqZkkb472kV",
    "best": "Etsy",
    "med": 28,
+   "ratio": 0.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967144148",
+   "title": "1 GROSS VINTAGE SWAROVSKI 8mm  NAILHEADS",
+   "price": 300,
+   "area": "rockies",
+   "url": "https://www.craigslist.org/view/d/ridgway-gross-vintage-swarovski-8mm/mb2RDW7dZ8M5BUoxf3KXf4",
+   "best": "eBay",
+   "med": 18,
    "ratio": 0.06,
    "ai_value": ""
   },
