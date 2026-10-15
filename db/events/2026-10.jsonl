@@ -40115,3 +40115,28 @@
 {"ts":"2026-10-15T21:53:13Z","pid":"7966573308","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Pink — title does not","data":{"med":12,"ratio":0.48,"mismatch":["Pink"]}}
 {"ts":"2026-10-15T21:53:20Z","pid":"7943733527","stage":"flagged","run":"lensworker-20261015-2144","note":null,"data":{"med":120,"ratio":1.2,"mismatch":[]}}
 {"ts":"2026-10-15T21:53:28Z","pid":"7980129270","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Farm — title does not","data":{"med":48,"ratio":1.37,"mismatch":["Farm"]}}
+{"ts":"2026-10-15T21:53:43Z","pid":"7975391187","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Lion — title does not","data":{"med":1190,"ratio":59.5,"mismatch":["Lion"]}}
+{"ts":"2026-10-15T21:53:50Z","pid":"7935770996","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Trifari — title does not","data":{"med":100,"ratio":5,"mismatch":["Trifari"]}}
+{"ts":"2026-10-15T21:53:59Z","pid":"7975778166","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Artist, Henri Selmer Paris, Special, Wurlitzer — title does not","data":{"med":2750,"ratio":68.75,"mismatch":["Artist","Henri Selmer Paris","Special","Wurlitzer"]}}
+{"ts":"2026-10-15T21:54:07Z","pid":"7936577196","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Company, Pink, Silver — title does not","data":{"med":49,"ratio":9.8,"mismatch":["Company","Pink","Silver"]}}
+{"ts":"2026-10-15T21:54:15Z","pid":"7983922485","stage":"lensed","run":"lensworker-20261015-2144","note":null,"data":{"med":65,"ratio":2.17,"mismatch":[]}}
+{"ts":"2026-10-15T21:54:24Z","pid":"7932622685","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Pink — title does not","data":{"med":15,"ratio":1.5,"mismatch":["Pink"]}}
+{"ts":"2026-10-15T21:54:31Z","pid":"7931231154","stage":"flagged","run":"lensworker-20261015-2144","note":null,"data":{"med":211,"ratio":0.7,"mismatch":[]}}
+{"ts":"2026-10-15T21:54:40Z","pid":"7957451420","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Jewelry, Silver — title does not","data":{"med":20,"ratio":1.67,"mismatch":["Jewelry","Silver"]}}
+{"ts":"2026-10-15T21:54:51Z","pid":"7948946109","stage":"flagged","run":"lensworker-20261015-2144","note":"Lens names Special — title does not","data":{"med":29,"ratio":1.93,"mismatch":["Special"]}}
+{"ts":"2026-10-15T21:55:03Z","pid":"7966032426","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Accessories — title does not","data":{"med":250,"ratio":1,"mismatch":["Accessories"]}}
+{"ts":"2026-10-15T21:55:12Z","pid":"7968800166","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Studio — title does not","data":{"med":80,"ratio":2.29,"mismatch":["Studio"]}}
+{"ts":"2026-10-15T21:55:22Z","pid":"7937762637","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Jewelry, Limited, Silver — title does not","data":{"med":90,"ratio":9,"mismatch":["Jewelry","Limited","Silver"]}}
+{"ts":"2026-10-15T21:55:29Z","pid":"7945577845","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Lace, Silver — title does not","data":{"med":45,"ratio":1.13,"mismatch":["Lace","Silver"]}}
+{"ts":"2026-10-15T21:55:39Z","pid":"7962742512","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Gold, Silver — title does not","data":{"med":98,"ratio":8.17,"mismatch":["Gold","Silver"]}}
+{"ts":"2026-10-15T21:55:50Z","pid":"7977229926","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Gold, Jewelry — title does not","data":{"med":1290,"ratio":64.5,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-15T21:56:00Z","pid":"7947749258","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Gold, Jewelry — title does not","data":{"med":13,"ratio":0.87,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-15T21:56:12Z","pid":"7978992381","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Artist — title does not","data":{"med":200,"ratio":0.57,"mismatch":["Artist"]}}
+{"ts":"2026-10-15T21:56:21Z","pid":"7938327404","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Enamel, Silver — title does not","data":{"med":29,"ratio":0.13,"mismatch":["Enamel","Silver"]}}
+{"ts":"2026-10-15T21:56:27Z","pid":"7947830305","stage":"lensed","run":"lensworker-20261015-2153","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T21:56:36Z","pid":"7932026325","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Gold, Jewelry — title does not","data":{"med":2275,"ratio":91,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-15T21:56:47Z","pid":"7932569681","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Virginia Metalcrafters — title does not","data":{"med":12,"ratio":0.8,"mismatch":["Virginia Metalcrafters"]}}
+{"ts":"2026-10-15T21:56:56Z","pid":"7947980827","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Clocks, Sunbeam — title does not","data":{"med":45,"ratio":0.47,"mismatch":["Clocks","Sunbeam"]}}
+{"ts":"2026-10-15T21:57:06Z","pid":"7931598613","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Gold — title does not","data":{"med":182,"ratio":6.28,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T21:57:15Z","pid":"7984100043","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Morris, Wilson — title does not","data":{"med":295,"ratio":1.69,"mismatch":["Morris","Wilson"]}}
+{"ts":"2026-10-15T21:57:25Z","pid":"7930768079","stage":"flagged","run":"lensworker-20261015-2153","note":"Lens names Enamel — title does not","data":{"med":20,"ratio":0.27,"mismatch":["Enamel"]}}
