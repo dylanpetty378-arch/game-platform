@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T06:19:51Z
+# Refurbish status — 2026-10-15T06:23:41Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2283 |
-| lensed | 700 |
-| queued | 678 |
+| flagged | 2304 |
+| lensed | 704 |
+| queued | 653 |
 | queued/relens | 485 |
 | decided/ask | 85 |
 | decided/kill | 40 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 13
 - searches: 3068
 - listings: 12983
-- lens: 10974
-- events: 36193
+- lens: 10999
+- events: 36218
 - comps: 2758
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2283)
+## Flagged by Lens, waiting for photo review (2304)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -167,6 +167,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00G0G_hF0V4Oh05sr_0r90hq_300x300.jpg" width="120"> | 7973797344 | $45 | boston | [Bijou Earrings, Sterling 925 Italy, Vintage](https://www.craigslist.org/view/d/natick-bijou-earrings-sterling-925/3tk9PiJvYqLMLKPtaRMFAX) | Vintage bijou earrings - Auction IMPORTANT WATCHES AND FINE  | 8000 | 177.78 |
 | <img src="https://images.craigslist.org/00z0z_fIwhtjT3lm5_0CI0hq_300x300.jpg" width="120"> | 7972979781 | $35 | boise | [BRIGHTON Meridian Petite Prime Bracelet](https://www.craigslist.org/view/d/boise-brighton-meridian-petite-prime/cN7nY6DFh2z9HUZS2GrkpW) | Brighton Meridian Petite Bracelet / eBay | 6200 | 177.14 |
 | <img src="https://images.craigslist.org/00808_kcbkA8EOezv_0t20CI_300x300.jpg" width="120"> | 7969480947 | $25 | austin | [Vintage Ornate Destressed White & Gold Tone Decora](https://www.craigslist.org/view/d/kyle-vintage-ornate-destressed-white/3cDrTDnKUaFKcYMzgdyztn) | Miller Studios Floral Chalkware Flowers Wall Hanging Green . | 4200 | 168 |
+| <img src="https://images.craigslist.org/00J0J_auLMZV8wmTU_0t20CI_300x300.jpg" width="120"> | 7974651777 | $25 | seattle | [Vintage Sterling, Amethyst, and CZ Ring](https://www.craigslist.org/view/d/olympia-vintage-sterling-amethyst-and/dRRA4WB7vuiTzx6nNPmmv6) | eBay | 3790 | 151.6 |
 | <img src="https://images.craigslist.org/01111_iwlqBCed3Vs_0t20t2_300x300.jpg" width="120"> | 7947565852 | $75 | sfbay | [Elegant Pink Ruby and 925 Sterling Silver Cocktail](https://www.craigslist.org/view/d/pleasanton-elegant-pink-ruby-and-925/fYVfmnYD3ukvUjapBcTTU3) | Certified Natural Burma Ruby Cabochon 10ct Diamond 18k White | 10800 | 144 |
 | <img src="https://images.craigslist.org/00I0I_9SG3FiEyFOI_0CI0t2_300x300.jpg" width="120"> | 7974234039 | $35 | littlerock | [Ladies Silver Ring](https://www.craigslist.org/view/d/roland-ladies-silver-ring/iQKronBfF9z4P7EyjnyLEe) | Retired Silpada 925 Sterling Silver Champagne Cubic Zirconia | 4950 | 141.43 |
 | <img src="https://images.craigslist.org/00n0n_7K3KNkDcIk8_0pO0lC_300x300.jpg" width="120"> | 7953135437 | $25 | miami | [ART MASTERPIECES](https://www.craigslist.org/view/d/boynton-beach-art-masterpieces/qYsWz9d2DR2UxYHXcY6cgF) | Sold at Auction: Bill Gallen, Bill Gallen / The Red Mountain | 3500 | 140 |
@@ -262,4 +263,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00f0f_jq3pNL75oph_0Nm13O_300x300.jpg" width="120"> | 7958808027 | $25 | santabarbara | [Sterling Silver Rings](https://www.craigslist.org/view/d/solvang-sterling-silver-rings/xzNp9bkNcip9nXnnGdWWfv) | Lot of 8 Silver Tone Rings Blue Green Glass Amethyst ... | 850 | 34 |
 | <img src="https://images.craigslist.org/00707_b9xC6bFB5n7_0BK156_300x300.jpg" width="120"> | 7949488239 | $5 | stlouis | [MIXED JEWELRY](https://www.craigslist.org/view/d/saint-charles-mixed-jewelry/5HsE8zZqNCHSUqpTBz5y7W) | Etsy | 170 | 34 |
 | <img src="https://images.craigslist.org/00F0F_a4wp3YgN3HN_0t20CI_300x300.jpg" width="120"> | 7952605223 | $50 | seattle | [Beautiful sterling silver bracelet marked 925](https://www.craigslist.org/view/d/renton-beautiful-sterling-silver/q12nRXCWatTK4vPWcwkBEk) | Vintage Lovely Silver & Gold Tone Magnetic Therapy Bracelet  | 1650 | 33 |
-| <img src="https://images.craigslist.org/00V0V_cyUSbJF19LP_0jC0t2_300x300.jpg" width="120"> | 7967792133 | $120 | phoenix | [Sterling Silver Omega 18” 6mm Necklace](https://www.craigslist.org/view/d/sun-city-sterling-silver-omega-18-6mm/j1RWVTzXMLTm72fbn6LTiJ) | David's Antiques & Jewelry | 3917 | 32.64 |
