@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:32:53Z",
+ "updated": "2026-10-15T21:36:49Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12799,
-  "events": 39992,
+  "lens": 12824,
+  "events": 40017,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 453,
-  "flagged": 3660,
-  "lensed": 1148
+  "queued": 428,
+  "flagged": 3679,
+  "lensed": 1154
  },
  "last_harvests": [
   {
@@ -2014,6 +2014,17 @@
    "area": "atlanta",
    "url": "https://www.craigslist.org/view/d/kennesaw-hand-made-brass/m3Se3KaoDfqQae6Hu8z3yj",
    "best": "eBay",
+   "med": 45,
+   "ratio": 45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938893648",
+   "title": "Vintage Harrah's Reno & Lake Tahoe Memorabilia",
+   "price": 1,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/rio-rico-vintage-harrahs-reno-lake/fdBAqHvJ6VpJyjW2Mwi5ki",
+   "best": "Chicago, 1934 Block House Fort Dearborn Elongated Penny ...",
    "med": 45,
    "ratio": 45,
    "ai_value": ""
@@ -8003,6 +8014,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953491957",
+   "title": "Bathroom picture",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-bathroom-picture/gxh8HKPYt2wnSGw66gjqBi",
+   "best": "Vintage Framed Picture Glass Bottles & Flowers 12\u201d X 16 ...",
+   "med": 70,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7964448915",
    "title": "Vintage c1970s Plein Air Autumn Landscape Oil Painting signed \"BH\"",
    "price": 40,
@@ -8053,6 +8075,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-francisco-tea-set-lot-of-kitchen/fPawGUenJFUNmGDJm7tkQz",
    "best": "Unique Teapot Set Hand Painted Ceramic Blue Elephant ...",
+   "med": 137,
+   "ratio": 6.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934310610",
+   "title": "VINTAGE COPPER ENAMEL TRAY",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-copper-enamel-tray/5s4AfpTuCEUy3fHBRxfd9D",
+   "best": "Square Glazed Ceramic Pottery Art Trinket Dish Brown With ...",
    "med": 137,
    "ratio": 6.85,
    "ai_value": ""
@@ -8575,6 +8608,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983914016",
+   "title": "Amethyst & sterling silver butterfly pendant",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-amethyst-sterling-silver/swAJ8X9aqBQ3t3a5d9zinb",
+   "best": "Craigslist",
+   "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7938167228",
    "title": "Star pendant",
    "price": 20,
@@ -8944,6 +8988,17 @@
    "area": "tampa",
    "url": "https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/qxs41bYPo11pA3Q48iKWKc",
    "best": "Butterfly Pendant 2.00Ct Marquise Cut Simulated Citrine 14K ...",
+   "med": 120,
+   "ratio": 6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983913740",
+   "title": "Garnet & sterling silver butterfly pendant",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-garnet-sterling-silver/6ak2YMAFwMCQEFspTjzXyX",
+   "best": "Garnet Pendant, Genuine Garnet Sterling Silver Butterfly ...",
    "med": 120,
    "ratio": 6,
    "ai_value": ""
@@ -9906,6 +9961,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960199787",
+   "title": "Assorted pairs pierced earrings",
+   "price": 5,
+   "area": "bend",
+   "url": "https://www.craigslist.org/view/d/bend-assorted-pairs-pierced-earrings/eHSptiE8EKMqMoRkEm1hwE",
+   "best": "Vintage Post Earrings Gold Tone Lot Of 22 Brutalist Modern ...",
+   "med": 26,
+   "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7965504219",
    "title": "old Japanese Ceramic hibachi",
    "price": 300,
@@ -9936,6 +10002,17 @@
    "best": "Shop LC",
    "med": 102,
    "ratio": 5.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967638698",
+   "title": "Vintage PAOLO GUCCI Chunky Gold Tone Domed Fluted Clip-on Earrings Pre",
+   "price": 25,
+   "area": "saltlakecity",
+   "url": "https://www.craigslist.org/view/d/west-jordan-vintage-paolo-gucci-chunky/iAiNzrxnzzQUaega29FyCL",
+   "best": "Vintage Paolo Gucci Clip On Earrings Goldtone Signed | eBay",
+   "med": 127,
+   "ratio": 5.08,
    "ai_value": ""
   },
   {
@@ -13811,6 +13888,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943278349",
+   "title": "Metal art",
+   "price": 100,
+   "area": "bend",
+   "url": "https://www.craigslist.org/view/d/bend-metal-art/mZadKZBGhDvWYvKbLatruk",
+   "best": "Brutalist Brass & Metal Fish, Crab, Seahorses Wall Art ...",
+   "med": 350,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -14577,6 +14665,28 @@
    "url": "https://www.craigslist.org/view/d/boise-striped-enamel-hinged-bangle/eRRrSwnSxY4feTVSNpuQoS",
    "best": "Craigslist",
    "med": 39,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945290684",
+   "title": "Vintage Star of David German Ashtray",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-vintage-star-of-david-german/vx9XNhGtWLqWY6J9ioNeLv",
+   "best": "Bergbrauerei Leimen Heidelberg Brown Ceramic Cigar Ash Trash ...",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939023551",
+   "title": "VINTAGE- Rosewood stand",
+   "price": 20,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/washington-vintage-rosewood-stand/gtETBLSfqC9hzjn8KWyoVT",
+   "best": "Elegant Chinese Double-sided handmade Suzhou embroidery ...",
+   "med": 65,
    "ratio": 3.25,
    "ai_value": ""
   },
@@ -20990,6 +21100,17 @@
    "url": "https://www.craigslist.org/view/d/halltown-chinese-vase/o8GK3FWBRXaD2wKqT3yJUi",
    "best": "antique chinese Satsuma vase. Marked . 30 cm H | eBay",
    "med": 200,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984075332",
+   "title": "TENNESSEE DANCING MAN",
+   "price": 10,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/whites-creek-tennessee-dancing-man/bwCUfznhqNzwohrXKpHCnq",
+   "best": "Vintage Folk Art Primitive Wood Kinetic Toy Boy Girl Jumps ...",
+   "med": 20,
    "ratio": 2,
    "ai_value": ""
   },
@@ -28694,6 +28815,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950675094",
+   "title": "Vintage Fishing Reels",
+   "price": 39,
+   "area": "bend",
+   "url": "https://www.craigslist.org/view/d/bend-vintage-fishing-reels/3oRoWEpqv8T7EESLtVAjok",
+   "best": "Etsy",
+   "med": 45,
+   "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7950006923",
    "title": "Vintage Navajo Sterling Silver & Robins Egg Blue Turquoise Size 10Ring",
    "price": 130,
@@ -29706,6 +29838,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955280852",
+   "title": "Set Of 2 Antique Hand Colored Etchings Botanical Studies Of Fruit",
+   "price": 300,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/fort-collins-set-of-antique-hand/9yLTw4Vmw4bVvsk1arbmoQ",
+   "best": "Pair of Fruit Prints by George Brookshaw | Chairish",
+   "med": 316,
+   "ratio": 1.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7972942062",
    "title": "Gemstone Pendants ( B2G1F)",
    "price": 25,
@@ -30696,6 +30839,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950113735",
+   "title": "Vintage British tin container",
+   "price": 25,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-vintage-british-tin-container/kzMNETyh8EA4Qz2FYshhCB",
+   "best": "Edward Sharp & Sons Ltd. Octagonal Floral Scroll Biscuit Tin ...",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -30923,6 +31077,17 @@
    "url": "https://www.craigslist.org/view/d/middleburgh-wall-plate/47cZp5Jrw53p6af5R8n8Dj",
    "best": "eBay",
    "med": 24,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954065344",
+   "title": "Vintage inlaid/micro mosaic bracelet",
+   "price": 115,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/massapequa-park-vintage-inlaid-micro/mMKsCKQUGD15n7P86wgqPA",
+   "best": "Vintage Made In Italy Micro Mosaic Bracelet-7\u201d | eBay",
+   "med": 110,
    "ratio": 0.96,
    "ai_value": ""
   },
@@ -32588,6 +32753,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958797299",
+   "title": "1960s GRAZIANO Brooch",
+   "price": 80,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-1960s-graziano-brooch/ebhyvQAahSgRDXnrMYMvaq",
+   "best": "eBay",
+   "med": 65,
+   "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
    "pid": "7961182713",
    "title": "Vintage Mankato Creamery Item",
    "price": 15,
@@ -33673,6 +33849,17 @@
    "url": "https://www.craigslist.org/view/d/bothell-old-fashioned-collector-ornament/eVgNZDCkBLumGMhwp5cTEN",
    "best": "Vintage 1983 Hallmark New Home Satin Ball Keepsake Christmas ...",
    "med": 29,
+   "ratio": 0.72,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963890036",
+   "title": "Watch Mens Daytona style",
+   "price": 25,
+   "area": "lascruces",
+   "url": "https://www.craigslist.org/view/d/las-cruces-watch-mens-daytona-style/4F8UhQxdgQTsYL2gbuEPvJ",
+   "best": "Temu",
+   "med": 18,
    "ratio": 0.72,
    "ai_value": ""
   },
@@ -35378,6 +35565,17 @@
    "url": "https://www.craigslist.org/view/d/sacramento-vintage-christmas-baskets/aumxYNr6ua9v1iYJPLLqtJ",
    "best": "Vintage | Accents | Vintage Wicker Sewing Basket Plastic ...",
    "med": 25,
+   "ratio": 0.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969115067",
+   "title": "AVON BEER STEINS",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/california-city-avon-beer-steins/bF2Ti98zuHNkvEu5SgrHQ3",
+   "best": "eBay",
+   "med": 28,
    "ratio": 0.56,
    "ai_value": ""
   },
@@ -38887,6 +39085,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vtg-sterling-silver-10/uietWo4SrobkvXUtVbvhwN",
    "best": "Etsy",
    "med": 18,
+   "ratio": 0.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974976431",
+   "title": "New West knife collection",
+   "price": 500,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-new-west-knife-collection/jXWAt6moacC2vW1yXyBJkn",
+   "best": "New West Knifeworks Gift Guides are a perfect selection for ...",
+   "med": 35,
    "ratio": 0.07,
    "ai_value": ""
   },
