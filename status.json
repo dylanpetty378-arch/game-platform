@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:03:40Z",
+ "updated": "2026-10-15T21:07:11Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14608,
-  "lens": 12624,
-  "events": 39593,
+  "lens": 12649,
+  "events": 39618,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 9,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 628,
-  "flagged": 3537,
-  "lensed": 1095
+  "queued": 603,
+  "flagged": 3560,
+  "lensed": 1097
  },
  "last_harvests": [
   {
@@ -1678,6 +1678,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983913236",
+   "title": "Citrine & sterling silver butterfly earring set",
+   "price": 30,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/sZRPtxyp2iasyzCrQEctfU",
+   "best": "Craigslist",
+   "med": 1750,
+   "ratio": 58.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7954916105",
    "title": "Costume Jewelry",
    "price": 3,
@@ -2712,6 +2723,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984093086",
+   "title": "Dresden Royal Figurines Handpainted-Japan",
+   "price": 15,
+   "area": "salem",
+   "url": "https://www.craigslist.org/view/d/keizer-dresden-royal-figurines/p9vJ8EdKmn4RLPrHr8cfnM",
+   "best": "Dresden Porcelain Figurine: Victorian Lace, Made in Germany ...",
+   "med": 427,
+   "ratio": 28.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7953371245",
    "title": "Hand thrown pottery",
    "price": 9,
@@ -3567,6 +3589,17 @@
    "best": "Kay-1953-Model 121 -1/2 Size -Cello w/ Bow & Bag | Reverb",
    "med": 7600,
    "ratio": 19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984044564",
+   "title": "Vintage Asian storage or Jewelry  Box",
+   "price": 20,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/baltimore-vintage-asian-storage-or/iq6m1x54HU83qkAJEVtrKL",
+   "best": "Vintage Japanese Lacquer Round Lidded Box With Gold ...",
+   "med": 379,
+   "ratio": 18.95,
    "ai_value": ""
   },
   {
@@ -5000,6 +5033,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960729158",
+   "title": "Vintage rhinestone dangle ear rings",
+   "price": 10,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/wilsonville-vintage-rhinestone-dangle/xfAg7ChWRQhM5gVBXwBViZ",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7968686181",
    "title": "Beautiful ladies ruby / diamond Seiko gold tone watch with brand new battery",
    "price": 80,
@@ -5657,6 +5701,17 @@
    "best": "Laguiole Bougna - Table knife set - ABS - Folding knives ...",
    "med": 1055,
    "ratio": 10.55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952290048",
+   "title": "LLADRO Figurines - Genuine",
+   "price": 35,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-lladro-figurines-genuine/fAiiMrCVGr94xsBytpiXsK",
+   "best": "Craigslist",
+   "med": 369,
+   "ratio": 10.54,
    "ai_value": ""
   },
   {
@@ -7360,6 +7415,17 @@
    "area": "louisville",
    "url": "https://www.craigslist.org/view/d/mount-washington-antique-walking-sticks/oNBeevrL5rf2REc3NtFtEc",
    "best": "eBay",
+   "med": 187,
+   "ratio": 7.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978667556",
+   "title": "Photo necklace silver",
+   "price": 25,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/canandaigua-photo-necklace-silver/d6GHWeKSBJ5bdocAnCyhJN",
+   "best": "Craigslist",
    "med": 187,
    "ratio": 7.48,
    "ai_value": ""
@@ -9363,6 +9429,17 @@
    "url": "https://www.craigslist.org/view/d/westbrook-925-italy-stamped-otc-hearts/cLnDhXvn3adfp8d7vFUSTG",
    "best": "eBay",
    "med": 160,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938995324",
+   "title": "necklace with coin",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/petaluma-necklace-with-coin/d5NSiP6M9c1UVeq4BZejcK",
+   "best": "eBay",
+   "med": 80,
    "ratio": 5.33,
    "ai_value": ""
   },
@@ -13305,6 +13382,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933080363",
+   "title": "Sterling handle antique manicure tool",
+   "price": 20,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-sterling-handle/2KFabXD2bBk31oWvMir5eP",
+   "best": "eBay",
+   "med": 70,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -13444,6 +13532,17 @@
    "url": "https://www.craigslist.org/view/d/walnut-antique-chinese-vase/n5CkdKsNhU7yqCE8YXhmfh",
    "best": "Bonhams",
    "med": 500,
+   "ratio": 3.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952425511",
+   "title": "BRACELET. Vintage \"Goldette\" Slide Chain Bracelet. 1960s. 9\" Long.",
+   "price": 55,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-bracelet-vintage-goldette/f6vHsC3GR5P4fLsguckqMJ",
+   "best": "Craigslist",
+   "med": 190,
    "ratio": 3.45,
    "ai_value": ""
   },
@@ -14445,6 +14544,17 @@
    "url": "https://www.craigslist.org/view/d/wichita-opal-ruby-ring/ioYXJwJrZ8uyvtYpgNFDqr",
    "best": "Etsy",
    "med": 700,
+   "ratio": 3.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980013512",
+   "title": "Vintage Sterling Silver & Marcasite Watch / Brooch Pin",
+   "price": 135,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-sterling-silver/5hi6AZ5njYsw39wo8W1QzG",
+   "best": "eBay",
+   "med": 420,
    "ratio": 3.11,
    "ai_value": ""
   },
@@ -19410,6 +19520,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953769478",
+   "title": "925 Sterling Silver High Heel Charm",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-925-sterling-silver-high-heel/vyi133wTKzSFdKg9NwvdYf",
+   "best": "eBay",
+   "med": 52,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7950885127",
    "title": "Ernest Hemingway Portrait.",
    "price": 60,
@@ -20235,6 +20356,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984080336",
+   "title": "Vintage Kratt Pitch Pipe / Key",
+   "price": 10,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/bothell-vintage-kratt-pitch-pipe-key/rr84wfsFLETV5VWjH4khCJ",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -20385,6 +20517,17 @@
    "url": "https://www.craigslist.org/view/d/orlando-herringbone-145-choker-necklace/tpwHh2e6EszTHwaQcN546V",
    "best": "Signed Dynamite - Gold Tone Herringbone Necklace 16\" W/3 ...",
    "med": 88,
+   "ratio": 1.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943098008",
+   "title": "Silpada 4 stone Sterling Silver Pendant",
+   "price": 25,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/parkville-silpada-stone-sterling-silver/qXsbLcwZBaaz7EcqmRb4A6",
+   "best": "eBay",
+   "med": 49,
    "ratio": 1.96,
    "ai_value": ""
   },
@@ -22035,6 +22178,17 @@
    "url": "https://www.craigslist.org/view/d/wharton-vintage-lot-of-mattel-barbie/9pWNdBymPHxPjmBpVyfVBL",
    "best": "Top Row (Undressed / Body Dolls):",
    "med": 130,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944928628",
+   "title": "Vintage Coke Memorabilia",
+   "price": 15,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/cumming-vintage-coke-memorabilia/7hcH4QhebrPie2mMQSJTg4",
+   "best": "Coca-Cola Metal Trays Collectible VTG TRAY RARE SAYS COCA ...",
+   "med": 26,
    "ratio": 1.73,
    "ai_value": ""
   },
@@ -24256,6 +24410,17 @@
    "area": "tampa",
    "url": "https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/8bRCiV5vLMUq6Ft4CxiWg2",
    "best": "Stuller Accented Dragonfly Necklace 65362:100100:P | Gaines ...",
+   "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983915429",
+   "title": "Garnet & sterling silver dragonfly pendant",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/garnet-sterling-silver-dragonfly-pendant/ey22R9GdKYxCzbGeFpRC3t",
+   "best": "eBay",
    "med": 30,
    "ratio": 1.5,
    "ai_value": ""
@@ -28892,6 +29057,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983936654",
+   "title": "Vintage TISSOT Watches P330/430 Quartz PR100",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/los-gatos-vintage-tissot-watches-quartz/kgfyipbRrdogDgeUE51Zhh",
+   "best": "Craigslist",
+   "med": 102,
+   "ratio": 1.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7951070432",
    "title": "Sterling Silver Bowls Spoon Indian Handmade",
    "price": 199,
@@ -29834,6 +30010,17 @@
    "url": "https://www.craigslist.org/view/d/malta-mens-cross-necklace/kfWVXcBCaBmVKNqgp2JZvG",
    "best": "Macy's",
    "med": 48,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956189209",
+   "title": "Wall plate",
+   "price": 25,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/middleburgh-wall-plate/47cZp5Jrw53p6af5R8n8Dj",
+   "best": "eBay",
+   "med": 24,
    "ratio": 0.96,
    "ai_value": ""
   },
@@ -34040,6 +34227,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945242531",
+   "title": "Crystal & Stone Necklace + with Earrings",
+   "price": 50,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/cary-crystal-stone-necklace-with/bjbMKEBQa3iwQfRzmccoSN",
+   "best": "Fast Selling Explosion, Middle East, Europe And America ...",
+   "med": 29,
+   "ratio": 0.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7933722942",
    "title": "New Vintage Doll/Clown Heads & Doll Faces",
    "price": 35,
@@ -34663,6 +34861,17 @@
    "url": "https://www.craigslist.org/view/d/kennesaw-1949-antique-embossed-floral/98t93tnZiQXsFwMqztZ1Kr",
    "best": "Rare Hull Pottery \"bow Knot\" B 29 12 Basket:",
    "med": 128,
+   "ratio": 0.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983943059",
+   "title": "Eagle Statue",
+   "price": 45,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/gainesville-eagle-statue/wnJq8v4bVMfwoK2X2qbXoQ",
+   "best": "Vintage Ceramic Metallic Painted Eagle w Spread Wings on ...",
+   "med": 23,
    "ratio": 0.51,
    "ai_value": ""
   },
@@ -37406,6 +37615,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966573074",
+   "title": "Vintage Luc Humbert Bois de Rose Pocket Watch",
+   "price": 359,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/valley-village-vintage-luc-humbert-bois/66siexAzewrv8eu2kHnVMn",
+   "best": "eBay",
+   "med": 50,
+   "ratio": 0.14,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637414",
    "title": "Ecclissi Sterling Silver & Turquoise Cabochon 7\u201d Watch",
    "price": 170,
@@ -37743,6 +37963,17 @@
    "url": "https://www.craigslist.org/view/d/venice-three-circle-dolphins-pendent/v5yRV6mecWcEgWcmvBpGXX",
    "best": "Sterling Silver Three Dolphins Forming A Circle Pendant ...",
    "med": 8,
+   "ratio": 0.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984031496",
+   "title": "Diamond Topaz Dolphin Necklace",
+   "price": 200,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/poulsbo-diamond-topaz-dolphin-necklace/nQLkXswVGUooPBR1jyU8j6",
+   "best": "Keith Jack",
+   "med": 10,
    "ratio": 0.05,
    "ai_value": ""
   },
@@ -39392,6 +39623,28 @@
    "area": "lasvegas",
    "url": "https://www.craigslist.org/view/d/las-vegas-vintage-battery-op-tin-toys/oVA2kTchyVUtUqZUbqZjdv",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938127792",
+   "title": "Artist David Morgan Signed Abstract Art Glazed Pottery Pitchers",
+   "price": 200,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/orange-park-artist-david-morgan-signed/arQ3F1s5h7c9QUakwS6ZQW",
+   "best": "Studio Pottery Blue Jugs - Etsy UK",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936558486",
+   "title": "Vintage pipe collection",
+   "price": 220,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/escondido-vintage-pipe-collection/dc3k4KmDDgQrzc7o3Kwfbp",
+   "best": "Invaluable.com",
    "med": null,
    "ratio": null,
    "ai_value": ""

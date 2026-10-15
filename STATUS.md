@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T21:03:40Z
+# Refurbish status — 2026-10-15T21:07:11Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3537 |
-| lensed | 1095 |
-| queued | 628 |
+| flagged | 3560 |
+| lensed | 1097 |
+| queued | 603 |
 | queued/relens | 486 |
 | decided/ask | 80 |
 | decided/kill | 58 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14608
-- lens: 12624
-- events: 39593
+- lens: 12649
+- events: 39618
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -133,7 +133,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
-## Flagged by Lens, waiting for photo review (3537)
+## Flagged by Lens, waiting for photo review (3560)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -247,6 +247,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01212_r59b0nsrR8_0d40hq_300x300.jpg" width="120"> | 7976459112 | $1 | sfbay | [Vintage items](https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG) | Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag  | 60 | 60 |
 | <img src="https://images.craigslist.org/00v0v_aHBN53mpdQpz_0lG0t2_300x300.jpg" width="120"> | 7983863388 | $8 | boston | [RING! Sterling Crystal Rainbow Iridescent Gemstone](https://www.craigslist.org/view/d/braintree-ring-sterling-crystal-rainbow/i8iMWCoERerQE8BYkkZDiH) | Etsy | 474 | 59.25 |
 | <img src="https://images.craigslist.org/00V0V_ahQJdvWccWi_0CI0qs_300x300.jpg" width="120"> | 7983656892 | $10 | raleigh | [NC Pottery - Mildred Teague Baskets](https://www.craigslist.org/view/d/cary-nc-pottery-mildred-teague-baskets/dYzUmb3oU2YpXL1BNUDBt4) | Vintage 1953 Dutch Milk Maid Pitcher: Hand-painted Spring .. | 590 | 59 |
+| <img src="https://images.craigslist.org/01717_13vjesFP3PZ_08I05O_300x300.jpg" width="120"> | 7983913236 | $30 | tampa | [Citrine & sterling silver butterfly earring set](https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/sZRPtxyp2iasyzCrQEctfU) | Craigslist | 1750 | 58.33 |
 | <img src="https://images.craigslist.org/00x0x_25xZdYEhXbL_0t20CI_300x300.jpg" width="120"> | 7954916105 | $3 | newyork | [Costume Jewelry](https://www.craigslist.org/view/d/costume-jewelry/8CitBSRY2y3HeoXTt4cn5A) | 925 heart shape clasp, pearl yellow crystal. lot of 7 ... | 170 | 56.67 |
 | <img src="https://images.craigslist.org/01010_cmIFpjTnhHJ_0x20oM_300x300.jpg" width="120"> | 7955869303 | $5 | boulder | [2 vintage Bracelets Bangle and Clamper cuff](https://www.craigslist.org/view/d/longmont-vintage-bracelets-bangle-and/r7mU6R8kMJmzDqjm68ahBn) | Certified pre-owned Lalaounis rings - Castafiore | 283 | 56.6 |
 | <img src="https://images.craigslist.org/00M0M_goHAg115JTH_0CI0CI_300x300.jpg" width="120"> | 7972891719 | $80 | houston | [SIGNED Vintage Dryden Pottery Vase ONE OF A KIND A](https://www.craigslist.org/view/d/deer-park-signed-vintage-dryden-pottery/4naSLEA9NHNVumY5Wq6yxZ) | Ancien vase pot gres d'Alsace signé Anne ehret Deco - Décora | 4500 | 56.25 |
@@ -258,4 +259,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00w0w_gZqBe2wPQx0_0CI0t2_300x300.jpg" width="120"> | 7936285064 | $75 | hartford | [Lot of antique tools](https://www.craigslist.org/view/d/west-simsbury-lot-of-antique-tools/6siCNp67qUy3scnnddC1VP) | 1906 Antique Pine Carpenters Tool Chest Trunk Strong Box ... | 4000 | 53.33 |
 | <img src="https://images.craigslist.org/00j0j_8Q73XFjhqrJ_0t20CI_300x300.jpg" width="120"> | 7931909724 | $20 | santabarbara | [Gold pocket watch](https://www.craigslist.org/view/d/summerland-gold-pocket-watch/g8xCckmuaPkLBZaNrSSioq) | 1975 Vintage Wittnauer Gold Plated Pocket Watch Floral ... | 1039 | 51.95 |
 | <img src="https://images.craigslist.org/00r0r_iN3GdUdZIki_0t20CI_300x300.jpg" width="120"> | 7935589650 | $25 | sfbay | [Vase](https://www.craigslist.org/view/d/san-jose-vase/dwD54QdacBQWA1BwDXecKY) | Signed Lithograph "Spirit Horse" by Artist Woody Crumbo for  | 1286 | 51.44 |
-| <img src="https://images.craigslist.org/00M0M_6BSYpIesxih_0oZ0hq_300x300.jpg" width="120"> | 7974837603 | $10 | boston | [Vintage Black signet type ring, 6.5](https://www.craigslist.org/view/d/natick-vintage-black-signet-type-ring-65/oAV6wukp4Qm77AiLv4rbDt) | Etsy | 502 | 50.2 |
