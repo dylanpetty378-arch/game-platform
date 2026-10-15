@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:50:26Z",
+ "updated": "2026-10-15T21:53:49Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12899,
-  "events": 40092,
+  "lens": 12924,
+  "events": 40117,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 353,
-  "flagged": 3736,
-  "lensed": 1172
+  "queued": 328,
+  "flagged": 3757,
+  "lensed": 1176
  },
  "last_harvests": [
   {
@@ -1744,6 +1744,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983914865",
+   "title": "Citrine & sterling silver dragonfly earring set",
+   "price": 30,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/1Q1F4JH3VFTtLFQWAQvwvw",
+   "best": "Natural Citrine Gemstone with 925 Sterling Silver Cufflink ...",
+   "med": 1750,
+   "ratio": 58.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7954916105",
    "title": "Costume Jewelry",
    "price": 3,
@@ -2855,6 +2866,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983915954",
+   "title": "Amethyst & sterling silver dragonfly earring set",
+   "price": 30,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/amethyst-sterling-silver-dragonfly/hSrP1gParwRLwZuSJCx74c",
+   "best": "Craigslist",
+   "med": 827,
+   "ratio": 27.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7952230554",
    "title": "Nice Vintage Jewelry only $1 and $2",
    "price": 2,
@@ -3317,6 +3339,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980365082",
+   "title": "Art pictire (Robert Grace)",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-art-pictire-robert-grace/itZoMSNks7MTsud1xbZTJm",
+   "best": "eBay",
+   "med": 1300,
+   "ratio": 21.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7978092384",
    "title": "BARBARA A. WOOD",
    "price": 44,
@@ -3713,6 +3746,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954782326",
+   "title": "Vintage Tool",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/sherman-oaks-vintage-tool/awdTDVk8DcPGbhVxhozHzf",
+   "best": "Chairish",
+   "med": 950,
+   "ratio": 19,
+   "ai_value": ""
+  },
+  {
    "pid": "7984044564",
    "title": "Vintage Asian storage or Jewelry  Box",
    "price": 20,
@@ -3862,6 +3906,17 @@
    "area": "sandiego",
    "url": "https://www.craigslist.org/view/d/carlsbad-vintage-waves-gold-tone-metal/pw3UpfEf6XALrDfSLQjXFt",
    "best": "Napier Vintage Gold Tone Costume Fashion Jewelry Pin ...",
+   "med": 18,
+   "ratio": 18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940311802",
+   "title": "Vintage Container",
+   "price": 1,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-container/c7nFUf9iz4k8UPg8deqPzo",
+   "best": "eBay",
    "med": 18,
    "ratio": 18,
    "ai_value": ""
@@ -6628,6 +6683,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949919060",
+   "title": "Original art hand-painted signed",
+   "price": 10,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-original-art-hand-painted/hePcYft7UmXiKxPqxrMMec",
+   "best": "Topeka Online Auction by AFES - Jewelry, Coins, Vinyl ...",
+   "med": 90,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
    "pid": "7955404918",
    "title": "14K GOLD LAPIS EARRINGS",
    "price": 300,
@@ -7702,6 +7768,17 @@
    "url": "https://www.craigslist.org/view/d/saint-paul-vintage-arbor-electric/sJXZKaaJaT1avSN5YY2x47",
    "best": "Charvel Arbor Kramer Gibson Keisel BcRich Fender ESP 80s ...",
    "med": 1499,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973515011",
+   "title": "3/4 Spanish Style Classical Guitarra, Vangoa",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/el-cerrito-4-spanish-style-classical/kMKdYxHTXeDHex9d8YbfEk",
+   "best": "1960s Gibson C-0 Classic",
+   "med": 750,
    "ratio": 7.5,
    "ai_value": ""
   },
@@ -16044,6 +16121,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952500278",
+   "title": "Vintage \"All Wood\" Trinket Box",
+   "price": 10,
+   "area": "huntsville",
+   "url": "https://www.craigslist.org/view/d/harvest-vintage-all-wood-trinket-box/6zvJQ1BCjAp8afiVkMGwj7",
+   "best": "Etsy",
+   "med": 30,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -18277,6 +18365,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943735779",
+   "title": "Antique Oil Painting",
+   "price": 50,
+   "area": "mohave",
+   "url": "https://www.craigslist.org/view/d/lake-havasu-city-antique-oil-painting/scMayWy5gycVRgFQ5TCDhr",
+   "best": "William Mason Brown in United States",
+   "med": 125,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952572829",
    "title": "VINTAGE 1950-60'S ELKORN GETZEN CLARINET",
    "price": 80,
@@ -18779,6 +18878,17 @@
    "url": "https://www.craigslist.org/view/d/moraga-original-garnet-hays-watercolor/uPT7FskatFBiLGSyXyuTAT",
    "best": "Watercolor Painting by Frances Mills Savannah GA Artist ...",
    "med": 225,
+   "ratio": 2.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984052505",
+   "title": "Vintage Budweiser Brass American Eagle Statue",
+   "price": 30,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/windsor-vintage-budweiser-brass/5fMYcrYQY1pQ5Xee19FMN4",
+   "best": "Cast Eagle | Lane Award",
+   "med": 71,
    "ratio": 2.37,
    "ai_value": ""
   },
@@ -21386,6 +21496,17 @@
    "url": "https://www.craigslist.org/view/d/pittsburgh-30-vintage-pez-dispensers/m6TFiTvT1x4KKw1cpFUNz6",
    "best": "Craigslist",
    "med": 60,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930018174",
+   "title": "Talavera Coffee Cup - colorful",
+   "price": 10,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/shrewsbury-talavera-coffee-cup-colorful/gtjis5PfTGtcVwymL4sVzF",
+   "best": "Etsy",
+   "med": 20,
    "ratio": 2,
    "ai_value": ""
   },
@@ -24426,6 +24547,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941342563",
+   "title": "Vintage AJMC Dog Themed Silver and Gold Toned Charm Chain Bracelet",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-ajmc-dog-themed-silver/x24AW95dhrVUQveXVoEc6C",
+   "best": "Brighton Dog Lover Charm Bracelet I Love My Dog Woof Paw ...",
+   "med": 24,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -24543,6 +24675,17 @@
    "url": "https://www.craigslist.org/view/d/apex-squier-paranormal-nashville/vrZmWY2dEcNxtLpQv4HDxy",
    "best": "Guitar Center",
    "med": 473,
+   "ratio": 1.58,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958731500",
+   "title": "1970s Autumn Tree of Life Brooch",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-1970s-autumn-tree-of-life/sKCGtkhM26c1wqo5yWzKzd",
+   "best": "eBay",
+   "med": 71,
    "ratio": 1.58,
    "ai_value": ""
   },
@@ -26824,6 +26967,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980129270",
+   "title": "Antique Soldering Irons",
+   "price": 35,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/edmond-antique-soldering-irons/tehsMFMfQRWQyEyAqjjYkq",
+   "best": "eBay",
+   "med": 48,
+   "ratio": 1.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7977992793",
    "title": "Swatch Chronograph 1991 Blue Watch",
    "price": 75,
@@ -28727,6 +28881,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943733527",
+   "title": "2 Antique French Artworks",
+   "price": 100,
+   "area": "mohave",
+   "url": "https://www.craigslist.org/view/d/lake-havasu-city-antique-french-artworks/uCoXA6PGsn7o6QezDCFQW3",
+   "best": "Left Print: Sous l'\u00c9cluse (or a similar rural waterway scene) by French artist Ren\u00e9 Ludovic Raffray (1896\u20131975",
+   "med": 120,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -28888,6 +29053,17 @@
    "url": "https://www.craigslist.org/view/d/cincinnati-macth-collection/mxA4CeBq1fynPR7gY5H3i2",
    "best": "Match Book Collection (Safety Matches) | eBay",
    "med": 13,
+   "ratio": 1.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984100904",
+   "title": "Disney pendant",
+   "price": 50,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/brighton-disney-pendant/4JH6Ljdqs1rgRGtu6R2QDU",
+   "best": "eBay",
+   "med": 59,
    "ratio": 1.18,
    "ai_value": ""
   },
@@ -33831,6 +34007,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935162782",
+   "title": "Southwest Sterling Silver Bear Paw Ring",
+   "price": 85,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/taos-ski-valley-southwest-sterling/oZ8wTKp7WtNHnbr9Dn28Rn",
+   "best": "santa fe / taos - Craigslist",
+   "med": 65,
+   "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7947741971",
    "title": "Art Nouveau  Pendant Necklace 1960'",
    "price": 60,
@@ -36845,6 +37032,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936969212",
+   "title": "Pair of vintage botanical floral art prints",
+   "price": 35,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-pair-of-vintage-botanical/tnBGhBpcTwG9kMpfYZ5mEQ",
+   "best": "Etsy",
+   "med": 17,
+   "ratio": 0.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7971364938",
    "title": "Jewelry lot",
    "price": 50,
@@ -36907,6 +37105,17 @@
    "url": "https://www.craigslist.org/view/d/pleasanton-earrings-pendent-set/ccrmiTLRQbvCiwQDRAX4sr",
    "best": "Vintage Mexican Sterling Silver Denim Lapis Necklace ...",
    "med": 41,
+   "ratio": 0.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966573308",
+   "title": "Vintage Holiday Reindeer Buttons",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/valley-village-vintage-holiday-reindeer/w6AX9v1vcMCX6WHeTJ8KM1",
+   "best": "eBay",
+   "med": 12,
    "ratio": 0.48,
    "ai_value": ""
   },
@@ -38858,6 +39067,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976601528",
+   "title": "Signed Painting by NIHAL KECECI (Aria)",
+   "price": 400,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-signed-painting-by-nihal/hdXH6p1G5SxVdtbiqnozdT",
+   "best": "Wildon Home\u00ae Rain I - Painting | Wayfair",
+   "med": 92,
+   "ratio": 0.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7961378814",
    "title": "Vintage 1981 ToyTime Inc. Wizard of Oz dolls set Of 3",
    "price": 60,
@@ -39701,6 +39921,17 @@
    "url": "https://www.craigslist.org/view/d/brooksville-vintage-stone-pendants/1TbV8h2tsB6RmcqPjn6Auh",
    "best": "Elegant Heart Shape Pendant/tiny Gemstone Heart Pendant ...",
    "med": 5,
+   "ratio": 0.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955153466",
+   "title": "70s VINTAGE SIGNED EGYPTIAN LITHOGRAPH",
+   "price": 300,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/inver-grove-heights-70s-vintage-signed/7pQKjDrM5WowzGU6hzbBb9",
+   "best": "Vertical Egyptian Wall Art - Personalized Text Option ...",
+   "med": 25,
    "ratio": 0.08,
    "ai_value": ""
   },

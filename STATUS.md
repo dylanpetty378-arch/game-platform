@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T21:50:26Z
+# Refurbish status — 2026-10-15T21:53:49Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3736 |
-| lensed | 1172 |
+| flagged | 3757 |
+| lensed | 1176 |
 | queued/relens | 486 |
-| queued | 353 |
+| queued | 328 |
 | decided/kill | 125 |
 | decided/ask | 80 |
 | expired | 19 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 12899
-- events: 40092
+- lens: 12924
+- events: 40117
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -140,7 +140,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **decided/find** — Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possib |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (3736)
+## Flagged by Lens, waiting for photo review (3757)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -260,9 +260,9 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00v0v_aHBN53mpdQpz_0lG0t2_300x300.jpg" width="120"> | 7983863388 | $8 | boston | [RING! Sterling Crystal Rainbow Iridescent Gemstone](https://www.craigslist.org/view/d/braintree-ring-sterling-crystal-rainbow/i8iMWCoERerQE8BYkkZDiH) | Etsy | 474 | 59.25 |
 | <img src="https://images.craigslist.org/00V0V_ahQJdvWccWi_0CI0qs_300x300.jpg" width="120"> | 7983656892 | $10 | raleigh | [NC Pottery - Mildred Teague Baskets](https://www.craigslist.org/view/d/cary-nc-pottery-mildred-teague-baskets/dYzUmb3oU2YpXL1BNUDBt4) | Vintage 1953 Dutch Milk Maid Pitcher: Hand-painted Spring .. | 590 | 59 |
 | <img src="https://images.craigslist.org/01717_13vjesFP3PZ_08I05O_300x300.jpg" width="120"> | 7983913236 | $30 | tampa | [Citrine & sterling silver butterfly earring set](https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/sZRPtxyp2iasyzCrQEctfU) | Craigslist | 1750 | 58.33 |
+| <img src="https://images.craigslist.org/01414_BT5Kx5x5bc_08I068_300x300.jpg" width="120"> | 7983914865 | $30 | tampa | [Citrine & sterling silver dragonfly earring set](https://www.craigslist.org/view/d/palm-harbor-citrine-sterling-silver/1Q1F4JH3VFTtLFQWAQvwvw) | Natural Citrine Gemstone with 925 Sterling Silver Cufflink . | 1750 | 58.33 |
 | <img src="https://images.craigslist.org/00x0x_25xZdYEhXbL_0t20CI_300x300.jpg" width="120"> | 7954916105 | $3 | newyork | [Costume Jewelry](https://www.craigslist.org/view/d/costume-jewelry/8CitBSRY2y3HeoXTt4cn5A) | 925 heart shape clasp, pearl yellow crystal. lot of 7 ... | 170 | 56.67 |
 | <img src="https://images.craigslist.org/01010_cmIFpjTnhHJ_0x20oM_300x300.jpg" width="120"> | 7955869303 | $5 | boulder | [2 vintage Bracelets Bangle and Clamper cuff](https://www.craigslist.org/view/d/longmont-vintage-bracelets-bangle-and/r7mU6R8kMJmzDqjm68ahBn) | Certified pre-owned Lalaounis rings - Castafiore | 283 | 56.6 |
 | <img src="https://images.craigslist.org/00M0M_goHAg115JTH_0CI0CI_300x300.jpg" width="120"> | 7972891719 | $80 | houston | [SIGNED Vintage Dryden Pottery Vase ONE OF A KIND A](https://www.craigslist.org/view/d/deer-park-signed-vintage-dryden-pottery/4naSLEA9NHNVumY5Wq6yxZ) | Ancien vase pot gres d'Alsace signé Anne ehret Deco - Décora | 4500 | 56.25 |
 | <img src="https://images.craigslist.org/00909_8BfX3nTVtZI_0lM0t2_300x300.jpg" width="120"> | 7955869002 | $1 | boulder | [Earrings some vintage](https://www.craigslist.org/view/d/longmont-earrings-some-vintage/jmupJNonTh8Nwd7jAMLg9v) | Craigslist | 56 | 56 |
 | <img src="https://images.craigslist.org/00B0B_7s0yIGihpsk_0lM0t2_300x300.jpg" width="120"> | 7932644949 | $10 | orangecounty | [Pink Faceted "Statement Necklace"](https://www.craigslist.org/view/d/fountain-valley-pink-faceted-statement/ic833zH2rNfoXt3mAdhV1o) | Etsy | 550 | 55 |
-| <img src="https://images.craigslist.org/00707_3A1iVNP1fjx_0wI0CI_300x300.jpg" width="120"> | 7955837070 | $50 | scranton | [Antique Meiselman Asian Bird Floral Tureen Set](https://www.craigslist.org/view/d/pittston-antique-meiselman-asian-bird/gdxb4pnyNoB8bHkMJTYD8L) | Pinterest | 2750 | 55 |
