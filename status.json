@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:59:31Z",
+ "updated": "2026-10-15T15:03:22Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11974,
-  "events": 38064,
+  "lens": 11999,
+  "events": 38089,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 478,
-  "flagged": 3053,
-  "lensed": 930
+  "queued": 453,
+  "flagged": 3071,
+  "lensed": 937
  },
  "last_harvests": [
   {
@@ -3445,6 +3445,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954794889",
+   "title": "Vintage Lauris Clock French \"Carriage Style",
+   "price": 75,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-vintage-lauris-clock-french/3mF4Xj3SZgyCoRJCBvpnKu",
+   "best": "Imperial Antique Wind Up Clock Italy Prelude Creations Great ...",
+   "med": 1250,
+   "ratio": 16.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7983123567",
    "title": "Vintage Asian storage or Jewelry  Box",
    "price": 20,
@@ -4193,6 +4204,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973733945",
+   "title": "Women's Rings",
+   "price": 5,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-womens-rings/tHknt9rDcbUUYgyyQeX1ho",
+   "best": "New Antique Gold Bow With Amber 2 '' Hair Claw Clip - Etsy",
+   "med": 65,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
    "pid": "7955996012",
    "title": "3 Ladies Watches",
    "price": 10,
@@ -4213,6 +4235,17 @@
    "med": 320,
    "ratio": 12.8,
    "ai_value": "Sold at Auction: RARE CARTIER 14K GOLD RELIGIOUS CHARM BRACELET $320"
+  },
+  {
+   "pid": "7947941779",
+   "title": "Women's necklace and bracelet",
+   "price": 10,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/norman-womens-necklace-and-bracelet/wkFVQk8tP7wuxpX2zGtChd",
+   "best": "Vintage Disc Necklace \u2013 J&CO Jewellery",
+   "med": 128,
+   "ratio": 12.8,
+   "ai_value": ""
   },
   {
    "pid": "7938567036",
@@ -4640,6 +4673,17 @@
    "url": "https://www.craigslist.org/view/d/portland-sterling-silver-ring-by-hon/tsb3eTvuF1Dk51x6Z4Kt1b",
    "best": "HERMES Chaine d'ancre Enchainee Diamond Sterling Silver ...",
    "med": 745,
+   "ratio": 11.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980482091",
+   "title": "Vintage Rosenthal bud vase",
+   "price": 50,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-rosenthal-bud-vase/kaodbBDxqAe2KrzxSNKiaA",
+   "best": "Glass Bottle Painting Patterns: Acrylic Paint Techniques ...",
+   "med": 573,
    "ratio": 11.46,
    "ai_value": ""
   },
@@ -5476,6 +5520,17 @@
    "url": "https://www.craigslist.org/view/d/wrentham-vintage-1979-canadian-geese/6HfX7AKWi93zuxQtPm51uG",
    "best": "Wendy Morgan Auction Results: Historical Sales Records",
    "med": 140,
+   "ratio": 9.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955154398",
+   "title": "VINTAGE R. CAPODIMONTR  VASE",
+   "price": 30,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/north-adams-vintage-capodimontr-vase/jGPcr6yScqCPWUprjUis7P",
+   "best": "Sold at Auction: Twin handled gilt ceramic centrepiece with ...",
+   "med": 280,
    "ratio": 9.33,
    "ai_value": ""
   },
@@ -6664,6 +6719,17 @@
    "url": "https://www.craigslist.org/view/d/brick-heart-crystal-earrings-pierced/abW8WKgb2qwDVgRcjFKD2U",
    "best": "Paraiba Tourmaline Dangle Earring 925 Sterling Silver Heart ...",
    "med": 70,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931055792",
+   "title": "Worthen Signed Barn Landscape Oil on Board",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-worthen-signed-barn-landscape/oxjCBqTfQ4fpieRRdsvAa3",
+   "best": "Everett Woodson Barn - Etsy",
+   "med": 350,
    "ratio": 7,
    "ai_value": ""
   },
@@ -9446,6 +9512,17 @@
    "area": "annarbor",
    "url": "https://www.craigslist.org/view/d/ann-arbor-vintage-silver-tone-with/dYgJ6TG1YtXJoffW49Zc9m",
    "best": "Etsy",
+   "med": 65,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929677943",
+   "title": "1/20 10k GF Cross Pendant",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-gf-cross-pendant/n1Qd7aeJTcryiq7rsMcpt7",
+   "best": "1900s, Antique Silver Cross, Victorian Silver Cross ...",
    "med": 65,
    "ratio": 4.33,
    "ai_value": ""
@@ -14764,6 +14841,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952572829",
+   "title": "VINTAGE 1950-60'S ELKORN GETZEN CLARINET",
+   "price": 80,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/milwaukee-vintage-elkorn-getzen-clarinet/3UKPCeU1Qf8AHJdPTyxqhU",
+   "best": "RARE VINTAGE P.X. LAUBE METAL CLARINET - KEY OF Bb - LOW ...",
+   "med": 199,
+   "ratio": 2.49,
+   "ai_value": ""
+  },
+  {
    "pid": "7951477033",
    "title": "vintage NIPPON hand-painted double-handled porcelain ped",
    "price": 40,
@@ -15237,6 +15325,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945243328",
+   "title": "Blenko Ribbed Vase",
+   "price": 75,
+   "area": "huntsville",
+   "url": "https://www.craigslist.org/view/d/normal-blenko-ribbed-vase/3qhCQLWoBLRXaHJoCo3vLv",
+   "best": "Cobalt Blue Ombre Ribbed Glass Vase 7-1/2\" Tall Narrow Mouth ...",
+   "med": 176,
+   "ratio": 2.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7952358236",
    "title": "LLADRO'S, WEDDING and WEDDING BELLS STATUES",
    "price": 35,
@@ -15442,6 +15541,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-ring-spiral-statement/qqAWYiLrzwnyWix4nHYo9z",
    "best": "Metal Smiths Sterling Silver 925 Designer Signed Band Ring ...",
    "med": 58,
+   "ratio": 2.32,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978824624",
+   "title": "14K Gold Crucifix Pendant",
+   "price": 175,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/spring-hill-14k-gold-crucifix-pendant/6Ug3XVDyXwxpZb3E79Yemm",
+   "best": "Vintage 750 18k Yellow Gold IRNI Jesus On Cross Religious ...",
+   "med": 406,
    "ratio": 2.32,
    "ai_value": ""
   },
@@ -16156,6 +16266,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/wrentham-vintage-planters-nut-chopper/fNQndNhTVrkbPth7vc2Jhf",
    "best": "eBay",
+   "med": 22,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930179723",
+   "title": "Antique floor toy England",
+   "price": 10,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/aston-antique-floor-toy-england/5Vef8ojVWRwK2Phmy5wD47",
+   "best": "Vintage Tin Colmor Push/Pull Toy | eBay",
    "med": 22,
    "ratio": 2.2,
    "ai_value": ""
@@ -18174,6 +18295,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983835443",
+   "title": "Vintage Unworn Blue Turquoise Pyrite Silver Pendant 2+ Inches",
+   "price": 75,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-vintage-unworn-blue-turquoise/t2FiWxxBKPAvZHZx9jTnPj",
+   "best": "Prospecting Arizona - Etsy",
+   "med": 139,
+   "ratio": 1.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7945263965",
    "title": "Vintage Pendant Mostly Blue Colors, Sparkly Stones, Costume Jewelry",
    "price": 19,
@@ -19446,6 +19578,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-sterling-heart-pendant/wrTsQ2dj8Fis4aMs566CwW",
    "best": "eBay",
    "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983893652",
+   "title": "Vintage British Tank Helmet",
+   "price": 60,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-british-tank-helmet/7cRZpD7eihAj1ZUx6DNxdi",
+   "best": "British Army AFV Tank Crew Helmet1 Amplivox Ltd Chieftain ...",
+   "med": 100,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -21767,6 +21910,17 @@
    "url": "https://www.craigslist.org/view/d/jamaica-augusts-galan-automatic-watch/1NX4gYiGdLoQSHyz9mshnb",
    "best": "New Auguste Galan Mod-AG 843332000627 Collectible Skeletal ...",
    "med": 385,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944533659",
+   "title": "Vintage NATIVE AMERICAN DOLL \u2022 beautiful details and beadwork",
+   "price": 20,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-vintage-native-american-doll/1ToJjtGFPsC6ueyuApGndT",
+   "best": "Carlson Doll Navajo Minitaree Princess Native American Doll ...",
+   "med": 28,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -26699,6 +26853,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956244001",
+   "title": "Juicy Couture Pave Chain Necklace Vintage Gold Hearts & Crowns W/ Char",
+   "price": 65,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-juicy-couture-pave-chain-necklace/syU1ozYj4WvRD3nK3RFx73",
+   "best": "Juicy Couture Necklace Gold Pave Chain Cherry Heart Bow ...",
+   "med": 57,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -26717,6 +26882,17 @@
    "url": "https://www.craigslist.org/view/d/fairfax-littlestown-vise-25-usa/gMk6pGDCgAwUs8hDkCjVES",
    "best": "eBay",
    "med": 65,
+   "ratio": 0.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936417976",
+   "title": "ANTIQUE CARVING SET  3 PCS.",
+   "price": 135,
+   "area": "nashville",
+   "url": "https://www.craigslist.org/view/d/chapel-hill-antique-carving-set-pcs/kVqozqM24U9YGgWJBQRf3C",
+   "best": "Wostenholm's Celebrated Carvers Sheffield England Carving ...",
+   "med": 118,
    "ratio": 0.87,
    "ai_value": ""
   },
@@ -30138,6 +30314,17 @@
    "url": "https://www.craigslist.org/view/d/epping-vintage-chinese-carved-bone/kgQSPm4PubPajNG8FH7w3S",
    "best": "eBay",
    "med": 36,
+   "ratio": 0.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971331461",
+   "title": "1949. Antique Embossed floral - $250 (kennesaw)",
+   "price": 250,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/kennesaw-1949-antique-embossed-floral/98t93tnZiQXsFwMqztZ1Kr",
+   "best": "Rare Hull Pottery \"bow Knot\" B 29 12 Basket:",
+   "med": 128,
    "ratio": 0.51,
    "ai_value": ""
   },
@@ -34064,6 +34251,17 @@
    "area": "macon",
    "url": "https://www.craigslist.org/view/d/macon-robert-coin-princess-bracelet/tYosQYVBmxQ5taTAczTsuN",
    "best": "Roberto Coin 18K Yellow Gold Diamond Bracelet 001-170-01497 ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983882861",
+   "title": "Vintage acoustic guitar",
+   "price": 300,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/fremont-vintage-acoustic-guitar/6AnYppVqbAuiSK13siNRyH",
+   "best": "Landola Buffalo V-71 (Martin Style) 1960's \u2013 L'instrumenterie",
    "med": null,
    "ratio": null,
    "ai_value": ""
