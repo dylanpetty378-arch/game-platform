@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:44:03Z",
+ "updated": "2026-10-15T01:47:48Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10749,
-  "events": 35167,
+  "lens": 10774,
+  "events": 35192,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 103,
-  "flagged": 2105,
-  "lensed": 654
+  "queued": 78,
+  "flagged": 2125,
+  "lensed": 659
  },
  "last_harvests": [
   {
@@ -989,6 +989,17 @@
    "best": "QuickSell",
    "med": 4212,
    "ratio": 84.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979132475",
+   "title": "7 Rings",
+   "price": 5,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/pompano-beach-rings/pRx7mTfRyXMNib9Ws6xrpX",
+   "best": "Craigslist",
+   "med": 420,
+   "ratio": 84,
    "ai_value": ""
   },
   {
@@ -4644,6 +4655,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983614847",
+   "title": "Antique teapot",
+   "price": 20,
+   "area": "humboldt",
+   "url": "https://www.craigslist.org/view/d/mckinleyville-antique-teapot/9r3Z1ReSGRY4o9zYTBY6ma",
+   "best": "Etsy",
+   "med": 150,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7979401251",
    "title": "Antique Walking Sticks $25.00 Each",
    "price": 25,
@@ -6206,6 +6228,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966384299",
+   "title": "Oil Painting on Cavas",
+   "price": 30,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasant-hill-oil-painting-on-cavas/ejiw8jY1nq1QA5Qjx1BSUG",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -6972,6 +7005,17 @@
    "url": "https://www.craigslist.org/view/d/east-derry-vintage-grandfather-clock/kzuPecJkAwocbm1YowceH8",
    "best": "eBay",
    "med": 126,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968579156",
+   "title": "Brand new vintage Malaysia penang pewter 97%",
+   "price": 15,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/chula-vista-brand-new-vintage-malaysia/6DUqBQnSGQgPGDysBSVAvP",
+   "best": "VINTAGE ROYAL SELANGOR PEWTER MALAYSIAN ...",
+   "med": 63,
    "ratio": 4.2,
    "ai_value": ""
   },
@@ -8263,6 +8307,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954709880",
+   "title": "Mikasa Holiday Wine Tumblers",
+   "price": 18,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-mikasa-holiday-wine-tumblers/pfScrYSeLY1Di3hR19XVao",
+   "best": "Lolita Christmas Cheer Wine Glass Love My Wine Hand Painted ...",
+   "med": 60,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7954961733",
    "title": "Vintage LONGINES Golf Dial Sub Seconds Men's Wristwatch",
    "price": 299,
@@ -8798,6 +8853,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-infinity-figure-hallmark-10k/fUxFyVJ9paf4ecfyx9S8Ea",
    "best": "18KT ROSE GOLD STERLING SILVER DIAMOND SET WHITE SAPPHIRE ...",
    "med": 456,
+   "ratio": 3.06,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965136983",
+   "title": "Vintage Mexican folk art vase storyteller style pottery hand painted",
+   "price": 18,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-mexican-folk-art-vase/3U9rWebmnYryhfJzK1A4Hs",
+   "best": "370 Wedgewood fairyland luster et al ideas | wedgewood ...",
+   "med": 55,
    "ratio": 3.06,
    "ai_value": ""
   },
@@ -10408,6 +10474,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930572762",
+   "title": "~Hoop Earrings .925 and Peacock Earrings, Hebrew Necklace",
+   "price": 20,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-hoop-earrings-925-and-peacock/sGejexSEuwpMjxGQ2twJnH",
+   "best": "Craigslist",
+   "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951477033",
    "title": "vintage NIPPON hand-painted double-handled porcelain ped",
    "price": 40,
@@ -10591,6 +10668,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-10k-gold-necklace-diamond/hB6q5UK5FuqLbUmfT5Pkhx",
    "best": "10K Yellow Gold 0.36ct Channel Set Diamond Twisted Heart ...",
    "med": 310,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973804805",
+   "title": "Vintage Chinese Fishbowl / Planter",
+   "price": 250,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-chinese-fishbowl/kGqEKvEY8h3u8M7WEXTpoG",
+   "best": "eBay",
+   "med": 600,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -11745,6 +11833,17 @@
    "area": "boston",
    "url": "https://www.craigslist.org/view/d/natick-crystal-bead-double-strand/wsJYomXaeCGXTSEfV9wEDT",
    "best": "Black Beaded Rhinestone Gold Tone Flexible Wrap Coil ...",
+   "med": 25,
+   "ratio": 2.08,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944482522",
+   "title": "Vintage Goebel porcelain barn owl figurine West Germany miniature",
+   "price": 12,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-goebel-porcelain-barn/8gcVesShDM6cyR3VrQoSBc",
+   "best": "eBay",
    "med": 25,
    "ratio": 2.08,
    "ai_value": ""
@@ -13334,6 +13433,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973799858",
+   "title": "Dangle enamel earrings",
+   "price": 10,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-dangle-enamel-earrings/5xCfujRNVgGyC8DwdrCCgc",
+   "best": "eBay",
+   "med": 17,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7967127546",
    "title": "925 Sterling Silver Unisex 16.5\" Choker 19.22g",
    "price": 49,
@@ -14089,6 +14199,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-art-deco-sterling-bracelet-earring/tKciNY2mKcCjbydWjweJdY",
    "best": "Vintage 925 Sterling Silver Lapis Lazuli Black Onyx Heart ...",
    "med": 250,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949206305",
+   "title": "\ud83c\udfb7\ud83c\udfb7\ud83c\udfb7 14k GOLD SAXOPHONE CHARM \ud83c\udfb7\ud83c\udfb7\ud83c\udfb7",
+   "price": 249,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-14k-gold-saxophone-charm/heAPbzHnkB5it7MHQ19Gvd",
+   "best": "eBay",
+   "med": 388,
    "ratio": 1.56,
    "ai_value": ""
   },
@@ -15237,6 +15358,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969339968",
+   "title": "Vintage Sculpture From Donan Studios",
+   "price": 40,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/littleton-vintage-sculpture-from-donan/621CixV8dHTG3x5nzjCLZQ",
+   "best": "eBay",
+   "med": 55,
+   "ratio": 1.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7951080881",
    "title": "Antique Clay Black Handpainted ceramic Vase Large",
    "price": 99,
@@ -15754,6 +15886,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975296924",
+   "title": "Local artist NATURE/NATIVE/MCM",
+   "price": 99,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/port-orchard-local-artist-nature-native/pbV7qLEXv1jwwi3yV9Z4bJ",
+   "best": "Outdoor Lantern Style Light Fixtures - Silver for Sale in ...",
+   "med": 125,
+   "ratio": 1.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7931217089",
    "title": "Vintage Full Set of 6 Goebel Hummel Wine Glasses - Made in Germany",
    "price": 100,
@@ -15915,6 +16058,17 @@
    "url": "https://www.craigslist.org/view/d/monroe-ice-cream-sephora-collection/tM3bfNnRhTBqdjoVuJWbC4",
    "best": "eBay",
    "med": 50,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983630057",
+   "title": "Nature\u2019s Haven",
+   "price": 95,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/henderson-natures-haven/k5RzDieDzRsQZA5NZ9KaPe",
+   "best": "Transitional Design Online Auctions",
+   "med": 119,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -18218,6 +18372,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958341943",
+   "title": "Pink stone ring",
+   "price": 55,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/russell-pink-stone-ring/aiTBoS8g2YjR9KGuvzRUBD",
+   "best": "Vintage Sterling Silver 875 ring Art Deco Ruby stones Soviet ...",
+   "med": 50,
+   "ratio": 0.91,
+   "ai_value": "sell in the $35 to $60"
+  },
+  {
    "pid": "7944250897",
    "title": "Vintage Small Noritake Pitcher",
    "price": 20,
@@ -18511,6 +18676,17 @@
    "url": "https://www.craigslist.org/view/d/strabane-solid-sterling-silver-vintage/fLW5tZGFFZd9s3stPKGC8Q",
    "best": "Ruby Lane",
    "med": 350,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974866208",
+   "title": "Vintage Southwestern blue stone Bolo Tie Made in USA Clasp",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-southwestern-blue-stone/hXZnZ2Nk6JNrsttPCEZGQu",
+   "best": "Etsy",
+   "med": 22,
    "ratio": 0.88,
    "ai_value": ""
   },
@@ -19259,6 +19435,17 @@
    "url": "https://www.craigslist.org/view/d/lakeland-gp-multi-strand-necklace/bBu8uZX9jXgnQMNtNqmua9",
    "best": "eBay",
    "med": 38,
+   "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950666430",
+   "title": "Hat Lot Vintage Antique Golf Military Maritime",
+   "price": 70,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-hat-lot-vintage-antique-golf/qLmxmPQ4m6sPjEgwoUb1vz",
+   "best": "Gem",
+   "med": 53,
    "ratio": 0.76,
    "ai_value": ""
   },
@@ -20194,6 +20381,17 @@
    "url": "https://www.craigslist.org/view/d/denver-custom-jewelry-bag-included/p8gkqEUtz7XAV12z3kHnvY",
    "best": "eBay",
    "med": 49,
+   "ratio": 0.61,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973978895",
+   "title": "Vintage Large rhinestone crystal Maltese cross pendant brooch, pendant",
+   "price": 75,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-large-rhinestone-crystal/4sX4swyiof9eioyafUwGrz",
+   "best": "Etsy",
+   "med": 46,
    "ratio": 0.61,
    "ai_value": ""
   },
@@ -21782,6 +21980,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970238171",
+   "title": "METALLICA VHS Tape lot",
+   "price": 40,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-metallica-vhs-tape-lot/bW9RVugpva931BPf7LYKkd",
+   "best": "Live Shit: Binge & Purge (Top): Two open cardboard outer boxes from the massive live concert/box set released ",
+   "med": 13,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7964897364",
    "title": "Genuine Ruby -& - Opal Stone Necklace",
    "price": 90,
@@ -22262,6 +22471,17 @@
    "url": "https://www.craigslist.org/view/d/russell-conchos/urHqqnqg1BTCrnMfY2XFP5",
    "best": "Etsy",
    "med": 6,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956055361",
+   "title": "Navajo Bracelet Sugilite Sterling Silver",
+   "price": 300,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-navajo-bracelet-sugilite/hZX6MsUT4wVPoNukqAEdTK",
+   "best": "Native American Richard Aguilar Santo Domingo Pueblo SS ...",
+   "med": 59,
    "ratio": 0.2,
    "ai_value": ""
   },
