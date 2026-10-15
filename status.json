@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:28:49Z",
+ "updated": "2026-10-15T15:31:46Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13790,
-  "lens": 12149,
-  "events": 38260,
+  "lens": 12174,
+  "events": 38285,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 303,
-  "flagged": 3185,
-  "lensed": 973
+  "queued": 278,
+  "flagged": 3204,
+  "lensed": 979
  },
  "last_harvests": [
   {
@@ -2081,6 +2081,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956244456",
+   "title": "Necklace Hearts (Cross Posted)\ud83d\udc95",
+   "price": 8,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-necklace-hearts-cross-posted/8eAWuqXXrMtFwQKbSLhczz",
+   "best": "Craigslist",
+   "med": 295,
+   "ratio": 36.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7978088604",
    "title": "TARKEI",
    "price": 49,
@@ -2407,6 +2418,17 @@
    "url": "https://www.craigslist.org/view/d/paramus-flowers-painting/mGozUqHRXNmq2EBYgMoMgG",
    "best": "Original Vintage P.Keeling Oil Painting Canvas Floral Still ...",
    "med": 150,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955108819",
+   "title": "1800\u201ds era flatware",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/richmond-hill-1800s-era-flatware/6GT6oJdED7HhjG7o1LghMj",
+   "best": "1stDibs",
+   "med": 1350,
    "ratio": 30,
    "ai_value": ""
   },
@@ -6393,6 +6415,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971755178",
+   "title": "EXCELLENT VNTG SIGNED DATED ABSTRACT IMPRESSIONIST PAINTING ON BOARD",
+   "price": 45,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-excellent-vntg-signed-dated/6AhBTr5jPJf7BbqxAMhbAB",
+   "best": "Miniature Majestic Falls Painting on Canvas, Fine Art ...",
+   "med": 350,
+   "ratio": 7.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7949550641",
    "title": "wall paintings",
    "price": 30,
@@ -6852,6 +6885,17 @@
    "best": "1900's 14\" Composite Doll: Straw Stuffed Body: Jointed Arms ...",
    "med": 64,
    "ratio": 7.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933080672",
+   "title": "Egyptian Queen Sarcophagus",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/richmond-egyptian-queen-sarcophagus/c52SK7UeRjjGn5KwA95ovq",
+   "best": "Invaluable.com",
+   "med": 354,
+   "ratio": 7.08,
    "ai_value": ""
   },
   {
@@ -7841,6 +7885,17 @@
    "url": "https://www.craigslist.org/view/d/agoura-hills-antique-c1963-pastoral/wmsmHtKo11uqMUskTvqFid",
    "best": "Mercari",
    "med": 500,
+   "ratio": 5.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949590419",
+   "title": "14k gold charm- Christmas Tree",
+   "price": 100,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-14k-gold-charm-christmas-tree/qZ2fWUnnvq3wJQH8SUYK1Y",
+   "best": "100 Ways",
+   "med": 588,
    "ratio": 5.88,
    "ai_value": ""
   },
@@ -8857,6 +8912,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978036191",
+   "title": "Large Floral Acrylic on Canvas",
+   "price": 75,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-large-floral-acrylic-on-canvas/kEzQ6BvcePrSzp69m9GUiC",
+   "best": "eBay",
+   "med": 375,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -9810,6 +9876,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-gf-cross-pendant/n1Qd7aeJTcryiq7rsMcpt7",
    "best": "1900s, Antique Silver Cross, Victorian Silver Cross ...",
    "med": 65,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936640144",
+   "title": "Harley Davidson collectibles",
+   "price": 30,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/lutz-harley-davidson-collectibles/rwt8pTyyF44kyDT7cwwvJw",
+   "best": "eBay",
+   "med": 130,
    "ratio": 4.33,
    "ai_value": ""
   },
@@ -13499,6 +13576,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977939165",
+   "title": "GRISWOLD #468",
+   "price": 100,
+   "area": "altoona",
+   "url": "https://www.craigslist.org/view/d/altoona-griswold-468/qeqsazRC9nz9tZGZXjgixS",
+   "best": "Craigslist",
+   "med": 300,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -13594,6 +13682,17 @@
    "url": "https://www.craigslist.org/view/d/sunset-beach-vintage-brooches-and-stick/2xndRsNt5e1Jo6gTynDE4A",
    "best": "eBay",
    "med": 50,
+   "ratio": 2.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951201857",
+   "title": "Vintage New York Stock Exchange Member Certificate",
+   "price": 85,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-vintage-new-york-stock/tQ2ktvQmD7XwtfKT3iv7v4",
+   "best": "eBay",
+   "med": 250,
    "ratio": 2.94,
    "ai_value": ""
   },
@@ -16564,6 +16663,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-maytag-oil-can/aUzDoV8nPxC1u7sdsi7MZp",
    "best": "eBay",
    "med": 45,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945085181",
+   "title": "Grand lodge items",
+   "price": 40,
+   "area": "buffalo",
+   "url": "https://www.craigslist.org/view/d/attica-grand-lodge-items/rVojgRbhu7Z7JemBPiBLWQ",
+   "best": "Vintage Masonic Temple Laying Corner Stone Trowel Pin ...",
+   "med": 90,
    "ratio": 2.25,
    "ai_value": ""
   },
@@ -20077,6 +20187,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930016162",
+   "title": "Vintage Rubberset Shaving Brush w/ Case",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-rubberset-shaving-brush/8RaNyNvKCf6zLdd4GMninq",
+   "best": "Etsy",
+   "med": 42,
+   "ratio": 1.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7933078547",
    "title": "Vintage rensie ladies working wristwatch,1940s-1950s,wind up.",
    "price": 30,
@@ -21100,6 +21221,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963258305",
+   "title": "Two German bayonets bayonet",
+   "price": 250,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-two-german-bayonets-bayonet/1vF655DrpsnR2Gg2fDCu9r",
+   "best": "eBay",
+   "med": 390,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7944709221",
    "title": "JESTERS VINTAGE",
    "price": 20,
@@ -21239,6 +21371,17 @@
    "url": "https://www.craigslist.org/view/d/falls-church-jewelry-collection-from/8Cjp3ywbL5DvpvHEn3egFX",
    "best": "Joan Rivers Classics Collection Black Tassel Necklace | eBay",
    "med": 23,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980529866",
+   "title": "Elegant Green Garnet Necklace & Earrings Setl",
+   "price": 85,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-elegant-green-garnet/igN7B8Y2mYnaYhdrTgxLbF",
+   "best": "Set din aventurin fatetat si agat negru | Magazin online de ...",
+   "med": 130,
    "ratio": 1.53,
    "ai_value": ""
   },
@@ -22075,6 +22218,17 @@
    "url": "https://www.craigslist.org/view/d/glen-ridge-vintage-chinese-fish-bowls/jNJoTKQnsE927ky7roJwBk",
    "best": "Andrew Jones Auctions",
    "med": 730,
+   "ratio": 1.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931559929",
+   "title": "DOLL 26 INCHES",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/palos-park-doll-26-inches/4MjCb3GCgE2gWyJLCA3Zf9",
+   "best": "26 Inch Raggedy Ann Doll Handmade With Light Color Skintone ...",
+   "med": 51,
    "ratio": 1.46,
    "ai_value": ""
   },
@@ -24587,6 +24741,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956374765",
+   "title": "Quantity 14 - Southwest Sterling Inlay Stack Rings",
+   "price": 70,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/ormond-beach-quantity-14-southwest/q7SqAXjYydqA6zwDiW96BG",
+   "best": "Carolyn Pollack Sterling Vintage Real Turquoise Coral Onyx ...",
+   "med": 83,
+   "ratio": 1.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7950509932",
    "title": "New Set of 2 Hand-Crafted Clay Figurines",
    "price": 85,
@@ -26838,6 +27003,17 @@
    "url": "https://www.craigslist.org/view/d/san-anselmo-set-of-parker-jotters-60s/iJRV6WLC27i5Ak5UKSjETS",
    "best": "Parker Vintage 51/21 Aerometric Red Fountain Pen | eBay",
    "med": 92,
+   "ratio": 0.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955312283",
+   "title": "Mother Daughter Painting",
+   "price": 250,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/darien-mother-daughter-painting/xmTbXwhoYfvxFNBabfp8rH",
+   "best": "McMullen Museum of Art - Boston College",
+   "med": 242,
    "ratio": 0.97,
    "ai_value": ""
   },
@@ -34036,6 +34212,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950270000",
+   "title": "Gorham Sterling silver spoon",
+   "price": 100,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/paramus-gorham-sterling-silver-spoon/rQ6Vmu65LLtEiTvasDuEq4",
+   "best": "Value / Pricing: Individual Gorham sterling teaspoons or small serving spoons typically resell on secondary an",
+   "med": 12,
+   "ratio": 0.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7931606692",
    "title": "17 gorgeous pendants",
    "price": 85,
@@ -35516,6 +35703,28 @@
    "area": "denver",
    "url": "https://www.craigslist.org/view/d/englewood-gucci-sync-watch/6CfAD4mSjzbP1jXSZ4brE7",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958067467",
+   "title": "Guitar and case",
+   "price": 325,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/dover-guitar-and-case/s1qBgvT9pgBawRkM4EJzwg",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963516905",
+   "title": "NIXON WATCH THE 51-30",
+   "price": 175,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/winter-springs-nixon-watch-the-51-30/2ihLts7vwUi5PsUngWV5zX",
+   "best": "Nixon",
    "med": null,
    "ratio": null,
    "ai_value": ""
