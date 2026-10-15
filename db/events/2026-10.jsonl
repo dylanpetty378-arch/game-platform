@@ -38297,3 +38297,28 @@
 {"pid":"ebay407276801882","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Geometric multi-panel modernist ring, gold tones; if solid 18k studio piece, $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
 {"pid":"ebay800779812965","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Double-breasted sergeant coat; if 19th-c. US Army/militia uniform, $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
 {"pid":"ebay820217722192","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Cane basket, Chitimacha/Cherokee river cane double-weave pattern? Old ones $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"ts":"2026-10-15T15:31:29Z","pid":"7982170827","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Size — title does not","data":{"med":7600,"ratio":19,"mismatch":["Size"]}}
+{"ts":"2026-10-15T15:31:37Z","pid":"7983890688","stage":"lensed","run":"lensworker-20261015-1528","note":null,"data":{"med":21,"ratio":3,"mismatch":[]}}
+{"ts":"2026-10-15T15:31:45Z","pid":"7980066804","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Farm, Iron — title does not","data":{"med":95,"ratio":1.07,"mismatch":["Farm","Iron"]}}
+{"ts":"2026-10-15T15:31:54Z","pid":"7929626475","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Gold, Hanson, Silver — title does not","data":{"med":40,"ratio":0.2,"mismatch":["Gold","Hanson","Silver"]}}
+{"ts":"2026-10-15T15:32:03Z","pid":"7944450973","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Aurora, Tiffany — title does not","data":{"med":25,"ratio":8.33,"mismatch":["Aurora","Tiffany"]}}
+{"ts":"2026-10-15T15:32:10Z","pid":"7936548691","stage":"flagged","run":"lensworker-20261015-1528","note":null,"data":{"med":79,"ratio":3.16,"mismatch":[]}}
+{"ts":"2026-10-15T15:32:18Z","pid":"7929592632","stage":"flagged","run":"lensworker-20261015-1528","note":null,"data":{"med":79,"ratio":3.16,"mismatch":[]}}
+{"ts":"2026-10-15T15:32:28Z","pid":"7932386999","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Enamel, Pink, Silver — title does not","data":{"med":15,"ratio":1.5,"mismatch":["Enamel","Pink","Silver"]}}
+{"ts":"2026-10-15T15:32:36Z","pid":"7948519212","stage":"lensed","run":"lensworker-20261015-1528","note":null,"data":{"med":20,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-15T15:32:46Z","pid":"7983846639","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Elegant — title does not","data":{"med":153,"ratio":3.83,"mismatch":["Elegant"]}}
+{"ts":"2026-10-15T15:32:54Z","pid":"7948515330","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Fenton, Lace — title does not","data":{"med":75,"ratio":0.6,"mismatch":["Fenton","Lace"]}}
+{"ts":"2026-10-15T15:33:03Z","pid":"7983867441","stage":"lensed","run":"lensworker-20261015-1528","note":null,"data":{"med":16,"ratio":0.04,"mismatch":[]}}
+{"ts":"2026-10-15T15:33:11Z","pid":"7958069231","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Hasbro, Iron, Marvel — title does not","data":{"med":15,"ratio":0.17,"mismatch":["Hasbro","Iron","Marvel"]}}
+{"ts":"2026-10-15T15:33:19Z","pid":"7983866538","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Continental — title does not","data":{"med":200,"ratio":5.71,"mismatch":["Continental"]}}
+{"ts":"2026-10-15T15:33:25Z","pid":"7956426689","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Cameo, Drake — title does not","data":{"med":55,"ratio":1.22,"mismatch":["Cameo","Drake"]}}
+{"ts":"2026-10-15T15:33:40Z","pid":"7960020537","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Persian — title does not","data":{"med":null,"ratio":null,"mismatch":["Persian"]}}
+{"ts":"2026-10-15T15:33:50Z","pid":"7972008216","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Reynolds, Silver, Special — title does not","data":{"med":1225,"ratio":12.25,"mismatch":["Reynolds","Silver","Special"]}}
+{"ts":"2026-10-15T15:33:56Z","pid":"7978485708","stage":"lensed","run":"lensworker-20261015-1528","note":null,"data":{"med":66,"ratio":2.2,"mismatch":[]}}
+{"ts":"2026-10-15T15:34:04Z","pid":"7974795342","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Enamel, Gold — title does not","data":{"med":865,"ratio":43.25,"mismatch":["Enamel","Gold"]}}
+{"ts":"2026-10-15T15:34:14Z","pid":"7952198090","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Philippines, Types — title does not","data":{"med":null,"ratio":null,"mismatch":["Philippines","Types"]}}
+{"ts":"2026-10-15T15:34:22Z","pid":"7977205611","stage":"flagged","run":"lensworker-20261015-1528","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T15:34:34Z","pid":"7956157197","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Artist, Clay, Studio — title does not","data":{"med":130,"ratio":0.65,"mismatch":["Artist","Clay","Studio"]}}
+{"ts":"2026-10-15T15:34:44Z","pid":"7953691719","stage":"flagged","run":"lensworker-20261015-1528","note":null,"data":{"med":98,"ratio":3.92,"mismatch":[]}}
+{"ts":"2026-10-15T15:34:50Z","pid":"7961990112","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Alfred Meakin, Johnson Bros — title does not","data":{"med":43,"ratio":2.39,"mismatch":["Alfred Meakin","Johnson Bros"]}}
+{"ts":"2026-10-15T15:34:58Z","pid":"7975394412","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Harmony — title does not","data":{"med":9,"ratio":0.75,"mismatch":["Harmony"]}}

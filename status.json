@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:31:46Z",
+ "updated": "2026-10-15T15:35:23Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
-  "listings": 13790,
-  "lens": 12174,
-  "events": 38285,
+  "listings": 13797,
+  "lens": 12199,
+  "events": 38324,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 278,
-  "flagged": 3204,
-  "lensed": 979
+  "queued": 253,
+  "flagged": 3232,
+  "lensed": 983
  },
  "last_harvests": [
   {
@@ -1905,6 +1905,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974795342",
+   "title": "Women's Brooch",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/forest-hills-womens-brooch/jdDyUvorXnVhx191vX3Rpg",
+   "best": "Vintage Kenneth Cole Large Purple Lavender Pearlescent ...",
+   "med": 865,
+   "ratio": 43.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7948313336",
    "title": "Iced Out Cuban & Coffee Link Bracelet",
    "price": 40,
@@ -3243,6 +3254,17 @@
    "url": "https://www.craigslist.org/view/d/springfield-french-brass-bronze-vintage/pHqSkyNpfocsZGd4Rxx2xs",
    "best": "eBay",
    "med": 2850,
+   "ratio": 19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982170827",
+   "title": "Vintage Kay 3/4 Cello --- Model 55",
+   "price": 400,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-vintage-kay-4-cello-model-55/2HEzjCYjhUzgYW37SkE8VF",
+   "best": "Kay-1953-Model 121 -1/2 Size -Cello w/ Bow & Bag | Reverb",
+   "med": 7600,
    "ratio": 19,
    "ai_value": ""
   },
@@ -4597,6 +4619,17 @@
    "best": "Leboncoin",
    "med": 663,
    "ratio": 12.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972008216",
+   "title": "Olds Tristar Bb student trumpet",
+   "price": 100,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/north-haven-olds-tristar-bb-student/231AbJiuMu3TKnRru73fPz",
+   "best": "Vintage Olds Special NL-10 Trumpet, Nickel Plated, Case | Reverb",
+   "med": 1225,
+   "ratio": 12.25,
    "ai_value": ""
   },
   {
@@ -6116,6 +6149,17 @@
    "med": 325,
    "ratio": 8.33,
    "ai_value": ""
+  },
+  {
+   "pid": "7944450973",
+   "title": "New Rose Tinted Glass Arts Crescent",
+   "price": 3,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-new-rose-tinted-glass-arts/toN2EfSsZ6botZzRNsGDxQ",
+   "best": "Etsy",
+   "med": 25,
+   "ratio": 8.33,
+   "ai_value": "Sold Out \u2013 Forest City Stained Glass $32"
   },
   {
    "pid": "7953841196",
@@ -8017,6 +8061,17 @@
    "url": "https://www.craigslist.org/view/d/homosassa-vintage-asian-brass-incense/xx5gJy1wkPgesKnDo3aBFG",
    "best": "eBay",
    "med": 400,
+   "ratio": 5.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983866538",
+   "title": "VINTAGE 1890.s CAST IRON POT",
+   "price": 35,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/north-adams-vintage-1890s-cast-iron-pot/bk8bzj7VAaBResK9usc5tv",
+   "best": "eBay",
+   "med": 200,
    "ratio": 5.71,
    "ai_value": ""
   },
@@ -10848,6 +10903,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953691719",
+   "title": "Lenox Lido Candlesticks",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/richmond-lenox-lido-candlesticks/4qQ47GTB7ZsGf2GqqqFzjL",
+   "best": "Vintage Lenox Pair of Candlesticks LIDO 8 1/4\" USA Made ...",
+   "med": 98,
+   "ratio": 3.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7950359550",
    "title": "Waltham riverside pocket watch",
    "price": 140,
@@ -11020,6 +11086,17 @@
    "url": "https://www.craigslist.org/view/d/kurtistown-very-old-dutch-pen-and-ink/xhg2jP8NFZQCkySeRPXr9v",
    "best": "Street scene in Holland - Posters, Prints & Paintings ...",
    "med": 115,
+   "ratio": 3.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983846639",
+   "title": "Jumbo Onyx Necklace Magnetic Clasp 19 Inches",
+   "price": 40,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-jumbo-onyx-necklace-magnetic-clasp/d5Tzj6FyBQf8Bu8r3Cxzm9",
+   "best": "Vintage black & gold graduated bead princess length necklace ...",
+   "med": 153,
    "ratio": 3.83,
    "ai_value": ""
   },
@@ -12835,6 +12912,28 @@
    "url": "https://www.craigslist.org/view/d/rothschild-vintage-1976-caravelle/iCd9svqFjBEW9nfwtV9Brd",
    "best": "Gem",
    "med": 158,
+   "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936548691",
+   "title": "Vintage Oscar de la Renta Royale Compote",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-oscar-de-la-renta/hdZbc2MAdQJGio7XacxRy2",
+   "best": "eBay",
+   "med": 79,
+   "ratio": 3.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929592632",
+   "title": "Sterling PALM \ud83c\udf34 Tree Pin",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-palm-tree-pin/hWKpG4dTVkDrLZT8HXLGhQ",
+   "best": "eBay",
+   "med": 79,
    "ratio": 3.16,
    "ai_value": ""
   },
@@ -15806,6 +15905,17 @@
    "best": "90s Bejeweled Gold Tone Dangle Earrings | Glam Multicolor ...",
    "med": 24,
    "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961990112",
+   "title": "Hand painted Pheasant  plate",
+   "price": 18,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-hand-painted-pheasant-plate/cCXK33sC8Ex3DHDDcDi6Qe",
+   "best": "RARE 1977 Christmas Crown Staffordshire 3D plate | eBay",
+   "med": 43,
+   "ratio": 2.39,
    "ai_value": ""
   },
   {
@@ -21969,6 +22079,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932386999",
+   "title": "Ball Chain Necklace w/Stone",
+   "price": 10,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-ball-chain-necklace-stone/ebDMdiW3d3DQMuxXh54cQv",
+   "best": "Garmentory",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -24279,6 +24400,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956426689",
+   "title": "Lot of 9 Vintage-Style Porcelain Dolls with Chairs & Stands",
+   "price": 45,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/north-wales-lot-of-vintage-style/9UgSUPBqFahCNLSFMm1pZf",
+   "best": "Auctionet",
+   "med": 55,
+   "ratio": 1.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7951975370",
    "title": "Signed Original Pastel Portrait of a Woman",
    "price": 95,
@@ -25870,6 +26002,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-steuben-glass-bowl/tccXHngJ6sKzwmszj1VjoK",
    "best": "Mid Century Modern Steuben Crystal Don Pollard 8060 Design ...",
    "med": 160,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980066804",
+   "title": "vintage wood and steel snatch block",
+   "price": 89,
+   "area": "duluth",
+   "url": "https://www.craigslist.org/view/d/esko-vintage-wood-and-steel-snatch-block/vdgNz4Zg8eQWUXcWeW1swa",
+   "best": "eBay",
+   "med": 95,
    "ratio": 1.07,
    "ai_value": ""
   },
@@ -29295,6 +29438,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975394412",
+   "title": "89, 90, 91, 92 Goebel Hummel Christmas Bells w/ Boxes Ribbons 4 For 12",
+   "price": 12,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-goebel-hummel-christmas-bells/5GPAfXMf6yW7dk5Vkk1ZkH",
+   "best": "eBay",
+   "med": 9,
+   "ratio": 0.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7971834546",
    "title": "Vintage Sterling Silver Turquoise & Coral Hopi/Navajo Size 6 1/4 Ring",
    "price": 250,
@@ -30241,6 +30395,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956157197",
+   "title": "Large terracotta urn",
+   "price": 200,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-large-terracotta-urn/jm9aqNxvvYNj8zL3PEuCLd",
+   "best": "Chairish",
+   "med": 130,
+   "ratio": 0.65,
+   "ai_value": ""
+  },
+  {
    "pid": "7946237740",
    "title": "4 vintage Precious Moments bells",
    "price": 25,
@@ -30831,6 +30996,17 @@
    "url": "https://www.craigslist.org/view/d/portland-womens-watch/twBWyQFKGruaHvhDLkQXs9",
    "best": "\u00b7TT Watches",
    "med": 30,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948515330",
+   "title": "VINTAGE MILK GLASS COLLECTION",
+   "price": 125,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/strongsville-vintage-milk-glass/t7e5fUtFzD8hgqaeHaHZZs",
+   "best": "Etsy",
+   "med": 75,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -33816,6 +33992,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929626475",
+   "title": "VINTAGE VOGT WESTERN STERLING BUCKLE",
+   "price": 200,
+   "area": "bend",
+   "url": "https://www.craigslist.org/view/d/bend-vintage-vogt-western-sterling/krw5GMnqvXC2xQxyUcpbYo",
+   "best": "Antique Pair Of Victorian Cut Steel LW Paris Shoe Buckles ...",
+   "med": 40,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933424756",
    "title": "Sterling Silver Ecclissi Art Deco Cuff 7 1/2\u201d Watch",
    "price": 175,
@@ -33999,6 +34186,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-sterling-opal-and-marcasite/2qhAHsfsWBDdjEeRvdkE1W",
    "best": "eBay",
    "med": 13,
+   "ratio": 0.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958069231",
+   "title": "Action figures-set of 6",
+   "price": 90,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/dover-action-figures-set-of/7FbcgEVfJaumT3qXQsqxJo",
+   "best": "eBay",
+   "med": 15,
    "ratio": 0.17,
    "ai_value": ""
   },
@@ -35728,6 +35926,116 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7960020537",
+   "title": "19th Century Afghan Khyber Choora (Chura) Dagger",
+   "price": 50,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/jackson-19th-century-afghan-khyber/5J9AAS4wuChN3fYiyxd8rx",
+   "best": "Mughal Indo-Persian silver inlaid Sikh Punjabi small size ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952198090",
+   "title": "Nepal Tibet Knives Knife daggers",
+   "price": 50,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/lynn-nepal-tibet-knives-knife-daggers/nkEeHVoibZrpsjJqQLX45i",
+   "best": "Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977205611",
+   "title": "Flower Still Life",
+   "price": 10,
+   "area": "iowacity",
+   "url": "https://www.craigslist.org/view/d/iowa-city-flower-still-life/dRRNBwnWA8fACyvhPyvwHQ",
+   "best": "Vintage Frans Oerder Art Print Of \"Magnolias | #441814487",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "ebay960042174137",
+   "title": "ANTIQUE 1890 RADTKE LAUCKNER FRAMED CLIPPER SAILBOAT ETCHING SIGNED CF HARRIS",
+   "price": 49.5,
+   "area": "fb 88",
+   "url": "https://www.ebay.com/itm/960042174137",
+   "best": null,
+   "med": null,
+   "ratio": null,
+   "ai_value": null
+  },
+  {
+   "pid": "ebay800775849347",
+   "title": "M. Bonne 1778 Sheet Map - Western Canada & Five Great Lakes",
+   "price": 195.0,
+   "area": "fb 138",
+   "url": "https://www.ebay.com/itm/800775849347",
+   "best": null,
+   "med": null,
+   "ratio": null,
+   "ai_value": null
+  },
+  {
+   "pid": "ebay206613114023",
+   "title": "Vintage VASE Green Drip Glaze Art Pottery 2-handled 6-sided Signed 16.25\u201d",
+   "price": 69.95,
+   "area": "fb 79",
+   "url": "https://www.ebay.com/itm/206613114023",
+   "best": null,
+   "med": null,
+   "ratio": null,
+   "ai_value": null
+  },
+  {
+   "pid": "ebay227558663412",
+   "title": "Fossil Defender DE-1009 Multifunction Men's Watch | Diver Field Style | Blue...",
+   "price": 30.97,
+   "area": "fb 134",
+   "url": "https://www.ebay.com/itm/227558663412",
+   "best": null,
+   "med": null,
+   "ratio": null,
+   "ai_value": null
+  },
+  {
+   "pid": "ebay407276801882",
+   "title": "Vintage Sterling Silver Tiger's Eye and Zebra Agate Inlay Ring Size 5.25 Chanel",
+   "price": 29.0,
+   "area": "fb 101",
+   "url": "https://www.ebay.com/itm/407276801882",
+   "best": null,
+   "med": null,
+   "ratio": null,
+   "ai_value": null
+  },
+  {
+   "pid": "ebay800779812965",
+   "title": "1950s Vintage Boston Police Blue Uniform Jacket",
+   "price": 75.0,
+   "area": "fb 67",
+   "url": "https://www.ebay.com/itm/800779812965",
+   "best": null,
+   "med": null,
+   "ratio": null,
+   "ai_value": null
+  },
+  {
+   "pid": "ebay820217722192",
+   "title": "Tarahumara Raramuri Double Woven Basket  Copper Canyon Mexico Twill Weave Vintag",
+   "price": 19.0,
+   "area": "fb 3",
+   "url": "https://www.ebay.com/itm/820217722192",
+   "best": null,
+   "med": null,
+   "ratio": null,
+   "ai_value": null
   }
  ],
  "finds": [
