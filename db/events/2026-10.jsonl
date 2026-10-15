@@ -38283,3 +38283,17 @@
 {"ts":"2026-10-15T15:31:03Z","pid":"7955312283","stage":"flagged","run":"lensworker-20261015-1524","note":"Lens names Airline, Museum — title does not","data":{"med":242,"ratio":0.97,"mismatch":["Airline","Museum"]}}
 {"ts":"2026-10-15T15:31:09Z","pid":"7934676462","stage":"lensed","run":"lensworker-20261015-1524","note":null,"data":{"med":46,"ratio":1.53,"mismatch":[]}}
 {"ts":"2026-10-15T15:31:20Z","pid":"7931559929","stage":"flagged","run":"lensworker-20261015-1528","note":"Lens names Star — title does not","data":{"med":51,"ratio":1.46,"mismatch":["Star"]}}
+{"pid":"ebay960042174137","stage":"queued","run":"ebay-20261015-1530","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay800775849347","stage":"queued","run":"ebay-20261015-1530","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay206613114023","stage":"queued","run":"ebay-20261015-1530","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay227558663412","stage":"queued","run":"ebay-20261015-1530","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay407276801882","stage":"queued","run":"ebay-20261015-1530","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay800779812965","stage":"queued","run":"ebay-20261015-1530","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay820217722192","stage":"queued","run":"ebay-20261015-1530","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay960042174137","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Period-framed antique harbor etching; if signed Whistler-school original etching, $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay800775849347","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Early Great Lakes/New France map, looks 18th c.; Bellin-era originals can exceed $1,000","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay206613114023","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Matte green buttressed-handle vase; if Teco/Grueby/Hampshire Arts & Crafts, $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay227558663412","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: vintage three-register diver chronograph; if Heuer/Breitling/Yema-era, $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay407276801882","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Geometric multi-panel modernist ring, gold tones; if solid 18k studio piece, $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay800779812965","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Double-breasted sergeant coat; if 19th-c. US Army/militia uniform, $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
+{"pid":"ebay820217722192","stage":"flagged","run":"ebay-20261015-1530","by":"claude","note":"eye screen: Cane basket, Chitimacha/Cherokee river cane double-weave pattern? Old ones $1,000+","data":{"eye":true},"ts":"2026-10-15T15:33:27Z"}
