@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:44:24Z",
+ "updated": "2026-10-15T06:48:14Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11124,
-  "events": 36343,
+  "lens": 11149,
+  "events": 36368,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 528,
-  "flagged": 2401,
-  "lensed": 732
+  "queued": 503,
+  "flagged": 2418,
+  "lensed": 740
  },
  "last_harvests": [
   {
@@ -3743,6 +3743,17 @@
    "ai_value": "Sold at Auction: Signed print \u201cPeaceful Path\u201d by Jack Pahul $199"
   },
   {
+   "pid": "7931543033",
+   "title": "Antique/Vintage PLATTERS",
+   "price": 5,
+   "area": "stcloud",
+   "url": "https://www.craigslist.org/view/d/little-falls-antique-vintage-platters/iQJbgfvHvd3bV9UQZWHDMZ",
+   "best": "John Edwards Porcelaine de Terre Serving Platter England ...",
+   "med": 60,
+   "ratio": 12,
+   "ai_value": ""
+  },
+  {
    "pid": "7946944841",
    "title": "Vintage Signed Portrait",
    "price": 25,
@@ -4953,6 +4964,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7936772285",
+   "title": "Handcrafted Beaded Necklace",
+   "price": 15,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/dover-handcrafted-beaded-necklace/7my737VKEL9J4yDQqEtRaQ",
+   "best": "AGI Necklace Sterling Multi Color Stones Dangle Silver Round ...",
+   "med": 120,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7952902592",
    "title": "VINTAGE JEWELRY",
    "price": 25,
@@ -5598,6 +5620,17 @@
    "url": "https://www.craigslist.org/view/d/minneapolis-vintage-1978-gaydos-iris/dVVHEGQCZnqU7DZm4fdfyB",
    "best": "Etsy",
    "med": 64,
+   "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941379261",
+   "title": "Golden Days Pin Collection",
+   "price": 25,
+   "area": "fairbanks",
+   "url": "https://www.craigslist.org/view/d/fairbanks-golden-days-pin-collection/fnuaYjqegUaM3vKJHw8E35",
+   "best": "Lion Fraternal Organization Pins Various States | eBay",
+   "med": 160,
    "ratio": 6.4,
    "ai_value": ""
   },
@@ -7072,6 +7105,17 @@
    "url": "https://www.craigslist.org/view/d/canyon-country-vintage-sears-guitar-319/8maNco1aDw5M2QLdYwkgPm",
    "best": "Vintage 1969 Rokkomann N-5 Made in Japan classical Guitar ...",
    "med": 695,
+   "ratio": 4.63,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962208485",
+   "title": "Vintage Florence Henri  Signed Lithograph",
+   "price": 400,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-florence-henri/tLh4Y7k3rR2qM9QwSNWRVb",
+   "best": "Sold at Auction: Florence Henri, Florence Henri \u2013 OHNE TITEL",
+   "med": 1850,
    "ratio": 4.63,
    "ai_value": ""
   },
@@ -10266,6 +10310,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948493562",
+   "title": "Vintage Hard Rock Cafe Watch",
+   "price": 25,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/vintage-hard-rock-cafe-watch/xAWhk3HHnB551SDemsjG1p",
+   "best": "Vintage DISNEY LORUS MICKEY MOUSE LADIES ...",
+   "med": 75,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -10394,6 +10449,17 @@
    "url": "https://www.craigslist.org/view/d/boise-chain-bracelet-gold-tone/nxv5zkePe8KVYxrPLSd7k2",
    "best": "eBay",
    "med": 35,
+   "ratio": 2.92,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943492925",
+   "title": "Vintage wall clock",
+   "price": 60,
+   "area": "greensboro",
+   "url": "https://www.craigslist.org/view/d/burlington-vintage-wall-clock/2nwM5yy53JiyZrdZbDrhUx",
+   "best": "Antique Ships Clocks | Collectors Weekly",
+   "med": 175,
    "ratio": 2.92,
    "ai_value": ""
   },
@@ -12477,6 +12543,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975610613",
+   "title": "Vintage LP Bongos fiberglass",
+   "price": 300,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/diamond-bar-vintage-lp-bongos-fiberglass/fNXaSgiejATBMNoUN8DJX2",
+   "best": "Latin Percussion LP-JRX-DW Junior Wood Conga Set w/ Comfort ...",
+   "med": 690,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7938207775",
    "title": "Native American Sterling silver ring",
    "price": 35,
@@ -13023,6 +13100,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-buck-folding-knife/hj5N7nzXL3ZzCH66Yd3fyH",
    "best": "eBay",
    "med": 130,
+   "ratio": 2.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956236012",
+   "title": "Vintage Stetson Fedora",
+   "price": 30,
+   "area": "humboldt",
+   "url": "https://www.craigslist.org/view/d/arcata-vintage-stetson-fedora/otFBJkGjJC74Td9CHsn8rE",
+   "best": "Size S Fedora/Trilby Vintage Hats for Men for sale | eBay",
+   "med": 65,
    "ratio": 2.17,
    "ai_value": ""
   },
@@ -13918,6 +14006,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983755253",
+   "title": "Navajo Sterling Silver Turquoise Sand Cast Vintage Belt Buckle",
+   "price": 250,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/west-linn-navajo-sterling-silver/ojYRkUXThFWog5LF8sb8BA",
+   "best": "Indian Style Turquoise Concho Large Bag Concho Screw Back - Etsy",
+   "med": 495,
+   "ratio": 1.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7931592455",
    "title": "Sterling silver garnet earrings",
    "price": 25,
@@ -14226,6 +14325,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977567246",
+   "title": "LOT OF 5 Vintage HALLOWEEN NOISE MAKERS",
+   "price": 40,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/deland-lot-of-vintage-halloween-noise/4y8KTGDn6jzP9MMQRPQR3z",
+   "best": "Antique Tin Litho Halloween Witch Pumpkin Wood Handle ...",
+   "med": 75,
+   "ratio": 1.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7953070017",
    "title": "Antique Men's Tie Clip w/ Hallmark",
    "price": 15,
@@ -14475,6 +14585,17 @@
    "url": "https://www.craigslist.org/view/d/palatine-vintage-framed-signed-floral/1kJPCSMJq4YR4RPk6SMxP2",
    "best": "Anew Foods",
    "med": 455,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964886858",
+   "title": "VICTOR YURIVILCA STERLING SILVER PENDENT NECKLACE",
+   "price": 350,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/novato-victor-yurivilca-sterling-silver/tQBJnwRMRCvHpUUt3tX11P",
+   "best": "Coral Angel Skin | eBay",
+   "med": 636,
    "ratio": 1.82,
    "ai_value": ""
   },
@@ -18120,6 +18241,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940166892",
+   "title": "Vintage Indian Bookends",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-indian-bookends/jdCbQkotDgX37cpzNbap4Y",
+   "best": "Vintage 40's Bronze Painted Spelter Pot Metal Native ...",
+   "med": 125,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -19678,6 +19810,17 @@
    "url": "https://www.craigslist.org/view/d/south-plainfield-gold-earrings/rLpW4qwFJ5Cbgvzavq5jJL",
    "best": "Vintage Estate Hoops for Her Twisted Spiral Hoop Earrings ...",
    "med": 349,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954246846",
+   "title": "Vintage Southwestern Clay Pottery, pastel colors, 2 feet high",
+   "price": 50,
+   "area": "up",
+   "url": "https://www.craigslist.org/view/d/loretto-vintage-southwestern-clay/ezNxs2K1kB5hf2cXUFBRi8",
+   "best": "Comanche Land Imports Jar Time III Great Southwest Imports ...",
+   "med": 52,
    "ratio": 1.04,
    "ai_value": ""
   },
@@ -24346,6 +24489,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935843743",
+   "title": "Bracelet Monet",
+   "price": 50,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-bracelet-monet/fkYmm4JqY9cQAqw7Lv21rm",
+   "best": "Monet Vintage Gold Tone Bangles Pair | eBay",
+   "med": 22,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7953643580",
    "title": "10K Yellow Gold \"J\" Pendant | 2.8g",
    "price": 329,
@@ -24412,6 +24566,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956690974",
+   "title": "Vintage BELL Lot Noel 1978 Hummel Crown Staffordshire Bone China Delft",
+   "price": 45,
+   "area": "ocala",
+   "url": "https://www.craigslist.org/view/d/floral-city-vintage-bell-lot-noel-1978/8cX5qa25sgpwEJnkb3Gaqt",
+   "best": "Danbury Mint \"Clapperless\" Collectible Bells- Royal Albert ...",
+   "med": 19,
+   "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7939109606",
    "title": "Men\u2019s watch unknown brand need help identifying it",
    "price": 123,
@@ -24452,6 +24617,17 @@
    "url": "https://www.craigslist.org/view/d/augusta-rainbow-rhinestone-heart/pq77Ufy4hioLRcFoARNRJ6",
    "best": "The Sister's Boutique",
    "med": 20,
+   "ratio": 0.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932944526",
+   "title": "Vintage Charlie Russell paintings lot of three",
+   "price": 300,
+   "area": "bozeman",
+   "url": "https://www.craigslist.org/view/d/belgrade-vintage-charlie-russell/sZMUevMGbD6DgZp2QbnAx2",
+   "best": "CM RUSSELL Vintage 1960 OOP XRare Collotype Western Scene ...",
+   "med": 123,
    "ratio": 0.41,
    "ai_value": ""
   },
@@ -24639,6 +24815,17 @@
    "url": "https://www.craigslist.org/view/d/fresno-nemadji-vase/ikLVFnPhoX5fBcfKzYSeZx",
    "best": "Nemadji Indian Pottery Native Clay Swirl Glaze Vase 6\"h - Etsy",
    "med": 24,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968620214",
+   "title": "2 Turquoise bangles gold plated",
+   "price": 95,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-turquoise-bangles-gold-plated/6gxAyXgUKN7BbTV1NKL7nb",
+   "best": "Amazon | Jewelry Nexus \u30a2\u30ed\u30fc\u30d8\u30c3\u30c9 Follow Your Arrow ...",
+   "med": 35,
    "ratio": 0.37,
    "ai_value": ""
   },
