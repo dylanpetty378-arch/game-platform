@@ -170,3 +170,4 @@
 - novelty-banks: "Big-ear mouse" banks marked ROY DES of FLA (1970) or Huron Products are Topo Gigio knockoffs, not licensed Topo Gigio.
 - beer-trays: West End Brewing Co. Utica NY "Columbia" lady tray is the widely reissued commemorative tray (1970s-80s); $15-30.
 - scandinavian-art-glass: Marcolin Art Crystal (Sweden) small sommerso animals with the silver foil label, 5in fish, about $25-45.
+- maria-martinez-pottery (Oct 15 2026, eBay 377556654389): San Ildefonso black-on-black. Signature dates it: "Marie" (1923–25, Julian painted) > "Marie + Julian" (1925–43) > "Maria + Santana" (1943–56) > "Maria/Popovi" (1956–71). "Marie" is the most-faked mark. Check that the signature is incised before firing and smudged black (not cut through to lighter clay), coil-built with an oval rim, no mold seam. Brunk 4/2026: worn 5.75×8" "Marie" pot, $2,600 hammer. Source: kinggalleries.com/maria-martinez-pottery-signatures

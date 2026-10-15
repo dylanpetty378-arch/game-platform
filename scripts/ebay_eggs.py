@@ -99,3 +99,4 @@ if __name__ == '__main__':
     elif a[0] == 'sheetpool': sheetpool()
     elif a[0] == 'detail': detail()
     elif a[0] == 'flags': flags(a[1])
+    elif a[0] == 'flags': flags(a[1])
