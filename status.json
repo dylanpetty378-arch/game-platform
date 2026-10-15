@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:30:45Z",
+ "updated": "2026-10-15T06:34:29Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11049,
-  "events": 36268,
+  "lens": 11074,
+  "events": 36293,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 603,
-  "flagged": 2349,
-  "lensed": 709
+  "queued": 578,
+  "flagged": 2364,
+  "lensed": 719
  },
  "last_harvests": [
   {
@@ -2497,6 +2497,17 @@
    "best": "eBay",
    "med": 199,
    "ratio": 19.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953922327",
+   "title": "Necklace amethyst",
+   "price": 45,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-necklace-amethyst/3mWBTypNFtiVerU9ztVmqn",
+   "best": "Vintage Pear-shaped Amethyst Crystal Pendant Necklace (9610 ...",
+   "med": 895,
+   "ratio": 19.89,
    "ai_value": ""
   },
   {
@@ -7274,6 +7285,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981834641",
+   "title": "Antique Paillard Mechanical Metronome",
+   "price": 50,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/crystal-lake-antique-paillard/upkG1EQ2nZG2wHMCNorPJ8",
+   "best": "Maelzel E. Paillard & Cie Antique Metronome | eBay",
+   "med": 220,
+   "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7939434221",
    "title": "Signed painting of house with pines",
    "price": 75,
@@ -8198,6 +8220,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974071235",
+   "title": "Vintage Quique 950 Silver Gorgeous Earrings",
+   "price": 65,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-vintage-quique-950-silver/g8SbaPWQLQCfFKQzpSQjAC",
+   "best": "Buy Fabindia Silver Dangler Earrings - (20250791) at Amazon.in",
+   "med": 250,
+   "ratio": 3.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7950642878",
    "title": "Ring Vintage Jade Silver Size 6",
    "price": 250,
@@ -9085,6 +9118,17 @@
    "url": "https://www.craigslist.org/view/d/martins-ferry-antique-bijou-pocket-watch/9phdavyHU1Bv6pPC9H39L7",
    "best": "Facebook",
    "med": 499,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949327018",
+   "title": "Seiko watch",
+   "price": 60,
+   "area": "greensboro",
+   "url": "https://www.craigslist.org/view/d/burlington-seiko-watch/vks6knXTv9EykKNdrSRQF8",
+   "best": "Seiko Kinetic Men's Sport 39mm Two-Tone Steel Black Dial ...",
+   "med": 200,
    "ratio": 3.33,
    "ai_value": ""
   },
@@ -12176,6 +12220,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-beautiful-bali-rosewood/mHS1kMkKHNHAMDySAq6QRW",
    "best": "Etsy",
    "med": 150,
+   "ratio": 2.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933556571",
+   "title": "Mushrooms Signed Beverly Hacket 1979 CA artist",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/mill-valley-mushrooms-signed-beverly/saVzecf8bKKEQJ2LwcYHBC",
+   "best": "M\u00e4rz-Schneckling Hygrophorus marzuolus Farbdruck v. 1965 ...",
+   "med": 231,
    "ratio": 2.31,
    "ai_value": ""
   },
@@ -15590,6 +15645,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961918961",
+   "title": "Unique Black & White Piano Watch",
+   "price": 49,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/mountainside-unique-black-white-piano/2EiJ8JcMoL4QT5EZkGcTXQ",
+   "best": "Vintage St Martin Ticking Piano Keys Watch Black Case New ...",
+   "med": 77,
+   "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7970350491",
    "title": "Art Deco Sterling Bracelet & Earring set",
    "price": 160,
@@ -17174,6 +17240,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983744312",
+   "title": "Mixed Costume Jewelry Earring Lot \u2013 20+ Pairs, 3 Brooches",
+   "price": 18,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/birmingham-mixed-costume-jewelry/fhL8VnY5n41XN2KP3QyRci",
+   "best": "Vintage / Modern Costume Fashion Jewelry Earrings Wearable ...",
+   "med": 24,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -17444,6 +17521,17 @@
    "area": "milwaukee",
    "url": "https://www.craigslist.org/view/d/greendale-80-year-old-tobacco/qLgFTQAEKUVqPapdUvTuwk",
    "best": "Vintage Collectible PRINCE ALBERT CRIMP CUT Tobacco Tin ...",
+   "med": 32,
+   "ratio": 1.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935538540",
+   "title": "Fossil Women's Watch",
+   "price": 25,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-fossil-womens-watch/mF6cycq48b7qdA2TrGLNpq",
+   "best": "Vintage Silver-tone Fossil F2 Watch for Her | Fossil Quartz ...",
    "med": 32,
    "ratio": 1.28,
    "ai_value": ""
@@ -19033,6 +19121,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950146201",
+   "title": "Vintage Sterling silver chain and sterling silver pendant Black onyx",
+   "price": 85,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-sterling-silver-chain/sNySCqdDmCTAi5rs8vtPDb",
+   "best": "HONEY MULTICOLOR CHERRY AMBER STERLING SILVER 3-STONE or ...",
+   "med": 91,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7936654330",
    "title": "Knife Carving Set",
    "price": 50,
@@ -19260,6 +19359,17 @@
    "url": "https://www.craigslist.org/view/d/templeton-vintage-flower-frog-made-by/rXNAaKXjaotfCag578ozhE",
    "best": "de Uberti (Italy) Glass & Silver Flower Frog - BOx | eBay",
    "med": 52,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945172704",
+   "title": "Gold earrings",
+   "price": 335,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/south-plainfield-gold-earrings/rLpW4qwFJ5Cbgvzavq5jJL",
+   "best": "Vintage Estate Hoops for Her Twisted Spiral Hoop Earrings ...",
+   "med": 349,
    "ratio": 1.04,
    "ai_value": ""
   },
@@ -20921,6 +21031,28 @@
    "url": "https://www.craigslist.org/view/d/jordan-guitar-for-sale/ezuSY8Vg1ZMXMGUHhkn9Mm",
    "best": "Craigslist",
    "med": 225,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947756328",
+   "title": "Antique 1800's Ribbon Threader Tool -Victorian Era",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-jose-antique-1800s-ribbon-threader/evRnXb1zD3bCUitwvz3oDb",
+   "best": "Antique Sterling Silver Ribbon Needle Bodkin Ornate Floral ...",
+   "med": 50,
+   "ratio": 0.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944671985",
+   "title": "Two Vintage Advertising Trays",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-two-vintage-advertising/tkPg9UdWiY8BbKwLKwQqhL",
+   "best": "Coca-Cola Vintage Advertising Metal Tray From A 1923 Paper ...",
+   "med": 29,
    "ratio": 0.83,
    "ai_value": ""
   },
@@ -23026,6 +23158,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929622535",
+   "title": "Pink Quartz and Gold-Tone Earrings",
+   "price": 32,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-pink-quartz-and-gold-tone/a6euqUBD5GoW3ppswxy9AK",
+   "best": "14KT Gold Over Silver Genuine Stone Earrings | eBay",
+   "med": 18,
+   "ratio": 0.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7961822934",
    "title": "Set of 15 WW1 Lead Soldiers > Various Poses>Excellent",
    "price": 65,
@@ -23664,6 +23807,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978866765",
+   "title": "1880's antique Dumont pocket watch",
+   "price": 400,
+   "area": "wheeling",
+   "url": "https://www.craigslist.org/view/d/martins-ferry-1880s-antique-dumont/4bZCXX8UBE1EFA2iRUsN7M",
+   "best": "Elgin Natl Watch Co Model 5 Grade 43 Atlas Coin Case Pocket ...",
+   "med": 190,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7937968387",
    "title": "Vintage Gold Tone Cream Enamel Necklace",
    "price": 35,
@@ -23726,6 +23880,17 @@
    "url": "https://www.craigslist.org/view/d/lindenhurst-ladies-sterling-silver/naDFotc6NFZN7PXBsTCmMK",
    "best": "eBay",
    "med": 112,
+   "ratio": 0.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954152913",
+   "title": "vintage hand planes lot of 4",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/novato-vintage-hand-planes-lot-of/etZ55M9TUgJyRok5T4a5FL",
+   "best": "vintage hand wood planes Stanley | eBay",
+   "med": 36,
    "ratio": 0.45,
    "ai_value": ""
   },
