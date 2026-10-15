@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T21:10:47Z
+# Refurbish status — 2026-10-15T21:16:33Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3580 |
-| lensed | 1102 |
-| queued | 578 |
+| flagged | 3671 |
+| lensed | 1111 |
+| queued | 553 |
 | queued/relens | 486 |
 | decided/ask | 80 |
 | decided/kill | 58 |
@@ -24,9 +24,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 - harvests: 15
 - searches: 3514
-- listings: 14608
-- lens: 12674
-- events: 39643
+- listings: 14683
+- lens: 12699
+- events: 39818
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -133,7 +133,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
-## Flagged by Lens, waiting for photo review (3580)
+## Flagged by Lens, waiting for photo review (3671)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -231,6 +231,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00w0w_1sV3ZFoH8Zw_0pO0jm_300x300.jpg" width="120"> | 7959036216 | $60 | nashville | [Gibson Guitars &  Bunch Of Other Stuff](https://www.craigslist.org/view/d/brentwood-gibson-guitars-bunch-of-other/v6uHNYK4AMY4aiVLySEAfx) | Carter Vintage Guitar | 4277 | 71.28 |
 | <img src="https://images.craigslist.org/00I0I_fZowFlsRjGF_0t20CI_300x300.jpg" width="120"> | 7942484163 | $100 | philadelphia | [Cartier bleu watch automatic 42mm](https://www.craigslist.org/view/d/richboro-cartier-bleu-watch-automatic/cGmFEyxuVUXphZLexpDFZo) | Cartier Ballon Bleu De Cartier Automatic Brand New ... | 6995 | 69.95 |
 | <img src="https://images.craigslist.org/00404_3ltCanLYVJW_05a03S_300x300.jpg" width="120"> | 7969750110 | $10 | denver | [Vintage Chinese Ginger Jar with Foo Dogs](https://www.craigslist.org/view/d/littleton-vintage-chinese-ginger-jar/q7JYfstAWBo8g2jroASJ2b) | Antique 19th Century Qing Dynasty Foo Dog Kamcheng ... | 695 | 69.5 |
+| <img src="https://images.craigslist.org/00N0N_a9mIk06ZuLM_0lM0t2_300x300.jpg" width="120"> | 7984018806 | $30 | tucson | [NECKLACE~DESIGNER Karine Sultan Long~Gold Plated](https://www.craigslist.org/view/d/tucson-necklacedesigner-karine-sultan/fwgtD3Gd7hyFkHnFzNH1ef) | Karine Sultan Paris Gold Tone Chunky Textured Chain Necklace | 2026 | 67.53 |
 | <img src="https://images.craigslist.org/00C0C_5a5ZEb1u6iv_0hu0gi_300x300.jpg" width="120"> | 7933871811 | $25 | chicago | [NEW Sterling Ring](https://www.craigslist.org/view/d/chicago-new-sterling-ring/my8SzaNHFCM2aDUXPymHUr) | eBay | 1675 | 67 |
 | <img src="https://images.craigslist.org/01717_75tn3KA1dMb_0jm0pO_300x300.jpg" width="120"> | 7954502050 | $12 | washingtondc | [Fashion Gold Square Earrings](https://www.craigslist.org/view/d/centreville-fashion-gold-square-earrings/hUeJGrNdWawe7LeqPxe3XJ) | Robin Rotenier / Jewelry / Robin Rotenier 8k Yellow Gold ... | 788 | 65.67 |
 | <img src="https://images.craigslist.org/00l0l_fV5PN7DOyZQ_0CI0t2_300x300.jpg" width="120"> | 7949573802 | $1 | boston | [Vintage Silver Sugar Serving Tongs](https://www.craigslist.org/view/d/boston-vintage-silver-sugar-serving/9DdKqNMtKPBrbKmeWvBGkq) | Craigslist | 65 | 65 |
@@ -258,4 +259,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00J0J_4D4luEub8CS_0t20CI_300x300.jpg" width="120"> | 7930220345 | $30 | austin | [COLLEEN LINDSAY ETCHING](https://www.craigslist.org/view/d/austin-colleen-lindsay-etching/nAeVQfgg77i8YhwHLGTYNM) | The Oblist | 1603 | 53.43 |
 | <img src="https://images.craigslist.org/00w0w_gZqBe2wPQx0_0CI0t2_300x300.jpg" width="120"> | 7936285064 | $75 | hartford | [Lot of antique tools](https://www.craigslist.org/view/d/west-simsbury-lot-of-antique-tools/6siCNp67qUy3scnnddC1VP) | 1906 Antique Pine Carpenters Tool Chest Trunk Strong Box ... | 4000 | 53.33 |
 | <img src="https://images.craigslist.org/00j0j_8Q73XFjhqrJ_0t20CI_300x300.jpg" width="120"> | 7931909724 | $20 | santabarbara | [Gold pocket watch](https://www.craigslist.org/view/d/summerland-gold-pocket-watch/g8xCckmuaPkLBZaNrSSioq) | 1975 Vintage Wittnauer Gold Plated Pocket Watch Floral ... | 1039 | 51.95 |
-| <img src="https://images.craigslist.org/00r0r_iN3GdUdZIki_0t20CI_300x300.jpg" width="120"> | 7935589650 | $25 | sfbay | [Vase](https://www.craigslist.org/view/d/san-jose-vase/dwD54QdacBQWA1BwDXecKY) | Signed Lithograph "Spirit Horse" by Artist Woody Crumbo for  | 1286 | 51.44 |
