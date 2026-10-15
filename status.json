@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:12:38Z",
+ "updated": "2026-10-15T01:16:38Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10549,
-  "events": 34967,
+  "lens": 10574,
+  "events": 34992,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 303,
-  "flagged": 1953,
-  "lensed": 606
+  "queued": 278,
+  "flagged": 1968,
+  "lensed": 616
  },
  "last_harvests": [
   {
@@ -3060,6 +3060,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952817723",
+   "title": "New fashion-themed costume charm bracelet 7.5\" long",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-new-fashion-themed-costume-charm/5kYckSM5ftTLXzwRJJ5xpW",
+   "best": "Charm Bracelet, 16 Charms, Black Charms, Lobster Clasp ...",
+   "med": 315,
+   "ratio": 12.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7945560669",
    "title": "Diamond earrings",
    "price": 75,
@@ -4178,6 +4189,17 @@
    "url": "https://www.craigslist.org/view/d/oak-brook-art-sondra-wompler/x3oBL3camzHSXXZDnZYvNF",
    "best": "eBay",
    "med": 122,
+   "ratio": 8.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957602263",
+   "title": "PICTURE WINE AND CHEESE",
+   "price": 45,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-picture-wine-and-cheese/pLRY83rTMPzxHUhiqgEe3w",
+   "best": "Still Life With Wine. Choose artworks. Paintings, art ...",
+   "med": 366,
    "ratio": 8.13,
    "ai_value": ""
   },
@@ -5821,6 +5843,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983614004",
+   "title": "1990\u2019s Handmade Southwestern Native American Pottery",
+   "price": 20,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/tacoma-1990s-handmade-southwestern/3KvavPEP8eLbncC3FkjBAB",
+   "best": "Cylinder Vase Ceramic - Etsy Singapore",
+   "med": 100,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -6191,6 +6224,17 @@
    "url": "https://www.craigslist.org/view/d/east-rochester-antique-vintage-mandolin/fFJAc9CLY7mvrF4UUhbC61",
    "best": "eBay",
    "med": 225,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968233640",
+   "title": "Rosewood & Sterling Silver Bracelet",
+   "price": 30,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/jackson-heights-rosewood-sterling/ihKWQXR63jMca3fdrkdWbB",
+   "best": "Stunning retired Silpada B1662 sterling 925 Rosewood Bangle ...",
+   "med": 135,
    "ratio": 4.5,
    "ai_value": ""
   },
@@ -9792,6 +9836,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947589914",
+   "title": "Vintage Ceramic Porcelain Chinese Buddha W/Children",
+   "price": 40,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/westminster-vintage-ceramic-porcelain/6Wz5cScq8UiLzuxqLK7nGP",
+   "best": "8.25\" Vintage Chinese Enameled & Painted Porcelain Hotei ...",
+   "med": 99,
+   "ratio": 2.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7951810082",
    "title": "Antique 800 Silver FG part of pocket watch",
    "price": 95,
@@ -12223,6 +12278,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931010994",
+   "title": "Vintage Elf Pixie Pin by CYVRA",
+   "price": 45,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/mooresville-vintage-elf-pixie-pin-by/eEnVkyMDxPYfA5WVoXwpDi",
+   "best": "VINTAGE STERLING SILVER FAIRY BROOCH PIN EARRING SET ABALONE ...",
+   "med": 80,
+   "ratio": 1.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7942746542",
    "title": "Vintage Lightning Bolt Stones Necklace",
    "price": 40,
@@ -12340,6 +12406,28 @@
    "url": "https://www.craigslist.org/view/d/grosse-ile-vintage-watermelon-crystal/wsgFFEcxCHnuAskMZWHHii",
    "best": "Etsy",
    "med": 35,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951592004",
+   "title": "Vintage Ricnor pocket knife",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-ricnor-pocket-knife/6oupmvvZRbW5oXK7JHCy97",
+   "best": "Vintage Camillus Electrician's Folding Pocket Knife USA | eBay",
+   "med": 35,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934638013",
+   "title": "Antique Sugar Bowl",
+   "price": 8,
+   "area": "peoria",
+   "url": "https://www.craigslist.org/view/d/peoria-antique-sugar-bowl/bjuBjAYdCXvxnB9Nhyy463",
+   "best": "Jeannette Cube Cubist Pink Depression Glass Double Handled ...",
+   "med": 14,
    "ratio": 1.75,
    "ai_value": ""
   },
@@ -16667,6 +16755,39 @@
    "ai_value": ""
   },
   {
+   "pid": "7934272149",
+   "title": "Antique Copenhagen metal sign",
+   "price": 120,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-copenhagen-metal-sign/oPdGBayGAt6t3qML4vxwcv",
+   "best": "COPENHAGEN Tastes Better Porcelain Like Sign Tobacco ...",
+   "med": 120,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973800218",
+   "title": "Vintage off white rose earrings, 17mm across",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-off-white-rose-earrings/dpf8FXkCE4tNXasrQwMWqd",
+   "best": "925 Sterling Silver Stud White Coral Flower Camellia Earrings ...",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947305715",
+   "title": "Kay Banjo- Eagle",
+   "price": 300,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/enfield-kay-banjo-eagle/wYFxomLihoRKzSzMNCKjyE",
+   "best": "Kay 5 String RIVERBOAT BANJO 18-Bracket with Resonator ...",
+   "med": 300,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -16949,6 +17070,17 @@
    "url": "https://www.craigslist.org/view/d/rochester-vintage-canteen/aLaVWXCjymEYjZdCpuCGKv",
    "best": "eBay",
    "med": 28,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953050076",
+   "title": "Vintage 48\" silver tone Byzantine wallet / purse chain",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-48-silver-tone-byzantine/sXFb8GW5yoUs8FdVGzmH8v",
+   "best": "Vintage Fine Jewelry Chain Necklace 925 Sterling Silver ...",
+   "med": 14,
    "ratio": 0.93,
    "ai_value": ""
   },
@@ -17279,6 +17411,17 @@
    "url": "https://www.craigslist.org/view/d/sculpture-metal-vintage-28-tall/ufdsChNVvJCwmxVDY4yFMV",
    "best": "Craigslist",
    "med": 88,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7956205705",
+   "title": "VINTAGE ARTHUR ARMOUR",
+   "price": 40,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/monaca-vintage-arthur-armour/78KvXLPHm4VVxgQ5sKZgfn",
+   "best": "Arthur Arnold Hammered Aluminum Gold Tray | Mercari",
+   "med": 35,
    "ratio": 0.88,
    "ai_value": ""
   },
@@ -20594,6 +20737,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953254898",
+   "title": "Mother of Pearl Flower Diamond Necklace",
+   "price": 120,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-mother-of-pearl-flower-diamond/bfG1q2scme323MA2sFYoN9",
+   "best": "Silver Plumeria Diamond Pendant | Honolulu Jewelry Company",
+   "med": 28,
+   "ratio": 0.23,
+   "ai_value": ""
+  },
+  {
    "pid": "7961378814",
    "title": "Vintage 1981 ToyTime Inc. Wizard of Oz dolls set Of 3",
    "price": 60,
@@ -21964,6 +22118,17 @@
    "area": "portland",
    "url": "https://www.craigslist.org/view/d/tualatin-sterling-st-vincent/6DhZgWY9vE5iAJnDRbeXri",
    "best": "Open Box Sterling by Music Man St. Vincent Electric Guitar ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954147531",
+   "title": "Vintage Lot of Fine Ceramic Collectables",
+   "price": 115,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-lot-of-fine-ceramic/1h8hU3oqBBjHz49UUPuchM",
+   "best": "Aynsley Cottage Garden, Howard's Sprays & Royal Albert ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
