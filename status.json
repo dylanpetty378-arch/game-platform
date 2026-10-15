@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:52:24Z",
+ "updated": "2026-10-15T15:56:21Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12299,
-  "events": 38431,
+  "lens": 12324,
+  "events": 38456,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 153,
-  "flagged": 3290,
-  "lensed": 1017
+  "queued": 128,
+  "flagged": 3297,
+  "lensed": 1035
  },
  "last_harvests": [
   {
@@ -10529,6 +10529,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930901446",
+   "title": "2 1/2\" Sterling HOOP Earrings",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-hoop-earrings/uSpKPoPsq761gQ9oTPYVgA",
+   "best": "PERFECT Hoop Earrings in 18K Rose Gold Over Sterling Silver ...",
+   "med": 147,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932471543",
    "title": "Vintage 925/Gold vermeil Etruscan Aquamarine and Pearl Earrings, EXCEL",
    "price": 30,
@@ -11472,6 +11483,17 @@
    "best": "Sold at Auction: Vintage 1930's - 1950's Lot of 24 Mixed ...",
    "med": 95,
    "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7957525409",
+   "title": "TWO BEAUTIFUL VINTAGE SIGNED PAINTED TERRACOTTA VASES FROM CUSCO -PERU",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-two-beautiful-vintage-signed/hgyQH3ugoQrZMjtgQTinVr",
+   "best": "SOLD!!!\ud83d\udd38\ud83c\udf31\u2666\ufe0fVintage Handmade Tiny/Mini Peruvian Pottery ...",
+   "med": 189,
+   "ratio": 3.78,
    "ai_value": ""
   },
   {
@@ -15970,6 +15992,17 @@
    "url": "https://www.craigslist.org/view/d/troy-lovely-shell-necklace/gnuYsidfmFSYhhucVbjucS",
    "best": "eBay",
    "med": 25,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954915033",
+   "title": "Guiseppe Armani Capodimonte Figurine",
+   "price": 30,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/mount-prospect-guiseppe-armani/tJH9F7VAzSSJqWowiSqCpM",
+   "best": "Capodimonte \"Sister & Brother\" Italian Porcelain Figurine by ...",
+   "med": 75,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -29493,6 +29526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969751085",
+   "title": "Vintage Lunchboxes",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/manassas-vintage-lunchboxes/oXaBVjFFjjtbeURq94idmQ",
+   "best": "Vintage Sesame Street Metal Lunch Box Used Aladdin 1979 | eBay",
+   "med": 40,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7970700624",
    "title": "Vintage Goebel Praying Angel Figurine",
    "price": 19,
@@ -31667,6 +31711,17 @@
    "url": "https://www.craigslist.org/view/d/columbus-new-10k-gold-blue-topaz-cross/bJtbEXdQRP9v29zSomsAG2",
    "best": "Vintage CJI 14K Gold Cross Pierced Stud Earrings New | eBay",
    "med": 95,
+   "ratio": 0.59,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936776127",
+   "title": "Movado Watch",
+   "price": 300,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/glenham-movado-watch/nVJQUAyYkXC8kHTFqnySUC",
+   "best": "25+ Movado Roman Numerals Wristwatches for sale | Updated ...",
+   "med": 176,
    "ratio": 0.59,
    "ai_value": ""
   },
@@ -36671,6 +36726,28 @@
    "area": "dothan",
    "url": "https://www.craigslist.org/view/d/dothan-vintage-piece-japanese-samauri/eevmMAhqh7KdapCjDLMMTk",
    "best": "41\" BLUE CLOUD Premium Gold Japanese Samurai Ninja Sword ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945387500",
+   "title": "Cary Grant Grace Kelly Vintage Framed Photo",
+   "price": 30,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/richboro-cary-grant-grace-kelly-vintage/fdPSKM2h6bSthKX3rsD8La",
+   "best": "Vintage To Catch A Thief Movie Production Still Available For ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952808985",
+   "title": "Zippo folding knife",
+   "price": 40,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-zippo-folding-knife/4DzpW9wVNzLRXvu3ydyvjY",
+   "best": "Zippo Pocketknife Collectible Vintage Factory Manufactured ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
