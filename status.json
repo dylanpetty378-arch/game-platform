@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:40:38Z",
+ "updated": "2026-10-15T21:44:38Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12849,
-  "events": 40042,
+  "lens": 12874,
+  "events": 40067,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 403,
-  "flagged": 3699,
-  "lensed": 1159
+  "queued": 378,
+  "flagged": 3718,
+  "lensed": 1165
  },
  "last_harvests": [
   {
@@ -1491,6 +1491,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983941565",
+   "title": "Vintage Lizard Skin Ladies Dress Watchband",
+   "price": 35,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/vintage-lizard-skin-ladies-dress/7gsYcoTUkr67zWhfwFGk4v",
+   "best": "eBay",
+   "med": 2494,
+   "ratio": 71.26,
+   "ai_value": ""
+  },
+  {
    "pid": "7942484163",
    "title": "Cartier bleu watch automatic 42mm",
    "price": 100,
@@ -1499,6 +1510,17 @@
    "best": "Cartier Ballon Bleu De Cartier Automatic Brand New ...",
    "med": 6995,
    "ratio": 69.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979255301",
+   "title": "Vintage Violin case empty",
+   "price": 60,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-vintage-violin-case-empty/tmHGzpgvJVYGpmhiTLpSig",
+   "best": "Imperial Vintage Guitars",
+   "med": 4190,
+   "ratio": 69.83,
    "ai_value": ""
   },
   {
@@ -7013,6 +7035,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951470286",
+   "title": "Very Large Hand Painted Porcelain Vase",
+   "price": 150,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/castro-valley-very-large-hand-painted/kXtbZaNgufFeQPYeXLDXqW",
+   "best": "Leboncoin",
+   "med": 1247,
+   "ratio": 8.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7953841196",
    "title": "Original vintage watercolor, Indiana Farm",
    "price": 30,
@@ -7362,6 +7395,17 @@
    "best": "Miniature Majestic Falls Painting on Canvas, Fine Art ...",
    "med": 350,
    "ratio": 7.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955283570",
+   "title": "Antique Italian Handmade Floral Ceramic Basket",
+   "price": 20,
+   "area": "fortcollins",
+   "url": "https://www.craigslist.org/view/d/fort-collins-antique-italian-handmade/miyYpRh4uaALZwJVYyRHDF",
+   "best": "eBay",
+   "med": 155,
+   "ratio": 7.75,
    "ai_value": ""
   },
   {
@@ -9917,6 +9961,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984050444",
+   "title": "Girl Planter",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/petaluma-girl-planter/urQFcP3ScqDYvPpBTUJhuj",
+   "best": "eBay",
+   "med": 79,
+   "ratio": 5.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7953268108",
    "title": "Hummels each",
    "price": 20,
@@ -11578,6 +11633,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934461407",
+   "title": "Mouse Tales",
+   "price": 10,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/spring-valley-mouse-tales/1DJAsuoHtB27AgwSXpEvsC",
+   "best": "Poshmark",
+   "med": 43,
+   "ratio": 4.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978097712",
    "title": "BARBARA A. WOOD",
    "price": 175,
@@ -12553,6 +12619,17 @@
    "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-framed-print-by/twNWZ7WYUypokMA2xjwxg9",
    "best": "Etsy",
    "med": 140,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977907134",
+   "title": "(1960-1970s): Westclox \"Bull's Eye\" Pocket Watch: (Working!)",
+   "price": 10,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-westclox-bulls-eye-pocket-watch/kLRmyGZKZkpWSnEBEf93US",
+   "best": "eBay",
+   "med": 40,
    "ratio": 4,
    "ai_value": ""
   },
@@ -14603,6 +14680,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935378623",
+   "title": "Vintage Blue and White Chinoiserie Pitcher",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/sterling-vintage-blue-and-white/q8Pao4nCJRAUUhGqWDgsWo",
+   "best": "Craigslist",
+   "med": 49,
+   "ratio": 3.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7936662894",
    "title": "14k Yellow Gold Fancy Puffy STUD EARRINGS",
    "price": 429,
@@ -15259,6 +15347,17 @@
    "url": "https://www.craigslist.org/view/d/munroe-falls-sterling-silver-pendant/3YrJTdC6VrDprdqV8FoNpN",
    "best": "Poshmark",
    "med": 108,
+   "ratio": 3.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983989241",
+   "title": "Vintage Leatherman Pocket Survival Tool / Multi-Tool",
+   "price": 45,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-leatherman-pocket/g1Nrwb7xTJjhQhUWYBKRTx",
+   "best": "Craigslist",
+   "med": 139,
    "ratio": 3.09,
    "ai_value": ""
   },
@@ -18211,6 +18310,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942698810",
+   "title": "Meister Anker 632.602 digital watch",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/lake-oswego-meister-anker-digital-watch/pJZPzyboWRbZGySc6By4kZ",
+   "best": "eBay",
+   "med": 98,
+   "ratio": 2.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7980988860",
    "title": "Vintage Yale Locks and Assorted Key Collection",
    "price": 45,
@@ -19751,6 +19861,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979976567",
+   "title": "Jewelry Swarovski rhinestone bead costume",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/coventry-jewelry-swarovski-rhinestone/pXnGQHGsqNPh1cJt75yztH",
+   "best": "eBay",
+   "med": 44,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7954241639",
    "title": "Sterling Onyx Bracelet Mexico Old Heavy",
    "price": 150,
@@ -21177,6 +21298,17 @@
    "url": "https://www.craigslist.org/view/d/whites-creek-tennessee-dancing-man/bwCUfznhqNzwohrXKpHCnq",
    "best": "Vintage Folk Art Primitive Wood Kinetic Toy Boy Girl Jumps ...",
    "med": 20,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979392215",
+   "title": "30 Vintage Pez Dispensers",
+   "price": 30,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-30-vintage-pez-dispensers/m6TFiTvT1x4KKw1cpFUNz6",
+   "best": "Craigslist",
+   "med": 60,
    "ratio": 2,
    "ai_value": ""
   },
@@ -26307,6 +26439,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940207472",
+   "title": "Vintage Armitron and Westclox Manual Wind Watches sold together",
+   "price": 25,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-vintage-armitron-and-westclox/xojHpKxREckx5ucQEzrbaw",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7943810904",
    "title": "Handcrafted Studio Pottery Ceramic Shot Glass",
    "price": 18,
@@ -31213,6 +31356,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963054725",
+   "title": "16 pieces Vintage beautiful Carnival glass set",
+   "price": 99,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/penney-farms-16-pieces-vintage/kxCsxU4RtzDxnrg8RPVXUa",
+   "best": "eBay",
+   "med": 95,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7954817436",
    "title": "Vintage Fragonard Lot of 2 Brooches Porcelain Romantic Scene & Gold Tr",
    "price": 22,
@@ -33303,6 +33457,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972475442",
+   "title": "Mojotone bv25 8 ohm and 16ohm",
+   "price": 90,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-mojotone-bv25-ohm-and-16ohm/99VJykkyQZkc1rwbw29VER",
+   "best": "Guitar Center",
+   "med": 70,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7983183432",
    "title": "Reduced! Vintage Natural London Blue Topaz & Diamond 14K Gold Ring",
    "price": 485,
@@ -35382,6 +35547,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956284132",
+   "title": "Mario C\u00e9spedes Seoane Signed Lithograph #2",
+   "price": 250,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/goleta-mario-cspedes-seoane-signed/nKkmoDm8e2aY55uyU6ZB8x",
+   "best": "Etsy",
+   "med": 150,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7969703721",
    "title": "Banjo - 5 String with Case",
    "price": 425,
@@ -35631,6 +35807,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-victorian-era-straight-razor/ekyTJSyeZ27eLnU6oZaN7t",
    "best": "Antilles Trading Company",
    "med": 23,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958800350",
+   "title": "1960s ART Moonstone Brooch",
+   "price": 120,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-1960s-art-moonstone-brooch/qMYn3eZJnFit69rQuKyDga",
+   "best": "Etsy",
+   "med": 68,
    "ratio": 0.57,
    "ai_value": ""
   },
@@ -36687,6 +36874,17 @@
    "url": "https://www.craigslist.org/view/d/woodland-vintage-coca-cola-green-stuff/tRfjWtBXH8e4xB5xPYEvs1",
    "best": "eBay",
    "med": 33,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7958735445",
+   "title": "1950s Crown Trifari Pearls Leaves Brooch",
+   "price": 80,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-1950s-crown-trifari-pearls/2BQK47wyyrGQpp7Fo5X9PU",
+   "best": "The RealReal",
+   "med": 38,
    "ratio": 0.47,
    "ai_value": ""
   },
@@ -37842,6 +38040,17 @@
    "url": "https://www.craigslist.org/view/d/staten-island-sekova-vintage-guitar/dxrdRK4J4VkHWrWCbkmdCP",
    "best": "Reverb",
    "med": 130,
+   "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964320230",
+   "title": "***********************ANTIQUES, COLLECTIBLES, VINTAGE COSTUME JEWELRY",
+   "price": 100,
+   "area": "pueblo",
+   "url": "https://www.craigslist.org/view/d/pueblo-antiques-collectibles-vintage/iKAKqikzZduibPnzD4UypH",
+   "best": "Vintage Imperial Crystal Clear Candlewick Set of 4 Cups ...",
+   "med": 33,
    "ratio": 0.33,
    "ai_value": ""
   },
