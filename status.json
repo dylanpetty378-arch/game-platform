@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:19:30Z",
+ "updated": "2026-10-15T07:23:13Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11349,
-  "events": 36568,
+  "lens": 11374,
+  "events": 36593,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 303,
-  "flagged": 2578,
-  "lensed": 780
+  "queued": 278,
+  "flagged": 2599,
+  "lensed": 784
  },
  "last_harvests": [
   {
@@ -6790,6 +6790,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946605210",
+   "title": "The Chicago Cubs 1988-2018 Baseball Collectibles Stuff",
+   "price": 20,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-the-chicago-cubs-baseball/w7LV5y6b5ov5K35vbbmWWj",
+   "best": "Chicago Cubs \u201c2016 World Series Champions\u201d Framed Stack ...",
+   "med": 107,
+   "ratio": 5.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7963246140",
    "title": "Vintage Goldette NY Bracelet Gold Tone",
    "price": 15,
@@ -8528,6 +8539,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933480464",
+   "title": "GEISHA  DOLL===IT,S AMAZZZZING",
+   "price": 80,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/granite-bay-geisha-dollits-amazzzzing/eDT9iiXK2XGPVeJktU7FZT",
+   "best": "Glantiques",
+   "med": 326,
+   "ratio": 4.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7949402790",
    "title": "ELLE Jewelry 925 Sterling Double 2-Piece LOVE / DITTO Pendant Necklace",
    "price": 54,
@@ -9262,6 +9284,17 @@
    "best": "Michael's Thrift Shop | eBay Stores",
    "med": 275,
    "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973899428",
+   "title": "Vintage Danish Bornholm Vase",
+   "price": 150,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-danish-bornholm/9vnk7BKonHKXPWYLaJ5scq",
+   "best": "Metropol Auktioner",
+   "med": 549,
+   "ratio": 3.66,
    "ai_value": ""
   },
   {
@@ -11003,6 +11036,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952912969",
+   "title": "vintage camera",
+   "price": 40,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-vintage-camera/84HyCHjyCM2UAruK2cWA9b",
+   "best": "eBay",
+   "med": 120,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -11859,6 +11903,17 @@
    "med": 175,
    "ratio": 2.69,
    "ai_value": "Sold at Auction: Antique Korean Celadon Vase $160"
+  },
+  {
+   "pid": "7931006138",
+   "title": "Vintage Park Lane Gold Tone 18\" Chain & Etched Rose Pendant Signed",
+   "price": 13,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/belmont-vintage-park-lane-gold-tone-18/7mXbSAzzEXtUNmEcHTPmJN",
+   "best": "Etsy",
+   "med": 35,
+   "ratio": 2.69,
+   "ai_value": ""
   },
   {
    "pid": "7936434686",
@@ -13621,6 +13676,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982202618",
+   "title": "Vintage Maytag Oil Can",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-maytag-oil-can/aUzDoV8nPxC1u7sdsi7MZp",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 2.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7983135315",
    "title": "NEW 14K Gold Ruby and Diamond Ring",
    "price": 190,
@@ -14398,6 +14464,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-elbaite/wMqG6sjeDvq8z1rDMKEBKw",
    "best": "Art Deco Style Garnet & Marcasite Multi Gemstone Ornate ...",
    "med": 81,
+   "ratio": 2.02,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949240047",
+   "title": "Vintage STETSON HAT BOX",
+   "price": 49,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-stetson-hat-box/o2czGiX2eyrainVNRzJ6F8",
+   "best": "Gem",
+   "med": 99,
    "ratio": 2.02,
    "ai_value": ""
   },
@@ -16888,6 +16965,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956971897",
+   "title": "7 vintage made in Japan plates",
+   "price": 25,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/cranford-vintage-made-in-japan-plates/8xvqbKXPdwxaiPdrfWbYMq",
+   "best": "eBay",
+   "med": 40,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -17082,6 +17170,17 @@
    "url": "https://www.craigslist.org/view/d/mountainside-unique-black-white-piano/2EiJ8JcMoL4QT5EZkGcTXQ",
    "best": "Vintage St Martin Ticking Piano Keys Watch Black Case New ...",
    "med": 77,
+   "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945172781",
+   "title": "Gold wedding band",
+   "price": 225,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-gold-wedding-band/4jxwWGkD8QHdv17hRuSYpr",
+   "best": "Etsy",
+   "med": 353,
    "ratio": 1.57,
    "ai_value": ""
   },
@@ -17731,6 +17830,17 @@
    "url": "https://www.craigslist.org/view/d/buffalo-crystal-costume-jewelry-pieces/6wHNcfZUt9GUbekqjFbLeH",
    "best": "Discover 97 Otis Company In RI, 1943-1970 and brooch pin ...",
    "med": 149,
+   "ratio": 1.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960495530",
+   "title": "Ruby 925 sterling bracelet",
+   "price": 80,
+   "area": "fresno",
+   "url": "https://www.craigslist.org/view/d/fresno-ruby-925-sterling-bracelet/hzyWjD5WZkQHGDCwuitmgb",
+   "best": "Craigslist",
+   "med": 119,
    "ratio": 1.49,
    "ai_value": ""
   },
@@ -19964,6 +20074,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-ring-with-pink-stone-18k-ge/ndtFZsVYokZAs576bs55aV",
    "best": "Etsy",
    "med": 65,
+   "ratio": 1.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966788219",
+   "title": "Sterling Silver Mother Bell Pendant",
+   "price": 40,
+   "area": "wilmington",
+   "url": "https://www.craigslist.org/view/d/wilmington-sterling-silver-mother-bell/4CEpmiLZwL2cToHQF9gGvF",
+   "best": "eBay",
+   "med": 47,
    "ratio": 1.18,
    "ai_value": ""
   },
@@ -22355,6 +22476,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930330240",
+   "title": "Vintage United Knife Made in Japan",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-united-knife-made/sT18LW3nRd9twB8ixMBeJb",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7983199305",
    "title": "Sterling Silver Ring - New",
    "price": 45,
@@ -22406,6 +22538,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-lia-sophia-fold-out/bnYjDko7tA97TmWBFaeVMG",
    "best": "eBay",
    "med": 17,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952429449",
+   "title": "Lennox heart collection with Embossed Rose",
+   "price": 35,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-lennox-heart-collection-with/e1gpwBpqv6xKgucbDAwWVg",
+   "best": "eBay",
+   "med": 31,
    "ratio": 0.89,
    "ai_value": ""
   },
@@ -23158,6 +23301,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7960781163",
+   "title": "Vintage Crystal Champagne Glasses - Lot of 8",
+   "price": 112,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/san-clemente-vintage-crystal-champagne/cyVLCNWawpLTrdHWou4g6p",
+   "best": "eBay",
+   "med": 90,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978468812",
+   "title": "Little People Disney Lot Of  7",
+   "price": 15,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-little-people-disney-lot-of/bSJXwQCgXPHrwnCnNNs1ki",
+   "best": "Fisher Price Little People Mixed Lot Of 24 Figures Animals ...",
+   "med": 12,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7970700624",
    "title": "Vintage Goebel Praying Angel Figurine",
    "price": 19,
@@ -23275,6 +23440,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-vintage-birch-tree-mid-century/aASNbJG4EJKPAQVLs2DSub",
    "best": "eBay",
    "med": 195,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954890593",
+   "title": "lot of 4 knives",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/novato-lot-of-knives/eVRDPCEa1Z6CkmspAggknY",
+   "best": "eBay",
+   "med": 39,
    "ratio": 0.78,
    "ai_value": ""
   },
@@ -26106,6 +26282,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7982370612",
+   "title": "Massive Coin Collection",
+   "price": 100,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/olympia-massive-coin-collection/tT4ngMqq26ZGXk8RBnM44A",
+   "best": "eBay",
+   "med": 44,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968889377",
+   "title": "collection of vintage hippie jewelry sold as a lot",
+   "price": 80,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-rafael-collection-of-vintage-hippie/wq4iiFd286Tc1XoNYE3auJ",
+   "best": "Lot Of 7 Vintage /Now Artisan Necklaces, Stones, Glass, Etc ...",
+   "med": 35,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7953643580",
    "title": "10K Yellow Gold \"J\" Pendant | 2.8g",
    "price": 329,
@@ -26810,6 +27008,17 @@
    "ai_value": "Price Dollhouses (1963-Now) | eBay $12"
   },
   {
+   "pid": "7946595398",
+   "title": "Raggedy Ann & Andy Vintage Antique 1969 Clown Circus Home Decor",
+   "price": 100,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-raggedy-ann-andy-vintage/q2h5DmMvJTCuoRhbfLF8d4",
+   "best": "eBay",
+   "med": 30,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7983165459",
    "title": "Great Football Card Lot",
    "price": 75,
@@ -27347,6 +27556,17 @@
    "med": 15,
    "ratio": 0.19,
    "ai_value": ""
+  },
+  {
+   "pid": "7936379194",
+   "title": "THESE DRAWINGS FOR SALE",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/bellflower-these-drawings-for-sale/5f4NxmyP1WoFV6132P4neq",
+   "best": "Steven Montgomery (@orislmggrkk) \u2022 Facebook",
+   "med": 15,
+   "ratio": 0.19,
+   "ai_value": "priced at $80"
   },
   {
    "pid": "7954379451",
@@ -28840,6 +29060,17 @@
    "area": "austin",
    "url": "https://www.craigslist.org/view/d/kyle-santo-domingo-thunderbird-necklace/aaWVyezPdhk99B7pdLsZty",
    "best": "Lawrence Jeffrey",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954896296",
+   "title": "Folk Art Carved Painted Bird Collection",
+   "price": 65,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/riverdale-folk-art-carved-painted-bird/ixVXA71k312TANiwQ5CNJ9",
+   "best": "Vintage Wooden Hand Carved Golden Finch With Wire Legs And ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
