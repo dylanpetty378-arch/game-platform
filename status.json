@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:43:55Z",
+ "updated": "2026-10-15T07:47:48Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11499,
-  "events": 36718,
+  "lens": 11524,
+  "events": 36743,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 153,
-  "flagged": 2691,
-  "lensed": 817
+  "queued": 128,
+  "flagged": 2708,
+  "lensed": 825
  },
  "last_harvests": [
   {
@@ -594,6 +594,17 @@
    "best": "Tiffany & Co. 14K Yellow Gold Detailed Flared Textured ...",
    "med": 500,
    "ratio": 500,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931006890",
+   "title": "Vintage Napier Gold Tone 17\" Necklace Costume Jewelry",
+   "price": 12,
+   "area": "grandrapids",
+   "url": "https://www.craigslist.org/view/d/belmont-vintage-napier-gold-tone-17/tKMwYuQp8cbHr4Q3QNNWYn",
+   "best": "10k Yellow Gold Chino Chain Solid Link Necklace 9mm 22\"-26 ...",
+   "med": 5640,
+   "ratio": 470,
    "ai_value": ""
   },
   {
@@ -2060,6 +2071,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947698706",
+   "title": "Antique pottery bowl native American style",
+   "price": 15,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-antique-pottery-bowl-native/kWmGKpHpB8j51xs7AnXS2G",
+   "best": "Red Starr | Native American Pottery",
+   "med": 475,
+   "ratio": 31.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7948770419",
    "title": "Ceramic Tea Pot",
    "price": 4,
@@ -2310,6 +2332,17 @@
    "best": "Etsy",
    "med": 2475,
    "ratio": 24.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983730203",
+   "title": "Antique Gilbert Alarm Clock",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-antique-gilbert-alarm-clock/1UizksGGx2wpLWwSNB3W6u",
+   "best": "Gilbert Wooden Mantle Clock, 1930s (for Restoration) - Etsy ...",
+   "med": 245,
+   "ratio": 24.5,
    "ai_value": ""
   },
   {
@@ -3024,6 +3057,17 @@
    "url": "https://www.craigslist.org/view/d/rockville-vintage-recorder-flute-made/6Y6TAWj8MotZVMcg5YvYfi",
    "best": "Disney Beauty/Beast book + Plastic Xylotune Flute Soprano ...",
    "med": 168,
+   "ratio": 16.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967174385",
+   "title": "Robert Kennedy.. portrait",
+   "price": 50,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/west-hollywood-robert-kennedy-portrait/6iujwuqPB4yHqY5TzSmtH8",
+   "best": "The Birdcage. Movie Poster for Sale in West Hollywood, CA ...",
+   "med": 840,
    "ratio": 16.8,
    "ai_value": ""
   },
@@ -4282,6 +4326,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939528438",
+   "title": "Antique or Vintage Gilt Framed Signed Oil Painting of Sheep",
+   "price": 400,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/palatine-antique-or-vintage-gilt-framed/oCWKzGP9ZgHwXtSw4gkhM6",
+   "best": "Vintage-Framed-Painting-of-Sheep-by-a-Stream-Signed-by-A ...",
+   "med": 4475,
+   "ratio": 11.19,
+   "ai_value": ""
+  },
+  {
    "pid": "7982339847",
    "title": "Persian signed Miniature painting",
    "price": 89,
@@ -4906,6 +4961,17 @@
    "best": "eBay",
    "med": 374,
    "ratio": 9.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983780384",
+   "title": "Vintage 1979 Canadian Geese Montana Frame",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wrentham-vintage-1979-canadian-geese/6HfX7AKWi93zuxQtPm51uG",
+   "best": "Wendy Morgan Auction Results: Historical Sales Records",
+   "med": 140,
+   "ratio": 9.33,
    "ai_value": ""
   },
   {
@@ -8858,6 +8924,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952580473",
+   "title": "Gold band",
+   "price": 495,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-gold-band/5RsgtVnR5coKmqfFy7TJAh",
+   "best": "14K Gold Princess Cut CZ Wedding Band - Size 5 - Etsy",
+   "med": 1999,
+   "ratio": 4.04,
+   "ai_value": ""
+  },
+  {
    "pid": "7965506973",
    "title": "Vintage Asian Woman figurine, excellent condition",
    "price": 49,
@@ -10420,6 +10497,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976198814",
+   "title": "19 Vintage Avon Collectibles-All for $22",
+   "price": 22,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/englewood-19-vintage-avon-collectibles/dBJGRGvgMxezjLMcLpZwVo",
+   "best": "Avon Perfume/cologne Lot | eBay",
+   "med": 73,
+   "ratio": 3.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7973590614",
    "title": "Hawaii Landscape Wall Hanging",
    "price": 20,
@@ -11443,6 +11531,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930506245",
+   "title": "Necklace / Matching Ear Rings and Watch",
+   "price": 15,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/butler-necklace-matching-ear-rings-and/2VA7F8paNt9DmTHw8bycbT",
+   "best": "Vintage 1980's Costume Gold With Rhinestones Necklace ...",
+   "med": 45,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -12418,6 +12517,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-kohala-ukulele-probably/5oKbGsg2Fj89ds9m4gioB7",
    "best": "Clearance Fender Montecito Tenor Ukulele with Gig Bag ...",
    "med": 199,
+   "ratio": 2.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951146490",
+   "title": "Diamond ring",
+   "price": 425,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-diamond-ring/rAHg6TQmgjXezrV1UWEb1U",
+   "best": "Vintage Ring, 0.20 CT Princess Cut Natural Diamond, 10k ...",
+   "med": 1125,
    "ratio": 2.65,
    "ai_value": ""
   },
@@ -15524,6 +15634,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942356795",
+   "title": "Vintage Tiffany Lapis and Silver Ring With 18K Highlights",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-tiffany-lapis-and/bDanUyBev4D7tWY641nrrN",
+   "best": "Tiffany&co 18k Gold Sterling Silver Ring With Lapis\u2713 | eBay",
+   "med": 495,
+   "ratio": 1.98,
+   "ai_value": ""
+  },
+  {
    "pid": "7931908310",
    "title": "Victorinox Women's Watch",
    "price": 99,
@@ -16147,6 +16268,17 @@
    "url": "https://www.craigslist.org/view/d/plainfield-14-wedding-band/1ZvHbaDjAEsoT1yUaGK3F1",
    "best": "Etsy",
    "med": 414,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7928680539",
+   "title": "1921 Morgan Dollar Pendant",
+   "price": 75,
+   "area": "roanoke",
+   "url": "https://www.craigslist.org/view/d/martinsville-1921-morgan-dollar-pendant/pcyQUnzAszt6UchBTsKHzi",
+   "best": "Mint State 1921 BU Morgan Silver Dollar PCS Coins Slabbed ...",
+   "med": 138,
    "ratio": 1.84,
    "ai_value": ""
   },
@@ -18802,6 +18934,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978341264",
+   "title": "Salt Glazed Antique Crock",
+   "price": 225,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/ashland-salt-glazed-antique-crock/teFzcNhvhPPDGM7MWwHNDA",
+   "best": "Bargain John's Antiques | Antique 4 Gallon Salt Glaze Red ...",
+   "med": 325,
+   "ratio": 1.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7971725919",
    "title": "Earrings w/Phenomenal New Zealand Shell",
    "price": 35,
@@ -21288,6 +21431,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949327195",
+   "title": "Sterling silver men's bracelet",
+   "price": 425,
+   "area": "greensboro",
+   "url": "https://www.craigslist.org/view/d/burlington-sterling-silver-mens-bracelet/ouTniJanYJr42RkNE1CYBZ",
+   "best": "Byzantine Bracelet Double Chain Solid Sterling Silver Woven ...",
+   "med": 475,
+   "ratio": 1.12,
+   "ai_value": ""
+  },
+  {
    "pid": "7979462421",
    "title": "Custom handmade turquoise ring",
    "price": 65,
@@ -21372,6 +21526,17 @@
    "url": "https://www.craigslist.org/view/d/dover-givenchy-necklace-rhinestone/tFKDxyEKbM2smic8WTnFdx",
    "best": "Kim Rogers Jewelry Glass Rhinestones - Necklace | eBay",
    "med": 100,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931978680",
+   "title": "Vintage Camera   + light bar",
+   "price": 45,
+   "area": "nwct",
+   "url": "https://www.craigslist.org/view/d/watertown-vintage-camera-light-bar/vbuEgoreMusBhRMgDKnZzz",
+   "best": "Kodak Vollenda 620 Art Deco Folding Camera Kodar 1:6.3 f ...",
+   "med": 50,
    "ratio": 1.11,
    "ai_value": ""
   },
@@ -25424,6 +25589,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981516332",
+   "title": "Lot of 7 Watches",
+   "price": 150,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/peoria-lot-of-watches/fRNo7y2kywynCRgGa8ft8z",
+   "best": "Lot of Vintage Quartz Wristwatch Watch Bands Snake Bangle ...",
+   "med": 99,
+   "ratio": 0.66,
+   "ai_value": ""
+  },
+  {
    "pid": "7949674847",
    "title": "3 bags full variety fashion rings",
    "price": 100,
@@ -28323,6 +28499,17 @@
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/falls-church-tetsuro-sawada-signed/9MJwLpgBu638HGHdnrbM7W",
    "best": "Mutual Art",
+   "med": 100,
+   "ratio": 0.22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950351015",
+   "title": "10 K gold lady\u2019s ring",
+   "price": 450,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/south-plainfield-10-gold-ladys-ring/qiqVahjyhhiM4Fqq8TRokt",
+   "best": "Anillo...I want my wedding ring to look like this!!!",
    "med": 100,
    "ratio": 0.22,
    "ai_value": ""
