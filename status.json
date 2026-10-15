@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:07:11Z",
+ "updated": "2026-10-15T21:10:47Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14608,
-  "lens": 12649,
-  "events": 39618,
+  "lens": 12674,
+  "events": 39643,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 9,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 603,
-  "flagged": 3560,
-  "lensed": 1097
+  "queued": 578,
+  "flagged": 3580,
+  "lensed": 1102
  },
  "last_harvests": [
   {
@@ -6826,6 +6826,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974355356",
+   "title": "asian statute",
+   "price": 20,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/golden-asian-statute/hWGEAhp3EsCAuSyhEKu3z7",
+   "best": "Glass Fish Bowl with Wood Holder Transparent Round Desktop ...",
+   "med": 165,
+   "ratio": 8.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7960927353",
    "title": "Antique clock collection",
    "price": 195,
@@ -10060,6 +10071,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963770663",
+   "title": "Vintage 1/20 14K Gold Geometric Hob\u00e9 Pin, Signed",
+   "price": 95,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-gold-geometric-hob-pin/e4pYfMxx1eHXPZGVphJCo8",
+   "best": "Rare Vintage 1/20 14K Gold Geometric Hob\u00e9 Pin, Signed - Etsy",
+   "med": 465,
+   "ratio": 4.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7960030260",
    "title": "Vintage Horseshoe Stud Earring Gold Filled Small",
    "price": 25,
@@ -11655,6 +11677,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949725969",
+   "title": "Beaded Blue-Gold necklace",
+   "price": 17,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/redwood-estates-beaded-blue-gold/mpzeSaaLTt49TeBPhSqVxr",
+   "best": "Cadoro Vintage Signed Statement Beaded Pendant Necklace | eBay",
+   "med": 69,
+   "ratio": 4.06,
+   "ai_value": ""
+  },
+  {
    "pid": "7973921094",
    "title": "Vintage silver plate 3 piece serving set",
    "price": 21,
@@ -12876,6 +12909,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971991965",
+   "title": "Luna Concert Tribal  Ukulele",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-luna-concert-tribal/jsEpZTeWMRqPesbhQ4vQfa",
+   "best": "Vintage Mahogany Tenor Ukulele Satin Natural | Guitar Center",
+   "med": 145,
+   "ratio": 3.63,
+   "ai_value": ""
+  },
+  {
    "pid": "7942637201",
    "title": "1966 Ladies Omega 14K Gold Filled Watch",
    "price": 205,
@@ -13668,6 +13712,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957889453",
+   "title": "VINTAGE PAISTE 15\u201d SUPER THIN CRASH CYMBAL",
+   "price": 49,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-paiste-15-super/irAip1rcpwS8AAikZq7YgG",
+   "best": "Vintage 20\" Avedis Zildjian Turkish Cymbal Keyhole 2630 ...",
+   "med": 165,
+   "ratio": 3.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7974693465",
    "title": "Vintage Alfred Dunhill cast iron rotating ashtray",
    "price": 25,
@@ -14434,6 +14489,17 @@
    "url": "https://www.craigslist.org/view/d/olympia-vintage-rice-pearl-and-14k/khZgziLAjE9VpRLMArLX4N",
    "best": "Craigslist",
    "med": 299,
+   "ratio": 3.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976082792",
+   "title": "Vintage Deruta Italy Vase",
+   "price": 100,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-vintage-deruta-italy-vase/huLbH4EQjZFCvSvom7ervZ",
+   "best": "Alba Mexico Pottery - Etsy",
+   "med": 315,
    "ratio": 3.15,
    "ai_value": ""
   },
@@ -16187,6 +16253,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951381833",
+   "title": "Herter\u2019s Canadian Filet Knife",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/woodland-hills-herters-canadian-filet/9jjZ2fXerg7cP3fK4iZuHK",
+   "best": "VINTAGE HERTER's Inc Wood Handle Fish Knife Leather Sheath ...",
+   "med": 68,
+   "ratio": 2.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7954565090",
    "title": "\ud83d\udc8eAntique Victorian 14k Gold & Diamond FILIGREE PIN  \ud83d\udc8e",
    "price": 399,
@@ -16216,6 +16293,17 @@
    "url": "https://www.craigslist.org/view/d/asheville-vintage-antique-tribal/tboVV1YbDVgHZqFL5r9dtv",
    "best": "Moroccan antique lower grade silver Cinnabar Jewish head ...",
    "med": 95,
+   "ratio": 2.71,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983971145",
+   "title": "Hardware Rhinestones Necklace",
+   "price": 55,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-hardware-rhinestones-necklace/qLpzcGYho1npwYdd3zme14",
+   "best": "BCBGMaxAzria | Jewelry | Bcbg Max Azria Smokey Rhinestone ...",
+   "med": 149,
    "ratio": 2.71,
    "ai_value": ""
   },
@@ -18420,6 +18508,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932294553",
+   "title": "Vintage Iridescent Elegant Pearl Necklace",
+   "price": 50,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/costa-mesa-vintage-iridescent-elegant/nuFbBxvh9GEDT6fPftZDJ2",
+   "best": "Classy Vtg Carolee Large Faux Pearl gold tone l necklace | eBay",
+   "med": 115,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7938207775",
    "title": "Native American Sterling silver ring",
    "price": 35,
@@ -19021,6 +19120,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-african-ebony-carving/4LeQaxV51m2d6Cct4VVtc9",
    "best": "eBay",
    "med": 98,
+   "ratio": 2.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931169122",
+   "title": "Antique Sternau Coffee Machine",
+   "price": 55,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/piermont-antique-sternau-coffee-machine/8vUnMuzGCjXVo7X55g2oEz",
+   "best": "Antique S Sternau & Co Copper Brass Coffee Machine Tea Pot ...",
+   "med": 120,
    "ratio": 2.18,
    "ai_value": ""
   },
@@ -20550,6 +20660,17 @@
    "url": "https://www.craigslist.org/view/d/plainfield-14-gold-lifes-tree-charm/8nLVV2Uv9kykhUuL2gqBsq",
    "best": "Etsy",
    "med": 925,
+   "ratio": 1.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970472726",
+   "title": "Costume jewelry",
+   "price": 20,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/garden-grove-costume-jewelry/arf1idqSomxmZY2BddqXhd",
+   "best": "You & I Signed Chunky Black Beaded Tear Drop Silver Tone ...",
+   "med": 39,
    "ratio": 1.95,
    "ai_value": ""
   },
@@ -23300,6 +23421,17 @@
    "url": "https://www.craigslist.org/view/d/methuen-maltese-cross-silver-tone/vJJQpUUoYMUGUyNXawZUUF",
    "best": "eBay",
    "med": 32,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939956638",
+   "title": "Vintage Swank Cuff Links with Tie Tack",
+   "price": 25,
+   "area": "southcoast",
+   "url": "https://www.craigslist.org/view/d/westport-vintage-swank-cuff-links-with/1GkHBQMLEhjXdecUGDqqEq",
+   "best": "Vintage Mens Jewelry Raspberry Pink Lucite Moonglow SWANK ...",
+   "med": 40,
    "ratio": 1.6,
    "ai_value": ""
   },
@@ -26802,6 +26934,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984037979",
+   "title": "VINTAGE JEWELRY",
+   "price": 20,
+   "area": "wyoming",
+   "url": "https://www.craigslist.org/view/d/vintage-jewelry/hxgq2a3UP1bgB5gVLgcLf3",
+   "best": "Lot 9 Chain Bracelets Mesh Flat Rope Copper Korea 18K GP ...",
+   "med": 25,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -28287,6 +28430,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928812615",
+   "title": "Vintage elegant rhinestone 2\"L brooch pin vgc",
+   "price": 45,
+   "area": "athensohio",
+   "url": "https://www.craigslist.org/view/d/logan-vintage-elegant-rhinestone-2l/vq3EKmymzv8q1TAz6HvnB8",
+   "best": "Vintage Tiered Pink Rhinestone and Pink Enameled Aurora ...",
+   "med": 50,
+   "ratio": 1.11,
+   "ai_value": ""
+  },
+  {
    "pid": "7962599217",
    "title": "Two pendants",
    "price": 20,
@@ -28459,6 +28613,17 @@
    "url": "https://www.craigslist.org/view/d/minneapolis-turquoise-sterling-ring/8R82BWyZiKcmZjXBEisReL",
    "best": "Craigslist",
    "med": 22,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951735982",
+   "title": "Mens sterling silver black onyx bracelet",
+   "price": 150,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/leawood-mens-sterling-silver-black-onyx/pSBKZfF7CGFEboqTGRbxSK",
+   "best": "Onyx Bracelet - Etsy",
+   "med": 165,
    "ratio": 1.1,
    "ai_value": ""
   },
@@ -29063,6 +29228,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/los-gatos-vintage-tissot-watches-quartz/kgfyipbRrdogDgeUE51Zhh",
    "best": "Craigslist",
+   "med": 102,
+   "ratio": 1.02,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983927921",
+   "title": "Antique camera",
+   "price": 100,
+   "area": "nmi",
+   "url": "https://www.craigslist.org/view/d/fairview-antique-camera/gqCRKvKFy9E8PBArZebCAa",
+   "best": "camera Ihagee: EXA,Jena TESSAR 2,8/50mm.Lens | eBay",
    "med": 102,
    "ratio": 1.02,
    "ai_value": ""
@@ -29790,6 +29966,17 @@
    "url": "https://www.craigslist.org/view/d/denver-collection-of-gold-silver-bangle/mY9Bp1DawjdNKefSRtZw9W",
    "best": "eBay",
    "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951782283",
+   "title": "Vintage Mexican sterling silver brooch earrings",
+   "price": 125,
+   "area": "kansascity",
+   "url": "https://www.craigslist.org/view/d/leawood-vintage-mexican-sterling-silver/dSVb32aPWn3qAk9xiMPzDY",
+   "best": "Mexican Sterling Silver DOUBLE SIDED Pendant Mayan Calendar ...",
+   "med": 125,
    "ratio": 1,
    "ai_value": ""
   },
@@ -38011,6 +38198,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941647236",
+   "title": "***** XL-LARGE VINTAGE BEANIE BABY COLLECTION *****",
+   "price": 375,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/washoe-valley-xl-large-vintage-beanie/g9Ht2qEkBpuBrLAVAkWUMR",
+   "best": "Craigslist",
+   "med": 7,
+   "ratio": 0.02,
+   "ai_value": ""
+  },
+  {
    "pid": "7954968709",
    "title": "Vintage Art Deco Style HAMILTON Wristwatch with MASONIC Dial",
    "price": 150,
@@ -39645,6 +39843,28 @@
    "area": "sandiego",
    "url": "https://www.craigslist.org/view/d/escondido-vintage-pipe-collection/dc3k4KmDDgQrzc7o3Kwfbp",
    "best": "Invaluable.com",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954481807",
+   "title": "Vintage Colonial Master Barlow Pocket Knife 5\u201d",
+   "price": 45,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-vintage-colonial-master-barlow/mFVfKunTtdRr98xAzZbpx4",
+   "best": "Vintage Colonial Master Barlow Stainless Steel Clip Point ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955060699",
+   "title": "Mexican Bass Guitarron",
+   "price": 40,
+   "area": "littlerock",
+   "url": "https://www.craigslist.org/view/d/jacksonville-mexican-bass-guitarron/xakVjNrJUabnf3CaA3EQLh",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""
