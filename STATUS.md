@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T14:10:59Z
+# Refurbish status — 2026-10-15T14:16:27Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,12 +6,12 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| photo_review/kill | 8880 |
-| flagged | 2820 |
+| photo_review/kill | 8935 |
+| flagged | 2845 |
 | lensed | 863 |
-| queued | 778 |
+| queued | 753 |
 | queued/relens | 485 |
-| decided/ask | 77 |
+| decided/ask | 82 |
 | decided/kill | 49 |
 | photo_review/ask | 17 |
 | expired | 16 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13783
-- lens: 11674
-- events: 37704
+- lens: 11699
+- events: 37789
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -39,7 +39,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - craigslist-20261015-0511 — 82709 listings, 81951 new, 800 queued
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 
-## Finds and open leads (85)
+## Finds and open leads (90)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -128,8 +128,13 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/01717_h0VDZ8Vd8Uz_0hU0CI_300x300.jpg" width="160"> | [Vintage 21” Crash Cymbal](https://www.craigslist.org/view/d/reading-vintage-21-crash-cymbal/dz7wb13tAaBnqsnFuNn5xi) | $90 | boston | **decided/ask** — text-triage F5: 21in old B20-looking cymbal, NO brand visible in any of 4 photos; Lens "Istanbul Agop" unverified (mismatch). Ask: photo of any stamp/ink on top and underside near the bell and edge (Zildjian trans-stamp/ |
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
+|  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Chinese bronze tripod censer, compressed body, loop handles, ruyi-lappet band, single-character 宣 (Xuan) mark in round recess; 10.5 cm, 481 g; probably late Qing/Republic, apocryphal Xuande mark — |
+|  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Japanese kakejiku, rooster & hen with morning glory, ink & color on paper, signed 秋堂 (Shudo) with seal; competent Meiji/early Showa Shijo-style bird-and-flower painting — Quality hand painting (no |
+|  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Hiroshige I, Vertical Tokaido (Gojusan tsugi meisho zue) no.13 'Numazu, Ashigarayama Fuji no yukibare', 1855 design; title wrongly says Hiroshige II / 36 Views of Fuji — Edition unproven. The clos |
+|  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
+|  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (2820)
+## Flagged by Lens, waiting for photo review (2845)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -187,6 +192,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00z0z_7RsWle2O7md_0jt0gU_300x300.jpg" width="120"> | 7983248475 | $10 | daytona | [Vintage - (New) Chinese Tea Pot](https://www.craigslist.org/view/d/deland-vintage-new-chinese-tea-pot/kzwBuugbzEKfWy74M1noCz) | MT465 Vintage Red Ceramic Watch Tower Teapot Swords And ... | 995 | 99.5 |
 | <img src="https://images.craigslist.org/00101_ilMZZ5xDp9b_07K0ak_300x300.jpg" width="120"> | 7948536907 | $18 | newyork | [Green Pendant Necklace](https://www.craigslist.org/view/d/new-york-green-pendant-necklace/jtPaouY9MjYDG2pRRqvZ5q) | Vintage Large Cloisonné Yellow Green Heart Beaded Jade ... | 1750 | 97.22 |
 | <img src="https://images.craigslist.org/00101_5LXc3XXewoF_0t20CI_300x300.jpg" width="120"> | 7979444442 | $5 | fortwayne | [Horseshoe Clover Jewelry Charm](https://www.craigslist.org/view/d/south-bend-horseshoe-clover-jewelry/n4nDmrjhv3mTLUZ7Yw8G3r) | Your Trusted Source for Jewelry - Pendants & Necklaces ... | 480 | 96 |
+| <img src="https://images.craigslist.org/00V0V_6mj5eWknwQx_0ix0ev_300x300.jpg" width="120"> | 7938058451 | $25 | chicago | [Blue Sterling Ring size 6](https://www.craigslist.org/view/d/chicago-blue-sterling-ring-size/16UqFqepx4UwddAVVeyxRU) | 18K Gold Over Sterling Silver Aquamarine and Diamond Ring .. | 2378 | 95.12 |
 | <img src="https://images.craigslist.org/00r0r_3U0aZ72p2Kz_0CI0t2_300x300.jpg" width="120"> | 7968030888 | $1 | lasvegas | [Vintage Handmade Lot 18 Costume Jewelry Rings Neck](https://www.craigslist.org/view/d/las-vegas-vintage-handmade-lot-18/eJgavmjhpbFBdMGL6MjWms) | Vintage to Now Wearable Costume Jewelry Necklaces Bracelets  | 93 | 93 |
 | <img src="https://images.craigslist.org/00v0v_57ZwpC4X5yx_0CI0t2_300x300.jpg" width="120"> | 7981923351 | $1 | philadelphia | [Old Bisque Figure](https://www.craigslist.org/view/d/collegeville-old-bisque-figure/oCp2Zp8Y9vfzrofjDV22Cy) | Craigslist | 90 | 90 |
 | <img src="https://images.craigslist.org/01616_fSX5qkj24l1_0lR0t2_300x300.jpg" width="120"> | 7963921788 | $65 | cnj | [Sterling silver size 7 ring](https://www.craigslist.org/view/d/cranford-sterling-silver-size-ring/qVt15gedoSPtS84ykyjZkJ) | His & Hers 18K RGP Rings Size 7 & 8.5 / eBay | 5733 | 88.2 |
@@ -254,4 +260,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00w0w_10kIz4jlfNP_0t20CI_300x300.jpg" width="120"> | 7949369207 | $10 | honolulu | [Asian Vase](https://www.craigslist.org/view/d/honolulu-asian-vase/27vnYJ6yrf1qu9aPrFTuBg) | Cloisonne Enamel Flower and Pot design Chinese ... | 440 | 44 |
 | <img src="https://images.craigslist.org/01414_fKLIzDyhJTa_0rZ0t2_300x300.jpg" width="120"> | 7946095244 | $15 | desmoines | [Costume jewelry decorations earrings ring necklace](https://www.craigslist.org/view/d/urbandale-costume-jewelry-decorations/9JkThSmy7UTXsTR9YDoG9z) | Mixed Lot Pre-Owned Sterling Silver .925 Women's Jewelry ... | 650 | 43.33 |
 | <img src="https://images.craigslist.org/00I0I_hl0J72Gzscc_0t20CI_300x300.jpg" width="120"> | 7945774545 | $35 | seattle | [Vintage Sterling Silver & CZ Eternity Ring](https://www.craigslist.org/view/d/olympia-vintage-sterling-silver-cz/pTPEHBJkHavenmt7D4ke3e) | Etsy | 1516 | 43.31 |
-| <img src="https://images.craigslist.org/00h0h_d4JZLiALhIE_0iE0j0_300x300.jpg" width="120"> | 7948313336 | $40 | charlotte | [Iced Out Cuban & Coffee Link Bracelet](https://www.craigslist.org/view/d/charlotte-iced-out-cuban-coffee-link/21PMcxKXUXfo6o9KQn4oiD) | Apzzic 17mm Miami Cuban Link Chain Bling Iced Out Coffee ... | 1697 | 42.42 |

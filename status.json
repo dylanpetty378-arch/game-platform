@@ -1,28 +1,28 @@
 {
- "updated": "2026-10-15T14:10:59Z",
+ "updated": "2026-10-15T14:16:27Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11674,
-  "events": 37704,
+  "lens": 11699,
+  "events": 37789,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 8880,
+  "photo_review/kill": 8935,
   "comps/pass": 1,
   "queued/relens": 485,
-  "decided/ask": 77,
+  "decided/ask": 82,
   "decided/bundle": 5,
   "decided/kill": 49,
   "expired": 16,
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 778,
-  "flagged": 2820,
+  "queued": 753,
+  "flagged": 2845,
   "lensed": 863
  },
  "last_harvests": [
@@ -1055,6 +1055,17 @@
    "best": "Your Trusted Source for Jewelry - Pendants & Necklaces ...",
    "med": 480,
    "ratio": 96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938058451",
+   "title": "Blue Sterling Ring size 6",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-blue-sterling-ring-size/16UqFqepx4UwddAVVeyxRU",
+   "best": "18K Gold Over Sterling Silver Aquamarine and Diamond Ring ...",
+   "med": 2378,
+   "ratio": 95.12,
    "ai_value": ""
   },
   {
@@ -4490,6 +4501,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945761682",
+   "title": "10K & Sterling Diamond & Pearl Pendant",
+   "price": 85,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-10k-sterling-diamond-pearl/m86EDWp4456C1nc2RAB9N3",
+   "best": "Etsy",
+   "med": 950,
+   "ratio": 11.18,
+   "ai_value": ""
+  },
+  {
    "pid": "7952920881",
    "title": "Project Les Paul (lefty)",
    "price": 100,
@@ -5777,6 +5799,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962672489",
+   "title": "Korean Traditional Pottery/Ceramics/Crafts",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/chatsworth-korean-traditional-pottery/kQQ6Ynkgvs9FkdWkdJFXL6",
+   "best": "Etsy",
+   "med": 779,
+   "ratio": 7.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7948581518",
    "title": "Gold Metal and Pearls Beaded Necklace",
    "price": 45,
@@ -6327,6 +6360,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983887442",
+   "title": "Vintage Taxco Mexico Sterling Silver Sunburst Clip Earrings",
+   "price": 95,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-taxco-mexico-sterling/gqBUjqtwd53rVjQyiHTMQe",
+   "best": "Heirloom Vintage JFG Mexico Guadalajara Sterling Silver Onyx ...",
+   "med": 629,
+   "ratio": 6.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7970772840",
    "title": "Vintage Cloisonne Vase  - Toyo Marbella by Macau",
    "price": 15,
@@ -6488,6 +6532,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-oktoberfest-beer-steins/aDsKZoPnSzs7D2CUheu4rz",
    "best": "eBay",
    "med": 76,
+   "ratio": 6.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947088821",
+   "title": "Extra Fancy Vintage Blue Rhinestone Bracelet",
+   "price": 15,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/fair-oaks-extra-fancy-vintage-blue/jjobNgxFrwt2xewXBMrF6i",
+   "best": "Vintage Signed Lisner Ruby Red AB Gold Tone Flower Choker ...",
+   "med": 95,
    "ratio": 6.33,
    "ai_value": ""
   },
@@ -6927,6 +6982,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-hedi-schoop/jnASqSJhEuxPjP7NW16RTv",
    "best": "Hedi Schoop Pottery - Etsy",
+   "med": 149,
+   "ratio": 5.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983847059",
+   "title": "Vintage Native American Sterling Turquoise Ring Size 4 3/4",
+   "price": 25,
+   "area": "albany",
+   "url": "https://www.craigslist.org/view/d/troy-vintage-native-american-sterling/vpSasSJ9f5kVA7LJKp1Lui",
+   "best": "eBay",
    "med": 149,
    "ratio": 5.96,
    "ai_value": ""
@@ -8007,6 +8073,17 @@
    "best": "Karen Karnes - Cut-lid jar - Capsule Auctions",
    "med": 395,
    "ratio": 4.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966122513",
+   "title": "Costume jewelry lot",
+   "price": 40,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/new-port-richey-costume-jewelry-lot/hz3H73t8GSaB8s9mJXmhrY",
+   "best": "eBay",
+   "med": 197,
+   "ratio": 4.92,
    "ai_value": ""
   },
   {
@@ -10749,6 +10826,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983893532",
+   "title": "Vintage Mt Hood Watercolor Painting Signed Dated 1951",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/vancouver-vintage-mt-hood-watercolor/8B32BGjoMEDX1Smq8kL3Rj",
+   "best": "Original Watercolor Landscape Painting of Mount Hood Oregon ...",
+   "med": 135,
+   "ratio": 3.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7974693465",
    "title": "Vintage Alfred Dunhill cast iron rotating ashtray",
    "price": 25,
@@ -13378,6 +13466,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7934296792",
+   "title": "Sterling Link Bracelet",
+   "price": 55,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-link-bracelet/aZS83ZCRQ4cmb3gax3anDt",
+   "best": "eBay",
+   "med": 140,
+   "ratio": 2.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7983186024",
    "title": "Reduced! Vintage Natural Rhodolite Garnet and Diamond 14K Gold Ring",
    "price": 495,
@@ -13781,6 +13880,17 @@
    "url": "https://www.craigslist.org/view/d/boise-lia-sophia-multi-color-beautiful/dfWxh6jXbPiqwHzxcMrULE",
    "best": "eBay",
    "med": 30,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950711438",
+   "title": "Navajo turquoise sterling silver bracelet",
+   "price": 60,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-navajo-turquoise-sterling-silver/53Jhcs4uj42NzVyBNfQuN9",
+   "best": "Etsy",
+   "med": 150,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -17349,6 +17459,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7952274100",
+   "title": "Vintage Art Deco Faceted Rock Crystal Necklace",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-vintage-art-deco-faceted/pncQrBqTAq7geBBk9nCe5z",
+   "best": "Craigslist",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954729666",
+   "title": "Lot of 8 Gold-Tone Virgin Mary Necklaces \u2013 Adjustable 16\u201318.5\u201d Chains",
+   "price": 10,
+   "area": "corvallis",
+   "url": "https://www.craigslist.org/view/d/albany-lot-of-gold-tone-virgin-mary/sYkjPciAzprQLqxdoxhedc",
+   "best": "1pc Necklace & Pendant, 1pair Earrings Set Gold-color Arab ...",
+   "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -17723,6 +17855,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983894477",
+   "title": "Vintage Jade Butterfly Necklace",
+   "price": 145,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-vintage-jade-butterfly-necklace/5iDwhQiJpdZ3wBA1ET4kyv",
+   "best": "Etsy",
+   "med": 250,
+   "ratio": 1.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7948668528",
    "title": "Sterling silver bracelet with sqares",
    "price": 35,
@@ -18080,6 +18223,28 @@
    "price": 15,
    "area": "boise",
    "url": "https://www.craigslist.org/view/d/boise-vintage-where-the-heart-is-brooch/tduugLNwLQt7nKfRxhxdPG",
+   "best": "eBay",
+   "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966125759",
+   "title": "Necklace",
+   "price": 15,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/new-berlin-necklace/1iNERrSfE8YXMGvCpA3B96",
+   "best": "Craigslist",
+   "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929592795",
+   "title": "Sterling Heart Pendant",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-heart-pendant/wrTsQ2dj8Fis4aMs566CwW",
    "best": "eBay",
    "med": 25,
    "ratio": 1.67,
@@ -18830,6 +18995,28 @@
    "url": "https://www.craigslist.org/view/d/vintage-seashell-pearl-and-gold-beaded/uyRoQrowzRv5ZRoABtsfHi",
    "best": "Antique Edwardian Carved Mother of Pearl 'pendant' Necklace ...",
    "med": 25,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936206096",
+   "title": ".14k Gold Filled CAT Earrings",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-14k-gold-filled-cat-earrings/3RfFcb6ZWDtMfZmucDLwSu",
+   "best": "Amazon.com",
+   "med": 39,
+   "ratio": 1.56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946719476",
+   "title": "Antique Porcelain Face German Anniversary Clock",
+   "price": 80,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/augusta-antique-porcelain-face-german/sDUvuBHKU1azj72weo5TuC",
+   "best": "Vintage EURAMCA TRADING CO Made in Germany Anniversary Clock ...",
+   "med": 125,
    "ratio": 1.56,
    "ai_value": ""
   },
@@ -20946,6 +21133,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959061290",
+   "title": "Vintage 17\"Rosewood Civil War Era Flute",
+   "price": 50,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/augusta-vintage-17rosewood-civil-war/xgrxBbxR3S8NA38o4eqkWD",
+   "best": "The Metropolitan Museum of Art",
+   "med": 65,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7948156780",
    "title": "Vintage Blue Enamel Earrings",
    "price": 31,
@@ -21404,6 +21602,17 @@
    "url": "https://www.craigslist.org/view/d/sunset-beach-jester-pendant-necklace/9cVZLz3UBJcah2m4xzjpjm",
    "best": "Vintage Magnifier Necklace - Etsy",
    "med": 100,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978028088",
+   "title": "Vintage WW2 pilot statue",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/burbank-vintage-ww2-pilot-statue/kGWA9pGb9kAHDyMdGKs7QB",
+   "best": "eBay",
+   "med": 25,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -22394,6 +22603,17 @@
    "url": "https://www.craigslist.org/view/d/somersworth-vintage-lenox-triad/7RqT2K83ZpJWSsPqMg4ocV",
    "best": "eBay",
    "med": 17,
+   "ratio": 1.13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933326488",
+   "title": "Sterling Silver Cubic Zirconia Necklace",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-silver-cubic-zirconia/6ue1zYogYqb1M5CfyEGSdS",
+   "best": "Bourne End Auction Rooms",
+   "med": 85,
    "ratio": 1.13,
    "ai_value": ""
   },
@@ -25005,6 +25225,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952282524",
+   "title": "STEMWARE (ANTIQUE, 1926) 28 PIECES",
+   "price": 40,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/concord-stemware-antique-pieces/qB5F5wggbNPFEfYutqLLQw",
+   "best": "3 Vtg Etched Crystal Wine Glasses Leaves & Dots Near Rim | eBay",
+   "med": 34,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7931818139",
    "title": "Vintage Anne Klein Jewelry",
    "price": 200,
@@ -25595,6 +25826,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-vintage-brown-beige-seeds-with/m78Z78G1ANRHTzFteot5hU",
    "best": "eBay",
    "med": 25,
+   "ratio": 0.78,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982101866",
+   "title": "Postage Stamp in Sterling Silver, Necklace Set",
+   "price": 55,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/stillwater-postage-stamp-in-sterling/u13SqNUFbvRXgS9EWyc9WL",
+   "best": "Etsy",
+   "med": 43,
    "ratio": 0.78,
    "ai_value": ""
   },
@@ -27975,6 +28217,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983880050",
+   "title": "Vintage Chinese Carved Bone Necklace",
+   "price": 70,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/epping-vintage-chinese-carved-bone/kgQSPm4PubPajNG8FH7w3S",
+   "best": "eBay",
+   "med": 36,
+   "ratio": 0.51,
+   "ai_value": ""
+  },
+  {
    "pid": "7929442757",
    "title": "MICKEY MOUSE WATCH",
    "price": 50,
@@ -28202,6 +28455,17 @@
    "url": "https://www.craigslist.org/view/d/martins-ferry-antique-1895-waltham/afPVwoDe8unXZX4UmhqPE5",
    "best": "ANTIQUE HAMPDEN 18S ART DECO POCKET WATCH RUNS WELL EARLY ...",
    "med": 220,
+   "ratio": 0.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983862395",
+   "title": "Native American Pocket watch",
+   "price": 100,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/chesapeake-native-american-pocket-watch/uHtCwXvwQgptS7Vf718aWL",
+   "best": "GeraldBlack.com",
+   "med": 49,
    "ratio": 0.49,
    "ai_value": ""
   },
@@ -31504,6 +31768,17 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7936438865",
+   "title": "Austrian Crystal Sterling Silver Ring size 6",
+   "price": 45,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-austrian-crystal-sterling/fn5sVhDgdvEXscjBKjBZKy",
+   "best": "Etsy",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   }
  ],
  "finds": [
@@ -32354,6 +32629,56 @@
    "area": "orangecounty",
    "url": "https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ",
    "note": "text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) are worth $150-250 at gold melt; gold-filled/plated ones are the $50 ones the seller screenshotted. No karat mark visible in 13 photos. ASK: close-up of the box clasp tongue and end caps for \"14K\"/\"585\" vs \"GF\"/unmarked. Only proceed if 14K (then $90 both is a buy-tier lead). No comp. If both 14K: est $300 (no comp, gold-melt floor) -> 300*.87-10-10-90 = $151 profit; if GF/plated: kill (~$50 each asking).",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "ebay860024762247",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "eBay golden-egg review: Chinese bronze tripod censer, compressed body, loop handles, ruyi-lappet band, single-character \u5ba3 (Xuan) mark in round recess; 10.5 cm, 481 g; probably late Qing/Republic, apocryphal Xuande mark \u2014 Good form, patina and worn feet look right, but seller's AI-template text and many modern repros on market; cannot rule out 20th-c. copy. Small single-char-mark examples resell ~$300-500. Max $125 keeps profit >= cost at $350 resale. Not an egg: small size and single-char mark cap value well under $1k.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "ebay128122891267",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "eBay golden-egg review: Japanese kakejiku, rooster & hen with morning glory, ink & color on paper, signed \u79cb\u5802 (Shudo) with seal; competent Meiji/early Showa Shijo-style bird-and-flower painting \u2014 Quality hand painting (not a print) with real seal; artist minor/unidentified so not an egg. Only one photo, fb-0 seller: confirm no roller damage/print before bidding. Resale $200-300 on eBay/Chairish.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "ebay960049586863",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "eBay golden-egg review: Hiroshige I, Vertical Tokaido (Gojusan tsugi meisho zue) no.13 'Numazu, Ashigarayama Fuji no yukibare', 1855 design; title wrongly says Hiroshige II / 36 Views of Fuji \u2014 Edition unproven. The closeup shows only a round \u5b9f-type seal under the signature, with no visible Tsutaya ivy seal or aratame/date seal, which suggests a Meiji-Taisho recut or later reprint ($80-200). If the margin seals are hidden under the mat and it is an 1855 original, it is worth $600-1,500. Ask the seller for an out-of-frame photo. Bid $120 max blind; bid up to $350 only if the seals are confirmed",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "ebay227559138992",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) \u2014 Shipping is $25, and there are no photos of the base or pontil. Modern Czech/Chinese papillon copies exist, so ask for a base photo; a polished pontil and wear point to period glass. Unsigned period Bohemian papillon realistically resells for $250-400 on eBay, and a Loetz attribution would be worth more.",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "ebay960039177067",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings \u2014 Title only says 'G.A.'. The fittings could be nickel (then worth $300-500) rather than silver ($600-900), and the bow likely has imitation-whalebone lapping and needs a rehair. Shipping cost is not stated, and the stick has not been checked for cracks or straightness. Cap the bid at $170.",
    "stage": "decided",
    "status": "ask"
   }
