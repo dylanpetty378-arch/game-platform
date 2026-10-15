@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T15:42:42Z",
+ "updated": "2026-10-15T15:46:32Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13797,
-  "lens": 12249,
-  "events": 38381,
+  "lens": 12274,
+  "events": 38406,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 203,
-  "flagged": 3259,
-  "lensed": 998
+  "queued": 178,
+  "flagged": 3274,
+  "lensed": 1008
  },
  "last_harvests": [
   {
@@ -2334,6 +2334,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7942869795",
+   "title": "SILVER ring, size 7, Gold plated",
+   "price": 25,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-silver-ring-size-gold-plated/iDTA2meiK2oW4fwjcRaSxp",
+   "best": "Vintage 10K Gold Ruby & Diamond Bypass Ring \u00b7 Unique ...",
+   "med": 791,
+   "ratio": 31.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7948770419",
    "title": "Ceramic Tea Pot",
    "price": 4,
@@ -3374,6 +3385,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-japanese-bronze/wF8AvruCTtg4GteDeA91Zc",
    "best": "Leboncoin",
+   "med": 1200,
+   "ratio": 18.46,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946276975",
+   "title": "SALE--C. BURNETT-LARGE=PARIS STREET PAINTING",
+   "price": 65,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/north-miami-beach-sale-burnett/s4WTD7Be4qCsBen4YpEuRM",
+   "best": "BEAUTIFUL LARGE ORIGINAL VINTAGE OIL PAINTING ON CANVAS OF A ...",
    "med": 1200,
    "ratio": 18.46,
    "ai_value": ""
@@ -8076,6 +8098,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971372486",
+   "title": "Vintage Wilcox Siverplate Basket with Handle",
+   "price": 45,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/brookline-vintage-wilcox-siverplate/qnQZ8uGag3W6D8JTBUzUtV",
+   "best": "Pretty Antique Edwardian Silver Plated Cake Basket - Etsy",
+   "med": 260,
+   "ratio": 5.78,
+   "ai_value": ""
+  },
+  {
    "pid": "7983262482",
    "title": "Earrings",
    "price": 12,
@@ -9737,6 +9770,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929813176",
+   "title": "Various Broaches or Pins (price per pin)",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-various-broaches-or-pins/fpfiQdkxn1ZhAP3hAhgVXE",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7971509190",
    "title": "Vintage Victorian Floral Ashtray",
    "price": 30,
@@ -11354,6 +11398,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960894959",
+   "title": "30 Vintage Marbles old playing marble",
+   "price": 25,
+   "area": "corpuschristi",
+   "url": "https://www.craigslist.org/view/d/ingleside-30-vintage-marbles-old/trWxpw9FTz1izx4y1vtDs7",
+   "best": "Sold at Auction: Vintage 1930's - 1950's Lot of 24 Mixed ...",
+   "med": 95,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7963190664",
    "title": "Vtg 1966 Caravelle by Bulova Mens Watch 33mm Gold Manual Wind RUNNING",
    "price": 25,
@@ -12190,6 +12245,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7976459235",
+   "title": "D.C. COMICS SUPERMAN MEN'S WATCH",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/discovery-bay-dc-comics-superman-mens/u3tFaeLWqvD97LmpqCZyUq",
+   "best": "DC COMICS SUPERMAN 2014 WARNER BROTHERS ...",
+   "med": 70,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -12747,6 +12813,17 @@
    "url": "https://www.craigslist.org/view/d/san-diego-vintage-navajo-brown-matrix/jWpNvqkCv1DHYzr8FHPhJG",
    "best": "Turquoise & Sterling Silver Pendant - Randy Billy - Etsy",
    "med": 675,
+   "ratio": 3.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953461317",
+   "title": "Gilligan's Island signed limited edition lithograph",
+   "price": 100,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/greendale-gilligans-island-signed/42NqXXw2Nb5SsxcYJVgNAK",
+   "best": "Gilligan's Island Lithograph Signed By 4 Cast Members | eBay",
+   "med": 329,
    "ratio": 3.29,
    "ai_value": ""
   },
@@ -14496,6 +14573,17 @@
    "url": "https://www.craigslist.org/view/d/la-grange-vintage-campbells-soup/3mHeLZqygoj5K1YfUXqJbD",
    "best": "eBay",
    "med": 14,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966756737",
+   "title": "Vintage Goebel Hummel boy with sand pail figurine",
+   "price": 25,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-vintage-goebel-hummel-boy-with/dwE3toftTmLSiYpt2nXwSH",
+   "best": "Vintage Hummel A Fair Measure # 345 TMK-6 | eBay",
+   "med": 70,
    "ratio": 2.8,
    "ai_value": ""
   },
@@ -17840,6 +17928,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-11-small-sterling-silver-rings/fD4mUt8wHuqeu8bCqwUGV2",
    "best": "eBay",
    "med": 31,
+   "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946768445",
+   "title": "ORIG 1928 DRY-POINT ETCHING THE OLD FOOD MARKET LOUIS CONRAD ROSENBERG",
+   "price": 145,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/kingsland-orig-1928-dry-point-etching/7asRkyKR1a4qBUG5seEx86",
+   "best": "Old Food Market, October 1928, from the Cleveland Union ...",
+   "med": 300,
    "ratio": 2.07,
    "ai_value": ""
   },
@@ -29218,6 +29317,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947762372",
+   "title": "COAL MINER PLEDGE PICTURE.",
+   "price": 100,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/pittsburgh-coal-miner-pledge-picture/dx9SxmoJJFwzJnYpUwieGH",
+   "best": "1954 Western Electric PRINT AD Bell System Coal Miner Chunk ...",
+   "med": 80,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7970700624",
    "title": "Vintage Goebel Praying Angel Figurine",
    "price": 19,
@@ -34861,6 +34971,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983839676",
+   "title": "Vintage hand painted native American Nativity set",
+   "price": 60,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/poughkeepsie-vintage-hand-painted/kTmRZipsjwSRh7uMS1WjjW",
+   "best": "Native American Indian Inspired 13-piece Porcelain Figurine ...",
+   "med": 5,
+   "ratio": 0.08,
+   "ai_value": ""
+  },
+  {
    "pid": "7983561129",
    "title": "VTG Sterling Silver 10 Stone Green Stone Chain Link Bracelet 58.6g",
    "price": 240,
@@ -36330,6 +36451,50 @@
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/lisle-great-home-dcor-paintings/s7f8UYxKEupCwVfMCZZdjZ",
    "best": "Hungryartist -Original Painting of a Still-Life Flowers on ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955535081",
+   "title": "Antique Masonic Knights Templar Sword with Sheath.",
+   "price": 300,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/sarasota-antique-masonic-knights/vXdQnE7ynUoNHkVSD8wWjz",
+   "best": "TEMPLARS 1800s Ceremony Sword w/Ivory Handle (Knights ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982548608",
+   "title": "BUCK 120 KNIFE",
+   "price": 65,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/boston-buck-120-knife/qY64nxbia4Zyg5W1izaZb1",
+   "best": "Vintage Buck 119 Special Fixed Blade Knife - 1967-72 Two ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948459189",
+   "title": "Commando knives Knife \ud83d\udde1\ufe0f",
+   "price": 150,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/medford-commando-knives-knife/2yCtoQbmw4vmarDWprVeLH",
+   "best": "Fairbairn Sykes Commando Dagger Knife 2nd Pattern Modern ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955680543",
+   "title": "Vintage 6-Piece Japanese Samauri Sword Set",
+   "price": 275,
+   "area": "dothan",
+   "url": "https://www.craigslist.org/view/d/dothan-vintage-piece-japanese-samauri/eevmMAhqh7KdapCjDLMMTk",
+   "best": "41\" BLUE CLOUD Premium Gold Japanese Samurai Ninja Sword ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
