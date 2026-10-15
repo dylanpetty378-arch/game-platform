@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T20:59:57Z
+# Refurbish status — 2026-10-15T21:03:40Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3514 |
-| lensed | 1093 |
-| queued | 653 |
+| flagged | 3537 |
+| lensed | 1095 |
+| queued | 628 |
 | queued/relens | 486 |
 | decided/ask | 80 |
 | decided/kill | 58 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14608
-- lens: 12599
-- events: 39568
+- lens: 12624
+- events: 39593
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -133,7 +133,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
-## Flagged by Lens, waiting for photo review (3514)
+## Flagged by Lens, waiting for photo review (3537)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -162,6 +162,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01111_bp4qm46eKZ9_0lS0gE_300x300.jpg" width="120"> | 7938079495 | $25 | chicago | [Sterling Silver Ring size 9](https://www.craigslist.org/view/d/chicago-sterling-silver-ring-size/qktqSzYNuH6zGHPzD6wC2m) | eBay | 7995 | 319.8 |
 | <img src="https://images.craigslist.org/00808_6GNLXhkzaBi_0t20CI_300x300.jpg" width="120"> | 7959822936 | $20 | boston | [NECKLACE Butterfly](https://www.craigslist.org/view/d/west-roxbury-necklace-butterfly/34KgABNT8Z6DhvYq4ieivM) | Large Butterfly Pendant Necklace – Chelsea Pacifica | 5950 | 297.5 |
 | <img src="https://images.craigslist.org/00P0P_1sy6uhq8wCp_0lH0aA_300x300.jpg" width="120"> | 7982182176 | $15 | washingtondc | [Ladies Fashion Gold Rings sz 9 1/2](https://www.craigslist.org/view/d/centreville-ladies-fashion-gold-rings/p9DLHF6eavhfoXEL14gt7C) | Etsy | 4229 | 281.93 |
+| <img src="https://images.craigslist.org/00303_jHJR4wEGCCP_0jm0pO_300x300.jpg" width="120"> | 7932549944 | $10 | erie | [NECKLACE & BRACELET SET](https://www.craigslist.org/view/d/harborcreek-necklace-bracelet-set/9uJNVGjm3MgncoZJuYJooL) | Craigslist | 2750 | 275 |
 | <img src="https://images.craigslist.org/00d0d_6JM1vpMNIgI_0bC0bC_300x300.jpg" width="120"> | 7972387107 | $55 | newyork | [D-Decorative Antique spoon ETC.](https://www.craigslist.org/view/d/forest-hills-decorative-antique-spoon/qnYj6FxdVYPn1zA4pVY1pu) | REED & BARTON LES SIX FLEURS STERLING SILVER 2 PC SALAD SERV | 14950 | 271.82 |
 | <img src="https://images.craigslist.org/00505_jhO85EvhP1W_0CI0t2_300x300.jpg" width="120"> | 7931649699 | $3 | philadelphia | [Hearts  - Small Assorted Pendants- 3 Designs  -2 w](https://www.craigslist.org/view/d/philadelphia-hearts-small-assorted/t4vBPpSABRfFxMFz1qPGxS) | 14k Yellow Gold Heart Filigree Diamond Pendant Pendant 1.16  | 778 | 259.33 |
 | <img src="https://images.craigslist.org/01515_7inXI1teY2r_0MM132_300x300.jpg" width="120"> | 7945970858 | $1 | houston | [Vintage Elgin Self Winding 17 Jewel Diamond Men's ](https://www.craigslist.org/view/d/houston-vintage-elgin-self-winding-17/pKxq1wzLrAz1dZMVW9RCoz) | Craigslist | 249 | 249 |
@@ -170,6 +171,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00v0v_4EcgrjmPdHC_0lM0t2_300x300.jpg" width="120"> | 7983290109 | $50 | atlanta | [Light Amber from Baltic](https://www.craigslist.org/view/d/tucker-light-amber-from-baltic/oJU8kEdsKno1fqfaRNrL6E) | Vintage Natural Baltic Butterscotch Amber Necklace with 14K  | 9746 | 194.92 |
 | <img src="https://images.craigslist.org/01414_3XnEqlRrdFv_0t20CI_300x300.jpg" width="120"> | 7949916666 | $40 | slo | [Gold plated hammered dog tag cross](https://www.craigslist.org/view/d/morro-bay-gold-plated-hammered-dog-tag/k6A2r4h2LFgT4hdsj1B3j6) | Goldstyle "Hammered Chic" Gold Pendant (For Men) / Lukfook . | 7600 | 190 |
 | <img src="https://images.craigslist.org/00z0z_eUfXbJcGWKm_0CI0t2_300x300.jpg" width="120"> | 7949539876 | $10 | sfbay | [BEAUTIFUL ORIGINAL PAINTING](https://www.craigslist.org/view/d/discovery-bay-beautiful-original/aSWW5x3LcnQKp1wEAE3tkc) | Norwalk, Rowayton Artists Honored In Brushwork Exhibition .. | 1895 | 189.5 |
+| <img src="https://images.craigslist.org/00o0o_h5xJeFRIExo_0ak05O_300x300.jpg" width="120"> | 7930590666 | $80 | palmsprings | [Duboule Watch](https://www.craigslist.org/view/d/indio-duboule-watch/pK1mvqAuY3N9pxyfc8eZrH) | eBay | 15000 | 187.5 |
 | <img src="https://images.craigslist.org/00G0G_hF0V4Oh05sr_0r90hq_300x300.jpg" width="120"> | 7973797344 | $45 | boston | [Bijou Earrings, Sterling 925 Italy, Vintage](https://www.craigslist.org/view/d/natick-bijou-earrings-sterling-925/3tk9PiJvYqLMLKPtaRMFAX) | Vintage bijou earrings - Auction IMPORTANT WATCHES AND FINE  | 8000 | 177.78 |
 | <img src="https://images.craigslist.org/00z0z_fIwhtjT3lm5_0CI0hq_300x300.jpg" width="120"> | 7972979781 | $35 | boise | [BRIGHTON Meridian Petite Prime Bracelet](https://www.craigslist.org/view/d/boise-brighton-meridian-petite-prime/cN7nY6DFh2z9HUZS2GrkpW) | Brighton Meridian Petite Bracelet / eBay | 6200 | 177.14 |
 | <img src="https://images.craigslist.org/00808_kcbkA8EOezv_0t20CI_300x300.jpg" width="120"> | 7969480947 | $25 | austin | [Vintage Ornate Destressed White & Gold Tone Decora](https://www.craigslist.org/view/d/kyle-vintage-ornate-destressed-white/3cDrTDnKUaFKcYMzgdyztn) | Miller Studios Floral Chalkware Flowers Wall Hanging Green . | 4200 | 168 |
@@ -181,6 +183,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00n0n_7K3KNkDcIk8_0pO0lC_300x300.jpg" width="120"> | 7953135437 | $25 | miami | [ART MASTERPIECES](https://www.craigslist.org/view/d/boynton-beach-art-masterpieces/qYsWz9d2DR2UxYHXcY6cgF) | Sold at Auction: Bill Gallen, Bill Gallen / The Red Mountain | 3500 | 140 |
 | <img src="https://images.craigslist.org/00v0v_7IZjBvA9zir_0t20CI_300x300.jpg" width="120"> | 7975200744 | $30 | boston | [Faux sAmber & Diamond Pendant](https://www.craigslist.org/view/d/saugus-faux-samber-diamond-pendant/cT9r7QrTL9RpfJNUFxT9wr) | 1stDibs | 3950 | 131.67 |
 | <img src="https://images.craigslist.org/00202_1LBeiKUWkZy_0e10ay_300x300.jpg" width="120"> | 7973797446 | $10 | boston | [Bamboo hoop earrings](https://www.craigslist.org/view/d/natick-bamboo-hoop-earrings/9B4XQDv66PDyC9AANJpnf8) | Pastel Collection Large (3") 3D Goldtone Heart Earrings ... | 1308 | 130.8 |
+| <img src="https://images.craigslist.org/00l0l_iezBstPTUOA_0gn0t2_300x300.jpg" width="120"> | 7930441710 | $30 | dallas | [jjj Sterling Silver Necklace Green Pendant on Gree](https://www.craigslist.org/view/d/mckinney-jjj-sterling-silver-necklace/5WaCezLQowc266HkjCLfbg) | M. Lowe and Co. | 3900 | 130 |
 | <img src="https://images.craigslist.org/00U0U_5V1gqoU72hw_0t20CI_300x300.jpg" width="120"> | 7937435125 | $20 | sfbay | [Marcasite,Sterling Silver Earrings](https://www.craigslist.org/view/d/san-francisco-marcasitesterling-silver/7bFuWD8yGuP7CGH84BEpd1) | eBay | 2515 | 125.75 |
 | <img src="https://images.craigslist.org/01111_czyerSRpvJE_0jm0cI_300x300.jpg" width="120"> | 7965711534 | $25 | santabarbara | [Bella Luce Hoop Earrings](https://www.craigslist.org/view/d/solvang-bella-luce-hoop-earrings/kt8q2YPH8uWiANGoZhkEVa) | Craigslist | 3139 | 125.56 |
 | <img src="https://images.craigslist.org/01212_jhsSh8Vnivj_0CI0t2_300x300.jpg" width="120"> | 7954702504 | $1 | bakersfield | [ASSORTED BEAR COLLECTION](https://www.craigslist.org/view/d/bakersfield-assorted-bear-collection/jMQwG9QhjKNrjJQ4JtfTjP) | Craigslist | 125 | 125 |
@@ -256,6 +259,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00j0j_8Q73XFjhqrJ_0t20CI_300x300.jpg" width="120"> | 7931909724 | $20 | santabarbara | [Gold pocket watch](https://www.craigslist.org/view/d/summerland-gold-pocket-watch/g8xCckmuaPkLBZaNrSSioq) | 1975 Vintage Wittnauer Gold Plated Pocket Watch Floral ... | 1039 | 51.95 |
 | <img src="https://images.craigslist.org/00r0r_iN3GdUdZIki_0t20CI_300x300.jpg" width="120"> | 7935589650 | $25 | sfbay | [Vase](https://www.craigslist.org/view/d/san-jose-vase/dwD54QdacBQWA1BwDXecKY) | Signed Lithograph "Spirit Horse" by Artist Woody Crumbo for  | 1286 | 51.44 |
 | <img src="https://images.craigslist.org/00M0M_6BSYpIesxih_0oZ0hq_300x300.jpg" width="120"> | 7974837603 | $10 | boston | [Vintage Black signet type ring, 6.5](https://www.craigslist.org/view/d/natick-vintage-black-signet-type-ring-65/oAV6wukp4Qm77AiLv4rbDt) | Etsy | 502 | 50.2 |
-| <img src="https://images.craigslist.org/00F0F_6eiwbFDedWG_0sm0t2_300x300.jpg" width="120"> | 7945689868 | $1 | salem | [Vintage items misc items package lot](https://www.craigslist.org/view/d/stayton-vintage-items-misc-items/e7K8bfgPnhUQEM7heYuFu1) | eBay | 50 | 50 |
-| <img src="https://images.craigslist.org/01717_cE7YgIsmTRk_0h70t2_300x300.jpg" width="120"> | 7969574151 | $15 | boise | [17.75" Necklace Delicate Gold Tone](https://www.craigslist.org/view/d/boise-1775-necklace-delicate-gold-tone/rhCrZV8uFf1jwzvyDpCZuX) | Vintage Solid 14k Yellow Gold Box Chain Necklace - 23.75 ... | 745 | 49.67 |
-| <img src="https://images.craigslist.org/00U0U_4WNy0iyjRJE_0CI0t2_300x300.jpg" width="120"> | 7978102380 | $44 | ventura | [BARBARA  A. WOOD](https://www.craigslist.org/view/d/ventura-barbara-wood/qR1ev4uaW5QTBdvUZaPpJD) | Barbara Wood / BARBARA A WOOD Signed Portrait Curly Haired . | 2178 | 49.5 |
