@@ -58,7 +58,7 @@
 "https://i.ebayimg.com/images/g/RagAAeSwbsZqmqBp/s-l1600.jpg"
 ],
 "bid": "50.00",
-"bids": null,
+"bids": 2,
 "end": "2026-10-16T10:47:42.000Z",
 "ship": [
 "13.87"
@@ -211,5 +211,248 @@
 "loc": "West Virginia",
 "cond": "Used",
 "err": null
+},
+"_seller_items": {
+"377556654389": {
+"fb": 8,
+"n": 17,
+"rows": [
+{
+"id": "377458212830",
+"t": "1901 Catalog REPRINT Fostoria Glass Company New York",
+"p": "12.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "267",
+"img": "https://i.ebayimg.com/images/g/ONwAAeSwOCtqlGDC/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458212830"
+},
+{
+"id": "377458237573",
+"t": "Gerold Porzellan Ceramic Beer Stein Mug Breweriana Bavaria West Germany",
+"p": "12.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "1",
+"img": "https://i.ebayimg.com/images/g/9s0AAeSwcJ1qlGU6/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458237573"
+},
+{
+"id": "377458494100",
+"t": "Doctor Who Collectible Trading Cards 60-Card Starter Set Black Border",
+"p": "8.00",
+"b": null,
+"opt": [
+"FIXED_PRICE"
+],
+"end": null,
+"cat": "1",
+"img": "https://i.ebayimg.com/images/g/DicAAeSw02JqlJdK/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458494100"
+},
+{
+"id": "377458481719",
+"t": "Doctor Who Collectible Trading Cards 60-Card Starter Set Black Border",
+"p": "95.00",
+"b": null,
+"opt": [
+"FIXED_PRICE"
+],
+"end": null,
+"cat": "1",
+"img": "https://i.ebayimg.com/images/g/auYAAeSwRqBqlJTX/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458481719"
+},
+{
+"id": "377568190841",
+"t": "Jim Davidson Signed Metal Metallic Finish Boy Baseball Player Statue",
+"p": "299.00",
+"b": 0,
+"opt": [
+"FIXED_PRICE",
+"AUCTION"
+],
+"end": "2026-10-20T22:19:35.000Z",
+"cat": "1",
+"img": "https://i.ebayimg.com/images/g/DC0AAeSw2rtqsv4A/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377568190841"
+},
+{
+"id": "377458389623",
+"t": "Set of 2 Multicolor Tile Wall Plaques Architecture Buildings Vertical Hanging",
+"p": "29.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "11700",
+"img": "https://i.ebayimg.com/images/g/bwcAAeSwFh9qlIJz/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458389623"
+},
+{
+"id": "377458410142",
+"t": "Weller \u201cForest\u201d Pottery Vase Tree & Forest Pattern Decorative MPN 2664",
+"p": "259.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "870",
+"img": "https://i.ebayimg.com/images/g/dU8AAeSw2o5qlIVT/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458410142"
+},
+{
+"id": "377458219278",
+"t": "Cobalt Blue Solid Glass Pitcher w/ Handle & Lid, 16 oz, Glossy Finish (2pc)",
+"p": "12.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "870",
+"img": "https://i.ebayimg.com/images/g/FlkAAeSwie9qlGJt/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458219278"
+},
+{
+"id": "377458170680",
+"t": "Enjoi Resin-7 Panda Skateboard Deck 8.0 x 31.6 White MPN #201803140477",
+"p": "29.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "888",
+"img": "https://i.ebayimg.com/images/g/jlYAAeSwS9dqlFnd/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458170680"
+},
+{
+"id": "377463218970",
+"t": "Anti Hero Tony Trujillo 18 Mile Skateboard Deck Tony Trujillo Skateboard",
+"p": "25.00",
+"b": null,
+"opt": [
+"FIXED_PRICE"
+],
+"end": null,
+"cat": "888",
+"img": "https://i.ebayimg.com/images/g/24UAAeSwHO1qlFeK/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377463218970"
+},
+{
+"id": "377458167848",
+"t": "Anti Hero Tony Trujillo 18 Mile Orange Skateboard Deck - Tony Trujillo Model",
+"p": "39.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "888",
+"img": "https://i.ebayimg.com/images/g/6HsAAeSwlyZqlFjk/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458167848"
+},
+{
+"id": "377458172796",
+"t": "Primitive Rodriguez Skateboarding Skateboard Deck - Rodriguez Model",
+"p": "59.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "888",
+"img": "https://i.ebayimg.com/images/g/dRgAAeSw92lqlFpp/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458172796"
+},
+{
+"id": "377458181223",
+"t": "Superior Skateboards Full Concave/Steep Kick Skateboard Deck 8.0x31.6 Black",
+"p": "29.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "888",
+"img": "https://i.ebayimg.com/images/g/p-QAAeSwM6BqlFru/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458181223"
+},
+{
+"id": "377458169263",
+"t": "LOCO SKATES Dragon Skateboard Deck Black Dragon Graphic Art Theme",
+"p": "29.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "888",
+"img": "https://i.ebayimg.com/images/g/ZjAAAeSwjhxqlFlt/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458169263"
+},
+{
+"id": "377458419045",
+"t": "1994 Upper Deck World Cup USA 94 Football Soccer Trading Cards Box - NEW SEALED",
+"p": "75.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "64482",
+"img": "https://i.ebayimg.com/images/g/tI0AAeSwWkZqlIiv/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458419045"
+},
+{
+"id": "377313460713",
+"t": "Hasbro G.I. Joe Star Brigade Payload Astro-Pilot Action Figure w/ Gun 1993",
+"p": "59.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "220",
+"img": "https://i.ebayimg.com/images/g/~pcAAeSw~UhqRupR/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377313460713"
+},
+{
+"id": "377458144961",
+"t": "Ford Racing Oval Air Cleaner Assembly \ufffc",
+"p": "49.00",
+"b": null,
+"opt": [
+"FIXED_PRICE",
+"BEST_OFFER"
+],
+"end": null,
+"cat": "6000",
+"img": "https://i.ebayimg.com/images/g/w6YAAeSw131qlFRK/s-l225.jpg",
+"url": "https://www.ebay.com/itm/377458144961"
+}
+]
+}
 }
 }
