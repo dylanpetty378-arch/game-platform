@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:32:31Z",
+ "updated": "2026-10-15T00:36:21Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10299,
-  "events": 34715,
+  "lens": 10324,
+  "events": 34740,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 553,
-  "flagged": 1760,
-  "lensed": 551
+  "queued": 528,
+  "flagged": 1782,
+  "lensed": 554
  },
  "last_harvests": [
   {
@@ -670,6 +670,17 @@
    "best": "Craigslist",
    "med": 249,
    "ratio": 249,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949999968",
+   "title": "2 POCKET WATCHES",
+   "price": 1,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/modena-pocket-watches/t6W8hj4opsv6JpCB5r6krg",
+   "best": "Antique Elgin Pocket Watch 1910 7J Open face 18s Silveroid ...",
+   "med": 220,
+   "ratio": 220,
    "ai_value": ""
   },
   {
@@ -1916,6 +1927,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971493362",
+   "title": "Vintage Blue & White Chinoiserie Planter",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-blue-white-chinoiserie/kwg6iB2CcUh3TSpPDQPNrt",
+   "best": "Etsy",
+   "med": 850,
+   "ratio": 21.79,
+   "ai_value": ""
+  },
+  {
    "pid": "7978092384",
    "title": "BARBARA A. WOOD",
    "price": 44,
@@ -2023,6 +2045,17 @@
    "best": "Framed Watercolor Print Big Sky by Frank Ackerman Matted ...",
    "med": 1500,
    "ratio": 20,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960936710",
+   "title": "2 Vintage 4 string Acoustic Guitars 1920s-1930s",
+   "price": 80,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/surprise-vintage-string-acoustic/bQdmkKHFGWrLaiZ7H3KDHH",
+   "best": "McKenzie River Music",
+   "med": 1599,
+   "ratio": 19.99,
    "ai_value": ""
   },
   {
@@ -2529,6 +2562,17 @@
    "best": "Anticstore",
    "med": 1475,
    "ratio": 14.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980037773",
+   "title": "Custom Special Panerai 47 Watch",
+   "price": 450,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-custom-special-panerai-47/8bD9Udqg78JQv7u6ufHGJt",
+   "best": "Case Size: 47mm cushion-style stainless steel case",
+   "med": 6590,
+   "ratio": 14.64,
    "ai_value": ""
   },
   {
@@ -4842,6 +4886,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951847322",
+   "title": "PAINTING. Three Musicians. Canvas.",
+   "price": 45,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/painting-three-musicians-canvas/kCVo66Lh3hJvNLxfzcxD9v",
+   "best": "eBay",
+   "med": 250,
+   "ratio": 5.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7948904068",
    "title": "LOT of THREE-BRIGHTLY COLORED FOREIGN CITY SCENES- EFFECTIVE !",
    "price": 95,
@@ -5719,6 +5774,17 @@
    "best": "Etsy",
    "med": 110,
    "ratio": 4.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983614550",
+   "title": "Ventura Bruno Royal Artist Nylon Guitar m",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/los-angeles-ventura-bruno-royal-artist/uLXrKm8udHTvLqiiyh1E5Q",
+   "best": "eBay",
+   "med": 350,
+   "ratio": 4.38,
    "ai_value": ""
   },
   {
@@ -7295,6 +7361,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941041214",
+   "title": "Silver AMETHYST RING",
+   "price": 30,
+   "area": "hudsonvalley",
+   "url": "https://www.craigslist.org/view/d/fishkill-silver-amethyst-ring/b5hT9aKpAnLx3r6Jkk1Z2H",
+   "best": "Zales",
+   "med": 96,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7963619385",
    "title": "Lladro collection and more",
    "price": 250,
@@ -7764,6 +7841,17 @@
    "url": "https://www.craigslist.org/view/d/monrovia-barbara-wood/s4V3AzH8gccAcGeX4xURk1",
    "best": "19 Best Barbara Wood ideas | barbara woods, barbara ...",
    "med": 500,
+   "ratio": 2.99,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931531423",
+   "title": "Signed Sharon Sacer \"Sharm Sacer\",Limited Edition 229/500",
+   "price": 100,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/bedford-signed-sharon-sacer-sharm/9bG6TUGm9qHZRR34T5iJ6x",
+   "best": "\u00b7vivisue",
+   "med": 299,
    "ratio": 2.99,
    "ai_value": ""
   },
@@ -9374,6 +9462,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931361932",
+   "title": "PAINTING Old Original Oil Canvas",
+   "price": 100,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/painting-old-original-oil-canvas/9E4Rn8AfFFpn8CEcNUAySG",
+   "best": "eBay",
+   "med": 229,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7951926438",
    "title": "Hamilton Pocket Watch (1909)",
    "price": 325,
@@ -10793,6 +10892,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7966487178",
+   "title": "Vintage Modernist \"BEST\" Triple-Circle Pendant on Choker necklace",
+   "price": 39,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-modernist-best-triple/qt9R9YDLwznHQQRiH3HZd9",
+   "best": "JUDITH JACK Golden Ave STERLING SILVER Triple Pendant ...",
+   "med": 71,
+   "ratio": 1.82,
+   "ai_value": ""
+  },
+  {
    "pid": "7949659551",
    "title": "Sterling Silver & Marcasite Quartz Watch 7\u201d",
    "price": 80,
@@ -10943,6 +11053,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-peacock-brooch-long/gWFAHP5gZujTwYkfa9nZ1B",
    "best": "New Retro Brooch Pin Badge for Men Suit Peacock Tassel ...",
    "med": 27,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935492007",
+   "title": "1905 Antique Doxa Antimagnetique Medaille D'Or Milan 1906 pocket watch",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/martinez-1905-antique-doxa/45GQHXtHPgfLZmiXiSq6Xj",
+   "best": "Etsy",
+   "med": 450,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -13422,6 +13543,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951420868",
+   "title": "BELLEEK FINE IRISH PORCELAIN",
+   "price": 70,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/stamford-belleek-fine-irish-porcelain/fV8wfDUprJsR9Fods3SCtT",
+   "best": "Etsy",
+   "med": 87,
+   "ratio": 1.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7943192526",
    "title": "Sterling Silver & Turquoise Size 7 1/4 Ring",
    "price": 35,
@@ -15182,6 +15314,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940821795",
+   "title": "Vintage Bottles Lot (4) +1",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/vineburg-vintage-bottles-lot-1/3Qk571bcxB281ws8Me6DwL",
+   "best": "eBay",
+   "med": 19,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7948667022",
    "title": "Beautiful sterling bracelet with unique vintage charms",
    "price": 175,
@@ -15479,6 +15622,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7928654226",
+   "title": "Antique Black   quartz cufflinks .",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/north-hollywood-antique-black-quartz/6rmDNsypfdUtbYY6pYXLFz",
+   "best": "eBay",
+   "med": 18,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7983199305",
    "title": "Sterling Silver Ring - New",
    "price": 45,
@@ -15519,6 +15673,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-navajo-type-sterling/u9HQDYqQQngsFUeoS8RJbm",
    "best": "vtg Turquoise Mosaic Open Work Ring Stamped \u00a9 85 DS size 8 ...",
    "med": 40,
+   "ratio": 0.89,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974049956",
+   "title": "Vintage Lia Sophia Fold out pendant necklace",
+   "price": 19,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-lia-sophia-fold-out/bnYjDko7tA97TmWBFaeVMG",
+   "best": "eBay",
+   "med": 17,
    "ratio": 0.89,
    "ai_value": ""
   },
@@ -15915,6 +16080,17 @@
    "url": "https://www.craigslist.org/view/d/vintage-onyx-and-marcasite-pendants-on/iHFowBhx8qLzCAoJ8c1Q5c",
    "best": "Borrowed Bling",
    "med": 56,
+   "ratio": 0.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947495181",
+   "title": "Vintage DONA Do\u00f1a ROSA Signed Black Clay Vase/ Vessel Oaxaca Folk Art",
+   "price": 80,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/westminster-vintage-dona-doa-rosa/p8mT5pzw34bsWWvA8KQxDA",
+   "best": "eBay",
+   "med": 65,
    "ratio": 0.81,
    "ai_value": ""
   },
@@ -16766,6 +16942,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943643225",
+   "title": "Hummels collection !!!",
+   "price": 300,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/north-salem-hummels-collection/oBkP2uBHUn2BSsjruYaYgs",
+   "best": "Antiques, Collectibles & Some Vintage Too!... starts on 9/9/2026",
+   "med": 200,
+   "ratio": 0.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7950732303",
    "title": "Sterling Silver Pearl Necklace",
    "price": 70,
@@ -16861,6 +17048,17 @@
    "url": "https://www.craigslist.org/view/d/federal-way-vintage-lorus-disney-mickey/naGznp8CRccjf7phSRp42J",
    "best": "Unworn 1987 Mickey Mouse Lorus Seiko Divers 100m Character ...",
    "med": 32,
+   "ratio": 0.64,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949956219",
+   "title": "Vintage Anne Klein oval mariner link gold tone necklace, 16-17\"",
+   "price": 55,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-anne-klein-oval-mariner/dR5k9cfng2YTY8P4hpdJ3a",
+   "best": "Pinterest",
+   "med": 35,
    "ratio": 0.64,
    "ai_value": ""
   },
@@ -17833,6 +18031,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950918905",
+   "title": "5x Titanium steel multicolor vintage rings",
+   "price": 30,
+   "area": "missoula",
+   "url": "https://www.craigslist.org/view/d/missoula-5x-titanium-steel-multicolor/anufJyVUaVw2JkqRP8HLNo",
+   "best": "eBay",
+   "med": 14,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7937968387",
    "title": "Vintage Gold Tone Cream Enamel Necklace",
    "price": 35,
@@ -17928,6 +18137,17 @@
    "url": "https://www.craigslist.org/view/d/phillipsville-vintage-military-utility/nHi6tDRUVswXfDk9giLGPH",
    "best": "Knife Knives LOT Mixed Estate Find ASIS old USA made Unusual ...",
    "med": 133,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936087452",
+   "title": "Vintage Porcelain Bird / Song Box Collection Of 4",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/beaverton-vintage-porcelain-bird-song/mn4Vfm8Wp2LWWyrQLcSKDK",
+   "best": "Vintage Ceramic Red Cardinal Bird Music Box Oh What a ...",
+   "med": 11,
    "ratio": 0.44,
    "ai_value": ""
   },
@@ -18543,6 +18763,17 @@
    "area": "providence",
    "url": "https://www.craigslist.org/view/d/providence-vintage-us-army/hfnxx6TFtpoRW8oX1PhjKX",
    "best": "Vintage US Army QUARTERMASTER Center and School Uniform ...",
+   "med": 5,
+   "ratio": 0.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951928127",
+   "title": "Neil Young CD LOT",
+   "price": 20,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/corrales-neil-young-cd-lot/aaBTuosCHp7z67K3sGCMam",
+   "best": "eBay",
    "med": 5,
    "ratio": 0.25,
    "ai_value": ""
@@ -19841,6 +20072,17 @@
    "area": "providence",
    "url": "https://www.craigslist.org/view/d/providence-vintage-fafnir-ball-bearing/1vUZZzjqcs8hS3mHfdx9PP",
    "best": "Fafnir L207 Ball Bearing | eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981346073",
+   "title": "Vintage Hunting Knife",
+   "price": 10,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/henrico-vintage-hunting-knife/4kGP6sqbW4rSruNmZzyNP9",
+   "best": "Lot - WW2 U.S.M.C. HOSPITAL CORPS (BOLO) KNIFE.",
    "med": null,
    "ratio": null,
    "ai_value": ""
