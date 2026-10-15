@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:23:52Z",
+ "updated": "2026-10-15T14:27:28Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11749,
-  "events": 37839,
+  "lens": 11774,
+  "events": 37864,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 703,
-  "flagged": 2891,
-  "lensed": 867
+  "queued": 678,
+  "flagged": 2914,
+  "lensed": 869
  },
  "last_harvests": [
   {
@@ -1751,6 +1751,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929677833",
+   "title": "Vintage Danecraft 1/20 12k Gold Filled Earrings",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-danecraft-gold-filled/bPEBpGBwLYtgXtvTswQogA",
+   "best": "Vintage 14k Gold Tapered Wide Band",
+   "med": 664,
+   "ratio": 44.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7958130497",
    "title": "Art Nouveau Cameo Glass Vase",
    "price": 90,
@@ -3225,6 +3236,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931592256",
+   "title": "Sterling silver and zircon pendant",
+   "price": 35,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-and-zircon/on1QWTzDzHCY5DAGHh8qoz",
+   "best": "eBay",
+   "med": 585,
+   "ratio": 16.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7934238503",
    "title": "Bracelets & Watch",
    "price": 15,
@@ -4311,6 +4333,17 @@
    "best": "MutualArt",
    "med": 299,
    "ratio": 11.96,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936514053",
+   "title": "Vintage Avon Scraf Clip",
+   "price": 5,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vintage-avon-scraf-clip/fGsxMoXR23RQxds2ErJkAs",
+   "best": "Swarovski Brand Brooch Pin Crystal Faceted Stones Glossy ...",
+   "med": 59,
+   "ratio": 11.8,
    "ai_value": ""
   },
   {
@@ -8406,6 +8439,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980475059",
+   "title": "Sterling Silver Ring - New",
+   "price": 45,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-ring-new/g5vzCU6gHL5hX6B7czzLu8",
+   "best": "Wide Adjustable Sterling Silver Ring With Layered Wave ...",
+   "med": 210,
+   "ratio": 4.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7944410804",
    "title": "Vintage Sears Guitar 319 Series Mid-1960s-'70s Japan",
    "price": 150,
@@ -11035,6 +11079,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954340197",
+   "title": "Vintage 925 Silver Native American Bear Earrings with Opal Stone",
+   "price": 75,
+   "area": "easttexas",
+   "url": "https://www.craigslist.org/view/d/bullard-vintage-925-silver-native/fEvQ8x3KrgrxQofUrGwgSv",
+   "best": "eBay",
+   "med": 251,
+   "ratio": 3.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7937843366",
    "title": "Nice Sterling Silver Emily Ray Bracelet",
    "price": 80,
@@ -12956,6 +13011,17 @@
    "url": "https://www.craigslist.org/view/d/belleville-lot-of-guitars-and-drums/69eTzv6hrRdzqRNX298uhN",
    "best": "eBay",
    "med": 1380,
+   "ratio": 2.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951446047",
+   "title": "CERAMIC Warren MacKensie large bowl",
+   "price": 125,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-ceramic-warren-mackensie/1qLVi46EUmDJsb3oND8dUt",
+   "best": "Bukowskis",
+   "med": 345,
    "ratio": 2.76,
    "ai_value": ""
   },
@@ -16029,6 +16095,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932172227",
+   "title": "Original Floral Still Life Oil Painting Signed Sophia Framed Vintage Artwork Mid",
+   "price": 175,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/clark-original-floral-still-life-oil/aZp2vdpDvVcjugph7Ns4uY",
+   "best": "Mid-20th Century J.E. Judge (aka Janet Greenleaf) Floral ...",
+   "med": 355,
+   "ratio": 2.03,
+   "ai_value": ""
+  },
+  {
    "pid": "7933540451",
    "title": "Sterling Silver, Elbaite & Marcasite Size 7 3/4 Ring",
    "price": 40,
@@ -17723,6 +17800,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954915067",
+   "title": "Vintage Capodimonte Figurine",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/mount-prospect-vintage-capodimonte/goeYKdMJ4v1bo1WvWXpUNx",
+   "best": "eBay",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -18130,6 +18218,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945634628",
+   "title": "Barse Sterling Rose Quartz and Natural Stone Necklace",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-barse-sterling-rose-quartz-and/wXDf2t67Pvzmo9GgSdN9pu",
+   "best": "eBay",
+   "med": 129,
+   "ratio": 1.72,
+   "ai_value": ""
+  },
+  {
    "pid": "7948668528",
    "title": "Sterling silver bracelet with sqares",
    "price": 35,
@@ -18335,6 +18434,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-maltese-falcon/1QR8Z9E46hcw5kW3NtrASV",
    "best": "1941 Maltese Falcon Statue Screen Accurate Resin Prop by ...",
    "med": 109,
+   "ratio": 1.68,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969505709",
+   "title": "Necklace",
+   "price": 50,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/spanaway-necklace/nJWBbCNEdHFpCktiCWGGzH",
+   "best": "Robert Vintage Necklace - Etsy - Page 3",
+   "med": 84,
    "ratio": 1.68,
    "ai_value": ""
   },
@@ -20693,6 +20803,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938085353",
+   "title": "Vintage Globe Siam Sterling Silver Ring  size 7",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-vintage-globe-siam-sterling/t8bsQNTiSETRCFjsD8A8gu",
+   "best": "Etsy",
+   "med": 35,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7943810904",
    "title": "Handcrafted Studio Pottery Ceramic Shot Glass",
    "price": 18,
@@ -20933,6 +21054,17 @@
    "med": 120,
    "ratio": 1.35,
    "ai_value": "Sold at Auction: Lot of 3 Mickey Mouse Pocket Watches $120"
+  },
+  {
+   "pid": "7981783839",
+   "title": "Kitchen Tools Lot",
+   "price": 37,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/barre-kitchen-tools-lot/kV3CZqz1ZPHNkTThjxXYV7",
+   "best": "25+ Wooden Fork Cooking Utensils for sale | Updated Oct 2026",
+   "med": 50,
+   "ratio": 1.35,
+   "ai_value": ""
   },
   {
    "pid": "7949234609",
@@ -21591,6 +21723,17 @@
    "url": "https://www.craigslist.org/view/d/alden-antique-pocket-watch/8k2bKbZRNyNk7uEtxXpiPC",
    "best": "Belle Suisse - Locomotive Pocket Watch - Embossed with Chain ...",
    "med": 190,
+   "ratio": 1.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954872101",
+   "title": "Raphael's Sistine Chapel Cherubs Angels watch",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-bruno-raphaels-sistine-chapel/dm5Hpe3z6Npe8qBjVQ1YnG",
+   "best": "eBay",
+   "med": 19,
    "ratio": 1.27,
    "ai_value": ""
   },
@@ -22416,6 +22559,17 @@
    "url": "https://www.craigslist.org/view/d/new-paltz-star-wars-lot-of-23-figures/ckgGU95GsXuuQvZ5r9FnWB",
    "best": "Star Wars Cantina Band Bar Scene Loose Lot Of Alien Action ...",
    "med": 60,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935062254",
+   "title": "Vintage/ Antique Eagle Bookends",
+   "price": 125,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-antique-eagle-bookends/sLVD2892hRHL4ScQanxEE9",
+   "best": "1stDibs",
+   "med": 150,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -24994,6 +25148,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980837495",
+   "title": "Fabulous necklace and earrings",
+   "price": 85,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-fabulous-necklace-and/cGETWGnR6jkzTLXzosmPLJ",
+   "best": "Etsy",
+   "med": 77,
+   "ratio": 0.91,
+   "ai_value": ""
+  },
+  {
    "pid": "7944250897",
    "title": "Vintage Small Noritake Pitcher",
    "price": 20,
@@ -25407,6 +25572,17 @@
    "area": "slo",
    "url": "https://www.craigslist.org/view/d/morro-bay-gold-tone-cross-pendant/fyEnR4sY84HiwYH6S2hjHK",
    "best": "14K Gold Plated Wooden Cross Necklace Christian Jewelry ...",
+   "med": 22,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946684987",
+   "title": "signed Massey cueball",
+   "price": 25,
+   "area": "newlondon",
+   "url": "https://www.craigslist.org/view/d/quaker-hill-signed-massey-cueball/h1RKZKqRMBibfJhGtRjKMX",
+   "best": "MIKE MASSEY AUTOGRAPHED CUE BALL | #505735787",
    "med": 22,
    "ratio": 0.88,
    "ai_value": ""
@@ -27744,6 +27920,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983843414",
+   "title": "Little Vintage Navajo Stamped Floral Bead Sterling Silver Earrings",
+   "price": 55,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-little-vintage-navajo-stamped/95ETbhAn7dodoG5q3Gyr4z",
+   "best": "Etsy",
+   "med": 34,
+   "ratio": 0.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7972376364",
    "title": "Custom Jewelry - Bag Included",
    "price": 80,
@@ -29394,6 +29581,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983864894",
+   "title": "Vintage Tin Christmas Santa Pin Brooch",
+   "price": 40,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/hadley-vintage-tin-christmas-santa-pin/cFem9CsBZBpr7xNzhGiwSD",
+   "best": "eBay",
+   "med": 17,
+   "ratio": 0.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7939109606",
    "title": "Men\u2019s watch unknown brand need help identifying it",
    "price": 123,
@@ -29445,6 +29643,17 @@
    "url": "https://www.craigslist.org/view/d/belgrade-vintage-charlie-russell/sZMUevMGbD6DgZp2QbnAx2",
    "best": "CM RUSSELL Vintage 1960 OOP XRare Collotype Western Scene ...",
    "med": 123,
+   "ratio": 0.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935735890",
+   "title": "Wolfen Thor's hammer necklace Viking",
+   "price": 39,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/waianae-wolfen-thors-hammer-necklace/tvEn297RzKmbTusgRxq8aj",
+   "best": "Amazon.com",
+   "med": 16,
    "ratio": 0.41,
    "ai_value": ""
   },
@@ -30098,6 +30307,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983863811",
+   "title": "vintage watch",
+   "price": 40,
+   "area": "norfolk",
+   "url": "https://www.craigslist.org/view/d/chesapeake-vintage-watch/1ni7MzQLEtkXt9oQXAyg9E",
+   "best": "eBay",
+   "med": 12,
+   "ratio": 0.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7983165459",
    "title": "Great Football Card Lot",
    "price": 75,
@@ -30215,6 +30435,17 @@
    "url": "https://www.craigslist.org/view/d/saint-augustine-cultured-pearl-sterling/vVN7xbUGspszzfHLTXpRYV",
    "best": "Soccer Ball 3D 925 Sterling Silver Pendant Fine Sports ...",
    "med": 32,
+   "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983843957",
+   "title": "VINTAGE AMETHYST Navajo Sterling Bead Dangle Earrings",
+   "price": 55,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/port-angeles-vintage-amethyst-navajo/4PEEwmZ13mBFMW2ag8pcvU",
+   "best": "Etsy",
+   "med": 15,
    "ratio": 0.27,
    "ai_value": ""
   },
@@ -30798,6 +31029,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-sterling-silver-chain-and/nmVCJ2yKy8xVr7osqJAq6o",
    "best": "eBay",
    "med": 8,
+   "ratio": 0.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938061886",
+   "title": "Sterling Opal and Marcasite Bracelet",
+   "price": 75,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-sterling-opal-and-marcasite/2qhAHsfsWBDdjEeRvdkE1W",
+   "best": "eBay",
+   "med": 13,
    "ratio": 0.17,
    "ai_value": ""
   },
@@ -32282,6 +32524,17 @@
    "area": "corpuschristi",
    "url": "https://www.craigslist.org/view/d/corpus-christi-more-buried-treasures/9nRngNksCk95JmHBcdQddX",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968166584",
+   "title": "Vintage Aztec-Style Ceramic Bowl/Flower Pot",
+   "price": 45,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-aztec-style-ceramic/nJv4UrTvCQYyH9AC53Hvi6",
+   "best": "Etsy",
    "med": null,
    "ratio": null,
    "ai_value": ""

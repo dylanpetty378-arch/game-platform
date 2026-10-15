@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T14:23:52Z
+# Refurbish status — 2026-10-15T14:27:28Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8935 |
-| flagged | 2891 |
-| lensed | 867 |
-| queued | 703 |
+| flagged | 2914 |
+| lensed | 869 |
+| queued | 678 |
 | queued/relens | 485 |
 | decided/ask | 82 |
 | decided/kill | 49 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 14
 - searches: 3295
 - listings: 13783
-- lens: 11749
-- events: 37839
+- lens: 11774
+- events: 37864
 - comps: 2958
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: Bohemian papillon/oil-spot iridescent vase on dark amethyst ground, c.1900-10, 8in, pinched baluster form (Rindskopf/Kralik type, possibly Loetz) — Shipping is $25, and there are no photos of the  |
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 
-## Flagged by Lens, waiting for photo review (2891)
+## Flagged by Lens, waiting for photo review (2914)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -255,8 +255,8 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00l0l_hsC8n6fXXTp_0t20CI_300x300.jpg" width="120"> | 7946417677 | $175 | buffalo | [Breitling Chronometer> Blue Dial >Replica>Stainles](https://www.craigslist.org/view/d/buffalo-breitling-chronometer-blue-dial/7puGej2v4UaaRfcid4pEW2) | Reddit | 7950 | 45.43 |
 | <img src="https://images.craigslist.org/00t0t_5OcBCXBXDk0_0m90t2_300x300.jpg" width="120"> | 7933462459 | $20 | miami | [Toys In The Attic](https://www.craigslist.org/view/d/fort-lauderdale-toys-in-the-attic/oyK342y5FcdD2tM4Tjf7sf) | Coins & Bank Notes inc. House & Gardens Sale - Gorringe's | 899 | 44.95 |
 | <img src="https://images.craigslist.org/00V0V_6b3EzvF2DuM_0CI0qh_300x300.jpg" width="120"> | 7962497376 | $35 | chicago | [Antique / Vintage Silver-Plated Chamberstick Candl](https://www.craigslist.org/view/d/schaumburg-antique-vintage-silver/n1bEZSkeRpqT6h35z9tS1M) | eBay | 1569 | 44.83 |
+| <img src="https://images.craigslist.org/00Y0Y_ep0uo7jJq3N_0ra0mo_300x300.jpg" width="120"> | 7929677833 | $15 | chicago | [Vintage Danecraft 1/20 12k Gold Filled Earrings](https://www.craigslist.org/view/d/chicago-vintage-danecraft-gold-filled/bPEBpGBwLYtgXtvTswQogA) | Vintage 14k Gold Tapered Wide Band | 664 | 44.27 |
 | <img src="https://images.craigslist.org/00u0u_3A7VdgWroBo_0kI0t2_300x300.jpg" width="120"> | 7958130497 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/epXBtmnVkE6qFLNrGezXEg) | eBay | 3978 | 44.2 |
 | <img src="https://images.craigslist.org/00h0h_gdHDwwX5k9G_0lM0t2_300x300.jpg" width="120"> | 7974614568 | $90 | washingtondc | [Art Nouveau Cameo Glass Vase](https://www.craigslist.org/view/d/washington-art-nouveau-cameo-glass-vase/puhGk1YDhXv4efAvcckoFi) | Galle Emile / eBay | 3978 | 44.2 |
 | <img src="https://images.craigslist.org/00w0w_10kIz4jlfNP_0t20CI_300x300.jpg" width="120"> | 7949369207 | $10 | honolulu | [Asian Vase](https://www.craigslist.org/view/d/honolulu-asian-vase/27vnYJ6yrf1qu9aPrFTuBg) | Cloisonne Enamel Flower and Pot design Chinese ... | 440 | 44 |
 | <img src="https://images.craigslist.org/01414_fKLIzDyhJTa_0rZ0t2_300x300.jpg" width="120"> | 7946095244 | $15 | desmoines | [Costume jewelry decorations earrings ring necklace](https://www.craigslist.org/view/d/urbandale-costume-jewelry-decorations/9JkThSmy7UTXsTR9YDoG9z) | Mixed Lot Pre-Owned Sterling Silver .925 Women's Jewelry ... | 650 | 43.33 |
-| <img src="https://images.craigslist.org/00I0I_hl0J72Gzscc_0t20CI_300x300.jpg" width="120"> | 7945774545 | $35 | seattle | [Vintage Sterling Silver & CZ Eternity Ring](https://www.craigslist.org/view/d/olympia-vintage-sterling-silver-cz/pTPEHBJkHavenmt7D4ke3e) | Etsy | 1516 | 43.31 |
