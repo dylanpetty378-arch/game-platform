@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T14:37:58Z",
+ "updated": "2026-10-15T14:41:50Z",
  "tables": {
   "harvests": 14,
   "searches": 3295,
   "listings": 13783,
-  "lens": 11849,
-  "events": 37939,
+  "lens": 11874,
+  "events": 37964,
   "comps": 2958,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 603,
-  "flagged": 2973,
-  "lensed": 885
+  "queued": 578,
+  "flagged": 2990,
+  "lensed": 893
  },
  "last_harvests": [
   {
@@ -2554,6 +2554,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941194908",
+   "title": "Vintage Perfume Bottle",
+   "price": 10,
+   "area": "maine",
+   "url": "https://www.craigslist.org/view/d/palmyra-vintage-perfume-bottle/16Y1MPabpy6RzfK8EHNUC5",
+   "best": "Vtg Japan Floral Flower Porcelain Perfume Bottle with Bulb ...",
+   "med": 245,
+   "ratio": 24.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7962772860",
    "title": "Sterling Silver Ring, about size 8",
    "price": 30,
@@ -3511,6 +3522,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950873595",
+   "title": "Vintage Terracotta Female Figurine Statuette",
+   "price": 25,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/coos-bay-vintage-terracotta-female/ksnuwArgRqZhF2vbeHvyFC",
+   "best": "Old Primitive Clay Figurine - Etsy",
+   "med": 395,
+   "ratio": 15.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7981363473",
    "title": "Vintage Lightweight Tribal Handmade Pendant",
    "price": 19,
@@ -3650,6 +3672,17 @@
    "url": "https://www.craigslist.org/view/d/montpelier-station-montpelier-hunt/tanSsGcUkPyDT1XLdsv8S6",
    "best": "Arthur Sarnoff - Track Sloppy 1960s Horse Racing Signed - 17 ...",
    "med": 300,
+   "ratio": 15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954511109",
+   "title": "CASADES, LLADRO & NAO PORCELAIN FIGURINES",
+   "price": 30,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-casades-lladro-nao-porcelain/dAYfyPCTBJcefNZaBC2Ana",
+   "best": "Lladro, Spain. Five porcelain figurines of children. 1970 ...",
+   "med": 450,
    "ratio": 15,
    "ai_value": ""
   },
@@ -6459,6 +6492,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956244643",
+   "title": "Heart Crystal Earrings Pierced\ud83d\udc95",
+   "price": 10,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/brick-heart-crystal-earrings-pierced/abW8WKgb2qwDVgRcjFKD2U",
+   "best": "Paraiba Tourmaline Dangle Earring 925 Sterling Silver Heart ...",
+   "med": 70,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7964448915",
    "title": "Vintage c1970s Plein Air Autumn Landscape Oil Painting signed \"BH\"",
    "price": 40,
@@ -6973,6 +7017,17 @@
    "best": "Etsy",
    "med": 340,
    "ratio": 6.18,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942145390",
+   "title": "Antique Camera",
+   "price": 30,
+   "area": "jacksonville",
+   "url": "https://www.craigslist.org/view/d/jacksonville-antique-camera/wAXPHaqpoK5zsNZR512mxq",
+   "best": "Bell & Howell Zoomatic Director Series 8mm Movie Camera ...",
+   "med": 185,
+   "ratio": 6.17,
    "ai_value": ""
   },
   {
@@ -10023,6 +10078,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941831252",
+   "title": "Signed Haitian Oil Painting",
+   "price": 125,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-signed-haitian-oil-painting/uhb5LGWgCxKfbpR8ZW3qVC",
+   "best": "LISTED ARTIST Signed Ludovic J. Simpson Haitian Art Village ...",
+   "med": 495,
+   "ratio": 3.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7941603397",
    "title": "14K Amethyst Pendant",
    "price": 90,
@@ -10375,6 +10441,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958517300",
+   "title": "Star of David with Chai symbol necklace",
+   "price": 20,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/allentown-star-of-david-with-chai/rkvLTwBsaALkGNdbK9zzwh",
+   "best": "STAR of DAVID with Chai Pendant - Pewter on 20-inch Chain ...",
+   "med": 75,
+   "ratio": 3.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7957375931",
    "title": "Polk-A-Lay-Lee Vintage Polk Brothers Instrument",
    "price": 150,
@@ -10382,6 +10459,17 @@
    "url": "https://www.craigslist.org/view/d/wheaton-polk-lay-lee-vintage-polk/sw3pBVrHGgzGdmzXcNs9EK",
    "best": "Invaluable.com",
    "med": 560,
+   "ratio": 3.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982079924",
+   "title": "Chinese Wise Men Ceramic Figurines- Three",
+   "price": 40,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-chinese-wise-men-ceramic/6m5ztfSQ7DRpEhGVf6t1oD",
+   "best": "Chinese Wise Men Figurines Ceramic Set Of 2 4.25\u201d Tall | eBay",
+   "med": 149,
    "ratio": 3.73,
    "ai_value": ""
   },
@@ -14632,6 +14720,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929136736",
+   "title": "Coro Green Rhinestone Drop Clip On Earrings",
+   "price": 10,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/falls-church-coro-green-rhinestone-drop/qjC1ZjdbUm48PunvazsTLV",
+   "best": "90s Bejeweled Gold Tone Dangle Earrings | Glam Multicolor ...",
+   "med": 24,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7958886126",
    "title": "Glass Buddha Head",
    "price": 50,
@@ -15189,6 +15288,17 @@
    "url": "https://www.craigslist.org/view/d/attica-princeton-jewel-pocket-watch/uStXiJ5Mn7RdA9XZZgU8tw",
    "best": "Vintage 1930s 14k White Gold Waltham Open Face Pocket Watch ...",
    "med": 230,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954341134",
+   "title": "Vintage Navajo 925 Silver and Blue Lapis Cabochon Earrings",
+   "price": 50,
+   "area": "shreveport",
+   "url": "https://www.craigslist.org/view/d/bullard-vintage-navajo-925-silver-and/7PmYDq1WadEwvzhK6YmF8e",
+   "best": "Navajo Lapis Earrings \u2014 Cisco's Gallery",
+   "med": 115,
    "ratio": 2.3,
    "ai_value": ""
   },
@@ -20407,6 +20517,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953536894",
+   "title": "\u201cSplit\u201d Bowling Figurine",
+   "price": 10,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/canton-split-bowling-figurine/1JCd7Ft259CDNs6KC1CLtx",
+   "best": "Split, by Lee Sievers - Tom Clark - Etsy",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -20924,6 +21045,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983852099",
+   "title": "10k gold cross",
+   "price": 120,
+   "area": "wv",
+   "url": "https://www.craigslist.org/view/d/malta-10k-gold-cross/fujtgkw1uAf6N75YCXsPvB",
+   "best": "14K Gold Hollow Crucifix Cross Pendant By Michael Anthony | eBay",
+   "med": 169,
+   "ratio": 1.41,
+   "ai_value": ""
+  },
+  {
    "pid": "7953208388",
    "title": "Sterling Silver & Turquoise Pendants",
    "price": 35,
@@ -21162,6 +21294,17 @@
    "url": "https://www.craigslist.org/view/d/everett-love-you-necklace/gnVcoj4wT6XsV9ALGGCCX3",
    "best": "eBay",
    "med": 28,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948969237",
+   "title": "Vintage Southwest Native American Indian Redware Pottery Jug Pair",
+   "price": 50,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/belmont-vintage-southwest-native/asywquzkXwWKgZ8yYqeLjC",
+   "best": "2 Red Clay Jugs Rustic Unglazed Applied Handle Ovoid Small 5 ...",
+   "med": 70,
    "ratio": 1.4,
    "ai_value": ""
   },
@@ -22955,6 +23098,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-sterling-and-marcasite-pin/cEj4rp6FNiYGz3xcbsVbJw",
    "best": "Charter Club | Jewelry | Charter Club Silver Tone Marcasite ...",
    "med": 30,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983853245",
+   "title": "3 New Memorial Heart Necklaces with .925 Snake Chains",
+   "price": 10,
+   "area": "madison",
+   "url": "https://www.craigslist.org/view/d/mc-farland-new-memorial-heart-necklaces/pans2k4LNzKPvTPToTduNp",
+   "best": "Memorial Jewelry | Remembrance Necklaces & Gifts \u2013 Gifted in ...",
+   "med": 12,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -26259,6 +26413,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950051743",
+   "title": "Sterling Silver & turquoise bracelet - New 8\"",
+   "price": 165,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-turquoise/kKihWqdzr7BJ5R2g4psVC1",
+   "best": "925 Sterling Silver Oval Turquoise \"S\" Pattern Bracelet ...",
+   "med": 140,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7931818139",
    "title": "Vintage Anne Klein Jewelry",
    "price": 200,
@@ -29302,6 +29467,17 @@
    "url": "https://www.craigslist.org/view/d/martins-ferry-vintage-ingraham-pocket/2DCGQkHgdB2MJCfDSUNJC3",
    "best": "eBay",
    "med": 49,
+   "ratio": 0.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983853794",
+   "title": "Liz Claiborne Dover Street Necklace",
+   "price": 25,
+   "area": "oklahomacity",
+   "url": "https://www.craigslist.org/view/d/oklahoma-city-liz-claiborne-dover/3CeUE6FW2dpLSvPvDrK52p",
+   "best": "LIZ CLAIBORNE Rare Statement Necklace 18\" Gold Tone Chunky ...",
+   "med": 13,
    "ratio": 0.52,
    "ai_value": ""
   },
@@ -33184,6 +33360,17 @@
    "area": "inlandempire",
    "url": "https://www.craigslist.org/view/d/rancho-cucamonga-vintage-indian-wedding/hUs8nYCTfpQLDw6Fw3fGDY",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952845905",
+   "title": "Vintage original first series leatherman pst",
+   "price": 50,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/kew-gardens-vintage-original-first/mApwieNfCjyHp894WzQD3f",
+   "best": "VINTAGE IDAHO LEATHER CO. Boise, Idaho Q95 Knife Leather ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
