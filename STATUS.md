@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T21:20:52Z
+# Refurbish status — 2026-10-15T21:24:53Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,15 +7,15 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3646 |
-| lensed | 1118 |
-| queued | 528 |
+| flagged | 3627 |
+| lensed | 1131 |
+| queued | 503 |
 | queued/relens | 486 |
-| decided/kill | 97 |
+| decided/kill | 125 |
 | decided/ask | 80 |
 | expired | 19 |
 | photo_review/ask | 17 |
-| decided/find | 13 |
+| decided/find | 16 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
 | comps/pass | 1 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14683
-- lens: 12724
-- events: 39886
+- lens: 12749
+- events: 39942
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -39,7 +39,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 - craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 
-## Finds and open leads (93)
+## Finds and open leads (96)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -136,8 +136,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/122/Item/2026-10-08/9830893a-5584-486d-b4a0-e55cb82cf2f0llen_1008t1.jpeg_300x300.jpg" width="160"> | [Original 1943 Warren Hunter Watercolor Landscape Painting Fr](https://shopgoodwill.com/item/279898312) | $69.99 | seller 122 | **decided/find** — Watercolor pond landscape with lily pads, signed in block caps 'WARREN HUNTER 1943', glazed and framed; attributed to Warren Hunter (1904-1993), San Antonio / The block-caps signature does not match the reference example |
 | <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/43/Items/2026-10-13/83eff7d7-97b4-48c5-91bd-cdae78461c04prob_1013t1.jpeg_300x300.jpg" width="160"> | [36.7g 14K RG Doxa Vintage For Repair Personalized Women's Wa](https://shopgoodwill.com/item/280013768) | $199.99 | seller 43 | **decided/find** — 1940s Retro Doxa ladies cocktail watch, rose gold (acid-tested 14K, unmarked) with stepped scroll lugs, synthetic-looking ruby clusters + single-cut diamond chips, double snake-chain bracelet; 36.77 g gross; crown missin |
 | <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/376/Items/2026-10-12/87e1238b-2b19-40e8-abd6-32f677a05994gewc_1012t1.jpeg_300x300.jpg" width="160"> | [Antique 1903 Early Printing Of "The Call Of The Wild" By Jac](https://shopgoodwill.com/item/280291014) | $13.0 | seller 376 | **decided/find** — Jack London, The Call of the Wild, Macmillan 1903, pictorial green cloth, Goodwin/Bull illustrations, THIRD printing / Fair condition: rubbed corners, frayed spine ends, toned pages, plates present. Not a 1st printing, s |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/3YQAAeSwdbtqb6i4/s-l225.jpg_300x300.jpg" width="160"> | [Rare Antique Persian Qalamdan Pen Case – 19th Century Hand-P](https://www.ebay.com/itm/377572449600) | $19.99 | fb 138 | **decided/find** — Qajar Persian lacquered papier-mache qalamdan, late 19th c., figural lid (hunt scene) and side village scenes, red-ground underside, turquoise interior; ~9.5 in / Damaged-band value only; correctly titled so may be bid p |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **decided/find** — Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possib |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (3646)
+## Flagged by Lens, waiting for photo review (3627)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 

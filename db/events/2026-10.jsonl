@@ -39915,3 +39915,28 @@
 {"pid":"ebay377572449600","stage":"decided","status":"find","type":null,"note":"Qajar Persian lacquered papier-mache qalamdan, late 19th c., figural lid (hunt scene) and side village scenes, red-ground underside, turquoise interior; ~9.5 in | Damaged-band value only; correctly titled so may be bid past $55 - walk away. At 55: 180x0.87=157 - 55 - ~25 shipping both ways = ~77 profit. Seller id added to ebay-seller-req.json; detail mode must run in GitHub Actions (eBay API block","run":"ebay-20261015-2103","by":"claude","data":{"verdict":"lead","value_low":180,"max_bid":55,"ends":"2026-10-22 08:02 CDT (~159h)"},"ts":"2026-10-15T21:22:34Z"}
 {"pid":"ebay860047514103","stage":"decided","status":"kill","type":null,"note":"13-piece lot of 1870s-80s civilian tintypes, one 1/6-plate tintype in damaged union-style case, small tintype brooch | Thumbnail's 'uniformed' figure is a civilian in a suit; $75 opening leaves no margin","run":"ebay-20261015-2103","by":"claude","data":{"verdict":"kill","value_low":90,"max_bid":0,"ends":"2026-10-22 12:16 CDT (~164h)"},"ts":"2026-10-15T21:22:34Z"}
 {"pid":"ebay860047728877","stage":"decided","status":"kill","type":null,"note":"Chinese/Southeast Asian export pierced-and-chased low-grade silver bangle (fish, flowers, rope borders), not Navajo | $195 opening above value; no mark shown","run":"ebay-20261015-2103","by":"claude","data":{"verdict":"kill","value_low":60,"max_bid":0,"ends":"2026-10-25 13:21 CDT (~240h)"},"ts":"2026-10-15T21:22:34Z"}
+{"ts":"2026-10-15T21:20:31Z","pid":"7983910203","stage":"lensed","run":"lensworker-20261015-2110","note":null,"data":{"med":25,"ratio":1,"mismatch":[]}}
+{"ts":"2026-10-15T21:20:42Z","pid":"7973731074","stage":"flagged","run":"lensworker-20261015-2110","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T21:20:53Z","pid":"7953315914","stage":"lensed","run":"lensworker-20261015-2110","note":null,"data":{"med":49,"ratio":1.23,"mismatch":[]}}
+{"ts":"2026-10-15T21:21:01Z","pid":"7966093158","stage":"lensed","run":"lensworker-20261015-2110","note":null,"data":{"med":66,"ratio":2.2,"mismatch":[]}}
+{"ts":"2026-10-15T21:21:12Z","pid":"7974221208","stage":"flagged","run":"lensworker-20261015-2110","note":null,"data":{"med":998,"ratio":15.35,"mismatch":[]}}
+{"ts":"2026-10-15T21:21:22Z","pid":"7945455604","stage":"lensed","run":"lensworker-20261015-2110","note":null,"data":{"med":13,"ratio":0.72,"mismatch":[]}}
+{"ts":"2026-10-15T21:21:32Z","pid":"7950779014","stage":"lensed","run":"lensworker-20261015-2110","note":null,"data":{"med":39,"ratio":2.6,"mismatch":[]}}
+{"ts":"2026-10-15T21:21:43Z","pid":"7955664855","stage":"lensed","run":"lensworker-20261015-2110","note":null,"data":{"med":64,"ratio":1.68,"mismatch":[]}}
+{"ts":"2026-10-15T21:21:54Z","pid":"7980430770","stage":"lensed","run":"lensworker-20261015-2110","note":null,"data":{"med":22,"ratio":1.1,"mismatch":[]}}
+{"ts":"2026-10-15T21:22:04Z","pid":"7931421973","stage":"lensed","run":"lensworker-20261015-2120","note":null,"data":{"med":48,"ratio":1.07,"mismatch":[]}}
+{"ts":"2026-10-15T21:22:14Z","pid":"7961980173","stage":"flagged","run":"lensworker-20261015-2120","note":"Lens names Artist, Life — title does not","data":{"med":195,"ratio":6.5,"mismatch":["Artist","Life"]}}
+{"ts":"2026-10-15T21:22:25Z","pid":"7983912813","stage":"flagged","run":"lensworker-20261015-2120","note":null,"data":{"med":85,"ratio":4.25,"mismatch":[]}}
+{"ts":"2026-10-15T21:22:36Z","pid":"7950542084","stage":"lensed","run":"lensworker-20261015-2120","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-15T21:22:44Z","pid":"7978959093","stage":"flagged","run":"lensworker-20261015-2120","note":"Lens names Navajo — title does not","data":{"med":85,"ratio":2.43,"mismatch":["Navajo"]}}
+{"ts":"2026-10-15T21:22:56Z","pid":"7948671955","stage":"lensed","run":"lensworker-20261015-2120","note":null,"data":{"med":48,"ratio":1.6,"mismatch":[]}}
+{"ts":"2026-10-15T21:23:07Z","pid":"7952165848","stage":"flagged","run":"lensworker-20261015-2120","note":null,"data":{"med":850,"ratio":11.33,"mismatch":[]}}
+{"ts":"2026-10-15T21:23:18Z","pid":"7984023108","stage":"flagged","run":"lensworker-20261015-2120","note":null,"data":{"med":100,"ratio":3.33,"mismatch":[]}}
+{"ts":"2026-10-15T21:23:29Z","pid":"7962869238","stage":"flagged","run":"lensworker-20261015-2120","note":"Lens names Silver — title does not","data":{"med":87,"ratio":8.7,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T21:23:38Z","pid":"7950231798","stage":"flagged","run":"lensworker-20261015-2120","note":"Lens names Royal — title does not","data":{"med":15,"ratio":1.5,"mismatch":["Royal"]}}
+{"ts":"2026-10-15T21:23:50Z","pid":"7983997569","stage":"flagged","run":"lensworker-20261015-2120","note":"Lens names Silver, Vanguard — title does not","data":{"med":65,"ratio":13,"mismatch":["Silver","Vanguard"]}}
+{"ts":"2026-10-15T21:23:59Z","pid":"7954341071","stage":"lensed","run":"lensworker-20261015-2120","note":null,"data":{"med":19,"ratio":1.9,"mismatch":[]}}
+{"ts":"2026-10-15T21:24:07Z","pid":"7955319941","stage":"flagged","run":"lensworker-20261015-2120","note":null,"data":{"med":475,"ratio":47.5,"mismatch":[]}}
+{"ts":"2026-10-15T21:24:16Z","pid":"7936092329","stage":"lensed","run":"lensworker-20261015-2120","note":null,"data":{"med":38,"ratio":1.9,"mismatch":[]}}
+{"ts":"2026-10-15T21:24:25Z","pid":"7984108851","stage":"flagged","run":"lensworker-20261015-2120","note":"Lens names Jewelry, Pink — title does not","data":{"med":25,"ratio":1.67,"mismatch":["Jewelry","Pink"]}}
+{"ts":"2026-10-15T21:24:33Z","pid":"7958829924","stage":"lensed","run":"lensworker-20261015-2120","note":null,"data":{"med":30,"ratio":1.5,"mismatch":[]}}

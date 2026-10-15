@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T21:20:52Z",
+ "updated": "2026-10-15T21:24:53Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14683,
-  "lens": 12724,
-  "events": 39886,
+  "lens": 12749,
+  "events": 39942,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -16,14 +16,14 @@
   "queued/relens": 486,
   "decided/ask": 80,
   "decided/bundle": 4,
-  "decided/kill": 97,
+  "decided/kill": 125,
   "expired": 19,
-  "decided/find": 13,
+  "decided/find": 16,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 528,
-  "flagged": 3646,
-  "lensed": 1118
+  "queued": 503,
+  "flagged": 3627,
+  "lensed": 1131
  },
  "last_harvests": [
   {
@@ -1884,6 +1884,17 @@
    "best": "Amber Canyon* by Tony Abeyta 32nd annual New Mexico Arts ...",
    "med": 4800,
    "ratio": 48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955319941",
+   "title": "floral picture",
+   "price": 10,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/farmingville-floral-picture/v4EJoyLVqnYn6ECJYcW1YC",
+   "best": "Vintage Large Botanical Lithograph Flower Print 1972 ...",
+   "med": 475,
+   "ratio": 47.5,
    "ai_value": ""
   },
   {
@@ -4274,6 +4285,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974221208",
+   "title": "Tarahumara pottery",
+   "price": 65,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-tarahumara-pottery/veSK8eJYAo82AP88ZCsaMp",
+   "best": "Lot - LARGE TARAHUMARA INDIAN TAN & RED POTTERY OLLA",
+   "med": 998,
+   "ratio": 15.35,
+   "ai_value": ""
+  },
+  {
    "pid": "7965732762",
    "title": "RINGS",
    "price": 15,
@@ -4875,6 +4897,17 @@
    "url": "https://www.craigslist.org/view/d/chicago-vintage-cultra-gf-cultured/vYT3QN86aTqJxMppbuYjC7",
    "best": "eBay",
    "med": 195,
+   "ratio": 13,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983997569",
+   "title": "VINTAGE BADGES (3",
+   "price": 5,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-vintage-badges/4xPd4ZYhVMVpguNDtm1DoT",
+   "best": "Navy Hat Badge Pin Sterling Silver 10k GF Vanguard Vtg Old ...",
+   "med": 65,
    "ratio": 13,
    "ai_value": ""
   },
@@ -5491,6 +5524,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-south-western-keychain/4zVh837zwtrU3FM7zLWNKZ",
    "best": "Carolyn Pollack 925 Sterling Silver Charm Bracelet with ...",
    "med": 170,
+   "ratio": 11.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952165848",
+   "title": "Original Signed Vintage 1989 Watercolor House Painting Framed!",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-original-signed-vintage/8xuMzGzkjiWSrDGMC1YgzF",
+   "best": "Original Signed Vintage 1989 Watercolor House Painting ...",
+   "med": 850,
    "ratio": 11.33,
    "ai_value": ""
   },
@@ -6570,6 +6614,17 @@
    "best": "Antique Italian Turquoise Glass Vase With Silver Overlay ...",
    "med": 175,
    "ratio": 8.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962869238",
+   "title": "Red Beaded Necklace with Butterfly Pendant",
+   "price": 10,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-red-beaded-necklace-with/1mPpQr4qqPh3itLrwsr2SJ",
+   "best": "Gorgeous Sterling Silver Red And Silver Beaded Butterfly ...",
+   "med": 87,
+   "ratio": 8.7,
    "ai_value": ""
   },
   {
@@ -8153,6 +8208,17 @@
    "url": "https://www.craigslist.org/view/d/maynard-majolica-pitcher-with-birds/cdQvAVxJWrKYrTjfv2VQ7f",
    "best": "Vintage Majolica 8\" Pitcher with Birds | eBay",
    "med": 325,
+   "ratio": 6.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961980173",
+   "title": "Painting - flowers",
+   "price": 30,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-painting-flowers/uFpsEA3wwERkNUtjH4Gw68",
+   "best": "Mini Oil Paintings by Artist Eric Linnell. Vintage Still Life ...",
+   "med": 195,
    "ratio": 6.5,
    "ai_value": ""
   },
@@ -11402,6 +11468,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983912813",
+   "title": "Blue topaz & sterling silver butterfly pendant",
+   "price": 20,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/palm-harbor-blue-topaz-sterling-silver/r1tJqhZUyqoDiRr6M2YQcB",
+   "best": "Swiss Blue Topaz Pendant, Genuine Swiss Blue Topaz Sterling ...",
+   "med": 85,
+   "ratio": 4.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7983337461",
    "title": "Waltham Crescent St. Canadian Dial Pocket Watch",
    "price": 495,
@@ -14095,6 +14172,17 @@
    "med": 50,
    "ratio": 3.33,
    "ai_value": "Sold at Auction: Statue of Indian squaw with baby $50"
+  },
+  {
+   "pid": "7984023108",
+   "title": "Vintage ARTMARK Asian Faux Bone Resin Figures",
+   "price": 30,
+   "area": "charleston",
+   "url": "https://www.craigslist.org/view/d/summerville-vintage-artmark-asian-faux/njfmi6LiBve71HoyK6aqSd",
+   "best": "Vintage Asian Man and Woman Resin Sculptures, Ornately ...",
+   "med": 100,
+   "ratio": 3.33,
+   "ai_value": ""
   },
   {
    "pid": "7954961733",
@@ -17833,6 +17921,17 @@
    "url": "https://www.craigslist.org/view/d/chesapeake-vintage-watch/2zZcTGhNrQupd2beyb547G",
    "best": "Gem",
    "med": 146,
+   "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978959093",
+   "title": "Vintage Southwest design black wedding vase signed GG",
+   "price": 35,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-vintage-southwest-design-black/emembZYvaPVk263ukijyCY",
+   "best": "Large Signed Black On Black Vintage Cedar Mesa Navajo ...",
+   "med": 85,
    "ratio": 2.43,
    "ai_value": ""
   },
@@ -23051,6 +23150,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984108851",
+   "title": "CHICO'S NECKLACE",
+   "price": 15,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/strongsville-chicos-necklace/8u2ibpZZ9sNKVFHUV4Mu34",
+   "best": "Jewelry | Puca Necklace Elephant Choker White Pink | Poshmark",
+   "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965008391",
    "title": "Vintage Hand embroidered Elephant Tapestry",
    "price": 175,
@@ -24774,6 +24884,17 @@
    "url": "https://www.craigslist.org/view/d/solon-springs-vintage-footed-pin-cushion/nNK3UUiQYgD9Grxb3Hxo6m",
    "best": "Vintage 70's Mid Century Homco Plastic Gold Wall Pocket ...",
    "med": 30,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950231798",
+   "title": "Vintage CocaCola Tin Serving Trays",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/brighton-vintage-cocacola-tin-serving/6WQdkepRexjbAJdJD3dEhZ",
+   "best": "Vintage RC Royal Crown Cola Tin/Metal Tray Fabcraft USA | eBay",
+   "med": 15,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -40244,235 +40365,15 @@
    "ai_value": ""
   },
   {
-   "pid": "ebay407293107428",
-   "title": "310 Antique Prints Maps Engravings Lot Franklin Birds Portraits Architecture",
-   "price": 100.0,
-   "area": "fb 1",
-   "url": "https://www.ebay.com/itm/407293107428",
-   "best": null,
+   "pid": "7973731074",
+   "title": "Pocket knives set of 10",
+   "price": 40,
+   "area": "huntsville",
+   "url": "https://www.craigslist.org/view/d/ryland-pocket-knives-set-of-10/25XsnLb2ghLmoEtqMyrYMd",
+   "best": "Knife Lot of 10 TSA Confiscated Pocket Knives Various Brands ...",
    "med": null,
    "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay307233187577",
-   "title": "Arthur Thrall \u201cWhite Line\u201d Framed Abstract Gray Textured Painting",
-   "price": 200.0,
-   "area": "fb 80",
-   "url": "https://www.ebay.com/itm/307233187577",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay366730936196",
-   "title": "Vintage  Traditional Japanese Instrument 21 Inches",
-   "price": 63.0,
-   "area": "fb 86",
-   "url": "https://www.ebay.com/itm/366730936196",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay960043867676",
-   "title": "John S. Goodall Set of 2 Signed Framed Beach Seascape Figure Paintings",
-   "price": 60.0,
-   "area": "fb 87",
-   "url": "https://www.ebay.com/itm/960043867676",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay840003907060",
-   "title": "Portrait Embellished Print of Man in Military Uniform on strawboard, Unframed",
-   "price": 45.0,
-   "area": "fb 85",
-   "url": "https://www.ebay.com/itm/840003907060",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay377572589717",
-   "title": "Old Chinese Carved Jade Lion Figure From Estate",
-   "price": 25.0,
-   "area": "fb 62",
-   "url": "https://www.ebay.com/itm/377572589717",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay128136927954",
-   "title": "Japanese Kakejiku Hanging Scroll Rooster & Hen Painting on Paper, Japan",
-   "price": 80.25,
-   "area": "fb 0",
-   "url": "https://www.ebay.com/itm/128136927954",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay377572449600",
-   "title": "Rare Antique Persian Qalamdan Pen Case \u2013 19th Century Hand-Painted",
-   "price": 19.99,
-   "area": "fb 138",
-   "url": "https://www.ebay.com/itm/377572449600",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay237116530585",
-   "title": "Antique Chinese Carved Soapstone Seal Foo Dog Qian Dynasty",
-   "price": 25.0,
-   "area": "fb 109",
-   "url": "https://www.ebay.com/itm/237116530585",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay820221694958",
-   "title": "Antique Japanese Takatori mizusashi tea ceremony pottery water jug glazed jar",
-   "price": 200.0,
-   "area": "fb 41",
-   "url": "https://www.ebay.com/itm/820221694958",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay307223536624",
-   "title": "Round Black & Red Carved Lacquer Lidded Box with Chinese Character Mark",
-   "price": 150.0,
-   "area": "fb 1",
-   "url": "https://www.ebay.com/itm/307223536624",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay960048103744",
-   "title": "Miniature Portrait of a Boy",
-   "price": 150.0,
-   "area": "fb 150",
-   "url": "https://www.ebay.com/itm/960048103744",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay407281611475",
-   "title": "Pair Of Antique Chinese Porcelain Bowls Goldfish ",
-   "price": 199.0,
-   "area": "fb 54",
-   "url": "https://www.ebay.com/itm/407281611475",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay206614319032",
-   "title": "Ceramic Pottery Decanter/ Vase-- Beautiful Green Glazing!!",
-   "price": 6.5,
-   "area": "fb 135",
-   "url": "https://www.ebay.com/itm/206614319032",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay307222919911",
-   "title": "Unmarked Blue & White Dragon Theme Lidded Ceramic Vase/Jar, Decorative",
-   "price": 179.0,
-   "area": "fb 10",
-   "url": "https://www.ebay.com/itm/307222919911",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay307223043808",
-   "title": "Fine Crackle Glaze Ceramic Vase Signed, Painted Backstamp w/ Box Chinese Song",
-   "price": 185.0,
-   "area": "fb 10",
-   "url": "https://www.ebay.com/itm/307223043808",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay920042888980",
-   "title": "Vintage Native American Sterling Silver Turquoise Bolo Tie (broken cord)",
-   "price": 150.0,
-   "area": "fb 5",
-   "url": "https://www.ebay.com/itm/920042888980",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay860047728877",
-   "title": "Vintage Tribal Engraved Silver Bangle Bracelet",
-   "price": 195.0,
-   "area": "fb 59",
-   "url": "https://www.ebay.com/itm/860047728877",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay366736418976",
-   "title": "Gold Tone Metal Band Ring Size 11 Plain No Main Stone No Secondary Stone",
-   "price": 200.0,
-   "area": "fb 0",
-   "url": "https://www.ebay.com/itm/366736418976",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay960070615299",
-   "title": "Vintage Gold-Tone Ribbon Bow Brooch with Carved Details",
-   "price": 104.0,
-   "area": "fb 1",
-   "url": "https://www.ebay.com/itm/960070615299",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay128137081948",
-   "title": "Gold Tone Round Metal Brooch Pin with Raised Emblem Design, No Stone",
-   "price": 68.0,
-   "area": "fb 129",
-   "url": "https://www.ebay.com/itm/128137081948",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
+   "ai_value": ""
   },
   {
    "pid": "ebay198717842855",
@@ -40480,116 +40381,6 @@
    "price": 125.0,
    "area": "fb 112",
    "url": "https://www.ebay.com/itm/198717842855",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay407277137493",
-   "title": "waltham pocket watch Gold? Pw37",
-   "price": 199.99,
-   "area": "fb 119",
-   "url": "https://www.ebay.com/itm/407277137493",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay227561022234",
-   "title": "Exackta Camera ",
-   "price": 199.99,
-   "area": "fb 87",
-   "url": "https://www.ebay.com/itm/227561022234",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay307220021541",
-   "title": "Rare Large format Scientific Lense",
-   "price": 60.0,
-   "area": "fb 141",
-   "url": "https://www.ebay.com/itm/307220021541",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay900015801194",
-   "title": "American Beauty Cigarettes Baseball Series Tobacco Card - Cravath, Minneapolis",
-   "price": 5.0,
-   "area": "fb 98",
-   "url": "https://www.ebay.com/itm/900015801194",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay860047514103",
-   "title": "Antique 13pc Tintype &Daguerreotype Photo Lot Victorian Cased Portrait Id\u2019d Name",
-   "price": 75.0,
-   "area": "fb 12",
-   "url": "https://www.ebay.com/itm/860047514103",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay407276960676",
-   "title": "Vintage Southwestern Style Coiled Basketry Olla Jar \u2013 Star Base",
-   "price": 69.0,
-   "area": "fb 11",
-   "url": "https://www.ebay.com/itm/407276960676",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay147626533601",
-   "title": "TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original Animation Cel.",
-   "price": 98.0,
-   "area": "fb 121",
-   "url": "https://www.ebay.com/itm/147626533601",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay198717632270",
-   "title": "Metal Cymbal Unmounted Percussion Instrument Single Piece Includes Cymbal",
-   "price": 175.0,
-   "area": "fb 11",
-   "url": "https://www.ebay.com/itm/198717632270",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay820228758364",
-   "title": "conn saxophone",
-   "price": 50.0,
-   "area": "fb 35",
-   "url": "https://www.ebay.com/itm/820228758364",
-   "best": null,
-   "med": null,
-   "ratio": null,
-   "ai_value": null
-  },
-  {
-   "pid": "ebay327397164698",
-   "title": "Antonius Stradivarius copy 4/4",
-   "price": 49.0,
-   "area": "fb 133",
-   "url": "https://www.ebay.com/itm/327397164698",
    "best": null,
    "med": null,
    "ratio": null,
@@ -41524,6 +41315,36 @@
    "area": "seller 376",
    "url": "https://shopgoodwill.com/item/280291014",
    "note": "Jack London, The Call of the Wild, Macmillan 1903, pictorial green cloth, Goodwin/Bull illustrations, THIRD printing | Fair condition: rubbed corners, frayed spine ends, toned pages, plates present. Not a 1st printing, so not an egg. Fair 1903 reprints realise roughly $150-250. Profit floor holds only at or below $70.",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "ebay377572449600",
+   "title": "Rare Antique Persian Qalamdan Pen Case \u2013 19th Century Hand-Painted",
+   "price": 19.99,
+   "area": "fb 138",
+   "url": "https://www.ebay.com/itm/377572449600",
+   "note": "Qajar Persian lacquered papier-mache qalamdan, late 19th c., figural lid (hunt scene) and side village scenes, red-ground underside, turquoise interior; ~9.5 in | Damaged-band value only; correctly titled so may be bid past $55 - walk away. At 55: 180x0.87=157 - 55 - ~25 shipping both ways = ~77 profit. Seller id added to ebay-seller-req.json; detail mode must run in GitHub Actions (eBay API block",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "ebay128137081948",
+   "title": "Gold Tone Round Metal Brooch Pin with Raised Emblem Design, No Stone",
+   "price": 68.0,
+   "area": "fb 129",
+   "url": "https://www.ebay.com/itm/128137081948",
+   "note": "Round repousse brooch, ~30 mm, rose-yellow metal, c.1890 (seller's date). Back has a struck oval-cartouche hallmark, a rectangular maker's mark and an assay-scrape dot: the European/Imperial Russian assay pattern (possibly a kokoshnik '56' = 14k). Listed as 'gold tone' | Passes the hallmark rule, but the karat number is unread. Risk: Russian '84' silver-gilt uses the same oval cartouche (silver-gi",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "ebay147626533601",
+   "title": "TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original Animation Cel.",
+   "price": 98.0,
+   "area": "fb 121",
+   "url": "https://www.ebay.com/itm/147626533601",
+   "note": "Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU logo printed on it), with Filmation exposure folder dated 4/85 visible behind | Not an egg: copy background, not a key He-Man/Skeletor setup. Shipping not stated in listing - confirm ",
    "stage": "decided",
    "status": "find"
   }
