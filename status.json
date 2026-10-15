@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T00:54:37Z",
+ "updated": "2026-10-15T00:58:55Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10449,
-  "events": 34865,
+  "lens": 10474,
+  "events": 34890,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 403,
-  "flagged": 1889,
-  "lensed": 572
+  "queued": 378,
+  "flagged": 1907,
+  "lensed": 579
  },
  "last_harvests": [
   {
@@ -728,6 +728,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947565852",
+   "title": "Elegant Pink Ruby and 925 Sterling Silver Cocktail Ring  - Size 7.5",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/pleasanton-elegant-pink-ruby-and-925/fYVfmnYD3ukvUjapBcTTU3",
+   "best": "Certified Natural Burma Ruby Cabochon 10ct Diamond 18k White ...",
+   "med": 10800,
+   "ratio": 144,
+   "ai_value": ""
+  },
+  {
    "pid": "7974234039",
    "title": "Ladies Silver Ring",
    "price": 35,
@@ -1220,6 +1231,17 @@
    "best": "Pinterest",
    "med": 2750,
    "ratio": 55,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936285064",
+   "title": "Lot of antique tools",
+   "price": 75,
+   "area": "hartford",
+   "url": "https://www.craigslist.org/view/d/west-simsbury-lot-of-antique-tools/6siCNp67qUy3scnnddC1VP",
+   "best": "1906 Antique Pine Carpenters Tool Chest Trunk Strong Box ...",
+   "med": 4000,
+   "ratio": 53.33,
    "ai_value": ""
   },
   {
@@ -2279,6 +2301,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935117047",
+   "title": "Vintage \"Waves\" gold tone metal pin",
+   "price": 1,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/carlsbad-vintage-waves-gold-tone-metal/pw3UpfEf6XALrDfSLQjXFt",
+   "best": "Napier Vintage Gold Tone Costume Fashion Jewelry Pin ...",
+   "med": 18,
+   "ratio": 18,
+   "ai_value": ""
+  },
+  {
    "pid": "7945022558",
    "title": "Silver plated punch bowl",
    "price": 50,
@@ -2804,6 +2837,17 @@
    "best": "Vintage Toy Charlie Weaver Bartender by Rosko Japan #0650 ...",
    "med": 140,
    "ratio": 14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976115480",
+   "title": "house decor",
+   "price": 100,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/debary-house-decor/ruMafKaAeASCPZWRNveA12",
+   "best": "Clewell Copper-Clad Vase - California Historical Design, Inc.",
+   "med": 1375,
+   "ratio": 13.75,
    "ai_value": ""
   },
   {
@@ -4248,6 +4292,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949539199",
+   "title": "Bulova  Ladies Wristwatch",
+   "price": 10,
+   "area": "chambana",
+   "url": "https://www.craigslist.org/view/d/peoria-bulova-ladies-wristwatch/eHURXe7cJP2G2FPHgEmrhz",
+   "best": "VINTAGE LADY ELGIN WATCH 10K GOLD FILLED ...",
+   "med": 75,
+   "ratio": 7.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7979401251",
    "title": "Antique Walking Sticks $25.00 Each",
    "price": 25,
@@ -4930,6 +4985,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940335331",
+   "title": "QUARTZ WATCH WITH TURQUOISE AND JET",
+   "price": 25,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/catalina-quartz-watch-with-turquoise/ajddv7Fmgn3fFSkmSzd8mu",
+   "best": "Vintage navajo timex sterling - Gem",
+   "med": 148,
+   "ratio": 5.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7949226844",
    "title": "Antique c1963 Pastoral Mountain Lake Oil Painting signed S. E. Abbott",
    "price": 85,
@@ -4957,6 +5023,17 @@
    "price": 30,
    "area": "miami",
    "url": "https://www.craigslist.org/view/d/miami-capodimonte-trinket-box/4BYfa1hpdAmQPeTwSX2xpM",
+   "best": "Vintage/Authentic Capodimonte Ceramic Round Shaped ...",
+   "med": 175,
+   "ratio": 5.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935642497",
+   "title": "Capodimonte Trinket Box",
+   "price": 30,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/miami-capodimonte-trinket-box/pJLaUNLUWFizGw6UXHi4DM",
    "best": "Vintage/Authentic Capodimonte Ceramic Round Shaped ...",
    "med": 175,
    "ratio": 5.83,
@@ -5278,6 +5355,17 @@
    "url": "https://www.craigslist.org/view/d/west-simsbury-lot-of-three-vintage/2okvRNMQryUp7QzbDLXfsN",
    "best": "Craigslist",
    "med": 160,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949062042",
+   "title": "Vintage Signed Venetian Canal Painting in Ornate Gold Frame \u2013 Italian",
+   "price": 60,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/bedford-vintage-signed-venetian-canal/tFXVyQZPpW5eHEDSdRoowC",
+   "best": "Tapestry Shoppe",
+   "med": 320,
    "ratio": 5.33,
    "ai_value": ""
   },
@@ -6041,6 +6129,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939434221",
+   "title": "Signed painting of house with pines",
+   "price": 75,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/waltham-signed-painting-of-house-with/nnMXH8hmGMYsMbYdHZ31tq",
+   "best": "R. Danford Original Oil Painting Signed Framed Mountains ...",
+   "med": 329,
+   "ratio": 4.39,
+   "ai_value": ""
+  },
+  {
    "pid": "7983614550",
    "title": "Ventura Bruno Royal Artist Nylon Guitar m",
    "price": 80,
@@ -6102,6 +6201,17 @@
    "area": "bham",
    "url": "https://www.craigslist.org/view/d/morris-gold-over-925-ring/sD5rYAL9qhz9XuTW4YdauX",
    "best": "Craigslist",
+   "med": 65,
+   "ratio": 4.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952968893",
+   "title": "Two Mickey Mouse Watches",
+   "price": 15,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/torrance-two-mickey-mouse-watches/3uVDuZuBNWgCr5VApFrz6i",
+   "best": "LORUS DISNEY GOLD SILHOUETTE MICKEY MOUSE WDW CHILDS WATCH ...",
    "med": 65,
    "ratio": 4.33,
    "ai_value": ""
@@ -6437,6 +6547,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949301269",
+   "title": "Charming Bear Pendant Chain",
+   "price": 400,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-charming-bear-pendant-chain/epMT3VgzXLHpJqA3EAJLDB",
+   "best": "14K Gold Paw Print Bracelet, Dog Paw Name Bracelet, Tiny Pet ...",
+   "med": 1637,
+   "ratio": 4.09,
+   "ai_value": ""
+  },
+  {
    "pid": "7946081731",
    "title": "Sterling silver cross pendant",
    "price": 60,
@@ -6663,6 +6784,17 @@
    "area": "boulder",
    "url": "https://www.craigslist.org/view/d/longmont-silver-toned-diamond-stud/9YZtm3YrszEYNix36Tc1b7",
    "best": "Sterling Silver Round White Diamonds 1/10 cttw Stud Earrings ...",
+   "med": 80,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948174196",
+   "title": "Vintage Green Glass Vase",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-green-glass-vase/1np5YmuQQsthuaXALpHTZa",
+   "best": "Uranium Glass Parfait Sundae Glass Made in USA Paden City - Etsy",
    "med": 80,
    "ratio": 4,
    "ai_value": ""
@@ -7328,6 +7460,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974050175",
+   "title": "Gold tone ballerina genuine pearl pendant necklace",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-gold-tone-ballerina-genuine/cMgU6Ao86tVJ5jxkz93KCT",
+   "best": "S\u00e9yoro Collection Fantastic Fantasies | Antwerp",
+   "med": 100,
+   "ratio": 3.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7954877341",
    "title": "Collection of Vintage Glass Mason Jars-Priced Individually",
    "price": 7,
@@ -7466,6 +7609,17 @@
    "area": "miami",
    "url": "https://www.craigslist.org/view/d/miami-vase/mbQabZQvkCXBFdYPwxAdsV",
    "best": "Celestial Rose Vase by Rosanna Sanders | eBay",
+   "med": 100,
+   "ratio": 3.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983684921",
+   "title": "A/X ARMANI EXCHANGE WATCH",
+   "price": 30,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/atlanta-x-armani-exchange-watch/cdJuDkubdphmR33jxhjvQY",
+   "best": "A | X ARMANI EXCHANGE Watch AX2084 Mens FREE PRIORITY ...",
    "med": 100,
    "ratio": 3.33,
    "ai_value": ""
@@ -9337,6 +9491,17 @@
    "url": "https://www.craigslist.org/view/d/boise-bracelets-for-10/aN3GtMuNoJTRSXzxnmRpkc",
    "best": "Gem",
    "med": 25,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937999221",
+   "title": "Antique Sterling Silver Cannetille Filigree Mesh Chainmail Bracelet",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-antique-sterling-silver/m2ukpr49XpVTbLzQhAvMYf",
+   "best": "Antique Heart Charm Silver Cannetille Design Bracelet | eBay",
+   "med": 250,
    "ratio": 2.5,
    "ai_value": ""
   },
@@ -12637,6 +12802,17 @@
    "url": "https://www.craigslist.org/view/d/utica-vintage-pez-dispensers/g96kD8kzLGkhwEwn5k7Giy",
    "best": "eBay",
    "med": 47,
+   "ratio": 1.57,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943890734",
+   "title": "HARLEY DAVIDSON 14K Gold Filled Vintage BANGLE BRACELET",
+   "price": 99,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-harley-davidson-14k-gold/gft6u8jdeA3x1D9t2AzaVS",
+   "best": "Harley Davidson - Black Hills Gold Shield Spring Bangle ...",
+   "med": 155,
    "ratio": 1.57,
    "ai_value": ""
   },
@@ -16084,6 +16260,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979536998",
+   "title": "2 Vintage porcelain pieces",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/woodland-vintage-porcelain-pieces/1M8BYNaFxLUHSR3oorKANX",
+   "best": "Gorham Porcelain Eastern Bluebird Music Box Blue Bird Japan ...",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -19479,6 +19666,17 @@
    "url": "https://www.craigslist.org/view/d/buffalo-collection-of-46-watch-movement/36o4PdqrZn89AWJQpupn2e",
    "best": "Vintage Watch movements, faces, bezels, straps - spare ...",
    "med": 125,
+   "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949315448",
+   "title": "Heart nugget pendant",
+   "price": 120,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-heart-nugget-pendant/j3ypYMikL6L5XRhLHV5mem",
+   "best": "925 Sterling Silver Polished Mini Diamond Cut Puff Heart ...",
+   "med": 43,
    "ratio": 0.36,
    "ai_value": ""
   },

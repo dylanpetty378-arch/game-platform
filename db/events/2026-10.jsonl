@@ -34863,3 +34863,28 @@
 {"ts":"2026-10-15T00:54:06Z","pid":"7939222121","stage":"flagged","run":"lensworker-20261015-0047","note":"Lens names Indian, Native — title does not","data":{"med":150,"ratio":2.31,"mismatch":["Indian","Native"]}}
 {"ts":"2026-10-15T00:54:13Z","pid":"7965575643","stage":"flagged","run":"lensworker-20261015-0047","note":"Lens names Hunter, Size, Waltham — title does not","data":{"med":1300,"ratio":32.5,"mismatch":["Hunter","Size","Waltham"]}}
 {"ts":"2026-10-15T00:54:20Z","pid":"7956221718","stage":"flagged","run":"lensworker-20261015-0047","note":null,"data":{"med":116,"ratio":5.27,"mismatch":[]}}
+{"ts":"2026-10-15T00:54:31Z","pid":"7947565852","stage":"flagged","run":"lensworker-20261015-0047","note":null,"data":{"med":10800,"ratio":144,"mismatch":[]}}
+{"ts":"2026-10-15T00:54:40Z","pid":"7983684921","stage":"flagged","run":"lensworker-20261015-0047","note":null,"data":{"med":100,"ratio":3.33,"mismatch":[]}}
+{"ts":"2026-10-15T00:54:50Z","pid":"7940335331","stage":"flagged","run":"lensworker-20261015-0047","note":null,"data":{"med":148,"ratio":5.92,"mismatch":[]}}
+{"ts":"2026-10-15T00:55:00Z","pid":"7979536998","stage":"flagged","run":"lensworker-20261015-0047","note":"Lens names Gorham — title does not","data":{"med":25,"ratio":1,"mismatch":["Gorham"]}}
+{"ts":"2026-10-15T00:55:12Z","pid":"7935642497","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":175,"ratio":5.83,"mismatch":[]}}
+{"ts":"2026-10-15T00:55:22Z","pid":"7949315448","stage":"flagged","run":"lensworker-20261015-0054","note":"Lens names Silver — title does not","data":{"med":43,"ratio":0.36,"mismatch":["Silver"]}}
+{"ts":"2026-10-15T00:55:33Z","pid":"7952968893","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":65,"ratio":4.33,"mismatch":[]}}
+{"ts":"2026-10-15T00:55:41Z","pid":"7949062042","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":320,"ratio":5.33,"mismatch":[]}}
+{"ts":"2026-10-15T00:55:49Z","pid":"7956011116","stage":"lensed","run":"lensworker-20261015-0054","note":null,"data":{"med":43,"ratio":2.87,"mismatch":[]}}
+{"ts":"2026-10-15T00:55:59Z","pid":"7935117047","stage":"flagged","run":"lensworker-20261015-0054","note":"Lens names Fashion, Jewelry — title does not","data":{"med":18,"ratio":18,"mismatch":["Fashion","Jewelry"]}}
+{"ts":"2026-10-15T00:56:09Z","pid":"7937999221","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":250,"ratio":2.5,"mismatch":[]}}
+{"ts":"2026-10-15T00:56:19Z","pid":"7936285064","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":4000,"ratio":53.33,"mismatch":[]}}
+{"ts":"2026-10-15T00:56:28Z","pid":"7939434221","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":329,"ratio":4.39,"mismatch":[]}}
+{"ts":"2026-10-15T00:56:37Z","pid":"7956813575","stage":"lensed","run":"lensworker-20261015-0054","note":null,"data":{"med":68,"ratio":1.36,"mismatch":[]}}
+{"ts":"2026-10-15T00:56:47Z","pid":"7974050175","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":100,"ratio":3.45,"mismatch":[]}}
+{"ts":"2026-10-15T00:56:56Z","pid":"7954352687","stage":"lensed","run":"lensworker-20261015-0054","note":null,"data":{"med":20,"ratio":0.5,"mismatch":[]}}
+{"ts":"2026-10-15T00:57:05Z","pid":"7961793207","stage":"lensed","run":"lensworker-20261015-0054","note":null,"data":{"med":2,"ratio":0.01,"mismatch":[]}}
+{"ts":"2026-10-15T00:57:16Z","pid":"7950146073","stage":"lensed","run":"lensworker-20261015-0054","note":null,"data":{"med":50,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-15T00:57:25Z","pid":"7949539199","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":75,"ratio":7.5,"mismatch":[]}}
+{"ts":"2026-10-15T00:57:35Z","pid":"7949301269","stage":"flagged","run":"lensworker-20261015-0054","note":"Lens names Gold — title does not","data":{"med":1637,"ratio":4.09,"mismatch":["Gold"]}}
+{"ts":"2026-10-15T00:57:43Z","pid":"7976115480","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":1375,"ratio":13.75,"mismatch":[]}}
+{"ts":"2026-10-15T00:57:53Z","pid":"7943890734","stage":"flagged","run":"lensworker-20261015-0054","note":null,"data":{"med":155,"ratio":1.57,"mismatch":[]}}
+{"ts":"2026-10-15T00:58:04Z","pid":"7969721391","stage":"lensed","run":"lensworker-20261015-0054","note":null,"data":{"med":60,"ratio":0.92,"mismatch":[]}}
+{"ts":"2026-10-15T00:58:11Z","pid":"7948174196","stage":"flagged","run":"lensworker-20261015-0054","note":"Lens names Paden City, Uranium — title does not","data":{"med":80,"ratio":4,"mismatch":["Paden City","Uranium"]}}
+{"ts":"2026-10-15T00:58:21Z","pid":"7983696618","stage":"lensed","run":"lensworker-20261015-0054","note":null,"data":{"med":6,"ratio":0.26,"mismatch":[]}}
