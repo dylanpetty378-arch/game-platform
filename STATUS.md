@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T01:27:57Z
+# Refurbish status — 2026-10-15T01:31:23Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,10 +7,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8880 |
-| flagged | 2024 |
-| lensed | 635 |
+| flagged | 2044 |
+| lensed | 640 |
 | queued/relens | 485 |
-| queued | 203 |
+| queued | 178 |
 | decided/ask | 85 |
 | decided/kill | 40 |
 | photo_review/ask | 17 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 12
 - searches: 2841
 - listings: 12183
-- lens: 10649
-- events: 35067
+- lens: 10674
+- events: 35092
 - comps: 2558
 - item_types: 893
 - runs: 0
@@ -137,7 +137,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00h0h_duRPp33KJzU_0t20CI_300x300.jpg" width="160"> | [Original artwork](https://www.craigslist.org/view/d/larkspur-original-artwork/7S9Nofzx4iju79p9P1eYV1) | $75 | sfbay | **decided/ask** — text-triage F2: Framed abstract print "Silhouette", pencil-signed Artist's Proof, signature reads approx "D.A. Kono..sky" (unresolved); stained mat. Ask: artist full name/any gallery label on back, medium (serigraph/mono |
 | <img src="https://images.craigslist.org/00D0D_8yz24mIvZXD_03i03g_300x300.jpg" width="160"> | [Vintage Link Bracelets](https://www.craigslist.org/view/d/sunset-beach-vintage-link-bracelets/6U9roH2e3Tq4sGQVQvxXXJ) | $50 | orangecounty | **decided/ask** — text-triage L2: Chinese export nephrite (green) and mother-of-pearl (white) curved-link bracelets with pierced shou/fu character connectors and safety chain. Value hinges entirely on metal: 14K gold versions (~3-4g each) |
 
-## Flagged by Lens, waiting for photo review (2024)
+## Flagged by Lens, waiting for photo review (2044)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -224,6 +224,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00w0w_2xh8nJnsEDR_0t20CI_300x300.jpg" width="120"> | 7939244058 | $12 | boise | [Necklace with Cuff Bracelet all for $12](https://www.craigslist.org/view/d/boise-necklace-with-cuff-bracelet-all/8ZpStnzbF9RPWF2p8hG6gD) | 🛵Хүргэлт үнэгүй /А бүсэд/ 💥Үнэ: 59000 💫14k алтан бүрмэл ... | 568 | 47.33 |
 | <img src="https://images.craigslist.org/00K0K_161KYPzOY3z_0uY0hq_300x300.jpg" width="120"> | 7969448511 | $3 | seattle | [Vintage Woodheaven collection stone ware set](https://www.craigslist.org/view/d/seattle-vintage-woodheaven-collection/2QpK4ATgd7eUVd9CUXV44N) | Mountain Wood Stoneware Bowl - Etsy | 142 | 47.33 |
 | <img src="https://images.craigslist.org/00Y0Y_4Y0blOg0wMn_0t20t2_300x300.jpg" width="120"> | 7982312115 | $50 | tampa | [925 Figaro chain bracelet](https://www.craigslist.org/view/d/brooksville-925-figaro-chain-bracelet/iq8sVUQEP4dfaWJ8x5cBwa) | Craigslist | 2349 | 46.98 |
+| <img src="https://images.craigslist.org/01111_drzi3tYmwji_0tO12w_300x300.jpg" width="120"> | 7954423288 | $30 | seattle | [Small sterling silver heart bracelet](https://www.craigslist.org/view/d/renton-small-sterling-silver-heart/d2z4MDigAAoL7A3E41ZeNb) | Ross-Simons Italian 10kt Yellow Gold Leaf Station Bracelet . | 1400 | 46.67 |
 | <img src="https://images.craigslist.org/00s0s_et5xqxUCaRL_0t20lM_300x300.jpg" width="120"> | 7955868716 | $2 | boulder | [Misc Jewerly Vintage](https://www.craigslist.org/view/d/longmont-misc-jewerly-vintage/ubrWFT2GVGj8UNb9aYU5qW) | Huge Vintage Costume Jewelry Earring Necklace Bracelet Lot . | 93 | 46.5 |
 | <img src="https://images.craigslist.org/00k0k_2QNkMKyRfU6_0CI0t2_300x300.jpg" width="120"> | 7943998943 | $15 | newjersey | [2 Vintage Large Silver-tone & Gold-tone Brooches/P](https://www.craigslist.org/view/d/new-milford-vintage-large-silver-tone/gVDWvTZxQJxZSxiFMs45AE) | eBay | 695 | 46.33 |
 | <img src="https://images.craigslist.org/00l0l_hsC8n6fXXTp_0t20CI_300x300.jpg" width="120"> | 7946417677 | $175 | buffalo | [Breitling Chronometer> Blue Dial >Replica>Stainles](https://www.craigslist.org/view/d/buffalo-breitling-chronometer-blue-dial/7puGej2v4UaaRfcid4pEW2) | Reddit | 7950 | 45.43 |
@@ -255,11 +256,10 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00404_9caznyt5ujH_0lM0t2_300x300.jpg" width="120"> | 7953254914 | $40 | sfbay | [I Love You, Je t'aime, Te quiero, Te amo Necklace ](https://www.craigslist.org/view/d/oakland-love-you-je-taime-te-quiero-te/tu2HhhmHDG5xJgTmm3F32M) | Mercado Libre | 1300 | 32.5 |
 | <img src="https://images.craigslist.org/00I0I_eFW5siwu0Xr_0mm0hq_300x300.jpg" width="120"> | 7949138249 | $20 | boston | [Vintage Gold tone hinged scarf ring](https://www.craigslist.org/view/d/natick-vintage-gold-tone-hinged-scarf/if9RJFQyoLnpD6mPz9qwF1) | Craigslist | 650 | 32.5 |
 | <img src="https://images.craigslist.org/00808_cH6Rh5LPbcK_0cU09G_300x300.jpg" width="120"> | 7965575643 | $40 | denver | [Pocket Watches](https://www.craigslist.org/view/d/longmont-pocket-watches/qku9QNWvnj8Yzg6poYM7So) | Antique Waltham 0-Size Double Hunter Pocket Watch, Solid 14K | 1300 | 32.5 |
+| <img src="https://images.craigslist.org/00s0s_5wHOd8qSQOI_0cE0t2_300x300.jpg" width="120"> | 7953405817 | $200 | fortwayne | [Xaviere Single-Cut Electric Guitar](https://www.craigslist.org/view/d/fort-wayne-xaviere-single-cut-electric/28LXsRPvsGuhruiR4wC5WP) | eBay | 6485 | 32.42 |
 | <img src="https://images.craigslist.org/00T0T_fnNaWSOJenl_0CI0nt_300x300.jpg" width="120"> | 7954812843 | $35 | minneapolis | [Art Deco Brooch](https://www.craigslist.org/view/d/saint-paul-art-deco-brooch/gS1BEsNqd3tEACZdtxbNqY) | Openwork Rectangular Setting With Old European Cut White ... | 1130 | 32.29 |
 | <img src="https://images.craigslist.org/01111_XC0S5oP5UE_0t20CI_300x300.jpg" width="120"> | 7934249959 | $100 | albuquerque | [Vintage Pendulum clock](https://www.craigslist.org/view/d/albuquerque-vintage-pendulum-clock/61iy3ZbeHn1D7Pu1W7xvKv) | vintage Bond Street London gold tone framed Hanging clock .. | 3200 | 32 |
 | <img src="https://images.craigslist.org/00404_aAEeiWHRkNM_0sz0nZ_300x300.jpg" width="120"> | 7944806418 | $25 | rochester | [Vintage Monet 1.5" Turtle Brooch](https://www.craigslist.org/view/d/rochester-vintage-monet-15-turtle-brooch/bQxeL8LurwJVV1MaD4Dq96) | Vintage fanny turtle gold - Gem | 798 | 31.92 |
 | <img src="https://images.craigslist.org/00d0d_b7fWKD2QVX0_0CI0t2_300x300.jpg" width="120"> | 7940935310 | $75 | sarasota | [Bracelet with green stones](https://www.craigslist.org/view/d/tallevast-bracelet-with-green-stones/2YTGLVB5bvstRHttocQmf7) | Etsy | 2375 | 31.67 |
 | <img src="https://images.craigslist.org/00c0c_48oZsW7BOby_07K05Q_300x300.jpg" width="120"> | 7948770419 | $4 | chicago | [Ceramic Tea Pot](https://www.craigslist.org/view/d/mount-prospect-ceramic-tea-pot/eqhbaqsfDgZArGRaC8WZv1) | Independence-Kentucky-Jordan Photography NKU-Tony Winchester | 125 | 31.25 |
 | <img src="https://images.craigslist.org/00Q0Q_81Zj13gz68a_0cO0dR_300x300.jpg" width="120"> | 7953306808 | $75 | newyork | [Beautiful antique cast bronze vase. Made by Muraka](https://www.craigslist.org/view/d/new-york-beautiful-antique-cast-bronze/7BGTFH677MZESeYvTsWkHp) | Japanese Patinated Bronze Vases: Elephant Handles, Dragons . | 2297 | 30.63 |
-| <img src="https://images.craigslist.org/00C0C_5izBLVEoXEu_0a00dl_300x300.jpg" width="120"> | 7956132143 | $25 | baltimore | [Cistoporic Tetradrachm](https://www.craigslist.org/view/d/conowingo-cistoporic-tetradrachm/7vpiAqQQUmKVZeLk2UUUre) | Etsy | 765 | 30.6 |
-| <img src="https://images.craigslist.org/00m0m_MABmqb5DQV_0pO0jm_300x300.jpg" width="120"> | 7983315735 | $35 | seattle | [Antique Silver Metal Flower Vase Chalice](https://www.craigslist.org/view/d/bremerton-antique-silver-metal-flower/cGPPZpr7Td7KwtBN77Mc4i) | Silver Vase Quadruple Plate, Wilcox Silver Plate Co. Meriden | 1063 | 30.37 |
