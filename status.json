@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:24:38Z",
+ "updated": "2026-10-15T01:27:57Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10624,
-  "events": 35042,
+  "lens": 10649,
+  "events": 35067,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 228,
-  "flagged": 2005,
-  "lensed": 629
+  "queued": 203,
+  "flagged": 2024,
+  "lensed": 635
  },
  "last_harvests": [
   {
@@ -538,6 +538,17 @@
    "best": "eBay",
    "med": 700,
    "ratio": 700,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951276983",
+   "title": "Bangle Bracelet",
+   "price": 10,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/grosse-ile-bangle-bracelet/anUK8CFrspQXB8qmfm2EmC",
+   "best": "eBay",
+   "med": 6380,
+   "ratio": 638,
    "ai_value": ""
   },
   {
@@ -4347,6 +4358,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931894293",
+   "title": "Vintage Dog Charm",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/providence-vintage-dog-charm/8pGvrP1gdA3kBYEBTavnxL",
+   "best": "eBay",
+   "med": 160,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
    "pid": "7952902592",
    "title": "VINTAGE JEWELRY",
    "price": 25,
@@ -4707,6 +4729,17 @@
    "best": "Trocadero",
    "med": 412,
    "ratio": 6.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941703865",
+   "title": "c1950 Austrian Aquatint Etching \"Landhaushof in Klagenfurt\" signed",
+   "price": 50,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/agoura-hills-c1950-austrian-aquatint/ku74nR31o27Jy7BE4FqF4m",
+   "best": "Mercari",
+   "med": 343,
+   "ratio": 6.86,
    "ai_value": ""
   },
   {
@@ -5497,6 +5530,17 @@
    "area": "detroit",
    "url": "https://www.craigslist.org/view/d/grosse-ile-two-vintage-brooches/rVMdHwWxyykCkVf5aurFzV",
    "best": "eBay",
+   "med": 55,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950766786",
+   "title": "Andres Orpinas - Church Village",
+   "price": 10,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-andres-orpinas-church/fSP77HF6QvZ56Lhax2ey4J",
+   "best": "Framed Swan Lake Cottage Print Signed Andres Orpinas Church ...",
    "med": 55,
    "ratio": 5.5,
    "ai_value": ""
@@ -8175,6 +8219,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940018637",
+   "title": "Hundreds of Chain Bracelets",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-hundreds-of-chain/iPM62DbP7kQ7AJdbWuhW7y",
+   "best": "Craigslist",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7983120864",
    "title": "Sterling Silver Ammonite Fossil Pin",
    "price": 30,
@@ -8424,6 +8479,17 @@
    "url": "https://www.craigslist.org/view/d/apollo-beach-seiko-waterproof-ladies/v5ZMKAjiu8dfWw8CMSgKGT",
    "best": "eBay",
    "med": 155,
+   "ratio": 3.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951133637",
+   "title": "Sterling Howling Coyote Earrings",
+   "price": 20,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/novelty-sterling-howling-coyote-earrings/sX9m5hUkkGktvS7Udc3uNB",
+   "best": "eBay",
+   "med": 62,
    "ratio": 3.1,
    "ai_value": ""
   },
@@ -10463,6 +10529,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950859514",
+   "title": "Vintage Wire wrapped clay jug",
+   "price": 60,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/encinitas-vintage-wire-wrapped-clay-jug/rNrK2jcooFagazQXsMSGBU",
+   "best": "Vintage Clay Pot / Pottery Vase / Rustic Ceramic Bowl / Wabi ...",
+   "med": 140,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7950186310",
    "title": "Vintage Cloisonn\u00e9/ Chinese Enamel",
    "price": 125,
@@ -11394,6 +11471,17 @@
    "url": "https://www.craigslist.org/view/d/pleasanton-labradorite-medallion/bR5BWzTM3rens4Lw5kaERG",
    "best": "Natural Rounded Labradorite Gemstone Pendant Necklace ...",
    "med": 41,
+   "ratio": 2.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955838343",
+   "title": "Vintage Metal 1960's Lavender Flower Pin Brooch - Iris? Orchid?",
+   "price": 22,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/forest-grove-vintage-metal-1960s/kiftcbD1K4RW9FPQaCszCT",
+   "best": "Etsy",
+   "med": 45,
    "ratio": 2.05,
    "ai_value": ""
   },
@@ -12663,6 +12751,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954467546",
+   "title": "Vintage Friedel Germany Porcelain Figurines Set - Chimney Sweep & Scho",
+   "price": 20,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/apollo-vintage-friedel-germany/u3ET8DMGXTiBww66i9dCJc",
+   "best": "eBay",
+   "med": 35,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7950375313",
    "title": "Hammered Sterling Silver ring size 10",
    "price": 40,
@@ -12780,6 +12879,17 @@
    "url": "https://www.craigslist.org/view/d/elverta-antique-floral-coffee-cup/8cw9KcST9LEYVUvDcq87Vc",
    "best": "Etsy",
    "med": 17,
+   "ratio": 1.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949717448",
+   "title": "Antique Brass & Crystal Lighters",
+   "price": 50,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/philadelphia-antique-brass-crystal/jYgdVL1JrdU4rQED7Th79S",
+   "best": "eBay",
+   "med": 85,
    "ratio": 1.7,
    "ai_value": ""
   },
@@ -13297,6 +13407,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-pearl-necklace-vintage-antique/bFaEUGM6TpxzNCe6oJnike",
    "best": "eBay",
    "med": 160,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951254091",
+   "title": "Cookie jar, vintage",
+   "price": 25,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/cotati-cookie-jar-vintage/s4t2CjEJtT8SqwZ1YqGuY5",
+   "best": "eBay",
+   "med": 40,
    "ratio": 1.6,
    "ai_value": ""
   },
@@ -15589,6 +15710,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979594208",
+   "title": "Vintage Herend Porcelain Preening Bird Bonbonniere",
+   "price": 150,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vintage-herend-porcelain/gA5s2q3XjP2vPXHJ6PxhU3",
+   "best": "Etsy",
+   "med": 180,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -17261,6 +17393,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983672759",
+   "title": "MOP Silver Men's Watch",
+   "price": 20,
+   "area": "lakeland",
+   "url": "https://www.craigslist.org/view/d/lakeland-mop-silver-mens-watch/gkN3oByYNEaTQQByZrfV1n",
+   "best": "Would you like help finding replacement batteries, band adjustments, or similar models from the Strada collect",
+   "med": 19,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7948667022",
    "title": "Beautiful sterling bracelet with unique vintage charms",
    "price": 175,
@@ -18185,6 +18328,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7973979042",
+   "title": "Vintage Gold plated multi stone bar pendant necklace",
+   "price": 25,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-gold-plated-multi-stone/rk4pumKNdmWvZegMf6RRVS",
+   "best": "Craigslist",
+   "med": 20,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7970700624",
    "title": "Vintage Goebel Praying Angel Figurine",
    "price": 19,
@@ -18863,6 +19017,17 @@
    "url": "https://www.craigslist.org/view/d/clearwater-antique-hampden-watch-co/6ZyyeywxuamEcVM3uSqyVt",
    "best": "eBay",
    "med": 345,
+   "ratio": 0.69,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962344958",
+   "title": "Vintage Earrings w/Heart and Flowers and Red Glass Bead",
+   "price": 35,
+   "area": "asheville",
+   "url": "https://www.craigslist.org/view/d/asheville-vintage-earrings-heart-and/gZSgqpD5WyotHkF5yTQgvW",
+   "best": "Ornate Heart Valentine's Day Vintage Inspired Drop / Dangle ...",
+   "med": 24,
    "ratio": 0.69,
    "ai_value": ""
   },
@@ -20638,6 +20803,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929904765",
+   "title": "Vintage Shell & Coral Glass bead necklace",
+   "price": 50,
+   "area": "santafe",
+   "url": "https://www.craigslist.org/view/d/santa-fe-vintage-shell-coral-glass-bead/kj3WWdrs1XW3HEvmSxm2uU",
+   "best": "Gem",
+   "med": 18,
+   "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
    "pid": "7933540268",
    "title": "Doll Stones Yesterdays Child Figurines Collection Of 28 Figurines",
    "price": 100,
@@ -20800,6 +20976,17 @@
    "best": "OLDER VINTAGE NAVAJO BLUE GEM TURQUOISE ...",
    "med": 100,
    "ratio": 0.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7964897364",
+   "title": "Genuine Ruby -& - Opal Stone Necklace",
+   "price": 90,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-genuine-ruby-opal-stone-necklace/4kRVv8CLuM7GjvaUVMX8Bn",
+   "best": "eBay",
+   "med": 29,
+   "ratio": 0.32,
    "ai_value": ""
   },
   {
@@ -21683,6 +21870,17 @@
    "ai_value": "value of my early 1900s USA stamps? $335"
   },
   {
+   "pid": "7983496230",
+   "title": "Custom Made Shelby Cobra 925 Charm",
+   "price": 500,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/clearwater-custom-made-shelby-cobra-925/g54pawZUgwhhqZkkb472kV",
+   "best": "Etsy",
+   "med": 28,
+   "ratio": 0.06,
+   "ai_value": ""
+  },
+  {
    "pid": "7938152222",
    "title": "Ray Harm Kestrel print",
    "price": 100,
@@ -22536,6 +22734,17 @@
    "area": "losangeles",
    "url": "https://www.craigslist.org/view/d/la-puente-vintage-mid-century-antiques/dDT3hGjVdiM29E59n2jXGX",
    "best": "Amazon.com: LM Treasures Egyptian Plant Holder Male Life ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938199360",
+   "title": "Classic Oribe pottery basket",
+   "price": 225,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/union-city-classic-oribe-pottery-basket/8PpecMRg6rezfPsKfNHWuH",
+   "best": "Micaela Schoop ceramic artist",
    "med": null,
    "ratio": null,
    "ai_value": ""
