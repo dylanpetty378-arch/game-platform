@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:26:42Z",
+ "updated": "2026-10-15T07:30:22Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11399,
-  "events": 36618,
+  "lens": 11424,
+  "events": 36643,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 253,
-  "flagged": 2621,
-  "lensed": 787
+  "queued": 228,
+  "flagged": 2641,
+  "lensed": 792
  },
  "last_harvests": [
   {
@@ -4392,6 +4392,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952886458",
+   "title": "Westchester Empro mandolin",
+   "price": 250,
+   "area": "wichita",
+   "url": "https://www.craigslist.org/view/d/wichita-westchester-empro-mandolin/dq8aDZgSZ1GaBMUtesQxxm",
+   "best": "Facebook",
+   "med": 2599,
+   "ratio": 10.4,
+   "ai_value": "value of a Breedlove Oregon mandolin? $999"
+  },
+  {
    "pid": "7953417576",
    "title": "Stolzenfels Castle (German: Schloss Stolzenfels) Etching signed",
    "price": 57,
@@ -6053,6 +6064,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983702537",
+   "title": "Oktoberfest beer steins",
+   "price": 12,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-oktoberfest-beer-steins/aDsKZoPnSzs7D2CUheu4rz",
+   "best": "eBay",
+   "med": 76,
+   "ratio": 6.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7944064812",
    "title": "Gucci watch",
    "price": 25,
@@ -7425,6 +7447,17 @@
    "best": "eBay",
    "med": 99,
    "ratio": 4.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982527938",
+   "title": "Signed Handmade Ceramic Vase / Pot / Bowl w/Wood Stand",
+   "price": 80,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-signed-handmade-ceramic-vase/5N2uyDVp2pQMbPWVzbPpP2",
+   "best": "Karen Karnes - Cut-lid jar - Capsule Auctions",
+   "med": 395,
+   "ratio": 4.94,
    "ai_value": ""
   },
   {
@@ -10761,6 +10794,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943098956",
+   "title": "17 Pieces Misc Plates and Platters signed",
+   "price": 15,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/tempe-17-pieces-misc-plates-and/oYcPCeruUEdHuXCyAkSXPF",
+   "best": "eBay",
+   "med": 46,
+   "ratio": 3.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7954562007",
    "title": "INFINITY Figure 8 Hallmark 10k Gold & Diamond 18\" NECKLACE",
    "price": 149,
@@ -13115,6 +13159,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983764628",
+   "title": "Original Garnet Hays Watercolor \u2013 Old Colorado City Street Scene",
+   "price": 95,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/moraga-original-garnet-hays-watercolor/uPT7FskatFBiLGSyXyuTAT",
+   "best": "Watercolor Painting by Frances Mills Savannah GA Artist ...",
+   "med": 225,
+   "ratio": 2.37,
+   "ai_value": ""
+  },
+  {
    "pid": "7933261660",
    "title": "Sterling silver and turquoise necklaces",
    "price": 75,
@@ -14523,6 +14578,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930697515",
+   "title": "Ionic Column Metal Pendant from Greece",
+   "price": 14,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-ionic-column-metal-pendant/wg3x9AXPoVW9sHXCXPwZWM",
+   "best": "Ancient Greek Ionic Column Necklace, 14k Gold Plated 925 ...",
+   "med": 29,
+   "ratio": 2.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7954662609",
    "title": "Vintage Wooden Christmas Nutcrackers",
    "price": 125,
@@ -15678,6 +15744,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940462832",
+   "title": "SIGNED Photograph  Stone Nude by Dean Fidelman",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/mill-valley-signed-photograph-stone/pBLDiAqLQm62QAgGsXW7g1",
+   "best": "Reddit",
+   "med": 93,
+   "ratio": 1.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7961122380",
    "title": "Very Nice Small Sized Vintage Silver Ring",
    "price": 20,
@@ -16349,6 +16426,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958559984",
+   "title": "Vintage 24K Gold Plated LeMieux China Vase or Urn",
+   "price": 75,
+   "area": "olympic",
+   "url": "https://www.craigslist.org/view/d/carlsborg-vintage-24k-gold-plated/bnUKQNeRT4wSm9r289GhoS",
+   "best": "grupomplaguna.com",
+   "med": 130,
+   "ratio": 1.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7974838716",
    "title": "Silver and Turquoise Ring Sz5",
    "price": 29,
@@ -16653,6 +16741,17 @@
    "url": "https://www.craigslist.org/view/d/fresno-webster-sterling-silver-925/fTSRE17BUtqdKvo2FTCcny",
    "best": "Webster Sterling Silver .925 Vintage Baby Cup #22541 | eBay",
    "med": 100,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936530720",
+   "title": "Goldtone Necklace with 2 pairs of earrings",
+   "price": 12,
+   "area": "stillwater",
+   "url": "https://www.craigslist.org/view/d/stillwater-goldtone-necklace-with-pairs/qnv5JSpyVuV2kafaHhxLRo",
+   "best": "Nextdoor",
+   "med": 20,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -17136,6 +17235,17 @@
    "area": "cnj",
    "url": "https://www.craigslist.org/view/d/cranford-vintage-made-in-japan-plates/8xvqbKXPdwxaiPdrfWbYMq",
    "best": "eBay",
+   "med": 40,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947260996",
+   "title": "Vintage Italian Filigree 800 Silver Butterfly And Flower Brooch \ud83e\udd8b \ud83d\udc90",
+   "price": 25,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/dover-vintage-italian-filigree-800/fEjPByxyUp8YaZcrYAD193",
+   "best": "Etsy",
    "med": 40,
    "ratio": 1.6,
    "ai_value": ""
@@ -17988,6 +18098,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944644497",
+   "title": "Sterling Silver Cat's Eye Pendant ON SALE.",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-sterling-silver-cats-eye/4DjvcYbzZzDrw5HEc3z2Mu",
+   "best": "Etsy",
+   "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7978264713",
    "title": "Native American",
    "price": 100,
@@ -18237,6 +18358,17 @@
    "url": "https://www.craigslist.org/view/d/plainfield-fire-opal-gold-charm/uZQTwEzzQoQERqoRRnP7EH",
    "best": "4.31ct Freeform Orange Mexican Fire Opal Pendant in 14kt ...",
    "med": 665,
+   "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946091171",
+   "title": "27 earrings jewelry",
+   "price": 38,
+   "area": "desmoines",
+   "url": "https://www.craigslist.org/view/d/urbandale-27-earrings-jewelry/n6k8RPTP5WBzGHQ7DDT3qC",
+   "best": "AEROPOSTALE Womens Glass Earring Set, Color: Mixed Metals ...",
+   "med": 55,
    "ratio": 1.45,
    "ai_value": ""
   },
@@ -20155,6 +20287,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959838797",
+   "title": "Vintage Coors Tap Handle",
+   "price": 20,
+   "area": "fayar",
+   "url": "https://www.craigslist.org/view/d/eureka-springs-vintage-coors-tap-handle/7mPv7VUjvGy5cSewTSYiBD",
+   "best": "eBay",
+   "med": 24,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7932018315",
    "title": "Vintage Sterling Silver Marcasite & Chrysoprase Brooch",
    "price": 80,
@@ -20503,6 +20646,17 @@
    "url": "https://www.craigslist.org/view/d/san-clemente-vintage-crystal-twisted/mHzNaRZM6NWRTnKG5aKHFU",
    "best": "eBay",
    "med": 90,
+   "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983780159",
+   "title": "Elvis Presley Commemorative Wrist Watch",
+   "price": 20,
+   "area": "oregoncoast",
+   "url": "https://www.craigslist.org/view/d/winchester-elvis-presley-commemorative/rPDz6MEnWpYAhoYbXFktJt",
+   "best": "Walmart",
+   "med": 23,
    "ratio": 1.15,
    "ai_value": ""
   },
@@ -20943,6 +21097,17 @@
    "url": "https://www.craigslist.org/view/d/bellingham-vintage-ludwig-drum-muffle/qAq5AgJPsYmASeSu5rv7ej",
    "best": "1950s WFL Ludwig Adjustable Bass Drum Muffler Nickel | eBay",
    "med": 66,
+   "ratio": 1.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955109403",
+   "title": "Vintage 80s Black & Gold Statement Earrings Set \u2013 Retro Glam \u2728",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-vintage-80s-black-gold/cBXHR5h2UyfW4u7dqwMoJY",
+   "best": "Craigslist",
+   "med": 22,
    "ratio": 1.1,
    "ai_value": ""
   },
@@ -21977,6 +22142,17 @@
    "url": "https://www.craigslist.org/view/d/schaumburg-vintage-ornate-french-framed/pny4qY5jg1Znz1zanL5hZe",
    "best": "eBay",
    "med": 425,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983770991",
+   "title": "(5) Vintage Colored Embossed Glass Bottles",
+   "price": 20,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/somersworth-vintage-colored-embossed/74qJg7dX9EkM1e1YQnLUnu",
+   "best": "Craigslist",
+   "med": 20,
    "ratio": 1,
    "ai_value": ""
   },
@@ -23110,6 +23286,17 @@
    "url": "https://www.craigslist.org/view/d/olympia-beautiful-vintage-sterling/aFLMzmynRZ8rULidbGd5rP",
    "best": "Etsy",
    "med": 55,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930491486",
+   "title": "Silver-Tone Bracelets Nautical Starfish Shell Sand Dollar Set of Three",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/walpole-silver-tone-bracelets-nautical/vAn2ARDeXd3e5EKpc4KQXg",
+   "best": "eBay",
+   "med": 17,
    "ratio": 0.85,
    "ai_value": ""
   },
@@ -25413,6 +25600,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948216521",
+   "title": "Vintage Charlin multi stand necklace and clip on earrings",
+   "price": 55,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-charlin-multi-stand/tzezv3QMURyXhbeDP7tRhj",
+   "best": "eBay",
+   "med": 32,
+   "ratio": 0.58,
+   "ai_value": ""
+  },
+  {
    "pid": "7933722942",
    "title": "New Vintage Doll/Clown Heads & Doll Faces",
    "price": 35,
@@ -25793,6 +25991,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-weller-louwelsa/axX3RRM5VxHqY4M64VaCqK",
    "best": "Erin / E. Janow Art Pottery Layered Glazed Mug - Coffee/Tea ...",
+   "med": 40,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953213020",
+   "title": "WESTERN ART/ROY ROGERS",
+   "price": 75,
+   "area": "tucson",
+   "url": "https://www.craigslist.org/view/d/tucson-western-art-roy-rogers/pvdaLJmWipA1xXm9BP78qY",
+   "best": "Roy Rogers Poster, 17 3/4 W x 24 1/2 L",
    "med": 40,
    "ratio": 0.53,
    "ai_value": ""
@@ -29313,6 +29522,17 @@
    "area": "grandrapids",
    "url": "https://www.craigslist.org/view/d/belmont-fish-master-fillet-knife/hyC7SA4fCaccZVSmBETmst",
    "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945332045",
+   "title": "Diamond band",
+   "price": 260,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/south-plainfield-diamond-band/eQzsvyx33NnGhn66s4tHzR",
+   "best": "Pawn America",
    "med": null,
    "ratio": null,
    "ai_value": ""
