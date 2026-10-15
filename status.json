@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T01:55:28Z",
+ "updated": "2026-10-15T01:59:27Z",
  "tables": {
   "harvests": 12,
   "searches": 2841,
   "listings": 12183,
-  "lens": 10824,
-  "events": 35242,
+  "lens": 10849,
+  "events": 35267,
   "comps": 2558,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 28,
-  "flagged": 2161,
-  "lensed": 673
+  "queued": 3,
+  "flagged": 2176,
+  "lensed": 683
  },
  "last_harvests": [
   {
@@ -1927,6 +1927,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7974832344",
+   "title": "Vintage Liberty Statue '1886' brooch, 5 1/4\" long",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-liberty-statue-1886/uY3Fx9KeBdroQqfkyYtxj7",
+   "best": "eBay",
+   "med": 1049,
+   "ratio": 29.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7950031727",
    "title": "Vintage sterling choker",
    "price": 100,
@@ -3610,6 +3621,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949951933",
+   "title": "Vintage Madewell gold plated brass block link necklace",
+   "price": 29,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-madewell-gold-plated/fJT2NDpBtyaaA2wPw2239P",
+   "best": "Tiffany & Co. Sterling Silver Venetian Box Link Bracelet 7 1 ...",
+   "med": 325,
+   "ratio": 11.21,
+   "ai_value": ""
+  },
+  {
    "pid": "7982339847",
    "title": "Persian signed Miniature painting",
    "price": 89,
@@ -4035,6 +4057,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-monet-signed-engraved/7UADpLkKfB7t6JVthaqzfS",
    "best": "Vivian Grace",
    "med": 432,
+   "ratio": 9.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949435023",
+   "title": "Rembrandt's reproduction",
+   "price": 25,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/sterling-heights-rembrandts-reproduction/mjFp8HmnxbfbsJP1N2tx82",
+   "best": "70's Rembrandt Print, The Man With Golden Helmet, Stretched ...",
+   "med": 240,
    "ratio": 9.6,
    "ai_value": ""
   },
@@ -6327,6 +6360,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981333476",
+   "title": "Small \u2018Dead Sea\u2019 painting",
+   "price": 80,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/tampa-small-dead-sea-painting/sKSeuBBvFCRusb6F7WYtyB",
+   "best": "Still Life. Peonies., Pittura da Evgeny Turunov | ArtMajeur",
+   "med": 400,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
    "pid": "7981429362",
    "title": "Harley-Davidson Motorcycle sterling silver earrings 925",
    "price": 30,
@@ -6829,6 +6873,17 @@
    "url": "https://www.craigslist.org/view/d/waltham-signed-painting-of-house-with/nnMXH8hmGMYsMbYdHZ31tq",
    "best": "R. Danford Original Oil Painting Signed Framed Mountains ...",
    "med": 329,
+   "ratio": 4.39,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983697707",
+   "title": "4/4 Cello old Englehardt",
+   "price": 159,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/irvine-4-cello-old-englehardt/gydHGvyh9WXrAdtZq9dh4n",
+   "best": "Oxford Cello 02CH002-4/4BAC, MIC (Used) | Reverb",
+   "med": 698,
    "ratio": 4.39,
    "ai_value": ""
   },
@@ -8116,6 +8171,17 @@
    "url": "https://www.craigslist.org/view/d/venice-wall-hangings-artworks-signed/cxbGuYf6nfhaaV4YyyaurH",
    "best": "</Image Grid>",
    "med": 193,
+   "ratio": 3.51,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961059779",
+   "title": "Vintage rustic metal hanging cowbell",
+   "price": 75,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-rustic-metal/jkWBYHXE7ETdEjCBwriqme",
+   "best": "Rustic Cylinder Bell, Farmhouse Dinner Gong, Yard Art - Etsy",
+   "med": 263,
    "ratio": 3.51,
    "ai_value": ""
   },
@@ -9605,6 +9671,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7964862282",
+   "title": "Bulova Automatic Frank Sinatra Watch + 4 CD Collection Set",
+   "price": 225,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/arlington-bulova-automatic-frank/45qsuFQnefriZDJpQHGPBZ",
+   "best": "Bulova Men's Frank Sinatra Automatic Brown Leather Strap ...",
+   "med": 650,
+   "ratio": 2.89,
+   "ai_value": ""
+  },
+  {
    "pid": "7934914221",
    "title": "14k gold plated bar pendant with chain",
    "price": 125,
@@ -9656,6 +9733,17 @@
    "url": "https://www.craigslist.org/view/d/kew-gardens-old-mans-ring-size-11/dFUEsi6Y1jXhHjtQYWhc1F",
    "best": "eBay",
    "med": 286,
+   "ratio": 2.86,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947985467",
+   "title": "Unique Antique Sevres Blue Pictorial Cigarette Case.",
+   "price": 35,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/downey-unique-antique-sevres-blue/9pHteQQtuucXKJRrj5mBVY",
+   "best": "Vintage Limoges Porcelain Dresser Box: Hand-painted 22K Gold ...",
+   "med": 100,
    "ratio": 2.86,
    "ai_value": ""
   },
@@ -9755,6 +9843,17 @@
    "url": "https://www.craigslist.org/view/d/fort-lauderdale-womens-bangle-925/jevaaTHApuESPy7EciYVuG",
    "best": "GunBroker.com",
    "med": 251,
+   "ratio": 2.82,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979369646",
+   "title": "Vintage 1940s Champagne Pearl Necklace with Diamond  & Emerald Clasp",
+   "price": 39,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/halethorpe-vintage-1940s-champagne/1aHEAXQENcTGBLVw83ixy7",
+   "best": "Vintage 1940s Emerald/champagne Ivory Glass Pearl Necklace ...",
+   "med": 110,
    "ratio": 2.82,
    "ai_value": ""
   },
@@ -10683,6 +10782,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930732893",
+   "title": "Hoop Earrings Peacock Earrings Hebrew Necklace New",
+   "price": 20,
+   "area": "charlotte",
+   "url": "https://www.craigslist.org/view/d/charlotte-hoop-earrings-peacock/afMaAt2qQtZpmBXB1hroNd",
+   "best": "Vintage 925 Sterling Silver Drop Earrings: Unique Shape ...",
+   "med": 50,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7951477033",
    "title": "vintage NIPPON hand-painted double-handled porcelain ped",
    "price": 40,
@@ -11603,6 +11713,17 @@
    "url": "https://www.craigslist.org/view/d/oakland-antique-freiberger-porzellan/ds3y6b6hJySA2AKD9wq2xW",
    "best": "eBay",
    "med": 89,
+   "ratio": 2.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973934510",
+   "title": "Vintage bisque porcelain mermaid set",
+   "price": 175,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-vintage-bisque-porcelain/fFzRvV3RHpVt5L8MQqrXgU",
+   "best": "Bradley Vintage Wild Hair Mermaid Figurines MCM Midcentury ...",
+   "med": 390,
    "ratio": 2.23,
    "ai_value": ""
   },
@@ -13297,6 +13418,17 @@
    "url": "https://www.craigslist.org/view/d/monterey-vintage-original-oil-painting/sdcqriJm9qqkJiKaJiW6ZF",
    "best": "M.HART COLORADO RIVER MOUNTAIN OIL ON BOARD LANDSCAPE ...",
    "med": 90,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974033417",
+   "title": "Vintage dome statement ring size: 5.5",
+   "price": 49,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-dome-statement-ring-size/x7ArUJDyygMojDfAfqEHpg",
+   "best": "SILVERTONE STEEL DOME COCKTAIL RING, Sz 8.5 | eBay",
+   "med": 88,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -15248,6 +15380,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952534331",
+   "title": "Size 9 Sterling Silver and Gold over bronze Victorian Era Cluster Ring",
+   "price": 60,
+   "area": "sanantonio",
+   "url": "https://www.craigslist.org/view/d/san-antonio-size-sterling-silver-and/kM5GkmhqVqrj4aKbDg7bt8",
+   "best": "Art Deco Opal Cocktail Ring: Rose Gold Gatsby Statement Ring ...",
+   "med": 85,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7932006187",
    "title": "Sterling Silver Pyrope Garnet & Marcasite 16\u201d-18\u201d Necklace",
    "price": 85,
@@ -15255,6 +15398,17 @@
    "url": "https://www.craigslist.org/view/d/sun-city-west-sterling-silver-pyrope/hVtyGa7ZCcU4GxjVrM7WD9",
    "best": "eBay",
    "med": 120,
+   "ratio": 1.41,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954968962",
+   "title": "ARMANI Ceramic 43mm Men's Chronograph Wristwatch",
+   "price": 99,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/strabane-armani-ceramic-43mm-mens/rqNfcLcWJEpTDYeEfy1RUZ",
+   "best": "Emporio Armani Men's Watch - Ceramic - AR1429 | eBay",
+   "med": 140,
    "ratio": 1.41,
    "ai_value": ""
   },
@@ -18412,6 +18566,17 @@
    "url": "https://www.craigslist.org/view/d/lakeland-mop-silver-mens-watch/gkN3oByYNEaTQQByZrfV1n",
    "best": "Would you like help finding replacement batteries, band adjustments, or similar models from the Strada collect",
    "med": 19,
+   "ratio": 0.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973978250",
+   "title": "Vintage ceramic iridescent butterfly pin brooch, hand painted",
+   "price": 19,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/natick-vintage-ceramic-iridescent/nzvQ5bUezMKUfbhqevhNMq",
+   "best": "Vintage Guilloche Enamel Butterfly brooch Gold Tone Rich Red ...",
+   "med": 18,
    "ratio": 0.95,
    "ai_value": ""
   },
