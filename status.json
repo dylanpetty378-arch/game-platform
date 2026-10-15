@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T07:34:15Z",
+ "updated": "2026-10-15T07:38:02Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 11449,
-  "events": 36668,
+  "lens": 11474,
+  "events": 36693,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 203,
-  "flagged": 2659,
-  "lensed": 799
+  "queued": 178,
+  "flagged": 2673,
+  "lensed": 810
  },
  "last_harvests": [
   {
@@ -2486,6 +2486,17 @@
    "best": "Craigslist",
    "med": 450,
    "ratio": 22.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7934599510",
+   "title": "Engagement ring set",
+   "price": 100,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-engagement-ring-set/bWypACXmww6iCeW9nY2ism",
+   "best": "14KT White Gold Diamond Channel Ring Set Size 8 3.3g | eBay",
+   "med": 2199,
+   "ratio": 21.99,
    "ai_value": ""
   },
   {
@@ -5664,6 +5675,17 @@
    "url": "https://www.craigslist.org/view/d/olympia-vintage-james-avery-sterling/omdxBGB8EziJX2syoeX4nM",
    "best": "Brighton retired heart/cat silver - Gem",
    "med": 920,
+   "ratio": 7.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965552060",
+   "title": "Sterling silver marquise cz ring size 7",
+   "price": 95,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-sterling-silver-marquise-cz/x3tves9U5buQCGZ5YL1wYp",
+   "best": "2.30 Ct Marquise Cut Diamond Lab Created Engagement Ring 14K ...",
+   "med": 699,
    "ratio": 7.36,
    "ai_value": ""
   },
@@ -9012,6 +9034,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935934706",
+   "title": "Statement Necklace",
+   "price": 10,
+   "area": "stillwater",
+   "url": "https://www.craigslist.org/view/d/stillwater-statement-necklace/teRgojPh6phGEBbwRtM1ia",
+   "best": "Statement Necklace Gold Tone Oval Iridescent Cabochons 19 ...",
+   "med": 40,
+   "ratio": 4,
+   "ai_value": ""
+  },
+  {
    "pid": "7948207672",
    "title": "Vintage Wittnauer Ladies Swiss Watch",
    "price": 25,
@@ -9276,6 +9309,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7963190664",
+   "title": "Vtg 1966 Caravelle by Bulova Mens Watch 33mm Gold Manual Wind RUNNING",
+   "price": 25,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-vtg-1966-caravelle-by-bulova/5FdKdsVxG8B24zWZncm54A",
+   "best": "Vintage Waltham Incabloc 17 Jewel Women Watch Gold Tone ...",
+   "med": 94,
+   "ratio": 3.76,
+   "ai_value": ""
+  },
+  {
    "pid": "7972351545",
    "title": "Sterling Silver Ring",
    "price": 20,
@@ -9470,6 +9514,17 @@
    "url": "https://www.craigslist.org/view/d/moultrie-vintage-falcon-statue/nU6GRBSknvtYXVnGaU9FGt",
    "best": "Michael's Thrift Shop | eBay Stores",
    "med": 275,
+   "ratio": 3.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951216614",
+   "title": "Tuba Mouthpiece",
+   "price": 15,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-tuba-mouthpiece/cf7smaYrq72B7qGEan7cwR",
+   "best": "Vintage Vincent Bach Corp. 6 1/2 AL Mouthpiece | eBay",
+   "med": 55,
    "ratio": 3.67,
    "ai_value": ""
   },
@@ -13544,6 +13599,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952418269",
+   "title": "Ring - spiral statement",
+   "price": 25,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-ring-spiral-statement/qqAWYiLrzwnyWix4nHYo9z",
+   "best": "Metal Smiths Sterling Silver 925 Designer Signed Band Ring ...",
+   "med": 58,
+   "ratio": 2.32,
+   "ai_value": ""
+  },
+  {
    "pid": "7942418674",
    "title": "Men\u2019s Rings - Set of 5",
    "price": 45,
@@ -15337,6 +15403,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931908310",
+   "title": "Victorinox Women's Watch",
+   "price": 99,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/princeton-victorinox-womens-watch/pkzXvippQMciiQU1ujbxMv",
+   "best": "Victorinox Swiss Army Alliance Large watch model 241322 ...",
+   "med": 195,
+   "ratio": 1.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7931592455",
    "title": "Sterling silver garnet earrings",
    "price": 25,
@@ -15854,6 +15931,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939068310",
+   "title": "Aklot Ukulele with Case",
+   "price": 70,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-aklot-ukulele-with-case/n15yUzNDdFtuYqSKVig5fT",
+   "best": "Amazon.com: Ukulele, AKLOT Left-handed Concert Ukelele Solid ...",
+   "med": 130,
+   "ratio": 1.86,
+   "ai_value": ""
+  },
+  {
    "pid": "7961122380",
    "title": "Very Nice Small Sized Vintage Silver Ring",
    "price": 20,
@@ -15905,6 +15993,17 @@
    "url": "https://www.craigslist.org/view/d/santa-barbara-painting-of-artis-ellen/pumYA1yJiWfZPK5mwi5gvR",
    "best": "The girl with flaxen hair [1893] by Frances Hodgkins [New ...",
    "med": 175,
+   "ratio": 1.84,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946429859",
+   "title": "14 K wedding band",
+   "price": 225,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-14-wedding-band/1ZvHbaDjAEsoT1yUaGK3F1",
+   "best": "Etsy",
+   "med": 414,
    "ratio": 1.84,
    "ai_value": ""
   },
@@ -16213,6 +16312,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-dome-statement-ring-size/x7ArUJDyygMojDfAfqEHpg",
    "best": "SILVERTONE STEEL DOME COCKTAIL RING, Sz 8.5 | eBay",
    "med": 88,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932321380",
+   "title": "MODEL AIRPLANES",
+   "price": 10,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/denver-model-airplanes/7iNUUsyFffSsg5d7GHzZJ3",
+   "best": "Hasegawa MIG-17D/E Fresco - 1/72 Scale - Factory Sealed | eBay",
+   "med": 18,
    "ratio": 1.8,
    "ai_value": ""
   },
@@ -19440,6 +19550,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7978002477",
+   "title": "Vintage Made in Ireland Hunting Knife",
+   "price": 65,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-made-in-ireland/2JG5XgEButQ9ADAzc3Fxaf",
+   "best": "Vintage KASSNAR REPUBLIC of IRELAND Fixed Blade ...",
+   "med": 85,
+   "ratio": 1.31,
+   "ai_value": ""
+  },
+  {
    "pid": "7983184308",
    "title": "Vintage Natural Pink & Green Tourmaline Ring in Floral Motif 14K Gold",
    "price": 380,
@@ -19997,6 +20118,17 @@
    "url": "https://www.craigslist.org/view/d/stamford-belleek-fine-irish-porcelain/fV8wfDUprJsR9Fods3SCtT",
    "best": "Etsy",
    "med": 87,
+   "ratio": 1.24,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950556178",
+   "title": "Diamond heart charm and gold chain",
+   "price": 250,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/plainfield-diamond-heart-charm-and-gold/5siPxQRWVqUcsMDQ9daV2s",
+   "best": "Vintage 14K Yellow Gold Diamond Heart Love Pendant Chain ...",
+   "med": 311,
    "ratio": 1.24,
    "ai_value": ""
   },
@@ -21558,6 +21690,17 @@
    "area": "charlotte",
    "url": "https://www.craigslist.org/view/d/troutman-antique-childs-tea-set/j9mnS2M2ULkdZxTsu82ciZ",
    "best": "eBay",
+   "med": 105,
+   "ratio": 1.05,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953182711",
+   "title": "Vintage Hohner Guitar",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-hohner-guitar/hPK8UvDU3iipryMLimvNmA",
+   "best": "Hohner HW03 Acoustic Hand Crafted 6 String Guitar /Nice Case ...",
    "med": 105,
    "ratio": 1.05,
    "ai_value": ""
@@ -25653,6 +25796,17 @@
    "med": 21,
    "ratio": 0.6,
    "ai_value": "Sold at Auction: Luis Cardini Triple Horse Head Pocket Watch $89"
+  },
+  {
+   "pid": "7950867398",
+   "title": "New Celebrity Effy with Love Pendant Necklace",
+   "price": 20,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-new-celebrity-effy-with-love/2YYiSa63oJbhsWqHpJKhXz",
+   "best": "EFFY Silver Locket Pendant Charm Necklace - Opens To Put ...",
+   "med": 12,
+   "ratio": 0.6,
+   "ai_value": ""
   },
   {
    "pid": "7969703721",
