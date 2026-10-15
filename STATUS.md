@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-15T20:44:46Z
+# Refurbish status — 2026-10-15T20:48:20Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 3427 |
-| lensed | 1080 |
-| queued | 753 |
+| flagged | 3448 |
+| lensed | 1084 |
+| queued | 728 |
 | queued/relens | 486 |
 | decided/ask | 81 |
 | decided/kill | 58 |
@@ -25,8 +25,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 15
 - searches: 3514
 - listings: 14608
-- lens: 12499
-- events: 39467
+- lens: 12524
+- events: 39492
 - comps: 3149
 - item_types: 893
 - runs: 0
@@ -134,7 +134,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — eBay golden-egg review: G.A. Pfretzschner (Markneukirchen) stamped 4/4 violin bow, round pernambuco-type stick, ebony frog with pearl eye, white-metal fittings — Title only says 'G.A.'. The fittings could be nickel (then |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/MvUAAeSwiX1qmqCo/s-l225.jpg_300x300.jpg" width="160"> | [Black & Gray Pottery Vase Bird Design Pattern Signed on Base](https://www.ebay.com/itm/377556654389) | $50.0 | fb 8 | **decided/find** — REVISED after signature comparison + comps: signature consistent with genuine Marie (matches Adobe C3661C/King/Brunk forms, fired-in). Downgraded egg->lead: shoulder slip loss puts it in the compromised band ($250-1,150  |
 
-## Flagged by Lens, waiting for photo review (3427)
+## Flagged by Lens, waiting for photo review (3448)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 

@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T20:44:46Z",
+ "updated": "2026-10-15T20:48:20Z",
  "tables": {
   "harvests": 15,
   "searches": 3514,
   "listings": 14608,
-  "lens": 12499,
-  "events": 39467,
+  "lens": 12524,
+  "events": 39492,
   "comps": 3149,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 9,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 753,
-  "flagged": 3427,
-  "lensed": 1080
+  "queued": 728,
+  "flagged": 3448,
+  "lensed": 1084
  },
  "last_harvests": [
   {
@@ -2587,6 +2587,17 @@
    "url": "https://www.craigslist.org/view/d/richmond-hill-1800s-era-flatware/6GT6oJdED7HhjG7o1LghMj",
    "best": "1stDibs",
    "med": 1350,
+   "ratio": 30,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983913200",
+   "title": "Vintage Seashell/Rhinestone Brooch/Pin",
+   "price": 5,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-seashell-rhinestone/uxtNsXDHDTY2JzJCb6n6aW",
+   "best": "Vintage 1960s Brown Rhinestone Brooch Flower Pin Faux Pearls ...",
+   "med": 150,
    "ratio": 30,
    "ai_value": ""
   },
@@ -6001,6 +6012,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939113568",
+   "title": "Vintage Harmony Tenor Ukulele",
+   "price": 80,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-vintage-harmony-tenor-ukulele/nWFqNDAs3wGcSr99z2ZQDe",
+   "best": "Victor Litz Music",
+   "med": 750,
+   "ratio": 9.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7951267868",
    "title": "Antique Milk Cans",
    "price": 40,
@@ -6514,6 +6536,17 @@
    "url": "https://www.craigslist.org/view/d/bethany-cremona-violin/t8mj84QVrYZT4r7H8jqp2z",
    "best": "YAMAHA V5 VIOLIN 4/4 SOLID SPRUCE TOP/MAPLE BACK W/BOW ...",
    "med": 500,
+   "ratio": 8.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984116456",
+   "title": "GIRLS MICKEY MOUSE WATCH",
+   "price": 30,
+   "area": "kalispell",
+   "url": "https://www.craigslist.org/view/d/columbia-falls-girls-mickey-mouse-watch/6G2SH9bQFk9MsKKjTzYFiM",
+   "best": "MICKEY MOUSE, SEIKO WATCH 1980S ROLEX STYLE BAND, GOLD TONE ...",
+   "med": 250,
    "ratio": 8.33,
    "ai_value": ""
   },
@@ -9598,6 +9631,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949002822",
+   "title": "Sterling Silver Gold-plated Rope Bracelet",
+   "price": 20,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-sterling-silver-gold/taqDbt7dENKy3bAvbf5GfA",
+   "best": "eBay",
+   "med": 99,
+   "ratio": 4.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7982527938",
    "title": "Signed Handmade Ceramic Vase / Pot / Bowl w/Wood Stand",
    "price": 80,
@@ -10474,6 +10518,17 @@
    "url": "https://www.craigslist.org/view/d/chapel-hill-crystal-plates-franklin/kUXoGVFHKr5JQRX2UAh9zK",
    "best": "eBay",
    "med": 131,
+   "ratio": 4.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7935157782",
+   "title": "Vintage 1920s Art Deco Celluloid Bib Necklace",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-1920s-art-deco/uhh94vKmjtH8jWuVBFynte",
+   "best": "Etsy",
+   "med": 262,
    "ratio": 4.37,
    "ai_value": ""
   },
@@ -15824,6 +15879,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980243909",
+   "title": "Vintage Bud Vase",
+   "price": 15,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-vintage-bud-vase/3KM2jh3Cneg68kMUukUik7",
+   "best": "Mid Century Stoneware Swirl Vase Pottery Artist Signed ...",
+   "med": 40,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7936456409",
    "title": "14k gold filled 35 grams chain",
    "price": 395,
@@ -17283,6 +17349,17 @@
    "url": "https://www.craigslist.org/view/d/port-angeles-vintage-unworn-sterling/9NRp9WRhJM5AdFq9cy9KQ4",
    "best": "Turquoise Network",
    "med": 650,
+   "ratio": 2.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929155891",
+   "title": "Sterling Silver Cat Pins",
+   "price": 25,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/towson-sterling-silver-cat-pins/sXsU1V1XP1n8bAxxDF95cD",
+   "best": "eBay",
+   "med": 59,
    "ratio": 2.36,
    "ai_value": ""
   },
@@ -20983,6 +21060,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965820347",
+   "title": "Vintage\"Rosa Parzellan\"  Tea/Coffee Mug",
+   "price": 25,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/newport-beach-vintagerosa-parzellan-tea/wpSM53ZRNjxd1tC3g4wZ1W",
+   "best": "Craigslist",
+   "med": 45,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -23025,6 +23113,17 @@
    "url": "https://www.craigslist.org/view/d/waianae-large-lot-of-rings/6CMsf4bnUf9H8Bp9K8nQsm",
    "best": "eBay",
    "med": 38,
+   "ratio": 1.52,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984147149",
+   "title": "Vintage S.S. Stewart mandolin",
+   "price": 495,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/rockville-vintage-ss-stewart-mandolin/8YkiZnPAjgMr7xTnwJahAZ",
+   "best": "Vintage Instruments",
+   "med": 750,
    "ratio": 1.52,
    "ai_value": ""
   },
@@ -26010,6 +26109,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955378280",
+   "title": "Gold Rope 14K Bracelet",
+   "price": 90,
+   "area": "ocala",
+   "url": "https://www.craigslist.org/view/d/weirsdale-gold-rope-14k-bracelet/eP7r1yCpEByUwttCLUJVVx",
+   "best": "eBay",
+   "med": 110,
+   "ratio": 1.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7951975370",
    "title": "Signed Original Pastel Portrait of a Woman",
    "price": 95,
@@ -26774,6 +26884,17 @@
    "price": 25,
    "area": "gainesville",
    "url": "https://www.craigslist.org/view/d/alachua-antique-cherry-pitter/t3kNjjNqpSAEXfCDBdXoX8",
+   "best": "eBay",
+   "med": 29,
+   "ratio": 1.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983936933",
+   "title": "Vintage Celtic brooch",
+   "price": 25,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-vintage-celtic-brooch/255pRegvjUtu7G9eKCpjZ2",
    "best": "eBay",
    "med": 29,
    "ratio": 1.16,
@@ -28012,6 +28133,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954688123",
+   "title": "Atlanta Braves MLB 14k Gold Vintage 1998 Baseball Pendant",
+   "price": 300,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-atlanta-braves-mlb-14k-gold/nVrziVisAXnRGa2DqtrUJb",
+   "best": "Etsy",
+   "med": 309,
+   "ratio": 1.03,
+   "ai_value": ""
+  },
+  {
    "pid": "7932016391",
    "title": "Sterling Silver & Turquoise Size 7.25 Ring Stamped Sterling Mexico",
    "price": 85,
@@ -28041,6 +28173,17 @@
    "url": "https://www.craigslist.org/view/d/newport-beach-sterling-silver-bowls/sUeSg8Zvkn37NmwZYA3yYQ",
    "best": "Etsy",
    "med": 200,
+   "ratio": 1.01,
+   "ai_value": ""
+  },
+  {
+   "pid": "7978255650",
+   "title": "STERLING NECKLACE",
+   "price": 295,
+   "area": "treasure",
+   "url": "https://www.craigslist.org/view/d/vero-beach-sterling-necklace/oWyJ2wrbwZMk7BgdMfHJfj",
+   "best": "Etsy",
+   "med": 299,
    "ratio": 1.01,
    "ai_value": ""
   },
@@ -29057,6 +29200,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952805012",
+   "title": "ANTIQUE MAJOLICA FIGURAL TOBACCO JARS",
+   "price": 100,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-antique-majolica-figural/rG8MMaL41csUW553tNWwwE",
+   "best": "TOBACCO JAR Antique Majolica SMILING BOY WITH CAP Humidor ...",
+   "med": 95,
+   "ratio": 0.95,
+   "ai_value": "Sold at Auction: antique Majolica figural tobacco jar $95"
+  },
+  {
    "pid": "7948667022",
    "title": "Beautiful sterling bracelet with unique vintage charms",
    "price": 175,
@@ -29904,6 +30058,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957687451",
+   "title": "Pearl Pendant Necklace Awesome Vintage Jewelry",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-pearl-pendant-necklace-awesome/pqNnhhGSQod87isnmfCrQy",
+   "best": "Craigslist",
+   "med": 35,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -30208,6 +30373,17 @@
    "url": "https://www.craigslist.org/view/d/tucson-collectibles-vintage/ua1E7rU3FNG4NSYUBQgSMJ",
    "best": "Figurines & Decor: Multiple angel figurines, ceramic candle holders, a vintage teapot with floral motifs, smal",
    "med": 34,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949342841",
+   "title": "60's Vintage Monet Clip On Earrings",
+   "price": 20,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-60s-vintage-monet-clip/v8F81QzrTeQFVYnuxyH3fk",
+   "best": "eBay",
+   "med": 17,
    "ratio": 0.85,
    "ai_value": ""
   },
@@ -33820,6 +33996,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948956879",
+   "title": "Collection of 5 vintage ashtrays or separate",
+   "price": 50,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/babylon-collection-of-vintage-ashtrays/wxpw1YJAVvDmSatpeocwN2",
+   "best": "Tn Ashtray - Etsy",
+   "med": 25,
+   "ratio": 0.5,
+   "ai_value": "price: Offered together as a set of five for $50"
+  },
+  {
    "pid": "7944220078",
    "title": "Sterling Silver Siam Earrings",
    "price": 35,
@@ -35503,6 +35690,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959997191",
+   "title": "Lot of 4 bracelets",
+   "price": 15,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/burlington-lot-of-bracelets/rTvQCMEx4F3LSHkzH78Uis",
+   "best": "Beaded Stretch Bracelet Set, 4 Piece Stacking Collection, 6 ...",
+   "med": 4,
+   "ratio": 0.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7948568420",
    "title": "Vintage Charles Albert Sterling, Blue & Clear Topaz w/Imperial Jasper",
    "price": 180,
@@ -35576,6 +35774,17 @@
    "url": "https://www.craigslist.org/view/d/carlsborg-vintage-large-native-american/tvPoXRZ1YLSWXvyQzx8fCo",
    "best": "Etsy",
    "med": 100,
+   "ratio": 0.26,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954687014",
+   "title": "State Of New Mexico Vintage Pin Lot",
+   "price": 35,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-state-of-new-mexico-vintage/3kiUvaiH25Wx61pqDJxzXd",
+   "best": "Etsy",
+   "med": 9,
    "ratio": 0.26,
    "ai_value": ""
   },
@@ -38182,6 +38391,28 @@
    "area": "fortcollins",
    "url": "https://www.craigslist.org/view/d/fort-collins-trump-pocket-knife/imXjMMpJte9irf8MHeMgKF",
    "best": "Apple Tree Auction Center",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930737565",
+   "title": "Pocket / Hunting Knife Collection",
+   "price": 80,
+   "area": "springfield",
+   "url": "https://www.craigslist.org/view/d/fair-play-pocket-hunting-knife/q43t855n4KrZrT2PWvEHRR",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959696996",
+   "title": "Books 4 Kids",
+   "price": 5,
+   "area": "miami",
+   "url": "https://www.craigslist.org/view/d/fort-lauderdale-books-kids/1RT3M9ihdHjoYgLgmeSHTe",
+   "best": "Craigslist",
    "med": null,
    "ratio": null,
    "ai_value": ""
