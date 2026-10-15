@@ -16,6 +16,10 @@ ROOT = os.path.dirname(HERE)
 CATS = {'550': 'Art', '20081': 'Antiques', '870': 'Pottery & Glass', '281': 'Jewelry & Watches', '625': 'Cameras & Photo',
         '1': 'Collectibles', '619': 'Musical Instruments', '13877': 'Militaria', '64482': 'Sports Mem'}
 OUT = os.path.join(ROOT, 'research', 'pools', 'ebay-latest.json')
+# All eBay US top-level categories, for listing one seller's items (Browse search needs a category or keyword).
+SELLER_CATS = ['20081', '550', '2984', '267', '12576', '625', '15032', '11450', '11116', '1', '58058', '293', '14339', '237',
+               '45100', '26395', '11700', '281', '11232', '11233', '619', '1281', '870', '888', '64482', '260', '220', '3252',
+               '1249', '99', '6000']
 
 def pool(hours=24):
     import ebay_api
@@ -56,6 +60,30 @@ def detail():
                         'bids': d.get('bidCount'), 'end': d.get('itemEndDate'), 'ship': [(o.get('shippingCost') or {}).get('value') for o in d.get('shippingOptions') or []],
                         'loc': (d.get('itemLocation') or {}).get('stateOrProvince'), 'cond': d.get('condition'), 'err': d.get('error')}
         time.sleep(0.4)
+    # Seller's other listings (Oct 15 2026): ids in research/pools/ebay-seller-req.json -> out['_seller_items'][id].
+    # Stored inside ebay-detail.json because the workflow only commits that file. The seller username is used only
+    # in the API filter and never written (public repo).
+    rq = os.path.join(ROOT, 'research', 'pools', 'ebay-seller-req.json')
+    if os.path.exists(rq):
+        out['_seller_items'] = {}
+        for iid in json.load(open(rq)):
+            d = ebay_api._get('browse', f"/buy/browse/v1/item/v1|{iid}|0", {}) or {}
+            user = (d.get('seller') or {}).get('username')
+            if not user: out['_seller_items'][iid] = {'err': d.get('error') or 'no seller'}; continue
+            rows, seen = [], set()
+            for cid in SELLER_CATS:
+                r = ebay_api._get('browse', '/buy/browse/v1/item_summary/search',
+                                  {'category_ids': cid, 'limit': 200, 'filter': f'sellers:{{{user}}}'}) or {}
+                for it in r.get('itemSummaries') or []:
+                    if it['itemId'] in seen: continue
+                    seen.add(it['itemId'])
+                    rows.append({'id': it['itemId'].split('|')[1] if '|' in it['itemId'] else it['itemId'], 't': it.get('title'),
+                                 'p': ((it.get('currentBidPrice') or it.get('price') or {}).get('value')), 'b': it.get('bidCount'),
+                                 'opt': it.get('buyingOptions'), 'end': it.get('itemEndDate'), 'cat': cid,
+                                 'img': (it.get('image') or {}).get('imageUrl'), 'url': (it.get('itemWebUrl') or '').split('?')[0]})
+                time.sleep(0.3)
+            out['_seller_items'][iid] = {'fb': (d.get('seller') or {}).get('feedbackScore'), 'n': len(rows), 'rows': rows}
+            print('seller of', iid, len(rows), 'active items')
     json.dump(out, open(os.path.join(ROOT, 'research', 'pools', 'ebay-detail.json'), 'w'), indent=0)
     print('details', len(out))
 
