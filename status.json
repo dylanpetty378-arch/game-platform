@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-15T06:09:02Z",
+ "updated": "2026-10-15T06:12:39Z",
  "tables": {
   "harvests": 13,
   "searches": 3068,
   "listings": 12983,
-  "lens": 10899,
-  "events": 36118,
+  "lens": 10924,
+  "events": 36143,
   "comps": 2758,
   "item_types": 893,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 8,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 753,
-  "flagged": 2219,
-  "lensed": 689
+  "queued": 728,
+  "flagged": 2237,
+  "lensed": 696
  },
  "last_harvests": [
   {
@@ -3155,6 +3155,17 @@
    "area": "madison",
    "url": "https://www.craigslist.org/view/d/mc-farland-like-new-set-of-flower/6DzvR678FLCdKPHtR3JSum",
    "best": "Framed Art print \"Magnolia\" by Peggy Thatch Sibley | eBay",
+   "med": 199,
+   "ratio": 13.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962544653",
+   "title": "14\" Hand Made Red/Brown/Tan Drip Glaze Vase",
+   "price": 15,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/fairfax-14-hand-made-red-brown-tan-drip/7WaFdE6U9YTY4mzGaWTVe1",
+   "best": "Edinburgh- Home Furnishings and Interiors... (24 Oct 24)",
    "med": 199,
    "ratio": 13.27,
    "ai_value": ""
@@ -6636,6 +6647,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7935271254",
+   "title": "Vintage 1950's Cufflinks",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-1950s-cufflinks/fVV1QYqAmzgfp1CfJk4w4i",
+   "best": "Etsy",
+   "med": 70,
+   "ratio": 4.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7944410804",
    "title": "Vintage Sears Guitar 319 Series Mid-1960s-'70s Japan",
    "price": 150,
@@ -6709,6 +6731,17 @@
    "url": "https://www.craigslist.org/view/d/sandown-antique-porcelain-plate-with/t2g12cttoaeXs46yyA63F6",
    "best": "eBay",
    "med": 115,
+   "ratio": 4.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951377057",
+   "title": "Antique Necklace with beads and safety pins",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/belvedere-tiburon-antique-necklace-with/wvSUbfyJ6xyeFviYPNsFGY",
+   "best": "Craigslist",
+   "med": 69,
    "ratio": 4.6,
    "ai_value": ""
   },
@@ -7314,6 +7347,17 @@
    "url": "https://www.craigslist.org/view/d/chula-vista-brand-new-vintage-malaysia/6DUqBQnSGQgPGDysBSVAvP",
    "best": "VINTAGE ROYAL SELANGOR PEWTER MALAYSIAN ...",
    "med": 63,
+   "ratio": 4.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972334436",
+   "title": "14k Gold Filigree Earrings",
+   "price": 275,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/encinitas-14k-gold-filigree-earrings/5hZx7b5aK7xWbKkBQssBFJ",
+   "best": "Etsy",
+   "med": 1155,
    "ratio": 4.2,
    "ai_value": ""
   },
@@ -9012,6 +9056,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983743661",
+   "title": "Lot of Costume Diamonds, bracelet, necklaces",
+   "price": 18,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/birmingham-lot-of-costume-diamonds/f7xihMysXyGySX3mm1HCyv",
+   "best": "eBay",
+   "med": 57,
+   "ratio": 3.17,
+   "ai_value": ""
+  },
+  {
    "pid": "7950353213",
    "title": "diamond engagement ring",
    "price": 475,
@@ -9782,6 +9837,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7930167802",
+   "title": "Two necklaces",
+   "price": 10,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-two-necklaces/tyD4MyC4xCqGBPNM1xrBo2",
+   "best": "Necklace Shell Jewelry Island Boho Mosaic Arrowhead Pearl ...",
+   "med": 29,
+   "ratio": 2.9,
+   "ai_value": "price tag (marked $40"
+  },
+  {
+   "pid": "7950778935",
+   "title": "Vintage Sipaldo sterling silver necklace and pendant",
+   "price": 50,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-sipaldo-sterling/x6sCEf9HPL52Mc93W6doRs",
+   "best": "SATYA STERLING SILVER DOUBLE NECKLACE | eBay",
+   "med": 145,
+   "ratio": 2.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7973774523",
    "title": "Vintage oil on canvas, signed seascape, framed landscape",
    "price": 90,
@@ -9954,6 +10031,17 @@
    "url": "https://www.craigslist.org/view/d/boise-vintage-signed-weiss-ruby-red/4hZJTJMqSbYzMUmQkEf9zN",
    "best": "eBay",
    "med": 99,
+   "ratio": 2.83,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949609208",
+   "title": "lot of 5 vintage clowns",
+   "price": 30,
+   "area": "orlando",
+   "url": "https://www.craigslist.org/view/d/orlando-lot-of-vintage-clowns/7syhBke6f495RtgpTYZ59T",
+   "best": "eBay",
+   "med": 85,
    "ratio": 2.83,
    "ai_value": ""
   },
@@ -13060,6 +13148,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929622431",
+   "title": "Vintage Women\u2019s Non-Working  Seiko Watch",
+   "price": 52,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-womens-non-working/4uhPzqL73zDDVsr42EXbsF",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 1.92,
+   "ai_value": ""
+  },
+  {
    "pid": "7947692053",
    "title": "Vintage GUCCI Watch sale",
    "price": 165,
@@ -15667,6 +15766,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948213682",
+   "title": "Vintage rhinestone necklace",
+   "price": 48,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/morro-bay-vintage-rhinestone-necklace/1kJZH6BDP2eDwpUdRf9ZHz",
+   "best": "Etsy",
+   "med": 68,
+   "ratio": 1.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7932006187",
    "title": "Sterling Silver Pyrope Garnet & Marcasite 16\u201d-18\u201d Necklace",
    "price": 85,
@@ -16459,6 +16569,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948156780",
+   "title": "Vintage Blue Enamel Earrings",
+   "price": 31,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/new-york-vintage-blue-enamel-earrings/iT7F91AdphT3q5Y2hKg2tV",
+   "best": "AMARU | Jewelry | Fine 95 Sterling Silver Earrings New ...",
+   "med": 40,
+   "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7954911675",
    "title": "Antique mantle clock",
    "price": 90,
@@ -16487,6 +16608,17 @@
    "area": "newjersey",
    "url": "https://www.craigslist.org/view/d/hackettstown-costume-jewelry/1W1o1n2h6SwSj1NW8vPJH8",
    "best": "eBay",
+   "med": 32,
+   "ratio": 1.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969183827",
+   "title": "80+ year old tobacco advertising tins collection",
+   "price": 25,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/greendale-80-year-old-tobacco/qLgFTQAEKUVqPapdUvTuwk",
+   "best": "Vintage Collectible PRINCE ALBERT CRIMP CUT Tobacco Tin ...",
    "med": 32,
    "ratio": 1.28,
    "ai_value": ""
@@ -19055,6 +19187,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944972219",
+   "title": "2 oz sterling bracelet",
+   "price": 375,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-oz-sterling-bracelet/wn18rNNpXZTaDQvSN6FUJP",
+   "best": "eBay",
+   "med": 349,
+   "ratio": 0.93,
+   "ai_value": ""
+  },
+  {
    "pid": "7966649352",
    "title": "Embossed Nautical Scene  Framed",
    "price": 120,
@@ -19303,6 +19446,17 @@
    "area": "lancaster",
    "url": "https://www.craigslist.org/view/d/marietta-patriotic-eagle-pocket-watch/rwa1aQWrn2dSBafsH4eqDw",
    "best": "eBay",
+   "med": 18,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950131511",
+   "title": "Deer Pocket Watch",
+   "price": 20,
+   "area": "lancaster",
+   "url": "https://www.craigslist.org/view/d/marietta-deer-pocket-watch/6fueE9UrkJQ5FuNJQaYoBT",
+   "best": "Craigslist",
    "med": 18,
    "ratio": 0.9,
    "ai_value": ""
@@ -20661,6 +20815,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948162553",
+   "title": "2 Vintage Mexican Sterling Silver Mexican Cross Pendants",
+   "price": 98,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-mexican-sterling/gkiYUXyVd87AfeDapt58ZX",
+   "best": "eBay",
+   "med": 70,
+   "ratio": 0.71,
+   "ai_value": ""
+  },
+  {
    "pid": "7948092563",
    "title": "Vintage West Germany Filagree Size 5 Ring",
    "price": 50,
@@ -20744,6 +20909,17 @@
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/chicago-lot-of-14-necklaces-bracelets/m4g9VgrhNZyKVTgcZ9T2qE",
    "best": "Huge Lot of Jewelry - Necklaces, Bracelets, and More! | Karrot",
+   "med": 28,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963788012",
+   "title": "BIJOUX TERNER Antique Bangle Cuff Wristwatch",
+   "price": 40,
+   "area": "omaha",
+   "url": "https://www.craigslist.org/view/d/soldier-bijoux-terner-antique-bangle/f2wRpiFoih76uzNHz7tYBV",
+   "best": "Wincci Cuff Watch, White Dial, Goldtone Case, Black Band | eBay",
    "med": 28,
    "ratio": 0.7,
    "ai_value": ""
@@ -22659,6 +22835,17 @@
    "url": "https://www.craigslist.org/view/d/morro-bay-hull-pottery-vase/8RDyyz5EvkiisZKLJpyTnB",
    "best": "eBay",
    "med": 30,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948986724",
+   "title": "Vintage Mido Multifort Powerwind Swiss Watch",
+   "price": 250,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-mido-multifort/hCjVRjxg4tyafLsEXz2LPD",
+   "best": "eBay",
+   "med": 99,
    "ratio": 0.4,
    "ai_value": ""
   },
@@ -24890,6 +25077,17 @@
    "price": 40,
    "area": "nh",
    "url": "https://www.craigslist.org/view/d/dover-vintage-sterling-silver/n5KUFoJNbAXaJz4hdHBxjF",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7980033582",
+   "title": "88 Vintage Hallmark Christmas Ornament Collection Santa Tree Reindeer",
+   "price": 100,
+   "area": "jerseyshore",
+   "url": "https://www.craigslist.org/view/d/toms-river-88-vintage-hallmark/6g2W7Q7iNivriHRD7W3Aix",
    "best": "Craigslist",
    "med": null,
    "ratio": null,
