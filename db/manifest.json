@@ -1,5 +1,5 @@
 {
-"made": "2026-10-16T01:01:46Z",
+"made": "2026-10-16T03:14:05Z",
 "files": [
 {
 "path": "db/comps.jsonl",
@@ -15,7 +15,7 @@
 },
 {
 "path": "db/item_types.jsonl",
-"sha": "7f1dc975452dc0b05bf7e71bd07360c09597c9fd"
+"sha": "820ed4a375410f41c180434781d2a976190255fa"
 },
 {
 "path": "db/lens/2026-10.jsonl",
@@ -272,6 +272,10 @@
 "sha": "df70e04f251d88d9699a9072462dabf13a505781"
 },
 {
+"slug": "art-backs-labels-and-printmaking-marks",
+"sha": "b859e216aa187dd4adf301b751bf93d86d8d4c91"
+},
+{
 "slug": "art-deco-glass",
 "sha": "3db8d7c59e7749fbc08182fe05c3a11f26e8a078"
 },
@@ -286,6 +290,10 @@
 {
 "slug": "artist-prints-vs-originals",
 "sha": "14cacf763f3df18253fe50b45131ec747645ebc7"
+},
+{
+"slug": "asian-art-seals-signatures-and-box-inscriptions",
+"sha": "09df7590dafafa1e3ed8e4fc16762a625af8525b"
 },
 {
 "slug": "asian-paintings",
@@ -428,6 +436,10 @@
 "sha": "062b51d9326165f1c595b0aa7acbc68bc2fa9e80"
 },
 {
+"slug": "book-photo-and-paper-ephemera-marks",
+"sha": "a8e252bee459c39c44de01323552374f8f1aa201"
+},
+{
 "slug": "bookends",
 "sha": "bba5206236eb68bd009bc4597a65eea1e486da3f"
 },
@@ -450,6 +462,10 @@
 {
 "slug": "bottle-cappers-and-corkers",
 "sha": "3b4040ff356eaee65baf8a4d9db2e73f58e25fa4"
+},
+{
+"slug": "bottle-jar-and-pressed-glass-marks",
+"sha": "b0d5382d16185d271d98d149cb276ecb52ea45c3"
 },
 {
 "slug": "bowl-back-mandolins",
@@ -680,8 +696,16 @@
 "sha": "256e7dbb60ef0e0f1af65c17242462e7c1d659eb"
 },
 {
+"slug": "clothing-textile-and-rug-labels",
+"sha": "f3b388ad6bb784114a3780ccce9b13d026ac64c1"
+},
+{
 "slug": "cocoa-and-confection-tins",
 "sha": "f5292d4ee5c3d4b4e519096af75b82bcaa1df7f1"
+},
+{
+"slug": "coin-mint-marks-and-key-dates",
+"sha": "33c86bc846b077d6ae3c28ba484a068d618fc716"
 },
 {
 "slug": "coleman-lanterns",
@@ -724,6 +748,10 @@
 "sha": "91ed4632e8d8a7cb41aa6ebde8da6d5ab816e90e"
 },
 {
+"slug": "construction-and-tool-marks-for-dating",
+"sha": "c1111344e9b5042bfe051fd999c8b799c3995580"
+},
+{
 "slug": "contemporary-art-prints",
 "sha": "422cc9eb4ed1a5e8fbe60ef98fede1ba93c82100"
 },
@@ -762,6 +790,10 @@
 {
 "slug": "costume-jewelry-lots",
 "sha": "feb165cf1c5f17f0a61eac020f906d8f7696edee"
+},
+{
+"slug": "country-of-origin-patent-and-registration-marks",
+"sha": "973ca6bb5dd26b80d22b5f0b4b8916e305b2dc17"
 },
 {
 "slug": "craftsman-hand-tools",
@@ -1388,6 +1420,10 @@
 "sha": "6a5196753c4482aade179e03840b4bebb1f4a0af"
 },
 {
+"slug": "markings-catalog-index",
+"sha": "ba976ed588ad574a581e7fedb6485a31a7de8b68"
+},
+{
 "slug": "mauchline-and-tartan-ware",
 "sha": "646811835d70d2a25ef8ec8f0381ac490a8cc846"
 },
@@ -1430,6 +1466,10 @@
 {
 "slug": "military-field-gear",
 "sha": "7d029e917e3ba420bc69874db07ae8f14418f2e4"
+},
+{
+"slug": "military-insignia-and-maker-marks",
+"sha": "3d3e09510ef2dfc27b3d7a8f28330249cbd677e1"
 },
 {
 "slug": "military-insignia",
@@ -1740,6 +1780,10 @@
 "sha": "c2415a8fda2682cd4a8d6a2e12af22632d977abc"
 },
 {
+"slug": "records-comics-cards-and-media-identifiers",
+"sha": "e1ec72cf1c9d562f6857a933752ad7bf9fbf6a0a"
+},
+{
 "slug": "reel-to-reel-tape-recorders",
 "sha": "03e5be87927bd626d0b36b9848577b388109aade"
 },
@@ -1862,6 +1906,10 @@
 {
 "slug": "seltzer-bottles",
 "sha": "72468051ab66f007338c4b7de5b98b8ea4795c89"
+},
+{
+"slug": "serial-numbers-and-date-codes",
+"sha": "76807a7d1a282d1fba05a9afe3f855564aa145b9"
 },
 {
 "slug": "shadowbox-dioramas",
@@ -2086,6 +2134,10 @@
 {
 "slug": "tokusatsu-and-anime-vintage-tees",
 "sha": "9a092f06b451575171639ba3726f28accdc45378"
+},
+{
+"slug": "toy-and-figure-marks",
+"sha": "97a866e1778da6fc24864ceccf3449215799064e"
 },
 {
 "slug": "toy-animal-figures",
