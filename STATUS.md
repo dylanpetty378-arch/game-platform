@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T05:24:10Z
+# Refurbish status — 2026-10-16T12:53:42Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,14 +6,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| photo_review/kill | 8951 |
-| flagged | 4208 |
+| photo_review/kill | 8996 |
+| flagged | 4216 |
+| queued | 2103 |
 | lensed | 1350 |
-| queued | 1303 |
 | queued/relens | 486 |
 | decided/kill | 126 |
 | decided/ask | 83 |
-| decided/find | 26 |
+| decided/find | 28 |
 | expired | 19 |
 | photo_review/ask | 17 |
 | comps/fail | 5 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 17
-- searches: 3736
-- listings: 16289
+- harvests: 18
+- searches: 3958
+- listings: 17144
 - lens: 13549
-- events: 42380
+- events: 43339
 - comps: 3343
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261015-0511 — 82709 listings, 81951 new, 800 queued
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 - craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 - craigslist-20261015-2327 — 118173 listings, 116926 new, 800 queued
 - craigslist-20261016-0500 — 82460 listings, 81707 new, 800 queued
+- craigslist-20261016-1245 — 40919 listings, 40550 new, 800 queued
 
-## Finds and open leads (112)
+## Finds and open leads (114)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -156,8 +156,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/find** — "Silver plated" bowl with Indian jeweller stamp + handwritten 270.0 g: likely solid silver by weight; ask magnet/acid |
 |  | [](None) | $None | None | **decided/find** — Leonid Afremov Studio palette-knife oil (studio painter Rubio), title omits Afremov; ~$150-350 |
 |  | [](None) | $None | None | **decided/find** — 1917 Saalfield Lady Bountiful + 1922 Whitman Mr and Mrs platinum-age strip books, rough |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/7HcAAeSwxRxq0X7x/s-l225.jpg_300x300.jpg" width="160"> | [Longines Vintage Pocket Watch White Dial Arabic, Small Secon](https://www.ebay.com/itm/168795861403) | $54.0 | fb 39 | **decided/find** —  |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/7W8AAeSwRzdqtCSN/s-l225.jpg_300x300.jpg" width="160"> | [Sixth Plate Daguerreotype, Frontiersman with Rifle and Dog](https://www.ebay.com/itm/128137027372) | $31.0 | fb 8 | **decided/find** —  |
 
-## Flagged by Lens, waiting for photo review (4208)
+## Flagged by Lens, waiting for photo review (4216)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
