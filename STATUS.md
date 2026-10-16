@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T00:21:43Z
+# Refurbish status — 2026-10-16T00:25:14Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 4023 |
-| lensed | 1285 |
-| queued | 753 |
+| flagged | 4044 |
+| lensed | 1289 |
+| queued | 728 |
 | queued/relens | 486 |
 | decided/kill | 125 |
 | decided/ask | 80 |
@@ -26,8 +26,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 16
 - searches: 3736
 - listings: 15483
-- lens: 13299
-- events: 41295
+- lens: 13324
+- events: 41320
 - comps: 3343
 - item_types: 906
 - runs: 0
@@ -141,7 +141,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (4023)
+## Flagged by Lens, waiting for photo review (4044)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -255,6 +255,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00l0l_fV5PN7DOyZQ_0CI0t2_300x300.jpg" width="120"> | 7949573802 | $1 | boston | [Vintage Silver Sugar Serving Tongs](https://www.craigslist.org/view/d/boston-vintage-silver-sugar-serving/9DdKqNMtKPBrbKmeWvBGkq) | Craigslist | 65 | 65 |
 | <img src="https://images.craigslist.org/00Q0Q_1llJBSaReh0_0t20CI_300x300.jpg" width="120"> | 7952430050 | $40 | slo | [Vintage RSC ring Blue stone with zirconia](https://www.craigslist.org/view/d/morro-bay-vintage-rsc-ring-blue-stone/nAyiXzKr9dVYBvaPQcCyyp) | eBay | 2600 | 65 |
 | <img src="https://images.craigslist.org/00W0W_fVvnivgK3Nk_0kb0t2_300x300.jpg" width="120"> | 7977229926 | $20 | austin | [Silver Ring w/Stones.      Marked 925.](https://www.craigslist.org/view/d/austin-silver-ring-stones-marked-925/gLeNcJvpDA9ocKSA8ViEpb) | Etsy | 1290 | 64.5 |
+| <img src="https://images.craigslist.org/00Z0Z_by85exZqwYq_0CI0t2_300x300.jpg" width="120"> | 7955441300 | $15 | chicago | [RINGS, RINGS, RINGS!!!](https://www.craigslist.org/view/d/chicago-rings-rings-rings/wvHE5VWhYBroksb136gqkW) | 14K Yellow and White Gold Ruby Eyes Horse Head Handcrafted . | 967 | 64.47 |
 | <img src="https://images.craigslist.org/00N0N_ivHWrhm9OiS_0t20CI_300x300.jpg" width="120"> | 7951306170 | $35 | newyork | [woman playing  guitar painting](https://www.craigslist.org/view/d/staten-island-woman-playing-guitar/rWRRZmSFvji8uv8RcJK3Wa) | Trademark Global Joarez "Soft Guitar" Canvas Art, 24" x 18 . | 2250 | 64.29 |
 | <img src="https://images.craigslist.org/00e0e_iMGA0p9LKzY_0gv0m1_300x300.jpg" width="120"> | 7939159693 | $20 | washingtondc | [Vintage necklace](https://www.craigslist.org/view/d/rockville-vintage-necklace/34ZvgbYaX9WZfZoifLVkUF) | eBay | 1261 | 63.05 |
 | <img src="https://images.craigslist.org/00G0G_hoLpXtUoWqL_0hT0t2_300x300.jpg" width="120"> | 7955980451 | $100 | phoenix | [PSA Graded Baseball Cards](https://www.craigslist.org/view/d/scottsdale-psa-graded-baseball-cards/sQXLRws8sW4HWvjJZmDnN8) | 1972 TOPPS BASEBALL COMPLETE SET 787 Cards NM-MT / MINT ... | 6278 | 62.78 |
@@ -266,4 +267,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00G0G_gxCM0upfDMH_0CI0pO_300x300.jpg" width="120"> | 7950666174 | $20 | sfbay | [Vintage Floral Plates](https://www.craigslist.org/view/d/oakland-vintage-floral-plates/hUdSGSY9JPJvsMp6ozXuxk) | LARGE VINTAGE ROYAL ALBERT SERVICE PLATE IN PINK ... | 1200 | 60 |
 | <img src="https://images.craigslist.org/01212_r59b0nsrR8_0d40hq_300x300.jpg" width="120"> | 7976459112 | $1 | sfbay | [Vintage items](https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG) | Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag  | 60 | 60 |
 | <img src="https://images.craigslist.org/00d0d_3wujKbw5DqH_1761u8_300x300.jpg" width="120"> | 7975391187 | $20 | minneapolis | [Chinese Foo Dog Figures](https://www.craigslist.org/view/d/cambridge-chinese-foo-dog-figures/h4gcQtc4gynusRM1KwqhjJ) | Etsy | 1190 | 59.5 |
-| <img src="https://images.craigslist.org/00v0v_aHBN53mpdQpz_0lG0t2_300x300.jpg" width="120"> | 7983863388 | $8 | boston | [RING! Sterling Crystal Rainbow Iridescent Gemstone](https://www.craigslist.org/view/d/braintree-ring-sterling-crystal-rainbow/i8iMWCoERerQE8BYkkZDiH) | Etsy | 474 | 59.25 |

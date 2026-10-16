@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:21:43Z",
+ "updated": "2026-10-16T00:25:14Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15483,
-  "lens": 13299,
-  "events": 41295,
+  "lens": 13324,
+  "events": 41320,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 753,
-  "flagged": 4023,
-  "lensed": 1285,
+  "queued": 728,
+  "flagged": 4044,
+  "lensed": 1289,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -1680,6 +1680,17 @@
    "best": "Etsy",
    "med": 1290,
    "ratio": 64.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955441300",
+   "title": "RINGS, RINGS, RINGS!!!",
+   "price": 15,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-rings-rings-rings/wvHE5VWhYBroksb136gqkW",
+   "best": "14K Yellow and White Gold Ruby Eyes Horse Head Handcrafted ...",
+   "med": 967,
+   "ratio": 64.47,
    "ai_value": ""
   },
   {
@@ -3560,6 +3571,17 @@
    "url": "https://www.craigslist.org/view/d/portland-art-pictire-robert-grace/itZoMSNks7MTsud1xbZTJm",
    "best": "eBay",
    "med": 1300,
+   "ratio": 21.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939284992",
+   "title": "Pearl Enhancers 8 new",
+   "price": 15,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/union-city-pearl-enhancers-new/3wLw2beMpPeKftJfDTbvk2",
+   "best": "Craigslist",
+   "med": 325,
    "ratio": 21.67,
    "ai_value": ""
   },
@@ -7161,6 +7183,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984267794",
+   "title": "Antique *47 Items* bowl plate pitcher statue",
+   "price": 95,
+   "area": "akroncanton",
+   "url": "https://www.craigslist.org/view/d/lakemore-antique-47-items-bowl-plate/8KohXVWJkr2Rk4S6zewdsv",
+   "best": "Poshmark",
+   "med": 850,
+   "ratio": 8.95,
+   "ai_value": ""
+  },
+  {
    "pid": "7976613474",
    "title": "Garden TOOLS LOT Vintage Antique Shabby Chic",
    "price": 9,
@@ -7839,6 +7872,17 @@
    "url": "https://www.craigslist.org/view/d/carrboro-glamorous-beads-charm-fashion/uhGCvZ4CkbnF7LsDF4UaJe",
    "best": "facebook.com",
    "med": 120,
+   "ratio": 8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951495849",
+   "title": "Vase from Japan",
+   "price": 10,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vase-from-japan/xqpxyVSWMuUnXKMTXYmJ3p",
+   "best": "eBay",
+   "med": 80,
    "ratio": 8,
    "ai_value": ""
   },
@@ -9918,6 +9962,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-lacquered-brooch/o2b5pTWkW2MH47yTZFFGB4",
    "best": "Collectible Buttons - Russian Fairy Tale in Wood Oval - Etsy",
    "med": 113,
+   "ratio": 5.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954832233",
+   "title": "Vintage 1970's Rose Nymph by Michelle Emblem",
+   "price": 100,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/atco-vintage-1970s-rose-nymph-by/voa1Ef5Vc1TdMbRf6v3HRs",
+   "best": "Craigslist",
+   "med": 595,
    "ratio": 5.95,
    "ai_value": ""
   },
@@ -12162,6 +12217,17 @@
    "url": "https://www.craigslist.org/view/d/falls-church-various-broaches-or-pins/fpfiQdkxn1ZhAP3hAhgVXE",
    "best": "eBay",
    "med": 45,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953457225",
+   "title": "Small 10k gold heart pendant",
+   "price": 50,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/buda-small-10k-gold-heart-pendant/dKssaybBLKkAfMfzG5gZcj",
+   "best": "Etsy",
+   "med": 225,
    "ratio": 4.5,
    "ai_value": ""
   },
@@ -14784,6 +14850,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972699833",
+   "title": "Meastro by gibson",
+   "price": 35,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/westminster-meastro-by-gibson/6ccVuDJGdiZbRT3yuUiJg9",
+   "best": "Used Maestro by Gibson acoustic guitar package",
+   "med": 125,
+   "ratio": 3.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7934312629",
    "title": "Triangular Chert Breccia Earrings",
    "price": 25,
@@ -15879,6 +15956,17 @@
    "area": "washingtondc",
    "url": "https://www.craigslist.org/view/d/sterling-vintage-blue-and-white/q8Pao4nCJRAUUhGqWDgsWo",
    "best": "Craigslist",
+   "med": 49,
+   "ratio": 3.27,
+   "ai_value": ""
+  },
+  {
+   "pid": "7959069843",
+   "title": "Sterling silver turquoise ring",
+   "price": 15,
+   "area": "monterey",
+   "url": "https://www.craigslist.org/view/d/salinas-sterling-silver-turquoise-ring/iQjPH8wRaiWqewtmFVQX2H",
+   "best": "eBay",
    "med": 49,
    "ratio": 3.27,
    "ai_value": ""
@@ -20757,6 +20845,17 @@
    "ai_value": "sell between $100"
   },
   {
+   "pid": "7962469728",
+   "title": "Silvertone",
+   "price": 60,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/westminster-silvertone/uYTMpT5qNEo8uVzQmA8HxY",
+   "best": "Reverb",
+   "med": 138,
+   "ratio": 2.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7938207775",
    "title": "Native American Sterling silver ring",
    "price": 35,
@@ -21413,6 +21512,17 @@
    "url": "https://www.craigslist.org/view/d/sacramento-vintage-concert-zither/cG1tEpsEwdDA6N9dsgW2xF",
    "best": "eBay",
    "med": 330,
+   "ratio": 2.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953471831",
+   "title": "15 - Piece Classic Costume Jewelry Lot - Necklaces, Bracelets & Brooches",
+   "price": 40,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-15-piece-classic-costume/hY8dpARzK9V9xRsyY3nD2C",
+   "best": "Vintage Japanese Art Glass Necklace Beaded Showa 50s Japan ...",
+   "med": 88,
    "ratio": 2.2,
    "ai_value": ""
   },
@@ -24508,6 +24618,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947120674",
+   "title": "Djembe Drums",
+   "price": 60,
+   "area": "boone",
+   "url": "https://www.craigslist.org/view/d/rutherford-college-djembe-drums/teN2zzQf857j4uu83WgwVE",
+   "best": "eBay",
+   "med": 108,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -26180,6 +26301,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7938402396",
+   "title": "COSTUME JEWELRY",
+   "price": 5,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-costume-jewelry/s6AXyx6z7B1ZrrQSPgUbm8",
+   "best": "Large Variety Vintage Single Clip On Earrings Lot#3 | eBay",
+   "med": 8,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -27474,6 +27606,17 @@
    "url": "https://www.craigslist.org/view/d/boise-hello-kitty-necklace/feAKvETdfypHgxPasrFFQy",
    "best": "eBay",
    "med": 15,
+   "ratio": 1.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7982454210",
+   "title": "Cherished Teddies Collection",
+   "price": 20,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/rockford-cherished-teddies-collection/5adHJnQ6JFyS1MZDRsFNXE",
+   "best": "Craigslist",
+   "med": 30,
    "ratio": 1.5,
    "ai_value": ""
   },
@@ -29322,6 +29465,17 @@
    "url": "https://www.craigslist.org/view/d/aurora-david-allgood-embossed-serigraph/gkSPWPJy91j4L7azP84VBK",
    "best": "eBay",
    "med": 85,
+   "ratio": 1.31,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984263753",
+   "title": "1893 Elgin Pocket Watch serial 4942226",
+   "price": 225,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/englewood-1893-elgin-pocket-watch/gf1Un3u5QG98cHM7b3jNQj",
+   "best": "Second Hand Horology",
+   "med": 295,
    "ratio": 1.31,
    "ai_value": ""
   },
@@ -31372,6 +31526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939720061",
+   "title": "ANTIQUE MINIATURE JAPANESE VASE, LOT OF FIVE. 6'' TALL.",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-antique-miniature-japanese/fprfCuZQWhpvAiV8AcXFsA",
+   "best": "Etsy",
+   "med": 69,
+   "ratio": 1.15,
+   "ai_value": ""
+  },
+  {
    "pid": "7950006923",
    "title": "Vintage Navajo Sterling Silver & Robins Egg Blue Turquoise Size 10Ring",
    "price": 130,
@@ -32129,6 +32294,17 @@
    "med": 432,
    "ratio": 1.08,
    "ai_value": ""
+  },
+  {
+   "pid": "7980766179",
+   "title": "Moissanite 925 sliver /rose gold",
+   "price": 120,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-moissanite-925-sliver-rose/mtZcixT7UaebJbw32ewDeY",
+   "best": "Craigslist",
+   "med": 130,
+   "ratio": 1.08,
+   "ai_value": "price tag of $349"
   },
   {
    "pid": "7949271613",
@@ -35860,6 +36036,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977298395",
+   "title": "2 pieces of Art",
+   "price": 5,
+   "area": "slo",
+   "url": "https://www.craigslist.org/view/d/pismo-beach-pieces-of-art/6WmaP1pxmtxDNFiEfEU4Um",
+   "best": "Craigslist",
+   "med": 4,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7970700624",
    "title": "Vintage Goebel Praying Angel Figurine",
    "price": 19,
@@ -38841,6 +39028,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953751609",
+   "title": "Sterling Silver Rose Gold Plated",
+   "price": 80,
+   "area": "northplatte",
+   "url": "https://www.craigslist.org/view/d/windsor-sterling-silver-rose-gold-plated/cV81tt7vL4BcRBP69yAbGm",
+   "best": "Poshmark",
+   "med": 44,
+   "ratio": 0.55,
+   "ai_value": ""
+  },
+  {
    "pid": "7948558885",
    "title": "Set of 2 Porcelain Angel Figurine, New",
    "price": 35,
@@ -39842,6 +40040,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952372789",
+   "title": "Vintage Judith Jack NECKLACE & EARRINGS",
+   "price": 200,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/pawtucket-vintage-judith-jack-necklace/nsX5VHD6N2F2SFCQ92iDTr",
+   "best": "Etsy",
+   "med": 95,
+   "ratio": 0.47,
+   "ai_value": ""
+  },
+  {
    "pid": "7937968387",
    "title": "Vintage Gold Tone Cream Enamel Necklace",
    "price": 35,
@@ -40817,6 +41026,17 @@
    "url": "https://www.craigslist.org/view/d/springfield-designer-evensong-solid-925/kKffGfssLAFgL966ghfewM",
    "best": "Ring Sterling Silver Band Sleek Smooth Design 925 Size 8 ...",
    "med": 29,
+   "ratio": 0.36,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950093939",
+   "title": "Richard Petty stuff",
+   "price": 22,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/bean-station-richard-petty-stuff/6GK3cEb9EjX3obcAUqWrME",
+   "best": "eBay",
+   "med": 8,
    "ratio": 0.36,
    "ai_value": ""
   },
@@ -42313,6 +42533,17 @@
    "url": "https://www.craigslist.org/view/d/dover-action-figures-set-of/7FbcgEVfJaumT3qXQsqxJo",
    "best": "eBay",
    "med": 15,
+   "ratio": 0.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7974720822",
+   "title": "Star Wars Vintage Action Figures lot",
+   "price": 120,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/dallas-star-wars-vintage-action-figures/pEENstuYXc4ceqo8VZ6Bpy",
+   "best": "eBay",
+   "med": 20,
    "ratio": 0.17,
    "ai_value": ""
   },
