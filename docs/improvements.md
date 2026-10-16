@@ -439,3 +439,17 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   like ebay-eggs.
 - Craigslist and estate sales: not scheduled this slot. A fresh eBay pool (mode=pool) was dispatched at 00:29; the 03:14 run screens it.
 - health: no FAILs. WARN: review backlog 4,044 flagged, 1,289 lensed and unread.
+
+## 2026-10-15/16: Hallmark run (Dylan: "take how cultures mark valuable things, put it in the encyclopedia, then do a run with it")
+- Encyclopedia: 13 new mark entries (precious-metal reading guide; UK/IE, French, Russian/Soviet, continental, Nordic, watch
+  cases, US, Latin America, E/SE Asia, S Asia/Middle East, platinum/palladium, ceramic + glass marks). research/HALLMARK_EYE_BRIEF.md
+  + scripts/hallmark_panels.py (one panel per listing showing EVERY photo, since marks are on backs and clasps, never in thumbnails).
+- Pool: eBay 839 jewelry/metal auctions whose titles name no metal (detail mode = all photos), plus ShopGoodwill 1,095 jewelry
+  listings incl. costume/grab bags ending ≤72 h (sgw detail per item). 1,934 listings read by 25 agents.
+- Result: 0 eggs. About 10 small leads, most worth $50–250 in metal: 10K cameo ring, Etruscan-revival pin, an XRF 35%-Au chain,
+  G. Lanz continental silver spoons titled "silverplate", a possible 18K cameo frame, Taxco 48 g. Re-confirmed the Russian brooch.
+- **Lesson:** the SGW pool was ordered by item id, not end time. Detail (30 min) + reading (1 h+) meant the best SGW hits had
+  under 40 minutes left when found, and one eBay hit had already ended. Fix for next time: sort every hallmark pool by end time,
+  fetch details and review the soonest-ending first, and alert per finding instead of waiting for the batch.
+- Yield note: hallmark reading catches cheap metal value (scrap-level), not eggs. Most photos don't show marks. Worth running
+  weekly on SGW grab bags and "gold tone" listings, but it isn't a replacement for the egg eye-screen.
