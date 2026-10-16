@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:47:49Z",
+ "updated": "2026-10-16T00:53:44Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15489,
-  "lens": 13474,
-  "events": 41488,
+  "lens": 13499,
+  "events": 41513,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 578,
-  "flagged": 4159,
-  "lensed": 1324,
+  "queued": 553,
+  "flagged": 4175,
+  "lensed": 1333,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -3113,6 +3113,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961971341",
+   "title": "Antique Picture (Signed)",
+   "price": 85,
+   "area": "montana",
+   "url": "https://www.craigslist.org/view/d/rapid-city-antique-picture-signed/f5iU7c3SoqzJESMpayqkaQ",
+   "best": "HOPI COUNTRY\" Artist Signed WILLIAM MEWHINNEY Native ...",
+   "med": 2399,
+   "ratio": 28.22,
+   "ai_value": ""
+  },
+  {
    "pid": "7979237037",
    "title": "Antique French 3/4 violin",
    "price": 395,
@@ -3275,6 +3286,17 @@
    "best": "Vintage Reverse Painted Glass 1970's Giraffe Framed ...",
    "med": 505,
    "ratio": 25.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984181391",
+   "title": "Antique Clock",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-antique-clock/tz3QrpQbsyXey8Y5ohkser",
+   "best": "19th Century Anglo American Drop Dial Inlaid Wall Clock ...",
+   "med": 1890,
+   "ratio": 25.2,
    "ai_value": ""
   },
   {
@@ -3528,6 +3550,17 @@
    "best": "Norsemen Art - Etsy",
    "med": 1825,
    "ratio": 22.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961938509",
+   "title": "Vintage Antique Footed Bowl W/Decorative Handles, Feet",
+   "price": 25,
+   "area": "rapidcity",
+   "url": "https://www.craigslist.org/view/d/rapid-city-vintage-antique-footed-bowl/qnoHRSh2UztQJurLF5heE9",
+   "best": "Craigslist",
+   "med": 567,
+   "ratio": 22.68,
    "ai_value": ""
   },
   {
@@ -4397,6 +4430,17 @@
    "best": "Martin D-18 1976 Used Acoustic Guitar | eBay",
    "med": 2624,
    "ratio": 17.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947721805",
+   "title": "DRAWING Vintage Lithograph. Italy.",
+   "price": 30,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/drawing-vintage-lithograph-italy/aRBvMy787MwBmUvnoNRsFp",
+   "best": "Francesco Cepparoli - Ancient Roman Statues - Etching by ...",
+   "med": 522,
+   "ratio": 17.4,
    "ai_value": ""
   },
   {
@@ -6982,6 +7026,17 @@
    "best": "African Yin Yang, 2 Necklaces, Wood Fertility Goddess, Water ...",
    "med": 145,
    "ratio": 9.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951363146",
+   "title": "Mice, mouse collection",
+   "price": 290,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/monroe-mice-mouse-collection/vm9UC4VHJEwn9ubu3G6MJq",
+   "best": "Mystery Knickknack Box - Etsy",
+   "med": 2800,
+   "ratio": 9.66,
    "ai_value": ""
   },
   {
@@ -10538,6 +10593,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7958262038",
+   "title": "Vintage lamps",
+   "price": 25,
+   "area": "lasvegas",
+   "url": "https://www.craigslist.org/view/d/las-vegas-vintage-lamps/6jqkdnixpcumYokzCsoiv2",
+   "best": "Pair of Table Lamp Mid CENTURY 1960 - Etsy",
+   "med": 141,
+   "ratio": 5.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7956087207",
    "title": "4 ceramic vintage canisters",
    "price": 40,
@@ -11667,6 +11733,17 @@
    "url": "https://www.craigslist.org/view/d/shawnee-vintage-faux-pearl-gold-dangle/nwE7Fd2N8U3JCWXGwNu3Ad",
    "best": "eBay",
    "med": 100,
+   "ratio": 5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971217092",
+   "title": "Vintage Large Safety Pin Brooch Western Horseshoe Cowboy Boots Hat",
+   "price": 12,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-vintage-large-safety-pin-brooch/qB5wxNU4jwvyPttkuQP4ES",
+   "best": "Western Horse Safety Pin Brooch Unique | Mercari",
+   "med": 60,
    "ratio": 5,
    "ai_value": ""
   },
@@ -15576,6 +15653,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950524366",
+   "title": "Gold Prospector",
+   "price": 20,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/coeur-alene-gold-prospector/aszEzPPz49syN4pYfiNFnz",
+   "best": "Vintage Michael Garman Signed The Prospector Sculpture Ex ...",
+   "med": 70,
+   "ratio": 3.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7931792065",
    "title": "Sterling silver and zircon pendant",
    "price": 35,
@@ -17795,6 +17883,17 @@
    "best": "eBay",
    "med": 250,
    "ratio": 2.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949858294",
+   "title": "Vintage 1950s electric wall clock",
+   "price": 75,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-1950s-electric-wall/vybocuxcqufQR1v5WpYdQH",
+   "best": "Sold at Auction: Mid Century Turquoise Telechron Kitchen ...",
+   "med": 220,
+   "ratio": 2.93,
    "ai_value": ""
   },
   {
@@ -24794,6 +24893,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7940282851",
+   "title": "Vintage Sterling Silver Tie Bar Clip - Demon Face",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-vintage-sterling-silver/3JKWCEQKYzwjYQGFB4ndwV",
+   "best": "JAPANEESE STERLING SILVER RESIN HANNYA ONI NOH ...",
+   "med": 110,
+   "ratio": 1.83,
+   "ai_value": ""
+  },
+  {
    "pid": "7979729109",
    "title": "Navajo Kachina Inlay",
    "price": 110,
@@ -24911,6 +25021,17 @@
    "url": "https://www.craigslist.org/view/d/depew-reduced-price-pearl-bridal/hdzHqTqnLzY2jZbTpVFF1J",
    "best": "A144 Vintage Gold Tone Bow Earrings With Faux Pearl Drops ...",
    "med": 58,
+   "ratio": 1.81,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971065229",
+   "title": "Bamboo Concert Ukulele",
+   "price": 99,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/stevenson-ranch-bamboo-concert-ukulele/95Bbh3g1wNUUuA26aniDim",
+   "best": "Amazon.com: Kala KA-BMB-T Bamboo Tenor Ukulele : Musical ...",
+   "med": 179,
    "ratio": 1.81,
    "ai_value": ""
   },
@@ -31130,6 +31251,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948652563",
+   "title": "Fostoria cobalt creamer",
+   "price": 12,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/carrollton-fostoria-cobalt-creamer/wBoffH5Tg7MdVn2TDzpiZm",
+   "best": "Avon Vintage Fostoria Cobalt Blue Glass Mt Vernon Sauce ...",
+   "med": 15,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7968077349",
    "title": "G I  Joe hallmark",
    "price": 25,
@@ -33330,6 +33462,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950088532",
+   "title": "Barbie Doll lot# 3B11",
+   "price": 120,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/scottsdale-barbie-doll-lot-3b11/bNV64aWQBzDYBAVVmzfnRD",
+   "best": "VTG 1995 Barbie As Glinda The Good Witch Wizard of Oz ...",
+   "med": 129,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7936654330",
    "title": "Knife Carving Set",
    "price": 50,
@@ -33744,6 +33887,17 @@
    "url": "https://www.craigslist.org/view/d/vero-beach-sterling-necklace/oWyJ2wrbwZMk7BgdMfHJfj",
    "best": "Etsy",
    "med": 299,
+   "ratio": 1.01,
+   "ai_value": ""
+  },
+  {
+   "pid": "7945476220",
+   "title": "\u2605 Vintage Garbage Pail Kids Card Collection",
+   "price": 99,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/saint-paul-vintage-garbage-pail-kids/wUQTt9vdUS3LwKGDm9Dtww",
+   "best": "Garbage Pail Kids (GPK) 300 Card Random Lot! OS 1-15! 80s! 3 ...",
+   "med": 100,
    "ratio": 1.01,
    "ai_value": ""
   },
@@ -34601,6 +34755,17 @@
    "area": "philadelphia",
    "url": "https://www.craigslist.org/view/d/vintage-rhinestone-necklace-pink-stone/jAKius34hzvhQeMfjf291E",
    "best": "Fake Ruby and Diamond Necklace - Etsy",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938482126",
+   "title": "Brand new Brookstone essential oils diffuser necklace",
+   "price": 15,
+   "area": "wausau",
+   "url": "https://www.craigslist.org/view/d/plover-brand-new-brookstone-essential/aiTNx29g38GqVUH6FGe9P7",
+   "best": "Flower Perfume Locket Necklace Silver Tone Vintage Gift ...",
    "med": 15,
    "ratio": 1,
    "ai_value": ""
@@ -42665,6 +42830,17 @@
    "url": "https://www.craigslist.org/view/d/minneapolis-vintage-german-beer-stein/fQJNWkwzomybUXX861bfU1",
    "best": "Violity",
    "med": 19,
+   "ratio": 0.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960712475",
+   "title": "Waltham Model 1883 S18 17J Movement w/Crown and Stem",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/oakland-waltham-model-1883-s18-17j/jU43dxTQmVXtGk63jRS1oh",
+   "best": "1904 Waltham Model 1891 Grade Seaside 7J 0s Pocket Watch ...",
+   "med": 29,
    "ratio": 0.29,
    "ai_value": ""
   },
