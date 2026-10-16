@@ -490,3 +490,25 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 - Fix: EBAY_DEEP_BRIEF.md said rows end "within 24 h"; the pool also has newly-listed auctions (any end date). Reworded.
 - Observation: 20 of 26 detailed rows end 5–10 days out (newly-listed pass). Good for lead time; deep agents should keep
   re-checking the leads near end rather than value them as final.
+
+## 2026-10-16 12:14 UTC scheduled run
+- **eBay:** pool ebay-20261016-1203 → 2,192 new auctions (19 sheets, 8 eye agents) → 5 flags (IH coin-silver cuffs ×2, jadeite
+  toad, orange "jade" bangle, MixPre-3 at $1) → detail run (MCP dispatch) → all 5 killed. IH = Maisel's machine-made tourist
+  ware, 10–12 g; bangle = dyed quartzite; toad uncertified; MixPre-3 not stated tested. A new pool landed 12:23 (screen next run).
+- **ShopGoodwill:** 32,327 ending ≤36 h → 8,215 screened (69 sheets, 8 agents) → 10 flags → 3 deep agents. 0 eggs, **1 lead**:
+  sgw280310479 1968 Sister Corita boxed portfolio (offset plates, 23 of 34), bid $51, ends Oct 17 17:17 PT, max bid $95, resale ~$250.
+  Kills incl. a museum-shop "Zhang Daqian" reproduction scroll, a hollow Thai souvenir "Khmer" bust, Japan-stamped dragon box,
+  PRC-labelled Shoulao, C.A. Walker etching (not a monotype).
+- **Craigslist:** harvest eye-20261016-1226: 67,068 listings → 53,496 after filters → random 12,000 screened (100 sheets, 8 agents)
+  → 28 flags → 4 rule kills (LV/Hermès/Leiber authentication, Bogen tube amp untested) → 24 triaged (3 agents). 0 eggs, 0 buys,
+  9 Tier-C asks (none pass at asking): English concertina $200 (maker label decides; offer $150–175), Gould Birds of Great
+  Britain plate $100, Grateful Dead 1977 Selland poster $90, 1915 CA dash tag $100, Hubley Trick Dog bank $200, 1891 $1 note $99,
+  Kluson 12-string half-set $75, Brazilian hill-town oil $75, albumen costume group $50. No seller contacted.
+- Estate sales: not scheduled (Tuesday only). Events logged: 43 verdicts + ingest of 38 flagged listings.
+- **health:** FAIL harvest/queue 7.3 h old — the refurbish-cycle schedule did not fire at ~08:41 or ~12:41 (last scheduled run
+  04:41). Dispatched refurbish-cycle (full) via MCP at ~12:55. WARN Lens worker 11.6 h stale, review backlog 4,216.
+- Eye-agent note: the picker's notes overstated most CL rows (1950s mitt "pre-1920", 30¢ Star Wars "maybe 35¢"); the listing
+  body settled half the rows before photos. Triage field notes appended to research/new-type-candidates.md (concertina,
+  Gould printer lines, Trick Dog bank versions, Fr.351/352, Kluson 6-on-plate).
+- Last 24 h (since Oct 15 12:14): eggs 1 (Marie jar, 18:14 run) · leads ≈27 · screened: eBay ≈34,800 (+1,400 marks runs),
+  ShopGoodwill ≈20,650 (+2,000 marks runs), Craigslist 12,000, estate 0.
