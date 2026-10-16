@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:43:59Z",
+ "updated": "2026-10-16T00:47:49Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15489,
-  "lens": 13449,
-  "events": 41463,
+  "lens": 13474,
+  "events": 41488,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 603,
-  "flagged": 4143,
-  "lensed": 1315,
+  "queued": 578,
+  "flagged": 4159,
+  "lensed": 1324,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -1100,6 +1100,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7937486871",
+   "title": "Antique Oil Painting",
+   "price": 50,
+   "area": "mohave",
+   "url": "https://www.craigslist.org/view/d/lake-havasu-city-antique-oil-painting/pc2qTaZmAmcJcnJ3M2kD5w",
+   "best": "LOT-ART",
+   "med": 6000,
+   "ratio": 120,
+   "ai_value": ""
+  },
+  {
    "pid": "7952290007",
    "title": "LLADRO Figurines- Genuine",
    "price": 35,
@@ -2010,6 +2021,17 @@
    "best": "Signed Lithograph \"Spirit Horse\" by Artist Woody Crumbo for ...",
    "med": 1286,
    "ratio": 51.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936335802",
+   "title": "925 sterling silver ring",
+   "price": 5,
+   "area": "mansfield",
+   "url": "https://www.craigslist.org/view/d/mansfield-925-sterling-silver-ring/1kLdHrXXg6UH2pMB2dBJ1d",
+   "best": "Vintage Solid 14k Yellow Gold Claddaugh Ring - Size 6.25 - Etsy",
+   "med": 257,
+   "ratio": 51.4,
    "ai_value": ""
   },
   {
@@ -5705,6 +5727,17 @@
    "url": "https://www.craigslist.org/view/d/la-puente-large-picture-of-roses/iBzkJoQSFQSnh9RrfgvyLg",
    "best": "Ethan Allen Art for sale | eBay",
    "med": 250,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7971217515",
+   "title": "Necklace Watch Pendant Diamond Bling Silver Tone",
+   "price": 10,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-necklace-watch-pendant-diamond/sHZHhEZz3oPDfbkzoqQ8Zy",
+   "best": "Diamonte Pendant - Etsy",
+   "med": 125,
    "ratio": 12.5,
    "ai_value": ""
   },
@@ -12452,6 +12485,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980577407",
+   "title": "Chinese porcelain urn",
+   "price": 100,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/ashland-chinese-porcelain-urn/dV1rREUvq1wuA6GqqLtt3g",
+   "best": "Pair of Chinese Porcelain Hand Painted Raised Floral Black ...",
+   "med": 450,
+   "ratio": 4.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7971509190",
    "title": "Vintage Victorian Floral Ashtray",
    "price": 30,
@@ -14438,6 +14482,17 @@
    "area": "cnj",
    "url": "https://www.craigslist.org/view/d/cherry-hill-16-vintage-star-wars-pins/a3zFNWnBuRkm9NF5RWDvX3",
    "best": "eBay",
+   "med": 95,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943895602",
+   "title": "Vintage Jewelry Box",
+   "price": 25,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vintage-jewelry-box/c65Jaj2JMGve7UQ6AbSAmm",
+   "best": "Nextdoor",
    "med": 95,
    "ratio": 3.8,
    "ai_value": ""
@@ -16577,6 +16632,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959975843",
+   "title": "Vintage 1945 Toy Education Microscope Set",
+   "price": 15,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/rochester-vintage-1945-toy-education/jLVAKDq92U1x55pAPkJCEV",
+   "best": "eBay",
+   "med": 48,
+   "ratio": 3.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7963619385",
    "title": "Lladro collection and more",
    "price": 250,
@@ -18678,6 +18744,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932601163",
+   "title": "Sterling Silver/Marcasite Necklace",
+   "price": 70,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-sterling-silver-marcasite/g58ocRCr5Vz6JfP3zfTPMv",
+   "best": "eBay",
+   "med": 191,
+   "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7983853065",
    "title": "10k gold charm necklace",
    "price": 90,
@@ -20097,6 +20174,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952157144",
+   "title": "Ibanez Talman",
+   "price": 100,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/laguna-woods-ibanez-talman/56uUp3M1dbcmYoZy2Pavfw",
+   "best": "Guitar Center",
+   "med": 250,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952572829",
    "title": "VINTAGE 1950-60'S ELKORN GETZEN CLARINET",
    "price": 80,
@@ -20290,6 +20378,17 @@
    "area": "portland",
    "url": "https://www.craigslist.org/view/d/woodland-vintage-southwest-design-black/emembZYvaPVk263ukijyCY",
    "best": "Large Signed Black On Black Vintage Cedar Mesa Navajo ...",
+   "med": 85,
+   "ratio": 2.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951056252",
+   "title": "Three Vintage LED watches",
+   "price": 35,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/burlington-three-vintage-led-watches/bZJBsXtRWxdp49C4SjEUmg",
+   "best": "eBay",
    "med": 85,
    "ratio": 2.43,
    "ai_value": ""
@@ -26224,6 +26323,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984203846",
+   "title": "Ukelin",
+   "price": 75,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/cornelius-ukelin/7FbomGmqXMtJygBJnhHyri",
+   "best": "Etsy",
+   "med": 125,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965008391",
    "title": "Vintage Hand embroidered Elephant Tapestry",
    "price": 175,
@@ -27474,6 +27584,17 @@
    "url": "https://www.craigslist.org/view/d/stillwater-elegant-green-garnet/igN7B8Y2mYnaYhdrTgxLbF",
    "best": "Set din aventurin fatetat si agat negru | Magazin online de ...",
    "med": 130,
+   "ratio": 1.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947193758",
+   "title": "antique eye glasses, 3 pair",
+   "price": 60,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sebastopol-antique-eye-glasses-pair/9UKpAp1ar8kcN9mv9z5mGu",
+   "best": "Antique Eyeglass Eye Glasses WILSTA-E Gold Spectacles GF ...",
+   "med": 92,
    "ratio": 1.53,
    "ai_value": ""
   },
@@ -30498,6 +30619,17 @@
    "area": "sfbay",
    "url": "https://www.craigslist.org/view/d/alameda-don-quixote-figurine/uNiraqisPh9mp6o5k1QzF2",
    "best": "Vintage Mexican Paper Mache Man Peasant Folk Art Figurine ...",
+   "med": 32,
+   "ratio": 1.28,
+   "ai_value": ""
+  },
+  {
+   "pid": "7929412895",
+   "title": "New- Elegant Silvertone Changeable Pendant Center and Chain",
+   "price": 25,
+   "area": "sarasota",
+   "url": "https://www.craigslist.org/view/d/venice-new-elegant-silvertone/cEUBURTYzQfNSBPw2EdSBf",
+   "best": "Craigslist",
    "med": 32,
    "ratio": 1.28,
    "ai_value": ""
@@ -37697,6 +37829,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932007752",
+   "title": "5 Anchor Hocking Red and Green Vases",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-anchor-hocking-red-and/3Xbih1n7rZtTYX1gLWGwt3",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 0.73,
+   "ai_value": ""
+  },
+  {
    "pid": "7940114039",
    "title": "Sterling silver kokopelli earrings",
    "price": 40,
@@ -38573,6 +38716,17 @@
    "url": "https://www.craigslist.org/view/d/peoria-lot-of-watches/fRNo7y2kywynCRgGa8ft8z",
    "best": "Lot of Vintage Quartz Wristwatch Watch Bands Snake Bangle ...",
    "med": 99,
+   "ratio": 0.66,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949311219",
+   "title": "Antique Wooden Japanese Mask - Smiling",
+   "price": 195,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/hillsboro-antique-wooden-japanese-mask/n4w7624JQM7gqTpwoW82FK",
+   "best": "1910 Admiration Cigars Advertising Chalkware Man in the Moon ...",
+   "med": 129,
    "ratio": 0.66,
    "ai_value": ""
   },
@@ -44077,6 +44231,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949301824",
+   "title": "Military Patches Lot (~40) - All New",
+   "price": 100,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/tampa-military-patches-lot-40-all-new/tCRks6UpQbgm9PjhMSwFXs",
+   "best": "eBay",
+   "med": 6,
+   "ratio": 0.06,
+   "ai_value": ""
+  },
+  {
    "pid": "7938152222",
    "title": "Ray Harm Kestrel print",
    "price": 100,
@@ -46062,6 +46227,17 @@
    "price": 80,
    "area": "tampa",
    "url": "https://www.craigslist.org/view/d/tampa-vintage-military-aircraft-photos/3HzSACtyKovTAXou3TAeZ8",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984169286",
+   "title": "New Ben Bridge Topaz Sterling Station Necklace",
+   "price": 195,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/poulsbo-new-ben-bridge-topaz-sterling/vHQ1zmpYQwHAfRB3PN1F4J",
    "best": "eBay",
    "med": null,
    "ratio": null,
