@@ -521,3 +521,24 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   from the 03:00 run); Alvar Suñol litho sgw279479654 = kill (size, ~$50 median).
 - Eggs 0. Near-misses worth noting: Wyllie/Dunthorne aquatint titled "reproduction" (sgw, ~$150–300), Kholui lacquer ring,
   Impala emblems, Schneider Xenar early serial. Pool-quality fix proposed in review-cycle.md §0d.
+
+## 2026-10-16 15:14 UTC scheduled run (eBay only; SGW/CL/estate not scheduled at 15:14)
+- eBay pool was stale (last 12:03, already screened) → dispatched ebay-eggs pool at 15:18 → 15:33 pool: **5,539 new** auctions
+  → 47 sheets, 8 eye agents → 12 flags → detail → deep review: **12 kills** (Utamaro-style hopes all reproductions/plated/named;
+  Avengers #54–56 lot has #55 at ~VG 4.0 ≈ $110–140 lot; Loraine Moore 2/30 litho real but named and priced).
+- Markings chunk 3: 900 soonest-ending rows from markings-queue.json, **pre-filtered** per §0d (dropped 285 brand-named titles and
+  127 artist-seller "original acrylic/OOAK" titles before spending API calls) → 900 panels, 12 agents → 5 flags → deep review:
+  - LEAD 257794407992 men's ring stamped 14K (white gold per item specifics) titled "looks to be zirconia", $40, ends Oct 16 23:14Z,
+    value_low $395 at 5 g melt (spot ~$4,198/oz), max bid $170 (ask weight + stone test).
+  - LEAD 900015416193 two framed Jain/Gujarati naraka manuscript leaves (folio "patra 35") titled "tribal painting on canvas",
+    $31.92, ends Oct 22 16:07Z, value_low $300, max $85 ($120 if verso text confirmed).
+  - LEAD (thin) 287638218219 Tarkay serigraph 387/475 misread as "T. Chen", $9.58, ends Oct 16 21:58Z, max $35; confirm shipping.
+  - KILL 960072166652 Utamaro "Umegawa & Chūbei" (Ongyoku koi no ayatsuri) titled Kunisada — signature reading correct but a
+    20th-c. recut (missing lattice block, recut border, flat palette); compared with MFA sc156262. KILL 267808881165 Chagall book plate.
+  - Filtered chunk: 5 flags / 900 vs 0 / 900 in run 2 — keep the pre-filter. Queue now ~2,487 rows.
+- Near-miss noted, not flagged: "Chinese Old Painting Z25" inscribed 宋文治 1983 (numbered copy-seller pattern).
+- Bug to check: an agent reported /tmp/<run>/img/287631960010_3.jpg showing a different item than the listing (hallmark_panels
+  image cache naming?). Agents zooming from img/ should cross-check against the panel.
+- Agent coverage gap: panels 526–556 of the chunk got only a first look (context loss in one agent).
+- health: no FAIL. WARN Lens worker 14.6 h stale, review backlog 4,228, text-triage backlog 1,350.
+- Counts this run: eBay 5,539 thumbnails + 900 marking panels; eggs 0; leads 3.
