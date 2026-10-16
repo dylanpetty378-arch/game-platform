@@ -1,6 +1,6 @@
 # eBay golden-egg deep review
 
-Rows (JSON) are eBay auctions from casual sellers (feedback ≤150), ≤3 bids, ending within 24 h, flagged from
+Rows (JSON) are eBay auctions from casual sellers (feedback ≤150), ≤3 bids, either newly listed (any end date) or ending within 24 h, flagged from
 thumbnails as possible golden eggs ($1,000+ value the listing doesn't recognise). Each row has `detail` = the seller's
 description, every photo URL, current bid, shipping, location.
 

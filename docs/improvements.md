@@ -476,3 +476,17 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 - The 03:14 scheduled run left no line here (the markings chat held the lock 03:00–04:10).
 - ShopGoodwill / Craigslist / estate sales: not scheduled this slot. Eggs 0, leads 0.
 - Next: the 09:14 run should dispatch `ebay-eggs` mode=pool first (quota will have reset) and screen it.
+
+## 2026-10-16 09:14 UTC scheduled run
+- Quota had reset, so this run dispatched `ebay-eggs` mode=pool itself (09:15, run 38879219663): 23,324 rows, every category
+  returned (no 429). `sheetpool` worked this time (not refused): **12,894 new auctions → 108 sheets → 8 eye agents → 55 flags**.
+  21 killed on title (reproduction / plated / costume / authentication), 26 sent to detail (run 38881888949), 4 deep agents.
+- Result: **eggs 0, leads 2, kills 24 (+21 title kills).**
+  - Lead: eBay 168795861403 Longines 1959 open-face pocket watch, boxed, presentation-engraved, $54, ends Oct 22 20:34 CDT.
+    Max $60 as gold-filled; only becomes interesting if a case-back photo shows 14K (no mark photographed).
+  - Lead: eBay 128137027372 hand-tinted sixth-plate daguerreotype, sitter with shotgun and dog, ~1850s, $31/3 bids, ends
+    Oct 25 21:00 CDT. Condition fair (tarnish at mat). Value ~$400–800 (estimate, no condition-matched comp fetched); max $175.
+- Counts by source: eBay 12,894 screened. ShopGoodwill / Craigslist / estate: not scheduled this slot.
+- Fix: EBAY_DEEP_BRIEF.md said rows end "within 24 h"; the pool also has newly-listed auctions (any end date). Reworded.
+- Observation: 20 of 26 detailed rows end 5–10 days out (newly-listed pass). Good for lead time; deep agents should keep
+  re-checking the leads near end rather than value them as final.
