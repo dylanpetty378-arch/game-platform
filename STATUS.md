@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T13:33:19Z
+# Refurbish status — 2026-10-16T20:19:36Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,16 +6,16 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| photo_review/kill | 9029 |
+| photo_review/kill | 9044 |
 | flagged | 4216 |
-| queued | 2903 |
+| queued | 3703 |
 | lensed | 1350 |
 | queued/relens | 486 |
-| decided/kill | 123 |
-| decided/ask | 92 |
+| decided/kill | 127 |
+| decided/ask | 91 |
 | decided/find | 29 |
-| expired | 19 |
-| photo_review/ask | 17 |
+| expired | 20 |
+| photo_review/ask | 20 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
 | contacted/find | 3 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 19
-- searches: 4182
-- listings: 17982
+- harvests: 20
+- searches: 4416
+- listings: 18796
 - lens: 13549
-- events: 44260
-- comps: 3539
+- events: 45111
+- comps: 3743
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 - craigslist-20261015-2327 — 118173 listings, 116926 new, 800 queued
 - craigslist-20261016-0500 — 82460 listings, 81707 new, 800 queued
 - craigslist-20261016-1245 — 40919 listings, 40550 new, 800 queued
 - craigslist-20261016-1325 — 49716 listings, 48425 new, 800 queued
+- craigslist-20261016-1956 — 125583 listings, 124303 new, 800 queued
 
-## Finds and open leads (124)
+## Finds and open leads (123)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -92,7 +92,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00K0K_kS6jugZVNag_0CI0lM_300x300.jpg" width="160"> | [ANTIQUE MINTON'S CREAMER & SUGAR](https://www.craigslist.org/view/d/chicago-antique-mintons-creamer-sugar/2o5rtx75Y8DSgoHfzR8MAk) | $25 | chicago | **decided/ask** — text-triage F2: Mintons (crowned globe, "EST 1793 ENGLAND", Rd No 566884, PAT DEC 20 1910, red hand pattern no. ~"B833") Edwardian bone china enamelled-floral breakfast set: teapot, chocolate/coffee pot, covered butter o |
 | <img src="https://images.craigslist.org/00O0O_8OS21bYovI5_0CI0t2_300x300.jpg" width="160"> | [Men's Watch Lot](https://www.craigslist.org/view/d/fresno-mens-watch-lot/si3Y2gJG6BdXpVo7NGCMxD) | $50 | fresno | **decided/ask** — text-triage F5: ~45 watches + aluminum case of more, all need batteries/repair; mostly fashion quartz (Fossil, Timex, Bulova Marine Star quartz), several pocket watches, a Nixon, and a Tiffany & Co pouch in the case. Fas |
 | <img src="https://images.craigslist.org/01313_2wmLInBXg5F_0Mo12w_300x300.jpg" width="160"> | [Unique Vintage Handmade 2 Handle Jug Pottery Canteen Handing](https://www.craigslist.org/view/d/fresno-unique-vintage-handmade-handle/rsoyvk4E7Uhg1xFUzh8wCv) | $15 | fresno | **decided/ask** — text-triage F3: 5" handmade stoneware canteen/bottle, wax-resist panels over iron-oxide, two lugs with leather strap – 1960s-70s studio work. Ask for a photo of the base for an incised signature or chop mark; unsigned is |
-| <img src="https://images.craigslist.org/01414_71zzhNZxyv4_0CI0t2_300x300.jpg" width="160"> | [MOST UNIQUE!!Vintage Nude Girl Lamp-Works Fine](https://www.craigslist.org/view/d/houston-most-uniquevintage-nude-girl/7o7Mmd8QnFU1EXjLq6gX8W) | $15 | houston | **decided/ask** — text-triage F3: Art Deco kneeling nude (bobbed hair, hands on hips) on stepped base, spelter/white metal with gold "art finish", ~7" with small bulb behind figure – the Frankart/Nuart form. Seller does not name a maker.  |
 | <img src="https://images.craigslist.org/00k0k_c2zlFPOtIFF_0CI0t2_300x300.jpg" width="160"> | [Vintage Old Costume Jewelry from 1950's to 1970's Nice](https://www.craigslist.org/view/d/sacramento-vintage-old-costume-jewelry/brPiTpjRkzK1vfQ3DN1Qcd) | $120 | sacramento | **decided/ask** — text-triage L3: Lot $120: tonneau-case Mickey Mouse watch with Mickey's arms as hands and "©WDP" on dial — 1947-50s Ingersoll/U.S. Time (seller says 1958, needs work), plus pair of antique cut-steel shoe buckles, carved  |
 | <img src="https://images.craigslist.org/00m0m_2SDGWP7u3CG_0CI0t2_300x300.jpg" width="160"> | [vintage microsecope](https://www.craigslist.org/view/d/la-crescenta-vintage-microsecope/ceoaYpUu4a51Ft5kSHzTDx) | $25 | losangeles | **decided/ask** — text-triage F1: Bausch & Lomb 'jug-handle' stand (black-japanned horseshoe foot, lacquered-brass coarse knob, c.1900-1920) at $25. Entry ladder: B&L black-and-brass 1900-30 $200-600, lab monocular $60-175 (general knowle |
 | <img src="https://images.craigslist.org/00F0F_3l7aCLk7HO5_0CI0np_300x300.jpg" width="160"> | [Vintage Wooden Hunting Decoy Duck](https://www.craigslist.org/view/d/atlanta-vintage-wooden-hunting-decoy/iNq2vXn19tEp3nF3aiveXQ) | $10 | atlanta | **decided/ask** — Terapeak 365d: Wood surf scoter decoys median $270 (n=2, thin). At $10: ~$195 profit if original paint/glass eyes. Ask for bottom brands + neck joint. |
