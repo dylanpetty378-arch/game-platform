@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T01:01:46Z
+# Refurbish status — 2026-10-16T05:24:10Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -9,11 +9,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | photo_review/kill | 8951 |
 | flagged | 4208 |
 | lensed | 1350 |
-| queued | 503 |
+| queued | 1303 |
 | queued/relens | 486 |
-| decided/kill | 125 |
+| decided/kill | 126 |
 | decided/ask | 83 |
-| decided/find | 20 |
+| decided/find | 26 |
 | expired | 19 |
 | photo_review/ask | 17 |
 | comps/fail | 5 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 16
+- harvests: 17
 - searches: 3736
-- listings: 15489
+- listings: 16289
 - lens: 13549
-- events: 41573
+- events: 42380
 - comps: 3343
-- item_types: 906
+- item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261014-2323 — 117885 listings, 116933 new, 800 queued
 - craigslist-20261015-0511 — 82709 listings, 81951 new, 800 queued
 - craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 - craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 - craigslist-20261015-2327 — 118173 listings, 116926 new, 800 queued
+- craigslist-20261016-0500 — 82460 listings, 81707 new, 800 queued
 
-## Finds and open leads (106)
+## Finds and open leads (112)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -150,6 +150,12 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — Herringbone with stamped cartouche on end cap, unreadable; possible 14K |
 |  | [](None) | $None | None | **decided/ask** — Multi-gem pendant, oval 3-digit fineness 925 or 585 unreadable |
 |  | [](None) | $None | None | **decided/find** — Egyptian 900 silver cartouche w/ likely 18K appliques |
+|  | [](None) | $None | None | **decided/find** — Ink-wash olive grove signed "L. Schwerin 53 Pal." (Ludwig Schwerin 1897-1983), titled "Claude"; auction median ~$120 (appraisily), thin |
+|  | [](None) | $None | None | **decided/find** — Ross-Simons lapis clip earrings titled gold tone; struck maker mark, karat unread (14K or vermeil); ask stamp+weight |
+|  | [](None) | $None | None | **decided/find** — Possible Hummel "Happy Days" HUM 150, $4.96; base mark blurry |
+|  | [](None) | $None | None | **decided/find** — "Silver plated" bowl with Indian jeweller stamp + handwritten 270.0 g: likely solid silver by weight; ask magnet/acid |
+|  | [](None) | $None | None | **decided/find** — Leonid Afremov Studio palette-knife oil (studio painter Rubio), title omits Afremov; ~$150-350 |
+|  | [](None) | $None | None | **decided/find** — 1917 Saalfield Lady Bountiful + 1922 Whitman Mr and Mrs platinum-age strip books, rough |
 
 ## Flagged by Lens, waiting for photo review (4208)
 
