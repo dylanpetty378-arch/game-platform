@@ -542,3 +542,16 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 - Agent coverage gap: panels 526–556 of the chunk got only a first look (context loss in one agent).
 - health: no FAIL. WARN Lens worker 14.6 h stale, review backlog 4,228, text-triage backlog 1,350.
 - Counts this run: eBay 5,539 thumbnails + 900 marking panels; eggs 0; leads 3.
+
+## 2026-10-16 18:14 UTC scheduled run (eBay only; SGW/CL/estate not scheduled at 18:14)
+- eBay 17:09 pool: **1,900 new** auctions → 16 sheets, 8 eye agents → 2 flags (both sheet 8 jewelry) → detail → deep review:
+  KILL 960075444821 "18 Karat Gold Teardrop Necklace" (bail stamped 18K 925 = gold-over-sterling, ~3–5 g, accents; $150 bid ≥ value);
+  KILL 128139259622 "tennis bracelet" (clasp "SLC" only; seller says simulated stones in brass).
+- Markings chunk 4: 400 soonest-ending rows from markings-queue.json, pre-filtered (dropped 230 brand/ACEO/OOAK titles via regex) →
+  detail 401/402 with photos (no 429) → 399 panels, 6 agents → 2 flags, both killed: 1978 NYFF poster with pencil "Avedon"
+  (920024779850, auth-dependent, $125 bid, thin margin); Théodore Haviland Limoges covered dish titled Johnson Bros
+  (920042360856, $50–90, under profit line). Queue now 2,087 rows.
+- Coverage gap noted by an agent: panels cap at 12 tiles and img/ holds only the first 12 photos, so listings with 13–24 photos
+  had later photos unread (6 of 66 in one range). Consider a second panel page for >12 photos in hallmark_panels.py.
+- health: no FAIL. WARN Lens worker 17.5 h stale, review backlog 4,216, text-triage backlog 1,350.
+- Counts this run: eBay 1,900 thumbnails + 399 marking panels; eggs 0; leads 0.
