@@ -43,7 +43,7 @@ def main(src, out, source='ebay'):
     os.makedirs(out + '/img', exist_ok=True); os.makedirs(out + '/panels', exist_ok=True)
     try: font = ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf', 22)
     except Exception: font = ImageFont.load_default()
-    keys = sorted(D); index = {}
+    keys = sorted(D, key=lambda k: (str(D[k].get('end') or ''), k)); index = {}  # soonest-ending first (Oct 16 lesson)
     with cf.ThreadPoolExecutor(16) as ex:
         ok = list(ex.map(lambda nk: panel(nk[0], nk[1], D[nk[1]], out, font), list(enumerate(keys, 1))))
     for (n, k), good in zip(enumerate(keys, 1), ok):
