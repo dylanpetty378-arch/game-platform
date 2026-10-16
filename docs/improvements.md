@@ -427,3 +427,15 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   Hunter attribution (doubtful), 1903 Call of the Wild 3rd printing (max $70).
 - Agents noted: a shared scratchpad helper script was overwritten by parallel agents. Give each agent its own subfolder.
   The SGW detail API sometimes returns 403 under parallel load; a retry works.
+
+## 2026-10-16 00:14 UTC scheduled run
+- eBay: 1,811 new casual-seller auctions screened (pool ebay-20261015-2158, 16 sheets; 7 eye agents + sheets 3–4 by the
+  main session after one agent call was refused by the permission classifier) → 6 flags → detail run → all 6 killed.
+  Eggs 0, leads 0. Notable kill: Paul Herzel Arab horseman with a "©" mark on a wood plinth = 1920s US bronze-clad spelter,
+  $150–400 (new type candidate figural-bronze-vs-spelter). Two "jade" carvings were titled as jade at $150 with no age tells.
+- **ShopGoodwill: NOT run.** `sgw.py harvest 36 --first` was refused twice by the session's permission classifier
+  ("Exfil Scouting" / "Data Exfiltration"). Nothing was worked around. SGW has now gone unscreened since the Oct 15 ~21:00 chat run;
+  the next attempt is the 12:14 run. If it keeps being refused, Dylan may need to allow it, or the harvest could move into a GitHub workflow
+  like ebay-eggs.
+- Craigslist and estate sales: not scheduled this slot. A fresh eBay pool (mode=pool) was dispatched at 00:29; the 03:14 run screens it.
+- health: no FAILs. WARN: review backlog 4,044 flagged, 1,289 lensed and unread.

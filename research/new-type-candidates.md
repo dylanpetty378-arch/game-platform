@@ -174,3 +174,5 @@
   - Marie-signed realized prices (Oct 15 2026 sweep). Very good 5–9" decorated pieces: $2,600–5,400. Brunk 2021 avanyu bowl $3,000 hammer. SFAA 8/2025 wedding vase $5,120. Wright 7/2026 avanyu covered vessel $5,376.
     Good with scuffs: $1,000–1,850. Lost slip or polish, chips or repairs: $250–1,150. Moran 11/2025 jar with spalling: $264. Pook 2020 worn avanyu olla: $310.
     Slip loss cuts value 70–90%. Volume is roughly 30–50 Marie lots a year at US auction, many of them re-offers. Plain geometric jars are soft right now (Revere passed one 3×).
+
+- 2026-10-16 · **figural-bronze-vs-spelter** (Paul Herzel, Armor Bronze / Jennings Bros "Pompeian bronze"-clad, Austrian/French spelter). Seen: eBay 128125206596, Herzel Arab horseman with a "©" cast mark on a wood plinth = 1920s US bronze-clad white metal, ~$150–400. Tells to write up: a scratch test / weight per inch, a "©" mark (US 1920s production), a wooden or slate plinth vs a cast bronze base, a foundry stamp (Barbedienne, Gladenbeck), seam/hollow casting. No entry covers figural bronzes vs clad spelter yet.
