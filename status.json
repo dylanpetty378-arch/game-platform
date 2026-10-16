@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:16:09Z",
+ "updated": "2026-10-16T00:21:43Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15483,
-  "lens": 13274,
-  "events": 41270,
+  "lens": 13299,
+  "events": 41295,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 778,
-  "flagged": 4004,
-  "lensed": 1279,
+  "queued": 753,
+  "flagged": 4023,
+  "lensed": 1285,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -2823,6 +2823,17 @@
    "url": "https://www.craigslist.org/view/d/mount-prospect-ceramic-tea-pot/eqhbaqsfDgZArGRaC8WZv1",
    "best": "Independence-Kentucky-Jordan Photography NKU-Tony Winchester ...",
    "med": 125,
+   "ratio": 31.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7983067998",
+   "title": "Pocket Watches",
+   "price": 40,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/longmont-pocket-watches/tBKiXYvFNTLXFwR3Y2XCwQ",
+   "best": "eBay",
+   "med": 1250,
    "ratio": 31.25,
    "ai_value": ""
   },
@@ -5841,6 +5852,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953252947",
+   "title": "16- Piece Mixed Costume Jewelry Set",
+   "price": 50,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-16-piece-mixed-costume-jewelry/qHkG3hDiLaQRJbXvnKnPWn",
+   "best": "Vintage Napier Red Hat 1990's Red Enamel/rhinestones Pin for ...",
+   "med": 590,
+   "ratio": 11.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7940910539",
    "title": "Women's Watch - Black Lassale (high-end Seiko)",
    "price": 29,
@@ -8448,6 +8470,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7983072003",
+   "title": "Angel Brooch Pin",
+   "price": 15,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-angel-brooch-pin/6ozVbp5BKAd9RmWtqbd5GM",
+   "best": "eBay",
+   "med": 109,
+   "ratio": 7.27,
+   "ai_value": ""
+  },
+  {
    "pid": "7977075240",
    "title": "Vintage silver-plated and metal concert flutes",
    "price": 35,
@@ -8697,6 +8730,17 @@
    "url": "https://www.craigslist.org/view/d/nashville-vintage-nishi-geisha-dolls/fdNxrXtdGosdCdJ8Ti3GA6",
    "best": "Vintage Nishi And Co Ltd Snow Queen Japanese Geisha Doll ...",
    "med": 139,
+   "ratio": 6.95,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962313398",
+   "title": "Painting by Helen Walker Vintage",
+   "price": 60,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/gloucester-painting-by-helen-walker/r8w2YPY7zNM9FXjmwKiC4J",
+   "best": "Nikol Wikman \"Winter Walk\" Signed Oil Painting On Wooden ...",
+   "med": 417,
    "ratio": 6.95,
    "ai_value": ""
   },
@@ -9171,6 +9215,17 @@
    "best": "Baton Rouge Screwed crimson Mahagoni Concert Ukulele | eBay",
    "med": 319,
    "ratio": 6.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984190736",
+   "title": "Vintage brooch pin",
+   "price": 20,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-brooch-pin/9urDE5wXNyRTo8u32UDsTF",
+   "best": "Etsy",
+   "med": 127,
+   "ratio": 6.35,
    "ai_value": ""
   },
   {
@@ -10560,6 +10615,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947355106",
+   "title": "\u2728Lot of Costume Jewelry! Rhinestones, Faux Pearls, Beads,vintage\u2728\ufe0f",
+   "price": 30,
+   "area": "worcester",
+   "url": "https://www.craigslist.org/view/d/worcester-lot-of-costume-jewelry/gbXU5DaWeW6NqQ1RRMRijd",
+   "best": "eBay",
+   "med": 162,
+   "ratio": 5.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7932843437",
    "title": "One-of-a-Kind Sterling Silver Mesh Necklace",
    "price": 225,
@@ -10875,6 +10941,17 @@
    "url": "https://www.craigslist.org/view/d/long-lake-mud-people-set/qMU3RfQkS85yeQ5xfvLGHv",
    "best": "Set of 2 Small Shiwan Bonsai Mudman Figurines Mini Shekwan ...",
    "med": 180,
+   "ratio": 5.14,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984262859",
+   "title": "Sterling silver replica coin",
+   "price": 80,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/springfield-sterling-silver-replica-coin/1P6qf95mEo8PWbbpfGzngg",
+   "best": "Lost Galleon",
+   "med": 411,
    "ratio": 5.14,
    "ai_value": ""
   },
@@ -13075,6 +13152,17 @@
    "url": "https://www.craigslist.org/view/d/las-vegas-charming-bear-pendant-chain/epMT3VgzXLHpJqA3EAJLDB",
    "best": "14K Gold Paw Print Bracelet, Dog Paw Name Bracelet, Tiny Pet ...",
    "med": 1637,
+   "ratio": 4.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979615025",
+   "title": "Vintage Seiko Watch",
+   "price": 55,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/peoria-vintage-seiko-watch/7A3kCtqh47zdF8UrMsHNdE",
+   "best": "Vintage Refurbished Seiko 5 Automatic Watch - 1980s Black ...",
+   "med": 225,
    "ratio": 4.09,
    "ai_value": ""
   },
@@ -24409,6 +24497,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984284906",
+   "title": "Vintage Trifari Clip-On Earrings",
+   "price": 10,
+   "area": "clarksville",
+   "url": "https://www.craigslist.org/view/d/nashville-vintage-trifari-clip-on/f47Gq7tucL9P6q8ZzSx5rE",
+   "best": "Craigslist",
+   "med": 18,
+   "ratio": 1.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7943637755",
    "title": "Sterling Silver & Turquoise Size 6 Ring Signed Y",
    "price": 100,
@@ -29469,6 +29568,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965317514",
+   "title": "VINTAGE COPPER AND BRASS COLLECTION TRAY",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-copper-and-brass/auKRyKV7HuKHBfNAPfLK1E",
+   "best": "Craigslist",
+   "med": 45,
+   "ratio": 1.29,
+   "ai_value": ""
+  },
+  {
    "pid": "7954911675",
    "title": "Antique mantle clock",
    "price": 90,
@@ -32197,6 +32307,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7965659574",
+   "title": "Vintage mandolin made in Holland",
+   "price": 150,
+   "area": "detroit",
+   "url": "https://www.craigslist.org/view/d/detroit-vintage-mandolin-made-in-holland/3U97pgbaQWRFAJFAojS5Hf",
+   "best": "eBay",
+   "med": 160,
+   "ratio": 1.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7936654330",
    "title": "Knife Carving Set",
    "price": 50,
@@ -34716,6 +34837,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7981799061",
+   "title": "George Two-Tone Wristwatch",
+   "price": 25,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/rockford-george-two-tone-wristwatch/qFTSzhxwEiEo3u1Mx3QVBe",
+   "best": "eBay",
+   "med": 22,
+   "ratio": 0.88,
+   "ai_value": ""
+  },
+  {
    "pid": "7974014871",
    "title": "1992 Heart & Angel Wing Pin - Sterling - ALMOST 2.25\" LONG",
    "price": 30,
@@ -35075,6 +35207,17 @@
    "url": "https://www.craigslist.org/view/d/manassas-vintage-string-double-eagle/fBsxxVfYwZZbErENYwX126",
    "best": "Eagle Resonator Nashville 1970's | Reverb",
    "med": 299,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
+   "pid": "7963290804",
+   "title": "CAITHNESS SCOTLAND GLASS VASES LILAC, PURPLE, BLUE SWIRL LOT OF 4",
+   "price": 60,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/van-nuys-caithness-scotland-glass-vases/jjxBLVXv43PwPEZM3VjgfX",
+   "best": "eBay",
+   "med": 51,
    "ratio": 0.85,
    "ai_value": ""
   },
@@ -36142,6 +36285,17 @@
    "url": "https://www.craigslist.org/view/d/taos-ski-valley-southwest-sterling/oZ8wTKp7WtNHnbr9Dn28Rn",
    "best": "santa fe / taos - Craigslist",
    "med": 65,
+   "ratio": 0.76,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938658602",
+   "title": "Lot of Antique Chinese Cloisonn\u00e9 - 8 pieces.",
+   "price": 165,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-lot-of-antique-chinese/r4YnrJ97znYyWii3NcLT3T",
+   "best": "eBay",
+   "med": 125,
    "ratio": 0.76,
    "ai_value": ""
   },
@@ -38500,6 +38654,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953641822",
+   "title": "Longines Pocket Watch Gold Filled",
+   "price": 400,
+   "area": "columbus",
+   "url": "https://www.craigslist.org/view/d/pickerington-longines-pocket-watch-gold/gpnMdhT5Kjw4ToRfBzLNf9",
+   "best": "Mercari",
+   "med": 230,
+   "ratio": 0.57,
+   "ai_value": ""
+  },
+  {
    "pid": "7953788591",
    "title": "Sterling Silver Vermeil Clear Stone Criss Cross Size 6.5 Ring",
    "price": 45,
@@ -39409,6 +39574,17 @@
    "url": "https://www.craigslist.org/view/d/garden-grove-pair-of-vintage-botanical/tnBGhBpcTwG9kMpfYZ5mEQ",
    "best": "Etsy",
    "med": 17,
+   "ratio": 0.49,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943907672",
+   "title": "HHWhiting hand designed pendant",
+   "price": 70,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-hhwhiting-hand-designed/uvr6F6XHBNX8jtuNB5zxnA",
+   "best": "Vintage 60s Picture Insert Pendant Yellow | Mercari",
+   "med": 34,
    "ratio": 0.49,
    "ai_value": ""
   },
@@ -40348,6 +40524,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7982961423",
+   "title": "\ud83e\udeb5\ud83d\udd2a\ud83c\udf56 Vintage Carving Sets \u2013 Antler\u2011Style Handles\ud83e\udeb5\ud83d\udd2a\ud83c\udf56",
+   "price": 50,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-diego-vintage-carving-sets/1fUFbByDhbJBUTRVJ1FPUZ",
+   "best": "Bernal Cutlery",
+   "med": 20,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7983791019",
    "title": "Vintage 18 Inch Navajo Turquoise Sterling Silver Bead Necklace",
    "price": 85,
@@ -41158,6 +41345,17 @@
    "url": "https://www.craigslist.org/view/d/albuquerque-vintage-copper-brooches/wWz8EF4sk1Qe3DmLrKePwe",
    "best": "Etsy",
    "med": 13,
+   "ratio": 0.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953928792",
+   "title": "Vintage Unusual GOAT Pentagram Pendant",
+   "price": 400,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-unusual-goat/knwSzjy9Kmc2zp95ifWbap",
+   "best": "Amazon.com",
+   "med": 115,
    "ratio": 0.29,
    "ai_value": ""
   },
@@ -44537,6 +44735,17 @@
    "med": null,
    "ratio": null,
    "ai_value": null
+  },
+  {
+   "pid": "7948984421",
+   "title": "Vintage Mexican Wine/Water Goblets",
+   "price": 10,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/everett-vintage-mexican-wine-water/nAkvcs3t9Zf8iKWPjc97gr",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   }
  ],
  "finds": [
