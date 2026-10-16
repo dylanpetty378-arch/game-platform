@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T00:53:44Z
+# Refurbish status — 2026-10-16T00:57:43Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,15 +7,15 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8951 |
-| flagged | 4175 |
-| lensed | 1333 |
-| queued | 553 |
+| flagged | 4193 |
+| lensed | 1340 |
+| queued | 528 |
 | queued/relens | 486 |
 | decided/kill | 125 |
-| decided/ask | 80 |
+| decided/ask | 83 |
+| decided/find | 20 |
 | expired | 19 |
 | photo_review/ask | 17 |
-| decided/find | 13 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
 | contacted/find | 3 |
@@ -26,8 +26,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 16
 - searches: 3736
 - listings: 15489
-- lens: 13499
-- events: 41513
+- lens: 13524
+- events: 41548
 - comps: 3343
 - item_types: 906
 - runs: 0
@@ -40,7 +40,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 - craigslist-20261015-2327 — 118173 listings, 116926 new, 800 queued
 
-## Finds and open leads (96)
+## Finds and open leads (106)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -140,8 +140,18 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/3YQAAeSwdbtqb6i4/s-l225.jpg_300x300.jpg" width="160"> | [Rare Antique Persian Qalamdan Pen Case – 19th Century Hand-P](https://www.ebay.com/itm/377572449600) | $19.99 | fb 138 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
+|  | [](None) | $None | None | **decided/find** — G. Lanz spoons titled silverplate: 3-punch assay set on stems = continental 800-835 silver, 6 spoons ~90-150 g, melt $140-240; ask for punch close-up |
+|  | [](None) | $None | None | **decided/find** — Shell cameo "gold tone": frame stamp reads most like 18K (could be 800); ask for sharp stamp + weight |
+|  | [](None) | $None | None | **decided/find** — Taxco eagle + T-code sterling panel bracelet 48 g, melt ~$86 |
+|  | [](None) | $None | None | **decided/ask** — Repousse goblet, 900 cut in foot, 40-70 g (ended before review) |
+|  | [](None) | $None | None | **decided/find** — 10K stamped shell cameo ring ~2 g gold |
+|  | [](None) | $None | None | **decided/find** — Victorian Etruscan revival bar pin, construction says solid gold, unmarked/unreadable |
+|  | [](None) | $None | None | **decided/find** — Seller XRF 35% Au (~8.5K) bead chain titled gold tone |
+|  | [](None) | $None | None | **decided/ask** — Herringbone with stamped cartouche on end cap, unreadable; possible 14K |
+|  | [](None) | $None | None | **decided/ask** — Multi-gem pendant, oval 3-digit fineness 925 or 585 unreadable |
+|  | [](None) | $None | None | **decided/find** — Egyptian 900 silver cartouche w/ likely 18K appliques |
 
-## Flagged by Lens, waiting for photo review (4175)
+## Flagged by Lens, waiting for photo review (4193)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 

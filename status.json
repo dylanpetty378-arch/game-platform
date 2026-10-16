@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:53:44Z",
+ "updated": "2026-10-16T00:57:43Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15489,
-  "lens": 13499,
-  "events": 41513,
+  "lens": 13524,
+  "events": 41548,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -14,16 +14,16 @@
   "photo_review/kill": 8951,
   "comps/pass": 1,
   "queued/relens": 486,
-  "decided/ask": 80,
+  "decided/ask": 83,
   "decided/bundle": 4,
   "decided/kill": 125,
   "expired": 19,
-  "decided/find": 13,
+  "decided/find": 20,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 553,
-  "flagged": 4175,
-  "lensed": 1333,
+  "queued": 528,
+  "flagged": 4193,
+  "lensed": 1340,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -1943,6 +1943,17 @@
    "url": "https://www.craigslist.org/view/d/longmont-earrings-some-vintage/jmupJNonTh8Nwd7jAMLg9v",
    "best": "Craigslist",
    "med": 56,
+   "ratio": 56,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976165724",
+   "title": "Antique Japanese Hand Painted Ceramic Vase",
+   "price": 10,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/morristown-antique-japanese-hand/bew8gzwkxYKbJzj8M1RvDB",
+   "best": "Peoples Republic of China Marked Case | eBay",
+   "med": 560,
    "ratio": 56,
    "ai_value": ""
   },
@@ -7348,6 +7359,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7977538605",
+   "title": "Vintage 12-inch Tambourine",
+   "price": 20,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-vintage-12-inch-tambourine/pJwsYnLvT66untAgBw5a2X",
+   "best": "Ludwig Concert Tambourine 10\u201d Double Row Jingles 1960's ...",
+   "med": 180,
+   "ratio": 9,
+   "ai_value": ""
+  },
+  {
    "pid": "7955404918",
    "title": "14K GOLD LAPIS EARRINGS",
    "price": 300,
@@ -8565,6 +8587,17 @@
    "url": "https://www.craigslist.org/view/d/new-york-vintage-capped-tube-linked/gMrDZo9TMqeQCrrSAxwFvs",
    "best": "Vintage Capped Tube Linked Jade Green Necklace | eBay",
    "med": 1116,
+   "ratio": 7.44,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951019755",
+   "title": "Antique Still Life Roses Oil painting canvas Expensive Frame Hoskins",
+   "price": 80,
+   "area": "orangecounty",
+   "url": "https://www.craigslist.org/view/d/capistrano-beach-antique-still-life/bVuAcLqtmLkb5kCWeEpxbo",
+   "best": "Ornate Framed Oil Painting Print on Canvas - Tulips & Roses ...",
+   "med": 595,
    "ratio": 7.44,
    "ai_value": ""
   },
@@ -10197,6 +10230,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931807713",
+   "title": "Vintage purses and dresses",
+   "price": 40,
+   "area": "rochester",
+   "url": "https://www.craigslist.org/view/d/east-rochester-vintage-purses-and/eTWx5393niQBTMiNTXCV6F",
+   "best": "Vintage Flapper Beaded Pouch Purse - 1920s Style - Etsy",
+   "med": 239,
+   "ratio": 5.97,
+   "ai_value": ""
+  },
+  {
    "pid": "7929982117",
    "title": "Vintage Native American Sterling Turquoise Ring Size 4 3/4",
    "price": 25,
@@ -11117,6 +11161,17 @@
    "url": "https://www.craigslist.org/view/d/dallas-painting-blue-bonnets/vRJEs8LrTqQhvfnxSbZjiS",
    "best": "Eloise Polk McGill, Bluebonnet Landscape for sale at auction ...",
    "med": 240,
+   "ratio": 5.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7965561786",
+   "title": "Old Carolyn ID Bracelet by Speidel Gold Electroplated 7\"",
+   "price": 12,
+   "area": "boise",
+   "url": "https://www.craigslist.org/view/d/boise-old-carolyn-id-bracelet-by/eAK9pRkizSsYaJ6nPDkn9e",
+   "best": "Vintage Gold Tone CHRIS Tag Bracelet Christian Dior - Etsy",
+   "med": 64,
    "ratio": 5.33,
    "ai_value": ""
   },
@@ -16533,6 +16588,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947106088",
+   "title": "Vintage mozart bust",
+   "price": 20,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/east-derry-vintage-mozart-bust/jyUsdKAkAg6zMHRCHf2KKm",
+   "best": "Mozart Bust Sculpture 6\" A Giannelli Italian Alabaster | eBay",
+   "med": 65,
+   "ratio": 3.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7983120864",
    "title": "Sterling Silver Ammonite Fossil Pin",
    "price": 30,
@@ -18986,6 +19052,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7961285385",
+   "title": "Hoop Earrings",
+   "price": 10,
+   "area": "pittsburgh",
+   "url": "https://www.craigslist.org/view/d/sewickley-hoop-earrings/6TZ51HzNZF4CQtZ9fBLGpP",
+   "best": "Wholesale Cameron Hoops - Fiesta // Jewelry, Earrings, Gift ...",
+   "med": 27,
+   "ratio": 2.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7945744025",
    "title": "2 ANTIQUE ENAMELED LOCKETS",
    "price": 65,
@@ -19466,6 +19543,17 @@
    "url": "https://www.craigslist.org/view/d/shelburne-falls-antique-copper-liquid/qH3n6h5TTDEWeDA8DgFm2A",
    "best": "Vintage Swingspout One Quart Oil Can with Lid, Pivoting Long ...",
    "med": 65,
+   "ratio": 2.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955512410",
+   "title": "Seiko Perpetual Calendar Watch",
+   "price": 48,
+   "area": "chambersburg",
+   "url": "https://www.craigslist.org/view/d/westminster-seiko-perpetual-calendar/7CMPt1qK8qobihKEbEGoZb",
+   "best": "Seiko Perpetual Calendar Black Dial 39MM Two-tone Men's ...",
+   "med": 125,
    "ratio": 2.6,
    "ai_value": ""
   },
@@ -21941,6 +22029,17 @@
    "url": "https://www.craigslist.org/view/d/lawndale-silver-bracelet/1QaKagWvZdpeMJWcWD2bt9",
    "best": "STERLING SILVER AND TURQUOISE CLAUDIA AGUDELO VINTAGE ...",
    "med": 400,
+   "ratio": 2.22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970042499",
+   "title": "Fun Statement Piece",
+   "price": 45,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-fun-statement-piece/xmYT2526djTNkC6PGHmvMm",
+   "best": "Officer's Celebration #7 seriolithograph Anatole Krasnyansky ...",
+   "med": 100,
    "ratio": 2.22,
    "ai_value": ""
   },
@@ -25718,6 +25817,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951696238",
+   "title": "Vintage Ricnor pocket knife",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-ricnor-pocket-knife/1EZET37yoFNUGJ43FoJZyd",
+   "best": "Vintage Camillus Electrician's Folding Pocket Knife USA | eBay",
+   "med": 35,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7983738489",
    "title": "Ukulele, vintage, soprano 1950s Japan",
    "price": 70,
@@ -26451,6 +26561,17 @@
    "url": "https://www.craigslist.org/view/d/cornelius-ukelin/7FbomGmqXMtJygBJnhHyri",
    "best": "Etsy",
    "med": 125,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937892223",
+   "title": "Hummel Soldier Boy",
+   "price": 30,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/seattle-hummel-soldier-boy/4ELxx3fGB7eeqPGHnMGBBg",
+   "best": "Vintage Goebel/Hummel #332 - Soldier Boy - TMK 4/ RED ...",
+   "med": 50,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -31500,6 +31621,17 @@
    "url": "https://www.craigslist.org/view/d/firestone-antique-art-deco-cocktail/2PLWNinDawe9brmUizjnHC",
    "best": "1920s Art Deco Design Bedford Ladies Watch \"NOT WORKING ...",
    "med": 145,
+   "ratio": 1.21,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942357520",
+   "title": "Antique Witthauer Mens Watch Lot Swiss Movement Working NM",
+   "price": 200,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/baldwin-antique-witthauer-mens-watch/agXDadwsQmUPUvqiMEoptr",
+   "best": "Wittnauer Women Luxury Wristwatches | eBay",
+   "med": 241,
    "ratio": 1.21,
    "ai_value": ""
   },
@@ -38654,6 +38786,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951896158",
+   "title": "Antique Green Glass Decanter Set",
+   "price": 95,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-green-glass-decanter-set/6xKMMpryWD6QSmvb1QvCxt",
+   "best": "Indiana Glass Decanter, Six Glasses and Glass Tray | eBay",
+   "med": 65,
+   "ratio": 0.68,
+   "ai_value": ""
+  },
+  {
    "pid": "7934982494",
    "title": "Shirley Temple Doll Collection",
    "price": 45,
@@ -40194,6 +40337,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950980398",
+   "title": "1977 Old Commonwealth Empty Whiskey Decanter",
+   "price": 40,
+   "area": "houston",
+   "url": "https://www.craigslist.org/view/d/richmond-1977-old-commonwealth-empty/gK1A3E41yZp4pvySTxF6wv",
+   "best": "Tennessee Walking horse decanter commonwealth distiller ...",
+   "med": 22,
+   "ratio": 0.55,
+   "ai_value": "WorthPoint Old commonwealth decanter horse | #39414239 $22"
+  },
+  {
    "pid": "7948558885",
    "title": "Set of 2 Porcelain Angel Figurine, New",
    "price": 35,
@@ -40850,6 +41004,17 @@
    "url": "https://www.craigslist.org/view/d/philadelphia-vintage-popeye-45rpm-record/pCcTKAt8iN8dgjadMgX4sn",
    "best": "eBay",
    "med": 10,
+   "ratio": 0.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951489738",
+   "title": "Antique Prohibition Era Hammered flask",
+   "price": 100,
+   "area": "sanmarcos",
+   "url": "https://www.craigslist.org/view/d/kyle-antique-prohibition-era-hammered/863bRRc4MSdPVvrf5pfgXY",
+   "best": "Vintage E & J.B Metal Pocket/Hip Flask | eBay",
+   "med": 50,
    "ratio": 0.5,
    "ai_value": ""
   },
@@ -44352,6 +44517,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984197339",
+   "title": "Assorted Jade Necklaces",
+   "price": 333,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-assorted-jade-necklaces/2BPksB8vUcWjYmwGALHFgj",
+   "best": "Chinese 100% Natural Gold Obsidian Jade Pendant Necklace ...",
+   "med": 23,
+   "ratio": 0.07,
+   "ai_value": ""
+  },
+  {
    "pid": "7975122936",
    "title": "Jewelry Business Start up",
    "price": 300,
@@ -46418,6 +46594,28 @@
    "med": null,
    "ratio": null,
    "ai_value": ""
+  },
+  {
+   "pid": "7954389222",
+   "title": "Evan Williams Whiskey Jug",
+   "price": 50,
+   "area": "richmond",
+   "url": "https://www.craigslist.org/view/d/mechanicsville-evan-williams-whiskey-jug/jJMfhURtFWMCYQmv1RMBMm",
+   "best": "Evan Williams 7 Year Old Crock - Irish Whiskey Auctions",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984229304",
+   "title": "Old Hoffman FS",
+   "price": 90,
+   "area": "cincinnati",
+   "url": "https://www.craigslist.org/view/d/goshen-old-hoffman-fs/5CqtRx8Bc9XCkeys3w9CKV",
+   "best": "Old Hoffman 6 Year Double Oaked Straight Bourbon Whiskey ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
   }
  ],
  "finds": [
@@ -47378,6 +47576,106 @@
    "area": "fb 121",
    "url": "https://www.ebay.com/itm/147626533601",
    "note": "Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU logo printed on it), with Filmation exposure folder dated 4/85 visible behind | Not an egg: copy background, not a key He-Man/Skeletor setup. Shipping not stated in listing - confirm ",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "ebay128124933967",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "G. Lanz spoons titled silverplate: 3-punch assay set on stems = continental 800-835 silver, 6 spoons ~90-150 g, melt $140-240; ask for punch close-up",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "ebay800799005563",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "Shell cameo \"gold tone\": frame stamp reads most like 18K (could be 800); ask for sharp stamp + weight",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "ebay377573264365",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "Taxco eagle + T-code sterling panel bracelet 48 g, melt ~$86",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "ebay800773628666",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "Repousse goblet, 900 cut in foot, 40-70 g (ended before review)",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "sgw279856108",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "10K stamped shell cameo ring ~2 g gold",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "sgw279912776",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "Victorian Etruscan revival bar pin, construction says solid gold, unmarked/unreadable",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "sgw279897163",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "Seller XRF 35% Au (~8.5K) bead chain titled gold tone",
+   "stage": "decided",
+   "status": "find"
+  },
+  {
+   "pid": "sgw279034491",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "Herringbone with stamped cartouche on end cap, unreadable; possible 14K",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "sgw279893013",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "Multi-gem pendant, oval 3-digit fineness 925 or 585 unreadable",
+   "stage": "decided",
+   "status": "ask"
+  },
+  {
+   "pid": "sgw280130953",
+   "title": null,
+   "price": null,
+   "area": null,
+   "url": null,
+   "note": "Egyptian 900 silver cartouche w/ likely 18K appliques",
    "stage": "decided",
    "status": "find"
   }

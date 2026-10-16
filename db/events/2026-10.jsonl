@@ -41521,3 +41521,28 @@
 {"pid":"sgw279034491","stage":"decided","status":"ask","type":null,"note":"Herringbone with stamped cartouche on end cap, unreadable; possible 14K","run":"hallmark-20261015","by":"claude","data":{"verdict":"ask","price":34.95,"max_bid":0,"source":"hallmark run"},"ts":"2026-10-16T00:55:52Z"}
 {"pid":"sgw279893013","stage":"decided","status":"ask","type":null,"note":"Multi-gem pendant, oval 3-digit fineness 925 or 585 unreadable","run":"hallmark-20261015","by":"claude","data":{"verdict":"ask","price":9.99,"max_bid":0,"source":"hallmark run"},"ts":"2026-10-16T00:55:52Z"}
 {"pid":"sgw280130953","stage":"decided","status":"find","type":null,"note":"Egyptian 900 silver cartouche w/ likely 18K appliques","run":"hallmark-20261015","by":"claude","data":{"verdict":"lead","price":14.99,"max_bid":25,"source":"hallmark run"},"ts":"2026-10-16T00:55:52Z"}
+{"ts":"2026-10-16T00:53:37Z","pid":"7965740241","stage":"lensed","run":"lensworker-20261016-0047","note":null,"data":{"med":240,"ratio":0.8,"mismatch":[]}}
+{"ts":"2026-10-16T00:53:47Z","pid":"7961285385","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Cameron, Gift, Jewelry — title does not","data":{"med":27,"ratio":2.7,"mismatch":["Cameron","Gift","Jewelry"]}}
+{"ts":"2026-10-16T00:53:58Z","pid":"7971712674","stage":"lensed","run":"lensworker-20261016-0047","note":null,"data":{"med":49,"ratio":0.52,"mismatch":[]}}
+{"ts":"2026-10-16T00:54:09Z","pid":"7976165724","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Republic — title does not","data":{"med":560,"ratio":56,"mismatch":["Republic"]}}
+{"ts":"2026-10-16T00:54:18Z","pid":"7959750963","stage":"lensed","run":"lensworker-20261016-0047","note":null,"data":{"med":28,"ratio":1.12,"mismatch":[]}}
+{"ts":"2026-10-16T00:54:29Z","pid":"7955512410","stage":"flagged","run":"lensworker-20261016-0047","note":null,"data":{"med":125,"ratio":2.6,"mismatch":[]}}
+{"ts":"2026-10-16T00:54:39Z","pid":"7931807713","stage":"flagged","run":"lensworker-20261016-0047","note":null,"data":{"med":239,"ratio":5.97,"mismatch":[]}}
+{"ts":"2026-10-16T00:54:47Z","pid":"7951019755","stage":"flagged","run":"lensworker-20261016-0047","note":null,"data":{"med":595,"ratio":7.44,"mismatch":[]}}
+{"ts":"2026-10-16T00:54:57Z","pid":"7951896158","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Indiana Glass — title does not","data":{"med":65,"ratio":0.68,"mismatch":["Indiana Glass"]}}
+{"ts":"2026-10-16T00:55:08Z","pid":"7937892223","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Goebel — title does not","data":{"med":50,"ratio":1.67,"mismatch":["Goebel"]}}
+{"ts":"2026-10-16T00:55:18Z","pid":"7951696238","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Camillus — title does not","data":{"med":35,"ratio":1.75,"mismatch":["Camillus"]}}
+{"ts":"2026-10-16T00:55:28Z","pid":"7954389222","stage":"flagged","run":"lensworker-20261016-0047","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-16T00:55:36Z","pid":"7984229304","stage":"flagged","run":"lensworker-20261016-0047","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-16T00:55:44Z","pid":"7953353912","stage":"lensed","run":"lensworker-20261016-0047","note":null,"data":{"med":18,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-16T00:55:52Z","pid":"7950980398","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Company — title does not","data":{"med":22,"ratio":0.55,"mismatch":["Company"]}}
+{"ts":"2026-10-16T00:55:59Z","pid":"7951119767","stage":"lensed","run":"lensworker-20261016-0047","note":null,"data":{"med":60,"ratio":2,"mismatch":[]}}
+{"ts":"2026-10-16T00:56:09Z","pid":"7970042499","stage":"flagged","run":"lensworker-20261016-0047","note":null,"data":{"med":100,"ratio":2.22,"mismatch":[]}}
+{"ts":"2026-10-16T00:56:20Z","pid":"7947106088","stage":"flagged","run":"lensworker-20261016-0047","note":null,"data":{"med":65,"ratio":3.25,"mismatch":[]}}
+{"ts":"2026-10-16T00:56:29Z","pid":"7942357520","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Luxury — title does not","data":{"med":241,"ratio":1.21,"mismatch":["Luxury"]}}
+{"ts":"2026-10-16T00:56:36Z","pid":"7977538605","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Ludwig — title does not","data":{"med":180,"ratio":9,"mismatch":["Ludwig"]}}
+{"ts":"2026-10-16T00:56:47Z","pid":"7965561786","stage":"flagged","run":"lensworker-20261016-0047","note":null,"data":{"med":64,"ratio":5.33,"mismatch":[]}}
+{"ts":"2026-10-16T00:56:58Z","pid":"7984197339","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Gold — title does not","data":{"med":23,"ratio":0.07,"mismatch":["Gold"]}}
+{"ts":"2026-10-16T00:57:06Z","pid":"7956013877","stage":"lensed","run":"lensworker-20261016-0047","note":null,"data":{"med":30,"ratio":1.2,"mismatch":[]}}
+{"ts":"2026-10-16T00:57:15Z","pid":"7965985170","stage":"lensed","run":"lensworker-20261016-0047","note":null,"data":{"med":31,"ratio":0.31,"mismatch":[]}}
+{"ts":"2026-10-16T00:57:24Z","pid":"7951489738","stage":"flagged","run":"lensworker-20261016-0047","note":"Lens names Pocket — title does not","data":{"med":50,"ratio":0.5,"mismatch":["Pocket"]}}
