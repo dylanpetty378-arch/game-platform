@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:25:14Z",
+ "updated": "2026-10-16T00:28:57Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15483,
-  "lens": 13324,
-  "events": 41320,
+  "lens": 13349,
+  "events": 41345,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 728,
-  "flagged": 4044,
-  "lensed": 1289,
+  "queued": 703,
+  "flagged": 4065,
+  "lensed": 1293,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -1251,6 +1251,17 @@
    "best": "18K Gold Over Sterling Silver Aquamarine and Diamond Ring ...",
    "med": 2378,
    "ratio": 95.12,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972310331",
+   "title": "Large collection of Santas",
+   "price": 1,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/burlington-large-collection-of-santas/s5VJoF4Uzr6X2AJKZAdDqA",
+   "best": "Craigslist",
+   "med": 95,
+   "ratio": 95,
    "ai_value": ""
   },
   {
@@ -2603,6 +2614,17 @@
    "url": "https://www.craigslist.org/view/d/hilo-vintage-large-copper-kettle/vrM6RRgh2ESuUqtPerjHg8",
    "best": "Union Drummer Boy",
    "med": 1400,
+   "ratio": 35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7972310055",
+   "title": "Large collection of Santas",
+   "price": 1,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/burlington-large-collection-of-santas/u4BL9fuhvk4kWDsh93Rn1V",
+   "best": "Craigslist",
+   "med": 35,
    "ratio": 35,
    "ai_value": ""
   },
@@ -5632,6 +5654,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7943650739",
+   "title": "Large Picture of Roses",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/la-puente-large-picture-of-roses/iBzkJoQSFQSnh9RrfgvyLg",
+   "best": "Ethan Allen Art for sale | eBay",
+   "med": 250,
+   "ratio": 12.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7968686181",
    "title": "Beautiful ladies ruby / diamond Seiko gold tone watch with brand new battery",
    "price": 80,
@@ -6727,6 +6760,17 @@
    "area": "santafe",
    "url": "https://www.craigslist.org/view/d/santa-fe-david-mckirdy-mixed-media-1984/cwF7GfokFeJNXvpr39Gji8",
    "best": "Original Jacques Villon Lithograph, Signed | eBay",
+   "med": 449,
+   "ratio": 9.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967647500",
+   "title": "Harmony Acoustic",
+   "price": 45,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/westminster-harmony-acoustic/5SmRNn8hRtLUxqENa7HVuA",
+   "best": "8979) Fender F-15 Lichtenberg Acoustic Guitar (Custom ...",
    "med": 449,
    "ratio": 9.98,
    "ai_value": ""
@@ -9471,6 +9515,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932013903",
+   "title": "Tennis Bracelet",
+   "price": 20,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/nesconset-tennis-bracelet/vgAobifaSwCfHur68T1Gtt",
+   "best": "eBay",
+   "med": 125,
+   "ratio": 6.25,
+   "ai_value": ""
+  },
+  {
    "pid": "7971882195",
    "title": "Antique. Metal  20th century night watcher boy",
    "price": 80,
@@ -9533,6 +9588,17 @@
    "url": "https://www.craigslist.org/view/d/new-14k-gold-ruby-and-diamond-ring/uAjGQB6n1Ng51FRR9kVZyh",
    "best": "14k Yellow Gold Marquise Ruby Diamond Halo Ring - US Size 6 ...",
    "med": 1176,
+   "ratio": 6.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7962366099",
+   "title": "Horner Acoustic",
+   "price": 100,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/westminster-horner-acoustic/oWMneBh7DUHQLbo1tyBgh9",
+   "best": "Craigslist",
+   "med": 619,
    "ratio": 6.19,
    "ai_value": ""
   },
@@ -13948,6 +14014,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7970639892",
+   "title": "Figaro Link Bracelet Chain Sold as Found",
+   "price": 30,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-figaro-link-bracelet-chain-sold-as/sVnwRhucnScsu7UxREaL2E",
+   "best": "Craigslist",
+   "med": 116,
+   "ratio": 3.87,
+   "ai_value": ""
+  },
+  {
    "pid": "7970703648",
    "title": "Oxidized Pendant silver necklace from India",
    "price": 35,
@@ -15528,6 +15605,17 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-paiste-15-super/irAip1rcpwS8AAikZq7YgG",
    "best": "Vintage 20\" Avedis Zildjian Turkish Cymbal Keyhole 2630 ...",
    "med": 165,
+   "ratio": 3.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977136284",
+   "title": "Vintage Disney Mickey Mouse Musical Watch",
+   "price": 35,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-vintage-disney-mickey-mouse/sgfZQ3EkSPEReywrHbxL9E",
+   "best": "Craigslist",
+   "med": 118,
    "ratio": 3.37,
    "ai_value": ""
   },
@@ -23210,6 +23298,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947653749",
+   "title": "Viv & Ingrid 14K gold set -necklace and earrings",
+   "price": 74,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/berkeley-viv-ingrid-14k-gold-set/3Jb5HtyKnTLybGkkR7t9gd",
+   "best": "Vintage Goldtone Necklace with Concentric Rings Pendant | eBay",
+   "med": 145,
+   "ratio": 1.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7937709068",
    "title": "Antique Royal Chelsea 12 inch pitcher",
    "price": 100,
@@ -25648,6 +25747,17 @@
    "url": "https://www.craigslist.org/view/d/boise-signed-premier-designs-chiffon/q2QeLijY7HCzuo7C2DFsSs",
    "best": "PREMIER DESIGNS Silver Tone Multicolor Checkerboard ...",
    "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947867947",
+   "title": "Antique fire extinguisher",
+   "price": 30,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-antique-fire-extinguisher/8EKyywq6oG1RPeWASxaP9s",
+   "best": "Vintage Ansul Fire Extinquisher | Proxibid",
+   "med": 50,
    "ratio": 1.67,
    "ai_value": ""
   },
@@ -28655,6 +28765,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948374709",
+   "title": "Watches Activa and Bulova",
+   "price": 20,
+   "area": "elpaso",
+   "url": "https://www.craigslist.org/view/d/el-paso-watches-activa-and-bulova/pyYxyraiYZSSV7EwHAaCeC",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7943810904",
    "title": "Handcrafted Studio Pottery Ceramic Shot Glass",
    "price": 18,
@@ -31005,6 +31126,28 @@
    "url": "https://www.craigslist.org/view/d/chicopee-girls-earrings-necklace/3thXvPwbPq73Suu1aWtBQ5",
    "best": "23 Pairs Cute & Colorful Butterfly, Flower & Fruit Pierced ...",
    "med": 12,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931549963",
+   "title": "Vintage Thimble Collection",
+   "price": 10,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ventura-vintage-thimble-collection/tiZPUERMToUXDPcCGJrNSe",
+   "best": "eBay",
+   "med": 12,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7960154031",
+   "title": "CRYSTAL QUARTZ GOLD-FILLED NECKLACE",
+   "price": 15,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/little-ferry-crystal-quartz-gold-filled/iF4735EhcqWQUf85tpsZcH",
+   "best": "Clear Quartz Necklace Gold - Etsy",
+   "med": 18,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -33722,6 +33865,28 @@
    "url": "https://www.craigslist.org/view/d/carrboro-vintage-wind-up-music-box-from/fk1kwtTtFEs8hZXhtqgt11",
    "best": "eBay",
    "med": 30,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967715633",
+   "title": "Ibanez performance PF 10",
+   "price": 75,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/westminster-ibanez-performance-pf-10/kYTTUa7h3NtVXPpVwtx3Ec",
+   "best": "Used Ibanez PF10 Antique Natural Acoustic Guitar Antique ...",
+   "med": 75,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949853185",
+   "title": "Vintage Schatz Anniversary Clocks Made In Germany",
+   "price": 100,
+   "area": "spokane",
+   "url": "https://www.craigslist.org/view/d/spokane-vintage-schatz-anniversary/7G5r8kHjqxh8ybYvg5SreK",
+   "best": "eBay",
+   "med": 100,
    "ratio": 1,
    "ai_value": ""
   },
@@ -39281,6 +39446,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7939724042",
+   "title": "ANTIQUE LARGE FORK 14'' WOOD HANDLE.",
+   "price": 40,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-antique-large-fork-14-wood/hSQFCtDpnjCqHkYA9xwXKB",
+   "best": "eBay",
+   "med": 21,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
    "pid": "7946993347",
    "title": "2-Vintage Shawnee wheat vase",
    "price": 25,
@@ -40810,6 +40986,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7969410957",
+   "title": "Watches lot",
+   "price": 500,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/reno-watches-lot/7BPhwK1GBXvMaKCTfSocxJ",
+   "best": "\u00b7Bayam & Co. Vintage Watches",
+   "med": 189,
+   "ratio": 0.38,
+   "ai_value": ""
+  },
+  {
    "pid": "7932673439",
    "title": "Sterling silver adjustable necklace",
    "price": 35,
@@ -41576,6 +41763,17 @@
    "url": "https://www.craigslist.org/view/d/sacramento-vintage-unusual-goat/knwSzjy9Kmc2zp95ifWbap",
    "best": "Amazon.com",
    "med": 115,
+   "ratio": 0.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938735957",
+   "title": "Vintage German Beer Stein Sitzendorfer 1902-1954",
+   "price": 65,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-german-beer-stein/fQJNWkwzomybUXX861bfU1",
+   "best": "Violity",
+   "med": 19,
    "ratio": 0.29,
    "ai_value": ""
   },
@@ -44973,6 +45171,39 @@
    "price": 10,
    "area": "seattle",
    "url": "https://www.craigslist.org/view/d/everett-vintage-mexican-wine-water/nAkvcs3t9Zf8iKWPjc97gr",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7966562376",
+   "title": "VINTAGE TEISCO HOLLOWBODY",
+   "price": 300,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-vintage-teisco-hollowbody/bejjaZTZEdc4iYU3tKq2As",
+   "best": "Craigslist",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7973566329",
+   "title": "Vintage Western Bowie knife",
+   "price": 225,
+   "area": "mohave",
+   "url": "https://www.craigslist.org/view/d/hackberry-vintage-western-bowie-knife/djYTkVZwbe2QiPhnNNuo4L",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7943715824",
+   "title": "K-Tone acoustic guitar",
+   "price": 100,
+   "area": "augusta",
+   "url": "https://www.craigslist.org/view/d/montmorenci-tone-acoustic-guitar/tntBGsvypdpRJdwefCASGz",
    "best": "eBay",
    "med": null,
    "ratio": null,

@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T00:25:14Z
+# Refurbish status — 2026-10-16T00:28:57Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8945 |
-| flagged | 4044 |
-| lensed | 1289 |
-| queued | 728 |
+| flagged | 4065 |
+| lensed | 1293 |
+| queued | 703 |
 | queued/relens | 486 |
 | decided/kill | 125 |
 | decided/ask | 80 |
@@ -26,8 +26,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 16
 - searches: 3736
 - listings: 15483
-- lens: 13324
-- events: 41320
+- lens: 13349
+- events: 41345
 - comps: 3343
 - item_types: 906
 - runs: 0
@@ -141,7 +141,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (4044)
+## Flagged by Lens, waiting for photo review (4065)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -216,6 +216,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00101_ilMZZ5xDp9b_07K0ak_300x300.jpg" width="120"> | 7948536907 | $18 | newyork | [Green Pendant Necklace](https://www.craigslist.org/view/d/new-york-green-pendant-necklace/jtPaouY9MjYDG2pRRqvZ5q) | Vintage Large Cloisonné Yellow Green Heart Beaded Jade ... | 1750 | 97.22 |
 | <img src="https://images.craigslist.org/00101_5LXc3XXewoF_0t20CI_300x300.jpg" width="120"> | 7979444442 | $5 | fortwayne | [Horseshoe Clover Jewelry Charm](https://www.craigslist.org/view/d/south-bend-horseshoe-clover-jewelry/n4nDmrjhv3mTLUZ7Yw8G3r) | Your Trusted Source for Jewelry - Pendants & Necklaces ... | 480 | 96 |
 | <img src="https://images.craigslist.org/00V0V_6mj5eWknwQx_0ix0ev_300x300.jpg" width="120"> | 7938058451 | $25 | chicago | [Blue Sterling Ring size 6](https://www.craigslist.org/view/d/chicago-blue-sterling-ring-size/16UqFqepx4UwddAVVeyxRU) | 18K Gold Over Sterling Silver Aquamarine and Diamond Ring .. | 2378 | 95.12 |
+| <img src="https://images.craigslist.org/00808_ffuNbU9kdN7_0CI0t2_300x300.jpg" width="120"> | 7972310331 | $1 | boston | [Large collection of Santas](https://www.craigslist.org/view/d/burlington-large-collection-of-santas/s5VJoF4Uzr6X2AJKZAdDqA) | Craigslist | 95 | 95 |
 | <img src="https://images.craigslist.org/00r0r_3U0aZ72p2Kz_0CI0t2_300x300.jpg" width="120"> | 7968030888 | $1 | lasvegas | [Vintage Handmade Lot 18 Costume Jewelry Rings Neck](https://www.craigslist.org/view/d/las-vegas-vintage-handmade-lot-18/eJgavmjhpbFBdMGL6MjWms) | Vintage to Now Wearable Costume Jewelry Necklaces Bracelets  | 93 | 93 |
 | <img src="https://images.craigslist.org/00j0j_8szJtpnhR2C_0t20t2_300x300.jpg" width="120"> | 7932026325 | $25 | kansascity | [Set of 3 DESIGNER LAPEL PINS FUNKY DESIGNS](https://www.craigslist.org/view/d/shawnee-set-of-designer-lapel-pins/5JNjaT7YLZwYBeCJTCXtwr) | Marena / Jewelry / Marena Germany Handmade Gold Tone Brooch  | 2275 | 91 |
 | <img src="https://images.craigslist.org/00v0v_57ZwpC4X5yx_0CI0t2_300x300.jpg" width="120"> | 7981923351 | $1 | philadelphia | [Old Bisque Figure](https://www.craigslist.org/view/d/collegeville-old-bisque-figure/oCp2Zp8Y9vfzrofjDV22Cy) | Craigslist | 90 | 90 |
@@ -266,4 +267,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00b0b_hS7FO9XWOGp_0sT0t2_300x300.jpg" width="120"> | 7977598179 | $33 | sfbay | [Vintage Large+ Size Original Amazonite Pendant.](https://www.craigslist.org/view/d/san-francisco-vintage-large-size/bHdJCoLXybr51oWWm7F6Ja) | IPPOLITA ROCK CANDY® 18K YELLOW GOLD 750 QUARTZ ... | 1999 | 60.58 |
 | <img src="https://images.craigslist.org/00G0G_gxCM0upfDMH_0CI0pO_300x300.jpg" width="120"> | 7950666174 | $20 | sfbay | [Vintage Floral Plates](https://www.craigslist.org/view/d/oakland-vintage-floral-plates/hUdSGSY9JPJvsMp6ozXuxk) | LARGE VINTAGE ROYAL ALBERT SERVICE PLATE IN PINK ... | 1200 | 60 |
 | <img src="https://images.craigslist.org/01212_r59b0nsrR8_0d40hq_300x300.jpg" width="120"> | 7976459112 | $1 | sfbay | [Vintage items](https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG) | Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag  | 60 | 60 |
-| <img src="https://images.craigslist.org/00d0d_3wujKbw5DqH_1761u8_300x300.jpg" width="120"> | 7975391187 | $20 | minneapolis | [Chinese Foo Dog Figures](https://www.craigslist.org/view/d/cambridge-chinese-foo-dog-figures/h4gcQtc4gynusRM1KwqhjJ) | Etsy | 1190 | 59.5 |
