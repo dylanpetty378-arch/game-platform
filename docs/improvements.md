@@ -453,3 +453,13 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   fetch details and review the soonest-ending first, and alert per finding instead of waiting for the batch.
 - Yield note: hallmark reading catches cheap metal value (scrap-level), not eggs. Most photos don't show marks. Worth running
   weekly on SGW grab bags and "gold tone" listings, but it isn't a replacement for the egg eye-screen.
+
+## 2026-10-16 03:00–04:10 UTC: Markings catalog + search (Dylan: catalog ANY marking that shows value/brand/period, then search)
+- Encyclopedia: markings-catalog-index plus 12 new entries (country of origin/patents/registration, art backs and printmaking,
+  books/photo/ephemera, records/comics/cards/media, toys, serial numbers and date codes, construction dating, clothing/textile/
+  rug labels, bottles and pressed glass, Asian seals and boxes, coin mint marks, military makers). That makes 26 mark entries with the hallmark set.
+- Search: eBay 5,481 vague-title listings across art/antiques/pottery/collectibles/cameras/instruments/jewelry, sorted by end.
+  Chunk 1 (950) → 562 with photos before the Browse API quota ran out (429). ShopGoodwill: 916 listings (48 h, egg categories).
+  1,478 listings read by 21 agents. 0 eggs, about 7 leads (Schwerin ink $120 median, Ross-Simons lapis earrings, Indian 270 g silver
+  bowl titled "plated", Afremov studio oil, platinum-age strip books, Hummel-ish figurine). The queue (≈3,800 eBay) is in
+  research/pools/markings-queue.json for after the quota resets.

@@ -52,6 +52,17 @@ The jar was listed for 7 days and reached Dylan 12 h before it closed. Why, and 
 6. **Lead time is part of the egg.** For every flag, report hours left. Anything ending in <24 h gets deep review
    first.
 
+### 0d. Markings run (Oct 16 2026): read every small mark, using the catalog
+Catalog: docs/encyclopedia/entries/markings-catalog-index.md (and 26 mark entries). Brief: research/MARKINGS_EYE_BRIEF.md.
+Tool: scripts/hallmark_panels.py (one panel per listing with ALL photos, soonest-ending first).
+- **eBay photos cost API calls.** Detail mode uses one Browse call per item, and the daily quota (~5,000 calls, which the
+  pool runs also use) ran out after ~560 items on Oct 16 (HTTP 429). Work research/pools/markings-queue.json in chunks of
+  ≤900 after the quota resets (midnight Pacific = 07:00 UTC): copy a chunk into ebay-flagged.json, dispatch detail, build
+  panels, read, then remove the chunk from the queue. Skip rows whose end has passed.
+- ShopGoodwill detail has no quota (about 1 item/s from the container). Sort by end time and read soonest first.
+- Yield on Oct 16: 1,478 listings read → about 7 small leads, 0 eggs. Marks the seller didn't read are real but mostly
+  worth $50–300.
+
 ## 1. Health check: every step of the machine
 `python3 scripts/health.py` prints PASS/WARN/FAIL with numbers for:
 - workflow runs
