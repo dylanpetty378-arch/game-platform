@@ -44258,3 +44258,27 @@
 {"pid":"7953475910","stage":"queued","run":"craigslist-20261016-1325","data":{"score":9.98,"clip":7.6},"ts":"2026-10-16T13:33:11Z"}
 {"pid":"7954020185","stage":"queued","run":"craigslist-20261016-1325","data":{"score":9.98,"clip":5.08},"ts":"2026-10-16T13:33:11Z"}
 {"pid":"7936940387","stage":"queued","run":"craigslist-20261016-1325","data":{"score":9.98,"clip":2.28},"ts":"2026-10-16T13:33:11Z"}
+{"pid":"ebay407280066637","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay407280407247","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay307223840940","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay377557592847","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay860027255149","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay336847331437","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay128138929647","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay168797152605","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay820245436520","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay206630315588","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay128119085540","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay820221116008","stage":"queued","run":"ebay-20261016-1533","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay407280066637","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Period harbor oil in carved gilt frame; 19th-c European marine could be $1,000+","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay407280407247","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Modernist gothic-house lithograph, WPA/1930s American printmaker style; signed impression could top $1,000","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay307223840940","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Boxed Chinese crackle-glaze garlic-head vase, label slip; if Song/Ming Guan-type, $1,000+","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay377557592847","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Large nugget pendant on twisted bail; if solid gold nugget, $1,000+ melt","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay860027255149","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Graduated turquoise heishi strands, Santo Domingo style; natural old turquoise could exceed $1,000","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay336847331437","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Nikon F-era body with fast Nikkor; if Noct-Nikkor 58/1.2, $2,000+","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay128138929647","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Large orange knapped flint blade; if authentic paleo artifact, $1,000+","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay168797152605","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Batman head sketch signed Jim Lee; original ink sketch sells $1,000+","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay820245436520","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Silver Age Avengers trio; if #55 Ultron or #57 Vision keys, $1,000+ possible","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay206630315588","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Signed Vampirella pencil drawing; if original art by known artist, $1,000+","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay128119085540","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Ponytail Barbie zebra swimsuit boxed; if original 1959 #1/#2 not repro, $1000+","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
+{"pid":"ebay820221116008","stage":"flagged","run":"ebay-20261016-1533","by":"claude","note":"eye screen: Egyptian-style faience inlay head; if genuine ancient Egyptian, $1000+ (likely replica)","data":{"eye":true},"ts":"2026-10-16T15:38:04Z"}
