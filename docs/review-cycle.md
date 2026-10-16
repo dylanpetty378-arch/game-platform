@@ -63,6 +63,15 @@ Tool: scripts/hallmark_panels.py (one panel per listing with ALL photos, soonest
 - Yield on Oct 16: 1,478 listings read → about 7 small leads, 0 eggs. Marks the seller didn't read are real but mostly
   worth $50–300.
 
+- **Run 2 (Oct 16 13:00 UTC, Dylan: "look at eBay and ShopGoodwill mostly, using the newest encyclopedia info — the markings"):**
+  eBay 900 (markings-queue chunk, soonest-ending; no 429 this time) + ShopGoodwill 900 (`sgw.py markpool`, new: soonest-ending
+  rows whose titles don't name the metal, full detail + photos) → 1,800 panels, 24 agents. 0 eggs; 1 lead re-confirmed (Indian
+  silver bowl sgw280199738, pen weight 270.6 g, melt $401–464 at $57.65/oz, max $90). Alvar Suñol litho misread as "Duval" was
+  real but killed (38 in frame; recent median ~$50).
+  **Pool-quality lesson:** the eBay chunk was dominated by one artist-seller's new acrylics and by tableware already named in the
+  title (Lenox, Pyrex, Hummel). Agents skipped ~30% of panels on title alone. Before detail, drop titles that name a maker/brand
+  and sellers with >10 rows in the chunk; that would roughly double useful panels per API call.
+
 ## 1. Health check: every step of the machine
 `python3 scripts/health.py` prints PASS/WARN/FAIL with numbers for:
 - workflow runs

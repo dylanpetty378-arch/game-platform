@@ -512,3 +512,12 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   Gould printer lines, Trick Dog bank versions, Fr.351/352, Kluson 6-on-plate).
 - Last 24 h (since Oct 15 12:14): eggs 1 (Marie jar, 18:14 run) · leads ≈27 · screened: eBay ≈34,800 (+1,400 marks runs),
   ShopGoodwill ≈20,650 (+2,000 marks runs), Craigslist 12,000, estate 0.
+
+## 2026-10-16 ~12:40–13:40 UTC: markings run 2 on eBay + ShopGoodwill (Dylan's direction)
+- eBay: 900 soonest-ending rows from research/pools/markings-queue.json → detail (900/900 with photos) → 900 panels, 12 agents.
+  0 flags. Queue now 3,387 rows (ends Oct 17–26).
+- ShopGoodwill: new `sgw.py markpool <run> <n> <out>` (soonest-ending, titles not naming metal) → 900 details (~8 min) →
+  900 panels, 12 agents → 2 flags → deep review: Indian silver bowl sgw280199738 = lead (max $90, ends 16:29 PT, re-confirmed
+  from the 03:00 run); Alvar Suñol litho sgw279479654 = kill (size, ~$50 median).
+- Eggs 0. Near-misses worth noting: Wyllie/Dunthorne aquatint titled "reproduction" (sgw, ~$150–300), Kholui lacquer ring,
+  Impala emblems, Schneider Xenar early serial. Pool-quality fix proposed in review-cycle.md §0d.
