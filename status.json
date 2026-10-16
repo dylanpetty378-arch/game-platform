@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:32:48Z",
+ "updated": "2026-10-16T00:36:31Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15489,
-  "lens": 13374,
-  "events": 41388,
+  "lens": 13399,
+  "events": 41413,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 678,
-  "flagged": 4083,
-  "lensed": 1300,
+  "queued": 653,
+  "flagged": 4104,
+  "lensed": 1304,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -5896,6 +5896,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7975104885",
+   "title": "Hematite Necklace AS is",
+   "price": 5,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-hematite-necklace-as-is/aCkoZWELddr9mZujd1zm79",
+   "best": "Beaded Floral Rose Necklace 20 In Vintage 1970 1980 ...",
+   "med": 60,
+   "ratio": 12,
+   "ai_value": ""
+  },
+  {
    "pid": "7946944841",
    "title": "Vintage Signed Portrait",
    "price": 25,
@@ -8547,6 +8558,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980883233",
+   "title": "VINTAGE SICURA 17 JEWELS",
+   "price": 50,
+   "area": "valdosta",
+   "url": "https://www.craigslist.org/view/d/waycross-vintage-sicura-17-jewels/2ubaR8MUQosiXSdvYQEb9S",
+   "best": "Invaluable.com",
+   "med": 365,
+   "ratio": 7.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7971269502",
    "title": "1960-70'S Sterling Silver and Black Enamel Modernist Dome Ring (vintag",
    "price": 65,
@@ -9262,6 +9284,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7952084418",
+   "title": "Antique 1909 E. C. Reese Ship Print",
+   "price": 60,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/atco-antique-1909-c-reese-ship-print/kmfn6XKEVa4bYpcKQsGrYS",
+   "best": "eBay",
+   "med": 385,
+   "ratio": 6.42,
+   "ai_value": ""
+  },
+  {
    "pid": "7950050388",
    "title": "New Sterling Silver Earrings",
    "price": 10,
@@ -9731,6 +9764,17 @@
    "url": "https://www.craigslist.org/view/d/lincoln-women-watches/qCzeDpsWmL1cjXzSqpaSA9",
    "best": "Etsy",
    "med": 61,
+   "ratio": 6.1,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955004161",
+   "title": "Vintage Serving Fork",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vintage-serving-fork/8d56uRGoXn9wXkWz61Pd5a",
+   "best": "Etsy",
+   "med": 122,
    "ratio": 6.1,
    "ai_value": ""
   },
@@ -12639,6 +12683,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7954432445",
+   "title": "Chinese Porcelain Vase - signed",
+   "price": 35,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/san-marcos-chinese-porcelain-vase-signed/peMaKAdytdgjNhJuTngJ31",
+   "best": "Bidamount.com",
+   "med": 152,
+   "ratio": 4.34,
+   "ai_value": ""
+  },
+  {
    "pid": "7983274071",
    "title": "7 Pair of Earrings - $3 to $6 each OR $23 All 7 Pair",
    "price": 3,
@@ -14283,6 +14338,17 @@
    "price": 25,
    "area": "austin",
    "url": "https://www.craigslist.org/view/d/austin-vintage-swirl-leaf-rhinestone/mAck63Bu6qkMyAsGuxavwr",
+   "best": "eBay",
+   "med": 95,
+   "ratio": 3.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931795715",
+   "title": "16 vintage star wars pins and magnets",
+   "price": 25,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-16-vintage-star-wars-pins/a3zFNWnBuRkm9NF5RWDvX3",
    "best": "eBay",
    "med": 95,
    "ratio": 3.8,
@@ -17475,6 +17541,17 @@
    "url": "https://www.craigslist.org/view/d/bethlehem-vintage-pottery-jack-lantern/5kxaBHbGTaA4nahAoTSQ9m",
    "best": "Hewell's Pottery GA Terra Cotta Pumpkin with Hat Jack O ...",
    "med": 119,
+   "ratio": 2.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950327332",
+   "title": "Vintage Don Quixote Ouro Artesania Wood Carving Statue w/ Helmet Spain",
+   "price": 50,
+   "area": "honolulu",
+   "url": "https://www.craigslist.org/view/d/honolulu-vintage-don-quixote-ouro/cNEM621LQRX5mVoZiyswgz",
+   "best": "eBay",
+   "med": 149,
    "ratio": 2.98,
    "ai_value": ""
   },
@@ -23199,6 +23276,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7947198853",
+   "title": "Solid heavy brass porthole quartz clock",
+   "price": 50,
+   "area": "newhaven",
+   "url": "https://www.craigslist.org/view/d/new-haven-solid-heavy-brass-porthole/e4EismxRG2LtxbkDBU695J",
+   "best": "eBay",
+   "med": 100,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930402107",
+   "title": "Sterling Kirk Pendant Ornament",
+   "price": 40,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/riverdale-sterling-kirk-pendant-ornament/kzqRj3rQStXmQx6vvHvV8i",
+   "best": "eBay",
+   "med": 80,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -23833,6 +23932,17 @@
    "url": "https://www.craigslist.org/view/d/glendale-vintage-japanese-rose-floral/jsodyLvimjywkSBtt8ywdS",
    "best": "Ant Roses Pink Gold Gilt Ornate Scalloped Embossed Green ...",
    "med": 38,
+   "ratio": 1.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968457185",
+   "title": "Vintage C-Clamp",
+   "price": 10,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-clara-vintage-clamp/i3oHRr1WvPTwVqcLa4swZ2",
+   "best": "eBay",
+   "med": 19,
    "ratio": 1.9,
    "ai_value": ""
   },
@@ -25146,6 +25256,28 @@
    "ai_value": ""
   },
   {
+   "pid": "7961936871",
+   "title": "Vintage Liquor Flask (Spain)",
+   "price": 20,
+   "area": "rapidcity",
+   "url": "https://www.craigslist.org/view/d/rapid-city-vintage-liquor-flask-spain/vRsN32pPGzNwueNkSJLqWY",
+   "best": "Buy Rare Vintage English Village Japan Brown Multicolor ...",
+   "med": 35,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949954784",
+   "title": "Vintage 19th century Chinese teapots",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-19th-century-chinese/obGa8aRrdCX7ptdTpKabi7",
+   "best": "eBay",
+   "med": 175,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7983738489",
    "title": "Ukulele, vintage, soprano 1950s Japan",
    "price": 70,
@@ -25861,6 +25993,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984079256",
+   "title": "CHICO'S NECKLACE",
+   "price": 15,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/strongsville-chicos-necklace/gz2LEnZUameaa9HgSmTJkB",
+   "best": "Jewelry | Puca Necklace Elephant Choker White Pink | Poshmark",
+   "med": 25,
+   "ratio": 1.67,
+   "ai_value": ""
+  },
+  {
    "pid": "7965008391",
    "title": "Vintage Hand embroidered Elephant Tapestry",
    "price": 175,
@@ -26521,6 +26664,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955655494",
+   "title": "2 Vintage Clarinets",
+   "price": 225,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/new-berlin-vintage-clarinets/wnYbqAESqbRnhchurtfcxA",
+   "best": "eBay",
+   "med": 361,
+   "ratio": 1.6,
+   "ai_value": ""
+  },
+  {
    "pid": "7967793477",
    "title": "Sterling Silver & Amethyst 7 1/4\u201d Bracelet",
    "price": 80,
@@ -26990,6 +27144,17 @@
    "url": "https://www.craigslist.org/view/d/carrboro-vintage-handmade-italian/oh7MbDkWxJnzWNVzH9vPwM",
    "best": "Green Pottery Jug - Etsy Canada",
    "med": 108,
+   "ratio": 1.54,
+   "ai_value": ""
+  },
+  {
+   "pid": "7948734256",
+   "title": "Tiffany Paretti 18K Gold Fine Chain",
+   "price": 350,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/riverdale-tiffany-paretti-18k-gold-fine/4gHwAsUDcePdY2r9R44Qw7",
+   "best": "eBay",
+   "med": 540,
    "ratio": 1.54,
    "ai_value": ""
   },
@@ -27979,6 +28144,17 @@
    "area": "phoenix",
    "url": "https://www.craigslist.org/view/d/mesa-turquoise-necklace/jrujU5LckxnyC3bfrdic24",
    "best": "Craigslist",
+   "med": 37,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
+   "pid": "7961148813",
+   "title": "Handmade rag dolls",
+   "price": 25,
+   "area": "santabarbara",
+   "url": "https://www.craigslist.org/view/d/santa-barbara-handmade-rag-dolls/rGjzMRf8UoA5SH383WpE7Y",
+   "best": "Similar Items to Grandmother Rag Doll in Feedsack Dress",
    "med": 37,
    "ratio": 1.48,
    "ai_value": ""
@@ -29542,6 +29718,17 @@
    "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-sugar-bowl-lid/i2iz5H5ZaorRDTCfTsKcrU",
    "best": "Vintage Sweet Violets Porcelain Open Sugar Bowl With Handles ...",
    "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984239642",
+   "title": "Irish Cuff Links",
+   "price": 30,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/bonita-springs-irish-cuff-links/1a3RZAmGQDoBRXzjcpJ1ea",
+   "best": "Vintage Tara Ware Dublin Ireland Gold Tone Celtic Knot ...",
+   "med": 40,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -34265,6 +34452,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947201915",
+   "title": "Lady Seiko White Manual Winding Watch\ud83d\udc95",
+   "price": 25,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/temecula-lady-seiko-white-manual/f7iPNHFsNBHMWqashEt9U2",
+   "best": "Etsy",
+   "med": 24,
+   "ratio": 0.96,
+   "ai_value": ""
+  },
+  {
    "pid": "7954817436",
    "title": "Vintage Fragonard Lot of 2 Brooches Porcelain Romantic Scene & Gold Tr",
    "price": 22,
@@ -38848,6 +39046,17 @@
    "url": "https://www.craigslist.org/view/d/mequon-vintage-balalaika/cJS1dg6ao4ZT3myXRHxeWc",
    "best": "Etsy",
    "med": 120,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981922175",
+   "title": "old WALLACE NUTTING PRINTS and BOOK--(all for)--",
+   "price": 65,
+   "area": "fortmyers",
+   "url": "https://www.craigslist.org/view/d/port-charlotte-old-wallace-nutting/8WYmMCYT5brocGQds3G3YN",
+   "best": "AbeBooks",
+   "med": 39,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -43494,6 +43703,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7945781036",
+   "title": "Clown collection",
+   "price": 500,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/dixon-clown-collection/94b566xxsi9cPCrnPiRyok",
+   "best": "Craigslist",
+   "med": 23,
+   "ratio": 0.05,
+   "ai_value": ""
+  },
+  {
    "pid": "7945743928",
    "title": "1909 14K GOLD ROYAL LEAGUE BASEBALL MEDALLION",
    "price": 425,
@@ -45403,6 +45623,17 @@
    "area": "inlandempire",
    "url": "https://www.craigslist.org/view/d/temecula-lady-quartz-watches-both/tf55u1CXv9BkchmQ6BkzzS",
    "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940149168",
+   "title": "Puppets and Things on Strings",
+   "price": 30,
+   "area": "louisville",
+   "url": "https://www.craigslist.org/view/d/louisville-puppets-and-things-on-strings/gvxyhUS99UA1GnuPwMR1Ec",
+   "best": "Smithsonian Puppets 1980 Gallery Exhibition Poster Framed ...",
    "med": null,
    "ratio": null,
    "ai_value": ""
