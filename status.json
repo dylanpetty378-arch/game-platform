@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:36:31Z",
+ "updated": "2026-10-16T00:40:14Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15489,
-  "lens": 13399,
-  "events": 41413,
+  "lens": 13424,
+  "events": 41438,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 653,
-  "flagged": 4104,
-  "lensed": 1304,
+  "queued": 628,
+  "flagged": 4127,
+  "lensed": 1306,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -3374,6 +3374,17 @@
    "best": "eBay",
    "med": 363,
    "ratio": 24.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984265631",
+   "title": "Open Heart Charm",
+   "price": 10,
+   "area": "knoxville",
+   "url": "https://www.craigslist.org/view/d/rockford-open-heart-charm/erKK4aAjhQR6KaRK61qGxS",
+   "best": "Etsy",
+   "med": 235,
+   "ratio": 23.5,
    "ai_value": ""
   },
   {
@@ -8569,6 +8580,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980883617",
+   "title": "sicura swiss Mens watch 17 jewel",
+   "price": 50,
+   "area": "savannah",
+   "url": "https://www.craigslist.org/view/d/waycross-sicura-swiss-mens-watch-17/9LgLwJ3AU4rQQd83SAxuNz",
+   "best": "Etsy",
+   "med": 365,
+   "ratio": 7.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7971269502",
    "title": "1960-70'S Sterling Silver and Black Enamel Modernist Dome Ring (vintag",
    "price": 65,
@@ -9350,6 +9372,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979052285",
+   "title": "Steve MASLACH iridescent goblets, signed & dated",
+   "price": 75,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-rafael-steve-maslach-iridescent/gWKL9zPcmcHtu8wYr9eTdY",
+   "best": "LiveAuctioneers",
+   "med": 480,
+   "ratio": 6.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7983958746",
    "title": "2020 21\" Electric Ukelele",
    "price": 50,
@@ -10127,6 +10160,17 @@
    "url": "https://www.craigslist.org/view/d/totowa-red-wine-bottle-framed-paintings/8YzVpt18Yiah2ohBwztjsU",
    "best": "Original Oil Painting - Wine Cellar | eBay",
    "med": 326,
+   "ratio": 5.93,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944537559",
+   "title": "HUMMEL FIGURINE: KNITTING LESSON",
+   "price": 15,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-hummel-figurine-knitting-lesson/jeUdmARm7t4qWWnzqE877T",
+   "best": "Vintage 1963 Goebel Hummel # 256 Knitting Lesson Porcelain ...",
+   "med": 89,
    "ratio": 5.93,
    "ai_value": ""
   },
@@ -13040,6 +13084,17 @@
    "price": 65,
    "area": "chicago",
    "url": "https://www.craigslist.org/view/d/glenview-vintage-original-holzer-signed/7NGMaVENnzYYqztZTdWUNv",
+   "best": "Nextdoor",
+   "med": 275,
+   "ratio": 4.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937256847",
+   "title": "Vintage Original F. Holzer Signed Oil Painting, Framed Canvas Artwork",
+   "price": 65,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/glenview-vintage-original-holzer-signed/5AuDD25JHwiijfofdxtPWX",
    "best": "Nextdoor",
    "med": 275,
    "ratio": 4.23,
@@ -18293,6 +18348,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932007452",
+   "title": "3 Vintage Silver Spoons",
+   "price": 30,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-vintage-silver-spoons/7eSheBi2iy9jeftLqZKgti",
+   "best": "Antique Reed & Barton Silver 1904 MODERN ART Teaspoon 5 3/4 ...",
+   "med": 84,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7945601047",
    "title": "Citizen Eco-Drive Watch",
    "price": 50,
@@ -18513,6 +18579,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7968916581",
+   "title": "ANTIQUE HAND HAMMERED FARMHOUSE COPPER BOWL 14''",
+   "price": 100,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/sunnyvale-antique-hand-hammered/dUACg9XzF1Z9udj33b4U4N",
+   "best": "Craigslist",
+   "med": 275,
+   "ratio": 2.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7953763068",
    "title": "Beautiful Pottery Bowl",
    "price": 82,
@@ -18542,6 +18619,17 @@
    "url": "https://www.craigslist.org/view/d/woodland-hills-1990s-silver-gold-gruen/5Bj33g9F6cZfWfGNyBqQDx",
    "best": "Herm\u00e8s Nantucket Watch - NA2.110 | The RealReal",
    "med": 109,
+   "ratio": 2.73,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940607887",
+   "title": "Sterling/marcasite necklace",
+   "price": 70,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-sterling-marcasite-necklace/rdFrVHvdcqqhQC6FaXtsJp",
+   "best": "Etsy",
+   "med": 191,
    "ratio": 2.73,
    "ai_value": ""
   },
@@ -18861,6 +18949,28 @@
    "url": "https://www.craigslist.org/view/d/hyannis-heart-pendant/7zy8R9pJzT7XqGDJtX8YHr",
    "best": "Etsy",
    "med": 200,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7931275470",
+   "title": "VINTAGE COFFEE",
+   "price": 15,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/studio-city-vintage-coffee/dcpw4ykpkX7SXyri9oVGF3",
+   "best": "Manning\u2019s Coffee Tin: A tall blue-and-white one-pound metal coffee can from Manning\u2019s Coffee Company (founded ",
+   "med": 40,
+   "ratio": 2.67,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944599143",
+   "title": "Hummel Figurine: The Builder.",
+   "price": 15,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/phoenix-hummel-figurine-the-builder/bfNSmxoYv3mKANgLVzMy76",
+   "best": "eBay",
+   "med": 40,
    "ratio": 2.67,
    "ai_value": ""
   },
@@ -20775,6 +20885,17 @@
    "url": "https://www.craigslist.org/view/d/buford-vintage-hawaiian-ukulele-and-case/dYdQMkCNniyvXyJcEpGDZH",
    "best": "eBay",
    "med": 350,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7967656437",
+   "title": "Alvarez",
+   "price": 75,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/westminster-alvarez/na2vSKABpL9JNZUTKrzLK7",
+   "best": "eBay",
+   "med": 175,
    "ratio": 2.33,
    "ai_value": ""
   },
@@ -23298,6 +23419,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7941198984",
+   "title": "Vintage Mexican Folk Tonala Animals",
+   "price": 20,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-mexican-folk-tonala/75BWst7v47QDR9dAzYXXpL",
+   "best": "Craigslist",
+   "med": 40,
+   "ratio": 2,
+   "ai_value": ""
+  },
+  {
    "pid": "7950793987",
    "title": "Sterling Silver & turquoise bracelet - New 8\"",
    "price": 165,
@@ -24194,6 +24326,17 @@
    "price": 15,
    "area": "longisland",
    "url": "https://www.craigslist.org/view/d/farmingville-footprints-precious/8v6S7e5BGHEP7ie1Da46nd",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 1.87,
+   "ai_value": ""
+  },
+  {
+   "pid": "7936387044",
+   "title": "Vintage Wood Carved Barrel Man",
+   "price": 15,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-vintage-wood-carved-barrel/oEKVP9h1SECsTMycU2rubA",
    "best": "eBay",
    "med": 28,
    "ratio": 1.87,
@@ -26066,6 +26209,17 @@
    "url": "https://www.craigslist.org/view/d/natick-vintage-sterling-double-link/jie68ji49r7QhaBYBSCW3K",
    "best": "Vintage Rosi Beguden 925 Sterling Silver 7-Charms 6 ...",
    "med": 99,
+   "ratio": 1.65,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979813796",
+   "title": "Electric Ukulele Concert",
+   "price": 100,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/stevenson-ranch-electric-ukulele-concert/sy4XH5HRKdjMWcoWP7dNP3",
+   "best": "Craigslist",
+   "med": 165,
    "ratio": 1.65,
    "ai_value": ""
   },
@@ -29729,6 +29883,17 @@
    "url": "https://www.craigslist.org/view/d/bonita-springs-irish-cuff-links/1a3RZAmGQDoBRXzjcpJ1ea",
    "best": "Vintage Tara Ware Dublin Ireland Gold Tone Celtic Knot ...",
    "med": 40,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7979617524",
+   "title": "Pratina Watch",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/peoria-pratina-watch/shB2drD3S83kCL2WmwPUGK",
+   "best": "eBay",
+   "med": 100,
    "ratio": 1.33,
    "ai_value": ""
   },
@@ -34199,6 +34364,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7950869608",
+   "title": "Brighton Fortune Cookie Necklace",
+   "price": 25,
+   "area": "ventura",
+   "url": "https://www.craigslist.org/view/d/ventura-brighton-fortune-cookie-necklace/k8yWFSbQXidfTQFTRAtUWt",
+   "best": "Brighton Fortune Cookie - Lucky Mom -Necklace - 3897",
+   "med": 25,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -35196,6 +35372,28 @@
    "url": "https://www.craigslist.org/view/d/southampton-pair-woven-earings/k2rnHZqLMa9T2E4WYxNBwC",
    "best": "Etsy",
    "med": 9,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949091196",
+   "title": "Vintage KC Sport 2006 Sterling Heart and Chain Necklace  Jewelry  GIFT",
+   "price": 50,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/bala-cynwyd-vintage-kc-sport-2006/7KBcRzTh3BBJdGj2U6pRB1",
+   "best": "Etsy",
+   "med": 45,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954831718",
+   "title": "Vintage English Grey\u2019s Pottery, Dickens Days Teapot",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/cranston-vintage-english-greys-pottery/bUBkt6afNLGxArjEwRDjFS",
+   "best": "Etsy",
+   "med": 18,
    "ratio": 0.9,
    "ai_value": ""
   },
@@ -40942,6 +41140,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933971105",
+   "title": "Casa Grande pottery",
+   "price": 450,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/edmonds-casa-grande-pottery/nFCNp666B6xyA1zmvAHFGd",
+   "best": "eBay",
+   "med": 195,
+   "ratio": 0.43,
+   "ai_value": ""
+  },
+  {
    "pid": "7983222369",
    "title": "NFS-Original Vintage Tropical Hibiscus Painting \u2013 Signed Dickson",
    "price": 38,
@@ -41323,6 +41532,17 @@
    "url": "https://www.craigslist.org/view/d/walnut-creek-vintage-handblown-amber/7H4Jgp9NtuXsJARUctjUaL",
    "best": "Vintage MURANO ICET Amber Art Glass Elephant With White ...",
    "med": 29,
+   "ratio": 0.39,
+   "ai_value": ""
+  },
+  {
+   "pid": "7944705327",
+   "title": "Schultz & Dooley collection",
+   "price": 150,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/liverpool-schultz-dooley-collection/2HEswaTN3z33Sura7hPWAY",
+   "best": "Etsy",
+   "med": 59,
    "ratio": 0.39,
    "ai_value": ""
   },
@@ -42610,6 +42830,17 @@
    "url": "https://www.craigslist.org/view/d/littleton-signed-painting-by-nihal/hdXH6p1G5SxVdtbiqnozdT",
    "best": "Wildon Home\u00ae Rain I - Painting | Wayfair",
    "med": 92,
+   "ratio": 0.23,
+   "ai_value": ""
+  },
+  {
+   "pid": "7970456454",
+   "title": "Natural Labradorite earrings",
+   "price": 60,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-natural-labradorite-earrings/6nqfHuidDauxCzrosA9tie",
+   "best": "TJC",
+   "med": 14,
    "ratio": 0.23,
    "ai_value": ""
   },
@@ -45634,6 +45865,28 @@
    "area": "louisville",
    "url": "https://www.craigslist.org/view/d/louisville-puppets-and-things-on-strings/gvxyhUS99UA1GnuPwMR1Ec",
    "best": "Smithsonian Puppets 1980 Gallery Exhibition Poster Framed ...",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969042212",
+   "title": "Vintage Set of 2 Polish Pottery Coffee Tea Mugs  New",
+   "price": 35,
+   "area": "seattle",
+   "url": "https://www.craigslist.org/view/d/tacoma-vintage-set-of-polish-pottery/8Yg1nnCN3EBybvFcRrnuf7",
+   "best": "Ceneo",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940964368",
+   "title": "Vintage Military Aircraft Photos",
+   "price": 80,
+   "area": "tampa",
+   "url": "https://www.craigslist.org/view/d/tampa-vintage-military-aircraft-photos/3HzSACtyKovTAXou3TAeZ8",
+   "best": "eBay",
    "med": null,
    "ratio": null,
    "ai_value": ""

@@ -41411,3 +41411,28 @@
 {"ts":"2026-10-16T00:35:50Z","pid":"7961148813","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Lane, Little Red Riding Hood — title does not","data":{"med":37,"ratio":1.48,"mismatch":["Lane","Little Red Riding Hood"]}}
 {"ts":"2026-10-16T00:36:01Z","pid":"7930402107","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Collectible, S. Kirk & Son, Silver — title does not","data":{"med":80,"ratio":2,"mismatch":["Collectible","S. Kirk & Son","Silver"]}}
 {"ts":"2026-10-16T00:36:11Z","pid":"7962039786","stage":"lensed","run":"lensworker-20261016-0028","note":null,"data":{"med":60,"ratio":2.4,"mismatch":[]}}
+{"ts":"2026-10-16T00:36:21Z","pid":"7979617524","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Accessories, Silver — title does not","data":{"med":100,"ratio":1.33,"mismatch":["Accessories","Silver"]}}
+{"ts":"2026-10-16T00:36:31Z","pid":"7932007452","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Persian, Reed, Tiffany — title does not","data":{"med":84,"ratio":2.8,"mismatch":["Persian","Reed","Tiffany"]}}
+{"ts":"2026-10-16T00:36:37Z","pid":"7950869608","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Gold, Jewelry — title does not","data":{"med":25,"ratio":1,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-16T00:36:47Z","pid":"7949091196","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Silver — title does not","data":{"med":45,"ratio":0.9,"mismatch":["Silver"]}}
+{"ts":"2026-10-16T00:36:55Z","pid":"7968916581","stage":"flagged","run":"lensworker-20261016-0028","note":null,"data":{"med":275,"ratio":2.75,"mismatch":[]}}
+{"ts":"2026-10-16T00:37:05Z","pid":"7941198984","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Clay — title does not","data":{"med":40,"ratio":2,"mismatch":["Clay"]}}
+{"ts":"2026-10-16T00:37:15Z","pid":"7979052285","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Gold — title does not","data":{"med":480,"ratio":6.4,"mismatch":["Gold"]}}
+{"ts":"2026-10-16T00:37:26Z","pid":"7933971105","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Indian — title does not","data":{"med":195,"ratio":0.43,"mismatch":["Indian"]}}
+{"ts":"2026-10-16T00:37:34Z","pid":"7937256847","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Artist, Master — title does not","data":{"med":275,"ratio":4.23,"mismatch":["Artist","Master"]}}
+{"ts":"2026-10-16T00:37:44Z","pid":"7969042212","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Poland — title does not","data":{"med":null,"ratio":null,"mismatch":["Poland"]}}
+{"ts":"2026-10-16T00:37:53Z","pid":"7980883617","stage":"flagged","run":"lensworker-20261016-0028","note":null,"data":{"med":365,"ratio":7.3,"mismatch":[]}}
+{"ts":"2026-10-16T00:38:05Z","pid":"7964272473","stage":"lensed","run":"lensworker-20261016-0028","note":null,"data":{"med":59,"ratio":0.74,"mismatch":[]}}
+{"ts":"2026-10-16T00:38:17Z","pid":"7940607887","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Lane, Silver — title does not","data":{"med":191,"ratio":2.73,"mismatch":["Lane","Silver"]}}
+{"ts":"2026-10-16T00:38:24Z","pid":"7944537559","stage":"flagged","run":"lensworker-20261016-0028","note":"Lens names Goebel — title does not","data":{"med":89,"ratio":5.93,"mismatch":["Goebel"]}}
+{"ts":"2026-10-16T00:38:34Z","pid":"7954831718","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Pink — title does not","data":{"med":18,"ratio":0.9,"mismatch":["Pink"]}}
+{"ts":"2026-10-16T00:38:41Z","pid":"7979813796","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Kala — title does not","data":{"med":165,"ratio":1.65,"mismatch":["Kala"]}}
+{"ts":"2026-10-16T00:38:50Z","pid":"7944599143","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Goebel — title does not","data":{"med":40,"ratio":2.67,"mismatch":["Goebel"]}}
+{"ts":"2026-10-16T00:38:58Z","pid":"7931275470","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names British, Company, Indian, Powder — title does not","data":{"med":40,"ratio":2.67,"mismatch":["British","Company","Indian","Powder"]}}
+{"ts":"2026-10-16T00:39:09Z","pid":"7936387044","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Philippines — title does not","data":{"med":28,"ratio":1.87,"mismatch":["Philippines"]}}
+{"ts":"2026-10-16T00:39:18Z","pid":"7984265631","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Elegant, Gold, Jewelry, Silver — title does not","data":{"med":235,"ratio":23.5,"mismatch":["Elegant","Gold","Jewelry","Silver"]}}
+{"ts":"2026-10-16T00:39:26Z","pid":"7934694793","stage":"lensed","run":"lensworker-20261016-0036","note":null,"data":{"med":65,"ratio":0.65,"mismatch":[]}}
+{"ts":"2026-10-16T00:39:33Z","pid":"7944705327","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Utica — title does not","data":{"med":59,"ratio":0.39,"mismatch":["Utica"]}}
+{"ts":"2026-10-16T00:39:40Z","pid":"7940964368","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Museum, National, Republic — title does not","data":{"med":null,"ratio":null,"mismatch":["Museum","National","Republic"]}}
+{"ts":"2026-10-16T00:39:48Z","pid":"7967656437","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Harmony, Regent — title does not","data":{"med":175,"ratio":2.33,"mismatch":["Harmony","Regent"]}}
+{"ts":"2026-10-16T00:39:57Z","pid":"7970456454","stage":"flagged","run":"lensworker-20261016-0036","note":"Lens names Lace, Silver — title does not","data":{"med":14,"ratio":0.23,"mismatch":["Lace","Silver"]}}
