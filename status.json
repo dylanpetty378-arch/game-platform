@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:57:43Z",
+ "updated": "2026-10-16T01:01:46Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15489,
-  "lens": 13524,
-  "events": 41548,
+  "lens": 13549,
+  "events": 41573,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 20,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 528,
-  "flagged": 4193,
-  "lensed": 1340,
+  "queued": 503,
+  "flagged": 4208,
+  "lensed": 1350,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -3110,6 +3110,17 @@
    "best": "925 Sterling Silver Mesh Bracelet With Button Pearls 39.4g ...",
    "med": 590,
    "ratio": 29.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952277730",
+   "title": "GINGER SNAP BRACELET W/ CHARM",
+   "price": 20,
+   "area": "atlanta",
+   "url": "https://www.craigslist.org/view/d/stone-mountain-ginger-snap-bracelet/cLqYxKXEty8ZHGLbaWdseM",
+   "best": "GINGERSNAPS Green Rhinestone Bracelet | eBay",
+   "med": 583,
+   "ratio": 29.15,
    "ai_value": ""
   },
   {
@@ -6891,6 +6902,17 @@
    "price": 50,
    "area": "capecod",
    "url": "https://www.craigslist.org/view/d/north-falmouth-lovely-signed-art/fRagHbnx3cW8j14vpgedCp",
+   "best": "Candance Lovely Rare Signed Art Print \"Sea Shell Pink ...",
+   "med": 500,
+   "ratio": 10,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981776867",
+   "title": "Lovely signed art",
+   "price": 50,
+   "area": "capecod",
+   "url": "https://www.craigslist.org/view/d/north-falmouth-lovely-signed-art/giax2Mk7aeas8nShyHcbNS",
    "best": "Candance Lovely Rare Signed Art Print \"Sea Shell Pink ...",
    "med": 500,
    "ratio": 10,
@@ -18117,6 +18139,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7948325521",
+   "title": "Vintage Red Rose Cross Stitch Framed",
+   "price": 50,
+   "area": "washingtondc",
+   "url": "https://www.craigslist.org/view/d/west-mclean-vintage-red-rose-cross/itpsCUqgsqMhp2CfB6zNCi",
+   "best": "Needlepoint Framed Roses - Etsy",
+   "med": 145,
+   "ratio": 2.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7973774523",
    "title": "Vintage oil on canvas, signed seascape, framed landscape",
    "price": 90,
@@ -20823,6 +20856,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930925393",
+   "title": "Genuine Crocodile Vintage Watch Band 22mm",
+   "price": 50,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/san-francisco-genuine-crocodile-vintage/iBJqtD6BAyQN1gYwmkvCRj",
+   "best": "Time Fashion Genuine Crocodile Leather Brown Tone 20mm Gold ...",
+   "med": 120,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7961990112",
    "title": "Hand painted Pheasant  plate",
    "price": 18,
@@ -21237,6 +21281,17 @@
    "url": "https://www.craigslist.org/view/d/westminster-alvarez/na2vSKABpL9JNZUTKrzLK7",
    "best": "eBay",
    "med": 175,
+   "ratio": 2.33,
+   "ai_value": ""
+  },
+  {
+   "pid": "7940931408",
+   "title": "Old Blow Torch",
+   "price": 15,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/westminster-old-blow-torch/duoKSrTULW9a8Be8rqAUkC",
+   "best": "1930s Antique Turner Brass Works Blow Torch Red Wood Handle ...",
+   "med": 35,
    "ratio": 2.33,
    "ai_value": ""
   },
@@ -21688,6 +21743,17 @@
    "url": "https://www.craigslist.org/view/d/laguna-woods-washburn-banjo/wku2Jatxdw7q9fXH2NnvMM",
    "best": "Danville 4-String Tenor Banjo | eBay",
    "med": 400,
+   "ratio": 2.29,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984196286",
+   "title": "Drum stands foot pedals assorted hardware",
+   "price": 35,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-drum-stands-foot-pedals/gjRiW2tGionwhv2dzUToUR",
+   "best": "Drum stands foot pedals assorted hardware",
+   "med": 80,
    "ratio": 2.29,
    "ai_value": ""
   },
@@ -29007,6 +29073,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955125566",
+   "title": "Vintage rose and vine ceramic set (5 pieces)",
+   "price": 22,
+   "area": "redding",
+   "url": "https://www.craigslist.org/view/d/redding-vintage-rose-and-vine-ceramic/bjVGZNdBcg8KGFtKSSrLDW",
+   "best": "Teapot and Pair of Mugs Pink Rose and Green Vines Mug Set - Etsy",
+   "med": 32,
+   "ratio": 1.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7949136426",
    "title": "Paz Creations Sterling Silver Roman Glass Charm Bracelet 7\"",
    "price": 125,
@@ -30723,6 +30800,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7932666513",
+   "title": "Vintage Monet Red Enamel Gold Tone Earrings Clean",
+   "price": 10,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/baldwin-vintage-monet-red-enamel-gold/2sFZh5oVktoCHBZYektnFb",
+   "best": "eBay",
+   "med": 13,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7948156780",
    "title": "Vintage Blue Enamel Earrings",
    "price": 31,
@@ -31379,6 +31467,17 @@
    "url": "https://www.craigslist.org/view/d/carrollton-fostoria-cobalt-creamer/wBoffH5Tg7MdVn2TDzpiZm",
    "best": "Avon Vintage Fostoria Cobalt Blue Glass Mt Vernon Sauce ...",
    "med": 15,
+   "ratio": 1.25,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984265820",
+   "title": "Vintage Made In England Childrens Pewter Goblets",
+   "price": 20,
+   "area": "boston",
+   "url": "https://www.craigslist.org/view/d/wrentham-vintage-made-in-england/bHsB1PFADvh1eBUPpVoGja",
+   "best": "RARE Vintage Pewter Mug Sheffield England Numbers and ...",
+   "med": 25,
    "ratio": 1.25,
    "ai_value": ""
   },
@@ -34903,6 +35002,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7949091086",
+   "title": "Vintage Tinkerbell Hair Clip w Gem Wings",
+   "price": 20,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/bala-cynwyd-vintage-tinkerbell-hair/trCwkrBwmHJKRCH4X7MbhR",
+   "best": "Vintage Tinkerbell Hair Clip Accessory - Hair Accessories ...",
+   "med": 20,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -35075,6 +35185,17 @@
    "url": "https://www.craigslist.org/view/d/darien-mother-daughter-painting/xmTbXwhoYfvxFNBabfp8rH",
    "best": "McMullen Museum of Art - Boston College",
    "med": 242,
+   "ratio": 0.97,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968844650",
+   "title": "Phenox 1920s tea set",
+   "price": 40,
+   "area": "reno",
+   "url": "https://www.craigslist.org/view/d/reno-phenox-1920s-tea-set/3cJB2mDCtorS6Nrc1hL8iw",
+   "best": "Round Brush Holder / Cup - Porcelain - Hand-painted - China ...",
+   "med": 39,
    "ratio": 0.97,
    "ai_value": ""
   },
@@ -36630,6 +36751,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7946214351",
+   "title": "Vintage Oval Cufflinks \u2013Gold Flecks in Burnished Black",
+   "price": 65,
+   "area": "saltlakecity",
+   "url": "https://www.craigslist.org/view/d/salt-lake-city-vintage-oval-cufflinks/vTUxo7XMu4UkyUfRe9yVda",
+   "best": "Gold-Tone Stainless Steel Ring with Black Channel Inlay Size ...",
+   "med": 55,
+   "ratio": 0.85,
+   "ai_value": ""
+  },
+  {
    "pid": "7931818139",
    "title": "Vintage Anne Klein Jewelry",
    "price": 200,
@@ -37275,6 +37407,17 @@
    "url": "https://www.craigslist.org/view/d/pismo-beach-pieces-of-art/6WmaP1pxmtxDNFiEfEU4Um",
    "best": "Craigslist",
    "med": 4,
+   "ratio": 0.8,
+   "ai_value": ""
+  },
+  {
+   "pid": "7968272208",
+   "title": "bird collection",
+   "price": 20,
+   "area": "cosprings",
+   "url": "https://www.craigslist.org/view/d/colorado-springs-bird-collection/pegWqD76escP4y8u7Hz8PH",
+   "best": "Vintage Cockatoo Parrot Ceramic Porcelain Flower Frog Vase 7 ...",
+   "med": 16,
    "ratio": 0.8,
    "ai_value": ""
   },
@@ -41536,6 +41679,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7957670228",
+   "title": "Old records ....5.00 each",
+   "price": 40,
+   "area": "portland",
+   "url": "https://www.craigslist.org/view/d/portland-old-records-500-each/8HHCpYGRuoCXtEaL7KPbV2",
+   "best": "Romeo 3834 10\u201d 78 Record Fred Graham Honey / Cart Hunter ...",
+   "med": 18,
+   "ratio": 0.45,
+   "ai_value": ""
+  },
+  {
    "pid": "7950445010",
    "title": "Vintage Ladies Elgin Watch",
    "price": 275,
@@ -42324,6 +42478,17 @@
    "url": "https://www.craigslist.org/view/d/carlsborg-vintage-blue-green-southwest/6oHr6kCMtM9R6JvZQFW3N9",
    "best": "Etsy",
    "med": 65,
+   "ratio": 0.37,
+   "ai_value": ""
+  },
+  {
+   "pid": "7932505250",
+   "title": "vintage MACHINIST CENTER PUNCH assortment as found",
+   "price": 75,
+   "area": "nh",
+   "url": "https://www.craigslist.org/view/d/dover-vintage-machinist-center-punch/d5BmSFmwJWLA5Ns52Lsdfw",
+   "best": "Set 5 Vintage Punches I.sorby Toga Moore Wright JSS ...",
+   "med": 28,
    "ratio": 0.37,
    "ai_value": ""
   },

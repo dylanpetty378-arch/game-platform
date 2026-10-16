@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T00:57:43Z
+# Refurbish status — 2026-10-16T01:01:46Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8951 |
-| flagged | 4193 |
-| lensed | 1340 |
-| queued | 528 |
+| flagged | 4208 |
+| lensed | 1350 |
+| queued | 503 |
 | queued/relens | 486 |
 | decided/kill | 125 |
 | decided/ask | 83 |
@@ -26,8 +26,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 16
 - searches: 3736
 - listings: 15489
-- lens: 13524
-- events: 41548
+- lens: 13549
+- events: 41573
 - comps: 3343
 - item_types: 906
 - runs: 0
@@ -151,7 +151,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/ask** — Multi-gem pendant, oval 3-digit fineness 925 or 585 unreadable |
 |  | [](None) | $None | None | **decided/find** — Egyptian 900 silver cartouche w/ likely 18K appliques |
 
-## Flagged by Lens, waiting for photo review (4193)
+## Flagged by Lens, waiting for photo review (4208)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
