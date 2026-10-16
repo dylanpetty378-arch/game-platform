@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-16T00:40:14Z",
+ "updated": "2026-10-16T00:43:59Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
   "listings": 15489,
-  "lens": 13424,
-  "events": 41438,
+  "lens": 13449,
+  "events": 41463,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 628,
-  "flagged": 4127,
-  "lensed": 1306,
+  "queued": 603,
+  "flagged": 4143,
+  "lensed": 1315,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -1097,6 +1097,17 @@
    "best": "Craigslist",
    "med": 4800,
    "ratio": 120,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952290007",
+   "title": "LLADRO Figurines- Genuine",
+   "price": 35,
+   "area": "longisland",
+   "url": "https://www.craigslist.org/view/d/jericho-lladro-figurines-genuine/rKaiUC8MneETGCzZxb8KZq",
+   "best": "lladro figurines collectibles buy it now | eBay",
+   "med": 4000,
+   "ratio": 114.29,
    "ai_value": ""
   },
   {
@@ -3978,6 +3989,17 @@
    "url": "https://www.craigslist.org/view/d/venice-stuff-asian-metal-warrior/snaH987mbyN677th8x2tai",
    "best": "Vtg Chinese Terracotta Army Clay Warrior Soldier Statue ...",
    "med": 390,
+   "ratio": 19.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984134855",
+   "title": "Hand Made & Assorted  Jewelry",
+   "price": 2,
+   "area": "baltimore",
+   "url": "https://www.craigslist.org/view/d/baltimore-hand-made-assorted-jewelry/tF52ax5WTqUvKxYBp79zY7",
+   "best": "Etsy",
+   "med": 39,
    "ratio": 19.5,
    "ai_value": ""
   },
@@ -10743,6 +10765,17 @@
    "url": "https://www.craigslist.org/view/d/mont-alto-vintage-milk-cans/81g2KMX4U8MwXLaZAJtpsK",
    "best": "eBay",
    "med": 275,
+   "ratio": 5.5,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949281185",
+   "title": "Donald Blakney",
+   "price": 20,
+   "area": "minneapolis",
+   "url": "https://www.craigslist.org/view/d/minneapolis-donald-blakney/eNbxmK56uUBMCM5Y1w49Tg",
+   "best": "Haus Theory",
+   "med": 110,
    "ratio": 5.5,
    "ai_value": ""
   },
@@ -17545,6 +17578,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7980443910",
+   "title": "Signed Studio Pottery Lidded Jar \u2013 Handmade Earth-Tone Stoneware Canis",
+   "price": 45,
+   "area": "dallas",
+   "url": "https://www.craigslist.org/view/d/plano-signed-studio-pottery-lidded-jar/mXfUKUX9EcEULbVhca4Mj6",
+   "best": "Pottery Jars with Lids | eBay",
+   "med": 135,
+   "ratio": 3,
+   "ai_value": ""
+  },
+  {
    "pid": "7978089552",
    "title": "BARBARA A. WOOD",
    "price": 167,
@@ -20482,6 +20526,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7933735010",
+   "title": "Vintage nj penalty sign",
+   "price": 25,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/cherry-hill-vintage-nj-penalty-sign/4wbfTrx5VsJ9v4zrpHvo9E",
+   "best": "Traffic Safety Store",
+   "med": 60,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7961990112",
    "title": "Hand painted Pheasant  plate",
    "price": 18,
@@ -21897,6 +21952,17 @@
    "url": "https://www.craigslist.org/view/d/riverdale-sterling-onyx-bracelet-mexico/wDVrKC3dago5hKvQppmJij",
    "best": "Etsy",
    "med": 329,
+   "ratio": 2.19,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952482788",
+   "title": "Vintage Beer Stein",
+   "price": 80,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vintage-beer-stein/wZSZs3EXy6ny36d5D3TCbP",
+   "best": "What is the value of my beer stein?",
+   "med": 175,
    "ratio": 2.19,
    "ai_value": ""
   },
@@ -25417,6 +25483,17 @@
    "url": "https://www.craigslist.org/view/d/santa-rosa-vintage-19th-century-chinese/obGa8aRrdCX7ptdTpKabi7",
    "best": "eBay",
    "med": 175,
+   "ratio": 1.75,
+   "ai_value": ""
+  },
+  {
+   "pid": "7954356389",
+   "title": "Vintage Inri Cross Germany",
+   "price": 80,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/baldwin-vintage-inri-cross-germany/rLrUNhzu7hWfakENHZc4cr",
+   "best": "eBay",
+   "med": 140,
    "ratio": 1.75,
    "ai_value": ""
   },
@@ -29898,6 +29975,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7931864519",
+   "title": "Lot of old vintage pocket knives knife",
+   "price": 15,
+   "area": "daytona",
+   "url": "https://www.craigslist.org/view/d/edgewater-lot-of-old-vintage-pocket/rHRLNjG7tXX7adTcVWqVoj",
+   "best": "eBay",
+   "med": 20,
+   "ratio": 1.33,
+   "ai_value": ""
+  },
+  {
    "pid": "7951339190",
    "title": "2 Vintage Coke Trays",
    "price": 25,
@@ -34375,6 +34463,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7972005564",
+   "title": "Vintage - Rhinestone Necklace w/ Pink Stone + Earrings (Garne)",
+   "price": 15,
+   "area": "philadelphia",
+   "url": "https://www.craigslist.org/view/d/vintage-rhinestone-necklace-pink-stone/jAKius34hzvhQeMfjf291E",
+   "best": "Fake Ruby and Diamond Necklace - Etsy",
+   "med": 15,
+   "ratio": 1,
+   "ai_value": ""
+  },
+  {
    "pid": "7954791610",
    "title": "Vintage Navajo Sterling Silver Stamped Cuff Bracelet",
    "price": 200,
@@ -34822,6 +34921,17 @@
    "url": "https://www.craigslist.org/view/d/stow-epiphone-by-gibson/3aqgqQoWjKbKEmcNbejU52",
    "best": "Epiphone By Gibson acoustic guitar pr300 | eBay",
    "med": 399,
+   "ratio": 0.94,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955045009",
+   "title": "ECCLISSI Wrist Watch",
+   "price": 95,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-ecclissi-wrist-watch/vsVsqHPJ7N3npdU6CwV3MW",
+   "best": "Etsy",
+   "med": 89,
    "ratio": 0.94,
    "ai_value": ""
   },
@@ -38016,6 +38126,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7929323475",
+   "title": "Antique jar( jewelry jar) paparazzi",
+   "price": 30,
+   "area": "syracuse",
+   "url": "https://www.craigslist.org/view/d/cicero-antique-jar-jewelry-jar-paparazzi/qpnkjAv5TQWrRCv6DhdkFZ",
+   "best": "eBay",
+   "med": 21,
+   "ratio": 0.7,
+   "ai_value": ""
+  },
+  {
    "pid": "7955101350",
    "title": "Vintage CC Hughes 1923 Mercury Dime Coin Watch-UNWORN",
    "price": 65,
@@ -40003,6 +40124,17 @@
    "url": "https://www.craigslist.org/view/d/sunnyvale-antique-large-fork-14-wood/hSQFCtDpnjCqHkYA9xwXKB",
    "best": "eBay",
    "med": 21,
+   "ratio": 0.53,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984163763",
+   "title": "Fossil Riley / multifunction crystal-bezel",
+   "price": 75,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/gilbert-fossil-riley-multifunction/dEywpB141xSKFJPuW29WPZ",
+   "best": "eBay",
+   "med": 40,
    "ratio": 0.53,
    "ai_value": ""
   },
@@ -42691,6 +42823,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7959135390",
+   "title": "La Express Quartz Women's Watch",
+   "price": 60,
+   "area": "statesboro",
+   "url": "https://www.craigslist.org/view/d/augusta-la-express-quartz-womens-watch/fuzzBeSgok5ycvDw6RQpi1",
+   "best": "Vintage Abalone Watch Band Bracelet Ladies Seashell by ...",
+   "med": 15,
+   "ratio": 0.25,
+   "ai_value": "Sold at Auction: La Express Quartz Wrist Watch $19"
+  },
+  {
    "pid": "7936662652",
    "title": "LIONS HEAD CHARM in 14k Yellow Gold",
    "price": 479,
@@ -43109,6 +43252,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7979867904",
+   "title": "Vintage Indian Embroidered Artwork",
+   "price": 200,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/north-hollywood-vintage-indian/gihT6KZLRLQzZrVgBQ7fTR",
+   "best": "Craigslist",
+   "med": 40,
+   "ratio": 0.2,
+   "ai_value": ""
+  },
+  {
    "pid": "7933424756",
    "title": "Sterling Silver Ecclissi Art Deco Cuff 7 1/2\u201d Watch",
    "price": 175,
@@ -43358,6 +43512,17 @@
    "url": "https://www.craigslist.org/view/d/dallas-star-wars-vintage-action-figures/pEENstuYXc4ceqo8VZ6Bpy",
    "best": "eBay",
    "med": 20,
+   "ratio": 0.17,
+   "ai_value": ""
+  },
+  {
+   "pid": "7950356634",
+   "title": "Several Jewelry display items",
+   "price": 75,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/el-cajon-several-jewelry-display-items/4VBLxghF48f8zddkuUuEg7",
+   "best": "Etsy",
+   "med": 13,
    "ratio": 0.17,
    "ai_value": ""
   },
@@ -43765,6 +43930,17 @@
    "url": "https://www.craigslist.org/view/d/epping-huge-old-sewing-lot-total/6o2u27VRhsTNhKGHzted3P",
    "best": "Woven Wicker Sewing Basket Antique/Vintage Brown Round ...",
    "med": 9,
+   "ratio": 0.09,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952612644",
+   "title": "925 Italian Sterling Silver Chain Necklaces",
+   "price": 500,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-925-italian-sterling-silver/njxT9VUqqjSmYYPyRS65fr",
+   "best": "eBay",
+   "med": 45,
    "ratio": 0.09,
    "ai_value": ""
   },

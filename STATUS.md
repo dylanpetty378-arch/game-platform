@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T00:40:14Z
+# Refurbish status — 2026-10-16T00:43:59Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,9 +7,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 8951 |
-| flagged | 4127 |
-| lensed | 1306 |
-| queued | 628 |
+| flagged | 4143 |
+| lensed | 1315 |
+| queued | 603 |
 | queued/relens | 486 |
 | decided/kill | 125 |
 | decided/ask | 80 |
@@ -26,8 +26,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 - harvests: 16
 - searches: 3736
 - listings: 15489
-- lens: 13424
-- events: 41438
+- lens: 13449
+- events: 41463
 - comps: 3343
 - item_types: 906
 - runs: 0
@@ -141,7 +141,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (4127)
+## Flagged by Lens, waiting for photo review (4143)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
@@ -202,6 +202,7 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/01515_8I9j9c5NyHd_0t20CI_300x300.jpg" width="120"> | 7947129653 | $20 | buffalo | [Old school 20” Wuhan China Cymbal](https://www.craigslist.org/view/d/buffalo-old-school-20-wuhan-china-cymbal/5y7SAeqzu3jvX3JzJHBwpx) | Ufip Natural China 20 / Reverb | 2499 | 124.95 |
 | <img src="https://images.craigslist.org/00Y0Y_aIdoZrT2zJw_0c607W_300x300.jpg" width="120"> | 7943638984 | $1 | longisland | [Collection of Vintage Cameras](https://www.craigslist.org/view/d/brightwaters-collection-of-vintage/7rKHySm9qMZFks2E7wZnoh) | eBay | 120 | 120 |
 | <img src="https://images.craigslist.org/00W0W_lFG5hKSy0R8_0lN0CI_300x300.jpg" width="120"> | 7976589723 | $40 | southcoast | [Flora by titan. (reproduction)](https://www.craigslist.org/view/d/acushnet-flora-by-titan-reproduction/vibZ9nD6gSBuvDHwzheiyu) | Craigslist | 4800 | 120 |
+| <img src="https://images.craigslist.org/00707_5pLJHosEI3b_0aT0ew_300x300.jpg" width="120"> | 7952290007 | $35 | longisland | [LLADRO Figurines- Genuine](https://www.craigslist.org/view/d/jericho-lladro-figurines-genuine/rKaiUC8MneETGCzZxb8KZq) | lladro figurines collectibles buy it now / eBay | 4000 | 114.29 |
 | <img src="https://images.craigslist.org/00Q0Q_2yrTrwBRZFW_0CI0CI_300x300.jpg" width="120"> | 7945030164 | $1 | stcloud | [ROOSTERS n Stuff](https://www.craigslist.org/view/d/little-falls-roosters-stuff/h5H4AmnyaWMSKqRrGDtKWw) | eBay | 113 | 113 |
 | <img src="https://images.craigslist.org/00404_9R4uwm3M9Ef_0t20CA_300x300.jpg" width="120"> | 7953166452 | $40 | austin | [Gold lanco pocket watch](https://www.craigslist.org/view/d/austin-gold-lanco-pocket-watch/5AZzoJKBycxZq83FJUo8tz) | VINTAGE 1940'S DIANA WATCH 67A / eBay | 4399 | 109.97 |
 | <img src="https://images.craigslist.org/00A0A_gUqMlHE7VLz_0MM132_300x300.jpg" width="120"> | 7954561566 | $89 | pittsburgh | [Big Sterling Silver Yellow &White Gemstone CROSS](https://www.craigslist.org/view/d/strabane-big-sterling-silver-yellow/ejQKW5PfHcHVBWzWedJobh) | 14K White Gold 5CT Two-Tone Diamonds Large Cross / eBay | 9680 | 108.76 |
@@ -266,4 +267,3 @@ Highest Lens price ratio first. Lens often matches the category, not the item: t
 | <img src="https://images.craigslist.org/00N0N_fmWWqgUcKot_0t20CI_300x300.jpg" width="120"> | 7983912864 | $65 | austin | [Vintage Gold-Tone Owl Brooch](https://www.craigslist.org/view/d/austin-vintage-gold-tone-owl-brooch/4Hm2FcsQGciFjvuHg8kMXC) | メルカリ - Mercari | 3960 | 60.92 |
 | <img src="https://images.craigslist.org/00b0b_hS7FO9XWOGp_0sT0t2_300x300.jpg" width="120"> | 7977598179 | $33 | sfbay | [Vintage Large+ Size Original Amazonite Pendant.](https://www.craigslist.org/view/d/san-francisco-vintage-large-size/bHdJCoLXybr51oWWm7F6Ja) | IPPOLITA ROCK CANDY® 18K YELLOW GOLD 750 QUARTZ ... | 1999 | 60.58 |
 | <img src="https://images.craigslist.org/00G0G_gxCM0upfDMH_0CI0pO_300x300.jpg" width="120"> | 7950666174 | $20 | sfbay | [Vintage Floral Plates](https://www.craigslist.org/view/d/oakland-vintage-floral-plates/hUdSGSY9JPJvsMp6ozXuxk) | LARGE VINTAGE ROYAL ALBERT SERVICE PLATE IN PINK ... | 1200 | 60 |
-| <img src="https://images.craigslist.org/01212_r59b0nsrR8_0d40hq_300x300.jpg" width="120"> | 7976459112 | $1 | sfbay | [Vintage items](https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG) | Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag  | 60 | 60 |
