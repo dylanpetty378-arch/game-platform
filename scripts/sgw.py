@@ -6,6 +6,7 @@ ShopGoodwill's public buyer API needs no login to search (bidding needs Dylan's 
 
   python3 scripts/sgw.py harvest <hours> [--first]   # items ending within <hours> in the egg categories -> /tmp/eye/sgw-<ts>/pool.json
   python3 scripts/sgw.py detail <itemId|sgwID> [...]   # description, bids, weight and ALL photo URLs
+  python3 scripts/sgw.py markpool <run> <n> <out.json>    # markings run: n soonest-ending rows, titles not naming metal, full detail
   python3 scripts/sgw.py sold "<query>"               # ShopGoodwill's own closed auctions (what pros actually pay there)
   python3 scripts/eye_screen.py sheets sgw-<ts>        # then the usual contact sheets / ingest
 
@@ -66,16 +67,44 @@ def harvest(hours, first=False):
     json.dump(pool, open(d + '/pool.json', 'w'))
     print(run, len(items), 'items ending within', hours, 'h;', len(pool), 'in pool')
 
-def detail(item_id):
-    """Title, current bid, bids, end, weight, shipping, cleaned description and every full-size photo URL."""
+def _detail(item_id):
     import re, html
     iid = str(item_id).replace('sgw', '')
     r = urllib.request.Request(f'https://buyerapi.shopgoodwill.com/api/ItemDetail/GetItemDetailModelByItemId/{iid}', headers={'User-Agent': 'Mozilla/5.0'})
     d = json.load(urllib.request.urlopen(r, timeout=40))
     desc = html.unescape(re.sub(r'<[^>]+>', ' ', d.get('description') or '')); desc = re.sub(r'\s+', ' ', desc).strip()
     imgs = [(d.get('imageServer') or '') + x.replace('\\', '/') for x in (d.get('imageUrlString') or '').split(';') if x]
+    return d, desc, imgs
+
+def detail(item_id):
+    """Title, current bid, bids, end, weight, shipping, cleaned description and every full-size photo URL."""
+    d, desc, imgs = _detail(item_id)
     print(f"{d['title']}\nbid ${d['currentPrice']} ({d['numberOfBids']} bids), ends {d['endTime']} PT, weight {d.get('displayWeight')}, "
           f"pickup-only {d.get('pickupOnly')}, seller {d.get('sellerCompanyName')}\n{desc[:2500]}\nPHOTOS:\n" + '\n'.join(imgs))
+
+KNOWN = ('sterling', '925', '14k', '10k', '18k', '9k', '22k', '24k', 'karat', 'gold filled', 'platinum')
+
+def markpool(run, n, out):
+    """Markings run (Oct 16 2026): the n soonest-ending rows of /tmp/eye/<run>/pool.json (>=90 min left) whose titles
+    don't already name the metal, with full description + every photo -> <out> as hallmark_panels.py input."""
+    import time, datetime as dt
+    pool = json.load(open(f'/tmp/eye/{run}/pool.json'))
+    pt = dt.timezone(dt.timedelta(hours=-7))                      # API times are US Pacific (PDT in Oct)
+    end = lambda r: dt.datetime.fromisoformat(r['ends'].replace(' PT', '')).replace(tzinfo=pt)
+    soon = dt.datetime.now(dt.timezone.utc) + dt.timedelta(minutes=90)
+    rows = sorted([r for r in pool if r.get('ends') and end(r) > soon and not any(k in r['title'].lower() for k in KNOWN)], key=end)[:n]
+    res = {}
+    for i, r in enumerate(rows):
+        for t in range(3):
+            try:
+                d, desc, imgs = _detail(r['pid']); break
+            except Exception:
+                time.sleep(2 + 3 * t); d = None
+        if not d: continue
+        res[r['pid']] = {'title': d['title'], 'imgs': imgs, 'bid': d['currentPrice'], 'bids': d['numberOfBids'],
+                         'end': d['endTime'] + ' PT', 'url': r['url'], 'desc': desc[:1500], 'weight': d.get('displayWeight')}
+        if i % 100 == 99: print(i + 1, 'details'); json.dump(res, open(out, 'w'))
+    json.dump(res, open(out, 'w')); print(len(res), 'of', len(rows), 'details ->', out)
 
 def sold(q, days=30):
     d = search(searchText=q, searchClosedAuctions='true', closedAuctionDaysBack=str(days), sortDescending='true')
@@ -88,5 +117,6 @@ if __name__ == '__main__':
     if not a: print(__doc__)
     elif a[0] == 'harvest': harvest(float(a[1]), '--first' in a)
     elif a[0] == 'sold': sold(a[1])
+    elif a[0] == 'markpool': markpool(a[1], int(a[2]), a[3])
     elif a[0] == 'detail':
         for x in a[1:]: detail(x); print('-' * 40)
