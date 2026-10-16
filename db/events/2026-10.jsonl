@@ -41243,3 +41243,28 @@
 {"pid":"7984104249","stage":"queued","run":"craigslist-20261015-2327","data":{"score":11.41,"clip":6.79},"ts":"2026-10-15T23:51:03Z"}
 {"pid":"7977894054","stage":"queued","run":"craigslist-20261015-2327","data":{"score":11.41,"clip":8.02},"ts":"2026-10-15T23:51:03Z"}
 {"pid":"7982895792","stage":"queued","run":"craigslist-20261015-2327","data":{"score":11.41,"clip":8.33},"ts":"2026-10-15T23:51:03Z"}
+{"ts":"2026-10-16T00:12:22Z","pid":"7984244235","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names National — title does not","data":{"med":230,"ratio":2.3,"mismatch":["National"]}}
+{"ts":"2026-10-16T00:12:29Z","pid":"7951480202","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Lane, Native American, Navajo, Silver — title does not","data":{"med":150,"ratio":2.5,"mismatch":["Lane","Native American","Navajo","Silver"]}}
+{"ts":"2026-10-16T00:12:40Z","pid":"7976222061","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Native, Navajo, Silver, Size — title does not","data":{"med":1076,"ratio":14.35,"mismatch":["Native","Navajo","Silver","Size"]}}
+{"ts":"2026-10-16T00:12:49Z","pid":"7984184964","stage":"lensed","run":"lensworker-20261015-2351","note":null,"data":{"med":44,"ratio":1.47,"mismatch":[]}}
+{"ts":"2026-10-16T00:13:00Z","pid":"7950947172","stage":"lensed","run":"lensworker-20261015-2351","note":null,"data":{"med":25,"ratio":1.14,"mismatch":[]}}
+{"ts":"2026-10-16T00:13:06Z","pid":"7930264676","stage":"lensed","run":"lensworker-20261015-2351","note":null,"data":{"med":54,"ratio":0.7,"mismatch":[]}}
+{"ts":"2026-10-16T00:13:17Z","pid":"7962517005","stage":"flagged","run":"lensworker-20261015-2351","note":null,"data":{"med":130,"ratio":1.3,"mismatch":[]}}
+{"ts":"2026-10-16T00:13:23Z","pid":"7947239097","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Boutique — title does not","data":{"med":155,"ratio":15.5,"mismatch":["Boutique"]}}
+{"ts":"2026-10-16T00:13:34Z","pid":"7939100410","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Artist, Native, Navajo, Size — title does not","data":{"med":73,"ratio":1.04,"mismatch":["Artist","Native","Navajo","Size"]}}
+{"ts":"2026-10-16T00:13:40Z","pid":"7961865966","stage":"lensed","run":"lensworker-20261015-2351","note":null,"data":{"med":30,"ratio":1.2,"mismatch":[]}}
+{"ts":"2026-10-16T00:13:49Z","pid":"7984195836","stage":"lensed","run":"lensworker-20261015-2351","note":null,"data":{"med":49,"ratio":1.23,"mismatch":[]}}
+{"ts":"2026-10-16T00:13:56Z","pid":"7949383832","stage":"flagged","run":"lensworker-20261015-2351","note":null,"data":{"med":295,"ratio":7.38,"mismatch":[]}}
+{"ts":"2026-10-16T00:14:05Z","pid":"7980445152","stage":"lensed","run":"lensworker-20261015-2351","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-16T00:14:14Z","pid":"7953928296","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Jewelry, Silver — title does not","data":{"med":166,"ratio":0.44,"mismatch":["Jewelry","Silver"]}}
+{"ts":"2026-10-16T00:14:22Z","pid":"7955066294","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Collectible, Franklin Mint — title does not","data":{"med":13,"ratio":0.22,"mismatch":["Collectible","Franklin Mint"]}}
+{"ts":"2026-10-16T00:14:31Z","pid":"7984171101","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Size — title does not","data":{"med":89,"ratio":3.56,"mismatch":["Size"]}}
+{"ts":"2026-10-16T00:14:40Z","pid":"7955440724","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Boutique, Fashion, Jewelry, Russian — title does not","data":{"med":70,"ratio":2.8,"mismatch":["Boutique","Fashion","Jewelry","Russian"]}}
+{"ts":"2026-10-16T00:14:48Z","pid":"7971658167","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Silver — title does not","data":{"med":412,"ratio":8.24,"mismatch":["Silver"]}}
+{"ts":"2026-10-16T00:14:58Z","pid":"7953751447","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Jewelry, Kay — title does not","data":{"med":66,"ratio":1.47,"mismatch":["Jewelry","Kay"]}}
+{"ts":"2026-10-16T00:15:07Z","pid":"7969597560","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Russian, USSR — title does not","data":{"med":120,"ratio":0.6,"mismatch":["Russian","USSR"]}}
+{"ts":"2026-10-16T00:15:17Z","pid":"7971217329","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Gold, Museum, Silver — title does not","data":{"med":37,"ratio":1.48,"mismatch":["Gold","Museum","Silver"]}}
+{"ts":"2026-10-16T00:15:25Z","pid":"7944386270","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Indian, Lamps — title does not","data":{"med":93,"ratio":0.62,"mismatch":["Indian","Lamps"]}}
+{"ts":"2026-10-16T00:15:32Z","pid":"7981397001","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Gold, Jewelry, Miriam Haskell, Vogue — title does not","data":{"med":130,"ratio":5.2,"mismatch":["Gold","Jewelry","Miriam Haskell","Vogue"]}}
+{"ts":"2026-10-16T00:15:40Z","pid":"7938063095","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Enamel, Lafayette — title does not","data":{"med":22,"ratio":1.47,"mismatch":["Enamel","Lafayette"]}}
+{"ts":"2026-10-16T00:15:48Z","pid":"7930144006","stage":"flagged","run":"lensworker-20261015-2351","note":"Lens names Life — title does not","data":{"med":12,"ratio":1.2,"mismatch":["Life"]}}

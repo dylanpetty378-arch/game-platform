@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-15T23:51:13Z",
+ "updated": "2026-10-16T00:16:09Z",
  "tables": {
   "harvests": 16,
-  "searches": 3514,
+  "searches": 3736,
   "listings": 15483,
-  "lens": 13249,
-  "events": 41245,
-  "comps": 3149,
+  "lens": 13274,
+  "events": 41270,
+  "comps": 3343,
   "item_types": 906,
   "runs": 0
  },
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 803,
-  "flagged": 3985,
-  "lensed": 1273,
+  "queued": 778,
+  "flagged": 4004,
+  "lensed": 1279,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -4697,6 +4697,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7947239097",
+   "title": "COSTUME JEWELRY COLLECTION",
+   "price": 10,
+   "area": "newjersey",
+   "url": "https://www.craigslist.org/view/d/little-ferry-costume-jewelry-collection/9i9HiWuKqykGSJ6g5uqNvP",
+   "best": "ayalabar",
+   "med": 155,
+   "ratio": 15.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7937788473",
    "title": "Vintage Sterling Silver & Lab Created Diamond Journey Pendant Necklace",
    "price": 45,
@@ -4957,6 +4968,17 @@
    "url": "https://www.craigslist.org/view/d/sunnyvale-vintage-cast-iron-eagle/f6aYnwjpjxfSfzBSEzLDWD",
    "best": "eBay",
    "med": 1148,
+   "ratio": 14.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7976222061",
+   "title": "turquoise ring 11.5  sterling",
+   "price": 75,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/austin-turquoise-ring-115-sterling/s17oTnHAnGsPWuHmPQGZbt",
+   "best": "Pinterest",
+   "med": 1076,
    "ratio": 14.35,
    "ai_value": ""
   },
@@ -7568,6 +7590,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971658167",
+   "title": "14k Gold Filled Bracelet",
+   "price": 50,
+   "area": "albuquerque",
+   "url": "https://www.craigslist.org/view/d/albuquerque-14k-gold-filled-bracelet/fNNErjo6jSa4CxqAYCA3bJ",
+   "best": "Craigslist",
+   "med": 412,
+   "ratio": 8.24,
+   "ai_value": ""
+  },
+  {
    "pid": "7960927353",
    "title": "Antique clock collection",
    "price": 195,
@@ -8289,6 +8322,17 @@
    "area": "myrtlebeach",
    "url": "https://www.craigslist.org/view/d/calabash-vintage-baitcast-reel/epsYks6eVXFMYnY18nUkbg",
    "best": "Abu Garcia Ambassadeur 5000D Green Casting Reel /Sweden 1975 ...",
+   "med": 295,
+   "ratio": 7.38,
+   "ai_value": ""
+  },
+  {
+   "pid": "7949383832",
+   "title": "Swiss Made Working Stopwatch",
+   "price": 40,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-swiss-made-working-stopwatch/nkBHmFjhGGTyZZfpFjJka7",
+   "best": "HEUER ABERCROMBIE & FITCH STOPWATCH Rare Circa 1950s Timer ...",
    "med": 295,
    "ratio": 7.38,
    "ai_value": ""
@@ -10798,6 +10842,17 @@
    "url": "https://www.craigslist.org/view/d/portland-nice-chinese-ceramic-pot/eYcKhhowWBLsKRuDpwtYYS",
    "best": "eBay",
    "med": 156,
+   "ratio": 5.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7981397001",
+   "title": "\u2728 20 Pairs of Assorted Clip-On Earrings \u2013 Faux Pearls, Rhinestones",
+   "price": 25,
+   "area": "raleigh",
+   "url": "https://www.craigslist.org/view/d/raleigh-20-pairs-of-assorted-clip-on/1y3cpFNd7eEyGBcbXM17nj",
+   "best": "eBay",
+   "med": 130,
    "ratio": 5.2,
    "ai_value": ""
   },
@@ -14674,6 +14729,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7984171101",
+   "title": "STERLING SILVER ABALONE, MARCASITE VINTAGE RING",
+   "price": 25,
+   "area": "wyoming",
+   "url": "https://www.craigslist.org/view/d/masonville-sterling-silver-abalone/hX1hEKPYGSwyumqw8SSqar",
+   "best": "eBay",
+   "med": 89,
+   "ratio": 3.56,
+   "ai_value": ""
+  },
+  {
    "pid": "7954637241",
    "title": "Vintage 9 Pc. Lot Demin Days Figurines",
    "price": 20,
@@ -17809,6 +17875,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955440724",
+   "title": "3-Piece TURQUOISE Set",
+   "price": 25,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-piece-turquoise-set/7ovWigyDHhG92eTwhV1EDu",
+   "best": "eBay",
+   "med": 70,
+   "ratio": 2.8,
+   "ai_value": ""
+  },
+  {
    "pid": "7945601047",
    "title": "Citizen Eco-Drive Watch",
    "price": 50,
@@ -19448,6 +19525,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7951480202",
+   "title": "Native Sterling Earrings",
+   "price": 60,
+   "area": "sanmarcos",
+   "url": "https://www.craigslist.org/view/d/kyle-native-sterling-earrings/mbGicjy4VBbAmhUzUoEvGZ",
+   "best": "eBay",
+   "med": 150,
+   "ratio": 2.5,
+   "ai_value": ""
+  },
+  {
    "pid": "7952572829",
    "title": "VINTAGE 1950-60'S ELKORN GETZEN CLARINET",
    "price": 80,
@@ -20568,6 +20656,17 @@
    "med": 23,
    "ratio": 2.3,
    "ai_value": ""
+  },
+  {
+   "pid": "7984244235",
+   "title": "Vintage Elgin pocket watch",
+   "price": 100,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/solon-vintage-elgin-pocket-watch/3tkK4qtoQzf6tFCqJUC8cH",
+   "best": "eBay",
+   "med": 230,
+   "ratio": 2.3,
+   "ai_value": "sell between $100"
   },
   {
    "pid": "7938207775",
@@ -27423,6 +27522,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971217329",
+   "title": "Turquoise Necklace",
+   "price": 25,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-turquoise-necklace/jrujU5LckxnyC3bfrdic24",
+   "best": "Craigslist",
+   "med": 37,
+   "ratio": 1.48,
+   "ai_value": ""
+  },
+  {
    "pid": "7958902101",
    "title": "Vintage Avon Double Strand Faux Pearl signed Necklace Set",
    "price": 15,
@@ -27540,6 +27650,28 @@
    "url": "https://www.craigslist.org/view/d/cincinnati-vintage-assorted-stone/5V3FxejVEbzpqDFbM4xiNq",
    "best": "Agate And Gold Vintage Bracelets | eBay",
    "med": 44,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7953751447",
+   "title": "Sterling silver cubic zirconia",
+   "price": 45,
+   "area": "northplatte",
+   "url": "https://www.craigslist.org/view/d/windsor-sterling-silver-cubic-zirconia/7TckSz8dCBZzhPNh519qro",
+   "best": "eBay",
+   "med": 66,
+   "ratio": 1.47,
+   "ai_value": ""
+  },
+  {
+   "pid": "7938063095",
+   "title": "vintage Hi-Y pin lot",
+   "price": 15,
+   "area": "tippecanoe",
+   "url": "https://www.craigslist.org/view/d/west-lafayette-vintage-hi-pin-lot/qwQC12FX56qJqARmkgppeS",
+   "best": "Craigslist",
+   "med": 22,
    "ratio": 1.47,
    "ai_value": ""
   },
@@ -29282,6 +29414,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7962517005",
+   "title": "Vintage 9 Pc Lot Goebel Hummel \"VARIETY THEMED! \"Germany Figurines",
+   "price": 100,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/seekonk-vintage-pc-lot-goebel-hummel/mWptyj6CvKVqwgceUfQ3zn",
+   "best": "Vintage 9 Pc Lot Goebel Hummel \"VARIETY THEMED! \"Germany ...",
+   "med": 130,
+   "ratio": 1.3,
+   "ai_value": ""
+  },
+  {
    "pid": "7948156780",
    "title": "Vintage Blue Enamel Earrings",
    "price": 31,
@@ -30587,6 +30730,17 @@
    "url": "https://www.craigslist.org/view/d/largo-watch-faces/hQwZyALVnUAVJGTtuibj4H",
    "best": "Fait-Maison",
    "med": 24,
+   "ratio": 1.2,
+   "ai_value": ""
+  },
+  {
+   "pid": "7930144006",
+   "title": "Girl\u2019s Earrings & Necklace",
+   "price": 10,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/chicopee-girls-earrings-necklace/3thXvPwbPq73Suu1aWtBQ5",
+   "best": "23 Pairs Cute & Colorful Butterfly, Flower & Fruit Pierced ...",
+   "med": 12,
    "ratio": 1.2,
    "ai_value": ""
   },
@@ -32347,6 +32501,17 @@
    "url": "https://www.craigslist.org/view/d/penney-farms-antique-fostoria-art-deco/xBe63zbYvMPKpRya1KtcMo",
    "best": "Elegant Crystal Vintage Glass Pair Taper Candleholders ...",
    "med": 26,
+   "ratio": 1.04,
+   "ai_value": ""
+  },
+  {
+   "pid": "7939100410",
+   "title": "Vintage American Indian Silver & Turquoise Ring",
+   "price": 70,
+   "area": "medford",
+   "url": "https://www.craigslist.org/view/d/grants-pass-vintage-american-indian/rcKJymNZFwqb2nSafCn31o",
+   "best": "eBay",
+   "med": 73,
    "ratio": 1.04,
    "ai_value": ""
   },
@@ -37686,6 +37851,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944386270",
+   "title": "VINTAGE CHALKWARE NATIVE AMERICAN BRAVE & MAIDEN",
+   "price": 149,
+   "area": "tallahassee",
+   "url": "https://www.craigslist.org/view/d/crawfordville-vintage-chalkware-native/qhFuW1xXVnbpNjuAzz1q9n",
+   "best": "eBay",
+   "med": 93,
+   "ratio": 0.62,
+   "ai_value": ""
+  },
+  {
    "pid": "7972376364",
    "title": "Custom Jewelry - Bag Included",
    "price": 80,
@@ -38012,6 +38188,17 @@
    "url": "https://www.craigslist.org/view/d/kyle-antique-cast-iron-bank-sharecropper/gkHJocT3oeRuMyC6sVbRCL",
    "best": "Maker: A.C. Williams (a prominent American toy and still bank manufacturer active in the late 19th and early 2",
    "med": 30,
+   "ratio": 0.6,
+   "ai_value": ""
+  },
+  {
+   "pid": "7969597560",
+   "title": "Vintage balalaika",
+   "price": 200,
+   "area": "milwaukee",
+   "url": "https://www.craigslist.org/view/d/mequon-vintage-balalaika/cJS1dg6ao4ZT3myXRHxeWc",
+   "best": "Etsy",
+   "med": 120,
    "ratio": 0.6,
    "ai_value": ""
   },
@@ -39754,6 +39941,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7953928296",
+   "title": "VINTAGE Ornate 18K/Sterling Cross",
+   "price": 380,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-vintage-ornate-18k-sterling/9xaFwtJV8gyoBU512j8s7K",
+   "best": "Natural Red Garnet Handmade Cross Pendant, Multi Stone Jesus ...",
+   "med": 166,
+   "ratio": 0.44,
+   "ai_value": ""
+  },
+  {
    "pid": "7953643580",
    "title": "10K Yellow Gold \"J\" Pendant | 2.8g",
    "price": 329,
@@ -41455,6 +41653,17 @@
    "url": "https://www.craigslist.org/view/d/saint-paul-vintage-90s-joe-camel/pUo7JGtHx41HCQGymeNEee",
    "best": "VINTAGE TOBACCO CAMEL LIGHTS JOE CAMEL POOL PLASTIC ASHTRAY ...",
    "med": 15,
+   "ratio": 0.22,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955066294",
+   "title": "Vintage Black Velvet Horses Art",
+   "price": 60,
+   "area": "southjersey",
+   "url": "https://www.craigslist.org/view/d/atco-vintage-black-velvet-horses-art/fspxpuTF1hPK2b22cTDyBt",
+   "best": "Franklin Mint Collectible Horse Series, Rectangular Plate ...",
+   "med": 13,
    "ratio": 0.22,
    "ai_value": ""
   },
