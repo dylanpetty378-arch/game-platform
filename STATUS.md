@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T12:53:42Z
+# Refurbish status — 2026-10-16T13:33:19Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,14 +6,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| photo_review/kill | 8996 |
+| photo_review/kill | 9029 |
 | flagged | 4216 |
-| queued | 2103 |
+| queued | 2903 |
 | lensed | 1350 |
 | queued/relens | 486 |
-| decided/kill | 126 |
-| decided/ask | 83 |
-| decided/find | 28 |
+| decided/kill | 123 |
+| decided/ask | 92 |
+| decided/find | 29 |
 | expired | 19 |
 | photo_review/ask | 17 |
 | comps/fail | 5 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 18
-- searches: 3958
-- listings: 17144
+- harvests: 19
+- searches: 4182
+- listings: 17982
 - lens: 13549
-- events: 43339
-- comps: 3343
+- events: 44260
+- comps: 3539
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261015-1340 — 44384 listings, 43713 new, 800 queued
 - craigslist-20261015-2007 — 122817 listings, 121747 new, 800 queued
 - craigslist-20261015-2327 — 118173 listings, 116926 new, 800 queued
 - craigslist-20261016-0500 — 82460 listings, 81707 new, 800 queued
 - craigslist-20261016-1245 — 40919 listings, 40550 new, 800 queued
+- craigslist-20261016-1325 — 49716 listings, 48425 new, 800 queued
 
-## Finds and open leads (114)
+## Finds and open leads (124)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -153,11 +153,21 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 |  | [](None) | $None | None | **decided/find** — Ink-wash olive grove signed "L. Schwerin 53 Pal." (Ludwig Schwerin 1897-1983), titled "Claude"; auction median ~$120 (appraisily), thin |
 |  | [](None) | $None | None | **decided/find** — Ross-Simons lapis clip earrings titled gold tone; struck maker mark, karat unread (14K or vermeil); ask stamp+weight |
 |  | [](None) | $None | None | **decided/find** — Possible Hummel "Happy Days" HUM 150, $4.96; base mark blurry |
-|  | [](None) | $None | None | **decided/find** — "Silver plated" bowl with Indian jeweller stamp + handwritten 270.0 g: likely solid silver by weight; ask magnet/acid |
+|  | [](None) | $None | None | **decided/find** — South Indian gift bowl: 7in scalloped-lotus pedestal bowl, hand-engraved (zigzag-line and hex-net). Engraved under the foot 'MVS. JEWEL PARK' (the jeweller) and 'FROM RAMYA RAO BASAVA', a second worn inscription at left, |
 |  | [](None) | $None | None | **decided/find** — Leonid Afremov Studio palette-knife oil (studio painter Rubio), title omits Afremov; ~$150-350 |
 |  | [](None) | $None | None | **decided/find** — 1917 Saalfield Lady Bountiful + 1922 Whitman Mr and Mrs platinum-age strip books, rough |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/7HcAAeSwxRxq0X7x/s-l225.jpg_300x300.jpg" width="160"> | [Longines Vintage Pocket Watch White Dial Arabic, Small Secon](https://www.ebay.com/itm/168795861403) | $54.0 | fb 39 | **decided/find** —  |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/7W8AAeSwRzdqtCSN/s-l225.jpg_300x300.jpg" width="160"> | [Sixth Plate Daguerreotype, Frontiersman with Rifle and Dog](https://www.ebay.com/itm/128137027372) | $31.0 | fb 8 | **decided/find** —  |
+| <img src="https://images.craigslist.org/https://shopgoodwillimages.azureedge.net/production/168/Items/2026-10-13/de6555ff-e193-4865-86c3-69660bcf3b4ealey_1013t1.jpeg_300x300.jpg" width="160"> | [1968 Sister Corita Kent Art Portfolio Book 23 Prints Box](https://shopgoodwill.com/item/280310479) | $51.0 | seller 168 | **decided/find** — 'Sister Corita' boxed set, United Church Press/Pilgrim Press, Philadelphia 1968 (essays by Harvey Cox and Samuel Eisenstein). Black cloth book plus loose prints in a yellow-dot box. Contains 23 of the 34 prints issued. / |
+| <img src="https://images.craigslist.org/01313_4m4fB4ibaub_0CI0t2_300x300.jpg" width="160"> | [1964-69 Gold Kluson Deluxe Tuners](https://www.craigslist.org/view/d/new-york-gold-kluson-deluxe-tuners/ejnJg9PowdXYqNAXXnijKH) | $75 | newyork | **decided/ask** — Gold Kluson Deluxe double-line, 6-on-a-plate, oval metal buttons, BASS SIDE only = one half of a 1960s 12-string set (Gibson B-25-12/B-45-12 / Epiphone era), no ferrules or screws. One side alone ~$100-150 (no comp), so  |
+| <img src="https://images.craigslist.org/00b0b_h2bZTcv7i8h_0t20CI_300x300.jpg" width="160"> | [ANTIQUE TRICK DOG & CIRCUS CLOWN MECHANICAL  BANK](https://www.craigslist.org/view/d/torrance-antique-trick-dog-circus-clown/49nDijtC83nkKdNiL62zEo) | $200 | pittsburgh | **decided/ask** — Trick Dog mechanical bank, ONE-PIECE base (Hubley c.1920-1937 version, not Shepard multi-section or Hubley six-part), key-lock steel coin plate underneath, cast text visible inside base unreadable in photo. Family-owned  |
+| <img src="https://images.craigslist.org/00303_ajVH3ec5gdK_0ih0t2_300x300.jpg" width="160"> | [Original 1977 The Grateful Dead at Selland Arena (Fresno, CA](https://www.craigslist.org/view/d/san-diego-original-1977-the-grateful/kWTeYp4s53G4SWNC6WaTvr) | $90 | sandiego | **decided/ask** — Bill Graham Presents 'An Evening with The Grateful Dead', Selland Arena, Fresno, Sun Jan 15 1977. 'Design R. Tuten' (Randy Tuten), (c)1977 Round Reels / Uncle Sam character by Gary Gutierrez, about 13x23 in, framed since |
+| <img src="https://images.craigslist.org/00j0j_4zh5KmPySn9_0t20lM_300x300.jpg" width="160"> | [ONE DOLLAR TREASURY NOTE SERIES 1891](https://www.craigslist.org/view/d/king-of-prussia-one-dollar-treasury/87PNszR3YxNqxu3yL5D1Sq) | $99 | philadelphia | **decided/ask** — Genuine-looking Series 1891 $1 Treasury Note, Stanton, Bruce/Roberts = Fr.352 (not Fr.351 Tillman/Morgan), serial B54071192 with ornamental star (decorative on 1891 TNs, NOT a replacement star). Heavy crazing, edge chip  |
+| <img src="https://images.craigslist.org/00f0f_4F6y5NtRR6h_09r05q_300x300.jpg" width="160"> | [1915 Model "T" Vehicle License Plate Tag](https://www.craigslist.org/view/d/washoe-valley-1915-model-vehicle/8Us2XyDJfnVyzG9rrfoQdH) | $100 | reno | **decided/ask** — 1915 State of California 'Registered Motor Vehicle' octagonal dash disc, No 34102, about silver-dollar size, desert find with patina. The 8-sided straight-edged form is correct for 1915 (1914 was squarish, pre-1914 2in r |
+| <img src="https://images.craigslist.org/00U0U_kCzXnem99yG_0ak07K_300x300.jpg" width="160"> | [Oil Painting](https://www.craigslist.org/view/d/vienna-oil-painting/fbgqEtdcqKHjH2vdy44bXU) | $75 | washingtondc | **decided/ask** — Oil on canvas, palette-knife Brazilian colonial hill town (twin-tower church on a hill, steep cobbled street; reads as Ouro Preto/Minas Gerais school, mid-century), signed lower left in an illegible red/brown signature ( |
+| <img src="https://images.craigslist.org/00O0O_6pLwPWxENk_0CI0r1_300x300.jpg" width="160"> | [JOHN GOULD (1804-1881), PUFFINUS MAJOR, "GREAT SHEARWATER" 3](https://www.craigslist.org/view/d/portland-john-gould-puffinus-major/qtYihhcFTmDipHxc8gtXZa) | $100 | portland | **decided/ask** — John Gould & H.C. Richter 'Puffinus major, Fab.' (Great Shearwater). The lower margin reads 'J.Gould & H.C.Richter del et lith.' and 'Walter Imp.', the imprint of The Birds of Great Britain (1862-73) imperial folio, not  |
+| <img src="https://images.craigslist.org/00u0u_guUrSqZvUJ0_0t20CI_300x300.jpg" width="160"> | [English accordion ( concertina)](https://www.craigslist.org/view/d/oklahoma-city-english-accordion/rz1aZZ1sRDhLsrwvgNxibY) | $200 | oklahomacity | **decided/ask** — Genuine English-system concertina (not a German/Anglo): hexagonal rosewood fretted ends with brass/MOP-style inlay, 4 rows of buttons (about 48-key treble), English thumb strap and brass finger plate, 6-fold papered bell |
+| <img src="https://images.craigslist.org/00Y0Y_9znexJGs6Nz_0oP0kh_300x300.jpg" width="160"> | [Large Albumen Print GARIBALDI'S RED-SHIRTS(?) Army Reunion I](https://www.craigslist.org/view/d/concord-large-albumen-print-garibaldis/4aBSkZd1YHnJnU5KfeKoLi) | $50 | nh | **decided/ask** — Large albumen print, image 16 x 12.5 in, re-matted, c. 1880s. NOT Garibaldi Red Shirts: a painted studio forest backdrop, men in pointed 'brigand' caps, knives, a lantern and a woman in the group read as a theatrical cas |
 
 ## Flagged by Lens, waiting for photo review (4216)
 
