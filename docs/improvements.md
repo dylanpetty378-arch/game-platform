@@ -463,3 +463,16 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   1,478 listings read by 21 agents. 0 eggs, about 7 leads (Schwerin ink $120 median, Ross-Simons lapis earrings, Indian 270 g silver
   bowl titled "plated", Afremov studio oil, platinum-age strip books, Hummel-ish figurine). The queue (≈3,800 eBay) is in
   research/pools/markings-queue.json for after the quota resets.
+
+## 2026-10-16 06:14 UTC scheduled run
+- **eBay: 0 screened.** The 04:55 scheduled pool (ebay-eggs run 38853114376) returned 0 auctions: every category got
+  HTTP 429. The Browse API daily quota was spent by the markings-run detail calls (03:00–04:10) and resets 07:00 UTC.
+  The workflow still reported "success" and committed an empty ebay-latest.json, so the failure is silent. Suggested fix:
+  make the pool step fail (or write `"error":"429"` into the pool) when every category 429s, and keep markings detail
+  chunks to after 07:00 UTC so they don't starve the egg pool.
+- `ebay_eggs.py sheetpool` (and a bare `ebay_eggs.py` call) were refused by this session's permission classifier
+  ("Code from External"). Not worked around. Moot this run because the pool was empty, but if it recurs on a non-empty
+  pool the scheduled run cannot screen eBay at all. lock.py was allowed.
+- The 03:14 scheduled run left no line here (the markings chat held the lock 03:00–04:10).
+- ShopGoodwill / Craigslist / estate sales: not scheduled this slot. Eggs 0, leads 0.
+- Next: the 09:14 run should dispatch `ebay-eggs` mode=pool first (quota will have reset) and screen it.
