@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-16T00:28:57Z
+# Refurbish status — 2026-10-16T00:32:48Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,10 +6,10 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| photo_review/kill | 8945 |
-| flagged | 4065 |
-| lensed | 1293 |
-| queued | 703 |
+| photo_review/kill | 8951 |
+| flagged | 4083 |
+| lensed | 1300 |
+| queued | 678 |
 | queued/relens | 486 |
 | decided/kill | 125 |
 | decided/ask | 80 |
@@ -25,9 +25,9 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 - harvests: 16
 - searches: 3736
-- listings: 15483
-- lens: 13349
-- events: 41345
+- listings: 15489
+- lens: 13374
+- events: 41388
 - comps: 3343
 - item_types: 906
 - runs: 0
@@ -141,7 +141,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/PNAAAeSw4lBqx7L4/s-l225.jpg_300x300.jpg" width="160"> | [Gold Tone Round Metal Brooch Pin with Raised Emblem Design, ](https://www.ebay.com/itm/128137081948) | $68.0 | fb 129 | **contacted/find** — Dylan placed a bid (Oct 15, told the chat) |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/GE0AAeSw1~Nqfj2k/s-l225.jpg_300x300.jpg" width="160"> | [TEELA & MAN AT ARMS HE-MAN MASTERS OF THE UNIVERSE Original ](https://www.ebay.com/itm/147626533601) | $98.0 | fb 121 | **decided/find** — Filmation He-Man and the Masters of the Universe (1983-85) hand-inked/painted production cel, Teela + Man-At-Arms, waist-up, production no. MU18 scene 187 cel 23, on what appears to be a printed/copy background (MOTU log |
 
-## Flagged by Lens, waiting for photo review (4065)
+## Flagged by Lens, waiting for photo review (4083)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 

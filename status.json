@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-16T00:28:57Z",
+ "updated": "2026-10-16T00:32:48Z",
  "tables": {
   "harvests": 16,
   "searches": 3736,
-  "listings": 15483,
-  "lens": 13349,
-  "events": 41345,
+  "listings": 15489,
+  "lens": 13374,
+  "events": 41388,
   "comps": 3343,
   "item_types": 906,
   "runs": 0
  },
  "stages": {
-  "photo_review/kill": 8945,
+  "photo_review/kill": 8951,
   "comps/pass": 1,
   "queued/relens": 486,
   "decided/ask": 80,
@@ -21,9 +21,9 @@
   "decided/find": 13,
   "comps/fail": 5,
   "photo_review/ask": 17,
-  "queued": 703,
-  "flagged": 4065,
-  "lensed": 1293,
+  "queued": 678,
+  "flagged": 4083,
+  "lensed": 1300,
   "contacted/find": 3
  },
  "last_harvests": [
@@ -1811,6 +1811,17 @@
    "url": "https://www.craigslist.org/view/d/cotati-vintage-items/eFdXsp8TM1WzP9NQXW9XYG",
    "best": "Vintage 70s Jaguar Patchwork Crocodile Leather Shoulder Bag ...",
    "med": 60,
+   "ratio": 60,
+   "ai_value": ""
+  },
+  {
+   "pid": "7942463086",
+   "title": "Chinese Porcelain Vase",
+   "price": 30,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/mentor-chinese-porcelain-vase/cMu13KehmHLUwFwqU9i8JV",
+   "best": "Etsy",
+   "med": 1800,
    "ratio": 60,
    "ai_value": ""
   },
@@ -8800,6 +8811,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7960729923",
+   "title": "Vintage Blue Glass Pieces",
+   "price": 7,
+   "area": "denver",
+   "url": "https://www.craigslist.org/view/d/aurora-vintage-blue-glass-pieces/duW6aC9gCpsoiAn1iTVjQp",
+   "best": "Water Goblet (Right): A Noritake \"Perspective\" water goblet in colonial blue (approx. 6.5 inches tall).",
+   "med": 49,
+   "ratio": 7,
+   "ai_value": ""
+  },
+  {
    "pid": "7964448915",
    "title": "Vintage c1970s Plein Air Autumn Landscape Oil Painting signed \"BH\"",
    "price": 40,
@@ -11770,6 +11792,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7944329719",
+   "title": "VTG- Calvin Klein Brass Concho Belt",
+   "price": 60,
+   "area": "austin",
+   "url": "https://www.craigslist.org/view/d/kyle-vtg-calvin-klein-brass-concho-belt/ubbXwnZm93wfNwreDjDDKc",
+   "best": "eBay",
+   "med": 285,
+   "ratio": 4.75,
+   "ai_value": ""
+  },
+  {
    "pid": "7982319465",
    "title": "Invicta Reserve Chronograph Watch",
    "price": 95,
@@ -13882,6 +13915,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7971218025",
+   "title": "Vintage 1990 Betty Boop Charm Bracelet KFS FSI",
+   "price": 15,
+   "area": "phoenix",
+   "url": "https://www.craigslist.org/view/d/mesa-vintage-1990-betty-boop-charm/qqtSvcx3NcbrVRJ1LzTnmX",
+   "best": "eBay",
+   "med": 59,
+   "ratio": 3.93,
+   "ai_value": "Prices under $100"
+  },
+  {
    "pid": "7953691719",
    "title": "Lenox Lido Candlesticks",
    "price": 25,
@@ -15473,6 +15517,17 @@
    "url": "https://www.craigslist.org/view/d/santa-barbara-bracelet-vintage-goldette/f6vHsC3GR5P4fLsguckqMJ",
    "best": "Craigslist",
    "med": 190,
+   "ratio": 3.45,
+   "ai_value": ""
+  },
+  {
+   "pid": "7946099118",
+   "title": "Bowl Lefton Exclusives Vintage 50th Anniversary Pedestal",
+   "price": 20,
+   "area": "providence",
+   "url": "https://www.craigslist.org/view/d/pawtucket-bowl-lefton-exclusives/7g74mDdFLCA5kUNPNDM8EG",
+   "best": "Etsy",
+   "med": 69,
    "ratio": 3.45,
    "ai_value": ""
   },
@@ -17409,6 +17464,17 @@
    "url": "https://www.craigslist.org/view/d/indianapolis-27-piece-avon-cape-cod/tQqCmD7MnnFexVWBZD3FSu",
    "best": "Etsy",
    "med": 149,
+   "ratio": 2.98,
+   "ai_value": ""
+  },
+  {
+   "pid": "7977419169",
+   "title": "Vintage pottery jack-o'-lantern",
+   "price": 40,
+   "area": "allentown",
+   "url": "https://www.craigslist.org/view/d/bethlehem-vintage-pottery-jack-lantern/5kxaBHbGTaA4nahAoTSQ9m",
+   "best": "Hewell's Pottery GA Terra Cotta Pumpkin with Hat Jack O ...",
+   "med": 119,
    "ratio": 2.98,
    "ai_value": ""
   },
@@ -20214,6 +20280,17 @@
    "url": "https://www.craigslist.org/view/d/chickamauga-belgium-artist-print-hand/gEtpeJFc9Xt8gRX1fvEtY3",
    "best": "eBay",
    "med": 300,
+   "ratio": 2.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7933577798",
+   "title": "Antique turkish filigree cuf bracelet and necklace",
+   "price": 260,
+   "area": "newyork",
+   "url": "https://www.craigslist.org/view/d/brooklyn-antique-turkish-filigree-cuf/gBRa1oe6GkNkWLp24XnRNH",
+   "best": "Etsy",
+   "med": 625,
    "ratio": 2.4,
    "ai_value": ""
   },
@@ -23162,6 +23239,28 @@
    "url": "https://www.craigslist.org/view/d/san-francisco-vintage-dolls/mpHr8XYo99ZQjBvYx8bd7y",
    "best": "eBay",
    "med": 199,
+   "ratio": 1.99,
+   "ai_value": ""
+  },
+  {
+   "pid": "7941475613",
+   "title": "MERCURY DIME JEWELRY COIN BRACELET & SINGLE DIME PENDANT NECKLACE",
+   "price": 70,
+   "area": "sacramento",
+   "url": "https://www.craigslist.org/view/d/sacramento-mercury-dime-jewelry-coin/hdmxgQWP4VrWZLZaNA7uab",
+   "best": "Cut out mercury dime - Gem",
+   "med": 139,
+   "ratio": 1.99,
+   "ai_value": ""
+  },
+  {
+   "pid": "7952472131",
+   "title": "2007 LaPatrie Collection  Classical Guitar",
+   "price": 350,
+   "area": "westernmass",
+   "url": "https://www.craigslist.org/view/d/cherry-valley-2007-lapatrie-collection/atfsLBrLBoCrfpXUbpPY3J",
+   "best": "Guild Mark II 1986 satin | Reverb",
+   "med": 695,
    "ratio": 1.99,
    "ai_value": ""
   },
@@ -28776,6 +28875,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955143589",
+   "title": "Vintage Beer Stein",
+   "price": 20,
+   "area": "losangeles",
+   "url": "https://www.craigslist.org/view/d/carson-vintage-beer-stein/r9ZdrLEveE6iiYT6aTddfV",
+   "best": "eBay",
+   "med": 28,
+   "ratio": 1.4,
+   "ai_value": ""
+  },
+  {
    "pid": "7943810904",
    "title": "Handcrafted Studio Pottery Ceramic Shot Glass",
    "price": 18,
@@ -29113,6 +29223,17 @@
    "url": "https://www.craigslist.org/view/d/barre-kitchen-tools-lot/kV3CZqz1ZPHNkTThjxXYV7",
    "best": "25+ Wooden Fork Cooking Utensils for sale | Updated Oct 2026",
    "med": 50,
+   "ratio": 1.35,
+   "ai_value": ""
+  },
+  {
+   "pid": "7984243122",
+   "title": "Pocket watch",
+   "price": 20,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/solon-pocket-watch/8y52J5rLw5AJYomNjeqnQq",
+   "best": "lucerne vintage pocket - Gem",
+   "med": 27,
    "ratio": 1.35,
    "ai_value": ""
   },
@@ -34870,6 +34991,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7930250870",
+   "title": "3 Pair Woven Earings",
+   "price": 10,
+   "area": "cnj",
+   "url": "https://www.craigslist.org/view/d/southampton-pair-woven-earings/k2rnHZqLMa9T2E4WYxNBwC",
+   "best": "Etsy",
+   "med": 9,
+   "ratio": 0.9,
+   "ai_value": ""
+  },
+  {
    "pid": "7983199305",
    "title": "Sterling Silver Ring - New",
    "price": 45,
@@ -38093,6 +38225,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7956276589",
+   "title": "Vintage Electric Boat Award Pin",
+   "price": 50,
+   "area": "cleveland",
+   "url": "https://www.craigslist.org/view/d/gates-mills-vintage-electric-boat-award/bZrDbDqiwrJrjU51oKYoW3",
+   "best": "WorthPoint",
+   "med": 32,
+   "ratio": 0.64,
+   "ai_value": ""
+  },
+  {
    "pid": "7939308740",
    "title": "Vintage Joy Mex Sterling Silver & Inlay Turquoise Ring Size 6",
    "price": 40,
@@ -40282,6 +40425,17 @@
    "ai_value": ""
   },
   {
+   "pid": "7955441678",
+   "title": "Silver/Gold FLEX NECKLACE provides Fun Fashion",
+   "price": 35,
+   "area": "chicago",
+   "url": "https://www.craigslist.org/view/d/chicago-silver-gold-flex-necklace/3L7uq3Lc26KdevAPqQVLnx",
+   "best": "Etsy",
+   "med": 16,
+   "ratio": 0.46,
+   "ai_value": ""
+  },
+  {
    "pid": "7978262583",
    "title": "Antique gravy server",
    "price": 80,
@@ -40564,6 +40718,17 @@
    "url": "https://www.craigslist.org/view/d/mayer-doll-collection/iAMspcZJSxyoxCAW9Cv74a",
    "best": "eBay",
    "med": 13,
+   "ratio": 0.43,
+   "ai_value": ""
+  },
+  {
+   "pid": "7951738678",
+   "title": "Old bottle collection",
+   "price": 35,
+   "area": "sfbay",
+   "url": "https://www.craigslist.org/view/d/concord-old-bottle-collection/9mG54VPqBD5QUwdnKAh8Fy",
+   "best": "Etsy",
+   "med": 15,
    "ratio": 0.43,
    "ai_value": ""
   },
@@ -40916,6 +41081,17 @@
    "url": "https://www.craigslist.org/view/d/san-diego-vintage-carving-sets/1fUFbByDhbJBUTRVJ1FPUZ",
    "best": "Bernal Cutlery",
    "med": 20,
+   "ratio": 0.4,
+   "ai_value": ""
+  },
+  {
+   "pid": "7937528583",
+   "title": "Gorgeous Frame Cupidon by William-Adolphe Bouguereau \ud83e\udebd",
+   "price": 100,
+   "area": "sandiego",
+   "url": "https://www.craigslist.org/view/d/chula-vista-gorgeous-frame-cupidon-by/auz7fDJ9hGRsi1pn9y8h5Z",
+   "best": "Artwork Details",
+   "med": 40,
    "ratio": 0.4,
    "ai_value": ""
   },
@@ -42774,6 +42950,17 @@
    "area": "santabarbara",
    "url": "https://www.craigslist.org/view/d/goleta-mario-cspedes-seoane-signed/cH87kb7uYBcdEwAxHkKhKL",
    "best": "Etsy",
+   "med": 40,
+   "ratio": 0.16,
+   "ai_value": ""
+  },
+  {
+   "pid": "7955868546",
+   "title": "Collection Of Historic Delaware Artworks",
+   "price": 250,
+   "area": "delaware",
+   "url": "https://www.craigslist.org/view/d/wilmington-collection-of-historic/4MUrCzefzzczQqQnhFEkXs",
+   "best": "SKATERS ON THE BRANDYWINE,by Carolyn Anderson,1988 water ...",
    "med": 40,
    "ratio": 0.16,
    "ai_value": ""
@@ -45204,6 +45391,17 @@
    "price": 100,
    "area": "augusta",
    "url": "https://www.craigslist.org/view/d/montmorenci-tone-acoustic-guitar/tntBGsvypdpRJdwefCASGz",
+   "best": "eBay",
+   "med": null,
+   "ratio": null,
+   "ai_value": ""
+  },
+  {
+   "pid": "7947200302",
+   "title": "Lady quartz watches (both)\ud83d\udc40\u2764\ufe0f",
+   "price": 20,
+   "area": "inlandempire",
+   "url": "https://www.craigslist.org/view/d/temecula-lady-quartz-watches-both/tf55u1CXv9BkchmQ6BkzzS",
    "best": "eBay",
    "med": null,
    "ratio": null,

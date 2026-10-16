@@ -41361,3 +41361,28 @@
 {"pid":"ebay880001600454","stage":"photo_review","status":"kill","type":null,"note":"pale-green dragon censer 6in, titled jade at $150, has a crack; common modern decor censer $100-400","run":"ebay-20261015-2158","by":"scheduled-runner","data":{"verdict":"kill","source":"ebay"},"ts":"2026-10-16T00:28:54Z"}
 {"pid":"ebay407293198223","stage":"photo_review","status":"kill","type":null,"note":"SENSTONE modern quartz Nautilus homage, named in title","run":"ebay-20261015-2158","by":"scheduled-runner","data":{"verdict":"kill","source":"ebay"},"ts":"2026-10-16T00:28:54Z"}
 {"pid":"ebay237125898665","stage":"photo_review","status":"kill","type":null,"note":"Visconti pen named in title and damaged (needs restoration)","run":"ebay-20261015-2158","by":"scheduled-runner","data":{"verdict":"kill","source":"ebay"},"ts":"2026-10-16T00:28:54Z"}
+{"ts":"2026-10-16T00:28:48Z","pid":"7955143589","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Goebel — title does not","data":{"med":28,"ratio":1.4,"mismatch":["Goebel"]}}
+{"ts":"2026-10-16T00:28:55Z","pid":"7977419169","stage":"flagged","run":"lensworker-20261016-0025","note":null,"data":{"med":119,"ratio":2.98,"mismatch":[]}}
+{"ts":"2026-10-16T00:29:07Z","pid":"7941475613","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names British, King, Silver, Spanish — title does not","data":{"med":139,"ratio":1.99,"mismatch":["British","King","Silver","Spanish"]}}
+{"ts":"2026-10-16T00:29:16Z","pid":"7951738678","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Cherry, Liquor — title does not","data":{"med":15,"ratio":0.43,"mismatch":["Cherry","Liquor"]}}
+{"ts":"2026-10-16T00:29:25Z","pid":"7945323815","stage":"lensed","run":"lensworker-20261016-0025","note":null,"data":{"med":25,"ratio":0.25,"mismatch":[]}}
+{"ts":"2026-10-16T00:29:32Z","pid":"7930250870","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Silver — title does not","data":{"med":9,"ratio":0.9,"mismatch":["Silver"]}}
+{"ts":"2026-10-16T00:29:43Z","pid":"7937029511","stage":"lensed","run":"lensworker-20261016-0025","note":null,"data":{"med":27,"ratio":27,"mismatch":[]}}
+{"ts":"2026-10-16T00:29:49Z","pid":"7956276589","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Bastian Bros, County, Monroe — title does not","data":{"med":32,"ratio":0.64,"mismatch":["Bastian Bros","County","Monroe"]}}
+{"ts":"2026-10-16T00:29:56Z","pid":"7971218025","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Gold, Jewelry — title does not","data":{"med":59,"ratio":3.93,"mismatch":["Gold","Jewelry"]}}
+{"ts":"2026-10-16T00:30:07Z","pid":"7947200302","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Gold — title does not","data":{"med":null,"ratio":null,"mismatch":["Gold"]}}
+{"ts":"2026-10-16T00:30:18Z","pid":"7946099118","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names McCoy — title does not","data":{"med":69,"ratio":3.45,"mismatch":["McCoy"]}}
+{"ts":"2026-10-16T00:30:29Z","pid":"7955441678","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Jewelry — title does not","data":{"med":16,"ratio":0.46,"mismatch":["Jewelry"]}}
+{"ts":"2026-10-16T00:30:39Z","pid":"7946630989","stage":"lensed","run":"lensworker-20261016-0025","note":null,"data":{"med":54,"ratio":2.16,"mismatch":[]}}
+{"ts":"2026-10-16T00:30:51Z","pid":"7942463086","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Pink, Qing — title does not","data":{"med":1800,"ratio":60,"mismatch":["Pink","Qing"]}}
+{"ts":"2026-10-16T00:30:59Z","pid":"7944329719","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Accessories, Native, Silver, Size — title does not","data":{"med":285,"ratio":4.75,"mismatch":["Accessories","Native","Silver","Size"]}}
+{"ts":"2026-10-16T00:31:08Z","pid":"7960729923","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Indiana Glass, L.E. Smith, Noritake — title does not","data":{"med":49,"ratio":7,"mismatch":["Indiana Glass","L.E. Smith","Noritake"]}}
+{"ts":"2026-10-16T00:31:17Z","pid":"7937528583","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Artist — title does not","data":{"med":40,"ratio":0.4,"mismatch":["Artist"]}}
+{"ts":"2026-10-16T00:31:27Z","pid":"7955868546","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Artist, Reproductions — title does not","data":{"med":40,"ratio":0.16,"mismatch":["Artist","Reproductions"]}}
+{"ts":"2026-10-16T00:31:35Z","pid":"7945322901","stage":"lensed","run":"lensworker-20261016-0025","note":null,"data":{"med":45,"ratio":0.9,"mismatch":[]}}
+{"ts":"2026-10-16T00:31:44Z","pid":"7952472131","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names School — title does not","data":{"med":695,"ratio":1.99,"mismatch":["School"]}}
+{"ts":"2026-10-16T00:31:53Z","pid":"7984195404","stage":"lensed","run":"lensworker-20261016-0025","note":null,"data":{"med":null,"ratio":null,"mismatch":[]}}
+{"ts":"2026-10-16T00:32:00Z","pid":"7984243122","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Gold — title does not","data":{"med":27,"ratio":1.35,"mismatch":["Gold"]}}
+{"ts":"2026-10-16T00:32:09Z","pid":"7933577798","stage":"flagged","run":"lensworker-20261016-0025","note":"Lens names Amber, Silver — title does not","data":{"med":625,"ratio":2.4,"mismatch":["Amber","Silver"]}}
+{"ts":"2026-10-16T00:32:20Z","pid":"7971247056","stage":"lensed","run":"lensworker-20261016-0025","note":null,"data":{"med":14,"ratio":0.35,"mismatch":[]}}
+{"ts":"2026-10-16T00:32:29Z","pid":"7937613294","stage":"lensed","run":"lensworker-20261016-0028","note":null,"data":{"med":32,"ratio":2.13,"mismatch":[]}}
