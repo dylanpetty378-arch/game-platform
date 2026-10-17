@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-17T04:54:05Z
+# Refurbish status — 2026-10-17T12:53:22Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,14 +7,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 9044 |
-| queued | 5303 |
+| queued | 6103 |
 | flagged | 4215 |
 | lensed | 1350 |
 | queued/relens | 486 |
 | decided/kill | 127 |
-| decided/ask | 91 |
+| decided/ask | 90 |
 | decided/find | 29 |
-| expired | 21 |
+| expired | 22 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 22
-- searches: 4882
-- listings: 20396
+- harvests: 23
+- searches: 5115
+- listings: 21196
 - lens: 13549
-- events: 46712
-- comps: 3748
+- events: 47513
+- comps: 3749
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261016-1245 — 40919 listings, 40550 new, 800 queued
 - craigslist-20261016-1325 — 49716 listings, 48425 new, 800 queued
 - craigslist-20261016-1956 — 125583 listings, 124303 new, 800 queued
 - craigslist-20261016-2259 — 116750 listings, 115220 new, 800 queued
 - craigslist-20261017-0442 — 82716 listings, 81639 new, 800 queued
+- craigslist-20261017-1231 — 33568 listings, 33203 new, 800 queued
 
-## Finds and open leads (123)
+## Finds and open leads (122)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -90,7 +90,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00o0o_h0Mt57mfIfL_0t20CI_300x300.jpg" width="160"> | [Vintage Schramberg German Vase](https://www.craigslist.org/view/d/minneapolis-vintage-schramberg-german/ctkaCwjeVGWp44LXQ6rzuy) | $30 | minneapolis | **decided/ask** — text-triage L1: SMF Schramberg (Schramberger Majolikafabrik) hand-painted Art Deco pitcher (seller calls it a vase), 6", shield mark "Handpainted SMF Germany" (1920s-30s). Value hinges on whether the decor is an Eva Zeis |
 | <img src="https://images.craigslist.org/00L0L_9SrJBaaCja1_0wm0t2_300x300.jpg" width="160"> | [Vintage Christmas Brooch Pins Lots](https://www.craigslist.org/view/d/coraopolis-vintage-christmas-brooch/v9K6idU9Tfv7sFPPmxxjHm) | $25 | pittsburgh | **decided/ask** — text-triage F2: Christmas pin lots priced per sub-lot; the "Christmas Tree lot" ($25) has 5 enamel/rhinestone trees + Danforth pewter scatter pin on card. Ask for photos of the BACK of each tree pin: looking for Eisenber |
 | <img src="https://images.craigslist.org/00K0K_kS6jugZVNag_0CI0lM_300x300.jpg" width="160"> | [ANTIQUE MINTON'S CREAMER & SUGAR](https://www.craigslist.org/view/d/chicago-antique-mintons-creamer-sugar/2o5rtx75Y8DSgoHfzR8MAk) | $25 | chicago | **decided/ask** — text-triage F2: Mintons (crowned globe, "EST 1793 ENGLAND", Rd No 566884, PAT DEC 20 1910, red hand pattern no. ~"B833") Edwardian bone china enamelled-floral breakfast set: teapot, chocolate/coffee pot, covered butter o |
-| <img src="https://images.craigslist.org/00O0O_8OS21bYovI5_0CI0t2_300x300.jpg" width="160"> | [Men's Watch Lot](https://www.craigslist.org/view/d/fresno-mens-watch-lot/si3Y2gJG6BdXpVo7NGCMxD) | $50 | fresno | **decided/ask** — text-triage F5: ~45 watches + aluminum case of more, all need batteries/repair; mostly fashion quartz (Fossil, Timex, Bulova Marine Star quartz), several pocket watches, a Nixon, and a Tiffany & Co pouch in the case. Fas |
 | <img src="https://images.craigslist.org/01313_2wmLInBXg5F_0Mo12w_300x300.jpg" width="160"> | [Unique Vintage Handmade 2 Handle Jug Pottery Canteen Handing](https://www.craigslist.org/view/d/fresno-unique-vintage-handmade-handle/rsoyvk4E7Uhg1xFUzh8wCv) | $15 | fresno | **decided/ask** — text-triage F3: 5" handmade stoneware canteen/bottle, wax-resist panels over iron-oxide, two lugs with leather strap – 1960s-70s studio work. Ask for a photo of the base for an incised signature or chop mark; unsigned is |
 | <img src="https://images.craigslist.org/00k0k_c2zlFPOtIFF_0CI0t2_300x300.jpg" width="160"> | [Vintage Old Costume Jewelry from 1950's to 1970's Nice](https://www.craigslist.org/view/d/sacramento-vintage-old-costume-jewelry/brPiTpjRkzK1vfQ3DN1Qcd) | $120 | sacramento | **decided/ask** — text-triage L3: Lot $120: tonneau-case Mickey Mouse watch with Mickey's arms as hands and "©WDP" on dial — 1947-50s Ingersoll/U.S. Time (seller says 1958, needs work), plus pair of antique cut-steel shoe buckles, carved  |
 | <img src="https://images.craigslist.org/00m0m_2SDGWP7u3CG_0CI0t2_300x300.jpg" width="160"> | [vintage microsecope](https://www.craigslist.org/view/d/la-crescenta-vintage-microsecope/ceoaYpUu4a51Ft5kSHzTDx) | $25 | losangeles | **decided/ask** — text-triage F1: Bausch & Lomb 'jug-handle' stand (black-japanned horseshoe foot, lacquered-brass coarse knob, c.1900-1920) at $25. Entry ladder: B&L black-and-brass 1900-30 $200-600, lab monocular $60-175 (general knowle |
