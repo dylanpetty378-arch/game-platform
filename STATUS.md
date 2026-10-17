@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-17T16:28:41Z
+# Refurbish status — 2026-10-17T19:09:17Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -7,14 +7,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | stage | listings |
 |---|---|
 | photo_review/kill | 9044 |
-| queued | 6903 |
+| queued | 7703 |
 | flagged | 4214 |
 | lensed | 1350 |
 | queued/relens | 486 |
 | decided/kill | 127 |
-| decided/ask | 90 |
+| decided/ask | 89 |
 | decided/find | 29 |
-| expired | 23 |
+| expired | 24 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 24
-- searches: 5347
-- listings: 21996
+- harvests: 25
+- searches: 5579
+- listings: 22796
 - lens: 13549
-- events: 48314
-- comps: 3951
+- events: 49115
+- comps: 4153
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261016-1956 — 125583 listings, 124303 new, 800 queued
 - craigslist-20261016-2259 — 116750 listings, 115220 new, 800 queued
 - craigslist-20261017-0442 — 82716 listings, 81639 new, 800 queued
 - craigslist-20261017-1231 — 33568 listings, 33203 new, 800 queued
 - craigslist-20261017-1601 — 88036 listings, 86342 new, 800 queued
+- craigslist-20261017-1849 — 127179 listings, 124797 new, 800 queued
 
-## Finds and open leads (122)
+## Finds and open leads (121)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -60,7 +60,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00H0H_2hjgy65jR6o_0CI0t2_300x300.jpg" width="160"> | [Vintage African Wildlife Figurines](https://www.craigslist.org/view/d/wrentham-vintage-african-wildlife/eCxn4rpo5SvUr4UqgcG8h8) | $50 | nh | **decided/ask** — Terapeak 365d sold: Tonalá papier-mâché hippo sold $64 (n=1, thin). 7 pieces for $50 → up to ~$300. ASK underside photos for SERMEL stamp. |
 | <img src="https://images.craigslist.org/00505_l5bzpY4sZKe_0t20CI_300x300.jpg" width="160"> | [Vintage Radio’s](https://www.craigslist.org/view/d/saginaw-vintage-radios/cGy8D7eYEqx5C86dXpxBao) | $10 | lansing | **decided/ask** — Terapeak 365d sold: Led Zeppelin II "RL" median $238 (n=50, p75 $425). ASK if for sale + dead-wax photo (RL/SS). ~$170 profit at $10. |
 | <img src="https://images.craigslist.org/00p0p_kXFVhnuR5SG_0CI0t2_300x300.jpg" width="160"> | [Vintage Plastic Bracelets](https://www.craigslist.org/view/d/carson-vintage-plastic-bracelets/bWYeZwtowyX5afUvJ6eq9i) | $25 | santamaria | **decided/ask** — Terapeak 365d sold: Bakelite spacer bangles median $38 (n=50). 9 for $25 → ~$250 if Bakelite. ASK Simichrome/hot-water test. |
-| <img src="https://images.craigslist.org/00n0n_lcUDSWcDygf_0CI0t2_300x300.jpg" width="160"> | [Antique Hampden pocket watch](https://www.craigslist.org/view/d/loveland-antique-hampden-pocket-watch/t2Xv1wafQzZdpFW7FLPxWv) | $40 | fortcollins | **decided/ask** — Terapeak 365d sold: Dueber-Hampden hunter-case watches median $135 (n=50). ~$53 profit at $40. ASK: runs? case marked 14K or GF? |
 | <img src="https://images.craigslist.org/00D0D_4ySucBP9X8h_0CI0t2_300x300.jpg" width="160"> | [OLD  M.C. HELMETS](https://www.craigslist.org/view/d/new-castle-old-mc-helmets/rf3rLAPfNtujMzh2k7sBjJ) | $100 | delaware | **decided/ask** — Current-process redo: Terapeak Bell 500-TX median $800 (n=50, p25 $439) vs generic metalflake open-face $50 (n=47). Ask for inside label/DOT sticker photos: Bell 500-TX = Tier A, else kill. |
 | <img src="https://images.craigslist.org/00m0m_2IWbGJRna6C_0lM0t2_300x300.jpg" width="160"> | [Limoges T&V Art Deco Vase](https://www.craigslist.org/view/d/sacramento-limoges-tv-art-deco-vase/dPqPkAGxvAscrmNcAgG6kq) | $100 | sacramento | **decided/ask** — Terapeak 365d sold: Pickard Limoges vases median $251 (n=6). Only if Pickard-decorated. OFFER $70 → ~$118 profit. ASK base photo. |
 | <img src="https://images.craigslist.org/00m0m_jGRiE1HgQJx_0t20CI_300x300.jpg" width="160"> | [Salt Glazed Stoneware Jug](https://www.craigslist.org/view/d/louisville-salt-glazed-stoneware-jug/vqe8MYwV3Ts1nP6TdSoJdU) | $50 | boulder | **decided/ask** — Current-process redo: Terapeak cobalt-decorated salt-glaze jugs median $70, p75 $185 (n=50). Unmarked loses at $50; a named potter (raking-light base photo) reaches p75 -> ~$71 profit. |
