@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-18T13:05:31Z
+# Refurbish status — 2026-10-18T19:25:19Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,15 +6,15 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 10103 |
+| queued | 10903 |
 | photo_review/kill | 9044 |
 | flagged | 4213 |
 | lensed | 1350 |
 | queued/relens | 486 |
 | decided/kill | 127 |
-| decided/ask | 89 |
+| decided/ask | 88 |
 | decided/find | 29 |
-| expired | 25 |
+| expired | 26 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 28
-- searches: 6272
-- listings: 25196
+- harvests: 29
+- searches: 6503
+- listings: 25996
 - lens: 13549
-- events: 51516
-- comps: 4755
+- events: 52317
+- comps: 4955
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261017-1601 — 88036 listings, 86342 new, 800 queued
 - craigslist-20261017-1849 — 127179 listings, 124797 new, 800 queued
 - craigslist-20261017-2232 — 121375 listings, 119249 new, 800 queued
 - craigslist-20261018-0456 — 79272 listings, 78295 new, 800 queued
 - craigslist-20261018-1251 — 34108 listings, 33646 new, 800 queued
+- craigslist-20261018-1901 — 119030 listings, 117142 new, 800 queued
 
-## Finds and open leads (121)
+## Finds and open leads (120)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -65,7 +65,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00m0m_jGRiE1HgQJx_0t20CI_300x300.jpg" width="160"> | [Salt Glazed Stoneware Jug](https://www.craigslist.org/view/d/louisville-salt-glazed-stoneware-jug/vqe8MYwV3Ts1nP6TdSoJdU) | $50 | boulder | **decided/ask** — Current-process redo: Terapeak cobalt-decorated salt-glaze jugs median $70, p75 $185 (n=50). Unmarked loses at $50; a named potter (raking-light base photo) reaches p75 -> ~$71 profit. |
 | <img src="https://images.craigslist.org/00Q0Q_9N82Ly4zRM0_0t20CI_300x300.jpg" width="160"> | [Antique Sword](https://www.craigslist.org/view/d/studio-city-antique-sword/gGHMeyMbJzZ2iNGcZCL3jQ) | $50 | losangeles | **decided/ask** — Terapeak 365d sold: WWII kukris median $168 (n=20). ~$56 profit at $50 if military-issue (broad arrow/dated). ASK blade stamps. |
 | <img src="https://images.craigslist.org/00505_b7fYOFLsuBk_0wA0t2_300x300.jpg" width="160"> | [Vintage antique rhinestone necklace](https://www.craigslist.org/view/d/vista-vintage-antique-rhinestone/usP7jFUADE9yBq89EK2wPG) | $15 | sandiego | **decided/ask** — Terapeak 365d sold: Weiss rhinestone necklaces median $99 (n=50). Signed → ~$47 profit at $15. ASK clasp photo. |
-| <img src="https://images.craigslist.org/00R0R_aYHg8Mxolj6_0jm0pO_300x300.jpg" width="160"> | [Turquoise Jewelry](https://www.craigslist.org/view/d/yuma-turquoise-jewelry/gZC6qRF6A7CoDVNuop4SSZ) | $20 | yuma | **decided/ask** — Terapeak 365d sold: Zuni channel-inlay cuffs median $135 (n=50). ~$73 profit at $20. ASK hallmark/sterling stamp. |
 | <img src="https://images.craigslist.org/00U0U_i0qJtwG8gku_0t20CI_300x300.jpg" width="160"> | [HUMMEL COLLECTION 17](https://www.craigslist.org/view/d/nipomo-hummel-collection-17/s4NyKeHHxy52QYSJHuzzMY) | $195 | slo | **decided/ask** — Terapeak 365d sold: Hummel full-bee singles ~$25. 17 (11 full-bee) worth ~$365 → at $195 fails; OFFER $120 → ~$158 profit. |
 | <img src="https://images.craigslist.org/00X0X_3K2daRQc53K_0CI0t2_300x300.jpg" width="160"> | [Vintage Film Cameras and Accessories](https://www.craigslist.org/view/d/mesquite-vintage-film-cameras-and/7x4ZFmPnkJhVbbwvcVbYEe) | $100 | images | **decided/find** — Terapeak 365d sold: Nikon F2 Photomic black median $225 (n=47) + SX-70 ~$125. ~$175 profit at $100. |
 | <img src="https://images.craigslist.org/01515_dzGfAYajjsB_0CI0pP_300x300.jpg" width="160"> | [Antique Brass Andirons](https://www.craigslist.org/view/d/chino-valley-antique-brass-andirons/1sVJ42YBxxeRtN6dzua5wC) | $150 | images | **decided/find** — Terapeak 365d sold: Louis XV gilt-bronze chenets median $600 (n=3, thin). Heavy, ~$30 each way. ~$310 profit at $150. |
