@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-19T16:00:07Z
+# Refurbish status — 2026-10-19T21:27:41Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,15 +6,15 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 13303 |
+| queued | 14103 |
 | photo_review/kill | 9044 |
-| flagged | 4213 |
+| flagged | 4212 |
 | lensed | 1350 |
 | queued/relens | 486 |
 | decided/kill | 127 |
 | decided/ask | 87 |
 | decided/find | 29 |
-| expired | 27 |
+| expired | 28 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
@@ -23,22 +23,22 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 32
-- searches: 7193
-- listings: 28396
+- harvests: 33
+- searches: 7422
+- listings: 29196
 - lens: 13549
-- events: 54718
-- comps: 5552
+- events: 55519
+- comps: 5751
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261018-1251 — 34108 listings, 33646 new, 800 queued
 - craigslist-20261018-1901 — 119030 listings, 117142 new, 800 queued
 - craigslist-20261018-2241 — 112070 listings, 110435 new, 800 queued
 - craigslist-20261019-0457 — 83404 listings, 82062 new, 800 queued
 - craigslist-20261019-1549 — 88273 listings, 86336 new, 800 queued
+- craigslist-20261019-2115 — 124935 listings, 122700 new, 800 queued
 
 ## Finds and open leads (119)
 
@@ -164,7 +164,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00u0u_guUrSqZvUJ0_0t20CI_300x300.jpg" width="160"> | [English accordion ( concertina)](https://www.craigslist.org/view/d/oklahoma-city-english-accordion/rz1aZZ1sRDhLsrwvgNxibY) | $200 | oklahomacity | **decided/ask** — Genuine English-system concertina (not a German/Anglo): hexagonal rosewood fretted ends with brass/MOP-style inlay, 4 rows of buttons (about 48-key treble), English thumb strap and brass finger plate, 6-fold papered bell |
 | <img src="https://images.craigslist.org/00Y0Y_9znexJGs6Nz_0oP0kh_300x300.jpg" width="160"> | [Large Albumen Print GARIBALDI'S RED-SHIRTS(?) Army Reunion I](https://www.craigslist.org/view/d/concord-large-albumen-print-garibaldis/4aBSkZd1YHnJnU5KfeKoLi) | $50 | nh | **decided/ask** — Large albumen print, image 16 x 12.5 in, re-matted, c. 1880s. NOT Garibaldi Red Shirts: a painted studio forest backdrop, men in pointed 'brigand' caps, knives, a lantern and a woman in the group read as a theatrical cas |
 
-## Flagged by Lens, waiting for photo review (4213)
+## Flagged by Lens, waiting for photo review (4212)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
