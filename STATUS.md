@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-19T05:09:36Z
+# Refurbish status — 2026-10-19T16:00:07Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,15 +6,15 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 12503 |
+| queued | 13303 |
 | photo_review/kill | 9044 |
 | flagged | 4213 |
 | lensed | 1350 |
 | queued/relens | 486 |
 | decided/kill | 127 |
-| decided/ask | 88 |
+| decided/ask | 87 |
 | decided/find | 29 |
-| expired | 26 |
+| expired | 27 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
 | decided/bundle | 4 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 31
-- searches: 6963
-- listings: 27596
+- harvests: 32
+- searches: 7193
+- listings: 28396
 - lens: 13549
-- events: 53917
-- comps: 5353
+- events: 54718
+- comps: 5552
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261018-0456 — 79272 listings, 78295 new, 800 queued
 - craigslist-20261018-1251 — 34108 listings, 33646 new, 800 queued
 - craigslist-20261018-1901 — 119030 listings, 117142 new, 800 queued
 - craigslist-20261018-2241 — 112070 listings, 110435 new, 800 queued
 - craigslist-20261019-0457 — 83404 listings, 82062 new, 800 queued
+- craigslist-20261019-1549 — 88273 listings, 86336 new, 800 queued
 
-## Finds and open leads (120)
+## Finds and open leads (119)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -83,7 +83,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00k0k_3vEOfZYvV2p_05r07g_300x300.jpg" width="160"> | [VINTAGE FABERGE ENAMEL EGG PENDANT](https://www.craigslist.org/view/d/wyoming-vintage-faberge-enamel-egg/nLp6xxRfTZGjNW7x56ssTA) | $50 | grandrapids | **decided/ask** — text-triage L1: Red/green enamel egg pendant on wire collar sold as "Faberge"; looks like a Faberge-style souvenir (no hallmark visible). Real Faberge/Victor Mayer egg pendants carry FABERGE + VM + 18K/925 marks on the c |
 | <img src="https://images.craigslist.org/00x0x_7TBXhvpc2b7_07K0ak_300x300.jpg" width="160"> | [*Antique fiddle bow*](https://www.craigslist.org/view/d/mandeville-antique-fiddle-bow/r3qRaSgHCvu5e2VtTZAJnk) | $75 | neworleans | **decided/ask** — text-triage F3: 29.5" violin bow, round pernambuco-colored stick, ebony frog with nickel mounts and pearl eye, silver-wire wrap, 48.8 g (light); seller says "possibly Mirecourt c.1920s". 12 photos show no brand stamp. As |
 | <img src="https://images.craigslist.org/00V0V_dGZSsOXo0V5_09G03K_300x300.jpg" width="160"> | [WWII US M3 CASE 1943 KNIFE](https://www.craigslist.org/view/d/yakima-wwii-us-m3-case-1943-knife/i7Hcuk756VG3uuDbb2nVNs) | $100 | yakima | **decided/ask** — Terapeak 365d sold: US M3 trench knives (Case) median $235 (n=31). OFFER $50 for the M3 → ~$131. ASK ricasso maker mark. |
-| <img src="https://images.craigslist.org/00r0r_cjWfJ7PAvej_0mB0t2_300x300.jpg" width="160"> | [Vintage Patty Hearst Tania SLA Poster](https://www.craigslist.org/view/d/garden-grove-vintage-patty-hearst-tania/67mgvrXgPbuaZ3CZU9z7uC) | $100 | orangecounty | **decided/ask** — Terapeak 365d sold: original 1974 Tania posters median $250 (n=12). OFFER $70 → ~$117. ASK paper edge/back photo. |
 | <img src="https://images.craigslist.org/00z0z_7x6KsQ6tUU8_0CI0lM_300x300.jpg" width="160"> | [1917 Elgin pocket watch](https://www.craigslist.org/view/d/geneseo-1917-elgin-pocket-watch/joWUX1mkWqHBwhCHA1jiU2) | $150 | peoria | **decided/ask** — text-triage F4: 1917 Elgin small-size HUNTER case watch, engraved scroll lid, inner lid engraved presentation "...from Father & Mother...", seller says it runs. Value hinges on the case: ask for a clear photo of the stam |
 | <img src="https://images.craigslist.org/00o0o_h0Mt57mfIfL_0t20CI_300x300.jpg" width="160"> | [Vintage Schramberg German Vase](https://www.craigslist.org/view/d/minneapolis-vintage-schramberg-german/ctkaCwjeVGWp44LXQ6rzuy) | $30 | minneapolis | **decided/ask** — text-triage L1: SMF Schramberg (Schramberger Majolikafabrik) hand-painted Art Deco pitcher (seller calls it a vase), 6", shield mark "Handpainted SMF Germany" (1920s-30s). Value hinges on whether the decor is an Eva Zeis |
 | <img src="https://images.craigslist.org/00L0L_9SrJBaaCja1_0wm0t2_300x300.jpg" width="160"> | [Vintage Christmas Brooch Pins Lots](https://www.craigslist.org/view/d/coraopolis-vintage-christmas-brooch/v9K6idU9Tfv7sFPPmxxjHm) | $25 | pittsburgh | **decided/ask** — text-triage F2: Christmas pin lots priced per sub-lot; the "Christmas Tree lot" ($25) has 5 enamel/rhinestone trees + Danforth pewter scatter pin on card. Ask for photos of the BACK of each tree pin: looking for Eisenber |
