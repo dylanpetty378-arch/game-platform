@@ -134,7 +134,7 @@ def sheetpool():
 if __name__ == '__main__':
     a = sys.argv[1:]
     if not a: print(__doc__)
-    elif a[0] == 'pool': pool(float(a[1]) if len(a) > 1 else 24)
+    elif a[0] == 'pool': pool(float(a[1]) if len(a) > 1 else 24, float(a[2]) if len(a) > 2 else 10)
     elif a[0] == 'sheetpool': sheetpool()
     elif a[0] == 'detail': detail()
     elif a[0] == 'flags': flags(a[1])

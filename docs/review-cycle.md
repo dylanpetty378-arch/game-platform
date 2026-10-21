@@ -11,7 +11,7 @@ Take longer per item and research deeply. Everything learned goes into the encyc
   `git clone --depth 200 -b refurbish https://github.com/dylanpetty378-arch/game-platform && cd game-platform`.
 - `git config user.email noreply@anthropic.com && git config user.name Claude`. Read `docs/START-HERE.md`.
 
-## 0b. Golden-egg loop (Oct 13 2026 — runs FIRST, every cycle)
+## 0b. Golden-egg loop (Oct 13 2026) — SUPERSEDED for normal runs by docs/low-usage.md (Oct 21 2026); kept for reference
 Dylan: "A hundred dollars profit isn't a golden egg." Eggs = worth $1,000+ (or ≥10× realistic price), unrecognised,
 shippable. Profitable leads are still filed (the "most profitable" list), but eggs are the goal. Dylan does at most
 ONE in-person stop a weekend, and only for an egg — so the sources are shipped first.

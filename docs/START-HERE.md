@@ -1,6 +1,11 @@
 # Refurbish — START HERE
 
 **Read this first, every session.** It is the whole project in one page; the other docs go deeper.
+
+> **Low-usage mode is the default since Oct 21 2026 (Dylan is conserving Claude usage): follow `docs/low-usage.md`.**
+> Free GitHub Actions build a ~1,000-photo shortlist daily (text filters + CLIP + encyclopedia type match); 2–3 Sonnet
+> eye agents screen it with the matched encyclopedia money tells; the main session deep-reviews only the flags.
+> No Opus eye agents, no browser sweeps, no 3-hourly runs.
 Branch `refurbish` of github.com/dylanpetty378-arch/game-platform (public repo — never commit personal details:
 no names of family, emails, phone numbers, home address. Seller relay emails/phones go in chat, not here).
 
