@@ -45,6 +45,9 @@ jobs:
           H=${{ github.event.inputs.hours || '26' }}
           if [ -n "$EBAY_CLIENT_ID" ]; then python3 scripts/ebay_eggs.py pool $H $H || echo 'eBay pool failed - using the last one'; fi
       - name: Shortlist (text + CLIP + encyclopedia)
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
         run: |
           H=${{ github.event.inputs.hours || '26' }}
           python3 scripts/shortlist.py --n ${{ github.event.inputs.n || '1000' }} --sgw-hours $H --ebay-hours $H
