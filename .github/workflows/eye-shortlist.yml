@@ -1,0 +1,56 @@
+# Refurbish low-usage mode (Oct 21 2026): free daily shortlist for the Claude eye. Code on branch `refurbish`.
+# 1) fresh eBay casual-seller auction pool (ending within 26 h + newly listed in the last 26 h)
+# 2) ShopGoodwill lots ending within 26 h (public API)
+# 3) text filters + CLIP image scoring + encyclopedia type match -> research/pools/shortlist.json (~1,000 photos)
+# The daily Claude session (scheduled task "Refurbish review cycle") reads the shortlist about 40 min later.
+# The same file lives on main (for the schedule) and on refurbish (for the push request) — keep them identical.
+# Free: standard runners on a public repo. Turn off: repo -> Actions -> eye-shortlist -> Disable.
+name: eye-shortlist
+on:
+  schedule:
+    - cron: '47 10 * * *'        # 10:47 UTC = 5:47 am Central (summer) / 4:47 am (winter)
+  workflow_dispatch:
+    inputs:
+      n: {description: 'photos on the shortlist', default: '1000'}
+      hours: {description: 'window in hours', default: '26'}
+  push:
+    branches: [refurbish]
+    paths: ['ops/shortlist-request']   # any Claude session can ask for a fresh shortlist by committing this file
+concurrency: {group: eye-shortlist, cancel-in-progress: false}
+permissions: {contents: write}
+jobs:
+  shortlist:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: refurbish, fetch-depth: 20}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/huggingface
+          key: refurbish-clip-v1
+      - name: Install image model (CPU)
+        run: |
+          pip install -q torch torchvision --index-url https://download.pytorch.org/whl/cpu
+          pip install -q open_clip_torch pillow wordfreq
+      - name: eBay pool
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: |
+          H=${{ github.event.inputs.hours || '26' }}
+          if [ -n "$EBAY_CLIENT_ID" ]; then python3 scripts/ebay_eggs.py pool $H $H || echo 'eBay pool failed - using the last one'; fi
+      - name: Shortlist (text + CLIP + encyclopedia)
+        run: |
+          H=${{ github.event.inputs.hours || '26' }}
+          python3 scripts/shortlist.py --n ${{ github.event.inputs.n || '1000' }} --sgw-hours $H --ebay-hours $H
+      - name: Commit
+        run: |
+          git config user.name refurbish-bot; git config user.email refurbish-bot@users.noreply.github.com
+          git add research/pools/shortlist.json research/pools/shown.json research/enc_digest.json research/pools/ebay-latest.json
+          git commit -qm "eye shortlist $(date -u +%FT%H:%MZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase -X theirs origin refurbish && git push -q origin HEAD:refurbish && exit 0; sleep $((i*10)); done; exit 1

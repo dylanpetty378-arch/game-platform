@@ -2,8 +2,7 @@
 # Uses the EBAY_CLIENT_ID / EBAY_CLIENT_SECRET secrets; api.ebay.com is unreachable from Claude's container.
 name: ebay-eggs
 on:
-  schedule:
-    - cron: '41 */6 * * *'
+  # schedule removed Oct 21 2026: eye-shortlist.yml pulls a fresh pool daily (low-usage mode); dispatch still works
   workflow_dispatch:
     inputs:
       hours: {description: 'auctions ending within N hours', default: '24'}
