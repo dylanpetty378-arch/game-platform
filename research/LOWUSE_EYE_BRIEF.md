@@ -25,6 +25,9 @@ little the title says). Your job is the judgement the ranker can't make: **is th
    $300–1,200" — not "nice ring".
 
 ## Flag discipline
+- **The title already names the maker/artist/model → do not flag** unless the photo shows a clearly higher variant than the
+  title claims (first run: 7 of 9 flags were titles that named the maker and were all killed). The money is in what the
+  seller did NOT say.
 - Aim for **0–2 flags per sheet**; a flag costs a deep review with web research. Flag when the visible evidence makes
   the money version *plausible* (≥ ~1 in 5), not merely possible.
 - Mark each flag EGG (if it is what it looks like, $1,000+) or LEAD (clears the profit rule, specific maker named).
