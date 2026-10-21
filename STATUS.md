@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-21T20:30:53Z
+# Refurbish status — 2026-10-21T23:44:35Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,15 +6,15 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 19703 |
+| queued | 20503 |
 | photo_review/kill | 9044 |
 | flagged | 4208 |
 | lensed | 1350 |
 | queued/relens | 486 |
-| decided/kill | 127 |
+| decided/kill | 134 |
 | decided/ask | 87 |
 | expired | 33 |
-| decided/find | 29 |
+| decided/find | 31 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
 | decided/bundle | 3 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 40
-- searches: 9025
-- listings: 34796
+- harvests: 41
+- searches: 9254
+- listings: 35605
 - lens: 13549
-- events: 61124
-- comps: 7144
+- events: 61933
+- comps: 7343
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261020-2013 — 128967 listings, 126770 new, 800 queued
 - craigslist-20261020-2319 — 117022 listings, 114846 new, 800 queued
 - craigslist-20261021-0505 — 86236 listings, 84595 new, 800 queued
 - craigslist-20261021-1401 — 54789 listings, 53629 new, 800 queued
 - craigslist-20261021-2021 — 122856 listings, 120436 new, 800 queued
+- craigslist-20261021-2332 — 115454 listings, 112696 new, 800 queued
 
-## Finds and open leads (119)
+## Finds and open leads (121)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -163,6 +163,8 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00O0O_6pLwPWxENk_0CI0r1_300x300.jpg" width="160"> | [JOHN GOULD (1804-1881), PUFFINUS MAJOR, "GREAT SHEARWATER" 3](https://www.craigslist.org/view/d/portland-john-gould-puffinus-major/qtYihhcFTmDipHxc8gtXZa) | $100 | portland | **decided/ask** — John Gould & H.C. Richter 'Puffinus major, Fab.' (Great Shearwater). The lower margin reads 'J.Gould & H.C.Richter del et lith.' and 'Walter Imp.', the imprint of The Birds of Great Britain (1862-73) imperial folio, not  |
 | <img src="https://images.craigslist.org/00u0u_guUrSqZvUJ0_0t20CI_300x300.jpg" width="160"> | [English accordion ( concertina)](https://www.craigslist.org/view/d/oklahoma-city-english-accordion/rz1aZZ1sRDhLsrwvgNxibY) | $200 | oklahomacity | **decided/ask** — Genuine English-system concertina (not a German/Anglo): hexagonal rosewood fretted ends with brass/MOP-style inlay, 4 rows of buttons (about 48-key treble), English thumb strap and brass finger plate, 6-fold papered bell |
 | <img src="https://images.craigslist.org/00Y0Y_9znexJGs6Nz_0oP0kh_300x300.jpg" width="160"> | [Large Albumen Print GARIBALDI'S RED-SHIRTS(?) Army Reunion I](https://www.craigslist.org/view/d/concord-large-albumen-print-garibaldis/4aBSkZd1YHnJnU5KfeKoLi) | $50 | nh | **decided/ask** — Large albumen print, image 16 x 12.5 in, re-matted, c. 1880s. NOT Garibaldi Red Shirts: a painted studio forest backdrop, men in pointed 'brigand' caps, knives, a lantern and a woman in the group read as a theatrical cas |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/EkUAAeSwNiVq2M85/s-l500.jpg_300x300.jpg" width="160"> | [Vintage Navajo Silver and Turquoise 3-Stone Cuff Bracelet 48](https://www.ebay.com/itm/377587596376) | $35.0 |  | **decided/find** — Navajo 3-stone cuff, 48 g, natural-looking stones; only first photo seen - check hallmark/smith signature and stone type before bidding |
+| <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/C5UAAeSwxw1q19xI/s-l500.jpg_300x300.jpg" width="160"> | [Antique Lyons 1 Gallon Stoneware Crock With Bright Floral De](https://www.ebay.com/itm/237134645778) | $1.0 |  | **decided/find** — Impressed LYONS (NY) salt-glazed crock, brushed cobalt flower; Crocker Farm sold a 1-gal Lyons floral crock $480 (Nov 2025); ask size, chips, hairlines |
 
 ## Flagged by Lens, waiting for photo review (4208)
 
