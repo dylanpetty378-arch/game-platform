@@ -555,3 +555,14 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   had later photos unread (6 of 66 in one range). Consider a second panel page for >12 photos in hallmark_panels.py.
 - health: no FAIL. WARN Lens worker 17.5 h stale, review backlog 4,216, text-triage backlog 1,350.
 - Counts this run: eBay 1,900 thumbnails + 399 marking panels; eggs 0; leads 0.
+
+## 2026-10-21 23:20 UTC — first low-usage run (docs/low-usage.md)
+- Free shortlist (eye-shortlist workflow, 33 min): pool eBay 27,862 + SGW 8,756 → text drops (junk 12,112, maker named 4,345,
+  sports 603, price/bids 896) → CLIP-scored 18,652 → shortlist 1,010 (eBay 760, SGW 250); 933 still live at prep → 20 sheets.
+- Eye: 3 Sonnet agents (~140k tokens each incl. 6–7 sheet images) → 9 flags (1 EGG, 8 LEAD). Main session: one composite image of
+  the flags + 3 searches + 1 fetch.
+- Verdicts: LEAD eb377587596376 Navajo 3-stone cuff 48 g ($35, max $60, check marks); LEAD eb237134645778 impressed LYONS NY
+  cobalt-flower crock ($1, max $70; Crocker Farm 1-gal Lyons floral $480 Nov 2025). Kills: cast replica bust dollar, modern face jug,
+  Gesso reprint (named), Moorcroft-style painted vase (named), Meydam bowl (named), Nikonos V kit (3× electronics rule), modern vase.
+- Bug fixed: shortlist step lacked EBAY_* env, so eBay rows had no extra photos/description this run (SGW details OK).
+- Watch: 7 of 9 flags were titles that already named the maker (seller knows) — tighten the eye brief or the maker filter if this repeats.
