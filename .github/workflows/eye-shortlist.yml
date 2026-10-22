@@ -42,9 +42,17 @@ jobs:
             ~/.cache/pip
             ~/.cache/huggingface
           key: refurbish-clip-v1
-      - name: Install image model (CPU)
+      - name: Restore similar-sold store (derived; rebuilt from db/outcomes if lost)
+        if: steps.fresh.outputs.skip != '1'
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/knn
+          key: knn-${{ github.run_id }}
+          restore-keys: knn-
+      - name: Install image model (CPU) and OCR
         if: steps.fresh.outputs.skip != '1'
         run: |
+          sudo apt-get install -y -q tesseract-ocr > /dev/null
           pip install -q torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install -q open_clip_torch pillow wordfreq
       - name: eBay pool
@@ -55,7 +63,16 @@ jobs:
         run: |
           H=${{ github.event.inputs.hours || '26' }}
           if [ -n "$EBAY_CLIENT_ID" ]; then python3 scripts/ebay_eggs.py pool $H $H || echo 'eBay pool failed - using the last one'; fi
-      - name: Shortlist (text + CLIP + encyclopedia)
+      - name: Outcomes (what yesterday's lots actually sold for)
+        if: steps.fresh.outputs.skip != '1'
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+        run: |
+          python3 scripts/outcomes.py sgw || echo '::warning::SGW outcomes failed'
+          python3 scripts/outcomes.py join || echo '::warning::outcome join failed'
+          python3 scripts/outcomes.py misses || true
+      - name: Shortlist (text + CLIP + encyclopedia + similar-sold + photo marks + melt)
         if: steps.fresh.outputs.skip != '1'
         env:
           EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
@@ -67,6 +84,12 @@ jobs:
         if: steps.fresh.outputs.skip != '1'
         run: |
           git config user.name refurbish-bot; git config user.email refurbish-bot@users.noreply.github.com
-          git add research/pools/shortlist.json research/pools/shown.json research/enc_digest.json research/pools/ebay-latest.json
+          git add research/pools/shortlist.json research/pools/shown.json research/enc_digest.json research/pools/ebay-latest.json db/outcomes research/pools/misses
           git commit -qm "eye shortlist $(date -u +%FT%H:%MZ)" || exit 0
           for i in 1 2 3 4 5; do git pull -q --rebase -X theirs origin refurbish && git push -q origin HEAD:refurbish && exit 0; sleep $((i*10)); done; exit 1
+      - name: Save similar-sold store
+        if: always() && steps.fresh.outputs.skip != '1'
+        uses: actions/cache/save@v4
+        with:
+          path: .cache/knn
+          key: knn-${{ github.run_id }}
