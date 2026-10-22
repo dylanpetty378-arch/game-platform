@@ -19,7 +19,7 @@ MARK = ['a close-up photo of a hallmark stamped into metal', "a close-up photo o
 OBJ = ['a photo of a whole object on a table', 'a photo of a vase', 'a photo of a ring on a finger', 'a photo of a necklace',
        'a photo of a figurine', 'a photo of a framed picture on a wall', 'a photo of a box', 'a photo of a group of items']
 PER_ROW = 2          # photos OCR'd per row
-MAX_PHOTOS = 8       # candidate photos per row (after the first)
+MAX_PHOTOS = 4       # candidate photos per row (after the first); 8 made the daily run too slow on 4 vCPU
 
 def have_tesseract():
     try: subprocess.run(['tesseract', '--version'], capture_output=True, timeout=10); return True

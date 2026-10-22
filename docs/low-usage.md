@@ -13,7 +13,7 @@ step that doesn't need judgement onto free compute. It replaces review-cycle.md 
 ## The loop now
 | Step | Who | Cost |
 |---|---|---|
-| eBay pool (ending ≤26 h + newly listed ≤26 h, casual sellers, ≤3 bids, ≤$200) | GitHub Actions `eye-shortlist`, 10:47 UTC daily | free |
+| eBay pool (ending ≤26 h + newly listed ≤26 h, casual sellers, ≤3 bids, ≤$200) | GitHub Actions `eye-shortlist`, 08:47 UTC daily (backup 09:29) | free |
 | ShopGoodwill lots ending ≤26 h, egg categories | same workflow | free |
 | Text drops: repro/new/cards/ACEO/OOAK/AI art, over money rule, title already names a maker (makers.json) | `scripts/shortlist.py` | free |
 | CLIP image score + match against all 663 encyclopedia types, weighted by each type's top-tier value | `scripts/shortlist.py` + `research/enc_digest.json` | free |
