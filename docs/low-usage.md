@@ -71,4 +71,4 @@ $50; profit ≥ the price above $50) but it is a floor — surface fewer, strong
 - `shortlist.py --n` (photos per day, default 1,000). More photos = more eye cost, linearly.
 - Score weights in shortlist.py `main()` (egg, type value, title vagueness). Re-fit once verdicts accumulate in
   research/pools/lowuse-log.jsonl: compare flagged/lead rows' `score` components against the rest.
-- Facebook Marketplace has no API; Dylan pastes links or screenshots into a chat and the same deep review applies.
+- Facebook Marketplace: Dylan's Refurbish Watcher extension saves local listings to db/fb; review them on request — docs/facebook.md.

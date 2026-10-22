@@ -50,6 +50,14 @@ Free compute now reads things you can't see in a 220 px thumbnail. Use them; the
   ShopGoodwill recently. Picker prices = a floor, not retail. Weak signal for now (typically off by ~1.7×); it backs a
   flag up, it never makes one on its own.
 
+## Facebook Marketplace sheets (source `fb`, Oct 22 2026)
+- Local pickup around Keller TX. The title ends with `[city Nmi]`: ≤ 30 mi is fine on short notice, 31–50 mi needs notice.
+- Fixed prices, often negotiable; good ones sell within hours. No bids, no end time ("?h").
+- Sellers are households, not resellers: vague titles, phone photos, moving / estate / "grandma's" clear-outs. The
+  labelled-down pattern applies fully. Size rule still applies (nothing bigger than a car's passenger seat).
+- A seller who names the maker on Facebook has usually priced it to match — only flag if the photo shows a clearly
+  better version than the title claims, or the price is far under the SIMILAR SOLD line.
+
 ## Dylan's time is the constraint (Oct 22 2026)
 Dylan has a full-time job and two kids — this is not a volume business. Every flag should be something worth an
 evening of his time: the money rule is a floor, not a target. Prefer one strong, specific flag to three maybes.

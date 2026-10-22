@@ -1,0 +1,23 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+body{font:13px system-ui,sans-serif;width:330px;margin:12px;color:#222}
+h1{font-size:15px;margin:0 0 8px} label{display:block;margin:6px 0 2px;color:#555}
+input,textarea{width:100%;box-sizing:border-box;font:12px monospace;padding:4px}
+.row{display:flex;gap:8px}.row>div{flex:1}
+button{margin:8px 6px 0 0;padding:6px 10px;font-weight:600;cursor:pointer}
+#go{background:#1a73e8;color:#fff;border:0;border-radius:4px}
+#status{margin-top:10px;padding:8px;background:#f3f3f3;border-radius:4px;white-space:pre-wrap;font:12px monospace}
+details{margin-top:6px}
+</style></head><body>
+<h1>Refurbish Watcher</h1>
+<button id="go">Start sweep</button><button id="retry">Retry upload</button>
+<div id="status">…</div>
+<details><summary>Settings</summary>
+<label>GitHub token (fine-grained, this repo only, Contents: read &amp; write)</label><input id="token" type="password">
+<div class="row"><div><label>Radius (miles from Keller)</label><input id="radiusMiles" type="number"></div>
+<div><label>Max price $</label><input id="maxPrice" type="number"></div></div>
+<div class="row"><div><label>Page budget / run</label><input id="pageBudget" type="number"></div>
+<div><label>Repeat every N h (0 = off)</label><input id="repeatHours" type="number"></div></div>
+<label>Category feeds (one per line)</label><textarea id="feeds" rows="5"></textarea>
+<button id="save">Save settings</button>
+</details>
+<script src="popup.js"></script></body></html>

@@ -1,0 +1,44 @@
+# Facebook Marketplace scoring (Oct 22 2026). Dylan's Refurbish Watcher extension (tools/fb-extension) pushes listing
+# batches to db/fb/inbox/ on branch refurbish; this scores them for free (text filters, CLIP + encyclopedia, similar-sold,
+# melt floor, distance from Keller) into db/fb/scored/. A Claude chat reviews them later: docs/facebook.md.
+name: fb-score
+on:
+  push:
+    branches: [refurbish]
+    paths: ['db/fb/inbox/**']
+  workflow_dispatch:
+concurrency: {group: fb-score, cancel-in-progress: false}
+permissions: {contents: write}
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: refurbish, fetch-depth: 5}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/pip
+            ~/.cache/huggingface
+          key: refurbish-clip-v1
+      - name: Similar-sold store (read-only, saved by eye-shortlist)
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache/knn
+          key: knn-none
+          restore-keys: knn-
+      - name: Install image model (CPU)
+        run: |
+          pip install -q torch torchvision --index-url https://download.pytorch.org/whl/cpu
+          pip install -q open_clip_torch pillow wordfreq numpy
+      - name: Score new listings
+        run: python3 scripts/fb.py score
+      - name: Commit
+        run: |
+          git config user.name refurbish-bot; git config user.email refurbish-bot@users.noreply.github.com
+          git add db/fb/scored db/fb/state.json
+          git commit -qm "fb scored $(date -u +%FT%H:%MZ)" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase -X theirs origin refurbish && git push -q origin HEAD:refurbish && exit 0; sleep $((i*10)); done; exit 1
