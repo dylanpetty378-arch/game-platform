@@ -72,7 +72,8 @@ def prep(maxn=1000, agents=None):
             tps = [f"{s} {p:.1f}" for s, p in r.get('types', []) if p >= 0.15]
             for s, p in r.get('types', []):
                 if p >= 0.25 and s in dig and dig[s]['top'] >= 300: types[s] = max(types.get(s, 0), p)
-            notes.append(f"{j} | {r['src']} | ${r['p']}, {r['b']}b, {hl} | {r['t'][:75]} | {', '.join(tps[:2])}")
+            dn = (' ↓LABELLED CHEAP: ' + ','.join(r['down'])) if r.get('down') else ''
+            notes.append(f"{j} | {r['src']} | ${r['p']}, {r['b']}b, {hl} | {r['t'][:75]} | {', '.join(tps[:2])}{dn}")
             index[f'{k + 1}:{j}'] = r
         sh.save(f'{d}/sheet_{k + 1:02d}.jpg', quality=80)
         notes.append('\n## Encyclopedia money tells for the types on this sheet (top tier = where the money is)')

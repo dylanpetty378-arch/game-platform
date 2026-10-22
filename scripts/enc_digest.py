@@ -39,6 +39,8 @@ def parse(path):
     low_v = min((v for v, _ in tiers if v), default=0)
     br = re.search(r'^Buy rule[^:]*:\s*(.+)$', t, re.M)
     rec = re.search(r'## What it is / how to recognise it in a photo\n(.*?)(?:\n## |\Z)', t, re.S)
+    fk = re.search(r'## Fakes, reproductions and reissues\n(.*?)(?:\n## |\Z)', t, re.S)
+    fakes = re.sub(r'\s+', ' ', fk.group(1)).strip()[:220] if fk else ''
     tells = []
     if rec:
         bl = [re.sub(r'\*\*', '', ln.strip()[2:]) for ln in rec.group(1).splitlines() if ln.strip().startswith('- ')]
@@ -47,7 +49,7 @@ def parse(path):
         bl = sorted(bl, key=lambda b: -len(kw & set(w.lower() for w in re.findall(r'[\w\-]{3,}', b))))
         tells = [b[:260] for b in bl[:3]]
     return slug, {'title': short, 'full': title, 'aliases': aliases, 'top': top_v, 'low': low_v,
-                  'money': top_s[:300], 'buy': (br.group(1)[:260] if br else ''), 'tells': tells}
+                  'money': top_s[:300], 'fakes': fakes, 'buy': (br.group(1)[:260] if br else ''), 'tells': tells}
 
 def build():
     d = dict(parse(p) for p in sorted(glob.glob(os.path.join(ED, '*.md'))))
@@ -57,8 +59,9 @@ def build():
     return d
 
 def line(slug, e, tells=1, width=170):
-    s = f"- **{e['title']}** [{slug}] top ${e['top']:,.0f}: {e['money'][:200]}"
+    s = f"- **{e['title']}** [{slug}] common ${e['low']:,.0f} → top ${e['top']:,.0f}: {e['money'][:200]}"
     for x in e['tells'][:tells]: s += f"\n  tell: {x[:width]}"
+    if tells and e.get('fakes') and not e['fakes'].lower().startswith('none'): s += f"\n  real vs copy: {e['fakes'][:width]}"
     return s
 
 if __name__ == '__main__':

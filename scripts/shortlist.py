@@ -9,13 +9,15 @@ Claude eye then looks at with the encyclopedia in hand. Everything here is free 
 Pipeline
   1. POOLS   research/pools/ebay-latest.json (written by the ebay-eggs workflow) + a fresh ShopGoodwill harvest.
   2. DEDUPE  skip anything already shortlisted (research/pools/shown.json, kept 12 days).
-  3. TEXT    hard drops: over the money rule, >3 bids, reproductions / new / sealed / cards / ACEO / OOAK / AI art,
+  3. TEXT    hard drops: over the money rule, >3 bids, new / sealed / cards / ACEO / OOAK / AI art / licensed characters,
              and titles that already NAME a maker from research/makers.json (the seller knows — no arbitrage).
              Soft score `ign` = how little the title says (vague words, short title, cheap, 0 bids).
   4. IMAGE   CLIP ViT-B-32 on the first photo:
              egg  = collector-object look (clip_rank POSITIVE − NEGATIVE prompts)
              type = zero-shot match against all 663 encyclopedia types; tval = Σ p(type)·log10(top-tier $ of type)
-  5. RANK    z(egg) + 0.8·z(tval) + 0.5·z(ign); keep the best --n, split across sources by pool size (min 25%).
+  5. RANK    z(egg) + 0.8·z(tval) + 0.5·z(ign) + 0.7·z(dv); dv = labelled-down (title calls it the cheap version:
+             copy, costume, plated, print, resin, souvenir…) × the matched type's log(top/low) spread. Keep the best --n,
+             split across sources by pool size (min 25%), 30% of each reserved for labelled-down rows.
   6. DETAIL  every shortlisted row gets all photos + description (eBay getItem needs the EBAY_* secrets).
   7. WRITE   research/pools/shortlist.json — rows carry their top-3 encyclopedia types so the eye agent gets the
              right entries' money tells for each cell (scripts/lowuse.py).
@@ -27,11 +29,19 @@ POOLS = os.path.join(ROOT, 'research', 'pools')
 SHOWN = os.path.join(POOLS, 'shown.json')
 OUT = os.path.join(POOLS, 'shortlist.json')
 
-JUNK = re.compile(r'\b(reproductions?|repro|replica|style of|in the style|inspired|costume|fashion jewelry|new with tags|nwt|nib|'
-                  r'brand new|sealed|factory sealed|funko|lego|psa|bgs|sgc|beckett|topps|panini|upper deck|rookie|trading card|'
-                  r'aceo|ooak|original acrylic|acrylic painting|abstract|giclee|canvas art|wall art|wall decor|ai art|'
-                  r'print on demand|poster print|dropship|wholesale|lot of \d{2,} new|cubic zirconia|cz |rhinestone|'
-                  r'stainless steel|plated fashion|fake|faux|toy story|disney|star wars|marvel|pokemon|nfl|nba|mlb)\b', re.I)
+# Hard drops: modern retail, cards, mass-market art, licensed characters. NOT cheap-sounding labels — those are the hunt.
+JUNK = re.compile(r'\b(new with tags|nwt|nib|brand new|sealed|factory sealed|funko|lego|psa|bgs|sgc|beckett|topps|panini|'
+                  r'upper deck|rookie|trading card|aceo|ooak|original acrylic|acrylic painting|abstract|giclee|canvas art|'
+                  r'wall art|wall decor|ai art|print on demand|poster print|dropship|wholesale|lot of \d{2,} new|'
+                  r'stainless steel|toy story|disney|star wars|marvel|pokemon|nfl|nba|mlb)\b', re.I)
+# Labelled DOWN (Dylan, Oct 21 2026): the seller calls it the cheaper version — copy, costume, plated, print, resin, tourist —
+# while the photo may show the real, expensive one. Kept, boosted, and given a reserved share of the shortlist.
+DOWN = re.compile(r'\b(reproductions?|repro|replica|copy|style of|in the style|inspired|imitation|faux|fake|knock ?off|'
+                  r'costume|fashion jewelry|simulated|cz|cubic zirconia|rhinestones?|paste|glass beads?|plastic|resin|composition|'
+                  r'silver ?tone|gold ?tone|silver ?plated?|gold ?plated?|plated|electroplate|epns|brass|pot metal|white metal|'
+                  r'spelter|base metal|alloy|tin|print|poster|reprint|decor|decorator|decorative|souvenir|tourist|craft|'
+                  r'homemade|home made|hobby|student|kitsch|unbranded|no name|generic|mass produced|made in (?:china|taiwan|'
+                  r'hong kong|japan|occupied japan)|occupied japan|cheap)\b', re.I)
 VAGUE = re.compile(r'\b(old|vintage|antique|unknown|unmarked|mystery|estate|signed|marked|hallmarked?|stamped|unsigned|'
                    r'hand ?made|handcrafted|primitive|folk|carved|bronze|brass|silver|sterling|gold|jade|bone|horn|ivory|'
                    r'painting|drawing|etching|engraving|lithograph|woodblock|watercolou?r|oil on|print|sketch|'
@@ -103,7 +113,10 @@ def text_pass(rows, shown, makers):
         elif JUNK.search(r['t']): k = 'junk'
         elif makers and makers.search(r['t']): k = 'maker named'
         why[k] = why.get(k, 0) + 1
-        if not k: r['ign'] = ign_score(r['t'], r['p'], r['b']); keep.append(r)
+        if not k:
+            r['ign'] = ign_score(r['t'], r['p'], r['b'])
+            r['down'] = sorted(set(m.lower() for m in DOWN.findall(r['t'])))[:4]
+            keep.append(r)
     return keep, why
 
 class Clip:
@@ -115,6 +128,8 @@ class Clip:
         self.m.eval(); tok = open_clip.get_tokenizer('ViT-B-32')
         self.slugs = list(digest)
         self.logv = torch.tensor([math.log10(max(digest[s]['top'], 10)) for s in self.slugs])
+        # spread = top tier / low tier: how far a type's money version sits above its common one (hard-to-tell types)
+        self.logs = torch.tensor([math.log10(max(digest[s]['top'], 10) / max(digest[s]['low'] or 10, 1)) for s in self.slugs])
         with torch.no_grad():
             pn = self._txt(tok, POSITIVE + NEGATIVE); self.pos, self.neg = pn[:len(POSITIVE)], pn[len(POSITIVE):]
             # one embedding per type = mean of "a photo of <title>" and up to 3 aliases
@@ -145,9 +160,10 @@ class Clip:
                         e = self.m.encode_image(torch.stack([im for _, im in part])); e = e / e.norm(dim=-1, keepdim=True)
                         pos = (e @ self.pos.T).topk(3, dim=1).values.mean(1); neg = (e @ self.neg.T).topk(3, dim=1).values.mean(1)
                         pt = (100 * e @ self.types.T).softmax(dim=1); top = pt.topk(3, dim=1)
-                        tval = (pt * self.logv).sum(1)
+                        tval = (pt * self.logv).sum(1); tspr = (pt * self.logs).sum(1)
                     for k, (r, _) in enumerate(part):
                         r['egg'] = round(float(pos[k] - neg[k]) * 100, 2); r['tval'] = round(float(tval[k]), 3)
+                        r['spread'] = round(float(tspr[k]), 3)
                         r['types'] = [[self.slugs[int(top.indices[k, q])], round(float(top.values[k, q]), 3)] for q in range(3)]
                 if i % (batch * 40) == 0: print(f'  clip {i + len(chunk)}/{len(rows)}', flush=True)
         return [r for r in rows if 'egg' in r]
@@ -205,13 +221,19 @@ def main():
         rows = [r for s in ('ebay', 'sgw') for r in sorted((r for r in rows if r['src'] == s), key=lambda r: -r['ign'])[:a.limit]]
     rows = Clip(digest).run(rows)
     if not rows: print('nothing scored'); return
-    for r, ze, zt, zi in zip(rows, z([r['egg'] for r in rows]), z([r['tval'] for r in rows]), z([r['ign'] for r in rows])):
-        r['score'] = round(ze + 0.8 * zt + 0.5 * zi, 3)
+    # labelled-down value: cheap label × how big the type's money/common gap is (only counts when a cheap word is present)
+    for r in rows: r['dv'] = (1 + 0.5 * (len(r['down']) - 1)) * r['spread'] if r['down'] else 0
+    for r, ze, zt, zi, zd in zip(rows, z([r['egg'] for r in rows]), z([r['tval'] for r in rows]), z([r['ign'] for r in rows]),
+                                 z([r['dv'] for r in rows])):
+        r['score'] = round(ze + 0.8 * zt + 0.5 * zi + 0.7 * zd, 3)
     tot = sum(pool.values()) or 1
     quota = {s: max(int(a.n * 0.25), int(a.n * pool[s] / tot)) for s in pool if pool[s]}
     pick = []
     for s, q in quota.items():
-        pick += sorted((r for r in rows if r['src'] == s), key=lambda r: -r['score'])[:q]
+        mine = sorted((r for r in rows if r['src'] == s), key=lambda r: -r['score'])
+        # reserve 30% of each source's quota for labelled-down rows (best by score), then fill by score
+        down = [r for r in mine if r['down']][:int(q * 0.3)]; ids = {r['id'] for r in down}
+        pick += down + [r for r in mine if r['id'] not in ids][:q - len(down)]
     pick.sort(key=lambda r: -r['score'])
     if not a.no_details: details(pick)
     now = dt.datetime.now(dt.timezone.utc).isoformat()

@@ -12,6 +12,19 @@ little the title says). Your job is the judgement the ranker can't make: **is th
 - Out: bigger than a car's passenger seat, needs repair, untested electronics, needs authentication, Nazi items,
   anything whose title already names the valuable maker and is priced near value.
 
+## The main pattern: LABELLED DOWN (Dylan, Oct 21 2026)
+Flag things that are **hard to recognise and likely mislabelled — specifically labelled as the cheaper option**:
+"reproduction", "costume", "gold tone", "silver plated", "brass", "resin", "print", "souvenir", "decor",
+"made in Japan", "student", "glass beads", "Chinese" on something Japanese (or the reverse), "20th century" on something older.
+The seller has looked it up and settled on the cheap answer. If the photo shows the expensive version's tells, that is
+the egg — nobody else bids on a "costume brooch" or a "resin figure".
+- Cells marked **↓LABELLED CHEAP** in the notes carry such a word. Look at those first and hardest.
+- Hard-to-recognise types are the ones where common and top tiers look alike: the notes show `common $X → top $Y` and,
+  where the encyclopedia has it, a **real vs copy** line. A big gap plus a cheap label plus a visible real-version tell
+  = flag.
+- The reverse (title claims the expensive version, photo shows the cheap one — e.g. "Japanese boxwood" on a stained
+  folk carving) is a KILL, never a flag.
+
 ## How to look — every sheet
 1. Read the sheet's notes file first: each cell's price, bids, hours left, title, and the encyclopedia types the photo
    resembles. Under it are the **money tells** of those types — the top tier (named makers/variants and prices) and
@@ -25,12 +38,14 @@ little the title says). Your job is the judgement the ranker can't make: **is th
    $300–1,200" — not "nice ring".
 
 ## Flag discipline
-- **The title already names the maker/artist/model → do not flag** unless the photo shows a clearly higher variant than the
+- **The title already names the valuable maker/artist/model → do not flag** unless the photo shows a clearly higher variant than the
   title claims (first run: 7 of 9 flags were titles that named the maker and were all killed). The money is in what the
   seller did NOT say.
 - Aim for **0–2 flags per sheet**; a flag costs a deep review with web research. Flag when the visible evidence makes
   the money version *plausible* (≥ ~1 in 5), not merely possible.
 - Mark each flag EGG (if it is what it looks like, $1,000+) or LEAD (clears the profit rule, specific maker named).
+  Start the reason with `DOWN:` when the title labels it as the cheaper version, e.g.
+  `DOWN: "gold tone" brooch shows 14K stamp-style clasp + hand-set stones → 1950s Trifari-era real gold?`
 - Do not research on the web; that happens in deep review. Do not open listing pages.
 
 ## Output — exactly one line per flag, tab-separated, nothing else in the file
