@@ -575,3 +575,9 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   Kuniyoshi caricature titled Reprint.
 - Still broken?: all 3 eBay flags came through with photos 1 (of 1), empty desc/aspects, so the eBay extra-photo/description fetch
   looks like it is still failing despite yesterday's EBAY_* env fix. Check the eye-shortlist workflow log.
+- Follow-up (same day, Dylan present): batch b (sheets 2,4,6,8,10,12; 277 photos) screened in the main session → 5 LEAD flags,
+  all killed (Pueblo-style mini bowl unsigned, modern turquoise dragon bowl, Showa shishi, Haeger-type ewer, Dutch-style scoop).
+  10:45 was yesterday's Lyons crock lead (eb237134645778), still live.
+- eBay-detail "bug" root cause: the env fix (a89a47c) was right, but the 10:47 UTC schedule never fired on Oct 22, so no run had
+  used it. Added a 11:29 UTC backup cron with a freshness guard (skips if the shortlist is <12 h old) on main + refurbish, and a
+  ::warning:: when eBay/SGW details cover under half the rows. Manual run 13:17Z: eBay details 773/773 (682 multi-photo), SGW 250/250.
