@@ -37,7 +37,7 @@ def tags(r):
     """Data signals for a row, in words the eye and the deep review can use."""
     out = []
     m = r.get('melt')
-    if m: out.append(f"MELT {m['label']} {m['g']}g floor ${m['net']} (max bid ${m['max_bid']}{', CLEARS RULE' if m.get('ok') else ''})")
+    if m and m['net'] >= 25: out.append(f"MELT {m['label']} {m['g']}g floor ${m['net']} (max bid ${m['max_bid']}{', CLEARS RULE' if m.get('ok') else ''})")
     k = r.get('knn')
     if k: out.append(f"SIMILAR SOLD (SGW, picker prices) median ${k['p50']} p75 ${k['p75']} n={k['n']}: " +
                      '; '.join(f"${f} {t}" for f, _, t in k['best'][:2]))
@@ -63,12 +63,12 @@ def hours_left(r):
         return (t - dt.datetime.now(dt.timezone.utc)).total_seconds() / 3600
     except Exception: return None
 
-def prep(maxn=1000, agents=None):
+def prep(maxn=1000, agents=None, path=SL, prefix='lu'):
     from PIL import Image, ImageDraw
     from enc_digest import line
-    S = json.load(open(SL)); dig = json.load(open(DIG))
+    S = json.load(open(path)); dig = json.load(open(DIG))
     rows = [r for r in S['rows'] if not ended(r)][:maxn]
-    run = 'lu-' + time.strftime('%Y%m%d-%H%M', time.gmtime()); d = wdir(run)
+    run = prefix + '-' + time.strftime('%Y%m%d-%H%M', time.gmtime()); d = wdir(run)
     big = [u.replace('s-l500', 's-l500') for u in (r['img'] for r in rows)]
     with cf.ThreadPoolExecutor(24) as ex: ims = list(ex.map(fetch, big))
     top_tells = sorted(((s, e) for s, e in dig.items() if e['top'] >= 2000), key=lambda x: -x[1]['top'])[:40]
@@ -149,7 +149,7 @@ def log(run, tsv):
         if not r: continue
         pid = r['id']
         if pid not in known:
-            li.append({'pid': pid, 'source': 'ebay' if r['src'] == 'ebay' else 'shopgoodwill', 'harvest_id': run, 'posted': 0,
+            li.append({'pid': pid, 'source': {'ebay': 'ebay', 'fb': 'facebook'}.get(r['src'], 'shopgoodwill'), 'harvest_id': run, 'posted': 0,
                        'price': r['p'], 'title': r['t'], 'area': '', 'region': r['src'].upper(), 'cat': r.get('c'),
                        'imgs': (r.get('det') or {}).get('imgs') or [r['img']], 'score': r.get('score'), 'clip': r.get('egg'),
                        'url': r['url'], 'ends': r.get('end'), 'bids': r['b']})
