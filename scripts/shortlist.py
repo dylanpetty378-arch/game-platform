@@ -196,7 +196,10 @@ def details(rows, threads=6):
     with cf.ThreadPoolExecutor(threads) as ex:
         for r, d in zip(todo, ex.map(one, todo)):
             if d: r['det'] = d
-    print('details', sum('det' in r for r in rows), 'of', len(rows), flush=True)
+    for src in ('ebay', 'sgw'):
+        n = sum(r['src'] == src for r in rows); k = sum(r['src'] == src and 'det' in r for r in rows)
+        print(f'details {src} {k} of {n}', flush=True)
+        if n and k < n // 2: print(f'::warning::{src} details only {k} of {n} (EBAY_* set: {have_eb})', flush=True)
 
 def z(xs):
     m = sum(xs) / len(xs); sd = (sum((x - m) ** 2 for x in xs) / len(xs)) ** 0.5 or 1

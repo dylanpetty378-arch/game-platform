@@ -9,6 +9,7 @@ name: eye-shortlist
 on:
   schedule:
     - cron: '47 10 * * *'        # 10:47 UTC = 5:47 am Central (summer) / 4:47 am (winter)
+    - cron: '29 11 * * *'        # backup: GitHub skips scheduled runs (Oct 22 10:47 never fired); guard below no-ops if fresh
   workflow_dispatch:
     inputs:
       n: {description: 'photos on the shortlist', default: '1000'}
@@ -25,19 +26,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with: {ref: refurbish, fetch-depth: 20}
+      - name: Skip if the shortlist is already fresh (backup cron only)
+        id: fresh
+        run: |
+          T=$(git log -1 --format=%ct -- research/pools/shortlist.json || echo 0); A=$(( $(date +%s) - ${T:-0} ))
+          echo "shortlist age ${A}s"
+          if [ "${{ github.event_name }}" = schedule ] && [ "$A" -lt 43200 ]; then echo skip=1 >> $GITHUB_OUTPUT; fi
       - uses: actions/setup-python@v5
+        if: steps.fresh.outputs.skip != '1'
         with: {python-version: '3.12'}
       - uses: actions/cache@v4
+        if: steps.fresh.outputs.skip != '1'
         with:
           path: |
             ~/.cache/pip
             ~/.cache/huggingface
           key: refurbish-clip-v1
       - name: Install image model (CPU)
+        if: steps.fresh.outputs.skip != '1'
         run: |
           pip install -q torch torchvision --index-url https://download.pytorch.org/whl/cpu
           pip install -q open_clip_torch pillow wordfreq
       - name: eBay pool
+        if: steps.fresh.outputs.skip != '1'
         env:
           EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
           EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
@@ -45,6 +56,7 @@ jobs:
           H=${{ github.event.inputs.hours || '26' }}
           if [ -n "$EBAY_CLIENT_ID" ]; then python3 scripts/ebay_eggs.py pool $H $H || echo 'eBay pool failed - using the last one'; fi
       - name: Shortlist (text + CLIP + encyclopedia)
+        if: steps.fresh.outputs.skip != '1'
         env:
           EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
           EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
@@ -52,6 +64,7 @@ jobs:
           H=${{ github.event.inputs.hours || '26' }}
           python3 scripts/shortlist.py --n ${{ github.event.inputs.n || '1000' }} --sgw-hours $H --ebay-hours $H
       - name: Commit
+        if: steps.fresh.outputs.skip != '1'
         run: |
           git config user.name refurbish-bot; git config user.email refurbish-bot@users.noreply.github.com
           git add research/pools/shortlist.json research/pools/shown.json research/enc_digest.json research/pools/ebay-latest.json
