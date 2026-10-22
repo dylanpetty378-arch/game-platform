@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-22T05:18:10Z
+# Refurbish status — 2026-10-22T14:12:49Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,14 +6,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 21303 |
+| queued | 22103 |
 | photo_review/kill | 9044 |
-| flagged | 4207 |
+| flagged | 4205 |
 | lensed | 1350 |
 | queued/relens | 486 |
-| decided/kill | 134 |
-| decided/ask | 87 |
-| expired | 34 |
+| decided/kill | 142 |
+| decided/ask | 86 |
+| expired | 37 |
 | decided/find | 31 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 42
-- searches: 9485
-- listings: 36405
+- harvests: 43
+- searches: 9716
+- listings: 37213
 - lens: 13549
-- events: 62734
-- comps: 7544
+- events: 63545
+- comps: 7745
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261021-0505 — 86236 listings, 84595 new, 800 queued
 - craigslist-20261021-1401 — 54789 listings, 53629 new, 800 queued
 - craigslist-20261021-2021 — 122856 listings, 120436 new, 800 queued
 - craigslist-20261021-2332 — 115454 listings, 112696 new, 800 queued
 - craigslist-20261022-0505 — 79374 listings, 77720 new, 800 queued
+- craigslist-20261022-1357 — 50977 listings, 49663 new, 800 queued
 
-## Finds and open leads (121)
+## Finds and open leads (120)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -86,7 +86,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00z0z_7x6KsQ6tUU8_0CI0lM_300x300.jpg" width="160"> | [1917 Elgin pocket watch](https://www.craigslist.org/view/d/geneseo-1917-elgin-pocket-watch/joWUX1mkWqHBwhCHA1jiU2) | $150 | peoria | **decided/ask** — text-triage F4: 1917 Elgin small-size HUNTER case watch, engraved scroll lid, inner lid engraved presentation "...from Father & Mother...", seller says it runs. Value hinges on the case: ask for a clear photo of the stam |
 | <img src="https://images.craigslist.org/00o0o_h0Mt57mfIfL_0t20CI_300x300.jpg" width="160"> | [Vintage Schramberg German Vase](https://www.craigslist.org/view/d/minneapolis-vintage-schramberg-german/ctkaCwjeVGWp44LXQ6rzuy) | $30 | minneapolis | **decided/ask** — text-triage L1: SMF Schramberg (Schramberger Majolikafabrik) hand-painted Art Deco pitcher (seller calls it a vase), 6", shield mark "Handpainted SMF Germany" (1920s-30s). Value hinges on whether the decor is an Eva Zeis |
 | <img src="https://images.craigslist.org/00L0L_9SrJBaaCja1_0wm0t2_300x300.jpg" width="160"> | [Vintage Christmas Brooch Pins Lots](https://www.craigslist.org/view/d/coraopolis-vintage-christmas-brooch/v9K6idU9Tfv7sFPPmxxjHm) | $25 | pittsburgh | **decided/ask** — text-triage F2: Christmas pin lots priced per sub-lot; the "Christmas Tree lot" ($25) has 5 enamel/rhinestone trees + Danforth pewter scatter pin on card. Ask for photos of the BACK of each tree pin: looking for Eisenber |
-| <img src="https://images.craigslist.org/00K0K_kS6jugZVNag_0CI0lM_300x300.jpg" width="160"> | [ANTIQUE MINTON'S CREAMER & SUGAR](https://www.craigslist.org/view/d/chicago-antique-mintons-creamer-sugar/2o5rtx75Y8DSgoHfzR8MAk) | $25 | chicago | **decided/ask** — text-triage F2: Mintons (crowned globe, "EST 1793 ENGLAND", Rd No 566884, PAT DEC 20 1910, red hand pattern no. ~"B833") Edwardian bone china enamelled-floral breakfast set: teapot, chocolate/coffee pot, covered butter o |
 | <img src="https://images.craigslist.org/01313_2wmLInBXg5F_0Mo12w_300x300.jpg" width="160"> | [Unique Vintage Handmade 2 Handle Jug Pottery Canteen Handing](https://www.craigslist.org/view/d/fresno-unique-vintage-handmade-handle/rsoyvk4E7Uhg1xFUzh8wCv) | $15 | fresno | **decided/ask** — text-triage F3: 5" handmade stoneware canteen/bottle, wax-resist panels over iron-oxide, two lugs with leather strap – 1960s-70s studio work. Ask for a photo of the base for an incised signature or chop mark; unsigned is |
 | <img src="https://images.craigslist.org/00k0k_c2zlFPOtIFF_0CI0t2_300x300.jpg" width="160"> | [Vintage Old Costume Jewelry from 1950's to 1970's Nice](https://www.craigslist.org/view/d/sacramento-vintage-old-costume-jewelry/brPiTpjRkzK1vfQ3DN1Qcd) | $120 | sacramento | **decided/ask** — text-triage L3: Lot $120: tonneau-case Mickey Mouse watch with Mickey's arms as hands and "©WDP" on dial — 1947-50s Ingersoll/U.S. Time (seller says 1958, needs work), plus pair of antique cut-steel shoe buckles, carved  |
 | <img src="https://images.craigslist.org/00m0m_2SDGWP7u3CG_0CI0t2_300x300.jpg" width="160"> | [vintage microsecope](https://www.craigslist.org/view/d/la-crescenta-vintage-microsecope/ceoaYpUu4a51Ft5kSHzTDx) | $25 | losangeles | **decided/ask** — text-triage F1: Bausch & Lomb 'jug-handle' stand (black-japanned horseshoe foot, lacquered-brass coarse knob, c.1900-1920) at $25. Entry ladder: B&L black-and-brass 1900-30 $200-600, lab monocular $60-175 (general knowle |
@@ -166,7 +165,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/EkUAAeSwNiVq2M85/s-l500.jpg_300x300.jpg" width="160"> | [Vintage Navajo Silver and Turquoise 3-Stone Cuff Bracelet 48](https://www.ebay.com/itm/377587596376) | $35.0 |  | **decided/find** — Navajo 3-stone cuff, 48 g, natural-looking stones; only first photo seen - check hallmark/smith signature and stone type before bidding |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/C5UAAeSwxw1q19xI/s-l500.jpg_300x300.jpg" width="160"> | [Antique Lyons 1 Gallon Stoneware Crock With Bright Floral De](https://www.ebay.com/itm/237134645778) | $1.0 |  | **decided/find** — Impressed LYONS (NY) salt-glazed crock, brushed cobalt flower; Crocker Farm sold a 1-gal Lyons floral crock $480 (Nov 2025); ask size, chips, hairlines |
 
-## Flagged by Lens, waiting for photo review (4207)
+## Flagged by Lens, waiting for photo review (4205)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
