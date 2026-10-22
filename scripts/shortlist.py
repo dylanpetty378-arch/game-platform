@@ -110,6 +110,7 @@ def text_pass(rows, shown, makers):
         if r['id'] in shown: k = 'shown'
         elif r['p'] > 200 or r['b'] > 3: k = 'price/bids'
         elif r['c'] == 'Sports Mem' and re.search(r'\b(card|auto|autograph|jersey|signed)\b', r['t'], re.I): k = 'sports'
+        elif r.get('melt', {}).get('ok'): k = None          # metal floor clears the money rule: keep whatever it is
         elif JUNK.search(r['t']): k = 'junk'
         elif makers and makers.search(r['t']): k = 'maker named'
         why[k] = why.get(k, 0) + 1
@@ -142,6 +143,32 @@ class Clip:
     def _txt(self, tok, ps):
         t = self.m.encode_text(tok(ps)); return t / t.norm(dim=-1, keepdim=True)
 
+    def text(self, prompts):
+        import open_clip
+        with self.torch.no_grad(): return self._txt(open_clip.get_tokenizer('ViT-B-32'), prompts)
+
+    def embed_urls(self, urls, batch=64, threads=32):
+        """Unit image embeddings (float16 tensors) for a list of image URLs; None where the download failed."""
+        torch = self.torch
+        def get(u):
+            try:
+                from PIL import Image
+                b = urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'Mozilla/5.0'}), timeout=20).read()
+                return self.prep(Image.open(io.BytesIO(b)).convert('RGB'))
+            except Exception: return None
+        out = [None] * len(urls)
+        with cf.ThreadPoolExecutor(threads) as ex:
+            for i in range(0, len(urls), batch * 4):
+                ims = list(ex.map(get, urls[i:i + batch * 4]))
+                ok = [(i + k, im) for k, im in enumerate(ims) if im is not None]
+                for j in range(0, len(ok), batch):
+                    part = ok[j:j + batch]
+                    with torch.no_grad():
+                        e = self.m.encode_image(torch.stack([im for _, im in part])); e = e / e.norm(dim=-1, keepdim=True)
+                    for (k, _), v in zip(part, e): out[k] = v.half()
+                if i % (batch * 40) == 0: print(f'  embed {min(i + batch * 4, len(urls))}/{len(urls)}', flush=True)
+        return out
+
     def run(self, rows, batch=64, threads=32):
         torch = self.torch
         def get(r):
@@ -165,6 +192,7 @@ class Clip:
                         r['egg'] = round(float(pos[k] - neg[k]) * 100, 2); r['tval'] = round(float(tval[k]), 3)
                         r['spread'] = round(float(tspr[k]), 3)
                         r['types'] = [[self.slugs[int(top.indices[k, q])], round(float(top.values[k, q]), 3)] for q in range(3)]
+                        r['_e'] = e[k].half()
                 if i % (batch * 40) == 0: print(f'  clip {i + len(chunk)}/{len(rows)}', flush=True)
         return [r for r in rows if 'egg' in r]
 
@@ -208,7 +236,8 @@ def z(xs):
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument('--n', type=int, default=700); ap.add_argument('--sgw-hours', type=float, default=14)
     ap.add_argument('--ebay-hours', type=float, default=30); ap.add_argument('--no-sgw', action='store_true')
-    ap.add_argument('--no-details', action='store_true')
+    ap.add_argument('--no-details', action='store_true'); ap.add_argument('--no-knn', action='store_true')
+    ap.add_argument('--no-ocr', action='store_true')
     ap.add_argument('--limit', type=int, default=0, help='test: cap rows per source before CLIP')
     a = ap.parse_args(); t0 = time.time()
     from enc_digest import build
@@ -218,17 +247,33 @@ def main():
     shown = {k: v for k, v in shown.items() if v >= cut}
     rows = load_ebay(a.ebay_hours) + ([] if a.no_sgw else load_sgw(a.sgw_hours))
     pool = {s: sum(r['src'] == s for r in rows) for s in ('ebay', 'sgw')}
-    rows, why = text_pass(rows, shown, load_makers())
+    import melt
+    if melt.stale_days() > 10: print(f'::warning::research/spot.json is {melt.stale_days()} days old — update spot prices', flush=True)
+    for r in rows:
+        m = melt.floor(r['t'], r['p'])
+        if m: r['melt'] = m
+    makers = load_makers()
+    rows, why = text_pass(rows, shown, makers)
+    print('melt floor clears the money rule (title only):', sum(1 for r in rows if r.get('melt', {}).get('ok')), flush=True)
     print('pool', pool, '| text drops', why, '| to CLIP', len(rows), flush=True)
     if a.limit:
         rows = [r for s in ('ebay', 'sgw') for r in sorted((r for r in rows if r['src'] == s), key=lambda r: -r['ign'])[:a.limit]]
-    rows = Clip(digest).run(rows)
+    clip = Clip(digest)
+    rows = clip.run(rows)
     if not rows: print('nothing scored'); return
+    if not a.no_knn:
+        import knn
+        try: knn.add(clip); knn.query(rows)
+        except Exception as ex: print('::warning::knn failed:', ex, flush=True)
+    # similar-sold value: log10(look-alikes' median SGW final / price) — 0 when fewer than 3 close look-alikes
+    for r in rows:
+        k = r.get('knn'); r['kv'] = math.log10(max(k['p50'], 1) / max(r['p'], 5)) if k else 0
     # labelled-down value: cheap label × how big the type's money/common gap is (only counts when a cheap word is present)
     for r in rows: r['dv'] = (1 + 0.5 * (len(r['down']) - 1)) * r['spread'] if r['down'] else 0
     for r, ze, zt, zi, zd in zip(rows, z([r['egg'] for r in rows]), z([r['tval'] for r in rows]), z([r['ign'] for r in rows]),
                                  z([r['dv'] for r in rows])):
         r['score'] = round(ze + 0.8 * zt + 0.5 * zi + 0.7 * zd, 3)
+    for r, zk in zip(rows, z([r['kv'] for r in rows])): r['score'] = round(r['score'] + 0.8 * zk, 3)
     tot = sum(pool.values()) or 1
     quota = {s: max(int(a.n * 0.25), int(a.n * pool[s] / tot)) for s in pool if pool[s]}
     pick = []
@@ -237,8 +282,25 @@ def main():
         # reserve 30% of each source's quota for labelled-down rows (best by score), then fill by score
         down = [r for r in mine if r['down']][:int(q * 0.3)]; ids = {r['id'] for r in down}
         pick += down + [r for r in mine if r['id'] not in ids][:q - len(down)]
-    pick.sort(key=lambda r: -r['score'])
+    have = {r['id'] for r in pick}
+    pick += [r for r in rows if r.get('melt', {}).get('ok') and r['id'] not in have]      # melt leads always go in
     if not a.no_details: details(pick)
+    if not a.no_ocr and not a.no_details:
+        import ocr
+        try: ocr.run(pick, clip, makers)
+        except Exception as ex: print('::warning::ocr failed:', ex, flush=True)
+    for r in pick:                       # second melt pass: description, aspects and the photographed mark
+        det = r.get('det') or {}
+        txt = ' '.join([r['t'], det.get('desc') or '', ' '.join(f'{k} {v}' for k, v in (det.get('aspects') or {}).items())])
+        m = melt.floor(txt, r['p'], (r.get('ocr') or {}).get('text', ''))
+        if m and (not r.get('melt') or m['net'] > r['melt']['net']): r['melt'] = m
+        o = r.get('ocr') or {}
+        r['score'] = round(r['score'] + (1.5 if o.get('makers') else 0) + (0.5 if o.get('metal') and not melt.purity(r['t']) else 0)
+                           + (3 if r.get('melt', {}).get('ok') else 0), 3)
+        r.pop('_e', None)
+    pick.sort(key=lambda r: -r['score'])
+    print('melt leads:', sum(1 for r in pick if r.get('melt', {}).get('ok')), '| photo maker not in title:',
+          sum(1 for r in pick if (r.get('ocr') or {}).get('makers')), flush=True)
     now = dt.datetime.now(dt.timezone.utc).isoformat()
     for r in pick: shown[r['id']] = now
     json.dump(shown, open(SHOWN, 'w'))

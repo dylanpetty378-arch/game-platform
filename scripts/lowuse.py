@@ -6,6 +6,7 @@ as few tool calls as possible. Procedure: docs/low-usage.md.
                                                       #   encyclopedia notes, agent batches (prints the run name)
   python3 scripts/lowuse.py panels <run> <flags.tsv>   # flagged cells -> one photo panel per item (all photos) + flagged.md
   python3 scripts/lowuse.py log <run> <verdicts.tsv>   # verdicts -> db listings/events + research/pools/lowuse-log.jsonl
+  python3 scripts/lowuse.py misses [days]              # weekly: the last <days> (7) of misses -> /tmp/eye/misses-<ts>/ sheets
 
 flags.tsv    lines: sheet<TAB>cell<TAB>why                     (cell = the yellow number)
 verdicts.tsv lines: sheet<TAB>cell<TAB>egg|lead|kill<TAB>value_low<TAB>max_bid<TAB>note
@@ -31,6 +32,20 @@ def fetch(u):
         b = urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'Mozilla/5.0'}), timeout=25).read()
         return Image.open(io.BytesIO(b)).convert('RGB')
     except Exception: return None
+
+def tags(r):
+    """Data signals for a row, in words the eye and the deep review can use."""
+    out = []
+    m = r.get('melt')
+    if m: out.append(f"MELT {m['label']} {m['g']}g floor ${m['net']} (max bid ${m['max_bid']}{', CLEARS RULE' if m.get('ok') else ''})")
+    k = r.get('knn')
+    if k: out.append(f"SIMILAR SOLD (SGW, picker prices) median ${k['p50']} p75 ${k['p75']} n={k['n']}: " +
+                     '; '.join(f"${f} {t}" for f, _, t in k['best'][:2]))
+    o = r.get('ocr') or {}
+    if o.get('makers'): out.append('PHOTO MARK (not in title): ' + ', '.join(o['makers']))
+    if o.get('metal'): out.append(f"PHOTO METAL MARK: {o['metal']}")
+    if o.get('text') and not o.get('makers'): out.append('photo text: ' + o['text'][:80])
+    return out
 
 def ended(r):
     e = r.get('end') or ''
@@ -74,6 +89,7 @@ def prep(maxn=1000, agents=None):
                 if p >= 0.25 and s in dig and dig[s]['top'] >= 300: types[s] = max(types.get(s, 0), p)
             dn = (' ↓LABELLED CHEAP: ' + ','.join(r['down'])) if r.get('down') else ''
             notes.append(f"{j} | {r['src']} | ${r['p']}, {r['b']}b, {hl} | {r['t'][:75]} | {', '.join(tps[:2])}{dn}")
+            for tg in tags(r): notes.append(f"    ↳ {tg}")
             index[f'{k + 1}:{j}'] = r
         sh.save(f'{d}/sheet_{k + 1:02d}.jpg', quality=80)
         notes.append('\n## Encyclopedia money tells for the types on this sheet (top tier = where the money is)')
@@ -119,6 +135,7 @@ def panels(run, tsv):
         md.append(f"## {sh}:{cell} {r['id']} — ${r['p']} {r['b']} bids, ends {r.get('end')} — {r['src']}\n{r['t']}\n{r['url']}\n"
                   f"eye: {why}\ntypes: {r.get('types')}\nphotos: {len(imgs)} (of {len(det.get('imgs') or [1])}) · ship {det.get('ship')} · "
                   f"weight {det.get('weight')} · loc {det.get('loc')} · cond {det.get('cond')}\naspects: {det.get('aspects')}\n"
+                  f"signals: {' · '.join(tags(r)) or 'none'}\n"
                   f"desc: {(det.get('desc') or '')[:900]}\n")
     open(f'{d}/flagged.md', 'w').write('\n'.join(md))
     print(len(md) - 1, 'flagged ->', f'{d}/flagged.md', 'and', f'{d}/panels/')
@@ -147,6 +164,31 @@ def log(run, tsv):
         for x in lg: f.write(json.dumps(x, ensure_ascii=False) + '\n')
     print(len(ev), 'verdicts logged')
 
+def misses(days=7):
+    """Weekly review input: top misses of the last <days> days as 48-cell sheets + notes (cell -> final, title)."""
+    from PIL import Image, ImageDraw
+    import glob, outcomes
+    files = sorted(glob.glob(os.path.join(ROOT, 'research', 'pools', 'misses', '*.md')))[-days:]
+    rows = []
+    for f in files:
+        for ln in open(f):
+            if ln.startswith('- $'):
+                x = [p.strip() for p in ln[2:].split(' · ')]
+                rows.append({'final': x[0], 'bids': x[1], 'seen': x[3], 't': x[4], 'cat': x[5], 'img': x[6]})
+    rows = rows[:240]
+    run = 'misses-' + time.strftime('%Y%m%d-%H%M', time.gmtime()); d = wdir(run)
+    with cf.ThreadPoolExecutor(24) as ex: ims = list(ex.map(fetch, [r['img'] for r in rows]))
+    for k in range(0, len(rows), PER):
+        part = rows[k:k + PER]; sh = Image.new('RGB', (COLS * CELL, ((len(part) + COLS - 1) // COLS) * CELL), 'white')
+        dr = ImageDraw.Draw(sh); notes = [f'# Misses sheet {k // PER + 1} — sold high, title silent. What is it, and what in the photo showed it?']
+        for j, r in enumerate(part):
+            im = ims[k + j]; x, y = (j % COLS) * CELL, (j // COLS) * CELL
+            if im: im.thumbnail((CELL - 4, CELL - 4)); sh.paste(im, (x + 2, y + 2))
+            dr.rectangle([x, y, x + 34, y + 16], fill='yellow'); dr.text((x + 3, y + 2), str(j), fill='black')
+            notes.append(f"{j} | {r['final']} {r['bids']} | {r['seen']} | {r['t']} | {r['cat']}")
+        sh.save(f'{d}/sheet_{k // PER + 1:02d}.jpg', quality=80); open(f'{d}/sheet_{k // PER + 1:02d}.md', 'w').write('\n'.join(notes) + '\n')
+    print(run, len(rows), 'misses from', len(files), 'days ->', d)
+
 if __name__ == '__main__':
     a = sys.argv[1:]
     if not a: print(__doc__)
@@ -156,3 +198,4 @@ if __name__ == '__main__':
         prep(m, g)
     elif a[0] == 'panels': panels(a[1], a[2])
     elif a[0] == 'log': log(a[1], a[2])
+    elif a[0] == 'misses': misses(int(a[1]) if len(a) > 1 else 7)

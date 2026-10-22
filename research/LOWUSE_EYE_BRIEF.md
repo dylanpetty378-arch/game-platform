@@ -37,6 +37,23 @@ the egg — nobody else bids on a "costume brooch" or a "resin figure".
 4. Be specific in the reason: "Navajo cluster ring, heavy ingot silver, Fred Harvey-era stamping visible? → old pawn
    $300–1,200" — not "nice ring".
 
+## Data signals under a cell (Oct 22 2026) — lines starting with ↳ in the notes
+Free compute now reads things you can't see in a 220 px thumbnail. Use them; they are evidence, not verdicts.
+- **MELT 14k 5.1g floor $X (max bid $Y, CLEARS RULE)** — a stated weight × a stated or photographed purity × spot,
+  at refiner payout. CLEARS RULE = buying at or under the max bid wins on metal alone. Flag it LEAD unless the photo
+  contradicts the metal (plated wear showing brass, "GF"/"HGE"/"1/20" visible, a weighted base, mostly stones).
+- **PHOTO MARK (not in title): <maker>** — OCR read a maker name off one of the listing's other photos (a base,
+  back, clasp or label) that the title doesn't name. This is the "seller didn't say it" case. Look hard; flag if the
+  hero photo is consistent with that maker's money version.
+- **PHOTO METAL MARK: sterling/14k** — a purity mark was read on a photo while the title doesn't claim the metal.
+- **SIMILAR SOLD (SGW, picker prices) median $X p75 $Y n=k** — what the closest-looking lots actually sold for on
+  ShopGoodwill recently. Picker prices = a floor, not retail. Weak signal for now (typically off by ~1.7×); it backs a
+  flag up, it never makes one on its own.
+
+## Dylan's time is the constraint (Oct 22 2026)
+Dylan has a full-time job and two kids — this is not a volume business. Every flag should be something worth an
+evening of his time: the money rule is a floor, not a target. Prefer one strong, specific flag to three maybes.
+
 ## Flag discipline
 - **The title already names the valuable maker/artist/model → do not flag** unless the photo shows a clearly higher variant than the
   title claims (first run: 7 of 9 flags were titles that named the maker and were all killed). The money is in what the

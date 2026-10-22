@@ -581,3 +581,20 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 - eBay-detail "bug" root cause: the env fix (a89a47c) was right, but the 10:47 UTC schedule never fired on Oct 22, so no run had
   used it. Added a 11:29 UTC backup cron with a freshness guard (skips if the shortlist is <12 h old) on main + refurbish, and a
   ::warning:: when eBay/SGW details cover under half the rows. Manual run 13:17Z: eBay details 773/773 (682 multi-photo), SGW 250/250.
+
+## 2026-10-22 afternoon: learn from the market (Dylan: "things are being left on the table")
+Diagnosis: the eye judged by hand-written tells and saw only the hero photo at 220 px; nothing ever checked what
+things actually sold for. Changes (all free compute in the eye-shortlist workflow):
+- **Outcomes** (`scripts/outcomes.py`): ~4.7k sold SGW lots/day with photo + final → db/outcomes/sgw/*.jsonl.gz;
+  last shortlist joined to finals → db/outcomes/shortlist.jsonl (eBay finals tried via Browse; coverage logged).
+- **First finding**: only 34% of $100+ SGW sales were in categories the harvest looked at. Necklaces, bracelets,
+  jewelry sets, brooches, pendants and musical instruments added to `sgw.FIRST` (electronic instruments/amps dropped).
+  SGW pool 8.7k → ~18k/day.
+- **Similar sold** (`scripts/knn.py`): CLIP look-alikes among sold lots. Calibrated on day 1: sim ≥ 0.75 covers 25%,
+  log-price corr 0.43 vs 0.29 for a category median, typical error ×1.7 — a weak signal that should firm up with weeks of data.
+- **Read the marks** (`scripts/ocr.py`): CLIP picks mark/label/signature photos, Tesseract reads 2 per row → maker not
+  in the title (scored +1.5, shown as PHOTO MARK) and metal purity (melt).
+- **Melt floor** (`scripts/melt.py`, research/spot.json = gold $4,083.80 / silver $55.91, Oct 22): rows whose metal
+  alone clears the money rule are exempt from junk/maker drops and always shortlisted.
+- **Misses** report + weekly review procedure (docs/low-usage.md), with a category-coverage table.
+- Dylan's framing recorded: full-time job + two kids → few, strong leads; the money rule is a floor, not a target.

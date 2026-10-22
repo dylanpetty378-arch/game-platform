@@ -20,6 +20,11 @@ step that doesn't need judgement onto free compute. It replaces review-cycle.md 
 | Keep best ~1,000, fetch all photos + description for each | same | free |
 | Eye: 48-photo sheets at 220 px, each with notes (price, bids, title, matched types) and those types' money tells | 2–3 **Sonnet** agents | small |
 | Deep review of flags: full photo panels + sold-comp web research | the main session (Opus) | the only expensive step, ≤ ~8 items |
+| **Outcomes**: every sold ShopGoodwill lot (~5k/day, photo + final price) → db/outcomes/sgw; last shortlist joined to its finals → db/outcomes/shortlist.jsonl | `scripts/outcomes.py` in the same workflow | free |
+| **Similar sold**: CLIP look-alikes among sold lots → median/p75 picker price per shortlisted row (store in actions cache) | `scripts/knn.py` | free |
+| **Read the marks**: CLIP picks each row's mark/label/signature photos, Tesseract reads them → maker or metal not in the title | `scripts/ocr.py` | free |
+| **Melt floor**: weight × purity × spot (research/spot.json) at refiner payout; rows that clear the money rule always go in | `scripts/melt.py` | free |
+| **Misses**: SGW lots that sold ≥ $100 with titles that don't say why → research/pools/misses/<date>.md | `outcomes.py misses` | free |
 
 The shortlist already skips anything shown before (research/pools/shown.json, 12 days), so nothing is screened twice.
 
@@ -41,6 +46,26 @@ The shortlist already skips anything shown before (research/pools/shown.json, 12
    `lock.py release`, push. Reply in 3–5 lines.
 
 **Budget:** main session ≈ 20–25 tool calls; no fan-outs beyond the eye agents; no browser; no Opus agents.
+
+## Who this is for (Dylan, Oct 22 2026)
+Full-time job, two kids, no warehouse: few items, each worth real money. The money rule stays (profit ≥ $50 under
+$50; profit ≥ the price above $50) but it is a floor — surface fewer, stronger leads, never a bulk/volume flow.
+
+## Weekly (Sundays, or when research/pools/misses/REVIEWED is > 7 days old) — learn from the market
+1. `python3 scripts/lowuse.py misses 7` → sheets of the week's top misses (sold high, title silent). One Sonnet agent
+   (or the main session) answers per cell: what is it, and what in the photo showed it? Write the answers to
+   research/pools/misses/review-<date>.md.
+2. Repeat answers become encyclopedia tells / new types (research/new-type-candidates.md) — the eye learns what bidders saw.
+3. Check the category breakdown (the misses report's lead lines): if $100+ sales concentrate in categories the harvest
+   skips, widen `sgw.FIRST` (Oct 22: 66% of $100+ sales were outside it → jewelry by type + instruments added).
+4. Update research/spot.json (gold, silver per troy oz; the workflow warns after 10 days).
+5. Look at db/outcomes/shortlist.jsonl: did high-score rows sell high? Re-fit the score weights in shortlist.py `main()`
+   once a few weeks are in. Touch the date in research/pools/misses/REVIEWED.
+
+## Deep review of the new lead types
+- **Melt leads:** weight must be shown on a scale or stated in grams by the seller; the mark must be legible in a photo;
+  no plating/filled marks; seller feedback ≥ 20 for gold. Max bid = the MELT line's max bid (already the money rule).
+- **Photo-mark leads:** confirm the mark in the full-size photo before any comp research; then comps for that maker.
 
 ## Tuning knobs
 - `shortlist.py --n` (photos per day, default 1,000). More photos = more eye cost, linearly.

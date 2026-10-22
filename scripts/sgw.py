@@ -20,9 +20,12 @@ CATS = {'1': 'antiques', '15': 'art', '2257': 'bulk art', '2246': 'bulk collecti
         '2251': 'bulk instruments', '2259': 'bulk cameras', '2261': 'bulk misc', '4': 'collectibles', '6': 'jewelry', '170': 'cameras',
         '14': 'glass', '13': 'instruments', '113': 'misc', '132': 'antique books', '2229': 'antique tools', '431': 'vintage electronics', '364': 'science'}
 DROP = ['Toys/Dolls/Games', 'Costume Jewelry', 'Earrings', 'Plush', 'Collector Plates', 'Action Figures', 'Digital Cameras', 'Camcorders',
-        'Security', 'Cell Phones', 'Salt & Pepper', 'Cookie Jars', 'Lunch Boxes', 'Sports Cards', 'Die Cast', 'Jewelry Boxes', 'Fiction', 'Children']
+        'Security', 'Cell Phones', 'Salt & Pepper', 'Cookie Jars', 'Lunch Boxes', 'Sports Cards', 'Die Cast', 'Jewelry Boxes', 'Fiction', 'Children',
+        'Amplifiers', 'Instruments > Electronic', 'Pro Audio', 'Keyboards', 'Pianos']     # untested electronics / too big (Dylan's rules)
 FIRST = ['Art', 'Antiques', 'Books > Antique', 'Bulk', 'Science', 'Miscellaneous', 'Art Glass', 'Knives', 'Advertising', 'Military',
-         'Watches', 'Rings', 'Precious Metal', 'Fine Jewelry', 'Indigenous', 'Vintage Cameras', 'Lenses', 'Pottery', 'Sculptures']
+         'Watches', 'Rings', 'Precious Metal', 'Fine Jewelry', 'Indigenous', 'Vintage Cameras', 'Lenses', 'Pottery', 'Sculptures',
+         # Oct 22 2026 outcomes: 66% of $100+ SGW sales were in categories missing above — jewelry by type and instruments
+         'Necklaces', 'Bracelets', 'Jewelry Sets', 'Brooches', 'Pendants', 'Jewelry & Gemstones', 'Musical Instruments']
 
 def search(**kw):
     p = {"searchText": "", "selectedCategoryIds": "", "selectedSellerIds": "", "lowPrice": "0", "highPrice": "999999", "searchBuyNowOnly": "",
