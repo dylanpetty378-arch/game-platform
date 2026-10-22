@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-21T23:44:35Z
+# Refurbish status — 2026-10-22T05:18:10Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,14 +6,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 20503 |
+| queued | 21303 |
 | photo_review/kill | 9044 |
-| flagged | 4208 |
+| flagged | 4207 |
 | lensed | 1350 |
 | queued/relens | 486 |
 | decided/kill | 134 |
 | decided/ask | 87 |
-| expired | 33 |
+| expired | 34 |
 | decided/find | 31 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
@@ -23,22 +23,22 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 41
-- searches: 9254
-- listings: 35605
+- harvests: 42
+- searches: 9485
+- listings: 36405
 - lens: 13549
-- events: 61933
-- comps: 7343
+- events: 62734
+- comps: 7544
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261020-2319 — 117022 listings, 114846 new, 800 queued
 - craigslist-20261021-0505 — 86236 listings, 84595 new, 800 queued
 - craigslist-20261021-1401 — 54789 listings, 53629 new, 800 queued
 - craigslist-20261021-2021 — 122856 listings, 120436 new, 800 queued
 - craigslist-20261021-2332 — 115454 listings, 112696 new, 800 queued
+- craigslist-20261022-0505 — 79374 listings, 77720 new, 800 queued
 
 ## Finds and open leads (121)
 
@@ -166,7 +166,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/EkUAAeSwNiVq2M85/s-l500.jpg_300x300.jpg" width="160"> | [Vintage Navajo Silver and Turquoise 3-Stone Cuff Bracelet 48](https://www.ebay.com/itm/377587596376) | $35.0 |  | **decided/find** — Navajo 3-stone cuff, 48 g, natural-looking stones; only first photo seen - check hallmark/smith signature and stone type before bidding |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/C5UAAeSwxw1q19xI/s-l500.jpg_300x300.jpg" width="160"> | [Antique Lyons 1 Gallon Stoneware Crock With Bright Floral De](https://www.ebay.com/itm/237134645778) | $1.0 |  | **decided/find** — Impressed LYONS (NY) salt-glazed crock, brushed cobalt flower; Crocker Farm sold a 1-gal Lyons floral crock $480 (Nov 2025); ask size, chips, hairlines |
 
-## Flagged by Lens, waiting for photo review (4208)
+## Flagged by Lens, waiting for photo review (4207)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
