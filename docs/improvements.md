@@ -566,3 +566,12 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   Gesso reprint (named), Moorcroft-style painted vase (named), Meydam bowl (named), Nikonos V kit (3× electronics rule), modern vase.
 - Bug fixed: shortlist step lacked EBAY_* env, so eBay rows had no extra photos/description this run (SGW details OK).
 - Watch: 7 of 9 flags were titles that already named the maker (seller knows) — tighten the eye brief or the maker filter if this repeats.
+
+## 2026-10-22 12:30 UTC — low-usage run lu-20261022-1230 (scheduled)
+- Shortlist made 2026-10-21T23:15Z (13 h old, OK) from pool eBay 27,862 + SGW 8,756 → 555 live (eBay 486, SGW 69) → 12 sheets.
+- Eye: batch a (sheets 1,3,5,7,9,11; ~278 photos) by 1 Sonnet agent → 3 weak LEAD flags. Batch b (sheets 2,4,…,12; ~277 photos)
+  NOT screened: the second agent spawn was refused by the permission classifier. Those rows are unscreened but may now sit in shown.json.
+- Verdicts: 0 eggs, 0 leads. Kills: Showa red ginbari rose vase ($75 ask, sells $40–150), pale jade foo lion (1 photo, likely modern),
+  Kuniyoshi caricature titled Reprint.
+- Still broken?: all 3 eBay flags came through with photos 1 (of 1), empty desc/aspects, so the eBay extra-photo/description fetch
+  looks like it is still failing despite yesterday's EBAY_* env fix. Check the eye-shortlist workflow log.
