@@ -598,3 +598,8 @@ things actually sold for. Changes (all free compute in the eye-shortlist workflo
   alone clears the money rule are exempt from junk/maker drops and always shortlisted.
 - **Misses** report + weekly review procedure (docs/low-usage.md), with a category-coverage table.
 - Dylan's framing recorded: full-time job + two kids → few, strong leads; the money rule is a floor, not a target.
+- First full run (Oct 22, run 39799792533): pool eBay 29,088 + SGW 16,430 → 24,628 to CLIP (25 min); kNN store +15,000
+  (14,946 sold lots), 21% of rows got ≥3 look-alikes; details eBay 642/642, SGW 432/432; melt (title) 79 rows clear the
+  rule. It then hung 84 min in Tesseract (4 workers × OpenMP threads on 4 vCPU, 1600 px images) and hit the 150-min
+  timeout before committing. Fixed: OMP_THREAD_LIMIT=1, 1200 px, 25 s per image, top 500 rows only, 15-min OCR budget
+  (≈1.3 s/photo measured). Expected daily run ≈ 70 min from 08:47 UTC.

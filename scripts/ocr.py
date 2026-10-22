@@ -19,6 +19,9 @@ MARK = ['a close-up photo of a hallmark stamped into metal', "a close-up photo o
 OBJ = ['a photo of a whole object on a table', 'a photo of a vase', 'a photo of a ring on a finger', 'a photo of a necklace',
        'a photo of a figurine', 'a photo of a framed picture on a wall', 'a photo of a box', 'a photo of a group of items']
 PER_ROW = 2          # photos OCR'd per row
+MAX_ROWS = 500       # only the best-scored rows get OCR
+BUDGET_S = 900       # hard wall-clock budget for the OCR reads (Oct 22 run hung 84 min in tesseract and timed out)
+ENV = dict(os.environ, OMP_THREAD_LIMIT='1')   # tesseract's own threads fight the 4 parallel workers
 MAX_PHOTOS = 4       # candidate photos per row (after the first); 8 made the daily run too slow on 4 vCPU
 
 def have_tesseract():
@@ -30,10 +33,10 @@ def ocr_url(u):
     try:
         b = urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'Mozilla/5.0'}), timeout=25).read()
         im = ImageOps.autocontrast(Image.open(io.BytesIO(b)).convert('L'))
-        w, h = im.size; s = 1600 / max(w, h)
+        w, h = im.size; s = 1200 / max(w, h)
         if s < 1 or s > 1.5: im = im.resize((int(w * s), int(h * s)))
         buf = io.BytesIO(); im.save(buf, 'PNG')
-        out = subprocess.run(['tesseract', 'stdin', 'stdout', '--psm', '11'], input=buf.getvalue(), capture_output=True, timeout=60)
+        out = subprocess.run(['tesseract', 'stdin', 'stdout', '--psm', '11'], input=buf.getvalue(), capture_output=True, timeout=25, env=ENV)
         txt = out.stdout.decode('utf-8', 'ignore')
     except Exception: return ''
     toks = [t for t in re.findall(r"[A-Za-z0-9][A-Za-z0-9.&'/-]*", txt) if len(t) >= 2 and re.search(r'[A-Za-z0-9]{2}', t)]
@@ -46,8 +49,9 @@ def run(rows, clip, makers=None):
     torch = clip.torch
     with torch.no_grad():
         tm = clip.text(MARK); to = clip.text(OBJ)
+    import time
     cand = []
-    for r in rows:
+    for r in sorted(rows, key=lambda r: -r.get('score', 0))[:MAX_ROWS]:
         imgs = ((r.get('det') or {}).get('imgs') or [])[1:1 + MAX_PHOTOS]
         cand += [(r, u) for u in imgs]
     embs = clip.embed_urls([u for _, u in cand])
@@ -57,7 +61,9 @@ def run(rows, clip, makers=None):
         e = e.float(); s = float((e @ tm.T).max() - (e @ to.T).max())
         if s > 0.0: best.setdefault(r['id'], []).append((s, u))
     jobs = [(rid, u) for rid, l in best.items() for s, u in sorted(l, reverse=True)[:PER_ROW]]
-    with cf.ThreadPoolExecutor(4) as ex: texts = list(ex.map(lambda j: ocr_url(j[1]), jobs))
+    end = time.time() + BUDGET_S
+    with cf.ThreadPoolExecutor(4) as ex: texts = list(ex.map(lambda j: ocr_url(j[1]) if time.time() < end else '', jobs))
+    if time.time() >= end: print(f'::warning::OCR hit its {BUDGET_S}s budget — some mark photos were not read', flush=True)
     got = {}
     for (rid, u), t in zip(jobs, texts):
         if t: got.setdefault(rid, []).append(t)
