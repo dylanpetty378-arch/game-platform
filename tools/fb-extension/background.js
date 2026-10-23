@@ -127,14 +127,19 @@ async function sweep() {
     const kit = await inPage(tabId, captureKit);
     if (!kit || !kit.ok) throw new Error((kit && kit.err) || 'could not read the Marketplace page');
     await chrome.tabs.update(tabId, {url: 'https://www.facebook.com/robots.txt'}); await waitLoaded(tabId); await sleep(1500);
-    const fresh = []; const perFeed = {}; let pages = 0, found = 0, stop = '';
-    for (const slug of c.feeds) {
+    const fresh = []; const perFeed = {}; const done = []; let pages = 0, found = 0, stop = '';
+    const fill0 = (await chrome.storage.local.get('fill')).fill || {};
+    // "Cover all" mode: visit the categories not yet covered first, then the rest.
+    const order = fill0.on ? c.feeds.filter((f) => !(fill0.cover || {})[f]).concat(c.feeds.filter((f) => (fill0.cover || {})[f])) : c.feeds;
+    for (const slug of order) {
       if (pages >= c.pageBudget || stop) break;
-      let cursor = null, n = 0, fp = 0;
-      while (fp < c.perFeedMax && pages < c.pageBudget) {
+      let cursor = null, n = 0, fp = 0, ended = false;
+      while (true) {
+        if (fp >= c.perFeedMax) { ended = true; break; }
+        if (pages >= c.pageBudget) break;
         const r = await inPage(tabId, fetchPage, [kit, feedVars(kit, c, slug, cursor)]);
         pages++; fp++;
-        if (!r || r.err) { if (r && r.rate) stop = 'Facebook rate limit reached — the rest waits for the next run'; else perFeed[slug + '_err'] = r ? r.err : 'no result'; break; }
+        if (!r || r.err) { if (r && r.rate) stop = 'Facebook rate limit reached — the rest waits for the next run'; else { perFeed[slug + '_err'] = r ? r.err : 'no result'; ended = true; } break; }
         let newOnPage = 0;
         for (const x of r.rows) {
           found++; if (seen[x.id]) continue;
@@ -142,18 +147,29 @@ async function sweep() {
           if (!x.sold) fresh.push(Object.assign(x, {cat: slug, ts: new Date().toISOString()}));
         }
         await setStatus({state: 'sweeping', feed: slug, pages, found, fresh: fresh.length});
-        if (!r.next || newOnPage === 0) break;          // end of feed, or caught up with what we already have
+        if (!r.next || newOnPage === 0) { ended = true; break; }   // end of feed, or caught up with what we already have
         cursor = r.next; await sleep(900 + Math.random() * 900);
       }
-      perFeed[slug] = n; await sleep(2000 + Math.random() * 2000);
+      perFeed[slug] = n; if (ended) done.push(slug); await sleep(2000 + Math.random() * 2000);
     }
     await chrome.storage.local.set({seen});
-    const meta = {ts: new Date().toISOString(), pages, found, feeds: perFeed, radius_mi: c.radiusMiles, max_price: c.maxPrice, doc: kit.doc, note: stop};
+    const fill = (await chrome.storage.local.get('fill')).fill || {};
+    let fillNote = '';
+    if (fill.on) {
+      fill.cover = fill.cover || {}; for (const f of done) fill.cover[f] = true;
+      fill.left = c.feeds.filter((f) => !fill.cover[f]);
+      if (!fill.left.length) { fill.on = false; fill.finished = new Date().toISOString(); fillNote = 'All categories covered.'; }
+      else { const wait = stop ? 60 : 10; chrome.alarms.create('fill', {delayInMinutes: wait});
+             fillNote = `Cover-all: ${fill.left.length} categories left (${fill.left.join(', ')}) — next sweep in ${wait} min.`; }
+      await chrome.storage.local.set({fill});
+    }
+    const meta = {ts: new Date().toISOString(), pages, found, feeds: perFeed, radius_mi: c.radiusMiles, max_price: c.maxPrice, doc: kit.doc, note: stop,
+                  fill: fill.on !== undefined ? {on: !!fill.on, left: fill.left || []} : undefined};
     if (fresh.length) {
       await chrome.storage.local.set({pending: {rows: fresh, meta}});
       await pushRows(c, fresh, meta); await chrome.storage.local.remove('pending');
     }
-    await setStatus({state: 'done', pushed: fresh.length, err: stop, last: meta.ts, feeds: perFeed});
+    await setStatus({state: 'done', pushed: fresh.length, err: stop, last: meta.ts, feeds: perFeed, note: fillNote});
   } catch (e) {
     await setStatus({state: 'error', err: String(e.message || e).slice(0, 300)});
   } finally {
@@ -164,6 +180,11 @@ async function sweep() {
 
 chrome.runtime.onMessage.addListener((msg, _s, reply) => {
   if (msg === 'start') { sweep(); reply('started'); }
+  else if (msg === 'fill') { chrome.storage.local.set({fill: {on: true, cover: {}, started: new Date().toISOString()}})
+                               .then(() => setStatus({note: 'Cover-all started: sweeps repeat (10 min apart) until every category is covered.'}))
+                               .then(() => sweep()); reply('filling'); }
+  else if (msg === 'stopfill') { chrome.alarms.clear('fill'); chrome.storage.local.get('fill').then(({fill}) =>
+                               chrome.storage.local.set({fill: Object.assign(fill || {}, {on: false})})).then(() => setStatus({note: 'Cover-all stopped.'})); reply('ok'); }
   else if (msg === 'retry') { retryPending().then((n) => setStatus({note: `uploaded ${n} pending listings`, err: ''}))
                                          .catch((e) => setStatus({err: String(e.message || e)})); reply('retrying'); }
   else if (msg === 'schedule') { schedule().then(() => reply('ok')); return true; }
@@ -172,5 +193,5 @@ async function schedule() {
   const c = await cfg(); await chrome.alarms.clear('sweep');
   if (c.repeatHours > 0) chrome.alarms.create('sweep', {periodInMinutes: Math.max(120, c.repeatHours * 60), delayInMinutes: 1});
 }
-chrome.alarms.onAlarm.addListener((a) => { if (a.name === 'sweep') sweep(); });
+chrome.alarms.onAlarm.addListener((a) => { if (a.name === 'sweep' || a.name === 'fill') sweep(); });
 chrome.runtime.onStartup.addListener(schedule);

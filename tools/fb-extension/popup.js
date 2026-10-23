@@ -19,12 +19,13 @@ async function save() {
 }
 
 async function show() {
-  const {status, pending} = await chrome.storage.local.get(['status', 'pending']); const s = status || {};
+  const {status, pending, fill} = await chrome.storage.local.get(['status', 'pending', 'fill']); const s = status || {};
   let t = `state: ${s.state || 'idle'}${s.feed ? '  (' + s.feed + ')' : ''}\n` +
           `pages ${s.pages || 0} · seen ${s.found || 0} · new ${s.fresh || 0} · saved ${s.pushed || 0}`;
   if (s.last) t += `\nlast sweep: ${new Date(s.last).toLocaleString()}`;
   if (s.feeds) t += '\n' + Object.entries(s.feeds).map(([k, v]) => `${k}: ${v}`).join(', ');
   if (pending && pending.rows) t += `\n⚠ ${pending.rows.length} listings waiting to upload — press Retry upload`;
+  if (fill && fill.on) t += `\ncover-all ON — left: ${(fill.left || ['(first sweep running)']).join(', ')}`;
   if (s.note) t += `\n${s.note}`;
   if (s.err) t += `\n⚠ ${s.err}`;
   $('status').textContent = t;
@@ -32,5 +33,7 @@ async function show() {
 
 $('go').onclick = async () => { await chrome.runtime.sendMessage('start'); setTimeout(show, 500); };
 $('retry').onclick = async () => { await chrome.runtime.sendMessage('retry'); setTimeout(show, 1500); };
+$('fill').onclick = async () => { await chrome.runtime.sendMessage('fill'); setTimeout(show, 500); };
+$('stopfill').onclick = async () => { await chrome.runtime.sendMessage('stopfill'); setTimeout(show, 500); };
 $('save').onclick = save;
 load(); show(); setInterval(show, 1500);
