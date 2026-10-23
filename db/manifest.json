@@ -1,17 +1,17 @@
 {
-"made": "2026-10-23T13:59:27Z",
+"made": "2026-10-23T20:27:35Z",
 "files": [
 {
 "path": "db/comps.jsonl",
-"sha": "6374b597aa7ac0751bcd523ab4f9ffc29649ffdd"
+"sha": "66bfe72896024ee3522fdce3d911a0fe4d3d471a"
 },
 {
 "path": "db/events/2026-10.jsonl",
-"sha": "2d6139d8a23a3a6a841bf990d97b66497ff36ad8"
+"sha": "69c34869062c72ee12a73e271e581821799c8f4a"
 },
 {
 "path": "db/harvests.jsonl",
-"sha": "cdbc37f4907f64ae42e8763c3cf5361487b5d45f"
+"sha": "1704e1bef72d9a056ef51376eb7e930fa6a503f3"
 },
 {
 "path": "db/item_types.jsonl",
@@ -23,11 +23,15 @@
 },
 {
 "path": "db/listings/2026-10.jsonl",
-"sha": "80ea4c78106b0d1362604ce2d66754567a0aa785"
+"sha": "248ef871df5d53690b5dcc4345eb732eb9ad55d7"
+},
+{
+"path": "db/outcomes/shortlist.jsonl",
+"sha": "3bcd47b1572d8ac63d1486d41f56063b4e04fc87"
 },
 {
 "path": "db/searches.jsonl",
-"sha": "101039a2f492a5b2c857c1de177be30b223755b1"
+"sha": "3f3fbc74c0681ecbcb68f7cba5e0d30fba3af98c"
 }
 ],
 "entries": [
