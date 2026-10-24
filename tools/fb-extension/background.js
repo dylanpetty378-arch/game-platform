@@ -197,9 +197,7 @@ async function sweep() {
 
 chrome.runtime.onMessage.addListener((msg, _s, reply) => {
   if (msg === 'start') { sweep(); reply('started'); }
-  else if (msg === 'fill') { chrome.storage.local.set({fill: {on: true, cover: {}, started: new Date().toISOString()}})
-                               .then(() => setStatus({note: 'Cover-all started: sweeps repeat (10 min apart) until every category is covered.'}))
-                               .then(() => sweep()); reply('filling'); }
+  else if (msg === 'fill') { startFill(); reply('filling'); }
   else if (msg === 'stopfill') { chrome.alarms.clear('fill'); chrome.storage.local.get('fill').then(({fill}) =>
                                chrome.storage.local.set({fill: Object.assign(fill || {}, {on: false})})).then(() => setStatus({note: 'Cover-all stopped.'})); reply('ok'); }
   else if (msg === 'retry') { retryPending().then((n) => setStatus({note: `uploaded ${n} pending listings`, err: ''}))
@@ -212,3 +210,19 @@ async function schedule() {
 }
 chrome.alarms.onAlarm.addListener((a) => { if (a.name === 'sweep' || a.name === 'fill') sweep(); });
 chrome.runtime.onStartup.addListener(schedule);
+
+function startFill() {
+  return chrome.storage.local.set({fill: {on: true, cover: {}, started: new Date().toISOString()}})
+    .then(() => setStatus({note: 'Cover-all started: sweeps repeat (10 min apart) until every category is covered.'}))
+    .then(() => sweep());
+}
+// v1.3 (Oct 23 2026): an update (new feeds) starts a cover-all on its own, and a Claude session that can only open web
+// pages can drive the extension by opening facebook.com/marketplace/?refurbish=fill (or =sweep / =stop).
+chrome.runtime.onInstalled.addListener((d) => { if (d.reason === 'update') startFill(); });
+chrome.tabs.onUpdated.addListener((tabId, info) => {
+  const m = info.url && /^https:\/\/www\.facebook\.com\/marketplace\/?\?(?:.*&)?refurbish=(fill|sweep|stop)\b/.exec(info.url);
+  if (!m) return;
+  if (m[1] === 'fill') startFill();
+  else if (m[1] === 'sweep') sweep();
+  else { chrome.alarms.clear('fill'); chrome.storage.local.get('fill').then(({fill}) => chrome.storage.local.set({fill: Object.assign(fill || {}, {on: false})})); }
+});
