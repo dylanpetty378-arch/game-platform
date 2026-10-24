@@ -151,10 +151,14 @@ def prep(maxn=480, agents=None, skip=0):
     print(f'fb queue: {len(q)} unreviewed (last {KEEP_DAYS} days); sheets for rows {skip}-{min(skip + maxn, len(q))}')
     lowuse.prep(maxn, agents, path=path, prefix='fb')
 
-def review_all(chunk=1000, skip=0, agents=None):
-    """Oct 23 2026: re-review every local listing with research/FB_EYE_BRIEF.md (25 bigger cells per sheet)."""
+def review_all(chunk=1000, skip=0, agents=None, new_only=False):
+    """Oct 23 2026: re-review every local listing with research/FB_EYE_BRIEF.md (25 bigger cells per sheet).
+    new_only (Oct 24 2026): skip listings already screened in any /tmp/eye/fbx-* run or db/fb/reviewed.jsonl."""
     import lowuse
     rows, seen = [], set()
+    if new_only:
+        seen |= {r['id'] for r in load_jsonl(REVIEWED)}
+        for f in glob.glob('/tmp/eye/fbx-*/index.json'): seen |= {r['id'] for r in json.load(open(f)).values()}
     for f in sorted(glob.glob(os.path.join(FB, 'inbox', '*.json'))):
         for x in json.load(open(f)).get('rows', []):
             k = 'fb' + str(x.get('id'))
@@ -188,7 +192,7 @@ if __name__ == '__main__':
     a = sys.argv[1:]
     if not a: print(__doc__)
     elif a[0] == 'score': score()
-    elif a[0] == 'review_all': review_all(int(a[a.index('--chunk') + 1]) if '--chunk' in a else 1000, int(a[a.index('--skip') + 1]) if '--skip' in a else 0, int(a[a.index('--agents') + 1]) if '--agents' in a else None)
+    elif a[0] == 'review_all': review_all(int(a[a.index('--chunk') + 1]) if '--chunk' in a else 1000, int(a[a.index('--skip') + 1]) if '--skip' in a else 0, int(a[a.index('--agents') + 1]) if '--agents' in a else None, '--new-only' in a)
     elif a[0] == 'prep': prep(int(a[a.index('--max') + 1]) if '--max' in a else 480, int(a[a.index('--agents') + 1]) if '--agents' in a else None,
                               int(a[a.index('--skip') + 1]) if '--skip' in a else 0)  # big queues: chunks of ~960 (all photos load in memory)
     elif a[0] == 'done': done(a[1])
