@@ -1,5 +1,5 @@
 {
-"made": "2026-10-24T00:38:50Z",
+"made": "2026-10-24T03:32:22Z",
 "files": [
 {
 "path": "db/comps.jsonl",
@@ -18,8 +18,16 @@
 "sha": "6c132423cc1eb69d3436ff6b9f1e5e572db750cf"
 },
 {
+"path": "db/fb/scored/2026-10-24.jsonl",
+"sha": "d6a4a3024aa6967933b53aac142ca4c73cd71dad"
+},
+{
 "path": "db/fbreport/2026-10-23-1930.jsonl",
 "sha": "ff4c124f509434ebd280f55c3ce90abbcf452add"
+},
+{
+"path": "db/fbreport/2026-10-24-0400.jsonl",
+"sha": "09bc29be554a7cd52540abc1390e766b0de5b687"
 },
 {
 "path": "db/harvests.jsonl",

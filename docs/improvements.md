@@ -606,3 +606,5 @@ things actually sold for. Changes (all free compute in the eye-shortlist workflo
 
 ### 2026-10-23 FB first full review (all 6,846)
 4 sweeps (ext 1.1 cover-all) → 6846 scored → all screened (480 + 6366 in 7 chunks of 960; prep OOMs above ~1000 photos — use fb.py prep --max 960 --skip N). 23 flags → 3 leads (Hobbit MTG sealed lot $60 Plano, prewar Lionel 1688E set $50 Burleson, 1930s mohair bear $60 NJ ship). Changes: 38% of pool was ship-only out-of-state (mi=None) → now excluded in prep; brief: named items priced < half of typical sold now flag on FB; skip dealer/store ads; entertainment feed needs explicit category ids (ext 1.1.1).
+
+- 2026-10-24: Full all-goods re-review (clothing, kids/baby, home & kitchen, books added to the sweep; brand-name anything). 7,047 local listings screened → 451 flags → 102 leads (report 2026-10-24-0400). Verify agents ran out of WebSearch budget and eBay sold pages were blocked, so most values are estimates — next run should spread searches or batch smaller. Kitchen yielded only 1 lead; worth checking whether the home feed is mostly furniture.
