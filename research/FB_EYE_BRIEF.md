@@ -1,60 +1,59 @@
-# Facebook Marketplace eye brief (Oct 23 2026, Dylan's rules — replaces the Facebook section of LOWUSE_EYE_BRIEF.md)
+# Facebook Marketplace eye brief — v3 (Dylan's Q&A, Oct 24 2026; replaces v2)
 
-Facebook Marketplace is a different ballgame from eBay/ShopGoodwill. Read this whole file; ignore the eBay rules.
+Facebook Marketplace is its own game. Read this whole file; ignore the eBay rules.
 
-## How Facebook works (Dylan, Oct 23 2026)
-- Local pickup around Keller TX. People sell cheap because that is how Marketplace works: they want it **gone fast**.
-  Moving, clearing a garage, grandma's estate, kids' old stuff. Price is a starting point — "best offer", "$1",
-  "free", "make an offer", "need gone" all mean the real price is whatever Dylan offers.
-- **Dylan's proof:** a 14-volume antique book set listed best-offer; he offered $50, picked it up next day, worth
-  ~$600. It was recognised **from the pictures** — the title and text did not say what it was.
-- So: **judge the PHOTO, not the title.** Titles are vague, wrong, or Spanish. The listed price is a ceiling, not the cost.
+## Who this is for
+Dylan resells on the side: full-time job, two kids, a **Honda Civic** (fits the trunk or back seat — nothing bigger),
+no warehouse. He resells on **Facebook Marketplace locally and eBay shipped**. He is **not an expert** in most
+categories, so a lead only works if it is something he can be shown is real and worth it.
 
-## What to flag
-Look at every cell's photo and ask: *what is this really, and what does it sell for (sold, used, as-is)?*
-Flag it when **resale minus a realistic offer is ≥ $50 AND resale is ≥ ~3× the listed price** (free / $0 / $1 / OBO
-always pass the price part). Resale may be eBay/Poshmark/Mercari (minus ~13–20% + shipping) or local Facebook (no
-fees) — whichever is better. Named items count: a seller who named it can still be dumping it (prewar Lionel $50).
+## How Facebook works
+Sellers price cheap to get rid of things fast (moving, garage clear-out, estate, kids' stuff). "Best offer", "$1",
+"free", "make an offer" mean the real price is whatever Dylan offers. Value is recognised **from the photo**, not the
+title (his proof: a 14-volume antique book set, offered $50 on best offer, worth ~$600, never named in the text).
 
-**Dylan (Oct 23 2026): cover ALL kinds of goods, not just cards and collectibles — and anything brand-name, whatever
-the item.** Give the everyday categories the same attention as antiques:
-- **Clothes, shoes, bags:** brand-name lots and singles — Lululemon, Patagonia, Arc'teryx, North Face (Nuptse/Summit),
-  Carhartt/Filson, Levi's vintage (big E, orange tab, 501XX), Nike/Jordan/Yeezy/New Balance, Dr. Martens, Frye, Lucchese
-  and other good boots, Coach/Kate Spade/Tory Burch/Michael Kors (real), designer, vintage band and sports tees (single
-  stitch), letterman/leather jackets, NWT bundles, a box of name-brand kids' clothes (Hanna Andersson, Janie & Jack,
-  Patagonia kids) sold as a lot.
-- **Children's toys and baby gear:** Magna-Tiles/Picasso Tiles, LEGO by the tub or pound, Calico Critters, American Girl,
-  Melissa & Doug sets, Little Tikes/Step2 outdoor pieces, Power Wheels, Plan Toys/Hape/Grimm's wooden toys, vintage toys
-  (Fisher-Price, Star Wars, He-Man, Barbie), Nintendo/console bundles; baby gear: UPPAbaby, Nuna, Doona, Bugaboo,
-  Babyletto/4moms/SNOO, Ergobaby, high-end car seats (check expiry).
-- **Books:** sets and runs (leather/antique volumes, Easton/Franklin Mint, Folio Society), signed or first editions,
-  vintage children's books, cookbooks of note, comics/manga runs, textbooks of the current edition, a box of books that
-  shows any of these on the spines.
-- **Kitchen and home:** Le Creuset/Staub, cast iron (Griswold/Wagner/Lodge vintage), All-Clad, Vitamix/Blendtec,
-  KitchenAid stand mixers, Breville/espresso machines, Ninja/Instant Pot only if new-in-box, vintage Pyrex/Corningware/
-  Fiesta/Fire-King, Dansk/Catherineholm, good knives (Wüsthof/Shun), sterling flatware, crystal (Waterford), YETI/Stanley,
-  Dyson, iRobot.
-- **Also:** power tools and tool lots (Milwaukee/DeWalt/Makita/Snap-on), outdoor/sports gear (YETI, Traeger, Weber,
-  golf clubs, bikes by brand), audio/electronics by brand, furniture with a name or mid-century design, art, antiques,
-  cards, records, instruments — as before.
-- **Garage / estate / moving-sale posts:** flag if the PHOTO shows brand-name or valuable things on the tables.
-- **Big things** (furniture, appliances, ride-ons): flag only if branded/valuable; note "SIZE: truck".
+## What counts as hidden value (all four count)
+1. **Seller doesn't name the brand** — "brown boots" that are Lucchese; "purse" that's a real Coach.
+2. **Mislabeled as the cheap version** — "pan" that's Le Creuset; "old books" that are a valuable set.
+3. **Priced to dump, value obvious** — seller knows the brand but just wants it gone.
+4. **A lot hiding a key piece** — one valuable item in a box/table of ordinary things. Lots are fine when either the
+   key pieces can be picked out and sold, or the whole lot sells at once. Never "sell 100 things one by one".
 
-## Skip
-Replica/homage luxury (a "luxury automatic watch" that looks like an Omega/Rolex for $160, logo handbags at $50 —
-real ones are never dumped at that price without a receipt/box story); items only ~2× the price above $100 asks;
-services, food, rentals, loans, "we buy", internet/phone plans, new mass-retail items at retail price, cheap fashion
-jewelry, no-name/fast-fashion clothes and single plain kids' clothes (brand-name lots are fine), dealer/store ads
-(display cases, many identical items, shop names, $1 placeholder on a store item), and anything whose profit at a
-realistic offer would be under $50.
+## Look hardest at (Dylan's priorities)
+- **Brand-name clothes, shoes, bags:** Lululemon, Patagonia, Arc'teryx, North Face (Nuptse/Summit), Carhartt/Filson,
+  vintage Levi's (big E, orange tab), Nike/Jordan/New Balance, Dr. Martens, Frye, Lucchese/exotic western boots,
+  Coach/Kate Spade/Tory Burch/Michael Kors (real), designer, vintage band and sports tees, NWT bundles, name-brand
+  kids' lots (Hanna Andersson, Janie & Jack, Patagonia kids).
+- **Books, toys, kids & kitchen:** book sets and runs, leather/antique volumes, Easton/Franklin/Folio Society, signed/
+  first editions, vintage children's books; Magna-Tiles, LEGO by the tub, Calico Critters, American Girl, Plan Toys/
+  Grimm's, vintage toys; UPPAbaby/Nuna/Doona/Bugaboo, Ergobaby; Le Creuset/Staub, Griswold/Wagner cast iron, All-Clad,
+  Vitamix, KitchenAid mixers, Breville/espresso, vintage Pyrex/Corningware/Fire-King, Dansk/Catherineholm, Wüsthof/Shun,
+  sterling flatware, Waterford, YETI.
+- **Jewelry and anything with inherent value:** sterling, gold, real gemstones, coins, sterling vs plate, real (not
+  homage) watches. Dylan has **no test kit** — favour pieces whose photo shows a stamp (925/Sterling, 10K/14K/18K) or
+  that are unmistakable; anything else only as a <$20 hunch.
 
-## Be generous at this stage
-A deeper review checks every flag with sold prices. Missing a $600 book set costs far more than one extra flag.
-Expect roughly 2–8 flags per 25-cell sheet in a household pool, across all kinds of goods — not mostly cards. If a cell's photo is too small or unclear but
-*could* be something good, flag it with "CHECK PHOTOS".
+## Never flag (Dylan, Oct 24 2026)
+Funko Pops and other mass-market collectibles; trading cards and sealed TCG product; furniture and big appliances
+(anything that won't go in a Civic's trunk or back seat); musical instruments and audio gear; replicas/homage luxury;
+services, food, rentals, "we buy"; dealer/store ads; new mass-retail items at retail; fast-fashion and single plain
+kids' clothes; anything whose profit at a realistic offer is under $50.
+
+## Money rule
+Flag when **resale − realistic offer ≥ $50**, and for asks over $50 resale ≥ 2× the ask. Free / $0 / $1 / OBO pass
+the price part. Resale = eBay sold (minus ~15% fees + shipping) or local Facebook, whichever is better.
+
+## Certainty
+Each flag must be a **specific identification** — brand + model/line/pattern/title — that a checker can look up and
+find sold examples of. "Vintage chair", "nice boots", "old books" is not a flag. If the photo is unclear but a specific
+identification is plausible, flag with "CHECK PHOTOS" and say what to look for. Under a $20 ask a strong hunch is fine;
+say it's a hunch.
+
+## Be generous within those rules
+Missing a $600 book set costs far more than one extra flag. Expect roughly 1–5 flags per 25-cell sheet.
 
 ## Output
 For each sheet in your batch: read `sheet_NN.md` (cell → title, price, city/miles), then view `sheet_NN.jpg`
 (yellow tag = cell number). Write one line per flag to your flags file, tab-separated:
-`<sheet number>\t<cell number>\tLEAD — <what the photo shows / what it really is, est. resale $, why>`
+`<sheet number>\t<cell number>\tLEAD — <specific ID: brand + model/line>; <hidden-value type 1–4>; est. resale $; why>`
 Create the file even if empty. Reply with only the flag count and flags per sheet.
