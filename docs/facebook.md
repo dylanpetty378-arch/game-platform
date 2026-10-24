@@ -48,6 +48,12 @@ from the PHOTO (Dylan's 14-vol book set: $50 best offer, worth ~$600). Old eBay-
    **research/FB_VERIFY_BRIEF.md** (sold comps; lead = resale ≥ $100 and ≥ 3× realistic offer).
 4. Main session: look at the top leads' photos, drop the obviously wrong, rank by profit, reply with the best first.
    Pilot any rule change on 2–3 sheets against your own read before running everything.
+5. **Publish the report to the site** (Dylan reads it on his phone): write `db/fbreport/<YYYY-MM-DD-HHMM>.jsonl` — one
+   `{"kind":"meta"}` line (report, title, made, reviewed, summary_md, howto_md, method_md) then one `{"kind":"item"}` line
+   per lead (id, rank, tier A/B/C, name, title, price, value, max_offer, city, mi, url, category, confidence, size,
+   price_note, what, evidence, resale, checks[], message, offer_plan, risks, photo = data:image/jpeg;base64 ≤ 400px).
+   Copy the shape of `db/fbreport/2026-10-23-1930.jsonl`. Run `python3 scripts/manifest.py`, commit, push. It appears at
+   `<site>/fb` within 10 minutes (site base URL: project doc claude/website-access.md). No site code change needed.
 
 ## Review procedure (OLD, eBay-style — superseded)
 Low-usage rules apply (docs/low-usage.md): ≈ 20 tool calls, Sonnet eye agents only, deep review ≤ ~8 items.
