@@ -36,7 +36,20 @@ rate-limits around 100–150), pauses between pages, sweeps started by Dylan (or
 **If it says "No Marketplace query found":** open facebook.com/marketplace once by hand, make sure you're logged in, try
 again. Facebook changes its pages occasionally — send the exact status message to a Claude chat to fix the extension.
 
-## Review procedure (Claude chat — "review the facebook posts")
+## Review procedure — NEW (Oct 23 2026, Dylan): Facebook-specific, photo-first
+Facebook is not eBay: sellers dump things cheap and fast, price is a ceiling, offers are normal, value is recognised
+from the PHOTO (Dylan's 14-vol book set: $50 best offer, worth ~$600). Old eBay-style rules found 3 weak leads in
+6,846; the new process found ~53 in 4,494.
+1. Pull, lock, `pip install pillow`. `python3 scripts/fb.py review_all --chunk 1000 --skip N --agents 4` per 1000
+   listings (25 big cells/sheet; chunks because >~1000 photos runs out of memory). Only unreviewed rows matter after
+   the first run — mark reviewed with `fb.py done <run>`.
+2. Eye: one Sonnet agent per ~10 sheets with **research/FB_EYE_BRIEF.md** (generous; ~7% flag rate is expected).
+3. Panels: `lowuse.py panels <run> flags.tsv`; then batches of 24 → Sonnet verify agents with
+   **research/FB_VERIFY_BRIEF.md** (sold comps; lead = resale ≥ $100 and ≥ 3× realistic offer).
+4. Main session: look at the top leads' photos, drop the obviously wrong, rank by profit, reply with the best first.
+   Pilot any rule change on 2–3 sheets against your own read before running everything.
+
+## Review procedure (OLD, eBay-style — superseded)
 Low-usage rules apply (docs/low-usage.md): ≈ 20 tool calls, Sonnet eye agents only, deep review ≤ ~8 items.
 1. Clone/pull `refurbish`; `python3 scripts/lock.py take "<chat>" 2`; `pip install -q --break-system-packages pillow`.
 2. `python3 scripts/fb.py stats` then `python3 scripts/fb.py prep` → run name `fb-<ts>`, sheets of the best ≤ 480

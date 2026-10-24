@@ -76,6 +76,10 @@ def scored_rows(days=KEEP_DAYS):
     return [r for f in fs for r in load_jsonl(f)]
 
 # ---------------------------------------------------------------- score (GitHub Actions)
+FB_SKIP = re.compile(r'\b(renta|rental|rentals|we buy|internet|spectrum|pr[eé]stamos|loan|nutricionista|pasteles|enchiladas|'
+                     r'tamales|comida|food|catering|bounce house|brincolines|cleaning service|services?|hiring|apartment|'
+                     r'for rent|insurance)\b', re.I)
+
 def score():
     st = json.load(open(STATE)) if os.path.exists(STATE) else {'scored_files': []}
     done = set(st['scored_files'])
@@ -100,7 +104,7 @@ def score():
     keep = []
     for r in rows:
         r['mi'] = miles(r['city'])
-        if r['p'] > MAX_PRICE or not r['img'] or shortlist.JUNK.search(r['t']): continue
+        if r['p'] > MAX_PRICE or not r['img'] or FB_SKIP.search(r['t']): continue  # Oct 23: eBay JUNK filter dropped LEGO/Pokemon lots — not junk on FB
         if r['mi'] is not None and r['mi'] > 60: continue
         m = melt.floor(r['t'], r['p'])
         if m: r['melt'] = m
@@ -147,6 +151,26 @@ def prep(maxn=480, agents=None, skip=0):
     print(f'fb queue: {len(q)} unreviewed (last {KEEP_DAYS} days); sheets for rows {skip}-{min(skip + maxn, len(q))}')
     lowuse.prep(maxn, agents, path=path, prefix='fb')
 
+def review_all(chunk=1000, skip=0, agents=None):
+    """Oct 23 2026: re-review every local listing with research/FB_EYE_BRIEF.md (25 bigger cells per sheet)."""
+    import lowuse
+    rows, seen = [], set()
+    for f in sorted(glob.glob(os.path.join(FB, 'inbox', '*.json'))):
+        for x in json.load(open(f)).get('rows', []):
+            k = 'fb' + str(x.get('id'))
+            if k in seen or x.get('sold') or not x.get('img'): continue
+            seen.add(k); mi = miles(x.get('city') or '')
+            if mi is None or mi > 60 or FB_SKIP.search(x.get('t') or ''): continue
+            rows.append({'src': 'fb', 'id': k, 't': f"{(x.get('t') or '')[:140]} [{x.get('city')} {band(mi)}]", 'p': float(x.get('p') or 0),
+                         'b': 0, 'end': None, 'img': x['img'], 'url': f"https://www.facebook.com/marketplace/item/{x.get('id')}/",
+                         'city': x.get('city'), 'st': x.get('st'), 'mi': mi, 'types': [], 'down': []})
+    rows.sort(key=lambda r: r['id'])
+    path = '/tmp/fb_queue.json'
+    json.dump({'made': dt.datetime.now(dt.timezone.utc).isoformat(), 'pool': {'fb': len(rows)}, 'rows': rows[skip:skip + chunk]}, open(path, 'w'))
+    print(f'fb review_all: {len(rows)} local listings; this chunk {skip}-{min(skip + chunk, len(rows))}')
+    lowuse.COLS, lowuse.ROWS, lowuse.CELL = 5, 5, 300; lowuse.PER = 25
+    lowuse.prep(chunk, agents, path=path, prefix='fbx')
+
 def done(run):
     idx = json.load(open(f'/tmp/eye/{run}/index.json'))
     now = dt.datetime.now(dt.timezone.utc).isoformat()
@@ -164,6 +188,7 @@ if __name__ == '__main__':
     a = sys.argv[1:]
     if not a: print(__doc__)
     elif a[0] == 'score': score()
+    elif a[0] == 'review_all': review_all(int(a[a.index('--chunk') + 1]) if '--chunk' in a else 1000, int(a[a.index('--skip') + 1]) if '--skip' in a else 0, int(a[a.index('--agents') + 1]) if '--agents' in a else None)
     elif a[0] == 'prep': prep(int(a[a.index('--max') + 1]) if '--max' in a else 480, int(a[a.index('--agents') + 1]) if '--agents' in a else None,
                               int(a[a.index('--skip') + 1]) if '--skip' in a else 0)  # big queues: chunks of ~960 (all photos load in memory)
     elif a[0] == 'done': done(a[1])
