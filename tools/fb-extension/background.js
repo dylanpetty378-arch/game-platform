@@ -13,6 +13,8 @@ const DEFAULTS = {
   radiusMiles: 50, maxPrice: 400, pageBudget: 120, perFeedMax: 40, repeatHours: 0,
   feeds: ['antiques', 'jewelry', 'instruments', 'hobbies', 'free', 'toys', 'entertainment', 'sports', 'home-improvements'],
 };
+// Feeds Facebook only fills when given explicit category ids (read from the live category page, Oct 23 2026).
+const CAT_IDS = {entertainment: [686977074745292, 613858625416355, 419938138375237]};
 const START_URL = 'https://www.facebook.com/marketplace/category/antiques?sortBy=creation_time_descend';
 const SEEN_DAYS = 30;
 const CHUNK = 800;
@@ -71,7 +73,7 @@ function feedVars(kit, c, slug, cursor) {
   const V = JSON.parse(JSON.stringify(kit.cv));
   V.buyLocation = {latitude: KELLER.lat, longitude: KELLER.lon};
   const B = V.params.browse_request_params;
-  Object.assign(B, {commerce_search_and_rp_category_id: null, commerce_enable_shipping: false, commerce_enable_local_pickup: true,
+  Object.assign(B, {commerce_search_and_rp_category_id: CAT_IDS[slug] || null, commerce_enable_shipping: false, commerce_enable_local_pickup: true,
     filter_location_latitude: KELLER.lat, filter_location_longitude: KELLER.lon, filter_radius_km: Math.round(c.radiusMiles * 1.609),
     filter_price_upper_bound: c.maxPrice * 100, commerce_search_and_rp_ctime_days: null, commerce_search_sort_by: 'CREATION_TIME_DESCEND'});
   V.params.custom_request_params.seo_url = slug;

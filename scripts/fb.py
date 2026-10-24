@@ -136,15 +136,15 @@ def score():
     print(f"fb: scored {len(keep)} -> {p}; melt leads {sum(1 for r in keep if r.get('melt', {}).get('ok'))}", flush=True)
 
 # ---------------------------------------------------------------- review (Claude chat)
-def prep(maxn=480, agents=None):
+def prep(maxn=480, agents=None, skip=0):
     import lowuse
     rev = {r['id'] for r in load_jsonl(REVIEWED)}
-    q = [r for r in scored_rows() if r['id'] not in rev]
+    q = [r for r in scored_rows() if r['id'] not in rev and r.get('mi') is not None]  # no distance = ship-only listing from out of state (38% of Oct 23 pool)
     q.sort(key=lambda r: -r.get('score', 0))
     for r in q: r['t'] = f"{r['t']} [{r.get('city') or '?'} {band(r.get('mi'))}]"
     path = '/tmp/fb_queue.json'
-    json.dump({'made': dt.datetime.now(dt.timezone.utc).isoformat(), 'pool': {'fb': len(q)}, 'rows': q[:maxn]}, open(path, 'w'))
-    print(f'fb queue: {len(q)} unreviewed (last {KEEP_DAYS} days); sheets for the top {min(maxn, len(q))}')
+    json.dump({'made': dt.datetime.now(dt.timezone.utc).isoformat(), 'pool': {'fb': len(q)}, 'rows': q[skip:skip + maxn]}, open(path, 'w'))
+    print(f'fb queue: {len(q)} unreviewed (last {KEEP_DAYS} days); sheets for rows {skip}-{min(skip + maxn, len(q))}')
     lowuse.prep(maxn, agents, path=path, prefix='fb')
 
 def done(run):
@@ -164,6 +164,7 @@ if __name__ == '__main__':
     a = sys.argv[1:]
     if not a: print(__doc__)
     elif a[0] == 'score': score()
-    elif a[0] == 'prep': prep(int(a[a.index('--max') + 1]) if '--max' in a else 480)
+    elif a[0] == 'prep': prep(int(a[a.index('--max') + 1]) if '--max' in a else 480, int(a[a.index('--agents') + 1]) if '--agents' in a else None,
+                              int(a[a.index('--skip') + 1]) if '--skip' in a else 0)  # big queues: chunks of ~960 (all photos load in memory)
     elif a[0] == 'done': done(a[1])
     elif a[0] == 'stats': stats()

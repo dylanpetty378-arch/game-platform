@@ -55,8 +55,11 @@ Free compute now reads things you can't see in a 220 px thumbnail. Use them; the
 - Fixed prices, often negotiable; good ones sell within hours. No bids, no end time ("?h").
 - Sellers are households, not resellers: vague titles, phone photos, moving / estate / "grandma's" clear-outs. The
   labelled-down pattern applies fully. Size rule still applies (nothing bigger than a car's passenger seat).
-- A seller who names the maker on Facebook has usually priced it to match — only flag if the photo shows a clearly
-  better version than the title claims, or the price is far under the SIMILAR SOLD line.
+- A named maker does NOT disqualify on Facebook (Oct 23 2026, first full review: the real finds were named items
+  priced low — e.g. prewar Lionel 1688E set $50). Flag a named item when its price is under about HALF of what it
+  typically sells for, or the photo shows a better version than the title claims. Say the typical sold price.
+- Skip store/dealer ads: display cases, pegboards, many identical items, "$1" placeholder prices, shop names as seller
+  ("jewelry king"). Those are retail, not households.
 
 ## Dylan's time is the constraint (Oct 22 2026)
 Dylan has a full-time job and two kids — this is not a volume business. Every flag should be something worth an

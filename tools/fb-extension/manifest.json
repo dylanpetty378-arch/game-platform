@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Refurbish Watcher",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Reads Facebook Marketplace category feeds near Keller (as you, at a human pace) and saves new listings to Dylan's Refurbish repo for review.",
   "permissions": ["storage", "scripting", "tabs", "alarms"],
   "host_permissions": ["https://www.facebook.com/*", "https://api.github.com/*"],

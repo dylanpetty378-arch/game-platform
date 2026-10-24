@@ -603,3 +603,6 @@ things actually sold for. Changes (all free compute in the eye-shortlist workflo
   rule. It then hung 84 min in Tesseract (4 workers × OpenMP threads on 4 vCPU, 1600 px images) and hit the 150-min
   timeout before committing. Fixed: OMP_THREAD_LIMIT=1, 1200 px, 25 s per image, top 500 rows only, 15-min OCR budget
   (≈1.3 s/photo measured). Expected daily run ≈ 70 min from 08:47 UTC.
+
+### 2026-10-23 FB first full review (all 6,846)
+4 sweeps (ext 1.1 cover-all) → 6846 scored → all screened (480 + 6366 in 7 chunks of 960; prep OOMs above ~1000 photos — use fb.py prep --max 960 --skip N). 23 flags → 3 leads (Hobbit MTG sealed lot $60 Plano, prewar Lionel 1688E set $50 Burleson, 1930s mohair bear $60 NJ ship). Changes: 38% of pool was ship-only out-of-state (mi=None) → now excluded in prep; brief: named items priced < half of typical sold now flag on FB; skip dealer/store ads; entertainment feed needs explicit category ids (ext 1.1.1).
