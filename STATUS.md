@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-23T23:53:48Z
+# Refurbish status — 2026-10-24T05:30:18Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,15 +6,15 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 26903 |
+| queued | 27703 |
 | photo_review/kill | 9044 |
-| flagged | 4200 |
+| flagged | 4199 |
 | lensed | 1350 |
 | queued/relens | 486 |
-| decided/kill | 142 |
+| decided/kill | 165 |
 | decided/ask | 86 |
-| expired | 42 |
-| decided/find | 31 |
+| expired | 43 |
+| decided/find | 34 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
 | decided/bundle | 3 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 49
-- searches: 11096
-- listings: 42013
+- harvests: 50
+- searches: 11326
+- listings: 42839
 - lens: 13549
-- events: 68350
-- comps: 8948
+- events: 69177
+- comps: 9149
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261022-2333 — 114302 listings, 111475 new, 800 queued
 - craigslist-20261023-0522 — 77344 listings, 75531 new, 800 queued
 - craigslist-20261023-1340 — 52592 listings, 51352 new, 800 queued
 - craigslist-20261023-2004 — 125575 listings, 123069 new, 800 queued
 - craigslist-20261023-2330 — 116826 listings, 114022 new, 800 queued
+- craigslist-20261024-0507 — 78035 listings, 76422 new, 800 queued
 
-## Finds and open leads (120)
+## Finds and open leads (123)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -164,8 +164,11 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00Y0Y_9znexJGs6Nz_0oP0kh_300x300.jpg" width="160"> | [Large Albumen Print GARIBALDI'S RED-SHIRTS(?) Army Reunion I](https://www.craigslist.org/view/d/concord-large-albumen-print-garibaldis/4aBSkZd1YHnJnU5KfeKoLi) | $50 | nh | **decided/ask** — Large albumen print, image 16 x 12.5 in, re-matted, c. 1880s. NOT Garibaldi Red Shirts: a painted studio forest backdrop, men in pointed 'brigand' caps, knives, a lantern and a woman in the group read as a theatrical cas |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/EkUAAeSwNiVq2M85/s-l500.jpg_300x300.jpg" width="160"> | [Vintage Navajo Silver and Turquoise 3-Stone Cuff Bracelet 48](https://www.ebay.com/itm/377587596376) | $35.0 |  | **decided/find** — Navajo 3-stone cuff, 48 g, natural-looking stones; only first photo seen - check hallmark/smith signature and stone type before bidding |
 | <img src="https://images.craigslist.org/https://i.ebayimg.com/images/g/C5UAAeSwxw1q19xI/s-l500.jpg_300x300.jpg" width="160"> | [Antique Lyons 1 Gallon Stoneware Crock With Bright Floral De](https://www.ebay.com/itm/237134645778) | $1.0 |  | **decided/find** — Impressed LYONS (NY) salt-glazed crock, brushed cobalt flower; Crocker Farm sold a 1-gal Lyons floral crock $480 (Nov 2025); ask size, chips, hairlines |
+| <img src="https://images.craigslist.org/https://scontent-dfw5-1.xx.fbcdn.net/v/t39.84726-6/854127458_28669425059377832_4579419783989914395_n.jpg?stp=c0.83.526.526a_dst-jpg_p526x395_tt6&_nc_cat=105&ccb=1-7&_nc_sid=92e707&_nc_ohc=8Zw5QC1c8fYQ7kNvwGgx6Iv&_nc_oc=Adq5twWZXR9_z3Y_vxsU2VbGYyNR_Utug_yZwjCUJXVyVq1kyUDnecFbEqA9GrYHUyo&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=k9lNzFdEeKPVp7k0ltFTAQ&_nc_ss=7b1a0&oh=00_AQONHLlgGyLtU_NK1R-AWxUYPh3X5S9kHUxlMx5LqLGa9g&oe=6AE1D6B7_300x300.jpg" width="160"> | [Rare Vintage 1930’s German Poseable Teddy Bear with Jointed ](https://www.facebook.com/marketplace/item/2295025104685456/) | $60.0 |  | **decided/find** — NJ, ship only; 1930s mohair jointed bear w/ chest button, no ear button |
+| <img src="https://images.craigslist.org/https://scontent-dfw6-2.xx.fbcdn.net/v/t39.84726-6/857291032_1078836191633311_8217314445598314920_n.jpg?stp=c0.87.526.526a_dst-jpg_p526x395_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=Vt435R9t_ZwQ7kNvwFrw0B7&_nc_oc=AdqfWdgcggnlFGWK7vXK7PvMqiK96-i_WNk3gm2W8WfR7xTzPlf1s-4El4vD67ERUrU&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=dz2r6hSB6GR6rrupK5HedA&_nc_ss=7b1a0&oh=00_AQOLnvV6JTWJZvwoiviT-fSxr7UpRMuB7CHMclcDieHVrw&oe=6AE1C47A_300x300.jpg" width="160"> | [The Hobbit Collector Magic the Gathering [Plano 31mi (needs ](https://www.facebook.com/marketplace/item/1771923673860138/) | $60.0 |  | **decided/find** — sealed Hobbit collector booster box(es); ask what $60 buys |
+| <img src="https://images.craigslist.org/https://scontent-dfw5-1.xx.fbcdn.net/v/t39.84726-6/854569286_1099652742664592_5174285786770225811_n.jpg?stp=c89.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=b9sjKUcElPAQ7kNvwHeT6H3&_nc_oc=AdqPtYAW3lOGgGeQXB2CCznmCAGGAtNUcGTPQVv_DqahXcqtXKa3L1BZ3OhLLPdY3rI&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=8fJ30PChcAIXvdSIho8D5g&_nc_ss=7b1a0&oh=00_AQPcO4PZ22ytbCXiXM_8ObsrReRQl-gLMtQPNOGGDR9Wzw&oe=6AE1AC68_300x300.jpg" width="160"> | [Vintage Prewar O Gauge Lionel 1688E Torpedo Locomotive & 268](https://www.facebook.com/marketplace/item/29770689322519046/) | $50.0 |  | **decided/find** — prewar Lionel 1688E + 2689W, Burleson |
 
-## Flagged by Lens, waiting for photo review (4200)
+## Flagged by Lens, waiting for photo review (4199)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
