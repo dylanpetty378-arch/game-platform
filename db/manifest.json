@@ -1,5 +1,5 @@
 {
-"made": "2026-10-24T07:23:50Z",
+"made": "2026-10-24T07:23:51Z",
 "files": [
 {
 "path": "db/comps.jsonl",
@@ -11,7 +11,7 @@
 },
 {
 "path": "db/fb/reviewed.jsonl",
-"sha": "4f749cb1b7062fd52976e03a087ad3d9c3b50032"
+"sha": "a29600aa1815f031e1246fbcc96188ea2e89273c"
 },
 {
 "path": "db/fb/scored/2026-10-23.jsonl",
@@ -19,7 +19,7 @@
 },
 {
 "path": "db/fb/scored/2026-10-24.jsonl",
-"sha": "49e0e3ff325e3ab76442338adb448552c4841fd7"
+"sha": "fb369bd5d7778b2a62e7e4405bd3b11856a6b048"
 },
 {
 "path": "db/fbreport/2026-10-23-1930.jsonl",
