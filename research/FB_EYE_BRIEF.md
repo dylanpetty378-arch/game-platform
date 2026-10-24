@@ -44,8 +44,9 @@ the item.** Give the everyday categories the same attention as antiques:
 Replica/homage luxury (a "luxury automatic watch" that looks like an Omega/Rolex for $160, logo handbags at $50 —
 real ones are never dumped at that price without a receipt/box story); items only ~2× the price above $100 asks;
 services, food, rentals, loans, "we buy", internet/phone plans, new mass-retail items at retail price, cheap fashion
-jewelry, kids' clothes, dealer/store ads (display cases, many identical items, shop names, $1 placeholder on a store
-item), and things whose real resale is under $100.
+jewelry, no-name/fast-fashion clothes and single plain kids' clothes (brand-name lots are fine), dealer/store ads
+(display cases, many identical items, shop names, $1 placeholder on a store item), and anything whose profit at a
+realistic offer would be under $50.
 
 ## Be generous at this stage
 A deeper review checks every flag with sold prices. Missing a $600 book set costs far more than one extra flag.
