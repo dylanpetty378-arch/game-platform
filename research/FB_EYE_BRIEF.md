@@ -12,20 +12,33 @@ Facebook Marketplace is a different ballgame from eBay/ShopGoodwill. Read this w
 
 ## What to flag
 Look at every cell's photo and ask: *what is this really, and what does it sell for (sold, used, as-is)?*
-Flag it when **typical resale is ≥ $100 AND at least ~3× the listed price** (free / $0 / $1 / OBO always pass the
-price part). Resale may be eBay (minus ~13% + shipping) or local Facebook (no fees) — whichever is better.
-Named items count: a seller who named it can still be dumping it (prewar Lionel set for $50).
+Flag it when **resale minus a realistic offer is ≥ $50 AND resale is ≥ ~3× the listed price** (free / $0 / $1 / OBO
+always pass the price part). Resale may be eBay/Poshmark/Mercari (minus ~13–20% + shipping) or local Facebook (no
+fees) — whichever is better. Named items count: a seller who named it can still be dumping it (prewar Lionel $50).
 
-Things that typically clear this on Facebook (not a filter — anything can):
-- Sets and runs: multi-volume antique/leather books, encyclopedias of note, complete card sets, full china/silver sets.
-- Bulk lots: LEGO by the tub/pound (~$8–10/lb), Pokémon/sports card binders and boxes, vintage toys, tools, records.
-- Brand-name things people underprice: power tools (DeWalt/Milwaukee/Makita/Snap-on), KitchenAid/Vitamix/Le Creuset,
-  Pyrex/Fiesta, sterling, Coach/Dooney/Louis Vuitton, Apple, game consoles + games, cameras/lenses, audio gear.
-- Antiques & vintage: signs, cast iron (Griswold/Wagner), crocks, mid-century lamps/furniture pieces, art pottery,
-  quilts, militaria, fishing tackle, typewriters, Native/Mexican silver & turquoise, gold jewelry in a junk lot.
-- Garage / estate / moving-sale posts: flag if the PHOTO shows something valuable on the tables (note what and where).
-- Furniture & appliances: flag only if the brand/design is valuable (mid-century, Ethan Allen-quality solid wood,
-  name designers, Weber grills) — note "SIZE: truck" so Dylan can decide. Plain free couches/fridges: skip.
+**Dylan (Oct 23 2026): cover ALL kinds of goods, not just cards and collectibles — and anything brand-name, whatever
+the item.** Give the everyday categories the same attention as antiques:
+- **Clothes, shoes, bags:** brand-name lots and singles — Lululemon, Patagonia, Arc'teryx, North Face (Nuptse/Summit),
+  Carhartt/Filson, Levi's vintage (big E, orange tab, 501XX), Nike/Jordan/Yeezy/New Balance, Dr. Martens, Frye, Lucchese
+  and other good boots, Coach/Kate Spade/Tory Burch/Michael Kors (real), designer, vintage band and sports tees (single
+  stitch), letterman/leather jackets, NWT bundles, a box of name-brand kids' clothes (Hanna Andersson, Janie & Jack,
+  Patagonia kids) sold as a lot.
+- **Children's toys and baby gear:** Magna-Tiles/Picasso Tiles, LEGO by the tub or pound, Calico Critters, American Girl,
+  Melissa & Doug sets, Little Tikes/Step2 outdoor pieces, Power Wheels, Plan Toys/Hape/Grimm's wooden toys, vintage toys
+  (Fisher-Price, Star Wars, He-Man, Barbie), Nintendo/console bundles; baby gear: UPPAbaby, Nuna, Doona, Bugaboo,
+  Babyletto/4moms/SNOO, Ergobaby, high-end car seats (check expiry).
+- **Books:** sets and runs (leather/antique volumes, Easton/Franklin Mint, Folio Society), signed or first editions,
+  vintage children's books, cookbooks of note, comics/manga runs, textbooks of the current edition, a box of books that
+  shows any of these on the spines.
+- **Kitchen and home:** Le Creuset/Staub, cast iron (Griswold/Wagner/Lodge vintage), All-Clad, Vitamix/Blendtec,
+  KitchenAid stand mixers, Breville/espresso machines, Ninja/Instant Pot only if new-in-box, vintage Pyrex/Corningware/
+  Fiesta/Fire-King, Dansk/Catherineholm, good knives (Wüsthof/Shun), sterling flatware, crystal (Waterford), YETI/Stanley,
+  Dyson, iRobot.
+- **Also:** power tools and tool lots (Milwaukee/DeWalt/Makita/Snap-on), outdoor/sports gear (YETI, Traeger, Weber,
+  golf clubs, bikes by brand), audio/electronics by brand, furniture with a name or mid-century design, art, antiques,
+  cards, records, instruments — as before.
+- **Garage / estate / moving-sale posts:** flag if the PHOTO shows brand-name or valuable things on the tables.
+- **Big things** (furniture, appliances, ride-ons): flag only if branded/valuable; note "SIZE: truck".
 
 ## Skip
 Replica/homage luxury (a "luxury automatic watch" that looks like an Omega/Rolex for $160, logo handbags at $50 —
@@ -36,7 +49,7 @@ item), and things whose real resale is under $100.
 
 ## Be generous at this stage
 A deeper review checks every flag with sold prices. Missing a $600 book set costs far more than one extra flag.
-Expect roughly 2–8 flags per 25-cell sheet in a household pool. If a cell's photo is too small or unclear but
+Expect roughly 2–8 flags per 25-cell sheet in a household pool, across all kinds of goods — not mostly cards. If a cell's photo is too small or unclear but
 *could* be something good, flag it with "CHECK PHOTOS".
 
 ## Output

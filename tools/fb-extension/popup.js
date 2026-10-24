@@ -1,6 +1,6 @@
 const F = ['token', 'radiusMiles', 'maxPrice', 'pageBudget', 'repeatHours', 'feeds'];
 const D = {radiusMiles: 50, maxPrice: 400, pageBudget: 120, repeatHours: 0,
-  feeds: ['antiques', 'jewelry', 'instruments', 'hobbies', 'free', 'toys', 'entertainment', 'sports', 'home-improvements']};
+  feeds: ['antiques', 'jewelry', 'instruments', 'hobbies', 'free', 'toys', 'entertainment', 'sports', 'home-improvements', 'apparel', 'family', 'home']};
 const $ = (id) => document.getElementById(id);
 
 async function load() {
@@ -10,7 +10,7 @@ async function load() {
 }
 
 async function save() {
-  const c = {};
+  const c = {feedsV: 2};
   for (const k of F) c[k] = k === 'feeds' ? $(k).value.split('\n').map((s) => s.trim()).filter(Boolean)
                     : k === 'token' ? $(k).value.trim() : Number($(k).value);
   await chrome.storage.local.set({cfg: c});

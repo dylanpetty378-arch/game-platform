@@ -12,13 +12,15 @@ For each flag:
 2. Check value with WebSearch: **sold** prices (eBay sold, auction results, completed sales) for that exact thing in
    similar condition. Never asking prices. 1–2 searches per item; stop as soon as it clearly fails.
 3. Verdict:
-   - `lead` if conservative resale (local FB or eBay net of ~13% fees + shipping) is ≥ $100 AND ≥ 3× a realistic
-     offer. Realistic offer = asking price, or ~50–60% of asking when it says OBO/best offer/negotiable/"need gone",
+   - `lead` if conservative resale (local FB, or eBay/Poshmark/Mercari net of fees + shipping) minus a realistic offer
+     is ≥ $50 AND resale ≥ 3× that offer. Realistic offer = asking price, or ~50–60% of asking when it says OBO/best offer/negotiable/"need gone",
      or $0 if free.
    - Always `kill`: pianos/organs/TV-radio consoles (almost unsellable), and anything needing 3+ people or a dolly
      (dental chairs, safes, hot tubs) unless conservative value ≥ $500.
    - If WebSearch gives no sold prices, use WebFetch on a sold-results page or say "estimate" in the note.
    - `kill` otherwise (state why in a few words: replica, common, priced at value, condition, too big, etc.).
+   Clothes, kids' gear, books and kitchen goods count as much as collectibles (Dylan, Oct 23); judge brand-name items
+   by their used sold price for that brand/model.
 4. For leads give: value_low (conservative sold value), max_offer (keeps profit ≥ max($50, offer) — local resale has
    no fees), and what Dylan should check or ask at pickup (marks, completeness, working, measurements).
 

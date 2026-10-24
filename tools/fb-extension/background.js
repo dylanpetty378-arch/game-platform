@@ -11,17 +11,32 @@ const KELLER = {lat: 32.934, lon: -97.229};
 const DEFAULTS = {
   token: '', repo: 'dylanpetty378-arch/game-platform', branch: 'refurbish',
   radiusMiles: 50, maxPrice: 400, pageBudget: 120, perFeedMax: 40, repeatHours: 0,
-  feeds: ['antiques', 'jewelry', 'instruments', 'hobbies', 'free', 'toys', 'entertainment', 'sports', 'home-improvements'],
+  feeds: ['antiques', 'jewelry', 'instruments', 'hobbies', 'free', 'toys', 'entertainment', 'sports', 'home-improvements', 'apparel', 'family', 'home'],
 };
 // Feeds Facebook only fills when given explicit category ids (read from the live category page, Oct 23 2026).
-const CAT_IDS = {entertainment: [686977074745292, 613858625416355, 419938138375237]};
+const CAT_IDS = {
+  entertainment: [686977074745292, 613858625416355, 419938138375237],                         // books, movies & music
+  apparel: [1266429133383966, 931157863635831, 214968118845643, 1567543000236608, 836969846440937], // men's, women's, kids' clothing, bags, shoes
+  family: [624859874282116, 1555452698044988, 606456512821491, 1550246318620997, 1845147599039171], // baby & kids, toys, health & beauty
+  home: [1583634935226685, 1569171756675761, 678754142233400, 1670493229902393, 800089866739547, 316994245386353], // home goods incl. kitchen
+  toys: [606456512821491], antiques: [393860164117441],
+};
+const FEEDS_V = 2;   // v1.2 (Oct 23 2026): clothes, kids/baby, home & kitchen added — merged into saved settings once
 const START_URL = 'https://www.facebook.com/marketplace/category/antiques?sortBy=creation_time_descend';
 const SEEN_DAYS = 30;
 const CHUNK = 800;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const today = () => Math.floor(Date.now() / 864e5);
-async function cfg() { return Object.assign({}, DEFAULTS, (await chrome.storage.local.get('cfg')).cfg || {}); }
+async function cfg() {
+  const saved = (await chrome.storage.local.get('cfg')).cfg || {};
+  const c = Object.assign({}, DEFAULTS, saved);
+  if (saved.feeds && (saved.feedsV || 1) < FEEDS_V) {   // add the new default feeds to an older saved list, once
+    c.feeds = [...new Set([...saved.feeds, ...DEFAULTS.feeds])]; c.feedsV = FEEDS_V;
+    await chrome.storage.local.set({cfg: Object.assign(saved, {feeds: c.feeds, feedsV: FEEDS_V})});
+  }
+  return c;
+}
 async function setStatus(patch) {
   const s = (await chrome.storage.local.get('status')).status || {};
   await chrome.storage.local.set({status: Object.assign(s, patch, {updated: new Date().toISOString()})});
