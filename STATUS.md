@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-25T05:11:03Z
+# Refurbish status — 2026-10-25T13:53:36Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,14 +6,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 30903 |
+| queued | 31703 |
 | photo_review/kill | 9044 |
 | flagged | 4199 |
 | lensed | 1350 |
 | queued/relens | 486 |
 | decided/kill | 165 |
-| decided/ask | 86 |
-| expired | 43 |
+| decided/ask | 85 |
+| expired | 44 |
 | decided/find | 34 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
@@ -23,24 +23,24 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 54
-- searches: 12258
-- listings: 46039
+- harvests: 55
+- searches: 12491
+- listings: 46839
 - lens: 13549
-- events: 72377
-- comps: 9964
+- events: 73178
+- comps: 10168
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261024-0507 — 78035 listings, 76422 new, 800 queued
 - craigslist-20261024-1252 — 40373 listings, 39028 new, 800 queued
 - craigslist-20261024-1857 — 135486 listings, 131813 new, 800 queued
 - craigslist-20261024-2237 — 120995 listings, 117742 new, 800 queued
 - craigslist-20261025-0459 — 73006 listings, 71297 new, 800 queued
+- craigslist-20261025-1331 — 44369 listings, 42888 new, 800 queued
 
-## Finds and open leads (123)
+## Finds and open leads (122)
 
 | photo | item | price | where | status / next step |
 |---|---|---|---|---|
@@ -63,7 +63,6 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/00D0D_4ySucBP9X8h_0CI0t2_300x300.jpg" width="160"> | [OLD  M.C. HELMETS](https://www.craigslist.org/view/d/new-castle-old-mc-helmets/rf3rLAPfNtujMzh2k7sBjJ) | $100 | delaware | **decided/ask** — Current-process redo: Terapeak Bell 500-TX median $800 (n=50, p25 $439) vs generic metalflake open-face $50 (n=47). Ask for inside label/DOT sticker photos: Bell 500-TX = Tier A, else kill. |
 | <img src="https://images.craigslist.org/00m0m_2IWbGJRna6C_0lM0t2_300x300.jpg" width="160"> | [Limoges T&V Art Deco Vase](https://www.craigslist.org/view/d/sacramento-limoges-tv-art-deco-vase/dPqPkAGxvAscrmNcAgG6kq) | $100 | sacramento | **decided/ask** — Terapeak 365d sold: Pickard Limoges vases median $251 (n=6). Only if Pickard-decorated. OFFER $70 → ~$118 profit. ASK base photo. |
 | <img src="https://images.craigslist.org/00m0m_jGRiE1HgQJx_0t20CI_300x300.jpg" width="160"> | [Salt Glazed Stoneware Jug](https://www.craigslist.org/view/d/louisville-salt-glazed-stoneware-jug/vqe8MYwV3Ts1nP6TdSoJdU) | $50 | boulder | **decided/ask** — Current-process redo: Terapeak cobalt-decorated salt-glaze jugs median $70, p75 $185 (n=50). Unmarked loses at $50; a named potter (raking-light base photo) reaches p75 -> ~$71 profit. |
-| <img src="https://images.craigslist.org/00Q0Q_9N82Ly4zRM0_0t20CI_300x300.jpg" width="160"> | [Antique Sword](https://www.craigslist.org/view/d/studio-city-antique-sword/gGHMeyMbJzZ2iNGcZCL3jQ) | $50 | losangeles | **decided/ask** — Terapeak 365d sold: WWII kukris median $168 (n=20). ~$56 profit at $50 if military-issue (broad arrow/dated). ASK blade stamps. |
 | <img src="https://images.craigslist.org/00505_b7fYOFLsuBk_0wA0t2_300x300.jpg" width="160"> | [Vintage antique rhinestone necklace](https://www.craigslist.org/view/d/vista-vintage-antique-rhinestone/usP7jFUADE9yBq89EK2wPG) | $15 | sandiego | **decided/ask** — Terapeak 365d sold: Weiss rhinestone necklaces median $99 (n=50). Signed → ~$47 profit at $15. ASK clasp photo. |
 | <img src="https://images.craigslist.org/00U0U_i0qJtwG8gku_0t20CI_300x300.jpg" width="160"> | [HUMMEL COLLECTION 17](https://www.craigslist.org/view/d/nipomo-hummel-collection-17/s4NyKeHHxy52QYSJHuzzMY) | $195 | slo | **decided/ask** — Terapeak 365d sold: Hummel full-bee singles ~$25. 17 (11 full-bee) worth ~$365 → at $195 fails; OFFER $120 → ~$158 profit. |
 | <img src="https://images.craigslist.org/00X0X_3K2daRQc53K_0CI0t2_300x300.jpg" width="160"> | [Vintage Film Cameras and Accessories](https://www.craigslist.org/view/d/mesquite-vintage-film-cameras-and/7x4ZFmPnkJhVbbwvcVbYEe) | $100 | images | **decided/find** — Terapeak 365d sold: Nikon F2 Photomic black median $225 (n=47) + SX-70 ~$125. ~$175 profit at $100. |
