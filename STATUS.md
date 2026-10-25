@@ -1,4 +1,4 @@
-# Refurbish status — 2026-10-25T19:24:59Z
+# Refurbish status — 2026-10-25T22:53:55Z
 
 Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, every 4 h, plus after each Lens upload). Instructions: [docs/START-HERE.md](docs/START-HERE.md).
 
@@ -6,14 +6,14 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 | stage | listings |
 |---|---|
-| queued | 32503 |
+| queued | 33303 |
 | photo_review/kill | 9044 |
-| flagged | 4198 |
+| flagged | 4197 |
 | lensed | 1350 |
 | queued/relens | 486 |
 | decided/kill | 165 |
 | decided/ask | 85 |
-| expired | 45 |
+| expired | 46 |
 | decided/find | 34 |
 | photo_review/ask | 20 |
 | comps/fail | 5 |
@@ -23,22 +23,22 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 
 ## Tables
 
-- harvests: 56
-- searches: 12723
-- listings: 47639
+- harvests: 57
+- searches: 12955
+- listings: 48439
 - lens: 13549
-- events: 73979
-- comps: 10371
+- events: 74780
+- comps: 10573
 - item_types: 919
 - runs: 0
 
 ## Last harvests
 
-- craigslist-20261024-1857 — 135486 listings, 131813 new, 800 queued
 - craigslist-20261024-2237 — 120995 listings, 117742 new, 800 queued
 - craigslist-20261025-0459 — 73006 listings, 71297 new, 800 queued
 - craigslist-20261025-1331 — 44369 listings, 42888 new, 800 queued
 - craigslist-20261025-1912 — 119464 listings, 115976 new, 800 queued
+- craigslist-20261025-2245 — 112337 listings, 108971 new, 800 queued
 
 ## Finds and open leads (122)
 
@@ -167,7 +167,7 @@ Machine-written by scripts/cloud_cycle.py after every cycle (GitHub Actions, eve
 | <img src="https://images.craigslist.org/https://scontent-dfw6-2.xx.fbcdn.net/v/t39.84726-6/857291032_1078836191633311_8217314445598314920_n.jpg?stp=c0.87.526.526a_dst-jpg_p526x395_tt6&_nc_cat=108&ccb=1-7&_nc_sid=92e707&_nc_ohc=Vt435R9t_ZwQ7kNvwFrw0B7&_nc_oc=AdqfWdgcggnlFGWK7vXK7PvMqiK96-i_WNk3gm2W8WfR7xTzPlf1s-4El4vD67ERUrU&_nc_zt=14&_nc_ht=scontent-dfw6-2.xx&_nc_gid=dz2r6hSB6GR6rrupK5HedA&_nc_ss=7b1a0&oh=00_AQOLnvV6JTWJZvwoiviT-fSxr7UpRMuB7CHMclcDieHVrw&oe=6AE1C47A_300x300.jpg" width="160"> | [The Hobbit Collector Magic the Gathering [Plano 31mi (needs ](https://www.facebook.com/marketplace/item/1771923673860138/) | $60.0 |  | **decided/find** — sealed Hobbit collector booster box(es); ask what $60 buys |
 | <img src="https://images.craigslist.org/https://scontent-dfw5-1.xx.fbcdn.net/v/t39.84726-6/854569286_1099652742664592_5174285786770225811_n.jpg?stp=c89.0.540.540a_dst-jpg_p180x540_tt6&_nc_cat=106&ccb=1-7&_nc_sid=92e707&_nc_ohc=b9sjKUcElPAQ7kNvwHeT6H3&_nc_oc=AdqPtYAW3lOGgGeQXB2CCznmCAGGAtNUcGTPQVv_DqahXcqtXKa3L1BZ3OhLLPdY3rI&_nc_zt=14&_nc_ht=scontent-dfw5-1.xx&_nc_gid=8fJ30PChcAIXvdSIho8D5g&_nc_ss=7b1a0&oh=00_AQPcO4PZ22ytbCXiXM_8ObsrReRQl-gLMtQPNOGGDR9Wzw&oe=6AE1AC68_300x300.jpg" width="160"> | [Vintage Prewar O Gauge Lionel 1688E Torpedo Locomotive & 268](https://www.facebook.com/marketplace/item/29770689322519046/) | $50.0 |  | **decided/find** — prewar Lionel 1688E + 2689W, Burleson |
 
-## Flagged by Lens, waiting for photo review (4198)
+## Flagged by Lens, waiting for photo review (4197)
 
 Highest Lens price ratio first. Lens often matches the category, not the item: the photo review decides.
 
