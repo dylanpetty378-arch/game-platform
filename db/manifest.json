@@ -1,13 +1,13 @@
 {
-"made": "2026-10-25T23:01:26Z",
+"made": "2026-10-26T05:20:38Z",
 "files": [
 {
 "path": "db/comps.jsonl",
-"sha": "568b0dc6f4fcd191fcbe544a8270866f197ef34d"
+"sha": "e1fdbf5159e6de6753d2933b1e85d1c1397a94df"
 },
 {
 "path": "db/events/2026-10.jsonl",
-"sha": "5a33cadeb6f4838e8bd9c8cb0b9d2a5ef879155b"
+"sha": "fc3648c2233ac1f5ef5db82e0023177435b8ac22"
 },
 {
 "path": "db/fb/reviewed.jsonl",
@@ -26,6 +26,10 @@
 "sha": "92d6d746fb51e1ee9e999f80cc21ef0020d90937"
 },
 {
+"path": "db/fb/scored/2026-10-26.jsonl",
+"sha": "2ed70e0ad6af8bacbc397c8a167826e4b8b46cbf"
+},
+{
 "path": "db/fbreport/2026-10-23-1930.jsonl",
 "sha": "ff4c124f509434ebd280f55c3ce90abbcf452add"
 },
@@ -39,7 +43,7 @@
 },
 {
 "path": "db/harvests.jsonl",
-"sha": "599f613a1cadc31a590516dc3578508db6de4432"
+"sha": "df30dc23f1efe3f2a576dc511bc4db8571ac0c9b"
 },
 {
 "path": "db/item_types.jsonl",
@@ -51,7 +55,7 @@
 },
 {
 "path": "db/listings/2026-10.jsonl",
-"sha": "8aa147a12e4136e0c6cbfd125e59bde3e20b28a4"
+"sha": "ead43afeadffcb4aff6c27e2c26ab67da3f06800"
 },
 {
 "path": "db/outcomes/shortlist.jsonl",
@@ -59,7 +63,7 @@
 },
 {
 "path": "db/searches.jsonl",
-"sha": "749d742124cf86d107c5f2cfcc314b4ee077b973"
+"sha": "645d92af728ebc9c3f0db2c0a1a81fa738ec3b95"
 }
 ],
 "entries": [
