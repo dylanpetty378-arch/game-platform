@@ -4,8 +4,11 @@
 # Free: GitHub Actions is free for standard runners on public repos. Turn off any time: repo -> Actions -> refurbish-cycle -> Disable.
 name: refurbish-cycle
 on:
-  schedule:
-    - cron: '17 */4 * * *'      # every 4 hours (harvests the last 6 h, so windows overlap)
+  # Schedule OFF since Oct 27 2026 (Dylan: Neon is now usage-billed). Each run appended ~80k Craigslist rows to
+  # db/listings + db/events, and the site re-synced 130k rows into Neon six times a day. The low-usage loop uses
+  # eye-shortlist (eBay/SGW, daily) instead. Run by hand from the Actions tab when a Craigslist harvest is wanted.
+  # schedule:
+  #   - cron: '17 */4 * * *'
   workflow_dispatch:
     inputs:
       hours: {description: 'hours of listings to harvest', default: '6'}
