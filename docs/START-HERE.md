@@ -65,6 +65,7 @@ new chat: **`docs/device-free.md`**. One working Claude at a time, enforced by `
 | Database tool | `scripts/db.py` |
 | Stage 2/3 procedure (photo review, comps, decide) | `docs/review-procedure.md` |
 | Item-type knowledge ("resell encyclopedia") | `docs/encyclopedia/` (index.md first) |
+| **Selling** (Dylan sends a photo of something he's selling) | `docs/selling/sell-id.md` (procedure) · `docs/selling/playbook.md` (channels, mechanics, prices) · plans in `docs/selling/plans/` · log `db/selling/items.jsonl` |
 | History: every earlier method, runbook, sweep log | `docs/history/` |
 | Legacy scripts / data (PDF builders, older sweeps) | `scripts/legacy/`, `data/legacy/` |
 
