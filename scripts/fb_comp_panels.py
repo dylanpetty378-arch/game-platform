@@ -14,7 +14,7 @@ A, C, OUT = sys.argv[1], sys.argv[2], sys.argv[3]
 PER = int(sys.argv[sys.argv.index('--per') + 1]) if '--per' in sys.argv else 20
 os.makedirs(OUT, exist_ok=True); CACHE = os.path.join(OUT, 'img'); os.makedirs(CACHE, exist_ok=True)
 comps = json.load(open(C))
-idx = {f.split('/')[3]: json.load(open(f)) for f in glob.glob('/tmp/eye/fbx-*/index.json')}
+idx = {f.split('/')[3]: json.load(open(f)) for f in glob.glob('/tmp/eye/fb*-*/index.json')}
 F = glob.glob('/usr/share/fonts/**/DejaVuSans.ttf', recursive=True)[0]
 font, bold = ImageFont.truetype(F, 15), ImageFont.truetype(F.replace('DejaVuSans.ttf', 'DejaVuSans-Bold.ttf'), 17)
 

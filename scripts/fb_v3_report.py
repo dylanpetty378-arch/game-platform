@@ -9,7 +9,7 @@ import sys, os, json, glob, base64, io, re
 from PIL import Image
 C, REP, META = sys.argv[1], sys.argv[2], sys.argv[3]
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-idx = {f.split('/')[3]: json.load(open(f)) for f in glob.glob('/tmp/eye/fbx-*/index.json')}
+idx = {f.split('/')[3]: json.load(open(f)) for f in glob.glob('/tmp/eye/fb*-*/index.json')}
 items, kills, nflags, fresh_ids = [], 0, 0, set()
 for Cd in C.split(','):
   flags = json.load(open(os.path.join(Cd, 'flags.json'))); nflags += len(flags)
