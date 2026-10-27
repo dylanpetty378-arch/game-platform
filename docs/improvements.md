@@ -26,6 +26,36 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
 
 ## Log
 
+### 2026-10-27 — spare-usage day: strong eye on everything, misses review, 44 entries with tells, ranker split into lanes
+- **Found:** the daily eye had not run since Oct 22 (lock left held by the Oct 23 FB chat; the scheduled task never
+  fired). Today's shortlist (1,147) was screened with Opus agents, not Sonnet: 59 flags, 53 melt plays, 6 photo
+  judgements → 1 lead (jadeite money-frog in 10k, $33, ends tonight) + melt leads (see lowuse-log).
+- **Measured:** on 4,378 shortlisted rows joined to finals, the CLIP/egg/type score barely predicts money (median final
+  $15–20 in every band; ≥$100 rate 12% top band vs 12% bottom), the MELT line does (median $112, 53% ≥ $100). 807 of
+  1,147 eye slots were jewelry types; every flag but 6 was a melt play the free line had already found.
+- **Re-fit (2,107 rows with finals, quartile splits):** CLIP egg look is inverted (7% vs 19% ≥ $100), type value helps
+  (19% vs 9%), labelled-down rows sell for a median $15 vs $35 (5% vs 30% ≥ $100). Weights now egg 0 / type 1.2 /
+  vagueness 0.5 / down 0.3; the labelled-down reservation dropped from 30% to 10% of each quota. Check again in two
+  weeks against db/outcomes/shortlist.jsonl.
+- **Changed:** `shortlist.py` — melt-ok rows go to `shortlist['melt']` (own lane, own one-question brief
+  research/MELT_EYE_BRIEF.md, own `melt_NN` sheets from `lowuse.py prep`), jewelry family capped at 35% of each
+  source's quota (`JEWELRY_SHARE`), the description pass can now *remove* a melt line (vermeil/plated/over sterling),
+  "style" is a labelled-cheap word. `melt.py` sterling+karat → silver floor (the Oct 26 fix, finally pushed).
+  `outcomes.py misses` drops never-show categories and by-the-pound lots; `sgw.py` no longer harvests instruments.
+- **Misses review** (300 SGW $100+ silent-title lots, 3 Opus agents): 138 category-hot (mostly instruments → never-show),
+  36 grab-bag noise, 41 lot-hides-key-piece, 38 hidden maker, 11 mislabel-cheap. Hidden-maker lessons are in the eye
+  brief ("What the market bought that we missed") and 13 new-entry candidates + 10 entry extensions in
+  research/new-type-candidates.md. Full write-up: research/pools/misses/review-2026-10-27.md.
+- **Encyclopedia:** golden-egg tells (sold prices, URLs, ~1× common bullet) added to the 44 most-seen entries that lacked
+  them; summaries/ladders corrected where sold data contradicted them (Pyrex, Rookwood, Blenko, Ruba Rombic, EAPG,
+  Redlin/Bateman, Hummel, Terminator poster, belt buckles…). 290 entries still lack tells. Weakly sourced (search
+  budget ran out mid-run; firm up next): souvenir-spoons (not done), swiss-silver-pocket-watches, crystal-giftware,
+  parlor-guitars, decorative-prints, depression-and-elegant-glass, lucite-and-resin-decor, big-eye-art-prints,
+  porcelain-figurines, art-nouveau-poster-reproductions.
+- **New doc:** docs/photo-id.md — the procedure for Dylan's own photos (look → name → melt → sold comps → money rule →
+  real-or-fake → verdict card → log).
+- **Facebook:** 18,971 unreviewed in the extension inbox; strong eye run over the top 2,400 (fb-20261027-1846).
+
 ### 2026-10-13 (17:00–17:40) — unlensed pool drained; tells in 128 entries
 - FIX: 95 size-kills had titles the bulky filter passed (tricycles, bikes, sleds, floor lamps, coolers, computers,
   amplifiers, street signs, churns, 5-gal crocks). `scoring.py` gained those words plus a HEAVY list that wins even

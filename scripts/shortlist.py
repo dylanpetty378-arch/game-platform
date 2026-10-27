@@ -279,7 +279,10 @@ def main():
     for r in rows: r['dv'] = (1 + 0.5 * (len(r['down']) - 1)) * r['spread'] if r['down'] else 0
     for r, ze, zt, zi, zd in zip(rows, z([r['egg'] for r in rows]), z([r['tval'] for r in rows]), z([r['ign'] for r in rows]),
                                  z([r['dv'] for r in rows])):
-        r['score'] = round(ze + 0.8 * zt + 0.5 * zi + 0.7 * zd, 3)
+        # Oct 27 2026 re-fit on 2,107 rows with finals: CLIP 'egg' look is INVERTED (top quartile 7% of lots ≥ $100 vs 19%
+        # in the bottom quartile), type value is the only photo signal that helps (19% vs 9%), labelled-down rows sold
+        # for a median $15 vs $35 for the rest (5% vs 30% ≥ $100). So egg weight 0, type value up, down kept only as a flag.
+        r['score'] = round(0.0 * ze + 1.2 * zt + 0.5 * zi + 0.3 * zd, 3)
     for r, zk in zip(rows, z([r['kv'] for r in rows])): r['score'] = round(r['score'] + 0.8 * zk, 3)
     tot = sum(pool.values()) or 1
     quota = {s: max(int(a.n * 0.25), int(a.n * pool[s] / tot)) for s in pool if pool[s]}
@@ -298,7 +301,7 @@ def main():
                 out.append(r); jew += j
             return out
         # reserve 30% of each source's quota for labelled-down rows (best by score), then fill by score
-        down = take([r for r in mine if r['down']], int(q * 0.3)); ids = {r['id'] for r in down}
+        down = take([r for r in mine if r['down']], int(q * 0.1)); ids = {r['id'] for r in down}   # was 0.3; see re-fit note above
         pick += down + take([r for r in mine if r['id'] not in ids], q - len(down))
     have = {r['id'] for r in pick}
     melt_rows = [r for r in rows if r.get('melt', {}).get('ok') and r['id'] not in have]   # melt lane: decided by free compute
