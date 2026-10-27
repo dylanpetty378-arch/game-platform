@@ -41,7 +41,14 @@ DOWN = re.compile(r'\b(reproductions?|repro|replica|copy|style of|in the style|i
                   r'silver ?tone|gold ?tone|silver ?plated?|gold ?plated?|plated|electroplate|epns|brass|pot metal|white metal|'
                   r'spelter|base metal|alloy|tin|print|poster|reprint|decor|decorator|decorative|souvenir|tourist|craft|'
                   r'homemade|home made|hobby|student|kitsch|unbranded|no name|generic|mass produced|made in (?:china|taiwan|'
-                  r'hong kong|japan|occupied japan)|occupied japan|cheap)\b', re.I)
+                  r'hong kong|japan|occupied japan)|occupied japan|cheap|style)\b', re.I)   # 'style' (Oct 27 2026 misses: "vintage style" clarinet $251, "Palais Royal style" $300)
+JEWELRY_SHARE = 0.35
+JEWELRY = re.compile(r'(jewel|ring|necklace|bracelet|brooch|pendant|cufflink|earring|hallmark|-marks\b|precious-metal|silver|gold|'
+                     r'watch|bead|scarab|cameo|charm|locket|chain)', re.I)
+def is_jewelry(r):
+    """True when the row's best CLIP type is in the jewelry/metal-marks family (title words count too)."""
+    t = (r.get('types') or [[None]])[0]; s = t[0] if isinstance(t, (list, tuple)) else t
+    return bool(s and JEWELRY.search(s)) or bool(re.search(r'\b(ring|necklace|bracelet|brooch|pendant|earrings?|cufflinks?|chain|bangle)\b', r['t'], re.I))
 VAGUE = re.compile(r'\b(old|vintage|antique|unknown|unmarked|mystery|estate|signed|marked|hallmarked?|stamped|unsigned|'
                    r'hand ?made|handcrafted|primitive|folk|carved|bronze|brass|silver|sterling|gold|jade|bone|horn|ivory|'
                    r'painting|drawing|etching|engraving|lithograph|woodblock|watercolou?r|oil on|print|sketch|'
@@ -277,13 +284,26 @@ def main():
     tot = sum(pool.values()) or 1
     quota = {s: max(int(a.n * 0.25), int(a.n * pool[s] / tot)) for s in pool if pool[s]}
     pick = []
+    # Oct 27 2026: the jewelry/marks family took 807 of 1,147 eye slots and every flag was a melt play the free melt
+    # line had already found. Cap the family at JEWELRY_SHARE of each source's quota; melt-ok rows are a separate lane
+    # (shortlist['melt']) and never spend eye slots.
     for s, q in quota.items():
-        mine = sorted((r for r in rows if r['src'] == s), key=lambda r: -r['score'])
+        mine = sorted((r for r in rows if r['src'] == s and not r.get('melt', {}).get('ok')), key=lambda r: -r['score'])
+        def take(cands, n):
+            out, jew, cap = [], 0, int(n * JEWELRY_SHARE)
+            for r in cands:
+                if len(out) >= n: break
+                j = is_jewelry(r)
+                if j and jew >= cap: continue
+                out.append(r); jew += j
+            return out
         # reserve 30% of each source's quota for labelled-down rows (best by score), then fill by score
-        down = [r for r in mine if r['down']][:int(q * 0.3)]; ids = {r['id'] for r in down}
-        pick += down + [r for r in mine if r['id'] not in ids][:q - len(down)]
+        down = take([r for r in mine if r['down']], int(q * 0.3)); ids = {r['id'] for r in down}
+        pick += down + take([r for r in mine if r['id'] not in ids], q - len(down))
     have = {r['id'] for r in pick}
-    pick += [r for r in rows if r.get('melt', {}).get('ok') and r['id'] not in have]      # melt leads always go in
+    melt_rows = [r for r in rows if r.get('melt', {}).get('ok') and r['id'] not in have]   # melt lane: decided by free compute
+    for r in melt_rows: r['lane'] = 'melt'
+    pick += melt_rows
     if not a.no_details: details(pick)
     if not a.no_ocr and not a.no_details:
         import ocr
@@ -293,18 +313,26 @@ def main():
         det = r.get('det') or {}
         txt = ' '.join([r['t'], det.get('desc') or '', ' '.join(f'{k} {v}' for k, v in (det.get('aspects') or {}).items())])
         m = melt.floor(txt, r['p'], (r.get('ocr') or {}).get('text', ''))
-        if m and (not r.get('melt') or m['net'] > r['melt']['net']): r['melt'] = m
+        # the full text (title + description + aspects + photographed mark) is a superset of the title, so its answer
+        # always wins — including a downgrade (Oct 27 2026: "14K ... 14.6g" whose description said "vermeil over
+        # sterling" kept the title's $758 gold floor and cost an eye flag + deep review)
+        if m: r['melt'] = m
+        else: r.pop('melt', None)
         o = r.get('ocr') or {}
         r['score'] = round(r['score'] + (1.5 if o.get('makers') else 0) + (0.5 if o.get('metal') and not melt.purity(r['t']) else 0)
                            + (3 if r.get('melt', {}).get('ok') else 0), 3)
         r.pop('_e', None)
+    # the description pass can create or remove melt rows: re-split the lanes on the final answer
+    for r in pick: r['lane'] = 'melt' if r.get('melt', {}).get('ok') else 'eye'
     pick.sort(key=lambda r: -r['score'])
     print('melt leads:', sum(1 for r in pick if r.get('melt', {}).get('ok')), '| photo maker not in title:',
           sum(1 for r in pick if (r.get('ocr') or {}).get('makers')), flush=True)
     now = dt.datetime.now(dt.timezone.utc).isoformat()
     for r in pick: shown[r['id']] = now
     json.dump(shown, open(SHOWN, 'w'))
-    json.dump({'made': now, 'pool': pool, 'text_drops': why, 'scored': len(rows), 'rows': pick}, open(OUT, 'w'), ensure_ascii=False)
+    eye_rows = [r for r in pick if r['lane'] == 'eye']; melt_lane = [r for r in pick if r['lane'] == 'melt']
+    print('eye rows:', len(eye_rows), '(jewelry family', sum(is_jewelry(r) for r in eye_rows), ') | melt lane:', len(melt_lane), flush=True)
+    json.dump({'made': now, 'pool': pool, 'text_drops': why, 'scored': len(rows), 'rows': eye_rows, 'melt': melt_lane}, open(OUT, 'w'), ensure_ascii=False)
     print(f'shortlist {len(pick)} ({quota}) -> {OUT} in {time.time() - t0:.0f}s')
 
 if __name__ == '__main__':

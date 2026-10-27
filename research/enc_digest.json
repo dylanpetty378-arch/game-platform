@@ -723,9 +723,9 @@
 "Victorian print",
 "gesso frame"
 ],
-"top": 10000.0,
+"top": 1000.0,
 "low": 40.0,
-"money": "Currier & Ives large folios, rare originals $500–10,000+.",
+"money": "rare Currier & Ives titles and Havell Audubons at auction $1,000+ (corrected 2026-10-27).",
 "fakes": "Halftone reproductions of Currier & Ives and Parrish are everywhere (often titled \"antique\"). Modern \"costume plate\" reproductions printed on aged-look paper. Re-framed modern prints in old frames.",
 "buy": "Pass on most; only buy original Currier & Ives (check the publisher line and title vs. the catalogue), period Parrish/Gutmann with publisher line, or a strong original ornate gesso frame alone worth ≥ $150, at ≤ 1/3 resale; large frames rarely pass the shippin",
 "tells": [
@@ -1261,7 +1261,7 @@
 ],
 "top": 5000.0,
 "low": 40.0,
-"money": "Lalique pre-1945 R.LALIQUE, Ruba Rombic, Loetz/Moser signed $300–5,000+.",
+"money": "Lalique pre-1945 R.LALIQUE (sold median $644), Loetz/Moser signed $300–5,000+. (Corrected 2026-10-27: Ruba Rombic moved down from the top tier on sold data.)",
 "fakes": "Lalique: fake \"R. LALIQUE\" signatures added to post-war or other-maker pieces (wrong font, wrong place, sand-blasted signature on a piece that should be moulded). Sabino: 1960s–70s reissues from the same moulds. Czech Ta",
 "buy": "Buy only signed or unmistakable makers (R.LALIQUE, Moser, Ruba Rombic, Czech acid stamp on a strong Tango form) at ≤ 1/3 of the low tier; pass on unsigned pairs priced over $40.",
 "tells": [
@@ -1283,13 +1283,13 @@
 ],
 "top": 10000.0,
 "low": 50.0,
-"money": "Loetz phenomenon, Tiffany Favrile, Gallé cameo, Lalique $500–10,000 (authentication needed).",
+"money": "Loetz phenomenon, Orrefors Ariel, decorated (green/white/millefiori) Steuben Aurene, Tiffany Favrile, Gallé cameo, Lalique $500–10,000 (authentication needed). (Updated 2026-10-27: Ariel $1,216–4,148 and decorated Aurene $4,598–5,925 sold put them in the top tier",
 "fakes": "Fake Loetz, Tiffany Favrile and Gallé signatures on Chinese/Romanian glass are common; modern Fenton reissues; \"Blenko\" attribution to any colourful vase. Decor brands imitate mid-century and Murano styles.",
 "buy": "Pass on unsigned swirl/optic vases and decor-brand glass; buy only signed Scandinavian/studio pieces or Czech iridescent/Loetz-type at ≤ $30 with base photos, or a recognisable Blenko/Mdina form at ≤ $15.",
 "tells": [
+"Scandinavian modern (1950s–80s): Orrefors, Kosta, Holmegaard, Riihimäki, Nuutajärvi; heavy, simple forms, engraved signatures with designer/model numbers.",
 "Bohemian/Czech iridescent (1890s–1930s): Loetz, Kralik, Pallme-König, Rindskopf; oil-slick iridescence, applied threads, polished pontil.",
-"Depression-era optic glass (1920s–40s): thin, mould-blown green/pink with spiral optic ribs, crimped rim; Fenton, Imperial, Hazel-Atlas; $10–30.",
-"Cased/opaline with trailing: white or coloured cased glass with applied trails or pulled swirls; Kralik/Welz Czech (1920s–30s, often with polished pontil), Hartley Wood (UK), modern Polish Krosno, Asian decor glass."
+"Depression-era optic glass (1920s–40s): thin, mould-blown green/pink with spiral optic ribs, crimped rim; Fenton, Imperial, Hazel-Atlas; $10–30."
 ]
 },
 "art-nouveau-poster-reproductions": {
@@ -1814,15 +1814,15 @@
 "western buckle",
 "sterling buckle"
 ],
-"top": 5000.0,
+"top": 47200.0,
 "low": 30.0,
-"money": "Bohlin, Clint Orms, gold-overlay trophy and old Navajo cast-silver $500–5,000+.",
+"money": "Bohlin and Clint Orms sterling $400–1,900 (Terapeak medians ~$875–895), Bohlin gold presentation buckles with provenance $18,750–47,200 at auction. (Corrected 2026-10-27: top tier was \"$500–5,000+\"",
 "fakes": "Fake Civil War buckles (dug-look repros), fake Navajo (Asian-made \"Native style\" stamped sterling and stabilized/block turquoise), \"sterling\" stamps on nickel silver, Bohlin marks on unrelated buckles. High-value Native ",
 "buy": "Buy only sterling-marked (\".925\", \"Sterling\", maker hallmark) Western or Native buckles, early Hesston NFR (1974–76) or named trophy buckles at ≤ 1/3 sold median; pass pewter advertising/event buckles over $10.",
 "tells": [
 "Trophy buckles: oval, engraved event/year/name, silver overlay or sterling with gold figures, made by Montana Silversmiths (low), Gist, Comstock, Clint Orms, Vogt (high).",
-"Navajo/Zuni: hand-stamped sterling, cast silver (\"ketoh\"-style), inlay or petit point turquoise; artist hallmarks on the back.",
-"Back stamps: maker, copyright year, metal (\"Solid brass\", \"Pewter\", \"Sterling\", \".925\", \"Silver overlay\", \"German silver/nickel silver\" – NOT silver), issue numbers (\"12 of 500\")."
+"Back stamps: maker, copyright year, metal (\"Solid brass\", \"Pewter\", \"Sterling\", \".925\", \"Silver overlay\", \"German silver/nickel silver\" – NOT silver), issue numbers (\"12 of 500\").",
+"Pewter/zinc-alloy cast plates with relief image and advertising text (example 7957572077 Caterpillar dozer \"Quality Products\", 1980s), often by Siskiyou, Spec-Cast, Hit Line."
 ]
 },
 "bench-vises": {
@@ -1936,7 +1936,7 @@
 ],
 "top": 1500.0,
 "low": 60.0,
-"money": "rare designer forms (Husted/Anderson large decanters, Myers sculptures, rare colours) $250–1,500.",
+"money": "Husted tall floor decanters and sun-face pieces $750–1,500 sold. (Corrected 2026-10-27: Anderson decanters moved down from the $250–1,500 tier.)",
 "fakes": "- Blenko reissues classic designs (e.g., 384 bottle, Husted decanters in new colours). Dated signatures (e.g., \"Blenko 2000\") identify modern pieces (lower value).",
 "buy": "Buy 1950s–70s large designer decanters, tall floor vases (18\"+) and rare colours at ≤ $50; pass on 384 water bottles and small modern pieces.",
 "tells": [
@@ -2529,15 +2529,15 @@
 "pillar holder",
 "taper holder"
 ],
-"top": 5000.0,
+"top": 65000.0,
 "low": 30.0,
-"money": "Arts & Crafts hand-hammered (Jarvie, Roycroft, Stickley) and Georg Jensen silver $300–5,000+.",
+"money": "Jarvie, Stickley, Jessie Preston and Georg Jensen sterling $500–10,000+ (one Stickley pair $65k). Weighted American sterling pairs sell for ~$40–100 (median $50). (Corrected 2026-10-27: Roycroft and weighted sterling tiers re-set from sold data.)",
 "fakes": "- Roycroft and Stickley marks are faked on modern hammered copper; check that the mark is crisp-stamped (not cast-in) and the forms match catalogue shapes. - 18th-century English brass candlesticks heavily reproduced in ",
 "buy": "Buy only signed/marked Arts & Crafts copper or brass, Scandinavian-modern designer pieces, or sterling-free designer pairs at ≤ 1/3 of sold median; pass driftwood, garden stands, souvenir/bazaar copper and weighted sterling.",
 "tells": [
-"Hand-hammered surfaces with visible planishing marks, rivets, and a stamped maker mark under the base = Arts & Crafts (1900–1930).",
+"Push-up rod in the shaft of a brass candlestick = 18th–19th-century English/American; seam down the shaft (cast in two halves and brazed) = pre-1800s; solid-cast one-piece with a threaded tenon base = 19th–20th century.",
 "Spike (pricket) on a stamped tin plate = modern pillar-candle decor (1970s–present); example 7950325606 is a driftwood log with a stamped steel pricket plate.",
-"Push-up rod in the shaft of a brass candlestick = 18th–19th-century English/American; seam down the shaft (cast in two halves and brazed) = pre-1800s; solid-cast one-piece with a threaded tenon base = 19th–20th century."
+"Hand-hammered surfaces with visible planishing marks, rivets, and a stamped maker mark under the base = Arts & Crafts (1900–1930)."
 ]
 },
 "candle-lanterns": {
@@ -3326,15 +3326,15 @@
 "Selmer clarinet",
 "Buffet clarinet"
 ],
-"top": 4000.0,
+"top": 5000.0,
 "low": 150.0,
-"money": "Centered Tone, 1960s R13, matched pairs, bass clarinets $1,500–4,000.",
+"money": "dealer-restored pro horns, A/Bb pairs and pro bass clarinets $1,300–5,000 (mostly dealer prices). (Corrected 2026-10-27: Centered Tone sells for a median of $425, not $1,500+.)",
 "fakes": "Chinese \"stencil\" clarinets with invented brand names; occasional counterfeit Buffet stamps on Asian-made bodies (general knowledge, verify). Mismatched joints from different instruments (\"married\" horns) reduce value.",
 "buy": "Buy only with a visible Selmer Paris or Buffet R13 stamp under $400 and no cracks; pass plastic student horns over $40.",
 "tells": [
 "Selmer Paris (stamp \"Henri Selmer Paris\" with the crossed-S logo): Centered Tone (1950s), Series 9 / 9*, 10G, Recital, Signature – professional, $800–2,500 used.",
-"Buffet Crampon R13 / Festival / Prestige: pro, $900–2,500 used; Buffet E11/E12 wood intermediate $250–500; B12 plastic $80–150.",
-"Selmer USA (Elkhart; stamp \"Selmer USA\" or \"Selmer Signet / Bundy\"): Signet Soloist/Special (wood intermediate, $200–500 restored), Bundy/CL300/CL301 (plastic student, $60–150). Modern black \"SELMER\" plastic cases with a blue logo badge = student line."
+"Selmer USA (Elkhart; stamp \"Selmer USA\" or \"Selmer Signet / Bundy\"): Signet Soloist/Special (wood intermediate, $200–500 restored), Bundy/CL300/CL301 (plastic student, $60–150). Modern black \"SELMER\" plastic cases with a blue logo badge = student line.",
+"Buffet Crampon R13 / Festival / Prestige: pro, $900–2,500 used; Buffet E11/E12 wood intermediate $250–500; B12 plastic $80–150."
 ]
 },
 "class-rings": {
@@ -5417,9 +5417,9 @@
 "fireplace dogs",
 "fire dogs"
 ],
-"top": 5000.0,
+"top": 40000.0,
 "low": 150.0,
-"money": "signed or with fender/tools $1,500–5,000.",
+"money": "figural (chinoiserie) or true 18th-c. period pairs $10,000–40,000+ at major auction. (Added 2026-10-27: top tier extended per Skinner 2023 $38,175 sale.)",
 "fakes": "Large 20th-c. repro output in the same styles; mid-century Italian/Spanish copies and Virginia Metalcrafters pieces are the usual look-alikes. Tell by back casting, chasing and weight.",
 "buy": "Chased rococo/Louis XVI pair with log bars and verdigris under $200; pass bright smooth repros, singles, and sellers who already say \"chenets/ormolu\" at $500+.",
 "tells": []
@@ -6262,7 +6262,7 @@
 ],
 "top": 20000.0,
 "low": 60.0,
-"money": "named workshops/inlay/pairs $2,000–20,000+",
+"money": "named workshops/signed mixed-metal inlay/pairs ~$1,200–7,500 sold (Bonhams/W&W 2009–2021), more for exhibition pieces (corrected 2026-10-27 from $2,000–20,000+)",
 "fakes": "Modern Chinese castings of Meiji designs with fake signature cartouches are common; tells are coarse sand interior, crude seams, light weight, uniform gold/brown chemical patina (per appraisily repro tells). Postwar \"Mad",
 "buy": "crisp 12\"+ bird/elephant-handle vase ≤ $60, or any visible kanji signature ≤ $150",
 "tells": []
@@ -6375,9 +6375,9 @@
 "sosaku-hanga",
 "Hiroshige print"
 ],
-"top": 10000.0,
+"top": 50000.0,
 "low": 50.0,
-"money": "early Great Wave/Sharaku $10,000+",
+"money": "Hasui zeppitsu editions $1,000–50,000+",
 "fakes": "Re-cut blocks and later editions of Hiroshige/Hokusai; Meiji-era and 20th-c. reprints sold as Edo; photomechanical reproductions; posthumous/later Hasui editions with later Watanabe seals (worth less than lifetime editio",
 "buy": "visible Watanabe/period publisher seal under $100; pass bamboo-framed bright \"antique\" pairs",
 "tells": []
@@ -6867,7 +6867,7 @@
 ],
 "top": 2000.0,
 "low": 40.0,
-"money": "Charles Hollis Jones, Albrizzi, Dorothy Thorpe signed pieces $150–2,000.",
+"money": "Charles Hollis Jones accessories $70–300 sold (median $120), CHJ/Albrizzi furniture $500–2,000+",
 "fakes": "Modern Chinese resin embedments (2000s–present) are identical in type; \"vintage\" claims unverified. Charles Hollis Jones fakes exist.",
 "buy": "Pass on butterfly/flower resin souvenirs over $10; buy only signed Hollywood Regency Lucite (Charles Hollis Jones, Ritts, Grosfeld House, Albrizzi) small pieces ≤ $40.",
 "tells": [
@@ -7467,9 +7467,9 @@
 "modernist jewelry",
 "Rafael Canada"
 ],
-"top": 1500.0,
+"top": 9000.0,
 "low": 20.0,
-"money": "Haskell, Schiaparelli, Eisenberg Original, Boucher, Lapponia/David-Andersen $300–1,500.",
+"money": "Spratling and Matl Taxco silver $2,000–9,000+ (corrected 2026-10-27).",
 "fakes": "Faked signatures exist for Haskell, Eisenberg, Schiaparelli and Chanel-style pieces; Juliana attributions are often wishful (general knowledge, verify). Some makers reissued designs (e.g. later Eisenberg Ice, modern Trif",
 "buy": "Buy signed Rafael/Haskell/Eisenberg/Schiaparelli/Juliana at ≤ 35% of sold, or lots showing hammered-brass-and-glass pieces at ≤ $25; pass sellers who name the designer and ask ≥ 50% of sold.",
 "tells": []
@@ -8909,8 +8909,8 @@
 "memento mori crucifix"
 ],
 "top": 1500.0,
-"low": 60.0,
-"money": "Irish penal crosses, reliquary crosses, Georgian/early carved ivory corpus $200–1,500+ (general knowledge, verify)",
+"low": 30.0,
+"money": "Irish penal crosses $500–1,500 sold (Cottone 2023 $1,140)",
 "fakes": "Modern Italian/Chinese reproductions of skull crucifixes sold as \"antique\"; tell: bright plating, glued (not riveted) corpus, plastic inlay, uniform casting.",
 "buy": "Pass on nickel ebony-inlay crosses over $20; buy sterling-marked, reliquary (glass-fronted relic compartment) or early carved pieces at ≤ $40.",
 "tells": []
@@ -9058,9 +9058,9 @@
 "Rookwood paperweight",
 "pottery dish with flame mark"
 ],
-"top": 5000.0,
+"top": 350000.0,
 "low": 60.0,
-"money": "Shirayamadani/Valentien and large Vellum scenics $5,000+.",
+"money": "portraits, Black Iris, Tiger Eye and top-artist masterworks $10,000–350,000. (Corrected 2026-10-27: signed Standard glaze can sell as low as $150",
 "fakes": "New Rookwood (2000s revival) production exists. Some pieces use old moulds, so check the date marks (general knowledge, verify). Fake marks on unmarked Ohio pottery are uncommon but possible. Artist signatures are the ar",
 "buy": "Artist-signed under $150, or production under $30; pass on production pieces priced near $90.",
 "tells": []
@@ -9138,15 +9138,15 @@
 "Royal Doulton tray",
 "Royal Doulton dish"
 ],
-"top": 2000.0,
+"top": 4000.0,
 "low": 30.0,
-"money": "Lambeth stoneware art pottery by named artists $200–2,000+.",
+"money": "painted Sung, Chang and artist-signed Titanian $1,500–4,000 at auction",
 "fakes": "Flambé has some Chinese fakes with printed red marks. Seriesware not much faked. Royal Doulton reissued some popular lines in the 1980s–2000s with modern backstamps. - Lambeth stoneware is not commonly faked, but monogra",
 "buy": "Buy Flambé/Sung/Titanian or artist-monogrammed Lambeth stoneware at ≤ 25% of resale; pass on dinnerware and common seriesware under $40.",
 "tells": [
-"Lambeth stoneware: salt-glazed brown/blue art pottery signed with incised artist monograms (Hannah Barlow, George Tinworth, Frank Butler, Eliza Simmance).",
-"Dates check (Westland; thepotteries.org): John Doulton founded the pottery in 1815 at Vauxhall before it moved to Lambeth. The Burslem factory opened in 1882. The entry line above says 1877 because Doulton bought the Burslem works (Pinder, Bourne & Co.) in 187",
-"Where to look: every piece should be photographed upside down. The printed backstamp sits in the centre of the base, with the D pattern number nearby (often handwritten or printed) and sometimes a small year number beside the lion-crown. Lambeth pieces carry i"
+"Flambé / Sung / Chinese Jade / Titanian: red-veined high-fired glazes (flambé), very collectible.",
+"Seriesware (1890s–1960s): printed-and-hand-coloured scenes or florals on plates, jugs, trays, with a \"D\" pattern number (e.g. D5xxx). Includes Dickens, Shakespeare, Gibson Girls, Old English Scenes, and florals on mottled grounds.",
+"Lambeth stoneware: salt-glazed brown/blue art pottery signed with incised artist monograms (Hannah Barlow, George Tinworth, Frank Butler, Eliza Simmance)."
 ]
 },
 "royal-doulton-figurines": {
@@ -10036,9 +10036,9 @@
 "horse print",
 "riders print"
 ],
-"top": 3000.0,
+"top": 2000.0,
 "low": 50.0,
-"money": "signed Snaffles, Cecil Aldin, Lionel Edwards prints $200–3,000",
+"money": "Snaffles pencil-signed with blindstamp $500–2,000 (dealer asking to £1,350)",
 "fakes": "Most \"antique hunting prints\" are reproductions; restrikes of Alken plates (later 19th–20th c.); facsimile signatures on Snaffles reproductions; prints cut from books and framed as \"antique\".",
 "buy": "Pass on decorator hunt-scene reproductions; buy only pencil-signed prints (Snaffles with remarque, Aldin, Edwards) or plate-marked hand-coloured aquatints ≤ $50 that fit the seat.",
 "tells": [
@@ -10638,9 +10638,9 @@
 "flat tin",
 "Prince Albert tin"
 ],
-"top": 5000.0,
+"top": 65000.0,
 "low": 15.0,
-"money": "rare pocket tins and roly-polys $300–5,000.",
+"money": "Canadian rarities (3 Strikes, Taxi, Gold Dust) $5,000–65,000.",
 "fakes": "Chinese reproduction pocket tins of scarce brands (Forest & Stream, Hiawatha, Dixie Queen) since the 2000s – too-bright colours, no maker imprint, crude seams. 1980s \"Collector's\" reissue canisters (Sir Walter Raleigh, P",
 "buy": "Buy only scarce vertical pocket tins (Forest & Stream, Dixie Queen, Hiawatha, Bagdad short, Big Ben, Hi-Plane, Buckingham) at ≤ $30 each or lots containing them; pass Prince Albert/Velvet/Sir Walter Raleigh/Edgeworth lots above ~$4 per tin.",
 "tells": [
@@ -12241,9 +12241,9 @@
 "Pyrex promotional",
 "limited edition Pyrex"
 ],
-"top": 3000.0,
+"top": 6600.0,
 "low": 35.0,
-"money": "rare (Lucky in Love, Atomic Eye full sets, rare promos and colour variants) $400–3,000+.",
+"money": "holy grails (Lucky in Love, Golden Birds 575, Fleur-de-Lis 475, Clover Berry) $3,500–6,600 sold. (Corrected 2026-10-27: top tier was capped at ~$4,000",
 "fakes": "Post-1998 \"pyrex\" reissues of vintage patterns (2016 Pyrex \"Vintage Charm\" line by World Kitchen/Corelle: Pink Daisy, Butterprint etc. reproductions, marked with modern lowercase logo). Fake \"promotional\" patterns create",
 "buy": "Buy only scarce 1950s–60s promotional patterns or complete primary/rare-colour bowl sets in bright, unscratched condition at ≤ 1/3 sold median; pass 1970s patterns, carafes, and anything with dishwasher dulling.",
 "tells": [

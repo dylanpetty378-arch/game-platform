@@ -63,6 +63,11 @@ def grams(text):
 def purity(text):
     """(metal, purity, label) or None. Gold only if nothing says plated/filled; the LOWEST karat named wins."""
     gold = [(p, l) for rx, p, l in GOLD if rx.search(text)]
+    sil = [(p, l) for rx, p, l in SILVER if rx.search(text)]
+    # Sterling AND a karat named together (e.g. a sterling lot with "14K gold accents", "14k vermeil over sterling") ->
+    # the floor is silver, never gold on the full weight (Oct 26 2026: a 300 g Native sterling lot scored as 14k, $15,664).
+    if gold and sil and not NOT_SILVER.search(text):
+        p, l = min(sil); return ('silver', p, l)
     if gold and not NOT_GOLD.search(text):
         p, l = min(gold); return ('gold', p, l)
     if NOT_SILVER.search(text): return None

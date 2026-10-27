@@ -28,6 +28,23 @@ step that doesn't need judgement onto free compute. It replaces review-cycle.md 
 
 The shortlist already skips anything shown before (research/pools/shown.json, 12 days), so nothing is screened twice.
 
+## Two lanes (Oct 27 2026)
+Measured on 4,378 shortlisted rows with final prices: the CLIP/egg/type score barely predicted money (median final
+$15–20 in every score band; top band 103 of 528 ≥ $100 vs 65 in the bottom), while the free MELT line did (374 rows,
+median final $112, 200 of them ≥ $100). The same day the jewelry/marks family took 807 of 1,147 eye slots and all 59
+flags but 6 were melt plays the MELT line had already found. So:
+- **Melt lane** — rows whose stated weight × purity × spot clears the money rule go to `shortlist['melt']`, never to the
+  eye sheets. `lowuse.py prep` makes `melt_NN.jpg/.md` for them; ONE cheap agent answers the single question in
+  research/MELT_EYE_BRIEF.md (is the weight really metal? anything say plated?) and writes `M<sheet>\t<cell>\tLEAD|KILL`.
+  The description pass now also *removes* a melt line when the body says vermeil/plated/over sterling.
+- **Eye lane** — the jewelry/marks family is capped at 35% of each source's quota (`shortlist.JEWELRY_SHARE`), so the
+  rest of the sheets are the categories where an eye adds something the free compute can't.
+- "style" is a labelled-cheap word (vintage style, Palais Royal style, shakuhachi style — all sold $250+ in the misses).
+- Misses report (outcomes.py) no longer counts Dylan's never-show categories (instruments, audio, cards, Funko,
+  furniture) or by-the-pound grab bags; instruments were dropped from the SGW harvest.
+- The weekly misses review can take every row: `lowuse.py misses 7 --max 0`.
+
+
 ## Running it ("get going", or the daily scheduled task)
 1. `git pull`; `python3 scripts/lock.py take "<chat>" 2` (stop if BUSY); commit + push the lock.
 2. `python3 scripts/lowuse.py prep` → prints run name, sheet count and agent batches. If the shortlist is older than

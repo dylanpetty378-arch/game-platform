@@ -1,7 +1,7 @@
 # Paul Flato compacts (Paul Flato, 1948–1950s; vs unsigned Majestic, Elgin American, Volupté)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: makeupmuseum.org (Flato compact history, patent Feb 1948, ads 1949–51), Heritage Auctions lot 668-39135 (signed Flato faux-pearl compact, c.1940), eBay.de active listing 126474240610 (Dogwood compact + lipstick w/ case, ask $350), Rau Antiques / Beladora (gold Flato compacts, four figures); Terapeak (16 sold, median $108, p75 $140; cited in 2026-10-12 sweep)
+Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-27 · Sources: makeupmuseum.org (Flato compact history, patent Feb 1948, ads 1949–51), Heritage Auctions lot 668-39135 (signed Flato faux-pearl compact, c.1940), eBay.de active listing 126474240610 (Dogwood compact + lipstick w/ case, ask $350), Rau Antiques / Beladora (gold Flato compacts, four figures); Terapeak (16 sold, median $108, p75 $140; cited in 2026-10-12 sweep) ; Beladora, Flato 14K envelope compact ($9,500 asking) https://beladora.com/products/504572-flato-envelope-compact-box-in-14k ; Rau Antiques, three Flato 14K gold and enamel envelope compacts 1938 ($62,500 asking) https://rauantiques.com/products/paul-flato-gold-and-enamel-compacts ; Makeup Museum Flato compact post (kitty, key, teardrop, circus, bunny, shell) https://makeupmuseum.org/?p=34320 ; Heritage lot 668-39135 https://jewelry.ha.com/itm/estate-jewelry/objects-d-art/retro-faux-pearl-yellow-metal-compact-flatothe-hinged-yellow-metal-case-featuring-faux-pearls-opens-to-reveal-a-mirro/a/668-39135.s ; db/comps.jsonl Terapeak 365d "Paul Flato compact" (n=22, median $75, p25 $25, p75 $127)
 Slug: paul-flato-compacts · Aliases: vintage jeweled compact, gold compact with rhinestones, Paul Flato compact, Flato compact and lipstick, jeweled powder compact
-Summary: Unsigned rhinestone compacts $10–40; signed Flato compact alone, worn $50–100; signed compact + lipstick, clean $120–250; figural boxed sets $250–600 and precious-metal Flato jewelry in the $1,000s. Terapeak: 16 sold, median $108, p75 $140.
+Summary: Unsigned rhinestone compacts $10–40; signed Flato compact alone, worn $50–100; signed compact + lipstick, clean $100–150 (corrected 2026-10-27: Terapeak 365d n=22 median $75, p75 $127); figural boxed sets $250–600 and precious-metal Flato jewelry in the $1,000s. Terapeak: 16 sold, median $108, p75 $140.
 Buy rule (short): Buy signed Flato (or box visible) with lipstick for ≤ $60, compact alone ≤ $35; pass unsigned, heavy stone loss, or price > $100.
 
 ## What it is / how to recognise it in a photo
@@ -12,6 +12,14 @@ Paul Flato was the Hollywood jeweler (Katharine Hepburn, Rita Hayworth); after p
 - **Paul Flato fine jewelry** (1930s–40s, precious metal): gold Flato compacts at Rau Antiques / Beladora reach four figures — a different market.
 - **Look-alikes (junk tier)**: Majestic, Elgin American, Volupté unsigned rhinestone compacts $10–40.
 - Set completeness multiplies value: compact only < compact + lipstick < boxed set.
+
+### Golden-egg tells
+- Flato 14K gold "envelope" compact (c.1938–40, trompe-l'oeil letter with engraved script address, enamel postage stamp on the front, red enamel "wax seal" on the back) — $9,500 single (Beladora) and $62,500 for a trio (Rau), both ASKING, vs $75 costume Flato median (~100×+) — solid gold weighs about 105 g for a 3×2.5" compact, far heavier than plated brass; signed "Flato"; the envelope shape is the tell (https://beladora.com/products/504572-flato-envelope-compact-box-in-14k ; https://rauantiques.com/products/paul-flato-gold-and-enamel-compacts)
+- Pre-war Flato yellow-metal compact set with faux pearls (c.1940, signed "Flato", 2-9/16 × 2-3/16 × 3/8", 92.5 g) — sold at Heritage Dec 2007 (price behind login) — pearls set in rows across a hinged lid; the c.1940 fine-jewellery-shop pieces are a different market from the 1948–51 costume line; send to a jewellery auction, not eBay (https://jewelry.ha.com/itm/estate-jewelry/objects-d-art/retro-faux-pearl-yellow-metal-compact-flatothe-hinged-yellow-metal-case-featuring-faux-pearls-opens-to-reveal-a-mirro/a/668-39135.s)
+- Figural kitty compact with green-eyed stones and matching lipstick in the original box (1948–51) — est. $200–350 (eBay bidding wars noted by the Makeup Museum; general knowledge, verify) vs $75 (~3–4×) — cat-face lid with two green rhinestone eyes; a tiger-eye version also exists; box plus lipstick is what multiplies it (https://makeupmuseum.org/?p=34320)
+- Dogwood compact + lipstick with case, old stock — $350 ASKING on eBay.de, 20 watchers, not sold, vs $75 (~2–4×) — four-petal dogwood flowers in relief with a stone centre on a gold-tone lid, matching lipstick tube (entry comp, eBay.de 126474240610)
+- Key (key-shaped compact whose key could be cut to fit a door, ad Dec 1950), teardrop jeweled set (ad May 1951), circus, bunny and shell motifs — scarce shapes; est. $150–300 boxed (general knowledge, verify) vs $75 (~2–4×) — shaped outline (key, teardrop) instead of a round or square compact (https://makeupmuseum.org/?p=34320)
+- Signed Flato costume compact alone, worn plating, no box — ~1× (Terapeak 365d "Paul Flato compact" n=22: median $75, p25 $25, p75 $127) — round/square gold-tone compact with rhinestones, "Flato" signed inside; unsigned Majestic/Elgin American/Volupté look-alikes ($10–40) sit below this (db/comps.jsonl)
 
 ## Materials, finishes and quality tells
 Gold-tone (sometimes silver-tone) plated brass with set rhinestones/faux pearls; signature "Flato" inside the lid or on the hinge; original powder puff and sifter add a little (general knowledge, verify). Quality tells: crisp plating, all stones present, signature visible, matching lipstick motif, red-script box.
@@ -27,7 +35,7 @@ No known widespread fakes (general knowledge, verify). The risk is attribution: 
 |---|---|---|---|
 | Junk / common | unsigned rhinestone compacts (Majestic, Elgin American, Volupté) | $10–40 | most listings |
 | Decent | signed Flato compact alone, worn plating, missing stones | $50–100 | |
-| Collectible | signed Flato compact + lipstick, clean plating | $120–250 | the ones worth buying; Terapeak median $108 / p75 $140 sits at the low end |
+| Collectible | signed Flato compact + lipstick, clean plating | $100–150 (corrected 2026-10-27 from $120–250; Terapeak n=22 median $75, p75 $127) | the ones worth buying; Terapeak median $108 / p75 $140 sits at the low end |
 | Top | figural (kitty, circus, key) boxed set; precious-metal Flato jewelry pieces | $250–600 / $1,000s | verify signature before paying |
 
 ## Comps (sold, dated)

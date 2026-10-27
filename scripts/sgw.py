@@ -25,7 +25,7 @@ DROP = ['Toys/Dolls/Games', 'Costume Jewelry', 'Earrings', 'Plush', 'Collector P
 FIRST = ['Art', 'Antiques', 'Books > Antique', 'Bulk', 'Science', 'Miscellaneous', 'Art Glass', 'Knives', 'Advertising', 'Military',
          'Watches', 'Rings', 'Precious Metal', 'Fine Jewelry', 'Indigenous', 'Vintage Cameras', 'Lenses', 'Pottery', 'Sculptures',
          # Oct 22 2026 outcomes: 66% of $100+ SGW sales were in categories missing above — jewelry by type and instruments
-         'Necklaces', 'Bracelets', 'Jewelry Sets', 'Brooches', 'Pendants', 'Jewelry & Gemstones', 'Musical Instruments']
+         'Necklaces', 'Bracelets', 'Jewelry Sets', 'Brooches', 'Pendants', 'Jewelry & Gemstones']   # instruments removed Oct 27 2026: Dylan's never-show list (Oct 24)
 
 def search(**kw):
     p = {"searchText": "", "selectedCategoryIds": "", "selectedSellerIds": "", "lowPrice": "0", "highPrice": "999999", "searchBuyNowOnly": "",

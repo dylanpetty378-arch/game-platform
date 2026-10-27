@@ -1,7 +1,7 @@
 # Clarinets (Selmer Paris, Selmer USA/Bundy, Buffet Crampon, Leblanc, Yamaha)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: alamomusic.com (pre-owned Selmer Paris Series 9 $2,000); palenmusic.com (restored Selmer USA Signet Soloist $495); reverb.com Selmer Centered Tone listing; run12 sheet 63
+Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-27 · Sources: alamomusic.com (pre-owned Selmer Paris Series 9 $2,000); palenmusic.com (restored Selmer USA Signet Soloist $495); reverb.com Selmer Centered Tone listing; run12 sheet 63 ; Terapeak 365d sold, "Buffet R13 clarinet" n=49 median $1,000 and "Selmer Centered Tone clarinet" n=49 median $425 (/home/claude/game-platform/db/comps.jsonl, 2026-10-13) ; WoodwindForum Clarinet Perfection, "What is the Value of your Clarinet" (open-market price tables by model) https://www.woodwindforum.com/clarinetperfection/?p=488 ; Portland Music Co., used 1953 Selmer Centered Tone A clarinet ($1,299, sold out) https://portlandmusiccompany.com/products/used-1953-selmer-centered-tone-a-clarinet ; PM Woodwind, Selmer bass clarinet #Z0849 ($5,495 asking) https://pmwoodwind.com/product/selmer-bass-clarinet-z0849/
 Slug: clarinets · Aliases: Bb clarinet, B-flat clarinet, student clarinet, wood clarinet, Selmer clarinet, Buffet clarinet, Bundy clarinet, band instrument
-Summary: Plastic student (Bundy, CL300, Yamaha 250, B12) $50–150; wood intermediates (Signet, E11, Noblet, Vito wood) $150–400; Selmer Paris Series 9/10, Buffet R13 $800–1,800; Centered Tone, 1960s R13, matched pairs, bass clarinets $1,500–4,000.
+Summary: Plastic student (Bundy, CL300, Yamaha 250, B12) $50–150; wood intermediates (Signet, E11, Noblet, Vito wood) $150–400; Selmer Paris Series 9/10, Centered Tone, Leblanc LL/L7 $300–650 sold; Buffet R13 $500–1,350 sold (median $1,000); dealer-restored pro horns, A/Bb pairs and pro bass clarinets $1,300–5,000 (mostly dealer prices). (Corrected 2026-10-27: Centered Tone sells for a median of $425, not $1,500+.)
 Buy rule (short): Buy only with a visible Selmer Paris or Buffet R13 stamp under $400 and no cracks; pass plastic student horns over $40.
 
 ## What it is / how to recognise it in a photo
@@ -21,6 +21,14 @@ Tell: grenadilla wood is dull black with visible grain; plastic/resonite is glos
 - **Vintage**: Conn, Penzel-Mueller, Noblet wood; metal clarinets (Conn, Pedler) are a small curiosity market (general knowledge, verify).
 - Multipliers: A/Bb matched pairs, bass clarinets, alto clarinets in good order.
 
+### Golden-egg tells
+- Buffet Crampon **R13** (Paris) Bb or A — $500–1,350 sold (Terapeak n=49, median $1,000); open market $800–1,400 vs $50–150 Bundy/CL300 (~8–10×) — "R13" stamped directly under the oval "Buffet Crampon & Cie A Paris" logo on the upper joint and bell; dull grenadilla with grain; serial on each joint. beware: a Buffet stamp with no "R13" is a pre-R13 (sold $280–600) or an Evette/Evette & Schaeffer (Buffet-made student/intermediate, $75–275); a crisp Buffet logo on glossy, grainless body is a counterfeit (Terapeak, Terapeak 365d sold, /home/claude/game-platform/db/comps.jsonl; https://www.woodwindforum.com/clarinetperfection/?p=488)
+- Henri Selmer Paris **Centered Tone** (1950s, serial prefix letters roughly L–T) — $300–650 sold (Terapeak n=49, median $425; best $765–810), dealer-restored 1953 CT A clarinet $1,299 sold out vs $50–150 (~3–6×) — "Henri Selmer Paris" crossed-S logo on the upper joint; hexagonal speaker-key tube on the back of the upper joint; letter-prefixed serial; often found in a Bundy plaid case, which hides it (https://portlandmusiccompany.com/products/used-1953-selmer-centered-tone-a-clarinet)
+- Leblanc (Paris) **LL** or **L7**, especially the A clarinets — $325–425 (L7) and ~$350 (LL) open market; A versions $450–800 vs $50–150 (~3–5×) — "G. Leblanc Paris France" stamp with "LL" or "L7" on the upper joint; wood body; plain Leblanc/Vito plastic is the common version (https://www.woodwindforum.com/clarinetperfection/?p=488)
+- Selmer Paris **Series 9 / 9* / 10** and earlier **Balanced Tone (BT)** — $300–550 open market vs $50–150 (~3–4×) — "Series 9" or "10" stamped under the Selmer Paris logo; BT has an M/N-prefix serial and no series stamp (https://www.woodwindforum.com/clarinetperfection/?p=488)
+- Selmer USA **Signet Soloist** (wood) — $150–200 as-is; $495 restored (dealer, sold out) vs $50–150 (~1.5–3×) — "Signet Soloist" engraved on the bell plus "Selmer USA" on the upper joint, grenadilla body; "Signet 100" or "Signet Special" are worth less, $40–100 (https://www.woodwindforum.com/clarinetperfection/?p=488)
+- **Common (~1×)**: Bundy resonite, Selmer CL300/CL301, Buffet B12, Evette plastic, Yamaha YCL-20/250, Chinese stencils — $50–150 — glossy black plastic with molded grain-free body, "Bundy" or "Resonite" moulded on the bell, modern black Selmer case with blue badge; do not flag
+
 ## Materials, finishes and quality tells
 Grenadilla (African blackwood) = intermediate/pro; plastic/resonite = student. Pro horns have hand-forged keys, the model stamp under the logo (R13 stamped under Buffet logo), serial numbers on the joints (date the instrument). Silver-plated vs nickel keys matters little.
 
@@ -35,8 +43,8 @@ Chinese "stencil" clarinets with invented brand names; occasional counterfeit Bu
 |---|---|---|---|
 | Junk / common | Bundy, CL300, Yamaha 250, B12, no-name Chinese | $50–150 | most Craigslist listings |
 | Decent | wood intermediates: Signet, Buffet E11, Noblet, Vito wood | $150–400 | |
-| Collectible | Selmer Paris Series 9/10, Buffet R13 playing condition | $800–1,800 | needs overhaul check (the identification section cites $800–2,500 used for Selmer Paris pro models) |
-| Top | Centered Tone, R13 1960s, A/Bb matched pairs, bass clarinets | $1,500–4,000 | |
+| Collectible | Selmer Paris Series 9/10, Centered Tone, Leblanc LL/L7; Buffet R13 | $300–650; R13 $500–1,350 | corrected 2026-10-27 from Terapeak sold (CT median $425, R13 median $1,000); $800–2,500 figures are dealer retail after overhaul |
+| Top | Overhauled R13 from a dealer, A/Bb matched pairs, pro bass clarinets | $1,300–5,000 | dealer/asking level; private sold prices lower |
 
 ## Comps (sold, dated)
 - 2025 – Selmer Paris Series 9, pre-owned – $2,000 **ask** (Alamo Music – dealer asking, not a sold comp)

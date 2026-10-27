@@ -1,7 +1,7 @@
 # Lucite and resin decor (embedment paperweights and domes with butterflies/flowers/insects, Lucite sculptures, Lucite boxes and trays, resin "taxidermy" butterfly domes; makers Charles Hollis Jones, Herb Ritts Sr./Ritts Co., Dorothy Thorpe, Grosfeld House, Lucite Lucite (Alessandro Albrizzi); 1970s Taiwan/Philippines souvenir embedments)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; prices estimates, verify); Charles Hollis Jones (https://www.charleshollisjones.com); Terapeak /home/claude/game-platform/db/comps.jsonl: "Roman Inc Seraphim Classics resin angel" median $14.85 (unrelated resin), no embedment rows. US Fish & Wildlife rules on butterfly specimens (protected species e.g. Birdwing, Ornithoptera — CITES Appendix II) (https://www.fws.gov/program/international-affairs).
+Updated: 2026-10-13 · tells 2026-10-27 · Sources: general knowledge (no web search this run; prices estimates, verify); Charles Hollis Jones (https://www.charleshollisjones.com); Terapeak /home/claude/game-platform/db/comps.jsonl: "Roman Inc Seraphim Classics resin angel" median $14.85 (unrelated resin), no embedment rows. US Fish & Wildlife rules on butterfly specimens (protected species e.g. Birdwing, Ornithoptera — CITES Appendix II) (https://www.fws.gov/program/international-affairs). ; Terapeak 365d sold, "Charles Hollis Jones lucite" n=46 median $120, "butterfly in resin dome" n=18 median $12.50, "Moss lucite lamp Schoop" n=3 median $225, "Wilardy Lucite purse" n=50 median $59.85; eBay active pulls 2026-10-14 to 10-18 (Llewellyn, CHJ, butterfly domes) /home/claude/game-platform/db/comps.jsonl
 Slug: lucite-and-resin-decor · Aliases: Lucite paperweight, resin butterfly, butterfly in resin, butterfly dome, embedment, acrylic paperweight, insect paperweight, scorpion in resin, flower in lucite, Lucite box, Lucite sculpture, Hollywood Regency Lucite, acrylic decor
-Summary: Souvenir resin embedments (butterflies, scorpions, flowers) $10–40; large/clear quality butterfly domes and military/corporate embedments $25–80; Lucite boxes, trays, bookends by known makers $60–250; Charles Hollis Jones, Albrizzi, Dorothy Thorpe signed pieces $150–2,000.
+Summary: Souvenir resin embedments (butterflies, scorpions, flowers) $10–40; large/clear quality butterfly domes and military/corporate embedments $25–80; Lucite boxes, trays, bookends by known makers $60–250; Charles Hollis Jones accessories $70–300 sold (median $120), CHJ/Albrizzi furniture $500–2,000+; Moss Lucite lamps ~$225 sold. (Corrected 2026-10-27: souvenir domes sell for a median of $12.50; CHJ small pieces sell at a median of $120, not $150+.)
 Buy rule (short): Pass on butterfly/flower resin souvenirs over $10; buy only signed Hollywood Regency Lucite (Charles Hollis Jones, Ritts, Grosfeld House, Albrizzi) small pieces ≤ $40.
 
 ## What it is / how to recognise it in a photo
@@ -21,6 +21,12 @@ pid 7957073117: ~5.75 in. dome of clear cast resin containing dried everlasting 
 | Souvenir embedments (Taiwan, Philippines) | "Made in Taiwan" sticker | 1960s–90s | Low. |
 | Corporate embedments | Company names | 1960s–90s | Niche, $20–200. |
 
+### Golden-egg tells
+- **Moss Manufacturing** (San Francisco) Lucite lamps, often with Hedi Schoop or Decoramic ceramic figures — sold $220–225 (Terapeak n=3) with asks of $245–1,250 vs $6–25 for a butterfly dome (~10–20×) — spun or bent clear/coloured Lucite with a ceramic figure on a rotating base, often a built-in planter; "Moss Mfg. Co. San Francisco" foil or paper label under the base. Shares a type with figural-table-lamps (Terapeak 365d sold, /home/claude/game-platform/db/comps.jsonl)
+- **Charles Hollis Jones** acrylic accessories (chess sets, magazine racks, valets, boxes) — $70–300 sold (Terapeak n=46, median $120); a chess set asks $1,100 vs $6–25 (~5–15×) — very thick, water-clear acrylic with polished edges, often with brass or chrome rods; an engraved signature is expected but was not confirmed this pass. beware: listings say "Charles Hollis Jones style"; without a signature or provenance, price it as unsigned Lucite ($30–100) (Terapeak 365d sold, /home/claude/game-platform/db/comps.jsonl)
+- **Wilardy** and **Llewellyn (Rialto)** 1950s Lucite handbags — Wilardy sold median $60 (Terapeak n=50, p75 $126); Llewellyn asks $85–395 (median $150) vs $6–25 (~3–8×) — pearlized or marbled box purse with a carved clear lid; "Wilardy Originals" or "Llewellyn Inc NY / Rialto" stamped inside the lid or on the hinge frame. Sold under designer-handbags (Terapeak 365d sold, /home/claude/game-platform/db/comps.jsonl)
+- **Common (~1×)**: 1970s Taiwan/Philippines butterfly, flower, scorpion or seahorse resin domes and paperweights — $6–18 sold (Terapeak n=18, median $12.50); asks $17–41 — yellowed polyester resin, bubbles, "Made in Taiwan" foil sticker, common swallowtail/Graphium butterflies; do not flag
+
 ## Materials, finishes and quality tells
 Lucite (acrylic): crystal clear, polished edges, lighter than glass, no yellowing. Polyester resin: yellows with age, may have bubbles, slightly sticky or cloudy surfaces. Quality embedments: no bubbles, well-centred, colourful specimens intact.
 
@@ -34,7 +40,7 @@ Modern Chinese resin embedments (2000s–present) are identical in type; "vintag
 | Tier | Examples | Typical sold price | Notes |
 |---|---|---|---|
 | Junk | Yellowed, cracked small embedments | $5–15 | |
-| Low | Butterfly/scorpion domes and paperweights | $15–40 | (general knowledge, verify) |
+| Low | Butterfly/scorpion domes and paperweights | $6–25 | Terapeak sold median $12.50 (n=18), corrected 2026-10-27 |
 | Mid | Large clear domes, corporate embedments, unsigned Lucite boxes | $30–100 | |
 | High | Ritts, Grosfeld House, Thorpe Lucite | $80–300 | |
 | Top | Charles Hollis Jones, Albrizzi furniture/lamps | $300–3,000 | Furniture too big |

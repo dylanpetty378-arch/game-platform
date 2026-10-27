@@ -15,7 +15,8 @@ little the title says). Your job is the judgement the ranker can't make: **is th
 ## The main pattern: LABELLED DOWN (Dylan, Oct 21 2026)
 Flag things that are **hard to recognise and likely mislabelled — specifically labelled as the cheaper option**:
 "reproduction", "costume", "gold tone", "silver plated", "brass", "resin", "print", "souvenir", "decor",
-"made in Japan", "student", "glass beads", "Chinese" on something Japanese (or the reverse), "20th century" on something older.
+"made in Japan", "student", "glass beads", "Chinese" on something Japanese (or the reverse), "20th century" on something older,
+and **"style"** ("vintage style" clarinet, "Palais Royal style" cart, "shakuhachi style" — Oct 27 misses: each sold $250+).
 The seller has looked it up and settled on the cheap answer. If the photo shows the expensive version's tells, that is
 the egg — nobody else bids on a "costume brooch" or a "resin figure".
 - Cells marked **↓LABELLED CHEAP** in the notes carry such a word. Look at those first and hardest.
@@ -36,6 +37,19 @@ the egg — nobody else bids on a "costume brooch" or a "resin figure".
    still be an egg — use what you know.
 4. Be specific in the reason: "Navajo cluster ring, heavy ingot silver, Fred Harvey-era stamping visible? → old pawn
    $300–1,200" — not "nice ring".
+
+## What the market bought that we missed (Oct 27 2026 review of 300 ShopGoodwill $100+ sales with silent titles)
+Hidden-maker misses that an eye can catch from one photo — look for these on every sheet:
+- **French opaline glass**: opaque milky turquoise/pale-blue (not transparent) glass, gilt-metal mounts or panelled stems; sellers say "blue glass" → $200–1,500.
+- **Jewelled Bohemian enamel glass**: raised 3-D gold and enamel bands on thin clear blown glass (Moser/Harrach type) → $200–800 a set; not decal souvenir glass.
+- **Oaxacan master alebrijes**: fine dot ("punteado") and Zapotec geometric patterning in a restrained palette, limbs carved separately → $150–1,000 vs $20 tourist blobs.
+- **Tibetan/Nepalese inlaid brass**: individually bezelled turquoise and coral cabochons (raised, not painted) on an owl, vessel or animal → $150–500; titled "decor".
+- **Cylinder music boxes**: glass-sided case showing a long comb and a pinned cylinder → $200–2,000.
+- **Silver by the pile**: worn pre-1965 dimes/quarters/halves with no copper edge line = 90% silver, ≈ $2.3 per $0.10 face; a heavy plain sterling cuff sold by weight.
+- **Bronze, not spelter**: brown patina with crisp figural detail on a turned wood or marble plinth, foundry stamp on the base → $250–3,000.
+- **Lots hiding a key piece**: coins pulled into 2×2 holders inside a cent pile; a signed or sterling piece visible in a jewelry box; opaque marbled (Bakelite-colour) bangles or silver bezel rings in a bulk box.
+- **WWI steel helmets** (M16/M17 side lugs; hand-painted camo panels $1,500+), **Victorian hairwork** under convex glass, **Giuseppe Armani** tall slender figures on a wood plinth, **WWI cast-bronze table medals**.
+Not misses for us: instruments, amps, hi-fi (never-show list), by-the-pound grab bags (a known $/lb floor), oversize utility items.
 
 ## Data signals under a cell (Oct 22 2026) — lines starting with ↳ in the notes
 Free compute now reads things you can't see in a 220 px thumbnail. Use them; they are evidence, not verdicts.

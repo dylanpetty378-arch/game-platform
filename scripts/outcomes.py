@@ -148,7 +148,12 @@ def misses(date=None, top=60, minf=100):
         for l in open(lp):
             try: x = json.loads(l); verdict[x['pid']] = x['verdict']
             except Exception: pass
-    hit = [r for r in rows if r['final'] >= minf and not SAYS.search(r['t']) and not (mk and mk.search(r['t']))]
+    # Dylan's never-show categories (Oct 24 2026) and by-the-pound lots are not misses — Oct 27 review: 33 of 96 misses were
+    # instruments and 20 were grab-bags sold at a known $/lb, none of which the eye should learn from.
+    NEVER = re.compile(r'(Musical Instruments|Trading Cards|Funko|Furniture|Appliances|Speakers|Amplifiers|Audio)', re.I)
+    BULK = re.compile(r'\b(\d+\s*(?:lb|lbs|pound|pounds)|mystery box|grab bag|by the pound|unsearched)\b', re.I)
+    hit = [r for r in rows if r['final'] >= minf and not SAYS.search(r['t']) and not (mk and mk.search(r['t']))
+           and not NEVER.search((r.get('cat') or '') + ' ' + r['t']) and not BULK.search(r['t'])]
     hit.sort(key=lambda r: -r['final'])
     os.makedirs(MISSDIR, exist_ok=True)
     md = [f'# Misses {date} — SGW lots that sold >= ${minf} with titles that do not say why',

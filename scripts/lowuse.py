@@ -6,7 +6,7 @@ as few tool calls as possible. Procedure: docs/low-usage.md.
                                                       #   encyclopedia notes, agent batches (prints the run name)
   python3 scripts/lowuse.py panels <run> <flags.tsv>   # flagged cells -> one photo panel per item (all photos) + flagged.md
   python3 scripts/lowuse.py log <run> <verdicts.tsv>   # verdicts -> db listings/events + research/pools/lowuse-log.jsonl
-  python3 scripts/lowuse.py misses [days]              # weekly: the last <days> (7) of misses -> /tmp/eye/misses-<ts>/ sheets
+  python3 scripts/lowuse.py misses [days] [--max N]    # weekly: the last <days> (7) of misses -> /tmp/eye/misses-<ts>/ sheets (--max 0 = all)
 
 flags.tsv    lines: sheet<TAB>cell<TAB>why                     (cell = the yellow number)
 verdicts.tsv lines: sheet<TAB>cell<TAB>egg|lead|kill<TAB>value_low<TAB>max_bid<TAB>note
@@ -97,19 +97,43 @@ def prep(maxn=1000, agents=None, path=SL, prefix='lu'):
         open(f'{d}/sheet_{k + 1:02d}.md', 'w').write('\n'.join(notes) + '\n')
     open(f'{d}/top-tells.md', 'w').write('# Highest-value types in the encyclopedia — look for these anywhere\n' +
                                           '\n'.join(line(s, e, 1, 120) for s, e in top_tells[:30]) + '\n')
+    # Melt lane (Oct 27 2026): rows the free melt line already decided. They get their own small sheets and a one-question
+    # brief (research/MELT_EYE_BRIEF.md): is the stated weight really metal, and does anything say plated? No eye slots.
+    melt = [r for r in S.get('melt', []) if not ended(r)]
+    if melt:
+        with cf.ThreadPoolExecutor(24) as ex: mims = list(ex.map(fetch, [r['img'] for r in melt]))
+        nm = (len(melt) + PER - 1) // PER
+        for k in range(nm):
+            part = melt[k * PER:(k + 1) * PER]
+            sh = Image.new('RGB', (COLS * CELL, ((len(part) + COLS - 1) // COLS) * CELL), 'white'); dr = ImageDraw.Draw(sh)
+            notes = [f'# Melt sheet {k + 1} of {nm} — {len(part)} lots whose stated weight × purity × spot clears the money rule\n',
+                     'cell | source | price, bids, hours left | title | MELT line (floor at refiner payout; max bid = money rule)']
+            for j, r in enumerate(part):
+                im = mims[k * PER + j]; x, y = (j % COLS) * CELL, (j // COLS) * CELL
+                if im: im.thumbnail((CELL - 4, CELL - 4)); sh.paste(im, (x + 2, y + 2))
+                dr.rectangle([x, y, x + 34, y + 16], fill='yellow'); dr.text((x + 3, y + 2), str(j), fill='black')
+                h = hours_left(r); hl = f'{h:.0f}h' if h is not None else '?'
+                notes.append(f"{j} | {r['src']} | ${r['p']}, {r['b']}b, {hl} | {r['t'][:90]}")
+                for tg in tags(r): notes.append(f"    ↳ {tg}")
+                index[f'M{k + 1}:{j}'] = r
+            sh.save(f'{d}/melt_{k + 1:02d}.jpg', quality=80)
+            open(f'{d}/melt_{k + 1:02d}.md', 'w').write('\n'.join(notes) + '\n')
     json.dump(index, open(f'{d}/index.json', 'w'))
     agents = agents or max(1, min(4, (nsheets + 6) // 7))
     batches = [[i + 1 for i in range(nsheets) if i % agents == a] for a in range(agents)]
     json.dump(batches, open(f'{d}/batches.json', 'w'))
     src = {s: sum(r['src'] == s for r in rows) for s in ('ebay', 'sgw')}
-    print(f"{run}: {len(rows)} live listings ({src}), {nsheets} sheets, {agents} agent batches {batches} | shortlist made {S['made'][:16]}Z "
-          f"from pool {S.get('pool')}")
+    print(f"{run}: {len(rows)} live listings ({src}), {nsheets} sheets, {agents} agent batches {batches} | melt lane {len(melt)} lots on "
+          f"{(len(melt) + PER - 1) // PER} melt sheets | shortlist made {S['made'][:16]}Z from pool {S.get('pool')}")
+
+def key(sh):
+    sh = sh.strip(); return sh if sh.startswith('M') else str(int(sh))
 
 def read_tsv(p, n):
     out = []
     for ln in open(p):
         x = ln.rstrip('\n').split('\t')
-        if len(x) >= 2 and x[0].strip().isdigit(): out.append(x + [''] * (n - len(x)))
+        if len(x) >= 2 and re.fullmatch(r'M?\d+', x[0].strip()): out.append(x + [''] * (n - len(x)))
     return out
 
 def panels(run, tsv):
@@ -117,7 +141,7 @@ def panels(run, tsv):
     d = wdir(run); index = json.load(open(f'{d}/index.json')); md = ['# Flagged — full photos in panels/<id>.jpg\n']
     os.makedirs(f'{d}/panels', exist_ok=True)
     for sh, cell, why, *_ in read_tsv(tsv, 3):
-        r = index.get(f'{int(sh)}:{int(cell)}')
+        r = index.get(f'{key(sh)}:{int(cell)}')
         if not r: md.append(f'- {sh}:{cell} not found'); continue
         det = r.get('det') or {}
         if not det and r['src'] == 'sgw':
@@ -145,7 +169,7 @@ def log(run, tsv):
     d = wdir(run); index = json.load(open(f'{d}/index.json')); ev, li, lg = [], [], []
     known = db.known_pids()
     for sh, cell, verdict, vlow, mx, note in read_tsv(tsv, 6):
-        r = index.get(f'{int(sh)}:{int(cell)}')
+        r = index.get(f'{key(sh)}:{int(cell)}')
         if not r: continue
         pid = r['id']
         if pid not in known:
@@ -164,8 +188,9 @@ def log(run, tsv):
         for x in lg: f.write(json.dumps(x, ensure_ascii=False) + '\n')
     print(len(ev), 'verdicts logged')
 
-def misses(days=7):
-    """Weekly review input: top misses of the last <days> days as 48-cell sheets + notes (cell -> final, title)."""
+def misses(days=7, mx=240):
+    """Weekly review input: top misses of the last <days> days as 48-cell sheets + notes (cell -> final, title).
+    mx = how many rows (default 240 = cheap mode; 0 = all)."""
     from PIL import Image, ImageDraw
     import glob, outcomes
     files = sorted(glob.glob(os.path.join(ROOT, 'research', 'pools', 'misses', '*.md')))[-days:]
@@ -175,7 +200,8 @@ def misses(days=7):
             if ln.startswith('- $'):
                 x = [p.strip() for p in ln[2:].split(' · ')]
                 rows.append({'final': x[0], 'bids': x[1], 'seen': x[3], 't': x[4], 'cat': x[5], 'img': x[6]})
-    rows = rows[:240]
+    rows.sort(key=lambda r: -float(r['final'].strip('$').replace(',', '') or 0))
+    if mx: rows = rows[:mx]
     run = 'misses-' + time.strftime('%Y%m%d-%H%M', time.gmtime()); d = wdir(run)
     with cf.ThreadPoolExecutor(24) as ex: ims = list(ex.map(fetch, [r['img'] for r in rows]))
     for k in range(0, len(rows), PER):
@@ -198,4 +224,6 @@ if __name__ == '__main__':
         prep(m, g)
     elif a[0] == 'panels': panels(a[1], a[2])
     elif a[0] == 'log': log(a[1], a[2])
-    elif a[0] == 'misses': misses(int(a[1]) if len(a) > 1 else 7)
+    elif a[0] == 'misses':
+        mx = int(a[a.index('--max') + 1]) if '--max' in a else 240
+        misses(int(a[1]) if len(a) > 1 and not a[1].startswith('--') else 7, mx)
