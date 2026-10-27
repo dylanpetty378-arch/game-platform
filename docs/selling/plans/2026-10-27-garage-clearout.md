@@ -1,4 +1,15 @@
-# Garage clear-out — 8 pieces, gone within the week (Oct 27 – Nov 3, 2026)
+# Garage clear-out — 9 pieces, gone within the week (Oct 27 – Nov 3, 2026)
+
+**v2 (Oct 27 evening, after the driveway photos):** nine pieces, not eight — the stepped espresso bookcase is in the
+shoot too. Photo-driven changes: the Porter end table's top is gouged through the finish (not a Restor-A-Finish job;
+priced $40 → free-with-purchase by day 6); the ottoman is an oval teal tufted piece on wood legs, not the matching
+denim (described honestly, bundled with the loveseat, $35 alone); the rug is Orian Adagio 8237 "Faded Diamonds" /
+"Tribal Throne" and Rug Studio sells the 7'8"×10'10" today at $1,065 (MSRP $1,420) — a far better anchor than the
+Sept $728, so the rug lists at $175 → $140 → $100. Porter set $250 (not $275). Edited listing photos (cropped,
+brightened, heroes chosen): `docs/selling/plans/photos/2026-10-27-garage/`. The phone page Dylan posts from (photos in
+order + copy buttons + plan): claude.ai artifact "Garage Clear-Out Listings". The text below is the original v1 plan;
+where it disagrees with this note, this note wins.
+
 
 Goal: most money, fastest, space back. No truck, no delivery. All relisted on Dylan's account; Jordan unlists hers first.
 Supersedes `2026-10-27-hollywood-set.md` for the couch set (prices here are the one-week prices).
