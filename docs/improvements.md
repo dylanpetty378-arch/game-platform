@@ -54,7 +54,14 @@ the top of the log; keep the backlog ranked. Measure everything against the funn
   porcelain-figurines, art-nouveau-poster-reproductions.
 - **New doc:** docs/photo-id.md — the procedure for Dylan's own photos (look → name → melt → sold comps → money rule →
   real-or-fake → verdict card → log).
-- **Facebook:** 18,971 unreviewed in the extension inbox; strong eye run over the top 2,400 (fb-20261027-1846).
+- **Facebook (afternoon):** 4,800 listings (fb-20261027-1846 + -1909) eye-screened by Opus → 107 flags → Stage A 85
+  ids / 22 kills → Stage B 170 eBay SOLD searches in Dylan's Chrome (1,346 comps, posted back through the site's
+  /fb/inbox drop-box — method now in FB_VERIFY_BRIEF.md) → Stage C 20 leads / 65 kills → report 2026-10-27-1530.
+  Judge pass rate ~1 in 4 flags; the eye's "est. resale" ran ~2× the sold comps (same lesson as Oct 15: never trust
+  an unsourced value). ~14,000 older sweep rows still unreviewed.
+- **Encyclopedia follow-up:** souvenir-spoons got tells; 9 weakly-sourced sections were re-researched with sold
+  prices (Swiss repeaters $840–1,940 sold, Gibson L-00 $5,850, Keane originals $19–23k, Meissen Kändler €75–172k…) and
+  the asking-only bullets demoted. 290 entries still lack tells.
 
 ### 2026-10-13 (17:00–17:40) — unlensed pool drained; tells in 128 entries
 - FIX: 95 size-kills had titles the bulky filter passed (tricycles, bikes, sleds, floor lamps, coolers, computers,
