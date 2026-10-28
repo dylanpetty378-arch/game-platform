@@ -1,5 +1,5 @@
 # Character and novelty wristwatches (Ingersoll, U.S. Time/Timex, New Haven, Bradley, Ingraham, Sheffield, Dirty Time Co., Lafayette; cowboy, Disney, comic and political watches)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Hake's Americana auction archive https://www.hakes.com (not loaded) ; "Comic Character Timepieces" (Brown, Brown & Greenberg) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references: Hake's Americana auction archive https://www.hakes.com (not loaded) ; "Comic Character Timepieces" (Brown, Brown & Greenberg) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
 Slug: character-watches · Aliases: character watch, Hopalong Cassidy watch, Hoppy watch, Roy Rogers watch, Mickey Mouse watch, Ingersoll Mickey, cowboy watch, comic watch, political watch, Spiro Agnew watch, Republican elephant watch, novelty watch, Timex character watch, Bradley watch
 Summary: 1970s–90s character/novelty watches (Bradley, Timex, Lorus, Spiro Agnew/political) $10–50; 1940s–50s cowboy and comic watches without box $40–150; boxed 1930s–50s (Ingersoll Mickey 1933, Hopalong with saddle box, Roy Rogers, Dan Dare) $200–1,500.
 Buy rule (short): Buy only 1930s–50s US/UK character watches that run, with a clean original dial, at ≤ $30 (≤ $100 if with original box); pass on 1970s+ novelty watches over $10.
@@ -67,7 +67,13 @@ Steady collector base for cowboy and 1930s characters (aging buyers; prices flat
 Pocket-size, under 4 oz; padded box $5–8. Boxed watches need a sturdy box ($8–12).
 
 ## Selling it (for the buyer-facing listing)
-Maker, year, whether it runs (wound and timed for 24 h), dial originality, strap/buckle originality, case wear, box. Video of it running.
+- **Title words:** character name, maker (Ingersoll, Bradley, Timex, US Time, Lorus), year or decade, "Running", "Original Band", "Boxed" / "with Box" when true, "Vintage". Junk: "cartoon watch", "kids watch" (modern). Example: `1933 Ingersoll Mickey Mouse Wristwatch Running Original Band Vintage Character Watch`.
+- **Where:** eBay BIN with offers (toy and Disney collectors nationwide); boxed 1930s–50s pieces also do well at Hake's/Morphy consignment if over ~$800; FB only for $10–50 1970s–90s novelty.
+- **Price position:** list at the sold median for character + maker + year + box status, accept −15%, floor −30%; boxed pre-1960 firm 30 days; 1970s–90s Bradley/Lorus OBO from day 1.
+- **Photos:** first photo dial straight-on, character clearly visible, on a neutral background. Then caseback (maker, model), the band and buckle (originality), the box and inserts all sides, dial close for fading/foxing, a short video of it running with the second hand moving.
+- **State:** maker, year, runs (wound and timed 24 h) or not, dial originality, strap/buckle originality, case wear, box and papers, crystal condition.
+- **Pack / haul:** pocket-size under 4 oz, padded box $5–8; boxed watches in a sturdy box inside a box $8–12; insure over $100.
+- **Quote to a buyer:** "The 1933 Ingersoll first-issue Mickey with the original metal band and box; wound and running, keeping time over 24 h; dial unrestored."
 
 ## Buy rule
 Watch shipping is cheap (~$6 each way), so profit = sold × 0.87 − 12 − price ≥ max($50, price). A $25 buy needs ~$100 sold. Buy only 1930s–50s characters that run (ask seller to wind it and confirm) and have original dials, at ≤ $30, or boxed examples at ≤ $100. Mechanical watches are testable by winding — not "untested electronics" — but non-runners are repairs: pass. These are not high-end watches; no professional authentication needed, but re-dial risk must be judged from photos.

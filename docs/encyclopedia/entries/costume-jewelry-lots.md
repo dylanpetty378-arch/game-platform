@@ -1,5 +1,5 @@
 # Costume jewelry and jewelry lots (signed: Trifari, Monet, Napier, Coro, Weiss, Sarah Coventry, Garne, Marvella, Vendome, Miriam Haskell, Schreiner, Juliana/DeLizza & Elster; unsigned and modern fashion jewelry)
-Updated: 2026-10-13 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "vintage costume jewelry lot", "garne jewelry" (3 yr), "disney couture key necklace", "sterling silver chain lot 925", "aurora borealis crystal bead necklace earrings set vintage", "signed rhinestone brooch weiss", "vintage chain belt cabochon", "vintage 1970s choker necklace lot", "givre cabochon leaf link belt" (no results)) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "vintage costume jewelry lot", "garne jewelry" (3 yr), "disney couture key necklace", "sterling silver chain lot 925", "aurora borealis crystal bead necklace earrings set vintage", "signed rhinestone brooch weiss", "vintage chain belt cabochon", "vintage 1970s choker necklace lot", "givre cabochon leaf link belt" (no results)) · tells 2026-10-13
 Slug: costume-jewelry-lots · Aliases: vintage jewelry, jewelry lot, junk jewelry, estate jewelry, costume jewelry, rhinestone, brooch, broach, choker, faux pearls, bead necklace, demi parure, set, signed jewelry
 Summary: Modern fashion and unsigned pieces $5–25; mixed "vintage to modern" lots $20–45 (more by weight); signed mid-century sets and good rhinestone (Weiss, Garne, Sarah Coventry, Monet) $25–80; top designers (Haskell, Schreiner, Juliana, Eisenberg, Hobé) and sterling/gold content $80–400+.
 Buy rule (short): Pay for marks, metal content and sets, not for the word "vintage": buy lots only when photos show signed pieces, sterling/gold-filled stamps, or top-designer construction, at ≤ 30% of what the identifiable pieces sell for.
@@ -80,8 +80,13 @@ Buy rule (short): Pay for marks, metal content and sets, not for the word "vinta
 - Light: padded mailer or small box, $5–9 Ground Advantage. Wrap pieces separately to protect stones.
 
 ## Selling it (for the buyer-facing listing)
-- Photograph marks, clasps, backs and every stone; give length, weight, closure type; disclose missing/darkened stones.
-- Group signed sets; sell metal-content pieces separately by weight with stamp photos.
+- **Title words:** "Vintage Costume Jewelry Lot", piece count and weight ("42 pcs 2.3 lb"), the signed names actually in it (Monet, Napier, Trifari, Coventry, Weiss), "Wearable" / "Repair/Craft" (say which honestly), era ("1950s–80s"), "Rhinestone", "Brooches". Junk: "estate jewelry", "junk drawer", "mystery lot". Example: `Vintage Costume Jewelry Lot 42 pcs Signed Monet Napier Trifari Coventry Wearable 2.3 lb`.
+- **Where:** eBay auction (7-day, $9.99 start) for mixed lots — lots are the one thing auctions beat BIN on; pull anything signed Haskell/Schreiner/Juliana/Eisenberg and any sterling or gold-content piece out first and sell those singly (see signed-costume-jewelry, sterling-silver-jewelry). FB for sub-$30 craft lots.
+- **Price position:** wearable mixed lots $20–45 by weight, signed-heavy lots $40–100; auction start low, no reserve; BIN only when a lot is 70%+ signed.
+- **Photos:** first photo the whole lot spread flat on black, every piece visible, nothing overlapping. Then groups of 6–8 pieces close, backs showing marks, the signed pieces singly, a scale showing total weight, any broken or stoneless pieces together in one honest shot.
+- **State:** piece count, total weight, which pieces are signed (list them), closure types, missing/dark stones, "sold as pictured", "wearable" vs "repair"; group signed sets and keep them as sets.
+- **Pack / haul:** padded mailer or small box $5–9; wrap pieces separately so stones don't scratch; chains in individual bags.
+- **Quote to a buyer:** "42 pieces, 2.3 lb, 11 signed (Monet, Napier, Trifari…), all clasps work, no missing stones except the two pictured; no sterling or gold in this lot (sold separately)."
 
 ## Buy rule
 - Price ≤ $200; fits anywhere. Profit = sold median × 0.87 − ~$6 shipping to buyer − ~$8 shipping to Dylan − price ≥ max($50, price).

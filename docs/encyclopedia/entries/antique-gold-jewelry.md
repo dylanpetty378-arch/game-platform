@@ -1,5 +1,5 @@
 # Antique gold jewelry (Victorian, Edwardian, Art Nouveau gold; gold-filled and rolled gold)
-Updated: 2026-10-13 · deepened 2026-10-13 · Sources: general knowledge (marked); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.kitco.com (spot price), https://www.langantiques.com ; Appraisily, antique brooch identification https://appraisily.com/articles/unlocking-the-past-a-beginners-guide-to-identifying-antique-brooches-with-confidence/ ; Dating brooches by clasp https://mvs.dev3.antropy.co.uk/Dating-brooches-by-clasp ; Preadored, rolled gold vs gold filled marks https://preadored.com/rolled-gold-vs-gold-filled-what-vintage-jewelry-marks-really-mean/ ; Navette Jewellery, earring patents https://navettejewellery.org/2018/04/30/dating-antique-jewellery-earring-patents/ · tells 2026-10-13
+Updated: 2026-10-28 · deepened 2026-10-13 · Sources: general knowledge (marked); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.kitco.com (spot price), https://www.langantiques.com ; Appraisily, antique brooch identification https://appraisily.com/articles/unlocking-the-past-a-beginners-guide-to-identifying-antique-brooches-with-confidence/ ; Dating brooches by clasp https://mvs.dev3.antropy.co.uk/Dating-brooches-by-clasp ; Preadored, rolled gold vs gold filled marks https://preadored.com/rolled-gold-vs-gold-filled-what-vintage-jewelry-marks-really-mean/ ; Navette Jewellery, earring patents https://navettejewellery.org/2018/04/30/dating-antique-jewellery-earring-patents/ · tells 2026-10-13
 Slug: antique-gold-jewelry · Aliases: Victorian gold earrings, antique gold ring, mourning brooch, 10k stud earrings, gold filled earrings, rolled gold, rose gold Victorian, seed pearl pin, Etruscan revival, C clasp brooch, hair work brooch, bar pin, watch pin, RGP, GF
 Summary: gold-filled/rolled-gold small items $10–40; small 10k/14k earrings/pins (≤1 g) $30–80; solid 14k/18k Victorian pieces with seed pearls/garnets $100–500; Etruscan revival, signed makers, mourning pieces with hair, large lockets $300–3,000+ (general knowledge, verify)
 Buy rule (short): Never buy from photos unless the karat mark is visible and price ≤ melt + small margin; tiny earrings/studs never clear the $50 profit bar.
@@ -114,14 +114,13 @@ Pocket-size. Ships in a padded mailer with insurance, $5–8. Use a small box in
 or enamel.
 
 ## Selling it (for the buyer-facing listing)
-Give the karat test result, weight in grams, dimensions and stone ID (glass vs. genuine), and close-up photos of the marks.
-
-### What to tell the buyer
-"[Brooch/earrings/locket], [marked 14K / unmarked, tests 14K by acid / marked 1/20 12K GF = gold-filled, not solid].
-Weight [x] g; size [x] mm. Fastening: [C-clasp with tube hinge / rollover safety catch; screw backs for non-pierced ears /
-posts with butterfly backs], consistent with c.[era]. Stones: [seed pearls / garnets / glass — untested if untested].
-Condition: [repairs, replaced findings, missing stones, wear-through]." Never call a piece "Victorian" on looks alone —
-say "Victorian style" unless the fastenings and construction agree; never call unmarked metal "gold" without a test.
+- **Title words:** karat as marked or tested ("14K", "Tests 14K", "10K"), "Solid Gold" (never for GF — say "Gold Filled"), era ("Victorian", "Edwardian", "Art Nouveau"), form (locket, brooch, bar pin, earrings), stones ("Seed Pearl", "Garnet", "Opal"), style ("Etruscan Revival", "Mourning"), weight in grams. Junk: "antique gold tone", "vintage gold" without karat. Example: `Victorian 14K Solid Gold Locket Seed Pearl Hand Engraved c.1880 8.2g`.
+- **Where:** eBay BIN with offers (signed, Etruscan, mourning and large lockets draw collectors); small plain 10–14K pieces under ~2 g go to a refiner/coin shop near melt; gold-filled small items FB lots $10–40.
+- **Price position:** solid-gold Victorian pieces list at the sold median for form + era + stones, accept −15%, floor at melt ×1.2; plain small karat pieces melt +20% firm; GF $10–40 OBO.
+- **Photos:** first photo front on black velvet, no hand. Then marks macro (karat stamp, maker), acid/XRF test result shown, the back and findings (C-clasp, tube hinge, screw backs — they date it), each stone close, on a gram scale.
+- **State:** karat test result (and that it's a test, not just a stamp), weight in grams, dimensions, stone ID (glass vs genuine, untested if untested), fastening type and the era it indicates, repairs, missing stones, "gold-filled, not solid" when it is.
+- **Pack / haul:** pocket-size; padded mailer with a small box inside for glass or enamel, insured, $5–8.
+- **Quote to a buyer:** "Tests 14K (acid), 8.2 g; C-clasp with tube hinge and hand engraving consistent with c.1880; seed pearls original; at today's gold the metal alone is $X."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$6 out − ~$6 in − price ≥ max($50, price). Only buy when the karat mark and weight are confirmed and the price is at or below melt plus about 20%, or for a clearly antique premium piece at ≤ ~30% of resale. Signed high-end pieces need professional authentication, which is outside Dylan's model.
