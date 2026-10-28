@@ -1,5 +1,5 @@
 # Advertising signs (porcelain, tin, plastic, neon, street signs)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist chico listing body (5×5 ft Shell sign confirmed plastic); Joe Camel floor ashtray eBay listings ($150–300 asks, 2025); porcelain street-sign eBay sold knowledge ($60–150); Richmond Auctions / Morphy petroliana results for porcelain Shell signs ($800–5,000). · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: craigslist chico listing body (5×5 ft Shell sign confirmed plastic); Joe Camel floor ashtray eBay listings ($150–300 asks, 2025); porcelain street-sign eBay sold knowledge ($60–150); Richmond Auctions / Morphy petroliana results for porcelain Shell signs ($800–5,000). · tells 2026-10-13
 Slug: advertising-signs · Aliases: gas sign, porcelain sign, metal sign, tin sign, neon sign, street sign, advertising sign, tacker
 Summary: Repro tin and plastic canopy signs $10–100; 1990s beer neons, tobacco clocks, porcelain street signs $75–250; original 1930s–50s tin litho and pump plates $200–800; big porcelain Shell/Texaco/Mobil and dealer signs $1,000–20,000.
 Buy rule (short): Porcelain pump plate/small sign ≤ $150 with clean gloss, porcelain street sign ≤ $30; pass plastic, tin repros and neons.
@@ -59,7 +59,13 @@ Porcelain vs tin vs plastic – ask for an edge/chip photo. Porcelain street sig
 Porcelain pump plates 5–8 lb, $20; large signs are freight/local only. Neons must be crated – local only.
 
 ## Selling it (for the buyer-facing listing)
-State material (porcelain/tin/plastic), single or double-sided, exact dimensions, any maker's mark/date along the edge, chips and their location. Photograph front, back, edges, mounting holes, and chips close-up. Keywords: brand + "porcelain sign" or "tin sign" + size + "original" + era.
+- **Title words:** brand + material ("porcelain sign", "tin litho sign") + size + "original" + era + "single/double sided" + "pump plate"; street signs: street name + city + "porcelain"; Junk: "metal sign", "man cave", "reproduction" (never), "garage decor". Example: `Original Mobil Pegasus Porcelain Pump Plate 12" Single Sided 1950s Gas Station`.
+- **Where:** eBay BIN with offers for pump plates, small tin litho, street signs, neons under 3 ft; 4–6 ft porcelain and dealer signs to Morphy/Richmond; large signs and neons local pickup. Auction beats eBay only at the top.
+- **Price position:** at the sold median (Mobil Pegasus porcelain $125, p75 $200; Texaco porcelain $62; original 1930s–50s tin litho $200–800; 1990s beer neons $75–250), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo front square-on in daylight; then back, all four edges, every mounting hole, chips macro (layered shelf = real porcelain), maker mark/date along the edge, raking light for touch-up, tape for dimensions; neons lit.
+- **State:** material (porcelain/tin/plastic), single or double-sided, exact dimensions, maker mark/date, chips and their location by photo number, rust-through or added holes, touch-up, repro check stated.
+- **Pack / haul:** pump plates 5–8 lb, flat box with cardboard both sides ($20); over 24" freight or local; neons crated, local only; passenger-seat size for plates.
+- **Quote to a buyer:** "Original [Mobil Pegasus] porcelain, [12"], layered chips at the mounting holes only and the [maker's mark] on the edge — not the thin imported repro; clean originals bring [$125–200]."
 
 ## Buy rule
 Buy when: porcelain (not plastic/tin) pump plate or small sign ≤ $150 with clean gloss, or porcelain street sign ≤ $30. Pass when: plastic canopy signs, neons (freight/breakage), any Shell/Texaco over $150 without an authentication-grade photo. Signs bigger than a passenger seat (e.g. 4–6 ft) are excluded by the size rule. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways.

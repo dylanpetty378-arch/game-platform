@@ -1,5 +1,5 @@
 # Fraternal memorabilia (Shriners/AAONMS, Masonic, Knights Templar, Odd Fellows, Elks, Knights of Pythias)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.liveauctioneers.com, https://www.shrinersinternational.org · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.liveauctioneers.com, https://www.shrinersinternational.org · tells 2026-10-13
 Slug: fraternal-memorabilia · Aliases: Shriner mug, Shrine stein, Masonic mug, Knights Templar goblet, KT conclave mug, Shriners fez, Odd Fellows sword, Masonic apron, IOOF, Elks tooth
 Summary: post-1950 pins, fezzes, plates $5–40; 1900–1915 Shrine convention mugs/steins and KT conclave goblets $30–120; rare temples/cities, figural or lustre-decorated steins, early ceremonial regalia, KT swords $100–400; early folk-art regalia, painted aprons, rare 1890s convention pieces $300–2,000+ (general knowledge, verify)
 Buy rule (short): Pass on common Shrine/KT convention mugs above ~$15 unless it's a rare year/city or figural form; buy early painted Masonic aprons and folk-art pieces at ≤ 1/3 of resale.
@@ -51,7 +51,13 @@ Figural handles; scarce host-temple/city combinations; folk-art aprons.
 A mug ships in a double box for $14–18.
 
 ## Selling it (for the buyer-facing listing)
-Give the year, city, host temple and maker mark from the base, and photograph both sides.
+- **Title words:** order (Shriners/AAONMS, Knights Templar, Masonic), year, host temple and city, form (mug/stein/goblet/apron/sword), maker (Tirschenreuth/Rudolstadt). Junk: "secret society", "occult", "lodge stuff". `1904 Lulu Temple Shriners Mug Atlantic City Tirschenreuth Figural Handle`
+- **Where:** eBay BIN with offers (niche, national collectors); Masonic/fraternal auctions for painted aprons; FB local for 1950s pins and fezzes only.
+- **Price position:** common temple mugs at the sold median ($30–90), OBO, cut 15% at 45 days; figural/rare-temple and painted aprons (median $161) at p75, firm 3 weeks.
+- **Photos:** first: front face with temple name legible; then reverse side, handle (figural detail), base mark, rim and handle joins for hairlines, gilt wear; aprons flat with ties and brushwork close-up.
+- **State:** order, year, city, host temple, maker mark, dimensions, lustre/gilt condition, hairlines/chips by photo number; aprons: lambskin vs satin, painted vs printed, tears/fading.
+- **Pack / haul:** mug double-boxed, $14–18; aprons flat between boards; swords in a rigid tube.
+- **Quote to a buyer:** "[1904 Lulu Temple] convention mug by [Tirschenreuth] with the [fish] figural handle — plain temple mugs run $30–90; the figural and rare-city ones are the collector pieces."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$16 out − ~$16 in − price ≥ max($50, price). A common $40–60 mug never qualifies. Buy only rare-form/early regalia at ≤ ~30% of the median.

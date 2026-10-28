@@ -1,5 +1,5 @@
 # Ship engine-order telegraphs & nautical brass (Chadburn, Robinson, Bendix, Henschel, Kelvin & Hughes)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay/auction listings (agent knowledge Oct 2026)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay/auction listings (agent knowledge Oct 2026)
 Slug: ship-telegraphs-and-nautical-brass · Aliases: ships telegraph, engine order telegraph, EOT, Brelco telegraph, nautical brass, porthole, binnacle, sextant, ship's clock, maritime brass lamp
 Summary: Indian repro telegraphs/sextants/compasses $40–150 (repro telegraphs $80–200); real portholes, Perko lamps and WWII Navy clocks $150–500; genuine Chadburn/Robinson/Henschel telegraphs, Chelsea ship's bell clocks and boxed real sextants $500–2,000; named-vessel telegraphs and complete Kelvin & Hughes binnacles $2,000–6,000.
 Buy rule (short): Only with a maker plate visible (Chadburn, Robinson, Henschel, Bendix) and ≤ $200; pass on 12" printed-dial "vintage ships telegraphs" and any Indian repro.
@@ -56,7 +56,13 @@ A photo of the maker plate. The weight ("heavy" in the ad means real). Cracked g
 Repro: 10 lb, ~$25. A real pedestal unit needs freight ($150+), so genuine ones are pickup-only. Genuine pedestal telegraphs and binnacles exceed passenger-seat size and are excluded. Wall telegraphs, portholes, clocks, sextants and lamps fit.
 
 ## Selling it (for the buyer-facing listing)
-Title: "[Maker] Ship's Engine Order Telegraph [type] [period] Bronze/Brass". State the weight, height, maker plate wording, dial condition, and whether the mechanism works. Photograph the plate, the dial and the interior mechanism. For repro or decor pieces, state "decorative reproduction" plainly.
+- **Title words:** maker (Chadburn/Robinson/Bendix/Henschel), "ship's engine order telegraph", type (wall/pedestal), "bronze"/"brass", period, weight; for sextants/clocks the maker (C. Plath, Chelsea). Junk: "nautical decor", "pirate", "antique" on Indian repros. `Chadburn Liverpool Ship's Engine Order Telegraph Bronze Wall Type 1920s`
+- **Where:** eBay BIN with offers for wall units, sextants, clocks, portholes; maritime auctions (Eldred's) for genuine pedestal telegraphs and binnacles; local pickup (coastal buyers) for anything needing freight.
+- **Price position:** at the sold median for the tier ($500–2,000 genuine telegraph, $150–500 Navy clocks/Perko), accept −15%, OBO; repros $40–150 firm as "decorative reproduction"; cut 10% at 60 days, lift in spring/summer.
+- **Photos:** first: full unit front with dial; then maker plate close-up, dial, interior mechanism, screws (slotted), handles/pointer, back, scale on a bathroom scale for weight; video of the handle moving and bell/pointer action.
+- **State:** maker plate wording, type, height, weight, metal, dial condition and glass, mechanism works or not, missing parts, polished or patina, "decorative reproduction" plainly if so.
+- **Pack / haul:** repro 10 lb, ~$25; wall units, clocks, sextants, portholes double-boxed; genuine pedestal units freight $150+ — pickup only, exceed a passenger seat.
+- **Quote to a buyer:** "[Chadburn] cast-bronze telegraph with the cast maker plate and [chain] mechanism inside, [60] lb — the Indian repros weigh 10 lb and have paper dials; genuine units run $500–2,000."
 
 ## Buy rule
 Buy when: a maker plate is visible (Chadburn, Robinson, Henschel, Bendix), the weight and construction agree, and the price is ≤ $200 (rare). Pass when: a "vintage ships telegraph" 12" with a printed dial, or any Indian repro. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat: pedestal telegraphs and binnacles are bigger and excluded; wall units and small brass only.

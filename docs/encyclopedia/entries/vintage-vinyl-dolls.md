@@ -1,5 +1,5 @@
 # Vintage vinyl dolls (Horsman, Effanbee, Ideal, Madame Alexander, Vogue, Uneeda, Mattel, Kenner, Remco, Eegee, American Character, Arranbee)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("vintage vinyl dolls" median $12.01 n=49; "Horsman 1970 Peggy Pen-Pal doll" median $25 n=18, p25 $20 p75 $49.99, with desk+box $90.95 Aug 31 2026 and $109.99 Jun 23 2026); doll-maker knowledge (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("vintage vinyl dolls" median $12.01 n=49; "Horsman 1970 Peggy Pen-Pal doll" median $25 n=18, p25 $20 p75 $49.99, with desk+box $90.95 Aug 31 2026 and $109.99 Jun 23 2026); doll-maker knowledge (general knowledge, verify). No web search this run.
 Slug: vintage-vinyl-dolls · Aliases: 1960s doll, 1970s doll, baby doll, Horsman doll, Ideal doll, Effanbee doll, mechanical doll, talking doll, doll in box
 Summary: Loose common 1960s–70s vinyl dolls $8–30; boxed mechanical/novelty dolls (Peggy Pen-Pal, Kissy, Crissy) $40–120; Madame Alexander Cissy, Ideal Patti Playpal, American Character Tressy $60–300; NRFB rarities more.
 Buy rule (short): Only boxed, complete, working mechanical dolls or Patti Playpal/Cissy-type collector dolls at ≤ $20; loose play dolls are a pass.
@@ -47,7 +47,13 @@ Original box and accessories triple value; neck marks give exact identity.
 18" doll plus desk in large box: 6–9 lb, 20×14×10 box, $20–30.
 
 ## Selling it (for the buyer-facing listing)
-Neck mark photo, whether mechanism draws, all accessories (pens, papers, templates), box damage, smoke-free.
+- **Title words:** maker + doll name + year + size + "vinyl doll" + "complete with box/desk/accessories" + "works"; "neck marked". Junk: "old doll", "baby doll lot", "creepy", "rare" without a name. Example: `Vintage 1970 Horsman Peggy Pen Pal 18 Inch Doll with Writing Desk Original Box Works`.
+- **Where:** eBay BIN with offers (nostalgic buyers 55+; complete sets sell, loose dolls stack up; 30–90 days); nothing beats it; loose play-worn dolls in a FB local lot.
+- **Price position:** list at the sold median (Peggy Pen-Pal doll only ~$25, with desk and box $90–110, Patti Playpal/Cissy/Tressy/Crissy MIB $60–300, play-worn $8–30); accept −15%, floor −25%; OBO; cut 10% after 45 days.
+- **Photos:** 1) doll dressed, standing, with accessories; then neck mark close-up, face for marks/rubs, hair, limbs and joints, every accessory (pens, papers, templates), box all sides, mechanism; video of the mechanism drawing or the gimmick working.
+- **State:** neck mark text, maker and year, size, mechanism works or not, all accessories listed against the original set, box damage, hair and face condition, smoke-free, flaws by photo number.
+- **Pack / haul:** 18" doll plus desk 6–9 lb; doll wrapped, desk and accessories boxed separately inside, 20×14×10 single box with fill, $20–30.
+- **Quote to a buyer:** "[1970 Horsman Peggy Pen-Pal], neck mark in photo [2], complete with the desk, [pens and papers] and the box, and she draws in the video — loose dolls sell for $25; complete boxed sets have sold for [$X]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$25 ship to buyer − ~$20 ship to Dylan − price ≥ max($50, price). A $100 resale nets ~$42 at price $0, so even complete Peggy Pen-Pal sets fail shipped. Buy only collector dolls with resale ≥ $150 at ≤ $40.

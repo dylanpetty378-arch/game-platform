@@ -1,5 +1,5 @@
 # Shortwave / communications receivers (Radio Shack DX, Sony, Grundig, Hallicrafters, Drake)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge, eHam.net reviews/classifieds, QRZ swapmeet
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold knowledge, eHam.net reviews/classifieds, QRZ swapmeet
 Slug: shortwave-receivers · Aliases: shortwave radio, ham radio receiver, communications receiver, world band radio, SW receiver, Realistic DX-394, Sony ICF-2010, Grundig Satellit
 Summary: Generic multiband portables and untested S-38s $15–60; DX-394/DX-302/SW7600GR/YB400 $100–250; ICF-2010, Satellit 800, R-2000, FRG-7 $250–500; Drake R8B, AOR AR7030, Icom R75/R8500, Collins 51S-1 $500–1,500.
 Buy rule (short): Fully working DX-394 under $70, ICF-2010 under $120, Satellit 800 under $150; pass on "works some", untested or missing knobs.
@@ -62,7 +62,13 @@ Model desirability (DX-394 vs the cheaper DX-375 portable). "Works some" means a
 DX-394 ~8 lb, $20–25. The Sony 2010 is a portable; check the battery bay for leakage damage. eBay 13%. Remove batteries before shipping, and double-box tube sets.
 
 ## Selling it (for the buyer-facing listing)
-Title: "[Brand] [Model] Shortwave Communications Receiver SSB Tested Working". State the bands and modes tested, display condition, included accessories (antenna, power supply, manual), and any known issues. Photograph the front panel lit, the back and the serial, and the battery bay on portables. A short video tuning a station helps.
+- **Title words:** brand + model + "shortwave communications receiver" + "SSB" + "tested working" + "with power supply/manual". Junk: "ham radio", "vintage radio", "powers on". Example: `Radio Shack DX-394 Shortwave Communications Receiver SSB Tested Working Manual`.
+- **Where:** eBay BIN with offers (SWL hobbyists; known models sell within weeks; winter stronger); eHam/QRZ classifieds for ham-grade Drake/Icom/AOR sets at the same price with no fee.
+- **Price position:** list at the sold median (DX-394 $150–230, ICF-2010 $280–380, Satellit 800 $300–450, Drake R8B/R75 $500+); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) front panel lit, display readable; then back panel with jacks, serial label, battery bay on portables (no leakage), included antenna/power supply/manual, any scuffs; short video tuning in a station on AM and SSB.
+- **State:** model, bands and modes tested, display condition (all segments), included accessories, battery bay clean, known issues honestly ("works some" means a fault), cosmetic wear by photo number.
+- **Pack / haul:** DX-394 ~8 lb, remove batteries, knobs padded, single box with 2" foam, 10-lb class, $20–25; tube sets double-boxed.
+- **Quote to a buyer:** "A [DX-394 / ICF-2010], the tabletop/cult model, not the cheaper [DX-375] portable — tested on every band and SSB in the video; working examples sell for [$X] and the display is fully lit."
 
 ## Buy rule
 Buy when: a fully working DX-394 is under $70, a working ICF-2010 is under $120, or a Satellit 800 is under $150. Pass when: "works some", untested, or missing knobs. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

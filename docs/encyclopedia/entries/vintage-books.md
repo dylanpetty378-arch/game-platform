@@ -1,5 +1,5 @@
 # Vintage books (first editions, illustrated children's books, cookbooks, counterculture paperbacks; publishers incl. Shambhala, World Publishing Rainbow Classics, Grosset & Dunlap, Golden Books, Reilly & Lee)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references to consult: AbeBooks sold/asking https://www.abebooks.com ; BookFinder https://www.bookfinder.com ; ABAA first-edition identification guides https://www.abaa.org ; eBay sold search (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references to consult: AbeBooks sold/asking https://www.abebooks.com ; BookFinder https://www.bookfinder.com ; ABAA first-edition identification guides https://www.abaa.org ; eBay sold search (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: vintage-books · Aliases: old book, antique book, vintage book, first edition, 1st edition, rare book, collectors book, children's book, cookbook, classic, Rainbow Classic, Junior Library, illustrated edition, book lot
 Summary: Common reprints, book-club editions, worn children's classics $3–20; desirable illustrated or counterculture first printings, early Little Golden Books, series books with jackets $20–100; true first editions of key titles, signed copies, early Oz/Big Little Books, rare cookbooks $100–5,000+.
 Buy rule (short): Buy only with a copyright-page photo proving a first printing (or a signature/ inscription) of a title that sells ≥ $100; pass on reprints, book-club editions and anything priced for its age alone.
@@ -61,7 +61,13 @@ Huge, slow market for most books; values are compressed by AbeBooks supply. Spec
 Media Mail $4–8 for 1–2 lb; padded mailer or box with board stiffeners; wrap jackets in Mylar. Low damage risk if boxed.
 
 ## Selling it (for the buyer-facing listing)
-Title, author, publisher, year, edition/printing with copyright-page photo, jacket state (price-clipped or not), size, and an honest condition list (hinges, foxing, writing). Use standard grades (Fine, Near Fine, Very Good, Good).
+- **Title words:** title, author, publisher, year, "first edition"/"first printing" only with the copyright-page proof, "dust jacket", illustrator, "signed"/"inscribed" if so, grade. Junk: "antique book", "from 1946!", "rare" on reprints, "1st" on book-club editions. `Tassajara Bread Book Shambhala 1970 First Printing Edward Espe Brown VG`
+- **Where:** eBay BIN with offers for illustrated/collectible; AbeBooks for true firsts (price against the lowest comparable copy); common reprints lotted local or donated.
+- **Price position:** firsts and jacketed series at the sold median ($20–100), accept −15%; key firsts at the sold median ($100–500), firm 3 weeks; reprints at $7 median (Tassajara later printings) — not worth listing alone. Cut 10% at 45 days.
+- **Photos:** first: front cover/jacket straight-on; then copyright page with the printing statement, title page, spine, jacket flap with price (clipped or not), hinges, each flaw (foxing, writing, tears), signature page.
+- **State:** title, author, publisher, year, edition/printing per copyright page, jacket state and price-clipping, size, grade (Fine/NF/VG/G) with hinges/foxing/writing/library marks by photo number, facsimile jackets disclosed.
+- **Pack / haul:** Media Mail $4–8 for 1–2 lb; board stiffeners, jacket in Mylar.
+- **Quote to a buyer:** "[Shambhala 1970] first printing per the copyright page, [no later-printing line], jacket unclipped — the 1970s reprints go for $7; the true first is the $40–120 copy."
 
 ## Buy rule
 Profit ≥ max($50, price) after 13% fees and ~$5 shipping each way means the book must sell for ~$75+ at a $10 buy. Buy only with a copyright-page photo proving the valuable printing (or signed), condition at least Very Good, at ≤ 30% of sold. Pass on "old" with no title value. Signed copies of famous authors need professional authentication — pass unless dirt cheap and the inscription is to a traceable person.

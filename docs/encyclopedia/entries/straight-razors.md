@@ -1,5 +1,5 @@
 # Straight razors (Solingen German: Henckels, Böker, Dovo, Puma, Wacker, Friodur; Sheffield English: Wade & Butcher, Joseph Rodgers, George Wostenholm I*XL, Joseph Elliot; American: Case, Robeson, Torrey, Geneva, Shumate, W.R. Case; retailer-branded German razors)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Straight Razor Place wiki (maker histories, "Razor makers" lists) https://straightrazorplace.com/srpwiki/ ; Badger & Blade forums https://www.badgerandblade.com/ ; "Standard Guide to Razors" by Ritchie & Stewart) — prices are estimates (general knowledge, verify) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (references: Straight Razor Place wiki (maker histories, "Razor makers" lists) https://straightrazorplace.com/srpwiki/ ; Badger & Blade forums https://www.badgerandblade.com/ ; "Standard Guide to Razors" by Ritchie & Stewart) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: straight-razors · Aliases: straight edge razor, cut-throat razor, barber razor, open razor, shaving razor, antique razor, razor lot, Solingen razor, Sheffield razor, razor in box
 Summary: Common worn/rusty razors $5–20 each; decent users (shave-ready-able, clean blades) German/American $20–50; desirable Sheffield wedges and premium German (Wacker, Friodur, Puma, Böker king cutter, Henckels 1/1) $50–150; NOS boxed razors $40–100; rare (Wade & Butcher "Celebrated Hollow Ground" big wedges, Frederick Reynolds, Dubl Duck, early Sheffield, ornate celluloid/ivory scales) $100–500+.
 Buy rule (short): Buy razor lots ≤ $10 per razor when photos show clean blades (no pitting at the edge, no chips/cracks) and named makers; boxed NOS German razors are the fastest sellers.
@@ -66,7 +66,13 @@ NOS boxed razors, big Sheffield wedges, 7-day sets and Dubl Duck/Wade & Butcher 
 Pocket-size; a lot of 9 ships under 2 lb in a padded box, $8–12. Blades must be closed and taped/sleeved.
 
 ## Selling it (for the buyer-facing listing)
-Maker, country, width, grind, scale material, edge condition (no chips, honing wear), rust/pitting, box present, NOS or used, shave-ready or not.
+- **Title words:** maker + model/etch ("Wade & Butcher Celebrated Hollow Ground", "Böker King Cutter", "Dubl Duck Goldedge") + width ("6/8") + grind ("near wedge"/"full hollow") + "Sheffield"/"Solingen" + "NOS boxed"; Junk: "old razor", "barber", "Damascus" (Pakistani), "lot" unless it is. Example: `Wade & Butcher Celebrated Hollow Ground 7/8 Near Wedge Straight Razor Sheffield`.
+- **Where:** eBay BIN with offers, one listing per named razor (shavers and restorers buy daily); rusty no-names as a lot of 5–10 (sells in days). No place beats eBay.
+- **Price position:** at the sold median (clean named German/Sheffield $25–60; NOS boxed/wedges $50–150; lots median $40–61), accept −15%, floor p25; OBO; cut 10% after 2 weeks.
+- **Photos:** first photo blade open at 45° on dark cloth; then tang stamp both sides, etching, edge straight-on (chips), spine (hone wear), scales and pins, box, any rust/pitting macro, ruler for width.
+- **State:** maker, country, width, grind, scale material, edge (no chips, honing wear), rust/pitting by photo number, box present, NOS or used, shave-ready or not (honing is a repair — say so).
+- **Pack / haul:** pocket-size; blade closed, taped and sleeved, padded box; a lot of 9 under 2 lb; $8–12.
+- **Quote to a buyer:** "[Wade & Butcher] [7/8] near wedge, Sheffield-stamped tang, [original horn] scales, no chips — the big Sheffield blades restorers and shavers want; a new Dovo is [$150–400] and doesn't have this steel."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$10 ship out − ~$10 ship in − price ≥ max($50, price). For lots: ≤ $10 per razor when blades look clean and named. Sell individually (best) or as lots. Fits a passenger seat. No authentication. Avoid ivory scales (legal issues).

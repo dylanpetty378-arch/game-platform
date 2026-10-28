@@ -1,5 +1,5 @@
 # Petroliana – motor oil & grease cans, gas-station signs (Archer, Mohawk, Sinclair, Polly, Pennzoil, Shell)
-Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: eBay 2026-10 listings (Archer Lubricants quart SAE 30, Archer Indian-graphic oil can w/ paper label Omaha NE, Archer oil sample salesman kit – asks $40–200; Pennzoil 10 lb grease can), sweep listings 2026-10 (Archer 25 lb grease can w/ Indian $145 Fargo; 5 ft plastic Shell sign $60 Pacifica; Coke signs $100; metal reproduction advertising $150; Mobil paperweight $10; Joe Camel clock $10; 1926 Nokorode soldering paste tin $10); general petroliana auction knowledge (Morphy/Richmond Auctions).
+Updated: 2026-10-28 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: eBay 2026-10 listings (Archer Lubricants quart SAE 30, Archer Indian-graphic oil can w/ paper label Omaha NE, Archer oil sample salesman kit – asks $40–200; Pennzoil 10 lb grease can), sweep listings 2026-10 (Archer 25 lb grease can w/ Indian $145 Fargo; 5 ft plastic Shell sign $60 Pacifica; Coke signs $100; metal reproduction advertising $150; Mobil paperweight $10; Joe Camel clock $10; 1926 Nokorode soldering paste tin $10); general petroliana auction knowledge (Morphy/Richmond Auctions).
 Slug: advertising-oil-cans · Aliases: petroliana, oil can, motor oil tin, grease can, grease pail, gas station sign, pump plate, gas globe
 Summary: Plain-text cans/repro signs/plastic signs $5–60; graphic quart cans $50–150; Archer/Mohawk/Polly pails, pump plates $150–600; big porcelain signs and one-piece globes $800–20,000+.
 Buy rule (short): Graphic quart/5-lb cans < $30, Archer/Mohawk/Polly pails < $60, porcelain sign < $150 with enamel-to-steel chips; never repro or plastic.
@@ -63,7 +63,13 @@ Strong collector base (petroliana, "man cave" decorators); regular sales on eBay
 Quart cans 1 lb ($10); 25 lb pails 5–8 lb empty, oversize ($25–40 each way); signs over 24 in are freight. Sell graphic cans on eBay (13%); big signs/globes through petroliana auctions (Morphy, Richmond).
 
 ## Selling it (for the buyer-facing listing)
-State brand, size (qt/gal/lb), city of the oil company if printed, whether full/empty, graphic condition grade, rust/dents. Photograph all sides, the seams, base, and any lid. Keywords: brand + "oil can"/"grease can" + size + graphic ("Indian") + "petroliana" + "gas station".
+- **Title words:** brand + "motor oil can"/"grease pail" + size (qt/gal/5 lb/25 lb) + graphic ("Indian", "dinosaur", "parrot") + city + "petroliana" + "gas station"; Junk: "old can", "metal sign" (say porcelain/tin), "reproduction" (never sell repro). Example: `Archer Lubricants 25 lb Grease Pail Indian Graphic Omaha Petroliana Gas Station Can`.
+- **Where:** eBay BIN with offers for graphic cans and pump plates (petroliana and man-cave buyers); big porcelain signs and globes to Morphy/Richmond; plain-text cans local or lot. eBay for cans; auction beats it only at the top.
+- **Price position:** at the sold median (graphic quart cans $50–150; Archer/Mohawk/Polly pails and pump plates $150–600, pump plate median $67; plain-text $15–60), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the main graphic panel square-on; then all sides, seams, top and lid, base, inside if open, rust/dents at an angle, any touch-up under raking light, ruler for size.
+- **State:** brand, size, city of the oil company if printed, full/empty, graphic condition grade, rust/dents/fading by photo number, touch-up or clear-coat stated, repro check.
+- **Pack / haul:** quart cans 1 lb, small box ($10); 25 lb pails 5–8 lb empty, oversize, lid taped and contents removed ($25–40); signs over 24" are freight/local.
+- **Quote to a buyer:** "[Archer] [25 lb] pail with the Indian graphic, [Omaha] on the label — the image brand collectors chase; graphic [85%], no touch-up, empty and clean; these sell [$150–300] against [$15–60] for Pennzoil."
 
 ## Buy rule
 Buy when: graphic quart/5-lb cans under $30; Archer/Mohawk/Polly pails under $60; porcelain sign under $150 if the photo shows enamel chips to steel (not paint). Pass when: plain-text cans over $15, any reproduction, plastic signs, pails over $100 unless mint. Signs or globes bigger than a passenger seat are excluded by the size rule. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways.

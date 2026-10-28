@@ -1,5 +1,5 @@
 # Mountaineering ice axes, vintage wooden-shaft (Stubai, Charlet/Charlet-Moser, Simond, Grivel, Bhend, Hupfauf, Aschenbrenner, Chouinard)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.ebay.com/sh/research (Terapeak), https://www.worthpoint.com, https://www.etsy.com
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); verify on https://www.ebay.com/sh/research (Terapeak), https://www.worthpoint.com, https://www.etsy.com
 Slug: mountaineering-ice-axes · Aliases: piolet, Eispickel, vintage ice axe, wooden ice pick, alpenstock, hiking ice axe, climbing axe, Stocknägel walking stick
 Summary: souvenir/decor walking axes and short tourist axes with medallions $30–80; vintage wood-shaft Stubai/Grivel/Hupfauf axes $60–150; Charlet, Simond, Bhend, Aschenbrenner, Chouinard 1960s–70s $120–350; historic expedition/named-maker pre-1940 axes $300–1,000+ (general knowledge, verify)
 Buy rule (short): Buy marked Charlet/Simond/Bhend/Chouinard/early Aschenbrenner wood axes at ≤ 1/3 of resale; pass on souvenir/badged tourist axes above ~$30. Long axes (90 cm+) still fit a passenger seat diagonally.
@@ -43,7 +43,13 @@ The maker stamp on the head (often rusty and hidden); Chouinard/Charlet axes lis
 About 80–90 cm long: a long box, $25–40. The spike and pick need guards.
 
 ## Selling it (for the buyer-facing listing)
-Photograph the maker stamp, length, shaft condition and any badges.
+- **Title words:** maker ("Stubai", "Charlet-Moser", "Simond", "Grivel", "Chouinard") + "vintage ice axe" + "wooden shaft"/"wood handle" + length + "piolet" + decade; Junk: "old pick", "climbing tool", "cabin decor". Example: `Vintage Charlet Moser Ice Axe Wooden Shaft 85cm Piolet Chamonix France 1960s`.
+- **Where:** eBay BIN with offers (~100 a month, 20–60 days); Etsy for decor buyers of badged souvenir axes. Neither clearly beats the other.
+- **Price position:** at the sold median (piolet $150, p75 $200; Charlet wooden $189; Stubai wood shaft $145), accept −15%, floor p25; OBO; cut 10% after 6 weeks.
+- **Photos:** first photo full length on a plain background; then maker stamp on the head (cleaned of rust enough to read), pick and adze, spike, shaft grain and any cracks, head-to-shaft joint, badges/medallions, tape for length.
+- **State:** maker from the head stamp, length in cm, shaft condition (rot, cracks, tight head), rust level, spike present, badges, repro check, flaws by photo number.
+- **Pack / haul:** 80–90 cm — long box, guard the pick and spike with cardboard and tape, immobilize; 3 lb, $25–40. Fits a passenger seat.
+- **Quote to a buyer:** "[Charlet-Moser] stamped on the head — [1960s] Chamonix-made, [85] cm ash shaft with the head tight; the named French and Swiss axes bring [$120–350], the unmarked tourist ones don't."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$30 out − ~$30 in − price ≥ max($50, price). Only marked premium makers at ≤ ~30% of the median. Souvenir axes never qualify above ~$20.

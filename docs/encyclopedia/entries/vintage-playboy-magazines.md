@@ -1,5 +1,5 @@
 # Vintage Playboy magazines (Playboy Enterprises, 1953–2020)
-Updated: 2026-10-13 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Playboy ; eBay sold searches by issue (not run this pass); no comps in db/comps.jsonl
+Updated: 2026-10-28 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Playboy ; eBay sold searches by issue (not run this pass); no comps in db/comps.jsonl
 Slug: vintage-playboy-magazines · Aliases: old Playboys, vintage men's magazines, Playboy lot, 70s Playboy, Playboy collection
 Summary: 1970s–90s single issues $5–15; notable issues (celebrity covers/pictorials: Madonna Sep 1985, Marilyn-related, Sharon Stone, Farrah, Bo Derek, Vanna White) $20–60; 1950s issues $30–150; Dec 1953 #1 $2,000–10,000+ (needs grading)
 Buy rule (short): Only buy large 1950s–early-60s lots or bulk 70s lots at ≤ $2/issue; single 1970s issues are pass.
@@ -46,7 +46,13 @@ Notable non-cover content (interviews/fiction) adds value; 1950s issues mixed in
 Media Mail eligible? No — magazines with advertising are not Media Mail eligible; use Ground Advantage. ~1 lb each; lots of 20 = ~15–20 lb, $20–35.
 
 ## Selling it (for the buyer-facing listing)
-List issue, cover model, notable contents, centerfold present, labels, condition. Adult category settings required.
+- **Title words:** "Playboy", month and year, cover model/celebrity pictorial (Madonna Sep 1985), notable interview, "centerfold intact", "no label", "lot of N" for bulk. Junk: "rare", "adult" in the title, "vintage men's magazine" alone. `Playboy September 1985 Madonna Centerfold Intact No Label VG`
+- **Where:** eBay adult-category BIN with offers (singles for notable issues, lots of 10 for common 1970s–90s); 1950s issues singly; nothing on FB.
+- **Price position:** common issues at the sold median ($12), lotted 10 for $40–80, OBO; notable issues at $15–60 median, accept −15%; 1950s at $30–150 by condition, firm 3 weeks; cut 10% at 45 days.
+- **Photos:** first: cover straight-on, flat, compliant image; then spine, centerfold folded closed showing it is attached, address label area, table of contents/interview page, any cut-outs or water damage.
+- **State:** issue month/year, cover model, notable contents (interview, pictorial), centerfold present and attached, label or none, clipped coupons, spine and cover condition, smell; adult category settings set.
+- **Pack / haul:** bag and board, rigid mailer, Ground Advantage (not Media Mail) ~1 lb, $6; lots of 20 at 15–20 lb, $20–35.
+- **Quote to a buyer:** "[September 1985], the [Madonna] issue, centerfold attached and no mailing label — ordinary 1970s–80s issues are $12; the celebrity issues with the centerfold intact are the $20–60 ones."
 
 ## Buy rule
 Profit = median × 0.87 − shipping both ways − price ≥ max($50, price). Single 70s issues never qualify. A 1970s lot only works at ≤ $1–2/issue for 30+ issues sold as a lot ($100–150). 1950s lots worth asking about. Fits a car seat.

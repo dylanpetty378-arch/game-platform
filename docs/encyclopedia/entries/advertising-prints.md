@@ -1,5 +1,5 @@
 # Advertising premium prints (Northern Paper Mills / Northern Tissue, Maxfield Parrish Edison-Mazda, Coca-Cola, Brown & Bigelow, Gerber, Cream of Wheat, Fisk Tire etc.)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.liveauctioneers.com, https://en.wikipedia.org/wiki/Frances_Hook
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.liveauctioneers.com, https://en.wikipedia.org/wiki/Frances_Hook
 Slug: advertising-prints · Aliases: Northern Tissue prints, Northern baby prints, Frances Hook prints, mail-in premium prints, calendar prints, advertising lithograph, Charmin prints, Maxfield Parrish Mazda print
 Summary: 1950s–60s mail-in premium prints (Northern, Gerber, cereal) $5–35 per pair; framed vintage calendar prints $20–80; Cream of Wheat / Fisk / early chromolithographs $30–150; Maxfield Parrish Edison-Mazda calendars and original-size advertising lithos $200–2,000+ (general knowledge, verify)
 Buy rule (short): Only buy complete, uncut early (pre-1935) advertising calendars and Parrish/Rockwell/Elvgren originals; pass on 1950s–60s mail-in premium prints.
@@ -49,7 +49,13 @@ Full-size Parrish calendars sold as "old print"; complete calendar pads add 2–
 Flat, between rigid boards, in a sleeve: $6–12. Framed pieces with glass are risky: remove the glass or double box.
 
 ## Selling it (for the buyer-facing listing)
-Give dimensions, artist, printer credit and condition (foxing, toning, tears), and say whether the margins are intact. Show a close-up of the dot pattern to prove it is an original litho.
+- **Title words:** brand/series (Edison-Mazda, Cream of Wheat, Northern Tissue), artist (Maxfield Parrish, Frances Hook, Elvgren), "calendar"/"print"/"lithograph", year, title of the image, size, "complete pad". Junk: "wall art", "retro poster", "antique" on 1950s premiums. `1927 Maxfield Parrish Edison Mazda Calendar Complete Pad Reveries 18x38`
+- **Where:** eBay BIN with offers for Parrish/Rockwell/Elvgren (median $200 for Edison-Mazda); Etsy for framed decor-grade prints; FB local for Northern/Gerber pairs.
+- **Price position:** premium pairs at the sold median ($30 asking, $5–35 sold), OBO; Parrish full calendars at p75 ($400) with intact pad and margins, firm 3 weeks, then −10%.
+- **Photos:** first: full image straight-on, no glare; then loupe close-up of the dot pattern, printer credit margin, calendar pad, each corner/margin, foxing/stains, back of the sheet, ruler.
+- **State:** artist, series, year, printer credit, sheet and image size, margins intact or trimmed, pad complete, foxing/toning/tears/mat burn by photo number, framed or loose.
+- **Pack / haul:** flat between rigid boards in a sleeve, $6–12; framed with glass — remove the glass or double box.
+- **Quote to a buyer:** "Original [1927] [Edison-Mazda] lithograph with the [complete pad] and untrimmed margins — a rosette dot pattern, not a giclée; the pad alone puts it 2–5× over a cut print."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$8 out − ~$8 in − price ≥ max($50, price). Premium mail-in prints never qualify. Buy only pre-1935 advertising calendars or famous-illustrator originals, with confirmed litho dots and intact margins, at ≤ ~35% of the median.

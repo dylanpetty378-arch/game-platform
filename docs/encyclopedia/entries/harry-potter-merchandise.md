@@ -1,5 +1,5 @@
 # Harry Potter merchandise (Noble Collection, Hallmark Keepsake, Funko, LEGO, Mattel 2001, Wizarding World park exclusives, Silver Buffalo, Bioworld, Loungefly)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Noble Collection catalogue https://www.noblecollection.com (not loaded) ; Hallmark Keepsake ornament archive (not loaded) ; Funko Pop price guide hobbydb https://www.hobbydb.com (not loaded) ; BrickLink LEGO prices https://www.bricklink.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references: Noble Collection catalogue https://www.noblecollection.com (not loaded) ; Hallmark Keepsake ornament archive (not loaded) ; Funko Pop price guide hobbydb https://www.hobbydb.com (not loaded) ; BrickLink LEGO prices https://www.bricklink.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: harry-potter-merchandise · Aliases: Harry Potter stuff, HP lot, Hogwarts, Wizarding World, Platform 9 3/4, Time Turner, Golden Snitch, Deathly Hallows, Chocolate Frog, Marauders Map, Hallmark Harry Potter ornament, Noble Collection wand, Universal wand, Funko Harry Potter, Pez Harry Potter
 Summary: Mugs, keychains, luggage tags, unboxed ornaments, PEZ, generic replicas $3–15 each, mixed lots $30–80; boxed Hallmark ornaments, Noble Collection replicas, interactive park wands, common Funko $15–60; rare Funko exclusives, retired sealed LEGO (Hogwarts Castle 71043, Diagon Alley 75978), Noble limited editions $80–500+.
 Buy rule (short): Buy only sealed retired LEGO, Noble Collection boxed limited items, or rare Funko exclusives at ≤ 30% of sold; pass on mixed mug/keychain lots unless ≤ $20 for 20+ pieces and light.
@@ -53,7 +53,13 @@ Very liquid, enormous supply, mostly low value. Lots sell slowly; fans prefer to
 Mugs heavy and fragile ($12–18 each); small items $5–8; mixed lots with mugs 8–15 lb, $25–35.
 
 ## Selling it (for the buyer-facing listing)
-Brand (Noble, Hallmark, Funko number), year, box condition, licence line photo, all included pieces. Sell high-value pieces singly, the rest as a lot.
+- **Title words:** brand + item + set/number ("Noble Collection Hermione wand", "Hallmark Keepsake 2001", "Funko Pop #XX", "LEGO 71043 sealed") + "Harry Potter" + "boxed"/"NIB"; Junk: "HP stuff", "lot", "wizard", "magic". Example: `LEGO Harry Potter Hogwarts Castle 71043 New Sealed Retired Set`.
+- **Where:** eBay or Mercari BIN with offers for singles; sell high-value pieces singly and the mugs/keychains as one local or eBay lot (fans buy pieces, not lots). Nov–Dec bump.
+- **Price position:** at the sold median (71043 sealed $399; 75978 sealed $550; Hallmark ornaments ~$21; Noble/park wands $15–60), accept −10% on LEGO/Funko (price-guide markets), −15% elsewhere, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo box front square-on; then licence line/logo, Funko number sticker, box corners and seals, each included piece, chips on mugs, wand box and card, UPC.
+- **State:** brand, item name, year, Funko/LEGO number, box condition and seals, all included pieces listed, licence line shown, knockoff check stated (font, paint), flaws by photo number.
+- **Pack / haul:** small items under 1 lb ($5–8); mugs double-boxed ($12–18 each); mixed lots with mugs 8–15 lb ($25–35); sealed LEGO in an oversize box with 2" fill.
+- **Quote to a buyer:** "[Noble Collection] [Hermione wand] in the original box with the licence line — the official replica, not the $8 copy; retail was [$X] and the boxed ones hold [$15–60]."
 
 ## Buy rule
 Lots with mugs ship heavy; profit rule fails unless the lot hides LEGO, Noble or Funko exclusives. Buy only sealed retired LEGO, Noble boxed limited editions, or rare Funko at ≤ 30% of sold. Pass on keychains/mugs/ornament lots unless ≤ $20 and the lot includes ≥ $150 of boxed items.

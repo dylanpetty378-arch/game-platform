@@ -1,5 +1,5 @@
 # Transformers Generation 1 (Hasbro / Takara, 1984–1990)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: TFW2005 toy guides https://www.tfw2005.com (not loaded) ; Seibertron.com toy galleries https://www.seibertron.com (not loaded) ; TFArchive (not loaded); eBay sold (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references: TFW2005 toy guides https://www.tfw2005.com (not loaded) ; Seibertron.com toy galleries https://www.seibertron.com (not loaded) ; TFArchive (not loaded); eBay sold (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: transformers-g1 · Aliases: G1 Transformers, vintage Transformers, 80s Transformers, Hasbro Transformers, Autobot, Decepticon, Seacons, Snaptrap, Pretenders, Doubleheader, Headmasters, Targetmasters, Dinobots, Constructicons, Micromasters, Transformers lot
 Summary: Loose incomplete common figures and Micromasters $5–25; loose complete mid-size figures (Seacons, Pretenders, Headmasters) $30–120; large complete loose (Optimus Prime, Jetfire, Soundwave, Megatron, Dinobots) $80–300; boxed/MISB and giants (Fortress Maximus, Metroplex, Omega Supreme, Scorponok) $300–3,000+.
 Buy rule (short): Buy loose figures only when complete or near-complete with weapons, unbroken, and ≤ 30% of sold; lots of 1984–86 figures with weapons at ≤ $10 per figure; check for reissue copyright dates.
@@ -57,7 +57,13 @@ Big, liquid market; nostalgia peak buyers (now 40–50 years old). Loose complet
 Light. Loose figures 0.5–1.5 lb $8–12; small box with bubble wrap; separate weapons in a zip bag.
 
 ## Selling it (for the buyer-facing listing)
-Name, year, faction, sub-line, list of included accessories vs complete list, stickers condition, joints tight/loose, any breaks/stress marks, any repro parts. Photos in both modes.
+- **Title words:** "Transformers G1" + character + year + "Hasbro" + sub-line (Pretender, Headmaster, Seacon) + "complete"/"100% complete" + "vintage". Junk: "robot toy", "Transformer" singular, "reissue" unless it is. Example: `Vintage 1988 Hasbro Transformers G1 Pretender Doubleheader 100% Complete`.
+- **Where:** eBay BIN with offers (big liquid market; loose complete sells in days); TFW2005 forum for parts and partner figures; boxed/MISB giants as eBay auctions with a reserve.
+- **Price position:** list at the sold median (Doubleheader ~$35, Snaptrap ~$14, loose complete mid-size $30–120, large complete $80–300); accept −10%, floor −20%; OBO; cut 10% after 21 days.
+- **Photos:** 1) robot mode front, plain background; then alt mode, every accessory laid out and labelled, sticker sheet close-ups, joints and stress marks, copyright stamp (year and country), any repro parts.
+- **State:** name, year, faction, sub-line, included accessories against the complete list (missing pieces named), sticker condition, joints tight or loose, breaks/stress marks by photo number, repro parts disclosed, Takara/European variant if so.
+- **Pack / haul:** 0.5–1.5 lb; weapons in a zip bag, figure bubble-wrapped in a small box, under-2-lb class, $8–12.
+- **Quote to a buyer:** "[1988 Doubleheader], all [N] accessories including the [Targetmaster gun / Headmaster head] that is usually missing, original 1988 copyright stamp in photo [6] — complete examples sell for [$X] and the 2010s reissues are the $20 ones."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$10 − ~$10 − price ≥ max($50, price). A $50 figure must sell for ~$140. So: buy only complete, unbroken loose figures whose sold median is ≥ 3× price, or boxed examples. Check copyright stamps (reissues sell for less). All fit in a seat; no electronics (except some Powermasters/lights — test).

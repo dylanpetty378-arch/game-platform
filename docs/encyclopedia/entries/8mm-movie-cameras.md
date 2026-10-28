@@ -1,5 +1,5 @@
 # 8mm movie cameras (Kodak / Cine-Kodak, Bell & Howell, Keystone, Revere, Bolex, Canon, Nizo, Beaulieu, Elmo, Nikon)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl (queries "8mm movie cameras" median $15.25 n=50; "8mm film cameras" median $16.49 n=44 incl. Canon 310XL $554.99 Sep 2026 and Canon 814XL Electronic $551.99 Apr 2026; "Kodak Cine-Kodak Magazine 8 camera" median $17 n=50, p25 $10 p75 $27); Kodak camera history (general knowledge, verify: https://www.kodak.com/en/company/page/history); Super 8 camera reference sites such as https://www.super8wiki.com (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl (queries "8mm movie cameras" median $15.25 n=50; "8mm film cameras" median $16.49 n=44 incl. Canon 310XL $554.99 Sep 2026 and Canon 814XL Electronic $551.99 Apr 2026; "Kodak Cine-Kodak Magazine 8 camera" median $17 n=50, p25 $10 p75 $27); Kodak camera history (general knowledge, verify: https://www.kodak.com/en/company/page/history); Super 8 camera reference sites such as https://www.super8wiki.com (general knowledge, verify). No web search this run.
 Slug: 8mm-movie-cameras · Aliases: movie camera, film cam, cine camera, home movie camera, Super 8 camera, Regular 8, Double 8, Brownie movie camera, Kodak Reliant, Bell & Howell 8mm, old video camera
 Summary: Pre-1965 wind-up Regular-8 (Kodak Brownie/Reliant/Magazine 8, Bell & Howell, Keystone, Revere) $8–30; common 1970s Super 8 point-and-shoot $15–50; good-brand Super 8 (Canon 310XL/514XL, Nizo, Bolex, Nikon R8/R10, Beaulieu) tested $150–600+; film reels, cans and projector junk $3–15.
 Buy rule (short): Pass on every wind-up Regular-8 and generic Super 8; only a recognisable pro Super 8 body (Canon 814/1014 XL-S, Nizo S/Professional, Beaulieu 4008/6008, Nikon R10, Leicina) at ≤ $60 and only if the seller shows it running, since untested electronics are off-limits.
@@ -63,7 +63,13 @@ eBay is flooded with Kodak/Bell & Howell wind-ups that sell for $10–25 or don'
 Shoebox size, 1–4 lb; $10–15 to ship padded. Remove batteries. Pro cameras need lens caps and double boxing.
 
 ## Selling it (for the buyer-facing listing)
-State format (Regular 8 vs Super 8), lens and focal range, whether it runs (wind-up runs / motor runs on batteries / meter works), lens clarity with a flashlight photo, and that it has not been tested with film unless it has.
+- **Title words:** maker + model + format ("Super 8"/"Regular 8") + lens ("f/1.4 zoom") + "tested"/"runs"; Junk: "antique movie camera", "camcorder", "film camera lot", "untested" on pro bodies. Example: `Canon 310XL Super 8 Movie Camera Tested Runs Meter Works Clean Lens`.
+- **Where:** eBay BIN with offers for tested Canon/Nizo/Bolex/Beaulieu/Nikon (filmmakers, days to sell); Kodak/Bell & Howell wind-ups only in a lot or local ($10–25). No place beats eBay.
+- **Price position:** at the sold median (Canon 310XL/814 ~$550 tested; Nikon R10 $550; Beaulieu 4008 $165 median, p75 $399; wind-ups $15–17), accept −10% on pro, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the camera side-on with the lens; then name plate/model badge, lens front with a flashlight behind (haze/fungus), battery compartment (corrosion), meter needle moving, cartridge door, eyecup, case; video of the motor running.
+- **State:** format, lens and focal range, runs (wind-up runs / motor runs on batteries / meter works), lens clarity, battery contacts, missing door/eyecup, not film-tested unless it was, flaws by photo number.
+- **Pack / haul:** shoebox, 1–4 lb; remove batteries, lens cap on, pro cameras double-boxed; $10–15.
+- **Quote to a buyer:** "Canon [310XL] — the low-light XL Super 8 indie shooters buy again — runs on batteries with a working meter and clean glass under a flashlight; tested ones sell [$550], the untested 'as-is' ones are parts."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$12 to buyer − ~$12 to Dylan − price; pass unless ≥ max($50, price).

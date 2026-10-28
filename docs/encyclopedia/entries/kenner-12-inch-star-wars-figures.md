@@ -1,5 +1,5 @@
 # Kenner 12-inch Star Wars figures (1978–80 "Large Size Action Figures"; vs 1996–99 Hasbro/Kenner Collector Series)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: actionfigure411.com sold-auction tracker (12" Leia avg $303, range $225–450, mixed boxed/loose; BIN low $100), thetoycollectorsguide.com 12-inch checklist, eBay sold; Terapeak 1978 12" Leia (2026-10-12: 36 sold, median $99, complete $144, MIB $425); remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: actionfigure411.com sold-auction tracker (12" Leia avg $303, range $225–450, mixed boxed/loose; BIN low $100), thetoycollectorsguide.com 12-inch checklist, eBay sold; Terapeak 1978 12" Leia (2026-10-12: 36 sold, median $99, complete $144, MIB $425); remaining detail general knowledge, verify
 Slug: kenner-12-inch-star-wars-figures · Aliases: vintage Star Wars 12 inch, large size action figure, big Luke doll, 12" Princess Leia, Kenner Leia doll, 1978 Star Wars dolls
 Summary: 1996+ Collector Series loose $10–40; 1978 loose played/incomplete $50–120; 1978 loose complete $150–300 (Terapeak median for Leia lower: $99, complete $144); boxed / Boba Fett / IG-88 $400–2,000+
 Buy rule (short): 1978 figure with its main accessory ≤ $70 per figure; pass 1996+ Collector Series over $15
@@ -49,7 +49,13 @@ Strong nostalgia collector market (Gen X Star Wars fans); eBay sells several of 
 1–2 lb per figure, box well; $12–18. eBay ~13%.
 
 ## Selling it (for the buyer-facing listing)
-State figure, year (1978 stamp), loose/boxed, which accessories are original, outfit originality, hair condition, any repro parts. Photograph the copyright stamp, every accessory, outfit tags, face and hair. Title keywords: "Vintage 1978 Kenner Star Wars 12 inch Princess Leia complete", "large size", "original cape belt comb".
+- **Title words:** "Vintage 1978 Kenner Star Wars 12 inch", character, "large size action figure", "complete" with accessories named (cape belt comb), "loose"/"boxed", "original". Junk: "Collector Series" mixed with 1978, "rare", "action figure" without year. `Vintage 1978 Kenner Star Wars 12 Inch Princess Leia Complete Cape Belt Comb`
+- **Where:** eBay BIN with offers (several sell weekly; Nov–Dec peak); 1996+ Collector Series lotted on FB local.
+- **Price position:** 1978 complete at the sold median ($144 Leia), OBO, accept −15%; incomplete at $50–120 median; boxed at the sold median ($425 Leia MIB), firm 3 weeks; 1996+ $10–40 lotted. Cut 10% at 30 days.
+- **Photos:** first: figure standing with every accessory laid out; then copyright stamp ("©GMFGI 1978 KENNER"), outfit tags, face, hair close-up (Leia), each accessory alone, limbs/joints, boots, box all sides if boxed.
+- **State:** figure, year from stamp, loose/boxed, each accessory original or repro, outfit originality, hair condition (cut/frizz), loose limbs/stains/broken boots by photo number.
+- **Pack / haul:** 1–2 lb per figure, boxed with accessories bagged separately, $12–18.
+- **Quote to a buyer:** "[1978] Kenner stamp, original outfit and [saber/cape/belt/comb] all present — the accessories are 40–60% of the value, and the 1996 Collector Series lookalikes sell for $20."
 
 ## Buy rule
 Buy when: a 1978 figure with its main accessory, price ≤ $70 per figure. Pass when: Collector Series (1996+) at any price over $15, or 1978 figures missing saber/cape. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

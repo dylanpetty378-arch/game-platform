@@ -1,5 +1,5 @@
 # Pokémon card lots & binders (Wizards of the Coast 1999–2003, Nintendo/The Pokémon Company International 2003+; Japanese cards)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: sweep listings 2026-10 (XY-era binder 200+ cards $125 Klamath Falls; "Pokemon cards and collection" $175 Williamsport; "Pokemon cards OLD ONES" $1 St Louis; "Pokemon cards" $1 Atlanta); TCGplayer/PriceCharting market knowledge 2025–26.
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: sweep listings 2026-10 (XY-era binder 200+ cards $125 Klamath Falls; "Pokemon cards and collection" $175 Williamsport; "Pokemon cards OLD ONES" $1 St Louis; "Pokemon cards" $1 Atlanta); TCGplayer/PriceCharting market knowledge 2025–26.
 Slug: pokemon-card-lots · Aliases: Pokemon cards, Pokemon binder, Pokemon collection, card lot, bulk Pokemon, old Pokemon cards, Charizard
 Summary: Bulk commons $10–40 per 500; modern binders with a dozen holos/EX/GX/V and played Base holos $50–150; Base holo lots, shadowless, 1st Edition WotC, full-art/Evolutions Charizards $150–800; 1st Ed Charizard, Gold Stars, Crystal, Shiny Charizard GX, alt-art Umbreon $800–20,000+.
 Buy rule (short): Buy lots ≤ $100 that show ≥ $250 of identifiable singles in close-ups; pass lots with no close-ups of rares, 2010s+ binders at $100+, and "mystery lots".
@@ -48,7 +48,13 @@ Parents/kids list by count ("500 cards $50") not by the rare cards. Look for: 1s
 Binders 2–4 lb ($12–18); singles in a bubble mailer $4 (penny sleeve + top loader). Sell singles on eBay/TCGplayer (13%/10%); bulk to local card shops.
 
 ## Selling it (for the buyer-facing listing)
-Sell valuable cards as singles: name, set, card number, edition (1st/shadowless/unlimited), holo type, condition (or grade), language. Photograph front and back, corners and holo surface in good light. Bulk: state count, eras, and that rares were pulled (or not). Title keywords: "Pokemon Charizard 4/102 Base Set Shadowless Holo", "Pokemon card lot 500 bulk with holos".
+- **Title words:** singles: "Pokemon", card name, set, card number (4/102), edition (1st Edition/Shadowless/Unlimited), holo type, condition or grade, language; bulk: count, eras, "rares pulled" or not. Junk: "mystery lot", "rare" without the card named, "vintage collection", "500 cards". `Pokemon Charizard 4/102 Base Set Shadowless Holo Unlimited LP`
+- **Where:** eBay BIN with offers or TCGplayer for singles (sell in days; price off TCGplayer/PriceCharting); bulk commons to a local card shop, not shipped.
+- **Price position:** singles at the TCGplayer/sold median for the condition, accept −10%; graded at the sold median, firm 2 weeks; bulk $10–40 per 500 at the shop. Cut 10% at 14 days — the market is fast and volatile.
+- **Photos:** first: card front, flat, no glare; then back, each corner close-up, holo surface angled to show scratches, 1st Edition stamp/shadowless art box, edges for whitening; binders: every page.
+- **State:** name, set, number, edition, holo type, language, condition (whitening, scratches, creases, bends by photo number) or grade and cert; bulk: count, eras, whether rares were pulled.
+- **Pack / haul:** singles in penny sleeve + top loader, bubble mailer, $4; binders 2–4 lb, $12–18.
+- **Quote to a buyer:** "[Charizard 4/102], [Shadowless], no edge whitening and a clean holo — TCGplayer market is $[X] for this condition; the Unlimited copy with whitening is a third of that."
 
 ## Buy rule
 Buy when: a lot ≤ $100 shows ≥ $250 of identifiable singles (Charizards, 1st Ed, secret rares) in close-up photos. Pass when: no close-ups of rares, 2010s+ binders priced at $100+, "mystery lot". Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).

@@ -1,5 +1,5 @@
 # Antique Print Advertisements (magazine ads and covers 1890–1950: Ladies' Home Journal, Saturday Evening Post, Delineator, Collier's, Life)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak rows for this type in db/comps.jsonl (advertising-tins / advertising-giveaways exist but different)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); no Terapeak rows for this type in db/comps.jsonl (advertising-tins / advertising-giveaways exist but different)
 Slug: antique-print-advertisements · Aliases: magazine ad, print ad, vintage advertisement page, ephemera, magazine cover, tear sheet, Maxfield Parrish ad, auto ad
 Summary: common 1920s–50s single ads $5–15; early (1900–1925) color full-page ads and covers $12–35; illustrator-signed (Parrish, Leyendecker, Rockwell, Coles Phillips) or auto/Coca-Cola $30–150 (general knowledge, verify)
 Buy rule (short): Buy lots of pre-1930 full-page color ads/covers at ≤ $2 per page, especially Leyendecker/Parrish/Phillips/Rockwell and auto/tire/soda ads; pass single common ads.
@@ -44,7 +44,13 @@ Illustrator signatures in the image; automotive/tire ads command more than the l
 Flat, rigid mailer with cardboard, ~$5–7 each; large lots in one flat box.
 
 ## Selling it (for the buyer-facing listing)
-Magazine, issue date, advertiser, illustrator, size, reverse content, condition.
+- **Title words:** advertiser (Firestone, Packard, Coca-Cola), magazine and issue date, "original print ad", illustrator (Leyendecker/Parrish/Coles Phillips), year, size, "full page color". Junk: "reproduction", "poster", "wall art", "rare". `1912 Packard Original Print Ad Ladies Home Journal Full Page Color 11x16`
+- **Where:** eBay BIN with offers for auto/tire/soda and illustrator pieces; Etsy for matted décor; common 1930s–60s ads lotted.
+- **Price position:** pre-1925 colour pages at the sold median ($12–35), OBO; auto/tire/phonograph $25–60, illustrator pieces at the sold median (Parrish $64), accept −15%; common ads $5–15 lotted. Cut 10% at 45 days.
+- **Photos:** first: page straight-on, flat, no glare; then reverse side (page number and content), loupe close-up of halftone dots, each edge for chips/trimming, foxing/tape, ruler.
+- **State:** magazine, issue date, advertiser, illustrator, size, reverse content, original (period paper, printed reverse), condition: tears/chips/foxing/trimmed margins by photo number.
+- **Pack / haul:** flat in a rigid mailer with cardboard, $5–7 each; lots in one flat box.
+- **Quote to a buyer:** "Original [1912] [Packard] page from [Ladies' Home Journal], printed reverse and period toning — not a reprint; pre-1920 auto ads sell $25–60 where the common 1950s ones are $8."
 
 ## Buy rule
 Profit ≥ max($50, price). A lot must be sold individually: n pages × median $15 × 0.87 − n × ~$6 shipping − price. At ~$13 per page net of shipping ≈ $7, so you need ~10+ good pages per $15–20 spent to clear $50. Fits passenger seat.

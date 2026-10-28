@@ -1,5 +1,5 @@
 # Original paintings – vintage decorator and amateur (oil, acrylic, watercolour; commercial "studio" art, regional and amateur artists)
-Updated: 2026-10-13 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "vintage original oil painting landscape signed framed", "vintage oil painting winter landscape signed", "vintage oil painting palette knife landscape signed", "vintage oil painting european street scene ornate gold frame", "original oil painting roses ornate frame", "vintage watercolor birch trees signed framed") · tells 2026-10-13
+Updated: 2026-10-28 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "vintage original oil painting landscape signed framed", "vintage oil painting winter landscape signed", "vintage oil painting palette knife landscape signed", "vintage oil painting european street scene ornate gold frame", "original oil painting roses ornate frame", "vintage watercolor birch trees signed framed") · tells 2026-10-13
 Slug: original-paintings · Aliases: oil painting, original painting, signed painting, canvas art, estate art, framed painting, oil on canvas, oil on board, palette knife painting, MCM painting, landscape painting, still life
 Summary: Amateur and 1960s–90s commercial "studio" decorator oils $15–75; better decorator oils in good ornate frames and listed regional artists with small auction records $75–350; artists with real auction records $500+ (rare, need research).
 Buy rule (short): Buy only when the signature traces to an artist with documented auction sales (askART/LiveAuctioneers) or the piece is clearly pre-1940 with quality, and the sold median clears profit after shipping; never buy on "original oil" alone.
@@ -70,8 +70,13 @@ Buy rule (short): Buy only when the signature traces to an artist with documente
 - Toronto/Canadian listings (as in this sweep) cannot be bought and shipped economically.
 
 ## Selling it (for the buyer-facing listing)
-- Medium and support, image and frame size, signature close-up, back of canvas with labels, raking-light photo showing brushwork, condition notes (cracks, flaking, varnish).
-- Say "decorative original oil, c. 1970s" honestly when the artist is unlisted.
+- **Title words:** "original oil painting", subject (street scene, roses still life, winter landscape), "signed" + name if legible, frame (ornate gold, velvet), support (canvas/masonite), size, "vintage MCM". Junk: "listed artist" unproven, "museum", "masterpiece". `Vintage Original Oil Painting Yellow Roses Still Life Signed Ornate Gold Frame 15x17`
+- **Where:** large decorator oils on FB local (oversized shipping kills margin); listed artists and under 20×24 on eBay BIN with offers; list florals and autumn/winter scenes for fall and holidays.
+- **Price position:** at the sold median (winter landscape $35, signed/framed landscape $70, street scenes in ornate frames $142, roses in ornate frames $93–250), OBO, accept −20%, floor $20 plus shipping; cut after 30 days.
+- **Photos:** full piece straight-on; raking-light shot showing brushwork; signature close-up; back of canvas with labels/stamps; frame corners and ornament; cracks, flaking, dirt or varnish bloom.
+- **State:** medium and support, image and frame size, signature, "decorative original oil, c. 1970s" when the artist is unlisted, auction record if found, frame type, condition (cracks, flaking, varnish) by photo number.
+- **Pack / haul:** corner protectors, cardboard sandwich, bubble, double box; 16×20 framed $20–30, 24×36 oversized $45–80; passenger-seat class ~7 lb, larger is local only.
+- **Quote to a buyer:** "This is an original [oil on canvas], [signed], in a period [ornate gold] frame, [15×17]; comparable framed [florals] sell for $[90–250], and the frame alone is worth $50 up."
 
 ## Buy rule
 - Price ≤ $200; fits a passenger seat. Profit = sold median × 0.87 − shipping to buyer (~$25–45) − shipping to Dylan (~$25–45 or $0 local) − price ≥ max($50, price).

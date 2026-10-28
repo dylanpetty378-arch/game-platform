@@ -1,5 +1,5 @@
 # Fenton art glass (Fenton Art Glass Co., plus look-alikes: Mosser, Boyd, Imperial, Westmoreland, L.G. Wright, Northwood)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("fenton art glass" median $26.18 n=50 p25 $17.25 p75 $63.78); general knowledge of Fenton marks and lines (no web search this run; verify); Fenton Art Glass Collectors of America (https://www.fagcainc.org) for reference · tells 2026-10-13
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("fenton art glass" median $26.18 n=50 p25 $17.25 p75 $63.78); general knowledge of Fenton marks and lines (no web search this run; verify); Fenton Art Glass Collectors of America (https://www.fagcainc.org) for reference · tells 2026-10-13
 Slug: fenton-art-glass · Aliases: Fenton, Fenton hobnail, Fenton milk glass, Fenton carnival, Fenton burmese, Fenton cranberry, Fenton hand painted, Fenton opalescent, Fenton silvercrest, Fenton peach crest, Fenton slag, Fenton custard, Fenton fairy lamp, Fenton basket, Fenton vaseline, uranium glass
 Summary: Common hobnail/milk glass, Silver Crest and 1990s–2000s hand-painted pieces $10–40; opalescent hobnail, cranberry, Burmese and carnival pieces $30–90; Connoisseur Collection, signed artist pieces, large lamps, Mary Gregory and early (1907–30s) carnival/stretch glass $80–400; rare colours and off-hand art glass (Karnak, Mosaic, Hanging Hearts) $300–2,000+.
 Buy rule (short): Buy only Fenton cranberry/Burmese/Rosalene/Connoisseur, early carnival or stretch glass, big lamps (careful shipping) and off-hand art glass at ≤ $25; pass on milk glass, amber/colonial hobnail, 1990s–2000s hand-painted gift pieces and anything priced above $40.
@@ -68,7 +68,13 @@ Oversupplied: the collector base is ageing and estate sales are full of Fenton. 
 Fragile, ruffled rims: double-box, 2" of padding all round; $12–20 ground for vases, $25+ for lamps.
 
 ## Selling it (for the buyer-facing listing)
-Give height, colour name, line name, decade from the base mark, decorator signature, UV reaction, and rim/handle condition with close-ups.
+- **Title words:** "Fenton", line/colour name (Cranberry Opalescent Hobnail, Burmese, Rosalene, Silver Crest), form (vase/basket/lamp), height, "signed"/"hand painted" with artist, "Connoisseur". Junk: "art glass" alone, "rare", "milk glass" unless it is. `Fenton Cranberry Opalescent Hobnail Vase 8" Ruffled Rim Vintage`
+- **Where:** eBay BIN with offers (collector base is national); FB local for milk glass and common hobnail under $25.
+- **Price position:** common pieces at the sold median ($22–26), OBO, cut after 30 days; cranberry/Burmese/Connoisseur at p75 ($64+), firm 3 weeks then −10%.
+- **Photos:** first: backlit in daylight showing colour; then base/mark or pontil, rim edge sighted along the crimp, handle joins, artist signature, UV shot for Burmese/vaseline, interior for cloudiness.
+- **State:** colour and line name, height, decade from the mark, decorator signature, UV reaction, rim/handle condition with chip locations by photo number, lamp wiring status.
+- **Pack / haul:** double box, 2" padding all round for ruffled rims; $12–20 ground for vases, $25+ for lamps.
+- **Quote to a buyer:** "Fenton [cranberry opalescent] from [the 1950s] — gold-ruby glass, not stained, and unchipped on the crimp; this colour still sells in weeks while milk glass sits."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$15 to buyer − ~$15 to Dylan − price ≥ max($50, price). Only pieces selling ≥ $100 can qualify. Buy cranberry/Burmese/Connoisseur/Mary Gregory/early carnival at ≤ $25 when photos show the rim intact. Pass on everything common.

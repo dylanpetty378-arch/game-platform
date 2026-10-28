@@ -1,5 +1,5 @@
 # Electric guitar pickups (Gibson, Seymour Duncan, DiMarzio, EMG, Fender, vintage PAF)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Reverb sold knowledge, eBay sold knowledge
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Reverb sold knowledge, eBay sold knowledge
 Slug: electric-guitar-pickups · Aliases: humbucker, single coil, PAF, Patent number pickup, T-Top, Burstbucker, 490R 498T, JB, '59, pickup set, guitar pickups lot
 Summary: Import ceramics $5–20; Duncan/DiMarzio/EMG singles and Gibson 490/498 pairs $50–180; Gibson '57 Classic/Burstbucker, Fender CS and boutique sets $150–350; PAF / Patent-number / pre-CBS Fender $500–8,000.
 Buy rule (short): Any "old Gibson pickup" with a PAF or patent-number sticker under $300; boutique sets under $80; pass modern Gibson/Duncan at market.
@@ -51,7 +51,13 @@ A "humbucker from an old Gibson" without the base photographed – ask for the b
 < 1 lb, $6–9. Reverb 8%. Electrically simple – a multimeter reading in the listing (7–9 kΩ for PAF-style) is a plus.
 
 ## Selling it (for the buyer-facing listing)
-State brand, model, position (neck/bridge), DC resistance, lead type/length, cover type, magnet type if known, and which guitar it came out of. Photograph the baseplate (stickers, stamps), leads and covers. Title: "Gibson 490R 498T humbucker set, long leads, from 2002 SG".
+- **Title words:** brand + model + position ("490R 498T set", "neck", "bridge") + "humbucker"/"single coil" + "long leads"/"cover" + source guitar; Junk: "guitar parts", "pickup lot", "PAF style" (unless it is). Example: `Gibson 490R 498T Humbucker Pickup Set Long Leads from 2002 SG Tested`.
+- **Where:** Reverb (8%, guitarists swap constantly) first, eBay second; vintage PAF/Patent-number only on Reverb/eBay with baseplate photos. No local market.
+- **Price position:** at the sold median (490/498 pair $120–170; Duncan JB $55–80; Patent-number median $200, p75 $435); accept −10%, floor p25; OBO; modern sets trade near a stable price, cut 10% after 3 weeks.
+- **Photos:** first photo both pickups face up on neutral background; then baseplate (stickers, patent stamps, date codes), leads and their length, covers, pole pieces, a multimeter reading of DC resistance.
+- **State:** brand, model, neck/bridge, DC resistance (7–9 kΩ PAF-style), lead type/length, cover, magnet type if known, which guitar it came from, soldered leads cut or intact, flaws by photo number.
+- **Pack / haul:** under 1 lb, small box with bubble, leads coiled and taped; $6–9.
+- **Quote to a buyer:** "Gibson [490R/498T] set pulled from a [2002 SG], [8.1/14.2 kΩ] on the meter with [long] leads — new they're [$X] the pair and these are the same USA pickups."
 
 ## Buy rule
 Buy when: any "old Gibson pickup" with a patent-number or PAF sticker under $300; boutique sets under $80. Pass when: modern Gibson/Duncan at market. Profit must be ≥ max($50, price) after ~13% fees (Reverb ~8%) and shipping both ways. Fits a passenger seat.

@@ -1,5 +1,5 @@
 # Lunch boxes (metal 1950s–80s, vinyl, 1990s character) (Aladdin, Thermos/King-Seeley Thermos, ADCO Liberty, Ohio Art)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges; no dated comp pulled
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges; no dated comp pulled
 Slug: vintage-lunch-boxes · Aliases: lunchbox, lunch pail, metal lunch box, vinyl lunch box, lunch kit, thermos lunch box
 Summary: 1990s plastic and rusty metal $10–30; clean 1970s–80s metal with thermos $50–120; 1950s–60s Westerns/Beatles/Star Trek with thermos $200–600; 1954 Superman, Toppie, 1930s Mickey $1,000–10,000.
 Buy rule (short): Buy 1950s–60s metal with thermos under $60 or 1960s vinyl under $25; pass 1990s boxes at any price.
@@ -62,9 +62,13 @@ Western/space theme are the ones.
 2–3 lb, $10–14. Wrap the thermos separately (glass liners).
 
 ## Selling it (for the buyer-facing listing)
-Name the character, maker and copyright year (photo of the litho rim), whether the matching thermos is included and
-its cup, and condition of all four sides, the inside and bottom. Mention rust, dents and marker. Title: maker,
-character, year, "metal lunch box", "with thermos".
+- **Title words:** maker ("Aladdin", "Thermos", "King-Seeley") + character/title + year + "metal lunch box" + "with thermos" + "dome"/"embossed" if so; Junk: "old lunch box", "retro", "tin", "vintage style" (reissue). Example: `1968 Aladdin Star Trek Dome Metal Lunch Box with Thermos Original Cup`.
+- **Where:** eBay BIN with offers (nostalgia buyers 40–70 and decorators); 1954 Superman/Toppie/1930s Mickey to Hake's or Heritage; 1990s plastic local or as a lot.
+- **Price position:** at the sold median (1970s–80s clean with thermos $50–120; 1950s–60s Westerns/Beatles/Star Trek with thermos $200–600), accept −15%, floor p25; OBO; cut 10% after 3 weeks (mid-tier has softened).
+- **Photos:** first photo the front panel square-on; then back, both ends, top, bottom (rust), inside, litho rim with the copyright year and maker, latch and handle, thermos with cup and glass liner intact, marker names.
+- **State:** character, maker, copyright year, matching thermos and cup included, condition of all four sides, inside and bottom, rust/dents/marker/edge rubs by photo number, touch-up or clear-coat noted, reissue check.
+- **Pack / haul:** 2–3 lb; wrap the thermos separately (glass liner), box with fill; $10–14.
+- **Quote to a buyer:** "[1968 Aladdin Star Trek] dome box with the matching thermos — the thermos alone is a third of the set and most are missing it; [no rust inside, latch works], period maker mark on the rim."
 
 ## Buy rule
 Buy when: 1950s–60s metal box with thermos under $60, or a 1960s vinyl under $25. Pass when: 1990s boxes at any price

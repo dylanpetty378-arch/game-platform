@@ -1,5 +1,5 @@
 # Satsuma and Satsuma-style Japanese pottery (Kinkozan, Yabu Meizan, Taizan, Hododa, Kozan; Taisho/Showa export moriage Satsuma; Nippon; postwar Satsuma-style giftware)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Gotheborg Japanese marks guide https://gotheborg.com/marks/satsuma.shtml (not loaded) ; Bonhams/Christie's Meiji ceramics results (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references: Gotheborg Japanese marks guide https://gotheborg.com/marks/satsuma.shtml (not loaded) ; Bonhams/Christie's Meiji ceramics results (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
 Slug: satsuma-pottery · Aliases: Satsuma, Satsuma vase, moriage vase, Japanese earthenware vase, geisha vase, Kyoto Satsuma, Meiji Satsuma, Nippon moriage, Japanese gold vase, Shimazu crest vase, Japanese porcelain vase, peacock vase
 Summary: Postwar "Satsuma" gift vases and modern porcelain look-alikes $10–40; 1910s–40s export moriage Satsuma (geisha, Rakan, scroll handles) $30–120; signed Meiji Kyoto Satsuma (Kinkozan, Taizan, Hododa) $200–1,500; Yabu Meizan, Kozan masterworks $1,000–20,000+.
 Buy rule (short): Buy only fine-crackle ivory Meiji pieces with miniature-scale painting and a studio signature at ≤ 25% of sold; pass on heavy moriage export pieces over ~$15 and on porcelain "Satsuma style".
@@ -63,7 +63,13 @@ Export Satsuma is abundant; sells slowly at $30–100. Meiji signed pieces sell 
 Fragile; earthenware chips easily. Double box; vases 2–4 lb, $16–22. Handles wrapped individually.
 
 ## Selling it (for the buyer-facing listing)
-Body (earthenware with crackle vs porcelain), mark photo and reading, period estimate, height, condition under raking light and UV. Honest "Taisho-era export Satsuma" labelling sells better than an inflated "Meiji" claim.
+- **Title words:** "Satsuma", maker/mark (Kinkozan, Taizan) only if read, period (Meiji / Taisho / Showa), form (vase, koro, bowl), subject (geisha, Rakan, moriage), height, "signed". Junk: "Meiji" on export pieces, "rare", "museum". `Japanese Taisho Export Satsuma Moriage Vase Geisha Scroll Handles 10 in Signed`
+- **Where:** eBay BIN with offers for export pieces; signed Meiji Kyoto pieces sell for more at an Asian-art auction (Bonhams, Heritage, local houses) than on eBay.
+- **Price position:** export at the sold median ($30–120; peacock giftware $20), OBO, accept −25%, floor $15; signed Meiji $200–1,500 firm or consign; cut 20% after 30 days — export Satsuma is slow.
+- **Photos:** full piece; base with mark in sharp focus and a reading; crackle glaze close-up; gilt and enamel detail; handles; raking-light shot for hairlines; UV shot if available; ruler for height.
+- **State:** body (earthenware with crackle vs porcelain), mark photo and reading, period estimate ("Taisho-era export Satsuma"), height, condition under raking light and UV, gilt wear, chips, flaws by photo number.
+- **Pack / haul:** shoebox, 2–4 lb, double box, handles wrapped individually, $16–22; earthenware chips easily.
+- **Quote to a buyer:** "This is [Taisho]-era export Satsuma, [earthenware] with the [crackle] glaze and [moriage] work, signed [mark reading]; honest export pieces sell for $[30–120], and I'm not calling it Meiji."
 
 ## Buy rule
 A $35 export vase must sell for ~$115 to clear $50 profit after ~$18 shipping each way — export moriage rarely does. Buy only Meiji-quality fine-crackle pieces with a seal mark and miniature painting at ≤ 25% of sold, ≤ $50 each. Pass on porcelain "Satsuma style" and Chinese copies. All fit in a seat.

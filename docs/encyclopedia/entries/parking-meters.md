@@ -1,5 +1,5 @@
 # Vintage parking meters (Duncan / Duncan-Miller, Park-O-Meter (POM), Rockwell, M.H. Rhodes Mark-Time, Dual, Karpark, Mi-Co)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold listings "vintage parking meter", "Duncan Miller parking meter", lamp conversions; Craigslist listing 2026-10 (Park-O-Meter lamp $75, NJ antiques dealer); Google Lens run 2026-10-13 (asking-price based)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold listings "vintage parking meter", "Duncan Miller parking meter", lamp conversions; Craigslist listing 2026-10 (Park-O-Meter lamp $75, NJ antiques dealer); Google Lens run 2026-10-13 (asking-price based)
 Slug: parking-meters · Aliases: parking meter lamp, old parking meter, man cave parking meter, Duncan Miller meter, Park-O-Meter, POM meter, coin meter
 Summary: 1980s–90s electronic heads, keyless or broken $25–50; 1960s–70s mechanical working with key $75–150; 1930s–50s POM Model M, Duncan-Miller, Rhodes, dual-head $150–350; first-generation 1935–40 POM and rare makers $400–800. Lamp conversions sell as lamps $75–175.
 Buy rule (short): Buy 1930s–50s POM/Duncan-Miller/Rhodes heads, working with key, at ≤ $60; pass lamp conversions over $40 and 1970s+ Duncans over $50.
@@ -50,7 +50,13 @@ Maker/era; working lock with key; whether it still takes coins. Conversions are 
 Heads 10–20 lb; lamp conversions 15–25 lb; $30–50 shipping. eBay ~13%. Margins thin – mostly a local flip, not a ship-in item. Full meters on poles are long and may not fit the size rule.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model, era, coin denominations accepted, working status (coins accepted, timer runs), key included, dome condition, original paint vs repaint, unmodified vs lamp conversion, height/weight, pole included. Photograph maker casting, dial face, key and lock, back, any drilling. Title keywords: "Vintage 1950s Duncan Miller Parking Meter with Key Working", "Park-O-Meter Model M".
+- **Title words:** "parking meter" + maker (Duncan Miller, Park-O-Meter, Rhodes Mark-Time) + era + "with key" + "working" + "dual head"/"on pole" if so. Junk: "old meter", "man cave", "lamp" unless converted. Example: `Vintage 1950s Duncan Miller Parking Meter with Key Working Mechanical Head`.
+- **Where:** FB local first (10–20 lb, $30–50 to ship kills the margin; better margins locally); eBay BIN with offers for 1930s–50s heads only.
+- **Price position:** list at the sold median ($80–140 Duncan 60/70 with key, $150–300 1940s–50s POM, lamp conversions $75–175); accept −15%, floor −25%; OBO; cut 10% after 30 days, relist before Father's Day/Christmas.
+- **Photos:** 1) full head front, dial face readable; then maker casting, key in lock, dome/glass, back and base, any drilling or repaint; video of a coin accepted and the timer running.
+- **State:** maker, model, era, coin denominations, timer runs/coin accepted or "untested", key included, dome condition, original paint vs repaint, unmodified vs lamp conversion, height and weight, pole included, flaws by photo number.
+- **Pack / haul:** 10–20 lb head (lamp 15–25 lb), single sturdy box with 2" foam, 20-lb class, $30–50; on a pole it rides local in a truck bed or SUV with seats down.
+- **Quote to a buyer:** "A [1950s Duncan Miller / Park-O-Meter Model M] mechanical head with its key — the 1980s electronic ones are the $30 meters; working keyed [era] heads sell for [$X] and this one still takes coins."
 
 ## Buy rule
 Buy when: 1930s–50s POM/Duncan-Miller/Rhodes head, working with key, ≤ $60. Pass when: lamp conversions over $40, 1970s+ Duncan over $50. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (heads do; full pole-mounted meters may not — those are excluded).

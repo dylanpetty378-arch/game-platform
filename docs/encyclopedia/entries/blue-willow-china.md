@@ -1,5 +1,5 @@
 # Blue Willow china (Spode, Wedgwood, Royal Doulton/Booths, Buffalo Pottery, Johnson Bros, Churchill, Sadler, Homer Laughlin, Royal China, Japanese export)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.replacements.com, https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.spode.co.uk
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); verify on https://www.replacements.com, https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.spode.co.uk
 Slug: blue-willow-china · Aliases: Willow pattern, Blue Willow, Willow Ware, Flow Blue Willow, Gaudy Willow, Booths Real Old Willow, Churchill Willow, Japan willow
 Summary: modern/1950s–90s plates and cups $5–25; teapots (Sadler, Japan, Churchill) $25–60; 19th-c Staffordshire platters, Booths, Buffalo Gaudy, Spode early $60–300; early pearlware/large platters/rare forms $200–1,000+ (general knowledge, verify)
 Buy rule (short): Only buy 19th-century pieces (pearlware, unmarked early Staffordshire, big well-drainers/platters), Gaudy Willow, or rare forms; pass on teapots and dinnerware from 1950 on.
@@ -50,7 +50,13 @@ Unmarked early pearlware platters (bluish glaze, stilt marks) get priced like mo
 A teapot needs a double box with the lid wrapped separately; $15–20.
 
 ## Selling it (for the buyer-facing listing)
-Photograph the backstamp, the lid inside fit, and the spout tip. State height and capacity. Disclose crazing and staining.
+- **Title words:** "Blue Willow", maker (Spode/Booths/Buffalo/Johnson Bros/Sadler), form (platter/teapot/well-and-tree), size, era ("antique" only pre-1900, "pearlware"), "Gaudy Willow", "England". Junk: "blue and white dishes", "Imari" for Gaudy, "rare". `Antique Staffordshire Blue Willow Platter 18" Pearlware Unmarked c.1830`
+- **Where:** eBay BIN with offers for 19th-c. platters, Booths, Buffalo Gaudy; Replacements buys complete 20th-c. patterns; FB local for modern dinnerware sets and Sadler teapots ($24 median).
+- **Price position:** 20th-c. pieces at the sold median ($5–25, teapots $24), OBO, cut fast; 19th-c. platters at the sold median (Spode platter $61) to p75 by size, accept −15%; cut 10% at 45 days.
+- **Photos:** first: face straight-on; then backstamp or unmarked footring with glaze pooling, stilt marks, rim all round, back under light, crazing/staining close-up, teapot lid fit and spout tip, ruler.
+- **State:** maker, era (pearlware vs modern body), form, dimensions, backstamp wording, crazing/staining/chips/hairlines by photo number, teapot capacity and lid match.
+- **Pack / haul:** plates box-in-box, $12–15; teapot double box, lid wrapped separately, $15–20; big platters 5+ lb, $20+.
+- **Quote to a buyer:** "[Early Staffordshire] pearlware platter, [18"], bluish glaze pooling and stilt marks on the foot — the 20th-century Willow sells for $15; the pre-1840 platters are the ones at $100–400."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$18 out − ~$18 in − price ≥ max($50, price). Only 19th-c pieces, Gaudy Willow or rare forms qualify, at ≤ ~30% of the median and shoebox-sized or smaller (big platters are OK if they fit a passenger seat). Never buy modern teapots or dinnerware for resale.

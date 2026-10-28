@@ -1,5 +1,5 @@
 # Cast iron doorstops & figures (Hubley, Bradley & Hubbard, Albany Foundry, National Foundry, Judd, Spencer)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist 1836 photos; eBay sold pattern (knowledge 2024–25); Bertoia Auctions doorstop sales (reference); chairish.com Hubley listings (dog figurals $225–975 asking); 1stDibs Hubley flower-basket listings; frenchgardenhouse.com; eBay sold knowledge · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: craigslist 1836 photos; eBay sold pattern (knowledge 2024–25); Bertoia Auctions doorstop sales (reference); chairish.com Hubley listings (dog figurals $225–975 asking); 1stDibs Hubley flower-basket listings; frenchgardenhouse.com; eBay sold knowledge · tells 2026-10-13
 Slug: cast-iron-doorstops · Aliases: antique doorstop, cast iron dog, Hubley dog, Boston terrier doorstop, cast iron flower basket, door stop, cast iron figure, Victorian doorstop
 Summary: Repros/repaints $10–60; small original-paint baskets $40–100; Hubley flower baskets 8–10" and full-figure dogs with good original paint $90–350 (up to $500 for top paint); B&H and rare figurals $400–3,000.
 Buy rule (short): Buy original-paint figural dog/cat/ship/cottage ≤ $40–50, flower basket 8"+ with good paint ≤ $30, B&H-marked ≤ $100; pass repaints, Phillips screws and repro tells.
@@ -59,7 +59,13 @@ Original paint vs repaint (everything is in the paint); Hubley mark on the back/
 3–10 lb each; Priority Flat Rate medium fits most: $15–25 each way. Wrap paint surfaces – flaking loses value; ears snap. eBay 13%.
 
 ## Selling it (for the buyer-facing listing)
-Maker and mark/number, subject, height, original paint percentage (be honest), construction (two-piece, slotted screws), any touch-ups or chips. Photograph front, back, base/mark, screw heads, face close-up. Title: "Antique Hubley cast iron doorstop [subject] original paint".
+- **Title words:** "Antique cast iron doorstop", maker (Hubley, Bradley & Hubbard), subject (Boston terrier, flower basket, Scottie), "original paint", height, mark/number. Junk: "repro" omitted when it is one, "rare" on baskets, "vintage" on a repaint. `Antique Hubley Cast Iron Doorstop Boston Terrier Original Paint 10 in 1930s`
+- **Where:** eBay BIN with offers for common baskets and terriers (steady); rare figurals (B&H cats/parrots, Halloween) sell for more at Bertoia; repaints and repros FB local.
+- **Price position:** at the sold median (Boston terrier original paint $120–160, baskets 7–9 in. $90–200, repaints $35–60), OBO, accept −15%, floor $25; cut 10% after 30 days; dealer asks run 2–3× — don't price off Chairish.
+- **Photos:** front; back; base and mark/number; screw heads (slotted = period); face close-up; paint surface close-up with flaking; ears and tips; piece on a scale; ruler.
+- **State:** maker, mark/number, subject, height, weight, honest original-paint percentage, two-piece construction and slotted screws, touch-ups, chips, repairs by photo number.
+- **Pack / haul:** 3–10 lb, Priority Flat Rate medium fits most, $15–25; paint surfaces wrapped (flaking loses value), ears snap; shoebox class.
+- **Quote to a buyer:** "This is a marked [Hubley] [Boston terrier] at [8 lb] with about [70%] original paint and slotted screws, 1930s; original-paint examples sell for $[90–180], the repaints $35–60."
 
 ## Buy rule
 Buy when: figural dog/cat/ship/cottage with original paint ≤ $40 (write-up 2) to ≤ $50 (write-up 1); flower basket 8"+ with good paint ≤ $30; any B&H-marked piece ≤ $100. Write-up 1 also allowed flower baskets up to $80, which cannot clear Dylan's rule at $90–200 sold – use the $30 cap. Pass when: repainted, replacement Phillips screw, chips through to bare iron on the face, baskets priced $40+ each (margin gone after shipping), repro tells. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

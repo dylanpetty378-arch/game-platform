@@ -1,5 +1,5 @@
 # Adding machines and mechanical calculators (Victor, Burroughs, Felt & Tarrant Comptometer, Monroe, Marchant, Friden, Curta, Odhner, Brunsviga, Addometer, Remington Rand, Sundstrand, Allen-Wales)
-Updated: 2026-10-13 · Sources: general knowledge of eBay/LiveAuctioneers sold patterns (no sold data fetched; estimates, verify); Vintage Calculators Web Museum (https://www.vintagecalculators.com) reference, not fetched
+Updated: 2026-10-28 · Sources: general knowledge of eBay/LiveAuctioneers sold patterns (no sold data fetched; estimates, verify); Vintage Calculators Web Museum (https://www.vintagecalculators.com) reference, not fetched
 Slug: adding-machines · Aliases: adding machine, mechanical calculator, comptometer, crank adding machine, Burroughs, Victor adding machine, Monroe calculator, Curta, office antique
 Summary: 1930s–60s full-keyboard crank adders (Victor, Burroughs, Sundstrand, Remington) $30–100; early Burroughs/Comptometer with glass sides or brass $100–400; Monroe/Marchant/Friden calculators $60–250 (working); small pocket adders (Addometer, Golden Gem) $30–120; Curta $800–2,500 (needs authentication).
 Buy rule (short): Pass bulky crank adders; buy Curta, Golden Gem or glass-sided early Burroughs only with clear photos and ≤ 1/4 comps.
@@ -49,7 +49,13 @@ Small stylus adders and Curtas mixed into office lots.
 Desktop machines 20–35 lb; $30–50 shipped; packing needed.
 
 ## Selling it (for the buyer-facing listing)
-Model/serial, crank operation video, key condition.
+- **Title words:** maker + model + type ("Victor full keyboard crank adding machine", "Burroughs glass sided Class 1", "Curta Type II", "Golden Gem stylus adder") + "working" + decade; Junk: "old office machine", "calculator", "steampunk decor". Example: `Burroughs Class 1 Glass Sided Adding Machine Brass Working 1910s Antique`.
+- **Where:** eBay BIN with offers for Curta, glass-sided Burroughs, wooden Comptometers and pocket adders; common Victor/Sundstrand desktop crank machines local (20–35 lb; decor buyers). Local beats eBay for anything under $100.
+- **Price position:** at the sold median (Victor $45, p75 $56; Monroe/Marchant working $60–250; glass-sided Burroughs $100–400; Curta Type I $1,395, Type II $1,500), accept −15%, floor p25; OBO; cut 10% after a month.
+- **Photos:** first photo front three-quarter with the keyboard; then model/serial plate, decal, every key, the crank, paper roll/carriage, underside, any chipped finish; video of a crank operation adding correctly.
+- **State:** model and serial, crank operates and totals correctly, stuck keys, frozen mechanism (old grease), missing crank/roll/cover, decal condition, Curta authenticity (serial, box, papers), flaws by photo number.
+- **Pack / haul:** desktop 20–35 lb — double-box, immobilize the carriage and crank, 2" fill ($30–50); pocket adders and Curta in a small padded box.
+- **Quote to a buyer:** "[Burroughs Class 1] with the glass sides — the one that shows the mechanism — crank runs and totals (video); the plain 1950s Victors are [$45] and these early ones are [$100–400]."
 
 ## Buy rule
 Pass full-size crank machines (median ~$70 → loss). Curta needs authentication — pass under Dylan's rules unless verifiable. Small stylus adders ≤ $15.

@@ -1,5 +1,5 @@
 # Glass and porcelain insulators (telegraph, telephone and power-line insulators; Hemingray, Brookfield, Whitall Tatum, Armstrong, McLaughlin, Locke, Pyrex, Ohio Brass, Knowles)
-Updated: 2026-10-13 · Sources: no web search budget this run; written from general knowledge. No Terapeak comps in db/comps.jsonl. Verification: National Insulator Association https://www.nia.org ; insulator CD reference (McDougald price guide; "CD" numbering) https://www.insulators.com ; eBay sold "glass insulator" https://www.ebay.com/sch/i.html?_nkw=glass+insulator&LH_Sold=1
+Updated: 2026-10-28 · Sources: no web search budget this run; written from general knowledge. No Terapeak comps in db/comps.jsonl. Verification: National Insulator Association https://www.nia.org ; insulator CD reference (McDougald price guide; "CD" numbering) https://www.insulators.com ; eBay sold "glass insulator" https://www.ebay.com/sch/i.html?_nkw=glass+insulator&LH_Sold=1
 Slug: glass-and-porcelain-insulators · Aliases: insulator, glass insulator, Hemingray, telephone pole insulator, porcelain insulator, Locke insulator, CD 154, power line insulator, telegraph insulator
 Summary: Common aqua/clear glass (Hemingray-42, CD 154) $3–10; brown/white porcelain pin and spool types (Locke, Ohio Brass) $3–15; coloured glass (cobalt, purple, green, amber) $20–150; rare CDs, threadless, unusual colours $150–5,000+ (general knowledge, verify).
 Buy rule (short): Buy only coloured glass (cobalt, deep purple, amber, olive, yellow), threadless or rare-CD pieces at ≤ 25% of sold; pass on aqua, clear and brown porcelain.
@@ -45,7 +45,13 @@ A coloured glass insulator mixed with aqua ones in a box. Colour is visible from
 Heavy and fragile; $8–15 for one or two; pack each in bubble.
 
 ## Selling it (for the buyer-facing listing)
-CD or U number, embossing, colour, chips.
+- **Title words:** maker (Hemingray/Brookfield/Locke), CD or U number, embossing (Hemingray-42), colour in daylight terms (cobalt/SCA purple/amber/olive), "glass insulator"/"porcelain insulator", "threadless" if so. Junk: "telephone pole glass", "rare" on aqua, "vintage decor". `Hemingray CD 162 Cobalt Blue Glass Insulator Embossed Drip Points`
+- **Where:** eBay BIN with offers (NIA collectors search by CD number); NIA shows for rare CDs and threadless; aqua/clear and brown porcelain lotted on FB local.
+- **Price position:** coloured glass at the sold median (cobalt Hemingray $21.50, threadless $85), OBO, accept −15%; aqua/clear lots $3–10 each local, firm; cut 10% at 45 days.
+- **Photos:** first: insulator backlit in daylight for true colour; then embossing both sides, base/drip points, threads inside, skirt edge all round for chips, any frosted ground spots, ruler.
+- **State:** CD/U number, maker, embossing wording, colour, chips/flea bites/base bruises/cracks by photo number, note any polished spots.
+- **Pack / haul:** heavy and fragile; each in bubble, small box, $8–15 for one or two.
+- **Quote to a buyer:** "[Hemingray CD 162] in true [cobalt], no skirt chips — the aqua ones are $5 box-lot glass; the coloured pieces are what NIA collectors pay $20–150 for."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). Only coloured or rare glass reaching $90+ qualifies. Colour-altered pieces are a risk; avoid unusual purple/amber without provenance.

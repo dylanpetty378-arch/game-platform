@@ -1,5 +1,5 @@
 # English ironstone (Mason's Patent Ironstone, Ashworth, Hicks & Meigh, Spode Stone China, Wedgwood/Meakin/Mellor white ironstone, Johnson Bros, Alfred Meakin, J&G Meakin)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://en.wikipedia.org/wiki/Ironstone_china , https://www.whiteironstonechina.com (White Ironstone China Association), Godden "Godden's Guide to Mason's China and the Ironstone Wares", eBay sold search "Mason's patent ironstone", "white ironstone tureen") · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://en.wikipedia.org/wiki/Ironstone_china , https://www.whiteironstonechina.com (White Ironstone China Association), Godden "Godden's Guide to Mason's China and the Ironstone Wares", eBay sold search "Mason's patent ironstone", "white ironstone tureen") · tells 2026-10-13
 Slug: english-ironstone · Aliases: ironstone china, Mason's, Masons Patent Ironstone, stone china, white ironstone, Imari ironstone, Japan pattern, chinoiserie plate, Regency, Mandalay, Johnson Bros Indies, Hall's ironstone, granite ware (ceramic)
 Summary: 20th-c. Mason's/Johnson Bros/Meakin tableware $8–40 per piece; 19th-c. Mason's/Ashworth Imari plates and jugs $30–120; early (1813–1840) Mason's large jugs, tureens and 19th-c. white ironstone tureens/pitchers $100–600.
 Buy rule (short): Buy only pre-1850 Mason's/Ashworth large pieces (jugs, tureens, platters) or 19th-c. white ironstone tureens and pitchers at ≤ $50; pass on 20th-c. plates and coffee sets.
@@ -64,7 +64,13 @@ Buy rule (short): Buy only pre-1850 Mason's/Ashworth large pieces (jugs, tureens
 - Heavy: plates 2–3 lb boxed, tureens 8–12 lb ($20–30). Double box.
 
 ## Selling it (for the buyer-facing listing)
-- Photograph the back-stamp, name the pattern, date by mark, note crazing/staining.
+- **Title words:** maker (Mason's/Ashworth/Johnson Bros/T&R Boote), "Patent Ironstone", pattern (Mandalay, Regency, Indies), form (Hydra jug/tureen/platter), colour ("Imari"), size, era by mark ("antique" only without "England"). Junk: "1800s" on England-marked pieces, "farmhouse" on Mason's, "set" for odd pieces. `Antique Mason's Patent Ironstone Hydra Jug Imari 8" Pre-1850 Impressed Mark`
+- **Where:** eBay BIN with offers for pre-1850 Mason's and white ironstone tureens (farmhouse-decor buyers); auction for early services; 20th-c. plates and coffee sets local or lotted.
+- **Price position:** 19th-c. Mason's plates at the sold median ($120, n=7), Hydra jugs/tureens $90–300, OBO, accept −15%; Johnson Bros sets at $25 median lotted; cut 10% at 45 days.
+- **Photos:** first: piece front; then backstamp (impressed vs printed, "England" visible or not), rim all round, handle and spout, interior, crazing/staining close-up, staple repairs, ruler.
+- **State:** maker, pattern, mark wording and dating, form, dimensions, weight, crazing/staining/chips/cracked handles by photo number, old staple repairs noted.
+- **Pack / haul:** plates 2–3 lb boxed, $12–15; tureens 8–12 lb, double box, $20–30.
+- **Quote to a buyer:** "[Mason's] impressed mark without 'England', so pre-1850, with the grey body and thick hand enamel — the 20th-century Mandalay plates sell for $15; the early large jugs are the $90–300 tier."
 
 ## Buy rule
 - Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$15–25) − ship to Dylan (~$15) − price ≥ max($50, price).

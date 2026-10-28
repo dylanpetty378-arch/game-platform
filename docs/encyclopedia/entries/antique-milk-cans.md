@@ -1,5 +1,5 @@
 # Antique milk cans (dairy transport cans: Cherry-Burrell, Buhl, Davis, Superior, Mojonnier, Sturges; dairy-stamped cans; copper/brass cream cans; hand-painted tole cans)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("antique milk cans" median $38 n=49, p25 $25 p75 $60; "hand-painted milk can" median $65 n=50, p25 $21.03 p75 $95, incl. "Vintage 10 gallon milk can hand painted farmhouse decor" $76.99 Aug 2026 and German 8-gallon painted $31.95; the "10-gallon milk can" query median $130 is polluted by powdered-milk listings and is unreliable). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("antique milk cans" median $38 n=49, p25 $25 p75 $60; "hand-painted milk can" median $65 n=50, p25 $21.03 p75 $95, incl. "Vintage 10 gallon milk can hand painted farmhouse decor" $76.99 Aug 2026 and German 8-gallon painted $31.95; the "10-gallon milk can" query median $130 is polluted by powdered-milk listings and is unreliable). No web search this run.
 Slug: antique-milk-cans · Aliases: milk can, cream can, milk churn, dairy can, 10 gallon can, farmhouse milk can, painted milk can
 Summary: Plain rusty 5–10 gal cans $25–60 (mostly local); hand-painted decor cans $30–100; embossed dairy-name cans and small cream cans (1–2 qt to 1 gal) $40–150; copper/brass and early tin cans more.
 Buy rule (short): Pass on full-size 5–10 gallon cans (25 in tall, 15–25 lb, $40+ to ship); only small embossed cream cans or copper cans at ≤ $20.
@@ -46,7 +46,13 @@ Named small-town dairy embossing; small cream cans; copper.
 10 gal: 25 × 13 in, 15–25 lb, $40–70. Small cans $12–20.
 
 ## Selling it (for the buyer-facing listing)
-Height, gallon size, lid present, rust/holes, embossing photos.
+- **Title words:** "milk can", gallon size, maker or embossed dairy name and town, "embossed", "with lid", "cream can" for small ones, "copper"/"brass", height, "farmhouse". Junk: "antique" on aluminum, "rustic decor" alone, "rare". `Antique 10 Gallon Milk Can Embossed [Dairy Name] Sturges Chicago with Lid 25"`
+- **Where:** FB Marketplace local for full-size cans (shipping $40–70 kills eBay); eBay BIN with offers for small cream cans, copper and embossed small-town dairy names.
+- **Price position:** plain cans at the sold median ($38) local, firm; painted decor $65 median; embossed/small/copper at $40–150 median, OBO, accept −15%. Cut 15% at 30 days.
+- **Photos:** first: can standing with lid on; then embossing/maker stamp close-up, lid off and seated, bottom for rust-through, dents, interior, painted decoration, tape for height.
+- **State:** height, gallon size, maker/dairy embossing transcribed, tin-plated steel vs aluminum vs copper, lid present and original, rust/holes/dents by photo number, paint original or decor.
+- **Pack / haul:** 10 gal: 25x13", 15–25 lb, $40–70 — pickup; small cans $12–20 boxed. Fits a passenger seat.
+- **Quote to a buyer:** "Embossed [Dairy, Town] [Sturges] can with its original lid, rolled seams, no rust-through — the plain rusty ones are $38; named small-town dairy cans are what collectors pay $40–150 for."
 
 ## Buy rule
 Profit = median × 0.87 − shipping both ways − price. Painted 10 gal ($65): 57 − 90 = loss. **Pass on full-size cans.** Small embossed cream can ($80) at ≤ $10: 70 − 30 − 10 = $30, still fails.

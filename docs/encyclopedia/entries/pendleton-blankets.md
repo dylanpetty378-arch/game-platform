@@ -1,5 +1,5 @@
 # Pendleton & trade blankets (Pendleton Woolen Mills, Hudson's Bay Company, Oregon City Woolen Mills, Cabin Craft)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist 1321 photos (pink satin-bound twin blanket, 1950s label); eBay sold pattern (knowledge 2024–25); Pendleton label dating guides
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: craigslist 1321 photos (pink satin-bound twin blanket, 1950s label); eBay sold pattern (knowledge 2024–25); Pendleton label dating guides
 Slug: pendleton-blankets · Aliases: Pendleton wool blanket, Indian blanket, camp blanket, trade blanket, Beaver State blanket, Hudson's Bay point blanket, Chief Joseph blanket
 Summary: Solid satin-bound bed blankets and moth-damaged pieces $30–70; modern jacquard Pendletons and used HBC 4-point $120–220; Beaver State-label trade blankets, Glacier Park, vintage HBC 6-point $250–500; Oregon City, Pendleton "Round Up" and pre-1920 labels $600–2,000.
 Buy rule (short): Buy jacquard Pendleton/HBC with a vintage label at ≤ $80 and no moth holes; pass solid satin-bound blankets over $25 and anything needing sewing.
@@ -48,7 +48,13 @@ The pattern name and the Beaver State / early labels; moth damage photos; size (
 3–6 lb, $15–20 each way. Fold into a poly bag inside a box. eBay/Etsy.
 
 ## Selling it (for the buyer-facing listing)
-State maker, pattern name, label (photo) and era, size in inches, weave (jacquard/stripe/solid), binding, condition (holes, stains, binding) with photos held to light. Title keywords: "Vintage Pendleton Beaver State Chief Joseph Wool Trade Blanket Jacquard Twin", "Hudson's Bay 6 Point Blanket".
+- **Title words:** "Pendleton" (or "Hudson's Bay") + "wool blanket" + pattern name (Chief Joseph, Harding) + label ("Beaver State") + "jacquard" + size (twin/queen, inches) + "vintage". Junk: "throw", "camp blanket", "Indian blanket". Example: `Vintage Pendleton Beaver State Chief Joseph Wool Trade Blanket Jacquard Twin`.
+- **Where:** eBay BIN with offers (steady Western/cabin decor demand; good jacquards sell readily); Etsy at the same price reaches decor buyers; fall–winter is the stronger season.
+- **Price position:** list at the sold median (Beaver State ~$169, modern jacquard/HBC 4-point $120–220, 6-point/Glacier Park $250–500); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) whole blanket flat, pattern full; then label close-up, binding/whipstitch edge, back side, held to window light for moth holes, any stain, tape measure on the width.
+- **State:** maker, pattern name, label text and era, size in inches, weave (jacquard/stripe/solid), binding type, wool content, odour-free, holes/stains/binding wear by photo number.
+- **Pack / haul:** 3–6 lb; fold into a poly bag, 16×12×8 box, 4–6 lb class, $15–20; no double box needed.
+- **Quote to a buyer:** "This carries the [Beaver State / Round Up] label, the [1920s–60s] trade-blanket era, pattern [Chief Joseph]; vintage labelled jacquards sell for [$X] and a new Pendleton Chief Joseph retails well over that — no moth damage, photo [5] shows it held to light."
 
 ## Buy rule
 Buy when: jacquard Pendleton/HBC with vintage label ≤ $80 and no moth holes. Pass when: solid satin-bound over $25, or binding/holes need sewing. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (folded, it does).

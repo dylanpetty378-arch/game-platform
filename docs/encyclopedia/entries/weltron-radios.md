@@ -1,5 +1,5 @@
 # Weltron space-ball radios / 8-tracks (Weltron 2001, 2005, 2007)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: historictech.com (2001 retailed $160 in 1970; "still quite common"); 1stdibs Weltron creator page (asks $800–1,500); antiqueradio.org welt01; run12 sheet 56
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: historictech.com (2001 retailed $160 in 1970; "still quite common"); 1stdibs Weltron creator page (asks $800–1,500); antiqueradio.org welt01; run12 sheet 56
 Slug: weltron-radios · Aliases: Weltron 2001, space ball radio, space helmet radio, 8-track radio, atomic radio, space age radio, Weltron 8 track AM/FM
 Summary: Dead/cracked/yellowed $80–150; working white 2001 $200–300; working coloured 2001 $350–600; 2005 with turntable, 2007 TV, boxed $800–1,500 (asks).
 Buy rule (short): Buy working coloured units under $150 (white only far under $90 — see note); pass white at $150+.
@@ -52,9 +52,13 @@ They rarely miss it ("space ball" is in every listing). Margin only on dead-chea
 ~10 lb, 16" cube, fragile ABS – $35–50 each way, double box.
 
 ## Selling it (for the buyer-facing listing)
-State model (2001/2005/2007), colour, working status of AM, FM and 8-track separately, yellowing, cracks, battery
-compartment condition, base/antenna present. Photograph all sides, the face, the base and the battery compartment;
-video of it playing. Title: "Weltron 2001", colour, "space ball", "8-track AM/FM", "working", "space age".
+- **Title words:** "Weltron 2001" (or 2005/2007) + colour + "space ball" + "8-track AM/FM" + "working" + "space age"; Junk: "retro radio", "sphere", "untested" if avoidable, "Bluetooth" (not a Weltron). Example: `Weltron 2001 Space Ball AM/FM 8-Track Radio Orange Working 1970s Space Age`.
+- **Where:** eBay BIN with offers (space-age decor and retro audio buyers); 1stdibs/Chairish only for coloured or 2005/2007 asks; local mid-century shops take whites. eBay is the market; 1stdibs asks ($900) overstate.
+- **Price position:** at the sold median (working white $250–350; working coloured $350–600; dead/cracked $80–150), accept −15%, floor p25; OBO; cut 10% after 3 weeks (whites are common).
+- **Photos:** first photo the sphere face-on, lid open; then every side, base and stand, battery compartment (corrosion), 8-track slot, dial and controls, yellowing against a white card, any cracks; video of AM, FM and 8-track playing.
+- **State:** model, colour, AM / FM / 8-track working status stated separately, yellowing, cracks, battery-compartment condition, base and antenna present, scratchy controls, flaws by photo number.
+- **Pack / haul:** ~10 lb, 16" cube; double-box, remove the base, immobilize the lid, 2" fill all round; $35–50. Carry-on size for local.
+- **Quote to a buyer:** "Weltron 2001 in [orange] — the coloured ones are 1.5–2× the white — AM, FM and 8-track all play (video), [no cracks, light yellowing]; working coloured units sell [$350–600]."
 
 ## Buy rule
 Buy when: working coloured unit under $150, or white under $90. Pass when: white at $150+ (6727 math: $300 × 0.87 − $180 −

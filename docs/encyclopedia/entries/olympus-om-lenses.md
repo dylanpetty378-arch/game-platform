@@ -1,5 +1,5 @@
 # Olympus OM Zuiko lenses (Olympus; also Minolta MC/MD Rokkor & Celtic, Yashica ML, Pentax K/Takumar, Canon FD, store brands)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: kamerastore.com – OM 35mm f/2.8 Shift average certified price €369 (2026); knowledge of eBay sold ranges for common Zuikos, Minolta MC/MD, Yashica ML, JC Penney/store brands
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: kamerastore.com – OM 35mm f/2.8 Shift average certified price €369 (2026); knowledge of eBay sold ranges for common Zuikos, Minolta MC/MD, Yashica ML, JC Penney/store brands
 Slug: olympus-om-lenses · Aliases: Olympus lens, Zuiko lens, OM-System Zuiko, OM mount lens, Minolta Rokkor, manual focus SLR lens
 Summary: 50/1.8, 28/3.5, store-brand zooms and fungus-affected lenses $15–40; OM 24/2.8, 85/2, 100/2.8, 200/4 and Minolta 58/1.4 $60–150; OM 35 Shift, 90/2 macro, 24/2, 21/3.5, Minolta 58/1.2 $250–500; OM 250/2, 350/2.8, 180/2 $1,500+.
 Buy rule (short): Buy collectible-tier lenses with clean glass under 40% of sold; pass fungus and sellers who already name the lens at near-market.
@@ -48,7 +48,13 @@ Which Zuiko it is – they write "Olympus lens". Also "Celtic" vs "Rokkor" for M
 Under 1 lb, $8–10. Caps on both ends, bubble in a small box. eBay (13%) or KEH/MPB trade-in as a floor.
 
 ## Selling it (for the buyer-facing listing)
-State focal length, aperture, version (Auto-/MC/serial), mount, glass condition (back-lit photo), aperture and focus action, caps/hood. Title keywords: "Olympus OM Zuiko Shift 35mm f/2.8 manual focus lens", "Minolta MC Rokkor-PG 58mm f/1.2".
+- **Title words:** "Olympus OM Zuiko" (or "Minolta MC Rokkor") + focal length + max aperture + version (Auto-S / MC / Shift / Macro) + "manual focus lens" + "clean glass". Junk: "Olympus lens", "vintage camera lens", "as is". Example: `Olympus OM-System Zuiko Shift 35mm f/2.8 Manual Focus Lens Clean Glass Caps`.
+- **Where:** eBay BIN with offers (adapters and film shooters search by focal length; specialty lenses sell in days); KEH/MPB trade-in is the floor, never the ceiling.
+- **Price position:** list at the sold median for the exact lens (90/2 macro ~$495, 35 Shift ~$350–400, 85/2 and 24/2.8 $60–150); accept −10%, floor −20%; OBO; fungus copies list at half; cut 10% after 21 days.
+- **Photos:** 1) front with the name ring readable; then rear element, back-lit through the glass (torch) for fungus/haze, aperture blades stopped down, focus ring and barrel, filter threads, caps/hood, serial.
+- **State:** focal length, aperture, version (Auto-/MC, silver or black nose), serial, mount, glass clean/haze/fungus/scratches, aperture snappy and dry, focus smooth, filter thread condition, caps/hood/case included, flaws by photo number.
+- **Pack / haul:** under 1 lb; caps both ends, bubble-wrapped in a 6×6×6 box, under-1-lb class, $8–10.
+- **Quote to a buyer:** "This is the Zuiko [90mm f/2 Macro / 35mm Shift], one of the OM lenses collectors chase; clean copies have sold for [$X] in the last year and fungus copies go for half — this one is back-lit clear in photo [3]."
 
 ## Buy rule
 Buy when: a collectible-tier lens, clean glass, under 40% of sold price. Pass when: fungus noted, or seller already names the lens at near-market. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).

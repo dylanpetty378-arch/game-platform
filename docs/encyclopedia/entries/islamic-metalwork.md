@@ -1,5 +1,5 @@
 # Islamic metalwork (Persian Safavid/Qajar bronze and tinned copper, Ottoman/Turkish tombak and copper, Mamluk Revival "Cairoware", Moroccan and Indian brass, Arabian dallah coffee pots)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("islamic bronze bowl engraved calligraphy", n=3, median $175, pulled 2026-10-13); general knowledge, no web search this run (verify against: https://www.metmuseum.org/toah/hd/ilmt/hd_ilmt.htm , https://www.vam.ac.uk/collections/islamic-middle-east , https://www.liveauctioneers.com search "Persian bronze bowl", https://www.worthpoint.com search "Qajar bowl")
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("islamic bronze bowl engraved calligraphy", n=3, median $175, pulled 2026-10-13); general knowledge, no web search this run (verify against: https://www.metmuseum.org/toah/hd/ilmt/hd_ilmt.htm , https://www.vam.ac.uk/collections/islamic-middle-east , https://www.liveauctioneers.com search "Persian bronze bowl", https://www.worthpoint.com search "Qajar bowl")
 Slug: islamic-metalwork · Aliases: Persian brass bowl, Middle Eastern bowl, Arabic calligraphy bowl, Qajar bowl, Safavid bowl, tinned copper bowl, Turkish copper, Ottoman tray, Damascus brass, Cairoware, Moroccan brass tray, dallah, Arabic coffee pot, Bedouin coffee pot, ewer, aftaba, hammam bowl, magic bowl, tas
 Summary: Tourist brass (trays, modern dallahs, Moroccan and Indian ware) $15–60; 19th-century Qajar/Ottoman tinned copper and engraved brass bowls $60–250; good Safavid-type bronze bowls, Mamluk-Revival silver-inlaid pieces and early "magic" bowls $250–1,500+ (auction).
 Buy rule (short): Buy only heavy cast-bronze or tinned-copper bowls with crisp hand-cut calligraphy and real wear at ≤ $60 when resale ≥ $175; pass on tourist brass, thin spun trays and modern dallahs.
@@ -77,9 +77,13 @@ Buy rule (short): Buy only heavy cast-bronze or tinned-copper bowls with crisp h
 - Dallahs: protect spout and finial; 5–8 lb boxed.
 
 ## Selling it (for the buyer-facing listing)
-- State material (bronze vs brass vs tinned copper), weight, diameter and height, and photograph the base, inscription band in full and any inscription under the rim.
-- Describe as "Persian/Middle Eastern, probably 19th century" unless documented; do not claim Safavid or Seljuk.
-- Disclose rim nicks, cracks and repairs; say the patina is untouched.
+- **Title words:** origin ("Persian", "Ottoman", "Middle Eastern"), material (bronze, brass, tinned copper, tombak), form (bowl, tray, dallah, ewer), "engraved calligraphy", "19th century" only when supported, "Cairoware"/"silver inlay" if so, diameter. Junk: "Safavid", "Seljuk", "antique" on Moradabad tourist brass, "rare". `Antique Persian Engraved Bronze Bowl Calligraphy Band 19th Century 7 in Qajar`
+- **Where:** eBay BIN with offers (diaspora and decorator buyers; 2–6 weeks); Cairoware with good inlay, signed dallahs and Safavid-type bowls sell for more at a regional auction (LiveAuctioneers/Invaluable).
+- **Price position:** at the sold median (engraved calligraphy bronze bowls $175, Persian brass bowls $25, dallahs $28, Safavid-type tinned copper $580), OBO, accept −20%, floor $15; cut after 6 weeks; tourist brass lot up.
+- **Photos:** bowl straight-on; base (owner inscriptions, Hijri dates); full inscription band unrolled in 3–4 shots; under-rim inscription; interior; rim nicks and cracks; piece on a scale; ruler for diameter.
+- **State:** material (bronze vs brass vs tinned copper), weight, diameter and height, "Persian/Middle Eastern, probably 19th century" unless documented, inscriptions and dates, patina untouched, rim nicks, cracks, repairs, inlay losses by photo number.
+- **Pack / haul:** bowls double-boxed 3–4 lb $12–18, rim padded so it can't flex; dallahs 5–8 lb with spout and finial protected; shoebox class.
+- **Quote to a buyer:** "This is a [high-tin bronze] bowl with a [full calligraphy band] and an [owner's Hijri date], probably 19th-century [Qajar]; engraved calligraphy bowls sell for $[120–250], and the thin Moradabad tourist brass is $15."
 
 ## Buy rule
 - Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$15) − ship to Dylan (~$15) − price ≥ max($50, price).

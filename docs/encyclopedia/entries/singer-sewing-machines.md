@@ -1,5 +1,5 @@
 # Singer sewing machines (221/222 Featherweight, 15-91, 201, 301, 500 Rocketeer, 66, 99)
-Updated: 2026-10-08 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only; full research still to do); remaining sections from general knowledge · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only; full research still to do); remaining sections from general knowledge · tells 2026-10-13
 Slug: singer-sewing-machines · Aliases: Singer Featherweight, Singer 221, Singer 222K, Singer 15-91, Singer 201, Singer 301, Singer Rocketeer, vintage sewing machine, treadle sewing machine, Singer head
 Summary: 221 Featherweight $250–400 (median ~$335); 15-91 head $75–150; 500 Rocketeer $100–200; common 66/99/201 $40–100.
 Buy rule (short): Featherweight only under ~$120; 15-91 under $40; everything else pass unless free.
@@ -78,7 +78,13 @@ Model numbers on full-size heads: a 15-91 or 201 gets listed as "old Singer". Fe
 Featherweight in case ~15–17 lb shipped, $30–45. Pack the head out of the case or blocked inside it so it cannot shift. Full-size heads 30–40 lb shipped cost $50–80 and are prone to cracking cast parts. Treadles and cabinets are not shippable and are excluded (general knowledge, verify).
 
 ## Selling it (for the buyer-facing listing)
-Title: "Singer [model] [year from serial] Sewing Machine [Featherweight/head] Serviced Sews". State the serial and year, that it was tested sewing, the motor and foot controller condition, the accessories included, decal condition, and whether it was serviced or rewired. Photograph the decals, bed, serial, bobbin area and case.
+- **Title words:** "Singer" + model (221 Featherweight, 15-91, 201, 301, 500 Rocketeer) + year from serial + "sewing machine" + "serviced"/"sews" + "with case/attachments". Junk: "antique Singer", "old sewing machine", "untested". Example: `Singer 221 Featherweight 1951 Centennial Sewing Machine Serviced Sews Case Attachments`.
+- **Where:** eBay BIN with offers for Featherweights (quilters; sells quickly; Etsy and FB quilting groups match it with lower fees); full-size heads sell best FB local because of 30–40 lb shipping.
+- **Price position:** list at the sold median (221 ~$335, 15-91 head $75–150, Rocketeer $100–200, 66/99/201 $40–100); accept −10%, floor −20%; OBO; cut 10% after 30 days; winter is quilting season.
+- **Photos:** 1) machine three-quarter on the bed, decals facing camera; then serial plate, decals close-up, bobbin area, motor and foot controller, case inside and out, attachments in the green box, manual; video of it sewing a seam.
+- **State:** model, serial and year, tested sewing, motor and controller condition, serviced/rewired or not, decal condition, case and key, attachments and manual listed, flaws by photo number.
+- **Pack / haul:** Featherweight in case 15–17 lb, head blocked so it cannot shift (or packed out of the case), double-boxed, 15–20 lb class, $30–45; full-size heads 30–40 lb, $50–80, cast parts crack, so local.
+- **Quote to a buyer:** "A [1951 Centennial] 221 Featherweight, serial [X], serviced and sewing in the video with the case and [attachments/manual] — the quilter's machine; complete serviced 221s sell for [$X] and the white 221K/222K go higher."
 
 ## Buy rule
 Buy when: a Featherweight is under ~$120, or a 15-91 is under $40. Pass when: everything else, unless free. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat: portables and heads do; treadles and cabinet machines are bigger and excluded.

@@ -1,5 +1,5 @@
 # Japanese porcelain figurines (Made in Japan / Occupied Japan export; Lefton, Napco, Enesco, Erich Stauffer (Arnart), Inarco, Norcrest, Ucagco, Relco, Kreiss, Holt Howard, Josef-style)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Lefton Collectors Club / Loretta DeLozier, "Collector's Encyclopedia of Lefton China"; Occupied Japan Club https://www.ojclub.com/ ; Arnart Imports / Erich Stauffer background from collector sites) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (references: Lefton Collectors Club / Loretta DeLozier, "Collector's Encyclopedia of Lefton China"; Occupied Japan Club https://www.ojclub.com/ ; Arnart Imports / Erich Stauffer background from collector sites) — prices are estimates (general knowledge, verify)
 Slug: japanese-porcelain-figurines · Aliases: made in Japan figurine, Occupied Japan, Lefton, Napco, Erich Stauffer, Hummel-style figurine, Arnart, shoe planter, porcelain shoe, bisque figurine, Kreiss, Holt Howard
 Summary: Common 1950s–70s Made-in-Japan shoes, animals, Hummel-alikes $5–25; Erich Stauffer large figurines $15–40; Lefton named lines (Christmas, Bluebird, angels) $15–60; Occupied Japan bisque couples $15–60; Holt Howard, Kreiss Psycho-Ceramics, Napco planter heads $40–300+.
 Buy rule (short): Only buy lady head vases/planters (Napco, Inarco, Relpo) with lashes and pearls, Kreiss Psycho-Ceramics and Holt Howard pixies at ≤ 30% of median; pass ordinary figurines.
@@ -52,7 +52,13 @@ Head vases priced as "vase"; Holt Howard pixie jars mixed with kitchen junk.
 Light (1–2 lb), fragile; $10–15.
 
 ## Selling it (for the buyer-facing listing)
-Maker/label, model number, height, damage check (flowers, fingers), photos of mark.
+- **Title words:** maker (Lefton/Napco/Inarco/Erich Stauffer/Holt Howard/Kreiss), line or item (lady head vase/pixie/Psycho-Ceramics/Barnyard Frolics), model number, "Made in Japan"/"Occupied Japan", height, "foil label". Junk: "Hummel" for Stauffer, "antique", "rare", "cute". `Napco Lady Head Vase 6" Lashes Pearls Blue Hat C3815 Japan 1959`
+- **Where:** eBay BIN with offers for head vases, Holt Howard and Kreiss (the liquid lines); Etsy for Lefton Christmas and Bluebird; shoes/animals/Stauffer lotted local.
+- **Price position:** head vases/Holt Howard/Kreiss at the sold median ($40–300 by size and lashes), accept −15%; Lefton named lines $15–60, OBO; Stauffer at $25 median, shoes $8 — lot them. Cut 10% at 45 days.
+- **Photos:** first: figure front; then base mark and foil label, model number, applied flowers and fingers close-up, gold trim, lashes and pearls on head vases, crazing, repaired head joints, ruler.
+- **State:** maker/label, model number, height, country mark, chips on flowers/fingers, worn gold, crazing, repairs by photo number; label intact noted.
+- **Pack / haul:** 1–2 lb, fragile; boxed with flowers and lashes padded, $10–15.
+- **Quote to a buyer:** "[Napco C3815] head vase, [6"], lashes and pearls intact with the foil label — the generic Japan figurines go for $8; the lashed head vases are what collectors pay $50–300 for."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$12 ship out − ~$12 ship in − price ≥ max($50, price). Only head vases, Holt Howard and Kreiss qualify, at very low prices. Fits a passenger seat. No authentication.

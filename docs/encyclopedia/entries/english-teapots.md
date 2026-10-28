@@ -1,5 +1,5 @@
 # English Teapots (James Sadler, Arthur Wood, Price Kensington, Wade, Royal Albert, Wedgwood, Minton, Shelley)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak rows in db/comps.jsonl; Sadler history (general knowledge: James Sadler & Sons, Burslem, 1899–2000, brand to Churchill)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); no Terapeak rows in db/comps.jsonl; Sadler history (general knowledge: James Sadler & Sons, Burslem, 1899–2000, brand to Churchill)
 Slug: english-teapots · Aliases: English teapot, Staffordshire teapot, Sadler teapot, brown betty, chintz teapot, novelty teapot, racing car teapot, cottage ware teapot
 Summary: mass Staffordshire earthenware (Sadler, Arthur Wood) $20–45; chintz/Royal Albert/Shelley bone china $50–150; Sadler racing car / Clarice Cliff / Shelley Art Deco $100–600+ (general knowledge, verify)
 Buy rule (short): Pass on floral Sadler/Arthur Wood pots above ~$10; hunt novelty Sadler (racing car OKT42), Clarice Cliff, Shelley, chintz (Royal Winton) and Art Deco shapes priced as "grandma's teapot".
@@ -47,7 +47,13 @@ Shelley/Clarice Cliff marks underneath unremarkable-looking teapots; Sadler raci
 Double box, lid wrapped separately, bubble-wrapped spout. 2–4 lb packed; $12–18.
 
 ## Selling it (for the buyer-facing listing)
-Maker and backstamp photo, capacity (cups), dimensions, condition of gilt, any crazing, lid fit.
+- **Title words:** maker (Sadler/Shelley/Royal Albert/Clarice Cliff), pattern or shape name, "teapot", "bone china"/"Staffordshire", capacity (cups), "Art Deco"/"chintz" where true. Junk: "grandma's", "cute", "English tea". `James Sadler OKT42 Racing Car Teapot Green Staffordshire 1930s`
+- **Where:** eBay BIN with offers for everything; Replacements for complete-pattern Royal Albert; FB local only for floral Sadler under $25.
+- **Price position:** floral Sadler at the sold median ($24), OBO, cut 15% at 30 days; novelty/Deco at p75 (racing car $100), firm for 3 weeks then −10%.
+- **Photos:** first: front three-quarter with lid on; then backstamp, spout tip, lid flange and inside rim, handle joints, interior for staining, crazing close-up under light.
+- **State:** maker, backstamp wording, pattern, capacity, height, earthenware vs bone china, gilt condition, crazing, lid fit and pattern match, any chips/hairlines by photo number.
+- **Pack / haul:** double box, lid wrapped separately, spout bubble-wrapped; 2–4 lb packed, $12–18.
+- **Quote to a buyer:** "[Sadler] [OKT42 racing car] from the [1930s], backstamped and original lid — floral Sadler pots sell for $25; this novelty shape is the one collectors chase."
 
 ## Buy rule
 Profit ≥ max($50, price). A $35 floral Sadler nets negative at any price above $0. Buy only Tier High/Top pieces under ~$60. Fits easily.

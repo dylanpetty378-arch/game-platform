@@ -1,5 +1,5 @@
 # Bakelite and mid-century tube radios (Zenith, Philco, RCA, Emerson, Motorola; Catalin)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); filled from general knowledge in the 2026-10-13 upgrade (verify)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); filled from general knowledge in the 2026-10-13 upgrade (verify)
 Slug: bakelite-and-mid-century-radios · Aliases: tube radio, bakelite radio, vintage table radio, Zenith radio, Philco radio, AM/FM radio, Catalin radio, transistor radio (different era)
 Summary: Zenith H725-type $70–130 working, $30–60 untested; common brown bakelite sets low; coloured Catalin sets are the high tier (general knowledge, verify).
 Buy rule (short): Pass brown bakelite > $40 and anything untested.
@@ -47,7 +47,13 @@ unknown – research needed. Likely candidates (general knowledge, verify): Cata
 General knowledge, verify: 5–10 lb packed; bakelite cracks if dropped – double-box with foam; ~$20–30 to ship.
 
 ## Selling it (for the buyer-facing listing)
-State brand and model number (from the label), bands (AM/FM), working status and any restoration (recap, new tubes), cabinet cracks/chips, original knobs and back. Photograph front, back with label, chassis, dial, and any cracks. Keywords: brand + model + "tube radio" + "bakelite" + "working" + decade.
+- **Title words:** brand + model number + "tube radio" + "bakelite" (or "Catalin" + colour) + "working"/"recapped" + decade + bands: "Zenith H725 AM/FM", "Trans-Oceanic H500"; Junk: "antique radio", "retro", "untested" if it works, "plastic radio" on a Catalin. Example: `Zenith H725 Bakelite Tube Radio AM/FM 1951 Working Recapped Original Knobs`.
+- **Where:** eBay BIN with offers for working/recapped sets, Trans-Oceanics and anything Catalin/Art Deco; untested brown bakelite local (decor and hobby restorers). Local beats eBay under $60.
+- **Price position:** at the sold median (Zenith H725-type working $70–130, untested $30–60; Trans-Oceanic $50, p75 $100; Catalin: unknown — research before pricing), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo front, dial lit if it works; then back with the model label, chassis (recap evidence), dial glass, each knob, every corner and handle for cracks, speaker grille; video of it playing a station.
+- **State:** brand, model number from the label, bands, working status and restoration (recapped, new tubes) or untested with a warning not to plug in, cabinet cracks/chips by photo number, knobs and back original, hum.
+- **Pack / haul:** 5–10 lb; bakelite cracks if dropped — remove knobs if loose, double-box with foam, 2" fill; $20–30; carry-on size.
+- **Quote to a buyer:** "Zenith [H725], [1951], recapped and playing both bands (video), cabinet uncracked with original knobs — untested ones are [$30–60], working ones [$70–130], and this one's done."
 
 ## Buy rule
 Buy when: unknown until researched – only a working, restored set well under $40, or a coloured Catalin set (verify). Pass when: brown bakelite > $40 and anything untested. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (table radios do; console radios are bigger and excluded).

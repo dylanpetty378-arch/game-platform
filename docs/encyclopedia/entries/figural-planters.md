@@ -1,5 +1,5 @@
 # Figural planters (Shawnee, McCoy, Hull, Royal Copley, Napco/Inarco lady head vases, Relpo, Lefton, Napcoware, Japanese export, Holland Mold hobby ceramics)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("figural planters" median $14.65 n=49 — query polluted with Mini Verse toys; "ceramic granny utensil holder planter" median $2.99 n=4: $10 Aug 16 2026, $2.99 Mar 21 2026, $20 Jul 5 2026, $0.99 Apr 12 2026); general knowledge of mid-century American pottery and head-vase market (verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("figural planters" median $14.65 n=49 — query polluted with Mini Verse toys; "ceramic granny utensil holder planter" median $2.99 n=4: $10 Aug 16 2026, $2.99 Mar 21 2026, $20 Jul 5 2026, $0.99 Apr 12 2026); general knowledge of mid-century American pottery and head-vase market (verify). No web search this run.
 Slug: figural-planters · Aliases: head vase, lady head vase, figural vase, kitsch planter, granny planter, utensil holder, baby planter, animal planter, Shawnee planter, McCoy planter
 Summary: Hobby-ceramic and souvenir figurals $3–20; McCoy/Shawnee/Hull/Royal Copley animal and figural planters $15–60; 1950s–60s Japanese lady head vases (Napco, Inarco, Relpo, Lefton) $40–250, large with jewellery and lashes $150–400.
 Buy rule (short): Pass on hobby/ceramics-class figures; buy lady head vases with eyelashes/pearl earrings at ≤ $25 and marked Shawnee/McCoy figurals at ≤ $10.
@@ -50,7 +50,13 @@ Head vases at estate sales priced as "planters"; Japanese labels on the base; Sh
 1–3 lb, fragile, double-box $10–14.
 
 ## Selling it (for the buyer-facing listing)
-Base marks, height, close-ups of lashes/jewellery/hair, note any paint loss.
+- **Title words:** maker (Napco, Inarco, Relpo, Lefton, McCoy, Shawnee, Royal Copley), item ("lady head vase", figural planter), subject (lady with lashes, dog, bird), model number, height, "Japan", "1950s". Junk: "antique", "rare" on hobby ceramics, "McCoy" unmarked. `Vintage Napco Lady Head Vase Eyelashes Pearl Earrings 6 in C3307 Japan 1959`
+- **Where:** eBay BIN with offers (head vase collectors are steady and fast for nice ones); granny/kitsch and hobby ceramics FB local or lots.
+- **Price position:** at the sold median (Napco head vases with lashes $37, small 4–5 in. $30–80, 7 in.+ with jewellery $100–400, McCoy/Shawnee/Copley $15–60, grannies $1–20), OBO, accept −20%, floor $8; cut after 30 days.
+- **Photos:** face straight-on; base marks and labels; lashes, jewellery and hair close-up; back of head; rim for chips; paint loss close-up; ruler for height.
+- **State:** maker and base marks, model number, height, lashes and jewellery intact, paint loss, chips, crazing, hairlines, repairs by photo number.
+- **Pack / haul:** 1–3 lb, fragile — double-box with lashes and jewellery padded, $10–14; shoebox class.
+- **Quote to a buyer:** "This is a marked [Napco] [1959] head vase, [6 in], with [original lashes and pearl earrings] intact; marked Napco heads sell for $[30–80], big jewelled ones $100 up."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$12 ship to buyer − ~$12 ship to Dylan − price ≥ max($50, price). Needs resale ≥ ~$95 — only large lady head vases with lashes and jewellery at ≤ $25. Pass on hobby ceramics and kitchen grannies.

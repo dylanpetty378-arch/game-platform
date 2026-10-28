@@ -1,5 +1,5 @@
 # Vintage auto accessories (trunk/ski racks, luggage racks, spotlights, hood ornaments, tissue dispensers, dealer accessories; makers Barecos, Sears Allstate, J.C. Whitney, Unity, Appleton, Moto Meter, Thule/Barrecrafters)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Verify with eBay sold ("vintage trunk ski rack", "Unity spotlight", "hood ornament") and https://www.worthpoint.com.
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Verify with eBay sold ("vintage trunk ski rack", "Unity spotlight", "hood ornament") and https://www.worthpoint.com.
 Slug: auto-accessories · Aliases: ski rack, trunk rack, luggage rack, car spotlight, accessory hood ornament, dealer accessory, NOS accessory, Allstate accessory
 Summary: Generic racks and clip-on accessories $10–40; NOS in-box dealer accessories and period trunk racks for classic cars $40–150; Unity/Appleton spotlights, Lalique-era mascots and original radiator caps $100–2,000+.
 Buy rule (short): Pass on generic racks; buy only boxed NOS dealer accessories, chrome spotlights or pre-1950 mascots under ~$40 that fit the seat.
@@ -42,7 +42,13 @@ NOS GM/Ford dealer accessories in garage boxes; Moto Meter caps; vintage hood ma
 Racks are awkward (~24×20"), light; $20–35. Chrome items need padding.
 
 ## Selling it (for the buyer-facing listing)
-State fitment (trunk-lid type), maker, hardware completeness, rubber condition.
+- **Title words:** item + maker + fitment + era + "NOS" if boxed: "Unity spotlight", "Barrecrafters trunk ski rack 1960s", "Moto Meter radiator cap", "Lalique [name] car mascot", "NOS GM dealer accessory [part number]"; Junk: "car part", "vintage auto lot", "man cave". Example: `Vintage Unity Mfg Chrome Spotlight Driver Side Complete Bracket 1950s Hot Rod`.
+- **Where:** eBay BIN with offers (classic-car buyers search by model and part number; spring is stronger); generic racks local. Glass mascots need authentication before listing high.
+- **Price position:** at the sold median (generic racks $10–40; period accessory/NOS small parts $40–150; Unity/Appleton/Moto Meter $80–300; Lalique mascot $175, p75 $239), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the item assembled, three-quarter; then maker stamp/part number, every clamp and strap, rubber feet (perished?), chrome pitting, box and label for NOS, mounted or offered up to a trunk lid for fitment.
+- **State:** fitment (trunk-lid type/model), maker, part number, hardware completeness, rubber condition, pitting/re-chrome, NOS box, repro check for mascots and ornaments, flaws by photo number.
+- **Pack / haul:** racks ~24×20" light but awkward, disassembled and bundled ($20–35); chrome items padded; spotlights double-boxed. Passenger-seat size.
+- **Quote to a buyer:** "[Unity] spotlight, [1950s], complete with the original bracket and handle — the one hot-rodders hunt; chrome [bright, light pitting on the base]; these sell [$80–300] and the repros don't carry the Unity stamp."
 
 ## Buy rule
 Generic racks (~$25 sold) never clear $50. Buy only NOS boxed accessories with part numbers or chrome spotlights at ≤ $40 where sold median ≥ $130.

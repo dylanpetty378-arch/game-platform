@@ -1,5 +1,5 @@
 # Christmas dinnerware (Spode Christmas Tree, Waechtersbach, Lenox Holiday, Johnson Bros)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings Oct 2026 (Waechtersbach Christmas Tree plates, asking); eBay sold memory 2025
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay listings Oct 2026 (Waechtersbach Christmas Tree plates, asking); eBay sold memory 2025
 Slug: christmas-dinnerware · Aliases: Christmas dishes, holiday china set, Xmas plates, Christmas tree plates, holiday dinnerware, Spode Christmas Tree, Waechtersbach Christmas
 Summary: Pfaltzgraff/unbranded stoneware sets $20–40; Waechtersbach 20-pc or Spode 4-place $60–120 ($8–15 per dinner plate); Spode servers, Lenox Holiday full sets, Waechtersbach serving pieces $100–300; Spode 40+ pc service $300–600 (local only).
 Buy rule (short): Buy Spode/Waechtersbach/Lenox sets ≤ $25 locally or serving pieces ≤ $15 each; pass anything that means shipping a full plate set.
@@ -48,7 +48,13 @@ Brand – listed as "Christmas dishes $40". Serving pieces (Spode tureen, 3-tier
 A 20-pc set is 20+ lb and fragile – $35–50 to ship and 30 min packing. Sell local (FB Marketplace, no fee) or part out servers on eBay. Double-box serving pieces.
 
 ## Selling it (for the buyer-facing listing)
-Maker, pattern name, backstamp country, piece count and list, sizes, chips/crazing/gold wear. Photograph the backstamp, each serving piece, a stacked plate shot. List in October–November. Title: "Spode Christmas Tree [piece] England" etc.
+- **Title words:** maker + pattern + piece + country ("Spode Christmas Tree", "Waechtersbach", "Lenox Holiday") + "England"/"W. Germany" + size or piece count; Junk: "Christmas dishes", "holiday plates set", "xmas". Example: `Spode Christmas Tree Covered Tureen England Backstamp Serving Piece`.
+- **Where:** eBay for serving pieces (tureens, cake plates, 3-tier servers, punch bowls) BIN with offers; full sets local on FB Marketplace (heavy, no fee). Replacements Ltd sets the retail ceiling.
+- **Price position:** at the sold median per piece ($8–15 a dinner plate; Spode tureen median $89; sets $60–120); accept −15%, floor p25; OBO; list October–November, cut 20% in December, pull in January.
+- **Photos:** first photo the piece straight on in daylight; then backstamp (country), rim close-ups for chips, gold-trim wear, stacked plate shot with count, each serving piece, any crazing under raking light.
+- **State:** maker, pattern, backstamp country, piece list and count with sizes, chips/crazing/gold wear by photo number, dishwasher use if known.
+- **Pack / haul:** 20-pc set 20+ lb and fragile ($35–50, 30 min packing) — sell local; serving pieces double-boxed, 3–6 lb each; a set fits a passenger seat.
+- **Quote to a buyer:** "[Spode Christmas Tree] [tureen] with the England backstamp — the pre-2009 English production — Replacements lists this piece at [$X]; no chips, gold intact."
 
 ## Buy rule
 Buy when: Spode/Waechtersbach/Lenox set ≤ $25 locally, or serving pieces ≤ $15 each. Pass when: must ship a full plate set – margin is gone. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (a boxed 20-pc set does).

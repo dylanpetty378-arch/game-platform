@@ -1,5 +1,5 @@
 # Tribal and village area rugs (Pakistani Bokhara/Jaldar, Afghan Turkoman, Persian tribal (Qashqai, Baluch, Hamadan, Shiraz), Turkish Anatolian (Konya, Yahyali, Milas), Caucasian (Kazak, Shirvan), Moroccan Beni Ourain/Boucherouite, Navajo, Indian Agra/Jaipur copies, machine-made look-alikes)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Rugrabbit dealer archive https://rugrabbit.com ; Jerry Silverman/Hali rug identification guides; Skinner/Bonhams/Material Culture rug auction results; eBay sold search https://www.ebay.com/sch/i.html?_nkw=hand+knotted+bokhara+rug+2x3&LH_Sold=1 . Related comps in comps.jsonl: "needlepoint rugs" median $7.58 n=50, "Aubusson-style needlepoint rug" median $150 n=49 (p25 99, p75 500), Terapeak 365d, 2026-10-13 — no rows for knotted tribal rugs.
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Rugrabbit dealer archive https://rugrabbit.com ; Jerry Silverman/Hali rug identification guides; Skinner/Bonhams/Material Culture rug auction results; eBay sold search https://www.ebay.com/sch/i.html?_nkw=hand+knotted+bokhara+rug+2x3&LH_Sold=1 . Related comps in comps.jsonl: "needlepoint rugs" median $7.58 n=50, "Aubusson-style needlepoint rug" median $150 n=49 (p25 99, p75 500), Terapeak 365d, 2026-10-13 — no rows for knotted tribal rugs.
 Slug: tribal-area-rugs · Aliases: oriental rug, Persian rug, handmade rug, hand knotted rug, wool rug, Bokhara, Bukhara, Turkoman, Afghan rug, Baluch, Turkish rug, Anatolian rug, kilim, Kazak, prayer rug, tribal rug, mat, runner, area rug
 Summary: Small Pakistani Bokharas, Indian copies, machine-made "oriental" rugs and kilim mats $20–80; good tribal Persian/Afghan/Turkish rugs 3x5–4x6 in good condition $80–400; older (pre-1940) Baluch, Turkoman, Kazak, Anatolian village rugs $300–2,000; antique collector pieces $1,000–20,000+ (expertise needed).
 Buy rule (short): Small (≤ 4x6, rolled fits passenger seat) hand-knotted rugs only; pass on Pakistani Bokharas and Indian copies; target older tribal rugs with natural-dye abrash, wool foundation and asymmetric drawing, at ≤ 1/4 resale and only with back photos.
@@ -53,7 +53,13 @@ Big but buyer-picky; small rugs sell steadily; rug dealers dominate quality piec
 Roll (pile in), wrap in plastic and a tube or box; 2x3 ~3 lb ($12–15), 4x6 ~10–15 lb ($20–30). A 4x6 rolled fits a passenger seat; 5x8+ usually not worth it.
 
 ## Selling it (for the buyer-facing listing)
-Give exact size, back photo, close-ups of pile height, ends and sides, origin attribution with "probably", disclose wear, moth, odour and repairs.
+- **Title words:** origin ("Afghan Turkoman", "Persian Baluch", "Turkish Anatolian") + "hand knotted" + "wool" + "tribal"/"village" + size in feet + colour + era. Junk: "oriental rug", "Persian" on a Pakistani Bokhara, "antique" unless pre-1940. Example: `Vintage Hand Knotted Afghan Turkoman Tribal Wool Rug 3x5 Red Natural Dye`.
+- **Where:** eBay BIN with offers (small rugs sell steadily; buyer-picky); Etsy at the same price for decor buyers; pre-1940 collector pieces to a rug dealer or auction, not eBay.
+- **Price position:** list at the sold median (Turkish Anatolian ~$115, mid-century tribal 3x5–4x6 $80–400, Pakistani Bokhara mats $25–60); accept −15%, floor −25%; OBO; cut 10% after 45 days.
+- **Photos:** 1) full rug flat, straight-on, daylight; then the back (knot structure), pile close-up with a coin for height, both ends and both sides (selvedge, fringe), any wear/moth/repair, tape measure on length and width.
+- **State:** exact size in inches, "probably [origin]" attribution, knot type if known, wool/cotton foundation, pile height and wear areas, ends and sides condition, moth, odour, repairs, colour run, all by photo number.
+- **Pack / haul:** roll pile-in, plastic sleeve, tube or box; 2x3 ~3 lb, $12–15; 4x6 10–15 lb, $20–30; a rolled 4x6 fits a passenger seat.
+- **Quote to a buyer:** "Hand-knotted [Turkoman/Baluch] village rug, wool on wool with the abrash and asymmetric drawing of a tribal piece in photo [2] — not a Pakistani Bokhara or a machine copy; comparable [size] rugs have sold for [$X]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$15 to buyer − ~$15 to Dylan − price; pass unless ≥ max($50, price).

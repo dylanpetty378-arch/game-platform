@@ -1,5 +1,5 @@
 # Modern ukuleles (Kala/Makala, Lanikai, Cordoba, Martin, Kamaka, KoAloha, Kanile'a, Ohana, Enya, Donner)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run); Kala Brand Music https://kalabrand.com/ (maker site, not fetched); Kamaka https://www.kamakahawaii.com/ (not fetched); batch file b51 Lens data
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge (no web search this run); Kala Brand Music https://kalabrand.com/ (maker site, not fetched); Kamaka https://www.kamakahawaii.com/ (not fetched); batch file b51 Lens data
 Slug: modern-ukuleles · Aliases: ukelele, uke, soprano uke, concert ukulele, tenor ukulele, Hawaiian guitar (wrong), Makala, beginner uke
 Summary: beginner laminate (Makala, Donner, Mahalo) $15–45; mid laminate/solid-top (Kala KA, Lanikai, Cordoba 15/20) $50–150; solid mahogany/koa imports $150–350; Hawaiian-made (Kamaka, KoAloha, Kanile'a, Ko'olau) and Martin $400–1,500+ (general knowledge, verify)
 Buy rule (short): Skip beginner laminates; buy only solid-wood or Hawaiian/Martin ukes where profit ≥ max($50, price) — the money is in Hawaiian koa.
@@ -75,7 +75,13 @@ Very liquid at all tiers; Reverb is better than eBay for anything $150+. Beginne
 Soprano/concert in gig bag: box ~28×12×6, 3–5 lb, $15–25. Loosen strings slightly; pad the headstock. Hard case adds weight.
 
 ## Selling it (for the buyer-facing listing)
-Give make, model (from label), size, solid or laminate, close-up of label, top, back, sides, bridge, and sound sample. State string condition and any action/intonation notes.
+- **Title words:** make + model from the label ("Kala KA-15S", "KoAloha KSM-00", "Martin S1") + size (soprano/concert/tenor) + "solid koa"/"solid mahogany"/"laminate" + "with case"; Junk: "ukelele", "uke", "like new", "Hawaiian" on an import. Example: `KoAloha KCM-00 Concert Ukulele Solid Koa Hawaii Made with Hard Case`.
+- **Where:** Reverb for $150+ (Hawaiian koa and Martin sell within days), eBay below that; Makala/beginner ukes local on FB — shipping eats them. Nov–Dec gift bump.
+- **Price position:** at the sold median (KoAloha $554, p75 $900; Kanile'a $625; Makala concert $44), accept −10%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo front in daylight; then label through the soundhole, headstock, back, sides (seams), bridge back edge (lifting), frets, tuners, case; a short sound sample.
+- **State:** make, model, size, solid or laminate (top/back/sides), country, string condition, action/intonation notes, crack-free and bridge tight, case/gig bag included, flaws by photo number.
+- **Pack / haul:** soprano/concert in gig bag, box ~28×12×6, 3–5 lb; loosen strings slightly, pad the headstock; $15–25 (hard case adds weight).
+- **Quote to a buyer:** "[KoAloha] [concert], solid koa, made in Honolulu — new they're [$X]; no cracks, bridge tight, comes in the [hard case] that alone sells for [$30–60]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$18) − ship to Dylan (~$18) − price ≥ max($50, price).

@@ -1,5 +1,5 @@
 # Antique glassware lots (mixed estate lots: pressed glass, Depression glass, cut crystal, art pottery strays)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.replacements.com, https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.glassencyclopedia.com
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); verify on https://www.replacements.com, https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.glassencyclopedia.com
 Slug: antique-glassware-lots · Aliases: box of glassware, estate glass lot, vintage glass lot, old dishes, Depression glass lot, crystal lot, "several antique glassware pieces"
 Summary: mixed pressed/cut-look glass and 1950s–80s crystal $1–10 per piece; Depression glass and Fostoria/Heisey/Cambridge stemware $5–40 per piece; signed art glass (Steuben, Loetz, Fenton early, Tiffany), vaseline/uranium, EAPG rarities $50–1,000+ (general knowledge, verify)
 Buy rule (short): Mixed lots only pay off when one identifiable "hit" (signed art glass, uranium/vaseline, rare Depression colour or form) is visible; otherwise pass, since shipping kills lot value.
@@ -41,7 +41,13 @@ Uranium glass (check with a UV flashlight); faint signatures; Heisey diamond-H m
 Glass is heavy and breakable: $15–30 per box, double box required. Lots are usually pickup-only on Craigslist.
 
 ## Selling it (for the buyer-facing listing)
-Split lots into single pieces; ID the pattern via Replacements; state any chips.
+- **Title words:** split the lot; per piece: maker (Fostoria/Heisey/Cambridge), pattern (via Replacements), form, colour ("uranium/vaseline", "cobalt"), "Depression glass"/"elegant glass"/"EAPG", "signed". Junk: "lot of old glass", "crystal" for pressed, "antique" on 1970s. `Fostoria American Clear Footed Cake Stand 10" Elegant Glass Vintage`
+- **Where:** eBay BIN with offers for the identified hits (uranium, signed art glass, elegant stemware); remaining mixed pressed glass local pickup only.
+- **Price position:** hits at the sold median by piece ($30–150 uranium/Heisey; signed art glass lot median $40), OBO, accept −15%; Depression/elegant $5–40 per piece; cut 10% at 45 days. Leftovers $1–10 lotted local.
+- **Photos:** first: the single piece backlit; then UV shot for uranium, signature/mark close-up (Heisey diamond-H), foot rim wear, rim all round for flea bites, interior for sickness, ruler.
+- **State:** maker, pattern, form, dimensions, colour, mark or signature, UV reaction, chips/flea bites/ground rims/cloudiness by photo number.
+- **Pack / haul:** heavy and breakable; double box, each piece wrapped, $15–30 per box; lots pickup-only.
+- **Quote to a buyer:** "[Heisey] marked with the diamond-H, [pattern] [cake stand], glows under UV — pulled from an estate lot and listed singly because the mixed pressed glass around it is $2 a piece."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ship-out − ship-in − price ≥ max($50, price). Only buy when at least one piece is identified from the photo with resale ≥ ~$100 and the seller will ship (local pickup won't fit the nationwide model). Ask for bottom marks first.

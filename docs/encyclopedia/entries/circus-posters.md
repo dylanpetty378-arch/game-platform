@@ -1,5 +1,5 @@
 # Circus posters (Ringling Bros. and Barnum & Bailey; Clyde Beatty; Cole Bros.; Strobridge, Erie, Courier printers)
-Updated: 2026-10-13 · Sources: general knowledge only (no web search this run; no Terapeak rows for this type in /home/claude/game-platform/db/comps.jsonl). Verify: eBay sold https://www.ebay.com/sch/i.html?_nkw=ringling+poster+original&LH_Sold=1 · Heritage Auctions https://www.ha.com/ · Swann Galleries https://www.swanngalleries.com/ · Circus World Museum (Baraboo) https://circusworldbaraboo.org/
+Updated: 2026-10-28 · Sources: general knowledge only (no web search this run; no Terapeak rows for this type in /home/claude/game-platform/db/comps.jsonl). Verify: eBay sold https://www.ebay.com/sch/i.html?_nkw=ringling+poster+original&LH_Sold=1 · Heritage Auctions https://www.ha.com/ · Swann Galleries https://www.swanngalleries.com/ · Circus World Museum (Baraboo) https://circusworldbaraboo.org/
 Slug: circus-posters · Aliases: Ringling poster, Barnum & Bailey poster, circus one-sheet, window card, circus litho, Clyde Beatty Cole Bros poster, big top poster
 Summary: modern reprints $5–25; 1960s–80s original Ringling/Beatty-Cole posters $40–150; 1930s–50s originals $150–600; pre-1920 stone lithos $500–3,000+ (general knowledge, verify)
 Buy rule (short): Buy only posters with clear original-printing tells (printer imprint, litho texture, period fold lines, correct size) ≤ $60 for 1930s–50s; never buy "framed decor" reprints.
@@ -50,7 +50,13 @@ Estate sellers can't tell original from reprint either way – sometimes an old 
 Ship rolled in a 3–4 in diameter tube (never fold further); framed pieces are awkward – remove from frame if possible. ~$12–20 ground. Rolled posters easily fit a passenger seat; large frames may not.
 
 ## Selling it (for the buyer-facing listing)
-State show, year (if known), printer imprint, format and exact dimensions, printing method, folds/tears, linen-backed or not, and that it is an original (only if imprint/paper confirm). Photograph imprint and a loupe close-up.
+- **Title words:** show (Ringling Bros. and Barnum & Bailey, Clyde Beatty-Cole), year, printer (Strobridge, Erie Litho), format (one-sheet/window card), "original", "lithograph", subject (tigers/clowns), size. Junk: "retro circus print", "framed wall art", "antique" on reprints. `1948 Ringling Bros Barnum Bailey Circus Poster Original Litho 28x41 Tigers`
+- **Where:** eBay BIN with offers for 1930s–80s originals; Heritage for pre-1920 Strobridge stone lithos; reprints FB local only.
+- **Price position:** late originals at the sold median ($40–150), mid 1930s–50s at p75 with strong imagery, OBO, accept −15%; cut 10% at 30 days. Reprints $5–25 firm.
+- **Photos:** first: full poster flat, even light; then printer imprint, loupe close-up of the print texture, fold grid, each tear/loss at fold crossings, margins, town/date band on window cards, back.
+- **State:** show, year, printer imprint, format and exact dimensions, printing method, fold/tears/losses/stains by photo number, linen-backed or not, "original" only when imprint and paper confirm.
+- **Pack / haul:** rolled in a 3–4" tube, never folded further, $12–20; frames removed. Rolled fits a passenger seat.
+- **Quote to a buyer:** "Original [1948] [Ringling] one-sheet with the [Erie Litho] imprint and period fold lines — not the 24×36 reprint; originals from this era sell $150–600."
 
 ## Buy rule
 Profit = median × 0.87 − ship (~$15) − ship to Dylan (~$15) − price ≥ max($50, price). A 1960s–80s original at $100 median needs price ≤ ~$27; a 1930s–50s original at $250 median works up to ~$90–$100. Require photos of the bottom margin (imprint) and fold lines. Pass on anything framed under glass that can't be inspected, anything at a standard frame size without an imprint, and anything needing restoration.

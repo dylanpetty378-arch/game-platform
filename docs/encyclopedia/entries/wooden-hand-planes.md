@@ -1,5 +1,5 @@
 # Wooden (woodie) hand planes & moulding planes (Ohio Tool, Sandusky, Auburn, Greenfield, Union Factory/Chapin, Scioto, Marples/Mathieson, Nicholson, Chelor)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist 1094 photos (3 unmarked jack/jointer/smoother planes, $70); eBay sold pattern (knowledge 2024–25); extends existing hand-planes entry (metal Stanley/Lie-Nielsen)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: craigslist 1094 photos (3 unmarked jack/jointer/smoother planes, $70); eBay sold pattern (knowledge 2024–25); extends existing hand-planes entry (metal Stanley/Lie-Nielsen)
 Slug: wooden-hand-planes · Aliases: wood plane, woodie, antique wood plane, old wooden planer, moulding plane, molding plane, plow plane, hollows and rounds, coffin smoother, jointer plane, primitive tools
 Summary: Unmarked/worn bench planes and Stanley transitionals $15–40; marked Ohio Tool/Sandusky/Auburn bench planes and single moulders $40–90; Sandusky plows, complete H&R sets, 18th-c. American makers $200–800; Sandusky boxwood/ivory plows, Cesar Chelor $1,500–10,000.
 Buy rule (short): Buy screw-arm plow planes ≤ $60, H&R sets ≤ $100, named 18th-c. makers ≤ $200; pass unmarked bench-plane lots over $20/plane.
@@ -60,9 +60,13 @@ Toe stamps; plow planes (fence + screw arms) mistaken for "weird old tool"; boxw
 Jointers 26–30" are oversize, 5–8 lb, $25–35 each way. eBay. Moulders are small (1–2 lb) and cheap to ship.
 
 ## Selling it (for the buyer-facing listing)
-State maker (photo of toe stamp), type, length, profile/size (for moulders, the number stamped on the heel), iron maker,
-wood, condition (cracks, worm, sole), completeness (wedge, irons, fence). Title: maker, type, number, "wooden plane",
-"moulding plane"/"plow plane", "antique", era.
+- **Title words:** maker from the toe stamp (Sandusky, Ohio Tool, Auburn, Marples), type (plow plane/moulding plane/jointer/smoother), number on the heel, profile (hollow/round/ogee), wood (beech/boxwood/rosewood), length, iron maker, "antique". Junk: "primitive decor", "old tool", "farmhouse", "rare". `Sandusky 132 Screw Arm Plow Plane Boxwood Arms Complete Irons Antique`
+- **Where:** eBay BIN with offers for plows and H&R sets (users and collectors); Brown Tool Auctions/MJD for 18th-c. makers and ivory-tipped plows; bench planes local to decor buyers.
+- **Price position:** marked bench planes at the sold median ($40–90), OBO; Sandusky plows at $200–300, complete H&R sets at $200–800, accept −10%; unmarked jointers $25–40 local. Cut 10% at 45 days.
+- **Photos:** first: plane in profile on a plain cloth; then toe stamp close-up, heel number, sole and profile end-on, iron stamp, wedge, throat/mouth for cracks, worm holes, fence and screw-arm threads, irons laid out for plows.
+- **State:** maker from toe stamp, type, length, profile/number, iron maker, wood, cracks/worm/sole wear by photo number, completeness (wedge, irons, fence), unsanded/unvarnished or not.
+- **Pack / haul:** moulders 1–2 lb, small box; jointers 26–30" oversize, 5–8 lb, $25–35; plows boxed with arms immobilized.
+- **Quote to a buyer:** "[Sandusky 132] with boxwood arms, all [8] irons and the original fence — the unmarked beech jointers are $30 decor; a complete centre-wheel or screw-arm plow is the $200–800 tool."
 
 ## Buy rule
 Buy when: screw-arm plow plane ≤ $60, H&R set ≤ $100, named 18th-c. maker at any price ≤ $200. Pass when: unmarked bench

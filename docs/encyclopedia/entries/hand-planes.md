@@ -1,5 +1,5 @@
 # Hand planes (Stanley Bailey & Bedrock, Lie-Nielsen, Veritas, Record, Sargent, Millers Falls)
-Updated: 2026-10-08 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); Google Lens asking-price medians from the 2026-10-13 sweep (asking-price based, not sold); remaining detail is general knowledge, verify · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); Google Lens asking-price medians from the 2026-10-13 sweep (asking-price based, not sold); remaining detail is general knowledge, verify · tells 2026-10-13
 Slug: hand-planes · Aliases: wood plane, bench plane, jack plane, smoothing plane, jointer plane, block plane, rabbet plane, transitional plane, "planer", woodworking plane
 Summary: Lie-Nielsen shoulder plane ~$240; Stanley Bedrock $80–250; common Stanley Bailey $20–60
 Buy rule (short): Lie-Nielsen/Veritas under $100; Bedrock under $50
@@ -60,7 +60,13 @@ Steady eBay market: hobby woodworkers ("user" buyers wanting a tuned No. 4/5) an
 No. 4 ~4–5 lb packed, No. 7/8 jointer 9–12 lb; heavy but robust – wrap the tote horn (breaks easily) and the iron edge. ~$12–25 each way.
 
 ## Selling it (for the buyer-facing listing)
-State maker, size number, Bailey vs Bedrock, type indicators (patent dates, tote wood, logo on blade), sole length, whether the iron is original, and any cracks/repairs. Photograph: toe number, lever cap, behind the frog, both cheeks, sole, blade logo. Title keywords: "Stanley No. 4 Bedrock 604", "Type 11", "Sweetheart", "Lie-Nielsen", "rosewood tote".
+- **Title words:** "Stanley" + number ("No. 4", "Bedrock 604") + "Bailey"/"Bedrock" + type ("Type 11", "Sweetheart") + "rosewood tote" + "hand plane"; "Lie-Nielsen"/"Veritas" + model; Junk: "antique wood plane", "woodworking tool lot", "rusty". Example: `Stanley Bedrock 604 Smoothing Plane Flat Top Sweetheart Iron Rosewood Tote`.
+- **Where:** eBay BIN with offers (users and type-study collectors; Bedrocks and Lie-Nielsen move in 1–2 weeks); common post-war No. 4/5 local or in a lot. No place beats eBay.
+- **Price position:** at the sold median (Bedrock $114, p75 $152; Lie-Nielsen $78 median, shoulder plane ~$240; pre-war Bailey $40–90), accept −15%, floor p25; OBO; cut 10% after 3 weeks, mild winter uptick.
+- **Photos:** first photo the plane side-on, toe number visible; then toe casting number, lever cap, behind the frog (patent dates), both cheeks (cracks), sole, blade logo, tote and knob, frog seat.
+- **State:** maker, size number, Bailey vs Bedrock, type indicators, sole length, iron original or replaced, married parts if any, cracks/brazed tote/pitting by photo number, japanning %.
+- **Pack / haul:** No. 4 4–5 lb, No. 7/8 9–12 lb; single sturdy box, wrap the tote horn and the iron edge separately, no movement; $12–25.
+- **Quote to a buyer:** "Stanley [Bedrock 604], [flat-top, Sweetheart iron, Type 11 patent dates] — pre-war with original tote and no cracks; a Bailey of this size is [$40–90] and a new Lie-Nielsen is [$X], this is the one between."
 
 ## Buy rule
 Buy when: Lie-Nielsen/Veritas under $100; Stanley Bedrock under $50; a lot of several pre-war Stanleys at ~$10 each. Pass when: post-war common Baileys at $30+ (resale $20–60 leaves no margin), cracked castings, married frogs. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

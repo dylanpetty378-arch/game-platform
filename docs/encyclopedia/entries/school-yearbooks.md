@@ -1,5 +1,5 @@
 # School Yearbooks (Walsworth, Jostens, Herff Jones, Taylor, local mimeograph/print-shop annuals)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak rows in db/comps.jsonl for this type. Classmates.com and e-yearbook.com (genealogy demand context, general knowledge)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); no Terapeak rows in db/comps.jsonl for this type. Classmates.com and e-yearbook.com (genealogy demand context, general knowledge)
 Slug: school-yearbooks · Aliases: annual, yearbook, school annual, senior annual, high school book, college yearbook, "Napawinah"-style school-name titles
 Summary: common post-1960 HS yearbooks $10–30; 1900–1950 small-town/hand-made annuals $25–75; books with a famous alumnus (pre-fame photo) $100–2,000+ (general knowledge, verify)
 Buy rule (short): Buy only pre-1950 books under ~$15 each, lots of 3+ pre-1950 volumes, or a book you can tie to a famous alumnus; everything else is genealogy-slow $15–30 stock.
@@ -45,7 +45,13 @@ Pre-fame celebrities (search notable alumni lists for the school); WWII service 
 Books ship USPS Media Mail ($4–8) or Ground Advantage; padded mailer or box with cardboard. 1–4 lb each.
 
 ## Selling it (for the buyer-facing listing)
-State school, town, state, year, binding type, page count, condition of binding, whether photos are cut out, signatures present. Photograph cover, title page, index of seniors, any sports/club pages.
+- **Title words:** school name + town + state + year + "yearbook" + the book's title + notable names inside; "WWII", "honor roll", "mimeograph" if so. Junk: "annual" alone, "vintage book", "class of" without school. Example: `1944 Napavine High School Yearbook Napavine Washington WWII Honor Roll Annual`.
+- **Where:** eBay BIN with offers (thousands sell monthly but each school has 0–2 buyers; 30–180 days); Etsy equal; local Facebook history groups and the historical society for tiny-town mimeograph annuals.
+- **Price position:** list at the sold median ($10–30 post-1960, $25–75 1920–59 small-town, $50–150 pre-1920/WWII/academy); accept −20%, floor −30%; OBO; leave it up, cut 10% every 90 days; celebrity books firm.
+- **Photos:** 1) cover straight-on; then title page with school/year, senior index, every page with a notable name, sports/club pages, spine and binding, any cut-out photos or signatures.
+- **State:** school, town, state, year, book title, binding type, page count, binding condition, photos cut out or not, signatures/inscriptions, notable names (searchable), smells/water damage by photo number.
+- **Pack / haul:** 1–4 lb; padded mailer with cardboard stiffener or small box, USPS Media Mail $4–8.
+- **Quote to a buyer:** "The [1944] [school] annual from [town] — [one of a few mimeographed copies / includes a pre-fame portrait of X on page N]; complete, no cut-outs, and comparable small-town annuals of this era sell for [$X]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$6 ship to buyer − ship to Dylan − price ≥ max($50, price). A single $40 book cannot clear this; only lots of pre-1950 books bought at ≤ $5–10 each, or a celebrity-alumni book, qualify. Size fits easily. No authentication issues except celebrity claims (verify the name on the page yourself).

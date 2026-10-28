@@ -1,5 +1,5 @@
 # Egyptian perfume bottles (Cairo/Khan el-Khalili workshop hand-blown Pyrex glass; no named makers)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($65–70, asking-heavy)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($65–70, asking-heavy)
 Slug: egyptian-perfume-bottles · Aliases: Egyptian glass perfume bottle, hand blown perfume bottle, Egyptian decanter, perfume dripper, genie bottle, Pyrex perfume bottle, mini perfume bottles, gold trim perfume bottle, Arabian perfume bottle, attar bottle
 Summary: Single tourist bottles $3–12; lots of 5–10 $20–45; large 8–12" display bottles $15–35; nothing in this type normally exceeds $50 per piece.
 Buy rule (short): Never a buy for resale; pass on all Egyptian souvenir perfume bottles regardless of price unless a huge lot (20+) under $15.
@@ -43,7 +43,13 @@ Nothing; sellers usually overvalue them as "hand-blown vintage art glass".
 Extremely fragile; each bottle wrapped separately, stopper removed and wrapped separately, double-boxed. Breakage rate is high.
 
 ## Selling it (for the buyer-facing listing)
-Describe as "hand-blown Egyptian Pyrex glass perfume bottle, souvenir/décor", heights, colours, any broken tips.
+- **Title words:** "Egyptian perfume bottles", "hand blown", "lot of N", colours (cobalt/ruby/amethyst), "gold", height, "Pyrex glass", "set". Junk: "vintage art glass", "antique", "Murano". `Egyptian Hand Blown Glass Perfume Bottles Lot of 8 Gold Cobalt Ruby 4-8"`
+- **Where:** eBay BIN with offers (lots only; median $15) or Etsy for a large matched set; singles aren't worth a listing.
+- **Price position:** lots at the sold median ($15–45 for 5–12), OBO, accept −20%; large display bottles $15–35; cut 20% at 21 days — importers sell new ones at $3–8.
+- **Photos:** first: lot grouped against a white background, backlit for colour; then each stopper tip close-up, feet, gold wear, any crack at the neck, ruler.
+- **State:** "souvenir/décor Egyptian Pyrex glass", count, heights, colours, broken stopper tips and chipped feet by photo number, gold wear, stoppers removable or glued.
+- **Pack / haul:** each bottle and each stopper wrapped separately, double-boxed, ~$12; expect breakage.
+- **Quote to a buyer:** "[8] hand-blown Cairo workshop bottles, [all stopper tips intact], mixed [cobalt/ruby/amethyst] with fired gold — intact tips are the rare part; most lots have broken ones."
 
 ## Buy rule
 Profit = sold median × 0.87 − shipping both ways − price ≥ max($50, price). Fails at any realistic price. Pass. Not worth the time.

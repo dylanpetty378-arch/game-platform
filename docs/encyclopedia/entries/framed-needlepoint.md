@@ -1,5 +1,5 @@
 # Framed needlepoint and petit point (still lifes, florals, pastoral scenes; Austrian/Viennese petit point, mid-century American kits, Bucilla, Paragon, Columbia-Minerva)
-Updated: 2026-10-13 · Sources: no web search budget this run; written from general knowledge. db/comps.jsonl has needlepoint rug data only (Aubusson-style needlepoint rugs median $150, n=49, Terapeak 365d) and yarn — not framed pictures. Verification: eBay sold "framed needlepoint vintage" https://www.ebay.com/sch/i.html?_nkw=vintage+framed+needlepoint&LH_Sold=1 ; Etsy market pages; LiveAuctioneers https://www.liveauctioneers.com
+Updated: 2026-10-28 · Sources: no web search budget this run; written from general knowledge. db/comps.jsonl has needlepoint rug data only (Aubusson-style needlepoint rugs median $150, n=49, Terapeak 365d) and yarn — not framed pictures. Verification: eBay sold "framed needlepoint vintage" https://www.ebay.com/sch/i.html?_nkw=vintage+framed+needlepoint&LH_Sold=1 ; Etsy market pages; LiveAuctioneers https://www.liveauctioneers.com
 Slug: framed-needlepoint · Aliases: needlepoint picture, needlepoint tapestry, petit point, gros point, framed tapestry, wool work, Berlin woolwork, framed embroidery, cross stitch picture
 Summary: Mid-century kit needlepoint in decorator frames $20–60; large well-worked pieces in carved/gilt frames $50–150; Austrian/Viennese petit point (very fine stitches, often with silk) $60–250; 19th-century Berlin woolwork pictures in period frames $100–400 (general knowledge, verify).
 Buy rule (short): Buy only fine petit point (Austrian, signed or labelled) or 19th-c. Berlin woolwork at ≤ 25% of sold and only if it fits a passenger seat; pass on kit gros point.
@@ -44,7 +44,13 @@ Petit point in tiny frames gets mixed in with kit pieces; check stitch fineness.
 Large framed pieces with glass ship badly; oversize box $35–60 (general knowledge, verify). Big frames will not fit a passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-Outside and sight dimensions, stitch type and count, frame material, any fading or damage.
+- **Title words:** "needlepoint" or "petit point", subject (floral still life, pastoral), "framed", frame type (gilt, carved, velvet), size, "Austrian/Viennese" only for fine petit point, "vintage"/"hand stitched". Junk: "antique" on 1970s kits, "tapestry", "museum". `Vintage Framed Needlepoint Floral Still Life Gilt Frame 24x30 Hand Stitched`
+- **Where:** local — FB Marketplace or eBay local pickup (glass, oversize); only small Austrian petit point and Berlin woolwork justify shipping on eBay.
+- **Price position:** kit pieces at the sold median ($25; $15–40 small, $40–120 large in gilt frames), petit point $60–250, Berlin woolwork $100–400; OBO, accept −25%, floor $15; cut after 30 days — slow decor market.
+- **Photos:** full piece on a wall; stitch close-up with a ruler (proves gros vs petit point); frame corners and ornament; back of frame; any fading at the edges, stains, moth damage; glass.
+- **State:** outside and sight dimensions, stitch type and count per inch, wool/silk, kit maker if labelled, frame material, glass or not, fading, stains, loose threads by photo number.
+- **Pack / haul:** local only for large frames (won't fit a passenger seat; "bigger" class ~12 lb, oversize box $35–60 if forced); small pieces ship like a framed print.
+- **Quote to a buyer:** "This is a hand-stitched [petit point] [still life], [22 stitches per inch], in a period [carved gilt] frame, [24×30]; fine petit point sells for $[60–250], and the frame alone would cost that at a framer."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$40 to buyer − ~$40 to Dylan − price ≥ max($50, price). Large framed needlepoint never qualifies once shipping is counted. Only small petit point pieces can work. Must fit in a passenger seat.

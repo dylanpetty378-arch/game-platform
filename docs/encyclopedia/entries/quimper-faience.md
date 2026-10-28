@@ -1,5 +1,5 @@
 # Quimper faience (HB Quimper, Henriot, HB-Henriot, Porquier, Keraluc; plus "Quimper-style" peasant pottery from Italy, Japan, Desvres)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Quimper faience" https://en.wikipedia.org/wiki/Faïence_de_Quimper (verify URL); Henriot-Quimper maker site https://www.henriot-quimper.com ; Quimper Club International (collector club, general reference); project comps file /home/claude/game-platform/db/comps.jsonl (no Quimper sold data on file).
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Quimper faience" https://en.wikipedia.org/wiki/Faïence_de_Quimper (verify URL); Henriot-Quimper maker site https://www.henriot-quimper.com ; Quimper Club International (collector club, general reference); project comps file /home/claude/game-platform/db/comps.jsonl (no Quimper sold data on file).
 Slug: quimper-faience · Aliases: Quimper, Quimper pottery, Henriot Quimper, HB Quimper, French faience, Breton pottery, French peasant pottery, petit Breton, hand painted French bowl
 Summary: Modern (1970s–) small Quimper pieces $10–40; mid-century plates/bowls $25–80; pre-1922 HB/Henriot/Porquier and Odetta/art-deco pieces $75–400; large early chargers, figurines by named artists $200–2,000.
 Buy rule (short): Buy only pieces with a painted "HB Quimper", "HenRiot Quimper" or "AP/Porquier" mark showing pre-1940 style, Odetta stoneware, or named-artist figures at ≤ 25% of resale; pass on unmarked "Quimper-style" and modern souvenir pieces.
@@ -47,7 +47,13 @@ Odetta stoneware (doesn't look like "Quimper"); Porquier "AP" marks; named-artis
 Bowls 2–3 lb, double box, $14–18. Soft faience chips easily.
 
 ## Selling it (for the buyer-facing listing)
-Show the mark, give the maker and approximate period, size, describe rim flakes honestly.
+- **Title words:** "Quimper" + maker mark (HB, Henriot, HB-Henriot, Porquier, Odetta) + piece (plate, bowl, charger, figurine) + "faience" + "French" + size + era. Junk: "Dutch boy and girl", "peasant pottery", "Quimper style" (unless it is). Example: `Antique HB Quimper Faience Charger Breton Man 12 Inch Hand Painted France`.
+- **Where:** eBay BIN with offers (moderate, slower market; marked pieces sell in weeks); FB local does not beat it; Etsy equal for decor buyers.
+- **Price position:** list at the sold median (modern Henriot $15–45, mid-century HB/Henriot $40–125, pre-1922/Odetta/deco $100–500); accept −15%, floor −25%; OBO; cut 10% after 45 days.
+- **Photos:** 1) front, straight-on, full design; then the mark on the base, rim close-up all the way round for flakes, back, edge thickness, ruler for diameter, any crazing/hairlines.
+- **State:** maker and mark text, approximate period, size, hand-painted décor subject, rim flakes/chips/hairlines by photo number, crazing, whether a set.
+- **Pack / haul:** 2–3 lb; soft faience chips easily, so bubble each piece, double-box, 3-lb class, $14–18.
+- **Quote to a buyer:** "Marked [HB Quimper / Henriot], [pre-1922 / mid-century] French faience, not the Italian or Japanese 'Quimper-style' copies — marked pieces of this size sell for [$X]; the rim is clean in photo [3]."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$16 ship to buyer − ~$16 ship to Dylan − price ≥ max($50, price). Needs resale ≥ $160 at ≤ $40. Unmarked look-alikes never qualify.

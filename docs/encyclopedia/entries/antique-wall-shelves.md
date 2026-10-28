@@ -1,5 +1,5 @@
 # Antique wall shelves (Victorian carved oak clock shelves, Eastlake, Black Forest, mirrored shelves, spice/curio shelves)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak data for this type in db/comps.jsonl
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); no Terapeak data for this type in db/comps.jsonl
 Slug: antique-wall-shelves · Aliases: clock shelf, Victorian wall shelf, carved oak shelf, mirrored wall shelf, hanging shelf, Eastlake shelf, bracket shelf, curio shelf
 Summary: plain old or reproduction shelves $20-60; Victorian incised oak/walnut clock shelves with mirror $75-200; Black Forest carved, Aesthetic Movement and fine Eastlake pieces $200-600+ (general knowledge, verify)
 Buy rule (short): Buy only verified-old carved shelves ≤ 30" wide at ≤ $60 after getting real (not staged) photos; resale must reach ~$175.
@@ -43,7 +43,13 @@ Black Forest carving and walnut Eastlake pieces are sometimes priced as generic 
 24-36" wide, 8-15 lb, mirror inside: $30-50 packed with foam corners; mirror glass risk. Fits passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-Wood, dimensions, age evidence (back construction), mirror condition, any repairs.
+- **Title words:** style + wood + form + size + feature: "Victorian Eastlake walnut clock shelf mirror 30"", "Black Forest carved wall shelf", "golden oak pressed carved shelf"; Junk: "farmhouse", "boho", "rustic shelf", "antique style". Example: `Antique Victorian Eastlake Walnut Clock Shelf Mirror Incised Carved 30" 1880s`.
+- **Where:** eBay BIN with offers for Black Forest, Aesthetic and fine Eastlake (30–90 days); local FB for plain and reproduction shelves (8–15 lb with a mirror). Local beats eBay under $75.
+- **Price position:** at the sold median (Eastlake $80, p75 $149; Black Forest $75, p75 $130; Victorian clock shelf $40), accept −15%, floor p25; OBO; cut 10% after 6 weeks (dealer asks of $500+ are not sold prices).
+- **Photos:** first photo hung on a plain wall, straight-on, unstaged phone photo; then the back (construction, nails, saw marks, hangers), carving close-up, mirror edge (desilvering), spindles and finials, any splits or repairs, tape for width and depth.
+- **State:** wood, dimensions, age evidence from the back construction, mirror original and condition, missing spindles/finials, refinished or original, repairs by photo number, hangers present.
+- **Pack / haul:** 24–36" wide, 8–15 lb; foam corners, mirror faced with cardboard, finials wrapped separately, double-box; $30–50. Fits a passenger seat.
+- **Quote to a buyer:** "[Walnut Eastlake] clock shelf, c.[1880], square-nailed back and the original [mirror] — the period piece, not the 1980s reproduction; hangs ready and these bring [$80–150]."
 
 ## Buy rule
 Profit = resale × 0.87 − ~$40 ship out − ~$30 ship in − price ≥ max($50, price). At $50 buy this needs resale ≥ ~$195. Buy only when real photos confirm solid oak/walnut age and the piece is better than average. Do not buy from AI-styled photos.

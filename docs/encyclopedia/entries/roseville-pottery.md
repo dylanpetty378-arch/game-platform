@@ -1,5 +1,5 @@
 # Roseville Pottery (Wisteria, Pine Cone, Futura, etc.)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: underpricedai.com sold-price aggregation for Wisteria 634-7 (median $158.75 over 62 sales; range $58–485; blue examples $300–460), antiquesandthearts.com auction reports, Kovels knowledge · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: underpricedai.com sold-price aggregation for Wisteria 634-7 (median $158.75 over 62 sales; range $58–485; blue examples $300–460), antiquesandthearts.com auction reports, Kovels knowledge · tells 2026-10-13
 Slug: roseville-pottery · Aliases: Roseville, Roseville USA, Ohio art pottery, Wisteria vase, Pine Cone vase, Futura vase, vintage pottery vase
 Summary: Repros and chipped common lines $10–40; common lines (Zephyr Lily, Freesia, Magnolia…) $40–120; brown Wisteria, blue Pine Cone, small Futura $150–400; blue Wisteria 8"+, Sunflower, Falline, Ferella and rare Futura $500–2,000+.
 Buy rule (short): Blue Wisteria/Pine Cone/Futura under $120 with a clear mark photo; brown Wisteria under $60; unrecognised money-line matches under $40; pass on any repro tell.
@@ -77,7 +77,13 @@ The line name and colour (blue vs brown Wisteria is 2–3×). Many list as "vint
 2–4 lb, double-box with 2" foam all round: $20–30 insured. Resell on eBay (13%). Chips and hairlines cut value 50–70%.
 
 ## Selling it (for the buyer-facing listing)
-Title: "Roseville [Line] [colour] [shape no.-size] [form] [year]", e.g. "Roseville Wisteria Blue 630-6 Vase 1933". State the height, colour, mark or sticker, and condition (no chips, cracks or restoration, checked under light). Photograph the base, the sticker and every side.
+- **Title words:** "Roseville" + line + colour + shape number-size + form + year: "Roseville Wisteria Blue 630-6 Vase 1933". Junk: "vintage pottery vase", "art deco vase", "repro" unless true. Example: `Roseville Wisteria Blue 630-6 Vase 1933 Art Pottery Two Handled No Chips`.
+- **Where:** eBay BIN with offers (large liquid collector base; money lines sell within weeks); auctions work for blue Wisteria and Futura with a low start; FB local does not beat it.
+- **Price position:** list at the sold median for the exact line/colour/shape (Wisteria brown 634-7 ~$159, blue 630-6 ~$418, 635-8 ~$460; common lines $40–120); accept −10%, floor −20%; OBO; chips/hairlines cut 50–70%; cut 10% after 30 days.
+- **Photos:** 1) front, full height, plain background; then base with mark or foil sticker, each side, rim and handles close-up, interior, under raking light for hairlines, ruler for height.
+- **State:** line, colour, shape number and size, height, mark or sticker, year, no chips/cracks/restoration (checked under light) or flaws by photo number, glaze skips.
+- **Pack / haul:** 2–4 lb; bubble, 2" foam all round, double-boxed, insured, 4–6 lb class, $20–30.
+- **Quote to a buyer:** "Roseville [Wisteria] in the [blue] ground — the scarce colour, 2–3× the brown; shape [630-6] with [sticker/impressed mark], no chips under light; blue examples have sold for [$X], asking median is higher."
 
 ## Buy rule
 Buy when: blue Wisteria/Pine Cone/Futura is under $120 with a clear mark photo; brown Wisteria is under $60; or any "unknown pottery vase" that matches a money line is under $40. Pass when: the seller names line + shape number and prices at eBay level, or there is any repro tell. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

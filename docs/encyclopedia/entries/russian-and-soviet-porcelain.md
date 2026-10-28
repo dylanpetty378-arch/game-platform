@@ -1,5 +1,5 @@
 # Russian and Soviet porcelain (Imperial/Lomonosov LFZ–IFZ, Kuznetsov, Gardner, Dulevo, Soviet agitprop)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no rows for this type (only a Soviet wrist compass under military-field-gear). To verify: Imperial Porcelain Factory history (https://ipm.ru/en/), eBay sold "lomonosov cobalt net", "LFZ figurine", "kuznetsov plate", "dulevo figurine"; Russian auction houses (MacDougall's, Sotheby's Russian sales) for top tier.
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no rows for this type (only a Soviet wrist compass under military-field-gear). To verify: Imperial Porcelain Factory history (https://ipm.ru/en/), eBay sold "lomonosov cobalt net", "LFZ figurine", "kuznetsov plate", "dulevo figurine"; Russian auction houses (MacDougall's, Sotheby's Russian sales) for top tier.
 Slug: russian-and-soviet-porcelain · Aliases: Lomonosov, LFZ, IFZ, Imperial Porcelain, Cobalt Net / Cobalt Grid, Kobaltovaya Setka, USSR porcelain, Russian tea set, Kuznetsov, Gardner, Dulevo, Verbilki, Riga porcelain, Soviet figurine, propaganda porcelain
 Summary: post-1990 cobalt net cups/teapots and Dulevo/LFZ animal figurines $25–120; Soviet-era LFZ figurines and full cobalt-net sets $80–300; pre-1917 Kuznetsov/Gardner pieces $100–600; genuine 1920s agitprop and Imperial-period pieces $1,000+ (auction; fakes rife) (general knowledge, verify)
 Buy rule (short): Buy Soviet-era LFZ/Dulevo figurines or cobalt-net teapots at ≤ $40 when the underglaze mark and condition are clear; never pay up for "agitprop" or "Imperial" claims – those need expert authentication.
@@ -54,7 +54,13 @@ Steady niche: Russian/Ukrainian diaspora and porcelain collectors; buyers in US,
 Fragile. Teapots and figurines need double-boxing with 2 in of padding; $10–18 Ground Advantage; lids wrapped separately.
 
 ## Selling it (for the buyer-facing listing)
-Factory, mark (photo), era (USSR vs Russia), artist/model if known, dimensions, any gold wear, chips, hairlines, restoration. Use both English and transliterated Russian terms in title (e.g. "Lomonosov LFZ Cobalt Net Teapot USSR Kobaltovaya Setka").
+- **Title words:** "Lomonosov LFZ" or "Kuznetsov"/"Dulevo", pattern (Cobalt Net / Kobaltovaya Setka), form (teapot/cup & saucer/figurine), "USSR" vs "Russia" from the mark, animal or figure name, "22k gold", height. Junk: "Russian tea set" alone, "Imperial", "agitprop" without authentication, "rare". `Lomonosov LFZ Cobalt Net Teapot USSR Kobaltovaya Setka 22k Gold Vintage`
+- **Where:** eBay BIN with offers with international shipping (US, Germany, Israel buyers); figurines sell in 2–6 weeks, cobalt net in 1–4.
+- **Price position:** cobalt net cup & saucer at $25–70, USSR-marked teapot and large figurines at $60–200, full Soviet sets $150–600 — list at the sold median, OBO, accept −15%; cut 10% at 45 days. Chinese copies $8–25.
+- **Photos:** first: piece front showing the net and gold stars; then underglaze mark close-up (ЛФЗ, USSR vs Russia, any scratch-through or "2"), gold wear on rims, spout tip and lid rim, lid fit, ears/tails on figurines, UV shot for restoration.
+- **State:** factory, mark wording and era, model/artist if known, dimensions, gold wear, chips/hairlines/restoration by photo number, first vs second grade.
+- **Pack / haul:** double box, 2" padding, lid wrapped separately, $10–18 Ground Advantage.
+- **Quote to a buyer:** "USSR-marked [LFZ] Cobalt Net with hand-applied 22k stars, first grade — the post-1991 'Made in Russia' and Chinese decal copies sell for $20; Soviet-era marks are what collectors pay for."
 
 ## Buy rule
 Profit = median × 0.87 − ~$14 to buyer − ~$14 to Dylan − price ≥ max($50, price). Example: USSR cobalt net teapot resale ~$100 (estimate) → max buy ≈ $30. LFZ large figurine ~$150 → max buy ~$50. Pass on anything priced on "Imperial"/"agitprop"/"Gardner" claims (professional authentication needed). Size: shoebox – fine.

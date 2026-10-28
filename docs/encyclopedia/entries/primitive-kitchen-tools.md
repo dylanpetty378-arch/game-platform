@@ -1,5 +1,5 @@
 # Primitive kitchen tools (kraut/cabbage cutters, cone sieves/chinois (Wear-Ever, Mirro), butter molds and paddles, dough bowls, rolling pins, apple peelers (Reading Hardware, Goodell White Mountain), cherry pitters (Enterprise), coffee grinders, mashers, nutmeg graters, cast-iron (Griswold, Wagner) — see separate cast iron entry if present)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("wooden cabbage kraut cutter" n=50 median $15.99 p25 $11 p75 $25; "Wear-Ever aluminum cone sieve with pestle" n=50 median $24.99 p25 $19.99 p75 $32.50); otherwise general knowledge (Linda Campbell Franklin, "300 Years of Kitchen Collectibles") — verify
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("wooden cabbage kraut cutter" n=50 median $15.99 p25 $11 p75 $25; "Wear-Ever aluminum cone sieve with pestle" n=50 median $24.99 p25 $19.99 p75 $32.50); otherwise general knowledge (Linda Campbell Franklin, "300 Years of Kitchen Collectibles") — verify
 Slug: primitive-kitchen-tools · Aliases: kraut cutter, cabbage slicer, slaw board, mandoline, cone sieve, chinois, colander with pestle, food mill, butter mold, dough bowl, apple peeler, cherry pitter, farmhouse kitchen, primitive decor
 Summary: Common kraut cutters, Wear-Ever cone sieves, mashers, rolling pins $10–35; carved butter stamps, hand-hewn dough bowls, early cast apple peelers and Enterprise pitters $40–200; signed/dated pieces, folk-carved butter molds, large burl bowls $200–1,500.
 Buy rule (short): Pass on kraut cutters and Wear-Ever sieves (sold medians $16 and $25); hunt hand-carved butter stamps, burl/hewn dough bowls and patented cast-iron apple peelers at ≤ 30% of median.
@@ -52,7 +52,13 @@ Folk-art decorated cutters (hearts, dates), carved eagle butter stamps, burl bow
 Kraut cutters 2–5 lb but long (to 36"); sieves with stands are awkward. $15–25.
 
 ## Selling it (for the buyer-facing listing)
-Dimensions, blade count, maker marks, completeness (hopper, pestle, stand), wear, and age estimate.
+- **Title words:** item (kraut cutter, cone sieve, butter stamp, dough bowl) + maker (Wear-Ever No 8, Enterprise) + size in inches + "wood"/"aluminum" + "antique"/"primitive" + "farmhouse". Junk: "rustic decor", "old kitchen", "boho". Example: `Antique 36 Inch Wooden Kraut Cabbage Slaw Cutter Primitive Farmhouse Board`.
+- **Where:** eBay BIN with offers (steady decor demand, 2–6 weeks); Etsy at the same price reaches decor buyers; FB local for long cutters that cost $25 to ship.
+- **Price position:** list at the sold median (12" cutters ~$17–25, 36" cutters ~$50, Wear-Ever sieve ~$25–30, carved butter stamps/hewn bowls $60–300); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) full piece straight-on in daylight; then blade/carving close-up, maker mark, underside, end grain or patina, any cracks/worm holes, tape measure for length.
+- **State:** dimensions, blade count, maker marks, completeness (hopper, pestle, stand), wood type if known, wear and cracks by photo number, age estimate stated as estimate.
+- **Pack / haul:** 2–5 lb; cutters to 36" need a long box (40×8×6), sieves with stand immobilized in a 14×14×10, 3–6 lb class, $15–25; single box with 2" padding.
+- **Quote to a buyer:** "A [36-inch / folk-decorated] [kraut cutter / butter stamp], not the modern farmhouse-decor copy — the [heart carving / Enterprise mark] is what collectors pay for; comparable pieces have sold for [$X]."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$18 ship out − ~$18 ship in − price ≥ max($50, price). Kraut cutters and Wear-Ever sieves cannot clear this at any non-zero price. Only butter stamps, burl/hewn bowls and rare patented tools qualify. Most fit a passenger seat. No authentication.

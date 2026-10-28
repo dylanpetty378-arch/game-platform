@@ -1,5 +1,5 @@
 # Multi-tools (Leatherman PST, Wave, Charge; Victorinox SwissTool; Gerber)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges; no dated comp pulled; remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges; no dated comp pulled; remaining detail general knowledge, verify
 Slug: leatherman-multitools · Aliases: Leatherman, multi tool, multitool, pocket survival tool, PST, Wave, Charge, Surge, Skeletool, SwissTool, Gerber multi-plier
 Summary: Gerber/no-name/Micra $10–25; PST with sheath, Wave, Charge $40–100; Pat. Pend. PST and limited/anniversary editions $100–200
 Buy rule (short): Charge/Surge/TTi under $30, Pat. Pend. PST under $35
@@ -44,7 +44,13 @@ Huge, liquid eBay market (users, EDC enthusiasts, a smaller collector niche for 
 <1 lb, $6. eBay (13%).
 
 ## Selling it (for the buyer-facing listing)
-State model, stamps (Pat. Pend., Portland OR), all tools present and working, blade sharpened or not, sheath. Photograph the handle stamp, all tools open, sheath. Title keywords: "Leatherman PST Pat Pend original leather sheath", "Charge TTi", "Wave", "USA".
+- **Title words:** "Leatherman" + model ("PST", "Wave", "Charge TTi", "Super Tool") + stamp ("Pat Pend", "Portland OR USA") + "original leather sheath" + edition; Junk: "multi tool", "pocket tool", "survival". Example: `Leatherman PST Pat Pend Original Multi-Tool Portland OR USA Leather Sheath`.
+- **Where:** eBay BIN with offers (huge liquid market, days at fair price; Christmas/Father's Day bumps). Gerber/no-name only in a local lot.
+- **Price position:** at the sold median (PST with sheath $40–65; Wave/Charge $40–100; Pat. Pend./anniversary $100–200; limited editions median $350), accept −10%, floor p25; OBO; cut 10% after 2 weeks.
+- **Photos:** first photo the tool open to pliers with the stamp readable; then handle stamp macro, every tool fanned open, blade edge (sharpened?), plier tips, sheath front/back, bit kit.
+- **State:** model, stamps exactly, all tools present and working, blade sharpened or factory, plier tip/driver tip damage, rust, sheath/bit kit included, counterfeit check (stamp crispness, logo font), flaws by photo number.
+- **Pack / haul:** under 1 lb, padded mailer or small box; $6.
+- **Quote to a buyer:** "Original Leatherman [PST] stamped ['Pat. Pend.'] — the first-run Portland tool before the model names; all tools tight, [original leather sheath]; a modern Wave is [$X] and the early PSTs are what collectors want."
 
 ## Buy rule
 Buy when: Charge/Surge/TTi under $30, Pat. Pend. PST under $35. Pass when: standard PST at $45. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

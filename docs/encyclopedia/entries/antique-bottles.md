@@ -1,5 +1,5 @@
 # Antique and vintage bottles (Coca-Cola and soda, Clorox, medicine/apothecary, poison, milk, whiskey/Jim Beam decanters, bitters, inks)
-Updated: 2026-10-13 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "clorox amber bottle embossed", "beam 175 months decanter" (3 yr), "antique bottle lot", "aqua glass apothecary bottle", "poison bottle label skull", "coca cola hobbleskirt bottle", "milk bottle embossed cow italy", "coca cola nascar 6 pack bottles"); bottle-dating tells (lip finishes, seams, Owens-Illinois era) are general reference knowledge; the standard reference is the SHA/BLM Historic Glass Bottle Identification site https://sha.org/bottle/ (not re-checked this session)
+Updated: 2026-10-28 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "clorox amber bottle embossed", "beam 175 months decanter" (3 yr), "antique bottle lot", "aqua glass apothecary bottle", "poison bottle label skull", "coca cola hobbleskirt bottle", "milk bottle embossed cow italy", "coca cola nascar 6 pack bottles"); bottle-dating tells (lip finishes, seams, Owens-Illinois era) are general reference knowledge; the standard reference is the SHA/BLM Historic Glass Bottle Identification site https://sha.org/bottle/ (not re-checked this session)
 Slug: antique-bottles · Aliases: old bottles, dug bottles, bottle lot, medicine bottle, apothecary bottle, poison bottle, soda bottle, hobbleskirt, Coke bottle, milk bottle, Clorox bottle, whiskey decanter, Jim Beam decanter, bitters bottle, ink bottle
 Summary: Common 20th-century bottles (Coke, Clorox, Beam decanters, modern milk bottles) $3–25; pre-1910 embossed medicines, sodas and labelled poisons $20–100; rare colours/shapes (cobalt and amber figural poisons, bitters, early sodas, rare towns) $100–600+.
 Buy rule (short): Pass on anything machine-made after ~1915 unless it's a known rarity; buy only pre-1910 hand-finished bottles in strong colour (cobalt, emerald, amber poisons, bitters) or rare-town Coca-Cola at ≤ 30% of sold median.
@@ -73,9 +73,13 @@ Buy rule (short): Pass on anything machine-made after ~1915 unless it's a known 
 - Never ship decanters that still contain liquor (illegal on eBay and USPS).
 
 ## Selling it (for the buyer-facing listing)
-- Photograph lip, base, seams and any embossing/label under good light; hold to light for cracks.
-- Give height, colour, embossing text, estimated date range with the reasons (e.g., "tooled lip, seam stops below lip, c.1900–1915").
-- Disclose cleaning/tumbling.
+- **Title words:** type + colour + embossing + era: "cobalt poison bottle Owl Drug", "amber straight sided Coca-Cola [town]", "aqua embossed druggist bottle [city]", "labeled laudanum"; Junk: "old bottle lot", "antique glass", "rare" on hobbleskirts and Beam decanters. Example: `Antique Cobalt Blue Owl Drug Co Poison Bottle 8" Embossed Ribbed 1900s`.
+- **Where:** eBay BIN with offers for singles (coloured poisons, bitters, early sodas, rare-town Cokes); mixed lots local to decorators at $1–5 a bottle (shipping kills them). Rarities to FOHBC-connected auctions.
+- **Price position:** at the sold median (hobbleskirt $8; Clorox $12; Beam $11; aqua apothecary $18; labeled laudanum $101; cobalt Owl Drug $510), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the bottle against a white background in daylight; then lip, base (marks, pontil), seams, embossing/label in raking light, held to light for cracks and haze, ruler for height.
+- **State:** height, colour, embossing text exactly, estimated date range with reasons (lip type, seam height), chips/cracks/haze by photo number, tumbling or cleaning disclosed, repro check (Wheaton, Italy, Taiwan base marks).
+- **Pack / haul:** each bottle in 2" bubble, double-boxed, $8–14 single; never ship decanters with liquor in them; lots not shippable profitably.
+- **Quote to a buyer:** "[Owl Drug] cobalt poison, [8"], tooled lip and seam stopping below it — c.[1900–1915] original, not a Wheaton repro; no chips, no haze; the cobalt figurals bring [$200–600]."
 
 ## Buy rule
 - Price ≤ $200; passenger-seat size (single bottles fine; mega-lots usually not). Profit = sold median × 0.87 − shipping to buyer (~$10) − shipping to Dylan (~$10–20) − price ≥ max($50, price).

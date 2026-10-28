@@ -1,5 +1,5 @@
 # Steiff teddy bears and animals (Margarete Steiff GmbH, Giengen, Germany)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold listings (modern Steiff plush bears $30–80; 1950s mohair Original Teddy $200–600), Steiff collector guides (button/tag chronology), Christie's/Morphy Steiff results
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold listings (modern Steiff plush bears $30–80; 1950s mohair Original Teddy $200–600), Steiff collector guides (button/tag chronology), Christie's/Morphy Steiff results
 Slug: steiff-teddy-bears · Aliases: Steiff bear, button in ear, Knopf im Ohr, German teddy, mohair bear, Steiff animal
 Summary: modern plush $20–60; 1970s–80s mohair $60–150; 1950s–60s mohair Original Teddy and white-tag limited replicas $200–600; pre-1930 bears and rare pieces $1,000–20,000+.
 Buy rule (short): Mohair, felt paws, raised-script or earlier button ≤ $60, or boxed white-tag limited edition ≤ $50; pass synthetic yellow-tag plush over $15.
@@ -65,9 +65,13 @@ Steady eBay demand from European, US and Japanese collectors. Early bears go to 
 - 1–2 lb, $10–15. eBay ~13%. Ship in a box, not a bag, so the fur and nose aren't crushed.
 
 ## Selling it (for the buyer-facing listing)
-- Height in cm, material (mohair/alpaca/plush), button style, tag colour and article number, growler working, jointing, paw pads, any repairs.
-- Photograph the ear button close up, the tag, the paws, the face and the back.
-- Title keywords: "Steiff Mohair Teddy Bear Raised Script Button 1950s Growler", "Steiff Limited Edition White Tag Replica".
+- **Title words:** "Steiff" + "mohair" + "teddy bear"/animal name + size in cm + button type ("raised script button") + decade + "growler" or "white tag limited edition replica"; Junk: "plush", "stuffed animal", "cute", "Steiff from Germany" alone. Example: `Steiff Mohair Original Teddy Bear 35cm Raised Script Button 1950s Growler Works`.
+- **Where:** eBay BIN with offers (European, US and Japanese collectors); pre-1930 bears to Christie's/Morphy/Teddy Dorado auction; modern plush local or Q4 eBay.
+- **Price position:** at the sold median (1950s mohair 35cm $250–500; boxed white-tag replica $120–350; modern plush $30–70), accept −15%, floor p25; OBO; cut 10% after 3 weeks (replica market is soft).
+- **Photos:** first photo the bear seated, face on; then ear button macro, tag/chest tag, paw pads, face and nose stitching, back seam, joints, bald/moth spots, box and certificate for replicas.
+- **State:** height in cm, material (mohair/alpaca/plush), button style, tag colour and article number, growler working, jointing, pads original/replaced, repairs, flaws by photo number.
+- **Pack / haul:** 1–2 lb; box, never a bag — fur and nose crush; tissue around the face; $10–15.
+- **Quote to a buyer:** "Steiff [Original Teddy], [35] cm mohair with the [raised script] button — [1950s] Giengen production, not a replica; growler works and the pads are original."
 
 ## Buy rule
 Buy when: mohair (visible nap), felt paws, raised-script or earlier button, ≤ $60; or a boxed white-tag limited edition ≤ $50.

@@ -1,5 +1,5 @@
 # Vintage tracing stencils and templates (Westland Plastics, Spirograph-era kids' plastic, Hong Kong/Japan imports, Rapidesign/Pickett drafting templates, Hallmark/Disney sets)
-Updated: 2026-10-13 · Sources: general knowledge of eBay sold patterns for vintage children's tracing shapes and drafting templates (no sold data fetched this run; all numbers are estimates, verify); WorthPoint search "vintage plastic tracing stencils" (https://www.worthpoint.com/inventory/search?query=vintage+plastic+tracing+stencils) not fetched
+Updated: 2026-10-28 · Sources: general knowledge of eBay sold patterns for vintage children's tracing shapes and drafting templates (no sold data fetched this run; all numbers are estimates, verify); WorthPoint search "vintage plastic tracing stencils" (https://www.worthpoint.com/inventory/search?query=vintage+plastic+tracing+stencils) not fetched
 Slug: vintage-tracing-stencils · Aliases: tracing shapes, trace-a-pet, animal stencils, kids drawing templates, plastic stencil lot, nursery stencils, Disney stencil set, drafting template, Rapidesign template, lettering stencil
 Summary: loose 1950s–70s kids' plastic animal tracers $8–25 per lot; boxed/carded sets with original packaging $20–45; licensed character sets (Disney, Peanuts, Hanna-Barbera) $25–80; drafting templates $5–25 each; brass/tin lettering stencils sold separately ($20–80).
 Buy rule (short): Pass almost always; only boxed licensed-character sets under $10, never loose generic animal tracers.
@@ -45,7 +45,13 @@ That the box is most of the value; that a molded © Walt Disney line moves a lot
 Flat, light (under 1 lb), ships in a padded mailer for $5–7. Low transit risk except thin legs.
 
 ## Selling it (for the buyer-facing listing)
-State count, list each shape, photograph molded marks, note any broken tips, mention era as "1960s style" unless marked.
+- **Title words:** "vintage" + decade + "plastic tracing stencils"/"templates" + subject (animals, nursery) + count + "boxed set" + licensor (Walt Disney Productions, Peanuts) if moulded; drafting: brand + template number. Junk: "craft lot", "retro art supplies", "Spirograph" unless it is. Example: `Vintage 1960s Walt Disney Productions Plastic Tracing Stencils Set of 12 Mickey Bambi`.
+- **Where:** eBay BIN with offers (crafters and nostalgia buyers; 2–8 weeks); nothing beats it; loose generic lots belong in a local craft-supply lot.
+- **Price position:** list at the sold median (loose generic lots $8–20, boxed 1950s–60s sets $20–45, licensed Disney/Peanuts $25–80, drafting templates $5–25 each); accept −15%, floor −25%; OBO; cut 10% after 45 days.
+- **Photos:** 1) all pieces fanned on a plain background with the box; then box art and ends, moulded © line or "Made in Hong Kong" close-up, any broken tips/legs, count visible, ruler for size.
+- **State:** count, each shape listed, moulded marks and copyright photographed, broken tips noted by photo number, box condition, era as "1960s style" unless marked, licensed or generic.
+- **Pack / haul:** under 1 lb, flat; pieces bagged, stiff cardboard both sides, padded mailer, $5–7; thin legs are the only risk.
+- **Quote to a buyer:** "A boxed [1960s Westland / Walt Disney Productions] set with the [© line moulded in photo 3 / original box art], all [12] pieces, no broken tips — loose generic tracers are the $10 lots; [licensed/boxed] sets sell for [$X]."
 
 ## Buy rule
 Profit = median × 0.87 − ship − ship − price. With medians of $15–45, profit cannot reach $50. Pass every loose lot. Only exception: boxed licensed set listed ≤ $10 where comps show ≥ $90 — rare. Not a category to hunt.

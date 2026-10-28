@@ -1,5 +1,5 @@
 # Rattan / bamboo rocking horses (Albini-style)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Chairish listing 7887095 ($275 ask, 31×17×22 in); 1stdibs "mid-century stylized rattan rocking horse" listings (asks $400–900); run12 sheet 56
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Chairish listing 7887095 ($275 ask, 31×17×22 in); 1stdibs "mid-century stylized rattan rocking horse" listings (asks $400–900); run12 sheet 56
 Slug: rattan-rocking-horses · Aliases: Franco Albini style rocking horse, wicker rocking horse, bamboo rocking horse, mid-century rattan horse, bentwood rattan horse
 Summary: Broken, painted or repro $30–60; complete worn $100–175; excellent original $175–300 (Chairish/Etsy); large sculptural 36"+ asks $400–900.
 Buy rule (short): ≤ $40, excellent, local pickup only (or a realistic $250+ Chairish sale); pass at $50+ when it has to be shipped.
@@ -49,7 +49,13 @@ Nothing. They usually over-attribute (Albini). The margin problem is shipping, n
 ~8–10 lb, but 31×22×17 in, so dimensional weight applies: $45–70 each way by UPS. Only sensible as a local buy or when a Chairish-level buyer pays shipping.
 
 ## Selling it (for the buyer-facing listing)
-Title: "Mid-Century Bent Rattan Bamboo Rocking Horse Franco Albini Style 1960s". State the dimensions, original finish, saddle condition and any rewraps. Use "style", never a direct Albini attribution. Photograph it in profile, the saddle, and the joints. Offer local pickup.
+- **Title words:** "rattan bamboo rocking horse" + "mid-century" + "Franco Albini style" + "1960s" + "bent rattan" + size + "honey". Junk: "Albini" as a direct attribution, "antique", "Pier 1". Example: `Mid-Century Bent Rattan Bamboo Rocking Horse Franco Albini Style 1960s 31 Inch`.
+- **Where:** Chairish or Etsy (decorators pay $175–300 and the buyer pays shipping); FB local for the quick sale; eBay only with local pickup on, since dimensional shipping is $45–70.
+- **Price position:** list at the Chairish/eBay sold median ($100–175 worn, $175–300 excellent); accept −15%, floor −25%; OBO; cut 10% after 60 days (slow sales), bump before the holidays.
+- **Photos:** 1) full profile on a plain floor; then the saddle, each joint and wrap, underside of rockers, any cane breaks or rewraps, colour in daylight, tape measure for length and height.
+- **State:** dimensions, original finish (honey) or painted, saddle condition, cane breaks and rewraps by photo number, "style" not attributed, origin unknown unless labelled, local pickup offered.
+- **Pack / haul:** 8–10 lb but 31×22×17 in, so dimensional weight: wrap in foam, single box 34×24×20, $45–70 UPS; local it fits an SUV cargo area or a back seat.
+- **Quote to a buyer:** "An original-finish 1960s bent-rattan horse in the Albini style, [31"] with no cane breaks — Chairish lists these at $275 and larger sculptural ones ask $400–900; this one is priced at [$X] with local pickup available."
 
 ## Buy rule
 Buy when: ≤ $40, excellent condition and local pickup, or when a Chairish sale at $250+ is realistic. Pass when: $50+ and it has to be shipped; net is about $0 after two-way freight. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat; the standard ~31" size does, but 36"+ versions are likely bigger and excluded.

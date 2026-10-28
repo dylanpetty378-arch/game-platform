@@ -1,5 +1,5 @@
 # Cast iron figural decor (Hubley, Judd, Wilton, Bradley & Hubbard, Japanese/Chinese export, modern Taiwan/China repros)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Craigslist listing 7948712989 (photo)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Craigslist listing 7948712989 (photo)
 Slug: cast-iron-figural-decor · Aliases: cast iron figurine, cast iron rickshaw, cast iron candle holder, incense burner, trinket box, cast iron doorstop, figural paperweight
 Summary: Modern import figurals $10–35; mid-century Japanese iron incense/candle pieces $20–60; signed US pre-1940 figurals (Hubley, B&H, Judd) $60–300+ (general knowledge, verify)
 Buy rule (short): Pass on rusty unmarked figurals; buy only signed/numbered American pre-1940 pieces with original paint at ≤ $40.
@@ -45,7 +45,13 @@ Little — owners usually overprice rust-finish pieces as "antique." The miss ru
 Heavy for size (1–4 lb), robust; small box, $10–14.
 
 ## Selling it (for the buyer-facing listing)
-Show bottom for marks, describe as "vintage" unless proven age; state dimensions and weight.
+- **Title words:** maker (Hubley/Judd/Bradley & Hubbard/Iwachu), form (doorstop/bookends/incense burner/rickshaw), subject, "cast iron", "original paint", casting number, height. Junk: "antique" on rust-wash repros, "farmhouse", "rustic". `Hubley Cast Iron Scottie Dog Doorstop Original Paint #xxx 1930s`
+- **Where:** eBay BIN with offers for signed US pieces (Judd median $60, Hubley $36); Etsy for Japanese Nambu/decor pieces (pays slightly more); FB local for unmarked repros.
+- **Price position:** signed US at the sold median, OBO, accept −15%, floor p25 ($30–40); Japanese iron $20–60 firm 3 weeks; repros $10–30 local. Cut 10% at 45 days.
+- **Photos:** first: piece front in raking light; then bottom for marks/casting number, seam and screw heads (slotted vs Phillips), paint layers close-up, each crack/repair, back, ruler and weight.
+- **State:** maker/mark or "unmarked", dimensions, weight, paint original/repaint/rust finish, "vintage" unless age is proven, cracks/welds/broken shafts by photo number.
+- **Pack / haul:** 1–4 lb, robust; small box with padding on projections, $10–14.
+- **Quote to a buyer:** "Signed [Hubley] #[xxx] with layered original paint and slotted screws — the rust-wash imports are $15 gift-shop iron; the pre-1940 marked pieces are what sells at $50–200."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$12 − ~$12 − price ≥ max($50, price) → need a ≥ $115 sale on a $40 buy. Only signed US figurals with original paint qualify. Unmarked rusty Asian figurals are a pass.

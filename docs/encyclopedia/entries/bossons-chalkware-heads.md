@@ -1,5 +1,5 @@
 # Bossons chalkware heads (W.H. Bossons Ltd, Congleton, England; Fraser Art; Legend Products; "Bossons-style" imitators)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("bossons chalkware heads" median $15.99 n=50, p25 $10 p75 $20; "Bossons chalkware character heads" median $22 n=50, p25 $15 p75 $29.59, lots $67.50 Jan 25 2026 and $139.99 Feb 13 2026); International Bossons Collectors Society (IBCS) and collector knowledge (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("bossons chalkware heads" median $15.99 n=50, p25 $10 p75 $20; "Bossons chalkware character heads" median $22 n=50, p25 $15 p75 $29.59, lots $67.50 Jan 25 2026 and $139.99 Feb 13 2026); International Bossons Collectors Society (IBCS) and collector knowledge (general knowledge, verify). No web search this run.
 Slug: bossons-chalkware-heads · Aliases: Bossons heads, Bosson ware, chalkware wall heads, character heads, plaster wall masks, Congleton heads, Fraser Art, Legend Products heads, wall plaques
 Summary: Common Bossons character heads $8–25 each; better/scarce heads (uniformed, Asian/ethnic series, Dickens, large figures) $25–60; rare early/limited heads and Fraser Art pieces $60–200+; mixed lots $3–6 per head.
 Buy rule (short): Buy clean Bossons lots at ≤ $3 per head (seller-supplied back-stamp photo); sell singly or in themed pairs. Pass on single common heads.
@@ -50,7 +50,13 @@ The per-head value: estate lots of 20+ heads are often priced at $1–3 each. Ra
 0.5–1 lb each; wrap individually, double-box. Single $6–9 in USPS Ground Advantage. A 24-head lot boxed ~15 lb, $25–35.
 
 ## Selling it (for the buyer-facing listing)
-Front, back stamp and label photo, year, height, call out every chip; group by theme (sailors, Dickens) for multi-head listings.
+- **Title words:** "Bossons", "chalkware", "wall head"/"character head", character name (Sardinian, Smuggler, Chef, Mountie), year from the back stamp, "Congleton England", height; lots: count and theme. Junk: "Legend Products" or imitators called Bossons, "rare" on Old Salt, "antique". `Vintage Bossons Chalkware Character Wall Head Sardinian 1973 Congleton England`
+- **Where:** eBay BIN with offers (older collectors, many UK/Canada — ship international); group by theme for multi-head listings; big estate lots at $3–6 a head.
+- **Price position:** at the sold median (common $16–22, better characters $25–60, Chef $28, rare/Fraser Art $60–200, lots $67–140), OBO, accept −20%, floor $8; cut after 45 days (singles take 20–60 days).
+- **Photos:** face straight-on; back stamp and label; profile; every chip and paint flake close-up; hanging hook; group shot for lots with each face visible; ruler.
+- **State:** character name, back stamp and year, height, every chip, paint loss, repairs, hook intact, count and names for lots by photo number.
+- **Pack / haul:** 0.5–1 lb each, wrapped individually, double-boxed, $6–9 single; 24-head lot ~15 lb $25–35; shoebox class.
+- **Quote to a buyer:** "This is a stamped [1973] Bossons [Sardinian], [no chips], from the Congleton factory; the better characters sell for $[25–60], while the common Old Salt and Jock are $10–20."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). Selling singly at ~$16–22 with buyer-paid shipping, each head nets ~$14–19 before inbound costs; a lot of 20+ at ≤ $3/head clears the rule easily (Tier A at ≤ $2/head). If Dylan must absorb shipping (~$8/head), require ≤ $1.50/head. Labour: ~one listing per head — group into themed sets of 3–4. Confirm Bossons stamps on backs and no chips before buying.

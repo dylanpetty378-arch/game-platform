@@ -1,5 +1,5 @@
 # Tokusatsu and anime vintage tees (Tsuburaya/Ultraman, Akira, Ghost in the Shell, Evangelion, Sailor Moon, Dragon Ball, Pokémon)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no rows for anime/tokusatsu tees. To verify: eBay sold "vintage anime shirt 90s", "ultraman shirt vintage", Grailed sold listings (https://www.grailed.com), tag-dating guides (e.g. https://www.heddels.com vintage tag guides, https://vintagefashionguild.org label resource).
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no rows for anime/tokusatsu tees. To verify: eBay sold "vintage anime shirt 90s", "ultraman shirt vintage", Grailed sold listings (https://www.grailed.com), tag-dating guides (e.g. https://www.heddels.com vintage tag guides, https://vintagefashionguild.org label resource).
 Slug: tokusatsu-and-anime-vintage-tees · Aliases: 90s anime shirt, vintage anime tee, Ultraman shirt, Kamen Rider tee, Super Sentai shirt, Power Rangers 1993 tee, Akira shirt, Ghost in the Shell tee, Evangelion shirt, Sailor Moon tee, DBZ shirt, single stitch anime, Japanese movie promo tee
 Summary: 2000s+ and reprints $10–30; 1990s licensed TV/anime (DBZ, Pokémon, Power Rangers, Ultraman) $40–150; 1990s cult film/anime (Evangelion, Sailor Moon, Cowboy Bebop promo) $150–500; grails (Akira 1988 Fashion Victim, Ghost in the Shell 1995–96, early Evangelion) $500–2,500+ (general knowledge, verify)
 Buy rule (short): Buy ≤ $40 only when the tag, print and copyright line are visible and date it to 1999 or earlier; never buy a grail title without tag/copyright photos – bootlegs dominate.
@@ -51,7 +51,13 @@ Strong since ~2019 among streetwear buyers; fast for genuine 90s anime in L/XL (
 Flat, light (6–8 oz), poly mailer, $5–6. No breakage risk.
 
 ## Selling it (for the buyer-facing listing)
-Copyright line photo, tag photo, measurements (pit-to-pit, length), single/double stitch, flaws. Title: year + show + "vintage tee" + tag + size, e.g. "Vintage 1998 Ultraman Gaia T-Shirt Tsuburaya Japan Size L".
+- **Title words:** year + show/film + "vintage tee"/"t-shirt" + licensor (Tsuburaya, Toei, Bandai) + tag/blank (Giant, Printstar) + size + "single stitch" + "promo" if so. Junk: "anime shirt", "retro", "reprint" unless true. Example: `Vintage 1998 Ultraman Gaia T-Shirt Tsuburaya Japan Printstar Size L Single Stitch`.
+- **Where:** eBay BIN with offers and Grailed at the same price (streetwear buyers; genuine 90s L/XL sells in days to 2 weeks); Depop for mid-tier; grails do best as eBay auctions with a reserve.
+- **Price position:** list at the sold median for the exact title and size (1990s DBZ/Pokémon/Power Rangers $30–90, Ultraman/Sailor Moon/Bebop promo $60–250, Evangelion $150–500, Akira/GITS $500+); accept −10%, floor −20%; OBO; cut 10% after 21 days.
+- **Photos:** 1) front flat-lay on a plain floor; then back, copyright line close-up, tag, hem and sleeve stitching, pit-to-pit with a tape, any holes/stains/cracking in the print.
+- **State:** year from the copyright line, show/film, licensor, blank/tag, size with pit-to-pit and length in inches, single or double stitch, print condition (cracking, fade), holes/stains by photo number, "not a reprint" with the evidence.
+- **Pack / haul:** 6–8 oz; folded in a poly mailer, under-1-lb class, $5–6; no breakage risk.
+- **Quote to a buyer:** "Genuine [1998] [Ultraman Gaia] on a [Printstar] blank with the [©円谷プロ] copyright line in photo [3], single stitch, size [L] measured [22"] pit-to-pit — the 2005+ reprints are the $15 shirts; comparable 90s [title] tees sell for [$X]."
 
 ## Buy rule
 Profit = median × 0.87 − $6 to buyer − $6 to Dylan − price ≥ max($50, price). A $30 Ultraman Gaia 1998 tee needs ~$105+ resale; plausible only for adult L/XL in clean condition (estimate $60–120, general knowledge, verify) – borderline, ask seller for tag/copyright/measurements. Grail titles need expert-level authentication of print and tag – treat as "professional authentication needed" and pass unless the evidence is overwhelming and price ≤ $40.

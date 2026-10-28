@@ -1,5 +1,5 @@
 # Vintage advertising coolers (Coca-Cola, Pepsi, 7Up, Hamm's, Budweiser, Coors, Miller, Snap-on, Mac Tools, Matco, John Deere, NAPA; makers Progress Refrigerator, Cavalier, Hemp, Action Mfg, Poloron, Coleman, Gott, Igloo, Thermos)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Coleman cooler dating guides from collectors (e.g. https://www.oldcolemanparts.com/), Igloo/Gott corporate history https://www.igloocoolers.com/pages/history ) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (references: Coleman cooler dating guides from collectors (e.g. https://www.oldcolemanparts.com/), Igloo/Gott corporate history https://www.igloocoolers.com/pages/history ) — prices are estimates (general knowledge, verify)
 Slug: vintage-advertising-coolers · Aliases: Coke cooler, metal picnic cooler, ice chest, Snap-on cooler, beer cooler, vintage cooler, advertising ice chest, Gott cooler, Igloo cooler, Mac Tools cooler
 Summary: 1980s–90s plastic promo coolers (Snap-on/Mac/Gott/Igloo) $20–60; Coleman/Thermos 1950s–60s metal plaid/stripe $40–120; embossed metal soda coolers (Coca-Cola Progress/Action, Pepsi) $100–400; Cavalier/Westinghouse chest coolers and machines $400–3,000+ (bigger, local).
 Buy rule (short): Only buy small embossed-metal soda/beer coolers in original paint ≤ 30% of median; plastic tool-truck coolers are too bulky to ship for their value — pass.
@@ -44,7 +44,13 @@ Small Coca-Cola metal picnic coolers in garages listed as "old cooler".
 Bulky (20×14×14 in+); $35–70. Metal coolers ride well; plastic lids crack.
 
 ## Selling it (for the buyer-facing listing)
-Maker, size, original paint, interior condition, drain plug, opener, odor.
+- **Title words:** brand + maker (Progress, Action, Coleman) + "metal" + "cooler"/"picnic cooler" + era + "embossed" + colour. Junk: "ice chest", "camping", "man cave". Example: `Vintage 1950s Coca-Cola Progress Embossed Metal Picnic Cooler Red Original Paint`.
+- **Where:** FB local (20×14×14", $35–70 shipping; tool-brand collectors buy locally; summer peak); eBay BIN with offers only for embossed metal soda coolers.
+- **Price position:** list at the sold median (Snap-on/Mac/Gott plastic $30–70, Coleman/Thermos metal $40–120, embossed Coke/Pepsi $100–400); accept −15%, floor −25%; OBO; cut 10% after 30 days, relist in May.
+- **Photos:** 1) front with logo, lid closed; then lid open showing the interior, maker plate, drain plug, bottle opener, handles and hinges, rust/dents close-up, underside.
+- **State:** maker, dimensions, original paint vs repaint, interior condition (rust, liner), drain plug and opener present, lid seal, odour, flaws by photo number.
+- **Pack / haul:** 10–20 lb, bulky; metal coolers ride in a single box with corner padding, 15–20 lb class, $35–70; plastic lids crack, so wrap the lid; local it fits a trunk.
+- **Quote to a buyer:** "A [1950s Progress] Coca-Cola picnic cooler in original paint with the opener and plug — not a reproduction; comparable embossed metal coolers sell for [$X], and the plastic promo coolers are the $40 ones."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$45 ship out − ~$45 ship in − price ≥ max($50, price). Only small embossed metal soda coolers at very low prices clear this; plastic promos never. Most coolers barely fit a passenger seat. No authentication.

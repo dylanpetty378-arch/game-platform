@@ -1,5 +1,5 @@
 # Pro-audio rack and stage gear (dbx EQs, Radial DIs, Shure Green Bullet, Numark, TASCAM)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Reverb/eBay browse Oct 2025; sweep listings 1920, 2172, 2620, 1985, 2343, 2181
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Reverb/eBay browse Oct 2025; sweep listings 1920, 2172, 2620, 1985, 2343, 2181
 Slug: pro-audio-di-and-eq · Aliases: graphic EQ, rack EQ, DI box, direct box, harmonica mic, Green Bullet, rack gear, studio gear, PA gear
 Summary: Behringer/Rapco/old DJ controllers $15–50; dbx 2215/231, Radial ProDI/ProD2, Shure 520DX, TASCAM DP-03 $70–180; Radial J48/JDI, dbx 160A, crystal Shure 520 $150–300; dbx 160VU, API/Neve, Urei 1176 $500–3,000+.
 Buy rule (short): Only in lots at ≤ 35% of Reverb sold median; single items at > 60% of median are a pass.
@@ -57,7 +57,13 @@ Model numbers. But pro-audio sellers nearly always know and price at Reverb aski
 Rack units 5–10 lb, $20–30; DIs 2 lb, $10. Reverb 5–8% fees, eBay 13%. Must power-test.
 
 ## Selling it (for the buyer-facing listing)
-Title: brand + model + type, e.g. "dbx 231 Dual 31-Band Graphic EQ Rack Tested". State that it was tested working and how, all sliders and pots OK, what is included (power, case, cables) and cosmetic wear. Photograph the front, back panel and serial, and the unit powered on.
+- **Title words:** brand + model + type + "rack" + "tested": "dbx 231 dual 31-band graphic EQ", "Radial J48 active DI box", "Shure 520DX Green Bullet harmonica mic". Junk: "DJ equipment", "sound gear", "as is". Example: `dbx 231 Dual 31-Band Graphic EQ Rack Unit Tested Working All Sliders`.
+- **Where:** Reverb BIN (reference price, 5–8% fees, bands and churches search it); eBay BIN with offers as a second listing; FB local only for a lot.
+- **Price position:** list at the Reverb sold median (dbx 2215 $90–140, Radial ProD2 $100–120, Shure 520DX $75–95, J48/JDI $120–180, dbx 160A $150–300); accept −10%, floor −15%; OBO; cut 5% after 21 days.
+- **Photos:** 1) front panel straight-on, powered on; then back panel with jacks, serial label, rack ears, each slider/pot row, included power supply/case; video of it powered with signal passing.
+- **State:** model, tested working and how (signal through every channel), all sliders/pots clean and working, included power supply, case, cables, cosmetic wear and rack rash, flaws by photo number.
+- **Pack / haul:** rack units 5–10 lb, sliders padded flat, single box with 2" foam, 10-lb class, $20–30; DIs 2 lb, small box, $10.
+- **Quote to a buyer:** "[dbx 231 / Radial J48], tested through every channel — this is the Jensen-transformer/dual-31 version, not the Behringer copy; Reverb sold prices run [$X] and new they list at [$Y]."
 
 ## Buy rule
 Buy when: Radial/dbx units are offered at ≤ 35% of the Reverb sold median in a lot. Pass when: single items at > 60% of the sold median (all of today's). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

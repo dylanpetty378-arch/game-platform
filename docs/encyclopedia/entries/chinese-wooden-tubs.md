@@ -1,5 +1,5 @@
 # Chinese wooden tubs, buckets and rice measures (fir/cedar coopered baby baths and foot tubs, wedding buckets, rice measures (dou/sheng), water buckets, food baskets; Japanese oke/hibachi look-alikes; Korean rice chests)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Chairish and 1stdibs dealer listings for "Chinese wedding bucket", "Chinese rice measure" (retail asks only); Shanxi provincial furniture import dealers (e.g. Pagoda Red, Cathay Home, Gallery 9); eBay sold search https://www.ebay.com/sch/i.html?_nkw=chinese+wooden+bucket&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13.
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Chairish and 1stdibs dealer listings for "Chinese wedding bucket", "Chinese rice measure" (retail asks only); Shanxi provincial furniture import dealers (e.g. Pagoda Red, Cathay Home, Gallery 9); eBay sold search https://www.ebay.com/sch/i.html?_nkw=chinese+wooden+bucket&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13.
 Slug: chinese-wooden-tubs · Aliases: Chinese wooden bucket, rice measure, rice bucket, grain measure, dou, sheng, wedding bucket, dowry bucket, baby bath tub, foot bath, cedar tub, wooden basin, Asian bucket, ice bucket, waste basket, planter
 Summary: Recent and 1990s–2000s export tubs/buckets $20–60; genuine early 20th-c. rice measures, foot tubs and plain wedding buckets $50–150; finely lacquered/painted wedding buckets with brass fittings, sets of graduated measures $150–400; rare carved or lacquered pieces $300–1,000.
 Buy rule (short): Pass unless a red-lacquered wedding bucket with original brass, or a nested set of measures, at ≤ $40; shipping (bulky, $30–50 each way) kills single plain tubs.
@@ -46,7 +46,13 @@ Mostly the reverse: owners price imported decor as antiques. The rare miss is a 
 Bulky: 18–24" long, 6–12 lb; box 24x18x14 → $30–50 each way. Fits a passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-Describe as "Chinese elm/fir rice measure, early-to-mid 20th century" only with age tells; disclose cracks and that it is not watertight; give dimensions; suggest decor uses.
+- **Title words:** "Chinese", form (rice measure/wedding bucket/foot tub), wood (elm/fir), "red lacquer", "brass", size in inches, "early 20th century" only with age tells. Junk: "antique" on import-shop stock, "rustic farmhouse". `Antique Chinese Red Lacquer Wedding Bucket Brass Fittings 14" Elm`
+- **Where:** FB local or Chairish (sells for more than eBay; decorator buyers); eBay BIN only for small measures where shipping stays under $30.
+- **Price position:** at the sold median (measures $40–100, tubs $50–150), accept −20%, floor $40 local; OBO. Cut 20% after 30 days — decor buyers are slow.
+- **Photos:** first: styled as decor in daylight; then stave edges and iron straps (age), interior, underside, lacquer craquelure close-up, every crack/gap, tape measure for scale.
+- **State:** form, wood, dimensions, weight, lacquer original vs repainted, brass fittings, dealer sticker if any, cracks and "not watertight", suggested decor use.
+- **Pack / haul:** 18–24" long, 6–12 lb; box 24x18x14, single box with corner padding, $30–50; fits a passenger seat.
+- **Quote to a buyer:** "Genuine [early-to-mid 20th c.] [elm rice measure] with hand-forged nails and oxidised straps — the import-shop copies are varnished and machine-nailed; this is the real one."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$40 to buyer − ~$40 to Dylan − price; pass unless ≥ max($50, price).

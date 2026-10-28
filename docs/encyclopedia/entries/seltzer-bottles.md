@@ -1,5 +1,5 @@
 # Seltzer / soda siphon bottles (Sparklets, BOC, Soda King, Kidde, Hoffman / Czech & Pittsburgh etched glass, Art Deco chrome)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak data for this type in db/comps.jsonl
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); no Terapeak data for this type in db/comps.jsonl
 Slug: seltzer-bottles · Aliases: soda siphon, seltzer siphon, Sparklets siphon, wire mesh siphon, soda syphon, Soda King, bar siphon, seltzer bottle
 Summary: plain modern siphons $15-35; Sparklets wire-mesh / Art Deco chrome $40-110; etched/colored glass bottler siphons (Czech blue, named bottlers) $40-150; rare colors, Soda King bakelite boxed sets and NYC bottler acid-etched $100-250 (general knowledge, verify)
 Buy rule (short): Buy colored-glass or named-bottler etched siphons or boxed Soda King sets ≤ $30; plain clear wire-mesh Sparklets only ≤ $10.
@@ -46,7 +46,13 @@ Color: a green/blue/amber glass Sparklets is worth roughly double clear. Bottler
 Glass, 3-4 lb, tall (~13"); double box, $15-20. Fragile neck.
 
 ## Selling it (for the buyer-facing listing)
-Brand, country, glass color, height, mesh condition, whether valve operates (do not pressure-test), display-only disclaimer.
+- **Title words:** "Sparklets" or "Soda King", "seltzer siphon bottle", glass colour (cobalt/green/amber), "wire mesh", "Art Deco chrome", bottler city name if etched, "Made in England", height. Junk: "soda bottle", "bar decor", "antique" on modern aluminum. `Sparklets Cobalt Blue Wire Mesh Seltzer Siphon Bottle Chrome Head England`
+- **Where:** eBay BIN with offers (barware/mancave buyers, 2–6 weeks; list international for UK bidders); boxed Soda King sets to Deco collectors on eBay.
+- **Price position:** clear Sparklets at the sold median ($30), OBO; coloured mesh and etched bottlers at $60–150 median, accept −15%; Soda King boxed at $100–250, firm 3 weeks. Cut 10% at 45 days.
+- **Photos:** first: bottle standing, backlit for colour; then head stamp (SPARKLETS / Made in England), mesh close-up for broken wires, neck and base for chips, interior tube, nozzle, fill line, etched lettering, box and chargers.
+- **State:** brand, country, glass colour, height, head metal and condition, mesh complete or broken wires, tube intact, valve operates (not pressure-tested), display-only disclaimer, chips/cloudiness by photo number.
+- **Pack / haul:** 3–4 lb, ~13" tall, double box with the neck padded, $15–20.
+- **Quote to a buyer:** "[Cobalt] Sparklets with full mesh and the stamped chrome head — clear ones sell for $30; coloured glass runs about double, and this one has the original tube and nozzle."
 
 ## Buy rule
 Resale must be ≥ ~$95 at $15 cost for profit ≥ $50 (0.87 × 95 − 18 − 18 − 15 ≈ $32 - still short), so realistically only colored-glass, etched bottler cobalt or boxed Soda King sets reach Dylan's threshold. Plain clear Sparklets: pass unless ≤ $10 and part of a bundle.

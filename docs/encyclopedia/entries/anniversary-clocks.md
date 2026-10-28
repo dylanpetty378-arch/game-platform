@@ -1,5 +1,5 @@
 # Anniversary clocks (400-day torsion clocks: Kundo / Kieninger & Obergfell, Schatz, Kern, Koma, Herr, Haller, Jahresuhrenfabrik, Gustav Becker; quartz "anniversary" clocks: Rhythm, Seiko, Howard Miller, Bulova, Elgin)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("anniversary clocks" median $14.07 n=48 — mostly parts; "Rhythm quartz musical anniversary clock" median $50 n=20, p25 $43 p75 $70; "Kundo Kieninger & Obergfell 400-day anniversary" median $35 n=49, p25 $25 p75 $45, high sales $119 and $225); Charles Terwilliger, "The Horolovar 400-Day Clock Repair Guide" (suspension-spring reference, general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("anniversary clocks" median $14.07 n=48 — mostly parts; "Rhythm quartz musical anniversary clock" median $50 n=20, p25 $43 p75 $70; "Kundo Kieninger & Obergfell 400-day anniversary" median $35 n=49, p25 $25 p75 $45, high sales $119 and $225); Charles Terwilliger, "The Horolovar 400-Day Clock Repair Guide" (suspension-spring reference, general knowledge, verify). No web search this run.
 Slug: anniversary-clocks · Aliases: 400 day clock, torsion clock, dome clock, glass dome clock, Kundo clock, Schatz clock, rotating pendulum clock, Jahresuhr, carousel clock
 Summary: Quartz dome/carousel clocks $20–70; post-war West German 400-day clocks (Kundo, Schatz, Koma, Kern) $25–60, miniatures and electronic Kundo $40–120; pre-WWII Gustav Becker, Jahresuhrenfabrik, Badische Uhrenfabrik disc-pendulum and early "Plato"-style pieces $100–600; clocks with complicated pendulums/skeleton or Atmos-like rarities more.
 Buy rule (short): Pass on quartz and common post-war German 400-day clocks; only pre-1930 German clocks with disc pendulums and original domes, or Kundo/Schatz miniatures, at ≤ $25 — and they're fragile.
@@ -52,7 +52,13 @@ J. Kaiser globe clocks and miniatures; pre-war disc pendulums; "US Zone" marks.
 Dome + clock 3–6 lb; must remove/lock pendulum and ship dome separately wrapped; $18–25.
 
 ## Selling it (for the buyer-facing listing)
-Back plate marks and plate numbers, suspension condition, whether it runs, dome original, height.
+- **Title words:** maker + "400 day anniversary clock" + era/mark ("Kundo", "Schatz 1000 day", "Gustav Becker disc pendulum", "US Zone") + "glass dome" + "running"; Junk: "quartz" (it isn't 400-day), "brass clock", "untested". Example: `Gustav Becker 400 Day Anniversary Clock Disc Pendulum Glass Dome Running 1920s`.
+- **Where:** eBay BIN with offers for pre-war Becker/JUF, miniatures, J. Kaiser globes and US-Zone; common post-war Kundo/Schatz local (domes break in shipping, $25–60 doesn't cover it).
+- **Price position:** at the sold median (Kundo $39, p75 $58; Gustav Becker $100, p75 $250; quartz carousel $50), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo under the dome, front; then back plate marks and plate numbers, pendulum and suspension spring, movement from above, base underside, dome rim for chips, height against a ruler; video of it running for a minute.
+- **State:** maker and back-plate marks, plate/model number, runs (how long tested) or not, suspension spring condition, pendulum lock present, dome original and chip-free, key included, height.
+- **Pack / haul:** 3–6 lb; lock or remove the pendulum, wrap the dome separately and box it apart from the clock, double-box; $18–25. Carry-on size for local.
+- **Quote to a buyer:** "[Gustav Becker] with the eagle mark on the back plate and the [disc] pendulum — pre-war, not a 1950s Kundo; runs with the original suspension, dome chip-free; the post-war ones are [$25–60] and these are [$100–250]."
 
 ## Buy rule
 Profit = median × 0.87 − ~$20 to buyer − ~$15 to Dylan − price. Kundo ($35): 30 − 35 = loss. Rhythm ($50): 43.5 − 35 − price ≈ loss. **Pass.** Pre-war disc clock ($200) at ≤ $25: 174 − 35 − 25 = $114.

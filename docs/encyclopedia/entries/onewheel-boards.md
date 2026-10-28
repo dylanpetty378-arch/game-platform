@@ -1,5 +1,5 @@
 # Onewheel self-balancing boards (Future Motion: V1, Onewheel+, +XR, Pint, Pint X, GT, GT S-Series)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: fallman.tech Onewheel+ spec page; eBay/owforum used listings 2025
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: fallman.tech Onewheel+ spec page; eBay/owforum used listings 2025
 Slug: onewheel-boards · Aliases: Onewheel, One Wheel, Future Motion, electric skateboard, self-balancing board, Onewheel XR, Onewheel Pint
 Summary: V1 and "needs battery/won't charge" boards $150–300; working Onewheel+ with charger $300–500; working +XR $500–900; GT / GT S-Series $900–1,800.
 Buy rule (short): Buy working, tested-in-person Onewheel+ ≤ $150 with charger, XR ≤ $300, GT ≤ $500; pass no-charger/untested/"won't balance" boards, V1s, and too-good pawn-style listings.
@@ -48,7 +48,13 @@ Model identification (+ vs XR is a $300 gap – XR has "XR" on the rail and a bi
 25 lb (+) to 35 lb (GT), lithium battery = hazmat ground only; ~$60–100 via UPS ground in the original-size box. Must be tested riding before buying (electronics rule). eBay fees ~13%.
 
 ## Selling it (for the buyer-facing listing)
-State model, mileage (from app), battery health/range achieved, charger included (voltage), tyre condition, any error codes ever, upgrades (fenders, rails, tyre), cosmetic damage. Photograph both rails, footpads, tyre tread, serial label, app screenshot of mileage/battery. Title keywords: "Onewheel+ XR Future Motion Electric Board with Charger Tested".
+- **Title words:** "Onewheel" + model (+, +XR, Pint, GT) + "Future Motion" + "with charger" + "tested" + mileage. Junk: "electric skateboard", "self balancing", "as is". Example: `Onewheel+ XR Future Motion Electric Board 63V Charger Tested 450 Miles`.
+- **Where:** FB local first (30 lb lithium hazmat, riders want to test-ride, pays near eBay without $80 shipping); eBay BIN with offers reaches more buyers if local stalls.
+- **Price position:** list at the sold median for the model (+ $300–450 with charger, XR $550–850, GT $900–1,800); accept −10%, floor −20%; OBO; relist in spring if it stalls in winter.
+- **Photos:** 1) full board side-on with rail model text visible; then both rails for scrapes, footpads, tyre tread, charger with voltage label, serial label, app screenshot of mileage and battery health; video of it balancing and riding.
+- **State:** model, mileage from the app, battery health/range achieved, charger included and voltage, tyre condition, error codes ever shown, upgrades (fenders, rails, tyre), cosmetic damage by photo number, serial.
+- **Pack / haul:** 25–35 lb, lithium battery = UPS ground hazmat only, original-size box with foam, $60–100; local it fits a car trunk or back seat.
+- **Quote to a buyer:** "This is a [+XR] with [N] miles and [X] range on the app — retail was [$1,499/$1,800] new and working XRs with the original 63V charger sell for [$X]; it has been ridden and tested, no error codes."
 
 ## Buy rule
 Buy when: working Onewheel+ ≤ $150 with charger, XR ≤ $300, GT ≤ $500, tested in person. Pass when: no charger/untested/"won't balance", V1, or anything that looks like a stock/pawn photo at a too-good price (scam pattern). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).

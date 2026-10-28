@@ -1,5 +1,5 @@
 # Seashells and natural specimens (abalone, conch, cowries, nautilus, coral, sea urchins, minerals, fossils)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers and legal points); Wikipedia "Abalone" https://en.wikipedia.org/wiki/Abalone ; Wikipedia "Red abalone" https://en.wikipedia.org/wiki/Red_abalone ; CITES appendices https://cites.org/eng/app/appendices.php ; California Department of Fish and Wildlife abalone page https://wildlife.ca.gov/Conservation/Marine/Invertebrates/Abalone (verify); project comps file /home/claude/game-platform/db/comps.jsonl (no shell data on file).
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers and legal points); Wikipedia "Abalone" https://en.wikipedia.org/wiki/Abalone ; Wikipedia "Red abalone" https://en.wikipedia.org/wiki/Red_abalone ; CITES appendices https://cites.org/eng/app/appendices.php ; California Department of Fish and Wildlife abalone page https://wildlife.ca.gov/Conservation/Marine/Invertebrates/Abalone (verify); project comps file /home/claude/game-platform/db/comps.jsonl (no shell data on file).
 Slug: seashells-and-natural-specimens · Aliases: abalone shell, paua, smudge bowl, shell collection, conch shell, seashells, specimen shells, cowrie, nautilus, coral, sea urchin, sand dollar, shell lot, beach decor
 Summary: Common abalone, conch, cowrie and beach shells $3–20 each; large red abalone (8–10 in) and quality specimen lots $20–60; rare specimen-grade shells with locality data (cones, cowries, Conus gloriamaris) $100–1,000+; restricted items (queen conch, coral, giant clam, nautilus in some contexts) — avoid.
 Buy rule (short): Pass on decorative shell lots; only buy documented specimen collections with labels (Latin names, locality, collector) at ≤ 25% of resale — and nothing CITES-listed or state-restricted.
@@ -46,7 +46,13 @@ Labelled collections with locality data; old natural-history cabinet specimens.
 Abalone: 0.5–1.5 lb each; 4 large shells ≈ 4–6 lb packed, $15–22. Wrap individually; edges chip.
 
 ## Selling it (for the buyer-facing listing)
-Species, size, natural vs. polished, origin (if known, and legal source), chips. Avoid medical/spiritual claims.
+- **Title words:** species (red abalone, queen helmet, tiger cowrie), size in inches, "natural"/"polished", origin where legal, "specimen" with locality data, "lot of N", "smudge bowl" for abalone. Junk: "healing", "spiritual", "rare" on beach shells, any CITES species. `Large Red Abalone Shell 9" Natural Nacre Smudge Bowl Display`
+- **Where:** Etsy for decor/smudge-bowl buyers (pays more than eBay); eBay for labelled specimen collections to shell collectors.
+- **Price position:** big abalone and lots at the sold median ($15–35 each), OBO; labelled collections at $100–500 median with data shown, firm 3 weeks; mixed beach shells $1–10 lotted. Cut 15% at 30 days.
+- **Photos:** first: shell interior in daylight showing nacre colour; then exterior, lip edge all round for chips, drill holes, labels/locality data, ruler, lot grouped.
+- **State:** species, size, natural vs polished, origin (if known and legal), chips/holes/bleaching/repairs by photo number, data labels transcribed; no medical or spiritual claims.
+- **Pack / haul:** abalone 0.5–1.5 lb each, wrapped individually (edges chip); 4 large ≈ 4–6 lb, $15–22.
+- **Quote to a buyer:** "[9"] red abalone, unbroken lip with full nacre — the polished imports are ground thin; a large natural shell this clean is the one bowl buyers pay $25–35 for."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$18 ship to buyer − ~$15 ship to Dylan − price ≥ max($50, price). Decorative shells never qualify. Only labelled specimen collections with resale ≥ $200 at ≤ $50; nothing CITES-listed or legally doubtful.

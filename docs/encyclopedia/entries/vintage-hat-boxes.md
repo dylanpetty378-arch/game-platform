@@ -1,5 +1,5 @@
 # Vintage hat boxes – milliner, luggage and travel hat cases (Lady Baltimore, Samsonite, Amelia Earhart, Hartmann, Oshkosh, Neiman Marcus/Stetson/Dobbs/Knox store boxes)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); one Terapeak row in /home/claude/game-platform/db/comps.jsonl mentions hat box only inside vintage-luggage ("faux alligator suitcase" median $54, n=50, terapeak-wave1). Verify against https://www.worthpoint.com and eBay sold ("vintage hat box luggage").
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); one Terapeak row in /home/claude/game-platform/db/comps.jsonl mentions hat box only inside vintage-luggage ("faux alligator suitcase" median $54, n=50, terapeak-wave1). Verify against https://www.worthpoint.com and eBay sold ("vintage hat box luggage").
 Slug: vintage-hat-boxes · Aliases: hat case, round train case, milliner box, bandbox, round vanity case, wig box, Lady Baltimore hat box, Samsonite round case
 Summary: 1950s–60s vinyl/leatherette round luggage hat boxes $20–60; better maker leather or tweed with original key/interior $50–120; 19th-century wallpaper bandboxes and Hermès/Louis Vuitton/Goyard hat boxes $300–5,000+ (authentication).
 Buy rule (short): Buy only 19th-c. wallpaper bandboxes or early leather cases under $40; ordinary 1950s–60s vinyl round cases are pass above ~$15.
@@ -45,7 +45,13 @@ A good vintage hat sitting inside (Stetson, Borsalino, Dobbs fedoras $50–300);
 16" drum ~4 lb but box dimensions 18×18×12 → dimensional weight $20–35. Fits passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-State maker (inside label), dimensions, lining condition, key/no key, odor (smoke-free statement), all wear.
+- **Title words:** maker (Lady Baltimore/Samsonite/Hartmann/Stetson), "hat box"/"hat case", material (leather/tweed/vinyl), colour, diameter, decade, "with key", "train case". Junk: "retro", "storage box", "antique" on 1950s vinyl. `Lady Baltimore Tweed Round Hat Box 16" with Key 1950s Vintage Luggage`
+- **Where:** Etsy (decor buyers pay more than eBay) or FB local for common vinyl; eBay BIN for Hartmann and printed store boxes; 19th-c. bandboxes to auction.
+- **Price position:** common vinyl at the sold median ($15–40), named maker with key $40–90, OBO, accept −20%; cut 15% at 30 days (slow 30–60 days).
+- **Photos:** first: closed, styled on a neutral surface; then open interior and lining, maker label, latch/hardware stamp, handle, each crushed side or scuff, key, tape measure for diameter.
+- **State:** maker (inside label), diameter and height, material (leather vs vinyl vs tweed), lining condition, key present, odor (smoke-free statement), handle condition, every wear spot by photo number; any hat inside listed separately.
+- **Pack / haul:** ~4 lb but 18x18x12 box, dimensional weight $20–35; stuff the interior so sides don't crush. Fits a passenger seat.
+- **Quote to a buyer:** "[Lady Baltimore] [tweed] case with the original lining and key, no odor — the no-name vinyl ones are $25; this is the maker-labelled one decorators and vintage-luggage buyers want."
 
 ## Buy rule
 Sold median for common vinyl case ~$30 → 0.87×30 − 25 − 20 − price is always negative. Pass unless printed antique bandbox, store box containing a quality hat, or high-maker leather case ≤ $30 with median ≥ $120. Luxury-brand cases: no (authentication).

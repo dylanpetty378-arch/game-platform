@@ -1,5 +1,5 @@
 # Guitar & bass amplifiers – solid-state practice/modelling vs tube (Line 6, Fender, Peavey, Roland, Vox, Marshall, Ampeg)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Reverb/eBay sold knowledge, sweep listings 2026-10 (Line 6 Spider IV 120 $169, Spider III $40, Line 6 "Guitar Amp" $175, Fender Power Chorus $195, Smarvo Avenger 150 $125, Diago Little Smasher $70, Peavey PVI 10 $100, Peavey XR-600B $50, Line 6 Amplifi TT free, BP mini amp $100). · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Reverb/eBay sold knowledge, sweep listings 2026-10 (Line 6 Spider IV 120 $169, Spider III $40, Line 6 "Guitar Amp" $175, Fender Power Chorus $195, Smarvo Avenger 150 $125, Diago Little Smasher $70, Peavey PVI 10 $100, Peavey XR-600B $50, Line 6 Amplifi TT free, BP mini amp $100). · tells 2026-10-13
 Slug: solid-state-guitar-amps · Aliases: guitar amp, bass amp, practice amp, combo amp, Line 6 Spider, Fender amp, tube amp, Roland JC-120, modelling amp
 Summary: Spider/Frontman/MG/Crate/no-name practice amps $25–120; Katana, Mustang GTX, Bandit, Power Chorus, Cube, Crush 35 $120–250; JC-120, Blues Jr/Hot Rod Deluxe, AC15, Classic 30, Polytone, Lab Series $350–700; vintage Fender/Vox AC30/Marshall/Mesa/B-15/Music Man $800–4,000+.
 Buy rule (short): Vintage tube amps (Fender blackface/silverface, Vox AC, Marshall), JC-120, Music Man, B-15 under $250 and complete; pass on any solid-state practice/modelling amp and anything "needs repair".
@@ -70,7 +70,13 @@ Reverb is the market. Gigging musicians, hobbyists and vintage collectors buy th
 Combos are 25–60 lb: $40–90 each way. Only local pickup or very high-value tube amps clear the rule. Reverb is the market. Large bass rigs (Acoustic 360/370 cabinets, 4x12 and 8x10 cabs) exceed passenger-seat size and are excluded.
 
 ## Selling it (for the buyer-facing listing)
-Title: "[Year] [Brand] [Model] [tube/solid-state] [watts] [speaker config] Combo Amp Tested". State the serial and date codes, original or replaced speaker and transformers, service history (recap, tubes), working features (reverb, tremolo, channels), included footswitch and cover, and weight. Photograph the front panel, the back with tubes, the speaker codes and the serial plate, and post a sound clip.
+- **Title words:** year + brand + model + "tube"/"solid-state" + watts + speaker config + "combo amp" + "tested". Junk: "guitar amp" alone, "works great" without model, "vintage" on a Spider. Example: `1978 Fender Deluxe Reverb Silverface Tube 22W 1x12 Combo Amp Tested Footswitch`.
+- **Where:** Reverb BIN (the market; musicians search by model) with local pickup; FB local for solid-state practice amps and anything over 25 lb; eBay as a second listing for tube amps.
+- **Price position:** list at the Reverb sold median (Spider IV 120 $100–150, Power Chorus $150–250, JC-120 $500–900, Blues Jr/Hot Rod $350–700, silverface Deluxe Reverb $800+); accept −10%, floor −20%; OBO; solid-state cut 15% after 21 days.
+- **Photos:** 1) front straight-on, grille and panel; then control panel close-up, back with tubes/chassis, speaker codes, serial plate and date codes, footswitch/cover, tolex wear; sound clip or video through clean and reverb/tremolo.
+- **State:** serial and date codes, tube or solid-state, watts, original or replaced speaker and transformers, service history (recap, tubes), every feature tested (reverb, tremolo, channels), footswitch and cover included, weight, flaws by photo number.
+- **Pack / haul:** combos 25–60 lb; remove or pad tubes, chassis braced, double-boxed with 3" foam, $40–90; local it fits a back seat or trunk.
+- **Quote to a buyer:** "A [1978 silverface Deluxe Reverb / Roland JC-120], tubes and transformers [original], serviced [date] — tested on every channel in the clip; Reverb sold prices run [$X], and this one is priced for local pickup."
 
 ## Buy rule
 Buy when: a Fender blackface/silverface, Vox AC, Marshall tube, Roland JC-120, Music Man or Ampeg B-15 is under $250 and the photo shows it complete. Pass when: any solid-state practice/modelling amp, any amp that "needs repair"/"hum"/"no sound", or anything over 40 lb unless profit ≥ $300. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat; large bass cabinets and stacks are excluded.

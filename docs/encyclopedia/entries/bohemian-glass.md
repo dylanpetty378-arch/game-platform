@@ -1,5 +1,5 @@
 # Bohemian glass (Moser, Egermann, Harrach, Loetz, "Bohemia Crystal" / Crystalex, Czech ruby flash and cut-to-clear)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); maker references to consult: Moser history https://www.moser-glass.com/en/history ; Harrach https://www.harrach.cz ; Glass Encyclopedia / Glass Collectors Digest Czech marks https://www.glassencyclopedia.com/czech.html (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); maker references to consult: Moser history https://www.moser-glass.com/en/history ; Harrach https://www.harrach.cz ; Glass Encyclopedia / Glass Collectors Digest Czech marks https://www.glassencyclopedia.com/czech.html (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: bohemian-glass · Aliases: Bohemia crystal, Czech crystal, Czechoslovakia glass, ruby cut to clear, ruby flash glass, Egermann, deer and castle glass, tumble up, bedside carafe, Moser, Harrach, Bohemia glass ashtray, lead crystal Czech
 Summary: Post-1960 "Bohemia Crystal" foil-label cut/pressed crystal $8–40; mid-century ruby/amber flash engraved (deer, castle, floral) carafes and decanter sets $30–120; signed Moser, 19th-c. enamelled Harrach, Loetz/Kralik art glass $150–2,000+.
 Buy rule (short): Buy only acid-signed Moser, Loetz-type iridescent art glass, or 19th-c. enamelled/gilt Bohemian at ≤ 25% of sold; pass on foil-label cut crystal and souvenir ruby flash unless ≤ $15.
@@ -76,9 +76,13 @@ Large supply, modest demand. Foil-label crystal sells slowly (weeks to months) a
 Fragile. Small dishes $10–14 (double-boxed). Carafes and decanters 2–4 lb, $14–20 double-boxed. Decanter sets 6–10 lb, $25–35. Bubble wrap each piece separately; stoppers wrapped apart from the bottle.
 
 ## Selling it (for the buyer-facing listing)
-- State flash vs cased if known, engraving subject, dimensions, the base (pontil, marks, wear), and any foil label.
-- Show a backlit photo for color and a raking light for engraving and chips.
-- Don't call souvenir ruby glass "Egermann" or "Moser" without a mark. Say "Bohemian style, mid-20th century" when unsure.
+- **Title words:** "Bohemian"/"Czech", maker only if marked (Moser, Egermann), colour and technique (ruby flash, cut to clear, engraved), form (decanter set, tumble-up, vase), subject (deer, castle), height, set count. Junk: "antique" for postwar, "Moser" unmarked, "rare". `Vintage Bohemian Ruby Flash Cut to Clear Engraved Deer Decanter Set 6 Glasses`
+- **Where:** eBay BIN with offers; list ruby sets Nov–Dec for decor buyers; signed Moser/Loetz sell for more at auction or to dealers.
+- **Price position:** at the sold median (tumble-ups $33, small dishes $18, ruby sets $30–150, Moser enamel $95), OBO, accept −20%, floor $10; cut after 6 weeks (foil-label crystal sells in weeks to months).
+- **Photos:** backlit shot for colour; raking light across the engraving; base with pontil, marks and wear; foil label; stopper seated; rim and foot chips under light; set laid out with count; ruler.
+- **State:** flash vs cased, engraving subject, dimensions, base (pontil, marks, wear), foil label, stopper original, set count, chips/flakes by photo number; "Bohemian style, mid-20th century" when unmarked.
+- **Pack / haul:** shoebox; small dishes $10–14 double-boxed; carafes 2–4 lb $14–20; decanter sets 6–10 lb $25–35; each piece wrapped separately, stoppers apart from bottles.
+- **Quote to a buyer:** "This is a [ruby flash cut-to-clear] [decanter set] with the [Egermann] label, [1960s–70s] Czech; complete labelled sets sell for $[40–150], and the unlabelled singles are the $20 ones."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). With small glass shipping ~$12–18 each way, a piece must sell for ~$110+ at a $20 buy. That rules out foil-label crystal and most ruby souvenir glass. Buy: acid-signed Moser, Loetz-type iridescent vases with ground pontils, 19th-c. enamelled gilt Bohemian beakers, signed Egermann boxed sets, at ≤ 25% of sold. All fit in a passenger seat. No authentication service needed but Loetz attribution is a judgment call — buy only with signature or textbook decor.

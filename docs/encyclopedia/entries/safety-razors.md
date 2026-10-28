@@ -1,5 +1,5 @@
 # Vintage safety razors (Gillette, Gem, Ever-Ready, Schick, Rolls, Valet, Wilkinson, Merkur)
-Updated: 2026-10-13 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Safety_razor ; https://en.wikipedia.org/wiki/Gillette ; eBay sold search "gillette old type" / "gillette fat boy" / "gillette aristocrat" (not run this pass — no comps in db/comps.jsonl); collector community dating references (Badger & Blade forum, gillette date-code charts) — no URLs verified this run · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Safety_razor ; https://en.wikipedia.org/wiki/Gillette ; eBay sold search "gillette old type" / "gillette fat boy" / "gillette aristocrat" (not run this pass — no comps in db/comps.jsonl); collector community dating references (Badger & Blade forum, gillette date-code charts) — no URLs verified this run · tells 2026-10-13
 Slug: safety-razors · Aliases: old razor, shaving razor, DE razor, double edge razor, Gillette razor set, barber razor (wrongly), shaving kit, gold razor, travel razor
 Summary: common 1950s-70s Gillette/Gem razors $10–30; 1920s Gillette Old Type/New Improved in case $35–90; gold-plate 1950s Gillette (Aristocrat, Fat Boy, Toggle, Tech gold) $50–150; rare/early (1904–1910 single-ring, Aristocrat #15 gold w/case, Merkur/Wilkinson Sticky boxed) $150–500+
 Buy rule (short): Buy only adjustable/gold/early Gillette or boxed rarities identified from photos at ≤ 1/3 of sold median; plain Old Type/Tech/Super Speed are pass at >$15.
@@ -74,7 +74,13 @@ Steady: hundreds of vintage razors sell per month on eBay; the wet-shaving commu
 Pocket/shoebox size, <1 lb. Ship in a small padded box; wrap the head so doors are not bent. ~$6–10 USPS Ground Advantage.
 
 ## Selling it (for the buyer-facing listing)
-State model, date code or patent dates, plating condition with close photos, whether doors align and the mechanism turns smoothly, and whether the case/blades are original. Say "not tested for shaving; cleaned/not cleaned". Do not call clones Gillette.
+- **Title words:** "Gillette", model (Fat Boy 195, Slim, Aristocrat, Old Type, Super Speed), date code (e.g. "E1 1959"), "adjustable", "gold", "TTO", "with case", "DE safety razor". Junk: "old Gillette razor", "antique shaving", "rare" on Techs. `Gillette Fat Boy 195 Adjustable Safety Razor E1 1959 Doors Align Clean`
+- **Where:** eBay BIN with offers (wet-shaving users buy adjustables within days; Old Types sit); Techs and common Super Speeds lotted.
+- **Price position:** adjustables and gold Aristocrats at the sold median ($50–150), firm 2 weeks then −10%; Old Type cased at $40 median, OBO; Techs/common $10–30 lotted. Cut 15% at 30 days.
+- **Photos:** first: razor head-on with doors closed; then head from the side (door alignment), date code on the head plate, dial numbers, handle knurling, plating wear/brassing close-up, underside of the head, case interior and blade packets; video of the TTO opening and the dial turning.
+- **State:** model, date code or patent dates, plating condition and brassing, doors align and mechanism turns smoothly, case/blades original, "not tested for shaving; cleaned/not cleaned", replated disclosed; never call a clone Gillette.
+- **Pack / haul:** under 1 lb, small padded box with the head wrapped so doors don't bend, $6–10 Ground Advantage.
+- **Quote to a buyer:** "[Fat Boy] date-coded [E1 = Q1 1959], dial 1–9, doors aligned and smooth — the Tech and worn Super Speeds are $15 razors; a clean adjustable is the one shavers pay $50–150 for."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$8 ship to buyer − ~$8 ship to Dylan − price ≥ max($50, price). That needs a sold median of about $105+ at $25 and $160+ at $75 — i.e. only adjustables at $20–40, gold Aristocrat/cased early sets at ≤ $40, or rare models. Pass on Old Type, Tech, Super Speed above ~$15. No authentication issue. Fits a car seat easily.

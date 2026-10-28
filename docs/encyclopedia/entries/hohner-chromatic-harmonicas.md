@@ -1,5 +1,5 @@
 # Hohner chromatic harmonicas (Chromonica 270/280, CX-12) and holders
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay/Reverb browse Oct 2025 (Hohner 280C 64, 270 Super Chromonica); sweep listings 2878, 2024; remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay/Reverb browse Oct 2025 (Hohner 280C 64, 270 Super Chromonica); sweep listings 2878, 2024; remaining detail general knowledge, verify
 Slug: hohner-chromatic-harmonicas · Aliases: chromatic harmonica, Chromonica, Super Chromonica, Chromonica 64, 280C, 270, CX-12, slide harmonica, harmonica holder, Flex-Rack
 Summary: used diatonics/no-name chromatics/holders $10–35; Hohner 270 used $60–100; 280C 64 / CX-12 $100–170; pre-war boxed Chromonica / Silver Concerto $200–500
 Buy rule (short): 280C ≤ $40, 270 ≤ $25, or lots of Hohner chromatics ≤ $10 each
@@ -47,7 +47,13 @@ Little; "Chromonica 64" sellers have looked it up. Estate "box of harmonicas" lo
 Under 1 lb, $6–8. eBay 13%. Used mouth instruments sell slower. Ship in the case/box with padding – the slide can bend.
 
 ## Selling it (for the buyer-facing listing)
-State model, number of holes/octaves, key (usually C), comb material, playing test results (all reeds, slide), cleaned/sanitised, case/box included. Photograph the cover stamp, mouthpiece, slide button, case. Title keywords: "Hohner 280C Chromonica 64", "Super Chromonica 270", "Made in Germany", "key of C".
+- **Title words:** "Hohner", model (Super Chromonica 270, Chromonica 64 280C, CX-12), "chromatic harmonica", key (C), holes/octaves (12 hole, 16 hole 4 octave), "Germany", "plays all reeds", "with case". Junk: "antique", "rare" on a 270, "pro" on no-name. `Hohner 280C Chromonica 64 Chromatic Harmonica Key of C 16 Hole Germany With Case Plays`
+- **Where:** eBay BIN with offers or Reverb (jazz/blues chromatic players); used mouth instruments sell slower — say "sanitised".
+- **Price position:** at the sold median (270 used $65–95, 280C clean $100–160; Terapeak 280 median $45 includes rough/parts), CX-12 $100–170, pre-war boxed $200–500; OBO, accept −15%, floor $30; new 270 is ~$180, 280C ~$300 — stay under 55% of new; cut after 30 days.
+- **Photos:** cover stamp close-up; mouthpiece and slide button; both covers; comb edge; case/box; short video playing every hole with the slide in and out.
+- **State:** model, holes/octaves, key, comb material, playing test (all reeds, slide action), cleaned/sanitised, case/box included, dents, plating wear, bent slide by photo number.
+- **Pack / haul:** pocket, under 1 lb, in its case with padding (the slide bends), $6–8.
+- **Quote to a buyer:** "This is a German-made [Hohner 280C Chromonica 64], all [16] holes tested blow and draw with the slide, sanitised, in its case; new is $300 and clean used ones sell for $[100–160]."
 
 ## Buy rule
 Buy when: 280C ≤ $40, 270 ≤ $25, or a lot with several Hohner chromatics ≤ $10 each. Pass when: seller names the model at ≥ $90. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

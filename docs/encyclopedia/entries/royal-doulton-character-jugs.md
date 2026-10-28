@@ -1,5 +1,5 @@
 # Royal Doulton character (Toby) jugs
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold/active listings Oct 2025 (Beefeater, Bobby, Guardsman D6755, Monty), general collector knowledge (D-numbers)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold/active listings Oct 2025 (Beefeater, Bobby, Guardsman D6755, Monty), general collector knowledge (D-numbers)
 Slug: royal-doulton-character-jugs · Aliases: Toby jug, Royal Doulton mug, character jug, Royal Doulton jug, D-number jug, Beefeater jug
 Summary: Common large subjects $15–40 each and small/mini $10–25 each; limited editions and colourway variants $100–400; pre-1950 rare colourways and prototypes $500–5,000.
 Buy rule (short): Only a rare D-number or colourway visible under $50; pass on common subjects over $8 each.
@@ -52,7 +52,13 @@ D-numbers and colour variants. Otherwise the common ones are simply worth little
 1–2 lb each and breakable. Double box, ~$12–15 each. eBay ~13% fees. Slow sellers.
 
 ## Selling it (for the buyer-facing listing)
-Title: "Royal Doulton [Character] Character Jug D#### [Large/Small/Mini] [year]". State the D-number, size and height, backstamp date, colourway and condition (no chips, cracks or restoration). Photograph the backstamp clearly and every side, including the handle.
+- **Title words:** "Royal Doulton", character name, "character jug", D-number, size (large/small/mini), backstamp year, colourway variant if any ("white handle", "red hair"), "limited edition". Junk: "Toby" for a character jug, "rare" on Beefeater, "antique" on 1970s. `Royal Doulton Guardsman Character Jug D6755 Large 1986 Backstamp No Chips`
+- **Where:** eBay BIN with offers (slow; common jugs cluster $18–35 shipped); rare colourways and pre-1950 pieces to specialist collectors or UK auctions; common lots of 4+ on FB local.
+- **Price position:** common large at the sold median ($15–40; Guardsman ~$30), small/mini $10–25, limited editions and variants $100–400; OBO, accept −25%, floor $12 plus shipping; lot commons; cut after 45 days.
+- **Photos:** front; backstamp and D-number sharp; both sides; handle; rim and base for chips; interior; UV shot for restoration; ruler for height.
+- **State:** character, D-number, size and height, backstamp date, colourway, "no chips, cracks or restoration" only after a UV check, crazing, flaws by photo number.
+- **Pack / haul:** 1–2 lb each, breakable; double box, handle padded, $12–15; shoebox class.
+- **Quote to a buyer:** "This is a [1986] Royal Doulton [Guardsman] [D6755] large, checked under UV with no restoration; common large jugs sell for $[18–35], and only the colourway variants and limited editions reach $100–400."
 
 ## Buy rule
 Buy when: a rare D-number or colourway is visible under $50. Pass when: common subjects at more than $8 each. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

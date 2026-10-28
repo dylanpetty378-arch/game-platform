@@ -1,5 +1,5 @@
 # Convex "bubble glass" portrait frames (American c. 1890–1925 crayon-portrait and devotional frames; oval walnut/mahogany, gesso and gilt arched frames)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: eBay sold search "convex bubble glass frame", "oval bubble glass frame", https://www.worthpoint.com search "convex glass oval frame", https://en.wikipedia.org/wiki/Crayon_portrait)
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: eBay sold search "convex bubble glass frame", "oval bubble glass frame", https://www.worthpoint.com search "convex glass oval frame", https://en.wikipedia.org/wiki/Crayon_portrait)
 Slug: convex-bubble-glass-frames · Aliases: bubble glass frame, convex glass frame, curved glass frame, oval picture frame, crayon portrait, charcoal portrait, tintype frame, Victorian frame, arched frame, grandma's picture
 Summary: Frames with generic portraits/prints $20–60; matched pairs or ornate gesso frames with intact convex glass $50–150; rare large or figured-wood/eglomise frames $150–300.
 Buy rule (short): Pass almost always: large, fragile and heavy for low resale; only buy small (≤ 14") ornate frames with intact glass at ≤ $15.
@@ -46,7 +46,13 @@ Buy rule (short): Pass almost always: large, fragile and heavy for low resale; o
 - 20×24" box, 10–15 lb, glass risk high: $35–60.
 
 ## Selling it (for the buyer-facing listing)
-- Size, glass condition, photograph backing, describe portrait.
+- **Title words:** "antique oval convex bubble glass frame", wood (walnut/mahogany/gesso gilt), size, "original glass", "pair", "with portrait" or "frame only", era (c. 1900). Junk: "creepy" unless aiming at oddity buyers, "Victorian" on 1920s, "rare". `Antique Oval Convex Bubble Glass Picture Frame Walnut 14x20 Original Glass`
+- **Where:** FB local (decorators, Halloween/oddity buyers; shipping $35–60 kills eBay); eBay BIN only for small ≤14" ornate frames or matched pairs (median $65).
+- **Price position:** at the sold median ($40–65 single, pairs $50–150), OBO, accept −20% local; cut 15% at 30 days. Frames with cracked glass at a third.
+- **Photos:** first: frame hung on a plain wall, straight-on; then glass edge in raking light for cracks, gesso corners, backing paper and stamps, square nails, portrait close-up, tape for size.
+- **State:** outside and sight size, wood/finish, glass original and intact or cracked, gesso losses, backing and portrait described (print vs crayon portrait), hanging hardware.
+- **Pack / haul:** 20x24" box, 10–15 lb, glass risk high, $35–60 — local pickup first; fits a passenger seat flat.
+- **Quote to a buyer:** "Original wavy convex glass intact in a [walnut] frame, c. [1900] — replacement bubble glass alone costs $30–80, which is why intact frames sell at $40–65 and cracked ones don't."
 
 ## Buy rule
 - Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$40) − ship to Dylan (~$40) − price ≥ max($50, price).

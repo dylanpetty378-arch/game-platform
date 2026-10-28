@@ -1,5 +1,5 @@
 # Reloading equipment (RCBS, Lyman, Lee Precision, Redding, Hornady/Pacific, C-H, Ideal tong tools)
-Updated: 2026-10-13 · Sources: general knowledge plus one Terapeak row in /home/claude/game-platform/db/comps.jsonl ("RCBS Hand Priming Tool HOLDER", $14.97, Aug 13, 2026, under hand-tool-lots). Verify: eBay sold https://www.ebay.com/sch/i.html?_nkw=rcbs+rock+chucker&LH_Sold=1 · eBay firearms/parts policy https://www.ebay.com/help/policies/prohibited-restricted-items/firearms-weapons-knives-policy?id=4297 · GunBroker https://www.gunbroker.com/ · Lyman https://www.lymanproducts.com/
+Updated: 2026-10-28 · Sources: general knowledge plus one Terapeak row in /home/claude/game-platform/db/comps.jsonl ("RCBS Hand Priming Tool HOLDER", $14.97, Aug 13, 2026, under hand-tool-lots). Verify: eBay sold https://www.ebay.com/sch/i.html?_nkw=rcbs+rock+chucker&LH_Sold=1 · eBay firearms/parts policy https://www.ebay.com/help/policies/prohibited-restricted-items/firearms-weapons-knives-policy?id=4297 · GunBroker https://www.gunbroker.com/ · Lyman https://www.lymanproducts.com/
 Slug: reloading-equipment · Aliases: reloading press, reloading dies, die set, powder scale, powder measure, bullet mold/mould, tong tool, Ideal reloading tool, ammo reloader, case trimmer
 Summary: common die sets $15–35; obsolete-caliber dies/Ideal tong tools/moulds $40–150; scales and measures $40–100; Rock Chucker/turret presses $90–200; full bench setups $200–500 (general knowledge, verify)
 Buy rule (short): Buy RCBS/Redding/Lyman die sets in obsolete or wildcat calibers and Ideal/Lyman tong tools ≤ $25–40 each, or a complete Rock Chucker/RCBS kit ≤ $80; never buy powder, primers or loaded ammo.
@@ -52,7 +52,13 @@ Estate sellers list a box of "old reloading stuff" as one lot; the money is in o
 Dies: small, heavy, cheap to ship ($8–15). Presses: 15–25 lb, $25–40. Make sure no powder, primers or live rounds are in a lot (cannot ship them; hazmat). Passenger seat: everything fits.
 
 ## Selling it (for the buyer-facing listing)
-State maker, exact caliber, number of dies, shell holder included, bore condition (clean/no rust), box. For tong tools: maker marks, patent dates, included dies/mould, caliber. List each odd-caliber set separately.
+- **Title words:** maker + tool + exact caliber ("RCBS .257 Roberts die set", "Ideal No. 4 tong tool .38-55", "Lyman 310", "Rock Chucker press") + "with shell holder" + "Oroville" if stamped; Junk: "reloading lot", "old gun stuff", "ammo" (never). Example: `RCBS .257 Roberts 2 Die Set Oroville Calif Green Box Shell Holder Vintage`.
+- **Where:** eBay BIN with offers (dies and tools in odd calibers sell within days; presses, dies, tools allowed — no primers, powder or ammunition); GunBroker alternative. List each odd-caliber set separately, common calibers as a lot or local.
+- **Price position:** at the sold median (common sets $10–35; obsolete-caliber dies/Ideal tong tools $40–150; Rock Chucker $90–200; Dillon $300–500), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the set in its box with the caliber label; then die bodies (caliber stamps), bores (clean/no rust, no stuck case), shell holder, box ends, tong-tool maker marks and patent dates, mould cavities.
+- **State:** maker, exact caliber, number of dies, shell holder included, bore condition, box; tong tools: maker marks, patent dates, included dies/mould; no powder/primers/live rounds in the lot.
+- **Pack / haul:** dies small and heavy, small box ($8–15); presses 15–25 lb, remove the ram and handle, pad ($25–40); everything fits a passenger seat.
+- **Quote to a buyer:** "RCBS [.257 Roberts] set, [Oroville]-stamped — the older green-box dies in a caliber they barely make now; a new set is [$X] if you can find it and the common calibers go for a third of this."
 
 ## Buy rule
 Profit = median × 0.87 − ship (~$12) − ship to Dylan (~$12) − price ≥ max($50, price). Single common die sets never work. Targets: obsolete-caliber sets/tong tools with $80–150 medians bought ≤ ~$25–40, or mixed estate lots ≤ $60 containing several odd calibers, split into separate listings. Rock Chucker press: only ≤ $40 with local pickup. Reject lots containing powder/primers/ammo unless the seller removes them.

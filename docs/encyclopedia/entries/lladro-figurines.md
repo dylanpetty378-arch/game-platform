@@ -1,5 +1,5 @@
 # Lladró / NAO porcelain figurines (Lladró, NAO by Lladró)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge, Lladró retired-piece dealer pricing (A Retired Collection, Replacements), Kovels; merged section from review agent H, run 12; remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold knowledge, Lladró retired-piece dealer pricing (A Retired Collection, Replacements), Kovels; merged section from review agent H, run 12; remaining detail general knowledge, verify
 Slug: lladro-figurines · Aliases: Lladro, Lladró angel, NAO, Spanish porcelain figurine, Lladro girl, Lladro Don Quixote, Daisa, retired Lladro
 Summary: NAO/small angels/damaged $20–60; mid-size girls/Don Quixote seated/brides $75–200; large groups/Utopia/Elite/MIB $300–800; numbered limited editions $1,500–10,000
 Buy rule (short): 12"+ groups or boxed retired pieces under $100; lots under $5/piece with large pieces visible
@@ -46,7 +46,13 @@ That NAO ≠ Lladró; that a "lot of Lladro" sometimes contains one large retire
 Fragile; double box, $20–35 insured. eBay 13%. Photograph every finger and petal before shipping.
 
 ## Selling it (for the buyer-facing listing)
-State model number and name, Lladró vs NAO, glossy/matte, height, retired year if known, condition (no chips/repairs), box. Photograph the backstamp, every delicate part closeup, box. Title keywords: "Lladro #1030 Don Quixote retired", "mint in box", "Made in Spain".
+- **Title words:** "Lladro" (or "NAO by Lladro"), model number, piece name, "retired", height, "glossy"/"matte", "Made in Spain", "mint in box" when boxed. Junk: "porcelain lady", "Spanish figurine", "rare", "Lladro" on NAO. `Lladro #1030 Don Quixote Seated Retired Glossy 12" Made in Spain Box`
+- **Where:** eBay BIN with offers (replacement and collector buyers); Replacements buys retired pieces; FB local for NAO and small angels under $40.
+- **Price position:** small angels at the sold median ($30–50), NAO $15–30, OBO; mid and large groups at the sold median (Don Quixote #1030 $300–450), accept −15%, box adds 20–30%; cut 10% at 45 days, hold for Nov–Dec.
+- **Photos:** first: full figure front on neutral background; then backstamp, every finger and petal close-up, face, base, each side, box and label, UV shot if repairs are suspected.
+- **State:** model number and name, Lladró vs NAO, glossy/matte, height, retired year if known, no chips/repairs or each flaw by photo number, mark intact (not ground = not a second), box included.
+- **Pack / haul:** double box, 2" padding, insured, $20–35; photograph every delicate part before packing.
+- **Quote to a buyer:** "Lladró [#1030 Don Quixote], retired [year], glossy finish with the original backstamp and box — NAO and the small angels sell for $30; the large retired groups are what holds value."
 
 ## Buy rule
 Buy when: 12"+ groups or boxed retired pieces under $100; lots under $5/piece with large pieces visible. Pass when: small angels/children over $30 each, any chips, NAO at Lladró prices. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

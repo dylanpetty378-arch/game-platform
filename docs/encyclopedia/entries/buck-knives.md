@@ -1,5 +1,5 @@
 # Buck knives – 110 Folding Hunter, 112 Ranger and fixed blades (Buck Knives Inc., San Diego/El Cajon CA 1945–2005, Post Falls ID 2005–)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Verify date codes at https://www.buckknives.com (Buck "date codes" page) and collector forum https://www.buckcollectorsclub.org (URLs not fetched this run). · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Verify date codes at https://www.buckknives.com (Buck "date codes" page) and collector forum https://www.buckcollectorsclub.org (URLs not fetched this run). · tells 2026-10-13
 Slug: buck-knives · Aliases: Buck 110, Folding Hunter, Buck 112 Ranger, Buck lockback, Buck 119 Special, Buck 120 General, Buck pocket knife
 Summary: Modern date-coded (1986–) 110/112 users $25–45; 1972–86 "BUCK 110 USA" no-date-code $45–90; 1960s two/three-line stamp 110s $90–300+; early 1960s, boxed, or rare variants (Buck 110 "Ranger" prototypes, custom shop, Hoyt Buck fixed blades) $200–1,000+.
 Buy rule (short): Buy 110/112 only if the tang stamp shows pre-1986 multi-line "BUCK/U.S.A." marks, or for boxed early knives, at ≤ 40% of tier price; date-coded modern Bucks are pass above ~$15.
@@ -56,7 +56,13 @@ Tang stamp era; original sheaths/boxes; early fixed blades lumped in hunting gea
 Small, $5–8; note eBay knife-listing rules (domestic only, no auto-open).
 
 ## Selling it (for the buyer-facing listing)
-Photograph tang stamp, lockup, blade profile, sheath; state era by stamp.
+- **Title words:** "Buck 110" (or 112/119/120) + "Folding Hunter"/"Ranger"/"Special" + stamp era ("two dot", "3 line", "pre-1986") + "USA" + "lockback" + "with sheath"; Junk: "hunting knife lot", "old knife", "vintage" without the stamp era. Example: `Buck 110 Folding Hunter Two Dot 1974-80 USA Lockback Knife with Sheath`.
+- **Where:** eBay BIN with offers for pre-1986 knives (hundreds sell monthly; domestic only, no auto-open per knife rules); modern date-coded 110s are FB local or a lot — not worth listing singly. No place beats eBay.
+- **Price position:** at the sold median for the stamp era (two dot median $51, p75 $75; 1960s multi-line $90–300; modern $25–45), accept −15%, floor p25; OBO; cut 10% after 2 weeks.
+- **Photos:** first photo open blade on neutral background; then tang stamp macro (both sides), lockup from the spine, blade profile against a straight edge (sharpening loss), bolsters, scales (Macassar vs Dymondwood), sheath and box.
+- **State:** model, stamp era by tang, blade length, closed length, scale material, lockup tight/play, sharpening wear, sheath/box included, factory-warranty replacement parts if suspected, flaws by photo number.
+- **Pack / haul:** pocket-size, under 1 lb, padded mailer or small box, $5–8; ship domestic only.
+- **Quote to a buyer:** "Buck 110 with the [two dot/three-line] tang stamp — that's [1974–80/1960s] production in [440C/ebony] before the 1986 date codes; a new 110 is about the same money and has none of the era."
 
 ## Buy rule
 Modern Buck 110 sold ~$35 → can't clear $50. A 1960s multi-line 110 selling $150 at ≤ $55 could work (0.87×150 − 8 − 8 − 55 = 60). Requires tang photo.

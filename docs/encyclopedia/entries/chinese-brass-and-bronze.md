@@ -1,5 +1,5 @@
 # Chinese brass and bronze (incense burners/censers, hand warmers, bowls, vases, Buddhas, scholar's objects, wall plaques; Qing, Republic, post-1950 export; Taiwan/Hong Kong/Korea decorative brass)
-Updated: 2026-10-13 · Sources: general knowledge of Chinese metalwork collecting and auction patterns (LiveAuctioneers/Invaluable regional sales); apocryphal Xuande (1426–35) six-character marks found on most later censers; Qing hand warmers (shou lu) with pierced lids and swing handles; mid-century Taiwan/Hong Kong/Korean decorative brass for US export. No sold comps in comps.jsonl; prices are estimates (general knowledge, verify). · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge of Chinese metalwork collecting and auction patterns (LiveAuctioneers/Invaluable regional sales); apocryphal Xuande (1426–35) six-character marks found on most later censers; Qing hand warmers (shou lu) with pierced lids and swing handles; mid-century Taiwan/Hong Kong/Korean decorative brass for US export. No sold comps in comps.jsonl; prices are estimates (general knowledge, verify). · tells 2026-10-13
 Slug: chinese-brass-and-bronze · Aliases: Chinese brass, Chinese bronze, dragon bowl, brass dragon, dragon plaques, hand warmer, foot warmer, incense burner, censer, Xuande mark, Chinese bronze vase, Buddha statue, Asian brass, Oriental brass, Tibetan bowl
 Summary: 1960s–90s export decorative brass (dragon plaques, engraved bowls, trays) $15–60; Republic/early-20th-c. engraved and cloisonné-free brass pieces, hand warmers $50–200; good Qing hand warmers and censers with fine casting $200–1,500; genuine Ming/early Qing bronzes $1,500–100,000+ (authentication required).
 Buy rule (short): Buy only heavy, finely cast or pierced pieces with old wear (hand warmers, censers) at ≤ $40 and only as "20th century" resale; pass decorative wall plaques and engraved souvenir bowls; never pay for dynasty claims.
@@ -58,7 +58,13 @@ Heavy, crisply cast censers or hand warmers with worn patina mixed in estate bra
 Plaques and bowls 1–4 lb $10–18; hand warmers 1–3 lb $12–18; censers heavy, $15–25.
 
 ## Selling it (for the buyer-facing listing)
-Describe as "Chinese brass, 20th century" unless provenance supports older; give dimensions, weight, mark photo, condition; avoid dynasty claims.
+- **Title words:** Chinese brass/bronze, form (censer, hand warmer, bowl, plaque), motif (dragon, lion), mark (Xuande, "China"/"Hong Kong"), size, "20th century". Junk: "Ming", "Qing", "antique" without provenance, "rare", "museum". `Chinese Brass Censer Incense Burner Xuande Mark 20th Century 6 in`
+- **Where:** eBay BIN with offers; genuine antiques with provenance sell for far more at LiveAuctioneers than on eBay.
+- **Price position:** export pieces at the sold median ($15–60; censer median $32), OBO, accept −25%, floor $15; 20th-c. hand warmers/censers at median $50–200, OBO; cut 20% after 30 days.
+- **Photos:** full piece on plain background; base with mark close-up; interior; detail of casting crispness and patina wear on handles/rim; dents/repairs; ruler for scale; piece on a scale.
+- **State:** "Chinese brass, 20th century" unless provenance supports older; dimensions, weight, mark photo, condition (dents, polish, solder repairs, missing lid/stand), flaws by photo number; no dynasty claims.
+- **Pack / haul:** shoebox, 1–4 lb $10–18 for plaques/bowls, 1–3 lb $12–18 hand warmers; heavy censers $15–25, double-box, wrap lid and stand separately.
+- **Quote to a buyer:** "This is a [cast brass] [censer] with a [Xuande-style] mark, [heavy at X lb] with [worn patina]; comparable 20th-century pieces sell for $[50–200], and I've priced it as 20th century, not as an antique."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$15) − ship to Dylan (~$15) − price ≥ max($50, price). Needs ~$95+ median. Buy only heavy, finely cast, unpolished hand warmers/censers at ≤ $40 and sell as 20th century. Pass plaques, engraved export bowls, polished pieces at $50+. Anything sold on dynasty claims requires authentication – pass.

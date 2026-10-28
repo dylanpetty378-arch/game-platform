@@ -1,5 +1,5 @@
 # Ship's clocks and marine bulkhead clocks (Chelsea, Seth Thomas, Waltham, Howard Miller, Wempe, Schatz, Hermle-movement Seth Thomas Corsair, Sestrel)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Chelsea Clock Company" https://en.wikipedia.org/wiki/Chelsea_Clock_Company ; Wikipedia "Seth Thomas Clock Company" https://en.wikipedia.org/wiki/Seth_Thomas_Clock_Company ; Chelsea Clock company site https://www.chelseaclock.com ; project comps file /home/claude/game-platform/db/comps.jsonl (no ship-clock sold data on file).
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Chelsea Clock Company" https://en.wikipedia.org/wiki/Chelsea_Clock_Company ; Wikipedia "Seth Thomas Clock Company" https://en.wikipedia.org/wiki/Seth_Thomas_Clock_Company ; Chelsea Clock company site https://www.chelseaclock.com ; project comps file /home/claude/game-platform/db/comps.jsonl (no ship-clock sold data on file).
 Slug: ships-clocks · Aliases: ship's bell clock, ships clock, marine clock, bulkhead clock, boat clock, deck clock, nautical clock, Seth Thomas Corsair, Chelsea ship's bell, Navy clock, engine room clock, brass porthole clock
 Summary: Quartz and cheap brass decor clocks $15–50; Seth Thomas Corsair (German Hermle movement) and similar 1970s–90s ship's bell $100–250; Seth Thomas/Waltham US Navy mechanical and Chelsea time-only $200–600; Chelsea ship's bell, Navy-marked WWII, Wempe/Schatz $400–2,000+.
 Buy rule (short): Buy only Chelsea (any, running) at ≤ $150, or USN/US Maritime Commission-marked Chelsea/Seth Thomas/Waltham at ≤ 35% of resale; pass on Seth Thomas Corsair-type German-movement clocks above ~$60 and anything not running.
@@ -47,7 +47,13 @@ Chelsea serial numbers (dates early clocks); "U.S. Navy" or Maritime Commission 
 3–5 lb; remove pendulum-less, secure bezel, $15–20.
 
 ## Selling it (for the buyer-facing listing)
-Video running and striking a full bell sequence, serial number, movement maker, case diameter, key included, service history.
+- **Title words:** maker (Chelsea/Seth Thomas/Waltham), "ship's bell clock"/"bulkhead clock", "brass", case diameter, "US Navy"/"Maritime Commission" if marked, movement (American Seth Thomas vs Hermle), serial number, "running", "with key". Junk: "nautical decor", "antique" on Corsairs, "rare". `Chelsea Ship's Bell Clock 6" Brass Serial #xxxxxx 1940s Running with Key`
+- **Where:** eBay BIN with offers (Chelsea collectors are deep); Corsair/Helmsman (median $130) on eBay or FB local; non-runners local only.
+- **Price position:** Corsairs at the sold median ($130), OBO, accept −15%; American Seth Thomas/Waltham at $175–500 median; Chelsea at $300–1,000 by serial, firm 3 weeks; cut 10% at 45 days. Non-running at half.
+- **Photos:** first: dial straight-on; then serial number on dial and movement, movement back with maker stamp, case side and hinge, bezel glass for cracks, key, Navy/USMC markings; video running and striking a full bell sequence.
+- **State:** maker, model, serial, movement maker (American vs Hermle), case diameter and metal, dial original or replaced, runs and keeps time, strike sequence correct, key included, service history, cracks/polished lacquer by photo number.
+- **Pack / haul:** 3–5 lb, bezel secured, double box, $15–20.
+- **Quote to a buyer:** "[Chelsea] serial [#], which dates it to [194x], striking a full ship's bell sequence on video — the Hermle-movement Corsairs are $130; a running Chelsea is the $300–1,000 clock."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$18 ship to buyer − ~$18 ship to Dylan − price ≥ max($50, price). Corsair at $200 resale: 174 − 36 = $138 max → buy only ≤ $69 (must be running, seller video). Chelsea at $500 resale: buy ≤ $135. No non-running clocks (repair). No quartz decor.

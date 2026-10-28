@@ -1,5 +1,5 @@
 # Pachinko machines (vintage Japanese, 1960s–80s: Nishijin, Sankyo, Sanyo, Daiichi, Heiwa, Ginza)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: pachinkoplanet.com/machine-values, eBay listings 2025
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: pachinkoplanet.com/machine-values, eBay listings 2025
 Slug: pachinko-machines · Aliases: pachinko, Japanese pinball, pachinko slot machine, vintage pachinko, Nishijin pachinko
 Summary: Non-working/rusted/parts machines $10–40; common complete working 1970s Nishijin/Sankyo $100–200 incl. ship; themed, 1960s single-shot or restored $300–600; pre-1960 and electro-mechanical Powerflash/Circuit $600+.
 Buy rule (short): Buy only working 1960s single-shot or EM models at ≤ $100, local; pass "for parts or repair" and common 1970s machines over $50 that must ship.
@@ -48,7 +48,13 @@ Era. A single-shot 1960s or electro-mechanical machine listed as "old pachinko $
 ~35 lb, glass face, pins bend – $60–90 to ship, high breakage risk. Local pickup only unless rare. Profit rarely clears Dylan's rule once shipping both ways is counted.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model/era, single-shot vs tray-fed vs EM, working status (video of play and payout), included balls and key, chrome and playfield condition, dimensions. Photograph front playfield, back with maker label, chrome close-ups. Title keywords: "Vintage 1960s Nishijin Single Shot Pachinko Machine Working", "Electro-Mechanical Powerflash".
+- **Title words:** "pachinko machine" + maker (Nishijin, Sankyo) + era (1960s / 1970s) + type (single shot / Super DX / electro-mechanical Powerflash) + "working" + theme. Junk: "Japanese pinball", "slot machine", "for parts" (unless true). Example: `Vintage 1960s Nishijin Single Shot Pachinko Machine Working with Balls Key`.
+- **Where:** FB local (35 lb glass face, $60–90 to ship, game-room buyers pick up); eBay only for rare 1960s/EM machines and then BIN with offers, local pickup option on.
+- **Price position:** list at the sold median (common 1970s $100–200 complete, 1960s/themed $225–400, EM $600+); accept −15%, floor −25%; OBO; cut 10% after 45 days or relist before November gift season.
+- **Photos:** 1) full front playfield straight-on; then back with maker label, chrome frame close-ups, payout mechanism and ball tray, key and balls, any rust/bent pins/flaking; video of a ball played and a payout.
+- **State:** maker, model/era, single-shot vs tray-fed vs EM, working status, balls and key included, chrome and playfield condition, glass intact, dimensions (about 32×20"), weight, flaws by photo number.
+- **Pack / haul:** ~35 lb, glass face; local pickup fits an SUV cargo area or back seat upright. If shipped: glass padded with foam board, double-boxed, 30–40 lb class, $60–90.
+- **Quote to a buyer:** "A [1960s single-shot / electro-mechanical Nishijin], not one of the common 1970s tray machines — 95% of US pachinkos are the $100 type; restored or working [1960s] examples sell for [$X], and this one plays and pays out in the video."
 
 ## Buy rule
 Buy when: 1960s single-shot or EM model ≤ $100 and working, local. Pass when: "for parts or repair" (no repair rule), common 1970s at any price over $50 if it must ship. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (about 32"x20" — it does).

@@ -1,5 +1,5 @@
 # Snap-on vintage toolboxes and hand tools (Snap-on KRA/K-series, script-badge chests, speed ratchets)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold listings KRA-series boxes and vintage ratchets 2025; collector knowledge
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold listings KRA-series boxes and vintage ratchets 2025; collector knowledge
 Slug: snap-on-vintage-toolboxes · Aliases: vintage Snap-on toolbox, Snap-on top chest, KRA-53, KRA-55, K-60, script badge toolbox, Snap-on speed ratchet, RS ratchet, No. 71 ratchet
 Summary: Rusty/repainted boxes $75–150; clean 1970s–90s KRA top chests $150–300; 1940s–60s script-badge boxes in original paint $300–600; 1920s–30s wooden/early steel chests $600–1,500; old speed ratchets $40–90.
 Buy rule (short): Script-badge box in clean paint ≤ $100 and only with a local buyer; hand tools only in lots under $5/tool; pass on rusty/dented or anything that must ship.
@@ -54,7 +54,13 @@ Age (a script badge means 1950s or earlier). That clean original paint is worth 
 Boxes are 40–60 lb. Freight/UPS costs $60–120 and the packing risk is high, so they are realistically local-sale items. Hand tools ship for $8–12. Top chests fit a passenger seat; top+bottom combos and roll cabs do not and are excluded.
 
 ## Selling it (for the buyer-facing listing)
-Title: "Vintage 1950s Snap-on KRA-53 Script Badge Top Chest Tool Box Original Paint". State the model plate, badge type, paint (original or repaint), drawer count and function, dimensions, and lock and key. Photograph the badge, the plate, the drawers open and the bottoms. Offer local pickup.
+- **Title words:** "Snap-on" + model (KRA-53) + era (1950s) + "script badge" + "top chest"/"tool box" + "original paint" + drawer count + "local pickup". Junk: "mechanic box", "vintage toolbox" alone, "repainted" hidden. Example: `Vintage 1950s Snap-on KRA-53 Script Badge Top Chest Tool Box Original Paint 6 Drawer`.
+- **Where:** FB local / Craigslist for boxes (40–60 lb; mechanics and restorers pick up); eBay with local pickup only for script-badge and 1920s–30s chests that collectors on Garage Journal chase; hand tools eBay BIN.
+- **Price position:** list at the sold median (KRA-53 1950s $250–350, clean 1970s–90s KRA $150–300, script badge original paint $300–600; repaint = half); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) chest closed, front, badge visible; then badge and model plate close-ups, every drawer open, drawer bottoms and slides, lock and key, back and sides for dents, paint close-up (original vs repaint), tape measure.
+- **State:** model plate, badge type (script = 1950s or earlier), paint original or repaint, drawer count and all drawers working, dimensions and weight, lock and key, dents/rust by photo number, local pickup offered.
+- **Pack / haul:** 40–60 lb; local only, fits a truck bed or SUV cargo area; drawers taped shut and the box wrapped in a moving blanket. Shipping is $60–120 with high damage risk. Hand tools $8–12.
+- **Quote to a buyer:** "A [1950s script-badge KRA-53] in original paint, all [6] drawers working — original paint is worth twice a repaint; comparable chests have sold for [$X] and a new KRA tops $1,500."
 
 ## Buy rule
 Buy when: a script-badge box in clean paint is ≤ $100 and the buyer is local, or hand tools come in lots under $5/tool. Pass when: rusty/dented, or any box that must ship. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (single top chests only).

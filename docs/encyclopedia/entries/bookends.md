@@ -1,5 +1,5 @@
 # Bookends (Frankart, Roycroft, Bradley & Hubbard, Judd, Armor Bronze, Pompeian Bronze, Jennings Bros (JB), K&O, Borghese, Dodge, Marion Bronze, Galvano; stone/onyx/petrified wood; Art Deco spelter)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); reference sites for verification: Bookend Collector Club / "Collector's Guide to Bookends" (Kuritzky & De Costa, Collector Books) ; Frankart history at https://www.frankart.org ; Roycroft marks at https://www.roycrofter.com ; eBay sold search https://www.ebay.com/sch/i.html?_nkw=antique+bookends&LH_Sold=1 ; Terapeak (no bookends rows in our comps.jsonl as of 2026-10-13)
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); reference sites for verification: Bookend Collector Club / "Collector's Guide to Bookends" (Kuritzky & De Costa, Collector Books) ; Frankart history at https://www.frankart.org ; Roycroft marks at https://www.roycrofter.com ; eBay sold search https://www.ebay.com/sch/i.html?_nkw=antique+bookends&LH_Sold=1 ; Terapeak (no bookends rows in our comps.jsonl as of 2026-10-13)
 Slug: bookends · Aliases: book ends, book stops, bookend pair, art deco bookends, bronze bookends, cast iron bookends, stone bookends, onyx bookends, geode bookends, petrified wood bookends, Borghese bookend, shoe last bookend
 Summary: Decorator/cast-resin/stone/souvenir pairs $10–40; good 1920s–30s cast iron and bronze-clad pairs (Judd, B&H, Armor, Pompeian) $40–120; signed Frankart nudes, Roycroft hammered copper, Gorham/Tiffany Studios bronze $150–600; Tiffany Studios/Cartier/major bronzes $500–3,000+.
 Buy rule (short): Only pairs with a maker mark (Frankart, Roycroft orb-and-cross, B&H, Tiffany Studios, Gorham) or obvious solid bronze; buy at ≤ 1/3 of conservative resale; pass on stone, onyx, resin, Borghese chalkware and singles.
@@ -81,7 +81,13 @@ Steady, moderately liquid on eBay; decorators buy stone and chalkware cheaply; c
 Heavy: cast iron/stone pairs 4–15 lb → $15–30 each way. Wrap each separately, protect projecting parts; onyx chips in transit.
 
 ## Selling it (for the buyer-facing listing)
-Photograph backs and bases for marks, give weight per piece and height, state material plainly ("bronze-clad over plaster", "spelter with original paint"), and note any glued repair. Sell as a pair.
+- **Title words:** maker (Frankart/Roycroft/Bradley & Hubbard/Judd), "bookends pair", subject, material stated plainly (cast iron/bronze-clad/spelter/hammered copper), "Art Deco", era, height. Junk: "bronze" for bronze-clad, "antique" on stone/resin, "rare". `Frankart Art Deco Nude Bookends Pair Signed 1920s Spelter Original Finish`
+- **Where:** eBay BIN with offers for marked pairs (Frankart median $160); stone/chalkware local to decorators — shipping compresses anything under $80.
+- **Price position:** marked pairs at the sold median, OBO, accept −15%, floor p25 ($75 Frankart); Judd/B&H/bronze-clad $40–120 median; stone/Borghese $30–40 local. Cut 10% at 45 days.
+- **Photos:** first: pair together, front, raking light; then back edge and base for marks, undersides, chip showing plaster/iron under bronze-clad, each broken tip or glued ankle, felt, scale and weight.
+- **State:** maker mark wording, material plainly, weight per piece, height, paint original/repainted, glued repairs and losses by photo number, sold as a pair.
+- **Pack / haul:** 4–15 lb per pair, each wrapped separately with projections padded, $15–30; onyx chips in transit.
+- **Quote to a buyer:** "Signed [Frankart Inc.] on the back edge, original thin finish with high-point wear — unmarked Deco spelter ladies go for $40; the stamped pairs are the $150–500 ones."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$18 to buyer − ~$18 to Dylan − price; pass unless ≥ max($50, price).

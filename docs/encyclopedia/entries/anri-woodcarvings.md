@@ -1,5 +1,5 @@
 # ANRI and Italian/Alpine woodcarvings (ANRI mechanical bottle stoppers, Big Mouth toothpick/match holders, Ferrandiz and Sarah Kay figures, Black Forest and Swiss carvings)
-Updated: 2026-10-13 · Sources: Terapeak via project db/comps.jsonl (query "anri mechanical bottle stopper", median $18, n=50, lots of 6–14 sell $36–123, 2026-10-13); general knowledge, no web search this run (verify); references: ANRI history https://www.anri.com (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded).
+Updated: 2026-10-28 · Sources: Terapeak via project db/comps.jsonl (query "anri mechanical bottle stopper", median $18, n=50, lots of 6–14 sell $36–123, 2026-10-13); general knowledge, no web search this run (verify); references: ANRI history https://www.anri.com (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded).
 Slug: anri-woodcarvings · Aliases: ANRI, Anri bottle stoppers, mechanical cork stopper, bar stopper, carved wine stopper, big mouth toothpick holder, big mouth match holder, Italian carved figure, Ferrandiz, Sarah Kay, Black Forest carving, Bavarian folk carving, Val Gardena carving
 Summary: Single common mechanical stoppers and Big Mouth holders $10–25; risqué or rare-action stoppers, Ferrandiz larger figures, boxed Disney ANRI $30–90; lots of 6–14 stoppers $36–123 (Terapeak); large Ferrandiz/Disney limited editions and Black Forest bears $150–1,000+.
 Buy rule (short): Mechanical stoppers ≤ $4 each in lots and only lots of 10+ with working levers; Big Mouth holders ≤ $5 each; buy large ANRI Disney/Ferrandiz limited editions at ≤ 25% of sold.
@@ -56,7 +56,13 @@ Steady barware/kitsch demand; single stoppers sell slowly in a crowded market; l
 Light (stoppers 2 oz each). Lot of 12 in a small box with bubble wrap, $10–14. Protect levers/arms.
 
 ## Selling it (for the buyer-facing listing)
-Count, list each action, which levers work, ANRI stamps (photo), height, cork condition. Lot listings with a group photo and individual action photos.
+- **Title words:** "ANRI", item type (mechanical bottle stopper/Big Mouth toothpick holder/Ferrandiz), "hand carved Italy", action or figure name, "lot of N", "working lever", height. Junk: "carved cork", "wooden man", "rare". `ANRI Mechanical Bottle Stoppers Lot of 12 Hand Carved Italy Working Levers`
+- **Where:** eBay BIN with offers (barware buyers, Nov–Dec bump); singles only for risqué or rare actions; Disney/Ferrandiz limited editions on eBay with the box.
+- **Price position:** stopper lots at the sold median ($36–123 for 6–14, ~$5–9 each), OBO; Big Mouth singles at $25 median; LE Ferrandiz at the sold median ($30), accept −15%; cut 10% at 30 days.
+- **Photos:** first: lot grouped on a plain cloth; then each stopper alone, lever mechanism on the back, "ANRI ITALY" stamp, cork bases, any glued hat/arm; video of each action working.
+- **State:** count, each action described, which levers work, stamp present on which pieces, height, cork condition, paint loss/stains/cracks by photo number.
+- **Pack / haul:** 2 oz each; lot of 12 in a small box, bubble-wrapped with levers and arms protected, $10–14.
+- **Quote to a buyer:** "[12] ANRI mechanical stoppers, stamped Italy, every lever working, including [the risqué/rare action] — Japanese moulded copies have no knife facets; these are the Ortisei hand-carved ones."
 
 ## Buy rule
 Profit ≥ max($50, price). A lot selling for $90 nets ~$78 before ~$12 shipping each way: buy price must be ≤ ~$10 for $50 profit. So: stoppers ≤ ~$1–2 each in large lots, Big Mouth holders ≤ $5 each. Large ANRI Disney/Ferrandiz limited editions only at ≤ 25% of sold and only if they fit a passenger seat. No testing issues beyond the lever.

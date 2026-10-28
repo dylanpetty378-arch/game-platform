@@ -1,5 +1,5 @@
 # Wade Whimsies and miniatures (George Wade & Son / Wade Ceramics; Red Rose Tea premiums; Tom Smith crackers)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Terapeak sold data via /home/claude/game-platform/db/comps.jsonl — no rows for this type; collector references to verify against: Wade Collectors Club (https://www.wadecollectorsclub.co.uk), Pat Murray "The Charlton Standard Catalogue of Wade" (price guide), eBay sold search "wade whimsies"
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Terapeak sold data via /home/claude/game-platform/db/comps.jsonl — no rows for this type; collector references to verify against: Wade Collectors Club (https://www.wadecollectorsclub.co.uk), Pat Murray "The Charlton Standard Catalogue of Wade" (price guide), eBay sold search "wade whimsies"
 Slug: wade-whimsies-and-miniatures · Aliases: Wade figurines, Red Rose tea figures, tea premiums, English Whimsies, Whimsie-land, Wade animals, Wade Hat Box, Tom Smith cracker figures, Nursery Favourites, "little porcelain animals"
 Summary: common English Whimsies/Red Rose $2–6 each, lots of 25–50 $25–70; 1950s first-series and Hat Box Disney $10–60 each; boxed 1950s sets, Wade Blow-Ups and rare early figures $75–300+ (general knowledge, verify)
 Buy rule (short): Only buy loose lots at ≤ $0.50–1 per figure or 1950s first-series/Hat Box/Blow-Up pieces at a fraction of resale; a plain common lot rarely clears $50 profit.
@@ -54,7 +54,13 @@ Steady, high-volume, low-price. Hundreds of eBay sales monthly, mostly $5–40 l
 Light: a lot of 50 weighs ~1–2 lb; ships in a small box, each figure wrapped or in bubble sleeves. USPS Ground Advantage $6–10. Low breakage if wrapped individually.
 
 ## Selling it (for the buyer-facing listing)
-State series (English Whimsies 1971–84, Red Rose, first series 1950s, Hat Box), count, every chip, mark photos, and dimensions. Group by series in photos. Lots sell better titled "Wade Whimsies lot of 40 English Whimsies Red Rose Tea".
+- **Title words:** "Wade Whimsies", series (English Whimsies, Red Rose Tea, Hat Box Disney, First Whimsies 1950s), "lot of N", figure names, "Wade England", "boxed set". Junk: "rare English porcelain", "mini animals", "collectible figurines". `Wade Whimsies Lot of 40 English Whimsies Red Rose Tea Animals Wade England`
+- **Where:** eBay BIN with offers (UK buyers are the deepest pool; list with international shipping); Disney collectors for Hat Box/Blow-Ups; never FB local for commons.
+- **Price position:** common lots at the sold median ($25–70 per lot of 25–60), OBO; Hat Box/first-series singles $10–60, boxed 1950s sets $60–150, firm 3 weeks then −10%; cut at 6 weeks.
+- **Photos:** first: whole lot arranged by series on a plain cloth; then base marks, each Hat Box/1950s piece alone, ears/tails/horns close-up for chips, boxes, ruler.
+- **State:** series and dates, count, each figure named where possible, mark type (embossed WADE ENGLAND vs black transfer vs unmarked), every chip/flake/glue line by photo number, boxes included.
+- **Pack / haul:** 50 figures ~1–2 lb, each wrapped or in bubble sleeves, small box, Ground Advantage $6–10.
+- **Quote to a buyer:** "[40] Wade Whimsies sorted by series, all mint, including [N] 1950s First Whimsies with the black transfer mark — chipped commons are worthless, so these are the ones worth a lot price."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$8) − ship to Dylan (~$8) − price; pass unless profit ≥ max($50, price). A common lot ($40 resale) never qualifies. Only a mixed lot that clearly contains Hat Box / Blow-Up Disney dogs or boxed 1950s sets, at ≤ $40, can hit the rule. Size fine (pocket/shoebox). No authentication issues.

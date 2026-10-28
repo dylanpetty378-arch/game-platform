@@ -1,5 +1,5 @@
 # Chinese opium and scholar objects (opium lamps, pipes and saddles; brush pots, ink stones, seals, wrist rests, brush washers)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no rows for this type (related Chinese types exist: chinese-cloisonne, chinese-export-porcelain, chinese-lacquer-and-mother-of-pearl). To verify: Steven Martin, "The Art of Opium Antiques" (2007) and https://www.opiummuseum.com (opium paraphernalia); eBay sold "opium lamp antique", "chinese brush pot", "duan inkstone"; LiveAuctioneers/Invaluable Asian arts results.
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no rows for this type (related Chinese types exist: chinese-cloisonne, chinese-export-porcelain, chinese-lacquer-and-mother-of-pearl). To verify: Steven Martin, "The Art of Opium Antiques" (2007) and https://www.opiummuseum.com (opium paraphernalia); eBay sold "opium lamp antique", "chinese brush pot", "duan inkstone"; LiveAuctioneers/Invaluable Asian arts results.
 Slug: chinese-opium-and-scholar-objects · Aliases: opium lamp, opium pipe, opium saddle, opium bowl, opium scale, opium box, layout tray, bitong, brush pot, brush holder, ink stone, inkstone, ink slab, Duan stone, ink cake, chop, seal, scholar's rock, gongshi, wrist rest, brush washer, scholar desk set, literati objects
 Summary: tourist/modern repros $10–60; real late-Qing/Republic opium lamps and porcelain brush pots $100–500; good antique opium pipes/saddles and fine inkstones $300–2,000; top-tier bamboo/hardwood brush pots and imperial-period scholar objects $2,000–100,000+ (auction, expert-only) (general knowledge, verify)
 Buy rule (short): Pass by default – the category is dominated by modern reproductions and high-end pieces need professional authentication; only cheap (≤ $30) obvious old opium-lamp bases or Republic-period porcelain brush pots with clear age wear.
@@ -45,7 +45,13 @@ Real old pieces in estates of former China hands/missionaries/military families 
 Light, but chimneys/porcelain fragile; double-box. $8–15.
 
 ## Selling it (for the buyer-facing listing)
-Describe honestly, "as found", show wear and marks, say "age unknown" unless proven. Avoid drug-use language; describe as antique/collectible.
+- **Title words:** object (brush pot, ink stone, seal, brush washer, wrist rest; "antique opium lamp" described as collectible), material (bamboo, porcelain, paktong, soapstone), period only when supported ("Republic", "late Qing"), size, "scholar's object". Junk: drug-use language (eBay restricts it), "Ming", "imperial", "rare". `Antique Chinese Porcelain Brush Pot Scholar's Object Republic Period 5 in`
+- **Where:** eBay BIN with offers for Republic porcelain and ordinary inkstones; genuine late-Qing lamps, pipes with fine saddles and carved bamboo pots sell for far more at an Asian-art auction house.
+- **Price position:** at the sold median (tourist $10–60, Republic brush pots/inkstones $40–150, genuine lamps $100–500), OBO, accept −25%, floor $10; cut after 30 days; consign the good tier.
+- **Photos:** full piece; base and any mark; interior; wear at the handling points; carving close-up; chimney/porcelain chips; inkstone in its box; piece on a scale; ruler.
+- **State:** "as found", "age unknown" unless proven, material, dimensions, weight, marks, wear, chips, repairs, box included, described as antique/collectible with no drug-use language, flaws by photo number.
+- **Pack / haul:** light but fragile (chimneys, porcelain), double-box, $8–15; shoebox class.
+- **Quote to a buyer:** "This is a [Republic-period] [porcelain brush pot] with [honest base wear] and [a four-character mark], sold as found; comparable pieces sell for $[40–150], and the tourist desk sets are $10–60."
 
 ## Buy rule
 Profit = median × 0.87 − $12 to buyer − $12 to Dylan − price ≥ max($50, price). High-value attribution requires professional authentication → outside Dylan's rules. Only exception: obviously-old opium lamp or brush pot at ≤ $30 with resale ≥ $150 evidence. Never buy ivory/horn/tortoiseshell. Size fine.

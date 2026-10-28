@@ -1,5 +1,5 @@
 # US silver certificates & common silver coins (Morgan dollars, Mexican pesos, proof sets)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: spot silver + grey-sheet knowledge, eBay sold memory 2025 · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: spot silver + grey-sheet knowledge, eBay sold memory 2025 · tells 2026-10-13
 Slug: silver-certificates-and-coins · Aliases: silver dollar, old money, blue seal dollar, silver certificate, Morgan dollar, 5 pesos Cuauhtemoc, proof set, star note, Funnyback
 Summary: Circulated 1935/1957 $1 certs $1.50–4, 1934 $5 certs $8–15, modern proof sets $5–15; common Morgans and 1948 pesos ~1.0–1.3× melt; MS63+ slabbed Morgans $80–150 and CU star notes $20–60; key-date and CC Morgans $500–50,000.
 Buy rule (short): Silver at or below melt (lots by weight), or a slabbed key-date/CC Morgan under grey-sheet; pass on common certs over $5 and raw common Morgans over $45 (re-peg to current spot).
@@ -66,7 +66,13 @@ Nothing; coin sellers almost always overprice. The only arbitrage is key dates o
 Flat, cheap, insured. eBay 13% (coins category ~13%). Must authenticate before paying; counterfeit Morgans are rampant.
 
 ## Selling it (for the buyer-facing listing)
-Title: "[Year]-[Mint] Morgan Silver Dollar [grade/slab]" or "Series 1935[letter] $1 Silver Certificate [star/grade]". State the date and mint, weight (coins), slab cert number, serial and series (notes), and any cleaning or damage. Photograph both sides at high resolution, with no stock photos.
+- **Title words:** coins: year, mint mark, "Morgan Silver Dollar", grade or slab (PCGS MS63); notes: "Series 1935[letter] $1 Silver Certificate", "star note", grade (CU/VF). Junk: "rare", "old money", "antique coin", grade claims on raw coins. `1884-CC Morgan Silver Dollar PCGS MS63 Carson City Cert #xxxxxxxx`
+- **Where:** eBay BIN with offers for slabbed and key-date coins and star notes; local coin dealer for bullion-grade Morgans, pesos and common certs (no fees, spot pricing); never FB local.
+- **Price position:** bullion at spot × 1.0–1.3 firm (re-peg to current spot); slabbed at grey-sheet / sold median ($80–150 MS63 common), accept −5%; circulated certs $1.50–4 lotted; no cuts — the market is liquid.
+- **Photos:** first: obverse and reverse side by side, high resolution, no stock photos; then date and mint mark close-up, slab label and cert number, note serial/series and star, any cleaning hairlines, tears or pinholes against light.
+- **State:** date, mint, grade or slab cert number, weight, cleaning/damage/ex-jewellery marks; notes: series, serial, star, folds/tears/writing/pinholes; "authenticated" only if slabbed.
+- **Pack / haul:** flat, insured, rigid mailer, $5; signature on $250+.
+- **Quote to a buyer:** "[1884-CC] Morgan in a [PCGS MS63] holder, cert [#] verifiable online — raw common Morgans trade at melt; a slabbed Carson City at this grade is priced off the grey sheet."
 
 ## Buy rule
 Buy when: silver is priced at or below melt (lots sold by weight), or a key-date/CC Morgan in a slabbed holder is under grey-sheet. Pass when: a single common silver cert is priced over $5, or a Morgan over $45 raw. The $45 cut-off was set at ~$35/oz silver; re-peg to current spot (Morgan melt = 0.7734 × spot). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

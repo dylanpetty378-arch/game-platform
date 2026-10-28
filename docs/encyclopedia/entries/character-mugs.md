@@ -1,5 +1,5 @@
 # Character mugs (figural/head mugs and licensed mugs: King Features Popeye, Disney, Peanuts/Snoopy, Holt Howard, Fitz & Floyd, Applause, Arabia Moomin, Royal Doulton character jugs, Potpourri Press, Pfaltzgraff, Hallmark)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("character mugs" median $17.86 n=42, p25 $16.71 p75 $29.21, incl. Arabia Moomin mugs $119–194; "King Features 1980 Popeye mug" median $15.35 n=37, p25 $9.02 p75 $25; "Potpourri Press 1987 coffee mugs" median $9.99 n=50, p25 $7.50 p75 $12). Royal Doulton character jug references (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("character mugs" median $17.86 n=42, p25 $16.71 p75 $29.21, incl. Arabia Moomin mugs $119–194; "King Features 1980 Popeye mug" median $15.35 n=37, p25 $9.02 p75 $25; "Potpourri Press 1987 coffee mugs" median $9.99 n=50, p25 $7.50 p75 $12). Royal Doulton character jug references (general knowledge, verify). No web search this run.
 Slug: character-mugs · Aliases: figural mug, head mug, face mug, cartoon mug, Popeye mug, Snoopy mug, Disney mug, Toby mug, collectible coffee mug, Moomin mug
 Summary: Generic 1970s–90s licensed/figural mugs $5–25; better vintage (Holt Howard, early Disney Japan, Fitz & Floyd, Peanuts 1960s–70s) $20–60; Arabia Moomin limited and older Royal Doulton large character jugs $60–250+.
 Buy rule (short): Pass on single licensed mugs; only Arabia Moomin seasonal/discontinued mugs or rare Royal Doulton character jugs at ≤ $20 clear Dylan's profit floor.
@@ -53,7 +53,13 @@ Arabia Moomin mugs at thrift prices; California Originals Star Wars head mugs; H
 1–2 lb, $8–12 boxed with padding.
 
 ## Selling it (for the buyer-facing listing)
-Base marks, copyright year, height, chips/crazing; whether food safe (vintage decals and glazes may contain lead: sell as decor).
+- **Title words:** character and franchise (Popeye, Moomin, Star Wars), maker (Arabia, Holt Howard, California Originals, King Features), year, "figural"/"head mug"/"character jug", "Japan". Junk: "coffee cup", "cute", "rare" on 1980s licensed. `Arabia Moomin Mug Simple Joy 2026 Finland Discontinued`
+- **Where:** eBay BIN with offers for Moomin/Star Wars/Holt Howard/Doulton; generic licensed mugs lotted on FB local.
+- **Price position:** Moomin limited at the sold median ($119–194 for a pair), firm 3 weeks then −10%; Holt Howard/Star Wars at the sold median ($25–80), OBO; 1980s licensed at $15 median, cut fast.
+- **Photos:** first: front face; then base marks and copyright year, handle, rim and protruding parts (pipes, ears) for chips, interior for staining, crazing close-up, ruler.
+- **State:** character, maker, copyright year, country of origin, height, chips/crazing/paint rubs by photo number, "sold as decor; vintage glazes may contain lead".
+- **Pack / haul:** 1–2 lb, boxed with padding around handles and projections, $8–12.
+- **Quote to a buyer:** "[Arabia Moomin] [Simple Joy], discontinued [2026] with the Finland backstamp — generic licensed mugs sell for $15; the seasonal Moomin ones are what collectors pay $100+ for."
 
 ## Buy rule
 Profit = median × 0.87 − ~$10 to buyer − ~$8 to Dylan − price. Popeye ($15): 13 − 18 = loss. **Pass on all common mugs.** Moomin at median $100 and ≤ $20: 87 − 18 − 20 = $49 — borderline; need ≤ $15.

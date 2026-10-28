@@ -1,5 +1,5 @@
 # Sad irons and flat irons (Mrs. Potts/Enterprise, Dover, Sensible, Geneva, Sargent & Co., Ober, Asbestos/Bless & Drake, Colebrookdale, unmarked foundry irons; also fluting, tailor's, charcoal and gas irons)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). References to verify: "Pressing Iron Patents" (Esther Berney, "A Collector's Guide to Pressing Irons and Trivets"), Midwest Sad Iron Collectors Club; WorthPoint.
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). References to verify: "Pressing Iron Patents" (Esther Berney, "A Collector's Guide to Pressing Irons and Trivets"), Midwest Sad Iron Collectors Club; WorthPoint.
 Slug: sad-irons · Aliases: flat iron, cast iron iron, sadiron, antique clothes iron, door stop iron, Mrs Potts iron, charcoal iron, tailor's goose
 Summary: Common one-piece cast sad irons $10–30; marked/named irons, sets with detachable handle and stand $30–90; children's/toy, fluting machines, figural or patent irons $75–400+.
 Buy rule (short): Pass on plain sad irons; buy only small toy/salesman irons, complete Mrs. Potts boxed sets, fluters or unusual patent irons under ~$25.
@@ -42,7 +42,13 @@ Children's/toy irons and fluting machines dumped in "old iron" lots; complete bo
 Heavy: a #4–#6 iron is 4–6 lb → $12–20 shipping, which equals the sale price. Durable.
 
 ## Selling it (for the buyer-facing listing)
-Give maker, size number, weight, handle type, rust condition; suggest doorstop/bookend use.
+- **Title words:** "sad iron" + maker (Sargent & Co, Mrs Potts, Dover, Geneva) + size number + type (detachable handle, fluter, child's, tailor's goose) + "cast iron" + "antique". Junk: "doorstop", "rustic", "old iron". Example: `Antique Mrs Potts Sad Iron Set of 3 Detachable Walnut Handle Stand Enterprise`.
+- **Where:** eBay BIN with offers for sets, fluters, children's and figural irons; plain single irons are FB local or a lot, since $12–20 shipping equals the price.
+- **Price position:** list at the sold median (plain $10–25, named single with handle $20–50, boxed sets/fluters/children's $50–200); accept −15%, floor −25%; OBO; cut 10% after 45 days.
+- **Photos:** 1) iron in profile with handle; then top casting/maker name, base, handle and latch, stand, box and contents for sets, rust close-up, ruler for length.
+- **State:** maker, size number, weight, handle type (fixed/detachable, wood), set completeness, rust/pitting by photo number, paint original or stripped, doorstop/bookend use suggested for plain ones.
+- **Pack / haul:** 4–6 lb each, durable; wrap handle, single box with crumpled paper, 5–8 lb class, $12–20; sets 12–18 lb, $25–35.
+- **Quote to a buyer:** "A [Mrs Potts / Geneva fluter / child's Dover], not a plain foundry iron — [complete set with stand and box]; these sell for [$X] while unmarked sad irons go for $15."
 
 ## Buy rule
 Plain sad iron ($15–25 sold) can never clear $50 profit. Pass unless a set, fluter, toy or patent iron with median ≥ $120 at price ≤ $30.

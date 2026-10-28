@@ -1,5 +1,5 @@
 # Polaroid instant cameras (Polaroid 600 OneStep/Sun 660, SX-70, Spectra, Land cameras, Impossible/Polaroid Originals)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type) · tells 2026-10-13
 Slug: polaroid-instant-cameras · Aliases: Polaroid camera, OneStep, Sun 600, 600 camera, SX-70, Land camera, instant camera
 Summary: untested 600 box cameras $15–35; tested 600 OneStep/Sun 660 $40–80; SX-70 folding (tested, cleaned) $150–350; SLR 680/690 $250–500; pack-film Land 100–400 series $25–100, Model 180/195 $200–500 (general knowledge, verify)
 Buy rule (short): buy only folding SX-70/SLR 680/690 or Land 180/195 at ≤ $60, tested with a film shot; 600 box cameras are a pass.
@@ -48,7 +48,13 @@ SX-70s in grandparents' closets listed as "old camera"; sellers overprice 600 bo
 2–3 lb, $12–15.
 
 ## Selling it (for the buyer-facing listing)
-Test shot photo, rollers clean, flash fires.
+- **Title words:** "Polaroid" + model ("SX-70", "SLR 680", "OneStep 600", "Land 195") + "tested"/"film tested" + "with flash bar/case/manual"; Junk: "vintage camera", "untested" if you can avoid it, "retro". Example: `Polaroid SX-70 Land Camera Folding SLR Tested Working Tan Leather Chrome`.
+- **Where:** eBay BIN with offers (fast, trend-driven, constant demand). No place beats eBay.
+- **Price position:** at the sold median (OneStep 600 $30, p75 $40; SX-70 tested $150–350; SLR 680/690 $250–500), accept −10%, floor p25; OBO; cut 10% after 2 weeks.
+- **Photos:** first photo the camera open, front; then the test shot it took, rollers (clean), lens, viewfinder, film door, folding mechanism on SX-70s, sonar grille/flash head, battery/film-pack bay, accessories.
+- **State:** model, tested with film (show the print) or untested and why (battery is in the film pack), rollers clean, shutter fires, flash fires, folding/latches, cosmetic wear, included case/manual/flash bar, flaws by photo number.
+- **Pack / haul:** 2–3 lb, single box with bubble, SX-70 folded and latched; $12–15.
+- **Quote to a buyer:** "Original [1972 SX-70] folding SLR — the chrome-and-tan one, not a Model 3 — film-tested with the shot in photo 2, rollers cleaned; a refurbished one from Polaroid is [$X]."
 
 ## Buy rule
 Profit = median × 0.87 − $13 − $13 − price ≥ max($50, price). Needs tested film shot; untested = pass.

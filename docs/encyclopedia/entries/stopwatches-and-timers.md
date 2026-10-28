@@ -1,5 +1,5 @@
 # Mechanical stopwatches and timers (Heuer, Minerva, Hanhart, Gallet, Meylan, Breitling, Excelsior Park, Elgin, Waltham, Junghans, Smiths, Lemania; dashboard/rally timers; darkroom/kitchen timers)
-Updated: 2026-10-13 · Sources: general knowledge only (no web search this run); batch file /tmp/res/batches2/c01.md (Minerva 30-min stopwatch $35; Heuer, Hanhart, Gallet, Meylan, Elgin seen); /home/claude/game-platform/db/comps.jsonl — no stopwatch rows. Verify via eBay sold, OnTheDash (onthedash.com, Heuer history and catalogs), Minerva history (Montblanc Minerva Villeret), Gallet history (galletwatch.com).
+Updated: 2026-10-28 · Sources: general knowledge only (no web search this run); batch file /tmp/res/batches2/c01.md (Minerva 30-min stopwatch $35; Heuer, Hanhart, Gallet, Meylan, Elgin seen); /home/claude/game-platform/db/comps.jsonl — no stopwatch rows. Verify via eBay sold, OnTheDash (onthedash.com, Heuer history and catalogs), Minerva history (Montblanc Minerva Villeret), Gallet history (galletwatch.com).
 Slug: stopwatches-and-timers · Aliases: stop watch, stopwatch, chronometer (misused), sports timer, coach's watch, referee timer, 1/5 second timer, 1/10 second timer, decimal timer, split-second timer, rattrapante, yacht timer, regatta timer, rally timer, dashboard clock, darkroom timer, Heuer stopwatch, Minerva timer
 Summary: Japanese/Chinese and 1970s+ pin-lever stopwatches, digital timers $10–40; Swiss jewelled stopwatches (Minerva, Hanhart, Gallet, Meylan, Elgin, Waltham, Excelsior Park, Lemania) running $60–200; Heuer (Leonidas/Trackmaster), split-second/rattrapante, 1/100 second, regatta/yacht and Heuer dashboard timers (Monte Carlo, Master Time, Super Autavia) $200–1,500+ (general knowledge, verify)
 Buy rule (short): Buy running Swiss jewelled stopwatches (Heuer, Minerva, Hanhart, Gallet, Meylan, Lemania, Excelsior Park) at ≤ $40, split-second/regatta/Heuer dashboard timers at ≤ 25% of sold; pass on non-running, pin-lever, or Japanese/digital timers.
@@ -47,7 +47,13 @@ Brand names (Minerva, Gallet, Hanhart) treated as "old stopwatch"; split-second 
 Tiny; padded box $5–6. Ship stopped (not running) to avoid wear; protect crystal.
 
 ## Selling it (for the buyer-facing listing)
-Brand, caliber/jewels, register type, scale, "running, starts/stops/resets to zero" with a video, crystal condition, not serviced (unless it has been).
+- **Title words:** brand + type (stopwatch, split-second/rattrapante, dashboard timer) + register (30-minute) + scale (1/10 sec) + "Swiss" + "mechanical" + "running" + model (Trackmaster, Monte Carlo). Junk: "old stopwatch", "pocket watch", "untested". Example: `Minerva Swiss Mechanical Stopwatch 30 Minute Register 1/10 Sec Running Vintage`.
+- **Where:** eBay BIN with offers (watch and motorsport collectors; Swiss branded running examples sell in 1–3 weeks); Heuer dashboard timers also do well at watch auctions; FB local does not beat it.
+- **Price position:** list at the sold median (Minerva 30-min ~$90–160, Heuer Trackmaster ~$150–300, Monte Carlo dashboard ~$600–1,200, Elgin/Waltham $40–120); accept −10%, floor −20%; OBO; Heuer firm; cut 10% after 30 days.
+- **Photos:** 1) dial straight-on, hands at zero; then case back and any engraving, movement if the back opens (caliber, jewels), crown and pushers, crystal at an angle for scratches, side profile; video of start, stop and reset to zero.
+- **State:** brand, caliber/jewel count, register type, scale, "running, starts/stops/resets to zero", timing accuracy if checked, crystal and case condition, not serviced unless it has been, flaws by photo number.
+- **Pack / haul:** tiny; ship stopped (not running), crystal faced into bubble, small padded box, under-1-lb class, $5–6.
+- **Quote to a buyer:** "A [Minerva / Heuer Trackmaster] Swiss jewelled stopwatch, [caliber], running and resetting to zero in the video — the pin-lever Chinese and Timex ones are the $15 watches; running [brand] examples sell for [$X]."
 
 ## Buy rule
 Profit = sold × 0.87 − $6 to buyer − $6 to Dylan − price ≥ max($50, price). A running Minerva at ~$120 sold → buy at ≤ $42. Heuer at ~$220 → ≤ $85. Require a video of start/stop/reset. Heuer dashboard timers over $500 are authentication-sensitive — pass unless obviously original and bought far under.

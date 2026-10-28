@@ -1,5 +1,5 @@
 # Vintage cell phones (Motorola DynaTAC/StarTAC/MicroTAC/RAZR, Nokia 8xxx/3310, early Samsung/LG flips, BlackBerry, early iPhone)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type) · tells 2026-10-13
 Slug: vintage-cell-phones · Aliases: old cell phones, flip phones, brick phone, retro phones, Nokia lot, Motorola flip, phone lot for parts
 Summary: common 2000s flips/candybars $5–20 each; lots of 10+ untested $25–80; boxed NOS phones $30–150; Motorola StarTAC/Nokia 8810/8850 $40–200; DynaTAC 8000 brick $300–1,500; sealed 1st-gen iPhone $1,000+ (general knowledge, verify)
 Buy rule (short): buy only DynaTAC/early Motorola bricks, Nokia 88xx chrome sliders or sealed early iPhones at ≤ $50; common flip lots are untested electronics → pass.
@@ -54,7 +54,13 @@ Boxed NOS phones and early Motorolas mixed in drawers.
 Lithium batteries: ship ground, batteries installed in device or removed; swollen → don't ship.
 
 ## Selling it (for the buyer-facing listing)
-State untested/for parts unless tested; list each model.
+- **Title words:** maker + exact model (StarTAC, DynaTAC 8000X, Nokia 8850, RAZR V3) + "vintage cell phone" + "boxed"/"NOS" + carrier + "tested" or "untested"; lots: "lot of 10 flip phones". Junk: "old phones", "cellphone lot" without models, "rare". Example: `Motorola StarTAC Vintage Flip Cell Phone with Charger Tested Powers On 1990s`.
+- **Where:** eBay BIN with offers (retro-phone trend; moderate speed); untested lots as eBay auctions; nothing beats eBay.
+- **Price position:** list at the sold median (untested lots $25–80, boxed common flips $15–40 each, StarTAC/Nokia 88xx $40–200, DynaTAC $300–1,500); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) phone open/upright, screen facing camera; then back label with model number, battery bay (no swelling), charger and box contents, screen lit if it powers on, keypad wear, antenna; lots laid out in a grid.
+- **State:** each model listed from the back label, tested (powers on, screen lights) or "untested/for parts", battery condition and included charger, box and manuals, carrier branding, cosmetic wear by photo number.
+- **Pack / haul:** lithium batteries: ground only, battery installed or removed, swollen batteries not shipped; bubble in a small box, 1–5 lb class, $8–15.
+- **Quote to a buyer:** "A [StarTAC / DynaTAC 8000X], model on the back label in photo [2], [powers on with the original charger / boxed new old stock] — the 2000s flips are the $10 phones; [model] examples sell for [$X]."
 
 ## Buy rule
 Profit = median × 0.87 − $15 − $15 − price ≥ max($50, price). Untested electronics → Dylan passes except rare collectibles where value is display/collector.

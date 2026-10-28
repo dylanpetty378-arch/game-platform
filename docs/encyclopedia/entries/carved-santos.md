@@ -1,5 +1,5 @@
 # Carved santos (polychrome wood religious figures – Spanish, Mexican, Spanish-colonial, Philippine, Portuguese/Brazilian)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold Jul–Oct 2026 (Chrome); Google Lens match to a Menino Jesus de Praga auction lot; Run 13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold Jul–Oct 2026 (Chrome); Google Lens match to a Menino Jesus de Praga auction lot; Run 13
 Slug: carved-santos · Aliases: santos, santo, bulto, Santo Niño, Niño Jesús, Menino Jesus, Infant of Prague, antique wooden statue, old Catholic statue, church statue, saint carving, Jesus figure, polychrome santo
 Summary: Resin repros and 1990s folk santos $20–60; 10–15" 19th/20th-c. carved polychrome saints $150–300; 18–26" gessoed, gilt figures and Spanish-colonial pieces $350–800; 17th–18th-c. figures with original polychrome and glass eyes $1,000–3,000+.
 Buy rule (short): Buy an 18"+ carved, gessoed figure with gilt and honest paint loss under $200; pass under 12", glossy/even paint, resin, "Made in" stamps, or pieces already titled "antique santos polychrome" at $300+.
@@ -57,7 +57,13 @@ Size and gilt. They describe condition ("badly chipped") as a negative; buyers p
 Fragile (fingers, flaking gesso). Double-box with the figure wrapped loosely in tissue then bubble; 25" piece ≈ 8–12 lb boxed, $45–60 UPS Ground. Sell on eBay (religious antiques category) or to a Santa Fe / Tucson dealer; auction houses (Invaluable/LiveAuctioneers) for the top tier.
 
 ## Selling it (for the buyer-facing listing)
-Height, subject, likely region and century (with reasons: gesso, gilt over bole, glass eyes, square nails), materials, every loss and repair, and provenance if any. Photograph front, back, base, head close-up, hands and the gilt. Title keywords: "antique carved polychrome santo", "Spanish colonial", "gesso", "gilt", "Santo Niño", height.
+- **Title words:** "antique carved polychrome santo", subject (Santo Niño, Virgin, St. [name]), region ("Spanish colonial", "Philippine", "New Mexican bulto"), "gesso", "gilt", "glass eyes", height, century. Junk: "religious statue", "chipped" as the lead, "resin", "wall decor". `Antique Carved Polychrome Santo Niño Spanish Colonial Gesso Gilt Glass Eyes 22"`
+- **Where:** eBay religious-antiques category BIN with offers (sold $190–400 band, 2026); LiveAuctioneers/Invaluable for 17th–18th-c. pieces; Santa Fe/Tucson dealers for 18"+ gilt figures.
+- **Price position:** 10–15" figures at the sold median ($190–300), 18–26" gilt at $350–800, OBO, accept −15%; 17th–18th-c. with glass eyes at the sold median ($1,450 Santo Niño), firm to auction. Cut 10% at 45 days.
+- **Photos:** first: figure front, full height; then face close-up (glass eyes), hands, estofado gilt scratched pattern, back of head, base/underside with nails or dowels, worm holes, every loss and any putty/overpaint.
+- **State:** height, subject, region and century with reasons (gesso, gilt over bole, glass eyes, square nails), wood, every loss and repair by photo number, active worm or not, provenance.
+- **Pack / haul:** tissue then bubble, double box; 25" ≈ 8–12 lb boxed, $45–60 UPS Ground; fits a car seat.
+- **Quote to a buyer:** "[22"] [Santo Niño] with estofado gilt under the polychrome, glass eyes and square nails in the base — honest age loss is the proof; the 1990s folk santos are $40 and this tier sells $350–800."
 
 ## Buy rule
 Buy when: an 18"+ carved, gessoed figure with gilt and honest paint loss is under $200 – expect $400–800 sold. Pass when: under 12", glossy/even paint, resin, "Made in" stamp, or the seller already lists it as "antique santos polychrome" at $300+. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (life-size church figures are "bigger" and excluded).

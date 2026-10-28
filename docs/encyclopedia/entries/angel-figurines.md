@@ -1,5 +1,5 @@
 # Angel figurines (Roman Inc. Seraphim Classics, Willow Tree/Demdaco, Goebel/Hummel, Lladró, Hallmark, Lenox, Josef Originals, Precious Moments, Boyds, Sonny Angel, Napco, Lefton)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("angel figurines" median $17.69 n=47, p25 $11.89 p75 $24.79; "Roman Inc Seraphim Classics resin angel" median $14.85 n=50, p25 $10 p75 $20); maker knowledge (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("angel figurines" median $17.69 n=47, p25 $11.89 p75 $24.79; "Roman Inc Seraphim Classics resin angel" median $14.85 n=50, p25 $10 p75 $20); maker knowledge (general knowledge, verify). No web search this run.
 Slug: angel-figurines · Aliases: angel statue, guardian angel figurine, Seraphim angels, resin angels, cherub figurine, Willow Tree angel, angel collection lot
 Summary: Unbranded resin/gift-shop angels $2–10; Seraphim Classics and Willow Tree $8–30 each; Lladró and Goebel angels $40–200; Josef Originals and Lefton/Napco 1950s birthday angels $10–40; Sonny Angel rare figures $30–150+.
 Buy rule (short): Pass on resin angel lots; only Lladró/Goebel porcelain or Sonny Angel rarities priced as junk, ≤ $20.
@@ -51,7 +51,13 @@ Lladró porcelain mixed into resin lots; vintage Japanese birthday angels with f
 Fragile wings; each needs a box with bubble wrap, $8–15 each.
 
 ## Selling it (for the buyer-facing listing)
-Bottom photo with name/number, wings close-ups, box status.
+- **Title words:** maker and line (Seraphim Classics/Roman Inc., Lladró, Goebel, Josef Originals, Sonny Angel), angel name and item number (Rebecca 81480), "retired", height, "with box", month for birthday angels. Junk: "angel statue", "beautiful", "rare", "Lladro style". `Seraphim Classics Rebecca Beautiful Dreamer 81480 Roman Inc Retired with Box`
+- **Where:** eBay BIN with offers (Nov–Dec bump); resin unmarked lots local or donated; Lladró/Goebel singly on eBay.
+- **Price position:** Seraphim at the sold median ($24, retired p75 $45 with box), OBO, accept −20%; Lladró/Goebel at $40–250 median; Josef/Lefton month angels $10–40, sets together. Cut 15% at 45 days — 60–120 days typical.
+- **Photos:** first: figure front, plain background; then bottom with name/number stamp and gold sticker, wing tips and fingers close-up, back, glued joints, box and sleeve.
+- **State:** maker, name, item number, height, porcelain vs resin, box included, chips/glued wings/yellowing by photo number; complete set of months stated for birthday angels.
+- **Pack / haul:** fragile wings; each boxed with bubble wrap and wings padded, $8–15.
+- **Quote to a buyer:** "[Seraphim Classics Rebecca 81480], retired, boxed with the numbered sticker — unmarked resin angels don't sell; the named retired Seraphim with the box is the one that clears $30–45."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$12 ship to buyer − ship to Dylan − price ≥ max($50, price). Resin angels at ~$15 resale each net ~$1 after shipping — never. Only Lladró / large Goebel at ≤ $20, or a full matched set of 1950s month angels at ≤ $20.

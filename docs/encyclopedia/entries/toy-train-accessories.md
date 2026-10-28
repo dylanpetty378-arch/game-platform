@@ -1,5 +1,5 @@
 # Toy train accessories (Lionel / Marx / Noma postwar O-gauge, Plasticville, transformers)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: binnsroad.co.uk Lionel postwar accessory listings; OGR Forum threads on the 154 crossing signal and 394 beacon; eBay sold-price knowledge (2024–25).
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: binnsroad.co.uk Lionel postwar accessory listings; OGR Forum threads on the 154 crossing signal and 394 beacon; eBay sold-price knowledge (2024–25).
 Slug: toy-train-accessories · Aliases: train accessories, Lionel accessories, train set parts, O gauge, Lionel pieces, trackside, Plasticville, Lionel transformer
 Summary: Marx tin, Plasticville and untested small transformers $5–20; Lionel 154/64/151/145 $20–45 each; 394 beacon, water tower, 445, 356, boxed Noma $40–90; operating 313/350/97/164 $150–400.
 Buy rule (short): Lots ≤ $4/piece with at least one 394 / water tower / operating accessory visible, or Lionel 313/350/97/164 under $80; pass all-Marx/plastic lots and transformer-only lots.
@@ -63,9 +63,13 @@ A big, steady hobby with an older buyer base. Peak is Nov–Jan (holiday layouts
 - A 25-piece lot is ~20 lb in two boxes, $40–60 to ship in. It sells best split into 10–15 eBay lots, which takes a lot of listing time. Fees 13%.
 
 ## Selling it (for the buyer-facing listing)
-- Catalogue number, postwar or modern, tested working, complete (bulbs, lenses, wires, controller), box condition.
-- Photograph the number on the base, every side, and the box flaps.
-- Title keywords: "Lionel Postwar 394 Rotary Beacon", "Lionel 97 Coal Elevator Tested", "O Gauge".
+- **Title words:** "Lionel Postwar" + catalogue number + name ("394 Rotary Beacon", "97 Coal Elevator") + "O Gauge" + "tested working" + "with box"; Junk: "train stuff", "toy train lot", "as-is". Example: `Lionel Postwar 394 Rotary Beacon O Gauge Tested Working with Bulb and Box`.
+- **Where:** eBay BIN with offers, split into 10–15 lots by piece (box lots "as-is" give the value away); Nov–Jan peak and fall/winter train shows. Marx/Plasticville as one local or eBay lot.
+- **Price position:** at the sold median (154/64/151/145 $20–45 each; 394/water tower/445/356/boxed Noma $40–90; 313/350/97/164 $150–400; tested ZW/KW $80–150), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the piece upright, front; then number stamped on the base, every side, bulbs/lenses, wires and controller, box flaps and end labels, a short video of operating pieces running.
+- **State:** catalogue number, postwar or modern (6- prefix), tested working, complete (bulbs, lenses, wires, controller), repaint or repro parts, box condition by photo number.
+- **Pack / haul:** single pieces 2–5 lb, remove bulbs and loose parts and bag them, pad; a 25-piece lot is ~20 lb in two boxes ($40–60); carry-on size.
+- **Quote to a buyer:** "Postwar Lionel [394 beacon], [1950s], tested and turning with the original [bulb] — the operating accessories are what hold value as the common signals soften; this one's complete and [boxed]."
 
 ## Buy rule
 Buy when: the lot price is ≤ $4/piece and at least one 394 beacon, water tower or operating accessory is visible; or any Lionel 313/350/97/164 is under $80.

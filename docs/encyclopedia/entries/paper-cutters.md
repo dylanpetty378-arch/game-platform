@@ -1,5 +1,5 @@
 # Vintage paper cutters / guillotine trimmers (Milton Bradley, Ingento (Ingersoll), Premier, Kodak, Dahle, Boston/Hunt, Martin Yale, X-Acto, Rotatrim)
-Updated: 2026-10-13 · Sources: listing photo pid 7982373720 (Craigslist, viewed – ~12" square wood base with green-painted grid, brass/wood ruler stamped "...STUDIO...", iron lever blade on right with spring tension screw – Milton Bradley "Studio"-type 12" school/office cutter, 1930s–60s); general knowledge (no web search this run – prices "(general knowledge, verify)"); verification references: Milton Bradley paper cutter history (Springfield MA, "Milton Bradley Co. trimmer" – https://en.wikipedia.org/wiki/Milton_Bradley_Company), Ingento (Ingersoll Paper Co./Ideal School Supply, Chicago) catalogues. No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: listing photo pid 7982373720 (Craigslist, viewed – ~12" square wood base with green-painted grid, brass/wood ruler stamped "...STUDIO...", iron lever blade on right with spring tension screw – Milton Bradley "Studio"-type 12" school/office cutter, 1930s–60s); general knowledge (no web search this run – prices "(general knowledge, verify)"); verification references: Milton Bradley paper cutter history (Springfield MA, "Milton Bradley Co. trimmer" – https://en.wikipedia.org/wiki/Milton_Bradley_Company), Ingento (Ingersoll Paper Co./Ideal School Supply, Chicago) catalogues. No Terapeak rows for this type in db/comps.jsonl.
 Slug: paper-cutters · Aliases: paper trimmer, guillotine cutter, paper slicer, photo trimmer, Milton Bradley cutter, Ingento cutter, school paper cutter, card trimmer, vintage paper cutter
 Summary: Common 12–15" wood/steel school cutters $15–40; 15–18" Ingento/Milton Bradley/Premier with good blade $30–70; small Kodak/Premier photo trimmers $10–30; ornate 19th-century cast-iron and patent paper cutters, Victorian brass desk cutters $80–300.
 Buy rule (short): Pass – common school cutters are heavy/awkward to ship and resell $20–50; only 19th-century ornate cast-iron desk cutters or rare patent pieces at ≤ $20 are worth a look.
@@ -44,7 +44,13 @@ Victorian ornate cast-iron card trimmers; sellers otherwise price fairly.
 12" cutter 5–7 lb in a flat box, $15–20; 18" models $25+. Blade must be secured.
 
 ## Selling it (for the buyer-facing listing)
-State size, maker, blade sharpness (cuts paper cleanly), base condition, and that the blade is secured for shipping.
+- **Title words:** maker ("Ingento", "Milton Bradley", "Premier", "Dahle") + size ("12 inch", "18 inch") + "paper cutter"/"guillotine trimmer" + "wood base" + "school"; Junk: "office supply", "crafting", "antique thing". Example: `Vintage Ingento No. 4 15" Wood Base Paper Cutter Guillotine Trimmer Sharp`.
+- **Where:** FB Marketplace local first (crafters, decor; heavy); eBay BIN with offers for 15–18" Ingento/Premier and Victorian cast-iron desk models. Local beats eBay for anything under $40.
+- **Price position:** at the sold median (Ingento $45, p75 $68; 12" MB $20–45; Victorian cast iron $80–300), accept −15%, floor p25 ($29); OBO; cut 10% after 3 weeks.
+- **Photos:** first photo top-down showing the grid and blade; then maker decal/stamp, blade edge (nicks, rust), base flatness (sight down it), handle and spring, underside, a cut test strip, tape for size.
+- **State:** maker, size, blade cuts paper cleanly (yes/no), nicks or rust, base warp/cracks, grid wear, spring/guard present, blade secured for shipping, flaws by photo number.
+- **Pack / haul:** 12" 5–7 lb flat box ($15–20), 18" $25+; tape the blade closed and pad the handle; fits a passenger seat.
+- **Quote to a buyer:** "[Ingento No. 4] on the original [wood] base, blade still cuts clean — the school-supply trimmers that outlast the plastic ones; new a comparable Dahle is [$X]."
 
 ## Buy rule
 Resale $20–45 and ~$15–20 shipping each way → always negative. Pass. Only Victorian ornate cutters at ≤ $20 with resale ≥ $120. Passenger-seat OK.

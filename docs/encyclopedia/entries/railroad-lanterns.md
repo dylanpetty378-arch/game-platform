@@ -1,5 +1,5 @@
 # Railroad lanterns (Dietz, Adlake, Handlan, Armspear)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: appraisily.com antique lanterns value guide; eBay listings Dietz Vesta / No. 39 / SP-marked 2025
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: appraisily.com antique lanterns value guide; eBay listings Dietz Vesta / No. 39 / SP-marked 2025
 Slug: railroad-lanterns · Aliases: train lantern, RR lantern, brakeman's lantern, conductor's lantern, kerosene lantern, Dietz Vesta, Adlake Kero, Handlan lantern
 Summary: Barn lanterns and repros $15–50; short-globe railroad-stamped $50–120; matching cast or coloured globes and tall-globe $120–300; tall-globe cast coloured, bell-bottom, rare roads $300–1,500.
 Buy rule (short): Railroad-marked with cast or coloured globe ≤ $50, or tall-globe ≤ $80; pass on unmarked, repros, or named-road asks of $75+.
@@ -61,7 +61,13 @@ Whether the globe is cast with the railroad name (doubles value), the colour of 
 3–4 lb, globe fragile. Wrap the globe separately. ~$18–25. eBay ~13%.
 
 ## Selling it (for the buyer-facing listing)
-Title: maker + model + railroad + globe, e.g. "Dietz Vesta Southern Pacific S.P. Co Railroad Lantern Cast Red Globe". State the frame stamp location and wording, globe colour and lettering (cast/etched/none), globe height, condition of the globe, and whether the fount and burner are present. Photograph the stamps, the globe lettering and the rim.
+- **Title words:** maker + model + railroad name/initials + globe colour + "cast globe" + "short/tall globe" + "railroad lantern". Junk: "barn lantern", "antique lamp", "Dietz" alone. Example: `Dietz Vesta Southern Pacific S.P. Co Railroad Lantern Cast Red Globe Short`.
+- **Where:** eBay BIN with offers (railroadiana collectors; stamped short-globes sell in a few weeks); top-tier tall-globe/rare roads do better at railroadiana auctions; holidays mildly stronger.
+- **Price position:** list at the sold median (stamped short-globe clear $60–110, matching cast or coloured globe $120–300, tall-globe cast colour $300+); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) full lantern side-on, globe lettering facing camera; then frame stamp close-up, globe lettering/cast marks, globe rim and base for chips, fount and burner, bail and top, any repro parts.
+- **State:** maker, model, frame stamp location and wording, globe colour and lettering (cast/etched/none), globe height, globe condition, fount and burner present, tall vs short, flaws by photo number.
+- **Pack / haul:** 3–4 lb; remove the globe and wrap it separately, lantern in a 12×12×12 single box with 2" padding, 5-lb class, $18–25.
+- **Quote to a buyer:** "[Dietz Vesta / Adlake Kero] stamped [S.P. Co] with a matching cast [red] globe — the cast globe doubles the value over a plain clear one; comparable stamped-and-globed lanterns sell for [$X], and the barn lanterns are the $25 ones."
 
 ## Buy rule
 Buy when: a railroad-marked lantern with a cast or coloured globe costs ≤ $50, or a tall-globe costs ≤ $80. Pass when: unmarked, repro, or the seller names the railroad and asks $75+. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

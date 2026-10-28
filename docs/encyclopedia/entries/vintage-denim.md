@@ -1,5 +1,5 @@
 # Vintage denim (Levi's, Lee, Wrangler, Big Yank, Sears Roebucks/Hercules, JCPenney Big Mac/Foremost, Montgomery Ward Powr House, Big E, Carhartt, Osh Kosh)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("Levi's 501 jeans" median $56.10 n=46 p25 $23.94 p75 $61.69; "Sears Western Wear trucker denim jacket" median $32 n=25 p25 $28 p75 $40; "vintage denim" median $14.25 n=49); general knowledge on dating (no web search this run; verify) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("Levi's 501 jeans" median $56.10 n=46 p25 $23.94 p75 $61.69; "Sears Western Wear trucker denim jacket" median $32 n=25 p25 $28 p75 $40; "vintage denim" median $14.25 n=49); general knowledge on dating (no web search this run; verify) · tells 2026-10-13
 Slug: vintage-denim · Aliases: vintage jeans, Levis 501, 505, 517, Big E, redline selvedge, selvage, trucker jacket, type 1, type 2, type 3, 557, 70505, Lee Riders, Lee 101, Wrangler 11MWZ, Blue Bell, Sears Western Wear, Roebucks, chore coat, shirt jacket
 Summary: Modern/1990s–2000s jeans and jackets $10–40; USA-made 1980s–90s Levi's 501/505, Lee, Wrangler $35–90; 1970s small-"e" and redline selvedge Levi's $100–400; Big E (pre-1971) Levi's jeans and type 1–3 jackets, 1950s chore/work denim $250–3,000+.
 Buy rule (short): Buy jeans/jackets with a capital-E red tab, selvedge (redline) outseam, single-stitch back pockets or a "Made in USA" care tag from the 1960s–80s at ≤ $25; pass on paper-patch 2000s 501s, women's, stretch and modern "vintage-style" pieces.
@@ -70,7 +70,13 @@ Very liquid on eBay, Depop, Grailed and Etsy. Common USA-made 501s sell in 1–3
 Light (1–2 lb), ships $6–10 in a poly mailer. No fragility. Ideal shipped category.
 
 ## Selling it (for the buyer-facing listing)
-Give actual flat measurements (waist, rise, inseam, leg opening), tag size, era tells (tab, selvedge, care tag date, button number), country of manufacture, and every flaw photographed.
+- **Title words:** brand + model (501, 505, Lee 101, 11MWZ) + era tell (Big E, small e, redline selvedge, USA made) + tag size + measured size + "vintage" + decade. Junk: "old jeans", "distressed", "boho". Example: `Vintage 70s Levi's 501 Redline Selvedge Small e USA Made Jeans 32x30 Measured`.
+- **Where:** eBay BIN with offers (very liquid; USA 501s 1–3 weeks); Grailed and Depop at the same price for 1970s and Big E (sell in days); Etsy for store-brand jackets.
+- **Price position:** list at the sold median (USA 501 ~$56, Sears Western Wear jacket ~$32, 1970s small-e/redline $100–400, Big E $250+); accept −10%, floor −20%; OBO; cut 10% after 21 days; waist 40+ list lower.
+- **Photos:** 1) front flat-lay on a plain floor; then back with tab and patch, red tab close-up (E/e), selvedge cuffed, care tag, button-back number, fly, every flaw (holes, crotch blowout, hem wear), tape measure across waist and inseam.
+- **State:** flat measurements (waist, rise, inseam, leg opening), tag size, era tells (tab, selvedge, care tag date, button number, single-stitch), country of manufacture, fades and repairs, every flaw by photo number.
+- **Pack / haul:** 1–2 lb; folded in a poly mailer, 2-lb class, $6–10; no fragility.
+- **Quote to a buyer:** "[1970s small-e redline 501 / Big E Type III jacket], tab and selvedge in photos [3–4], USA made, measured [32x30] — the care-tag 2000s 501s are the $40 pair; this era sells for [$X] in this size."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$8 shipping to buyer − ~$8 to Dylan − price ≥ max($50, price). Common USA-made 501s ($50 sold) never qualify. Buy when photos or seller answers show a capital-E tab, redline selvedge, single-stitch pockets or 1960s–70s labels, price ≤ $40 (resale must be ≥ $110). Ask the seller for tab, cuff-turned and care-tag photos before buying anything that looks old. Pass on paper-patch 1990s–2000s 501s, women's and stretch.

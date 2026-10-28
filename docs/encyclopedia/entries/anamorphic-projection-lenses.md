@@ -1,5 +1,5 @@
 # Anamorphic projection lenses (Kowa, Sankor, Isco, Bell & Howell)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings (Kowa 16-H ask $1,190 item 235161786436; 16-D asks $300–500), kamerastore.com 16-D spec page, vintagelensesforvideo.com Kowa Vidoscope review + 2024/25 reader comments ($200 for a 16-H in 2024, $280 Vidoscope), seller statements in sweep listings; Terapeak Kowa 16-D (5 sold, $180–200, pulled 2026-10-12).
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay listings (Kowa 16-H ask $1,190 item 235161786436; 16-D asks $300–500), kamerastore.com 16-D spec page, vintagelensesforvideo.com Kowa Vidoscope review + 2024/25 reader comments ($200 for a 16-H in 2024, $280 Vidoscope), seller statements in sweep listings; Terapeak Kowa 16-D (5 sold, $180–200, pulled 2026-10-12).
 Slug: anamorphic-projection-lenses · Aliases: projection lens, anamorphic lens, CinemaScope lens, Prominar, Kowa anamorphic, Iscorama, Sankor, movie projector lens
 Summary: Big theatre anamorphics/fogged units $40–150; Sankor/Elmoscope/Vidoscope $150–300; Kowa 16-D $180–500 (Terapeak $180–200); Kowa 8-Z/16-H $700–1,200, Iscorama $2,000–5,000.
 Buy rule (short): Kowa 8-Z/16-H < $300, 16-D < $120, Iscorama < $800; pass big theatre units and any haze.
@@ -49,7 +49,13 @@ Estate/garage sellers list these as "projector lens" or "movie projector part" f
 Under 1 lb, small box, $10–15 either way. Sell on eBay (13%) or Reverb (~8%) – Reverb buyers are the filmmakers.
 
 ## Selling it (for the buyer-facing listing)
-State exact model (engraving), squeeze factor (2x), rear thread size, glass condition (haze/fungus/separation/scratches), focus action, and any included mounts/clamps. Photograph the engraving, both elements with a light through them, and the rear thread. Keywords: brand + model + "anamorphic" + "2x" + "projection lens" + "Prominar"/"Iscorama".
+- **Title words:** brand + exact model from the engraving + "anamorphic" + "2x" + "projection lens" + glass condition ("clear, no haze") + rear thread: "Kowa Prominar 16-H", "Iscorama 36", "Sankor 16C"; Junk: "projector lens", "movie projector part", "camera lens". Example: `Kowa Prominar Anamorphic 16-H 2x Projection Lens Clear Glass No Haze Fungus`.
+- **Where:** Reverb (~8%; buyers are the filmmakers) first, eBay second. Low volume — price to the few real solds.
+- **Price position:** at the sold median (16-D $180–200; 16-H $290, p75 $306; Sankor/Vidoscope $150–300; Iscorama $2,000–5,000), accept −10%, floor p25; OBO; cut 10% after 4 weeks (prices softened since cheap new anamorphics).
+- **Photos:** first photo the lens side-on with the engraving readable; then engraving macro, front and rear elements with a flashlight shone through (haze/fungus/separation), rear thread with a ruler, barrel dents, focus ring, included clamp/mount, a test frame through it.
+- **State:** exact model from the engraving, squeeze (2x), rear thread size, glass condition (haze/fungus/separation/scratches) honestly, focus action, included mounts/clamps, flaws by photo number.
+- **Pack / haul:** under 1 lb; caps on, bubble, small box with fill; $10–15.
+- **Quote to a buyer:** "Kowa [16-H] by the engraving — the 8-Z/16-H is the one, 3–4× a 16-D — glass clear under a flashlight, smooth focus, rear thread [X mm] for a clamp; they've sold [$265–306] this year."
 
 ## Buy rule
 Buy when: 8-Z / 16-H under $300; 16-D under $120; Iscorama at any price under $800 (then verify). Pass when: large theatre projector anamorphics (>1 kg), any visible haze, or a 16-D over $150 (profit can't reach max($50, price)). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (all do).

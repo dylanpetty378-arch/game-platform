@@ -1,5 +1,5 @@
 # Large-diaphragm condenser microphones (Rode, AKG, Neumann, Audio-Technica, Shure)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: equipboard Rode NT2 page (Reverb used listing $159, 3 available, 2026-10); Reverb NT2-A product pages; sweep listing photos (Rode NT2 original, Boise $75); Terapeak Rode NT2 original (13 sold, median $170, pulled 2026-10-12); general Reverb/eBay sold knowledge
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: equipboard Rode NT2 page (Reverb used listing $159, 3 available, 2026-10); Reverb NT2-A product pages; sweep listing photos (Rode NT2 original, Boise $75); Terapeak Rode NT2 original (13 sold, median $170, pulled 2026-10-12); general Reverb/eBay sold knowledge
 Slug: condenser-microphones · Aliases: studio microphone, recording mic, condenser mic, LDC, vocal mic, tube mic, Rode NT2, AKG C414, Neumann U87
 Summary: MXL/AT2020/Blue/USB mics $25–70; Rode NT1-A/NT2/NT2-A, AT2035/4040, AKG C214 $100–250 (NT2 original median $170); C414, AT4050, KSM44, Rode tube mics, Neumann TLM $300–1,500; U87/U67/U47, C12, C414 EB, Telefunken $1,500–15,000+.
 Buy rule (short): Buy C414 under $200, AT4050/KSM44 under $150, Neumann TLM under $300, Rode NTK/K2 with PSU under $120; pass decent-tier mics over $60 and USB mics.
@@ -50,7 +50,13 @@ Liquid: Reverb is the main market (about 8% fees with processing), eBay second. 
 1–2 lb in case; $12–18 each way. Reverb is the market (8% + processing); eBay 13%. Pack in the case with foam; protect the capsule from shock.
 
 ## Selling it (for the buyer-facing listing)
-Model, generation (e.g. NT2 original vs NT2-A), serial, tested with phantom power (attach a sample recording), included mount/case/PSU/cable, cosmetic condition. Photograph logo/model, serial, switches, grille, accessories.
+- **Title words:** brand + model + generation ("Rode NT2 original", "NT2-A", "AKG C414 EB") + "large diaphragm condenser microphone" + "with shock mount/case/PSU"; Junk: "studio mic", "recording microphone", "podcast mic". Example: `Rode NT2 Original Large Diaphragm Condenser Microphone w/ Shock Mount Tested`.
+- **Where:** Reverb first (main market, ~8% with processing), eBay second; tube mics only with the power supply. No local market worth the discount.
+- **Price position:** at the sold median (NT2 original $170; C414 EB $200 median, p75 $900; U87 by serial), accept −10%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the mic in its mount, logo facing; then model engraving, serial, pattern/pad switches, grille (dents), XLR pins, case/PSU/cable/box, a screenshot or clip of a test recording with phantom power.
+- **State:** model, generation, serial, tested with phantom power (attach sample), pattern/pad/roll-off switches work, included mount/case/PSU/cable, cosmetic condition, flaws by photo number.
+- **Pack / haul:** 1–2 lb in its case with foam, single sturdy box with fill around the case; protect the capsule from shock; $12–18.
+- **Quote to a buyer:** "[Rode NT2] [original Australian run] — new a [NT2-A] is [$X]; this one's tested on phantom power with a clean sample and the original mount, no capsule noise."
 
 ## Buy rule
 Buy when: AKG C414 under $200, AT4050/KSM44 under $150, Neumann TLM under $300, Rode NTK/K2 with PSU under $120. Pass when: Decent-tier mics over $60 (Rode NT1-A/NT2/NT2-A, AT2035), USB mics at any price. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

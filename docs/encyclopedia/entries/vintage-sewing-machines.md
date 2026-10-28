@@ -1,5 +1,5 @@
 # Vintage sewing machines (Singer, Kenmore/Sears, Montgomery Ward/Signature, White, Necchi, Pfaff, Bernina, Elna, Viking Husqvarna, National, Free, New Home)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("vintage sewing machines" median $12.68 n=49 — parts/accessories; "Montgomery Ward model 30 sewing machine" median $34.99 n=4: $24.99 May 23 2026, $55 Aug 12 2026, $34.99 Oct 8 2026 (parts), $65 Sep 26 2026); ISMACS (International Sewing Machine Collectors' Society) http://www.ismacs.net (general reference); Singer serial-number tables (general knowledge, verify). No web search this run. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("vintage sewing machines" median $12.68 n=49 — parts/accessories; "Montgomery Ward model 30 sewing machine" median $34.99 n=4: $24.99 May 23 2026, $55 Aug 12 2026, $34.99 Oct 8 2026 (parts), $65 Sep 26 2026); ISMACS (International Sewing Machine Collectors' Society) http://www.ismacs.net (general reference); Singer serial-number tables (general knowledge, verify). No web search this run. · tells 2026-10-13
 Slug: vintage-sewing-machines · Aliases: antique sewing machine, Singer Featherweight, Singer 221, Singer 301, portable sewing machine, treadle sewing machine, Montgomery Ward sewing machine, Kenmore sewing machine
 Summary: Common portables (Ward, Kenmore, Brother, Japanese clones) $25–80; Singer 15/66/99/201 $50–200; Singer 301 $150–350; Singer Featherweight 221/222 $250–600 (222 $800–1,500); Bernina 530/830 and Elna Supermatic $150–400.
 Buy rule (short): Only Singer Featherweight 221/222 (black, tiny, ~11 lb) or Singer 301 at ≤ $150 that the seller shows sewing; everything else is too heavy for its value.
@@ -59,7 +59,13 @@ A Featherweight in a closet labelled "old Singer"; the 222K free-arm; Singer 301
 Featherweight in case ~13 lb boxed, $25–40. Full-size machines 25–40 lb, $40–70, frequent cracked castings in transit — double-box, remove from case.
 
 ## Selling it (for the buyer-facing listing)
-Serial number and decade, stitch sample photo, note rewiring, accessories included, case condition.
+- **Title words:** maker + model (Singer 301, Bernina 830, Elna Supermatic, Kenmore 158) + year/decade + "sewing machine" + "serviced"/"sews" + "with case/cams/pedal". Junk: "old sewing machine", "antique Singer" on a 1950s machine, "untested". Example: `Singer 301A Slant Needle Sewing Machine 1955 Tan Serviced Sews Case Pedal`.
+- **Where:** eBay BIN with offers for Featherweights, 301s, Bernina/Elna (sell fast to quilters); everything common and heavy (Ward, Kenmore, 15/66/201 heads) FB local pickup, since $40–70 shipping exceeds the price.
+- **Price position:** list at the sold median (Ward Model 30 $25–65, Singer 15/66/99/201 $50–200, 301 $150–350, Bernina 530/830 and Elna Supermatic $150–400, 221 $250–600, 222K $800+); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) machine three-quarter with decals facing camera; then serial plate, decals close-up, bobbin area, motor and wiring, pedal, case inside and out, cams/attachments/manual, a stitch sample on fabric; video sewing a seam.
+- **State:** model, serial and decade, tested sewing (stitch sample photo), rewired or original wiring, motor/pedal condition, accessories and cams included, case condition, decal wear, flaws by photo number.
+- **Pack / haul:** Featherweight in case ~13 lb, blocked so it cannot shift, double-boxed, $25–40; full-size 25–40 lb, removed from the case and double-boxed, $40–70 (castings crack), so local in a trunk.
+- **Quote to a buyer:** "A [1955 Singer 301A / Elna Supermatic], serial [X], serviced and sewing in the video with [case, pedal, cams] — the Ward and Kenmore portables are the $40 machines; serviced [model] examples sell for [$X]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). Full-size machines fail on shipping alone. Featherweight 221 at ≤ $150 with seller video sewing: resale ~$400 × 0.87 = $348 − $35 − $35 − $150 = $128 → buy. No untested electronics: require proof it sews.

@@ -1,5 +1,5 @@
 # Mustache mugs and cups (Victorian moustache cups; German, Austrian, English and American makers; RS Prussia, Limoges, ironstone, majolica)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Moustache cup" https://en.wikipedia.org/wiki/Moustache_cup ; project comps file /home/claude/game-platform/db/comps.jsonl (no mustache-cup sold data on file).
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Moustache cup" https://en.wikipedia.org/wiki/Moustache_cup ; project comps file /home/claude/game-platform/db/comps.jsonl (no mustache-cup sold data on file).
 Slug: mustache-mugs · Aliases: moustache cup, mustache cup, mustache mug, mustache guard cup, shaving mug (often confused), Victorian cup with ledge, "left-handed mustache cup"
 Summary: Plain/transfer souvenir and later 1900s cups $15–35; hand-painted German/Austrian porcelain with gilt and cup-and-saucer sets $30–80; majolica, RS Prussia, Limoges, sterling and left-handed cups $75–300+.
 Buy rule (short): Buy only left-handed cups, majolica, sterling/silverplate quadruple-plate, or RS Prussia-marked cups with saucer at ≤ 25% of resale; pass on plain or souvenir porcelain.
@@ -49,7 +49,13 @@ Left-handed guards; silver-plate cups listed as "old metal cup"; RS Prussia moul
 0.5–1 lb; protect the guard, double box, $9–12.
 
 ## Selling it (for the buyer-facing listing)
-Top-down photo of the guard, mark photo, left/right-handed, gilt wear, chips, saucer included.
+- **Title words:** "mustache cup" + maker (RS Prussia, Limoges, majolica, quadruple plate) + "left handed" if so + "with saucer" + "Victorian" / "antique". Junk: "moustache mug", "shaving mug", "old cup". Example: `Antique RS Prussia Mustache Cup & Saucer Hand Painted Gilt Victorian Left Handed`.
+- **Where:** eBay BIN with offers (small collector market, sells slowly at moderate prices — auctions end at $15); FB local only for lots. Nothing sells it for more than eBay.
+- **Price position:** list at the sold median for the tier (plain Victorian $15–40, hand-painted with saucer $35–90, majolica/plate/RS Prussia $75–250, left-handed $150+); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) top-down into the cup showing the guard; then mark on the base, side with gilt lettering, saucer front/back, guard edge and rim close-up for chips, hand holding it for scale.
+- **State:** maker/mark (or "unmarked, impressed numbers"), left- or right-handed guard, saucer included or not, height and rim diameter, hand-painted vs transfer, gilt wear, chips/hairlines/guard repairs by photo number.
+- **Pack / haul:** 0.5–1 lb; wrap the guard separately, double-box in a 6×6×6 inside an 8×8×8, under-2-lb class, $9–12.
+- **Quote to a buyer:** "This is a [maker], c. [1880–1910] Victorian moustache cup with the original [saucer]; [left-handed] guards are the scarce version and clean [majolica/silver-plate] examples sell for [$X] — this one has no chips or repairs."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$10 ship to buyer − ~$10 ship to Dylan − price ≥ max($50, price). Need resale ≥ $105 at ≤ $20. Only premium tier.

@@ -1,5 +1,5 @@
 # Pocket-knife lots (Case XX, Buck, Boker, Schrade, Camillus, Remington, Randall, Marttiini, Imperial, Colonial)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2024–25; Buck 898 Impact S30V auto retail ~$180 / used $100–130; Case XX tang-stamp dating from Case collector guides; Google Lens run 2026-10-13 (asking-price based) · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2024–25; Buck 898 Impact S30V auto retail ~$180 / used $100–130; Case XX tang-stamp dating from Case collector guides; Google Lens run 2026-10-13 (asking-price based) · tells 2026-10-13
 Slug: pocket-knife-lots · Aliases: vintage pocket knives, Case knife lot, Buck knife, knife collection, folding knife lot, Old Timer knives, electrician's knife
 Summary: Imperial/Colonial/Frontier/imports $5–15; Buck 110/112, Boker stockman, 2000s Case, Schrade Old Timer $25–60; 1940s–60s Case XX bone, early Buck 110s, boxed Uncle Henry, Buck autos $80–200; pre-1940 Case XX stag/bone, Remington bullets, Randalls $300–2,000+.
 Buy rule (short): Buy lots at ≤ $8/knife with visible Case XX bone or Buck 110 pieces, or 1960s–70s Case XX singles ≤ $25; pass sellers pricing named knives at $25+/knife and auto knives.
@@ -58,7 +58,13 @@ Tang stamps (dots/dating) on Case; first-variation Buck 110s (no brass bolster r
 Light – $8–12 per knife. Automatic knives (Buck 898) can't ship to several states; sell locally or via dealers.
 
 ## Selling it (for the buyer-facing listing)
-State maker, pattern/model number, tang stamp (photo) and dating, handle material, blade condition (original edge or sharpened), walk-and-talk, closed length, box/papers. Photograph each blade open, tang stamps, both handle sides, shield. Title keywords: "Vintage Case XX USA 1965-69 Jigged Bone Trapper 6254", "Buck 110 First Variation".
+- **Title words:** maker, pattern/model number (Case 6254 Trapper, Buck 110), tang stamp dating ("Case XX USA 1965-69"), handle (jigged bone/stag), "USA", "first variation" where true; lots: "lot of N" with the named pieces first. Junk: "antique knives", "collection", "rare", "Damascus" imports. `Vintage Case XX USA 1965-69 Jigged Bone Trapper 6254 Pocket Knife`
+- **Where:** eBay BIN with offers for named singles (Case, Buck, Schrade, Remington); mixed lots on eBay to resellers; automatics local or via dealers (shipping restricted).
+- **Price position:** Buck 110/Boker/Schrade USA at the sold median ($25–60), OBO; 1940s–60s Case XX bone and Buck 110 first variation at $80–200 median, accept −10%; import lots $5–15 each lotted. Cut 10% at 30 days; Father's Day and Christmas lift.
+- **Photos:** first: knife closed, both handle sides; then each blade open, tang stamp close-up both sides, shield, bolsters, blade edge profile (sharpened down or not), spine for play, box/papers.
+- **State:** maker, pattern number, tang stamp verbatim and dating, handle material, blade condition (original edge vs sharpened), walk-and-talk/blade play, closed length, cracks in bone, box/papers.
+- **Pack / haul:** light, padded box, $8–12 per knife; automatics not shippable to several states.
+- **Quote to a buyer:** "[Case XX USA] stamp, so [1965–69], [jigged bone] with the original edge and snappy walk-and-talk — the 2000s Case reissues go for $45; the pre-1970 bone-handled ones are the $80–200 knives."
 
 ## Buy rule
 Buy when: lot ≤ $8/knife with visible Case XX bone or Buck 110 pieces, or Case XX 1960s–70s singles ≤ $25. Pass when: seller names Case/Buck and prices at $25+/knife; auto knives (shipping rules). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).

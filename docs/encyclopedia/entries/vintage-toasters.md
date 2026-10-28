@@ -1,5 +1,5 @@
 # Vintage chrome toasters (Sunbeam Radiant Control, Toastmaster, GE, Universal, Manning-Bowman, flip-side 1920s–30s)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay Sunbeam toaster category 2026-10 (T-9 1939 "tested working" $130 ask; AT-W Radiant Control $120 ask; T-20B listings $150–300 restored), gigazine.net "1949 toaster still the best" (Sunbeam T-20 cult), appraisily antique toaster value guide, sweep listing (NJ antique dealer, 6 toasters at $35 each). · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay Sunbeam toaster category 2026-10 (T-9 1939 "tested working" $130 ask; AT-W Radiant Control $120 ask; T-20B listings $150–300 restored), gigazine.net "1949 toaster still the best" (Sunbeam T-20 cult), appraisily antique toaster value guide, sweep listing (NJ antique dealer, 6 toasters at $35 each). · tells 2026-10-13
 Slug: vintage-toasters · Aliases: vintage toaster, chrome toaster, mid century toaster, Sunbeam Radiant Control, automatic toaster, art deco toaster, flip-side toaster
 Summary: 1960s–80s lever toasters $10–30; deco Toastmaster/GE, Sunbeam T-9, 1920s flip-sides $40–90; Sunbeam T-20/T-35/AT-W working $100–200 (restored $200–300); rare deco and NOS T-20 $200–500.
 Buy rule (short): Buy Sunbeam Radiant Control (no lever) under $40, deco Toastmaster/GE under $20; pass lever toasters over $20 and untested $35+ lots.
@@ -72,9 +72,13 @@ always work or need a $0 element clean). Also the model plate underneath – sel
 4–6 lb, $15–22 each way. eBay (13%). Test before listing; "works, lowers automatically" doubles the price.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model (bottom plate photo), year, tested status (video of auto-lower if Sunbeam), chrome and bakelite
-condition, cord condition. Title: maker, model, year, "Radiant Control", "auto-lower", "tested working", "chrome",
-"mid century".
+- **Title words:** maker + model (Sunbeam T-20, Toastmaster 1B14) + year + "Radiant Control"/"auto-lower" + "chrome" + "mid century"/"art deco" + "tested working". Junk: "old toaster", "retro kitchen", "untested" in title. Example: `Sunbeam T-20B Radiant Control Toaster 1950s Chrome Auto Lower Tested Working`.
+- **Where:** eBay BIN with offers (mid-century kitchen collectors and users; working Radiant Controls sell steadily); Etsy at the same price for deco display pieces; common lever toasters FB local.
+- **Price position:** list at the sold median (deco Toastmaster/GE/T-9/flip-sides $40–90, Sunbeam T-20/T-35/AT-W working $100–200, hobbyist-restored $200–300); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) toaster in profile, chrome polished; then model plate underneath, both sides, crumb tray, cord and plug, bakelite handles/feet for chips, interior elements; video of bread lowering itself and popping up for a Sunbeam.
+- **State:** maker, model from the bottom plate, year, tested (auto-lower works, toasts evenly), chrome and bakelite condition, cord original or replaced, cleaned, flaws by photo number.
+- **Pack / haul:** 4–6 lb; cord coiled inside, crumb tray taped, bubble, single box with 2" foam, 6-lb class, $15–22.
+- **Quote to a buyer:** "A [Sunbeam T-20B], model plate in photo [2], lowering the bread on its own in the video — the lever toasters are the $15 ones; working Radiant Controls sell for [$X] and restored ones $200–300."
 
 ## Buy rule
 Buy when: Sunbeam Radiant Control (no lever) under $40; deco Toastmaster/GE under $20. Pass when: any lever toaster over

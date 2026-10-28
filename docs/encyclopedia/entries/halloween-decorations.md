@@ -1,5 +1,5 @@
 # Halloween decorations (Beistle, Dennison, German paper/papier-mache, Union Products & Empire blow molds, Don Featherstone, Paper Magic Group, Bethany Lowe, Gemmy, Department 56)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Beistle company history https://www.beistle.com/ ; Mark Ledenbach, "Vintage Halloween Collectibles" (Krause) price guide; Empire/General Foam blow-mold history from collector sites) — prices are estimates (general knowledge, verify) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (references: Beistle company history https://www.beistle.com/ ; Mark Ledenbach, "Vintage Halloween Collectibles" (Krause) price guide; Empire/General Foam blow-mold history from collector sites) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: halloween-decorations · Aliases: vintage Halloween, blow mold pumpkin, jack-o-lantern, JOL, Beistle die-cut, papier mache pumpkin, German Halloween, candy container, Halloween noisemaker, Halloween lantern, ceramic pumpkin
 Summary: Modern party goods/foam pumpkins $2–20; 1960s–90s blow molds $20–80 (rare ones $100–250); 1930s–50s Beistle/Dennison die-cuts $20–150; US pulp/papier-mâché JOLs 1940s–50s $60–300; German pre-WWII papier-mâché/composition JOL lanterns, candy containers and figures $150–2,000+.
 Buy rule (short): Hunt pre-1960 paper and papier-mâché (German or US), stamped "Germany" items, and Beistle die-cuts; pass on foam/plastic newer than the 1970s unless it's a known rare blow mold under $20.
@@ -73,7 +73,13 @@ Old "Germany" papier-mâché pieces in grandma's box of decorations; Beistle die
 Light but fragile (paper and pulp crush). Box in box with soft fill; $10–20.
 
 ## Selling it (for the buyer-facing listing)
-Identify era and maker, note any replaced paper inserts or repaint, show the base and inside, measure height.
+- **Title words:** era + maker + form: "Vintage Beistle die cut", "German papier mache jack o lantern", "Union Products blow mold", "Rosbro hard plastic" + size + "original insert"; Junk: "spooky", "Halloween lot", "creepy decor". Example: `Vintage German Papier Mache Jack O Lantern Original Paper Insert 1930s 5"`.
+- **Where:** eBay BIN with offers, listed August–October 25 (prices drop 30–50% after); modern party goods and common blow molds local on FB. No place beats eBay in season.
+- **Price position:** at the sold median (German JOL $165, p75 $225; Paper Magic lighted JOL $20; blow molds $20–80), accept −15% in season, floor p25; OBO; cut 20% by October 20 rather than hold a year.
+- **Photos:** first photo lit or front-on in daylight; then base and inside (pulp texture, "Germany" stamp), paper insert edges (original vs replaced), any flaking or repaint, back, cord/socket on blow molds, tape for height.
+- **State:** era and maker, material (pulp, papier-mâché, hard plastic, blow mold), height, insert original/replaced, repaint, cracks/flaking by photo number, lights work.
+- **Pack / haul:** light but crushable — box in box with soft fill, no weight on paper/pulp; $10–20.
+- **Quote to a buyer:** "[German]-stamped papier-mâché lantern from the [1930s] with its [original] paper insert — the reissues and Bethany Lowe copies don't have the stamp or this wear; comparable ones sell around [$165]."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$15 ship out − ~$15 ship in − price ≥ max($50, price). Practically: German or US pulp/papier-mâché pieces under $60, and Beistle die-cut lots with marks. Buy before mid-October to sell into the season, otherwise hold 11 months. Fits a passenger seat. No authentication.

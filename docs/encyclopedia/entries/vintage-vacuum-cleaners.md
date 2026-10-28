@@ -1,5 +1,5 @@
 # Vintage vacuum cleaners (Hoover, Electrolux, Kirby, Royal, Eureka, Lewyt, Air-Way, Rexair/Rainbow, Filter Queen, General Electric; non-electric Bissell carpet sweepers)
-Updated: 2026-10-13 · Sources: general knowledge of vacuum collecting (Hoover Constellation 1954–1970s "flying saucer"; Hoover Portable "vacuum in a suitcase" 1960s; Kirby Classic 1960s–70s; Electrolux Model XII/LXI/Super J; Royal Appliance Mfg. Cleveland metal hand vacuums, 1950s–80s; Bissell carpet sweepers). The Vacuum Cleaner Collectors Club exists (US/UK) – not fetched this run. No sold comps in comps.jsonl; prices are estimates (general knowledge, verify).
+Updated: 2026-10-28 · Sources: general knowledge of vacuum collecting (Hoover Constellation 1954–1970s "flying saucer"; Hoover Portable "vacuum in a suitcase" 1960s; Kirby Classic 1960s–70s; Electrolux Model XII/LXI/Super J; Royal Appliance Mfg. Cleveland metal hand vacuums, 1950s–80s; Bissell carpet sweepers). The Vacuum Cleaner Collectors Club exists (US/UK) – not fetched this run. No sold comps in comps.jsonl; prices are estimates (general knowledge, verify).
 Slug: vintage-vacuum-cleaners · Aliases: vacuum, vintage vacuum, Hoover Portable, vacuum in a suitcase, Hoover Constellation, Kirby, Electrolux, Royal hand vac, Royal Prince, carpet sweeper, Bissell sweeper, Filter Queen, Rainbow vacuum
 Summary: untested common vacuums $10–50; working Kirby/Electrolux/Royal $40–150; collectible Hoover Constellation, Portable, Art Deco Electrolux, early 1910s–30s machines, working and complete $80–300; rare early uprights/hand-pumped vacuums and boxed examples $200–800.
 Buy rule (short): Pass almost always – electric, bulky, untested; only consider complete Art Deco/1950s Hoover Constellation or Electrolux shown running in a video at ≤ $30.
@@ -47,7 +47,13 @@ Little – sellers usually over-estimate. Occasionally early 1910s–20s upright
 Bulky: uprights 20–30 lb and oversize, $40–80; Hoover Portable case 15–20 lb, $30–45; hand vacs 5 lb, $15–20.
 
 ## Selling it (for the buyer-facing listing)
-State tested/running (video), cord condition, completeness, attachments, original bag, and that it is sold as a display/collector piece.
+- **Title words:** maker + model (Hoover Constellation, Electrolux LX, Kirby Classic, Hoover Portable) + decade + "vacuum cleaner" + "working"/"runs" + "with attachments"/"complete". Junk: "old vacuum", "antique hoover" on a 1970s machine, "untested". Example: `Vintage Hoover Constellation 1950s Canister Vacuum Cleaner Runs with Attachments Hose`.
+- **Where:** FB local (20–30 lb oversize; small collector niche; slow); eBay BIN with offers only for Constellation, deco Electrolux, Hoover Portable and parts.
+- **Price position:** list at the sold median (untested common $10–50, working Kirby/Electrolux with attachments $40–150, Hoover Portable ~$43, Constellation/deco Electrolux $80–300); accept −15%, floor −25%; OBO; cut 10% after 45 days.
+- **Photos:** 1) machine assembled in profile; then model plate, cord and plug, bag or filter, every attachment laid out, hose ends, inside the case for Portables, any cracks/dents; video of it running and the hover/suction working.
+- **State:** model, tested running (video), cord condition, completeness and attachments listed, original bag, odour, "sold as a display/collector piece" unless rewired, flaws by photo number.
+- **Pack / haul:** uprights 20–30 lb oversize, $40–80; Hoover Portable in its case 15–20 lb, attachments bagged inside, double-boxed, $30–45; hand vacs 5 lb, $15–20; local it fits a back seat or trunk.
+- **Quote to a buyer:** "A [1950s Hoover Constellation / Art Deco Electrolux], running in the video with the hose and [attachments] — the untested Kirbys and Eurekas are the $20 machines; working complete [model] examples sell for [$X]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$30) − ship to Dylan (~$30) − price ≥ max($50, price). Shipping alone makes most fail. Untested electronics are a hard pass under Dylan's rules. Consider only complete Hoover Constellation/Art Deco Electrolux shown running on video, fitting the passenger seat, at ≤ $30. Pass uprights (too big), hand vacs, Portables.

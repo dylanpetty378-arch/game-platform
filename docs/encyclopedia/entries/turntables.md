@@ -1,5 +1,5 @@
 # Turntables (Technics, Pioneer, Dual, Thorens, Garrard, Kenwood, Sansui, Stanton, Audio-Technica, Marantz, Yamaha, Denon)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (eBay sold, WorthPoint, vinylengine.com model database https://www.vinylengine.com/library/ for model identification; Technics SL-1200 history https://www.technics.com/global/ ) — all prices are estimates (general knowledge, verify)
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (eBay sold, WorthPoint, vinylengine.com model database https://www.vinylengine.com/library/ for model identification; Technics SL-1200 history https://www.technics.com/global/ ) — all prices are estimates (general knowledge, verify)
 Slug: turntables · Aliases: record player, phonograph, hi-fi turntable, DJ turntable, direct drive, belt drive, Technics 1200, vintage stereo turntable, deck
 Summary: Plastic suitcase/all-in-one players $10–40; 1970s–80s mid-fi belt/direct drives (Dual CS, Pioneer PL-, Sansui, Kenwood KD-) $60–180; DJ decks (Stanton, Numark, Audio-Technica LP120) $60–180; Technics SL-1200/1210 MK2–MK5 $450–750; high-end vintage (Thorens TD-125/160, Garrard 301/401, Pioneer PL-570/L1000, Technics SP-10, Kenwood KP-9010/L-07D) $300–1,500+.
 Buy rule (short): Only buy a tested (seller demonstrates it plays on video) Technics SL-1200/1210 or a named high-end deck at ≤ 35% of sold median; everything else is too heavy and too fragile to ship for the margin.
@@ -67,7 +67,13 @@ Steady demand all year; vinyl revival keeps working mid-fi decks moving within 1
 Hard to ship: remove platter and mat, lock the tonearm with a twist tie, remove counterweight and cartridge/headshell, screw down transport screws if the deck has them, pack the dust cover separately. Double box. Ship cost $35–60 for 15–25 lb. Transit damage risk is high (tonearm, lid, hinges).
 
 ## Selling it (for the buyer-facing listing)
-State the exact model, that it was tested at 33/45 with audio, speed accuracy (strobe), cartridge and stylus model and condition, lid and hinge condition, and what is included (headshell, counterweight, 45 adapter, manual). Show video of it playing.
+- **Title words:** brand + exact model + drive type (direct/belt) + "turntable" + "tested" + cartridge + "with dust cover". Junk: "record player", "vinyl player", "works" without model. Example: `Technics SL-1200MK2 Direct Drive Turntable Tested 33/45 Ortofon Cartridge Dust Cover`.
+- **Where:** eBay BIN with offers for Technics 1200s, Thorens, Garrard (sell in days); FB local for mid-fi under $150, since shipping is $35–60 and transit risk is high.
+- **Price position:** list at the sold median (SL-1200MK2–MK5 $450–750, Dual CS/Pioneer PL-518 $100–220, Pioneer PL-570/Marantz 6300 $200–450, Thorens TD-160 $250–500); accept −10%, floor −20%; OBO; cut 10% after 21 days.
+- **Photos:** 1) three-quarter with platter and cover; then tonearm and headshell/cartridge, stylus close-up, strobe dots lit at speed, controls, back panel and cables, lid hinges, underside; video of it playing a record at 33 and 45 with audio.
+- **State:** exact model, tested at 33/45 with audio, speed accuracy (strobe), cartridge and stylus model and condition, lid and hinge condition, included headshell, counterweight, 45 adapter, manual, flaws by photo number.
+- **Pack / haul:** 15–25 lb; remove platter, mat, counterweight and headshell, tie the tonearm, tighten transport screws, pack the dust cover separately, double-box, $35–60; local it rides flat on a back seat.
+- **Quote to a buyer:** "[SL-1200MK2 / Thorens TD-160], not the budget [SL-B2] it looks like — tested at both speeds with the strobe locked in the video, [Ortofon] cartridge; working examples sell for [$X] and a new MK7 lists at [$Y]."
 
 ## Buy rule
 Price ≤ $200 and profit = sold median × 0.87 − ~$45 ship to buyer − ~$25–45 ship to Dylan − price ≥ max($50, price). That works out to Technics SL-1200/1210 at ≤ $150–200 tested, or a premium deck. Pass on untested decks, DJ-clones, suitcase players and anything needing a belt or service. Size: fits a passenger seat. Not an authentication item.

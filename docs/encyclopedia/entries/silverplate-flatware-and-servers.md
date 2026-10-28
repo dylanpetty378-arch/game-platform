@@ -1,5 +1,5 @@
 # Silverplate flatware and serving pieces (1847 Rogers Bros, Holmes & Edwards, Community/Oneida, Wm Rogers, Reed & Barton, Gorham plate, Christofle, Wallace, Italian/European ornate servers; 800 silver Continental pieces)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run; prices estimates, verify); Replacements.com pattern pricing (https://www.replacements.com, retail asks, not sold); silver hallmarks reference (https://www.925-1000.com); Continental silver marks incl. Italian "800" and fasces/star-number marks (https://www.silvercollection.it); Terapeak /home/claude/game-platform/db/comps.jsonl "silverplate hollowware" median $23.76 (n=49, p25 $12, p75 $50).
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge (no web search this run; prices estimates, verify); Replacements.com pattern pricing (https://www.replacements.com, retail asks, not sold); silver hallmarks reference (https://www.925-1000.com); Continental silver marks incl. Italian "800" and fasces/star-number marks (https://www.silvercollection.it); Terapeak /home/claude/game-platform/db/comps.jsonl "silverplate hollowware" median $23.76 (n=49, p25 $12, p75 $50).
 Slug: silverplate-flatware-and-servers · Aliases: silver plated flatware, silverware set, serving spoon, pastry server, cake server, petit four tongs, sugar tongs, asparagus tongs, pie server, ornate server, EPNS, 800 silver, Italian silver, Christofle, 1847 Rogers
 Summary: Mixed/odd silverplate pieces $3–15 each; plated serving pieces and figural/ornate servers $15–60; complete chest sets and Christofle/Victorian figural pieces $60–300; 800/sterling Continental servers $60–250 (weight-driven floor).
 Buy rule (short): Buy only pieces you can prove are sterling/800 (mark photo) under melt + $20, or Victorian figural plate under $15; pass on generic plated servers over $10.
@@ -62,7 +62,13 @@ Sterling/800 pieces titled "silver plated"; Christofle marks; Victorian figural 
 Light, flat: padded envelope or small box $5–8.
 
 ## Selling it (for the buyer-facing listing)
-Photograph the mark close-up, give length and weight, state plated vs. sterling, note wear-through spots, mention pattern name if known.
+- **Title words:** maker (1847 Rogers Bros, Oneida Community, Christofle, WMF), pattern name, piece type (cake server, tongs, serving spoon), "silverplate", set count, length. Junk: "sterling" unless marked, "antique", "rare". `1847 Rogers Bros Charter Oak Silverplate Serving Spoon 8.5 in Antique Pattern`
+- **Where:** eBay BIN with offers; replacement-pattern buyers are only on eBay, so no better venue; complete chest sets sell faster on FB local.
+- **Price position:** singles at the sold median ($8–30 servers), set and Christofle pieces at $40–150; OBO, accept −20%, floor $8 plus shipping; 800/sterling at weight floor, firm; cut after 45 days.
+- **Photos:** piece straight-on; mark close-up; pattern detail on the handle; back of bowl/tines showing any wear-through; set laid out with count visible; ruler for length.
+- **State:** maker, pattern name if known, plated vs sterling (say which mark), length, weight, piece count, wear-through spots, monograms, flaws by photo number.
+- **Pack / haul:** light and flat, padded envelope or small box $5–8; chest sets 5–15 lb in a double box $15–30.
+- **Quote to a buyer:** "This is [1847 Rogers Bros] [Charter Oak] in silverplate, an active replacement pattern; matching pieces sell for $[15–30] each, and this one has no wear-through."
 
 ## Buy rule
 Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). Plated servers selling $20–45 cannot clear it at any price. Buy only marked 800/sterling at ≤ melt + $20 when resale ≥ $90, or Victorian figural pieces ≤ $15 with ≥ $90 comps. Ask seller for mark photo first.

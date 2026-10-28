@@ -1,5 +1,5 @@
 # Tin lithograph plates and trays (Ohio Art, J. Chein, Elite/Daher, Worcester Ware, Cheinco, Bristolware, advertising "tip trays")
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Ohio Art Company" https://en.wikipedia.org/wiki/Ohio_Art_Company ; Wikipedia "Tin toy" (lithographed tin) https://en.wikipedia.org/wiki/Tin_toy ; project comps file /home/claude/game-platform/db/comps.jsonl (no tin-plate sold data on file).
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Ohio Art Company" https://en.wikipedia.org/wiki/Ohio_Art_Company ; Wikipedia "Tin toy" (lithographed tin) https://en.wikipedia.org/wiki/Tin_toy ; project comps file /home/claude/game-platform/db/comps.jsonl (no tin-plate sold data on file).
 Slug: tin-litho-plates · Aliases: tin plate, metal plate, tin litho plate, decorative tin plate, Ohio Art plate, collector plate metal, tip tray, serving tray tin, Elite tray, Daher tray, "metal plates with a story"
 Summary: 1960s–80s decorative tin plates and trays $3–15; graphic mid-century trays $15–40; pre-1930 advertising tip trays and beer/soda trays $40–400+.
 Buy rule (short): Pass on all decorative 1960s–80s art-print tin plates; only buy pre-1930 advertising tip trays or serving trays (brand name lithographed in the design, US maker credit on the rim) at ≤ 25% of sold value.
@@ -47,7 +47,13 @@ Sellers overvalue art-print plates ("1700s painting!"). The opportunity is the r
 Light (0.5–1 lb), flat; ship in a rigid mailer with cardboard, $6–10. Trays 12 in: $10–14.
 
 ## Selling it (for the buyer-facing listing)
-Give maker, date on back, diameter, and the painting reproduced (e.g. "after Sir Thomas Lawrence"). For advertising trays photograph the rim credit, give honest grade, mention any rust spots.
+- **Title words:** advertising trays: brand + "tip tray"/"serving tray" + maker credit (American Art Works, Shonk) + date + size; decorative: "Ohio Art" + date + "tin litho plate" + subject ("after Lawrence"); Junk: "1700s painting", "antique art", "metal plate". Example: `1910s Coca-Cola Tip Tray Tin Litho American Art Works 6" Original Rim Credit`.
+- **Where:** eBay BIN with offers for advertising trays (breweriana/Coca-Cola collectors); Ohio Art decorative plates only in lots of 4–10 ($15–30) or local. No place beats eBay.
+- **Price position:** at the sold median (Ohio Art plates $15, p75 $20 — lot them; 1930s–50s advertising trays $25–100; pre-1915 tip trays $75–300 condition-graded), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the face straight-on in even light; then rim credit/maker line, back with date, every scratch through the litho, rust bloom, dents at an angle, a UV shot for inpainting on rare trays, ruler for diameter.
+- **State:** maker, date on back, diameter, subject/painting reproduced, honest grade (1–10 for advertising trays), scratches/rust/dents by photo number, reproduction check (rim mark, gauge).
+- **Pack / haul:** 0.5–1 lb, flat; rigid mailer with cardboard both sides, trays 12" in a flat box; $6–10 (trays $10–14).
+- **Quote to a buyer:** "[1910s] [Coca-Cola] tip tray with the [American Art Works] rim credit — the period lithograph, not the 1970s reproduction; graded honestly at [7/10] with [one rim scratch, photo 3]."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$10 ship to buyer − ~$10 ship to Dylan − price ≥ max($50, price). A decorative plate can never reach this. Only buy advertising trays with a pre-1930 maker credit and resale ≥ $120 at ≤ $30. Pass on high-value Coca-Cola/beer tray claims that need grading/authentication.

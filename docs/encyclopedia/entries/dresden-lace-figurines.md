@@ -1,5 +1,5 @@
 # Dresden lace figurines (Volkstedt / Unterweissbach / Sitzendorf / Ackermann & Fritze / Muller / Irish Dresden / Japanese copies)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); maker-mark background as published by collector sites such as https://www.porcelainmarksandmore.com/ (verify marks there); no Terapeak data in db/comps.jsonl for this type
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); maker-mark background as published by collector sites such as https://www.porcelainmarksandmore.com/ (verify marks there); no Terapeak data in db/comps.jsonl for this type
 Slug: dresden-lace-figurines · Aliases: Dresden lace lady, lace porcelain figurine, crinoline lady, German lace doll figurine, Irish Dresden, Volkstedt lace, Unterweissbach ballerina
 Summary: Japanese/unmarked copies $5–20; common post-war German small ladies $20–60; good German dancers/couples/groups $60–200; large/early Volkstedt-Rudolstadt groups and pre-war pieces $200–600+ (general knowledge, verify)
 Buy rule (short): Only buy perfect-lace, marked German pieces ≥6" or multi-figure groups at ≤ $40; never singles under 5" with lace chips.
@@ -49,7 +49,13 @@ The mark under the base (blue crown "U" Unterweissbach or Volkstedt marks) and t
 Double-box, figurine wrapped in tissue then foam, nothing pressing on lace; ~2-3 lb packed, $12-18. Transit lace breakage is the main risk.
 
 ## Selling it (for the buyer-facing listing)
-State maker/mark, height, era, and show close-ups of every ruffle and the fingers; disclose every lace chip. Do not call it Meissen.
+- **Title words:** "Dresden lace figurine", maker from the mark (Volkstedt/Unterweissbach/Ackermann & Fritze/Irish Dresden), subject (ballerina/couple/group), height, "Germany", "perfect lace". Junk: "Meissen", "antique" on 1970s, "rare", "Dresden" on Japanese copies. `Volkstedt Dresden Lace Dancing Couple Figurine Group 8" Germany Blue Crown Mark`
+- **Where:** eBay BIN with offers (lady median $40, Volkstedt groups $200); chipped and unmarked pieces local or not at all.
+- **Price position:** small single ladies at the sold median ($40), OBO, cut 15% at 45 days; groups and 6"+ perfect-lace at the sold median ($200), accept −15%, firm 3 weeks; chipped lace at 20–50%.
+- **Photos:** first: figure front; then underglaze mark on the base, every ruffle edge and the hem close-up, fingers, flower petals, fan/parasol tips, UV shot for resin-rebuilt lace, ruler.
+- **State:** maker/mark wording, height, era (GDR/pre-war/post-war), every lace chip by photo number, fingers and petals intact, UV-checked for restoration; never call it Meissen.
+- **Pack / haul:** tissue then foam, nothing pressing on the lace, double box, 2–3 lb, $12–18.
+- **Quote to a buyer:** "[Unterweissbach] crowned-U mark, [8"] [couple], every ruffle intact — perfect lace is the rare part; chipped singles go for $25 and the clean marked groups are the $200 pieces."
 
 ## Buy rule
 Buy only if marked German (or Irish Dresden), ≥6" or multi-figure, lace essentially perfect in photos, and price ≤ $40 so that resale ~$120+ clears profit ≥ $50 after $15 + $15 shipping. Small single ladies under $60 resale cannot meet the rule at any price. No restoration jobs.

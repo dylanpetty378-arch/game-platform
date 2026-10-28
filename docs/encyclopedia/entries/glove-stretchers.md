@@ -1,5 +1,5 @@
 # Glove Stretchers (wooden, bone, celluloid, ivory, sterling; Whiting, Gorham, Unger Bros.; Victorian vanity tools)
-Updated: 2026-10-13 · deepened 2026-10-14 · Sources: general knowledge (no web search on the first run); no Terapeak rows in db/comps.jsonl (one Terapeak line below); Wikipedia, Glove stretcher https://en.wikipedia.org/wiki/Glove_stretcher ; 1stDibs, Whiting repoussé sterling glove stretcher https://www.1stdibs.com/jewelry/objets-dart-vertu/vanity-items/antique-whiting-repousse-sterling-silver-glove-stretcher/id-j_12807662 ; Spencer Marks, Whiting sterling glove stretcher attributed to Charles Osborne https://www.spencermarks.com/products/whiting-antique-sterling-silver-glove-stretchers-design-attributed-to-charles-osborne-nyc-ny-c-1880s-1 ; MoDiP, ivory-coloured (plastic) glove stretcher https://www.modip.ac.uk/artefact/aibdc-008707 ; Stark Cultural Venues collection https://collections.starkculturalvenues.org/objects/44530/glove-stretcher
+Updated: 2026-10-28 · deepened 2026-10-14 · Sources: general knowledge (no web search on the first run); no Terapeak rows in db/comps.jsonl (one Terapeak line below); Wikipedia, Glove stretcher https://en.wikipedia.org/wiki/Glove_stretcher ; 1stDibs, Whiting repoussé sterling glove stretcher https://www.1stdibs.com/jewelry/objets-dart-vertu/vanity-items/antique-whiting-repousse-sterling-silver-glove-stretcher/id-j_12807662 ; Spencer Marks, Whiting sterling glove stretcher attributed to Charles Osborne https://www.spencermarks.com/products/whiting-antique-sterling-silver-glove-stretchers-design-attributed-to-charles-osborne-nyc-ny-c-1880s-1 ; MoDiP, ivory-coloured (plastic) glove stretcher https://www.modip.ac.uk/artefact/aibdc-008707 ; Stark Cultural Venues collection https://collections.starkculturalvenues.org/objects/44530/glove-stretcher
 Slug: glove-stretchers · Aliases: glove stretcher, glove expander, glove tongs, glove former, Victorian glove stretcher, glove opener, glove widener
 Summary: plain wood $10–25; carved/turned exotic wood, bone or celluloid $25–60; sterling-handled or vanity-set pieces $50–150 (Terapeak "sterling glove stretcher" median $35); fully sterling named-maker (Whiting) $1,000+ dealer asks; ivory (legal restrictions) avoid (general knowledge, verify)
 Buy rule (short): Pass plain wooden ones; buy sterling (hallmark visible, especially Whiting/Gorham) under ~$25; avoid ivory.
@@ -77,12 +77,13 @@ Sterling handles under tarnish; maker marks (Whiting, Gorham, Unger) inside the 
 Small flat box, $6–9.
 
 ## Selling it (for the buyer-facing listing)
-Length, material, marks, mechanism function. For sterling, weight in grams/troy oz.
-
-### What to tell the buyer
-"Victorian glove stretcher, __ in long, used to open the fingers of kid-leather gloves before wearing. __ (sterling repoussé /
-turned wood) handles, marked '__' inside the handle (photographed). Pivot/spring works smoothly; __ (no dents / minor high-point
-wear); weight __ g."
+- **Title words:** "Victorian glove stretcher" + material ("sterling", "ebony", "bone", "celluloid") + maker (Whiting, Gorham, Unger) + length + "vanity"; Junk: "antique tongs", "weird old tool", "ivory" (avoid). Example: `Antique Sterling Silver Repousse Glove Stretcher Whiting Victorian Vanity 8.5"`.
+- **Where:** eBay BIN with offers (niche, 30–90 days); Etsy for wood/celluloid vanity-set pieces. Neither beats the other by much.
+- **Price position:** at the sold median (sterling median $35, p75 $50; wood $10–25; ebony/bone/celluloid $25–60), accept −15%, floor p25 ($23 sterling); OBO; cut 10% at 45 days.
+- **Photos:** first photo full length on dark cloth; then maker/STERLING mark inside the handle (macro), patent date, pivot/spring, repoussé detail, any dents or thin spots, a ruler for length, scale showing grams.
+- **State:** length, material, marks exactly as struck, mechanism opens/springs smoothly, dents/bends/solder repairs by photo number, weight in grams and troy oz for sterling, monogram present or removed.
+- **Pack / haul:** under 1 lb, small flat box with bubble; $6–9.
+- **Quote to a buyer:** "Victorian glove stretcher, [8.5] in, [sterling repoussé] handles marked ['Whiting / Sterling'] inside — the one tool from a dresser set collectors still hunt for; pivot works, [no dents], [93] g."
 
 ## Buy rule
 Profit ≥ max($50, price): wooden ones fail; sterling at ≤ $25 marginal unless a named maker (Whiting/Gorham/Unger). Fits pocket/shoebox.

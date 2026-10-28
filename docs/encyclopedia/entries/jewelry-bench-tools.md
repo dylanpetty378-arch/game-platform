@@ -1,5 +1,5 @@
 # Jewelry bench tools (rolling mills, disc cutters, arbor presses, flex shafts; Durston, Pepe, Cavallin, Foredom)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Ganoksin forum threads on rolling mills, benchpeg classifieds, Otto Frei pricing, eBay sold memory 2025; remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Ganoksin forum threads on rolling mills, benchpeg classifieds, Otto Frei pricing, eBay sold memory 2025; remaining detail general knowledge, verify
 Slug: jewelry-bench-tools · Aliases: jewelry equipment, metalsmith tools, silversmith tools, rolling mill, jewelers mill, disc cutter, dapping set, arbor press, flex shaft, Foredom, bench pin
 Summary: import mini mills/no-name disc cutters/arbor presses $40–120; Pepe disc cutter/Foredom/Cavallin small mill $100–300; Durston C80/C100/DRM mills $500–1,500; Durston power mills/Bonny Doon press $1,500–5,000
 Buy rule (short): Durston/Pepe/Cavallin visible and ≤ 35% of retail; pass unbranded imports
@@ -49,7 +49,13 @@ Brand on the mill frame. "Jewelry equipment $1 – quality tools" lots sometimes
 Mills 20–60 lb cast iron – $40–90 freight-ish; arbor press 15 lb. eBay 13%. Bolt mills to a pallet/board in the box; protect rollers from moisture (oil + wrap).
 
 ## Selling it (for the buyer-facing listing)
-State brand, model, roller width, flat/wire/combination, roller surface condition, gearing, weight. Photograph maker plate, rollers closeup, gears, any rust. For Foredom: motor model, handpiece type, running video. Title keywords: "Durston C100 rolling mill", "combination", "Pepe disc cutter", "Foredom SR".
+- **Title words:** brand + model (Durston C100, Foredom SR, Pepe), tool type (rolling mill/disc cutter/flex shaft), roller width, "combination"/"flat and wire", handpiece number, "jewelry metalsmith". Junk: "jewelry making stuff", "craft tools", "heavy duty" on imports. `Durston C100 Combination Rolling Mill 100mm Flat Wire Jewelry Metalsmith`
+- **Where:** eBay BIN with offers for Durston/Foredom/Pepe (median $600 Durston); benchpeg/Ganoksin classifieds and FB metalsmith groups fee-free; mills over 30 lb sell best local.
+- **Price position:** Durston at 60–70% of retail / sold median $600, accept −10%, firm for 30 days then −10%; Foredom/Pepe at the sold median ($100–300), OBO; imports $40–120 local, OBO.
+- **Photos:** first: tool front with maker plate visible; then rollers close-up (surface, pitting), gears, side plate, handle, any rust, handpiece; video of the mill turning or the Foredom running.
+- **State:** brand, model, roller width, flat/wire/combination, roller surface condition, gearing, weight, included handpieces/pedal, tested running or untested, flaws by photo number.
+- **Pack / haul:** mills 20–60 lb, bolt to a board in the box, oil and wrap rollers, $40–90; arbor press 15 lb; flex shafts 5 lb.
+- **Quote to a buyer:** "[Durston C100] with clean unpitted rollers — $[retail] new at Otto Frei; the import mini mills mark every sheet, which is why Durston holds 60–70% of retail used."
 
 ## Buy rule
 Buy when: Durston/Pepe/Cavallin visible and price ≤ 35% of retail. Pass when: unbranded green/black import (resale $80–120 minus shipping = nothing). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

@@ -1,5 +1,5 @@
 # Steuben glass (post-1933 colourless crystal and Carder-era colour, Corning NY)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: agent knowledge of eBay/LiveAuctioneers sold bands (verify); run12 sheet 60
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: agent knowledge of eBay/LiveAuctioneers sold bands (verify); run12 sheet 60
 Slug: steuben-glass · Aliases: Steuben crystal, Steuben vase, Steuben hand cooler, Steuben animal, Aurene, Carder Steuben
 Summary: unsigned/small $20–50; signed vases, dishes and small bowls $60–150; large bowls, spiral vases and animals $150–600; Carder Aurene, engraved and sculptural pieces $600–5,000.
 Buy rule (short): Signed Carder colour under $100 or animals under $40; pass colourless vases and bowls at $75+.
@@ -57,9 +57,13 @@ Colourless Steuben is plentiful because it was a corporate and wedding gift stap
 - Heavy for its size (2–5 lb) and fragile: $15–25 each way, double-boxed.
 
 ## Selling it (for the buyer-facing listing)
-- Signature and its style, height and diameter, designer and model if known (Steuben catalogues), chip-free rim and foot, original red Steuben box/bag.
-- Photograph the signature, the rim, the foot, and the piece against a dark background.
-- Title keywords: "Steuben Crystal Signed", "Steuben Hand Cooler", "Carder Steuben Gold Aurene".
+- **Title words:** "Steuben" + "signed" + form ("hand cooler", "trumpet vase", "spiral bowl", animal name) + size + designer if known + "crystal"; Carder: "Gold Aurene" + shape number; Junk: "crystal figurine", "iridescent glass vase", "clear glass". Example: `Steuben Crystal Signed Apple Hand Cooler Paperweight 3" with Red Box`.
+- **Where:** eBay BIN with offers for signed crystal and animals; Carder Aurene and engraved pieces to LiveAuctioneers/Jeffrey S. Evans. Plain trumpet vases are flat everywhere.
+- **Price position:** at the sold median (6" trumpet vase $75–120; hand cooler $100–180; Aurene 8" vase $600–1,500), accept −15%, floor p25; OBO; cut 10% after 3 weeks (colourless is plentiful).
+- **Photos:** first photo the piece on a dark background; then the signature macro (diamond-point style), rim, foot, interior for scratches/cloudiness, raking light for flea bites, red Steuben box/bag, tape for height.
+- **State:** signature and its style, height and diameter, designer/model if known, rim and foot chip-free (or where), ground rim if suspected, interior condition, box/bag included, flaws by photo number.
+- **Pack / haul:** 2–5 lb, heavy for size; double-box with 2" fill, piece wrapped and floating; $15–25.
+- **Quote to a buyer:** "Signed Steuben [hand cooler] in the original red box — the colourless 10M crystal from Corning, with the real diamond-point signature; retail was [$X] and these hold [$100–180]."
 
 ## Buy rule
 Buy when: signed Carder colour under $100, or animals under $40.

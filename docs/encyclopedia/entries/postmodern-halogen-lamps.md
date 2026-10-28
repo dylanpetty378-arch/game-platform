@@ -1,5 +1,5 @@
 # Postmodern / Memphis-era halogen lamps (Sonneman, Kovacs, Koch & Lowy, Artemide)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: 1stDibs listings for Sonneman/Kovacs "Saturn" lamp (c.1980, three frosted glass rings on two columns, marble base, halogen, 22" h); design-mkt.com; eBay sold knowledge (agent, 2025–26)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: 1stDibs listings for Sonneman/Kovacs "Saturn" lamp (c.1980, three frosted glass rings on two columns, marble base, halogen, 22" h); design-mkt.com; eBay sold knowledge (agent, 2025–26)
 Slug: postmodern-halogen-lamps · Aliases: space-age lamp, 80s modern lamp, UFO lamp, Saturn lamp, Memphis lamp, halogen table lamp, flying saucer lamp
 Summary: Generic 80s halogen $20–50; Koch & Lowy / unmarked Kovacs $80–200; Sonneman/Kovacs Saturn and Sonneman floor lamps $250–500 sold; signed Artemide/Memphis $800–3,000.
 Buy rule (short): Identified Sonneman/Kovacs Saturn ≤ $80, other designer-attributed 1980s halogen ≤ $60, glass unchipped; pass over $120.
@@ -53,7 +53,13 @@ The designer attribution. Also that halogen fixtures can be rewired, so buyers a
 Heavy (marble base 10–15 lb) and glass: $40–60 ground, double-boxed, rings wrapped separately. eBay 13%. High risk of breakage, so ask the seller to ship rings and base in separate boxes.
 
 ## Selling it (for the buyer-facing listing)
-Title: "Robert Sonneman George Kovacs Saturn Halogen Table Lamp 1980s Postmodern Marble". State the height, ring count and diameter, base material, dimmer working, and bulb type. Photograph the label, each ring edge, the base underside, and the lamp lit. Mention that the lamp is shipped double-boxed with the rings packed separately.
+- **Title words:** designer + distributor + model + "halogen" + type + era + base material: "Robert Sonneman George Kovacs Saturn", "Koch & Lowy brass desk lamp", "Artemide". Junk: "80s lamp", "retro", "torchiere". Example: `Robert Sonneman George Kovacs Saturn Halogen Table Lamp 1980s Postmodern Marble`.
+- **Where:** eBay BIN with offers (steady, not fast); Chairish/1stDibs list the same lamp at $900–1,800 asks for top pieces but sell slowly; local pickup option on to avoid freight breakage.
+- **Price position:** list at the sold median (Saturn $250–450, Koch & Lowy $80–200, signed Artemide/Memphis $800+); accept −10%, floor −20%; OBO; cut 10% after 45 days.
+- **Photos:** 1) lamp lit, full height, plain wall; then label under the base, each glass ring edge, base underside, dimmer/switch, bulb socket, marble for cracks; short video of the dimmer sweeping.
+- **State:** designer/maker, model, height, ring count and diameter, base material, dimmer working, bulb type, rewired or original, chips to rings or base cracks by photo number, period vs reissue.
+- **Pack / haul:** 10–18 lb marble base plus glass; rings wrapped separately, base in its own box, double-boxed, 15–20 lb class, $40–60; local it rides upright in a back seat.
+- **Quote to a buyer:** "This is the [Sonneman-for-Kovacs Saturn], label under the base — the unmarked copies are the $100 lamps; sold examples run [$X] and 1stDibs asks $900+ for the same lamp; dimmer works, rings unchipped."
 
 ## Buy rule
 Buy when: an identifiable Sonneman/Kovacs Saturn costs under $80, or any designer-attributed 1980s halogen costs under $60. Pass when: the price is over $120 (shipping and breakage eat the spread) or the glass is chipped. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat. Table lamps do; floor lamps over passenger-seat size are excluded.

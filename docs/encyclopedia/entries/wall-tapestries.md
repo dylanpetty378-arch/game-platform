@@ -1,5 +1,5 @@
 # Wall tapestries (Aubusson and Flemish antique weavings; Belgian/French machine jacquard tapestries; Manual Woodworkers & Weavers; Italian/Turkish velvet wall rugs; 1970s needlepoint/crewel hangings; Hines of Oxford)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($795 floral – a retail/antique mis-match; $56 velvet Middle Eastern scene)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($795 floral – a retail/antique mis-match; $56 velvet Middle Eastern scene)
 Slug: wall-tapestries · Aliases: tapestry, wall hanging, Belgian tapestry, French tapestry, Gobelin, Aubusson, jacquard tapestry, tapestry throw, woven throw, velvet tapestry, Arab traders tapestry, camel caravan wall rug, Mecca tapestry, hunting scene tapestry
 Summary: Machine-woven throws and modern jacquards $15–45; Belgian/French mid-century jacquard wall tapestries with rod pocket and label $30–90; 1960s–70s Italian/Turkish velvet camel-scene wall rugs $20–60; hand-woven Aubusson/Flemish (18th–19th c) fragments and panels $300–10,000+ (needs specialist).
 Buy rule (short): Pass on throws, velvet souvenirs and modern jacquards; buy only labelled Belgian jacquards with figural classical scenes ≤ 4 ft at ≤ $20, and never pay for "Aubusson" claims without visible hand-woven slits and age (specialist territory).
@@ -46,7 +46,13 @@ Mostly they overvalue. The occasional real hand-woven fragment is identifiable b
 Light and foldable; roll on a tube for wall pieces. $8–15. Fits easily.
 
 ## Selling it (for the buyer-facing listing)
-Dimensions, fibre, machine vs hand-woven, label, rod pocket, flaws, smoke-free.
+- **Title words:** origin + type + subject + size: "Belgian jacquard wall tapestry medieval 36x50 rod pocket", "Italian velvet camel scene", "Manual Woodworkers"; Junk: "Aubusson" or "antique French" on a jacquard, "Persian" on velvet, "boho". Example: `Belgian Jacquard Wall Tapestry Medieval Unicorn 36x52 Rod Pocket Made in Belgium`.
+- **Where:** eBay or Etsy BIN with offers (slow décor market; Belgian classical/medieval scenes sell steadily); throws local. Etsy matches eBay for decor buyers. Hand-woven Aubusson/Flemish → specialist.
+- **Price position:** at the sold median (Manual Woodworkers throws $20; Middle Eastern scene $25, p75 $36; Belgian/French jacquards $30–90), accept −15%, floor p25; OBO; cut 10% after 4 weeks.
+- **Photos:** first photo the whole piece hung flat in daylight; then label (origin, fibre), back weave, rod pocket, close-up of the weave (machine vs hand — slits and hatching), any fading, stains, fraying, tape for dimensions.
+- **State:** dimensions, fibre, machine jacquard vs hand-woven stated honestly, label text, rod pocket/lining, fading/moth/stains by photo number, smoke-free.
+- **Pack / haul:** light and foldable; roll wall pieces on a tube, throws folded in a poly mailer; $8–15; carry-on size.
+- **Quote to a buyer:** "Labelled [Made in Belgium] jacquard, [36×52] with the rod pocket, ready to hang — these sell [$30–90] and this one's unfaded with no moth; it's the mill tapestry, not an Aubusson, and priced like one."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$10 to buyer − ~$10 to Dylan − price ≥ max($50, price). Machine pieces never qualify. Hand-woven antiques need a specialist and are outside Dylan's rules unless clearly antique and priced ≤ $40, in which case "ask seller" for back photos.

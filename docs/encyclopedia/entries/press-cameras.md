@@ -1,5 +1,5 @@
 # Press cameras (Graflex Speed Graphic, Crown Graphic, Century Graphic, Miniature Speed Graphic, Super Graphic; Busch Pressman, Burke & James, Linhof Technika, Wista, Mamiya Press, Koni-Omega)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; prices estimates, verify); Graflex.org history and dating guide (https://graflex.org/helpdesk/ and https://www.graflex.org/speed-graphic/); Camera-wiki Speed Graphic page (https://camera-wiki.org/wiki/Speed_Graphic); KEH used camera pricing (https://www.keh.com, dealer retail); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; prices estimates, verify); Graflex.org history and dating guide (https://graflex.org/helpdesk/ and https://www.graflex.org/speed-graphic/); Camera-wiki Speed Graphic page (https://camera-wiki.org/wiki/Speed_Graphic); KEH used camera pricing (https://www.keh.com, dealer retail); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl. · tells 2026-10-13
 Slug: press-cameras · Aliases: Speed Graphic, Crown Graphic, Graflex, press camera, 4x5 camera, large format camera, newspaper camera, Pacemaker, Anniversary Speed Graphic, flash camera, Weegee camera, Busch Pressman, Linhof
 Summary: Bodies without lens/parts cameras $50–150; complete 4x5 Speed/Crown Graphic with standard lens and working shutter $200–450; Super Graphic, Linhof Technika III/IV, Pacemaker with Kalart rangefinder & Ektar $350–900; Aero/military, rare lenses (Aero Ektar) $600–2,000.
 Buy rule (short): Buy 4x5 Pacemaker Speed or Crown Graphics with a lens (Ektar, Optar, Xenar) ≤ $100 if shutter fires on all speeds in a seller video; pass on 2x3 minis and lensless bodies over $50.
@@ -68,7 +68,13 @@ Aero Ektar or Ektar lenses on otherwise plain bodies; included Grafmatic/film ho
 4x5 Speed Graphic ~6 lb; 12x10x10 box, double boxed, $20–30. Lens removed or protected. Fits passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-Format, era (pre-Anniversary/Anniversary/Pacemaker), lens and shutter model, which speeds fire, FP shutter status, bellows light test, accessories. Sell untested as "display/untested".
+- **Title words:** "Graflex" + model (Speed Graphic / Crown Graphic / Super Graphic) + format "4x5" + era (Pacemaker, Anniversary) + lens (Optar 135, Ektar) + "tested"/"display". Junk: "antique camera", "press camera" alone, "untested" in title. Example: `Graflex Pacemaker Speed Graphic 4x5 Press Camera Optar 135mm Shutter Tested`.
+- **Where:** eBay BIN with offers (large-format shooters, 1–3 weeks); nothing beats it; untested bodies still sell to decor buyers.
+- **Price position:** list at the sold median (4x5 Pacemaker with lens ~$180–300 untested, $200–450 tested; Super Graphic/Technika $400–900); accept −10%, floor −20%; OBO; cut 10% after 21 days.
+- **Photos:** 1) camera open, bellows extended, lens forward; then lens/shutter face, FP shutter knob and dial, bellows back-lit for pinholes, rangefinder, ground glass, body folded, holders/accessories; video of the shutter firing at several speeds.
+- **State:** format, era, lens and shutter model, which speeds fire, FP shutter status, bellows light-tight or pinholes, rangefinder present/calibrated, holders and Grafmatics included, "display/untested" if so, flaws by photo number.
+- **Pack / haul:** ~6 lb; lens removed or padded, cock shutter released, 12×10×10 double-boxed, 6–8 lb class, $20–30.
+- **Quote to a buyer:** "A [Pacemaker Speed Graphic 4x5] with the [Ektar/Optar], shutter firing at all speeds and bellows tight — complete tested 4x5 kits sell for [$X], and the small 2x3 ones are the $100 cameras."
 
 ## Buy rule
 Profit = median × 0.87 − ~$25 − ~$25 − price ≥ max($50, price). A $300 4x5 kit allows ≤ ~$100. Shutters are mechanical (not electronics) but untested shutters count as risk: require a video of the shutter firing. Pass on 2x3/3x4 minis above $50.

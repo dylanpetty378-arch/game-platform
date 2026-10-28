@@ -1,5 +1,5 @@
 # Cymbals (Zildjian, Sabian, Paiste, Meinl, Istanbul/Bosphorus)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: knowledge of Reverb/eBay sold ranges for A Zildjian 20" rides, ZBT/ZHT budget lines, 1960s–70s "A" stamps; equipboard/Reverb price pages for Paiste 18" thin crashes (search 2026-10); craigslist 1026, 1668, 984, 1398; Reverb sold pattern (knowledge 2024–25); eBay/Reverb used browse Oct 2025 (A Zildjian Quick Beat 14", K Custom, New Beat); sweep listing 2754; drumcenternh.com used 23" Zildjian A Sweet Ride ("Good", $349.99, sold); Guitar Center used listings; Reverb price knowledge; Reverb/eBay sold (agent knowledge Oct 2026); Terapeak 23" A Sweet Ride (n=19)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: knowledge of Reverb/eBay sold ranges for A Zildjian 20" rides, ZBT/ZHT budget lines, 1960s–70s "A" stamps; equipboard/Reverb price pages for Paiste 18" thin crashes (search 2026-10); craigslist 1026, 1668, 984, 1398; Reverb sold pattern (knowledge 2024–25); eBay/Reverb used browse Oct 2025 (A Zildjian Quick Beat 14", K Custom, New Beat); sweep listing 2754; drumcenternh.com used 23" Zildjian A Sweet Ride ("Good", $349.99, sold); Guitar Center used listings; Reverb price knowledge; Reverb/eBay sold (agent knowledge Oct 2026); Terapeak 23" A Sweet Ride (n=19)
 Slug: zildjian-cymbals · Aliases: cymbal, crash, ride, hi-hats, hats, set of cymbals, drum set cymbals, A Zildjian, K Zildjian, trans stamp, Paiste 2002, Sabian AA, Sabian HH
 Summary: Sheet-brass/B8 beginner lines and any cracked cymbal $10–60; modern A Zildjian, Sabian AA, Paiste 2002 crashes/rides $80–200; K/K Custom, A Custom, Paiste Signature/602/Innovations, HHX, Byzance, 1960s trans-stamp A's, 21–23" A Sweet Ride $200–600; Istanbul K, Paiste Giant Beat/602 vintage, large trans-stamp A's $400–2,500.
 Buy rule (short): Buy uncracked pro-series (cast B20) at ≤ 40–50% of sold (20" A ride under $50, K/K Custom/2002 ≤ $80, vintage trans-stamp A/Istanbul K/602 ≤ $100–120); pass B8/sheet lines, any crack/keyhole/repair, sellers already at market.
@@ -93,9 +93,13 @@ a cymbal box; a 22" ride ~7 lb in a 24" square box $25–40 ground, oversize; fr
 ~5 lb, flat 16" box, $20–25. Pack between cardboard discs. Reverb (~8%) or eBay (13%).
 
 ## Selling it (for the buyer-facing listing)
-State maker, series, size, model name, weight in grams, stamp era (photo of the stamp under the bell), finish, and
-condition with an all-round edge photo ("no cracks, no keyhole"). Title: maker, series, model, size, weight, "trans
-stamp"/"Istanbul" if applicable, "no cracks".
+- **Title words:** maker + series + model + size + weight in grams + era: "Zildjian A Medium Ride 20" 2450g", "K Custom Dark hats 14"", "1960s trans stamp", "Paiste 602"; + "no cracks"; Junk: "Zildjian cymbal" with no series, "drum set cymbals", "lot". Example: `Zildjian A Sweet Ride 23" 2900g No Cracks No Keyhole Vintage Stamp`.
+- **Where:** Reverb first (~8%; pro rides and hats sell fast), eBay second; ZBT/B8 budget lines local or as a lot. Reverb beats eBay.
+- **Price position:** at the sold median (A 20" ride $110–200; Quick Beat hats $150–220; K Custom hats $250–350; 23" Sweet Ride $380; 1960s trans-stamp 20" $250–400), accept −10%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo top face, logo up; then stamp under the bell macro, ink logos, an all-round edge photo (no cracks), bell and hole (keyhole), underside, scale showing grams; a short strike video.
+- **State:** maker, series, model, size, weight in grams, stamp era, finish, "no cracks, no keyhole" or exactly where, oxidation/fingerprints, buffing, counterfeit check (stamp present, weight).
+- **Pack / haul:** 20" ~6 lb flat in a 22×22 box between cardboard discs ($18–35); pair of 14" hats ~5 lb in a flat 16" box ($20–25); 22"+ is oversize.
+- **Quote to a buyer:** "[A Zildjian 20" Medium Ride], [2450 g], [1970s stamp], no cracks and no keyhole — the Avedis cast line, not the ZBT sheet line; new it's [$X] and used clean ones hold [$110–200]."
 
 ## Buy rule
 Merged from the five write-ups:

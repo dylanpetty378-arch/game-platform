@@ -1,5 +1,5 @@
 # Sports card lots and singles (Topps, Bowman, Donruss, Fleer, Upper Deck, Panini Prizm)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: craigslist 1099 (Ja'Marr Chase Prizm RC auto $145), 1336 ("vuntage sports cards" $130), 1359 (1990 Topps Nolan Ryan $25), 1535 (5,000 cards $30), 1896 (3,000 cards $85), 1077 (1977 Topps uncut strip $7); eBay/130point sold pattern (knowledge 2024–25)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: craigslist 1099 (Ja'Marr Chase Prizm RC auto $145), 1336 ("vuntage sports cards" $130), 1359 (1990 Topps Nolan Ryan $25), 1535 (5,000 cards $30), 1896 (3,000 cards $85), 1077 (1977 Topps uncut strip $7); eBay/130point sold pattern (knowledge 2024–25)
 Slug: sports-card-lots · Aliases: baseball cards, card collection, box of cards, old baseball cards, junk wax, trading cards, football cards
 Summary: junk-wax bulk 1987–94 $0.01–0.10/card ($20–40 per 5,000); 1970s stars, 1980s rookies, unopened 1980s wax $20–150; 1950s–60s stars, PSA 7+ vintage, modern rookie autos $150–1,500; 1952 Mantle, T206, 1986 Fleer Jordan PSA 8+ $5,000+ (pass unless graded).
 Buy rule (short): Visible pre-1980 stars in a lot ≤ $40, or a graded card ≤ 40% of 130point; pass junk-wax bulk and raw modern autos.
@@ -62,9 +62,13 @@ Very liquid on eBay; 130point aggregates sold prices. Modern cards are volatile 
 - 5,000 cards ≈ 25 lb. Singles go in bubble mailers ($4) in a penny sleeve and top-loader; eBay's standard envelope service is cheaper for under-$20 cards (general knowledge, verify). Sell on eBay.
 
 ## Selling it (for the buyer-facing listing)
-- Year, brand, card number, player, RC/auto/parallel/serial, and the grade with its cert number. For raw cards, show the centring and the corners.
-- Photograph the front and back in good light, plus close-ups of the corners and the slab label.
-- Title keywords: "1968 Topps Nolan Ryan RC #177", "PSA 7", "/25", "Prizm Silver".
+- **Title words:** year, brand, card number, player, "RC"/"auto"/parallel and serial (/25), grade with cert (PSA 7), set name; lots: era and count with stars named. Junk: "rare", "mint" on raw, "old baseball cards", "investment". `1968 Topps Nolan Ryan RC #177 PSA 5 Cert #xxxxxxxx`
+- **Where:** eBay BIN with offers (buyers check 130point instantly; price there); junk-wax bulk to a card shop or local lot; nothing on FB.
+- **Price position:** at the 130point sold median for grade and cert, accept −5%; raw vintage stars at the sold median for the visible condition, OBO; bulk $20–40 per 5,000. Cut 5% at 14 days — liquid market; football in fall, basketball in winter.
+- **Photos:** first: front flat, centring visible; then back, all four corners close-up, edges, surface at an angle, slab label and cert number, serial number on parallels.
+- **State:** year, brand, number, player, RC/auto/parallel/serial, grade and cert number verifiable online, or for raw: centring, corners, creases, writing, trimming checked against a known card.
+- **Pack / haul:** penny sleeve + top loader, bubble mailer, $4; eBay standard envelope for under-$20 cards; 5,000 cards ≈ 25 lb.
+- **Quote to a buyer:** "[1968 Topps Ryan RC] in a [PSA 5] holder, cert [#] checks on PSA's site — 130point shows $[X] for this grade; raw copies with soft corners trade at a fraction."
 
 ## Buy rule
 Buy when: visible pre-1980 stars in a lot ≤ $40, or a graded card ≤ 40% of 130point.

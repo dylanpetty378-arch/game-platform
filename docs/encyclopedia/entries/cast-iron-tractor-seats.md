@@ -1,5 +1,5 @@
 # Implement and tractor seats – cast iron and pressed steel (McCormick, Deering, Champion, Buckeye, Walter A. Wood, Osborne, Milwaukee, John Deere, unmarked pressed steel)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Collector reference to verify: "Cast Iron Implement Seats" by the Cast Iron Seat Collectors Association (CISCA), (URL not verified this run); Rural Heritage; WorthPoint.
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Collector reference to verify: "Cast Iron Implement Seats" by the Cast Iron Seat Collectors Association (CISCA), (URL not verified this run); Rural Heritage; WorthPoint.
 Slug: cast-iron-tractor-seats · Aliases: farm implement seat, tractor seat, cast iron seat, pan seat, hay rake seat, mower seat, planter seat, bar stool seat
 Summary: Unmarked pressed-steel pan seats $20–45; common lettered cast-iron seats (Deering, McCormick, Champion, Buckeye) $50–150; rare-maker or ornate cast seats $200–1,000+ (cast reproductions are everywhere).
 Buy rule (short): Buy only original cast-iron seats with raised maker names/towns and old wear under ~$60; pressed steel pan seats are pass above ~$15.
@@ -44,7 +44,13 @@ Lettered cast seats lumped into "old farm junk"; underside raised name hidden fr
 Pressed seat ~4 lb, 16×15" → $15–20; cast seat 8–12 lb → $20–30. Pad cast seats (can crack).
 
 ## Selling it (for the buyer-facing listing)
-State cast vs pressed, maker and lettering, dimensions, weight, original paint, no welds. Show edge and underside.
+- **Title words:** "cast iron" (or "pressed steel") + "implement seat"/"tractor seat" + maker lettering (McCormick, Deering, Champion, Buckeye, Walter A. Wood) + "antique" + "original"; Junk: "farm junk", "bar stool seat", "rustic decor". Example: `Antique Cast Iron Implement Tractor Seat Walter A. Wood Original Paint`.
+- **Where:** eBay BIN with offers for lettered cast seats (collector niche, median $73–75); unmarked pressed-steel pan seats sell as decor on FB local or eBay at $20–45. No place beats eBay for cast.
+- **Price position:** at the sold median for the tier ($50–150 common lettered; $150–400 ornate/uncommon foundry), accept −15%, floor p25 ($50); OBO; cut 10% after a month; spring/summer is the decor peak.
+- **Photos:** first photo top-down showing the full lettering; then underside (raised name and casting gates), edge/rim profile, lug/mounting boss, any crack or weld, paint traces, a tape measure for diameter.
+- **State:** cast vs pressed, maker lettering exactly as cast, diameter, weight, original paint %, no cracks or welds (or where), repro check (sharp uniform casting, fake rust), flaws by photo number.
+- **Pack / haul:** cast 8–12 lb, pressed ~4 lb; one box 16×15", pad the cast seat all round (brittle, can crack); $20–30 cast, $15–20 pressed.
+- **Quote to a buyer:** "Period [McCormick] cast seat with the original foundry lettering and no welds — reproductions are everywhere; this one has the uneven old casting and honest wear a collector checks for."
 
 ## Buy rule
 Pressed steel at $25–40 sold → negative after shipping. Buy cast lettered seat only if price ≤ $40 and expected sold ≥ $130. Avoid unconfirmed cast seats that might be reproductions.

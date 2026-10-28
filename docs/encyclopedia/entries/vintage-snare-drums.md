@@ -1,5 +1,5 @@
 # Vintage snare drums (Ludwig, Slingerland, Rogers, Gretsch, Leedy, MIJ Pearl/Star/Tama)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: reverb.com listings, vintagedrumforum.com ID threads, agent knowledge (Oct 2026)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: reverb.com listings, vintagedrumforum.com ID threads, agent knowledge (Oct 2026)
 Slug: vintage-snare-drums · Aliases: vintage snare, chrome snare, Supraphonic, Acrolite, Radio King, Dynasonic, Black Beauty, marching snare
 Summary: MIJ/no-badge chrome snares $40–90; Ludwig Acrolite/Rocker, Pearl Export $100–200; Supraphonic 60s–70s, Radio King, Powertone $250–600; Dynasonic, Black Beauty, pre-war Radio King, COB Supra $600–2,000.
 Buy rule (short): Buy Ludwig/Slingerland/Rogers/Gretsch with badge visible at ≤ $100; pass no-badge or MIJ tapered-nut-lug snares.
@@ -62,9 +62,13 @@ badges and Imperial lugs are the tell.
 8–12 lb, needs a box ~16x16x8, $20–30. Reverb (fees ~8 %) beats eBay for drums.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model, size (depth × diameter), shell material, badge type and serial (era), lug count, throw-off model,
-condition of chrome/wrap, and what's original. Photograph badge, serial, throw-off, inside the shell and bearing edges.
-Title: maker, model, size, badge era, "vintage snare".
+- **Title words:** maker + model + size ("5x14", "6.5x14") + badge era ("Keystone badge", "Blue/Olive") + shell ("COB", "aluminum") + "vintage snare drum"; Junk: "chrome snare", "student drum", "great for a beginner". Example: `1960s Ludwig Supraphonic LM400 5x14 Keystone Badge Vintage Snare Drum`.
+- **Where:** Reverb first (~8% fees, drummers and collectors; Supraphonic/Acrolite are liquid), eBay second; MIJ no-badge snares local (slow and cheap). Reverb beats eBay for drums.
+- **Price position:** at the sold median (1960s Supraphonic keystone $350–500; Acrolite $120–180; Radio King/Powertone $250–600; MIJ $50–80), accept −10%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the drum from the front at a slight angle, badge visible; then badge and serial macro, throw-off, inside the shell, bearing edges, hoops (bent?), each lug, wrap/chrome pitting, snare wires and bed; short video of a hit.
+- **State:** maker, model, depth × diameter, shell material, badge type and serial (era), lug count, throw-off model, chrome/wrap condition, what's original vs replaced, redrilled holes, heads, flaws by photo number.
+- **Pack / haul:** 8–12 lb, box ~16×16×8; loosen or remove snare wires, pad the hoops, fill the shell; $20–30.
+- **Quote to a buyer:** "Ludwig [Supraphonic LM400], [Keystone badge, serial dates it 1965] — the aluminum shell the whole genre was recorded on; original throw-off and lugs, no extra holes; a new LM400 is [$X]."
 
 ## Buy rule
 Buy when: Ludwig keystone/blue-olive, Slingerland, Rogers, Gretsch badge visible and price ≤ $100. Pass when: no badge

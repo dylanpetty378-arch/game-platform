@@ -1,5 +1,5 @@
 # Crystal animal figurines (faceted cut-crystal miniatures; Swarovski Silver Crystal, Swarovski SCS, Crystal World, Crystal Temptations, Hoya, Waterford, Baccarat, Lalique, Asian generic)
-Updated: 2026-10-13 · Sources: no web search budget this run; written from general knowledge plus db/comps.jsonl Terapeak lines that include Swarovski items (fused-glass-art and vintage-christmas-decorations queries). Verification: eBay sold "Swarovski Silver Crystal figurine" https://www.ebay.com/sch/i.html?_nkw=swarovski+silver+crystal+figurine&LH_Sold=1 ; Swarovski Crystal Society https://www.swarovski.com ; Replacements https://www.replacements.com
+Updated: 2026-10-28 · Sources: no web search budget this run; written from general knowledge plus db/comps.jsonl Terapeak lines that include Swarovski items (fused-glass-art and vintage-christmas-decorations queries). Verification: eBay sold "Swarovski Silver Crystal figurine" https://www.ebay.com/sch/i.html?_nkw=swarovski+silver+crystal+figurine&LH_Sold=1 ; Swarovski Crystal Society https://www.swarovski.com ; Replacements https://www.replacements.com
 Slug: crystal-animal-figurines · Aliases: crystal cat, crystal bear, crystal mouse, Swarovski style, faceted glass animal, Kris Bear, crystal miniature, glass animal ornament, lead crystal figurine
 Summary: Generic Asian faceted-glass animals $3–12; Swarovski-type lookalikes (Crystal World, Crystal Temptations) $8–25; common Swarovski Silver Crystal animals with box/certificate $25–80; retired early Swarovski (block-letter SC logo, pre-1989), SCS annual editions and large pieces $80–400+; Lalique and Baccarat animals $100–500 (general knowledge, verify).
 Buy rule (short): Buy only items with a visible Swarovski swan or SC logo, Lalique or Baccarat signature, at ≤ 30% of sold; pass on unmarked faceted glass with painted eyes or noses.
@@ -51,7 +51,13 @@ Owners call every crystal animal "Swarovski". The undervalued case is the revers
 Tiny but fragile; $6–9 in a padded box (general knowledge, verify).
 
 ## Selling it (for the buyer-facing listing)
-State the maker and logo, catalogue number (on Swarovski box), size, box and certificate, and any chips.
+- **Title words:** "Swarovski" only if logo-marked, line (Silver Crystal/SCS Annual Edition/Kris Bear), animal, catalogue number, "retired", "with box and certificate"; Lalique/Baccarat with "signed". Junk: "Swarovski style", "crystal glass animal", "rare". `Swarovski Silver Crystal Retired Mouse SC Logo 7631 with Box COA`
+- **Where:** eBay BIN with offers (collectors search catalogue numbers); generic and Crystal World pieces lotted on FB local.
+- **Price position:** common Swarovski at the sold median ($15–80, box/cert required for the top of it), OBO; SCS annual at $153 median and retired SC-logo at p75, firm 3 weeks; generic $3–12 lotted. Cut 10% at 45 days.
+- **Photos:** first: piece on black cloth, lit for fire; then logo (swan/SC) close-up, catalogue number on box, certificate, every facet edge and ear/tail tip, glue joints, ruler.
+- **State:** maker and logo type, line, catalogue number, size, box and certificate present, chips/lost parts/yellowed glue/re-glued joints by photo number.
+- **Pack / haul:** tiny but fragile; padded box, each piece wrapped, $6–9.
+- **Quote to a buyer:** "Swarovski [mouse 7631] with the [block-letter SC] logo, retired [pre-1989], boxed with certificate — unboxed pieces sell 30–50% lower and the lookalikes go for $10."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$8 to buyer − ~$8 to Dylan − price ≥ max($50, price). Needs a sale of ~$90+. Only retired Swarovski or Lalique/Baccarat qualify. Pass on unmarked glass. Authentication of Swarovski is by logo and catalogue number; no professional authentication needed, but counterfeits exist.

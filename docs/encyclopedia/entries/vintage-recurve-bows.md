@@ -1,5 +1,5 @@
 # Vintage recurve & longbows (Bear, Damon Howatt, Wing, Browning, Pearson, Shakespeare, Indian Archery)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay recurve category live listings 2026-10 (Howatt Ventura $165, Bear Grizzly $250, Kodiak Hunter $250, Bear Polar $110, Black Bear $180, Wing Red Wing Hunter $150, Wing Chaparral $260, Browning Nomad $150, Browning Wasp $150, Pearson Palomino $245, Shakespeare Condor $285, Indian Archery Cochise $125 – asks, shipping $25–35); collector knowledge (Bear Archery coin/medallion dating).
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay recurve category live listings 2026-10 (Howatt Ventura $165, Bear Grizzly $250, Kodiak Hunter $250, Bear Polar $110, Black Bear $180, Wing Red Wing Hunter $150, Wing Chaparral $260, Browning Nomad $150, Browning Wasp $150, Pearson Palomino $245, Shakespeare Condor $285, Indian Archery Cochise $125 – asks, shipping $25–35); collector knowledge (Bear Archery coin/medallion dating).
 Slug: vintage-recurve-bows · Aliases: recurve bow, vintage bow, long bow, longbow, hunting bow, traditional bow, Bear bow, Kodiak, takedown recurve
 Summary: Kids'/unmarked/cracked $15–40; 1970s+ Bear Polar/Grizzly, Pearson, Indian Archery $75–175; Bear Kodiak 60s–70s, Howatt, Wing, Condor, Palomino $175–350; coin-era Kodiaks, Bear takedowns, Wing Presentation II, Tamerlane $350–1,000+.
 Buy rule (short): Buy Bear coin-riser Kodiak/Super Kodiak/Grizzly under $90, Howatt/Wing/Condor/Palomino under $70; pass unbranded, >60 lb draw, LH, or seller-priced over $100.
@@ -72,10 +72,13 @@ Long (54–70 in) but light (1–2 lb): needs a bow tube or 72-in box; $25–40 
 fits diagonally across a car interior.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model, length, draw weight @ 28", hand (RH/LH), serial and coin/medallion type (era), finish
-(original/refinished), limb condition (no twist, no cracks, no delamination) and whether it has been shot recently.
-Photograph the riser silk-screen, coin, both limb tips, and the bow strung from the side. Title: maker, model, length,
-draw weight, hand, "vintage recurve", era.
+- **Title words:** maker + model + length + draw weight + hand: "Bear Kodiak Hunter 60" 45# RH", "Damon Howatt Hunter", "Wing Red Wing Hunter" + "vintage recurve bow" + coin/era; Junk: "old wooden bow", "archery", "hunting bow", "decor". Example: `Bear Kodiak Hunter Recurve Bow 60" 45# RH 1969 Brass Coin Original Finish`.
+- **Where:** eBay BIN with offers (Bear collectors, traditional shooters) or Archery Talk / Leatherwall classifieds (no fee); late summer–early fall peak. Classifieds beat eBay net because of fees and the $25–40 shipping.
+- **Price position:** at the sold median (1970s+ Polar/Grizzly/Pearson $75–175; Kodiak Hunter/Howatt/Wing/Condor $175–350; coin-era Kodiaks/takedowns $350–1,000), asks sell at 70–85%, so list at median and accept −15%, floor p25; knock 20% for LH or 60 lb+; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the bow strung, side-on, full length; then riser silk-screen (model, length, weight, serial), coin/medallion, both limb tips, limbs sighted from the tip for twist, glass edges (delamination), finish close-up, string groove.
+- **State:** maker, model, length, draw weight @ 28", RH/LH, serial and coin type (era), original or refinished, limbs: no twist, no cracks, no delamination, shot recently or not, string included, flaws by photo number.
+- **Pack / haul:** 54–70" but 1–2 lb; bow tube or 72" box, tips padded, unstrung; $25–40. Fits diagonally in a car, not a passenger seat lengthwise.
+- **Quote to a buyer:** "Bear [Kodiak Hunter], [1969 brass coin], [45#] at 28" right-hand with the original finish and straight limbs — the sweet-spot weight shooters want; a new Bear Grizzly is [$X] and this is the Grayling-era bow."
 
 ## Buy rule
 Buy when: Bear coin-riser Kodiak/Super Kodiak/Grizzly under $90; Howatt, Wing, Shakespeare Condor, Pearson Palomino

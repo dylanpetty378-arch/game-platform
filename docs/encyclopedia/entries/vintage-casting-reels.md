@@ -1,5 +1,5 @@
 # Vintage casting reels and tackle lots (level-wind baitcasters, Kentucky reels, glass minnow traps: Pflueger, Shakespeare, Langley, South Bend, Heddon, Meek, Talbot)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold-price knowledge 2024–25 for Pflueger Supreme/Shakespeare/Penn/Langley reels; glass minnow trap sold ranges (Orvis, Joy, C.F. Orvis marked); fishing-collectibles (NFLCC) guides. · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold-price knowledge 2024–25 for Pflueger Supreme/Shakespeare/Penn/Langley reels; glass minnow trap sold ranges (Orvis, Joy, C.F. Orvis marked); fishing-collectibles (NFLCC) guides. · tells 2026-10-13
 Slug: vintage-casting-reels · Aliases: baitcasting reel, level wind reel, old reels, vintage fishing reels lot, antique tackle, Kentucky reel, glass minnow trap, minnow bottle
 Summary: Bronson, Ocean City and plain Shakespeare $5–15; Pflueger Supreme, Langley, Penn Peer, Shakespeare Tournament and unmarked glass traps $20–45; cased Supreme, Heddon 3-25, Meisselbach Tripart and Orvis glass traps $50–120; early Ambassadeur, Shakespeare President, Kentucky reels (Meek, Milam, Talbot) $150–1,000+.
 Buy rule (short): Lots ≤ $6/reel with at least one Pflueger Supreme / Ambassadeur / Heddon visible, or a glass minnow trap ≤ $25; pass modern-lure tackle boxes and sellers who already name the good reels.
@@ -75,9 +75,13 @@ Fishing-collectible buyers (NFLCC, ORCA members) and users. eBay is the main ven
 - Reels ~1 lb each; a 10-reel lot ships for $20–25. Glass minnow traps need double-boxing ($20). Resell individually on eBay; fees 13%.
 
 ## Selling it (for the buyer-facing listing)
-- Maker, model, patent dates or serial stamped on the reel, whether the spool turns and the level-wind tracks, plating condition, case/wrench/box.
-- Photograph the foot, both end plates, the handle and knobs, and the level-wind.
-- Title keywords: "Vintage Pflueger Supreme Casting Reel with Case", "Antique Kentucky Reel Meek", "Orvis Glass Minnow Trap".
+- **Title words:** maker + model + "casting reel"/"level wind" + "with case"/"wrench"/"box" + era + patent date; traps: "Orvis glass minnow trap". Junk: "old fishing reel", "antique tackle", "lot" (unless a lot). Example: `Vintage Pflueger Supreme Casting Reel with Leather Case Wrench Level Wind Working`.
+- **Where:** eBay BIN with offers (NFLCC/ORCA collectors and users; spring peak); Kentucky reels (Meek, Milam, Talbot) and German-silver pieces to Lang's auction; sell lots individually, not as a pile.
+- **Price position:** list at the sold median (Supreme/Langley/Penn Peer $20–45, cased Supreme/Heddon 3-25/Orvis trap $50–120, early Ambassadeur/President $150+); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) reel in profile, handle side; then the foot with maker/model stamp, both end plates, handle and knobs, level-wind and pawl, spool, case/wrench/box, any plating loss; short video of the spool spinning and the level-wind tracking.
+- **State:** maker, model, patent dates or serial, spool turns freely, level-wind tracks, click/drag works, plating condition, case/wrench/box included, line removed, flaws by photo number.
+- **Pack / haul:** ~1 lb each; bubble in a 6×6×6 box, 1–2 lb class, $8–12; 10-reel lots $20–25; glass minnow traps double-boxed, $20.
+- **Quote to a buyer:** "A [Pflueger Supreme in its leather case with the wrench / Heddon 3-25], maker stamped on the foot in photo [2] — the Bronson and Ocean City reels are the $10 ones; cased [model] examples sell for [$X] and it spins free in the video."
 
 ## Buy rule
 Buy when: the lot price is ≤ $6/reel and at least one Pflueger Supreme / Ambassadeur / Heddon is visible; or a glass minnow trap is ≤ $25.

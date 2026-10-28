@@ -1,5 +1,5 @@
 # Pitcher and bowl (wash) sets (English ironstone and semi-porcelain: Johnson Bros., Meakin, Wood & Son, Doulton Burslem, Grindley, Colonial Pottery, Ford & Sons; flow blue; Victorian blush ware; American Homer Laughlin, KT&K, Carrollton)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Kovels marks https://www.kovels.com/marks (not loaded) ; The Potteries pottery marks database https://www.thepotteries.org/mark (not loaded) ; Flow Blue International Collectors Club https://www.flowblue.org (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references: Kovels marks https://www.kovels.com/marks (not loaded) ; The Potteries pottery marks database https://www.thepotteries.org/mark (not loaded) ; Flow Blue International Collectors Club https://www.flowblue.org (not loaded). No Terapeak rows for this type in db/comps.jsonl. · tells 2026-10-13
 Slug: pitcher-and-bowl-sets · Aliases: wash set, washstand set, basin and ewer, ewer and basin, wash basin and pitcher, chamber set, toilet set, ironstone pitcher bowl, flow blue pitcher bowl, Victorian wash set, bedroom set
 Summary: Plain white ironstone, 1970s–2000s décor reproductions and damaged sets $25–80; good English transferware/blush sets 1880–1920 $80–250; flow blue sets, complete toilet sets with chamber pot/soap dish, signed Doulton/Wedgwood $200–700+.
 Buy rule (short): Wash sets almost never clear shipping (12–15 lb, $40–70 each way, high breakage); buy only for local resale or if a flow blue/Doulton set is ≤ $40; otherwise pass.
@@ -62,7 +62,13 @@ Slow, regional and local. Farmhouse/cottage décor buyers; flow blue collectors 
 12–18 lb, basin 15–17" wide; double-box with 3" of cushioning each layer; $40–70 shipping; high breakage. Fits a passenger seat (seatbelt it).
 
 ## Selling it (for the buyer-facing listing)
-Maker, pattern name, backstamp photos of both pieces, dimensions, crack/chip check with light, crazing, gilt condition. Local pickup preferred.
+- **Title words:** maker (Johnson Bros, Doulton Burslem, Grindley, Colonial Pottery), pattern name, "pitcher and bowl"/"wash set", type (ironstone, flow blue, transferware, blush ware), colour, basin diameter, "antique" only for pre-1920 marks. Junk: "1800s" without a mark, "mint", "rare", "complete" when the chamber pot is missing. `Antique Colonial Pottery Togo Teal Transferware Pitcher and Bowl Wash Set c1900 Stoke England`
+- **Where:** local — FB Marketplace or an antique mall (farmhouse/cottage decor buyers; shipping and breakage kill it); eBay local pickup or shipped only for flow blue/Doulton over $200.
+- **Price position:** at the sold median (ironstone sets $50; p75 $82), transfer/blush sets 1890–1920 $80–250, flow blue/Doulton/complete toilet sets $200–700; OBO, accept −25%, floor $30; cut after 30 days — slow and regional.
+- **Photos:** set together; each backstamp; basin interior and pitcher interior; rim and spout chips; hairlines under a flashlight from inside; crazing and gilt wear; set with a tape for basin diameter.
+- **State:** maker, pattern name, backstamps of both pieces, dimensions, crack/chip check with light ("no hairlines found"), crazing, gilt condition, stains, matching pieces (chamber pot, soap dish) by photo number.
+- **Pack / haul:** 12–18 lb, basin 15–17 in.; local pickup preferred; if shipped, double-box with 3 in. cushioning each layer, $40–70, high breakage; fits a passenger seat (seatbelt it).
+- **Quote to a buyer:** "This is a marked [Colonial Pottery] [Togo] set, c. [1900], [no hairlines under light], both pieces matching; period English transfer sets sell for $[80–250], and the 1970s reproductions are $25–80."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$50 − ~$50 − price. A $150 set nets ~$31 before price: a loss even free. Pass unless (a) flow blue or Doulton at ≤ $40 with sold ≥ $250, or (b) planned local resale (outside the main rule). Passenger-seat size OK, but shipping makes this category a near-automatic pass.

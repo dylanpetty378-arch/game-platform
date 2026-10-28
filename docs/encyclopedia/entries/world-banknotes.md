@@ -1,5 +1,5 @@
 # World banknotes (foreign paper money: Austria-Hungary, Germany inflation, Brazil, Mexico, China, Japan invasion money, military payment certificates)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references to consult: Standard Catalog of World Paper Money (Krause, "Pick" numbers) ; Numista https://en.numista.com (not loaded) ; PMG population/price guide https://www.pmgnotes.com (not loaded) ; Banknote World / eBay sold (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references to consult: Standard Catalog of World Paper Money (Krause, "Pick" numbers) ; Numista https://en.numista.com (not loaded) ; PMG population/price guide https://www.pmgnotes.com (not loaded) ; Banknote World / eBay sold (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: world-banknotes · Aliases: foreign currency, vintage foreign currency, old money, banknote, paper money, world currency lot, Kronen, Reichsmark, inflation note, cruzeiros, JIM, MPC, notgeld
 Summary: Circulated common world notes and inflation notes $0.25–10; uncirculated popular notes, early-20th-c. large-format notes in high grade, MPC $10–60; scarce PMG-graded notes, early colonial, pre-1949 Chinese in top grade $100–5,000+.
 Buy rule (short): Buy only crisp uncirculated or rare-issue notes identified by Pick number with sold ≥ $100 at ≤ 25% of sold; pass on circulated foreign currency and inflation notes, which are almost worthless.
@@ -54,7 +54,13 @@ Liquid for lots and UNC popular notes; circulated singles barely sell. Collector
 Pocket size. Toploader or currency sleeve between cardboard, plain envelope with stamps $1–2 or $5 first-class with tracking. Framed notes ship $15+ — remove from frame.
 
 ## Selling it (for the buyer-facing listing)
-Country, denomination, date, Pick number, signature/overprint variety, honest grade with front/back photos, serial number. Don't call a note "uncirculated" if it has a fold.
+- **Title words:** country + denomination + date + Pick number + grade + variety ("overprint", "star/replacement"): "Austria 1919 10000 Kronen P-65 DEUTSCHÖSTERREICH overprint UNC"; lots: "100 world banknotes lot mixed"; Junk: "old money", "rare" on inflation notes, "antique currency". Example: `Austria-Hungary 1918 10000 Kronen P-25 Overprint P-65 AU Banknote`.
+- **Where:** eBay BIN with offers for UNC popular notes and lots of 50–100 (sell $20–60); circulated singles barely sell — lot them; PMG 63+ rarities to Heritage/Stack's.
+- **Price position:** at the sold median (circulated common $0.25–10; UNC popular/MPC $10–60; scarce MPC/colonial $60–300), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the face flat in even light, square; then back, serial, overprint/stamps macro, folds under raking light, any tears/pinholes/tape, watermark against light.
+- **State:** country, denomination, date, Pick number, signature/overprint variety, serial, honest grade (no "uncirculated" with a fold), tears/pinholes/writing/tape by photo number, lot count if a lot.
+- **Pack / haul:** pocket; currency sleeve or toploader between cardboard, plain envelope ($1–2) or $5 tracked; remove from frames.
+- **Quote to a buyer:** "[Austria P-65] with the [DEUTSCHÖSTERREICH] overprint, [AU] with one light fold — graded honestly, Pick-numbered, and the successor-state [stamp] is the variety collectors pay for."
 
 ## Buy rule
 A $10 note must sell for ~$80 to clear $50 profit. Only uncirculated scarce notes or graded notes do that. Pass on circulated foreign currency and inflation notes. Anything whose value depends on grade over ~$100 needs PMG/PCGS grading — outside Dylan's lane unless already slabbed by PMG/PCGS (verify the cert online).

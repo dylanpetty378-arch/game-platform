@@ -1,5 +1,5 @@
 # Furbys (1998–2001 Tiger Electronics originals; Furby Babies; Hasbro 2005/2012 reissues)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: today.com "Is Furby still in demand" (Bellomo sold examples), collectinsure.com Furby value guide (2023), eBay listings for 70-800 NIB, apartmenttherapy eBay roundup, Terapeak (NIB 70-800, Oct 2026)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: today.com "Is Furby still in demand" (Bellomo sold examples), collectinsure.com Furby value guide (2023), eBay listings for 70-800 NIB, apartmenttherapy eBay roundup, Terapeak (NIB 70-800, Oct 2026)
 Slug: furbys · Aliases: original Furby, 1998 Furby, Furby new in box, Furby NIB, Tiger Furby, 70-800, Furby Babies
 Summary: Loose played-with $10–30; loose working with tag or NIB common colour $30–80 (Terapeak NIB median $50); crisp NIB first-gen, rare colours, Furby Babies NIB $60–150; special editions NIB $100–2,000+.
 Buy rule (short): NIB first-gen 70-800 ≤ $20 each, special-edition NIB ≤ $60; pass loose, Hasbro 2005+/2012, NIB common over $35.
@@ -49,7 +49,13 @@ That NIB first-gen boxes sell for 4–8x a loose one; the edition (look for a sp
 ~2 lb boxed, box is the value – ship in an outer carton with padding, ~$10–14 each ground. eBay/Mercari; ~13% fees. Many buyers want one at a time; a lot of 8 sells cheaper per unit than singles.
 
 ## Selling it (for the buyer-facing listing)
-State model number (70-800), year, colour/name, edition, NIB/sealed vs opened, box condition (corners, window, flap), untested/batteries. Photograph all box sides, the model number and the edition label. Title: "1998 Tiger Electronics Furby 70-800 [colour] NIB, original box".
+- **Title words:** "1998 Tiger Electronics Furby" + model "70-800" + colour/name + edition + "NIB"/"original box" + "sealed"; Junk: "vintage toy", "90s", "Hasbro" (unless it is), "cute". Example: `1998 Tiger Electronics Furby 70-800 Snowball White NIB Original Box Untested`.
+- **Where:** eBay or Mercari BIN with offers, one at a time (a lot of 8 sells cheaper per unit); Nov–Dec gift peak. No local market beats it.
+- **Price position:** NIB common colour at the sold median $50 (p25 $40, p75 $65); rare colours/Babies $60–150; special editions by the box name (Kid Cuisine median $91); accept −15%, floor p25; OBO; cut 10% after 3 weeks, hold NIB into December.
+- **Photos:** first photo the box front square-on; then every box side, the model number and edition label, window and corners/flaps, battery compartment if opened (corrosion), the Tiger logo, tag.
+- **State:** model number (70-800), year, colour/name, edition from the box front, NIB/sealed vs opened, box condition (corners, window, flap), untested/no batteries (normal, doesn't hurt), fur condition if loose.
+- **Pack / haul:** ~2 lb boxed; the box is the value — outer carton with padding on all six sides, never ship the retail box bare; $10–14 ground.
+- **Quote to a buyer:** "First-generation Tiger 70-800 [Snowball] still in the box — the 1998 original, not the 2005/2012 Hasbro reissue; loose ones are $10–30, boxed first-gens are [4–8×] that because the box is what survives least."
 
 ## Buy rule
 Buy when: NIB first-gen (70-800) at ≤ $20 each, or any special edition NIB at ≤ $60. Pass when: loose, Hasbro 2005+/2012, or NIB common colour over $35. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

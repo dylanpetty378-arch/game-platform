@@ -1,5 +1,5 @@
 # Spring horses (Wonder Horse) and painted wood rocking horses (Wonder Products, Hedstrom, Radio Flyer, Mobo, Ayres, Collinson)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: agent knowledge of eBay/FB sold bands (verify); run12 sheet 59
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: agent knowledge of eBay/FB sold bands (verify); run12 sheet 59
 Slug: spring-rocking-horses · Aliases: Wonder Horse, spring horse, bouncy horse, rocking horse, hobby horse, dapple grey rocking horse, Mobo horse
 Summary: plastic spring horses $30–200 (local only); Mobo steel / early Palomino Wonder Horse $200–400; antique carved dapple-grey wood horses $800–3,000. All are bigger than a passenger seat and excluded by the size rule.
 Buy rule (short): Excluded by the size rule (bigger than a passenger seat). The only exception noted is a carved wood dapple-grey under $150 local.
@@ -51,8 +51,13 @@ Local pickup on Facebook Marketplace and craigslist. Buyers are nostalgic parent
 - Frame 40"×20"×36", ~25 lb: $80+ each way, effectively local-only. Wood horses are larger and need freight.
 
 ## Selling it (for the buyer-facing listing)
-- Maker and moulded name, decade, height and length, whether all springs and handles are present, paint condition. For wood horses, the maker plaque and whether the mane, tail and tack are original.
-- Title keywords: "Vintage 1960s Wonder Horse Spring Rocking Horse", "Antique Dapple Grey Rocking Horse Lines/Ayres".
+- **Title words:** "Wonder Horse" (or Mobo, Hedstrom) + decade + "spring rocking horse" + "complete" + "original paint"; wood: "antique dapple grey rocking horse" + maker (Lines, Ayres, Collinson) + "bow rockers"/"safety stand". Junk: "kids toy", "bouncy horse", "rocking horse" alone. Example: `Vintage 1960s Wonder Horse Palomino Spring Rocking Horse Complete Original Paint`.
+- **Where:** FB local / Craigslist only (40×20×36", $80+ to ship); busiest before Christmas; carved wood antiques to an auction house or specialist dealer.
+- **Price position:** list at the sold median (1950s–60s Wonder Horse complete $100–180, Mobo/early Palomino $200–400, carved wood $800–3,000); accept −15%, floor −25%; OBO; cut 10% after 30 days, relist in November.
+- **Photos:** 1) full side profile on the frame; then moulded name/maker plaque, each spring and handle, paint close-up, frame joints, underside; wood: mane, tail, tack, eyes, rocker/stand; short video of it bouncing.
+- **State:** maker and moulded name, decade, height and length, all springs and handles present, paint condition, frame rust; wood horses: maker plaque, mane/tail/tack original or replaced, flaws by photo number.
+- **Pack / haul:** ~25 lb, 40×20×36"; local pickup, fits an SUV with seats down or a truck bed; unhook the springs and bag the hardware for transport. Not shippable.
+- **Quote to a buyer:** "A [1960s Wonder Products Wonder Horse / Mobo steel horse], complete with all springs and original paint — the 1980s plastic ones are the $40 horses; complete [era] examples sell for [$X] locally."
 
 ## Buy rule
 Excluded by the size rule: these are bigger than a car's passenger seat.

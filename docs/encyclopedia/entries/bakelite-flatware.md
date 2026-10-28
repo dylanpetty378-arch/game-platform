@@ -1,5 +1,5 @@
 # Bakelite-handled flatware & kitchen tools
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold memory 2024-25, collector tells (Simichrome/hot-water test)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold memory 2024-25, collector tells (Simichrome/hot-water test)
 Slug: bakelite-flatware · Aliases: bakelite flatware, butterscotch handles, vintage silverware, catalin flatware, bakelite utensils, bakelite kitchen tools
 Summary: Odd pieces $2–5 each; matched 12–24 pc butterscotch/marbled sets $40–100; two-tone/red/green/boxed sets $100–250; carved/figural or Art Deco fitted-box sets $250–500.
 Buy rule (short): 24+ pc marbled or red/green set ≤ $25; pass 12-pc butterscotch at $25+.
@@ -42,7 +42,13 @@ Colour rarity (red/green > butterscotch) and whether there are serving pieces. M
 2–3 lb, cheap to ship (~$10). eBay 13%.
 
 ## Selling it (for the buyer-facing listing)
-State piece count by type, handle colour(s), test result (Simichrome/hot water), blade marks, plating condition, and any box. Photograph the full set laid out, handle close-ups, blade stamps, and the box. Keywords: "bakelite" + colour ("butterscotch", "cherry red") + "flatware" + "tested" + piece count + "Art Deco".
+- **Title words:** "Bakelite" (tested), handle colour (butterscotch, marbled, two tone, cherry red, green), "flatware set", piece count by type, "Art Deco", "boxed", blade marks (Stainless, Washington Forge). Junk: "says bakelite online", "lucite", "antique", "rare" on plain yellow. `Vintage Bakelite Flatware Set 24 pc Two Tone Marbled Butterscotch Art Deco Tested`
+- **Where:** eBay BIN with offers; Etsy for colourful sets (mid-century kitchen and retro decor buyers); odd pieces only in lots.
+- **Price position:** at the sold median (butterscotch/marbled 12–24 pc $40–100, two-tone $105 median, boxed common sets $30, red/green/boxed Deco $100–250), OBO, accept −20%, floor $25 a set; cut after 30 days.
+- **Photos:** full set laid out and counted; handle colour in daylight; close-up of marbling/two-tone; blade stamps; plating wear and rust; box inside and out; Simichrome test swab.
+- **State:** piece count by type, handle colour(s), test result (Simichrome/hot water), blade marks, plating condition, rust, cracked or shrunken handles, box, serving pieces by photo number.
+- **Pack / haul:** 2–3 lb, cheap to ship ~$10; shoebox class; wrap blades so they don't scratch handles.
+- **Quote to a buyer:** "This is a tested Bakelite [24-piece] set in [two-tone marbled] handles, [1930s–40s], with [serving pieces and the box]; two-tone sets sell for $[40–190], and plain yellow odd pieces are $2–5."
 
 ## Buy rule
 Buy when: 24+ pc marbled or red/green set ≤ $25. Pass when: 12-pc butterscotch at $25+ – profit ≈ $20 (by a stricter fees + shipping-both-ways calc, nearer $5–10). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).

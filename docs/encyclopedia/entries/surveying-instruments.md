@@ -1,5 +1,5 @@
 # Surveying transits, levels and drafting instruments (K&E, Gurley, Dietzgen, Berger, Buff & Buff, Brunton)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings Oct 2026, journalofantiques.com, agent knowledge · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay listings Oct 2026, journalofantiques.com, agent knowledge · tells 2026-10-13
 Slug: surveying-instruments · Aliases: transit, surveyor's transit, dumpy level, theodolite, surveying level, Brunton pocket transit, antique surveying tool
 Summary: modern dumpy levels $30–80; K&E/Dietzgen mid-century transits with box $120–250; brass pre-1920 Gurley/K&E Paragon/Brunton $300–700; 19th-c. solar compasses and mining/railroad transits $800–3,000.
 Buy rule (short): Brass Gurley/K&E/Young with box under $120, or Brunton under $50; pass black 1950s–70s K&E at $150+ and levels.
@@ -64,9 +64,13 @@ Collectors of scientific instruments and the surveyor and engineer community; de
 - 15–25 lb with box: $40–60 double-boxed with the instrument removed from its base. Sell on eBay. Ship wooden tripods separately or sell them locally.
 
 ## Selling it (for the buyer-facing listing)
-- Maker, model, serial number and its date, finish, optics (clear/hazy), crosshairs present, axes move freely, box and accessories.
-- Photograph the maker's engraving, the serial number, the circles, the box interior and the view through the scope.
-- Title keywords: "Antique Gurley Brass Surveying Transit with Box", "K&E Paragon Transit", "Brunton Pocket Transit".
+- **Title words:** maker + "surveying transit"/"level"/"pocket transit" + "brass" or "black" + era + "with box"/"tripod" + model (Paragon) + serial. Junk: "antique surveying tool", "steampunk", "scope". Example: `Antique Gurley Brass Surveying Transit with Wooden Box Serial Dated 1912 Troy NY`.
+- **Where:** eBay BIN with offers (instrument collectors, surveyors, decorators; sells steadily); 19th-century solar compasses to a specialist auction; tripods sold FB local.
+- **Price position:** list at the sold median (mid-century black K&E/Dietzgen with box $120–250, pre-1920 Gurley brass/Paragon/Brunton $300–700, solar/mining $800+); box, tripod and plumb bob add ~30%; accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) instrument on its base, three-quarter, brass/finish showing; then maker engraving, serial number, the circles and verniers, the view through the scope, box interior with accessories, plumb bob and tripod; video of the axes moving and the level bubble.
+- **State:** maker, model, serial and its date, finish, optics clear or hazy, crosshairs present, axes move freely, verniers readable, box and accessories listed, tripod included or local only, flaws by photo number.
+- **Pack / haul:** 15–25 lb with box; remove the instrument from its base, wrap separately, double-box, 20–25 lb class, $40–60; wooden tripods ship separately or sell locally.
+- **Quote to a buyer:** "A [Gurley / K&E Paragon] transit, serial [X] dating it to [year], in its box with [plumb bob/tripod] — the plentiful black 1950s transits are the $150 ones; pre-1920 brass [maker] examples sell for [$X], optics clear."
 
 ## Buy rule
 Buy when: a brass Gurley/K&E/Young with box is under $120, or a Brunton is under $50.

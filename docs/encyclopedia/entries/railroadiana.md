@@ -1,5 +1,5 @@
 # Railroadiana — dining car silver, china, lanterns, locks/keys, timetables (Reed & Barton, International Silver, Gorham, R. Wallace, Adams Westlake, Dietz, Handlan, Syracuse, Buffalo, Shenango)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run); Railroadiana Collectors Association https://www.rrcollectors.org/ (not fetched); "Silver at Your Service" / "The Official Guide to Railroad Dining Car China" (Luckin) references (general knowledge, verify); batch file b51
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge (no web search this run); Railroadiana Collectors Association https://www.rrcollectors.org/ (not fetched); "Silver at Your Service" / "The Official Guide to Railroad Dining Car China" (Luckin) references (general knowledge, verify); batch file b51
 Slug: railroadiana · Aliases: railroad teapot, dining car silver, hotel silver, PRR, Pennsylvania Railroad, keystone, railroad lantern, switch key, RR china, train memorabilia
 Summary: common unmarked hotel silver $10–40; railroad-marked hollowware (teapots, creamers, sugars) $40–150; scarce roads/top-marked pieces $150–500; lanterns with marked globes, brass switch keys and locks $50–800; rare china patterns $100–2,000 (general knowledge, verify)
 Buy rule (short): Buy only top- or side-marked railroad pieces of less-common roads or scarce forms, at ≤ 1/3 of realistic sold; pass on common PRR/NYC individual teapots above ~$30.
@@ -61,7 +61,13 @@ Collector base is older and shrinking slowly but still active. eBay plus railroa
 Teapots 1–2 lb, shoebox, $10–14. Lanterns are passenger-seat sized but bulky; glass globes fragile ($20–30 shipping).
 
 ## Selling it (for the buyer-facing listing)
-State railroad, maker, model number, where it is marked (top/side/bottom), dimensions and weight, plating condition. Photograph base marks clearly.
+- **Title words:** railroad name and initials + piece + maker + "railroad" + "dining car" + pattern/mark location: "Pennsylvania Railroad PRR keystone", "Santa Fe Mimbreno", "Reed & Barton silverplate". Junk: "hotel silver", "old restaurant china", "antique teapot". Example: `Pennsylvania Railroad PRR Keystone Silverplate Teapot Reed & Barton Dining Car`.
+- **Where:** eBay BIN with offers (mid-tier silver 2–6 weeks); cast-globe lanterns, rare china and signs do better at railroadiana auctions; FB local does not beat eBay.
+- **Price position:** list at the sold median (PRR teapot ~$75, side-marked pots $40–120, western/scarce roads $120–500); accept −10%, floor −20%; OBO; cut 10% after 45 days.
+- **Photos:** 1) the piece with the road mark facing camera; then base/side mark close-up, maker stamp, interior, plating wear, lid and hinge, ruler for height; china: pattern, backstamp, rim.
+- **State:** railroad, maker, model number, where marked (top/side/bottom), pattern name for china, dimensions and weight, plating condition, dents/chips/crazing by photo number.
+- **Pack / haul:** teapots 1–2 lb, bubble and shoebox, $10–14; china double-boxed; lanterns 3–5 lb with the globe wrapped separately, $20–30.
+- **Quote to a buyer:** "Road-marked [PRR keystone / Santa Fe] dining-car silver by [Reed & Barton], not unmarked hotel ware — the mark is in photo [2]; marked pieces of this road sell for [$X], and western roads bring more."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) − price ≥ max($50, price).

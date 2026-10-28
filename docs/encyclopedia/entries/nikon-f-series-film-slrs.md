@@ -1,5 +1,5 @@
 # Nikon F / F2 / F3 professional film SLRs (Nikon; also FM/FE/Nikkormat and consumer bodies for contrast)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: gearfocus.com sold listings (F2 Photomic black, "Good", sold $270.58), eBay sold browsing, KEH price knowledge; Terapeak (F2 black median $228, n=45, cited in 2026-10-12 sweep)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: gearfocus.com sold listings (F2 Photomic black, "Good", sold $270.58), eBay sold browsing, KEH price knowledge; Terapeak (F2 black median $228, n=45, cited in 2026-10-12 sweep)
 Slug: nikon-f-series-film-slrs · Aliases: Nikon camera, vintage Nikon 35mm, old Nikon with lens, Nikon F2 Photomic, Nikon F3HP, film SLR, 35mm camera
 Summary: EM/FG/N-series/point-and-shoots $15–50; FM, FE, Nikkormat, dead-meter chrome F2 $80–180; working black F2 Photomic, F3HP, plain-prism F $250–400; F2 Titan, F2AS black, F3P, 250-exposure-back bodies $600–2,000.
 Buy rule (short): Buy when an F/F2/F3 body is in a lot under $120 or a black F2 body alone under $100; pass missing-Photomic F2s and sellers who name "F2" and ask $250+.
@@ -50,7 +50,13 @@ Colour (black > chrome), which finder is on it (DP-1 Photomic vs DP-12 "AS" – 
 Body + lens 2–3 lb, box with foam: $15–20 ground. Resell on eBay (13%); mechanical shutter means no electronics-risk beyond the meter, which buyers accept as "meter untested".
 
 ## Selling it (for the buyer-facing listing)
-State model, finder (DP-1/DP-11/DP-12/plain), finish (black/chrome), serial, shutter tested at all speeds, meter status, light seals, viewfinder clarity, cosmetic wear and dents, included lens and accessories. Photograph top plate with serial, front, back open (shutter curtain), viewfinder view, bottom. Title keywords: "Nikon F2 Photomic Black 35mm Film SLR Body DP-1 Tested".
+- **Title words:** "Nikon F2" (or F / F3HP) + finder (Photomic DP-1 / DP-12 AS / plain prism) + "black" or "chrome" + "35mm film SLR" + "tested" + lens if included. Junk: "vintage Nikon camera", "old 35mm", "untested". Example: `Nikon F2 Photomic Black 35mm Film SLR Body DP-1 Tested Shutter Works`.
+- **Where:** eBay BIN with offers (liquid, sells in days to two weeks); KEH/MPB trade-in is only a floor; FB local rarely beats eBay.
+- **Price position:** list at the sold median for the exact finder/finish (F2 black Photomic ~$230–270, F3HP $280–380, chrome F2 $180–260); accept −10%, floor −20%; OBO; cut 10% after 14 days.
+- **Photos:** 1) front three-quarter with lens cap off; then top plate with serial and finder name, back open showing shutter curtains and light seals, through the viewfinder, bottom plate, battery compartment, any dents/brassing; short video of the shutter firing at 1s and 1/1000.
+- **State:** model, finder type, finish, serial, shutter fires at all speeds, meter works/needle moves or "meter untested", light seals new or original, viewfinder clear or desilvered, dents/brassing, included lens and caps, accessories, flaws by photo number.
+- **Pack / haul:** 2–3 lb; body cap and rear lens cap on, foam-wrapped, 10×8×8 single box with 2" cushion, 2–4 lb class, $15–20.
+- **Quote to a buyer:** "This is a [black F2 Photomic / F3HP], the pro Nikon of [1971–80]; fully mechanical shutter tested at every speed, [new light seals], and black working bodies sell for [$X] — chrome and dead-meter bodies are the ones at $150."
 
 ## Buy rule
 Buy when: an F2/F3/F body is visible in a lot under $120, or a black F2 body alone under $100. Pass when: Photomic head missing (body-only F2 ~$120), seller names "F2" and prices at $250+. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).

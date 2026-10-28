@@ -1,5 +1,5 @@
 # Religious jewelry (Jerusalem crosses, crucifixes, saint medals, rosaries, Stars of David, Hamsa; makers Creed, Chapel/HMH, Bliss, Catamore, Israeli 1950s–70s silversmiths, James Avery, Tiffany, Mexican Taxco)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; all prices estimates, verify); Israeli silver hallmark guide (Assay Office of Israel marks, e.g. "925" with Israeli assay stag, and "Made in Israel" / "Israel Sterling"), https://www.silvercollection.it/ISRAELSILVERMARKS.html; Creed Sterling history (https://www.creedjewelry.com); James Avery (https://www.jamesavery.com); no Terapeak rows for religious jewelry in /home/claude/game-platform/db/comps.jsonl. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; all prices estimates, verify); Israeli silver hallmark guide (Assay Office of Israel marks, e.g. "925" with Israeli assay stag, and "Made in Israel" / "Israel Sterling"), https://www.silvercollection.it/ISRAELSILVERMARKS.html; Creed Sterling history (https://www.creedjewelry.com); James Avery (https://www.jamesavery.com); no Terapeak rows for religious jewelry in /home/claude/game-platform/db/comps.jsonl. · tells 2026-10-13
 Slug: religious-jewelry · Aliases: Jerusalem cross, Crusader cross, Maltese cross pendant, crucifix, saint medal, miraculous medal, rosary, sterling cross, filigree cross, Star of David, hamsa, Christian jewelry, Catholic medal, Byzantine cross
 Summary: Base-metal/plated medals, crosses, souvenir pieces $5–25; sterling crosses and Israeli filigree Jerusalem crosses $25–90; designer sterling (James Avery, Tiffany) and Victorian/early 20th c. $60–250; gold crosses and antique reliquaries $150–1,500+ (often melt-driven).
 Buy rule (short): Buy only stamped sterling at ≤ $15 or stamped 14K/18K below melt; pass on unmarked filigree souvenirs over $20.
@@ -65,7 +65,13 @@ Gold crosses described as "gold tone"; sterling marks on rosary crucifix backs; 
 Pocket size: bubble mailer/small box, $5–6 first class.
 
 ## Selling it (for the buyer-facing listing)
-Dimensions, weight in grams, mark photo, metal test result, stone type ("red glass" unless tested), period ("mid-20th c. Israeli souvenir style"), condition of wires.
+- **Title words:** metal (sterling, 14k), form (Jerusalem cross, crucifix, saint medal, rosary), maker (Creed, James Avery, Bezalel), origin (Israel), "vintage", size, weight. Junk: "Crusader", "antique" for souvenir pieces, "rare". `Vintage Israeli Sterling Silver Filigree Jerusalem Cross Pendant 1.5 in Signed`
+- **Where:** eBay BIN with offers; Etsy sells retired James Avery and Bezalel filigree a little higher; list in the Easter and Christmas run-ups.
+- **Price position:** at the sold median (Jerusalem cross pendants $20, sterling medals $20–60, signed Bezalel/retired Avery $50–150), OBO, accept −20%; floor is silver weight; cut after 6 weeks.
+- **Photos:** piece on neutral ground with ruler; mark close-up (back of crucifix, bail); chain clasp; stones close-up; piece on a gram scale; metal test result; wear on wires.
+- **State:** dimensions, weight in grams, mark, metal test result, stone type ("red glass" unless tested), period ("mid-20th c. Israeli souvenir style"), chain included or not, flaws by photo number.
+- **Pack / haul:** pocket; bubble mailer or small box, $5–6 first class.
+- **Quote to a buyer:** "This is a [signed Israeli] sterling [filigree Jerusalem cross], [8] grams, [1960s]; marked sterling examples sell for $[30–80], and the plated souvenir version is under $15."
 
 ## Buy rule
 Profit = median × 0.87 − ~$5 − ~$5 − price ≥ max($50, price). Even a $90 sale nets ~$68 before price: max buy ≈ $18. Buy only stamped sterling at ≤ $15, or stamped 14K/18K under 60% of melt (weigh first). No authentication-dependent designer pieces.

@@ -1,5 +1,5 @@
 # Stamp collections and albums (Scott, Harris, Minkus, White Ace, generic albums, stock books, kiloware)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type); Scott catalogue conventions · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type); Scott catalogue conventions · tells 2026-10-13
 Slug: stamp-collections · Aliases: stamp album, stamp collection, old stamps, postage stamps lot, kiloware, mint sheets, first day covers
 Summary: kid/beginner albums and off-paper bags $10–50; mixed worldwide albums $30–150; US mint sheet hoards (sell near face) $0.5–0.8 per $1 face; specialized/classic collections $200–2,000+ (general knowledge, verify)
 Buy rule (short): pass unless photos show pre-1930 US/British Commonwealth on album pages, a Scott Specialty/White Ace/Minkus album that is well filled, or mint US sheets bought below ~50% of face.
@@ -51,7 +51,13 @@ Mint US sheets (usable postage) and classic stamps hidden inside a plain album.
 Flat, light: $5–15 media/ground.
 
 ## Selling it (for the buyer-facing listing)
-Photograph every page with value; list counts, countries, date range; do not claim catalogue values as market value.
+- **Title words:** "stamp collection" + album brand (Scott International, Harris) + scope (worldwide, US) + date range + count or weight + "mint sheets"/"face value" if so + standout items by Scott number. Junk: "rare stamps", "catalogue value $X", "estate find". Example: `Scott International Worldwide Stamp Collection Album 1900-1960 Thousands Mounted`.
+- **Where:** eBay auction with a low start (dealers bid the good material; mixed lots median ~$100); HipStamp for classic US/BC; mint US sheets sell as postage at 50–80% of face.
+- **Price position:** list at the sold median (filled worldwide album $40–150, lots by the pound ~$50–130, classic material $200+); accept −20%, floor −30%; OBO; cut 15% after 45 days; never quote catalogue value as market value.
+- **Photos:** 1) album open at the strongest page; then every page with value, the spine and cover, mint sheets with face visible, any classic stamps (Columbians, Zeppelins) individually front and back, perforations and gum.
+- **State:** counts, countries, date range, album brands, mint vs used, face value of usable postage, condition (hinged, gum, faults), standout items by Scott number, "not expertized", flaws by photo number.
+- **Pack / haul:** flat and light, 2–6 lb; album in a plastic bag, cardboard-stiffened box, Media Mail/Ground $5–15.
+- **Quote to a buyer:** "[N] pages, [countries], [date range], with [X dollars of mint US postage / the Zeppelin set C13–C15] on the [page] — photographed page by page; comparable albums have sold for [$X], and the postage alone is worth [$Y] at face."
 
 ## Buy rule
 Profit = median × 0.87 − $10 − $10 − price ≥ max($50, price). Requires page-by-page photos before buying. Classic high-value singles need expertising → pass.

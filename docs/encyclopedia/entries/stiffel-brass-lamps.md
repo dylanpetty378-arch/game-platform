@@ -1,5 +1,5 @@
 # Stiffel and brass table lamps (Stiffel, Frederick Cooper, Chapman, Westwood, Rembrandt, generic brass)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type); Stiffel background as commonly published by collector/decorator sites (e.g. https://www.collectorsweekly.com/lighting/lamps — not fetched this run)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in db/comps.jsonl for this type); Stiffel background as commonly published by collector/decorator sites (e.g. https://www.collectorsweekly.com/lighting/lamps — not fetched this run)
 Slug: stiffel-brass-lamps · Aliases: Stiffel lamp, brass candlestick lamp, Hollywood Regency brass lamp, oil lamp style lamp, converted oil lamp, neoclassical brass lamp, mid century brass lamp
 Summary: generic brass/glass-font lamps $25–70; signed Stiffel standard table lamps $60–150 each, $150–350 a pair; Stiffel/Frederick Cooper/Chapman designer forms (tole, faux bamboo, obelisk, pairs) $250–800+ (general knowledge, verify)
 Buy rule (short): only buy a signed Stiffel/Chapman/F. Cooper pair or a designer form at ≤ $60; single generic brass lamps are a pass — shipping a 30" lamp eats the margin.
@@ -48,7 +48,13 @@ Unmarked tole and faux-bamboo pieces (Chapman, Frederick Cooper) and Laurel/Paul
 28–34" tall, 6–10 lb; double box, harp removed and wrapped, glass font packed separately. $25–40 to ship nationally. Fragile if glass.
 
 ## Selling it (for the buyer-facing listing)
-State height, maker mark (photo of stamp), socket type, cord condition, whether it works, and that no shade is included. Never call it Stiffel unless marked.
+- **Title words:** "Stiffel" (only if stamped) / Frederick Cooper / Chapman, "table lamp pair", form (faux bamboo/tole/urn/candlestick/Hollywood Regency), "solid brass", height, "mid century". Junk: "Stiffel style", "vintage lamp" alone, "works great" without a shade note. `Stiffel Solid Brass Faux Bamboo Table Lamps Pair 30" Hollywood Regency Signed`
+- **Where:** FB Marketplace local for singles and anything generic (shipping $25–40 kills eBay); eBay BIN with offers for signed designer pairs and forms (median $100 single Stiffel).
+- **Price position:** signed single at the sold median ($100), OBO, accept −20% local; pairs at $150–350, designer forms at $250–800, firm 3 weeks; generic $25–70 local. Cut 15% at 30 days.
+- **Photos:** first: lamp lit (no shade) against a plain wall; then socket shell stamp, label under felt, base underside, glass font, magnet on the brass, lacquer spotting and dents close-up, cord and plug, harp.
+- **State:** maker mark wording (never call it Stiffel unmarked), height, solid brass (magnet test), socket type, cord condition, works or not, lacquer wear and dents by photo number, no shade included.
+- **Pack / haul:** 28–34" tall, 6–10 lb; harp removed, glass font packed separately, double box, $25–40; fits a passenger seat.
+- **Quote to a buyer:** "Signed [Stiffel] [faux bamboo] pair, solid brass with the original lacquer — single generic brass lamps are $40; the matched designer-form pairs are what sells at $250+."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$30 ship to buyer − ~$30 ship to Dylan − price ≥ max($50, price). A single generic lamp never clears it. Buy only a marked Stiffel pair or designer form at ≤ $60 where median ≥ $250. Must be tested (lights on) — untested wiring = pass. Fits passenger seat lying down.

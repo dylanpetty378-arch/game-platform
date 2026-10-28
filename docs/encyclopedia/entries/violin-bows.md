@@ -1,5 +1,5 @@
 # Violin bows (antique / trade bows) (Mirecourt workshops: Bazin, Ouchard, Cuniot-Hury, Morizot, Husson; German: Nürnberger, Pfretzschner, Knopf; student: Glasser)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Brompton's auction archive (Mirecourt makers: Bazin, Ouchard, Cuniot-Hury, Morizot), eBay sold "antique violin bow", Maestronet forum rules of thumb
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Brompton's auction archive (Mirecourt makers: Bazin, Ouchard, Cuniot-Hury, Morizot), eBay sold "antique violin bow", Maestronet forum rules of thumb
 Slug: violin-bows · Aliases: fiddle bow, antique bow, old violin bow, pernambuco bow, viola bow, cello bow, French bow, German trade bow
 Summary: Fibreglass/brazilwood/Chinese student $10–40; unstamped nickel-mounted pernambuco trade bows $100–300; stamped Mirecourt workshop and silver-mounted German $600–3,000; Ouchard, Sartory, Voirin, Peccatte, real Tourte $5,000–100,000+.
 Buy rule (short): Buy a legible maker stamp (Bazin, Morizot, Cuniot-Hury, Nürnberger, Pfretzschner, Knopf), straight stick, ≤ $150; lead on good frogs without a stamp photo; pass unstamped/brazilwood/plastic/warped.
@@ -69,9 +69,13 @@ Under 1 lb; ship in a rigid tube; $10–15. Resell on eBay or via Tarisio/Brompt
 authenticate from photo alone – Dylan's rule says pass unless the stamp is legible in the photo.
 
 ## Selling it (for the buyer-facing listing)
-State stamp (with photo), stick wood, mount metal, weight in grams, length, frog material and eye, tip plate material,
-straightness/camber, hair condition, any repairs. Photograph the stamp, both sides of the frog, the head in profile and
-the whole stick sighted. Title: stamp/maker, "pernambuco", "silver mounted", country/era, "violin bow", weight.
+- **Title words:** stamp/maker (Bazin, Nürnberger, Pfretzschner, "unstamped"), "pernambuco" (or brazilwood honestly), "silver mounted"/"nickel mounted", country/era (Mirecourt, German c. 1920), "violin bow", weight in grams, "needs rehair". Junk: "Tourte" stamp claimed as real, "antique" on Glasser, "master". `Antique German Silver Mounted Pernambuco Violin Bow Stamped Nürnberger 60g Needs Rehair`
+- **Where:** eBay BIN with offers for unstamped trade and German bows (players and shops); stamped Mirecourt and French makers sell for far more at Tarisio or Brompton's; lift around school-term starts.
+- **Price position:** at the sold median (unstamped needs-rehair $80–250, nickel pernambuco trade $100–300, silver-mounted unstamped $150–400, stamped German $300–1,500), OBO, accept −15%, floor $60; cut after 30 days; consign stamped French.
+- **Photos:** stamp above the frog sharp; both sides of the frog and the slide; head in profile; tip plate; whole stick sighted for straightness; hair and winding; bow on a gram scale; any repairs.
+- **State:** stamp with photo, stick wood, mount metal, weight in grams, length, frog material and eye, tip plate, straightness/camber, hair condition, repairs, cracks at the head by photo number.
+- **Pack / haul:** under 1 lb in a rigid tube, $10–15; shoebox class.
+- **Quote to a buyer:** "This is a [stamped Nürnberger] [silver-mounted] pernambuco bow, [60 g], straight with [good camber], needing only a rehair; stamped German workshop bows sell for $[300–1,500], and the fiberglass student bows are $20."
 
 ## Buy rule
 Buy when: a legible maker stamp (Bazin, Morizot, Cuniot-Hury, Nürnberger, Pfretzschner, Knopf) is visible, stick

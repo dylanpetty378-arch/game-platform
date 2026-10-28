@@ -1,5 +1,5 @@
 # Vintage microscopes (Bausch & Lomb, Spencer / American Optical, Leitz, Zeiss, Nikon, Olympus, Swift, Unitron, Japanese student scopes)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); maker reference: https://www.microscopist.net/ (American microscope makers database, known reference) ; Craigslist listing 7954138060 (photo)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); maker reference: https://www.microscopist.net/ (American microscope makers database, known reference) ; Craigslist listing 7954138060 (photo)
 Slug: vintage-microscopes · Aliases: antique microscope, brass microscope, monocular microscope, student microscope, lab microscope, compound microscope, "science lab decor"
 Summary: Japanese/US student scopes $30–90; 1930s–60s B&L/Spencer/AO lab monoculars $60–175; brass 19th-c. or Leitz/Zeiss stands with cases $200–800+; named-maker brass in fitted box $500–3,000+ (general knowledge, verify)
 Buy rule (short): Buy only brass/lacquered pre-1920 stands or Leitz/Zeiss/B&L black-enamel stands with fitted wood case at ≤ $60; black-crackle student scopes are a pass.
@@ -50,7 +50,13 @@ Owners price all microscopes alike. The value is in brass Victorian stands, the 
 Heavy (6–15 lb). Remove objectives and eyepiece, wrap separately, lock focus, double-box. ~$20–35 to ship.
 
 ## Selling it (for the buyer-facing listing)
-State maker, serial, objective magnifications/NA, focus action condition, optics clarity (photo through eyepiece), whether lamp/mirror present, case/key.
+- **Title words:** maker + model/serial + "microscope" + "brass"/"black" + era + "with case" + objectives (10x/40x/100x oil) + "monocular/binocular". Junk: "old microscope", "steampunk decor", "science". Example: `Vintage Bausch & Lomb Black Brass Monocular Microscope Fitted Case 3 Objectives 1930s`.
+- **Where:** eBay BIN with offers (hobbyists and decorators; brass continental stands sell within weeks, student scopes sit); Victorian Beck/Watson stands to a scientific-instrument auction; Q4 slightly better.
+- **Price position:** list at the sold median (student $30–90, B&L/AO/Nikon lab monoculars $60–175, Leitz/Zeiss/B&L brass 1900–30 $200–600; Victorian brass $500+); objectives like a Leitz 100x oil sell separately $40–150; accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) full stand in profile on plain background; then arm engraving and serial, each objective's engraving, through-the-eyepiece photo of a slide, stage and condenser, mirror/lamp, case open with accessories and key, any corrosion/chips.
+- **State:** maker, serial, objective magnifications/NA, focus action (coarse and fine) condition, optics clarity with an eyepiece photo, lamp/mirror present, case and key, accessories (micrometer, slides), flaws by photo number.
+- **Pack / haul:** 6–15 lb; remove objectives and eyepiece, wrap separately, lock focus, body in a box with 2" foam, double-boxed, 10–15 lb class, $20–35.
+- **Quote to a buyer:** "A [Leitz Wetzlar] stand, serial [X] dating it to [year], in its fitted case with [3] objectives including the [100x oil] — the Japanese student scopes are the $40 ones; [maker] stands with case sell for [$X], optics clear in photo [4]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$25) − ship to Dylan (~$25) − price ≥ max($50, price). A student scope at $60 sold → loss at any price. Only buy brass-tubed or black-and-brass horseshoe stands with an engraved maker/serial (Leitz, Zeiss, B&L, Spencer, English makers) at ≤ $60–100, ideally with fitted case. Passenger-seat size OK. No authentication issue.

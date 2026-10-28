@@ -1,5 +1,5 @@
 # Buffalo Pottery (Buffalo Pottery Co., Buffalo NY; Deldare, Emerald Deldare, Abino, Blue Willow, commemorative/"Multi-color" jugs)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); reference sites for verification: https://www.worthpoint.com, https://www.liveauctioneers.com, https://www.ebay.com/sh/research (Terapeak), https://en.wikipedia.org/wiki/Buffalo_China
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); reference sites for verification: https://www.worthpoint.com, https://www.liveauctioneers.com, https://www.ebay.com/sh/research (Terapeak), https://en.wikipedia.org/wiki/Buffalo_China
 Slug: buffalo-pottery · Aliases: Buffalo China, Larkin pottery, Deldare, Deldare ware, Buffalo Pottery jug, Holland pitcher, Gaudy Willow, "1907 pitcher", Larkin premium pitcher
 Summary: plain dinnerware/Blue Willow pieces $15–60; multicolor character jugs (Holland, George Washington, Roosevelt Bears, Whirl of the Town, Pilgrim, Cinderella etc.) $60–250 perfect; Deldare $100–600; Emerald Deldare / Abino $400–2,500+ (general knowledge, verify)
 Buy rule (short): Buy only perfect (no cracks) Deldare/Emerald Deldare/Abino or rare named jugs at ≤ 1/3 of resale; cracked or common pieces = pass.
@@ -52,7 +52,13 @@ Collector base is older and shrinking; perfect Deldare still sells steadily, but
 Double-box it: wrap in bubble, put 2" of fill all round inside a box, then put that box in a second box. A jug weighs 2–4 lb packed and costs $14–22 to ship in the US.
 
 ## Selling it (for the buyer-facing listing)
-Photograph the base mark and date, both sides of the scene, the inside, and the rim and spout under a light. Say whether there is crazing or staining, and name the pattern (Holland, Deldare, etc.) in the title. Disclose any hairlines plainly; buyers look for them.
+- **Title words:** "Buffalo Pottery", line (Deldare Ware/Emerald Deldare/Gaudy Willow), pattern or jug name (Holland, Dr. Syntax, Fallowfield Hunt), form, date from the mark, artist initials. Junk: "old English pottery", "antique pitcher" alone, "rare". `Buffalo Pottery Deldare Ware 1909 Mug Ye Lion Inn Signed Olive`
+- **Where:** eBay BIN with offers (Deldare median $38, perfect jugs higher); auction for Emerald Deldare, Abino and Roosevelt Bears; restaurant ware and plain Willow local.
+- **Price position:** perfect Deldare and named jugs at the sold median to p75 ($71), OBO, accept −15%; cracked pieces at 30–50% of that; cut 10% at 45 days (30–90 days typical).
+- **Photos:** first: scene side in daylight; then other side, base mark with date, inside, rim and spout under a lamp, handle join, crazing/staining close-up, UV shot of spout and handle.
+- **State:** line and pattern name, form, date from mark, artist initials, dimensions, crazing/staining, every hairline and chip plainly by photo number, restoration checked under UV.
+- **Pack / haul:** bubble, 2" fill, box inside a second box; jug 2–4 lb packed, $14–22.
+- **Quote to a buyer:** "[Deldare] [1909] mug with the olive ground and hand-tinted transfer, no hairlines — cracked Buffalo art ware loses 50–70%; this one's perfect, and the dated 1905–1913 pieces are the art period."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$18 ship-out − ~$18 ship-in − price, and it must be ≥ max($50, price). In practice: Deldare and rare jugs only, perfect condition, priced ≤ ~35% of the sold median. Pass on any crack, chip or restoration, and on restaurant ware. Ask for a base-mark photo and a light-through photo for hairlines.

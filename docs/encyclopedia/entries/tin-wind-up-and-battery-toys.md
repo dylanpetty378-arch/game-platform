@@ -1,5 +1,5 @@
 # Tin wind-up and battery-operated toys (Marx, Chein, Unique Art, Japan 1950s–60s, Schuco, Lehmann)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold/active listings (Marx Funny Drummer tiger, Happy Drummer bunny Taiwan NOS $80 ask), Antiques Roadshow Marx appraisals, general collector pricing; Google Lens check 2026-10-13 (asking-price based) · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold/active listings (Marx Funny Drummer tiger, Happy Drummer bunny Taiwan NOS $80 ask), Antiques Roadshow Marx appraisals, general collector pricing; Google Lens check 2026-10-13 (asking-price based) · tells 2026-10-13
 Slug: tin-wind-up-and-battery-toys · Aliases: tin toy, wind up toy, windup, clockwork toy, mechanical toy, battery toy, tin litho, tin robot, space toy
 Summary: Taiwan/China 1970s+, repros and rusty non-working toys $10–40; common Marx and working Japan plush drummers $50–150; Merrymakers, Lil Abner band, Japan tin cars and Linemar characters $200–600; robots, rare Schuco and boxed pre-war Marx $1,000–10,000+.
 Buy rule (short): Japan/Marx/Schuco marked and working at ≤ 35% of sold, or any robot/space toy ≤ $100; pass Taiwan/China 1970s+ and non-working battery toys.
@@ -78,9 +78,13 @@ Collectors are mostly older, with strong demand for robots and space toys from U
 - 1–3 lb; pack carefully; $12–20. eBay ~13%.
 
 ## Selling it (for the buyer-facing listing)
-- Maker and mark, country, size, wind-up or battery, working (with a video), every action it performs, litho condition, rust, original box and its condition.
-- Photograph the mark, every side, the base and battery box, and the key.
-- Title keywords: "Vintage Marx Tin Wind Up", "1950s Japan Tin Litho Battery Operated", "Nomura TN Robot", "Linemar".
+- **Title words:** maker and mark (Marx/Linemar/Nomura TN/Masudaya TM/Horikawa SH), "tin litho", "wind up"/"battery operated", toy name (Merrymakers, Robby Robot, Funny Drummer), country ("Japan"), decade, "working", "with box". Junk: "antique" on Taiwan/China, "steampunk", "rare", "retro". `Vintage 1950s Japan Tin Litho Battery Operated Nomura TN Robot Working Box`
+- **Where:** eBay BIN with offers (US and Japanese robot buyers; Q4 peak); Morphy/Milestone/Bertoia for robots and pre-war boxed Marx; Taiwan/China 1970s+ local.
+- **Price position:** common Marx/Japan drummers working at the sold median ($75–150), OBO, accept −15%; Merrymakers/Lil Abner/Japan cars at $200–600, firm 3 weeks; robots to auction or at p75; non-working at 30–40%. Cut 10% at 45 days.
+- **Photos:** first: toy front with box; then maker mark close-up, country mark, every side, base and battery box contacts, key, litho scratches/rust, box all sides; video of every action it performs.
+- **State:** maker, mark, country, size, wind-up or battery, works (video) and each action, litho condition, rust, repaint (none or where), original box and its condition, key included.
+- **Pack / haul:** 1–3 lb, boxed with the toy immobilized and box protected separately, $12–20.
+- **Quote to a buyer:** "[Nomura TN] marked, [1950s Japan], all [three] actions working on video with the original box — boxes double the price, and the 1970s Taiwan copies with plastic gears are $30."
 
 ## Buy rule
 Buy when: Japan/Marx/Schuco marked, working, at ≤ 35% of sold value; or any robot/space toy at ≤ $100.

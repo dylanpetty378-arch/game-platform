@@ -1,5 +1,5 @@
 # Antique portraits (crayon/charcoal and pastel enlargements, painted ancestor portraits, tintypes, ambrotypes, daguerreotypes, convex glass portraits, chromolithograph "lady" prints)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Library of Congress photo-format guide https://www.loc.gov/preservation/care/photo.html (not loaded) ; Cowan's/Hindman photography auction archives https://hindmanauctions.com (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references: Library of Congress photo-format guide https://www.loc.gov/preservation/care/photo.html (not loaded) ; Cowan's/Hindman photography auction archives https://hindmanauctions.com (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: antique-portraits · Aliases: crayon portrait, charcoal portrait, pastel portrait, ancestor portrait, grandma portrait, Victorian portrait, framed portrait, convex glass portrait, bubble glass portrait, oval portrait, tintype, ambrotype, daguerreotype, cabinet card, CDV, solar enlargement
 Summary: Unidentified crayon/pastel enlargements and chromolith lady prints $15–80 (frame often worth more); convex-glass portraits with original frames, identified-sitter crayons, cased ambrotypes/tintypes $40–200; occupational, Civil War, African-American and named-artist painted portraits $200–5,000+.
 Buy rule (short): Buy only small cased images (occupational, military, outdoor, ethnic subjects) and small signed/painted portraits at ≤ 25% of sold; pass on large framed crayon enlargements and prints — they ship big and sell cheap.
@@ -55,7 +55,13 @@ Large ancestor portraits: very weak, slow, mostly décor and Halloween ("creepy 
 Large framed 16x20"+ portraits with glass: oversized, $40–80 and high breakage; remove glass. Cased images and cards: tiny, $5–8.
 
 ## Selling it (for the buyer-facing listing)
-Medium (crayon over photo, pastel, oil, print), size, sitter ID and provenance, frame description and size, studio labels, condition. For cased images: process, plate size (sixth, quarter), case type.
+- **Title words:** medium (crayon/charcoal enlargement, pastel, daguerreotype, ambrotype, tintype, convex glass), subject (Victorian woman, child, soldier, occupational), "cased", plate size (sixth, quarter), frame type (ornate gesso gilt, oval convex), size, studio. Junk: "painting" on a crayon enlargement, "Civil War" unidentified, "creepy" unless aimed at Halloween buyers, "rare". `Antique Victorian Crayon Charcoal Portrait Woman Ornate Gesso Gilt Oval Frame 20x24`
+- **Where:** large framed portraits local on FB (décor and Halloween buyers; glass and size); cased images and cabinet cards on eBay 7-day auction — a liquid collector market.
+- **Price position:** at the sold median (crayon portraits $40, convex-glass complete $40–200, daguerreotypes $65, Civil War tintypes $14 median but $65+ when identified), OBO, accept −25%, floor $15; cut after 30 days; frame may be worth more than the image — say so.
+- **Photos:** full piece; frame corners and gesso detail; surface close-up (crayon strokes over photo base); back with studio labels; cased images open and closed, plate edge, case type; any flaking, mould, foxing.
+- **State:** medium, size with and without frame, sitter ID and provenance, studio labels, frame description, glass condition, foxing, flaking, water damage; for cased images: process, plate size, case type, mat and preserver by photo number.
+- **Pack / haul:** large framed with glass 16×20+ oversized $40–80, glass removed; passenger-seat class ~10 lb — local; cased images and cards $5–8.
+- **Quote to a buyer:** "This is a [1890s] [Chicago Portrait Co.] crayon enlargement in its original [ornate gesso gilt] frame, [20×24]; the frame alone costs $[100+] at a framer, and complete portraits sell for $[40–200]."
 
 ## Buy rule
 Large framed portraits fail on shipping. Buy only cased images and small identified/occupational photos or small signed paintings at ≤ 25% of sold. Painted portraits claimed to be by known artists need professional authentication — pass unless dirt cheap. Ivory miniatures: ivory restrictions — pass.

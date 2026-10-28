@@ -1,5 +1,5 @@
 # Japanese dolls (musha ningyo / gogatsu ningyo, hina ningyo, kimekomi, gofun-faced ichimatsu, hakata, kokeshi, geisha souvenir dolls; makers Yoshitoku, Kyugetsu, Mataro, Ningyo no Kyugetsu)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Yoshitoku doll history https://www.yoshitoku.co.jp/ ; Kyugetsu history https://www.kyugetsu.com/ ; Japanese Doll collector notes (Alan Scott Pate, "Japanese Dolls: The Fascinating World of Ningyo")) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Yoshitoku doll history https://www.yoshitoku.co.jp/ ; Kyugetsu history https://www.kyugetsu.com/ ; Japanese Doll collector notes (Alan Scott Pate, "Japanese Dolls: The Fascinating World of Ningyo")) — prices are estimates (general knowledge, verify)
 Slug: japanese-dolls · Aliases: samurai doll, warrior doll, Boys Day doll, musha ningyo, gogatsu ningyo, hina doll, girls day doll, geisha doll, kimono doll, ichimatsu, kokeshi, Hakata doll, doll in glass case
 Summary: Post-war souvenir geisha/samurai dolls in cases $15–60; better 1950s–80s musha ningyo with gofun faces and silk brocade $50–200; signed maker sets (Yoshitoku, Kyugetsu) and full hina sets $150–800; Edo/Meiji gofun dolls (gosho, ichimatsu, early musha) $300–3,000+; vintage kokeshi $10–80 (signed creative/sosaku $50–400).
 Buy rule (short): Buy pre-war (Meiji–Showa early) gofun dolls with original silk and tags, or signed maker dolls, at ≤ 30% of median; pass on souvenir dolls in glass cases unless ≤ $15 and shipped without the case.
@@ -64,7 +64,13 @@ Gosho and ichimatsu dolls in plain "Japanese doll" listings; signed fuda tags; M
 Dolls alone: $15–25 well-padded. With glass case: ship case separately or discard; risk high and size ~16×12×18 in.
 
 ## Selling it (for the buyer-facing listing)
-Identify type (musha ningyo/hina/ichimatsu), face material (gofun vs plastic), fabrics, height, accessories present, era estimate, any tag/signature.
+- **Title words:** type (musha ningyo/hina ningyo/ichimatsu/kokeshi), "Japanese doll", "gofun", maker or artist (Yoshitoku, Kyugetsu, signed kokeshi), era (Showa/Meiji), "silk brocade", height, "glass case" if included. Junk: "geisha doll" on musha, "antique" on 1970s souvenirs, "samurai figure". `Vintage Musha Ningyo Samurai Doll Gofun Face Silk Brocade Armor 14" Showa`
+- **Where:** eBay BIN with offers (musha median $80; Japan-based sellers set the floor); auction for Edo/Meiji gosho and signed-fuda pieces; souvenir case dolls local.
+- **Price position:** post-war musha at the sold median ($80), OBO, accept −20%; signed Yoshitoku/Kyugetsu and full hina sets at $150–800 median, firm 3 weeks; souvenir $15–60 local. Cut 15% at 45 days — slow niche.
+- **Photos:** first: doll front, case removed, daylight; then face close-up (gofun crackle), hands, fabric and gold thread, armor plates and fittings, back, base/fuda tag, accessories laid out, each chip or moth hole, ruler.
+- **State:** type, face material (gofun vs plastic), fabrics (silk vs synthetic), height, accessories present/missing, era estimate with the tells, tag/signature wording, gofun cracks/insect damage/fading by photo number.
+- **Pack / haul:** doll alone double-boxed, $15–25; glass case shipped separately or discarded (16x12x18, high breakage).
+- **Quote to a buyer:** "[Showa-era] musha ningyo with a layered gofun face, glass eyes and real lacquered armor, [Yoshitoku] tag — the plastic-faced souvenir samurai are $30; the gofun maker dolls are the $150+ pieces."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$25 ship out − ~$25 ship in − price ≥ max($50, price). Only gofun pre-war or signed dolls qualify; post-war souvenir dolls never do. Cased dolls fit a passenger seat but ship badly. No authentication needed (visual), but high ID difficulty.

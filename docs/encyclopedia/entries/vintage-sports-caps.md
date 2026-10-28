@@ -1,5 +1,5 @@
 # Vintage sports and racing caps (Sports Specialties, Starter, AJD, American Needle, Annco, Logo 7, New Era (pre-2000), Drew Pearson, Competitor, Twins Enterprise; racing/F1 and NASCAR caps; Mitchell & Ness and New Era reissues)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Sports Specialties history (Dave Warsaw, LA; acquired by Nike 1993); vintage cap guides on Grailed/Reddit r/VintageCaps; Mitchell & Ness product pages https://www.mitchellandness.com ; eBay sold search https://www.ebay.com/sch/i.html?_nkw=vintage+sports+specialties+script+snapback&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13 (sports-memorabilia and bobbleheads rows unrelated).
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Sports Specialties history (Dave Warsaw, LA; acquired by Nike 1993); vintage cap guides on Grailed/Reddit r/VintageCaps; Mitchell & Ness product pages https://www.mitchellandness.com ; eBay sold search https://www.ebay.com/sch/i.html?_nkw=vintage+sports+specialties+script+snapback&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13 (sports-memorabilia and bobbleheads rows unrelated).
 Slug: vintage-sports-caps · Aliases: vintage hat, snapback, vintage snapback, script hat, Sports Specialties, Starter hat, AJD, trucker hat, NBA hat, NFL hat, Bulls hat, Raiders hat, Ferrari hat, racing hat, F1 cap, NASCAR hat, deadstock hat
 Summary: Reissues and modern licensed caps (Mitchell & Ness, New Era, '47) $10–35; worn 1980s–90s Starter/AJD/American Needle $20–60; 1980s–90s Sports Specialties script, "Grid", "Wave", Shadow, "Laser" and Starter tri-power in good condition $60–250; deadstock with tags, rare teams/events, 1970s wool caps $150–600+.
 Buy rule (short): Inside tag decides: Sports Specialties, Starter (with 1990s tags), AJD, Annco, American Needle "Blockhead" = buy at ≤ 1/3 resale; Mitchell & Ness, New Era 2000s+, '47 = pass; F1/Ferrari caps need official-sponsor and era tells, mostly pass.
@@ -66,7 +66,13 @@ Strong streetwear demand for 1980s–90s caps (Grailed, eBay, Depop); fast sales
 Light (< 0.5 lb) but must not be crushed; small box $8–12 each way.
 
 ## Selling it (for the buyer-facing listing)
-Photograph inside tags, sweatband, snap, undervisor and embroidery close-ups; state brand and era, condition and fit.
+- **Title words:** "vintage 90s" + team + brand (Sports Specialties, Starter) + style (Script, Grid, Shadow, tri-power) + "snapback" + "wool" + "Korea"/"USA" tag + "deadstock" if tagged. Junk: "retro", "throwback", "vintage" on Mitchell & Ness. Example: `Vintage 90s Sports Specialties Chicago Bulls Script Snapback Wool Korea Tag Black`.
+- **Where:** eBay BIN with offers and Grailed at the same price (streetwear buyers; authentic SS/Starter sells fast); Depop for worn decent-tier; nothing beats these.
+- **Price position:** list at the sold median (worn Starter/AJD $20–60, SS Bulls script $80–200, Raiders/Kings scripts higher, M&N reissues ~$20); accept −10%, floor −20%; OBO; cut 10% after 21 days; deadstock firm.
+- **Photos:** 1) front straight-on on a plain background; then inside tags (brand, size, country), sweatband, snap closure, undervisor colour, embroidery close-up, each side panel, any stains/fade/crushing.
+- **State:** brand and era from the tag, team, style name, material, fit (snapback/fitted size), undervisor colour, tag country, condition (sweatband stains, fade, crushed crown) by photo number, "original not reissue" with the tag as evidence.
+- **Pack / haul:** under 0.5 lb but must not be crushed; stuff the crown with paper, small box (8×8×6), 1-lb class, $8–12.
+- **Quote to a buyer:** "An original [Sports Specialties Bulls script] with the [Korea] tag in photo [2], not the Mitchell & Ness reissue that sells for $20 — original SS scripts sell for [$X]; green undervisor and sweatband clean."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$10 to buyer − ~$10 to Dylan − price; pass unless ≥ max($50, price).

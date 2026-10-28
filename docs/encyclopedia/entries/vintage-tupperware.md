@@ -1,5 +1,5 @@
 # Vintage Tupperware (Servalier canisters, Wonderlier bowls, Millionaire line, Fix-N-Mix, pitchers, Ice Tups; Tupperware Home Parties)
-Updated: 2026-10-13 · Sources: no web search budget this run; written from general knowledge. db/comps.jsonl has one Tupperware line (inside "kitchen-canister-sets": "$19.84 Tupperware Kitchen Tool Gadget Mini Classic Clear Canister", Jul 3 2026, Terapeak 365d). Verification sites: eBay sold https://www.ebay.com/sch/i.html?_nkw=vintage+tupperware+servalier&LH_Sold=1 ; Tupperware history https://en.wikipedia.org/wiki/Tupperware_Brands
+Updated: 2026-10-28 · Sources: no web search budget this run; written from general knowledge. db/comps.jsonl has one Tupperware line (inside "kitchen-canister-sets": "$19.84 Tupperware Kitchen Tool Gadget Mini Classic Clear Canister", Jul 3 2026, Terapeak 365d). Verification sites: eBay sold https://www.ebay.com/sch/i.html?_nkw=vintage+tupperware+servalier&LH_Sold=1 ; Tupperware history https://en.wikipedia.org/wiki/Tupperware_Brands
 Slug: vintage-tupperware · Aliases: Tupperware canisters, Servalier, Wonderlier, harvest gold Tupperware, orange Tupperware, Tupperware set, Tupperware Millionaire, Tupperware pastel, Tupperware Jello mold, Tupperware Ice Tups
 Summary: Single pieces $5–15; 3–4 piece Servalier or Wonderlier sets in 1970s colours $25–55; full 1950s–60s pastel or Millionaire-line sets and rare pieces $60–150 (general knowledge, verify).
 Buy rule (short): Buy only complete matched 1950s–60s pastel or Millionaire-line sets with all lids at ≤ $25; pass on 1970s harvest/orange sets above $15.
@@ -48,7 +48,13 @@ Sellers overestimate value. "Grandma's Tupperware" listings ask $50–100 for 19
 Light but bulky. A 4-piece nesting set ships in a 12×12×14 box, about $15–20 (general knowledge, verify). Not fragile.
 
 ## Selling it (for the buyer-facing listing)
-Name the line (Servalier, Wonderlier), colour, number of pieces, and mould numbers. Show that all lids are present and seal. Note stains and odours.
+- **Title words:** "Tupperware" + line (Servalier, Wonderlier, Millionaire) + colour (harvest gold, avocado, pastel) + piece count + "canister set"/"nesting bowls" + "with lids" + mould numbers. Junk: "grandma's Tupperware", "retro kitchen lot", "Rubbermaid" mixed in. Example: `Vintage Tupperware Servalier Canister Set of 4 Harvest Orange with Lids 1970s`.
+- **Where:** eBay BIN with offers (retro-kitchen buyers; sets 2–6 weeks); Etsy at the same price; singles and odd lids in a FB local lot, since shipping eats them.
+- **Price position:** list at the sold median (Servalier nesting ~$25, 3–4 piece 1970s sets $25–55, 1950s–60s pastel Wonderlier $40–90, Millionaire frosted $60–150); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) set stacked with lids on, colour true in daylight; then each lid seated, mould numbers under the base, interiors for stains, lid tabs for cracks, pieces nested.
+- **State:** line name, colour, piece count, mould numbers, all lids present and sealing, stains/odours/cracked tabs by photo number, lookalikes (Rubbermaid, Eagle) excluded.
+- **Pack / haul:** light but bulky; nested, lids bagged, 12×12×14 single box, 3–4 lb class, $15–20; not fragile.
+- **Quote to a buyer:** "A complete [Servalier set of 4] in [harvest orange] with every lid sealing and mould numbers in photo [3] — the odd single canisters are the $8 pieces; matched sets sell for [$X]."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$18 to buyer − ~$18 to Dylan − price ≥ max($50, price). Even a $55 set nets about $12 before the price. This type never meets the rule unless a rare Millionaire set selling for $120+ is found for under $20. Treat as pass.

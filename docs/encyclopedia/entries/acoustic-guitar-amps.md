@@ -1,5 +1,5 @@
 # Acoustic guitar amplifiers (Roland AC, Fishman Loudbox, AER)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Reverb/eBay sold knowledge, Guitar Center used pricing
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Reverb/eBay sold knowledge, Guitar Center used pricing
 Slug: acoustic-guitar-amps · Aliases: acoustic amp, Roland amp, Roland Acoustic Chorus, Loudbox, AER Compact, acoustic guitar amplifier
 Summary: Crate/Behringer/Kustom junk $30–70; Roland AC-33/60, Loudbox Mini $150–300; Roland AC-90/100, Fishman Artist/Performer, AER Compact 60 $250–800; AER Domino/Schertler/Henriksen $800–1,500.
 Buy rule (short): Working AER Compact 60 < $250, Roland AC-90/100 < $80, Fishman Artist/Performer < $120; pass anything with a described fault.
@@ -48,7 +48,13 @@ Model number and wattage; that a faint chorus or scratchy pot is a $30 fix a buy
 AC-100 ~35 lb: $60–90 ground, needs a double box. Fees eat a big share – the spread must be $200+ for a heavy amp. AER Compact 60 is 14 lb ($30) – the best shipper.
 
 ## Selling it (for the buyer-facing listing)
-State model and revision, wattage, that both channels and all effects work (video link helps), any pot noise, and cosmetic flaws. Photograph front panel, rear plate/serial, grille, and corners. Title keywords: brand + model + "acoustic amp" + wattage + "tested working" (general knowledge, verify).
+- **Title words:** brand + model + revision + wattage + "acoustic amp" + "tested working" ("AER Compact 60/3", "Roland AC-100 Acoustic Chorus", "Fishman Loudbox Mini"); Junk: "guitar amp", "practice amp", "busking". Example: `AER Compact 60/3 Acoustic Guitar Amp 60W Tested Working Both Channels Germany`.
+- **Where:** Reverb (~8%) for AER/Fishman/Roland AC-90/100; local FB for anything heavy or under $200 (AC-100 is 35 lb, $60–90 to ship). Local beats Reverb for the heavy Rolands.
+- **Price position:** at the sold median (AC-100 $250–350; Loudbox Mini $180–250; Compact 60/3 $550–750, Terapeak median $1,000), accept −10%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo front three-quarter; then front panel with all knobs, rear plate and serial, grille, every corner and the tolex, handle, power cord; video of both channels and every effect working.
+- **State:** model and revision, wattage, both channels and all effects work, pot noise or faint chorus stated (a $30 fix buyers discount for), cosmetic tears, cover/stand included, flaws by photo number.
+- **Pack / haul:** AER 14 lb single sturdy box ($30); AC-100 35 lb double-box, corners padded, knobs protected ($60–90); passenger-seat size.
+- **Quote to a buyer:** "AER [Compact 60/3] — the German amp pro acoustic players gig with, 14 lb; both channels clean, no pot noise; new it's [$X] and used they hold [$550–750]."
 
 ## Buy rule
 Buy when: AER Compact 60 under $250; Roland AC-90/100 under $80 working; Fishman Artist/Performer under $120. Pass when: any fault described, or heavy amp priced at > 35% of resale. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (all of these do).

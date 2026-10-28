@@ -1,5 +1,5 @@
 # Graniteware and enamelware (US graniteware: Lisk, Columbian/Vollrath, Lalance & Grosjean "Agate", St. Louis Stamping "Granite Iron Ware", Matthai-Ingram; European enamel: Emo Celje (Yugoslavia), Olkusz (Poland), Romanian, Riess (Austria); Dansk Kobenstyle, Copco, Catherineholm, Cathrineholm Lotus, Le Creuset (enamelled cast iron))
-Updated: 2026-10-13 · Sources: no graniteware/enamelware sold comps in comps.jsonl; Graniteware collectors' references (National Graniteware Society, general knowledge, verify: https://graniteware.org); Cathrineholm/Dansk collector knowledge (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: no graniteware/enamelware sold comps in comps.jsonl; Graniteware collectors' references (National Graniteware Society, general knowledge, verify: https://graniteware.org); Cathrineholm/Dansk collector knowledge (general knowledge, verify). No web search this run.
 Slug: graniteware-and-enamelware · Aliases: enamelware, enamel pot, granite ware, agate ware, speckled enamel, camp cookware, Cathrineholm, Dansk Kobenstyle, Emo Celje, Romanian enamel
 Summary: Grey/blue-speckled common graniteware $10–35; 1960s–80s European enamel pots $15–40; colour/swirl graniteware (cobalt swirl, green relish, red/white) and Dansk Kobenstyle $40–150; Cathrineholm Lotus bowls/kettles and rare swirl or end-of-day pieces $80–400+.
 Buy rule (short): Pass on grey graniteware and plain European enamel pots; only Cathrineholm (lotus leaf pattern), Dansk Kobenstyle, Copco Michael Lax pots, and coloured swirl graniteware at ≤ $25.
@@ -47,7 +47,13 @@ Cathrineholm/Dansk in "kitchen stuff" lots; swirl colour pieces.
 Pots 3–6 lb, $15–20; platters $12–18.
 
 ## Selling it (for the buyer-facing listing)
-Maker stamp, size, chips mapped in photos, interior condition.
+- **Title words:** maker ("Cathrineholm", "Dansk Kobenstyle", "Lisk", "L&G Agate") + colour/pattern ("cobalt swirl", "grey speckled", "Lotus") + form (coffee pot, platter, bowl) + size + "enamelware"/"graniteware"; Junk: "camping pot", "rustic", "farmhouse decor". Example: `Cathrineholm Lotus Enamel Bowl 8" Blue Norway Mid Century Enamelware`.
+- **Where:** eBay BIN with offers for Scandinavian and swirl pieces (fast-moving); Etsy for decor buyers; common grey basins and Euro pots local. Etsy can match eBay for Cathrineholm.
+- **Price position:** at the sold median (Lotus bowl $90, p75 $130; swirl coffee pot $55; grey platter $24), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the piece on a plain background showing colour; then maker stamp underneath, every chip with rust edge, interior (burnt/crazed), rim, handle/lid, tape measure for diameter.
+- **State:** maker stamp, size, colour/pattern, chips mapped by photo number, interior condition, lid/handle present, repro check (new camp enamel has stickers and uniform speckle).
+- **Pack / haul:** pots 3–6 lb ($15–20), platters ($12–18); single box, bubble on the rim (chips start there), lid wrapped separately.
+- **Quote to a buyer:** "[Cathrineholm Norway] stamped underneath — the real Lotus, not the knockoff — [8"] in [blue] with [one small rim chip, photo 4]; these bring around [$90] and the colour is the scarce one."
 
 ## Buy rule
 Profit = median × 0.87 − shipping both ways − price. Grey platter ($25): loss. Cathrineholm bowl ($120) at ≤ $25: 104 − 30 − 25 = $49 — borderline; Dansk Kobenstyle pot ($90) at ≤ $10.

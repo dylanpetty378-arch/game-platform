@@ -1,5 +1,5 @@
 # Antique open-back 5-string banjos (1880s–1920s) (S.S. Stewart, Fairbanks, Vega, Bacon, Cole, Dobson, Washburn)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay/Reverb sold knowledge, Elderly Instruments and Retrofret catalogue pricing, banjo collector sites (Mugwumps, Banjo Hangout classifieds)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay/Reverb sold knowledge, Elderly Instruments and Retrofret catalogue pricing, banjo collector sites (Mugwumps, Banjo Hangout classifieds)
 Slug: antique-open-back-banjos · Aliases: antique banjo, 5-string banjo, open back banjo, parlor banjo, Victorian banjo, fretless banjo, Whyte Laydie, Tubaphone
 Summary: Unmarked Buckbee-style/damaged $60–150; Stewart student, Washburn, plain Bacon $150–400; Whyte Laydie, Tubaphone, Thoroughbred, Cole's Eclipse $800–3,000; Fairbanks Electric/presentation $3,000–10,000.
 Buy rule (short): Stamped Fairbanks/Vega/Stewart/Cole/Bacon < $300 with straight neck; unmarked with engraved rim or tone ring < $100; pass plain unmarked > $60.
@@ -50,7 +50,13 @@ The dowel-stick stamp (ask for a photo looking inside the rim) and tone ring. "A
 Long box (40×16×8), 6–8 lb: $40–60 ground. Reverb 8%. Pad the neck; drop the head tension before shipping.
 
 ## Selling it (for the buyer-facing listing)
-State maker/model (dowel-stick stamp), serial, pot diameter, bracket count, scale length, tone ring or not, playability (neck straight, action), head condition, missing parts. Photograph headstock front/back, inside the rim, the stamp, the heel, and a side view along the neck. Keywords: maker + model + "open back banjo" + "5 string" + "antique" + "clawhammer".
+- **Title words:** maker + model + "open back banjo" + "5 string" + era + "clawhammer" + pot size/bracket count: "Fairbanks Whyte Laydie No. 2", "S.S. Stewart Universal Favorite", "Vega Tubaphone"; Junk: "antique banjo 1900" on a Buckbee, "wall hanger", "parts". Example: `S.S. Stewart Universal Favorite 5 String Open Back Banjo 1890s 11" Pot Clawhammer Playable`.
+- **Where:** Reverb (8%; old-time players and collectors) or Banjo Hangout classifieds (no fee); named high-grade to Elderly/Retrofret consignment; unmarked Buckbees local. Reverb/Hangout beat eBay.
+- **Price position:** at the sold median (unmarked $80–150; Stewart Universal Favorite $350–600; Whyte Laydie No. 2 $1,500–2,500; Tubaphone by grade, median $203 on parts-polluted query), accept −10%, floor p25; OBO; cut 10% after 4 weeks.
+- **Photos:** first photo full front; then dowel-stick stamp inside the rim, headstock front and back, heel, a side view along the neck (straightness), tone ring, head, hooks/nuts count, tailpiece, tuners, any rim cracks; a short clawhammer clip.
+- **State:** maker/model from the dowel stamp, serial, pot diameter, bracket count, scale length, tone ring, neck straight and action, head condition, missing hooks/parts, replaced neck/refinish if any, case.
+- **Pack / haul:** long box 40×16×8, 6–8 lb; drop the head tension, pad the neck and headstock, immobilize; $40–60 ground. Fits a passenger seat.
+- **Quote to a buyer:** "[S.S. Stewart] stamped on the dowel stick, [1890s] Philadelphia, neck straight with [low] action — a playable original, not a Buckbee catalogue banjo; Universal Favorites sell [$350–600] and new open-backs of this quality are more."
 
 ## Buy rule
 Buy when: any stamped Fairbanks/Vega/Stewart/Cole/Bacon under $300 with straight neck; unmarked with engraved rim or tone ring under $100. Pass when: unmarked plain rim over $60; cracked rim or warped neck (repair rule). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (it does).

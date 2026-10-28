@@ -1,5 +1,5 @@
 # Shoe shine boxes (homemade/folk wooden boxes; Griffin, Shinola, Esquire, Kiwi, Bixby, Whittemore promotional kits; cast-iron footrests by Star, Griffin, Shinola, unmarked foundries)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: eBay sold https://www.ebay.com/sch/i.html?_nkw=antique+shoe+shine+box&LH_Sold=1 ; WorthPoint https://www.worthpoint.com/inventory/search?query=shoe+shine+box ; no rows in comps.jsonl · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: eBay sold https://www.ebay.com/sch/i.html?_nkw=antique+shoe+shine+box&LH_Sold=1 ; WorthPoint https://www.worthpoint.com/inventory/search?query=shoe+shine+box ; no rows in comps.jsonl · tells 2026-10-13
 Slug: shoe-shine-boxes · Aliases: shoeshine box, shoe shine kit, shine box, boot black box, shoe shine stand, shoe polish box, cobbler box, shoe shine foot rest
 Summary: Plain wooden/homemade boxes $20–45; boxes with cast-iron footrest or nice original paint $40–90; advertising (Shinola, Griffin, Esquire) or folk-art/painted/inlaid boxes $80–250; 19th-century bootblack stands or exceptional folk art $250–600.
 Buy rule (short): Buy only advertising-marked, folk-art decorated or footrest boxes with strong original surface at ≤ $25; plain boxes are decor-price items that never clear $50 profit.
@@ -56,7 +56,13 @@ Contents: early polish tins (Shinola 1910s, Griffin) and brushes can be worth mo
 5–12 lb; shoebox-to-carry-on; USPS Ground Advantage/UPS $15–25. Low fragility.
 
 ## Selling it (for the buyer-facing listing)
-Photo the footrest marks, interior, nails/joinery, any stenciling; list contents. Say "homemade" honestly; buyers like provenance (made by grandfather etc.).
+- **Title words:** "shoe shine box" + "wooden" + "cast iron footrest" + maker/advertising (Shinola, Griffin, Esquire) + "folk art"/"painted"/"dated" + "with contents" + "vintage". Junk: "rustic decor", "primitive storage", "valet". Example: `Vintage Wooden Shoe Shine Box Cast Iron Star Footrest Shinola Tins Brushes`.
+- **Where:** eBay BIN with offers for footrest, advertising and folk-art boxes; plain homemade boxes sell as well on FB local without the $15–25 shipping.
+- **Price position:** list at the sold median (plain ~$25–45, with footrest $40–90, advertising kit $60–150, folk art $100–300); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) box with footrest at a three-quarter angle; then footrest marks/pierced name, interior with contents laid out, joinery and nails, stenciling or painted name/date, underside, tape measure.
+- **State:** dimensions, footrest marks, "homemade" said honestly, contents listed (polish tins by brand, brushes), stenciling/paint original or refinished, provenance if known, flaws by photo number.
+- **Pack / haul:** 5–12 lb, low fragility; contents wrapped separately inside, single box with 2" padding, 10-lb class, $15–25.
+- **Quote to a buyer:** "A [1930s–40s] box with the original [Star] cast footrest and [early Shinola tins] — the tins alone sell for more than a plain box; comparable boxes with footrest and contents sell for [$X]; [painted/dated by a soldier] boxes are the folk-art ones."
 
 ## Buy rule
 Price ≤ $200; profit = resale × 0.87 − ~$20 out − ~$20 in − price ≥ max($50, price). A $70 box nets ~$21 before price: plain/footrest boxes never qualify. Only advertising kits or real folk art with resale ≥ $150 at price ≤ $40 qualify.

@@ -1,5 +1,5 @@
 # Gilt wall brackets and wall shelves (Italian Florentine giltwood, French Louis XV/Rococo carved giltwood, Syroco, Homco/Home Interiors, Burwood, Dart, Universal Statuary, chalkware, resin)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Syracuse Ornamental Co. (Syroco) history https://www.syroco.com/ ; Florentine giltwood background from auction catalog notes (e.g. Bonhams, Christie's lot essays on "Florentine giltwood wall brackets")) — prices are estimates (general knowledge, verify)
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (references: Syracuse Ornamental Co. (Syroco) history https://www.syroco.com/ ; Florentine giltwood background from auction catalog notes (e.g. Bonhams, Christie's lot essays on "Florentine giltwood wall brackets")) — prices are estimates (general knowledge, verify)
 Slug: gilt-wall-brackets · Aliases: wall sconce shelf, wall console, corbel shelf, wall bracket, Florentine bracket, Rococo shelf, Hollywood Regency shelf, Syroco shelf, Homco shelf, gilded wall shelves, plaster shelves
 Summary: 1960s–80s molded resin/Syroco/Homco brackets $10–40 a pair; mid-century Italian Florentine carved-wood gilt/polychrome brackets $60–250 a pair; 19th-century carved giltwood/gesso French or Italian brackets $200–1,200 a pair; important period carved examples $1,000+.
 Buy rule (short): Buy carved wood (not resin) Florentine or 19th-century giltwood brackets ≤ $40 each / $80 a pair; pass on Syroco, Homco, Burwood and chalkware unless under $10.
@@ -55,7 +55,13 @@ Florentine carved wood listed as "plastic shelf"; 19th-century giltwood with ori
 Light (1–4 lb each); fragile carved scrolls — wrap, box with fill, $12–20 for a pair.
 
 ## Selling it (for the buyer-facing listing)
-State material (carved wood with gesso vs resin), measurements, gilding type, labels, losses, and that hangers are present.
+- **Title words:** "Italian Florentine" (or "French Louis XV") + "carved wood"/"giltwood" + "gilt" + "wall bracket"/"shelf" + "pair" + size + "Made in Italy"; Junk: "plastic shelf", "Syroco" (unless it is), "gold shelf", "boho". Example: `Pair Italian Florentine Carved Giltwood Wall Brackets Shelves 1960s Made in Italy`.
+- **Where:** eBay BIN with offers (decorators, Hollywood Regency/grandmillennial); Chairish for 19th-century giltwood pairs; Syroco/Homco/resin local on FB. Chairish can beat eBay for period pairs.
+- **Price position:** at the sold median (giltwood pair median $165; Florentine single $35–120; rococo brackets median $65), accept −15%, floor p25; OBO; Florentine pairs sell in 2–4 weeks, cut 10% after that.
+- **Photos:** first photo the pair hung on a plain wall; then back (wood grain vs resin, labels, hangers), carved scrolls and drops, gesso losses, gilding close-up (leaf vs gold paint), top shelf surface, tape for height/depth.
+- **State:** material (carved wood with gesso vs composition vs resin), measurements each, gilding type, labels/marks, losses and repairs by photo number, hangers present, pair matched or near-pair.
+- **Pack / haul:** 1–4 lb each; fragile scrolls — wrap each bracket, box with fill, no contact between the two; $12–20 for a pair.
+- **Quote to a buyer:** "Carved wood with gesso and gilding, [Made in Italy] label on the back — the Florentine originals, not the resin copies; a pair in this condition sells around [$165] and these hang ready."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$18 ship out − ~$18 ship in − price ≥ max($50, price). Need back photo showing wood and a "Made in Italy" stamp or period construction. Fits a passenger seat. No authentication.

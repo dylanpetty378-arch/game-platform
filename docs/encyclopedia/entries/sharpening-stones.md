@@ -1,5 +1,5 @@
 # Sharpening stones (whetstones and hones; Arkansas novaculite, Carborundum, Norton/Pike/India, Belgian coticule, Thuringian, Japanese natural, razor hones)
-Updated: 2026-10-13 · Sources: no web search budget this run; written from general knowledge. No Terapeak comps in db/comps.jsonl. Verification: eBay sold "vintage Carborundum sharpening stone" https://www.ebay.com/sch/i.html?_nkw=vintage+carborundum+sharpening+stone&LH_Sold=1 ; Norton Abrasives history https://www.nortonabrasives.com ; Carborundum Company https://en.wikipedia.org/wiki/Carborundum_Company ; Straight-razor hones wiki https://straightrazorpalace.com
+Updated: 2026-10-28 · Sources: no web search budget this run; written from general knowledge. No Terapeak comps in db/comps.jsonl. Verification: eBay sold "vintage Carborundum sharpening stone" https://www.ebay.com/sch/i.html?_nkw=vintage+carborundum+sharpening+stone&LH_Sold=1 ; Norton Abrasives history https://www.nortonabrasives.com ; Carborundum Company https://en.wikipedia.org/wiki/Carborundum_Company ; Straight-razor hones wiki https://straightrazorpalace.com
 Slug: sharpening-stones · Aliases: whetstone, oil stone, hone, razor hone, Arkansas stone, Washita, India stone, Crystolon, Carborundum stone, barber hone, slip stone, coticule
 Summary: Common man-made oilstones (Carborundum, Norton India/Crystolon) boxed $10–30; vintage Arkansas/Washita natural stones $20–80; Belgian coticules, yellow Thuringians ("escher") and Japanese natural razor stones $60–400+; large surgical black/translucent Arkansas $80–200 (general knowledge, verify).
 Buy rule (short): Pass on Carborundum/Norton man-made stones; buy only natural razor hones (coticule, Thuringian, Japanese natural, translucent Arkansas) at ≤ 25% of sold.
@@ -50,7 +50,13 @@ A plain grey or yellow-green slab in a barber's kit may be a Thuringian or cotic
 Heavy for size (1–3 lb); $8–12. Wrap well; natural stones crack if dropped.
 
 ## Selling it (for the buyer-facing listing)
-Give dimensions, weight, grit or stone type, flatness, any chips, box/label condition.
+- **Title words:** type + maker + size: "Belgian coticule", "Escher Thuringian", "translucent Arkansas", "Norton India", "Carborundum" + dimensions + "razor hone"/"whetstone" + "boxed"; Junk: "rock", "old sharpener", "stone lot". Example: `Vintage Belgian Coticule Razor Hone 6x2" Natural Whetstone Yellow Blue Layer`.
+- **Where:** eBay BIN with offers (razor shavers and tool users are a knowledgeable buyer base); man-made Carborundum/Norton only as a lot or local. No place beats eBay.
+- **Price position:** at the sold median (Carborundum $12; vintage Arkansas/Washita $20–80; surgical black/translucent $60–200; coticule/Escher/Japanese $80–400), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the stone face on dark cloth; then edge/side (layers, cracks), underside, wet surface showing colour, box and label, ruler for dimensions, scale for weight, any chips or dishing against a straight edge.
+- **State:** dimensions, weight, stone type or grit, flatness, chips/cracks, oil saturation, box/label condition, label original to the stone, repro check (slate sold as Thuringian), flaws by photo number.
+- **Pack / haul:** 1–3 lb, heavy for size; wrap tightly, box with fill — natural stones crack if dropped; $8–12.
+- **Quote to a buyer:** "[Belgian coticule], [6×2"], yellow on the blue layer, dead flat — the natural razor hones shavers pay [$80–400] for; the man-made oilstones in the same box are a tenth of that."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$10 to buyer − ~$10 to Dylan − price ≥ max($50, price). Only natural razor hones selling for $100+ work. Pass on man-made stones at any price.

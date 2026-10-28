@@ -1,5 +1,5 @@
 # Truck and auto emblems (hood, grille and fender badges; White Freightliner, Peterbilt, Kenworth, Mack bulldog, Diamond T, GMC, Ford, Chevrolet, Studebaker, International)
-Updated: 2026-10-13 · Sources: no web search budget this run; written from general knowledge. db/comps.jsonl has no truck-emblem sold data (its one "emblem" hit is unrelated). Verification: eBay sold "White Freightliner emblem" https://www.ebay.com/sch/i.html?_nkw=white+freightliner+emblem&LH_Sold=1 ; Freightliner history https://en.wikipedia.org/wiki/Freightliner_Trucks ; White Motor Company https://en.wikipedia.org/wiki/White_Motor_Company
+Updated: 2026-10-28 · Sources: no web search budget this run; written from general knowledge. db/comps.jsonl has no truck-emblem sold data (its one "emblem" hit is unrelated). Verification: eBay sold "White Freightliner emblem" https://www.ebay.com/sch/i.html?_nkw=white+freightliner+emblem&LH_Sold=1 ; Freightliner history https://en.wikipedia.org/wiki/Freightliner_Trucks ; White Motor Company https://en.wikipedia.org/wiki/White_Motor_Company
 Slug: truck-and-auto-emblems · Aliases: hood emblem, grille emblem, badge, nameplate, hood ornament, script, truck logo, Mack bulldog, fender emblem, petroliana emblem
 Summary: Modern (1990s+) car and truck badges $5–25; 1950s–70s car scripts and emblems $15–60; vintage heavy-truck nameplates (White Freightliner, Diamond T, Kenworth, Peterbilt, Autocar) $60–200; chrome Mack bulldogs, enamelled pre-war badges and radiator mascots $100–500+ (general knowledge, verify).
 Buy rule (short): Buy original heavy-truck or pre-war enamel/cast emblems with intact mounting studs at ≤ 30% of verified sold; pass on modern badges, reproductions and anything over ~24" or over $40 without a Terapeak check.
@@ -51,7 +51,13 @@ Moderate. Trucker and restoration buyers are loyal. Heavy-truck nameplates sell 
 Long, flat, and moderately heavy (2–6 lb). A 30" nameplate needs a long box; about $15–25 (general knowledge, verify). Pad the studs so they do not punch through the box.
 
 ## Selling it (for the buyer-facing listing)
-Give the full length and height, material, part number from the back, mounting studs present, and whether chrome/paint is original. Photograph front, back and edges.
+- **Title words:** brand (White Freightliner, Diamond T, Peterbilt, Mack), "emblem"/"badge"/"nameplate"/"hood ornament", "original", years (White Freightliner = 1951–77), material (chrome/pot metal/enamel), length, part number. Junk: "truck decor", "man cave", "rare". `Original White Freightliner Truck Hood Emblem 1951-77 Chrome 24" Part #xxx`
+- **Where:** eBay BIN with offers (trucker and restoration buyers; median $76 for White Freightliner); heavy-truck swap meets locally for 30"+ pieces.
+- **Price position:** heavy-truck nameplates at the sold median ($60–200), OBO, accept −15%; 1950s–70s car scripts $15–60; modern badges $5–25 lotted. Cut 10% at 45 days.
+- **Photos:** first: front straight-on in even light; then back with part number and every stud/clip, edges, pitting and peeling chrome close-up, cracks in pot metal, tape measure for length.
+- **State:** brand, full length and height, material, part number from the back, studs present and count, chrome/paint original or restored, pitting/cracks/missing letters by photo number, year range.
+- **Pack / haul:** 2–6 lb, long flat box, studs padded so they don't punch through, $15–25; fits a car seat.
+- **Quote to a buyer:** "Original [White Freightliner] nameplate, cast part number and all [6] studs on the back — dates to 1951–77 when White sold Freightliner; reproductions are thin with glued studs."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$20 to buyer − ~$20 to Dylan − price ≥ max($50, price). A nameplate that sells for $150 nets about $90 before price, so pay ≤ $40. Must fit in a passenger seat (most car and truck emblems do). No repaired or re-chromed pieces unless priced as such.

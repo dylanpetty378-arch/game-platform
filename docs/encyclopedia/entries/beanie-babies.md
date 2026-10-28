@@ -1,5 +1,5 @@
 # Beanie Babies (Ty Inc.: Beanie Babies, Teenie Beanies, Beanie Buddies, Beanie Boos, NFL/MLB/NBA team bears)
-Updated: 2026-10-13 · Sources: listing photo pid 7947660257 (Craigslist, viewed); general knowledge of Ty tag generations and eBay sold behaviour (no web search this run – prices "(general knowledge, verify)"); Terapeak row in db/comps.jsonl that incidentally caught a "TY Tag Plush Beanie Babies Baby, Retired, Vintage, Rare" selling for $2.09 (Feb 17 2026, terapeak-wave1, query "vintage childrens clothing"); reference for verification: Ty official site (https://www.ty.com/), Beanie Babies tag generation guide at BeaniePhenomenon (https://www.beaniephenomenon.com/), Snopes on "Princess bear worth thousands" hype (https://www.snopes.com/).
+Updated: 2026-10-28 · Sources: listing photo pid 7947660257 (Craigslist, viewed); general knowledge of Ty tag generations and eBay sold behaviour (no web search this run – prices "(general knowledge, verify)"); Terapeak row in db/comps.jsonl that incidentally caught a "TY Tag Plush Beanie Babies Baby, Retired, Vintage, Rare" selling for $2.09 (Feb 17 2026, terapeak-wave1, query "vintage childrens clothing"); reference for verification: Ty official site (https://www.ty.com/), Beanie Babies tag generation guide at BeaniePhenomenon (https://www.beaniephenomenon.com/), Snopes on "Princess bear worth thousands" hype (https://www.snopes.com/).
 Slug: beanie-babies · Aliases: beanie baby, Ty beanie, Princess Diana bear, retired beanie babies, rare beanie babies, beanie baby collection, Ty bears, Beanie Buddies, Teenie Beanies, NFL beanie bear
 Summary: 99% of Beanie Babies (1993–present) sell for $1–8 each and $10–40 per big lot; specific early tag-generation errors and true rarities (1st/2nd-gen tags on early styles, Royal Blue Peanut, Brown Teddy old-face, Nana, Spot without spot, Employee Bear, Billionaire bears) $50–2,000+; Princess bear and "PVC pellets" hype pieces actually sell $5–25.
 Buy rule (short): Pass every Beanie Baby lot and every Princess/Diana bear; only consider items with a visible 1st- or 2nd-generation hang tag (single-page tag, no poem) on an early style, or Ty employee/Billionaire bears, at ≤ $10 – and these need verification.
@@ -53,7 +53,13 @@ They overvalue, not undervalue. The only edge: early-tag (1st/2nd gen) Original 
 Light, soft; poly mailer, $5–8. Protect hang tags with plastic tag protectors.
 
 ## Selling it (for the buyer-facing listing)
-Photograph hang tag inside and out and tush tag both sides; state tag generation, PVC/PE, smoke-free; do not call common bears "rare".
+- **Title words:** "Ty Beanie Baby", style name, tag generation ("1st gen hang tag"), tush tag year, "PVC"/"PE", variant (Royal Blue Peanut, old-face Teddy), "lot of N" with count; never "rare" on commons. Junk: "rare", "Princess Diana error", "mint investment". `Ty Beanie Baby Peanut Royal Blue Elephant 3rd Gen Hang Tag 1995 PVC`
+- **Where:** eBay BIN with offers for verified early-tag pieces; lots on eBay at $0.50–1 each to crafters/flippers; nothing local.
+- **Price position:** 1st-gen tag pieces at the sold median ($36), Billionaire at $275 median, OBO, accept −15%; commons $1–8 each lotted; Princess $5–25. Cut 20% at 30 days.
+- **Photos:** first: bear with hang tag visible; then hang tag outside and inside (poem/no poem, generation), tush tag both sides, plush face, any creases on the tag, tag protector removed.
+- **State:** style, hang-tag generation, tush tag year and PVC/PE, tag condition, smoke-free, plush condition, variant stated with the tell; "common" named as common.
+- **Pack / haul:** poly mailer, $5–8; hang tags in plastic protectors.
+- **Quote to a buyer:** "[Royal Blue Peanut] with a [3rd-gen] hang tag and 1995 PVC tush — the lot-bin commons are $2; a verified early-tag variant is the one piece that actually sells at $[X]."
 
 ## Buy rule
 Profit formula with resale $3–20 and $10+ shipping never clears max($50, price) for common Beanies – pass all lots and Princess/49ers/NFL bears. Only a 1st/2nd-gen-tag early style or Ty employee/Billionaire bear at ≤ $10 is worth a look, and even then value depends on authentication (excluded by Dylan's rules for high-value items) – treat as "ask seller for tag photos", rarely a buy.

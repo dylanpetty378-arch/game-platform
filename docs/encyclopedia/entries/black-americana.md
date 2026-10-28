@@ -1,5 +1,5 @@
 # Black Americana collectibles (Aunt Jemima / Quaker Oats, Mosaic Tile Co., Pearl China, National Silver, F&F Mold & Die, Weller, handmade cloth dolls)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Jim Crow Museum of Racist Memorabilia, Ferris State University https://jimcrowmuseum.ferris.edu/ (reference on history and reproductions, not fetched); batch file b51 · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Jim Crow Museum of Racist Memorabilia, Ferris State University https://jimcrowmuseum.ferris.edu/ (reference on history and reproductions, not fetched); batch file b51 · tells 2026-10-13
 Slug: black-americana · Aliases: mammy doll, cloth doll, kitchen doll, cookie jar, salt and pepper shakers, folk art doll, sock doll, rag doll, Aunt Jemima, Uncle Mose, memorabilia
 Summary: modern craft dolls and reproductions $10–35; mid-century kitchen ceramics/plastic (F&F, Japan) $25–100; marked 1920s–50s cookie jars and early cloth dolls $100–500; pre-1900 folk dolls, early advertising, documented historical items $500–5,000+ (general knowledge, verify)
 Buy rule (short): Pass on 1970s–90s craft dolls and anything that might be a reproduction; only buy marked period pieces (Mosaic Tile, Pearl China, F&F with mold marks) priced well under the ladder.
@@ -69,7 +69,13 @@ Specialist, slow, and sensitive. eBay restricts some listing language and imager
 Cloth dolls: shoebox, light, $8–12. Ceramic jars: double box, $15–25.
 
 ## Selling it (for the buyer-facing listing)
-Use neutral, descriptive, historically accurate language; avoid slurs in titles. State maker, mold marks, height, honest period, and explicitly whether it is a reproduction or late-20th-century craft item. Photograph seams, base marks and any tags.
+- **Title words:** neutral descriptive terms — maker (F&F Mold & Die, Mosaic Tile, Pearl China, Weller), item (cookie jar/syrup pitcher/salt & pepper/printed cloth doll), "Aunt Jemima" (brand name), era, "Black Americana", height. Junk: slurs (eBay removes the listing), "antique" on craft dolls, "rare". `F&F Mold & Die Aunt Jemima Syrup Pitcher 1950s Plastic Marked Dayton Ohio`
+- **Where:** eBay BIN with offers (restricted category language; committed collectors); Hake's/Swann for 19th-c. dolls and documented historical items; craft dolls don't sell.
+- **Price position:** F&F originals at the sold median ($40–150), OBO, accept −15%; genuine Mosaic/Weller/Pearl jars at $150–600, firm 3 weeks with mark and size proof; craft repros $10–30 lotted. Cut 10% at 45 days.
+- **Photos:** first: piece front; then mold mark/base, height against a ruler (repros run 10–15% small), seams, cold-paint wear, lid fit, cloth doll stitching and tags, fabric close-up.
+- **State:** maker, mold marks transcribed, height to the eighth inch, honest period, "reproduction" or "late-20th-century craft" stated plainly if so, chips/paint wear/lid mismatch/moth damage by photo number; neutral language throughout.
+- **Pack / haul:** cloth dolls shoebox, $8–12; ceramic jars double box, $15–25.
+- **Quote to a buyer:** "Marked [F&F Mold & Die Works Dayton Ohio], full-size at [X"] with period paint wear — reproductions run small with new bottoms; this is the 1950s Quaker Oats premium."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$10–20) − ship to Dylan (~$10–20) − price ≥ max($50, price).

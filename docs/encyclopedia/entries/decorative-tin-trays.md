@@ -1,5 +1,5 @@
 # Decorative tin trays and bowls (Daher Decorated Ware, Elite (England), Worcester Ware, Ballonoff, Coca-Cola and brewery serving trays)
-Updated: 2026-10-13 · Sources: no web search budget this run; written from general knowledge. No Terapeak comps in db/comps.jsonl for this type. Verification: eBay sold "Daher decorated ware" https://www.ebay.com/sch/i.html?_nkw=daher+decorated+ware&LH_Sold=1 ; WorthPoint https://www.worthpoint.com ; project encyclopedia entries on advertising signs and breweriana.
+Updated: 2026-10-28 · Sources: no web search budget this run; written from general knowledge. No Terapeak comps in db/comps.jsonl for this type. Verification: eBay sold "Daher decorated ware" https://www.ebay.com/sch/i.html?_nkw=daher+decorated+ware&LH_Sold=1 ; WorthPoint https://www.worthpoint.com ; project encyclopedia entries on advertising signs and breweriana.
 Slug: decorative-tin-trays · Aliases: Daher tin bowl, Daher Decorated Ware, Made in England tin tray, Victorian tin platter, lithographed tin bowl, toleware tray, Worcester Ware, metal serving tray, tin platter
 Summary: Daher / Elite / generic English litho tin bowls and trays $8–20; sets, large or unusual Daher shapes $20–40; hand-painted 19th-century toleware trays $60–300; pre-1930 advertising serving trays (Coca-Cola, breweries) $75–1,000+ (general knowledge, verify).
 Buy rule (short): Pass on all 1950s–80s decorative litho tin (Daher, Elite, Worcester Ware); only buy pre-1930 advertising trays or hand-painted antique toleware at ≤ 25% of sold.
@@ -47,7 +47,13 @@ Daher-type bowls are everywhere at thrift stores and sell slowly. Buyers are cot
 Light (under 1 lb), flat-ish. $6–9 in a padded box (general knowledge, verify). Protect the rim from denting.
 
 ## Selling it (for the buyer-facing listing)
-Quote the underside mark and year, diameter, pattern name, and any rust or scratches.
+- **Title words:** maker (Daher, Elite, Worcester Ware), "Decorated Ware", item (tin bowl, tray, wastebasket), pattern (courting couple, roses, floral), year from the underside, "England"/"Long Island", diameter; for advertising: brand, "serving tray", decade. Junk: "Victorian" (the picture is Victorian style, the bowl is 1970s), "antique", "toleware" on Daher. `Vintage Daher Decorated Ware Tin Bowl Courting Couple Floral 1971 England 10 in`
+- **Where:** eBay or Etsy BIN with offers (cottagecore/vintage decor shoppers; slow); old Coca-Cola/brewery serving trays on eBay auction; Daher sets locally on FB.
+- **Price position:** at the sold median (Daher/Elite bowls and trays $8–20, sets and large pieces $20–40, brewery trays $100, 19th-c. toleware $60–300), OBO, accept −25%, floor $6; lot small bowls; cut after 30 days.
+- **Photos:** inside straight-on; underside mark and year; rim close-up for dents; rust and scratches in daylight; set nested; ruler for diameter.
+- **State:** underside mark and year quoted, diameter, pattern name, rust, scratches, dents, rim condition, set count by photo number; "1960s–70s litho tin" not "Victorian".
+- **Pack / haul:** under 1 lb, padded box with the rim protected from denting, $6–9; carry-on class.
+- **Quote to a buyer:** "This is a [1971] [Daher Decorated Ware] [courting couple] bowl, marked underneath, [no rust or dents]; these sell for $[8–20] each, the sets $20–40, and I've priced it as the 1970s decor piece it is."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$8 to buyer − ~$8 to Dylan − price ≥ max($50, price). A Daher bowl at $16 nets a loss before the price. Pass all decorative litho tin. Advertising trays need care with reproductions; buy only when the maker's rim mark is legible in photos and the price is ≤ 25% of verified sold.

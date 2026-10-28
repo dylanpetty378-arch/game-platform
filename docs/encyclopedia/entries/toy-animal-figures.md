@@ -1,5 +1,5 @@
 # Toy animal figures (Britains, Elastolin, Lineol, Marx, Timpo, Starlux, Schleich, Safari Ltd, Papo, Bullyland, Hong Kong generics)
-Updated: 2026-10-13 · Sources: general knowledge of toy-figure collecting (Britains Ltd, London, hollow-cast lead farm and zoo animals 1921–1966, plastic "Herald"/Britains from 1950s; O&M Hausser Elastolin composition figures, Germany 1904–1983; Lineol composition 1906–1960s; Louis Marx & Co playset animals 1950s–70s; Schleich founded 1935, animal line 1980s+; Safari Ltd 1982+). No sold comps in comps.jsonl for this type; all prices are estimates (general knowledge, verify).
+Updated: 2026-10-28 · Sources: general knowledge of toy-figure collecting (Britains Ltd, London, hollow-cast lead farm and zoo animals 1921–1966, plastic "Herald"/Britains from 1950s; O&M Hausser Elastolin composition figures, Germany 1904–1983; Lineol composition 1906–1960s; Louis Marx & Co playset animals 1950s–70s; Schleich founded 1935, animal line 1980s+; Safari Ltd 1982+). No sold comps in comps.jsonl for this type; all prices are estimates (general knowledge, verify).
 Slug: toy-animal-figures · Aliases: plastic animals, toy animals, miniature animals, animal figurines, zoo animals, farm animals, marine life toys, sea creatures, dinosaurs, Britains animals, Schleich, Safari Ltd, lead animals, playset animals, turtle collection
 Summary: Hong Kong/China generic plastic animals $0.25–2 each ($5–25 per bag); Marx playset and 1980s–2000s Safari/Schleich common $2–8 each; retired Schleich, Britains plastic and Starlux $8–40; Britains hollow-cast lead and Elastolin/Lineol composition $15–150+ each.
 Buy rule (short): Buy only lead (Britains) or composition (Elastolin/Lineol) animals or marked retired Schleich lots at ≤ $3 per figure; pass all bags of unmarked soft plastic animals.
@@ -53,7 +53,13 @@ Lead or composition animals mixed into a bag of plastic ("vintage miniature anim
 Bags of plastic 1–3 lb, $10–15; lead lots get heavy fast (each figure 1–2 oz) – $15–25. Wrap lead figures individually (legs snap).
 
 ## Selling it (for the buyer-facing listing)
-Photograph every figure and the base marks; give count, maker, material and sizes; disclose breaks and repaints; sort by series (farm, zoo, marine).
+- **Title words:** maker + material + series + count + era: "Britains lead farm animals lot of 12", "Elastolin composition zoo lion", "Schleich retired", "Marx playset animals", "vintage Hong Kong plastic animals bag". Junk: "miniature animals", "toy lot", "vintage" on generic plastic. Example: `Britains Hollow Cast Lead Farm Animals Lot of 12 Cows Horses Sheep 1950s England`.
+- **Where:** eBay BIN with offers (toy-soldier and Schleich collectors; generic plastic sells slowly for crafts); boxed Britains/Elastolin sets to Vectis/Morphy-type toy auctions; Christmas bump.
+- **Price position:** list at the sold median (generic bags $10–25, Marx/common Schleich $2–8 each, retired Schleich/Carnegie/Britains plastic $8–40 each, lead/composition $15–150 each); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) the whole lot arranged in rows on a plain cloth; then base marks (maker, country), each lead/composition figure individually, paint chips showing metal or core, breaks and repaints, a ruler for height, series sorted (farm, zoo, marine).
+- **State:** count, maker, material (lead, composition, plastic), sizes, series, base marks, breaks and repaints by photo number, retired/current for Schleich, "generic unmarked" said honestly.
+- **Pack / haul:** plastic bags 1–3 lb, $10–15; lead lots 1–2 oz per figure, each wrapped individually (legs snap), single box with fill, 3–5 lb class, $15–25.
+- **Quote to a buyer:** "[Britains hollow-cast lead / Elastolin composition] figures, marked [England / Germany] on the bases in photo [2], not the Hong Kong plastic they get bagged with — [N] pieces, [X] with original paint; comparable lots sell for [$X]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) − price ≥ max($50, price). A lot must sell for ≥ ~$85. Only lots containing marked Britains lead, Elastolin/Lineol composition, or ≥ 15 retired Schleich/Carnegie figures can make it, bought at ≤ $3 per figure. Pass all unmarked soft-plastic bags at any price above ~$5.

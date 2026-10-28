@@ -1,5 +1,5 @@
 # Chinese black lacquer and mother-of-pearl panels and plaques (unbranded Chinese export, Hong Kong/Taiwan/PRC 1970s–1990s)
-Updated: 2026-10-13 · Sources: general knowledge only (no web search budget this run); Lens AI text and median ($337, mostly Etsy/retail asks) from our scan; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type. Reference sites to verify against later: https://www.worthpoint.com (search "black lacquer mother of pearl round plaque"), https://www.liveauctioneers.com, https://www.ebay.com/sch (sold filter)
+Updated: 2026-10-28 · Sources: general knowledge only (no web search budget this run); Lens AI text and median ($337, mostly Etsy/retail asks) from our scan; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type. Reference sites to verify against later: https://www.worthpoint.com (search "black lacquer mother of pearl round plaque"), https://www.liveauctioneers.com, https://www.ebay.com/sch (sold filter)
 Slug: chinese-lacquer-and-mother-of-pearl · Aliases: mother of pearl diorama, MOP inlay plaque, Oriental lacquer wall art, Chinese shell art panel, 3D mother of pearl picture, Asian lacquer screen panel, coromandel style panel
 Summary: Decor-grade 1970s–90s export plaques/panels $40–120; four-panel sets and folding screens $150–600 (too big); genuinely old (pre-1930) lacquer with fine thin-shell inlay or hardstone $200–1,500+.
 Buy rule (short): Buy only matched sets of small panels or signed/old fine-inlay pieces under ~$40; single 1980s decor plaques are pass at any price above ~$25.
@@ -49,7 +49,13 @@ Sellers overrate: they read Etsy asks of $300+. Undervalued cases are the opposi
 Round 30–36" plaque ships oversize: double-box with rigid board, corners protected; $35–60 to buyer. Shell pieces snap off in transit; wrap face with foam sheet, never bubble wrap pressure on raised shell.
 
 ## Selling it (for the buyer-facing listing)
-Describe as "vintage Chinese export black lacquer and mother-of-pearl wall plaque, c. 1970s–90s", give exact diameter, photograph any missing shell pieces, note label if present (Hong Kong / Taiwan / China). Don't call it antique without age evidence.
+- **Title words:** "vintage Chinese export", "black lacquer", "mother of pearl inlay", form (round wall plaque, panel set of 4, folding screen, jewelry box), subject (birds and flowers, Four Seasons), diameter, origin label (Hong Kong, Taiwan, China), "1970s–90s". Junk: "antique", "Qing", "Japanese raden" unless flush fine shell, "rare". `Vintage Chinese Export Black Lacquer Mother of Pearl Round Wall Plaque Birds 30 in Hong Kong`
+- **Where:** FB Marketplace local (size kills shipping); Etsy for chinoiserie decor buyers who will pay shipping; eBay only for small boxes and Korean najeon pieces.
+- **Price position:** at the sold median (single 18–24 in. plaque $25–60, complete 30–36 in. $60–150, Four Seasons sets $150–350), OBO, accept −25%, floor $25 local; Etsy asks ($300+) are a ceiling, not a comp; cut after 30 days.
+- **Photos:** full face straight-on in even light; raking light across the shell for missing pieces; each missing piece close-up; edge and back with label; hanging hardware; tape for diameter.
+- **State:** "vintage Chinese export black lacquer and mother-of-pearl wall plaque, c. 1970s–90s", exact diameter, missing shell pieces by photo number, label, scratches, lifting lacquer, hanging hardware.
+- **Pack / haul:** "bigger" class ~8 lb; local pickup; if shipped, oversize double-box with rigid board, corners protected, face covered in foam sheet (never bubble pressure on raised shell), $35–60.
+- **Quote to a buyer:** "This is a [30 in.] [Hong Kong] export lacquer plaque with [all shell pieces present] and the [original label]; complete big plaques sell for $[60–150] locally, and the ones with missing shell are $25–60."
 
 ## Buy rule
 Dylan's rule: profit = sold median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). A clean 30–36" plaque sells ~$80–120 but ships $40–60 each way and exceeds a passenger seat at the large size → effectively never a buy. Buy only: (a) Korean najeon or Japanese raden small boxes (flush iridescent inlay) ≤ $40, or (b) small panels ≤ 18" with fine engraved shell and hardstone ≤ $25. No authentication-dependent "Qing" claims.

@@ -1,5 +1,5 @@
 # Balalaikas (Soviet factories: Lunacharsky Leningrad, Shikhovo, Moscow Experimental, Bobrov; modern Russian/Ukrainian makers)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.ebay.com/sh/research (Terapeak), https://reverb.com, https://www.worthpoint.com, https://en.wikipedia.org/wiki/Balalaika
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); verify on https://www.ebay.com/sh/research (Terapeak), https://reverb.com, https://www.worthpoint.com, https://en.wikipedia.org/wiki/Balalaika
 Slug: balalaikas · Aliases: balalayka, balalaika USSR, Russian guitar, triangle guitar, prima balalaika, domra (a different, round instrument), souvenir balalaika
 Summary: souvenir/mini balalaikas $10–40; Soviet student prima balalaikas $50–150; good-condition Soviet "concert"/factory prima, secunda, alto $120–300; master-built concert balalaikas and contrabass $500–3,000+ (general knowledge, verify)
 Buy rule (short): Pass on student prima balalaikas above ~$30; buy only master-built/concert (labelled maker, multi-piece ribbed back, fine tuners) at ≤ 1/3 of resale, and only prima/secunda sizes.
@@ -45,7 +45,13 @@ Concert balalaikas with labelled makers sold as "old Russian guitar". A domra (r
 A prima is about 28×16×5 in, so it needs a guitar-style box; $30–45. Slacken the strings and remove the floating bridge, taping it to the body.
 
 ## Selling it (for the buyer-facing listing)
-Photograph the label inside, and show the bridge, frets and top in raking light. Say whether the tuners hold.
+- **Title words:** "balalaika", size (prima/secunda/alto), factory or maker from the label (Lunacharsky Leningrad, Shikhovo), "USSR"/"Soviet", decade, "concert" only with ribbed back and label, "3 string". Junk: "Russian guitar", "domra", "souvenir" on playable harps, "rare". `Lunacharsky Leningrad Prima Balalaika USSR 1965 3 String with Bridge Label`
+- **Where:** eBay BIN with offers or Reverb (40–80 sold a month; Lunacharsky median $150); souvenir minis local.
+- **Price position:** student prima at the sold median ($90), OBO, accept −20%; Lunacharsky/factory concert at $150 median to $300, accept −15%; master-built at $500+, firm 3 weeks; cut 10% at 45 days.
+- **Photos:** first: instrument front, full length; then label inside the soundhole, back (ribbed staves vs plywood), bridge seated, frets and fingerboard, top in raking light for bellying/cracks, tuners, neck sighted for warp.
+- **State:** size, factory/maker from the label, year, solid vs plywood top, rib count on the back, bridge present, tuners hold, frets, cracks/warp by photo number, strings new or old.
+- **Pack / haul:** 28x16x5" guitar-style box, strings slackened, floating bridge removed and taped to the body, $30–45; fits a passenger seat.
+- **Quote to a buyer:** "[Lunacharsky Leningrad] label, [1965], [7]-rib maple back and solid spruce top, tuners holding — the stencil-decorated student primas are $90; the labelled factory concert models are the $150–300 instruments."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$38 out − ~$38 in − price ≥ max($50, price). Student primas never qualify above ~$20. Buy only labelled master or concert instruments, at ≤ ~30% of resale.

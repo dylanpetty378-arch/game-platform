@@ -1,5 +1,5 @@
 # Sealed baseball-card wax boxes (1980s–90s "junk wax") (Topps, Donruss, Fleer, Score, Upper Deck)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay 156943607183 (1987 Donruss sealed wax box, $69.99, 2 sold, Oct 2025); eBay 266407483854 (BBCE-authenticated 1987 Donruss boxes); hobby knowledge of BBCE premiums.
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay 156943607183 (1987 Donruss sealed wax box, $69.99, 2 sold, Oct 2025); eBay 266407483854 (BBCE-authenticated 1987 Donruss boxes); hobby knowledge of BBCE premiums.
 Slug: baseball-card-wax-boxes · Aliases: wax box, sealed packs, unopened box, junk wax, BBCE box, hobby box, factory sealed cards
 Summary: 1988–91 junk-wax boxes $25–45; 1986–87 Donruss/Topps $55–90; BBCE-wrapped boxes, 1989 Upper Deck, 1986 Donruss $120–300; 1986–87 Fleer basketball and pre-1985 football/hockey $1,000+.
 Buy rule (short): 1986–87 Donruss/Topps ≤ $30/box, 1989 Upper Deck ≤ $100; pass 1988–92 over $20 and anything priced off an AI quote.
@@ -47,7 +47,13 @@ Nothing to miss – sellers over-value junk wax from AI/Gemini quotes. The real 
 Box ~1 lb, $8–10 to ship. Resell on eBay; fees 13%.
 
 ## Selling it (for the buyer-facing listing)
-State year, brand, sport, box type (wax/rack/cello), pack count, sealed status and any BBCE wrap. Photograph all six sides, flaps, and the seal/wrap. Keywords: year + brand + "wax box" + "factory sealed" + "36 packs" + "BBCE" if applicable.
+- **Title words:** year, brand, sport, "wax box", "factory sealed", pack count ("36 packs"), "BBCE" if wrapped, key rookie (Griffey, Canseco), "low series". Junk: "rare", "investment", "AI-appraised", "unopened" without seal photos. `1987 Donruss Baseball Wax Box Factory Sealed 36 Packs Bo Jackson Greg Maddux RC`
+- **Where:** eBay BIN with offers (liquid hobby market; rippers and nostalgia buyers); send 1986–89 boxes to BBCE before listing (+$30–50).
+- **Price position:** 1986–87 Donruss/Topps at the sold median ($70), accept −10%; BBCE-wrapped and 1989 Upper Deck at the sold median ($690 BBCE), firm 2 weeks; junk wax $25–45, OBO. Cut 10% at 30 days.
+- **Photos:** first: box front face; then all six sides, both end flaps, the seal/shrink or BBCE tape close-up, pack tops visible through the window, corners.
+- **State:** year, brand, sport, box type (wax/rack/cello), pack count, sealed status and how (factory wrap, BBCE), corner crushing/fading/water by photo number, no guarantees on contents.
+- **Pack / haul:** ~1 lb, box inside a box with corner padding, $8–10.
+- **Quote to a buyer:** "[1987 Donruss], 36 packs, [BBCE-wrapped] — unauthenticated boxes trade at $70 and the 1988–91 junk at $35; the BBCE tape is what rippers pay the premium for."
 
 ## Buy rule
 Buy when: 1986–87 Donruss/Topps ≤ $30/box, 1989 Upper Deck ≤ $100. Pass when: 1988–92 anything over $20, or priced off an AI quote. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (it does).

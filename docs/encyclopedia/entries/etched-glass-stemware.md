@@ -1,5 +1,5 @@
 # Etched and cut glass stemware and pitchers (Fostoria, Cambridge, Heisey, Tiffin, Duncan & Miller, Seneca, Libbey Rock Sharpe, Morgantown, Central; modern Toscany, Princess House)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Replacements.com pattern identification and prices https://www.replacements.com (not loaded) ; Fostoria Glass Society https://www.fostoriaglass.org (not loaded) ; National Cambridge Collectors https://www.cambridgeglass.org (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references: Replacements.com pattern identification and prices https://www.replacements.com (not loaded) ; Fostoria Glass Society https://www.fostoriaglass.org (not loaded) ; National Cambridge Collectors https://www.cambridgeglass.org (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: etched-glass-stemware · Aliases: etched glass, etched bar glasses, etched coupes, champagne coupes, sherbets, cordials, wine glasses, crystal stemware, cut glass stemware, wheel cut glass, needle etched, floral etched pitcher, rock crystal, Fostoria Navarre, Cambridge Rose Point, Tiffin, Princess House Heritage
 Summary: Unmarked wheel-cut/needle-etched stems and 1970s–90s floral pitchers $3–10 each, sets $15–45; identified Depression-era elegant patterns (Fostoria Navarre/Chintz, Tiffin, Heisey Orchid) $10–30 per stem, pitchers $40–150; Cambridge Rose Point, coloured-stem and rare patterns $25–80+ per stem, sets of 8–12 $200–700.
 Buy rule (short): Buy only identifiable elegant-era plate-etched patterns (Rose Point, Chantilly, Navarre, Orchid, June Night) in sets of 8+ at ≤ $3–5 per stem; pass on unmarked wheel-cut floral and modern pitchers.
@@ -58,7 +58,13 @@ Champagne coupes have a renewed wedding/cocktail-culture demand; full sets sell;
 Very fragile; stems double-boxed with dividers. Set of 6 stems 4–5 lb $18–28; pitchers 3–4 lb $16–22.
 
 ## Selling it (for the buyer-facing listing)
-Pattern name (Replacements ID), maker, height and rim diameter, count, condition (no chips, no haze), photos against a dark background to show etching.
+- **Title words:** maker + pattern (Cambridge Rose Point, Fostoria Navarre, Heisey Orchid, Tiffin June Night), stem type (water goblet/champagne coupe/sherbet), height, "set of N", "elegant glass", "etched crystal". Junk: "crystal" for unmarked wheel-cut, "antique", "wedding glasses". `Cambridge Rose Point Water Goblets Set of 8 Etched Elegant Glass 7.5"`
+- **Where:** eBay BIN with offers for sets of 6–12 (Replacements retail is the ceiling; sold runs 30–50% of it); Replacements buys identified patterns; unmarked floral local.
+- **Price position:** identified stems at the sold median ($25 Chantilly, $28 coupes), sets priced per stem, OBO, accept −15%; Rose Point decanters/pitchers at $200 median, firm 3 weeks; cut 10% at 45 days; holiday bump.
+- **Photos:** first: set against a dark background to show the etching; then one stem alone, etching close-up, foot and pontil, rims under light for flea bites, bowls backlit for haze, height against a ruler.
+- **State:** pattern (Replacements ID), maker, stem shape, height and rim diameter, count and matched heights, no chips (finger-tested) and no haze or each flaw by photo number, gold rim wear.
+- **Pack / haul:** stems double-boxed with dividers; set of 6, 4–5 lb, $18–28; pitchers 3–4 lb, $16–22.
+- **Quote to a buyer:** "[Cambridge Rose Point] on the [3121] stem, set of [8] matched heights, no chips — Replacements lists these at $[X] each; unmarked wheel-cut floral stems are $5."
 
 ## Buy rule
 Shipping ~$20 each way means a set must sell for ~$140+ at a $25 buy. Buy only identifiable premium patterns in sets of 8+ at ≤ $5 per stem. Pass on unmarked wheel-cut and modern pitchers. All fit in a seat.

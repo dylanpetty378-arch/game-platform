@@ -1,5 +1,5 @@
 # Pioneer CDJ / DJ media players (Pioneer DJ / AlphaTheta: CDJ-200 to CDJ-3000, XDJ)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: 10kused.com dealer listing CDJ-1000MK3 set; eBay/Reverb used listings 2025
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: 10kused.com dealer listing CDJ-1000MK3 set; eBay/Reverb used listings 2025
 Slug: pioneer-cdj-decks · Aliases: CDJ, Pioneer CDJ, DJ CD player, CDJ-1000, CDJ-2000, Nexus, NXS2, DJ deck, XDJ
 Summary: CDJ-200/400/800 $80–200; CDJ-1000 MK1/MK2 $150–250; CDJ-1000MK3 and CDJ-900 $250–400; CDJ-2000/NXS/NXS2/3000 $500–1,800 each.
 Buy rule (short): Buy tested CDJ-1000MK3/900 ≤ $120, CDJ-2000 ≤ $250, NXS2 ≤ $600; pass untested or disc-reading problems and CDJ-200/400/800 over $50.
@@ -46,7 +46,13 @@ Little; DJs know. Arbitrage comes from sellers dumping a single unit ("serious i
 ~10 lb, 12×15×5 in; jog wheel and faders are fragile – double box, ~$30–40 ground. Must be tested (laser pickup wear is the failure mode; "skips" = pass). eBay fees ~13%.
 
 ## Selling it (for the buyer-facing listing)
-State model, firmware, fully tested functions (CD, USB, jog, pitch, display), cosmetic condition, included power cable/RCA/manual, single or pair. Photograph top, display on, back panel, serial label; video of it playing. Title keywords: "Pioneer CDJ-1000MK3 DJ CD Player Tested Working".
+- **Title words:** "Pioneer CDJ-" + exact model (1000MK3, 900, 2000NXS2) + "DJ CD player" + "tested working" + "pair" if two + "USB". Junk: "DJ equipment", "turntable", "untested". Example: `Pioneer CDJ-1000MK3 Professional DJ CD Player Tested Working Single Unit`.
+- **Where:** eBay BIN with offers (liquid, DJs search by model); Reverb lists at the same price with lower fees; FB local for pairs to mobile DJs around spring wedding season.
+- **Price position:** list at the sold median (1000MK3 $250–380 single, pairs ~$700, 2000NXS+ $500–1,800); accept −10%, floor −15%; OBO; cut 5–10% after 21 days.
+- **Photos:** 1) top view, display lit; then display close-up with firmware screen, jog wheel, pitch fader, back panel with ports, serial label, any scuffs; video of a CD/USB loading, cueing, jog and pitch working.
+- **State:** model, firmware version, every function tested (CD, USB, jog, pitch, display, outputs), cosmetic grade, laser reads without skipping, power cable/RCA/manual included, single or matched pair, flaws by photo number.
+- **Pack / haul:** ~10 lb, 12×15×5; immobilize the jog wheel and faders with foam, double-box with 2" clearance, 10–15 lb class, $30–40 ground.
+- **Quote to a buyer:** "A [CDJ-1000MK3], still the scratch-DJ standard, fully tested — laser reads, jog and pitch tight; dealers price tested pairs at $700 and singles sell for [$X]; no skipping, no dead buttons."
 
 ## Buy rule
 Buy when: CDJ-1000MK3/900 ≤ $120 tested; CDJ-2000 ≤ $250; NXS2 ≤ $600. Pass when: untested, "doesn't read discs", or CDJ-200/400/800 at any price over $50. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (it does).

@@ -1,5 +1,5 @@
 # Collector plates (Bradford Exchange, Royal Copenhagen, Bing & Grøndahl, Hamilton Collection, Knowles, Franklin Mint, Royal Worcester, Wedgwood, Danbury Mint, Lenox, Goebel/Hummel, Gorham/Rockwell, Lladró, Rosenthal; Audubon and decorative bird plates)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Collectors' Information Bureau price guides (1980s–2000s); Replacements Ltd https://www.replacements.com ; Bradford Exchange history https://www.bradfordexchange.com ; Royal Copenhagen Christmas plate list; eBay sold search https://www.ebay.com/sch/i.html?_nkw=collector+plate&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13.
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Collectors' Information Bureau price guides (1980s–2000s); Replacements Ltd https://www.replacements.com ; Bradford Exchange history https://www.bradfordexchange.com ; Royal Copenhagen Christmas plate list; eBay sold search https://www.ebay.com/sch/i.html?_nkw=collector+plate&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13.
 Slug: collector-plates · Aliases: collectors plate, limited edition plate, Bradford Exchange plate, decorative plate, wall plate, Christmas plate, Mother's Day plate, commemorative plate, Lena Liu plate, Audubon plate, bird plate, Fabulous Birds
 Summary: Almost all mass-produced limited-edition plates $2–25 (Bradford, Hamilton, Knowles, Franklin Mint, Gorham Rockwell, Royal Worcester series); full themed sets, popular licences (Star Trek, Elvis, Thomas Kinkade lots) $25–80; early Royal Copenhagen/B&G Christmas plates (1895–1910), Rosenthal/Wiinblad, Lalique 1965 $80–400; 1895 B&G first issue and true hand-painted service plates (outside the type) more.
 Buy rule (short): Pass on virtually everything; the only targets are pre-1915 Royal Copenhagen/B&G Christmas plates (check the year), Lalique 1965 "Deux Oiseaux" crystal plate, Bjørn Wiinblad Rosenthal, and hand-painted (not transfer) service plates by Minton/Royal Doulton/Pickard.
@@ -58,7 +58,13 @@ Collapsed and oversupplied; thrift stores and estates are full of them. Lots mov
 Light but fragile; $10–15 each with box. Multiple plates ship in a dish-pack.
 
 ## Selling it (for the buyer-facing listing)
-State series, issue number, artist, year; include box/COA; disclose hanger marks. Price in lots.
+- **Title words:** maker (Bing & Grøndahl/Royal Copenhagen/Bradford Exchange), series, year, title, artist (Lena Liu), "Christmas plate", "sterling" if so, "with box COA", "lot of N". Junk: "limited edition", "rare", "collectible plate" alone, "investment". `Bing & Grondahl 1908 Christmas Plate Denmark Blue Early Issue`
+- **Where:** eBay lots only for Bradford/Hamilton/Knowles ($1–5 per plate); eBay BIN singly for pre-1915 B&G/RC, Lalique 1965, Wiinblad, sterling (priced by weight); the rest to thrift.
+- **Price position:** Bradford at the sold median ($14, lotted), OBO, cut 20% at 21 days; pre-1915 Danish at $80–400 median by year, accept −15%; sterling at melt, firm.
+- **Photos:** first: face straight-on; then backstamp (series, number, "Sterling"/".925"), rim all round for hanger marks and gold wear, year in the design (RC/B&G), box and COA.
+- **State:** maker, series, issue number, artist, year, box/COA present, hanger marks/chips/gold wear by photo number; sterling weight in grams.
+- **Pack / haul:** $10–15 each with box; multiples in a dish-pack, each plate sleeved.
+- **Quote to a buyer:** "[B&G 1908], an early-issue Christmas plate, no hanger marks — post-1950 Danish plates are $10 and Bradford lots go for $3 a plate; the pre-1915 years are the ones that hold $80+."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$12 to buyer − ~$12 to Dylan − price; pass unless ≥ max($50, price).

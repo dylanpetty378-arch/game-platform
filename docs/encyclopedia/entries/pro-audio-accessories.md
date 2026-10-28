@@ -1,5 +1,5 @@
 # Pro audio accessories (cables and connectors: Mogami, Canare, Belden, Neutrik, Switchcraft, Cannon/ITT; mic mounts: Neumann, AKG, Shure; DI boxes: Radial, Countryman, Jensen; patch bays: ADC, Switchcraft, Bittree; horn throats/adapters: Altec, JBL, Western Electric, Electro-Voice)
-Updated: 2026-10-13 · Sources: general knowledge of pro-audio used-market pricing on eBay and Reverb (https://reverb.com – the Lens match for example 7959622827 is an unsold Reverb listing at $40 ask); Altec Lansing and JBL compression-driver throat standards (1" and 1.4"/1.5" vs 2" throats; bolt patterns differ by driver family). No sold comps in comps.jsonl; prices are estimates (general knowledge, verify). · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge of pro-audio used-market pricing on eBay and Reverb (https://reverb.com – the Lens match for example 7959622827 is an unsold Reverb listing at $40 ask); Altec Lansing and JBL compression-driver throat standards (1" and 1.4"/1.5" vs 2" throats; bolt patterns differ by driver family). No sold comps in comps.jsonl; prices are estimates (general knowledge, verify). · tells 2026-10-13
 Slug: pro-audio-accessories · Aliases: audio cables, XLR cables, mic cables, patch cables, snake, adapter, horn adapter, throat adapter, compression driver adapter, shock mount, mic clip, DI box, patch bay, Neutrik, Switchcraft, Cannon connector
 Summary: generic cable lots and adapters $10–50; branded cables/adapters and common DI boxes $20–80; Neumann/AKG/Schoeps shock mounts, Jensen-transformer DIs, vintage patch bays and Western Electric/Altec/JBL horn throats/adapters $60–300; vintage Western Electric/Cannon connectors and rare Altec/JBL horn parts $200–1,000+.
 Buy rule (short): Buy only branded mic mounts (Neumann EA-xx, AKG H-xx), vintage patch bays/TT bays, Jensen/Radial DI boxes and identified Altec/JBL/Western Electric horn parts at ≤ 1/3 sold median; pass mixed cable lots and unidentified adapters.
@@ -62,7 +62,13 @@ Neumann/AKG shock mounts and Western Electric/ADC patch gear in "audio junk" box
 Cable lots 2–4 lb $10–15; cast horn adapters 2–5 lb each $12–18; patch bays $15–20.
 
 ## Selling it (for the buyer-facing listing)
-List cable types, lengths, connector brands, and state "tested for continuity" only if tested with a cable tester; give horn adapter throat diameters, bolt pattern and bolt-circle diameter.
+- **Title words:** brand + model/part number + what it is + fit/spec: "Neumann EA 87 shock mount", "Altec 30210 horn throat adapter", "Mogami XLR cable lot 25ft". Junk: "audio junk", "misc cables", "steampunk". Example: `Altec 30210 Horn Throat Adapter 1-3/8" Vintage Theatre Audio Part Numbered`.
+- **Where:** eBay BIN with offers (identified parts sell; unidentified linger); Reverb for studio gear at the same price with lower fees; cable lots are eBay only.
+- **Price position:** list at the sold median (Neumann EA 87 $100–180, Radial/Countryman DI $100–200, Altec/JBL adapters $40–120, branded cable lots $25–45); accept −10%, floor −20%; OBO; cut 10% after 30 days; Western Electric parts list firm.
+- **Photos:** 1) the part with the brand/part number readable; then every stamped number, both ends of connectors, throat/bolt pattern with a ruler, cable labels, any corrosion; cables coiled and counted in one shot.
+- **State:** brand, model/part number, cable types and lengths, connector brands, "tested for continuity" only if a tester was used, horn adapter throat diameter, bolt pattern and bolt-circle diameter, count, flaws by photo number.
+- **Pack / haul:** cable lots 2–4 lb, $10–15; cast adapters 2–5 lb each, boxed with foam, $12–18; patch bays padded flat, $15–20.
+- **Quote to a buyer:** "This is a [Neumann EA 87 / Altec 30210] with the part number stamped — the real one, not an unmarked casting; identified examples sell for [$X] and new ones retail far higher."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) − price ≥ max($50, price). Needs ~$85+ median. Buy only identified branded mounts, DIs, patch bays and Altec/JBL/Western Electric parts at ≤ 1/3 median. Pass generic cable lots and unknown adapters. Active electronics (DIs with batteries/phantom) count as untested electronics – buy only if seller demonstrates them working or price assumes parts value.

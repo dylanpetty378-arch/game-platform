@@ -1,5 +1,5 @@
 # Automotive diagnostic scopes & engine analysers (Snap-on Counselor, Sun, Allen)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay product page 1930423042 (Snap-on MT3000 Counselor II – active asks $495–695, cart $1,995); garagejournal.com ignition-scope thread; gmt400.com "Vantage" thread.
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay product page 1930423042 (Snap-on MT3000 Counselor II – active asks $495–695, cart $1,995); garagejournal.com ignition-scope thread; gmt400.com "Vantage" thread.
 Slug: automotive-diagnostic-scopes · Aliases: Snap-on oscilloscope, engine analyzer, diagnostic machine, ignition scope, Counselor, Sun machine, scan tool, Vantage, MT2500
 Summary: Sun/Allen towers $50–150 local; Snap-on hand-helds (MT2500, Vantage) $100–250; working Counselor MT1665/MT3000 $250–500 local; modern Verus/Zeus/Solus Edge $800–2,500.
 Buy rule (short): Hand-held Snap-on scanners ≤ $60 tested only; all cart/cabinet units are bigger than a passenger seat – excluded.
@@ -42,7 +42,13 @@ Model number is on the rear plate. Working MT3000s with the full lead set ask $5
 Cabinet units: local pickup only (freight $200–350). Hand-helds (MT2500, Vantage, Solus) ship in a 5-lb box for $15–20.
 
 ## Selling it (for the buyer-facing listing)
-Hand-helds: model, software version/year, included cartridges/keys/leads/case, power-on photo, tested functions. Photograph screen powered on, label/serial, and all accessories. Keywords: "Snap-on" + model + "scanner"/"graphing meter" + "with cartridges" + "tested".
+- **Title words:** "Snap-on" + model ("MT2500", "Vantage", "Solus Edge", "MT3000 Counselor II") + "scanner"/"graphing meter"/"engine analyzer" + "with cartridges"/"leads" + "tested"; Junk: "shop equipment", "diagnostic machine", "untested" on a hand-held. Example: `Snap-on MT2500 Scanner with Cartridges Keys Leads Case Tested Powers On`.
+- **Where:** eBay BIN with offers for hand-helds (MT2500, Vantage, Solus); cabinet analysers (Sun, Allen, Counselor) local pickup only — 80–120 lb, freight $200+ kills it. Buyers are small shops and hobby mechanics.
+- **Price position:** at the sold median (Sun/Allen towers $50–150 local; MT2500/Vantage $100–250; working Counselor with leads $250–500 local; Solus Edge/Verus/Zeus $800–2,500 with current software; MT3000 asks $495–695 are asks), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the unit powered on, screen lit; then rear plate label/serial, software version screen, every cartridge/key/lead laid out, case, screen cracks, connectors; video of a self-test or a live reading.
+- **State:** model, software version/year, included cartridges/keys/leads/case, powers on and tested functions, CRT/screen condition, missing leads, flaws by photo number.
+- **Pack / haul:** hand-helds in a 5 lb box with fill ($15–20); cabinets local pickup only, needs a truck and two people.
+- **Quote to a buyer:** "Snap-on [MT2500] with [the domestic and Asian cartridges and keys], powers on and reads — the scanner small shops still use on pre-OBD-II cars; complete sets go [$100–250] and the cartridges alone are the hard part."
 
 ## Buy rule
 Buy when: hand-held Snap-on scanners (MT2500 w/ cartridges, Solus, Vantage) ≤ $60 and tested. Pass when: any CRT cabinet unit (freight, untested electronics – Dylan's rule); cart/cabinet units are bigger than a passenger seat and are excluded by the size rule. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways.

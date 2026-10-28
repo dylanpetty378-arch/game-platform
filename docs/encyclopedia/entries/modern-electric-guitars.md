@@ -1,5 +1,5 @@
 # Modern electric guitars (Kramer, Fender/Squier, Gibson/Epiphone, Ibanez, ESP/LTD, Jackson, Yamaha, Cort, Samick) — 2000s–present, import and budget US
-Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: Reverb price guide & listings (Kramer Pacer Classic, Cort, Samick Greg Bennett, Ibanez), eBay sold
+Updated: 2026-10-28 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: Reverb price guide & listings (Kramer Pacer Classic, Cort, Samick Greg Bennett, Ibanez), eBay sold
 Slug: modern-electric-guitars · Aliases: electric guitar, shredder, Floyd Rose guitar, Strat copy, Les Paul copy, MIJ guitar, Kramer Pacer
 Summary: No-name/First Act $30–80; budget imports (Squier, Epiphone, Cort, Samick, GIO) $100–200; Pacer Classic, MIM Fender, Ibanez RG, Pacifica 612 $300–600; Japanese/US Fender/Gibson/Ibanez Prestige/PRS/1980s Kramer $800–3,000+.
 Buy rule (short): Buy Japanese- or US-made guitars priced as imports (≤ $200) or anything at ≤ 25% of Reverb used; pass current imports at ≥ 40% of used value.
@@ -65,7 +65,13 @@ Country of manufacture and series name. Headstock back/neck plate says "Made in 
 10–14 lb in a box; $50–80 each way with a case/gig bag; fragile (headstocks break). Loosen strings, pad the headstock, use a guitar box. Reverb ~10% + payment. Shipping both ways eats $100+, so only sub-$200 guitars worth $500+ clear Dylan's rule.
 
 ## Selling it (for the buyer-facing listing)
-State make, model, year (serial), country of origin, pickups and tremolo type, weight, neck profile if known, fret wear, action/setup and tuning, any mods, case/gig bag included. Photograph front, back, headstock front and back (serial), neck plate/heel, frets, electronics cavity if mods. Title keywords: "1986 Kramer Pacer Imperial USA Floyd Rose", "Fender Japan ... MIJ", "Ibanez RG550 MIJ".
+- **Title words:** make + model + year + country ("MIJ", "USA", "MIM") + series/colour + "Floyd Rose"/pickups + "with case"; Junk: "electric guitar", "like new", "rare" on an import, "Kramer Pacer" without Classic/USA. Example: `1986 Kramer Pacer Imperial USA Floyd Rose Original Neptune NJ w/ Hard Case`.
+- **Where:** Reverb (~10% + payment) for MIJ/US/1980s; local FB or Guitar Center for budget imports (shipping both ways eats $100+). Local beats Reverb for anything under $300.
+- **Price position:** at the sold median (Pacer Classic $300–450 used, $550–650 new; Kramer Pacer USA median $275, p75 $575; MIM Player $400–550), accept −10%, floor p25; OBO; cut 10% after 3 weeks, holiday and tax-refund season lift.
+- **Photos:** first photo full front in daylight; then back, headstock front and back (serial, country), neck plate/heel, frets, bridge/trem, electronics cavity if modded, case; a short video played clean.
+- **State:** make, model, year by serial, country, pickups and tremolo type, weight, neck profile, fret wear, action and tuning stability, mods, headstock repairs, case/gig bag included, flaws by photo number.
+- **Pack / haul:** 10–14 lb boxed; loosen strings, pad the headstock, immobilize the trem arm, guitar box with fill; $50–80 each way. Local: fits a passenger seat in its case.
+- **Quote to a buyer:** "[1986 Kramer Pacer Imperial], [Neptune NJ] serial, original Floyd — the US-era Pacer, not the [$350] Indonesian Classic; plays straight with [low action] and comes with the case."
 
 ## Buy rule
 Buy when: a Japanese- or US-made instrument is priced as an import (≤ $200) – check neck plate/headstock back; or any guitar at ≤ 25% of Reverb used. Pass when: current import model at ≥ 40% of used value (Kramer Pacer Classic $160 = pass; profit ~$80 after $100 shipping, below the $160 required). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (a guitar in a case does).

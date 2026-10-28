@@ -1,5 +1,5 @@
 # Polaroid SX-70 folding cameras (Polaroid: original SX-70, Alpha 1, Model 2, Model 3, Sonar OneStep, Alpha 1 SE; MiNT SLR 670; vs box cameras)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2025 (SX-70 Alpha 1 tested $180–280, untested $90–150, Sonar OneStep $150–250); Retrospekt/Polaroid refurbished prices ($350–450); eBay sold-listing searches 2026 (SX-70 Sonar OneStep tested); retailer price knowledge (Retrospekt / Brooklyn Film Camera refurb pricing); Terapeak (SX-70 Sonar OneStep 41 sold, median $125, p25 $101, p75 $180; cited in 2026-10-12 sweep)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2025 (SX-70 Alpha 1 tested $180–280, untested $90–150, Sonar OneStep $150–250); Retrospekt/Polaroid refurbished prices ($350–450); eBay sold-listing searches 2026 (SX-70 Sonar OneStep tested); retailer price knowledge (Retrospekt / Brooklyn Film Camera refurb pricing); Terapeak (SX-70 Sonar OneStep 41 sold, median $125, p25 $101, p75 $180; cited in 2026-10-12 sweep)
 Slug: polaroid-sx-70-cameras · Aliases: Polaroid Land Camera, SX-70, tested with film, old Polaroid, fold-up Polaroid, folding Polaroid, Sonar OneStep, Alpha 1
 Summary: Box cameras (Big Swinger, Pronto, OneStep, Sun 600, Spirit 600) $10–30; Model 2/3 and untested originals $40–150; tested original/Alpha 1/Sonar $150–280 (Terapeak Sonar median $125); Alpha 1 SE, refurbs with warranty, MiNT SLR 670, 180/195 pack cameras $300–900.
 Buy rule (short): Buy a tested SX-70 original/Alpha 1/Sonar at ≤ $90, a Sonar described as working under $60, or any folding SX-70 under $40 inside a lot; pass stand-alone untested over $70, mirror haze, or ≥ $150.
@@ -56,7 +56,13 @@ Model (Alpha 1 vs Model 2) and whether it's been tested; "untested" originals at
 1.5–2 lb, $10–15 ground (one write-up: $12). Pad the leather; ship folded. Resell on eBay; fees 13%.
 
 ## Selling it (for the buyer-facing listing)
-State model (original/Alpha 1/Model 2/Sonar), tested with film (show a sample print), shutter fires, sonar focuses, mirror and viewfinder clear, bellows light-tight, leather condition, any refurbishment. Photograph folded and open, front plate, leather close-ups, mirror, rollers, a test print. Title keywords: "Polaroid SX-70 Sonar OneStep Land Camera Tested with Film Working", "SX-70 Alpha 1 Folding SLR".
+- **Title words:** "Polaroid SX-70" + variant (Sonar OneStep, Alpha 1, Model 2) + "Land Camera" + "folding SLR" + "tested with film" + "working". Junk: "instant camera", "OneStep" alone (box camera), "untested". Example: `Polaroid SX-70 Sonar OneStep Land Camera Tested with Film Working Leather Good`.
+- **Where:** eBay BIN with offers (film-revival buyers and refurbishers; sells in days when tested); FB local does not beat it.
+- **Price position:** list at the sold median (Sonar ~$125–180 tested, original/Alpha 1 $180–280 tested, untested $90–150); accept −10%, floor −20%; OBO; cut 10% after 21 days; holiday season lifts it.
+- **Photos:** 1) camera open, front plate, on a plain background; then folded, leather close-ups (no peeling), mirror and viewfinder, rollers clean, bellows, a test print from it; video of the shutter firing and sonar focusing.
+- **State:** exact model, tested with a film pack (print shown) or "fires with empty pack", shutter and sonar status, mirror/viewfinder clear, bellows light-tight, roller condition, leather condition, any refurbishment, flaws by photo number.
+- **Pack / haul:** 1.5–2 lb; ship folded, leather padded, bubble in an 8×8×6 box, single box fine, 2-lb class, $10–15.
+- **Quote to a buyer:** "A [Sonar OneStep / Alpha 1] folding SLR, the one worth 3–5× the plastic box OneSteps — tested with film (photo [7] is its print); tested examples sell for [$X], refurb dealers ask $300+."
 
 ## Buy rule
 Two earlier rules, both kept (the newer Terapeak median of $125 for Sonars supports the stricter limits):

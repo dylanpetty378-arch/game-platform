@@ -1,5 +1,5 @@
 # Hessian soldier (figural) andirons (unmarked foundries, Virginia Metalcrafters, Rostand)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: chairish.com 1960s pair asking $300 (20" tall); 1stdibs listings of 19th-c. pairs $600–2,500; eBay listings 16" pairs; remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: chairish.com 1960s pair asking $300 (20" tall); 1stdibs listings of 19th-c. pairs $600–2,500; eBay listings 16" pairs; remaining detail general knowledge, verify
 Slug: hessian-soldier-andirons · Aliases: soldier andirons, Hessian andirons, Redcoat andirons, "red coats", figural andirons, cast iron fireplace soldiers, firedogs
 Summary: 9–12" repro pairs $30–120; 20th-c. 16–20" painted pairs $100–250; 19th-c. original-paint pairs $400–900; bronze 1850s pairs $1,500+
 Buy rule (short): full-size (16"+) pair under $60; pass small 9–12" repro pairs over $40
@@ -46,7 +46,13 @@ Decorator and fireplace-season buyers plus early-American collectors. Sells best
 Heavy (10–25 lb pair), $30–50 to ship. Best sold locally or on eBay with calculated shipping. Durable but wrap legs and billets (cast iron can snap if dropped).
 
 ## Selling it (for the buyer-facing listing)
-State height, width, depth (log-bar length), weight, iron vs bronze (magnet), paint (original/old/repaint), any marks, pair vs single, repairs. Photograph front, back, the billet join, undersides and any marks. Title keywords: "Hessian soldier andirons pair cast iron", "Redcoat", "19th century", "original paint".
+- **Title words:** "Hessian soldier andirons pair", "cast iron", height, "painted"/"original paint", "19th century" or "Virginia Metalcrafters", "Redcoat", "fireplace". Junk: "soldier guys", "red coats" alone, "antique" on 9" repros. `Antique Hessian Soldier Andirons Pair Cast Iron 18" Original Paint`
+- **Where:** eBay BIN with calculated shipping for full-size pairs; Chairish/1stdibs for dealer-grade 19th-c. pairs (sells higher); FB local for repro pairs and anything over 20 lb.
+- **Price position:** 20th-c. pairs at the sold median ($100–250), OBO, accept −15%; 19th-c. original-paint pairs at p75, firm through fall/winter; cut 20% in spring.
+- **Photos:** first: pair side by side front-on; then backs, billet join, undersides, paint layers close-up, any marks, magnet on the metal, tape for height.
+- **State:** height/width/log-bar depth, weight, iron vs bronze (magnet), paint original/old/repaint, marks, pair vs single, cracks/welds/repairs by photo number.
+- **Pack / haul:** 10–25 lb pair, single sturdy box with legs and billets wrapped, $30–50; cast iron snaps if dropped. Fits a car seat.
+- **Quote to a buyer:** "Full-size [18"] pair, [19th-century] casting with layered old paint and peened fasteners — the 9–12" reproduction pairs go for $80; original-paint pairs list $600+ with dealers."
 
 ## Buy rule
 Buy when: a full-size (16"+) pair under $60. Pass when: 9–12" repro pair over $40 (sold ~$80–120, shipping eats it). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

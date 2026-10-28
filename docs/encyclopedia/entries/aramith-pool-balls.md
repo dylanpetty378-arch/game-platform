@@ -1,5 +1,5 @@
 # Pool balls (Aramith) and billiard accessories (Aramith Crown, Premium, Super Pro, Tournament, Black)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges and Aramith retail (Premium set ~$200–230 new, Super Pro ~$320 new); no dated comp pulled
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges and Aramith retail (Premium set ~$200–230 new, Super Pro ~$320 new); no dated comp pulled
 Slug: aramith-pool-balls · Aliases: pool balls, billiard balls, Aramith set, Super Pro, Tournament TV set, cue ball, clay pool balls
 Summary: No-name/chipped sets $20–40; used Aramith Premium $100–150 clean; Super Pro/Tournament/Black $180–300; pre-1930 clay/ivory $300+.
 Buy rule (short): Super Pro/Tournament < $60; Premium only at ≤ ~$20 (see buy rule note); pass Premium at $75.
@@ -44,7 +44,13 @@ The line (Premium vs Super Pro). Sellers who say "Aramith" already know; the arb
 ~6 lb, $15–20. eBay (13%).
 
 ## Selling it (for the buyer-facing listing)
-State line (Premium/Super Pro/Tournament/Black), complete 16-ball count, chips and yellowing, and whether the original box is included. Photograph the full rack, the cue ball logo, and any chips close-up. Keywords: "Aramith" + line + "pool balls" + "billiard ball set" + "2 1/4".
+- **Title words:** "Aramith" + line ("Super Pro", "Premium", "Tournament TV", "Black") + "pool balls" + "billiard ball set" + "2 1/4" + "complete 16" + "Belgium"; Junk: "pool balls" alone, "game room", "like new". Example: `Aramith Super Pro Pool Balls Complete 16 Ball Set 2 1/4 Belgium Original Box`.
+- **Where:** eBay BIN with offers (home-table owners and league players); local alongside table sales; no-name/chipped sets local only. eBay is the market.
+- **Price position:** at the sold median (Super Pro $83 median, p75 $250 — clean complete sets at the top; Premium clean $100–150; Tournament/Black $180–300; clay $21), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the full rack on felt; then the cue ball logo macro, each ball's number face, chips close-up, yellowing against a white card, the moulded Aramith box, a ball under light for gloss/pitting.
+- **State:** line, complete 16-ball count, cue ball logo present, chips/yellowing/dull surfaces by photo number, polished or not, original box included, generic-set check.
+- **Pack / haul:** ~6 lb; in the moulded box inside a shipping box with fill, or each ball wrapped; $15–20.
+- **Quote to a buyer:** "Aramith [Super Pro], Belgian phenolic with the logo cue ball, all 16 and no chips — the generic sets in the same colours are [$40] new; clean Super Pros sell [$180–300] and new they're more."
 
 ## Buy rule
 Buy when: Super Pro/Tournament set under $60. Premium under $35 was the earlier threshold, but by Dylan's rule a ~$120 Premium sale nets only ~$35 profit at a $35 cost (fees ~$16, ~$36 shipping both ways) – so Premium only at ≤ ~$20. Pass when: Premium at $75 (sold ~$120 → profit <$50). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (it does).

@@ -1,5 +1,5 @@
 # Norman Rockwell collectibles (Gorham, Dave Grossman Designs, Rockwell Museum, Bradford Exchange/Knowles, Franklin Mint, Danbury Mint, Lynell, Saturday Evening Post covers, Brown & Bigelow and Boy Scout calendars, signed lithographs)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Norman Rockwell Museum https://www.nrm.org (catalogue raisonné and authentication policy); Moffatt "Norman Rockwell: A Definitive Catalogue"; Collectors' Information Bureau price guides; eBay sold search https://www.ebay.com/sch/i.html?_nkw=gorham+norman+rockwell+bell&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13.
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Norman Rockwell Museum https://www.nrm.org (catalogue raisonné and authentication policy); Moffatt "Norman Rockwell: A Definitive Catalogue"; Collectors' Information Bureau price guides; eBay sold search https://www.ebay.com/sch/i.html?_nkw=gorham+norman+rockwell+bell&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13.
 Slug: norman-rockwell-collectibles · Aliases: Norman Rockwell, Rockwell figurine, Rockwell bell, Rockwell plate, Rockwell mug, Gorham Rockwell, Dave Grossman, Saturday Evening Post cover, Rockwell print, Rockwell lithograph, Four Freedoms, Boy Scout calendar
 Summary: Porcelain bells, plates, mugs, figurines (Gorham, Grossman, Bradford) $3–20; full annual series sets, Post covers in good condition, Boy Scout calendars, Brown & Bigelow calendars $20–100; signed (hand-signed in pencil) limited lithographs $800–5,000; original works six to eight figures (authentication).
 Buy rule (short): Pass on all porcelain Rockwell collectibles; only hand-signed pencil lithographs (Circle Fine Art, Eleanor Ettinger), complete 1920s–40s Boy Scout calendars or uncut Post magazines are targets, and signed lithographs need authentication (pass unless documented).
@@ -53,7 +53,13 @@ Extremely oversupplied; buyers are scarce for porcelain items. Printed ephemera 
 Bells/figurines 1 lb; $10–12 each way.
 
 ## Selling it (for the buyer-facing listing)
-Give title, year and maker; photograph signatures closely; disclose chips; bundle porcelain items.
+- **Title words:** "Norman Rockwell", item type (bell/plate/figurine/calendar/lithograph), maker (Gorham/Grossman/Knowles/Franklin Mint), title of the image, year, "set of N", "hand signed" only with a pencil signature. Junk: "rare", "collectible", "vintage print" for signed lithos. `Norman Rockwell Gorham Four Seasons Bells Complete Set of 4 1975 Boxed`
+- **Where:** eBay BIN for lots of porcelain only (bells/plates/figurines bundled); Boy Scout calendars and Post covers singly on eBay; hand-signed lithographs need authentication first, then eBay or Heritage.
+- **Price position:** porcelain lots at the sold median ($8–15 per bell, lotted), OBO, cut 20% at 21 days; Boy Scout calendars at $20 median; signed lithographs at the sold median ($255), firm with documentation.
+- **Photos:** first: set grouped or print full-frame; then maker backstamp, bell clapper and rim, Franklin Mint ".925" stamp, pencil signature and number close-up, blindstamp, magazine spine/label, each chip or tear.
+- **State:** title, year, maker, set count, box present, chips/loose clappers by photo number; for lithos: edition number, signature pencil vs printed, publisher; for sterling: weight in grams.
+- **Pack / haul:** bells/figurines 1 lb each, boxed with padding, $10–12; prints flat between boards.
+- **Quote to a buyer:** "Complete [Gorham Four Seasons 1975] set in boxes — single bells go for $10 and sit; the full series is what the few remaining collectors look for."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$10 to buyer − ~$10 to Dylan − price; pass unless ≥ max($50, price).

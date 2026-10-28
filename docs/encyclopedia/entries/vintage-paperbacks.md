@@ -1,5 +1,5 @@
 # Vintage paperbacks (Signet, Bantam, Pocket Books, Ace, Avon, Dell, Popular Library, Perma Books — 1940s–60s)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold memory 2025, Signet Fleming series knowledge
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold memory 2025, Signet Fleming series knowledge
 Slug: vintage-paperbacks · Aliases: pulp paperbacks, mass market paperbacks, old paperbacks, James Bond books, Ace Doubles, Dell mapbacks, GGA paperbacks
 Summary: 1960s–70s reprints $2–6 each; Signet Fleming Bond 14-title run $60–120/set; 1st printings, Ace Doubles, Avon pulps VG+ $25–100 each; Pocket Books #1–10, fine Dell mapbacks $200+ (Fleming UK hardcover firsts reach $5,000+).
 Buy rule (short): Buy 1st-printing or pre-1955 pulps in VG at ≤ $3/book; pass 1960s reprint runs priced ≥ $50.
@@ -65,9 +65,13 @@ Conversely, sellers bundle a lone 1940s–50s pulp with GGA cover into a $1 box.
 Media mail, 14 books ~6 lb, $8. eBay 13%.
 
 ## Selling it (for the buyer-facing listing)
-State publisher, catalogue number, printing (photo of copyright page), cover price, cover artist if known, and grade
-with flaws. Photograph front, back, spine and copyright page. Title: author, title, publisher + number, "1st printing",
-year, "vintage paperback", "GGA" or genre.
+- **Title words:** author, title, publisher + catalogue number (Signet D1234, Dell 123 mapback, Ace Double D-36), "1st printing" only when the copyright page shows it, year, "vintage paperback", "GGA"/"pulp"/genre, grade. Junk: "70 years old", "original collection", "rare" on 10th printings. `Ian Fleming Moonraker Perma Books M-3070 Too Hot to Handle 1956 1st PB VG`
+- **Where:** eBay BIN with offers for firsts, mapbacks, Ace Doubles and GGA pulps; eBay lots for reprint runs; Heritage for Pocket Books #1–10; local book dealers pay little.
+- **Price position:** reprint runs at the sold median (14-book Signet Bond $70–110 as a lot), OBO; firsts/pulps VG+ at the sold median ($25–100), accept −15%; cut 10% at 45 days. Good-grade copies at reading-copy price.
+- **Photos:** first: front cover flat, even light; then back, spine straight-on, copyright page with the printing statement, each crease/chip/tear, page edges for tanning, any stamps or writing.
+- **State:** publisher, catalogue number, printing statement verbatim, year, cover price, cover artist if known, grade with every flaw by photo number (spine roll, creases, chips, tanning, smell, tape).
+- **Pack / haul:** Media Mail; single in a rigid mailer with a bag, $4; 14 books ~6 lb, $8.
+- **Quote to a buyer:** "[Perma M-3070], the [1956] US first paperback of [Moonraker], copyright page shows no later printing, [VG] with a tight spine — the 1960s Signet reprints go for $5 each."
 
 ## Buy rule
 Buy when: 1st-printing statement visible or pre-1955 pulps in VG at ≤ $3/book. Pass when: 1960s reprint runs priced

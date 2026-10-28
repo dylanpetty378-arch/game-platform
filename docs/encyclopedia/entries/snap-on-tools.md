@@ -1,5 +1,5 @@
 # Snap-on hand tools and tool boxes (Snap-on, Blue-Point)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge, Snap-on retail catalogue pricing, vintage tool collector forums (Garage Journal) · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold knowledge, Snap-on retail catalogue pricing, vintage tool collector forums (Garage Journal) · tells 2026-10-13
 Slug: snap-on-tools · Aliases: Snap-on, Snap on, Snapon, Blue-Point, mechanic's tools, Snap-on screwdriver set, Snap-on ratchet, Snap-on socket set, Snap-on tool box, KRA chest, KRL roll cab
 Summary: Singles and loose sockets $5–20; used 12 pc screwdriver sets, ratchets and speed handles $60–180; tray socket sets, restored 1970s chests and T-handle ratcheting drivers $200–500; large KRL roll cabs and complete 3/4"–1" sets $800–4,000.
 Buy rule (short): 12 pc screwdriver set under $60, ratchets under $25, sockets by the tray under 30% of eBay; pass on new sets at retail and boxes that need freight unless local.
@@ -68,7 +68,13 @@ That old black-repainted boxes still bring $300+ on eBay/FB if the drawers work 
 Screwdriver sets 3–5 lb ($15). Tool boxes are freight ($150–300), so local flips only. eBay 13%. Top-and-bottom combos and roll cabs are bigger than a passenger seat and excluded by the size rule.
 
 ## Selling it (for the buyer-facing listing)
-Title: "Snap-on [part number] [description] [set count] USA", e.g. "Snap-on SGDX60 12 pc Classic Screwdriver Set". State the part numbers, count and completeness, ratchet function, and any wear. Photograph the stampings and part numbers, and the whole set laid out.
+- **Title words:** "Snap-on" + part number + description + piece count + "USA" + "set"/"tray": "Snap-on SGDX60 12 pc Classic Screwdriver Set". Junk: "mechanic tools", "misc tools", "Blue Point" mixed in. Example: `Snap-on SGDX60 12 pc Classic Screwdriver Set USA Used Complete`.
+- **Where:** eBay BIN with offers for hand tools (very liquid; sell in days); FB local for boxes and lots to mechanics; tax-refund season mildly stronger.
+- **Price position:** list at the sold median (12 pc screwdriver set $120–180, 1/2" ratchet $60–100, TMRT8 $60–80, full tray socket sets $200–500); accept −10%, floor −15%; OBO; cut 5–10% after 14 days.
+- **Photos:** 1) the whole set laid out on a dark cloth; then part number stampings, ratchet mechanism, each tray slot filled, tips/sockets for wear and rounding, any pitting.
+- **State:** part numbers, count and completeness (every slot named), ratchet function (clicks, reverses), chrome/tip wear, USA stamping, lot contents listed, flaws by photo number.
+- **Pack / haul:** screwdriver sets 3–5 lb, tools immobilized in the tray or wrapped individually, single box, 5-lb class, $15; boxes are freight ($150–300) and local only.
+- **Quote to a buyer:** "Snap-on [SGDX60], complete [12 of 12], USA-stamped, not Blue-Point — used sets sell for [$X] on eBay and the truck price new is [$Y]; tips are unrounded in photo [4]."
 
 ## Buy rule
 Buy when: a 12 pc screwdriver set is under $60, ratchets are under $25, or sockets by the tray are under 30% of eBay. Pass when: new-in-box sets priced at retail ($200), or boxes needing freight unless local. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (roll cabs and top+bottom combos are excluded).

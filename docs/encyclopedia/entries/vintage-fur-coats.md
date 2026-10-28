@@ -1,5 +1,5 @@
 # Vintage fur coats and stoles (mink, fox, sable, marten, Persian lamb, beaver, raccoon, chinchilla; faux fur by Borgana, Glenoit, Collins & Aikman, Tissavel, Sasson, Dan Coma)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Fur Products Labeling Act, FTC https://www.ftc.gov/legal-library/browse/rules/fur-products-labeling-act ; eBay animal products policy https://www.ebay.com/help/policies/prohibited-restricted-items/animals-animal-products-policy?id=4334 ; Vintage Fashion Guild fur guide https://vintagefashionguild.org/fur-guide/ ) — prices are estimates (general knowledge, verify) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (references: Fur Products Labeling Act, FTC https://www.ftc.gov/legal-library/browse/rules/fur-products-labeling-act ; eBay animal products policy https://www.ebay.com/help/policies/prohibited-restricted-items/animals-animal-products-policy?id=4334 ; Vintage Fashion Guild fur guide https://vintagefashionguild.org/fur-guide/ ) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: vintage-fur-coats · Aliases: mink coat, mink stole, fur stole, fur wrap, fox stole, critter stole, fur scarf, fur collar, Persian lamb coat, faux fur coat, fake fur, Borgana, fur jacket
 Summary: Critter stoles/scarves (mink, marten) $15–60 each; mink stoles/capes $40–150; full-length mink coats $100–400 (most sell $150–300); fox and sable jackets $150–600; Russian sable/lynx/chinchilla top coats $500–3,000+; faux fur coats $25–120 (designer faux $100–300).
 Buy rule (short): Only buy full-length female mink (light ranch, pastel, blackglama) or sable/lynx/chinchilla in good leather at ≤ $60 with seller confirmation the hide is supple; pass on stoles, Persian lamb, rabbit and most faux.
@@ -63,7 +63,13 @@ Sable or lynx called "mink"; designer furrier labels; they over-price ordinary m
 Fold loosely in a garment box or large poly mailer with tissue; 4–8 lb, $15–25. Low damage risk; odor management is the main issue.
 
 ## Selling it (for the buyer-facing listing)
-State species from label, color, length, chest and sleeve measurements, leather condition (supple, no tears), lining condition, odor, and furrier label. Note it's vintage (pre-ban for CA buyers).
+- **Title words:** species from the label + garment (full-length coat, jacket, stole) + colour + furrier label (Ben Kahn, Maximilian, Revillon) + measured size + "vintage"; faux: "Borgana"/"Collins & Aikman faux fur" + decade. Junk: "fur" alone, "mob wife", "real fur?" Example: `Vintage Blackglama Ranch Mink Full Length Coat Dark Brown Furrier Label Size M Measured`.
+- **Where:** eBay BIN with offers (soft, slow, Oct–Feb season); Etsy at the same price for vintage fashion buyers; damaged mink sells FB local to teddy-bear makers for $30–60.
+- **Price position:** list at the sold median (full-length mink $150–300, mink stoles $50–200, fox/silver fox jackets $150–400, Collins & Aikman faux ~$95, critter stoles $15–60); accept −15%, floor −25%; OBO; cut 10% after 30 days, pull in March.
+- **Photos:** 1) coat on a dress form, front; then back, FTC/species label, furrier label, lining and monogram, fur close-up (guard hair, density), leather side flexed at the hem, any bald spots/tears/rips, tape measure across the chest.
+- **State:** species from the label, colour, length, chest and sleeve measurements, leather supple with no tears, lining condition, odour, furrier label, "vintage/pre-ban" note for CA buyers, flaws by photo number.
+- **Pack / haul:** 4–8 lb; folded loosely with tissue in a garment box or large poly mailer, 5–8 lb class, $15–25; low damage risk, odour is the issue.
+- **Quote to a buyer:** "[Blackglama ranch mink / Russian sable] with the [Maximilian] furrier label in photo [4], leather supple and no shedding — ordinary estate mink sells for $150–300; labelled [species] coats bring [$X]."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$20 ship out − ~$20 ship in − price ≥ max($50, price). Only full-length female mink, sable, lynx or chinchilla at ≤ $60, with seller confirming supple leather; pass stoles, Persian lamb, rabbit and faux under typical pricing. Coats fold into a passenger seat. No authentication needed except species — rely on the label.

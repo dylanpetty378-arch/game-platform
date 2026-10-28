@@ -1,5 +1,5 @@
 # Vintage skateboards and collectible decks (Powell Peralta, Santa Cruz, Vision, G&S Fibreflex, Alva, Sims, Dogtown, Z-Flex)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay/Reverb-style browse Oct 2025 (Powell Peralta Ripper reissue, Santa Cruz Everslick, 1980s originals); sweep listings 2360, 2036; eBay sold knowledge 2024–25 (Vision Double Vision / Gator originals $150–400; Powell Ripper/Skull & Sword originals $300–1,000; 2000s–2020s reissues $60–120); Art of Skateboarding price references; surfertoday.com and concretewaves.com Fibreflex history; eBay listings for G&S Fibreflex Bowlrider/Teamrider decks (asks $250–600, 2025); run12 sheet 58; skateone.com reissue pricing; eBay/Reverb sold (agent knowledge Oct 2026); Terapeak G&S Fibreflex complete (2026-10-12) · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay/Reverb-style browse Oct 2025 (Powell Peralta Ripper reissue, Santa Cruz Everslick, 1980s originals); sweep listings 2360, 2036; eBay sold knowledge 2024–25 (Vision Double Vision / Gator originals $150–400; Powell Ripper/Skull & Sword originals $300–1,000; 2000s–2020s reissues $60–120); Art of Skateboarding price references; surfertoday.com and concretewaves.com Fibreflex history; eBay listings for G&S Fibreflex Bowlrider/Teamrider decks (asks $250–600, 2025); run12 sheet 58; skateone.com reissue pricing; eBay/Reverb sold (agent knowledge Oct 2026); Terapeak G&S Fibreflex complete (2026-10-12) · tells 2026-10-13
 Slug: vintage-skateboards · Aliases: vintage skateboard deck, OG deck, Bones Brigade, NOS deck, 70s skateboard, Fibreflex, Powell Peralta reissue, old school skateboard, collectible skateboard
 Summary: Toy/dept-store boards and used modern decks $10–40; reissues and worn 70s decks $40–200; 1980s pro originals and complete Fibreflex/Tracker/Kryptonics $200–1,200; NOS 80s in shrink, Dogtown/Alva/Z-Flex 70s $800–10,000.
 Buy rule (short): Buy confirmed 1980s originals ≤ $60–150 (see full rule), NOS reissue ≤ $40, 70s Fibreflex/Tracker/Kryptonics complete under $120; pass reissues ≥ $60 and sellers quoting eBay.
@@ -102,9 +102,13 @@ Deck 3–4 lb, needs a 33×10×4 box, $18–25; 70s complete ~5 lb, 30" long, $2
 $25–35 long box. eBay 13%. Resell on eBay or Facebook vintage-skate groups.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model/rider, year, original vs reissue (photo of copyright line and stamps), dimensions (length × width),
-NOS/used, and hardware brands. Photograph top, graphic, both ends, truck baseplates and wheel lettering. Title: maker,
-rider/model, year, "original" or "reissue", "NOS"/"complete", truck and wheel brands.
+- **Title words:** maker + rider/model + year + "original" or "reissue" + "NOS"/"complete"/"deck only" + truck and wheel brands + dimensions. Junk: "rare limited edition", "vintage skateboard" alone, "old school" without model. Example: `1987 Powell Peralta Caballero Dragon Original Deck Complete Independent Trucks Bones Wheels`.
+- **Where:** eBay BIN with offers (collectors and wall-art buyers); Facebook vintage-skate groups at the same price with no fee; NOS and first runs to a specialist auction; reissues sell at or below retail.
+- **Price position:** list at the sold median (Powell reissue shrink $90–140, TMNT Everslick $60–110, 1987 Caballero original used $300–500, Fibreflex complete ~$204 median, Vision Gator $400–1,200); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) graphic side full-length on plain background; then top/grip, copyright line and stamps under the graphic, both ends and nose/tail wear, truck baseplates (brand), wheel lettering, bearings, any delamination/cracks, tape measure for length and width.
+- **State:** maker, model/rider, year, original vs reissue (copyright line photo), length × width, NOS or used, truck and wheel brands, wear and delamination by photo number, hardware era.
+- **Pack / haul:** deck 3–4 lb in a 33×10×4 box, $18–25; 80s complete 8–10 lb, wheels wrapped so they cannot dent the graphic, long box with foam, $25–35.
+- **Quote to a buyer:** "An original [1987 Caballero], © date under the graphic in photo [3], on [Independent 169s and Bones] — the 2010s reissues are the $100 boards; original [model] completes sell for [$X]."
 
 ## Buy rule
 Merged rules from the earlier write-ups:

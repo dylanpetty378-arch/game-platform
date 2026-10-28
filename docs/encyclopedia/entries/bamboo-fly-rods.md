@@ -1,5 +1,5 @@
 # Bamboo (split-cane) fly rods (Heddon, Granger, South Bend, Montague, Orvis, Leonard, Payne)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: midcurrent.com "Are my old bamboo rods worth anything" (AMFF maker tiers), appraisily bamboo rod value guides, Classic Fly Rod Forum; eBay sold pattern (knowledge 2024–25); Terapeak Montague (median $90, n=49, noted in sweep 2026-10-12)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: midcurrent.com "Are my old bamboo rods worth anything" (AMFF maker tiers), appraisily bamboo rod value guides, Classic Fly Rod Forum; eBay sold pattern (knowledge 2024–25); Terapeak Montague (median $90, n=49, noted in sweep 2026-10-12)
 Slug: bamboo-fly-rods · Aliases: split bamboo, split cane rod, cane rod, bamboo fishing pole, antique fly rod, old bamboo fishing rod
 Summary: Unmarked/Montague/H-I/casting rods $20–75; South Bend, lower Heddon, Montague top grades w/ tube $80–300; Granger, Heddon #17/#20, Orvis Battenkill, Phillipson $250–1,500; Leonard/Payne/Garrison/Gillum $800–20,000.
 Buy rule (short): Named Granger/Heddon/Phillipson/Orvis/Winston rod with all tips ≤ $120–150; any Leonard/Payne/Thomas ≤ $200; always get the butt stamp photo first.
@@ -54,7 +54,13 @@ The maker stamp on the butt flat just above the grip; 3/2 configuration; length 
 Tube ~3–4 ft (up to 50"), 3–5 lb; USPS/UPS oversize, $25–40 each way. Sell on eBay (13%) or Classic Fly Rod Forum classifieds; photograph the stamp, ferrules and every tip.
 
 ## Selling it (for the buyer-facing listing)
-State maker and model, length, line weight if marked, piece/tip count (e.g. 3/2), all tips full length, set/straightness, finish (original/refinished), wraps condition, tube and bag. Photograph the stamp, each section and tip, ferrules, reel seat, grip, tube and bag. Keywords: maker + model + "bamboo fly rod" + length + "3/2" + "split cane" + "with tube".
+- **Title words:** maker + model (Heddon #17, Granger Special), "bamboo fly rod", length, "3/2", "split cane", "with tube", line weight if marked. Junk: "antique fishing pole", "cane pole", "rare". `Heddon #17 Black Beauty Bamboo Fly Rod 8.5' 3/2 Split Cane with Tube`
+- **Where:** eBay auction for named Heddon/Granger/Orvis (collectors bid); Classic Fly Rod Forum classifieds (no fee, same buyers); Lang's for Leonard/Payne. Montague/unmarked: eBay BIN or FB local.
+- **Price position:** Montague at the sold median ($90), OBO; named makers at the sold median ($350 Heddon #17, $450 Granger Special) BIN with offers, accept −10%; cut 15% after 45 days; spring is strongest.
+- **Photos:** first: full rod assembled on a plain background; then butt stamp, each section sighted down its length, ferrules, every tip to the top guide, reel seat, grip, wraps close-up, tube and bag.
+- **State:** maker/model, length, line weight, configuration (3/2), all tips full length, set/straightness, original vs refinished, wrap condition, ferrule fit, tube and bag included.
+- **Pack / haul:** in its tube or a 3–4 ft mailing tube, 3–5 lb, oversize $25–40; fits a passenger seat.
+- **Quote to a buyer:** "[Granger Special] [8.5'] [3/2] with both tips full length and no set — the [sub-8.5'] named-maker rods are what collectors pay for; Montague-grade cane is $90."
 
 ## Buy rule
 Buy when: a named Heddon/Granger/Phillipson/Orvis/Winston/Leonard 3/2 rod with all tips and tube ≤ $120 (newer write-up; the earlier one allowed ≤ $150), or any Leonard/Payne/Thomas at any price ≤ $200. Pass when: unmarked, Montague/H-I, missing tip, set/delaminated, refinished, casting-rod length (≤ 6.5'), or seller already prices per maker. Always ask for a photo of the butt stamp first. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (a rod tube does).

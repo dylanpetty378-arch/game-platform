@@ -1,5 +1,5 @@
 # Advertising glassware (root beer mugs, fast-food and soda promo glasses; A&W, Hires, Dad's, Frostie, Coca-Cola, Pepsi, McDonald's, Burger King, Pizza Hut, Libbey and Federal promos)
-Updated: 2026-10-13 · Sources: no web search budget this run; written from general knowledge. No Terapeak comps in db/comps.jsonl. Verification: eBay sold "vintage A&W root beer mug" https://www.ebay.com/sch/i.html?_nkw=vintage+a%26w+root+beer+mug&LH_Sold=1 ; A&W history https://en.wikipedia.org/wiki/A%26W_Restaurants ; collector glass reference https://www.collectorsweekly.com
+Updated: 2026-10-28 · Sources: no web search budget this run; written from general knowledge. No Terapeak comps in db/comps.jsonl. Verification: eBay sold "vintage A&W root beer mug" https://www.ebay.com/sch/i.html?_nkw=vintage+a%26w+root+beer+mug&LH_Sold=1 ; A&W history https://en.wikipedia.org/wiki/A%26W_Restaurants ; collector glass reference https://www.collectorsweekly.com
 Slug: advertising-glassware · Aliases: A&W mug, root beer mug, promo glass, fast food glass, character glass, Pepsi collector glass, Coca-Cola glass, Hires mug, Dad's mug, McDonald's glass, Welch's jelly glass
 Summary: 1970s–90s fast-food and soda promo glasses $3–10 each; A&W mugs (1960s–90s) $5–15 each, sets $20–40; early A&W (1950s "A&W" bullseye/arrow, embossed) and Hires/Dad's/Frostie mugs $15–40; rare Pepsi/Warner character glasses and pre-war Coca-Cola syrup-line glasses $25–150+ (general knowledge, verify).
 Buy rule (short): Pass on 1970s+ promo glasses and common A&W mugs; buy only pre-1950 embossed syrup-line glasses or rare character glasses at ≤ 25% of sold.
@@ -46,7 +46,13 @@ Rare variants (misprints, regional franchise mugs) exist but are hard to spot. G
 Heavy glass; $10–15 for three mugs, double-boxed (general knowledge, verify).
 
 ## Selling it (for the buyer-facing listing)
-Logo version, height, ounces, maker mark on base, any fading.
+- **Title words:** brand + item + logo version + era + size: "A&W root beer mug 1960s arrow logo 16 oz", "Hires mug frosted", "1920s Coca-Cola syrup line glass", "McDonald's 1977 glass"; Junk: "glass lot", "kitchen", "retro cups". Example: `Vintage A&W Root Beer Mug 1950s Bullseye Arrow Logo Embossed Heavy Glass 16 oz`.
+- **Where:** eBay BIN with offers for early A&W/Hires/Dad's/Frostie and syrup-line glasses; 1970s–90s promo glasses as a set, locally or eBay. No place beats eBay; the market is slow everywhere.
+- **Price position:** at the sold median (A&W mugs $12, p75 $18; Hires $16; syrup-line $20, p75 $25), accept −15%, floor p25; OBO; cut 10% after a month.
+- **Photos:** first photo the logo face-on against white; then maker mark on the base, rim and base for chips, logo wear under light, inside (cloudiness), height against a ruler, the set lined up.
+- **State:** logo version, height, ounces, maker mark on the base, logo fade, chips/cloudiness by photo number, reissue check (A&W/Coca-Cola retro reissues), count if a set.
+- **Pack / haul:** heavy glass; three mugs double-boxed with each wrapped, $10–15.
+- **Quote to a buyer:** "[1950s A&W] with the [bullseye arrow] logo, embossed heavy glass — the early franchise mug, not the 1990s reissue; logo unfaded, no chips; these run [$15–40] against [$5–15] for the common map logo."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$12 to buyer − ~$12 to Dylan − price ≥ max($50, price). Common A&W sets never qualify. Pass.

@@ -1,5 +1,5 @@
 # Aluminum serving ware (hand-wrought and hammered aluminum: Arthur Armour, Wendell August Forge, Everlast, Continental Silverlook, Buenilum, Rodney Kent, Palmer-Smith, Cromwell, Kensington (Alcoa), Russel Wright aluminum, Farberware, Cellini Craft, Federal Silver, Keystone Ware, World Hand Forged)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; prices estimates, verify); Dannie Woodard, "Hammered Aluminum: Hand Wrought Collectibles" (book); Wendell August Forge history (https://www.wendell.com/history); Terapeak /home/claude/game-platform/db/comps.jsonl: "aluminum canister set" median $27.44 (n=49), "Wear-Ever aluminum cone sieve with pestle" median $24.99 (n=50) — related aluminum kitchen items only.
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; prices estimates, verify); Dannie Woodard, "Hammered Aluminum: Hand Wrought Collectibles" (book); Wendell August Forge history (https://www.wendell.com/history); Terapeak /home/claude/game-platform/db/comps.jsonl: "aluminum canister set" median $27.44 (n=49), "Wear-Ever aluminum cone sieve with pestle" median $24.99 (n=50) — related aluminum kitchen items only.
 Slug: aluminum-serving-ware · Aliases: hammered aluminum, hand wrought aluminum, chafing dish, casserole holder, lazy susan, aluminum tray, Everlast, Continental, Buenilum, Wendell August, Arthur Armour, aluminum pitcher, silver look aluminum, food warmer
 Summary: Generic stamped aluminum trays, casserole holders, chafing dishes $10–35; maker-marked Everlast/Continental/Buenilum/Rodney Kent $15–50; Wendell August Forge and Arthur Armour artistic pieces $40–200; Russel Wright and Kensington design pieces $60–400.
 Buy rule (short): Pass on all unmarked/common aluminum; buy only Arthur Armour, Wendell August Forge (deep relief scenes) or Russel Wright pieces at ≤ $15.
@@ -58,7 +58,13 @@ Arthur Armour anvil marks; Russel Wright designs; Kensington. Otherwise they usu
 Light but bulky: chafing dish ~3 lb, 12x12x10 box, $12–18.
 
 ## Selling it (for the buyer-facing listing)
-Maker mark photo, dimensions, liner/burner included, dents, finish condition.
+- **Title words:** maker as marked (Wendell August Forge, Arthur Armour, Everlast, Buenilum, Rodney Kent), "hand wrought"/"hammered aluminum", item (tray, chafing dish, casserole holder), pattern (pine, dogwood, tulip), size, "complete with liner and burner". Junk: "silver", "antique", "rare". `Wendell August Forge Hammered Aluminum Tray Dogwood Pattern 14 in Hand Made`
+- **Where:** eBay BIN with offers for marked Wendell August/Arthur Armour/Russel Wright; generic trays and chafing dishes FB local or lots.
+- **Price position:** at the sold median (WAF trays $15, chafing dishes $25, Continental/Everlast $12–35, Rodney Kent/Buenilum sets $25–60, Armour/Wright $40–400), OBO, accept −25%, floor $8; cut or lot after 30 days (sell-through ~25–30%).
+- **Photos:** piece straight-on; maker mark close-up on the underside; hammered texture and pattern; dents and scratches under raking light; liner and burner with the stand; ruler.
+- **State:** maker mark, dimensions, pattern, liner/burner/lid included, dents, scratches, pitting, finish condition by photo number.
+- **Pack / haul:** light but bulky — chafing dish ~3 lb, 12×12×10 box, $12–18; carry-on class.
+- **Quote to a buyer:** "This is a marked [Wendell August Forge] [dogwood] tray, hand-hammered in [Grove City PA], [1940s], no dents; marked WAF pieces sell for $[12–40], unmarked trays $5–15."
 
 ## Buy rule
 Profit = median × 0.87 − ~$15 − ~$15 − price ≥ max($50, price). Common aluminum can't clear. Buy only designer/artist pieces (Armour, Wendell August scenes, Russel Wright, Kensington) with comps ≥ $110 at ≤ $15.

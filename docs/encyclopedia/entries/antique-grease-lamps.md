@@ -1,5 +1,5 @@
 # Antique grease, betty and early oil lamps (betty lamps, crusie/phoebe lamps, tin spout lamps, miners' tin "teapot" lamps, Scandinavian iron fire lighters)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Rushlight Club https://www.rushlight.org/ (early lighting collectors, not fetched); batch file b52 Lens data
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Rushlight Club https://www.rushlight.org/ (early lighting collectors, not fetched); batch file b52 Lens data
 Slug: antique-grease-lamps · Aliases: betty lamp, grease lamp, crusie, phoebe lamp, miners oil lamp, whale oil lamp, pig lamp, sparking lamp, fat lamp, tin lamp, wick lamp, smudge pot
 Summary: 20th-century tin wick cans and smudge pots $10–35; miners' tin "teapot"/cap lamps $30–120; 18th–19th c. wrought-iron betty and crusie lamps $80–400; signed/dated or brass-decorated betties and rare forms $300–1,500 (general knowledge, verify)
 Buy rule (short): Pay ≤ $20 only for genuine hand-forged iron betty/crusie lamps (hinged lid, hanging hook, wick channel); pass on tin cans with wicks.
@@ -47,7 +47,13 @@ Real 18th–19th c. iron betties sold as "old rusty lamp" in barn lots; Derr sig
 Small, 1–2 lb, $10–14.
 
 ## Selling it (for the buyer-facing listing)
-State construction (forged/riveted vs rolled tin), dimensions, completeness (lid, hook, pick), and honest period.
+- **Title words:** type (betty lamp/crusie/phoebe/miner's teapot lamp), "wrought iron hand forged", "18th/19th century" only with forging tells, "with lid hook pick", maker where signed (Derr), "primitive lighting". Junk: "rustic decor", "oil lamp" alone, "antique" on rolled-tin cans. `Antique Wrought Iron Betty Lamp Hand Forged Hinged Lid Hook Pick 19th C`
+- **Where:** eBay BIN with offers (Rushlight Club and primitives buyers; betty median $60, crusie $82); tin wick cans and smudge pots local.
+- **Price position:** forged betty/crusie at the sold median ($60–82), OBO, accept −15%, floor p25 ($40–50); signed brass betties at p75 or above, firm; cut 10% at 45 days — slow niche.
+- **Photos:** first: lamp hanging in profile; then rivets and hammer marks close-up, lid hinge, hook and pick, wick channel, underside, any signature/date, ruler.
+- **State:** construction (forged/riveted vs rolled tin), dimensions, completeness (lid, hook, pick), replaced hanger or not, rust/holes by photo number, honest period.
+- **Pack / haul:** 1–2 lb, small box with the hook padded, $10–14.
+- **Quote to a buyer:** "Hand-forged with riveted spout and hinged lid, hook and pick all original — the rolled-tin wick cans are $15; a complete forged [betty] is the $60–250 piece."
 
 ## Buy rule
 Profit = median × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). Tin cans and smudge pots never. 19th c. betties (median ~$150): pay ≤ $40.

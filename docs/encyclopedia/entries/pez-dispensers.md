@@ -1,5 +1,5 @@
 # Pez dispensers (PEZ Haas (Austria), PEZ Candy Inc. (Orange CT); made in Austria, Yugoslavia, Hungary, Hong Kong, China, Slovenia)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep (Hulk $26, Tweety on card $10); reference: Pezcollectors.com / Shawn Peterson's Collector's Guide to Pez (verify)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep (Hulk $26, Tweety on card $10); reference: Pezcollectors.com / Shawn Peterson's Collector's Guide to Pez (verify)
 Slug: pez-dispensers · Aliases: Pez, Pez dispenser, no feet Pez, footless Pez, Pez regular, Pez lot, Pez on card, MOC Pez, Pez candy, Hulk Pez, Mickey Pez, Santa Pez, Psychedelic Eye, Pez display, Pez Bride, Pez Make-a-Face
 Summary: Feet-era (1987+) dispensers loose or carded $1–8; 1970s–80s no-feet character Pez $10–40; 1960s–early 70s no-feet rarities (Universal Monsters, Bullwinkle, Psychedelic Hand/Eye, Mary Poppins) $50–300; "Regulars" (1950s, no head) and rarities (Make-a-Face, Bride, Elvis, Political) $300–10,000+.
 Buy rule (short): Buy only no-feet dispensers (thin stem without bottom feet) with an uncommon character at ≤ $5–10 each, or lots containing 1960s–70s no-feet heads at ≤ $3 per piece; pass on footed and carded post-1987 Pez.
@@ -49,7 +49,13 @@ Active collector base; no-feet dispensers sell steadily in days to weeks. Footed
 Tiny and light: $5 in a padded mailer. Ideal.
 
 ## Selling it (for the buyer-facing listing)
-Feet/no-feet, patent number, country, head condition, spring working, any swaps.
+- **Title words:** character + "Pez" + "no feet" + patent number + country ("Austria", "Yugoslavia", "Hong Kong") + decade; carded: "MOC"; Junk: "vintage Pez" on a footed one, "candy", "lot" unless it is. Example: `1978 Hulk Pez Dispenser No Feet Dark Green Stem Austria Pat 3.9 Vintage`.
+- **Where:** eBay BIN with offers for no-feet and early pieces (collectors buy in days–weeks); footed 1987+ only as a lot, locally or on eBay. Rarities need collector authentication first.
+- **Price position:** at the sold median (1978 Hulk $20; Pez Regular $15; Make-a-Face wide spread, median $152), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the dispenser side-on showing the feet/no-feet base; then patent number and country on the stem, head front and back, hinge pin, spring in action (open), any paint wear, card front/back if carded.
+- **State:** character, feet/no-feet, patent number, country, head condition (chewed, discoloured), spring works, any head/stem swaps stated, card condition if carded.
+- **Pack / haul:** tiny; padded mailer with bubble around the head; $5.
+- **Quote to a buyer:** "No-feet [1978 Hulk], [Austria] stem, patent [3.9] — the original run, not the footed re-release; head and hinge intact, spring works, the version collectors look for is this [dark green stem]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$5 to buyer − ~$5 to Dylan − price ≥ max($50, price). Single common no-feet pieces never qualify. Buy only early no-feet rarities with confirmed ≥ $80 comps at ≤ $15, or lots with several no-feet heads at ≤ $3 each. Avoid rarities that need authentication unless very cheap.

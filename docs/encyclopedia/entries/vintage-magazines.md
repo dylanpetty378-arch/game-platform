@@ -1,5 +1,5 @@
 # Vintage magazines (Life, Look, Saturday Evening Post, Playboy, National Geographic, TV Guide, Rolling Stone, Mad, Highlights, Barbie, Seventeen, Vogue, Harper's Bazaar, Popular Mechanics, pulp and comic-adjacent titles)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep (Highlights $13, Barbie magazine $22)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep (Highlights $13, Barbie magazine $22)
 Slug: vintage-magazines · Aliases: old magazines, magazine lot, Life magazine, Look magazine, Saturday Evening Post, Playboy, National Geographic, TV Guide, Rolling Stone, Mad magazine, Highlights for Children, Barbie magazine, fashion magazine, Vogue, pulp magazine, Famous Monsters, sci-fi digest
 Summary: Most issues $2–10 (National Geographic, Reader's Digest, Life 1950s–70s ordinary covers, Highlights); key covers (Marilyn, Beatles, JFK, moon landing, first issues, Famous Monsters, early Rolling Stone, 1950s Vogue/Bazaar with famous photographers) $20–150; pulps, Playboy Dec 1953 and true first issues $100–5,000+.
 Buy rule (short): Buy only key-cover issues (first issues, celebrity/event covers, Famous Monsters, early Rolling Stone, 1940s–60s fashion with Avedon/Penn, pulps) at ≤ $10 each or big lots at ≤ $1 per issue with keys; pass on National Geographic, Reader's Digest, Highlights and random 1970s–90s single issues.
@@ -50,7 +50,13 @@ Huge supply; most issues never sell. Key covers move steadily. Lots are slow and
 Media Mail ($4–6 for one issue, ~$1/lb more for lots) only if no advertising-focused content—magazines with ads technically don't qualify for Media Mail; use Ground Advantage $6–10. Bag and board.
 
 ## Selling it (for the buyer-facing listing)
-Issue date/number, cover subject, mailing label yes/no, completeness, condition grade, notable content.
+- **Title words:** magazine, exact date (month day year), cover subject (Marilyn Monroe, Beatles, Apollo 11), "newsstand" if no label, "complete", issue number for firsts, notable inside content. Junk: "lot of old magazines", "rare", "vintage ads" alone. `Life Magazine August 17 1962 Marilyn Monroe Cover Newsstand No Label Complete`
+- **Where:** eBay BIN with offers for key covers and firsts; lots sell slowly and heavy — local or donate the National Geographic/Reader's Digest tier.
+- **Price position:** key covers at the sold median ($15–60), OBO, accept −15%; 1950s Playboy and early Rolling Stone at $30–200 median, firm 3 weeks; common issues $2–12 lotted. Cut 10% at 45 days.
+- **Photos:** first: cover straight-on, flat; then back cover, spine/staples, mailing label or clean newsstand corner, table of contents, notable article/ad, each tear, clipped coupon or missing page, water stains.
+- **State:** title, issue date/number, cover subject, newsstand vs subscription (label), completeness (pages counted, coupons intact), condition grade, smells/mould, notable content named.
+- **Pack / haul:** bag and board, rigid mailer; Ground Advantage $6–10 (ad-heavy magazines don't qualify for Media Mail); lots ~$1/lb more.
+- **Quote to a buyer:** "[Life, Aug 17 1962], the [Marilyn] cover, newsstand copy with no label and all pages — ordinary Life issues are $5; the key covers are the $15–60 ones, and label-free copies lead."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$7 to buyer − ~$7 to Dylan − price ≥ max($50, price). Single common issues never qualify. Buy keys with confirmed ≥ $80 comps at ≤ $15, or lots with several visible keys at ≤ $1 per issue. Pass on children's magazines.

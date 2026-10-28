@@ -1,5 +1,5 @@
 # Antique canning / fruit jars (Ball, Atlas, Kerr, Mason's Patent 1858, Lightning, Drey, Root, Hazel-Atlas, Kilner; colours aqua, cornflower, amber, cobalt, olive)
-Updated: 2026-10-13 · Sources: listing photo pid 7952141294 (Craigslist, viewed – embossed "Ball / IDEAL / PAT'D JULY 14 1908", aqua, wire bail and glass lid); Ball Corporation logo dating guide (Minnetrista / Ball Jar Heritage – https://www.minnetrista.net/ and https://www.freshpreserving.com/ "Ball jar logos" age chart); Red Book of Fruit Jars (Douglas Leybourne, reference); general knowledge of eBay sold patterns (no web search this run – prices "(general knowledge, verify)"); Federation of Historical Bottle Collectors (https://www.fohbc.org/). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: listing photo pid 7952141294 (Craigslist, viewed – embossed "Ball / IDEAL / PAT'D JULY 14 1908", aqua, wire bail and glass lid); Ball Corporation logo dating guide (Minnetrista / Ball Jar Heritage – https://www.minnetrista.net/ and https://www.freshpreserving.com/ "Ball jar logos" age chart); Red Book of Fruit Jars (Douglas Leybourne, reference); general knowledge of eBay sold patterns (no web search this run – prices "(general knowledge, verify)"); Federation of Historical Bottle Collectors (https://www.fohbc.org/). No Terapeak rows for this type in db/comps.jsonl.
 Slug: antique-canning-jars · Aliases: Ball jar, blue Ball jar, Ball Perfect Mason, Ball Ideal, Atlas Mason, lightning jar, bail jar, fruit jar, mason jar, green mason jar, aqua jar, old jars
 Summary: Common aqua/clear Ball Perfect Mason and Ideal quarts $5–20; uncommon colours (olive, amber, deep cobalt), early 1858 "Mason's Patent" variants, midget pints and half-gallons $25–150; rare named jars and true amber/cobalt/odd-closure jars $150–2,000+.
 Buy rule (short): Pass common aqua/clear Ball, Atlas and Kerr jars; buy only true off-colour (amber, olive, cobalt, milk glass) or odd-closure / small-maker embossed jars at ≤ $20, and verify with the Red Book.
@@ -45,7 +45,13 @@ True olive/amber/cobalt jars mixed with aqua; sellers often call any coloured ja
 Glass, 1.5–3 lb with lid; double-box with bubble, $12–18. Breakage risk moderate.
 
 ## Selling it (for the buyer-facing listing)
-State exact embossing, colour in natural light, lip type (ground or smooth), base marks/mould numbers, lid/bail originality, and any haze/chips. Note that patent dates are not manufacture dates.
+- **Title words:** maker + embossing + colour + size + lip/closure: "Ball Perfect Mason olive green quart", "Mason's Patent 1858 cobalt", "The Gem amber", "wax sealer", "midget pint", "ground lip"; Junk: "vintage jars lot", "rustic wedding", "rare" on aqua Balls, "Heritage Collection" (modern). Example: `Antique Mason's Patent Nov 30th 1858 Cobalt Blue Quart Jar Ground Lip Zinc Lid`.
+- **Where:** eBay BIN with offers for off-colour, small-maker and ground-lip jars (collectors buy fast); aqua Ball/Atlas quarts local in lots (decor and weddings); true rarities to Glass Works / Heckler auction.
+- **Price position:** at the sold median (aqua Ideal $13, p75 $16; cobalt 1858 $45, p75 $77; wax sealer $30, p75 $86), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo against white in natural light showing true colour; then embossing straight-on, lip from above (ground vs smooth), base marks and mould numbers, lid/bail, held to light for haze/cracks, ruler for height.
+- **State:** exact embossing, colour in natural light, lip type, base marks/mould number, lid and bail original or replaced, haze/chips/cracks by photo number; note patent date ≠ manufacture date; modern Heritage check.
+- **Pack / haul:** 1.5–3 lb with lid; bubble, double-box; $12–18.
+- **Quote to a buyer:** "[Mason's Patent 1858] in true [cobalt], ground lip — the pre-1900 jar, not Ball's 2010s Heritage colours; no haze, original [zinc lid]; aqua ones are [$8–20], this colour is [$45–300]."
 
 ## Buy rule
 Common aqua jar resale $10–20 ⇒ profit negative after ~$15 shipping each way. Pass. Buy only off-colour or rare embossed jars where Red Book/eBay sold ≥ $100 and price ≤ $25. Passenger-seat sized. No haze polishing.

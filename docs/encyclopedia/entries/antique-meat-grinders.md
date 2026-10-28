@@ -1,5 +1,5 @@
 # Antique meat grinders (Enterprise, Universal/Landers Frary & Clark, Chop-Rite, Keystone, Griswold, Hussmann, Alexanderwerk, Spong)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Google Lens result batch b27 (pid 7966891926, Lens median $55)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Google Lens result batch b27 (pid 7966891926, Lens median $55)
 Slug: antique-meat-grinders · Aliases: food chopper, sausage grinder, cast iron grinder, butcher grinder, Enterprise No. 10/22/32, Chop-Rite, Universal food chopper, meat mincer
 Summary: common clamp-on household choppers (Universal, Keystone, Enterprise #5/#10) $15–40; large table/butcher grinders #22/#32 $50–150; early decorative Enterprise/coffee-mill crossovers and complete store models $150–400 (general knowledge, verify)
 Buy rule (short): Buy only large-number (#22/#32) or decorative early store grinders under ~$40 that a car seat can hold; common clamp-on choppers are a pass.
@@ -46,7 +46,13 @@ Original painted store finish under grime; the number size; matched-maker plates
 Heavy: #22 ~15–20 lb, #32 ~25–35 lb. Shipping $25–45 to buyer — kills most margins.
 
 ## Selling it (for the buyer-facing listing)
-Give maker, size number, weight, completeness (plate hole size, knife), rust level, whether it turns freely.
+- **Title words:** maker + size number + "meat grinder" + "cast iron" + "complete with plates knife" + "hand crank" + "tinned"/"store model": "Enterprise No. 22", "Chop-Rite 32", "Griswold No. 3 food chopper"; Junk: "antique kitchen tool", "primitive", "sausage" alone. Example: `Enterprise No. 22 Cast Iron Meat Grinder Complete Knife 2 Plates Hand Crank Philadelphia`.
+- **Where:** eBay BIN with offers for #22/#32, Griswold and painted store models (homesteaders and kitchen collectors, hundreds sold a month); Universal/Keystone clamp-ons local or in a lot. Local beats eBay for anything over 15 lb under $100.
+- **Price position:** at the sold median (Enterprise No. 22 $31, p75 $45; Chop-Rite No. 32 $130, p75 $175; common clamp-ons $15–40), accept −15%, floor p25; OBO; cut 10% after 3 weeks. Sell matched plates/knives separately ($10–20 each) if the body is junk.
+- **Photos:** first photo three-quarter with the crank; then maker and size number cast on the body, patent dates, plates and knife laid out (hole size), worm/auger, inside the throat, base/clamp, rust and any cracks, original paint under grime.
+- **State:** maker, size number, weight, completeness (plates with hole sizes, knife, crank, clamp/pulley), turns freely, rust level, cracks, sandblasted/repainted or original finish, flaws by photo number.
+- **Pack / haul:** #22 15–20 lb, #32 25–35 lb; remove plates, knife and crank and bag them, pad the casting, double-box ($25–45); carry-on size.
+- **Quote to a buyer:** "[Enterprise No. 22], Philadelphia casting with the patent dates, [two plates and the knife] — the originals, not the Chinese clone; turns free, no cracks; a complete [No. 32] runs [$130] and this is the one homesteaders buy to use."
 
 ## Buy rule
 Profit = median × 0.87 − ship to buyer ($25–45) − ship to Dylan − price ≥ max($50, price). A $120 grinder bought at $20 ≈ $104 − $35 − $30 − $20 = $19 → pass. Only painted store models (median ≥ $250) at ≤ $50 work.

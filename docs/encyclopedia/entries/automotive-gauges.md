@@ -1,5 +1,5 @@
 # Vintage automotive and motorcycle gauges (Nippon Seiki (Honda/Yamaha/Kawasaki/Suzuki OEM), Stewart-Warner, Sun Tach, AutoMeter, Smiths, VDO, Jaeger)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Verify on eBay sold for the exact OEM part number, and on model forums (e.g., https://www.sohc4.net for Honda fours, https://www.hondatwins.net).
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl). Verify on eBay sold for the exact OEM part number, and on model forums (e.g., https://www.sohc4.net for Honda fours, https://www.hondatwins.net).
 Slug: automotive-gauges · Aliases: tachometer, tach, speedometer, gauge cluster, rev counter, Nippon Seiki tach, Sun tach, Stewart Warner gauge, motorcycle tach
 Summary: Generic/unknown-fitment tachs $15–50; Honda/Yamaha/Kawasaki 1960s–70s OEM Nippon Seiki tachs $50–200 (working, model-specific); Sun Super Tach II, Stewart-Warner Wings, Smiths chronometric for British classics $100–400.
 Buy rule (short): Pass unless the exact model fitment is identified, it's mechanical (cable-drive) and the seller shows it works or it's a known-high model; never pay > 40% of the model's sold median.
@@ -45,7 +45,13 @@ Sellers rarely know which bike it came from; red-zone position + scale + face de
 Small, ~1 lb, $8–12. Pack lens carefully.
 
 ## Selling it (for the buyer-facing listing)
-Give part number, model fitment, mechanical/electronic, tested (show video spinning cable input), lens/face condition.
+- **Title words:** maker + fitment + part number + type + "tested": "Honda CB350 CL350 tachometer Nippon Seiki 37250-xxx 1968-69", "Sun Super Tach II", "Stewart-Warner Wings", "NOS"; Junk: "vintage tachometer" alone, "motorcycle part", "rat rod". Example: `1968-69 Honda CB350 CL350 Tachometer Nippon Seiki OEM 37250-286 Tested Working`.
+- **Where:** eBay BIN with offers (restorers search by model; 20–60 sales per model/month). No local market.
+- **Price position:** at the sold median (Nippon Seiki $40, p75 $55; working OEM Honda 350/450/500 $50–150; CB750 K0/Kawasaki H2/Sun Super Tach $150–400; NOS boxed $200–600), accept −15%, floor p25; OBO; untested sells at a discount, cut 10% after 3 weeks.
+- **Photos:** first photo the face straight-on; then back with the part number, cable input or wire leads, lens (fog/yellowing), face fade, cup dents, mounting hardware, box for NOS; video spinning the cable input with a drill and the needle sweeping.
+- **State:** part number, model fitment and years, mechanical or electronic, tested (how) or untested, lens/face condition, bouncing needle, odometer reading for speedos, repro check (no part number, light case, wrong font).
+- **Pack / haul:** ~1 lb; lens faced with foam, bubble, small box; $8–12.
+- **Quote to a buyer:** "OEM [Nippon Seiki] tach, part [37250-286], needle sweeps clean on a drill test — the original for the [1968–69 CB350], not the Taiwan repro; working originals run [$50–150] and a restoration costs [$100–200]."
 
 ## Buy rule
 This is a "tested" problem: Dylan avoids untested electronics; a mechanical tach can be spin-tested but the seller must show it. At $60 asking, needs sold median ≥ ~$150 to make $50: only CB750/rare-model or NOS boxed units qualify.

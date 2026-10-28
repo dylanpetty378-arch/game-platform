@@ -1,5 +1,5 @@
 # Designer accessories — boxed small accessories and gift sets (Yves Saint Laurent, Christian Dior, Pierre Cardin, Givenchy, Lanvin, Cartier "Must de", Dunhill, Gucci)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run); Google Lens result in batch b27 (pid 7932566752, Lens median $342 — asking prices, unverified)
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge (no web search this run); Google Lens result in batch b27 (pid 7932566752, Lens median $342 — asking prices, unverified)
 Slug: designer-accessories · Aliases: YSL collection, vintage YSL box, designer gift set, cufflinks set, tie bar set, keychain, money clip, designer pen set, designer lighter, licensed accessories
 Summary: licensed 1970s–90s gift-box accessories (keychains, tie bars, cufflinks, pens, combs) $15–60; better metal/enamel pieces and lighters $40–150; true house-made fine jewelry/leather/Cartier/Dunhill lighters $150–600+ (general knowledge, verify)
 Buy rule (short): Only buy when the contents are visible and identifiable as a sought piece under ~1/4 of its sold median; an empty or closed box is a pass, and anything needing authentication is out of scope.
@@ -62,7 +62,13 @@ Liquid for recognisable items; slow for generic licensed cufflinks/keyrings. Jap
 Small, light (< 1 lb). Bubble mailer in a small box, $5–8 to buyer. Lighters must ship empty of fuel (USPS ground only; no butane).
 
 ## Selling it (for the buyer-facing listing)
-Describe as "vintage licensed Yves Saint Laurent" accessory where applicable; photograph every mark, the box, inserts and any wear; state metal content only if marked; test lighters/pens and say so. Avoid "authentic" claims you cannot prove.
+- **Title words:** house ("Yves Saint Laurent", "Christian Dior", "Cartier Must"), "vintage licensed", item (gas lighter, cufflinks, keyring, pen set), metal only if marked, "boxed"/"gift set", decade, "working" for lighters. Junk: "authentic" claims, "Gucci/Hermès" (out of scope), "rare", "gold" on plate. `Vintage Licensed Yves Saint Laurent Gas Lighter Boxed Gold Tone 1980s Working`
+- **Where:** eBay BIN with offers (lighter and pen collectors as well as fashion buyers); no better venue; Cartier/Dunhill need authentication and stay out of scope.
+- **Price position:** licensed costume at the sold median ($15–60; boxed adds 20–40%), pens/lighters $40–150, Cartier Must lighters $170; OBO, accept −20%, floor $12; cut after 30 days (Japan/Europe sellers flood the category).
+- **Photos:** item open on the box; every mark and hallmark close-up; box exterior, inserts and papers; plating wear at edges; lighter sparking or pen writing (short video); ruler.
+- **State:** "vintage licensed [house]" accessory, every mark, box and inserts included, metal content only if marked, tested and working (lighter sparks/holds gas; pen writes), plating wear, scratches by photo number; no "authentic" claims.
+- **Pack / haul:** pocket, under 1 lb, bubble mailer in a small box $5–8; lighters ship empty of fuel, USPS ground only.
+- **Quote to a buyer:** "This is a boxed, licensed [YSL] [gas lighter], [1980s], marked [on the base] and tested working; boxed licensed lighters sell for $[40–150], loose keyrings and tie bars $15–60."
 
 ## Buy rule
 Contents must be visible and identifiable. Profit = median × 0.87 − ~$8 − ~$8 − price ≥ max($50, price). For a $40 typical YSL set this means buying at ≤ ~$0 — so only pens/lighters/sterling pieces with a ≥ $150 median at ≤ $50 qualify. Pass on anything needing authentication (Cartier, Dunhill, Hermès, Gucci high-end) per Dylan's rules. Closed-box listings: ask the seller for an open photo or pass.

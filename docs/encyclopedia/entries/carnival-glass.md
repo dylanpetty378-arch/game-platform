@@ -1,5 +1,5 @@
 # Carnival glass (Fenton, Northwood, Imperial, Millersburg, Dugan/Diamond, Indiana Glass, Westmoreland, Jeannette)
-Updated: 2026-10-13 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Carnival_glass ; Carnival Glass Society / Seeck auction results (not retrieved this run); db/comps.jsonl has no carnival-glass sold data
+Updated: 2026-10-28 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Carnival_glass ; Carnival Glass Society / Seeck auction results (not retrieved this run); db/comps.jsonl has no carnival-glass sold data
 Slug: carnival-glass · Aliases: iridescent glass, Harvest Grape, marigold glass, Indiana carnival, Taffeta glass, depression iridescent, rainbow glass, blue carnival pitcher set
 Summary: 1960s–80s reissue/Indiana/Federal pieces $10–40 (pitcher sets $40–90); common old (1905–1930) marigold bowls $20–60; old colored Northwood/Fenton/Millersburg bowls $60–300; rare colors/patterns $300–10,000+
 Buy rule (short): Old (pre-1930) carnival in purple, amethyst, ice/pastel or rare patterns at ≤ 1/3 of sold; late Indiana/Fenton reissue sets are pass above ~$25.
@@ -52,7 +52,13 @@ Old Northwood marks; strong base colors (amethyst, cobalt) in old pieces; aqua o
 Pitcher sets 8–12 lb boxed; high breakage risk; $25–40. Fits a passenger seat in a box.
 
 ## Selling it (for the buyer-facing listing)
-Identify maker/age honestly (reissue vs old), dimensions, count, chips, iridescence condition, light-through-base color photos.
+- **Title words:** maker (Northwood/Fenton/Imperial/Indiana), pattern (Grape & Cable, Harvest Grape), form (bowl/pitcher set), colour (marigold/amethyst/blue), era ("antique" only pre-1930). Junk: "rainbow glass", "rare", "vintage" on reissues. `Northwood Grape & Cable Amethyst Carnival Glass Bowl 9" Antique`
+- **Where:** eBay BIN with offers for old colored/Northwood pieces; carnival auction houses for rare colors; FB local for Indiana Harvest Grape sets (shipping kills eBay margin).
+- **Price position:** old pieces at the sold median (Northwood bowl median $35, Millersburg $70), accept −15%, floor at p25; OBO. Indiana sets $40–60 local, cut after 3 weeks.
+- **Photos:** first: piece angled under natural light showing iridescence; then base held to light (base colour), mark/underside, rim edge along the line, each chip/flake, set count on one shot.
+- **State:** maker/age honestly (old vs reissue), pattern, colour, height/diameter, piece count, chips/flakes/iridescence wear by photo number, dishwasher fading.
+- **Pack / haul:** sets 8–12 lb boxed, double-box every piece, $25–40; high breakage risk. Fits a passenger seat in a box.
+- **Quote to a buyer:** "This is [Northwood] [Grape & Cable] in [amethyst], old carnival c. 1907–1930 with the base colour visible through the glass — reissue sets go for a third of this."
 
 ## Buy rule
 Profit = median × 0.87 − ~$30 − ~$30 − price ≥ max($50, price). Indiana sets never qualify. Old colored Northwood/Fenton pieces only at ≤ 1/3 of sold. Fits a car seat.

@@ -1,5 +1,5 @@
 # Antique washboards (National Washboard Co., Columbus Washboard Co., Dubl Handi, Maid-Rite, Brass King, glass and enamel boards)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("antique washboards" median $20 n=49, p25 $14.99 p75 $29.95; "National Washboard Co Zinc King washboard" median $19 n=50, p25 $13.75 p75 $24.69); Columbus Washboard Company history (https://www.columbuswashboard.com, general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("antique washboards" median $20 n=49, p25 $14.99 p75 $29.95; "National Washboard Co Zinc King washboard" median $19 n=50, p25 $13.75 p75 $24.69); Columbus Washboard Company history (https://www.columbuswashboard.com, general knowledge, verify). No web search this run.
 Slug: antique-washboards · Aliases: wash board, scrub board, washing board, laundry board, primitive washboard, Zinc King, Brass King, glass washboard, lingerie washboard
 Summary: Common galvanized/zinc boards $12–30; glass, brass and graphic-advertising boards $30–60; cobalt glass, enamel ("granite") or all-wood/early patented boards $60–200.
 Buy rule (short): Pass on zinc/galvanized boards; only cobalt/blue glass, enamelware or hand-made all-wood boards at ≤ $20 are worth a look, and even those only clear profit when locally cheap.
@@ -47,7 +47,13 @@ Glass colour (blue/cobalt glass boards are worth several times clear) and enamel
 About 24 × 12.5 × 2 in, 2–4 lb; $15–25 shipped. Glass boards need heavy padding.
 
 ## Selling it (for the buyer-facing listing)
-Give maker, model number, surface type, size, and say whether it's a working board or decor. Photograph the header and back.
+- **Title words:** maker + model + surface + "washboard": "National Washboard Co No. 860 Brass King", "Glass King 511", "cobalt glass washboard", "Columbus Dubl Handi"; Junk: "laundry decor", "rustic", "primitive", "antique" on a new Dubl Handi. Example: `National Washboard Co No. 860 Brass King Washboard Chicago Saginaw Memphis Vintage`.
+- **Where:** local FB for common zinc boards (supply is huge at $5–20; 24" box eats margin); eBay BIN with offers only for glass colour, brass, enamel or soap-advertising headers.
+- **Price position:** at the sold median (Zinc King $14–32; Brass King $20, p75 $29; Maid-Rite $48; cobalt/enamel/early wood $60–200), accept −15%, floor p25; OBO; cut 10% after a month.
+- **Photos:** first photo front straight-on with the header readable; then header macro (maker, model, cities), surface close-up (zinc/brass/glass/enamel), back, frame joints for splits, loose ribs, glass for cracks, ruler for size.
+- **State:** maker, model number, surface type, size, frame condition, rust holes/cracked glass/loose ribs by photo number, "working board or decor", current-production Columbus check.
+- **Pack / haul:** 24×12.5×2", 2–4 lb; flat box, glass boards heavily padded both faces; $15–25. Fits a passenger seat.
+- **Quote to a buyer:** "[Brass King 860] with the three-city header — the 1920s–50s National board, not the Columbus one still made today; frame tight, surface uncracked; the zinc ones are [$15–30], brass and glass [$30–60]."
 
 ## Buy rule
 Profit = median × 0.87 − ~$18 to buyer − ~$15 to Dylan − price. Zinc King median $19 → net $16 − $33 = loss. **Pass on all galvanized boards.** Cobalt glass/enamel (~$90) at ≤ $10 barely clears $50. Practically: pass unless rare surface and nearly free.

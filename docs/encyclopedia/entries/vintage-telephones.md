@@ -1,5 +1,5 @@
 # Vintage telephones (Western Electric/Bell System, Automatic Electric/GTE, Kellogg, Stromberg-Carlson, ITT, North Electric, novelty phones: Coca-Cola, Mickey Mouse, Snoopy, Garfield, hamburger)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Old Phone Shop identification guides https://www.oldphoneshop.com/ ; Telephone Collectors International https://www.telephonecollectors.org/ ; Western Electric date-stamp notes from collectors (e.g. https://www.paul-f.com/ )) — prices are estimates (general knowledge, verify) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (references: Old Phone Shop identification guides https://www.oldphoneshop.com/ ; Telephone Collectors International https://www.telephonecollectors.org/ ; Western Electric date-stamp notes from collectors (e.g. https://www.paul-f.com/ )) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: vintage-telephones · Aliases: rotary phone, dial phone, Bell telephone, Western Electric 500, princess phone, Trimline, candlestick phone, wall phone, novelty phone, Coke phone, landline phone, retro phone
 Summary: Common Western Electric 500/2500 desk phones $20–50 (colors $40–90); Automatic Electric/GTE Type 80/90 $25–60; Princess and Trimline $25–70; Western Electric 302 (1937–54) $60–200; candlesticks and wood wall phones (1890s–1920s) $150–600; novelty phones $15–60 (Mickey Mouse 1970s, Snoopy & Woodstock $40–120).
 Buy rule (short): Buy Western Electric 302s, candlesticks, wood crank wall phones and rare colors (pink/turquoise/aqua/red 500s, ivory 302s) ≤ 30% of median; pass on beige/black/brown 500s, GTE 80s and 1990s novelty phones.
@@ -61,7 +61,13 @@ Steady decor/prop demand; colored phones sell in 1–3 weeks. Common brown/beige
 3–6 lb, $15–20; handset can crack the cradle if not padded.
 
 ## Selling it (for the buyer-facing listing)
-Model, color, date code, whether it rings and dials (tested on landline), cord type, original or modular conversion.
+- **Title words:** maker + model (302, 500, 554, Princess, Ericofon) + colour + "rotary" + "desk/wall phone" + date code + "tested rings dials"; novelty: licensor + character + year. Junk: "old phone", "retro telephone", "antique" on a 1960s 500. Example: `Western Electric 500 Rotary Desk Phone Pink 1962 Date Code Tested Rings Dials`.
+- **Where:** eBay BIN with offers (decor/prop buyers; coloured phones sell in 1–3 weeks; brown/beige sit); common black/beige 500s in a FB local lot, since shipping equals the price.
+- **Price position:** list at the sold median (black 500 $20–50, colour 500/554/Ericofon $40–120, 302 $80–250, candlesticks/oak wall phones $150–600, Coca-Cola disc ~$22); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) front three-quarter, handset cradled; then base underside with model and date codes, handset codes, dial face and card, cord and plug (original or modular), colour in daylight, any cracks; video of dialing and ringing on a landline.
+- **State:** model, colour (original or repainted), date codes matching, tested rings and dials on a landline or untested, cord type, original or modular conversion, candlestick parts present, flaws by photo number.
+- **Pack / haul:** 3–6 lb; handset wrapped separately so it cannot crack the cradle, single box with 2" foam, 5-lb class, $15–20; candlesticks double-boxed.
+- **Quote to a buyer:** "A [pink 1962 Western Electric 500 / 302], date codes matching in photo [2], tested ringing and dialing in the video — the beige 2500s are the $15 phones; [colour/model] examples sell for [$X]."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$15 ship out − ~$15 ship in − price ≥ max($50, price). Practically only 302s, candlesticks, crank wall phones and rare-color 500s at ≤ $40. Fits a passenger seat. No authentication needed.

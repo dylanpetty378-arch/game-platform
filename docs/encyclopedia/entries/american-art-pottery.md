@@ -1,5 +1,5 @@
 # American art pottery (Rookwood, Roseville, Weller, Van Briggle, Newcomb, Grueby, Teco, Fulper, Cowan, Hull, McCoy, Gonder, Shawnee, Haeger, Red Wing, Frankoma, Bauer, Pisgah Forest, North State, Jugtown)
-Updated: 2026-10-13 · Sources: general knowledge, no sold data pulled this run (references: Roseville pattern guides https://www.rosevillepottery.org/ ; Rookwood marks and date cyphers https://www.rookwood.com/pages/history ; Gonder history from collector literature (Ron Hoopes, "The Collector's Guide and History of Gonder Pottery"); Van Briggle marks https://www.vanbrigglepottery.com/) — prices are estimates (general knowledge, verify) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no sold data pulled this run (references: Roseville pattern guides https://www.rosevillepottery.org/ ; Rookwood marks and date cyphers https://www.rookwood.com/pages/history ; Gonder history from collector literature (Ron Hoopes, "The Collector's Guide and History of Gonder Pottery"); Van Briggle marks https://www.vanbrigglepottery.com/) — prices are estimates (general knowledge, verify) · tells 2026-10-13
 Slug: american-art-pottery · Aliases: art pottery, vintage vase, Roseville, McCoy, Hull, Gonder, Haeger, Van Briggle, arts and crafts pottery, MCM pottery, matte green pottery, planter
 Summary: Mass-market 1940s–60s (McCoy, Gonder, Hull, Shawnee, Haeger, Red Wing commercial) $10–60; better production (Roseville middle-period patterns, Weller, Van Briggle later, Frankoma early) $60–300; Arts & Crafts studio/early (Rookwood artist-signed, Grueby, Newcomb, Teco, Fulper early, Marblehead, Van Briggle pre-1920) $300–5,000+.
 Buy rule (short): Buy only marked Roseville/Weller/Rookwood/Van Briggle/Fulper/Grueby/Newcomb/Teco forms at ≤ 30% of sold median, undamaged; never buy Gonder/McCoy/Hull/Haeger singles unless rare glaze or form and ≤ $10.
@@ -80,7 +80,13 @@ Unmarked early Roseville (foil labels lost), Newcomb/Grueby in a plain "green po
 Box in box, 2" foam/bubble on all sides; stuff the interior. Typical 3–6 lb shipped $15–25. High breakage risk on handles and leaves.
 
 ## Selling it (for the buyer-facing listing)
-Give maker, pattern name, shape number and size, photos of the base mark, note crazing and any chips/repairs specifically (blacklight-checked).
+- **Title words:** maker (Roseville/Weller/Rookwood/Van Briggle), pattern name, shape number, form (vase/jardiniere/ewer), colour, height, "Arts & Crafts" or "mid century" as fits. Junk: "pottery vase" alone, "rare", "antique" on McCoy/Gonder. `Roseville Pinecone Blue Vase 8" Shape 704 Art Pottery Marked`
+- **Where:** eBay BIN with offers for Roseville/Weller/Van Briggle/Rookwood production; Rago/Humler & Nolan/Treadway for Grueby, Newcomb, Teco, Vellum; FB local for McCoy/Gonder/Haeger at $20–60 to decorators.
+- **Price position:** mid-tier at the sold median ($60–250), OBO, accept −15%, cut 10% at 45 days; Rookwood artist-signed at the sold median ($600 Vellum), firm 3 weeks; MCM commercial at $30 local.
+- **Photos:** first: full vase front, raking light; then base mark/shape number/artist cypher, each handle and leaf tip, rim, interior, crazing close-up, blacklight shot for repairs, ruler.
+- **State:** maker, pattern, shape number, height, mark, crazing (normal on Roseville glossy), chips/flakes/hairlines by photo number, "blacklight-checked, no restoration" or the repair found.
+- **Pack / haul:** box in box, 2" foam all sides, interior stuffed; 3–6 lb, $15–25; handles and leaves break.
+- **Quote to a buyer:** "[Roseville Pinecone] in [blue], shape [704], marked — the common later florals are $100; Pinecone blue is the pattern collectors pay $300+ for, and this one has no chips under blacklight."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ~$20 ship to buyer − ~$20 ship in − price ≥ max($50, price). In practice: Roseville rare patterns, Rookwood, Fulper, Van Briggle dated, Grueby/Newcomb/Teco at ≤ 30% of median. Pass every Gonder/McCoy/Hull/Haeger single. Passenger-seat size is never an issue. No professional authentication needed, but require a clear photo of the base mark.

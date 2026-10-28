@@ -1,5 +1,5 @@
 # Decorator swords, "antique" machetes and tourist blades (Indian/Pakistani decorators; real makers: Wilkinson, Ames, Emerson & Silver, Collins, Solingen, Klingenthal)
-Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: agent knowledge, eBay sold categories Oct 2026
+Updated: 2026-10-28 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: agent knowledge, eBay sold categories Oct 2026
 Slug: decorator-swords-and-blades · Aliases: antique cavalry sword, Indian sword, tulwar, machete antique, Damascus bowie, tribal sickle, officer's sword, sabre
 Summary: Decorator/"Made in India" swords and Pakistani "Damascus" bowies $20–50; numbered WWII Japanese NCO swords, Collins machetes $100–300; Civil War / Wilkinson / signed gunto $400–1,500; signed Japanese blades and presentation swords $2,000+ (outside scope).
 Buy rule (short): Buy only with a legible arsenal/maker stamp at ≤ 25 % of comps; velvet scabbard or "Made in India/Pakistan" = instant pass.
@@ -58,7 +58,13 @@ Nothing on the junk tier; on the real tier they miss the maker stamp. The velvet
 3–5 lb, long box ($25–40). eBay allows swords; Facebook Marketplace does not.
 
 ## Selling it (for the buyer-facing listing)
-State maker/arsenal stamp, pattern/model, overall and blade length, blade condition, scabbard type and whether it matches, any unit or serial numbers. Photograph the ricasso stamps, tang (if removable), guard numbers and scabbard throat. Title keywords: maker, model year/pattern, "sabre"/"sword", country, era (general knowledge, verify).
+- **Title words:** maker/arsenal (Ames, Wilkinson, Collins), pattern/model (M1860 cavalry sabre, Type 95 NCO), country, era/date, "sword"/"sabre"/"machete", "with scabbard", blade length. Junk: "Damascus" on Pakistani bowies, "antique" on India decorators, "samurai" on gunto. `Ames M1860 Cavalry Sabre Dated 1864 Civil War with Scabbard 35" Blade`
+- **Where:** eBay BIN with offers (FB Marketplace bans weapons); specialist militaria auctions for Civil War, Wilkinson and signed gunto; decorators local only, cheap.
+- **Price position:** Ames Civil War at the sold median ($550), accept −15%, floor p25 ($325); Type 95/Collins at $100–300 median, OBO; decorators $20–50 firm. Cut 10% at 45 days.
+- **Photos:** first: full sword beside scabbard on a plain cloth; then ricasso stamps, tang if removable, guard numbers, scabbard throat and drag, grip wire, blade full length both sides, etching, each pit/bend.
+- **State:** maker/arsenal stamp wording, pattern, overall and blade length, blade condition (pitting, bend, cleaning), scabbard type and whether matching, unit/serial numbers, grip wire original or replaced.
+- **Pack / haul:** 3–5 lb in a long rigid box with the tip blocked, $25–40; fits a passenger seat.
+- **Quote to a buyer:** "[Ames]-stamped [M1860] dated [1864] with its matching scabbard and original grip wire — the India decorators and Ames-marked reproductions run $30–300; the inspected Civil War originals are the $400–1,500 tier."
 
 ## Buy rule
 Buy when: arsenal/maker stamp legible in photo and price ≤ 25 % of comps. Pass when: velvet scabbard, "Made in India/Pakistan", loose handle, "collectible" with no maker. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Fits a passenger seat (long but flat).

@@ -1,5 +1,5 @@
 # Antique clothes wringers (American Wringer Co. – Horse Shoe Brand, Eureka, Bicycle, Anchor; Lovell Mfg. – Anchor/Lovell; Universal; Keystone; Superior)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($550 bench, $980 Horse Shoe; both asking/décor-retail heavy, not sold)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($550 bench, $980 Horse Shoe; both asking/décor-retail heavy, not sold)
 Slug: antique-clothes-wringers · Aliases: clothes wringer, clothes ringer, laundry wringer, mangle, wash wringer, wringer bench, wash bench, Horse Shoe Brand wringer, Lovell wringer, Anchor wringer, farmhouse wringer, laundry press
 Summary: Clamp-on hand-crank wringers in average condition $30–80; clean named wringers with wooden frames, legible stencil and crank $60–150; folding wringer benches/tub stands with wringer $100–250 local only; electric-washer wringer heads $20–60.
 Buy rule (short): Pass by default: heavy (15–25 lb), bulky to ship, and décor-driven; buy only a clean stencilled wood-frame clamp-on wringer under $25 for a local décor flip, never wringer benches.
@@ -45,7 +45,13 @@ Owners overvalue them (Lens shows $500–$1,000 asking). Undervaluation is rare.
 15–25 lb, awkward; $35–60 ground. Benches are freight/local only and exceed the passenger-seat rule.
 
 ## Selling it (for the buyer-facing listing)
-Maker, model number, roller size, crank present, rollers' condition, clamp works, stencil legibility, dimensions.
+- **Title words:** maker + brand + "clothes wringer" + "hand crank" + "wood frame" + model/roller size + "farmhouse"; bench: "wringer bench stand"; Junk: "laundry decor", "primitive", "antique washer part". Example: `Antique American Wringer Co Horse Shoe Brand Wood Frame Clothes Wringer No. 592 Crank`.
+- **Where:** FB Marketplace / local (farmhouse décor, antique malls; 15–25 lb makes eBay slow); eBay only for a clean named wood-frame unit. Local beats eBay; benches are local only.
+- **Price position:** at the sold median (Horse Shoe Brand $49, p75 $50; wood-frame stencilled with crank $60–150; bench with wringer $100–250), accept −15%, floor p25; OBO; spring–summer peak, cut 10% after a month (asks of $500+ online are décor-shop fantasy).
+- **Photos:** first photo three-quarter with the crank; then stencil/logo, model number, rollers end-on (cracks, flattening), clamp, gears, crank, wooden bars for splits, tape for width.
+- **State:** maker, model number, roller size, crank present, roller condition, clamp works, stencil legibility, splits/rust by photo number, dimensions; Lehman's/Amish new wringer check.
+- **Pack / haul:** 15–25 lb, awkward; remove the crank, pad the rollers, double-box ($35–60); fits a passenger seat; bench is freight/local.
+- **Quote to a buyer:** "[Horse Shoe Brand] wringer with the stencil readable and the crank still on it — most are missing the crank; rollers uncracked, clamp works; these sell [$50–150] complete."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$45 to buyer − ~$45 to Dylan − price ≥ max($50, price). Fails for shipped resale at any likely price. Pass unless Dylan wants a local décor flip (clamp-on, ≤ $25). Never buy benches.

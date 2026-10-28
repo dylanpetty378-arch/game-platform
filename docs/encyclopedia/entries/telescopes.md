@@ -1,5 +1,5 @@
 # Telescopes (Edmund Astroscan, Celestron, Meade, Questar, Unitron, Criterion)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay/Cloudy Nights classifieds sold knowledge 2024–25 (Astroscan 2001 $150–250 complete; Celestron C8 orange tube $300–500; Questar 3.5 $1,500–3,500); craigslist listing body for 2889.
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay/Cloudy Nights classifieds sold knowledge 2024–25 (Astroscan 2001 $150–250 complete; Celestron C8 orange tube $300–500; Questar 3.5 $1,500–3,500); craigslist listing body for 2889.
 Slug: telescopes · Aliases: telescope, Astroscan, orange tube C8, Questar, Unitron refractor, Dynascope, spotting scope
 Summary: department-store refractors $20–60; Astroscan complete, ETX-90, NexStar 4SE $150–250; orange-tube C8, Criterion Dynascope, Unitron $300–800; Questar, Takahashi, Astro-Physics $1,500–10,000.
 Buy rule (short): Astroscan complete ≤ $70, Questar/Unitron/C8 under $200; pass department-store refractors and Astroscans over $100.
@@ -62,9 +62,13 @@ Astronomy forums (Cloudy Nights classifieds, AstroMart) and eBay. Buyers are hob
 - Questar: small, about 7 lb in its case; ship insured (general knowledge, verify).
 
 ## Selling it (for the buyer-facing listing)
-- Aperture, focal length, type, maker and model, serial number, optics condition, every eyepiece and accessory, mount type, whether the electronics work.
-- Photograph the optics with a flashlight, the serial plate and the accessories laid out.
-- Title keywords: "Edmund Astroscan 2001 Complete", "Celestron C8 Orange Tube Vintage", "Questar 3.5 Standard".
+- **Title words:** maker + model + aperture + type (refractor, SCT, Maksutov) + "complete" + "with eyepieces/mount/case" + "vintage"/"orange tube". Junk: "old telescope", "stargazing", "powerful". Example: `Edmund Scientific Astroscan 2001 Telescope Complete with Base Eyepieces Tested`.
+- **Where:** eBay BIN with offers for Astroscan/ETX/NexStar; Cloudy Nights classifieds and AstroMart for C8, Unitron and Questar at the same price with no fee; FB local for 40+ lb scopes; fall–winter and pre-Christmas peak.
+- **Price position:** list at the sold median (Astroscan complete $150–250, ETX-90/NexStar 4SE $150–250, orange C8 $300–500, Questar 3.5 $1,500–3,500); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) full scope on its mount/base; then down the tube with a flashlight (mirror/corrector coating), serial plate, focuser, every eyepiece and accessory laid out, case, mount controls; video of the drive/electronics running if it has them.
+- **State:** aperture, focal length, type, maker, model, serial, optics condition (coating, dust, fungus), collimation if known, every eyepiece and accessory, mount type, electronics working, flaws by photo number.
+- **Pack / haul:** Astroscan 12 lb and awkward, double-boxed, $35–45; Questar ~7 lb in case, insured; C8/RV-6 40+ lb, local, fits a back seat with the tripod in the trunk.
+- **Quote to a buyer:** "An [Astroscan 2001 / orange-tube C8 / Questar 3.5], complete with [eyepieces, base, case], optics clean under a flashlight in photo [2] — the department-store 60mm refractors are the $40 scopes; complete [model] sets sell for [$X]."
 
 ## Buy rule
 Buy when: an Astroscan complete is ≤ $70; a Questar, Unitron or C8 is at any price under $200.

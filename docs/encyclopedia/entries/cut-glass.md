@@ -1,5 +1,5 @@
 # Cut glass (American Brilliant Period cut glass: Libbey, Hawkes, Dorflinger, Clark, Hoare, Pairpoint, Egginton, Straus, Sinclaire, Tuthill; later Waterford, Stuart, Webb, Edinburgh; pressed "imitation cut" by Imperial, McKee, Fostoria, Anchor Hocking, Indiana, L.E. Smith)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; prices estimates, verify); American Cut Glass Association (https://www.cutglass.org) signatures and pattern references; Terapeak /home/claude/game-platform/db/comps.jsonl: "vintage ashtrays" median $16.80 (n=50, p25 $13.35, p75 $20.60), "amber glass advertising ashtray" median $14.99 (n=50).
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; prices estimates, verify); American Cut Glass Association (https://www.cutglass.org) signatures and pattern references; Terapeak /home/claude/game-platform/db/comps.jsonl: "vintage ashtrays" median $16.80 (n=50, p25 $13.35, p75 $20.60), "amber glass advertising ashtray" median $14.99 (n=50).
 Slug: cut-glass · Aliases: crystal, cut crystal, brilliant cut glass, ABP, American Brilliant, Hawkes, Libbey, Waterford, crystal ashtray, cut glass bowl, heavy crystal, pressed glass, sawtooth, hobstar, diamond point, star of David cut
 Summary: Pressed "imitation cut" glass $5–25; modern lead crystal (Lenox, Gorham, Mikasa, Bohemian) $10–40; Waterford/Stuart/Webb pieces $25–150; American Brilliant Period cut glass bowls/pitchers $80–600; signed Hawkes/Libbey/Dorflinger rare patterns and lamps $500–10,000.
 Buy rule (short): Look only for heavy, sharp-edged ABP pieces with hobstars and acid signatures (Hawkes, Libbey) at ≤ $40; pass on pressed glass and ashtrays.
@@ -56,7 +56,13 @@ Acid signatures on ABP (Hawkes/Libbey); cut-to-clear coloured pieces; sterling-m
 Heavy and fragile: double box, $10–20 for small pieces.
 
 ## Selling it (for the buyer-facing listing)
-State cut vs. pressed honestly, dimensions, weight, signature photo, chips under magnification, ring test.
+- **Title words:** "American Brilliant" / "ABP", maker signature (Hawkes/Libbey/Dorflinger), form (bowl/pitcher/decanter/celery), pattern name if known, "hobstar", size, "signed". Junk: "crystal" on pressed glass, "antique" on Nucut/Prescut, "lead crystal" for ABP. `Signed Hawkes American Brilliant Cut Glass Bowl 8" Hobstar ABP Antique`
+- **Where:** eBay BIN with offers for signed ABP (Libbey bowl median $60, Dorflinger $89); FB local for heavy unsigned ABP and all pressed glass.
+- **Price position:** signed ABP at the sold median, OBO, accept −15%, floor at p25 ($30); cut 10% at 45 days. Pressed/modern at $15 firm local. Lamps and punch bowls local only.
+- **Photos:** first: piece on dark cloth in raking light; then signature tilted in light, close-up of cut edges (sharp, polished), every hobstar point for flakes, rim/base, interior for haze, ruler and weight.
+- **State:** cut vs pressed honestly, maker signature or unsigned, pattern, dimensions, weight, ring test result, chips/flakes under magnification by photo number, cloudiness, ground rims.
+- **Pack / haul:** heavy and fragile, double box, $10–20 small pieces; big bowls and lamps local.
+- **Quote to a buyer:** "Signed [Hawkes] American Brilliant Period, c. [1890–1915], sharp polished cuts and a clear bell ring — pressed 'imitation cut' sells for $15; this is the hand-cut lead crystal."
 
 ## Buy rule
 Profit = median × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). Pressed ashtrays (median ~$17) are impossible. Buy only signed or obviously hand-cut ABP with crisp hobstars at ≤ $40 when comps ≥ $150.

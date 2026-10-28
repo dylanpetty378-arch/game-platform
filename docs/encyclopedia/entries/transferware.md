@@ -1,5 +1,5 @@
 # Transferware (Spode, Copeland, Enoch Wood, Clews, Ridgway, Adams, Wedgwood, Johnson Bros, Enoch Wedgwood/Royal Staffordshire, Mason's, Churchill, Salem "Olde Staffordshire", Masons/Myott)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://www.transcollectorsclub.org , https://www.replacements.com (Spode Blue Italian), https://en.wikipedia.org/wiki/Transfer_printing , eBay sold search "Spode Blue Italian vase", "historical blue staffordshire plate")
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://www.transcollectorsclub.org , https://www.replacements.com (Spode Blue Italian), https://en.wikipedia.org/wiki/Transfer_printing , eBay sold search "Spode Blue Italian vase", "historical blue staffordshire plate")
 Slug: transferware · Aliases: blue and white, Staffordshire, flow blue (related), historical blue, Blue Italian, Blue Willow, English Village, Olde Staffordshire, Old Britain Castles, Friendly Village, Tonquin, Asiatic Pheasants, red transferware, pink transfer, Adams Calyx
 Summary: 20th-c. reproduction and dinnerware patterns (Salem, Churchill, Johnson Bros, Spode Blue Italian plates) $5–40 per piece; Spode Blue Italian vases/large serving pieces and 19th-c. common patterns $40–150; early (1815–1840) historical blue Staffordshire with American views $200–2,000+.
 Buy rule (short): Buy only pre-1850 dark-blue historical Staffordshire (American scenes, impressed maker marks, no back-stamp "England") or rare Spode shapes at ≤ $50; pass on all modern dinnerware sets.
@@ -53,7 +53,13 @@ Buy rule (short): Buy only pre-1850 dark-blue historical Staffordshire (American
 - Plates: box-in-box, 2–3 lb, $12–15. Vases: 3–5 lb, $15–20.
 
 ## Selling it (for the buyer-facing listing)
-- Give back-stamp (photo), dimensions, era, any crazing/chips; name pattern and maker.
+- **Title words:** maker (Spode/Clews/Enoch Wood/Johnson Bros), pattern (Blue Italian, Old Britain Castles), form (platter/tureen/plate), colour ("blue transferware", "dark blue"), size, "Staffordshire", "historical" only pre-1850. Junk: "antique" on Salem/Churchill, "blue and white dishes". `Spode Blue Italian Ginger Jar Lidded 8" Blue Transferware England`
+- **Where:** eBay BIN with offers for Spode shapes and 19th-c. platters; Replacements buys complete modern patterns; FB local for dinnerware sets (too heavy to ship at $5–25 a piece).
+- **Price position:** modern dinnerware at the sold median ($15/cup), OBO, cut fast; Spode decorative shapes and 19th-c. platters at p75, firm 3 weeks then −10%; historical blue to auction.
+- **Photos:** first: face straight-on in daylight; then backstamp/impressed mark, foot ring and stilt marks, rim all round, back under light for hairlines, crazing/staining close-up, ruler for size.
+- **State:** maker, pattern, backstamp wording, dimensions, era (pearlware vs modern body), chips/hairlines/crazing/staining by photo number, restoration checked under UV.
+- **Pack / haul:** plates box-in-box, 2–3 lb, $12–15; vases/tureens 3–5 lb, $15–20; sets local only.
+- **Quote to a buyer:** "[Spode] [Blue Italian] [ginger jar] — the shape, not the plate; dinner plates go for $15 while the decorative forms hold $40–150 with decorators."
 
 ## Buy rule
 - Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$15) − ship to Dylan (~$15) − price ≥ max($50, price).

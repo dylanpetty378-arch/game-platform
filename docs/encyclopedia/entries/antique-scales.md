@@ -1,5 +1,5 @@
 # Antique and vintage scales (Toledo, Detecto/Jacobs Bros., Fairbanks, Howe, Computing Scale Co. (Dayton), Hanson, Pelouze, American Family, Chatillon, Triner)
-Updated: 2026-10-13 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "toledo candy scale 3111" (3 yr), "toledo candy scale", "detecto scale weights scoop" (3 yr), "pelouze y-5 postal scale", "cast iron balance scale miniature weights", "american family scale", "fairbanks postal scale brass", "dayton computing scale" (3 yr), "hanson kitchen scale vintage"); Google Lens match notes in the sweep (Toledo model 3111; Pelouze Y-5 Evanston IL) · tells 2026-10-13
+Updated: 2026-10-28 · Sources: eBay sold data via Seller Hub Terapeak research (pulled 2026-10-12; queries "toledo candy scale 3111" (3 yr), "toledo candy scale", "detecto scale weights scoop" (3 yr), "pelouze y-5 postal scale", "cast iron balance scale miniature weights", "american family scale", "fairbanks postal scale brass", "dayton computing scale" (3 yr), "hanson kitchen scale vintage"); Google Lens match notes in the sweep (Toledo model 3111; Pelouze Y-5 Evanston IL) · tells 2026-10-13
 Slug: antique-scales · Aliases: candy scale, counter scale, platform scale, balance scale, postal scale, kitchen scale, general store scale, butcher scale, baker's scale, dough scale, scoop scale, Honest Weight, No Springs
 Summary: Kitchen/postal/novelty scales $8–40; cast-iron counter and postal balances $25–75; Toledo/Detecto candy and baker's scales $70–200; restored or early Toledo "Honest Weight" fan scales and computing scales $150–1,100.
 Buy rule (short): Only Toledo/Computing-Scale fan or candy scales and complete baker's scales with pan, scoop and weights, at ≤ 30% of sold median, and only if they ride in a passenger seat (most counter scales weigh 15–40 lb, so shipping is the killer).
@@ -80,8 +80,13 @@ Buy rule (short): Only Toledo/Computing-Scale fan or candy scales and complete b
 - Ground Advantage/UPS for 15–40 lb: $30–60 to the buyer. Consider local pickup listings for anything over 20 lb.
 
 ## Selling it (for the buyer-facing listing)
-- Give maker, model (from badge), capacity, dimensions, weight, and whether it weighs accurately. Photograph badge plate, chart, base, all weights.
-- State repaint vs original finish honestly; collectors pay for original.
+- **Title words:** maker + model + type + capacity + "complete": "Toledo 3111 candy scale 3 lb", "Toledo 405 Honest Weight No Springs", "Detecto baker's scale No. 2 scoop weights", "Fairbanks postal balance", "Computing Scale Co fan scale"; Junk: "antique scale" alone, "farmhouse decor", "steampunk", "rare" on Pelouze/mini balances. Example: `Toledo 405B Honest Weight No Springs 3 lb Candy Scale Brass Pan Working Original`.
+- **Where:** eBay BIN with offers for Toledo candy scales, Detecto baker's sets, postal balances (under 20 lb); counter and fan scales over 20 lb local on FB Marketplace. Local beats eBay for the heavy ones.
+- **Price position:** at the sold median (Toledo 3111 $118, p25/p75 $70/$160; 405 $125–195; Detecto baker's complete $139–150; Fairbanks postal $30; Pelouze $12), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo three-quarter with the pan/scoop on; then badge plate (model, serial, patent dates), chart/dial, base, every weight with its marks, scoop interior (rust), beam and poises, a known weight on the pan showing accuracy, repaint vs original under raking light.
+- **State:** maker, model from the badge, capacity, dimensions, weight, weighs accurately (show it), complete set (weights maker-marked, scoop), chart glass intact, repaint vs original honestly, rust/seized parts by photo number.
+- **Pack / haul:** remove scoop and weights and pack separately, immobilize beams and poises, pad enamel corners, protect chart glass; 15–40 lb, $30–60; over 20 lb local pickup, passenger-seat size.
+- **Quote to a buyer:** "Toledo [405B] 'No Springs — Honest Weight' with the brass pan, [original] finish, weighs true against a [1 lb] test — the early one, not the 1960s 3111; complete early Toledos sell [$125–200] and restored ones far more."
 
 ## Buy rule
 - Price ≤ $200, fits a passenger seat. Profit = sold median × 0.87 − shipping to buyer (~$30 for counter/candy scales, ~$10 for small) − shipping to Dylan (same) − price ≥ max($50, price).

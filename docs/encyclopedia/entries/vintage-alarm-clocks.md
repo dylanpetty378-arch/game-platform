@@ -1,5 +1,5 @@
 # Vintage mechanical alarm clocks (Westclox, Big Ben, Ingraham, Seth Thomas, Gilbert, New Haven, Lux, Telechron electric, Junghans, Kienzle)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Westclox" https://en.wikipedia.org/wiki/Westclox ; Wikipedia "Telechron" https://en.wikipedia.org/wiki/Telechron ; project comps file /home/claude/game-platform/db/comps.jsonl (no alarm-clock sold data on file).
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Westclox" https://en.wikipedia.org/wiki/Westclox ; Wikipedia "Telechron" https://en.wikipedia.org/wiki/Telechron ; project comps file /home/claude/game-platform/db/comps.jsonl (no alarm-clock sold data on file).
 Slug: vintage-alarm-clocks · Aliases: wind-up alarm clock, Westclox Big Ben, Baby Ben, Westclox luminous, glow dial alarm, travel alarm, art deco alarm clock, bedside clock, Telechron electric clock, double bell alarm
 Summary: Common 1940s–60s working wind-ups $10–35; Art Deco/streamline Westclox, Big Ben/Baby Ben early styles, Telechron Bakelite $35–90; novelty/animated (Lux, Mastercrafters, Oswald, Mickey) and early twin-bell $75–300+.
 Buy rule (short): Buy only animated/character/novelty alarms or pre-1935 Big Ben variants with clean dials at ≤ 25% of resale; pass on plain 1950s–70s wind-ups and anything not running.
@@ -48,7 +48,13 @@ Back-plate model and style numbers; animated movement (blinking eyes, rocking fi
 1–2 lb; box with crystal protected, $10–14. Let spring run down before shipping.
 
 ## Selling it (for the buyer-facing listing)
-Video of it running and alarm ringing, keep time over 24h, model and date from back, luminous paint disclosure ("possible radium — sealed, do not open").
+- **Title words:** "Westclox" + model (Big Ben, Baby Ben, style number) + colour + "wind up alarm clock" + "working" + era/"Art Deco"; novelty: "Lux animated", "Telechron Bakelite". Junk: "old clock", "retro", "untested". Example: `Vintage Westclox Big Ben Style 5 Wind Up Alarm Clock Ivory Working Keeps Time`.
+- **Where:** eBay BIN with offers (high volume; common slow, animated/character quick); nothing beats it; common not-running clocks go in a local lot.
+- **Price position:** list at the sold median (plain working Westclox $15–40, early Big Ben/Baby Ben and Telechron deco $35–100, Lux/Mastercrafters $75–250); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) dial straight-on; then back plate with model and style numbers, side profile, crystal at an angle for scratches, luminous hands close-up, any animation feature; video of it running, ticking and the alarm ringing.
+- **State:** model and style from the back, date, runs and keeps time over 24 h, alarm rings, dial and crystal condition, luminous paint disclosure ("possible radium — sealed, do not open"), flaws by photo number.
+- **Pack / haul:** 1–2 lb; let the spring run down, crystal faced into bubble, small box, 2-lb class, $10–14.
+- **Quote to a buyer:** "A [Style 5 Big Ben / Telechron Bakelite deco], model from the back plate in photo [2], running and keeping time over 24 hours with the alarm ringing in the video — the 1960s–70s not-running ones are the $10 clocks; working [era] examples sell for [$X]."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$12 ship to buyer − ~$12 ship to Dylan − price ≥ max($50, price). Needs resale ≥ $115 at ≤ $25; only novelty/animated or rare Big Ben styles. No untested electrics, no "needs cleaning" mechanical — counts as repair.

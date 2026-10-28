@@ -1,5 +1,5 @@
 # Avon figural bottles (Avon Products 1960s–1980s aftershave/cologne decanters; Avon Cape Cod 1876 ruby glass; California Perfume Co. (CPC) pre-1939 bottles)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl (one relevant line: "*You Pick* Vtg 1876 Avon Cape Cod Ruby Red Dinnerware" $44.27 Apr 2026 under american-dinnerware); Bud Hastin's Avon Collectibles Encyclopedia (general knowledge, verify); National Association of Avon Collectors (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl (one relevant line: "*You Pick* Vtg 1876 Avon Cape Cod Ruby Red Dinnerware" $44.27 Apr 2026 under american-dinnerware); Bud Hastin's Avon Collectibles Encyclopedia (general knowledge, verify); National Association of Avon Collectors (general knowledge, verify). No web search this run.
 Slug: avon-figural-bottles · Aliases: Avon bottles, Avon decanters, Avon aftershave bottles, Avon car bottles, Avon cologne bottle collection, Avon Cape Cod, CPC bottles
 Summary: Most 1960s–80s Avon figural decanters (cars, pipes, coins, animals, mailboxes) sell for $3–12 each, $20–60 per boxed lot; Cape Cod 1876 ruby decanter $10–20; rare items (pre-1939 CPC bottles, 1960s Avon "Bay Rum" kegs, test/prototype pieces, full boxed sets) $30–200.
 Buy rule (short): Pass on all 1960s–80s Avon figurals and Cape Cod; only CPC (California Perfume Company, pre-1939) bottles with labels at ≤ $15.
@@ -45,7 +45,13 @@ Sellers overvalue; CPC-era bottles are the only real find.
 Each piece ~0.5–1 lb; lots ship $15–25.
 
 ## Selling it (for the buyer-facing listing)
-Name, year, contents level, box condition; group into themed lots.
+- **Title words:** "Avon" + name + year + item + "decanter" + "boxed"/"full"; lots: "Avon figural decanters lot 20 cars pipes boxed"; CPC: "California Perfume Co" + year; Junk: "collectible glass", "rare" on 1970s figurals, "perfume bottle lot". Example: `Vintage Avon Figural Cologne Decanters Lot of 20 Cars Pipes Animals Boxed 1970s`.
+- **Where:** eBay BIN with offers as themed lots of 15–25 (singles are $3–12 and don't cover fees); Cape Cod ruby as "you pick" or sets; CPC singles on eBay. Local for big accumulations.
+- **Price position:** at the sold median (figural decanter $10 single; lots $25–60; Cape Cod decanter $16, p75 $24; CPC $30–200), accept −15%, floor p25; OBO; cut 10% after a month (slow, oversupplied).
+- **Photos:** first photo the lot arranged by theme on a plain cloth; then each box front, bottle bases/labels, contents level against light, cap condition, any chips, a count shot.
+- **State:** names, years, count, contents level (empty preferred), caps/labels present, box condition, chips by photo number; Cape Cod piece names and count.
+- **Pack / haul:** 0.5–1 lb each; each wrapped, boxed items in their boxes, single box with fill; lots $15–25; carry-on size.
+- **Quote to a buyer:** "[20] Avon decanters, [1970s], [all boxed, mostly empty] — one listing instead of hunting twenty; lots like this go [$25–60] and the [CPC/Bay Rum] piece in it is the one worth [$30+] alone."
 
 ## Buy rule
 Profit = median × 0.87 − shipping − price. Lot of 20 at $60: resale ~$50 → loss. **Pass.**

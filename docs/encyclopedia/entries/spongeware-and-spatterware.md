@@ -1,5 +1,5 @@
 # Spongeware and spatterware (Red Wing, Western Stoneware, Robinson Clay/Robinson Ransbottom, Ohio and Minnesota potteries; English spatterware for the American market)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no rows for this type. To verify: eBay sold "antique blue spongeware bowl", "spongeware pitcher", "spatterware peafowl"; auction results (Pook & Pook, Conestoga, Hake's) for spatterware; Red Wing Collectors Society (https://www.redwingcollectors.org).
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no rows for this type. To verify: eBay sold "antique blue spongeware bowl", "spongeware pitcher", "spatterware peafowl"; auction results (Pook & Pook, Conestoga, Hake's) for spatterware; Red Wing Collectors Society (https://www.redwingcollectors.org).
 Slug: spongeware-and-spatterware · Aliases: sponge ware, spongeband, blue and white stoneware, sponge decorated crock, splatterware, spatter, Saffron ware, Gray Line, blue sponge bowl, yellowware sponge, stick spatter, cut-sponge
 Summary: modern repros $10–30; old American blue/white spongeware bowls and plates $40–150; pitchers, chamber sets, rare forms $100–400; English 1820–60 spatterware with figural centres $200–2,000+ (general knowledge, verify)
 Buy rule (short): Buy old (pre-1940) American spongeware bowls/pitchers at ≤ $40 when the base, weight and crazing look right; pass on even-looking new pieces; spatterware only if the figure motif is clear and price is tiny.
@@ -49,7 +49,13 @@ Country/primitive décor market softened since 2010s but early spongeware still 
 Heavy (bowls 2–5 lb, pitchers 3–6 lb), fragile. Double-box, $15–25 for pitchers. Factor shipping in.
 
 ## Selling it (for the buyer-facing listing)
-Form, size, maker (if marked), age evidence (base photo, crazing), every chip and hairline (light test photo). Use "antique" only when confident.
+- **Title words:** "spongeware" (or "spatterware") + colour ("blue and white") + form (mixing bowl, pitcher, crock) + maker if marked (Red Wing Saffron) + size + "antique"/"stoneware". Junk: "farmhouse decor", "Pfaltzgraff" unless it is, "country blue". Example: `Antique Blue and White Spongeware Stoneware Pitcher 9 Inch Ohio Pottery`.
+- **Where:** eBay BIN with offers (collectors, slow 1–2 months); FB local for heavy bowls; figural English spatterware goes to auction.
+- **Price position:** list at the sold median (small bowls/plates $30–70, large bowls and Saffron $60–150, pitchers/chamber sets $120–400); accept −15%, floor −25%; OBO; cut 10% after 45 days.
+- **Photos:** 1) front, sponge pattern full; then base (marks, wear, crazing), interior, rim all round, held to light for hairlines, any chips, ruler for diameter/height.
+- **State:** form, size, maker if marked, age evidence (base wear, crazing), every chip and hairline by photo number (light test), "antique" only when confident, reproduction era stated if 1980s RRPCo.
+- **Pack / haul:** bowls 2–5 lb, pitchers 3–6 lb, fragile; bubble, double-box with 2" foam, 5-lb class, $15–25.
+- **Quote to a buyer:** "Old [Ohio/Red Wing] spongeware, not the 1980s Pfaltzgraff or RRPCo copies — base wear and crazing in photo [2]; [pitchers] of this size sell for [$X]; no chips or hairlines under light."
 
 ## Buy rule
 Profit = median × 0.87 − ~$18 to buyer − ~$18 to Dylan − price ≥ max($50, price). A $150 pitcher → max buy ≈ $45; a $60 bowl never qualifies. Size fine (shoebox/carry-on). Spatterware: only at ≤ $20 with clear figural centre.

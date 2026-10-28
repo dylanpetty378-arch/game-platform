@@ -1,5 +1,5 @@
 # Ukelins, chord zithers, lap harps and psalteries (International Musical Corp/Oahu Publishing ukelin, Marxochime, Phonoharp, Columbia, Bell Harp Co., Menzenhauer, Oscar Schmidt "Guitar-Zither", Hawaiian Art Co. violin-uke)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://en.wikipedia.org/wiki/Ukelin , https://en.wikipedia.org/wiki/Chord_zither , https://www.zitherbanjo.com , eBay sold search "ukelin", "chord zither", "bell harp")
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://en.wikipedia.org/wiki/Ukelin , https://en.wikipedia.org/wiki/Chord_zither , https://www.zitherbanjo.com , eBay sold search "ukelin", "chord zither", "bell harp")
 Slug: ukelins-and-zithers · Aliases: zither, lap harp, autoharp (wrong), psaltery, ukelin, violin-uke, hawaiian violin, guitar zither, mandolin harp, piano harp, bell harp, Marxophone, harp zither, folk harp
 Summary: Common 1910s–1930s chord zithers and ukelins $30–90; complete/clean ukelins with bow, case and song cards $80–175; Marxophone, Bell Harp and bowed psaltery-with-case $100–250; true concert zithers (Austrian/German) $100–400.
 Buy rule (short): Almost always a pass: buy only complete, crack-free ukelins or Bell Harps with case/bow at ≤ $30.
@@ -55,7 +55,13 @@ Buy rule (short): Almost always a pass: buy only complete, crack-free ukelins or
 - Long, flat, 20–30" boxes, 5–10 lb; $20–35 to ship. String tension makes tops fragile; slacken strings slightly and protect the pin rows.
 
 ## Selling it (for the buyer-facing listing)
-- Name the type correctly (chord zither / ukelin, not autoharp), give maker from the label, list missing pins/strings and cracks honestly, state "sold as display / needs restringing" unless playable.
+- **Title words:** correct type ("ukelin", "chord zither", "Marxophone", "Bell Harp", "concert zither" — not "autoharp"), maker from the label (Phonoharp, Oscar Schmidt, International Musical Corp), decade, "with bow case song cards", "decal". Junk: "harp", "antique instrument", "rare", "autoharp". `Ukelin International Musical Corp 1920s Complete with Bow Case Song Cards`
+- **Where:** eBay BIN with offers (sell-through 20–30%; weeks to months); wall-decor buyers on FB local for cracked zithers.
+- **Price position:** chord zithers at the sold median ($40–90), OBO, accept −20%; complete ukelins/Bell Harps $80–175; Marxophone/concert zithers $100–400, accept −15%; cut 15% at 45 days. Cracked at $20–50 as decor.
+- **Photos:** first: instrument flat, top straight-on; then label through the soundhole, decal/rosette, pin rows (count the missing), bridge, top in raking light for sinking/cracks, back seam, bow, case, song cards.
+- **State:** type named correctly, maker from the label, size, strings/pins present or missing, cracks and top condition, "sold as display / needs restringing" unless playable, accessories included.
+- **Pack / haul:** 20–30" flat box, 5–10 lb, strings slackened, pin rows padded, $20–35; fits a passenger seat.
+- **Quote to a buyer:** "Complete [ukelin] with bow, case and the original song cards, flat top and all pins — most survivors are cracked wall decor at $30; a complete playable one is the $80–175 piece."
 
 ## Buy rule
 - Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$25) − ship to Dylan (~$25) − price ≥ max($50, price).

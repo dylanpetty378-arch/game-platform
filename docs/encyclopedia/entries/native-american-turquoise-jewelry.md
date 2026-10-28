@@ -1,5 +1,5 @@
 # Native American turquoise jewelry (Navajo/Diné, Zuni, Hopi, Santo Domingo/Kewa; Fred Harvey era; makers' hallmarks; also Southwestern-style imports, Bell Trading, Maisels, and modern Asian copies)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; most prices estimates, verify); Terapeak row in /home/claude/game-platform/db/comps.jsonl: "squash blossom necklace sterling navajo no turquoise" median $650 (n=50, p25 $249) — related only; Indian Arts and Crafts Act of 1990 (https://www.doi.gov/iacb/act); Native American hallmark references (Wright, "Hallmarks of the Southwest", book; https://www.nativeamericanjewelrytips.com); turquoise mine identification (Kingman, Royston, Number 8, Lone Mountain, Morenci, Bisbee, Sleeping Beauty). · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; most prices estimates, verify); Terapeak row in /home/claude/game-platform/db/comps.jsonl: "squash blossom necklace sterling navajo no turquoise" median $650 (n=50, p25 $249) — related only; Indian Arts and Crafts Act of 1990 (https://www.doi.gov/iacb/act); Native American hallmark references (Wright, "Hallmarks of the Southwest", book; https://www.nativeamericanjewelrytips.com); turquoise mine identification (Kingman, Royston, Number 8, Lone Mountain, Morenci, Bisbee, Sleeping Beauty). · tells 2026-10-13
 Slug: native-american-turquoise-jewelry · Aliases: Navajo bracelet, Zuni bracelet, turquoise cuff, sterling turquoise, Native American jewelry, Southwestern jewelry, squash blossom, petit point, needlepoint, inlay, old pawn, Fred Harvey, Indian jewelry, turquoise link bracelet, concho belt
 Summary: Imports/plated and Fred Harvey tourist pieces $15–60; signed-or-not modern Navajo/Zuni sterling bracelets and rings $50–200; heavy vintage (1940s–70s) cuffs, signed artist pieces, quality natural stones $150–600; squash blossoms and top artists (Charles Loloma, Lee Yazzie, Kenneth Begay) $500–20,000+.
 Buy rule (short): Buy hallmarked or obviously handmade heavy sterling pieces at ≤ 1/3 of comps after weighing silver; pass on light link bracelets over $50 and anything with dyed/block stones.
@@ -64,7 +64,13 @@ Hallmarks on backs (they don't recognise maker initials); weight (heavy silver =
 Pocket size: $5–8 padded box, insure over $100.
 
 ## Selling it (for the buyer-facing listing)
-Weight in grams, measurements (inner circumference, gap), stone description ("natural turquoise with matrix" only if confident; otherwise "turquoise-colored stones"), hallmark photo, test result for silver. Describe as "Southwestern" unless Native origin documented.
+- **Title words:** Navajo/Zuni/Hopi, sterling, turquoise, form (cuff, ring, squash blossom, concho belt), signed/hallmark initials, "vintage", weight in grams, size. Junk: "old pawn" unless pre-1950 and proven, "rare", "Indian". `Vintage Navajo Sterling Turquoise Cuff Bracelet Signed 48g Native American`
+- **Where:** eBay, 7-day auction for signed heavy vintage (bidders chase it), BIN with offers for the rest; Etsy for signed modern pieces at slightly higher prices.
+- **Price position:** at the sold median (cuffs $130, concho belts $400, squash blossoms $650), OBO; accept −15%; floor is sterling melt by weight; cut 10% after 3 weeks.
+- **Photos:** piece worn or on a wrist/hand for scale; hallmark on the back close-up; stones close-up (matrix, dye tells); inside of cuff; piece on a gram scale; silver test; ruler for inner circumference and gap.
+- **State:** weight in grams, inner circumference and gap, stone description ("natural turquoise with matrix" only if confident, else "turquoise-colored stones"), hallmark, tribe only if supported, silver test result, flaws (loose stones, cracks, solder repairs) by photo number.
+- **Pack / haul:** pocket; padded box $5–8, insure over $100.
+- **Quote to a buyer:** "This is a [signed Navajo] sterling [cuff] at [48] grams of silver with [natural] turquoise; signed vintage cuffs sell for $[80–240], and sterling weight alone sets the floor."
 
 ## Buy rule
 Profit = median × 0.87 − ~$6 − ~$6 − price ≥ max($50, price). A $120-median bracelet allows ≤ ~$45. Buy heavy hallmarked pieces at ≤ 1/3 of comps; weigh-based silver floor (~$0.90–1.20/g sterling at current spot, verify). No master-artist pieces needing authentication.

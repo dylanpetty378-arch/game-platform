@@ -1,5 +1,5 @@
 # Pressed-steel farm toys (Tru-Scale, Ertl, Carter, Doepke)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay 156942386214 (1950s Tru-Scale hay baler, $56 ask Oct 2025); eBay 205697031724 / 372645890589 (Tru-Scale hay elevators $40–90 asks); auctionzip farm-toy auction results; general knowledge of Ertl/Carter 1/16 values.
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay 156942386214 (1950s Tru-Scale hay baler, $56 ask Oct 2025); eBay 205697031724 / 372645890589 (Tru-Scale hay elevators $40–90 asks); auctionzip farm-toy auction results; general knowledge of Ertl/Carter 1/16 values.
 Slug: pressed-steel-farm-toys · Aliases: metal farm toys, vintage tractor toy, Tru-Scale, Ertl tractor, 1/16 farm toy, Doepke grader, toy hay baler, toy hay elevator
 Summary: Repainted/rusted or 1980s plastic-tyre pieces $10–25; played-with Tru-Scale pieces $35–70 each; Tru-Scale loaders and original Ertl IH/JD $90–200; complete Doepke and boxed Ertl $200–400.
 Buy rule (short): Tru-Scale/Ertl lots ≤ $15/piece with original paint, or a complete Doepke ≤ $80; pass on repaints and per-piece pricing at $40+.
@@ -52,7 +52,13 @@ A bundle of "farm toys" is usually priced by the pile. The baler and elevator in
 Tractor ~3 lb, elevator 2 lb, baler 2 lb. A 7-piece lot is ~15 lb and costs $35–45 to ship in. Resell individually on eBay. Wrap protruding parts (elevator belts, tines).
 
 ## Selling it (for the buyer-facing listing)
-Title: maker + model + scale + "original paint", e.g. "Vintage Carter Tru-Scale 1/16 Pressed Steel Hay Baler Original Paint". State the original or repainted finish, decal condition, tyres original or replaced, completeness, and dimensions. Photograph the decals, the underside and maker stamps, and the tyres.
+- **Title words:** maker + model + "1/16" + "pressed steel" + piece (hay baler, elevator, loader tractor) + "original paint" + "vintage". Junk: "farm toys lot", "metal tractor", "repainted" (unless true). Example: `Vintage Carter Tru-Scale 1/16 Pressed Steel Hay Baler Original Paint Decals`.
+- **Where:** eBay BIN with offers, one piece per listing (collectors search by piece; winter/holidays stronger); FB local sells the pile for less.
+- **Price position:** list at the sold median (Tru-Scale implements $35–70 each, 890/891 loader and original Ertl IH/JD $90–200, Doepke complete $150–400); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) three-quarter view on plain background; then decals close-up, underside with maker stamp, tyres, any rust/repaint spots, moving parts, box if present, ruler for length.
+- **State:** maker, model, scale, original vs repainted finish, decal condition, tyres original or replaced, completeness (missing parts named), dimensions, box included, flaws by photo number.
+- **Pack / haul:** 2–3 lb per piece; wrap elevator belts and tines, immobilize in a 12×8×8 box, 3-lb class, $12–15; lots of 7 are ~15 lb, $35–45.
+- **Quote to a buyer:** "Original-paint [Carter Tru-Scale / 1950s Ertl JD 630], not a repaint — decals readable in photo [2]; originals sell for [$X] and the 1980s plastic-tyre Ertls are the $15 ones."
 
 ## Buy rule
 Buy when: Tru-Scale/Ertl lots cost ≤ $15/piece with original paint, or any complete Doepke costs ≤ $80. Pass when: repainted, heavy rust, or the seller already prices per piece at $40+. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (Doepke graders and loaders do).

@@ -1,5 +1,5 @@
 # Vintage marbles (jar lots, machine-made and handmade) (Akro Agate, Peltier, Christensen Agate, Marble King, Vitro, Master, German handmade)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2024–25 (quart jar of mixed machine-made $30–70; Akro Agate corkscrews $5–20 each; handmade German swirls/onionskins $30–300 each); marblecollecting.com identification guides.
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold knowledge 2024–25 (quart jar of mixed machine-made $30–70; Akro Agate corkscrews $5–20 each; handmade German swirls/onionskins $30–300 each); marblecollecting.com identification guides.
 Slug: vintage-marbles · Aliases: jar of marbles, old marbles, marble lot, shooters, aggies, clay marbles, German handmade marbles
 Summary: Cat's-eyes/clearies $10–20/lb; mixed 1930s–60s machine-made $30–70/quart; Akro oxbloods, Peltier pictures, CAC guineas $20–300 each; German sulphides/onionskins/lutz $100–1,500 each.
 Buy rule (short): Buy pre-1970 machine-made ≤ $15/quart or visible pontil/sulphide lots ≤ $50; pass cat's-eye lots and $30+/quart.
@@ -64,9 +64,13 @@ Quart jar ~4 lb; three jars 12 lb glass – $25–30 and breakage risk. Resell b
 the glass jars in padded flat-rate boxes.
 
 ## Selling it (for the buyer-facing listing)
-Sort by maker/type, photograph individually on a white background with good light, state size (diameter), count and
-condition honestly (chips, moons). Title keywords: maker (Akro Agate, Peltier, CAC), type (corkscrew, oxblood,
-onionskin, sulphide), "handmade", "German", "shooter", size.
+- **Title words:** maker (Akro Agate, Peltier, CAC) + type (corkscrew, oxblood, onionskin, sulphide, lutz) + "handmade"/"German" + "shooter" + size in inches/mm + count; jars: "lot of 200 vintage machine-made marbles". Junk: "marble lot", "old marbles jar", "rare" without a type. Example: `Antique German Handmade Onionskin Marble 1 Inch Shooter Pontils Mica Vintage`.
+- **Where:** eBay BIN with offers, sorted by maker/type (identified lots sell better than jars); German sulphides/lutz to Morphy auctions; decorators buy mixed jars locally.
+- **Price position:** list at the sold median (mixed machine-made $30–70/quart, Akro corkscrews $5–20 each, Peltier comics $50–150, German handmade $30–300 each); accept −15%, floor −25%; OBO; cut 10% after 30 days.
+- **Photos:** 1) the marble on white, good light, pontils/pattern showing; then the opposite side, pontil close-ups, any chips/moons, calipers for diameter; lots in a sorted grid with a ruler.
+- **State:** maker/type, diameter, count, condition honestly (chips, moons, flakes, polished), handmade pontils present, sorted by maker, flaws by photo number.
+- **Pack / haul:** out of the glass jars; marbles in zip bags inside a padded flat-rate box, 2–5 lb, $10–15; single handmade in a small padded box.
+- **Quote to a buyer:** "A [German onionskin / Peltier Kayo comic] with [both pontils / the transfer] in photo [2], [1 inch], no chips — cat's-eyes are the $10-a-pound marbles; this type sells for [$X] each."
 
 ## Buy rule
 Buy when: ≤ $15/quart of pre-1970 machine-made, or any lot with visible pontil/sulphide marbles ≤ $50. Pass when:

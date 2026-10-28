@@ -1,5 +1,5 @@
 # Vintage Disney collectibles (Walt Disney Productions-era toys and souvenirs: Gund, Knickerbocker, Hasbro, Marx, Ingersoll/US Time, Disneyland park souvenirs; later Disney Store, Poliwoggs, WDCC; Disney purses/bags)
-Updated: 2026-10-13 · Sources: https://underpricedai.com/value/disney ; https://underpricedai.com/worth/vintage-disney-minnie-mouse-porcelain-doll-by-applause-in-cream-satin-dress ; https://www.1stdibs.com/furniture/more-furniture-collectibles/collectibles-curiosities/toys-dolls/1950s-walt-disneys-pinocchio-plaid-hand-puppet-gund-mfg-company-new-york/id-f_25825072 ; https://www.ebay.com/itm/267169106916 ; https://www.ebay.de/itm/235748981852 ; https://www.ebay.de/itm/267453001460 ; https://www.ebay.de/itm/146936692494 ; https://vegalleries.com/node/23928 ; https://www.vegalleries.com/art/disneyana/4282/disneyland-theme-parks/disneyland-resort-america-on-parade-silver-medallion-1976-id-2 (note: eBay US sold search not accessible; category medians from underpricedai; item figures are estimates)
+Updated: 2026-10-28 · Sources: https://underpricedai.com/value/disney ; https://underpricedai.com/worth/vintage-disney-minnie-mouse-porcelain-doll-by-applause-in-cream-satin-dress ; https://www.1stdibs.com/furniture/more-furniture-collectibles/collectibles-curiosities/toys-dolls/1950s-walt-disneys-pinocchio-plaid-hand-puppet-gund-mfg-company-new-york/id-f_25825072 ; https://www.ebay.com/itm/267169106916 ; https://www.ebay.de/itm/235748981852 ; https://www.ebay.de/itm/267453001460 ; https://www.ebay.de/itm/146936692494 ; https://vegalleries.com/node/23928 ; https://www.vegalleries.com/art/disneyana/4282/disneyland-theme-parks/disneyland-resort-america-on-parade-silver-medallion-1976-id-2 (note: eBay US sold search not accessible; category medians from underpricedai; item figures are estimates)
 Slug: vintage-disney-collectibles · Aliases: Disneyana, Walt Disney Productions, WDP, vintage Mickey, vintage Minnie, Disneyland souvenir, Disney World souvenir, Gund puppet, hand puppet, bean bag doll, Disney purse, Disney tote, Poliwoggs, Disney fan
 Summary: Post-1990 Disney merch $5–30 (median about $20); pre-1986 "Walt Disney Productions" toys and park souvenirs $20–200; 1930s–50s toys, early park ephemera and production cels $100–50,000.
 Buy rule (short): Buy only items marked "Walt Disney Productions" or "© Walt Disney" (pre-1986) or 1930s–50s licensed toys, in good condition, at ≤ 20% of sold median; pass on all "The Walt Disney Company"/Disney Store-era goods.
@@ -60,9 +60,13 @@ Very large, very liquid at the low end. Vintage Disneyana has a dedicated collec
 Most items are light and small: $6–12 USPS Ground Advantage. Resin figures (Poliwoggs, WDCC) need double boxing. Puppets and plush go in poly mailers. Fans and paper go in rigid mailers.
 
 ## Selling it (for the buyer-facing listing)
-- Give the copyright line exactly as printed, the maker, approximate year, size and condition of paint, vinyl or fabric.
-- Photograph tags and marks.
-- For park items, give the park, era (e.g., "1970s Disneyland, Walt Disney Productions") and any attraction shown.
+- **Title words:** "Walt Disney Productions" + character + maker ("Gund", "Dakin", "Knickerbocker", "Marx") + item + decade/park ("1970s Disneyland"); Junk: "old Disney stuff", "vintage" on post-1990 merch, "rare". Example: `1950s Walt Disney Productions Gund Mickey Mouse Hand Puppet Vinyl Head Tagged`.
+- **Where:** eBay BIN with offers for pre-1986 toys and park paper (ticket books, maps); modern Disney Store/park merch (median $20) as lots or local; 1930s pieces and cels to Van Eaton/auction. Christmas items in Q4.
+- **Price position:** at the sold median (modern $12–36; 1960s–80s souvenirs/Gund/Dakin $15–60; ticket books/maps/Mickey Mouse Club $40–300), accept −15%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo the item front in daylight; then the copyright line exactly, maker tag, marks, vinyl/paint wear, fabric stains, all parts/accessories, park and attraction shown on paper items, back.
+- **State:** copyright line as printed, maker, approximate year, size, paint/vinyl/fabric condition, missing parts, park and era for souvenirs, repro check (modern © date), flaws by photo number.
+- **Pack / haul:** light, $6–12 Ground Advantage; plush/puppets in poly mailers, paper and fans in rigid mailers, resin (WDCC/Poliwoggs) double-boxed.
+- **Quote to a buyer:** "Tagged '[Walt Disney Productions]' — that line stopped in 1986, so this [Gund puppet] is the [1950s] original, not the Disney Store retro version; [vinyl head unsplit, cloth body clean]."
 
 ## Buy rule
 Price ≤ $200. Profit = sold median × 0.87 − shipping to buyer − shipping to Dylan − price. Pass unless profit ≥ max($50, price). Tier A: profit ≥ 2× price.

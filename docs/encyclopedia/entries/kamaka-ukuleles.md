@@ -1,5 +1,5 @@
 # Kamaka ukuleles (extends vintage-ukuleles; HF-1/HF-2/HF-3, Pineapple)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Reverb listing 1950s–60s gold-label Kamaka soprano; Mahar's Vintage Guitars HF-1 white label (sold); Elderly HF-1 new price; southernukulelestore 1960s Kamaka; merged write-up from review agent F, run 12; remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Reverb listing 1950s–60s gold-label Kamaka soprano; Mahar's Vintage Guitars HF-1 white label (sold); Elderly HF-1 new price; southernukulelestore 1960s Kamaka; merged write-up from review agent F, run 12; remaining detail general knowledge, verify
 Slug: kamaka-ukuleles · Aliases: Kamaka uke, Hawaiian koa ukulele, gold label Kamaka, white label Kamaka, Kamaka Pineapple, HF-1, HF-2, HF-3, vintage ukulele
 Summary: cracked/refinished/fake-decal $150–300; 1990s–2010s HF-1 $500–800; 1950s–60s gold-label $700–1,400; 1920s–40s Pineapple/pre-war $1,500–3,500
 Buy rule (short): genuine crack-free Kamaka ≤ $250, gold-label ≤ $450
@@ -48,7 +48,13 @@ Gold vs white label (era). Anyone who writes "Kamaka" has already priced it as a
 3–4 lb in case; $25–35 insured. Reverb 5–8% + payment, eBay 13%. Loosen strings slightly, pad the headstock, humidity-protect in winter.
 
 ## Selling it (for the buyer-facing listing)
-State model, label colour/era, size, solid koa, original finish, crack-free, tuners original, case. Photograph label through the soundhole, headstock decal, front/back/sides, bridge, any wear. Title keywords: "Kamaka HF-1 gold label soprano 1960s", "solid koa", "Hawaii", "Pineapple".
+- **Title words:** "Kamaka" + model ("HF-1", "Pineapple") + label era ("gold label", "white label") + size (soprano/concert/tenor) + "solid koa" + "Hawaii" + decade; Junk: "ukelele", "Hawaiian uke", "vintage instrument". Example: `Kamaka HF-1 Gold Label Soprano Ukulele 1960s Solid Koa Hawaii Original Case`.
+- **Where:** Reverb first (5–8% + payment; Hawaii/West Coast/Japan buyers), eBay second; sells in days–weeks priced right. No local market beats Reverb.
+- **Price position:** at the sold median for the era (gold-label soprano $329 median, p75 $400; Pineapple $400, p75 $550; 1990s–2010s HF-1 $500–800 vs ~$1,100 new), accept −10%, floor p25; OBO; cut 10% after 3 weeks.
+- **Photos:** first photo front in daylight; then label through the soundhole, headstock decal, back and sides in raking light (cracks, seams), bridge edges, neck angle, tuners, fret wear, case; a short strum video.
+- **State:** model, label colour/era, size, solid koa, original finish, crack-free/seam-tight (or where), tuners original, action, strings, case included, flaws by photo number.
+- **Pack / haul:** 3–4 lb in case; loosen strings slightly, pad the headstock inside the case, case in a box with fill, humidity-protect in winter; $25–35 insured.
+- **Quote to a buyer:** "Kamaka [HF-1] with the [gold label] — [1950s–60s] Honolulu-built solid koa, no cracks, original tuners; a new HF-1 is about [$1,100] and the old ones are the ones players want."
 
 ## Buy rule
 Buy when: any genuine Kamaka ≤ $250 crack-free, or gold-label ≤ $450. Pass when: seller lists "Kamaka" with tiered pricing (they know), or any crack/separation. Profit must be ≥ max($50, price) after fees and shipping both ways (Dylan's rule). Fits a passenger seat.

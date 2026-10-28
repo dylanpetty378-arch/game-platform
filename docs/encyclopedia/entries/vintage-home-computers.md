@@ -1,5 +1,5 @@
 # Vintage home computers (Apple, Commodore, Radio Shack/Tandy TRS-80, Atari, TI, Amiga, IBM)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: dfarq.homeip.net (TRS-80 MC-10 value article, Sept 2024), eBay listings Oct 2026, agent knowledge · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: dfarq.homeip.net (TRS-80 MC-10 value article, Sept 2024), eBay listings Oct 2026, agent knowledge · tells 2026-10-13
 Slug: vintage-home-computers · Aliases: retro computer, old computer, Tandy computer, Radio Shack computer, TRS-80, Commodore 64, C64, Apple II, Apple IIe, Amiga, vintage PC, 8-bit computer
 Summary: Common 8-bit machines (MC-10, TI-99/4A, VIC-20, Atari 400, loose C64) $25–120; boxed/working C64, Apple IIe, Amiga 500 $100–400; Model 100, IIc boxed, SX-64, NeXT $300–1,000; Apple II/II+, Altair, IBM 5150, Lisa $1,000+.
 Buy rule (short): Buy Apple II family, Amiga, SX-64 or Model 100 shown working under $100; pass MC-10, TI-99, Atari 400/800XL, VIC-20 and anything untested.
@@ -78,9 +78,13 @@ Boxed MC-10 ~4 lb ($15); C64/Apple II with PSU 10–20 lb ($30–50). CRT monito
 sell locally. Untested electronics break Dylan's rule unless the seller demonstrates power-on.
 
 ## Selling it (for the buyer-facing listing)
-State exact model and revision (from the bottom label), tested status with a boot-screen photo, what is included (PSU,
-cables, manuals, box, software), cosmetic yellowing and any recapping/repairs. Photograph the bottom label, the box,
-the keyboard and the boot screen. Title keywords: maker, model, "tested working", "boxed", "complete", "CIB", year.
+- **Title words:** maker + exact model + "tested working"/"boots" + "boxed"/"CIB"/"complete" + included (PSU, Disk II, 16K RAM) + year. Junk: "old computer", "Tandy computer", "untested" in title. Example: `Commodore 64 Breadbin Computer Tested Working Boxed with PSU Manuals 1983`.
+- **Where:** eBay BIN with offers (retro-computing hobbyists; tested/boxed sells fast, loose untested sits); CRT monitors and heavy bundles FB local; mild Q4 lift.
+- **Price position:** list at the sold median (C64 boxed tested $180–250, Apple IIe working $150–300, Amiga 500 $200–400, MC-10 boxed $50–100, Model 100/IIc boxed $300+); accept −10%, floor −20%; OBO; cut 10% after 30 days.
+- **Photos:** 1) computer front with the boot screen lit on a monitor; then bottom label with model and revision, keyboard close-up for yellowing, ports, PSU and cables, box and manuals, software and drives, inside if recapped; video of boot and a keypress.
+- **State:** exact model and revision, tested status with boot-screen photo, everything included (PSU, cables, manuals, box, software, drives), yellowing, recapping/repairs, flaws by photo number.
+- **Pack / haul:** boxed MC-10 ~4 lb, $15; C64/Apple II with PSU 10–20 lb, keyboard face padded, double-boxed, $30–50; CRTs shipped separately or sold local.
+- **Quote to a buyer:** "[Apple IIe / breadbin C64] boots to the prompt in the video, with [PSU, Disk II, box] — tested boxed units sell for [$X]; the untested loose ones are the $60 machines."
 
 ## Buy rule
 Buy when: Apple II family, Amiga, SX-64, Model 100 shown working, under $100. Pass when: MC-10, TI-99, Atari 400/800XL,

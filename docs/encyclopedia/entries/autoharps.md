@@ -1,5 +1,5 @@
 # Autoharps (Oscar Schmidt, Zimmermann, Chromaharp/Rhythm Band, Orthey, Fladmark, d'Aigle)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.oscarschmidt.com, https://www.ebay.com/sh/research (Terapeak), https://www.worthpoint.com, https://www.autoharpquarterly.com
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); verify on https://www.oscarschmidt.com, https://www.ebay.com/sh/research (Terapeak), https://www.worthpoint.com, https://www.autoharpquarterly.com
 Slug: autoharps · Aliases: auto harp, chord zither, Appalachian autoharp, Oscar Schmidt 15 bar, 21 chord autoharp, Chromaharp, zither harp
 Summary: Chromaharp and 12/15-bar student harps $40–120; vintage OS 15/21-chord $90–200; 1880s–1920s Zimmermann antiques $60–250; Appalachian/Centurion/Festival/Ozark/limited OS $200–500; luthier harps (Orthey, Fladmark, d'Aigle, Daigle) $800–2,500 (general knowledge, verify)
 Buy rule (short): Buy luthier harps and high-end OS models (Appalachian, Centurion, Festival, Ozark, signature) under ~$150; pass on common 15/21-chord models above ~$40.
@@ -49,7 +49,13 @@ Steady, but the buyers are folk/church players and the occasional collector. eBa
 About 24×13×5 in and 6–9 lb packed. Ship with the strings slackened slightly, bars removed or padded, in a custom box or hard case. $25–40 in the US. It fits a car passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-Give the serial number and label, the bar count and chord list, whether it holds tune, felt condition and string condition, and photograph the top in raking light to show whether it is flat.
+- **Title words:** "Oscar Schmidt" (or Chromaharp/Zimmermann/Orthey), model (Appalachian/Centurion/Festival/Model A 15-chord/21-chord), "autoharp", "Made in USA", decade from the serial, "with case", "solid spruce". Junk: "old zither" for luthier harps, "antique" on 1969 OS, "rare". `Oscar Schmidt Appalachian 21 Chord Autoharp Solid Spruce USA 1980s with Case`
+- **Where:** Reverb for high-end OS and luthier harps (players); eBay BIN with offers for 15/21-chord (median $140); Chromaharps local.
+- **Price position:** vintage OS 15/21 at the sold median ($140), OBO, accept −15%, case adds $20–40; Appalachian/Centurion at $200–500, luthier at $800–2,500, firm 3 weeks; cut 10% at 45 days.
+- **Photos:** first: harp front, top straight-on; then label and serial inside the soundhole, top in raking light for bellying, pin block for cracks, bars and felts close-up, strings for rust, back and case; video of each bar played.
+- **State:** maker, model, serial and label, bar count and chord list, holds tune, felt and string condition, top flat or bellied, cracks/stripped pins/missing bars by photo number, case included.
+- **Pack / haul:** 24x13x5", 6–9 lb, strings slackened, bars padded or removed, hard case or custom box, $25–40; fits a passenger seat.
+- **Quote to a buyer:** "[Oscar Schmidt Appalachian], solid spruce, USA-made [1980s] serial, holds tune with fresh felts — the laminated 15-chord student harps are $90; the Appalachian is the one players pay $200–500 for."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$30 out − ~$30 in − price ≥ max($50, price). That means a common $130 OS sells for ~$113 net, $53 after shipping, so it only works at about $0. Buy only luthier or high-end OS models, or Zimmermann antiques in great decor condition, at ≤ ~35% of resale. Must hold tune; no cracked pin block.
