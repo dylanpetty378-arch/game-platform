@@ -75,7 +75,7 @@ Researched 2026-10-27. Every claim has its source URL right after it. Lines mark
 
 **channel** FB local for frames · **fee** 0% · **photo** assembled frame, plus the slats and hardware bag · **price** a quality bed frame in excellent condition holds value (https://reperch.com/blog/secondhand-furniture-pricing-guide-how-to-know-if-its-a-good-deal) · **days** no source · **drop** standard · **don't** sell a used mattress as a reseller
 
-- **Mattress rule.** Texas: "the used mattress must be cleaned and has a tag to indicate the mattress is used." Colour-coded tagging applies to businesses, not one-off individuals (https://www.nolahsleep.com/blogs/blog/is-it-legal-to-sell-a-used-mattress). The Texas bedding law is Health & Safety Code ch. 345 (https://law.justia.com/codes/texas/2009/health-and-safety-code/title-5-sanitation-and-environmental-quality/chapter-345-bedding/). **[inference]** A one-off household mattress sale is lower risk, but a repeat reseller looks like a business. Don't flip mattresses, and give away or haul off your own.
+- **Mattress rule.** Corrected Oct 28 2026: Texas Health & Safety Code ch. 345 (Bedding) was repealed effective 2015-09-01 (SB 202, 84th Leg.), so Texas no longer licenses bedding sellers or requires a "used" tag. Disclose condition honestly; the don't-flip-mattresses rule stands on bed-bug liability and margin, not law. (The earlier "cleaned and tagged" line here was wrong.)
 - **Bed bugs.** Mattresses carry the same inspection fear as upholstery (https://insectlab.russell.wisc.edu/2016/08/15/think-twice-about-bed-bugs).
 
 ## 6. Exercise gear
