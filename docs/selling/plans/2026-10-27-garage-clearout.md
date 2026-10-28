@@ -1,7 +1,7 @@
 # Garage clear-out — 9 pieces, gone within the week (Oct 27 – Nov 3, 2026)
 
-**v2 (Oct 27 evening, after the driveway photos):** nine pieces, not eight — the stepped espresso bookcase is in the
-shoot too. Photo-driven changes: the Porter end table's top is gouged through the finish (not a Restor-A-Finish job;
+**v2 (Oct 27 evening, after the driveway photos):** nine pieces were photographed; the stepped espresso bookcase
+sold on Jordan's listing the same day (first sale logged), so eight remain. Photo-driven changes: the Porter end table's top is gouged through the finish (not a Restor-A-Finish job;
 priced $40 → free-with-purchase by day 6); the ottoman is an oval teal tufted piece on wood legs, not the matching
 denim (described honestly, bundled with the loveseat, $35 alone); the rug is Orian Adagio 8237 "Faded Diamonds" /
 "Tribal Throne" and Rug Studio sells the 7'8"×10'10" today at $1,065 (MSRP $1,420) — a far better anchor than the
