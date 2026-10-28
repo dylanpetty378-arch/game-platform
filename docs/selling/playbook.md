@@ -43,6 +43,7 @@ category) — and since March 2026 buyers see an AI summary of the seller's tenu
 - **List in more places** (three-dot menu) → 8–12 local buy/sell groups (Keller, Southlake, Colleyville, NRH, Roanoke,
   Trophy Club, Haslet, Watauga). Vary the opening line per group; identical text posted fast gets spam-flagged. One
   seller: 3 inquiries in 10 days on Marketplace alone → 14 sales in 9 days after 11 groups.
+- **Set listings need their own photo.** A set listing built from photos already used on the singles is rejected outright ("This looks like a duplicate so we didn't post it", Oct 28 2026). Shoot one photo of all the pieces together for any set; otherwise state the set price in each single's body and skip the set listing.
 - **Spam/automation triggers that cut whole-account reach:** 10 listings in an hour, identical text, frequent edits,
   stock photos, phone number in the body, automation tools. (The Facebook sweep extension runs on the home computer
   with Dylan's account — keep selling listings few and hand-written, and post them slowly.)
