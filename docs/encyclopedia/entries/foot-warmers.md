@@ -1,5 +1,5 @@
 # Foot warmers and metal hot-water bottles (galvanized zinc "pigs", copper/brass bed warmers, stoneware pigs, soapstone, carriage foot stoves)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Craigslist listing 7928977771 (photo)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Craigslist listing 7928977771 (photo)
 Slug: foot-warmers · Aliases: bed warmer, hot water bottle, metal canteen (mis-ID), foot stove, carriage warmer, bed pig, stoneware foot warmer, Henderson foot warmer, soapstone warmer
 Summary: Galvanized/zinc oval hot-water bottles $15–40 each; marked stoneware "pigs" (Henderson, Logan) $40–150; punched-tin wooden-frame foot stoves (1800s) $100–400; copper/brass long-handled bed warming pans $75–300 (general knowledge, verify)
 Buy rule (short): Pass on zinc ovals; buy only 19th-c. pierced-tin wood-frame foot stoves or marked stoneware pigs at ≤ $40.
@@ -48,7 +48,13 @@ Marked stoneware pigs and early foot stoves get lumped in as "old jugs/boxes" an
 Zinc ovals 1.5–3 lb each, bulky; $12–16 each. Stoneware needs heavy padding.
 
 ## Selling it (for the buyer-facing listing)
-Leak-test (or state not tested), describe cap, dimensions, patina; farmhouse/primitive decor keywords.
+- **Title words:** type (antique pierced tin foot stove / stoneware pig / zinc hot water bottle) + maker (Henderson / Logan / Doulton) + "primitive"/"farmhouse" + era + size. Junk: "old jug", "antique box", "rustic". `Antique Pierced Tin Foot Stove Wood Frame Coal Pan New England 1800s Primitive`
+- **Where:** eBay BIN with offers / Etsy (primitive decor buyers, Oct–Jan bump); zinc ovals and warming pans FB local.
+- **Price position:** at the sold median ($40–150 marked pigs; $100–400 foot stoves), accept −15%, floor 75%; OBO; cut 15% after 45 days; zinc ovals $15–40 firm.
+- **Photos:** piece on plain background; maker mark/stamp; punched-tin pattern close up; door open with coal pan; cap/stopper; base; dents, cracks or leaks; next to a ruler.
+- **State:** type, maker and marks, dimensions, cap present, leak-tested or "not tested", patina, punched design, repairs/replaced parts, cracks by photo number; farmhouse/primitive keywords.
+- **Pack / haul:** shoebox, zinc ovals 1.5–3 lb $12–16; stoneware double-boxed with heavy padding; foot stoves padded so the tin box can't shift in the frame.
+- **Quote to a buyer:** "[Henderson stoneware pig / New England pierced-tin foot stove], [era], marked and complete with the [cap/coal pan]; the unmarked zinc bottles sell for [$] and marked [type] brings [$]."
 
 ## Buy rule
 Profit = sold × 0.87 − ~$15 − ~$15 − price ≥ max($50, price). Zinc ovals never qualify. Stoneware pigs with legible maker marks or punched-tin foot stoves at ≤ $40 may.

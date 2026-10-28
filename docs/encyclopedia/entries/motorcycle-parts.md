@@ -1,5 +1,5 @@
 # Vintage motorcycle parts (Harley-Davidson, Indian, Triumph/BSA, Honda, Bates/Buco accessories)
-Updated: 2026-10-13 · tells 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak data for this type in db/comps.jsonl
+Updated: 2026-10-28 · tells 2026-10-13 · Sources: general knowledge (no web search this run); no Terapeak data for this type in db/comps.jsonl
 Slug: motorcycle-parts · Aliases: Harley fender, panhead parts, shovelhead parts, knucklehead, tank, tins, sportster parts, OEM fender, bobber, chopper parts
 Summary: aftermarket/common metric parts $10-60; OEM Harley Shovel/Sportster tins $75-300; Panhead/Knucklehead-era OEM tins, tanks, dash $300-1500+; small NOS parts and emblems $25-200 (general knowledge, verify)
 Buy rule (short): Only small, identifiable OEM pieces (emblems, NOS boxed parts, tank badges, speedometers ≤ shoebox) under $40; fenders/tanks are bulky and fitment-ID heavy - pass unless numbered and cheap.
@@ -52,7 +52,13 @@ NOS boxed small parts and emblems at estate sales; old speedometers; original-pa
 Rear fenders are 30-40" long, irregular, 10-20 lb: $40-80 via ground, often oversize. Usually exceeds Dylan's passenger-seat rule with struts and signals attached.
 
 ## Selling it (for the buyer-facing listing)
-Part number, years fit, OEM evidence, every hole and rust spot photographed.
+- **Title words:** "Harley-Davidson OEM" + part number + part name + years fit (1948 Panhead / 1936–39 Knucklehead) + "NOS"/"original paint" + model (Sportster/Shovelhead). Junk: "motorcycle parts lot", "custom", "fits all". `Harley-Davidson OEM 1948 Panhead Rear Fender Tombstone Original Paint 59100-48`
+- **Where:** eBay Motors BIN with offers (knowledgeable buyers want exact fitment); Pan/Knuck/Indian tins and NOS to motorcycle auctions (LiveAuctioneers). Bulky fenders/tanks local if unnumbered.
+- **Price position:** at the sold median ($75–300 Shovel/Sportster tins; $300–1,500 Pan/Knuck/NOS), accept −10%, floor 80%; OBO; cut 10% after 30 days.
+- **Photos:** part on plain background; part number stamp/casting close up; every mounting hole; inside/underside; original paint and any rust spot; NOS box and tag; brace rivets or welds; against a tape.
+- **State:** part number, years and models it fits, OEM evidence (stamp/casting), NOS or used, original paint or repaint, every hole, dent and rust spot by photo number, struts/signals included.
+- **Pack / haul:** passenger-seat for small parts; rear fenders 30–40" and 10–20 lb are oversize $40–80, struts removed, edges padded, double-boxed; emblems and speedometers shoebox.
+- **Quote to a buyer:** "OEM Harley [1948 Panhead] [rear fender], part [number], [original paint]; reproduction Paughco pieces sell for [$] and correct numbered originals bring [$] at the motorcycle auctions."
 
 ## Buy rule
 Fenders/tanks: pass (bulky, fitment expertise, freight). Small OEM pieces: buy when part number visible and price ≤ 1/3 of sold comp. No engine internals that need testing.

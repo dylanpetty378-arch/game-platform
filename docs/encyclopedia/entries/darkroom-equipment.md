@@ -1,5 +1,5 @@
 # Darkroom equipment (GraLab timers, enlargers, enlarging lenses, Zone VI, cold-light heads, Metz/Vivitar flashes)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges for GraLab 300/450, Beseler 23C/45, Omega D2, Metz 45CT/32CT flashes (no dated comp pulled); photrio / largeformatphotography forum threads on Zone VI cold light heads; eBay sold pattern (knowledge 2024–25); craigslist 1020
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges for GraLab 300/450, Beseler 23C/45, Omega D2, Metz 45CT/32CT flashes (no dated comp pulled); photrio / largeformatphotography forum threads on Zone VI cold light heads; eBay sold pattern (knowledge 2024–25); craigslist 1020
 Slug: darkroom-equipment · Aliases: darkroom lot, darkroom stuff, photo enlarger, enlarger, GraLab timer, enlarging lens, Zone VI, cold light head, print washer, photo paper, Metz flash
 Summary: Trays, tanks, Beseler 23C/Omega B22 bodies, Vivitar 283, Metz 32CT3 $10–100 (enlargers local only); GraLab 300, Beseler 23C body, Metz 45CT-4, Zone VI stabilizer, 50 mm Componon-S $40–150; Zone VI cold-light heads/washers, 150 mm lenses, Jobo CPP-2, Omega D5 w/ Rodagon $200–500; Focomat, Zone VI field cameras, Jobo CPP-3 $600–2,000.
 Buy rule (short): Buy darkroom lots containing a Componon-S/Rodagon lens or Metz 45/60 under $40, Zone VI washers/cold-light heads ≤ $80, Zone VI field camera ≤ $200, stabilizer ≤ $30; pass enlarger bodies and GraLab-only lots at $50+.
@@ -51,7 +51,13 @@ Enlarger lenses (Componon/Rodagon) buried in "darkroom lot" listings (sellers ca
 GraLab ~4 lb, $12; Zone VI stabilizer 3 lb, $12 each way; lenses <1 lb; washers 15–30 lb (oversize). Enlargers are local only.
 
 ## Selling it (for the buyer-facing listing)
-Brand, model, focal length/aperture for lenses, tested working (timer runs, head lights), glass condition (haze/fungus/scratches), included parts (carriers, condensers, probes, cords). Photograph labels, lens front ring, glass with a light behind it, and the item working.
+- **Title words:** brand + model + item type (enlarging lens / timer / cold light head / print washer) + focal length and aperture for lenses + "tested"/"working" + format (35mm/4x5). Junk: "darkroom lot", "camera lens", "photography stuff". `Schneider Componon-S 150mm f5.6 Enlarging Lens Clean Glass Tested 4x5`
+- **Where:** eBay BIN with offers for lenses, Zone VI, Jobo, timers; photrio classifieds and FB film groups sell the same for no fee to film printers. Enlarger bodies FB local only (nearly free).
+- **Price position:** at the sold median for the model (GraLab 300 $45–75), accept −10%, floor 80%; OBO; cut 15% after 30 days.
+- **Photos:** item on plain background; label/model plate; lens front ring; glass backlit for haze/fungus/scratches; timer running or head lit (short video); included carriers, condensers, probes, cords.
+- **State:** brand, model, focal length/aperture, tested (timer runs, head lights, lens glass clear), haze/fungus/scratches, included parts, missing pieces, cosmetic wear by photo number.
+- **Pack / haul:** shoebox; lenses under 1 lb in a padded box; GraLab ~4 lb $12; stabilizer 3 lb $12; washers 15–30 lb oversize; remove bulbs and loose carriers, double-box glass heads.
+- **Quote to a buyer:** "[Brand model] [item], clean glass and tested, the standard [format] enlarging lens film printers still use; new they're [$] and this one is [complete with ring/board]."
 
 ## Buy rule
 Buy when: a darkroom lot with a Componon-S/Rodagon lens or a Metz 45/60 is under $40; Zone VI washer or cold-light head ≤ $80; Zone VI field camera ≤ $200; stabilizer ≤ $30. Pass when: GraLab alone at $50+, 32CT3 at $60, enlarger bodies (freight), untested heads. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat – full 4×5 enlargers (Omega D5, Beseler 45 with column) are "bigger" and excluded.

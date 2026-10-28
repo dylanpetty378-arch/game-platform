@@ -1,5 +1,5 @@
 # Decipher Star Wars CCG (Star Wars Customizable Card Game, 1995–2001)
-Updated: 2026-09-21 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); all section detail below is general knowledge, verify against eBay sold before buying
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); all section detail below is general knowledge, verify against eBay sold before buying
 Slug: decipher-star-wars-ccg · Aliases: Star Wars CCG, SWCCG, Star Wars card game, Decipher Star Wars cards, Star Wars Customizable Card Game, Premiere Limited, black border Star Wars cards
 Summary: Black-border card backs; boxed sets and rares $50–300
 Buy rule (short): Buy box lots under $50
@@ -47,7 +47,13 @@ Which expansion and printing (Limited black border vs Unlimited white border), l
 Light: a 1,000-card box lot is ~3–4 lb, $10–18. Sealed boxes in a padded box (general knowledge, verify).
 
 ## Selling it (for the buyer-facing listing)
-Set names, printing (Limited/Unlimited), counts, list of rares/foils, condition grade, sealed vs opened. Photograph rares individually, set symbols and box seals.
+- **Title words:** "Star Wars CCG Decipher" + expansion name + "Limited black border"/"Unlimited" + "rare"/"foil"/"Reflections" + "sealed"/"booster box" + card count. Junk: "Star Wars cards lot", "trading cards", "vintage". `Star Wars CCG Decipher Death Star II Limited Rares Lot 40 Cards NM`
+- **Where:** eBay BIN with offers (list rares individually, bulk commons as a box lot); the Players' Committee community for sealed product. Nostalgia bump with Star Wars releases.
+- **Price position:** at the sold median per rare or set (unknown here; $50–300 boxed sets/rares), accept −10%, floor 80%; OBO; cut 15% after 30 days; commons in bulk, firm.
+- **Photos:** rares laid out individually front and back; set symbols close up; black vs white border edge; box seals for sealed product; foils under angled light; bulk box with count.
+- **State:** set names, printing (Limited/Unlimited), counts by rarity, list of rares/foils, condition grade (NM/LP), sealed vs opened, played decks noted, flaws by photo number.
+- **Pack / haul:** shoebox; 1,000-card box lot 3–4 lb $10–18; rares in sleeves and toploaders, sealed boxes padded in a box, no double-box needed.
+- **Quote to a buyer:** "Decipher Star Wars CCG [expansion] [Limited] rares, [count], NM from a [1990s] collection; [expansion] had a small print run and singles run [$] each, so the lot is priced at [price]."
 
 ## Buy rule
 Buy box lots under $50. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule) – so a $50 lot needs ~$150+ resale; check for late-set rares or sealed product first. Must fit a passenger seat.

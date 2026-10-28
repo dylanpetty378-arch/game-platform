@@ -1,5 +1,5 @@
 # M.I. Hummel figurines (Goebel, Rödental, Germany; later Manufaktur Rödental)
-Updated: 2026-10-13 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Hummel_figurines ; M.I. Hummel Club (mihummel.com); trademark-period ("TMK") guides; no comps in db/comps.jsonl
+Updated: 2026-10-28 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Hummel_figurines ; M.I. Hummel Club (mihummel.com); trademark-period ("TMK") guides; no comps in db/comps.jsonl
 Slug: hummel-figurines · Aliases: Hummels, Goebel figurines, Hummel lot, German figurines, bee mark figurines, MJ Hummel
 Summary: common TMK-5/6/7 (1972–2000s) small figures $10–30; TMK-3/4 (1960–72) $20–60; TMK-1/2 crown and full-bee (1935–59) $40–200; large/rare/early or display pieces $150–1,500+; bulk lots average $10–25/figure
 Buy rule (short): Buy lots at ≤ $5/figure (resale ~$15–25/figure) or any crown/full-bee (TMK-1/2) at ≤ $20; single later Hummels are pass.
@@ -56,7 +56,13 @@ Crown/full bee marks mixed into lots; US Zone stamps; large sizes (/I, /II, /III
 Each figure 3–6", 0.3–1 lb; ship double-boxed with each piece wrapped; lot of 25 = ~15–20 lb, $25–40. Breakage risk moderate. A lot of 25 fits in one or two banker boxes – passenger seat OK.
 
 ## Selling it (for the buyer-facing listing)
-Photograph each base mark and model number, list TMK per figure, chips/repairs.
+- **Title words:** "Hummel" + Goebel + figure name + model number + TMK mark (crown / full bee / TMK-3) + size (/I, /II) + "Germany"/"US Zone". Junk: "Hummel lot" for marked earlies, "figurine" alone, "rare" for TMK-5+. `Hummel Goebel Apple Tree Boy 142 Full Bee TMK-2 1950s Germany 4in`
+- **Where:** eBay BIN with offers (international buyers in Germany help); later TMK-5/6/7 in lots of 10–25 to resellers or FB local.
+- **Price position:** early marks at the sold median ($40–200 TMK-1/2), accept −15%, floor 75%; OBO; lots at $10–25/figure, firm; cut 15% after 45 days.
+- **Photos:** figure front on white; base underside with trademark and model number; face close up; every chip or repair; lot laid out with count and each base.
+- **State:** model number, figure name, TMK per figure, size, chips/repairs/crazing by photo number, US Zone stamp if present, count for lots.
+- **Pack / haul:** carry-on; each piece wrapped, double-boxed; single 0.3–1 lb $12; lot of 25 ~15–20 lb $25–40 in one or two banker boxes.
+- **Quote to a buyer:** "Goebel Hummel [name] #[model], [full bee] mark dating it [1950–59], no chips; the 1970s–90s versions go for [$] and early-mark examples bring [$]."
 
 ## Buy rule
 Profit = median × 0.87 − ship to buyer − ship to Dylan − price ≥ max($50, price). Singles (TMK-5+) never qualify. Lots: if ~25 figures can be bought for ≤ $100, resale ~$350–500 as a lot or split → passes. Crown/full-bee singles ≤ $20. Must confirm price is for whole lot.

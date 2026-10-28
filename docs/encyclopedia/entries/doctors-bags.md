@@ -1,5 +1,5 @@
 # Doctor's bags and Gladstone bags (antique leather medical/Gladstone bags; walrus, bark-grain, alligator, cowhide; makers often unmarked; Hartmann, Gladstone/English trunk makers, Feick, Murphy, Indestructo)
-Updated: 2026-10-13 · Sources: general knowledge of eBay/LiveAuctioneers sold patterns (no sold data fetched; estimates, verify)
+Updated: 2026-10-28 · Sources: general knowledge of eBay/LiveAuctioneers sold patterns (no sold data fetched; estimates, verify)
 Slug: doctors-bags · Aliases: doctor bag, Gladstone bag, medical bag, physician's bag, walrus bag, alligator bag, obstetric bag, country doctor bag, leather satchel
 Summary: worn cowhide doctor bags $40–120; clean early 1900s cowhide/bark-grain $100–220; genuine walrus-hide Gladstones $200–600; real alligator/large bags with interior fittings $250–800; mid-century vinyl/leatherette $20–60.
 Buy rule (short): Buy only clearly genuine walrus/alligator or excellent complete leather bags ≤ $60; pass worn generic leather and anything needing restitching.
@@ -43,7 +43,13 @@ Genuine walrus vs embossed cowhide; interior bottle-loop fittings (medical prove
 4–7 lb, rigid frame, ships in a 18×10×12 box ~$18–25. Fits passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-Say "walrus-grain" unless certain; show interior, latches working, measurements, smell (musty/smoke).
+- **Title words:** "antique" + "doctor's bag"/"Gladstone bag" + hide (walrus / alligator / bark-grain cowhide) + era (1900s/1920s) + size + maker if marked + "fitted interior". Junk: "medical prop", "steampunk", "leather satchel" alone. `Antique Walrus Hide Gladstone Doctors Bag 1900s Brass Latches 16in Fitted`
+- **Where:** eBay BIN with offers (decor and collector buyers, 2–4 weeks); FB local for worn generic cowhide.
+- **Price position:** at the sold median ($40–120 worn; $100–220 clean; $200–800 walrus/alligator), accept −15%, floor 75%; OBO; cut 15% after 30 days.
+- **Photos:** bag closed side on; grain close up (walrus pores / alligator tiles); interior open with fittings and bottle loops; latches and lock; handle and stitching; base corners; maker stamp; next to a tape.
+- **State:** hide ("walrus-grain" unless certain), length × height × depth, latches working, lock/key, handle and stitching condition, interior fittings present, odour (musty/smoke), repairs, flaws by photo number.
+- **Pack / haul:** carry-on, 4–7 lb rigid frame, 18×10×12 box $18–25; stuff the interior, pad the latches, no double-box needed.
+- **Quote to a buyer:** "[1900s–20s] [walrus/cowhide] Gladstone doctor's bag with working brass latches and the original fitted interior, [length]; embossed-cowhide copies sell for [$] and genuine [walrus] bags bring [$]."
 
 ## Buy rule
 Profit = median × 0.87 − ship − ship − price. Common bag median $90 → loss. Walrus-genuine at median $300: $261 − $45 − price ≥ max(50, price) ⇒ price ≤ ~$108 at high confidence; given ID risk, buy only ≤ $60 with close-up photos of texture and inside. No professional authentication needed, but texture ID from photos is hard.

@@ -1,5 +1,5 @@
 # Motion clocks (Mastercrafters, United, Spartus, Haddon, Rite-Time, Lux/Keebler, Sessions)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.nawcc.org
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); verify on https://www.worthpoint.com, https://www.ebay.com/sh/research (Terapeak), https://www.nawcc.org
 Slug: motion-clocks · Aliases: animated clock, novelty electric clock, waterfall clock, swinging girl clock, fireplace motion clock, Niagara Falls clock, Mastercrafters 344, Haddon rocking chair clock
 Summary: common Mastercrafters waterfall/fireplace/swing clocks $25–80 (not working $10–30); United/Haddon popular models $40–120; rarer models (Mastercrafters church/blacksmith, United bubbles, Lux pendulettes) $100–300; Lux/Keebler wind-up pendulettes (Bobbing Bird, Shmoo, Woody Woodpecker) $100–600 (general knowledge, verify)
 Buy rule (short): Untested electric motion clocks = pass; buy only tested-working rare models (Lux/Keebler pendulettes, rare Mastercrafters/United) at ≤ 1/3 of resale.
@@ -47,7 +47,13 @@ Lux/Keebler pendulettes in "old clock" lots; United "Bubbles" lamp clocks.
 About 10×8×5 in, 3–4 lb packed; $15–20. Remove and secure the bulb; pad the motion cylinder.
 
 ## Selling it (for the buyer-facing listing)
-Post a video showing time and motion running. Give the model number from the back label and describe the cord condition.
+- **Title words:** maker (Mastercrafters / United / Haddon / Lux Keebler) + model name and number (waterfall #344 / Bubbles / rocking chair / Bobbing Bird pendulette) + "motion clock" + "working" + era. Junk: "old clock lot", "electric clock" alone, "untested" without the reason. `Mastercrafters 344 Waterfall Motion Clock Working Motion and Time 1950s`
+- **Where:** eBay BIN with offers (collectors want working examples; ~100+ a month); non-working commons as parts, local or in lots.
+- **Price position:** at the sold median ($30–80 working Mastercrafters; $100–300 rare models; $150–600 Lux pendulettes), accept −15%, floor 75%; OBO; cut 15% after 45 days; non-working $10–30 firm.
+- **Photos:** clock front lit; video of time and motion running; back label with model number; cord and plug; motion cylinder/bulb area; case and glass close up for cracks; base.
+- **State:** maker, model number from the back label, time runs, motion runs (video), cord condition (original/replaced), bulb included, case cracks/crazing/glass chips by photo number.
+- **Pack / haul:** shoebox, 10×8×5", 3–4 lb packed, $15–20; remove and wrap the bulb, pad the motion cylinder, immobilize the case, double-box.
+- **Quote to a buyer:** "Mastercrafters [waterfall #344], [1950s], both time and motion running (video in the listing), original case; non-working ones sell for [$] and tested working examples bring [$]."
 
 ## Buy rule
 Price ≤ $200; profit = median × 0.87 − ~$17 out − ~$17 in − price ≥ max($50, price). Dylan's no-untested-electronics rule applies: only buy if the seller shows a video of it running, and even then common Mastercrafters waterfalls don't clear the profit bar. Buy rare models only.

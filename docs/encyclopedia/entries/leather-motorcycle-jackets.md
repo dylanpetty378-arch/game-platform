@@ -1,5 +1,5 @@
 # Leather motorcycle jackets (Schott Perfecto, Langlitz, Vanson, Buco, Harley-Davidson, Brooks, Lewis Leathers, Belstaff, Wilsons, Excelled, Bermans)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("leather motorcycle jackets" median $101.64 n=42 p25 $68 p75 $107 — mostly new import jackets; "women's motorcycle jacket" median $39.68 n=47; "Wilsons Leather black leather jacket" median $33.81 n=50 p25 $15.99 p75 $54.99, incl. "Vintage Wilsons 90s Y2K black leather moto full zip" $80 Nov 2025); Schott NYC history (https://www.schottnyc.com/about, general knowledge, verify); Langlitz Leathers (https://www.langlitz.com, general knowledge, verify). No web search this run. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("leather motorcycle jackets" median $101.64 n=42 p25 $68 p75 $107 — mostly new import jackets; "women's motorcycle jacket" median $39.68 n=47; "Wilsons Leather black leather jacket" median $33.81 n=50 p25 $15.99 p75 $54.99, incl. "Vintage Wilsons 90s Y2K black leather moto full zip" $80 Nov 2025); Schott NYC history (https://www.schottnyc.com/about, general knowledge, verify); Langlitz Leathers (https://www.langlitz.com, general knowledge, verify). No web search this run. · tells 2026-10-13
 Slug: leather-motorcycle-jackets · Aliases: biker jacket, moto jacket, Perfecto, cafe racer jacket, double rider, police jacket, vintage leather jacket, punk jacket, Harley jacket
 Summary: Mall brands (Wilsons, Bermans, Phase 2, Excelled, Tannery West) $20–80; Harley-Davidson, Buco/J.P. Buckley (later), Brooks, Hein Gericke $80–250; vintage Schott 613/618 One Star, Buco J-24, Langlitz Columbia/Cascade, Vanson, Lewis Leathers $250–1,500+.
 Buy rule (short): Pass on mall brands; buy only label-identified Schott (pre-2000), Buco, Langlitz, Vanson, Lewis Leathers or early Harley at ≤ 1/3 of sold median and ≤ $150, with size and label photos.
@@ -67,7 +67,13 @@ Buco and early Schott labels in "old leather jacket" listings; horsehide thickne
 Folds into a poly mailer or small box: 3–6 lb, $12–18.
 
 ## Selling it (for the buyer-facing listing)
-Pit-to-pit, length, sleeve, shoulder measurements; label close-up; zip brand; leather type; liner condition; any pin holes.
+- **Title words:** maker + model (Schott 618 Perfecto / Buco J-24 / Langlitz Columbia / Vanson) + "leather motorcycle jacket" + size + horsehide/steerhide + era + "Talon zip". Junk: "biker jacket" alone, "real leather", mall-brand names as "vintage". `Schott 618 Perfecto Steerhide Motorcycle Jacket Size 42 1980s Talon USA`
+- **Where:** eBay BIN with offers (sizes S–L sell best); Grailed for Schott/Buco/Langlitz to menswear buyers at higher prices; Etsy for women's 70s cafe racers.
+- **Price position:** at the sold median ($200–450 vintage 618; Buco ~$1,495), accept −10%, floor 80%; OBO; cut 10% after 30 days.
+- **Photos:** jacket front on a hanger; back; label close up; zip pull brand; lining; cuffs and collar wear; any pin holes or tears; measurements shown on a tape (pit-to-pit).
+- **State:** maker and label, size tag plus pit-to-pit, length, sleeve, shoulder, leather type, zip brand, liner condition, belt/collar present, pin holes/tears/odour by photo number.
+- **Pack / haul:** shoebox, 3–6 lb; fold into a poly mailer or small box $12–18; nothing to immobilize.
+- **Quote to a buyer:** "[Schott 618 / Buco J-24], [era] label with [Talon] zips, [horsehide/steerhide], measures [pit-to-pit]; a new Perfecto is [$] and vintage [model] in this size brings [$]."
 
 ## Buy rule
 Profit = median × 0.87 − ~$15 to buyer − ~$12 to Dylan − price; pass unless ≥ max($50, price).

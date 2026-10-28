@@ -1,5 +1,5 @@
 # Vintage key cutting machines (Curtis Clipper, Ilco, HPC, Cole National, Framon)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings for Curtis Clipper Model 15 w/ cams & carriages (search 2026-10); craigslist 987; locksmith forum references; Google Lens asking-price median from the 2026-10-13 sweep (asking-price based); remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay listings for Curtis Clipper Model 15 w/ cams & carriages (search 2026-10); craigslist 987; locksmith forum references; Google Lens asking-price median from the 2026-10-13 sweep (asking-price based); remaining detail general knowledge, verify
 Slug: key-cutting-machines · Aliases: key machine, key cutter, key duplicator, code cutter, locksmith tool, Curtis Clipper, Clipper 15, Ilco, HPC Blitz, Cole National 3K
 Summary: bare Clipper bodies/rusty duplicators $40–90; Clipper #15 with 5–10 cams/carriages $150–300; complete Clipper #15 sets 30+ cams $400–700; HPC 1200 Blitz/Framon $600–1,200
 Buy rule (short): complete-ish Clipper (≥ 20 cams) ≤ $120
@@ -49,7 +49,13 @@ Cams and carriages are the value; the body is cheap. Count them.
 10–25 lb, $25–45 each way. eBay to locksmith/classic-car buyers. Remove/secure cams and carriages separately; pad the cutter.
 
 ## Selling it (for the buyer-facing listing)
-State make/model, number and list of cams and carriages (with codes), case, code books/cards, working status. Photograph each cam/carriage stamp, the machine body plate, the case. Title keywords: "Curtis Clipper 15 key code machine cams carriages", "locksmith", "classic car keys".
+- **Title words:** "Curtis Clipper" + model (14/15) + "key code machine"/"cutter" + cam and carriage count + "case" + "locksmith" + "classic car keys"; HPC/Framon by model. Junk: "key machine" alone, "vintage tool", "untested" without reason. `Curtis Clipper 15 Key Code Cutter 32 Cams 28 Carriages Original Case Locksmith`
+- **Where:** eBay BIN with offers (locksmiths, classic-car restorers; low volume); cams and carriages sell individually if the body is rough. No local premium.
+- **Price position:** at the sold median ($150–300 with 5–10 cams; $400–700 complete 30+), accept −10%, floor 80%; OBO; cut 15% after 45 days.
+- **Photos:** machine in case open; body plate; each cam stamp and carriage code laid out in rows; cutter; handle and clamp; code books/cards; case exterior.
+- **State:** make/model, number and list of cams and carriages with codes, case, code books/cards, cutter condition, working status (cuts a key or untested), rust by photo number.
+- **Pack / haul:** carry-on, 10–25 lb, $25–45; remove cams and carriages into bags, pad the cutter, immobilize the body in the case, double-box.
+- **Quote to a buyer:** "Curtis Clipper [15] with [N] cams and [N] carriages in the original case, the hand code cutter restorers use for [1950s–70s] car keys; bare bodies go for [$] and complete sets like this bring [$]."
 
 ## Buy rule
 Buy when: complete-ish Clipper (≥ 20 cams) ≤ $120. Pass when: body + a few carriages at $100+. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

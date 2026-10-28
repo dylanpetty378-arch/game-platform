@@ -1,5 +1,5 @@
 # Lionel postwar transformers & O-gauge trains (ZW, KW, 1033/1044; postwar locomotives)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings "Lionel ZW 275 watt" (search 2026-10, serviced units); craigslist 1161; TCA/CTT price references (knowledge); eBay sold browse Oct 2025 (Lionel 1033, KW, ZW); sweep listings 2873, 2297; eBay sold listings (agent knowledge Oct 2026); cs.trains.com forum; merged write-ups from review agents C and I, run 12, and two earlier entries ("Lionel postwar transformers and O-gauge accessories", "Lionel transformers & postwar O-gauge trains"); remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay listings "Lionel ZW 275 watt" (search 2026-10, serviced units); craigslist 1161; TCA/CTT price references (knowledge); eBay sold browse Oct 2025 (Lionel 1033, KW, ZW); sweep listings 2873, 2297; eBay sold listings (agent knowledge Oct 2026); cs.trains.com forum; merged write-ups from review agents C and I, run 12, and two earlier entries ("Lionel postwar transformers and O-gauge accessories", "Lionel transformers & postwar O-gauge trains"); remaining detail general knowledge, verify
 Slug: lionel-postwar-transformers · Aliases: Lionel transformer, ZW, KW, 1033, 1044, RW, LW, train power supply, O gauge trains, postwar Lionel, "box of old trains", train lot
 Summary: 1033/1044/HO packs/MPC plastic $20–60; KW working $60–150, ZW working/old cord $110–250; serviced ZW $150–250; postwar locos (Berkshire, F3, Hudson) $200–1,200; prewar standard gauge $1,500–10,000+
 Buy rule (short): working ZW ≤ $50–80, KW ≤ $25–45; pass 1033-class and dealers at market
@@ -52,7 +52,13 @@ Large, steady market of O-gauge operators and collectors (TCA members), mostly o
 Weights disagree across write-ups: ZW ~14 lb / ~15 lb / 25 lb packed ($25–35); KW 15 lb ($25); 1033 ~7 lb ($15). eBay 13%. Trains ship well if locos are wrapped individually. Buyers expect a replaced cord.
 
 ## Selling it (for the buyer-facing listing)
-State model, wattage (250 vs 275 W ZW), tested on track (all throttles, whistle, direction), cord original/replaced, rollers serviced. For locos: number, diecast vs plastic, runs/smoke/e-unit, box. Photograph the nameplate/label, cord, handles, underside; cab numbers. Title keywords: "Lionel ZW 275 watt transformer tested new cord", "postwar", "KW 190W", "2343 Santa Fe F3 AA".
+- **Title words:** "Lionel" + model (ZW / KW / 2343 Santa Fe F3) + wattage (275 watt) + "postwar" + "transformer" + "tested" + "new cord"; locos: number + name + "runs". Junk: "train stuff lot", "vintage toy train", "untested" without the reason. `Lionel ZW 275 Watt Postwar Transformer Tested All Throttles New Cord Rollers Serviced`
+- **Where:** eBay BIN with offers (TCA operators; list Nov–Jan); train shows for boxed sets and heavy lots with no fee. No local premium.
+- **Price position:** at the sold median (ZW serviced $150–250; KW $60–150; 2343 F3 AA $250–500), accept −10%, floor 80%; OBO; cut 15% after 30 days or after January.
+- **Photos:** unit front with handles; nameplate/label with wattage; cord and plug; underside; handles and whistle lever; running on track with a loco (short video); locos: cab numbers, underside, box.
+- **State:** model, wattage (250 vs 275 ZW), tested on track (all throttles, whistle, direction), cord original or replaced, rollers serviced, box; locos: number, diecast vs plastic, runs/smoke/e-unit, box, flaws by photo number.
+- **Pack / haul:** shoebox, ZW 15–25 lb packed $25–35, KW 15 lb $25, 1033 7 lb $15; handles taped, cord coiled, double-box; locos wrapped individually.
+- **Quote to a buyer:** "Lionel ZW [275-watt R-type], postwar, bench-tested on all four throttles with a new cord and serviced rollers; a modern ZW-L is [$] and serviced postwar ZWs run [$] — this one runs four trains."
 
 ## Buy rule
 Buy when: working ZW ≤ $50–80 (write-ups said ≤ $50, ≤ $60 and under $80) or KW ≤ $25–45 with good cord; Berkshire/F3/Hudson loco under 40% of tier. Pass when: ZW at $100+ (dealer-level); 1033-class transformers at any price over $15; cracked cords; MPC plastic; N-scale freight lots; KW at $145 (market). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

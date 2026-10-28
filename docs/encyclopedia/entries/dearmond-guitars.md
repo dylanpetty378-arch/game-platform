@@ -1,5 +1,5 @@
 # DeArmond guitars (Fender/Guild reissues, 1998–2003)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: equipboard.com (M-75T spec, Korea 1998–99, used avg $600); creamcitymusic.com (M-75 w/ hardshell, sold $599); reverb listings M-66 / M-77T; craigslist listing 1146 photos; Terapeak 'DeArmond M-75' (0 sold in 12 months on eBay, pulled 2026-10-12)
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: equipboard.com (M-75T spec, Korea 1998–99, used avg $600); creamcitymusic.com (M-75 w/ hardshell, sold $599); reverb listings M-66 / M-77T; craigslist listing 1146 photos; Terapeak 'DeArmond M-75' (0 sold in 12 months on eBay, pulled 2026-10-12)
 Slug: dearmond-guitars · Aliases: DeArmond, Guild DeArmond, Fender DeArmond, DeArmond M-75, M-75T, M-77T, Starfire, X-155, Jet-Star, starter guitar
 Summary: Indonesian M-65/M-72 player grade $150–250; Indonesian M-75/M-77 with case $250–400; Korean M-75T/M-77T w/ Bigsby, X-155, Starfire Special $450–700; Korean sparkle finishes, X-155 hollowbodies, Jet-Star Special $700–1,100.
 Buy rule (short): Buy Korean M-75T/M-77T/X-155 ≤ $200 or Indonesian M-75 w/ case ≤ $120; pass Indonesian over $150, missing case, or amp-padded bundles.
@@ -49,7 +49,13 @@ Korea vs Indonesia; Bigsby T models; hardshell DeArmond case adds $60–80. Sell
 Guitar in hardshell ~15 lb, $50–75 each way (UPS). Fees 13% eBay / 8% Reverb. Shipping both ways eats ~$120, so needs a ≥ $300 spread. Loosen strings and pad the headstock.
 
 ## Selling it (for the buyer-facing listing)
-Model, country (Korea/Indonesia), year/serial, finish, Bigsby, pickups, case, setup and playability, any flaws. Photograph headstock front and back, serial, body front/back, neck joint, Bigsby, case. Title: "DeArmond M-75T Korea Bigsby Guild design w/ case".
+- **Title words:** "DeArmond" + model (M-75T / M-77T / X-155 / Starfire Special) + "Korea"/"Indonesia" + "Bigsby" + "Guild" + finish + "w/ hardshell case". Junk: "starter guitar", "electric guitar bundle", "amp included". `DeArmond M-75T Korea Bigsby Guild Design Electric Guitar w/ Hardshell Case`
+- **Where:** Reverb BIN with offers (8% fee, the real market; eBay shows almost no sales); FB local for Indonesian player-grade to skip $50–75 shipping.
+- **Price position:** at the Reverb sold median for the model and country ($450–700 Korean T models), accept −10%, floor 80%; OBO; cut 10% after 60 days (slow category).
+- **Photos:** body front and back on plain background; headstock front and back with country/serial; neck joint; Bigsby and bridge; pickups and controls; frets close up; case inside and out; any finish flaws.
+- **State:** model, country of manufacture, year/serial, finish, Bigsby, pickups (original), case, setup and playability (action, frets, truss rod), electronics tested, flaws by photo number.
+- **Pack / haul:** passenger-seat, ~15 lb in hardshell; loosen strings, pad the headstock, immobilize case in a guitar box, $50–75 UPS.
+- **Quote to a buyer:** "DeArmond [model], Korean-made [1998–2000] with the [Bigsby/set neck], Guild designs built under Fender; the Guild Starfire it copies is [$] new and this one plays [setup note] with the original case."
 
 ## Buy rule
 Buy when: Korean M-75T/M-77T/X-155 ≤ $200, or Indonesian M-75 w/ case ≤ $120. Pass when: Indonesian over $150, missing case, bundles padded with amps. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (a guitar in hardshell does).

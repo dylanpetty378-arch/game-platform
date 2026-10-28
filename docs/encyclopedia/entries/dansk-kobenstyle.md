@@ -1,5 +1,5 @@
 # Dansk Kobenstyle enamelware (Jens Quistgaard)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: retrorenovation Kobenstyle history; eBay/chairish listings Oct 2026; eBay sold memory 2025
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: retrorenovation Kobenstyle history; eBay/chairish listings Oct 2026; eBay sold memory 2025
 Slug: dansk-kobenstyle · Aliases: Kobenstyle, Dansk enamel pot, Dansk casserole, Quistgaard enamelware, mid century enamelware, enamel pot with cross lid, Dansk paella pan, Dansk fondue
 Summary: Modern reissues and chipped vintage $15–40; vintage France/Denmark 2-qt casserole $50–100; 4-qt, paella pans, teal/white, complete fondue sets $100–200; rare colours (black, olive, orange) and early France paella w/ teak, boxed sets $200–400.
 Buy rule (short): Buy vintage "France/Denmark"-marked, unchipped pieces ≤ $35 (casserole/paella) or ≤ $60 (complete fondue) – realistically only rare colours clear the profit rule; pass if the seller names Quistgaard or prices ≥ $100.
@@ -47,7 +47,13 @@ Steady mid-century-modern kitchen market: eBay, Etsy, Chairish, 1stDibs. Buyers 
 2–6 lb; enamel chips on impact – wrap lid separately; ~$15–20 in. eBay 13%.
 
 ## Selling it (for the buyer-facing listing)
-Form and size (qt / diameter), colour, base mark (France/Denmark IHQ), interior condition, chips (state none only if verified), teak condition on fondue sets, completeness. Photograph base mark, lid cross, rim all round, interior. Title: "Dansk Kobenstyle [colour] [form] France IHQ Quistgaard MCM".
+- **Title words:** "Dansk Kobenstyle" + colour + form and size (2 qt casserole / paella pan / fondue) + "France IHQ"/"Denmark" + "Quistgaard" + "MCM". Junk: "enamel pot", "Dutch oven", "retro". `Dansk Kobenstyle Teal 4 Qt Casserole France IHQ Quistgaard MCM Enamel`
+- **Where:** eBay BIN with offers; Etsy for MCM kitchen buyers; Chairish for rare colours and boxed sets at dealer prices (slower). Mild Q4 gift bump.
+- **Price position:** at the sold median ($50–100 2-qt; $100–200 paella/fondue; $200–400 rare colours), accept −10%, floor 80%; OBO; cut 10% after 30 days.
+- **Photos:** piece with lid on white; base mark; lid cross-handle; rim all the way round; interior; any chip close up; fondue teak and stand; next to a ruler.
+- **State:** form and quart size/diameter, colour, base mark (France IHQ / Denmark / reissue), interior condition, chips (say none only if checked), teak and stand on fondue sets, completeness, flaws by photo number.
+- **Pack / haul:** shoebox, 2–6 lb; wrap lid separately, pad rims (enamel chips on impact), $15–20; double-box paella pans.
+- **Quote to a buyer:** "Vintage Dansk Kobenstyle [colour] [form] with the early [France IHQ] mark, Quistgaard design, no chips; the current reissue is [$] new and vintage [rare colour] pieces bring [$]."
 
 ## Buy rule
 Buy when: vintage "France/Denmark" mark, no chips, ≤ $35 for casserole/paella or ≤ $60 for complete fondue set. Pass when: seller lists "Jens Quistgaard" (knows) or price ≥ $100. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule) – at the $50–180 sold range most of these caps only clear for rare colours or paella pans, so check the math. Must fit a passenger seat.

@@ -1,5 +1,5 @@
 # Vintage plastic model kits (Aurora, Monogram, Revell, Hasegawa, Airfix, Tamiya, Italeri)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold browse Oct 2025 (sealed 1970s–80s 1/72 Hasegawa/Airfix, Monogram 1/48, Tamiya 1/35); sweep listing 2416
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold browse Oct 2025 (sealed 1970s–80s 1/72 Hasegawa/Airfix, Monogram 1/48, Tamiya 1/35); sweep listing 2416
 Slug: model-kits-vintage · Aliases: model kit, plastic model, unbuilt kit, sealed model kit, model airplane kit, kit lot, Aurora monster kit
 Summary: 1980s+ 1/72 open-box kits $8–20; sealed 1/48 Monogram/Hasegawa and Tamiya 1/35 $20–45; 1960s box-art sealed kits, Aurora figures, Tamiya 1/12 bikes $60–200; Aurora monsters, 1950s Revell ships, rare Japanese sci-fi $200–1,000.
 Buy rule (short): Buy lots where Aurora / 1960s Monogram / early Tamiya are visible at ≤ $5 per kit average; pass 1980s+ 1/72 bins at ≥ $8 per kit.
@@ -51,7 +51,13 @@ Aurora and 1960s box-art kits in a bin lot; everything else is a $15 kit that co
 Light but bulky; $10–15 each. Lots of listing work per dollar. eBay 13%. Ship boxed kits in a box, not a bag, to avoid crushed corners.
 
 ## Selling it (for the buyer-facing listing)
-State maker, kit number, scale, subject, issue year (from box), sealed vs opened, parts complete/decals present/instructions present. Photograph box top, all sides (especially end flap with year), sprues and decals if opened. Title keywords: "Vintage 1964 Aurora Frankenstein Model Kit Sealed", "Monogram 1/48 ... unbuilt complete".
+- **Title words:** "vintage" + year + maker + subject + kit number + scale + "sealed"/"unbuilt complete" + "box art". Junk: "model kit lot", "plastic model", "parts". `Vintage 1964 Aurora Frankenstein Model Kit Sealed Original Box Art 1/8`
+- **Where:** eBay BIN with offers (modellers want to build, collectors want sealed; winter season); Aurora and 1960s box-art singly, 1980s+ 1/72 in bulk lots or local.
+- **Price position:** at the sold median ($60–200 1960s box-art/Aurora; $150–400 Aurora monsters sealed), accept −10%, floor 80%; OBO; cut 15% after 45 days; commons $8–20 in lots, firm.
+- **Photos:** box top straight on; all four sides and end flap with the year; seal/shrink-wrap intact; if opened, sprues in bags, decals, instructions, parts count against the sheet; box corners.
+- **State:** maker, kit number, scale, subject, issue year from the box, sealed vs opened, parts complete, decals present and not yellowed, instructions, box corner wear/crushing by photo number.
+- **Pack / haul:** carry-on, light but bulky, $10–15; box inside a box with corner padding, never a bag.
+- **Quote to a buyer:** "[1964 Aurora Frankenstein], original issue with the first box art, [sealed/complete with decals]; the 1990s reissues sell for [$] and first-issue originals bring [$]."
 
 ## Buy rule
 Buy when: an Aurora/1960s Monogram/early Tamiya is visible in a lot at ≤ $5/kit average. Pass when: 1/72 1980s+ bins at ≥ $8/kit. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (lots of kits can exceed it; size check the lot).

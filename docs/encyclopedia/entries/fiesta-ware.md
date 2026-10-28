@@ -1,5 +1,5 @@
 # Fiesta ware (Homer Laughlin China Co.; also sister lines Harlequin, Riviera, Kitchen Kraft, Fiesta Ironstone, Post-86 Fiesta)
-Updated: 2026-10-13 · Sources: general knowledge of Homer Laughlin China Co. history (Newell WV; Fiesta designed by Frederick Hurten Rhead, introduced 1936, discontinued 1973, reintroduced 1986 as "Post-86"); colour production dates per Fiesta collector references (Huxford's Collector's Encyclopedia of Fiesta; Fiesta Collectors Club); HLC acquired by Steelite 2020 and Fiesta brand moved to Fiesta Tableware Company. No sold comps for Fiesta found in comps.jsonl; prices are estimates (general knowledge, verify).
+Updated: 2026-10-28 · Sources: general knowledge of Homer Laughlin China Co. history (Newell WV; Fiesta designed by Frederick Hurten Rhead, introduced 1936, discontinued 1973, reintroduced 1986 as "Post-86"); colour production dates per Fiesta collector references (Huxford's Collector's Encyclopedia of Fiesta; Fiesta Collectors Club); HLC acquired by Steelite 2020 and Fiesta brand moved to Fiesta Tableware Company. No sold comps for Fiesta found in comps.jsonl; prices are estimates (general knowledge, verify).
 Slug: fiesta-ware · Aliases: Fiesta, Fiestaware, Fiesta dinnerware, Homer Laughlin, HLC, vintage Fiesta, Radioactive red, Fiesta bulb candle holder, nappy, fruit bowl, chop plate, Harlequin, Riviera
 Summary: Post-86 Fiesta $3–25 per piece; common vintage plates/bowls/cups $8–35; vintage serving pieces, red/cobalt and 1950s colours $30–120; medium green, rare forms (tripod candleholders, syrup, comport, onion soups, vases) $120–1,500+.
 Buy rule (short): Buy only vintage (1936–72) serving pieces in medium green, red, cobalt, or 1950s colours and rare forms at ≤ 1/3 sold median; pass single plates/bowls and anything Post-86.
@@ -62,7 +62,13 @@ Large, steady collector market (Homer Laughlin China Collectors Association), st
 Heavy and chip-prone. Single bowl/candleholder 1–2 lb boxed $12–15; chop plate 3–4 lb, needs a 16"+ box, $18–25; sets ship poorly. Double-box with rim protection.
 
 ## Selling it (for the buyer-facing listing)
-State vintage vs Post-86 explicitly with mark photo (or "unmarked as made"), exact colour name and dates, dimensions, and every chip/utensil mark. Mention "uranium glaze" for vintage red (some buyers want it, some avoid it; do not market for food use).
+- **Title words:** "Vintage Fiesta" + Homer Laughlin + exact colour name (medium green / red / cobalt / gray) + form (chop plate / tripod candleholder / teapot) + size + "1936–72" era. Junk: "Fiestaware" (misspelt), "retro dishes", "Post-86" sold as vintage. `Vintage Fiesta Medium Green Teapot Homer Laughlin 1959-69 Original`
+- **Where:** eBay BIN with offers; Facebook Fiesta collector groups sell medium green and rare forms for more with no fee; Strawser auctions for top pieces. Post-86 and single plates local or in sets.
+- **Price position:** at the sold median for colour and form (red bulb candleholder pair $80–120; chop plate $35–60), accept −10%, floor 80%; OBO; cut 15% after 30 days.
+- **Photos:** piece on white in daylight (colour true); backstamp or unmarked foot; rim all round; every chip and utensil mark close up; colour next to a known piece; dimensions against a ruler.
+- **State:** vintage vs Post-86 with mark photo (or "unmarked as made"), exact colour name and dates, dimensions, every chip/utensil mark/crazing by photo number, "uranium glaze" noted for vintage red, not marketed for food use.
+- **Pack / haul:** shoebox, bowl 1–2 lb $12–15; chop plate 3–4 lb in a 16"+ box $18–25; double-box with rim protection, pieces never touching.
+- **Quote to a buyer:** "Vintage Homer Laughlin Fiesta [form] in [colour], made [dates] only, no chips; Post-86 pieces sell for [$] and vintage [medium green/red] of this form brings [$]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$15–20) − ship to Dylan (~$15–20) − price ≥ max($50, price). Single common pieces never pass. Buy: vintage medium green, tripod candleholders, vases, comports, syrups, carafes, pairs of red/cobalt bulb candleholders, or mixed vintage serving lots at ≤ 1/3 of sold median. Pass Post-86 (unless retired rare colours you can confirm), chipped pieces, single plates/bowls, Ironstone, lookalike ringware.

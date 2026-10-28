@@ -1,5 +1,5 @@
 # Harmonicas (Hohner Marine Band, Chromonica, pre-war; Suzuki, Seydel)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges; no dated comp pulled; remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: knowledge of eBay sold ranges; no dated comp pulled; remaining detail general knowledge, verify
 Slug: hohner-harmonicas · Aliases: harmonica, mouth organ, harp, blues harp, Marine Band, Special 20, Echo harmonica, tremolo harmonica, harmonica set
 Summary: used diatonics $10–25; Chromonica 270 / complete 100th Anniversary gold set $60–120; pre-1930 boxed Marine Band, Super 64X, CBH 2016 $120–300; rare 1890s–1910s boxed $300+
 Buy rule (short): chromatic or boxed limited edition under $25; pass anything over $35
@@ -45,7 +45,13 @@ Little – harmonicas are low value. Only boxed anniversary/limited sets and chr
 <1 lb, $6–8. Ship in the box with padding.
 
 ## Selling it (for the buyer-facing listing)
-State model, key, era (box/cover marks), completeness (box, certificate, case), played or unplayed, reeds tested. Photograph the cover stamps, box and certificate. Title keywords: "Hohner Marine Band 100th Anniversary 1896–1996 gold", "pre-war", "original box", "Germany".
+- **Title words:** "Hohner" + model (Marine Band / Chromonica 270 / Super 64X / CBH 2016) + key + "pre-war"/"anniversary"/"limited" + "original box" + "Germany". Junk: "harmonica lot", "used harmonica", "blues harp" alone. `Hohner Marine Band 100th Anniversary 1896-1996 Gold Set Complete Box Certificate`
+- **Where:** eBay BIN with offers (collectors want pre-war boxed and limited sets; players want new). No local premium; used diatonics in lots.
+- **Price position:** at the sold median ($60–120 Chromonica/anniversary sets; $120–300 pre-1930 boxed), accept −15%, floor 75%; OBO; cut 15% after 30 days.
+- **Photos:** harmonica on white; cover stamps close up; both ends; reed plates/comb edge; box exterior and interior; certificate; case.
+- **State:** model, key, era from box and cover marks, box/certificate/case completeness, played or unplayed, reeds tested (all notes sound), comb swelling or plating wear by photo number.
+- **Pack / haul:** pocket, under 1 lb, $6–8; ship in the box padded inside a small box, no double-box.
+- **Quote to a buyer:** "Hohner [Marine Band 100th Anniversary gold / pre-war Chromonica], complete with box and [certificate], reeds tested; a new Marine Band is [$] and the boxed [limited/pre-war] sets bring [$]."
 
 ## Buy rule
 Buy when: chromatic or boxed limited edition under $25. Pass when: anything priced over $35. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

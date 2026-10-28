@@ -1,5 +1,5 @@
 # Hot Wheels Redlines (Mattel, 1968–1977)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("redline boss hoss chrome club" median $64.88 n=50, p25 $39 p75 $90; "redline silhouette blue" median $19.06 n=47; "redline classic 31 ford woody" median $51 n=50); redline collector knowledge, e.g. Michael Strauss "Tomart's Price Guide to Hot Wheels" and redlinehotwheels-type collector sites (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("redline boss hoss chrome club" median $64.88 n=50, p25 $39 p75 $90; "redline silhouette blue" median $19.06 n=47; "redline classic 31 ford woody" median $51 n=50); redline collector knowledge, e.g. Michael Strauss "Tomart's Price Guide to Hot Wheels" and redlinehotwheels-type collector sites (general knowledge, verify). No web search this run.
 Slug: hot-wheels-redlines · Aliases: redline Hot Wheels, red line cars, Sweet 16, spectraflame, 1968 Hot Wheels, Hong Kong Hot Wheels, vintage diecast, Hot Wheels case
 Summary: Played common redlines $8–30; nice common castings $25–80; desirable colours/castings (Beatnik Bandit pink, Python, Heavyweights, Boss Hoss chrome, Classic Woody) $40–150; rare (Rear-Loader Beach Bomb, pink/rare colours, Mighty Maverick variants, sealed blisters) $200–5,000+.
 Buy rule (short): Buy redline groups at ≤ $10 per car (≤ $15 if spectraflame paint is bright and wheels clean); never pay "collector" prices for worn cars.
@@ -49,7 +49,13 @@ Owners don't distinguish redlines from later blackwalls, and don't know the colo
 Tiny; padded mailer $5. Wrap each in tissue to protect paint.
 
 ## Selling it (for the buyer-facing listing)
-Four-side and base photos, wheel close-ups, note any restoration, US/HK base, colour.
+- **Title words:** "Hot Wheels Redline" + year + casting name + spectraflame colour + US/HK base + interior colour + "original". Junk: "old Hot Wheels lot", "vintage toy car", "rare" for commons. `Hot Wheels Redline 1969 Classic 31 Ford Woody Spectraflame Blue US Base Original`
+- **Where:** eBay BIN with offers (deep collector market, days–weeks); singles graded by condition, worn commons in lots.
+- **Price position:** at the sold median for casting and colour (Silhouette blue ~$19; Woody/Boss Hoss $51–65), accept −10%, floor 80%; OBO; cut 10% after 21 days.
+- **Photos:** all four sides; base with US/HK stamp; wheels close up (redline stripe, hub chrome); interior and glass; paint under bright light for toning/chips; blister if carded.
+- **State:** casting, year, colour, US or HK base, interior colour, wheel condition, paint chips/toning, restoration or repaint disclosed, flaws by photo number.
+- **Pack / haul:** pocket, under 0.1 lb each, padded mailer $5; wrap each car in tissue, then bubble, nothing touching paint.
+- **Quote to a buyer:** "[1969] Redline [casting] in spectraflame [colour], [US] base, original paint and wheels; played commons sell for [$] and this casting/colour in this grade brings [$]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$5 ship to buyer per car − ~$6 ship to Dylan − price ≥ max($50, price). Works with groups: 3 decent cars (~$110 total) at ≤ $40 clears. Single common cars only at ≤ $10. Ask for wheel and base photos (restoration risk).

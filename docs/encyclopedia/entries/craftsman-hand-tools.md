@@ -1,5 +1,5 @@
 # Craftsman hand tools – wrenches, sockets, ratchets (Sears Craftsman; makers Moore Drop Forging, New Britain/NBT, Danaher/Western Forge, Apex/Easco)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Terapeak rows in /home/claude/game-platform/db/comps.jsonl only cover Craftsman saws ($37.95 median, n=22) and Craftsman power tools (not this type). Mark guides to verify against: https://www.alloy-artifacts.org/craftsman-tools.html, https://www.oldcraftsmantools.com (collector reference), https://www.garagejournal.com forums
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Terapeak rows in /home/claude/game-platform/db/comps.jsonl only cover Craftsman saws ($37.95 median, n=22) and Craftsman power tools (not this type). Mark guides to verify against: https://www.alloy-artifacts.org/craftsman-tools.html, https://www.oldcraftsmantools.com (collector reference), https://www.garagejournal.com forums
 Slug: craftsman-hand-tools · Aliases: vintage Craftsman wrenches, Sears wrenches, =V= Craftsman, -V- series, USA Craftsman wrench set, metric combination wrenches, Craftsman socket set
 Summary: Common post-1970s USA wrench sets $25–60; early (pre-1960) script/"=V="/"-V-" marked wrenches and complete pre-war sets $50–200; collector rarities (Craftsman "Industrial", Herbrand-made, Moore "V" with forge marks, boxed sets) $100–300+.
 Buy rule (short): Pass on generic USA-made metric/SAE combination sets unless ≤ $15; buy pre-1950 "=V=" / Herbrand / Moore early-mark wrenches in lots ≤ $30 when marks are visible.
@@ -46,7 +46,13 @@ Early "=V=" and Herbrand-era wrenches mixed into "old tool box" lots; Craftsman 
 10 wrenches weigh ~4–6 lb; USPS flat rate medium/large box $18–25. Durable.
 
 ## Selling it (for the buyer-facing listing)
-List sizes, forging codes (-V-, -K-, -W-), "Made in USA", condition of chrome, and a photo of every mark.
+- **Title words:** "Craftsman" + "USA" + wrench/socket/ratchet type + forge code (=V= / -V- / -K-) + sizes + piece count + SAE/metric + era. Junk: "tool lot", "mechanic tools", "vintage tools" alone. `Craftsman =V= USA Combination Wrench Set 10pc SAE 3/8-1in Vintage 1950s`
+- **Where:** eBay BIN with offers (very liquid, mechanics shop by value; mild Father's Day/Christmas bump); FB local for bulk user lots.
+- **Price position:** at the sold median ($25–55 user sets; $80–250 =V=/Herbrand), accept −10%, floor 85%; OBO; cut 10% after 14 days.
+- **Photos:** full set fanned on plain background; forge code and "USA" stamp on each wrench close up; open and box ends for rounding; chrome condition; sizes legible; any box/tray.
+- **State:** sizes listed, forge codes, Made in USA, piece count, chrome condition (pitting/peeling), open-end rounding, replacements mixed in, box/roll included, flaws by photo number.
+- **Pack / haul:** shoebox, 10 wrenches 4–6 lb, USPS flat rate medium/large $18–25; roll in paper so they don't rattle, no double-box.
+- **Quote to a buyer:** "Craftsman [=V=] USA set, [1950s–60s] Moore-forged, all [N] sizes original with clean chrome; the current import Craftsman set is [$] and these lifetime-warranty USA ones go for [$]."
 
 ## Buy rule
 Profit formula: 0.87 × median − ship to buyer (~$20) − ship to Dylan (~$20) − price ≥ max($50, price). A typical USA set selling $40 nets ~$35 before price and shipping-in — always a pass shipped. Only buy early-mark lots (=V=, Herbrand, script) under ~$30 where sold median ≥ $120.

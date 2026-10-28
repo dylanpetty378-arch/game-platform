@@ -1,5 +1,5 @@
 # Modern light fixtures (mid-century and designer: Louis Poulsen, Nelson/Howard Miller bubble, Lightolier, Gerald Thurston, Stilnovo, Artemide, Flos, Kovacs, Raak, Nessen, Lightcraft of California; vs big-box builder-grade)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("modern light fixtures" median $47.08 n=45 — new LED shop lights; "dome pendant light" median $34.42 n=50, p25 $21.49 p75 $54.99); mid-century lighting knowledge (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("modern light fixtures" median $47.08 n=45 — new LED shop lights; "dome pendant light" median $34.42 n=50, p25 $21.49 p75 $54.99); mid-century lighting knowledge (general knowledge, verify). No web search this run.
 Slug: modern-light-fixtures · Aliases: pendant light, dome pendant, hanging lamp, ceiling light, chandelier, MCM light, Sputnik, bubble lamp, PH lamp, alabaster pendant
 Summary: Builder-grade 1990s–2010s pendants and flush mounts $10–40; generic MCM-style $30–80; Lightolier/Thurston/Lightcraft/Nessen originals $100–400; Nelson Bubble, Poulsen PH5/Artichoke, Stilnovo, Kovacs $200–2,000+.
 Buy rule (short): Pass on alabaster-swirl and big-box fixtures; buy marked mid-century designer pieces (label inside canopy) at ≤ $60 that ship in a carry-on box.
@@ -51,7 +51,13 @@ Unlabelled-looking Lightolier/Thurston pieces sold as "retro lamps"; real Nelson
 Glass shades: double box, 8–15 lb boxed, $20–35. Spun aluminium dents easily.
 
 ## Selling it (for the buyer-facing listing)
-Labels, diameter/drop measurements, wiring status (original/rewired), canopy included.
+- **Title words:** maker (Louis Poulsen / Howard Miller Nelson / Lightolier / Stilnovo) + model (PH5 / Bubble saucer / Thurston) + "pendant"/"flush mount"/"sconce" + diameter + era + "label". Junk: "retro lamp", "Sputnik style" (unless marked), "MCM" alone for builder-grade. `Louis Poulsen PH5 Pendant Light Poul Henningsen Denmark Original Label 20in`
+- **Where:** eBay BIN with offers for labelled mid-century pieces; 1stDibs/Chairish for Nelson/Poulsen/Stilnovo at higher decorator prices (slower, higher fee). Builder-grade FB local only.
+- **Price position:** at the sold median ($100–400 Lightolier/Thurston/Lightcraft; $200–2,000 Nelson/PH5/Stilnovo), accept −10%, floor 80%; OBO; cut 15% after 30 days; builder-grade $10–40 local, firm.
+- **Photos:** fixture lit; label inside the canopy or shade; shade diameter and drop against a tape; canopy and chain/cord; socket and wiring; dents in spun aluminium or glass chips close up; underside.
+- **State:** maker from the label, model, diameter and drop, wiring original or rewired, canopy and hardware included, bulb type, dents/chips/repairs by photo number, "no label — attributed" where that's the case.
+- **Pack / haul:** carry-on, 8–15 lb boxed; glass shades double-boxed with the shade separate from the canopy, spun aluminium padded (dents easily), $20–35.
+- **Quote to a buyer:** "[Louis Poulsen PH5 / Howard Miller Nelson Bubble] with the original label, [era], rewired and complete with canopy; the current production is [$] new and labelled originals bring [$] on 1stDibs."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$25 ship to buyer − ~$25 ship to Dylan − price ≥ max($50, price). Needs resale ≥ ~$140: only labelled mid-century designer pieces at ≤ $60. Vintage wiring = treat as untested; price as needing rewire.

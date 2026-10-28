@@ -1,5 +1,5 @@
 # Herman Miller Setu / Aeron (and other Herman Miller office seating)
-Updated: 2026-10-08 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); remaining detail is general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); remaining detail is general knowledge, verify
 Slug: herman-miller-chairs · Aliases: Herman Miller office chair, Aeron chair, Setu chair, Setu stool, Embody, Mirra, Sayl, ergonomic office chair, "HM chair"
 Summary: Setu stool $200–350; Aeron size C $300–500
 Buy rule (short): Setu under $90 only if relisted within a week
@@ -46,7 +46,13 @@ The size letter (C commands more), Remastered vs Classic, the options (PostureFi
 A chair is ~35–50 lb boxed and bulky (~30x30x30" box); $60–120 to ship. Local pickup strongly preferred.
 
 ## Selling it (for the buyer-facing listing)
-State model, size, year (from label), options/adjustments, mesh condition, cylinder holds height. Photograph the under-seat label, mesh closeups, arms and base. Title keywords: "Herman Miller Aeron Size C fully loaded", "Setu stool", "Remastered".
+- **Title words:** "Herman Miller" + model (Aeron / Setu / Embody) + size letter + Classic/Remastered + "fully loaded" options (PostureFit, adjustable arms) + colour. Junk: "mesh office chair", "ergonomic chair" alone, "like new" alone. `Herman Miller Aeron Size C Classic Fully Loaded PostureFit Adjustable Arms`
+- **Where:** FB Marketplace / Craigslist / OfferUp local pickup (shipping $60–120); eBay only for local pickup or freight at a premium for size C/Remastered.
+- **Price position:** at the local sold median (Aeron B $150–300; C $300–500; Setu stool $200–350), accept −15%, floor 75%; OBO; cut 15% after 21 days or when a liquidation dump hits.
+- **Photos:** chair front three-quarter; under-seat label with year and size; mesh close up (seat and back); arms and adjusters; base and casters; cylinder at full height; any tears or frays.
+- **State:** model, size, year from label, options/adjustments, mesh condition, cylinder holds height, arms work, casters, missing parts by photo number, pickup location.
+- **Pack / haul:** passenger-seat only with the back removed; 35–50 lb, 30×30×30 box, $60–120 to ship — local pickup strongly preferred; remove arms and base if it must go.
+- **Quote to a buyer:** "Herman Miller Aeron size [C], [year] label, [fully loaded] with PostureFit and adjustable arms, cylinder holds; new it's [$] and used size [C] sells for [$] — this one is [price] for pickup."
 
 ## Buy rule
 Buy when: Setu under $90, only if the listing has been relisted within a week (motivated seller); Aeron size C under ~$100 with intact mesh (general knowledge, verify). Pass when: torn mesh, copies, or seller already priced at used-dealer level. Most Herman Miller chairs are about the size of a passenger seat – confirm it fits the car, and plan a local resale. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule).

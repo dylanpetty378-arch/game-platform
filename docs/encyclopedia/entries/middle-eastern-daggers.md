@@ -1,5 +1,5 @@
 # Middle Eastern and Asian daggers (Ottoman/Kurdish khanjar and jambiya, Omani khanjar, Yemeni jambiya, Persian kard and pesh-kabz, Caucasian kindjal/kama, Nepalese kukri/khukuri, Indian katar/chilanum, Moroccan koummya; Gurkha issue kukris by Ex-ACP/BSI, Indian army)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; prices estimates, verify); Stone, "A Glossary of the Construction, Decoration and Use of Arms and Armor" (book); Elgeland, Oriental Arms (http://www.oriental-arms.com, dealer reference for types and asks); Khukuri House Nepal (https://www.khukurihouse.com, modern production); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; prices estimates, verify); Stone, "A Glossary of the Construction, Decoration and Use of Arms and Armor" (book); Elgeland, Oriental Arms (http://www.oriental-arms.com, dealer reference for types and asks); Khukuri House Nepal (https://www.khukurihouse.com, modern production); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl. · tells 2026-10-13
 Slug: middle-eastern-daggers · Aliases: antique sword, khanjar, jambiya, janbiya, kukri, khukuri, Gurkha knife, Arab dagger, Ottoman dagger, Persian dagger, kindjal, kama, koummya, curved dagger, Omani dagger, Yemeni dagger, Bedouin dagger
 Summary: Modern tourist pieces (kukris, Yemeni/Moroccan souvenirs) $20–60; 20th c. village-made or military kukris and Omani/Yemeni silver-mounted daggers $60–200; 19th c. Ottoman/Persian/Caucasian with silver/niello or wootz $200–1,500; jewelled or rhino-hilt pieces $1,000–10,000+ (rhino horn cannot legally be sold).
 Buy rule (short): Pass on kukris and souvenirs over $25; buy only 19th c. silver-mounted Ottoman/Caucasian pieces with clear age wear ≤ $80.
@@ -68,7 +68,13 @@ Silver scabbards (weight + age) on Middle Eastern daggers; military arsenal stam
 14–20 in. long, 1–2 lb: long box, tip protected, $10–15. Check carrier knife rules (USPS allows knives domestically). Fits passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-Overall/blade length, weight, materials (test silver), marks, blade condition, honest age estimate ("decorative 20th c. Nepalese kukri"). Avoid "antique" without evidence.
+- **Title words:** type (Caucasian kindjal / Omani khanjar / Persian kard / Nepal kukri) + century + mounts (silver niello / 84 zolotnik / wootz) + "antique" only with evidence + length. Junk: "sword", "antique" for tourist pieces, "rhino" (illegal to sell). `Antique Caucasian Kindjal Dagger Silver Niello Scabbard 84 Mark 19th C 18in`
+- **Where:** eBay BIN with offers within the knives policy for 20th-c. pieces; arms auctions and collector forums for 19th-c. silver-mounted and wootz (they beat eBay). Tourist pieces local or in lots.
+- **Price position:** at the sold median ($100–300 stamped military kukris/early Omani; $300–1,500 19th c. silver-mounted), accept −15%, floor 75%; OBO; cut 15% after 45 days; tourist $15–45 firm.
+- **Photos:** dagger and scabbard side by side; blade both sides; hilt close up; silver marks/assay stamps; scabbard repoussé; blade edge and tip; arsenal stamps; weight on a scale; next to a ruler.
+- **State:** overall and blade length, weight, materials (silver tested), marks and stamps transcribed, blade condition (pitting, sharpening), honest age ("decorative 20th c. Nepalese kukri") — no "antique" without evidence, by photo number.
+- **Pack / haul:** carry-on, 14–20" and 1–2 lb; long box, tip capped in cardboard, blade sheathed and tied, $10–15; USPS domestic allows knives — check the carrier.
+- **Quote to a buyer:** "[19th-century Caucasian kindjal] with [Russian 84 assay-marked] silver-niello mounts and age wear throughout, [length]; tourist replicas sell for [$] and marked period pieces bring [$] at the arms auctions."
 
 ## Buy rule
 Profit = median × 0.87 − ~$12 − ~$12 − price ≥ max($50, price). A tourist kukri ($40 median) can't clear. Buy only pieces with silver-mounted scabbard or arsenal stamps and visible age (forge marks, old patina) at ≤ $80 when comps ≥ $250. No rhino/ivory. Avoid high-value antiques needing expert authentication.

@@ -1,5 +1,5 @@
 # Decorative birdcages (Hendryx, Victorian wire/wood cages, Chinese bamboo cages, Bauhaus/Art Deco brass, modern décor imports: Pier 1, Hobby Lobby, Ballard Designs)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($200 bamboo, $315 Victorian-style; both asking/new-retail heavy)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; verify); no Terapeak rows in /home/claude/game-platform/db/comps.jsonl for this type; Lens medians from sweep ($200 bamboo, $315 Victorian-style; both asking/new-retail heavy)
 Slug: decorative-birdcages · Aliases: birdcage, bird cage, pagoda birdcage, bamboo bird cage, Victorian birdcage, shabby chic birdcage, Hendryx cage, brass birdcage, wedding card birdcage, Chinese bird cage, Asian songbird cage, plant stand birdcage, candle cage
 Summary: Modern décor cages (wood/wire, shabby chic, metal) $15–45; vintage Hendryx brass and 1950s–60s wire cages with stands $30–80; antique Chinese hardwood/bamboo songbird cages with porcelain feeders $60–400; 19th-c architectural wooden/wire cages (Victorian house shapes) $200–1,500 local only.
 Buy rule (short): Pass on décor cages; buy only small antique Chinese songbird cages with original porcelain/brass feeders and ivory-like or carved hook fittings at ≤ $40.
@@ -51,7 +51,13 @@ Weak and local for décor cages (bulky, cheap new). Chinese songbird cages sell 
 Bulky and crushable: oversized boxes $25–50; many exceed passenger-seat size. Fragile bamboo.
 
 ## Selling it (for the buyer-facing listing)
-Dimensions, materials, age evidence, fittings present (cups, hook, door, tray), honest note that décor cages are not for live birds.
+- **Title words:** type (antique Chinese bamboo songbird / Hendryx brass / Victorian wire) + "birdcage" + fittings (porcelain feeders, brass hooks, stand) + dimensions + era. Junk: "shabby chic", "wedding card holder" (unless décor), "farmhouse". `Antique Chinese Bamboo Songbird Birdcage Porcelain Feeder Cups Brass Hook 14in`
+- **Where:** eBay BIN with offers for Chinese songbird cages and Hendryx; LiveAuctioneers for Chinese cages with carved fittings (sells for more); FB local for all décor and architectural cages (spring wedding demand).
+- **Price position:** at the sold median ($60–400 Chinese; $30–80 Hendryx; $15–45 décor), accept −15%, floor 75%; OBO; cut 20% after 60 days.
+- **Photos:** full cage on plain background; porcelain cups close up (marks); hook and carved fittings; door and tray; Hendryx stamp on seed guard; bamboo joints and any breaks; next to a tape.
+- **State:** dimensions, materials, age evidence (stamps, construction), fittings present (cups, hook, door, tray), bamboo breaks or missing wires, décor cages not for live birds, flaws by photo number.
+- **Pack / haul:** passenger-seat, ~5 lb but crushable and oversized; double-box with a rigid inner box, cups removed and wrapped separately, $25–50; many are local only.
+- **Quote to a buyer:** "Antique Chinese [bamboo] songbird cage with the original [porcelain] feeder cups and [brass/carved] hook, [era]; the cups alone sell for [$] each and complete cages like this bring [$]."
 
 ## Buy rule
 Profit = sold median × 0.87 − shipping both ways (~$40–60) − price ≥ max($50, price). Décor cages never qualify. Only small (≤ 16") antique Chinese songbird cages with porcelain cups at ≤ $40 qualify. Pass on everything else.

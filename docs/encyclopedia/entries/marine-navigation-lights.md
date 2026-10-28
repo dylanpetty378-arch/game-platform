@@ -1,5 +1,5 @@
 # Marine navigation / running lights (Perko, Wilcox Crittenden, Davey & Co., Seahorse, Tung Woo; port/starboard ship lanterns)
-Updated: 2026-10-13 · Sources: general knowledge only (no web search this run; no Terapeak rows for this type in /home/claude/game-platform/db/comps.jsonl). Verify: eBay sold https://www.ebay.com/sch/i.html?_nkw=perko+running+light+vintage&LH_Sold=1 · Perko company https://www.perko.com/ · WorthPoint https://www.worthpoint.com/
+Updated: 2026-10-28 · Sources: general knowledge only (no web search this run; no Terapeak rows for this type in /home/claude/game-platform/db/comps.jsonl). Verify: eBay sold https://www.ebay.com/sch/i.html?_nkw=perko+running+light+vintage&LH_Sold=1 · Perko company https://www.perko.com/ · WorthPoint https://www.worthpoint.com/
 Slug: marine-navigation-lights · Aliases: ship lantern, port and starboard lights, running lights, nautical lamp, ship's lamp, masthead light, anchor light, bow light, red green lantern
 Summary: Indian decor repros $15–50; small vintage boat running lights $20–60 each, $60–150 a pair; large real ship oil/electric lanterns (Davey, Perko ship size, Tung Woo) $150–500+ (general knowledge, verify)
 Buy rule (short): Buy only heavy, cast/spun copper-brass lanterns with real maker plates and Fresnel glass ≤ $60, or matched genuine pairs ≤ $80; pass anything with "Nippon/Davey" stamped badge on thin brass.
@@ -47,7 +47,13 @@ Real ship lanterns from estates are listed as "old brass lamp"; the molded maker
 Glass lenses break; remove and wrap lens separately if possible. Large lanterns 8–15 lb packed, $20–35. Small boat lights ship for ~$10–15. Fits a passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-State maker (plate and lens marks), position (port/starboard/masthead/anchor), oil or electric, original vs replacement glass, dimensions, whether electrified, any dents. Photograph plates and lens markings.
+- **Title words:** maker (Perko / Wilcox Crittenden / Tung Woo / Davey) + position (port / starboard / masthead / anchor) + "ship lantern"/"running light" + copper/brass/bronze + "pair" + oil/electric + height. Junk: "nautical decor", "antique brass lamp", "Nippon" repro as antique. `Perko Port Starboard Running Lights Pair Bronze Fresnel Glass Brooklyn NY Vintage`
+- **Where:** eBay BIN with offers (coastal decor buyers, restorers; genuine pairs sell in 1–3 weeks, spring/summer bump); Indian repros FB local.
+- **Price position:** at the sold median ($20–60 single boat light, $60–150 pair; $100–250 ship lanterns; $200–500 Davey/matched pairs), accept −15%, floor 75%; OBO; cut 15% after 30 days.
+- **Photos:** lantern on plain background; maker plate; lens with moulded maker name; burner or socket; rivets and seams; back and mount; pair side by side; dents; next to a tape.
+- **State:** maker from plate and lens marks, position, oil or electric, original vs replacement glass, dimensions, electrified or not, dents and repairs by photo number, repro if thin brass.
+- **Pack / haul:** carry-on, large lanterns 8–15 lb $20–35, small boat lights $10–15; remove and wrap the lens separately when possible, burner immobilized, double-box.
+- **Quote to a buyer:** "Genuine [Perko] [port/starboard] pair, Brooklyn-made [era] bronze with the original Fresnel lenses marked on the glass; the Indian decor copies sell for [$] and matched working pairs bring [$]."
 
 ## Buy rule
 Profit = median × 0.87 − ship to buyer (~$25) − ship to Dylan (~$25) − price ≥ max($50, price). A $200 genuine lantern works up to ~$60 price; a $120 pair only at ≤ ~$20 shipped, so prefer local pickup. Require photos of the maker plate and the lens. Pass on: repro tells, cracked/replaced lenses, crude electrification.

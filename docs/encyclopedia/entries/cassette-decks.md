@@ -1,5 +1,5 @@
 # Cassette decks (Nakamichi, Tandberg, Revox, TEAC/Tascam, Akai, Sony (ES), Technics, Pioneer, Yamaha, Aiwa, Denon, Harman Kardon, JVC, Kenwood, Onkyo, Marantz, Sanyo, Fisher, Realistic)
-Updated: 2026-10-13 · Sources: listing photo pid 7973120094 (Craigslist, viewed – stack: Sanyo RD-W41A double cassette deck (Dolby B, playback-only deck A, c.1986–89), Sony CDP-391 CD player (c.1996–98), Yamaha K-903 Natural Sound dual cassette deck (c.1995–99)); general knowledge of hi-fi resale (no web search this run – prices "(general knowledge, verify)"); verification references: HiFi Engine manuals/specs (https://www.hifiengine.com/), Vintage Cassette Decks database (https://www.vintagecassette.com/ – verify), Tapeheads forum (https://www.tapeheads.net/). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: listing photo pid 7973120094 (Craigslist, viewed – stack: Sanyo RD-W41A double cassette deck (Dolby B, playback-only deck A, c.1986–89), Sony CDP-391 CD player (c.1996–98), Yamaha K-903 Natural Sound dual cassette deck (c.1995–99)); general knowledge of hi-fi resale (no web search this run – prices "(general knowledge, verify)"); verification references: HiFi Engine manuals/specs (https://www.hifiengine.com/), Vintage Cassette Decks database (https://www.vintagecassette.com/ – verify), Tapeheads forum (https://www.tapeheads.net/). No Terapeak rows for this type in db/comps.jsonl.
 Slug: cassette-decks · Aliases: tape deck, cassette player, dual cassette deck, double deck, dubbing deck, stereo cassette deck, Nakamichi, Dragon, 3-head deck, hi-fi components, stereo stack
 Summary: Untested/non-working budget decks $5–25; working 1980s–90s mass-market dual decks (Sanyo, Sony, Yamaha K-series, Technics, JVC) $25–70; 3-head and upper-tier single decks (Sony ES, Technics RS-B, Pioneer CT-S, TEAC V-series, Denon DR-M) $80–250; Nakamichi (Dragon, CR-7, 1000ZXL, ZX-7), Tandberg, Revox B215, Aiwa XK-S9000 $300–3,000.
 Buy rule (short): Pass anything untested or belt-dead (most decks need belts/idlers); buy only seller-demonstrated working 3-head decks or Nakamichi/Tandberg/Revox/Aiwa XK-S, with playback shown, at ≤ 25% of the ladder.
@@ -46,7 +46,13 @@ Nakamichi and Tandberg priced like ordinary decks at estate sales; Aiwa XK-S, So
 17×6×12", 8–15 lb, double-box with foam, $20–35; transport screws/locks not usually needed. Fits passenger seat.
 
 ## Selling it (for the buyer-facing listing)
-State tested functions (play, FF/REW, record, both decks), belt status, speed, and include video of playback; say "sold as-is" otherwise.
+- **Title words:** brand + model + "cassette deck" + "3 head"/"dual" + "tested"/"serviced" + "new belts" if done. Junk: "tape player", "stereo", "as is" (unless true). `Nakamichi BX-300 3-Head Cassette Deck Tested Working Plays Records`
+- **Where:** eBay BIN with offers (revival buyers search by model, Q4 bump); auction for Nakamichi/Tandberg/Revox, which sell at any condition. Local only for budget dual decks.
+- **Price position:** at the sold median for the model, accept −10%, floor 80%; OBO; untested budget decks priced at the $5–25 tier "as-is", firm; cut 10% after 21 days.
+- **Photos:** front with display lit; playback video (meters moving); heads and capstan close-up; back panel and model label; top and sides for scratches; remote/manual if included.
+- **State:** exact model, functions tested (play, FF/REW, record, each deck), belt status, speed/wow, heads condition, "sold as-is" if untested, cosmetic flaws by photo number.
+- **Pack / haul:** passenger-seat, 8–15 lb, 17×6×12"; double-box with foam, cassette door taped shut, $20–35.
+- **Quote to a buyer:** "[Brand model] 3-head deck from [year], tested through every function with video; serviced examples go for [$] and this one has [new belts / original heads with no wear]."
 
 ## Buy rule
 Budget dual decks: resale $25–70 working; profit = 50 × 0.87 − $25 − $20 − price < 0 → pass, even at $10. Untested electronics are excluded. Only buy demonstrated-working Nakamichi/Tandberg/Revox/Aiwa XK-S/3-head decks at ≤ 25% of resale.

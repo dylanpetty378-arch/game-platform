@@ -1,5 +1,5 @@
 # Vintage hard hats and pith helmets (E.D. Bullard Hard Boiled, MSA Skullgard/Comfo-Cap, McDonald T (B.F. McDonald), Willson, Jackson; Hawley, Vero, colonial cork pith helmets)
-Updated: 2026-10-13 · Sources: /home/claude/game-platform/db/comps.jsonl Terapeak 365d "E D Bullard fiberglass Hard Boiled" (median $85, n=20, p25 $73, p75 $265, top sold $104.50 white Hard Boiled and $399.95 Bullard Hard Boiled 502); /tmp/res/enc/vintage-fire-helmets.md (related entry); batch file /tmp/res/batches2/c01.md; general knowledge (no web search this run) for other makers — verify via eBay sold and E.D. Bullard company history (bullard.com/about).
+Updated: 2026-10-28 · Sources: /home/claude/game-platform/db/comps.jsonl Terapeak 365d "E D Bullard fiberglass Hard Boiled" (median $85, n=20, p25 $73, p75 $265, top sold $104.50 white Hard Boiled and $399.95 Bullard Hard Boiled 502); /tmp/res/enc/vintage-fire-helmets.md (related entry); batch file /tmp/res/batches2/c01.md; general knowledge (no web search this run) for other makers — verify via eBay sold and E.D. Bullard company history (bullard.com/about).
 Slug: hard-hats-and-pith-helmets · Aliases: aluminum hard hat, metal hard hat, tin hat, ironworker hat, oilfield hard hat, lineman hat, miner's helmet, Hard Boiled hat, Bullard hat, MSA hard hat, McDonald T hat, safari helmet, pith helmet, sun helmet, topee, Hawley helmet, cork helmet
 Summary: modern plastic/1980s+ hard hats and 1960s–80s generic fiberglass $10–40; vintage aluminum hard hats (Bullard, MSA, McDonald T, Jackson) and fiberglass Bullard Hard Boiled $50–150 (Terapeak median $85); decal-rich company/union/oilfield hats, Bullard 502 early, and miner's carbide-light caps $120–400; Hawley/Vero pith helmets $25–80, true British colonial cork helmets with insignia $100–400 (general knowledge, verify)
 Buy rule (short): Buy metal (aluminum) or early fiberglass Bullard/MSA/McDonald hard hats with original decals or company stencils at ≤ $25; pith helmets only if pre-WWII British/colonial with makers' label at ≤ $40; pass on plastic hard hats and modern Hawley "safari" souvenirs.
@@ -48,7 +48,13 @@ Aluminum vs plastic (they call all "old hard hat"); maker stamps inside the brim
 Bulky but light: 14×12×9 box, 2–3 lb, $12–18 Ground Advantage. Fits a passenger seat easily. Stuff with paper; don't crush brim.
 
 ## Selling it (for the buyer-facing listing)
-Maker, material, model stamp, decals (photograph each), suspension included/original, dents. Not for safety use — sell as collectible.
+- **Title words:** maker (Bullard Hard Boiled / MSA Skullgard / McDonald T / Hawley) + material (aluminum / fiberglass / cork) + "hard hat"/"pith helmet" + decals or company + era + model. Junk: "old hard hat", "safari costume", "man cave decor" alone. `Vintage Bullard Hard Boiled 502 Aluminum Hard Hat Oilfield Decals 1950s`
+- **Where:** eBay BIN with offers (Americana/workwear buyers; Texas oilfield decals sell well). No local premium.
+- **Price position:** at the sold median (Bullard Hard Boiled ~$85; decaled $100–250), accept −10%, floor 80%; OBO; cut 15% after 30 days; plastic hats $10–35 firm or local.
+- **Photos:** hat three-quarter on plain background; maker stamp inside the brim; each decal close up; suspension inside; crown top; dents and paint loss; WWII stamp inside Hawley helmets.
+- **State:** maker, material, model stamp, each decal/company stencil, suspension included and original, dents/cracks by photo number, "collectible, not for safety use".
+- **Pack / haul:** shoebox, 2–3 lb in a 14×12×9 box $12–18; stuff with paper, brim not crushed, no double-box.
+- **Quote to a buyer:** "Bullard [model] [aluminum] hard hat, [1950s] stamp inside the brim with original [company] decals; plastic hats go for [$] and decaled metal Bullards bring [$]."
 
 ## Buy rule
 Profit = sold × 0.87 − $15 ship to buyer − $15 ship to Dylan − price ≥ max($50, price). With the Bullard median of $85: 85 × 0.87 − 30 = $44 before price, which never clears the $50 floor, so plain hats are always a pass. Buy only decal-rich or early hats (≥ $150 expected) at ≤ $40. Pith helmets: only WWII-marked or British officer at ≤ $30.

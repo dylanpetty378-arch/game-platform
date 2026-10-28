@@ -1,5 +1,5 @@
 # Cash registers (NCR / National)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: agent knowledge of eBay sold bands and NCR model-number conventions (verify on eBay sold filter before buying); run12 sheet 56
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: agent knowledge of eBay sold bands and NCR model-number conventions (verify on eBay sold filter before buying); run12 sheet 56
 Slug: cash-registers · Aliases: National cash register, NCR register, antique cash register, brass cash register, candy store register, till
 Summary: 1950s–70s steel NCRs $40–120; 1930s chrome/wood 700-series working $150–300; brass candy-store 313/311 $400–900; large brass 442/452 restored $1,500–4,000.
 Buy rule (short): Buy only a brass candy-store NCR with serial plate under $150 (local/regional pickup); pass every painted/chrome post-1935 model.
@@ -46,7 +46,13 @@ Model number plate (under the drawer / front edge) – a 313 listed as "old bras
 Brass 313: ~50 lb, $60–90 freight each way. Steel 1950s: 60–100 lb, worse. Only local/regional buys make sense; profit rule means ≥ $500 sale for a $150 purchase shipped.
 
 ## Selling it (for the buyer-facing listing)
-Model and serial number (with build year from serial), finish, working status (keys, flags, drawer, bell), what's original vs replaced, dimensions and weight. Photograph the serial plate, flags up, case details, marble, inside of drawer. Offer local pickup.
+- **Title words:** "NCR National Cash Register" + model (313/311/442) + serial + "brass" + "candy store" + "works" + year from serial. Junk: "antique register", "old till", "vintage". `NCR National Cash Register Model 313 Brass Candy Store 1913 Works Serial`
+- **Where:** FB local / regional pickup (50 lb+); eBay BIN with offers only if the buyer arranges freight; Morphy/regional auction for 442/452.
+- **Price position:** at the sold median for the model (313 $400–900 working), accept −15%, floor 75%; OBO; cut 10% after 60 days. Steel 1950s priced to clear locally.
+- **Photos:** front with flags up; serial plate; case casting pattern; marble and drawer interior; keys close-up; bell/drawer operating (video); back and sides.
+- **State:** model and serial with build year, finish, working (keys, flags, drawer, bell), original vs replaced parts, dimensions and weight, local pickup offered, dents/missing keys by photo number.
+- **Pack / haul:** passenger-seat, 50–100 lb; local only realistically; if shipped, freight on a pallet $60–90, drawer locked and flags immobilized.
+- **Quote to a buyer:** "National Cash Register model [313], serial [#] dates it to [year], all brass with the [pattern] case and working flags; restored examples list at [$] and the Taiwan repros lack this serial plate."
 
 ## Buy rule
 Buy when: brass candy-store model with serial plate under $150. Pass when: any painted/chrome post-1935 model (6755 type) regardless of price. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat – small candy-store models do; large multi-drawer machines are excluded.

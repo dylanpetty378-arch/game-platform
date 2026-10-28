@@ -1,5 +1,5 @@
 # Military field gear (US canteens, covers, mess kits, musette/haversacks, belts, compasses; makers Vollrath, Aluminum Goods Mfg., Landers Frary & Clark, Rex, Mills; compasses Superior Magneto, Waltham, Lensatic, Cammenga, Soviet Andrianov; European surplus bags)
-Updated: 2026-10-13 · Sources: general knowledge of militaria collecting (US M1910 canteen and cover pattern; WWII stainless steel canteens 1942–45 by Vollrath and others; black plastic caps from 1943; WWII lensatic compasses by Superior Magneto, Waltham, Jewell, Union Instrument; Soviet Andrianov wrist compasses 1930s–1980s; post-war European surplus bags). No sold comps in comps.jsonl; prices are estimates (general knowledge, verify). · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge of militaria collecting (US M1910 canteen and cover pattern; WWII stainless steel canteens 1942–45 by Vollrath and others; black plastic caps from 1943; WWII lensatic compasses by Superior Magneto, Waltham, Jewell, Union Instrument; Soviet Andrianov wrist compasses 1930s–1980s; post-war European surplus bags). No sold comps in comps.jsonl; prices are estimates (general knowledge, verify). · tells 2026-10-13
 Slug: military-field-gear · Aliases: army canteen, WWII canteen, canteen cover, mess kit, haversack, musette bag, shoulder bag, gas mask bag, ammo pouch, pistol belt, field compass, wrist compass, lensatic compass, Soviet compass, military surplus, army gear
 Summary: post-war and European surplus bags/pouches $8–30; WWII US canteens, cups, covers, mess kits $20–60; dated WWII compasses, M1936 musettes, USMC items, named/unit-marked gear $50–200; WWI/early items, German WWII originals, rare USMC/airborne items $150–1,000+ (authentication issues).
 Buy rule (short): Buy only dated, maker-marked US WWII compasses, M1936 musettes, USMC-marked gear, or complete WWI sets at ≤ 1/3 median; pass canteens, Soviet compasses, generic European bags; never buy German WWII without authentication.
@@ -59,7 +59,13 @@ Maker/date stamps on WWII compasses and USMC markings; named items with provenan
 Canteens/bags 1–2 lb $10–15; compasses $6–10.
 
 ## Selling it (for the buyer-facing listing)
-Photograph all markings, maker, date, inside of covers; state original vs reproduction; disclose damage.
+- **Title words:** "WWII US" + item (M1938 lensatic compass / M1936 musette / USMC canteen cover) + maker + date + "USMC"/"Corps of Engineers" + "original". Junk: "army surplus", "military lot", "reproduction" (unless true). `WWII US M1938 Lensatic Compass Superior Magneto 1944 Corps of Engineers Pouch`
+- **Where:** eBay BIN with offers (large collector market; Veterans Day/Memorial Day bumps); named/unit groupings and German originals to militaria auctions with authentication. Generic surplus local or in lots.
+- **Price position:** at the sold median ($20–60 canteen sets; $50–200 dated compasses/USMC/M1936 khaki), accept −10%, floor 80%; OBO; cut 15% after 30 days.
+- **Photos:** item on plain background; every stamp (maker, date, "US"/"USMC") close up; inside of covers and flaps; compass dial working (short video) and case back engraving; straps and buckles; damage close up.
+- **State:** item and pattern, maker, date, markings transcribed, original vs reproduction, named or unit-marked, compass works/liquid clear, canvas colour (khaki vs OD#7), tears/rust/mothing by photo number.
+- **Pack / haul:** shoebox; canteens/bags 1–2 lb $10–15, compasses $6–10; canteen cup inside its cover, compass in its pouch, no double-box.
+- **Quote to a buyer:** "[Superior Magneto M1938] compass dated [1944] with the Corps of Engineers stamp and canvas pouch, dial swings true; a generic surplus compass is [$] and dated WWII US examples bring [$]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ship to buyer (~$12) − ship to Dylan (~$12) − price ≥ max($50, price). Needs ~$85+ median. Buy only dated WWII US compasses, M1936 musettes, USMC-marked gear, named groups at ≤ 1/3 median. Pass canteens, Soviet compasses, European surplus. German WWII and high-value medals require authentication – pass.

@@ -1,5 +1,5 @@
 # McCoy pottery (Nelson McCoy Pottery Co., Roseville OH, 1910–1990; J.W. McCoy; Brush-McCoy)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://en.wikipedia.org/wiki/McCoy_Pottery , Hanson/Nissen "Collector's Encyclopedia of McCoy Pottery", https://www.mccoypotteryonline.com , eBay sold search "McCoy strap vase", "McCoy Buccaneer pitcher", "McCoy cookie jar")
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run; no Terapeak data in comps.jsonl for this type (verify against: https://en.wikipedia.org/wiki/McCoy_Pottery , Hanson/Nissen "Collector's Encyclopedia of McCoy Pottery", https://www.mccoypotteryonline.com , eBay sold search "McCoy strap vase", "McCoy Buccaneer pitcher", "McCoy cookie jar")
 Slug: mccoy-pottery · Aliases: McCoy USA, NM USA, Nelson McCoy, McCoy planter, McCoy jardiniere, McCoy cookie jar, strap vase, ribbon vase, Buccaneer pitcher, Butterfly line, Onyx, Pine Cone, Floraline, Brush McCoy
 Summary: Common planters, small vases and Floraline $8–30; good 1930s–50s vases, stoneware pitchers, cookie jars $30–100; rare cookie jars (Hillbilly bear, Pontiac Indian), large Arts-and-Crafts jardinieres, rare colours $100–600.
 Buy rule (short): Buy only rare cookie jars, large jardiniere/pedestal sets or rare-colour 1940s floor vases at ≤ $40; pass on planters, Floraline and common vases.
@@ -51,7 +51,13 @@ Buy rule (short): Buy only rare cookie jars, large jardiniere/pedestal sets or r
 - Pottery: double box; 12" vase 5–7 lb boxed, $18–25. Pitchers 3–4 lb, $14–18.
 
 ## Selling it (for the buyer-facing listing)
-- Height, colour name, mark photo, line name, crazing/chip disclosure.
+- **Title words:** "McCoy" + form (cookie jar / jardiniere pedestal / vase) + name or line (Hillbilly Bear / Loy-Nel-Art / Butterfly) + colour + height + era. Junk: "vintage planter" alone, "farmhouse pottery", "rare" for Floraline. `McCoy Pottery Hillbilly Bear Cookie Jar 1960s Brown Original Lid`
+- **Where:** eBay BIN with offers for rare cookie jars, Arts-and-Crafts pieces and rare colours; FB local for jardiniere/pedestal sets (heavy) and all planters.
+- **Price position:** at the sold median ($100–350 rare jars/jardiniere sets; $30–90 1940s vases), accept −15%, floor 75%; OBO; cut 15% after 45 days; planters local $8–30, firm.
+- **Photos:** piece on white; base mark; lid on and off for jars; interior; every chip, crazing and glaze skip close up; colour in daylight; next to a ruler.
+- **State:** height, colour name, mark as photographed, line name, lid original, crazing/chips/repairs by photo number, Mammy and other reproductions disclosed.
+- **Pack / haul:** shoebox; 12" vase 5–7 lb double-boxed $18–25; pitchers 3–4 lb $14–18; lids wrapped separately; jardiniere sets local only.
+- **Quote to a buyer:** "McCoy [Hillbilly Bear] cookie jar, [1960s], original lid, no chips or crazing; the common Kookie Kettle jars sell for [$] and this one is the [rare] jar that brings [$]."
 
 ## Buy rule
 - Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$18) − ship to Dylan (~$18) − price ≥ max($50, price).

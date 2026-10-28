@@ -1,5 +1,5 @@
 # License plates (US state passenger plates 1900s-1980s, porcelain plates, YOM-eligible pairs, dealer/motorcycle/specialty plates)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); ALPCA (Automobile License Plate Collectors Association) https://www.alpca.org/ for history; no Terapeak data for this type in db/comps.jsonl
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); ALPCA (Automobile License Plate Collectors Association) https://www.alpca.org/ for history; no Terapeak data for this type in db/comps.jsonl
 Slug: license-plates · Aliases: vintage license plates, old car tags, plate lot, YOM plates, porcelain plates, antique tags, Ohio plates
 Summary: 1970s-90s common plates $5-15; 1950s-60s common-state plates $12-35; matched pairs and YOM-ready plates $40-150; pre-1930 and porcelain plates $75-500+; rare states/low numbers $100-1000+ (general knowledge, verify)
 Buy rule (short): Buy lots priced ≤ $3-4 per pre-1975 plate when the lot resells ≥ $100; pre-1930 / porcelain plates any time at ≤ $15 each.
@@ -44,7 +44,13 @@ Treating a mixed box of 1950s-60s plates as a $10-20 wall-decor lot. Each plate 
 Flat, durable: a single plate ships in a large envelope for $5-8; 5-10 plates ~3-5 lb, $10-15. Cardboard both sides to protect corners.
 
 ## Selling it (for the buyer-facing listing)
-State, year, number, colours, original vs repaint, photos front and back, note YOM eligibility to be checked with the buyer's DMV.
+- **Title words:** state + year + "license plate" + "pair" if matched + number + "original paint" + type (porcelain / passenger / motorcycle / dealer) + "YOM". Junk: "wall decor", "man cave", "plate lot" for early plates. `1957 Ohio License Plate Matched Pair Original Paint YOM Classic Car`
+- **Where:** eBay BIN with offers (collectors, restorers, decorators; lots move in 1–4 weeks); pairs for classic-car years to YOM buyers. No local premium.
+- **Price position:** at the sold median ($12–35 1950s–60s singles; $40–150 pairs/YOM; $75–500 pre-1930/porcelain), accept −10%, floor 80%; OBO; cut 15% after 30 days; 1970s–90s in lots.
+- **Photos:** front straight on in daylight; back; corners and bolt holes; paint close up (original vs repaint); porcelain chips; pairs side by side; lot laid out with count.
+- **State:** state, year, number, colours, original paint or repaint, bends/rust/chips by photo number, pair matched, YOM eligibility to be checked with the buyer's DMV.
+- **Pack / haul:** shoebox; single plate in a large envelope with cardboard both sides $5–8; 5–10 plates 3–5 lb $10–15; corners protected.
+- **Quote to a buyer:** "[Year] [State] [pair], original paint, numbers match, the year restorers need for a [1957] car's YOM registration; single 1970s plates go for [$] and matched [year] pairs bring [$]."
 
 ## Buy rule
 Profit = lot resale × 0.87 − ~$12 ship out − ~$12 ship in − price ≥ max($50, price). A 6-10 plate lot of 1950s-70s original-paint plates at ≤ $25 typically clears this. Singles rarely do unless pre-1930.

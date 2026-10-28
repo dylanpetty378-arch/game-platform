@@ -1,5 +1,5 @@
 # Madame Alexander and Vogue Ginny-type 8" dolls (Alexander Doll Co. "Wendy/Alexander-kins", Cissy, Cissette, Lissy, Elise; Vogue Ginny; Nancy Ann Storybook; Effanbee; McDonald's Happy Meal Madame Alexander minis)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Madame Alexander Doll Club https://www.madc.org ; Alexander Doll Co. https://www.madamealexander.com ; Vogue Dolls / Ginny Doll Club; Theriault's doll auction results https://www.theriaults.com ; Crowsey/Smith "Madame Alexander Collector's Dolls Price Guide"; eBay sold search https://www.ebay.com/sch/i.html?_nkw=madame+alexander+1950s+8%22&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13. · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Madame Alexander Doll Club https://www.madc.org ; Alexander Doll Co. https://www.madamealexander.com ; Vogue Dolls / Ginny Doll Club; Theriault's doll auction results https://www.theriaults.com ; Crowsey/Smith "Madame Alexander Collector's Dolls Price Guide"; eBay sold search https://www.ebay.com/sch/i.html?_nkw=madame+alexander+1950s+8%22&LH_Sold=1 . No Terapeak rows for this type in comps.jsonl as of 2026-10-13. · tells 2026-10-13
 Slug: madame-alexander-dolls · Aliases: Madame Alexander, Alexander-kins, Wendy, Wendy Ann, Cissy, Cissette, Lissy, Elise, Ginny, Vogue Ginny, 8 inch doll, storybook doll, international doll, McDonald's Madame Alexander, Happy Meal doll, Mouseketeer doll
 Summary: McDonald's minis $1–5; 1970s–2000s 8" Alexander/Ginny in box $8–35; 1950s straight-leg and bent-knee walker Alexander-kins and 1950s Vogue Ginny in original outfits $60–250; 1950s Cissy/Elise/Lissy with tagged outfits, rare costumes and boxed 1953–56 walkers $150–800; rare 1950s outfits and hard plastic portrait dolls $1,000+.
 Buy rule (short): Target 1950s hard-plastic 8" dolls (marked "ALEX" on back, or "GINNY/VOGUE DOLLS INC" with painted-lash/molded-lash era) in tagged original clothes at ≤ 1/3 resale; pass on post-1970 8" dolls, McDonald's minis and 1990s–2000s exclusives.
@@ -64,7 +64,13 @@ Doll collecting is aging and prices have fallen sharply since 2000; only 1950s h
 Small, light: $8–12 each way; protect hair and eyes.
 
 ## Selling it (for the buyer-facing listing)
-Photograph back marks, clothing tags, eyes open/closed, legs (bent-knee), hair condition; describe outfit originality; include box and wrist tag.
+- **Title words:** "Madame Alexander" / "Vogue Ginny" + doll name + size (8" / Cissy 20") + era (1950s hard plastic) + "walker"/"bent knee" + "tagged original outfit" + "box". Junk: "old doll lot", "vintage doll" alone, "rare" for 1990s exclusives. `Madame Alexander Alexander-kins 8in 1955 Bent Knee Walker Tagged Original Dress Box`
+- **Where:** eBay BIN with offers (aging collector base; only 1950s hard plastic sells well); Theriault's for mint Cissy and rare 1950s outfits. Modern 8" dolls in lots or local.
+- **Price position:** at the sold median ($100–500 1953–56 walkers in tagged outfits; $40–120 1960s), accept −15%, floor 75%; OBO; cut 15% after 45 days; post-1970 dolls $8–35 in lots, firm.
+- **Photos:** doll front on white; back marks ("ALEX"/"GINNY VOGUE DOLLS INC"); clothing tag; eyes open and closed; legs (bent-knee/walker); hair close up; outfit details; box and wrist tag.
+- **State:** maker and marks, size, era, walker/bent-knee, eyes and lashes (moulded/painted), hair condition, outfit original and tagged or replaced, box/wrist tag, chips/stains/crazing by photo number.
+- **Pack / haul:** shoebox, 0.5 lb, $8–12; hair netted, eyes protected with tissue, doll immobilized in its box inside a shipping box.
+- **Quote to a buyer:** "Alexander-kins [name], [1955] bent-knee walker in the tagged original [outfit] with box and wrist tag; the 1980s–2000s 8-inch dolls sell for [$] and 1950s hard plastic in original clothes brings [$]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$10 to buyer − ~$10 to Dylan − price; pass unless ≥ max($50, price).

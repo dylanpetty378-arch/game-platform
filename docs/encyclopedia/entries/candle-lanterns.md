@@ -1,5 +1,5 @@
 # Candle lanterns (antique tin/punched-tin "Paul Revere" lanterns, railroad/ship candle lanterns, folding candle lanterns (Stonebridge, UCO), carriage lanterns, and modern decor box lanterns)
-Updated: 2026-10-13 · Sources: listing photo pid 7982372895 (Craigslist, viewed – square sheet-metal box lantern, dark grey zinc/galvanised finish, four clear flat glass panes, hinged door, cylindrical candle socket in floor, ring handle, pyramidal cap – modern decor lantern, 1990s–2010s); Terapeak rows in db/comps.jsonl for "kerosene oil lamps"/"glass kerosene lamp" (median $16–24, Oct 2026 – related lighting, mostly parts); general knowledge (no web search this run – prices "(general knowledge, verify)"); verification references: Rushlight Club (early lighting society, https://www.rushlight.org/), UCO Candlelier/Stonebridge folding lantern history (https://www.ucogear.com/). 
+Updated: 2026-10-28 · Sources: listing photo pid 7982372895 (Craigslist, viewed – square sheet-metal box lantern, dark grey zinc/galvanised finish, four clear flat glass panes, hinged door, cylindrical candle socket in floor, ring handle, pyramidal cap – modern decor lantern, 1990s–2010s); Terapeak rows in db/comps.jsonl for "kerosene oil lamps"/"glass kerosene lamp" (median $16–24, Oct 2026 – related lighting, mostly parts); general knowledge (no web search this run – prices "(general knowledge, verify)"); verification references: Rushlight Club (early lighting society, https://www.rushlight.org/), UCO Candlelier/Stonebridge folding lantern history (https://www.ucogear.com/). 
 Slug: candle-lanterns · Aliases: candle lantern, lantern, tin lantern, punched tin lantern, Paul Revere lantern, colonial lantern, carriage lantern, folding candle lantern, Stonebridge lantern, Moroccan lantern, decor lantern, Pottery Barn lantern, hurricane lantern
 Summary: Modern decor box lanterns (Pottery Barn, Hobby Lobby, Target/Threshold) $10–35; folding candle lanterns (Stonebridge, UCO, Coleman 1950s–80s) $15–60; 19th-century punched-tin "Revere", wood-frame and tin/glass "barn" lanterns $60–250; early 18th–19th-century horn-pane, sheet-iron and documented railroad/ship candle lanterns $200–1,000+.
 Buy rule (short): Pass modern decor lanterns and generic galvanised boxes; buy only soldered-tin 19th-century lanterns (punched tin, wood frame, horn or wavy glass, stamped makers) or Stonebridge/early UCO folding lanterns at ≤ 25% of the ladder.
@@ -44,7 +44,13 @@ Stonebridge folding lanterns (look like flat brass/mica junk), genuine early sol
 Glass panes break; double-box, 3–6 lb, $15–25. Folding lanterns ship easily.
 
 ## Selling it (for the buyer-facing listing)
-Describe construction (soldered vs welded), glass type, markings, dimensions; label decor pieces as decor.
+- **Title words:** "antique tin candle lantern" + type (punched tin / Revere / barn / folding) + maker (Stonebridge, Dietz, Adams & Westlake) + "19th century" + height. Junk: "farmhouse", "rustic decor", "primitive" (unless genuine). `Antique Punched Tin Candle Lantern Pierced Revere Style 19th C 14in`
+- **Where:** eBay auction for genuine early lighting (collector-driven, Rushlight buyers) or BIN with offers for marked Stonebridge; FB local for all modern decor and glass box lanterns.
+- **Price position:** antique at the sold median, accept −15%, floor 75%; OBO; cut 15% after 30 days. Decor listed at $10–25 firm locally.
+- **Photos:** full lantern upright; solder seams and construction close-up; maker's mark/stamp; glass or horn panes and any cracks; door latch and candle socket; base underside; next to a ruler.
+- **State:** construction (soldered vs welded/riveted), pane material, markings, height and diameter, whether candle socket is original, dents, missing panes, repairs by photo number; label decor pieces as decor.
+- **Pack / haul:** carry-on, 3–6 lb, double-box with the glass immobilized, $15–25; folding lanterns ship flat in a padded box.
+- **Quote to a buyer:** "Hand-soldered tin candle lantern, [19th-century / maker], original [horn/glass] panes and socket, [height]; reproductions sell for [$] and genuine early ones with this construction run [$] at auction."
 
 ## Buy rule
 Modern decor lanterns resale $15–35 → pass. Antique soldered-tin examples at ≤ $40 with conservative resale ≥ $150 only; passenger-seat sized.

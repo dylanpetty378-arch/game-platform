@@ -1,5 +1,5 @@
 # Copper and brass bed warmers, warming pans and chestnut roasters (English/American 18th–19th c.; Dutch/Continental; 20th c. reproductions)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Warming pan" https://en.wikipedia.org/wiki/Warming_pan ; project comps file /home/claude/game-platform/db/comps.jsonl (no bed-warmer data on file).
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Warming pan" https://en.wikipedia.org/wiki/Warming_pan ; project comps file /home/claude/game-platform/db/comps.jsonl (no bed-warmer data on file).
 Slug: copper-bed-warmers · Aliases: bed warmer, warming pan, bedwarmer, chestnut roaster, chestnut pan, ember pan, coal pan, copper pan with long handle, foot warmer, bassinoire, scaldino
 Summary: 20th c. decorative bed warmers and chestnut roasters $25–75; 19th c. copper/brass bed warmers with wood or iron handles $60–200; 18th c. engraved brass lids, pierced decoration, wrought-iron handles $200–800.
 Buy rule (short): Pass on long-handled bed warmers (too long for the car seat and slow to sell); buy small 18th–19th c. engraved/pierced pieces only at ≤ 25% of resale.
@@ -47,7 +47,13 @@ Dates and initials engraved on lids; that a short-handled piece is a chestnut ro
 Bed warmers: 36–45 in long box, $30–45 — usually not worth it. Chestnut roasters: 4–6 lb, $18–25.
 
 ## Selling it (for the buyer-facing listing)
-Give dimensions, construction (seams, rivets), handle material, any engraving, and describe dents/patina.
+- **Title words:** "antique" + copper/brass + "bed warmer"/"warming pan"/"chestnut roaster" + "engraved"/"pierced" + century + handle material + length. Junk: "farmhouse decor", "fireplace", "primitive". `Antique 18th C Brass Bed Warmer Engraved Pierced Lid Wrought Iron Handle 42in`
+- **Where:** eBay BIN with offers for engraved/dated lids and chestnut roasters; FB local for long-handled plain warmers (shipping $30–45). Regional auction for 18th-century dated pieces.
+- **Price position:** at the sold median ($50–120 plain; $200–800 engraved 18th c.), accept −15%, floor 75%; OBO; cut 15% after 45 days.
+- **Photos:** full length on plain floor; lid engraving/piercing straight on; lid open showing interior and hinge; handle joint and rivets; seams; handle end; any engraved dates/initials close up.
+- **State:** overall length, pan diameter, construction (seams, rivets), handle material, engraving/initials/dates transcribed, lid hinge works, dents, patina or polished, repro marks ("Made in England") if present, by photo number.
+- **Pack / haul:** passenger-seat; bed warmers 36–45" need a long box $30–45 (usually local); chestnut roasters 4–6 lb $18–25; pad the lid and tie it shut.
+- **Quote to a buyer:** "[18th/19th]-century [brass/copper] bed warmer with a hand-[engraved/pierced] lid and [wrought-iron/turned wood] handle, [length]; the 1970s decor copies sell for [$] and period pieces with this piercing for [$]."
 
 ## Buy rule
 Profit = sold × 0.87 − ship to buyer (~$22) − ship to Dylan (~$20) − price ≥ max($50, price). A $100 roaster resale gives $45 margin before purchase → never. Long-handled warmers fail the size rule. Only engraved 18th c. pieces at resale ≥ $300 for ≤ $75 and short enough for the car seat.

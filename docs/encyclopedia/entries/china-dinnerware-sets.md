@@ -1,5 +1,5 @@
 # China dinnerware sets (Noritake, Lenox, Royal Doulton, Wedgwood, Royal Albert, Haviland Limoges, Bavaria, Mikasa, Spode, Herend, Royal Copenhagen; import "Sorelle"/"Royal" tea sets)
-Updated: 2026-10-13 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("china dinnerware sets" median $17.23 n=50 p25 $12.66 p75 $31.67; "Sorelle cobalt and gold tea set" one sale $48.61 for 15 pcs Jun 2026; "floral gold-rim saucer and plates" median $13.21 n=49 p25 $7.59 p75 $26); Replacements Ltd. (https://www.replacements.com) pattern-pricing method (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak sold data in /home/claude/game-platform/db/comps.jsonl ("china dinnerware sets" median $17.23 n=50 p25 $12.66 p75 $31.67; "Sorelle cobalt and gold tea set" one sale $48.61 for 15 pcs Jun 2026; "floral gold-rim saucer and plates" median $13.21 n=49 p25 $7.59 p75 $26); Replacements Ltd. (https://www.replacements.com) pattern-pricing method (general knowledge, verify). No web search this run.
 Slug: china-dinnerware-sets · Aliases: fine china, china set, dinner set, tea set, coffee set, bone china, porcelain dishes, Grandma's china, wedding china, gold rim china
 Summary: Full 1950s–90s fine-china services sell for $50–300 (and often not at all); orphan saucers/plates $3–15; imported decorative tea/dessert sets (Sorelle, "Royal" names) $25–60; high-end patterns (Herend, Royal Copenhagen Flora Danica, Meissen, Royal Crown Derby Imari, Wedgwood Florentine) $30–300 per piece.
 Buy rule (short): Pass on full services and decorative import tea sets (heavy, slow, cheap); only buy small lots of high-value patterns (Herend, Royal Copenhagen, Meissen, Royal Crown Derby, Flora Danica) when piece value ≥ $30 and the lot is ≤ $40.
@@ -55,7 +55,13 @@ Herend/Royal Copenhagen in mixed lots; Royal Crown Derby Imari teacups; signed H
 Heavy and breakable: double-box, each piece wrapped. Tea set 10–15 lb ($25–40); single piece $8–12.
 
 ## Selling it (for the buyer-facing listing)
-Pattern name and number, backstamp photo, piece count, dimensions, flaws under raking light; note "not microwave safe" for gold.
+- **Title words:** maker + pattern name + pattern number + piece or "service for N" + count + "fine china" + gold/cobalt. Junk: "dishes", "beautiful", "set of plates" alone. `Herend Rothschild Bird Dinner Plate 10.5in Hungary Hand Painted`
+- **Where:** eBay BIN with offers for high-end patterns and single pieces; Replacements buy-back as a floor; FB local for full services and import tea sets (heavy, slow).
+- **Price position:** high-end pieces at the sold median, accept −15%, floor 70%; full services at the sold $50–300 range OBO, cut 25% after 60 days; orphans in lots.
+- **Photos:** piece or stacked set on white; backstamp with pattern name/number; rims under raking light; gold trim wear; count laid out; any chips/crazing close-up.
+- **State:** maker, pattern name and number, backstamp, piece count by type, dimensions, chips/hairlines/crazing under light, gold wear, "not microwave safe" for gold, flaws by photo number.
+- **Pack / haul:** carry-on, tea set 10–15 lb double-boxed with each piece wrapped $25–40; single piece $8–12; full services local pickup only.
+- **Quote to a buyer:** "[Maker pattern], [count] pieces, all marked, no chips; Replacements lists this [piece] at [$] each and this lot is [price] for the set."
 
 ## Buy rule
 Profit = median × 0.87 − shipping both ways − price.

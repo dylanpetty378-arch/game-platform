@@ -1,5 +1,5 @@
 # Frankoma pottery (Frank Pottery / Frankoma, Norman then Sapulpa, Oklahoma)
-Updated: 2026-10-13 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("frankoma pottery" median $14.75 n=50, p25 $10 p75 $20.22; "Frankoma 235 cogwheel planter" median $18 n=5: $18 Oct 25 2025, $15 Mar 8 2026, $5 Aug 28 2026, $19.99 Sep 23 2026, $39 Dec 1 2025); Susan Cox, "Collectors Guide to Frankoma Pottery" (reference, appears as a $14.99 sale in comps); Frankoma Family Collectors Association (general knowledge, verify). No web search this run.
+Updated: 2026-10-28 · Sources: Terapeak 365-day sold data in /home/claude/game-platform/db/comps.jsonl ("frankoma pottery" median $14.75 n=50, p25 $10 p75 $20.22; "Frankoma 235 cogwheel planter" median $18 n=5: $18 Oct 25 2025, $15 Mar 8 2026, $5 Aug 28 2026, $19.99 Sep 23 2026, $39 Dec 1 2025); Susan Cox, "Collectors Guide to Frankoma Pottery" (reference, appears as a $14.99 sale in comps); Frankoma Family Collectors Association (general knowledge, verify). No web search this run.
 Slug: frankoma-pottery · Aliases: Frankoma, Frank pottery, Ada clay, Sapulpa clay, Oklahoma pottery, Frankoma Plainsman, Mayan Aztec, Wagon Wheel, Frankoma Christmas plate, political mug
 Summary: Dinnerware, mugs, Christmas/bicentennial plates, common planters and vases $5–25; pre-1954 Ada-clay figurines, early Norman-mark pieces $40–200; rare sculptures (Joseph Taylor), Pot & Puma mark, early Norman pieces $150–1,000+.
 Buy rule (short): Pass on red-clay (Sapulpa) Frankoma; buy Ada-clay (cream/tan body) figurines and "Frank Potteries/Pot & Puma" marked pieces at ≤ $20.
@@ -49,7 +49,13 @@ Ada clay vs red clay: same mould, very different value. Lens matches of $900+ fo
 1–4 lb, thick stoneware, double box $10–15.
 
 ## Selling it (for the buyer-facing listing)
-Mould number, glaze name, clay colour photo of foot, dimensions.
+- **Title words:** "Frankoma" + mould number + form (vase / figurine / planter) + glaze name + "Ada clay" or "Pot & Puma" when true + height. Junk: "Oklahoma pottery", "mid century vase" alone, "rare" for red-clay commons. `Frankoma Ada Clay Fan Dancer Figurine Prairie Green 1940s Pot & Puma`
+- **Where:** eBay BIN with offers (Texas/Oklahoma collector base); commons local or in lots.
+- **Price position:** at the sold median ($15–18 commons; $60–300 Ada figurines), accept −15%, floor 75%; OBO; cut 15% after 30 days.
+- **Photos:** piece on white; foot showing clay colour (cream/tan Ada vs red Sapulpa); mould number and mark; glaze close up; rim and edges for chips; next to a ruler.
+- **State:** mould number, glaze name, clay colour from the foot photo, mark/era, dimensions, chips/crazing/glaze skips by photo number.
+- **Pack / haul:** shoebox, 1–4 lb thick stoneware, double-box $10–15; wrap rims.
+- **Quote to a buyer:** "Frankoma [mould] [form] in [glaze], [Ada clay / Pot & Puma mark] from [dates], no chips; the later red-clay version sells for [$] and Ada-clay pieces bring [$]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$12 ship to buyer − ~$12 ship to Dylan − price ≥ max($50, price). Needs resale ≥ ~$85: only Ada-clay figurines/Pot & Puma pieces at ≤ $20. Pass on red-clay planters, mugs, plates.

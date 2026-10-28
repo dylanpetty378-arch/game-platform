@@ -1,5 +1,5 @@
 # Diecast model cars 1:18 / 1:24 / 1:43 (Franklin Mint, Danbury Mint, Carousel 1, Exoto, AUTOart, Kyosho, Ertl)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: sweep listing Tucson 2026-10 (Carousel 1 #4501 1955 Indy Kurtis Kraft, seller cites "$100–200 on eBay"), Franklin Mint 1967 VW Beetle w/ case CL $85, 2002 Neiman Marcus Thunderbird $69, Ertl John Deere 541 $20; eBay sold knowledge; Google Lens (asking-price) checks 2026-10-13. · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: sweep listing Tucson 2026-10 (Carousel 1 #4501 1955 Indy Kurtis Kraft, seller cites "$100–200 on eBay"), Franklin Mint 1967 VW Beetle w/ case CL $85, 2002 Neiman Marcus Thunderbird $69, Ertl John Deere 541 $20; eBay sold knowledge; Google Lens (asking-price) checks 2026-10-13. · tells 2026-10-13
 Slug: diecast-model-cars · Aliases: diecast collection, model car, 1:18 scale, 1/24 Franklin Mint, Danbury Mint car, precision model, Hot Wheels lot, Matchbox lot, Yatming
 Summary: Maisto/Bburago/Welly/promos $10–40; boxed Franklin/Danbury, AUTOart/Kyosho $50–150; Carousel 1, Exoto, CMC, Danbury 1:12/trucks $120–400; Exoto Motorbox, rare CMC, pewter/sterling Danbury $400–1,500+.
 Buy rule (short): Carousel 1 / Exoto / CMC under $50; Danbury 1:12 or trucks under $40 boxed; lots ≤ $5/car with premium bases. Pass Franklin/Danbury 1:24 over $30 and all budget brands.
@@ -72,7 +72,13 @@ Carousel 1 / Exoto / CMC bases in a "diecast collection $5 each" lot. Franklin/D
 1:18 in box ~3–4 lb, $15–20 each way; damage-prone (mirrors/antennas) – pack in original styrofoam. eBay 13%.
 
 ## Selling it (for the buyer-facing listing)
-State brand, scale, model/year, edition number, box/styrofoam/certificate present, any broken or missing small parts. Photograph the chassis plate, all sides, the interior and the box. Title: brand + scale + car + year + "boxed"/"with certificate" (general knowledge, verify).
+- **Title words:** brand (Exoto / CMC / Carousel 1 / Danbury Mint / AUTOart) + scale + car and year + "boxed"/"with certificate" + edition/colour. Junk: "diecast lot", "toy car", "collectible" alone. `Exoto 1:18 Ford GT40 Mk IV 1967 Le Mans Motorbox Signature Series Boxed`
+- **Where:** eBay BIN with offers (collectors buy by brand and subject); farm toys sell well regionally in the Midwest. No local premium.
+- **Price position:** at the sold median for brand and subject (Franklin/Danbury boxed $50–150 at best, CMC ~$540), accept −10%, floor 80%; OBO; cut 10% after 30 days.
+- **Photos:** car three-quarter front on white; all sides; interior and engine bay open; chassis plate; box, styrofoam and certificate; any broken mirror/antenna close up.
+- **State:** brand, scale, model/year, edition number, box/styrofoam/certificate present, broken or missing small parts, display case, dust/paint rash by photo number.
+- **Pack / haul:** shoebox, 1:18 boxed 3–4 lb, $15–20; pack in the original styrofoam, box inside a box, no loose movement (mirrors/antennas snap).
+- **Quote to a buyer:** "[Brand] 1:18 [car year], [edition/number] with box and certificate, all mirrors and wipers intact; [brand] is discontinued and this subject lists at [$] on the collector boards, Franklin-tier models go for [$]."
 
 ## Buy rule
 Buy when: Carousel 1 / Exoto / CMC under $50; Danbury Mint 1:12 or truck series under $40 boxed; lots ≤ $5/car showing premium bases. Pass when: Franklin/Danbury 1:24 over $30, Maisto/Bburago/promos at any price, pickup-only sellers. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Fits a passenger seat.

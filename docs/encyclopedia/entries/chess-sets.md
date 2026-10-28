@@ -1,5 +1,5 @@
 # Vintage chess sets (Jaques, Drueke, Soviet/Russian painted, Staunton, Renaissance, Anri, Mexican onyx, Chinese ivory/bone)
-Updated: 2026-10-13 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Staunton_chess_set ; Jaques of London history (jaqueslondon.co.uk); no comps in db/comps.jsonl
+Updated: 2026-10-28 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Staunton_chess_set ; Jaques of London history (jaqueslondon.co.uk); no comps in db/comps.jsonl
 Slug: chess-sets · Aliases: chess board, wooden chess set, hand carved chess, Russian chess set, Soviet chess, matryoshka chess, Staunton chess, travel chess, Drueke chess, onyx chess set
 Summary: modern/import wooden and onyx sets $15–50; Drueke and mid-century US Staunton sets $40–120; Soviet-era painted/carved Russian, Uzbek "Tatar vs Russian" sets $60–250; weighted Soviet "Grandmaster" Staunton $150–400; Jaques of London 19th-c. sets $500–5,000+
 Buy rule (short): Buy only complete Soviet-era themed/weighted sets ≤ $40 or anything Jaques-stamped; Indian/Chinese tourist sets, onyx and painted-resin themed sets are pass.
@@ -53,7 +53,13 @@ Strong steady chess interest (post-2020 boom). Soviet tournament sets sell fast;
 Shoebox to carry-on size, 2–6 lb; wrap pieces individually; board separately. $12–25.
 
 ## Selling it (for the buyer-facing listing)
-Count and photograph all 32 pieces, king height, base diameter, labels/stamps, board size, damage.
+- **Title words:** maker/origin (Jaques / Drueke / Soviet USSR) + "chess set" + Staunton/painted/weighted + "complete 32" + king height + box/board. Junk: "chess game", "vintage board game", "handmade". `Soviet USSR Weighted Tournament Chess Set Complete 32 Pieces King 4in Box`
+- **Where:** eBay BIN with offers (strong steady demand; Soviet sets sell in days); auction for Jaques. Christmas bump.
+- **Price position:** at the sold median for the type, accept −10%, floor 80%; OBO; cut 10% after 21 days; tourist/onyx sets priced to clear locally.
+- **Photos:** all 32 pieces arranged on the board; king next to a ruler; knights close-up (carving style); base undersides with stamps/labels (USSR, Jaques); box exterior and interior; any chips.
+- **State:** maker/origin, all 32 pieces counted, king height, base diameter, weighted or not, labels/stamps, board size and material, box, chips/repairs/replacement pieces by photo number.
+- **Pack / haul:** shoebox to carry-on, 2–6 lb; wrap each piece, board separate, $12–25; no double-box unless a wooden box is included.
+- **Quote to a buyer:** "[Soviet tournament / Drueke / Jaques] set, [era], complete 32 with the [stamp/label], king [height]; a new weighted tournament set runs [$] and these originals are what players collect."
 
 ## Buy rule
 Profit = median × 0.87 − ~$18 − ~$18 − price ≥ max($50, price). Soviet painted sets (median ~$120) only qualify at ≤ $25; tournament weighted sets (~$200) at ≤ $60. Need a confirmed complete count before buying. Fits a car seat.

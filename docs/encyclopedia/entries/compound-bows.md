@@ -1,5 +1,5 @@
 # Compound bows (used, 1995–2015 era – Hoyt, Mathews, Bowtech, PSE, Bear, Elite, Prime)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold listing 405531369586 (Hoyt UltraTec XT2000, sold Aug 2025 for $200 best-offer, $82 shipping as listed); eBay product page 73595047 (UltraTec XT2000 asks $300, MAGNATec XT2000 "needs string" $150, ProTec XT2000 $275); Terapeak (Hoyt UltraTec: 15 sold, median $200, p25 $150, p75 $235, pulled 2026-10-12); general ArcheryTalk classifieds knowledge
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold listing 405531369586 (Hoyt UltraTec XT2000, sold Aug 2025 for $200 best-offer, $82 shipping as listed); eBay product page 73595047 (UltraTec XT2000 asks $300, MAGNATec XT2000 "needs string" $150, ProTec XT2000 $275); Terapeak (Hoyt UltraTec: 15 sold, median $200, p25 $150, p75 $235, pulled 2026-10-12); general ArcheryTalk classifieds knowledge
 Slug: compound-bows · Aliases: compound bow, hunting bow, target bow, Hoyt bow, Mathews bow, archery bow, bow package
 Summary: 1980s wheel bows, Buckmaster, youth bows $20–60; 2005–15 PSE/Bear/Diamond $80–180; Hoyt UltraTec/ProTec/Vectrix, Mathews Switchback/Drenalin, Bowtech Guardian $180–300 (Terapeak median $200 for UltraTec); flagship bows < 5 yrs old $350–800.
 Buy rule (short): Buy named Hoyt/Mathews/Bowtech/Elite under $60 with sight and rest, or under $100 with spare limbs/case; pass no-name, 1980s wheel bows, cracked limbs/cams, and > $120 unless < 5 yrs old.
@@ -53,7 +53,13 @@ Model name is only machined into the riser; sellers list "Hoyt bow" with no mode
 Bow in soft case ~6–8 lb but 40" long: ships UPS Ground/USPS in a long box $30–50. Do not dry-fire. Resell on eBay (13%) or ArcheryTalk/Facebook archery groups (no fee). Some carriers have rules on shipping bows – check (general knowledge, verify).
 
 ## Selling it (for the buyer-facing listing)
-Brand, model, year, hand (RH/LH), draw weight range, draw length/module, ATA, limb model, string condition, included accessories. Photograph riser model marking, limb labels, both cams, full bow, accessories.
+- **Title words:** brand + model + "compound bow" + RH/LH + draw weight + draw length + ATA + year + accessories. Junk: "hunting bow", "archery", "adult bow". `Hoyt UltraTec Compound Bow RH 50-60lb 29in XT3000 Limbs Sight Rest`
+- **Where:** eBay BIN with offers (list Aug–Oct); ArcheryTalk classifieds and FB archery groups sell for more net (no fee) to target archers.
+- **Price position:** at the sold median (UltraTec ~$200), accept −10%, floor 80%; OBO; cut 10% after 21 days, 20% after October.
+- **Photos:** full bow side on; riser model machining; limb labels (weight/deflection); both cams; string and cable serving; accessories laid out; case.
+- **State:** brand, model, year, hand, draw weight range, draw length/module, ATA, limb model, string condition ("needs string" is fine), accessories included, cracks/dry-fire none, flaws by photo number.
+- **Pack / haul:** passenger-seat, 6–8 lb but 40" long; long box $30–50, bow in soft case, accessories removed or taped, never dry-fire; check carrier rules.
+- **Quote to a buyer:** "[Brand model], [year], [draw/weight], limbs and cams sound, with [sight/rest/stabilizer]; a current [brand] flagship is [$] and this one shoots the same with [$] in accessories included."
 
 ## Buy rule
 Buy when: named Hoyt/Mathews/Bowtech/Elite under $60 complete with sight and rest, or under $100 with spare limbs/case. Pass when: no-name, 1980s wheel bow, cracked limbs or cam, or price over $120 unless < 5 yrs old. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (a 40" bow case does).

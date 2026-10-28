@@ -1,5 +1,5 @@
 # Camera tripods & gimbals (Manfrotto, Gitzo, DJI)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: agent knowledge of eBay/MPB sold bands 2025 (verify); run12 sheets 56–58
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: agent knowledge of eBay/MPB sold bands 2025 (verify); run12 sheets 56–58
 Slug: camera-tripods · Aliases: tripod, camera tripod, carbon fiber tripod, Bogen tripod, Manfrotto legs, ball head, video head, gimbal, stabilizer, Ronin
 Summary: Velbon/Sunpak/Ambico aluminium $10–25; Manfrotto aluminium with head $50–100; Manfrotto carbon + head, Gitzo aluminium, DJI RS2 $150–300; Gitzo carbon Systematic, RRS, Sachtler $400–1,500.
 Buy rule (short): Buy Gitzo/RRS/Sachtler under $100 or Manfrotto carbon + head under $80; pass aluminium Manfrotto at $40+ and anything priced at market.
@@ -48,7 +48,13 @@ Gitzo and RRS names ("carbon fiber tripod $40"). Manfrotto is always named.
 3–6 lb, long box – $20–30 each way. Pack heads separately or locked; protect leg tips.
 
 ## Selling it (for the buyer-facing listing)
-State brand, exact model of legs and head, material (carbon/aluminium), max height, folded length, weight, load capacity, plate type (RC2, Arca), and leg-lock condition. Photograph labels, spider, feet, extended legs and head.
+- **Title words:** brand + legs model + head model + "carbon fiber"/"aluminum" + "tripod" + max height. Junk: "camera stand", "heavy duty", "pro". `Gitzo GT3542LS Systematic Carbon Fiber Tripod Legs 3 Series`
+- **Where:** eBay BIN with offers for Gitzo/RRS/Manfrotto carbon (buyers search by model); FB local for aluminium Manfrotto and video tripods (shipping eats margin). MPB buys outright.
+- **Price position:** at the sold median for the model, accept −10%, floor 80%; OBO; cut 10% after 21 days; aluminium Manfrotto priced to move locally.
+- **Photos:** fully extended on plain background; leg label/model plate; spider and centre column; leg locks and feet; head with plate (RC2/Arca); folded length next to a tape.
+- **State:** brand, legs model, head model, material, max height, folded length, weight, load capacity, plate type, lock function, scratches/stuck sections by photo number.
+- **Pack / haul:** long box, 3–6 lb, $20–30 each way; lock or remove the head and pack separately, pad leg tips, no double-box needed.
+- **Quote to a buyer:** "[Brand model] carbon legs with [head], new they're [$] + [$]; this set is [height] max, locks all firm, plate included — the setup landscape shooters actually use."
 
 ## Buy rule
 Buy when: Gitzo/RRS/Sachtler under $100, or Manfrotto carbon + head under $80. Pass when: aluminium Manfrotto at $40+ (6817), carbon at $199 (6892). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (studio/cine tripods that don't are excluded).

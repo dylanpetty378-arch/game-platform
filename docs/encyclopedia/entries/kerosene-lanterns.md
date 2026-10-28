@@ -1,5 +1,5 @@
 # Kerosene lanterns (Dietz, Embury, Adams & Westlake (Adlake), Handlan, Dressel, Armspear, CT Ham, Perkins, Feuerhand, Hurricane/Paull's, Defiance, Barn lanterns; railroad lanterns)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget; estimates, verify); comps.jsonl type kerosene-oil-lamps (Terapeak 365d: generic "glass kerosene lamp" median $24.48, n=47, p25 $16, p75 $31; mostly chimneys/lamps, not lanterns); verification: eBay sold https://www.ebay.com/sch/i.html?_nkw=dietz+lantern&LH_Sold=1 ; Dietz history https://www.dietzlanterns.com/ (and collector sites on dating Dietz by patent dates); railroad lanterns: key-lock.com and railroadiana collector clubs
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget; estimates, verify); comps.jsonl type kerosene-oil-lamps (Terapeak 365d: generic "glass kerosene lamp" median $24.48, n=47, p25 $16, p75 $31; mostly chimneys/lamps, not lanterns); verification: eBay sold https://www.ebay.com/sch/i.html?_nkw=dietz+lantern&LH_Sold=1 ; Dietz history https://www.dietzlanterns.com/ (and collector sites on dating Dietz by patent dates); railroad lanterns: key-lock.com and railroadiana collector clubs
 Slug: kerosene-lanterns · Aliases: oil lantern, barn lantern, hurricane lantern, cold blast lantern, tubular lantern, Dietz lantern, railroad lantern, RR lantern, brakeman lantern, conductor lantern, dead flame lantern
 Summary: Common modern/post-1960 tubular lanterns $10–30; 1900s–1950s Dietz/Embury/Ham barn lanterns $25–70; brass-fount early or scarce models (Dietz Vesta, Little Wizard brass, Embury Air Pilot early) $60–150; railroad lanterns with marked railroad on frame and etched/cast globe $100–400; colored-globe or embossed RR conductor's lanterns $400–2,000+.
 Buy rule (short): Only buy lanterns with a railroad name stamped in the frame/top or embossed/etched on the globe, or brass/scarce models, at ≤ 1/3 resale; pass on ordinary barn lanterns over $15 each and anything electrified.
@@ -49,7 +49,13 @@ RR initials stamped into the top or bell-bottom are easy to miss; small Embury/D
 Globe is fragile: wrap separately. Box 12×12×18; $20–30 each. Remove fuel; ship dry.
 
 ## Selling it (for the buyer-facing listing)
-Photograph globe markings, patent dates on tubes, base stampings, burner. State "not tested with fuel" unless tested and whether electrified.
+- **Title words:** maker + model (Dietz No. 2 Blizzard / Little Wizard / Embury Air Pilot) + "kerosene lantern" + era from patent dates + "brass fount" + railroad initials and globe marking when present. Junk: "antique barn lantern" for Chinese Dietz, "farmhouse decor", "oil lamp". `Adlake Kero Railroad Lantern PRR Marked Frame Etched Clear Globe 1920s`
+- **Where:** eBay BIN with offers for railroad-marked and brass/scarce models (informed collector base); FB local for plain barn lanterns (commodity decor). Coloured/embossed RR globes at auction.
+- **Price position:** at the sold median ($25–70 common old; $100–300 RR-marked; $300+ coloured globes), accept −10%, floor 80%; OBO; cut 15% after 30 days; modern imports $10–30 firm.
+- **Photos:** lantern on plain background; globe markings; patent dates on tubes; top/bell-bottom stampings (RR initials); burner and wick; fount base; any dents or rust; electrified cord if present.
+- **State:** maker, model, patent dates, country (USA vs later China), fount material, globe marking and whether original, RR initials transcribed, "not tested with fuel" unless tested, electrified yes/no, dents by photo number.
+- **Pack / haul:** carry-on, ~3 lb; globe wrapped separately, 12×12×18 box $20–30; fuel removed, shipped dry, burner taped.
+- **Quote to a buyer:** "[Adlake/Dietz] [model] stamped [PRR] with the original [etched] globe, patent dates [years]; Chinese Dietz copies sell for [$] and railroad-marked originals bring [$]."
 
 ## Buy rule
 Profit = resale × 0.87 − ~$25 out − ~$20 in − price ≥ max($50, price). Common barn lantern ($50 resale) never qualifies. Railroad-marked at $200 resale: buy at ≤ $65 (Tier A ≤ $40). Pass on electrified.

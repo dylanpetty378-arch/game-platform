@@ -1,5 +1,5 @@
 # Carpet sweepers (Bissell, Grand Rapids Carpet Sweeper Co., Goshen, National, Ewbank, Sweeper-Vac; toy sweepers)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references to consult: Bissell company history https://www.bissell.com/about-us (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references to consult: Bissell company history https://www.bissell.com/about-us (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: carpet-sweepers · Aliases: brush sweeper, floor sweeper, antique sweeper, Bissell Grand Rapids, rug sweeper, push sweeper, toy carpet sweeper, Little Queen sweeper, Sweeper-Vac
 Summary: 1930s–70s metal/wood Bissell and look-alikes $15–45; 1880–1920s wooden-case sweepers with decals, figured veneers or patent stencils $40–120; salesman samples and toy/child sweepers with original paint $40–150.
 Buy rule (short): Buy only toy/child-size sweepers and 1880s–1910s veneered or decaled sweepers with intact brushes at ≤ $20; full-size common sweepers fail on shipping.
@@ -54,7 +54,13 @@ Small, slow niche: primitives and farmhouse décor buyers, a few appliance colle
 Full size: unscrew handle; case alone ~5–8 lb, box 16x12x8, $18–28; handle requires a long box ($25+) — many sellers ship without handle. Toys: 1–2 lb, $10–14.
 
 ## Selling it (for the buyer-facing listing)
-Maker, model name from the decal, case wood, width, patent dates, whether the brush turns, decal condition, and whether the handle is included.
+- **Title words:** maker (Bissell / Grand Rapids / Goshen / Sweeper-Vac) + model name from decal + "carpet sweeper" + "antique" + wood/oak + patent date; "toy"/"child's" if small. Junk: "primitive", "farmhouse decor", "vacuum". `Antique Bissell Cyco Bearing Oak Carpet Sweeper Patent 1890s Decal Works`
+- **Where:** FB local for full-size (handle shipping kills eBay); eBay BIN with offers for toy/child sweepers and decaled early cases.
+- **Price position:** at the sold median ($25–65 common), accept −20%, floor $20 local; OBO; cut 20% after 30 days.
+- **Photos:** case top with decal; underside brushes and wheels; patent-date stamps; case ends/veneer; handle attached and full length; brush turning (short video).
+- **State:** maker, model name from decal, case wood, width, patent dates, brush turns yes/no, decal condition, handle included or not, veneer lifting by photo number.
+- **Pack / haul:** passenger-seat; unscrew handle, case 5–8 lb in a 16x12x8 box $18–28, handle needs a long box ($25+) or stays home; toys 1–2 lb $10–14.
+- **Quote to a buyer:** "[Maker model] from the [1890s/1910s] with the original decal and figured [wood] case, brush still turns; plain 1950s Bissells sell for [$] and the decaled early ones for [$]."
 
 ## Buy rule
 A full-size sweeper selling for $60 nets ~$52 before ~$25 shipping each way: a loss. Buy only toy/child sweepers or premium early decorated sweepers at ≤ $20 where sold ≥ $100. Must fit in a passenger seat (handle off — it fits). Pass on 1930s+ utility sweepers.

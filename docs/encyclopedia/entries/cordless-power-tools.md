@@ -1,5 +1,5 @@
 # Cordless & corded power tools (Milwaukee, DeWalt, Makita, Hilti, Festool, Ryobi, Craftsman)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: sweep listings 2026-10 (Milwaukee Sawzall $40/$55, Super Sawzall corded $40, M12 3/8 ratchet tool-only $100, Milwaukee XC8.0 battery $125, Milwaukee cable stapler $180, deep-cut band saw $150, 6065 sander $85, DeWalt 12" miter $200, DeWalt 2 impact drills $160, Hilti B22-255 battery $150, Festool Toolie $130, Ryobi 8Ah battery $90, Ryobi sliding miter new $200, Senco nail gun $165, Kreg jig $75, Delta 8" grinder $150); eBay sold knowledge
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: sweep listings 2026-10 (Milwaukee Sawzall $40/$55, Super Sawzall corded $40, M12 3/8 ratchet tool-only $100, Milwaukee XC8.0 battery $125, Milwaukee cable stapler $180, deep-cut band saw $150, 6065 sander $85, DeWalt 12" miter $200, DeWalt 2 impact drills $160, Hilti B22-255 battery $150, Festool Toolie $130, Ryobi 8Ah battery $90, Ryobi sliding miter new $200, Senco nail gun $165, Kreg jig $75, Delta 8" grinder $150); eBay sold knowledge
 Slug: cordless-power-tools · Aliases: power tools, cordless drill, impact driver, tool lot, box of tools, Milwaukee M18, DeWalt 20V, Makita 18V, Festool, Hilti, Sawzall, battery pack, tool-only
 Summary: Ryobi/B&D/Craftsman/HF and corded hand tools $10–40; single pro-brand tools, corded saws, Kreg jigs, grinders $50–150; Festool, Hilti, M18 Fuel kits, band saws, Paslode, FlexVolt, big genuine batteries $150–500; Festool Domino/track saws, Hilti TE, Mafell, Lamello $500–1,500.
 Buy rule (short): Buy Festool/Hilti under 40% of sold, Milwaukee/DeWalt estate lots ≤ $5/tool, genuine HD12.0/XC8.0 batteries under $40 with hologram photo; pass Ryobi/Craftsman/B&D, single pro tools within $40 of sold, anything over 40 lb.
@@ -52,7 +52,13 @@ Almost nothing – tool sellers know brands. The only spreads: estate lots ("box
 Drills 3–6 lb ($12–18); saws/band saws 10–20 lb ($25–40); miter saws 40–60 lb ($60–90 – local only). eBay 13%. Lithium batteries must ship ground with terminals protected (general knowledge, verify carrier rules).
 
 ## Selling it (for the buyer-facing listing)
-Brand, exact model number, tool-only vs kit, battery Ah and date code, tested (video link), included accessories/case/charger, cosmetic condition. Photograph the model/serial label, battery label and hologram, running shot, accessories.
+- **Title words:** brand + exact model number + tool type + voltage/line (M18 Fuel, 20V MAX XR, FlexVolt) + "tool only"/"kit" + "tested". Junk: "power tool lot", "works great", "heavy duty". `Milwaukee 2804-20 M18 Fuel Hammer Drill Tool Only Tested Working`
+- **Where:** eBay BIN with offers for Festool/Hilti/batteries (buyers search model numbers); FB Marketplace/OfferUp for drills and anything over 20 lb, often at the same price with no fee.
+- **Price position:** at the sold median for the model (tool-only vs kit), accept −10%, floor 85%; OBO; cut 10% after 10 days.
+- **Photos:** tool on plain background; model/serial label; battery label and hologram with Ah; running (short video); chuck/blade/foot condition; charger, case and accessories.
+- **State:** brand, exact model, tool-only or kit, battery Ah and date code, tested with video, included charger/case/accessories, cosmetic wear and missing parts by photo number.
+- **Pack / haul:** carry-on; drills 3–6 lb $12–18, saws 10–20 lb $25–40, miter saws 40–60 lb local only; batteries ground only with terminals taped, blades removed, case latched.
+- **Quote to a buyer:** "[Brand model], [year], tested on video; this is the brushless [Fuel/XR] line that sells new for [$] tool-only and this one comes with [battery Ah/charger/case]."
 
 ## Buy rule
 Buy when: Festool/Hilti under 40% of sold; Milwaukee/DeWalt estate lots ≤ $5/tool; genuine HD12.0/XC8.0 batteries under $40 with hologram photo. Pass when: Ryobi/Craftsman/B&D, single Milwaukee/DeWalt tools priced within $40 of sold, anything over 40 lb, batteries without hologram/date-code photos. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (large bench/stationary tools are "bigger" and excluded).

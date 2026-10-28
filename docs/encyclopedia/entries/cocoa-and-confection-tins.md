@@ -1,5 +1,5 @@
 # Cocoa and confection tins (Walter Baker & Co., Droste, Huyler's, Van Houten, Bensdorp, Runkel, Lowney's, Hershey's)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no cocoa rows; closest: advertising-tins (generic "advertising tins" median $14.95, n=47, p25 $12.99, p75 $15.28; "assorted tins" median $19.07, n=46) and tobacco-tins (Edgeworth median $13.99 n=50; Sir Walter Raleigh $15.96 n=50), 365-day window to 2026-10-13. To verify: Tin Container Collectors Association (https://www.tcca.org), eBay sold "baker's cocoa tin", "huyler's cocoa", "droste cocoa tin".
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Terapeak via /home/claude/game-platform/db/comps.jsonl – no cocoa rows; closest: advertising-tins (generic "advertising tins" median $14.95, n=47, p25 $12.99, p75 $15.28; "assorted tins" median $19.07, n=46) and tobacco-tins (Edgeworth median $13.99 n=50; Sir Walter Raleigh $15.96 n=50), 365-day window to 2026-10-13. To verify: Tin Container Collectors Association (https://www.tcca.org), eBay sold "baker's cocoa tin", "huyler's cocoa", "droste cocoa tin".
 Slug: cocoa-and-confection-tins · Aliases: cocoa can, chocolate tin, Baker's Breakfast Cocoa, La Belle Chocolatière tin, Droste nurse tin, Dutch cocoa tin, candy tin, Huyler's tin, sample tin
 Summary: modern/repro and 1950s+ Droste $5–20; common early-1900s Baker's/Huyler's/Lowney's full-size $15–45; sample/trial-size and clean pre-1920 paper-label or lithographed rarities $40–150+ (general knowledge, verify)
 Buy rule (short): Buy only ≤ $15 and only for sample-size or pre-1920 lithographed tins in clean condition; most cocoa tins can't reach $50 profit.
@@ -49,7 +49,13 @@ Mature, slow, collector-driven; older collectors aging out. Dozens of cocoa tins
 Light (4–12 oz). Pack so lids don't pop and corners don't dent: small box, bubble wrap. $5–9 Ground Advantage.
 
 ## Selling it (for the buyer-facing listing)
-Brand, size, approximate date (from address/litho), lid present, close-ups of every dent and rust spot, note "no barcode", contents empty. Title with brand + "cocoa tin" + size.
+- **Title words:** brand (Walter Baker / Droste / Huyler's / Van Houten / Lowney's) + "cocoa tin" + size (sample / 1/2 lb / 1 lb) + litho/paper label + era. Junk: "antique advertising", "rare", "country store" alone. `Walter Baker & Co Breakfast Cocoa Sample Tin 1900s La Belle Chocolatiere`
+- **Where:** eBay BIN with offers (TCCA collectors search by brand); lots of 1950s+ commons locally or bundled.
+- **Price position:** at the sold median ($10–30 common; $40–120 sample/pre-1920), accept −15%, floor 75%; OBO; cut 15% after 30 days.
+- **Photos:** front panel straight on; each side; lid on and off; interior; base with maker/address; every dent and rust spot close up; next to a ruler.
+- **State:** brand, size, approximate date from address/litho, lid present, contents empty, no barcode, dents/rust/scratches by photo number, repro or reissue if so.
+- **Pack / haul:** shoebox, 4–12 oz, small box with bubble so the lid can't pop and corners don't dent, $5–9 Ground Advantage.
+- **Quote to a buyer:** "[Brand] [size] cocoa tin, [era] from the [address/trademark], lithographed not paper-labelled, lid intact; the 1950s commons go for [$] and clean pre-1920 [sample] tins for [$]."
 
 ## Buy rule
 Profit = median × 0.87 − ~$7 to buyer − ~$7 to Dylan − price ≥ max($50, price). A $100 resale tin bought at $15 makes ~$58 – so only true sample tins/rare brands at ≤ $15–25 qualify. Ordinary cocoa tins: pass. Size: pocket/shoebox, fine.

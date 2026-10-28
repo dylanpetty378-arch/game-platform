@@ -1,5 +1,5 @@
 # Golf putters (Scotty Cameron, Ping, Bettinardi, Sacks Parente, Odyssey, hickory antiques)
-Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: eBay sold knowledge 2024–25; GolfWRX classifieds; Sacks Parente retail $400–500 (used $150–300); George Nicoll Leven hickory putters eBay sold $40–120.
+Updated: 2026-10-28 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: eBay sold knowledge 2024–25; GolfWRX classifieds; Sacks Parente retail $400–500 (used $150–300); George Nicoll Leven hickory putters eBay sold $40–120.
 Slug: golf-putters · Aliases: putter, Scotty Cameron putter, Ping Anser, Bettinardi, Sacks Parente, hickory putter, antique golf club, old putter
 Summary: Odyssey two-ball, Wilson, Ray Cook, Cobra, department-store $20–60; Ping Anser (Phoenix), Odyssey Toulon, Sacks Parente, Spider $100–250; Scotty Newport/Studio, Ping Scottsdale Anser, Bettinardi $250–600; Circle T/Tour, Ping 1A/Redwood, long-nose woods $1,000–10,000.
 Buy rule (short): Scotty Cameron ≤ $100, Ping Scottsdale ≤ $80, Sacks Parente ≤ $60, hickory Nicoll/Stewart ≤ $25; pass sellers who name the model and ask within 30% of market.
@@ -62,7 +62,13 @@ Ping sole stampings (Scottsdale/Phoenix/Karsten Mfg = pre-1970s). Scotty Cameron
 2 lb, 40" box – $20–25. Resell on eBay/GolfWRX/Sidelineswap.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model, length, loft/lie if known, sole stamping, grip, headcover, RH/LH, any refinish. Photograph sole, face, top line, shaft band and headcover. Title: "Scotty Cameron [model] putter 34in RH w/ headcover".
+- **Title words:** maker + model + length + hand + "putter" + "w/ headcover" + sole stamping (Scottsdale / BeCu / Circle T) when it applies. Junk: "old putter", "vintage golf club" alone, "rare" without the stamp. `Scotty Cameron Newport 2 Putter 34in RH Titleist w/ Headcover`
+- **Where:** eBay BIN with offers (spring peak); GolfWRX classifieds and SidelineSwap for Scotty/Ping collectors at no fee; auction for Redwood City/Circle T.
+- **Price position:** at the sold median for the model and stamp (Scottsdale ZIP Anser $150–500; Newport $250–600), accept −10%, floor 85%; OBO; cut 10% after 21 days.
+- **Photos:** sole stamping straight on; face; top line at address; shaft band; grip; headcover; any refinish, dings or rust; length against a tape.
+- **State:** maker, model, length, loft/lie if known, sole stamping transcribed, grip condition, headcover, hand, refinished or original, dings by photo number.
+- **Pack / haul:** passenger-seat, 2 lb, 40" box $20–25; head wrapped, shaft padded, headcover on, box ends reinforced.
+- **Quote to a buyer:** "[Scotty Cameron Newport / Ping Anser stamped Scottsdale 85282], [era], original finish and [headcover]; new it's [$] and the [stamp/model] is what collectors pay [$] for."
 
 ## Buy rule
 Buy when: Scotty Cameron ≤ $100, Ping Scottsdale ≤ $80, Sacks Parente ≤ $60, hickory Nicoll/Stewart ≤ $25. Pass when: seller names the model and asks within 30% of market. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Fits a passenger seat.

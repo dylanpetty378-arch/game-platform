@@ -1,5 +1,5 @@
 # Ethnic / folk / souvenir costume dolls (Hill-tribe carved dolls (Hmong, Yao/Dao, Akha, Karen), Kachina (Hopi), Japanese Hakata/Kokeshi/Gofun, Russian matryoshka, Native American beaded dolls, Klumpe, Lenci, Paris "Poupée" souvenirs, Peggy Nisbet, Mexican, Peruvian)
-Updated: 2026-10-13 · Sources: listing photo pid 7940419088 (Craigslist, viewed – ~12–14" carved wooden doll in black jacket with pink/red piping, woven sash with silver coins and bells, red cloth turban with red yarn tassels – Red Dao (Yao) costume from northern Vietnam/Laos (Sapa region), 1990s–2010s tourist craft); general knowledge (no web search this run – prices "(general knowledge, verify)"); verification references: Hopi Kachina authenticity/IACA guidance (https://www.doi.gov/iacb), Lenci doll mark guide (https://www.lenci.it/ – verify), Peggy Nisbet history, Kokeshi Wiki (https://kokeshiwiki.com/). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: listing photo pid 7940419088 (Craigslist, viewed – ~12–14" carved wooden doll in black jacket with pink/red piping, woven sash with silver coins and bells, red cloth turban with red yarn tassels – Red Dao (Yao) costume from northern Vietnam/Laos (Sapa region), 1990s–2010s tourist craft); general knowledge (no web search this run – prices "(general knowledge, verify)"); verification references: Hopi Kachina authenticity/IACA guidance (https://www.doi.gov/iacb), Lenci doll mark guide (https://www.lenci.it/ – verify), Peggy Nisbet history, Kokeshi Wiki (https://kokeshiwiki.com/). No Terapeak rows for this type in db/comps.jsonl.
 Slug: ethnic-folk-dolls · Aliases: costume doll, souvenir doll, international doll, folk art doll, hill tribe doll, Hmong doll, Asian wooden doll, kachina, Hopi doll, Japanese doll, geisha doll, kokeshi, Native American doll, Peruvian doll, Mexican doll, dolls of the world
 Summary: Souvenir/costume dolls from tourist markets (most of what turns up) $5–25; better regional craft (signed kokeshi, older Japanese Hakata clay, Klumpe felt, Peggy Nisbet with tags) $25–80; Lenci felt dolls, early Japanese Gofun Ichimatsu, signed Hopi Katsina (Kachina) carvings, early 20th-century Native American beaded dolls $100–2,000+.
 Buy rule (short): Pass tourist costume dolls (hill-tribe, Peruvian, Mexican, flag dolls, Dolls-of-the-World); buy only signed Hopi carvings, Lenci felt, old Japanese gofun/Hakata, signed creative kokeshi at ≤ 25% of the ladder – Native American items need provenance (pass if unclear).
@@ -45,7 +45,13 @@ Lenci and Japanese gofun dolls are often in "foreign doll" lots priced $10–20;
 Light (1–2 lb), box with padding $10–14; protect accessories.
 
 ## Selling it (for the buyer-facing listing)
-State culture/region of costume as "in the style of" unless documented, materials, height, signatures/tags, and condition.
+- **Title words:** maker/tradition (Lenci / Klumpe / Peggy Nisbet / Hakata / kokeshi / Hopi Katsina) + "doll" + "signed"/"tagged" + height + region "in the style of" if undocumented + era. Junk: "foreign doll lot", "souvenir", "ethnic" alone. `Lenci Felt Doll 1930s Italy 17in Original Tagged Costume Painted Face`
+- **Where:** eBay BIN with offers; Etsy for kokeshi and Klumpe decor buyers; Native American pieces need provenance — pass if unclear. Tourist dolls lots locally.
+- **Price position:** at the sold median ($25–100 Klumpe/Nisbet/Hakata/kokeshi; $150–2,000+ Lenci/Gofun/Hopi), accept −15%, floor 75%; OBO; cut 15% after 45 days.
+- **Photos:** full doll front on white; face close up; signature/tag/label; costume details and fabric; back and base; any accessories; next to a ruler.
+- **State:** maker or tradition ("in the style of" unless documented), materials (felt/clay/gofun/wood), height, signatures and tags transcribed, accessories, moth/fading/cracks by photo number.
+- **Pack / haul:** shoebox, 1–2 lb, padded box $10–14; wrap accessories separately, immobilize the head.
+- **Quote to a buyer:** "[Lenci/Hakata/signed kokeshi] doll, [era], [signed/tagged] with the original costume, [height]; tourist costume dolls sell for [$] and [maker] pieces like this bring [$]."
 
 ## Buy rule
 Tourist dolls resale $10–35 → never profitable. Pass. Buy Lenci/gofun/Hopi-signed only at ≤ $25 with resale ≥ $120, and pass Native American pieces without provenance (authentication/legal risk). Passenger-seat OK.

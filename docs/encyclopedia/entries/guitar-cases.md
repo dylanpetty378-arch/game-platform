@@ -1,5 +1,5 @@
 # Vintage guitar cases (Lifton, Geib, Stone, Victoria, Gibson brown/pink "shell", Fender tweed/brown, Harmony/Kay chipboard, Ampeg; modern SKB/Gator)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); batch file b52 Lens data
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); batch file b52 Lens data
 Slug: guitar-cases · Aliases: chipboard case, cardboard case, parlor guitar case, hard shell case, chipboard parlor case, Lifton case, Geib case, Gibson case, tweed case
 Summary: chipboard student cases $15–60; generic 1950s–70s hardshell $40–120; Geib/Lifton/Stone cases for Martin/Gibson $150–800; Fender tweed/brown and Gibson brown-with-pink-lining 1950s cases $400–2,500 (general knowledge, verify)
 Buy rule (short): Only buy branded vintage hardshells (Lifton, Geib, Fender tweed, Gibson brown/pink) that fit the passenger seat at ≤ 1/3 sold; chipboard cases are freight losers.
@@ -48,7 +48,13 @@ Lifton/Geib labels hidden inside; owners think empty cases are worthless.
 Oversize box ~42×17×6, 8–12 lb: $40–70. A full-size guitar case is borderline for passenger seat (needs reclined seat).
 
 ## Selling it (for the buyer-facing listing)
-Interior label, lining, hinge/latch condition, interior dimensions and which guitar it fits.
+- **Title words:** maker (Lifton / Geib / Stone / Victoria / Gibson / Fender) + "vintage hardshell guitar case" + era + lining colour (pink / orange plush) + fits (Les Paul / Strat / dreadnought) + interior length. Junk: "empty case", "gig bag", "chipboard" (unless true). `Vintage 1950s Lifton Hardshell Guitar Case Brown Pink Lining Fits Gibson Les Paul`
+- **Where:** Reverb BIN with offers (branded vintage cases sell quickly); FB local for chipboard and generic hardshells (shipping $40–70 kills them).
+- **Price position:** at the Reverb sold median ($150–800 Geib/Lifton; $400–2,500 Fender tweed/Gibson pink), accept −10%, floor 80%; OBO; cut 10% after 30 days.
+- **Photos:** case closed on plain floor; interior open; label inside close up; lining and neck support; each latch and hinge; handle; corners and covering wear; interior length against a tape.
+- **State:** maker from the interior label, era, covering and lining, interior dimensions and which guitar it fits, latches/hinges/handle working, odour, tears or lifting covering by photo number.
+- **Pack / haul:** passenger-seat (needs a reclined seat), 8–12 lb, oversize box ~42×17×6, $40–70; stuff the interior, tape latches shut, corners padded.
+- **Quote to a buyer:** "[Lifton/Geib] case, [1950s] with the original [pink] lining and working latches, fits a [Les Paul]; a new reissue case is [$] and period cases for these guitars bring [$] on Reverb."
 
 ## Buy rule
 Profit = median × 0.87 − ~$55 − ~$55 − price ≥ max($50, price). Chipboard: never. Lifton/Geib (median $300): ≤ $60. Gibson brown/pink 50s (median $800): ≤ $200.

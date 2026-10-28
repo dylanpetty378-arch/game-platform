@@ -1,5 +1,5 @@
 # Vintage guitar straps and accessories (Fender, Ace, Levy's, Gibson, Gretsch, Mosrite, Dunlop, D'Andrea; straps, cases, pick tins, strings, cords, tremolo arms)
-Updated: 2026-10-13 · Sources: general knowledge only (no web search this run); batch file /tmp/res/batches2/c01.md (1970s Fender monogram woven strap $15, Portland); /home/claude/game-platform/db/comps.jsonl — related rows only: "woven camera strap" Terapeak 365d median $13.19 (n=48, p25 $9.99, p75 $17.50) and "chipboard parlor guitar case" median $74.99 (n=10, p25 $62, p75 $169, top $610 1931 Washburn with case). Verify via Reverb Price Guide (reverb.com/price-guide) and eBay sold.
+Updated: 2026-10-28 · Sources: general knowledge only (no web search this run); batch file /tmp/res/batches2/c01.md (1970s Fender monogram woven strap $15, Portland); /home/claude/game-platform/db/comps.jsonl — related rows only: "woven camera strap" Terapeak 365d median $13.19 (n=48, p25 $9.99, p75 $17.50) and "chipboard parlor guitar case" median $74.99 (n=10, p25 $62, p75 $169, top $610 1931 Washburn with case). Verify via Reverb Price Guide (reverb.com/price-guide) and eBay sold.
 Slug: guitar-straps-and-accessories · Aliases: guitar strap, Fender strap, monogram strap, woven strap, hippie strap, Ace strap, Ace Guitar Strap, Levy's leather strap, vintage guitar case, tweed case, tolex case, pick tin, Gibson picks, Fender picks box, string packets, NOS strings, case candy
 Summary: modern/reissue straps and generic accessories $5–30; genuine 1960s–70s Fender monogram, Ace (Mosrite/Ventures era) and hippie woven straps $50–200; original Fender/Gibson/Gretsch cases and dealer "case candy" (pick tins, NOS string packets, hang tags, manuals) $75–1,500+ (general knowledge, verify)
 Buy rule (short): Buy vintage-era Fender/Ace/Gibson straps and NOS case-candy at ≤ 25% of sold when the photo shows period construction tells; pass on reissues, generic straps and anything in a big case unless it is a documented original Fender/Gibson case.
@@ -53,7 +53,13 @@ Small but steady; guitar-collector buyers on eBay and Reverb. Straps sell in wee
 Straps and pick tins ship in a poly mailer, $5–6 Ground Advantage. Guitar cases are big (~42×16×6) — fits a passenger seat but ships $40–80; avoid unless high value.
 
 ## Selling it (for the buyer-facing listing)
-Say "vintage, believed 1970s" only with tells shown (photos of both leather ends, back side, any tags). Note fraying, cracking, length, adjustment. Distinguish from current reissues explicitly.
+- **Title words:** maker (Fender / Ace / Gretsch / Gibson) + item (monogram strap / pick tin / Sonomatic strings NOS / Tolex case) + "vintage" + era + "original". Junk: "guitar strap lot", "reissue" (unless it is), "used strap". `Vintage 1970s Fender Monogram Guitar Strap Original Leather Ends Brown`
+- **Where:** eBay BIN with offers / Reverb (guitar collectors; Reverb Price Guide has strap and case data); cases local unless documented Fender/Gibson.
+- **Price position:** at the sold median ($50–150 1970s Fender/Levy's; $100–300 Ace/Gretsch/sealed pick boxes), accept −15%, floor 75%; OBO; cut 15% after 30 days.
+- **Photos:** strap full length on plain background; both leather ends; back side; tags/stamps; weave or print close up; fraying; sealed candy with seal intact; length against a tape.
+- **State:** "vintage, believed [1970s]" only with the tells shown, maker, length and adjustment range, fraying/cracking, tags, explicitly not the current reissue, flaws by photo number.
+- **Pack / haul:** pocket; straps and pick tins in a poly mailer $5–6; cases 42×16×6 oversize $40–80, latches taped, interior stuffed.
+- **Quote to a buyer:** "Original [1970s Fender monogram / 1960s Ace] strap with the period [leather ends/weave], not the D'Andrea reissue; reissues sell for [$] new and originals bring [$]."
 
 ## Buy rule
 Profit = sold × 0.87 − $6 ship to buyer − $6 to Dylan − price ≥ max($50, price). A genuine 1970s Fender monogram strap at ~$90 sold → buy at ≤ $25 (profit ≈ $51 at $15). Ace 1960s straps at ≤ $60. Cases only if documented Fender/Gibson original at ≤ 25% of sold. Pass on reissues and generic lots.

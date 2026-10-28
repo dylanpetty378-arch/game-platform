@@ -1,5 +1,5 @@
 # Delft tiles and tile tableaux (Westraven, De Porceleyne Fles / Royal Delft, Royal Makkum / Tichelaar, Ravesteijn, De Delftse Pauw, Holland souvenir makers)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Delftware" https://en.wikipedia.org/wiki/Delftware ; Royal Delft maker history https://www.royaldelft.com ; Royal Tichelaar Makkum https://www.tichelaar.com ; project comps file /home/claude/game-platform/db/comps.jsonl (no Delft tile sold data on file). · tells 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); Wikipedia "Delftware" https://en.wikipedia.org/wiki/Delftware ; Royal Delft maker history https://www.royaldelft.com ; Royal Tichelaar Makkum https://www.tichelaar.com ; project comps file /home/claude/game-platform/db/comps.jsonl (no Delft tile sold data on file). · tells 2026-10-13
 Slug: delft-tiles · Aliases: Delft tile, Delfts blauw tile, Dutch tile, Dutch windmill tile, tile tableau, tile panel, tile picture, framed tile scene, "old world tile scene", Makkum tile, Westraven tile, hand painted Holland tile
 Summary: Single souvenir tiles $5–20; framed 4–12 tile hand-painted 20th c. tableaux $50–175; signed Royal Delft/Makkum/Westraven large panels $150–400; 17th–18th c. antique single tiles $20–100 each, antique tableaux $500+.
 Buy rule (short): Buy only framed, genuinely hand-painted multi-tile tableaux at ≤ $35 (≤ $60 if a Royal Delft/Makkum mark is shown), or 17th–18th c. tin-glazed tiles in lots; pass on transfer-printed souvenir tiles and single modern tiles.
@@ -65,7 +65,13 @@ Steady but thin. Framed tableaux sell in days–weeks if well photographed; buye
 Heavy (a 6-tile framed panel ≈ 6–10 lb). Double box, foam board front and back, check tiles are tight in the frame (shim if loose). UPS Ground ≈ $20–30. Never ship with glass on (remove or tape).
 
 ## Selling it (for the buyer-facing listing)
-Photograph the back (stamps, signatures, numbers), count tiles and give overall and per-tile size, state each chip. Say "hand painted" only when brush strokes are visible. Give maker and approximate decade, note "20th century" for Westraven/Ravesteijn types.
+- **Title words:** "Delft tile tableau" + maker (Royal Delft / Makkum / Westraven) + tile count + subject (windmill landscape / ships / polychrome) + "hand painted" + "framed" + century. Junk: "Dutch decor", "blue and white", "trivet". `Royal Delft Hand Painted 6 Tile Tableau Windmill Landscape Framed Signed Dated`
+- **Where:** eBay BIN with offers (Dutch-heritage collectors, days–weeks); auction for 17th–18th c. tiles and tableaux, which beat eBay. Single souvenir tiles local or in lots.
+- **Price position:** at the sold median ($50–150 framed 4–6 tile; $250–800 Royal Delft/Makkum signed), accept −10%, floor 80%; OBO; cut 15% after 30 days.
+- **Photos:** full tableau straight on in daylight; back with stamps, signatures, date letters and painter initials; brush strokes close up; corners (ox-head/nail holes on antiques); each chip; frame edges; per-tile size against a ruler.
+- **State:** maker and approximate decade ("20th century" for Westraven/Ravesteijn), tile count, overall and per-tile size, "hand painted" only if brush strokes show, each chip and crack by photo number, frame condition, tiles tight or shimmed.
+- **Pack / haul:** passenger-seat, 6-tile panel 6–10 lb; remove or tape the glass, foam board front and back, double-box, UPS Ground $20–30.
+- **Quote to a buyer:** "[Royal Delft/Makkum] hand-painted [N]-tile tableau, date letter [year], painter [initials], framed; single souvenir tiles are [$] and signed tableaux of this size bring [$]."
 
 ## Buy rule
 Price ≤ $200; profit = sold median × 0.87 − ship to buyer (~$25) − ship to Dylan (~$20) − price ≥ max($50, price). For a typical $100 tableau: 87 − 45 = $42 headroom → never profitable unless free. Only buy: Royal Delft/Makkum-marked tableaux ≥ $250 resale at ≤ $75, or antique (nail-hole, pre-1850) tile lots at ≤ 25% of resale. Passenger-seat size only (≤ about 24 in frame). No authentication needed for 20th c.; antique tableaux worth > $500 may need specialist opinion — pass on those claims unless the back photos are convincing.

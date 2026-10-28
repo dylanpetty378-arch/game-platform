@@ -1,5 +1,5 @@
 # Byers' Choice Carolers and look-alike caroler figures/ornaments (Byers' Choice Ltd., Chalfont PA, 1978–; also Annalee, Possible Dreams Clothtique, Department 56, flat painted tin ornaments)
-Updated: 2026-10-13 · deepened 2026-10-14 · Sources: general knowledge (no web search in the first run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl at first; nearest: vintage-christmas-decorations Terapeak median $12.26, n=44). Maker site: https://www.byerschoice.com; Byers' Choice history page (https://byerschoice.com/pages/history); Wikipedia, Byers' Choice (https://en.wikipedia.org/wiki/Byers%27_Choice); Chairish, "The Singer" 1987 Byers' Choice (https://www.chairish.com/product/2480332/collectible-christmas-decor-the-singer-from-1987-by-byers-choice); "Rarest Byers Choice" blog (https://proto.crasman.fi/blog/rarest-byers-choice, low-quality source, used only for the base-seal note); Terapeak 365d
+Updated: 2026-10-28 · deepened 2026-10-14 · Sources: general knowledge (no web search in the first run; no Terapeak rows in /home/claude/game-platform/db/comps.jsonl at first; nearest: vintage-christmas-decorations Terapeak median $12.26, n=44). Maker site: https://www.byerschoice.com; Byers' Choice history page (https://byerschoice.com/pages/history); Wikipedia, Byers' Choice (https://en.wikipedia.org/wiki/Byers%27_Choice); Chairish, "The Singer" 1987 Byers' Choice (https://www.chairish.com/product/2480332/collectible-christmas-decor-the-singer-from-1987-by-byers-choice); "Rarest Byers Choice" blog (https://proto.crasman.fi/blog/rarest-byers-choice, low-quality source, used only for the base-seal note); Terapeak 365d
 Slug: byers-carolers · Aliases: Byers Choice, Byers carolers, Christmas carolers, caroler figurine, Dickens carolers, Victorian carolers, Cries of London, Byers' Choice Salvation Army
 Summary: Common Byers' Choice adult carolers $15–35 (Terapeak median ~$39 across all Byers' figures); children, animals, specialty sets, Halloween/seasonal and signed/early (1980s) figures $35–90; rare retired/limited pieces and early "Cries of London" $80–250 (general knowledge, verify; Terapeak puts Cries of London at a $28.73 median, so treat that tier as the exception). Generic carolers and tin ornaments $3–15.
 Buy rule (short): Buy only true Byers' (signed bottom tag, sculpted clay faces — the first run said papier-mâché — wire armature) in lots at ≤ $8 each, or early/retired Cries of London under ~$30 (Terapeak median $28.73 makes even that marginal; prefer Halloween/seasonal pieces under ~$15).
@@ -65,10 +65,13 @@ Early 1980s signed pieces; Byers' with original boxes; Halloween/seasonal figure
 12" figure ~1 lb, $10–14 in box. Protect faces and props; wrap separately.
 
 ## Selling it (for the buyer-facing listing)
-Give year/signature, character name, completeness of props, smoke-free.
-
-### What to tell the buyer
-"Genuine Byers' Choice [character/line] caroler, [year] on the signed base [with gold seal]. Handmade in Chalfont, Pennsylvania: hand-painted sculpted face, wire-armature body, sewn clothes. [Height] in. Props: [list, complete]. Condition: no fading or moth damage, from a smoke-free home; [original box/tag]."
+- **Title words:** Byers Choice Caroler + line (Cries of London / Dickens / Salvation Army / Halloween) + character + year + "signed base" + height. Junk: "Christmas figurine", "doll", "Victorian". `Byers Choice Caroler 1999 Cries of London Gingerbread Man Signed 13in`
+- **Where:** eBay BIN with offers (Q4 only; singles sell slowly); lots of 4–8 do better on FB local to decorators. Halloween/seasonal pieces sell for more than Christmas adults on eBay.
+- **Price position:** adults at the sold median (~$25–35), accept −15%, floor $20; seasonal/Halloween at the sold median $60–100, OBO; cut 20% if unsold by Dec 10.
+- **Photos:** full figure front on plain background; base underside with signature/year/gold seal; face close-up (O mouth); props; clothes for moth damage/fading; hang tag/box.
+- **State:** line and character name, year from base, signature, height, props listed as complete or missing, smoke-free, fading/moth/paint flaws by photo number, box/tag.
+- **Pack / haul:** shoebox, ~1 lb, $10–14; wrap face and props separately, immobilize the figure, no double-box needed.
+- **Quote to a buyer:** "Genuine Byers' Choice [character] caroler, [year] on the signed base with gold seal, handmade in Chalfont PA with a hand-painted clay face and sewn clothes; current retail is [$] and this one is complete with [props]."
 
 ## Buy rule
 Single common Byers' ($25 sold) fails; pass. Only lots/rare pieces with combined median ≥ $150 at ≤ $40.

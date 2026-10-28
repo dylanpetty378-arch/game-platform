@@ -1,5 +1,5 @@
 # Ice tools (ice tongs, ice picks, ice chippers/shavers, ice saws; Gifford-Wood, Woodruff, Gilchrist, North Bros, Enterprise, advertising ice picks)
-Updated: 2026-10-13 · Sources: general knowledge, no web search this run (verify all numbers); references: Gifford-Wood Co. history (Hudson NY) via Hudson NY local history pages (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
+Updated: 2026-10-28 · Sources: general knowledge, no web search this run (verify all numbers); references: Gifford-Wood Co. history (Hudson NY) via Hudson NY local history pages (not loaded) ; WorthPoint https://www.worthpoint.com (not loaded). No Terapeak rows for this type in db/comps.jsonl.
 Slug: ice-tools · Aliases: ice tongs, ice block tongs, ice hook, iceman tongs, ice pick, ice chipper, ice shaver, ice shaver Gilchrist, ice saw, ice plow, ice chisel, ice house tools, block tongs, timber tongs
 Summary: Generic ice tongs, plain picks and multi-prong chippers $10–30; marked Gifford-Wood/Woodruff tongs, large 2-man tongs, advertising ice picks (Coca-Cola, ice companies) and Gilchrist shavers $25–70; ice plows, early ice-harvesting tools and rare advertising pieces $80–300 (often too big).
 Buy rule (short): Buy only advertising ice picks with crisp company names or marked Gifford-Wood/early harvest tools at ≤ $10; pass on generic tongs and chippers, which ship heavy for $15–30.
@@ -52,7 +52,13 @@ Primitives / farmhouse décor; a steady trickle of buyers. Plenty of supply; ton
 Tongs 2–5 lb, $14–20; picks/chippers under 1 lb, $6–9. Durable; wrap points.
 
 ## Selling it (for the buyer-facing listing)
-Maker stamp photo, length, forged vs cast, advertising text, condition (rust level). Don't call cast décor tongs antique.
+- **Title words:** "antique" + maker (Gifford-Wood / Gilchrist / North Bros) + item (ice tongs / ice pick / ice shaver) + advertising name (Coca-Cola, ice company) + "forged" + length. Junk: "rustic decor", "ice block tongs" for cast repros, "farmhouse" alone. `Antique Gifford-Wood Co Hudson NY Forged Ice Tongs 16in Marked Ice Harvest`
+- **Where:** eBay BIN with offers for marked tongs, advertising picks and Gilchrist shavers; FB local for generic tongs and chippers (ship heavy for $15–30).
+- **Price position:** at the sold median ($25–70 marked/advertising; $60–150 Coke picks), accept −15%, floor 75%; OBO; cut 15% after 45 days; generic $10–30 local, firm.
+- **Photos:** item on plain background; maker stamp close up; advertising text on the handle; points/jaws; forge marks vs casting seams; rust close up; next to a ruler.
+- **State:** maker stamp, length, forged vs cast (cast décor tongs are not antique), advertising text transcribed, rust level, points intact, repairs by photo number.
+- **Pack / haul:** shoebox; tongs 2–5 lb $14–20, picks/chippers under 1 lb $6–9; wrap the points in cardboard so they don't punch through.
+- **Quote to a buyer:** "[Gifford-Wood] forged ice tongs stamped Hudson NY, [era], [length]; cast reproduction tongs sell for [$] and marked harvest tools bring [$]."
 
 ## Buy rule
 A $40 sale nets ~$35 before shipping ~$15 each way: a loss. Buy only advertising picks (Coca-Cola and named ice companies) and marked Gifford-Wood tools at ≤ $10 where sold ≥ $80. Pass on generic tongs/chippers. All fit a passenger seat except saws.

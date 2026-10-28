@@ -1,5 +1,5 @@
 # Eurorack synthesizer modules (Make Noise, Mutable Instruments, Erica Synths, Endorphin.es, Intellijel, ALM, Noise Engineering, Doepfer, Behringer)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: ModularGrid price index knowledge, Reverb sold knowledge
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: ModularGrid price index knowledge, Reverb sold knowledge
 Slug: eurorack-modules · Aliases: eurorack, modular synth, synthesizer modules, synth parts, modular case, Maths, Morphagene, Plaits, Clouds
 Summary: Behringer/Doepfer basics/DIY $20–80; Erica Pico, Make Noise Rosie, Intellijel utilities $80–200; Maths, Morphagene, DPO, Mutable originals, Grand Terminal $200–500; Buchla/Serge, rare Mutable, full cases $500–3,000.
 Buy rule (short): Only a full case or "synth parts" lot from a non-musician at < 30% of the ModularGrid sum; pass musician sellers pricing per module.
@@ -52,7 +52,13 @@ Nothing, usually – musician sellers know. Watch for estate/"parts" listings on
 Light, $8–15. Reverb 8%. Electronics – only "works" listings.
 
 ## Selling it (for the buyer-facing listing)
-State maker, module name, HP width, tested working, power cable included, original vs clone, box/manual. Photograph the panel front, PCB back (logo/serial) and power header. Title: "[Maker] [Module] Eurorack module, tested, w/ power cable".
+- **Title words:** maker + module name + "Eurorack module" + HP + "tested" + "w/ power cable" + original/clone + version. Junk: "synth parts", "modular lot", "DIY". `Make Noise Maths v2 Eurorack Module 20HP Tested Working w/ Power Cable Box`
+- **Where:** Reverb BIN with offers (8%, the known market); ModularGrid marketplace and r/modular sell at the same prices with no fee. No local premium.
+- **Price position:** at the Reverb/ModularGrid sold median per module, accept −10%, floor 85%; OBO; cut 10% after 21 days.
+- **Photos:** panel front straight on; PCB back with logo/serial; power header; knobs and jacks close up; box/manual; module powered with LEDs lit (short video).
+- **State:** maker, module name and version, HP width, tested working (all jacks/knobs), power cable included, original vs clone, box/manual, scratches or bent jacks by photo number.
+- **Pack / haul:** pocket, ~1 lb, $8–15; anti-static bag, pad the knobs, small rigid box, no double-box.
+- **Quote to a buyer:** "[Maker] [module], original [MI logo / version], tested through every function; new it's [$] (or discontinued since [year]) and this one comes with [cable/box]."
 
 ## Buy rule
 Buy when: a full case or "synth parts" lot from a non-musician at < 30% of ModularGrid sum. Pass when: musician seller pricing per module. Profit must be ≥ max($50, price) after fees (~8% Reverb, ~13% eBay) and shipping both ways. Fits a passenger seat.

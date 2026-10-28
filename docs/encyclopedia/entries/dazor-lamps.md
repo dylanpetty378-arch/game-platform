@@ -1,5 +1,5 @@
 # Dazor floating-arm lamps (Dazor Mfg. Corp., St. Louis)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: napoleonexhibit.com eBay mirror (Dazor floating fixture $150; model 1102 $257; model 2008 saucer $479; M-210 $100–195; M-209 magnifier $120); 1stdibs Dazor creator pages (asks $300–1,200); run12 sheet 56
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: napoleonexhibit.com eBay mirror (Dazor floating fixture $150; model 1102 $257; model 2008 saucer $479; M-210 $100–195; M-209 magnifier $120); 1stdibs Dazor creator pages (asks $300–1,200); run12 sheet 56
 Slug: dazor-lamps · Aliases: Dazor lamp, floating fixture, articulating fluorescent lamp, drafting lamp, industrial task lamp, flying saucer lamp, UFO desk lamp, magnifier lamp, machinist lamp
 Summary: Magnifier heads, parts, bent arms $20–50; clamp-base floating fixtures $75–150; weighted-base floating fixtures and M-210 rolling lamps $150–250; saucer/UFO models 2004/2008/1102 $250–500 (1stDibs asks $600–1,200).
 Buy rule (short): Buy saucer/UFO models under $100 or weighted-base floating fixtures under $40; pass clamp-base fluorescents over $40 – shipping eats them.
@@ -50,7 +50,13 @@ The word "Dazor" – sellers write "vintage articulating fluorescent lamp" or "d
 Floating fixture: ~10 lb but 3 ft long and springs – box 40"×10"×8", $30–45 each way. Saucer desk lamps ~6 lb, $20. Sell on eBay/Etsy; fees 13%.
 
 ## Selling it (for the buyer-facing listing)
-Model number from the label, base type, finish colour and originality, working status (tested), wiring condition, reach/arm length and height. Photograph the label, arm extended, base, shade/head inside, and the lamp lit.
+- **Title words:** "Dazor" + model number + "floating fixture"/"saucer"/"UFO" + "lamp" + base type (clamp/weighted/rolling) + finish colour + "MCM industrial". Junk: "drafting lamp", "articulating fluorescent", "vintage desk lamp" alone. `Dazor Model 2008 Saucer UFO Desk Lamp Original Finish Works MCM Industrial`
+- **Where:** eBay BIN with offers for floating fixtures and parts; 1stDibs/Chairish for saucer models, which sell for more there to decorators (slower). Clamp-base fluorescents FB local (shipping $30–45 kills them).
+- **Price position:** at the sold median (clamp $75–150; weighted $150–250; saucer $250–500), accept −10%, floor 80%; OBO; cut 10% after 30 days.
+- **Photos:** lamp lit, arm extended; head label with model number; base; inside the shade/head; arm springs and joints; cord and plug; any finish chips close up.
+- **State:** model number from label, base type, finish colour and original or repainted, tested working, wiring condition (original/rewired), arm reach and height, spring tension, chips/dents by photo number.
+- **Pack / haul:** passenger-seat; floating fixture ~10 lb but 3 ft, box 40×10×8 with the arm tied closed and springs immobilized, $30–45; saucer ~6 lb double-boxed $20; remove tube/bulb.
+- **Quote to a buyer:** "Dazor [model] [saucer/floating fixture], St. Louis-made [1950s], original [finish], tested and lit; restored saucers list at [$] on 1stDibs and this one is [original/working] at [price]."
 
 ## Buy rule
 Buy when: saucer/UFO model under $100, or floating fixture with weighted base under $40. Pass when: clamp-base fluorescent over $40 (6786 math: $120 sale − 13% − $45 in − $45 out − $45 price ≈ −$30, i.e. a loss; the earlier note said "≈ $0"). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat (floor/rolling models are excluded).

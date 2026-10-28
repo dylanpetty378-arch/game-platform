@@ -1,5 +1,5 @@
 # Vintage player-endorsed baseball gloves (Rawlings, Wilson, Spalding, MacGregor)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: keymancollectibles.com (Rawlings Mickey Mantle gloves, 1964 Big Leaguer youth $50–100), eBay.de 176956534257 (Rawlings Mantle DF1 11.5" excellent, ask $120), craigslist 1394 photos
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: keymancollectibles.com (Rawlings Mickey Mantle gloves, 1964 Big Leaguer youth $50–100), eBay.de 176956534257 (Rawlings Mantle DF1 11.5" excellent, ask $120), craigslist 1394 photos
 Slug: endorsed-baseball-gloves · Aliases: old baseball mitt, <player> glove, vintage Rawlings glove, Mickey Mantle glove, Wilson A2000, store model glove
 Summary: Japanese/Korean 1970s–80s and minor players $10–30; USA 1960s store models and Mantle DF1/MMF $50–120; Mantle/Mays/Clemente/Koufax pro models, early A2000 $150–400; boxed 1950s Mantle, pre-war Ruth/Gehrig/DiMaggio $500–2,000+.
 Buy rule (short): USA-made Mantle/Mays/Clemente/Koufax pro model ≤ $40, boxed ≤ $100; pass youth models, repaired lacing, DF1/MMF ≥ $45.
@@ -49,7 +49,13 @@ The model number and the signature in the palm; "Professional Model" vs youth; U
 1–2 lb, $10–12 each way. eBay. Condition (lacing, cracking, writing) drives price more than player.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model number, player, size (inches), hand (LHT/RHT), country of manufacture, lacing original or replaced, leather condition, box. Photograph the palm stamp, model number, back "Made in USA"/patent marks, lacing and any writing. Title: "Vintage Rawlings [model] Mickey Mantle [size]in glove, USA".
+- **Title words:** "vintage" + maker + model number + player + size + "Professional Model" + "USA" + hand (RHT/LHT) + era. Junk: "old glove", "baseball mitt lot", "antique". `Vintage Rawlings MM9 Mickey Mantle Professional Model 12in Glove USA RHT`
+- **Where:** eBay BIN with offers (list before opening day / Father's Day); REA/Heritage for boxed 1950s Mantle and pre-war Ruth/Gehrig.
+- **Price position:** at the sold median for the model (DF1/MMF $50–120; MM/MM5/MM9 $150–400), accept −10%, floor 80%; OBO; cut 15% after 30 days.
+- **Photos:** palm with signature stamp; model number; back with "Made in USA"/patent marks; lacing and web; heel and finger stalls; any writing or cracking; box if present; next to a ruler.
+- **State:** maker, model number, player, size in inches, hand, country of manufacture, lacing original or replaced, leather condition (dry/cracked/supple), writing, box, flaws by photo number.
+- **Pack / haul:** shoebox, 1–2 lb, $10–12; stuff the pocket, wrap in paper, no double-box.
+- **Quote to a buyer:** "Rawlings [model] [player] Professional Model, USA-made [1960s], original lacing and supple leather; the Japanese store models go for [$] and USA [player] pro models bring [$]."
 
 ## Buy rule
 Buy when: Mantle/Mays/Clemente/Koufax USA-made pro model ≤ $40, or boxed example ≤ $100. Pass when: youth models, repaired lacing, or price ≥ $45 for DF1/MMF class. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Fits a passenger seat.

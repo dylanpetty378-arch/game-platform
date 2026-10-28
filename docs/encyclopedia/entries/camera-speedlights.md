@@ -1,5 +1,5 @@
 # Camera speedlights / flashes (Nikon, Canon, third-party)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: Gearfocus sold listings (Nikon SB-700 sold $60 and $150 w/ box, 2026); eBay sold; KEH/MPB used pricing
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: Gearfocus sold listings (Nikon SB-700 sold $60 and $150 w/ box, 2026); eBay sold; KEH/MPB used pricing
 Slug: camera-speedlights · Aliases: camera flash, speedlight, speedlite, flash gun, flashgun, hot shoe flash, strobe, potato masher flash
 Summary: Old auto flashes and generics $5–20; SB-600/430EX II/285HV $40–80; SB-700/800/910, 580EX II, 600EX-RT $90–200; SB-5000, 600EX II-RT, Profoto A1/A10 $200–500.
 Buy rule (short): Buy pro Nikon/Canon flashes (SB-700/800/910, 580EX II, 600EX-RT) at ≤ $40 or SB-5000/600EX II at ≤ $90; pass anything priced ≥ 50% of eBay sold.
@@ -47,7 +47,13 @@ Little – model numbers are printed on the unit and sellers usually copy them. 
 <1 lb, $8–12. eBay ~13%. Test: power on with AAs – ask the seller for a photo of the LCD lit. Remove batteries before shipping.
 
 ## Selling it (for the buyer-facing listing)
-Exact model and mount (Nikon/Canon), tested working with test-fire, battery compartment condition, foot condition, included items (stand, case, diffuser, box). Photograph the LCD lit, battery bay, foot and head. Title: brand + model + "Speedlight/Speedlite" + "tested".
+- **Title words:** brand + model + "Speedlight"/"Speedlite" + "flash" + "tested" + mount (Nikon/Canon). Junk: "vintage", "camera accessory", "strobe". `Nikon SB-800 Speedlight Flash Tested Working w/ Stand Diffuser`
+- **Where:** eBay BIN with offers (liquid, weekly sales, buyers search by model); MPB/KEH buy outright for a quick exit at less. No local premium.
+- **Price position:** at the sold median for the model (SB-700 $60–150 range), accept −10%, floor 80% of median; OBO; cut 10% after 14 days.
+- **Photos:** head/front on white; LCD lit and test-fired (short video); battery bay clean; foot and locking pin; head swivel/tilt; included stand, case, diffuser, box.
+- **State:** exact model and mount, test-fire confirmed, battery compartment condition (corrosion yes/no), foot/pin condition, what is included, cracks or wear by photo number.
+- **Pack / haul:** shoebox, 1.5 lb, $8–12; remove batteries, wrap head and body, no double-box.
+- **Quote to a buyer:** "Nikon/Canon [model] pro speedlight, tested and test-fired, [year model] still sells new/refurb for [$]; this one has a clean battery bay and solid foot, with [stand/case/diffuser]."
 
 ## Buy rule
 Buy when: SB-700/800/910, 580EX II, 600EX-RT at ≤ $40, or SB-5000/600EX II at ≤ $90. Pass when: priced ≥ 50% of eBay sold (the usual case). Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

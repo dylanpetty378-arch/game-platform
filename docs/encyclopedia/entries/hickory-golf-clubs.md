@@ -1,5 +1,5 @@
 # Hickory-shaft golf clubs, pre-1935 (Tom Stewart, Gibson, George Nicoll, Spalding, MacGregor, Forgan, Auchterlonie)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: knowledge of eBay/Green Jacket Auctions sold ranges; George Nicoll "hand" cleekmark reference; caddiehq hickory value guide; hickory-golf.co.uk sales; eBay listings Oct 2026; merged write-ups from review agent J, run 12, and an earlier entry of the same name; no dated sold comp pulled
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: knowledge of eBay/Green Jacket Auctions sold ranges; George Nicoll "hand" cleekmark reference; caddiehq hickory value guide; hickory-golf.co.uk sales; eBay listings Oct 2026; merged write-ups from review agent J, run 12, and an earlier entry of the same name; no dated sold comp pulled
 Slug: hickory-golf-clubs · Aliases: antique golf club, wood shaft golf club, wooden shaft putter, hickory golf, mashie, niblick, cleek, jigger, long-nose wood
 Summary: common 1920s–30s irons $20–75; named-maker clean irons/putters $60–200; jiggers/cleeks/smooth-face/rut irons/persimmon woods $200–800; 1800s long-nose woods $1,000–10,000+
 Buy rule (short): recognised cleekmark, original grip, ≤ $30 (or 5+ hickories ≤ $60)
@@ -50,7 +50,13 @@ The cleekmark and maker, and the model name ("Whippet", "Gem", "Zenith"). Most l
 ~1 lb, ~40" long – tube or long box, ~$20–25 each way. eBay (13%).
 
 ## Selling it (for the buyer-facing listing)
-State maker, cleekmark, model name, club type (mashie, niblick, putter), face scoring, length, grip (original/replaced), shaft straightness, playable or display. Photograph the cleekmark, face, back, sole, grip and the shaft sighted end-on. Title keywords: "hickory shaft", "cleekmark", "Tom Stewart pipe", "Nicoll Leven", "hand forged Scotland", "smooth face".
+- **Title words:** maker + cleekmark (Tom Stewart pipe / Nicoll hand / Gibson star) + club type (mashie / niblick / putter / jigger) + model name (Whippet, Gem) + "hickory shaft" + "smooth face" + "Scotland". Junk: "old wooden golf club", "antique decor", "wall hanger". `Tom Stewart Pipe Cleekmark Hickory Shaft Mashie St Andrews Original Grip Smooth Face`
+- **Where:** eBay BIN with offers (collectors and hickory players; spring/summer); Green Jacket and golf auctions for long-nose woods and rare forms.
+- **Price position:** at the sold median ($60–200 named clean irons; $200–800 jiggers/cleeks/smooth-face), accept −10%, floor 80%; OBO; cut 15% after 30 days; commons $20–40 in lots.
+- **Photos:** cleekmark close up; face scoring; back; sole; grip; shaft sighted end-on for straightness; full club on plain background with a tape.
+- **State:** maker, cleekmark, model name, club type, face scoring, length, grip original or replaced, shaft straight or warped, playable or display, pitting/cracks by photo number.
+- **Pack / haul:** passenger-seat, ~1 lb, 40" long; tube or long box $20–25, head wrapped, shaft padded along its length.
+- **Quote to a buyer:** "[Tom Stewart] [mashie] with the [pipe] cleekmark, [1920s] St Andrews, original grip and a straight shaft — playable; unmarked hickories sell for [$] and named [Stewart/Nicoll] clubs bring [$]."
 
 ## Buy rule
 Buy when: named Scottish maker iron/putter (recognised cleekmark visible, original grip) at ≤ $30, or a lot of 5+ hickories under $60. Pass when: single named putter at $75–80+ (seller knows) – resale ceiling for a single common-maker club is ~$100. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Fits a passenger seat.

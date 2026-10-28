@@ -1,5 +1,5 @@
 # Eames fiberglass shells (Herman Miller, Zenith Plastics; Modernica and knockoffs)
-Updated: 2026-09-21 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); rest general knowledge
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: earlier sweep summary (index row only — full research still to do); rest general knowledge
 Slug: eames-fiberglass-shells · Aliases: Eames chair, fiberglass shell chair, DSR, DSW, DAX, RAR, Herman Miller shell, rope edge, Zenith shell, mid-century fiberglass chair
 Summary: 1st-gen rope-edge $250–450; later Herman Miller shells $120–250; knockoffs $20–60
 Buy rule (short): Buy marked Herman Miller/Zenith under $100 only if it fits the car
@@ -47,7 +47,13 @@ unknown – likely the Zenith/rope-edge distinction and the underside marks (gen
 Shell alone ~8–12 lb, bulky box; complete chairs ship freight-like ($60–100+) (general knowledge, verify). Shells stack.
 
 ## Selling it (for the buyer-facing listing)
-State maker, side/arm, colour, base type and whether original, shock-mount condition, marks on the underside, any cracks. Photograph the underside marks and mounts. Title: "Herman Miller Eames fiberglass [side/arm] shell chair, [colour], [base]" (general knowledge, verify).
+- **Title words:** "Herman Miller Eames" + "fiberglass" + side/arm shell + colour + base type (Eiffel / dowel / stacking) + "Zenith rope edge" if early + era. Junk: "Eames style", "mid century chair" alone, "replica" (unless true). `Herman Miller Eames Fiberglass Arm Shell Chair Zenith Rope Edge Greige Eiffel`
+- **Where:** FB local / eBay local pickup (bulky); Chairish/1stDibs for rope-edge and rare colours, which beat eBay with decorators. Knockoffs local only.
+- **Price position:** at the sold median ($120–250 later HM; $250–450 rope edge), accept −10%, floor 80%; OBO; cut 10% after 30 days.
+- **Photos:** chair front three-quarter; underside marks and label; shock mounts close up; rope edge if present; base and glides; surface fibers and any cracks; colour in daylight.
+- **State:** maker, side or arm, colour, base type and original or replaced, shock-mount condition, underside marks transcribed, cracks/chips/repairs by photo number, fiber visibility.
+- **Pack / haul:** passenger-seat, shell 8–12 lb; shells stack; remove base, pad shock mounts, bulky box $60–100 — local pickup preferred; fits a car seat without the base.
+- **Quote to a buyer:** "Herman Miller Eames fiberglass [arm/side] shell, [Zenith rope edge / 1960s label], original [colour] and shock mounts on an [Eiffel] base; new HM fiberglass shells are [$] and first-generation originals bring [$]."
 
 ## Buy rule
 Buy marked Herman Miller/Zenith under $100 only if it fits the car. Pass knockoffs and cracked shells. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. A single shell or side chair fits a passenger seat; a complete arm chair on a rocker or bigger multi-chair sets may not – check before buying.

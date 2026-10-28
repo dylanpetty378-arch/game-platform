@@ -1,5 +1,5 @@
 # Chinese paktong / white-copper boxes (ink boxes, snuff and tobacco boxes; "Shanghai Best", crossed-flag Republic-era types)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Craigslist listing 7940283372 (photo)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Craigslist listing 7940283372 (photo)
 Slug: chinese-paktong-boxes · Aliases: paktong box, baitong, white copper box, Chinese ink box, ink paste box, Shanghai Best box, Republic period box, crossed flags box, Chinese snuff box
 Summary: Modern/recent crossed-flag "Republic" souvenir boxes $15–40; genuine Republic-period (1912–1930s) engraved paktong ink boxes $40–120; finely engraved signed (Yao Meibo / Chen Yinting style) scholar ink boxes $150–1,000+ (general knowledge, verify)
 Buy rule (short): Pass on crossed-flag "Shanghai Best" boxes unless finely hand-engraved with poetry/scenes and a maker's seal, at ≤ $40.
@@ -43,7 +43,13 @@ Plain-looking, finely hand-engraved scholar boxes (calligraphy only, no flags) a
 Pocket size, 3–8 oz; padded mailer ~$5–6.
 
 ## Selling it (for the buyer-facing listing)
-Describe the alloy as "white metal / paktong-type", state dimensions/weight, photograph base and interior; do not claim Republic period for crossed-flag stamped boxes.
+- **Title words:** "Chinese paktong" / "white copper" + "ink box"/"snuff box" + engraved + calligraphy/landscape + "Republic" only if genuine + seal mark + size. Junk: "antique Chinese silver", "rare", "Qing" without evidence. `Chinese Paktong White Copper Ink Box Hand Engraved Calligraphy Seal Mark 3in`
+- **Where:** eBay BIN with offers (Chinese buyers search engraved scholar boxes); auction (Bonhams/HK) for signed masters only. Crossed-flag souvenirs locally or in lots.
+- **Price position:** at the sold median for the tier ($40–100 plain old; $150–600 engraved), accept −15%, floor 75%; OBO; cut 15% after 45 days.
+- **Photos:** lid engraving straight on in raking light; base with seal mark; interior and copper liner; side profile; hinge/closure; next to a ruler with weight shown.
+- **State:** "white metal / paktong-type", dimensions and weight, engraving hand-cut or stamped, seal/mark transcribed if legible, liner present, dents and wear by photo number; no Republic claim for crossed-flag stamped boxes.
+- **Pack / haul:** pocket, 3–8 oz, padded mailer $5–6; wrap lid and base together so the hinge can't flex.
+- **Quote to a buyer:** "Hand-engraved paktong scholar's ink box with [calligraphy/landscape] and a [seal mark], [era]; the stamped souvenir boxes sell for [$] and hand-cut engraving of this depth brings [$]."
 
 ## Buy rule
 Profit = sold × 0.87 − $6 − $6 − price ≥ max($50, price). Stamped crossed-flag boxes (≤ $35 sold) never qualify. Buy only hand-engraved calligraphy/landscape boxes with copper liner at ≤ $40 when a credible $150+ resale exists. Repro risk is high; no professional authentication needed at that tier but be conservative.

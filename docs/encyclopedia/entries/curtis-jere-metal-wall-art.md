@@ -1,5 +1,5 @@
 # Curtis Jere metal wall art (Curtis Jeré / Artisan House, C. Jere; also Higgins-style, Syroco/Homco/Burwood look-alikes, Masketeers, Raymor-era decor)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; all numbers are estimates, verify); for verification: eBay sold search https://www.ebay.com/sch/i.html?_nkw=curtis+jere&LH_Sold=1 ; 1stDibs Curtis Jere listings https://www.1stdibs.com/creators/curtis-jere/ (asking, not sold) ; LiveAuctioneers https://www.liveauctioneers.com/search/?keyword=curtis%20jere ; no Curtis Jere rows in our comps.jsonl as of 2026-10-13
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget this run; all numbers are estimates, verify); for verification: eBay sold search https://www.ebay.com/sch/i.html?_nkw=curtis+jere&LH_Sold=1 ; 1stDibs Curtis Jere listings https://www.1stdibs.com/creators/curtis-jere/ (asking, not sold) ; LiveAuctioneers https://www.liveauctioneers.com/search/?keyword=curtis%20jere ; no Curtis Jere rows in our comps.jsonl as of 2026-10-13
 Slug: curtis-jere-metal-wall-art · Aliases: C. Jere, Curtis Jeré, Jere sculpture, Artisan House, MCM metal wall sculpture, brutalist wall art, brass wall sculpture, metal sailboat wall art, raindrops, birds in flight, metal wall hanging
 Summary: Unsigned 1960s–80s mass-market metal/wire decor (Homco, Syroco look, import) $15–60/pair; signed C. Jere smaller pieces (sailboats, fish, flowers, small birds) $100–350; signed large classics (Raindrops, Birds in Flight, Brutalist panels, big sailboats, Koi, Torch-cut globe) $400–2,000+; top museum-scale/rare pieces $2,000–5,000.
 Buy rule (short): Buy only when a "C. Jere" or "Curtis Jere" signature (welded/stamped plaque or scratched signature, often with a year) is visible or confirmed by the seller, at ≤ 1/3 of conservative resale; pass on painted wire/tin decor regardless of what Lens says, and on anything over ~40 in that will not fit a passenger seat.
@@ -54,7 +54,13 @@ Signature is often hidden on the lower edge or behind patina; sellers with "bras
 Fragile to bending; double-box with cardboard backer, wrap each element. Flat-ish but long: small pieces $15–30, 30–40 in pieces $30–60 (oversize).
 
 ## Selling it (for the buyer-facing listing)
-Photograph the signature and year close up, the welds, the back/label, measure width × height × depth, give weight. Say "signed C. Jere 19xx" only if seen. For unsigned: "Mid-century style metal wall art, unsigned".
+- **Title words:** "Curtis Jere" / "C. Jere" + "signed" + year + subject (Raindrops / Birds in Flight / sailboat / Koi / brutalist) + "metal wall sculpture" + width + "MCM". Junk: "Jere style" (unless unsigned), "brass decor", "wall hanging". `Curtis Jere Signed 1976 Birds in Flight Brass Metal Wall Sculpture 36in MCM`
+- **Where:** eBay BIN with offers for signed pieces; Chairish/1stDibs sell signed classics for more to decorators (slower, higher fee). Unsigned wire decor FB local only.
+- **Price position:** signed at the sold median for the subject/size, accept −10%, floor 80%; OBO; cut 10% after 30 days. Unsigned at the $15–60 tier, firm.
+- **Photos:** full piece on a plain wall; signature and year close up; welds; back and any label; profile for depth; a bent/missing element close up; next to a tape.
+- **State:** "signed C. Jere [year]" only if seen (else "mid-century style metal wall art, unsigned"), width × height × depth, weight, material/finish, hanging hardware, bent or missing elements and patina by photo number.
+- **Pack / haul:** passenger-seat, flat but long; double-box with a cardboard backer, each element wrapped and immobilized, small $15–30, 30–40" $30–60 oversize.
+- **Quote to a buyer:** "Signed C. Jere [year] [subject] from Artisan House, [width]; the same piece lists at [$] on 1stDibs and unsigned copies are what sell for [$]."
 
 ## Buy rule
 Price ≤ $200, signature visible or confirmed, fits passenger seat (≤ ~40 in), complete (no missing elements). Profit = resale × 0.87 − ~$30 ship out − ~$20 ship in − price ≥ max($50, price). Example: signed 28 in sailboat, resale $300 → 261 − 50 = $211 headroom → buy at ≤ $105 (Tier A ≤ $70). Unsigned wire/tin: always pass. No authentication service needed but never trust Lens alone.

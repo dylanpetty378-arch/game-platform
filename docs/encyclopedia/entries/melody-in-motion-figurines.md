@@ -1,5 +1,5 @@
 # Melody in Motion musical figurines (Willitts Designs; sculptor Seiji Nakane)
-Updated: 2026-10-13 · Sources: general knowledge only (no web search this run; no Terapeak rows for this type in /home/claude/game-platform/db/comps.jsonl). Verify on eBay sold: https://www.ebay.com/sch/i.html?_nkw=melody+in+motion&LH_Sold=1 · WorthPoint: https://www.worthpoint.com/
+Updated: 2026-10-28 · Sources: general knowledge only (no web search this run; no Terapeak rows for this type in /home/claude/game-platform/db/comps.jsonl). Verify on eBay sold: https://www.ebay.com/sch/i.html?_nkw=melody+in+motion&LH_Sold=1 · WorthPoint: https://www.worthpoint.com/
 Slug: melody-in-motion-figurines · Aliases: Willitts musical figurine, Melody in Motion music box, hobo clown music box, Willie the Hobo, Nakane porcelain music figurine, "animated musical porcelain"
 Summary: common working figures $25–50; Santas, carousels, multi-figure/large or limited pieces $60–150; non-working/broken $5–20 (general knowledge, verify)
 Buy rule (short): Only buy working, unchipped pieces with the original box ≤ $25, or Santa/carousel/large multi-figure pieces ≤ $40; pass non-working movements.
@@ -48,7 +48,13 @@ Sellers usually overprice ("Retail was $150"). Underpricing happens in estate lo
 Fragile porcelain with protruding parts. Double-box, wrap protruding arms, immobilize the motion (tape the wind-up so it doesn't run in transit). 3–5 lb packed; $15–22 ground.
 
 ## Selling it (for the buyer-facing listing)
-State title, sculptor (Seiji Nakane), Willitts Designs, tune name, movement working (include a short video), any chips, box/COA included. Photograph the base label.
+- **Title words:** "Melody in Motion" + Willitts Designs + title (Santa / carousel / Willie hobo) + "Seiji Nakane" + "working" + tune + "box/COA". Junk: "clown music box", "porcelain figurine" alone, "retail was". `Melody in Motion Willitts Santa Claus Musical Figurine Working Nakane Box COA`
+- **Where:** eBay BIN with offers (older collectors and gift buyers; Santa pieces Nov–Dec). No local premium; non-working to parts buyers.
+- **Price position:** at the sold median ($25–50 common; $40–80 Santas; $60–150 carousels/limited), accept −15%, floor 75%; OBO; cut 15% after 45 days; broken $5–20 firm.
+- **Photos:** figure front on white; base label (Willitts, Nakane, Japan vs offshore); movement running (short video with sound); protruding parts close up for chips; box and COA.
+- **State:** title, sculptor Seiji Nakane, Willitts Designs, tune name, movement working with video, country from label, chips/repairs by photo number, box/COA included.
+- **Pack / haul:** shoebox, 3–5 lb packed, $15–22; tape the wind-up so it can't run, wrap protruding arms, double-box.
+- **Quote to a buyer:** "Willitts Melody in Motion [Santa], Seiji Nakane sculpt, plays [tune] and moves — video in the listing — with box and COA; broken ones sell for [$] and working [Santa/carousel] pieces bring [$]."
 
 ## Buy rule
 Profit = median × 0.87 − ship to buyer (~$18) − ship to Dylan (~$18) − price ≥ max($50, price). With commons at ~$40 median, the math never works for single common pieces. Only possible: a Santa/carousel/limited piece with a realistic $100+ sold median, working on video, at ≤ $25. Default: pass. Local pickup lots of several working pieces for ≤ $30 could work. No repairs.

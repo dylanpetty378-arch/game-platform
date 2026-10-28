@@ -1,5 +1,5 @@
 # Golf clubs (modern used, classic 1980s–2000s, persimmon, hickory; Scotty Cameron, Ping, Mizuno, Titleist, Hogan, TaylorMade, Callaway, MacGregor)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay putter/driver category browsing 2026-10, appraisily old golf club value guides, SI Vault 1980 collector article (hickory era), rolledbackgolf eBay store (vintage), sweep listings 2026-10 (Cleveland irons set $40, Ping Rapture driver $70, Odyssey Tri-Hot putter $65, Titleist 980F $40, TaylorMade Stealth 2 $200, Ben Hogan set w/ bag $50, George Nicoll hickory 6-iron $100, Ram Laser FX set $40). · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay putter/driver category browsing 2026-10, appraisily old golf club value guides, SI Vault 1980 collector article (hickory era), rolledbackgolf eBay store (vintage), sweep listings 2026-10 (Cleveland irons set $40, Ping Rapture driver $70, Odyssey Tri-Hot putter $65, Titleist 980F $40, TaylorMade Stealth 2 $200, Ben Hogan set w/ bag $50, George Nicoll hickory 6-iron $100, Ram Laser FX set $40). · tells 2026-10-13
 Slug: golf-clubs · Aliases: golf clubs, golf set, irons set, driver, woods, persimmon, hickory golf club, antique golf club, golf bag with clubs
 Summary: Starter sets, Ram/Northwestern/Wilson, 2000s drivers, common hickory $5–40; Ping Eye 2, Odyssey, older drivers, Hogan Apex, persimmon $50–200; Scotty Cameron, Mizuno MP, Titleist MB, Ping Anser Scottsdale, Eye 2 BeCu, current drivers $200–600; Tour/Circle T, Anser 1A, Eye-O-Matic, rare hickory $600–5,000+.
 Buy rule (short): Scotty Cameron < $100, Ping Anser Scottsdale/Phoenix < $60, Mizuno MP/Titleist MB set < $80, current-gen driver < $80; pass budget sets, 2000s drivers, common hickory singles.
@@ -67,7 +67,13 @@ Very liquid eBay market for current clubs; prices fall each new release cycle. S
 Single putter/driver $15–25 each way (long box); full set $50–80 – sets rarely clear the rule unless local. eBay 13%; GolfWRX classifieds / 2nd Swing trade-in as alternatives.
 
 ## Selling it (for the buyer-facing listing)
-State maker, model, club numbers in the set, loft/lie if known, shaft brand/flex/material, grip condition, length, hand (RH/LH), headcover. Photograph sole stampings, face, back/cavity, shaft labels, grips. Title: "[Maker] [Model] irons 3-PW, [shaft] [flex], RH".
+- **Title words:** maker + model + club numbers (3-PW) + shaft brand/flex/material + hand + "set"; putters: model + length + "w/ headcover". Junk: "golf clubs lot", "starter set", "great condition" alone. `Mizuno MP-33 Forged Irons 3-PW Dynamic Gold S300 Stiff RH Steel`
+- **Where:** eBay BIN with offers (list Mar–May); GolfWRX classifieds for collectible irons/putters at the same price with no fee; 2nd Swing trade-in as a fast floor. Full budget sets FB local.
+- **Price position:** at the sold median for the model and shaft, accept −10%, floor 85%; OBO; cut 10% after 21 days, more after each new release cycle.
+- **Photos:** full set fanned on plain background; sole stampings (address line on Ping); faces and grooves; backs/cavities; shaft labels and flex; grips; headcovers; any dents or rust.
+- **State:** maker, model, club numbers, loft/lie if known, shaft brand/flex/material, length, hand, grip condition, headcovers, refinish or bent shafts by photo number.
+- **Pack / haul:** passenger-seat; single putter/driver in a long box $15–25; full set 50–80 (local preferred); heads wrapped, clubs taped together, box ends reinforced.
+- **Quote to a buyer:** "[Maker model] irons 3-PW with [shaft flex], [year], grooves sharp, grips [fresh/worn]; a new set is [$] and these forged [Mizuno/Titleist] blades hold value because [players still game them]."
 
 ## Buy rule
 Buy when: Scotty Cameron under $100, Ping Anser Scottsdale/Phoenix under $60, Mizuno MP/Titleist MB set under $80, current-gen driver under $80. Pass when: Ram/Northwestern/Wilson/Spalding sets, any 2000s driver, hickory singles by common makers, single Odyssey/Ping putters over $30. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Singles and a bagged set fit a passenger seat.

@@ -1,5 +1,5 @@
 # Mauchline ware and tartan ware (W. & A. Smith of Mauchline, Archibald Brown, Davidson, Wilson & Amphlet)
-Updated: 2026-10-13 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Mauchline_ware ; Mauchline Ware Collectors Club (UK) references; Bonhams/Lyon & Turnbull auction results for tartanware (not retrieved this run); no sold comps in db/comps.jsonl
+Updated: 2026-10-28 · Sources: general knowledge (verify); https://en.wikipedia.org/wiki/Mauchline_ware ; Mauchline Ware Collectors Club (UK) references; Bonhams/Lyon & Turnbull auction results for tartanware (not retrieved this run); no sold comps in db/comps.jsonl
 Slug: mauchline-and-tartan-ware · Aliases: tartanware, plaid box, Scottish plaid case, Mauchline box, transferware wood box, souvenir sycamore box, fern ware, Mauchline needle case, spectacle case
 Summary: small transfer-ware souvenirs (napkin rings, egg cups) $15–40; tartan ware needle/spectacle cases and small boxes $60–200; snuff boxes, card cases, named-tartan pieces and sewing tools $150–400; large boxes/rare forms $400–1,500+
 Buy rule (short): Buy real tartan ware (paper tartan on sycamore, clan name printed on it) under $40 for small cases or under ~1/3 of sold median; most priced over $60 are pass.
@@ -55,7 +55,13 @@ Small, steady collector market (UK strongest; US eBay tens of sales per month). 
 Pocket size, a few ounces. Bubble-wrap in a small box (~$6–9). Low transit risk unless crushed.
 
 ## Selling it (for the buyer-facing listing)
-Name the tartan (read the printed name), form, size, maker if known (Smith of Mauchline), and photograph edges, seams, interior and every tear. State "19th century, paper tartan over sycamore".
+- **Title words:** "Mauchline ware"/"tartan ware" + tartan name (Stuart, MacDuff) + form (needle case / snuff box / card case / napkin ring) + "sycamore" + "19th century Scottish" + transfer view town. Junk: "plaid box", "wooden trinket box", "Scottish souvenir" alone. `Antique Tartan Ware Needle Case Royal Stuart Mauchline Sycamore 19th C Scottish`
+- **Where:** eBay BIN with offers with global shipping on (UK buyers are the strongest market); UK auctions for snuff boxes and rare forms. No local market.
+- **Price position:** at the sold median ($60–180 needle/spectacle cases; $150–400 snuff/card cases), accept −10%, floor 80%; OBO; cut 15% after 30 days.
+- **Photos:** piece on white; printed tartan name close up; transfer view with town name; edges and seams; interior open; base; every tear or lifted paper; next to a ruler.
+- **State:** tartan name as printed, form, size, maker if known (Smith of Mauchline), "19th century, paper tartan over sycamore", view/town name, sewing tools inside, tears/lifting/varnish wear by photo number.
+- **Pack / haul:** pocket, a few ounces, bubble-wrapped in a small rigid box $6–9; low risk unless crushed.
+- **Quote to a buyer:** "Scottish Mauchline tartan ware [needle case] in [Royal Stuart] with the clan name printed on, sycamore, [1860s–80s]; the continental tartan-print copies sell for [$] and named Mauchline pieces bring [$]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$7 − ~$7 − price ≥ max($50, price). A $120 needle case supports a buy at ≤ $40; $200 pieces at ≤ $70. Pass otherwise. No repairs. Fits a car seat.

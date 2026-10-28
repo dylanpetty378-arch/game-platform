@@ -1,5 +1,5 @@
 # Kettler Kettcar pedal go-karts (and other German pedal cars; Berg, Puky)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay listings "Kettcar Original Pedal Race Car Kettler Made in Germany" (US listings typically $150–300 asking, local pickup/freight), Kettler shop (new Kettcar Evolution ~$250–450), Eames Institute (Kettcar as design object); remaining detail general knowledge, verify
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay listings "Kettcar Original Pedal Race Car Kettler Made in Germany" (US listings typically $150–300 asking, local pickup/freight), Kettler shop (new Kettcar Evolution ~$250–450), Eames Institute (Kettcar as design object); remaining detail general knowledge, verify
 Slug: kettler-kettcars · Aliases: Kettcar, Kettler pedal car, pedal go kart, German pedal car, Berg go kart, Puky, pedal race car
 Summary: Chinese pedal karts/rusted $30–60; 1990s–2000s German Kettcar $80–150; 1970s–80s originals/large Berg $150–300; 1960s first-gen/NOS $300–600
 Buy rule (short): bigger than a passenger seat – excluded by the size rule
@@ -45,7 +45,13 @@ Local-pickup item bought by parents/grandparents; in the US, scarce and bought b
 Heavy and bulky: 25–40 lb, ~40x24x24" box – $60–100 freight each way. This is a local-flip item; not a ship-in buy unless ≤ $40.
 
 ## Selling it (for the buyer-facing listing)
-State model, decade, country of manufacture, tyre type, brake works, seat adjusts, rust, completeness. Photograph decals, frame, chain, brake, seat rail, tyres. Title keywords: "Kettler Kettcar Made in Germany pedal go kart", "vintage 1980s", "chain drive".
+- **Title words:** "Kettler Kettcar" + "Made in Germany" + model + decade + "pedal go kart" + "chain drive" + pneumatic tyres. Junk: "kids ride on", "pedal car" alone, "toy". `Kettler Kettcar Made in Germany Pedal Go Kart Vintage 1980s Chain Drive Pneumatic`
+- **Where:** FB Marketplace / Craigslist local pickup (25–40 lb, freight $60–100); spring/summer and pre-Christmas peaks; European-raised buyers (military families) pay the most.
+- **Price position:** at the local sold median ($80–150 1990s–2000s; $150–300 1970s–80s originals), accept −15%, floor 75%; OBO; cut 15% after 30 days.
+- **Photos:** kart side on outdoors; "Made in Germany" decal/plate; frame and chrome; chain and guard; brake lever; seat rail adjustment; tyres; rust close up; child-size reference.
+- **State:** model, decade, country of manufacture, tyre type, brake works, seat adjusts, chain guard/pedals complete, rust, dimensions and weight, pickup location.
+- **Pack / haul:** bigger than a passenger seat, 25–40 lb, ~40×24×24 box — local flip only; if shipped, remove seat and wheels, $60–100 freight.
+- **Quote to a buyer:** "Original German-made Kettler Kettcar from the [1980s], chain drive with pneumatic tyres and the adjustable seat rail, brake works; the current Chinese-made line is [$] new and German originals go for [$]."
 
 ## Buy rule
 Size: a Kettcar is bigger than a passenger seat, so the type is **excluded** by the size rule. Earlier rule (kept for reference): Buy when German-made original at ≤ $40 and the car fits a trip, or NOS/boxed 1970s–80s at ≤ $100. Pass when: $75+ (the usual Craigslist price) – profit never clears after freight. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule).

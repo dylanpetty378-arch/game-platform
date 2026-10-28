@@ -1,5 +1,5 @@
 # Fluorescent desk lamps (Art Specialty Co "Lite Master", Eagle, Faries, Dazor, Luxo, Industrial Lamp Corp, generic 1940s–60s office)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run); Google Lens result in batch b27 (pid 7929762122, Lens median $80, unverified asking prices)
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run); Google Lens result in batch b27 (pid 7929762122, Lens median $80, unverified asking prices)
 Slug: fluorescent-desk-lamps · Aliases: flying wing lamp, art deco desk lamp, banker's fluorescent, mid century office lamp, industrial desk lamp, Lite Master, pedestal fluorescent lamp, drafting lamp
 Summary: generic brown/grey crinkle pedestal lamps $25–60; clean flying-wing / streamline Art Deco ($80–175); Dazor/Luxo/Lite Master with chrome or two-tone and working original ballast $100–250 (general knowledge, verify)
 Buy rule (short): Only buy the streamline "flying wing" or chrome/two-tone Art Deco versions under ~$40, complete with original diffuser/shade and reportedly working; pass on plain crinkle-finish office pedestals.
@@ -63,7 +63,13 @@ Conversely, Lens and sellers often over-attribute plain lamps to "Lite Master" a
 18–26" long, 6–12 lb. Box ~28×10×14; remove tube and ship separately or not at all (tubes break and contain mercury — best to sell "tube not included"). Wrap hood edges; double-box heavy cast bases. Expect $20–35 to buyer.
 
 ## Selling it (for the buyer-facing listing)
-State the maker only if a label proves it; otherwise "Art Deco style". State finish, dimensions, tube length/wattage, and electrical status truthfully ("lights with new tube" or "untested, sold for parts/restoration"). Photograph the base label, switch, ballast, and paint wear. Note that vintage ballasts may hum and that rewiring with an electronic ballast is common.
+- **Title words:** maker if labelled (Lite Master Art Specialty / Faries / Dazor) + "Art Deco" + "flying wing"/"streamline" + "fluorescent desk lamp" + finish (two-tone / chrome) + era + "works". Junk: "vintage desk lamp" alone, "industrial" for plain crinkle, "Lite Master" without a label. `Art Specialty Lite Master Flying Wing Fluorescent Desk Lamp Two-Tone Deco 1940s`
+- **Where:** eBay BIN with offers for flying-wing/Deco styles (sell in days); FB Marketplace local for plain crinkle pedestals (shipping $20–35 eats them).
+- **Price position:** at the sold median ($60–120 clean Deco; $120–250 flying wing/Faries), accept −10%, floor 80%; OBO; cut 15% after 30 days; plain pedestals $25–60 local, firm.
+- **Photos:** lamp on plain background from the front three-quarter; base label; switch and ballast; hood interior and diffuser; paint wear close up; lit with a new tube (video) or stated untested.
+- **State:** maker only if the label proves it (else "Art Deco style"), finish, dimensions, tube length/wattage, "lights with new tube" or "untested, for restoration", ballast hum/rewiring noted, diffuser/clock/pen tray present, flaws by photo number.
+- **Pack / haul:** passenger-seat, 18–26" long, 6–12 lb; box 28×10×14, tube removed and not shipped (mercury), hood edges wrapped, cast base double-boxed, $20–35.
+- **Quote to a buyer:** "[Art Specialty Lite Master / Faries] flying-wing Deco fluorescent lamp, [1940s], label under the base, original [two-tone] paint, lights with a new tube; plain office pedestals go for [$] and this streamline form brings [$]."
 
 ## Buy rule
 Price ≤ $40 and the photo shows a streamline/flying-wing hood or chrome/two-tone Deco styling, reportedly working, no broken sockets. Profit check: $130 × 0.87 − $25 − $20 − $40 ≈ $28 → still under $50, so in practice only buy flying-wing types at ≤ $25 or confirmed Lite Master/Faries labelled examples with clean paint. Pass on plain crinkle pedestals at any price above ~$5 (cannot clear $50 profit). Untested = treat as non-working (Dylan rule: no untested electronics).

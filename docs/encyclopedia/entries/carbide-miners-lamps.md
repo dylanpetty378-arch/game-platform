@@ -1,5 +1,5 @@
 # Carbide miner's lamps and mining lights (Justrite, Auto-Lite, Guy's Dropper, Dewar, Baldwin)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay sold browse Oct 2025 (Justrite, Auto-Lite, Guy's Dropper); sweep listing 2318
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay sold browse Oct 2025 (Justrite, Auto-Lite, Guy's Dropper); sweep listing 2318
 Slug: carbide-miners-lamps · Aliases: miner's lamp, carbide lamp, coal miner's lamp, miner's helmet lamp, cap lamp, mining light, acetylene lamp
 Summary: Dented steel Justrite $15–30; complete brass Justrite/Auto-Lite $35–70; Guy's Dropper, Baldwin, Dewar hand lamps, boxed NOS $80–200; pre-1915 Baldwin, rare makers, coal-company marked $200–600.
 Buy rule (short): Buy Baldwin/Guy's Dropper/Dewar ≤ $30 or brass box lots ≤ $10/lamp; pass a single Justrite over $25.
@@ -49,7 +49,13 @@ Maker; most sellers just say "miner's lamp". Justrite is the Zebco of the catego
 1 lb, $8–10. eBay 13%. Empty any carbide residue before shipping (it reacts with moisture).
 
 ## Selling it (for the buyer-facing listing)
-Maker and model as stamped, material (brass/steel), completeness (reflector, striker, water lever, hook), whether it has been cleaned, any company marking, height. Photograph the top stamp, reflector, striker and base.
+- **Title words:** maker (Justrite / Auto-Lite / Guy's Dropper / Baldwin / Dewar) + "carbide" + "miner's lamp" + brass/steel + cap/hand + company mark. Junk: "antique light", "mining decor". `Guy's Dropper Brass Carbide Miners Cap Lamp Complete Reflector Striker`
+- **Where:** eBay BIN with offers (collector niche, buyers search by maker); auction for Baldwin/rare makers. No local premium.
+- **Price position:** at the sold median for the maker, accept −10%, floor 80%; OBO; cut 10% after 21 days.
+- **Photos:** lamp standing with reflector; top stamp close-up; reflector and striker; water lever and hook; base and bottom threads; company marking if any.
+- **State:** maker/model as stamped, brass or steel, complete (reflector, striker, lever, hook) or what is missing, cleaned or untouched patina, company mark, height, dents by photo number.
+- **Pack / haul:** pocket, 1 lb, $8–10; empty carbide residue, wrap reflector separately, no double-box.
+- **Quote to a buyer:** "[Maker] brass carbide cap lamp, [era], complete with original reflector and striker; the common Justrites go for [$] and [maker] is the one mining collectors hunt."
 
 ## Buy rule
 Buy when: Baldwin/Guy's Dropper/Dewar ≤ $30, or a box lot with several brass lamps ≤ $10 each. Pass when: single Justrite over $25. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

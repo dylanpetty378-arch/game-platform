@@ -1,5 +1,5 @@
 # Modern dinnerware and serveware (Pottery Barn, Williams-Sonoma, Crate & Barrel, Rae Dunn, Gibson, Oneida, Tabletops Unlimited/Gallery, Certified International, Pfaltzgraff, Mikasa, Fiesta, Le Creuset/Emile Henry stoneware, Vietri, Juliska, Mackenzie-Childs, Arabia/Heath)
-Updated: 2026-10-13 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Replacements Ltd pattern pages https://www.replacements.com ; eBay sold search https://www.ebay.com/sch/i.html?_nkw=tureen+hand+painted&LH_Sold=1 ; Mackenzie-Childs, Vietri and Juliska brand sites for retail. Related comps in comps.jsonl: "china dinnerware sets" median $17.23 n=50 (p25 12.66, p75 31.67); "american dinnerware" median $14 n=48, Terapeak 365d, 2026-10-13.
+Updated: 2026-10-28 · Sources: general knowledge (no web search budget this run; numbers are estimates, verify); for verification: Replacements Ltd pattern pages https://www.replacements.com ; eBay sold search https://www.ebay.com/sch/i.html?_nkw=tureen+hand+painted&LH_Sold=1 ; Mackenzie-Childs, Vietri and Juliska brand sites for retail. Related comps in comps.jsonl: "china dinnerware sets" median $17.23 n=50 (p25 12.66, p75 31.67); "american dinnerware" median $14 n=48, Terapeak 365d, 2026-10-13.
 Slug: modern-dinnerware · Aliases: dinnerware, dishes, teapot, pitcher, carafe, soup tureen, serving bowl, casserole, platter, stoneware, ironstone, hand painted dinnerware, Pottery Barn, Rae Dunn, Gibson, Oneida, Tabletops Unlimited, Certified International
 Summary: Big-box and department-store ceramics (Gibson, Oneida, Tabletops, Pottery Barn, Rae Dunn) $8–40; current premium brands used (Vietri, Juliska, Le Creuset stoneware, Emile Henry, Heath) $40–150; Mackenzie-Childs Courtly Check, discontinued Heath/Arabia/Fiesta rare colours, Vietri large pieces $80–400.
 Buy rule (short): Pass on mass-market brands; buy only Mackenzie-Childs, Vietri, Juliska, Heath, Arabia, early Fiesta rare colours or Le Creuset at ≤ 1/3 of sold median; check backstamps.
@@ -60,7 +60,13 @@ Huge supply; buyers mostly replacing pieces. Bulky and fragile items (tureens, p
 Tureens and pitchers: 6–12 lb boxed; $20–30 each way; double box. Teapots: protect spouts and lids separately.
 
 ## Selling it (for the buyer-facing listing)
-Show the backstamp, dimensions, capacity; disclose chips and crazing; list exact pattern name from Replacements.
+- **Title words:** maker + exact pattern name (from Replacements) + piece (tureen / pitcher / dinner plate) + size/capacity + "set of N" + colour. Junk: "farmhouse", "dishes" alone, "like new" for Gibson/Rae Dunn. `Mackenzie-Childs Courtly Check Enamel Pitcher 2 Qt Hand Painted Retired`
+- **Where:** eBay BIN with offers for Mackenzie-Childs/Vietri/Juliska/Heath/Le Creuset; Replacements buy-back as a floor; mass-market brands FB local (shipping exceeds value).
+- **Price position:** at the sold median ($40–150 premium brands; $80–400 Mackenzie-Childs/rare Heath), accept −10%, floor 80%; OBO; cut 15% after 30 days; mass-market $8–40 local, firm.
+- **Photos:** piece on white; backstamp; rim and spout under raking light; interior; lid separately; set laid out with count; chips/crazing close up; capacity against a measuring cup.
+- **State:** maker, exact pattern name, dimensions, capacity, piece count, backstamp, chips/crazing/utensil marks by photo number, retired or current pattern, dishwasher/microwave note from the maker.
+- **Pack / haul:** carry-on; tureens and pitchers 6–12 lb double-boxed $20–30; teapot spouts and lids wrapped separately; plates stacked with foam between.
+- **Quote to a buyer:** "[Mackenzie-Childs Courtly Check / Vietri] [piece] in the [retired] pattern, no chips; Replacements lists it at [$] and it retails new at [$] — this one is [price]."
 
 ## Buy rule
 Profit = sold median × 0.87 − ~$20 to buyer − ~$20 to Dylan − price; pass unless ≥ max($50, price).

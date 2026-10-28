@@ -1,5 +1,5 @@
 # Children's china (nursery mugs, plates, bowls and feeding dishes: Royal Doulton Bunnykins, Wedgwood Peter Rabbit, Roseville Juvenile, Buffalo Pottery Campbell Kids, Homer Laughlin, Knowles Taylor Knowles, Shenango, Hazel Atlas/Hocking glass, Staffordshire ABC plates, Japan/Occupied Japan, Royal Bayreuth, Shelley Mabel Lucie Attwell, Beatrix Potter by Royal Albert)
-Updated: 2026-10-13 · Sources: general knowledge (no web search this run; prices estimates, verify); Terapeak /home/claude/game-platform/db/comps.jsonl: "childrens tea sets" median $27 (n=50, p25 $15.99, p75 $45), "Japan lusterware child's lusterware tea set" median $18.99 (n=49), "character mugs" median $17.86 (n=42); Royal Doulton Bunnykins backstamp dating (https://www.seawaychina.com Bunnykins guides); Roseville Juvenile reference (https://www.rosevilleonline.com).
+Updated: 2026-10-28 · Sources: general knowledge (no web search this run; prices estimates, verify); Terapeak /home/claude/game-platform/db/comps.jsonl: "childrens tea sets" median $27 (n=50, p25 $15.99, p75 $45), "Japan lusterware child's lusterware tea set" median $18.99 (n=49), "character mugs" median $17.86 (n=42); Royal Doulton Bunnykins backstamp dating (https://www.seawaychina.com Bunnykins guides); Roseville Juvenile reference (https://www.rosevilleonline.com).
 Slug: childrens-china · Aliases: child's mug, baby cup, nursery rhyme mug, nursery plate, ABC plate, alphabet plate, baby dish, feeding dish, Bunnykins, Peter Rabbit, Campbell Kids, Sunbonnet babies, child's cup, children's dishes
 Summary: Generic 1920s–60s decal nursery mugs/plates $8–25; Bunnykins/Wedgwood Peter Rabbit pieces $15–60; Roseville Juvenile, Buffalo Campbell Kids, Shelley Attwell, Royal Bayreuth Sunbonnet $50–250; early Staffordshire ABC transfer plates $60–300.
 Buy rule (short): Pass on generic decal mugs; look for Roseville Juvenile, Buffalo Pottery, Shelley/Attwell, Royal Bayreuth or ABC plates at ≤ $20.
@@ -63,7 +63,13 @@ Roseville Juvenile "Rv" stamp on plain-looking chick/rabbit mugs; Buffalo Potter
 Small: $7–10 boxed and bubble-wrapped.
 
 ## Selling it (for the buyer-facing listing)
-Backstamp photo, height, description of scene, hairline/chip check under light, crazing, gold wear.
+- **Title words:** maker (Bunnykins / Wedgwood Peter Rabbit / Roseville Juvenile / Buffalo Pottery / Shelley Attwell) + piece (mug/plate/bowl/feeding dish) + scene + "child's"/"nursery" + era. Junk: "baby dish", "cute", "vintage kids". `Roseville Juvenile Chick Child's Mug Rv Mark 1920s Nursery Ware 3in`
+- **Where:** eBay BIN with offers (collector-by-maker buyers); Etsy for nursery decorators. No local premium.
+- **Price position:** at the sold median ($10–30 common; $60–300 Roseville/Buffalo/Shelley), accept −15%, floor 75%; OBO; cut 15% after 30 days.
+- **Photos:** front scene on white; backstamp; rim and handle under raking light for chips/hairlines; interior; gold trim wear; next to a ruler.
+- **State:** maker, backstamp, scene/character, height and diameter, hairlines/chips checked under light, crazing, gold wear, signature ("Barbara Vernon") if present, flaws by photo number.
+- **Pack / haul:** shoebox, under 1 lb, bubble-wrapped and boxed $7–10; double-box plates.
+- **Quote to a buyer:** "[Maker] nursery [mug/plate] with the [Rv / Buffalo / Attwell] mark, [1920s–40s], no chips or hairlines; generic decal mugs sell for [$] and marked [maker] pieces for [$]."
 
 ## Buy rule
 Profit = median × 0.87 − ~$9 − ~$9 − price ≥ max($50, price). A mug needs a ~$80+ median at $10 — only Roseville/Buffalo/Shelley/Bayreuth/ABC tier qualifies, at ≤ $20.
