@@ -90,8 +90,8 @@ category) — and since March 2026 buyers see an AI summary of the seller's tenu
 | Jewelry / metal | — | branded or $500+ on eBay (15%, Authenticity Guarantee $500+) | scrap: coin shop 85–90% of melt or refiner 90–95% — never pawn (40–80%) | trust an "appraisal" as a price |
 | Collectibles | — | eBay (13.25%); auctions beat BIN in 25 of 28 categories | Whatnot for cards/coins | start a rare item at a low BIN |
 
-Shipping limits: USPS Ground Advantage ≤70 lb and 130" L+G; UPS/FedEx ≤150 lb; above = freight ($150–300 cross-country
-dresser). Local buyers pay 20–40% less than shipped buyers — use local for time and zero fees, not for top price.
+Shipping limits: USPS Ground Advantage ≤70 lb and 130" L+G; UPS/FedEx ≤150 lb; above = freight — regional (<500 mi)
+uShip $150–300, cross-country blanket-wrap $300–600, LTL $500–900 (corrected Oct 28 2026; rates and packing: `shipping.md`). Local buyers pay 20–40% less than shipped buyers — use local for time and zero fees, not for top price.
 
 ## 4. Pricing and markdown rhythm
 - **Commodity items with many comps** (mass-market sofas, IKEA, kitchen, tools): price at/just under sold comps on
