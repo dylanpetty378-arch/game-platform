@@ -1,5 +1,20 @@
 # Garage clear-out — 9 pieces, gone within the week (Oct 27 – Nov 3, 2026)
 
+**v3 (Oct 27, 7:50 pm) — Claude is running this end to end; this note wins over everything below.**
+Posted tonight on Dylan's Marketplace by Claude driving Chrome, nine singles, no pickup times (Halloween week —
+Dylan sets times by message): sofa $200 · loveseat+ottoman $150 · rug $175 · Porter TV stand $140 · Porter lift-top
+coffee table $110 · Porter end table $40 (listed "needs a refinish", condition Fair) · round accent table $30 ·
+**custom pine platform storage bed $350** (72"×94"×12", headboard included, 8' rails = pickup/trailer/van only) ·
+**queen Murphy bed mechanism + steel frame + foundation panel + Murphy mattress $300** (cabinet broken, not included;
+DFW asks: complete cabinets $250–700, a bare king frame+panels $530 in Coppell).
+Beds' ladders: platform $350 → $300 (day 4) → $250 (day 6); Murphy $300 → $250 → $200. The Sept 4–8-week bed price
+($575) is traded for the one-week clock. Exit for unsold beds: Tarrant County Furniture Bank takes bed frames;
+Murphy → Craigslist "free" curb alert on day 7.
+**Held to tomorrow morning** (nine posts in an hour is at Facebook's spam line on the account that runs the sweep):
+the two set listings, then joining Keller-area buy/sell groups and "List in more places", Craigslist + OfferUp
+cross-posts, Nextdoor for the rug and small tables. Photos for the new pieces are in the photos folder
+(platform-bed-1..5, murphy-1..4, end-table-hero).
+
 **v2 (Oct 27 evening, after the driveway photos):** nine pieces were photographed; the stepped espresso bookcase
 sold on Jordan's listing the same day (first sale logged), so eight remain. Photo-driven changes: the Porter end table's top is gouged through the finish (not a Restor-A-Finish job;
 priced $40 → free-with-purchase by day 6); the ottoman is an oval teal tufted piece on wood legs, not the matching
