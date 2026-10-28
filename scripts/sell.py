@@ -5,6 +5,8 @@
   python3 scripts/sell.py check <id> C S M [note]   # append today's clicks/saves/messages
   python3 scripts/sell.py sold <id> <price> [where] # close an item (also: donated / hauled / withdrawn)
   python3 scripts/sell.py stats                     # the feedback loop: days-to-sell, % of list, click→message, by family
+  python3 scripts/sell.py card <id>                 # the paste-ready listing from the row (title/body/prices) + its checks
+  python3 scripts/sell.py report                    # by-family table (median days to sell, % of list, clicks→msg) for playbook §1/§4
 
 Row shape: {id, what, family?, plan, list, day4, day6, channels, listed:{when, where, price}, groups:[...],
             checks:[{when, clicks, saves, messages, note}], outcome:{status, when, where, price, note}}
@@ -75,6 +77,39 @@ def cmd_stats():
     print('\nBenchmarks (playbook §1): <2 clicks in 12 h = not shown; dozens of clicks + 0 messages = normal day 1; '
           'many saves + 0 messages = cut 5–10%.')
 
+def cmd_card(i):
+    for r in rows():
+        if r['id'] == i or r['id'].endswith(i):
+            L = r.get('listing') or {}
+            print(f"# {r['id']}  ({r.get('family','?')})\nList ${r.get('list')}  day4 ${r.get('day4')}  day6 ${r.get('day6')}  channels {', '.join(r.get('channels', []))}")
+            print('Title:', L.get('title') or '(not stored — see plan: ' + r.get('plan', '') + ')')
+            if L.get('body'): print('Body:\n' + L['body'])
+            if r.get('listed'): print('Listed:', json.dumps(r['listed']))
+            for c in r.get('checks', []): print('  check', c.get('when'), f"clicks {c.get('clicks')} saves {c.get('saves')} msgs {c.get('messages')}", c.get('note', ''))
+            for g in r.get('groups', []): print('  groups', g.get('when'), len(g.get('groups', [])))
+            if r.get('outcome'): print('Outcome:', json.dumps(r['outcome']))
+            return
+    sys.exit('no such id')
+
+def cmd_report():
+    import collections
+    by = collections.defaultdict(list)
+    for r in rows(): by[r.get('family') or 'unknown'].append(r)
+    print('| Family | n | sold | median days to sell | median % of list | clicks/day (open) | click→msg |\n|---|---|---|---|---|---|---|')
+    today = dt.date.today()
+    for fam, rs in sorted(by.items()):
+        sold = [r for r in rs if (r.get('outcome') or {}).get('status') == 'sold' and r['outcome'].get('price')]
+        ds = sorted((day(r['outcome']['when']) - listed_day(r)).days for r in sold if listed_day(r) and day(r['outcome']['when']))
+        ps = sorted(100 * r['outcome']['price'] / r['list'] for r in sold if r.get('list'))
+        cl = ms = 0; cpd = []
+        for r in rs:
+            if r.get('outcome') or not r.get('listed'): continue
+            c = (r.get('checks') or [None])[-1] or {}
+            if c.get('clicks') is not None:
+                up = max((today - listed_day(r)).days, 1); cpd.append(c['clicks'] / up); cl += c['clicks']; ms += c.get('messages') or 0
+        med = lambda xs: (xs[len(xs)//2] if xs else '-')
+        print(f"| {fam} | {len(rs)} | {len(sold)} | {med(ds)} | {round(med(ps)) if ps else '-'} | {round(sum(cpd)/len(cpd),1) if cpd else '-'} | {f'{round(100*ms/cl)}%' if cl else '-'} |")
+
 if __name__ == '__main__':
     a = sys.argv[1:]
     if not a: print(__doc__); sys.exit()
@@ -83,4 +118,6 @@ if __name__ == '__main__':
     elif c == 'check': cmd_check(*a[1:])
     elif c == 'sold': cmd_sold(*a[1:])
     elif c == 'stats': cmd_stats()
+    elif c == 'card': cmd_card(a[1])
+    elif c == 'report': cmd_report()
     else: print(__doc__)
