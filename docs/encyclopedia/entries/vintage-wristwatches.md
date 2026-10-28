@@ -1,5 +1,5 @@
 # Vintage & fashion wristwatches (Elgin, Bulova, Hamilton, Gruen, Benrus, Omega, Longines, Tissot, Seiko, Citizen, Rolex, Invicta, Swatch)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: eBay DE listings 2026-10 (1956 Bulova 23j 10BPAC 10K RGP "for repair" bidding €36; 1960s Elgin automatic gold-filled running listings €40–90), EBTH lot description (Hamilton Thinline 10K GF + 2 Bulova, non-running, typical estate lot), sweep listings 2026-10 (Elgin self-winding 17j diamond-dial $200 ask, Tissot PR50 $50, 1940s Swiss mechanical $125, Hamilton & Bulova ladies pair $50, Invicta 38491 $80, Citizen Skyhawk $200, Pop Swatch $100, Phillip Stein $200, Nixon Time Teller $100); eBay sold listings (agent knowledge Oct 2026) · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: eBay DE listings 2026-10 (1956 Bulova 23j 10BPAC 10K RGP "for repair" bidding €36; 1960s Elgin automatic gold-filled running listings €40–90), EBTH lot description (Hamilton Thinline 10K GF + 2 Bulova, non-running, typical estate lot), sweep listings 2026-10 (Elgin self-winding 17j diamond-dial $200 ask, Tissot PR50 $50, 1940s Swiss mechanical $125, Hamilton & Bulova ladies pair $50, Invicta 38491 $80, Citizen Skyhawk $200, Pop Swatch $100, Phillip Stein $200, Nixon Time Teller $100); eBay sold listings (agent knowledge Oct 2026) · tells 2026-10-13
 Slug: vintage-wristwatches · Aliases: vintage watch, mechanical watch, wind-up watch, self-winding, gold-filled watch, Accutron, Hamilton Electric, Seiko chronograph, men's vintage watch, ladies' watch
 Summary: Fashion/quartz, non-running GF and ladies' $10–50; running mid-century GF men's, Tissot quartz, Seiko 5 $40–150; Accutron, Hamilton Electric, Seiko 6139/6105, Omega, Longines, WWII A-11 $150–2,500; Rolex, Speedmaster, Heuer, Patek $1,500–20,000+.
 Buy rule (short): Buy Accutron/Hamilton Electric/Seiko chrono/Omega/Longines/military running at ≤ 30% of tier (≤ $75), solid 14K under melt, A-11 under $60; pass GF dress watches over $40–60, non-running, fashion brands.
@@ -109,10 +109,13 @@ Tiny: ounces, $6–10 each way ($8 insured). eBay 13% (or Chrono24 for Collectib
 over $2,000. Non-running = pass (Dylan: no repair).
 
 ## Selling it (for the buyer-facing listing)
-State maker, model/reference, year (date code/serial), case material and stamps (14K vs 10K GF), case size without
-crown, movement calibre and jewels, running status and accuracy, service history, dial originality, band. Photograph dial,
-caseback inside and out, movement, crown, and lugs. Title: maker, model, reference, calibre, year, case material,
-"running", "serviced".
+- **Title words:** maker, model name, reference number, calibre, year (from serial/date code), case material as stamped ("14K", "10K GF", "stainless"), case size in mm, "running", "serviced". Junk: "antique", "rare" with no model. Example: `Hamilton Electric 500 1957 10K GF 33mm Running Vintage Wristwatch Original Dial`.
+- **Where:** eBay BIN with offers (authenticity guarantee kicks in over $2,000); Chrono24 for anything Collectible+; never FB for a watch over $100 (scam magnet).
+- **Price position:** list at the sold median for that reference + condition, accept −10%, floor −20%; "firm" on Omega/Seiko chronographs (they sell); OBO on GF dress watches after 30 days.
+- **Photos:** first photo dial straight-on at 12:00 with hands at 10:10, on a neutral background. Then caseback outside and inside, movement with calibre visible, crown, lugs and between-lug width, band/clasp, dial close for originality (lume, printing), it running (short video or timegrapher photo).
+- **State:** maker, model/reference, year and how dated, case material and stamps, case size without crown, calibre and jewels, running and daily accuracy, service history, dial originality, band original or replacement, crystal condition.
+- **Pack / haul:** ounces; small box, crown wound down, no rattling; $6–10 each way, insured over $100.
+- **Quote to a buyer:** "Reference X, calibre Y, serial dates it to 19ZZ, original dial; running at +N sec/day; serviced [when/never]." Non-running = we don't sell it as a watch (parts lot only).
 
 ## Buy rule
 Merged from both write-ups:

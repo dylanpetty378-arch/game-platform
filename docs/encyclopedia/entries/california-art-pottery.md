@@ -1,5 +1,5 @@
 # California art pottery (Metlox Romanelli, Bauer, Catalina, Brayton Laguna, Hedi Schoop, Kay Finch)
-Updated: 2026-10-12 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: eBay listings (Metlox Romanelli nude "water bearer" vase 9" – $99 ask, Des. Patent 125,594), collector references for Bauer ringware and Catalina Island, eBay sold
+Updated: 2026-10-28 · upgraded 2026-10-13 · tells 2026-10-13 · Sources: eBay listings (Metlox Romanelli nude "water bearer" vase 9" – $99 ask, Des. Patent 125,594), collector references for Bauer ringware and Catalina Island, eBay sold
 Slug: california-art-pottery · Aliases: vintage California pottery, Metlox vase, nude lady vase, Bauer bowl, Bauer ringware, Catalina Island pottery, Brayton Laguna, Kay Finch, Hedi Schoop, Vernon Kilns, Franciscan
 Summary: Metlox/Franciscan dinnerware and plain Vernon $5–25; small Romanelli figurals, Kay Finch small animals, Bauer ringware plates/bowls $60–150; Romanelli Zodiac/large nudes, Bauer oil jars, Catalina Island vases, Brayton Disney $200–600; rare Bauer/Catalina/Romanelli forms $700–3,000.
 Buy rule (short): Marked Romanelli/Catalina Island/Bauer large forms ≤ 35% of sold; unmarked "nude lady vase" ≤ $40 (check base); pass named-and-priced ≥ 60% of sold.
@@ -57,7 +57,13 @@ Strong West Coast collector base and mid-century decorators; eBay and Etsy for s
 2–8 lb, fragile – double-box; $15–30. eBay ~13%. Large oil jars (20"+) are heavy and need custom crating.
 
 ## Selling it (for the buyer-facing listing)
-State maker, mark text (including Des. Patent number), form/model, glaze colour, height, condition (chips, crazing, repairs). Photograph the base mark, all sides, rim and foot, and glaze close-ups. Keywords: maker + designer ("Romanelli") + form ("nude vase", "oil jar", "ringware") + glaze colour + "California pottery".
+- **Title words:** maker (Metlox, Bauer, Catalina, Brayton Laguna, Hedi Schoop, Kay Finch), designer ("Romanelli"), form ("nude vase", "oil jar", "ringware", figurine), glaze colour as the maker named it, height, "California pottery", "Des. Patent" number if marked. Junk: "mid century vase", "art deco pottery" alone. Example: `Metlox Romanelli Zodiac Vase Aquarius 1930s California Pottery 9in Des Patent`.
+- **Where:** eBay BIN with offers (collectors nationwide); Bauer ringware and large oil jars sell locally (FB/Craigslist, decorator buyers) because shipping kills them. Etsy for decorator-grade small pieces.
+- **Price position:** list at the sold median for maker + form + colour, accept −15%, floor −30%; rare glaze colours firm.
+- **Photos:** first photo straight-on, piece filling the frame, plain background. Then the base mark macro, all four sides, rim and foot (chips), glaze close-ups (crazing, scratches), a ruler for height.
+- **State:** maker, mark text including any Des. Patent number, form/model, glaze colour, height, every chip, flake, craze line and repair (blacklight check, say it was done), "no chips, no cracks, no repairs" only if true.
+- **Pack / haul:** 2–8 lb and fragile: double-box with 2 in. of padding all round, $15–30; oil jars 20"+ are heavy, custom crate or local pickup only.
+- **Quote to a buyer:** "Marked [X], the Romanelli-designed [form] from the 1930s Metlox art line; this glaze is the scarce one; blacklight-checked, no repairs."
 
 ## Buy rule
 Buy when: marked Romanelli/Catalina Island/Bauer large forms at ≤ 35% of sold; unmarked-looking "nude lady vase" at ≤ $40 (check base in a second photo). Pass when: seller names the maker and prices at ≥ 60% of sold. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways. Must fit a passenger seat (the largest oil jars may not – excluded if bigger).

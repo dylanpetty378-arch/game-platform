@@ -1,5 +1,5 @@
 # Signed costume jewelry (Boucher, Sherman, Trifari, Eisenberg, Hobé, HAR, Schiaparelli)
-Updated: 2026-10-12 · upgraded 2026-10-13 · Sources: collectingcostumejewelry101.com (2024 value revisit of Mayer collection), eBay/Etsy listings Oct 2026, Terapeak (Sherman brooches median $92 n=49; Boucher sets median $115 n=50, cited in sweep 2026-10-12), Google Lens asking-price medians (sweep 2026-10-13), agent knowledge · tells 2026-10-13
+Updated: 2026-10-28 · upgraded 2026-10-13 · Sources: collectingcostumejewelry101.com (2024 value revisit of Mayer collection), eBay/Etsy listings Oct 2026, Terapeak (Sherman brooches median $92 n=49; Boucher sets median $115 n=50, cited in sweep 2026-10-12), Google Lens asking-price medians (sweep 2026-10-13), agent knowledge · tells 2026-10-13
 Slug: signed-costume-jewelry · Aliases: vintage brooch, rhinestone brooch, parure, signed brooch, vintage jewelry lot, Crown Trifari, Boucher brooch, Sherman brooch, clip earrings, costume jewelry lot
 Summary: Avon/Coventry/Monet/unsigned $5–25; Trifari/Coro/Lisner/Weiss/Marboux/small Sherman $30–80; Boucher, large Sherman, Eisenberg, Hobé sterling, Juliana, Crown Trifari jelly bellies $100–400; HAR, Schiaparelli, Trifari Maharajah, Haskell, couture $400–2,000.
 Buy rule (short): Top-maker signature visible on the back and priced ≤ 30% of tier, or Sherman parures under $50; pass on common makers, unsigned lots and front-only photos.
@@ -85,7 +85,13 @@ The back. "Vintage brooch lot" listings photograph only the fronts, so ask for b
 Ounces; $5 first-class. eBay or Etsy. Photograph on black velvet.
 
 ## Selling it (for the buyer-facing listing)
-Title: "Vintage Signed [Maker] [form] [stones/colour] [era]", e.g. "Signed Sherman Smoky Topaz Rhinestone Brooch Earrings Set 1960s". State the signature wording and location, dimensions, stone condition (none missing or dark), plating wear and clasp function. Photograph the front on black velvet, the signature close up and the side profile.
+- **Title words:** "Signed" + maker exactly (Trifari, Crown Trifari, Boucher, Sherman, Eisenberg Original, Hobé, HAR, Schiaparelli, Haskell), form (brooch, demi-parure, bracelet), stones/colour ("smoky topaz rhinestone", "jelly belly"), era, "book piece" if it is one. Junk: "vintage jewelry lot", "estate", "designer style". Example: `Signed Sherman Smoky Topaz Rhinestone Brooch & Earrings Demi-Parure 1960s`.
+- **Where:** eBay BIN with offers; Etsy for Sherman, Haskell and Schiaparelli (design buyers); Ruby Lane for couture. Not FB.
+- **Price position:** list at the sold median for maker + form + completeness, accept −15%, floor −30%; book pieces and HAR/Schiaparelli firm; everything else OBO after 30 days.
+- **Photos:** first photo front on black velvet, no hand, stones catching light. Then the signature macro (and where it sits), the back and clasp, side profile (dimensionality), any dark or missing stone circled.
+- **State:** signature wording and location, dimensions, stone condition (none missing or dark, or which ones), plating wear, clasp function, set completeness, book reference if known.
+- **Pack / haul:** ounces; small box (not a mailer for brooches, pins bend), $5 first-class; wrap each piece separately.
+- **Quote to a buyer:** "Signed [maker] [where]; this is the [name] design from 19ZZ, pictured in [book] if applicable; all stones present and bright, plating intact."
 
 ## Buy rule
 Buy when: a Boucher/Eisenberg/Hobé/HAR/Schiaparelli/Haskell signature is visible and the price is ≤ 30% of tier, or Sherman parures are under $50. Pass when: Avon/Coventry/Monet lots, unsigned rhinestone "lots", or front-only photos. Profit must be ≥ max($50, price) after ~13% fees and shipping both ways (Dylan's rule). Must fit a passenger seat.

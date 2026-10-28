@@ -1,5 +1,5 @@
 # Sterling silver jewelry (Taxco Mexican silver, Georg Jensen, Navajo/Zuni/Hopi, Danecraft/Beau/Coro sterling, Modernist studio, Indian/Thai export, mall sterling)
-Updated: 2026-10-13 · Sources: https://fortune.com/article/current-price-of-silver-10-12-2026 (silver spot $60.73/oz, Oct 12 2026) ; https://fortune.com/article/current-price-of-silver-2-20-2026 ; https://underpricedai.com/blog/silver-hallmarks-the-complete-guide-to-identifying-sterling-plated-antique-silve ; https://sellusyourjewelry.com/blog/mark-my-words-the-sterling-silver-makers-marks-that-command-top-dollar-in-2025/ ; https://www.sebastiancharles.com/blog/georg-jensen-sterling-silver-complete-guide-to-value-styles-and-history ; https://www.chairish.com/product/31223678/modern-malachite-sterling-pendant ; https://www.ebay.de/itm/187670764227 ; https://www.ebay.com/itm/397692298487 ; https://lionandunicorn.com/vintage-costume-jewelry-value-guide/ · tells 2026-10-13
+Updated: 2026-10-28 · Sources: https://fortune.com/article/current-price-of-silver-10-12-2026 (silver spot $60.73/oz, Oct 12 2026) ; https://fortune.com/article/current-price-of-silver-2-20-2026 ; https://underpricedai.com/blog/silver-hallmarks-the-complete-guide-to-identifying-sterling-plated-antique-silve ; https://sellusyourjewelry.com/blog/mark-my-words-the-sterling-silver-makers-marks-that-command-top-dollar-in-2025/ ; https://www.sebastiancharles.com/blog/georg-jensen-sterling-silver-complete-guide-to-value-styles-and-history ; https://www.chairish.com/product/31223678/modern-malachite-sterling-pendant ; https://www.ebay.de/itm/187670764227 ; https://www.ebay.com/itm/397692298487 ; https://lionandunicorn.com/vintage-costume-jewelry-value-guide/ · tells 2026-10-13
 Slug: sterling-silver-jewelry · Aliases: 925, sterling, silver ring, silver pendant, silver bracelet, Mexican silver, Taxco, Navajo silver, Native silver, marcasite ring, Swarovski sterling, silver set, Bali silver, Thai silver
 Summary: mall/import sterling with crystals or common stones $10–40 (≈ melt plus a little); heavy vintage sterling sold near melt ($1.30–1.80 per gram at $60/oz silver); named vintage Taxco, signed Navajo/Zuni, Danish/Scandinavian design and modernist studio $80–600; Georg Jensen, William Spratling, Hector Aguilar, Los Castillo, early Navajo ingot $400–5,000+.
 Buy rule (short): Weigh it first: never pay above ~80% of melt for unsigned silver; pay more only for a readable premium mark (Taxco eagle/assay + maker, Jensen, Spratling, signed Native, Scandinavian 925S designer) where the sold median clears profit ≥ max($50, price).
@@ -82,10 +82,13 @@ Ranges are compiled estimates from dealer and collector guides; no dated sold co
 - Padded mailer or small box, $5–6; insure above $100. Pocket-size — always fits the size rule.
 
 ## Selling it (for the buyer-facing listing)
-- Photograph every mark sharply (macro), give weight in grams and dimensions.
-- State stones you can verify; otherwise "green stone, likely malachite."
-- For Native or Taxco attribution, cite the mark and say "attributed" unless certain.
-- Never sell as "Navajo" or "Native American made" without provenance.
+- **Title words:** "Sterling" / "925", the maker or mark as stamped (Taxco + eagle number, Danecraft, Georg Jensen, "signed"), form (cuff, brooch, pendant), stone (turquoise, malachite, onyx), weight in grams, era ("vintage", "mid-century", "modernist"). Junk: "silver tone", "real?", "estate find". Example: `Vintage Taxco Sterling Silver Cuff Bracelet Eagle 3 Mark 48g Mid-Century Modernist`.
+- **Where:** eBay BIN with offers for anything signed or over ~$80 (worldwide buyers); unsigned heavy sterling sells at or near melt anywhere, so a coin shop (85–90% of melt) beats eBay fees. Etsy only for Scandinavian/modernist design.
+- **Price position:** signed pieces list at the sold median, accept −15%, floor at 1.5× melt; unsigned list at melt +20% firm. Cut 10% at 45 days.
+- **Photos:** first photo on black velvet, whole piece, no hand. Then macro of every mark, the back, clasp/hinge, each stone close, on a gram scale showing the number.
+- **State:** mark text exactly as stamped, weight in grams, dimensions, stones you can verify (else "green stone, likely malachite"), "attributed to" for Native or Taxco unless certain, any repair or solder.
+- **Pack / haul:** padded mailer or 4×4 box, $5–6; insure above $100; stones wrapped so nothing rubs.
+- **Quote to a buyer:** "Marked [X]; the eagle 3 assay mark dates it to Taxco 1948–c.1980; 48 g of sterling is $X in metal alone before the design." Never "Navajo" or "Native American made" without provenance.
 
 ## Buy rule
 - Price ≤ $200; profit = sold median × 0.87 − ~$6 ship to buyer − ~$6 ship to Dylan − price ≥ max($50, price).

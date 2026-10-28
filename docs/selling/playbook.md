@@ -4,6 +4,10 @@ Dylan (Oct 27 2026): flip the project to cover selling too. "I should be able to
 thing being sold and the chat come back with exactly how to do it best." This is the knowledge; `docs/selling/sell-id.md`
 is the procedure a chat follows per item. Research briefs with every source: `research/selling/`.
 
+Companion docs: `household-families.md` (the sell-side encyclopedia for bulky household families — search words,
+title formula, % of retail, haul, photos, flaws, channel, clock) · `buyer-messages.md` (reply scripts, scams, no-shows,
+pickup, negotiation) · `strategy-2026-10-28.md` (what's missing and the order to build it). Log tool: `scripts/sell.py`.
+
 Constraints that shape every plan: Keller TX, no truck and **no delivery**, full-time job, two kids, no storage.
 Sells local on Facebook Marketplace (Dylan's account) and shipped on eBay. Jordan's account has been used for
 household goods; moving those to Dylan's account (Oct 27).
@@ -47,6 +51,19 @@ category) — and since March 2026 buyers see an AI summary of the seller's tenu
 - **Spam/automation triggers that cut whole-account reach:** 10 listings in an hour, identical text, frequent edits,
   stock photos, phone number in the body, automation tools. (The Facebook sweep extension runs on the home computer
   with Dylan's account — keep selling listings few and hand-written, and post them slowly.)
+- **Hard limits learned on this account (Oct 27–28 2026):**
+
+  | Limit | What happens | Do instead |
+  |---|---|---|
+  | Title > 100 characters | "Input Title is invalid", Next does nothing | ~80 chars: brand + line + type + material/colour + size |
+  | Set/bundle listing reusing photos from the single listings | silently rejected after Publish: "This looks like a duplicate so we didn't post it" (shows under Needs attention) | one new photo of the pieces together, or skip the set listing and state the set price in each single |
+  | Location typed, not picked | Next stays disabled | pick "Keller, Texas" from the suggestions; it's remembered after |
+  | Groups: account in none | "List in your groups" is empty | join public BST groups (instant); private ones ask questions and sit Pending |
+  | Some joined groups never appear in the share dialog | Keller/Haslet/Saginaw didn't | post in that group by hand if it matters |
+  | 9 new listings in ~1 h | at the spam line; later ones sat "In review" longer | 4–5 per hour, bodies hand-written |
+  | Three-dot → "List in more places" on an existing listing | shares into ≤ 20 joined groups in one click, no new listing created | the cheap reach lever; do it for every piece |
+  | eBay titles | 80 characters | — |
+
 - **Settings:** Message Requests = Everyone; turn on Meta AI auto-reply for "Is this available?"; location = the
   actual pickup area so radius filters include you.
 - **Boost:** $5–30 fixed-budget local boost, only after the listing is fixed, only on bulky local items ≥ ~$150.
@@ -87,6 +104,18 @@ dresser). Local buyers pay 20–40% less than shipped buyers — use local for t
 - **Household clear-out floor:** anything worth under $25 → donate or "free, must pick up by Saturday" (bed-bug
   wariness still applies to free upholstery). Donation has **$0 tax value unless you itemize** (2026 non-itemizer
   deduction is cash-only); itemizers deduct thrift-store FMV, Form 8283 above $500.
+
+### Seasonality — when each family sells (general knowledge, verify against `sell.py stats` as rows accumulate)
+| When | Sells | Why |
+|---|---|---|
+| Jan–Feb | exercise gear, office desks/chairs, storage/organizing, electronics | resolutions, returns-to-work, holiday cash |
+| Mar–May | patio furniture, grills, lawn/garden tools, bikes, kids' outdoor | first warm weekends; list patio in March, not June |
+| May–Aug | all furniture, appliances, beds | moving season peaks June–July; DFW leases turn over |
+| Late Jul–Aug | dorm/first-apartment: small desks, mini-fridges, futons, microwaves, cheap bookcases | college move-in |
+| Sep–Oct | furniture still strong; Halloween/fall decor | last moves before holidays |
+| Oct–early Nov | toys, LEGO, games, kids' gear, TVs | holiday buying; the best 6 weeks for toys |
+| Nov–Dec | TVs, consoles, tools (gifts); furniture slows after Thanksgiving | gift buying; nobody hauls a sofa in December |
+| Any week | the first 3 days after posting; Thu evening–Sun afternoon | Marketplace freshness + weekend trucks |
 
 ## 5. No-truck, no-delivery sellers (us): making the buyer's haul easy
 The #1 reason couch sales fall through is the buyer arriving alone or without a truck. We can't deliver, so:

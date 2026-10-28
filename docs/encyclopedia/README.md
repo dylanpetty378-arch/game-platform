@@ -65,7 +65,15 @@ The tells that raise the price and that untrained sellers leave out of titles.
 Weight, packing, typical shipping cost, fragility notes.
 
 ## Selling it (for the buyer-facing listing)
-What buyers want to know: key facts to state, measurements to give, marks to photograph, keywords for the title.
+(Required sub-lines, each one line, in this order — this is what `docs/selling/sell-id.md` reads when Dylan sells one.
+Under 60 words is flagged by `enc.py lint --thin`.)
+- **Title words:** the 5–8 words buyers type (brand, line/model, type, material/colour, size, era) and the junk words to avoid. One example title ≤ 80 chars (eBay) / ≤ 100 (Facebook).
+- **Where:** eBay (auction or BIN, and why) / FB local / both; the one place it sells for more than eBay, if any.
+- **Price position:** list at X% of the sold median, accept, floor; "firm" or "OBO"; when to cut.
+- **Photos:** the first photo, then the 3–5 shots buyers need (marks, undersides, flaws, scale), and what to show working (video if it runs).
+- **State:** the facts to put in the body — exact model, measurements, marks, what's included, tested/untested, flaws by photo number.
+- **Pack / haul:** box size, double-box or not, weight class, what to remove or immobilize; for local pieces, what vehicle it fits.
+- **Quote to a buyer:** the one sentence that justifies the price (maker, year, what new/retail costs, why this variant).
 
 ## Buy rule
 Buy when: <price vs tier + condition>. Pass when: <…>. Profit must be ≥ max($50, price) after ~13% fees and shipping

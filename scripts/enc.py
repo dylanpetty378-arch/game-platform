@@ -8,7 +8,8 @@
   python3 scripts/enc.py index                # rebuild docs/encyclopedia/index.md from the entries
   python3 scripts/enc.py sync                 # write every entry's type rubric into db/item_types.jsonl (only changed ones)
   python3 scripts/enc.py volumes  # (no longer uploaded to the claude.ai project since Oct 13 — the website serves entries) <out_dir>    # bundle entries into A-B … T-Z volumes (for the claude.ai project copy)
-  python3 scripts/enc.py lint                 # entries missing required sections / rubric fields
+  python3 scripts/enc.py lint                 # entries missing required sections / rubric fields (--tells, --thin)
+  python3 scripts/enc.py sell <slug>          # print just the "Selling it" section (title words, platform, price position, photos, packing)
 
 Entry format: docs/encyclopedia/README.md. Rubric fields: docs/rubric.md. The rubric is a ```json block under
 "## Rubric" so it can be read by code.
@@ -172,9 +173,21 @@ def cmd_lint():
         if miss or rk:
             bad += 1; print(f'{slug:40} missing sections: {len(miss)}  rubric fields missing: {len(rk)}')
     gen = [slug for slug, t in entries() if '### Golden-egg tells' not in t]
-    print(bad, 'entries need work;', len(gen), 'without "### Golden-egg tells" (no-generalization rule, Oct 13) — see `enc.py lint --tells`')
+    thin = [slug for slug, t in entries() if len(selling(t).split()) < 60]
+    print(bad, 'entries need work;', len(gen), 'without "### Golden-egg tells" (no-generalization rule, Oct 13) — see `enc.py lint --tells`;',
+          len(thin), 'with a "Selling it" section under 60 words (sell-side template, Oct 28) — see `enc.py lint --thin`')
     if '--tells' in sys.argv:
         for g in gen: print(g)
+    if '--thin' in sys.argv:
+        for g in thin: print(g)
+
+def selling(t):
+    m = re.search(r'## Selling it[^\n]*\n(.*?)(?=\n## |\Z)', t, re.S)
+    return m.group(1).strip() if m else ''
+
+def cmd_sell(slug):
+    t = open(path(slug)).read()
+    print(title(t)); print(selling(t) or '(no Selling it section)')
 
 if __name__ == '__main__':
     a = sys.argv[1:]
@@ -188,4 +201,5 @@ if __name__ == '__main__':
     elif c == 'sync': cmd_sync()
     elif c == 'volumes': cmd_volumes(a[1])
     elif c == 'lint': cmd_lint()
+    elif c == 'sell': cmd_sell(a[1])
     else: print(__doc__)
