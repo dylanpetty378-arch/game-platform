@@ -201,5 +201,5 @@ if __name__ == '__main__':
     elif c == 'sync': cmd_sync()
     elif c == 'volumes': cmd_volumes(a[1])
     elif c == 'lint': cmd_lint()
-    elif c == 'sell': cmd_sell(a[1])
+    elif c == 'sell': cmd_sell(a[1]) if len(a) > 1 else print('usage: enc.py sell <slug>')
     else: print(__doc__)
